@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round four of the Norway Chess Women tournament saw Sara Khadem score her first classical win by defeating Lei Tingjie with black, climbing to fourth place in the standings. Anna Muzychuk and Humpy Koneru, the tournament co-leaders, both lost their Armageddon games - to Vaishali Rameshbabu and Ju Wenjun respectively - but continue to share the lead with 7 points. Friday will be a rest day in Stavanger. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-women-2025-4",
+         "pubDate" : "Fri, 30 May 2025 00:15:00",
+         "title" : "Norway Chess Women: Khadem collects first classical win"
+      },
+      {
+         "description" : "World Chess and the Algorand Foundation propose levelling the playing field with a \"chess passport\". In a whitepaper published last month, World Chess (LSE: CHSS) and the Algorand Foundation (ALGO) conceptualize a new blockchain-based system that would establish secure, private, and verifiable credentials for global sports organizations, including chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-chess-passport-is-here",
+         "pubDate" : "Thu, 29 May 2025 21:50:00",
+         "title" : "The \"Chess Passport\" is here"
+      },
+      {
          "description" : "The European School Chess Championship 2025 starts tomorrow in Mamaia, Romania and will be played from 30th of May 7th of June at the Complex Amiral - Comandor Orfeu. The event is played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. Each tournament will be played in 9 rounds, with the time control of 90 minutes with an increment of 30 seconds per move, starting from move one. The Championship gathers []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
          "pubDate" : "Thu, 29 May 2025 16:45:00",
          "title" : "Norway Chess - Live!"
-      },
-      {
-         "description" : "Round three of the Norway Chess Women tournament saw Humpy Koneru join Anna Muzychuk in the lead after scoring a classical win over Sara Khadem. Muzychuk, meanwhile, held a draw with black in her Armageddon game against Lei Tingjie and thus secured 1&frac12; points. In the third matchup, Ju Wenjun defeated Vaishali Rameshbabu in a tiebreak after drawing their classical encounter. Ju and Lei now share third place, two points behind the co-leaders. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-women-2025-3",
-         "pubDate" : "Thu, 29 May 2025 16:35:00",
-         "title" : "Norway Chess Women: Humpy and Muzychuk share the lead"
       },
       {
          "description" : " <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">Norway Chess</a> is being led by Fabiano Caruana with 6 points out of 9 after three rounds, the women's event is being led by Anna Muzychuk and Humpy Koneru also with 6/9. The event employs unique scoring system of 3 points for a win, 0 points for a loss and then 1.5 points or 1 point for a draw depending on the results of an Armageddon game. As reported Caruana lost to Hikaru Nakamura in Round 1 but since then he beat Wei Yi (25.Rxh5? cost Wei Yi the game) and then he took advantage of a couple of errors from Arjun Erigaisi in Round 3 to win that game also. The match up of Round 2 was Hikaru Nakamura against Magnu",
@@ -42,12 +50,12 @@ news_feed (
          "title" : "Norway Chess Open 2025 - Games and Results"
       },
       {
-         "description" : "Two classical victories marked the third round of the Norway Chess super-tournament in Stavanger. Fabiano Caruana continued his remarkable comeback by defeating Arjun Erigaisi with the white pieces, thus becoming the sole leader on 6 points. World champion Gukesh Dommaraju also collected a full 3 points after convincingly beating Hikaru Nakamura, bouncing back from a difficult start to the event. The third game of the day saw Wei Yi defeating Magnus Carlsen in Armageddon. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2025-r3",
-         "pubDate" : "Thu, 29 May 2025 13:20:00",
-         "title" : "Norway Chess: Caruana moves into sole lead, Gukesh scores"
+         "description" : "GM Magnus Carlsen scored a smooth win over GM Arjun Erigaisi in round four of Norway Chess 2025 to take the sole lead after GM Fabiano Caruana missed a classical win over GM Gukesh Dommaraju. The relieved world champion stormed to an armageddon wi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-norway-chess-round-4",
+         "pubDate" : "Thu, 29 May 2025 13:40:00",
+         "title" : "Carlsen Beats Arjun To Grab Sole Lead"
       },
       {
          "description" : " The 6th Stepan Avagyan Memorial takes place Thu 29th May to Fri 6th Jun 2025 in Jermuk, Armenia. The event has gradually grown in strength, starting at Category 10, then 15, then 16 twice, now 17 this year and last. Players: R Praggnanandhaa, Aravindh Chithambaram V, Samuel Sevian, Nodirbek Yakubboev, Benjamin Gledura, Buhl Bjerre Jonas, Robert Hovhannisyan, Dmitrij Kollars, Xu Xiangyu and Hakobyan Aram.",
@@ -80,6 +88,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-on-19th-birthday-d-gukesh-celebrates-with-win-over-hikaru-nakamura/articleshow/121480000.cms",
          "pubDate" : "Thu, 29 May 2025 04:53:45",
          "title" : "Norway Chess: On 19th birthday, Gukesh celebrates with win over Nakamura"
+      },
+      {
+         "description" : "DreamHack is where the gaming world comes to life. It's a festival of play, competition, and community all under one roof. DreamHack added its first chess competition in 2025, held last weekend at its Dallas convention. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> DreamHack Dallas champion GM Oleksandr Bortnyk (Photo by Alexey Root)<br> <br> <br> <br> Ukrainian GM Oleksandr Bortnyk, a popular streamer and Charlotte Chess Center coach, won the $6,000 top prize after winning the playoffs. In addition to the $20,000 prize fund, the top four finishers also won flights to Riydah, Saudi Arabia and hotel accommodations to compete in the Last Chance Qualifi",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/bortnyk-wins-inaugural-dreamhack-chess-tournament",
+         "pubDate" : "Thu, 29 May 2025 00:00:00",
+         "title" : "Bortnyk Wins Inaugural DreamHack Chess Tournament"
       },
       {
          "description" : " The second Hans Moke Niemann match against Daniil Dubov took place in the Raketa Creative Studio in Moscow, 27th to 28th May 2025. Just like the first match it was an 18 game 3m+2spm match, this time they were tied at 9-9 and the match was settled by two additional games, Niemann won the first and the second was drawn for a final score of 10.5-9.5, a great comeback as he was a point down at the end of day 1. I extracted the games from the live coverage on ENDGAME.AI which only gave me the moves, I also seemed to get the moves for the wrong game sometimes. I have 20 different game scores now. Please let me know if there are any errors as I can't guarantee the correctness, I did my best. I al",
@@ -762,28 +778,12 @@ news_feed (
          "title" : "In a restaurant in Paris"
       },
       {
-         "description" : "GM&#38;nbsp;Anna Muzychuk has won the 2025 Grosslobming FIDE Women&#39;s Grand Prix on tiebreaks over GM Zhu Jiner, but said afterward, &#34;it has never been so sad to win an event.&#34; Anna made a draw against GM Vaishali Rameshbabu which would have given her ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-9",
-         "pubDate" : "Thu, 15 May 2025 14:54:14",
-         "title" : "Anna Muzychuk's Saddest Win As Zhu, Goryachkina Reach Candidates"
-      },
-      {
          "description" : "The Board is continuing with the restructuring announced previously. As previewed at the Finance Council meeting, Alex Longson has stepped down as Finance Director and been appointed as Financial Controller....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/chief-executive-and-finance-director/",
          "pubDate" : "Thu, 15 May 2025 10:38:22",
          "title" : "Chief Executive and Finance Director"
-      },
-      {
-         "description" : "If any information is inaccurate, any names are misspelled or standings are incorrect, please email Click here to show email address with corrections or additional photos. All annotations by WGM Sabina Foisor.4,523 players competed in Orlando for SuperNationals VIII, held May 9-11 in Orlando, Florida at the Orange County Convention Center. Sunday night's flash report covers the results of the six Championship sections. Coverage of Thursday, Friday, and Saturday can be found here, and all games annotated by WGM Sabina Foisor from Friday and Saturday are in this study.Today's report shares more details and photos of the final day of competition, featuring more photos as well as Foisor's analys",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/full-report-champions-crowned-orlando",
-         "pubDate" : "Thu, 15 May 2025 00:00:00",
-         "title" : "Full Report: Champions Crowned in Orlando"
       },
       {
          "description" : "In the fourth world championship match between Garry Kasparov and Anatoly Karpov, played in Seville in 1987, the score was 12-11 in Karpov's favor, putting Kasparov in a must-win situation to retain his title. This game was the subject of our previous article. We invited our readers to analyze with us, to solve a historical riddle. Here are the results.",
