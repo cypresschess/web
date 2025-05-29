@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European School Chess Championship 2025 starts tomorrow in Mamaia, Romania and will be played from 30th of May 7th of June at the Complex Amiral - Comandor Orfeu. The event is played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. Each tournament will be played in 9 rounds, with the time control of 90 minutes with an increment of 30 seconds per move, starting from move one. The Championship gathers []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-school-chess-championship-2025-starts-in-mamaia-romania/",
+         "pubDate" : "Thu, 29 May 2025 18:47:29",
+         "title" : "European School Chess Championship 2025 starts in Mamaia, Romania"
+      },
+      {
          "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -818,14 +826,6 @@ news_feed (
          "title" : "Kevin Pryor chats with The Chess Drum"
       },
       {
-         "description" : "ECU E-Magazine April 2025 is out! In this edition of the ECU E-Magazine you may read about: The April 2025 issue of the ECU Magazine can be read online with interactive links on the following link, or it can be downloaded in PDF format below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-april-2025/",
-         "pubDate" : "Tue, 13 May 2025 10:39:34",
-         "title" : "ECU E-Magazine April 2025"
-      },
-      {
          "description" : "Former National Champion Grandmaster Murali Karthikeyan and Grandmaster Daneshvar Bardiya (Iran) continued to be in the top position by scoring smooth victories over Aleksey Grebnev",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -912,14 +912,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-r-praggnanandhaa-play-out-draw-in-superbet-classics-chess-tournament/articleshow/121016509.cms",
          "pubDate" : "Fri, 09 May 2025 03:43:34",
          "title" : "Gukesh, Pagg play out draw in Superbet Classics chess tournament"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121004726.cms\" />Indian Grandmaster Nihal Sarin rebounded strongly, defeating Nikita Matinian at the Asian Individual Chess Championship in Al Ain. Murali Karthikeyan secured his second consecutive victory, while S L Narayanan faced a setback. Vantika Agrawal led the women's section with two wins. Several higher-seeded players faced tough competition, as the Indian contingent performed well overall.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/nihal-sarin-bounces-back-as-indian-stars-shine-at-asian-chess-championship/articleshow/121004726.cms",
-         "pubDate" : "Thu, 08 May 2025 16:35:01",
-         "title" : "Nihal Sarin bounces back as Indian stars shine at Asian Chess Championship"
       }
    ]
 }
