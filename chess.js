@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this episode of Svitlana's Smart Moves, Svitlana and Arne analyse a historic World Championship game from the 1985 match between Karpov and Kasparov. The focus is on Kasparov's bold pawn sacrifice, 9...d5, in the Sicilian, which showcases deep home preparation and leads to him getting a powerful \"octopus knight\" on d3. The analysis reveals how Kasparov's strategic mastery and piece coordination slowly restricted Karpov's position until it collapsed under pressure. The episode highlights how classical games still offer valuable lessons, especially in regard to positional dominance and long-term planning.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-octopus-knight-of-kasparov",
+         "pubDate" : "Fri, 30 May 2025 22:00:00",
+         "title" : "Svitlana's Smart Moves - The octopus knight of Kasparov"
+      },
+      {
          "description" : " Magnus Carlsen leads the <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">Norway Chess</a> tournament with 8/12 after a win against Arjun Erigaisi in Round 4. Carlsen had an extra pawn in a major piece endgame but the engines stubbornly evaluated the position as more or less equal. Carlsen said he predicted Erigaisi's mistake, 30...Re6?, which quickly allowed Carlsen to obtain a winning endgame. Instead Carlsen's suggestion of 30...Qe7 or the computer's 30...h5 would have likely led to a draw. Even Carlsen's win would not have been enough to lead had Fabiano Caruana converted his long term big advantage against World Champion Gukesh. The moment was 48.Qf4? from G",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -18,6 +26,14 @@ news_feed (
          "title" : "KCF: Michael Prusikin Live"
       },
       {
+         "description" : "GM Oleksandr Bortnyk took home his third Freestyle Friday on May 30, tying him with GMs Hikaru Nakamura and Arjun Erigaisi for the most so far, and he did it with a last-minute comeback. Bortnyk scored 9.5/11, passing GM Leon Luke Mendonca in the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-may-30-2025",
+         "pubDate" : "Fri, 30 May 2025 13:42:02",
+         "title" : "Bortnyk Finishes Freestyle Friday First With Flair"
+      },
+      {
          "description" : "Magnus Carlsen took the sole lead at the 2025 Norway Chess tournament by defeating Arjun Erigaisi in classical play during round four. World champion Gukesh Dommaraju and Wei Yi both scored 1&frac12; points in their respective mini-matches, prevailing in Armageddon after drawing their classical games against Fabiano Caruana and Hikaru Nakamura. With a rest day ahead, Carlsen stands on 8 points, one ahead of Caruana, while Nakamura holds third place with 5&frac12;. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-musical-gets-broadway-revival",
-         "pubDate" : "Fri, 30 May 2025 09:57:49",
+         "pubDate" : "Fri, 30 May 2025 09:57:00",
          "title" : "Cult Musical \"Chess\" Returns To Broadway After 37 Years"
       },
       {
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/fide-world-rapid-and-blitz-team-championships-tickets-now-available/",
          "pubDate" : "Fri, 16 May 2025 12:05:57",
          "title" : "FIDE World Rapid and Blitz Team Championships - tickets now available!"
-      },
-      {
-         "description" : "GM Praggnanandhaa Rameshbabu won the Superbet Chess Classic Romania 2025, his first Grand Chess Tour victory. He earns $77,667 and 10 GCT points.&#38;nbsp; The path was far from smooth. He drew comfortably against GM Levon Aronian in his last classi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-2025-gct-superbet-chess-classic-romania",
-         "pubDate" : "Fri, 16 May 2025 10:58:00",
-         "title" : "Praggnanandhaa Wins His 1st GCT Event After Blitz Playoffs"
       },
       {
          "description" : "The 2025 Mitropa Chess Cup commenced in Trenč&iacute;n, Slovakia and takes place from 14-23 May with separate Open and Women's competitions and participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland. The Championships are played in 9 rounds, round-robin system, with time control of 90 minutes for 40 moves, followed by 30 minutes to finish the game, with 30 seconds increment for each move from move one. Each team consists of 4 players, []",
