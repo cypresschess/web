@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen took the sole lead at the 2025 Norway Chess tournament by defeating Arjun Erigaisi in classical play during round four. World champion Gukesh Dommaraju and Wei Yi both scored 1&frac12; points in their respective mini-matches, prevailing in Armageddon after drawing their classical games against Fabiano Caruana and Hikaru Nakamura. With a rest day ahead, Carlsen stands on 8 points, one ahead of Caruana, while Nakamura holds third place with 5&frac12;. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2025-4",
+         "pubDate" : "Fri, 30 May 2025 13:35:00",
+         "title" : "Norway Chess: Carlsen scores classical win over Arjun, grabs the lead"
+      },
+      {
          "description" : " Home hope leads after four rounds at Stavanger following his comprehensive victory in the Speed Championship Magnus Carlsen arrived in vintage form at the start of the Norway Chess tournament. The encounter began inconclusively with the six stars - in ranking order Carlsen, Hikaru Nakamura, Fabiano Caruana, Arjun Erigaisi, Gujesh Dommaraju and Wei Yi - all launching a win or two. Gukesh, who celebrated his 19th birthday on Wednesday, won in round three against Nakamura. Carlsen's version of one of Bobby Fischer's favourite openings set the tone last week for another clean sweep of the No 1 of the global elite. Carlsen's comprehensive victory in the <a href=\"http://chess.com/\">chess.com</a> ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/may/30/magnus-carlsen-norway-chess",
          "pubDate" : "Fri, 30 May 2025 07:00:48",
          "title" : "Magnus Carlsen sets early pace as stars collide at Norway Chess"
-      },
-      {
-         "description" : "Round four of the Norway Chess Women tournament saw Sara Khadem score her first classical win by defeating Lei Tingjie with black, climbing to fourth place in the standings. Anna Muzychuk and Humpy Koneru, the tournament co-leaders, both lost their Armageddon games - to Vaishali Rameshbabu and Ju Wenjun respectively - but continue to share the lead with 7 points. Friday will be a rest day in Stavanger. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-women-2025-4",
-         "pubDate" : "Fri, 30 May 2025 00:15:00",
-         "title" : "Norway Chess Women: Khadem collects first classical win"
       },
       {
          "description" : "World Chess and the Algorand Foundation propose levelling the playing field with a \"chess passport\". In a whitepaper published last month, World Chess (LSE: CHSS) and the Algorand Foundation (ALGO) conceptualize a new blockchain-based system that would establish secure, private, and verifiable credentials for global sports organizations, including chess.",
@@ -32,14 +32,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2025-starts-in-mamaia-romania/",
          "pubDate" : "Thu, 29 May 2025 18:47:29",
          "title" : "European School Chess Championship 2025 starts in Mamaia, Romania"
-      },
-      {
-         "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
-         "pubDate" : "Thu, 29 May 2025 16:45:00",
-         "title" : "Norway Chess - Live!"
       },
       {
          "description" : " <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">Norway Chess</a> is being led by Fabiano Caruana with 6 points out of 9 after three rounds, the women's event is being led by Anna Muzychuk and Humpy Koneru also with 6/9. The event employs unique scoring system of 3 points for a win, 0 points for a loss and then 1.5 points or 1 point for a draw depending on the results of an Armageddon game. As reported Caruana lost to Hikaru Nakamura in Round 1 but since then he beat Wei Yi (25.Rxh5? cost Wei Yi the game) and then he took advantage of a couple of errors from Arjun Erigaisi in Round 3 to win that game also. The match up of Round 2 was Hikaru Nakamura against Magnu",
@@ -98,7 +90,7 @@ news_feed (
          "title" : "Norway Chess: On 19th birthday, Gukesh celebrates with win over Nakamura"
       },
       {
-         "description" : "DreamHack is where the gaming world comes to life. It's a festival of play, competition, and community all under one roof. DreamHack added its first chess competition in 2025, held last weekend at its Dallas convention. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> DreamHack Dallas champion GM Oleksandr Bortnyk (Photo by Alexey Root)<br> <br> <br> <br> Ukrainian GM Oleksandr Bortnyk, a popular streamer and Charlotte Chess Center coach, won the $6,000 top prize after winning the playoffs. In addition to the $20,000 prize fund, the top four finishers also won flights to Riydah, Saudi Arabia and hotel accommodations to compete in the Last Chance Qualifi",
+         "description" : "DreamHack is where the gaming world comes to life. It's a festival of play, competition, and community all under one roof. DreamHack added its first chess competition in 2025, held last weekend at its Dallas convention. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> DreamHack Dallas champion GM Oleksandr Bortnyk (Photo by Alexey Root)<br> <br> <br> <br> Ukrainian GM Oleksandr Bortnyk, a popular streamer and Charlotte Chess Center coach, won the $6,000 top prize after winning the playoffs. In addition to the $20,000 prize fund, the top four finishers also won flights to Riyadh, Saudi Arabia, and hotel accommodations to compete in the Last Chance Qualif",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/bortnyk-wins-inaugural-dreamhack-chess-tournament",
