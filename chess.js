@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Home hope leads after four rounds at Stavanger following his comprehensive victory in the Speed Championship Magnus Carlsen arrived in vintage form at the start of the Norway Chess tournament. The encounter began inconclusively with the six stars - in ranking order Carlsen, Hikaru Nakamura, Fabiano Caruana, Arjun Erigaisi, Gujesh Dommaraju and Wei Yi - all launching a win or two. Gukesh, who celebrated his 19th birthday on Wednesday, won in round three against Nakamura. Carlsen's version of one of Bobby Fischer's favourite openings set the tone last week for another clean sweep of the No 1 of the global elite. Carlsen's comprehensive victory in the <a href=\"http://chess.com/\">chess.com</a> ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/may/30/magnus-carlsen-norway-chess",
+         "pubDate" : "Fri, 30 May 2025 07:00:48",
+         "title" : "Magnus Carlsen sets early pace as stars collide at Norway Chess"
+      },
+      {
          "description" : "Round four of the Norway Chess Women tournament saw Sara Khadem score her first classical win by defeating Lei Tingjie with black, climbing to fourth place in the standings. Anna Muzychuk and Humpy Koneru, the tournament co-leaders, both lost their Armageddon games - to Vaishali Rameshbabu and Ju Wenjun respectively - but continue to share the lead with 7 points. Friday will be a rest day in Stavanger. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -888,30 +896,6 @@ news_feed (
          "link" : "https://aicf.in/round-2-report-on-asian-individual-chess-championships-al-ain-u-a-e-7th-to-15th-may-2025/",
          "pubDate" : "Fri, 09 May 2025 16:22:21",
          "title" : "ROUND 2 Report on Asian Individual Chess Championships, Al Ain, U.A.E 7th to 15th May, 2025. "
-      },
-      {
-         "description" : "Please find the link here Link http://kiit16.liveblog365.com/chess/",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-game-link-for-16th-kiit-internationalchess-festival-2025/",
-         "pubDate" : "Fri, 09 May 2025 06:33:36",
-         "title" : "Live game link for 16th KIIT INTERNATIONALCHESS FESTIVAL 2025"
-      },
-      {
-         "description" : " The Isle of Man team enlisted two young English stars to help regain the 4NCL title that they won in 2022 and 2023 The Four Nations Chess League (4NCL) is a bedrock of British chess. Staged over 11 rounds and five weekends from October to May at Midlands hotels, with teams of eight in the top division and six in divisions two to four, it attracts players from club level to grandmaster, many of whom do not compete in any other national event. Its organisation, by the English Chess Federation chief executive, Mike Truran, and a hardworking team of arbiters, is consistently excellent. As expected, the 2024-25 season ended last Monday with a close 11th round match between the favourites and def",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/may/09/manx-libertys-wildcards-deliver-in-style-to-regain-british-team-chess-crown",
-         "pubDate" : "Fri, 09 May 2025 06:30:52",
-         "title" : "Manx Liberty's wildcards deliver in style to regain British team chess crown"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121016509.cms\" />Indian chess prodigies D Gukesh and R Praggnanandhaa both drew their second-round games at the Superbet Classics. Gukesh, playing with black against Nodirbek Abdusattorov, comfortably equalized in an Italian opening, neutralizing Abdusattorov's attempts to create an advantage. Praggnanandhaa also had a relatively easy time securing a draw with black against Fabiano Caruana.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-r-praggnanandhaa-play-out-draw-in-superbet-classics-chess-tournament/articleshow/121016509.cms",
-         "pubDate" : "Fri, 09 May 2025 03:43:34",
-         "title" : "Gukesh, Pagg play out draw in Superbet Classics chess tournament"
       }
    ]
 }
