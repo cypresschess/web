@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Magnus Carlsen leads the <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">Norway Chess</a> tournament with 8/12 after a win against Arjun Erigaisi in Round 4. Carlsen had an extra pawn in a major piece endgame but the engines stubbornly evaluated the position as more or less equal. Carlsen said he predicted Erigaisi's mistake, 30...Re6?, which quickly allowed Carlsen to obtain a winning endgame. Instead Carlsen's suggestion of 30...Qe7 or the computer's 30...h5 would have likely led to a draw. Even Carlsen's win would not have been enough to lead had Fabiano Caruana converted his long term big advantage against World Champion Gukesh. The moment was 48.Qf4? from G",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-friday-30th-may-2025",
+         "pubDate" : "Fri, 30 May 2025 18:32:00",
+         "title" : "Chess on Friday 30th May 2025 - "
+      },
+      {
+         "description" : "The Kasparov Chess Foundation is pleased to announce that grandmaster Michael Prusikin will be delivering a live lecture at KCF Academy on Sunday, June 1. Prusikin is a German chess grandmaster and a renowned chess coach, originally from Kharkiv, Ukraine, born on January 19, 1978. Alongside his playing career, he has always focused on chess teaching, making it a significant part of his professional life. He holds the title of FIDE Senior Trainer. Listen to him live this Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-michael-prusikin-live",
+         "pubDate" : "Fri, 30 May 2025 18:00:00",
+         "title" : "KCF: Michael Prusikin Live"
+      },
+      {
          "description" : "Magnus Carlsen took the sole lead at the 2025 Norway Chess tournament by defeating Arjun Erigaisi in classical play during round four. World champion Gukesh Dommaraju and Wei Yi both scored 1&frac12; points in their respective mini-matches, prevailing in Armageddon after drawing their classical games against Fabiano Caruana and Hikaru Nakamura. With a rest day ahead, Carlsen stands on 8 points, one ahead of Caruana, while Nakamura holds third place with 5&frac12;. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +26,15 @@ news_feed (
          "title" : "Norway Chess: Carlsen scores classical win over Arjun, grabs the lead"
       },
       {
-         "description" : " Home hope leads after four rounds at Stavanger following his comprehensive victory in the Speed Championship Magnus Carlsen arrived in vintage form at the start of the Norway Chess tournament. The encounter began inconclusively with the six stars - in ranking order Carlsen, Hikaru Nakamura, Fabiano Caruana, Arjun Erigaisi, Gujesh Dommaraju and Wei Yi - all launching a win or two. Gukesh, who celebrated his 19th birthday on Wednesday, won in round three against Nakamura. Carlsen's version of one of Bobby Fischer's favourite openings set the tone last week for another clean sweep of the No 1 of the global elite. Carlsen's comprehensive victory in the <a href=\"http://chess.com/\">chess.com</a> ",
+         "description" : "For the first time since its original run in 1988, the cult musical Chess will get its long-awaited Broadway return in New York City this fall. The production will star Emmy Award nominee Lea Michele, Tony Award winner Aaron Tveit, and Nicholas Ch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-musical-gets-broadway-revival",
+         "pubDate" : "Fri, 30 May 2025 09:57:49",
+         "title" : "Cult Musical \"Chess\" Returns To Broadway After 37 Years"
+      },
+      {
+         "description" : " Home hope leads after four rounds at Stavanger following his comprehensive victory in the Speed Championship Magnus Carlsen arrived in vintage form at the start of the Norway Chess tournament. The encounter began inconclusively with the six stars - in ranking order Carlsen, Hikaru Nakamura, Fabiano Caruana, Arjun Erigaisi, Gukesh Dommaraju and Wei Yi - all launching a win or two. Gukesh, who celebrated his 19th birthday on Thursday, won in round three against Nakamura. Carlsen's version of one of Bobby Fischer's favourite openings set the tone last week for another clean sweep of the No 1 of the global elite. Carlsen's comprehensive victory in the <a href=\"http://chess.com/\">chess.com</a> S",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/may/30/magnus-carlsen-norway-chess",
@@ -498,14 +522,6 @@ news_feed (
          "title" : "US Chess Offices Closed Monday, May 26"
       },
       {
-         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/96th-ch-ger-2025\">German Championships</a> were essentially decided when Vincent Keymer beat Matthias Bluebaum in Round 7 and moved two points clear with two rounds to go. Magnus Carlsen beat Nodirbek Abdusattorov 3-1 and Hikaru Nakamura also 3-1 to win the Winners final of the online <a href=\"https://theweekinchess.com/chessnews/events/chess.com-classic-2025\">Chess.com Classic</a>. The Carlsen-Nakamura match ended extraordinarily with Nakamura resigning in a won position with about three minutes on the clock. It's hard not to think this is an indication of the psychological grip Carlsen has over many of his rivals. It's double elimin",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-wednesday-21st-may-2025",
-         "pubDate" : "Wed, 21 May 2025 21:00:00",
-         "title" : "Chess on Wednesday 21st May 2025 - "
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-world-chess-hall-of-fame-galleries-and-grand-chess-tour-launch-150000-matching-donation-campaign-for-saint-louis-tornado-relief/\">Saint Louis Chess Club, World Chess Hall of Fame &amp; Galleries and Grand Chess Tour Launch $150,000 Matching Donation Campaign for Saint Louis Tornado Relief</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -754,14 +770,6 @@ news_feed (
          "title" : "Mitropa Chess Cup 2025 commenced in Slovakia"
       },
       {
-         "description" : "Aerial Powers, WNBA Champion and co-owner of Team Liquid (who will be represented at the Esports World Cup this summer by GMs Magnus Carlsen and Fabiano Caruana), appeared with FM James Canty III and others at the Center of Science and Industry (C...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aerial-powers-chess-workshop",
-         "pubDate" : "Fri, 16 May 2025 08:00:02",
-         "title" : "WNBA Champion Aerial Powers Holds Chess Workshop; New Playable Bot Out Now"
-      },
-      {
          "description" : " The 18-year-old Indian finished joint sixth to ninth out of 10 after Friday's final round, while Praggnanandhaa Rameshbabu, 19, won first prize after a three-way playoff India's world champion, Gukesh Dommaraju, hoped for a comeback at Bucharest this week after his dismal Freestyle performances in north Germany and Paris in the spring. Instead, the top-seeded 18-year-old was defeated by France's pair of Maxime Vachier-Lagrave, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2889148He\">in 31 moves</a>, and Alireza Firouzja, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2890509\">in 69 moves</a>, before scoring a <a href=\"https://www.chessgames.com/perl/chessgame?gid=2892442\">4",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -880,14 +888,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-kandivali-west-mumbai-on-24-25-may-2025/",
          "pubDate" : "Sat, 10 May 2025 10:44:12",
          "title" : "SNA Seminar & Exam in Kandivali West ,Mumbai on 24 & 25 May 2025"
-      },
-      {
-         "description" : " The round two of the Asian Individual Chess Championships saw a brilliant display by most of the Indian participants. On the top board, International",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/round-2-report-on-asian-individual-chess-championships-al-ain-u-a-e-7th-to-15th-may-2025/",
-         "pubDate" : "Fri, 09 May 2025 16:22:21",
-         "title" : "ROUND 2 Report on Asian Individual Chess Championships, Al Ain, U.A.E 7th to 15th May, 2025. "
       }
    ]
 }
