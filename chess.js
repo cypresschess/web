@@ -47,7 +47,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-musical-gets-broadway-revival",
          "pubDate" : "Fri, 30 May 2025 09:57:00",
-         "title" : "Cult Musical \"Chess\" Returns To Broadway After 37 Years"
+         "title" : "Cult Musical 'Chess' Returns To Broadway After 37 Years"
       },
       {
          "description" : " Home hope leads after four rounds at Stavanger following his comprehensive victory in the Speed Championship Magnus Carlsen arrived in vintage form at the start of the Norway Chess tournament. The encounter began inconclusively with the six stars - in ranking order Carlsen, Hikaru Nakamura, Fabiano Caruana, Arjun Erigaisi, Gukesh Dommaraju and Wei Yi - all launching a win or two. Gukesh, who celebrated his 19th birthday on Thursday, won in round three against Nakamura. Carlsen's version of one of Bobby Fischer's favourite openings set the tone last week for another clean sweep of the No 1 of the global elite. Carlsen's comprehensive victory in the <a href=\"http://chess.com/\">chess.com</a> S",
