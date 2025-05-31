@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 18th American Continental took place Fri 23rd to Sat 31st May 2025 in Foz do Iguacu, Brazil. The event was won by Sam Shankland on tie-break from Jose Eduardo Martinez Alcantara, Alexandr Fier and Jose Gabriel Cardoso Cardoso, these top four qualified for the FIDE World Cup and scored 8.5/11, as did Cristobal Henriquez Villagra, Luis Paulo Supi and Santiago Avila Pavas. Alexandr Fier won the final of the blitz with 7.5/9.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/18th-american-continental-2025",
+         "pubDate" : "Sat, 31 May 2025 19:57:00",
+         "title" : "18th American Continental 2025 - Games and Results"
+      },
+      {
          "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -522,14 +530,6 @@ news_feed (
          "title" : "European Union Youth U8-U14 Chess Championship 2025"
       },
       {
-         "description" : " The French Interclubs Top 16 takes place in Belfort Thu 22nd May to Sun 1st Jun 2025. The format is 7 preliminary rounds in two groups before the top half in each group go to Poule Haute and the bottom half to Poule Basse to decide titles and relegation. Whilst it's by no means a given that all these players will play the team lists include: Firouzja, Niemann, MVL, Harikrishna, Esipenko, Jorden Van Foreest, Kasimdzhanov, Sadhwani, Tabatabaei, Eljanov, Karthikeyan, Murzin, Mamedov, Navara, Yuffa, Gawain Maroroa Jones, Gelfand, Dardha, Amin Bassem, Ivanchuk etc. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/french-interclubs-top-16-2025",
-         "pubDate" : "Thu, 22 May 2025 12:10:00",
-         "title" : "French Interclubs Top 16 2025 - Games and Results"
-      },
-      {
          "description" : "GM Maxime Vachier-Lagrave won three matches in the Losers Bracket to earn his spot in the 2025 Chess.com Classic Grand Final against GM Magnus Carlsen. He won his first match against GM Ian Nepomniachtchi in armageddon, accepting a draw with Black...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -896,14 +896,6 @@ news_feed (
          "link" : "https://www.thearticle.com/tarrasch-versus-nimzowitsch/",
          "pubDate" : "Sun, 11 May 2025 11:31:17",
          "title" : "Tarrasch versus Nimzowitsch"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121063242.cms\" />D Gukesh faced a shocking defeat against Maxime Vachier-Lagrave in the Superbet Classic, while R Praggnanandhaa held a draw, maintaining his position at the top. Levon Aronian secured his first victory by defeating Jan-Krzysztof Duda. Praggnanandhaa, Caruana, and Vachier-Lagrave are now jointly leading the tournament after four rounds.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-suffers-shock-defeat-praggnanandhaa-in-joint-lead-at-superbet-classic/articleshow/121063242.cms",
-         "pubDate" : "Sat, 10 May 2025 17:23:55",
-         "title" : "Gukesh suffers shock defeat, Praggnanandhaa in joint lead at Superbet Classic"
       }
    ]
 }
