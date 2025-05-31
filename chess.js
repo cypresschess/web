@@ -2,14 +2,6 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The 18th American Continental took place Fri 23rd to Sat 31st May 2025 in Foz do Iguacu, Brazil. The event was won by Sam Shankland on tie-break from Jose Eduardo Martinez Alcantara, Alexandr Fier and Jose Gabriel Cardoso Cardoso, these top four qualified for the FIDE World Cup and scored 8.5/11, as did Cristobal Henriquez Villagra, Luis Paulo Supi and Santiago Avila Pavas. Alexandr Fier won the final of the blitz with 7.5/9.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/18th-american-continental-2025",
-         "pubDate" : "Sat, 31 May 2025 19:57:00",
-         "title" : "18th American Continental 2025 - Games and Results"
-      },
-      {
          "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +10,12 @@ news_feed (
          "title" : "Norway Chess - Live!"
       },
       {
-         "description" : " The 3rd Cambridge International Open took place Mon 26th to Sat 31st May 2025. Top seeds Michael Adams and Sergei Tiviakov. Michael Adams edged out Brandon Clarke on tie-break after both finished on 7/9.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/3rd-cambridge-international-open-2025",
-         "pubDate" : "Sat, 31 May 2025 15:35:00",
-         "title" : "3rd Cambridge International Open 2025 - Games and Results"
+         "description" : "Round five of Norway Chess 2025 featured three classical draws followed by three armageddon wins. GM Magnus Carlsen won the armageddon game with Black against GM Fabiano Caruana to extend his lead. GM Hikaru Nakamura had winning chances in both th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-norway-chess-round-5",
+         "pubDate" : "Sat, 31 May 2025 13:44:00",
+         "title" : "Carlsen, Humpy Lead; Nakamura Blunders Vs. Arjun"
       },
       {
          "description" : "It's fascinating how many questions I ask myself that I actually already know the answers to. &#8220;If more information was the answer, we'd all be billionaires with perfect abs.&#8221; Derek Sivers Like many of my students, I often fall into the trap of searching for the \"perfect\" answer to a question. I'll spend hours []",
@@ -56,14 +48,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/future-is-very-bright-for-indian-chess-world-no-1-magnus-carlsen-at-norway-chess-2025/articleshow/121532393.cms",
          "pubDate" : "Sat, 31 May 2025 08:18:44",
          "title" : "'Future is very bright for Indian chess': World No. 1 Magnus Carlsen"
-      },
-      {
-         "description" : " Magnus Carlsen leads the <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">Norway Chess</a> tournament with 8/12 after a win against Arjun Erigaisi in Round 4. Carlsen had an extra pawn in a major piece endgame but the engines stubbornly evaluated the position as more or less equal. Carlsen said he predicted Erigaisi's mistake, 30...Re6?, which quickly allowed Carlsen to obtain a winning endgame. Instead Carlsen's suggestion of 30...Qe7 or the computer's 30...h5 would have likely led to a draw. Even Carlsen's win would not have been enough to lead had Fabiano Caruana converted his long term big advantage against World Champion Gukesh. The moment was 48.Qf4? from G",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-friday-30th-may-2025",
-         "pubDate" : "Fri, 30 May 2025 18:32:00",
-         "title" : "Chess on Friday 30th May 2025 - "
       },
       {
          "description" : "The Kasparov Chess Foundation is pleased to announce that grandmaster Michael Prusikin will be delivering a live lecture at KCF Academy on Sunday, June 1. Prusikin is a German chess grandmaster and a renowned chess coach, originally from Kharkiv, Ukraine, born on January 19, 1978. Alongside his playing career, he has always focused on chess teaching, making it a significant part of his professional life. He holds the title of FIDE Senior Trainer. Listen to him live this Sunday.",
@@ -114,44 +98,12 @@ news_feed (
          "title" : "European School Chess Championship 2025 starts in Mamaia, Romania"
       },
       {
-         "description" : " <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">Norway Chess</a> is being led by Fabiano Caruana with 6 points out of 9 after three rounds, the women's event is being led by Anna Muzychuk and Humpy Koneru also with 6/9. The event employs unique scoring system of 3 points for a win, 0 points for a loss and then 1.5 points or 1 point for a draw depending on the results of an Armageddon game. As reported Caruana lost to Hikaru Nakamura in Round 1 but since then he beat Wei Yi (25.Rxh5? cost Wei Yi the game) and then he took advantage of a couple of errors from Arjun Erigaisi in Round 3 to win that game also. The match up of Round 2 was Hikaru Nakamura against Magnu",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-thursday-29th-may-2025",
-         "pubDate" : "Thu, 29 May 2025 15:37:00",
-         "title" : "Chess on Thursday 29th May 2025 - "
-      },
-      {
-         "description" : " The Norway Chess Open takes place 26th May to 1st June 2025. Gergely Kantor and Elham Amar are the top seeds. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/norway-chess-open-2025",
-         "pubDate" : "Thu, 29 May 2025 15:20:00",
-         "title" : "Norway Chess Open 2025 - Games and Results"
-      },
-      {
          "description" : "GM Magnus Carlsen scored a smooth win over GM Arjun Erigaisi in round four of Norway Chess 2025 to take the sole lead after GM Fabiano Caruana missed a classical win over GM Gukesh Dommaraju. The relieved world champion stormed to an armageddon wi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-norway-chess-round-4",
          "pubDate" : "Thu, 29 May 2025 13:40:00",
          "title" : "Carlsen Beats Arjun To Grab Sole Lead"
-      },
-      {
-         "description" : " The 6th Stepan Avagyan Memorial takes place Thu 29th May to Fri 6th Jun 2025 in Jermuk, Armenia. The event has gradually grown in strength, starting at Category 10, then 15, then 16 twice, now 17 this year and last. Players: R Praggnanandhaa, Aravindh Chithambaram V, Samuel Sevian, Nodirbek Yakubboev, Benjamin Gledura, Buhl Bjerre Jonas, Robert Hovhannisyan, Dmitrij Kollars, Xu Xiangyu and Hakobyan Aram.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/6th-stepan-avagyan-memorial-2025",
-         "pubDate" : "Thu, 29 May 2025 12:31:00",
-         "title" : "6th Stepan Avagyan Memorial 2025 - Games and Results"
-      },
-      {
-         "description" : " The Titled Tuesday Blitz 27th May 2025 events were missing both regular winners Hikaru Nakamura and Magnus Carlsen who were otherwise engaged in Stavanger. The early event was won by Wesley So. Key to victory was his Round 9 win over second placed Rinat Jumabayev, 33.Bf4? was the decisive error. So then beat Denis Lazavik and drew with Anish Giri in the final round. Tuan Minh Le is a reasonably regular winner of Titled Tuesdays, he drew against 4th and 3rd placed Frederik Svane and Jeffery Xiong in rounds 10 and 11 respectively and won all the rest of his games.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-27th-may-2025",
-         "pubDate" : "Thu, 29 May 2025 10:40:00",
-         "title" : "Titled Tuesday Blitz 27th May 2025 - Games and Results"
       },
       {
          "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2025 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2025 to be held in Batumi, Georgia on Saturday 11th October 2025. The official venue of the ECU GA will be in the hosting Hotels. The exact room will be announced later. The Assembly starts at 9.30 am. ECU will provide free of charge 3 nights for the ECU Delegates for []",
@@ -176,14 +128,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/bortnyk-wins-inaugural-dreamhack-chess-tournament",
          "pubDate" : "Thu, 29 May 2025 00:00:00",
          "title" : "Bortnyk Wins Inaugural DreamHack Chess Tournament"
-      },
-      {
-         "description" : " The second Hans Moke Niemann match against Daniil Dubov took place in the Raketa Creative Studio in Moscow, 27th to 28th May 2025. Just like the first match it was an 18 game 3m+2spm match, this time they were tied at 9-9 and the match was settled by two additional games, Niemann won the first and the second was drawn for a final score of 10.5-9.5, a great comeback as he was a point down at the end of day 1. I extracted the games from the live coverage on ENDGAME.AI which only gave me the moves, I also seemed to get the moves for the wrong game sometimes. I have 20 different game scores now. Please let me know if there are any errors as I can't guarantee the correctness, I did my best. I al",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/niemann-vs-dubov-raketa-match-2025",
-         "pubDate" : "Wed, 28 May 2025 18:46:00",
-         "title" : "Niemann vs Dubov Raketa Match 2025 - Games and Results"
       },
       {
          "description" : "Entries are now open for the 2025 Northumbria Masters (20-25 August at Darlington's Dolphin Centre), a six-day, nine-round FIDE-rated congress at https://northumbriamasters.com.&#160;Tournaments include Open Super-Swiss (eligible for title norms), Challengers...",
@@ -290,44 +234,12 @@ news_feed (
          "title" : "Tactics Tuesday: SuperNationals VIII, Pt. 3"
       },
       {
-         "description" : " Magnus Carlsen beat World Champion D Gukesh in the first round of the <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">13th Norway Chess tournament</a>. Carlsen tried to surprise Gukesh in the opening with the London but ended up being surprised himself with 4....Bg4. There was a long struggle that led to a sharp endgame and down to less than 10 seconds on the clock Gukesh blundered away a draw with 46.Qh6? instead of 46.Rg2+ which was his only move. Hikaru Nakamura won in the endgame too, against Fabiano Caruana. Arjun Erigaisi drew against Wei Yi with the black pieces but beat him in the Armageddon. This extra game divides the points between the players in case",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-monday-26th-may-2025",
-         "pubDate" : "Mon, 26 May 2025 22:35:00",
-         "title" : "Chess on Monday 26th May 2025 - "
-      },
-      {
-         "description" : " The 13th Norway Chess tournament takes place Mon 26th May to Fri 6th Jun 2025 in Stavanger, Norway. There are two elite tournaments, the regular tournament and a women's event, both are 6 players and 10 rounds. Norway chess have a unique twist in that if games are drawn there is an additional Armageddon game. So the points are: Win in the classical game: 3 points, Loss in the classical game: 0 points, Draw in the classical game & win Armageddon: 1&frac12; points, Draw in the classical game & loss Armageddon: 1 point. Players: Magnus Carlsen, Hikaru Nakamura, D Gukesh, Arjun Erigaisi, Fabiano Caruana and Wei Yi. Women's event: Ju Wenjun, Lei Tingjie, Humpy Koneru, Anna Muzychuk,Rameshbabu Va",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/13th-norway-chess-2025",
-         "pubDate" : "Mon, 26 May 2025 21:58:00",
-         "title" : "13th Norway Chess 2025 - "
-      },
-      {
-         "description" : " The Match of Two Capitals took place in Moscow Sat 24th to Mon 26th May 2025. Daniil Dubov representing Moscow and Maxim Matlakov representing St Petersburg played a six game classical (90m + 30spm) two games per day. Dubov won game three, the rest were drawn with a final result of 3.5-2.5.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/match-of-two-capitals-2025",
-         "pubDate" : "Mon, 26 May 2025 19:18:00",
-         "title" : "Match of Two Capitals 2025 - Games and Results"
-      },
-      {
          "description" : " &#8220;Africa Day&#8221; is commemorated on May 25th of every year as a rallying cry for Pan-African unity, justice, and regional collaboration. The day celebrates the founding of the Organization of African Unity (OAU) in 1963. The OAU became the African Union (AU) in 2002. This year marks the 62nd anniversary of the organization's founding. This The post <a href=\"https://thechessdrum.net/blog/2025/05/26/african-chess-celebrates-africa-day/\">African Chess celebrates &#8220;Africa Day&#8221;</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/05/26/african-chess-celebrates-africa-day/",
          "pubDate" : "Mon, 26 May 2025 17:12:59",
          "title" : "African Chess celebrates \"Africa Day\""
-      },
-      {
-         "description" : " The 30th Tepe Sigeman & Co Chess Tournament took place in Malmo, Sweden, Tue 20th to Mon 26th May 2025. Players: Richard Rapport, Javokhir Sindarov, Ray Robson, Nils Grandelius, Vasyl Ivanchuk, Erwin L'Ami (a last minute replacement for Vidit Gujrathi), Tan Zhongyi and Yagiz Kaan Erdogmus. Javokhir Sindarov won the event with an undefeated 4.5/7 - he defeated Erwin L'Ami and Tan Zhongyi. Half a point behind was Yagiz Kaan Erdogmus who just lost the one game, to Vasyl Ivanchuk, Nils Grandelius beat Tan Zhongyi in the final round to catch him. Vasyl Ivanchuk's good recent run was undone by two losses on time. The organisers must be very pleased as they got a tournament with something interest",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025",
-         "pubDate" : "Mon, 26 May 2025 16:50:00",
-         "title" : "Tepe Sigeman & Co Chess Tournament 2025 - Games and Results"
       },
       {
          "description" : "GM Magnus Carlsen won a spectacular king hunt to beat World Champion Gukesh Dommaraju in Norway Chess 2025 in their first classical game since Gukesh won the title. The day&#39;s other classical winner was GM Hikaru Nakamura, who ground down GM Fabian...",
@@ -362,22 +274,6 @@ news_feed (
          "title" : "Giri Wins 2025 Sharjah Masters, Assaubayeva Earns GM Title"
       },
       {
-         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025\">30th Sigeman & Co tournament</a> is still being led by Javokhir Sindarov on 4/6 who drew against Nils Grandelius in round 6. He faces Vasyl Ivanchuk in the final round. Ivanchuk suffered his second loss of the tournament on time in his defeat by Richard Rapport. This was a wild London where Ivanchuk equalised, then got into trouble and was lost, was allowed back into the game and then lost on time. Yagiz Kaan Erdogmus drew with Ray Robson in 109 moves. Tan Zhongyi drew with Erwin L'Ami. The <a href=\"https://theweekinchess.com/chessnews/events/match-of-two-capitals-2025\">Match of Two Capitals</a> ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-sunday-25th-may-2025",
-         "pubDate" : "Sun, 25 May 2025 20:29:00",
-         "title" : "Chess on Sunday 25th May 2025 - "
-      },
-      {
-         "description" : " The 8th Sharjah Masters took place Sat 17th to Sun 25th May 2025. Leading players: Nodirbek Abdusattorov, Anish Giri, Parham Maghsoodloo, Samuel Sevian, Amin Tabatabaei M. Shant Sargsyan and Gabriel Sargissian etc. Anish Giri took clear first place with 7/9 beating Mittal Aditya in the final round. Nodirbek Abdusattorov could only draw with the black pieces against M Amin Tabatabaei. Bibisara Assaubayeva drew against Rinat Jumabayev and became the 43rd woman to earn the GM title.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/8th-sharjah-masters-2025",
-         "pubDate" : "Sun, 25 May 2025 19:15:00",
-         "title" : "8th Sharjah Masters 2025 - Games and Results"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121396816.cms\" />Indian grandmasters D Gukesh and Arjun Erigaisi are set to compete in the prestigious Norway Chess tournament, facing formidable opponents like Magnus Carlsen and Hikaru Nakamura. Koneru Humpy and R Vaishali will represent India in the women's section. The tournament features equal prize money for both men and women, highlighting India's growing presence in the chess world.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -392,14 +288,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/shogdzhiev-achieves-final-norm-becomes-youngest-ever-international-master",
          "pubDate" : "Sun, 25 May 2025 07:19:00",
          "title" : "Shogdzhiev Smashes Oro's Record To Become Youngest International Master In History"
-      },
-      {
-         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025\">30th Sigeman & Co tournament</a> is led by Javokhir Sindarov alone with 3.5/5 after drawing with Richard Rapport. Yagiz Kaan Erdogmus who was tied in the lead lost to Vasyl Ivanchuk who took advantage of a number of inaccuracies to win in 44 moves, Ivanchuk's final move is very nice. Last minute substitute Erwin L'Ami has had a tough tournament but managed to beat Nils Grandelius in 51 moves, although after getting a winning position he did give Grandelius an untaken chance to save himself. Ray Robson and Tan Zhongyi drew in 47 moves. Light notes for the two decisive games below. The <a href=\"htt",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-saturday-24th-may-2025",
-         "pubDate" : "Sat, 24 May 2025 21:21:00",
-         "title" : "Chess on Saturday 24th May 2025 - "
       },
       {
          "description" : "GM Daniel Naroditsky attained his 28th Bullet Brawl&#38;nbsp;title and the $400 first prize after scoring 247 points on Saturday. GM Hikaru Nakamura was Naroditsky&#39;s main adversary but couldn&#39;t keep pace with Naroditsky, who worked through a record-br...",
@@ -424,38 +312,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-on-tv-from-famine-to-glut/",
          "pubDate" : "Sat, 24 May 2025 06:16:31",
          "title" : "Chess on TV: from famine to glut"
-      },
-      {
-         "description" : " Today is Anatoly Karpov's 74th birthday and the <a href=\"https://theweekinchess.com/chessnews/events/karpov-cup-50-years-later-2025\">event celebrating the 50th anniversary of him becoming world champion</a> finished. Ian Nepomniachtchi won the event with 6/9 half a point clear of Alexander Grischuk and Vladislav Artemiev. Magnus Carlsen made easy work of Maxime Vachier-Lagrave in the Grand Final of the <a href=\"https://theweekinchess.com/chessnews/events/chess.com-classic-2025\">Chess.com Classic</a>. He said afterwards he had hoped it would be good practice for the Norway Chess starting on Monday but it wasn't because he'd made such quick work of winning. I give very light notes to all thre",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-friday-23rd-may-2025",
-         "pubDate" : "Fri, 23 May 2025 22:03:00",
-         "title" : "Chess on Friday 23rd May 2025 - "
-      },
-      {
-         "description" : " The 96th German Championships took place Thu 15th May to Fri 23rd May 2025. Players: Vincent Keymer, Frederik Svane, Matthias Bluebaum, Rasmus Svane, Dennis Wagner, Alexander Donchenko, Niclas Huschenbeth, Martin Kraemer, Leonardo Costa and Marco Dobrikov. Vincent Keymer secured clear first with a round to spare before losing a wild game in the final round to Donchenko. Dinara Wagner beat Hanna Marie Klek 2-0 in a 5m+10spm tie-break to win the women's title. Tobias Kuegel won the Candidates event with 7/9. The German blitz championships and women's blitz championships are tomorrow. I will treat that as a separate event. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/96th-ch-ger-2025",
-         "pubDate" : "Fri, 23 May 2025 21:47:00",
-         "title" : "96th ch-GER 2025 - Games and Results"
-      },
-      {
-         "description" : " The Chess.com Classic was the second and final of two Champions Chess Tour events that acted as qualifiers for the Esports World Cup. 12 players qualified. The tour moved to a blitz time control of 10 minutes per player. The event was a Double Elimination KO. Players: Magnus Carlsen, Maxime Vachier-Lagrave, Fabiano Caruana, Ian Nepomniachtchi, Vladimir Fedoseev, Levon Aronian, Hikaru Nakamura, Denis Lazavik, Arjun Erigaisi Jan-Krzysztof Duda, Vladislav, Artemiev, Wei Yi, D Gukesh, Nodirbek, Abdusattorov, R Praggnanandhaa and Ding Liren. Magnus Carlsen won the event with very little fuss, he beat Hikaru Nakamura in the Winners final, the final game was notable for Nakamura's resignation in a",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess.com-classic-2025",
-         "pubDate" : "Fri, 23 May 2025 18:20:00",
-         "title" : "Chess.com Classic 2025 - Games and Results"
-      },
-      {
-         "description" : " The \"Karpov Cup - 50 years later\" is a 15m+10spm rapid tournament took place 21st to 23rd May in Moscow. The event commemorated the accession of Anatoly Karpov to the title of World Champion on April 4th 1975. Players: Ian, Nepomniachtchi, Vladislav Artemiev, Peter Svidler, Daniil Dubov, Alexander Grischuk, Teimour Radjabov, Vladimir Malakhov, Evgeny Tomashevsky, Hans Moke Niemann and Maxim Matlakov. Karpov celebrated his birthday on the final day, 23rd May. Ian Nepomniachtchi won the event with 6/9 half a point clear of Alexander Grischuk and Vladislav Artemiev.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/karpov-cup-50-years-later-2025",
-         "pubDate" : "Fri, 23 May 2025 18:15:00",
-         "title" : "Karpov Cup - 50 years later 2025 - Games and Results"
       },
       {
          "description" : "GM Minh Le won the May 23 edition of Freestyle Friday with 9.5 points, beating out a field of 243 players, including GM Luca Moroni Jr. on tiebreaks. It was the first win in Freestyle Friday for the eight-time Titled Tuesday champion Le. Le scor...",
@@ -504,14 +360,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/registration-open-2025-fide-world-cadet-chess-championships",
          "pubDate" : "Fri, 23 May 2025 00:00:00",
          "title" : "Registration Open for 2025 FIDE World Cadet Chess Championships"
-      },
-      {
-         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/96th-ch-ger-2025\">German Chess Championships in Munich</a> finish tomorrow, already Vincent Keymer has secured first place alone, today he was held to only his second draw by Rasmus Svane but a half point was all he needed. Keymer has 7/8 and in the final round Keymer has white against Alexander Donchenko, I think it possible he'll push for yet another win. In the women's event Dinara Wagner and Hanna Marie Klek lead the rest of the field by a point on 6/9. Tan Zhongyi started the <a href=\"https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025\">30th Sigeman & Co tournament</a> with two losses and had the bla",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-thursday-22nd-may-2025",
-         "pubDate" : "Thu, 22 May 2025 22:18:00",
-         "title" : "Chess on Thursday 22nd May 2025 - "
       },
       {
          "description" : "The European Amateur Chess Championships 2025 will be held from 25 November (arrivals) to 5 December (departures) in the Conference Hall of the 4-star \"Riviera Spa Resort\" Hotel in Mellieha, Malta. The event will be played in three rating categories: U2300, U2000, and U1700, and it's open to all players registered or approved by their national federations listed as the ECU members. In order to be eligible to participate in the tournament, the players must fulfill the following conditions: Each []",
@@ -760,14 +608,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
          "pubDate" : "Fri, 16 May 2025 19:06:00",
          "title" : "Superbet Chess Classic Playoffs - Live!"
-      },
-      {
-         "description" : "GM Guha Mitrabha was crowned the Chess.com King of the Hill champion on Friday after winning the latest edition of the Community Chess Championships. Following a 12-hour qualification marathon where he competed alongside 3,500 aspirants, Mitrabha ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/mitrabha-wins-2025-king-of-the-hill-community-championship",
-         "pubDate" : "Fri, 16 May 2025 18:53:00",
-         "title" : "Mitrabha Wins King Of The Hill Championship Ahead Of 3,500 Participants"
       },
       {
          "description" : "",
