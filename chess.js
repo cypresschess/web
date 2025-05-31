@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
+         "pubDate" : "Sat, 31 May 2025 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : " The 3rd Cambridge International Open took place Mon 26th to Sat 31st May 2025. Top seeds Michael Adams and Sergei Tiviakov. Michael Adams edged out Brandon Clarke on tie-break after both finished on 7/9.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/3rd-cambridge-international-open-2025",
+         "pubDate" : "Sat, 31 May 2025 15:35:00",
+         "title" : "3rd Cambridge International Open 2025 - Games and Results"
+      },
+      {
+         "description" : "It's fascinating how many questions I ask myself that I actually already know the answers to. &#8220;If more information was the answer, we'd all be billionaires with perfect abs.&#8221; Derek Sivers Like many of my students, I often fall into the trap of searching for the \"perfect\" answer to a question. I'll spend hours []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/stop-searching-start-executing/",
+         "pubDate" : "Sat, 31 May 2025 13:00:00",
+         "title" : "The 5 Steps I Use to Stop Overthinking and Start Getting Results"
+      },
+      {
          "description" : "The fifth Hungarian Parachess Championship, held from 22-25 May, brought together visually impaired, hearing impaired, physically disabled players and organ transplant recipients in a unique national event. Organised by the Hungarian Chess Federation, FODISZ and the Hungarian Paralympic Committee, the tournament celebrated inclusion and sporting spirit. FM Zolt&aacute;n Zamb&oacute; won overall gold, with strong performances across categories and a record 24 participants, highlighting growing support for parachess in Hungary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,22 +50,6 @@ news_feed (
          "title" : "'Future is very bright for Indian chess': World No. 1 Magnus Carlsen"
       },
       {
-         "description" : "The First Continental Chess Championships for Prisoners, held from 13 to 23 May 2025, brought together 77 teams from across five continents in a milestone event under FIDE's Chess for Freedom initiative. Incarcerated players competed in high-level, organised tournaments across Open, Women's and Youth sections. With standout performances from Zimbabwe, El Salvador, Serbia and India, the event highlighted the global reach and rehabilitative potential of chess in correctional facilities.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/continental-chess-ch-prisoners-2025",
-         "pubDate" : "Sat, 31 May 2025 08:00:00",
-         "title" : "Inaugural Continental Chess Championships for Prisoners conclude with global participation"
-      },
-      {
-         "description" : "In this episode of Svitlana's Smart Moves, Svitlana and Arne analyse a historic World Championship game from the 1985 match between Karpov and Kasparov. The focus is on Kasparov's bold pawn sacrifice, 9...d5, in the Sicilian, which showcases deep home preparation and leads to him getting a powerful \"octopus knight\" on d3. The analysis reveals how Kasparov's strategic mastery and piece coordination slowly restricted Karpov's position until it collapsed under pressure. The episode highlights how classical games still offer valuable lessons, especially in regard to positional dominance and long-term planning.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-octopus-knight-of-kasparov",
-         "pubDate" : "Fri, 30 May 2025 22:00:00",
-         "title" : "Svitlana's Smart Moves - The octopus knight of Kasparov"
-      },
-      {
          "description" : " Magnus Carlsen leads the <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">Norway Chess</a> tournament with 8/12 after a win against Arjun Erigaisi in Round 4. Carlsen had an extra pawn in a major piece endgame but the engines stubbornly evaluated the position as more or less equal. Carlsen said he predicted Erigaisi's mistake, 30...Re6?, which quickly allowed Carlsen to obtain a winning endgame. Instead Carlsen's suggestion of 30...Qe7 or the computer's 30...h5 would have likely led to a draw. Even Carlsen's win would not have been enough to lead had Fabiano Caruana converted his long term big advantage against World Champion Gukesh. The moment was 48.Qf4? from G",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -64,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-may-30-2025",
          "pubDate" : "Fri, 30 May 2025 13:42:02",
          "title" : "Bortnyk Finishes Freestyle Friday First With Flair"
-      },
-      {
-         "description" : "Magnus Carlsen took the sole lead at the 2025 Norway Chess tournament by defeating Arjun Erigaisi in classical play during round four. World champion Gukesh Dommaraju and Wei Yi both scored 1&frac12; points in their respective mini-matches, prevailing in Armageddon after drawing their classical games against Fabiano Caruana and Hikaru Nakamura. With a rest day ahead, Carlsen stands on 8 points, one ahead of Caruana, while Nakamura holds third place with 5&frac12;. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2025-4",
-         "pubDate" : "Fri, 30 May 2025 13:35:00",
-         "title" : "Norway Chess: Carlsen scores classical win over Arjun, grabs the lead"
       },
       {
          "description" : "For the first time since its original run in 1988, the cult musical Chess will get its long-awaited Broadway return in New York City this fall. The production will star Emmy Award nominee Lea Michele, Tony Award winner Aaron Tveit, and Nicholas Ch...",
@@ -296,14 +296,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/13th-norway-chess-2025",
          "pubDate" : "Mon, 26 May 2025 21:58:00",
          "title" : "13th Norway Chess 2025 - "
-      },
-      {
-         "description" : " The 3rd Cambridge International Open takes place Mon 26th to Sat 31st May 2025. Top seeds Michael Adams and Sergei Tiviakov.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/3rd-cambridge-international-open-2025",
-         "pubDate" : "Mon, 26 May 2025 20:21:00",
-         "title" : "3rd Cambridge International Open 2025 - Games and Results"
       },
       {
          "description" : " The Match of Two Capitals took place in Moscow Sat 24th to Mon 26th May 2025. Daniil Dubov representing Moscow and Maxim Matlakov representing St Petersburg played a six game classical (90m + 30spm) two games per day. Dubov won game three, the rest were drawn with a final result of 3.5-2.5.",
@@ -912,14 +904,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-suffers-shock-defeat-praggnanandhaa-in-joint-lead-at-superbet-classic/articleshow/121063242.cms",
          "pubDate" : "Sat, 10 May 2025 17:23:55",
          "title" : "Gukesh suffers shock defeat, Praggnanandhaa in joint lead at Superbet Classic"
-      },
-      {
-         "description" : "There's a quiet belief that keeps most people stuck-in chess, in life, in nearly every serious pursuit. It's not always loud. But it's there. It whispers things like: And that belief is this: That we can grow, succeed, and improve-without ever going through hardship. It sounds nice. But it's a lie. And it's a lie []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/learn-from-pain/",
-         "pubDate" : "Sat, 10 May 2025 13:00:00",
-         "title" : "Why Avoiding Pain Will Never Lead to Progress"
       }
    ]
 }
