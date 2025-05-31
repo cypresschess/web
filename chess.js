@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The First Continental Chess Championships for Prisoners, held from 13 to 23 May 2025, brought together 77 teams from across five continents in a milestone event under FIDE's Chess for Freedom initiative. Incarcerated players competed in high-level, organised tournaments across Open, Women's and Youth sections. With standout performances from Zimbabwe, El Salvador, Serbia and India, the event highlighted the global reach and rehabilitative potential of chess in correctional facilities.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/continental-chess-ch-prisoners-2025",
+         "pubDate" : "Sat, 31 May 2025 08:00:00",
+         "title" : "Inaugural Continental Chess Championships for Prisoners conclude with global participation"
+      },
+      {
          "description" : "In this episode of Svitlana's Smart Moves, Svitlana and Arne analyse a historic World Championship game from the 1985 match between Karpov and Kasparov. The focus is on Kasparov's bold pawn sacrifice, 9...d5, in the Sicilian, which showcases deep home preparation and leads to him getting a powerful \"octopus knight\" on d3. The analysis reveals how Kasparov's strategic mastery and piece coordination slowly restricted Karpov's position until it collapsed under pressure. The episode highlights how classical games still offer valuable lessons, especially in regard to positional dominance and long-term planning.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
