@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fifth Hungarian Parachess Championship, held from 22-25 May, brought together visually impaired, hearing impaired, physically disabled players and organ transplant recipients in a unique national event. Organised by the Hungarian Chess Federation, FODISZ and the Hungarian Paralympic Committee, the tournament celebrated inclusion and sporting spirit. FM Zolt&aacute;n Zamb&oacute; won overall gold, with strong performances across categories and a record 24 participants, highlighting growing support for parachess in Hungary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/parachess-hungary-ch-2025",
+         "pubDate" : "Sat, 31 May 2025 11:00:00",
+         "title" : "Parachess in Hungary - a truly unique competition"
+      },
+      {
+         "description" : "I find it sickening to see the heretical proponents of so-called Freestyle Chess mafficking about the 100% (9/9) score by Magnus Carlsen in the recently concluded Grenke Open. Fanatical adherents of the new heresy are ululating with gay abandon and celebrating the fact that Magnus has outperformed (in a ratings sense) the superhuman rating performances []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/freestyle-chess-versus-draughts/",
+         "pubDate" : "Sat, 31 May 2025 10:13:10",
+         "title" : "'Freestyle Chess' versus Draughts"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121532393.cms\" />Magnus Carlsen, the world's top-ranked chess player, has praised the rising stars of Indian chess, including D Gukesh, R Praggnanandhaa, and Arjun Erigaisi, highlighting the bright future of the sport in India. Carlsen secured a victory against Erigaisi in the Norway Chess 2025 tournament, where he currently leads.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/future-is-very-bright-for-indian-chess-world-no-1-magnus-carlsen-at-norway-chess-2025/articleshow/121532393.cms",
+         "pubDate" : "Sat, 31 May 2025 08:18:44",
+         "title" : "'Future is very bright for Indian chess': World No. 1 Magnus Carlsen"
+      },
+      {
          "description" : "The First Continental Chess Championships for Prisoners, held from 13 to 23 May 2025, brought together 77 teams from across five continents in a milestone event under FIDE's Chess for Freedom initiative. Incarcerated players competed in high-level, organised tournaments across Open, Women's and Youth sections. With standout performances from Zimbabwe, El Salvador, Serbia and India, the event highlighted the global reach and rehabilitative potential of chess in correctional facilities.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,7 +98,7 @@ news_feed (
          "title" : "The \"Chess Passport\" is here"
       },
       {
-         "description" : "The European School Chess Championship 2025 starts tomorrow in Mamaia, Romania and will be played from 30th of May 7th of June at the Complex Amiral - Comandor Orfeu. The event is played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. Each tournament will be played in 9 rounds, with the time control of 90 minutes with an increment of 30 seconds per move, starting from move one. The Championship gathers []",
+         "description" : "The European School Chess Championship 2025 starts tomorrow in Mamaia, Romania and will be played from 30th of May 7th of June at the Complex Amiral - Comandor Orfeu. The event is played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. Each tournament will be played in 9 rounds, with the time control of&#160;90 minutes with an increment of 30 seconds per move, starting from move one. The Championship gathers []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-school-chess-championship-2025-starts-in-mamaia-romania/",
@@ -896,14 +920,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/learn-from-pain/",
          "pubDate" : "Sat, 10 May 2025 13:00:00",
          "title" : "Why Avoiding Pain Will Never Lead to Progress"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, The Maharashtra Chess Association is organizing Senior National Arbiters Seminar &#38; Exam at Swami Vivekanand international School,M.G.Road Kandivali West,Mumbai 400067.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-exam-in-kandivali-west-mumbai-on-24-25-may-2025/",
-         "pubDate" : "Sat, 10 May 2025 10:44:12",
-         "title" : "SNA Seminar & Exam in Kandivali West ,Mumbai on 24 & 25 May 2025"
       }
    ]
 }
