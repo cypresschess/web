@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When it comes to endgames, there's nobody better than Karsten M&uuml;ller. Michael Kotyk, the young Hamburg chess trainer, knows this well. He's taken out his magnifying glass and dedicated himself to M&uuml;ller's latest work: His endgame courses are ChessBase classics. The most recent edition also employs the interactive options that have become indispensable in video courses. The new edition of the Endgame Academy kicks off with Checkmate & Pawn Endgames.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/newly-reviewed-endgame-academy-part-1-checkmate-pawn-endgames",
+         "pubDate" : "Sun, 01 Jun 2025 08:00:00",
+         "title" : "Newly reviewed: Endgame Academy Part 1 - Checkmate & Pawn Endgames"
+      },
+      {
+         "description" : "We've compiled some additional tips for our latest tutorial. These allow you, for example, to quickly open endgame positions from Karsten M&uuml;ller's articles in ChessBase, and compare structures you're interested in with positions from the Mega Database. Check out the example and use these practical features for your training!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-beginner-s-tips-part-16-setting-up-and-analysing-positions-part-2",
+         "pubDate" : "Sun, 01 Jun 2025 07:00:00",
+         "title" : "ChessBase 18 - Beginner's Tips Part 16: Setting up and analysing positions (Part 2)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121545751.cms\" />Magnus Carlsen extended his lead at Norway Chess with an Armageddon win over Fabiano Caruana, while Koneru Humpy took the sole lead in the women's section. Hikaru Nakamura suffered a painful loss, and Wei Yi secured another Armageddon victory.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-magnus-carlsen-stays-top-of-standings-koneru-humpy-takes-sole-lead/articleshow/121545751.cms",
+         "pubDate" : "Sun, 01 Jun 2025 05:08:06",
+         "title" : "Norway Chess: Carlsen stays top of standings; Humpy takes sole lead"
+      },
+      {
          "description" : "Newly minted IM Reza Mahdavi became the 13th player and the second IM to win an edition of Bullet Brawl&#38;nbsp;after outclassing 175 titled players in Saturday&#39;s event. Mahdavi posted a scorching 62.5/73, which earned him a final score of 221 and sa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
