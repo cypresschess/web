@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "When it comes to endgames, there's nobody better than Karsten M&uuml;ller. Michael Kotyk, the young Hamburg chess trainer, knows this well. He's taken out his magnifying glass and dedicated himself to M&uuml;ller's latest work: His endgame courses are ChessBase classics. The most recent edition also employs the interactive options that have become indispensable in video courses. The new edition of the Endgame Academy kicks off with Checkmate & Pawn Endgames.",
+         "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/newly-reviewed-endgame-academy-part-1-checkmate-pawn-endgames",
-         "pubDate" : "Sun, 01 Jun 2025 08:00:00",
-         "title" : "Newly reviewed: Endgame Academy Part 1 - Checkmate & Pawn Endgames"
+         "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
+         "pubDate" : "Sun, 01 Jun 2025 16:45:00",
+         "title" : "Norway Chess - Live!"
       },
       {
-         "description" : "We've compiled some additional tips for our latest tutorial. These allow you, for example, to quickly open endgame positions from Karsten M&uuml;ller's articles in ChessBase, and compare structures you're interested in with positions from the Mega Database. Check out the example and use these practical features for your training!",
+         "description" : " All the games of the fifth round of the <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">Norway Chess</a> tournament were drawn. Hikaru Nakamura had a big advantage against Arju Erigaisi but 27...Nd7? (Na6!) threw away his chances. Wei Yi too was close to winning against Gukesh until 29.Qd2? (b7!) Fabiano Caruana was pushing for a while against Magnus Carlsen but the position then became close to equal. 43...g5? was a serious error from Carlsen and if Caruana had found 44.Ke3 he would have been winning according to the engines, although I'm not sure it was that easy to work out. Erigaisi, Wei Yi and Carlsen won the Armageddon tie-break games. Carlsen leads on 9.5",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/magnus-continues-to-lead-the-norway-chess-tournament-after-five-rounds",
+         "pubDate" : "Sun, 1 Jun 2025 14:27:00",
+         "title" : "Magnus continues to lead the Norway Chess tournament after five rounds - "
+      },
+      {
+         "description" : "Magnus Carlsen holds a 1&frac12;-point lead at the top of the Norway Chess standings after defeating Fabiano Caruana in Armageddon following a drawn classical game. All three encounters in round five required tiebreaks, with Arjun Erigaisi and Wei Yi also securing 1&frac12; points each after winning their respective sudden-death games against Hikaru Nakamura and Gukesh Dommaraju. Wei's result marked his third straight Armageddon victory. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-beginner-s-tips-part-16-setting-up-and-analysing-positions-part-2",
-         "pubDate" : "Sun, 01 Jun 2025 07:00:00",
-         "title" : "ChessBase 18 - Beginner's Tips Part 16: Setting up and analysing positions (Part 2)"
+         "link" : "https://en.chessbase.com/post/norway-chess-2025-5",
+         "pubDate" : "Sun, 01 Jun 2025 14:00:00",
+         "title" : "Norway Chess: Carlsen extends his lead"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121545751.cms\" />Magnus Carlsen extended his lead at Norway Chess with an Armageddon win over Fabiano Caruana, while Koneru Humpy took the sole lead in the women's section. Hikaru Nakamura suffered a painful loss, and Wei Yi secured another Armageddon victory.",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/reza-mahdavi-wins-bullet-brawl-may-31-2025",
-         "pubDate" : "Sat, 31 May 2025 20:19:42",
+         "pubDate" : "Sat, 31 May 2025 20:19:00",
          "title" : "Dynamic Chess Earns Mahdavi Maiden Bullet Brawl Title"
       },
       {
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/18th-american-continental-2025",
          "pubDate" : "Sat, 31 May 2025 19:57:00",
          "title" : "18th American Continental 2025 - Games and Results"
-      },
-      {
-         "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
-         "pubDate" : "Sat, 31 May 2025 16:45:00",
-         "title" : "Norway Chess - Live!"
       },
       {
          "description" : " The 3rd Cambridge International Open took place Mon 26th to Sat 31st May 2025. Top seeds Michael Adams and Sergei Tiviakov. Michael Adams edged out Brandon Clarke on tie-break after both finished on 7/9.",
@@ -74,14 +74,6 @@ news_feed (
          "title" : "The 5 Steps I Use to Stop Overthinking and Start Getting Results"
       },
       {
-         "description" : "The fifth Hungarian Parachess Championship, held from 22-25 May, brought together visually impaired, hearing impaired, physically disabled players and organ transplant recipients in a unique national event. Organised by the Hungarian Chess Federation, FODISZ and the Hungarian Paralympic Committee, the tournament celebrated inclusion and sporting spirit. FM Zolt&aacute;n Zamb&oacute; won overall gold, with strong performances across categories and a record 24 participants, highlighting growing support for parachess in Hungary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/parachess-hungary-ch-2025",
-         "pubDate" : "Sat, 31 May 2025 11:00:00",
-         "title" : "Parachess in Hungary - a truly unique competition"
-      },
-      {
          "description" : "I find it sickening to see the heretical proponents of so-called Freestyle Chess mafficking about the 100% (9/9) score by Magnus Carlsen in the recently concluded Grenke Open. Fanatical adherents of the new heresy are ululating with gay abandon and celebrating the fact that Magnus has outperformed (in a ratings sense) the superhuman rating performances []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -104,14 +96,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/chess-on-friday-30th-may-2025",
          "pubDate" : "Fri, 30 May 2025 18:32:00",
          "title" : "Chess on Friday 30th May 2025 - "
-      },
-      {
-         "description" : "The Kasparov Chess Foundation is pleased to announce that grandmaster Michael Prusikin will be delivering a live lecture at KCF Academy on Sunday, June 1. Prusikin is a German chess grandmaster and a renowned chess coach, originally from Kharkiv, Ukraine, born on January 19, 1978. Alongside his playing career, he has always focused on chess teaching, making it a significant part of his professional life. He holds the title of FIDE Senior Trainer. Listen to him live this Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-michael-prusikin-live",
-         "pubDate" : "Fri, 30 May 2025 18:00:00",
-         "title" : "KCF: Michael Prusikin Live"
       },
       {
          "description" : "GM Oleksandr Bortnyk took home his third Freestyle Friday on May 30, tying him with GMs Hikaru Nakamura and Arjun Erigaisi for the most so far, and he did it with a last-minute comeback. Bortnyk scored 9.5/11, passing GM Leon Luke Mendonca in the ...",
@@ -546,14 +530,6 @@ news_feed (
          "title" : "Registration Open for 2025 FIDE World Cadet Chess Championships"
       },
       {
-         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/96th-ch-ger-2025\">German Chess Championships in Munich</a> finish tomorrow, already Vincent Keymer has secured first place alone, today he was held to only his second draw by Rasmus Svane but a half point was all he needed. Keymer has 7/8 and in the final round Keymer has white against Alexander Donchenko, I think it possible he'll push for yet another win. In the women's event Dinara Wagner and Hanna Marie Klek lead the rest of the field by a point on 6/9. Tan Zhongyi started the <a href=\"https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025\">30th Sigeman & Co tournament</a> with two losses and had the bla",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-thursday-22nd-may-2025",
-         "pubDate" : "Thu, 22 May 2025 22:18:00",
-         "title" : "Chess on Thursday 22nd May 2025 - "
-      },
-      {
          "description" : "The European Amateur Chess Championships 2025 will be held from 25 November (arrivals) to 5 December (departures) in the Conference Hall of the 4-star \"Riviera Spa Resort\" Hotel in Mellieha, Malta. The event will be played in three rating categories: U2300, U2000, and U1700, and it's open to all players registered or approved by their national federations listed as the ECU members. In order to be eligible to participate in the tournament, the players must fulfill the following conditions: Each []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -904,22 +880,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-chess-history-2",
          "pubDate" : "Mon, 12 May 2025 09:06:29",
          "title" : "FIDE Chess History (2)"
-      },
-      {
-         "description" : " The 2025 African Individual Chess Championship will be held from May 13th to 20th, 2025, in Cairo, Egypt. It is organized by the African Chess Confederation (ACC) and hosted by the Egyptian Chess Federation at the Police Union Club.The tournament will feature both an open section and a women's section. The 9-round Swiss tournament will have a time The post <a href=\"https://thechessdrum.net/blog/2025/05/11/2025-african-individual-chess-championship-cairo-egypt/\">2025 African Individual Chess Championship (Cairo, Egypt)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/05/11/2025-african-individual-chess-championship-cairo-egypt/",
-         "pubDate" : "Sun, 11 May 2025 14:54:45",
-         "title" : "2025 African Individual Chess Championship (Cairo, Egypt)"
-      },
-      {
-         "description" : "The history of chess has been marked by numerous epic confrontations. These include Staunton vs. St Amant, a microcosmic struggle from 1843 which acquired particular relevance from memories of the traditional macrocosmic Anglo-French rivalry, culminating at the Battle of Waterloo. Later in the 19th century the rivalry between Steinitz and Zukertort spilled over from the chessboard into []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/tarrasch-versus-nimzowitsch/",
-         "pubDate" : "Sun, 11 May 2025 11:31:17",
-         "title" : "Tarrasch versus Nimzowitsch"
       }
    ]
 }
