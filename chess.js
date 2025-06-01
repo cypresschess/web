@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The French Interclubs Top 16 took place in Belfort Thu 22nd May to Sun 1st Jun 2025. The format is 7 preliminary rounds in two groups before the top half in each group go to Poule Haute and the bottom half to Poule Basse to decide titles and relegation. Whilst it's by no means a given that all these players will play the team lists include: Firouzja, Niemann, MVL, Harikrishna, Esipenko, Jorden Van Foreest, Kasimdzhanov, Sadhwani, Tabatabaei, Eljanov, Karthikeyan, Murzin, Mamedov, Navara, Yuffa, Gawain Maroroa Jones, Gelfand, Dardha, Amin Bassem, Ivanchuk etc. C'Chartres Echecs (leadings players Fressinet, Ivanchuk and Rauf Mamedov) won the title.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/french-interclubs-top-16-2025",
+         "pubDate" : "Sun, 1 Jun 2025 20:20:00",
+         "title" : "French Interclubs Top 16 2025 - Games and Results"
+      },
+      {
+         "description" : " A two game \"Clash of Generations\" exhibition match was played between Viswanathan Anand and 11 year old IM Faustino Oro in Marina di Pietrasanta, Italy on June 1st. Anand with his 300 point rating advantage needed to win this 2-0 and did so. Time control 10m + 3spm.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/clash-of-generations-2025",
+         "pubDate" : "Sun, 1 Jun 2025 20:04:00",
+         "title" : "Clash of Generations 2025 - Games and Results"
+      },
+      {
          "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -464,22 +480,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/96th-ch-ger-2025",
          "pubDate" : "Fri, 23 May 2025 21:47:00",
          "title" : "96th ch-GER 2025 - Games and Results"
-      },
-      {
-         "description" : " The Chess.com Classic was the second and final of two Champions Chess Tour events that acted as qualifiers for the Esports World Cup. 12 players qualified. The tour moved to a blitz time control of 10 minutes per player. The event was a Double Elimination KO. Players: Magnus Carlsen, Maxime Vachier-Lagrave, Fabiano Caruana, Ian Nepomniachtchi, Vladimir Fedoseev, Levon Aronian, Hikaru Nakamura, Denis Lazavik, Arjun Erigaisi Jan-Krzysztof Duda, Vladislav, Artemiev, Wei Yi, D Gukesh, Nodirbek, Abdusattorov, R Praggnanandhaa and Ding Liren. Magnus Carlsen won the event with very little fuss, he beat Hikaru Nakamura in the Winners final, the final game was notable for Nakamura's resignation in a",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess.com-classic-2025",
-         "pubDate" : "Fri, 23 May 2025 18:20:00",
-         "title" : "Chess.com Classic 2025 - Games and Results"
-      },
-      {
-         "description" : " The \"Karpov Cup - 50 years later\" is a 15m+10spm rapid tournament took place 21st to 23rd May in Moscow. The event commemorated the accession of Anatoly Karpov to the title of World Champion on April 4th 1975. Players: Ian, Nepomniachtchi, Vladislav Artemiev, Peter Svidler, Daniil Dubov, Alexander Grischuk, Teimour Radjabov, Vladimir Malakhov, Evgeny Tomashevsky, Hans Moke Niemann and Maxim Matlakov. Karpov celebrated his birthday on the final day, 23rd May. Ian Nepomniachtchi won the event with 6/9 half a point clear of Alexander Grischuk and Vladislav Artemiev.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/karpov-cup-50-years-later-2025",
-         "pubDate" : "Fri, 23 May 2025 18:15:00",
-         "title" : "Karpov Cup - 50 years later 2025 - Games and Results"
       },
       {
          "description" : "GM Minh Le won the May 23 edition of Freestyle Friday with 9.5 points, beating out a field of 243 players, including GM Luca Moroni Jr. on tiebreaks. It was the first win in Freestyle Friday for the eight-time Titled Tuesday champion Le. Le scor...",
