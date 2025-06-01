@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Norway Chess Open took place 26th May to 1st June 2025. Gergely Kantor and Elham Amar were the top seeds. Vitaly Kunin edged out Lev Yankelevich and Torben Knuedel on tie-break after all scored 7/9. Long time leader Platon Galperin lost in the final round to Knuedel. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/norway-chess-open-2025",
+         "pubDate" : "Sun, 1 Jun 2025 22:05:00",
+         "title" : "Norway Chess Open 2025 - Games and Results"
+      },
+      {
          "description" : " The French Interclubs Top 16 took place in Belfort Thu 22nd May to Sun 1st Jun 2025. The format is 7 preliminary rounds in two groups before the top half in each group go to Poule Haute and the bottom half to Poule Basse to decide titles and relegation. Whilst it's by no means a given that all these players will play the team lists include: Firouzja, Niemann, MVL, Harikrishna, Esipenko, Jorden Van Foreest, Kasimdzhanov, Sadhwani, Tabatabaei, Eljanov, Karthikeyan, Murzin, Mamedov, Navara, Yuffa, Gawain Maroroa Jones, Gelfand, Dardha, Amin Bassem, Ivanchuk etc. C'Chartres Echecs (leadings players Fressinet, Ivanchuk and Rauf Mamedov) won the title.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-2025-5",
          "pubDate" : "Sun, 01 Jun 2025 14:00:00",
          "title" : "Norway Chess: Carlsen extends his lead"
+      },
+      {
+         "description" : "GM Magnus Carlsen seemed to be on his way to extending his lead in Norway Chess 2025 by another three points with a second win against World Champion Gukesh Dommaraju. In a losing endgame, however, the 19-year-old GM pounced on a blunder and turne...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-norway-chess-round-6",
+         "pubDate" : "Sun, 01 Jun 2025 13:06:00",
+         "title" : "Gukesh Beats Carlsen From Losing Position"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121545751.cms\" />Magnus Carlsen extended his lead at Norway Chess with an Armageddon win over Fabiano Caruana, while Koneru Humpy took the sole lead in the women's section. Hikaru Nakamura suffered a painful loss, and Wei Yi secured another Armageddon victory.",
@@ -160,14 +176,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/chess-on-thursday-29th-may-2025",
          "pubDate" : "Thu, 29 May 2025 15:37:00",
          "title" : "Chess on Thursday 29th May 2025 - "
-      },
-      {
-         "description" : " The Norway Chess Open takes place 26th May to 1st June 2025. Gergely Kantor and Elham Amar are the top seeds. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/norway-chess-open-2025",
-         "pubDate" : "Thu, 29 May 2025 15:20:00",
-         "title" : "Norway Chess Open 2025 - Games and Results"
       },
       {
          "description" : "GM Magnus Carlsen scored a smooth win over GM Arjun Erigaisi in round four of Norway Chess 2025 to take the sole lead after GM Fabiano Caruana missed a classical win over GM Gukesh Dommaraju. The relieved world champion stormed to an armageddon wi...",
@@ -688,14 +696,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-cct-chesscom-classic-play-in",
          "pubDate" : "Mon, 19 May 2025 13:20:00",
          "title" : "Duda, Arjun Qualify For Esports World Cup, Fedoseev Wins Swiss"
-      },
-      {
-         "description" : "Esports organizations are making a final push to add grandmasters to their teams for the second and last leg of this year&#39;s Champions Chess Tour (CCT). GMs Levon Aronian, Vincent Keymer, and Jan-Krzysztof Duda are among the six top grandmasters wh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/six-star-grandmasters-join-esports-teams-in-signing-spree",
-         "pubDate" : "Mon, 19 May 2025 10:15:00",
-         "title" : "Top GMs Join Esports Teams In Final Chess.com Classic Rush"
       },
       {
          "description" : "The European Corporate Chess Championship 2025, organised by Asnière Le Grand Echiquier under the auspices of the European Chess Union, will be held on 7-8 November in Asnieres sur Seine, Paris, France. The event will be played in 9 rounds, swiss system, with time control of 15 minutes for the whole game, plus 5 seconds of an increment starting from move one. The system of match pointsis as follows: a match won is worth 3 match points, a draw 2 []",
