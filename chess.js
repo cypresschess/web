@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new FIDE rankings are out. Magnus Carlsen and Hou Yifan continue to lead the open and women's lists, while world champion Gukesh remains the top junior despite Elo losses. The month also brought shifts just behind the leaders, with strong performances from rising stars and established players alike.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-june-2025",
+         "pubDate" : "Mon, 02 Jun 2025 11:55:09",
+         "title" : "FIDE ratings - June 2025"
+      },
+      {
+         "description" : " The 13th Norway Chess tournament takes place Mon 26th May to Fri 6th Jun 2025 in Stavanger, Norway. There are two elite tournaments, the regular tournament and a women's event, both are 6 players and 10 rounds. Norway chess have a unique twist in that if games are drawn there is an additional Armageddon game. So the points are: Win in the classical game: 3 points, Loss in the classical game: 0 points, Draw in the classical game & win Armageddon: 1&frac12; points, Draw in the classical game & loss Armageddon: 1 point. Players: Magnus Carlsen, Hikaru Nakamura, D Gukesh, Arjun Erigaisi, Fabiano Caruana and Wei Yi. Women's event: Ju Wenjun, Lei Tingjie, Humpy Koneru, Anna Muzychuk,Rameshbabu Va",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/13th-norway-chess-2025",
+         "pubDate" : "Mon, 2 Jun 2025 11:44:00",
+         "title" : "13th Norway Chess 2025 - "
+      },
+      {
+         "description" : " Magnus Carlsen was left hitting the table in frustration as he lost to Gukesh from a winning position in the sixth round of the <a href=\"https://theweekinchess.com/chessnews/events/13th-Norway-chess-2025\">Norway Chess</a> tournament. Gukesh had the white pieces and the opening was a slow manoeuvring Ruy Lopez Berlin where Carlsen had equalised by move 17 and was at least a bit better by move 20. Gukesh kept playing slightly inferior moves 22.Bc6?! (Rc1) 23.Qc2?!, 24.Kh1?! (24.Ne2) and finally after 25.Qa2 (maybe 25.Kh2) he was lost and soon about to lose a piece. Maybe Carlsen's 36...Bxd5 wasn't the cleanest (36...Bxf3 or 36...Rh8 may have induced a quick resignation) but he was still clear",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/gukesh-beats-carlsen-for-the-first-time-in-classical-chess-after-a-great-turnaround-in-fortunes",
+         "pubDate" : "Mon, 2 Jun 2025 11:39:00",
+         "title" : "Gukesh beats Carlsen for the first time in classical chess after a great turnaround in fortunes - 6"
+      },
+      {
+         "description" : "The Philippines has had a long tradition of being one of the chess powerhouses in Asia. GM Eugenio Torre became Asia's first grandmaster in the year 1974, and others followed his trailblazing footsteps. One special talent who is currently ascending the Mount Olympus of chess is the subject of today's article: FM Ivan Travis Cu. | Photos provided his mother, Caroline Cu",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/following-in-the-footsteps-of-torre",
+         "pubDate" : "Mon, 02 Jun 2025 10:27:50",
+         "title" : "Following in the footsteps of Torre"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121568121.cms\" />Gukesh pulled off a stunning victory against the former world number one in the sixth round of the ongoing Norway Chess 2025 tournament, turning the game around from a losing position on Sunday. This marked Gukesh's first-ever classical win over the Norwegian grandmaster. The 19-year-old also became the second Indian player to beat Carlsen in the competition's history after Rameshbabu Praggnanandhaa.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/his-aim-is-to-become-number-one-gukeshs-grandfather-after-grandsons-win-over-magnus-carlsen-at-norway-chess/articleshow/121568121.cms",
+         "pubDate" : "Mon, 02 Jun 2025 09:00:51",
+         "title" : "\"His aim is to become number one....\": Gukesh's grandfather after grandson's win over Magnus Carlsen at Norway chess"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121560361.cms\" />D Gukesh achieved a stunning victory over Magnus Carlsen in Round 6 of Norway Chess, marking his first classical win against the former World No. 1. Carlsen faltered in the endgame, allowing Gukesh to capitalise despite acknowledging his losing position. This win propelled Gukesh to third place in the standings, intensifying the competition as the tournament nears its conclusion.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -354,14 +394,6 @@ news_feed (
          "title" : "Chess on Monday 26th May 2025 - "
       },
       {
-         "description" : " The 13th Norway Chess tournament takes place Mon 26th May to Fri 6th Jun 2025 in Stavanger, Norway. There are two elite tournaments, the regular tournament and a women's event, both are 6 players and 10 rounds. Norway chess have a unique twist in that if games are drawn there is an additional Armageddon game. So the points are: Win in the classical game: 3 points, Loss in the classical game: 0 points, Draw in the classical game & win Armageddon: 1&frac12; points, Draw in the classical game & loss Armageddon: 1 point. Players: Magnus Carlsen, Hikaru Nakamura, D Gukesh, Arjun Erigaisi, Fabiano Caruana and Wei Yi. Women's event: Ju Wenjun, Lei Tingjie, Humpy Koneru, Anna Muzychuk,Rameshbabu Va",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/13th-norway-chess-2025",
-         "pubDate" : "Mon, 26 May 2025 21:58:00",
-         "title" : "13th Norway Chess 2025 - "
-      },
-      {
          "description" : " The Match of Two Capitals took place in Moscow Sat 24th to Mon 26th May 2025. Daniil Dubov representing Moscow and Maxim Matlakov representing St Petersburg played a six game classical (90m + 30spm) two games per day. Dubov won game three, the rest were drawn with a final result of 3.5-2.5.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -488,14 +520,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/chess-on-friday-23rd-may-2025",
          "pubDate" : "Fri, 23 May 2025 22:03:00",
          "title" : "Chess on Friday 23rd May 2025 - "
-      },
-      {
-         "description" : " The 96th German Championships took place Thu 15th May to Fri 23rd May 2025. Players: Vincent Keymer, Frederik Svane, Matthias Bluebaum, Rasmus Svane, Dennis Wagner, Alexander Donchenko, Niclas Huschenbeth, Martin Kraemer, Leonardo Costa and Marco Dobrikov. Vincent Keymer secured clear first with a round to spare before losing a wild game in the final round to Donchenko. Dinara Wagner beat Hanna Marie Klek 2-0 in a 5m+10spm tie-break to win the women's title. Tobias Kuegel won the Candidates event with 7/9. The German blitz championships and women's blitz championships are tomorrow. I will treat that as a separate event. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/96th-ch-ger-2025",
-         "pubDate" : "Fri, 23 May 2025 21:47:00",
-         "title" : "96th ch-GER 2025 - Games and Results"
       },
       {
          "description" : "GM Minh Le won the May 23 edition of Freestyle Friday with 9.5 points, beating out a field of 243 players, including GM Luca Moroni Jr. on tiebreaks. It was the first win in Freestyle Friday for the eight-time Titled Tuesday champion Le. Le scor...",
@@ -872,22 +896,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/05/13/kevin-pryor-chats-with-the-chess-drum/",
          "pubDate" : "Tue, 13 May 2025 18:52:56",
          "title" : "Kevin Pryor chats with The Chess Drum"
-      },
-      {
-         "description" : "Former National Champion Grandmaster Murali Karthikeyan and Grandmaster Daneshvar Bardiya (Iran) continued to be in the top position by scoring smooth victories over Aleksey Grebnev",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/round-5-asian-individual-chess-championship-2025/",
-         "pubDate" : "Mon, 12 May 2025 09:11:14",
-         "title" : "Round 5 :-Asian Individual Chess Championship 2025"
-      },
-      {
-         "description" : "Last year FIDE celebrated its 100th anniversary. The book \"100 Years of FIDE\" is an illustrated history of the World Chess Federation. From it we excerpt passages to retrace the final non-FIDE world championship (Alekhine-Boguljubow) and the Chess Olympiads from 1924 to 1940. This is a great chance to brush up your knowledge of chess history.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-chess-history-2",
-         "pubDate" : "Mon, 12 May 2025 09:06:29",
-         "title" : "FIDE Chess History (2)"
       }
    ]
 }
