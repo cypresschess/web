@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Premature resignation in chess has long been a subject of debate, and recent events have brought it back into focus. Hikaru Nakamura's resignation against Magnus Carlsen in a winning position sparked discussion about etiquette, pressure and online play. While resignation is often appropriate, even expected, history shows many cases where players have walked away from drawn or even winning positions. A look at some notable examples highlights the fine line between prudence and error. | Photo: chess.com / Thomas Tischio",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-228",
+         "pubDate" : "Mon, 02 Jun 2025 23:50:00",
+         "title" : "Jon Speelman: Keeping the king upright"
+      },
+      {
          "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-2025-6",
          "pubDate" : "Mon, 02 Jun 2025 16:10:00",
          "title" : "Norway Chess: Gukesh capitalises on late errors, beats Carlsen"
+      },
+      {
+         "description" : "With wins in their round seven classical games of Norway Chess 2025, GM Fabiano Caruana has taken pole position while World Champion Gukesh Dommaraju follows a point behind. Caruana defeated GM Wei Yi on the latter&#39;s 26th birthday, squeezing water...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-norway-chess-round-7",
+         "pubDate" : "Mon, 02 Jun 2025 12:49:00",
+         "title" : "Caruana Leads, Gukesh Wins Another Turnaround"
       },
       {
          "description" : "The new FIDE rankings are out. Magnus Carlsen and Hou Yifan continue to lead the open and women's lists, while world champion Gukesh remains the top junior despite Elo losses. The month also brought shifts just behind the leaders, with strong performances from rising stars and established players alike.",
@@ -42,14 +58,6 @@ news_feed (
          "title" : "Gukesh beats Carlsen for the first time in classical chess after a great turnaround in fortunes - 6"
       },
       {
-         "description" : "The Philippines has had a long tradition of being one of the chess powerhouses in Asia. GM Eugenio Torre became Asia's first grandmaster in the year 1974, and others followed his trailblazing footsteps. One special talent who is currently ascending the Mount Olympus of chess is the subject of today's article: FM Ivan Travis Cu. | Photos provided his mother, Caroline Cu",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/following-in-the-footsteps-of-torre",
-         "pubDate" : "Mon, 02 Jun 2025 10:27:50",
-         "title" : "Following in the footsteps of Torre"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121568121.cms\" />Gukesh pulled off a stunning victory against the former world number one in the sixth round of the ongoing Norway Chess 2025 tournament, turning the game around from a losing position on Sunday. This marked Gukesh's first-ever classical win over the Norwegian grandmaster. The 19-year-old also became the second Indian player to beat Carlsen in the competition's history after Rameshbabu Praggnanandhaa.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -64,6 +72,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-magnus-carlsen-bangs-fist-on-board-after-loss-to-d-gukesh-at-norway-chess-leaves-in-a-huff/articleshow/121560361.cms",
          "pubDate" : "Mon, 02 Jun 2025 03:17:47",
          "title" : "Watch: Carlsen bangs fist on board after shock loss to D Gukesh"
+      },
+      {
+         "description" : "Our rulebook covers what takes place on a chess board's 64 squares. How the pieces move is essentially the same everywhere rated games are essayed in US Chess-or is it? The experience of facing opponents has a different feel to it at your weekly club meeting versus a Super Swiss.You're a club player. You've essayed games for decades at one local venue or another. The TD and organizer inhabit the same body. On top of administration duties, the TD also pushes wood at those club events. Without her, rated chess dies locally. The fees are low. The chess is fun. And it is a social event as much as it is a chess event. You get together with about the same group of other chess addicts once a week t",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-club-versus-super-swiss",
+         "pubDate" : "Mon, 02 Jun 2025 00:00:00",
+         "title" : "Just The Rules: Club Versus Super Swiss"
+      },
+      {
+         "description" : "Editor's note: Since becoming Digital Editor for Chess Life Online, I have dreamt of publishing more regular wrap-ups of the sorts of events that are eligible for our Plan Ahead Calendar (as well as invitational tournaments).Do you want coverage of your tournament on Chess Life Online for future reporting or roundups?If so, email Click here to show email address with information of upcoming or recently concluded (i.e. within 1-2 weeks) events.For concluded tournaments, please include links to or screenshots of final standings, as well as links to DGT games or attached, transcribed game scores from 1-3 games of winners. Photos of the tournament and of winners is also a plus (cell phone photos",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/memorial-day-weekend-wrap-putnams-first-gm-norm-khanin-wins-chicago-and-more",
+         "pubDate" : "Mon, 02 Jun 2025 00:00:00",
+         "title" : "Memorial Day Weekend Wrap-Up: Putnam's First GM Norm, Khanin Wins Chicago, and More"
       },
       {
          "description" : " The Norway Chess Open took place 26th May to 1st June 2025. Gergely Kantor and Elham Amar were the top seeds. Vitaly Kunin edged out Lev Yankelevich and Torben Knuedel on tie-break after all scored 7/9. Long time leader Platon Galperin lost in the final round to Knuedel. ",
@@ -690,14 +714,6 @@ news_feed (
          "title" : "Wednesday Workout: Storm of the SuperNationals VIII"
       },
       {
-         "description" : "Director of Events Boyd Reed has resigned to pursue another opportunity outside of chess. His last day was May 20, and US Chess wishes him every success in his new position.Reed started at US Chess in April 2016 as Assistant Director of Events. He was promoted to Director of Events in January 2018, a role he held until his departure.Over his nine years with US Chess, Reed's tenure saw US Chess experience record-setting growth and the successful execution of dozens of national events. His leadership during the challenges of the COVID era, particularly for events, was especially valuable.Pete Karagianis assumes the position of Director of Events effective today, May 21. Congratulations to Pete",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/reed-departs-us-chess",
-         "pubDate" : "Wed, 21 May 2025 00:00:00",
-         "title" : "Reed Departs US Chess"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121297712.cms\" />Magnus Carlsen recently faced a unique challenge, battling over 143,000 chess enthusiasts worldwide in a freestyle game hosted online. This marked the first time a reigning or former world champion participated in such a format. Despite predictions favouring Carlsen, Team World played strategically, leading to a draw by move 32 via threefold repetition.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -720,22 +736,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/the-world-forces-draw-in-historic-game-vs-magnus-carlsen",
          "pubDate" : "Tue, 20 May 2025 11:03:00",
          "title" : "Magnus Carlsen Held To Draw By 143,000 Players In Largest-Ever Online Chess Game"
-      },
-      {
-         "description" : "Today's puzzles continue our series from SuperNationals VIII in Orlando. The flash report with photos and the full report are both available, and more photos and reporting will be added in the coming weeks. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-supernationals-viii-pt-2",
-         "pubDate" : "Tue, 20 May 2025 00:00:00",
-         "title" : "Tactics Tuesday: SuperNationals VIII, Pt. 2"
-      },
-      {
-         "description" : "GM Vladimir Fedoseev won the Swiss portion of the 2025 Chess.com Classic Play-in with 7.5/9 to qualify directly for the Playoffs. After finishing in the top 15 of the Swiss, seven other players won in Match Play to advance as well: GMs Denis Lazav...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-cct-chesscom-classic-play-in",
-         "pubDate" : "Mon, 19 May 2025 13:20:00",
-         "title" : "Duda, Arjun Qualify For Esports World Cup, Fedoseev Wins Swiss"
       },
       {
          "description" : "The European Corporate Chess Championship 2025, organised by Asnière Le Grand Echiquier under the auspices of the European Chess Union, will be held on 7-8 November in Asnieres sur Seine, Paris, France. The event will be played in 9 rounds, swiss system, with time control of 15 minutes for the whole game, plus 5 seconds of an increment starting from move one. The system of match pointsis as follows: a match won is worth 3 match points, a draw 2 []",
