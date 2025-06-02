@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121560361.cms\" />D Gukesh achieved a stunning victory over Magnus Carlsen in Round 6 of Norway Chess, marking his first classical win against the former World No. 1. Carlsen faltered in the endgame, allowing Gukesh to capitalise despite acknowledging his losing position. This win propelled Gukesh to third place in the standings, intensifying the competition as the tournament nears its conclusion.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-magnus-carlsen-bangs-fist-on-board-after-loss-to-d-gukesh-at-norway-chess-leaves-in-a-huff/articleshow/121560361.cms",
+         "pubDate" : "Mon, 02 Jun 2025 03:17:47",
+         "title" : "Watch: Carlsen bangs fist on board after shock loss to D Gukesh"
+      },
+      {
          "description" : " The Norway Chess Open took place 26th May to 1st June 2025. Gergely Kantor and Elham Amar were the top seeds. Vitaly Kunin edged out Lev Yankelevich and Torben Knuedel on tie-break after all scored 7/9. Long time leader Platon Galperin lost in the final round to Knuedel. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
