@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
+         "pubDate" : "Mon, 02 Jun 2025 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "Gukesh Dommaraju scored his first-ever classical win over Magnus Carlsen in round six of the Norway Chess tournament, capitalising on the world number one's late errors in a dramatic game. With his win over Hikaru Nakamura in Armageddon, Fabiano Caruana caught Carlsen at the top of the standings. Arjun Erigaisi also won his mini-match, beating Wei Yi in the sudden-death decider. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2025-6",
+         "pubDate" : "Mon, 02 Jun 2025 16:10:00",
+         "title" : "Norway Chess: Gukesh capitalises on late errors, beats Carlsen"
+      },
+      {
          "description" : "The new FIDE rankings are out. Magnus Carlsen and Hou Yifan continue to lead the open and women's lists, while world champion Gukesh remains the top junior despite Elo losses. The month also brought shifts just behind the leaders, with strong performances from rising stars and established players alike.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/clash-of-generations-2025",
          "pubDate" : "Sun, 1 Jun 2025 20:04:00",
          "title" : "Clash of Generations 2025 - Games and Results"
-      },
-      {
-         "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
-         "pubDate" : "Sun, 01 Jun 2025 16:45:00",
-         "title" : "Norway Chess - Live!"
       },
       {
          "description" : " All the games of the fifth round of the <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">Norway Chess</a> tournament were drawn. Hikaru Nakamura had a big advantage against Arju Erigaisi but 27...Nd7? (Na6!) threw away his chances. Wei Yi too was close to winning against Gukesh until 29.Qd2? (b7!) Fabiano Caruana was pushing for a while against Magnus Carlsen but the position then became close to equal. 43...g5? was a serious error from Carlsen and if Caruana had found 44.Ke3 he would have been winning according to the engines, although I'm not sure it was that easy to work out. Erigaisi, Wei Yi and Carlsen won the Armageddon tie-break games. Carlsen leads on 9.5",
