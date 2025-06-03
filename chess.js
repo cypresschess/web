@@ -130,7 +130,7 @@ news_feed (
          "title" : "Norway Chess: Carlsen extends his lead"
       },
       {
-         "description" : "GM Magnus Carlsen seemed to be on his way to extending his lead in Norway Chess 2025 by another three points with a second win against World Champion Gukesh Dommaraju. In a losing endgame, however, the 19-year-old GM pounced on a blunder and turne...",
+         "description" : "GM Magnus Carlsen seemed to be on his way to extending his lead in Norway Chess 2025 by another three points with a second win against World Champion Gukesh Dommaraju. But the 19-year-old GM, who had been losing, pounced on a blunder and turned th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-norway-chess-round-6",
