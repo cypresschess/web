@@ -18,6 +18,14 @@ news_feed (
          "title" : "Norway Chess Women: Ju grabs the sole lead"
       },
       {
+         "description" : "The third leg of the 2025 Freestyle Chess Grand Slam Tour will take place in Las Vegas from July 16 to 20, the German organizers revealed on Tuesday. The venue for the tour&#39;s U.S. debut this summer offers fans the opportunity to follow the star-st...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/freestyle-chess-grand-slam-to-make-u-s-debut-in-las-vegas-with-live-audience",
+         "pubDate" : "Tue, 03 Jun 2025 11:33:17",
+         "title" : "Freestyle Chess Grand Slam To Make U.S. Debut In Las Vegas With Live Audience"
+      },
+      {
          "description" : "Get ready for tricks, swindles, and high levels of adrenaline. The Chess.com Hyperbullet Chess Championship is coming up, starting June 12! Get ready to prove you&#39;re the fastest &#34;pawnslinger&#34; on Chess.com.&#38;nbsp; The event is the sixth installmen...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -48,6 +56,30 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/he-was-blindly-pushing-on-normal-day-i-win-that-game-magnus-carlsen-on-painful-loss-to-d-gukesh/articleshow/121586580.cms",
          "pubDate" : "Tue, 03 Jun 2025 04:24:09",
          "title" : "'On normal day I win that game': Magnus Carlsen on loss to D Gukesh"
+      },
+      {
+         "description" : "This issue's theme is unusual openings. Sometimes these are also referred to as irregular openings. If you ever play a game using Fritz, and enable the Talk* feature, it's likely it would tell you some of the moves in these openings are novelties. This means the move didn't follow traditional opening theory, and honestly, it's probably not a comment you would generally want to hear.Each game provided has an ECO code of A00, B00, C00, D00 or E00. If the opening has a name that I can find, I've provided it. The goal was to have games that were played in 2025, but there just weren't enough to choose from that met the requirements for being included in an issue. So, games are from 2021, 2024 and",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/check-mail-june-2025-thats-unusual",
+         "pubDate" : "Tue, 03 Jun 2025 00:00:00",
+         "title" : "Check is in the Mail, June 2025: That's Unusual!"
+      },
+      {
+         "description" : "This week's puzzles come from the 32nd Annual Chicago Open, which was one of several major tournaments highlighted in yesterday's Memorial Day Weekend Wrap-Up. Enjoy more games from one of the year's more competitive opens. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-chicago-open-highlights",
+         "pubDate" : "Tue, 03 Jun 2025 00:00:00",
+         "title" : "Tactics Tuesday: Chicago Open Highlights"
+      },
+      {
+         "description" : "Excellent tournament performances will be getting extra rating recognition as the result of a change to the bonus points system.The change is effective immediately and will be retroactively applied to all tournaments that ended on or after Jan. 1 of this year.Some players may see increases in their ratings, and all updated ratings should begin to appear on Tuesday or Wednesday of next week. We will be re-rating all rated games from this year, with changes showing up in next Tuesday's rerate. The change follows a recommendation from the Ratings Committee earlier this year, after they found \"ratings on average continue[d] to deflate over time and are well below rating levels at the end of 1997",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/change-us-chess-ratings-bonus-threshold-lowered-2025",
+         "pubDate" : "Tue, 03 Jun 2025 00:00:00",
+         "title" : "Change to US Chess Ratings: Bonus Threshold Lowered"
       },
       {
          "description" : "Gukesh Dommaraju scored his first-ever classical win over Magnus Carlsen in round six of the Norway Chess tournament, capitalising on the world number one's late errors in a dramatic game. With his win over Hikaru Nakamura in Armageddon, Fabiano Caruana caught Carlsen at the top of the standings. Arjun Erigaisi also won his mini-match, beating Wei Yi in the sudden-death decider. | Photo: Michal Walusza",
@@ -650,22 +682,6 @@ news_feed (
          "title" : "Giri, Indjic, Dai Lead Sharjah Masters, Oro Hunts 1st GM Norm"
       },
       {
-         "description" : "Final Call for Applications - Maurice Ashley Fellowship!Applications are now open for the Maurice Ashley Fellowship, with the submission deadline of June 1 fast approaching.This distinguished fellowship supports young Black chess players who demonstrate exceptional promise, discipline, and a passion for the game. Selected fellows will receive elite training, mentorship, and resources designed to help them reach the next level of their chess careers. We are looking for serious applicants with a commitment to growth and a love for the game. If you know a promising player who could benefit from this program, please encourage them to apply today.🗓 Deadline: June 1, 2025🔗 Apply Here: https:",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/final-call-applications-maurice-ashley-fellowship",
-         "pubDate" : "Thu, 22 May 2025 00:00:00",
-         "title" : "Final Call for Applications - Maurice Ashley Fellowship!"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Monday, May 26 in observance of Memorial Day.All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items. We strongly encourage submitting anything time-sensitive by 12:00 p.m. CDT on Friday, May 23 in order to guarantee it is reviewed before we re-open at 8:00 a.m. CDT on Tuesday, May 27. Thank you for your understanding. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-offices-closed-monday-may-26",
-         "pubDate" : "Thu, 22 May 2025 00:00:00",
-         "title" : "US Chess Offices Closed Monday, May 26"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-world-chess-hall-of-fame-galleries-and-grand-chess-tour-launch-150000-matching-donation-campaign-for-saint-louis-tornado-relief/\">Saint Louis Chess Club, World Chess Hall of Fame &amp; Galleries and Grand Chess Tour Launch $150,000 Matching Donation Campaign for Saint Louis Tornado Relief</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -722,28 +738,12 @@ news_feed (
          "title" : "Arjun Takes Titled Tuesday With 10/10, Locks In Speed Chess Championship Spot"
       },
       {
-         "description" : "Editor's note: WGM Sabina Foisor's annotations of IM-Elect and eventual K-12 Co-Champion Tani Adewumi's wild Sicilian against fellow New Yorker Aiden Reiss was one of the many highlights of her reporting and commentary from SuperNationals VIII. This one game could easily fill several worksheets, so we had to give some of her best finds from her analysis some additional love here. When Sabina told me to keep an eye out for her annotations to this game, all she had to say was, \"This game was fire.\" It's hard to add much more than that. The previous installment of our series from Orlando is available here, and all coverage of the event can be found here.This game was fire. <br> <br> <br> <br> I",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-storm-supernationals-viii",
-         "pubDate" : "Wed, 21 May 2025 00:00:00",
-         "title" : "Wednesday Workout: Storm of the SuperNationals VIII"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121297712.cms\" />Magnus Carlsen recently faced a unique challenge, battling over 143,000 chess enthusiasts worldwide in a freestyle game hosted online. This marked the first time a reigning or former world champion participated in such a format. Despite predictions favouring Carlsen, Team World played strategically, leading to a draw by move 32 via threefold repetition.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-vs-the-world-when-the-world-no-1-chess-player-took-on-143000-people-in-a-historic-freestyle-showdown/articleshow/121297712.cms",
          "pubDate" : "Tue, 20 May 2025 16:41:24",
          "title" : "Carlsen vs World: When the No. 1 chess player took on 143,000 people"
-      },
-      {
-         "description" : "GMs Magnus Carlsen, Hikaru Nakamura, Nodirbek Abdusattorov, and&#38;nbsp;Ian Nepomniachtchi are the last ones standing in the Winners Bracket after day one of the 2025 Chess.com Classic Playoffs. On their last lives in the Losers Bracket are eight mor...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-cct-chesscom-classic-playoffs-day-1",
-         "pubDate" : "Tue, 20 May 2025 13:07:00",
-         "title" : "Carlsen, Nakamura, Abdusattorov, Nepomniachtchi Advance To Winners Semifinals"
       },
       {
          "description" : "The European Corporate Chess Championship 2025, organised by Asnière Le Grand Echiquier under the auspices of the European Chess Union, will be held on 7-8 November in Asnieres sur Seine, Paris, France. The event will be played in 9 rounds, swiss system, with time control of 15 minutes for the whole game, plus 5 seconds of an increment starting from move one. The system of match pointsis as follows: a match won is worth 3 match points, a draw 2 []",
@@ -904,14 +904,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2025-2026/",
          "pubDate" : "Wed, 14 May 2025 13:47:55",
          "title" : "Winton British Chess Solving Championship 2025-2026"
-      },
-      {
-         "description" : " U.S. Chess Federation President Kevin Pryor has been at the helm for nearly a year and has been enthusiastic about growing membership. He attended the 2025 HBCU Chess Classic at King's Chapel at Morehouse College to lend support to the outreach initiatives at Historically Black Colleges &#38; Universities (HBCUs). Kevin Pryor speaks at the opening The post <a href=\"https://thechessdrum.net/blog/2025/05/13/kevin-pryor-chats-with-the-chess-drum/\">Kevin Pryor chats with The Chess Drum</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/05/13/kevin-pryor-chats-with-the-chess-drum/",
-         "pubDate" : "Tue, 13 May 2025 18:52:56",
-         "title" : "Kevin Pryor chats with The Chess Drum"
       }
    ]
 }
