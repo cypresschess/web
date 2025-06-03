@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
+         "pubDate" : "Tue, 03 Jun 2025 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "Ju Wenjun took the sole lead at the Norway Chess Women tournament after claiming her first classical win of the event against Sara Khadem in round seven. Humpy Koneru and Anna Muzychuk drew both their games, allowing Muzychuk, who had the black pieces, to collect 1&frac12; points. Lei Tingjie also notched her first classical victory by beating Vaishali Rameshbabu. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-women-2025-7",
+         "pubDate" : "Tue, 03 Jun 2025 14:45:00",
+         "title" : "Norway Chess Women: Ju grabs the sole lead"
+      },
+      {
+         "description" : "Get ready for tricks, swindles, and high levels of adrenaline. The Chess.com Hyperbullet Chess Championship is coming up, starting June 12! Get ready to prove you&#39;re the fastest &#34;pawnslinger&#34; on Chess.com.&#38;nbsp; The event is the sixth installmen...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-hyperbullet-chess-championship-2025",
+         "pubDate" : "Tue, 03 Jun 2025 08:00:00",
+         "title" : "Join The Chess.com Hyperbullet Chess Championship Starting June 12"
+      },
+      {
          "description" : "Recently GM and international trainer Eftratios Grivas reminded us that the knight is a piece that cannot win/lose a tempo. In this series GM of studies he demonstrated the principles involved in using this fact to win, or to defend a dangerous position. Were you able to follow everything? Today you can find out if you really understand this endgame. Test your skills.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,22 +50,6 @@ news_feed (
          "title" : "'On normal day I win that game': Magnus Carlsen on loss to D Gukesh"
       },
       {
-         "description" : "Premature resignation in chess has long been a subject of debate, and recent events have brought it back into focus. Hikaru Nakamura's resignation against Magnus Carlsen in a winning position sparked discussion about etiquette, pressure and online play. While resignation is often appropriate, even expected, history shows many cases where players have walked away from drawn or even winning positions. A look at some notable examples highlights the fine line between prudence and error. | Photo: chess.com / Thomas Tischio",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-228",
-         "pubDate" : "Mon, 02 Jun 2025 23:50:00",
-         "title" : "Jon Speelman: Keeping the king upright"
-      },
-      {
-         "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
-         "pubDate" : "Mon, 02 Jun 2025 16:45:00",
-         "title" : "Norway Chess - Live!"
-      },
-      {
          "description" : "Gukesh Dommaraju scored his first-ever classical win over Magnus Carlsen in round six of the Norway Chess tournament, capitalising on the world number one's late errors in a dramatic game. With his win over Hikaru Nakamura in Armageddon, Fabiano Caruana caught Carlsen at the top of the standings. Arjun Erigaisi also won his mini-match, beating Wei Yi in the sudden-death decider. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-norway-chess-round-7",
          "pubDate" : "Mon, 02 Jun 2025 12:49:00",
          "title" : "Caruana Leads, Gukesh Wins Another Turnaround"
-      },
-      {
-         "description" : "The new FIDE rankings are out. Magnus Carlsen and Hou Yifan continue to lead the open and women's lists, while world champion Gukesh remains the top junior despite Elo losses. The month also brought shifts just behind the leaders, with strong performances from rising stars and established players alike.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-june-2025",
-         "pubDate" : "Mon, 02 Jun 2025 11:55:09",
-         "title" : "FIDE ratings - June 2025"
       },
       {
          "description" : " The 13th Norway Chess tournament takes place Mon 26th May to Fri 6th Jun 2025 in Stavanger, Norway. There are two elite tournaments, the regular tournament and a women's event, both are 6 players and 10 rounds. Norway chess have a unique twist in that if games are drawn there is an additional Armageddon game. So the points are: Win in the classical game: 3 points, Loss in the classical game: 0 points, Draw in the classical game & win Armageddon: 1&frac12; points, Draw in the classical game & loss Armageddon: 1 point. Players: Magnus Carlsen, Hikaru Nakamura, D Gukesh, Arjun Erigaisi, Fabiano Caruana and Wei Yi. Women's event: Ju Wenjun, Lei Tingjie, Humpy Koneru, Anna Muzychuk,Rameshbabu Va",
@@ -144,14 +144,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/magnus-continues-to-lead-the-norway-chess-tournament-after-five-rounds",
          "pubDate" : "Sun, 1 Jun 2025 14:27:00",
          "title" : "Magnus continues to lead the Norway Chess tournament after five rounds - "
-      },
-      {
-         "description" : "Magnus Carlsen holds a 1&frac12;-point lead at the top of the Norway Chess standings after defeating Fabiano Caruana in Armageddon following a drawn classical game. All three encounters in round five required tiebreaks, with Arjun Erigaisi and Wei Yi also securing 1&frac12; points each after winning their respective sudden-death games against Hikaru Nakamura and Gukesh Dommaraju. Wei's result marked his third straight Armageddon victory. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2025-5",
-         "pubDate" : "Sun, 01 Jun 2025 14:00:00",
-         "title" : "Norway Chess: Carlsen extends his lead"
       },
       {
          "description" : "GM Magnus Carlsen seemed to be on his way to extending his lead in Norway Chess 2025 by another three points with a second win against World Champion Gukesh Dommaraju. But the 19-year-old GM, who had been losing, pounced on a blunder and turned th...",
@@ -752,14 +744,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-cct-chesscom-classic-playoffs-day-1",
          "pubDate" : "Tue, 20 May 2025 13:07:00",
          "title" : "Carlsen, Nakamura, Abdusattorov, Nepomniachtchi Advance To Winners Semifinals"
-      },
-      {
-         "description" : "World number-one GM Magnus Carlsen was held to a draw by more than 143,000 players in the Magnus vs. The World game on Chess.com, the largest online chess game ever held. The historic game ended on Tuesday after 32 moves when The World forced a ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-world-forces-draw-in-historic-game-vs-magnus-carlsen",
-         "pubDate" : "Tue, 20 May 2025 11:03:00",
-         "title" : "Magnus Carlsen Held To Draw By 143,000 Players In Largest-Ever Online Chess Game"
       },
       {
          "description" : "The European Corporate Chess Championship 2025, organised by Asnière Le Grand Echiquier under the auspices of the European Chess Union, will be held on 7-8 November in Asnieres sur Seine, Paris, France. The event will be played in 9 rounds, swiss system, with time control of 15 minutes for the whole game, plus 5 seconds of an increment starting from move one. The system of match pointsis as follows: a match won is worth 3 match points, a draw 2 []",
