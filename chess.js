@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Sam Shankland won the 2025 American Continental Chess Championship in Foz do Iguaçu, Brazil, after finishing in a seven-way tie for first place and prevailing on the Buchholz tiebreak criterion. The event, held from 23 to 31 May, awarded four places for the 2025 FIDE World Cup. Jos&eacute; Eduardo Mart&iacute;nez and Alexandr Fier joined Shankland on the podium, while Jos&eacute; Gabriel Cardoso secured the final qualification spot. | Photo: FIDE Americas",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-continental-ch-2025-report",
+         "pubDate" : "Tue, 03 Jun 2025 23:50:00",
+         "title" : "Sam Shankland wins American Continental Championship"
+      },
+      {
          "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-women-2025-7",
          "pubDate" : "Tue, 03 Jun 2025 14:45:00",
          "title" : "Norway Chess Women: Ju grabs the sole lead"
+      },
+      {
+         "description" : "A team of GM Benjamin Bok and Ronnyberger convincingly won 5-0 in the final of the Grand Chess Gala at TwitchCon EU in Rotterdam on Sunday, hosted by none other than WFM Anna Cramling.. Chess was prominently featured at the biggest event in the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bok-berger-win-anna-cramling-hosted-grand-chess-gala-at-twitchcon-eu",
+         "pubDate" : "Tue, 03 Jun 2025 13:31:43",
+         "title" : "Bok & Berger Win Anna Cramling Hosted Grand Chess Gala At TwitchCon EU"
+      },
+      {
+         "description" : "GM Fabiano Caruana continues to lead Norway Chess 2025 after round eight, even after his classical loss to GM Arjun Erigaisi in a time scramble. It was a heartbreaker for the leader, as Caruana had been pressing for the entire game. GM Magnus Carl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-norway-chess-round-8",
+         "pubDate" : "Tue, 03 Jun 2025 12:45:00",
+         "title" : "Nakamura Beats Gukesh; Caruana, Carlsen Blunder"
       },
       {
          "description" : "The third leg of the 2025 Freestyle Chess Grand Slam Tour will take place in Las Vegas from July 16 to 20, the German organizers revealed on Tuesday. The venue for the tour&#39;s U.S. debut this summer offers fans the opportunity to follow the star-st...",
@@ -34,14 +58,6 @@ news_feed (
          "title" : "Join The Chess.com Hyperbullet Chess Championship Starting June 12"
       },
       {
-         "description" : "Recently GM and international trainer Eftratios Grivas reminded us that the knight is a piece that cannot win/lose a tempo. In this series GM of studies he demonstrated the principles involved in using this fact to win, or to defend a dangerous position. Were you able to follow everything? Today you can find out if you really understand this endgame. Test your skills.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/can-you-win-this-ending",
-         "pubDate" : "Tue, 03 Jun 2025 07:31:22",
-         "title" : "Can you win this ending?"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121587569.cms\" />D Gukesh prevailed over Arjun Erigaisi at Norway Chess, his first classical win against him, propelling him to second place. Fabiano Caruana leads the tournament after defeating Wei Yi. Magnus Carlsen secured third place with an Armageddon win over Hikaru Nakamura. Gukesh's win over Erigaisi comes on the back of a win over Magnus Carlsen, where the World No 1 lost his afterwards.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/he-was-blindly-pushing-on-normal-day-i-win-that-game-magnus-carlsen-on-painful-loss-to-d-gukesh/articleshow/121586580.cms",
          "pubDate" : "Tue, 03 Jun 2025 04:24:09",
          "title" : "'On normal day I win that game': Magnus Carlsen on loss to D Gukesh"
+      },
+      {
+         "description" : "\"It is my wish and desire that the United States Chess Federation use this gift to establish a fund in my name and that the income generated therefrom be used for the furtherance of the chess capabilities of chess players from 18 through 21 years of age.\" - Dr. Herbert B. JacklynAPPLY NOWUS Chess is opening the application process for the 2025-2026 Herbert B. Jacklyn Program. The program is funded by a generous bequest to US Chess from the late Dr. Herbert B. Jacklyn. It was the wish of Dr. Jacklyn that income derived from investing his gift be used to improve the chess of players 18 to 21 years of age. The deadline for submitting is August 1, 2025.US Chess aims to provide opportunities for ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/herbert-b-jacklyn-program-open-2025-26-submissions",
+         "pubDate" : "Tue, 03 Jun 2025 00:00:00",
+         "title" : "The Herbert B. Jacklyn Program is Open For 2025-26 Submissions"
       },
       {
          "description" : "This issue's theme is unusual openings. Sometimes these are also referred to as irregular openings. If you ever play a game using Fritz, and enable the Talk* feature, it's likely it would tell you some of the moves in these openings are novelties. This means the move didn't follow traditional opening theory, and honestly, it's probably not a comment you would generally want to hear.Each game provided has an ECO code of A00, B00, C00, D00 or E00. If the opening has a name that I can find, I've provided it. The goal was to have games that were played in 2025, but there just weren't enough to choose from that met the requirements for being included in an issue. So, games are from 2021, 2024 and",
@@ -642,14 +666,6 @@ news_feed (
          "title" : "Photo Report: Assorted Medalists"
       },
       {
-         "description" : "Editor's note: The event regulations for this event were released by FIDE on Thursday May 22, 2025.Registration is now open for the FIDE World Cadet Chess Championships 2025. The international event - organized by FIDE and the Kazakhstan Chess Federation and the Department of Sports of the City of Almaty with support of the Ministry of Sports and Tourism of the Republic of Kazakhstan - will be held in Almaty, Kazakhstan from September 18 through October 1, 2025.US Chess will be accepting registrations for eligible U.S. participants until Friday, June 6. TOURNAMENT DETAILS AND ELIGIBILITYThere will be six sections: Open and Girls in age categories Under 12, Under 10, and Under 8.A player's ag",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/registration-open-2025-fide-world-cadet-chess-championships",
-         "pubDate" : "Fri, 23 May 2025 00:00:00",
-         "title" : "Registration Open for 2025 FIDE World Cadet Chess Championships"
-      },
-      {
          "description" : "The European Amateur Chess Championships 2025 will be held from 25 November (arrivals) to 5 December (departures) in the Conference Hall of the 4-star \"Riviera Spa Resort\" Hotel in Mellieha, Malta. The event will be played in three rating categories: U2300, U2000, and U1700, and it's open to all players registered or approved by their national federations listed as the ECU members. In order to be eligible to participate in the tournament, the players must fulfill the following conditions: Each []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -698,14 +714,6 @@ news_feed (
          "title" : "ChessFest returns - 13th July"
       },
       {
-         "description" : "GM Magnus Carlsen earned his spot in the 2025 Chess.com Classic Grand Final after knocking GMs Nodirbek Abdusattorov and Hikaru Nakamura out of the Winners Bracket. In a hard-to-believe finale, Nakamura seemed on the verge of a comeback in game fo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-cct-chesscom-classic-playoffs-day-2",
-         "pubDate" : "Wed, 21 May 2025 12:34:00",
-         "title" : "Carlsen Advances After Nakamura Resigns In Winning Position"
-      },
-      {
          "description" : "The ECF is pleased to announce that the Board has decided to appoint Tim Wall as the Junior Development Director to succeed Alex Holowczak. Tim is well known throughout the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2025-glorney-cup/",
          "pubDate" : "Wed, 21 May 2025 08:38:34",
          "title" : "2025 Glorney Cup"
-      },
-      {
-         "description" : "As the Titled Tuesday Grand Prix nears its conclusion, with just two tournaments now remaining, the players we will see at the 2025 Speed Chess Championship are coming into view. GM Dmitry Andreikin won the first tournament of Titled Tuesday on Ma...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andreikin-arjun-win-titled-tuesday-may-20-2025",
-         "pubDate" : "Wed, 21 May 2025 07:43:18",
-         "title" : "Arjun Takes Titled Tuesday With 10/10, Locks In Speed Chess Championship Spot"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121297712.cms\" />Magnus Carlsen recently faced a unique challenge, battling over 143,000 chess enthusiasts worldwide in a freestyle game hosted online. This marked the first time a reigning or former world champion participated in such a format. Despite predictions favouring Carlsen, Team World played strategically, leading to a draw by move 32 via threefold repetition.",
