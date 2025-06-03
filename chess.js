@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Recently GM and international trainer Eftratios Grivas reminded us that the knight is a piece that cannot win/lose a tempo. In this series GM of studies he demonstrated the principles involved in using this fact to win, or to defend a dangerous position. Were you able to follow everything? Today you can find out if you really understand this endgame. Test your skills.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/can-you-win-this-ending",
+         "pubDate" : "Tue, 03 Jun 2025 07:31:22",
+         "title" : "Can you win this ending?"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121587569.cms\" />D Gukesh prevailed over Arjun Erigaisi at Norway Chess, his first classical win against him, propelling him to second place. Fabiano Caruana leads the tournament after defeating Wei Yi. Magnus Carlsen secured third place with an Armageddon win over Hikaru Nakamura. Gukesh's win over Erigaisi comes on the back of a win over Magnus Carlsen, where the World No 1 lost his afterwards.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-after-magnus-carlsen-d-gukesh-beats-arjun-erigaisi-jumps-to-second-spot/articleshow/121587569.cms",
+         "pubDate" : "Tue, 03 Jun 2025 05:10:26",
+         "title" : "Norway Chess: After Magnus Carlsen, D Gukesh beats Arjun Erigaisi"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121586580.cms\" />Magnus Carlsen faced a shocking defeat against 19-year-old Indian Grandmaster D Gukesh at the Norway Chess tournament, triggering visible frustration. Carlsen acknowledged Gukesh's fighting spirit and youthful energy as decisive factors. Following the loss, Carlsen rebounded with an Armageddon win over Hikaru Nakamura.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/he-was-blindly-pushing-on-normal-day-i-win-that-game-magnus-carlsen-on-painful-loss-to-d-gukesh/articleshow/121586580.cms",
+         "pubDate" : "Tue, 03 Jun 2025 04:24:09",
+         "title" : "'On normal day I win that game': Magnus Carlsen on loss to D Gukesh"
+      },
+      {
          "description" : "Premature resignation in chess has long been a subject of debate, and recent events have brought it back into focus. Hikaru Nakamura's resignation against Magnus Carlsen in a winning position sparked discussion about etiquette, pressure and online play. While resignation is often appropriate, even expected, history shows many cases where players have walked away from drawn or even winning positions. A look at some notable examples highlights the fine line between prudence and error. | Photo: chess.com / Thomas Tischio",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
