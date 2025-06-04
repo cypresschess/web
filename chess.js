@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Hans Moke Niemann played an 18 game blitz match against Anish Giri starting 4pm BST on 4th June. Just one day of blitz games and played online using the website Endgame.AI. Niemann seemed to have the match wrapped up but Giri mounted a comeback and won the final four games to run out a 9.5-8.5 winner. In the final game Giri was down to the increment for many, many moves and Niemann was almost 90 seconds up at one stage and even had 60 seconds at the end when he walked into mate when Giri had only 10. \"Sorry guys, I choked\" was Niemann's reaction.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/hans-moke-niemann-vs-anish-giri-rematch-2025",
+         "pubDate" : "Wed, 4 Jun 2025 18:49:00",
+         "title" : "Hans Moke Niemann vs Anish Giri Rematch 2025 - Games and Results"
+      },
+      {
+         "description" : "The conversation with Matthias W&uuml;llenweber about Fritz 20 highlights the numerous innovations in the new version: A key focus is on the new opponent characters, including legends like Fischer, Lasker, Capablanca, and Karpov. Another highlight is the AI-powered voice commentary, featuring over 170 chess-related themes that provide both entertainment and educational value-available in multiple languages if desired. In addition, the opening repertoires of real chess legends like Fischer have been integrated, and the new \"Bullet Training\" mode offers practical time-management training against realistically acting opponents. The newly improved engine is also a major upgrade and presents an i",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/matthias-wuellenweber-on-fritz-20-more-fun-more-style-more-ai",
+         "pubDate" : "Wed, 04 Jun 2025 16:11:27",
+         "title" : "Matthias W&uuml;llenweber on Fritz 20: More Fun, More Style, More AI"
+      },
+      {
+         "description" : "Last year FIDE celebrated its 100th anniversary. The book \"100 Years of FIDE\" is an illustrated history of the World Chess Federation. From it we excerpt passages, with kind permission, this time from the first World Championships in the post-war era - after the sudden death of World Champion Alexander Alekhine. It is a great chance to brush up your knowledge of chess history.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-history-era-of-soviet-domination",
+         "pubDate" : "Wed, 04 Jun 2025 15:00:00",
+         "title" : "FIDE history: Era of Soviet Domination"
+      },
+      {
+         "description" : " Fabiano Caruana leads the <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">Norway Chess</a> tournament with 12.5 points out of a possible 24 half a point clear of Magnus Carlsen who has 12 points, this after 8 rounds, they meet in Round 9 on Thursday. By this point the tournament has almost completely been derailed by Magnus Carlsen's troubled tournament. Ever since Carlsen lost from a winning position against Gukesh he's been completely off. He clearly doesn't want to be there. In Round 7 Carlsen forced a quick draw against Nakamura and won the subsequent tie-break, then in round 8 he drew in the classical game and then just dropped a piece against Wei Yi. It se",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/caruana-leads-in-norway-after-8-rounds-ahead-of-his-game-with-carlsen",
+         "pubDate" : "Wed, 4 Jun 2025 14:16:00",
+         "title" : "Caruana leads in Norway after 8 rounds ahead of his game with Carlsen - 8"
+      },
+      {
+         "description" : "Congratulations to Petts Wood &#38; Orpington and Durham University Alumni teams for finishing in the top 10 out of nearly 100 teams in the 2025 season of the World Chess...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/two-english-teams-qualify-for-the-2025-world-chess-league-play-offs/",
+         "pubDate" : "Wed, 04 Jun 2025 13:59:38",
+         "title" : "Two English teams qualify for the 2025 World Chess League play-offs!"
+      },
+      {
+         "description" : " The Polish Ekstraliga takes place 2nd to 10th June 2025. Leading players: Pentala Harikrishna, Frederik Svane, Matthias Bluebaum, David Navara, Daniel Dardha, Nils Grandelius, Rasmus Svane, Andrei Volokitin, Maxime Lagarde, Ferenc Berkes, Marc Andria Maurizzi etc",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tch-pol-ekstraliga-2025",
+         "pubDate" : "Wed, 4 Jun 2025 12:41:00",
+         "title" : "TCh-POL Ekstraliga 2025 - Games and Results"
+      },
+      {
+         "description" : " The Dubai Open took place 27th May to 4th June 2025. Aleksey Grebnev edged out Alan Pichot on tie-break after both scored 7/9. Top seed Sarin Nihal finished a point off the lead tied for sixth.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/dubai-open-2025",
+         "pubDate" : "Wed, 4 Jun 2025 12:37:00",
+         "title" : "Dubai Open 2025 - Games and Results"
+      },
+      {
+         "description" : "ChessUp 2, the smart chessboard that lets you play Chess.com games on a real board, is back with an exclusive limited-time offer for Chess.com members! You can now use the coupon code CCT10 for a 10% discount.&#38;nbsp; With ChessUp 2, you can exper...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chessup-2-coupon-2025",
+         "pubDate" : "Wed, 04 Jun 2025 12:16:57",
+         "title" : "Claim Your 10% Discount On ChessUp 2 And Join Thousands Of Members Enjoying Chess.com On A Physical Board"
+      },
+      {
          "description" : "Eight days ago, on Saturday, 24 May, the funeral service for Grand Master Vlastimil Hort, who passed away on 12 May, took place in Eitorf. His wife, Brigitte; his son; his grandson; and his friends and relatives said goodbye to this kind-hearted man. One fan expressed his grief by posting a song on YouTube.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,20 +90,28 @@ news_feed (
          "title" : "Norway Chess Women: Humpy beats Khadem to regain the sole lead"
       },
       {
+         "description" : "Former US Champion Sam Shankland Becomes 2025 American Continental ChampionFOZ DO IGUAÇU, BRAZIL-The FIDE Americas Tournament Committee seems to have been more deliberate in selecting the location of the annual American Continental Championship as of late. While there were no Olympic torch ceremonies or former world champions in attendance, this year's edition was breathtakingly situated barely an hour away from Iguazu Falls, often deemed one of the \"natural wonders of the world.\" <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Iguazu Falls, which are situated on the border of Brazil, Argentina, and Paraguay (Photo courtesy of PICRYL, Creative Commons",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/shankland-wins-2025-american-continental-qualifies-world-cup",
+         "pubDate" : "Wed, 04 Jun 2025 00:00:00",
+         "title" : "Shankland Wins 2025 American Continental, Qualifies for World Cup"
+      },
+      {
+         "description" : "This week's exercises come from the 32nd Annual Chicago Open, adding even more highlights to those collected in yesterday's Tactics Tuesday and Monday's Memorial Day Weekend Wrap-Up. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-chicago-open-highlights",
+         "pubDate" : "Wed, 04 Jun 2025 00:00:00",
+         "title" : "Wednesday Workout: Chicago Open Highlights"
+      },
+      {
          "description" : "Sam Shankland won the 2025 American Continental Chess Championship in Foz do Iguaçu, Brazil, after finishing in a seven-way tie for first place and prevailing on the Buchholz tiebreak criterion. The event, held from 23 to 31 May, awarded four places for the 2025 FIDE World Cup. Jos&eacute; Eduardo Mart&iacute;nez and Alexandr Fier joined Shankland on the podium, while Jos&eacute; Gabriel Cardoso secured the final qualification spot. | Photo: FIDE Americas",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/american-continental-ch-2025-report",
          "pubDate" : "Tue, 03 Jun 2025 23:50:00",
          "title" : "Sam Shankland wins American Continental Championship"
-      },
-      {
-         "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
-         "pubDate" : "Tue, 03 Jun 2025 16:45:00",
-         "title" : "Norway Chess - Live!"
       },
       {
          "description" : "A team of GM Benjamin Bok and Ronnyberger convincingly won 5-0 in the final of the Grand Chess Gala at TwitchCon EU in Rotterdam on Sunday, hosted by none other than WFM Anna Cramling.. Chess was prominently featured at the biggest event in the ...",
@@ -490,14 +562,6 @@ news_feed (
          "title" : "Bellahcene, Wafa are 2025 African Champions!"
       },
       {
-         "description" : "Today's puzzles continues our series from SuperNationals VIII in Orlando. The flash report with photos and the full report are both available, and more photos of medalists can be seen here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-supernationals-viii-pt-3",
-         "pubDate" : "Tue, 27 May 2025 00:00:00",
-         "title" : "Tactics Tuesday: SuperNationals VIII, Pt. 3"
-      },
-      {
          "description" : " Magnus Carlsen beat World Champion D Gukesh in the first round of the <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">13th Norway Chess tournament</a>. Carlsen tried to surprise Gukesh in the opening with the London but ended up being surprised himself with 4....Bg4. There was a long struggle that led to a sharp endgame and down to less than 10 seconds on the clock Gukesh blundered away a draw with 46.Qh6? instead of 46.Rg2+ which was his only move. Hikaru Nakamura won in the endgame too, against Fabiano Caruana. Arjun Erigaisi drew against Wei Yi with the black pieces but beat him in the Armageddon. This extra game divides the points between the players in case",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -562,22 +626,6 @@ news_feed (
          "title" : "Giri Wins 2025 Sharjah Masters, Assaubayeva Earns GM Title"
       },
       {
-         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025\">30th Sigeman & Co tournament</a> is still being led by Javokhir Sindarov on 4/6 who drew against Nils Grandelius in round 6. He faces Vasyl Ivanchuk in the final round. Ivanchuk suffered his second loss of the tournament on time in his defeat by Richard Rapport. This was a wild London where Ivanchuk equalised, then got into trouble and was lost, was allowed back into the game and then lost on time. Yagiz Kaan Erdogmus drew with Ray Robson in 109 moves. Tan Zhongyi drew with Erwin L'Ami. The <a href=\"https://theweekinchess.com/chessnews/events/match-of-two-capitals-2025\">Match of Two Capitals</a> ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-sunday-25th-may-2025",
-         "pubDate" : "Sun, 25 May 2025 20:29:00",
-         "title" : "Chess on Sunday 25th May 2025 - "
-      },
-      {
-         "description" : " The 8th Sharjah Masters took place Sat 17th to Sun 25th May 2025. Leading players: Nodirbek Abdusattorov, Anish Giri, Parham Maghsoodloo, Samuel Sevian, Amin Tabatabaei M. Shant Sargsyan and Gabriel Sargissian etc. Anish Giri took clear first place with 7/9 beating Mittal Aditya in the final round. Nodirbek Abdusattorov could only draw with the black pieces against M Amin Tabatabaei. Bibisara Assaubayeva drew against Rinat Jumabayev and became the 43rd woman to earn the GM title.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/8th-sharjah-masters-2025",
-         "pubDate" : "Sun, 25 May 2025 19:15:00",
-         "title" : "8th Sharjah Masters 2025 - Games and Results"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121396816.cms\" />Indian grandmasters D Gukesh and Arjun Erigaisi are set to compete in the prestigious Norway Chess tournament, facing formidable opponents like Magnus Carlsen and Hikaru Nakamura. Koneru Humpy and R Vaishali will represent India in the women's section. The tournament features equal prize money for both men and women, highlighting India's growing presence in the chess world.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -592,14 +640,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/shogdzhiev-achieves-final-norm-becomes-youngest-ever-international-master",
          "pubDate" : "Sun, 25 May 2025 07:19:00",
          "title" : "Shogdzhiev Smashes Oro's Record To Become Youngest International Master In History"
-      },
-      {
-         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025\">30th Sigeman & Co tournament</a> is led by Javokhir Sindarov alone with 3.5/5 after drawing with Richard Rapport. Yagiz Kaan Erdogmus who was tied in the lead lost to Vasyl Ivanchuk who took advantage of a number of inaccuracies to win in 44 moves, Ivanchuk's final move is very nice. Last minute substitute Erwin L'Ami has had a tough tournament but managed to beat Nils Grandelius in 51 moves, although after getting a winning position he did give Grandelius an untaken chance to save himself. Ray Robson and Tan Zhongyi drew in 47 moves. Light notes for the two decisive games below. The <a href=\"htt",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-saturday-24th-may-2025",
-         "pubDate" : "Sat, 24 May 2025 21:21:00",
-         "title" : "Chess on Saturday 24th May 2025 - "
       },
       {
          "description" : "GM Daniel Naroditsky attained his 28th Bullet Brawl&#38;nbsp;title and the $400 first prize after scoring 247 points on Saturday. GM Hikaru Nakamura was Naroditsky&#39;s main adversary but couldn&#39;t keep pace with Naroditsky, who worked through a record-br...",
@@ -624,14 +664,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-on-tv-from-famine-to-glut/",
          "pubDate" : "Sat, 24 May 2025 06:16:31",
          "title" : "Chess on TV: from famine to glut"
-      },
-      {
-         "description" : " Today is Anatoly Karpov's 74th birthday and the <a href=\"https://theweekinchess.com/chessnews/events/karpov-cup-50-years-later-2025\">event celebrating the 50th anniversary of him becoming world champion</a> finished. Ian Nepomniachtchi won the event with 6/9 half a point clear of Alexander Grischuk and Vladislav Artemiev. Magnus Carlsen made easy work of Maxime Vachier-Lagrave in the Grand Final of the <a href=\"https://theweekinchess.com/chessnews/events/chess.com-classic-2025\">Chess.com Classic</a>. He said afterwards he had hoped it would be good practice for the Norway Chess starting on Monday but it wasn't because he'd made such quick work of winning. I give very light notes to all thre",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-friday-23rd-may-2025",
-         "pubDate" : "Fri, 23 May 2025 22:03:00",
-         "title" : "Chess on Friday 23rd May 2025 - "
       },
       {
          "description" : "GM Minh Le won the May 23 edition of Freestyle Friday with 9.5 points, beating out a field of 243 players, including GM Luca Moroni Jr. on tiebreaks. It was the first win in Freestyle Friday for the eight-time Titled Tuesday champion Le. Le scor...",
@@ -666,14 +698,6 @@ news_feed (
          "title" : "National solving championship is open and 'Chess Messi' closing on record"
       },
       {
-         "description" : "This page features every photo we have, so far, from any of the awards ceremonies at SuperNationals VIII. These photos are categorized and tagged to the best of our ability, but that still leaves many top finishers without photos and many photos without identifications. The below text explains more about why this is the case.You're invited to email Click here to show email address with any relevant photos and identifications, and we will happily continue to update this page. Keep an eye out for more general tournament photos on our Facebook page.Jump to: Blitz Winners | Bughouse Winners | K-12 Winners | K-8 Winners | K-6 and K-5 Winners | K-3 and K-1 Winners With over 4,500 players competing",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/photo-gallery-assorted-winners",
-         "pubDate" : "Fri, 23 May 2025 00:00:00",
-         "title" : "Photo Report: Assorted Medalists"
-      },
-      {
          "description" : "The European Amateur Chess Championships 2025 will be held from 25 November (arrivals) to 5 December (departures) in the Conference Hall of the 4-star \"Riviera Spa Resort\" Hotel in Mellieha, Malta. The event will be played in three rating categories: U2300, U2000, and U1700, and it's open to all players registered or approved by their national federations listed as the ECU members. In order to be eligible to participate in the tournament, the players must fulfill the following conditions: Each []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -696,14 +720,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-cct-chesscom-classic-playoffs-day-3",
          "pubDate" : "Thu, 22 May 2025 11:19:00",
          "title" : "Vachier-Lagrave Advances To Grand Final Vs. Carlsen"
-      },
-      {
-         "description" : "GM Anish Giri leads the 2025 Sharjah Masters with four points from five rounds, together with GMs Aleksandar Indjic and Dai Changren. The group just half a point behind includes 2700 stars GMs Nodirbek Abdusattorov and Parham Maghsoodloo, but also...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sharjah-masters-2025-round-5",
-         "pubDate" : "Thu, 22 May 2025 03:47:00",
-         "title" : "Giri, Indjic, Dai Lead Sharjah Masters, Oro Hunts 1st GM Norm"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-world-chess-hall-of-fame-galleries-and-grand-chess-tour-launch-150000-matching-donation-campaign-for-saint-louis-tornado-relief/\">Saint Louis Chess Club, World Chess Hall of Fame &amp; Galleries and Grand Chess Tour Launch $150,000 Matching Donation Campaign for Saint Louis Tornado Relief</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -874,36 +890,12 @@ news_feed (
          "title" : "In a restaurant in Paris"
       },
       {
-         "description" : "The Board is continuing with the restructuring announced previously. As previewed at the Finance Council meeting, Alex Longson has stepped down as Finance Director and been appointed as Financial Controller....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chief-executive-and-finance-director/",
-         "pubDate" : "Thu, 15 May 2025 10:38:22",
-         "title" : "Chief Executive and Finance Director"
-      },
-      {
          "description" : "In the fourth world championship match between Garry Kasparov and Anatoly Karpov, played in Seville in 1987, the score was 12-11 in Karpov's favor, putting Kasparov in a must-win situation to retain his title. This game was the subject of our previous article. We invited our readers to analyze with us, to solve a historical riddle. Here are the results.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/kasparov-karpov-1987-riddle-solutions",
          "pubDate" : "Wed, 14 May 2025 20:00:00",
          "title" : "Kasparov-Karpov 1987 riddle solutions"
-      },
-      {
-         "description" : "In Memoriam: Professor Kurt Jungwirth (1929-2025) Founding Father of European Chess Union It is with profound sadness that we announce the passing of Professor Kurt Jungwirth, the visionary founder of the European Chess Union (ECU), who left us on May 13, 2025. As one of the most influential figures in European chess history, Professor Jungwirth's legacy will forever be etched in the annals of the sport. In 1985, Professor Jungwirth brought his dream to life when he founded the European []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/in-memoriam-professor-kurt-jungwirth-1929-2025/",
-         "pubDate" : "Wed, 14 May 2025 19:21:42",
-         "title" : "IN MEMORIAM: Professor Kurt Jungwirth (1929-2025)"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121169079.cms\" />Indian Grandmaster R Praggnanandhaa remains a co-leader in the Superbet Classic after a draw with Alireza Firouzja. He shares the lead with Fabiano Caruana and Maxime Vachier-Lagrave. The tournament is still open as any of the four leaders could win the top prize. Meanwhile, D Gukesh is still searching for his first victory after drawing with Wesley So.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-maintains-joint-lead-in-superbet-classic/articleshow/121169079.cms",
-         "pubDate" : "Wed, 14 May 2025 17:19:22",
-         "title" : "R Praggnanandhaa maintains joint lead in Superbet Classic"
       }
    ]
 }
