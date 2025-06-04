@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Eight days ago, on Saturday, 24 May, the funeral service for Grand Master Vlastimil Hort, who passed away on 12 May, took place in Eitorf. His wife, Brigitte; his son; his grandson; and his friends and relatives said goodbye to this kind-hearted man. One fan expressed his grief by posting a song on YouTube.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/memorial-service-for-vlastimil-hort",
+         "pubDate" : "Wed, 04 Jun 2025 09:51:27",
+         "title" : "Memorial service for Vlastimil Hort"
+      },
+      {
+         "description" : "Many congratulations to Roger Lancaster, who recently received the ECF's President's Award for Services to Chess. Roger is a highly respected junior coach and organiser at Watford Chess Club, and...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecfs-presidents-award-for-services-to-chess-roger-lancaster/",
+         "pubDate" : "Wed, 04 Jun 2025 07:53:03",
+         "title" : "ECF's President's Award for Services to Chess - Roger Lancaster"
+      },
+      {
          "description" : "Humpy Koneru reclaimed the sole lead at the Norway Chess Women tournament by defeating Sara Khadem for a second time in classical play. With two rounds to go, Humpy leads on 13&frac12; points, ahead of Anna Muzychuk and Ju Wenjun. While Muzychuk won in Armageddon against Lei Tingjie, Ju lost to Vaishali Rameshbabu in the tiebreaker. The tournament pauses for a rest day on Wednesday before resuming with the final two decisive rounds. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -888,14 +904,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-maintains-joint-lead-in-superbet-classic/articleshow/121169079.cms",
          "pubDate" : "Wed, 14 May 2025 17:19:22",
          "title" : "R Praggnanandhaa maintains joint lead in Superbet Classic"
-      },
-      {
-         "description" : " organised by the British Chess Problem Society Entry to this competition sponsored by Winton is by solving the starter problem below.&#160; White, playing up the board, is to play...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2025-2026/",
-         "pubDate" : "Wed, 14 May 2025 13:47:55",
-         "title" : "Winton British Chess Solving Championship 2025-2026"
       }
    ]
 }
