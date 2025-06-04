@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Titled Tuesday Blitz 3rd June saw Levon Aronian win the early event ahead of Sergei Zhigalko and Denis Lazavik. Aronian beat Alireza Firouzja in Round 6 Lazavik in round 7, drew with Nepomniachtchi in Round 8, Wesley So in Round 9 beat Nguyen Ngoc Truong Son in Round 10 and drew with Zhigalko in the final round. Firouzja won the late alone on 9.5/11 half a point clear of a big group of 6 on 9 points. Firouzja beat Sanan Sjugirov, Daniel Naroditsky and Hans Moke Niemann in the final rounds. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-3rd-june-2025",
+         "pubDate" : "Wed, 4 Jun 2025 22:19:00",
+         "title" : "Titled Tuesday Blitz 3rd June 2025 - Games and Results"
+      },
+      {
          "description" : " Hans Moke Niemann played an 18 game blitz match against Anish Giri starting 4pm BST on 4th June. Just one day of blitz games and played online using the website Endgame.AI. Niemann seemed to have the match wrapped up but Giri mounted a comeback and won the final four games to run out a 9.5-8.5 winner. In the final game Giri was down to the increment for many, many moves and Niemann was almost 90 seconds up at one stage and even had 60 seconds at the end when he walked into mate when Giri had only 10. \"Sorry guys, I choked\" was Niemann's reaction.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -42,6 +50,22 @@ news_feed (
          "title" : "Two English teams qualify for the 2025 World Chess League play-offs!"
       },
       {
+         "description" : "The June 2025 FIDE rating list saw world champion GM Gukesh Dommaraju drop 11 points and two spots after the SuperBet Chess Classic, while the winner of the event, GM Praggnanandhaa Rameshbabu, saw a nine-point gain to jump one spot to seventh. GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/june-2025-fide-ratings",
+         "pubDate" : "Wed, 04 Jun 2025 13:50:23",
+         "title" : "June 2025 FIDE Ratings: Giri Climbs, Shogdzhiev, Oro, Erdogmus Reach New Highs"
+      },
+      {
+         "description" : "GMs Levon Aronian and Alireza Firouzja are your winners for the first Titled Tuesdays in June 2025. Aronian doesn&#39;t play Titled Tuesday very often, so it is always a treat when he does; this was his first win in the event since December 2023. Firo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aronian-firouzja-win-titled-tuesday-june-3-2025",
+         "pubDate" : "Wed, 04 Jun 2025 13:35:08",
+         "title" : "Aronian Rejoins Titled Tuesday Winners Ahead Of Firouzja Comeback"
+      },
+      {
          "description" : " The Polish Ekstraliga takes place 2nd to 10th June 2025. Leading players: Pentala Harikrishna, Frederik Svane, Matthias Bluebaum, David Navara, Daniel Dardha, Nils Grandelius, Rasmus Svane, Andrei Volokitin, Maxime Lagarde, Ferenc Berkes, Marc Andria Maurizzi etc",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -62,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chessup-2-coupon-2025",
-         "pubDate" : "Wed, 04 Jun 2025 12:16:57",
+         "pubDate" : "Wed, 04 Jun 2025 12:16:00",
          "title" : "Claim Your 10% Discount On ChessUp 2 And Join Thousands Of Members Enjoying Chess.com On A Physical Board"
       },
       {
@@ -586,14 +610,6 @@ news_feed (
          "title" : "African Chess celebrates \"Africa Day\""
       },
       {
-         "description" : " The 30th Tepe Sigeman & Co Chess Tournament took place in Malmo, Sweden, Tue 20th to Mon 26th May 2025. Players: Richard Rapport, Javokhir Sindarov, Ray Robson, Nils Grandelius, Vasyl Ivanchuk, Erwin L'Ami (a last minute replacement for Vidit Gujrathi), Tan Zhongyi and Yagiz Kaan Erdogmus. Javokhir Sindarov won the event with an undefeated 4.5/7 - he defeated Erwin L'Ami and Tan Zhongyi. Half a point behind was Yagiz Kaan Erdogmus who just lost the one game, to Vasyl Ivanchuk, Nils Grandelius beat Tan Zhongyi in the final round to catch him. Vasyl Ivanchuk's good recent run was undone by two losses on time. The organisers must be very pleased as they got a tournament with something interest",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025",
-         "pubDate" : "Mon, 26 May 2025 16:50:00",
-         "title" : "Tepe Sigeman & Co Chess Tournament 2025 - Games and Results"
-      },
-      {
          "description" : "GM Magnus Carlsen won a spectacular king hunt to beat World Champion Gukesh Dommaraju in Norway Chess 2025 in their first classical game since Gukesh won the title. The day&#39;s other classical winner was GM Hikaru Nakamura, who ground down GM Fabian...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -682,14 +698,6 @@ news_feed (
          "title" : "Mitropa Chess Cup 2025 concluded in Trencin, Slovakia"
       },
       {
-         "description" : "GM Magnus Carlsen has won the 2025 Chess.com Classic with a game to spare. In the Grand Final against GM Maxime Vachier-Lagrave, he won a 24-move miniature in game one, drew game two, and then won a rook endgame in game three to finish the match e...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-2025-cct-chesscom-classic-playoffs",
-         "pubDate" : "Fri, 23 May 2025 09:19:00",
-         "title" : "Carlsen Wins Grand Final With Game To Spare"
-      },
-      {
          "description" : " Entry is free, the prize fund is expected to be &pound;1,500, and the winner qualifies for the world solving championship This week's puzzle is a chance to enter an annual national contest in which Guardian readers traditionally perform strongly and in considerable numbers. White in the diagram, playing as usual up the board, is to play and checkmate in two moves, against any black defence. The puzzle is the first stage of the annual Winton British Solving Championship, organised by the British Chess Problem Society. This competition is open only to British residents, and entry is free. To take part, simply send White's first move to Nigel Dennis, Boundary House, 230 Greys Road, Henley-on-T",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-union-youth-u8-u14-chess-championship-2025/",
          "pubDate" : "Thu, 22 May 2025 19:02:22",
          "title" : "European Union Youth U8-U14 Chess Championship 2025"
-      },
-      {
-         "description" : "GM Maxime Vachier-Lagrave won three matches in the Losers Bracket to earn his spot in the 2025 Chess.com Classic Grand Final against GM Magnus Carlsen. He won his first match against GM Ian Nepomniachtchi in armageddon, accepting a draw with Black...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-cct-chesscom-classic-playoffs-day-3",
-         "pubDate" : "Thu, 22 May 2025 11:19:00",
-         "title" : "Vachier-Lagrave Advances To Grand Final Vs. Carlsen"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-world-chess-hall-of-fame-galleries-and-grand-chess-tour-launch-150000-matching-donation-campaign-for-saint-louis-tornado-relief/\">Saint Louis Chess Club, World Chess Hall of Fame &amp; Galleries and Grand Chess Tour Launch $150,000 Matching Donation Campaign for Saint Louis Tornado Relief</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -888,14 +888,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/in-a-restaurant-in-paris",
          "pubDate" : "Thu, 15 May 2025 21:21:34",
          "title" : "In a restaurant in Paris"
-      },
-      {
-         "description" : "In the fourth world championship match between Garry Kasparov and Anatoly Karpov, played in Seville in 1987, the score was 12-11 in Karpov's favor, putting Kasparov in a must-win situation to retain his title. This game was the subject of our previous article. We invited our readers to analyze with us, to solve a historical riddle. Here are the results.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kasparov-karpov-1987-riddle-solutions",
-         "pubDate" : "Wed, 14 May 2025 20:00:00",
-         "title" : "Kasparov-Karpov 1987 riddle solutions"
       }
    ]
 }
