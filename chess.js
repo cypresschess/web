@@ -18,14 +18,6 @@ news_feed (
          "title" : "Norway Chess - Live!"
       },
       {
-         "description" : "Ju Wenjun took the sole lead at the Norway Chess Women tournament after claiming her first classical win of the event against Sara Khadem in round seven. Humpy Koneru and Anna Muzychuk drew both their games, allowing Muzychuk, who had the black pieces, to collect 1&frac12; points. Lei Tingjie also notched her first classical victory by beating Vaishali Rameshbabu. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-women-2025-7",
-         "pubDate" : "Tue, 03 Jun 2025 14:45:00",
-         "title" : "Norway Chess Women: Ju grabs the sole lead"
-      },
-      {
          "description" : "A team of GM Benjamin Bok and Ronnyberger convincingly won 5-0 in the final of the Grand Chess Gala at TwitchCon EU in Rotterdam on Sunday, hosted by none other than WFM Anna Cramling.. Chess was prominently featured at the biggest event in the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -104,14 +96,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/change-us-chess-ratings-bonus-threshold-lowered-2025",
          "pubDate" : "Tue, 03 Jun 2025 00:00:00",
          "title" : "Change to US Chess Ratings: Bonus Threshold Lowered"
-      },
-      {
-         "description" : "Gukesh Dommaraju scored his first-ever classical win over Magnus Carlsen in round six of the Norway Chess tournament, capitalising on the world number one's late errors in a dramatic game. With his win over Hikaru Nakamura in Armageddon, Fabiano Caruana caught Carlsen at the top of the standings. Arjun Erigaisi also won his mini-match, beating Wei Yi in the sudden-death decider. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2025-6",
-         "pubDate" : "Mon, 02 Jun 2025 16:10:00",
-         "title" : "Norway Chess: Gukesh capitalises on late errors, beats Carlsen"
       },
       {
          "description" : "With wins in their round seven classical games of Norway Chess 2025, GM Fabiano Caruana has taken pole position while World Champion Gukesh Dommaraju follows a point behind. Caruana defeated GM Wei Yi on the latter&#39;s 26th birthday, squeezing water...",
