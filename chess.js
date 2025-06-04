@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Humpy Koneru reclaimed the sole lead at the Norway Chess Women tournament by defeating Sara Khadem for a second time in classical play. With two rounds to go, Humpy leads on 13&frac12; points, ahead of Anna Muzychuk and Ju Wenjun. While Muzychuk won in Armageddon against Lei Tingjie, Ju lost to Vaishali Rameshbabu in the tiebreaker. The tournament pauses for a rest day on Wednesday before resuming with the final two decisive rounds. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-women-2025-8",
+         "pubDate" : "Wed, 04 Jun 2025 05:30:00",
+         "title" : "Norway Chess Women: Humpy beats Khadem to regain the sole lead"
+      },
+      {
          "description" : "Sam Shankland won the 2025 American Continental Chess Championship in Foz do Iguaçu, Brazil, after finishing in a seven-way tie for first place and prevailing on the Buchholz tiebreak criterion. The event, held from 23 to 31 May, awarded four places for the 2025 FIDE World Cup. Jos&eacute; Eduardo Mart&iacute;nez and Alexandr Fier joined Shankland on the podium, while Jos&eacute; Gabriel Cardoso secured the final qualification spot. | Photo: FIDE Americas",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
