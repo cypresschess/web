@@ -26,6 +26,14 @@ news_feed (
          "title" : "Valencia: 550th anniversary of the birth of modern chess"
       },
       {
+         "description" : "World number-one Magnus Carlsen leads World Champion Gukesh Dommaraju by half a point going into the final round of Norway Chess 2025 after both stars won their classical games in round nine. Carlsen sacrificed a pawn against GM Fabiano Caruana bu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-norway-chess-round-9",
+         "pubDate" : "Thu, 05 Jun 2025 12:51:51",
+         "title" : "Carlsen, Gukesh Strike To Set Up Perfect Norway Chess Last Round"
+      },
+      {
          "description" : "What was the chess world like, 32 years ago? How many players were there, how strong were they, how many were grandmasters? In 1993 the newly founded Professional Chess Association, seeking to win Intel as its main sponsor, commissioned the collection of statistics. Today we look at the results, and ask you to comment on the numbers you see. The follow-up article will compare them with those of the current chess world.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -39,7 +47,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-blitzchamps-iv",
          "pubDate" : "Thu, 05 Jun 2025 08:00:00",
-         "title" : "Grid Iron Meets the Chess Board: NFL Heavyweights Battle in $100K BlitzChamps IV Tournament"
+         "title" : "NFL Stars Play Chess: Battle in $100K BlitzChamps IV Tournament"
       },
       {
          "description" : " The Titled Tuesday Blitz 3rd June saw Levon Aronian win the early event ahead of Sergei Zhigalko and Denis Lazavik. Aronian beat Alireza Firouzja in Round 6 Lazavik in round 7, drew with Nepomniachtchi in Round 8, Wesley So in Round 9 beat Nguyen Ngoc Truong Son in Round 10 and drew with Zhigalko in the final round. Firouzja won the late alone on 9.5/11 half a point clear of a big group of 6 on 9 points. Firouzja beat Sanan Sjugirov, Daniel Naroditsky and Hans Moke Niemann in the final rounds. ",
@@ -698,14 +706,6 @@ news_feed (
          "title" : "Shogdzhiev Smashes Oro's Record To Become Youngest International Master In History"
       },
       {
-         "description" : "GM Daniel Naroditsky attained his 28th Bullet Brawl&#38;nbsp;title and the $400 first prize after scoring 247 points on Saturday. GM Hikaru Nakamura was Naroditsky&#39;s main adversary but couldn&#39;t keep pace with Naroditsky, who worked through a record-br...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-may-24-2025",
-         "pubDate" : "Sat, 24 May 2025 18:19:00",
-         "title" : "Naroditsky Bolts To 28th Title, Outdoes Super-GM Trio"
-      },
-      {
          "description" : "If you've ever watched top-level chess commentary, you've probably heard something like: \"With Black, you need to take risks to win.\" \"You can't beat the Berlin without a novelty.\" \"You have to create chances.\" At the very top-yes. That's often true. But if you're not competing at 2750+ level, applying this advice backfires. And I []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -904,14 +904,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/may/16/chess-top-seeded-world-champion-gukesh-dommaraju-struggles-at-bucharest",
          "pubDate" : "Fri, 16 May 2025 07:00:50",
          "title" : "Chess: top-seeded world champion Gukesh Dommaraju struggles at Bucharest"
-      },
-      {
-         "description" : "Recently, on the last day of the Paris Freestyle chess even, Sagar Shah of ChessBase India was served dinner by a master chef, someone who takes traditional French dishes to a new dimension. The restaurant he visited, Cellar, provides some remarkable food and equally remarkable chess vibes. Sagar's video report shows you more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/in-a-restaurant-in-paris",
-         "pubDate" : "Thu, 15 May 2025 21:21:34",
-         "title" : "In a restaurant in Paris"
       }
    ]
 }
