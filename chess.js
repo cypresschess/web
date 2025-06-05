@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
+         "pubDate" : "Thu, 05 Jun 2025 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "This year, students from across the UK and Europe will compete in virtual qualifiers for a chance to reach the live finals in Amsterdam on 17 September-where the top players...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2025-optiver-chess-championship/",
+         "pubDate" : "Thu, 05 Jun 2025 14:52:21",
+         "title" : "2025 Optiver Chess Championship"
+      },
+      {
+         "description" : "This year, Valencia is celebrating the 550th anniversary of the birth of modern chess. The date of birth is considered to be 15 May 1475, when the book by Francesch Vicent, who came from Segorbe, was printed in Valencia. For this reason, 15 May has now been declared Chess Day in Valencia. Viswanathan Anand was the guest of honour at the celebrations.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/valencia-550-anniversary-birth-modern-chess",
+         "pubDate" : "Thu, 05 Jun 2025 14:18:40",
+         "title" : "Valencia: 550th anniversary of the birth of modern chess"
+      },
+      {
          "description" : "What was the chess world like, 32 years ago? How many players were there, how strong were they, how many were grandmasters? In 1993 the newly founded Professional Chess Association, seeking to win Intel as its main sponsor, commissioned the collection of statistics. Today we look at the results, and ask you to comment on the numbers you see. The follow-up article will compare them with those of the current chess world.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/historical-chess-statistics",
          "pubDate" : "Thu, 05 Jun 2025 08:32:46",
          "title" : "Historical chess statistics (1)"
+      },
+      {
+         "description" : "We&#39;re excited to announce the next edition of BlitzChamps, the viral online tournament where NFL stars go head-to-head in blitz chess. BlitzChamps IV returns on June 16, starting at 4 p.m. ET / 22:00 CEST. This year&#38;rsquo;s showdown features a $10...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-blitzchamps-iv",
+         "pubDate" : "Thu, 05 Jun 2025 08:00:00",
+         "title" : "Grid Iron Meets the Chess Board: NFL Heavyweights Battle in $100K BlitzChamps IV Tournament"
       },
       {
          "description" : "The conversation with Matthias W&uuml;llenweber about Fritz 20 highlights the numerous innovations in the new version: A key focus is on the new opponent characters, including legends like Fischer, Lasker, Capablanca, and Karpov. Another highlight is the AI-powered voice commentary, featuring over 170 chess-related themes that provide both entertainment and educational value-available in multiple languages if desired. In addition, the opening repertoires of real chess legends like Fischer have been integrated, and the new \"Bullet Training\" mode offers practical time-management training against realistically acting opponents. The newly improved engine is also a major upgrade and presents an i",
@@ -34,11 +66,11 @@ news_feed (
          "title" : "Two English teams qualify for the 2025 World Chess League play-offs!"
       },
       {
-         "description" : "The June 2025 FIDE rating list saw world champion GM Gukesh Dommaraju drop 11 points and two spots after the SuperBet Chess Classic, while the winner of the event, GM Praggnanandhaa Rameshbabu, saw a nine-point gain to jump one spot to seventh. GM...",
+         "description" : "The June 2025 FIDE rating list saw World Champion GM Gukesh Dommaraju drop 11 points and two spots after the SuperBet Chess Classic, while the winner of the event, GM Praggnanandhaa Rameshbabu, saw a nine-point gain to jump one spot to seventh. GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/june-2025-fide-ratings",
-         "pubDate" : "Wed, 04 Jun 2025 13:50:23",
+         "pubDate" : "Wed, 04 Jun 2025 13:50:00",
          "title" : "June 2025 FIDE Ratings: Giri Climbs, Shogdzhiev, Oro, Erdogmus Reach New Highs"
       },
       {
@@ -530,14 +562,6 @@ news_feed (
          "title" : "Chess on TV: from famine to glut"
       },
       {
-         "description" : "GM Minh Le won the May 23 edition of Freestyle Friday with 9.5 points, beating out a field of 243 players, including GM Luca Moroni Jr. on tiebreaks. It was the first win in Freestyle Friday for the eight-time Titled Tuesday champion Le. Le scor...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/le-wins-freestyle-friday-may-23-2025",
-         "pubDate" : "Fri, 23 May 2025 15:42:00",
-         "title" : "Minh Le Adds Freestyle Friday To Victory Ledger"
-      },
-      {
          "description" : "The 2025 Mitropa Chess Cup concluded yesterday in Trenč&iacute;n, Slovakia. The event took place from 14-23 May with separate Open and Women's competitions and participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland.&#160; Czech Republic emerged as the sole Winner of the Open competition scoring 13 match points. A dramatical final round determined the Champions and medalists as we saw a direct encounter for gold between Czech Republic and Germany. Czech Republic won []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -704,14 +728,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-championships-2025/#new_tab",
          "pubDate" : "Fri, 16 May 2025 13:00:22",
          "title" : "English and English Women's Championships 2025 - enter now!"
-      },
-      {
-         "description" : "This prestigious event takes place in London June 10th - 16th, and tickets are now on sale at&#160;tickets.fide.com Rapid round and day passes start from &pound;36.00, Blitz day passes start...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/fide-world-rapid-and-blitz-team-championships-tickets-now-available/",
-         "pubDate" : "Fri, 16 May 2025 12:05:57",
-         "title" : "FIDE World Rapid and Blitz Team Championships - tickets now available!"
       },
       {
          "description" : "The 2025 Mitropa Chess Cup commenced in Trenč&iacute;n, Slovakia and takes place from 14-23 May with separate Open and Women's competitions and participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland. The Championships are played in 9 rounds, round-robin system, with time control of 90 minutes for 40 moves, followed by 30 minutes to finish the game, with 30 seconds increment for each move from move one. Each team consists of 4 players, []",
