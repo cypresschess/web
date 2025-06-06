@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The world No 1 can still win the event in Norway but he says: 'It's a long time since I enjoyed a classical tournament' Magnus Carlsen's <a href=\"https://www.theguardian.com/sport/2025/jun/01/magnus-carlsen-punches-table-norway-chess-gukesh\">shock loss to Gukesh Dommaraju</a> was the world No 1's first classical defeat by a classical world champion since he lost to Vishy Anand 15 years ago at the 2010 London Classic. It spoilt what should have been a winning position for him at Stavanger, where he was poised to break clear of the field. There are now suggestions that this will be Carlsen's farewell appearance in classical. He told Take Take Take: \"It's a long time since I enjoyed a classica",
+         "description" : "From 10 to 16 June, London will host the FIDE World Rapid and Blitz Team Championships, now in its third edition. With 55 teams, top grandmasters, and an expanded format including a new Blitz tournament, it promises to be one of the largest chess events ever held in the city. Notably, many teams feature rising stars, including 9-year-old Sarbartho Mani and 10-year-old Roman Shogdzhiev, reflecting a generational shift in competitive chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2025-rising-stars",
+         "pubDate" : "Fri, 06 Jun 2025 12:00:00",
+         "title" : "Rising stars shaking up the WRB Team Championships in London"
+      },
+      {
+         "description" : " The world No 1 can still win the event in Norway but he says: 'It's a long time since I enjoyed a classical tournament' Magnus Carlsen's shock loss to Gukesh Dommaraju was the world No 1's first classical defeat by a ≠classical world champion since he lost to Vishy Anand 15 years ago at the 2010 London Classic. It spoilt what should have been a winning ≠position for him at Stavanger, where he was poised to break clear of the field. There are now suggestions that this will be Carlsen's farewell ≠appearance in classical. He told Take Take Take: \"It's a long time since I enjoyed a ≠classical tournament.\" Meanwhile, though, Carlsen could go out on a high on Saturday ≠afternoon when he and Gukes",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/jun/06/chess-carlsen-targets-last-classical-hurrah-at-stavanger-after-defeat-against-gukesh",
@@ -920,14 +928,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-championships-2025/#new_tab",
          "pubDate" : "Fri, 16 May 2025 13:00:22",
          "title" : "English and English Women's Championships 2025 - enter now!"
-      },
-      {
-         "description" : "The 2025 Mitropa Chess Cup commenced in Trenƒç&iacute;n, Slovakia and takes place from 14-23 May with separate Open and Women's competitions and participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland. The Championships are played in 9 rounds, round-robin system, with time control of 90 minutes for 40 moves, followed by 30 minutes to finish the game, with 30 seconds increment for each move from move one. Each team consists of 4 players, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/mitropa-chess-cup-2025-commenced-in-slovakia/",
-         "pubDate" : "Fri, 16 May 2025 08:32:35",
-         "title" : "Mitropa Chess Cup 2025 commenced in Slovakia"
       }
    ]
 }
