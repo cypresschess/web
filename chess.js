@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121664074.cms\" />Reigning World Champion Gukesh is challenging World No. 1 Magnus Carlsen at the Norway Chess tournament. Carlsen, with 15 points, is closely trailed by Gukesh at 14.5. Following a loss to Gukesh, a frustrated Carlsen expressed his disillusionment with classical chess, even hinting at quitting. Despite a win against Caruana, Carlsen admits the tournament's enjoyment diminished after the Gukesh game.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-magnus-carlsen-on-losing-against-gukesh-my-tournament-was-over/articleshow/121664074.cms",
+         "pubDate" : "Fri, 06 Jun 2025 03:24:19",
+         "title" : "Norway Chess | Carlsen on losing against Gukesh: 'My tournament was over'"
+      },
+      {
+         "description" : "Magnus Carlsen and Gukesh Dommaraju emerged as the key winners in round nine of the Norway Chess tournament, both scoring classical victories to take the top two spots in the standings ahead of the final round. Carlsen now leads on 15 points, half a point ahead of Gukesh, with Hikaru Nakamura and Fabiano Caruana still with outside chances of emerging victorious in Stavanger. The decisive round will see both frontrunners playing with the black pieces. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2025-9",
+         "pubDate" : "Fri, 06 Jun 2025 02:40:00",
+         "title" : "Norway Chess: Carlsen and Gukesh collect 3 points, enter last round as frontrunners"
+      },
+      {
          "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-norway-chess-round-9",
-         "pubDate" : "Thu, 05 Jun 2025 12:51:51",
+         "pubDate" : "Thu, 05 Jun 2025 12:51:00",
          "title" : "Carlsen, Gukesh Strike To Set Up Perfect Norway Chess Last Round"
       },
       {
