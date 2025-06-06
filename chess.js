@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The world No 1 can still win the event in Norway but he says: 'It's a long time since I enjoyed a classical tournament' Magnus Carlsen's <a href=\"https://www.theguardian.com/sport/2025/jun/01/magnus-carlsen-punches-table-norway-chess-gukesh\">shock loss to Gukesh Dommaraju</a> was the world No 1's first classical defeat by a classical world champion since he lost to Vishy Anand 15 years ago at the 2010 London Classic. It spoilt what should have been a winning position for him at Stavanger, where he was poised to break clear of the field. There are now suggestions that this will be Carlsen's farewell appearance in classical. He told Take Take Take: \"It's a long time since I enjoyed a classica",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/jun/06/chess-carlsen-targets-last-classical-hurrah-at-stavanger-after-defeat-against-gukesh",
+         "pubDate" : "Fri, 06 Jun 2025 07:00:29",
+         "title" : "Chess: Carlsen targets last classical hurrah at Stavanger after defeat against Gukesh"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121664581.cms\" />Magnus Carlsen leads D Gukesh by a narrow margin heading into the final round of Norway Chess 2025, fueled by victories over Fabiano Caruana and Wei Yi respectively. Hikaru Nakamura remains in contention after an armageddon win. In the Women's section, Anna Muzychuk surged to the lead, capitalizing on Koneru Humpy's blunder against Lei Tingjie.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-2025-d-gukesh-magnus-carlsen-win-to-setup-thrilling-final-round-separated-by-0-5-points/articleshow/121664581.cms",
+         "pubDate" : "Fri, 06 Jun 2025 04:10:48",
+         "title" : "Norway Chess: Gukesh, Carlsen win in Round 9; setup thriller in last stage"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121664074.cms\" />Reigning World Champion Gukesh is challenging World No. 1 Magnus Carlsen at the Norway Chess tournament. Carlsen, with 15 points, is closely trailed by Gukesh at 14.5. Following a loss to Gukesh, a frustrated Carlsen expressed his disillusionment with classical chess, even hinting at quitting. Despite a win against Caruana, Carlsen admits the tournament's enjoyment diminished after the Gukesh game.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -912,14 +928,6 @@ news_feed (
          "link" : "https://www.europechess.org/mitropa-chess-cup-2025-commenced-in-slovakia/",
          "pubDate" : "Fri, 16 May 2025 08:32:35",
          "title" : "Mitropa Chess Cup 2025 commenced in Slovakia"
-      },
-      {
-         "description" : " The 18-year-old Indian finished joint sixth to ninth out of 10 after Friday's final round, while Praggnanandhaa Rameshbabu, 19, won first prize after a three-way playoff India's world champion, Gukesh Dommaraju, hoped for a comeback at Bucharest this week after his dismal Freestyle performances in north Germany and Paris in the spring. Instead, the top-seeded 18-year-old was defeated by France's pair of Maxime Vachier-Lagrave, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2889148He\">in 31 moves</a>, and Alireza Firouzja, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2890509\">in 69 moves</a>, before scoring a <a href=\"https://www.chessgames.com/perl/chessgame?gid=2892442\">4",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/may/16/chess-top-seeded-world-champion-gukesh-dommaraju-struggles-at-bucharest",
-         "pubDate" : "Fri, 16 May 2025 07:00:50",
-         "title" : "Chess: top-seeded world champion Gukesh Dommaraju struggles at Bucharest"
       }
    ]
 }
