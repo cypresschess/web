@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
+         "pubDate" : "Fri, 06 Jun 2025 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "All three classical games ended decisively in round nine of the Norway Chess Women tournament, leading to a major shift at the top of the standings. Anna Muzychuk defeated defending champion Ju Wenjun to overtake Humpy Koneru, who lost to Lei Tingjie after misplaying a winning position. Sara Khadem also prevailed in her game against Vaishali Rameshbabu. With one round to go, Muzychuk holds a two-point lead going into her final game with the white pieces. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-women-2025-9",
+         "pubDate" : "Fri, 06 Jun 2025 15:55:00",
+         "title" : "Norway Chess Women: Muzychuk beats Ju, tops the standings"
+      },
+      {
+         "description" : " The 6th Stepan Avagyan Memorial took place Thu 29th May to Fri 6th Jun 2025 in Jermuk, Armenia. The event has gradually grown in strength, starting at Category 10, then 15, then 16 twice, now 17 this year and last. Players: R Praggnanandhaa, Aravindh Chithambaram V, Samuel Sevian, Nodirbek Yakubboev, Benjamin Gledura, Buhl Bjerre Jonas, Robert Hovhannisyan, Dmitrij Kollars, Xu Xiangyu and Hakobyan Aram. Aravindh Chithambaram won the tournament on tie-break from Praggnanandhaa, both scored 6.5/9 and both won in the final round. Aravindh won about $8000 and moves to 9 in the world. This is his third tournament win in a row after the Chennai GMs. and Prague Masters (great stats from <a href=\"h",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/6th-stepan-avagyan-memorial-2025",
+         "pubDate" : "Fri, 6 Jun 2025 15:11:00",
+         "title" : "6th Stepan Avagyan Memorial 2025 - Games and Results"
+      },
+      {
          "description" : "From 10 to 16 June, London will host the FIDE World Rapid and Blitz Team Championships, now in its third edition. With 55 teams, top grandmasters, and an expanded format including a new Blitz tournament, it promises to be one of the largest chess events ever held in the city. Notably, many teams feature rising stars, including 9-year-old Sarbartho Mani and 10-year-old Roman Shogdzhiev, reflecting a generational shift in competitive chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "Rising stars shaking up the WRB Team Championships in London"
       },
       {
-         "description" : " The world No 1 can still win the event in Norway but he says: 'It's a long time since I enjoyed a classical tournament' Magnus Carlsen's shock loss to Gukesh Dommaraju was the world No 1's first classical defeat by a ­classical world champion since he lost to Vishy Anand 15 years ago at the 2010 London Classic. It spoilt what should have been a winning ­position for him at Stavanger, where he was poised to break clear of the field. There are now suggestions that this will be Carlsen's farewell ­appearance in classical. He told Take Take Take: \"It's a long time since I enjoyed a ­classical tournament.\" Meanwhile, though, Carlsen could go out on a high on Saturday ­afternoon when he and Gukes",
+         "description" : " The world No 1 can still win the event in Norway but he says: 'It's a long time since I enjoyed a classical tournament' Magnus Carlsen's <a href=\"https://www.theguardian.com/sport/2025/jun/01/magnus-carlsen-punches-table-norway-chess-gukesh\">shock loss to Gukesh Dommaraju</a> was the world No 1's first classical defeat by a ­classical world champion since he lost to Vishy Anand 15 years ago at the 2010 London Classic. It spoilt what should have been a winning ­position for him at Stavanger, where he was poised to break clear of the field. There are now suggestions that this will be Carlsen's farewell ­appearance in classical. He told Take Take Take: \"It's a long time since I enjoyed a ­clas",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/jun/06/chess-carlsen-targets-last-classical-hurrah-at-stavanger-after-defeat-against-gukesh",
@@ -34,36 +58,12 @@ news_feed (
          "title" : "Norway Chess | Carlsen on losing against Gukesh: 'My tournament was over'"
       },
       {
-         "description" : "Magnus Carlsen and Gukesh Dommaraju emerged as the key winners in round nine of the Norway Chess tournament, both scoring classical victories to take the top two spots in the standings ahead of the final round. Carlsen now leads on 15 points, half a point ahead of Gukesh, with Hikaru Nakamura and Fabiano Caruana still with outside chances of emerging victorious in Stavanger. The decisive round will see both frontrunners playing with the black pieces. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2025-9",
-         "pubDate" : "Fri, 06 Jun 2025 02:40:00",
-         "title" : "Norway Chess: Carlsen and Gukesh collect 3 points, enter last round as frontrunners"
-      },
-      {
-         "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
-         "pubDate" : "Thu, 05 Jun 2025 16:45:00",
-         "title" : "Norway Chess - Live!"
-      },
-      {
          "description" : "This year, students from across the UK and Europe will compete in virtual qualifiers for a chance to reach the live finals in Amsterdam on 17 September-where the top players...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/2025-optiver-chess-championship/",
          "pubDate" : "Thu, 05 Jun 2025 14:52:21",
          "title" : "2025 Optiver Chess Championship"
-      },
-      {
-         "description" : "This year, Valencia is celebrating the 550th anniversary of the birth of modern chess. The date of birth is considered to be 15 May 1475, when the book by Francesch Vicent, who came from Segorbe, was printed in Valencia. For this reason, 15 May has now been declared Chess Day in Valencia. Viswanathan Anand was the guest of honour at the celebrations.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/valencia-550-anniversary-birth-modern-chess",
-         "pubDate" : "Thu, 05 Jun 2025 14:18:40",
-         "title" : "Valencia: 550th anniversary of the birth of modern chess"
       },
       {
          "description" : "World number-one Magnus Carlsen leads World Champion Gukesh Dommaraju by half a point going into the final round of Norway Chess 2025 after both stars won their classical games in round nine. Carlsen sacrificed a pawn against GM Fabiano Caruana bu...",
@@ -104,14 +104,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/hans-moke-niemann-vs-anish-giri-rematch-2025",
          "pubDate" : "Wed, 4 Jun 2025 18:49:00",
          "title" : "Hans Moke Niemann vs Anish Giri Rematch 2025 - Games and Results"
-      },
-      {
-         "description" : "The conversation with Matthias W&uuml;llenweber about Fritz 20 highlights the numerous innovations in the new version: A key focus is on the new opponent characters, including legends like Fischer, Lasker, Capablanca, and Karpov. Another highlight is the AI-powered voice commentary, featuring over 170 chess-related themes that provide both entertainment and educational value-available in multiple languages if desired. In addition, the opening repertoires of real chess legends like Fischer have been integrated, and the new \"Bullet Training\" mode offers practical time-management training against realistically acting opponents. The newly improved engine is also a major upgrade and presents an i",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/matthias-wuellenweber-on-fritz-20-more-fun-more-style-more-ai",
-         "pubDate" : "Wed, 04 Jun 2025 16:11:27",
-         "title" : "Matthias W&uuml;llenweber on Fritz 20: More Fun, More Style, More AI"
       },
       {
          "description" : "Last year FIDE celebrated its 100th anniversary. The book \"100 Years of FIDE\" is an illustrated history of the World Chess Federation. From it we excerpt passages, with kind permission, this time from the first World Championships in the post-war era - after the sudden death of World Champion Alexander Alekhine. It is a great chance to brush up your knowledge of chess history.",
@@ -178,28 +170,12 @@ news_feed (
          "title" : "Claim Your 10% Discount On ChessUp 2 And Join Thousands Of Members Enjoying Chess.com On A Physical Board"
       },
       {
-         "description" : "Eight days ago, on Saturday, 24 May, the funeral service for Grand Master Vlastimil Hort, who passed away on 12 May, took place in Eitorf. His wife, Brigitte; his son; his grandson; and his friends and relatives said goodbye to this kind-hearted man. One fan expressed his grief by posting a song on YouTube.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/memorial-service-for-vlastimil-hort",
-         "pubDate" : "Wed, 04 Jun 2025 09:51:27",
-         "title" : "Memorial service for Vlastimil Hort"
-      },
-      {
          "description" : "Many congratulations to Roger Lancaster, who recently received the ECF's President's Award for Services to Chess. Roger is a highly respected junior coach and organiser at Watford Chess Club, and...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecfs-presidents-award-for-services-to-chess-roger-lancaster/",
          "pubDate" : "Wed, 04 Jun 2025 07:53:03",
          "title" : "ECF's President's Award for Services to Chess - Roger Lancaster"
-      },
-      {
-         "description" : "Humpy Koneru reclaimed the sole lead at the Norway Chess Women tournament by defeating Sara Khadem for a second time in classical play. With two rounds to go, Humpy leads on 13&frac12; points, ahead of Anna Muzychuk and Ju Wenjun. While Muzychuk won in Armageddon against Lei Tingjie, Ju lost to Vaishali Rameshbabu in the tiebreaker. The tournament pauses for a rest day on Wednesday before resuming with the final two decisive rounds. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-women-2025-8",
-         "pubDate" : "Wed, 04 Jun 2025 05:30:00",
-         "title" : "Norway Chess Women: Humpy beats Khadem to regain the sole lead"
       },
       {
          "description" : "Former US Champion Sam Shankland Becomes 2025 American Continental ChampionFOZ DO IGUAÃ‡U, BRAZIL-The FIDE Americas Tournament Committee seems to have been more deliberate in selecting the location of the annual American Continental Championship as of late. While there were no Olympic torch ceremonies or former world champions in attendance, this year's edition was breathtakingly situated barely an hour away from Iguazu Falls, often deemed one of the \"natural wonders of the world.\" <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Iguazu Falls, which are situated on the border of Brazil, Argentina, and Paraguay (Photo courtesy of PICRYL, Creative Commons",
@@ -216,14 +192,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-chicago-open-highlights",
          "pubDate" : "Wed, 04 Jun 2025 00:00:00",
          "title" : "Wednesday Workout: Chicago Open Highlights"
-      },
-      {
-         "description" : "Sam Shankland won the 2025 American Continental Chess Championship in Foz do IguaÃ§u, Brazil, after finishing in a seven-way tie for first place and prevailing on the Buchholz tiebreak criterion. The event, held from 23 to 31 May, awarded four places for the 2025 FIDE World Cup. Jos&eacute; Eduardo Mart&iacute;nez and Alexandr Fier joined Shankland on the podium, while Jos&eacute; Gabriel Cardoso secured the final qualification spot. | Photo: FIDE Americas",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-continental-ch-2025-report",
-         "pubDate" : "Tue, 03 Jun 2025 23:50:00",
-         "title" : "Sam Shankland wins American Continental Championship"
       },
       {
          "description" : "A team of GM Benjamin Bok and Ronnyberger convincingly won 5-0 in the final of the Grand Chess Gala at TwitchCon EU in Rotterdam on Sunday, hosted by none other than WFM Anna Cramling.. Chess was prominently featured at the biggest event in the ...",
@@ -528,14 +496,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-norway-chess-round-4",
          "pubDate" : "Thu, 29 May 2025 13:40:00",
          "title" : "Carlsen Beats Arjun To Grab Sole Lead"
-      },
-      {
-         "description" : " The 6th Stepan Avagyan Memorial takes place Thu 29th May to Fri 6th Jun 2025 in Jermuk, Armenia. The event has gradually grown in strength, starting at Category 10, then 15, then 16 twice, now 17 this year and last. Players: R Praggnanandhaa, Aravindh Chithambaram V, Samuel Sevian, Nodirbek Yakubboev, Benjamin Gledura, Buhl Bjerre Jonas, Robert Hovhannisyan, Dmitrij Kollars, Xu Xiangyu and Hakobyan Aram.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/6th-stepan-avagyan-memorial-2025",
-         "pubDate" : "Thu, 29 May 2025 12:31:00",
-         "title" : "6th Stepan Avagyan Memorial 2025 - Games and Results"
       },
       {
          "description" : " The Titled Tuesday Blitz 27th May 2025 events were missing both regular winners Hikaru Nakamura and Magnus Carlsen who were otherwise engaged in Stavanger. The early event was won by Wesley So. Key to victory was his Round 9 win over second placed Rinat Jumabayev, 33.Bf4? was the decisive error. So then beat Denis Lazavik and drew with Anish Giri in the final round. Tuan Minh Le is a reasonably regular winner of Titled Tuesdays, he drew against 4th and 3rd placed Frederik Svane and Jeffery Xiong in rounds 10 and 11 respectively and won all the rest of his games.",
@@ -912,22 +872,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
          "pubDate" : "Fri, 16 May 2025 19:06:00",
          "title" : "Superbet Chess Classic Playoffs - Live!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.britishchesschampionships.co.uk/#new_tab",
-         "pubDate" : "Fri, 16 May 2025 13:00:46",
-         "title" : "British Chess Championships 2025 - entries open"
-      },
-      {
-         "description" : "&#160; &#160;",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-championships-2025/#new_tab",
-         "pubDate" : "Fri, 16 May 2025 13:00:22",
-         "title" : "English and English Women's Championships 2025 - enter now!"
       }
    ]
 }
