@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this episode of Svitlana's Smart Moves, WGM Svitlana Demchenko dives into some of the most exciting tactical moments from Norway Chess 2025. She challenges viewers to sharpen their calculation skills by solving real-game puzzles featuring top grandmasters. Get ready to put your tactics to the test!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-excellent-norway-chess-tactics",
+         "pubDate" : "Fri, 06 Jun 2025 23:00:00",
+         "title" : "Svitlana's Smart Moves - Excellent Norway chess tactics"
+      },
+      {
          "description" : " The 13th Norway Chess tournament took place Mon 26th May to Fri 6th Jun 2025 in Stavanger, Norway. There were two elite tournaments, the regular tournament and a women's event, both are 6 players and 10 rounds. Norway chess has a unique twist in that if games are drawn there is an additional Armageddon game. So the points are: Win in the classical game: 3 points, Loss in the classical game: 0 points, Draw in the classical game & win Armageddon: 1&frac12; points, Draw in the classical game & loss Armageddon: 1 point. Players: Magnus Carlsen, Hikaru Nakamura, D Gukesh, Arjun Erigaisi, Fabiano Caruana and Wei Yi. Women's event: Ju Wenjun, Lei Tingjie, Humpy Koneru, Anna Muzychuk,Rameshbabu Vai",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -18,12 +26,28 @@ news_feed (
          "title" : "Norway Chess - Live!"
       },
       {
+         "description" : "Magnus Carlsen won the Norway Chess title for the seventh time in his career.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45463703/magnus-carlsen-pips-dommaraju-gukesh-norway-chess-2025-title?device=featurephone",
+         "pubDate" : "Fri, 6 Jun 2025 15:43:51",
+         "title" : "Magnus Carlsen pips D Gukesh to Norway Chess 2025 title"
+      },
+      {
          "description" : " The 6th Stepan Avagyan Memorial took place Thu 29th May to Fri 6th Jun 2025 in Jermuk, Armenia. The event has gradually grown in strength, starting at Category 10, then 15, then 16 twice, now 17 this year and last. Players: R Praggnanandhaa, Aravindh Chithambaram V, Samuel Sevian, Nodirbek Yakubboev, Benjamin Gledura, Buhl Bjerre Jonas, Robert Hovhannisyan, Dmitrij Kollars, Xu Xiangyu and Hakobyan Aram. Aravindh Chithambaram won the tournament on tie-break from Praggnanandhaa, both scored 6.5/9 and both won in the final round. Aravindh won about $8000 and moves to 9 in the world. This is his third tournament win in a row after the Chennai GMs. and Prague Masters (great stats from <a href=\"h",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/6th-stepan-avagyan-memorial-2025",
          "pubDate" : "Fri, 6 Jun 2025 15:11:00",
          "title" : "6th Stepan Avagyan Memorial 2025 - Games and Results"
+      },
+      {
+         "description" : "GM Magnus Carlsen has won his seventh Norway Chess title after escaping and then almost winning a lost position against GM Arjun Erigaisi in the final round. With seconds to spare, he took a draw, which seemed to guarantee the title as GM Fabiano ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-muzychuk-win-2025-norway-chess",
+         "pubDate" : "Fri, 06 Jun 2025 12:59:00",
+         "title" : "Carlsen, Muzychuk Win Norway Chess After Stunning Final Round"
       },
       {
          "description" : "The perfect 11/11 score doesn&#39;t exis&#38;mdash;well, it&#39;s only happened seven times in hundreds of Titled Tuesdays over several years, but in just a few months&#39; time, Freestyle Friday has its first 11/11 performance in the record books. The mark belon...",
@@ -34,12 +58,12 @@ news_feed (
          "title" : "Xiong Perfects Freestyle Friday"
       },
       {
-         "description" : " The world No 1 can still win the event in Norway but he says: 'It's a long time since I enjoyed a classical tournament' Magnus Carlsen's <a href=\"https://www.theguardian.com/sport/2025/jun/01/magnus-carlsen-punches-table-norway-chess-gukesh\">shock loss to Gukesh Dommaraju</a> was the world No 1's first classical defeat by a ­classical world champion since he lost to Vishy Anand 15 years ago at the 2010 London Classic. It spoilt what should have been a winning ­position for him at Stavanger, where he was poised to break clear of the field. There are now suggestions that this will be Carlsen's farewell ­appearance in classical. He told Take Take Take: \"It's a long time since I enjoyed a ­clas",
+         "description" : " The world No 1 won by half a point in Norway but said: 'It's a long time since I enjoyed a classical tournament' Magnus Carlsen, the world No 1, squeaked home in the tightest of finishes at Stavanger on Friday night after his Indian rival, the world champion, Gukesh Dommaraju, had missed his chance to draw with the US champion Fabiano Caruana and had instead fallen into a knight fork of his queen and rook. Final scores were Carlsen ­(Norway) 16; Caruana (US) 15.5; Gukesh (India) 14.5; Hikaru Nakamura (US) 14; Arjun Erigaisi (India) 13; Wei Yi (China) 9.5. In his final Armageddon game, Carlsen blundered into mate in two against Erigaisi in mid-board in a drawn position, although that did not",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/jun/06/chess-carlsen-targets-last-classical-hurrah-at-stavanger-after-defeat-against-gukesh",
          "pubDate" : "Fri, 06 Jun 2025 07:00:29",
-         "title" : "Chess: Carlsen targets last classical hurrah at Stavanger after defeat against Gukesh"
+         "title" : "Chess: Carlsen secures narrow victory at Stavanger in possible last classical hurrah"
       },
       {
          "description" : "All three classical games ended decisively in round nine of the Norway Chess Women tournament, leading to a major shift at the top of the standings. Anna Muzychuk defeated defending champion Ju Wenjun to overtake Humpy Koneru, who lost to Lei Tingjie after misplaying a winning position. Sara Khadem also prevailed in her game against Vaishali Rameshbabu. With one round to go, Muzychuk holds a two-point lead going into her final game with the white pieces. | Photo: Michal Walusza",
@@ -64,6 +88,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-magnus-carlsen-on-losing-against-gukesh-my-tournament-was-over/articleshow/121664074.cms",
          "pubDate" : "Fri, 06 Jun 2025 03:24:19",
          "title" : "Norway Chess | Carlsen on losing against Gukesh: 'My tournament was over'"
+      },
+      {
+         "description" : "\"This will be the strongest chess tournament in Nebraska history,\" FM Rod Malpert declared at the May 30 banquet honoring the 2024 inductees to the Nebraska Chess Hall of Fame.At this bold declaration, I was reminded of Bill Bryson's quip, \"I come from Des Moines. Somebody had to.\" While a bit to the west of Iowa, many chess players (particularly younger ones) would likely feel similarly about the coronation of a \"strongest-ever\" tournament in a sparsely populated state not particularly known for its chess.This is the strongest tournament in Nebraska history, I imagined the announcement going. After all, some tournament had to be.Self-depreciating humor from the Cornhusker state aside, this ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/nebraska-hall-fame-tournament-celebrates-past-present-and-future-midwest-chess",
+         "pubDate" : "Fri, 06 Jun 2025 00:00:00",
+         "title" : "Nebraska Hall of Fame Tournament Celebrates Past, Present, and Future of Midwest Chess"
       },
       {
          "description" : "This year, students from across the UK and Europe will compete in virtual qualifiers for a chance to reach the live finals in Amsterdam on 17 September-where the top players...",
@@ -578,14 +610,6 @@ news_feed (
          "title" : "Sindarov Wins Star-Studded TePe Sigeman & Co Chess Tournament"
       },
       {
-         "description" : "This week's exercises all come from K-3 Champion Lukas LeBakken's impressive rook endgame grind against Ian Avery Singh in the final round of SuperNationals VIII. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Lukas LeBakken (R) won an instructive endgame over Ian Avery Singh in the final round of the K-3 Championship section to take clear first with a 7/7 score (Photo by Photography in Motion)<br> <br> <br> <br> The previous installments of our series from Orlando are available here, and all coverage of the event can be found here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along w",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-elementary-endgames-supernationals-viii",
-         "pubDate" : "Wed, 28 May 2025 00:00:00",
-         "title" : "Wednesday Workout: Elementary Endgames from SuperNationals VIII"
-      },
-      {
          "description" : "GM Arjun Erigaisi has joined GM Hikaru Nakamura in the&#38;nbsp;Norway Chess 2025 lead after handing a second loss in a row to World Champion Gukesh Dommaraju. GM Fabiano Caruana bounced back with a fine win over GM Wei Yi, while GM Magnus Carlsen fir...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -680,14 +704,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-vs-magnus-carlsen-live-streaming-norway-chess-2025-when-where-to-watch-round-1-clash/articleshow/121406608.cms",
          "pubDate" : "Mon, 26 May 2025 06:41:36",
          "title" : "D Gukesh vs Magnus Carlsen Live Streaming, Norway Chess 2025"
-      },
-      {
-         "description" : "GM Anish Giri has won the 2025 Sharjah Masters after defeating GM Aditya Mittal in 91 moves in the final round to finish on 7/9. GMs Aleksandar Indjic and Nodirbek Abdusattorov finished half a point behind, while the other big winner of the event ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/giri-wins-sharjah-masters-2025-assaubayeva-gm",
-         "pubDate" : "Mon, 26 May 2025 01:48:00",
-         "title" : "Giri Wins 2025 Sharjah Masters, Assaubayeva Earns GM Title"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121396816.cms\" />Indian grandmasters D Gukesh and Arjun Erigaisi are set to compete in the prestigious Norway Chess tournament, facing formidable opponents like Magnus Carlsen and Hikaru Nakamura. Koneru Humpy and R Vaishali will represent India in the women's section. The tournament features equal prize money for both men and women, highlighting India's growing presence in the chess world.",
