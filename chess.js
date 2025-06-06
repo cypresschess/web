@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 13th Norway Chess tournament took place Mon 26th May to Fri 6th Jun 2025 in Stavanger, Norway. There were two elite tournaments, the regular tournament and a women's event, both are 6 players and 10 rounds. Norway chess has a unique twist in that if games are drawn there is an additional Armageddon game. So the points are: Win in the classical game: 3 points, Loss in the classical game: 0 points, Draw in the classical game & win Armageddon: 1&frac12; points, Draw in the classical game & loss Armageddon: 1 point. Players: Magnus Carlsen, Hikaru Nakamura, D Gukesh, Arjun Erigaisi, Fabiano Caruana and Wei Yi. Women's event: Ju Wenjun, Lei Tingjie, Humpy Koneru, Anna Muzychuk,Rameshbabu Vai",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/13th-norway-chess-2025",
+         "pubDate" : "Fri, 6 Jun 2025 20:25:00",
+         "title" : "13th Norway Chess 2025 - "
+      },
+      {
          "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
          "pubDate" : "Fri, 06 Jun 2025 16:45:00",
          "title" : "Norway Chess - Live!"
-      },
-      {
-         "description" : "All three classical games ended decisively in round nine of the Norway Chess Women tournament, leading to a major shift at the top of the standings. Anna Muzychuk defeated defending champion Ju Wenjun to overtake Humpy Koneru, who lost to Lei Tingjie after misplaying a winning position. Sara Khadem also prevailed in her game against Vaishali Rameshbabu. With one round to go, Muzychuk holds a two-point lead going into her final game with the white pieces. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-women-2025-9",
-         "pubDate" : "Fri, 06 Jun 2025 15:55:00",
-         "title" : "Norway Chess Women: Muzychuk beats Ju, tops the standings"
       },
       {
          "description" : " The 6th Stepan Avagyan Memorial took place Thu 29th May to Fri 6th Jun 2025 in Jermuk, Armenia. The event has gradually grown in strength, starting at Category 10, then 15, then 16 twice, now 17 this year and last. Players: R Praggnanandhaa, Aravindh Chithambaram V, Samuel Sevian, Nodirbek Yakubboev, Benjamin Gledura, Buhl Bjerre Jonas, Robert Hovhannisyan, Dmitrij Kollars, Xu Xiangyu and Hakobyan Aram. Aravindh Chithambaram won the tournament on tie-break from Praggnanandhaa, both scored 6.5/9 and both won in the final round. Aravindh won about $8000 and moves to 9 in the world. This is his third tournament win in a row after the Chennai GMs. and Prague Masters (great stats from <a href=\"h",
@@ -26,12 +26,12 @@ news_feed (
          "title" : "6th Stepan Avagyan Memorial 2025 - Games and Results"
       },
       {
-         "description" : "From 10 to 16 June, London will host the FIDE World Rapid and Blitz Team Championships, now in its third edition. With 55 teams, top grandmasters, and an expanded format including a new Blitz tournament, it promises to be one of the largest chess events ever held in the city. Notably, many teams feature rising stars, including 9-year-old Sarbartho Mani and 10-year-old Roman Shogdzhiev, reflecting a generational shift in competitive chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2025-rising-stars",
-         "pubDate" : "Fri, 06 Jun 2025 12:00:00",
-         "title" : "Rising stars shaking up the WRB Team Championships in London"
+         "description" : "The perfect 11/11 score doesn&#39;t exis&#38;mdash;well, it&#39;s only happened seven times in hundreds of Titled Tuesdays over several years, but in just a few months&#39; time, Freestyle Friday has its first 11/11 performance in the record books. The mark belon...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/xiong-wins-freestyle-friday-june-6-2025",
+         "pubDate" : "Fri, 06 Jun 2025 12:04:00",
+         "title" : "Xiong Perfects Freestyle Friday"
       },
       {
          "description" : " The world No 1 can still win the event in Norway but he says: 'It's a long time since I enjoyed a classical tournament' Magnus Carlsen's <a href=\"https://www.theguardian.com/sport/2025/jun/01/magnus-carlsen-punches-table-norway-chess-gukesh\">shock loss to Gukesh Dommaraju</a> was the world No 1's first classical defeat by a ­classical world champion since he lost to Vishy Anand 15 years ago at the 2010 London Classic. It spoilt what should have been a winning ­position for him at Stavanger, where he was poised to break clear of the field. There are now suggestions that this will be Carlsen's farewell ­appearance in classical. He told Take Take Take: \"It's a long time since I enjoyed a ­clas",
@@ -40,6 +40,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jun/06/chess-carlsen-targets-last-classical-hurrah-at-stavanger-after-defeat-against-gukesh",
          "pubDate" : "Fri, 06 Jun 2025 07:00:29",
          "title" : "Chess: Carlsen targets last classical hurrah at Stavanger after defeat against Gukesh"
+      },
+      {
+         "description" : "All three classical games ended decisively in round nine of the Norway Chess Women tournament, leading to a major shift at the top of the standings. Anna Muzychuk defeated defending champion Ju Wenjun to overtake Humpy Koneru, who lost to Lei Tingjie after misplaying a winning position. Sara Khadem also prevailed in her game against Vaishali Rameshbabu. With one round to go, Muzychuk holds a two-point lead going into her final game with the white pieces. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-women-2025-9",
+         "pubDate" : "Fri, 06 Jun 2025 06:55:00",
+         "title" : "Norway Chess Women: Muzychuk beats Ju, tops the standings"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121664581.cms\" />Magnus Carlsen leads D Gukesh by a narrow margin heading into the final round of Norway Chess 2025, fueled by victories over Fabiano Caruana and Wei Yi respectively. Hikaru Nakamura remains in contention after an armageddon win. In the Women's section, Anna Muzychuk surged to the lead, capitalizing on Koneru Humpy's blunder against Lei Tingjie.",
@@ -280,14 +288,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-norway-chess-round-7",
          "pubDate" : "Mon, 02 Jun 2025 12:49:00",
          "title" : "Caruana Leads, Gukesh Wins Another Turnaround"
-      },
-      {
-         "description" : " The 13th Norway Chess tournament takes place Mon 26th May to Fri 6th Jun 2025 in Stavanger, Norway. There are two elite tournaments, the regular tournament and a women's event, both are 6 players and 10 rounds. Norway chess have a unique twist in that if games are drawn there is an additional Armageddon game. So the points are: Win in the classical game: 3 points, Loss in the classical game: 0 points, Draw in the classical game & win Armageddon: 1&frac12; points, Draw in the classical game & loss Armageddon: 1 point. Players: Magnus Carlsen, Hikaru Nakamura, D Gukesh, Arjun Erigaisi, Fabiano Caruana and Wei Yi. Women's event: Ju Wenjun, Lei Tingjie, Humpy Koneru, Anna Muzychuk,Rameshbabu Va",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/13th-norway-chess-2025",
-         "pubDate" : "Mon, 2 Jun 2025 11:44:00",
-         "title" : "13th Norway Chess 2025 - "
       },
       {
          "description" : " Magnus Carlsen was left hitting the table in frustration as he lost to Gukesh from a winning position in the sixth round of the <a href=\"https://theweekinchess.com/chessnews/events/13th-Norway-chess-2025\">Norway Chess</a> tournament. Gukesh had the white pieces and the opening was a slow manoeuvring Ruy Lopez Berlin where Carlsen had equalised by move 17 and was at least a bit better by move 20. Gukesh kept playing slightly inferior moves 22.Bc6?! (Rc1) 23.Qc2?!, 24.Kh1?! (24.Ne2) and finally after 25.Qa2 (maybe 25.Kh2) he was lost and soon about to lose a piece. Maybe Carlsen's 36...Bxd5 wasn't the cleanest (36...Bxf3 or 36...Rh8 may have induced a quick resignation) but he was still clear",
@@ -698,14 +698,6 @@ news_feed (
          "title" : "Gukesh to take on Carlsen in opening round of Norway Chess"
       },
       {
-         "description" : "The chess world has a new record-breaker. 10-year-old Roman Shogdzhiev from Russia has become the youngest International Master (IM) in history, smashing the record by over five months and reinforcing his status as one of the chess world&#39;s most ex...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/shogdzhiev-achieves-final-norm-becomes-youngest-ever-international-master",
-         "pubDate" : "Sun, 25 May 2025 07:19:00",
-         "title" : "Shogdzhiev Smashes Oro's Record To Become Youngest International Master In History"
-      },
-      {
          "description" : "If you've ever watched top-level chess commentary, you've probably heard something like: \"With Black, you need to take risks to win.\" \"You can't beat the Berlin without a novelty.\" \"You have to create chances.\" At the very top-yes. That's often true. But if you're not competing at 2750+ level, applying this advice backfires. And I []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -864,14 +856,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-wins-superbet-chess-classic-his-first-grand-chess-tour-victory/articleshow/121226783.cms",
          "pubDate" : "Sat, 17 May 2025 03:43:57",
          "title" : "Praggnanandhaa wins Superbet Classic, his first Grand Chess Tour victory"
-      },
-      {
-         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
-         "pubDate" : "Fri, 16 May 2025 19:06:00",
-         "title" : "Superbet Chess Classic Playoffs - Live!"
       }
    ]
 }
