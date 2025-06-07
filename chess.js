@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Grand Swiss and Women's Grand Swiss will take place in Samarkand, Uzbekistan, from 3 to 16 September. With 170 players set to compete in the 11-round Swiss events, the tournaments serve as key qualifiers for the 2026 Candidates and Women's Candidates. An increased prize fund - $625,000 for the Open and $230,000 for the Women's event - adds further significance to one of the most important competitions in the chess calendar.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-qualified-players",
+         "pubDate" : "Sat, 07 Jun 2025 23:50:00",
+         "title" : "FIDE Grand Swiss 2025: Lists of qualified players announced"
+      },
+      {
          "description" : " Magnus Carlsen won the <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">Norway Chess</a> tournament for the seventh time in thirteen outings. Carlsen set up the result with a round 9 grind against Fabiano Caruana. Carlsen was a pawn up but whilst the engine said that initially Caruana should hold, in practice it was beyond him. In the final round Carlsen was put under pressure by Arjun Erigaisi, bailed out with a Queen sacrifice, looked in trouble, turned it around to be winning before finally settling for a draw in time trouble. That result guaranteed Carlsen at least a tie-break for first place and after Gukesh lost it won him the tournament. When all the other",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/carlsen-wins-the-norway-chess-for-the-seventh-time",
+         "link" : "https://theweekinchess.com/twic-news-feed/carlsen-wins-norway-chess-for-the-seventh-time",
          "pubDate" : "Sat, 7 Jun 2025 16:23:00",
-         "title" : "Carlsen wins the Norway Chess for the seventh time - 10"
+         "title" : "Carlsen wins Norway Chess for the seventh time - 10"
       },
       {
          "description" : "Magnus Carlsen claimed his seventh Norway Chess title in a dramatic final round, drawing with Arjun Erigaisi from a losing position to secure overall victory by the narrowest of margins. Fabiano Caruana nearly snatched first place after building a winning position against Gukesh Dommaraju, but late mistakes left both players short of the top. Gukesh finished third ahead of Hikaru Nakamura, who lost to Wei Yi in Armageddon, capping off a fiercely contested edition of the tournament in Stavanger. | Photo: Michal Walusza",
