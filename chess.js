@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121687732.cms\" />Magnus Carlsen clinched his seventh Norway Chess title, benefiting from D Gukesh's final-round loss to Fabiano Caruana. Carlsen drew his last game, securing the win with 16 points, while Caruana finished second. Carlsen acknowledged the potential of young Indian talents like Gukesh and Arjun Erigaisi, highlighting his own challenging tournament, including a notable loss to Gukesh.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/not-a-positive-memory-magnus-carlsen-haunted-by-d-gukesh-loss-but-says-indians-still-need-time-to-prepare/articleshow/121687732.cms",
+         "pubDate" : "Sat, 07 Jun 2025 03:07:20",
+         "title" : "'Not a positive memory': Carlsen haunted by Gukesh loss; but says 'Indians need time'"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121687557.cms\" />Magnus Carlsen clinched his seventh Norway Chess title after D Gukesh's loss to Fabiano Caruana in the final round. Carlsen secured the championship with 16 points, closely followed by Caruana and Gukesh. In the women's section, Anna Muzychuk of Ukraine emerged victorious, despite losing the Armageddon tie-break, while Koneru Humpy finished as the runner-up.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-d-gukesh-falters-in-final-round-magnus-carlsen-clinches-7th-title/articleshow/121687557.cms",
+         "pubDate" : "Sat, 07 Jun 2025 02:45:12",
+         "title" : "Norway Chess: Gukesh falters in final round; Carlsen clinches 7th title"
+      },
+      {
+         "description" : "Anna Muzychuk secured outright victory in the second edition of the Norway Chess Women tournament in Stavanger, finishing with 16&frac12; points after ten rounds of play. The Ukrainian grandmaster entered the final day as the sole leader and confirmed her win by drawing both games against Vaishali Rameshbabu. Lei Tingjie and Humpy Koneru completed the podium, while Muzychuk ended as the only undefeated player in classical chess across both tournament sections. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-women-2025-10",
+         "pubDate" : "Sat, 07 Jun 2025 01:25:00",
+         "title" : "Anna Muzychuk finishes undefeated in classical chess, wins Norway Chess Women tournament"
+      },
+      {
          "description" : "In this episode of Svitlana's Smart Moves, WGM Svitlana Demchenko dives into some of the most exciting tactical moments from Norway Chess 2025. She challenges viewers to sharpen their calculation skills by solving real-game puzzles featuring top grandmasters. Get ready to put your tactics to the test!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +66,7 @@ news_feed (
          "title" : "6th Stepan Avagyan Memorial 2025 - Games and Results"
       },
       {
-         "description" : "GM Magnus Carlsen has won his seventh Norway Chess title after escaping and then almost winning a lost position against GM Arjun Erigaisi in the final round. With seconds to spare, he took a draw, which seemed to guarantee the title as GM Fabiano ...",
+         "description" : "GM Magnus Carlsen has won his seventh Norway Chess title after escaping then almost winning a lost position against GM Arjun Erigaisi. With seconds to spare, he took a draw, which seemed to guarantee the title as GM Fabiano Caruana was beating GM ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-muzychuk-win-2025-norway-chess",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jun/06/chess-carlsen-targets-last-classical-hurrah-at-stavanger-after-defeat-against-gukesh",
          "pubDate" : "Fri, 06 Jun 2025 07:00:29",
          "title" : "Chess: Carlsen secures narrow victory at Stavanger in possible last classical hurrah"
-      },
-      {
-         "description" : "All three classical games ended decisively in round nine of the Norway Chess Women tournament, leading to a major shift at the top of the standings. Anna Muzychuk defeated defending champion Ju Wenjun to overtake Humpy Koneru, who lost to Lei Tingjie after misplaying a winning position. Sara Khadem also prevailed in her game against Vaishali Rameshbabu. With one round to go, Muzychuk holds a two-point lead going into her final game with the white pieces. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-women-2025-9",
-         "pubDate" : "Fri, 06 Jun 2025 06:55:00",
-         "title" : "Norway Chess Women: Muzychuk beats Ju, tops the standings"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121664581.cms\" />Magnus Carlsen leads D Gukesh by a narrow margin heading into the final round of Norway Chess 2025, fueled by victories over Fabiano Caruana and Wei Yi respectively. Hikaru Nakamura remains in contention after an armageddon win. In the Women's section, Anna Muzychuk surged to the lead, capitalizing on Koneru Humpy's blunder against Lei Tingjie.",
