@@ -10,6 +10,14 @@ news_feed (
          "title" : "Magnus Carlsen salvages draw in dramatic final round, wins seventh Norway Chess title"
       },
       {
+         "description" : "You're playing a game. The position is complicated. You've calculated a few lines, but you're unsure. You don't know if you're better or worse. You don't know what your opponent is planning. So you freeze. You feel the pressure of the clock, the fear of a mistake, the weight of uncertainty. You don't want to []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/train-decision-making-in-chess/",
+         "pubDate" : "Sat, 07 Jun 2025 13:00:00",
+         "title" : "In Chess and in Life, You Have to Decide Without Knowing"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121693018.cms\" />Indian chess is experiencing unprecedented success, with Aravindh Chithambaram's recent victory at the Stepan Avagyan Memorial propelling him into the world's top 10. He joins Gukesh, Erigaisi, and Praggnanandhaa, marking a historic moment for Indian chess. Praggnanandhaa, despite finishing second in Jermuk, leads the FIDE Circuit standings and is a strong contender for the 2026 Candidates Tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -74,6 +82,14 @@ news_feed (
          "title" : "Norway Chess - Live!"
       },
       {
+         "description" : "Magnus Carlsen won the Norway Chess title for the seventh time in his career.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45463703/magnus-carlsen-pips-dommaraju-gukesh-norway-chess-2025-title?device=featurephone",
+         "pubDate" : "Fri, 6 Jun 2025 15:43:51",
+         "title" : "Magnus Carlsen pips D Gukesh to Norway Chess 2025 title"
+      },
+      {
          "description" : " The 6th Stepan Avagyan Memorial took place Thu 29th May to Fri 6th Jun 2025 in Jermuk, Armenia. The event has gradually grown in strength, starting at Category 10, then 15, then 16 twice, now 17 this year and last. Players: R Praggnanandhaa, Aravindh Chithambaram V, Samuel Sevian, Nodirbek Yakubboev, Benjamin Gledura, Buhl Bjerre Jonas, Robert Hovhannisyan, Dmitrij Kollars, Xu Xiangyu and Hakobyan Aram. Aravindh Chithambaram won the tournament on tie-break from Praggnanandhaa, both scored 6.5/9 and both won in the final round. Aravindh won about $8000 and moves to 9 in the world. This is his third tournament win in a row after the Chennai GMs. and Prague Masters (great stats from <a href=\"h",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -82,7 +98,7 @@ news_feed (
          "title" : "6th Stepan Avagyan Memorial 2025 - Games and Results"
       },
       {
-         "description" : "GM Magnus Carlsen has won his seventh Norway Chess title after escaping then almost winning a lost position against GM Arjun Erigaisi. With seconds to spare, he took a draw, which seemed to guarantee the title as GM Fabiano Caruana was beating GM ...",
+         "description" : "GM Magnus Carlsen has won his seventh Norway Chess title after escaping and then almost winning a lost position against GM Arjun Erigaisi. With seconds to spare, he took a draw, which seemed to guarantee the title as GM Fabiano Caruana was beating...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-muzychuk-win-2025-norway-chess",
@@ -872,14 +888,6 @@ news_feed (
          "link" : "https://www.thearticle.com/caissa-unchained-carl-portmans-chess-odyssey/",
          "pubDate" : "Sat, 17 May 2025 15:41:17",
          "title" : "Caissa unchained: Carl Portman's chess odyssey"
-      },
-      {
-         "description" : "It's one of the most frustrating feelings in chess: You calculate correctly. You see all the key moves. But you still end up playing a bad one. It's not just painful-it's confusing. I've been there many times. And I see it happen to my students constantly. They don't blunder. They don't miss anything obvious. But []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/emotional-decisions-in-chess/",
-         "pubDate" : "Sat, 17 May 2025 13:00:00",
-         "title" : "The Mistakes That Don't Make Any Sense"
       }
    ]
 }
