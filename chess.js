@@ -880,14 +880,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/rs-50000-a-month-and-countless-sacrifices-how-indias-chess-future-shapes-up-in-chennai-hut/articleshow/121232823.cms",
          "pubDate" : "Sat, 17 May 2025 09:44:44",
          "title" : "Rs 50k/month, countless sacrifices: India's chess future in Chennai hut"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121226783.cms\" />R Praggnanandhaa clinched the Superbet Chess Classic Romania 2025, marking his first Grand Chess Tour victory after a thrilling blitz playoff. Despite drawing his final classical game, Praggnanandhaa faced tough competition from Maxime Vachier-Lagrave and Alireza Firouzja, who forced tiebreaks with their wins. Ultimately, Praggnanandhaa's resilience led him to triumph over Vachier-Lagrave, securing the title and a significant prize.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-wins-superbet-chess-classic-his-first-grand-chess-tour-victory/articleshow/121226783.cms",
-         "pubDate" : "Sat, 17 May 2025 03:43:57",
-         "title" : "Praggnanandhaa wins Superbet Classic, his first Grand Chess Tour victory"
       }
    ]
 }
