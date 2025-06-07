@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Magnus Carlsen won the <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">Norway Chess</a> tournament for the seventh time in thirteen outings. Carlsen set up the result with a round 9 grind against Fabiano Caruana. Carlsen was a pawn up but whilst the engine said that initially Caruana should hold, in practice it was beyond him. In the final round Carlsen was put under pressure by Arjun Erigaisi, bailed out with a Queen sacrifice, looked in trouble, turned it around to be winning before finally settling for a draw in time trouble. That result guaranteed Carlsen at least a tie-break for first place and after Gukesh lost it won him the tournament. When all the other",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/carlsen-wins-the-norway-chess-for-the-seventh-time",
+         "pubDate" : "Sat, 7 Jun 2025 16:23:00",
+         "title" : "Carlsen wins the Norway Chess for the seventh time - 10"
+      },
+      {
          "description" : "Magnus Carlsen claimed his seventh Norway Chess title in a dramatic final round, drawing with Arjun Erigaisi from a losing position to secure overall victory by the narrowest of margins. Fabiano Caruana nearly snatched first place after building a winning position against Gukesh Dommaraju, but late mistakes left both players short of the top. Gukesh finished third ahead of Hikaru Nakamura, who lost to Wei Yi in Armageddon, capping off a fiercely contested edition of the tournament in Stavanger. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,6 +42,14 @@ news_feed (
          "title" : "Norway Chess: Muzychuk, with much less hype, earns as much as Carlsen"
       },
       {
+         "description" : "GM Aravindh Chithambaram&#39;s fast rise to the highest echelons in chess continued last week in Jermuk, Armenia, where the 25-year-old Indian grandmaster edged out GM Praggnanandhaa Rameshbabu on tiebreaks to win the Stepan Avagyan Memorial. Aravindh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aravindh-wins-stepan-avagyan-memorial",
+         "pubDate" : "Sat, 07 Jun 2025 10:09:00",
+         "title" : "Aravindh Breaks Into World Top 10 After Victory In Armenia"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121687732.cms\" />Magnus Carlsen clinched his seventh Norway Chess title, benefiting from D Gukesh's final-round loss to Fabiano Caruana. Carlsen drew his last game, securing the win with 16 points, while Caruana finished second. Carlsen acknowledged the potential of young Indian talents like Gukesh and Arjun Erigaisi, highlighting his own challenging tournament, including a notable loss to Gukesh.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-women-2025-10",
          "pubDate" : "Sat, 07 Jun 2025 01:25:00",
          "title" : "Anna Muzychuk finishes undefeated in classical chess, wins Norway Chess Women tournament"
+      },
+      {
+         "description" : "Despite lacking motivation for the format and even questioning the need to play it at all, Magnus Carlsen was still superior to the world's top players at Norway Chess.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45466283/magnus-carlsen-norway-chess-win-just-another-testament-greatness?device=featurephone",
+         "pubDate" : "Fri, 6 Jun 2025 23:18:53",
+         "title" : "Magnus Carlsen's Norway win is just another testament to his greatness"
       },
       {
          "description" : "In this episode of Svitlana's Smart Moves, WGM Svitlana Demchenko dives into some of the most exciting tactical moments from Norway Chess 2025. She challenges viewers to sharpen their calculation skills by solving real-game puzzles featuring top grandmasters. Get ready to put your tactics to the test!",
@@ -714,14 +738,6 @@ news_feed (
          "title" : "Chess on Monday 26th May 2025 - "
       },
       {
-         "description" : " The Match of Two Capitals took place in Moscow Sat 24th to Mon 26th May 2025. Daniil Dubov representing Moscow and Maxim Matlakov representing St Petersburg played a six game classical (90m + 30spm) two games per day. Dubov won game three, the rest were drawn with a final result of 3.5-2.5.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/match-of-two-capitals-2025",
-         "pubDate" : "Mon, 26 May 2025 19:18:00",
-         "title" : "Match of Two Capitals 2025 - Games and Results"
-      },
-      {
          "description" : " &#8220;Africa Day&#8221; is commemorated on May 25th of every year as a rallying cry for Pan-African unity, justice, and regional collaboration. The day celebrates the founding of the Organization of African Unity (OAU) in 1963. The OAU became the African Union (AU) in 2002. This year marks the 62nd anniversary of the organization's founding. This The post <a href=\"https://thechessdrum.net/blog/2025/05/26/african-chess-celebrates-africa-day/\">African Chess celebrates &#8220;Africa Day&#8221;</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -736,14 +752,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-norway-chess-round-1",
          "pubDate" : "Mon, 26 May 2025 12:52:00",
          "title" : "Carlsen, Nakamura Win In Explosive Start To Norway Chess 2025"
-      },
-      {
-         "description" : "GM Oleksandr Bortnyk is one step closer to qualifying for the 2025 Esports World Cup and $6,000 richer after winning the DreamHack Dallas 2025. Bortnyk won the double-elimination knockout final on Sunday and posted match wins over GMs Alexey Saran...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-dreamhack-dallas-2025",
-         "pubDate" : "Mon, 26 May 2025 07:30:00",
-         "title" : "Bortnyk Conquers DreamHack Dallas, Books Esports World Cup Last Chance Qualifier Spot"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121406608.cms\" />D Gukesh vs Magnus Carlsen Live Streaming: D Gukesh is set to face Magnus Carlsen at the 2025 Norway Chess tournament in Stavanger, marking their first encounter since Carlsen relinquished his world title in 2023. Gukesh aims to rebound from a recent slump, while Carlsen remains uncertain about his performance.",
@@ -872,22 +880,6 @@ news_feed (
          "link" : "https://aicf.in/public-notice-2/",
          "pubDate" : "Mon, 19 May 2025 09:12:10",
          "title" : "PUBLIC NOTICE"
-      },
-      {
-         "description" : "The European Senior Individual Chess Championship 2025 will take place from September 26th (arrival day) to October 6th (departure day) at the &#8220;Sunny Rabac&#8221; restaurant by Valamar, in Rabac, Croatia. The event will be played in two age categories: 50+ and 65+, open and women's sections separately. In case of less of nine players in the women's section, the event will be merged with the respective Open age category, with separate prizes for the best women players. Each tournament will []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-senior-chess-championship-2025-regulations/",
-         "pubDate" : "Sat, 17 May 2025 19:23:45",
-         "title" : "European Individual Senior Chess Championship 2025 - Regulations"
-      },
-      {
-         "description" : "How does a young person come to chess? A recent feature by Gerald Drissner in Credo, the wealth journal of the Liechtenstein Global Trust, struck certain chords with my own experiences. Credo is lent added poignancy, in that it is published by my good friend and sponsor of Tony Buzan's mental skills Intelligence Institute Academy, His Serene Highness []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/caissa-unchained-carl-portmans-chess-odyssey/",
-         "pubDate" : "Sat, 17 May 2025 15:41:17",
-         "title" : "Caissa unchained: Carl Portman's chess odyssey"
       }
    ]
 }
