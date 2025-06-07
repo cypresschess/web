@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen claimed his seventh Norway Chess title in a dramatic final round, drawing with Arjun Erigaisi from a losing position to secure overall victory by the narrowest of margins. Fabiano Caruana nearly snatched first place after building a winning position against Gukesh Dommaraju, but late mistakes left both players short of the top. Gukesh finished third ahead of Hikaru Nakamura, who lost to Wei Yi in Armageddon, capping off a fiercely contested edition of the tournament in Stavanger. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2025-10",
+         "pubDate" : "Sat, 07 Jun 2025 13:10:00",
+         "title" : "Magnus Carlsen salvages draw in dramatic final round, wins seventh Norway Chess title"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121693018.cms\" />Indian chess is experiencing unprecedented success, with Aravindh Chithambaram's recent victory at the Stepan Avagyan Memorial propelling him into the world's top 10. He joins Gukesh, Erigaisi, and Praggnanandhaa, marking a historic moment for Indian chess. Praggnanandhaa, despite finishing second in Jermuk, leads the FIDE Circuit standings and is a strong contender for the 2026 Candidates Tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-new-era-in-indian-chess-four-grandmasters-in-top-10-r-praggnanandhaa-leads-fide-circuit/articleshow/121693018.cms",
+         "pubDate" : "Sat, 07 Jun 2025 11:18:11",
+         "title" : "A new era in Indian chess: Four GMs in top 10; Pragg leads FIDE Circuit"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121692612.cms\" />Anna Muzychuk, Ukraine's top Grandmaster, secured the Norway Chess Women title. She remained unbeaten in classical games. Muzychuk amassed 16.5 points, edging out competitors. She also received equal prize money of NOK 700,000. This victory highlights her consistent performance in women's chess. The tournament featured a unique format with Armageddon tiebreaks. Muzychuk's strategic gameplay led to her success in Stavanger.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-anna-muzychuk-draws-less-hype-but-earns-same-prize-money-as-magnus-carlsen-after-womens-title/articleshow/121692612.cms",
+         "pubDate" : "Sat, 07 Jun 2025 10:09:17",
+         "title" : "Norway Chess: Muzychuk, with much less hype, earns as much as Carlsen"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121687732.cms\" />Magnus Carlsen clinched his seventh Norway Chess title, benefiting from D Gukesh's final-round loss to Fabiano Caruana. Carlsen drew his last game, securing the win with 16 points, while Caruana finished second. Carlsen acknowledged the potential of young Indian talents like Gukesh and Arjun Erigaisi, highlighting his own challenging tournament, including a notable loss to Gukesh.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
          "pubDate" : "Fri, 06 Jun 2025 16:45:00",
          "title" : "Norway Chess - Live!"
-      },
-      {
-         "description" : "Magnus Carlsen won the Norway Chess title for the seventh time in his career.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45463703/magnus-carlsen-pips-dommaraju-gukesh-norway-chess-2025-title?device=featurephone",
-         "pubDate" : "Fri, 6 Jun 2025 15:43:51",
-         "title" : "Magnus Carlsen pips D Gukesh to Norway Chess 2025 title"
       },
       {
          "description" : " The 6th Stepan Avagyan Memorial took place Thu 29th May to Fri 6th Jun 2025 in Jermuk, Armenia. The event has gradually grown in strength, starting at Category 10, then 15, then 16 twice, now 17 this year and last. Players: R Praggnanandhaa, Aravindh Chithambaram V, Samuel Sevian, Nodirbek Yakubboev, Benjamin Gledura, Buhl Bjerre Jonas, Robert Hovhannisyan, Dmitrij Kollars, Xu Xiangyu and Hakobyan Aram. Aravindh Chithambaram won the tournament on tie-break from Praggnanandhaa, both scored 6.5/9 and both won in the final round. Aravindh won about $8000 and moves to 9 in the world. This is his third tournament win in a row after the Chennai GMs. and Prague Masters (great stats from <a href=\"h",
@@ -864,22 +880,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/emotional-decisions-in-chess/",
          "pubDate" : "Sat, 17 May 2025 13:00:00",
          "title" : "The Mistakes That Don't Make Any Sense"
-      },
-      {
-         "description" : "The Arbiters Commission of AICF has received requests to conduct an additional Arbiter Refresher Course for the 2025-26 period. Many arbiters missed the refresher course",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/arbiter-refresher-course-for-the-year-2025-26-for-left-over-arbiter-on-3-4-june-2025/",
-         "pubDate" : "Sat, 17 May 2025 11:03:26",
-         "title" : "ARBITER REFRESHER COURSE FOR THE YEAR 2025-26 FOR LEFT OVER ARBITERS ON 3 & 4 JUNE 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121232823.cms\" />GM Shyam Sundar's Chennai-based academy is making waves by producing elite chess prodigies, including India's 86th grandmaster Srihari LR and FIDE Junior World Champion Pranav V. Shyam's coaching emphasises character, structured training, and camaraderie, fostering a supportive environment where students thrive. Despite financial challenges and personal sacrifices, Shyam remains dedicated to nurturing champions and instilling valuable life lessons.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/rs-50000-a-month-and-countless-sacrifices-how-indias-chess-future-shapes-up-in-chennai-hut/articleshow/121232823.cms",
-         "pubDate" : "Sat, 17 May 2025 09:44:44",
-         "title" : "Rs 50k/month, countless sacrifices: India's chess future in Chennai hut"
       }
    ]
 }
