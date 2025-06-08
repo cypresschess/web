@@ -10,6 +10,14 @@ news_feed (
          "title" : "FIDE Grand Swiss 2025: Lists of qualified players announced"
       },
       {
+         "description" : "GM Hikaru Nakamura prevailed in a showdown with world number-seven GM Alireza Firouzja during Saturday&#39;s Bullet Brawl, earning himself the $400 first prize and his 41st title. Nakamura scored 70 wins, four losses, and a string of draws at the tail...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-june-7-2025",
+         "pubDate" : "Sat, 07 Jun 2025 18:20:00",
+         "title" : "Nakamura Prevails In Firouzja Showdown, Wins 41st Bullet Brawl Title"
+      },
+      {
          "description" : " Magnus Carlsen won the <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">Norway Chess</a> tournament for the seventh time in thirteen outings. Carlsen set up the result with a round 9 grind against Fabiano Caruana. Carlsen was a pawn up but whilst the engine said that initially Caruana should hold, in practice it was beyond him. In the final round Carlsen was put under pressure by Arjun Erigaisi, bailed out with a Queen sacrifice, looked in trouble, turned it around to be winning before finally settling for a draw in time trouble. That result guaranteed Carlsen at least a tie-break for first place and after Gukesh lost it won him the tournament. When all the other",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/05/26/african-chess-celebrates-africa-day/",
          "pubDate" : "Mon, 26 May 2025 17:12:59",
          "title" : "African Chess celebrates \"Africa Day\""
-      },
-      {
-         "description" : "GM Magnus Carlsen won a spectacular king hunt to beat World Champion Gukesh Dommaraju in Norway Chess 2025 in their first classical game since Gukesh won the title. The day&#39;s other classical winner was GM Hikaru Nakamura, who ground down GM Fabian...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-norway-chess-round-1",
-         "pubDate" : "Mon, 26 May 2025 12:52:00",
-         "title" : "Carlsen, Nakamura Win In Explosive Start To Norway Chess 2025"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121406608.cms\" />D Gukesh vs Magnus Carlsen Live Streaming: D Gukesh is set to face Magnus Carlsen at the 2025 Norway Chess tournament in Stavanger, marking their first encounter since Carlsen relinquished his world title in 2023. Gukesh aims to rebound from a recent slump, while Carlsen remains uncertain about his performance.",
