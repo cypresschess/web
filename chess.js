@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Arbiters' Council of the European Chess Union asked Prof. Kenneth W. Regan to write a dissemination article about his system, to let every arbiter get acquainted with this very important anti-cheating tool. The article has been written in aw way to make the system understandable without any particular mathematical skill, in order to have the concept behind known to every arbiter. It appeared in the April issue of the ECU Magazine.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prof-regan-s-statistical-system",
+         "pubDate" : "Sun, 08 Jun 2025 09:00:00",
+         "title" : "Prof. Regan's statistical system"
+      },
+      {
+         "description" : "The 38th National Under-7 Open and Girls Chess Championship was a&#160;highly&#160;anticipated&#160;event in India's chess&#160;community. It&#160;was&#160;held&#160;at&#160;the KT Global School&#160;in&#160;Khorda Bhubaneswar,&#160; a&#160;venue&#160;perfectly&#160;suited&#160;for&#160;young&#160;players. The championship&#160;drew&#160;in&#160;345&#160;participants&#160;from 27 states, making",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/38th-national-under-7-open-girls/",
+         "pubDate" : "Sun, 08 Jun 2025 06:00:12",
+         "title" : "38th NAT. UNDER-7 OPEN & GIRLS CHESS CHAMPIONSHIPS FROM 01-05 JUNE 2025"
+      },
+      {
+         "description" : "Please find the live link here https://www.chess.com/events/info/delhi-international-open-grandmasters-chess-tournament-2025-a3ae4",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-21st-delhi-open-2025/",
+         "pubDate" : "Sun, 08 Jun 2025 05:50:03",
+         "title" : "Live Games link for 21st Delhi open 2025"
+      },
+      {
          "description" : "The 2025 FIDE Grand Swiss and Women's Grand Swiss will take place in Samarkand, Uzbekistan, from 3 to 16 September. With 170 players set to compete in the 11-round Swiss events, the tournaments serve as key qualifiers for the 2026 Candidates and Women's Candidates. An increased prize fund - $625,000 for the Open and $230,000 for the Women's event - adds further significance to one of the most important competitions in the chess calendar.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
