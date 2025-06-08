@@ -10,6 +10,14 @@ news_feed (
          "title" : "Norman Rogers shines at 2025 Chicago Open"
       },
       {
+         "description" : "After all the analysis tips from the past few weeks, this time it's simply about aesthetics! But that's not unimportant - after all, you spend a lot of time with ChessBase 18, so the look should be appealing and match your personal taste. Discover how to customize \"your board\" exactly the way you like it.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-17-choosing-your-board-design",
+         "pubDate" : "Sun, 08 Jun 2025 12:00:00",
+         "title" : "ChessBase 18 - Tips for beginners, part 17: Choosing your board design"
+      },
+      {
          "description" : "A new book from the Elk and Ruby stable joins the Willy Hendricks analysis of the relationship between Tarrasch and Nimzowitsch as an undoubted candidate for ECF Book of the Year. Packed with new information, original documents and fresh insights, Alexander Alekhine, The Russian Sphinx, Volume 1, by Sergey Voronkov, adds entirely new dimensions to the []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
