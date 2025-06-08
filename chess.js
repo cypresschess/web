@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A new book from the Elk and Ruby stable joins the Willy Hendricks analysis of the relationship between Tarrasch and Nimzowitsch as an undoubted candidate for ECF Book of the Year. Packed with new information, original documents and fresh insights, Alexander Alekhine, The Russian Sphinx, Volume 1, by Sergey Voronkov, adds entirely new dimensions to the []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/alexander-the-great/",
+         "pubDate" : "Sun, 08 Jun 2025 11:11:07",
+         "title" : "Alexander the Great"
+      },
+      {
          "description" : "The Arbiters' Council of the European Chess Union asked Prof. Kenneth W. Regan to write a dissemination article about his system, to let every arbiter get acquainted with this very important anti-cheating tool. The article has been written in aw way to make the system understandable without any particular mathematical skill, in order to have the concept behind known to every arbiter. It appeared in the April issue of the ECU Magazine.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
