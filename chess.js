@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Hans Niemann plays a match against Nihal Sarin over two days 8th to 9th June 2025. Day 1 was an 18 game match of straight blitz which Niemann won 10.5-7.5. Day two will be Chess960 blitz. The match is on Endgame.AI a new site with some technical problems. In the blitz they fixed the kingside castling problem they had in their last match but the one castle queenside was given as castle kingside. They also had some PGN headers, not useful ones such as player names and results, but some. Tomorrow will be a real test with both the start position really being required in their nascent PGN, plus, the special castling rules. If it works great I'll publish the games, otherwise, not.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/niemann-sarin-blitz-match-2025",
+         "pubDate" : "Sun, 8 Jun 2025 21:40:00",
+         "title" : "Niemann-Sarin Blitz Match 2025 - Games and Results"
+      },
+      {
          "description" : " Norman Rogers has returned to regular chess tournaments after a foray into poker. While he still plays poker, he recently played in the Chicago Open (under-2300) and scored 5.5/7, tying for 5th-6th place. When asked about his return, he says, &#8220;I'm already back.&#8221; FM Norman Rogers (left) showing one of his wins to National Master&#160;Stephen The post <a href=\"https://thechessdrum.net/blog/2025/06/08/norman-rogers-shines-at-2025-chicago-open/\">Norman Rogers shines at 2025 Chicago Open</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/06/08/norman-rogers-shines-at-2025-chicago-open/",
          "pubDate" : "Sun, 08 Jun 2025 14:58:29",
          "title" : "Norman Rogers shines at 2025 Chicago Open"
+      },
+      {
+         "description" : "GM Magnus Carlsen&#38;rsquo;s seventh Norway Chess win was one of his most memorable yet, partly for the dramatic finale but mainly for the rivalry with World Champion Gukesh Dommaraju. Carlsen won their round-one clash, but in round six Gukesh beat h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/norway-chess-2025-carlsen-gukesh-conclusions",
+         "pubDate" : "Sun, 08 Jun 2025 14:03:01",
+         "title" : "Carlsen Survives Gukesh Drama To Win Norway Chess 2025: 7 Conclusions"
       },
       {
          "description" : "After all the analysis tips from the past few weeks, this time it's simply about aesthetics! But that's not unimportant - after all, you spend a lot of time with ChessBase 18, so the look should be appealing and match your personal taste. Discover how to customize \"your board\" exactly the way you like it.",
@@ -762,14 +778,6 @@ news_feed (
          "title" : "New ECU Calendar"
       },
       {
-         "description" : "WFM Anna Cramling&#39;s Grand Chess Gala on Twitch Rivals is right around the corner! To celebrate Anna making it to TwitchCon&#39;s main stage, Chess.com is offering all our basic members the opportunity to get 14 days of our Diamond membership for free....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/anna-cramling-twitch-rivals-drops-2025",
-         "pubDate" : "Tue, 27 May 2025 08:00:00",
-         "title" : "Watch Anna Cramling At Twitch Rivals To Earn 14 Days Of Chess.com Premium Free"
-      },
-      {
          "description" : "Magnus Carlsen defeated D Gukesh in the Norway Chess tournament, showcasing his mastery in the classical format. Carlsen's win against the reigning world champion highlights his enduring skill, while Arjun Erigaisi's triumph underscores India's strong presence in the competition.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/05/26/bellahcene-wafa-are-2025-african-champions/",
          "pubDate" : "Tue, 27 May 2025 01:09:59",
          "title" : "Bellahcene, Wafa are 2025 African Champions!"
-      },
-      {
-         "description" : " Magnus Carlsen beat World Champion D Gukesh in the first round of the <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">13th Norway Chess tournament</a>. Carlsen tried to surprise Gukesh in the opening with the London but ended up being surprised himself with 4....Bg4. There was a long struggle that led to a sharp endgame and down to less than 10 seconds on the clock Gukesh blundered away a draw with 46.Qh6? instead of 46.Rg2+ which was his only move. Hikaru Nakamura won in the endgame too, against Fabiano Caruana. Arjun Erigaisi drew against Wei Yi with the black pieces but beat him in the Armageddon. This extra game divides the points between the players in case",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-monday-26th-may-2025",
-         "pubDate" : "Mon, 26 May 2025 22:35:00",
-         "title" : "Chess on Monday 26th May 2025 - "
       },
       {
          "description" : " &#8220;Africa Day&#8221; is commemorated on May 25th of every year as a rallying cry for Pan-African unity, justice, and regional collaboration. The day celebrates the founding of the Organization of African Unity (OAU) in 1963. The OAU became the African Union (AU) in 2002. This year marks the 62nd anniversary of the organization's founding. This The post <a href=\"https://thechessdrum.net/blog/2025/05/26/african-chess-celebrates-africa-day/\">African Chess celebrates &#8220;Africa Day&#8221;</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
