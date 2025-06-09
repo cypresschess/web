@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Almaty, Kazakhstan 18th September to 1st October, 2025 Special Note: If a player has only&#160;one accompanying person, then he/she must pay for double sharing amount",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-cadet-chess-championships-2025/",
+         "pubDate" : "Mon, 09 Jun 2025 07:04:21",
+         "title" : "FIDE World Cadet Chess Championships - 2025"
+      },
+      {
          "description" : " Hans Niemann plays a match against Nihal Sarin over two days 8th to 9th June 2025. Day 1 was an 18 game match of straight blitz which Niemann won 10.5-7.5. Day two will be Chess960 blitz. The match is on Endgame.AI a new site with some technical problems. In the blitz they fixed the kingside castling problem they had in their last match but the one castle queenside was given as castle kingside. They also had some PGN headers, not useful ones such as player names and results, but some. Tomorrow will be a real test with both the start position really being required in their nascent PGN, plus, the special castling rules. If it works great I'll publish the games, otherwise, not.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
