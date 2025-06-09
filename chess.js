@@ -10,7 +10,15 @@ news_feed (
          "title" : "Starting Tuesday: Fifth edition of the Cairns Cup with Tan, Humpy and Assaubayeva"
       },
       {
-         "description" : " Hans Niemann played a match against Nihal Sarin over two days 8th to 9th June 2025. Day 1 was an 18 game match of straight blitz which Niemann won 10.5-7.5. Day two was Chess960 blitz and Niemann won 10-8. The match was on Endgame.AI a new site with some technical problems, they just about made it possible to extract the games, in Chess960 you can't get the starting position, only the position after one move, and queenside castling is given as kingside castling but I wasn't going to be beaten. I can't display Chess960 games but there is a download. ",
+         "description" : "The European School Chess Championship 2025 took place from 29 May to 8 June at the Complex Amiral - Comandor - Orfeu in Mamaia, Romania. The event was played in six age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, with the participation of more than 200 players coming from 14 European federations. Mete Aras Akbudak (TUR) emerged as the sole Winner of the U7 category with the score of 8 points and clinched gold []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-school-chess-championship-2025-concluded-in-mamaia-romania/",
+         "pubDate" : "Mon, 09 Jun 2025 20:04:59",
+         "title" : "European School Chess Championship 2025 concluded in Mamaia, Romania"
+      },
+      {
+         "description" : " Hans Niemann played a match against Nihal Sarin over two days 8th to 9th June 2025. Day 1 was an 18 game match of straight blitz which Niemann won 10.5-7.5. Day two was Chess960 blitz and Niemann won 10-8. The match was on Endgame.AI a new site with some technical problems, they just about made it possible to extract the games, in Chess960 you can't get the starting position, only the position after one move, and queenside castling is given as kingside castling but I wasn't going to be beaten. I can't display Chess960 games but there is a download (now working properly). ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/niemann-sarin-blitz-match-2025",
@@ -34,6 +42,14 @@ news_feed (
          "title" : "5th Cairns Cup 2025 - Games and Results"
       },
       {
+         "description" : "Fifteen-year-old GM Andy Woodward won the 2025 Under 16 ChessKid Youth Championship after beating 14-year-old GM Yagiz Kaan Erdogmus in the Final. It was payback against last year&#39;s winner, who eliminated Woodward in the 2024 Semifinals. Woodward ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-chesskid-youth-championships-under-16-woodward-wins",
+         "pubDate" : "Mon, 09 Jun 2025 14:32:00",
+         "title" : "Woodward Wins Under 16 ChessKid Youth Championship"
+      },
+      {
          "description" : "Get ready for one of Chess.com&#39;s most intense and dramatic events! The 2025 Bullet Chess Championship (BCC) kicks off this June and will feature a $50,000 prize fund and some of the most dangerous bullet specialists in the world. The event bring...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://aicf.in/fide-world-cadet-chess-championships-2025/",
          "pubDate" : "Mon, 09 Jun 2025 07:04:21",
          "title" : "FIDE World Cadet Chess Championships - 2025"
+      },
+      {
+         "description" : "The winners of the 39th annual Frank P. Samford Jr. Chess Fellowship are:Grandmasters Abhimanyu Mishra, of Englishtown, New Jersey; Andy Woodward, of McKinney, Texas; Andrew Hong, of Saratoga, California, and Brewington Hardaway, of New York City; International Masters Dimitar Mardov, of Lake Zurich, Illinois; Carissa Yip, of St. Louis, and Alice Lee, of North Oaks, Minnesota; Woman Grandmaster Zoey Tang of Portland, Oregon, and National Master Megan Paragua, of New York City.The Samford is the most important chess fellowship in the United States, having awarded more than $2.5 million to promising young chessplayers since 1987.The total value of the Fellowships has been increased several tim",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-samford-fellowship-winners-announced",
+         "pubDate" : "Mon, 09 Jun 2025 00:00:00",
+         "title" : "2025 Samford Fellowship Winners Announced"
       },
       {
          "description" : "Cairns Cup PreviewThe fifth edition of the Cairns Cup kicks off this week at the Saint Louis Chess Club (SLCC). The strongest invitational in the world annually highlights top names in women's chess, and this year is no exception: three of the players enter the tournament with spots in the top 10 of the world rankings, and five more competitors are in the top 20. A $250,000 prize fund is on the line.Rounds begin daily at 12:00 p.m. CDT on Tuesday June 10 (with the exception of the rest day on Sunday, June 15), with the final round concluding on Thursday, June 19. The nine-round Round Robin boasts a $250,000 prize fund, including a $60,000 prize for first. Playoffs, if needed, will be held at",
@@ -522,14 +546,6 @@ news_feed (
          "title" : "Just The Rules: Club Versus Super Swiss"
       },
       {
-         "description" : "Editor's note: Since becoming Digital Editor for Chess Life Online, I have dreamt of publishing more regular wrap-ups of the sorts of events that are eligible for our Plan Ahead Calendar (as well as invitational tournaments).Do you want coverage of your tournament on Chess Life Online for future reporting or roundups?If so, email Click here to show email address with information of upcoming or recently concluded (i.e. within 1-2 weeks) events.For concluded tournaments, please include links to or screenshots of final standings, as well as links to DGT games or attached, transcribed game scores from 1-3 games of winners. Photos of the tournament and of winners is also a plus (cell phone photos",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/memorial-day-weekend-wrap-putnams-first-gm-norm-khanin-wins-chicago-and-more",
-         "pubDate" : "Mon, 02 Jun 2025 00:00:00",
-         "title" : "Memorial Day Weekend Wrap-Up: Putnam's First GM Norm, Khanin Wins Chicago, and More"
-      },
-      {
          "description" : " The Norway Chess Open took place 26th May to 1st June 2025. Gergely Kantor and Elham Amar were the top seeds. Vitaly Kunin edged out Lev Yankelevich and Torben Knuedel on tie-break after all scored 7/9. Long time leader Platon Galperin lost in the final round to Knuedel. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-magnus-carlsen-beats-d-gukesh-to-show-why-he-is-master-of-endgame/articleshow/121457421.cms",
          "pubDate" : "Wed, 28 May 2025 06:45:57",
          "title" : "Magnus Carlsen beats D Gukesh to show why he is master of endgame"
-      },
-      {
-         "description" : "19-year-old GM Javokhir Sindarov was declared the winner of Sweden&#39;s prestigious TePe Sigeman &#38;amp; Co Chess Tournament after drawing with the legendary GM Vasyl Ivanchuk in the seventh and final round on Monday. Sindarov&#39;s score of 4.5/7 placed...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/javokhir-sindarov-wins-tepe-sigeman-2025",
-         "pubDate" : "Wed, 28 May 2025 03:46:00",
-         "title" : "Sindarov Wins Star-Studded TePe Sigeman & Co Chess Tournament"
       },
       {
          "description" : "The European Chess Union, in cooperation with Chessdom.com and its Chess Calendar, have launched a new calendar on their official website. You can find it at https://www.europechess.org/calendar/ The calendar includes all ECU events from 2014 with detailed information and links to the official websites and/or results. It also has sections for 2026 and 2027 events, which will be timely updated.",
