@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup returns to Saint Louis for its fifth edition, featuring ten of the world's leading female players in a nine-round classical tournament. With a record prize fund of $250,000 and a playoff in place to decide any tie for first, the event continues to highlight elite women's chess. Top seeds include Tan Zhongyi, Humpy Koneru, Bibisara Assaubayeva and Nana Dzagnidze. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2025-preview",
+         "pubDate" : "Mon, 09 Jun 2025 20:45:00",
+         "title" : "Starting Tuesday: Fifth edition of the Cairns Cup with Tan, Humpy and Assaubayeva"
+      },
+      {
+         "description" : " Hans Niemann played a match against Nihal Sarin over two days 8th to 9th June 2025. Day 1 was an 18 game match of straight blitz which Niemann won 10.5-7.5. Day two was Chess960 blitz and Niemann won 10-8. The match was on Endgame.AI a new site with some technical problems, they just about made it possible to extract the games, in Chess960 you can't get the starting position, only the position after one move, and queenside castling is given as kingside castling but I wasn't going to be beaten. I can't display Chess960 games but there is a download. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/niemann-sarin-blitz-match-2025",
+         "pubDate" : "Mon, 9 Jun 2025 18:25:00",
+         "title" : "Niemann-Sarin Blitz Match 2025 - Games and Results"
+      },
+      {
+         "description" : "Indian grandmaster Aravindh Chithambaram claimed victory at the 2025 Stepan Avagyan Memorial in Jermuk, Armenia, edging out Praggnanandhaa Rameshbabu on tiebreaks after both scored 6&frac12;/9 points. The tournament, a 10-player round-robin held from 29 May to 6 June, marked a key milestone in Aravindh's career as he entered the world top 10 for the first time. His result also moved him to second place in the 2025 FIDE Circuit standings. | Photo: Chess Academy of Armenia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/stepan-avagyan-memorial-2025-report",
+         "pubDate" : "Mon, 09 Jun 2025 17:20:00",
+         "title" : "Aravindh edges Pragg on tiebreaks to win Stepan Avagyan Memorial"
+      },
+      {
          "description" : " The 5th Cairns Cup takes place in St Louis 10th to 20th June 2025. This women's event has the following players: Tan Zhongyi, Humpy Koneru, Nana Dzagnidze, Alina Kashlinskaya, Bibisara Assaubayeva, Mariya Muzychuk, Harika Dronavalli, Nino Batsiashvili, Carissa Yip and Alice Lee. The event is named in honor of co-founder Dr. Jeanne Cairns Sinquefield's maiden name. Play starts at 12:00 local time, 18:00 GMT but a 30 minute delay will be applied to the moves.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -15,7 +39,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-bullet-chess-championship-2025",
          "pubDate" : "Mon, 09 Jun 2025 08:00:00",
-         "title" : "Returning Champion Alireza Firouzja Spearheads 2025 Bullet Chess Championship Starting June 23"
+         "title" : "Returning Champion Alireza Firouzja Spearheads 2025 Bullet Chess Championship"
       },
       {
          "description" : "Almaty, Kazakhstan 18th September to 1st October, 2025 Special Note: If a player has only&#160;one accompanying person, then he/she must pay for double sharing amount",
@@ -26,12 +50,12 @@ news_feed (
          "title" : "FIDE World Cadet Chess Championships - 2025"
       },
       {
-         "description" : " Hans Niemann plays a match against Nihal Sarin over two days 8th to 9th June 2025. Day 1 was an 18 game match of straight blitz which Niemann won 10.5-7.5. Day two will be Chess960 blitz. The match is on Endgame.AI a new site with some technical problems. In the blitz they fixed the kingside castling problem they had in their last match but the one castle queenside was given as castle kingside. They also had some PGN headers, not useful ones such as player names and results, but some. Tomorrow will be a real test with both the start position really being required in their nascent PGN, plus, the special castling rules. If it works great I'll publish the games, otherwise, not.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/niemann-sarin-blitz-match-2025",
-         "pubDate" : "Sun, 8 Jun 2025 21:40:00",
-         "title" : "Niemann-Sarin Blitz Match 2025 - Games and Results"
+         "description" : "Cairns Cup PreviewThe fifth edition of the Cairns Cup kicks off this week at the Saint Louis Chess Club (SLCC). The strongest invitational in the world annually highlights top names in women's chess, and this year is no exception: three of the players enter the tournament with spots in the top 10 of the world rankings, and five more competitors are in the top 20. A $250,000 prize fund is on the line.Rounds begin daily at 12:00 p.m. CDT on Tuesday June 10 (with the exception of the rest day on Sunday, June 15), with the final round concluding on Thursday, June 19. The nine-round Round Robin boasts a $250,000 prize fund, including a $60,000 prize for first. Playoffs, if needed, will be held at",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/fifth-cairns-cup-begins-tuesday-st-louis",
+         "pubDate" : "Mon, 09 Jun 2025 00:00:00",
+         "title" : "Fifth Cairns Cup Begins Tuesday in St. Louis"
       },
       {
          "description" : " Norman Rogers of Philadelphia has returned to regular chess tournaments after a foray into poker. While he still plays poker, he recently played in the Chicago Open (under-2300) and scored 5.5/7, tying for 5th-6th place. When asked about his return, he says, &#8220;I'm already back.&#8221; FM Norman Rogers (left) showing one of his wins to The post <a href=\"https://thechessdrum.net/blog/2025/06/08/norman-rogers-shines-at-2025-chicago-open/\">Norman Rogers shines at 2025 Chicago Open</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -90,14 +114,6 @@ news_feed (
          "title" : "Live Games link for 21st Delhi open 2025"
       },
       {
-         "description" : "The 2025 FIDE Grand Swiss and Women's Grand Swiss will take place in Samarkand, Uzbekistan, from 3 to 16 September. With 170 players set to compete in the 11-round Swiss events, the tournaments serve as key qualifiers for the 2026 Candidates and Women's Candidates. An increased prize fund - $625,000 for the Open and $230,000 for the Women's event - adds further significance to one of the most important competitions in the chess calendar.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-qualified-players",
-         "pubDate" : "Sat, 07 Jun 2025 23:50:00",
-         "title" : "FIDE Grand Swiss 2025: Lists of qualified players announced"
-      },
-      {
          "description" : "GM Hikaru Nakamura prevailed in a showdown with world number-seven GM Alireza Firouzja during Saturday&#39;s Bullet Brawl, earning himself the $400 first prize and his 41st title. Nakamura scored 70 wins, four losses, and a string of draws at the tail...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -112,14 +128,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/carlsen-wins-norway-chess-for-the-seventh-time",
          "pubDate" : "Sat, 7 Jun 2025 16:23:00",
          "title" : "Carlsen wins Norway Chess for the seventh time - 10"
-      },
-      {
-         "description" : "Magnus Carlsen claimed his seventh Norway Chess title in a dramatic final round, drawing with Arjun Erigaisi from a losing position to secure overall victory by the narrowest of margins. Fabiano Caruana nearly snatched first place after building a winning position against Gukesh Dommaraju, but late mistakes left both players short of the top. Gukesh finished third ahead of Hikaru Nakamura, who lost to Wei Yi in Armageddon, capping off a fiercely contested edition of the tournament in Stavanger. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2025-10",
-         "pubDate" : "Sat, 07 Jun 2025 13:10:00",
-         "title" : "Magnus Carlsen salvages draw in dramatic final round, wins seventh Norway Chess title"
       },
       {
          "description" : "You're playing a game. The position is complicated. You've calculated a few lines, but you're unsure. You don't know if you're better or worse. You don't know what your opponent is planning. So you freeze. You feel the pressure of the clock, the fear of a mistake, the weight of uncertainty. You don't want to []",
@@ -170,28 +178,12 @@ news_feed (
          "title" : "Norway Chess: Gukesh falters in final round; Carlsen clinches 7th title"
       },
       {
-         "description" : "Anna Muzychuk secured outright victory in the second edition of the Norway Chess Women tournament in Stavanger, finishing with 16&frac12; points after ten rounds of play. The Ukrainian grandmaster entered the final day as the sole leader and confirmed her win by drawing both games against Vaishali Rameshbabu. Lei Tingjie and Humpy Koneru completed the podium, while Muzychuk ended as the only undefeated player in classical chess across both tournament sections. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-women-2025-10",
-         "pubDate" : "Sat, 07 Jun 2025 01:25:00",
-         "title" : "Anna Muzychuk finishes undefeated in classical chess, wins Norway Chess Women tournament"
-      },
-      {
          "description" : "Despite lacking motivation for the format and even questioning the need to play it at all, Magnus Carlsen was still superior to the world's top players at Norway Chess.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/45466283/magnus-carlsen-norway-chess-win-just-another-testament-greatness?device=featurephone",
          "pubDate" : "Fri, 6 Jun 2025 23:18:53",
          "title" : "Magnus Carlsen's Norway win is just another testament to his greatness"
-      },
-      {
-         "description" : "In this episode of Svitlana's Smart Moves, WGM Svitlana Demchenko dives into some of the most exciting tactical moments from Norway Chess 2025. She challenges viewers to sharpen their calculation skills by solving real-game puzzles featuring top grandmasters. Get ready to put your tactics to the test!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-excellent-norway-chess-tactics",
-         "pubDate" : "Fri, 06 Jun 2025 23:00:00",
-         "title" : "Svitlana's Smart Moves - Excellent Norway chess tactics"
       },
       {
          "description" : " The 13th Norway Chess tournament took place Mon 26th May to Fri 6th Jun 2025 in Stavanger, Norway. There were two elite tournaments, the regular tournament and a women's event, both are 6 players and 10 rounds. Norway chess has a unique twist in that if games are drawn there is an additional Armageddon game. So the points are: Win in the classical game: 3 points, Loss in the classical game: 0 points, Draw in the classical game & win Armageddon: 1&frac12; points, Draw in the classical game & loss Armageddon: 1 point. Players: Magnus Carlsen, Hikaru Nakamura, D Gukesh, Arjun Erigaisi, Fabiano Caruana and Wei Yi. Women's event: Ju Wenjun, Lei Tingjie, Humpy Koneru, Anna Muzychuk,Rameshbabu Vai",
@@ -728,14 +720,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-on-19th-birthday-d-gukesh-celebrates-with-win-over-hikaru-nakamura/articleshow/121480000.cms",
          "pubDate" : "Thu, 29 May 2025 04:53:45",
          "title" : "Norway Chess: On 19th birthday, Gukesh celebrates with win over Nakamura"
-      },
-      {
-         "description" : "DreamHack is where the gaming world comes to life. It's a festival of play, competition, and community all under one roof. DreamHack added its first chess competition in 2025, held last weekend at its Dallas convention. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> DreamHack Dallas champion GM Oleksandr Bortnyk (Photo by Alexey Root)<br> <br> <br> <br> Ukrainian GM Oleksandr Bortnyk, a popular streamer and Charlotte Chess Center coach, won the $6,000 top prize after winning the playoffs. In addition to the $20,000 prize fund, the top four finishers also won flights to Riyadh, Saudi Arabia, and hotel accommodations to compete in the Last Chance Qualif",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/bortnyk-wins-inaugural-dreamhack-chess-tournament",
-         "pubDate" : "Thu, 29 May 2025 00:00:00",
-         "title" : "Bortnyk Wins Inaugural DreamHack Chess Tournament"
       },
       {
          "description" : "Entries are now open for the 2025 Northumbria Masters (20-25 August at Darlington's Dolphin Centre), a six-day, nine-round FIDE-rated congress at https://northumbriamasters.com.&#160;Tournaments include Open Super-Swiss (eligible for title norms), Challengers...",
