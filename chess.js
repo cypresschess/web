@@ -10,7 +10,7 @@ news_feed (
          "title" : "Niemann-Sarin Blitz Match 2025 - Games and Results"
       },
       {
-         "description" : " Norman Rogers has returned to regular chess tournaments after a foray into poker. While he still plays poker, he recently played in the Chicago Open (under-2300) and scored 5.5/7, tying for 5th-6th place. When asked about his return, he says, &#8220;I'm already back.&#8221; FM Norman Rogers (left) showing one of his wins to National Master&#160;Stephen The post <a href=\"https://thechessdrum.net/blog/2025/06/08/norman-rogers-shines-at-2025-chicago-open/\">Norman Rogers shines at 2025 Chicago Open</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Norman Rogers of Philadelphia has returned to regular chess tournaments after a foray into poker. While he still plays poker, he recently played in the Chicago Open (under-2300) and scored 5.5/7, tying for 5th-6th place. When asked about his return, he says, &#8220;I'm already back.&#8221; FM Norman Rogers (left) showing one of his wins to The post <a href=\"https://thechessdrum.net/blog/2025/06/08/norman-rogers-shines-at-2025-chicago-open/\">Norman Rogers shines at 2025 Chicago Open</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/06/08/norman-rogers-shines-at-2025-chicago-open/",
@@ -18,11 +18,11 @@ news_feed (
          "title" : "Norman Rogers shines at 2025 Chicago Open"
       },
       {
-         "description" : "GM Magnus Carlsen&#38;rsquo;s seventh Norway Chess win was one of his most memorable yet, partly for the dramatic finale but mainly for the rivalry with World Champion Gukesh Dommaraju. Carlsen won their round-one clash, but in round six Gukesh beat h...",
+         "description" : "GM Magnus Carlsen&#38;rsquo;s seventh Norway Chess win is one of his most memorable yet, partly for the dramatic finale but mainly for the rivalry with World Champion Gukesh Dommaraju. Carlsen won their round-one clash, but in round six Gukesh beat hi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/norway-chess-2025-carlsen-gukesh-conclusions",
-         "pubDate" : "Sun, 08 Jun 2025 14:03:01",
+         "pubDate" : "Sun, 08 Jun 2025 14:03:00",
          "title" : "Carlsen Survives Gukesh Drama To Win Norway Chess 2025: 7 Conclusions"
       },
       {
