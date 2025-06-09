@@ -26,7 +26,7 @@ news_feed (
          "title" : "Norman Rogers shines at 2025 Chicago Open"
       },
       {
-         "description" : "GM Magnus Carlsen&#38;rsquo;s seventh Norway Chess win is one of his most memorable yet, partly for the dramatic finale but mainly for the rivalry with World Champion Gukesh Dommaraju. Carlsen won their round-one clash, but in round six Gukesh beat hi...",
+         "description" : "GM Magnus Carlsen&#38;rsquo;s seventh Norway Chess win was one of his most memorable yet, partly for the dramatic finale but mainly for the rivalry with World Champion Gukesh Dommaraju. Carlsen won their round-one clash, but in round six Gukesh beat h...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/norway-chess-2025-carlsen-gukesh-conclusions",
@@ -928,22 +928,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-vs-the-world-when-the-world-no-1-chess-player-took-on-143000-people-in-a-historic-freestyle-showdown/articleshow/121297712.cms",
          "pubDate" : "Tue, 20 May 2025 16:41:24",
          "title" : "Carlsen vs World: When the No. 1 chess player took on 143,000 people"
-      },
-      {
-         "description" : "The European Corporate Chess Championship 2025, organised by Asnière Le Grand Echiquier under the auspices of the European Chess Union, will be held on 7-8 November in Asnieres sur Seine, Paris, France. The event will be played in 9 rounds, swiss system, with time control of 15 minutes for the whole game, plus 5 seconds of an increment starting from move one. The system of match pointsis as follows: a match won is worth 3 match points, a draw 2 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-corporate-chess-championship-2025-official-regulations/",
-         "pubDate" : "Mon, 19 May 2025 09:20:16",
-         "title" : "European Corporate Chess Championship 2025 - Official regulations"
-      },
-      {
-         "description" : "Please find the Public Notice here :Download",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/public-notice-2/",
-         "pubDate" : "Mon, 19 May 2025 09:12:10",
-         "title" : "PUBLIC NOTICE"
       }
    ]
 }
