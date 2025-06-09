@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 5th Cairns Cup takes place in St Louis 10th to 20th June 2025. This women's event has the following players: Tan Zhongyi, Humpy Koneru, Nana Dzagnidze, Alina Kashlinskaya, Bibisara Assaubayeva, Mariya Muzychuk, Harika Dronavalli, Nino Batsiashvili, Carissa Yip and Alice Lee. The event is named in honor of co-founder Dr. Jeanne Cairns Sinquefield's maiden name. Play starts at 12:00 local time, 18:00 GMT but a 30 minute delay will be applied to the moves.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/5th-cairns-cup-2025",
+         "pubDate" : "Mon, 9 Jun 2025 16:21:00",
+         "title" : "5th Cairns Cup 2025 - Games and Results"
+      },
+      {
+         "description" : "Get ready for one of Chess.com&#39;s most intense and dramatic events! The 2025 Bullet Chess Championship (BCC) kicks off this June and will feature a $50,000 prize fund and some of the most dangerous bullet specialists in the world. The event bring...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-bullet-chess-championship-2025",
+         "pubDate" : "Mon, 09 Jun 2025 08:00:00",
+         "title" : "Returning Champion Alireza Firouzja Spearheads 2025 Bullet Chess Championship Starting June 23"
+      },
+      {
          "description" : "Almaty, Kazakhstan 18th September to 1st October, 2025 Special Note: If a player has only&#160;one accompanying person, then he/she must pay for double sharing amount",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -722,14 +738,6 @@ news_feed (
          "title" : "Bortnyk Wins Inaugural DreamHack Chess Tournament"
       },
       {
-         "description" : " The second Hans Moke Niemann match against Daniil Dubov took place in the Raketa Creative Studio in Moscow, 27th to 28th May 2025. Just like the first match it was an 18 game 3m+2spm match, this time they were tied at 9-9 and the match was settled by two additional games, Niemann won the first and the second was drawn for a final score of 10.5-9.5, a great comeback as he was a point down at the end of day 1. I extracted the games from the live coverage on ENDGAME.AI which only gave me the moves, I also seemed to get the moves for the wrong game sometimes. I have 20 different game scores now. Please let me know if there are any errors as I can't guarantee the correctness, I did my best. I al",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/niemann-vs-dubov-raketa-match-2025",
-         "pubDate" : "Wed, 28 May 2025 18:46:00",
-         "title" : "Niemann vs Dubov Raketa Match 2025 - Games and Results"
-      },
-      {
          "description" : "Entries are now open for the 2025 Northumbria Masters (20-25 August at Darlington's Dolphin Centre), a six-day, nine-round FIDE-rated congress at https://northumbriamasters.com.&#160;Tournaments include Open Super-Swiss (eligible for title norms), Challengers...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -768,14 +776,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/javokhir-sindarov-wins-tepe-sigeman-2025",
          "pubDate" : "Wed, 28 May 2025 03:46:00",
          "title" : "Sindarov Wins Star-Studded TePe Sigeman & Co Chess Tournament"
-      },
-      {
-         "description" : "GM Arjun Erigaisi has joined GM Hikaru Nakamura in the&#38;nbsp;Norway Chess 2025 lead after handing a second loss in a row to World Champion Gukesh Dommaraju. GM Fabiano Caruana bounced back with a fine win over GM Wei Yi, while GM Magnus Carlsen fir...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-norway-chess-round-2",
-         "pubDate" : "Tue, 27 May 2025 13:25:00",
-         "title" : "Arjun Stuns Gukesh, Caruana Bounces Back, Nakamura Beats Carlsen"
       },
       {
          "description" : "The European Chess Union, in cooperation with Chessdom.com and its Chess Calendar, have launched a new calendar on their official website. You can find it at https://www.europechess.org/calendar/ The calendar includes all ECU events from 2014 with detailed information and links to the official websites and/or results. It also has sections for 2026 and 2027 events, which will be timely updated.",
