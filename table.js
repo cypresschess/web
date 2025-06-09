@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-06-08","8","<a href=http://www.uschess.org/msa/XtblMain.php?202506083132 target='_blank'>BELLAIRE SUNDAY SWISS</a>",
 "SUGAR LAND","2025-06-06","28","<a href=http://www.uschess.org/msa/XtblMain.php?202506061872 target='_blank'>NATIONAL DOUGHNUT DAY OPEN</a>",
 "HOUSTON","2025-06-01","12","<a href=http://www.uschess.org/msa/XtblMain.php?202506019902 target='_blank'>JUNE 1ST SUNDAY SWISS</a>",
 "HOUSTON","2025-06-01","6","<a href=http://www.uschess.org/msa/XtblMain.php?202506019402 target='_blank'>BELLAIRE SUNDAY SWISS</a>",
@@ -198,5 +199,4 @@ jtable([
 "LEAGUE CITY","2024-11-02","117","<a href=http://www.uschess.org/msa/XtblMain.php?202411020262 target='_blank'>HYDE CHESS TOURNAMENT</a>",
 "CYPRESS","2024-11-01","26","<a href=http://www.uschess.org/msa/XtblMain.php?202411019742 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2024-11-01","31","<a href=http://www.uschess.org/msa/XtblMain.php?202411019372 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2024-11-01","12","<a href=http://www.uschess.org/msa/XtblMain.php?202411019262 target='_blank'>TOURNAMENTS/FBCC 2024 HALLOWEEN OPE</a>",
 ]);
