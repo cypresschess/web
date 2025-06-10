@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The ChessBase Premium Account is a powerful all-in-one chess improvement tool that provides extensive online resources, training, playing opportunities, and cloud services to help players of all levels enhance their game effectively. And the service runs on anything: Windows, Macs, notebooks, tablets, your mobile phone. Watch this video by Sagar Shah explaining the services you get and how to best use it. And best of all: it will only cost you €49.90 per year!",
+         "description" : "The ECU E-Magazine May 2025 is out! In this edition of the ECU E-Magazine you may read about: ECU E-Magazine May 2025 can be read online together with interactive links on the following link or it can be downloaded in PDF format below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-may-2025/",
+         "pubDate" : "Tue, 10 Jun 2025 14:35:00",
+         "title" : "ECU E-Magazine May 2025"
+      },
+      {
+         "description" : "The ChessBase Premium Account is a powerful all-in-one chess improvement tool that provides extensive online resources, training, playing opportunities, and cloud services to help players of all levels enhance their game effectively. And the service runs on anything: Windows, Macs, notebooks, tablets, your mobile phone. Watch this video by Sagar Shah explaining the services you get and how to best use it. And best of all: it will only cost you €4.99 per month!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-whole-chess-world-is-yours",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/entertaining-playful-timeless-the-new-in-chess-magazine-3-2025-is-out",
          "pubDate" : "Tue, 10 Jun 2025 10:20:52",
          "title" : "Entertaining, playful, timeless - The \"New in Chess Magazine\" #3/2025"
+      },
+      {
+         "description" : "We&#39;re excited to announce one of our most game-changing features yet: Introducing Play Coach, our first-ever AI opponent that actually teaches you while you play! Play unlimited games against your new virtual teacher who can play at your level, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-play-coach",
+         "pubDate" : "Tue, 10 Jun 2025 08:00:00",
+         "title" : "NEW FEATURE: Play Coach Now Available On Chess.com"
       },
       {
          "description" : "Blending culture, history and chess, the \"Clash of Generations\" match in Pietrasanta, Italy, formed the centrepiece of the Chess Roads Festival. Held at the historic La Versiliana venue and featuring a ceremonial opening with rare chessboards, traditional carriages and the presence of Andrea Bocelli (pictured, during the simultaneous exhibition), the event celebrated the game's artistic and cultural legacy. On the board, five-time World Champion Viswanathan Anand defeated 11-year-old Faustino Oro 2-0 in a match marked by professionalism and mutual respect.",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-norway-chess-round-3",
          "pubDate" : "Wed, 28 May 2025 13:13:00",
          "title" : "Caruana Leads As Gukesh Beats Nakamura On 19th Birthday"
-      },
-      {
-         "description" : "GM Wesley So and Minh Le each won outright with a score of 10/11 in the May 27 editions of Titled Tuesday, the final tournaments of the 2025 Titled Tuesday Grand Prix. Le&#39;s performance carried him into the top eight in the Grand Prix standings, gu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/so-le-win-titled-tuesday-may-27-2025",
-         "pubDate" : "Wed, 28 May 2025 07:51:28",
-         "title" : "So, Minh Le Win Titled Tuesday; Le Enters Speed Chess Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121457421.cms\" />Magnus Carlsen defeated D Gukesh in the first round of the Norway Chess tournament, showcasing his endgame prowess. Gukesh's blunder cost him the game despite a promising start. Former national champion Pravin Thipsay believes Gukesh is preparing for the 2026 Championship match, viewing these games as valuable learning experiences.",
