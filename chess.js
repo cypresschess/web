@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 10-20 at the World Chess Hall of Fame. Tan Zhongyi, Humpy Koneru and Bibisara Assaubayeva are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $250,000. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2025-live",
+         "pubDate" : "Tue, 10 Jun 2025 19:00:00",
+         "title" : "Cairns Cup, Round 1 - Live!"
+      },
+      {
          "description" : "The ECU E-Magazine May 2025 is out! In this edition of the ECU E-Magazine you may read about: ECU E-Magazine May 2025 can be read online together with interactive links on the following link or it can be downloaded in PDF format below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -920,14 +928,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2025-glorney-cup/",
          "pubDate" : "Wed, 21 May 2025 08:38:34",
          "title" : "2025 Glorney Cup"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121297712.cms\" />Magnus Carlsen recently faced a unique challenge, battling over 143,000 chess enthusiasts worldwide in a freestyle game hosted online. This marked the first time a reigning or former world champion participated in such a format. Despite predictions favouring Carlsen, Team World played strategically, leading to a draw by move 32 via threefold repetition.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-vs-the-world-when-the-world-no-1-chess-player-took-on-143000-people-in-a-historic-freestyle-showdown/articleshow/121297712.cms",
-         "pubDate" : "Tue, 20 May 2025 16:41:24",
-         "title" : "Carlsen vs World: When the No. 1 chess player took on 143,000 people"
       }
    ]
 }
