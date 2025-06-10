@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Blending culture, history and chess, the \"Clash of Generations\" match in Pietrasanta, Italy, formed the centrepiece of the Chess Roads Festival. Held at the historic La Versiliana venue and featuring a ceremonial opening with rare chessboards, traditional carriages and the presence of Andrea Bocelli (pictured, during the simultaneous exhibition), the event celebrated the game's artistic and cultural legacy. On the board, five-time World Champion Viswanathan Anand defeated 11-year-old Faustino Oro 2-0 in a match marked by professionalism and mutual respect.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anand-oro-match-pietrasanta-2025",
+         "pubDate" : "Tue, 10 Jun 2025 02:00:00",
+         "title" : "Vishy Anand and Faustino Oro meet in Pietrasanta, Italy"
+      },
+      {
          "description" : "The Cairns Cup returns to Saint Louis for its fifth edition, featuring ten of the world's leading female players in a nine-round classical tournament. With a record prize fund of $250,000 and a playoff in place to decide any tie for first, the event continues to highlight elite women's chess. Top seeds include Tan Zhongyi, Humpy Koneru, Bibisara Assaubayeva and Nana Dzagnidze. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -96,14 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/norway-chess-2025-carlsen-gukesh-conclusions",
          "pubDate" : "Sun, 08 Jun 2025 14:03:00",
          "title" : "Carlsen Survives Gukesh Drama To Win Norway Chess 2025: 7 Conclusions"
-      },
-      {
-         "description" : "After all the analysis tips from the past few weeks, this time it's simply about aesthetics! But that's not unimportant - after all, you spend a lot of time with ChessBase 18, so the look should be appealing and match your personal taste. Discover how to customize \"your board\" exactly the way you like it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-17-choosing-your-board-design",
-         "pubDate" : "Sun, 08 Jun 2025 12:00:00",
-         "title" : "ChessBase 18 - Tips for beginners, part 17: Choosing your board design"
       },
       {
          "description" : "A new book from the Elk and Ruby stable joins the Willy Hendricks analysis of the relationship between Tarrasch and Nimzowitsch as an undoubted candidate for ECF Book of the Year. Packed with new information, original documents and fresh insights, Alexander Alekhine, The Russian Sphinx, Volume 1, by Sergey Voronkov, adds entirely new dimensions to the []",
@@ -304,14 +304,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-norway-chess-round-9",
          "pubDate" : "Thu, 05 Jun 2025 12:51:00",
          "title" : "Carlsen, Gukesh Strike To Set Up Perfect Norway Chess Last Round"
-      },
-      {
-         "description" : "What was the chess world like, 32 years ago? How many players were there, how strong were they, how many were grandmasters? In 1993 the newly founded Professional Chess Association, seeking to win Intel as its main sponsor, commissioned the collection of statistics. Today we look at the results, and ask you to comment on the numbers you see. The follow-up article will compare them with those of the current chess world.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/historical-chess-statistics",
-         "pubDate" : "Thu, 05 Jun 2025 08:32:46",
-         "title" : "Historical chess statistics (1)"
       },
       {
          "description" : "We&#39;re excited to announce the next edition of BlitzChamps, the viral online tournament where NFL stars go head-to-head in blitz chess. BlitzChamps IV returns on June 16, starting at 4 p.m. ET / 22:00 CEST. This year&#38;rsquo;s showdown features a $10...",
