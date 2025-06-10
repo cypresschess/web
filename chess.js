@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ChessBase Premium Account is a powerful all-in-one chess improvement tool that provides extensive online resources, training, playing opportunities, and cloud services to help players of all levels enhance their game effectively. And the service runs on anything: Windows, Macs, notebooks, tablets, your mobile phone. Watch this video by Sagar Shah explaining the services you get and how to best use it. And best of all: it will only cost you €49.90 per year!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-whole-chess-world-is-yours",
+         "pubDate" : "Tue, 10 Jun 2025 12:08:55",
+         "title" : "The whole chess world is yours!"
+      },
+      {
+         "description" : "\"Enjoy the best game. Ever.\" That's the slogan of the \"New in Chess Magazine\" - and the current issue lives up to that promise. It explores the question of whether Boris Spassky would have preferred to be buried next to Bobby Fischer, features in-depth interviews with Hikaru Nakamura and Aravindh Chithambaram, and includes the magazine's regular columns offering training advice and entertaining insights from the world of chess. Informative and engaging.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/entertaining-playful-timeless-the-new-in-chess-magazine-3-2025-is-out",
+         "pubDate" : "Tue, 10 Jun 2025 10:20:52",
+         "title" : "Entertaining, playful, timeless - The \"New in Chess Magazine\" #3/2025"
+      },
+      {
          "description" : "Blending culture, history and chess, the \"Clash of Generations\" match in Pietrasanta, Italy, formed the centrepiece of the Chess Roads Festival. Held at the historic La Versiliana venue and featuring a ceremonial opening with rare chessboards, traditional carriages and the presence of Andrea Bocelli (pictured, during the simultaneous exhibition), the event celebrated the game's artistic and cultural legacy. On the board, five-time World Champion Viswanathan Anand defeated 11-year-old Faustino Oro 2-0 in a match marked by professionalism and mutual respect.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/niemann-sarin-blitz-match-2025",
          "pubDate" : "Mon, 9 Jun 2025 18:25:00",
          "title" : "Niemann-Sarin Blitz Match 2025 - Games and Results"
-      },
-      {
-         "description" : "Indian grandmaster Aravindh Chithambaram claimed victory at the 2025 Stepan Avagyan Memorial in Jermuk, Armenia, edging out Praggnanandhaa Rameshbabu on tiebreaks after both scored 6&frac12;/9 points. The tournament, a 10-player round-robin held from 29 May to 6 June, marked a key milestone in Aravindh's career as he entered the world top 10 for the first time. His result also moved him to second place in the 2025 FIDE Circuit standings. | Photo: Chess Academy of Armenia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/stepan-avagyan-memorial-2025-report",
-         "pubDate" : "Mon, 09 Jun 2025 17:20:00",
-         "title" : "Aravindh edges Pragg on tiebreaks to win Stepan Avagyan Memorial"
       },
       {
          "description" : " The 5th Cairns Cup takes place in St Louis 10th to 20th June 2025. This women's event has the following players: Tan Zhongyi, Humpy Koneru, Nana Dzagnidze, Alina Kashlinskaya, Bibisara Assaubayeva, Mariya Muzychuk, Harika Dronavalli, Nino Batsiashvili, Carissa Yip and Alice Lee. The event is named in honor of co-founder Dr. Jeanne Cairns Sinquefield's maiden name. Play starts at 12:00 local time, 18:00 GMT but a 30 minute delay will be applied to the moves.",
