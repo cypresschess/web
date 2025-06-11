@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Among ChessBase products the Big DataBase stands in its own right. Unlike the MegaBase it has no annotations. This paves the way for independent study and preparation, and helps the player to hone skills on his own. The present edition offers 11 million games from 1475 to November 2024. In this vast collection there are games from world championships, famous tournaments, past and present, not to mention little-known events that deserve greater recognition. There are magnificent battles, brilliancies and unknown gems all waiting to be discovered. Our columnist here introduces a few rare gems.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/big-database-2025-review-nagesh-havanur",
+         "pubDate" : "Wed, 11 Jun 2025 07:35:56",
+         "title" : "Big DataBase 2025: In search of a treasure trove"
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-1-recap/\">2025 Cairns Cup - Day 1 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Cairns Cup, Round 1 - Live!"
       },
       {
-         "description" : "All five games were decisive in round one of the Cairns Cup 2025. In the lead are GM Koneru Humpy, GM Harika Dronavalli, IM Alina Kashlinskaya, GM-elect Bibisara Assaubayeva, and IM Alice Lee (they won, respectively, against GM Nana Dzagnidze, GM ...",
+         "description" : "All five games were decisive in round one of the Cairns Cup 2025. In the lead are GM Koneru Humpy, GM Harika Dronavalli, IM Alina Kashlinskaya, GM-elect Bibisara Assaubayeva, and IM Alice Lee after winning, respectively, against GM Nana Dzagnidze,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-1",
