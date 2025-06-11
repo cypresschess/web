@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup in Saint Louis, one of the strongest women's tournaments of the year, began with a promising start: all five games in the first round ended decisively. There were also a few minor surprises. Alice Lee (pictured), the youngest participant at just 15 years old and number 10 seed, scored a convincing victory against Nino Batsiashvili. Meanwhile, top seed and 2024 Cairns Cup winner Tan Zhongyi suffered a setback, losing with the white pieces to Alina Kashlinskaya after landing in a difficult position as early as move 21. | Photo: Tournament page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-five-wins-in-round-1",
+         "pubDate" : "Wed, 11 Jun 2025 10:14:48",
+         "title" : "Cairns Cup: Five wins in round 1"
+      },
+      {
+         "description" : "The ECF is inviting one player per section to participate as our official representative in the FIDE World Cadet Championships in Almaty, Kazakhstan (18 September to 1 October, 2025). Other...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/registration-for-world-cadet-championships-18-september-1-october-2025/",
+         "pubDate" : "Wed, 11 Jun 2025 09:09:16",
+         "title" : "Registration for World Cadet Championships 18 September - 1 October 2025"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121772906.cms\" />Bangladeshi chess player Rani Hamid, 80, arrived in Delhi for a tournament, but her companion Ashiya Sultana was denied entry and deported due to a previous visa violation. This incident has deeply upset Hamid, impacting her performance in the competition. Despite the emotional distress, she appreciates the support from the Delhi Chess Association.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-bangladeshi-chess-player-deported-from-india-80-year-old-legend-rani-hamid-disturbed-by-events/articleshow/121772906.cms",
+         "pubDate" : "Wed, 11 Jun 2025 08:42:18",
+         "title" : "Exclusive: Bangladeshi player deported from India; 80-yo legend Rani Hamid 'disturbed' by events"
+      },
+      {
+         "description" : "The ECF annual awards celebrate achievements both individual and collective. They are a way for the ECF to recognise the work that numerous individuals undertake to promote and develop chess...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2025-ecf-awards/",
+         "pubDate" : "Wed, 11 Jun 2025 08:00:39",
+         "title" : "2025 ECF Awards"
+      },
+      {
          "description" : "Among ChessBase products the Big DataBase stands in its own right. Unlike the MegaBase it has no annotations. This paves the way for independent study and preparation, and helps the player to hone skills on his own. The present edition offers 11 million games from 1475 to November 2024. In this vast collection there are games from world championships, famous tournaments, past and present, not to mention little-known events that deserve greater recognition. There are magnificent battles, brilliancies and unknown gems all waiting to be discovered. Our columnist here introduces a few rare gems.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +42,20 @@ news_feed (
          "title" : "Big DataBase 2025: In search of a treasure trove"
       },
       {
+         "description" : "Steve Rigby, the founder of Oldham-based 3Cs Chess Club over forty-six years ago, has been awarded the British Empire Medal in the 2025 King's New Year's Honours for services to...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2025-kings-new-years-honours-stephen-rigby-british-empire-medal/",
+         "pubDate" : "Wed, 11 Jun 2025 07:00:37",
+         "title" : "2025 King's New Year's Honours: Stephen Rigby, British Empire Medal - new photos"
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-1-recap/\">2025 Cairns Cup - Day 1 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-1-recap/",
          "pubDate" : "Wed, 11 Jun 2025 00:25:04",
          "title" : "2025 Cairns Cup - Day 1 Recap"
-      },
-      {
-         "description" : "The Cairns Cup is taking place on June 10-20 at the World Chess Hall of Fame. Tan Zhongyi, Humpy Koneru and Bibisara Assaubayeva are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $250,000. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2025-live",
-         "pubDate" : "Tue, 10 Jun 2025 19:00:00",
-         "title" : "Cairns Cup, Round 1 - Live!"
       },
       {
          "description" : "All five games were decisive in round one of the Cairns Cup 2025. In the lead are GM Koneru Humpy, GM Harika Dronavalli, IM Alina Kashlinskaya, GM-elect Bibisara Assaubayeva, and IM Alice Lee after winning, respectively, against GM Nana Dzagnidze,...",
@@ -920,30 +952,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chessfest-returns-13th-july/",
          "pubDate" : "Wed, 21 May 2025 13:57:17",
          "title" : "ChessFest returns - 13th July"
-      },
-      {
-         "description" : "The ECF is pleased to announce that the Board has decided to appoint Tim Wall as the Junior Development Director to succeed Alex Holowczak. Tim is well known throughout the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/junior-development-director/",
-         "pubDate" : "Wed, 21 May 2025 10:39:54",
-         "title" : "Junior Development Director"
-      },
-      {
-         "description" : "The ECF annual awards celebrate achievements both individual and collective. They are a way for the ECF to recognise the work that numerous individuals undertake to promote and develop chess...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2025-ecf-awards/",
-         "pubDate" : "Wed, 21 May 2025 10:13:39",
-         "title" : "2025 ECF Awards"
-      },
-      {
-         "description" : "The 2025 Glorney Cup will take place from 28th to 30th July 2025. You will need to travel to the venue on 27th July in Newport, Wales. There will be...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2025-glorney-cup/",
-         "pubDate" : "Wed, 21 May 2025 08:38:34",
-         "title" : "2025 Glorney Cup"
       }
    ]
 }
