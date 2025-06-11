@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-1-recap/\">2025 Cairns Cup - Day 1 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-1-recap/",
+         "pubDate" : "Wed, 11 Jun 2025 00:25:04",
+         "title" : "2025 Cairns Cup - Day 1 Recap"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 10-20 at the World Chess Hall of Fame. Tan Zhongyi, Humpy Koneru and Bibisara Assaubayeva are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $250,000. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/cairns-cup-2025-live",
          "pubDate" : "Tue, 10 Jun 2025 19:00:00",
          "title" : "Cairns Cup, Round 1 - Live!"
+      },
+      {
+         "description" : "All five games were decisive in round one of the Cairns Cup 2025. In the lead are GM Koneru Humpy, GM Harika Dronavalli, IM Alina Kashlinskaya, GM-elect Bibisara Assaubayeva, and IM Alice Lee (they won, respectively, against GM Nana Dzagnidze, GM ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-1",
+         "pubDate" : "Tue, 10 Jun 2025 17:39:00",
+         "title" : "All-Decisive Round Ends With 5 Early Leaders"
       },
       {
          "description" : "The ECU E-Magazine May 2025 is out! In this edition of the ECU E-Magazine you may read about: ECU E-Magazine May 2025 can be read online together with interactive links on the following link or it can be downloaded in PDF format below.",
@@ -768,14 +784,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2025-northumbria-masters-1st-darlington-chessfest/",
          "pubDate" : "Wed, 28 May 2025 13:41:05",
          "title" : "2025 Northumbria Masters & 1st Darlington ChessFest"
-      },
-      {
-         "description" : "GM Fabiano Caruana beat GM Arjun Erigaisi in round three of Norway Chess 2025 to take the sole lead, while World Champion Gukesh Dommaraju, on his 19th birthday, hit back after two losses to defeat GM Hikaru Nakamura. GM Magnus Carlsen had another...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-norway-chess-round-3",
-         "pubDate" : "Wed, 28 May 2025 13:13:00",
-         "title" : "Caruana Leads As Gukesh Beats Nakamura On 19th Birthday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121457421.cms\" />Magnus Carlsen defeated D Gukesh in the first round of the Norway Chess tournament, showcasing his endgame prowess. Gukesh's blunder cost him the game despite a promising start. Former national champion Pravin Thipsay believes Gukesh is preparing for the 2026 Championship match, viewing these games as valuable learning experiences.",
