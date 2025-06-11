@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From Wednesday onwards, London will be the capital of chess. Many top players will be competing in the FIDE Rapid and Blitz World Championships, where they will also face ambitious amateurs. Rapid chess will be played from Wednesday to Friday, followed by the blitz tournament on Saturday and Sunday. Live coverage will be available daily from 15:00 CET.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-rapid-and-blitz-team-championships-live",
+         "pubDate" : "Wed, 11 Jun 2025 14:45:00",
+         "title" : "FIDE World Rapid and Blitz Team Championships live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
+         "pubDate" : "Wed, 11 Jun 2025 14:07:27",
+         "title" : "ECF Level 1 Arbiter Course - September 2025"
+      },
+      {
+         "description" : "On the Thursday before the Whitsun weekend, Bremen's market square was once again transformed into a large open-air chess tournament hall. 1,300 schoolchildren competed to show what they had learned as part of the Bremen school chess project \"Schach macht schlau!\" (Chess makes smart). At the end of the day, the cup winners were drawn from the winning team. This time, the trophy featuring the Bremen Town Musicians went to Burgdamm School with classes 1c and 2c. | Photos: Nils Rhode",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-makes-smart-1-300-children-on-bremen-s-market-square",
+         "pubDate" : "Wed, 11 Jun 2025 13:31:52",
+         "title" : "Chess makes smart: 1,300 children on Bremen's market square!"
+      },
+      {
          "description" : "The Cairns Cup in Saint Louis, one of the strongest women's tournaments of the year, began with a promising start: all five games in the first round ended decisively. There were also a few minor surprises. Alice Lee (pictured), the youngest participant at just 15 years old and number 10 seed, scored a convincing victory against Nino Batsiashvili. Meanwhile, top seed and 2024 Cairns Cup winner Tan Zhongyi suffered a setback, losing with the white pieces to Alina Kashlinskaya after landing in a difficult position as early as move 21. | Photo: Tournament page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +72,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2025-kings-new-years-honours-stephen-rigby-british-empire-medal/",
          "pubDate" : "Wed, 11 Jun 2025 07:00:37",
          "title" : "2025 King's New Year's Honours: Stephen Rigby, British Empire Medal - new photos"
+      },
+      {
+         "description" : "In a moment few had expected, Chess.com earned an unforgettable shoutout on one of the world&#38;rsquo;s biggest tech stages, Apple&#38;rsquo;s Worldwide Developers Conference (WWDC). The WWDC is held annually to showcase new software and technology, an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/6-out-of-5-stars-for-chess-com-at-wwdc-event",
+         "pubDate" : "Wed, 11 Jun 2025 06:01:00",
+         "title" : "Chess.com Gets Surprise '6 Out Of 5 Stars' Tribute At Apple's WWDC"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-1-recap/\">2025 Cairns Cup - Day 1 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -104,6 +136,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/anand-oro-match-pietrasanta-2025",
          "pubDate" : "Tue, 10 Jun 2025 02:00:00",
          "title" : "Vishy Anand and Faustino Oro meet in Pietrasanta, Italy"
+      },
+      {
+         "description" : "This week's puzzles come from the 12th Cherry Blossom Classic, which was featured in our Memorial Day wrap-up. While the later rounds of competitive opens usually feature the most level match-ups - with top grandmasters going at it for a shot at the biggest prizes - the early rounds of these tournaments often produce the best material for learning tactics. We've all had the experience of holding on for a while against higher-rated players before blundering a tactic. These tournaments allow us to see what types of mistakes strong players make when competing against even stronger competition. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-cherry-blossom-classic",
+         "pubDate" : "Tue, 10 Jun 2025 00:00:00",
+         "title" : "Tactics Tuesday: Cherry Blossom Classic"
       },
       {
          "description" : "The Cairns Cup returns to Saint Louis for its fifth edition, featuring ten of the world's leading female players in a nine-round classical tournament. With a record prize fund of $250,000 and a playoff in place to decide any tie for first, the event continues to highlight elite women's chess. Top seeds include Tan Zhongyi, Humpy Koneru, Bibisara Assaubayeva and Nana Dzagnidze. | Photo: Lennart Ootes",
@@ -618,14 +658,6 @@ news_feed (
          "title" : "Watch: Carlsen bangs fist on board after shock loss to D Gukesh"
       },
       {
-         "description" : "Our rulebook covers what takes place on a chess board's 64 squares. How the pieces move is essentially the same everywhere rated games are essayed in US Chess-or is it? The experience of facing opponents has a different feel to it at your weekly club meeting versus a Super Swiss.You're a club player. You've essayed games for decades at one local venue or another. The TD and organizer inhabit the same body. On top of administration duties, the TD also pushes wood at those club events. Without her, rated chess dies locally. The fees are low. The chess is fun. And it is a social event as much as it is a chess event. You get together with about the same group of other chess addicts once a week t",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-club-versus-super-swiss",
-         "pubDate" : "Mon, 02 Jun 2025 00:00:00",
-         "title" : "Just The Rules: Club Versus Super Swiss"
-      },
-      {
          "description" : " The Norway Chess Open took place 26th May to 1st June 2025. Gergely Kantor and Elham Amar were the top seeds. Vitaly Kunin edged out Lev Yankelevich and Torben Knuedel on tie-break after all scored 7/9. Long time leader Platon Galperin lost in the final round to Knuedel. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -786,14 +818,6 @@ news_feed (
          "title" : "Chess on Thursday 29th May 2025 - "
       },
       {
-         "description" : "GM Magnus Carlsen scored a smooth win over GM Arjun Erigaisi in round four of Norway Chess 2025 to take the sole lead after GM Fabiano Caruana missed a classical win over GM Gukesh Dommaraju. The relieved world champion stormed to an armageddon wi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-norway-chess-round-4",
-         "pubDate" : "Thu, 29 May 2025 13:40:00",
-         "title" : "Carlsen Beats Arjun To Grab Sole Lead"
-      },
-      {
          "description" : " The Titled Tuesday Blitz 27th May 2025 events were missing both regular winners Hikaru Nakamura and Magnus Carlsen who were otherwise engaged in Stavanger. The early event was won by Wesley So. Key to victory was his Round 9 win over second placed Rinat Jumabayev, 33.Bf4? was the decisive error. So then beat Denis Lazavik and drew with Anish Giri in the final round. Tuan Minh Le is a reasonably regular winner of Titled Tuesdays, he drew against 4th and 3rd placed Frederik Svane and Jeffery Xiong in rounds 10 and 11 respectively and won all the rest of his games.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -944,14 +968,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-world-chess-hall-of-fame-galleries-and-grand-chess-tour-launch-150000-matching-donation-campaign-for-saint-louis-tornado-relief/",
          "pubDate" : "Wed, 21 May 2025 20:29:50",
          "title" : "Saint Louis Chess Club, World Chess Hall of Fame & Galleries and Grand Chess Tour Launch $150,000 Matching Donation Campaign for Saint Louis Tornado Relief"
-      },
-      {
-         "description" : "There are fewer than 8 weeks to go until ChessFest 2025, our annual chess extravaganza in Trafalgar Square, London. On Sunday 13th July 2025, 11am-6pm, we're taking over the whole...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chessfest-returns-13th-july/",
-         "pubDate" : "Wed, 21 May 2025 13:57:17",
-         "title" : "ChessFest returns - 13th July"
       }
    ]
 }
