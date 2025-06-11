@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-2-recap/\">2025 Cairns Cup Day 2 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-2-recap/",
+         "pubDate" : "Wed, 11 Jun 2025 22:49:01",
+         "title" : "2025 Cairns Cup - Day 2 Recap"
+      },
+      {
          "description" : " The FIDE World Rapid and Blitz Team Championships take place in London Tue 10th to Mon 16th Jun 2025. Players include Firouzja, Aronian, MVL, Nakamura, Abdusattorov, Anand, 420 players of varying strengths playing for teams. Each team of 6 in each match requires one recreational player and one woman player. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -968,14 +976,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-union-youth-u8-u14-chess-championship-2025/",
          "pubDate" : "Thu, 22 May 2025 19:02:22",
          "title" : "European Union Youth U8-U14 Chess Championship 2025"
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-world-chess-hall-of-fame-galleries-and-grand-chess-tour-launch-150000-matching-donation-campaign-for-saint-louis-tornado-relief/\">Saint Louis Chess Club, World Chess Hall of Fame &amp; Galleries and Grand Chess Tour Launch $150,000 Matching Donation Campaign for Saint Louis Tornado Relief</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-world-chess-hall-of-fame-galleries-and-grand-chess-tour-launch-150000-matching-donation-campaign-for-saint-louis-tornado-relief/",
-         "pubDate" : "Wed, 21 May 2025 20:29:50",
-         "title" : "Saint Louis Chess Club, World Chess Hall of Fame & Galleries and Grand Chess Tour Launch $150,000 Matching Donation Campaign for Saint Louis Tornado Relief"
       }
    ]
 }
