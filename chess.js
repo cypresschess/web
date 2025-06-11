@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The FIDE World Rapid and Blitz Team Championships take place in London Tue 10th to Mon 16th Jun 2025. Players include Firouzja, Aronian, MVL, Nakamura, Abdusattorov, Anand, 420 players of varying strengths playing for teams. Each team of 6 in each match requires one recreational player and one woman player. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-rapid-and-blitz-team-championships-2025",
+         "pubDate" : "Wed, 11 Jun 2025 19:20:00",
+         "title" : "FIDE World Rapid and Blitz Team Championships 2025 - Games and Results"
+      },
+      {
+         "description" : "The Cairns Cup is taking place on June 10-20 at the World Chess Hall of Fame. Tan Zhongyi, Humpy Koneru and Bibisara Assaubayeva are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $250,000. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2025-live",
+         "pubDate" : "Wed, 11 Jun 2025 19:00:00",
+         "title" : "Cairns Cup, Round 2 - Live!"
+      },
+      {
          "description" : "From Wednesday onwards, London will be the capital of chess. Many top players will be competing in the FIDE Rapid and Blitz World Championships, where they will also face ambitious amateurs. Rapid chess will be played from Wednesday to Friday, followed by the blitz tournament on Saturday and Sunday. Live coverage will be available daily from 15:00 CET.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-makes-smart-1-300-children-on-bremen-s-market-square",
          "pubDate" : "Wed, 11 Jun 2025 13:31:52",
          "title" : "Chess makes smart: 1,300 children on Bremen's market square!"
+      },
+      {
+         "description" : "GM Hans Niemann began the early Titled Tuesday on 10/10 on his way to victory by half a point over GM Magnus Carlsen, but Carlsen would take his revenge by winning in the late tournament on 10/11. Each player defeated the other in the 10th round o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/niemann-carlsen-win-titled-tuesday-june-9-2025",
+         "pubDate" : "Wed, 11 Jun 2025 11:04:05",
+         "title" : "Niemann And Carlsen Clash In Titled Tuesday"
       },
       {
          "description" : "The Cairns Cup in Saint Louis, one of the strongest women's tournaments of the year, began with a promising start: all five games in the first round ended decisively. There were also a few minor surprises. Alice Lee (pictured), the youngest participant at just 15 years old and number 10 seed, scored a convincing victory against Nino Batsiashvili. Meanwhile, top seed and 2024 Cairns Cup winner Tan Zhongyi suffered a setback, losing with the white pieces to Alina Kashlinskaya after landing in a difficult position as early as move 21. | Photo: Tournament page",
@@ -88,6 +112,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-1-recap/",
          "pubDate" : "Wed, 11 Jun 2025 00:25:04",
          "title" : "2025 Cairns Cup - Day 1 Recap"
+      },
+      {
+         "description" : "This week's puzzles all comes from yesterday's games played in the first round of the 2025 Cairns Cup (preview here). Fireworks produced decisive results on all five boards. Will we get eight weeks' worth of workouts over the next eight rounds? Maybe! For now, enjoy yesterday's highlights. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-cairns-cup-rd-1",
+         "pubDate" : "Wed, 11 Jun 2025 00:00:00",
+         "title" : "Wednesday Workout: Cairns Cup, Rd. 1"
       },
       {
          "description" : "All five games were decisive in round one of the Cairns Cup 2025. In the lead are GM Koneru Humpy, GM Harika Dronavalli, IM Alina Kashlinskaya, GM-elect Bibisara Assaubayeva, and IM Alice Lee after winning, respectively, against GM Nana Dzagnidze,...",
@@ -618,14 +650,6 @@ news_feed (
          "title" : "Tactics Tuesday: Chicago Open Highlights"
       },
       {
-         "description" : "Excellent tournament performances will be getting extra rating recognition as the result of a change to the bonus points system.The change is effective immediately and will be retroactively applied to all tournaments that ended on or after Jan. 1 of this year.Some players may see increases in their ratings, and all updated ratings should begin to appear on Tuesday or Wednesday of next week. We will be re-rating all rated games from this year, with changes showing up in next Tuesday's rerate. The change follows a recommendation from the Ratings Committee earlier this year, after they found \"ratings on average continue[d] to deflate over time and are well below rating levels at the end of 1997",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/change-us-chess-ratings-bonus-threshold-lowered-2025",
-         "pubDate" : "Tue, 03 Jun 2025 00:00:00",
-         "title" : "Change to US Chess Ratings: Bonus Threshold Lowered"
-      },
-      {
          "description" : "With wins in their round seven classical games of Norway Chess 2025, GM Fabiano Caruana has taken pole position while World Champion Gukesh Dommaraju follows a point behind. Caruana defeated GM Wei Yi on the latter&#39;s 26th birthday, squeezing water...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -778,14 +802,6 @@ news_feed (
          "title" : "Bortnyk Finishes Freestyle Friday First With Flair"
       },
       {
-         "description" : "For the first time since its original run in 1988, the cult musical Chess will get its long-awaited Broadway return in New York City this fall. The production will star Emmy Award nominee Lea Michele, Tony Award winner Aaron Tveit, and Nicholas Ch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-musical-gets-broadway-revival",
-         "pubDate" : "Fri, 30 May 2025 09:57:00",
-         "title" : "Cult Musical 'Chess' Returns To Broadway After 37 Years"
-      },
-      {
          "description" : " Home hope leads after four rounds at Stavanger following his comprehensive victory in the Speed Championship Magnus Carlsen arrived in vintage form at the start of the Norway Chess tournament. The encounter began inconclusively with the six stars - in ranking order Carlsen, Hikaru Nakamura, Fabiano Caruana, Arjun Erigaisi, Gukesh Dommaraju and Wei Yi - all launching a win or two. Gukesh, who celebrated his 19th birthday on Thursday, won in round three against Nakamura. Carlsen's version of one of Bobby Fischer's favourite openings set the tone last week for another clean sweep of the No 1 of the global elite. Carlsen's comprehensive victory in the <a href=\"http://chess.com/\">chess.com</a> S",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -816,14 +832,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/chess-on-thursday-29th-may-2025",
          "pubDate" : "Thu, 29 May 2025 15:37:00",
          "title" : "Chess on Thursday 29th May 2025 - "
-      },
-      {
-         "description" : " The Titled Tuesday Blitz 27th May 2025 events were missing both regular winners Hikaru Nakamura and Magnus Carlsen who were otherwise engaged in Stavanger. The early event was won by Wesley So. Key to victory was his Round 9 win over second placed Rinat Jumabayev, 33.Bf4? was the decisive error. So then beat Denis Lazavik and drew with Anish Giri in the final round. Tuan Minh Le is a reasonably regular winner of Titled Tuesdays, he drew against 4th and 3rd placed Frederik Svane and Jeffery Xiong in rounds 10 and 11 respectively and won all the rest of his games.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-27th-may-2025",
-         "pubDate" : "Thu, 29 May 2025 10:40:00",
-         "title" : "Titled Tuesday Blitz 27th May 2025 - Games and Results"
       },
       {
          "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2025 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2025 to be held in Batumi, Georgia on Saturday 11th October 2025. The official venue of the ECU GA will be in the hosting Hotels. The exact room will be announced later. The Assembly starts at 9.30 am. ECU will provide free of charge 3 nights for the ECU Delegates for []",
