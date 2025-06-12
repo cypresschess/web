@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "15-year-old Alice Lee is the youngest participant in the highly competitive Cairns Cup in Saint Louis and ranked 10th in the seedings, but she nevertheless got off to a flying start with two convincing victories. In round 2, she demonstrated her tactical skills and won with black against former world champion Mariya Muzychuk. The second victory of the round went to Nana Dzagnidze, who beat Bibisara Assaubayeva. The three remaining games ended in draws. This means that Alice Lee has taken the sole lead after two rounds with 2 out of 2. | Photo: Screenshot from a promotional video for the Cairns Cup",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-alice-lee-starts-with-2-out-of-2",
+         "pubDate" : "Thu, 12 Jun 2025 12:43:25",
+         "title" : "Cairns Cup: Alice Lee starts with 2 out of 2"
+      },
+      {
+         "description" : "The FIDE World Rapid and Blitz Team Championships in London bring together the world's best players, ambitious young talent, officials and chess enthusiasts. MGD1, a team consisting mainly of Indian players, were the only team to win all four matches on the first day of the Team Rapid World Championship. It was a day full of action and interesting games, with a number of upsets and surprises. | Photos: Rafal Oleksiewicz/FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-rapid-and-blitz-team-championships-mgd1-leads-with-four-wins",
+         "pubDate" : "Thu, 12 Jun 2025 10:52:22",
+         "title" : "FIDE World Rapid and Blitz Team Championships: MGD1 leads with four wins"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121797920.cms\" />Magnus Carlsen's frustrated reaction to losing against D. Gukesh at Norway Chess 2025 went viral, sparking memes and social media buzz. Carlsen slammed the table, while Gukesh embraced the meme trend, even sharing his favorite one. The incident has highlighted chess's broader appeal and the impact of social media on the sport, engaging enthusiasts and casual observers alike.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-laughed-for-10-minutes-d-gukesh-reacts-to-viral-magnus-carlsen-meme-at-norway-chess-watch-video/articleshow/121797920.cms",
+         "pubDate" : "Thu, 12 Jun 2025 08:18:16",
+         "title" : "'I laughed for 10 minutes': D Gukesh reacts to viral Magnus Carlsen meme"
+      },
+      {
          "description" : "In our previous article on historical chess statistics we showed you the number of rated players there were in 1993, their ages, ratings, and where they came from. Today we compare them with the current FIDE statistics, showing how things have developed in the three decades that have passed. Our report also contains a little puzzle for you to mull over - why does the chess superpower China have so few rated players?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-2",
-         "pubDate" : "Wed, 11 Jun 2025 21:59:22",
+         "pubDate" : "Wed, 11 Jun 2025 21:59:00",
          "title" : "Alice Lee Takes Sole Lead On Perfect 2/2"
       },
       {
@@ -40,22 +64,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-rapid-and-blitz-team-championships-2025",
          "pubDate" : "Wed, 11 Jun 2025 19:20:00",
          "title" : "FIDE World Rapid and Blitz Team Championships 2025 - Games and Results"
-      },
-      {
-         "description" : "The Cairns Cup is taking place on June 10-20 at the World Chess Hall of Fame. Tan Zhongyi, Humpy Koneru and Bibisara Assaubayeva are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $250,000. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2025-live",
-         "pubDate" : "Wed, 11 Jun 2025 19:00:00",
-         "title" : "Cairns Cup, Round 2 - Live!"
-      },
-      {
-         "description" : "From Wednesday onwards, London will be the capital of chess. Many top players will be competing in the FIDE Rapid and Blitz World Championships, where they will also face ambitious amateurs. Rapid chess will be played from Wednesday to Friday, followed by the blitz tournament on Saturday and Sunday. Live coverage will be available daily from 15:00 CET.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-rapid-and-blitz-team-championships-live",
-         "pubDate" : "Wed, 11 Jun 2025 14:45:00",
-         "title" : "FIDE World Rapid and Blitz Team Championships live"
       },
       {
          "description" : "",
@@ -928,14 +936,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-vs-magnus-carlsen-live-streaming-norway-chess-2025-when-where-to-watch-round-1-clash/articleshow/121406608.cms",
          "pubDate" : "Mon, 26 May 2025 06:41:36",
          "title" : "D Gukesh vs Magnus Carlsen Live Streaming, Norway Chess 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121396816.cms\" />Indian grandmasters D Gukesh and Arjun Erigaisi are set to compete in the prestigious Norway Chess tournament, facing formidable opponents like Magnus Carlsen and Hikaru Nakamura. Koneru Humpy and R Vaishali will represent India in the women's section. The tournament features equal prize money for both men and women, highlighting India's growing presence in the chess world.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-champion-d-gukesh-to-take-on-magnus-carlsen-in-opening-round-of-norway-chess/articleshow/121396816.cms",
-         "pubDate" : "Sun, 25 May 2025 16:56:56",
-         "title" : "Gukesh to take on Carlsen in opening round of Norway Chess"
       },
       {
          "description" : "If you've ever watched top-level chess commentary, you've probably heard something like: \"With Black, you need to take risks to win.\" \"You can't beat the Berlin without a novelty.\" \"You have to create chances.\" At the very top-yes. That's often true. But if you're not competing at 2750+ level, applying this advice backfires. And I []",
