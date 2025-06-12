@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 10-20 at the World Chess Hall of Fame. Tan Zhongyi, Humpy Koneru and Bibisara Assaubayeva are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $250,000. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2025-live",
+         "pubDate" : "Thu, 12 Jun 2025 19:00:00",
+         "title" : "Cairns Cup, Round 3 - Live!"
+      },
+      {
          "description" : "From Wednesday onwards, London will be the capital of chess. Many top players will be competing in the FIDE Rapid and Blitz World Championships, where they will also face ambitious amateurs. Rapid chess will be played from Wednesday to Friday, followed by the blitz tournament on Saturday and Sunday. Live coverage will be available daily from 15:00 CET.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -46,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-nakamura-caruana-headline-strong-vegas-field",
-         "pubDate" : "Thu, 12 Jun 2025 06:23:25",
+         "pubDate" : "Thu, 12 Jun 2025 06:23:00",
          "title" : "Carlsen, Nakamura, Caruana Headline Star-Studded Freestyle Chess Las Vegas"
       },
       {
@@ -976,22 +984,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/may/23/chess-national-solving-championship-2025-open-entries-from-britain",
          "pubDate" : "Fri, 23 May 2025 07:00:25",
          "title" : "National solving championship is open and 'Chess Messi' closing on record"
-      },
-      {
-         "description" : "The European Amateur Chess Championships 2025 will be held from 25 November (arrivals) to 5 December (departures) in the Conference Hall of the 4-star \"Riviera Spa Resort\" Hotel in Mellieha, Malta. The event will be played in three rating categories: U2300, U2000, and U1700, and it's open to all players registered or approved by their national federations listed as the ECU members. In order to be eligible to participate in the tournament, the players must fulfill the following conditions: Each []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-amateur-chess-championship-2025-regulations/",
-         "pubDate" : "Thu, 22 May 2025 19:29:59",
-         "title" : "European Amateur Chess Championship 2025 - Regulations"
-      },
-      {
-         "description" : "The 23rd edition of the European Union Youth Chess Championship U8-U14 will take place from 18-27 August in Rožnov pod Radhoštěm, Czech Republic. The event is organized by the Czech Chess Federation under the auspices of the European Chess Union. The Championship is open for citizens of a member state of the European Union or of a Schengen state. Each federation can register one player, a boy or a girl, in each of the categories: U8, U10, U12, U14, and []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-union-youth-u8-u14-chess-championship-2025/",
-         "pubDate" : "Thu, 22 May 2025 19:02:22",
-         "title" : "European Union Youth U8-U14 Chess Championship 2025"
       }
    ]
 }
