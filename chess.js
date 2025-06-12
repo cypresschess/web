@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From Wednesday onwards, London will be the capital of chess. Many top players will be competing in the FIDE Rapid and Blitz World Championships, where they will also face ambitious amateurs. Rapid chess will be played from Wednesday to Friday, followed by the blitz tournament on Saturday and Sunday. Live coverage will be available daily from 15:00 CET.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-rapid-and-blitz-team-championships-live",
+         "pubDate" : "Thu, 12 Jun 2025 15:01:00",
+         "title" : "FIDE World Rapid and Blitz Team Championships live"
+      },
+      {
          "description" : "15-year-old Alice Lee is the youngest participant in the highly competitive Cairns Cup in Saint Louis and ranked 10th in the seedings, but she nevertheless got off to a flying start with two convincing victories. In round 2, she demonstrated her tactical skills and won with black against former world champion Mariya Muzychuk. The second victory of the round went to Nana Dzagnidze, who beat Bibisara Assaubayeva. The three remaining games ended in draws. This means that Alice Lee has taken the sole lead after two rounds with 2 out of 2. | Photo: Screenshot from a promotional video for the Cairns Cup",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +42,23 @@ news_feed (
          "title" : "Chess Statistics Today"
       },
       {
-         "description" : "16-year-old GM Ediz Gurel took down GM Maxime Vachier-Lagrave while 11-year-old IM Faustino Oro beat GM David Navara as the 2025 World Rapid &#38;amp; Blitz Team Championships began in London. GM Arjun Erigaisi&#39;s Team MGD1 top the standings with the o...",
+         "description" : "The 2025 Freestyle Chess Grand Slam Tour is headed for Las Vegas, and it&#39;s bringing 16 of the world&#39;s top grandmasters to the heart of the Strip. The organizers have announced more than half of the field that will compete in the fourth leg of th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-nakamura-caruana-headline-strong-vegas-field",
+         "pubDate" : "Thu, 12 Jun 2025 06:23:25",
+         "title" : "Carlsen, Nakamura, Caruana Headline Star-Studded Freestyle Chess Las Vegas"
+      },
+      {
+         "description" : "National Chess Day!National Chess Day is Saturday, Oct. 11. For any event that includes \"National Chess Day\" in the event title and is held that day, US Chess is offering:A free email blast. Make sure that \"National Chess Day\" is part of your subject line. On the payment screen, select \"No charge.\" Also, make sure the demographic you are sending this to is reasonable; generally, this will be local or regional. Do not send to the entire membership.Free ratings fees. Use the payment code NCD2025FREE. This is case-sensitive.Free online TLA. Online TLAs are always free, of course, not just for National Chess Day. But we want to make sure you are aware of this option too as you promote your event",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/national-chess-day-set-saturday-oct-11",
+         "pubDate" : "Thu, 12 Jun 2025 00:00:00",
+         "title" : "National Chess Day Set for Saturday, Oct. 11"
+      },
+      {
+         "description" : "Sixteen-year-old GM Ediz Gurel took down GM Maxime Vachier-Lagrave while 11-year-old IM Faustino Oro beat GM David Navara as the 2025 World Rapid &#38;amp; Blitz Team Championships began in London. GM Arjun Erigaisi&#39;s Team MGD1 tops the standings with...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-rapid-blitz-team-chess-championships-day-1",
@@ -682,14 +706,6 @@ news_feed (
          "title" : "Check is in the Mail, June 2025: That's Unusual!"
       },
       {
-         "description" : "This week's puzzles come from the 32nd Annual Chicago Open, which was one of several major tournaments highlighted in yesterday's Memorial Day Weekend Wrap-Up. Enjoy more games from one of the year's more competitive opens. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-chicago-open-highlights",
-         "pubDate" : "Tue, 03 Jun 2025 00:00:00",
-         "title" : "Tactics Tuesday: Chicago Open Highlights"
-      },
-      {
          "description" : "With wins in their round seven classical games of Norway Chess 2025, GM Fabiano Caruana has taken pole position while World Champion Gukesh Dommaraju follows a point behind. Caruana defeated GM Wei Yi on the latter&#39;s 26th birthday, squeezing water...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -768,14 +784,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-magnus-carlsen-stays-top-of-standings-koneru-humpy-takes-sole-lead/articleshow/121545751.cms",
          "pubDate" : "Sun, 01 Jun 2025 05:08:06",
          "title" : "Norway Chess: Carlsen stays top of standings; Humpy takes sole lead"
-      },
-      {
-         "description" : "Newly minted IM Reza Mahdavi became the 13th player and the second IM to win an edition of Bullet Brawl&#38;nbsp;after outclassing 175 titled players in Saturday&#39;s event. Mahdavi posted a scorching 62.5/73, which earned him a final score of 221 and sa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/reza-mahdavi-wins-bullet-brawl-may-31-2025",
-         "pubDate" : "Sat, 31 May 2025 20:19:00",
-         "title" : "Dynamic Chess Earns Mahdavi Maiden Bullet Brawl Title"
       },
       {
          "description" : " The 18th American Continental took place Fri 23rd to Sat 31st May 2025 in Foz do Iguacu, Brazil. The event was won by Sam Shankland on tie-break from Jose Eduardo Martinez Alcantara, Alexandr Fier and Jose Gabriel Cardoso Cardoso, these top four qualified for the FIDE World Cup and scored 8.5/11, as did Cristobal Henriquez Villagra, Luis Paulo Supi and Santiago Avila Pavas. Alexandr Fier won the final of the blitz with 7.5/9.",
