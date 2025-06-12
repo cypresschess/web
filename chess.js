@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In our previous article on historical chess statistics we showed you the number of rated players there were in 1993, their ages, ratings, and where they came from. Today we compare them with the current FIDE statistics, showing how things have developed in the three decades that have passed. Our report also contains a little puzzle for you to mull over - why does the chess superpower China have so few rated players?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-statistics-today",
+         "pubDate" : "Thu, 12 Jun 2025 07:38:46",
+         "title" : "Chess Statistics Today"
+      },
+      {
+         "description" : "16-year-old GM Ediz Gurel took down GM Maxime Vachier-Lagrave while 11-year-old IM Faustino Oro beat GM David Navara as the 2025 World Rapid &#38;amp; Blitz Team Championships began in London. GM Arjun Erigaisi&#39;s Team MGD1 top the standings with the o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-rapid-blitz-team-chess-championships-day-1",
+         "pubDate" : "Wed, 11 Jun 2025 23:17:00",
+         "title" : "Gurel, Oro Shine As World Rapid Team Championship Begins In London"
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-2-recap/\">2025 Cairns Cup Day 2 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-2-recap/",
          "pubDate" : "Wed, 11 Jun 2025 22:49:01",
          "title" : "2025 Cairns Cup - Day 2 Recap"
+      },
+      {
+         "description" : "IM Alice Lee, the youngest and lowest-rated player in the Cairns Cup 2025, won again in round two and leads with a perfect score. With the black pieces, she defeated GM Mariya Muzychuk. In the other decisive game, GM Nana Dzagnidze recovered from ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-2",
+         "pubDate" : "Wed, 11 Jun 2025 21:59:22",
+         "title" : "Alice Lee Takes Sole Lead On Perfect 2/2"
       },
       {
          "description" : " The FIDE World Rapid and Blitz Team Championships take place in London Tue 10th to Mon 16th Jun 2025. Players include Firouzja, Aronian, MVL, Nakamura, Abdusattorov, Anand, 420 players of varying strengths playing for teams. Each team of 6 in each match requires one recreational player and one woman player. ",
@@ -762,14 +786,6 @@ news_feed (
          "title" : "3rd Cambridge International Open 2025 - Games and Results"
       },
       {
-         "description" : "Round five of Norway Chess 2025 featured three classical draws followed by three armageddon wins. GM Magnus Carlsen won the armageddon game with Black against GM Fabiano Caruana to extend his lead. GM Hikaru Nakamura had winning chances in both th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-norway-chess-round-5",
-         "pubDate" : "Sat, 31 May 2025 13:44:00",
-         "title" : "Carlsen, Humpy Lead; Nakamura Blunders Vs. Arjun"
-      },
-      {
          "description" : "It's fascinating how many questions I ask myself that I actually already know the answers to. &#8220;If more information was the answer, we'd all be billionaires with perfect abs.&#8221; Derek Sivers Like many of my students, I often fall into the trap of searching for the \"perfect\" answer to a question. I'll spend hours []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -800,14 +816,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/chess-on-friday-30th-may-2025",
          "pubDate" : "Fri, 30 May 2025 18:32:00",
          "title" : "Chess on Friday 30th May 2025 - "
-      },
-      {
-         "description" : "GM Oleksandr Bortnyk took home his third Freestyle Friday on May 30, tying him with GMs Hikaru Nakamura and Arjun Erigaisi for the most so far, and he did it with a last-minute comeback. Bortnyk scored 9.5/11, passing GM Leon Luke Mendonca in the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-may-30-2025",
-         "pubDate" : "Fri, 30 May 2025 13:42:02",
-         "title" : "Bortnyk Finishes Freestyle Friday First With Flair"
       },
       {
          "description" : " Home hope leads after four rounds at Stavanger following his comprehensive victory in the Speed Championship Magnus Carlsen arrived in vintage form at the start of the Norway Chess tournament. The encounter began inconclusively with the six stars - in ranking order Carlsen, Hikaru Nakamura, Fabiano Caruana, Arjun Erigaisi, Gukesh Dommaraju and Wei Yi - all launching a win or two. Gukesh, who celebrated his 19th birthday on Thursday, won in round three against Nakamura. Carlsen's version of one of Bobby Fischer's favourite openings set the tone last week for another clean sweep of the No 1 of the global elite. Carlsen's comprehensive victory in the <a href=\"http://chess.com/\">chess.com</a> S",
