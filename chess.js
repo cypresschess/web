@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-3-recap/\">2025 Cairns Cup Day 3 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-3-recap/",
+         "pubDate" : "Thu, 12 Jun 2025 21:42:21",
+         "title" : "2025 Cairns Cup - Day 3 Recap"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 10-20 at the World Chess Hall of Fame. Tan Zhongyi, Humpy Koneru and Bibisara Assaubayeva are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $250,000. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/cairns-cup-2025-live",
          "pubDate" : "Thu, 12 Jun 2025 19:00:00",
          "title" : "Cairns Cup, Round 3 - Live!"
+      },
+      {
+         "description" : "IM Alice Lee continues to lead the Cairns Cup 2025 after making a draw with GM Nana Dzagnidze. The one decisive result was IM Carissa Yip beating GM Nino Batsiashvili from a position she could have even lost. We saw draws in the rest: GM-elect Bib...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-3",
+         "pubDate" : "Thu, 12 Jun 2025 15:45:50",
+         "title" : "Yip Picks Up 1st Win"
       },
       {
          "description" : "From Wednesday onwards, London will be the capital of chess. Many top players will be competing in the FIDE Rapid and Blitz World Championships, where they will also face ambitious amateurs. Rapid chess will be played from Wednesday to Friday, followed by the blitz tournament on Saturday and Sunday. Live coverage will be available daily from 15:00 CET.",
@@ -776,14 +792,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/magnus-continues-to-lead-the-norway-chess-tournament-after-five-rounds",
          "pubDate" : "Sun, 1 Jun 2025 14:27:00",
          "title" : "Magnus continues to lead the Norway Chess tournament after five rounds - "
-      },
-      {
-         "description" : "GM Magnus Carlsen seemed to be on his way to extending his lead in Norway Chess 2025 by another three points with a second win against World Champion Gukesh Dommaraju. But the 19-year-old GM, who had been losing, pounced on a blunder and turned th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-norway-chess-round-6",
-         "pubDate" : "Sun, 01 Jun 2025 13:06:00",
-         "title" : "Gukesh Beats Carlsen From Losing Position"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121545751.cms\" />Magnus Carlsen extended his lead at Norway Chess with an Armageddon win over Fabiano Caruana, while Koneru Humpy took the sole lead in the women's section. Hikaru Nakamura suffered a painful loss, and Wei Yi secured another Armageddon victory.",
