@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kasparov Chess Foundation Academy is proud to host a live lecture with Nikolaos Ntirlis, bringing one of the most respected minds in chess preparation and training to our virtual stage. Ntirlis is a Greece chess player, author, and trainer, born in 1984, who has established himself as a leading expert in chess openings and engine analysis. Join us on June 15 at 18:00h CET.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-lecture-with-nikolaos-ntirlis",
+         "pubDate" : "Fri, 13 Jun 2025 23:00:00",
+         "title" : "KCF: lecture with Nikolaos Ntirlis"
+      },
+      {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-4-recap/\">2025 Cairns Cup Day 4 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-4-recap/",
+         "pubDate" : "Fri, 13 Jun 2025 22:32:33",
+         "title" : "2025 Cairns Cup - Day 4 Recap"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 10-20 at the World Chess Hall of Fame. Tan Zhongyi, Humpy Koneru and Bibisara Assaubayeva are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $250,000. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/alice-lee-leads-the-cairns-cup-after-three-rounds",
          "pubDate" : "Fri, 13 Jun 2025 18:10:00",
          "title" : "Alice Lee leads the Cairns Cup after three rounds - 1-3"
+      },
+      {
+         "description" : "GM Arjun Erigaisi bounced back to score 3.5/4 and lead Team MGD1 to gold medals in the 2025 World Rapid &#38;amp; Blitz Team Championship after a perfect four match wins on the final day. GM Levon Aronian&#39;s Hexamind took silver, while GM Viswanathan A...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-rapid-blitz-team-chess-championships-day-3",
+         "pubDate" : "Fri, 13 Jun 2025 16:13:00",
+         "title" : "Arjun, Pranav & \"New Pang Bo\" Power MGD1 To World Rapid Teams Title"
       },
       {
          "description" : "From Wednesday onwards, London will be the capital of chess. Many top players will be competing in the FIDE Rapid and Blitz World Championships, where they will also face ambitious amateurs. Rapid chess will be played from Wednesday to Friday, followed by the blitz tournament on Saturday and Sunday. Live coverage will be available daily from 15:00 CET.",
@@ -768,14 +792,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/bok-berger-win-anna-cramling-hosted-grand-chess-gala-at-twitchcon-eu",
          "pubDate" : "Tue, 03 Jun 2025 13:31:43",
          "title" : "Bok & Berger Win Anna Cramling Hosted Grand Chess Gala At TwitchCon EU"
-      },
-      {
-         "description" : "GM Fabiano Caruana continues to lead Norway Chess 2025 after round eight, even after his classical loss to GM Arjun Erigaisi in a time scramble. It was a heartbreaker for the leader, as Caruana had been pressing for the entire game. GM Magnus Carl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-norway-chess-round-8",
-         "pubDate" : "Tue, 03 Jun 2025 12:45:00",
-         "title" : "Nakamura Beats Gukesh; Caruana, Carlsen Blunder"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121587569.cms\" />D Gukesh prevailed over Arjun Erigaisi at Norway Chess, his first classical win against him, propelling him to second place. Fabiano Caruana leads the tournament after defeating Wei Yi. Magnus Carlsen secured third place with an Armageddon win over Hikaru Nakamura. Gukesh's win over Erigaisi comes on the back of a win over Magnus Carlsen, where the World No 1 lost his afterwards.",
