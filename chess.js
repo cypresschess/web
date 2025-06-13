@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After two days of play at the World Rapid Team Championship, Team MGD1 leads with 13 points, followed closely by Hexamind and Freedom. A standout performance came from 11-year-old Faustino Oro, while teams like Germany & Friends and Uzbekistan remain in close contention as the event heads into its final stages. | Photo: Dmitry Kollars and Dinara Wagner from Germany & Friends show team spirit | Photos: Rafal Oleksiewicz/FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-rapid-and-blitz-team-championships",
+         "pubDate" : "Fri, 13 Jun 2025 12:36:07",
+         "title" : "FIDE World Rapid and Blitz Team Championships: MGD1 stays ahead in tight race for Rapid Team Title"
+      },
+      {
+         "description" : " The 21st Delhi Open takes place Sat 7th to Sat 14th Jun 2025. Abhijeet Gupta leads on 8/9 half a point clear of Ghosh Aronyak and Samant Aditya S going into the final round.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/21st-delhi-open-2025",
+         "pubDate" : "Fri, 13 Jun 2025 11:27:00",
+         "title" : "21st Delhi Open 2025 - Games and Results"
+      },
+      {
+         "description" : " The Titled Tuesday Blitz 10th June events were won by Hans Moke Niemann and Magnus Carlsen. In the Early Niemann beat Carlsen and Nakamura in successive rounds (although neither game is a classic) to set up his win. Niemann finished on 10.5/11 with a final round draw against Klementy Sychev, Magnus Carlsen was clear second on 10 points. In the Late event Carlsen won with 10/11, his only loss coming to Hikaru Nakamura, however his win against Niemann in round 10 came from a game where he was completely busted for much of the game. Both game files are available for download but there seems little point to displaying the games from files of this size and this may create significant problems fo",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-10th-june-2025",
+         "pubDate" : "Fri, 13 Jun 2025 10:39:00",
+         "title" : "Titled Tuesday Blitz 10th June 2025 - Games and Results"
+      },
+      {
+         "description" : "Carissa Yip, US Women's Champion in 2021, 2023 and 2024, had a disappointing start to the Cairns Cup, losing one game and drawing another. However, in round three, she secured her first victory against Nino Batsiashvili, albeit with a touch of luck. The other four games in the round ended in draws, leaving Alice Lee as the sole leader with 2.5/3. | Photo: Lennart Ootes/Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-round-3-fortune-smiles-on-carissa-yip",
+         "pubDate" : "Fri, 13 Jun 2025 09:37:39",
+         "title" : "Cairns Cup, Round 3: Fortune smiles on Carissa Yip"
+      },
+      {
          "description" : "As many as 50 candidates representing state of Gujarat, Maharashtra and Tamil Nadu attended the two days SNA Seminar cum Examination held on 24th &#38;25th",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -10,7 +42,7 @@ news_feed (
          "title" : "Final report of SNA seminar and exam held in Kandivali West ,Mumbai on 24 & 25 May 2025"
       },
       {
-         "description" : " The world No 1 colourfully described his Norway experience and his desk fist-bang against Gukesh Dommaraju \"Winning by half a point after a lot of results go my way doesn't feel like a statement,\" was how Magnus Carlsen summed up the Stavanger tournament, where he finished just half a point ahead of Fabiano ­Caruana. The centrepiece of the event was his second game with India's world champion, Gukesh Dommaraju, in which Carlsen banged the table in frustrated rage when his winning position slipped away. Carlsen said that \"the Armageddon games were atrocious\" but pointed out that he had scored plus two in classical and claimed that he had played the best chess. He did, with the glaring except",
+         "description" : " The world No 1 colourfully described his Norway experience and his desk fist-bang against Gukesh Dommaraju \"Winning by half a point after a lot of results go my way doesn't feel like a statement,\" was how Magnus Carlsen summed up the Stavanger ­tournament, where he finished just half a point ahead of Fabiano ­Caruana. The centrepiece of the event was his second game with India's world champion, Gukesh Dommaraju, in which Carlsen banged the table in frustrated rage when his winning position slipped away. Carlsen said that \"the Armageddon games were atrocious\" but pointed out that he had scored plus two in classical and claimed that he had played the best chess. He did, with the glaring excep",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/jun/13/chess-carlsen-stumbles-at-finish-but-wins-sixth-title-in-seven-years-at-stavanger",
@@ -26,14 +58,6 @@ news_feed (
          "title" : "2025 Cairns Cup - Day 3 Recap"
       },
       {
-         "description" : "The Cairns Cup is taking place on June 10-20 at the World Chess Hall of Fame. Tan Zhongyi, Humpy Koneru and Bibisara Assaubayeva are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $250,000. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2025-live",
-         "pubDate" : "Thu, 12 Jun 2025 19:00:00",
-         "title" : "Cairns Cup, Round 3 - Live!"
-      },
-      {
          "description" : "Fifty-five-year-old GM Viswanathan Anand rolled back the years to win a brilliant game against GM Arjun Erigaisi on day two of the 2025 World Rapid &#38;amp; Blitz Team Championships. Arjun&#39;s 0.5/4 didn&#39;t stop his Team MGD1 remaining unbeaten until th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -46,16 +70,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-3",
-         "pubDate" : "Thu, 12 Jun 2025 15:45:50",
+         "pubDate" : "Thu, 12 Jun 2025 15:45:00",
          "title" : "Yip Picks Up 1st Win"
-      },
-      {
-         "description" : "From Wednesday onwards, London will be the capital of chess. Many top players will be competing in the FIDE Rapid and Blitz World Championships, where they will also face ambitious amateurs. Rapid chess will be played from Wednesday to Friday, followed by the blitz tournament on Saturday and Sunday. Live coverage will be available daily from 15:00 CET.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-rapid-and-blitz-team-championships-live",
-         "pubDate" : "Thu, 12 Jun 2025 15:01:00",
-         "title" : "FIDE World Rapid and Blitz Team Championships live"
       },
       {
          "description" : "15-year-old Alice Lee is the youngest participant in the highly competitive Cairns Cup in Saint Louis and ranked 10th in the seedings, but she nevertheless got off to a flying start with two convincing victories. In round 2, she demonstrated her tactical skills and won with black against former world champion Mariya Muzychuk. The second victory of the round went to Nana Dzagnidze, who beat Bibisara Assaubayeva. The three remaining games ended in draws. This means that Alice Lee has taken the sole lead after two rounds with 2 out of 2. | Photo: Screenshot from a promotional video for the Cairns Cup",
@@ -858,14 +874,6 @@ news_feed (
          "title" : "'Future is very bright for Indian chess': World No. 1 Magnus Carlsen"
       },
       {
-         "description" : " Magnus Carlsen leads the <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">Norway Chess</a> tournament with 8/12 after a win against Arjun Erigaisi in Round 4. Carlsen had an extra pawn in a major piece endgame but the engines stubbornly evaluated the position as more or less equal. Carlsen said he predicted Erigaisi's mistake, 30...Re6?, which quickly allowed Carlsen to obtain a winning endgame. Instead Carlsen's suggestion of 30...Qe7 or the computer's 30...h5 would have likely led to a draw. Even Carlsen's win would not have been enough to lead had Fabiano Caruana converted his long term big advantage against World Champion Gukesh. The moment was 48.Qf4? from G",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-friday-30th-may-2025",
-         "pubDate" : "Fri, 30 May 2025 18:32:00",
-         "title" : "Chess on Friday 30th May 2025 - "
-      },
-      {
          "description" : " Home hope leads after four rounds at Stavanger following his comprehensive victory in the Speed Championship Magnus Carlsen arrived in vintage form at the start of the Norway Chess tournament. The encounter began inconclusively with the six stars - in ranking order Carlsen, Hikaru Nakamura, Fabiano Caruana, Arjun Erigaisi, Gukesh Dommaraju and Wei Yi - all launching a win or two. Gukesh, who celebrated his 19th birthday on Thursday, won in round three against Nakamura. Carlsen's version of one of Bobby Fischer's favourite openings set the tone last week for another clean sweep of the No 1 of the global elite. Carlsen's comprehensive victory in the <a href=\"http://chess.com/\">chess.com</a> S",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -888,14 +896,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2025-starts-in-mamaia-romania/",
          "pubDate" : "Thu, 29 May 2025 18:47:29",
          "title" : "European School Chess Championship 2025 starts in Mamaia, Romania"
-      },
-      {
-         "description" : " <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">Norway Chess</a> is being led by Fabiano Caruana with 6 points out of 9 after three rounds, the women's event is being led by Anna Muzychuk and Humpy Koneru also with 6/9. The event employs unique scoring system of 3 points for a win, 0 points for a loss and then 1.5 points or 1 point for a draw depending on the results of an Armageddon game. As reported Caruana lost to Hikaru Nakamura in Round 1 but since then he beat Wei Yi (25.Rxh5? cost Wei Yi the game) and then he took advantage of a couple of errors from Arjun Erigaisi in Round 3 to win that game also. The match up of Round 2 was Hikaru Nakamura against Magnu",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-thursday-29th-may-2025",
-         "pubDate" : "Thu, 29 May 2025 15:37:00",
-         "title" : "Chess on Thursday 29th May 2025 - "
       },
       {
          "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2025 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2025 to be held in Batumi, Georgia on Saturday 11th October 2025. The official venue of the ECU GA will be in the hosting Hotels. The exact room will be announced later. The Assembly starts at 9.30 am. ECU will provide free of charge 3 nights for the ECU Delegates for []",
