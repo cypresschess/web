@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As many as 50 candidates representing state of Gujarat, Maharashtra and Tamil Nadu attended the two days SNA Seminar cum Examination held on 24th &#38;25th",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-sna-seminar-and-exam-held-in-kandivali-west-mumbai-on-24-25-may-2025/",
+         "pubDate" : "Fri, 13 Jun 2025 07:18:55",
+         "title" : "Final report of SNA seminar and exam held in Kandivali West ,Mumbai on 24 & 25 May 2025"
+      },
+      {
+         "description" : " The world No 1 colourfully described his Norway experience and his desk fist-bang against Gukesh Dommaraju \"Winning by half a point after a lot of results go my way doesn't feel like a statement,\" was how Magnus Carlsen summed up the Stavanger tournament, where he finished just half a point ahead of Fabiano ­Caruana. The centrepiece of the event was his second game with India's world champion, Gukesh Dommaraju, in which Carlsen banged the table in frustrated rage when his winning position slipped away. Carlsen said that \"the Armageddon games were atrocious\" but pointed out that he had scored plus two in classical and claimed that he had played the best chess. He did, with the glaring except",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/jun/13/chess-carlsen-stumbles-at-finish-but-wins-sixth-title-in-seven-years-at-stavanger",
+         "pubDate" : "Fri, 13 Jun 2025 07:00:32",
+         "title" : "Chess: Carlsen stumbles at finish but wins sixth title in seven years at Stavanger"
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-3-recap/\">2025 Cairns Cup Day 3 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -22,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-rapid-blitz-team-chess-championships-day-2",
-         "pubDate" : "Thu, 12 Jun 2025 17:10:03",
+         "pubDate" : "Thu, 12 Jun 2025 17:10:00",
          "title" : "Anand Stuns Arjun On Day 2 Of World Rapid Team Championship"
       },
       {
@@ -984,14 +1000,6 @@ news_feed (
          "link" : "https://www.europechess.org/mitropa-chess-cup-2025-concluded-in-trencin-slovakia/",
          "pubDate" : "Fri, 23 May 2025 14:56:26",
          "title" : "Mitropa Chess Cup 2025 concluded in Trencin, Slovakia"
-      },
-      {
-         "description" : " Entry is free, the prize fund is expected to be &pound;1,500, and the winner qualifies for the world solving championship This week's puzzle is a chance to enter an annual national contest in which Guardian readers traditionally perform strongly and in considerable numbers. White in the diagram, playing as usual up the board, is to play and checkmate in two moves, against any black defence. The puzzle is the first stage of the annual Winton British Solving Championship, organised by the British Chess Problem Society. This competition is open only to British residents, and entry is free. To take part, simply send White's first move to Nigel Dennis, Boundary House, 230 Greys Road, Henley-on-T",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/may/23/chess-national-solving-championship-2025-open-entries-from-britain",
-         "pubDate" : "Fri, 23 May 2025 07:00:25",
-         "title" : "National solving championship is open and 'Chess Messi' closing on record"
       }
    ]
 }
