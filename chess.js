@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From Wednesday onwards, London will be the capital of chess. Many top players will be competing in the FIDE Rapid and Blitz World Championships, where they will also face ambitious amateurs. Rapid chess will be played from Wednesday to Friday, followed by the blitz tournament on Saturday and Sunday. Live coverage will be available daily from 15:00 CET.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-rapid-and-blitz-team-championships-live",
+         "pubDate" : "Fri, 13 Jun 2025 14:45:00",
+         "title" : "FIDE World Rapid and Blitz Team Championships live"
+      },
+      {
+         "description" : "Since 2010, the \"Neighbourhood Chess Game\", a project run by the city initiative Wohnpartner Wien, has been bringing people together in a fun way. What began as a small afternoon activity has evolved into a multi-award-winning model of successful neighbourhood engagement. Friendships and new perspectives are formed over queens, bishops and pawns. Chess is a universal language: it connects people and is both calm and lively. | Photo: wohnpartner Team 20",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-a-neighbourhood-chess-game-can-create-an-unexpected-sense-of-community",
+         "pubDate" : "Fri, 13 Jun 2025 13:38:00",
+         "title" : "How a neighbourhood chess game can create an unexpected sense of community"
+      },
+      {
          "description" : "After two days of play at the World Rapid Team Championship, Team MGD1 leads with 13 points, followed closely by Hexamind and Freedom. A standout performance came from 11-year-old Faustino Oro, while teams like Germany & Friends and Uzbekistan remain in close contention as the event heads into its final stages. | Photo: Dmitry Kollars and Dinara Wagner from Germany & Friends show team spirit | Photos: Rafal Oleksiewicz/FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jun/13/chess-carlsen-stumbles-at-finish-but-wins-sixth-title-in-seven-years-at-stavanger",
          "pubDate" : "Fri, 13 Jun 2025 07:00:32",
          "title" : "Chess: Carlsen stumbles at finish but wins sixth title in seven years at Stavanger"
+      },
+      {
+         "description" : "Editor's note: This story first appeared in the June 2025 issue of Chess Life Kids magazine, and is re-published here in full. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. Click here for a printable download of this article.Online ... Or On Paper?Last year I started taking piano lessons. If you've played any musical instrument, you know that learning the names of notes - middle C, bass clef F, treble G - is not always easy. It definitely wasn't for me.So I asked my teacher whether she could recommend something ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/inside-story-how-study-tactics",
+         "pubDate" : "Fri, 13 Jun 2025 00:00:00",
+         "title" : "Inside Story: How to Study Tactics?"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-3-recap/\">2025 Cairns Cup Day 3 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -762,14 +786,6 @@ news_feed (
          "title" : "The Herbert B. Jacklyn Program is Open For 2025-26 Submissions"
       },
       {
-         "description" : "This issue's theme is unusual openings. Sometimes these are also referred to as irregular openings. If you ever play a game using Fritz, and enable the Talk* feature, it's likely it would tell you some of the moves in these openings are novelties. This means the move didn't follow traditional opening theory, and honestly, it's probably not a comment you would generally want to hear.Each game provided has an ECO code of A00, B00, C00, D00 or E00. If the opening has a name that I can find, I've provided it. The goal was to have games that were played in 2025, but there just weren't enough to choose from that met the requirements for being included in an issue. So, games are from 2021, 2024 and",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-june-2025-thats-unusual",
-         "pubDate" : "Tue, 03 Jun 2025 00:00:00",
-         "title" : "Check is in the Mail, June 2025: That's Unusual!"
-      },
-      {
          "description" : " Magnus Carlsen was left hitting the table in frustration as he lost to Gukesh from a winning position in the sixth round of the <a href=\"https://theweekinchess.com/chessnews/events/13th-Norway-chess-2025\">Norway Chess</a> tournament. Gukesh had the white pieces and the opening was a slow manoeuvring Ruy Lopez Berlin where Carlsen had equalised by move 17 and was at least a bit better by move 20. Gukesh kept playing slightly inferior moves 22.Bc6?! (Rc1) 23.Qc2?!, 24.Kh1?! (24.Ne2) and finally after 25.Qa2 (maybe 25.Kh2) he was lost and soon about to lose a piece. Maybe Carlsen's 36...Bxd5 wasn't the cleanest (36...Bxf3 or 36...Rh8 may have induced a quick resignation) but he was still clear",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -992,14 +1008,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-on-tv-from-famine-to-glut/",
          "pubDate" : "Sat, 24 May 2025 06:16:31",
          "title" : "Chess on TV: from famine to glut"
-      },
-      {
-         "description" : "The 2025 Mitropa Chess Cup concluded yesterday in Trenč&iacute;n, Slovakia. The event took place from 14-23 May with separate Open and Women's competitions and participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland.&#160; Czech Republic emerged as the sole Winner of the Open competition scoring 13 match points. A dramatical final round determined the Champions and medalists as we saw a direct encounter for gold between Czech Republic and Germany. Czech Republic won []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/mitropa-chess-cup-2025-concluded-in-trencin-slovakia/",
-         "pubDate" : "Fri, 23 May 2025 14:56:26",
-         "title" : "Mitropa Chess Cup 2025 concluded in Trencin, Slovakia"
       }
    ]
 }
