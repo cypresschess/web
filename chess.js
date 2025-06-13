@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 10-20 at the World Chess Hall of Fame. Tan Zhongyi, Humpy Koneru and Bibisara Assaubayeva are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $250,000. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2025-live",
+         "pubDate" : "Fri, 13 Jun 2025 19:00:00",
+         "title" : "Cairns Cup, Round 4 - Live!"
+      },
+      {
+         "description" : " The 5th Cairns Cup takes place in Saint Louis Tue 10th Jun to Fri 20th Jun 2025. The early pace has been set by Alice Lee who started with wins against Nino Batsiashvili and Mariya Muzychuk before drawing against Nana Dzagnidze. Top seed is Tan Zhongyi and she started with a loss against Alina Kashlinskaya before drawing against second seed Humpy Koneru and then in form Bibisara Assaubayeva. Koneru, Alina Kashlinskaya and Harika Dronavalli share second place on 2/3. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/alice-lee-leads-the-cairns-cup-after-three-rounds",
+         "pubDate" : "Fri, 13 Jun 2025 18:10:00",
+         "title" : "Alice Lee leads the Cairns Cup after three rounds - 1-3"
+      },
+      {
          "description" : "From Wednesday onwards, London will be the capital of chess. Many top players will be competing in the FIDE Rapid and Blitz World Championships, where they will also face ambitious amateurs. Rapid chess will be played from Wednesday to Friday, followed by the blitz tournament on Saturday and Sunday. Live coverage will be available daily from 15:00 CET.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +42,14 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships: MGD1 stays ahead in tight race for Rapid Team Title"
       },
       {
+         "description" : "A week after GM Jeffery Xiong scored the first 11/11 in Freestyle Friday history, this week&#39;s 960 event on Chess.com ended in a three-way tie on nine points. GM Denis Lazavik pulled ahead in the ninth round, but then allowed IMs Eytan Rozen and Ma...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lazavik-wins-freestyle-friday-june-13-2025",
+         "pubDate" : "Fri, 13 Jun 2025 11:53:42",
+         "title" : "Lazavik Outlasts Fellow Teens On Tiebreaks"
+      },
+      {
          "description" : " The 21st Delhi Open takes place Sat 7th to Sat 14th Jun 2025. Abhijeet Gupta leads on 8/9 half a point clear of Ghosh Aronyak and Samant Aditya S going into the final round.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-10th-june-2025",
          "pubDate" : "Fri, 13 Jun 2025 10:39:00",
          "title" : "Titled Tuesday Blitz 10th June 2025 - Games and Results"
+      },
+      {
+         "description" : "Insurance company Symetra Financial was crowned as the champions of the 2025 North American Corporate Chess League (NACCL) on Thursday after their master-laden team defeated trading firm Jane Street 2.5-1.5 in the Final.&#38;nbsp; Symetra&#39;s IM Irakl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/symetra-wins-2025-north-american-corporate-chess-league",
+         "pubDate" : "Fri, 13 Jun 2025 10:35:51",
+         "title" : "Beradze, Stukopin Lead Symetra To Corporate League Crown"
       },
       {
          "description" : "Carissa Yip, US Women's Champion in 2021, 2023 and 2024, had a disappointing start to the Cairns Cup, losing one game and drawing another. However, in round three, she secured her first victory against Nino Batsiashvili, albeit with a touch of luck. The other four games in the round ended in draws, leaving Alice Lee as the sole leader with 2.5/3. | Photo: Lennart Ootes/Saint Louis Chess Club",
@@ -746,22 +778,6 @@ news_feed (
          "title" : "Nakamura Beats Gukesh; Caruana, Carlsen Blunder"
       },
       {
-         "description" : "The third leg of the 2025 Freestyle Chess Grand Slam Tour will take place in Las Vegas from July 16 to 20, the German organizers revealed on Tuesday. The venue for the tour&#39;s U.S. debut this summer offers fans the opportunity to follow the star-st...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/freestyle-chess-grand-slam-to-make-u-s-debut-in-las-vegas-with-live-audience",
-         "pubDate" : "Tue, 03 Jun 2025 11:33:17",
-         "title" : "Freestyle Chess Grand Slam To Make U.S. Debut In Las Vegas With Live Audience"
-      },
-      {
-         "description" : "Get ready for tricks, swindles, and high levels of adrenaline. The Chess.com Hyperbullet Chess Championship is coming up, starting June 12! Get ready to prove you&#39;re the fastest &#34;pawnslinger&#34; on Chess.com.&#38;nbsp; The event is the sixth installmen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-hyperbullet-chess-championship-2025",
-         "pubDate" : "Tue, 03 Jun 2025 08:00:00",
-         "title" : "Join The Chess.com Hyperbullet Chess Championship Starting June 12"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121587569.cms\" />D Gukesh prevailed over Arjun Erigaisi at Norway Chess, his first classical win against him, propelling him to second place. Fabiano Caruana leads the tournament after defeating Wei Yi. Magnus Carlsen secured third place with an Armageddon win over Hikaru Nakamura. Gukesh's win over Erigaisi comes on the back of a win over Magnus Carlsen, where the World No 1 lost his afterwards.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -856,14 +872,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/18th-american-continental-2025",
          "pubDate" : "Sat, 31 May 2025 19:57:00",
          "title" : "18th American Continental 2025 - Games and Results"
-      },
-      {
-         "description" : " The 3rd Cambridge International Open took place Mon 26th to Sat 31st May 2025. Top seeds Michael Adams and Sergei Tiviakov. Michael Adams edged out Brandon Clarke on tie-break after both finished on 7/9.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/3rd-cambridge-international-open-2025",
-         "pubDate" : "Sat, 31 May 2025 15:35:00",
-         "title" : "3rd Cambridge International Open 2025 - Games and Results"
       },
       {
          "description" : "It's fascinating how many questions I ask myself that I actually already know the answers to. &#8220;If more information was the answer, we'd all be billionaires with perfect abs.&#8221; Derek Sivers Like many of my students, I often fall into the trap of searching for the \"perfect\" answer to a question. I'll spend hours []",
