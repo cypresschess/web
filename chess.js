@@ -18,6 +18,14 @@ news_feed (
          "title" : "Cairns Cup, Round 3 - Live!"
       },
       {
+         "description" : "Fifty-five-year-old GM Viswanathan Anand rolled back the years to win a brilliant game against GM Arjun Erigaisi on day two of the 2025 World Rapid &#38;amp; Blitz Team Championships. Arjun&#39;s 0.5/4 didn&#39;t stop his Team MGD1 remaining unbeaten until th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-rapid-blitz-team-chess-championships-day-2",
+         "pubDate" : "Thu, 12 Jun 2025 17:10:03",
+         "title" : "Anand Stuns Arjun On Day 2 Of World Rapid Team Championship"
+      },
+      {
          "description" : "IM Alice Lee continues to lead the Cairns Cup 2025 after making a draw with GM Nana Dzagnidze. The one decisive result was IM Carissa Yip beating GM Nino Batsiashvili from a position she could have even lost. We saw draws in the rest: GM-elect Bib...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/check-mail-june-2025-thats-unusual",
          "pubDate" : "Tue, 03 Jun 2025 00:00:00",
          "title" : "Check is in the Mail, June 2025: That's Unusual!"
-      },
-      {
-         "description" : "With wins in their round seven classical games of Norway Chess 2025, GM Fabiano Caruana has taken pole position while World Champion Gukesh Dommaraju follows a point behind. Caruana defeated GM Wei Yi on the latter&#39;s 26th birthday, squeezing water...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-norway-chess-round-7",
-         "pubDate" : "Mon, 02 Jun 2025 12:49:00",
-         "title" : "Caruana Leads, Gukesh Wins Another Turnaround"
       },
       {
          "description" : " Magnus Carlsen was left hitting the table in frustration as he lost to Gukesh from a winning position in the sixth round of the <a href=\"https://theweekinchess.com/chessnews/events/13th-Norway-chess-2025\">Norway Chess</a> tournament. Gukesh had the white pieces and the opening was a slow manoeuvring Ruy Lopez Berlin where Carlsen had equalised by move 17 and was at least a bit better by move 20. Gukesh kept playing slightly inferior moves 22.Bc6?! (Rc1) 23.Qc2?!, 24.Kh1?! (24.Ne2) and finally after 25.Qa2 (maybe 25.Kh2) he was lost and soon about to lose a piece. Maybe Carlsen's 36...Bxd5 wasn't the cleanest (36...Bxf3 or 36...Rh8 may have induced a quick resignation) but he was still clear",
