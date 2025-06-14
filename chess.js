@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-5-recap/\">2025 Cairns Cup - Day 5 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-5-recap/",
+         "pubDate" : "Sat, 14 Jun 2025 22:58:22",
+         "title" : "2025 Cairns Cup - Day 5 Recap"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 10-20 at the World Chess Hall of Fame. Tan Zhongyi, Humpy Koneru and Bibisara Assaubayeva are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $250,000. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/history-made-arjun-erigaisi-srinath-narayanans-team-mgd1-becomes-first-indian-team-to-win-fide-world-rapid-team-championship/articleshow/121851504.cms",
          "pubDate" : "Sat, 14 Jun 2025 16:02:07",
          "title" : "Eigaisi, Srinath's Team MGD1 becomes first Indian team to win FIDE World Rapid Team Championship"
+      },
+      {
+         "description" : "Going into the rest day, three players continue to lead the Cairns Cup 2025: GM Koneru Humpy, Harika Dronavalli, and IM Alice Lee.&#38;nbsp;IM Carissa Yip won the only decisive game of round five against GM Nana Dzagnidze, after a five-hour struggle. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-5",
+         "pubDate" : "Sat, 14 Jun 2025 15:33:24",
+         "title" : "Yip Grinds Out 2nd Win; 3 Leaders Remain"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121850948.cms\" />Abhijeet Gupta secured his fourth title at the 21st Delhi International Open Grandmasters Chess Tournament 2025, remaining undefeated across ten rounds. Nikitenko of Belarus finished second, followed by India's Diptayan Ghosh. The tournament, organised by the Delhi Chess Association, hosted over 2,500 players from 20 countries and featured a record prize pool.",
@@ -792,14 +808,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/june-2025-fide-ratings",
          "pubDate" : "Wed, 04 Jun 2025 13:50:00",
          "title" : "June 2025 FIDE Ratings: Giri Climbs, Shogdzhiev, Oro, Erdogmus Reach New Highs"
-      },
-      {
-         "description" : "GMs Levon Aronian and Alireza Firouzja are your winners for the first Titled Tuesdays in June 2025. Aronian doesn&#39;t play Titled Tuesday very often, so it is always a treat when he does; this was his first win in the event since December 2023. Firo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aronian-firouzja-win-titled-tuesday-june-3-2025",
-         "pubDate" : "Wed, 04 Jun 2025 13:35:08",
-         "title" : "Aronian Rejoins Titled Tuesday Winners Ahead Of Firouzja Comeback"
       },
       {
          "description" : " The Polish Ekstraliga takes place 2nd to 10th June 2025. Leading players: Pentala Harikrishna, Frederik Svane, Matthias Bluebaum, David Navara, Daniel Dardha, Nils Grandelius, Rasmus Svane, Andrei Volokitin, Maxime Lagarde, Ferenc Berkes, Marc Andria Maurizzi etc",
