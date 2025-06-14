@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Team MGD1 secured first place at the 2025 FIDE World Rapid Teams Championship in London, winning all matches on the final day. Hexamind finished second, while Freedom, Uzbekistan, and WR Chess shared third. | Photos: Rafal Oleksiewicz/FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mgd1-wins-2025-fide-world-rapid-teams-championship-in-london",
+         "pubDate" : "Sat, 14 Jun 2025 08:26:15",
+         "title" : "MGD1 Wins 2025 FIDE World Rapid Teams Championship in London"
+      },
+      {
          "description" : "The Kasparov Chess Foundation Academy is proud to host a live lecture with Nikolaos Ntirlis, bringing one of the most respected minds in chess preparation and training to our virtual stage. Ntirlis is a Greece chess player, author, and trainer, born in 1984, who has established himself as a leading expert in chess openings and engine analysis. Join us on June 15 at 18:00h CET.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,12 @@ news_feed (
          "title" : "2025 Cairns Cup - Day 4 Recap"
       },
       {
-         "description" : "The Cairns Cup is taking place on June 10-20 at the World Chess Hall of Fame. Tan Zhongyi, Humpy Koneru and Bibisara Assaubayeva are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $250,000. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2025-live",
-         "pubDate" : "Fri, 13 Jun 2025 19:00:00",
-         "title" : "Cairns Cup, Round 4 - Live!"
+         "description" : "Almost a decade on from his viral victories against Leela Chess in ultrabullet, GM Andrew Tang has proven he is the quickest player on Chess.com for the second year in a row following a successful title defense in the 2025 Chess.com Hyperbullet Ch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andrew-tang-wins-2025-hyperbullet-community-championship",
+         "pubDate" : "Fri, 13 Jun 2025 21:56:51",
+         "title" : "Tang Defeats Naroditsky, Retains Hyperbullet Title"
       },
       {
          "description" : "GMs Koneru Humpy and Harika Dronavalli won in round four to catch IM Alice Lee in the lead of the Cairns Cup 2025. They defeated GM-elect Bibisara Assaubayeva and GM Nana Dzagnidze, respectively. GM Mariya Muzychuk also picked up her first win of ...",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-world-rapid-blitz-team-chess-championships-day-3",
          "pubDate" : "Fri, 13 Jun 2025 16:13:00",
          "title" : "Arjun, Pranav & \"New Pang Bo\" Power MGD1 To World Rapid Teams Title"
-      },
-      {
-         "description" : "From Wednesday onwards, London will be the capital of chess. Many top players will be competing in the FIDE Rapid and Blitz World Championships, where they will also face ambitious amateurs. Rapid chess will be played from Wednesday to Friday, followed by the blitz tournament on Saturday and Sunday. Live coverage will be available daily from 15:00 CET.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-rapid-and-blitz-team-championships-live",
-         "pubDate" : "Fri, 13 Jun 2025 14:45:00",
-         "title" : "FIDE World Rapid and Blitz Team Championships live"
       },
       {
          "description" : "Since 2010, the \"Neighbourhood Chess Game\", a project run by the city initiative Wohnpartner Wien, has been bringing people together in a fun way. What began as a small afternoon activity has evolved into a multi-award-winning model of successful neighbourhood engagement. Friendships and new perspectives are formed over queens, bishops and pawns. Chess is a universal language: it connects people and is both calm and lively. | Photo: wohnpartner Team 20",
@@ -762,14 +762,6 @@ news_feed (
          "title" : "Dubai Open 2025 - Games and Results"
       },
       {
-         "description" : "ChessUp 2, the smart chessboard that lets you play Chess.com games on a real board, is back with an exclusive limited-time offer for Chess.com members! You can now use the coupon code CCT10 for a 10% discount.&#38;nbsp; With ChessUp 2, you can exper...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chessup-2-coupon-2025",
-         "pubDate" : "Wed, 04 Jun 2025 12:16:00",
-         "title" : "Claim Your 10% Discount On ChessUp 2 And Join Thousands Of Members Enjoying Chess.com On A Physical Board"
-      },
-      {
          "description" : "Many congratulations to Roger Lancaster, who recently received the ECF's President's Award for Services to Chess. Roger is a highly respected junior coach and organiser at Watford Chess Club, and...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1024,14 +1016,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/stop-forcing-wins-in-chess/",
          "pubDate" : "Sat, 24 May 2025 13:00:00",
          "title" : "Stop Forcing It: Let Your Opponent Create the Chances"
-      },
-      {
-         "description" : "After years with no chess on mainstream TV channels, we now have a plethora. BBC Two's recently broadcast series Chess Masters: The Endgame divided opinions. \"Talia\", a transgender (former male) winner, was eventually crowned as the Victrix Ludorum and The Endgame reached its grand finale amid a continuing debate between experts, but not because of the transgender element in sport, recently []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chess-on-tv-from-famine-to-glut/",
-         "pubDate" : "Sat, 24 May 2025 06:16:31",
-         "title" : "Chess on TV: from famine to glut"
       }
    ]
 }
