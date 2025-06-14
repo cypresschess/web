@@ -1,4 +1,6 @@
 jtable([
+"SPRING","2025-06-13","22","<a href=http://www.uschess.org/msa/XtblMain.php?202506135362 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2025-06-13","23","<a href=http://www.uschess.org/msa/XtblMain.php?202506135322 target='_blank'>FBCC 2025 WORLD SOFTBALL DAY OPEN.P</a>",
 "HOUSTON","2025-06-08","8","<a href=http://www.uschess.org/msa/XtblMain.php?202506083132 target='_blank'>BELLAIRE SUNDAY SWISS</a>",
 "HOUSTON","2025-06-06  - 06-07","8","<a href=http://www.uschess.org/msa/XtblMain.php?202506073502 target='_blank'>JUNE FRIDAY NIGHT & SATURDAY MORNIN</a>",
 "HOUSTON","2025-06-07","9","<a href=http://www.uschess.org/msa/XtblMain.php?202506072442 target='_blank'>CHESSPANDA06072025SATURDAY</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2024-11-09","10","<a href=http://www.uschess.org/msa/XtblMain.php?202411094172 target='_blank'>CHESSPANDA11092024SATURDAY</a>",
 "CYPRESS","2024-11-08","22","<a href=http://www.uschess.org/msa/XtblMain.php?202411083532 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2024-11-08","33","<a href=http://www.uschess.org/msa/XtblMain.php?202411083422 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2024-11-08","6","<a href=http://www.uschess.org/msa/XtblMain.php?202411083262 target='_blank'>FBCC 2024 NATIONAL STEM DAY OPEN</a>",
-"HOUSTON","2024-11-01  - 11-03","23","<a href=http://www.uschess.org/msa/XtblMain.php?202411031932 target='_blank'>$2,000 NOVEMBER 2024 CHAMPIONSHIP</a>",
 ]);
