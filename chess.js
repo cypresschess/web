@@ -26,6 +26,14 @@ news_feed (
          "title" : "Cairns Cup, Round 4 - Live!"
       },
       {
+         "description" : "GMs Koneru Humpy and Harika Dronavalli won in round four to catch IM Alice Lee in the lead of the Cairns Cup 2025. They defeated GM-elect Bibisara Assaubayeva and GM Nana Dzagnidze, respectively. GM Mariya Muzychuk also picked up her first win of ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-4",
+         "pubDate" : "Fri, 13 Jun 2025 18:20:27",
+         "title" : "Humpy, Harika Catch Lee In Shared Lead"
+      },
+      {
          "description" : " The 5th Cairns Cup takes place in Saint Louis Tue 10th Jun to Fri 20th Jun 2025. The early pace has been set by Alice Lee who started with wins against Nino Batsiashvili and Mariya Muzychuk before drawing against Nana Dzagnidze. Top seed is Tan Zhongyi and she started with a loss against Alina Kashlinskaya before drawing against second seed Humpy Koneru and then in form Bibisara Assaubayeva. Koneru, Alina Kashlinskaya and Harika Dronavalli share second place on 2/3. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -784,14 +792,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-chicago-open-highlights",
          "pubDate" : "Wed, 04 Jun 2025 00:00:00",
          "title" : "Wednesday Workout: Chicago Open Highlights"
-      },
-      {
-         "description" : "A team of GM Benjamin Bok and Ronnyberger convincingly won 5-0 in the final of the Grand Chess Gala at TwitchCon EU in Rotterdam on Sunday, hosted by none other than WFM Anna Cramling.. Chess was prominently featured at the biggest event in the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bok-berger-win-anna-cramling-hosted-grand-chess-gala-at-twitchcon-eu",
-         "pubDate" : "Tue, 03 Jun 2025 13:31:43",
-         "title" : "Bok & Berger Win Anna Cramling Hosted Grand Chess Gala At TwitchCon EU"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121587569.cms\" />D Gukesh prevailed over Arjun Erigaisi at Norway Chess, his first classical win against him, propelling him to second place. Fabiano Caruana leads the tournament after defeating Wei Yi. Magnus Carlsen secured third place with an Armageddon win over Hikaru Nakamura. Gukesh's win over Erigaisi comes on the back of a win over Magnus Carlsen, where the World No 1 lost his afterwards.",
