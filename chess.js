@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase has, of course, released many new video courses and other products this spring. A special mention should go to the new Fritz! Fritz 20 now lets you play against a whole series of animated former world champions. Browse the monthly overview to find your favourites, whether it's Fritz 20, ChessBase Magazine 225 Extra, or our new Spanish and Ragozin guides. Take a look at all last month's products!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-may",
+         "pubDate" : "Sat, 14 Jun 2025 12:00:00",
+         "title" : "Review: All new releases in May!"
+      },
+      {
+         "description" : "In this episode, Svitlana gives an in-depth introduction to the Evans Gambit, a sharp and aggressive opening in the Italian Game that sacrifices a pawn to gain rapid development and attacking chances. She explains the main ideas for both sides, key traps, and various defensive setups for Black, emphasizing how crucial preparation and understanding of typical tactical patterns are. The lesson concludes with historical context, including a look at the famous \"Evergreen Game\" by Anderssen, and encourages viewers to explore this opening for its practical surprise value and rich attacking potential.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-tricky-evans-gambit",
+         "pubDate" : "Sat, 14 Jun 2025 11:00:00",
+         "title" : "Svitlana's Smart Moves - The tricky Evans Gambit"
+      },
+      {
          "description" : "Team MGD1 secured first place at the 2025 FIDE World Rapid Teams Championship in London, winning all matches on the final day. Hexamind finished second, while Freedom, Uzbekistan, and WR Chess shared third. | Photos: Rafal Oleksiewicz/FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/andrew-tang-wins-2025-hyperbullet-community-championship",
-         "pubDate" : "Fri, 13 Jun 2025 21:56:51",
+         "pubDate" : "Fri, 13 Jun 2025 21:56:00",
          "title" : "Tang Defeats Naroditsky, Retains Hyperbullet Title"
       },
       {
@@ -38,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-4",
-         "pubDate" : "Fri, 13 Jun 2025 18:20:27",
+         "pubDate" : "Fri, 13 Jun 2025 18:20:00",
          "title" : "Humpy, Harika Catch Lee In Shared Lead"
       },
       {
@@ -90,7 +106,7 @@ news_feed (
          "title" : "21st Delhi Open 2025 - Games and Results"
       },
       {
-         "description" : " The Titled Tuesday Blitz 10th June events were won by Hans Moke Niemann and Magnus Carlsen. In the Early Niemann beat Carlsen and Nakamura in successive rounds (although neither game is a classic) to set up his win. Niemann finished on 10.5/11 with a final round draw against Klementy Sychev, Magnus Carlsen was clear second on 10 points. In the Late event Carlsen won with 10/11, his only loss coming to Hikaru Nakamura, however his win against Niemann in round 10 came from a game where he was completely busted for much of the game. Both game files are available for download but there seems little point to displaying the games from files of this size and this may create significant problems fo",
+         "description" : " The Titled Tuesday Blitz 10th June events were won by Hans Moke Niemann and Magnus Carlsen. In the Early Niemann beat Carlsen and Nakamura in successive rounds (although neither game is a classic) to set up his win. Niemann finished on 10.5/11 with a final round draw against Klementy Sychev, Magnus Carlsen was clear second on 10 points. In the Late event Carlsen won with 10/11, his only loss coming to Hikaru Nakamura, however his win against Niemann in round 10 came from a game where he was completely busted for much of the time. Both game files are available for download but there seems little point to displaying the games from files of this size and this may create significant problems fo",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-10th-june-2025",
