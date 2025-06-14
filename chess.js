@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 10-20 at the World Chess Hall of Fame. Tan Zhongyi, Humpy Koneru and Bibisara Assaubayeva are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $250,000. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2025-live",
+         "pubDate" : "Sat, 14 Jun 2025 19:00:00",
+         "title" : "Cairns Cup, Round 5 - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121851504.cms\" />Team MGD1, seeded sixth, made history by becoming the first Indian team to win the FIDE World Rapid Team Championships in London. They secured victory with 10 wins out of 12 rounds, edging out Team Hexamind in a tightly contested battle. Arjun Erigaisi's stellar performance on the final day and Atharvaa Tayade's exceptional contribution were crucial to their success.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/history-made-arjun-erigaisi-srinath-narayanans-team-mgd1-becomes-first-indian-team-to-win-fide-world-rapid-team-championship/articleshow/121851504.cms",
+         "pubDate" : "Sat, 14 Jun 2025 16:02:07",
+         "title" : "Eigaisi, Srinath's Team MGD1 becomes first Indian team to win FIDE World Rapid Team Championship"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121850948.cms\" />Abhijeet Gupta secured his fourth title at the 21st Delhi International Open Grandmasters Chess Tournament 2025, remaining undefeated across ten rounds. Nikitenko of Belarus finished second, followed by India's Diptayan Ghosh. The tournament, organised by the Delhi Chess Association, hosted over 2,500 players from 20 countries and featured a record prize pool.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -103,7 +119,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-rapid-blitz-team-chess-championships-day-3",
          "pubDate" : "Fri, 13 Jun 2025 16:13:00",
-         "title" : "Arjun, Pranav & \"New Pang Bo\" Power MGD1 To World Rapid Teams Title"
+         "title" : "Arjun, Pranav, & 'New Pang Bo' Power MGD1 To World Rapid Teams Title"
       },
       {
          "description" : "Since 2010, the \"Neighbourhood Chess Game\", a project run by the city initiative Wohnpartner Wien, has been bringing people together in a fun way. What began as a small afternoon activity has evolved into a multi-award-winning model of successful neighbourhood engagement. Friendships and new perspectives are formed over queens, bishops and pawns. Chess is a universal language: it connects people and is both calm and lively. | Photo: wohnpartner Team 20",
@@ -1016,14 +1032,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/when-you-come-for-the-king-magnus-carlsen-quotes-the-wire-after-beating-d-gukesh-at-norway-chess/articleshow/121429161.cms",
          "pubDate" : "Tue, 27 May 2025 05:48:55",
          "title" : "'When you come for the king...': Carlsen quotes The Wire after beating Gukesh"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121427828.cms\" />Magnus Carlsen defeated D Gukesh in the Norway Chess tournament, showcasing his endgame skills. Hikaru Nakamura also secured a win against Fabiano Caruana. Arjun Erigaisi triumphed over Wei Yi in an Armageddon game after a draw. In the women's category, Koneru Humpy defeated R. Vaishali in an all-Indian match.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-magnus-carlsen-defeats-d-gukesh-in-opening-round/articleshow/121427828.cms",
-         "pubDate" : "Tue, 27 May 2025 04:40:27",
-         "title" : "Norway Chess: Magnus Carlsen defeats D Gukesh in opening round"
       },
       {
          "description" : " Bilel Bellahcene won the 2025 African Individual Chess Championship, edging out seven-time champion Bassem Amin. Egypt had won the last nine titles and, going back to 1998, had won 17/20 championships. The Algerian grandmaster took to social media with a heartfelt message. After years of hard work, sacrifice and passion, I am proud to have The post <a href=\"https://thechessdrum.net/blog/2025/05/26/bellahcene-wafa-are-2025-african-champions/\">Bellahcene, Wafa are 2025 African Champions!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
