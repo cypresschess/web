@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121850948.cms\" />Abhijeet Gupta secured his fourth title at the 21st Delhi International Open Grandmasters Chess Tournament 2025, remaining undefeated across ten rounds. Nikitenko of Belarus finished second, followed by India's Diptayan Ghosh. The tournament, organised by the Delhi Chess Association, hosted over 2,500 players from 20 countries and featured a record prize pool.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/historic-feat-gm-abhijeet-gupta-clinches-fourth-title-at-21st-delhi-international-open-chess-tournament-2025/articleshow/121850948.cms",
+         "pubDate" : "Sat, 14 Jun 2025 14:56:07",
+         "title" : "Historic! GM Abhijeet Gupta clinches fourth title at 21st Delhi International Open Chess Tournament 2025"
+      },
+      {
+         "description" : "From Wednesday onwards, London will be the capital of chess. Many top players will be competing in the FIDE Rapid and Blitz World Championships, where they will also face ambitious amateurs. Rapid chess will be played from Wednesday to Friday, followed by the blitz tournament on Saturday and Sunday. Live coverage will be available daily from 15:00 CET.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-rapid-and-blitz-team-championships-live",
+         "pubDate" : "Sat, 14 Jun 2025 14:45:00",
+         "title" : "FIDE World Rapid and Blitz Team Championships live"
+      },
+      {
+         "description" : " The 21st Delhi Open took place Sat 7th to Sat 14th Jun 2025. Abhijeet Gupta won with on 8.5/10 half a point clear of Mihail Nikitenko and Ghosh Aronyak.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/21st-delhi-open-2025",
+         "pubDate" : "Sat, 14 Jun 2025 13:40:00",
+         "title" : "21st Delhi Open 2025 - Games and Results"
+      },
+      {
+         "description" : "What should we think about when we play a game? This is a question all chess players try to figure out. Some coaches have shared their thoughts on it. GM Iossif Dorman's The Method in Chess (sadly out of print, thus kinda expensive) remains one of my favorite books ever written on chess. The problem? []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/simplified-chess-thought-process-tips/",
+         "pubDate" : "Sat, 14 Jun 2025 13:00:00",
+         "title" : "Simplified Thought Process"
+      },
+      {
          "description" : "ChessBase has, of course, released many new video courses and other products this spring. A special mention should go to the new Fritz! Fritz 20 now lets you play against a whole series of animated former world champions. Browse the monthly overview to find your favourites, whether it's Fritz 20, ChessBase Magazine 225 Extra, or our new Spanish and Ragozin guides. Take a look at all last month's products!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -96,14 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/lazavik-wins-freestyle-friday-june-13-2025",
          "pubDate" : "Fri, 13 Jun 2025 11:53:42",
          "title" : "Lazavik Outlasts Fellow Teens On Tiebreaks"
-      },
-      {
-         "description" : " The 21st Delhi Open takes place Sat 7th to Sat 14th Jun 2025. Abhijeet Gupta leads on 8/9 half a point clear of Ghosh Aronyak and Samant Aditya S going into the final round.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/21st-delhi-open-2025",
-         "pubDate" : "Fri, 13 Jun 2025 11:27:00",
-         "title" : "21st Delhi Open 2025 - Games and Results"
       },
       {
          "description" : " The Titled Tuesday Blitz 10th June events were won by Hans Moke Niemann and Magnus Carlsen. In the Early Niemann beat Carlsen and Nakamura in successive rounds (although neither game is a classic) to set up his win. Niemann finished on 10.5/11 with a final round draw against Klementy Sychev, Magnus Carlsen was clear second on 10 points. In the Late event Carlsen won with 10/11, his only loss coming to Hikaru Nakamura, however his win against Niemann in round 10 came from a game where he was completely busted for much of the time. Both game files are available for download but there seems little point to displaying the games from files of this size and this may create significant problems fo",
@@ -1016,22 +1040,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/05/26/african-chess-celebrates-africa-day/",
          "pubDate" : "Mon, 26 May 2025 17:12:59",
          "title" : "African Chess celebrates \"Africa Day\""
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121406608.cms\" />D Gukesh vs Magnus Carlsen Live Streaming: D Gukesh is set to face Magnus Carlsen at the 2025 Norway Chess tournament in Stavanger, marking their first encounter since Carlsen relinquished his world title in 2023. Gukesh aims to rebound from a recent slump, while Carlsen remains uncertain about his performance.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-vs-magnus-carlsen-live-streaming-norway-chess-2025-when-where-to-watch-round-1-clash/articleshow/121406608.cms",
-         "pubDate" : "Mon, 26 May 2025 06:41:36",
-         "title" : "D Gukesh vs Magnus Carlsen Live Streaming, Norway Chess 2025"
-      },
-      {
-         "description" : "If you've ever watched top-level chess commentary, you've probably heard something like: \"With Black, you need to take risks to win.\" \"You can't beat the Berlin without a novelty.\" \"You have to create chances.\" At the very top-yes. That's often true. But if you're not competing at 2750+ level, applying this advice backfires. And I []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/stop-forcing-wins-in-chess/",
-         "pubDate" : "Sat, 24 May 2025 13:00:00",
-         "title" : "Stop Forcing It: Let Your Opponent Create the Chances"
       }
    ]
 }
