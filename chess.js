@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The FIDE World Rapid and Blitz Team Championships took place in London Tue 10th to Mon 16th Jun 2025. Players included Firouzja, Aronian, MVL, Nakamura, Abdusattorov, Anand, 420 players of varying strengths playing for teams. Each team of 6 in each match required one recreational player and one woman player. 6th seeds Team MGD1 (Erigaisi, Harikrishna, Anton Guijarro, Pranav, Mendonca, Tsolakidou and Atharvaa P Tayade) won the rapid ahead of Hexamind (Aronian, Giri, Murzin, Domginguez, Vidit, Divya, Panarin and Muradyan) and Freedom (Anand, Mamedov, Sevian, Le, Sarana, Martirosyan, Muzychuk, Injac and Mani) with top seeds WR Chess (Firouzja, MVL, Nakamura, Duda, So, Hou Yifan, Kosteniuk and ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-rapid-and-blitz-team-championships-2025",
+         "pubDate" : "Sun, 15 Jun 2025 21:28:00",
+         "title" : "FIDE World Rapid and Blitz Team Championships 2025 - Games and Results"
+      },
+      {
          "description" : "From Wednesday onwards, London will be the capital of chess. Many top players will be competing in the FIDE Rapid and Blitz World Championships, where they will also face ambitious amateurs. Rapid chess will be played from Wednesday to Friday, followed by the blitz tournament on Saturday and Sunday. Live coverage will be available daily from 15:00 CET.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -352,14 +360,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-2",
          "pubDate" : "Wed, 11 Jun 2025 21:59:00",
          "title" : "Alice Lee Takes Sole Lead On Perfect 2/2"
-      },
-      {
-         "description" : " The FIDE World Rapid and Blitz Team Championships take place in London Tue 10th to Mon 16th Jun 2025. Players include Firouzja, Aronian, MVL, Nakamura, Abdusattorov, Anand, 420 players of varying strengths playing for teams. Each team of 6 in each match requires one recreational player and one woman player. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-rapid-and-blitz-team-championships-2025",
-         "pubDate" : "Wed, 11 Jun 2025 19:20:00",
-         "title" : "FIDE World Rapid and Blitz Team Championships 2025 - Games and Results"
       },
       {
          "description" : "",
