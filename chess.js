@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121861725.cms\" />Grandmaster SL Narayanan, the top-rated player at the Delhi International Open GM Chess Tournament, experienced a disappointing finish after a strong start. Despite aiming for victory, a series of draws against lower-rated opponents led to a seventh-place result. Narayanan reflects on the mental challenges and the importance of maintaining a strong mindset for future success in his chess career. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-why-is-chess-so-cruel-ask-grandmaster-sl-narayanan/articleshow/121861725.cms",
+         "pubDate" : "Sun, 15 Jun 2025 10:26:44",
+         "title" : "Exclusive: Why is chess so cruel? Ask Grandmaster SL Narayanan"
+      },
+      {
+         "description" : "Do you remember the pioneering chess film \"Searching for Bobby Fischer\"? It told the story of a seven-year-old US chess prodigy - with stars like Joe Montegna, Ben Kingsley and Laurence Fisburn playing his father and trainers. Josh Waitzken retired from active chess at 23, moved to Costa Rica and became an expert in the art of learning. Recently, he became a consultant of the Boston Celtics basketball team.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/searching-for-josh-waitzkin",
+         "pubDate" : "Sun, 15 Jun 2025 10:00:00",
+         "title" : "Searching for Josh Waitzkin"
+      },
+      {
          "description" : "What the mouse can do! Following on from the aesthetic aspects covered in the last ChessBase 18 tutorial for beginners, this time we show you how you can use the mouse in different ways. The scroll wheel and mouse buttons can be used in a variety of ways. Here, too, it is a matter of personal preference which settings you choose.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1040,14 +1056,6 @@ news_feed (
          "link" : "https://www.europechess.org/new-calendar-of-the-european-chess-union/",
          "pubDate" : "Tue, 27 May 2025 08:04:48",
          "title" : "New ECU Calendar"
-      },
-      {
-         "description" : "Magnus Carlsen defeated D Gukesh in the Norway Chess tournament, showcasing his mastery in the classical format. Carlsen's win against the reigning world champion highlights his enduring skill, while Arjun Erigaisi's triumph underscores India's strong presence in the competition.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/when-you-come-for-the-king-magnus-carlsen-quotes-the-wire-after-beating-d-gukesh-at-norway-chess/articleshow/121429161.cms",
-         "pubDate" : "Tue, 27 May 2025 05:48:55",
-         "title" : "'When you come for the king...': Carlsen quotes The Wire after beating Gukesh"
       },
       {
          "description" : " Bilel Bellahcene won the 2025 African Individual Chess Championship, edging out seven-time champion Bassem Amin. Egypt had won the last nine titles and, going back to 1998, had won 17/20 championships. The Algerian grandmaster took to social media with a heartfelt message. After years of hard work, sacrifice and passion, I am proud to have The post <a href=\"https://thechessdrum.net/blog/2025/05/26/bellahcene-wafa-are-2025-african-champions/\">Bellahcene, Wafa are 2025 African Champions!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
