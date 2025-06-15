@@ -10,12 +10,28 @@ news_feed (
          "title" : "2025 Cairns Cup - Day 5 Recap"
       },
       {
+         "description" : "GM Hikaru Nakamura scored 6/7 as top-seed WR Chess won all 12 of their matches on day one of the 2025 World Blitz Team Championship, but the most memorable game was the world number-two&#39;s one loss, to 13-year-old IM Khagan Ahmad from Azerbaijan. T...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-rapid-blitz-team-chess-championships-day-4",
+         "pubDate" : "Sat, 14 Jun 2025 19:00:00",
+         "title" : "13-Year-Old Beats Nakamura But Favorites Thrive As Blitz Begins"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 10-20 at the World Chess Hall of Fame. Tan Zhongyi, Humpy Koneru and Bibisara Assaubayeva are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $250,000. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/cairns-cup-2025-live",
          "pubDate" : "Sat, 14 Jun 2025 19:00:00",
          "title" : "Cairns Cup, Round 5 - Live!"
+      },
+      {
+         "description" : "GM Andrew Tang put his shoulder back to the wheel fewer than 24 hours after winning the 2025 Chess.com Hyperbullet Championship&#38;nbsp;and won his seventh Bullet Brawl&#38;nbsp;of the year after a 34-game streak. Tang scored 62.5/75 and amassed 220 poin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-june-14-2025",
+         "pubDate" : "Sat, 14 Jun 2025 17:54:00",
+         "title" : "Tang Back In Limelight Following 34-Game Bloodbath"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121851504.cms\" />Team MGD1, seeded sixth, made history by becoming the first Indian team to win the FIDE World Rapid Team Championships in London. They secured victory with 10 wins out of 12 rounds, edging out Team Hexamind in a tightly contested battle. Arjun Erigaisi's stellar performance on the final day and Atharvaa Tayade's exceptional contribution were crucial to their success.",
@@ -26,11 +42,11 @@ news_feed (
          "title" : "Eigaisi, Srinath's Team MGD1 becomes first Indian team to win FIDE World Rapid Team Championship"
       },
       {
-         "description" : "Going into the rest day, three players continue to lead the Cairns Cup 2025: GM Koneru Humpy, Harika Dronavalli, and IM Alice Lee.&#38;nbsp;IM Carissa Yip won the only decisive game of round five against GM Nana Dzagnidze, after a five-hour struggle. ...",
+         "description" : "Going into the rest day, three players continue to lead the Cairns Cup 2025: GM Koneru Humpy, GM Harika Dronavalli, and IM Alice Lee.&#38;nbsp;IM Carissa Yip won the only decisive game of round five against GM Nana Dzagnidze, after a five-hour struggl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-5",
-         "pubDate" : "Sat, 14 Jun 2025 15:33:24",
+         "pubDate" : "Sat, 14 Jun 2025 15:33:00",
          "title" : "Yip Grinds Out 2nd Win; 3 Leaders Remain"
       },
       {
@@ -754,14 +770,6 @@ news_feed (
          "title" : "Carlsen, Gukesh Strike To Set Up Perfect Norway Chess Last Round"
       },
       {
-         "description" : "We&#39;re excited to announce the next edition of BlitzChamps, the viral online tournament where NFL stars go head-to-head in blitz chess. BlitzChamps IV returns on June 16, starting at 4 p.m. ET / 22:00 CEST. This year&#38;rsquo;s showdown features a $10...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-blitzchamps-iv",
-         "pubDate" : "Thu, 05 Jun 2025 08:00:00",
-         "title" : "NFL Stars Play Chess: Battle in $100K BlitzChamps IV Tournament"
-      },
-      {
          "description" : " The Titled Tuesday Blitz 3rd June saw Levon Aronian win the early event ahead of Sergei Zhigalko and Denis Lazavik. Aronian beat Alireza Firouzja in Round 6 Lazavik in round 7, drew with Nepomniachtchi in Round 8, Wesley So in Round 9 beat Nguyen Ngoc Truong Son in Round 10 and drew with Zhigalko in the final round. Firouzja won the late alone on 9.5/11 half a point clear of a big group of 6 on 9 points. Firouzja beat Sanan Sjugirov, Daniel Naroditsky and Hans Moke Niemann in the final rounds. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -800,14 +808,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/two-english-teams-qualify-for-the-2025-world-chess-league-play-offs/",
          "pubDate" : "Wed, 04 Jun 2025 13:59:38",
          "title" : "Two English teams qualify for the 2025 World Chess League play-offs!"
-      },
-      {
-         "description" : "The June 2025 FIDE rating list saw World Champion GM Gukesh Dommaraju drop 11 points and two spots after the SuperBet Chess Classic, while the winner of the event, GM Praggnanandhaa Rameshbabu, saw a nine-point gain to jump one spot to seventh. GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/june-2025-fide-ratings",
-         "pubDate" : "Wed, 04 Jun 2025 13:50:00",
-         "title" : "June 2025 FIDE Ratings: Giri Climbs, Shogdzhiev, Oro, Erdogmus Reach New Highs"
       },
       {
          "description" : " The Polish Ekstraliga takes place 2nd to 10th June 2025. Leading players: Pentala Harikrishna, Frederik Svane, Matthias Bluebaum, David Navara, Daniel Dardha, Nils Grandelius, Rasmus Svane, Andrei Volokitin, Maxime Lagarde, Ferenc Berkes, Marc Andria Maurizzi etc",
