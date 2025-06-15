@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What the mouse can do! Following on from the aesthetic aspects covered in the last ChessBase 18 tutorial for beginners, this time we show you how you can use the mouse in different ways. The scroll wheel and mouse buttons can be used in a variety of ways. Here, too, it is a matter of personal preference which settings you choose.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-18-what-the-mouse-can-do",
+         "pubDate" : "Sun, 15 Jun 2025 08:00:00",
+         "title" : "ChessBase 18 - Tips for beginners, part 18: What the mouse can do!"
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-5-recap/\">2025 Cairns Cup - Day 5 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
