@@ -1,4 +1,7 @@
 jtable([
+"HOUSTON","2025-06-14","9","<a href=http://www.uschess.org/msa/XtblMain.php?202506145822 target='_blank'>CHESSPANDA06142025SATURDAY</a>",
+"HOUSTON","2025-06-14","28","<a href=http://www.uschess.org/msa/XtblMain.php?202506145782 target='_blank'>JUNE 14TH - TROPHY SCHOLASTIC</a>",
+"CYPRESS","2025-06-13","25","<a href=http://www.uschess.org/msa/XtblMain.php?202506135392 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2025-06-13","22","<a href=http://www.uschess.org/msa/XtblMain.php?202506135362 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2025-06-13","23","<a href=http://www.uschess.org/msa/XtblMain.php?202506135322 target='_blank'>FBCC 2025 WORLD SOFTBALL DAY OPEN.P</a>",
 "HOUSTON","2025-06-08","8","<a href=http://www.uschess.org/msa/XtblMain.php?202506083132 target='_blank'>BELLAIRE SUNDAY SWISS</a>",
@@ -196,7 +199,4 @@ jtable([
 "HOUSTON","2024-11-09","39","<a href=http://www.uschess.org/msa/XtblMain.php?202411095582 target='_blank'>SATURDAY TROPHY SCHOLASTIC NOV. 9TH</a>",
 "PASADENA","2024-11-09","18","<a href=http://www.uschess.org/msa/XtblMain.php?202411094512 target='_blank'>PISD NOVEMBER 2024</a>",
 "PASADENA","2024-11-09","40","<a href=http://www.uschess.org/msa/XtblMain.php?202411094412 target='_blank'>PISD NOVEMBER 2024</a>",
-"HOUSTON","2024-11-09","10","<a href=http://www.uschess.org/msa/XtblMain.php?202411094172 target='_blank'>CHESSPANDA11092024SATURDAY</a>",
-"CYPRESS","2024-11-08","22","<a href=http://www.uschess.org/msa/XtblMain.php?202411083532 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SPRING","2024-11-08","33","<a href=http://www.uschess.org/msa/XtblMain.php?202411083422 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
