@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From Wednesday onwards, London will be the capital of chess. Many top players will be competing in the FIDE Rapid and Blitz World Championships, where they will also face ambitious amateurs. Rapid chess will be played from Wednesday to Friday, followed by the blitz tournament on Saturday and Sunday. Live coverage will be available daily from 15:00 CET.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-rapid-and-blitz-team-championships-live",
+         "pubDate" : "Sun, 15 Jun 2025 13:45:00",
+         "title" : "FIDE World Rapid and Blitz Team Championships live"
+      },
+      {
+         "description" : "In previous columns I have animadverted upon the exploits of alarmingly youthful players who are, nevertheless, making a definite mark on the international chess scene. The most recent manifestation of precocious and prodigious talent has been the shared second prize won by the 13-year-old Turkish Grandmaster Yagiz Kaan Erdogmus at the TePe Sigeman tournament in []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/erdogmatism-young-turk-in-chess/",
+         "pubDate" : "Sun, 15 Jun 2025 13:24:27",
+         "title" : "Erdogmatism: young Turk in chess"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121861725.cms\" />Grandmaster SL Narayanan, the top-rated player at the Delhi International Open GM Chess Tournament, experienced a disappointing finish after a strong start. Despite aiming for victory, a series of draws against lower-rated opponents led to a seventh-place result. Narayanan reflects on the mental challenges and the importance of maintaining a strong mindset for future success in his chess career. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/historic-feat-gm-abhijeet-gupta-clinches-fourth-title-at-21st-delhi-international-open-chess-tournament-2025/articleshow/121850948.cms",
          "pubDate" : "Sat, 14 Jun 2025 14:56:07",
          "title" : "Historic! GM Abhijeet Gupta clinches fourth title at 21st Delhi International Open Chess Tournament 2025"
-      },
-      {
-         "description" : "From Wednesday onwards, London will be the capital of chess. Many top players will be competing in the FIDE Rapid and Blitz World Championships, where they will also face ambitious amateurs. Rapid chess will be played from Wednesday to Friday, followed by the blitz tournament on Saturday and Sunday. Live coverage will be available daily from 15:00 CET.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-rapid-and-blitz-team-championships-live",
-         "pubDate" : "Sat, 14 Jun 2025 14:45:00",
-         "title" : "FIDE World Rapid and Blitz Team Championships live"
       },
       {
          "description" : " The 21st Delhi Open took place Sat 7th to Sat 14th Jun 2025. Abhijeet Gupta won with on 8.5/10 half a point clear of Mihail Nikitenko and Ghosh Aronyak.",
