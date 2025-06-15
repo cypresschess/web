@@ -842,7 +842,7 @@ news_feed (
          "title" : "Two English teams qualify for the 2025 World Chess League play-offs!"
       },
       {
-         "description" : " The Polish Ekstraliga takes place 2nd to 10th June 2025. Leading players: Pentala Harikrishna, Frederik Svane, Matthias Bluebaum, David Navara, Daniel Dardha, Nils Grandelius, Rasmus Svane, Andrei Volokitin, Maxime Lagarde, Ferenc Berkes, Marc Andria Maurizzi etc",
+         "description" : " The Polish Ekstraliga took place 2nd to 10th June 2025. Leading players: Pentala Harikrishna, Frederik Svane, Matthias Bluebaum, David Navara, Daniel Dardha, Nils Grandelius, Rasmus Svane, Andrei Volokitin, Maxime Lagarde, Ferenc Berkes, Marc Andria Maurizzi etc. Wieza Pomot Pegow won.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/tch-pol-ekstraliga-2025",
