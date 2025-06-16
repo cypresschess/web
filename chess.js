@@ -10,6 +10,14 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2025 - Games and Results"
       },
       {
+         "description" : "GMs Alireza Firouzja, Hikaru Nakamura, and Maxime Vachier-Lagrave were among the stars as WR Chess won the FIDE World Blitz Team Championship for a second year in a row. The greatest controversy came in the Quarterfinals, when GM Vincent Keymer&#39;s ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wr-chess-wins-2025-fide-world-blitz-team-chess-championship",
+         "pubDate" : "Sun, 15 Jun 2025 17:00:00",
+         "title" : "WR Chess Defends World Team Blitz Title After Winning Appeal"
+      },
+      {
          "description" : "From Wednesday onwards, London will be the capital of chess. Many top players will be competing in the FIDE Rapid and Blitz World Championships, where they will also face ambitious amateurs. Rapid chess will be played from Wednesday to Friday, followed by the blitz tournament on Saturday and Sunday. Live coverage will be available daily from 15:00 CET.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2025-optiver-chess-championship/",
          "pubDate" : "Thu, 05 Jun 2025 14:52:21",
          "title" : "2025 Optiver Chess Championship"
-      },
-      {
-         "description" : "World number-one Magnus Carlsen leads World Champion Gukesh Dommaraju by half a point going into the final round of Norway Chess 2025 after both stars won their classical games in round nine. Carlsen sacrificed a pawn against GM Fabiano Caruana bu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-norway-chess-round-9",
-         "pubDate" : "Thu, 05 Jun 2025 12:51:00",
-         "title" : "Carlsen, Gukesh Strike To Set Up Perfect Norway Chess Last Round"
       },
       {
          "description" : " The Titled Tuesday Blitz 3rd June saw Levon Aronian win the early event ahead of Sergei Zhigalko and Denis Lazavik. Aronian beat Alireza Firouzja in Round 6 Lazavik in round 7, drew with Nepomniachtchi in Round 8, Wesley So in Round 9 beat Nguyen Ngoc Truong Son in Round 10 and drew with Zhigalko in the final round. Firouzja won the late alone on 9.5/11 half a point clear of a big group of 6 on 9 points. Firouzja beat Sanan Sjugirov, Daniel Naroditsky and Hans Moke Niemann in the final rounds. ",
