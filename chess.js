@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The WR Chess team arrived late for their quarter-final match against Germany and Friends and lost the first of the two scheduled rounds. However, after filing a protest, the first round was replayed. WR Chess won the match and went on to triumph in the semi-finals. In the final, the team successfully defended their title as Team Blitz World Champions with a victory over KazChess. | Photos: Rafal Oleksiewicz/FIDE, ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-arrives-late-but-defends-title-in-blitz-world-championship",
+         "pubDate" : "Mon, 16 Jun 2025 11:37:48",
+         "title" : "WR Chess arrives late but defends title in Blitz World Championship"
+      },
+      {
          "description" : " The FIDE World Rapid and Blitz Team Championships took place in London Tue 10th to Mon 16th Jun 2025. Players included Firouzja, Aronian, MVL, Nakamura, Abdusattorov, Anand, 420 players of varying strengths playing for teams. Each team of 6 in each match required one recreational player and one woman player. 6th seeds Team MGD1 (Erigaisi, Harikrishna, Anton Guijarro, Pranav, Mendonca, Tsolakidou and Atharvaa P Tayade) won the rapid ahead of Hexamind (Aronian, Giri, Murzin, Domginguez, Vidit, Divya, Panarin and Muradyan) and Freedom (Anand, Mamedov, Sevian, Le, Sarana, Martirosyan, Muzychuk, Injac and Mani) with top seeds WR Chess (Firouzja, MVL, Nakamura, Duda, So, Hou Yifan, Kosteniuk and ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-rapid-and-blitz-team-championships-2025",
-         "pubDate" : "Sun, 15 Jun 2025 21:28:00",
+         "pubDate" : "Mon, 16 Jun 2025 10:58:00",
          "title" : "FIDE World Rapid and Blitz Team Championships 2025 - Games and Results"
+      },
+      {
+         "description" : "Do you have problems getting into the game with Black because there are simply too many openings? Lars Milde, a club chess player for decades and currently active at SV Werder Bremen, has a tip for you: The Black Sniper is a complete repertoire against virtually all white openings. The reviewer explains why he likes Charlie Storey's approach so much. Read how you can develop this unique video course into a universal repertoire for yourself...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-charlie-storey-s-the-black-sniper-a-hypermodern-weapon-for-attackers",
+         "pubDate" : "Mon, 16 Jun 2025 09:34:29",
+         "title" : "Review: Charlie Storey's The Black Sniper - A Hypermodern Weapon for Attackers!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121880019.cms\" />Gukesh Dommaraju's rise to world chess champion at 18 has sparked a chess revolution, validating Garry Kasparov's prediction. At the Delhi International Open, seasoned players like GM Tornike Sanikidze noted the fierce competition from India's young talents. Veteran Rani Hamid acknowledged India's significant progress in chess. India is now a dominant force, driven by ambitious young players. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-earlier-i-used-to-beat-indians-at-will-what-global-chess-stars-in-their-30s-50s-and-80s-say-about-indias-dominance/articleshow/121880019.cms",
+         "pubDate" : "Mon, 16 Jun 2025 08:35:02",
+         "title" : "'Earlier, I used to beat Indians at will': What global chess stars say about India's dominance"
+      },
+      {
+         "description" : "Please find the link here GM&#160;Open :&#160; http://fritzserver.org/LocalUser/live/aurionpro2025/gm/index.html Junior: http://fritzserver.org/LocalUser/live/aurionpro2025/junior/index.html",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-game-links-aurionpro-international-grandmasters-chess-tournament-2025/",
+         "pubDate" : "Mon, 16 Jun 2025 08:21:46",
+         "title" : "Live Game Links : Aurionpro International Grandmasters Chess Tournament 2025"
       },
       {
          "description" : "GMs Alireza Firouzja, Hikaru Nakamura, and Maxime Vachier-Lagrave were among the stars as WR Chess won the FIDE World Blitz Team Championship for a second year in a row. The greatest controversy came in the Quarterfinals, when GM Vincent Keymer&#39;s ...",
@@ -72,14 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-world-rapid-blitz-team-chess-championships-day-4",
          "pubDate" : "Sat, 14 Jun 2025 19:00:00",
          "title" : "13-Year-Old Beats Nakamura But Favorites Thrive As Blitz Begins"
-      },
-      {
-         "description" : "The Cairns Cup is taking place on June 10-20 at the World Chess Hall of Fame. Tan Zhongyi, Humpy Koneru and Bibisara Assaubayeva are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $250,000. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2025-live",
-         "pubDate" : "Sat, 14 Jun 2025 19:00:00",
-         "title" : "Cairns Cup, Round 5 - Live!"
       },
       {
          "description" : "GM Andrew Tang put his shoulder back to the wheel fewer than 24 hours after winning the 2025 Chess.com Hyperbullet Championship&#38;nbsp;and won his seventh Bullet Brawl&#38;nbsp;of the year after a 34-game streak. Tang scored 62.5/75 and amassed 220 poin...",
@@ -1048,14 +1072,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2025-northumbria-masters-1st-darlington-chessfest/",
          "pubDate" : "Wed, 28 May 2025 13:41:05",
          "title" : "2025 Northumbria Masters & 1st Darlington ChessFest"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121457421.cms\" />Magnus Carlsen defeated D Gukesh in the first round of the Norway Chess tournament, showcasing his endgame prowess. Gukesh's blunder cost him the game despite a promising start. Former national champion Pravin Thipsay believes Gukesh is preparing for the 2026 Championship match, viewing these games as valuable learning experiences.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-magnus-carlsen-beats-d-gukesh-to-show-why-he-is-master-of-endgame/articleshow/121457421.cms",
-         "pubDate" : "Wed, 28 May 2025 06:45:57",
-         "title" : "Magnus Carlsen beats D Gukesh to show why he is master of endgame"
       },
       {
          "description" : "The European Chess Union, in cooperation with Chessdom.com and its Chess Calendar, have launched a new calendar on their official website. You can find it at https://www.europechess.org/calendar/ The calendar includes all ECU events from 2014 with detailed information and links to the official websites and/or results. It also has sections for 2026 and 2027 events, which will be timely updated.",
