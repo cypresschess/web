@@ -18,6 +18,14 @@ news_feed (
          "title" : "International Schools Chess Festival, Romania 30th June - 6th July 2025"
       },
       {
+         "description" : "Players can now register for their last shot at making it to this year&#39;s Esports World Cup (EWC). Featuring a whopping $1,500,000 prize fund, the inaugural chess event in the Esports World Cup arena is attracting some of the world&#39;s strongest play...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/registrations-esports-world-cup-last-chance-qualifier",
+         "pubDate" : "Mon, 16 Jun 2025 12:34:26",
+         "title" : "Registrations Are Open For The Esports World Cup Last Chance Qualifier In Riyadh"
+      },
+      {
          "description" : "The WR Chess team arrived late for their quarter-final match against Germany and Friends and lost the first of the two scheduled rounds. However, after filing a protest, the first round was replayed. WR Chess won the match and went on to triumph in the semi-finals. In the final, the team successfully defended their title as Team Blitz World Champions with a victory over KazChess. | Photos: Rafal Oleksiewicz/FIDE, ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +72,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gata-kamsky-completes-transfer-to-france-after-36-years-representing-usa",
          "pubDate" : "Mon, 16 Jun 2025 07:01:00",
          "title" : "Gata Kamsky Transfers To France After 36 Years Representing U.S."
+      },
+      {
+         "description" : "The battle of youth versus experience at this year's Cairns Cup is looking a bit drawish after five rounds of action at the Saint Louis Chess Club (SLCC). Three players entered the rest day as co-leaders with 3&frac12;/5 scores: Indian GMs Humpy Koneru (age 38), Harika Dronavalli (age 34), and American IM Alice Lee (age 15). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Alice Lee remains unbeaten halfway through her second Cairns Cup (Photo courtesy of Lennart Ootes/SLCC)<br> <br> <br> <br> Polish IM Alina Kashlinskaya (age 31) sits in clear fourth with 3/5, and American IM Carissa Yip (age 21) rounds out the top half as the only player with an even ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/lee-joins-veterans-atop-cairns-cup-standings-after-five-rounds",
+         "pubDate" : "Mon, 16 Jun 2025 00:00:00",
+         "title" : "Lee Joins Veterans Atop Cairns Cup Standings after Five Rounds"
       },
       {
          "description" : "GMs Alireza Firouzja, Hikaru Nakamura, and Maxime Vachier-Lagrave were among the stars as WR Chess won the FIDE World Blitz Team Championship for a second year in a row. The greatest controversy came in the Quarterfinals, when GM Vincent Keymer&#39;s ...",
@@ -794,14 +810,6 @@ news_feed (
          "title" : "6th Stepan Avagyan Memorial 2025 - Games and Results"
       },
       {
-         "description" : "GM Magnus Carlsen has won his seventh Norway Chess title after escaping and then almost winning a lost position against GM Arjun Erigaisi. With seconds to spare, he took a draw, which seemed to guarantee the title as GM Fabiano Caruana was beating...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-muzychuk-win-2025-norway-chess",
-         "pubDate" : "Fri, 06 Jun 2025 12:59:00",
-         "title" : "Carlsen, Muzychuk Win Norway Chess After Stunning Final Round"
-      },
-      {
          "description" : " The world No 1 won by half a point in Norway but said: 'It's a long time since I enjoyed a classical tournament' Magnus Carlsen, the world No 1, squeaked home in the tightest of finishes at Stavanger on Friday night after his Indian rival, the world champion, Gukesh Dommaraju, had missed his chance to draw with the US champion Fabiano Caruana and had instead fallen into a knight fork of his queen and rook. Final scores were Carlsen ­(Norway) 16; Caruana (US) 15.5; Gukesh (India) 14.5; Hikaru Nakamura (US) 14; Arjun Erigaisi (India) 13; Wei Yi (China) 9.5. In his final Armageddon game, Carlsen blundered into mate in two against Erigaisi in mid-board in a drawn position, although that did not",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -936,14 +944,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/he-was-blindly-pushing-on-normal-day-i-win-that-game-magnus-carlsen-on-painful-loss-to-d-gukesh/articleshow/121586580.cms",
          "pubDate" : "Tue, 03 Jun 2025 04:24:09",
          "title" : "'On normal day I win that game': Magnus Carlsen on loss to D Gukesh"
-      },
-      {
-         "description" : "\"It is my wish and desire that the United States Chess Federation use this gift to establish a fund in my name and that the income generated therefrom be used for the furtherance of the chess capabilities of chess players from 18 through 21 years of age.\" - Dr. Herbert B. JacklynAPPLY NOWUS Chess is opening the application process for the 2025-2026 Herbert B. Jacklyn Program. The program is funded by a generous bequest to US Chess from the late Dr. Herbert B. Jacklyn. It was the wish of Dr. Jacklyn that income derived from investing his gift be used to improve the chess of players 18 to 21 years of age. The deadline for submitting is August 1, 2025.US Chess aims to provide opportunities for ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/herbert-b-jacklyn-program-open-2025-26-submissions",
-         "pubDate" : "Tue, 03 Jun 2025 00:00:00",
-         "title" : "The Herbert B. Jacklyn Program is Open For 2025-26 Submissions"
       },
       {
          "description" : " Magnus Carlsen was left hitting the table in frustration as he lost to Gukesh from a winning position in the sixth round of the <a href=\"https://theweekinchess.com/chessnews/events/13th-Norway-chess-2025\">Norway Chess</a> tournament. Gukesh had the white pieces and the opening was a slow manoeuvring Ruy Lopez Berlin where Carlsen had equalised by move 17 and was at least a bit better by move 20. Gukesh kept playing slightly inferior moves 22.Bc6?! (Rc1) 23.Qc2?!, 24.Kh1?! (24.Ne2) and finally after 25.Qa2 (maybe 25.Kh2) he was lost and soon about to lose a piece. Maybe Carlsen's 36...Bxd5 wasn't the cleanest (36...Bxf3 or 36...Rh8 may have induced a quick resignation) but he was still clear",
