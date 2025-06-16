@@ -42,6 +42,14 @@ news_feed (
          "title" : "Live Game Links : Aurionpro International Grandmasters Chess Tournament 2025"
       },
       {
+         "description" : "Five-time U.S. champion GM Gata Kamsky has officially switched federations to France, marking the end of a 36-year chapter representing the United States. The transfer was confirmed by the International Chess Federation (FIDE) on Monday, followi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gata-kamsky-completes-transfer-to-france-after-36-years-representing-usa",
+         "pubDate" : "Mon, 16 Jun 2025 07:01:26",
+         "title" : "Gata Kamsky Transfers To France After 36 Years Representing U.S."
+      },
+      {
          "description" : "GMs Alireza Firouzja, Hikaru Nakamura, and Maxime Vachier-Lagrave were among the stars as WR Chess won the FIDE World Blitz Team Championship for a second year in a row. The greatest controversy came in the Quarterfinals, when GM Vincent Keymer&#39;s ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-muzychuk-win-2025-norway-chess",
          "pubDate" : "Fri, 06 Jun 2025 12:59:00",
          "title" : "Carlsen, Muzychuk Win Norway Chess After Stunning Final Round"
-      },
-      {
-         "description" : "The perfect 11/11 score doesn&#39;t exis&#38;mdash;well, it&#39;s only happened seven times in hundreds of Titled Tuesdays over several years, but in just a few months&#39; time, Freestyle Friday has its first 11/11 performance in the record books. The mark belon...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/xiong-wins-freestyle-friday-june-6-2025",
-         "pubDate" : "Fri, 06 Jun 2025 12:04:00",
-         "title" : "Xiong Perfects Freestyle Friday"
       },
       {
          "description" : " The world No 1 won by half a point in Norway but said: 'It's a long time since I enjoyed a classical tournament' Magnus Carlsen, the world No 1, squeaked home in the tightest of finishes at Stavanger on Friday night after his Indian rival, the world champion, Gukesh Dommaraju, had missed his chance to draw with the US champion Fabiano Caruana and had instead fallen into a knight fork of his queen and rook. Final scores were Carlsen ­(Norway) 16; Caruana (US) 15.5; Gukesh (India) 14.5; Hikaru Nakamura (US) 14; Arjun Erigaisi (India) 13; Wei Yi (China) 9.5. In his final Armageddon game, Carlsen blundered into mate in two against Erigaisi in mid-board in a drawn position, although that did not",
