@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Those who prepare well in the summer will be ready for tournaments in the fall and winter - or for summer opens as well. The Neo-London System is a powerful weapon that allows White to take control of the game right from the start - slightly sharper than the traditional London System. In her Fritztrainer, Elisabeth P&auml;htz explains how it works. Part of this week's Summer Special for only €34.90 (instead of €49.90).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/elisabeth-paehtz-neo-london-this-week-s-summer-special-only-34-90",
+         "pubDate" : "Mon, 16 Jun 2025 17:35:30",
+         "title" : "Elisabeth P&auml;htz: Neo-London - This week's summer special: only €34.90"
+      },
+      {
+         "description" : "The International Schools Chess Festival will take place in Romania from 30th June to 6th July 2025 (direct flights from Luton). Accommodation and food will be free for any school...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/international-schools-chess-festival-romania-30th-june-6th-july-2025/",
+         "pubDate" : "Mon, 16 Jun 2025 15:49:28",
+         "title" : "International Schools Chess Festival, Romania 30th June - 6th July 2025"
+      },
+      {
          "description" : "The WR Chess team arrived late for their quarter-final match against Germany and Friends and lost the first of the two scheduled rounds. However, after filing a protest, the first round was replayed. WR Chess won the match and went on to triumph in the semi-finals. In the final, the team successfully defended their title as Team Blitz World Champions with a victory over KazChess. | Photos: Rafal Oleksiewicz/FIDE, ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -46,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gata-kamsky-completes-transfer-to-france-after-36-years-representing-usa",
-         "pubDate" : "Mon, 16 Jun 2025 07:01:26",
+         "pubDate" : "Mon, 16 Jun 2025 07:01:00",
          "title" : "Gata Kamsky Transfers To France After 36 Years Representing U.S."
       },
       {
@@ -1088,14 +1104,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/05/26/bellahcene-wafa-are-2025-african-champions/",
          "pubDate" : "Tue, 27 May 2025 01:09:59",
          "title" : "Bellahcene, Wafa are 2025 African Champions!"
-      },
-      {
-         "description" : " &#8220;Africa Day&#8221; is commemorated on May 25th of every year as a rallying cry for Pan-African unity, justice, and regional collaboration. The day celebrates the founding of the Organization of African Unity (OAU) in 1963. The OAU became the African Union (AU) in 2002. This year marks the 62nd anniversary of the organization's founding. This The post <a href=\"https://thechessdrum.net/blog/2025/05/26/african-chess-celebrates-africa-day/\">African Chess celebrates &#8220;Africa Day&#8221;</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/05/26/african-chess-celebrates-africa-day/",
-         "pubDate" : "Mon, 26 May 2025 17:12:59",
-         "title" : "African Chess celebrates \"Africa Day\""
       }
    ]
 }
