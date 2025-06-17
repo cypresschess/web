@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-7-recap/\">2025 Cairns Cup - Day 7 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-7-recap/",
+         "pubDate" : "Tue, 17 Jun 2025 22:25:47",
+         "title" : "2025 Cairns Cup - Day 7 Recap"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 10-20 at the World Chess Hall of Fame. Tan Zhongyi, Humpy Koneru and Bibisara Assaubayeva are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $250,000. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/first-head-of-the-chess-federation-now-prime-minister-zandanshatar-gombojav",
          "pubDate" : "Tue, 17 Jun 2025 15:00:00",
          "title" : "First head of the Chess Federation, now Prime Minister: Zandanshatar Gombojav"
+      },
+      {
+         "description" : "Justin Reid moved from the Chiefs to the Saints in the offseason, but over the chessboard, nothing has changed. He confidently defended his title to become the first ever repeat winner of BlitzChamps IV, the tournament to decide the NFL&#39;s best che...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/justin-reid-defends-blitzchamps-title",
+         "pubDate" : "Tue, 17 Jun 2025 12:53:00",
+         "title" : "Justin Reid Cruises Through BlitzChamps IV To Defend Title"
       },
       {
          "description" : "After the rest day following Round 5, fighting spirit returned to the Cairns Cup in Saint Louis: all five games in Round 6 ended decisively. The new tournament leader is Humpy Koneru, who won an interesting theoretical battle against Harika Dronavalli. She now leads with 4.5 points out of 6, half a point ahead of Alina Kashlinskaya, who defeated Mariya Muzychuk. | Photo: Lennart Ootes/Saint Louis Chess Club",
@@ -624,14 +640,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-21st-delhi-open-2025/",
          "pubDate" : "Sun, 08 Jun 2025 05:50:03",
          "title" : "Live Games link for 21st Delhi open 2025"
-      },
-      {
-         "description" : "GM Hikaru Nakamura prevailed in a showdown with world number-seven GM Alireza Firouzja during Saturday&#39;s Bullet Brawl, earning himself the $400 first prize and his 41st title. Nakamura scored 70 wins, four losses, and a string of draws at the tail...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-june-7-2025",
-         "pubDate" : "Sat, 07 Jun 2025 18:20:00",
-         "title" : "Nakamura Prevails In Firouzja Showdown, Wins 41st Bullet Brawl Title"
       },
       {
          "description" : " Magnus Carlsen won the <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">Norway Chess</a> tournament for the seventh time in thirteen outings. Carlsen set up the result with a round 9 grind against Fabiano Caruana. Carlsen was a pawn up but whilst the engine said that initially Caruana should hold, in practice it was beyond him. In the final round Carlsen was put under pressure by Arjun Erigaisi, bailed out with a Queen sacrifice, looked in trouble, turned it around to be winning before finally settling for a draw in time trouble. That result guaranteed Carlsen at least a tie-break for first place and after Gukesh lost it won him the tournament. When all the other",
