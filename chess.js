@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-6-recap/\">2025 Cairns Cup - Day 6 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-6-recap/",
+         "pubDate" : "Mon, 16 Jun 2025 23:32:38",
+         "title" : "2025 Cairns Cup - Day 6 Recap"
+      },
+      {
          "description" : "Those who prepare well in the summer will be ready for tournaments in the fall and winter - or for summer opens as well. The Neo-London System is a powerful weapon that allows White to take control of the game right from the start - slightly sharper than the traditional London System. In her Fritztrainer, Elisabeth P&auml;htz explains how it works. Part of this week's Summer Special for only €34.90 (instead of €49.90).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1096,14 +1104,6 @@ news_feed (
          "link" : "https://www.europechess.org/new-calendar-of-the-european-chess-union/",
          "pubDate" : "Tue, 27 May 2025 08:04:48",
          "title" : "New ECU Calendar"
-      },
-      {
-         "description" : " Bilel Bellahcene won the 2025 African Individual Chess Championship, edging out seven-time champion Bassem Amin. Egypt had won the last nine titles and, going back to 1998, had won 17/20 championships. The Algerian grandmaster took to social media with a heartfelt message. After years of hard work, sacrifice and passion, I am proud to have The post <a href=\"https://thechessdrum.net/blog/2025/05/26/bellahcene-wafa-are-2025-african-champions/\">Bellahcene, Wafa are 2025 African Champions!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/05/26/bellahcene-wafa-are-2025-african-champions/",
-         "pubDate" : "Tue, 27 May 2025 01:09:59",
-         "title" : "Bellahcene, Wafa are 2025 African Champions!"
       }
    ]
 }
