@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 10-20 at the World Chess Hall of Fame. Tan Zhongyi, Humpy Koneru and Bibisara Assaubayeva are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $250,000. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2025-live",
+         "pubDate" : "Tue, 17 Jun 2025 19:00:00",
+         "title" : "Cairns Cup, Round 7 - Live!"
+      },
+      {
          "description" : "Master Your Technique Vol. 2 by Adrian Mikhalchishin takes you deeper into the technical foundations of practical chess, focusing on converting advantages and mastering key endgame and middlegame imbalances. Through structured lessons and model games, you'll learn crucial skills like precise endgame technique, double attacks, attacking on open files, and the principle of two weaknesses. This course is ideal for ambitious players who want to turn good positions into wins with confidence and clarity.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-fever-p-harikrishna-copies-famous-fist-smash-of-world-no-1-chess-player-watch-video/articleshow/121902246.cms",
          "pubDate" : "Tue, 17 Jun 2025 06:08:07",
          "title" : "Carlsen fever! Harikrishna copies famous fist-smash of World No 1 - Watch "
+      },
+      {
+         "description" : "This week's puzzles come from the first half of the 2025 Cairns Cup (recap here). Stay tuned next week for more highlights from this showcase of ten of the top female players in the world. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-cairns-cup-so-far",
+         "pubDate" : "Tue, 17 Jun 2025 00:00:00",
+         "title" : "Tactics Tuesday: Cairns Cup So Far"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-6-recap/\">2025 Cairns Cup - Day 6 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -816,14 +832,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/shankland-wins-2025-american-continental-qualifies-world-cup",
          "pubDate" : "Wed, 04 Jun 2025 00:00:00",
          "title" : "Shankland Wins 2025 American Continental, Qualifies for World Cup"
-      },
-      {
-         "description" : "This week's exercises come from the 32nd Annual Chicago Open, adding even more highlights to those collected in yesterday's Tactics Tuesday and Monday's Memorial Day Weekend Wrap-Up. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-chicago-open-highlights",
-         "pubDate" : "Wed, 04 Jun 2025 00:00:00",
-         "title" : "Wednesday Workout: Chicago Open Highlights"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121587569.cms\" />D Gukesh prevailed over Arjun Erigaisi at Norway Chess, his first classical win against him, propelling him to second place. Fabiano Caruana leads the tournament after defeating Wei Yi. Magnus Carlsen secured third place with an Armageddon win over Hikaru Nakamura. Gukesh's win over Erigaisi comes on the back of a win over Magnus Carlsen, where the World No 1 lost his afterwards.",
