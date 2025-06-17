@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There are many tournaments staged in drab surroundings. How about attending one that takes place in beautiful surrounding, where you can combine your participation with an enchanting holiday. Here are four FIDE tournament that are coming this year. Definitely worth careful consideration.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/looking-for-a-nice-place-to-play",
+         "pubDate" : "Tue, 17 Jun 2025 07:22:28",
+         "title" : "Looking for a nice place to play?"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121902246.cms\" />Magnus Carlsen's emotional outburst after losing to Gukesh has gone viral. Indian GM Pentala Harikrishna hilariously mimicked the fist smash in a FIDE interview. Even Anish Giri joined the fun earlier, tapping his fist before a game with a smile.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-fever-p-harikrishna-copies-famous-fist-smash-of-world-no-1-chess-player-watch-video/articleshow/121902246.cms",
+         "pubDate" : "Tue, 17 Jun 2025 06:08:07",
+         "title" : "Carlsen fever! Harikrishna copies famous fist-smash of World No 1 - Watch "
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-6-recap/\">2025 Cairns Cup - Day 6 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-6-recap/",
          "pubDate" : "Mon, 16 Jun 2025 23:32:38",
          "title" : "2025 Cairns Cup - Day 6 Recap"
+      },
+      {
+         "description" : "After a rest day, the players returned to the Cairns Cup 2025 ready to fight in round six. Every game was decisive, and the bloodbath left GM Koneru Humpy on top. She defeated her co-leader and countrywoman GM Harika Dronavalli, while the other co...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-6",
+         "pubDate" : "Mon, 16 Jun 2025 22:50:01",
+         "title" : "Humpy Leads After All-Decisive Round 6"
       },
       {
          "description" : "Those who prepare well in the summer will be ready for tournaments in the fall and winter - or for summer opens as well. The Neo-London System is a powerful weapon that allows White to take control of the game right from the start - slightly sharper than the traditional London System. In her Fritztrainer, Elisabeth P&auml;htz explains how it works. Part of this week's Summer Special for only €34.90 (instead of €49.90).",
@@ -754,14 +778,6 @@ news_feed (
          "title" : "Norway Chess: Muzychuk, with much less hype, earns as much as Carlsen"
       },
       {
-         "description" : "GM Aravindh Chithambaram&#39;s fast rise to the highest echelons in chess continued last week in Jermuk, Armenia, where the 25-year-old Indian grandmaster edged out GM Praggnanandhaa Rameshbabu on tiebreaks to win the Stepan Avagyan Memorial. Aravindh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aravindh-wins-stepan-avagyan-memorial",
-         "pubDate" : "Sat, 07 Jun 2025 10:09:00",
-         "title" : "Aravindh Breaks Into World Top 10 After Victory In Armenia"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121687732.cms\" />Magnus Carlsen clinched his seventh Norway Chess title, benefiting from D Gukesh's final-round loss to Fabiano Caruana. Carlsen drew his last game, securing the win with 16 points, while Caruana finished second. Carlsen acknowledged the potential of young Indian talents like Gukesh and Arjun Erigaisi, highlighting his own challenging tournament, including a notable loss to Gukesh.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1080,14 +1096,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-congress-and-general-assembly-2025/",
          "pubDate" : "Thu, 29 May 2025 08:46:18",
          "title" : "ECU Congress and General Assembly 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121480000.cms\" />On his 19th birthday, D Gukesh, the world champion, revitalised his Norway Chess campaign by defeating World No. 2 Hikaru Nakamura. After suffering consecutive losses, Gukesh secured a crucial win in 42 moves, showcasing improved time management.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-on-19th-birthday-d-gukesh-celebrates-with-win-over-hikaru-nakamura/articleshow/121480000.cms",
-         "pubDate" : "Thu, 29 May 2025 04:53:45",
-         "title" : "Norway Chess: On 19th birthday, Gukesh celebrates with win over Nakamura"
       },
       {
          "description" : "Entries are now open for the 2025 Northumbria Masters (20-25 August at Darlington's Dolphin Centre), a six-day, nine-round FIDE-rated congress at https://northumbriamasters.com.&#160;Tournaments include Open Super-Swiss (eligible for title norms), Challengers...",
