@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Master Your Technique Vol. 2 by Adrian Mikhalchishin takes you deeper into the technical foundations of practical chess, focusing on converting advantages and mastering key endgame and middlegame imbalances. Through structured lessons and model games, you'll learn crucial skills like precise endgame technique, double attacks, attacking on open files, and the principle of two weaknesses. This course is ideal for ambitious players who want to turn good positions into wins with confidence and clarity.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/adrian-mikhalchishin-master-your-technique-vol-2-winning-strategies-you-must-know",
+         "pubDate" : "Tue, 17 Jun 2025 16:37:13",
+         "title" : "Adrian Mikhalchishin: Master your Technique Vol. 2 - Winning strategies you must know"
+      },
+      {
+         "description" : "In some countries, strong chess players have risen to prominent political positions, and in others, politicians happen to be skilled at chess. But even high-ranking chess officials can find their way into political office. According to the World Chess Federation, Zandanshatar Gombojav, former president of the Mongolian Chess Federation, has now been appointed Prime Minister of Mongolia.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/first-head-of-the-chess-federation-now-prime-minister-zandanshatar-gombojav",
+         "pubDate" : "Tue, 17 Jun 2025 15:00:00",
+         "title" : "First head of the Chess Federation, now Prime Minister: Zandanshatar Gombojav"
+      },
+      {
          "description" : "After the rest day following Round 5, fighting spirit returned to the Cairns Cup in Saint Louis: all five games in Round 6 ended decisively. The new tournament leader is Humpy Koneru, who won an interesting theoretical battle against Harika Dronavalli. She now leads with 4.5 points out of 6, half a point ahead of Alina Kashlinskaya, who defeated Mariya Muzychuk. | Photo: Lennart Ootes/Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -46,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-6",
-         "pubDate" : "Mon, 16 Jun 2025 22:50:01",
+         "pubDate" : "Mon, 16 Jun 2025 22:50:00",
          "title" : "Humpy Leads After All-Decisive Round 6"
       },
       {
