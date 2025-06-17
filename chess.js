@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After the rest day following Round 5, fighting spirit returned to the Cairns Cup in Saint Louis: all five games in Round 6 ended decisively. The new tournament leader is Humpy Koneru, who won an interesting theoretical battle against Harika Dronavalli. She now leads with 4.5 points out of 6, half a point ahead of Alina Kashlinskaya, who defeated Mariya Muzychuk. | Photo: Lennart Ootes/Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-round-6-humpy-koneru-takes-the-lead",
+         "pubDate" : "Tue, 17 Jun 2025 12:46:36",
+         "title" : "Cairns Cup, Round 6: Humpy Koneru takes the lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121908049.cms\" />Anish Giri publicly challenged WR Chess stars Nakamura and Nepomniachtchi over their successful appeal and controversial replay during the FIDE Blitz quarterfinals, questioning their motives. Nepo admitted the decision was messy, though WR Chess ultimately won the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/future-fide-president-anish-giri-involved-in-an-heated-argument-with-ian-nepomniachtchi-hikaru-nakamura-watch-video/articleshow/121908049.cms",
+         "pubDate" : "Tue, 17 Jun 2025 10:13:52",
+         "title" : "'Future FIDE Prez:' Giri involved in an heated argument with Nepo, Nakamura - Watch"
+      },
+      {
          "description" : "There are many tournaments staged in drab surroundings. How about attending one that takes place in beautiful surrounding, where you can combine your participation with an enchanting holiday. Here are four FIDE tournament that are coming this year. Definitely worth careful consideration.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,28 +74,12 @@ news_feed (
          "title" : "Registrations Are Open For The Esports World Cup Last Chance Qualifier In Riyadh"
       },
       {
-         "description" : "The WR Chess team arrived late for their quarter-final match against Germany and Friends and lost the first of the two scheduled rounds. However, after filing a protest, the first round was replayed. WR Chess won the match and went on to triumph in the semi-finals. In the final, the team successfully defended their title as Team Blitz World Champions with a victory over KazChess. | Photos: Rafal Oleksiewicz/FIDE, ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-arrives-late-but-defends-title-in-blitz-world-championship",
-         "pubDate" : "Mon, 16 Jun 2025 11:37:48",
-         "title" : "WR Chess arrives late but defends title in Blitz World Championship"
-      },
-      {
          "description" : " The FIDE World Rapid and Blitz Team Championships took place in London Tue 10th to Mon 16th Jun 2025. Players included Firouzja, Aronian, MVL, Nakamura, Abdusattorov, Anand, 420 players of varying strengths playing for teams. Each team of 6 in each match required one recreational player and one woman player. 6th seeds Team MGD1 (Erigaisi, Harikrishna, Anton Guijarro, Pranav, Mendonca, Tsolakidou and Atharvaa P Tayade) won the rapid ahead of Hexamind (Aronian, Giri, Murzin, Domginguez, Vidit, Divya, Panarin and Muradyan) and Freedom (Anand, Mamedov, Sevian, Le, Sarana, Martirosyan, Muzychuk, Injac and Mani) with top seeds WR Chess (Firouzja, MVL, Nakamura, Duda, So, Hou Yifan, Kosteniuk and ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-rapid-and-blitz-team-championships-2025",
          "pubDate" : "Mon, 16 Jun 2025 10:58:00",
          "title" : "FIDE World Rapid and Blitz Team Championships 2025 - Games and Results"
-      },
-      {
-         "description" : "Do you have problems getting into the game with Black because there are simply too many openings? Lars Milde, a club chess player for decades and currently active at SV Werder Bremen, has a tip for you: The Black Sniper is a complete repertoire against virtually all white openings. The reviewer explains why he likes Charlie Storey's approach so much. Read how you can develop this unique video course into a universal repertoire for yourself...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-charlie-storey-s-the-black-sniper-a-hypermodern-weapon-for-attackers",
-         "pubDate" : "Mon, 16 Jun 2025 09:34:29",
-         "title" : "Review: Charlie Storey's The Black Sniper - A Hypermodern Weapon for Attackers!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121880019.cms\" />Gukesh Dommaraju's rise to world chess champion at 18 has sparked a chess revolution, validating Garry Kasparov's prediction. At the Delhi International Open, seasoned players like GM Tornike Sanikidze noted the fierce competition from India's young talents. Veteran Rani Hamid acknowledged India's significant progress in chess. India is now a dominant force, driven by ambitious young players. ",
@@ -122,14 +122,6 @@ news_feed (
          "title" : "WR Chess Defends World Team Blitz Title After Winning Appeal"
       },
       {
-         "description" : "From Wednesday onwards, London will be the capital of chess. Many top players will be competing in the FIDE Rapid and Blitz World Championships, where they will also face ambitious amateurs. Rapid chess will be played from Wednesday to Friday, followed by the blitz tournament on Saturday and Sunday. Live coverage will be available daily from 15:00 CET.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-rapid-and-blitz-team-championships-live",
-         "pubDate" : "Sun, 15 Jun 2025 13:45:00",
-         "title" : "FIDE World Rapid and Blitz Team Championships live"
-      },
-      {
          "description" : "In previous columns I have animadverted upon the exploits of alarmingly youthful players who are, nevertheless, making a definite mark on the international chess scene. The most recent manifestation of precocious and prodigious talent has been the shared second prize won by the 13-year-old Turkish Grandmaster Yagiz Kaan Erdogmus at the TePe Sigeman tournament in []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -144,22 +136,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-why-is-chess-so-cruel-ask-grandmaster-sl-narayanan/articleshow/121861725.cms",
          "pubDate" : "Sun, 15 Jun 2025 10:26:44",
          "title" : "Exclusive: Why is chess so cruel? Ask Grandmaster SL Narayanan"
-      },
-      {
-         "description" : "Do you remember the pioneering chess film \"Searching for Bobby Fischer\"? It told the story of a seven-year-old US chess prodigy - with stars like Joe Montegna, Ben Kingsley and Laurence Fisburn playing his father and trainers. Josh Waitzken retired from active chess at 23, moved to Costa Rica and became an expert in the art of learning. Recently, he became a consultant of the Boston Celtics basketball team.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/searching-for-josh-waitzkin",
-         "pubDate" : "Sun, 15 Jun 2025 10:00:00",
-         "title" : "Searching for Josh Waitzkin"
-      },
-      {
-         "description" : "What the mouse can do! Following on from the aesthetic aspects covered in the last ChessBase 18 tutorial for beginners, this time we show you how you can use the mouse in different ways. The scroll wheel and mouse buttons can be used in a variety of ways. Here, too, it is a matter of personal preference which settings you choose.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-18-what-the-mouse-can-do",
-         "pubDate" : "Sun, 15 Jun 2025 08:00:00",
-         "title" : "ChessBase 18 - Tips for beginners, part 18: What the mouse can do!"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-5-recap/\">2025 Cairns Cup - Day 5 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -226,38 +202,6 @@ news_feed (
          "title" : "Simplified Thought Process"
       },
       {
-         "description" : "ChessBase has, of course, released many new video courses and other products this spring. A special mention should go to the new Fritz! Fritz 20 now lets you play against a whole series of animated former world champions. Browse the monthly overview to find your favourites, whether it's Fritz 20, ChessBase Magazine 225 Extra, or our new Spanish and Ragozin guides. Take a look at all last month's products!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-may",
-         "pubDate" : "Sat, 14 Jun 2025 12:00:00",
-         "title" : "Review: All new releases in May!"
-      },
-      {
-         "description" : "In this episode, Svitlana gives an in-depth introduction to the Evans Gambit, a sharp and aggressive opening in the Italian Game that sacrifices a pawn to gain rapid development and attacking chances. She explains the main ideas for both sides, key traps, and various defensive setups for Black, emphasizing how crucial preparation and understanding of typical tactical patterns are. The lesson concludes with historical context, including a look at the famous \"Evergreen Game\" by Anderssen, and encourages viewers to explore this opening for its practical surprise value and rich attacking potential.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-tricky-evans-gambit",
-         "pubDate" : "Sat, 14 Jun 2025 11:00:00",
-         "title" : "Svitlana's Smart Moves - The tricky Evans Gambit"
-      },
-      {
-         "description" : "Team MGD1 secured first place at the 2025 FIDE World Rapid Teams Championship in London, winning all matches on the final day. Hexamind finished second, while Freedom, Uzbekistan, and WR Chess shared third. | Photos: Rafal Oleksiewicz/FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mgd1-wins-2025-fide-world-rapid-teams-championship-in-london",
-         "pubDate" : "Sat, 14 Jun 2025 08:26:15",
-         "title" : "MGD1 Wins 2025 FIDE World Rapid Teams Championship in London"
-      },
-      {
-         "description" : "The Kasparov Chess Foundation Academy is proud to host a live lecture with Nikolaos Ntirlis, bringing one of the most respected minds in chess preparation and training to our virtual stage. Ntirlis is a Greece chess player, author, and trainer, born in 1984, who has established himself as a leading expert in chess openings and engine analysis. Join us on June 15 at 18:00h CET.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-lecture-with-nikolaos-ntirlis",
-         "pubDate" : "Fri, 13 Jun 2025 23:00:00",
-         "title" : "KCF: lecture with Nikolaos Ntirlis"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-4-recap/\">2025 Cairns Cup Day 4 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -298,22 +242,6 @@ news_feed (
          "title" : "Arjun, Pranav, & 'New Pang Bo' Power MGD1 To World Rapid Teams Title"
       },
       {
-         "description" : "Since 2010, the \"Neighbourhood Chess Game\", a project run by the city initiative Wohnpartner Wien, has been bringing people together in a fun way. What began as a small afternoon activity has evolved into a multi-award-winning model of successful neighbourhood engagement. Friendships and new perspectives are formed over queens, bishops and pawns. Chess is a universal language: it connects people and is both calm and lively. | Photo: wohnpartner Team 20",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-a-neighbourhood-chess-game-can-create-an-unexpected-sense-of-community",
-         "pubDate" : "Fri, 13 Jun 2025 13:38:00",
-         "title" : "How a neighbourhood chess game can create an unexpected sense of community"
-      },
-      {
-         "description" : "After two days of play at the World Rapid Team Championship, Team MGD1 leads with 13 points, followed closely by Hexamind and Freedom. A standout performance came from 11-year-old Faustino Oro, while teams like Germany & Friends and Uzbekistan remain in close contention as the event heads into its final stages. | Photo: Dmitry Kollars and Dinara Wagner from Germany & Friends show team spirit | Photos: Rafal Oleksiewicz/FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-rapid-and-blitz-team-championships",
-         "pubDate" : "Fri, 13 Jun 2025 12:36:07",
-         "title" : "FIDE World Rapid and Blitz Team Championships: MGD1 stays ahead in tight race for Rapid Team Title"
-      },
-      {
          "description" : "A week after GM Jeffery Xiong scored the first 11/11 in Freestyle Friday history, this week&#39;s 960 event on Chess.com ended in a three-way tie on nine points. GM Denis Lazavik pulled ahead in the ninth round, but then allowed IMs Eytan Rozen and Ma...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -336,14 +264,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/symetra-wins-2025-north-american-corporate-chess-league",
          "pubDate" : "Fri, 13 Jun 2025 10:35:51",
          "title" : "Beradze, Stukopin Lead Symetra To Corporate League Crown"
-      },
-      {
-         "description" : "Carissa Yip, US Women's Champion in 2021, 2023 and 2024, had a disappointing start to the Cairns Cup, losing one game and drawing another. However, in round three, she secured her first victory against Nino Batsiashvili, albeit with a touch of luck. The other four games in the round ended in draws, leaving Alice Lee as the sole leader with 2.5/3. | Photo: Lennart Ootes/Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-round-3-fortune-smiles-on-carissa-yip",
-         "pubDate" : "Fri, 13 Jun 2025 09:37:39",
-         "title" : "Cairns Cup, Round 3: Fortune smiles on Carissa Yip"
       },
       {
          "description" : "As many as 50 candidates representing state of Gujarat, Maharashtra and Tamil Nadu attended the two days SNA Seminar cum Examination held on 24th &#38;25th",
@@ -392,22 +312,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-3",
          "pubDate" : "Thu, 12 Jun 2025 15:45:00",
          "title" : "Yip Picks Up 1st Win"
-      },
-      {
-         "description" : "15-year-old Alice Lee is the youngest participant in the highly competitive Cairns Cup in Saint Louis and ranked 10th in the seedings, but she nevertheless got off to a flying start with two convincing victories. In round 2, she demonstrated her tactical skills and won with black against former world champion Mariya Muzychuk. The second victory of the round went to Nana Dzagnidze, who beat Bibisara Assaubayeva. The three remaining games ended in draws. This means that Alice Lee has taken the sole lead after two rounds with 2 out of 2. | Photo: Screenshot from a promotional video for the Cairns Cup",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-alice-lee-starts-with-2-out-of-2",
-         "pubDate" : "Thu, 12 Jun 2025 12:43:25",
-         "title" : "Cairns Cup: Alice Lee starts with 2 out of 2"
-      },
-      {
-         "description" : "The FIDE World Rapid and Blitz Team Championships in London bring together the world's best players, ambitious young talent, officials and chess enthusiasts. MGD1, a team consisting mainly of Indian players, were the only team to win all four matches on the first day of the Team Rapid World Championship. It was a day full of action and interesting games, with a number of upsets and surprises. | Photos: Rafal Oleksiewicz/FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-rapid-and-blitz-team-championships-mgd1-leads-with-four-wins",
-         "pubDate" : "Thu, 12 Jun 2025 10:52:22",
-         "title" : "FIDE World Rapid and Blitz Team Championships: MGD1 leads with four wins"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121797920.cms\" />Magnus Carlsen's frustrated reaction to losing against D. Gukesh at Norway Chess 2025 went viral, sparking memes and social media buzz. Carlsen slammed the table, while Gukesh embraced the meme trend, even sharing his favorite one. The incident has highlighted chess's broader appeal and the impact of social media on the sport, engaging enthusiasts and casual observers alike.",
@@ -474,28 +378,12 @@ news_feed (
          "title" : "ECF Level 1 Arbiter Course - September 2025"
       },
       {
-         "description" : "On the Thursday before the Whitsun weekend, Bremen's market square was once again transformed into a large open-air chess tournament hall. 1,300 schoolchildren competed to show what they had learned as part of the Bremen school chess project \"Schach macht schlau!\" (Chess makes smart). At the end of the day, the cup winners were drawn from the winning team. This time, the trophy featuring the Bremen Town Musicians went to Burgdamm School with classes 1c and 2c. | Photos: Nils Rhode",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-makes-smart-1-300-children-on-bremen-s-market-square",
-         "pubDate" : "Wed, 11 Jun 2025 13:31:52",
-         "title" : "Chess makes smart: 1,300 children on Bremen's market square!"
-      },
-      {
          "description" : "GM Hans Niemann began the early Titled Tuesday on 10/10 on his way to victory by half a point over GM Magnus Carlsen, but Carlsen would take his revenge by winning in the late tournament on 10/11. Each player defeated the other in the 10th round o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/niemann-carlsen-win-titled-tuesday-june-9-2025",
          "pubDate" : "Wed, 11 Jun 2025 11:04:05",
          "title" : "Niemann And Carlsen Clash In Titled Tuesday"
-      },
-      {
-         "description" : "The Cairns Cup in Saint Louis, one of the strongest women's tournaments of the year, began with a promising start: all five games in the first round ended decisively. There were also a few minor surprises. Alice Lee (pictured), the youngest participant at just 15 years old and number 10 seed, scored a convincing victory against Nino Batsiashvili. Meanwhile, top seed and 2024 Cairns Cup winner Tan Zhongyi suffered a setback, losing with the white pieces to Alina Kashlinskaya after landing in a difficult position as early as move 21. | Photo: Tournament page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-five-wins-in-round-1",
-         "pubDate" : "Wed, 11 Jun 2025 10:14:48",
-         "title" : "Cairns Cup: Five wins in round 1"
       },
       {
          "description" : "The ECF is inviting one player per section to participate as our official representative in the FIDE World Cadet Championships in Almaty, Kazakhstan (18 September to 1 October, 2025). Other...",
@@ -520,14 +408,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2025-ecf-awards/",
          "pubDate" : "Wed, 11 Jun 2025 08:00:39",
          "title" : "2025 ECF Awards"
-      },
-      {
-         "description" : "Among ChessBase products the Big DataBase stands in its own right. Unlike the MegaBase it has no annotations. This paves the way for independent study and preparation, and helps the player to hone skills on his own. The present edition offers 11 million games from 1475 to November 2024. In this vast collection there are games from world championships, famous tournaments, past and present, not to mention little-known events that deserve greater recognition. There are magnificent battles, brilliancies and unknown gems all waiting to be discovered. Our columnist here introduces a few rare gems.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/big-database-2025-review-nagesh-havanur",
-         "pubDate" : "Wed, 11 Jun 2025 07:35:56",
-         "title" : "Big DataBase 2025: In search of a treasure trove"
       },
       {
          "description" : "Steve Rigby, the founder of Oldham-based 3Cs Chess Club over forty-six years ago, has been awarded the British Empire Medal in the 2025 King's New Year's Honours for services to...",
@@ -586,14 +466,6 @@ news_feed (
          "title" : "The whole chess world is yours!"
       },
       {
-         "description" : "\"Enjoy the best game. Ever.\" That's the slogan of the \"New in Chess Magazine\" - and the current issue lives up to that promise. It explores the question of whether Boris Spassky would have preferred to be buried next to Bobby Fischer, features in-depth interviews with Hikaru Nakamura and Aravindh Chithambaram, and includes the magazine's regular columns offering training advice and entertaining insights from the world of chess. Informative and engaging.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/entertaining-playful-timeless-the-new-in-chess-magazine-3-2025-is-out",
-         "pubDate" : "Tue, 10 Jun 2025 10:20:52",
-         "title" : "Entertaining, playful, timeless - The \"New in Chess Magazine\" #3/2025"
-      },
-      {
          "description" : "We&#39;re excited to announce one of our most game-changing features yet: Introducing Play Coach, our first-ever AI opponent that actually teaches you while you play! Play unlimited games against your new virtual teacher who can play at your level, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -602,28 +474,12 @@ news_feed (
          "title" : "NEW FEATURE: Play Coach Now Available On Chess.com"
       },
       {
-         "description" : "Blending culture, history and chess, the \"Clash of Generations\" match in Pietrasanta, Italy, formed the centrepiece of the Chess Roads Festival. Held at the historic La Versiliana venue and featuring a ceremonial opening with rare chessboards, traditional carriages and the presence of Andrea Bocelli (pictured, during the simultaneous exhibition), the event celebrated the game's artistic and cultural legacy. On the board, five-time World Champion Viswanathan Anand defeated 11-year-old Faustino Oro 2-0 in a match marked by professionalism and mutual respect.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anand-oro-match-pietrasanta-2025",
-         "pubDate" : "Tue, 10 Jun 2025 02:00:00",
-         "title" : "Vishy Anand and Faustino Oro meet in Pietrasanta, Italy"
-      },
-      {
          "description" : "This week's puzzles come from the 12th Cherry Blossom Classic, which was featured in our Memorial Day wrap-up. While the later rounds of competitive opens usually feature the most level match-ups - with top grandmasters going at it for a shot at the biggest prizes - the early rounds of these tournaments often produce the best material for learning tactics. We've all had the experience of holding on for a while against higher-rated players before blundering a tactic. These tournaments allow us to see what types of mistakes strong players make when competing against even stronger competition. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-cherry-blossom-classic",
          "pubDate" : "Tue, 10 Jun 2025 00:00:00",
          "title" : "Tactics Tuesday: Cherry Blossom Classic"
-      },
-      {
-         "description" : "The Cairns Cup returns to Saint Louis for its fifth edition, featuring ten of the world's leading female players in a nine-round classical tournament. With a record prize fund of $250,000 and a playoff in place to decide any tie for first, the event continues to highlight elite women's chess. Top seeds include Tan Zhongyi, Humpy Koneru, Bibisara Assaubayeva and Nana Dzagnidze. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2025-preview",
-         "pubDate" : "Mon, 09 Jun 2025 20:45:00",
-         "title" : "Starting Tuesday: Fifth edition of the Cairns Cup with Tan, Humpy and Assaubayeva"
       },
       {
          "description" : "The European School Chess Championship 2025 took place from 29 May to 8 June at the Complex Amiral - Comandor - Orfeu in Mamaia, Romania. The event was played in six age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, with the participation of more than 200 players coming from 14 European federations. Mete Aras Akbudak (TUR) emerged as the sole Winner of the U7 category with the score of 8 points and clinched gold []",
@@ -978,14 +834,6 @@ news_feed (
          "title" : "Gukesh beats Carlsen for the first time in classical chess after a great turnaround in fortunes - 6"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121568121.cms\" />Gukesh pulled off a stunning victory against the former world number one in the sixth round of the ongoing Norway Chess 2025 tournament, turning the game around from a losing position on Sunday. This marked Gukesh's first-ever classical win over the Norwegian grandmaster. The 19-year-old also became the second Indian player to beat Carlsen in the competition's history after Rameshbabu Praggnanandhaa.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/his-aim-is-to-become-number-one-gukeshs-grandfather-after-grandsons-win-over-magnus-carlsen-at-norway-chess/articleshow/121568121.cms",
-         "pubDate" : "Mon, 02 Jun 2025 09:00:51",
-         "title" : "\"His aim is to become number one....\": Gukesh's grandfather after grandson's win over Magnus Carlsen at Norway chess"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121560361.cms\" />D Gukesh achieved a stunning victory over Magnus Carlsen in Round 6 of Norway Chess, marking his first classical win against the former World No. 1. Carlsen faltered in the endgame, allowing Gukesh to capitalise despite acknowledging his losing position. This win propelled Gukesh to third place in the standings, intensifying the competition as the tournament nears its conclusion.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1104,14 +952,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2025-northumbria-masters-1st-darlington-chessfest/",
          "pubDate" : "Wed, 28 May 2025 13:41:05",
          "title" : "2025 Northumbria Masters & 1st Darlington ChessFest"
-      },
-      {
-         "description" : "The European Chess Union, in cooperation with Chessdom.com and its Chess Calendar, have launched a new calendar on their official website. You can find it at https://www.europechess.org/calendar/ The calendar includes all ECU events from 2014 with detailed information and links to the official websites and/or results. It also has sections for 2026 and 2027 events, which will be timely updated.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/new-calendar-of-the-european-chess-union/",
-         "pubDate" : "Tue, 27 May 2025 08:04:48",
-         "title" : "New ECU Calendar"
       }
    ]
 }
