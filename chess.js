@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Uzbek Chess Federation is organizing the UzChess Cup again. It is taking place in Tashkent from June 19 to 27, and is a major chess festival featuring three invitational tournaments - Masters, Challengers, and Futures - as well as an Open tournament. The Masters tournament is particularly strong. Four of the top five Uzbek players will compete against six international top players.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/strong-lineup-at-the-uzchess-cup-in-tashkent",
+         "pubDate" : "Wed, 18 Jun 2025 13:59:13",
+         "title" : "Strong Lineup at the UzChess Cup in Tashkent"
+      },
+      {
          "description" : "The Cairns Cup in Saint Louis remains exciting. With two rounds to go, Humpy Koneru, Carissa Yip, and Alice Lee are tied for the lead with 4.5 points out of 7. Trailing by just half a point are Harika Dronavalli and Alina Kashlinskaya. In round 7, Carissa Yip won a tactical skirmish against Humpy Koneru, while Alice Lee capitalized on Alina Kashlinskaya's overly aggressive attacking play. The other three games ended in draws, but Harika Dronavalli (pictured), Nino Batsiashvili, and Nana Dzagnidze all missed promising opportunities. | Photo: Lennart Ootes/Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/17th-ibca-chess-olympiad-for-blind-and-visually-impaired-players/",
          "pubDate" : "Wed, 18 Jun 2025 08:07:22",
          "title" : "17th IBCA Chess Olympiad for Blind and Visually Impaired Players"
+      },
+      {
+         "description" : "A week after&#38;nbsp;GMs Hans Niemann and Magnus Carlsen&#38;nbsp;won Titled Tuesday on June 10, Titled Tuesday on June 17 was won by... Carlsen and Niemann. This week, Carlsen scored 10.5 points in the early event, winning by a full point ahead of GMs A...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-niemann-win-titled-tuesday-june-17-2025",
+         "pubDate" : "Wed, 18 Jun 2025 07:36:46",
+         "title" : "The Magnus And Hans Show Continues In Titled Tuesday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121922464.cms\" />In a captivating encounter at the Delhi International GM Open Chess Tournament 2025, 80-year-old Rani Hamid, a Bangladeshi chess legend, faced 13-year-old prodigy Balaji Sudarshan. Despite a recent string of losses, Hamid's spirit remained undeterred. Sudarshan's skill led to Hamid's defeat, but the two engaged in a post-game analysis, transcending their age gap through their shared passion for chess.",
@@ -62,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-7",
-         "pubDate" : "Tue, 17 Jun 2025 21:59:43",
+         "pubDate" : "Tue, 17 Jun 2025 21:59:00",
          "title" : "American Duo Lee, Yip Topple Leaders"
       },
       {
@@ -618,14 +634,6 @@ news_feed (
          "title" : "Woodward Wins Under 16 ChessKid Youth Championship"
       },
       {
-         "description" : "Get ready for one of Chess.com&#39;s most intense and dramatic events! The 2025 Bullet Chess Championship (BCC) kicks off this June and will feature a $50,000 prize fund and some of the most dangerous bullet specialists in the world. The event bring...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-bullet-chess-championship-2025",
-         "pubDate" : "Mon, 09 Jun 2025 08:00:00",
-         "title" : "Returning Champion Alireza Firouzja Spearheads 2025 Bullet Chess Championship"
-      },
-      {
          "description" : "Almaty, Kazakhstan 18th September to 1st October, 2025 Special Note: If a player has only&#160;one accompanying person, then he/she must pay for double sharing amount",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1000,14 +1008,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-congress-and-general-assembly-2025/",
          "pubDate" : "Thu, 29 May 2025 08:46:18",
          "title" : "ECU Congress and General Assembly 2025"
-      },
-      {
-         "description" : "Entries are now open for the 2025 Northumbria Masters (20-25 August at Darlington's Dolphin Centre), a six-day, nine-round FIDE-rated congress at https://northumbriamasters.com.&#160;Tournaments include Open Super-Swiss (eligible for title norms), Challengers...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2025-northumbria-masters-1st-darlington-chessfest/",
-         "pubDate" : "Wed, 28 May 2025 13:41:05",
-         "title" : "2025 Northumbria Masters & 1st Darlington ChessFest"
       }
    ]
 }
