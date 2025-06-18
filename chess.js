@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Titled Tuesday Blitz of 17th June saw Magnus Carlsen win the early and Hans Niemann win the late. Carlsen's win in the early was a little unusual in that he met all his closest rivals beating Aleksei Sarana in round 7, Jeffery Xiong in round 8, Alireza Firouzja in round 9 and Hans Niemann in round 10 (these finished 2nd-5th). Carlsen drew the final round to finish on 10.5/11. Hans Niemann won the late with 10/11 beating Nakamura in round 9 and drawing with second place Fabiano Caruana in round 10. Games in PGN available for download but they're a bit large to display. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-17th-june-2025",
+         "pubDate" : "Wed, 18 Jun 2025 19:45:00",
+         "title" : "Titled Tuesday Blitz 17th June 2025 - Games and Results"
+      },
+      {
+         "description" : " Hans Niemann immediately challenged Anish Giri again after his <a href=\"https://theweekinchess.com/chessnews/events/hans-moke-niemann-vs-anish-giri-rematch-2025\">18 game blitz rematch on June 4th</a> and this took place on June 18th. Since I can't call everything a rematch I decided to call this a rerematch. After trading wins in the first four games and then having two draws, Giri won six of the last seven games. Even in the drawn game 8 Giri had a winning position for Giri but due to the 50 move rule the game finished in a draw. Only 13 of the schedule 18 games were required for a 9.5-3.5 win for Giri. Niemann can be counted on for a pithy summary, today it was: \"Bad day, very bad day, I'",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/niemann-giri-rerematch-2025",
+         "pubDate" : "Wed, 18 Jun 2025 19:14:00",
+         "title" : "Niemann-Giri Rerematch 2025 - Games and Results"
+      },
+      {
+         "description" : "The Cairns Cup is taking place on June 10-20 at the World Chess Hall of Fame. Tan Zhongyi, Humpy Koneru and Bibisara Assaubayeva are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $250,000. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2025-live",
+         "pubDate" : "Wed, 18 Jun 2025 19:00:00",
+         "title" : "Cairns Cup, Round 8 - Live!"
+      },
+      {
+         "description" : "Those who prepare well in the summer will be ready for tournaments in the fall and winter - or for summer opens as well. The Neo-London System is a powerful weapon that allows White to take control of the game right from the start - slightly sharper than the traditional London System. In her Fritztrainer, Elisabeth P&auml;htz explains how it works. Part of this week's Summer Special for only €34.90 (instead of €49.90).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/elisabeth-paehtz-neo-london-this-week-s-summer-special-only-34-90",
+         "pubDate" : "Wed, 18 Jun 2025 17:35:30",
+         "title" : "Elisabeth P&auml;htz: Neo-London - This week's summer special: only €34.90"
+      },
+      {
          "description" : "The Uzbek Chess Federation is organizing the UzChess Cup again. It is taking place in Tashkent from June 19 to 27, and is a major chess festival featuring three invitational tournaments - Masters, Challengers, and Futures - as well as an Open tournament. The Masters tournament is particularly strong. Four of the top five Uzbek players will compete against six international top players.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,6 +98,14 @@ news_feed (
          "title" : "Deshmukh stuns chess world No. 1 Yifan at World Team Blitz Championship"
       },
       {
+         "description" : "This week's puzzles all continue our series from the still-in-progress 2025 Cairns Cup (preview here, recap here). For more puzzles, also check out yesterday's Tactics Tuesday worksheet from this same event. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> All photos from round 7 courtesy of Lennart Ootes/SLCC, except photo of Yip at the board (courtesy of Crystal Fuller/SLCC)<br> <br> With two rounds to play, American IMs Carissa Yip and Alice ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-lee-and-yip-atop-cairns-standings-after-7-rounds",
+         "pubDate" : "Wed, 18 Jun 2025 00:00:00",
+         "title" : "Wednesday Workout: Lee and Yip atop Cairns Standings After 7 Rounds"
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-7-recap/\">2025 Cairns Cup - Day 7 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -80,14 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-7",
          "pubDate" : "Tue, 17 Jun 2025 21:59:00",
          "title" : "American Duo Lee, Yip Topple Leaders"
-      },
-      {
-         "description" : "The Cairns Cup is taking place on June 10-20 at the World Chess Hall of Fame. Tan Zhongyi, Humpy Koneru and Bibisara Assaubayeva are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $250,000. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2025-live",
-         "pubDate" : "Tue, 17 Jun 2025 19:00:00",
-         "title" : "Cairns Cup, Round 7 - Live!"
       },
       {
          "description" : "Master Your Technique Vol. 2 by Adrian Mikhalchishin takes you deeper into the technical foundations of practical chess, focusing on converting advantages and mastering key endgame and middlegame imbalances. Through structured lessons and model games, you'll learn crucial skills like precise endgame technique, double attacks, attacking on open files, and the principle of two weaknesses. This course is ideal for ambitious players who want to turn good positions into wins with confidence and clarity.",
@@ -168,14 +200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-6",
          "pubDate" : "Mon, 16 Jun 2025 22:50:00",
          "title" : "Humpy Leads After All-Decisive Round 6"
-      },
-      {
-         "description" : "Those who prepare well in the summer will be ready for tournaments in the fall and winter - or for summer opens as well. The Neo-London System is a powerful weapon that allows White to take control of the game right from the start - slightly sharper than the traditional London System. In her Fritztrainer, Elisabeth P&auml;htz explains how it works. Part of this week's Summer Special for only €34.90 (instead of €49.90).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/elisabeth-paehtz-neo-london-this-week-s-summer-special-only-34-90",
-         "pubDate" : "Mon, 16 Jun 2025 17:35:30",
-         "title" : "Elisabeth P&auml;htz: Neo-London - This week's summer special: only €34.90"
       },
       {
          "description" : "The International Schools Chess Festival will take place in Romania from 30th June to 6th July 2025 (direct flights from Luton).&#160; The organisers are looking for one English school to...",
@@ -890,14 +914,6 @@ news_feed (
          "title" : "ECF's President's Award for Services to Chess - Roger Lancaster"
       },
       {
-         "description" : "Former US Champion Sam Shankland Becomes 2025 American Continental ChampionFOZ DO IGUAÇU, BRAZIL-The FIDE Americas Tournament Committee seems to have been more deliberate in selecting the location of the annual American Continental Championship as of late. While there were no Olympic torch ceremonies or former world champions in attendance, this year's edition was breathtakingly situated barely an hour away from Iguazu Falls, often deemed one of the \"natural wonders of the world.\" <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Iguazu Falls, which are situated on the border of Brazil, Argentina, and Paraguay (Photo courtesy of PICRYL, Creative Commons",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/shankland-wins-2025-american-continental-qualifies-world-cup",
-         "pubDate" : "Wed, 04 Jun 2025 00:00:00",
-         "title" : "Shankland Wins 2025 American Continental, Qualifies for World Cup"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121587569.cms\" />D Gukesh prevailed over Arjun Erigaisi at Norway Chess, his first classical win against him, propelling him to second place. Fabiano Caruana leads the tournament after defeating Wei Yi. Magnus Carlsen secured third place with an Armageddon win over Hikaru Nakamura. Gukesh's win over Erigaisi comes on the back of a win over Magnus Carlsen, where the World No 1 lost his afterwards.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -944,22 +960,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/clash-of-generations-2025",
          "pubDate" : "Sun, 1 Jun 2025 20:04:00",
          "title" : "Clash of Generations 2025 - Games and Results"
-      },
-      {
-         "description" : " All the games of the fifth round of the <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">Norway Chess</a> tournament were drawn. Hikaru Nakamura had a big advantage against Arju Erigaisi but 27...Nd7? (Na6!) threw away his chances. Wei Yi too was close to winning against Gukesh until 29.Qd2? (b7!) Fabiano Caruana was pushing for a while against Magnus Carlsen but the position then became close to equal. 43...g5? was a serious error from Carlsen and if Caruana had found 44.Ke3 he would have been winning according to the engines, although I'm not sure it was that easy to work out. Erigaisi, Wei Yi and Carlsen won the Armageddon tie-break games. Carlsen leads on 9.5",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/magnus-continues-to-lead-the-norway-chess-tournament-after-five-rounds",
-         "pubDate" : "Sun, 1 Jun 2025 14:27:00",
-         "title" : "Magnus continues to lead the Norway Chess tournament after five rounds - "
-      },
-      {
-         "description" : " The 18th American Continental took place Fri 23rd to Sat 31st May 2025 in Foz do Iguacu, Brazil. The event was won by Sam Shankland on tie-break from Jose Eduardo Martinez Alcantara, Alexandr Fier and Jose Gabriel Cardoso Cardoso, these top four qualified for the FIDE World Cup and scored 8.5/11, as did Cristobal Henriquez Villagra, Luis Paulo Supi and Santiago Avila Pavas. Alexandr Fier won the final of the blitz with 7.5/9.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/18th-american-continental-2025",
-         "pubDate" : "Sat, 31 May 2025 19:57:00",
-         "title" : "18th American Continental 2025 - Games and Results"
       },
       {
          "description" : "It's fascinating how many questions I ask myself that I actually already know the answers to. &#8220;If more information was the answer, we'd all be billionaires with perfect abs.&#8221; Derek Sivers Like many of my students, I often fall into the trap of searching for the \"perfect\" answer to a question. I'll spend hours []",
