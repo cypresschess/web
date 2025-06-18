@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2nd Uzchess Cup takes place in Tashkent, Uzbekistan, 19th to 27th June. There are three round robin tournaments and an open. Players: Masters: Arjun, Erigaisi,Nodirbek Abdusattorov, Praggnanandhaa, Ian Nepomniachtchi, Chithambaram V Aravindh, Richard Rapport, Javokhir Sindarov,Parham Maghsoodloo, Nodirbek Yakubboev,Shamsiddin Vokhidov. The Challengers has Vasyl Ivanchuk as top seed.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/2nd-uzchess-cup-2025",
+         "pubDate" : "Wed, 18 Jun 2025 22:56:00",
+         "title" : "2nd Uzchess Cup 2025 - Games and Results"
+      },
+      {
          "description" : " The Titled Tuesday Blitz of 17th June saw Magnus Carlsen win the early and Hans Niemann win the late. Carlsen's win in the early was a little unusual in that he met all his closest rivals beating Aleksei Sarana in round 7, Jeffery Xiong in round 8, Alireza Firouzja in round 9 and Hans Niemann in round 10 (these finished 2nd-5th). Carlsen drew the final round to finish on 10.5/11. Hans Niemann won the late with 10/11 beating Nakamura in round 9 and drawing with second place Fabiano Caruana in round 10. Games in PGN available for download but they're a bit large to display. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/elisabeth-paehtz-neo-london-this-week-s-summer-special-only-34-90",
          "pubDate" : "Wed, 18 Jun 2025 17:35:30",
          "title" : "Elisabeth P&auml;htz: Neo-London - This week's summer special: only €34.90"
+      },
+      {
+         "description" : "Grandmasters Rasmus Svane, Denis Lazavik, Pranesh M, and Martyn Kravtsiv advanced from the Swiss stage to the knockouts in the hopes of reaching the Freestyle Chess Grand Slam Las Vegas tournament. In tomorrow&#39;s knockout stage, they will be joined...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/svane-lazavik-pranesh-and-kravtsiv-qualify-for-vegas-knockout",
+         "pubDate" : "Wed, 18 Jun 2025 15:22:36",
+         "title" : "Svane, Lazavik, Pranesh And Kravtsiv Qualify For Vegas Knockout"
       },
       {
          "description" : "The Uzbek Chess Federation is organizing the UzChess Cup again. It is taking place in Tashkent from June 19 to 27, and is a major chess festival featuring three invitational tournaments - Masters, Challengers, and Futures - as well as an Open tournament. The Masters tournament is particularly strong. Four of the top five Uzbek players will compete against six international top players.",
@@ -650,14 +666,6 @@ news_feed (
          "title" : "5th Cairns Cup 2025 - Games and Results"
       },
       {
-         "description" : "Fifteen-year-old GM Andy Woodward won the 2025 Under 16 ChessKid Youth Championship after beating 14-year-old GM Yagiz Kaan Erdogmus in the Final. It was payback against last year&#39;s winner, who eliminated Woodward in the 2024 Semifinals. Woodward ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-chesskid-youth-championships-under-16-woodward-wins",
-         "pubDate" : "Mon, 09 Jun 2025 14:32:00",
-         "title" : "Woodward Wins Under 16 ChessKid Youth Championship"
-      },
-      {
          "description" : "Almaty, Kazakhstan 18th September to 1st October, 2025 Special Note: If a player has only&#160;one accompanying person, then he/she must pay for double sharing amount",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -952,14 +960,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/french-interclubs-top-16-2025",
          "pubDate" : "Sun, 1 Jun 2025 20:20:00",
          "title" : "French Interclubs Top 16 2025 - Games and Results"
-      },
-      {
-         "description" : " A two game \"Clash of Generations\" exhibition match was played between Viswanathan Anand and 11 year old IM Faustino Oro in Marina di Pietrasanta, Italy on June 1st. Anand with his 300 point rating advantage needed to win this 2-0 and did so. Time control 10m + 3spm.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/clash-of-generations-2025",
-         "pubDate" : "Sun, 1 Jun 2025 20:04:00",
-         "title" : "Clash of Generations 2025 - Games and Results"
       },
       {
          "description" : "It's fascinating how many questions I ask myself that I actually already know the answers to. &#8220;If more information was the answer, we'd all be billionaires with perfect abs.&#8221; Derek Sivers Like many of my students, I often fall into the trap of searching for the \"perfect\" answer to a question. I'll spend hours []",
