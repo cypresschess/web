@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121922464.cms\" />In a captivating encounter at the Delhi International GM Open Chess Tournament 2025, 80-year-old Rani Hamid, a Bangladeshi chess legend, faced 13-year-old prodigy Balaji Sudarshan. Despite a recent string of losses, Hamid's spirit remained undeterred. Sudarshan's skill led to Hamid's defeat, but the two engaged in a post-game analysis, transcending their age gap through their shared passion for chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-if-there-were-chess-tournaments-in-bangladesh-why-would-i-come-to-india-80-year-old-rani-hamid/articleshow/121922464.cms",
+         "pubDate" : "Wed, 18 Jun 2025 05:47:25",
+         "title" : "Exclusive | 'Why would I come to India if Bangladesh had chess tournaments?': 80-yo Rani Hamid"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation &#38;&#160;Maharashtra Chess Association ,the &#160;Ahmednagar District Chess Circle&#160;is organizing Senior National Arbiters Seminar &#38; Exam &#160;at Iris Premiere,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-examination-in-ahmednagar-ahilya-nagar-maharashtra-on-12-13-july-2025/",
+         "pubDate" : "Wed, 18 Jun 2025 05:11:49",
+         "title" : "Senior National Arbiter Seminar & Examination in Ahmednagar (Ahilya Nagar), Maharashtra on 12 & 13 July 2025."
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121921962.cms\" />Fabiano Caruana has downplayed the hype around India's young chess stars, saying Gukesh and Arjun Erigaisi aren't \"scary\" opponents yet. Despite their rise, Caruana believes the likes of Magnus, Hikaru, and Aronian still hold the edge, suggesting the generational shift in chess isn't happening just yet.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-fabiano-caruana-takes-a-dig-at-19-year-old-indian-world-champion-d-gukesh-not-scary-yet/articleshow/121921962.cms",
+         "pubDate" : "Wed, 18 Jun 2025 03:49:55",
+         "title" : "Chess | Fabiano Caruana takes a dig at D Gukesh - 'not scary yet'"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121921875.cms\" />Divya Deshmukh, the world junior number one, delivered a stunning performance by defeating world number one Hou Yifan of China at the World Blitz Team Chess Championship in London. Representing Hexamind Chess Club, Divya avenged her earlier loss to Yifan, who played for WR Chess Team, securing a crucial victory.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-stuns-chess-world-no-1-hou-yifan-at-world-team-blitz-championship/articleshow/121921875.cms",
+         "pubDate" : "Wed, 18 Jun 2025 03:44:26",
+         "title" : "Deshmukh stuns chess world No. 1 Yifan at World Team Blitz Championship"
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-7-recap/\">2025 Cairns Cup - Day 7 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-7-recap/",
          "pubDate" : "Tue, 17 Jun 2025 22:25:47",
          "title" : "2025 Cairns Cup - Day 7 Recap"
+      },
+      {
+         "description" : "After yet another shakeup at the Cairns Cup 2025, we have three leaders: GM Koneru Humpy, IM Carissa Yip, and IM Alice Lee. Yip defeated Humpy, while Lee took down second-place IM Alina Kashlinskaya. All three draws featured a winning advantage ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-7",
+         "pubDate" : "Tue, 17 Jun 2025 21:59:43",
+         "title" : "American Duo Lee, Yip Topple Leaders"
       },
       {
          "description" : "The Cairns Cup is taking place on June 10-20 at the World Chess Hall of Fame. Tan Zhongyi, Humpy Koneru and Bibisara Assaubayeva are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $250,000. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
@@ -106,7 +146,7 @@ news_feed (
          "title" : "Elisabeth P&auml;htz: Neo-London - This week's summer special: only €34.90"
       },
       {
-         "description" : "The International Schools Chess Festival will take place in Romania from 30th June to 6th July 2025 (direct flights from Luton). Accommodation and food will be free for any school...",
+         "description" : "The International Schools Chess Festival will take place in Romania from 30th June to 6th July 2025 (direct flights from Luton).&#160; The organisers are looking for one English school to...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/international-schools-chess-festival-romania-30th-june-6th-july-2025/",
@@ -602,14 +642,6 @@ news_feed (
          "title" : "Norman Rogers shines at 2025 Chicago Open"
       },
       {
-         "description" : "GM Magnus Carlsen&#38;rsquo;s seventh Norway Chess win was one of his most memorable yet, partly for the dramatic finale but mainly for the rivalry with World Champion Gukesh Dommaraju. Carlsen won their round-one clash, but in round six Gukesh beat h...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/norway-chess-2025-carlsen-gukesh-conclusions",
-         "pubDate" : "Sun, 08 Jun 2025 14:03:00",
-         "title" : "Carlsen Survives Gukesh Drama To Win Norway Chess 2025: 7 Conclusions"
-      },
-      {
          "description" : "A new book from the Elk and Ruby stable joins the Willy Hendricks analysis of the relationship between Tarrasch and Nimzowitsch as an undoubted candidate for ECF Book of the Year. Packed with new information, original documents and fresh insights, Alexander Alekhine, The Russian Sphinx, Volume 1, by Sergey Voronkov, adds entirely new dimensions to the []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -866,14 +898,6 @@ news_feed (
          "title" : "Gukesh beats Carlsen for the first time in classical chess after a great turnaround in fortunes - 6"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121560361.cms\" />D Gukesh achieved a stunning victory over Magnus Carlsen in Round 6 of Norway Chess, marking his first classical win against the former World No. 1. Carlsen faltered in the endgame, allowing Gukesh to capitalise despite acknowledging his losing position. This win propelled Gukesh to third place in the standings, intensifying the competition as the tournament nears its conclusion.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-magnus-carlsen-bangs-fist-on-board-after-loss-to-d-gukesh-at-norway-chess-leaves-in-a-huff/articleshow/121560361.cms",
-         "pubDate" : "Mon, 02 Jun 2025 03:17:47",
-         "title" : "Watch: Carlsen bangs fist on board after shock loss to D Gukesh"
-      },
-      {
          "description" : " The Norway Chess Open took place 26th May to 1st June 2025. Gergely Kantor and Elham Amar were the top seeds. Vitaly Kunin edged out Lev Yankelevich and Torben Knuedel on tie-break after all scored 7/9. Long time leader Platon Galperin lost in the final round to Knuedel. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -906,14 +930,6 @@ news_feed (
          "title" : "Magnus continues to lead the Norway Chess tournament after five rounds - "
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121545751.cms\" />Magnus Carlsen extended his lead at Norway Chess with an Armageddon win over Fabiano Caruana, while Koneru Humpy took the sole lead in the women's section. Hikaru Nakamura suffered a painful loss, and Wei Yi secured another Armageddon victory.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-magnus-carlsen-stays-top-of-standings-koneru-humpy-takes-sole-lead/articleshow/121545751.cms",
-         "pubDate" : "Sun, 01 Jun 2025 05:08:06",
-         "title" : "Norway Chess: Carlsen stays top of standings; Humpy takes sole lead"
-      },
-      {
          "description" : " The 18th American Continental took place Fri 23rd to Sat 31st May 2025 in Foz do Iguacu, Brazil. The event was won by Sam Shankland on tie-break from Jose Eduardo Martinez Alcantara, Alexandr Fier and Jose Gabriel Cardoso Cardoso, these top four qualified for the FIDE World Cup and scored 8.5/11, as did Cristobal Henriquez Villagra, Luis Paulo Supi and Santiago Avila Pavas. Alexandr Fier won the final of the blitz with 7.5/9.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -936,14 +952,6 @@ news_feed (
          "link" : "https://www.thearticle.com/freestyle-chess-versus-draughts/",
          "pubDate" : "Sat, 31 May 2025 10:13:10",
          "title" : "'Freestyle Chess' versus Draughts"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121532393.cms\" />Magnus Carlsen, the world's top-ranked chess player, has praised the rising stars of Indian chess, including D Gukesh, R Praggnanandhaa, and Arjun Erigaisi, highlighting the bright future of the sport in India. Carlsen secured a victory against Erigaisi in the Norway Chess 2025 tournament, where he currently leads.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/future-is-very-bright-for-indian-chess-world-no-1-magnus-carlsen-at-norway-chess-2025/articleshow/121532393.cms",
-         "pubDate" : "Sat, 31 May 2025 08:18:44",
-         "title" : "'Future is very bright for Indian chess': World No. 1 Magnus Carlsen"
       },
       {
          "description" : " Home hope leads after four rounds at Stavanger following his comprehensive victory in the Speed Championship Magnus Carlsen arrived in vintage form at the start of the Norway Chess tournament. The encounter began inconclusively with the six stars - in ranking order Carlsen, Hikaru Nakamura, Fabiano Caruana, Arjun Erigaisi, Gukesh Dommaraju and Wei Yi - all launching a win or two. Gukesh, who celebrated his 19th birthday on Thursday, won in round three against Nakamura. Carlsen's version of one of Bobby Fischer's favourite openings set the tone last week for another clean sweep of the No 1 of the global elite. Carlsen's comprehensive victory in the <a href=\"http://chess.com/\">chess.com</a> S",
