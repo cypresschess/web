@@ -10,6 +10,14 @@ news_feed (
          "title" : "Cairns Cup, Round 9 - Live!"
       },
       {
+         "description" : "GM Magnus Carlsen tops the first-ever Freestyle Chess rating list, hitting the 2900 barrier after dominating the chess variant in his latest events.&#38;nbsp; Already the world number-one in FIDE&#39;s official classical, rapid, and blitz ratings, the 3...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-hits-2900-as-new-freestyle-chess-ratings-are-published",
+         "pubDate" : "Thu, 19 Jun 2025 13:02:00",
+         "title" : "Magnus Carlsen Hits 2900 As Freestyle Chess Introduces New Ratings"
+      },
+      {
          "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring Vasyl Ivanchuk), a Futures, and an Open will be held - modeled after the Tata Steel tournaments. Live coverage daily from 11:00 CEST (Round 1 starts at 11:30, final round at 8:00).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-8",
          "pubDate" : "Thu, 19 Jun 2025 00:04:00",
          "title" : "Yip Leads Ahead Of Final Round Vs. Lee"
+      },
+      {
+         "description" : "Editor's note: This report will be updated with photos and any additional relevant information on Friday, June 20. The final round concluded earlier this afternoon. With a GM norm up for grabs in Asuncion, Paraguay, Americans swept the podium in the 2025 Under-20 Pan-American Chess Championship Open section. The race for gold came down to two 18-year-old New Yorkers, with IM Jason Liang winning a marathon game to clinch clear first with 7&frac12;/9, a half-point ahead of IM Nico Chasin (read more about direct titles and norms here).Rounding out the podium in clear third was Oregonian WGM Zoey Tang, who boasted a strong 6&frac12;/9 score and earned an IM norm for her efforts.While Tang could ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/americans-sweep-podium-2025-under-20-pan-american-open-championship",
+         "pubDate" : "Thu, 19 Jun 2025 00:00:00",
+         "title" : "Breaking: Americans Sweep Podium at 2025 Under-20 Pan-American Open Championship"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-8-recap/\">2025 Cairns Cup Day 8 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -650,14 +666,6 @@ news_feed (
          "title" : "Wednesday Workout: Cairns Cup, Rd. 1"
       },
       {
-         "description" : "All five games were decisive in round one of the Cairns Cup 2025. In the lead are GM Koneru Humpy, GM Harika Dronavalli, IM Alina Kashlinskaya, GM-elect Bibisara Assaubayeva, and IM Alice Lee after winning, respectively, against GM Nana Dzagnidze,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-1",
-         "pubDate" : "Tue, 10 Jun 2025 17:39:00",
-         "title" : "All-Decisive Round Ends With 5 Early Leaders"
-      },
-      {
          "description" : "The ECU E-Magazine May 2025 is out! In this edition of the ECU E-Magazine you may read about: ECU E-Magazine May 2025 can be read online together with interactive links on the following link or it can be downloaded in PDF format below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -882,14 +890,6 @@ news_feed (
          "title" : "Norway Chess | Carlsen on losing against Gukesh: 'My tournament was over'"
       },
       {
-         "description" : "\"This will be the strongest chess tournament in Nebraska history,\" FM Rod Malpert declared at the May 30 banquet honoring the 2024 inductees to the Nebraska Chess Hall of Fame.At this bold declaration, I was reminded of Bill Bryson's quip, \"I come from Des Moines. Somebody had to.\" While a bit to the west of Iowa, many chess players (particularly younger ones) would likely feel similarly about the coronation of a \"strongest-ever\" tournament in a sparsely populated state not particularly known for its chess.This is the strongest tournament in Nebraska history, I imagined the announcement going. After all, some tournament had to be.Self-depreciating humor from the Cornhusker state aside, this ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/nebraska-hall-fame-tournament-celebrates-past-present-and-future-midwest-chess",
-         "pubDate" : "Fri, 06 Jun 2025 00:00:00",
-         "title" : "Nebraska Hall of Fame Tournament Celebrates Past, Present, and Future of Midwest Chess"
-      },
-      {
          "description" : "This year, students from across the UK and Europe will compete in virtual qualifiers for a chance to reach the live finals in Amsterdam on 17 September-where the top players...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1008,14 +1008,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/may/30/magnus-carlsen-norway-chess",
          "pubDate" : "Fri, 30 May 2025 07:00:48",
          "title" : "Magnus Carlsen sets early pace as stars collide at Norway Chess"
-      },
-      {
-         "description" : "World Chess and the Algorand Foundation propose levelling the playing field with a \"chess passport\". In a whitepaper published last month, World Chess (LSE: CHSS) and the Algorand Foundation (ALGO) conceptualize a new blockchain-based system that would establish secure, private, and verifiable credentials for global sports organizations, including chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-chess-passport-is-here",
-         "pubDate" : "Thu, 29 May 2025 21:50:00",
-         "title" : "The \"Chess Passport\" is here"
       }
    ]
 }
