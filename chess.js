@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring Vasyl Ivanchuk), a Futures, and an Open will be held - modeled after the Tata Steel tournaments. Live coverage daily from 11:00 CEST (Round 1 starts at 11:30, final round at 8:00).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
+         "pubDate" : "Thu, 19 Jun 2025 10:45:00",
+         "title" : "2. UzChess Cup live"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121950310.cms\" />Divya Deshmukh, an 18-year-old Indian chess prodigy, has gained global recognition after defeating World No. 1 Hou Yifan at the World Blitz Team Chess Championship in London. Prime Minister Narendra Modi lauded her victory, highlighting her determination and inspiration to aspiring chess players. Divya's success, along with her other achievements, underscores India's growing prominence in international chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-who-is-divya-deshmukh-indian-star-congratulated-by-pm-modi-after-win-over-world-no-1-hou-yifan/articleshow/121950310.cms",
+         "pubDate" : "Thu, 19 Jun 2025 09:21:47",
+         "title" : "Who is Divya? Indian star congratulated by PM Modi after win over world no. 1 Yifan"
+      },
+      {
+         "description" : "The UK Open Blitz Championship returns in 2025, featuring an expanded format with 16 qualifiers in 14 cities around the United Kingdom. Eldar Gasanov will be aiming for a hat-trick...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/uk-open-blitz-championship-2025/",
+         "pubDate" : "Thu, 19 Jun 2025 09:04:21",
+         "title" : "UK Open Blitz Championship 2025"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121944018.cms\" />Magnus Carlsen's fist smash at Norway Chess, following a loss to Gukesh, sparked widespread attention, overshadowing their game. Caruana shared insights on Carlsen's motivation against Gukesh, emphasising the significance of defeating the world champion. Caruana also acknowledged Gukesh's strong performances over the past year and his own expectations to compete with the rising Indian chess talents.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -14,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-8",
-         "pubDate" : "Thu, 19 Jun 2025 00:04:31",
+         "pubDate" : "Thu, 19 Jun 2025 00:04:00",
          "title" : "Yip Leads Ahead Of Final Round Vs. Lee"
       },
       {
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/niemann-giri-rerematch-2025",
          "pubDate" : "Wed, 18 Jun 2025 19:14:00",
          "title" : "Niemann-Giri Rerematch 2025 - Games and Results"
-      },
-      {
-         "description" : "The Cairns Cup is taking place on June 10-20 at the World Chess Hall of Fame. Tan Zhongyi, Humpy Koneru and Bibisara Assaubayeva are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $250,000. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2025-live",
-         "pubDate" : "Wed, 18 Jun 2025 19:00:00",
-         "title" : "Cairns Cup, Round 8 - Live!"
       },
       {
          "description" : "Those who prepare well in the summer will be ready for tournaments in the fall and winter - or for summer opens as well. The Neo-London System is a powerful weapon that allows White to take control of the game right from the start - slightly sharper than the traditional London System. In her Fritztrainer, Elisabeth P&auml;htz explains how it works. Part of this week's Summer Special for only €34.90 (instead of €49.90).",
@@ -938,14 +954,6 @@ news_feed (
          "title" : "ECF's President's Award for Services to Chess - Roger Lancaster"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121586580.cms\" />Magnus Carlsen faced a shocking defeat against 19-year-old Indian Grandmaster D Gukesh at the Norway Chess tournament, triggering visible frustration. Carlsen acknowledged Gukesh's fighting spirit and youthful energy as decisive factors. Following the loss, Carlsen rebounded with an Armageddon win over Hikaru Nakamura.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/he-was-blindly-pushing-on-normal-day-i-win-that-game-magnus-carlsen-on-painful-loss-to-d-gukesh/articleshow/121586580.cms",
-         "pubDate" : "Tue, 03 Jun 2025 04:24:09",
-         "title" : "'On normal day I win that game': Magnus Carlsen on loss to D Gukesh"
-      },
-      {
          "description" : " Magnus Carlsen was left hitting the table in frustration as he lost to Gukesh from a winning position in the sixth round of the <a href=\"https://theweekinchess.com/chessnews/events/13th-Norway-chess-2025\">Norway Chess</a> tournament. Gukesh had the white pieces and the opening was a slow manoeuvring Ruy Lopez Berlin where Carlsen had equalised by move 17 and was at least a bit better by move 20. Gukesh kept playing slightly inferior moves 22.Bc6?! (Rc1) 23.Qc2?!, 24.Kh1?! (24.Ne2) and finally after 25.Qa2 (maybe 25.Kh2) he was lost and soon about to lose a piece. Maybe Carlsen's 36...Bxd5 wasn't the cleanest (36...Bxf3 or 36...Rh8 may have induced a quick resignation) but he was still clear",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1008,14 +1016,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2025-starts-in-mamaia-romania/",
          "pubDate" : "Thu, 29 May 2025 18:47:29",
          "title" : "European School Chess Championship 2025 starts in Mamaia, Romania"
-      },
-      {
-         "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2025 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2025 to be held in Batumi, Georgia on Saturday 11th October 2025. The official venue of the ECU GA will be in the hosting Hotels. The exact room will be announced later. The Assembly starts at 9.30 am. ECU will provide free of charge 3 nights for the ECU Delegates for []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-congress-and-general-assembly-2025/",
-         "pubDate" : "Thu, 29 May 2025 08:46:18",
-         "title" : "ECU Congress and General Assembly 2025"
       }
    ]
 }
