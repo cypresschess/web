@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The decision in the Cairns Cup, one of the strongest women's tournaments of the year, will come today in the ninth and final round, in the direct encounter between Carissa Yip and Alice Lee. After eight rounds, Yip leads with 5.5 out of 8, half a point ahead of Alice Lee, who has scored 5 points from 8 games. This means a draw will be enough for Yip, who has White, to win the tournament. Harika Dronavalli and Humpy Koneru share third and fourth place with 4.5 out of 8, but no longer have a chance to win the event, regardless of the outcome between Yip and Lee. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2025-live",
+         "pubDate" : "Thu, 19 Jun 2025 19:00:00",
+         "title" : "Cairns Cup, Round 9 - Live!"
+      },
+      {
          "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring Vasyl Ivanchuk), a Futures, and an Open will be held - modeled after the Tata Steel tournaments. Live coverage daily from 11:00 CEST (Round 1 starts at 11:30, final round at 8:00).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1008,14 +1016,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-chess-passport-is-here",
          "pubDate" : "Thu, 29 May 2025 21:50:00",
          "title" : "The \"Chess Passport\" is here"
-      },
-      {
-         "description" : "The European School Chess Championship 2025 starts tomorrow in Mamaia, Romania and will be played from 30th of May 7th of June at the Complex Amiral - Comandor Orfeu. The event is played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. Each tournament will be played in 9 rounds, with the time control of&#160;90 minutes with an increment of 30 seconds per move, starting from move one. The Championship gathers []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-school-chess-championship-2025-starts-in-mamaia-romania/",
-         "pubDate" : "Thu, 29 May 2025 18:47:29",
-         "title" : "European School Chess Championship 2025 starts in Mamaia, Romania"
       }
    ]
 }
