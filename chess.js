@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-8-recap/\">2025 Cairns Cup Day 8 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-8-recap/",
+         "pubDate" : "Wed, 18 Jun 2025 23:38:43",
+         "title" : "2025 Cairns Cup - Day 8 Recap"
+      },
+      {
          "description" : " The 2nd Uzchess Cup takes place in Tashkent, Uzbekistan, 19th to 27th June. There are three round robin tournaments and an open. Players: Masters: Arjun, Erigaisi,Nodirbek Abdusattorov, Praggnanandhaa, Ian Nepomniachtchi, Chithambaram V Aravindh, Richard Rapport, Javokhir Sindarov,Parham Maghsoodloo, Nodirbek Yakubboev,Shamsiddin Vokhidov. The Challengers has Vasyl Ivanchuk as top seed.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
