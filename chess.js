@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121944018.cms\" />Magnus Carlsen's fist smash at Norway Chess, following a loss to Gukesh, sparked widespread attention, overshadowing their game. Caruana shared insights on Carlsen's motivation against Gukesh, emphasising the significance of defeating the world champion. Caruana also acknowledged Gukesh's strong performances over the past year and his own expectations to compete with the rising Indian chess talents.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-thats-what-he-was-trying-to-go-for-fabiano-caruana-explains-why-magnus-carlsen-lost-his-cool-after-loss-to-d-gukesh/articleshow/121944018.cms",
+         "pubDate" : "Thu, 19 Jun 2025 04:16:12",
+         "title" : "'That's what he was trying to go for...' Fabiano Caruana explains why Magnus Carlsen lost his cool after loss to D Gukesh"
+      },
+      {
+         "description" : "Round eight of the Cairns Cup 2025 has set up a dramatic final round. After putting up her fourth consecutive win, against GM-elect Bibisara Assaubayeva, IM Carissa Yip leads the event. She&#39;ll face her compatriot and friend, IM Alice Lee, in a bit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-8",
+         "pubDate" : "Thu, 19 Jun 2025 00:04:31",
+         "title" : "Yip Leads Ahead Of Final Round Vs. Lee"
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-8-recap/\">2025 Cairns Cup Day 8 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -634,14 +650,6 @@ news_feed (
          "title" : "The whole chess world is yours!"
       },
       {
-         "description" : "We&#39;re excited to announce one of our most game-changing features yet: Introducing Play Coach, our first-ever AI opponent that actually teaches you while you play! Play unlimited games against your new virtual teacher who can play at your level, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-play-coach",
-         "pubDate" : "Tue, 10 Jun 2025 08:00:00",
-         "title" : "NEW FEATURE: Play Coach Now Available On Chess.com"
-      },
-      {
          "description" : "This week's puzzles come from the 12th Cherry Blossom Classic, which was featured in our Memorial Day wrap-up. While the later rounds of competitive opens usually feature the most level match-ups - with top grandmasters going at it for a shot at the biggest prizes - the early rounds of these tournaments often produce the best material for learning tactics. We've all had the experience of holding on for a while against higher-rated players before blundering a tactic. These tournaments allow us to see what types of mistakes strong players make when competing against even stronger competition. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -928,14 +936,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecfs-presidents-award-for-services-to-chess-roger-lancaster/",
          "pubDate" : "Wed, 04 Jun 2025 07:53:03",
          "title" : "ECF's President's Award for Services to Chess - Roger Lancaster"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121587569.cms\" />D Gukesh prevailed over Arjun Erigaisi at Norway Chess, his first classical win against him, propelling him to second place. Fabiano Caruana leads the tournament after defeating Wei Yi. Magnus Carlsen secured third place with an Armageddon win over Hikaru Nakamura. Gukesh's win over Erigaisi comes on the back of a win over Magnus Carlsen, where the World No 1 lost his afterwards.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-after-magnus-carlsen-d-gukesh-beats-arjun-erigaisi-jumps-to-second-spot/articleshow/121587569.cms",
-         "pubDate" : "Tue, 03 Jun 2025 05:10:26",
-         "title" : "Norway Chess: After Magnus Carlsen, D Gukesh beats Arjun Erigaisi"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121586580.cms\" />Magnus Carlsen faced a shocking defeat against 19-year-old Indian Grandmaster D Gukesh at the Norway Chess tournament, triggering visible frustration. Carlsen acknowledged Gukesh's fighting spirit and youthful energy as decisive factors. Following the loss, Carlsen rebounded with an Armageddon win over Hikaru Nakamura.",
