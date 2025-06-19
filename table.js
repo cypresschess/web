@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-06-18","16","<a href=http://www.uschess.org/msa/XtblMain.php?202506188362 target='_blank'>SHADOWCREEK06172025AFTERNOON</a>",
 "HOUSTON","2025-06-17","16","<a href=http://www.uschess.org/msa/XtblMain.php?202506178002 target='_blank'>SHADOWCREEK06172025TUESDAY</a>",
 "HOUSTON","2025-06-15","8","<a href=http://www.uschess.org/msa/XtblMain.php?202506156652 target='_blank'>BELLAIRE SUNDAY SWISS</a>",
 "HOUSTON","2025-06-14","9","<a href=http://www.uschess.org/msa/XtblMain.php?202506145822 target='_blank'>CHESSPANDA06142025SATURDAY</a>",
@@ -198,5 +199,4 @@ jtable([
 "SUGAR LAND","2024-11-15","10","<a href=http://www.uschess.org/msa/XtblMain.php?202411157932 target='_blank'>FBCC 2024 NATIONAL BUNDT DAY OPEN</a>",
 "HOUSTON","2024-11-10","44","<a href=http://www.uschess.org/msa/XtblMain.php?202411106082 target='_blank'>SRI MEENAKSHI TEMPLE 11-10-2024</a>",
 "HOUSTON","2024-11-08  - 11-10","216","<a href=http://www.uschess.org/msa/XtblMain.php?202411105792 target='_blank'>2024 HOUSTON OPEN CHESS CHAMPIONSHI</a>",
-"HOUSTON","2024-11-09","39","<a href=http://www.uschess.org/msa/XtblMain.php?202411095582 target='_blank'>SATURDAY TROPHY SCHOLASTIC NOV. 9TH</a>",
 ]);
