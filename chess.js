@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-9-recap/\">2025 Cairns Cup Day 9 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-9-recap/",
+         "pubDate" : "Thu, 19 Jun 2025 23:16:23",
+         "title" : "2025 Cairns Cup - Day 9 Recap"
+      },
+      {
          "description" : "The decision in the Cairns Cup, one of the strongest women's tournaments of the year, will come today in the ninth and final round, in the direct encounter between Carissa Yip and Alice Lee. After eight rounds, Yip leads with 5.5 out of 8, half a point ahead of Alice Lee, who has scored 5 points from 8 games. This means a draw will be enough for Yip, who has White, to win the tournament. Harika Dronavalli and Humpy Koneru share third and fourth place with 4.5 out of 8, but no longer have a chance to win the event, regardless of the outcome between Yip and Lee. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
