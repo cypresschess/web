@@ -1,4 +1,7 @@
 jtable([
+"HOUSTON","2025-06-19","14","<a href=http://www.uschess.org/msa/XtblMain.php?202506198782 target='_blank'>SHADOWCREEKTHURSDAY06192025AFTERNOO</a>",
+"HOUSTON","2025-06-19","18","<a href=http://www.uschess.org/msa/XtblMain.php?202506198732 target='_blank'>SHADOWCREEKSPORTS06192025</a>",
+"HOUSTON","2025-06-18","18","<a href=http://www.uschess.org/msa/XtblMain.php?202506188622 target='_blank'>SHADOW CREEK WEDNESDAY</a>",
 "HOUSTON","2025-06-18","16","<a href=http://www.uschess.org/msa/XtblMain.php?202506188362 target='_blank'>SHADOWCREEK06172025AFTERNOON</a>",
 "HOUSTON","2025-06-17","16","<a href=http://www.uschess.org/msa/XtblMain.php?202506178002 target='_blank'>SHADOWCREEK06172025TUESDAY</a>",
 "HOUSTON","2025-06-15","8","<a href=http://www.uschess.org/msa/XtblMain.php?202506156652 target='_blank'>BELLAIRE SUNDAY SWISS</a>",
@@ -196,7 +199,4 @@ jtable([
 "HOUSTON","2024-11-16","11","<a href=http://www.uschess.org/msa/XtblMain.php?202411168542 target='_blank'>CHESSPANDA11162024SATURDAY</a>",
 "CYPRESS","2024-11-15","33","<a href=http://www.uschess.org/msa/XtblMain.php?202411158002 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2024-11-15","37","<a href=http://www.uschess.org/msa/XtblMain.php?202411157952 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2024-11-15","10","<a href=http://www.uschess.org/msa/XtblMain.php?202411157932 target='_blank'>FBCC 2024 NATIONAL BUNDT DAY OPEN</a>",
-"HOUSTON","2024-11-10","44","<a href=http://www.uschess.org/msa/XtblMain.php?202411106082 target='_blank'>SRI MEENAKSHI TEMPLE 11-10-2024</a>",
-"HOUSTON","2024-11-08  - 11-10","216","<a href=http://www.uschess.org/msa/XtblMain.php?202411105792 target='_blank'>2024 HOUSTON OPEN CHESS CHAMPIONSHI</a>",
 ]);
