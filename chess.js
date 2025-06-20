@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Arjun Erigaisi, Javokhir Sindarov, and Nodirbek Abdusattorov are among the favourites at the strong UzChess Masters in Tashkent, and they began the tournament with a win. In the Challengers, chess legend Vasyl Ivanchuk suffered a loss. | Photos: Tournament page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/uzchess-cup-tournament-favourites-erigaisi-and-abdusattorov-start-with-wins",
+         "pubDate" : "Fri, 20 Jun 2025 11:12:13",
+         "title" : "UzChess Cup: Tournament favourites Erigaisi and Abdusattorov start with wins"
+      },
+      {
+         "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring Vasyl Ivanchuk), a Futures, and an Open will be held - modeled after the Tata Steel tournaments. Live coverage daily from 11:00 CEST (Round 1 starts at 11:30, final round at 8:00).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
+         "pubDate" : "Fri, 20 Jun 2025 10:45:00",
+         "title" : "2. UzChess Cup live"
+      },
+      {
+         "description" : "Carissa Yip kept her nerves! With a draw against Alice Lee in the final round of the Cairns Cup in Saint Louis, she secured both the tournament victory and a GM norm. If Lee had won the game, she would have taken first place, but the draw was enough for her to finish second. The youngest participants, and the 9th and 10th seeds-Carissa Yip and Alice Lee-won gold and silver in Saint Louis. Third place went to Harika Dronavalli. | Photo: Lennart Ootes/Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-tournament-victory-and-gm-norm-for-carissa-yip",
+         "pubDate" : "Fri, 20 Jun 2025 10:30:16",
+         "title" : "Cairns Cup: Tournament victory and GM norm for Carissa Yip"
+      },
+      {
          "description" : "Those who prepare well in the summer will be ready for tournaments in the fall and winter - or for summer opens as well. The Neo-London System is a powerful weapon that allows White to take control of the game right from the start - slightly sharper than the traditional London System. In her Fritztrainer, Elisabeth P&auml;htz explains how it works. Part of this week's Summer Special for only €34.90 (instead of €49.90).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/elisabeth-paehtz-neo-london-this-week-s-summer-special-only-34-90",
          "pubDate" : "Fri, 20 Jun 2025 08:59:44",
          "title" : "Elisabeth P&auml;htz: Neo-London - This week's summer special: only €34.90"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121969685.cms\" />Magnus Carlsen, the chess maestro, has shattered barriers by exceeding a 2900 rating in freestyle chess, a milestone previously unattained in classical chess. This achievement, based on Freestyle Chess organization ratings, marks a new high for Carlsen, surpassing his peak classical rating. Among Indian players, Praggnanandhaa shines at fourth place, followed by other notable players like Arjun Erigaisi and Gukesh.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-my-wife-is-way-more-attracted-to-me-now-magnus-carlsen-after-record-rating-in-freestyle/articleshow/121969685.cms",
+         "pubDate" : "Fri, 20 Jun 2025 07:33:48",
+         "title" : "Chess: 'My wife is way more attracted to me now' - Carlsen after record rating in freestyle"
       },
       {
          "description" : " The billionaire's team looked out for the count, but got a 2-4 defeat annulled on appeal, while an unknown 13-year-old beat the world No 2 in 112 moves WR Chess, the star-studded world top 10 team, retained their World Team Blitz crown in London last week, but only after an almighty scare and with significant help from the appeals committee. WR had already been beaten for the World Rapid title by MGD1, a Pune-based group led by India's Arjun Erigaisi. WR lost 2-4 to Germany in their Blitz quarter-final, but got the match annulled on the grounds that they had been advised of the wrong start time so had arrived two minutes late for a three-minute game. All the other teams arrived on time. <a ",
@@ -34,28 +66,12 @@ news_feed (
          "title" : "Niemann Defeats Ding To Join Yu, Fedoseev, Lazavik In Semifinals"
       },
       {
-         "description" : "The decision in the Cairns Cup, one of the strongest women's tournaments of the year, will come today in the ninth and final round, in the direct encounter between Carissa Yip and Alice Lee. After eight rounds, Yip leads with 5.5 out of 8, half a point ahead of Alice Lee, who has scored 5 points from 8 games. This means a draw will be enough for Yip, who has White, to win the tournament. Harika Dronavalli and Humpy Koneru share third and fourth place with 4.5 out of 8, but no longer have a chance to win the event, regardless of the outcome between Yip and Lee. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2025-live",
-         "pubDate" : "Thu, 19 Jun 2025 19:00:00",
-         "title" : "Cairns Cup, Round 9 - Live!"
-      },
-      {
          "description" : "GM Magnus Carlsen tops the first-ever Freestyle Chess rating list, hitting the 2900 barrier after dominating the chess variant in his latest events.&#38;nbsp; Already the world number-one in FIDE&#39;s official classical, rapid, and blitz ratings, the 3...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/magnus-carlsen-hits-2900-as-new-freestyle-chess-ratings-are-published",
          "pubDate" : "Thu, 19 Jun 2025 13:02:00",
          "title" : "Magnus Carlsen Hits 2900 As Freestyle Chess Introduces New Ratings"
-      },
-      {
-         "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring Vasyl Ivanchuk), a Futures, and an Open will be held - modeled after the Tata Steel tournaments. Live coverage daily from 11:00 CEST (Round 1 starts at 11:30, final round at 8:00).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
-         "pubDate" : "Thu, 19 Jun 2025 10:45:00",
-         "title" : "2. UzChess Cup live"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121950310.cms\" />Divya Deshmukh, an 18-year-old Indian chess prodigy, has gained global recognition after defeating World No. 1 Hou Yifan at the World Blitz Team Chess Championship in London. Prime Minister Narendra Modi lauded her victory, highlighting her determination and inspiration to aspiring chess players. Divya's success, along with her other achievements, underscores India's growing prominence in international chess.",
