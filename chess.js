@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " American Underdogs Yip and Lee Defy Odds to Finish 1-2 Against World-Class Field SAINT LOUIS, June 20, 2025 In what may be one of the most dramatic chess upsets of the year, International Masters (IM) Carissa Yip and Alice Lee - the two youngest and lowest-rated players in the field - defied odds to finish [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/us-no-1-carissa-yip-captures-2025-cairns-cup-title-in-dazzling-comeback-victory-wins-65000/\">U.S. No. 1 Carissa Yip Captures 2025 Cairns Cup Title in Dazzling Comeback Victory, Wins $65,000</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/us-no-1-carissa-yip-captures-2025-cairns-cup-title-in-dazzling-comeback-victory-wins-65000/",
+         "pubDate" : "Fri, 20 Jun 2025 20:51:25",
+         "title" : "U.S. No. 1 Carissa Yip Captures 2025 Cairns Cup Title in Dazzling Comeback Victory, Wins $65,000"
+      },
+      {
+         "description" : " The 5th Cairns Cup took place in St Louis 10th to 20th June 2025. This women's event has the following players: Tan Zhongyi, Humpy Koneru, Nana Dzagnidze, Alina Kashlinskaya, Bibisara Assaubayeva, Mariya Muzychuk, Harika Dronavalli, Nino Batsiashvili, Carissa Yip and Alice Lee. The event is named in honor of co-founder Dr. Jeanne Cairns Sinquefield's maiden name. The event turned out to be a battle between the eventual winner 21 year old Carissa Yip and 15 year old Alice Lee. Yip only needed a draw with white in the final round to win, she was winning at one stage but had to settle for a draw. Yip made a second GM norm. Humpy Koneru had been leading after 6 rounds but lost her last three ga",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/5th-cairns-cup-2025",
+         "pubDate" : "Fri, 20 Jun 2025 20:34:00",
+         "title" : "5th Cairns Cup 2025 - Games and Results"
+      },
+      {
          "description" : "IM Andrew Martin's video course provides practical and aggressive solutions against Anti-Sicilian lines, covering common systems like 2.c3, Nc3, and Bb5, as well as rare moves like 2.b3 and 2.Na3. Designed for club and tournament players, it helps you neutralize White's sidelines and confidently take control of the game.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +72,22 @@ news_feed (
          "link" : "https://www.britishchesschampionships.co.uk/#new_tab",
          "pubDate" : "Fri, 20 Jun 2025 14:00:46",
          "title" : "British Chess Championships 2025 - entries open"
+      },
+      {
+         "description" : "GM Hans Niemann celebrated his birthday by winning two matches to qualify for the Las Vegas Freestyle Grand Slam next month. After winning two rounds yesterday, Niemann survived two more difficult matches against GMs Yu Yangyi and Denis Lazavik to...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/niemann-advances-to-the-las-vegas-freestyle-grand-slam",
+         "pubDate" : "Fri, 20 Jun 2025 13:51:00",
+         "title" : "Niemann Celebrates Birthday With Freestyle Ticket To Las Vegas"
+      },
+      {
+         "description" : "While several players were battling it out in a qualifier for the rights to play in Vegas at the Freestyle Chess Grand Slam Las Vegas, Freestyle Friday continued on with 229 participants. In what turned out to be an intense fight, two players scor...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-freestyle-friday-june-20-2025",
+         "pubDate" : "Fri, 20 Jun 2025 13:24:00",
+         "title" : "Vachier-Lagrave, Carlsen Fight Freestyle Friday Down To The Wire"
       },
       {
          "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring Vasyl Ivanchuk), a Futures, and an Open will be held - modeled after the Tata Steel tournaments. Live coverage daily from 12:00 CEST (Round 2 starts at 12:30, final round at 9:00).",
@@ -120,6 +152,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carissa-yip-wins-2025-cairns-cup",
          "pubDate" : "Fri, 20 Jun 2025 04:27:00",
          "title" : "Yip Wins Cairns Cup, Scores 2nd GM Norm"
+      },
+      {
+         "description" : "Just a few days ago, in this very publication, I suggested the battle between youth and experience at the 2025 Cairns Cup was looking a bit drawish. I didn't mean to suggest that the games themselves were uninteresting (anything but!) but only that the two camps seemed evenly matched, with young American IMs Alice Lee and Carissa Yip joined in the top half of the standings by veterans such as Indian GMs Humpy Koneru and Harika Dronavalli.Even before the last round began on Thursday at the Saint Louis Chess Club, youth had prevailed. Yip led Lee by a half-point in the standings. Lee was in clear second. And Yip was playing as White against Lee, meaning that both the winner and (most likely) t",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/carissa-yip-alice-lee-notch-remarkable-1-2-finish-atop-stacked-cairns-cup-cross-table",
+         "pubDate" : "Fri, 20 Jun 2025 00:00:00",
+         "title" : "Carissa Yip, Alice Lee Notch Remarkable 1-2 Finish Atop Stacked Cairns Cup Cross Table"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-9-recap/\">2025 Cairns Cup Day 9 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -658,28 +698,12 @@ news_feed (
          "title" : "Chess Statistics Today"
       },
       {
-         "description" : "The 2025 Freestyle Chess Grand Slam Tour is headed for Las Vegas, and it&#39;s bringing 16 of the world&#39;s top grandmasters to the heart of the Strip. The organizers have announced more than half of the field that will compete in the fourth leg of th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-nakamura-caruana-headline-strong-vegas-field",
-         "pubDate" : "Thu, 12 Jun 2025 06:23:00",
-         "title" : "Carlsen, Nakamura, Caruana Headline Star-Studded Freestyle Chess Las Vegas"
-      },
-      {
          "description" : "National Chess Day!National Chess Day is Saturday, Oct. 11. For any event that includes \"National Chess Day\" in the event title and is held that day, US Chess is offering:A free email blast. Make sure that \"National Chess Day\" is part of your subject line. On the payment screen, select \"No charge.\" Also, make sure the demographic you are sending this to is reasonable; generally, this will be local or regional. Do not send to the entire membership.Free ratings fees. Use the payment code NCD2025FREE. This is case-sensitive.Free online TLA. Online TLAs are always free, of course, not just for National Chess Day. But we want to make sure you are aware of this option too as you promote your event",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/national-chess-day-set-saturday-oct-11",
          "pubDate" : "Thu, 12 Jun 2025 00:00:00",
          "title" : "National Chess Day Set for Saturday, Oct. 11"
-      },
-      {
-         "description" : "Sixteen-year-old GM Ediz Gurel took down GM Maxime Vachier-Lagrave while 11-year-old IM Faustino Oro beat GM David Navara as the 2025 World Rapid &#38;amp; Blitz Team Championships began in London. GM Arjun Erigaisi&#39;s Team MGD1 tops the standings with...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-rapid-blitz-team-chess-championships-day-1",
-         "pubDate" : "Wed, 11 Jun 2025 23:17:00",
-         "title" : "Gurel, Oro Shine As World Rapid Team Championship Begins In London"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-2-recap/\">2025 Cairns Cup Day 2 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -786,14 +810,6 @@ news_feed (
          "title" : "Niemann-Sarin Blitz Match 2025 - Games and Results"
       },
       {
-         "description" : " The 5th Cairns Cup takes place in St Louis 10th to 20th June 2025. This women's event has the following players: Tan Zhongyi, Humpy Koneru, Nana Dzagnidze, Alina Kashlinskaya, Bibisara Assaubayeva, Mariya Muzychuk, Harika Dronavalli, Nino Batsiashvili, Carissa Yip and Alice Lee. The event is named in honor of co-founder Dr. Jeanne Cairns Sinquefield's maiden name. Play starts at 12:00 local time, 18:00 GMT but a 30 minute delay will be applied to the moves.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/5th-cairns-cup-2025",
-         "pubDate" : "Mon, 9 Jun 2025 16:21:00",
-         "title" : "5th Cairns Cup 2025 - Games and Results"
-      },
-      {
          "description" : "Almaty, Kazakhstan 18th September to 1st October, 2025 Special Note: If a player has only&#160;one accompanying person, then he/she must pay for double sharing amount",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -808,14 +824,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2025-samford-fellowship-winners-announced",
          "pubDate" : "Mon, 09 Jun 2025 00:00:00",
          "title" : "2025 Samford Fellowship Winners Announced"
-      },
-      {
-         "description" : "Cairns Cup PreviewThe fifth edition of the Cairns Cup kicks off this week at the Saint Louis Chess Club (SLCC). The strongest invitational in the world annually highlights top names in women's chess, and this year is no exception: three of the players enter the tournament with spots in the top 10 of the world rankings, and five more competitors are in the top 20. A $250,000 prize fund is on the line.Rounds begin daily at 12:00 p.m. CDT on Tuesday June 10 (with the exception of the rest day on Sunday, June 15), with the final round concluding on Thursday, June 19. The nine-round Round Robin boasts a $250,000 prize fund, including a $60,000 prize for first. Playoffs, if needed, will be held at",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/fifth-cairns-cup-begins-tuesday-st-louis",
-         "pubDate" : "Mon, 09 Jun 2025 00:00:00",
-         "title" : "Fifth Cairns Cup Begins Tuesday in St. Louis"
       },
       {
          "description" : " Norman Rogers of Philadelphia has returned to regular chess tournaments after a foray into poker. While he still plays poker, he recently played in the Chicago Open (under-2300) and scored 5.5/7, tying for 5th-6th place. When asked about his return, he says, &#8220;I'm already back.&#8221; FM Norman Rogers (left) showing one of his wins to The post <a href=\"https://thechessdrum.net/blog/2025/06/08/norman-rogers-shines-at-2025-chicago-open/\">Norman Rogers shines at 2025 Chicago Open</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
