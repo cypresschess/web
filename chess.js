@@ -2,20 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Thanks to the help of Magnus Carlsen and his \"Viking\" friends, FC St. Pauli was able to stay in the German Bundesliga in the 2024/25 season. During his appearance for St. Pauli, Carlsen also made headlines beyond the chess world. The cult club has now announced that the world's best chess player will continue to wear the club's colors next year. | Photo: Andr&eacute; Schulz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-stys-with-st-pauli",
+         "pubDate" : "Fri, 20 Jun 2025 17:00:00",
+         "title" : "Carlsen stays with the St. Pauli"
+      },
+      {
+         "description" : "The UK Open Blitz Championship returns in 2025, featuring an expanded format with 16 qualifiers in 14 cities around the United Kingdom. Eldar Gasanov will be aiming for a hat-trick...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/uk-open-blitz-championship-2025/",
+         "pubDate" : "Fri, 20 Jun 2025 15:00:21",
+         "title" : "UK Open Blitz Championship 2025"
+      },
+      {
+         "description" : "Over the Whitsun weekend, young Belgian grandmaster Daniel Dardha set a new world record in a clock simul in Deinze. He faced 50 opponents and scored 47.5 points, surpassing the previous record held by Sipke Ernst. | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-dardha-sets-new-world-record-in-clock-simul",
+         "pubDate" : "Fri, 20 Jun 2025 15:00:00",
+         "title" : "Daniel Dardha sets new world record in clock simul"
+      },
+      {
+         "description" : "&#160; &#160;",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-championships-2025/#new_tab",
+         "pubDate" : "Fri, 20 Jun 2025 14:50:22",
+         "title" : "English and English Women's Championships 2025 - enter now!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.britishchesschampionships.co.uk/#new_tab",
+         "pubDate" : "Fri, 20 Jun 2025 14:00:46",
+         "title" : "British Chess Championships 2025 - entries open"
+      },
+      {
+         "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring Vasyl Ivanchuk), a Futures, and an Open will be held - modeled after the Tata Steel tournaments. Live coverage daily from 12:00 CEST (Round 2 starts at 12:30, final round at 9:00).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
+         "pubDate" : "Fri, 20 Jun 2025 11:45:00",
+         "title" : "2. UzChess Cup live"
+      },
+      {
          "description" : "Arjun Erigaisi, Javokhir Sindarov, and Nodirbek Abdusattorov are among the favourites at the strong UzChess Masters in Tashkent, and they began the tournament with a win. In the Challengers, chess legend Vasyl Ivanchuk suffered a loss. | Photos: Tournament page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/uzchess-cup-tournament-favourites-erigaisi-and-abdusattorov-start-with-wins",
          "pubDate" : "Fri, 20 Jun 2025 11:12:13",
          "title" : "UzChess Cup: Tournament favourites Erigaisi and Abdusattorov start with wins"
-      },
-      {
-         "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring Vasyl Ivanchuk), a Futures, and an Open will be held - modeled after the Tata Steel tournaments. Live coverage daily from 11:00 CEST (Round 1 starts at 11:30, final round at 8:00).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
-         "pubDate" : "Fri, 20 Jun 2025 10:45:00",
-         "title" : "2. UzChess Cup live"
       },
       {
          "description" : "Carissa Yip kept her nerves! With a draw against Alice Lee in the final round of the Cairns Cup in Saint Louis, she secured both the tournament victory and a GM norm. If Lee had won the game, she would have taken first place, but the draw was enough for her to finish second. The youngest participants, and the 9th and 10th seeds-Carissa Yip and Alice Lee-won gold and silver in Saint Louis. Third place went to Harika Dronavalli. | Photo: Lennart Ootes/Saint Louis Chess Club",
@@ -50,6 +90,14 @@ news_feed (
          "title" : "Star-studded WR Chess repeat World Blitz title amid controversy in London"
       },
       {
+         "description" : "IM Carissa Yip won the Cairns Cup 2025 on Thursday in St. Louis after drawing a dramatic final game with IM Alice Lee, who needed a win for a GM norm and tournament victory. A draw was enough for Yip to score her second GM norm instead, with a 261...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carissa-yip-wins-2025-cairns-cup",
+         "pubDate" : "Fri, 20 Jun 2025 04:27:00",
+         "title" : "Yip Wins Cairns Cup, Scores 2nd GM Norm"
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-9-recap/\">2025 Cairns Cup Day 9 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -80,14 +128,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-who-is-divya-deshmukh-indian-star-congratulated-by-pm-modi-after-win-over-world-no-1-hou-yifan/articleshow/121950310.cms",
          "pubDate" : "Thu, 19 Jun 2025 09:21:47",
          "title" : "Who is Divya? Indian star congratulated by PM Modi after win over world no. 1 Yifan"
-      },
-      {
-         "description" : "The UK Open Blitz Championship returns in 2025, featuring an expanded format with 16 qualifiers in 14 cities around the United Kingdom. Eldar Gasanov will be aiming for a hat-trick...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/uk-open-blitz-championship-2025/",
-         "pubDate" : "Thu, 19 Jun 2025 09:04:21",
-         "title" : "UK Open Blitz Championship 2025"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121944018.cms\" />Magnus Carlsen's fist smash at Norway Chess, following a loss to Gukesh, sparked widespread attention, overshadowing their game. Caruana shared insights on Carlsen's motivation against Gukesh, emphasising the significance of defeating the world champion. Caruana also acknowledged Gukesh's strong performances over the past year and his own expectations to compete with the rising Indian chess talents.",
@@ -150,7 +190,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/svane-lazavik-pranesh-and-kravtsiv-qualify-for-vegas-knockout",
-         "pubDate" : "Wed, 18 Jun 2025 15:22:36",
+         "pubDate" : "Wed, 18 Jun 2025 15:22:00",
          "title" : "Svane, Lazavik, Pranesh And Kravtsiv Qualify For Vegas Knockout"
       },
       {
@@ -642,14 +682,6 @@ news_feed (
          "title" : "ECF Level 1 Arbiter Course - September 2025"
       },
       {
-         "description" : "GM Hans Niemann began the early Titled Tuesday on 10/10 on his way to victory by half a point over GM Magnus Carlsen, but Carlsen would take his revenge by winning in the late tournament on 10/11. Each player defeated the other in the 10th round o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/niemann-carlsen-win-titled-tuesday-june-9-2025",
-         "pubDate" : "Wed, 11 Jun 2025 11:04:05",
-         "title" : "Niemann And Carlsen Clash In Titled Tuesday"
-      },
-      {
          "description" : "The ECF is inviting one player per section to participate as our official representative in the FIDE World Cadet Championships in Almaty, Kazakhstan (18 September to 1 October, 2025). Other...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -962,14 +994,6 @@ news_feed (
          "title" : "Caruana leads in Norway after 8 rounds ahead of his game with Carlsen - 8"
       },
       {
-         "description" : "Congratulations to Petts Wood &#38; Orpington and Durham University Alumni teams for finishing in the top 10 out of nearly 100 teams in the 2025 season of the World Chess...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/two-english-teams-qualify-for-the-2025-world-chess-league-play-offs/",
-         "pubDate" : "Wed, 04 Jun 2025 13:59:38",
-         "title" : "Two English teams qualify for the 2025 World Chess League play-offs!"
-      },
-      {
          "description" : " The Polish Ekstraliga took place 2nd to 10th June 2025. Leading players: Pentala Harikrishna, Frederik Svane, Matthias Bluebaum, David Navara, Daniel Dardha, Nils Grandelius, Rasmus Svane, Andrei Volokitin, Maxime Lagarde, Ferenc Berkes, Marc Andria Maurizzi etc. Wieza Pomot Pegow won.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -984,14 +1008,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/dubai-open-2025",
          "pubDate" : "Wed, 4 Jun 2025 12:37:00",
          "title" : "Dubai Open 2025 - Games and Results"
-      },
-      {
-         "description" : "Many congratulations to Roger Lancaster, who recently received the ECF's President's Award for Services to Chess. Roger is a highly respected junior coach and organiser at Watford Chess Club, and...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecfs-presidents-award-for-services-to-chess-roger-lancaster/",
-         "pubDate" : "Wed, 04 Jun 2025 07:53:03",
-         "title" : "ECF's President's Award for Services to Chess - Roger Lancaster"
       },
       {
          "description" : " Magnus Carlsen was left hitting the table in frustration as he lost to Gukesh from a winning position in the sixth round of the <a href=\"https://theweekinchess.com/chessnews/events/13th-Norway-chess-2025\">Norway Chess</a> tournament. Gukesh had the white pieces and the opening was a slow manoeuvring Ruy Lopez Berlin where Carlsen had equalised by move 17 and was at least a bit better by move 20. Gukesh kept playing slightly inferior moves 22.Bc6?! (Rc1) 23.Qc2?!, 24.Kh1?! (24.Ne2) and finally after 25.Qa2 (maybe 25.Kh2) he was lost and soon about to lose a piece. Maybe Carlsen's 36...Bxd5 wasn't the cleanest (36...Bxf3 or 36...Rh8 may have induced a quick resignation) but he was still clear",
