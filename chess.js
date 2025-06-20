@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Those who prepare well in the summer will be ready for tournaments in the fall and winter - or for summer opens as well. The Neo-London System is a powerful weapon that allows White to take control of the game right from the start - slightly sharper than the traditional London System. In her Fritztrainer, Elisabeth P&auml;htz explains how it works. Part of this week's Summer Special for only €34.90 (instead of €49.90).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/elisabeth-paehtz-neo-london-this-week-s-summer-special-only-34-90",
+         "pubDate" : "Fri, 20 Jun 2025 08:59:44",
+         "title" : "Elisabeth P&auml;htz: Neo-London - This week's summer special: only €34.90"
+      },
+      {
+         "description" : " The billionaire's team looked out for the count, but got a 2-4 defeat annulled on appeal, while an unknown 13-year-old beat the world No 2 in 112 moves WR Chess, the star-studded world top 10 team, retained their World Team Blitz crown in London last week, but only after an almighty scare and with significant help from the appeals committee. WR had already been beaten for the World Rapid title by MGD1, a Pune-based group led by India's Arjun Erigaisi. WR lost 2-4 to Germany in their Blitz quarter-final, but got the match annulled on the grounds that they had been advised of the wrong start time so had arrived two minutes late for a three-minute game. All the other teams arrived on time. <a ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/jun/20/star-studded-wr-chess-repeat-world-blitz-title-amid-controversy-in-london",
+         "pubDate" : "Fri, 20 Jun 2025 07:00:29",
+         "title" : "Star-studded WR Chess repeat World Blitz title amid controversy in London"
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-9-recap/\">2025 Cairns Cup Day 9 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-9-recap/",
          "pubDate" : "Thu, 19 Jun 2025 23:16:23",
          "title" : "2025 Cairns Cup - Day 9 Recap"
+      },
+      {
+         "description" : "GMs Yu Yangyi, Hans Niemann, Vladimir Fedoseev, and Denis Lazavik are two steps closer to booking a spot at the Freestyle Chess Grand Slam Las Vegas tournament, having progressed to Friday&#39;s Play-In Semifinals. Niemann, who defeated former World...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/yu-niemann-fedoseev-lazavik-qualify-for-vegas-semifinals",
+         "pubDate" : "Thu, 19 Jun 2025 20:32:00",
+         "title" : "Niemann Defeats Ding To Join Yu, Fedoseev, Lazavik In Semifinals"
       },
       {
          "description" : "The decision in the Cairns Cup, one of the strongest women's tournaments of the year, will come today in the ninth and final round, in the direct encounter between Carissa Yip and Alice Lee. After eight rounds, Yip leads with 5.5 out of 8, half a point ahead of Alice Lee, who has scored 5 points from 8 games. This means a draw will be enough for Yip, who has White, to win the tournament. Harika Dronavalli and Humpy Koneru share third and fourth place with 4.5 out of 8, but no longer have a chance to win the event, regardless of the outcome between Yip and Lee. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
@@ -104,14 +128,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/niemann-giri-rerematch-2025",
          "pubDate" : "Wed, 18 Jun 2025 19:14:00",
          "title" : "Niemann-Giri Rerematch 2025 - Games and Results"
-      },
-      {
-         "description" : "Those who prepare well in the summer will be ready for tournaments in the fall and winter - or for summer opens as well. The Neo-London System is a powerful weapon that allows White to take control of the game right from the start - slightly sharper than the traditional London System. In her Fritztrainer, Elisabeth P&auml;htz explains how it works. Part of this week's Summer Special for only €34.90 (instead of €49.90).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/elisabeth-paehtz-neo-london-this-week-s-summer-special-only-34-90",
-         "pubDate" : "Wed, 18 Jun 2025 17:35:30",
-         "title" : "Elisabeth P&auml;htz: Neo-London - This week's summer special: only €34.90"
       },
       {
          "description" : "Grandmasters Rasmus Svane, Denis Lazavik, Pranesh M, and Martyn Kravtsiv advanced from the Swiss stage to the knockouts in the hopes of reaching the Freestyle Chess Grand Slam Las Vegas tournament. In tomorrow&#39;s knockout stage, they will be joined...",
@@ -650,14 +666,6 @@ news_feed (
          "title" : "2025 King's New Year's Honours: Stephen Rigby, British Empire Medal - new photos"
       },
       {
-         "description" : "In a moment few had expected, Chess.com earned an unforgettable shoutout on one of the world&#38;rsquo;s biggest tech stages, Apple&#38;rsquo;s Worldwide Developers Conference (WWDC). The WWDC is held annually to showcase new software and technology, an...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/6-out-of-5-stars-for-chess-com-at-wwdc-event",
-         "pubDate" : "Wed, 11 Jun 2025 06:01:00",
-         "title" : "Chess.com Gets Surprise '6 Out Of 5 Stars' Tribute At Apple's WWDC"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-1-recap/\">2025 Cairns Cup - Day 1 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1008,14 +1016,6 @@ news_feed (
          "link" : "https://www.thearticle.com/freestyle-chess-versus-draughts/",
          "pubDate" : "Sat, 31 May 2025 10:13:10",
          "title" : "'Freestyle Chess' versus Draughts"
-      },
-      {
-         "description" : " Home hope leads after four rounds at Stavanger following his comprehensive victory in the Speed Championship Magnus Carlsen arrived in vintage form at the start of the Norway Chess tournament. The encounter began inconclusively with the six stars - in ranking order Carlsen, Hikaru Nakamura, Fabiano Caruana, Arjun Erigaisi, Gukesh Dommaraju and Wei Yi - all launching a win or two. Gukesh, who celebrated his 19th birthday on Thursday, won in round three against Nakamura. Carlsen's version of one of Bobby Fischer's favourite openings set the tone last week for another clean sweep of the No 1 of the global elite. Carlsen's comprehensive victory in the <a href=\"http://chess.com/\">chess.com</a> S",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/may/30/magnus-carlsen-norway-chess",
-         "pubDate" : "Fri, 30 May 2025 07:00:48",
-         "title" : "Magnus Carlsen sets early pace as stars collide at Norway Chess"
       }
    ]
 }
