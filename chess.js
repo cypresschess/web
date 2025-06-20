@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "IM Andrew Martin's video course provides practical and aggressive solutions against Anti-Sicilian lines, covering common systems like 2.c3, Nc3, and Bb5, as well as rare moves like 2.b3 and 2.Na3. Designed for club and tournament players, it helps you neutralize White's sidelines and confidently take control of the game.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/andrew-martin-how-to-play-the-anti-sicilians",
+         "pubDate" : "Fri, 20 Jun 2025 19:00:00",
+         "title" : "Andrew Martin: How to play the Anti-Sicilians"
+      },
+      {
          "description" : "Thanks to the help of Magnus Carlsen and his \"Viking\" friends, FC St. Pauli was able to stay in the German Bundesliga in the 2024/25 season. During his appearance for St. Pauli, Carlsen also made headlines beyond the chess world. The cult club has now announced that the world's best chess player will continue to wear the club's colors next year. | Photo: Andr&eacute; Schulz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/carlsen-stys-with-st-pauli",
          "pubDate" : "Fri, 20 Jun 2025 17:00:00",
          "title" : "Carlsen stays with the St. Pauli"
+      },
+      {
+         "description" : "Next week is the first ever ECF National Schools' Chess Finals Week. This features the finals of both the English Schools' Chess Championships and the three Team Chess Challenge tournaments....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-national-schools-chess-finals-week/",
+         "pubDate" : "Fri, 20 Jun 2025 15:33:43",
+         "title" : "ECF National Schools' Chess Finals Week"
       },
       {
          "description" : "The UK Open Blitz Championship returns in 2025, featuring an expanded format with 16 qualifiers in 14 cities around the United Kingdom. Eldar Gasanov will be aiming for a hat-trick...",
@@ -72,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/elisabeth-paehtz-neo-london-this-week-s-summer-special-only-34-90",
          "pubDate" : "Fri, 20 Jun 2025 08:59:44",
          "title" : "Elisabeth P&auml;htz: Neo-London - This week's summer special: only €34.90"
+      },
+      {
+         "description" : "GM Magnus Carlsen created a viral hit when he slammed the table in rage following his loss against GM Gukesh Dommaraju.&#38;nbsp; The 2025 Norway Chess captured the world&#39;s attention on and off the board at a scale unlike any of the 12 previous edit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-table-slam-viral-chess-explosion",
+         "pubDate" : "Fri, 20 Jun 2025 08:58:00",
+         "title" : "How Magnus Carlsen's Table Slam Sparked A Viral Chess Explosion"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121969685.cms\" />Magnus Carlsen, the chess maestro, has shattered barriers by exceeding a 2900 rating in freestyle chess, a milestone previously unattained in classical chess. This achievement, based on Freestyle Chess organization ratings, marks a new high for Carlsen, surpassing his peak classical rating. Among Indian players, Praggnanandhaa shines at fourth place, followed by other notable players like Arjun Erigaisi and Gukesh.",
@@ -666,14 +690,6 @@ news_feed (
          "title" : "2025 Cairns Cup - Day 2 Recap"
       },
       {
-         "description" : "IM Alice Lee, the youngest and lowest-rated player in the Cairns Cup 2025, won again in round two and leads with a perfect score. With the black pieces, she defeated GM Mariya Muzychuk. In the other decisive game, GM Nana Dzagnidze recovered from ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-2",
-         "pubDate" : "Wed, 11 Jun 2025 21:59:00",
-         "title" : "Alice Lee Takes Sole Lead On Perfect 2/2"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -952,14 +968,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-magnus-carlsen-on-losing-against-gukesh-my-tournament-was-over/articleshow/121664074.cms",
          "pubDate" : "Fri, 06 Jun 2025 03:24:19",
          "title" : "Norway Chess | Carlsen on losing against Gukesh: 'My tournament was over'"
-      },
-      {
-         "description" : "This year, students from across the UK and Europe will compete in virtual qualifiers for a chance to reach the live finals in Amsterdam on 17 September-where the top players...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2025-optiver-chess-championship/",
-         "pubDate" : "Thu, 05 Jun 2025 14:52:21",
-         "title" : "2025 Optiver Chess Championship"
       },
       {
          "description" : " The Titled Tuesday Blitz 3rd June saw Levon Aronian win the early event ahead of Sergei Zhigalko and Denis Lazavik. Aronian beat Alireza Firouzja in Round 6 Lazavik in round 7, drew with Nepomniachtchi in Round 8, Wesley So in Round 9 beat Nguyen Ngoc Truong Son in Round 10 and drew with Zhigalko in the final round. Firouzja won the late alone on 9.5/11 half a point clear of a big group of 6 on 9 points. Firouzja beat Sanan Sjugirov, Daniel Naroditsky and Hans Moke Niemann in the final rounds. ",
