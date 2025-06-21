@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What does Mozart's Die Zauberfl&ouml;te (\"The Magic Flute&#8221;) have in common with chess? The opera tells the story of Prince Tamino, who is rescued from a serpent by three ladies allied to the Queen of the Night. Tamino is instantly entranced by a portrait of Her Nocturnal Majesty's daughter, Pamina. With the help of the magic flute and bells, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-magic-root-of-chess/",
+         "pubDate" : "Sat, 21 Jun 2025 11:51:31",
+         "title" : "The magic root of chess"
+      },
+      {
          "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring Vasyl Ivanchuk), a Futures, and an Open will be held - modeled after the Tata Steel tournaments. Live coverage daily from 12:00 CEST (Round 2 starts at 12:30, final round at 9:00).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1048,14 +1056,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/norway-chess-open-2025",
          "pubDate" : "Sun, 1 Jun 2025 22:05:00",
          "title" : "Norway Chess Open 2025 - Games and Results"
-      },
-      {
-         "description" : "It's fascinating how many questions I ask myself that I actually already know the answers to. &#8220;If more information was the answer, we'd all be billionaires with perfect abs.&#8221; Derek Sivers Like many of my students, I often fall into the trap of searching for the \"perfect\" answer to a question. I'll spend hours []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/stop-searching-start-executing/",
-         "pubDate" : "Sat, 31 May 2025 13:00:00",
-         "title" : "The 5 Steps I Use to Stop Overthinking and Start Getting Results"
       }
    ]
 }
