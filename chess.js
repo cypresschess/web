@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121985150.cms\" />R Praggnanandhaa has surpassed D Gukesh in live FIDE rankings, reaching a rating of 2777.2 while competing in the UzChess Cup Masters. He is currently tied for the lead in the tournament after defeating Shamsiddin Vokhidov. Recently, India saw four players in the global top 10, including Aravindh Chithambaram, highlighting the country's growing dominance in chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/historic-r-praggnanandhaa-surpasses-world-champion-d-gukesh-in-world-chess-rankings-all-you-need-to-know/articleshow/121985150.cms",
+         "pubDate" : "Sat, 21 Jun 2025 01:34:09",
+         "title" : "Historic! Praggnanandhaa surpasses world champion Gukesh in world rankings"
+      },
+      {
          "description" : " American Underdogs Yip and Lee Defy Odds to Finish 1-2 Against World-Class Field SAINT LOUIS, June 20, 2025 In what may be one of the most dramatic chess upsets of the year, International Masters (IM) Carissa Yip and Alice Lee - the two youngest and lowest-rated players in the field - defied odds to finish [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/us-no-1-carissa-yip-captures-2025-cairns-cup-title-in-dazzling-comeback-victory-wins-65000/\">U.S. No. 1 Carissa Yip Captures 2025 Cairns Cup Title in Dazzling Comeback Victory, Wins $65,000</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -968,14 +976,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-2025-d-gukesh-magnus-carlsen-win-to-setup-thrilling-final-round-separated-by-0-5-points/articleshow/121664581.cms",
          "pubDate" : "Fri, 06 Jun 2025 04:10:48",
          "title" : "Norway Chess: Gukesh, Carlsen win in Round 9; setup thriller in last stage"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121664074.cms\" />Reigning World Champion Gukesh is challenging World No. 1 Magnus Carlsen at the Norway Chess tournament. Carlsen, with 15 points, is closely trailed by Gukesh at 14.5. Following a loss to Gukesh, a frustrated Carlsen expressed his disillusionment with classical chess, even hinting at quitting. Despite a win against Caruana, Carlsen admits the tournament's enjoyment diminished after the Gukesh game.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-magnus-carlsen-on-losing-against-gukesh-my-tournament-was-over/articleshow/121664074.cms",
-         "pubDate" : "Fri, 06 Jun 2025 03:24:19",
-         "title" : "Norway Chess | Carlsen on losing against Gukesh: 'My tournament was over'"
       },
       {
          "description" : " The Titled Tuesday Blitz 3rd June saw Levon Aronian win the early event ahead of Sergei Zhigalko and Denis Lazavik. Aronian beat Alireza Firouzja in Round 6 Lazavik in round 7, drew with Nepomniachtchi in Round 8, Wesley So in Round 9 beat Nguyen Ngoc Truong Son in Round 10 and drew with Zhigalko in the final round. Firouzja won the late alone on 9.5/11 half a point clear of a big group of 6 on 9 points. Firouzja beat Sanan Sjugirov, Daniel Naroditsky and Hans Moke Niemann in the final rounds. ",
