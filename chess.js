@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Hans Moke Niemann played Levon Aronian in an 18 game blitz match on Endgame.ai. Aronian won the final two games to win the match 9.5-8.5. I managed to retrieve the games from the server.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/hans-moke-niemann-vs-levon-aronian-blitz-match-2025",
+         "pubDate" : "Sat, 21 Jun 2025 21:30:00",
+         "title" : "Hans Moke Niemann vs Levon Aronian Blitz Match 2025 - Games and Results"
+      },
+      {
          "description" : "In this exciting video, Germany's strongest female chess player, Elisabeth P&auml;htz, takes on the Aggressive Bull from Fritz 20 - a virtual opponent known for its uncompromising attacking style. Can a grandmaster title stand up to the raw calculating power and fiery play of this digital challenger? A duel on equal footing awaits you - full of tactics, tension, and surprising twists!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1048,14 +1056,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/gukesh-beats-carlsen-for-the-first-time-in-classical-chess-after-a-great-turnaround-in-fortunes",
          "pubDate" : "Mon, 2 Jun 2025 11:39:00",
          "title" : "Gukesh beats Carlsen for the first time in classical chess after a great turnaround in fortunes - 6"
-      },
-      {
-         "description" : " The Norway Chess Open took place 26th May to 1st June 2025. Gergely Kantor and Elham Amar were the top seeds. Vitaly Kunin edged out Lev Yankelevich and Torben Knuedel on tie-break after all scored 7/9. Long time leader Platon Galperin lost in the final round to Knuedel. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/norway-chess-open-2025",
-         "pubDate" : "Sun, 1 Jun 2025 22:05:00",
-         "title" : "Norway Chess Open 2025 - Games and Results"
       }
    ]
 }
