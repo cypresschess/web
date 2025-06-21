@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this exciting video, Germany's strongest female chess player, Elisabeth P&auml;htz, takes on the Aggressive Bull from Fritz 20 - a virtual opponent known for its uncompromising attacking style. Can a grandmaster title stand up to the raw calculating power and fiery play of this digital challenger? A duel on equal footing awaits you - full of tactics, tension, and surprising twists!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-fritz-20-duel-elisabeth-paehtz-vs-bull",
+         "pubDate" : "Sat, 21 Jun 2025 18:00:00",
+         "title" : "The Fritz 20 Duel: Elisabeth P&auml;htz vs. Bull!"
+      },
+      {
          "description" : "What does Mozart's Die Zauberfl&ouml;te (\"The Magic Flute&#8221;) have in common with chess? The opera tells the story of Prince Tamino, who is rescued from a serpent by three ladies allied to the Queen of the Night. Tamino is instantly entranced by a portrait of Her Nocturnal Majesty's daughter, Pamina. With the help of the magic flute and bells, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/the-magic-root-of-chess/",
          "pubDate" : "Sat, 21 Jun 2025 11:51:31",
          "title" : "The magic root of chess"
-      },
-      {
-         "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring Vasyl Ivanchuk), a Futures, and an Open will be held - modeled after the Tata Steel tournaments. Live coverage daily from 12:00 CEST (Round 2 starts at 12:30, final round at 9:00).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
-         "pubDate" : "Sat, 21 Jun 2025 11:45:00",
-         "title" : "2. UzChess Cup live"
       },
       {
          "description" : " The fifth Cairns Cup finished on Thursday with victory for 21 year old Carissa Yip who drew with her closest rival, 15 year old Alice Lee, to secure clear first place. Yip and Lee were formally the bottom two seeds in the event but there was reason to believe even before the event started that both players were considerably better than that. Neither has been very active outside the United States, Yip is studying Computer Science and Math at Stanford University and Lee is still at school, yet their powerful play at the US Championships in October, where Yip was champion and Lee finished third with only one defeat, already marked them out as leading women's players.",
