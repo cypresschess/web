@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring Vasyl Ivanchuk), a Futures, and an Open will be held - modeled after the Tata Steel tournaments. Live coverage daily from 12:00 CEST (Round 2 starts at 12:30, final round at 9:00).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
+         "pubDate" : "Sat, 21 Jun 2025 11:45:00",
+         "title" : "2. UzChess Cup live"
+      },
+      {
+         "description" : " The fifth Cairns Cup finished on Thursday with victory for 21 year old Carissa Yip who drew with her closest rival, 15 year old Alice Lee, to secure clear first place. Yip and Lee were formally the bottom two seeds in the event but there was reason to believe even before the event started that both players were considerably better than that. Neither has been very active outside the United States, Yip is studying Computer Science and Math at Stanford University and Lee is still at school, yet their powerful play at the US Championships in October, where Yip was champion and Lee finished third with only one defeat, already marked them out as leading women's players.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/carissa-yip-wins-the-cairns-cup",
+         "pubDate" : "Sat, 21 Jun 2025 10:05:00",
+         "title" : "Carissa Yip wins the Cairns Cup - 4-9"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121985150.cms\" />R Praggnanandhaa has surpassed D Gukesh in live FIDE rankings, reaching a rating of 2777.2 while competing in the UzChess Cup Masters. He is currently tied for the lead in the tournament after defeating Shamsiddin Vokhidov. Recently, India saw four players in the global top 10, including Aravindh Chithambaram, highlighting the country's growing dominance in chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "U.S. No. 1 Carissa Yip Captures 2025 Cairns Cup Title in Dazzling Comeback Victory, Wins $65,000"
       },
       {
-         "description" : " The 5th Cairns Cup took place in St Louis 10th to 20th June 2025. This women's event has the following players: Tan Zhongyi, Humpy Koneru, Nana Dzagnidze, Alina Kashlinskaya, Bibisara Assaubayeva, Mariya Muzychuk, Harika Dronavalli, Nino Batsiashvili, Carissa Yip and Alice Lee. The event is named in honor of co-founder Dr. Jeanne Cairns Sinquefield's maiden name. The event turned out to be a battle between the eventual winner 21 year old Carissa Yip and 15 year old Alice Lee. Yip only needed a draw with white in the final round to win, she was winning at one stage but had to settle for a draw. Yip made a second GM norm. Humpy Koneru had been leading after 6 rounds but lost her last three ga",
+         "description" : " The 5th Cairns Cup took place in St Louis 10th to 20th June 2025. This women's event had the following players: Tan Zhongyi, Humpy Koneru, Nana Dzagnidze, Alina Kashlinskaya, Bibisara Assaubayeva, Mariya Muzychuk, Harika Dronavalli, Nino Batsiashvili, Carissa Yip and Alice Lee. The event is named in honor of co-founder Dr. Jeanne Cairns Sinquefield's maiden name. The event turned out to be a battle between the eventual winner 21 year old Carissa Yip and 15 year old Alice Lee. Yip only needed a draw with white in the final round to win, she was winning at one stage but had to settle for a draw. Yip made a second GM norm. Humpy Koneru had been leading after 6 rounds but lost her last three ga",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/5th-cairns-cup-2025",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-freestyle-friday-june-20-2025",
          "pubDate" : "Fri, 20 Jun 2025 13:24:00",
          "title" : "Vachier-Lagrave, Carlsen Fight Freestyle Friday Down To The Wire"
-      },
-      {
-         "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring Vasyl Ivanchuk), a Futures, and an Open will be held - modeled after the Tata Steel tournaments. Live coverage daily from 12:00 CEST (Round 2 starts at 12:30, final round at 9:00).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
-         "pubDate" : "Fri, 20 Jun 2025 11:45:00",
-         "title" : "2. UzChess Cup live"
       },
       {
          "description" : "Arjun Erigaisi, Javokhir Sindarov, and Nodirbek Abdusattorov are among the favourites at the strong UzChess Masters in Tashkent, and they began the tournament with a win. In the Challengers, chess legend Vasyl Ivanchuk suffered a loss. | Photos: Tournament page",
@@ -1042,28 +1050,12 @@ news_feed (
          "title" : "Norway Chess Open 2025 - Games and Results"
       },
       {
-         "description" : " The French Interclubs Top 16 took place in Belfort Thu 22nd May to Sun 1st Jun 2025. The format is 7 preliminary rounds in two groups before the top half in each group go to Poule Haute and the bottom half to Poule Basse to decide titles and relegation. Whilst it's by no means a given that all these players will play the team lists include: Firouzja, Niemann, MVL, Harikrishna, Esipenko, Jorden Van Foreest, Kasimdzhanov, Sadhwani, Tabatabaei, Eljanov, Karthikeyan, Murzin, Mamedov, Navara, Yuffa, Gawain Maroroa Jones, Gelfand, Dardha, Amin Bassem, Ivanchuk etc. C'Chartres Echecs (leadings players Fressinet, Ivanchuk and Rauf Mamedov) won the title.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/french-interclubs-top-16-2025",
-         "pubDate" : "Sun, 1 Jun 2025 20:20:00",
-         "title" : "French Interclubs Top 16 2025 - Games and Results"
-      },
-      {
          "description" : "It's fascinating how many questions I ask myself that I actually already know the answers to. &#8220;If more information was the answer, we'd all be billionaires with perfect abs.&#8221; Derek Sivers Like many of my students, I often fall into the trap of searching for the \"perfect\" answer to a question. I'll spend hours []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.com/stop-searching-start-executing/",
          "pubDate" : "Sat, 31 May 2025 13:00:00",
          "title" : "The 5 Steps I Use to Stop Overthinking and Start Getting Results"
-      },
-      {
-         "description" : "I find it sickening to see the heretical proponents of so-called Freestyle Chess mafficking about the 100% (9/9) score by Magnus Carlsen in the recently concluded Grenke Open. Fanatical adherents of the new heresy are ululating with gay abandon and celebrating the fact that Magnus has outperformed (in a ratings sense) the superhuman rating performances []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/freestyle-chess-versus-draughts/",
-         "pubDate" : "Sat, 31 May 2025 10:13:10",
-         "title" : "'Freestyle Chess' versus Draughts"
       }
    ]
 }
