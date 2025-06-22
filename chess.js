@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "You can find the perfect games for your training in no time: using the shortcut CTRL+F, you can search your databases specifically for players, game phases, or strategic and tactical themes. These search results let you focus your training exactly where you or your students want to improve.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-19-find-model-games-for-training",
+         "pubDate" : "Sun, 22 Jun 2025 13:00:00",
+         "title" : "ChessBase 18 - Tips for beginners, Part 19: Find model games for training"
+      },
+      {
+         "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring living legend Vasyl Ivanchuk), a Futures and an Open are taking place - modelled after the Tata Steel tournaments. | Live coverage daily from 12.00 CEST (6.00 ET, 15.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
+         "pubDate" : "Sun, 22 Jun 2025 11:45:00",
+         "title" : "UzChess Cup - Round 4, live"
+      },
+      {
          "description" : "Nodirbek Abdusattorov leads the Masters section of the UzChess Cup after three rounds, having defeated Richard Rapport with the white pieces in the only decisive game of the day. The Uzbek grandmaster now stands on 2&frac12; points, ahead of a trio of players on 2. The key encounter of the round featured a sharp Sicilian and a complex endgame, as Abdusattorov outplayed Rapport in a bishop-versus-knight ending marked by time pressure and strategic imbalances. | Photo: Uzbek Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +58,7 @@ news_feed (
          "title" : "The magic root of chess"
       },
       {
-         "description" : " The fifth Cairns Cup finished on Thursday with victory for 21 year old Carissa Yip who drew with her closest rival, 15 year old Alice Lee, to secure clear first place. Yip and Lee were formally the bottom two seeds in the event but there was reason to believe even before the event started that both players were considerably better than that. Neither has been very active outside the United States, Yip is studying Computer Science and Math at Stanford University and Lee is still at school, yet their powerful play at the US Championships in October, where Yip was champion and Lee finished third with only one defeat, already marked them out as leading women's players.",
+         "description" : " The fifth Cairns Cup finished on Thursday with victory for 21 year old Carissa Yip who drew with her closest rival, 15 year old Alice Lee, to secure clear first place. Yip and Lee were formally the bottom two seeds in the event but there was reason to believe even before the event started that both players were considerably better than that. Neither has been very active outside the United States, Yip is studying Computer Science and Math at Stanford University (I now hear that at some point recently she dropped out) and Lee is still at school, yet their powerful play at the US Championships in October, where Yip was champion and Lee finished third with only one defeat, already marked them o",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/carissa-yip-wins-the-cairns-cup",
