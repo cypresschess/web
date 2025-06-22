@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nodirbek Abdusattorov leads the Masters section of the UzChess Cup after three rounds, having defeated Richard Rapport with the white pieces in the only decisive game of the day. The Uzbek grandmaster now stands on 2&frac12; points, ahead of a trio of players on 2. The key encounter of the round featured a sharp Sicilian and a complex endgame, as Abdusattorov outplayed Rapport in a bishop-versus-knight ending marked by time pressure and strategic imbalances. | Photo: Uzbek Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/uzchess-cup-2025-3",
+         "pubDate" : "Sun, 22 Jun 2025 02:15:00",
+         "title" : "UzChess Cup: Abdusattorov beats Rapport, moves into the lead"
+      },
+      {
          "description" : " Hans Moke Niemann played Levon Aronian in an 18 game blitz match on Endgame.ai. Aronian won the final two games to win the match 9.5-8.5. I managed to retrieve the games from the server.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/hans-moke-niemann-vs-levon-aronian-blitz-match-2025",
          "pubDate" : "Sat, 21 Jun 2025 21:30:00",
          "title" : "Hans Moke Niemann vs Levon Aronian Blitz Match 2025 - Games and Results"
+      },
+      {
+         "description" : "A dramatic showdown between GM Alireza Firouzja and GM Hikaru Nakamura during Saturday&#39;s Bullet Brawl&#38;nbsp;culminated in Firouzja edging out Nakamura on tiebreaks, marking the first time in history that first has been decided this way. Firouzja ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alireza-firouzja-wins-bullet-brawl-june-21-2025",
+         "pubDate" : "Sat, 21 Jun 2025 18:26:00",
+         "title" : "Tiebreaks Favor Firouzja In Photo Finish With Nakamura"
       },
       {
          "description" : "In this exciting video, Germany's strongest female chess player, Elisabeth P&auml;htz, takes on the Aggressive Bull from Fritz 20 - a virtual opponent known for its uncompromising attacking style. Can a grandmaster title stand up to the raw calculating power and fiery play of this digital challenger? A duel on equal footing awaits you - full of tactics, tension, and surprising twists!",
@@ -704,14 +720,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-world-rapid-blitz-team-chess-championships-day-2",
          "pubDate" : "Thu, 12 Jun 2025 17:10:00",
          "title" : "Anand Stuns Arjun On Day 2 Of World Rapid Team Championship"
-      },
-      {
-         "description" : "IM Alice Lee continues to lead the Cairns Cup 2025 after making a draw with GM Nana Dzagnidze. The one decisive result was IM Carissa Yip beating GM Nino Batsiashvili from a position she could have even lost. We saw draws in the rest: GM-elect Bib...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-3",
-         "pubDate" : "Thu, 12 Jun 2025 15:45:00",
-         "title" : "Yip Picks Up 1st Win"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121797920.cms\" />Magnus Carlsen's frustrated reaction to losing against D. Gukesh at Norway Chess 2025 went viral, sparking memes and social media buzz. Carlsen slammed the table, while Gukesh embraced the meme trend, even sharing his favorite one. The incident has highlighted chess's broader appeal and the impact of social media on the sport, engaging enthusiasts and casual observers alike.",
