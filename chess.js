@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hans Niemann secured the tenth spot in the upcoming Las Vegas leg of the 2025 Freestyle Chess Grand Slam by winning a competitive online Play-In tournament. The event featured a 9-round Swiss followed by a 16-player knockout, with Niemann defeating Denis Lazavik in a tense Armageddon decider. With nine invitees already confirmed, including Magnus Carlsen and Hikaru Nakamura, the full line-up for the 16-player July event continues to take shape. | Photo: Frans Peeters",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-play-in",
+         "pubDate" : "Sun, 22 Jun 2025 22:30:00",
+         "title" : "Hans Niemann earns spot in Las Vegas Freestyle Chess Grand Slam"
+      },
+      {
          "description" : "You can find the perfect games for your training in no time: using the shortcut CTRL+F, you can search your databases specifically for players, game phases, or strategic and tactical themes. These search results let you focus your training exactly where you or your students want to improve.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
