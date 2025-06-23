@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE's latest transfer list reveals that several strong players have changed federations. The most prominent of them is Gata Kamsky (pictured) who is moving to France after decades of membership in the US Chess Federation. Olga Badelka is transferring to the Austrian Chess Federation, and Gulrukhbegim Tokhirjonova is returning to the Uzbek Chess Federation. | Photo: John Saunders",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/changing-the-federation",
+         "pubDate" : "Mon, 23 Jun 2025 18:31:59",
+         "title" : "Changing Federations"
+      },
+      {
          "description" : "It might well be the world's biggest scholastic chess tournament: the \"Rechtes gegen Linkes Alsterufer\" match, played every year in Hamburg. Schools from the right bank of the Alster - the river that runs through the city - compete in teams of eight against schools from the left bank. The event began in 1958, with the left bank winning 65-33 and taking a 1-0 lead. Today, the left bank leads with 40-22 in team points and 31,277.5 to 30,512.5 in board points. Over the years, a total of 123,738 students have taken part in the event. The most recent match took place on June 18, outdoors in the center of Hamburg. The left bank won 966.5 to 769.5. | Photos: Nils Rhode",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
