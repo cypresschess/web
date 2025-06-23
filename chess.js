@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Praggnanandhaa Rameshbabu joined Nodirbek Abdusattorov in the lead of the UzChess Cup after defeating Javokhir Sindarov in round four. Both co-leaders stand on 3/4 points with one round to go before the tournament's rest day. Arjun Erigaisi and Parham Maghsoodloo are half a point behind. Pragg's win came in a complex Semi-Slav, where queenside passers and accurate endgame play proved decisive in a game marked by time trouble and tactical subtleties. | Photo: Shahid Ahmed",
+         "description" : "It might well be the world's biggest scholastic chess tournament: the \"Rechtes gegen Linkes Alsterufer\" match, played every year in Hamburg. Schools from the right bank of the Alster - the river that runs through the city - compete in teams of eight against schools from the left bank. The event began in 1958, with the left bank winning 65-33 and taking a 1-0 lead. Today, the left bank leads with 40-22 in team points and 31,277.5 to 30,512.5 in board points. Over the years, a total of 123,738 students have taken part in the event. The most recent match took place on June 18, outdoors in the center of Hamburg. The left bank won 966.5 to 769.5. | Photos: Nils Rhode",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/uzchess-cup-2025-4",
-         "pubDate" : "Mon, 23 Jun 2025 09:20:00",
-         "title" : "UzChess Cup: Pragg joins Abdusattorov in the lead"
+         "link" : "https://en.chessbase.com/post/rechtes-gegen-linkes-alsterufer-an-open-air-chess-spectacle",
+         "pubDate" : "Mon, 23 Jun 2025 15:00:00",
+         "title" : "\"Rechtes gegen linkes Alsterufer\" - An Open Air Chess Spectacle!"
+      },
+      {
+         "description" : " Guy Colas has just written a book on his son, FM Josh Colas, titled Mastering the Chessboard: A Black Prodigy's Journey Through the Chess World. It appears to be a story of a chess parent watching the progress of their child and witnessing the valuable lessons learned through chess study and competition. It seems that The post <a href=\"https://thechessdrum.net/blog/2025/06/23/josh-colas-biography-out/\">Josh Colas biography out!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/06/23/josh-colas-biography-out/",
+         "pubDate" : "Mon, 23 Jun 2025 13:26:48",
+         "title" : "Josh Colas biography out!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122027720.cms\" />Magnus Carlsen expressed his disappointment over the Oklahoma City Thunder's NBA Finals victory against the Indiana Pacers, which coincided with his wife's birthday. The Thunder secured their first championship since 1979, led by Shai Gilgeous-Alexander's impressive performance. A significant blow to the Pacers came early in the game when Tyrese Haliburton suffered an Achilles injury.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/worst-way-to-world-no-1-magnus-carlsen-expresses-disappointment-over-oklahoma-city-thunders-nba-triumph/articleshow/122027720.cms",
+         "pubDate" : "Mon, 23 Jun 2025 13:24:44",
+         "title" : "'Worst way to ... ': Carlsen shares disappointment over Oklahoma's NBA triumph"
+      },
+      {
+         "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring living legend Vasyl Ivanchuk), a Futures and an Open are taking place - modelled after the Tata Steel tournaments. | Live coverage daily from 12.00 CEST (6.00 ET, 15.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
+         "pubDate" : "Mon, 23 Jun 2025 11:45:00",
+         "title" : "UzChess Cup - Round 5, live"
       },
       {
          "description" : "Please find the certificates here SL No Candidate Name 1 Ganesh Hadawle 2 Gajengi Rajababu 3 Rakhi Patil 4 Pramila Shivaji Hole 5 Janardhanan 6",
@@ -914,14 +938,6 @@ news_feed (
          "title" : "Chess: Carlsen secures narrow victory at Stavanger in possible last classical hurrah"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121664581.cms\" />Magnus Carlsen leads D Gukesh by a narrow margin heading into the final round of Norway Chess 2025, fueled by victories over Fabiano Caruana and Wei Yi respectively. Hikaru Nakamura remains in contention after an armageddon win. In the Women's section, Anna Muzychuk surged to the lead, capitalizing on Koneru Humpy's blunder against Lei Tingjie.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-2025-d-gukesh-magnus-carlsen-win-to-setup-thrilling-final-round-separated-by-0-5-points/articleshow/121664581.cms",
-         "pubDate" : "Fri, 06 Jun 2025 04:10:48",
-         "title" : "Norway Chess: Gukesh, Carlsen win in Round 9; setup thriller in last stage"
-      },
-      {
          "description" : " The Titled Tuesday Blitz 3rd June saw Levon Aronian win the early event ahead of Sergei Zhigalko and Denis Lazavik. Aronian beat Alireza Firouzja in Round 6 Lazavik in round 7, drew with Nepomniachtchi in Round 8, Wesley So in Round 9 beat Nguyen Ngoc Truong Son in Round 10 and drew with Zhigalko in the final round. Firouzja won the late alone on 9.5/11 half a point clear of a big group of 6 on 9 points. Firouzja beat Sanan Sjugirov, Daniel Naroditsky and Hans Moke Niemann in the final rounds. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -968,14 +984,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/dubai-open-2025",
          "pubDate" : "Wed, 4 Jun 2025 12:37:00",
          "title" : "Dubai Open 2025 - Games and Results"
-      },
-      {
-         "description" : " Magnus Carlsen was left hitting the table in frustration as he lost to Gukesh from a winning position in the sixth round of the <a href=\"https://theweekinchess.com/chessnews/events/13th-Norway-chess-2025\">Norway Chess</a> tournament. Gukesh had the white pieces and the opening was a slow manoeuvring Ruy Lopez Berlin where Carlsen had equalised by move 17 and was at least a bit better by move 20. Gukesh kept playing slightly inferior moves 22.Bc6?! (Rc1) 23.Qc2?!, 24.Kh1?! (24.Ne2) and finally after 25.Qa2 (maybe 25.Kh2) he was lost and soon about to lose a piece. Maybe Carlsen's 36...Bxd5 wasn't the cleanest (36...Bxf3 or 36...Rh8 may have induced a quick resignation) but he was still clear",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/gukesh-beats-carlsen-for-the-first-time-in-classical-chess-after-a-great-turnaround-in-fortunes",
-         "pubDate" : "Mon, 2 Jun 2025 11:39:00",
-         "title" : "Gukesh beats Carlsen for the first time in classical chess after a great turnaround in fortunes - 6"
       }
    ]
 }
