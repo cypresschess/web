@@ -2,36 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Praggnanandhaa Rameshbabu joined Nodirbek Abdusattorov in the lead of the UzChess Cup after defeating Javokhir Sindarov in round four. Both co-leaders stand on 3/4 points with one round to go before the tournament's rest day. Arjun Erigaisi and Parham Maghsoodloo are half a point behind. Pragg's win came in a complex Semi-Slav, where queenside passers and accurate endgame play proved decisive in a game marked by time trouble and tactical subtleties. | Photo: Shahid Ahmed",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/uzchess-cup-2025-4",
+         "pubDate" : "Mon, 23 Jun 2025 09:20:00",
+         "title" : "UzChess Cup: Pragg joins Abdusattorov in the lead"
+      },
+      {
+         "description" : "Please find the certificates here SL No Candidate Name 1 Ganesh Hadawle 2 Gajengi Rajababu 3 Rakhi Patil 4 Pramila Shivaji Hole 5 Janardhanan 6",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-sna-held-at-kandivali-on-24-25-may-2025/",
+         "pubDate" : "Mon, 23 Jun 2025 07:57:18",
+         "title" : "Certificate : SNA held at Kandivali on 24 & 25 May 2025"
+      },
+      {
          "description" : "Hans Niemann secured the tenth spot in the upcoming Las Vegas leg of the 2025 Freestyle Chess Grand Slam by winning a competitive online Play-In tournament. The event featured a 9-round Swiss followed by a 16-player knockout, with Niemann defeating Denis Lazavik in a tense Armageddon decider. With nine invitees already confirmed, including Magnus Carlsen and Hikaru Nakamura, the full line-up for the 16-player July event continues to take shape. | Photo: Frans Peeters",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-play-in",
          "pubDate" : "Sun, 22 Jun 2025 22:30:00",
          "title" : "Hans Niemann earns spot in Las Vegas Freestyle Chess Grand Slam"
-      },
-      {
-         "description" : "You can find the perfect games for your training in no time: using the shortcut CTRL+F, you can search your databases specifically for players, game phases, or strategic and tactical themes. These search results let you focus your training exactly where you or your students want to improve.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-19-find-model-games-for-training",
-         "pubDate" : "Sun, 22 Jun 2025 13:00:00",
-         "title" : "ChessBase 18 - Tips for beginners, Part 19: Find model games for training"
-      },
-      {
-         "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring living legend Vasyl Ivanchuk), a Futures and an Open are taking place - modelled after the Tata Steel tournaments. | Live coverage daily from 12.00 CEST (6.00 ET, 15.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
-         "pubDate" : "Sun, 22 Jun 2025 11:45:00",
-         "title" : "UzChess Cup - Round 4, live"
-      },
-      {
-         "description" : "Nodirbek Abdusattorov leads the Masters section of the UzChess Cup after three rounds, having defeated Richard Rapport with the white pieces in the only decisive game of the day. The Uzbek grandmaster now stands on 2&frac12; points, ahead of a trio of players on 2. The key encounter of the round featured a sharp Sicilian and a complex endgame, as Abdusattorov outplayed Rapport in a bishop-versus-knight ending marked by time pressure and strategic imbalances. | Photo: Uzbek Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/uzchess-cup-2025-3",
-         "pubDate" : "Sun, 22 Jun 2025 02:15:00",
-         "title" : "UzChess Cup: Abdusattorov beats Rapport, moves into the lead"
       },
       {
          "description" : " Hans Moke Niemann played Levon Aronian in an 18 game blitz match on Endgame.ai. Aronian won the final two games to win the match 9.5-8.5. I managed to retrieve the games from the server.",
@@ -48,14 +40,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/alireza-firouzja-wins-bullet-brawl-june-21-2025",
          "pubDate" : "Sat, 21 Jun 2025 18:26:00",
          "title" : "Tiebreaks Favor Firouzja In Photo Finish With Nakamura"
-      },
-      {
-         "description" : "In this exciting video, Germany's strongest female chess player, Elisabeth P&auml;htz, takes on the Aggressive Bull from Fritz 20 - a virtual opponent known for its uncompromising attacking style. Can a grandmaster title stand up to the raw calculating power and fiery play of this digital challenger? A duel on equal footing awaits you - full of tactics, tension, and surprising twists!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-fritz-20-duel-elisabeth-paehtz-vs-bull",
-         "pubDate" : "Sat, 21 Jun 2025 18:00:00",
-         "title" : "The Fritz 20 Duel: Elisabeth P&auml;htz vs. Bull!"
       },
       {
          "description" : "What does Mozart's Die Zauberfl&ouml;te (\"The Magic Flute&#8221;) have in common with chess? The opera tells the story of Prince Tamino, who is rescued from a serpent by three ladies allied to the Queen of the Night. Tamino is instantly entranced by a portrait of Her Nocturnal Majesty's daughter, Pamina. With the help of the magic flute and bells, []",
@@ -98,22 +82,6 @@ news_feed (
          "title" : "5th Cairns Cup 2025 - Games and Results"
       },
       {
-         "description" : "IM Andrew Martin's video course provides practical and aggressive solutions against Anti-Sicilian lines, covering common systems like 2.c3, Nc3, and Bb5, as well as rare moves like 2.b3 and 2.Na3. Designed for club and tournament players, it helps you neutralize White's sidelines and confidently take control of the game.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/andrew-martin-how-to-play-the-anti-sicilians",
-         "pubDate" : "Fri, 20 Jun 2025 19:00:00",
-         "title" : "Andrew Martin: How to play the Anti-Sicilians"
-      },
-      {
-         "description" : "Thanks to the help of Magnus Carlsen and his \"Viking\" friends, FC St. Pauli was able to stay in the German Bundesliga in the 2024/25 season. During his appearance for St. Pauli, Carlsen also made headlines beyond the chess world. The cult club has now announced that the world's best chess player will continue to wear the club's colors next year. | Photo: Andr&eacute; Schulz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-stys-with-st-pauli",
-         "pubDate" : "Fri, 20 Jun 2025 17:00:00",
-         "title" : "Carlsen stays with the St. Pauli"
-      },
-      {
          "description" : "Next week is the first ever ECF National Schools' Chess Finals Week. This features the finals of both the English Schools' Chess Championships and the three Team Chess Challenge tournaments....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -128,14 +96,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/uk-open-blitz-championship-2025/",
          "pubDate" : "Fri, 20 Jun 2025 15:00:21",
          "title" : "UK Open Blitz Championship 2025"
-      },
-      {
-         "description" : "Over the Whitsun weekend, young Belgian grandmaster Daniel Dardha set a new world record in a clock simul in Deinze. He faced 50 opponents and scored 47.5 points, surpassing the previous record held by Sipke Ernst. | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-dardha-sets-new-world-record-in-clock-simul",
-         "pubDate" : "Fri, 20 Jun 2025 15:00:00",
-         "title" : "Daniel Dardha sets new world record in clock simul"
       },
       {
          "description" : "&#160; &#160;",
@@ -168,30 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-freestyle-friday-june-20-2025",
          "pubDate" : "Fri, 20 Jun 2025 13:24:00",
          "title" : "Vachier-Lagrave, Carlsen Fight Freestyle Friday Down To The Wire"
-      },
-      {
-         "description" : "Arjun Erigaisi, Javokhir Sindarov, and Nodirbek Abdusattorov are among the favourites at the strong UzChess Masters in Tashkent, and they began the tournament with a win. In the Challengers, chess legend Vasyl Ivanchuk suffered a loss. | Photos: Tournament page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/uzchess-cup-tournament-favourites-erigaisi-and-abdusattorov-start-with-wins",
-         "pubDate" : "Fri, 20 Jun 2025 11:12:13",
-         "title" : "UzChess Cup: Tournament favourites Erigaisi and Abdusattorov start with wins"
-      },
-      {
-         "description" : "Carissa Yip kept her nerves! With a draw against Alice Lee in the final round of the Cairns Cup in Saint Louis, she secured both the tournament victory and a GM norm. If Lee had won the game, she would have taken first place, but the draw was enough for her to finish second. The youngest participants, and the 9th and 10th seeds-Carissa Yip and Alice Lee-won gold and silver in Saint Louis. Third place went to Harika Dronavalli. | Photo: Lennart Ootes/Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-tournament-victory-and-gm-norm-for-carissa-yip",
-         "pubDate" : "Fri, 20 Jun 2025 10:30:16",
-         "title" : "Cairns Cup: Tournament victory and GM norm for Carissa Yip"
-      },
-      {
-         "description" : "Those who prepare well in the summer will be ready for tournaments in the fall and winter - or for summer opens as well. The Neo-London System is a powerful weapon that allows White to take control of the game right from the start - slightly sharper than the traditional London System. In her Fritztrainer, Elisabeth P&auml;htz explains how it works. Part of this week's Summer Special for only €34.90 (instead of €49.90).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/elisabeth-paehtz-neo-london-this-week-s-summer-special-only-34-90",
-         "pubDate" : "Fri, 20 Jun 2025 08:59:44",
-         "title" : "Elisabeth P&auml;htz: Neo-London - This week's summer special: only €34.90"
       },
       {
          "description" : "GM Magnus Carlsen created a viral hit when he slammed the table in rage following his loss against GM Gukesh Dommaraju.&#38;nbsp; The 2025 Norway Chess captured the world&#39;s attention on and off the board at a scale unlike any of the 12 previous edit...",
@@ -330,22 +266,6 @@ news_feed (
          "title" : "Svane, Lazavik, Pranesh And Kravtsiv Qualify For Vegas Knockout"
       },
       {
-         "description" : "The Uzbek Chess Federation is organizing the UzChess Cup again. It is taking place in Tashkent from June 19 to 27, and is a major chess festival featuring three invitational tournaments - Masters, Challengers, and Futures - as well as an Open tournament. The Masters tournament is particularly strong. Four of the top five Uzbek players will compete against six international top players.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/strong-lineup-at-the-uzchess-cup-in-tashkent",
-         "pubDate" : "Wed, 18 Jun 2025 13:59:13",
-         "title" : "Strong Lineup at the UzChess Cup in Tashkent"
-      },
-      {
-         "description" : "The Cairns Cup in Saint Louis remains exciting. With two rounds to go, Humpy Koneru, Carissa Yip, and Alice Lee are tied for the lead with 4.5 points out of 7. Trailing by just half a point are Harika Dronavalli and Alina Kashlinskaya. In round 7, Carissa Yip won a tactical skirmish against Humpy Koneru, while Alice Lee capitalized on Alina Kashlinskaya's overly aggressive attacking play. The other three games ended in draws, but Harika Dronavalli (pictured), Nino Batsiashvili, and Nana Dzagnidze all missed promising opportunities. | Photo: Lennart Ootes/Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-round-7-two-wins-three-leaders-and-three-missed-chances",
-         "pubDate" : "Wed, 18 Jun 2025 10:41:10",
-         "title" : "Cairns Cup, Round 7: Two wins, three leaders, and three missed chances"
-      },
-      {
          "description" : "&#8212; from Owen Phillips The 17th IBCA Chess Olympiad for Blind and Visually Impaired Players starts on 17th June, in Vrnjacka Banja, Serbia, and with one game each afternoon concluding...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -418,22 +338,6 @@ news_feed (
          "title" : "American Duo Lee, Yip Topple Leaders"
       },
       {
-         "description" : "Master Your Technique Vol. 2 by Adrian Mikhalchishin takes you deeper into the technical foundations of practical chess, focusing on converting advantages and mastering key endgame and middlegame imbalances. Through structured lessons and model games, you'll learn crucial skills like precise endgame technique, double attacks, attacking on open files, and the principle of two weaknesses. This course is ideal for ambitious players who want to turn good positions into wins with confidence and clarity.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/adrian-mikhalchishin-master-your-technique-vol-2-winning-strategies-you-must-know",
-         "pubDate" : "Tue, 17 Jun 2025 16:37:13",
-         "title" : "Adrian Mikhalchishin: Master your Technique Vol. 2 - Winning strategies you must know"
-      },
-      {
-         "description" : "In some countries, strong chess players have risen to prominent political positions, and in others, politicians happen to be skilled at chess. But even high-ranking chess officials can find their way into political office. According to the World Chess Federation, Zandanshatar Gombojav, former president of the Mongolian Chess Federation, has now been appointed Prime Minister of Mongolia.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/first-head-of-the-chess-federation-now-prime-minister-zandanshatar-gombojav",
-         "pubDate" : "Tue, 17 Jun 2025 15:00:00",
-         "title" : "First head of the Chess Federation, now Prime Minister: Zandanshatar Gombojav"
-      },
-      {
          "description" : "Justin Reid moved from the Chiefs to the Saints in the offseason, but over the chessboard, nothing has changed. He confidently defended his title to become the first ever repeat winner of BlitzChamps IV, the tournament to decide the NFL&#39;s best che...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -442,28 +346,12 @@ news_feed (
          "title" : "Justin Reid Cruises Through BlitzChamps IV To Defend Title"
       },
       {
-         "description" : "After the rest day following Round 5, fighting spirit returned to the Cairns Cup in Saint Louis: all five games in Round 6 ended decisively. The new tournament leader is Humpy Koneru, who won an interesting theoretical battle against Harika Dronavalli. She now leads with 4.5 points out of 6, half a point ahead of Alina Kashlinskaya, who defeated Mariya Muzychuk. | Photo: Lennart Ootes/Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-round-6-humpy-koneru-takes-the-lead",
-         "pubDate" : "Tue, 17 Jun 2025 12:46:36",
-         "title" : "Cairns Cup, Round 6: Humpy Koneru takes the lead"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121908049.cms\" />Anish Giri publicly challenged WR Chess stars Nakamura and Nepomniachtchi over their successful appeal and controversial replay during the FIDE Blitz quarterfinals, questioning their motives. Nepo admitted the decision was messy, though WR Chess ultimately won the tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/future-fide-president-anish-giri-involved-in-an-heated-argument-with-ian-nepomniachtchi-hikaru-nakamura-watch-video/articleshow/121908049.cms",
          "pubDate" : "Tue, 17 Jun 2025 10:13:52",
          "title" : "'Future FIDE Prez:' Giri involved in an heated argument with Nepo, Nakamura - Watch"
-      },
-      {
-         "description" : "There are many tournaments staged in drab surroundings. How about attending one that takes place in beautiful surrounding, where you can combine your participation with an enchanting holiday. Here are four FIDE tournament that are coming this year. Definitely worth careful consideration.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/looking-for-a-nice-place-to-play",
-         "pubDate" : "Tue, 17 Jun 2025 07:22:28",
-         "title" : "Looking for a nice place to play?"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121902246.cms\" />Magnus Carlsen's emotional outburst after losing to Gukesh has gone viral. Indian GM Pentala Harikrishna hilariously mimicked the fist smash in a FIDE interview. Even Anish Giri joined the fun earlier, tapping his fist before a game with a smile.",
