@@ -50,6 +50,14 @@ news_feed (
          "title" : "Certificate : SNA held at Kandivali on 24 & 25 May 2025"
       },
       {
+         "description" : "Editor's note: This report will be updated in the upcoming days with photos from the tournament.FM Tanitoluwa Adewumi has repeated as the US Cadet Champion in Schaumburg, IL, winning the 2025 eight-player Round Robin with a round to spare. The annual US Cadet Championship pits the highest-rated American chess players under the age of 16 (as of the first of the year) against each other for the title of Cadet champion. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> This cover from the August 2024 issue of Chess Life Kids comes in handy once again!<br> <br> <br> <br> The 14-year-old New Yorker finished with an undefeated 6/7 score, a full point ahead of ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tani-captures-second-us-cadet-championship",
+         "pubDate" : "Mon, 23 Jun 2025 00:00:00",
+         "title" : "Tani Captures Second US Cadet Championship"
+      },
+      {
          "description" : "Hans Niemann secured the tenth spot in the upcoming Las Vegas leg of the 2025 Freestyle Chess Grand Slam by winning a competitive online Play-In tournament. The event featured a 9-round Swiss followed by a 16-player knockout, with Niemann defeating Denis Lazavik in a tense Armageddon decider. With nine invitees already confirmed, including Magnus Carlsen and Hikaru Nakamura, the full line-up for the 16-player July event continues to take shape. | Photo: Frans Peeters",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -800,14 +808,6 @@ news_feed (
          "link" : "https://aicf.in/fide-world-cadet-chess-championships-2025/",
          "pubDate" : "Mon, 09 Jun 2025 07:04:21",
          "title" : "FIDE World Cadet Chess Championships - 2025"
-      },
-      {
-         "description" : "The winners of the 39th annual Frank P. Samford Jr. Chess Fellowship are:Grandmasters Abhimanyu Mishra, of Englishtown, New Jersey; Andy Woodward, of McKinney, Texas; Andrew Hong, of Saratoga, California, and Brewington Hardaway, of New York City; International Masters Dimitar Mardov, of Lake Zurich, Illinois; Carissa Yip, of St. Louis, and Alice Lee, of North Oaks, Minnesota; Woman Grandmaster Zoey Tang of Portland, Oregon, and National Master Megan Paragua, of New York City.The Samford is the most important chess fellowship in the United States, having awarded more than $2.5 million to promising young chessplayers since 1987.The total value of the Fellowships has been increased several tim",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-samford-fellowship-winners-announced",
-         "pubDate" : "Mon, 09 Jun 2025 00:00:00",
-         "title" : "2025 Samford Fellowship Winners Announced"
       },
       {
          "description" : " Norman Rogers of Philadelphia has returned to regular chess tournaments after a foray into poker. While he still plays poker, he recently played in the Chicago Open (under-2300) and scored 5.5/7, tying for 5th-6th place. When asked about his return, he says, &#8220;I'm already back.&#8221; FM Norman Rogers (left) showing one of his wins to The post <a href=\"https://thechessdrum.net/blog/2025/06/08/norman-rogers-shines-at-2025-chicago-open/\">Norman Rogers shines at 2025 Chicago Open</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
