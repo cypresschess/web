@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round five of the Masters section in the UzChess Cup saw four decisive results, shaking up the standings. Nodirbek Abdusattorov reclaimed the sole lead by winning his third game with the white pieces, while Parham Maghsoodloo and Arjun Erigaisi moved into shared second place by scoring full points. Javokhir Sindarov also scored a win, as he bounced back from his round-four loss by defeating Richard Rapport. | Photo: sports.uz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/uzchess-cup-2025-5",
+         "pubDate" : "Tue, 24 Jun 2025 07:40:00",
+         "title" : "UzChess Cup: Exciting round leaves Abdusattorov as sole leader"
+      },
+      {
          "description" : "FIDE's latest transfer list reveals that several strong players have changed federations. The most prominent of them is Gata Kamsky (pictured) who is moving to France after decades of membership in the US Chess Federation. Olga Badelka is transferring to the Austrian Chess Federation, and Gulrukhbegim Tokhirjonova is returning to the Uzbek Chess Federation. | Photo: John Saunders",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,14 +42,6 @@ news_feed (
          "title" : "'Worst way to ... ': Carlsen shares disappointment over Oklahoma's NBA triumph"
       },
       {
-         "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring living legend Vasyl Ivanchuk), a Futures and an Open are taking place - modelled after the Tata Steel tournaments. | Live coverage daily from 12.00 CEST (6.00 ET, 15.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
-         "pubDate" : "Mon, 23 Jun 2025 11:45:00",
-         "title" : "UzChess Cup - Round 5, live"
-      },
-      {
          "description" : "Please find the certificates here SL No Candidate Name 1 Ganesh Hadawle 2 Gajengi Rajababu 3 Rakhi Patil 4 Pramila Shivaji Hole 5 Janardhanan 6",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -56,14 +56,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tani-captures-second-us-cadet-championship",
          "pubDate" : "Mon, 23 Jun 2025 00:00:00",
          "title" : "Tani Captures Second US Cadet Championship"
-      },
-      {
-         "description" : "Hans Niemann secured the tenth spot in the upcoming Las Vegas leg of the 2025 Freestyle Chess Grand Slam by winning a competitive online Play-In tournament. The event featured a 9-round Swiss followed by a 16-player knockout, with Niemann defeating Denis Lazavik in a tense Armageddon decider. With nine invitees already confirmed, including Magnus Carlsen and Hikaru Nakamura, the full line-up for the 16-player July event continues to take shape. | Photo: Frans Peeters",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-play-in",
-         "pubDate" : "Sun, 22 Jun 2025 22:30:00",
-         "title" : "Hans Niemann earns spot in Las Vegas Freestyle Chess Grand Slam"
       },
       {
          "description" : " Hans Moke Niemann played Levon Aronian in an 18 game blitz match on Endgame.ai. Aronian won the final two games to win the match 9.5-8.5. I managed to retrieve the games from the server.",
