@@ -50,14 +50,6 @@ news_feed (
          "title" : "Registrations For The Collegiate Chess League Summer 2025 Season Are Now Open"
       },
       {
-         "description" : "Round five of the Masters section in the UzChess Cup saw four decisive results, shaking up the standings. Nodirbek Abdusattorov reclaimed the sole lead by winning his third game with the white pieces, while Parham Maghsoodloo and Arjun Erigaisi moved into shared second place by scoring full points. Javokhir Sindarov also scored a win, as he bounced back from his round-four loss by defeating Richard Rapport. | Photo: sports.uz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/uzchess-cup-2025-5",
-         "pubDate" : "Tue, 24 Jun 2025 07:40:00",
-         "title" : "UzChess Cup: Exciting round leaves Abdusattorov as sole leader"
-      },
-      {
          "description" : "GM Nodirbek Abdusattorov leads his home supertournament, the 2025 UzChess Cup Masters, on 4/5 after defeating GMs Shamsiddin Vokhidov, Richard Rapport, and Aravindh Chithambaram. He&#39;s trailed by half a point by GM Arjun Erigaisi and also GM Parham...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -66,20 +58,12 @@ news_feed (
          "title" : "Abdusattorov Leads Arjun, Maghsoodloo After UzChess Masters Round 5"
       },
       {
-         "description" : "FIDE's latest transfer list reveals that several strong players have changed federations. The most prominent of them is Gata Kamsky (pictured) who is moving to France after decades of membership in the US Chess Federation. Olga Badelka is transferring to the Austrian Chess Federation, and Gulrukhbegim Tokhirjonova is returning to the Uzbek Chess Federation. | Photo: John Saunders",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/changing-the-federation",
-         "pubDate" : "Mon, 23 Jun 2025 18:31:59",
-         "title" : "Changing Federations"
-      },
-      {
-         "description" : "It might well be the world's biggest scholastic chess tournament: the \"Rechtes gegen Linkes Alsterufer\" match, played every year in Hamburg. Schools from the right bank of the Alster - the river that runs through the city - compete in teams of eight against schools from the left bank. The event began in 1958, with the left bank winning 65-33 and taking a 1-0 lead. Today, the left bank leads with 40-22 in team points and 31,277.5 to 30,512.5 in board points. Over the years, a total of 123,738 students have taken part in the event. The most recent match took place on June 18, outdoors in the center of Hamburg. The left bank won 966.5 to 769.5. | Photos: Nils Rhode",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rechtes-gegen-linkes-alsterufer-an-open-air-chess-spectacle",
-         "pubDate" : "Mon, 23 Jun 2025 15:00:00",
-         "title" : "\"Rechtes gegen linkes Alsterufer\" - An Open Air Chess Spectacle!"
+         "description" : "Today's exercises come from the 2025 Under-20 Pan-American Championship, which concluded last Thursday in Paraguay. Read our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-pan-american-junior-championship",
+         "pubDate" : "Tue, 24 Jun 2025 00:00:00",
+         "title" : "Tactics Tuesday: 2025 Pan-American Junior Championship"
       },
       {
          "description" : " Guy Colas has just written a book on his son, FM Josh Colas, titled Mastering the Chessboard: A Black Prodigy's Journey Through the Chess World. It appears to be a story of a chess parent watching the progress of their child and witnessing the valuable lessons learned through chess study and competition. It seems that The post <a href=\"https://thechessdrum.net/blog/2025/06/23/josh-colas-biography-out/\">Josh Colas biography out!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -792,14 +776,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-whole-chess-world-is-yours",
          "pubDate" : "Tue, 10 Jun 2025 12:08:55",
          "title" : "The whole chess world is yours!"
-      },
-      {
-         "description" : "This week's puzzles come from the 12th Cherry Blossom Classic, which was featured in our Memorial Day wrap-up. While the later rounds of competitive opens usually feature the most level match-ups - with top grandmasters going at it for a shot at the biggest prizes - the early rounds of these tournaments often produce the best material for learning tactics. We've all had the experience of holding on for a while against higher-rated players before blundering a tactic. These tournaments allow us to see what types of mistakes strong players make when competing against even stronger competition. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-cherry-blossom-classic",
-         "pubDate" : "Tue, 10 Jun 2025 00:00:00",
-         "title" : "Tactics Tuesday: Cherry Blossom Classic"
       },
       {
          "description" : "The European School Chess Championship 2025 took place from 29 May to 8 June at the Complex Amiral - Comandor - Orfeu in Mamaia, Romania. The event was played in six age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, with the participation of more than 200 players coming from 14 European federations. Mete Aras Akbudak (TUR) emerged as the sole Winner of the U7 category with the score of 8 points and clinched gold []",
