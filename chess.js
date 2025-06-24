@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the first time, the Freestyle Chess Grand Slam Tour comes to the United States. From July 16 to 20, Wynn Las Vegas will host 16 of the world's top chess players, competing for $750,000 in prize money in a format designed to reward creativity and skill. The event marks the fourth stop of the 2025 global tour and is the first to welcome a live audience. | Photo: Freestyle Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-in-las-vegas-with-magnus-carlsen-and-hans-niemann",
+         "pubDate" : "Tue, 24 Jun 2025 14:27:00",
+         "title" : "Freestyle Chess in Las Vegas - with Magnus Carlsen and Hans Niemann"
+      },
+      {
          "description" : "FIDE President Arkady Dvorkovich made the ceremonial first move on Sunday at a strong open tournament in Aktobe. The event has been held since 2019 as a memorial for his father, Vladimir Dvorkovich. Top seed is Wang Hao but in his first game the Chinese grandmaster suffered a loss. | Photos: Tournament page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,28 @@ news_feed (
          "title" : "UzChess Cup - Round 6, live"
       },
       {
+         "description" : "We&#39;re excited to announce the fourth Summer season of the Collegiate Chess League (CCL) presented by Susquehanna, one of the world&#39;s leading quantitative trading firms. In this edition, college students will battle it out in bullet and team ches...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-collegiate-chess-league-summer-2025",
+         "pubDate" : "Tue, 24 Jun 2025 08:00:00",
+         "title" : "Registrations For The Collegiate Chess League Summer 2025 Season Are Now Open"
+      },
+      {
          "description" : "Round five of the Masters section in the UzChess Cup saw four decisive results, shaking up the standings. Nodirbek Abdusattorov reclaimed the sole lead by winning his third game with the white pieces, while Parham Maghsoodloo and Arjun Erigaisi moved into shared second place by scoring full points. Javokhir Sindarov also scored a win, as he bounced back from his round-four loss by defeating Richard Rapport. | Photo: sports.uz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/uzchess-cup-2025-5",
          "pubDate" : "Tue, 24 Jun 2025 07:40:00",
          "title" : "UzChess Cup: Exciting round leaves Abdusattorov as sole leader"
+      },
+      {
+         "description" : "GM Nodirbek Abdusattorov leads his home supertournament, the 2025 UzChess Cup Masters, on 4/5 after defeating GMs Shamsiddin Vokhidov, Richard Rapport, and Aravindh Chithambaram. He&#39;s trailed by half a point by GM Arjun Erigaisi and also GM Parham...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/uzchess-masters-2025-round-5-abdusattorov",
+         "pubDate" : "Tue, 24 Jun 2025 04:51:58",
+         "title" : "Abdusattorov Leads Arjun, Maghsoodloo After UzChess Masters Round 5"
       },
       {
          "description" : "FIDE's latest transfer list reveals that several strong players have changed federations. The most prominent of them is Gata Kamsky (pictured) who is moving to France after decades of membership in the US Chess Federation. Olga Badelka is transferring to the Austrian Chess Federation, and Gulrukhbegim Tokhirjonova is returning to the Uzbek Chess Federation. | Photo: John Saunders",
@@ -634,14 +658,6 @@ news_feed (
          "title" : "Titled Tuesday Blitz 10th June 2025 - Games and Results"
       },
       {
-         "description" : "Insurance company Symetra Financial was crowned as the champions of the 2025 North American Corporate Chess League (NACCL) on Thursday after their master-laden team defeated trading firm Jane Street 2.5-1.5 in the Final.&#38;nbsp; Symetra&#39;s IM Irakl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/symetra-wins-2025-north-american-corporate-chess-league",
-         "pubDate" : "Fri, 13 Jun 2025 10:35:51",
-         "title" : "Beradze, Stukopin Lead Symetra To Corporate League Crown"
-      },
-      {
          "description" : "As many as 50 candidates representing state of Gujarat, Maharashtra and Tamil Nadu attended the two days SNA Seminar cum Examination held on 24th &#38;25th",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -672,14 +688,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-3-recap/",
          "pubDate" : "Thu, 12 Jun 2025 21:42:21",
          "title" : "2025 Cairns Cup - Day 3 Recap"
-      },
-      {
-         "description" : "Fifty-five-year-old GM Viswanathan Anand rolled back the years to win a brilliant game against GM Arjun Erigaisi on day two of the 2025 World Rapid &#38;amp; Blitz Team Championships. Arjun&#39;s 0.5/4 didn&#39;t stop his Team MGD1 remaining unbeaten until th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-rapid-blitz-team-chess-championships-day-2",
-         "pubDate" : "Thu, 12 Jun 2025 17:10:00",
-         "title" : "Anand Stuns Arjun On Day 2 Of World Rapid Team Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121797920.cms\" />Magnus Carlsen's frustrated reaction to losing against D. Gukesh at Norway Chess 2025 went viral, sparking memes and social media buzz. Carlsen slammed the table, while Gukesh embraced the meme trend, even sharing his favorite one. The incident has highlighted chess's broader appeal and the impact of social media on the sport, engaging enthusiasts and casual observers alike.",
