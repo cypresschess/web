@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We are pleased to announce the 2025 British Chess Championship Festival including social chess events at St George's Hall and a wider &#8216;Chess in the City' Festival of events in...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-chess-championships-festival/",
+         "pubDate" : "Tue, 24 Jun 2025 17:30:54",
+         "title" : "British Chess Championships Festival"
+      },
+      {
          "description" : "For the first time, the Freestyle Chess Grand Slam Tour comes to the United States. From July 16 to 20, Wynn Las Vegas will host 16 of the world's top chess players, competing for $750,000 in prize money in a format designed to reward creativity and skill. The event marks the fourth stop of the 2025 global tour and is the first to welcome a live audience. | Photo: Freestyle Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
          "pubDate" : "Tue, 24 Jun 2025 11:45:00",
          "title" : "UzChess Cup - Round 6, live"
+      },
+      {
+         "description" : "Nineteen-year-old Belgian GM Daniel Dardha is reported to have set a new world record after playing a 50-board clock simul this month, pending official approval. The young grandmaster scored 40 wins, drew seven games, and had only three losses i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-dardha-sets-new-simul-record",
+         "pubDate" : "Tue, 24 Jun 2025 08:27:22",
+         "title" : "Daniel Dardha Breaks World Record With 50-Board Clock Simul"
       },
       {
          "description" : "We&#39;re excited to announce the fourth Summer season of the Collegiate Chess League (CCL) presented by Susquehanna, one of the world&#39;s leading quantitative trading firms. In this edition, college students will battle it out in bullet and team ches...",
@@ -642,14 +658,6 @@ news_feed (
          "title" : "Arjun, Pranav, & 'New Pang Bo' Power MGD1 To World Rapid Teams Title"
       },
       {
-         "description" : "A week after GM Jeffery Xiong scored the first 11/11 in Freestyle Friday history, this week&#39;s 960 event on Chess.com ended in a three-way tie on nine points. GM Denis Lazavik pulled ahead in the ninth round, but then allowed IMs Eytan Rozen and Ma...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lazavik-wins-freestyle-friday-june-13-2025",
-         "pubDate" : "Fri, 13 Jun 2025 11:53:42",
-         "title" : "Lazavik Outlasts Fellow Teens On Tiebreaks"
-      },
-      {
          "description" : " The Titled Tuesday Blitz 10th June events were won by Hans Moke Niemann and Magnus Carlsen. In the Early Niemann beat Carlsen and Nakamura in successive rounds (although neither game is a classic) to set up his win. Niemann finished on 10.5/11 with a final round draw against Klementy Sychev, Magnus Carlsen was clear second on 10 points. In the Late event Carlsen won with 10/11, his only loss coming to Hikaru Nakamura, however his win against Niemann in round 10 came from a game where he was completely busted for much of the time. Both game files are available for download but there seems little point to displaying the games from files of this size and this may create significant problems fo",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2025-ecf-awards/",
          "pubDate" : "Wed, 11 Jun 2025 08:00:39",
          "title" : "2025 ECF Awards"
-      },
-      {
-         "description" : "Steve Rigby, the founder of Oldham-based 3Cs Chess Club over forty-six years ago, has been awarded the British Empire Medal in the 2025 King's New Year's Honours for services to...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2025-kings-new-years-honours-stephen-rigby-british-empire-medal/",
-         "pubDate" : "Wed, 11 Jun 2025 07:00:37",
-         "title" : "2025 King's New Year's Honours: Stephen Rigby, British Empire Medal - new photos"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-1-recap/\">2025 Cairns Cup - Day 1 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
