@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE President Arkady Dvorkovich made the ceremonial first move on Sunday at a strong open tournament in Aktobe. The event has been held since 2019 as a memorial for his father, Vladimir Dvorkovich. Top seed is Wang Hao but in his first game the Chinese grandmaster suffered a loss. | Photos: Tournament page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/strong-field-at-masters-open-in-aktobe-kazakhstan",
+         "pubDate" : "Tue, 24 Jun 2025 12:53:14",
+         "title" : "Strong field at Masters Open in Aktobe (Kazakhstan)"
+      },
+      {
+         "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring living legend Vasyl Ivanchuk), a Futures and an Open are taking place - modelled after the Tata Steel tournaments. | Live coverage daily from 12.00 CEST (6.00 ET, 15.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
+         "pubDate" : "Tue, 24 Jun 2025 11:45:00",
+         "title" : "UzChess Cup - Round 6, live"
+      },
+      {
          "description" : "Round five of the Masters section in the UzChess Cup saw four decisive results, shaking up the standings. Nodirbek Abdusattorov reclaimed the sole lead by winning his third game with the white pieces, while Parham Maghsoodloo and Arjun Erigaisi moved into shared second place by scoring full points. Javokhir Sindarov also scored a win, as he bounced back from his round-four loss by defeating Richard Rapport. | Photo: sports.uz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
