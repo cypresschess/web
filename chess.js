@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "He is one of the best-known commentators for international chess events. Maurice Ashley has covered high-profile events such as the Kasparov vs. Nigel Short World Championship (1993), Kasparov vs. Deep Blue matches (1996 and 1997), and Kasparov vs. X3D Fritz (2003). He has also commentated for the Grand Chess Tour, Sinquefield Cups, and US Chess Championships. Turns out he has other strengths. Read on to find out.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/maurice-ashley-lives-his-passion",
+         "pubDate" : "Wed, 25 Jun 2025 18:00:00",
+         "title" : "Maurice Ashley lives his passion"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122074469.cms\" />The All India Chess Federation (AICF) has launched the Top National Players Stipend Scheme (TNPSS), distributing over Rs 42 lakh to 42 top-ranked youth chess players across various age groups. This initiative, spearheaded by AICF President Nitin Narang, aims to provide financial assistance to promising young talents, supporting their training, travel, and participation in competitions.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/rs-42-3-lakh-disbursed-as-aicf-rolls-out-player-stipends-for-top-chess-talents-in-india/articleshow/122074469.cms",
+         "pubDate" : "Wed, 25 Jun 2025 16:14:04",
+         "title" : "Rs 42.3 lakh disbursed as AICF rolls out player stipends for top chess talents in India"
+      },
+      {
          "description" : " The Titled Tuesday Blitz 24th June saw wins for V Pranav in the early and Denis Lazavik in the late, both finishing on 10/11. In the early Pranav won his final round game against the leader Hans Moke Niemann, a four knights which proved to be a pretty convincing carve up. Magnus Carlsen was effectively out of the running after three rounds, in round 2 he was held to a draw by nine-year-old Indian player Aarit Kapil - in fact Carlsen was dead lost for most of the second half of the game (although out of the opening he had a large advantage). Carlsen then did lose in round 3, to 15 year-old Russian Maksim Ivannikov, Carlsen was winning, allowed his opponent back into the game who then proceed",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -24,6 +40,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/children-chess-o2-arena-2025",
          "pubDate" : "Wed, 25 Jun 2025 10:25:22",
          "title" : "School children play chess on the roof of London's O2 Arena"
+      },
+      {
+         "description" : "Get ready for wild sacs and spectacular king hunts! The Chess.com Bughouse Chess Championship, the next installment of the Chess.com Community Championships, begins on July 7 at 11 a.m. ET/17:00 CEST. With five days of competition and a $5,000 pri...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-bughouse-championship-2025",
+         "pubDate" : "Wed, 25 Jun 2025 10:21:59",
+         "title" : "Call Your Chess Buddy And Join The Chess.com Bughouse Championship Starting July 7"
+      },
+      {
+         "description" : "Chess.com is excited to announce our newest bot: IM Julien Song! Since launching his YouTube channel, Song has established himself as a leading chess creator, uploading tournament vlogs, educational speedruns, and unique OTB instructional videos t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/julien-song-bot",
+         "pubDate" : "Wed, 25 Jun 2025 10:11:39",
+         "title" : "Play Chess Against The New Julien Song Bot!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122067289.cms\" />Nine-year-old Aarit Kapil drew against world champion Magnus Carlsen in an online chess tournament, showcasing his impressive skills. While Aarit competed in Georgia, V Pranav secured first place in the 'Early Titled Tuesday' event. Carlsen also achieved a historic 2900 rating in freestyle chess, surpassing his previous classical peak and demonstrating his dominance in the chess world.",
@@ -618,14 +650,6 @@ news_feed (
          "title" : "Eigaisi, Srinath's Team MGD1 becomes first Indian team to win FIDE World Rapid Team Championship"
       },
       {
-         "description" : "Going into the rest day, three players continue to lead the Cairns Cup 2025: GM Koneru Humpy, GM Harika Dronavalli, and IM Alice Lee.&#38;nbsp;IM Carissa Yip won the only decisive game of round five against GM Nana Dzagnidze, after a five-hour struggl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-5",
-         "pubDate" : "Sat, 14 Jun 2025 15:33:00",
-         "title" : "Yip Grinds Out 2nd Win; 3 Leaders Remain"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121850948.cms\" />Abhijeet Gupta secured his fourth title at the 21st Delhi International Open Grandmasters Chess Tournament 2025, remaining undefeated across ten rounds. Nikitenko of Belarus finished second, followed by India's Diptayan Ghosh. The tournament, organised by the Delhi Chess Association, hosted over 2,500 players from 20 countries and featured a record prize pool.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -656,14 +680,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-4-recap/",
          "pubDate" : "Fri, 13 Jun 2025 22:32:33",
          "title" : "2025 Cairns Cup - Day 4 Recap"
-      },
-      {
-         "description" : "Almost a decade on from his viral victories against Leela Chess in ultrabullet, GM Andrew Tang has proven he is the quickest player on Chess.com for the second year in a row following a successful title defense in the 2025 Chess.com Hyperbullet Ch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andrew-tang-wins-2025-hyperbullet-community-championship",
-         "pubDate" : "Fri, 13 Jun 2025 21:56:00",
-         "title" : "Tang Defeats Naroditsky, Retains Hyperbullet Title"
       },
       {
          "description" : " The 5th Cairns Cup takes place in Saint Louis Tue 10th Jun to Fri 20th Jun 2025. The early pace has been set by Alice Lee who started with wins against Nino Batsiashvili and Mariya Muzychuk before drawing against Nana Dzagnidze. Top seed is Tan Zhongyi and she started with a loss against Alina Kashlinskaya before drawing against second seed Humpy Koneru and then in form Bibisara Assaubayeva. Koneru, Alina Kashlinskaya and Harika Dronavalli share second place on 2/3. ",
@@ -906,14 +922,6 @@ news_feed (
          "title" : "Norway Chess: Muzychuk, with much less hype, earns as much as Carlsen"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121687557.cms\" />Magnus Carlsen clinched his seventh Norway Chess title after D Gukesh's loss to Fabiano Caruana in the final round. Carlsen secured the championship with 16 points, closely followed by Caruana and Gukesh. In the women's section, Anna Muzychuk of Ukraine emerged victorious, despite losing the Armageddon tie-break, while Koneru Humpy finished as the runner-up.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-d-gukesh-falters-in-final-round-magnus-carlsen-clinches-7th-title/articleshow/121687557.cms",
-         "pubDate" : "Sat, 07 Jun 2025 02:45:12",
-         "title" : "Norway Chess: Gukesh falters in final round; Carlsen clinches 7th title"
-      },
-      {
          "description" : "Despite lacking motivation for the format and even questioning the need to play it at all, Magnus Carlsen was still superior to the world's top players at Norway Chess.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -968,14 +976,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-3rd-june-2025",
          "pubDate" : "Wed, 4 Jun 2025 22:19:00",
          "title" : "Titled Tuesday Blitz 3rd June 2025 - Games and Results"
-      },
-      {
-         "description" : " Hans Moke Niemann played an 18 game blitz match against Anish Giri starting 4pm BST on 4th June. Just one day of blitz games and played online using the website Endgame.AI. Niemann seemed to have the match wrapped up but Giri mounted a comeback and won the final four games to run out a 9.5-8.5 winner. In the final game Giri was down to the increment for many, many moves and Niemann was almost 90 seconds up at one stage and even had 60 seconds at the end when he walked into mate when Giri had only 10. \"Sorry guys, I choked\" was Niemann's reaction.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/hans-moke-niemann-vs-anish-giri-rematch-2025",
-         "pubDate" : "Wed, 4 Jun 2025 18:49:00",
-         "title" : "Hans Moke Niemann vs Anish Giri Rematch 2025 - Games and Results"
       }
    ]
 }
