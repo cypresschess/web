@@ -1,11 +1,13 @@
 jtable([
 "HOUSTON","2025-06-19  - 06-22","23","<a href=http://www.uschess.org/msa/XtblMain.php?202506222002 target='_blank'>HOUSTON JUNETEENTH OPEN - PREMIER</a>",
 "HOUSTON","2025-06-19  - 06-22","29","<a href=http://www.uschess.org/msa/XtblMain.php?202506221962 target='_blank'>HOUSTON JUNETEENTH OPEN</a>",
+"HOUSTON","2025-06-21  - 06-22","8","<a href=http://www.uschess.org/msa/XtblMain.php?202506221332 target='_blank'>JUNE 2-DAY U2300 SWISS FIDE</a>",
 "HOUSTON","2025-06-22","6","<a href=http://www.uschess.org/msa/XtblMain.php?202506221072 target='_blank'>BELLAIRE SUNDAY SWISS 06/22/25</a>",
 "HOUSTON","2025-06-21","6","<a href=http://www.uschess.org/msa/XtblMain.php?202506219992 target='_blank'>CHESSPANDA06212025SATURDAY</a>",
 "HOUSTON","2025-06-21","18","<a href=http://www.uschess.org/msa/XtblMain.php?202506211982 target='_blank'>HOUSTON JUNETEENTH BLITZ</a>",
 "HOUSTON","2025-06-20","18","<a href=http://www.uschess.org/msa/XtblMain.php?202506209742 target='_blank'>SHADOWCREEK06202025FRIDAY</a>",
 "CYPRESS","2025-06-20","35","<a href=http://www.uschess.org/msa/XtblMain.php?202506209662 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SUGAR LAND","2025-06-20","32","<a href=http://www.uschess.org/msa/XtblMain.php?202506209652 target='_blank'>FBCC 2025 AMERICAN EAGLE DAY OPEN.P</a>",
 "SPRING","2025-06-20","13","<a href=http://www.uschess.org/msa/XtblMain.php?202506209642 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2025-06-19","4","<a href=http://www.uschess.org/msa/XtblMain.php?202506199322 target='_blank'>SHADOWCREEKTHURSDAY06192025AFTERNOO</a>",
 "HOUSTON","2025-06-19","66","<a href=http://www.uschess.org/msa/XtblMain.php?202506199202 target='_blank'>HOUSTON JUNETEENTH SCHOLASTIC</a>",
@@ -197,6 +199,4 @@ jtable([
 "CYPRESS","2024-12-06","33","<a href=http://www.uschess.org/msa/XtblMain.php?202412064162 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2024-11-30","45","<a href=http://www.uschess.org/msa/XtblMain.php?202411307662 target='_blank'>2024 TEXAS 'QUICK CHESS' STATE CHAM</a>",
 "SPRING","2024-11-29","23","<a href=http://www.uschess.org/msa/XtblMain.php?202411297012 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2024-11-05  - 11-26","13","<a href=http://www.uschess.org/msa/XtblMain.php?202411266842 target='_blank'>NOVEMBER 2024 TUESDAY NIGHT SWISS</a>",
-"SUGAR LAND","2024-11-24","4","<a href=http://www.uschess.org/msa/XtblMain.php?202411245612 target='_blank'>CYGA11242024</a>",
 ]);
