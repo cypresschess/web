@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring living legend Vasyl Ivanchuk), a Futures and an Open are taking place - modelled after the Tata Steel tournaments. | Live coverage daily from 12.00 CEST (6.00 ET, 15.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
+         "pubDate" : "Wed, 25 Jun 2025 11:45:00",
+         "title" : "UzChess Cup - Round 7, live"
+      },
+      {
+         "description" : "To mark the launch of a new community chess club, pupils from The Pointer School played a game of chess 52 metres above London atop the O2 Arena. The initiative aims to make structured chess coaching freely accessible to primary school children across Greenwich and South East London. Backed by a strong chess tradition and alumni like Shreyas Royal, the school continues to promote chess as a powerful tool for personal development.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/children-chess-o2-arena-2025",
+         "pubDate" : "Wed, 25 Jun 2025 10:25:22",
+         "title" : "School children play chess on the roof of London's O2 Arena"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122067289.cms\" />Nine-year-old Aarit Kapil drew against world champion Magnus Carlsen in an online chess tournament, showcasing his impressive skills. While Aarit competed in Georgia, V Pranav secured first place in the 'Early Titled Tuesday' event. Carlsen also achieved a historic 2900 rating in freestyle chess, surpassing his previous classical peak and demonstrating his dominance in the chess world.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-magnus-carlsen-lost-to-9-year-old-indian-all-you-need-to-know/articleshow/122067289.cms",
+         "pubDate" : "Wed, 25 Jun 2025 09:35:20",
+         "title" : "Magnus Carlsen lost to 9-year-old Indian? All you need to know"
+      },
+      {
          "description" : "Round six of the UzChess Cup featured two decisive games that reshaped the standings ahead of the final three rounds. Nodirbek Yakubboev (pictured) defeated former sole leader Nodirbek Abdusattorov in a 132-move endgame battle, while Richard Rapport beat Praggnanandhaa Rameshbabu with a sharp sacrificial attack. As a result, Abdusattorov, Arjun Erigaisi and Parham Maghsoodloo now share the lead on 4/6 points, with Maghsoodloo set to face Abdusattorov in round seven. | Photo: sports.uz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "UzChess Cup: Yakubboev beats Abdusattorov, Rapport beats Praggnanandhaa"
       },
       {
-         "description" : "We are pleased to announce the 2025 British Chess Championship Festival including social chess events at St George's Hall and a wider &#8216;Chess in the City' Festival of events in...",
+         "description" : "We are pleased to announce the 2025 British Chess Championship Festival, including social chess events at St George's Hall and a wider &#8216;Chess in the City' festival of events in...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/british-chess-championships-festival/",
@@ -872,14 +896,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-anna-muzychuk-draws-less-hype-but-earns-same-prize-money-as-magnus-carlsen-after-womens-title/articleshow/121692612.cms",
          "pubDate" : "Sat, 07 Jun 2025 10:09:17",
          "title" : "Norway Chess: Muzychuk, with much less hype, earns as much as Carlsen"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121687732.cms\" />Magnus Carlsen clinched his seventh Norway Chess title, benefiting from D Gukesh's final-round loss to Fabiano Caruana. Carlsen drew his last game, securing the win with 16 points, while Caruana finished second. Carlsen acknowledged the potential of young Indian talents like Gukesh and Arjun Erigaisi, highlighting his own challenging tournament, including a notable loss to Gukesh.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/not-a-positive-memory-magnus-carlsen-haunted-by-d-gukesh-loss-but-says-indians-still-need-time-to-prepare/articleshow/121687732.cms",
-         "pubDate" : "Sat, 07 Jun 2025 03:07:20",
-         "title" : "'Not a positive memory': Carlsen haunted by Gukesh loss; but says 'Indians need time'"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121687557.cms\" />Magnus Carlsen clinched his seventh Norway Chess title after D Gukesh's loss to Fabiano Caruana in the final round. Carlsen secured the championship with 16 points, closely followed by Caruana and Gukesh. In the women's section, Anna Muzychuk of Ukraine emerged victorious, despite losing the Armageddon tie-break, while Koneru Humpy finished as the runner-up.",
