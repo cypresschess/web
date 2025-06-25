@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round six of the UzChess Cup featured two decisive games that reshaped the standings ahead of the final three rounds. Nodirbek Yakubboev (pictured) defeated former sole leader Nodirbek Abdusattorov in a 132-move endgame battle, while Richard Rapport beat Praggnanandhaa Rameshbabu with a sharp sacrificial attack. As a result, Abdusattorov, Arjun Erigaisi and Parham Maghsoodloo now share the lead on 4/6 points, with Maghsoodloo set to face Abdusattorov in round seven. | Photo: sports.uz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/uzchess-cup-2025-6",
+         "pubDate" : "Wed, 25 Jun 2025 07:25:00",
+         "title" : "UzChess Cup: Yakubboev beats Abdusattorov, Rapport beats Praggnanandhaa"
+      },
+      {
          "description" : "We are pleased to announce the 2025 British Chess Championship Festival including social chess events at St George's Hall and a wider &#8216;Chess in the City' Festival of events in...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/strong-field-at-masters-open-in-aktobe-kazakhstan",
          "pubDate" : "Tue, 24 Jun 2025 12:53:14",
          "title" : "Strong field at Masters Open in Aktobe (Kazakhstan)"
-      },
-      {
-         "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring living legend Vasyl Ivanchuk), a Futures and an Open are taking place - modelled after the Tata Steel tournaments. | Live coverage daily from 12.00 CEST (6.00 ET, 15.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
-         "pubDate" : "Tue, 24 Jun 2025 11:45:00",
-         "title" : "UzChess Cup - Round 6, live"
       },
       {
          "description" : "Nineteen-year-old Belgian GM Daniel Dardha is reported to have set a new world record after playing a 50-board clock simul this month, pending official approval. The young grandmaster scored 40 wins, drew seven games, and had only three losses i...",
