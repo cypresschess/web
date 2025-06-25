@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Titled Tuesday Blitz 24th June saw wins for V Pranav in the early and Denis Lazavik in the late, both finishing on 10/11. In the early Pranav won his final round game against the leader Hans Moke Niemann, a four knights which proved to be a pretty convincing carve up. Magnus Carlsen was effectively out of the running after three rounds, in round 2 he was held to a draw by nine-year-old Indian player Aarit Kapil - in fact Carlsen was dead lost for most of the second half of the game (although out of the opening he had a large advantage). Carlsen then did lose in round 3, to 15 year-old Russian Maksim Ivannikov, Carlsen was winning, allowed his opponent back into the game who then proceed",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-24th-june-2025",
+         "pubDate" : "Wed, 25 Jun 2025 13:16:00",
+         "title" : "Titled Tuesday Blitz 24th June 2025 - Games and Results"
+      },
+      {
          "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring living legend Vasyl Ivanchuk), a Futures and an Open are taking place - modelled after the Tata Steel tournaments. | Live coverage daily from 12.00 CEST (6.00 ET, 15.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/uzchess-cup-2025-6",
          "pubDate" : "Wed, 25 Jun 2025 07:25:00",
          "title" : "UzChess Cup: Yakubboev beats Abdusattorov, Rapport beats Praggnanandhaa"
+      },
+      {
+         "description" : "GM Pranav Venkatesh won the early June 24 edition of Titled Tuesday outright with 10 points, a half-point ahead of the winners of the previous two weeks,&#38;nbsp;GMs Hans Niemann and Magnus Carlsen. It was the 18-year-old&#39;s third Titled Tuesday win a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pranav-lazavik-win-titled-tuesday-june-24-2025",
+         "pubDate" : "Wed, 25 Jun 2025 07:12:22",
+         "title" : "Youth Prevails As Pranav, Lazavik Win Titled Tuesday"
+      },
+      {
+         "description" : "The complete field for the $750,000 Freestyle Chess Grand Slam Las Vegas (July 16-20) has been revealed, with most of the world&#39;s elite competing for the $200,000 first price. The event also sees the surprise inclusion of GM-elect Bibisara Assauba...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/assaubayeva-surprise-freestyle-chess-las-vegas-invite",
+         "pubDate" : "Wed, 25 Jun 2025 06:57:00",
+         "title" : "Assaubayeva Given Surprise Freestyle Chess Ticket To Join World Stars In Las Vegas"
       },
       {
          "description" : "We are pleased to announce the 2025 British Chess Championship Festival, including social chess events at St George's Hall and a wider &#8216;Chess in the City' festival of events in...",
@@ -367,7 +391,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/17th-ibca-chess-olympiad-for-blind-and-visually-impaired-players/",
          "pubDate" : "Wed, 18 Jun 2025 08:07:22",
-         "title" : "17th IBCA Chess Olympiad for Blind and Visually Impaired Players"
+         "title" : "17th IBCA Chess Olympiad for Blind and Visually Impaired Players - update 25/6/25"
       },
       {
          "description" : "A week after&#38;nbsp;GMs Hans Niemann and Magnus Carlsen&#38;nbsp;won Titled Tuesday on June 10, Titled Tuesday on June 17 was won by... Carlsen and Niemann. This week, Carlsen scored 10.5 points in the early event, winning by a full point ahead of GMs A...",
@@ -642,28 +666,12 @@ news_feed (
          "title" : "Tang Defeats Naroditsky, Retains Hyperbullet Title"
       },
       {
-         "description" : "GMs Koneru Humpy and Harika Dronavalli won in round four to catch IM Alice Lee in the lead of the Cairns Cup 2025. They defeated GM-elect Bibisara Assaubayeva and GM Nana Dzagnidze, respectively. GM Mariya Muzychuk also picked up her first win of ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-4",
-         "pubDate" : "Fri, 13 Jun 2025 18:20:00",
-         "title" : "Humpy, Harika Catch Lee In Shared Lead"
-      },
-      {
          "description" : " The 5th Cairns Cup takes place in Saint Louis Tue 10th Jun to Fri 20th Jun 2025. The early pace has been set by Alice Lee who started with wins against Nino Batsiashvili and Mariya Muzychuk before drawing against Nana Dzagnidze. Top seed is Tan Zhongyi and she started with a loss against Alina Kashlinskaya before drawing against second seed Humpy Koneru and then in form Bibisara Assaubayeva. Koneru, Alina Kashlinskaya and Harika Dronavalli share second place on 2/3. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/alice-lee-leads-the-cairns-cup-after-three-rounds",
          "pubDate" : "Fri, 13 Jun 2025 18:10:00",
          "title" : "Alice Lee leads the Cairns Cup after three rounds - 1-3"
-      },
-      {
-         "description" : "GM Arjun Erigaisi bounced back to score 3.5/4 and lead Team MGD1 to gold medals in the 2025 World Rapid &#38;amp; Blitz Team Championship after a perfect four match wins on the final day. GM Levon Aronian&#39;s Hexamind took silver, while GM Viswanathan A...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-rapid-blitz-team-chess-championships-day-3",
-         "pubDate" : "Fri, 13 Jun 2025 16:13:00",
-         "title" : "Arjun, Pranav, & 'New Pang Bo' Power MGD1 To World Rapid Teams Title"
       },
       {
          "description" : " The Titled Tuesday Blitz 10th June events were won by Hans Moke Niemann and Magnus Carlsen. In the Early Niemann beat Carlsen and Nakamura in successive rounds (although neither game is a classic) to set up his win. Niemann finished on 10.5/11 with a final round draw against Klementy Sychev, Magnus Carlsen was clear second on 10 points. In the Late event Carlsen won with 10/11, his only loss coming to Hikaru Nakamura, however his win against Niemann in round 10 came from a game where he was completely busted for much of the time. Both game files are available for download but there seems little point to displaying the games from files of this size and this may create significant problems fo",
@@ -968,38 +976,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/hans-moke-niemann-vs-anish-giri-rematch-2025",
          "pubDate" : "Wed, 4 Jun 2025 18:49:00",
          "title" : "Hans Moke Niemann vs Anish Giri Rematch 2025 - Games and Results"
-      },
-      {
-         "description" : "Last year FIDE celebrated its 100th anniversary. The book \"100 Years of FIDE\" is an illustrated history of the World Chess Federation. From it we excerpt passages, with kind permission, this time from the first World Championships in the post-war era - after the sudden death of World Champion Alexander Alekhine. It is a great chance to brush up your knowledge of chess history.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-history-era-of-soviet-domination",
-         "pubDate" : "Wed, 04 Jun 2025 15:00:00",
-         "title" : "FIDE history: Era of Soviet Domination"
-      },
-      {
-         "description" : " Fabiano Caruana leads the <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">Norway Chess</a> tournament with 12.5 points out of a possible 24 half a point clear of Magnus Carlsen who has 12 points, this after 8 rounds, they meet in Round 9 on Thursday. By this point the tournament has almost completely been derailed by Magnus Carlsen's troubled tournament. Ever since Carlsen lost from a winning position against Gukesh he's been completely off. He clearly doesn't want to be there. In Round 7 Carlsen forced a quick draw against Nakamura and won the subsequent tie-break, then in round 8 he drew in the classical game and then just dropped a piece against Wei Yi. It se",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/caruana-leads-in-norway-after-8-rounds-ahead-of-his-game-with-carlsen",
-         "pubDate" : "Wed, 4 Jun 2025 14:16:00",
-         "title" : "Caruana leads in Norway after 8 rounds ahead of his game with Carlsen - 8"
-      },
-      {
-         "description" : " The Polish Ekstraliga took place 2nd to 10th June 2025. Leading players: Pentala Harikrishna, Frederik Svane, Matthias Bluebaum, David Navara, Daniel Dardha, Nils Grandelius, Rasmus Svane, Andrei Volokitin, Maxime Lagarde, Ferenc Berkes, Marc Andria Maurizzi etc. Wieza Pomot Pegow won.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tch-pol-ekstraliga-2025",
-         "pubDate" : "Wed, 4 Jun 2025 12:41:00",
-         "title" : "TCh-POL Ekstraliga 2025 - Games and Results"
-      },
-      {
-         "description" : " The Dubai Open took place 27th May to 4th June 2025. Aleksey Grebnev edged out Alan Pichot on tie-break after both scored 7/9. Top seed Sarin Nihal finished a point off the lead tied for sixth.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/dubai-open-2025",
-         "pubDate" : "Wed, 4 Jun 2025 12:37:00",
-         "title" : "Dubai Open 2025 - Games and Results"
       }
    ]
 }
