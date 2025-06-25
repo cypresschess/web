@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Chess Stars 5.0 tournament takes place in Moscow 26th to 30th June 2025. Players: Vladislav Artemiev, Sergey Karjakin, Teimour Radjabov, Evgeny Tomashevsky, Raunak Sadhwani, Hou Yifan, Aleksandra Goryachkina, Kateryna Lagno, Bibisara Assaubayeva and Valentina Gunina. 3 days of rapid and then 2 days of blitz.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chess-stars-5.0-2025",
+         "pubDate" : "Wed, 25 Jun 2025 22:02:00",
+         "title" : "Chess Stars 5.0 2025 - Games and Results"
+      },
+      {
          "description" : "He is one of the best-known commentators for international chess events. Maurice Ashley has covered high-profile events such as the Kasparov vs. Nigel Short World Championship (1993), Kasparov vs. Deep Blue matches (1996 and 1997), and Kasparov vs. X3D Fritz (2003). He has also commentated for the Grand Chess Tour, Sinquefield Cups, and US Chess Championships. Turns out he has other strengths. Read on to find out.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-24th-june-2025",
          "pubDate" : "Wed, 25 Jun 2025 13:16:00",
          "title" : "Titled Tuesday Blitz 24th June 2025 - Games and Results"
+      },
+      {
+         "description" : "GMs Alireza Firouzja, Nihal Sarin, Daniel Naroditsky, and Sam Sevian are the last ones left in the Winners Bracket of the 2025 Bullet Chess Championship after day one. All four players won both of their matches to stay at the top, while the other ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-bullet-chess-championship-day-1",
+         "pubDate" : "Wed, 25 Jun 2025 12:47:00",
+         "title" : "Firouzja, Nihal, Naroditsky, Sevian Advance To Winners Semis"
       },
       {
          "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring living legend Vasyl Ivanchuk), a Futures and an Open are taking place - modelled after the Tata Steel tournaments. | Live coverage daily from 12.00 CEST (6.00 ET, 15.30 IST).",
@@ -66,14 +82,6 @@ news_feed (
          "title" : "Magnus Carlsen lost to 9-year-old Indian? All you need to know"
       },
       {
-         "description" : "Round six of the UzChess Cup featured two decisive games that reshaped the standings ahead of the final three rounds. Nodirbek Yakubboev (pictured) defeated former sole leader Nodirbek Abdusattorov in a 132-move endgame battle, while Richard Rapport beat Praggnanandhaa Rameshbabu with a sharp sacrificial attack. As a result, Abdusattorov, Arjun Erigaisi and Parham Maghsoodloo now share the lead on 4/6 points, with Maghsoodloo set to face Abdusattorov in round seven. | Photo: sports.uz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/uzchess-cup-2025-6",
-         "pubDate" : "Wed, 25 Jun 2025 07:25:00",
-         "title" : "UzChess Cup: Yakubboev beats Abdusattorov, Rapport beats Praggnanandhaa"
-      },
-      {
          "description" : "GM Pranav Venkatesh won the early June 24 edition of Titled Tuesday outright with 10 points, a half-point ahead of the winners of the previous two weeks,&#38;nbsp;GMs Hans Niemann and Magnus Carlsen. It was the 18-year-old&#39;s third Titled Tuesday win a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -90,28 +98,20 @@ news_feed (
          "title" : "Assaubayeva Given Surprise Freestyle Chess Ticket To Join World Stars In Las Vegas"
       },
       {
+         "description" : "Today's exercises come from the 2025 Under-20 Pan-American Championship, which concluded last Thursday in Paraguay. Read our full report here, and find more puzzles in yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2025-pan-american-junior-championship",
+         "pubDate" : "Wed, 25 Jun 2025 00:00:00",
+         "title" : "Wednesday Workout: 2025 Pan-American Junior Championship"
+      },
+      {
          "description" : "We are pleased to announce the 2025 British Chess Championship Festival, including social chess events at St George's Hall and a wider &#8216;Chess in the City' festival of events in...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/british-chess-championships-festival/",
          "pubDate" : "Tue, 24 Jun 2025 17:30:54",
          "title" : "British Chess Championships Festival"
-      },
-      {
-         "description" : "For the first time, the Freestyle Chess Grand Slam Tour comes to the United States. From July 16 to 20, Wynn Las Vegas will host 16 of the world's top chess players, competing for $750,000 in prize money in a format designed to reward creativity and skill. The event marks the fourth stop of the 2025 global tour and is the first to welcome a live audience. | Photo: Freestyle Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-in-las-vegas-with-magnus-carlsen-and-hans-niemann",
-         "pubDate" : "Tue, 24 Jun 2025 14:27:00",
-         "title" : "Freestyle Chess in Las Vegas - with Magnus Carlsen and Hans Niemann"
-      },
-      {
-         "description" : "FIDE President Arkady Dvorkovich made the ceremonial first move on Sunday at a strong open tournament in Aktobe. The event has been held since 2019 as a memorial for his father, Vladimir Dvorkovich. Top seed is Wang Hao but in his first game the Chinese grandmaster suffered a loss. | Photos: Tournament page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/strong-field-at-masters-open-in-aktobe-kazakhstan",
-         "pubDate" : "Tue, 24 Jun 2025 12:53:14",
-         "title" : "Strong field at Masters Open in Aktobe (Kazakhstan)"
       },
       {
          "description" : "Nineteen-year-old Belgian GM Daniel Dardha is reported to have set a new world record after playing a 50-board clock simul this month, pending official approval. The young grandmaster scored 40 wins, drew seven games, and had only three losses i...",
@@ -634,14 +634,6 @@ news_feed (
          "title" : "13-Year-Old Beats Nakamura But Favorites Thrive As Blitz Begins"
       },
       {
-         "description" : "GM Andrew Tang put his shoulder back to the wheel fewer than 24 hours after winning the 2025 Chess.com Hyperbullet Championship&#38;nbsp;and won his seventh Bullet Brawl&#38;nbsp;of the year after a 34-game streak. Tang scored 62.5/75 and amassed 220 poin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-june-14-2025",
-         "pubDate" : "Sat, 14 Jun 2025 17:54:00",
-         "title" : "Tang Back In Limelight Following 34-Game Bloodbath"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121851504.cms\" />Team MGD1, seeded sixth, made history by becoming the first Indian team to win the FIDE World Rapid Team Championships in London. They secured victory with 10 wins out of 12 rounds, edging out Team Hexamind in a tightly contested battle. Arjun Erigaisi's stellar performance on the final day and Atharvaa Tayade's exceptional contribution were crucial to their success.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -802,14 +794,6 @@ news_feed (
          "title" : "2025 Cairns Cup - Day 1 Recap"
       },
       {
-         "description" : "This week's puzzles all comes from yesterday's games played in the first round of the 2025 Cairns Cup (preview here). Fireworks produced decisive results on all five boards. Will we get eight weeks' worth of workouts over the next eight rounds? Maybe! For now, enjoy yesterday's highlights. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-cairns-cup-rd-1",
-         "pubDate" : "Wed, 11 Jun 2025 00:00:00",
-         "title" : "Wednesday Workout: Cairns Cup, Rd. 1"
-      },
-      {
          "description" : "The ECU E-Magazine May 2025 is out! In this edition of the ECU E-Magazine you may read about: ECU E-Magazine May 2025 can be read online together with interactive links on the following link or it can be downloaded in PDF format below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -968,14 +952,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jun/06/chess-carlsen-targets-last-classical-hurrah-at-stavanger-after-defeat-against-gukesh",
          "pubDate" : "Fri, 06 Jun 2025 07:00:29",
          "title" : "Chess: Carlsen secures narrow victory at Stavanger in possible last classical hurrah"
-      },
-      {
-         "description" : " The Titled Tuesday Blitz 3rd June saw Levon Aronian win the early event ahead of Sergei Zhigalko and Denis Lazavik. Aronian beat Alireza Firouzja in Round 6 Lazavik in round 7, drew with Nepomniachtchi in Round 8, Wesley So in Round 9 beat Nguyen Ngoc Truong Son in Round 10 and drew with Zhigalko in the final round. Firouzja won the late alone on 9.5/11 half a point clear of a big group of 6 on 9 points. Firouzja beat Sanan Sjugirov, Daniel Naroditsky and Hans Moke Niemann in the final rounds. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-3rd-june-2025",
-         "pubDate" : "Wed, 4 Jun 2025 22:19:00",
-         "title" : "Titled Tuesday Blitz 3rd June 2025 - Games and Results"
       }
    ]
 }
