@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nodirbek Abdusattorov regained the sole lead at the UzChess Cup by defeating Parham Maghsoodloo in round seven, marking his fourth win with the white pieces. The only other decisive game saw Javokhir Sindarov beating Aravindh Chithambaram to join Arjun Erigaisi in shared second place. With two rounds remaining, Abdusattorov leads on 5/7, while Arjun - the only unbeaten player - and Sindarov trail by half a point. | Photo: Shahid Ahmed",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/uzchess-cup-2025-7",
+         "pubDate" : "Thu, 26 Jun 2025 02:10:00",
+         "title" : "UzChess Cup: Abdusattorov beats Maghsoodloo in style, regains sole lead"
+      },
+      {
          "description" : " The Chess Stars 5.0 tournament takes place in Moscow 26th to 30th June 2025. Players: Vladislav Artemiev, Sergey Karjakin, Teimour Radjabov, Evgeny Tomashevsky, Raunak Sadhwani, Hou Yifan, Aleksandra Goryachkina, Kateryna Lagno, Bibisara Assaubayeva and Valentina Gunina. 3 days of rapid and then 2 days of blitz.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-bullet-chess-championship-day-1",
          "pubDate" : "Wed, 25 Jun 2025 12:47:00",
          "title" : "Firouzja, Nihal, Naroditsky, Sevian Advance To Winners Semis"
-      },
-      {
-         "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring living legend Vasyl Ivanchuk), a Futures and an Open are taking place - modelled after the Tata Steel tournaments. | Live coverage daily from 12.00 CEST (6.00 ET, 15.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
-         "pubDate" : "Wed, 25 Jun 2025 11:45:00",
-         "title" : "UzChess Cup - Round 7, live"
       },
       {
          "description" : "To mark the launch of a new community chess club, pupils from The Pointer School played a game of chess 52 metres above London atop the O2 Arena. The initiative aims to make structured chess coaching freely accessible to primary school children across Greenwich and South East London. Backed by a strong chess tradition and alumni like Shreyas Royal, the school continues to promote chess as a powerful tool for personal development.",
