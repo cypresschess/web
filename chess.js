@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring living legend Vasyl Ivanchuk), a Futures and an Open are taking place - modelled after the Tata Steel tournaments. | Live coverage daily from 12.00 CEST (6.00 ET, 15.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
+         "pubDate" : "Thu, 26 Jun 2025 11:45:00",
+         "title" : "UzChess Cup - Round 8, live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/NSCC/#new_tab",
+         "pubDate" : "Thu, 26 Jun 2025 10:38:59",
+         "title" : "Team Chess Challenges National Finals 2025"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122088395.cms\" />The Indian leg of the Freestyle Chess Grand Slam, scheduled for September in New Delhi, has been cancelled due to a lack of sponsors. This is a disappointment for fans hoping to see Magnus Carlsen compete in India. CEO Jan Henric Buettner confirmed the move and will step down in July. The next event is in Las Vegas this July.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-no-magnus-carlsen-in-india-freestyle-chess-event-called-off-over-lack-of-sponsors/articleshow/122088395.cms",
+         "pubDate" : "Thu, 26 Jun 2025 09:39:17",
+         "title" : "Exclusive: No Magnus Carlsen in India! Freestyle Chess event called off over lack of sponsors"
+      },
+      {
          "description" : "In this entertaining and instructive video, WIM Svitlana Demchenko faced the \"Bobby Fischer\" engine from Fritz 20 in a dynamic training match. She played the Scotch Gambit and managed to gain a clear advantage through sharp tactical play, sacrificing material for initiative and space. Despite a midgame slip that dropped her evaluation and confidence, she regrouped and navigated a complex endgame with precision, ultimately securing the win. The game showcased both instructive mistakes and brilliant ideas, making it a realistic and valuable learning experience rather than a flawless engine battle.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -794,14 +818,6 @@ news_feed (
          "title" : "Exclusive: Bangladeshi player deported from India; 80-yo legend Rani Hamid 'disturbed' by events"
       },
       {
-         "description" : "The ECF annual awards celebrate achievements both individual and collective. They are a way for the ECF to recognise the work that numerous individuals undertake to promote and develop chess...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2025-ecf-awards/",
-         "pubDate" : "Wed, 11 Jun 2025 08:00:39",
-         "title" : "2025 ECF Awards"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-1-recap/\">2025 Cairns Cup - Day 1 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -904,14 +920,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/train-decision-making-in-chess/",
          "pubDate" : "Sat, 07 Jun 2025 13:00:00",
          "title" : "In Chess and in Life, You Have to Decide Without Knowing"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121692612.cms\" />Anna Muzychuk, Ukraine's top Grandmaster, secured the Norway Chess Women title. She remained unbeaten in classical games. Muzychuk amassed 16.5 points, edging out competitors. She also received equal prize money of NOK 700,000. This victory highlights her consistent performance in women's chess. The tournament featured a unique format with Armageddon tiebreaks. Muzychuk's strategic gameplay led to her success in Stavanger.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-anna-muzychuk-draws-less-hype-but-earns-same-prize-money-as-magnus-carlsen-after-womens-title/articleshow/121692612.cms",
-         "pubDate" : "Sat, 07 Jun 2025 10:09:17",
-         "title" : "Norway Chess: Muzychuk, with much less hype, earns as much as Carlsen"
       },
       {
          "description" : "Despite lacking motivation for the format and even questioning the need to play it at all, Magnus Carlsen was still superior to the world's top players at Norway Chess.",
