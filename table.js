@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-06-20  - 06-22","64","<a href=http://www.uschess.org/msa/XtblMain.php?202506222872 target='_blank'>NORTH TEXAS FIDE 06-20-2025</a>",
 "HOUSTON","2025-06-19  - 06-22","23","<a href=http://www.uschess.org/msa/XtblMain.php?202506222002 target='_blank'>HOUSTON JUNETEENTH OPEN - PREMIER</a>",
 "HOUSTON","2025-06-19  - 06-22","29","<a href=http://www.uschess.org/msa/XtblMain.php?202506221962 target='_blank'>HOUSTON JUNETEENTH OPEN</a>",
 "HOUSTON","2025-06-21  - 06-22","8","<a href=http://www.uschess.org/msa/XtblMain.php?202506221332 target='_blank'>JUNE 2-DAY U2300 SWISS FIDE</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-12-06","40","<a href=http://www.uschess.org/msa/XtblMain.php?202412069882 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2024-12-06","33","<a href=http://www.uschess.org/msa/XtblMain.php?202412064162 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2024-11-30","45","<a href=http://www.uschess.org/msa/XtblMain.php?202411307662 target='_blank'>2024 TEXAS 'QUICK CHESS' STATE CHAM</a>",
-"SPRING","2024-11-29","23","<a href=http://www.uschess.org/msa/XtblMain.php?202411297012 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
