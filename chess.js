@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From July 16 to 20, 16 of the world's best chess players will compete in Freestyle Chess in Las Vegas. But before that, on July 13, Magnus Carlsen and his colleagues will face top athletes from a different discipline at the \"Chesstival\": players from the NBA who want to show the grandmasters how good they are at chess. | Photo: Basketball giant Victor Wembanyama with fans playing chess in New York. | Photo: Wembanyama's X account",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/train-the-mind-the-body-will-follow-chess-and-basketballl",
+         "pubDate" : "Thu, 26 Jun 2025 18:00:00",
+         "title" : "\"Train the Mind. The Body Will Follow\" - Chess and Basketballl"
+      },
+      {
          "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring living legend Vasyl Ivanchuk), a Futures and an Open are taking place - modelled after the Tata Steel tournaments. | Live coverage daily from 12.00 CEST (6.00 ET, 15.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
          "pubDate" : "Thu, 26 Jun 2025 11:45:00",
          "title" : "UzChess Cup - Round 8, live"
+      },
+      {
+         "description" : "The fifth event in the Freestyle Chess Grand Slam Tour was scheduled to take place in Delhi from September 17-25, but has now officially been cancelled due to a lack of sponsors.&#38;nbsp; The announcement, first reported by the Times of India on Th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/freestyle-chess-calls-off-india-event-buettner-steps-down-as-ceo",
+         "pubDate" : "Thu, 26 Jun 2025 10:51:09",
+         "title" : "Freestyle Chess Calls Off India Event, Buettner Steps Down As CEO"
       },
       {
          "description" : "",
@@ -664,14 +680,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-5-recap/",
          "pubDate" : "Sat, 14 Jun 2025 22:58:22",
          "title" : "2025 Cairns Cup - Day 5 Recap"
-      },
-      {
-         "description" : "GM Hikaru Nakamura scored 6/7 as top-seed WR Chess won all 12 of their matches on day one of the 2025 World Blitz Team Championship, but the most memorable game was the world number-two&#39;s one loss, to 13-year-old IM Khagan Ahmad from Azerbaijan. T...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-rapid-blitz-team-chess-championships-day-4",
-         "pubDate" : "Sat, 14 Jun 2025 19:00:00",
-         "title" : "13-Year-Old Beats Nakamura But Favorites Thrive As Blitz Begins"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121851504.cms\" />Team MGD1, seeded sixth, made history by becoming the first Indian team to win the FIDE World Rapid Team Championships in London. They secured victory with 10 wins out of 12 rounds, edging out Team Hexamind in a tightly contested battle. Arjun Erigaisi's stellar performance on the final day and Atharvaa Tayade's exceptional contribution were crucial to their success.",
