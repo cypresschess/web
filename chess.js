@@ -158,7 +158,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/daniel-dardha-sets-new-simul-record",
-         "pubDate" : "Tue, 24 Jun 2025 08:27:22",
+         "pubDate" : "Tue, 24 Jun 2025 08:27:00",
          "title" : "Daniel Dardha Breaks World Record With 50-Board Clock Simul"
       },
       {
