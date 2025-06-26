@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this entertaining and instructive video, WIM Svitlana Demchenko faced the \"Bobby Fischer\" engine from Fritz 20 in a dynamic training match. She played the Scotch Gambit and managed to gain a clear advantage through sharp tactical play, sacrificing material for initiative and space. Despite a midgame slip that dropped her evaluation and confidence, she regrouped and navigated a complex endgame with precision, ultimately securing the win. The game showcased both instructive mistakes and brilliant ideas, making it a realistic and valuable learning experience rather than a flawless engine battle.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-fritz-20-duel-svitlana-demchenko-vs-bobby-fischer",
+         "pubDate" : "Thu, 26 Jun 2025 08:58:56",
+         "title" : "The Fritz 20 Duel: Svitlana Demchenko vs. Bobby Fischer!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122082087.cms\" />Nine-year-old Aarit Kapil from New Delhi achieved a remarkable draw against World No. 1 Magnus Carlsen in an online blitz game during the Early Titled Tuesday competition. Despite time constraints, the fifth standard student maintained a winning position against the five-time world champion.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/who-is-aarit-kapil-9-year-old-from-delhi-who-almost-beat-magnus-carlsen/articleshow/122082087.cms",
+         "pubDate" : "Thu, 26 Jun 2025 04:25:32",
+         "title" : "Who is Aarit Kapil, 9-year-old from Delhi, who almost beat Magnus Carlsen"
+      },
+      {
          "description" : "Nodirbek Abdusattorov regained the sole lead at the UzChess Cup by defeating Parham Maghsoodloo in round seven, marking his fourth win with the white pieces. The only other decisive game saw Javokhir Sindarov beating Aravindh Chithambaram to join Arjun Erigaisi in shared second place. With two rounds remaining, Abdusattorov leads on 5/7, while Arjun - the only unbeaten player - and Sindarov trail by half a point. | Photo: Shahid Ahmed",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -888,14 +904,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/train-decision-making-in-chess/",
          "pubDate" : "Sat, 07 Jun 2025 13:00:00",
          "title" : "In Chess and in Life, You Have to Decide Without Knowing"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121693018.cms\" />Indian chess is experiencing unprecedented success, with Aravindh Chithambaram's recent victory at the Stepan Avagyan Memorial propelling him into the world's top 10. He joins Gukesh, Erigaisi, and Praggnanandhaa, marking a historic moment for Indian chess. Praggnanandhaa, despite finishing second in Jermuk, leads the FIDE Circuit standings and is a strong contender for the 2026 Candidates Tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-new-era-in-indian-chess-four-grandmasters-in-top-10-r-praggnanandhaa-leads-fide-circuit/articleshow/121693018.cms",
-         "pubDate" : "Sat, 07 Jun 2025 11:18:11",
-         "title" : "A new era in Indian chess: Four GMs in top 10; Pragg leads FIDE Circuit"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121692612.cms\" />Anna Muzychuk, Ukraine's top Grandmaster, secured the Norway Chess Women title. She remained unbeaten in classical games. Muzychuk amassed 16.5 points, edging out competitors. She also received equal prize money of NOK 700,000. This victory highlights her consistent performance in women's chess. The tournament featured a unique format with Armageddon tiebreaks. Muzychuk's strategic gameplay led to her success in Stavanger.",
