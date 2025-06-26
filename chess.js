@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " 2025 U.S. Senior, Junior, and Junior Girls Championships SAINT LOUIS June 26, 2025 The brightest minds in American chess - from rising prodigies to seasoned champions - will converge once again in the nation's Chess Capital as Saint Louis hosts the 2025 U.S. Senior, Junior, and Junior Girls Championships. Hosted by the Saint Louis [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-welcomes-rising-stars-and-chess-legends-for-2025-u-s-junior-junior-girls-and-senior-championships/\">Saint Louis Welcomes Rising Stars and Chess Legends for 2025 U.S. Junior, Junior Girls and Senior Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/saint-louis-welcomes-rising-stars-and-chess-legends-for-2025-u-s-junior-junior-girls-and-senior-championships/",
+         "pubDate" : "Thu, 26 Jun 2025 23:25:19",
+         "title" : "Saint Louis Welcomes Rising Stars and Chess Legends for 2025 U.S. Junior, Junior Girls and Senior Championships"
+      },
+      {
          "description" : "From July 16 to 20, 16 of the world's best chess players will compete in Freestyle Chess in Las Vegas. But before that, on July 13, Magnus Carlsen and his colleagues will face top athletes from a different discipline at the \"Chesstival\": players from the NBA who want to show the grandmasters how good they are at chess. | Photo: Basketball giant Victor Wembanyama with fans playing chess in New York. | Photo: Wembanyama's X account",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/train-the-mind-the-body-will-follow-chess-and-basketballl",
          "pubDate" : "Thu, 26 Jun 2025 18:00:00",
          "title" : "\"Train the Mind. The Body Will Follow\" - Chess and Basketballl"
+      },
+      {
+         "description" : "GMs Alireza Firouzja and Daniel Naroditsky will meet in the Winners Final of the 2025 Bullet Chess Championship. Firouzja was a runaway train against GM Nihal Sarin, winning 17.5-6.5, while it took Naroditsky 32 games, with tiebreaks, to defeat GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-bullet-chess-championship-day-2",
+         "pubDate" : "Thu, 26 Jun 2025 13:31:07",
+         "title" : "Firouzja, Naroditsky Advance To Winners Final"
       },
       {
          "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring living legend Vasyl Ivanchuk), a Futures and an Open are taking place - modelled after the Tata Steel tournaments. | Live coverage daily from 12.00 CEST (6.00 ET, 15.30 IST).",
@@ -650,14 +666,6 @@ news_feed (
          "title" : "Lee Joins Veterans Atop Cairns Cup Standings after Five Rounds"
       },
       {
-         "description" : "GMs Alireza Firouzja, Hikaru Nakamura, and Maxime Vachier-Lagrave were among the stars as WR Chess won the FIDE World Blitz Team Championship for a second year in a row. The greatest controversy came in the Quarterfinals, when GM Vincent Keymer&#39;s ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wr-chess-wins-2025-fide-world-blitz-team-chess-championship",
-         "pubDate" : "Sun, 15 Jun 2025 17:00:00",
-         "title" : "WR Chess Defends World Team Blitz Title After Winning Appeal"
-      },
-      {
          "description" : "In previous columns I have animadverted upon the exploits of alarmingly youthful players who are, nevertheless, making a definite mark on the international chess scene. The most recent manifestation of precocious and prodigious talent has been the shared second prize won by the 13-year-old Turkish Grandmaster Yagiz Kaan Erdogmus at the TePe Sigeman tournament in []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-bangladeshi-chess-player-deported-from-india-80-year-old-legend-rani-hamid-disturbed-by-events/articleshow/121772906.cms",
          "pubDate" : "Wed, 11 Jun 2025 08:42:18",
          "title" : "Exclusive: Bangladeshi player deported from India; 80-yo legend Rani Hamid 'disturbed' by events"
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-1-recap/\">2025 Cairns Cup - Day 1 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-1-recap/",
-         "pubDate" : "Wed, 11 Jun 2025 00:25:04",
-         "title" : "2025 Cairns Cup - Day 1 Recap"
       },
       {
          "description" : "The ECU E-Magazine May 2025 is out! In this edition of the ECU E-Magazine you may read about: ECU E-Magazine May 2025 can be read online together with interactive links on the following link or it can be downloaded in PDF format below.",
