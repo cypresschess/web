@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "From 2 to 10 August, the focus in Dortmund will not be on football, but on chess. As part of the 52nd Dortmund Chess Days in the Alte Schmiede, the Sparkassen Chess Trophy will be held, featuring European champion Matthias Bl&uuml;baum, among others, and an international women's tournament. | Photo: Dinara Wagner (left) and Elisabeth P&auml;htz (right)",
+         "description" : "They are absolutely vital. Gukesh won the World Championship with one - or we could say Ding Liren lost his title because he misplayed it. So can you understand and play pawn endings proficiently? Take a look at this position: White has six legal move, all with his king. But only one of them ensures the win. Which one? We have four instructive and entertaining positions that will test your skills. And hopefully leave you a better, more effective player.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/celebrating-chess-the-52-international-dortmund-chess-days-2025",
-         "pubDate" : "Fri, 27 Jun 2025 13:00:00",
-         "title" : "Celebrating chess: The 52. International Dortmund Chess Days 2025"
+         "link" : "https://en.chessbase.com/post/can-you-play-pawn-endings-2",
+         "pubDate" : "Fri, 27 Jun 2025 16:06:21",
+         "title" : "Can you play pawn endings?"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122115539.cms\" />Rameshbabu Praggnanandhaa has ascended to India's No. 1 chess player, securing the UzChess Cup Masters title by defeating Nodirbek Abdusattorov. This victory propelled his live rating to 2778.3, ranking him World No. 4 and surpassing World Chess Champion D Gukesh in live classical ratings. This triumph signifies a generational shift in Indian chess, marking Praggnanandhaa's arrival as the nation's new chess leader.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/historic-r-praggnanandhaa-clinches-uzchess-cup-masters-title-becomes-india-no-1/articleshow/122115539.cms",
+         "pubDate" : "Fri, 27 Jun 2025 14:15:46",
+         "title" : "Historic! Praggnanandhaa clinches UzChess Cup Masters title, becomes India no.1"
+      },
+      {
+         "description" : "European Championship 2025: Analyses by Bluebaum, F. Svane, Abasov, Alonso Rosell, Cheparinov, Grandelius, Lagarde, Navara, Ponomariov, Rodshtein, Sargissian, Suleymanli, Tari, Velten, Vogel, Volokitin, Wojtaszek and Yuffa - Raid in the Sveshnikov: Lars Schandorff shows that Black has to be extremely careful after 7.Nd5 Nxd5 8.exd5 Nb8 9.Qf3!? - 'Queen sacrifice with dividend': Oliver Reeh's tactical tests with over 30 current games + four interactive videos - Kramnik at his best: Dorian Rogozenco reviews the 'Modern Classic' Kramnik-Ehlvest (Tal Memorial 1995), including the novelty in move 16 and the impressive play by the former world champion, and much more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-35",
+         "pubDate" : "Fri, 27 Jun 2025 14:00:00",
+         "title" : "New: ChessBase Magazine #226"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122111133.cms\" />World Champion D Gukesh will not be playing in the Las Vegas leg of the Freestyle Chess Grand Slam, citing exhaustion after Norway Chess. Vidit Gujrathi will replace him, donning Gukesh's red jacket. The $750,000 event runs July 16-20 at Wynn Las Vegas. Meanwhile, the India leg in September is cancelled, and Jan Henric Buettner will step down as CEO on July 1.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-d-gukesh-vs-magnus-carlsen-not-happening-in-las-vegas-freestyle-chess-reveals-why-world-champion-isnt-playing/articleshow/122111133.cms",
+         "pubDate" : "Fri, 27 Jun 2025 11:15:35",
+         "title" : "Exclusive: Gukesh vs Carlsen not happening in Vegas; why is world champion not playing?"
       },
       {
          "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring living legend Vasyl Ivanchuk), a Futures and an Open are taking place - modelled after the Tata Steel tournaments. | The live coverage of the final round starts at 8.00 CEST (2.00 ET, 11.30 IST).",
@@ -71,7 +95,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/NSCC/#new_tab",
          "pubDate" : "Thu, 26 Jun 2025 10:38:59",
-         "title" : "Team Chess Challenges National Finals 2025"
+         "title" : "ESCC and Team Chess Challenges National Finals 2025"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122088395.cms\" />The Indian leg of the Freestyle Chess Grand Slam, scheduled for September in New Delhi, has been cancelled due to a lack of sponsors. This is a disappointment for fans hoping to see Magnus Carlsen compete in India. CEO Jan Henric Buettner confirmed the move and will step down in July. The next event is in Las Vegas this July.",
@@ -802,14 +826,6 @@ news_feed (
          "title" : "2025 Cairns Cup - Day 3 Recap"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121797920.cms\" />Magnus Carlsen's frustrated reaction to losing against D. Gukesh at Norway Chess 2025 went viral, sparking memes and social media buzz. Carlsen slammed the table, while Gukesh embraced the meme trend, even sharing his favorite one. The incident has highlighted chess's broader appeal and the impact of social media on the sport, engaging enthusiasts and casual observers alike.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-laughed-for-10-minutes-d-gukesh-reacts-to-viral-magnus-carlsen-meme-at-norway-chess-watch-video/articleshow/121797920.cms",
-         "pubDate" : "Thu, 12 Jun 2025 08:18:16",
-         "title" : "'I laughed for 10 minutes': D Gukesh reacts to viral Magnus Carlsen meme"
-      },
-      {
          "description" : "In our previous article on historical chess statistics we showed you the number of rated players there were in 1993, their ages, ratings, and where they came from. Today we compare them with the current FIDE statistics, showing how things have developed in the three decades that have passed. Our report also contains a little puzzle for you to mull over - why does the chess superpower China have so few rated players?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -848,14 +864,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/registration-for-world-cadet-championships-18-september-1-october-2025/",
          "pubDate" : "Wed, 11 Jun 2025 09:09:16",
          "title" : "Registration for World Cadet Championships 18 September - 1 October 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121772906.cms\" />Bangladeshi chess player Rani Hamid, 80, arrived in Delhi for a tournament, but her companion Ashiya Sultana was denied entry and deported due to a previous visa violation. This incident has deeply upset Hamid, impacting her performance in the competition. Despite the emotional distress, she appreciates the support from the Delhi Chess Association.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-bangladeshi-chess-player-deported-from-india-80-year-old-legend-rani-hamid-disturbed-by-events/articleshow/121772906.cms",
-         "pubDate" : "Wed, 11 Jun 2025 08:42:18",
-         "title" : "Exclusive: Bangladeshi player deported from India; 80-yo legend Rani Hamid 'disturbed' by events"
       },
       {
          "description" : "The ECU E-Magazine May 2025 is out! In this edition of the ECU E-Magazine you may read about: ECU E-Magazine May 2025 can be read online together with interactive links on the following link or it can be downloaded in PDF format below.",
@@ -984,14 +992,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45463703/magnus-carlsen-pips-dommaraju-gukesh-norway-chess-2025-title?device=featurephone",
          "pubDate" : "Fri, 6 Jun 2025 15:43:51",
          "title" : "Magnus Carlsen pips D Gukesh to Norway Chess 2025 title"
-      },
-      {
-         "description" : " The 6th Stepan Avagyan Memorial took place Thu 29th May to Fri 6th Jun 2025 in Jermuk, Armenia. The event has gradually grown in strength, starting at Category 10, then 15, then 16 twice, now 17 this year and last. Players: R Praggnanandhaa, Aravindh Chithambaram V, Samuel Sevian, Nodirbek Yakubboev, Benjamin Gledura, Buhl Bjerre Jonas, Robert Hovhannisyan, Dmitrij Kollars, Xu Xiangyu and Hakobyan Aram. Aravindh Chithambaram won the tournament on tie-break from Praggnanandhaa, both scored 6.5/9 and both won in the final round. Aravindh won about $8000 and moves to 9 in the world. This is his third tournament win in a row after the Chennai GMs. and Prague Masters (great stats from <a href=\"h",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/6th-stepan-avagyan-memorial-2025",
-         "pubDate" : "Fri, 6 Jun 2025 15:11:00",
-         "title" : "6th Stepan Avagyan Memorial 2025 - Games and Results"
       }
    ]
 }
