@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Praggnanandhaa Rameshbabu reignited his chances at the UzChess Cup by defeating Arjun Erigaisi in round eight, bouncing back from recent setbacks to move within one point of the lead. With sole leader Nodirbek Abdusattorov drawing his game, the stage is now set for a decisive final-round clash between Abdusattorov and Praggnanandhaa - if the Indian grandmaster wins with black, he will catch the Uzbek star at the top of the standings. Javokhir Sindarov and Arjun are the two other players with chances of winning the event. Friday's final round starts four hours earlier than usual, at 8.00 CEST. | Photo: sports.uz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/uzchess-cup-2025-8",
+         "pubDate" : "Fri, 27 Jun 2025 01:20:00",
+         "title" : "UzChess Cup: Will Praggnanandhaa stop Abdusattorov?"
+      },
+      {
          "description" : " 2025 U.S. Senior, Junior, and Junior Girls Championships SAINT LOUIS June 26, 2025 The brightest minds in American chess - from rising prodigies to seasoned champions - will converge once again in the nation's Chess Capital as Saint Louis hosts the 2025 U.S. Senior, Junior, and Junior Girls Championships. Hosted by the Saint Louis [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-welcomes-rising-stars-and-chess-legends-for-2025-u-s-junior-junior-girls-and-senior-championships/\">Saint Louis Welcomes Rising Stars and Chess Legends for 2025 U.S. Junior, Junior Girls and Senior Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-bullet-chess-championship-day-2",
          "pubDate" : "Thu, 26 Jun 2025 13:31:07",
          "title" : "Firouzja, Naroditsky Advance To Winners Final"
-      },
-      {
-         "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring living legend Vasyl Ivanchuk), a Futures and an Open are taking place - modelled after the Tata Steel tournaments. | Live coverage daily from 12.00 CEST (6.00 ET, 15.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
-         "pubDate" : "Thu, 26 Jun 2025 11:45:00",
-         "title" : "UzChess Cup - Round 8, live"
       },
       {
          "description" : "The fifth event in the Freestyle Chess Grand Slam Tour was scheduled to take place in Delhi from September 17-25, but has now officially been cancelled due to a lack of sponsors.&#38;nbsp; The announcement, first reported by the Times of India on Th...",
