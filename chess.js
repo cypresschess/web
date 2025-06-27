@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this episode of The Underdog with Robert Ris, we witness 13-year-old IM Kagan Ahmad from Azerbaijan defeating world blitz legend Hikaru Nakamura in a dramatic 112-move battle during the World Blitz Team Championship. Despite Hikaru's deep experience and early initiative in a quiet Anti-Sicilian, he blunders with 21.h4, falling into a tactical shot Nxe5, allowing Ahmad to seize material and survive. Ahmad defends tenaciously, even under extreme time pressure, finding key tactical resources like Qa2 and Qf6 with only seconds on the clock. The endgame sees Hikaru applying relentless pressure, but Ahmad methodically converts his advantage and finishes with a brilliant checkmate sequence-provi",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hikaru-loses-to-a-13-year-old-the-underdog",
+         "pubDate" : "Fri, 27 Jun 2025 20:00:00",
+         "title" : "Hikaru loses to a 13-year-old - The Underdog"
+      },
+      {
          "description" : "They are absolutely vital. Gukesh won the World Championship with one - or we could say Ding Liren lost his title because he misplayed it. So can you understand and play pawn endings proficiently? Take a look at this position: White has six legal move, all with his king. But only one of them ensures the win. Which one? We have four instructive and entertaining positions that will test your skills. And hopefully leave you a better, more effective player.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,14 +26,6 @@ news_feed (
          "title" : "Historic! Praggnanandhaa clinches UzChess Cup Masters title, becomes India no.1"
       },
       {
-         "description" : "European Championship 2025: Analyses by Bluebaum, F. Svane, Abasov, Alonso Rosell, Cheparinov, Grandelius, Lagarde, Navara, Ponomariov, Rodshtein, Sargissian, Suleymanli, Tari, Velten, Vogel, Volokitin, Wojtaszek and Yuffa - Raid in the Sveshnikov: Lars Schandorff shows that Black has to be extremely careful after 7.Nd5 Nxd5 8.exd5 Nb8 9.Qf3!? - 'Queen sacrifice with dividend': Oliver Reeh's tactical tests with over 30 current games + four interactive videos - Kramnik at his best: Dorian Rogozenco reviews the 'Modern Classic' Kramnik-Ehlvest (Tal Memorial 1995), including the novelty in move 16 and the impressive play by the former world champion, and much more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-35",
-         "pubDate" : "Fri, 27 Jun 2025 14:00:00",
-         "title" : "New: ChessBase Magazine #226"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122111133.cms\" />World Champion D Gukesh will not be playing in the Las Vegas leg of the Freestyle Chess Grand Slam, citing exhaustion after Norway Chess. Vidit Gujrathi will replace him, donning Gukesh's red jacket. The $750,000 event runs July 16-20 at Wynn Las Vegas. Meanwhile, the India leg in September is cancelled, and Jan Henric Buettner will step down as CEO on July 1.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -34,12 +34,12 @@ news_feed (
          "title" : "Exclusive: Gukesh vs Carlsen not happening in Vegas; why is world champion not playing?"
       },
       {
-         "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring living legend Vasyl Ivanchuk), a Futures and an Open are taking place - modelled after the Tata Steel tournaments. | The live coverage of the final round starts at 8.00 CEST (2.00 ET, 11.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
-         "pubDate" : "Fri, 27 Jun 2025 08:00:00",
-         "title" : "UzChess Cup - Round 9, live"
+         "description" : "India&#39;s latest chess sensation, CM Aarit Kapil, is only nine years old. This week, he came within inches of defeating none other than world number-one GM Magnus Carlsen in Chess.com&#39;s Titled Tuesday. The game ended in a dramatic draw, but the perf...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/9-year-old-indian-prodigy-makes-national-headlines-after-almost-defeating-magnus-carlsen",
+         "pubDate" : "Fri, 27 Jun 2025 09:55:49",
+         "title" : "9-Year-Old Indian Prodigy Shocks Magnus Carlsen, Makes National Headlines"
       },
       {
          "description" : " The world No 1 abandoned his attempts to reach the round number at classical chess in 2023, but achieved it this week on the first Freestyle rating list For years the world No 1, Magnus Carlsen, tried to achieve a 2900 classical rating but he always peaked 10-20 points short of the round figure. The Norwegian, 34, had a personal best of 2889, achieved in 2014. That was 33 points ahead of Garry Kasparov's highest figure and 100 ahead of Bobby Fischer. Carlsen made later attempts but could never get past the 2880s, while the numbers had an eerie similarity to the 28,000s and 29,000s at the top of Everest where George Mallory and Andrew Irvine perished in 1924. In the new <a href=\"https://www.",
@@ -50,28 +50,12 @@ news_feed (
          "title" : "Chess: Carlsen finally achieves 2900 rating as Niemann aims to be Las Vegas party pooper"
       },
       {
-         "description" : "Praggnanandhaa Rameshbabu reignited his chances at the UzChess Cup by defeating Arjun Erigaisi in round eight, bouncing back from recent setbacks to move within one point of the lead. With sole leader Nodirbek Abdusattorov drawing his game, the stage is now set for a decisive final-round clash between Abdusattorov and Praggnanandhaa - if the Indian grandmaster wins with black, he will catch the Uzbek star at the top of the standings. Javokhir Sindarov and Arjun are the two other players with chances of winning the event. Friday's final round starts four hours earlier than usual, at 8.00 CEST. | Photo: sports.uz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/uzchess-cup-2025-8",
-         "pubDate" : "Fri, 27 Jun 2025 01:20:00",
-         "title" : "UzChess Cup: Will Praggnanandhaa stop Abdusattorov?"
-      },
-      {
          "description" : " 2025 U.S. Senior, Junior, and Junior Girls Championships SAINT LOUIS June 26, 2025 The brightest minds in American chess - from rising prodigies to seasoned champions - will converge once again in the nation's Chess Capital as Saint Louis hosts the 2025 U.S. Senior, Junior, and Junior Girls Championships. Hosted by the Saint Louis [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-welcomes-rising-stars-and-chess-legends-for-2025-u-s-junior-junior-girls-and-senior-championships/\">Saint Louis Welcomes Rising Stars and Chess Legends for 2025 U.S. Junior, Junior Girls and Senior Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/saint-louis-welcomes-rising-stars-and-chess-legends-for-2025-u-s-junior-junior-girls-and-senior-championships/",
          "pubDate" : "Thu, 26 Jun 2025 23:25:19",
          "title" : "Saint Louis Welcomes Rising Stars and Chess Legends for 2025 U.S. Junior, Junior Girls and Senior Championships"
-      },
-      {
-         "description" : "From July 16 to 20, 16 of the world's best chess players will compete in Freestyle Chess in Las Vegas. But before that, on July 13, Magnus Carlsen and his colleagues will face top athletes from a different discipline at the \"Chesstival\": players from the NBA who want to show the grandmasters how good they are at chess. | Photo: Basketball giant Victor Wembanyama with fans playing chess in New York. | Photo: Wembanyama's X account",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/train-the-mind-the-body-will-follow-chess-and-basketballl",
-         "pubDate" : "Thu, 26 Jun 2025 18:00:00",
-         "title" : "\"Train the Mind. The Body Will Follow\" - Chess and Basketballl"
       },
       {
          "description" : "GMs Alireza Firouzja and Daniel Naroditsky will meet in the Winners Final of the 2025 Bullet Chess Championship. Firouzja was a runaway train against GM Nihal Sarin, winning 17.5-6.5, while it took Naroditsky 32 games, with tiebreaks, to defeat GM...",
@@ -106,28 +90,12 @@ news_feed (
          "title" : "Exclusive: No Magnus Carlsen in India! Freestyle Chess event called off over lack of sponsors"
       },
       {
-         "description" : "In this entertaining and instructive video, WIM Svitlana Demchenko faced the \"Bobby Fischer\" engine from Fritz 20 in a dynamic training match. She played the Scotch Gambit and managed to gain a clear advantage through sharp tactical play, sacrificing material for initiative and space. Despite a midgame slip that dropped her evaluation and confidence, she regrouped and navigated a complex endgame with precision, ultimately securing the win. The game showcased both instructive mistakes and brilliant ideas, making it a realistic and valuable learning experience rather than a flawless engine battle.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-fritz-20-duel-svitlana-demchenko-vs-bobby-fischer",
-         "pubDate" : "Thu, 26 Jun 2025 08:58:56",
-         "title" : "The Fritz 20 Duel: Svitlana Demchenko vs. Bobby Fischer!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122082087.cms\" />Nine-year-old Aarit Kapil from New Delhi achieved a remarkable draw against World No. 1 Magnus Carlsen in an online blitz game during the Early Titled Tuesday competition. Despite time constraints, the fifth standard student maintained a winning position against the five-time world champion.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/who-is-aarit-kapil-9-year-old-from-delhi-who-almost-beat-magnus-carlsen/articleshow/122082087.cms",
          "pubDate" : "Thu, 26 Jun 2025 04:25:32",
          "title" : "Who is Aarit Kapil, 9-year-old from Delhi, who almost beat Magnus Carlsen"
-      },
-      {
-         "description" : "Nodirbek Abdusattorov regained the sole lead at the UzChess Cup by defeating Parham Maghsoodloo in round seven, marking his fourth win with the white pieces. The only other decisive game saw Javokhir Sindarov beating Aravindh Chithambaram to join Arjun Erigaisi in shared second place. With two rounds remaining, Abdusattorov leads on 5/7, while Arjun - the only unbeaten player - and Sindarov trail by half a point. | Photo: Shahid Ahmed",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/uzchess-cup-2025-7",
-         "pubDate" : "Thu, 26 Jun 2025 02:10:00",
-         "title" : "UzChess Cup: Abdusattorov beats Maghsoodloo in style, regains sole lead"
       },
       {
          "description" : " The Chess Stars 5.0 tournament takes place in Moscow 26th to 30th June 2025. Players: Vladislav Artemiev, Sergey Karjakin, Teimour Radjabov, Evgeny Tomashevsky, Raunak Sadhwani, Hou Yifan, Aleksandra Goryachkina, Kateryna Lagno, Bibisara Assaubayeva and Valentina Gunina. 3 days of rapid and then 2 days of blitz.",
@@ -698,14 +666,6 @@ news_feed (
          "title" : "Live Game Links : Aurionpro International Grandmasters Chess Tournament 2025"
       },
       {
-         "description" : "Five-time U.S. champion GM Gata Kamsky has officially switched federations to France, marking the end of a 36-year chapter representing the United States. The transfer was confirmed by the International Chess Federation (FIDE) on Monday, followi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gata-kamsky-completes-transfer-to-france-after-36-years-representing-usa",
-         "pubDate" : "Mon, 16 Jun 2025 07:01:00",
-         "title" : "Gata Kamsky Transfers To France After 36 Years Representing U.S."
-      },
-      {
          "description" : "The battle of youth versus experience at this year's Cairns Cup is looking a bit drawish after five rounds of action at the Saint Louis Chess Club (SLCC). Three players entered the rest day as co-leaders with 3&frac12;/5 scores: Indian GMs Humpy Koneru (age 38), Harika Dronavalli (age 34), and American IM Alice Lee (age 15). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Alice Lee remains unbeaten halfway through her second Cairns Cup (Photo courtesy of Lennart Ootes/SLCC)<br> <br> <br> <br> Polish IM Alina Kashlinskaya (age 31) sits in clear fourth with 3/5, and American IM Carissa Yip (age 21) rounds out the top half as the only player with an even ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -976,22 +936,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/13th-norway-chess-2025",
          "pubDate" : "Fri, 6 Jun 2025 20:25:00",
          "title" : "13th Norway Chess 2025 - "
-      },
-      {
-         "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
-         "pubDate" : "Fri, 06 Jun 2025 16:45:00",
-         "title" : "Norway Chess - Live!"
-      },
-      {
-         "description" : "Magnus Carlsen won the Norway Chess title for the seventh time in his career.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45463703/magnus-carlsen-pips-dommaraju-gukesh-norway-chess-2025-title?device=featurephone",
-         "pubDate" : "Fri, 6 Jun 2025 15:43:51",
-         "title" : "Magnus Carlsen pips D Gukesh to Norway Chess 2025 title"
       }
    ]
 }
