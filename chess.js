@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 2 to 10 August, the focus in Dortmund will not be on football, but on chess. As part of the 52nd Dortmund Chess Days in the Alte Schmiede, the Sparkassen Chess Trophy will be held, featuring European champion Matthias Bl&uuml;baum, among others, and an international women's tournament. | Photo: Dinara Wagner (left) and Elisabeth P&auml;htz (right)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/celebrating-chess-the-52-international-dortmund-chess-days-2025",
+         "pubDate" : "Fri, 27 Jun 2025 13:00:00",
+         "title" : "Celebrating chess: The 52. International Dortmund Chess Days 2025"
+      },
+      {
          "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring living legend Vasyl Ivanchuk), a Futures and an Open are taking place - modelled after the Tata Steel tournaments. | The live coverage of the final round starts at 8.00 CEST (2.00 ET, 11.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -511,7 +519,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/17th-ibca-chess-olympiad-for-blind-and-visually-impaired-players/",
          "pubDate" : "Wed, 18 Jun 2025 08:07:22",
-         "title" : "17th IBCA Chess Olympiad for Blind and Visually Impaired Players - update 25/6/25"
+         "title" : "17th IBCA Chess Olympiad for Blind and Visually Impaired Players - update 27/6/25"
       },
       {
          "description" : "A week after&#38;nbsp;GMs Hans Niemann and Magnus Carlsen&#38;nbsp;won Titled Tuesday on June 10, Titled Tuesday on June 17 was won by... Carlsen and Niemann. This week, Carlsen scored 10.5 points in the early event, winning by a full point ahead of GMs A...",
