@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four top Uzbek players will face six international world-class opponents in the 2nd UzChess Masters. The top seed is world number three, Arjun Erigaisi. The players are competing for prizes, prestige, and points in the FIDE Circuit. Alongside the Masters, a Challengers event (featuring living legend Vasyl Ivanchuk), a Futures and an Open are taking place - modelled after the Tata Steel tournaments. | The live coverage of the final round starts at 8.00 CEST (2.00 ET, 11.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/2-uzchess-cup-live",
+         "pubDate" : "Fri, 27 Jun 2025 08:00:00",
+         "title" : "UzChess Cup - Round 9, live"
+      },
+      {
+         "description" : " The world No 1 abandoned his attempts to reach the round number at classical chess in 2023, but achieved it this week on the first Freestyle rating list For years the world No 1, Magnus Carlsen, tried to achieve a 2900 classical rating but he always peaked 10-20 points short of the round figure. The Norwegian, 34, had a personal best of 2889, achieved in 2014. That was 33 points ahead of Garry Kasparov's highest figure and 100 ahead of Bobby Fischer. Carlsen made later attempts but could never get past the 2880s, while the numbers had an eerie similarity to the 28,000s and 29,000s at the top of Everest where George Mallory and Andrew Irvine perished in 1924. In the new <a href=\"https://www.",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/jun/27/chess-carlsen-finally-achieves-2900-rating-as-niemann-aims-to-be-las-vegas-party-pooper",
+         "pubDate" : "Fri, 27 Jun 2025 07:00:11",
+         "title" : "Chess: Carlsen finally achieves 2900 rating as Niemann aims to be Las Vegas party pooper"
+      },
+      {
          "description" : "Praggnanandhaa Rameshbabu reignited his chances at the UzChess Cup by defeating Arjun Erigaisi in round eight, bouncing back from recent setbacks to move within one point of the lead. With sole leader Nodirbek Abdusattorov drawing his game, the stage is now set for a decisive final-round clash between Abdusattorov and Praggnanandhaa - if the Indian grandmaster wins with black, he will catch the Uzbek star at the top of the standings. Javokhir Sindarov and Arjun are the two other players with chances of winning the event. Friday's final round starts four hours earlier than usual, at 8.00 CEST. | Photo: sports.uz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-bullet-chess-championship-day-2",
-         "pubDate" : "Thu, 26 Jun 2025 13:31:07",
+         "pubDate" : "Thu, 26 Jun 2025 13:31:00",
          "title" : "Firouzja, Naroditsky Advance To Winners Final"
       },
       {
@@ -968,14 +984,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/6th-stepan-avagyan-memorial-2025",
          "pubDate" : "Fri, 6 Jun 2025 15:11:00",
          "title" : "6th Stepan Avagyan Memorial 2025 - Games and Results"
-      },
-      {
-         "description" : " The world No 1 won by half a point in Norway but said: 'It's a long time since I enjoyed a classical tournament' Magnus Carlsen, the world No 1, squeaked home in the tightest of finishes at Stavanger on Friday night after his Indian rival, the world champion, Gukesh Dommaraju, had missed his chance to draw with the US champion Fabiano Caruana and had instead fallen into a knight fork of his queen and rook. Final scores were Carlsen ­(Norway) 16; Caruana (US) 15.5; Gukesh (India) 14.5; Hikaru Nakamura (US) 14; Arjun Erigaisi (India) 13; Wei Yi (China) 9.5. In his final Armageddon game, Carlsen blundered into mate in two against Erigaisi in mid-board in a drawn position, although that did not",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/jun/06/chess-carlsen-targets-last-classical-hurrah-at-stavanger-after-defeat-against-gukesh",
-         "pubDate" : "Fri, 06 Jun 2025 07:00:29",
-         "title" : "Chess: Carlsen secures narrow victory at Stavanger in possible last classical hurrah"
       }
    ]
 }
