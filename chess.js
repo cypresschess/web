@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Praggnanandhaa Rameshbabu won the second edition of the UzChess Cup after defeating Nodirbek Abdusattorov on demand in the final round of classical chess and prevailing in a three-player blitz tiebreaker. The 19-year-old Indian grandmaster, who also beat Arjun Erigaisi in round eight, secured the title ahead of Abdusattorov and Javokhir Sindarov. This marks Pragg's third super-tournament win of the year, all decided in tiebreaks, and moves him to fourth in the live world rankings and first among Indian players. | Photo: UzChess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/uzchess-cup-2025-9",
+         "pubDate" : "Fri, 27 Jun 2025 23:10:00",
+         "title" : "Pragg beats Abdusattorov on demand, grabs UzChess Cup title after winning three-way tiebreaker"
+      },
+      {
+         "description" : " The 2nd Uzchess Cup took place in Tashkent, Uzbekistan, 19th to 27th June. There are three round robin tournaments and an open. Players: Masters: Arjun, Erigaisi,Nodirbek Abdusattorov, Praggnanandhaa, Ian Nepomniachtchi, Chithambaram V Aravindh, Richard Rapport, Javokhir Sindarov,Parham Maghsoodloo, Nodirbek Yakubboev,Shamsiddin Vokhidov. The Challengers had Vasyl Ivanchuk as top seed. Praggnanandhaa won a tie-break above Javokhir Sindarov and Nodirbek Abdusattorov but only after a double round robin blitz was drawn and they had to play an additional single round robin where Praggnanandhaa beat Sindarov in round 2 to take the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/2nd-uzchess-cup-2025",
+         "pubDate" : "Fri, 27 Jun 2025 21:01:00",
+         "title" : "2nd Uzchess Cup 2025 - Games and Results"
+      },
+      {
          "description" : "In this episode of The Underdog with Robert Ris, we witness 13-year-old IM Kagan Ahmad from Azerbaijan defeating world blitz legend Hikaru Nakamura in a dramatic 112-move battle during the World Blitz Team Championship. Despite Hikaru's deep experience and early initiative in a quiet Anti-Sicilian, he blunders with 21.h4, falling into a tactical shot Nxe5, allowing Ahmad to seize material and survive. Ahmad defends tenaciously, even under extreme time pressure, finding key tactical resources like Qa2 and Qf6 with only seconds on the clock. The endgame sees Hikaru applying relentless pressure, but Ahmad methodically converts his advantage and finishes with a brilliant checkmate sequence-provi",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +40,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/historic-r-praggnanandhaa-clinches-uzchess-cup-masters-title-becomes-india-no-1/articleshow/122115539.cms",
          "pubDate" : "Fri, 27 Jun 2025 14:15:46",
          "title" : "Historic! Praggnanandhaa clinches UzChess Cup Masters title, becomes India no.1"
+      },
+      {
+         "description" : "Defending Champion GM Alireza Firouzja continues to dominate the 2025 Bullet Chess Championship. He&#39;s won every match by 10 points or more, and his latest victim was GM Daniel Naroditsky, whom he defeated 22.5-10.5. There are three players in the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-bullet-chess-championship-day-3",
+         "pubDate" : "Fri, 27 Jun 2025 13:16:00",
+         "title" : "Firouzja Beats Naroditsky 22.5-10.5 In Winners Final"
+      },
+      {
+         "description" : "GM Hikaru Nakamura won Freestyle Friday on June 27 with a perfect 11/11 score, matching the feat accomplished three weeks ago by GM Jeffery Xiong. In the 23rd Freestyle Friday held so far, Nakamura earned his fourth victory, breaking a tie with GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-freestyle-friday-june-27-2025",
+         "pubDate" : "Fri, 27 Jun 2025 13:00:00",
+         "title" : "Nakamura Completes Perfect Freestyle Friday For Fourth Title"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122111133.cms\" />World Champion D Gukesh will not be playing in the Las Vegas leg of the Freestyle Chess Grand Slam, citing exhaustion after Norway Chess. Vidit Gujrathi will replace him, donning Gukesh's red jacket. The $750,000 event runs July 16-20 at Wynn Las Vegas. Meanwhile, the India leg in September is cancelled, and Jan Henric Buettner will step down as CEO on July 1.",
@@ -474,14 +506,6 @@ news_feed (
          "title" : "2025 Cairns Cup - Day 8 Recap"
       },
       {
-         "description" : " The 2nd Uzchess Cup takes place in Tashkent, Uzbekistan, 19th to 27th June. There are three round robin tournaments and an open. Players: Masters: Arjun, Erigaisi,Nodirbek Abdusattorov, Praggnanandhaa, Ian Nepomniachtchi, Chithambaram V Aravindh, Richard Rapport, Javokhir Sindarov,Parham Maghsoodloo, Nodirbek Yakubboev,Shamsiddin Vokhidov. The Challengers has Vasyl Ivanchuk as top seed.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/2nd-uzchess-cup-2025",
-         "pubDate" : "Wed, 18 Jun 2025 22:56:00",
-         "title" : "2nd Uzchess Cup 2025 - Games and Results"
-      },
-      {
          "description" : " The Titled Tuesday Blitz of 17th June saw Magnus Carlsen win the early and Hans Niemann win the late. Carlsen's win in the early was a little unusual in that he met all his closest rivals beating Aleksei Sarana in round 7, Jeffery Xiong in round 8, Alireza Firouzja in round 9 and Hans Niemann in round 10 (these finished 2nd-5th). Carlsen drew the final round to finish on 10.5/11. Hans Niemann won the late with 10/11 beating Nakamura in round 9 and drawing with second place Fabiano Caruana in round 10. Games in PGN available for download but they're a bit large to display. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -618,28 +642,12 @@ news_feed (
          "title" : "2025 Cairns Cup - Day 6 Recap"
       },
       {
-         "description" : "After a rest day, the players returned to the Cairns Cup 2025 ready to fight in round six. Every game was decisive, and the bloodbath left GM Koneru Humpy on top. She defeated her co-leader and countrywoman GM Harika Dronavalli, while the other co...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-6",
-         "pubDate" : "Mon, 16 Jun 2025 22:50:00",
-         "title" : "Humpy Leads After All-Decisive Round 6"
-      },
-      {
          "description" : "The International Schools Chess Festival will take place in Romania from 30th June to 6th July 2025 (direct flights from Luton).&#160; The organisers are looking for one English school to...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/international-schools-chess-festival-romania-30th-june-6th-july-2025/",
          "pubDate" : "Mon, 16 Jun 2025 15:49:28",
          "title" : "International Schools Chess Festival, Romania 30th June - 6th July 2025"
-      },
-      {
-         "description" : "Players can now register for their last shot at making it to this year&#39;s Esports World Cup (EWC). Featuring a whopping $1,500,000 prize fund, the inaugural chess event in the Esports World Cup arena is attracting some of the world&#39;s strongest play...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/registrations-esports-world-cup-last-chance-qualifier",
-         "pubDate" : "Mon, 16 Jun 2025 12:34:26",
-         "title" : "Registrations Are Open For The Esports World Cup Last Chance Qualifier In Riyadh"
       },
       {
          "description" : " The FIDE World Rapid and Blitz Team Championships took place in London Tue 10th to Mon 16th Jun 2025. Players included Firouzja, Aronian, MVL, Nakamura, Abdusattorov, Anand, 420 players of varying strengths playing for teams. Each team of 6 in each match required one recreational player and one woman player. 6th seeds Team MGD1 (Erigaisi, Harikrishna, Anton Guijarro, Pranav, Mendonca, Tsolakidou and Atharvaa P Tayade) won the rapid ahead of Hexamind (Aronian, Giri, Murzin, Domginguez, Vidit, Divya, Panarin and Muradyan) and Freedom (Anand, Mamedov, Sevian, Le, Sarana, Martirosyan, Muzychuk, Injac and Mani) with top seeds WR Chess (Firouzja, MVL, Nakamura, Duda, So, Hou Yifan, Kosteniuk and ",
@@ -920,22 +928,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/train-decision-making-in-chess/",
          "pubDate" : "Sat, 07 Jun 2025 13:00:00",
          "title" : "In Chess and in Life, You Have to Decide Without Knowing"
-      },
-      {
-         "description" : "Despite lacking motivation for the format and even questioning the need to play it at all, Magnus Carlsen was still superior to the world's top players at Norway Chess.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45466283/magnus-carlsen-norway-chess-win-just-another-testament-greatness?device=featurephone",
-         "pubDate" : "Fri, 6 Jun 2025 23:18:53",
-         "title" : "Magnus Carlsen's Norway win is just another testament to his greatness"
-      },
-      {
-         "description" : " The 13th Norway Chess tournament took place Mon 26th May to Fri 6th Jun 2025 in Stavanger, Norway. There were two elite tournaments, the regular tournament and a women's event, both are 6 players and 10 rounds. Norway chess has a unique twist in that if games are drawn there is an additional Armageddon game. So the points are: Win in the classical game: 3 points, Loss in the classical game: 0 points, Draw in the classical game & win Armageddon: 1&frac12; points, Draw in the classical game & loss Armageddon: 1 point. Players: Magnus Carlsen, Hikaru Nakamura, D Gukesh, Arjun Erigaisi, Fabiano Caruana and Wei Yi. Women's event: Ju Wenjun, Lei Tingjie, Humpy Koneru, Anna Muzychuk,Rameshbabu Vai",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/13th-norway-chess-2025",
-         "pubDate" : "Fri, 6 Jun 2025 20:25:00",
-         "title" : "13th Norway Chess 2025 - "
       }
    ]
 }
