@@ -1,4 +1,6 @@
 jtable([
+"CYPRESS","2025-06-27","40","<a href=http://www.uschess.org/msa/XtblMain.php?202506274132 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"HOUSTON","2025-06-03  - 06-24","14","<a href=http://www.uschess.org/msa/XtblMain.php?202506243622 target='_blank'>JUNE 2025 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2025-06-20  - 06-22","64","<a href=http://www.uschess.org/msa/XtblMain.php?202506222872 target='_blank'>NORTH TEXAS FIDE 06-20-2025</a>",
 "HOUSTON","2025-06-19  - 06-22","23","<a href=http://www.uschess.org/msa/XtblMain.php?202506222002 target='_blank'>HOUSTON JUNETEENTH OPEN - PREMIER</a>",
 "HOUSTON","2025-06-19  - 06-22","29","<a href=http://www.uschess.org/msa/XtblMain.php?202506221962 target='_blank'>HOUSTON JUNETEENTH OPEN</a>",
@@ -197,6 +199,4 @@ jtable([
 "SUGAR LAND","2024-12-07","4","<a href=http://www.uschess.org/msa/XtblMain.php?202412079922 target='_blank'>FBCC 2024 NATIONAL GAZPACHO DAY OPE</a>",
 "HOUSTON","2024-12-07","357","<a href=http://www.uschess.org/msa/XtblMain.php?202412070572 target='_blank'>MANDARIN IMMERSION MAGNET SCHOOL</a>",
 "HOUSTON","2024-12-06","40","<a href=http://www.uschess.org/msa/XtblMain.php?202412069882 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2024-12-06","33","<a href=http://www.uschess.org/msa/XtblMain.php?202412064162 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2024-11-30","45","<a href=http://www.uschess.org/msa/XtblMain.php?202411307662 target='_blank'>2024 TEXAS 'QUICK CHESS' STATE CHAM</a>",
 ]);
