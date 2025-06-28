@@ -29,8 +29,8 @@ news_feed (
          "description" : "GM Alireza Firouzja defended his title as the bullet chess champion by defeating GM Oleksandr Bortnyk 19.5-5.5 in the 2025 Bullet Chess Championship Grand Final. It was a dominant showing, as the French number-one won every match by a margin of 10...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-bullet-chess-championship-day-4",
-         "pubDate" : "Sat, 28 Jun 2025 11:33:58",
+         "link" : "https://www.chess.com/news/view/firouzja-wins-2025-bullet-chess-championship-day-4",
+         "pubDate" : "Sat, 28 Jun 2025 11:33:00",
          "title" : "Firouzja Defends Title, Wins 3rd Bullet Chess Championship"
       },
       {
