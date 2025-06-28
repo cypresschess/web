@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Born in 1994, Anish Giri turns 31 years old today, on 28 June 2025. Anish is a player whom we have known for almost a decade now. In this article, we go down memory lane with some selected images that tell the story of what a gem of an individual Anish is. Amruta and I first met Anish in 2015 at the London Chess Classic. The then young GM has turned into an experienced player - as he remains at the top of the world rankings! | Photos: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anish-giri-31-birthday",
+         "pubDate" : "Sat, 28 Jun 2025 17:30:00",
+         "title" : "Spreading joy in the world of chess: Anish Giri turns 31 years old today"
+      },
+      {
          "description" : "The 2024 FIDE World Chess Championship match between Gukesh D and Ding Liren has been named Best Sports Event of the Year (Exhibition/Competition) at the 2025 Singapore Sports Awards. Held in Singapore, the match crowned the youngest undisputed World Champion in history and captivated global audiences. The award recognises not only the thrilling contest but also the exceptional organisation and community engagement that made the event a landmark moment in chess history. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.thearticle.com/chivalrous-czech-vlastimil-hort/",
          "pubDate" : "Sat, 28 Jun 2025 13:23:02",
          "title" : "Chivalrous Czech: Vlastimil Hort"
+      },
+      {
+         "description" : "GM Alireza Firouzja defended his title as the bullet chess champion by defeating GM Oleksandr Bortnyk 19.5-5.5 in the 2025 Bullet Chess Championship Grand Final. It was a dominant showing, as the French number-one won every match by a margin of 10...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-bullet-chess-championship-day-4",
+         "pubDate" : "Sat, 28 Jun 2025 11:33:58",
+         "title" : "Firouzja Defends Title, Wins 3rd Bullet Chess Championship"
       },
       {
          "description" : "In this episode, Svitlana offers a comprehensive guide on how to play against the King's Gambit, an aggressive and historic opening that begins with 1.e4 e5 2.f4. While it's less common in high-level chess today, it still appears in club-level play and can lead to sharp tactical battles. Svitlana walks through multiple lines, including sideline traps and the main variations with 3.Nf3 and 3.Bc4, emphasising key defensive setups for Black, such as the flexible ...Nf6 line and the importance of early counterplay. She highlights thematic tactics, development priorities, and typical traps, ultimately showing how to neutralize White's initiative and even seize the advantage with correct preparati",
@@ -634,14 +650,6 @@ news_feed (
          "title" : "2025 Cairns Cup - Day 7 Recap"
       },
       {
-         "description" : "After yet another shakeup at the Cairns Cup 2025, we have three leaders: GM Koneru Humpy, IM Carissa Yip, and IM Alice Lee. Yip defeated Humpy, while Lee took down second-place IM Alina Kashlinskaya. All three draws featured a winning advantage ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-7",
-         "pubDate" : "Tue, 17 Jun 2025 21:59:00",
-         "title" : "American Duo Lee, Yip Topple Leaders"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121908049.cms\" />Anish Giri publicly challenged WR Chess stars Nakamura and Nepomniachtchi over their successful appeal and controversial replay during the FIDE Blitz quarterfinals, questioning their motives. Nepo admitted the decision was messy, though WR Chess ultimately won the tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -928,14 +936,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-21st-delhi-open-2025/",
          "pubDate" : "Sun, 08 Jun 2025 05:50:03",
          "title" : "Live Games link for 21st Delhi open 2025"
-      },
-      {
-         "description" : " Magnus Carlsen won the <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">Norway Chess</a> tournament for the seventh time in thirteen outings. Carlsen set up the result with a round 9 grind against Fabiano Caruana. Carlsen was a pawn up but whilst the engine said that initially Caruana should hold, in practice it was beyond him. In the final round Carlsen was put under pressure by Arjun Erigaisi, bailed out with a Queen sacrifice, looked in trouble, turned it around to be winning before finally settling for a draw in time trouble. That result guaranteed Carlsen at least a tie-break for first place and after Gukesh lost it won him the tournament. When all the other",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/carlsen-wins-norway-chess-for-the-seventh-time",
-         "pubDate" : "Sat, 7 Jun 2025 16:23:00",
-         "title" : "Carlsen wins Norway Chess for the seventh time - 10"
       }
    ]
 }
