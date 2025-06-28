@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this episode, Svitlana offers a comprehensive guide on how to play against the King's Gambit, an aggressive and historic opening that begins with 1.e4 e5 2.f4. While it's less common in high-level chess today, it still appears in club-level play and can lead to sharp tactical battles. Svitlana walks through multiple lines, including sideline traps and the main variations with 3.Nf3 and 3.Bc4, emphasising key defensive setups for Black, such as the flexible ...Nf6 line and the importance of early counterplay. She highlights thematic tactics, development priorities, and typical traps, ultimately showing how to neutralize White's initiative and even seize the advantage with correct preparati",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-play-against-the-king-s-gambit",
+         "pubDate" : "Sat, 28 Jun 2025 11:00:00",
+         "title" : "Svitlana's Smart Moves - How to play against the King's Gambit!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122129063.cms\" />Anish Giri's witty remark on Praggnanandhaa becoming the World No.1 junior highlights the rise of young chess talents. Praggnanandhaa's UzChess Cup Masters 2025 victory, propelling him to World No.4 and India's top player, showcases his dominance. His dramatic win, praised by Viswanathan Anand, underscores his impressive character and solidifies his position as a leading force in chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/totally-pointless-dutch-no-1-anish-giri-reacts-after-r-praggnanandhaa-becomes-world-no-1-junior-chess-player/articleshow/122129063.cms",
+         "pubDate" : "Sat, 28 Jun 2025 10:48:09",
+         "title" : "'Totally pointless': Dutch no. 1 Giri reacts after Pragg becomes world no. 1 junior player"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122128649.cms\" />In a public plea, Armenian chess grandmaster Levon Aronian has urged Vladimir Kramnik, a former World Champion, to reconcile amidst a defamation lawsuit. Aronian's letter, shared on social media, expresses deep respect for Kramnik, acknowledging his significant influence. This follows Kramnik's lawsuit against Chessdom, GM David Navara, and others, stemming from disputes over alleged online cheating.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/dear-vladimir-kramnik-forgive-me-levon-aronian-writes-after-chess-grandmaster-files-defamation-lawsuit/articleshow/122128649.cms",
+         "pubDate" : "Sat, 28 Jun 2025 10:17:34",
+         "title" : "'Dear Vladimir Kramnik, forgive me ...': Aronian writes after chess GM files defamation lawsuit"
+      },
+      {
          "description" : "The 2025 European Women's Rapid &#38; Blitz Chess Championship will take place from 8th-12th January 2026 in Monte-Carlo, Monaco. The Championship is open to all players representing Chess Federations which are ECU members regardless of their title and rating. There is no limit to the number of participants per federation. Registration starts after 1st August 2025, and applications must be sent to the Tournament Director, Jean Michel Rapaire by mail:&#160;cemc@libello.com.&#160;Registration deadline is December 19th, 2025. The first event on the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-womens-rapid-blitz-chess-championship-2025-official-regulations/",
          "pubDate" : "Sat, 28 Jun 2025 07:13:19",
          "title" : "European Women's Rapid & Blitz Chess Championship 2025 - Official regulations"
+      },
+      {
+         "description" : "GM Praggnanandhaa Rameshbabu is Indian number-one and world number-four after a stunning comeback saw him beat GMs Arjun Erigaisi and Nodirbek Abdusattorov in the final rounds before winning the 2025 UzChess Cup Masters in tiebreaks over GM Javokh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-uzchess-masters-2025",
+         "pubDate" : "Sat, 28 Jun 2025 00:30:00",
+         "title" : "Praggnanandhaa Hits Back To Win UzChess Cup After Losing \"Game Of The Year\""
       },
       {
          "description" : "Praggnanandhaa Rameshbabu won the second edition of the UzChess Cup after defeating Nodirbek Abdusattorov on demand in the final round of classical chess and prevailing in a three-player blitz tiebreaker. The 19-year-old Indian grandmaster, who also beat Arjun Erigaisi in round eight, secured the title ahead of Abdusattorov and Javokhir Sindarov. This marks Pragg's third super-tournament win of the year, all decided in tiebreaks, and moves him to fourth in the live world rankings and first among Indian players. | Photo: UzChess",
@@ -610,14 +642,6 @@ news_feed (
          "title" : "American Duo Lee, Yip Topple Leaders"
       },
       {
-         "description" : "Justin Reid moved from the Chiefs to the Saints in the offseason, but over the chessboard, nothing has changed. He confidently defended his title to become the first ever repeat winner of BlitzChamps IV, the tournament to decide the NFL&#39;s best che...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/justin-reid-defends-blitzchamps-title",
-         "pubDate" : "Tue, 17 Jun 2025 12:53:00",
-         "title" : "Justin Reid Cruises Through BlitzChamps IV To Defend Title"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121908049.cms\" />Anish Giri publicly challenged WR Chess stars Nakamura and Nepomniachtchi over their successful appeal and controversial replay during the FIDE Blitz quarterfinals, questioning their motives. Nepo admitted the decision was messy, though WR Chess ultimately won the tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -712,22 +736,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-5-recap/",
          "pubDate" : "Sat, 14 Jun 2025 22:58:22",
          "title" : "2025 Cairns Cup - Day 5 Recap"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121851504.cms\" />Team MGD1, seeded sixth, made history by becoming the first Indian team to win the FIDE World Rapid Team Championships in London. They secured victory with 10 wins out of 12 rounds, edging out Team Hexamind in a tightly contested battle. Arjun Erigaisi's stellar performance on the final day and Atharvaa Tayade's exceptional contribution were crucial to their success.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/history-made-arjun-erigaisi-srinath-narayanans-team-mgd1-becomes-first-indian-team-to-win-fide-world-rapid-team-championship/articleshow/121851504.cms",
-         "pubDate" : "Sat, 14 Jun 2025 16:02:07",
-         "title" : "Eigaisi, Srinath's Team MGD1 becomes first Indian team to win FIDE World Rapid Team Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121850948.cms\" />Abhijeet Gupta secured his fourth title at the 21st Delhi International Open Grandmasters Chess Tournament 2025, remaining undefeated across ten rounds. Nikitenko of Belarus finished second, followed by India's Diptayan Ghosh. The tournament, organised by the Delhi Chess Association, hosted over 2,500 players from 20 countries and featured a record prize pool.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/historic-feat-gm-abhijeet-gupta-clinches-fourth-title-at-21st-delhi-international-open-chess-tournament-2025/articleshow/121850948.cms",
-         "pubDate" : "Sat, 14 Jun 2025 14:56:07",
-         "title" : "Historic! GM Abhijeet Gupta clinches fourth title at 21st Delhi International Open Chess Tournament 2025"
       },
       {
          "description" : " The 21st Delhi Open took place Sat 7th to Sat 14th Jun 2025. Abhijeet Gupta won with on 8.5/10 half a point clear of Mihail Nikitenko and Ghosh Aronyak.",
