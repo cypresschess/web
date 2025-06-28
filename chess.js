@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 European Women's Rapid &#38; Blitz Chess Championship will take place from 8th-12th January 2026 in Monte-Carlo, Monaco. The Championship is open to all players representing Chess Federations which are ECU members regardless of their title and rating. There is no limit to the number of participants per federation. Registration starts after 1st August 2025, and applications must be sent to the Tournament Director, Jean Michel Rapaire by mail:&#160;cemc@libello.com.&#160;Registration deadline is December 19th, 2025. The first event on the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-rapid-blitz-chess-championship-2025-official-regulations/",
+         "pubDate" : "Sat, 28 Jun 2025 07:13:19",
+         "title" : "European Women's Rapid & Blitz Chess Championship 2025 - Official regulations"
+      },
+      {
          "description" : "Praggnanandhaa Rameshbabu won the second edition of the UzChess Cup after defeating Nodirbek Abdusattorov on demand in the final round of classical chess and prevailing in a three-player blitz tiebreaker. The 19-year-old Indian grandmaster, who also beat Arjun Erigaisi in round eight, secured the title ahead of Abdusattorov and Javokhir Sindarov. This marks Pragg's third super-tournament win of the year, all decided in tiebreaks, and moves him to fourth in the live world rankings and first among Indian players. | Photo: UzChess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
