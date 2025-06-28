@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 FIDE World Chess Championship match between Gukesh D and Ding Liren has been named Best Sports Event of the Year (Exhibition/Competition) at the 2025 Singapore Sports Awards. Held in Singapore, the match crowned the youngest undisputed World Champion in history and captivated global audiences. The award recognises not only the thrilling contest but also the exceptional organisation and community engagement that made the event a landmark moment in chess history. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wch-match-singapore-sports-event-of-2024",
+         "pubDate" : "Sat, 28 Jun 2025 16:00:00",
+         "title" : "World Chess Championship wins Singapore's Sports Event of the Year"
+      },
+      {
+         "description" : "I knew Vlastimil Hort well and played against him many times, without much success. I regarded him as a player of huge potential, who somehow never quite realised the fullest extent of his considerable talent. He was also one of the great sportsmen of 20th-century chess. In 1978 there was talk that Hort might join []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chivalrous-czech-vlastimil-hort/",
+         "pubDate" : "Sat, 28 Jun 2025 13:23:02",
+         "title" : "Chivalrous Czech: Vlastimil Hort"
+      },
+      {
          "description" : "In this episode, Svitlana offers a comprehensive guide on how to play against the King's Gambit, an aggressive and historic opening that begins with 1.e4 e5 2.f4. While it's less common in high-level chess today, it still appears in club-level play and can lead to sharp tactical battles. Svitlana walks through multiple lines, including sideline traps and the main variations with 3.Nf3 and 3.Bc4, emphasising key defensive setups for Black, such as the flexible ...Nf6 line and the importance of early counterplay. She highlights thematic tactics, development priorities, and typical traps, ultimately showing how to neutralize White's initiative and even seize the advantage with correct preparati",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -39,15 +55,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-uzchess-masters-2025",
          "pubDate" : "Sat, 28 Jun 2025 00:30:00",
-         "title" : "Praggnanandhaa Hits Back To Win UzChess Cup After Losing \"Game Of The Year\""
-      },
-      {
-         "description" : "Praggnanandhaa Rameshbabu won the second edition of the UzChess Cup after defeating Nodirbek Abdusattorov on demand in the final round of classical chess and prevailing in a three-player blitz tiebreaker. The 19-year-old Indian grandmaster, who also beat Arjun Erigaisi in round eight, secured the title ahead of Abdusattorov and Javokhir Sindarov. This marks Pragg's third super-tournament win of the year, all decided in tiebreaks, and moves him to fourth in the live world rankings and first among Indian players. | Photo: UzChess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/uzchess-cup-2025-9",
-         "pubDate" : "Fri, 27 Jun 2025 23:10:00",
-         "title" : "Pragg beats Abdusattorov on demand, grabs UzChess Cup title after winning three-way tiebreaker"
+         "title" : "Praggnanandhaa Hits Back To Win UzChess Cup After Losing 'Game Of The Year'"
       },
       {
          "description" : " The 2nd Uzchess Cup took place in Tashkent, Uzbekistan, 19th to 27th June. There are three round robin tournaments and an open. Players: Masters: Arjun, Erigaisi,Nodirbek Abdusattorov, Praggnanandhaa, Ian Nepomniachtchi, Chithambaram V Aravindh, Richard Rapport, Javokhir Sindarov,Parham Maghsoodloo, Nodirbek Yakubboev,Shamsiddin Vokhidov. The Challengers had Vasyl Ivanchuk as top seed. Praggnanandhaa won a tie-break above Javokhir Sindarov and Nodirbek Abdusattorov but only after a double round robin blitz was drawn and they had to play an additional single round robin where Praggnanandhaa beat Sindarov in round 2 to take the tournament.",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/2nd-uzchess-cup-2025",
          "pubDate" : "Fri, 27 Jun 2025 21:01:00",
          "title" : "2nd Uzchess Cup 2025 - Games and Results"
-      },
-      {
-         "description" : "In this episode of The Underdog with Robert Ris, we witness 13-year-old IM Kagan Ahmad from Azerbaijan defeating world blitz legend Hikaru Nakamura in a dramatic 112-move battle during the World Blitz Team Championship. Despite Hikaru's deep experience and early initiative in a quiet Anti-Sicilian, he blunders with 21.h4, falling into a tactical shot Nxe5, allowing Ahmad to seize material and survive. Ahmad defends tenaciously, even under extreme time pressure, finding key tactical resources like Qa2 and Qf6 with only seconds on the clock. The endgame sees Hikaru applying relentless pressure, but Ahmad methodically converts his advantage and finishes with a brilliant checkmate sequence-provi",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hikaru-loses-to-a-13-year-old-the-underdog",
-         "pubDate" : "Fri, 27 Jun 2025 20:00:00",
-         "title" : "Hikaru loses to a 13-year-old - The Underdog"
       },
       {
          "description" : "They are absolutely vital. Gukesh won the World Championship with one - or we could say Ding Liren lost his title because he misplayed it. So can you understand and play pawn endings proficiently? Take a look at this position: White has six legal move, all with his king. But only one of them ensures the win. Which one? We have four instructive and entertaining positions that will test your skills. And hopefully leave you a better, more effective player.",
@@ -936,14 +936,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/carlsen-wins-norway-chess-for-the-seventh-time",
          "pubDate" : "Sat, 7 Jun 2025 16:23:00",
          "title" : "Carlsen wins Norway Chess for the seventh time - 10"
-      },
-      {
-         "description" : "You're playing a game. The position is complicated. You've calculated a few lines, but you're unsure. You don't know if you're better or worse. You don't know what your opponent is planning. So you freeze. You feel the pressure of the clock, the fear of a mistake, the weight of uncertainty. You don't want to []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/train-decision-making-in-chess/",
-         "pubDate" : "Sat, 07 Jun 2025 13:00:00",
-         "title" : "In Chess and in Life, You Have to Decide Without Knowing"
       }
    ]
 }
