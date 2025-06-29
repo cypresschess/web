@@ -10,6 +10,14 @@ news_feed (
          "title" : "Gukesh shares insights from his Norway Chess 2025 journey"
       },
       {
+         "description" : " The Hans Moke Niemann against Santosh Vidit blitz match on Endgame.ai eventually took place 28th to 29th June 2025 after being announced for earlier in the week. Niemann won 12-6 on day 1 which was 3m+1spm blitz and 10.5-7.5 on day 2 which turned out to be Chess960 (in advance material there was no mention so I concluded it would be two days of standard blitz) and 3m+2spm blitz. On day one Niemann lost game 8 due to a mouse-slip and won on time in game 11 which he seemed to regard as payback. The downloadable PGN from the official site got a bit closer, the starting positions on day 2 for Chess960 were a real bonus, having the same players as white and black in every game meant half were wr",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/niemann-vidit-match-2025",
+         "pubDate" : "Sun, 29 Jun 2025 20:34:00",
+         "title" : "Niemann-Vidit Match 2025 - Games and Results"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122145138.cms\" />After Magnus Carlsen's table-slam went viral following a loss to D Gukesh, R Praggnanandhaa called it an instinctive reaction - not ideal, but good for chess visibility. While praising Carlsen as the best, Praggnanandhaa reflected on his own breakthrough year, having won three major titles and rising to World No. 4 as he eyes a Candidates spot.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
