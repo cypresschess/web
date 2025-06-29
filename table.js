@@ -1,4 +1,8 @@
 jtable([
+"HOUSTON","2025-06-28","105","<a href=http://www.uschess.org/msa/XtblMain.php?202506285032 target='_blank'>TCR: HOUSTON CITY SCHOLASTIC 2025</a>",
+"HOUSTON","2025-06-28","6","<a href=http://www.uschess.org/msa/XtblMain.php?202506284622 target='_blank'>CHESSPANDA06282025SATURDAY</a>",
+"PEARLAND","2025-06-28","21","<a href=http://www.uschess.org/msa/XtblMain.php?202506284192 target='_blank'>5TH PEARLAND OPEN 2025</a>",
+"SPRING","2025-06-27","19","<a href=http://www.uschess.org/msa/XtblMain.php?202506274152 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-06-27","40","<a href=http://www.uschess.org/msa/XtblMain.php?202506274132 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-06-03  - 06-24","14","<a href=http://www.uschess.org/msa/XtblMain.php?202506243622 target='_blank'>JUNE 2025 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2025-06-20  - 06-22","64","<a href=http://www.uschess.org/msa/XtblMain.php?202506222872 target='_blank'>NORTH TEXAS FIDE 06-20-2025</a>",
@@ -195,8 +199,4 @@ jtable([
 "SUGAR LAND","2024-12-13","20","<a href=http://www.uschess.org/msa/XtblMain.php?202412134462 target='_blank'>FBCC NATIONAL VIOLIN DAY OPEN</a>",
 "CYPRESS","2024-12-13","22","<a href=http://www.uschess.org/msa/XtblMain.php?202412134342 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2024-12-04  - 12-11","3","<a href=http://www.uschess.org/msa/XtblMain.php?202412116302 target='_blank'>CYGA12112024</a>",
-"HOUSTON","2024-12-06  - 12-08","44","<a href=http://www.uschess.org/msa/XtblMain.php?202412081512 target='_blank'>$2,000 DECEMBER 2024 CHAMPIONSHIP</a>",
-"SUGAR LAND","2024-12-07","4","<a href=http://www.uschess.org/msa/XtblMain.php?202412079922 target='_blank'>FBCC 2024 NATIONAL GAZPACHO DAY OPE</a>",
-"HOUSTON","2024-12-07","357","<a href=http://www.uschess.org/msa/XtblMain.php?202412070572 target='_blank'>MANDARIN IMMERSION MAGNET SCHOOL</a>",
-"HOUSTON","2024-12-06","40","<a href=http://www.uschess.org/msa/XtblMain.php?202412069882 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
