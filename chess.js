@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hikaru Nakamura cruised to victory in Saturday&#39;s Bullet Brawl, posting a score of 184 to finish 40 points ahead of IM Renato Terry and two more ahead of GM Eric Hansen. The win, which earned Nakamura $400, increased his career titles to 42, eig...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-june-28-2025",
+         "pubDate" : "Sat, 28 Jun 2025 18:30:00",
+         "title" : "Nakamura Surges To 42nd Bullet Brawl Title Ahead Of Terry, Hansen"
+      },
+      {
          "description" : "Born in 1994, Anish Giri turns 31 years old today, on 28 June 2025. Anish is a player whom we have known for almost a decade now. In this article, we go down memory lane with some selected images that tell the story of what a gem of an individual Anish is. Amruta and I first met Anish in 2015 at the London Chess Classic. The then young GM has turned into an experienced player - as he remains at the top of the world rankings! | Photos: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -592,14 +600,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/17th-ibca-chess-olympiad-for-blind-and-visually-impaired-players/",
          "pubDate" : "Wed, 18 Jun 2025 08:07:22",
          "title" : "17th IBCA Chess Olympiad for Blind and Visually Impaired Players - update 27/6/25"
-      },
-      {
-         "description" : "A week after&#38;nbsp;GMs Hans Niemann and Magnus Carlsen&#38;nbsp;won Titled Tuesday on June 10, Titled Tuesday on June 17 was won by... Carlsen and Niemann. This week, Carlsen scored 10.5 points in the early event, winning by a full point ahead of GMs A...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-niemann-win-titled-tuesday-june-17-2025",
-         "pubDate" : "Wed, 18 Jun 2025 07:36:46",
-         "title" : "The Magnus And Hans Show Continues In Titled Tuesday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121922464.cms\" />In a captivating encounter at the Delhi International GM Open Chess Tournament 2025, 80-year-old Rani Hamid, a Bangladeshi chess legend, faced 13-year-old prodigy Balaji Sudarshan. Despite a recent string of losses, Hamid's spirit remained undeterred. Sudarshan's skill led to Hamid's defeat, but the two engaged in a post-game analysis, transcending their age gap through their shared passion for chess.",
