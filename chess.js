@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Discover a powerful tool in ChessBase 18: Medals! With just a few clicks, you can highlight tactical brilliancies, strategic masterpieces, or typical mistakes-and find them again at any time. Medals help you analyze your games more effectively, organize them, and build up valuable training material. This turns your database into a personal success coach. Learn how to make the most of this powerful feature!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-20-award-medals-to-your-best-games",
+         "pubDate" : "Sun, 29 Jun 2025 12:00:00",
+         "title" : "ChessBase 18 - Tips for beginners, Part 20: Award medals to your best games!"
+      },
+      {
          "description" : "International Chess Day 2025 will be celebrated on 20 July under the theme \"Every Move Counts\", as FIDE continues its Year of Social Chess. This global initiative highlights the power of chess for inclusion, education and well-being. Celebrations include a 24-hour online blitz tournament, creative chess challenges and inclusive over-the-board events worldwide. Players of all levels are invited to take part and share how chess connects and empowers communities.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -912,22 +920,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/06/08/norman-rogers-shines-at-2025-chicago-open/",
          "pubDate" : "Sun, 08 Jun 2025 14:58:29",
          "title" : "Norman Rogers shines at 2025 Chicago Open"
-      },
-      {
-         "description" : "A new book from the Elk and Ruby stable joins the Willy Hendricks analysis of the relationship between Tarrasch and Nimzowitsch as an undoubted candidate for ECF Book of the Year. Packed with new information, original documents and fresh insights, Alexander Alekhine, The Russian Sphinx, Volume 1, by Sergey Voronkov, adds entirely new dimensions to the []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/alexander-the-great/",
-         "pubDate" : "Sun, 08 Jun 2025 11:11:07",
-         "title" : "Alexander the Great"
-      },
-      {
-         "description" : "The Arbiters' Council of the European Chess Union asked Prof. Kenneth W. Regan to write a dissemination article about his system, to let every arbiter get acquainted with this very important anti-cheating tool. The article has been written in aw way to make the system understandable without any particular mathematical skill, in order to have the concept behind known to every arbiter. It appeared in the April issue of the ECU Magazine.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prof-regan-s-statistical-system",
-         "pubDate" : "Sun, 08 Jun 2025 09:00:00",
-         "title" : "Prof. Regan's statistical system"
       }
    ]
 }
