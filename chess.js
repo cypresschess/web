@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "International Chess Day 2025 will be celebrated on 20 July under the theme \"Every Move Counts\", as FIDE continues its Year of Social Chess. This global initiative highlights the power of chess for inclusion, education and well-being. Celebrations include a 24-hour online blitz tournament, creative chess challenges and inclusive over-the-board events worldwide. Players of all levels are invited to take part and share how chess connects and empowers communities.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/international-chess-day-2025-every-move-counts",
+         "pubDate" : "Sun, 29 Jun 2025 09:00:00",
+         "title" : "Celebrating International Chess Day 2025: Every Move Counts"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122138344.cms\" />Magnus Carlsen's Team Liquid welcomes the young Indian chess prodigy, R Praggnanandhaa, ahead of the Esports World Cup in Riyadh. Praggnanandhaa joins other Indian players in the esports arena, while Carlsen and other grandmasters have already secured their spots. Praggnanandhaa will compete in the Last Chance Qualifiers for a chance to participate in the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-whole-lot-of-letters-magnus-carlsen-welcomes-praggnanandhaa-to-team-liquid/articleshow/122138344.cms",
+         "pubDate" : "Sun, 29 Jun 2025 03:38:15",
+         "title" : "Chess: 'Whole lot of letters...' - Carlsen welcomes Praggnanandhaa "
+      },
+      {
          "description" : "GM Hikaru Nakamura cruised to victory in Saturday&#39;s Bullet Brawl, posting a score of 184 to finish 40 points ahead of IM Renato Terry and two more ahead of GM Eric Hansen. The win, which earned Nakamura $400, increased his career titles to 42, eig...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -730,14 +746,6 @@ news_feed (
          "title" : "Erdogmatism: young Turk in chess"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121861725.cms\" />Grandmaster SL Narayanan, the top-rated player at the Delhi International Open GM Chess Tournament, experienced a disappointing finish after a strong start. Despite aiming for victory, a series of draws against lower-rated opponents led to a seventh-place result. Narayanan reflects on the mental challenges and the importance of maintaining a strong mindset for future success in his chess career. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-why-is-chess-so-cruel-ask-grandmaster-sl-narayanan/articleshow/121861725.cms",
-         "pubDate" : "Sun, 15 Jun 2025 10:26:44",
-         "title" : "Exclusive: Why is chess so cruel? Ask Grandmaster SL Narayanan"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-5-recap/\">2025 Cairns Cup - Day 5 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -920,22 +928,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prof-regan-s-statistical-system",
          "pubDate" : "Sun, 08 Jun 2025 09:00:00",
          "title" : "Prof. Regan's statistical system"
-      },
-      {
-         "description" : "The 38th National Under-7 Open and Girls Chess Championship was a&#160;highly&#160;anticipated&#160;event in India's chess&#160;community. It&#160;was&#160;held&#160;at&#160;the KT Global School&#160;in&#160;Khorda Bhubaneswar,&#160; a&#160;venue&#160;perfectly&#160;suited&#160;for&#160;young&#160;players. The championship&#160;drew&#160;in&#160;345&#160;participants&#160;from 27 states, making",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/38th-national-under-7-open-girls/",
-         "pubDate" : "Sun, 08 Jun 2025 06:00:12",
-         "title" : "38th NAT. UNDER-7 OPEN & GIRLS CHESS CHAMPIONSHIPS FROM 01-05 JUNE 2025"
-      },
-      {
-         "description" : "Please find the live link here https://www.chess.com/events/info/delhi-international-open-grandmasters-chess-tournament-2025-a3ae4",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-21st-delhi-open-2025/",
-         "pubDate" : "Sun, 08 Jun 2025 05:50:03",
-         "title" : "Live Games link for 21st Delhi open 2025"
       }
    ]
 }
