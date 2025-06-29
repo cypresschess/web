@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In today's chess world, an ideal opening should be practical, easy to remember, aggressive, and force the opponent to think early-rather than aiming for small advantages. IM Robert Ris presents such a repertoire for White with 1.d4 followed by 2.Bg5, fulfilling all these criteria. The Trompowsky Attack, now revived by top grandmasters, is especially effective in rapid games and allows players to sidestep deep theory while gaining dynamic play.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-the-top-tier-trompowsky",
+         "pubDate" : "Sun, 29 Jun 2025 16:00:00",
+         "title" : "Robert Ris: The top-tier Trompowsky"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122143534.cms\" />The International Chess Federation (FIDE) has intervened in the dispute between Vladimir Kramnik and David Navara. FIDE expresses concern over the impact of Kramnik's accusations. It supports Navara and asks Kramnik to withdraw his defamation lawsuit. Levon Aronian has also appealed to Kramnik for reconciliation. FIDE emphasizes fairness and unity within the chess community.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/drama-fide-slams-vladimir-kramniks-defamation-lawsuit-against-david-navara-brings-a-lot-of-harm-to-chess-community/articleshow/122143534.cms",
+         "pubDate" : "Sun, 29 Jun 2025 13:51:23",
+         "title" : "Drama! FIDE slams Kramnik's defamation lawsuit: 'Brings a lot of harm to chess'"
+      },
+      {
          "description" : "Discover a powerful tool in ChessBase 18: Medals! With just a few clicks, you can highlight tactical brilliancies, strategic masterpieces, or typical mistakes-and find them again at any time. Medals help you analyze your games more effectively, organize them, and build up valuable training material. This turns your database into a personal success coach. Learn how to make the most of this powerful feature!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -722,14 +738,6 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2025 - Games and Results"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121880019.cms\" />Gukesh Dommaraju's rise to world chess champion at 18 has sparked a chess revolution, validating Garry Kasparov's prediction. At the Delhi International Open, seasoned players like GM Tornike Sanikidze noted the fierce competition from India's young talents. Veteran Rani Hamid acknowledged India's significant progress in chess. India is now a dominant force, driven by ambitious young players. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-earlier-i-used-to-beat-indians-at-will-what-global-chess-stars-in-their-30s-50s-and-80s-say-about-indias-dominance/articleshow/121880019.cms",
-         "pubDate" : "Mon, 16 Jun 2025 08:35:02",
-         "title" : "'Earlier, I used to beat Indians at will': What global chess stars say about India's dominance"
-      },
-      {
          "description" : "Please find the link here GM&#160;Open :&#160; http://fritzserver.org/LocalUser/live/aurionpro2025/gm/index.html Junior: http://fritzserver.org/LocalUser/live/aurionpro2025/junior/index.html",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://aicf.in/fide-world-cadet-chess-championships-2025/",
          "pubDate" : "Mon, 09 Jun 2025 07:04:21",
          "title" : "FIDE World Cadet Chess Championships - 2025"
-      },
-      {
-         "description" : " Norman Rogers of Philadelphia has returned to regular chess tournaments after a foray into poker. While he still plays poker, he recently played in the Chicago Open (under-2300) and scored 5.5/7, tying for 5th-6th place. When asked about his return, he says, &#8220;I'm already back.&#8221; FM Norman Rogers (left) showing one of his wins to The post <a href=\"https://thechessdrum.net/blog/2025/06/08/norman-rogers-shines-at-2025-chicago-open/\">Norman Rogers shines at 2025 Chicago Open</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/06/08/norman-rogers-shines-at-2025-chicago-open/",
-         "pubDate" : "Sun, 08 Jun 2025 14:58:29",
-         "title" : "Norman Rogers shines at 2025 Chicago Open"
       }
    ]
 }
