@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Norway Chess was one of the most exciting tournaments this year. Whether due to the games or due to Magnus Carlsen banging the table after his defeat against the World Champion, the event caught the attention of spectators all around the world. After coming back from the tournament, Gukesh had a candid conversation with Sagar Shah and Amruta Mokal. He started the tournament with two unexpected losses. Yet quickly bounced back! In this interview, Gukesh discussed his games, his fighting spirit and, of course, the unforgettable viral incident. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-insights-norway-chess-2025",
+         "pubDate" : "Sun, 29 Jun 2025 21:15:00",
+         "title" : "Gukesh shares insights from his Norway Chess 2025 journey"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122145138.cms\" />After Magnus Carlsen's table-slam went viral following a loss to D Gukesh, R Praggnanandhaa called it an instinctive reaction - not ideal, but good for chess visibility. While praising Carlsen as the best, Praggnanandhaa reflected on his own breakthrough year, having won three major titles and rising to World No. 4 as he eyes a Candidates spot.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-r-praggnanandhaa-breaks-silence-on-magnus-carlsens-table-slam-after-d-gukesh-loss-is-it-a-good-thing-maybe-not/articleshow/122145138.cms",
+         "pubDate" : "Sun, 29 Jun 2025 16:53:13",
+         "title" : "Pragg breaks silence on Carlsen's table slam: 'Is it a good thing? Maybe not'"
+      },
+      {
          "description" : "In today's chess world, an ideal opening should be practical, easy to remember, aggressive, and force the opponent to think early-rather than aiming for small advantages. IM Robert Ris presents such a repertoire for White with 1.d4 followed by 2.Bg5, fulfilling all these criteria. The Trompowsky Attack, now revived by top grandmasters, is especially effective in rapid games and allows players to sidestep deep theory while gaining dynamic play.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -696,14 +712,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/future-fide-president-anish-giri-involved-in-an-heated-argument-with-ian-nepomniachtchi-hikaru-nakamura-watch-video/articleshow/121908049.cms",
          "pubDate" : "Tue, 17 Jun 2025 10:13:52",
          "title" : "'Future FIDE Prez:' Giri involved in an heated argument with Nepo, Nakamura - Watch"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121902246.cms\" />Magnus Carlsen's emotional outburst after losing to Gukesh has gone viral. Indian GM Pentala Harikrishna hilariously mimicked the fist smash in a FIDE interview. Even Anish Giri joined the fun earlier, tapping his fist before a game with a smile.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-fever-p-harikrishna-copies-famous-fist-smash-of-world-no-1-chess-player-watch-video/articleshow/121902246.cms",
-         "pubDate" : "Tue, 17 Jun 2025 06:08:07",
-         "title" : "Carlsen fever! Harikrishna copies famous fist-smash of World No 1 - Watch "
       },
       {
          "description" : "This week's puzzles come from the first half of the 2025 Cairns Cup (recap here). Stay tuned next week for more highlights from this showcase of ten of the top female players in the world. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
