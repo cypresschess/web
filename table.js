@@ -1,7 +1,10 @@
 jtable([
+"HOUSTON","2025-06-29","17","<a href=http://www.uschess.org/msa/XtblMain.php?202506295912 target='_blank'>BELLAIRE SUNDAY SWISS 06/29/2025</a>",
+"HOUSTON","2025-06-27  - 06-29","95","<a href=http://www.uschess.org/msa/XtblMain.php?202506295822 target='_blank'>TCR: HOUSTON CITY CHAMPIONSHIP 2025</a>",
 "HOUSTON","2025-06-28","105","<a href=http://www.uschess.org/msa/XtblMain.php?202506285032 target='_blank'>TCR: HOUSTON CITY SCHOLASTIC 2025</a>",
 "HOUSTON","2025-06-28","6","<a href=http://www.uschess.org/msa/XtblMain.php?202506284622 target='_blank'>CHESSPANDA06282025SATURDAY</a>",
 "PEARLAND","2025-06-28","21","<a href=http://www.uschess.org/msa/XtblMain.php?202506284192 target='_blank'>5TH PEARLAND OPEN 2025</a>",
+"SUGAR LAND","2025-06-27","14","<a href=http://www.uschess.org/msa/XtblMain.php?202506275422 target='_blank'>PIADA APPRECIATION OPEN</a>",
 "SPRING","2025-06-27","19","<a href=http://www.uschess.org/msa/XtblMain.php?202506274152 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-06-27","40","<a href=http://www.uschess.org/msa/XtblMain.php?202506274132 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-06-03  - 06-24","14","<a href=http://www.uschess.org/msa/XtblMain.php?202506243622 target='_blank'>JUNE 2025 TUESDAY NIGHT SWISS</a>",
@@ -196,7 +199,4 @@ jtable([
 "HOUSTON","2024-12-14","63","<a href=http://www.uschess.org/msa/XtblMain.php?202412146592 target='_blank'>DEC 14TH - TROPHY SCHOLASTIC</a>",
 "HOUSTON","2024-12-14","10","<a href=http://www.uschess.org/msa/XtblMain.php?202412144872 target='_blank'>CHESSPANDA12142024SATURDAY</a>",
 "SPRING","2024-12-13","34","<a href=http://www.uschess.org/msa/XtblMain.php?202412134512 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2024-12-13","20","<a href=http://www.uschess.org/msa/XtblMain.php?202412134462 target='_blank'>FBCC NATIONAL VIOLIN DAY OPEN</a>",
-"CYPRESS","2024-12-13","22","<a href=http://www.uschess.org/msa/XtblMain.php?202412134342 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SUGAR LAND","2024-12-04  - 12-11","3","<a href=http://www.uschess.org/msa/XtblMain.php?202412116302 target='_blank'>CYGA12112024</a>",
 ]);
