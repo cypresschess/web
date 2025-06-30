@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Chris Ward dissects a high-level Dragon game between Hikaru Nakamura and Frederik Svane, showcasing a sharp variation known as the h5 Dragadorf. Alongside detailed tactical motifs - like knight sacrifices, queen traps and pawn breaks - Chris emphasizes how even small imprecisions can lead to brutal consequences in this complex opening. He also revisits viewer questions from the previous episode. The episode is highlighting the Dragadorf's growing strength and teasing the potential for a full ChessBase course on this potent setup. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-nakamura-s-dragon",
+         "pubDate" : "Mon, 30 Jun 2025 20:00:00",
+         "title" : "The Monthly Dragon - Nakamura's Dragon"
+      },
+      {
          "description" : "3Cs (Children's Chess Club) were not only very honoured to welcome the Mayor and Mayoress of Oldham to one of their weekly club nights but were also delighted that chess...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-in-north-india-were-trained-thugs-the-harsh-truth-behind-the-nations-north-south-divide/articleshow/122157541.cms",
          "pubDate" : "Mon, 30 Jun 2025 10:40:11",
          "title" : "'In North India, we're trained thugs': The harsh truth behind the nation's North-South divide"
-      },
-      {
-         "description" : "This week only, get your hands on the ultimate chess bundle! ChessBase 18 and Fritz 20, normally priced at €269.90, are available for just €209.90 in our exclusive Summer Special. Whether you're a beginner or a seasoned pro, this powerful combination will elevate your game with advanced tools like playing style analysis, opponent simulations, and world-class training features. Don't miss out on this limited-time offer - shop now and take your chess skills to the next level!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/summer-special-cb18-fritz-20",
-         "pubDate" : "Mon, 30 Jun 2025 09:35:00",
-         "title" : "This week's unmissable Summer Special: ChessBase 18 + Fritz 20, the winning bundle!"
       },
       {
          "description" : "FIDE has announced the formation of a task force to evaluate anti-cheating methods proposed by GM Vladimir Kramnik, inviting him to present his approach for official review. However, FIDE has also expressed deep concern over the damaging tone of Kramnik's public statements, particularly their impact on GM David Navara, a respected figure with a long-standing fair play reputation. FIDE urges Kramnik to withdraw his defamation lawsuit against Navara in the interest of community cohesion and integrity.",
@@ -904,14 +904,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2025-concluded-in-mamaia-romania/",
          "pubDate" : "Mon, 09 Jun 2025 20:04:59",
          "title" : "European School Chess Championship 2025 concluded in Mamaia, Romania"
-      },
-      {
-         "description" : " Hans Niemann played a match against Nihal Sarin over two days 8th to 9th June 2025. Day 1 was an 18 game match of straight blitz which Niemann won 10.5-7.5. Day two was Chess960 blitz and Niemann won 10-8. The match was on Endgame.AI a new site with some technical problems, they just about made it possible to extract the games, in Chess960 you can't get the starting position, only the position after one move, and queenside castling is given as kingside castling but I wasn't going to be beaten. I can't display Chess960 games but there is a download (now working properly). ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/niemann-sarin-blitz-match-2025",
-         "pubDate" : "Mon, 9 Jun 2025 18:25:00",
-         "title" : "Niemann-Sarin Blitz Match 2025 - Games and Results"
       }
    ]
 }
