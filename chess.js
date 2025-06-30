@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "3Cs (Children's Chess Club) were not only very honoured to welcome the Mayor and Mayoress of Oldham to one of their weekly club nights but were also delighted that chess...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/mayoral-visit-to-3cs-chess-club/",
+         "pubDate" : "Mon, 30 Jun 2025 14:47:27",
+         "title" : "Mayoral Visit to 3Cs Chess Club"
+      },
+      {
+         "description" : " The Chess Stars 5.0 tournament took place in Moscow 26th to 30th June 2025. Players: Vladislav Artemiev, Sergey Karjakin, Teimour Radjabov, Evgeny Tomashevsky, Raunak Sadhwani, Hou Yifan, Aleksandra Goryachkina, Kateryna Lagno, Bibisara Assaubayeva and Valentina Gunina. 3 days of rapid was followed by 2 days of blitz. Vladislav Artemiev won the rapid with 7/9 and blitz with 14.5/18. Raunak Sadhwani was second in the rapid and Sergey Karjakin second in the blitz.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chess-stars-5.0-2025",
+         "pubDate" : "Mon, 30 Jun 2025 13:46:00",
+         "title" : "Chess Stars 5.0 2025 - Games and Results"
+      },
+      {
          "description" : "In 1986 the award-winning musical Chess, written by lyricist Tim Rice, with the music composed by Benny Andersson and Bj&ouml;rn Ulvaeus (both formerly of ABBA), premiered in London's West End. This autumn, we are told, it is going to revived on Broadway, with a new updated book. Ready for a truly great musical treat? Then take an hour and a half to watch videos of a previous production. You will not regret it.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gukesh-insights-norway-chess-2025",
          "pubDate" : "Sun, 29 Jun 2025 21:15:00",
          "title" : "Gukesh shares insights from his Norway Chess 2025 journey"
+      },
+      {
+         "description" : " The Hans Moke Niemann against Santosh Vidit blitz match on Endgame.ai eventually took place 28th to 29th June 2025 after being announced for earlier in the week. Niemann won 12-6 on day 1 which was 3m+1spm blitz and 10.5-7.5 on day 2 which turned out to be Chess960 (in advance material there was no mention so I concluded it would be two days of standard blitz) and 3m+2spm blitz. On day one Niemann lost game 8 due to a mouse-slip and won on time in game 11 which he seemed to regard as payback. The downloadable PGN from the official site got a bit closer, the starting positions on day 2 for Chess960 were a real bonus, having the same players as white and black in every game meant half were wr",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/niemann-vidit-match-2025",
+         "pubDate" : "Sun, 29 Jun 2025 20:34:00",
+         "title" : "Niemann-Vidit Match 2025 - Games and Results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122145138.cms\" />After Magnus Carlsen's table-slam went viral following a loss to D Gukesh, R Praggnanandhaa called it an instinctive reaction - not ideal, but good for chess visibility. While praising Carlsen as the best, Praggnanandhaa reflected on his own breakthrough year, having won three major titles and rising to World No. 4 as he eyes a Candidates spot.",
@@ -130,7 +154,15 @@ news_feed (
          "title" : "Praggnanandhaa Hits Back To Win UzChess Cup After Losing 'Game Of The Year'"
       },
       {
-         "description" : "They are absolutely vital. Gukesh won the World Championship with one - or we could say Ding Liren lost his title because he misplayed it. So can you understand and play pawn endings proficiently? Take a look at this position: White has six legal move, all with his king. But only one of them ensures the win. Which one? We have four instructive and entertaining positions that will test your skills. And hopefully leave you a better, more effective player.",
+         "description" : " The 2nd Uzchess Cup took place in Tashkent, Uzbekistan, 19th to 27th June. There are three round robin tournaments and an open. Players: Masters: Arjun, Erigaisi,Nodirbek Abdusattorov, Praggnanandhaa, Ian Nepomniachtchi, Chithambaram V Aravindh, Richard Rapport, Javokhir Sindarov,Parham Maghsoodloo, Nodirbek Yakubboev,Shamsiddin Vokhidov. The Challengers had Vasyl Ivanchuk as top seed. Praggnanandhaa won a tie-break above Javokhir Sindarov and Nodirbek Abdusattorov but only after a double round robin blitz was drawn and they had to play an additional single round robin where Praggnanandhaa beat Sindarov in round 2 to take the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/2nd-uzchess-cup-2025",
+         "pubDate" : "Fri, 27 Jun 2025 21:01:00",
+         "title" : "2nd Uzchess Cup 2025 - Games and Results"
+      },
+      {
+         "description" : "They are absolutely vital. Gukesh won the World Championship with one - or we could say Ding Liren lost his title because he misplayed it. So can you understand and play pawn endings proficiently? Take a look at this position: White has six legal moves, all with his king. But only one of them ensures the win. Which one? We have four instructive and entertaining positions that will test your skills. And hopefully leave you a better, more effective player.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/can-you-play-pawn-endings-2",
@@ -248,6 +280,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/rs-42-3-lakh-disbursed-as-aicf-rolls-out-player-stipends-for-top-chess-talents-in-india/articleshow/122074469.cms",
          "pubDate" : "Wed, 25 Jun 2025 16:14:04",
          "title" : "Rs 42.3 lakh disbursed as AICF rolls out player stipends for top chess talents in India"
+      },
+      {
+         "description" : " The Titled Tuesday Blitz 24th June saw wins for V Pranav in the early and Denis Lazavik in the late, both finishing on 10/11. In the early Pranav won his final round game against the leader Hans Moke Niemann, a four knights which proved to be a pretty convincing carve up. Magnus Carlsen was effectively out of the running after three rounds, in round 2 he was held to a draw by nine-year-old Indian player Aarit Kapil - in fact Carlsen was dead lost for most of the second half of the game (although out of the opening he had a large advantage). Carlsen then did lose in round 3, to 15 year-old Russian Maksim Ivannikov, Carlsen was winning, allowed his opponent back into the game who then proceed",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-24th-june-2025",
+         "pubDate" : "Wed, 25 Jun 2025 13:16:00",
+         "title" : "Titled Tuesday Blitz 24th June 2025 - Games and Results"
       },
       {
          "description" : "GMs Alireza Firouzja, Nihal Sarin, Daniel Naroditsky, and Sam Sevian are the last ones left in the Winners Bracket of the 2025 Bullet Chess Championship after day one. All four players won both of their matches to stay at the top, while the other ...",
@@ -386,6 +426,14 @@ news_feed (
          "title" : "Tani Captures Second US Cadet Championship"
       },
       {
+         "description" : " Hans Moke Niemann played Levon Aronian in an 18 game blitz match on Endgame.ai. Aronian won the final two games to win the match 9.5-8.5. I managed to retrieve the games from the server.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/hans-moke-niemann-vs-levon-aronian-blitz-match-2025",
+         "pubDate" : "Sat, 21 Jun 2025 21:30:00",
+         "title" : "Hans Moke Niemann vs Levon Aronian Blitz Match 2025 - Games and Results"
+      },
+      {
          "description" : "A dramatic showdown between GM Alireza Firouzja and GM Hikaru Nakamura during Saturday&#39;s Bullet Brawl&#38;nbsp;culminated in Firouzja edging out Nakamura on tiebreaks, marking the first time in history that first has been decided this way. Firouzja ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -402,6 +450,14 @@ news_feed (
          "title" : "The magic root of chess"
       },
       {
+         "description" : " The fifth Cairns Cup finished on Thursday with victory for 21 year old Carissa Yip who drew with her closest rival, 15 year old Alice Lee, to secure clear first place. Yip and Lee were formally the bottom two seeds in the event but there was reason to believe even before the event started that both players were considerably better than that. Neither has been very active outside the United States, Yip is studying Computer Science and Math at Stanford University (I now hear that at some point recently she dropped out) and Lee is still at school, yet their powerful play at the US Championships in October, where Yip was champion and Lee finished third with only one defeat, already marked them o",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/carissa-yip-wins-the-cairns-cup",
+         "pubDate" : "Sat, 21 Jun 2025 10:05:00",
+         "title" : "Carissa Yip wins the Cairns Cup - 4-9"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121985150.cms\" />R Praggnanandhaa has surpassed D Gukesh in live FIDE rankings, reaching a rating of 2777.2 while competing in the UzChess Cup Masters. He is currently tied for the lead in the tournament after defeating Shamsiddin Vokhidov. Recently, India saw four players in the global top 10, including Aravindh Chithambaram, highlighting the country's growing dominance in chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -416,6 +472,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/us-no-1-carissa-yip-captures-2025-cairns-cup-title-in-dazzling-comeback-victory-wins-65000/",
          "pubDate" : "Fri, 20 Jun 2025 20:51:25",
          "title" : "U.S. No. 1 Carissa Yip Captures 2025 Cairns Cup Title in Dazzling Comeback Victory, Wins $65,000"
+      },
+      {
+         "description" : " The 5th Cairns Cup took place in St Louis 10th to 20th June 2025. This women's event had the following players: Tan Zhongyi, Humpy Koneru, Nana Dzagnidze, Alina Kashlinskaya, Bibisara Assaubayeva, Mariya Muzychuk, Harika Dronavalli, Nino Batsiashvili, Carissa Yip and Alice Lee. The event is named in honor of co-founder Dr. Jeanne Cairns Sinquefield's maiden name. The event turned out to be a battle between the eventual winner 21 year old Carissa Yip and 15 year old Alice Lee. Yip only needed a draw with white in the final round to win, she was winning at one stage but had to settle for a draw. Yip made a second GM norm. Humpy Koneru had been leading after 6 rounds but lost her last three ga",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/5th-cairns-cup-2025",
+         "pubDate" : "Fri, 20 Jun 2025 20:34:00",
+         "title" : "5th Cairns Cup 2025 - Games and Results"
       },
       {
          "description" : "Next week is the first ever ECF National Schools' Chess Finals Week. This features the finals of both the English Schools' Chess Championships and the three Team Chess Challenge tournaments....",
@@ -570,6 +634,22 @@ news_feed (
          "title" : "2025 Cairns Cup - Day 8 Recap"
       },
       {
+         "description" : " The Titled Tuesday Blitz of 17th June saw Magnus Carlsen win the early and Hans Niemann win the late. Carlsen's win in the early was a little unusual in that he met all his closest rivals beating Aleksei Sarana in round 7, Jeffery Xiong in round 8, Alireza Firouzja in round 9 and Hans Niemann in round 10 (these finished 2nd-5th). Carlsen drew the final round to finish on 10.5/11. Hans Niemann won the late with 10/11 beating Nakamura in round 9 and drawing with second place Fabiano Caruana in round 10. Games in PGN available for download but they're a bit large to display. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-17th-june-2025",
+         "pubDate" : "Wed, 18 Jun 2025 19:45:00",
+         "title" : "Titled Tuesday Blitz 17th June 2025 - Games and Results"
+      },
+      {
+         "description" : " Hans Niemann immediately challenged Anish Giri again after his <a href=\"https://theweekinchess.com/chessnews/events/hans-moke-niemann-vs-anish-giri-rematch-2025\">18 game blitz rematch on June 4th</a> and this took place on June 18th. Since I can't call everything a rematch I decided to call this a rerematch. After trading wins in the first four games and then having two draws, Giri won six of the last seven games. Even in the drawn game 8 Giri had a winning position for Giri but due to the 50 move rule the game finished in a draw. Only 13 of the schedule 18 games were required for a 9.5-3.5 win for Giri. Niemann can be counted on for a pithy summary, today it was: \"Bad day, very bad day, I'",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/niemann-giri-rerematch-2025",
+         "pubDate" : "Wed, 18 Jun 2025 19:14:00",
+         "title" : "Niemann-Giri Rerematch 2025 - Games and Results"
+      },
+      {
          "description" : "Grandmasters Rasmus Svane, Denis Lazavik, Pranesh M, and Martyn Kravtsiv advanced from the Swiss stage to the knockouts in the hopes of reaching the Freestyle Chess Grand Slam Las Vegas tournament. In tomorrow&#39;s knockout stage, they will be joined...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -658,6 +738,14 @@ news_feed (
          "title" : "International Schools Chess Festival, Romania 30th June - 6th July 2025"
       },
       {
+         "description" : " The FIDE World Rapid and Blitz Team Championships took place in London Tue 10th to Mon 16th Jun 2025. Players included Firouzja, Aronian, MVL, Nakamura, Abdusattorov, Anand, 420 players of varying strengths playing for teams. Each team of 6 in each match required one recreational player and one woman player. 6th seeds Team MGD1 (Erigaisi, Harikrishna, Anton Guijarro, Pranav, Mendonca, Tsolakidou and Atharvaa P Tayade) won the rapid ahead of Hexamind (Aronian, Giri, Murzin, Domginguez, Vidit, Divya, Panarin and Muradyan) and Freedom (Anand, Mamedov, Sevian, Le, Sarana, Martirosyan, Muzychuk, Injac and Mani) with top seeds WR Chess (Firouzja, MVL, Nakamura, Duda, So, Hou Yifan, Kosteniuk and ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-rapid-and-blitz-team-championships-2025",
+         "pubDate" : "Mon, 16 Jun 2025 10:58:00",
+         "title" : "FIDE World Rapid and Blitz Team Championships 2025 - Games and Results"
+      },
+      {
          "description" : "Please find the link here GM&#160;Open :&#160; http://fritzserver.org/LocalUser/live/aurionpro2025/gm/index.html Junior: http://fritzserver.org/LocalUser/live/aurionpro2025/junior/index.html",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -690,6 +778,14 @@ news_feed (
          "title" : "2025 Cairns Cup - Day 5 Recap"
       },
       {
+         "description" : " The 21st Delhi Open took place Sat 7th to Sat 14th Jun 2025. Abhijeet Gupta won with on 8.5/10 half a point clear of Mihail Nikitenko and Ghosh Aronyak.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/21st-delhi-open-2025",
+         "pubDate" : "Sat, 14 Jun 2025 13:40:00",
+         "title" : "21st Delhi Open 2025 - Games and Results"
+      },
+      {
          "description" : "What should we think about when we play a game? This is a question all chess players try to figure out. Some coaches have shared their thoughts on it. GM Iossif Dorman's The Method in Chess (sadly out of print, thus kinda expensive) remains one of my favorite books ever written on chess. The problem? []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -704,6 +800,22 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-4-recap/",
          "pubDate" : "Fri, 13 Jun 2025 22:32:33",
          "title" : "2025 Cairns Cup - Day 4 Recap"
+      },
+      {
+         "description" : " The 5th Cairns Cup takes place in Saint Louis Tue 10th Jun to Fri 20th Jun 2025. The early pace has been set by Alice Lee who started with wins against Nino Batsiashvili and Mariya Muzychuk before drawing against Nana Dzagnidze. Top seed is Tan Zhongyi and she started with a loss against Alina Kashlinskaya before drawing against second seed Humpy Koneru and then in form Bibisara Assaubayeva. Koneru, Alina Kashlinskaya and Harika Dronavalli share second place on 2/3. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/alice-lee-leads-the-cairns-cup-after-three-rounds",
+         "pubDate" : "Fri, 13 Jun 2025 18:10:00",
+         "title" : "Alice Lee leads the Cairns Cup after three rounds - 1-3"
+      },
+      {
+         "description" : " The Titled Tuesday Blitz 10th June events were won by Hans Moke Niemann and Magnus Carlsen. In the Early Niemann beat Carlsen and Nakamura in successive rounds (although neither game is a classic) to set up his win. Niemann finished on 10.5/11 with a final round draw against Klementy Sychev, Magnus Carlsen was clear second on 10 points. In the Late event Carlsen won with 10/11, his only loss coming to Hikaru Nakamura, however his win against Niemann in round 10 came from a game where he was completely busted for much of the time. Both game files are available for download but there seems little point to displaying the games from files of this size and this may create significant problems fo",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-10th-june-2025",
+         "pubDate" : "Fri, 13 Jun 2025 10:39:00",
+         "title" : "Titled Tuesday Blitz 10th June 2025 - Games and Results"
       },
       {
          "description" : "As many as 50 candidates representing state of Gujarat, Maharashtra and Tamil Nadu attended the two days SNA Seminar cum Examination held on 24th &#38;25th",
@@ -770,14 +882,6 @@ news_feed (
          "title" : "ECF Level 1 Arbiter Course - September 2025"
       },
       {
-         "description" : "The ECF is inviting one player per section to participate as our official representative in the FIDE World Cadet Championships in Almaty, Kazakhstan (18 September to 1 October, 2025). Other...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/registration-for-world-cadet-championships-18-september-1-october-2025/",
-         "pubDate" : "Wed, 11 Jun 2025 09:09:16",
-         "title" : "Registration for World Cadet Championships 18 September - 1 October 2025"
-      },
-      {
          "description" : "The ECU E-Magazine May 2025 is out! In this edition of the ECU E-Magazine you may read about: ECU E-Magazine May 2025 can be read online together with interactive links on the following link or it can be downloaded in PDF format below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -800,6 +904,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2025-concluded-in-mamaia-romania/",
          "pubDate" : "Mon, 09 Jun 2025 20:04:59",
          "title" : "European School Chess Championship 2025 concluded in Mamaia, Romania"
+      },
+      {
+         "description" : " Hans Niemann played a match against Nihal Sarin over two days 8th to 9th June 2025. Day 1 was an 18 game match of straight blitz which Niemann won 10.5-7.5. Day two was Chess960 blitz and Niemann won 10-8. The match was on Endgame.AI a new site with some technical problems, they just about made it possible to extract the games, in Chess960 you can't get the starting position, only the position after one move, and queenside castling is given as kingside castling but I wasn't going to be beaten. I can't display Chess960 games but there is a download (now working properly). ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/niemann-sarin-blitz-match-2025",
+         "pubDate" : "Mon, 9 Jun 2025 18:25:00",
+         "title" : "Niemann-Sarin Blitz Match 2025 - Games and Results"
       }
    ]
 }
