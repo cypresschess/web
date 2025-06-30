@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Armenian grandmaster Tigran Nalbandian passed away in Yerevan on Saturday. In his youth, he was one of Armenia's greatest talents, later enjoying success as a professional player and then as a coach. For a while, he worked on Vladimir Kramnik's coaching team. He then went on to win several medals with the Armenian national team. Nalbandian was only 50 years old. | Photo: Armenian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tigran-nalbandian-1975-2025",
+         "pubDate" : "Mon, 30 Jun 2025 23:00:00",
+         "title" : "Tigran Nalbandian (1975-2025)"
+      },
+      {
          "description" : "GM Chris Ward dissects a high-level Dragon game between Hikaru Nakamura and Frederik Svane, showcasing a sharp variation known as the h5 Dragadorf. Alongside detailed tactical motifs - like knight sacrifices, queen traps and pawn breaks - Chris emphasizes how even small imprecisions can lead to brutal consequences in this complex opening. He also revisits viewer questions from the previous episode. The episode is highlighting the Dragadorf's growing strength and teasing the potential for a full ChessBase course on this potent setup. | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,12 +66,12 @@ news_feed (
          "title" : "European Rapid and Blitz Chess Championship 2025 - Invitation"
       },
       {
-         "description" : "Norway Chess was one of the most exciting tournaments this year. Whether due to the games or due to Magnus Carlsen banging the table after his defeat against the World Champion, the event caught the attention of spectators all around the world. After coming back from the tournament, Gukesh had a candid conversation with Sagar Shah and Amruta Mokal. He started the tournament with two unexpected losses. Yet quickly bounced back! In this interview, Gukesh discussed his games, his fighting spirit and, of course, the unforgettable viral incident. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gukesh-insights-norway-chess-2025",
-         "pubDate" : "Sun, 29 Jun 2025 21:15:00",
-         "title" : "Gukesh shares insights from his Norway Chess 2025 journey"
+         "description" : "This past weekend, I had the privilege of representing US Chess at the US Squash Junior Championship Tour (JCT) competition in Philadelphia, PA. As the Director of Programs for US Chess, I'm always on the lookout for unique opportunities to bridge communities and bring chess to unexpected places - and this event did not disappoint. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Busted! Squash players have been known to sneak in a game of chess between matches. (Photo by DeVaughn Croxton)<br> <br> <br> <br> I had heard rumors that, between rounds, many of the kids at squash tournaments are glued to the chess apps on their phones and tablets. So, what w",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-squash",
+         "pubDate" : "Mon, 30 Jun 2025 00:00:00",
+         "title" : "US Chess Serves Intrigue, Excitement at US Squash Super JCT"
       },
       {
          "description" : " The Hans Moke Niemann against Santosh Vidit blitz match on Endgame.ai eventually took place 28th to 29th June 2025 after being announced for earlier in the week. Niemann won 12-6 on day 1 which was 3m+1spm blitz and 10.5-7.5 on day 2 which turned out to be Chess960 (in advance material there was no mention so I concluded it would be two days of standard blitz) and 3m+2spm blitz. On day one Niemann lost game 8 due to a mouse-slip and won on time in game 11 which he seemed to regard as payback. The downloadable PGN from the official site got a bit closer, the starting positions on day 2 for Chess960 were a real bonus, having the same players as white and black in every game meant half were wr",
@@ -858,14 +866,6 @@ news_feed (
          "title" : "Chess Statistics Today"
       },
       {
-         "description" : "National Chess Day!National Chess Day is Saturday, Oct. 11. For any event that includes \"National Chess Day\" in the event title and is held that day, US Chess is offering:A free email blast. Make sure that \"National Chess Day\" is part of your subject line. On the payment screen, select \"No charge.\" Also, make sure the demographic you are sending this to is reasonable; generally, this will be local or regional. Do not send to the entire membership.Free ratings fees. Use the payment code NCD2025FREE. This is case-sensitive.Free online TLA. Online TLAs are always free, of course, not just for National Chess Day. But we want to make sure you are aware of this option too as you promote your event",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/national-chess-day-set-saturday-oct-11",
-         "pubDate" : "Thu, 12 Jun 2025 00:00:00",
-         "title" : "National Chess Day Set for Saturday, Oct. 11"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-2-recap/\">2025 Cairns Cup Day 2 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -896,14 +896,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-whole-chess-world-is-yours",
          "pubDate" : "Tue, 10 Jun 2025 12:08:55",
          "title" : "The whole chess world is yours!"
-      },
-      {
-         "description" : "The European School Chess Championship 2025 took place from 29 May to 8 June at the Complex Amiral - Comandor - Orfeu in Mamaia, Romania. The event was played in six age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, with the participation of more than 200 players coming from 14 European federations. Mete Aras Akbudak (TUR) emerged as the sole Winner of the U7 category with the score of 8 points and clinched gold []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-school-chess-championship-2025-concluded-in-mamaia-romania/",
-         "pubDate" : "Mon, 09 Jun 2025 20:04:59",
-         "title" : "European School Chess Championship 2025 concluded in Mamaia, Romania"
       }
    ]
 }
