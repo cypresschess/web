@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has announced the formation of a task force to evaluate anti-cheating methods proposed by GM Vladimir Kramnik, inviting him to present his approach for official review. However, FIDE has also expressed deep concern over the damaging tone of Kramnik's public statements, particularly their impact on GM David Navara, a respected figure with a long-standing fair play reputation. FIDE urges Kramnik to withdraw his defamation lawsuit against Navara in the interest of community cohesion and integrity.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-statement-kramnik-navara",
+         "pubDate" : "Mon, 30 Jun 2025 09:10:00",
+         "title" : "FIDE statement on the situation involving GM Kramnik and GM Navara"
+      },
+      {
+         "description" : "The 2025 European Rapid and Blitz Chess Championships will take place from November 27th to December 1st at *****Hotel Emerald in Prishtina, Kosovo. European Rapid Chess Championship 2025 will be the first on the schedule, taking place on 28th and 29th of November. The Championship will be played according to the Swiss system, in11 rounds with the time control 15 minutes game + 10 seconds per move starting from the firstmove. The European Blitz Chess Championship 2025 will be played []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2025-invitation/",
+         "pubDate" : "Mon, 30 Jun 2025 07:22:03",
+         "title" : "European Rapid and Blitz Chess Championship 2025 - Invitation"
+      },
+      {
          "description" : "Norway Chess was one of the most exciting tournaments this year. Whether due to the games or due to Magnus Carlsen banging the table after his defeat against the World Champion, the event caught the attention of spectators all around the world. After coming back from the tournament, Gukesh had a candid conversation with Sagar Shah and Amruta Mokal. He started the tournament with two unexpected losses. Yet quickly bounced back! In this interview, Gukesh discussed his games, his fighting spirit and, of course, the unforgettable viral incident. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,36 +42,12 @@ news_feed (
          "title" : "Pragg breaks silence on Carlsen's table slam: 'Is it a good thing? Maybe not'"
       },
       {
-         "description" : "In today's chess world, an ideal opening should be practical, easy to remember, aggressive, and force the opponent to think early-rather than aiming for small advantages. IM Robert Ris presents such a repertoire for White with 1.d4 followed by 2.Bg5, fulfilling all these criteria. The Trompowsky Attack, now revived by top grandmasters, is especially effective in rapid games and allows players to sidestep deep theory while gaining dynamic play.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-the-top-tier-trompowsky",
-         "pubDate" : "Sun, 29 Jun 2025 16:00:00",
-         "title" : "Robert Ris: The top-tier Trompowsky"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122143534.cms\" />The International Chess Federation (FIDE) has intervened in the dispute between Vladimir Kramnik and David Navara. FIDE expresses concern over the impact of Kramnik's accusations. It supports Navara and asks Kramnik to withdraw his defamation lawsuit. Levon Aronian has also appealed to Kramnik for reconciliation. FIDE emphasizes fairness and unity within the chess community.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/drama-fide-slams-vladimir-kramniks-defamation-lawsuit-against-david-navara-brings-a-lot-of-harm-to-chess-community/articleshow/122143534.cms",
          "pubDate" : "Sun, 29 Jun 2025 13:51:23",
          "title" : "Drama! FIDE slams Kramnik's defamation lawsuit: 'Brings a lot of harm to chess'"
-      },
-      {
-         "description" : "Discover a powerful tool in ChessBase 18: Medals! With just a few clicks, you can highlight tactical brilliancies, strategic masterpieces, or typical mistakes-and find them again at any time. Medals help you analyze your games more effectively, organize them, and build up valuable training material. This turns your database into a personal success coach. Learn how to make the most of this powerful feature!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-20-award-medals-to-your-best-games",
-         "pubDate" : "Sun, 29 Jun 2025 12:00:00",
-         "title" : "ChessBase 18 - Tips for beginners, Part 20: Award medals to your best games!"
-      },
-      {
-         "description" : "International Chess Day 2025 will be celebrated on 20 July under the theme \"Every Move Counts\", as FIDE continues its Year of Social Chess. This global initiative highlights the power of chess for inclusion, education and well-being. Celebrations include a 24-hour online blitz tournament, creative chess challenges and inclusive over-the-board events worldwide. Players of all levels are invited to take part and share how chess connects and empowers communities.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/international-chess-day-2025-every-move-counts",
-         "pubDate" : "Sun, 29 Jun 2025 09:00:00",
-         "title" : "Celebrating International Chess Day 2025: Every Move Counts"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122138344.cms\" />Magnus Carlsen's Team Liquid welcomes the young Indian chess prodigy, R Praggnanandhaa, ahead of the Esports World Cup in Riyadh. Praggnanandhaa joins other Indian players in the esports arena, while Carlsen and other grandmasters have already secured their spots. Praggnanandhaa will compete in the Last Chance Qualifiers for a chance to participate in the tournament.",
@@ -74,22 +66,6 @@ news_feed (
          "title" : "Nakamura Surges To 42nd Bullet Brawl Title Ahead Of Terry, Hansen"
       },
       {
-         "description" : "Born in 1994, Anish Giri turns 31 years old today, on 28 June 2025. Anish is a player whom we have known for almost a decade now. In this article, we go down memory lane with some selected images that tell the story of what a gem of an individual Anish is. Amruta and I first met Anish in 2015 at the London Chess Classic. The then young GM has turned into an experienced player - as he remains at the top of the world rankings! | Photos: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anish-giri-31-birthday",
-         "pubDate" : "Sat, 28 Jun 2025 17:30:00",
-         "title" : "Spreading joy in the world of chess: Anish Giri turns 31 years old today"
-      },
-      {
-         "description" : "The 2024 FIDE World Chess Championship match between Gukesh D and Ding Liren has been named Best Sports Event of the Year (Exhibition/Competition) at the 2025 Singapore Sports Awards. Held in Singapore, the match crowned the youngest undisputed World Champion in history and captivated global audiences. The award recognises not only the thrilling contest but also the exceptional organisation and community engagement that made the event a landmark moment in chess history. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wch-match-singapore-sports-event-of-2024",
-         "pubDate" : "Sat, 28 Jun 2025 16:00:00",
-         "title" : "World Chess Championship wins Singapore's Sports Event of the Year"
-      },
-      {
          "description" : "I knew Vlastimil Hort well and played against him many times, without much success. I regarded him as a player of huge potential, who somehow never quite realised the fullest extent of his considerable talent. He was also one of the great sportsmen of 20th-century chess. In 1978 there was talk that Hort might join []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -104,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/firouzja-wins-2025-bullet-chess-championship-day-4",
          "pubDate" : "Sat, 28 Jun 2025 11:33:00",
          "title" : "Firouzja Defends Title, Wins 3rd Bullet Chess Championship"
-      },
-      {
-         "description" : "In this episode, Svitlana offers a comprehensive guide on how to play against the King's Gambit, an aggressive and historic opening that begins with 1.e4 e5 2.f4. While it's less common in high-level chess today, it still appears in club-level play and can lead to sharp tactical battles. Svitlana walks through multiple lines, including sideline traps and the main variations with 3.Nf3 and 3.Bc4, emphasising key defensive setups for Black, such as the flexible ...Nf6 line and the importance of early counterplay. She highlights thematic tactics, development priorities, and typical traps, ultimately showing how to neutralize White's initiative and even seize the advantage with correct preparati",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-play-against-the-king-s-gambit",
-         "pubDate" : "Sat, 28 Jun 2025 11:00:00",
-         "title" : "Svitlana's Smart Moves - How to play against the King's Gambit!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122129063.cms\" />Anish Giri's witty remark on Praggnanandhaa becoming the World No.1 junior highlights the rise of young chess talents. Praggnanandhaa's UzChess Cup Masters 2025 victory, propelling him to World No.4 and India's top player, showcases his dominance. His dramatic win, praised by Viswanathan Anand, underscores his impressive character and solidifies his position as a leading force in chess.",
@@ -928,14 +896,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/niemann-sarin-blitz-match-2025",
          "pubDate" : "Mon, 9 Jun 2025 18:25:00",
          "title" : "Niemann-Sarin Blitz Match 2025 - Games and Results"
-      },
-      {
-         "description" : "Almaty, Kazakhstan 18th September to 1st October, 2025 Special Note: If a player has only&#160;one accompanying person, then he/she must pay for double sharing amount",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-cadet-chess-championships-2025/",
-         "pubDate" : "Mon, 09 Jun 2025 07:04:21",
-         "title" : "FIDE World Cadet Chess Championships - 2025"
       }
    ]
 }
