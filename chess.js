@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last week we gave you four pawn endings to solve - on the diagrams, without engine support. Like the one on our thumbnail. White has six legal moves, all with his king. What should you play? Did you find the astonishing and subtle 1.Kf5!, the only move that ensures the win. Today we bring you the solutions to all four endgames, lucidly explained in YouTube Shorts by Volclus. Watch, listen and learn.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/could-you-solve-the-pawn-endings",
+         "pubDate" : "Tue, 01 Jul 2025 09:00:00",
+         "title" : "Could you solve the pawn endings?"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122173170.cms\" />Anish Giri criticized Ian Nepomniachtchi and Hikaru Nakamura over their protest at the FIDE World Rapid and Blitz Teams event, questioning their sense of entitlement after arriving late and replaying games. Nepo and Nakamura fired back with sarcastic remarks, while Giri insisted he only reacts strongly to perceived injustice.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-they-have-so-much-bad-blood-anish-giri-takes-fresh-dig-at-hikaru-nakamura-ian-nepomniachtchi/articleshow/122173170.cms",
+         "pubDate" : "Tue, 01 Jul 2025 04:29:32",
+         "title" : "Chess | 'Bad blood' - Anish Giri takes fresh jibe at Nakamura and Nepo"
+      },
+      {
          "description" : "Armenian grandmaster Tigran Nalbandian passed away in Yerevan on Saturday. In his youth, he was one of Armenia's greatest talents, later enjoying success as a professional player and then as a coach. For a while, he worked on Vladimir Kramnik's coaching team. He then went on to win several medals with the Armenian national team. Nalbandian was only 50 years old. | Photo: Armenian Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chess-stars-5.0-2025",
          "pubDate" : "Mon, 30 Jun 2025 13:46:00",
          "title" : "Chess Stars 5.0 2025 - Games and Results"
-      },
-      {
-         "description" : "In 1986 the award-winning musical Chess, written by lyricist Tim Rice, with the music composed by Benny Andersson and Bj&ouml;rn Ulvaeus (both formerly of ABBA), premiered in London's West End. This autumn, we are told, it is going to revived on Broadway, with a new updated book. Ready for a truly great musical treat? Then take an hour and a half to watch videos of a previous production. You will not regret it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-a-musical-revival",
-         "pubDate" : "Mon, 30 Jun 2025 12:00:00",
-         "title" : "Chess - A Musical Revival"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122157541.cms\" />Chess culture differs greatly between North and South India. Vantika Agrawal highlights the lack of recognition for chess players in the North. In contrast, Tamil Nadu provides strong support, including financial aid and flexible schooling. This fosters a competitive environment. The challenge is to create a unified chess community. This will allow talent from all regions to flourish equally. ",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-fabiano-caruana-takes-a-dig-at-19-year-old-indian-world-champion-d-gukesh-not-scary-yet/articleshow/121921962.cms",
          "pubDate" : "Wed, 18 Jun 2025 03:49:55",
          "title" : "Chess | Fabiano Caruana takes a dig at D Gukesh - 'not scary yet'"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121921875.cms\" />Divya Deshmukh, the world junior number one, delivered a stunning performance by defeating world number one Hou Yifan of China at the World Blitz Team Chess Championship in London. Representing Hexamind Chess Club, Divya avenged her earlier loss to Yifan, who played for WR Chess Team, securing a crucial victory.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-stuns-chess-world-no-1-hou-yifan-at-world-team-blitz-championship/articleshow/121921875.cms",
-         "pubDate" : "Wed, 18 Jun 2025 03:44:26",
-         "title" : "Deshmukh stuns chess world No. 1 Yifan at World Team Blitz Championship"
       },
       {
          "description" : "This week's puzzles all continue our series from the still-in-progress 2025 Cairns Cup (preview here, recap here). For more puzzles, also check out yesterday's Tactics Tuesday worksheet from this same event. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> All photos from round 7 courtesy of Lennart Ootes/SLCC, except photo of Yip at the board (courtesy of Crystal Fuller/SLCC)<br> <br> With two rounds to play, American IMs Carissa Yip and Alice ",
