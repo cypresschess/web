@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122180402.cms\" />Indian Chess grandmaster Rameshbabu Praggnanandhaa expressed his thoughts as he became the country's highest-ranked player, saying that he doesn't pay too much attention towards one or two ratings points as they can be changed at any time.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/dont-think-it-really-matters-r-praggnanandhaa-after-becoming-indias-highest-ranked-chess-player/articleshow/122180402.cms",
+         "pubDate" : "Tue, 01 Jul 2025 09:54:17",
+         "title" : "'Don't think it matters': R Praggnanandhaa after becoming India's highest-ranked chess player"
+      },
+      {
          "description" : "Last week we gave you four pawn endings to solve - on the diagrams, without engine support. Like the one on our thumbnail. White has six legal moves, all with his king. What should you play? Did you find the astonishing and subtle 1.Kf5!, the only move that ensures the win. Today we bring you the solutions to all four endgames, lucidly explained in YouTube Shorts by Volclus. Watch, listen and learn.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/could-you-solve-the-pawn-endings",
          "pubDate" : "Tue, 01 Jul 2025 09:00:00",
          "title" : "Could you solve the pawn endings?"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122177066.cms\" />Anish Giri, the Dutch Grandmaster, supports Hans Niemann amidst cheating claims. Giri expresses his frustration over the lack of evidence against Niemann. He feels Niemann's treatment was unjust. Giri highlights the complex relationships among top chess players. He describes it as a mix of rivalry, friendship, respect, and a desire to win.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-he-was-treated-badly-based-on-speculation-anish-giri-defends-hans-nieman/articleshow/122177066.cms",
+         "pubDate" : "Tue, 01 Jul 2025 07:35:53",
+         "title" : "Chess | 'He was treated badly' - Anish Giri defends Hans Nieman"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122173170.cms\" />Anish Giri criticized Ian Nepomniachtchi and Hikaru Nakamura over their protest at the FIDE World Rapid and Blitz Teams event, questioning their sense of entitlement after arriving late and replaying games. Nepo and Nakamura fired back with sarcastic remarks, while Giri insisted he only reacts strongly to perceived injustice.",
@@ -618,14 +634,6 @@ news_feed (
          "title" : "Who is Divya? Indian star congratulated by PM Modi after win over world no. 1 Yifan"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121944018.cms\" />Magnus Carlsen's fist smash at Norway Chess, following a loss to Gukesh, sparked widespread attention, overshadowing their game. Caruana shared insights on Carlsen's motivation against Gukesh, emphasising the significance of defeating the world champion. Caruana also acknowledged Gukesh's strong performances over the past year and his own expectations to compete with the rising Indian chess talents.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-thats-what-he-was-trying-to-go-for-fabiano-caruana-explains-why-magnus-carlsen-lost-his-cool-after-loss-to-d-gukesh/articleshow/121944018.cms",
-         "pubDate" : "Thu, 19 Jun 2025 04:16:12",
-         "title" : "'That's what he was trying to go for...' Fabiano Caruana explains why Magnus Carlsen lost his cool after loss to D Gukesh"
-      },
-      {
          "description" : "Round eight of the Cairns Cup 2025 has set up a dramatic final round. After putting up her fourth consecutive win, against GM-elect Bibisara Assaubayeva, IM Carissa Yip leads the event. She&#39;ll face her compatriot and friend, IM Alice Lee, in a bit...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-examination-in-ahmednagar-ahilya-nagar-maharashtra-on-12-13-july-2025/",
          "pubDate" : "Wed, 18 Jun 2025 05:11:49",
          "title" : "Senior National Arbiter Seminar & Examination in Ahmednagar (Ahilya Nagar), Maharashtra on 12 & 13 July 2025."
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121921962.cms\" />Fabiano Caruana has downplayed the hype around India's young chess stars, saying Gukesh and Arjun Erigaisi aren't \"scary\" opponents yet. Despite their rise, Caruana believes the likes of Magnus, Hikaru, and Aronian still hold the edge, suggesting the generational shift in chess isn't happening just yet.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-fabiano-caruana-takes-a-dig-at-19-year-old-indian-world-champion-d-gukesh-not-scary-yet/articleshow/121921962.cms",
-         "pubDate" : "Wed, 18 Jun 2025 03:49:55",
-         "title" : "Chess | Fabiano Caruana takes a dig at D Gukesh - 'not scary yet'"
       },
       {
          "description" : "This week's puzzles all continue our series from the still-in-progress 2025 Cairns Cup (preview here, recap here). For more puzzles, also check out yesterday's Tactics Tuesday worksheet from this same event. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> All photos from round 7 courtesy of Lennart Ootes/SLCC, except photo of Yip at the board (courtesy of Crystal Fuller/SLCC)<br> <br> With two rounds to play, American IMs Carissa Yip and Alice ",
