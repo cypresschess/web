@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Elo ratings were introduced by the World Chess Federation as the official system to rank players on 1 July 1971. Robert \"Bobby\" Fischer led the rankings by a huge margin a year before his memorable World Championship match. The rating formula was developed by mathematician and chess enthusiast Arpad Elo.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/1-july-1971-fide-introduces-elo-ratings",
+         "pubDate" : "Tue, 01 Jul 2025 20:00:00",
+         "title" : "1 July 1971: FIDE introduces Elo ratings"
+      },
+      {
          "description" : "Alexey Sarana triumphed in the 2025 Aktobe Open, held from June 22 to 30 in Kazakhstan, securing the title with 7 points. The tournament, named in memory of Vladimir Dvorkovich, saw a strong international field compete for a guaranteed prize fund of 78,000 USD. Sarana's consistent performance, including key victories in endgames, earned him the top spot, while five players tied for second place. | Foto: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,14 +26,6 @@ news_feed (
          "title" : "'Don't think it matters': R Praggnanandhaa after becoming India's highest-ranked chess player"
       },
       {
-         "description" : "Last week we gave you four pawn endings to solve - on the diagrams, without engine support. Like the one on our thumbnail. White has six legal moves, all with his king. What should you play? Did you find the astonishing and subtle 1.Kf5!, the only move that ensures the win. Today we bring you the solutions to all four endgames, lucidly explained in YouTube Shorts by Volclus. Watch, listen and learn.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/could-you-solve-the-pawn-endings",
-         "pubDate" : "Tue, 01 Jul 2025 09:00:00",
-         "title" : "Could you solve the pawn endings?"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122177066.cms\" />Anish Giri, the Dutch Grandmaster, supports Hans Niemann amidst cheating claims. Giri expresses his frustration over the lack of evidence against Niemann. He feels Niemann's treatment was unjust. Giri highlights the complex relationships among top chess players. He describes it as a mix of rivalry, friendship, respect, and a desire to win.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -34,11 +34,19 @@ news_feed (
          "title" : "Chess | 'He was treated badly' - Anish Giri defends Hans Nieman"
       },
       {
+         "description" : "Check out the FIDE rankings of the best chess players in the world.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45624957/fide-chess-rankings-july-2025-d-gukesh-r-praggnanandhaa-magnus-carlsen-koneru-humpy-r-vaishali-arjun-erigaisi?device=featurephone",
+         "pubDate" : "Tue, 1 Jul 2025 05:53:52",
+         "title" : "FIDE Chess rankings for July: R Praggnanandhaa becomes India no.1 in classical"
+      },
+      {
          "description" : "The FIDE Ethics &#38;amp; Disciplinary Commission (EDC) has upheld the US Chess Federation&#39;s one-year suspension of GM Christopher Yoo, and extended it to a global level, barring him from all FIDE-rated events until November. In addition, the 18-year-...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-hands-christopher-yoo-worldwide-ban-following-assault-incident",
-         "pubDate" : "Tue, 01 Jul 2025 05:38:19",
+         "pubDate" : "Tue, 01 Jul 2025 05:38:00",
          "title" : "FIDE Hands Christopher Yoo Worldwide Ban Following Assault Incident"
       },
       {
@@ -74,22 +82,6 @@ news_feed (
          "title" : "Just the Rules: Proposed Rule Changes?"
       },
       {
-         "description" : "Armenian grandmaster Tigran Nalbandian passed away in Yerevan on Saturday. In his youth, he was one of Armenia's greatest talents, later enjoying success as a professional player and then as a coach. For a while, he worked on Vladimir Kramnik's coaching team. He then went on to win several medals with the Armenian national team. Nalbandian was only 50 years old. | Photo: Armenian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tigran-nalbandian-1975-2025",
-         "pubDate" : "Mon, 30 Jun 2025 23:00:00",
-         "title" : "Tigran Nalbandian (1975-2025)"
-      },
-      {
-         "description" : "GM Chris Ward dissects a high-level Dragon game between Hikaru Nakamura and Frederik Svane, showcasing a sharp variation known as the h5 Dragadorf. Alongside detailed tactical motifs - like knight sacrifices, queen traps and pawn breaks - Chris emphasizes how even small imprecisions can lead to brutal consequences in this complex opening. He also revisits viewer questions from the previous episode. The episode is highlighting the Dragadorf's growing strength and teasing the potential for a full ChessBase course on this potent setup. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-nakamura-s-dragon",
-         "pubDate" : "Mon, 30 Jun 2025 20:00:00",
-         "title" : "The Monthly Dragon - Nakamura's Dragon"
-      },
-      {
          "description" : "3Cs (Children's Chess Club) were not only very honoured to welcome the Mayor and Mayoress of Oldham to one of their weekly club nights but were also delighted that chess...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -112,14 +104,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-in-north-india-were-trained-thugs-the-harsh-truth-behind-the-nations-north-south-divide/articleshow/122157541.cms",
          "pubDate" : "Mon, 30 Jun 2025 10:40:11",
          "title" : "'In North India, we're trained thugs': The harsh truth behind the nation's North-South divide"
-      },
-      {
-         "description" : "FIDE has announced the formation of a task force to evaluate anti-cheating methods proposed by GM Vladimir Kramnik, inviting him to present his approach for official review. However, FIDE has also expressed deep concern over the damaging tone of Kramnik's public statements, particularly their impact on GM David Navara, a respected figure with a long-standing fair play reputation. FIDE urges Kramnik to withdraw his defamation lawsuit against Navara in the interest of community cohesion and integrity.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-statement-kramnik-navara",
-         "pubDate" : "Mon, 30 Jun 2025 09:10:00",
-         "title" : "FIDE statement on the situation involving GM Kramnik and GM Navara"
       },
       {
          "description" : "The 2025 European Rapid and Blitz Chess Championships will take place from November 27th to December 1st at *****Hotel Emerald in Prishtina, Kosovo. European Rapid Chess Championship 2025 will be the first on the schedule, taking place on 28th and 29th of November. The Championship will be played according to the Swiss system, in11 rounds with the time control 15 minutes game + 10 seconds per move starting from the firstmove. The European Blitz Chess Championship 2025 will be played []",
