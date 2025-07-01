@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alexey Sarana triumphed in the 2025 Aktobe Open, held from June 22 to 30 in Kazakhstan, securing the title with 7 points. The tournament, named in memory of Vladimir Dvorkovich, saw a strong international field compete for a guaranteed prize fund of 78,000 USD. Sarana's consistent performance, including key victories in endgames, earned him the top spot, while five players tied for second place. | Foto: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aktobe-open-2025-final-report",
+         "pubDate" : "Tue, 01 Jul 2025 16:00:00",
+         "title" : "Alexey Sarana outright winner at strong Aktobe Open"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122180402.cms\" />Indian Chess grandmaster Rameshbabu Praggnanandhaa expressed his thoughts as he became the country's highest-ranked player, saying that he doesn't pay too much attention towards one or two ratings points as they can be changed at any time.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -26,12 +34,44 @@ news_feed (
          "title" : "Chess | 'He was treated badly' - Anish Giri defends Hans Nieman"
       },
       {
+         "description" : "The FIDE Ethics &#38;amp; Disciplinary Commission (EDC) has upheld the US Chess Federation&#39;s one-year suspension of GM Christopher Yoo, and extended it to a global level, barring him from all FIDE-rated events until November. In addition, the 18-year-...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-hands-christopher-yoo-worldwide-ban-following-assault-incident",
+         "pubDate" : "Tue, 01 Jul 2025 05:38:19",
+         "title" : "FIDE Hands Christopher Yoo Worldwide Ban Following Assault Incident"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122173170.cms\" />Anish Giri criticized Ian Nepomniachtchi and Hikaru Nakamura over their protest at the FIDE World Rapid and Blitz Teams event, questioning their sense of entitlement after arriving late and replaying games. Nepo and Nakamura fired back with sarcastic remarks, while Giri insisted he only reacts strongly to perceived injustice.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-they-have-so-much-bad-blood-anish-giri-takes-fresh-dig-at-hikaru-nakamura-ian-nepomniachtchi/articleshow/122173170.cms",
          "pubDate" : "Tue, 01 Jul 2025 04:29:32",
          "title" : "Chess | 'Bad blood' - Anish Giri takes fresh jibe at Nakamura and Nepo"
+      },
+      {
+         "description" : "The theme for this issue of Check is in the Mail is Reader's Games. Since I began editing this column, I have received games from readers. I felt the time was right to publish some of those games. Please note: If you have submitted one or more games and you don't see it/them present in this issue, reset assured, I still have your submissions. Upcoming issues will also contain reader's games. GamesGame 1 This game was played by Richard Aiken and Oswaldo Olivia using the E01: Catalan - Early deviations. From the 2023 Golden Knights, Section 23N06 tournament, this game ended in a draw after Aiken's 27th move.Game 2This game was played by Larry Cox and Allen Woollen using the B86: Sicilian Schev",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/check-mail-july-2025-readers-games",
+         "pubDate" : "Tue, 01 Jul 2025 00:00:00",
+         "title" : "Check is in the Mail, July 2025: Reader's Games!"
+      },
+      {
+         "description" : "This week's puzzles comes from the 2025 US Cadet Championship, where 14-year-old IM-elect Tani Adewumi repeated his 2024 feat of a 6/7 victory for clear first. Read our full report here and stay tuned for more puzzles from this event in tomorrow's Wednesday Workout. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-us-cadet-championship",
+         "pubDate" : "Tue, 01 Jul 2025 00:00:00",
+         "title" : "Tactics Tuesday: 2025 US Cadet Championship"
+      },
+      {
+         "description" : "Every year at the U.S. Open, the Delegates from each state have a chance to change our rulebook. Sometimes it is just a tweak or two (or three). Most of the new approved rules kick in on the first day of January (1-1-26) after their Delegate's August 2-3, 2025 meeting finishes.The changes we are interested in get listed on the now-published advanced agenda. Yes, there are also non-rulebook matters that don't concern us on that same agenda. But for the rules motions, the rules become almost-instant chess law if the Delegates vote them in with a super 85% approval rating. But, if those ideas only get high passing marks from the lawmakers, then they get shipped off to the Rules Committee for co",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-proposed-rule-changes",
+         "pubDate" : "Tue, 01 Jul 2025 00:00:00",
+         "title" : "Just the Rules: Proposed Rule Changes?"
       },
       {
          "description" : "Armenian grandmaster Tigran Nalbandian passed away in Yerevan on Saturday. In his youth, he was one of Armenia's greatest talents, later enjoying success as a professional player and then as a coach. For a while, he worked on Vladimir Kramnik's coaching team. He then went on to win several medals with the Armenian national team. Nalbandian was only 50 years old. | Photo: Armenian Chess Federation",
@@ -342,7 +382,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-chesscom-bughouse-championship-2025",
-         "pubDate" : "Wed, 25 Jun 2025 10:21:59",
+         "pubDate" : "Wed, 25 Jun 2025 10:21:00",
          "title" : "Call Your Chess Buddy And Join The Chess.com Bughouse Championship Starting July 7"
       },
       {
@@ -674,14 +714,6 @@ news_feed (
          "title" : "Niemann-Giri Rerematch 2025 - Games and Results"
       },
       {
-         "description" : "Grandmasters Rasmus Svane, Denis Lazavik, Pranesh M, and Martyn Kravtsiv advanced from the Swiss stage to the knockouts in the hopes of reaching the Freestyle Chess Grand Slam Las Vegas tournament. In tomorrow&#39;s knockout stage, they will be joined...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/svane-lazavik-pranesh-and-kravtsiv-qualify-for-vegas-knockout",
-         "pubDate" : "Wed, 18 Jun 2025 15:22:00",
-         "title" : "Svane, Lazavik, Pranesh And Kravtsiv Qualify For Vegas Knockout"
-      },
-      {
          "description" : "&#8212; from Owen Phillips The 17th IBCA Chess Olympiad for Blind and Visually Impaired Players starts on 17th June, in Vrnjacka Banja, Serbia, and with one game each afternoon concluding...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -706,28 +738,12 @@ news_feed (
          "title" : "Senior National Arbiter Seminar & Examination in Ahmednagar (Ahilya Nagar), Maharashtra on 12 & 13 July 2025."
       },
       {
-         "description" : "This week's puzzles all continue our series from the still-in-progress 2025 Cairns Cup (preview here, recap here). For more puzzles, also check out yesterday's Tactics Tuesday worksheet from this same event. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> All photos from round 7 courtesy of Lennart Ootes/SLCC, except photo of Yip at the board (courtesy of Crystal Fuller/SLCC)<br> <br> With two rounds to play, American IMs Carissa Yip and Alice ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-lee-and-yip-atop-cairns-standings-after-7-rounds",
-         "pubDate" : "Wed, 18 Jun 2025 00:00:00",
-         "title" : "Wednesday Workout: Lee and Yip atop Cairns Standings After 7 Rounds"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-7-recap/\">2025 Cairns Cup - Day 7 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-7-recap/",
          "pubDate" : "Tue, 17 Jun 2025 22:25:47",
          "title" : "2025 Cairns Cup - Day 7 Recap"
-      },
-      {
-         "description" : "This week's puzzles come from the first half of the 2025 Cairns Cup (recap here). Stay tuned next week for more highlights from this showcase of ten of the top female players in the world. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-cairns-cup-so-far",
-         "pubDate" : "Tue, 17 Jun 2025 00:00:00",
-         "title" : "Tactics Tuesday: Cairns Cup So Far"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-6-recap/\">2025 Cairns Cup - Day 6 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -760,14 +776,6 @@ news_feed (
          "link" : "https://aicf.in/live-game-links-aurionpro-international-grandmasters-chess-tournament-2025/",
          "pubDate" : "Mon, 16 Jun 2025 08:21:46",
          "title" : "Live Game Links : Aurionpro International Grandmasters Chess Tournament 2025"
-      },
-      {
-         "description" : "The battle of youth versus experience at this year's Cairns Cup is looking a bit drawish after five rounds of action at the Saint Louis Chess Club (SLCC). Three players entered the rest day as co-leaders with 3&frac12;/5 scores: Indian GMs Humpy Koneru (age 38), Harika Dronavalli (age 34), and American IM Alice Lee (age 15). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Alice Lee remains unbeaten halfway through her second Cairns Cup (Photo courtesy of Lennart Ootes/SLCC)<br> <br> <br> <br> Polish IM Alina Kashlinskaya (age 31) sits in clear fourth with 3/5, and American IM Carissa Yip (age 21) rounds out the top half as the only player with an even ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/lee-joins-veterans-atop-cairns-cup-standings-after-five-rounds",
-         "pubDate" : "Mon, 16 Jun 2025 00:00:00",
-         "title" : "Lee Joins Veterans Atop Cairns Cup Standings after Five Rounds"
       },
       {
          "description" : "In previous columns I have animadverted upon the exploits of alarmingly youthful players who are, nevertheless, making a definite mark on the international chess scene. The most recent manifestation of precocious and prodigious talent has been the shared second prize won by the 13-year-old Turkish Grandmaster Yagiz Kaan Erdogmus at the TePe Sigeman tournament in []",
@@ -872,22 +880,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
          "pubDate" : "Wed, 11 Jun 2025 14:07:27",
          "title" : "ECF Level 1 Arbiter Course - September 2025"
-      },
-      {
-         "description" : "The ECU E-Magazine May 2025 is out! In this edition of the ECU E-Magazine you may read about: ECU E-Magazine May 2025 can be read online together with interactive links on the following link or it can be downloaded in PDF format below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-may-2025/",
-         "pubDate" : "Tue, 10 Jun 2025 14:35:00",
-         "title" : "ECU E-Magazine May 2025"
-      },
-      {
-         "description" : "The ChessBase Premium Account is a powerful all-in-one chess improvement tool that provides extensive online resources, training, playing opportunities, and cloud services to help players of all levels enhance their game effectively. And the service runs on anything: Windows, Macs, notebooks, tablets, your mobile phone. Watch this video by Sagar Shah explaining the services you get and how to best use it. And best of all: it will only cost you €4.99 per month!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-whole-chess-world-is-yours",
-         "pubDate" : "Tue, 10 Jun 2025 12:08:55",
-         "title" : "The whole chess world is yours!"
       }
    ]
 }
