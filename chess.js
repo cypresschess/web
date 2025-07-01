@@ -18,6 +18,14 @@ news_feed (
          "title" : "Alexey Sarana outright winner at strong Aktobe Open"
       },
       {
+         "description" : "GM Praggnanandhaa Rameshbabu, on the way to winning the 2025 UzChess Cup, has gained 12 points to rise to world number-four and Indian number-one. At Norway Chess 2025 earlier in the month, GM Fabiano Caruana gained seven points to jump back to wo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/july-2025-fide-ratings",
+         "pubDate" : "Tue, 01 Jul 2025 13:28:00",
+         "title" : "July 2025 FIDE Ratings: Praggnanandhaa Climbs To World No. 4, Indian No. 1"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122180402.cms\" />Indian Chess grandmaster Rameshbabu Praggnanandhaa expressed his thoughts as he became the country's highest-ranked player, saying that he doesn't pay too much attention towards one or two ratings points as they can be changed at any time.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -34,14 +42,6 @@ news_feed (
          "title" : "Chess | 'He was treated badly' - Anish Giri defends Hans Nieman"
       },
       {
-         "description" : "Check out the FIDE rankings of the best chess players in the world.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45624957/fide-chess-rankings-july-2025-d-gukesh-r-praggnanandhaa-magnus-carlsen-koneru-humpy-r-vaishali-arjun-erigaisi?device=featurephone",
-         "pubDate" : "Tue, 1 Jul 2025 05:53:52",
-         "title" : "FIDE Chess rankings for July: R Praggnanandhaa becomes India no.1 in classical"
-      },
-      {
          "description" : "The FIDE Ethics &#38;amp; Disciplinary Commission (EDC) has upheld the US Chess Federation&#39;s one-year suspension of GM Christopher Yoo, and extended it to a global level, barring him from all FIDE-rated events until November. In addition, the 18-year-...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -56,6 +56,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-they-have-so-much-bad-blood-anish-giri-takes-fresh-dig-at-hikaru-nakamura-ian-nepomniachtchi/articleshow/122173170.cms",
          "pubDate" : "Tue, 01 Jul 2025 04:29:32",
          "title" : "Chess | 'Bad blood' - Anish Giri takes fresh jibe at Nakamura and Nepo"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Ruben Quintans (Photo courtesy of the subject)<br> <br> <br> <br> Ruben Quintans of Georgia became the youngest player to cross the 2000 US Chess rating threshold, becoming an expert on June 24 after a fine showing at the one-game-a-week Chess Zone Game of the Week was rated. That tournament bumped him to a live rating of 2010, piggy-backing off his 47-point jump earlier in June after tying for second in the Under-2100 section of the Charlotte Chess Center's Carolinas Classic.At the age of 7 years, 2 months, and 6 days (as of June 24), Quintans broke GM Abhimanyu Mishra's record from 2016 by well over fou",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/ruben-quintans-breaks-mishras-record-becomes-youngest-ever-us-chess-expert",
+         "pubDate" : "Tue, 01 Jul 2025 00:00:00",
+         "title" : "Ruben Quintans Breaks Mishra's Record, Becomes Youngest Ever US Chess Expert"
       },
       {
          "description" : "The theme for this issue of Check is in the Mail is Reader's Games. Since I began editing this column, I have received games from readers. I felt the time was right to publish some of those games. Please note: If you have submitted one or more games and you don't see it/them present in this issue, reset assured, I still have your submissions. Upcoming issues will also contain reader's games. GamesGame 1 This game was played by Richard Aiken and Oswaldo Olivia using the E01: Catalan - Early deviations. From the 2023 Golden Knights, Section 23N06 tournament, this game ended in a draw after Aiken's 27th move.Game 2This game was played by Larry Cox and Allen Woollen using the B86: Sicilian Schev",
@@ -656,22 +664,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-who-is-divya-deshmukh-indian-star-congratulated-by-pm-modi-after-win-over-world-no-1-hou-yifan/articleshow/121950310.cms",
          "pubDate" : "Thu, 19 Jun 2025 09:21:47",
          "title" : "Who is Divya? Indian star congratulated by PM Modi after win over world no. 1 Yifan"
-      },
-      {
-         "description" : "Round eight of the Cairns Cup 2025 has set up a dramatic final round. After putting up her fourth consecutive win, against GM-elect Bibisara Assaubayeva, IM Carissa Yip leads the event. She&#39;ll face her compatriot and friend, IM Alice Lee, in a bit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cairns-cup-2025-round-8",
-         "pubDate" : "Thu, 19 Jun 2025 00:04:00",
-         "title" : "Yip Leads Ahead Of Final Round Vs. Lee"
-      },
-      {
-         "description" : "Editor's note: This report will be updated with photos and any additional relevant information on Friday, June 20. The final round concluded earlier this afternoon. With a GM norm up for grabs in Asuncion, Paraguay, Americans swept the podium in the 2025 Under-20 Pan-American Chess Championship Open section. The race for gold came down to two 18-year-old New Yorkers, with IM Jason Liang winning a marathon game to clinch clear first with 7&frac12;/9, a half-point ahead of IM Nico Chasin (read more about direct titles and norms here).Rounding out the podium in clear third was Oregonian WGM Zoey Tang, who boasted a strong 6&frac12;/9 score and earned an IM norm for her efforts.While Tang could ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/americans-sweep-podium-2025-under-20-pan-american-open-championship",
-         "pubDate" : "Thu, 19 Jun 2025 00:00:00",
-         "title" : "Breaking: Americans Sweep Podium at 2025 Under-20 Pan-American Open Championship"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-8-recap/\">2025 Cairns Cup Day 8 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
