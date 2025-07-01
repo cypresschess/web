@@ -66,6 +66,14 @@ news_feed (
          "title" : "European Rapid and Blitz Chess Championship 2025 - Invitation"
       },
       {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Friday, July 4 in celebration of Independence Day, and will reopen for normal business operations on Monday, July 7.All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing, so please submit any TLAs or email blasts by noon CDT on Thursday, July 3, to ensure they will be approved before the office closure. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-offices-closed-friday-july-4",
+         "pubDate" : "Mon, 30 Jun 2025 00:00:00",
+         "title" : "US Chess Offices Closed Friday, July 4"
+      },
+      {
          "description" : "This past weekend, I had the privilege of representing US Chess at the US Squash Junior Championship Tour (JCT) competition in Philadelphia, PA. As the Director of Programs for US Chess, I'm always on the lookout for unique opportunities to bridge communities and bring chess to unexpected places - and this event did not disappoint. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Busted! Squash players have been known to sneak in a game of chess between matches. (Photo by DeVaughn Croxton)<br> <br> <br> <br> I had heard rumors that, between rounds, many of the kids at squash tournaments are glued to the chess apps on their phones and tablets. So, what w",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -272,14 +280,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/who-is-aarit-kapil-9-year-old-from-delhi-who-almost-beat-magnus-carlsen/articleshow/122082087.cms",
          "pubDate" : "Thu, 26 Jun 2025 04:25:32",
          "title" : "Who is Aarit Kapil, 9-year-old from Delhi, who almost beat Magnus Carlsen"
-      },
-      {
-         "description" : "He is one of the best-known commentators for international chess events. Maurice Ashley has covered high-profile events such as the Kasparov vs. Nigel Short World Championship (1993), Kasparov vs. Deep Blue matches (1996 and 1997), and Kasparov vs. X3D Fritz (2003). He has also commentated for the Grand Chess Tour, Sinquefield Cups, and US Chess Championships. Turns out he has other strengths. Read on to find out.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/maurice-ashley-lives-his-passion",
-         "pubDate" : "Wed, 25 Jun 2025 18:00:00",
-         "title" : "Maurice Ashley lives his passion"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122074469.cms\" />The All India Chess Federation (AICF) has launched the Top National Players Stipend Scheme (TNPSS), distributing over Rs 42 lakh to 42 top-ranked youth chess players across various age groups. This initiative, spearheaded by AICF President Nitin Narang, aims to provide financial assistance to promising young talents, supporting their training, travel, and participation in competitions.",
@@ -840,14 +840,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jun/13/chess-carlsen-stumbles-at-finish-but-wins-sixth-title-in-seven-years-at-stavanger",
          "pubDate" : "Fri, 13 Jun 2025 07:00:32",
          "title" : "Chess: Carlsen stumbles at finish but wins sixth title in seven years at Stavanger"
-      },
-      {
-         "description" : "Editor's note: This story first appeared in the June 2025 issue of Chess Life Kids magazine, and is re-published here in full. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. Click here for a printable download of this article.Online ... Or On Paper?Last year I started taking piano lessons. If you've played any musical instrument, you know that learning the names of notes - middle C, bass clef F, treble G - is not always easy. It definitely wasn't for me.So I asked my teacher whether she could recommend something ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/inside-story-how-study-tactics",
-         "pubDate" : "Fri, 13 Jun 2025 00:00:00",
-         "title" : "Inside Story: How to Study Tactics?"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-3-recap/\">2025 Cairns Cup Day 3 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
