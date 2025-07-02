@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122209960.cms\" />Magnus Carlsen and Gukesh Dommaraju's rivalry intensifies at the SuperUnited Rapid & Blitz in Zagreb, fueled by Carlsen's dismissive remarks about Gukesh's rapid and blitz capabilities. Carlsen, returning to Zagreb after missing last year due to his mother's passing, aims to dominate in his preferred formats against a world-class field including Gukesh, Praggnanandhaa, and Caruana.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-d-gukesh-hasnt-done-anything-to-do-well-magnus-carlsen-fires-fresh-shots-at-world-chess-champion/articleshow/122209960.cms",
+         "pubDate" : "Wed, 02 Jul 2025 16:16:37",
+         "title" : "'Gukesh hasn't done anything to do well': Carlsen fires fresh shots"
+      },
+      {
+         "description" : " Praggnanandhaa won the <a href=\"https://theweekinchess.com/chessnews/events/2nd-uzchess-cup-2025\">Uzchess Cup</a>, Masters in Tashkent that finished on June 27th and consolidated his lead in the 2025 FIDE Circuit (chessnumbers article on chess.com: <a href=\"https://www.chess.com/article/view/fide-circuit-june-update\"</a>can Praggnanandhaa be caught, spoiler, yes!), winning that has a first prize of a Candidates place. Praggnanandhaa had to beat the long time leader Nodirbek Abdusattorov with the black pieces in the final round. Praggnanandhaa emerged as winner only after two blitz tie-breaks against Abdusattorov and Javokhir Sindarov. The event will be likely remembered for Richard Rapport'",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/praggnanandhaa-wins-the-uzchess-cup-masters",
+         "pubDate" : "Wed, 2 Jul 2025 16:10:00",
+         "title" : "Praggnanandhaa wins the Uzchess Cup Masters - 1-9"
+      },
+      {
          "description" : "The third event of the 2025 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events, which is taking place on July 2-6 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are four out of the five highest-rated players in the world: Magnus Carlsen, Fabiano Caruana, Praggnanandhaa Rameshbabu and Gukesh Dommaraju. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -186,7 +202,7 @@ news_feed (
          "title" : "US Chess Offices Closed Friday, July 4"
       },
       {
-         "description" : "This past weekend, I had the privilege of representing US Chess at the US Squash Junior Championship Tour (JCT) competition in Philadelphia, PA. As the Director of Programs for US Chess, I'm always on the lookout for unique opportunities to bridge communities and bring chess to unexpected places - and this event did not disappoint. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The chess tables were a big hit with girls at the tournament, too! (Photo by DeVaughn Croxton)<br> <br> <br> <br> I had heard rumors that, between rounds, many of the kids at squash tournaments are glued to the chess apps on their phones and tablets. So, what would happen if I ",
+         "description" : "This past weekend, I had the privilege of representing US Chess at the US Squash Junior Championship Tour (JCT) competition in Philadelphia, PA. As the Director of Programs for US Chess, I'm always on the lookout for unique opportunities to bridge communities and bring chess to unexpected places - and this event did not disappoint. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> The chess tables drew attention from a wide range of competitors, proving once again that chess is for everybody. (Photos by DeVaughn Cr",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/us-chess-squash",
@@ -576,14 +592,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/carissa-yip-wins-the-cairns-cup",
          "pubDate" : "Sat, 21 Jun 2025 10:05:00",
          "title" : "Carissa Yip wins the Cairns Cup - 4-9"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121985150.cms\" />R Praggnanandhaa has surpassed D Gukesh in live FIDE rankings, reaching a rating of 2777.2 while competing in the UzChess Cup Masters. He is currently tied for the lead in the tournament after defeating Shamsiddin Vokhidov. Recently, India saw four players in the global top 10, including Aravindh Chithambaram, highlighting the country's growing dominance in chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/historic-r-praggnanandhaa-surpasses-world-champion-d-gukesh-in-world-chess-rankings-all-you-need-to-know/articleshow/121985150.cms",
-         "pubDate" : "Sat, 21 Jun 2025 01:34:09",
-         "title" : "Historic! Praggnanandhaa surpasses world champion Gukesh in world rankings"
       },
       {
          "description" : " American Underdogs Yip and Lee Defy Odds to Finish 1-2 Against World-Class Field SAINT LOUIS, June 20, 2025 In what may be one of the most dramatic chess upsets of the year, International Masters (IM) Carissa Yip and Alice Lee - the two youngest and lowest-rated players in the field - defied odds to finish [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/us-no-1-carissa-yip-captures-2025-cairns-cup-title-in-dazzling-comeback-victory-wins-65000/\">U.S. No. 1 Carissa Yip Captures 2025 Cairns Cup Title in Dazzling Comeback Victory, Wins $65,000</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
