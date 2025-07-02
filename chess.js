@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The strategic advantage of a good bishop vs. an inferior knight is determined by the pawn structure. Specifically, the bishop is superior to the knight when no pawns exist in the centre, but there are pawns on both flanks. International trainer GM Efstratios Grivas shows us how this kind of ending can best be handled, and does it with a game recently played in a top-level tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/stronger-minor-piece-ending",
+         "pubDate" : "Wed, 02 Jul 2025 09:00:00",
+         "title" : "Stronger Minor Piece Ending"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122195869.cms\" />Indian chess sensation R Praggnanandhaa has broken into the world's top-4, securing the India's number-one rank after his UzChess Cup victory. Magnus Carlsen remains world number one, while D Gukesh slipped to sixth. Fabiano Caruana climbed to third, and Anish Giri re-entered the top-10. In a historic shift, no Russian player is in the top-10.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-ratings-magnus-carlsen-still-reigns-praggnanandhaa-breaks-into-world-top-4/articleshow/122195869.cms",
+         "pubDate" : "Wed, 02 Jul 2025 04:12:08",
+         "title" : "FIDE Ratings: Magnus Carlsen still reigns; Praggnanandhaa breaks into World Top 4"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122195326.cms\" />A silent handshake between World Champion D Gukesh and Magnus Carlsen ignited anticipation for their upcoming clash at the Grand Chess Tour in Zagreb. This follows Gukesh's earlier classical win against Carlsen, fueling a generational rivalry. They will compete in rapid and blitz games, with Gukesh aiming to improve his speed chess skills.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-quiet-handshake-a-heavy-rivalry-carlsen-gukesh-reunion-sparks-buzz-ahead-of-zagreb-showdown-watch/articleshow/122195326.cms",
+         "pubDate" : "Wed, 02 Jul 2025 03:29:16",
+         "title" : "A quiet handshake: Carlsen, Gukesh spark buzz ahead of Zagreb showdown - Watch"
+      },
+      {
          "description" : "The Elo ratings were introduced by the World Chess Federation as the official system to rank players on 1 July 1971. Robert \"Bobby\" Fischer led the rankings by a huge margin a year before his memorable World Championship match. The rating formula was developed by mathematician and chess enthusiast Arpad Elo.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/1-july-1971-fide-introduces-elo-ratings",
          "pubDate" : "Tue, 01 Jul 2025 20:00:00",
          "title" : "1 July 1971: FIDE introduces Elo ratings"
-      },
-      {
-         "description" : "Alexey Sarana triumphed in the 2025 Aktobe Open, held from June 22 to 30 in Kazakhstan, securing the title with 7 points. The tournament, named in memory of Vladimir Dvorkovich, saw a strong international field compete for a guaranteed prize fund of 78,000 USD. Sarana's consistent performance, including key victories in endgames, earned him the top spot, while five players tied for second place. | Foto: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aktobe-open-2025-final-report",
-         "pubDate" : "Tue, 01 Jul 2025 16:00:00",
-         "title" : "Alexey Sarana outright winner at strong Aktobe Open"
       },
       {
          "description" : "GM Praggnanandhaa Rameshbabu, on the way to winning the 2025 UzChess Cup, has gained 12 points to rise to world number-four and Indian number-one. At Norway Chess 2025 earlier in the month, GM Fabiano Caruana gained seven points to jump back to wo...",
@@ -674,14 +690,6 @@ news_feed (
          "title" : "Magnus Carlsen Hits 2900 As Freestyle Chess Introduces New Ratings"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121950310.cms\" />Divya Deshmukh, an 18-year-old Indian chess prodigy, has gained global recognition after defeating World No. 1 Hou Yifan at the World Blitz Team Chess Championship in London. Prime Minister Narendra Modi lauded her victory, highlighting her determination and inspiration to aspiring chess players. Divya's success, along with her other achievements, underscores India's growing prominence in international chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-who-is-divya-deshmukh-indian-star-congratulated-by-pm-modi-after-win-over-world-no-1-hou-yifan/articleshow/121950310.cms",
-         "pubDate" : "Thu, 19 Jun 2025 09:21:47",
-         "title" : "Who is Divya? Indian star congratulated by PM Modi after win over world no. 1 Yifan"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-8-recap/\">2025 Cairns Cup Day 8 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/17th-ibca-chess-olympiad-for-blind-and-visually-impaired-players/",
          "pubDate" : "Wed, 18 Jun 2025 08:07:22",
          "title" : "17th IBCA Chess Olympiad for Blind and Visually Impaired Players - update 27/6/25"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121922464.cms\" />In a captivating encounter at the Delhi International GM Open Chess Tournament 2025, 80-year-old Rani Hamid, a Bangladeshi chess legend, faced 13-year-old prodigy Balaji Sudarshan. Despite a recent string of losses, Hamid's spirit remained undeterred. Sudarshan's skill led to Hamid's defeat, but the two engaged in a post-game analysis, transcending their age gap through their shared passion for chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-if-there-were-chess-tournaments-in-bangladesh-why-would-i-come-to-india-80-year-old-rani-hamid/articleshow/121922464.cms",
-         "pubDate" : "Wed, 18 Jun 2025 05:47:25",
-         "title" : "Exclusive | 'Why would I come to India if Bangladesh had chess tournaments?': 80-yo Rani Hamid"
       },
       {
          "description" : "On behalf of All India Chess Federation &#38;&#160;Maharashtra Chess Association ,the &#160;Ahmednagar District Chess Circle&#160;is organizing Senior National Arbiters Seminar &#38; Exam &#160;at Iris Premiere,",
