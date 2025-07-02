@@ -26,6 +26,14 @@ news_feed (
          "title" : "July 2025 FIDE Ratings: Praggnanandhaa Climbs To World No. 4, Indian No. 1"
       },
       {
+         "description" : "After a middling 2024, Pragg has rebounded in 2025 with three big titles that underline his Candidates bid.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45629931/new-year-new-pragg-how-change-mentality-pushed-praggnanandhaa-gukesh-india-new-number-1?device=featurephone",
+         "pubDate" : "Tue, 1 Jul 2025 10:30:00",
+         "title" : "New year, New Pragg: How a change in mentality pushed Praggnanandhaa past Gukesh as India's new no.1"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122180402.cms\" />Indian Chess grandmaster Rameshbabu Praggnanandhaa expressed his thoughts as he became the country's highest-ranked player, saying that he doesn't pay too much attention towards one or two ratings points as they can be changed at any time.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-he-was-treated-badly-based-on-speculation-anish-giri-defends-hans-nieman/articleshow/122177066.cms",
          "pubDate" : "Tue, 01 Jul 2025 07:35:53",
          "title" : "Chess | 'He was treated badly' - Anish Giri defends Hans Nieman"
+      },
+      {
+         "description" : "Check out the FIDE rankings of the best chess players in the world.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45624957/fide-chess-rankings-july-2025-d-gukesh-r-praggnanandhaa-magnus-carlsen-koneru-humpy-r-vaishali-arjun-erigaisi?device=featurephone",
+         "pubDate" : "Tue, 1 Jul 2025 05:50:00",
+         "title" : "FIDE Chess rankings for July: R Praggnanandhaa becomes India no.1 in classical"
       },
       {
          "description" : "The FIDE Ethics &#38;amp; Disciplinary Commission (EDC) has upheld the US Chess Federation&#39;s one-year suspension of GM Christopher Yoo, and extended it to a global level, barring him from all FIDE-rated events until November. In addition, the 18-year-...",
