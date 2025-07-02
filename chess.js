@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third event of the 2025 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events, which is taking place on July 2-6 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are four out of the five highest-rated players in the world: Magnus Carlsen, Fabiano Caruana, Praggnanandhaa Rameshbabu and Gukesh Dommaraju. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2025-live",
+         "pubDate" : "Wed, 02 Jul 2025 14:50:00",
+         "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122205566.cms\" />Indian Grandmaster Praggnanandhaa suggests top chess players like Carlsen and Nakamura are shifting away from classical chess due to its demanding preparation and mental fatigue. He highlights the extensive opening preparation required in classical games, contrasting it with the freedom of freestyle chess. Praggnanandhaa acknowledges his preference for faster formats but emphasizes classical chess remains fundamental.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-india-no-1-r-praggnanandhaa-makes-honest-admission-its-difficult-to-play-classical/articleshow/122205566.cms",
+         "pubDate" : "Wed, 02 Jul 2025 11:43:12",
+         "title" : "Praggnanandhaa makes honest admission: 'It's difficult to play classical'"
+      },
+      {
          "description" : "The strategic advantage of a good bishop vs. an inferior knight is determined by the pawn structure. Specifically, the bishop is superior to the knight when no pawns exist in the centre, but there are pawns on both flanks. International trainer GM Efstratios Grivas shows us how this kind of ending can best be handled, and does it with a game recently played in a top-level tournament.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/stronger-minor-piece-ending",
          "pubDate" : "Wed, 02 Jul 2025 09:00:00",
          "title" : "Stronger Minor Piece Ending"
+      },
+      {
+         "description" : "With summer now in full swing (in the northern hemisphere), the July 1 Titled Tuesday events were both heated competitions, each ending in a three-way tie. After tiebreaks, GM Pranav Venkatesh and GM Parham Maghsoodloo emerged as the victors. GM P...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pranav-maghsoodloo-win-titled-tuesday-july-1-2025",
+         "pubDate" : "Wed, 02 Jul 2025 08:18:48",
+         "title" : "Pranav Repeats, Maghsoodloo Topples Carlsen"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122195869.cms\" />Indian chess sensation R Praggnanandhaa has broken into the world's top-4, securing the India's number-one rank after his UzChess Cup victory. Magnus Carlsen remains world number one, while D Gukesh slipped to sixth. Fabiano Caruana climbed to third, and Anish Giri re-entered the top-10. In a historic shift, no Russian player is in the top-10.",
@@ -162,7 +186,7 @@ news_feed (
          "title" : "US Chess Offices Closed Friday, July 4"
       },
       {
-         "description" : "This past weekend, I had the privilege of representing US Chess at the US Squash Junior Championship Tour (JCT) competition in Philadelphia, PA. As the Director of Programs for US Chess, I'm always on the lookout for unique opportunities to bridge communities and bring chess to unexpected places - and this event did not disappoint. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Busted! Squash players have been known to sneak in a game of chess between matches. (Photo by DeVaughn Croxton)<br> <br> <br> <br> I had heard rumors that, between rounds, many of the kids at squash tournaments are glued to the chess apps on their phones and tablets. So, what w",
+         "description" : "This past weekend, I had the privilege of representing US Chess at the US Squash Junior Championship Tour (JCT) competition in Philadelphia, PA. As the Director of Programs for US Chess, I'm always on the lookout for unique opportunities to bridge communities and bring chess to unexpected places - and this event did not disappoint. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The chess tables were a big hit with girls at the tournament, too! (Photo by DeVaughn Croxton)<br> <br> <br> <br> I had heard rumors that, between rounds, many of the kids at squash tournaments are glued to the chess apps on their phones and tablets. So, what would happen if I ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/us-chess-squash",
@@ -634,14 +658,6 @@ news_feed (
          "title" : "How Magnus Carlsen's Table Slam Sparked A Viral Chess Explosion"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121969685.cms\" />Magnus Carlsen, the chess maestro, has shattered barriers by exceeding a 2900 rating in freestyle chess, a milestone previously unattained in classical chess. This achievement, based on Freestyle Chess organization ratings, marks a new high for Carlsen, surpassing his peak classical rating. Among Indian players, Praggnanandhaa shines at fourth place, followed by other notable players like Arjun Erigaisi and Gukesh.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-my-wife-is-way-more-attracted-to-me-now-magnus-carlsen-after-record-rating-in-freestyle/articleshow/121969685.cms",
-         "pubDate" : "Fri, 20 Jun 2025 07:33:48",
-         "title" : "Chess: 'My wife is way more attracted to me now' - Carlsen after record rating in freestyle"
-      },
-      {
          "description" : " The billionaire's team looked out for the count, but got a 2-4 defeat annulled on appeal, while an unknown 13-year-old beat the world No 2 in 112 moves WR Chess, the star-studded world top 10 team, retained their World Team Blitz crown in London last week, but only after an almighty scare and with significant help from the appeals committee. WR had already been beaten for the World Rapid title by MGD1, a Pune-based group led by India's Arjun Erigaisi. WR lost 2-4 to Germany in their Blitz quarter-final, but got the match annulled on the grounds that they had been advised of the wrong start time so had arrived two minutes late for a three-minute game. All the other teams arrived on time. <a ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/yu-niemann-fedoseev-lazavik-qualify-for-vegas-semifinals",
          "pubDate" : "Thu, 19 Jun 2025 20:32:00",
          "title" : "Niemann Defeats Ding To Join Yu, Fedoseev, Lazavik In Semifinals"
-      },
-      {
-         "description" : "GM Magnus Carlsen tops the first-ever Freestyle Chess rating list, hitting the 2900 barrier after dominating the chess variant in his latest events.&#38;nbsp; Already the world number-one in FIDE&#39;s official classical, rapid, and blitz ratings, the 3...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-hits-2900-as-new-freestyle-chess-ratings-are-published",
-         "pubDate" : "Thu, 19 Jun 2025 13:02:00",
-         "title" : "Magnus Carlsen Hits 2900 As Freestyle Chess Introduces New Ratings"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-8-recap/\">2025 Cairns Cup Day 8 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -864,14 +872,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-2-recap/",
          "pubDate" : "Wed, 11 Jun 2025 22:49:01",
          "title" : "2025 Cairns Cup - Day 2 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
-         "pubDate" : "Wed, 11 Jun 2025 14:07:27",
-         "title" : "ECF Level 1 Arbiter Course - September 2025"
       }
    ]
 }
