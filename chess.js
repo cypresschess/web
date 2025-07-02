@@ -18,6 +18,14 @@ news_feed (
          "title" : "Praggnanandhaa wins the Uzchess Cup Masters - 1-9"
       },
       {
+         "description" : "World Champion Gukesh Dommaraju and world number-one Magnus Carlsen will meet again on day two of the 2025 SuperUnited Croatia Rapid &#38;amp; Blitz after ending day one tied for the lead on 4/6 together with GMs Wesley So and Jan-Krzysztof Duda. Guke...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-superunited-croatia-rapid-blitz-day-1",
+         "pubDate" : "Wed, 02 Jul 2025 15:39:04",
+         "title" : "Carlsen, Gukesh, Duda, So Lead As Croatia Rapid & Blitz Begins"
+      },
+      {
          "description" : "The third event of the 2025 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events, which is taking place on July 2-6 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are four out of the five highest-rated players in the world: Magnus Carlsen, Fabiano Caruana, Praggnanandhaa Rameshbabu and Gukesh Dommaraju. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +72,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/a-quiet-handshake-a-heavy-rivalry-carlsen-gukesh-reunion-sparks-buzz-ahead-of-zagreb-showdown-watch/articleshow/122195326.cms",
          "pubDate" : "Wed, 02 Jul 2025 03:29:16",
          "title" : "A quiet handshake: Carlsen, Gukesh spark buzz ahead of Zagreb showdown - Watch"
+      },
+      {
+         "description" : "This week's puzzles comes from the 2025 US Cadet Championship, where 14-year-old IM-elect Tani Adewumi repeated his 2024 feat of a 6/7 victory for clear first. Read our full report here and check out yesterday's Tactics Tuesday for more puzzles from this event. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2025-us-cadet-championship",
+         "pubDate" : "Wed, 02 Jul 2025 00:00:00",
+         "title" : "Wednesday Workout: 2025 US Cadet Championship"
       },
       {
          "description" : "The Elo ratings were introduced by the World Chess Federation as the official system to rank players on 1 July 1971. Robert \"Bobby\" Fischer led the rankings by a huge margin a year before his memorable World Championship match. The rating formula was developed by mathematician and chess enthusiast Arpad Elo.",
@@ -682,28 +698,12 @@ news_feed (
          "title" : "Yip Wins Cairns Cup, Scores 2nd GM Norm"
       },
       {
-         "description" : "Just a few days ago, in this very publication, I suggested the battle between youth and experience at the 2025 Cairns Cup was looking a bit drawish. I didn't mean to suggest that the games themselves were uninteresting (anything but!) but only that the two camps seemed evenly matched, with young American IMs Alice Lee and Carissa Yip joined in the top half of the standings by veterans such as Indian GMs Humpy Koneru and Harika Dronavalli.Even before the last round began on Thursday at the Saint Louis Chess Club, youth had prevailed. Yip led Lee by a half-point in the standings. Lee was in clear second. And Yip was playing as White against Lee, meaning that both the winner and (most likely) t",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/carissa-yip-alice-lee-notch-remarkable-1-2-finish-atop-stacked-cairns-cup-cross-table",
-         "pubDate" : "Fri, 20 Jun 2025 00:00:00",
-         "title" : "Carissa Yip, Alice Lee Notch Remarkable 1-2 Finish Atop Stacked Cairns Cup Cross Table"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-9-recap/\">2025 Cairns Cup Day 9 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-9-recap/",
          "pubDate" : "Thu, 19 Jun 2025 23:16:23",
          "title" : "2025 Cairns Cup - Day 9 Recap"
-      },
-      {
-         "description" : "GMs Yu Yangyi, Hans Niemann, Vladimir Fedoseev, and Denis Lazavik are two steps closer to booking a spot at the Freestyle Chess Grand Slam Las Vegas tournament, having progressed to Friday&#39;s Play-In Semifinals. Niemann, who defeated former World...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/yu-niemann-fedoseev-lazavik-qualify-for-vegas-semifinals",
-         "pubDate" : "Thu, 19 Jun 2025 20:32:00",
-         "title" : "Niemann Defeats Ding To Join Yu, Fedoseev, Lazavik In Semifinals"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-8-recap/\">2025 Cairns Cup Day 8 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -872,14 +872,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-statistics-today",
          "pubDate" : "Thu, 12 Jun 2025 07:38:46",
          "title" : "Chess Statistics Today"
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-2-recap/\">2025 Cairns Cup Day 2 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-2-recap/",
-         "pubDate" : "Wed, 11 Jun 2025 22:49:01",
-         "title" : "2025 Cairns Cup - Day 2 Recap"
       }
    ]
 }
