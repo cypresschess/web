@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 104th Counties Championship Finals take place at four regional venues on Saturday 5 July at 1:30pm.&#160; Follow the results as they happen on the ECF LMS: https://lms.englishchess.org.uk/lms/season/1470/today More details...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/104th-counties-championship-finals/",
+         "pubDate" : "Thu, 03 Jul 2025 08:20:39",
+         "title" : "104th Counties Championship Finals"
+      },
+      {
+         "description" : "The UK Open Blitz Championship returns in 2025, featuring an expanded format with 16 qualifiers in 14 cities around the United Kingdom. Eldar Gasanov will be aiming for a hat-trick...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/uk-open-blitz-championship-2025/",
+         "pubDate" : "Thu, 03 Jul 2025 08:00:21",
+         "title" : "UK Open Blitz Championship 2025"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122221553.cms\" />Magnus Carlsen, after the first day of the SuperUnited Croatia Rapid & Blitz 2025, acknowledged Gukesh's improvement but stated he's yet to be truly impressed by the young Indian chess players. He praised Praggnanandhaa's recent classical tournament wins, highlighting his consistent performance.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -650,14 +666,6 @@ news_feed (
          "title" : "ECF National Schools' Chess Finals Week"
       },
       {
-         "description" : "The UK Open Blitz Championship returns in 2025, featuring an expanded format with 16 qualifiers in 14 cities around the United Kingdom. Eldar Gasanov will be aiming for a hat-trick...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/uk-open-blitz-championship-2025/",
-         "pubDate" : "Fri, 20 Jun 2025 15:00:21",
-         "title" : "UK Open Blitz Championship 2025"
-      },
-      {
          "description" : "&#160; &#160;",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -880,14 +888,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-3-recap/",
          "pubDate" : "Thu, 12 Jun 2025 21:42:21",
          "title" : "2025 Cairns Cup - Day 3 Recap"
-      },
-      {
-         "description" : "In our previous article on historical chess statistics we showed you the number of rated players there were in 1993, their ages, ratings, and where they came from. Today we compare them with the current FIDE statistics, showing how things have developed in the three decades that have passed. Our report also contains a little puzzle for you to mull over - why does the chess superpower China have so few rated players?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-statistics-today",
-         "pubDate" : "Thu, 12 Jun 2025 07:38:46",
-         "title" : "Chess Statistics Today"
       }
    ]
 }
