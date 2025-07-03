@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122233789.cms\" />D. Gukesh, the reigning world champion, delivered a stunning blow to World No. 1 Magnus Carlsen at the Grand Chess Tour SuperUnited Rapid in Zagreb. Gukesh's victory propelled him into the sole lead with 10 points, marking a significant moment as he secured his fifth consecutive win. Garry Kasparov noted that Gukesh's convincing win questions Carlsen's domination.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/superunited-rapid-2025-d-gukesh-stuns-world-no-1-magnus-carlsen-takes-2-point-lead-ahead-of-final-day/articleshow/122233789.cms",
+         "pubDate" : "Thu, 03 Jul 2025 17:50:44",
+         "title" : "SuperUnited Rapid 2025: D Gukesh stuns World No. 1 Magnus Carlsen"
+      },
+      {
+         "description" : " The Ashley Chess Fellows have been announced! Last November, we announced the Maurice Ashley Chess Fellowship, to provide Black chess talents with opportunities to reach new heights in the sport. Excellence in chess requires a significant amount of training, as well as resources. It is commonly stated and perhaps known that this is one hurdle The post <a href=\"https://thechessdrum.net/blog/2025/07/03/2025-ashley-chess-fellows-announced/\">2025 Ashley Chess Fellows announced!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/07/03/2025-ashley-chess-fellows-announced/",
+         "pubDate" : "Thu, 03 Jul 2025 16:48:08",
+         "title" : "2025 Ashley Chess Fellows announced!"
+      },
+      {
          "description" : "The European Youth Team Chess Championship 2025 is set to take place from 4th-12th July in Terme Catez, Slovenia. The event will be played in two age categories: U12 and U18, open and girls sections separately. Teams in Open competition consist of four + one reserve player, while teams in Girls sections consist of two + one reserve player. Each Championship is played in 7 rounds, swiss system, with the time control of 90 min. + 30 sec. increment for []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superunited-croatia-2025-live",
          "pubDate" : "Thu, 03 Jul 2025 14:45:00",
          "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
+      },
+      {
+         "description" : "Armenian chess is in mourning following the passing of GM Tigran Nalbandian, a beloved coach and player who played a central role in the rise of chess in his nation over the last two decades.&#38;nbsp; Nalbandian died of a heart attack last week in ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gm-tigran-nalbandian-passes-away-at-50",
+         "pubDate" : "Thu, 03 Jul 2025 11:01:58",
+         "title" : "GM Tigran Nalbandian (1975-2025)"
       },
       {
          "description" : "The 104th Counties Championship Finals take place at four regional venues on Saturday 5 July at 1:30pm.&#160; Follow the results as they happen on the ECF LMS: https://lms.englishchess.org.uk/lms/season/1470/today More details...",
@@ -474,14 +498,6 @@ news_feed (
          "title" : "Who is Aarit Kapil, 9-year-old from Delhi, who almost beat Magnus Carlsen"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122074469.cms\" />The All India Chess Federation (AICF) has launched the Top National Players Stipend Scheme (TNPSS), distributing over Rs 42 lakh to 42 top-ranked youth chess players across various age groups. This initiative, spearheaded by AICF President Nitin Narang, aims to provide financial assistance to promising young talents, supporting their training, travel, and participation in competitions.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/rs-42-3-lakh-disbursed-as-aicf-rolls-out-player-stipends-for-top-chess-talents-in-india/articleshow/122074469.cms",
-         "pubDate" : "Wed, 25 Jun 2025 16:14:04",
-         "title" : "Rs 42.3 lakh disbursed as AICF rolls out player stipends for top chess talents in India"
-      },
-      {
          "description" : " The Titled Tuesday Blitz 24th June saw wins for V Pranav in the early and Denis Lazavik in the late, both finishing on 10/11. In the early Pranav won his final round game against the leader Hans Moke Niemann, a four knights which proved to be a pretty convincing carve up. Magnus Carlsen was effectively out of the running after three rounds, in round 2 he was held to a draw by nine-year-old Indian player Aarit Kapil - in fact Carlsen was dead lost for most of the second half of the game (although out of the opening he had a large advantage). Carlsen then did lose in round 3, to 15 year-old Russian Maksim Ivannikov, Carlsen was winning, allowed his opponent back into the game who then proceed",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jun/20/star-studded-wr-chess-repeat-world-blitz-title-amid-controversy-in-london",
          "pubDate" : "Fri, 20 Jun 2025 07:00:29",
          "title" : "Star-studded WR Chess repeat World Blitz title amid controversy in London"
-      },
-      {
-         "description" : "IM Carissa Yip won the Cairns Cup 2025 on Thursday in St. Louis after drawing a dramatic final game with IM Alice Lee, who needed a win for a GM norm and tournament victory. A draw was enough for Yip to score her second GM norm instead, with a 261...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carissa-yip-wins-2025-cairns-cup",
-         "pubDate" : "Fri, 20 Jun 2025 04:27:00",
-         "title" : "Yip Wins Cairns Cup, Scores 2nd GM Norm"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-9-recap/\">2025 Cairns Cup Day 9 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
