@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Youth Team Chess Championship 2025 is set to take place from 4th-12th July in Terme Catez, Slovenia. The event will be played in two age categories: U12 and U18, open and girls sections separately. Teams in Open competition consist of four + one reserve player, while teams in Girls sections consist of two + one reserve player. Each Championship is played in 7 rounds, swiss system, with the time control of 90 min. + 30 sec. increment for []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2025-starts-in-slovenia/",
+         "pubDate" : "Thu, 03 Jul 2025 15:14:48",
+         "title" : "European Youth Team Chess Championship 2025 starts in Slovenia"
+      },
+      {
+         "description" : "The third event of the 2025 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events, which is taking place on July 2-6 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are four out of the five highest-rated players in the world: Magnus Carlsen, Fabiano Caruana, Praggnanandhaa Rameshbabu and Gukesh Dommaraju. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2025-live",
+         "pubDate" : "Thu, 03 Jul 2025 14:45:00",
+         "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
+      },
+      {
          "description" : "The 104th Counties Championship Finals take place at four regional venues on Saturday 5 July at 1:30pm.&#160; Follow the results as they happen on the ECF LMS: https://lms.englishchess.org.uk/lms/season/1470/today More details...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-superunited-croatia-rapid-blitz-day-1",
          "pubDate" : "Wed, 02 Jul 2025 15:39:00",
          "title" : "Carlsen, Gukesh, Duda, So Lead As Croatia Rapid & Blitz Begins"
-      },
-      {
-         "description" : "The third event of the 2025 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events, which is taking place on July 2-6 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are four out of the five highest-rated players in the world: Magnus Carlsen, Fabiano Caruana, Praggnanandhaa Rameshbabu and Gukesh Dommaraju. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2025-live",
-         "pubDate" : "Wed, 02 Jul 2025 14:50:00",
-         "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122205566.cms\" />Indian Grandmaster Praggnanandhaa suggests top chess players like Carlsen and Nakamura are shifting away from classical chess due to its demanding preparation and mental fatigue. He highlights the extensive opening preparation required in classical games, contrasting it with the freedom of freestyle chess. Praggnanandhaa acknowledges his preference for faster formats but emphasizes classical chess remains fundamental.",
@@ -194,12 +202,12 @@ news_feed (
          "title" : "Ruben Quintans Breaks Mishra's Record, Becomes Youngest Ever US Chess Expert"
       },
       {
-         "description" : "The theme for this issue of Check is in the Mail is Reader's Games. Since I began editing this column, I have received games from readers. I felt the time was right to publish some of those games. Please note: If you have submitted one or more games and you don't see it/them present in this issue, reset assured, I still have your submissions. Upcoming issues will also contain reader's games. GamesGame 1 This game was played by Richard Aiken and Oswaldo Olivia using the E01: Catalan - Early deviations. From the 2023 Golden Knights, Section 23N06 tournament, this game ended in a draw after Aiken's 27th move.Game 2This game was played by Larry Cox and Allen Woollen using the B86: Sicilian Schev",
+         "description" : "The theme for this issue of Check is in the Mail is Reader's Games. Since I began editing this column, I have received games from readers. I felt the time was right to publish some of those games. Please note: If you have submitted one or more games and you don't see it/them present in this issue, rest assured, I still have your submissions. Upcoming issues will also contain reader's games. GamesGame 1 This game was played by Richard Aiken and Oswaldo Olivia using the E01: Catalan - Early deviations. From the 2023 Golden Knights, Section 23N06 tournament, this game ended in a draw after Aiken's 27th move.Game 2This game was played by Larry Cox and Allen Woollen using the B86: Sicilian Scheve",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/check-mail-july-2025-readers-games",
          "pubDate" : "Tue, 01 Jul 2025 00:00:00",
-         "title" : "Check is in the Mail, July 2025: Reader's Games!"
+         "title" : "Check is in the Mail, July 2025: Readers' Games!"
       },
       {
          "description" : "This week's puzzles comes from the 2025 US Cadet Championship, where 14-year-old IM-elect Tani Adewumi repeated his 2024 feat of a 6/7 victory for clear first. Read our full report here and stay tuned for more puzzles from this event in tomorrow's Wednesday Workout. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -258,12 +266,12 @@ news_feed (
          "title" : "US Chess Offices Closed Friday, July 4"
       },
       {
-         "description" : "This past weekend, I had the privilege of representing US Chess at the US Squash Junior Championship Tour (JCT) competition in Philadelphia, PA. As the Director of Programs for US Chess, I'm always on the lookout for unique opportunities to bridge communities and bring chess to unexpected places - and this event did not disappoint. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> The chess tables drew attention from a wide range of competitors, proving once again that chess is for everybody. (Photos by DeVaughn Cr",
+         "description" : "This past weekend, I had the privilege of representing US Chess at US Squash's Super Junior Championship Tournament (JCT) in Philadelphia, PA. As the Director of Programs for US Chess, I'm always on the lookout for unique opportunities to bridge communities and bring chess to unexpected places - and this event did not disappoint. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> I had heard rumors that, between rounds, many of the kids at squash tournaments are glued to the chess apps on their phones and tablets. So, what would happen if I set up a table with a full array of boards, clocks, and magazines? <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <b",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/us-chess-squash",
          "pubDate" : "Mon, 30 Jun 2025 00:00:00",
-         "title" : "US Chess Serves Intrigue, Excitement at US Squash Super JCT"
+         "title" : "US Chess Serves Intrigue, Excitement at US Squash's Super JCT"
       },
       {
          "description" : " The Hans Moke Niemann against Santosh Vidit blitz match on Endgame.ai eventually took place 28th to 29th June 2025 after being announced for earlier in the week. Niemann won 12-6 on day 1 which was 3m+1spm blitz and 10.5-7.5 on day 2 which turned out to be Chess960 (in advance material there was no mention so I concluded it would be two days of standard blitz) and 3m+2spm blitz. On day one Niemann lost game 8 due to a mouse-slip and won on time in game 11 which he seemed to regard as payback. The downloadable PGN from the official site got a bit closer, the starting positions on day 2 for Chess960 were a real bonus, having the same players as white and black in every game meant half were wr",
