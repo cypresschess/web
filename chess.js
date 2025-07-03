@@ -34,11 +34,19 @@ news_feed (
          "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
       },
       {
+         "description" : "World Champion Gukesh Dommaraju has done it again, beating world number-one Magnus Carlsen from a losing position to take the sole lead in the 2025 SuperUnited Croatia Rapid &#38;amp; Blitz. &#34;Now we can question Magnus&#39; domination,&#34; said 13th World Ch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-superunited-croatia-rapid-blitz-day-2",
+         "pubDate" : "Thu, 03 Jul 2025 14:22:00",
+         "title" : "Gukesh Stuns Carlsen Again, Wins 5 In A Row"
+      },
+      {
          "description" : "Armenian chess is in mourning following the passing of GM Tigran Nalbandian, a beloved coach and player who played a central role in the rise of chess in his nation over the last two decades.&#38;nbsp; Nalbandian died of a heart attack last week in ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gm-tigran-nalbandian-passes-away-at-50",
-         "pubDate" : "Thu, 03 Jul 2025 11:01:58",
+         "pubDate" : "Thu, 03 Jul 2025 11:01:00",
          "title" : "GM Tigran Nalbandian (1975-2025)"
       },
       {
@@ -80,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-festival-2025-replacement",
          "pubDate" : "Thu, 03 Jul 2025 05:30:00",
          "title" : "Biel Chess Festival: Vladimir Fedoseev to replace Le Quang Liem"
+      },
+      {
+         "description" : "22 Americans participated across the six sections of the FIDE World Cadets Cup in Batumi, Georgia from June 23 through July 2. CM Chenxuan Ling won a silver medal in the Under-12 Open section, making him the only American medalist. CM Ethan Guo, also in the Under-12 Open section, came close, however, finishing fourth after taking his match for bronze all the way to sudden death blitz tie-breaks. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Chenxuan Ling (L) finished second behind Sameh Mohamed Abdalrahman. Russia's Bulgak Damir (R) won bronze over American CM Ethan Guo after a blitz playoff in their head-to-head match. (Photo courtesy of FIDE)<br> <",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/chenxuan-ling-wins-silver-fide-world-cadets-cup",
+         "pubDate" : "Thu, 03 Jul 2025 00:00:00",
+         "title" : "Chenxuan Ling Wins Silver at FIDE World Cadets Cup"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122209960.cms\" />Magnus Carlsen and Gukesh Dommaraju's rivalry intensifies at the SuperUnited Rapid & Blitz in Zagreb, fueled by Carlsen's dismissive remarks about Gukesh's rapid and blitz capabilities. Carlsen, returning to Zagreb after missing last year due to his mother's passing, aims to dominate in his preferred formats against a world-class field including Gukesh, Praggnanandhaa, and Caruana.",
@@ -626,14 +642,6 @@ news_feed (
          "title" : "Certificate : SNA held at Kandivali on 24 & 25 May 2025"
       },
       {
-         "description" : "Editor's note: This report will be updated in the upcoming days with photos from the tournament.FM Tanitoluwa Adewumi has repeated as the US Cadet Champion in Schaumburg, IL, winning the 2025 eight-player Round Robin with a round to spare. The annual US Cadet Championship pits the highest-rated American chess players under the age of 16 (as of the first of the year) against each other for the title of Cadet champion. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> This cover from the August 2024 issue of Chess Life Kids comes in handy once again!<br> <br> <br> <br> The 14-year-old New Yorker finished with an undefeated 6/7 score, a full point ahead of ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tani-captures-second-us-cadet-championship",
-         "pubDate" : "Mon, 23 Jun 2025 00:00:00",
-         "title" : "Tani Captures Second US Cadet Championship"
-      },
-      {
          "description" : " Hans Moke Niemann played Levon Aronian in an 18 game blitz match on Endgame.ai. Aronian won the final two games to win the match 9.5-8.5. I managed to retrieve the games from the server.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-freestyle-friday-june-20-2025",
          "pubDate" : "Fri, 20 Jun 2025 13:24:00",
          "title" : "Vachier-Lagrave, Carlsen Fight Freestyle Friday Down To The Wire"
-      },
-      {
-         "description" : "GM Magnus Carlsen created a viral hit when he slammed the table in rage following his loss against GM Gukesh Dommaraju.&#38;nbsp; The 2025 Norway Chess captured the world&#39;s attention on and off the board at a scale unlike any of the 12 previous edit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-table-slam-viral-chess-explosion",
-         "pubDate" : "Fri, 20 Jun 2025 08:58:00",
-         "title" : "How Magnus Carlsen's Table Slam Sparked A Viral Chess Explosion"
       },
       {
          "description" : " The billionaire's team looked out for the count, but got a 2-4 defeat annulled on appeal, while an unknown 13-year-old beat the world No 2 in 112 moves WR Chess, the star-studded world top 10 team, retained their World Team Blitz crown in London last week, but only after an almighty scare and with significant help from the appeals committee. WR had already been beaten for the World Rapid title by MGD1, a Pune-based group led by India's Arjun Erigaisi. WR lost 2-4 to Germany in their Blitz quarter-final, but got the match annulled on the grounds that they had been advised of the wrong start time so had arrived two minutes late for a three-minute game. All the other teams arrived on time. <a ",
@@ -896,14 +896,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jun/13/chess-carlsen-stumbles-at-finish-but-wins-sixth-title-in-seven-years-at-stavanger",
          "pubDate" : "Fri, 13 Jun 2025 07:00:32",
          "title" : "Chess: Carlsen stumbles at finish but wins sixth title in seven years at Stavanger"
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-3-recap/\">2025 Cairns Cup Day 3 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-3-recap/",
-         "pubDate" : "Thu, 12 Jun 2025 21:42:21",
-         "title" : "2025 Cairns Cup - Day 3 Recap"
       }
    ]
 }
