@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122221553.cms\" />Magnus Carlsen, after the first day of the SuperUnited Croatia Rapid & Blitz 2025, acknowledged Gukesh's improvement but stated he's yet to be truly impressed by the young Indian chess players. He praised Praggnanandhaa's recent classical tournament wins, highlighting his consistent performance.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-magnus-carlsen-takes-a-fresh-jibe-at-19-year-old-world-champion-d-gukesh-in-terms-of-impressing-me-/articleshow/122221553.cms",
+         "pubDate" : "Thu, 03 Jul 2025 06:55:23",
+         "title" : "Chess | Carlsen takes a fresh jibe at Gukesh - 'In terms of impressing me...'"
+      },
+      {
+         "description" : "India continued its dominance in the global chess arena by clinching 7 out of 18 possible medals at the World Cadet Chess Cup, held in",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/india-shines-at-fide-world-cadet-chess-cup-in-georgia-with-7-medals/",
+         "pubDate" : "Thu, 03 Jul 2025 05:47:13",
+         "title" : "India Shines at Fide World Cadet Chess Cup in Georgia with 7 Medals"
+      },
+      {
+         "description" : "The winner of the last three editions of the Masters tournament in the Biel Chess Festival, Le Quang Liem (photo), withdrew from the event for personal reasons. He will be replaced by Vladimir Fedoseev. Another tournament has been presented at the Chess Festival, a blitz event for players aged 20 years old or younger - with a new format.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2025-replacement",
+         "pubDate" : "Thu, 03 Jul 2025 05:30:00",
+         "title" : "Biel Chess Festival: Vladimir Fedoseev to replace Le Quang Liem"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122209960.cms\" />Magnus Carlsen and Gukesh Dommaraju's rivalry intensifies at the SuperUnited Rapid & Blitz in Zagreb, fueled by Carlsen's dismissive remarks about Gukesh's rapid and blitz capabilities. Carlsen, returning to Zagreb after missing last year due to his mother's passing, aims to dominate in his preferred formats against a world-class field including Gukesh, Praggnanandhaa, and Caruana.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -22,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-superunited-croatia-rapid-blitz-day-1",
-         "pubDate" : "Wed, 02 Jul 2025 15:39:04",
+         "pubDate" : "Wed, 02 Jul 2025 15:39:00",
          "title" : "Carlsen, Gukesh, Duda, So Lead As Croatia Rapid & Blitz Begins"
       },
       {
@@ -552,14 +576,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/06/23/josh-colas-biography-out/",
          "pubDate" : "Mon, 23 Jun 2025 13:26:48",
          "title" : "Josh Colas biography out!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122027720.cms\" />Magnus Carlsen expressed his disappointment over the Oklahoma City Thunder's NBA Finals victory against the Indiana Pacers, which coincided with his wife's birthday. The Thunder secured their first championship since 1979, led by Shai Gilgeous-Alexander's impressive performance. A significant blow to the Pacers came early in the game when Tyrese Haliburton suffered an Achilles injury.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/worst-way-to-world-no-1-magnus-carlsen-expresses-disappointment-over-oklahoma-city-thunders-nba-triumph/articleshow/122027720.cms",
-         "pubDate" : "Mon, 23 Jun 2025 13:24:44",
-         "title" : "'Worst way to ... ': Carlsen shares disappointment over Oklahoma's NBA triumph"
       },
       {
          "description" : "Please find the certificates here SL No Candidate Name 1 Ganesh Hadawle 2 Gajengi Rajababu 3 Rakhi Patil 4 Pramila Shivaji Hole 5 Janardhanan 6",
