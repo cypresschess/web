@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122233789.cms\" />D. Gukesh, the reigning world champion, delivered a stunning blow to World No. 1 Magnus Carlsen at the Grand Chess Tour SuperUnited Rapid in Zagreb. Gukesh's victory propelled him into the sole lead with 10 points, marking a significant moment as he secured his fifth consecutive win. Garry Kasparov noted that Gukesh's convincing win questions Carlsen's domination.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122233789.cms\" />D Gukesh, the reigning world champion, delivered a stunning blow to World No. 1 Magnus Carlsen at the Grand Chess Tour SuperUnited Rapid in Zagreb. Gukesh's victory propelled him into the sole lead with 10 points, marking a significant moment as he secured his fifth consecutive win. Garry Kasparov noted that Gukesh's convincing win questions Carlsen's domination.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/superunited-rapid-2025-d-gukesh-stuns-world-no-1-magnus-carlsen-takes-2-point-lead-ahead-of-final-day/articleshow/122233789.cms",
