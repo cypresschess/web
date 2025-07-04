@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 38th edition of the Leon Masters will be held from 4 to 6 July at the City of Leon Auditorium, following its traditional four-player knockout format with rapid time controls. As one of Spain's most prestigious chess events, it continues to attract top international talent. This year's lineup features former World Champion Vishy Anand, Vietnam's Le Quang Liem, local grandmaster Jaime Santos and the young Argentine prodigy Faustino Oro.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magistral-leon-2025-preview",
+         "pubDate" : "Fri, 04 Jul 2025 08:15:00",
+         "title" : "Le&oacute;n welcomes Anand, Oro, Le and Santos for 38th edition of Masters tournament"
+      },
+      {
+         "description" : " A poor outing from Ian Nepomniachtchi brought up an unlikely first but Serjey Karjakin made a strong comeback at Blitz last week It would have been inconceivable in the glory days of the Soviet chess empire. For the first time since 1971 when Fide, the world chess body, began publishing its rating lists - then annually and now monthly - there are no Russians ranked in the classical world top 10. Bobby Fischer was No 1 in the first Fide list, published on the eve of his Reykjavik match with Boris Spassky, but after Fischer gave up active play Anatoly Karpov and Garry Kasparov took over. In 1970, when the USSR team defeated the Rest of the World, or in the decades when Mikhail Botvinnik, Karp",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/jul/04/russians-absent-world-chess-top-10-first-time-since-official-lists-began-ian-nepomniachtchi",
+         "pubDate" : "Fri, 04 Jul 2025 07:01:11",
+         "title" : "Russians absent from world chess top 10 for first time since official lists began"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122243395.cms\" />Grandmaster Vidit Gujrathi defended his family members' professions after a social media user questioned their legitimacy as doctors on National Doctors' Day. The dispute arose when Gujrathi acknowledged his father, an ayurvedic specialist, mother, a cosmetologist, sister, a physiotherapist, and wife, a homeopathic doctor.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-no-time-for-noise-vidit-gujrathi-hits-out-at-liverdoc-for-insulting-doctor-parents-and-family/articleshow/122243395.cms",
+         "pubDate" : "Fri, 04 Jul 2025 06:58:32",
+         "title" : "'No time for noise': Vidit Gujrathi hits out at 'LiverDoc' for insulting doctor parents and family"
+      },
+      {
+         "description" : "Special Note: If a player has only&#160;one accompanying person, then he/she must pay for double sharing amount only. (Triple sharing basis not accepted for two",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-youth-chess-championships-2025-in-durres-albania-from-18th-september-to-1st-october-2025/",
+         "pubDate" : "Fri, 04 Jul 2025 05:51:49",
+         "title" : "FIDE World Youth Chess Championships - 2025 in Durres, Albania from 18th September to 1st October, 2025."
+      },
+      {
+         "description" : "The Asian Junior &#38; Girls Chess Championship 2025 was successfully held in Kalutara, Sri Lanka, from 27th June to 3rd July 2025. A strong Indian",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/india-shines-at-asian-junior-girls-chess-championship-2025-in-sri-lanka/",
+         "pubDate" : "Fri, 04 Jul 2025 04:21:22",
+         "title" : "India Shines at Asian Junior & Girls Chess Championship 2025 in Sri Lanka"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122239844.cms\" />D Gukesh continued his impressive form at the Super United Rapid and Blitz tournament in Zagreb by defeating Magnus Carlsen for the second consecutive time. Gukesh's victory, achieved with black pieces, marked his fifth straight win in the tournament, propelling him to the sole lead.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/hes-doing-incredibly-well-magnus-carlsen-after-losing-to-d-gukesh-garry-kasparov-questions-world-no-1s-domination/articleshow/122239844.cms",
+         "pubDate" : "Fri, 04 Jul 2025 03:49:21",
+         "title" : "'He's doing incredibly well': Carlsen after losing to Gukesh; Kasparov question's World No. 1's 'domination'"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122233789.cms\" />D Gukesh, the reigning world champion, delivered a stunning blow to World No. 1 Magnus Carlsen at the Grand Chess Tour SuperUnited Rapid in Zagreb. Gukesh's victory propelled him into the sole lead with 10 points, marking a significant moment as he secured his fifth consecutive win. Garry Kasparov noted that Gukesh's convincing win questions Carlsen's domination.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -506,14 +554,6 @@ news_feed (
          "title" : "Exclusive: No Magnus Carlsen in India! Freestyle Chess event called off over lack of sponsors"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122082087.cms\" />Nine-year-old Aarit Kapil from New Delhi achieved a remarkable draw against World No. 1 Magnus Carlsen in an online blitz game during the Early Titled Tuesday competition. Despite time constraints, the fifth standard student maintained a winning position against the five-time world champion.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/who-is-aarit-kapil-9-year-old-from-delhi-who-almost-beat-magnus-carlsen/articleshow/122082087.cms",
-         "pubDate" : "Thu, 26 Jun 2025 04:25:32",
-         "title" : "Who is Aarit Kapil, 9-year-old from Delhi, who almost beat Magnus Carlsen"
-      },
-      {
          "description" : " The Titled Tuesday Blitz 24th June saw wins for V Pranav in the early and Denis Lazavik in the late, both finishing on 10/11. In the early Pranav won his final round game against the leader Hans Moke Niemann, a four knights which proved to be a pretty convincing carve up. Magnus Carlsen was effectively out of the running after three rounds, in round 2 he was held to a draw by nine-year-old Indian player Aarit Kapil - in fact Carlsen was dead lost for most of the second half of the game (although out of the opening he had a large advantage). Carlsen then did lose in round 3, to 15 year-old Russian Maksim Ivannikov, Carlsen was winning, allowed his opponent back into the game who then proceed",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -552,14 +592,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/julien-song-bot",
          "pubDate" : "Wed, 25 Jun 2025 10:11:39",
          "title" : "Play Chess Against The New Julien Song Bot!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122067289.cms\" />Nine-year-old Aarit Kapil drew against world champion Magnus Carlsen in an online chess tournament, showcasing his impressive skills. While Aarit competed in Georgia, V Pranav secured first place in the 'Early Titled Tuesday' event. Carlsen also achieved a historic 2900 rating in freestyle chess, surpassing his previous classical peak and demonstrating his dominance in the chess world.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-magnus-carlsen-lost-to-9-year-old-indian-all-you-need-to-know/articleshow/122067289.cms",
-         "pubDate" : "Wed, 25 Jun 2025 09:35:20",
-         "title" : "Magnus Carlsen lost to 9-year-old Indian? All you need to know"
       },
       {
          "description" : "GM Pranav Venkatesh won the early June 24 edition of Titled Tuesday outright with 10 points, a half-point ahead of the winners of the previous two weeks,&#38;nbsp;GMs Hans Niemann and Magnus Carlsen. It was the 18-year-old&#39;s third Titled Tuesday win a...",
@@ -880,22 +912,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-10th-june-2025",
          "pubDate" : "Fri, 13 Jun 2025 10:39:00",
          "title" : "Titled Tuesday Blitz 10th June 2025 - Games and Results"
-      },
-      {
-         "description" : "As many as 50 candidates representing state of Gujarat, Maharashtra and Tamil Nadu attended the two days SNA Seminar cum Examination held on 24th &#38;25th",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-sna-seminar-and-exam-held-in-kandivali-west-mumbai-on-24-25-may-2025/",
-         "pubDate" : "Fri, 13 Jun 2025 07:18:55",
-         "title" : "Final report of SNA seminar and exam held in Kandivali West ,Mumbai on 24 & 25 May 2025"
-      },
-      {
-         "description" : " The world No 1 colourfully described his Norway experience and his desk fist-bang against Gukesh Dommaraju \"Winning by half a point after a lot of results go my way doesn't feel like a statement,\" was how Magnus Carlsen summed up the Stavanger ­tournament, where he finished just half a point ahead of Fabiano ­Caruana. The centrepiece of the event was his second game with India's world champion, Gukesh Dommaraju, in which Carlsen banged the table in frustrated rage when his winning position slipped away. Carlsen said that \"the Armageddon games were atrocious\" but pointed out that he had scored plus two in classical and claimed that he had played the best chess. He did, with the glaring excep",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/jun/13/chess-carlsen-stumbles-at-finish-but-wins-sixth-title-in-seven-years-at-stavanger",
-         "pubDate" : "Fri, 13 Jun 2025 07:00:32",
-         "title" : "Chess: Carlsen stumbles at finish but wins sixth title in seven years at Stavanger"
       }
    ]
 }
