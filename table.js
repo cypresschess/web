@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-07-03","9","<a href=http://www.uschess.org/msa/XtblMain.php?202507037752 target='_blank'>CHESS PARTY JULY 3, 2025</a>",
 "HOUSTON","2025-06-29","17","<a href=http://www.uschess.org/msa/XtblMain.php?202506295912 target='_blank'>BELLAIRE SUNDAY SWISS 06/29/2025</a>",
 "HOUSTON","2025-06-27  - 06-29","95","<a href=http://www.uschess.org/msa/XtblMain.php?202506295822 target='_blank'>TCR: HOUSTON CITY CHAMPIONSHIP 2025</a>",
 "HOUSTON","2025-06-28","105","<a href=http://www.uschess.org/msa/XtblMain.php?202506285032 target='_blank'>TCR: HOUSTON CITY SCHOLASTIC 2025</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-12-03  - 12-17","13","<a href=http://www.uschess.org/msa/XtblMain.php?202412178022 target='_blank'>DECEMBER 2024 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2024-12-14","63","<a href=http://www.uschess.org/msa/XtblMain.php?202412146592 target='_blank'>DEC 14TH - TROPHY SCHOLASTIC</a>",
 "HOUSTON","2024-12-14","10","<a href=http://www.uschess.org/msa/XtblMain.php?202412144872 target='_blank'>CHESSPANDA12142024SATURDAY</a>",
-"SPRING","2024-12-13","34","<a href=http://www.uschess.org/msa/XtblMain.php?202412134512 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
