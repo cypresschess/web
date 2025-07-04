@@ -10,12 +10,44 @@ news_feed (
          "title" : "FIDE Women's World Cup: Everything you need to know!"
       },
       {
+         "description" : " The 38th Leon Chess tournament takes place Fri 4th Jul to Sun 6th Jul 2025. Four game rapid matches followed by blitz tie-breaks if necessary. Viswanathan Anand beat youngster Faustino Oro but only after a tie-break. Le Quang Liem plays Jaime Santos Latasa in the second match with the final on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/38th-leon-chess-2025",
+         "pubDate" : "Fri, 4 Jul 2025 21:06:00",
+         "title" : "38th Leon Chess 2025 - Games and Results"
+      },
+      {
+         "description" : " The China YanCheng GM Match takes place Wed 2nd Jul to Sun 6th Jul 2025. Wei Yi plays Levon Aronian in four classical games followed by four rapid games on the final day.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/china-yancheng-gm-match-2025",
+         "pubDate" : "Fri, 4 Jul 2025 21:02:00",
+         "title" : "China YanCheng GM Match 2025 - Games and Results"
+      },
+      {
+         "description" : " The SuperUnited Croatia Rapid and Blitz takes place Wed 2nd Jul to Sun 6th Jul 2025. Players: Magnus, Carlsen, World Champion D Gukesh, Alireza Firouzja, Wesley So, Fabiano Caruana, Jan Krzysztof Duda, R Praggnanandhaa, Nodirbek Abdusattorov, Anish Giri and Ivan Saric. World Chess Champion Gukesh won the rapid portion of the event, he lost against Duda in the first round and then won five in a row with Magnus Carlsen being the last of these wins, he had two draws at the start of the final day before beating Wesley So. There is the blitz portion to come, the rapid games count double and the winner is the combination of the two.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superunited-croatia-rapid-and-blitz-2025",
+         "pubDate" : "Fri, 4 Jul 2025 20:58:00",
+         "title" : "SuperUnited Croatia Rapid and Blitz 2025 - Games and Results"
+      },
+      {
          "description" : "In this video course, Grandmaster David Navara teaches when deep calculation is truly necessary and when simple, solid moves are more effective. Through examples from top-level games, he explains how to recognize critical positions, avoid overcalculating, and use candidate moves and hidden tactics wisely. The course is designed to improve decision-making and efficiency, making it ideal for tournament players aiming to strengthen their practical skills.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/david-navara-your-calculation-compass-know-when-to-calculate",
          "pubDate" : "Fri, 04 Jul 2025 20:20:00",
          "title" : "David Navara: Your Calculation Compass: Know When to Calculate"
+      },
+      {
+         "description" : "World Champion Gukesh Dommaraju increased his lead over GM Jan-Krzysztof Duda to three points and kept a four-point gap to GM&#38;nbsp;Magnus Carlsen as he made two draws and scored a dominant win over GM Wesley So to score 14/18 in the rapid section ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-superunited-croatia-rapid-blitz-day-3",
+         "pubDate" : "Fri, 04 Jul 2025 16:18:09",
+         "title" : "Gukesh Takes 3-Point Lead Into Blitz Showdown"
       },
       {
          "description" : "The third event of the 2025 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events, which is taking place on July 2-6 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are four out of the five highest-rated players in the world: Magnus Carlsen, Fabiano Caruana, Praggnanandhaa Rameshbabu and Gukesh Dommaraju. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
@@ -160,6 +192,14 @@ news_feed (
          "link" : "https://new.uschess.org/news/chenxuan-ling-wins-silver-fide-world-cadets-cup",
          "pubDate" : "Thu, 03 Jul 2025 00:00:00",
          "title" : "Chenxuan Ling Wins Silver at FIDE World Cadets Cup"
+      },
+      {
+         "description" : " The Titled Tuesday Blitz 1st July 2025 events saw V Pranav win the early on tie-break from M Pranesh and Denis Lazavik after all scored 9.5/11 and in the late Parham Maghsoodloo won on tie-break from the youngster Yagiz Kaan Erdogmus and Nguyen Ngoc Truong Son.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-1st-july-2025",
+         "pubDate" : "Wed, 2 Jul 2025 20:23:00",
+         "title" : "Titled Tuesday Blitz 1st July 2025 - Games and Results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122209960.cms\" />Magnus Carlsen and Gukesh Dommaraju's rivalry intensifies at the SuperUnited Rapid & Blitz in Zagreb, fueled by Carlsen's dismissive remarks about Gukesh's rapid and blitz capabilities. Carlsen, returning to Zagreb after missing last year due to his mother's passing, aims to dominate in his preferred formats against a world-class field including Gukesh, Praggnanandhaa, and Caruana.",
@@ -762,14 +802,6 @@ news_feed (
          "title" : "Niemann Celebrates Birthday With Freestyle Ticket To Las Vegas"
       },
       {
-         "description" : "While several players were battling it out in a qualifier for the rights to play in Vegas at the Freestyle Chess Grand Slam Las Vegas, Freestyle Friday continued on with 229 participants. In what turned out to be an intense fight, two players scor...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-freestyle-friday-june-20-2025",
-         "pubDate" : "Fri, 20 Jun 2025 13:24:00",
-         "title" : "Vachier-Lagrave, Carlsen Fight Freestyle Friday Down To The Wire"
-      },
-      {
          "description" : " The billionaire's team looked out for the count, but got a 2-4 defeat annulled on appeal, while an unknown 13-year-old beat the world No 2 in 112 moves WR Chess, the star-studded world top 10 team, retained their World Team Blitz crown in London last week, but only after an almighty scare and with significant help from the appeals committee. WR had already been beaten for the World Rapid title by MGD1, a Pune-based group led by India's Arjun Erigaisi. WR lost 2-4 to Germany in their Blitz quarter-final, but got the match annulled on the grounds that they had been advised of the wrong start time so had arrived two minutes late for a three-minute game. All the other teams arrived on time. <a ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -896,14 +928,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/simplified-chess-thought-process-tips/",
          "pubDate" : "Sat, 14 Jun 2025 13:00:00",
          "title" : "Simplified Thought Process"
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-4-recap/\">2025 Cairns Cup Day 4 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-4-recap/",
-         "pubDate" : "Fri, 13 Jun 2025 22:32:33",
-         "title" : "2025 Cairns Cup - Day 4 Recap"
       }
    ]
 }
