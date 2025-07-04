@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 5 to 16 July, the 2025 FIDE Women's World Cup will take place in Batumi, Georgia, a country with a proud tradition of excellence in women's chess. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers a $691,250 prize fund and three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-preview",
+         "pubDate" : "Fri, 04 Jul 2025 21:20:00",
+         "title" : "FIDE Women's World Cup: Everything you need to know!"
+      },
+      {
+         "description" : "In this video course, Grandmaster David Navara teaches when deep calculation is truly necessary and when simple, solid moves are more effective. Through examples from top-level games, he explains how to recognize critical positions, avoid overcalculating, and use candidate moves and hidden tactics wisely. The course is designed to improve decision-making and efficiency, making it ideal for tournament players aiming to strengthen their practical skills.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/david-navara-your-calculation-compass-know-when-to-calculate",
+         "pubDate" : "Fri, 04 Jul 2025 20:20:00",
+         "title" : "David Navara: Your Calculation Compass: Know When to Calculate"
+      },
+      {
          "description" : "The third event of the 2025 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events, which is taking place on July 2-6 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are four out of the five highest-rated players in the world: Magnus Carlsen, Fabiano Caruana, Praggnanandhaa Rameshbabu and Gukesh Dommaraju. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -888,14 +904,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-4-recap/",
          "pubDate" : "Fri, 13 Jun 2025 22:32:33",
          "title" : "2025 Cairns Cup - Day 4 Recap"
-      },
-      {
-         "description" : " The 5th Cairns Cup takes place in Saint Louis Tue 10th Jun to Fri 20th Jun 2025. The early pace has been set by Alice Lee who started with wins against Nino Batsiashvili and Mariya Muzychuk before drawing against Nana Dzagnidze. Top seed is Tan Zhongyi and she started with a loss against Alina Kashlinskaya before drawing against second seed Humpy Koneru and then in form Bibisara Assaubayeva. Koneru, Alina Kashlinskaya and Harika Dronavalli share second place on 2/3. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/alice-lee-leads-the-cairns-cup-after-three-rounds",
-         "pubDate" : "Fri, 13 Jun 2025 18:10:00",
-         "title" : "Alice Lee leads the Cairns Cup after three rounds - 1-3"
       }
    ]
 }
