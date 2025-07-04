@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third event of the 2025 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events, which is taking place on July 2-6 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are four out of the five highest-rated players in the world: Magnus Carlsen, Fabiano Caruana, Praggnanandhaa Rameshbabu and Gukesh Dommaraju. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2025-live",
+         "pubDate" : "Fri, 04 Jul 2025 14:45:00",
+         "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
+      },
+      {
          "description" : "The 38th edition of the Leon Masters will be held from 4 to 6 July at the City of Leon Auditorium, following its traditional four-player knockout format with rapid time controls. As one of Spain's most prestigious chess events, it continues to attract top international talent. This year's lineup features former World Champion Vishy Anand, Vietnam's Le Quang Liem, local grandmaster Jaime Santos and the young Argentine prodigy Faustino Oro.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,14 +80,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-team-chess-championship-2025-starts-in-slovenia/",
          "pubDate" : "Thu, 03 Jul 2025 15:14:48",
          "title" : "European Youth Team Chess Championship 2025 starts in Slovenia"
-      },
-      {
-         "description" : "The third event of the 2025 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events, which is taking place on July 2-6 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are four out of the five highest-rated players in the world: Magnus Carlsen, Fabiano Caruana, Praggnanandhaa Rameshbabu and Gukesh Dommaraju. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2025-live",
-         "pubDate" : "Thu, 03 Jul 2025 14:45:00",
-         "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
       },
       {
          "description" : "World Champion Gukesh Dommaraju has done it again, beating world number-one Magnus Carlsen from a losing position to take the sole lead in the 2025 SuperUnited Croatia Rapid &#38;amp; Blitz. &#34;Now we can question Magnus&#39; domination,&#34; said 13th World Ch...",
