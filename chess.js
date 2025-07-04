@@ -31,7 +31,7 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/fide-world-youth-chess-championships-2025-in-durres-albania-from-18th-september-to-1st-october-2025/",
          "pubDate" : "Fri, 04 Jul 2025 05:51:49",
-         "title" : "FIDE World Youth Chess Championships - 2025 in Durres, Albania from 18th September to 1st October, 2025."
+         "title" : "FIDE World Youth Chess Championships - 2025 in Durres, Albania from 03-16 October, 2025."
       },
       {
          "description" : "The Asian Junior &#38; Girls Chess Championship 2025 was successfully held in Kalutara, Sri Lanka, from 27th June to 3rd July 2025. A strong Indian",
@@ -546,14 +546,6 @@ news_feed (
          "title" : "ESCC and Team Chess Challenges National Finals 2025"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122088395.cms\" />The Indian leg of the Freestyle Chess Grand Slam, scheduled for September in New Delhi, has been cancelled due to a lack of sponsors. This is a disappointment for fans hoping to see Magnus Carlsen compete in India. CEO Jan Henric Buettner confirmed the move and will step down in July. The next event is in Las Vegas this July.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-no-magnus-carlsen-in-india-freestyle-chess-event-called-off-over-lack-of-sponsors/articleshow/122088395.cms",
-         "pubDate" : "Thu, 26 Jun 2025 09:39:17",
-         "title" : "Exclusive: No Magnus Carlsen in India! Freestyle Chess event called off over lack of sponsors"
-      },
-      {
          "description" : " The Titled Tuesday Blitz 24th June saw wins for V Pranav in the early and Denis Lazavik in the late, both finishing on 10/11. In the early Pranav won his final round game against the leader Hans Moke Niemann, a four knights which proved to be a pretty convincing carve up. Magnus Carlsen was effectively out of the running after three rounds, in round 2 he was held to a draw by nine-year-old Indian player Aarit Kapil - in fact Carlsen was dead lost for most of the second half of the game (although out of the opening he had a large advantage). Carlsen then did lose in round 3, to 15 year-old Russian Maksim Ivannikov, Carlsen was winning, allowed his opponent back into the game who then proceed",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -904,14 +896,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/alice-lee-leads-the-cairns-cup-after-three-rounds",
          "pubDate" : "Fri, 13 Jun 2025 18:10:00",
          "title" : "Alice Lee leads the Cairns Cup after three rounds - 1-3"
-      },
-      {
-         "description" : " The Titled Tuesday Blitz 10th June events were won by Hans Moke Niemann and Magnus Carlsen. In the Early Niemann beat Carlsen and Nakamura in successive rounds (although neither game is a classic) to set up his win. Niemann finished on 10.5/11 with a final round draw against Klementy Sychev, Magnus Carlsen was clear second on 10 points. In the Late event Carlsen won with 10/11, his only loss coming to Hikaru Nakamura, however his win against Niemann in round 10 came from a game where he was completely busted for much of the time. Both game files are available for download but there seems little point to displaying the games from files of this size and this may create significant problems fo",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-10th-june-2025",
-         "pubDate" : "Fri, 13 Jun 2025 10:39:00",
-         "title" : "Titled Tuesday Blitz 10th June 2025 - Games and Results"
       }
    ]
 }
