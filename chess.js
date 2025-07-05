@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122260942.cms\" />D Gukesh triumphed in the SuperUnited Rapid & Blitz tournament's rapid section in Zagreb, highlighted by a victory against World No. 1 Magnus Carlsen. After an initial loss, Gukesh demonstrated resilience with five consecutive wins, securing his lead. He concluded the rapid section with a win against Wesley So and aims to maintain his form in the upcoming blitz format.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-d-gukesh-reveals-bet-with-cousin-if-he-beat-magnus-carlsen-leads-by-3-points-in-zagreb/articleshow/122260942.cms",
+         "pubDate" : "Sat, 05 Jul 2025 04:07:06",
+         "title" : "Chess | Gukesh reveals bet with cousin if he beat Carlsen; leads by 3 points in Zagreb"
+      },
+      {
          "description" : "Gukesh Dommaraju takes a three-point lead into the blitz section of the SuperUnited Rapid & Blitz Croatia tournament after an impressive performance in the rapid phase. The world champion scored 14/18 points, winning five games in a row after an early loss to Jan-Krzysztof Duda. Duda and Magnus Carlsen trail in second and third place respectively, as the players prepare for 18 blitz rounds to conclude the event over the weekend. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-freestyle-friday-june-27-2025",
          "pubDate" : "Fri, 27 Jun 2025 13:00:00",
          "title" : "Nakamura Completes Perfect Freestyle Friday For Fourth Title"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122111133.cms\" />World Champion D Gukesh will not be playing in the Las Vegas leg of the Freestyle Chess Grand Slam, citing exhaustion after Norway Chess. Vidit Gujrathi will replace him, donning Gukesh's red jacket. The $750,000 event runs July 16-20 at Wynn Las Vegas. Meanwhile, the India leg in September is cancelled, and Jan Henric Buettner will step down as CEO on July 1.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-d-gukesh-vs-magnus-carlsen-not-happening-in-las-vegas-freestyle-chess-reveals-why-world-champion-isnt-playing/articleshow/122111133.cms",
-         "pubDate" : "Fri, 27 Jun 2025 11:15:35",
-         "title" : "Exclusive: Gukesh vs Carlsen not happening in Vegas; why is world champion not playing?"
       },
       {
          "description" : "India&#39;s latest chess sensation, CM Aarit Kapil, is only nine years old. This week, he came within inches of defeating none other than world number-one GM Magnus Carlsen in Chess.com&#39;s Titled Tuesday. The game ended in a dramatic draw, but the perf...",
