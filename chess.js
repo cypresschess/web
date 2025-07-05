@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this video course, Grandmaster David Navara teaches when deep calculation is truly necessary and when simple, solid moves are more effective. Through examples from top-level games, he explains how to recognize critical positions, avoid overcalculating, and use candidate moves and hidden tactics wisely. The course is designed to improve decision-making and efficiency, making it ideal for tournament players aiming to strengthen their practical skills.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/david-navara-your-calculation-compass-know-when-to-calculate",
+         "pubDate" : "Sat, 05 Jul 2025 20:20:00",
+         "title" : "David Navara: Your Calculation Compass: Know When to Calculate"
+      },
+      {
          "description" : "The third event of the 2025 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events, which is taking place on July 2-6 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are four out of the five highest-rated players in the world: Magnus Carlsen, Fabiano Caruana, Praggnanandhaa Rameshbabu and Gukesh Dommaraju. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,6 +74,14 @@ news_feed (
          "title" : "SuperUnited Croatia: Gukesh takes commanding lead into blitz section"
       },
       {
+         "description" : "All you need to know as R Vaishali, Harikia Dronavalli and other Indians battle chess's best in the World Cup.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45673974/fide-womens-chess-world-cup-2025-preview-koneru-humpy-r-vaishali-harika-dronavalli-divya-deshmukh-indian-charge-107-strong-field-eye-candidates?device=featurephone",
+         "pubDate" : "Sat, 5 Jul 2025 02:00:00",
+         "title" : "FIDE Women's Chess World Cup 2025: Humpy leads Indian charge at 107-strong field with an eye on Candidates"
+      },
+      {
          "description" : "From 5 to 16 July, the 2025 FIDE Women's World Cup will take place in Batumi, Georgia, a country with a proud tradition of excellence in women's chess. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers a $691,250 prize fund and three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/superunited-croatia-rapid-and-blitz-2025",
          "pubDate" : "Fri, 4 Jul 2025 20:58:00",
          "title" : "SuperUnited Croatia Rapid and Blitz 2025 - Games and Results"
-      },
-      {
-         "description" : "In this video course, Grandmaster David Navara teaches when deep calculation is truly necessary and when simple, solid moves are more effective. Through examples from top-level games, he explains how to recognize critical positions, avoid overcalculating, and use candidate moves and hidden tactics wisely. The course is designed to improve decision-making and efficiency, making it ideal for tournament players aiming to strengthen their practical skills.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/david-navara-your-calculation-compass-know-when-to-calculate",
-         "pubDate" : "Fri, 04 Jul 2025 20:20:00",
-         "title" : "David Navara: Your Calculation Compass: Know When to Calculate"
       },
       {
          "description" : "World Champion Gukesh Dommaraju increased his lead over GM Jan-Krzysztof Duda to three points and kept a four-point gap to GM&#38;nbsp;Magnus Carlsen as he made two draws and scored a dominant win over GM Wesley So to score 14/18 in the rapid section ...",
