@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third event of the 2025 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events, which is taking place on July 2-6 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are four out of the five highest-rated players in the world: Magnus Carlsen, Fabiano Caruana, Praggnanandhaa Rameshbabu and Gukesh Dommaraju. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2025-live",
+         "pubDate" : "Sat, 05 Jul 2025 14:45:00",
+         "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
+      },
+      {
+         "description" : "The list of things I feel I should, or have to do, is endless. Even though I am self-employed (and clearly very privileged) and have a lot of flexibility on paper, the have-tos and should's make me feel caged. Like I'm running on a treadmil all day long. I'm sure you know that feeling. You []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/mindset-shift/",
+         "pubDate" : "Sat, 05 Jul 2025 13:00:00",
+         "title" : "The Simple Mindset Shift to Enjoy Chess Study Again"
+      },
+      {
+         "description" : "All India Chess Federation is pleased to announced the eleven FIDE Trainer Seminars as per the appended schedule and it's a great opportunity for the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-trainer-seminar-2025-26/",
+         "pubDate" : "Sat, 05 Jul 2025 12:17:52",
+         "title" : "FIDE TRAINER SEMINAR 2025-26"
+      },
+      {
+         "description" : "I am grateful to Alexei Zakharov, a vital contributor to the recent outstanding opening salvo in the Elk and Ruby tetralogy on Alexander Alekhine, for drawing my attention to the great world champion's virtually unknown obituary on the sadly premature death of Aron Nimzowitsch, the grandmaster and theoretician who was born in Riga (now Latvia, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/alekhines-tribute-to-nimzowitsch/",
+         "pubDate" : "Sat, 05 Jul 2025 11:47:25",
+         "title" : "Alekhine's tribute to Nimzowitsch"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122267219.cms\" />D Gukesh modestly responded to Garry Kasparov's high praise after defeating Magnus Carlsen at the SuperUnited Rapid and Blitz Croatia in Zagreb. Kasparov also questioned Carlsen's dominance following the game.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-d-gukesh-plays-down-garry-kasparovs-praise-after-beating-magnus-carlsen-one-game-at-a-time/articleshow/122267219.cms",
+         "pubDate" : "Sat, 05 Jul 2025 11:28:50",
+         "title" : "Gukesh plays down Kasparov's praise after beating Carlsen: 'One game at a time'"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122265696.cms\" />D Gukesh's stellar performance at the Super United Rapid and Blitz tournament in Zagreb, marked by six wins, propelled him into the limelight. Despite Gukesh's impressive showing, FIDE CEO Emil Sutovsky cautioned against prematurely crowning him the world's best rapid player. Sutovsky acknowledged Gukesh's exceptional performance places him among the elite, emphasizing consistent results define true greatness.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -506,14 +546,6 @@ news_feed (
          "title" : "'Totally pointless': Dutch no. 1 Giri reacts after Pragg becomes world no. 1 junior player"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122128649.cms\" />In a public plea, Armenian chess grandmaster Levon Aronian has urged Vladimir Kramnik, a former World Champion, to reconcile amidst a defamation lawsuit. Aronian's letter, shared on social media, expresses deep respect for Kramnik, acknowledging his significant influence. This follows Kramnik's lawsuit against Chessdom, GM David Navara, and others, stemming from disputes over alleged online cheating.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/dear-vladimir-kramnik-forgive-me-levon-aronian-writes-after-chess-grandmaster-files-defamation-lawsuit/articleshow/122128649.cms",
-         "pubDate" : "Sat, 28 Jun 2025 10:17:34",
-         "title" : "'Dear Vladimir Kramnik, forgive me ...': Aronian writes after chess GM files defamation lawsuit"
-      },
-      {
          "description" : "The 2025 European Women's Rapid &#38; Blitz Chess Championship will take place from 8th-12th January 2026 in Monte-Carlo, Monaco. The Championship is open to all players representing Chess Federations which are ECU members regardless of their title and rating. There is no limit to the number of participants per federation. Registration starts after 1st August 2025, and applications must be sent to the Tournament Director, Jean Michel Rapaire by mail:&#160;cemc@libello.com.&#160;Registration deadline is December 19th, 2025. The first event on the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -912,22 +944,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-5-recap/",
          "pubDate" : "Sat, 14 Jun 2025 22:58:22",
          "title" : "2025 Cairns Cup - Day 5 Recap"
-      },
-      {
-         "description" : " The 21st Delhi Open took place Sat 7th to Sat 14th Jun 2025. Abhijeet Gupta won with on 8.5/10 half a point clear of Mihail Nikitenko and Ghosh Aronyak.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/21st-delhi-open-2025",
-         "pubDate" : "Sat, 14 Jun 2025 13:40:00",
-         "title" : "21st Delhi Open 2025 - Games and Results"
-      },
-      {
-         "description" : "What should we think about when we play a game? This is a question all chess players try to figure out. Some coaches have shared their thoughts on it. GM Iossif Dorman's The Method in Chess (sadly out of print, thus kinda expensive) remains one of my favorite books ever written on chess. The problem? []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/simplified-chess-thought-process-tips/",
-         "pubDate" : "Sat, 14 Jun 2025 13:00:00",
-         "title" : "Simplified Thought Process"
       }
    ]
 }
