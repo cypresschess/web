@@ -10,6 +10,14 @@ news_feed (
          "title" : "David Navara: Your Calculation Compass: Know When to Calculate"
       },
       {
+         "description" : "GM Magnus Carlsen started day four of the 2025 SuperUnited Croatia Rapid &#38;amp; Blitz trailing World Champion Gukesh Dommaraju by four points but ended the day two points ahead after scoring 7.5/9 while Gukesh crashed to 1.5/9. GM Jan-Krzysztof Dud...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-superunited-croatia-rapid-blitz-day-4",
+         "pubDate" : "Sat, 05 Jul 2025 15:28:17",
+         "title" : "Carlsen Storms Into Lead As Gukesh Suffers"
+      },
+      {
          "description" : "The third event of the 2025 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events, which is taking place on July 2-6 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are four out of the five highest-rated players in the world: Magnus Carlsen, Fabiano Caruana, Praggnanandhaa Rameshbabu and Gukesh Dommaraju. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -778,14 +786,6 @@ news_feed (
          "title" : "Hans Moke Niemann vs Levon Aronian Blitz Match 2025 - Games and Results"
       },
       {
-         "description" : "A dramatic showdown between GM Alireza Firouzja and GM Hikaru Nakamura during Saturday&#39;s Bullet Brawl&#38;nbsp;culminated in Firouzja edging out Nakamura on tiebreaks, marking the first time in history that first has been decided this way. Firouzja ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alireza-firouzja-wins-bullet-brawl-june-21-2025",
-         "pubDate" : "Sat, 21 Jun 2025 18:26:00",
-         "title" : "Tiebreaks Favor Firouzja In Photo Finish With Nakamura"
-      },
-      {
          "description" : "What does Mozart's Die Zauberfl&ouml;te (\"The Magic Flute&#8221;) have in common with chess? The opera tells the story of Prince Tamino, who is rescued from a serpent by three ladies allied to the Queen of the Night. Tamino is instantly entranced by a portrait of Her Nocturnal Majesty's daughter, Pamina. With the help of the magic flute and bells, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -944,14 +944,6 @@ news_feed (
          "link" : "https://www.thearticle.com/erdogmatism-young-turk-in-chess/",
          "pubDate" : "Sun, 15 Jun 2025 13:24:27",
          "title" : "Erdogmatism: young Turk in chess"
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-5-recap/\">2025 Cairns Cup - Day 5 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-5-recap/",
-         "pubDate" : "Sat, 14 Jun 2025 22:58:22",
-         "title" : "2025 Cairns Cup - Day 5 Recap"
       }
    ]
 }
