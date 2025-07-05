@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Gukesh Dommaraju takes a three-point lead into the blitz section of the SuperUnited Rapid & Blitz Croatia tournament after an impressive performance in the rapid phase. The world champion scored 14/18 points, winning five games in a row after an early loss to Jan-Krzysztof Duda. Duda and Magnus Carlsen trail in second and third place respectively, as the players prepare for 18 blitz rounds to conclude the event over the weekend. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2025-3",
+         "pubDate" : "Sat, 05 Jul 2025 02:35:00",
+         "title" : "SuperUnited Croatia: Gukesh takes commanding lead into blitz section"
+      },
+      {
          "description" : "From 5 to 16 July, the 2025 FIDE Women's World Cup will take place in Batumi, Georgia, a country with a proud tradition of excellence in women's chess. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers a $691,250 prize fund and three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -46,16 +54,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-superunited-croatia-rapid-blitz-day-3",
-         "pubDate" : "Fri, 04 Jul 2025 16:18:09",
+         "pubDate" : "Fri, 04 Jul 2025 16:30:00",
          "title" : "Gukesh Takes 3-Point Lead Into Blitz Showdown"
       },
       {
-         "description" : "The third event of the 2025 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events, which is taking place on July 2-6 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are four out of the five highest-rated players in the world: Magnus Carlsen, Fabiano Caruana, Praggnanandhaa Rameshbabu and Gukesh Dommaraju. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2025-live",
-         "pubDate" : "Fri, 04 Jul 2025 14:45:00",
-         "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
+         "description" : "GM Hikaru Nakamura became the first player to win five Freestyle Fridays on July 4 after scoring an undefeated 10/11, following his first perfect run in last week&#39;s edition. Nakamura has now gone 29 games without a loss in Freestyle Fridays, with ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-freestyle-friday-july-4-2025",
+         "pubDate" : "Fri, 04 Jul 2025 16:29:00",
+         "title" : "Nakamura Conquers Arjun In 10 Moves, Becomes First Player To Win 5 Freestyle Fridays"
       },
       {
          "description" : "The 38th edition of the Leon Masters will be held from 4 to 6 July at the City of Leon Auditorium, following its traditional four-player knockout format with rapid time controls. As one of Spain's most prestigious chess events, it continues to attract top international talent. This year's lineup features former World Champion Vishy Anand, Vietnam's Le Quang Liem, local grandmaster Jaime Santos and the young Argentine prodigy Faustino Oro.",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://www.britishchesschampionships.co.uk/#new_tab",
          "pubDate" : "Fri, 20 Jun 2025 14:00:46",
          "title" : "British Chess Championships 2025 - entries open"
-      },
-      {
-         "description" : "GM Hans Niemann celebrated his birthday by winning two matches to qualify for the Las Vegas Freestyle Grand Slam next month. After winning two rounds yesterday, Niemann survived two more difficult matches against GMs Yu Yangyi and Denis Lazavik to...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/niemann-advances-to-the-las-vegas-freestyle-grand-slam",
-         "pubDate" : "Fri, 20 Jun 2025 13:51:00",
-         "title" : "Niemann Celebrates Birthday With Freestyle Ticket To Las Vegas"
       },
       {
          "description" : " The billionaire's team looked out for the count, but got a 2-4 defeat annulled on appeal, while an unknown 13-year-old beat the world No 2 in 112 moves WR Chess, the star-studded world top 10 team, retained their World Team Blitz crown in London last week, but only after an almighty scare and with significant help from the appeals committee. WR had already been beaten for the World Rapid title by MGD1, a Pune-based group led by India's Arjun Erigaisi. WR lost 2-4 to Germany in their Blitz quarter-final, but got the match annulled on the grounds that they had been advised of the wrong start time so had arrived two minutes late for a three-minute game. All the other teams arrived on time. <a ",
