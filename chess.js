@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122265696.cms\" />D Gukesh's stellar performance at the Super United Rapid and Blitz tournament in Zagreb, marked by six wins, propelled him into the limelight. Despite Gukesh's impressive showing, FIDE CEO Emil Sutovsky cautioned against prematurely crowning him the world's best rapid player. Sutovsky acknowledged Gukesh's exceptional performance places him among the elite, emphasizing consistent results define true greatness.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-amazing-performances-dont-mean-gukesh-became-worlds-best-rapid-player-overnight-fide-ceo-emil-sutovsky/articleshow/122265696.cms",
+         "pubDate" : "Sat, 05 Jul 2025 10:12:30",
+         "title" : "'Amazing results don't make Gukesh world's best rapid player overnight': FIDE CEO"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122260942.cms\" />D Gukesh triumphed in the SuperUnited Rapid & Blitz tournament's rapid section in Zagreb, highlighted by a victory against World No. 1 Magnus Carlsen. After an initial loss, Gukesh demonstrated resilience with five consecutive wins, securing his lead. He concluded the rapid section with a win against Wesley So and aims to maintain his form in the upcoming blitz format.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -536,14 +544,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/can-you-play-pawn-endings-2",
          "pubDate" : "Fri, 27 Jun 2025 16:06:21",
          "title" : "Can you play pawn endings?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122115539.cms\" />Rameshbabu Praggnanandhaa has ascended to India's No. 1 chess player, securing the UzChess Cup Masters title by defeating Nodirbek Abdusattorov. This victory propelled his live rating to 2778.3, ranking him World No. 4 and surpassing World Chess Champion D Gukesh in live classical ratings. This triumph signifies a generational shift in Indian chess, marking Praggnanandhaa's arrival as the nation's new chess leader.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/historic-r-praggnanandhaa-clinches-uzchess-cup-masters-title-becomes-india-no-1/articleshow/122115539.cms",
-         "pubDate" : "Fri, 27 Jun 2025 14:15:46",
-         "title" : "Historic! Praggnanandhaa clinches UzChess Cup Masters title, becomes India no.1"
       },
       {
          "description" : "Defending Champion GM Alireza Firouzja continues to dominate the 2025 Bullet Chess Championship. He&#39;s won every match by 10 points or more, and his latest victim was GM Daniel Naroditsky, whom he defeated 22.5-10.5. There are three players in the ...",
