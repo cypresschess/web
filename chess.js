@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122275592.cms\" />Garry Kasparov believes Gukesh's rapid win against Magnus Carlsen had a significant psychological impact, affecting his blitz performance at the SuperUnited Rapid & Blitz tournament. Kasparov observed Gukesh's games were feeble in the blitz section, suggesting he might not be ready for the faster format. Carlsen, however, recovered strongly in the blitz after a poor rapid showing.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-i-feel-pity-garry-kasparov-asserts-gukesh-not-ready-for-blitz/articleshow/122275592.cms",
+         "pubDate" : "Sun, 06 Jul 2025 03:31:59",
+         "title" : "Chess | 'I feel pity' - Garry Kasparov asserts Gukesh not ready for Blitz"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122275142.cms\" />After a stellar performance in the Rapid event, Dommaraju Gukesh experienced a significant setback on the first day of the Blitz competition at the SuperUnited Rapid and Blitz Chess Tournament in Zagreb. He only managed 1.5 points, losing seven games. Magnus Carlsen surged ahead, leading the standings, while R Praggnanandhaa had a mixed day, slipping to fifth overall.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -536,14 +544,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/drama-fide-slams-vladimir-kramniks-defamation-lawsuit-against-david-navara-brings-a-lot-of-harm-to-chess-community/articleshow/122143534.cms",
          "pubDate" : "Sun, 29 Jun 2025 13:51:23",
          "title" : "Drama! FIDE slams Kramnik's defamation lawsuit: 'Brings a lot of harm to chess'"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122138344.cms\" />Magnus Carlsen's Team Liquid welcomes the young Indian chess prodigy, R Praggnanandhaa, ahead of the Esports World Cup in Riyadh. Praggnanandhaa joins other Indian players in the esports arena, while Carlsen and other grandmasters have already secured their spots. Praggnanandhaa will compete in the Last Chance Qualifiers for a chance to participate in the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-whole-lot-of-letters-magnus-carlsen-welcomes-praggnanandhaa-to-team-liquid/articleshow/122138344.cms",
-         "pubDate" : "Sun, 29 Jun 2025 03:38:15",
-         "title" : "Chess: 'Whole lot of letters...' - Carlsen welcomes Praggnanandhaa "
       },
       {
          "description" : "GM Hikaru Nakamura cruised to victory in Saturday&#39;s Bullet Brawl, posting a score of 184 to finish 40 points ahead of IM Renato Terry and two more ahead of GM Eric Hansen. The win, which earned Nakamura $400, increased his career titles to 42, eig...",
