@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Women's World Cup got underway at the Grand Bellagio Batumi Convention & Casino Hotel, where 86 players contested the first game of round one. While most favourites scored early wins, several matches remain finely balanced ahead of game two. A few surprises included resilient draws by lower-rated players against elite opposition. The day began with a ceremonial first move by FIDE President Arkady Dvorkovich and Georgian Federation President Akaki Iashvili. | Photos: Anna Shtourman, Andrei Anosov / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-r1g1",
+         "pubDate" : "Sun, 06 Jul 2025 23:35:00",
+         "title" : "Women's World Cup: Most favourites start with wins"
+      },
+      {
+         "description" : " The China YanCheng GM Match took place Wed 2nd Jul to Sun 6th Jul 2025. Wei Yi played Levon Aronian in four classical games followed by four rapid games on the final day. Wei Yi won the match, the classical games counted double the rapid games. Wei Yi won the classical 2.5-1.5 and after winning the first two rapid games he had already secured the match and the remaining two were not played.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/china-yancheng-gm-match-2025",
+         "pubDate" : "Sun, 6 Jul 2025 21:46:00",
+         "title" : "China YanCheng GM Match 2025 - Games and Results"
+      },
+      {
+         "description" : " The 38th Leon Chess tournament took place Fri 4th Jul to Sun 6th Jul 2025. Four game rapid matches followed by blitz tie-breaks if necessary. Viswanathan Anand beat youngster Faustino Oro but only after a tie-break. Le Quang Liem beat Jaime Santos Latasa in the second semifinal and then beat Anand 3-1 in the final.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/38th-leon-chess-2025",
+         "pubDate" : "Sun, 6 Jul 2025 21:44:00",
+         "title" : "38th Leon Chess 2025 - Games and Results"
+      },
+      {
          "description" : " The SuperUnited Croatia Rapid and Blitz took place Wed 2nd Jul to Sun 6th Jul 2025. Players: Magnus, Carlsen, World Champion D Gukesh, Alireza Firouzja, Wesley So, Fabiano Caruana, Jan Krzysztof Duda, R Praggnanandhaa, Nodirbek Abdusattorov, Anish Giri and Ivan Saric. World Chess Champion Gukesh won the rapid portion of the event, he lost against Duda in the first round and then won five in a row with Magnus Carlsen being the last of these wins, he had two draws at the start of the final day before beating Wesley So. In the blitz Magnus Carlsen dominated and Gukesh finished last struggling throughout. The final results were produce by doubling the rapid total and adding that to the blitz to",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -18,20 +42,28 @@ news_feed (
          "title" : "Under one minute! Gukesh, Carlsen's ultra-short clash wows chess world - Watch"
       },
       {
+         "description" : "GM Magnus Carlsen struggled on the final day but still won the 2025 SuperUnited Croatia Rapid &#38;amp; Blitz with a round to spare and a 2.5-point margin. GM Wesley So took second place after winning a crazy game against GM Fabiano Caruana in the fin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-2025-superunited-croatia-rapid-blitz",
+         "pubDate" : "Sun, 06 Jul 2025 14:30:22",
+         "title" : "\"B-Game\" Enough As Magnus Carlsen Wins Croatia Rapid & Blitz"
+      },
+      {
+         "description" : "The first day of the 2025 FIDE Women&#39;s World Cup wasn&#39;t the star-studded affair that it should have been, as the top 21 seeds received a bye to proceed directly to the second round. So, it was a low-key start for the event with 107 participants fr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-day-1",
+         "pubDate" : "Sun, 06 Jul 2025 14:06:00",
+         "title" : "Jumpy Start For Favorites At FIDE Women's World Cup"
+      },
+      {
          "description" : "The third event of the 2025 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events, which is taking place on July 2-6 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are four out of the five highest-rated players in the world: Magnus Carlsen, Fabiano Caruana, Praggnanandhaa Rameshbabu and Gukesh Dommaraju. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superunited-croatia-2025-live",
          "pubDate" : "Sun, 06 Jul 2025 14:00:00",
          "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
-         "pubDate" : "Sun, 06 Jul 2025 12:50:00",
-         "title" : "Women's World Cup - Live!"
       },
       {
          "description" : "Magnus Carlsen took the lead at the SuperUnited Rapid & Blitz Croatia tournament after scoring 7&frac12;/9 on the first day of blitz. Gukesh Dommaraju, who had led by three points after the rapid section, managed just 1&frac12; points and fell to third place. Jan-Krzysztof Duda is now in second with 16 points, while Wesley So had the second-best blitz score of the day. The final nine rounds of blitz will be played on Sunday, as the action kicks off one hour earlier than usual. | Photo: Lennart Ootes",
@@ -152,22 +184,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45673974/fide-womens-chess-world-cup-2025-preview-koneru-humpy-r-vaishali-harika-dronavalli-divya-deshmukh-indian-charge-107-strong-field-eye-candidates?device=featurephone",
          "pubDate" : "Sat, 5 Jul 2025 02:00:00",
          "title" : "FIDE Women's Chess World Cup 2025: Humpy leads Indian charge at 107-strong field with an eye on Candidates"
-      },
-      {
-         "description" : " The 38th Leon Chess tournament takes place Fri 4th Jul to Sun 6th Jul 2025. Four game rapid matches followed by blitz tie-breaks if necessary. Viswanathan Anand beat youngster Faustino Oro but only after a tie-break. Le Quang Liem plays Jaime Santos Latasa in the second match with the final on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/38th-leon-chess-2025",
-         "pubDate" : "Fri, 4 Jul 2025 21:06:00",
-         "title" : "38th Leon Chess 2025 - Games and Results"
-      },
-      {
-         "description" : " The China YanCheng GM Match takes place Wed 2nd Jul to Sun 6th Jul 2025. Wei Yi plays Levon Aronian in four classical games followed by four rapid games on the final day.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/china-yancheng-gm-match-2025",
-         "pubDate" : "Fri, 4 Jul 2025 21:02:00",
-         "title" : "China YanCheng GM Match 2025 - Games and Results"
       },
       {
          "description" : "World Champion Gukesh Dommaraju increased his lead over GM Jan-Krzysztof Duda to three points and kept a four-point gap to GM&#38;nbsp;Magnus Carlsen as he made two draws and scored a dominant win over GM Wesley So to score 14/18 in the rapid section ...",
@@ -706,14 +722,6 @@ news_feed (
          "title" : "Youth Prevails As Pranav, Lazavik Win Titled Tuesday"
       },
       {
-         "description" : "The complete field for the $750,000 Freestyle Chess Grand Slam Las Vegas (July 16-20) has been revealed, with most of the world&#39;s elite competing for the $200,000 first price. The event also sees the surprise inclusion of GM-elect Bibisara Assauba...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/assaubayeva-surprise-freestyle-chess-las-vegas-invite",
-         "pubDate" : "Wed, 25 Jun 2025 06:57:00",
-         "title" : "Assaubayeva Given Surprise Freestyle Chess Ticket To Join World Stars In Las Vegas"
-      },
-      {
          "description" : "Today's exercises come from the 2025 Under-20 Pan-American Championship, which concluded last Thursday in Paraguay. Read our full report here, and find more puzzles in yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-chess-championships-festival/",
          "pubDate" : "Tue, 24 Jun 2025 17:30:54",
          "title" : "British Chess Championships Festival"
-      },
-      {
-         "description" : "Nineteen-year-old Belgian GM Daniel Dardha is reported to have set a new world record after playing a 50-board clock simul this month, pending official approval. The young grandmaster scored 40 wins, drew seven games, and had only three losses i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-dardha-sets-new-simul-record",
-         "pubDate" : "Tue, 24 Jun 2025 08:27:00",
-         "title" : "Daniel Dardha Breaks World Record With 50-Board Clock Simul"
       },
       {
          "description" : "Today's exercises come from the 2025 Under-20 Pan-American Championship, which concluded last Thursday in Paraguay. Read our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
