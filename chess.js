@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122281678.cms\" />In a swift encounter at the Super United Rapid and Blitz Chess Tournament, D Gukesh and Magnus Carlsen played to a quick 14-move draw. This tactical pause came after Gukesh's struggles in the blitz section, contrasting with Carlsen's dominant performance. Carlsen is now in a strong position to secure another title, highlighting the contrasting trajectories of the two chess giants.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/under-one-minute-d-gukesh-magnus-carlsens-ultra-short-clash-wows-chess-world-watch/articleshow/122281678.cms",
+         "pubDate" : "Sun, 06 Jul 2025 14:58:08",
+         "title" : "Under one minute! Gukesh, Carlsen's ultra-short clash wows chess world - Watch"
+      },
+      {
+         "description" : "The third event of the 2025 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events, which is taking place on July 2-6 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are four out of the five highest-rated players in the world: Magnus Carlsen, Fabiano Caruana, Praggnanandhaa Rameshbabu and Gukesh Dommaraju. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2025-live",
+         "pubDate" : "Sun, 06 Jul 2025 14:00:00",
+         "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -514,14 +530,6 @@ news_feed (
          "title" : "Pragg breaks silence on Carlsen's table slam: 'Is it a good thing? Maybe not'"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122143534.cms\" />The International Chess Federation (FIDE) has intervened in the dispute between Vladimir Kramnik and David Navara. FIDE expresses concern over the impact of Kramnik's accusations. It supports Navara and asks Kramnik to withdraw his defamation lawsuit. Levon Aronian has also appealed to Kramnik for reconciliation. FIDE emphasizes fairness and unity within the chess community.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/drama-fide-slams-vladimir-kramniks-defamation-lawsuit-against-david-navara-brings-a-lot-of-harm-to-chess-community/articleshow/122143534.cms",
-         "pubDate" : "Sun, 29 Jun 2025 13:51:23",
-         "title" : "Drama! FIDE slams Kramnik's defamation lawsuit: 'Brings a lot of harm to chess'"
-      },
-      {
          "description" : "GM Hikaru Nakamura cruised to victory in Saturday&#39;s Bullet Brawl, posting a score of 184 to finish 40 points ahead of IM Renato Terry and two more ahead of GM Eric Hansen. The win, which earned Nakamura $400, increased his career titles to 42, eig...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://aicf.in/live-game-links-aurionpro-international-grandmasters-chess-tournament-2025/",
          "pubDate" : "Mon, 16 Jun 2025 08:21:46",
          "title" : "Live Game Links : Aurionpro International Grandmasters Chess Tournament 2025"
-      },
-      {
-         "description" : "In previous columns I have animadverted upon the exploits of alarmingly youthful players who are, nevertheless, making a definite mark on the international chess scene. The most recent manifestation of precocious and prodigious talent has been the shared second prize won by the 13-year-old Turkish Grandmaster Yagiz Kaan Erdogmus at the TePe Sigeman tournament in []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/erdogmatism-young-turk-in-chess/",
-         "pubDate" : "Sun, 15 Jun 2025 13:24:27",
-         "title" : "Erdogmatism: young Turk in chess"
       }
    ]
 }
