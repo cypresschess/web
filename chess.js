@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The SuperUnited Croatia Rapid and Blitz took place Wed 2nd Jul to Sun 6th Jul 2025. Players: Magnus, Carlsen, World Champion D Gukesh, Alireza Firouzja, Wesley So, Fabiano Caruana, Jan Krzysztof Duda, R Praggnanandhaa, Nodirbek Abdusattorov, Anish Giri and Ivan Saric. World Chess Champion Gukesh won the rapid portion of the event, he lost against Duda in the first round and then won five in a row with Magnus Carlsen being the last of these wins, he had two draws at the start of the final day before beating Wesley So. In the blitz Magnus Carlsen dominated and Gukesh finished last struggling throughout. The final results were produce by doubling the rapid total and adding that to the blitz to",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superunited-croatia-rapid-and-blitz-2025",
+         "pubDate" : "Sun, 6 Jul 2025 18:38:00",
+         "title" : "SuperUnited Croatia Rapid and Blitz 2025 - Games and Results"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122281678.cms\" />In a swift encounter at the Super United Rapid and Blitz Chess Tournament, D Gukesh and Magnus Carlsen played to a quick 14-move draw. This tactical pause came after Gukesh's struggles in the blitz section, contrasting with Carlsen's dominant performance. Carlsen is now in a strong position to secure another title, highlighting the contrasting trajectories of the two chess giants.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-21-maximum-training-effect-with-the-power-tool-replay-training-part-1",
          "pubDate" : "Sun, 06 Jul 2025 09:30:00",
          "title" : "ChessBase 18 - Tips for beginners, part 21: Maximum Training Effect with the Power Tool \"Replay Training\" (Part 1)"
+      },
+      {
+         "description" : "Nine-year-old CM Ashwath Kaushik from Singapore has added another milestone to his young chess career by sensationally scoring his first international master (IM) norm at the 10th Marina Viva Porticcio Open in Corsica, France. Ashwath is just the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/9-year-old-ashwath-kaushik-scores-first-im-norm",
+         "pubDate" : "Sun, 06 Jul 2025 09:04:00",
+         "title" : "9-Year-Old Ashwath Kaushik Sensationally Scores First IM Norm In France"
       },
       {
          "description" : "The European Youth Team Chess Championship 2025 commenced yesterday in Terme Catez, Slovenia! The Opening ceremony of the event took place shortly before the start of the first round with the attendance of the Deputy Mayor of Brezice Mojca Florjanic, ECU President Zurab Azmaiparashvili, ECU Vice-President Alojzije Jankovic, Vice-President of the Slovenian Chess Federation Mirko Bandelj, Secretary General of the Slovenian Chess Federation Nina Rob, ECU Tournament Director Petr Pisk, FIDE Secretary General Lukasz Turlej and other distinguished guests. Vice-President []",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/china-yancheng-gm-match-2025",
          "pubDate" : "Fri, 4 Jul 2025 21:02:00",
          "title" : "China YanCheng GM Match 2025 - Games and Results"
-      },
-      {
-         "description" : " The SuperUnited Croatia Rapid and Blitz takes place Wed 2nd Jul to Sun 6th Jul 2025. Players: Magnus, Carlsen, World Champion D Gukesh, Alireza Firouzja, Wesley So, Fabiano Caruana, Jan Krzysztof Duda, R Praggnanandhaa, Nodirbek Abdusattorov, Anish Giri and Ivan Saric. World Chess Champion Gukesh won the rapid portion of the event, he lost against Duda in the first round and then won five in a row with Magnus Carlsen being the last of these wins, he had two draws at the start of the final day before beating Wesley So. There is the blitz portion to come, the rapid games count double and the winner is the combination of the two.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superunited-croatia-rapid-and-blitz-2025",
-         "pubDate" : "Fri, 4 Jul 2025 20:58:00",
-         "title" : "SuperUnited Croatia Rapid and Blitz 2025 - Games and Results"
       },
       {
          "description" : "World Champion Gukesh Dommaraju increased his lead over GM Jan-Krzysztof Duda to three points and kept a four-point gap to GM&#38;nbsp;Magnus Carlsen as he made two draws and scored a dominant win over GM Wesley So to score 14/18 in the rapid section ...",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/daniel-dardha-sets-new-simul-record",
          "pubDate" : "Tue, 24 Jun 2025 08:27:00",
          "title" : "Daniel Dardha Breaks World Record With 50-Board Clock Simul"
-      },
-      {
-         "description" : "We&#39;re excited to announce the fourth Summer season of the Collegiate Chess League (CCL) presented by Susquehanna, one of the world&#39;s leading quantitative trading firms. In this edition, college students will battle it out in bullet and team ches...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-collegiate-chess-league-summer-2025",
-         "pubDate" : "Tue, 24 Jun 2025 08:00:00",
-         "title" : "Registrations For The Collegiate Chess League Summer 2025 Season Are Now Open"
       },
       {
          "description" : "Today's exercises come from the 2025 Under-20 Pan-American Championship, which concluded last Thursday in Paraguay. Read our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
