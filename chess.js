@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122275142.cms\" />After a stellar performance in the Rapid event, Dommaraju Gukesh experienced a significant setback on the first day of the Blitz competition at the SuperUnited Rapid and Blitz Chess Tournament in Zagreb. He only managed 1.5 points, losing seven games. Magnus Carlsen surged ahead, leading the standings, while R Praggnanandhaa had a mixed day, slipping to fifth overall.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-shocking-magnus-carlsen-takes-another-swipe-at-world-champion-gukesh/articleshow/122275142.cms",
+         "pubDate" : "Sun, 06 Jul 2025 02:20:02",
+         "title" : "Chess | 'Shocking' - Magnus Carlsen takes another swipe at Gukesh"
+      },
+      {
          "description" : "In this video course, Grandmaster David Navara teaches when deep calculation is truly necessary and when simple, solid moves are more effective. Through examples from top-level games, he explains how to recognize critical positions, avoid overcalculating, and use candidate moves and hidden tactics wisely. The course is designed to improve decision-making and efficiency, making it ideal for tournament players aiming to strengthen their practical skills.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,11 +18,19 @@ news_feed (
          "title" : "David Navara: Your Calculation Compass: Know When to Calculate"
       },
       {
+         "description" : "24 hours after winning his fifth Freestyle Friday, GM Hikaru Nakamura returned to Chess.com&#39;s servers to capture his 43rd Bullet Brawl title in a commanding fashion. Nakamura and GM Andrew Tang broke away from the 135-strong field on Saturday; how...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-july-5-2025",
+         "pubDate" : "Sat, 05 Jul 2025 17:46:00",
+         "title" : "Nakamura Defeats 38 GMs In Two-Hour Bullet Brawl Arena"
+      },
+      {
          "description" : "GM Magnus Carlsen started day four of the 2025 SuperUnited Croatia Rapid &#38;amp; Blitz trailing World Champion Gukesh Dommaraju by four points but ended the day two points ahead after scoring 7.5/9 while Gukesh crashed to 1.5/9. GM Jan-Krzysztof Dud...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-superunited-croatia-rapid-blitz-day-4",
-         "pubDate" : "Sat, 05 Jul 2025 15:28:17",
+         "pubDate" : "Sat, 05 Jul 2025 15:28:00",
          "title" : "Carlsen Storms Into Lead As Gukesh Suffers"
       },
       {
@@ -554,14 +570,6 @@ news_feed (
          "title" : "Firouzja Defends Title, Wins 3rd Bullet Chess Championship"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122129063.cms\" />Anish Giri's witty remark on Praggnanandhaa becoming the World No.1 junior highlights the rise of young chess talents. Praggnanandhaa's UzChess Cup Masters 2025 victory, propelling him to World No.4 and India's top player, showcases his dominance. His dramatic win, praised by Viswanathan Anand, underscores his impressive character and solidifies his position as a leading force in chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/totally-pointless-dutch-no-1-anish-giri-reacts-after-r-praggnanandhaa-becomes-world-no-1-junior-chess-player/articleshow/122129063.cms",
-         "pubDate" : "Sat, 28 Jun 2025 10:48:09",
-         "title" : "'Totally pointless': Dutch no. 1 Giri reacts after Pragg becomes world no. 1 junior player"
-      },
-      {
          "description" : "The 2025 European Women's Rapid &#38; Blitz Chess Championship will take place from 8th-12th January 2026 in Monte-Carlo, Monaco. The Championship is open to all players representing Chess Federations which are ECU members regardless of their title and rating. There is no limit to the number of participants per federation. Registration starts after 1st August 2025, and applications must be sent to the Tournament Director, Jean Michel Rapaire by mail:&#160;cemc@libello.com.&#160;Registration deadline is December 19th, 2025. The first event on the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-collegiate-chess-league-summer-2025",
          "pubDate" : "Tue, 24 Jun 2025 08:00:00",
          "title" : "Registrations For The Collegiate Chess League Summer 2025 Season Are Now Open"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov leads his home supertournament, the 2025 UzChess Cup Masters, on 4/5 after defeating GMs Shamsiddin Vokhidov, Richard Rapport, and Aravindh Chithambaram. He&#39;s trailed by half a point by GM Arjun Erigaisi and also GM Parham...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/uzchess-masters-2025-round-5-abdusattorov",
-         "pubDate" : "Tue, 24 Jun 2025 04:51:58",
-         "title" : "Abdusattorov Leads Arjun, Maghsoodloo After UzChess Masters Round 5"
       },
       {
          "description" : "Today's exercises come from the 2025 Under-20 Pan-American Championship, which concluded last Thursday in Paraguay. Read our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
