@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
+         "pubDate" : "Sun, 06 Jul 2025 12:50:00",
+         "title" : "Women's World Cup - Live!"
+      },
+      {
+         "description" : "Magnus Carlsen took the lead at the SuperUnited Rapid & Blitz Croatia tournament after scoring 7&frac12;/9 on the first day of blitz. Gukesh Dommaraju, who had led by three points after the rapid section, managed just 1&frac12; points and fell to third place. Jan-Krzysztof Duda is now in second with 16 points, while Wesley So had the second-best blitz score of the day. The final nine rounds of blitz will be played on Sunday, as the action kicks off one hour earlier than usual. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2025-4",
+         "pubDate" : "Sun, 06 Jul 2025 11:00:00",
+         "title" : "SuperUnited Croatia: Carlsen shines on first day of blitz, leads"
+      },
+      {
+         "description" : "Do you know the powerful training tool in ChessBase 18? It's called \"Replay Training\"! This great feature lets you actively go through games move by move-sharpening your strategic and tactical understanding in a targeted way. Whether under time pressure or not, the choice is yours. Train in a realistic setting, get instant feedback, and systematically improve your play-whether you're a beginner or an ambitious tournament player. In this tutorial, we'll guide you step by step through how Replay Training works. Let's get started!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-21-maximum-training-effect-with-the-power-tool-replay-training-part-1",
+         "pubDate" : "Sun, 06 Jul 2025 09:30:00",
+         "title" : "ChessBase 18 - Tips for beginners, part 21: Maximum Training Effect with the Power Tool \"Replay Training\" (Part 1)"
+      },
+      {
+         "description" : "The European Youth Team Chess Championship 2025 commenced yesterday in Terme Catez, Slovenia! The Opening ceremony of the event took place shortly before the start of the first round with the attendance of the Deputy Mayor of Brezice Mojca Florjanic, ECU President Zurab Azmaiparashvili, ECU Vice-President Alojzije Jankovic, Vice-President of the Slovenian Chess Federation Mirko Bandelj, Secretary General of the Slovenian Chess Federation Nina Rob, ECU Tournament Director Petr Pisk, FIDE Secretary General Lukasz Turlej and other distinguished guests. Vice-President []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2025-commenced-in-slovenia/",
+         "pubDate" : "Sun, 06 Jul 2025 07:47:14",
+         "title" : "European Youth Team Chess Championship 2025 commenced in Slovenia"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122275592.cms\" />Garry Kasparov believes Gukesh's rapid win against Magnus Carlsen had a significant psychological impact, affecting his blitz performance at the SuperUnited Rapid & Blitz tournament. Kasparov observed Gukesh's games were feeble in the blitz section, suggesting he might not be ready for the faster format. Carlsen, however, recovered strongly in the blitz after a poor rapid showing.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -18,14 +50,6 @@ news_feed (
          "title" : "Chess | 'Shocking' - Magnus Carlsen takes another swipe at Gukesh"
       },
       {
-         "description" : "In this video course, Grandmaster David Navara teaches when deep calculation is truly necessary and when simple, solid moves are more effective. Through examples from top-level games, he explains how to recognize critical positions, avoid overcalculating, and use candidate moves and hidden tactics wisely. The course is designed to improve decision-making and efficiency, making it ideal for tournament players aiming to strengthen their practical skills.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/david-navara-your-calculation-compass-know-when-to-calculate",
-         "pubDate" : "Sat, 05 Jul 2025 20:20:00",
-         "title" : "David Navara: Your Calculation Compass: Know When to Calculate"
-      },
-      {
          "description" : "24 hours after winning his fifth Freestyle Friday, GM Hikaru Nakamura returned to Chess.com&#39;s servers to capture his 43rd Bullet Brawl title in a commanding fashion. Nakamura and GM Andrew Tang broke away from the 135-strong field on Saturday; how...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-superunited-croatia-rapid-blitz-day-4",
          "pubDate" : "Sat, 05 Jul 2025 15:28:00",
          "title" : "Carlsen Storms Into Lead As Gukesh Suffers"
-      },
-      {
-         "description" : "The third event of the 2025 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events, which is taking place on July 2-6 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are four out of the five highest-rated players in the world: Magnus Carlsen, Fabiano Caruana, Praggnanandhaa Rameshbabu and Gukesh Dommaraju. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2025-live",
-         "pubDate" : "Sat, 05 Jul 2025 14:45:00",
-         "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
       },
       {
          "description" : "The list of things I feel I should, or have to do, is endless. Even though I am self-employed (and clearly very privileged) and have a lot of flexibility on paper, the have-tos and should's make me feel caged. Like I'm running on a treadmil all day long. I'm sure you know that feeling. You []",
@@ -98,28 +114,12 @@ news_feed (
          "title" : "Chess | Gukesh reveals bet with cousin if he beat Carlsen; leads by 3 points in Zagreb"
       },
       {
-         "description" : "Gukesh Dommaraju takes a three-point lead into the blitz section of the SuperUnited Rapid & Blitz Croatia tournament after an impressive performance in the rapid phase. The world champion scored 14/18 points, winning five games in a row after an early loss to Jan-Krzysztof Duda. Duda and Magnus Carlsen trail in second and third place respectively, as the players prepare for 18 blitz rounds to conclude the event over the weekend. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2025-3",
-         "pubDate" : "Sat, 05 Jul 2025 02:35:00",
-         "title" : "SuperUnited Croatia: Gukesh takes commanding lead into blitz section"
-      },
-      {
          "description" : "All you need to know as R Vaishali, Harikia Dronavalli and other Indians battle chess's best in the World Cup.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/45673974/fide-womens-chess-world-cup-2025-preview-koneru-humpy-r-vaishali-harika-dronavalli-divya-deshmukh-indian-charge-107-strong-field-eye-candidates?device=featurephone",
          "pubDate" : "Sat, 5 Jul 2025 02:00:00",
          "title" : "FIDE Women's Chess World Cup 2025: Humpy leads Indian charge at 107-strong field with an eye on Candidates"
-      },
-      {
-         "description" : "From 5 to 16 July, the 2025 FIDE Women's World Cup will take place in Batumi, Georgia, a country with a proud tradition of excellence in women's chess. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers a $691,250 prize fund and three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-preview",
-         "pubDate" : "Fri, 04 Jul 2025 21:20:00",
-         "title" : "FIDE Women's World Cup: Everything you need to know!"
       },
       {
          "description" : " The 38th Leon Chess tournament takes place Fri 4th Jul to Sun 6th Jul 2025. Four game rapid matches followed by blitz tie-breaks if necessary. Viswanathan Anand beat youngster Faustino Oro but only after a tie-break. Le Quang Liem plays Jaime Santos Latasa in the second match with the final on Sunday.",
@@ -160,14 +160,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-freestyle-friday-july-4-2025",
          "pubDate" : "Fri, 04 Jul 2025 16:29:00",
          "title" : "Nakamura Conquers Arjun In 10 Moves, Becomes First Player To Win 5 Freestyle Fridays"
-      },
-      {
-         "description" : "The 38th edition of the Leon Masters will be held from 4 to 6 July at the City of Leon Auditorium, following its traditional four-player knockout format with rapid time controls. As one of Spain's most prestigious chess events, it continues to attract top international talent. This year's lineup features former World Champion Vishy Anand, Vietnam's Le Quang Liem, local grandmaster Jaime Santos and the young Argentine prodigy Faustino Oro.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magistral-leon-2025-preview",
-         "pubDate" : "Fri, 04 Jul 2025 08:15:00",
-         "title" : "Le&oacute;n welcomes Anand, Oro, Le and Santos for 38th edition of Masters tournament"
       },
       {
          "description" : " A poor outing from Ian Nepomniachtchi brought up an unlikely first but Serjey Karjakin made a strong comeback at Blitz last week It would have been inconceivable in the glory days of the Soviet chess empire. For the first time since 1971 when Fide, the world chess body, began publishing its rating lists - then annually and now monthly - there are no Russians ranked in the classical world top 10. Bobby Fischer was No 1 in the first Fide list, published on the eve of his Reykjavik match with Boris Spassky, but after Fischer gave up active play Anatoly Karpov and Garry Kasparov took over. In 1970, when the USSR team defeated the Rest of the World, or in the decades when Mikhail Botvinnik, Karp",
@@ -282,14 +274,6 @@ news_feed (
          "title" : "India Shines at Fide World Cadet Chess Cup in Georgia with 7 Medals"
       },
       {
-         "description" : "The winner of the last three editions of the Masters tournament in the Biel Chess Festival, Le Quang Liem (photo), withdrew from the event for personal reasons. He will be replaced by Vladimir Fedoseev. Another tournament has been presented at the Chess Festival, a blitz event for players aged 20 years old or younger - with a new format.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2025-replacement",
-         "pubDate" : "Thu, 03 Jul 2025 05:30:00",
-         "title" : "Biel Chess Festival: Vladimir Fedoseev to replace Le Quang Liem"
-      },
-      {
          "description" : "22 Americans participated across the six sections of the FIDE World Cadets Cup in Batumi, Georgia from June 23 through July 2. CM Chenxuan Ling won a silver medal in the Under-12 Open section, making him the only American medalist. CM Ethan Guo, also in the Under-12 Open section, came close, however, finishing fourth after taking his match for bronze all the way to sudden death blitz tie-breaks. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Chenxuan Ling (L) finished second behind Sameh Mohamed Abdalrahman. Russia's Bulgak Damir (R) won bronze over American CM Ethan Guo after a blitz playoff in their head-to-head match. (Photo courtesy of FIDE)<br> <",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -376,14 +360,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-2025-us-cadet-championship",
          "pubDate" : "Wed, 02 Jul 2025 00:00:00",
          "title" : "Wednesday Workout: 2025 US Cadet Championship"
-      },
-      {
-         "description" : "The Elo ratings were introduced by the World Chess Federation as the official system to rank players on 1 July 1971. Robert \"Bobby\" Fischer led the rankings by a huge margin a year before his memorable World Championship match. The rating formula was developed by mathematician and chess enthusiast Arpad Elo.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/1-july-1971-fide-introduces-elo-ratings",
-         "pubDate" : "Tue, 01 Jul 2025 20:00:00",
-         "title" : "1 July 1971: FIDE introduces Elo ratings"
       },
       {
          "description" : "GM Praggnanandhaa Rameshbabu, on the way to winning the 2025 UzChess Cup, has gained 12 points to rise to world number-four and Indian number-one. At Norway Chess 2025 earlier in the month, GM Fabiano Caruana gained seven points to jump back to wo...",
