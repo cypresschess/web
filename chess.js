@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Robert Ris faces off against the legendary Mikhail Tal in Fritz 20's grandmaster-level mode. With playful banter and strategic reflections, he navigates a tense middlegame filled with attacking chances, tactical bluffs and surprising defences. Despite some miscalculations and a critical blunder that nearly costs him the game, Robert defends resiliently, showcasing both fighting spirit and self-deprecating humour. Finally, after a flurry of complications and a tense queen endgame, the game concludes in a threefold repetition - a well-earned draw against one of history's most fearsome attackers.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-fritz-20-duel-robert-ris-vs-mikhail-tal",
+         "pubDate" : "Mon, 07 Jul 2025 20:00:00",
+         "title" : "The Fritz 20 Duel: Robert Ris vs. Mikhail Tal!"
+      },
+      {
+         "description" : "Vietnamese Grandmaster Le Quang Liem has been crowned champion of the Le&oacute;n Masters after defeating five-time world champion Vishy Anand by a 3-1 score in Sunday's final match. The tournament, which also featured Argentine prodigy Faustino Oro and local representative Jaime Santos, took place from 4 to 6 July and concluded with a closing ceremony honouring the memory of Zen&oacute;n Franco and Manuel Garc&iacute;a Cob, prominent figures in chess who were associated with the Le&oacute;n tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magistral-leon-2025-report",
+         "pubDate" : "Mon, 07 Jul 2025 18:30:00",
+         "title" : "Le Quang Liem defeats Vishy Anand to win Leon Masters"
+      },
+      {
          "description" : "Magnus Carlsen won the SuperUnited Rapid & Blitz Croatia tournament after finishing first in both the blitz and overall standings. Despite a quieter second day of blitz, his combined performance was enough to secure the title ahead of Wesley So and Gukesh Dommaraju. Gukesh, who had led after the rapid section, struggled in the blitz phase but held on to third place overall. The tournament in Zagreb marked Carlsen's fourth win at the event. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,14 +58,6 @@ news_feed (
          "title" : "FIDE Women's World Chess Cup 2025 kicked off in Georgia"
       },
       {
-         "description" : "This week only (7-14 July), take advantage of ChessBase's Summer Special with major discounts on top training material. Ivan Sokolov's full \"Understanding Middlegame Strategies series (Vol. 1-11)\" is available for €209.90, down from €299.90. Also on offer: Martin Breutigam's German-language \"1.d4! A Modern Repertoire (Vol. 1 & 2)\", now €49.90 instead of €69.90. Ideal resources for serious club and tournament players looking to improve!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/summer-special-sokolov-bundle",
-         "pubDate" : "Mon, 07 Jul 2025 12:10:00",
-         "title" : "This week's Summer Special: Sokolov's complete strategy bundle!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122293602.cms\" />Magnus Carlsen secured victory at the Super United Rapid and Blitz in Croatia, overshadowing reigning World Champion Gukesh Dommaraju. Despite Carlsen's recent criticisms and subtle jabs towards Gukesh's abilities, the young challenger has consistently responded with strong performances on the board. This rivalry marks a significant transition in world chess, reminiscent of Carlsen's own rise to challenge established legends.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -64,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-kids-vs-stars-5",
          "pubDate" : "Mon, 07 Jul 2025 08:00:00",
          "title" : "Star David Howell To Face Four Young Prodigies Simultaneously In Next Kids vs. Stars"
-      },
-      {
-         "description" : "The FIDE Women's World Cup got underway at the Grand Bellagio Batumi Convention & Casino Hotel, where 86 players contested the first game of round one. While most favourites scored early wins, several matches remain finely balanced ahead of game two. A few surprises included resilient draws by lower-rated players against elite opposition. The day began with a ceremonial first move by FIDE President Arkady Dvorkovich and Georgian Federation President Akaki Iashvili. | Photos: Anna Shtourman, Andrei Anosov / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-r1g1",
-         "pubDate" : "Sun, 06 Jul 2025 23:35:00",
-         "title" : "Women's World Cup: Most favourites start with wins"
       },
       {
          "description" : " The China YanCheng GM Match took place Wed 2nd Jul to Sun 6th Jul 2025. Wei Yi played Levon Aronian in four classical games followed by four rapid games on the final day. Wei Yi won the match, the classical games counted double the rapid games. Wei Yi won the classical 2.5-1.5 and after winning the first two rapid games he had already secured the match and the remaining two were not played.",
@@ -120,22 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-day-1",
          "pubDate" : "Sun, 06 Jul 2025 14:06:00",
          "title" : "Jumpy Start For Favorites At FIDE Women's World Cup"
-      },
-      {
-         "description" : "The third event of the 2025 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events, which is taking place on July 2-6 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are four out of the five highest-rated players in the world: Magnus Carlsen, Fabiano Caruana, Praggnanandhaa Rameshbabu and Gukesh Dommaraju. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2025-live",
-         "pubDate" : "Sun, 06 Jul 2025 14:00:00",
-         "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
-      },
-      {
-         "description" : "Magnus Carlsen took the lead at the SuperUnited Rapid & Blitz Croatia tournament after scoring 7&frac12;/9 on the first day of blitz. Gukesh Dommaraju, who had led by three points after the rapid section, managed just 1&frac12; points and fell to third place. Jan-Krzysztof Duda is now in second with 16 points, while Wesley So had the second-best blitz score of the day. The final nine rounds of blitz will be played on Sunday, as the action kicks off one hour earlier than usual. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2025-4",
-         "pubDate" : "Sun, 06 Jul 2025 11:00:00",
-         "title" : "SuperUnited Croatia: Carlsen shines on first day of blitz, leads"
       },
       {
          "description" : "Do you know the powerful training tool in ChessBase 18? It's called \"Replay Training\"! This great feature lets you actively go through games move by move-sharpening your strategic and tactical understanding in a targeted way. Whether under time pressure or not, the choice is yours. Train in a realistic setting, get instant feedback, and systematically improve your play-whether you're a beginner or an ambitious tournament player. In this tutorial, we'll guide you step by step through how Replay Training works. Let's get started!",
@@ -936,14 +920,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-6-recap/",
          "pubDate" : "Mon, 16 Jun 2025 23:32:38",
          "title" : "2025 Cairns Cup - Day 6 Recap"
-      },
-      {
-         "description" : "The International Schools Chess Festival will take place in Romania from 30th June to 6th July 2025 (direct flights from Luton).&#160; The organisers are looking for one English school to...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/international-schools-chess-festival-romania-30th-june-6th-july-2025/",
-         "pubDate" : "Mon, 16 Jun 2025 15:49:28",
-         "title" : "International Schools Chess Festival, Romania 30th June - 6th July 2025"
       }
    ]
 }
