@@ -46,8 +46,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-wins-2025-superunited-croatia-rapid-blitz",
-         "pubDate" : "Sun, 06 Jul 2025 14:30:22",
-         "title" : "\"B-Game\" Enough As Magnus Carlsen Wins Croatia Rapid & Blitz"
+         "pubDate" : "Sun, 06 Jul 2025 14:30:00",
+         "title" : "'B-Game' Enough As Magnus Carlsen Wins Croatia Rapid & Blitz"
       },
       {
          "description" : "The first day of the 2025 FIDE Women&#39;s World Cup wasn&#39;t the star-studded affair that it should have been, as the top 21 seeds received a bye to proceed directly to the second round. So, it was a low-key start for the event with 107 participants fr...",
