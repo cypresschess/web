@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen won the SuperUnited Rapid & Blitz Croatia tournament after finishing first in both the blitz and overall standings. Despite a quieter second day of blitz, his combined performance was enough to secure the title ahead of Wesley So and Gukesh Dommaraju. Gukesh, who had led after the rapid section, struggled in the blitz phase but held on to third place overall. The tournament in Zagreb marked Carlsen's fourth win at the event. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2025-5",
+         "pubDate" : "Mon, 07 Jul 2025 16:15:00",
+         "title" : "Magnus Carlsen plays \"alright\" on final day of blitz, wins SuperUnited Croatia tournament"
+      },
+      {
+         "description" : "In the battle of the 2025 North and South Union Champions, Surrey win the 104th Counties Championship, defending their title by a 3 1 margin on the decisive boards...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2025-counties-champions/",
+         "pubDate" : "Mon, 07 Jul 2025 14:55:42",
+         "title" : "2025 Counties Champions"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
          "pubDate" : "Mon, 07 Jul 2025 12:50:00",
          "title" : "Women's World Cup - Live!"
+      },
+      {
+         "description" : "Rank Under 07 Rank &#160;&#160;&#160;&#160;&#160;&#160; Under 07 Girls 1 Evan Antonio Telles 1 Shreyanshi Jain 2 Duvesh Milan P 2 Anika K 3 Ansh Dadhich",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-of-national-under-07-in-odisha-from-01-05-june-2025/",
+         "pubDate" : "Mon, 07 Jul 2025 12:15:39",
+         "title" : "Certificates of National Under 07 in Odisha from 01-05 June 2025"
+      },
+      {
+         "description" : "The 2025 FIDE Women's World Chess Cup kicked off yesterday in Batumi, Georgia. The event will be played from 6-28 July at the Grand Bellagio Batumi Convention Hotel with the participation of 107 players from 46 different federations. The event is played as a knock-out tournament, with 7 rounds, and each round comprises two classical games. If the result is tied, the tiebreak match/es will determine the Winner of the match. The FIDE Women's World Chess Cup 2025 features the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-womens-world-chess-cup-2025-kicked-off-in-batumi-georgia/",
+         "pubDate" : "Mon, 07 Jul 2025 12:14:49",
+         "title" : "FIDE Women's World Chess Cup 2025 kicked off in Georgia"
       },
       {
          "description" : "This week only (7-14 July), take advantage of ChessBase's Summer Special with major discounts on top training material. Ivan Sokolov's full \"Understanding Middlegame Strategies series (Vol. 1-11)\" is available for €209.90, down from €299.90. Also on offer: Martin Breutigam's German-language \"1.d4! A Modern Repertoire (Vol. 1 & 2)\", now €49.90 instead of €69.90. Ideal resources for serious club and tournament players looking to improve!",
@@ -24,6 +56,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-magnus-carlsens-respect-for-d-gukesh-is-only-going-to-grow-what-does-it-even-mean/articleshow/122293602.cms",
          "pubDate" : "Mon, 07 Jul 2025 08:10:03",
          "title" : "Chess | 'Carlsen's respect for Gukesh is only going to grow' - What does it even mean?"
+      },
+      {
+         "description" : "Kids vs. Stars will return for its fifth edition on July 9, starting at 12 p.m. ET / 18:00 CEST / 9:30 p.m. IST. This time, world-class commentator GM David Howell will take on four young prodigies to try to keep the stars&#39; win streak running. R...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-kids-vs-stars-5",
+         "pubDate" : "Mon, 07 Jul 2025 08:00:00",
+         "title" : "Star David Howell To Face Four Young Prodigies Simultaneously In Next Kids vs. Stars"
       },
       {
          "description" : "The FIDE Women's World Cup got underway at the Grand Bellagio Batumi Convention & Casino Hotel, where 86 players contested the first game of round one. While most favourites scored early wins, several matches remain finely balanced ahead of game two. A few surprises included resilient draws by lower-rated players against elite opposition. The day began with a ceremonial first move by FIDE President Arkady Dvorkovich and Georgian Federation President Akaki Iashvili. | Photos: Anna Shtourman, Andrei Anosov / FIDE",
@@ -304,14 +344,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gm-tigran-nalbandian-passes-away-at-50",
          "pubDate" : "Thu, 03 Jul 2025 11:01:00",
          "title" : "GM Tigran Nalbandian (1975-2025)"
-      },
-      {
-         "description" : "The 104th Counties Championship Finals take place at four regional venues on Saturday 5 July at 1:30pm.&#160; Follow the results as they happen on the ECF LMS: https://lms.englishchess.org.uk/lms/season/1470/today More details...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/104th-counties-championship-finals/",
-         "pubDate" : "Thu, 03 Jul 2025 08:20:39",
-         "title" : "104th Counties Championship Finals"
       },
       {
          "description" : "The UK Open Blitz Championship returns in 2025, featuring an expanded format with 16 qualifiers in 14 cities around the United Kingdom. Eldar Gasanov will be aiming for a hat-trick...",
@@ -728,14 +760,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/julien-song-bot",
          "pubDate" : "Wed, 25 Jun 2025 10:11:39",
          "title" : "Play Chess Against The New Julien Song Bot!"
-      },
-      {
-         "description" : "GM Pranav Venkatesh won the early June 24 edition of Titled Tuesday outright with 10 points, a half-point ahead of the winners of the previous two weeks,&#38;nbsp;GMs Hans Niemann and Magnus Carlsen. It was the 18-year-old&#39;s third Titled Tuesday win a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pranav-lazavik-win-titled-tuesday-june-24-2025",
-         "pubDate" : "Wed, 25 Jun 2025 07:12:22",
-         "title" : "Youth Prevails As Pranav, Lazavik Win Titled Tuesday"
       },
       {
          "description" : "Today's exercises come from the 2025 Under-20 Pan-American Championship, which concluded last Thursday in Paraguay. Read our full report here, and find more puzzles in yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
