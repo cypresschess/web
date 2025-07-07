@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The FIDE Women's World Cup takes place in Batumi, Georgia, Sun 6th Jul to Sun 27th Jul 2025. This is a seven round knockout with 107 players. The top seeds are Lei Tingjie, Zhu Jiner, Tan Zhongyi, Humpy Koneru, Anna Muzychuk etc but the top 21 players don't enter the competition until round 2. The event is wide open with for example Carissa Yip, Alice Lee, Anna Ushenina not being highly seeded dbut surely having a chance to do well.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-world-cup-2025",
+         "pubDate" : "Mon, 7 Jul 2025 21:01:00",
+         "title" : "FIDE Women's World Cup 2025 - Games and Results"
+      },
+      {
          "description" : "Robert Ris faces off against the legendary Mikhail Tal in Fritz 20's grandmaster-level mode. With playful banter and strategic reflections, he navigates a tense middlegame filled with attacking chances, tactical bluffs and surprising defences. Despite some miscalculations and a critical blunder that nearly costs him the game, Robert defends resiliently, showcasing both fighting spirit and self-deprecating humour. Finally, after a flurry of complications and a tense queen endgame, the game concludes in a threefold repetition - a well-earned draw against one of history's most fearsome attackers.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +42,28 @@ news_feed (
          "title" : "2025 Counties Champions"
       },
       {
+         "description" : "Vietnamese GM Liem Le has won the&#38;nbsp;2025 Leon Masters after denying Indian chess legend Viswanathan Anand an 11th title by winning their final match 3-1. Le beat local hero GM Jaime Santos in the Semifinals, while Anand defeated 11-year-old Arg...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/le-wins-2025-leon-masters-anand-oro",
+         "pubDate" : "Mon, 07 Jul 2025 14:43:00",
+         "title" : "Le Wins Leon Masters; Oro Impresses Vs. Anand"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
          "pubDate" : "Mon, 07 Jul 2025 12:50:00",
          "title" : "Women's World Cup - Live!"
+      },
+      {
+         "description" : "After game two of the first round in the 2025 FIDE Women&#39;s World Cup, 52 players are confirmed for round two. Those who won their matches will enjoy a rest day on Tuesday, while we will see 11 pairs of players fighting for their spots in round two...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-1-game-2",
+         "pubDate" : "Mon, 07 Jul 2025 12:26:00",
+         "title" : "11 Matches Go To Tiebreaks"
       },
       {
          "description" : "Rank Under 07 Rank &#160;&#160;&#160;&#160;&#160;&#160; Under 07 Girls 1 Evan Antonio Telles 1 Shreyanshi Jain 2 Duvesh Milan P 2 Anika K 3 Ansh Dadhich",
@@ -728,22 +752,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/children-chess-o2-arena-2025",
          "pubDate" : "Wed, 25 Jun 2025 10:25:22",
          "title" : "School children play chess on the roof of London's O2 Arena"
-      },
-      {
-         "description" : "Get ready for wild sacs and spectacular king hunts! The Chess.com Bughouse Chess Championship, the next installment of the Chess.com Community Championships, begins on July 7 at 11 a.m. ET/17:00 CEST. With five days of competition and a $5,000 pri...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-bughouse-championship-2025",
-         "pubDate" : "Wed, 25 Jun 2025 10:21:00",
-         "title" : "Call Your Chess Buddy And Join The Chess.com Bughouse Championship Starting July 7"
-      },
-      {
-         "description" : "Chess.com is excited to announce our newest bot: IM Julien Song! Since launching his YouTube channel, Song has established himself as a leading chess creator, uploading tournament vlogs, educational speedruns, and unique OTB instructional videos t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/julien-song-bot",
-         "pubDate" : "Wed, 25 Jun 2025 10:11:39",
-         "title" : "Play Chess Against The New Julien Song Bot!"
       },
       {
          "description" : "Today's exercises come from the 2025 Under-20 Pan-American Championship, which concluded last Thursday in Paraguay. Read our full report here, and find more puzzles in yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
