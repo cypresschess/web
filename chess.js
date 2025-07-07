@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
+         "pubDate" : "Mon, 07 Jul 2025 12:50:00",
+         "title" : "Women's World Cup - Live!"
+      },
+      {
+         "description" : "This week only (7-14 July), take advantage of ChessBase's Summer Special with major discounts on top training material. Ivan Sokolov's full \"Understanding Middlegame Strategies series (Vol. 1-11)\" is available for €209.90, down from €299.90. Also on offer: Martin Breutigam's German-language \"1.d4! A Modern Repertoire (Vol. 1 & 2)\", now €49.90 instead of €69.90. Ideal resources for serious club and tournament players looking to improve!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/summer-special-sokolov-bundle",
+         "pubDate" : "Mon, 07 Jul 2025 12:10:00",
+         "title" : "This week's Summer Special: Sokolov's complete strategy bundle!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122293602.cms\" />Magnus Carlsen secured victory at the Super United Rapid and Blitz in Croatia, overshadowing reigning World Champion Gukesh Dommaraju. Despite Carlsen's recent criticisms and subtle jabs towards Gukesh's abilities, the young challenger has consistently responded with strong performances on the board. This rivalry marks a significant transition in world chess, reminiscent of Carlsen's own rise to challenge established legends.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-magnus-carlsens-respect-for-d-gukesh-is-only-going-to-grow-what-does-it-even-mean/articleshow/122293602.cms",
+         "pubDate" : "Mon, 07 Jul 2025 08:10:03",
+         "title" : "Chess | 'Carlsen's respect for Gukesh is only going to grow' - What does it even mean?"
+      },
+      {
          "description" : "The FIDE Women's World Cup got underway at the Grand Bellagio Batumi Convention & Casino Hotel, where 86 players contested the first game of round one. While most favourites scored early wins, several matches remain finely balanced ahead of game two. A few surprises included resilient draws by lower-rated players against elite opposition. The day began with a ceremonial first move by FIDE President Arkady Dvorkovich and Georgian Federation President Akaki Iashvili. | Photos: Anna Shtourman, Andrei Anosov / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -546,14 +570,6 @@ news_feed (
          "title" : "Niemann-Vidit Match 2025 - Games and Results"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122145138.cms\" />After Magnus Carlsen's table-slam went viral following a loss to D Gukesh, R Praggnanandhaa called it an instinctive reaction - not ideal, but good for chess visibility. While praising Carlsen as the best, Praggnanandhaa reflected on his own breakthrough year, having won three major titles and rising to World No. 4 as he eyes a Candidates spot.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-r-praggnanandhaa-breaks-silence-on-magnus-carlsens-table-slam-after-d-gukesh-loss-is-it-a-good-thing-maybe-not/articleshow/122145138.cms",
-         "pubDate" : "Sun, 29 Jun 2025 16:53:13",
-         "title" : "Pragg breaks silence on Carlsen's table slam: 'Is it a good thing? Maybe not'"
-      },
-      {
          "description" : "GM Hikaru Nakamura cruised to victory in Saturday&#39;s Bullet Brawl, posting a score of 184 to finish 40 points ahead of IM Renato Terry and two more ahead of GM Eric Hansen. The win, which earned Nakamura $400, increased his career titles to 42, eig...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -904,22 +920,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/international-schools-chess-festival-romania-30th-june-6th-july-2025/",
          "pubDate" : "Mon, 16 Jun 2025 15:49:28",
          "title" : "International Schools Chess Festival, Romania 30th June - 6th July 2025"
-      },
-      {
-         "description" : " The FIDE World Rapid and Blitz Team Championships took place in London Tue 10th to Mon 16th Jun 2025. Players included Firouzja, Aronian, MVL, Nakamura, Abdusattorov, Anand, 420 players of varying strengths playing for teams. Each team of 6 in each match required one recreational player and one woman player. 6th seeds Team MGD1 (Erigaisi, Harikrishna, Anton Guijarro, Pranav, Mendonca, Tsolakidou and Atharvaa P Tayade) won the rapid ahead of Hexamind (Aronian, Giri, Murzin, Domginguez, Vidit, Divya, Panarin and Muradyan) and Freedom (Anand, Mamedov, Sevian, Le, Sarana, Martirosyan, Muzychuk, Injac and Mani) with top seeds WR Chess (Firouzja, MVL, Nakamura, Duda, So, Hou Yifan, Kosteniuk and ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-rapid-and-blitz-team-championships-2025",
-         "pubDate" : "Mon, 16 Jun 2025 10:58:00",
-         "title" : "FIDE World Rapid and Blitz Team Championships 2025 - Games and Results"
-      },
-      {
-         "description" : "Please find the link here GM&#160;Open :&#160; http://fritzserver.org/LocalUser/live/aurionpro2025/gm/index.html Junior: http://fritzserver.org/LocalUser/live/aurionpro2025/junior/index.html",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-game-links-aurionpro-international-grandmasters-chess-tournament-2025/",
-         "pubDate" : "Mon, 16 Jun 2025 08:21:46",
-         "title" : "Live Game Links : Aurionpro International Grandmasters Chess Tournament 2025"
       }
    ]
 }
