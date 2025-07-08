@@ -114,7 +114,7 @@ news_feed (
          "title" : "Chess | 'Carlsen's respect for Gukesh is only going to grow' - What does it even mean?"
       },
       {
-         "description" : "Kids vs. Stars will return for its fifth edition on July 9, starting at 12 p.m. ET / 18:00 CEST / 9:30 p.m. IST. This time, world-class commentator GM David Howell will take on four young prodigies to try to keep the stars&#39; win streak running. R...",
+         "description" : "Kids vs. Stars will return for its fifth edition on July 9, starting at 1 p.m. ET / 19:00 CEST / 10:30 p.m. IST. This time, world-class commentator GM David Howell will take on four young prodigies to try to keep the stars&#39; win streak running. R...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-kids-vs-stars-5",
