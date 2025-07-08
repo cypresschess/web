@@ -847,7 +847,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/english-championships-2025/#new_tab",
          "pubDate" : "Fri, 20 Jun 2025 14:50:22",
-         "title" : "English and English Women's Championships 2025 - enter now!"
+         "title" : "English and English Women's Championships 2025"
       },
       {
          "description" : "",
