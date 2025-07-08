@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
+         "pubDate" : "Tue, 08 Jul 2025 12:50:00",
+         "title" : "Women's World Cup - Live!"
+      },
+      {
+         "description" : "More than 25,000 people, including stars from the BBC's chess show Chess Masters: The Endgame, are expected to descend on London's Trafalgar Square on Sunday, July 13, for ChessFest 2025. Last year, the event drew 23,300 people. The UK's biggest chess event, now in its fifth year, will draw chess enthusiasts from across the country, including many of the country's top grandmasters, for a free day of fun suitable for every level of player.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/25-000-chess-players-to-descend-on-london",
+         "pubDate" : "Tue, 08 Jul 2025 10:30:00",
+         "title" : "25,000 chess players to descend on London"
+      },
+      {
          "description" : " The FIDE Women's World Cup takes place in Batumi, Georgia, Sun 6th Jul to Sun 27th Jul 2025. This is a seven round knockout with 107 players. The top seeds are Lei Tingjie, Zhu Jiner, Tan Zhongyi, Humpy Koneru, Anna Muzychuk etc but the top 21 players don't enter the competition until round 2. The event is wide open with for example Carissa Yip, Alice Lee, Anna Ushenina not being highly seeded dbut surely having a chance to do well.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/le-wins-2025-leon-masters-anand-oro",
          "pubDate" : "Mon, 07 Jul 2025 14:43:00",
          "title" : "Le Wins Leon Masters; Oro Impresses Vs. Anand"
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
-         "pubDate" : "Mon, 07 Jul 2025 12:50:00",
-         "title" : "Women's World Cup - Live!"
       },
       {
          "description" : "After game two of the first round in the 2025 FIDE Women&#39;s World Cup, 52 players are confirmed for round two. Those who won their matches will enjoy a rest day on Tuesday, while we will see 11 pairs of players fighting for their spots in round two...",
