@@ -920,14 +920,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-7-recap/",
          "pubDate" : "Tue, 17 Jun 2025 22:25:47",
          "title" : "2025 Cairns Cup - Day 7 Recap"
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-6-recap/\">2025 Cairns Cup - Day 6 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-6-recap/",
-         "pubDate" : "Mon, 16 Jun 2025 23:32:38",
-         "title" : "2025 Cairns Cup - Day 6 Recap"
       }
    ]
 }
