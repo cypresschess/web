@@ -10,6 +10,22 @@ news_feed (
          "title" : "Jon Speelman: Defeat and redemption"
       },
       {
+         "description" : "Team Liquid&#39;s chess roster just got even stronger. The Dutch esports powerhouse has added world number-four GM Praggnanandhaa Rameshbabu to their ranks, joining superstar GMs Magnus Carlsen and Fabiano Caruana. The 19-year-old Indian prodigy was...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/praggnanandaa-joins-carlsen-caruana-team-liquid",
+         "pubDate" : "Tue, 08 Jul 2025 13:51:00",
+         "title" : "Praggnanandhaa Joins Carlsen, Caruana As Team Liquid Builds Chess Superteam"
+      },
+      {
+         "description" : "The first set of players have been eliminated from the 2025 FIDE Women&#39;s World Cup, and 11 players advanced through tiebreaks into an even more challenging round two. The advancing players are WIM Priyanka K, WIM Anahita Zahedifar, IM Klaudia Kulo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-1-tiebreaks",
+         "pubDate" : "Tue, 08 Jul 2025 13:27:00",
+         "title" : "Dark Horse Priyanka Eliminates Hungary's No. 1"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/25-000-chess-players-to-descend-on-london",
          "pubDate" : "Tue, 08 Jul 2025 10:30:00",
          "title" : "25,000 chess players to descend on London"
+      },
+      {
+         "description" : "The 2025 FIDE Women's World Cup began Saturday, July 5 in Batumi, Georgia, with 107 players vying for their share of the $691,250 prize fund and one of three qualifying spots for the 2026 FIDE Women's Candidate Tournament. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Opening ceremony photos courtesy of Anna Shtourman/FIDE<br> <br> Four Americans compete in this iteration of the biannual event. In order of starting seed, these players are IM Carissa Yip (22nd), IM Alice Lee (38th), GM Irina Krush (43rd), and WGM Thalia Cervantes (73rd).All four Americans won t",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-fide-womens-world-cup-round-1-all-americans-advance-krush-yip-headlines-round-2-pairings",
+         "pubDate" : "Tue, 08 Jul 2025 00:00:00",
+         "title" : "2025 FIDE Women's World Cup Round 1: All Americans Advance, Krush - Yip Headlines Round 2 Pairings"
       },
       {
          "description" : "Editor's note: Since becoming Digital Editor for Chess Life Online, I have dreamt of publishing more regular wrap-ups of the sorts of events that are eligible for our Plan Ahead Calendar (as well as invitational tournaments).Do you want coverage of your tournament on Chess Life Online for future reporting or roundups?If so, email Click here to show email address with information of upcoming or recently concluded (i.e. within 1-2 weeks) events.For concluded tournaments, please include links to or screenshots of final standings, as well as links to DGT games or attached, transcribed game scores from 1-3 games of winners. Photos of the tournament and of winners is also a plus (cell phone photos",
@@ -610,14 +634,6 @@ news_feed (
          "title" : "US Chess Offices Closed Friday, July 4"
       },
       {
-         "description" : "This past weekend, I had the privilege of representing US Chess at US Squash's Super Junior Championship Tournament (JCT) in Philadelphia, PA. As the Director of Programs for US Chess, I'm always on the lookout for unique opportunities to bridge communities and bring chess to unexpected places - and this event did not disappoint. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> I had heard rumors that, between rounds, many of the kids at squash tournaments are glued to the chess apps on their phones and tablets. So, what would happen if I set up a table with a full array of boards, clocks, and magazines? <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <b",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-squash",
-         "pubDate" : "Mon, 30 Jun 2025 00:00:00",
-         "title" : "US Chess Serves Intrigue, Excitement at US Squash's Super JCT"
-      },
-      {
          "description" : " The Hans Moke Niemann against Santosh Vidit blitz match on Endgame.ai eventually took place 28th to 29th June 2025 after being announced for earlier in the week. Niemann won 12-6 on day 1 which was 3m+1spm blitz and 10.5-7.5 on day 2 which turned out to be Chess960 (in advance material there was no mention so I concluded it would be two days of standard blitz) and 3m+2spm blitz. On day one Niemann lost game 8 due to a mouse-slip and won on time in game 11 which he seemed to regard as payback. The downloadable PGN from the official site got a bit closer, the starting positions on day 2 for Chess960 were a real bonus, having the same players as white and black in every game meant half were wr",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -730,14 +746,6 @@ news_feed (
          "title" : "Firouzja, Naroditsky Advance To Winners Final"
       },
       {
-         "description" : "The fifth event in the Freestyle Chess Grand Slam Tour was scheduled to take place in Delhi from September 17-25, but has now officially been cancelled due to a lack of sponsors.&#38;nbsp; The announcement, first reported by the Times of India on Th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/freestyle-chess-calls-off-india-event-buettner-steps-down-as-ceo",
-         "pubDate" : "Thu, 26 Jun 2025 10:51:09",
-         "title" : "Freestyle Chess Calls Off India Event, Buettner Steps Down As CEO"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-24th-june-2025",
          "pubDate" : "Wed, 25 Jun 2025 13:16:00",
          "title" : "Titled Tuesday Blitz 24th June 2025 - Games and Results"
-      },
-      {
-         "description" : "GMs Alireza Firouzja, Nihal Sarin, Daniel Naroditsky, and Sam Sevian are the last ones left in the Winners Bracket of the 2025 Bullet Chess Championship after day one. All four players won both of their matches to stay at the top, while the other ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-bullet-chess-championship-day-1",
-         "pubDate" : "Wed, 25 Jun 2025 12:47:00",
-         "title" : "Firouzja, Nihal, Naroditsky, Sevian Advance To Winners Semis"
       },
       {
          "description" : "To mark the launch of a new community chess club, pupils from The Pointer School played a game of chess 52 metres above London atop the O2 Arena. The initiative aims to make structured chess coaching freely accessible to primary school children across Greenwich and South East London. Backed by a strong chess tradition and alumni like Shreyas Royal, the school continues to promote chess as a powerful tool for personal development.",
@@ -912,14 +912,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-examination-in-ahmednagar-ahilya-nagar-maharashtra-on-12-13-july-2025/",
          "pubDate" : "Wed, 18 Jun 2025 05:11:49",
          "title" : "Senior National Arbiter Seminar & Examination in Ahmednagar (Ahilya Nagar), Maharashtra on 12 & 13 July 2025."
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-7-recap/\">2025 Cairns Cup - Day 7 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-7-recap/",
-         "pubDate" : "Tue, 17 Jun 2025 22:25:47",
-         "title" : "2025 Cairns Cup - Day 7 Recap"
       }
    ]
 }
