@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In today's competitive chess landscape, even legends would struggle to maintain spotless records. This reflective piece contrasts the rare losses of Capablanca with the regular defeats modern players face, particularly in rapid formats. From Nodirbek Abdusattorov's heartbreaking loss in Tashkent to Richard Rapport's brilliant comeback, the article explores the psychological toll of losing - and recovering - in elite chess. Personal memories and missed chances add an introspective touch to this insightful journey through triumph and defeat. | Pictured: A 16-year-old Jon Speelman | Photo: Hulton Archive",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-229",
+         "pubDate" : "Tue, 08 Jul 2025 16:30:00",
+         "title" : "Jon Speelman: Defeat and redemption"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
          "pubDate" : "Tue, 08 Jul 2025 12:50:00",
          "title" : "Women's World Cup - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122319833.cms\" />Despite a mixed run after his world championship win, Gukesh D showed resilience at Norway Chess, securing a notable victory against Magnus Carlsen. His long-time mentor, Viswanathan Anand, upgraded Gukesh's performance assessment, acknowledging his resourcefulness. Anand highlighted areas for improvement, particularly decision-making in games. Gukesh currently leads the SuperUnited Rapid and Blitz Croatia 2025, demonstrating his ongoing competitive spirit.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-rates-d-gukeshs-norway-chess-showing-he-deserved-a-d/articleshow/122319833.cms",
+         "pubDate" : "Tue, 08 Jul 2025 12:41:57",
+         "title" : "Anand rates D Gukesh's Norway Chess showing: 'He deserved a D'"
+      },
+      {
+         "description" : "Three rounds have been played at the European Youth Team Chess Championship 2025 in Terme Catez, Slovenia and only four rounds left before the announcement of the Winners! After three played rounds, Girls sections got the emerged sole leaders, while the Open sections have tied teams on the top. In the Open U18 category, as many as four teams score 5 match points each to tie for the top: Austria, Hungary, Poland and Germany. Four teams closely follow scoring 4 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2025-reaches-its-midpoint/",
+         "pubDate" : "Tue, 08 Jul 2025 12:21:49",
+         "title" : "European Youth Team Chess Championship 2025 reaches its midpoint"
       },
       {
          "description" : "More than 25,000 people, including stars from the BBC's chess show Chess Masters: The Endgame, are expected to descend on London's Trafalgar Square on Sunday, July 13, for ChessFest 2025. Last year, the event drew 23,300 people. The UK's biggest chess event, now in its fifth year, will draw chess enthusiasts from across the country, including many of the country's top grandmasters, for a free day of fun suitable for every level of player.",
@@ -18,36 +42,28 @@ news_feed (
          "title" : "25,000 chess players to descend on London"
       },
       {
+         "description" : "Editor's note: Since becoming Digital Editor for Chess Life Online, I have dreamt of publishing more regular wrap-ups of the sorts of events that are eligible for our Plan Ahead Calendar (as well as invitational tournaments).Do you want coverage of your tournament on Chess Life Online for future reporting or roundups?If so, email Click here to show email address with information of upcoming or recently concluded (i.e. within 1-2 weeks) events.For concluded tournaments, please include links to or screenshots of final standings, as well as links to DGT games or attached, transcribed game scores from 1-3 games of winners. Photos of the tournament and of winners is also a plus (cell phone photos",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/independence-day-weekend-wrap",
+         "pubDate" : "Tue, 08 Jul 2025 00:00:00",
+         "title" : "Independence Day Weekend Wrap-Up"
+      },
+      {
+         "description" : "Today's puzzles begin a series featuring games from the 2025 FIDE World Cadets Cup. Read our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cadets-cup-pt1",
+         "pubDate" : "Tue, 08 Jul 2025 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Cadets Cup, Pt.1 "
+      },
+      {
          "description" : " The FIDE Women's World Cup takes place in Batumi, Georgia, Sun 6th Jul to Sun 27th Jul 2025. This is a seven round knockout with 107 players. The top seeds are Lei Tingjie, Zhu Jiner, Tan Zhongyi, Humpy Koneru, Anna Muzychuk etc but the top 21 players don't enter the competition until round 2. The event is wide open with for example Carissa Yip, Alice Lee, Anna Ushenina not being highly seeded dbut surely having a chance to do well.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/fide-womens-world-cup-2025",
          "pubDate" : "Mon, 7 Jul 2025 21:01:00",
          "title" : "FIDE Women's World Cup 2025 - Games and Results"
-      },
-      {
-         "description" : "Robert Ris faces off against the legendary Mikhail Tal in Fritz 20's grandmaster-level mode. With playful banter and strategic reflections, he navigates a tense middlegame filled with attacking chances, tactical bluffs and surprising defences. Despite some miscalculations and a critical blunder that nearly costs him the game, Robert defends resiliently, showcasing both fighting spirit and self-deprecating humour. Finally, after a flurry of complications and a tense queen endgame, the game concludes in a threefold repetition - a well-earned draw against one of history's most fearsome attackers.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-fritz-20-duel-robert-ris-vs-mikhail-tal",
-         "pubDate" : "Mon, 07 Jul 2025 20:00:00",
-         "title" : "The Fritz 20 Duel: Robert Ris vs. Mikhail Tal!"
-      },
-      {
-         "description" : "Vietnamese Grandmaster Le Quang Liem has been crowned champion of the Le&oacute;n Masters after defeating five-time world champion Vishy Anand by a 3-1 score in Sunday's final match. The tournament, which also featured Argentine prodigy Faustino Oro and local representative Jaime Santos, took place from 4 to 6 July and concluded with a closing ceremony honouring the memory of Zen&oacute;n Franco and Manuel Garc&iacute;a Cob, prominent figures in chess who were associated with the Le&oacute;n tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magistral-leon-2025-report",
-         "pubDate" : "Mon, 07 Jul 2025 18:30:00",
-         "title" : "Le Quang Liem defeats Vishy Anand to win Leon Masters"
-      },
-      {
-         "description" : "Magnus Carlsen won the SuperUnited Rapid & Blitz Croatia tournament after finishing first in both the blitz and overall standings. Despite a quieter second day of blitz, his combined performance was enough to secure the title ahead of Wesley So and Gukesh Dommaraju. Gukesh, who had led after the rapid section, struggled in the blitz phase but held on to third place overall. The tournament in Zagreb marked Carlsen's fourth win at the event. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2025-5",
-         "pubDate" : "Mon, 07 Jul 2025 16:15:00",
-         "title" : "Magnus Carlsen plays \"alright\" on final day of blitz, wins SuperUnited Croatia tournament"
       },
       {
          "description" : "In the battle of the 2025 North and South Union Champions, Surrey win the 104th Counties Championship, defending their title by a 3 1 margin on the decisive boards...",
@@ -578,14 +594,6 @@ news_feed (
          "title" : "Chess Stars 5.0 2025 - Games and Results"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122157541.cms\" />Chess culture differs greatly between North and South India. Vantika Agrawal highlights the lack of recognition for chess players in the North. In contrast, Tamil Nadu provides strong support, including financial aid and flexible schooling. This fosters a competitive environment. The challenge is to create a unified chess community. This will allow talent from all regions to flourish equally. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-in-north-india-were-trained-thugs-the-harsh-truth-behind-the-nations-north-south-divide/articleshow/122157541.cms",
-         "pubDate" : "Mon, 30 Jun 2025 10:40:11",
-         "title" : "'In North India, we're trained thugs': The harsh truth behind the nation's North-South divide"
-      },
-      {
          "description" : "The 2025 European Rapid and Blitz Chess Championships will take place from November 27th to December 1st at *****Hotel Emerald in Prishtina, Kosovo. European Rapid Chess Championship 2025 will be the first on the schedule, taking place on 28th and 29th of November. The Championship will be played according to the Swiss system, in11 rounds with the time control 15 minutes game + 10 seconds per move starting from the firstmove. The European Blitz Chess Championship 2025 will be played []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -762,28 +770,12 @@ news_feed (
          "title" : "School children play chess on the roof of London's O2 Arena"
       },
       {
-         "description" : "Today's exercises come from the 2025 Under-20 Pan-American Championship, which concluded last Thursday in Paraguay. Read our full report here, and find more puzzles in yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2025-pan-american-junior-championship",
-         "pubDate" : "Wed, 25 Jun 2025 00:00:00",
-         "title" : "Wednesday Workout: 2025 Pan-American Junior Championship"
-      },
-      {
          "description" : "We are pleased to announce the 2025 British Chess Championship Festival, including social chess events at St George's Hall and a wider &#8216;Chess in the City' festival of events in...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/british-chess-championships-festival/",
          "pubDate" : "Tue, 24 Jun 2025 17:30:54",
          "title" : "British Chess Championships Festival"
-      },
-      {
-         "description" : "Today's exercises come from the 2025 Under-20 Pan-American Championship, which concluded last Thursday in Paraguay. Read our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-pan-american-junior-championship",
-         "pubDate" : "Tue, 24 Jun 2025 00:00:00",
-         "title" : "Tactics Tuesday: 2025 Pan-American Junior Championship"
       },
       {
          "description" : " Guy Colas has just written a book on his son, FM Josh Colas, titled Mastering the Chessboard: A Black Prodigy's Journey Through the Chess World. It appears to be a story of a chess parent watching the progress of their child and witnessing the valuable lessons learned through chess study and competition. It seems that The post <a href=\"https://thechessdrum.net/blog/2025/06/23/josh-colas-biography-out/\">Josh Colas biography out!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
