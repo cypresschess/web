@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana presents an unconventional yet effective way to combat the English Opening by responding with 1...e5 and then an early ...h5, aiming to unsettle White's typical kingside fianchetto plans. The line offers dynamic attacking potential with ideas like ...h4, or even ...g5, depending on how White responds, and even top blitz players have experimented with it. While engines consider some White responses (like Nf3 followed by h4) slightly better, the surprise value and aggressive intent behind this line make it a strong practical weapon, especially in blitz and rapid games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-attacking-the-english-with-h5",
+         "pubDate" : "Wed, 09 Jul 2025 18:20:00",
+         "title" : "Svitlana's Smart Moves - Attacking the English with ...h5!?"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/international-chess-day-portals-celebration",
          "pubDate" : "Wed, 09 Jul 2025 08:00:00",
          "title" : "Chess.com And Portals Connect 4 Countries In Event Celebrating International Chess Day"
+      },
+      {
+         "description" : "Today's puzzles begin a series featuring games from the 2025 FIDE World Cadets Cup. Read our full report here, and check out more puzzles for younger or newer players in this week's Tactics Tuesday column. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cadets-cup-pt1",
+         "pubDate" : "Wed, 09 Jul 2025 00:00:00",
+         "title" : "Wednesday Workout: FIDE World Cadets Cup, Pt.1"
       },
       {
          "description" : "New York, NY - June 25, 2025 - The Maurice Ashley Chess Fellowship (MACF) is proud to announce the selection of its inaugural class of fellowship recipients for 2025. Founded by Grandmaster Maurice Ashley-the first African American to achieve the title of chess Grandmaster-the fellowship aims to identify, support, and elevate exceptional young chess talent from underserved communities across the United States.The 2025 fellows are:Brewington Hardaway, 16 - GM and rising international talent, awarded a $20,000 fellowshipJacorey Bynum, 17 - A standout player with a current national rating of 2301, awarded an $8,000 fellowshipAyden Spellman-Robinson, 10 - A promising young competitor with over 1",
@@ -642,14 +658,6 @@ news_feed (
          "title" : "Tactics Tuesday: 2025 US Cadet Championship"
       },
       {
-         "description" : "Every year at the U.S. Open, the Delegates from each state have a chance to change our rulebook. Sometimes it is just a tweak or two (or three). Most of the new approved rules kick in on the first day of January (1-1-26) after their Delegate's August 2-3, 2025 meeting finishes.The changes we are interested in get listed on the now-published advanced agenda. Yes, there are also non-rulebook matters that don't concern us on that same agenda. But for the rules motions, the rules become almost-instant chess law if the Delegates vote them in with a super 85% approval rating. But, if those ideas only get high passing marks from the lawmakers, then they get shipped off to the Rules Committee for co",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-proposed-rule-changes",
-         "pubDate" : "Tue, 01 Jul 2025 00:00:00",
-         "title" : "Just the Rules: Proposed Rule Changes?"
-      },
-      {
          "description" : "3Cs (Children's Chess Club) were not only very honoured to welcome the Mayor and Mayoress of Oldham to one of their weekly club nights but were also delighted that chess...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-17th-june-2025",
          "pubDate" : "Wed, 18 Jun 2025 19:45:00",
          "title" : "Titled Tuesday Blitz 17th June 2025 - Games and Results"
-      },
-      {
-         "description" : " Hans Niemann immediately challenged Anish Giri again after his <a href=\"https://theweekinchess.com/chessnews/events/hans-moke-niemann-vs-anish-giri-rematch-2025\">18 game blitz rematch on June 4th</a> and this took place on June 18th. Since I can't call everything a rematch I decided to call this a rerematch. After trading wins in the first four games and then having two draws, Giri won six of the last seven games. Even in the drawn game 8 Giri had a winning position for Giri but due to the 50 move rule the game finished in a draw. Only 13 of the schedule 18 games were required for a 9.5-3.5 win for Giri. Niemann can be counted on for a pithy summary, today it was: \"Bad day, very bad day, I'",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/niemann-giri-rerematch-2025",
-         "pubDate" : "Wed, 18 Jun 2025 19:14:00",
-         "title" : "Niemann-Giri Rerematch 2025 - Games and Results"
       }
    ]
 }
