@@ -904,14 +904,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/17th-ibca-chess-olympiad-for-blind-and-visually-impaired-players/",
          "pubDate" : "Wed, 18 Jun 2025 08:07:22",
          "title" : "17th IBCA Chess Olympiad for Blind and Visually Impaired Players - update 27/6/25"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation &#38;&#160;Maharashtra Chess Association ,the &#160;Ahmednagar District Chess Circle&#160;is organizing Senior National Arbiters Seminar &#38; Exam &#160;at Iris Premiere,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-examination-in-ahmednagar-ahilya-nagar-maharashtra-on-12-13-july-2025/",
-         "pubDate" : "Wed, 18 Jun 2025 05:11:49",
-         "title" : "Senior National Arbiter Seminar & Examination in Ahmednagar (Ahilya Nagar), Maharashtra on 12 & 13 July 2025."
       }
    ]
 }
