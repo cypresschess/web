@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chinese grandmaster Wei Yi secured a convincing victory over US representative Levon Aronian in the 2025 Yanwu Cup Grandmaster Match, held in Yancheng, China. Originally scheduled for eight games, the match concluded early after Wei Yi built an unassailable lead. Featuring both classical and rapid formats, the event highlighted Wei's consistent form and boosted his international rankings. | Photo: Frans Peeters / Tata Steel Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wei-yi-levon-aronian-yanwu-cup-2025",
+         "pubDate" : "Wed, 09 Jul 2025 22:40:00",
+         "title" : "Wei Yi beats Levon Aronian in classical and rapid chess match"
+      },
+      {
          "description" : "Svitlana presents an unconventional yet effective way to combat the English Opening by responding with 1...e5 and then an early ...h5, aiming to unsettle White's typical kingside fianchetto plans. The line offers dynamic attacking potential with ideas like ...h4, or even ...g5, depending on how White responds, and even top blitz players have experimented with it. While engines consider some White responses (like Nf3 followed by h4) slightly better, the surprise value and aggressive intent behind this line make it a strong practical weapon, especially in blitz and rapid games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-attacking-the-english-with-h5",
          "pubDate" : "Wed, 09 Jul 2025 18:20:00",
          "title" : "Svitlana's Smart Moves - Attacking the English with ...h5!?"
+      },
+      {
+         "description" : "If you were hoping for upsets, blunders, and dramatic twists of fate, game one of round two in the 2025 FIDE Women&#39;s World Cup did not disappoint. On the one hand, we saw several pre-tournament favorites win, including GMs&#38;nbsp;Lei Tingjie, Nana D...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-2-game-1",
+         "pubDate" : "Wed, 09 Jul 2025 13:50:00",
+         "title" : "Kazakh 19-Year-Old Kamalidenova Upsets Goryachkina, 2023 Winner"
       },
       {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/maurice-ashley-chess-fellowship-announces-inaugural-class-2025-awardees",
          "pubDate" : "Wed, 09 Jul 2025 00:00:00",
          "title" : " Maurice Ashley Chess Fellowship Announces Inaugural Class of 2025 Awardees"
-      },
-      {
-         "description" : "In today's competitive chess landscape, even legends would struggle to maintain spotless records. This reflective piece contrasts the rare losses of Capablanca with the regular defeats modern players face, particularly in rapid formats. From Nodirbek Abdusattorov's heartbreaking loss in Tashkent to Richard Rapport's brilliant comeback, the article explores the psychological toll of losing - and recovering - in elite chess. Personal memories and missed chances add an introspective touch to this insightful journey through triumph and defeat. | Pictured: A 16-year-old Jon Speelman | Photo: Hulton Archive",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-229",
-         "pubDate" : "Tue, 08 Jul 2025 16:30:00",
-         "title" : "Jon Speelman: Defeat and redemption"
       },
       {
          "description" : "Team Liquid&#39;s chess roster just got even stronger. The Dutch esports powerhouse has added world number-four GM Praggnanandhaa Rameshbabu to their ranks, joining superstar GMs Magnus Carlsen and Fabiano Caruana. The 19-year-old Indian prodigy was...",
@@ -754,14 +762,6 @@ news_feed (
          "title" : "Firouzja Beats Naroditsky 22.5-10.5 In Winners Final"
       },
       {
-         "description" : "GM Hikaru Nakamura won Freestyle Friday on June 27 with a perfect 11/11 score, matching the feat accomplished three weeks ago by GM Jeffery Xiong. In the 23rd Freestyle Friday held so far, Nakamura earned his fourth victory, breaking a tie with GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-freestyle-friday-june-27-2025",
-         "pubDate" : "Fri, 27 Jun 2025 13:00:00",
-         "title" : "Nakamura Completes Perfect Freestyle Friday For Fourth Title"
-      },
-      {
          "description" : " The world No 1 abandoned his attempts to reach the round number at classical chess in 2023, but achieved it this week on the first Freestyle rating list For years the world No 1, Magnus Carlsen, tried to achieve a 2900 classical rating but he always peaked 10-20 points short of the round figure. The Norwegian, 34, had a personal best of 2889, achieved in 2014. That was 33 points ahead of Garry Kasparov's highest figure and 100 ahead of Bobby Fischer. Carlsen made later attempts but could never get past the 2880s, while the numbers had an eerie similarity to the 28,000s and 29,000s at the top of Everest where George Mallory and Andrew Irvine perished in 1924. In the new <a href=\"https://www.",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -912,14 +912,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-8-recap/",
          "pubDate" : "Wed, 18 Jun 2025 23:38:43",
          "title" : "2025 Cairns Cup - Day 8 Recap"
-      },
-      {
-         "description" : " The Titled Tuesday Blitz of 17th June saw Magnus Carlsen win the early and Hans Niemann win the late. Carlsen's win in the early was a little unusual in that he met all his closest rivals beating Aleksei Sarana in round 7, Jeffery Xiong in round 8, Alireza Firouzja in round 9 and Hans Niemann in round 10 (these finished 2nd-5th). Carlsen drew the final round to finish on 10.5/11. Hans Niemann won the late with 10/11 beating Nakamura in round 9 and drawing with second place Fabiano Caruana in round 10. Games in PGN available for download but they're a bit large to display. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-17th-june-2025",
-         "pubDate" : "Wed, 18 Jun 2025 19:45:00",
-         "title" : "Titled Tuesday Blitz 17th June 2025 - Games and Results"
       }
    ]
 }
