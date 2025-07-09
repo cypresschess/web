@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the players and accompanying persons are required to make",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-junior-rapid-and-blitz-chess-championship-2025-in-lime-peru-from-22nd-to-29th-september-2025/",
+         "pubDate" : "Wed, 09 Jul 2025 10:30:53",
+         "title" : "FIDE World Junior Rapid and Blitz Chess Championship - 2025 in Lime - Peru from 22nd to 29th September, 2025"
+      },
+      {
+         "description" : "\"Chess problems demand from the composer the same virtues that characterize all worthwhile art: originality, invention, conciseness, harmony, complexity and splendid insincerity,\" wrote Vladimir Nabokov. Problem expert Werner Keym illustrates this in a new book which he makes available, as an eBook, to everyone, free of charge. Here are some excerpts to give you a taste.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/werner-keym-problem-chess-art-5",
+         "pubDate" : "Wed, 09 Jul 2025 09:00:00",
+         "title" : "Werner Keym: Problem Chess Art"
+      },
+      {
+         "description" : "The chess section starts at 33 minutes and 25 seconds &#8212; https://www.bbc.co.uk/sounds/play/m002f936",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chess-chessfest-the-bcc-and-liverpool-on-the-bbc/",
+         "pubDate" : "Wed, 09 Jul 2025 08:50:22",
+         "title" : "Chess, ChessFest, the BCC and Liverpool on the BBC"
+      },
+      {
          "description" : "In today's competitive chess landscape, even legends would struggle to maintain spotless records. This reflective piece contrasts the rare losses of Capablanca with the regular defeats modern players face, particularly in rapid formats. From Nodirbek Abdusattorov's heartbreaking loss in Tashkent to Richard Rapport's brilliant comeback, the article explores the psychological toll of losing - and recovering - in elite chess. Personal memories and missed chances add an introspective touch to this insightful journey through triumph and defeat. | Pictured: A 16-year-old Jon Speelman | Photo: Hulton Archive",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -896,14 +920,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/niemann-giri-rerematch-2025",
          "pubDate" : "Wed, 18 Jun 2025 19:14:00",
          "title" : "Niemann-Giri Rerematch 2025 - Games and Results"
-      },
-      {
-         "description" : "&#8212; from Owen Phillips The 17th IBCA Chess Olympiad for Blind and Visually Impaired Players starts on 17th June, in Vrnjacka Banja, Serbia, and with one game each afternoon concluding...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/17th-ibca-chess-olympiad-for-blind-and-visually-impaired-players/",
-         "pubDate" : "Wed, 18 Jun 2025 08:07:22",
-         "title" : "17th IBCA Chess Olympiad for Blind and Visually Impaired Players - update 27/6/25"
       }
    ]
 }
