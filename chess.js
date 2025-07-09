@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
+         "pubDate" : "Wed, 09 Jul 2025 12:50:00",
+         "title" : "Women's World Cup - Live!"
+      },
+      {
          "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the players and accompanying persons are required to make",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -26,6 +34,30 @@ news_feed (
          "title" : "Chess, ChessFest, the BCC and Liverpool on the BBC"
       },
       {
+         "description" : "GM Nihal Sarin and GM Hikaru Nakamura are your winners for the July 8 editions of Titled Tuesday. Nakamura also finished third in the early tournament, and after he started out 8/8 in the late event, his 3416 Chess.com Blitz rating had set a new a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nihal-nakamura-win-titled-tuesday-july-8-2025",
+         "pubDate" : "Wed, 09 Jul 2025 08:14:06",
+         "title" : "Nakamura Resets Own Rating Record With Big Tuesday"
+      },
+      {
+         "description" : "Chess.com is excited to announce our newest partnership with viral Portal sculptures as we celebrate the upcoming International Chess Day with our Portals x Chess.com event. On July 20, starting at 10 a.m. ET / 16:00 CEST, players in Dublin, Lubli...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/international-chess-day-portals-celebration",
+         "pubDate" : "Wed, 09 Jul 2025 08:00:00",
+         "title" : "Chess.com And Portals Connect 4 Countries In Event Celebrating International Chess Day"
+      },
+      {
+         "description" : "New York, NY - June 25, 2025 - The Maurice Ashley Chess Fellowship (MACF) is proud to announce the selection of its inaugural class of fellowship recipients for 2025. Founded by Grandmaster Maurice Ashley-the first African American to achieve the title of chess Grandmaster-the fellowship aims to identify, support, and elevate exceptional young chess talent from underserved communities across the United States.The 2025 fellows are:Brewington Hardaway, 16 - GM and rising international talent, awarded a $20,000 fellowshipJacorey Bynum, 17 - A standout player with a current national rating of 2301, awarded an $8,000 fellowshipAyden Spellman-Robinson, 10 - A promising young competitor with over 1",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/maurice-ashley-chess-fellowship-announces-inaugural-class-2025-awardees",
+         "pubDate" : "Wed, 09 Jul 2025 00:00:00",
+         "title" : " Maurice Ashley Chess Fellowship Announces Inaugural Class of 2025 Awardees"
+      },
+      {
          "description" : "In today's competitive chess landscape, even legends would struggle to maintain spotless records. This reflective piece contrasts the rare losses of Capablanca with the regular defeats modern players face, particularly in rapid formats. From Nodirbek Abdusattorov's heartbreaking loss in Tashkent to Richard Rapport's brilliant comeback, the article explores the psychological toll of losing - and recovering - in elite chess. Personal memories and missed chances add an introspective touch to this insightful journey through triumph and defeat. | Pictured: A 16-year-old Jon Speelman | Photo: Hulton Archive",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-1-tiebreaks",
          "pubDate" : "Tue, 08 Jul 2025 13:27:00",
          "title" : "Dark Horse Priyanka Eliminates Hungary's No. 1"
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
-         "pubDate" : "Tue, 08 Jul 2025 12:50:00",
-         "title" : "Women's World Cup - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122319833.cms\" />Despite a mixed run after his world championship win, Gukesh D showed resilience at Norway Chess, securing a notable victory against Magnus Carlsen. His long-time mentor, Viswanathan Anand, upgraded Gukesh's performance assessment, acknowledging his resourcefulness. Anand highlighted areas for improvement, particularly decision-making in games. Gukesh currently leads the SuperUnited Rapid and Blitz Croatia 2025, demonstrating his ongoing competitive spirit.",
@@ -650,14 +674,6 @@ news_feed (
          "title" : "European Rapid and Blitz Chess Championship 2025 - Invitation"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Friday, July 4 in celebration of Independence Day, and will reopen for normal business operations on Monday, July 7.All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing, so please submit any TLAs or email blasts by noon CDT on Thursday, July 3, to ensure they will be approved before the office closure. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-offices-closed-friday-july-4",
-         "pubDate" : "Mon, 30 Jun 2025 00:00:00",
-         "title" : "US Chess Offices Closed Friday, July 4"
-      },
-      {
          "description" : " The Hans Moke Niemann against Santosh Vidit blitz match on Endgame.ai eventually took place 28th to 29th June 2025 after being announced for earlier in the week. Niemann won 12-6 on day 1 which was 3m+1spm blitz and 10.5-7.5 on day 2 which turned out to be Chess960 (in advance material there was no mention so I concluded it would be two days of standard blitz) and 3m+2spm blitz. On day one Niemann lost game 8 due to a mouse-slip and won on time in game 11 which he seemed to regard as payback. The downloadable PGN from the official site got a bit closer, the starting positions on day 2 for Chess960 were a real bonus, having the same players as white and black in every game meant half were wr",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -738,14 +754,6 @@ news_feed (
          "title" : "Nakamura Completes Perfect Freestyle Friday For Fourth Title"
       },
       {
-         "description" : "India&#39;s latest chess sensation, CM Aarit Kapil, is only nine years old. This week, he came within inches of defeating none other than world number-one GM Magnus Carlsen in Chess.com&#39;s Titled Tuesday. The game ended in a dramatic draw, but the perf...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/9-year-old-indian-prodigy-makes-national-headlines-after-almost-defeating-magnus-carlsen",
-         "pubDate" : "Fri, 27 Jun 2025 09:55:49",
-         "title" : "9-Year-Old Indian Prodigy Shocks Magnus Carlsen, Makes National Headlines"
-      },
-      {
          "description" : " The world No 1 abandoned his attempts to reach the round number at classical chess in 2023, but achieved it this week on the first Freestyle rating list For years the world No 1, Magnus Carlsen, tried to achieve a 2900 classical rating but he always peaked 10-20 points short of the round figure. The Norwegian, 34, had a personal best of 2889, achieved in 2014. That was 33 points ahead of Garry Kasparov's highest figure and 100 ahead of Bobby Fischer. Carlsen made later attempts but could never get past the 2880s, while the numbers had an eerie similarity to the 28,000s and 29,000s at the top of Everest where George Mallory and Andrew Irvine perished in 1924. In the new <a href=\"https://www.",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/saint-louis-welcomes-rising-stars-and-chess-legends-for-2025-u-s-junior-junior-girls-and-senior-championships/",
          "pubDate" : "Thu, 26 Jun 2025 23:25:19",
          "title" : "Saint Louis Welcomes Rising Stars and Chess Legends for 2025 U.S. Junior, Junior Girls and Senior Championships"
-      },
-      {
-         "description" : "GMs Alireza Firouzja and Daniel Naroditsky will meet in the Winners Final of the 2025 Bullet Chess Championship. Firouzja was a runaway train against GM Nihal Sarin, winning 17.5-6.5, while it took Naroditsky 32 games, with tiebreaks, to defeat GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-bullet-chess-championship-day-2",
-         "pubDate" : "Thu, 26 Jun 2025 13:31:00",
-         "title" : "Firouzja, Naroditsky Advance To Winners Final"
       },
       {
          "description" : "",
