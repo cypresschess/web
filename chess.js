@@ -18,6 +18,14 @@ news_feed (
          "title" : "Review: All new releases in June!"
       },
       {
+         "description" : "12 matches go to tiebreaks in round two of the 2025 FIDE Women&#39;s World Cup. In a fighting second game of classical chess, we saw six win on demand. Notably, 2023 World Cup winner GM Aleksandra Goryachkina staved off elimination for at least anothe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-2-game-2",
+         "pubDate" : "Thu, 10 Jul 2025 15:26:05",
+         "title" : "15-Year-Old Kaliakhmet Eliminates GM Batsiashvili"
+      },
+      {
          "description" : "The U2050 County Championships final was held at the new King in the North Chess and Archery Centre on 5th July. Yorkshire, who failed to qualify for the 2024 knock-out...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -770,14 +778,6 @@ news_feed (
          "title" : "European Women's Rapid & Blitz Chess Championship 2025 - Official regulations"
       },
       {
-         "description" : "GM Praggnanandhaa Rameshbabu is Indian number-one and world number-four after a stunning comeback saw him beat GMs Arjun Erigaisi and Nodirbek Abdusattorov in the final rounds before winning the 2025 UzChess Cup Masters in tiebreaks over GM Javokh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-uzchess-masters-2025",
-         "pubDate" : "Sat, 28 Jun 2025 00:30:00",
-         "title" : "Praggnanandhaa Hits Back To Win UzChess Cup After Losing 'Game Of The Year'"
-      },
-      {
          "description" : " The 2nd Uzchess Cup took place in Tashkent, Uzbekistan, 19th to 27th June. There are three round robin tournaments and an open. Players: Masters: Arjun, Erigaisi,Nodirbek Abdusattorov, Praggnanandhaa, Ian Nepomniachtchi, Chithambaram V Aravindh, Richard Rapport, Javokhir Sindarov,Parham Maghsoodloo, Nodirbek Yakubboev,Shamsiddin Vokhidov. The Challengers had Vasyl Ivanchuk as top seed. Praggnanandhaa won a tie-break above Javokhir Sindarov and Nodirbek Abdusattorov but only after a double round robin blitz was drawn and they had to play an additional single round robin where Praggnanandhaa beat Sindarov in round 2 to take the tournament.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -928,14 +928,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jun/20/star-studded-wr-chess-repeat-world-blitz-title-amid-controversy-in-london",
          "pubDate" : "Fri, 20 Jun 2025 07:00:29",
          "title" : "Star-studded WR Chess repeat World Blitz title amid controversy in London"
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-9-recap/\">2025 Cairns Cup Day 9 Recap</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-cairns-cup-day-9-recap/",
-         "pubDate" : "Thu, 19 Jun 2025 23:16:23",
-         "title" : "2025 Cairns Cup - Day 9 Recap"
       }
    ]
 }
