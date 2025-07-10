@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The area around Lone Pine is best known as the backdrop for Western films such as \"Django Unchained\". However, chess history buffs will also recognise it as the venue for important chess tournaments in the 1970s. Roger Lorenz visited the site searching for clues.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-tournaments-lone-pine",
+         "pubDate" : "Thu, 10 Jul 2025 20:00:00",
+         "title" : "A chess trip down memory lane in the shadow of Mount Whitney"
+      },
+      {
+         "description" : "Whether strategy, technique or opening knowledge - the June releases from ChessBase fulfil all your chess needs! Renowned authors such as David Navara, Robert Ris and Andrew Martin open their chess brains to you, and offer a host of professional tips. For those who want everything at once, ChessBase Magazine 226 is the perfect choice. It once again features lots of training material from the pro lab. Attention opening fans: There are many new Powerbases and Powerbooks! Just take a look at last month's products:",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-june",
+         "pubDate" : "Thu, 10 Jul 2025 18:00:00",
+         "title" : "Review: All new releases in June!"
+      },
+      {
          "description" : "The U2050 County Championships final was held at the new King in the North Chess and Archery Centre on 5th July. Yorkshire, who failed to qualify for the 2024 knock-out...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
