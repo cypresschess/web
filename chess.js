@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECU E-Magazine June 2025 is out! In this edition of the ECU E-Magazine you may read about: The June 2025 Magazine can be read online together with interactive links on the following link, or it can be downloaded below in PDF format.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-june-2025/",
+         "pubDate" : "Thu, 10 Jul 2025 08:03:41",
+         "title" : "ECU E-Magazine June 2025"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122356572.cms\" />Grandmaster Praggnanandhaa has rebounded strongly after a challenging year, securing three major titles and ascending to India No. 1 and World No. 4 in live rankings. His victories at Wijk aan Zee, Superbet Chess Classic, and UzChess Cup have positioned him as a strong contender for a 2026 FIDE Candidates berth.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
