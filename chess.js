@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U2050 County Championships final was held at the new King in the North Chess and Archery Centre on 5th July. Yorkshire, who failed to qualify for the 2024 knock-out...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/u2050-county-championships-final/",
+         "pubDate" : "Thu, 10 Jul 2025 14:56:30",
+         "title" : "U2050 County Championships Final"
+      },
+      {
+         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
+         "pubDate" : "Thu, 10 Jul 2025 12:50:00",
+         "title" : "Women's World Cup - Live!"
+      },
+      {
          "description" : "The ECU E-Magazine June 2025 is out! In this edition of the ECU E-Magazine you may read about: The June 2025 Magazine can be read online together with interactive links on the following link, or it can be downloaded below in PDF format.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/changes-in-my-game-showing-results-r-praggnanandhaa/articleshow/122356572.cms",
          "pubDate" : "Thu, 10 Jul 2025 05:07:11",
          "title" : "Changes in my game showing results: R Praggnanandhaa"
+      },
+      {
+         "description" : "GM David Howell is the first grandmaster to triumph in Kids vs. Stars without losing a game after making draws against IM Marco Materia and FM Supratit Banerjee and beating FM Megan Paragua and WFM Bodhana Sivanandan. The 3-1 win wasn&#39;t easy, with...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/howell-kids-vs-stars-episode-5",
+         "pubDate" : "Thu, 10 Jul 2025 04:47:00",
+         "title" : "\"Relief Is The Word\" Says Howell After Defeating Kids 3-1"
       },
       {
          "description" : "Chinese grandmaster Wei Yi secured a convincing victory over US representative Levon Aronian in the 2025 Yanwu Cup Grandmaster Match, held in Yancheng, China. Originally scheduled for eight games, the match concluded early after Wei Yi built an unassailable lead. Featuring both classical and rapid formats, the event highlighted Wei's consistent form and boosted his international rankings. | Photo: Frans Peeters / Tata Steel Chess",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-2-game-1",
          "pubDate" : "Wed, 09 Jul 2025 13:50:00",
          "title" : "Kazakh 19-Year-Old Kamalidenova Upsets Goryachkina, 2023 Winner"
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
-         "pubDate" : "Wed, 09 Jul 2025 12:50:00",
-         "title" : "Women's World Cup - Live!"
       },
       {
          "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the players and accompanying persons are required to make",
@@ -760,14 +776,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/can-you-play-pawn-endings-2",
          "pubDate" : "Fri, 27 Jun 2025 16:06:21",
          "title" : "Can you play pawn endings?"
-      },
-      {
-         "description" : "Defending Champion GM Alireza Firouzja continues to dominate the 2025 Bullet Chess Championship. He&#39;s won every match by 10 points or more, and his latest victim was GM Daniel Naroditsky, whom he defeated 22.5-10.5. There are three players in the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-bullet-chess-championship-day-3",
-         "pubDate" : "Fri, 27 Jun 2025 13:16:00",
-         "title" : "Firouzja Beats Naroditsky 22.5-10.5 In Winners Final"
       },
       {
          "description" : " The world No 1 abandoned his attempts to reach the round number at classical chess in 2023, but achieved it this week on the first Freestyle rating list For years the world No 1, Magnus Carlsen, tried to achieve a 2900 classical rating but he always peaked 10-20 points short of the round figure. The Norwegian, 34, had a personal best of 2889, achieved in 2014. That was 33 points ahead of Garry Kasparov's highest figure and 100 ahead of Bobby Fischer. Carlsen made later attempts but could never get past the 2880s, while the numbers had an eerie similarity to the 28,000s and 29,000s at the top of Everest where George Mallory and Andrew Irvine perished in 1924. In the new <a href=\"https://www.",
