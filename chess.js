@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122356572.cms\" />Grandmaster Praggnanandhaa has rebounded strongly after a challenging year, securing three major titles and ascending to India No. 1 and World No. 4 in live rankings. His victories at Wijk aan Zee, Superbet Chess Classic, and UzChess Cup have positioned him as a strong contender for a 2026 FIDE Candidates berth.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/changes-in-my-game-showing-results-r-praggnanandhaa/articleshow/122356572.cms",
+         "pubDate" : "Thu, 10 Jul 2025 05:07:11",
+         "title" : "Changes in my game showing results: R Praggnanandhaa"
+      },
+      {
          "description" : "Chinese grandmaster Wei Yi secured a convincing victory over US representative Levon Aronian in the 2025 Yanwu Cup Grandmaster Match, held in Yancheng, China. Originally scheduled for eight games, the match concluded early after Wei Yi built an unassailable lead. Featuring both classical and rapid formats, the event highlighted Wei's consistent form and boosted his international rankings. | Photo: Frans Peeters / Tata Steel Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -632,14 +640,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-hands-christopher-yoo-worldwide-ban-following-assault-incident",
          "pubDate" : "Tue, 01 Jul 2025 05:38:00",
          "title" : "FIDE Hands Christopher Yoo Worldwide Ban Following Assault Incident"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122173170.cms\" />Anish Giri criticized Ian Nepomniachtchi and Hikaru Nakamura over their protest at the FIDE World Rapid and Blitz Teams event, questioning their sense of entitlement after arriving late and replaying games. Nepo and Nakamura fired back with sarcastic remarks, while Giri insisted he only reacts strongly to perceived injustice.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-they-have-so-much-bad-blood-anish-giri-takes-fresh-dig-at-hikaru-nakamura-ian-nepomniachtchi/articleshow/122173170.cms",
-         "pubDate" : "Tue, 01 Jul 2025 04:29:32",
-         "title" : "Chess | 'Bad blood' - Anish Giri takes fresh jibe at Nakamura and Nepo"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Ruben Quintans (Photo courtesy of the subject)<br> <br> <br> <br> Ruben Quintans of Georgia became the youngest player to cross the 2000 US Chess rating threshold, becoming an expert on June 24 after a fine showing at the one-game-a-week Chess Zone Game of the Week was rated. That tournament bumped him to a live rating of 2010, piggy-backing off his 47-point jump earlier in June after tying for second in the Under-2100 section of the Charlotte Chess Center's Carolinas Classic.At the age of 7 years, 2 months, and 6 days (as of June 24), Quintans broke GM Abhimanyu Mishra's record from 2016 by well over fou",
