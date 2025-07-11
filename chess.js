@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
+         "pubDate" : "Fri, 11 Jul 2025 12:50:00",
+         "title" : "Women's World Cup - Live!"
+      },
+      {
          "description" : "Chess prevention is one of the most important parts of strategic play in chess. This doesn't apply for chess only but also in life in general. To foresee possible negative outcomes and to protect ourselves from them, or at least to lower their effects, is simpler than having to deal with the consequences. The same applies to chess. Let international trainer Efstratios Grivas explain.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/strategic-prevention",
          "pubDate" : "Fri, 11 Jul 2025 09:00:00",
          "title" : "Strategic prevention"
+      },
+      {
+         "description" : "&#160; &#160;",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-championships-2025/#new_tab",
+         "pubDate" : "Fri, 11 Jul 2025 08:00:22",
+         "title" : "English and English Women's Championships 2025"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.britishchesschampionships.co.uk/#new_tab",
+         "pubDate" : "Fri, 11 Jul 2025 07:00:46",
+         "title" : "British Chess Championships 2025 - entries open"
       },
       {
          "description" : " The Norwegian, 35, lost his second game in a row to the 19-year-old Indian but won a third in \"old man's chess\" style, while 20,000 fans are expected in London on Sunday It looked as if the Magnus Carlsen era might finally be over. The Norwegian, 35, had just lost his second game in a row to India's world champion, Gukesh Dommaraju, 19, who was on a streak of five successive wins and leading the Zagreb event three points ahead of Carlsen. <a href=\"https://www.chessgames.com/perl/chess.pl?tid=135615&amp;pid=52948\">The game</a> was like their <a href=\"https://www.chessgames.com/perl/chessgame?gid=2905674\">first in Stavanger</a>, where Carlsen had spoiled a winning position and images of his f",
@@ -50,14 +74,6 @@ news_feed (
          "title" : "U2050 County Championships Final"
       },
       {
-         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
-         "pubDate" : "Thu, 10 Jul 2025 12:50:00",
-         "title" : "Women's World Cup - Live!"
-      },
-      {
          "description" : "The ECU E-Magazine June 2025 is out! In this edition of the ECU E-Magazine you may read about: The June 2025 Magazine can be read online together with interactive links on the following link, or it can be downloaded below in PDF format.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -80,6 +96,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/howell-kids-vs-stars-episode-5",
          "pubDate" : "Thu, 10 Jul 2025 04:47:00",
          "title" : "\"Relief Is The Word\" Says Howell After Defeating Kids 3-1"
+      },
+      {
+         "description" : "The Chief Teller has reported the following results for the 2025 US Chess Executive Board (EB) Election. Of the 5,089 registered voters, 40% submitted a ballot in this election. Anand Dommalapati1323John D. Rockefeller V1318Kevin Pryor1309Daniel Serna1239Alan Kantor873 The top four are elected to four-year terms on the EB starting at the conclusion of the 2025 Delegates' Meeting on August 2 or August 3 (whichever day the meeting concludes). ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-us-chess-executive-board-election-results",
+         "pubDate" : "Thu, 10 Jul 2025 00:00:00",
+         "title" : "2025 US Chess Executive Board Election Results"
       },
       {
          "description" : "Chinese grandmaster Wei Yi secured a convincing victory over US representative Levon Aronian in the 2025 Yanwu Cup Grandmaster Match, held in Yancheng, China. Originally scheduled for eight games, the match concluded early after Wei Yi built an unassailable lead. Featuring both classical and rapid formats, the event highlighted Wei's consistent form and boosted his international rankings. | Photo: Frans Peeters / Tata Steel Chess",
@@ -706,14 +730,6 @@ news_feed (
          "title" : "Check is in the Mail, July 2025: Readers' Games!"
       },
       {
-         "description" : "This week's puzzles comes from the 2025 US Cadet Championship, where 14-year-old IM-elect Tani Adewumi repeated his 2024 feat of a 6/7 victory for clear first. Read our full report here and stay tuned for more puzzles from this event in tomorrow's Wednesday Workout. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-us-cadet-championship",
-         "pubDate" : "Tue, 01 Jul 2025 00:00:00",
-         "title" : "Tactics Tuesday: 2025 US Cadet Championship"
-      },
-      {
          "description" : "3Cs (Children's Chess Club) were not only very honoured to welcome the Mayor and Mayoress of Oldham to one of their weekly club nights but were also delighted that chess...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -904,22 +920,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-national-schools-chess-finals-week/",
          "pubDate" : "Fri, 20 Jun 2025 15:33:43",
          "title" : "ECF National Schools' Chess Finals Week"
-      },
-      {
-         "description" : "&#160; &#160;",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-championships-2025/#new_tab",
-         "pubDate" : "Fri, 20 Jun 2025 14:50:22",
-         "title" : "English and English Women's Championships 2025"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.britishchesschampionships.co.uk/#new_tab",
-         "pubDate" : "Fri, 20 Jun 2025 14:00:46",
-         "title" : "British Chess Championships 2025 - entries open"
       }
    ]
 }
