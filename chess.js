@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess prevention is one of the most important parts of strategic play in chess. This doesn't apply for chess only but also in life in general. To foresee possible negative outcomes and to protect ourselves from them, or at least to lower their effects, is simpler than having to deal with the consequences. The same applies to chess. Let international trainer Efstratios Grivas explain.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/strategic-prevention",
+         "pubDate" : "Fri, 11 Jul 2025 09:00:00",
+         "title" : "Strategic prevention"
+      },
+      {
+         "description" : " The Norwegian, 35, lost his second game in a row to the 19-year-old Indian but won a third in \"old man's chess\" style, while 20,000 fans are expected in London on Sunday It looked as if the Carlsen era might finally be over. The Norwegian, 35, had just lost his second game in a row to India's world champion, Gukesh Dommaraju, 19, who was on a streak of five successive wins and leading the Zagreb event three points ahead of Carlsen. <a href=\"https://www.chessgames.com/perl/chess.pl?tid=135615&amp;pid=52948\">The game</a> was like their <a href=\"https://www.chessgames.com/perl/chessgame?gid=2905674\">first in Stavanger</a>, where Carlsen had spoiled a winning position and images of his frustrat",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/jul/11/chess-carlsen-fights-off-gukesh-in-zagreb-as-chessfest-returns-to-trafalgar-square",
+         "pubDate" : "Fri, 11 Jul 2025 07:00:01",
+         "title" : "Chess: Carlsen fights off Gukesh in Zagreb as ChessFest returns to Trafalgar Square"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122377908.cms\" />Magnus Carlsen, the world's top chess player, defeated OpenAI's ChatGPT in a game, he claimed in a social media post. He shared screenshots of his dominant win on X. Carlsen humorously noted he sometimes gets bored while traveling and plays chess with the artificial intelligence model. The AI tool estimated Carlsen's classical rating strength far below his actual FIDE rating.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-magnus-carlsen-beats-chatgpt-without-losing-a-piece-ai-tool-predicts-world-no-1s-rating/articleshow/122377908.cms",
+         "pubDate" : "Fri, 11 Jul 2025 03:14:42",
+         "title" : "Carlsen beats ChatGPT without losing a piece, AI tool predicts his FIDE Rating"
+      },
+      {
          "description" : "The area around Lone Pine is best known as the backdrop for Western films such as \"Django Unchained\". However, chess history buffs will also recognise it as the venue for important chess tournaments in the 1970s. Roger Lorenz visited the site searching for clues.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,8 +38,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-2-game-2",
-         "pubDate" : "Thu, 10 Jul 2025 15:26:05",
-         "title" : "15-Year-Old Kaliakhmet Eliminates GM Batsiashvili"
+         "pubDate" : "Thu, 10 Jul 2025 15:26:00",
+         "title" : "14-Year-Old Kaliakhmet Eliminates GM Batsiashvili"
       },
       {
          "description" : "The U2050 County Championships final was held at the new King in the North Chess and Archery Centre on 5th July. Yorkshire, who failed to qualify for the 2024 knock-out...",
@@ -650,14 +674,6 @@ news_feed (
          "title" : "'Don't think it matters': R Praggnanandhaa after becoming India's highest-ranked chess player"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122177066.cms\" />Anish Giri, the Dutch Grandmaster, supports Hans Niemann amidst cheating claims. Giri expresses his frustration over the lack of evidence against Niemann. He feels Niemann's treatment was unjust. Giri highlights the complex relationships among top chess players. He describes it as a mix of rivalry, friendship, respect, and a desire to win.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-he-was-treated-badly-based-on-speculation-anish-giri-defends-hans-nieman/articleshow/122177066.cms",
-         "pubDate" : "Tue, 01 Jul 2025 07:35:53",
-         "title" : "Chess | 'He was treated badly' - Anish Giri defends Hans Nieman"
-      },
-      {
          "description" : "Check out the FIDE rankings of the best chess players in the world.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -904,14 +920,6 @@ news_feed (
          "link" : "https://www.britishchesschampionships.co.uk/#new_tab",
          "pubDate" : "Fri, 20 Jun 2025 14:00:46",
          "title" : "British Chess Championships 2025 - entries open"
-      },
-      {
-         "description" : " The billionaire's team looked out for the count, but got a 2-4 defeat annulled on appeal, while an unknown 13-year-old beat the world No 2 in 112 moves WR Chess, the star-studded world top 10 team, retained their World Team Blitz crown in London last week, but only after an almighty scare and with significant help from the appeals committee. WR had already been beaten for the World Rapid title by MGD1, a Pune-based group led by India's Arjun Erigaisi. WR lost 2-4 to Germany in their Blitz quarter-final, but got the match annulled on the grounds that they had been advised of the wrong start time so had arrived two minutes late for a three-minute game. All the other teams arrived on time. <a ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/jun/20/star-studded-wr-chess-repeat-world-blitz-title-amid-controversy-in-london",
-         "pubDate" : "Fri, 20 Jun 2025 07:00:29",
-         "title" : "Star-studded WR Chess repeat World Blitz title amid controversy in London"
       }
    ]
 }
