@@ -10,6 +10,14 @@ news_feed (
          "title" : "Biel Chess Festival: All set for a vibrant 58th edition"
       },
       {
+         "description" : "Twelve players made it through the tiebreaks of round two in the 2025 FIDE Women&#39;s World Cup. They were GM Mariya Muzychuk, IM Meruert Kamalidenova, GM Kateryna Lagno, GM Anna Muzychuk, GM Alexandra Kosteniuk, WIM Umida Omonova, IM Lu Miaoyi, IM V...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-2-tiebreaks",
+         "pubDate" : "Fri, 11 Jul 2025 14:48:00",
+         "title" : "Kamalidenova Gives Defending Champion Goryachkina Early Exit"
+      },
+      {
          "description" : "Chess prevention is one of the most important parts of strategic play in chess. This doesn't apply for chess only but also in life in general. To foresee possible negative outcomes and to protect ourselves from them, or at least to lower their effects, is simpler than having to deal with the consequences. The same applies to chess. Let international trainer Efstratios Grivas explain.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,12 +74,12 @@ news_feed (
          "title" : "Carlsen beats ChatGPT without losing a piece, AI tool predicts his FIDE Rating"
       },
       {
-         "description" : "The area around Lone Pine is best known as the backdrop for Western films such as \"Django Unchained\". However, chess history buffs will also recognise it as the venue for important chess tournaments in the 1970s. Roger Lorenz visited the site searching for clues.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-tournaments-lone-pine",
-         "pubDate" : "Thu, 10 Jul 2025 20:00:00",
-         "title" : "A chess trip down memory lane in the shadow of Mount Whitney"
+         "description" : "There's no such thing as an easy pairing in this tournament. The 2025 FIDE Women's World Cup is down from 107 players to the final 32 in Batumi, Georgia, with three qualifying spots for the 2026 FIDE Women's Candidate Tournament. 26 of the top 32 seeds are still in the running, with IM Carissa Yip (seeded 22nd) the lone American still standing. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Top-seeded GM Lei Tingjie illustrates the pressure cooker environment of a knockout tournament (Photo courtesy of Anna Shtourman/FIDE)<br> <br> <br> <br> In case you missed it, our first round report covered the details of the knock-out format. The first classical ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/womens-world-cup-yip-last-american-standing-champions-curse-continues",
+         "pubDate" : "Fri, 11 Jul 2025 00:00:00",
+         "title" : "Women's World Cup: Yip Last American Standing, Champion's Curse Continues"
       },
       {
          "description" : "12 matches go to tiebreaks in round two of the 2025 FIDE Women&#39;s World Cup. In a fighting second game of classical chess, we saw six win on demand. Notably, 2023 World Cup winner GM Aleksandra Goryachkina staved off elimination for at least anothe...",
@@ -120,14 +128,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2025-us-chess-executive-board-election-results",
          "pubDate" : "Thu, 10 Jul 2025 00:00:00",
          "title" : "2025 US Chess Executive Board Election Results"
-      },
-      {
-         "description" : "Chinese grandmaster Wei Yi secured a convincing victory over US representative Levon Aronian in the 2025 Yanwu Cup Grandmaster Match, held in Yancheng, China. Originally scheduled for eight games, the match concluded early after Wei Yi built an unassailable lead. Featuring both classical and rapid formats, the event highlighted Wei's consistent form and boosted his international rankings. | Photo: Frans Peeters / Tata Steel Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wei-yi-levon-aronian-yanwu-cup-2025",
-         "pubDate" : "Wed, 09 Jul 2025 22:40:00",
-         "title" : "Wei Yi beats Levon Aronian in classical and rapid chess match"
       },
       {
          "description" : "If you were hoping for upsets, blunders, and dramatic twists of fate, game one of round two in the 2025 FIDE Women&#39;s World Cup did not disappoint. On the one hand, we saw several pre-tournament favorites win, including GMs&#38;nbsp;Lei Tingjie, Nana D...",
@@ -738,14 +738,6 @@ news_feed (
          "title" : "Ruben Quintans Breaks Mishra's Record, Becomes Youngest Ever US Chess Expert"
       },
       {
-         "description" : "The theme for this issue of Check is in the Mail is Reader's Games. Since I began editing this column, I have received games from readers. I felt the time was right to publish some of those games. Please note: If you have submitted one or more games and you don't see it/them present in this issue, rest assured, I still have your submissions. Upcoming issues will also contain reader's games. GamesGame 1 This game was played by Richard Aiken and Oswaldo Olivia using the E01: Catalan - Early deviations. From the 2023 Golden Knights, Section 23N06 tournament, this game ended in a draw after Aiken's 27th move.Game 2This game was played by Larry Cox and Allen Woollen using the B86: Sicilian Scheve",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-july-2025-readers-games",
-         "pubDate" : "Tue, 01 Jul 2025 00:00:00",
-         "title" : "Check is in the Mail, July 2025: Readers' Games!"
-      },
-      {
          "description" : "3Cs (Children's Chess Club) were not only very honoured to welcome the Mayor and Mayoress of Oldham to one of their weekly club nights but were also delighted that chess...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -776,14 +768,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/niemann-vidit-match-2025",
          "pubDate" : "Sun, 29 Jun 2025 20:34:00",
          "title" : "Niemann-Vidit Match 2025 - Games and Results"
-      },
-      {
-         "description" : "GM Hikaru Nakamura cruised to victory in Saturday&#39;s Bullet Brawl, posting a score of 184 to finish 40 points ahead of IM Renato Terry and two more ahead of GM Eric Hansen. The win, which earned Nakamura $400, increased his career titles to 42, eig...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-june-28-2025",
-         "pubDate" : "Sat, 28 Jun 2025 18:30:00",
-         "title" : "Nakamura Surges To 42nd Bullet Brawl Title Ahead Of Terry, Hansen"
       },
       {
          "description" : "I knew Vlastimil Hort well and played against him many times, without much success. I regarded him as a player of huge potential, who somehow never quite realised the fullest extent of his considerable talent. He was also one of the great sportsmen of 20th-century chess. In 1978 there was talk that Hort might join []",
@@ -904,22 +888,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/carissa-yip-wins-the-cairns-cup",
          "pubDate" : "Sat, 21 Jun 2025 10:05:00",
          "title" : "Carissa Yip wins the Cairns Cup - 4-9"
-      },
-      {
-         "description" : " American Underdogs Yip and Lee Defy Odds to Finish 1-2 Against World-Class Field SAINT LOUIS, June 20, 2025 In what may be one of the most dramatic chess upsets of the year, International Masters (IM) Carissa Yip and Alice Lee - the two youngest and lowest-rated players in the field - defied odds to finish [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/us-no-1-carissa-yip-captures-2025-cairns-cup-title-in-dazzling-comeback-victory-wins-65000/\">U.S. No. 1 Carissa Yip Captures 2025 Cairns Cup Title in Dazzling Comeback Victory, Wins $65,000</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/us-no-1-carissa-yip-captures-2025-cairns-cup-title-in-dazzling-comeback-victory-wins-65000/",
-         "pubDate" : "Fri, 20 Jun 2025 20:51:25",
-         "title" : "U.S. No. 1 Carissa Yip Captures 2025 Cairns Cup Title in Dazzling Comeback Victory, Wins $65,000"
-      },
-      {
-         "description" : " The 5th Cairns Cup took place in St Louis 10th to 20th June 2025. This women's event had the following players: Tan Zhongyi, Humpy Koneru, Nana Dzagnidze, Alina Kashlinskaya, Bibisara Assaubayeva, Mariya Muzychuk, Harika Dronavalli, Nino Batsiashvili, Carissa Yip and Alice Lee. The event is named in honor of co-founder Dr. Jeanne Cairns Sinquefield's maiden name. The event turned out to be a battle between the eventual winner 21 year old Carissa Yip and 15 year old Alice Lee. Yip only needed a draw with white in the final round to win, she was winning at one stage but had to settle for a draw. Yip made a second GM norm. Humpy Koneru had been leading after 6 rounds but lost her last three ga",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/5th-cairns-cup-2025",
-         "pubDate" : "Fri, 20 Jun 2025 20:34:00",
-         "title" : "5th Cairns Cup 2025 - Games and Results"
       }
    ]
 }
