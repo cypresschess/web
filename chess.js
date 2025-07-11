@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 58th Biel Chess Festival, running from 12 to 25 July, offers a global celebration of chess with 16 tournaments spanning classical, rapid and blitz formats. With participants from 45 countries and events welcoming players of all backgrounds and abilities, the festival blends elite competition with cultural exchange. Highlights include the unique chess triathlons (Masters and Challengers), a Freestyle Chess tiebreaker and inspiring exhibitions tied to FIDE's Year of Social Chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2025-preview",
+         "pubDate" : "Fri, 11 Jul 2025 20:20:00",
+         "title" : "Biel Chess Festival: All set for a vibrant 58th edition"
+      },
+      {
+         "description" : "Chess prevention is one of the most important parts of strategic play in chess. This doesn't apply for chess only but also in life in general. To foresee possible negative outcomes and to protect ourselves from them, or at least to lower their effects, is simpler than having to deal with the consequences. The same applies to chess. Let international trainer Efstratios Grivas explain.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/strategic-prevention",
+         "pubDate" : "Fri, 11 Jul 2025 13:00:00",
+         "title" : "Strategic prevention"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "Women's World Cup - Live!"
       },
       {
-         "description" : "Chess prevention is one of the most important parts of strategic play in chess. This doesn't apply for chess only but also in life in general. To foresee possible negative outcomes and to protect ourselves from them, or at least to lower their effects, is simpler than having to deal with the consequences. The same applies to chess. Let international trainer Efstratios Grivas explain.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/strategic-prevention",
-         "pubDate" : "Fri, 11 Jul 2025 09:00:00",
-         "title" : "Strategic prevention"
+         "description" : "In the last Freestyle Friday&#38;nbsp;before the July 16-20 Grand Slam event in Las Vegas, the final qualifier for the Grand Slam, GM Hans Niemann, won his first Freestyle Friday after several near-misses. Draws in the eighth and 10th rounds were all ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/niemann-wins-freestyle-friday-july-11-2025",
+         "pubDate" : "Fri, 11 Jul 2025 11:21:00",
+         "title" : "Niemann Joins Ranks Of Freestyle Winners Ahead Of Grand Slam"
       },
       {
          "description" : "&#160; &#160;",
@@ -34,7 +50,7 @@ news_feed (
          "title" : "British Chess Championships 2025 - entries open"
       },
       {
-         "description" : " The Norwegian, 35, lost his second game in a row to the 19-year-old Indian but won a third in \"old man's chess\" style, while 20,000 fans are expected in London on Sunday It looked as if the Magnus Carlsen era might finally be over. The Norwegian, 35, had just lost his second game in a row to India's world champion, Gukesh Dommaraju, 19, who was on a streak of five successive wins and leading the Zagreb event three points ahead of Carlsen. <a href=\"https://www.chessgames.com/perl/chess.pl?tid=135615&amp;pid=52948\">The game</a> was like their <a href=\"https://www.chessgames.com/perl/chessgame?gid=2905674\">first in Stavanger</a>, where Carlsen had spoiled a winning position and images of his f",
+         "description" : " The Norwegian lost his second game in succession to the 19-year-old Indian but won a third in \"old man's chess\" style, while 20,000 fans are expected in London on Sunday It looked as if the Magnus Carlsen era might finally be over. The Norwegian, 35, had just lost his second game in succession to India's world champion, Gukesh Dommaraju, 19, who was on a streak of five consecutive wins and leading the Zagreb event three points ahead of Carlsen. <a href=\"https://www.chessgames.com/perl/chess.pl?tid=135615&amp;pid=52948\">The game</a> was like their <a href=\"https://www.chessgames.com/perl/chessgame?gid=2905674\">first in Stavanger</a>, where Carlsen had spoiled a winning position and images of",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/jul/11/chess-carlsen-fights-off-gukesh-in-zagreb-as-chessfest-returns-to-trafalgar-square",
@@ -778,14 +794,6 @@ news_feed (
          "title" : "Chivalrous Czech: Vlastimil Hort"
       },
       {
-         "description" : "GM Alireza Firouzja defended his title as the bullet chess champion by defeating GM Oleksandr Bortnyk 19.5-5.5 in the 2025 Bullet Chess Championship Grand Final. It was a dominant showing, as the French number-one won every match by a margin of 10...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-wins-2025-bullet-chess-championship-day-4",
-         "pubDate" : "Sat, 28 Jun 2025 11:33:00",
-         "title" : "Firouzja Defends Title, Wins 3rd Bullet Chess Championship"
-      },
-      {
          "description" : "The 2025 European Women's Rapid &#38; Blitz Chess Championship will take place from 8th-12th January 2026 in Monte-Carlo, Monaco. The Championship is open to all players representing Chess Federations which are ECU members regardless of their title and rating. There is no limit to the number of participants per federation. Registration starts after 1st August 2025, and applications must be sent to the Tournament Director, Jean Michel Rapaire by mail:&#160;cemc@libello.com.&#160;Registration deadline is December 19th, 2025. The first event on the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/5th-cairns-cup-2025",
          "pubDate" : "Fri, 20 Jun 2025 20:34:00",
          "title" : "5th Cairns Cup 2025 - Games and Results"
-      },
-      {
-         "description" : "Next week is the first ever ECF National Schools' Chess Finals Week. This features the finals of both the English Schools' Chess Championships and the three Team Chess Challenge tournaments....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-national-schools-chess-finals-week/",
-         "pubDate" : "Fri, 20 Jun 2025 15:33:43",
-         "title" : "ECF National Schools' Chess Finals Week"
       }
    ]
 }
