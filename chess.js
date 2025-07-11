@@ -10,14 +10,6 @@ news_feed (
          "title" : "A chess trip down memory lane in the shadow of Mount Whitney"
       },
       {
-         "description" : "Whether strategy, technique or opening knowledge - the June releases from ChessBase fulfil all your chess needs! Renowned authors such as David Navara, Robert Ris and Andrew Martin open their chess brains to you, and offer a host of professional tips. For those who want everything at once, ChessBase Magazine 226 is the perfect choice. It once again features lots of training material from the pro lab. Attention opening fans: There are many new Powerbases and Powerbooks! Just take a look at last month's products:",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-june",
-         "pubDate" : "Thu, 10 Jul 2025 18:00:00",
-         "title" : "Review: All new releases in June!"
-      },
-      {
          "description" : "12 matches go to tiebreaks in round two of the 2025 FIDE Women&#39;s World Cup. In a fighting second game of classical chess, we saw six win on demand. Notably, 2023 World Cup winner GM Aleksandra Goryachkina staved off elimination for at least anothe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -72,14 +64,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/wei-yi-levon-aronian-yanwu-cup-2025",
          "pubDate" : "Wed, 09 Jul 2025 22:40:00",
          "title" : "Wei Yi beats Levon Aronian in classical and rapid chess match"
-      },
-      {
-         "description" : "Svitlana presents an unconventional yet effective way to combat the English Opening by responding with 1...e5 and then an early ...h5, aiming to unsettle White's typical kingside fianchetto plans. The line offers dynamic attacking potential with ideas like ...h4, or even ...g5, depending on how White responds, and even top blitz players have experimented with it. While engines consider some White responses (like Nf3 followed by h4) slightly better, the surprise value and aggressive intent behind this line make it a strong practical weapon, especially in blitz and rapid games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-attacking-the-english-with-h5",
-         "pubDate" : "Wed, 09 Jul 2025 18:20:00",
-         "title" : "Svitlana's Smart Moves - Attacking the English with ...h5!?"
       },
       {
          "description" : "If you were hoping for upsets, blunders, and dramatic twists of fate, game one of round two in the 2025 FIDE Women&#39;s World Cup did not disappoint. On the one hand, we saw several pre-tournament favorites win, including GMs&#38;nbsp;Lei Tingjie, Nana D...",
