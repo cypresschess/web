@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
+         "pubDate" : "Sat, 12 Jul 2025 12:50:00",
+         "title" : "Women's World Cup - Live!"
+      },
+      {
+         "description" : "The perfect sacrifice is every chess player's dream. You give your opponent material \"for free\", but in return you gain overwhelming piece activity, which, combined with creative ideas, can lead to a memorable game. In his new FritzTrainer course, Krishnan Sasikiran - who played no fewer than 11 Olympiads - shows how to correctly sacrifice a piece and obtain sufficient compensation for the material!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/krishnan-sasikiran-the-art-of-sacrificing",
+         "pubDate" : "Sat, 12 Jul 2025 11:00:00",
+         "title" : "New FritzTrainer - Krishnan Sasikiran: The Art of Sacrificing"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122403250.cms\" />Indian International Master (IM) Vantika Agrawal triumphed over former world champion Anna Ushenina in a tie-breaker, advancing to the third round of the FIDE Women's World Cup 2025. Despite some challenges in earlier games, Vantika's focused strategy secured her victory. Meanwhile, Padmini Rout and Priyanka K were eliminated, while four other Indian players progressed to the next round.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-23-year-old-indian-vantika-agrawal-stuns-former-world-champion-pockets-rs-5-8-lakh-so-far/articleshow/122403250.cms",
+         "pubDate" : "Sat, 12 Jul 2025 09:37:11",
+         "title" : "Chess WC: 23-yo Indian stuns former world champion, pockets Rs 5.8 lakh so far"
+      },
+      {
+         "description" : "The European Youth Team Chess Championship 2025 concluded yesterday in Terme Catez, Slovenia with Poland winning gold medals in Girls U12, Girls U18 and Open U18 Championships! Romanian team clinched the trophy in the Open U12 section, scoring 11 match points and finishing one match point ahead of Turkey and Germany. Having better tiebreak criteria, Turkey won silver and Germany claimed bronze. Scoring impressive 13 match points, Poland won the Girls U12 tournament with two match points edge over Ukraine []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-team-chess-champions-2025-crowned-in-slovenia/",
+         "pubDate" : "Sat, 12 Jul 2025 09:32:21",
+         "title" : "European Youth Team Chess Champions 2025 crowned in Slovenia"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122399797.cms\" />D Gukesh, the Indian chess talent, surprised everyone by finishing third at the SuperUnited Rapid and Blitz event in Croatia. Despite lower ratings in faster formats, Gukesh won the Rapid section. His coach, Grzegorz Gajewski, highlighted focused training to improve his speed chess skills. Gajewski manages expectations, reminding Gukesh of his age amidst high ambitions.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -682,14 +714,6 @@ news_feed (
          "title" : "FIDE Ratings: Magnus Carlsen still reigns; Praggnanandhaa breaks into World Top 4"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122195326.cms\" />A silent handshake between World Champion D Gukesh and Magnus Carlsen ignited anticipation for their upcoming clash at the Grand Chess Tour in Zagreb. This follows Gukesh's earlier classical win against Carlsen, fueling a generational rivalry. They will compete in rapid and blitz games, with Gukesh aiming to improve his speed chess skills.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-quiet-handshake-a-heavy-rivalry-carlsen-gukesh-reunion-sparks-buzz-ahead-of-zagreb-showdown-watch/articleshow/122195326.cms",
-         "pubDate" : "Wed, 02 Jul 2025 03:29:16",
-         "title" : "A quiet handshake: Carlsen, Gukesh spark buzz ahead of Zagreb showdown - Watch"
-      },
-      {
          "description" : "This week's puzzles comes from the 2025 US Cadet Championship, where 14-year-old IM-elect Tani Adewumi repeated his 2024 feat of a 6/7 victory for clear first. Read our full report here and check out yesterday's Tactics Tuesday for more puzzles from this event. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -880,14 +904,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-magic-root-of-chess/",
          "pubDate" : "Sat, 21 Jun 2025 11:51:31",
          "title" : "The magic root of chess"
-      },
-      {
-         "description" : " The fifth Cairns Cup finished on Thursday with victory for 21 year old Carissa Yip who drew with her closest rival, 15 year old Alice Lee, to secure clear first place. Yip and Lee were formally the bottom two seeds in the event but there was reason to believe even before the event started that both players were considerably better than that. Neither has been very active outside the United States, Yip is studying Computer Science and Math at Stanford University (I now hear that at some point recently she dropped out) and Lee is still at school, yet their powerful play at the US Championships in October, where Yip was champion and Lee finished third with only one defeat, already marked them o",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/carissa-yip-wins-the-cairns-cup",
-         "pubDate" : "Sat, 21 Jun 2025 10:05:00",
-         "title" : "Carissa Yip wins the Cairns Cup - 4-9"
       }
    ]
 }
