@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122399797.cms\" />D Gukesh, the Indian chess talent, surprised everyone by finishing third at the SuperUnited Rapid and Blitz event in Croatia. Despite lower ratings in faster formats, Gukesh won the Rapid section. His coach, Grzegorz Gajewski, highlighted focused training to improve his speed chess skills. Gajewski manages expectations, reminding Gukesh of his age amidst high ambitions.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-many-people-forget-that-hes-only-19-he-even-forgets-hes-19-says-d-gukeshs-coach-grzegorz-gajewski/articleshow/122399797.cms",
+         "pubDate" : "Sat, 12 Jul 2025 05:29:05",
+         "title" : "D Gukesh's coach: 'Many people forget that he's only 19. He even forgets he's 19'"
+      },
+      {
          "description" : "The second-round tiebreaks of the Women's World Cup saw major developments, including the early exit of defending champion Aleksandra Goryachkina at the hands of Meruert Kamalidenova (pictured). Alina Kashlinskaya was also eliminated, while several top seeds - such as Mariya Muzychuk, Kateryna Lagno and Alexandra Kosteniuk - were pushed to extended matches. Other notable qualifiers included Umida Omonova, Song Yuxin and Lu Miaoyi, who all advanced after strong performances in rapid and blitz. | Photo: Anna Shtourman / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -704,14 +712,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45629931/new-year-new-pragg-how-change-mentality-pushed-praggnanandhaa-gukesh-india-new-number-1?device=featurephone",
          "pubDate" : "Tue, 1 Jul 2025 10:30:00",
          "title" : "New year, New Pragg: How a change in mentality pushed Praggnanandhaa past Gukesh as India's new no.1"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122180402.cms\" />Indian Chess grandmaster Rameshbabu Praggnanandhaa expressed his thoughts as he became the country's highest-ranked player, saying that he doesn't pay too much attention towards one or two ratings points as they can be changed at any time.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/dont-think-it-really-matters-r-praggnanandhaa-after-becoming-indias-highest-ranked-chess-player/articleshow/122180402.cms",
-         "pubDate" : "Tue, 01 Jul 2025 09:54:17",
-         "title" : "'Don't think it matters': R Praggnanandhaa after becoming India's highest-ranked chess player"
       },
       {
          "description" : "Check out the FIDE rankings of the best chess players in the world.",
