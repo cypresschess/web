@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After 34 years of continuous development, ChessBase has released Fritz 20, marking the twentieth iteration of one of the most influential chess programs in history. This latest version represents a significant evolution in chess software, combining cutting-edge artificial intelligence with innovative human-like playing concepts that promise to transform how players train and improve their game. | Text and Photos: Paul Harwood (betterchess.net)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-fritz-20-a-revolutionary-leap-forward-in-chess-software",
+         "pubDate" : "Sat, 12 Jul 2025 16:00:00",
+         "title" : "Review: Fritz 20 - A revolutionary leap forward in chess software"
+      },
+      {
+         "description" : "Just one little shout-out before we get into today's article. My lovely wife Alessia has published a super fun video on her YouTube Channel where I watch her play blitz chess and give my Grandmaster take on her games. I had a blast recording it, and believe it makes for great chess entertainment, and some []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/deliberate-practice-in-chess/",
+         "pubDate" : "Sat, 12 Jul 2025 13:00:00",
+         "title" : "The 10,000-Hour Myth and What Really Matters"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -896,14 +912,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/hans-moke-niemann-vs-levon-aronian-blitz-match-2025",
          "pubDate" : "Sat, 21 Jun 2025 21:30:00",
          "title" : "Hans Moke Niemann vs Levon Aronian Blitz Match 2025 - Games and Results"
-      },
-      {
-         "description" : "What does Mozart's Die Zauberfl&ouml;te (\"The Magic Flute&#8221;) have in common with chess? The opera tells the story of Prince Tamino, who is rescued from a serpent by three ladies allied to the Queen of the Night. Tamino is instantly entranced by a portrait of Her Nocturnal Majesty's daughter, Pamina. With the help of the magic flute and bells, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-magic-root-of-chess/",
-         "pubDate" : "Sat, 21 Jun 2025 11:51:31",
-         "title" : "The magic root of chess"
       }
    ]
 }
