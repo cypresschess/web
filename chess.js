@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Whether strategy, technique or opening knowledge - the June releases from ChessBase fulfil all your chess needs! Renowned authors such as David Navara, Robert Ris and Andrew Martin open their chess brains to you, and offer a host of professional tips. For those who want everything at once, ChessBase Magazine 226 is the perfect choice. It once again features lots of training material from the pro lab. Attention opening fans: There are many new Powerbases and Powerbooks! Just take a look at last month's products:",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-june",
+         "pubDate" : "Sat, 12 Jul 2025 18:00:00",
+         "title" : "Review: All new releases in June!"
+      },
+      {
          "description" : "After 34 years of continuous development, ChessBase has released Fritz 20, marking the twentieth iteration of one of the most influential chess programs in history. This latest version represents a significant evolution in chess software, combining cutting-edge artificial intelligence with innovative human-like playing concepts that promise to transform how players train and improve their game. | Text and Photos: Paul Harwood (betterchess.net)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,14 +34,6 @@ news_feed (
          "title" : "Women's World Cup - Live!"
       },
       {
-         "description" : "The perfect sacrifice is every chess player's dream. You give your opponent material \"for free\", but in return you gain overwhelming piece activity, which, combined with creative ideas, can lead to a memorable game. In his new FritzTrainer course, Krishnan Sasikiran - who played no fewer than 11 Olympiads - shows how to correctly sacrifice a piece and obtain sufficient compensation for the material!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/krishnan-sasikiran-the-art-of-sacrificing",
-         "pubDate" : "Sat, 12 Jul 2025 11:00:00",
-         "title" : "New FritzTrainer - Krishnan Sasikiran: The Art of Sacrificing"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122403250.cms\" />Indian International Master (IM) Vantika Agrawal triumphed over former world champion Anna Ushenina in a tie-breaker, advancing to the third round of the FIDE Women's World Cup 2025. Despite some challenges in earlier games, Vantika's focused strategy secured her victory. Meanwhile, Padmini Rout and Priyanka K were eliminated, while four other Indian players progressed to the next round.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -48,6 +48,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-team-chess-champions-2025-crowned-in-slovenia/",
          "pubDate" : "Sat, 12 Jul 2025 09:32:21",
          "title" : "European Youth Team Chess Champions 2025 crowned in Slovenia"
+      },
+      {
+         "description" : "NMs Isaac Chiu and Janak Awatramani dominated the 2025 Chess.com Community Bughouse Championship, although they didn&#39;t have the highest FIDE ratings in the field. They won two matches decisively against the second-place team of FM Richard Zheng an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/awatramani-chiu-win-bughouse-championship",
+         "pubDate" : "Sat, 12 Jul 2025 08:55:00",
+         "title" : "Awatramani, Chiu Dominate Bughouse Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122399797.cms\" />D Gukesh, the Indian chess talent, surprised everyone by finishing third at the SuperUnited Rapid and Blitz event in Croatia. Despite lower ratings in faster formats, Gukesh won the Rapid section. His coach, Grzegorz Gajewski, highlighted focused training to improve his speed chess skills. Gajewski manages expectations, reminding Gukesh of his age amidst high ambitions.",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45624957/fide-chess-rankings-july-2025-d-gukesh-r-praggnanandhaa-magnus-carlsen-koneru-humpy-r-vaishali-arjun-erigaisi?device=featurephone",
          "pubDate" : "Tue, 1 Jul 2025 05:50:00",
          "title" : "FIDE Chess rankings for July: R Praggnanandhaa becomes India no.1 in classical"
-      },
-      {
-         "description" : "The FIDE Ethics &#38;amp; Disciplinary Commission (EDC) has upheld the US Chess Federation&#39;s one-year suspension of GM Christopher Yoo, and extended it to a global level, barring him from all FIDE-rated events until November. In addition, the 18-year-...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-hands-christopher-yoo-worldwide-ban-following-assault-incident",
-         "pubDate" : "Tue, 01 Jul 2025 05:38:00",
-         "title" : "FIDE Hands Christopher Yoo Worldwide Ban Following Assault Incident"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Ruben Quintans (Photo courtesy of the subject)<br> <br> <br> <br> Ruben Quintans of Georgia became the youngest player to cross the 2000 US Chess rating threshold, becoming an expert on June 24 after a fine showing at the one-game-a-week Chess Zone Game of the Week was rated. That tournament bumped him to a live rating of 2010, piggy-backing off his 47-point jump earlier in June after tying for second in the Under-2100 section of the Charlotte Chess Center's Carolinas Classic.At the age of 7 years, 2 months, and 6 days (as of June 24), Quintans broke GM Abhimanyu Mishra's record from 2016 by well over fou",
