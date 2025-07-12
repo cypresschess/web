@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second-round tiebreaks of the Women's World Cup saw major developments, including the early exit of defending champion Aleksandra Goryachkina at the hands of Meruert Kamalidenova (pictured). Alina Kashlinskaya was also eliminated, while several top seeds - such as Mariya Muzychuk, Kateryna Lagno and Alexandra Kosteniuk - were pushed to extended matches. Other notable qualifiers included Umida Omonova, Song Yuxin and Lu Miaoyi, who all advanced after strong performances in rapid and blitz. | Photo: Anna Shtourman / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-r2tb",
+         "pubDate" : "Sat, 12 Jul 2025 03:30:00",
+         "title" : "Women's World Cup: Kamalidenova knocks out Goryachkina, Omanova gets second upset win"
+      },
+      {
          "description" : "The 58th Biel Chess Festival, running from 12 to 25 July, offers a global celebration of chess with 16 tournaments spanning classical, rapid and blitz formats. With participants from 45 countries and events welcoming players of all backgrounds and abilities, the festival blends elite competition with cultural exchange. Highlights include the unique chess triathlons (Masters and Challengers), a Freestyle Chess tiebreaker and inspiring exhibitions tied to FIDE's Year of Social Chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/strategic-prevention",
          "pubDate" : "Fri, 11 Jul 2025 13:00:00",
          "title" : "Strategic prevention"
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
-         "pubDate" : "Fri, 11 Jul 2025 12:50:00",
-         "title" : "Women's World Cup - Live!"
       },
       {
          "description" : "In the last Freestyle Friday&#38;nbsp;before the July 16-20 Grand Slam event in Las Vegas, the final qualifier for the Grand Slam, GM Hans Niemann, won his first Freestyle Friday after several near-misses. Draws in the eighth and 10th rounds were all ...",
