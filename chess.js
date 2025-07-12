@@ -18,12 +18,28 @@ news_feed (
          "title" : "Review: Fritz 20 - A revolutionary leap forward in chess software"
       },
       {
+         "description" : "IM Vantika Agrawal followed up knocking out GM Anna Ushenina by beating seventh seed GM Kateryna Lagno as round three of the&#38;nbsp;2025 FIDE Women&#39;s World Cup began. There were six more wins, for GMs Lei Tingjie, Nana Dzagnidze, Mariya Muzychuk, Zh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-3-game-1",
+         "pubDate" : "Sat, 12 Jul 2025 14:46:00",
+         "title" : "Vantika Stuns Lagno As Women's World Cup Round 3 Begins"
+      },
+      {
          "description" : "Just one little shout-out before we get into today's article. My lovely wife Alessia has published a super fun video on her YouTube Channel where I watch her play blitz chess and give my Grandmaster take on her games. I had a blast recording it, and believe it makes for great chess entertainment, and some []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.com/deliberate-practice-in-chess/",
          "pubDate" : "Sat, 12 Jul 2025 13:00:00",
          "title" : "The 10,000-Hour Myth and What Really Matters"
+      },
+      {
+         "description" : "World number-two GM Hikaru Nakamura and his wife, WGM Atousa Pourkashiyan, announced today that they are expecting their first child. The news was shared during Nakamura&#38;rsquo;s Saturday stream on Kick, where the five-time U.S. champion appeared...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-expecting-first-child-with-wife-atousa-pourkashiyan",
+         "pubDate" : "Sat, 12 Jul 2025 12:50:00",
+         "title" : "Hikaru Nakamura & Atousa Pourkashiyan Share Baby News During Stream"
       },
       {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
@@ -722,14 +738,6 @@ news_feed (
          "title" : "Stronger Minor Piece Ending"
       },
       {
-         "description" : "With summer now in full swing (in the northern hemisphere), the July 1 Titled Tuesday events were both heated competitions, each ending in a three-way tie. After tiebreaks, GM Pranav Venkatesh and GM Parham Maghsoodloo emerged as the victors. GM P...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pranav-maghsoodloo-win-titled-tuesday-july-1-2025",
-         "pubDate" : "Wed, 02 Jul 2025 08:18:48",
-         "title" : "Pranav Repeats, Maghsoodloo Topples Carlsen"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122195869.cms\" />Indian chess sensation R Praggnanandhaa has broken into the world's top-4, securing the India's number-one rank after his UzChess Cup victory. Magnus Carlsen remains world number one, while D Gukesh slipped to sixth. Fabiano Caruana climbed to third, and Anish Giri re-entered the top-10. In a historic shift, no Russian player is in the top-10.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-2025-us-cadet-championship",
          "pubDate" : "Wed, 02 Jul 2025 00:00:00",
          "title" : "Wednesday Workout: 2025 US Cadet Championship"
-      },
-      {
-         "description" : "GM Praggnanandhaa Rameshbabu, on the way to winning the 2025 UzChess Cup, has gained 12 points to rise to world number-four and Indian number-one. At Norway Chess 2025 earlier in the month, GM Fabiano Caruana gained seven points to jump back to wo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/july-2025-fide-ratings",
-         "pubDate" : "Tue, 01 Jul 2025 13:28:00",
-         "title" : "July 2025 FIDE Ratings: Praggnanandhaa Climbs To World No. 4, Indian No. 1"
       },
       {
          "description" : "After a middling 2024, Pragg has rebounded in 2025 with three big titles that underline his Candidates bid.",
@@ -904,14 +904,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-sna-held-at-kandivali-on-24-25-may-2025/",
          "pubDate" : "Mon, 23 Jun 2025 07:57:18",
          "title" : "Certificate : SNA held at Kandivali on 24 & 25 May 2025"
-      },
-      {
-         "description" : " Hans Moke Niemann played Levon Aronian in an 18 game blitz match on Endgame.ai. Aronian won the final two games to win the match 9.5-8.5. I managed to retrieve the games from the server.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/hans-moke-niemann-vs-levon-aronian-blitz-match-2025",
-         "pubDate" : "Sat, 21 Jun 2025 21:30:00",
-         "title" : "Hans Moke Niemann vs Levon Aronian Blitz Match 2025 - Games and Results"
       }
    ]
 }
