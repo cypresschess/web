@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A recent column by the erudite Jeffrey Meyers reminded me that Joseph Conrad was a chess enthusiast and specifically a great admirer and student of Capablanca. Conrad, the enigmatic Anglo-Polish merchant naval officer, had originally been a subject of the Russian Tsars, whose empire incorporated Poland at that time. He rose to become one of the most []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/joseph-conrad-capa-fan/",
+         "pubDate" : "Sun, 13 Jul 2025 10:23:16",
+         "title" : "Joseph Conrad: Capa fan"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122417610.cms\" />India's Vantika Agrawal and Divya Deshmukh made significant strides at the FIDE World Women's Chess Cup, winning their first games and advancing towards the pre-quarterfinals. Vantika defeated Russia's Kateryna Lagno, while Divya overcame Serbia's Teodora Injac. Top-rated Koneru Humpy, D Harika, and R Vaishali drew their respective matches, as Lei Tingjei of China secured a victory.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-divya-deshmukh-vantika-agrawal-share-lead-after-3rd-round-opener-close-in-on-pre-quarterfinals/articleshow/122417610.cms",
+         "pubDate" : "Sun, 13 Jul 2025 09:58:32",
+         "title" : "Chess WC: Divya, Vantika share lead after 3rd-round opener, close in on pre-quarterfinals"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122417408.cms\" />A Ra Harikrishnan from Chennai becomes India's 87th Grandmaster. He achieved his final GM norm in France. Earlier, he secured norms in Switzerland and Spain. Harikrishnan aims for a 2600 rating. His coach, Shyam Sundar, emphasizes the importance of openings for further progress. Harikrishnan is now focused on upcoming tournaments in Morocco, Spain and Portugal.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-india-gets-87th-grandmaster-after-harikrishnan-a-ra-achieves-his-final-gm-norm-in-france/articleshow/122417408.cms",
+         "pubDate" : "Sun, 13 Jul 2025 09:21:54",
+         "title" : "India gets 87th Grandmaster after Harikrishnan A Ra achieves his final GM norm in France"
+      },
+      {
          "description" : "Let's continue with ChessBase 18's powerful training tool \"Replay Training\": Replay Training! We already introduced you to this super feature in the last article, and in this tutorial, we'll show you some additional features that will help you noticeably improve your playing strength in a fun way. Let's continue ...!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -738,28 +762,12 @@ news_feed (
          "title" : "Praggnanandhaa wins the Uzchess Cup Masters - 1-9"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122205566.cms\" />Indian Grandmaster Praggnanandhaa suggests top chess players like Carlsen and Nakamura are shifting away from classical chess due to its demanding preparation and mental fatigue. He highlights the extensive opening preparation required in classical games, contrasting it with the freedom of freestyle chess. Praggnanandhaa acknowledges his preference for faster formats but emphasizes classical chess remains fundamental.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-india-no-1-r-praggnanandhaa-makes-honest-admission-its-difficult-to-play-classical/articleshow/122205566.cms",
-         "pubDate" : "Wed, 02 Jul 2025 11:43:12",
-         "title" : "Praggnanandhaa makes honest admission: 'It's difficult to play classical'"
-      },
-      {
          "description" : "The strategic advantage of a good bishop vs. an inferior knight is determined by the pawn structure. Specifically, the bishop is superior to the knight when no pawns exist in the centre, but there are pawns on both flanks. International trainer GM Efstratios Grivas shows us how this kind of ending can best be handled, and does it with a game recently played in a top-level tournament.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/stronger-minor-piece-ending",
          "pubDate" : "Wed, 02 Jul 2025 09:00:00",
          "title" : "Stronger Minor Piece Ending"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122195869.cms\" />Indian chess sensation R Praggnanandhaa has broken into the world's top-4, securing the India's number-one rank after his UzChess Cup victory. Magnus Carlsen remains world number one, while D Gukesh slipped to sixth. Fabiano Caruana climbed to third, and Anish Giri re-entered the top-10. In a historic shift, no Russian player is in the top-10.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-ratings-magnus-carlsen-still-reigns-praggnanandhaa-breaks-into-world-top-4/articleshow/122195869.cms",
-         "pubDate" : "Wed, 02 Jul 2025 04:12:08",
-         "title" : "FIDE Ratings: Magnus Carlsen still reigns; Praggnanandhaa breaks into World Top 4"
       },
       {
          "description" : "This week's puzzles comes from the 2025 US Cadet Championship, where 14-year-old IM-elect Tani Adewumi repeated his 2024 feat of a 6/7 victory for clear first. Read our full report here and check out yesterday's Tactics Tuesday for more puzzles from this event. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
