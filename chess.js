@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Tanitoluwa &#8220;Tani&#8221; Adewumi finished a strong performance at the 2025 World Open after winning the Cadet Championship a couple of weeks earlier. It was his second consecutive title, only months after finishing the rating requirements for the IM title. FM Tanitoluwa &#8220;Tani&#8221; Adewumi (2397-USA) # Player ELO Nation Flag Result 1 Vishva Nanugonda 2075 USA The post <a href=\"https://thechessdrum.net/blog/2025/07/12/cadet-champ-tani-adewumi-strong-at-world-open/\">Cadet Champ Tani Adewumi strong at World Open</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/07/12/cadet-champ-tani-adewumi-strong-at-world-open/",
+         "pubDate" : "Sun, 13 Jul 2025 02:10:41",
+         "title" : "Cadet Champ Tani Adewumi strong at World Open"
+      },
+      {
          "description" : "Whether strategy, technique or opening knowledge - the June releases from ChessBase fulfil all your chess needs! Renowned authors such as David Navara, Robert Ris and Andrew Martin open their chess brains to you, and offer a host of professional tips. For those who want everything at once, ChessBase Magazine 226 is the perfect choice. It once again features lots of training material from the pro lab. Attention opening fans: There are many new Powerbases and Powerbooks! Just take a look at last month's products:",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/review-all-new-releases-in-june",
          "pubDate" : "Sat, 12 Jul 2025 18:00:00",
          "title" : "Review: All new releases in June!"
+      },
+      {
+         "description" : "Bullet Brawl&#39;s all-time title leader GM Hikaru Nakamura outpaced 156 titled players in Saturday&#39;s event moments after announcing that he and his wife, WGM Atousa Pourkashiyan, are expecting their first child. While streaming live on Kick, Nakamu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-july-12-2025",
+         "pubDate" : "Sat, 12 Jul 2025 17:33:00",
+         "title" : "Nakamura Wins 3rd Straight Bullet Brawl Following Baby Announcement"
       },
       {
          "description" : "After 34 years of continuous development, ChessBase has released Fritz 20, marking the twentieth iteration of one of the most influential chess programs in history. This latest version represents a significant evolution in chess software, combining cutting-edge artificial intelligence with innovative human-like playing concepts that promise to transform how players train and improve their game. | Text and Photos: Paul Harwood (betterchess.net)",
@@ -712,14 +728,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/praggnanandhaa-wins-the-uzchess-cup-masters",
          "pubDate" : "Wed, 2 Jul 2025 16:10:00",
          "title" : "Praggnanandhaa wins the Uzchess Cup Masters - 1-9"
-      },
-      {
-         "description" : "World Champion Gukesh Dommaraju and world number-one Magnus Carlsen will meet again on day two of the 2025 SuperUnited Croatia Rapid &#38;amp; Blitz after ending day one tied for the lead on 4/6 together with GMs Wesley So and Jan-Krzysztof Duda. Guke...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-superunited-croatia-rapid-blitz-day-1",
-         "pubDate" : "Wed, 02 Jul 2025 15:39:00",
-         "title" : "Carlsen, Gukesh, Duda, So Lead As Croatia Rapid & Blitz Begins"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122205566.cms\" />Indian Grandmaster Praggnanandhaa suggests top chess players like Carlsen and Nakamura are shifting away from classical chess due to its demanding preparation and mental fatigue. He highlights the extensive opening preparation required in classical games, contrasting it with the freedom of freestyle chess. Praggnanandhaa acknowledges his preference for faster formats but emphasizes classical chess remains fundamental.",
