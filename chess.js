@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 58th Biel Chess Festival, running from 12 to 25 July, offers a global celebration of chess with 16 tournaments spanning classical, rapid and blitz formats. The main events are the Triathlons, with a Masters and a Challengers section, each including six ambitious top competitors. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2025-live",
+         "pubDate" : "Sun, 13 Jul 2025 14:00:00",
+         "title" : "Biel Chess Festival - Live!"
+      },
+      {
+         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
+         "pubDate" : "Sun, 13 Jul 2025 12:50:00",
+         "title" : "Women's World Cup - Live!"
+      },
+      {
          "description" : "A recent column by the erudite Jeffrey Meyers reminded me that Joseph Conrad was a chess enthusiast and specifically a great admirer and student of Capablanca. Conrad, the enigmatic Anglo-Polish merchant naval officer, had originally been a subject of the Russian Tsars, whose empire incorporated Poland at that time. He rose to become one of the most []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -34,7 +50,7 @@ news_feed (
          "title" : "ChessBase 18 - Beginner's Tips Part 22: Maximum training effect with the 'Replay Training' power tool (Part 2)"
       },
       {
-         "description" : " Tanitoluwa &#8220;Tani&#8221; Adewumi finished a strong performance at the 2025 World Open after winning the Cadet Championship a couple of weeks earlier. It was his second consecutive title, only months after finishing the rating requirements for the IM title. FM Tanitoluwa &#8220;Tani&#8221; Adewumi (2397-USA) # Player ELO Nation Flag Result 1 Vishva Nanugonda 2075 USA The post <a href=\"https://thechessdrum.net/blog/2025/07/12/cadet-champ-tani-adewumi-strong-at-world-open/\">Cadet Champ Tani Adewumi strong at World Open</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Tanitoluwa &#8220;Tani&#8221; Adewumi finished a strong performance at the 2025 World Open after winning the Cadet Championship a couple of weeks earlier. It was his second consecutive title, only months after finishing the rating requirements for the IM title. So far, 2025 has been a great year. FM Tanitoluwa &#8220;Tani&#8221; Adewumi (2397-USA) # Player ELO The post <a href=\"https://thechessdrum.net/blog/2025/07/12/cadet-champ-tani-adewumi-strong-at-world-open/\">Cadet Champ Tani Adewumi strong at World Open</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/07/12/cadet-champ-tani-adewumi-strong-at-world-open/",
@@ -90,14 +106,6 @@ news_feed (
          "title" : "Hikaru Nakamura & Atousa Pourkashiyan Share Baby News During Stream"
       },
       {
-         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
-         "pubDate" : "Sat, 12 Jul 2025 12:50:00",
-         "title" : "Women's World Cup - Live!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122403250.cms\" />Indian International Master (IM) Vantika Agrawal triumphed over former world champion Anna Ushenina in a tie-breaker, advancing to the third round of the FIDE Women's World Cup 2025. Despite some challenges in earlier games, Vantika's focused strategy secured her victory. Meanwhile, Padmini Rout and Priyanka K were eliminated, while four other Indian players progressed to the next round.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -136,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-world-cup-2025-r2tb",
          "pubDate" : "Sat, 12 Jul 2025 03:30:00",
          "title" : "Women's World Cup: Kamalidenova knocks out Goryachkina, Omanova gets second upset win"
-      },
-      {
-         "description" : "The 58th Biel Chess Festival, running from 12 to 25 July, offers a global celebration of chess with 16 tournaments spanning classical, rapid and blitz formats. With participants from 45 countries and events welcoming players of all backgrounds and abilities, the festival blends elite competition with cultural exchange. Highlights include the unique chess triathlons (Masters and Challengers), a Freestyle Chess tiebreaker and inspiring exhibitions tied to FIDE's Year of Social Chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2025-preview",
-         "pubDate" : "Fri, 11 Jul 2025 20:20:00",
-         "title" : "Biel Chess Festival: All set for a vibrant 58th edition"
       },
       {
          "description" : "Twelve players made it through the tiebreaks of round two in the 2025 FIDE Women&#39;s World Cup. They were GM Mariya Muzychuk, IM Meruert Kamalidenova, GM Kateryna Lagno, GM Anna Muzychuk, GM Alexandra Kosteniuk, WIM Umida Omonova, IM Lu Miaoyi, IM V...",
