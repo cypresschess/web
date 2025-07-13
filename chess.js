@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Kateryna Lagno and Valentina Gunina struck back against IM Vantika Agrawal and GM Nana Dzagnidze to take their 2025 FIDE Women&#39;s World Cup round three matches to tiebreaks. Four more matches will be decided Monday, while 10 players are through...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-3-game-2",
+         "pubDate" : "Sun, 13 Jul 2025 14:59:50",
+         "title" : "Gunina, Lagno Strike Back To Force Tiebreaks"
+      },
+      {
          "description" : "The 58th Biel Chess Festival, running from 12 to 25 July, offers a global celebration of chess with 16 tournaments spanning classical, rapid and blitz formats. The main events are the Triathlons, with a Masters and a Challengers section, each including six ambitious top competitors. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-superunited-croatia-rapid-blitz-day-2",
          "pubDate" : "Thu, 03 Jul 2025 14:22:00",
          "title" : "Gukesh Stuns Carlsen Again, Wins 5 In A Row"
-      },
-      {
-         "description" : "Armenian chess is in mourning following the passing of GM Tigran Nalbandian, a beloved coach and player who played a central role in the rise of chess in his nation over the last two decades.&#38;nbsp; Nalbandian died of a heart attack last week in ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gm-tigran-nalbandian-passes-away-at-50",
-         "pubDate" : "Thu, 03 Jul 2025 11:01:00",
-         "title" : "GM Tigran Nalbandian (1975-2025)"
       },
       {
          "description" : "The UK Open Blitz Championship returns in 2025, featuring an expanded format with 16 qualifiers in 14 cities around the United Kingdom. Eldar Gasanov will be aiming for a hat-trick...",
