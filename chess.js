@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Let's continue with ChessBase 18's powerful training tool \"Replay Training\": Replay Training! We already introduced you to this super feature in the last article, and in this tutorial, we'll show you some additional features that will help you noticeably improve your playing strength in a fun way. Let's continue ...!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-beginner-s-tips-part-22-maximum-training-effect-with-the-replay-training-power-tool-part-2",
+         "pubDate" : "Sun, 13 Jul 2025 07:00:00",
+         "title" : "ChessBase 18 - Beginner's Tips Part 22: Maximum training effect with the 'Replay Training' power tool (Part 2)"
+      },
+      {
          "description" : " Tanitoluwa &#8220;Tani&#8221; Adewumi finished a strong performance at the 2025 World Open after winning the Cadet Championship a couple of weeks earlier. It was his second consecutive title, only months after finishing the rating requirements for the IM title. FM Tanitoluwa &#8220;Tani&#8221; Adewumi (2397-USA) # Player ELO Nation Flag Result 1 Vishva Nanugonda 2075 USA The post <a href=\"https://thechessdrum.net/blog/2025/07/12/cadet-champ-tani-adewumi-strong-at-world-open/\">Cadet Champ Tani Adewumi strong at World Open</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
