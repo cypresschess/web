@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "IM Song Yuxin has joined fellow 19-year-olds IM Meruert Kamalidenova and IM Umida Omonova in round four of the&#38;nbsp;2025 FIDE Women&#39;s World Cup after knocking out GM Anna Muzychuk in round-three tiebreaks. In the six tiebreak matches only one play...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-3-tiebreaks",
+         "pubDate" : "Mon, 14 Jul 2025 16:10:09",
+         "title" : "19-year-old Song Yuxin Knocks Out 5th Seed Anna Muzychuk"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -680,14 +688,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-superunited-croatia-rapid-blitz-day-3",
          "pubDate" : "Fri, 04 Jul 2025 16:30:00",
          "title" : "Gukesh Takes 3-Point Lead Into Blitz Showdown"
-      },
-      {
-         "description" : "GM Hikaru Nakamura became the first player to win five Freestyle Fridays on July 4 after scoring an undefeated 10/11, following his first perfect run in last week&#39;s edition. Nakamura has now gone 29 games without a loss in Freestyle Fridays, with ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-freestyle-friday-july-4-2025",
-         "pubDate" : "Fri, 04 Jul 2025 16:29:00",
-         "title" : "Nakamura Conquers Arjun In 10 Moves, Becomes First Player To Win 5 Freestyle Fridays"
       },
       {
          "description" : " A poor outing from Ian Nepomniachtchi brought up an unlikely first but Serjey Karjakin made a strong comeback at Blitz last week It would have been inconceivable in the glory days of the Soviet chess empire. For the first time since 1971 when Fide, the world chess body, began publishing its rating lists - then annually and now monthly - there are no Russians ranked in the classical world top 10. Bobby Fischer was No 1 in the first Fide list, published on the eve of his Reykjavik match with Boris Spassky, but after Fischer gave up active play Anatoly Karpov and Garry Kasparov took over. In 1970, when the USSR team defeated the Rest of the World, or in the decades when Mikhail Botvinnik, Karp",
