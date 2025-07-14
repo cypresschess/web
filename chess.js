@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GMs Kateryna Lagno and Valentina Gunina struck back against IM Vantika Agrawal and GM Nana Dzagnidze to take their 2025 FIDE Women&#39;s World Cup round three matches to tiebreaks. Four more matches will be decided Monday, while 10 players are through...",
+         "description" : " Brewington Hardaway was one of nine recipients of the Samford Fellowship, awarded to players of tremendous promise. Most of the players are well-known in scholastic circles, having earned All-American honors. Hardaway, who earned his Grandmaster title early this year, is the first African-American to receive the Samford award. Photo from X (Brewington Hardaway) In its The post <a href=\"https://thechessdrum.net/blog/2025/07/13/brewington-hardaway-receives-samford-fellow/\">Brewington Hardaway receives Samford Fellow!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/07/13/brewington-hardaway-receives-samford-fellow/",
+         "pubDate" : "Sun, 13 Jul 2025 23:36:50",
+         "title" : "Brewington Hardaway receives Samford Fellow!"
+      },
+      {
+         "description" : "GMs Kateryna Lagno and Valentina Gunina struck back against IM Vantika Agrawal and GM Nana Dzagnidze, respectively, to take their 2025 FIDE Women&#39;s World Cup round-three matches to tiebreaks. Four more matches will be decided Monday, while 10 play...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-3-game-2",
-         "pubDate" : "Sun, 13 Jul 2025 14:59:50",
+         "pubDate" : "Sun, 13 Jul 2025 14:59:00",
          "title" : "Gunina, Lagno Strike Back To Force Tiebreaks"
       },
       {
