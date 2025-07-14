@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
+         "pubDate" : "Mon, 14 Jul 2025 12:50:00",
+         "title" : "Women's World Cup - Live!"
+      },
+      {
+         "description" : "How should a positional player begin with White - 1.d4 or 1.Nf3? In his Fritztrainer course, Sipke Ernst presents a practical 1.d4 repertoire. And in his Grandmaster course on 1.Nf3, Felix Blohberger also focuses on teaching ideas rather than memorizing lines. It's a tough choice! Stay flexible and take a look at both courses - this week (July 14-20), they're available at a Summer Special price.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/summer-special-for-positional-and-strategic-players-a-1-d4-and-a-1-nf3-repertoire",
+         "pubDate" : "Mon, 14 Jul 2025 10:43:17",
+         "title" : "Summer Special: For positional and strategic players: A 1.d4 and a 1.Nf3 repertoire"
+      },
+      {
+         "description" : "The Grandmaster Triathlon began on Sunday in Biel with the discipline of rapid chess. After five games of rapid chess the two favourites, Vladimir Fedoseev and Aravindh Chithambaram (pictured), lead in the Masters. Wojtaszek, the 2020 Biel winner, is lurking just behind them. Theodorou took the lead in the Challengers, remaining undefeated, as did his closest rival Hakobyan. GM Benjamin Bok won the open rapid one-day-tournament. The Dutchman prevailed against 149 competitors ahead of GM Mikhail Kobalia and Chen Yuan. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/start-of-the-grand-master-triathlon-favourites-already-in-the-lead",
+         "pubDate" : "Mon, 14 Jul 2025 10:08:59",
+         "title" : "Biel: Start of the Grand Master Triathlon - favourites take the lead"
+      },
+      {
          "description" : "With an opening press conference at Wynn Las Vegas, Freestyle Chess has officially launched its first-ever U.S. event: a full week of chess, celebrity, and competition. The week began with the Chesstival on July 13, and will continue with the $750,000 Freestyle Chess Grand Slam from July 16 to 20. | Photo: freestyle_chess and wwwchesscom",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/freestyle-chess-kicks-off-landmark-week-in-las-vegas",
          "pubDate" : "Mon, 14 Jul 2025 09:08:35",
          "title" : "Freestyle Chess Kicks Off Landmark Week in Las Vegas"
+      },
+      {
+         "description" : "Free monthly magazine! Get a rating! Join England's chess community! Become a member today at https://www.englishchess.org.uk/join-us/",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/are-you-game-summer-special-membership-offer-with-chessmood/",
+         "pubDate" : "Mon, 14 Jul 2025 08:00:49",
+         "title" : "Free monthly magazine! Get a rating! Join England's chess community!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122429985.cms\" />Koneru Humpy and Divya Deshmukh secured their spots in the FIDE Women's World Cup's last 16 with impressive victories. Humpy crushed Klaudia Kulon, while Deshmukh drew against Teodora Injac. Vaishali, Harika, and Vantika will compete in tie-break rounds after drawing their classical games.",
@@ -32,22 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-3-game-2",
          "pubDate" : "Sun, 13 Jul 2025 14:59:00",
          "title" : "Gunina, Lagno Strike Back To Force Tiebreaks"
-      },
-      {
-         "description" : "The 58th Biel Chess Festival, running from 12 to 25 July, offers a global celebration of chess with 16 tournaments spanning classical, rapid and blitz formats. The main events are the Triathlons, with a Masters and a Challengers section, each including six ambitious top competitors. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2025-live",
-         "pubDate" : "Sun, 13 Jul 2025 14:00:00",
-         "title" : "Biel Chess Festival - Live!"
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
-         "pubDate" : "Sun, 13 Jul 2025 12:50:00",
-         "title" : "Women's World Cup - Live!"
       },
       {
          "description" : "A recent column by the erudite Jeffrey Meyers reminded me that Joseph Conrad was a chess enthusiast and specifically a great admirer and student of Capablanca. Conrad, the enigmatic Anglo-Polish merchant naval officer, had originally been a subject of the Russian Tsars, whose empire incorporated Poland at that time. He rose to become one of the most []",
@@ -936,14 +952,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/06/23/josh-colas-biography-out/",
          "pubDate" : "Mon, 23 Jun 2025 13:26:48",
          "title" : "Josh Colas biography out!"
-      },
-      {
-         "description" : "Please find the certificates here SL No Candidate Name 1 Ganesh Hadawle 2 Gajengi Rajababu 3 Rakhi Patil 4 Pramila Shivaji Hole 5 Janardhanan 6",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-sna-held-at-kandivali-on-24-25-may-2025/",
-         "pubDate" : "Mon, 23 Jun 2025 07:57:18",
-         "title" : "Certificate : SNA held at Kandivali on 24 & 25 May 2025"
       }
    ]
 }
