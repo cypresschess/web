@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With an opening press conference at Wynn Las Vegas, Freestyle Chess has officially launched its first-ever U.S. event: a full week of chess, celebrity, and competition. The week began with the Chesstival on July 13, and will continue with the $750,000 Freestyle Chess Grand Slam from July 16 to 20. | Photo: freestyle_chess and wwwchesscom",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-kicks-off-landmark-week-in-las-vegas",
+         "pubDate" : "Mon, 14 Jul 2025 09:08:35",
+         "title" : "Freestyle Chess Kicks Off Landmark Week in Las Vegas"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122429985.cms\" />Koneru Humpy and Divya Deshmukh secured their spots in the FIDE Women's World Cup's last 16 with impressive victories. Humpy crushed Klaudia Kulon, while Deshmukh drew against Teodora Injac. Vaishali, Harika, and Vantika will compete in tie-break rounds after drawing their classical games.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-womens-world-cup-koneru-humpy-divya-deshmukh-seal-pre-quarter-berths/articleshow/122429985.cms",
+         "pubDate" : "Mon, 14 Jul 2025 05:41:50",
+         "title" : "Chess | Women's World Cup: Koneru Humpy, Divya Deshmukh seal pre-quarter berths"
+      },
+      {
          "description" : " Brewington Hardaway was one of nine recipients of the Samford Fellowship, awarded to players of tremendous promise. Most of the players are well-known in scholastic circles, having earned All-American honors. Hardaway, who earned his Grandmaster title early this year, is the first African-American to receive the Samford award. Photo from X (Brewington Hardaway) In its The post <a href=\"https://thechessdrum.net/blog/2025/07/13/brewington-hardaway-receives-samford-fellow/\">Brewington Hardaway receives Samford Fellow!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-1st-july-2025",
          "pubDate" : "Wed, 2 Jul 2025 20:23:00",
          "title" : "Titled Tuesday Blitz 1st July 2025 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122209960.cms\" />Magnus Carlsen and Gukesh Dommaraju's rivalry intensifies at the SuperUnited Rapid & Blitz in Zagreb, fueled by Carlsen's dismissive remarks about Gukesh's rapid and blitz capabilities. Carlsen, returning to Zagreb after missing last year due to his mother's passing, aims to dominate in his preferred formats against a world-class field including Gukesh, Praggnanandhaa, and Caruana.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-d-gukesh-hasnt-done-anything-to-do-well-magnus-carlsen-fires-fresh-shots-at-world-chess-champion/articleshow/122209960.cms",
-         "pubDate" : "Wed, 02 Jul 2025 16:16:37",
-         "title" : "'Gukesh hasn't done anything to do well': Carlsen fires fresh shots"
       },
       {
          "description" : " Praggnanandhaa won the <a href=\"https://theweekinchess.com/chessnews/events/2nd-uzchess-cup-2025\">Uzchess Cup</a>, Masters in Tashkent that finished on June 27th and consolidated his lead in the 2025 FIDE Circuit (chessnumbers article on chess.com: <a href=\"https://www.chess.com/article/view/fide-circuit-june-update\"</a>can Praggnanandhaa be caught, spoiler, yes!), winning that has a first prize of a Candidates place. Praggnanandhaa had to beat the long time leader Nodirbek Abdusattorov with the black pieces in the final round. Praggnanandhaa emerged as winner only after two blitz tie-breaks against Abdusattorov and Javokhir Sindarov. The event will be likely remembered for Richard Rapport'",
