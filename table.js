@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-07-13","7","<a href=http://www.uschess.org/msa/XtblMain.php?202507133392 target='_blank'>BELLAIRE SWISS 07/13/2025</a>",
 "HOUSTON","2025-07-12","97","<a href=http://www.uschess.org/msa/XtblMain.php?202507122642 target='_blank'>2025 HOUSTON CHESS FESTIVAL SCHOLAS</a>",
 "HOUSTON","2025-07-12","5","<a href=http://www.uschess.org/msa/XtblMain.php?202507122222 target='_blank'>CHESSPANDA07122025SATURDAY</a>",
 "SPRING","2025-07-11","25","<a href=http://www.uschess.org/msa/XtblMain.php?202507111762 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-12-29","16","<a href=http://www.uschess.org/msa/XtblMain.php?202412293202 target='_blank'>SUNDAY SWISS AT NOON DEC 29TH</a>",
 "CYPRESS","2024-12-27","21","<a href=http://www.uschess.org/msa/XtblMain.php?202412272562 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2024-12-27","18","<a href=http://www.uschess.org/msa/XtblMain.php?202412272452 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2024-12-22","20","<a href=http://www.uschess.org/msa/XtblMain.php?202412220542 target='_blank'>SUNDAY SWISS AT NOON DEC. 22ND</a>",
 ]);
