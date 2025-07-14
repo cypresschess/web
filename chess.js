@@ -34,6 +34,14 @@ news_feed (
          "title" : "Freestyle Chess Kicks Off Landmark Week in Las Vegas"
       },
       {
+         "description" : "We&#38;rsquo;re excited to announce that you can now play chess against Steve Aoki&#38;rsquo;s very own bot on Chess.com! Put on your favorite Steve Aoki track, turn up the volume, and get ready for a high-energy chess match with one of music&#39;s most dynam...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/steve-aoki-bot",
+         "pubDate" : "Mon, 14 Jul 2025 08:18:00",
+         "title" : "Play Chess Against Superstar DJ And Producer Steve Aoki's Bot On Chess.com"
+      },
+      {
          "description" : "Free monthly magazine! Get a rating! Join England's chess community! Become a member today at https://www.englishchess.org.uk/join-us/",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -738,14 +746,6 @@ news_feed (
          "title" : "European Youth Team Chess Championship 2025 starts in Slovenia"
       },
       {
-         "description" : "World Champion Gukesh Dommaraju has done it again, beating world number-one Magnus Carlsen from a losing position to take the sole lead in the 2025 SuperUnited Croatia Rapid &#38;amp; Blitz. &#34;Now we can question Magnus&#39; domination,&#34; said 13th World Ch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-superunited-croatia-rapid-blitz-day-2",
-         "pubDate" : "Thu, 03 Jul 2025 14:22:00",
-         "title" : "Gukesh Stuns Carlsen Again, Wins 5 In A Row"
-      },
-      {
          "description" : "The UK Open Blitz Championship returns in 2025, featuring an expanded format with 16 qualifiers in 14 cities around the United Kingdom. Eldar Gasanov will be aiming for a hat-trick...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -944,14 +944,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-chess-championships-festival/",
          "pubDate" : "Tue, 24 Jun 2025 17:30:54",
          "title" : "British Chess Championships Festival"
-      },
-      {
-         "description" : " Guy Colas has just written a book on his son, FM Josh Colas, titled Mastering the Chessboard: A Black Prodigy's Journey Through the Chess World. It appears to be a story of a chess parent watching the progress of their child and witnessing the valuable lessons learned through chess study and competition. It seems that The post <a href=\"https://thechessdrum.net/blog/2025/06/23/josh-colas-biography-out/\">Josh Colas biography out!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/06/23/josh-colas-biography-out/",
-         "pubDate" : "Mon, 23 Jun 2025 13:26:48",
-         "title" : "Josh Colas biography out!"
       }
    ]
 }
