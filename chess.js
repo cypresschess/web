@@ -58,6 +58,14 @@ news_feed (
          "title" : "Chess | Women's World Cup: Koneru Humpy, Divya Deshmukh seal pre-quarter berths"
       },
       {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of Anna Shtourman/FIDE<br> <br> <br> <br> India's GM Vaishali Rameshbabu knocked IM Carissa Yip, the last American standing, out of the 2025 FIDE Women's World Cup in the third round. Yip went down fighting in a 4-2 loss to Indian GM Vaishali Rameshbabu that saw Yip unable to convert a significant advantage in each of Monday's first two tie-breaker games before momentum swung back to Vaishali.The first classical game saw an interesting choice from Yip, who essentially accepted an early draw offer with the white pieces: Yip was able to create more double-edged play in the second classical ga",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/vaishali-knocks-out-yip-top-seeds-advance-2025-fide-womens-world-cup",
+         "pubDate" : "Mon, 14 Jul 2025 00:00:00",
+         "title" : "Vaishali Knocks Out Yip, Top Seeds Advance at 2025 FIDE Women's World Cup"
+      },
+      {
          "description" : " Brewington Hardaway was one of nine recipients of the Samford Fellowship, awarded to players of tremendous promise. Most of the players are well-known in scholastic circles, having earned All-American honors. Hardaway, who earned his Grandmaster title early this year, is the first African-American to receive the Samford award. Photo from X (Brewington Hardaway) In its The post <a href=\"https://thechessdrum.net/blog/2025/07/13/brewington-hardaway-receives-samford-fellow/\">Brewington Hardaway receives Samford Fellow!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45624957/fide-chess-rankings-july-2025-d-gukesh-r-praggnanandhaa-magnus-carlsen-koneru-humpy-r-vaishali-arjun-erigaisi?device=featurephone",
          "pubDate" : "Tue, 1 Jul 2025 05:50:00",
          "title" : "FIDE Chess rankings for July: R Praggnanandhaa becomes India no.1 in classical"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Ruben Quintans (Photo courtesy of the subject)<br> <br> <br> <br> Ruben Quintans of Georgia became the youngest player to cross the 2000 US Chess rating threshold, becoming an expert on June 24 after a fine showing at the one-game-a-week Chess Zone Game of the Week was rated. That tournament bumped him to a live rating of 2010, piggy-backing off his 47-point jump earlier in June after tying for second in the Under-2100 section of the Charlotte Chess Center's Carolinas Classic.At the age of 7 years, 2 months, and 6 days (as of June 24), Quintans broke GM Abhimanyu Mishra's record from 2016 by well over fou",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/ruben-quintans-breaks-mishras-record-becomes-youngest-ever-us-chess-expert",
-         "pubDate" : "Tue, 01 Jul 2025 00:00:00",
-         "title" : "Ruben Quintans Breaks Mishra's Record, Becomes Youngest Ever US Chess Expert"
       },
       {
          "description" : "3Cs (Children's Chess Club) were not only very honoured to welcome the Mayor and Mayoress of Oldham to one of their weekly club nights but were also delighted that chess...",
