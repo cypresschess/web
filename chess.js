@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 58th Biel Chess Festival, running from 12 to 25 July, offers a global celebration of chess with 16 tournaments spanning classical, rapid and blitz formats. The main events are the Triathlons, with a Masters and a Challengers section, each including six ambitious top competitors. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2025-live",
+         "pubDate" : "Tue, 15 Jul 2025 14:00:00",
+         "title" : "Biel Chess Festival - Live!"
+      },
+      {
          "description" : "After playing the Accentus 960 tournament and the Rapid tournament, the grandmasters of the Masters and Challengers could enjoy a rest day before they start to play classical chess on Tuesday. Meanwhile, the players in the Masters Open began their tournament. Murali Karthikeyan is the Elo favourite and started with a win. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/freestyle-chess-nba-star-quinten-post-crowned-first-ever-nba-chess-champion-at-inaugural-chesstival",
          "pubDate" : "Tue, 15 Jul 2025 08:49:47",
          "title" : "Freestyle Chess: NBA Star Quinten Post Crowned First Ever NBA Chess Champion at Inaugural Chesstival"
+      },
+      {
+         "description" : "Today's puzzles continue a series featuring games from the 2025 FIDE World Cadets Cup. Read our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cadets-cup-pt-2",
+         "pubDate" : "Tue, 15 Jul 2025 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Cadets Cup, Pt. 2"
+      },
+      {
+         "description" : "This year's U.S. Junior Championship, Girls' Junior Championship, and Senior Championship all kick off Tuesday, July 16, at the Saint Louis Chess Club (SLCC). Stay tuned to Chess Life Online for round-by-round coverage, featuring annotated games and highlights, of each round. Read on below to see what to expect from this year's tournaments. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The youngest-ever GM claimed his first U.S. Junior Championship, and it might not be his last (courtesy Lennart Ootes/SLCC)<br> <br> <br> <br> Of the ten players competing for a spot in October's U.S. Championship, five veterans are joined by five newcomers in the U.S.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-us-junior-girls-junior-and-senior-championship-preview",
+         "pubDate" : "Tue, 15 Jul 2025 00:00:00",
+         "title" : "2025 U.S. Junior, Girls' Junior, and Senior Championship Preview"
       },
       {
          "description" : "Basketball and chess pros joined forces in the latest sports-and-chess crossover event, the Chesstival, which took place the weekend before the Las Vegas Freestyle Grand Slam, which begins on Wednesday. Grant Williams, of the Charlotte Hornets, wo...",
@@ -786,14 +810,6 @@ news_feed (
          "title" : "India Shines at Fide World Cadet Chess Cup in Georgia with 7 Medals"
       },
       {
-         "description" : "22 Americans participated across the six sections of the FIDE World Cadets Cup in Batumi, Georgia from June 23 through July 2. CM Chenxuan Ling won a silver medal in the Under-12 Open section, making him the only American medalist. CM Ethan Guo, also in the Under-12 Open section, came close, however, finishing fourth after taking his match for bronze all the way to sudden death blitz tie-breaks. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Chenxuan Ling (L) finished second behind Sameh Mohamed Abdalrahman. Russia's Bulgak Damir (R) won bronze over American CM Ethan Guo after a blitz playoff in their head-to-head match. (Photo courtesy of FIDE)<br> <",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/chenxuan-ling-wins-silver-fide-world-cadets-cup",
-         "pubDate" : "Thu, 03 Jul 2025 00:00:00",
-         "title" : "Chenxuan Ling Wins Silver at FIDE World Cadets Cup"
-      },
-      {
          "description" : " The Titled Tuesday Blitz 1st July 2025 events saw V Pranav win the early on tie-break from M Pranesh and Denis Lazavik after all scored 9.5/11 and in the late Parham Maghsoodloo won on tie-break from the youngster Yagiz Kaan Erdogmus and Nguyen Ngoc Truong Son.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -816,14 +832,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/stronger-minor-piece-ending",
          "pubDate" : "Wed, 02 Jul 2025 09:00:00",
          "title" : "Stronger Minor Piece Ending"
-      },
-      {
-         "description" : "This week's puzzles comes from the 2025 US Cadet Championship, where 14-year-old IM-elect Tani Adewumi repeated his 2024 feat of a 6/7 victory for clear first. Read our full report here and check out yesterday's Tactics Tuesday for more puzzles from this event. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2025-us-cadet-championship",
-         "pubDate" : "Wed, 02 Jul 2025 00:00:00",
-         "title" : "Wednesday Workout: 2025 US Cadet Championship"
       },
       {
          "description" : "After a middling 2024, Pragg has rebounded in 2025 with three big titles that underline his Candidates bid.",
