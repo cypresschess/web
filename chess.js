@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The chess world is showing increasing interest in what many now refer to as \"Freestyle Chess.\" Having served as Chief Arbiter at two such events this year - one in Weissenhaus, Germany in February and another in Paris, France in April - Gerhard Bertagnolli has encountered a number of unique challenges. These are worth sharing, as Freestyle Chess differs from classical chess in several subtle yet significant ways.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arbiting-a-freestyle-event",
+         "pubDate" : "Tue, 15 Jul 2025 18:00:00",
+         "title" : "Arbiting a Freestyle Event"
+      },
+      {
          "description" : "The 58th Biel Chess Festival, running from 12 to 25 July, offers a global celebration of chess with 16 tournaments spanning classical, rapid and blitz formats. The main events are the Triathlons, with a Masters and a Challengers section, each including six ambitious top competitors. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/biel-festival-2025-live",
          "pubDate" : "Tue, 15 Jul 2025 14:00:00",
          "title" : "Biel Chess Festival - Live!"
+      },
+      {
+         "description" : "As Chess.com&#39;s Fair Play team is shutting down more than 100,000 accounts every month for violating fair play rules, the platform is now considering new measures to combat the constant battle against cheating in online chess. A new blog post tit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/100k-accounts-closed-anti-cheating-systems-improve",
+         "pubDate" : "Tue, 15 Jul 2025 11:05:29",
+         "title" : "100,000 Accounts Closed Per Month As Chess.com Eyes New Anti-Cheating Measures"
       },
       {
          "description" : "After playing the Accentus 960 tournament and the Rapid tournament, the grandmasters of the Masters and Challengers could enjoy a rest day before they start to play classical chess on Tuesday. Meanwhile, the players in the Masters Open began their tournament. Murali Karthikeyan is the Elo favourite and started with a win. | Photos: Biel Chess Festival",
@@ -666,14 +682,6 @@ news_feed (
          "title" : "Nakamura Defeats 38 GMs In Two-Hour Bullet Brawl Arena"
       },
       {
-         "description" : "GM Magnus Carlsen started day four of the 2025 SuperUnited Croatia Rapid &#38;amp; Blitz trailing World Champion Gukesh Dommaraju by four points but ended the day two points ahead after scoring 7.5/9 while Gukesh crashed to 1.5/9. GM Jan-Krzysztof Dud...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-superunited-croatia-rapid-blitz-day-4",
-         "pubDate" : "Sat, 05 Jul 2025 15:28:00",
-         "title" : "Carlsen Storms Into Lead As Gukesh Suffers"
-      },
-      {
          "description" : "The list of things I feel I should, or have to do, is endless. Even though I am self-employed (and clearly very privileged) and have a lot of flexibility on paper, the have-tos and should's make me feel caged. Like I'm running on a treadmil all day long. I'm sure you know that feeling. You []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -952,14 +960,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/children-chess-o2-arena-2025",
          "pubDate" : "Wed, 25 Jun 2025 10:25:22",
          "title" : "School children play chess on the roof of London's O2 Arena"
-      },
-      {
-         "description" : "We are pleased to announce the 2025 British Chess Championship Festival, including social chess events at St George's Hall and a wider &#8216;Chess in the City' festival of events in...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-chess-championships-festival/",
-         "pubDate" : "Tue, 24 Jun 2025 17:30:54",
-         "title" : "British Chess Championships Festival"
       }
    ]
 }
