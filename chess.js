@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Golden State Warriors forward Quinten Post has claimed the title of first-ever NBA Chess Champion, winning the blitz tournament at the inaugural Chesstival, a unique crossover event co-hosted by Derrick Rose and Freestyle Chess at the Wynn Las Vegas. Post scored an impressive 4.5 out of 5, defeating several top basketball personalities in five fast-paced rounds. | Photo: Tania Sachdev and Quentin Post playing \"Head and Hand\" | Photo: Lennart Ootes/Freestyle Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-nba-star-quinten-post-crowned-first-ever-nba-chess-champion-at-inaugural-chesstival",
+         "pubDate" : "Tue, 15 Jul 2025 08:49:47",
+         "title" : "Freestyle Chess: NBA Star Quinten Post Crowned First Ever NBA Chess Champion at Inaugural Chesstival"
+      },
+      {
          "description" : "Basketball and chess pros joined forces in the latest sports-and-chess crossover event, the Chesstival, which took place the weekend before the Las Vegas Freestyle Grand Slam, which begins on Wednesday. Grant Williams, of the Charlotte Hornets, wo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
