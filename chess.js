@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After playing the Accentus 960 tournament and the Rapid tournament, the grandmasters of the Masters and Challengers could enjoy a rest day before they start to play classical chess on Tuesday. Meanwhile, the players in the Masters Open began their tournament. Murali Karthikeyan is the Elo favourite and started with a win. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-chess-festival-start-of-the-master-open",
+         "pubDate" : "Tue, 15 Jul 2025 10:04:05",
+         "title" : "Biel Chess Festival: Start of the Master Open"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122499313.cms\" />Indian Grandmaster Arjun Erigaisi slammed British Airways for a last-minute downgrade and 48-hour baggage delay ahead of the Freestyle Grand Slam in Las Vegas, calling it his \"worst experience\" and vowing never to fly with the airline again.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-arjun-erigaisi-slams-british-airways-over-flight-downgrade-delayed-baggage-youve-lost-a-customer/articleshow/122499313.cms",
+         "pubDate" : "Tue, 15 Jul 2025 09:27:19",
+         "title" : "Chess | Arjun Erigaisi slams British Airways - 'You've lost a customer'"
+      },
+      {
          "description" : "Golden State Warriors forward Quinten Post has claimed the title of first-ever NBA Chess Champion, winning the blitz tournament at the inaugural Chesstival, a unique crossover event co-hosted by Derrick Rose and Freestyle Chess at the Wynn Las Vegas. Post scored an impressive 4.5 out of 5, defeating several top basketball personalities in five fast-paced rounds. | Photo: Tania Sachdev and Quentin Post playing \"Head and Hand\" | Photo: Lennart Ootes/Freestyle Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/williams-post-win-2025-chesstival",
-         "pubDate" : "Mon, 14 Jul 2025 19:10:07",
+         "pubDate" : "Mon, 14 Jul 2025 19:10:00",
          "title" : "Williams, Post Win Basketball & Freestyle Chess Crossover Event"
       },
       {
@@ -22,16 +38,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-3-tiebreaks",
-         "pubDate" : "Mon, 14 Jul 2025 16:10:09",
+         "pubDate" : "Mon, 14 Jul 2025 16:10:00",
          "title" : "19-year-old Song Yuxin Knocks Out 5th Seed Anna Muzychuk"
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
-         "pubDate" : "Mon, 14 Jul 2025 12:50:00",
-         "title" : "Women's World Cup - Live!"
       },
       {
          "description" : "How should a positional player begin with White - 1.d4 or 1.Nf3? In his Fritztrainer course, Sipke Ernst presents a practical 1.d4 repertoire. And in his Grandmaster course on 1.Nf3, Felix Blohberger also focuses on teaching ideas rather than memorizing lines. It's a tough choice! Stay flexible and take a look at both courses - this week (July 14-20), they're available at a Summer Special price.",
@@ -768,14 +776,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/uk-open-blitz-championship-2025/",
          "pubDate" : "Thu, 03 Jul 2025 08:00:21",
          "title" : "UK Open Blitz Championship 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122221553.cms\" />Magnus Carlsen, after the first day of the SuperUnited Croatia Rapid & Blitz 2025, acknowledged Gukesh's improvement but stated he's yet to be truly impressed by the young Indian chess players. He praised Praggnanandhaa's recent classical tournament wins, highlighting his consistent performance.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-magnus-carlsen-takes-a-fresh-jibe-at-19-year-old-world-champion-d-gukesh-in-terms-of-impressing-me-/articleshow/122221553.cms",
-         "pubDate" : "Thu, 03 Jul 2025 06:55:23",
-         "title" : "Chess | Carlsen takes a fresh jibe at Gukesh - 'In terms of impressing me...'"
       },
       {
          "description" : "India continued its dominance in the global chess arena by clinching 7 out of 18 possible medals at the World Cadet Chess Cup, held in",
