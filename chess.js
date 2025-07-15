@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Basketball and chess pros joined forces in the latest sports-and-chess crossover event, the Chesstival, which took place the weekend before the Las Vegas Freestyle Grand Slam, which begins on Wednesday. Grant Williams, of the Charlotte Hornets, wo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/williams-post-win-2025-chesstival",
+         "pubDate" : "Mon, 14 Jul 2025 19:10:07",
+         "title" : "Williams, Post Win Basketball & Freestyle Chess Crossover Event"
+      },
+      {
          "description" : "IM Song Yuxin has joined fellow 19-year-olds IM Meruert Kamalidenova and IM Umida Omonova in round four of the&#38;nbsp;2025 FIDE Women&#39;s World Cup after knocking out GM Anna Muzychuk in round-three tiebreaks. In the six tiebreak matches only one play...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -680,14 +688,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45673974/fide-womens-chess-world-cup-2025-preview-koneru-humpy-r-vaishali-harika-dronavalli-divya-deshmukh-indian-charge-107-strong-field-eye-candidates?device=featurephone",
          "pubDate" : "Sat, 5 Jul 2025 02:00:00",
          "title" : "FIDE Women's Chess World Cup 2025: Humpy leads Indian charge at 107-strong field with an eye on Candidates"
-      },
-      {
-         "description" : "World Champion Gukesh Dommaraju increased his lead over GM Jan-Krzysztof Duda to three points and kept a four-point gap to GM&#38;nbsp;Magnus Carlsen as he made two draws and scored a dominant win over GM Wesley So to score 14/18 in the rapid section ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-superunited-croatia-rapid-blitz-day-3",
-         "pubDate" : "Fri, 04 Jul 2025 16:30:00",
-         "title" : "Gukesh Takes 3-Point Lead Into Blitz Showdown"
       },
       {
          "description" : " A poor outing from Ian Nepomniachtchi brought up an unlikely first but Serjey Karjakin made a strong comeback at Blitz last week It would have been inconceivable in the glory days of the Soviet chess empire. For the first time since 1971 when Fide, the world chess body, began publishing its rating lists - then annually and now monthly - there are no Russians ranked in the classical world top 10. Bobby Fischer was No 1 in the first Fide list, published on the eve of his Reykjavik match with Boris Spassky, but after Fischer gave up active play Anatoly Karpov and Garry Kasparov took over. In 1970, when the USSR team defeated the Rest of the World, or in the decades when Mikhail Botvinnik, Karp",
