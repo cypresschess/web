@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In chess, escaping with the king is a well-known way of parrying an attack. On the first rest day, the organisers invited the grandmasters from the two invitational tournaments to test their escape skills in the Biel Adventure Rooms. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grandmasters-in-the-escape-room",
+         "pubDate" : "Wed, 16 Jul 2025 08:00:00",
+         "title" : "Grandmasters in the Escape Room"
+      },
+      {
+         "description" : "The opening round of classical chess at the Biel Chess Festival's Triathlon produced contrasting fortunes across both sections. While the Masters section saw all three games conclude in draws, maintaining the standings from the rapid phase, the Challengers section delivered three decisive results. David Navara's victory over Daniel Dardha marked the day's most significant development, propelling him from last place to third overall. | Pictured: Vladimir Fedoseev and Aravindh Chithambaram. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2025-classical-1",
+         "pubDate" : "Wed, 16 Jul 2025 06:10:00",
+         "title" : "Biel Chess Festival: All draws in the Masters, all decisive games in the Challengers"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122554362.cms\" />Hans Niemann, once unwelcome, has qualified for the Las Vegas leg of the Freestyle Chess Grand Slam, setting the stage for a highly anticipated rematch with Magnus Carlsen. Niemann's journey involved overcoming skepticism and intense competition to earn his place among the world's top players. This 'Battle of the Baddies' promises high drama and intense competition.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-despite-being-told-cant-invite-you-to-las-vegas-hans-niemann-turns-up-awaits-magnus-carlsen-in-battle-of-baddies/articleshow/122554362.cms",
+         "pubDate" : "Wed, 16 Jul 2025 04:55:11",
+         "title" : "Despite being told 'Can't invite you to Las Vegas', Niemann turns up, awaits Carlsen in 'Battle of Baddies'"
+      },
+      {
          "description" : " The US Junior, Girls and Seniors takes place in St Louis Tue 15th to Fri 25th Jul 2025. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/arbiting-a-freestyle-event",
          "pubDate" : "Tue, 15 Jul 2025 18:00:00",
          "title" : "Arbiting a Freestyle Event"
-      },
-      {
-         "description" : "The 58th Biel Chess Festival, running from 12 to 25 July, offers a global celebration of chess with 16 tournaments spanning classical, rapid and blitz formats. The main events are the Triathlons, with a Masters and a Challengers section, each including six ambitious top competitors. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2025-live",
-         "pubDate" : "Tue, 15 Jul 2025 14:00:00",
-         "title" : "Biel Chess Festival - Live!"
       },
       {
          "description" : "As Chess.com&#39;s Fair Play team is shutting down more than 100,000 accounts every month for violating fair play rules, the platform is now considering new measures to combat the constant battle against cheating in online chess. A new blog post tit...",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-3-tiebreaks",
          "pubDate" : "Mon, 14 Jul 2025 16:10:00",
          "title" : "19-year-old Song Yuxin Knocks Out 5th Seed Anna Muzychuk"
-      },
-      {
-         "description" : "How should a positional player begin with White - 1.d4 or 1.Nf3? In his Fritztrainer course, Sipke Ernst presents a practical 1.d4 repertoire. And in his Grandmaster course on 1.Nf3, Felix Blohberger also focuses on teaching ideas rather than memorizing lines. It's a tough choice! Stay flexible and take a look at both courses - this week (July 14-20), they're available at a Summer Special price.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/summer-special-for-positional-and-strategic-players-a-1-d4-and-a-1-nf3-repertoire",
-         "pubDate" : "Mon, 14 Jul 2025 10:43:17",
-         "title" : "Summer Special: For positional and strategic players: A 1.d4 and a 1.Nf3 repertoire"
       },
       {
          "description" : "The Grandmaster Triathlon began on Sunday in Biel with the discipline of rapid chess. After five games of rapid chess the two favourites, Vladimir Fedoseev and Aravindh Chithambaram (pictured), lead in the Masters. Wojtaszek, the 2020 Biel winner, is lurking just behind them. Theodorou took the lead in the Challengers, remaining undefeated, as did his closest rival Hakobyan. GM Benjamin Bok won the open rapid one-day-tournament. The Dutchman prevailed against 149 competitors ahead of GM Mikhail Kobalia and Chen Yuan. | Photos: Biel Chess Festival",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/hes-doing-incredibly-well-magnus-carlsen-after-losing-to-d-gukesh-garry-kasparov-questions-world-no-1s-domination/articleshow/122239844.cms",
          "pubDate" : "Fri, 04 Jul 2025 03:49:21",
          "title" : "'He's doing incredibly well': Carlsen after losing to Gukesh; Kasparov question's World No. 1's 'domination'"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122233789.cms\" />D Gukesh, the reigning world champion, delivered a stunning blow to World No. 1 Magnus Carlsen at the Grand Chess Tour SuperUnited Rapid in Zagreb. Gukesh's victory propelled him into the sole lead with 10 points, marking a significant moment as he secured his fifth consecutive win. Garry Kasparov noted that Gukesh's convincing win questions Carlsen's domination.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/superunited-rapid-2025-d-gukesh-stuns-world-no-1-magnus-carlsen-takes-2-point-lead-ahead-of-final-day/articleshow/122233789.cms",
-         "pubDate" : "Thu, 03 Jul 2025 17:50:44",
-         "title" : "SuperUnited Rapid 2025: D Gukesh stuns World No. 1 Magnus Carlsen"
       },
       {
          "description" : " The Ashley Chess Fellows have been announced! Last November, we announced the Maurice Ashley Chess Fellowship, to provide Black chess talents with opportunities to reach new heights in the sport. Excellence in chess requires a significant amount of training, as well as resources. It is commonly stated and perhaps known that this is one hurdle The post <a href=\"https://thechessdrum.net/blog/2025/07/03/2025-ashley-chess-fellows-announced/\">2025 Ashley Chess Fellows announced!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
