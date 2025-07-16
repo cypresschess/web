@@ -26,6 +26,14 @@ news_feed (
          "title" : "Biel Chess Festival - Live!"
       },
       {
+         "description" : "19-year-old Indian IM Divya Deshmukh has one foot in the 2025 FIDE Women&#39;s World Cup Quarterfinals after scoring an impressive win over Chinese number-two seed GM Zhu Jiner as round four began in Batumi. The remaining three Chinese players&#38;mdash;G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-4-game-1",
+         "pubDate" : "Wed, 16 Jul 2025 13:38:59",
+         "title" : "Divya Stuns Zhu As Other Chinese Stars Win"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-magnus-carlsens-respect-for-d-gukesh-is-only-going-to-grow-what-does-it-even-mean/articleshow/122293602.cms",
          "pubDate" : "Mon, 07 Jul 2025 08:10:03",
          "title" : "Chess | 'Carlsen's respect for Gukesh is only going to grow' - What does it even mean?"
-      },
-      {
-         "description" : "Kids vs. Stars will return for its fifth edition on July 9, starting at 1 p.m. ET / 19:00 CEST / 10:30 p.m. IST. This time, world-class commentator GM David Howell will take on four young prodigies to try to keep the stars&#39; win streak running. R...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-kids-vs-stars-5",
-         "pubDate" : "Mon, 07 Jul 2025 08:00:00",
-         "title" : "Star David Howell To Face Four Young Prodigies Simultaneously In Next Kids vs. Stars"
       },
       {
          "description" : " The China YanCheng GM Match took place Wed 2nd Jul to Sun 6th Jul 2025. Wei Yi played Levon Aronian in four classical games followed by four rapid games on the final day. Wei Yi won the match, the classical games counted double the rapid games. Wei Yi won the classical 2.5-1.5 and after winning the first two rapid games he had already secured the match and the remaining two were not played.",
