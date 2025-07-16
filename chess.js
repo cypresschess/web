@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
+         "pubDate" : "Wed, 16 Jul 2025 12:50:00",
+         "title" : "Women's World Cup, Round 4 - Live!"
+      },
+      {
+         "description" : "The ninth edition of the Abierto Sesc Caiob&aacute; turned the Brazilian city of Caiob&aacute; into a prime destination for chess enthusiasts. With over 200 participants and a diverse program, the event combined classical tournaments, rapid and blitz competitions, training sessions, and community activities-all set against the backdrop of a stunning seaside location. Brazil's Alexandr Fier emerged as the winner of the main event, while Argentina's Sandro Mareco and the USA's Conrad Holt claimed victories in the rapid and blitz sections, respectively. | Photos: CEX Paran&aacute;",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/alexandr-fier-triumphs-in-caiob",
+         "pubDate" : "Wed, 16 Jul 2025 10:00:00",
+         "title" : "Alexandr Fier triumphs in Caiob&aacute;"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122570842.cms\" />Indian Grandmaster R Praggnanandhaa is set to clash with world champion Magnus Carlsen in the Freestyle Chess tournament in New Delhi. Arjun Erigaisi and Vidit Gujrathi are in the other group. The event features a $750,000 prize pool and a unique format where piece positions are randomized.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/where-is-d-gukesh-world-champion-skips-vegas-freestyle-chess/articleshow/122570842.cms",
+         "pubDate" : "Wed, 16 Jul 2025 09:59:38",
+         "title" : "Where is D Gukesh? World Champion skips Vegas Freestyle Chess"
+      },
+      {
+         "description" : "FIDE, in partnership with&#160;Lichess.org, invites chess-lovers from around the world to take part in the largest-ever Social Chess Day tournament - a 24-hour blitz marathon celebrating International Chess Day on...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/join-the-global-online-celebration-for-international-chess-day/",
+         "pubDate" : "Wed, 16 Jul 2025 08:31:36",
+         "title" : "Join the Global Online Celebration for International Chess Day"
+      },
+      {
          "description" : "In chess, escaping with the king is a well-known way of parrying an attack. On the first rest day, the organisers invited the grandmasters from the two invitational tournaments to test their escape skills in the Biel Adventure Rooms. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +56,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-despite-being-told-cant-invite-you-to-las-vegas-hans-niemann-turns-up-awaits-magnus-carlsen-in-battle-of-baddies/articleshow/122554362.cms",
          "pubDate" : "Wed, 16 Jul 2025 04:55:11",
          "title" : "Despite being told 'Can't invite you to Las Vegas', Niemann turns up, awaits Carlsen in 'Battle of Baddies'"
+      },
+      {
+         "description" : "World number-four GM Praggnanandhaa Rameshbabu headlines a star-studded preliminary list of participants signed up for the Last Chance Qualifier (LCQ) for the Esports World Cup (EWC), in Riyadh, Saudi Arabia. The LCQ, scheduled for July 24-26, o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/praggnanandhaa-heads-strong-last-chance-qualifier-for-esports-world-cup",
+         "pubDate" : "Wed, 16 Jul 2025 02:21:23",
+         "title" : "Praggnanandhaa Leads Star-Studded Field For Last Chance Qualifier In Riyadh"
       },
       {
          "description" : " The US Junior, Girls and Seniors takes place in St Louis Tue 15th to Fri 25th Jul 2025. ",
@@ -58,28 +98,12 @@ news_feed (
          "title" : "100,000 Accounts Closed Per Month As Chess.com Eyes New Anti-Cheating Measures"
       },
       {
-         "description" : "After playing the Accentus 960 tournament and the Rapid tournament, the grandmasters of the Masters and Challengers could enjoy a rest day before they start to play classical chess on Tuesday. Meanwhile, the players in the Masters Open began their tournament. Murali Karthikeyan is the Elo favourite and started with a win. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-chess-festival-start-of-the-master-open",
-         "pubDate" : "Tue, 15 Jul 2025 10:04:05",
-         "title" : "Biel Chess Festival: Start of the Master Open"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122499313.cms\" />Indian Grandmaster Arjun Erigaisi slammed British Airways for a last-minute downgrade and 48-hour baggage delay ahead of the Freestyle Grand Slam in Las Vegas, calling it his \"worst experience\" and vowing never to fly with the airline again.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-arjun-erigaisi-slams-british-airways-over-flight-downgrade-delayed-baggage-youve-lost-a-customer/articleshow/122499313.cms",
          "pubDate" : "Tue, 15 Jul 2025 09:27:19",
          "title" : "Chess | Arjun Erigaisi slams British Airways - 'You've lost a customer'"
-      },
-      {
-         "description" : "Golden State Warriors forward Quinten Post has claimed the title of first-ever NBA Chess Champion, winning the blitz tournament at the inaugural Chesstival, a unique crossover event co-hosted by Derrick Rose and Freestyle Chess at the Wynn Las Vegas. Post scored an impressive 4.5 out of 5, defeating several top basketball personalities in five fast-paced rounds. | Photo: Tania Sachdev and Quentin Post playing \"Head and Hand\" | Photo: Lennart Ootes/Freestyle Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-nba-star-quinten-post-crowned-first-ever-nba-chess-champion-at-inaugural-chesstival",
-         "pubDate" : "Tue, 15 Jul 2025 08:49:47",
-         "title" : "Freestyle Chess: NBA Star Quinten Post Crowned First Ever NBA Chess Champion at Inaugural Chesstival"
       },
       {
          "description" : "Today's puzzles continue a series featuring games from the 2025 FIDE World Cadets Cup. Read our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -112,22 +136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-3-tiebreaks",
          "pubDate" : "Mon, 14 Jul 2025 16:10:00",
          "title" : "19-year-old Song Yuxin Knocks Out 5th Seed Anna Muzychuk"
-      },
-      {
-         "description" : "The Grandmaster Triathlon began on Sunday in Biel with the discipline of rapid chess. After five games of rapid chess the two favourites, Vladimir Fedoseev and Aravindh Chithambaram (pictured), lead in the Masters. Wojtaszek, the 2020 Biel winner, is lurking just behind them. Theodorou took the lead in the Challengers, remaining undefeated, as did his closest rival Hakobyan. GM Benjamin Bok won the open rapid one-day-tournament. The Dutchman prevailed against 149 competitors ahead of GM Mikhail Kobalia and Chen Yuan. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/start-of-the-grand-master-triathlon-favourites-already-in-the-lead",
-         "pubDate" : "Mon, 14 Jul 2025 10:08:59",
-         "title" : "Biel: Start of the Grand Master Triathlon - favourites take the lead"
-      },
-      {
-         "description" : "With an opening press conference at Wynn Las Vegas, Freestyle Chess has officially launched its first-ever U.S. event: a full week of chess, celebrity, and competition. The week began with the Chesstival on July 13, and will continue with the $750,000 Freestyle Chess Grand Slam from July 16 to 20. | Photo: freestyle_chess and wwwchesscom",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-kicks-off-landmark-week-in-las-vegas",
-         "pubDate" : "Mon, 14 Jul 2025 09:08:35",
-         "title" : "Freestyle Chess Kicks Off Landmark Week in Las Vegas"
       },
       {
          "description" : "We&#38;rsquo;re excited to announce that you can now play chess against Steve Aoki&#38;rsquo;s very own bot on Chess.com! Put on your favorite Steve Aoki track, turn up the volume, and get ready for a high-energy chess match with one of music&#39;s most dynam...",
@@ -202,14 +210,6 @@ news_feed (
          "title" : "India gets 87th Grandmaster after Harikrishnan A Ra achieves his final GM norm in France"
       },
       {
-         "description" : "Let's continue with ChessBase 18's powerful training tool \"Replay Training\": Replay Training! We already introduced you to this super feature in the last article, and in this tutorial, we'll show you some additional features that will help you noticeably improve your playing strength in a fun way. Let's continue ...!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-beginner-s-tips-part-22-maximum-training-effect-with-the-replay-training-power-tool-part-2",
-         "pubDate" : "Sun, 13 Jul 2025 07:00:00",
-         "title" : "ChessBase 18 - Beginner's Tips Part 22: Maximum training effect with the 'Replay Training' power tool (Part 2)"
-      },
-      {
          "description" : " Tanitoluwa &#8220;Tani&#8221; Adewumi finished a strong performance at the 2025 World Open after winning the Cadet Championship a couple of weeks earlier. It was his second consecutive title, only months after finishing the rating requirements for the IM title. So far, 2025 has been a great year. FM Tanitoluwa &#8220;Tani&#8221; Adewumi (2397-USA) # Player ELO The post <a href=\"https://thechessdrum.net/blog/2025/07/12/cadet-champ-tani-adewumi-strong-at-world-open/\">Cadet Champ Tani Adewumi strong at World Open</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -218,28 +218,12 @@ news_feed (
          "title" : "Cadet Champ Tani Adewumi strong at World Open"
       },
       {
-         "description" : "Whether strategy, technique or opening knowledge - the June releases from ChessBase fulfil all your chess needs! Renowned authors such as David Navara, Robert Ris and Andrew Martin open their chess brains to you, and offer a host of professional tips. For those who want everything at once, ChessBase Magazine 226 is the perfect choice. It once again features lots of training material from the pro lab. Attention opening fans: There are many new Powerbases and Powerbooks! Just take a look at last month's products:",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-june",
-         "pubDate" : "Sat, 12 Jul 2025 18:00:00",
-         "title" : "Review: All new releases in June!"
-      },
-      {
          "description" : "Bullet Brawl&#39;s all-time title leader GM Hikaru Nakamura outpaced 156 titled players in Saturday&#39;s event moments after announcing that he and his wife, WGM Atousa Pourkashiyan, are expecting their first child. While streaming live on Kick, Nakamu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-july-12-2025",
          "pubDate" : "Sat, 12 Jul 2025 17:33:00",
          "title" : "Nakamura Wins 3rd Straight Bullet Brawl Following Baby Announcement"
-      },
-      {
-         "description" : "After 34 years of continuous development, ChessBase has released Fritz 20, marking the twentieth iteration of one of the most influential chess programs in history. This latest version represents a significant evolution in chess software, combining cutting-edge artificial intelligence with innovative human-like playing concepts that promise to transform how players train and improve their game. | Text and Photos: Paul Harwood (betterchess.net)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-fritz-20-a-revolutionary-leap-forward-in-chess-software",
-         "pubDate" : "Sat, 12 Jul 2025 16:00:00",
-         "title" : "Review: Fritz 20 - A revolutionary leap forward in chess software"
       },
       {
          "description" : "IM Vantika Agrawal followed up knocking out GM Anna Ushenina by beating seventh seed GM Kateryna Lagno as round three of the&#38;nbsp;2025 FIDE Women&#39;s World Cup began. There were six more wins, for GMs Lei Tingjie, Nana Dzagnidze, Mariya Muzychuk, Zh...",
@@ -298,28 +282,12 @@ news_feed (
          "title" : "D Gukesh's coach: 'Many people forget that he's only 19. He even forgets he's 19'"
       },
       {
-         "description" : "The second-round tiebreaks of the Women's World Cup saw major developments, including the early exit of defending champion Aleksandra Goryachkina at the hands of Meruert Kamalidenova (pictured). Alina Kashlinskaya was also eliminated, while several top seeds - such as Mariya Muzychuk, Kateryna Lagno and Alexandra Kosteniuk - were pushed to extended matches. Other notable qualifiers included Umida Omonova, Song Yuxin and Lu Miaoyi, who all advanced after strong performances in rapid and blitz. | Photo: Anna Shtourman / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-r2tb",
-         "pubDate" : "Sat, 12 Jul 2025 03:30:00",
-         "title" : "Women's World Cup: Kamalidenova knocks out Goryachkina, Omanova gets second upset win"
-      },
-      {
          "description" : "Twelve players made it through the tiebreaks of round two in the 2025 FIDE Women&#39;s World Cup. They were GM Mariya Muzychuk, IM Meruert Kamalidenova, GM Kateryna Lagno, GM Anna Muzychuk, GM Alexandra Kosteniuk, WIM Umida Omonova, IM Lu Miaoyi, IM V...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-2-tiebreaks",
          "pubDate" : "Fri, 11 Jul 2025 14:48:00",
          "title" : "Kamalidenova Gives Defending Champion Goryachkina Early Exit"
-      },
-      {
-         "description" : "Chess prevention is one of the most important parts of strategic play in chess. This doesn't apply for chess only but also in life in general. To foresee possible negative outcomes and to protect ourselves from them, or at least to lower their effects, is simpler than having to deal with the consequences. The same applies to chess. Let international trainer Efstratios Grivas explain.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/strategic-prevention",
-         "pubDate" : "Fri, 11 Jul 2025 13:00:00",
-         "title" : "Strategic prevention"
       },
       {
          "description" : "In the last Freestyle Friday&#38;nbsp;before the July 16-20 Grand Slam event in Las Vegas, the final qualifier for the Grand Slam, GM Hans Niemann, won his first Freestyle Friday after several near-misses. Draws in the eighth and 10th rounds were all ...",
@@ -434,14 +402,6 @@ news_feed (
          "title" : "FIDE World Junior Rapid and Blitz Chess Championship - 2025 in Lime - Peru from 22nd to 29th September, 2025"
       },
       {
-         "description" : "\"Chess problems demand from the composer the same virtues that characterize all worthwhile art: originality, invention, conciseness, harmony, complexity and splendid insincerity,\" wrote Vladimir Nabokov. Problem expert Werner Keym illustrates this in a new book which he makes available, as an eBook, to everyone, free of charge. Here are some excerpts to give you a taste.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/werner-keym-problem-chess-art-5",
-         "pubDate" : "Wed, 09 Jul 2025 09:00:00",
-         "title" : "Werner Keym: Problem Chess Art"
-      },
-      {
          "description" : "The chess section starts at 33 minutes and 25 seconds &#8212; https://www.bbc.co.uk/sounds/play/m002f936",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -512,14 +472,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-team-chess-championship-2025-reaches-its-midpoint/",
          "pubDate" : "Tue, 08 Jul 2025 12:21:49",
          "title" : "European Youth Team Chess Championship 2025 reaches its midpoint"
-      },
-      {
-         "description" : "More than 25,000 people, including stars from the BBC's chess show Chess Masters: The Endgame, are expected to descend on London's Trafalgar Square on Sunday, July 13, for ChessFest 2025. Last year, the event drew 23,300 people. The UK's biggest chess event, now in its fifth year, will draw chess enthusiasts from across the country, including many of the country's top grandmasters, for a free day of fun suitable for every level of player.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/25-000-chess-players-to-descend-on-london",
-         "pubDate" : "Tue, 08 Jul 2025 10:30:00",
-         "title" : "25,000 chess players to descend on London"
       },
       {
          "description" : "The 2025 FIDE Women's World Cup began Saturday, July 5 in Batumi, Georgia, with 107 players vying for their share of the $691,250 prize fund and one of three qualifying spots for the 2026 FIDE Women's Candidate Tournament. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Opening ceremony photos courtesy of Anna Shtourman/FIDE<br> <br> Four Americans compete in this iteration of the biannual event. In order of starting seed, these players are IM Carissa Yip (22nd), IM Alice Lee (38th), GM Irina Krush (43rd), and WGM Thalia Cervantes (73rd).All four Americans won t",
@@ -658,14 +610,6 @@ news_feed (
          "title" : "Jumpy Start For Favorites At FIDE Women's World Cup"
       },
       {
-         "description" : "Do you know the powerful training tool in ChessBase 18? It's called \"Replay Training\"! This great feature lets you actively go through games move by move-sharpening your strategic and tactical understanding in a targeted way. Whether under time pressure or not, the choice is yours. Train in a realistic setting, get instant feedback, and systematically improve your play-whether you're a beginner or an ambitious tournament player. In this tutorial, we'll guide you step by step through how Replay Training works. Let's get started!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-21-maximum-training-effect-with-the-power-tool-replay-training-part-1",
-         "pubDate" : "Sun, 06 Jul 2025 09:30:00",
-         "title" : "ChessBase 18 - Tips for beginners, part 21: Maximum Training Effect with the Power Tool \"Replay Training\" (Part 1)"
-      },
-      {
          "description" : "Nine-year-old CM Ashwath Kaushik from Singapore has added another milestone to his young chess career by sensationally scoring his first international master (IM) norm at the 10th Marina Viva Porticcio Open in Corsica, France. Ashwath is just the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -696,14 +640,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-shocking-magnus-carlsen-takes-another-swipe-at-world-champion-gukesh/articleshow/122275142.cms",
          "pubDate" : "Sun, 06 Jul 2025 02:20:02",
          "title" : "Chess | 'Shocking' - Magnus Carlsen takes another swipe at Gukesh"
-      },
-      {
-         "description" : "24 hours after winning his fifth Freestyle Friday, GM Hikaru Nakamura returned to Chess.com&#39;s servers to capture his 43rd Bullet Brawl title in a commanding fashion. Nakamura and GM Andrew Tang broke away from the 135-strong field on Saturday; how...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-july-5-2025",
-         "pubDate" : "Sat, 05 Jul 2025 17:46:00",
-         "title" : "Nakamura Defeats 38 GMs In Two-Hour Bullet Brawl Arena"
       },
       {
          "description" : "The list of things I feel I should, or have to do, is endless. Even though I am self-employed (and clearly very privileged) and have a lot of flexibility on paper, the have-tos and should's make me feel caged. Like I'm running on a treadmil all day long. I'm sure you know that feeling. You []",
@@ -768,14 +704,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jul/04/russians-absent-world-chess-top-10-first-time-since-official-lists-began-ian-nepomniachtchi",
          "pubDate" : "Fri, 04 Jul 2025 07:01:11",
          "title" : "Russians absent from world chess top 10 for first time since official lists began"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122243395.cms\" />Grandmaster Vidit Gujrathi defended his family members' professions after a social media user questioned their legitimacy as doctors on National Doctors' Day. The dispute arose when Gujrathi acknowledged his father, an ayurvedic specialist, mother, a cosmetologist, sister, a physiotherapist, and wife, a homeopathic doctor.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-no-time-for-noise-vidit-gujrathi-hits-out-at-liverdoc-for-insulting-doctor-parents-and-family/articleshow/122243395.cms",
-         "pubDate" : "Fri, 04 Jul 2025 06:58:32",
-         "title" : "'No time for noise': Vidit Gujrathi hits out at 'LiverDoc' for insulting doctor parents and family"
       },
       {
          "description" : "Special Note: If a player has only&#160;one accompanying person, then he/she must pay for double sharing amount only. (Triple sharing basis not accepted for two",
@@ -848,14 +776,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/praggnanandhaa-wins-the-uzchess-cup-masters",
          "pubDate" : "Wed, 2 Jul 2025 16:10:00",
          "title" : "Praggnanandhaa wins the Uzchess Cup Masters - 1-9"
-      },
-      {
-         "description" : "The strategic advantage of a good bishop vs. an inferior knight is determined by the pawn structure. Specifically, the bishop is superior to the knight when no pawns exist in the centre, but there are pawns on both flanks. International trainer GM Efstratios Grivas shows us how this kind of ending can best be handled, and does it with a game recently played in a top-level tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/stronger-minor-piece-ending",
-         "pubDate" : "Wed, 02 Jul 2025 09:00:00",
-         "title" : "Stronger Minor Piece Ending"
       },
       {
          "description" : "After a middling 2024, Pragg has rebounded in 2025 with three big titles that underline his Candidates bid.",
@@ -968,14 +888,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-24th-june-2025",
          "pubDate" : "Wed, 25 Jun 2025 13:16:00",
          "title" : "Titled Tuesday Blitz 24th June 2025 - Games and Results"
-      },
-      {
-         "description" : "To mark the launch of a new community chess club, pupils from The Pointer School played a game of chess 52 metres above London atop the O2 Arena. The initiative aims to make structured chess coaching freely accessible to primary school children across Greenwich and South East London. Backed by a strong chess tradition and alumni like Shreyas Royal, the school continues to promote chess as a powerful tool for personal development.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/children-chess-o2-arena-2025",
-         "pubDate" : "Wed, 25 Jun 2025 10:25:22",
-         "title" : "School children play chess on the roof of London's O2 Arena"
       }
    ]
 }
