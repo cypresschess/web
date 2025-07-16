@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The US Junior, Girls and Seniors takes place in St Louis Tue 15th to Fri 25th Jul 2025. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/us-junior-girls-and-seniors-2025",
+         "pubDate" : "Wed, 16 Jul 2025 00:54:00",
+         "title" : "US Junior, Girls and Seniors 2025 - Games and Results"
+      },
+      {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-national-championships-postgame-round-1-an-exciting-start/\">POSTGAME Round 1: An Exciting Start | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-national-championships-postgame-round-1-an-exciting-start/",
+         "pubDate" : "Tue, 15 Jul 2025 23:53:32",
+         "title" : "POSTGAME Round 1: An Exciting Start | 2025 U.S. National Championships"
+      },
+      {
          "description" : "The chess world is showing increasing interest in what many now refer to as \"Freestyle Chess.\" Having served as Chief Arbiter at two such events this year - one in Weissenhaus, Germany in February and another in Paris, France in April - Gerhard Bertagnolli has encountered a number of unique challenges. These are worth sharing, as Freestyle Chess differs from classical chess in several subtle yet significant ways.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
