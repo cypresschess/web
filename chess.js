@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122579181.cms\" />Ahead of the Las Vegas leg of the Freestyle Chess Grand Slam Tour, Hans Niemann asserts that Magnus Carlsen and other top players face greater pressure due to past events. Niemann highlights his recent online successes against Carlsen and Hikaru Nakamura, suggesting they are more stressed when facing him.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-im-22-years-old-hans-niemann-takes-a-swipe-at-magnus-carlsen/articleshow/122579181.cms",
+         "pubDate" : "Wed, 16 Jul 2025 14:24:02",
+         "title" : "Vegas Freestyle | 'I'm 22 years old' - Niemann takes a jibe at Carlsen"
+      },
+      {
+         "description" : "The 58th Biel Chess Festival, running from 12 to 25 July, offers a global celebration of chess with 16 tournaments spanning classical, rapid and blitz formats. The main events are the Triathlons, with a Masters and a Challengers section, each including six ambitious top competitors. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2025-live",
+         "pubDate" : "Wed, 16 Jul 2025 14:00:00",
+         "title" : "Biel Chess Festival - Live!"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
          "pubDate" : "Wed, 16 Jul 2025 12:50:00",
          "title" : "Women's World Cup, Round 4 - Live!"
+      },
+      {
+         "description" : "The English Chess Federation is inviting expressions of interest from associations, leagues, congresses and clubs interested in purchasing chess clocks at discounted rates: DGT 2010 clocks: &pound;24.00; DGT 2500 clocks:...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chess-clocks-expression-of-interest-2025/",
+         "pubDate" : "Wed, 16 Jul 2025 12:42:32",
+         "title" : "Chess clocks expression of interest 2025"
       },
       {
          "description" : "The ninth edition of the Abierto Sesc Caiob&aacute; turned the Brazilian city of Caiob&aacute; into a prime destination for chess enthusiasts. With over 200 participants and a diverse program, the event combined classical tournaments, rapid and blitz competitions, training sessions, and community activities-all set against the backdrop of a stunning seaside location. Brazil's Alexandr Fier emerged as the winner of the main event, while Argentina's Sandro Mareco and the USA's Conrad Holt claimed victories in the rapid and blitz sections, respectively. | Photos: CEX Paran&aacute;",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/join-the-global-online-celebration-for-international-chess-day/",
          "pubDate" : "Wed, 16 Jul 2025 08:31:36",
          "title" : "Join the Global Online Celebration for International Chess Day"
+      },
+      {
+         "description" : "For GM Alexey Sarana, the early Titled Tuesday tournament on July 15 was his 16th career win in the event, and his third of the year. For up-and-coming GM Sina Movahed, the late tournament was his first ever. The established player was the one ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sarana-movahed-win-titled-tuesday-july-15-2025",
+         "pubDate" : "Wed, 16 Jul 2025 08:23:57",
+         "title" : "Movahed Wins First Tuesday Title Following Sarana's 16th"
       },
       {
          "description" : "In chess, escaping with the king is a well-known way of parrying an attack. On the first rest day, the organisers invited the grandmasters from the two invitational tournaments to test their escape skills in the Biel Adventure Rooms. | Photos: Biel Chess Festival",
@@ -62,7 +94,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/praggnanandhaa-heads-strong-last-chance-qualifier-for-esports-world-cup",
-         "pubDate" : "Wed, 16 Jul 2025 02:21:23",
+         "pubDate" : "Wed, 16 Jul 2025 02:21:00",
          "title" : "Praggnanandhaa Leads Star-Studded Field For Last Chance Qualifier In Riyadh"
       },
       {
@@ -72,6 +104,30 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/us-junior-girls-and-seniors-2025",
          "pubDate" : "Wed, 16 Jul 2025 00:54:00",
          "title" : "US Junior, Girls and Seniors 2025 - Games and Results"
+      },
+      {
+         "description" : "Today's puzzles continue a series featuring games from the 2025 FIDE World Cadets Cup. Read our full report here, and check out more puzzles for younger or newer players in this week's Tactics Tuesday column. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cadets-cup-pt-2",
+         "pubDate" : "Wed, 16 Jul 2025 00:00:00",
+         "title" : "Wednesday Workout: FIDE World Cadets Cup, Pt. 2"
+      },
+      {
+         "description" : "Last year, US Chess announced 17 grant awards (up from seven the year before) under the US Chess Women's program. With support from the Saint Louis Chess Club, US Chess annually offers grants to nonprofit affiliate members who are promoting programs that support women and girls in their respective communities.As applications for this year's grant cycle went live this morning, today we are sharing some highlights, photos, and testimonials from some of last cycle's grant recipients and from women and girls who benefitted from these programs and initiatives.We hope to receive even more applications this year, and hopefully this report will encourage both new and returning applicants by inspirin",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2024-25-us-chess-womens-grant-recipients-share-experiences",
+         "pubDate" : "Wed, 16 Jul 2025 00:00:00",
+         "title" : "2024-25 US Chess Women Grant Recipients Share Experiences"
+      },
+      {
+         "description" : "2025-2026 US Chess Women Grant Cycle AnnouncementUS Chess is happy to announce a new cycle of program grant funding to support efforts to educate, retain and promote women and girls in chess. These grants are supported by our partnership with the Saint Louis Chess Club, which began in 2019. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The focus for this year's grant cycle is elementary-aged girls (ages 11 and younger). We encourage applicants to create programs and events tailored for young girls to be exposed to and grow in chess. Special consideration will be given to applicants who meet these criteria, however, all applicants promoting chess amongst female players",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-Women-Girls-Grant",
+         "pubDate" : "Wed, 16 Jul 2025 00:00:00",
+         "title" : "2025-2026 Women and Girls Programming Grant Cycle Officially Open!"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-national-championships-postgame-round-1-an-exciting-start/\">POSTGAME Round 1: An Exciting Start | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -474,30 +530,6 @@ news_feed (
          "title" : "European Youth Team Chess Championship 2025 reaches its midpoint"
       },
       {
-         "description" : "The 2025 FIDE Women's World Cup began Saturday, July 5 in Batumi, Georgia, with 107 players vying for their share of the $691,250 prize fund and one of three qualifying spots for the 2026 FIDE Women's Candidate Tournament. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Opening ceremony photos courtesy of Anna Shtourman/FIDE<br> <br> Four Americans compete in this iteration of the biannual event. In order of starting seed, these players are IM Carissa Yip (22nd), IM Alice Lee (38th), GM Irina Krush (43rd), and WGM Thalia Cervantes (73rd).All four Americans won t",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-fide-womens-world-cup-round-1-all-americans-advance-krush-yip-headlines-round-2-pairings",
-         "pubDate" : "Tue, 08 Jul 2025 00:00:00",
-         "title" : "2025 FIDE Women's World Cup Round 1: All Americans Advance, Krush - Yip Headlines Round 2 Pairings"
-      },
-      {
-         "description" : "Editor's note: Since becoming Digital Editor for Chess Life Online, I have dreamt of publishing more regular wrap-ups of the sorts of events that are eligible for our Plan Ahead Calendar (as well as invitational tournaments).Do you want coverage of your tournament on Chess Life Online for future reporting or roundups?If so, email Click here to show email address with information of upcoming or recently concluded (i.e. within 1-2 weeks) events.For concluded tournaments, please include links to or screenshots of final standings, as well as links to DGT games or attached, transcribed game scores from 1-3 games of winners. Photos of the tournament and of winners is also a plus (cell phone photos",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/independence-day-weekend-wrap",
-         "pubDate" : "Tue, 08 Jul 2025 00:00:00",
-         "title" : "Independence Day Weekend Wrap-Up"
-      },
-      {
-         "description" : "Today's puzzles begin a series featuring games from the 2025 FIDE World Cadets Cup. Read our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cadets-cup-pt1",
-         "pubDate" : "Tue, 08 Jul 2025 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Cadets Cup, Pt.1 "
-      },
-      {
          "description" : " The FIDE Women's World Cup takes place in Batumi, Georgia, Sun 6th Jul to Sun 27th Jul 2025. This is a seven round knockout with 107 players. The top seeds are Lei Tingjie, Zhu Jiner, Tan Zhongyi, Humpy Koneru, Anna Muzychuk etc but the top 21 players don't enter the competition until round 2. The event is wide open with for example Carissa Yip, Alice Lee, Anna Ushenina not being highly seeded dbut surely having a chance to do well.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -610,14 +642,6 @@ news_feed (
          "title" : "Jumpy Start For Favorites At FIDE Women's World Cup"
       },
       {
-         "description" : "Nine-year-old CM Ashwath Kaushik from Singapore has added another milestone to his young chess career by sensationally scoring his first international master (IM) norm at the 10th Marina Viva Porticcio Open in Corsica, France. Ashwath is just the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/9-year-old-ashwath-kaushik-scores-first-im-norm",
-         "pubDate" : "Sun, 06 Jul 2025 09:04:00",
-         "title" : "9-Year-Old Ashwath Kaushik Sensationally Scores First IM Norm In France"
-      },
-      {
          "description" : "The European Youth Team Chess Championship 2025 commenced yesterday in Terme Catez, Slovenia! The Opening ceremony of the event took place shortly before the start of the first round with the attendance of the Deputy Mayor of Brezice Mojca Florjanic, ECU President Zurab Azmaiparashvili, ECU Vice-President Alojzije Jankovic, Vice-President of the Slovenian Chess Federation Mirko Bandelj, Secretary General of the Slovenian Chess Federation Nina Rob, ECU Tournament Director Petr Pisk, FIDE Secretary General Lukasz Turlej and other distinguished guests. Vice-President []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -720,14 +744,6 @@ news_feed (
          "link" : "https://aicf.in/india-shines-at-asian-junior-girls-chess-championship-2025-in-sri-lanka/",
          "pubDate" : "Fri, 04 Jul 2025 04:21:22",
          "title" : "India Shines at Asian Junior & Girls Chess Championship 2025 in Sri Lanka"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122239844.cms\" />D Gukesh continued his impressive form at the Super United Rapid and Blitz tournament in Zagreb by defeating Magnus Carlsen for the second consecutive time. Gukesh's victory, achieved with black pieces, marked his fifth straight win in the tournament, propelling him to the sole lead.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/hes-doing-incredibly-well-magnus-carlsen-after-losing-to-d-gukesh-garry-kasparov-questions-world-no-1s-domination/articleshow/122239844.cms",
-         "pubDate" : "Fri, 04 Jul 2025 03:49:21",
-         "title" : "'He's doing incredibly well': Carlsen after losing to Gukesh; Kasparov question's World No. 1's 'domination'"
       },
       {
          "description" : " The Ashley Chess Fellows have been announced! Last November, we announced the Maurice Ashley Chess Fellowship, to provide Black chess talents with opportunities to reach new heights in the sport. Excellence in chess requires a significant amount of training, as well as resources. It is commonly stated and perhaps known that this is one hurdle The post <a href=\"https://thechessdrum.net/blog/2025/07/03/2025-ashley-chess-fellows-announced/\">2025 Ashley Chess Fellows announced!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -872,22 +888,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/saint-louis-welcomes-rising-stars-and-chess-legends-for-2025-u-s-junior-junior-girls-and-senior-championships/",
          "pubDate" : "Thu, 26 Jun 2025 23:25:19",
          "title" : "Saint Louis Welcomes Rising Stars and Chess Legends for 2025 U.S. Junior, Junior Girls and Senior Championships"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/NSCC/#new_tab",
-         "pubDate" : "Thu, 26 Jun 2025 10:38:59",
-         "title" : "ESCC and Team Chess Challenges National Finals 2025"
-      },
-      {
-         "description" : " The Titled Tuesday Blitz 24th June saw wins for V Pranav in the early and Denis Lazavik in the late, both finishing on 10/11. In the early Pranav won his final round game against the leader Hans Moke Niemann, a four knights which proved to be a pretty convincing carve up. Magnus Carlsen was effectively out of the running after three rounds, in round 2 he was held to a draw by nine-year-old Indian player Aarit Kapil - in fact Carlsen was dead lost for most of the second half of the game (although out of the opening he had a large advantage). Carlsen then did lose in round 3, to 15 year-old Russian Maksim Ivannikov, Carlsen was winning, allowed his opponent back into the game who then proceed",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-24th-june-2025",
-         "pubDate" : "Wed, 25 Jun 2025 13:16:00",
-         "title" : "Titled Tuesday Blitz 24th June 2025 - Games and Results"
       }
    ]
 }
