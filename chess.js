@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Freestyle Chess Grand Slam continues in Las Vegas from 16 to 20 July with a 16-player invitational event featuring a round-robin followed by a double-elimination knockout stage. Top players including Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are taking part. All games will be broadcast live with commentary, and eliminated players will contribute to coverage. | Follow the games live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-live",
+         "pubDate" : "Wed, 16 Jul 2025 19:45:00",
+         "title" : "Freestyle Chess Las Vegas - Live!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122579181.cms\" />Ahead of the Las Vegas leg of the Freestyle Chess Grand Slam Tour, Hans Niemann asserts that Magnus Carlsen and other top players face greater pressure due to past events. Niemann highlights his recent online successes against Carlsen and Hikaru Nakamura, suggesting they are more stressed when facing him.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -34,6 +42,14 @@ news_feed (
          "title" : "Chess clocks expression of interest 2025"
       },
       {
+         "description" : "Nineteen-year-old Dutch IM Eline Roebers set a new record in June, becoming the highest-rated woman in the history of Chess.com. Her new rating of 2932 beat GM Kateryna Lagno&#39;s previous record of 2928. ELINE IS UNSTOPPABLE! 🔥 pic.twitter.com/g...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/roebers-sets-blitz-record",
+         "pubDate" : "Wed, 16 Jul 2025 10:44:20",
+         "title" : "Roebers Sets All-Time High Blitz Rating For Women"
+      },
+      {
          "description" : "The ninth edition of the Abierto Sesc Caiob&aacute; turned the Brazilian city of Caiob&aacute; into a prime destination for chess enthusiasts. With over 200 participants and a diverse program, the event combined classical tournaments, rapid and blitz competitions, training sessions, and community activities-all set against the backdrop of a stunning seaside location. Brazil's Alexandr Fier emerged as the winner of the main event, while Argentina's Sandro Mareco and the USA's Conrad Holt claimed victories in the rapid and blitz sections, respectively. | Photos: CEX Paran&aacute;",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/where-is-d-gukesh-world-champion-skips-vegas-freestyle-chess/articleshow/122570842.cms",
          "pubDate" : "Wed, 16 Jul 2025 09:59:38",
          "title" : "Where is D Gukesh? World Champion skips Vegas Freestyle Chess"
+      },
+      {
+         "description" : "NBA superstar Victor &#34;Wemby&#34; Wembanyama is bringing his passion for chess back home. The San Antonio Spurs phenom is hosting a chess tournament in his hometown in France on Sunday, July 20. The French NBA sensation has already given his hometown...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nba-superstar-wemby-organizes-chess-tournament-in-france",
+         "pubDate" : "Wed, 16 Jul 2025 09:55:02",
+         "title" : "NBA Superstar Wemby Launches Chess Tournament In France"
       },
       {
          "description" : "FIDE, in partnership with&#160;Lichess.org, invites chess-lovers from around the world to take part in the largest-ever Social Chess Day tournament - a 24-hour blitz marathon celebrating International Chess Day on...",
@@ -104,6 +128,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/us-junior-girls-and-seniors-2025",
          "pubDate" : "Wed, 16 Jul 2025 00:54:00",
          "title" : "US Junior, Girls and Seniors 2025 - Games and Results"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Brewington Hardaway (L) and Maxim Dlugy drew a crowd during their spontaneous blitz exhibition (Photo courtesy of Crystal Fuller/SLCC)<br> <br> <br> <br> A Midsummer Night's BattleEvery summer, amidst the scorching heat wave of mid-July, renowned legends and future stars gather in the chess capital of the country for the U.S. Junior, Girls' Junior, and Senior Championships. An exciting nine-game Round Robin tournament at the Saint Louis Chess Club (SLCC), the Championships are an opportunity for young players and seasoned veterans alike to show off their talent on the eight by eight world. While the playe",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/young-stars-seasoned-veterans-kick-first-round-us-junior-girls-junior-and-senior-championships",
+         "pubDate" : "Wed, 16 Jul 2025 00:00:00",
+         "title" : "Young Stars, Seasoned Veterans Kick Off First Round of U.S. Junior, Girls' Junior, and Senior Championships"
       },
       {
          "description" : "Today's puzzles continue a series featuring games from the 2025 FIDE World Cadets Cup. Read our full report here, and check out more puzzles for younger or newer players in this week's Tactics Tuesday column. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -490,14 +522,6 @@ news_feed (
          "title" : "Wednesday Workout: FIDE World Cadets Cup, Pt.1"
       },
       {
-         "description" : "New York, NY - June 25, 2025 - The Maurice Ashley Chess Fellowship (MACF) is proud to announce the selection of its inaugural class of fellowship recipients for 2025. Founded by Grandmaster Maurice Ashley-the first African American to achieve the title of chess Grandmaster-the fellowship aims to identify, support, and elevate exceptional young chess talent from underserved communities across the United States.The 2025 fellows are:Brewington Hardaway, 16 - GM and rising international talent, awarded a $20,000 fellowshipJacorey Bynum, 17 - A standout player with a current national rating of 2301, awarded an $8,000 fellowshipAyden Spellman-Robinson, 10 - A promising young competitor with over 1",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/maurice-ashley-chess-fellowship-announces-inaugural-class-2025-awardees",
-         "pubDate" : "Wed, 09 Jul 2025 00:00:00",
-         "title" : " Maurice Ashley Chess Fellowship Announces Inaugural Class of 2025 Awardees"
-      },
-      {
          "description" : "Team Liquid&#39;s chess roster just got even stronger. The Dutch esports powerhouse has added world number-four GM Praggnanandhaa Rameshbabu to their ranks, joining superstar GMs Magnus Carlsen and Fabiano Caruana. The 19-year-old Indian prodigy was...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -624,22 +648,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/under-one-minute-d-gukesh-magnus-carlsens-ultra-short-clash-wows-chess-world-watch/articleshow/122281678.cms",
          "pubDate" : "Sun, 06 Jul 2025 14:58:08",
          "title" : "Under one minute! Gukesh, Carlsen's ultra-short clash wows chess world - Watch"
-      },
-      {
-         "description" : "GM Magnus Carlsen struggled on the final day but still won the 2025 SuperUnited Croatia Rapid &#38;amp; Blitz with a round to spare and a 2.5-point margin. GM Wesley So took second place after winning a crazy game against GM Fabiano Caruana in the fin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-2025-superunited-croatia-rapid-blitz",
-         "pubDate" : "Sun, 06 Jul 2025 14:30:00",
-         "title" : "'B-Game' Enough As Magnus Carlsen Wins Croatia Rapid & Blitz"
-      },
-      {
-         "description" : "The first day of the 2025 FIDE Women&#39;s World Cup wasn&#39;t the star-studded affair that it should have been, as the top 21 seeds received a bye to proceed directly to the second round. So, it was a low-key start for the event with 107 participants fr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-day-1",
-         "pubDate" : "Sun, 06 Jul 2025 14:06:00",
-         "title" : "Jumpy Start For Favorites At FIDE Women's World Cup"
       },
       {
          "description" : "The European Youth Team Chess Championship 2025 commenced yesterday in Terme Catez, Slovenia! The Opening ceremony of the event took place shortly before the start of the first round with the attendance of the Deputy Mayor of Brezice Mojca Florjanic, ECU President Zurab Azmaiparashvili, ECU Vice-President Alojzije Jankovic, Vice-President of the Slovenian Chess Federation Mirko Bandelj, Secretary General of the Slovenian Chess Federation Nina Rob, ECU Tournament Director Petr Pisk, FIDE Secretary General Lukasz Turlej and other distinguished guests. Vice-President []",
