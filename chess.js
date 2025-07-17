@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen and Vincent Keymer are out of title contention at the Freestyle Chess Grand Slam in Las Vegas after failing to qualify for the upper bracket. In the White Group, Praggnanandhaa Rameshbabu, Nodirbek Abdusattorov and Javokhir Sindarov shared first place with 4&frac12;/7, while Levon Aronian claimed the final qualifying spot after beating Carlsen in a blitz tiebreaker. In the Black Group, Hikaru Nakamura dominated with 6/7, ahead of Hans Niemann, Fabiano Caruana and Arjun Erigaisi. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-1",
+         "pubDate" : "Thu, 17 Jul 2025 15:25:00",
+         "title" : "Freestyle Chess Las Vegas: Carlsen out of title race, Nakamura impresses"
+      },
+      {
+         "description" : "The 58th Biel Chess Festival, running from 12 to 25 July, offers a global celebration of chess with 16 tournaments spanning classical, rapid and blitz formats. The main events are the Triathlons, with a Masters and a Challengers section, each including six ambitious top competitors. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2025-live",
+         "pubDate" : "Thu, 17 Jul 2025 14:00:00",
+         "title" : "Biel Chess Festival - Live!"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/freestyle-chess-grandslam-las-vegas-group-stage",
          "pubDate" : "Wed, 16 Jul 2025 23:55:00",
          "title" : "Aronian Stuns Carlsen In Tiebreaks; Nakamura Dominates With 6/7"
-      },
-      {
-         "description" : "The Freestyle Chess Grand Slam continues in Las Vegas from 16 to 20 July with a 16-player invitational event featuring a round-robin followed by a double-elimination knockout stage. Top players including Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are taking part. All games will be broadcast live with commentary, and eliminated players will contribute to coverage. | Follow the games live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-live",
-         "pubDate" : "Wed, 16 Jul 2025 19:45:00",
-         "title" : "Freestyle Chess Las Vegas - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122579181.cms\" />Ahead of the Las Vegas leg of the Freestyle Chess Grand Slam Tour, Hans Niemann asserts that Magnus Carlsen and other top players face greater pressure due to past events. Niemann highlights his recent online successes against Carlsen and Hikaru Nakamura, suggesting they are more stressed when facing him.",
