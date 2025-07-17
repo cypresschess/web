@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
+         "pubDate" : "Thu, 17 Jul 2025 12:50:00",
+         "title" : "Women's World Cup, Round 4, Game 2 - Live!"
+      },
+      {
+         "description" : "After a rest day, the Women's World Cup in Batumi resumed with the fourth round, with 16 players remaining in the competition. Both Lei Tingjie and Tan Zhongyi maintained their winning streak. However, Zhu Jiner was defeated by Divya Deshmukh. | Photos: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-world-cup-round-4-fours-wins-for-white",
+         "pubDate" : "Thu, 17 Jul 2025 12:20:41",
+         "title" : "Women's World Cup, Round 4: Four wins for White"
+      },
+      {
+         "description" : "Chess is very popular in Sri Lanka. Well over 500 players, mainly children and young people, took part in the 12th Dhamso International Chess Festival in 2025. A A C B Amarasinghe scored 9 points from 10 rounds to win the tournament. | Photo: From left: Mr Nuwan Karunakalage, Mr Chamin Dennis Livera, CM A A C B Amarasinghe, Mr Yasindu Vithanage (organiser)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/12-dhamso-international-chess-festival-in-sri-lanka",
+         "pubDate" : "Thu, 17 Jul 2025 11:15:50",
+         "title" : "12. Dhamso International Chess Festival in Sri Lanka"
+      },
+      {
+         "description" : "After the second round of classical chess at the Biel Grandmaster Triathlon, Aravindh Chithambaram has taken the sole lead in the Masters. Despite being behind at times, he managed to beat Svane, while his rivals Fedoseev and Wojtaszek both ended their games with an unspectacular draw. The Challengers tournament is now clearly structured: Theodorou, who defeated Navara today, is now 3 &frac12; points ahead of Hakobyan, who in turn even has a 6-point lead over the rest. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aravindh-new-leader-of-the-biel-gmt-masters",
+         "pubDate" : "Thu, 17 Jul 2025 10:09:33",
+         "title" : "Aravindh new leader of the Biel GMT-Masters"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122630946.cms\" />Magnus Carlsen faced a shocking early exit at the Freestyle Chess Grand Slam Tour in Las Vegas, losing in a playoff to Levon Aronian. Hans Niemann, fresh off online qualification, celebrated Carlsen's defeat with an exuberant reaction that quickly went viral. The event also saw strong performances from Praggnanandhaa, Abdusattorov, and Sindarov, marking an unpredictable start to the tour.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-falters-hans-neimanns-hilarious-reaction-goes-viral-watch/articleshow/122630946.cms",
+         "pubDate" : "Thu, 17 Jul 2025 10:07:35",
+         "title" : "Carlsen falters! Neimann's hilarious reaction goes viral - Watch"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122631637.cms\" />Hans Niemann celebrated Magnus Carlsen's losses at the Freestyle Grand Slam Tour in Las Vegas, even offering to take Levon Aronian to dinner after Aronian defeated Carlsen. Despite finishing second in Group 2 behind Hikaru Nakamura, Niemann expressed immense satisfaction, calling it the 'best day of his life' in two years.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-hans-niemann-on-magnus-carlsen-losing-two-games-in-vegas-best-day-of-my-life/articleshow/122631637.cms",
+         "pubDate" : "Thu, 17 Jul 2025 09:48:48",
+         "title" : "Chess | Niemann on Carlsen losing two games - 'Best day of my life'"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122614426.cms\" />R Praggnanandhaa achieved a remarkable victory against world champion Magnus Carlsen at the Freestyle Chess Grand Slam Tour in Las Vegas, securing a clean sweep across all formats. Carlsen's subsequent losses and playoff defeat eliminated him from title contention. Praggnanandhaa now shares the lead in Group White, advancing to the quarterfinals along with other top players from both groups.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -50,28 +98,12 @@ news_feed (
          "title" : "Vegas Freestyle | 'I'm 22 years old' - Niemann takes a jibe at Carlsen"
       },
       {
-         "description" : "The 58th Biel Chess Festival, running from 12 to 25 July, offers a global celebration of chess with 16 tournaments spanning classical, rapid and blitz formats. The main events are the Triathlons, with a Masters and a Challengers section, each including six ambitious top competitors. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2025-live",
-         "pubDate" : "Wed, 16 Jul 2025 14:00:00",
-         "title" : "Biel Chess Festival - Live!"
-      },
-      {
          "description" : "19-year-old Indian IM Divya Deshmukh has one foot in the 2025 FIDE Women&#39;s World Cup Quarterfinals after scoring an impressive win over Chinese number-two seed GM Zhu Jiner as round four began in Batumi. The remaining three Chinese players&#38;mdash;G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-4-game-1",
-         "pubDate" : "Wed, 16 Jul 2025 13:38:59",
+         "pubDate" : "Wed, 16 Jul 2025 13:38:00",
          "title" : "Divya Stuns Zhu As Other Chinese Stars Win"
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
-         "pubDate" : "Wed, 16 Jul 2025 12:50:00",
-         "title" : "Women's World Cup, Round 4 - Live!"
       },
       {
          "description" : "The English Chess Federation is inviting expressions of interest from associations, leagues, congresses and clubs interested in purchasing chess clocks at discounted rates: DGT 2010 clocks: &pound;24.00; DGT 2500 clocks:...",
@@ -110,7 +142,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nba-superstar-wemby-organizes-chess-tournament-in-france",
-         "pubDate" : "Wed, 16 Jul 2025 09:55:02",
+         "pubDate" : "Wed, 16 Jul 2025 09:55:00",
          "title" : "NBA Superstar Wemby Launches Chess Tournament In France"
       },
       {
@@ -720,22 +752,6 @@ news_feed (
          "link" : "https://www.thearticle.com/alekhines-tribute-to-nimzowitsch/",
          "pubDate" : "Sat, 05 Jul 2025 11:47:25",
          "title" : "Alekhine's tribute to Nimzowitsch"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122267219.cms\" />D Gukesh modestly responded to Garry Kasparov's high praise after defeating Magnus Carlsen at the SuperUnited Rapid and Blitz Croatia in Zagreb. Kasparov also questioned Carlsen's dominance following the game.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-d-gukesh-plays-down-garry-kasparovs-praise-after-beating-magnus-carlsen-one-game-at-a-time/articleshow/122267219.cms",
-         "pubDate" : "Sat, 05 Jul 2025 11:28:50",
-         "title" : "Gukesh plays down Kasparov's praise after beating Carlsen: 'One game at a time'"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122265696.cms\" />D Gukesh's stellar performance at the Super United Rapid and Blitz tournament in Zagreb, marked by six wins, propelled him into the limelight. Despite Gukesh's impressive showing, FIDE CEO Emil Sutovsky cautioned against prematurely crowning him the world's best rapid player. Sutovsky acknowledged Gukesh's exceptional performance places him among the elite, emphasizing consistent results define true greatness.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-amazing-performances-dont-mean-gukesh-became-worlds-best-rapid-player-overnight-fide-ceo-emil-sutovsky/articleshow/122265696.cms",
-         "pubDate" : "Sat, 05 Jul 2025 10:12:30",
-         "title" : "'Amazing results don't make Gukesh world's best rapid player overnight': FIDE CEO"
       },
       {
          "description" : "All you need to know as R Vaishali, Harikia Dronavalli and other Indians battle chess's best in the World Cup.",
