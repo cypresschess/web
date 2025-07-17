@@ -18,6 +18,14 @@ news_feed (
          "title" : "Chess | Niemann responds to claims he 'hate-watched' Carlsen's loss: 'If you think ... '"
       },
       {
+         "description" : "Second seed GM Zhu Jiner struck back with a powerful game against IM Divya Deshmukh to take their 2025 FIDE Women&#39;s World Cup round four match to tiebreaks. Chinese stars GM Lei Tingjie, GM Tan Zhongyi, and IM Song Yuxin all sealed Quarterfinal sp...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-4-game-2",
+         "pubDate" : "Thu, 17 Jul 2025 15:44:36",
+         "title" : "Zhu Strikes Back As Lei, Tan, Song, Dzagnidze Reach Quarterfinals"
+      },
+      {
          "description" : "Magnus Carlsen and Vincent Keymer are out of title contention at the Freestyle Chess Grand Slam in Las Vegas after failing to qualify for the upper bracket. In the White Group, Praggnanandhaa Rameshbabu, Nodirbek Abdusattorov and Javokhir Sindarov shared first place with 4&frac12;/7, while Levon Aronian claimed the final qualifying spot after beating Carlsen in a blitz tiebreaker. In the Black Group, Hikaru Nakamura dominated with 6/7, ahead of Hans Niemann, Fabiano Caruana and Arjun Erigaisi. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -666,14 +674,6 @@ news_feed (
          "title" : "2025 Counties Champions"
       },
       {
-         "description" : "Vietnamese GM Liem Le has won the&#38;nbsp;2025 Leon Masters after denying Indian chess legend Viswanathan Anand an 11th title by winning their final match 3-1. Le beat local hero GM Jaime Santos in the Semifinals, while Anand defeated 11-year-old Arg...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/le-wins-2025-leon-masters-anand-oro",
-         "pubDate" : "Mon, 07 Jul 2025 14:43:00",
-         "title" : "Le Wins Leon Masters; Oro Impresses Vs. Anand"
-      },
-      {
          "description" : "Rank Under 07 Rank &#160;&#160;&#160;&#160;&#160;&#160; Under 07 Girls 1 Evan Antonio Telles 1 Shreyanshi Jain 2 Duvesh Milan P 2 Anika K 3 Ansh Dadhich",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -936,14 +936,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jun/27/chess-carlsen-finally-achieves-2900-rating-as-niemann-aims-to-be-las-vegas-party-pooper",
          "pubDate" : "Fri, 27 Jun 2025 07:00:11",
          "title" : "Chess: Carlsen finally achieves 2900 rating as Niemann aims to be Las Vegas party pooper"
-      },
-      {
-         "description" : " 2025 U.S. Senior, Junior, and Junior Girls Championships SAINT LOUIS June 26, 2025 The brightest minds in American chess - from rising prodigies to seasoned champions - will converge once again in the nation's Chess Capital as Saint Louis hosts the 2025 U.S. Senior, Junior, and Junior Girls Championships. Hosted by the Saint Louis [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-welcomes-rising-stars-and-chess-legends-for-2025-u-s-junior-junior-girls-and-senior-championships/\">Saint Louis Welcomes Rising Stars and Chess Legends for 2025 U.S. Junior, Junior Girls and Senior Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/saint-louis-welcomes-rising-stars-and-chess-legends-for-2025-u-s-junior-junior-girls-and-senior-championships/",
-         "pubDate" : "Thu, 26 Jun 2025 23:25:19",
-         "title" : "Saint Louis Welcomes Rising Stars and Chess Legends for 2025 U.S. Junior, Junior Girls and Senior Championships"
       }
    ]
 }
