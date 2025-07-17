@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122607475.cms\" />In a stunning upset at the FIDE Women's World Cup, India's Divya Deshmukh defeated world No. 2 Zhu Jiner, showcasing remarkable composure. With this victory, Divya leads their match and is on the verge of reaching the quarterfinals. Meanwhile, Vaishali, Humpy, and Harika secured draws in their respective first games, setting the stage for crucial Game 2 encounters.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-divya-deshmukh-stuns-world-no-2-zhu-jiner-other-indians-settle-for-draw-at-fide-womens-world-cup/articleshow/122607475.cms",
+         "pubDate" : "Thu, 17 Jul 2025 02:26:37",
+         "title" : "Chess: Divya Deshmukh stuns World No 2 Zhu Jiner at FIDE Women's World Cup"
+      },
+      {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-2-day-of-the-juniors-2025-u-s-national-championships/\">POSTGAME Round 2: Day of the Juniors | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-2-day-of-the-juniors-2025-u-s-national-championships/",
+         "pubDate" : "Wed, 16 Jul 2025 23:59:48",
+         "title" : "POSTGAME Round 2: Day of the Juniors | 2025 U.S. National Championships"
+      },
+      {
          "description" : "The Freestyle Chess Grand Slam continues in Las Vegas from 16 to 20 July with a 16-player invitational event featuring a round-robin followed by a double-elimination knockout stage. Top players including Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are taking part. All games will be broadcast live with commentary, and eliminated players will contribute to coverage. | Follow the games live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
