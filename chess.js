@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122614426.cms\" />R Praggnanandhaa achieved a remarkable victory against world champion Magnus Carlsen at the Freestyle Chess Grand Slam Tour in Las Vegas, securing a clean sweep across all formats. Carlsen's subsequent losses and playoff defeat eliminated him from title contention. Praggnanandhaa now shares the lead in Group White, advancing to the quarterfinals along with other top players from both groups.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/las-vegas-chess-grand-slam-tour-r-praggnanandhaa-stuns-magnus-carlsen-world-no-1-out-of-title-contention/articleshow/122614426.cms",
+         "pubDate" : "Thu, 17 Jul 2025 05:06:26",
+         "title" : "Praggnanandhaa stuns Magnus Carlsen, World No 1 out of title contention"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122607475.cms\" />In a stunning upset at the FIDE Women's World Cup, India's Divya Deshmukh defeated world No. 2 Zhu Jiner, showcasing remarkable composure. With this victory, Divya leads their match and is on the verge of reaching the quarterfinals. Meanwhile, Vaishali, Humpy, and Harika secured draws in their respective first games, setting the stage for crucial Game 2 encounters.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-2-day-of-the-juniors-2025-u-s-national-championships/",
          "pubDate" : "Wed, 16 Jul 2025 23:59:48",
          "title" : "POSTGAME Round 2: Day of the Juniors | 2025 U.S. National Championships"
+      },
+      {
+         "description" : "GM Levon Aronian made a statement at the Freestyle Chess Grand Slam Las Vegas on Wednesday by defeating GM Magnus Carlsen 2-0 in a tiebreak showdown, keeping his chances alive of winning the $200,000 first prize, and in the process, condemning Car...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/freestyle-chess-grandslam-las-vegas-group-stage",
+         "pubDate" : "Wed, 16 Jul 2025 23:55:00",
+         "title" : "Aronian Stuns Carlsen In Tiebreaks; Nakamura Dominates With 6/7"
       },
       {
          "description" : "The Freestyle Chess Grand Slam continues in Las Vegas from 16 to 20 July with a 16-player invitational event featuring a round-robin followed by a double-elimination knockout stage. Top players including Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are taking part. All games will be broadcast live with commentary, and eliminated players will contribute to coverage. | Follow the games live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
@@ -602,14 +618,6 @@ news_feed (
          "title" : "Le Wins Leon Masters; Oro Impresses Vs. Anand"
       },
       {
-         "description" : "After game two of the first round in the 2025 FIDE Women&#39;s World Cup, 52 players are confirmed for round two. Those who won their matches will enjoy a rest day on Tuesday, while we will see 11 pairs of players fighting for their spots in round two...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-1-game-2",
-         "pubDate" : "Mon, 07 Jul 2025 12:26:00",
-         "title" : "11 Matches Go To Tiebreaks"
-      },
-      {
          "description" : "Rank Under 07 Rank &#160;&#160;&#160;&#160;&#160;&#160; Under 07 Girls 1 Evan Antonio Telles 1 Shreyanshi Jain 2 Duvesh Milan P 2 Anika K 3 Ansh Dadhich",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-amazing-performances-dont-mean-gukesh-became-worlds-best-rapid-player-overnight-fide-ceo-emil-sutovsky/articleshow/122265696.cms",
          "pubDate" : "Sat, 05 Jul 2025 10:12:30",
          "title" : "'Amazing results don't make Gukesh world's best rapid player overnight': FIDE CEO"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122260942.cms\" />D Gukesh triumphed in the SuperUnited Rapid & Blitz tournament's rapid section in Zagreb, highlighted by a victory against World No. 1 Magnus Carlsen. After an initial loss, Gukesh demonstrated resilience with five consecutive wins, securing his lead. He concluded the rapid section with a win against Wesley So and aims to maintain his form in the upcoming blitz format.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-d-gukesh-reveals-bet-with-cousin-if-he-beat-magnus-carlsen-leads-by-3-points-in-zagreb/articleshow/122260942.cms",
-         "pubDate" : "Sat, 05 Jul 2025 04:07:06",
-         "title" : "Chess | Gukesh reveals bet with cousin if he beat Carlsen; leads by 3 points in Zagreb"
       },
       {
          "description" : "All you need to know as R Vaishali, Harikia Dronavalli and other Indians battle chess's best in the World Cup.",
