@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Freestyle Chess Grand Slam continues in Las Vegas from 16 to 20 July with a 16-player invitational event featuring a round-robin followed by a double-elimination knockout stage. Top players including Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are taking part. All games will be broadcast live with commentary, and eliminated players will contribute to coverage. | Follow the games live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-live",
+         "pubDate" : "Thu, 17 Jul 2025 19:45:00",
+         "title" : "Freestyle Chess Las Vegas - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122665478.cms\" />Hans Niemann responded to accusations of gloating over Magnus Carlsen's unexpected elimination from the Las Vegas Freestyle Chess Grand Slam. Niemann alluded to the ongoing controversy stemming from Carlsen's 2022 cheating allegations. Carlsen's shocking exit, especially after his previous dominance, has reignited the rivalry between the two chess players, adding another layer of intrigue to the unpredictable tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-hans-niemann-responds-to-claims-he-hate-watched-magnus-carlsens-loss-if-you-think-/articleshow/122665478.cms",
+         "pubDate" : "Thu, 17 Jul 2025 17:53:35",
+         "title" : "Chess | Niemann responds to claims he 'hate-watched' Carlsen's loss: 'If you think ... '"
+      },
+      {
          "description" : "Magnus Carlsen and Vincent Keymer are out of title contention at the Freestyle Chess Grand Slam in Las Vegas after failing to qualify for the upper bracket. In the White Group, Praggnanandhaa Rameshbabu, Nodirbek Abdusattorov and Javokhir Sindarov shared first place with 4&frac12;/7, while Levon Aronian claimed the final qualifying spot after beating Carlsen in a blitz tiebreaker. In the Black Group, Hikaru Nakamura dominated with 6/7, ahead of Hans Niemann, Fabiano Caruana and Arjun Erigaisi. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,6 +96,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-divya-deshmukh-stuns-world-no-2-zhu-jiner-other-indians-settle-for-draw-at-fide-womens-world-cup/articleshow/122607475.cms",
          "pubDate" : "Thu, 17 Jul 2025 02:26:37",
          "title" : "Chess: Divya Deshmukh stuns World No 2 Zhu Jiner at FIDE Women's World Cup"
+      },
+      {
+         "description" : "This year, a number of workshops previously held in-person at the U.S. Open are being hosted online in the lead-up to this year's event. This change is intended to make these workshops accessible to those not on-site. A full schedule of online workshops (and links to recordings of the already-concluded workshops) can be viewed at the bottom of this page.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/online-workshops-schedule-delegates-meeting",
+         "pubDate" : "Thu, 17 Jul 2025 00:00:00",
+         "title" : "Online Workshops Schedule for Delegates Meeting"
+      },
+      {
+         "description" : "As the National Championships (U.S. Junior, Girls' Junior, and Senior Championships) entered their second round, the intensity was amplified. Following seven decisive games (out of 15) on Tuesday's opening round, players continued vying to set a strong rhythm for the early rounds. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of Crystal Fuller/SLCC<br> <br> <br> <br> While Woodward maintained his sole lead in the Junior, it was Atwell who jumped out to an early lead in the Girls' Junior, with her over-five-hour game being the last one to finish in the tournament. Since the result puts her at 2/2, she surely didn't mind the extra work. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/woodward-atwell-perfect-after-two-national-championships",
+         "pubDate" : "Thu, 17 Jul 2025 00:00:00",
+         "title" : "Woodward, Atwell Perfect After Two in National Championships"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-2-day-of-the-juniors-2025-u-s-national-championships/\">POSTGAME Round 2: Day of the Juniors | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -546,14 +578,6 @@ news_feed (
          "title" : "\"Relief Is The Word\" Says Howell After Defeating Kids 3-1"
       },
       {
-         "description" : "The Chief Teller has reported the following results for the 2025 US Chess Executive Board (EB) Election. Of the 5,089 registered voters, 40% submitted a ballot in this election. Anand Dommalapati1323John D. Rockefeller V1318Kevin Pryor1309Daniel Serna1239Alan Kantor873 The top four are elected to four-year terms on the EB starting at the conclusion of the 2025 Delegates' Meeting on August 2 or August 3 (whichever day the meeting concludes). ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-us-chess-executive-board-election-results",
-         "pubDate" : "Thu, 10 Jul 2025 00:00:00",
-         "title" : "2025 US Chess Executive Board Election Results"
-      },
-      {
          "description" : "If you were hoping for upsets, blunders, and dramatic twists of fate, game one of round two in the 2025 FIDE Women&#39;s World Cup did not disappoint. On the one hand, we saw several pre-tournament favorites win, including GMs&#38;nbsp;Lei Tingjie, Nana D...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -592,14 +616,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/international-chess-day-portals-celebration",
          "pubDate" : "Wed, 09 Jul 2025 08:00:00",
          "title" : "Chess.com And Portals Connect 4 Countries In Event Celebrating International Chess Day"
-      },
-      {
-         "description" : "Today's puzzles begin a series featuring games from the 2025 FIDE World Cadets Cup. Read our full report here, and check out more puzzles for younger or newer players in this week's Tactics Tuesday column. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cadets-cup-pt1",
-         "pubDate" : "Wed, 09 Jul 2025 00:00:00",
-         "title" : "Wednesday Workout: FIDE World Cadets Cup, Pt.1"
       },
       {
          "description" : "Team Liquid&#39;s chess roster just got even stronger. The Dutch esports powerhouse has added world number-four GM Praggnanandhaa Rameshbabu to their ranks, joining superstar GMs Magnus Carlsen and Fabiano Caruana. The 19-year-old Indian prodigy was...",
@@ -728,14 +744,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-i-feel-pity-garry-kasparov-asserts-gukesh-not-ready-for-blitz/articleshow/122275592.cms",
          "pubDate" : "Sun, 06 Jul 2025 03:31:59",
          "title" : "Chess | 'I feel pity' - Garry Kasparov asserts Gukesh not ready for Blitz"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122275142.cms\" />After a stellar performance in the Rapid event, Dommaraju Gukesh experienced a significant setback on the first day of the Blitz competition at the SuperUnited Rapid and Blitz Chess Tournament in Zagreb. He only managed 1.5 points, losing seven games. Magnus Carlsen surged ahead, leading the standings, while R Praggnanandhaa had a mixed day, slipping to fifth overall.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-shocking-magnus-carlsen-takes-another-swipe-at-world-champion-gukesh/articleshow/122275142.cms",
-         "pubDate" : "Sun, 06 Jul 2025 02:20:02",
-         "title" : "Chess | 'Shocking' - Magnus Carlsen takes another swipe at Gukesh"
       },
       {
          "description" : "The list of things I feel I should, or have to do, is endless. Even though I am self-employed (and clearly very privileged) and have a lot of flexibility on paper, the have-tos and should's make me feel caged. Like I'm running on a treadmil all day long. I'm sure you know that feeling. You []",
