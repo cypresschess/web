@@ -26,6 +26,14 @@ news_feed (
          "title" : "ECF Yearbook 2025 - print edition"
       },
       {
+         "description" : "All four&#38;nbsp;2025 FIDE Women&#39;s World Cup round-four tiebreaks were won by Indian players. GMs Divya Deshmukh and Koneru Humpy were the first to book Quarterfinals spots, defeating GMs Zhu Jiner and Alexandra Kosteniuk respectively 1.5-0.5 in the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-4-tiebreaks",
+         "pubDate" : "Fri, 18 Jul 2025 15:25:58",
+         "title" : "Dream Day For India As All 4 Players Clinch Quarterfinal Spots"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -634,14 +642,6 @@ news_feed (
          "title" : "Chess, ChessFest, the BCC and Liverpool on the BBC"
       },
       {
-         "description" : "GM Nihal Sarin and GM Hikaru Nakamura are your winners for the July 8 editions of Titled Tuesday. Nakamura also finished third in the early tournament, and after he started out 8/8 in the late event, his 3416 Chess.com Blitz rating had set a new a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nihal-nakamura-win-titled-tuesday-july-8-2025",
-         "pubDate" : "Wed, 09 Jul 2025 08:14:06",
-         "title" : "Nakamura Resets Own Rating Record With Big Tuesday"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122319833.cms\" />Despite a mixed run after his world championship win, Gukesh D showed resilience at Norway Chess, securing a notable victory against Magnus Carlsen. His long-time mentor, Viswanathan Anand, upgraded Gukesh's performance assessment, acknowledging his resourcefulness. Anand highlighted areas for improvement, particularly decision-making in games. Gukesh currently leads the SuperUnited Rapid and Blitz Croatia 2025, demonstrating his ongoing competitive spirit.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -880,14 +880,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-rapid-blitz-chess-championship-2025-official-regulations/",
          "pubDate" : "Sat, 28 Jun 2025 07:13:19",
          "title" : "European Women's Rapid & Blitz Chess Championship 2025 - Official regulations"
-      },
-      {
-         "description" : " The 2nd Uzchess Cup took place in Tashkent, Uzbekistan, 19th to 27th June. There are three round robin tournaments and an open. Players: Masters: Arjun, Erigaisi,Nodirbek Abdusattorov, Praggnanandhaa, Ian Nepomniachtchi, Chithambaram V Aravindh, Richard Rapport, Javokhir Sindarov,Parham Maghsoodloo, Nodirbek Yakubboev,Shamsiddin Vokhidov. The Challengers had Vasyl Ivanchuk as top seed. Praggnanandhaa won a tie-break above Javokhir Sindarov and Nodirbek Abdusattorov but only after a double round robin blitz was drawn and they had to play an additional single round robin where Praggnanandhaa beat Sindarov in round 2 to take the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/2nd-uzchess-cup-2025",
-         "pubDate" : "Fri, 27 Jun 2025 21:01:00",
-         "title" : "2nd Uzchess Cup 2025 - Games and Results"
       }
    ]
 }
