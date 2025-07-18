@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Freestyle Chess Grand Slam continues in Las Vegas from 16 to 20 July with a 16-player invitational event featuring a round-robin followed by a double-elimination knockout stage. Top players including Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are taking part. All games will be broadcast live with commentary, and eliminated players will contribute to coverage. | Follow the games live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-live",
+         "pubDate" : "Fri, 18 Jul 2025 19:45:00",
+         "title" : "Freestyle Chess Las Vegas - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122769667.cms\" />In a first, Koneru Humpy, Dronavalli Harika, R Vaishali, and Divya Deshmukh made it to the FIDE Women's World Cup quarterfinals. FIDE CEO Emil Sutovsky congratulated the players. The Indian players won tense tie-breakers. Humpy defeated Alexandra Kosteniuk, and Harika edged out Kateryna Lagno. Vaishali defeated Meruert Kamalidenova, and Divya Deshmukh beat Zhu Jiner.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-quite-a-feat-fide-ceo-lauds-indian-stars-after-all-four-enter-quarterfinals-of-womens-world-cup/articleshow/122769667.cms",
+         "pubDate" : "Fri, 18 Jul 2025 17:33:10",
+         "title" : "'Quite a feat' - FIDE CEO lauds Indians after all four enter QFs of women's WC"
+      },
+      {
+         "description" : "The ECF has a limited stock of printed 2025 Yearbooks priced at &pound;10.00 for members and &pound;12.00 for non-members per issue, including second class postage. A form to order the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-yearbook-2025-print-edition/",
+         "pubDate" : "Fri, 18 Jul 2025 16:00:36",
+         "title" : "ECF Yearbook 2025 - print edition"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-world-cup-2025-r4g2",
          "pubDate" : "Fri, 18 Jul 2025 11:35:00",
          "title" : "Women's World Cup: Zhu bounces back, Dzagnidze knocks out Muzychuk"
+      },
+      {
+         "description" : "For the third time in seven weeks, Freestyle Friday was almost over before it started on July 18, with GM Dmitry Andreikin becoming the third player to take the tournament on a perfect 11/11 score, following GM Jeffery Xiong on June 6 and GM Hikar...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andreikin-wins-freestyle-friday-july-18-2025",
+         "pubDate" : "Fri, 18 Jul 2025 11:17:16",
+         "title" : "Perfect Score Encore As Andreikin Joins 11/11 Freestyle Friday Crew"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122750090.cms\" />Arjun Erigaisi triumphed over Nodirbek Abdusattorov, advancing to the Freestyle Grand Slam Chess Tour semifinals, while Praggnanandhaa lost a close match to Fabiano Caruana. Levon Aronian and Hans Niemann also secured victories, setting up semifinal clashes. In the lower bracket, Magnus Carlsen, Wesley So, Leinier Dominguez Perez, and Vincent Keymer emerged victorious, showcasing intense competition.",
@@ -80,14 +112,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-3-woodward-in-the-lead-with-perfect-3-3-2025-u-s-national-championships/",
          "pubDate" : "Thu, 17 Jul 2025 23:54:32",
          "title" : "POSTGAME Round 3: Woodward In The Lead With Perfect 3/3 | 2025 U.S. National Championships"
-      },
-      {
-         "description" : "The Freestyle Chess Grand Slam continues in Las Vegas from 16 to 20 July with a 16-player invitational event featuring a round-robin followed by a double-elimination knockout stage. Top players including Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are taking part. All games will be broadcast live with commentary, and eliminated players will contribute to coverage. | Follow the games live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-live",
-         "pubDate" : "Thu, 17 Jul 2025 19:45:00",
-         "title" : "Freestyle Chess Las Vegas - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122665478.cms\" />Hans Niemann responded to accusations of gloating over Magnus Carlsen's unexpected elimination from the Las Vegas Freestyle Chess Grand Slam. Niemann alluded to the ongoing controversy stemming from Carlsen's 2022 cheating allegations. Carlsen's shocking exit, especially after his previous dominance, has reignited the rivalry between the two chess players, adding another layer of intrigue to the unpredictable tournament.",
@@ -618,14 +642,6 @@ news_feed (
          "title" : "Nakamura Resets Own Rating Record With Big Tuesday"
       },
       {
-         "description" : "Chess.com is excited to announce our newest partnership with viral Portal sculptures as we celebrate the upcoming International Chess Day with our Portals x Chess.com event. On July 20, starting at 10 a.m. ET / 16:00 CEST, players in Dublin, Lubli...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/international-chess-day-portals-celebration",
-         "pubDate" : "Wed, 09 Jul 2025 08:00:00",
-         "title" : "Chess.com And Portals Connect 4 Countries In Event Celebrating International Chess Day"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122319833.cms\" />Despite a mixed run after his world championship win, Gukesh D showed resilience at Norway Chess, securing a notable victory against Magnus Carlsen. His long-time mentor, Viswanathan Anand, upgraded Gukesh's performance assessment, acknowledging his resourcefulness. Anand highlighted areas for improvement, particularly decision-making in games. Gukesh currently leads the SuperUnited Rapid and Blitz Croatia 2025, demonstrating his ongoing competitive spirit.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -672,14 +688,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-womens-world-chess-cup-2025-kicked-off-in-batumi-georgia/",
          "pubDate" : "Mon, 07 Jul 2025 12:14:49",
          "title" : "FIDE Women's World Chess Cup 2025 kicked off in Georgia"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122293602.cms\" />Magnus Carlsen secured victory at the Super United Rapid and Blitz in Croatia, overshadowing reigning World Champion Gukesh Dommaraju. Despite Carlsen's recent criticisms and subtle jabs towards Gukesh's abilities, the young challenger has consistently responded with strong performances on the board. This rivalry marks a significant transition in world chess, reminiscent of Carlsen's own rise to challenge established legends.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-magnus-carlsens-respect-for-d-gukesh-is-only-going-to-grow-what-does-it-even-mean/articleshow/122293602.cms",
-         "pubDate" : "Mon, 07 Jul 2025 08:10:03",
-         "title" : "Chess | 'Carlsen's respect for Gukesh is only going to grow' - What does it even mean?"
       },
       {
          "description" : " The China YanCheng GM Match took place Wed 2nd Jul to Sun 6th Jul 2025. Wei Yi played Levon Aronian in four classical games followed by four rapid games on the final day. Wei Yi won the match, the classical games counted double the rapid games. Wei Yi won the classical 2.5-1.5 and after winning the first two rapid games he had already secured the match and the remaining two were not played.",
@@ -834,14 +842,6 @@ news_feed (
          "title" : "FIDE Chess rankings for July: R Praggnanandhaa becomes India no.1 in classical"
       },
       {
-         "description" : "3Cs (Children's Chess Club) were not only very honoured to welcome the Mayor and Mayoress of Oldham to one of their weekly club nights but were also delighted that chess...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/mayoral-visit-to-3cs-chess-club/",
-         "pubDate" : "Mon, 30 Jun 2025 14:47:27",
-         "title" : "Mayoral Visit to 3Cs Chess Club"
-      },
-      {
          "description" : " The Chess Stars 5.0 tournament took place in Moscow 26th to 30th June 2025. Players: Vladislav Artemiev, Sergey Karjakin, Teimour Radjabov, Evgeny Tomashevsky, Raunak Sadhwani, Hou Yifan, Aleksandra Goryachkina, Kateryna Lagno, Bibisara Assaubayeva and Valentina Gunina. 3 days of rapid was followed by 2 days of blitz. Vladislav Artemiev won the rapid with 7/9 and blitz with 14.5/18. Raunak Sadhwani was second in the rapid and Sergey Karjakin second in the blitz.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -888,14 +888,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/2nd-uzchess-cup-2025",
          "pubDate" : "Fri, 27 Jun 2025 21:01:00",
          "title" : "2nd Uzchess Cup 2025 - Games and Results"
-      },
-      {
-         "description" : "They are absolutely vital. Gukesh won the World Championship with one - or we could say Ding Liren lost his title because he misplayed it. So can you understand and play pawn endings proficiently? Take a look at this position: White has six legal moves, all with his king. But only one of them ensures the win. Which one? We have four instructive and entertaining positions that will test your skills. And hopefully leave you a better, more effective player.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/can-you-play-pawn-endings-2",
-         "pubDate" : "Fri, 27 Jun 2025 16:06:21",
-         "title" : "Can you play pawn endings?"
       }
    ]
 }
