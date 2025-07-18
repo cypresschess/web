@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-3-woodward-in-the-lead-with-perfect-3-3-2025-u-s-national-championships/\">POSTGAME Round 3: Woodward In The Lead With Perfect 3/3 | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-3-woodward-in-the-lead-with-perfect-3-3-2025-u-s-national-championships/",
+         "pubDate" : "Thu, 17 Jul 2025 23:54:32",
+         "title" : "POSTGAME Round 3: Woodward In The Lead With Perfect 3/3 | 2025 U.S. National Championships"
+      },
+      {
          "description" : "The Freestyle Chess Grand Slam continues in Las Vegas from 16 to 20 July with a 16-player invitational event featuring a round-robin followed by a double-elimination knockout stage. Top players including Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are taking part. All games will be broadcast live with commentary, and eliminated players will contribute to coverage. | Follow the games live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -104,6 +112,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-divya-deshmukh-stuns-world-no-2-zhu-jiner-other-indians-settle-for-draw-at-fide-womens-world-cup/articleshow/122607475.cms",
          "pubDate" : "Thu, 17 Jul 2025 02:26:37",
          "title" : "Chess: Divya Deshmukh stuns World No 2 Zhu Jiner at FIDE Women's World Cup"
+      },
+      {
+         "description" : "Five players earned norms at NYC Chess Norms' Marshall Summer Six Day GM/IM Invitational, held July 8 through 13 at the Marshall Chess Club in Manhattan. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> FA Carlos Chavez and Samrug Narayanan displaying the latter's first GM norm (Photos courtesy of NYC Chess Norms)<br> <br> In the GM A section, IM Samrug Narayanan finished in clear first with a 6&frac12;/9 score, a 2607 FIDE performance rating, and his first GM norm. Norms galore in the GM B section, even with two GMs (and one IM: GM Gabor Nagy, GM Vojtech Plat, and IM Josiah Stearman) ea",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/five-norms-earned-marshall-summer-invitational",
+         "pubDate" : "Thu, 17 Jul 2025 00:00:00",
+         "title" : "Five Norms Earned at Marshall Summer Invitational"
       },
       {
          "description" : "This year, a number of workshops previously held in-person at the U.S. Open are being hosted online in the lead-up to this year's event. This change is intended to make these workshops accessible to those not on-site. A full schedule of online workshops (and links to recordings of the already-concluded workshops) can be viewed at the bottom of this page.",
@@ -536,14 +552,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-magnus-carlsen-beats-chatgpt-without-losing-a-piece-ai-tool-predicts-world-no-1s-rating/articleshow/122377908.cms",
          "pubDate" : "Fri, 11 Jul 2025 03:14:42",
          "title" : "Carlsen beats ChatGPT without losing a piece, AI tool predicts his FIDE Rating"
-      },
-      {
-         "description" : "There's no such thing as an easy pairing in this tournament. The 2025 FIDE Women's World Cup is down from 107 players to the final 32 in Batumi, Georgia, with three qualifying spots for the 2026 FIDE Women's Candidate Tournament. 26 of the top 32 seeds are still in the running, with IM Carissa Yip (seeded 22nd) the lone American still standing. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Top-seeded GM Lei Tingjie illustrates the pressure cooker environment of a knockout tournament (Photo courtesy of Anna Shtourman/FIDE)<br> <br> <br> <br> In case you missed it, our first round report covered the details of the knock-out format. The first classical ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/womens-world-cup-yip-last-american-standing-champions-curse-continues",
-         "pubDate" : "Fri, 11 Jul 2025 00:00:00",
-         "title" : "Women's World Cup: Yip Last American Standing, Champion's Curse Continues"
       },
       {
          "description" : "12 matches go to tiebreaks in round two of the 2025 FIDE Women&#39;s World Cup. In a fighting second game of classical chess, we saw six win on demand. Notably, 2023 World Cup winner GM Aleksandra Goryachkina staved off elimination for at least anothe...",
