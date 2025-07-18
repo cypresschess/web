@@ -50,12 +50,28 @@ news_feed (
          "title" : "FIDE Women's Chess World Cup: Zhu Jiner wins to bring parity with Divya Deshmukh"
       },
       {
+         "description" : "The International Chess Federation (FIDE) has announced a strong field for the highly anticipated FIDE Grand Swiss 2025, scheduled to take place September 3-16 in Samarkand, Uzbekistan. 2025 has been packed with great chess events, but many more...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gukesh-headlines-spectacular-fide-grand-swiss-lineup",
+         "pubDate" : "Fri, 18 Jul 2025 05:51:02",
+         "title" : "World Champion Gukesh Headlines Spectacular Grand Swiss Lineup"
+      },
+      {
          "description" : "A 10-hour marathon day at the $750,000 Freestyle Chess Grand Slam Las Vegas saw GM Levon Aronian follow up his elimination of GM Magnus Carlsen on Wednesday by knocking out GM Hikaru Nakamura 2.5-1.5 on Thursday.&#38;nbsp; Aronian is joined in the S...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/freestyle-chess-quarter-final-stage",
          "pubDate" : "Fri, 18 Jul 2025 03:33:00",
          "title" : "Aronian, Caruana, Niemann, Arjun Reach Semifinals In Vegas"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Andy Woodward (L) improved to 3/3 after yesterday's win over Sharvesh Deviprasath (Photo courtesy of Crystal Fuller/SLCC)<br> <br> <br> <br> Although we are only a third of the way through the tournament, round 3 of the National Championships was riddled with deja vu moments, with motifs reoccurring between different sections and different rounds. We saw yet another knight get trapped on the b8-square, two instances of the queen triumphing against rook and pawns, and, in both knight-versus-bishop endgames of the day, it was the cavalry who emerged victorious, albeit with different colors. With pieces figh",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/woodward-improves-33-us-junior-championship-girls-junior-and-senior-races-tighten",
+         "pubDate" : "Fri, 18 Jul 2025 00:00:00",
+         "title" : "Woodward Improves to 3/3 in U.S. Junior Championship, Girls' Junior and Senior Races Tighten"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-3-woodward-in-the-lead-with-perfect-3-3-2025-u-s-national-championships/\">POSTGAME Round 3: Woodward In The Lead With Perfect 3/3 | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -370,14 +386,6 @@ news_feed (
          "title" : "Chess | Women's World Cup: Koneru Humpy, Divya Deshmukh seal pre-quarter berths"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of Anna Shtourman/FIDE<br> <br> <br> <br> India's GM Vaishali Rameshbabu knocked IM Carissa Yip, the last American standing, out of the 2025 FIDE Women's World Cup in the third round. Yip went down fighting in a 4-2 loss to Indian GM Vaishali Rameshbabu that saw Yip unable to convert a significant advantage in each of Monday's first two tie-breaker games before momentum swung back to Vaishali.The first classical game saw an interesting choice from Yip, who essentially accepted an early draw offer with the white pieces: Yip was able to create more double-edged play in the second classical ga",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/vaishali-knocks-out-yip-top-seeds-advance-2025-fide-womens-world-cup",
-         "pubDate" : "Mon, 14 Jul 2025 00:00:00",
-         "title" : "Vaishali Knocks Out Yip, Top Seeds Advance at 2025 FIDE Women's World Cup"
-      },
-      {
          "description" : " Brewington Hardaway was one of nine recipients of the Samford Fellowship, awarded to players of tremendous promise. Most of the players are well-known in scholastic circles, having earned All-American honors. Hardaway, who earned his Grandmaster title early this year, is the first African-American to receive the Samford award. Photo from X (Brewington Hardaway) In its The post <a href=\"https://thechessdrum.net/blog/2025/07/13/brewington-hardaway-receives-samford-fellow/\">Brewington Hardaway receives Samford Fellow!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -616,14 +624,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/international-chess-day-portals-celebration",
          "pubDate" : "Wed, 09 Jul 2025 08:00:00",
          "title" : "Chess.com And Portals Connect 4 Countries In Event Celebrating International Chess Day"
-      },
-      {
-         "description" : "Team Liquid&#39;s chess roster just got even stronger. The Dutch esports powerhouse has added world number-four GM Praggnanandhaa Rameshbabu to their ranks, joining superstar GMs Magnus Carlsen and Fabiano Caruana. The 19-year-old Indian prodigy was...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/praggnanandaa-joins-carlsen-caruana-team-liquid",
-         "pubDate" : "Tue, 08 Jul 2025 13:51:00",
-         "title" : "Praggnanandhaa Joins Carlsen, Caruana As Team Liquid Builds Chess Superteam"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122319833.cms\" />Despite a mixed run after his world championship win, Gukesh D showed resilience at Norway Chess, securing a notable victory against Magnus Carlsen. His long-time mentor, Viswanathan Anand, upgraded Gukesh's performance assessment, acknowledging his resourcefulness. Anand highlighted areas for improvement, particularly decision-making in games. Gukesh currently leads the SuperUnited Rapid and Blitz Croatia 2025, demonstrating his ongoing competitive spirit.",
