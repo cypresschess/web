@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " 'We are allocating &pound;1.5m to help identify, support and elevate top-tier players' ChessFest in Trafalgar Square attracted more than 20,000 visitors last Sunday, slightly below last year's record 23,000 but still indicating strong public interest. England's grandmasters gave simuls and met amateurs at blitz, living chess was played with professional actors and there was a blindfold exhibition plus a transatlantic prodigy match. Additional ChessFests took place in ­Portishead and Hull, with a ­further one scheduled for Liverpool on Sunday. ChessFest was again sponsored by XTX Markets. <a href=\"https://www.theguardian.com/sport/2025/jul/18/chess-rachel-reeves-announces-15m-fund-as-london-",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/jul/18/chess-rachel-reeves-announces-15m-fund-as-london-chessfest-attracts-20000-visitors",
+         "pubDate" : "Fri, 18 Jul 2025 07:00:46",
+         "title" : "Chess: Rachel Reeves announces &pound;1.5m fund as London ChessFest attracts 20,000 visitors"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122736326.cms\" />Divya Deshmukh's passive play against Zhu Jiner led to a defeat in the second game of their FIDE Women's Chess World Cup pre-quarterfinal, forcing a tiebreak. Meanwhile, Humpy Koneru, Vaishali Rameshbabu, and Harika Dronavalli drew their matches. Several Chinese players advanced to the quarterfinals, setting the stage for intense tiebreak battles for the Indian contenders.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-womens-chess-world-cup-zhu-jiner-wins-to-bring-parity-with-divya-deshmukh/articleshow/122736326.cms",
+         "pubDate" : "Fri, 18 Jul 2025 06:05:13",
+         "title" : "FIDE Women's Chess World Cup: Zhu Jiner wins to bring parity with Divya Deshmukh"
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-3-woodward-in-the-lead-with-perfect-3-3-2025-u-s-national-championships/\">POSTGAME Round 3: Woodward In The Lead With Perfect 3/3 | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -746,14 +762,6 @@ news_feed (
          "title" : "European Youth Team Chess Championship 2025 commenced in Slovenia"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122275592.cms\" />Garry Kasparov believes Gukesh's rapid win against Magnus Carlsen had a significant psychological impact, affecting his blitz performance at the SuperUnited Rapid & Blitz tournament. Kasparov observed Gukesh's games were feeble in the blitz section, suggesting he might not be ready for the faster format. Carlsen, however, recovered strongly in the blitz after a poor rapid showing.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-i-feel-pity-garry-kasparov-asserts-gukesh-not-ready-for-blitz/articleshow/122275592.cms",
-         "pubDate" : "Sun, 06 Jul 2025 03:31:59",
-         "title" : "Chess | 'I feel pity' - Garry Kasparov asserts Gukesh not ready for Blitz"
-      },
-      {
          "description" : "The list of things I feel I should, or have to do, is endless. Even though I am self-employed (and clearly very privileged) and have a lot of flexibility on paper, the have-tos and should's make me feel caged. Like I'm running on a treadmil all day long. I'm sure you know that feeling. You []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -936,14 +944,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/can-you-play-pawn-endings-2",
          "pubDate" : "Fri, 27 Jun 2025 16:06:21",
          "title" : "Can you play pawn endings?"
-      },
-      {
-         "description" : " The world No 1 abandoned his attempts to reach the round number at classical chess in 2023, but achieved it this week on the first Freestyle rating list For years the world No 1, Magnus Carlsen, tried to achieve a 2900 classical rating but he always peaked 10-20 points short of the round figure. The Norwegian, 34, had a personal best of 2889, achieved in 2014. That was 33 points ahead of Garry Kasparov's highest figure and 100 ahead of Bobby Fischer. Carlsen made later attempts but could never get past the 2880s, while the numbers had an eerie similarity to the 28,000s and 29,000s at the top of Everest where George Mallory and Andrew Irvine perished in 1924. In the new <a href=\"https://www.",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/jun/27/chess-carlsen-finally-achieves-2900-rating-as-niemann-aims-to-be-las-vegas-party-pooper",
-         "pubDate" : "Fri, 27 Jun 2025 07:00:11",
-         "title" : "Chess: Carlsen finally achieves 2900 rating as Niemann aims to be Las Vegas party pooper"
       }
    ]
 }
