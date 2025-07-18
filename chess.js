@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
+         "pubDate" : "Fri, 18 Jul 2025 12:50:00",
+         "title" : "Women's World Cup, Round 4, Tiebreaks - Live!"
+      },
+      {
+         "description" : "With a victory over Radoslaw Wojtaszek, Vladimir Fedoseev took the lead in the overall standings of the Biel Masters Triathlon. Aravindh is tied for second place after a draw against Volodar Murzin. Frederik Svane suffered his second defeat in a row against Saleh Salem. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fedoseev-regains-the-lead",
+         "pubDate" : "Fri, 18 Jul 2025 12:26:39",
+         "title" : "Biel: Fedoseev regains the lead"
+      },
+      {
+         "description" : "Four players secured spots in the quarterfinals of the Women's World Cup following the second game of round four, while the remaining four matches will be decided in Friday's tiebreaks. Zhu Jiner won to level her match against Divya Deshmukh, while Lei Tingjie, Tan Zhongyi, Song Yuxin and Nana Dzagnidze qualified directly. Curiously, the four matches that went to tiebreaks features one Indian player each - Divya, Humpy Koneru, Harika Dronavalli and Vaishali Rameshbabu. | Photo: Anna Shtourman / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-r4g2",
+         "pubDate" : "Fri, 18 Jul 2025 11:35:00",
+         "title" : "Women's World Cup: Zhu bounces back, Dzagnidze knocks out Muzychuk"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122750090.cms\" />Arjun Erigaisi triumphed over Nodirbek Abdusattorov, advancing to the Freestyle Grand Slam Chess Tour semifinals, while Praggnanandhaa lost a close match to Fabiano Caruana. Levon Aronian and Hans Niemann also secured victories, setting up semifinal clashes. In the lower bracket, Magnus Carlsen, Wesley So, Leinier Dominguez Perez, and Vincent Keymer emerged victorious, showcasing intense competition.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-grand-slam-tour-arjun-erigaisi-storms-into-semi-final-r-praggnanandhaa-out-of-title-race/articleshow/122750090.cms",
+         "pubDate" : "Fri, 18 Jul 2025 08:19:41",
+         "title" : "Freestyle Grand Slam Tour: Arjun storms into semi-final; Praggnanandhaa out of title race"
+      },
+      {
          "description" : " 'We are allocating &pound;1.5m to help identify, support and elevate top-tier players' ChessFest in Trafalgar Square attracted more than 20,000 visitors last Sunday, slightly below last year's record 23,000 but still indicating strong public interest. England's grandmasters gave simuls and met amateurs at blitz, living chess was played with professional actors and there was a blindfold exhibition plus a transatlantic prodigy match. Additional ChessFests took place in ­Portishead and Hull, with a ­further one scheduled for Liverpool on Sunday. ChessFest was again sponsored by XTX Markets. <a href=\"https://www.theguardian.com/sport/2025/jul/18/chess-rachel-reeves-announces-15m-fund-as-london-",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -16,6 +48,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-womens-chess-world-cup-zhu-jiner-wins-to-bring-parity-with-divya-deshmukh/articleshow/122736326.cms",
          "pubDate" : "Fri, 18 Jul 2025 06:05:13",
          "title" : "FIDE Women's Chess World Cup: Zhu Jiner wins to bring parity with Divya Deshmukh"
+      },
+      {
+         "description" : "A 10-hour marathon day at the $750,000 Freestyle Chess Grand Slam Las Vegas saw GM Levon Aronian follow up his elimination of GM Magnus Carlsen on Wednesday by knocking out GM Hikaru Nakamura 2.5-1.5 on Thursday.&#38;nbsp; Aronian is joined in the S...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/freestyle-chess-quarter-final-stage",
+         "pubDate" : "Fri, 18 Jul 2025 03:33:00",
+         "title" : "Aronian, Caruana, Niemann, Arjun Reach Semifinals In Vegas"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-3-woodward-in-the-lead-with-perfect-3-3-2025-u-s-national-championships/\">POSTGAME Round 3: Woodward In The Lead With Perfect 3/3 | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -48,54 +88,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-4-game-2",
          "pubDate" : "Thu, 17 Jul 2025 15:44:36",
          "title" : "Zhu Strikes Back As Lei, Tan, Song, Dzagnidze Reach Quarterfinals"
-      },
-      {
-         "description" : "Magnus Carlsen and Vincent Keymer are out of title contention at the Freestyle Chess Grand Slam in Las Vegas after failing to qualify for the upper bracket. In the White Group, Praggnanandhaa Rameshbabu, Nodirbek Abdusattorov and Javokhir Sindarov shared first place with 4&frac12;/7, while Levon Aronian claimed the final qualifying spot after beating Carlsen in a blitz tiebreaker. In the Black Group, Hikaru Nakamura dominated with 6/7, ahead of Hans Niemann, Fabiano Caruana and Arjun Erigaisi. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-1",
-         "pubDate" : "Thu, 17 Jul 2025 15:25:00",
-         "title" : "Freestyle Chess Las Vegas: Carlsen out of title race, Nakamura impresses"
-      },
-      {
-         "description" : "The 58th Biel Chess Festival, running from 12 to 25 July, offers a global celebration of chess with 16 tournaments spanning classical, rapid and blitz formats. The main events are the Triathlons, with a Masters and a Challengers section, each including six ambitious top competitors. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2025-live",
-         "pubDate" : "Thu, 17 Jul 2025 14:00:00",
-         "title" : "Biel Chess Festival - Live!"
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
-         "pubDate" : "Thu, 17 Jul 2025 12:50:00",
-         "title" : "Women's World Cup, Round 4, Game 2 - Live!"
-      },
-      {
-         "description" : "After a rest day, the Women's World Cup in Batumi resumed with the fourth round, with 16 players remaining in the competition. Both Lei Tingjie and Tan Zhongyi maintained their winning streak. However, Zhu Jiner was defeated by Divya Deshmukh. | Photos: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-world-cup-round-4-fours-wins-for-white",
-         "pubDate" : "Thu, 17 Jul 2025 12:20:41",
-         "title" : "Women's World Cup, Round 4: Four wins for White"
-      },
-      {
-         "description" : "Chess is very popular in Sri Lanka. Well over 500 players, mainly children and young people, took part in the 12th Dhamso International Chess Festival in 2025. A A C B Amarasinghe scored 9 points from 10 rounds to win the tournament. | Photo: From left: Mr Nuwan Karunakalage, Mr Chamin Dennis Livera, CM A A C B Amarasinghe, Mr Yasindu Vithanage (organiser)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/12-dhamso-international-chess-festival-in-sri-lanka",
-         "pubDate" : "Thu, 17 Jul 2025 11:15:50",
-         "title" : "12. Dhamso International Chess Festival in Sri Lanka"
-      },
-      {
-         "description" : "After the second round of classical chess at the Biel Grandmaster Triathlon, Aravindh Chithambaram has taken the sole lead in the Masters. Despite being behind at times, he managed to beat Svane, while his rivals Fedoseev and Wojtaszek both ended their games with an unspectacular draw. The Challengers tournament is now clearly structured: Theodorou, who defeated Navara today, is now 3 &frac12; points ahead of Hakobyan, who in turn even has a 6-point lead over the rest. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aravindh-new-leader-of-the-biel-gmt-masters",
-         "pubDate" : "Thu, 17 Jul 2025 10:09:33",
-         "title" : "Aravindh new leader of the Biel GMT-Masters"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122630946.cms\" />Magnus Carlsen faced a shocking early exit at the Freestyle Chess Grand Slam Tour in Las Vegas, losing in a playoff to Levon Aronian. Hans Niemann, fresh off online qualification, celebrated Carlsen's defeat with an exuberant reaction that quickly went viral. The event also saw strong performances from Praggnanandhaa, Abdusattorov, and Sindarov, marking an unpredictable start to the tour.",
@@ -202,14 +194,6 @@ news_feed (
          "title" : "Roebers Sets All-Time High Blitz Rating For Women"
       },
       {
-         "description" : "The ninth edition of the Abierto Sesc Caiob&aacute; turned the Brazilian city of Caiob&aacute; into a prime destination for chess enthusiasts. With over 200 participants and a diverse program, the event combined classical tournaments, rapid and blitz competitions, training sessions, and community activities-all set against the backdrop of a stunning seaside location. Brazil's Alexandr Fier emerged as the winner of the main event, while Argentina's Sandro Mareco and the USA's Conrad Holt claimed victories in the rapid and blitz sections, respectively. | Photos: CEX Paran&aacute;",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alexandr-fier-triumphs-in-caiob",
-         "pubDate" : "Wed, 16 Jul 2025 10:00:00",
-         "title" : "Alexandr Fier triumphs in Caiob&aacute;"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122570842.cms\" />Indian Grandmaster R Praggnanandhaa is set to clash with world champion Magnus Carlsen in the Freestyle Chess tournament in New Delhi. Arjun Erigaisi and Vidit Gujrathi are in the other group. The event features a $750,000 prize pool and a unique format where piece positions are randomized.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -240,22 +224,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sarana-movahed-win-titled-tuesday-july-15-2025",
          "pubDate" : "Wed, 16 Jul 2025 08:23:57",
          "title" : "Movahed Wins First Tuesday Title Following Sarana's 16th"
-      },
-      {
-         "description" : "In chess, escaping with the king is a well-known way of parrying an attack. On the first rest day, the organisers invited the grandmasters from the two invitational tournaments to test their escape skills in the Biel Adventure Rooms. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grandmasters-in-the-escape-room",
-         "pubDate" : "Wed, 16 Jul 2025 08:00:00",
-         "title" : "Grandmasters in the Escape Room"
-      },
-      {
-         "description" : "The opening round of classical chess at the Biel Chess Festival's Triathlon produced contrasting fortunes across both sections. While the Masters section saw all three games conclude in draws, maintaining the standings from the rapid phase, the Challengers section delivered three decisive results. David Navara's victory over Daniel Dardha marked the day's most significant development, propelling him from last place to third overall. | Pictured: Vladimir Fedoseev and Aravindh Chithambaram. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2025-classical-1",
-         "pubDate" : "Wed, 16 Jul 2025 06:10:00",
-         "title" : "Biel Chess Festival: All draws in the Masters, all decisive games in the Challengers"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122554362.cms\" />Hans Niemann, once unwelcome, has qualified for the Las Vegas leg of the Freestyle Chess Grand Slam, setting the stage for a highly anticipated rematch with Magnus Carlsen. Niemann's journey involved overcoming skepticism and intense competition to earn his place among the world's top players. This 'Battle of the Baddies' promises high drama and intense competition.",
@@ -658,14 +626,6 @@ news_feed (
          "title" : "Praggnanandhaa Joins Carlsen, Caruana As Team Liquid Builds Chess Superteam"
       },
       {
-         "description" : "The first set of players have been eliminated from the 2025 FIDE Women&#39;s World Cup, and 11 players advanced through tiebreaks into an even more challenging round two. The advancing players are WIM Priyanka K, WIM Anahita Zahedifar, IM Klaudia Kulo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-1-tiebreaks",
-         "pubDate" : "Tue, 08 Jul 2025 13:27:00",
-         "title" : "Dark Horse Priyanka Eliminates Hungary's No. 1"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122319833.cms\" />Despite a mixed run after his world championship win, Gukesh D showed resilience at Norway Chess, securing a notable victory against Magnus Carlsen. His long-time mentor, Viswanathan Anand, upgraded Gukesh's performance assessment, acknowledging his resourcefulness. Anand highlighted areas for improvement, particularly decision-making in games. Gukesh currently leads the SuperUnited Rapid and Blitz Croatia 2025, demonstrating his ongoing competitive spirit.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -744,14 +704,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/superunited-croatia-rapid-and-blitz-2025",
          "pubDate" : "Sun, 6 Jul 2025 18:38:00",
          "title" : "SuperUnited Croatia Rapid and Blitz 2025 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122281678.cms\" />In a swift encounter at the Super United Rapid and Blitz Chess Tournament, D Gukesh and Magnus Carlsen played to a quick 14-move draw. This tactical pause came after Gukesh's struggles in the blitz section, contrasting with Carlsen's dominant performance. Carlsen is now in a strong position to secure another title, highlighting the contrasting trajectories of the two chess giants.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/under-one-minute-d-gukesh-magnus-carlsens-ultra-short-clash-wows-chess-world-watch/articleshow/122281678.cms",
-         "pubDate" : "Sun, 06 Jul 2025 14:58:08",
-         "title" : "Under one minute! Gukesh, Carlsen's ultra-short clash wows chess world - Watch"
       },
       {
          "description" : "The European Youth Team Chess Championship 2025 commenced yesterday in Terme Catez, Slovenia! The Opening ceremony of the event took place shortly before the start of the first round with the attendance of the Deputy Mayor of Brezice Mojca Florjanic, ECU President Zurab Azmaiparashvili, ECU Vice-President Alojzije Jankovic, Vice-President of the Slovenian Chess Federation Mirko Bandelj, Secretary General of the Slovenian Chess Federation Nina Rob, ECU Tournament Director Petr Pisk, FIDE Secretary General Lukasz Turlej and other distinguished guests. Vice-President []",
