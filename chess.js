@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " POSTGAME Round 4: Mishra's Gamble Pays Off! Join GMs Yasser Seirawan &#38; Cristian Chirila, and IM Nazi Paikidze for the top moments of today's games. Standings 2025 U.S. Junior Championship Standings After Round 4 + # Place Name Rating Rd 1 Rd 2 Rd 3 Rd 4 Rd 5 Rd 6 Rd 7 Rd 8 [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-4-mishras-gamble-pays-off/\">POSTGAME ROUND 4: Mishra's Gamble Pays Off!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-4-mishras-gamble-pays-off/",
+         "pubDate" : "Sat, 19 Jul 2025 01:13:23",
+         "title" : "POSTGAME ROUND 4: Mishra's Gamble Pays Off!"
+      },
+      {
          "description" : "The Freestyle Chess Grand Slam continues in Las Vegas from 16 to 20 July with a 16-player invitational event featuring a round-robin followed by a double-elimination knockout stage. Top players including Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are taking part. All games will be broadcast live with commentary, and eliminated players will contribute to coverage. | Follow the games live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-4-tiebreaks",
-         "pubDate" : "Fri, 18 Jul 2025 15:25:58",
+         "pubDate" : "Fri, 18 Jul 2025 15:25:00",
          "title" : "Dream Day For India As All 4 Players Clinch Quarterfinal Spots"
       },
       {
