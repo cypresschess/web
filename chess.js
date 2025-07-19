@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
+         "pubDate" : "Sat, 19 Jul 2025 12:50:00",
+         "title" : "Women's World Cup, Round 5, Game 1 - Live!"
+      },
+      {
+         "description" : "All four round-four tiebreak matches at the Women's World Cup were won by Indian players, completing the lineup for the quarterfinals. Humpy Koneru and Divya Deshmukh advanced with wins in the 15+10 games, while Harika Dronavalli and Vaishali Rameshbabu needed additional rounds to progress. The quarterfinals will feature four Indian players alongside Lei Tingjie, Tan Zhongyi, Nana Dzagnidze and Song Yuxin. | Photo: Anna Shtourman / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-r4tb",
+         "pubDate" : "Sat, 19 Jul 2025 11:40:00",
+         "title" : "Women's World Cup: Humpy, Harika, Vaishali and Divya win tiebreakers"
+      },
+      {
+         "description" : "All India Chess Federation is pleased to announced the 8 FIDE Arbiter Seminars as per the appended schedule below: Sl No Venue` Date 1 Bhubaneshwar",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-arbiter-seminar-2025-26/",
+         "pubDate" : "Sat, 19 Jul 2025 10:06:04",
+         "title" : "FIDE ARBITER SEMINAR 2025-26"
+      },
+      {
+         "description" : "The French Defence is a powerful, combative opening that can bring you both enjoyment and success if you study it properly. But it's not so easy to find the \"right\" course among the many ChessBase courses on the French. Jochen Schwarz, a player from northern Germany and a coach in the south, has been playing the French for many years and has gained extensive experience with the FritzTrainer courses on this opening. He wants to help you find the French Defence video course (or courses) that best suit your needs.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-french-defence-a-powerful-opening-but-what-s-the-best-way-to-study-it",
+         "pubDate" : "Sat, 19 Jul 2025 10:00:00",
+         "title" : "The French Defence: A powerful opening, but what's the best way to study it?"
+      },
+      {
+         "description" : "Proud Moment for India: 4 Players Enter Women's World Cup Quarterfinals!Batumi, Georgia - A historic day for Indian chess as four Indian players have advanced",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/round-4-tiebreak-report-fwwc-georgia/",
+         "pubDate" : "Sat, 19 Jul 2025 09:59:04",
+         "title" : "Round 4- Tiebreak Report FWWC Georgia"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122778184.cms\" />In a stunning display of skill, Divya Deshmukh, along with Koneru Humpy, D Harika, and Vaishali Rameshbabu, have advanced to the quarterfinals of the FIDE Women's Chess World Cup in Batumi. Divya's aggressive play led to a victory against China's Zhu Jiner, while Humpy, Harika, and Vaishali secured their spots through tiebreaks.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -64,14 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-4-tiebreaks",
          "pubDate" : "Fri, 18 Jul 2025 15:25:00",
          "title" : "Dream Day For India As All 4 Players Clinch Quarterfinal Spots"
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
-         "pubDate" : "Fri, 18 Jul 2025 12:50:00",
-         "title" : "Women's World Cup, Round 4, Tiebreaks - Live!"
       },
       {
          "description" : "With a victory over Radoslaw Wojtaszek, Vladimir Fedoseev took the lead in the overall standings of the Biel Masters Triathlon. Aravindh is tied for second place after a draw against Volodar Murzin. Frederik Svane suffered his second defeat in a row against Saleh Salem. | Photos: Biel Chess Festival",
