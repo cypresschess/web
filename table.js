@@ -1,9 +1,11 @@
 jtable([
+"CYPRESS","2025-07-18","44","<a href=http://www.uschess.org/msa/XtblMain.php?202507186192 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-07-14","22","<a href=http://www.uschess.org/msa/XtblMain.php?202507144402 target='_blank'>HOUSTON CHESS FESTIVAL BLITZ</a>",
 "HOUSTON","2025-07-11  - 07-13","180","<a href=http://www.uschess.org/msa/XtblMain.php?202507134692 target='_blank'>2025 HOUSTON CHESS FESTIVAL</a>",
 "HOUSTON","2025-07-13","7","<a href=http://www.uschess.org/msa/XtblMain.php?202507133392 target='_blank'>BELLAIRE SWISS 07/13/2025</a>",
 "HOUSTON","2025-07-12","97","<a href=http://www.uschess.org/msa/XtblMain.php?202507122642 target='_blank'>2025 HOUSTON CHESS FESTIVAL SCHOLAS</a>",
 "HOUSTON","2025-07-12","5","<a href=http://www.uschess.org/msa/XtblMain.php?202507122222 target='_blank'>CHESSPANDA07122025SATURDAY</a>",
+"SPRING","2025-07-11","27","<a href=http://www.uschess.org/msa/XtblMain.php?202507115822 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SPRING","2025-07-11","25","<a href=http://www.uschess.org/msa/XtblMain.php?202507111762 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2025-07-11","12","<a href=http://www.uschess.org/msa/XtblMain.php?202507111682 target='_blank'>FBCC 2025 DENNY'S SUMMERTIME OPEN</a>",
 "HOUSTON","2025-07-06","8","<a href=http://www.uschess.org/msa/XtblMain.php?202507069362 target='_blank'>BELLAIRE SUNDAY SWISS 07.06.2025</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2025-01-03  - 01-05","52","<a href=http://www.uschess.org/msa/XtblMain.php?202501057232 target='_blank'>$2,000  JANUARY 2025 CHAMPIONSHIP</a>",
 "CYPRESS","2025-01-03","29","<a href=http://www.uschess.org/msa/XtblMain.php?202501035882 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2025-01-03","18","<a href=http://www.uschess.org/msa/XtblMain.php?202501035662 target='_blank'>FBCC NATIONAL JRR TOLKIEN DAY</a>",
-"SPRING","2025-01-03","32","<a href=http://www.uschess.org/msa/XtblMain.php?202501035652 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2024-12-29","16","<a href=http://www.uschess.org/msa/XtblMain.php?202412293202 target='_blank'>SUNDAY SWISS AT NOON DEC 29TH</a>",
 ]);
