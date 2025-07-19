@@ -10,14 +10,6 @@ news_feed (
          "title" : "Freestyle Chess Las Vegas - Live!"
       },
       {
-         "description" : "Hans Niemann and Levon Aronian advanced to the Grand Final of the Freestyle Chess Grand Slam in Las Vegas after winning their semifinal matches on Friday. Niemann defeated Fabiano Caruana in tiebreaks, while Aronian overcame Arjun Erigaisi in two classical games. In the lower bracket, Magnus Carlsen, Hikaru Nakamura, Wesley So and Praggnanandhaa Rameshbabu stayed in contention for third place. The final weekend will decide the tournament's champion and remaining podium positions. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-3",
-         "pubDate" : "Sat, 19 Jul 2025 19:15:00",
-         "title" : "Freestyle Chess Las Vegas: Aronian and Niemann reach the final"
-      },
-      {
          "description" : "Recent regrettable events at the music festival in Glastonbury, where pop duo \"Bob Vylan\" led a sad minority of bigots in calling for Jewish extermination, have caused me to revisit the question of antisemitism in general and chess in particular. Vylan's eponymous lead singer, (real name: Pascal Robinson-Foster) notoriously parroted the genocidal brief 'From the river to the sea', a call unwisely broadcast live by []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -34,6 +26,14 @@ news_feed (
          "title" : "'I don't need an apology': Niemann after making his maiden Freestyle final on debut"
       },
       {
+         "description" : "GMs Lei Tingjie and Koneru Humpy struck first in their 2025 FIDE Women&#39;s World Cup quarterfinal matches. Humpy&#39;s win over IM Song Yuxin was convincing if bumpy at times, while Lei confessed she played &#34;pretty horribly&#34; before turning things around...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-quarterfinals-game-1",
+         "pubDate" : "Sat, 19 Jul 2025 13:01:00",
+         "title" : "Lei, Humpy Strike First After Clock Drama"
+      },
+      {
          "description" : "In business, we're taught that taking bold risks is often worth it. You can lose your entire investment, but the upside is nearly unlimited. If you angel invest in 50 startups and one of them becomes a unicorn, you're massively profitable. The risk is capped (100% loss), but the reward isn't. That's what makes high-risk []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -42,36 +42,12 @@ news_feed (
          "title" : "This Mindset Works in Business-But Will Ruin Your Chess"
       },
       {
-         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
-         "pubDate" : "Sat, 19 Jul 2025 12:50:00",
-         "title" : "Women's World Cup, Round 5, Game 1 - Live!"
-      },
-      {
-         "description" : "All four round-four tiebreak matches at the Women's World Cup were won by Indian players, completing the lineup for the quarterfinals. Humpy Koneru and Divya Deshmukh advanced with wins in the 15+10 games, while Harika Dronavalli and Vaishali Rameshbabu needed additional rounds to progress. The quarterfinals will feature four Indian players alongside Lei Tingjie, Tan Zhongyi, Nana Dzagnidze and Song Yuxin. | Photo: Anna Shtourman / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-r4tb",
-         "pubDate" : "Sat, 19 Jul 2025 11:40:00",
-         "title" : "Women's World Cup: Humpy, Harika, Vaishali and Divya win tiebreakers"
-      },
-      {
          "description" : "All India Chess Federation is pleased to announced the 8 FIDE Arbiter Seminars as per the appended schedule below: Sl No Venue` Date 1 Bhubaneshwar",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/fide-arbiter-seminar-2025-26/",
          "pubDate" : "Sat, 19 Jul 2025 10:06:04",
          "title" : "FIDE ARBITER SEMINAR 2025-26"
-      },
-      {
-         "description" : "The French Defence is a powerful, combative opening that can bring you both enjoyment and success if you study it properly. But it's not so easy to find the \"right\" course among the many ChessBase courses on the French. Jochen Schwarz, a player from northern Germany and a coach in the south, has been playing the French for many years and has gained extensive experience with the FritzTrainer courses on this opening. He wants to help you find the French Defence video course (or courses) that best suit your needs.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-french-defence-a-powerful-opening-but-what-s-the-best-way-to-study-it",
-         "pubDate" : "Sat, 19 Jul 2025 10:00:00",
-         "title" : "The French Defence: A powerful opening, but what's the best way to study it?"
       },
       {
          "description" : "Proud Moment for India: 4 Players Enter Women's World Cup Quarterfinals!Batumi, Georgia - A historic day for Indian chess as four Indian players have advanced",
@@ -144,22 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-4-tiebreaks",
          "pubDate" : "Fri, 18 Jul 2025 15:25:00",
          "title" : "Dream Day For India As All 4 Players Clinch Quarterfinal Spots"
-      },
-      {
-         "description" : "With a victory over Radoslaw Wojtaszek, Vladimir Fedoseev took the lead in the overall standings of the Biel Masters Triathlon. Aravindh is tied for second place after a draw against Volodar Murzin. Frederik Svane suffered his second defeat in a row against Saleh Salem. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fedoseev-regains-the-lead",
-         "pubDate" : "Fri, 18 Jul 2025 12:26:39",
-         "title" : "Biel: Fedoseev regains the lead"
-      },
-      {
-         "description" : "Four players secured spots in the quarterfinals of the Women's World Cup following the second game of round four, while the remaining four matches will be decided in Friday's tiebreaks. Zhu Jiner won to level her match against Divya Deshmukh, while Lei Tingjie, Tan Zhongyi, Song Yuxin and Nana Dzagnidze qualified directly. Curiously, the four matches that went to tiebreaks features one Indian player each - Divya, Humpy Koneru, Harika Dronavalli and Vaishali Rameshbabu. | Photo: Anna Shtourman / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-r4g2",
-         "pubDate" : "Fri, 18 Jul 2025 11:35:00",
-         "title" : "Women's World Cup: Zhu bounces back, Dzagnidze knocks out Muzychuk"
       },
       {
          "description" : "For the third time in seven weeks, Freestyle Friday was almost over before it started on July 18, with GM Dmitry Andreikin becoming the third player to take the tournament on a perfect 11/11 score, following GM Jeffery Xiong on June 6 and GM Hikar...",
@@ -688,14 +648,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-june-2025/",
          "pubDate" : "Thu, 10 Jul 2025 08:03:41",
          "title" : "ECU E-Magazine June 2025"
-      },
-      {
-         "description" : "GM David Howell is the first grandmaster to triumph in Kids vs. Stars without losing a game after making draws against IM Marco Materia and FM Supratit Banerjee and beating FM Megan Paragua and WFM Bodhana Sivanandan. The 3-1 win wasn&#39;t easy, with...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/howell-kids-vs-stars-episode-5",
-         "pubDate" : "Thu, 10 Jul 2025 04:47:00",
-         "title" : "\"Relief Is The Word\" Says Howell After Defeating Kids 3-1"
       },
       {
          "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the players and accompanying persons are required to make",
