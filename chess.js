@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Freestyle Chess Grand Slam continues in Las Vegas from 16 to 20 July with a 16-player invitational event featuring a round-robin followed by a double-elimination knockout stage. Top players including Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are taking part. All games will be broadcast live with commentary, and eliminated players will contribute to coverage. | Follow the games live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-live",
+         "pubDate" : "Sat, 19 Jul 2025 19:45:00",
+         "title" : "Freestyle Chess Las Vegas - Live!"
+      },
+      {
+         "description" : "Hans Niemann and Levon Aronian advanced to the Grand Final of the Freestyle Chess Grand Slam in Las Vegas after winning their semifinal matches on Friday. Niemann defeated Fabiano Caruana in tiebreaks, while Aronian overcame Arjun Erigaisi in two classical games. In the lower bracket, Magnus Carlsen, Hikaru Nakamura, Wesley So and Praggnanandhaa Rameshbabu stayed in contention for third place. The final weekend will decide the tournament's champion and remaining podium positions. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-3",
+         "pubDate" : "Sat, 19 Jul 2025 19:15:00",
+         "title" : "Freestyle Chess Las Vegas: Aronian and Niemann reach the final"
+      },
+      {
+         "description" : "Recent regrettable events at the music festival in Glastonbury, where pop duo \"Bob Vylan\" led a sad minority of bigots in calling for Jewish extermination, have caused me to revisit the question of antisemitism in general and chess in particular. Vylan's eponymous lead singer, (real name: Pascal Robinson-Foster) notoriously parroted the genocidal brief 'From the river to the sea', a call unwisely broadcast live by []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/anti-semitism-from-nazi-germany-to-glastonbury/",
+         "pubDate" : "Sat, 19 Jul 2025 15:50:31",
+         "title" : "Anti-Semitism: from Nazi Germany to Glastonbury"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122783461.cms\" />Hans Niemann is in the final of the Freestyle Chess Grand Slam. He defeated Fabiano Caruana in the semi-final. Niemann will face Levon Aronian for the title. The tournament is happening in Las Vegas. Magnus Carlsen and Hikaru Nakamura are competing for third place. Niemann aims to prove himself after his controversy with Carlsen.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -96,14 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/freestyle-chess-semi-final-stage",
          "pubDate" : "Fri, 18 Jul 2025 22:00:00",
          "title" : "Niemann Fells Caruana, Books Finals Clash With Comeback King Aronian"
-      },
-      {
-         "description" : "The Freestyle Chess Grand Slam continues in Las Vegas from 16 to 20 July with a 16-player invitational event featuring a round-robin followed by a double-elimination knockout stage. Top players including Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are taking part. All games will be broadcast live with commentary, and eliminated players will contribute to coverage. | Follow the games live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-live",
-         "pubDate" : "Fri, 18 Jul 2025 19:45:00",
-         "title" : "Freestyle Chess Las Vegas - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122769667.cms\" />In a first, Koneru Humpy, Dronavalli Harika, R Vaishali, and Divya Deshmukh made it to the FIDE Women's World Cup quarterfinals. FIDE CEO Emil Sutovsky congratulated the players. The Indian players won tense tie-breakers. Humpy defeated Alexandra Kosteniuk, and Harika edged out Kateryna Lagno. Vaishali defeated Meruert Kamalidenova, and Divya Deshmukh beat Zhu Jiner.",
