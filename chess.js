@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " POSTGAME Round 4: Mishra's Gamble Pays Off! Join GMs Yasser Seirawan &#38; Cristian Chirila, and IM Nazi Paikidze for the top moments of today's games. Standings 2025 U.S. Junior Championship Standings After Round 4 + # Place Name Rating Rd 1 Rd 2 Rd 3 Rd 4 Rd 5 Rd 6 Rd 7 Rd 8 [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-4-mishras-gamble-pays-off/\">POSTGAME ROUND 4: Mishra's Gamble Pays Off!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122778184.cms\" />In a stunning display of skill, Divya Deshmukh, along with Koneru Humpy, D Harika, and Vaishali Rameshbabu, have advanced to the quarterfinals of the FIDE Women's Chess World Cup in Batumi. Divya's aggressive play led to a victory against China's Zhu Jiner, while Humpy, Harika, and Vaishali secured their spots through tiebreaks.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/womens-chess-world-cup-brave-divya-stuns-chinas-world-no-6-zhu-again/articleshow/122778184.cms",
+         "pubDate" : "Sat, 19 Jul 2025 06:24:05",
+         "title" : "Women's Chess World Cup: Brave Divya stuns China's World No. 6 Zhu, again"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122776741.cms\" />Arjun Erigaisi's impressive run at the Freestyle Chess Grand Slam ended in the semifinals with a loss to Levon Aronian, despite earlier victories over Magnus Carlsen and Hikaru Nakamura. Hans Niemann defeated Fabiano Caruana to advance to the finals. In the playoffs, R Praggnanandhaa and Magnus Carlsen secured victories, while Wesley So and Hikaru Nakamura also won their respective matches.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-grand-slam-tour-arjun-erigaisis-record-run-halted-in-semi-finals-all-american-final-in-vegas/articleshow/122776741.cms",
+         "pubDate" : "Sat, 19 Jul 2025 04:36:16",
+         "title" : "Freestyle Grand Slam Tour: Erigaisi's record run halted; all-American final in Vegas"
+      },
+      {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-4-mishras-gamble-pays-off-2025-us-national-championships/\">POSTGAME ROUND 4: Mishra's Gamble Pays Off!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-4-mishras-gamble-pays-off/",
+         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-4-mishras-gamble-pays-off-2025-us-national-championships/",
          "pubDate" : "Sat, 19 Jul 2025 01:13:23",
          "title" : "POSTGAME ROUND 4: Mishra's Gamble Pays Off!"
+      },
+      {
+         "description" : "GM Hans Niemann and Levon Aronian will be at least $140,000 richer when the Freestyle Chess Grand Slam Las Vegas comes to its conclusion on Sunday after the pair won their respective Semifinals, setting up a Final that was &#34;written in the stars,&#34; ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/freestyle-chess-semi-final-stage",
+         "pubDate" : "Fri, 18 Jul 2025 22:00:00",
+         "title" : "Niemann Fells Caruana, Books Finals Clash With Comeback King Aronian"
       },
       {
          "description" : "The Freestyle Chess Grand Slam continues in Las Vegas from 16 to 20 July with a 16-player invitational event featuring a round-robin followed by a double-elimination knockout stage. Top players including Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are taking part. All games will be broadcast live with commentary, and eliminated players will contribute to coverage. | Follow the games live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "ECF Yearbook 2025 - print edition"
       },
       {
-         "description" : "All four&#38;nbsp;2025 FIDE Women&#39;s World Cup round-four tiebreaks were won by Indian players. GMs Divya Deshmukh and Koneru Humpy were the first to book Quarterfinals spots, defeating GMs Zhu Jiner and Alexandra Kosteniuk respectively 1.5-0.5 in the ...",
+         "description" : "All four&#38;nbsp;2025 FIDE Women&#39;s World Cup round-four tiebreaks were won by Indian players. IM Divya Deshmukh and GM Koneru Humpy were the first to book Quarterfinals spots, defeating GMs Zhu Jiner and Alexandra Kosteniuk respectively 1.5-0.5 in th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-4-tiebreaks",
@@ -610,28 +634,12 @@ news_feed (
          "title" : "ECU E-Magazine June 2025"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122356572.cms\" />Grandmaster Praggnanandhaa has rebounded strongly after a challenging year, securing three major titles and ascending to India No. 1 and World No. 4 in live rankings. His victories at Wijk aan Zee, Superbet Chess Classic, and UzChess Cup have positioned him as a strong contender for a 2026 FIDE Candidates berth.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/changes-in-my-game-showing-results-r-praggnanandhaa/articleshow/122356572.cms",
-         "pubDate" : "Thu, 10 Jul 2025 05:07:11",
-         "title" : "Changes in my game showing results: R Praggnanandhaa"
-      },
-      {
          "description" : "GM David Howell is the first grandmaster to triumph in Kids vs. Stars without losing a game after making draws against IM Marco Materia and FM Supratit Banerjee and beating FM Megan Paragua and WFM Bodhana Sivanandan. The 3-1 win wasn&#39;t easy, with...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/howell-kids-vs-stars-episode-5",
          "pubDate" : "Thu, 10 Jul 2025 04:47:00",
          "title" : "\"Relief Is The Word\" Says Howell After Defeating Kids 3-1"
-      },
-      {
-         "description" : "If you were hoping for upsets, blunders, and dramatic twists of fate, game one of round two in the 2025 FIDE Women&#39;s World Cup did not disappoint. On the one hand, we saw several pre-tournament favorites win, including GMs&#38;nbsp;Lei Tingjie, Nana D...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-2-game-1",
-         "pubDate" : "Wed, 09 Jul 2025 13:50:00",
-         "title" : "Kazakh 19-Year-Old Kamalidenova Upsets Goryachkina, 2023 Winner"
       },
       {
          "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the players and accompanying persons are required to make",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chess-chessfest-the-bcc-and-liverpool-on-the-bbc/",
          "pubDate" : "Wed, 09 Jul 2025 08:50:22",
          "title" : "Chess, ChessFest, the BCC and Liverpool on the BBC"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122319833.cms\" />Despite a mixed run after his world championship win, Gukesh D showed resilience at Norway Chess, securing a notable victory against Magnus Carlsen. His long-time mentor, Viswanathan Anand, upgraded Gukesh's performance assessment, acknowledging his resourcefulness. Anand highlighted areas for improvement, particularly decision-making in games. Gukesh currently leads the SuperUnited Rapid and Blitz Croatia 2025, demonstrating his ongoing competitive spirit.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-rates-d-gukeshs-norway-chess-showing-he-deserved-a-d/articleshow/122319833.cms",
-         "pubDate" : "Tue, 08 Jul 2025 12:41:57",
-         "title" : "Anand rates D Gukesh's Norway Chess showing: 'He deserved a D'"
       },
       {
          "description" : "Three rounds have been played at the European Youth Team Chess Championship 2025 in Terme Catez, Slovenia and only four rounds left before the announcement of the Winners! After three played rounds, Girls sections got the emerged sole leaders, while the Open sections have tied teams on the top. In the Open U18 category, as many as four teams score 5 match points each to tie for the top: Austria, Hungary, Poland and Germany. Four teams closely follow scoring 4 []",
@@ -880,14 +880,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chivalrous-czech-vlastimil-hort/",
          "pubDate" : "Sat, 28 Jun 2025 13:23:02",
          "title" : "Chivalrous Czech: Vlastimil Hort"
-      },
-      {
-         "description" : "The 2025 European Women's Rapid &#38; Blitz Chess Championship will take place from 8th-12th January 2026 in Monte-Carlo, Monaco. The Championship is open to all players representing Chess Federations which are ECU members regardless of their title and rating. There is no limit to the number of participants per federation. Registration starts after 1st August 2025, and applications must be sent to the Tournament Director, Jean Michel Rapaire by mail:&#160;cemc@libello.com.&#160;Registration deadline is December 19th, 2025. The first event on the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-rapid-blitz-chess-championship-2025-official-regulations/",
-         "pubDate" : "Sat, 28 Jun 2025 07:13:19",
-         "title" : "European Women's Rapid & Blitz Chess Championship 2025 - Official regulations"
       }
    ]
 }
