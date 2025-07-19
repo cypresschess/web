@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122783461.cms\" />Hans Niemann is in the final of the Freestyle Chess Grand Slam. He defeated Fabiano Caruana in the semi-final. Niemann will face Levon Aronian for the title. The tournament is happening in Las Vegas. Magnus Carlsen and Hikaru Nakamura are competing for third place. Niemann aims to prove himself after his controversy with Carlsen.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-dont-need-an-apology-hans-niemann-after-making-his-maiden-freestyle-chess-grand-slam-final-on-debut-appearance/articleshow/122783461.cms",
+         "pubDate" : "Sat, 19 Jul 2025 13:13:36",
+         "title" : "'I don't need an apology': Niemann after making his maiden Freestyle final on debut"
+      },
+      {
+         "description" : "In business, we're taught that taking bold risks is often worth it. You can lose your entire investment, but the upside is nearly unlimited. If you angel invest in 50 startups and one of them becomes a unicorn, you're massively profitable. The risk is capped (100% loss), but the reward isn't. That's what makes high-risk []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/chess-improvement-without-risks/",
+         "pubDate" : "Sat, 19 Jul 2025 13:00:00",
+         "title" : "This Mindset Works in Business-But Will Ruin Your Chess"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +80,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-4-mishras-gamble-pays-off-2025-us-national-championships/",
          "pubDate" : "Sat, 19 Jul 2025 01:13:23",
          "title" : "POSTGAME ROUND 4: Mishra's Gamble Pays Off!"
+      },
+      {
+         "description" : "As the U.S. Junior, Girls' Junior, and Senior Championships approach the halfway point, the players continued to demonstrate keen fighting chess, battling for the coveted spot of tournament leader with everything from pugnacious openings to ineluctable endgame precision. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Some pre-game banter before another sharp round (Photo courtesy of Austin Fuller/SLCC)<br> <br> <br> <br> With nine decisive games this round, it wasn't quite as bloody as the last round, but when the dust settled, each section had a clear leader for the first time since the start of the tournament. GM Andy Woodward maintained his lead in",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/clear-leaders-emerge-national-championships",
+         "pubDate" : "Sat, 19 Jul 2025 00:00:00",
+         "title" : "Clear Leaders Emerge in National Championships"
       },
       {
          "description" : "GM Hans Niemann and Levon Aronian will be at least $140,000 richer when the Freestyle Chess Grand Slam Las Vegas comes to its conclusion on Sunday after the pair won their respective Semifinals, setting up a Final that was &#34;written in the stars,&#34; ...",
@@ -434,14 +458,6 @@ news_feed (
          "title" : "Tactics Tuesday: FIDE World Cadets Cup, Pt. 2"
       },
       {
-         "description" : "This year's U.S. Junior Championship, Girls' Junior Championship, and Senior Championship all kick off Tuesday, July 16, at the Saint Louis Chess Club (SLCC). Stay tuned to Chess Life Online for round-by-round coverage, featuring annotated games and highlights, of each round. Read on below to see what to expect from this year's tournaments. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The youngest-ever GM claimed his first U.S. Junior Championship, and it might not be his last (courtesy Lennart Ootes/SLCC)<br> <br> <br> <br> Of the ten players competing for a spot in October's U.S. Championship, five veterans are joined by five newcomers in the U.S.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-us-junior-girls-junior-and-senior-championship-preview",
-         "pubDate" : "Tue, 15 Jul 2025 00:00:00",
-         "title" : "2025 U.S. Junior, Girls' Junior, and Senior Championship Preview"
-      },
-      {
          "description" : "Basketball and chess pros joined forces in the latest sports-and-chess crossover event, the Chesstival, which took place the weekend before the Las Vegas Freestyle Grand Slam, which begins on Wednesday. Grant Williams, of the Charlotte Hornets, wo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -632,14 +648,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jul/11/chess-carlsen-fights-off-gukesh-in-zagreb-as-chessfest-returns-to-trafalgar-square",
          "pubDate" : "Fri, 11 Jul 2025 07:00:01",
          "title" : "Chess: Carlsen fights off Gukesh in Zagreb as ChessFest returns to Trafalgar Square"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122377908.cms\" />Magnus Carlsen, the world's top chess player, defeated OpenAI's ChatGPT in a game, he claimed in a social media post. He shared screenshots of his dominant win on X. Carlsen humorously noted he sometimes gets bored while traveling and plays chess with the artificial intelligence model. The AI tool estimated Carlsen's classical rating strength far below his actual FIDE rating.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-magnus-carlsen-beats-chatgpt-without-losing-a-piece-ai-tool-predicts-world-no-1s-rating/articleshow/122377908.cms",
-         "pubDate" : "Fri, 11 Jul 2025 03:14:42",
-         "title" : "Carlsen beats ChatGPT without losing a piece, AI tool predicts his FIDE Rating"
       },
       {
          "description" : "12 matches go to tiebreaks in round two of the 2025 FIDE Women&#39;s World Cup. In a fighting second game of classical chess, we saw six win on demand. Notably, 2023 World Cup winner GM Aleksandra Goryachkina staved off elimination for at least anothe...",
@@ -904,14 +912,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/niemann-vidit-match-2025",
          "pubDate" : "Sun, 29 Jun 2025 20:34:00",
          "title" : "Niemann-Vidit Match 2025 - Games and Results"
-      },
-      {
-         "description" : "I knew Vlastimil Hort well and played against him many times, without much success. I regarded him as a player of huge potential, who somehow never quite realised the fullest extent of his considerable talent. He was also one of the great sportsmen of 20th-century chess. In 1978 there was talk that Hort might join []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chivalrous-czech-vlastimil-hort/",
-         "pubDate" : "Sat, 28 Jun 2025 13:23:02",
-         "title" : "Chivalrous Czech: Vlastimil Hort"
       }
    ]
 }
