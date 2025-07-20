@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Working with ChessBase 18 is so enjoyable because it builds on the experience of the developers from 17 previous versions. But you don't have to wait for the next release - you'll receive ongoing improvements directly to your computer through the free update service. And don't worry: staying up to date with the latest updates takes just a few clicks. In this tutorial, we'll show you how.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-23-stay-up-to-date-with-program-updates",
+         "pubDate" : "Sun, 20 Jul 2025 07:00:00",
+         "title" : "ChessBase 18 - Tips for beginners, part 23: Stay up to date with program updates"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122793355.cms\" />Koneru Humpy of India and China's Lei Tingjie secured victories in their respective opening games, leading the quarterfinals at the FIDE Women's Chess World Cup. Indian compatriots Divya Deshmukh and Harika D drew, while Vaishali Rameshbabu held China's Tan Zhongyi to a draw after a lengthy 72-move game.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/womens-chess-world-cup-koneru-humpy-lei-tingjie-take-early-lead-in-quarters/articleshow/122793355.cms",
+         "pubDate" : "Sun, 20 Jul 2025 04:19:26",
+         "title" : "Women's Chess World Cup: Humpy, Tingjie take early lead in quarters"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122793147.cms\" />Rameshbabu Praggnanandhaa, the Indian chess prodigy, has once again defeated World No. 1 Magnus Carlsen at the Freestyle Chess Grand Slam in Las Vegas. The 19-year-old grandmaster secured his second victory over Carlsen in the tournament, showcasing his tactical prowess. Despite Carlsen winning the semifinal clash, Praggnanandhaa's impressive performance solidifies his position as a rising star in the chess world.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-grand-slam-praggnanandhaa-beats-magnus-carlsen-again-in-las-vegas/articleshow/122793147.cms",
+         "pubDate" : "Sun, 20 Jul 2025 03:49:24",
+         "title" : "Freestyle Chess Grand Slam: Praggnanandhaa beats Magnus Carlsen again in Las Vegas"
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-5-all-about-the-juniors-2025-us-national-championships/\">POSTGAME Round 5: All About the Juniors</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -578,14 +602,6 @@ news_feed (
          "title" : "Hikaru Nakamura & Atousa Pourkashiyan Share Baby News During Stream"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122403250.cms\" />Indian International Master (IM) Vantika Agrawal triumphed over former world champion Anna Ushenina in a tie-breaker, advancing to the third round of the FIDE Women's World Cup 2025. Despite some challenges in earlier games, Vantika's focused strategy secured her victory. Meanwhile, Padmini Rout and Priyanka K were eliminated, while four other Indian players progressed to the next round.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-23-year-old-indian-vantika-agrawal-stuns-former-world-champion-pockets-rs-5-8-lakh-so-far/articleshow/122403250.cms",
-         "pubDate" : "Sat, 12 Jul 2025 09:37:11",
-         "title" : "Chess WC: 23-yo Indian stuns former world champion, pockets Rs 5.8 lakh so far"
-      },
-      {
          "description" : "The European Youth Team Chess Championship 2025 concluded yesterday in Terme Catez, Slovenia with Poland winning gold medals in Girls U12, Girls U18 and Open U18 Championships! Romanian team clinched the trophy in the Open U12 section, scoring 11 match points and finishing one match point ahead of Turkey and Germany. Having better tiebreak criteria, Turkey won silver and Germany claimed bronze. Scoring impressive 13 match points, Poland won the Girls U12 tournament with two match points edge over Ukraine []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -600,14 +616,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/awatramani-chiu-win-bughouse-championship",
          "pubDate" : "Sat, 12 Jul 2025 08:55:00",
          "title" : "Awatramani, Chiu Dominate Bughouse Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122399797.cms\" />D Gukesh, the Indian chess talent, surprised everyone by finishing third at the SuperUnited Rapid and Blitz event in Croatia. Despite lower ratings in faster formats, Gukesh won the Rapid section. His coach, Grzegorz Gajewski, highlighted focused training to improve his speed chess skills. Gajewski manages expectations, reminding Gukesh of his age amidst high ambitions.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-many-people-forget-that-hes-only-19-he-even-forgets-hes-19-says-d-gukeshs-coach-grzegorz-gajewski/articleshow/122399797.cms",
-         "pubDate" : "Sat, 12 Jul 2025 05:29:05",
-         "title" : "D Gukesh's coach: 'Many people forget that he's only 19. He even forgets he's 19'"
       },
       {
          "description" : "Twelve players made it through the tiebreaks of round two in the 2025 FIDE Women&#39;s World Cup. They were GM Mariya Muzychuk, IM Meruert Kamalidenova, GM Kateryna Lagno, GM Anna Muzychuk, GM Alexandra Kosteniuk, WIM Umida Omonova, IM Lu Miaoyi, IM V...",
