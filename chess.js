@@ -26,6 +26,14 @@ news_feed (
          "title" : "Koneru Humpy creates history, becomes first Indian woman to enter FIDE WC semis"
       },
       {
+         "description" : "GM Lei Tingjie continues her impressive run in the 2025 FIDE Women&#39;s World Cup, scoring another clean 2-0 victory, this time with a rather convincing victory against GM Nana Dzagnidze, to climb to women&#39;s world number-two in the live ratings. Jo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-quarterfinals-game-2",
+         "pubDate" : "Sun, 20 Jul 2025 15:29:00",
+         "title" : "Lei Wins Again To Reach World No. 2; Tan, Humpy Also Through"
+      },
+      {
          "description" : "Chief Minister Shri Bhupendra Patel extended his greetings to the chess community of the country, including Gujarat, on the occasion of International Chess Day, which",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -658,14 +666,6 @@ news_feed (
          "title" : "Awatramani, Chiu Dominate Bughouse Championship"
       },
       {
-         "description" : "Twelve players made it through the tiebreaks of round two in the 2025 FIDE Women&#39;s World Cup. They were GM Mariya Muzychuk, IM Meruert Kamalidenova, GM Kateryna Lagno, GM Anna Muzychuk, GM Alexandra Kosteniuk, WIM Umida Omonova, IM Lu Miaoyi, IM V...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-2-tiebreaks",
-         "pubDate" : "Fri, 11 Jul 2025 14:48:00",
-         "title" : "Kamalidenova Gives Defending Champion Goryachkina Early Exit"
-      },
-      {
          "description" : "&#160; &#160;",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -928,14 +928,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2025-invitation/",
          "pubDate" : "Mon, 30 Jun 2025 07:22:03",
          "title" : "European Rapid and Blitz Chess Championship 2025 - Invitation"
-      },
-      {
-         "description" : " The Hans Moke Niemann against Santosh Vidit blitz match on Endgame.ai eventually took place 28th to 29th June 2025 after being announced for earlier in the week. Niemann won 12-6 on day 1 which was 3m+1spm blitz and 10.5-7.5 on day 2 which turned out to be Chess960 (in advance material there was no mention so I concluded it would be two days of standard blitz) and 3m+2spm blitz. On day one Niemann lost game 8 due to a mouse-slip and won on time in game 11 which he seemed to regard as payback. The downloadable PGN from the official site got a bit closer, the starting positions on day 2 for Chess960 were a real bonus, having the same players as white and black in every game meant half were wr",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/niemann-vidit-match-2025",
-         "pubDate" : "Sun, 29 Jun 2025 20:34:00",
-         "title" : "Niemann-Vidit Match 2025 - Games and Results"
       }
    ]
 }
