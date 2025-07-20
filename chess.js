@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-5-all-about-the-juniors-2025-us-national-championships/\">POSTGAME Round 5: All About the Juniors</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-5-all-about-the-juniors-2025-us-national-championships/",
+         "pubDate" : "Sun, 20 Jul 2025 00:19:12",
+         "title" : "POSTGAME Round 5: All About the Juniors"
+      },
+      {
+         "description" : "The first games of the Women's World Cup quarterfinals saw wins for Lei Tingjie and Humpy Koneru, who now lead their respective matches. Lei defeated Nana Dzagnidze in a game which saw the Georgian GM losing on time after a scoresheet miscount, while Humpy overcame Song Yuxin with the white pieces. Divya Deshmukh drew against Harika Dronavalli, while Vaishali Rameshbabu missed a chance to press against Tan Zhongyi. | Photo: Anna Shtourman / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-r5g1",
+         "pubDate" : "Sat, 19 Jul 2025 23:20:00",
+         "title" : "Women's World Cup QF: Humpy and Lei strike first"
+      },
+      {
          "description" : "The Freestyle Chess Grand Slam continues in Las Vegas from 16 to 20 July with a 16-player invitational event featuring a round-robin followed by a double-elimination knockout stage. Top players including Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are taking part. All games will be broadcast live with commentary, and eliminated players will contribute to coverage. | Follow the games live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-live",
          "pubDate" : "Sat, 19 Jul 2025 19:45:00",
          "title" : "Freestyle Chess Las Vegas - Live!"
+      },
+      {
+         "description" : "GM Daniel Naroditsky has returned to the top spot in the latest edition of Bullet Brawl, two months after winning his last title. Naroditsky outpaced 105 titled players, including the second- and third-placed GM Oleksandr Bortnyk and IM Yoseph Tah...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-july-19-2025",
+         "pubDate" : "Sat, 19 Jul 2025 18:09:00",
+         "title" : "Naroditsky Brute-Forces His Way Back To Top Of Bullet Brawl"
       },
       {
          "description" : "Recent regrettable events at the music festival in Glastonbury, where pop duo \"Bob Vylan\" led a sad minority of bigots in calling for Jewish extermination, have caused me to revisit the question of antisemitism in general and chess in particular. Vylan's eponymous lead singer, (real name: Pascal Robinson-Foster) notoriously parroted the genocidal brief 'From the river to the sea', a call unwisely broadcast live by []",
@@ -624,14 +648,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jul/11/chess-carlsen-fights-off-gukesh-in-zagreb-as-chessfest-returns-to-trafalgar-square",
          "pubDate" : "Fri, 11 Jul 2025 07:00:01",
          "title" : "Chess: Carlsen fights off Gukesh in Zagreb as ChessFest returns to Trafalgar Square"
-      },
-      {
-         "description" : "12 matches go to tiebreaks in round two of the 2025 FIDE Women&#39;s World Cup. In a fighting second game of classical chess, we saw six win on demand. Notably, 2023 World Cup winner GM Aleksandra Goryachkina staved off elimination for at least anothe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-2-game-2",
-         "pubDate" : "Thu, 10 Jul 2025 15:26:00",
-         "title" : "14-Year-Old Kaliakhmet Eliminates GM Batsiashvili"
       },
       {
          "description" : "The U2050 County Championships final was held at the new King in the North Chess and Archery Centre on 5th July. Yorkshire, who failed to qualify for the 2024 knock-out...",
