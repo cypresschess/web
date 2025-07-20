@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chief Minister Shri Bhupendra Patel extended his greetings to the chess community of the country, including Gujarat, on the occasion of International Chess Day, which",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/20-july-international-chess-day/",
+         "pubDate" : "Sun, 20 Jul 2025 13:11:22",
+         "title" : "20 July International Chess Day !"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
          "pubDate" : "Sun, 20 Jul 2025 12:50:00",
-         "title" : "Women's World Cup, Round 5, Game 1 - Live!"
+         "title" : "Women's World Cup, Round 5, Game 2 - Live!"
       },
       {
          "description" : "India's top seed, GM Koneru Humpy, made a commanding start in the quarterfinals of the FIDE Women's World Cup 2025, defeating China's IM Yuxin Song",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-5-all-about-the-juniors-2025-us-national-championships/",
          "pubDate" : "Sun, 20 Jul 2025 00:19:12",
          "title" : "POSTGAME Round 5: All About the Juniors"
+      },
+      {
+         "description" : "Capping off a week of fighting chess in the 2025 U.S. Junior, Girls' Junior, and Senior Championships, we saw \"only\" six decisive results out of 15 games in Saturday's fifth and final round before Sunday's rest day.GMs Andy Woodward and Vladimir Akopian maintained their leads in the Junior and Senior, respectively, while FM Megan Paragua emerged as the sole leader in the Girls' Junior after top-seeded WGM Zoey Tang upset previous co-leader FM Ruiyang Yan with the black pieces in a model Sicilian. Junior: Woodward leads still-leading GMsThe most peaceful of the sections featured only one decisive result, with last year's runner-up IM Justin Wang upsetting GM Brewington Hardaway. <br> <br> <br",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/paragua-claims-lead-national-championships-reach-rest-day",
+         "pubDate" : "Sun, 20 Jul 2025 00:00:00",
+         "title" : "Paragua Claims Lead as National Championships Reach Rest Day"
       },
       {
          "description" : "The first games of the Women's World Cup quarterfinals saw wins for Lei Tingjie and Humpy Koneru, who now lead their respective matches. Lei defeated Nana Dzagnidze in a game which saw the Georgian GM losing on time after a scoresheet miscount, while Humpy overcame Song Yuxin with the white pieces. Divya Deshmukh drew against Harika Dronavalli, while Vaishali Rameshbabu missed a chance to press against Tan Zhongyi. | Photo: Anna Shtourman / FIDE",
@@ -496,14 +512,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-arjun-erigaisi-slams-british-airways-over-flight-downgrade-delayed-baggage-youve-lost-a-customer/articleshow/122499313.cms",
          "pubDate" : "Tue, 15 Jul 2025 09:27:19",
          "title" : "Chess | Arjun Erigaisi slams British Airways - 'You've lost a customer'"
-      },
-      {
-         "description" : "Today's puzzles continue a series featuring games from the 2025 FIDE World Cadets Cup. Read our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cadets-cup-pt-2",
-         "pubDate" : "Tue, 15 Jul 2025 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Cadets Cup, Pt. 2"
       },
       {
          "description" : "Basketball and chess pros joined forces in the latest sports-and-chess crossover event, the Chesstival, which took place the weekend before the Las Vegas Freestyle Grand Slam, which begins on Wednesday. Grant Williams, of the Charlotte Hornets, wo...",
