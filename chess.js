@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Freestyle Chess Grand Slam continues in Las Vegas from 16 to 20 July with a 16-player invitational event featuring a round-robin followed by a double-elimination knockout stage. Top players including Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are taking part. All games will be broadcast live with commentary, and eliminated players will contribute to coverage. | Follow the games live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-live",
+         "pubDate" : "Sun, 20 Jul 2025 19:45:00",
+         "title" : "Freestyle Chess Las Vegas Grand Final - Live!"
+      },
+      {
+         "description" : "Magnus Carlsen and Hikaru Nakamura advanced to the third-place match of the Freestyle Chess Grand Slam in Las Vegas after winning their lower bracket encounters on Saturday. Carlsen defeated Praggnanandhaa Rameshbabu and Arjun Erigaisi, while Nakamura overcame Wesley So and Fabiano Caruana. Sunday's final day will also feature Hans Niemann vs. Levon Aronian for the title, as well as placement matches for fifth and seventh place. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-4",
+         "pubDate" : "Sun, 20 Jul 2025 18:55:00",
+         "title" : "Freestyle Chess Las Vegas: Carlsen and Nakamura to fight for third place"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122800328.cms\" />Koneru Humpy made history as the first Indian woman to reach the FIDE Women's Chess World Cup semifinals, securing her spot with a draw against China's Song Yuxin. In another quarterfinal, Harika Dronavalli and Divya Deshmukh's match went to a tiebreaker. Vaishali Rameshbabu exited after losing to Tan Zhongyi.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-creates-history-becomes-first-indian-woman-to-enter-fide-womens-world-cup-semifinals/articleshow/122800328.cms",
+         "pubDate" : "Sun, 20 Jul 2025 18:15:44",
+         "title" : "Koneru Humpy creates history, becomes first Indian woman to enter FIDE WC semis"
+      },
+      {
          "description" : "Chief Minister Shri Bhupendra Patel extended his greetings to the chess community of the country, including Gujarat, on the occasion of International Chess Day, which",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-world-cup-2025-r5g1",
          "pubDate" : "Sat, 19 Jul 2025 23:20:00",
          "title" : "Women's World Cup QF: Humpy and Lei strike first"
-      },
-      {
-         "description" : "The Freestyle Chess Grand Slam continues in Las Vegas from 16 to 20 July with a 16-player invitational event featuring a round-robin followed by a double-elimination knockout stage. Top players including Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are taking part. All games will be broadcast live with commentary, and eliminated players will contribute to coverage. | Follow the games live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-live",
-         "pubDate" : "Sat, 19 Jul 2025 19:45:00",
-         "title" : "Freestyle Chess Las Vegas - Live!"
       },
       {
          "description" : "GM Daniel Naroditsky has returned to the top spot in the latest edition of Bullet Brawl, two months after winning his last title. Naroditsky outpaced 105 titled players, including the second- and third-placed GM Oleksandr Bortnyk and IM Yoseph Tah...",
@@ -576,14 +592,6 @@ news_feed (
          "link" : "https://www.thearticle.com/joseph-conrad-capa-fan/",
          "pubDate" : "Sun, 13 Jul 2025 10:23:16",
          "title" : "Joseph Conrad: Capa fan"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122417610.cms\" />India's Vantika Agrawal and Divya Deshmukh made significant strides at the FIDE World Women's Chess Cup, winning their first games and advancing towards the pre-quarterfinals. Vantika defeated Russia's Kateryna Lagno, while Divya overcame Serbia's Teodora Injac. Top-rated Koneru Humpy, D Harika, and R Vaishali drew their respective matches, as Lei Tingjei of China secured a victory.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-divya-deshmukh-vantika-agrawal-share-lead-after-3rd-round-opener-close-in-on-pre-quarterfinals/articleshow/122417610.cms",
-         "pubDate" : "Sun, 13 Jul 2025 09:58:32",
-         "title" : "Chess WC: Divya, Vantika share lead after 3rd-round opener, close in on pre-quarterfinals"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122417408.cms\" />A Ra Harikrishnan from Chennai becomes India's 87th Grandmaster. He achieved his final GM norm in France. Earlier, he secured norms in Switzerland and Spain. Harikrishnan aims for a 2600 rating. His coach, Shyam Sundar, emphasizes the importance of openings for further progress. Harikrishnan is now focused on upcoming tournaments in Morocco, Spain and Portugal.",
