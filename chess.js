@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
+         "pubDate" : "Sun, 20 Jul 2025 12:50:00",
+         "title" : "Women's World Cup, Round 5, Game 1 - Live!"
+      },
+      {
+         "description" : "India's top seed, GM Koneru Humpy, made a commanding start in the quarterfinals of the FIDE Women's World Cup 2025, defeating China's IM Yuxin Song",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/quarterfinal-tension-rises-humpy-triumphs-harika-divya-and-vaishali-hold-ground/",
+         "pubDate" : "Sun, 20 Jul 2025 07:34:26",
+         "title" : "Quarterfinal Tension Rises: Humpy Triumphs, Harika, Divya, and Vaishali Hold Ground"
+      },
+      {
          "description" : "Working with ChessBase 18 is so enjoyable because it builds on the experience of the developers from 17 previous versions. But you don't have to wait for the next release - you'll receive ongoing improvements directly to your computer through the free update service. And don't worry: staying up to date with the latest updates takes just a few clicks. In this tutorial, we'll show you how.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-grand-slam-praggnanandhaa-beats-magnus-carlsen-again-in-las-vegas/articleshow/122793147.cms",
          "pubDate" : "Sun, 20 Jul 2025 03:49:24",
          "title" : "Freestyle Chess Grand Slam: Praggnanandhaa beats Magnus Carlsen again in Las Vegas"
+      },
+      {
+         "description" : "World numbers one and two Magnus Carlsen and Hikaru Nakamura will battle for the $100,000 third-place prize on the final day of the Freestyle Chess Grand Slam Las Vegas. Carlsen lost his first game of the day to GM Praggnanandhaa Rameshbabu but bl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/freestyle-chess-las-vegas-day-4",
+         "pubDate" : "Sun, 20 Jul 2025 00:51:00",
+         "title" : "Carlsen, Nakamura Set Up $100,000 Showdown In Las Vegas"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-5-all-about-the-juniors-2025-us-national-championships/\">POSTGAME Round 5: All About the Juniors</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -624,14 +648,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-2-tiebreaks",
          "pubDate" : "Fri, 11 Jul 2025 14:48:00",
          "title" : "Kamalidenova Gives Defending Champion Goryachkina Early Exit"
-      },
-      {
-         "description" : "In the last Freestyle Friday&#38;nbsp;before the July 16-20 Grand Slam event in Las Vegas, the final qualifier for the Grand Slam, GM Hans Niemann, won his first Freestyle Friday after several near-misses. Draws in the eighth and 10th rounds were all ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/niemann-wins-freestyle-friday-july-11-2025",
-         "pubDate" : "Fri, 11 Jul 2025 11:21:00",
-         "title" : "Niemann Joins Ranks Of Freestyle Winners Ahead Of Grand Slam"
       },
       {
          "description" : "&#160; &#160;",
