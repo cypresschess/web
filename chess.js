@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The English Championships took place in Kenilworth, Friday, 18th to Monday, 21st July 2025. Michael Adams beat Nikita Vitiugov in a tie-break match after they tied on 6/7. Then two rapid games (20m+10spm) were both drawn, Adams won the first of two blitz (5m+3spm) games to take the title. The women's section likewise went down to a tie-break with Elmira Mirzoeva winning the first rapid game against Shambavi Hariharan, they had both scored 5.5/7.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/english-championships-2025",
+         "pubDate" : "Mon, 21 Jul 2025 19:37:00",
+         "title" : "English Championships 2025 - Games and Results"
+      },
+      {
+         "description" : "Radoslaw (Radek) Wojtaszek came out on top in the separate Accentus Chess 960 Masters at the 58th International Biel/Bienne Chess Festival 2025. Our author Eduard Frey, who lives in Biel, met the proficient player from Poland during the tournament. | Photo: Simon Bohnenblust, Organiser",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-six-time-assistant-in-world-chess-championship-title-matches-a-portrait-of-gm-wojtaszek",
+         "pubDate" : "Mon, 21 Jul 2025 18:04:05",
+         "title" : "A six-time assistant in World Chess Championship title matches: A portrait of GM Wojtaszek"
+      },
+      {
          "description" : "Last week Problem expert Werner Keym gave us some remarkable chess problems to solve. They were from his latest eBook, Problem Chess Art, which is available to everyone, free of charge. Here today are the solutions of the problems he selected for us. Were you able to solve them?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,6 +58,14 @@ news_feed (
          "title" : "Women's World Cup, Round 5, Tiebreak!"
       },
       {
+         "description" : "Nineteen-year-old IM Divya Deshmukh has reached the Semifinals of the&#38;nbsp;2025 FIDE Women&#39;s World Cup after winning the all-Indian tiebreak clash with GM Harika Dronavalli 2-0. Divya dominated an impressive first game before Harika came very clos...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-quarterfinal-tiebreaks",
+         "pubDate" : "Mon, 21 Jul 2025 11:53:37",
+         "title" : "Divya Beats Harika To Reach World Cup Final 4"
+      },
+      {
          "description" : "On behalf of All India Chess Federation , Punjab State Chess Association is organizing Senior National Arbiters Seminar &#38; Exam at Hotel Roya Lista, Near Shiv Mandir,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-wojtaszek-and-svane-are-eliminated",
          "pubDate" : "Mon, 21 Jul 2025 10:07:12",
          "title" : "Biel: Wojtaszek and Svane are eliminated"
+      },
+      {
+         "description" : "We&#39;re excited to announce the 2025 Women&#39;s Speed Chess Championship (WSCC), the most exciting speed chess event for women in the world! Starting on August 4, the event will feature a $75,000 prize fund and the same thrilling format fans already kn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-womens-speed-chess-championship-2025",
+         "pubDate" : "Mon, 21 Jul 2025 08:49:00",
+         "title" : "Ju Wenjun, Hou Yifan Headline Women's Speed Chess Championship Starting August 4"
       },
       {
          "description" : "Grandmaster Koneru Humpy became the first player to secure a spot in the semifinals of the FIDE Women's World Cup 2025, defeating China's IM Song",
@@ -80,6 +112,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-womens-world-cup-koneru-humpy-on-song-enters-semifinals/articleshow/122806480.cms",
          "pubDate" : "Mon, 21 Jul 2025 04:55:11",
          "title" : "FIDE Women's World Cup: Koneru Humpy on song, enters semifinals"
+      },
+      {
+         "description" : "The semi-finals are set for the 2025 FIDE Women's World Cup in Batumi, Georgia. With three spots in the FIDE Women's World Championship Candidates Tournament up for grabs (and none of the semi-finalists already qualified), the question is whether it will be China or India to send not one but two players to the Candidates.The semi-finals begin Tuesday at 6:20 a.m. CDT, with top-seeded GM Lei Tingjie paired against fourth-seeded GM Humpy Koneru and third-seeded GM Tan Zhongyi facing the only surprise semi-finalist, IM Divya Deshmukh.The four remaining players have each earned paychecks of at least $20,000, going up to $35,000 for the runner-up and $50,000 for the winner. In addition to the Can",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/divya-joins-top-seeds-womens-world-cup-semi-finals",
+         "pubDate" : "Mon, 21 Jul 2025 00:00:00",
+         "title" : "Divya Joins Top Seeds in Women's World Cup Semi-Finals"
       },
       {
          "description" : "The Freestyle Chess Grand Slam continues in Las Vegas from 16 to 20 July with a 16-player invitational event featuring a round-robin followed by a double-elimination knockout stage. Top players including Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are taking part. All games will be broadcast live with commentary, and eliminated players will contribute to coverage. | Follow the games live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
@@ -578,14 +618,6 @@ news_feed (
          "title" : "2024-25 US Chess Women Grant Recipients Share Experiences"
       },
       {
-         "description" : "2025-2026 US Chess Women Grant Cycle AnnouncementUS Chess is happy to announce a new cycle of program grant funding to support efforts to educate, retain and promote women and girls in chess. These grants are supported by our partnership with the Saint Louis Chess Club, which began in 2019. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The focus for this year's grant cycle is elementary-aged girls (ages 11 and younger). We encourage applicants to create programs and events tailored for young girls to be exposed to and grow in chess. Special consideration will be given to applicants who meet these criteria, however, all applicants promoting chess amongst female players",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-Women-Girls-Grant",
-         "pubDate" : "Wed, 16 Jul 2025 00:00:00",
-         "title" : "2025-2026 Women and Girls Programming Grant Cycle Officially Open!"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-national-championships-postgame-round-1-an-exciting-start/\">POSTGAME Round 1: An Exciting Start | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -690,28 +722,12 @@ news_feed (
          "title" : "Nakamura Wins 3rd Straight Bullet Brawl Following Baby Announcement"
       },
       {
-         "description" : "IM Vantika Agrawal followed up knocking out GM Anna Ushenina by beating seventh seed GM Kateryna Lagno as round three of the&#38;nbsp;2025 FIDE Women&#39;s World Cup began. There were six more wins, for GMs Lei Tingjie, Nana Dzagnidze, Mariya Muzychuk, Zh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-3-game-1",
-         "pubDate" : "Sat, 12 Jul 2025 14:46:00",
-         "title" : "Vantika Stuns Lagno As Women's World Cup Round 3 Begins"
-      },
-      {
          "description" : "Just one little shout-out before we get into today's article. My lovely wife Alessia has published a super fun video on her YouTube Channel where I watch her play blitz chess and give my Grandmaster take on her games. I had a blast recording it, and believe it makes for great chess entertainment, and some []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.com/deliberate-practice-in-chess/",
          "pubDate" : "Sat, 12 Jul 2025 13:00:00",
          "title" : "The 10,000-Hour Myth and What Really Matters"
-      },
-      {
-         "description" : "World number-two GM Hikaru Nakamura and his wife, WGM Atousa Pourkashiyan, announced today that they are expecting their first child. The news was shared during Nakamura&#38;rsquo;s Saturday stream on Kick, where the five-time U.S. champion appeared...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-expecting-first-child-with-wife-atousa-pourkashiyan",
-         "pubDate" : "Sat, 12 Jul 2025 12:50:00",
-         "title" : "Hikaru Nakamura & Atousa Pourkashiyan Share Baby News During Stream"
       },
       {
          "description" : "The European Youth Team Chess Championship 2025 concluded yesterday in Terme Catez, Slovenia with Poland winning gold medals in Girls U12, Girls U18 and Open U18 Championships! Romanian team clinched the trophy in the Open U12 section, scoring 11 match points and finishing one match point ahead of Turkey and Germany. Having better tiebreak criteria, Turkey won silver and Germany claimed bronze. Scoring impressive 13 match points, Poland won the Girls U12 tournament with two match points edge over Ukraine []",
