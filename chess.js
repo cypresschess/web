@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Grandmaster Koneru Humpy became the first player to secure a spot in the semifinals of the FIDE Women's World Cup 2025, defeating China's IM Song",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/gm-koneru-humpy-marches-into-semifinals-divya-harika-tie-heads-to-playoffs/",
+         "pubDate" : "Mon, 21 Jul 2025 07:05:35",
+         "title" : "GM Koneru Humpy Marches into Semifinals; Divya-Harika Tie Heads to Playoffs"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122808729.cms\" />India is set to host the 2025 FIDE World Cup, a prestigious chess tournament scheduled from October 30 to November 2. The event will feature 206 players competing in a single-elimination format. The top three finishers will secure spots in the 2026 Candidates Tournament. Players can qualify through various routes, including continental events, ratings, and nominations.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-fide-world-cup-2025-to-be-hosted-in-india-top-players-to-battle-for-spot-in-2026-candidates/articleshow/122808729.cms",
+         "pubDate" : "Mon, 21 Jul 2025 07:03:11",
+         "title" : "CHESS | FIDE WC 2025 in India; Top players to battle for spot in 2026 Candidates"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122806480.cms\" />Grandmaster Koneru Humpy advanced to the FIDE Women's Chess World Cup semifinals, defeating China's Yuxin Song. She will face top seed Lei Tingjie, who also secured a decisive victory. D Harika and Divya Deshmukh's match ended in a draw, necessitating tiebreaks. Vaishali Rameshbabu's campaign concluded with a loss to China's Tan Zhongyi after a lengthy battle.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-womens-world-cup-koneru-humpy-on-song-enters-semifinals/articleshow/122806480.cms",
+         "pubDate" : "Mon, 21 Jul 2025 04:55:11",
+         "title" : "FIDE Women's World Cup: Koneru Humpy on song, enters semifinals"
+      },
+      {
          "description" : "The Freestyle Chess Grand Slam continues in Las Vegas from 16 to 20 July with a 16-player invitational event featuring a round-robin followed by a double-elimination knockout stage. Top players including Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are taking part. All games will be broadcast live with commentary, and eliminated players will contribute to coverage. | Follow the games live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +50,7 @@ news_feed (
          "title" : "Koneru Humpy creates history, becomes first Indian woman to enter FIDE WC semis"
       },
       {
-         "description" : "GM Levon Aronian has been crowned the $200,000 winner of the Freestyle Chess Grand Slam Las Vegas on Sunday after overcoming GM Hans Niemann 1.5-0.5 in the Final. Aronian held firm in an opposite-colored bishop ending in the first before putting o...",
+         "description" : "GM Levon Aronian has been crowned the $200,000 winner of the Freestyle Chess Grand Slam Las Vegas on Sunday after overcoming GM Hans Niemann 1.5-0.5 in the Final. Aronian held firm in an opposite-colored bishop ending in the first, before putting ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/levon-aronian-wins-freestyle-chess-las-vegas",
@@ -578,14 +602,6 @@ news_feed (
          "title" : "Free monthly magazine! Get a rating! Join England's chess community!"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122429985.cms\" />Koneru Humpy and Divya Deshmukh secured their spots in the FIDE Women's World Cup's last 16 with impressive victories. Humpy crushed Klaudia Kulon, while Deshmukh drew against Teodora Injac. Vaishali, Harika, and Vantika will compete in tie-break rounds after drawing their classical games.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-womens-world-cup-koneru-humpy-divya-deshmukh-seal-pre-quarter-berths/articleshow/122429985.cms",
-         "pubDate" : "Mon, 14 Jul 2025 05:41:50",
-         "title" : "Chess | Women's World Cup: Koneru Humpy, Divya Deshmukh seal pre-quarter berths"
-      },
-      {
          "description" : " Brewington Hardaway was one of nine recipients of the Samford Fellowship, awarded to players of tremendous promise. Most of the players are well-known in scholastic circles, having earned All-American honors. Hardaway, who earned his Grandmaster title early this year, is the first African-American to receive the Samford award. Photo from X (Brewington Hardaway) In its The post <a href=\"https://thechessdrum.net/blog/2025/07/13/brewington-hardaway-receives-samford-fellow/\">Brewington Hardaway receives Samford Fellow!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://www.thearticle.com/joseph-conrad-capa-fan/",
          "pubDate" : "Sun, 13 Jul 2025 10:23:16",
          "title" : "Joseph Conrad: Capa fan"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122417408.cms\" />A Ra Harikrishnan from Chennai becomes India's 87th Grandmaster. He achieved his final GM norm in France. Earlier, he secured norms in Switzerland and Spain. Harikrishnan aims for a 2600 rating. His coach, Shyam Sundar, emphasizes the importance of openings for further progress. Harikrishnan is now focused on upcoming tournaments in Morocco, Spain and Portugal.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-india-gets-87th-grandmaster-after-harikrishnan-a-ra-achieves-his-final-gm-norm-in-france/articleshow/122417408.cms",
-         "pubDate" : "Sun, 13 Jul 2025 09:21:54",
-         "title" : "India gets 87th Grandmaster after Harikrishnan A Ra achieves his final GM norm in France"
       },
       {
          "description" : " Tanitoluwa &#8220;Tani&#8221; Adewumi finished a strong performance at the 2025 World Open after winning the Cadet Championship a couple of weeks earlier. It was his second consecutive title, only months after finishing the rating requirements for the IM title. So far, 2025 has been a great year. FM Tanitoluwa &#8220;Tani&#8221; Adewumi (2397-USA) # Player ELO The post <a href=\"https://thechessdrum.net/blog/2025/07/12/cadet-champ-tani-adewumi-strong-at-world-open/\">Cadet Champ Tani Adewumi strong at World Open</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -874,14 +882,6 @@ news_feed (
          "title" : "UK Open Blitz Championship 2025"
       },
       {
-         "description" : "India continued its dominance in the global chess arena by clinching 7 out of 18 possible medals at the World Cadet Chess Cup, held in",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/india-shines-at-fide-world-cadet-chess-cup-in-georgia-with-7-medals/",
-         "pubDate" : "Thu, 03 Jul 2025 05:47:13",
-         "title" : "India Shines at Fide World Cadet Chess Cup in Georgia with 7 Medals"
-      },
-      {
          "description" : " The Titled Tuesday Blitz 1st July 2025 events saw V Pranav win the early on tie-break from M Pranesh and Denis Lazavik after all scored 9.5/11 and in the late Parham Maghsoodloo won on tie-break from the youngster Yagiz Kaan Erdogmus and Nguyen Ngoc Truong Son.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -920,14 +920,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chess-stars-5.0-2025",
          "pubDate" : "Mon, 30 Jun 2025 13:46:00",
          "title" : "Chess Stars 5.0 2025 - Games and Results"
-      },
-      {
-         "description" : "The 2025 European Rapid and Blitz Chess Championships will take place from November 27th to December 1st at *****Hotel Emerald in Prishtina, Kosovo. European Rapid Chess Championship 2025 will be the first on the schedule, taking place on 28th and 29th of November. The Championship will be played according to the Swiss system, in11 rounds with the time control 15 minutes game + 10 seconds per move starting from the firstmove. The European Blitz Chess Championship 2025 will be played []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2025-invitation/",
-         "pubDate" : "Mon, 30 Jun 2025 07:22:03",
-         "title" : "European Rapid and Blitz Chess Championship 2025 - Invitation"
       }
    ]
 }
