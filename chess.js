@@ -34,6 +34,14 @@ news_feed (
          "title" : "Freestyle Chess: Aronian conquers Las Vegas, Carlsen grabs third place"
       },
       {
+         "description" : "When basketball star Victor Wembanyama (Wemby) says that it&#39;s time for a game, chess players show up! It happened last December in New York, and again on Sunday in his hometown of Le Chesnay, France. Just last week, Wemby announced the Hoop Gambit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/im-yovann-gatineau-wins-wembys-hoop-gambit-tournament",
+         "pubDate" : "Mon, 21 Jul 2025 14:52:30",
+         "title" : "Yovann Gatineau Wins Wemby's Hoop Gambit Tournament"
+      },
+      {
          "description" : "The opening is tricky. If you don't know what you are doing, you can quickly find yourself on the losing side, but if you know what you are doing, you can also quickly gain an advantage. ChessBase offers help! The Opening Encyclopaedia offers a complete overview of all openings, and with Fritz 20 you can try out and practise all of them. This week (21-27 July), the strong duo is available as a Summer Special at a special price!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -62,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-quarterfinal-tiebreaks",
-         "pubDate" : "Mon, 21 Jul 2025 11:53:37",
+         "pubDate" : "Mon, 21 Jul 2025 11:53:00",
          "title" : "Divya Beats Harika To Reach World Cup Final 4"
       },
       {
@@ -112,6 +120,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-womens-world-cup-koneru-humpy-on-song-enters-semifinals/articleshow/122806480.cms",
          "pubDate" : "Mon, 21 Jul 2025 04:55:11",
          "title" : "FIDE Women's World Cup: Koneru Humpy on song, enters semifinals"
+      },
+      {
+         "description" : "Play US Chess Rated Correspondence Chess!Did you know that US Chess offers rated Correspondence Chess events?Correspondence Chess (CC) is a great way to improve your game and have fun. You don't even have to leave home! The time control for all US Chess CC events is 30 days for each 10 moves, allowing you ample time to really study each position in full, getting to know your openings deeper, improving your middlegame analysis and find all the nuances in the endgame. However, US Chess CC does NOT allow the use of computer programs or algorithms to come up with moves for you, you must do that by yourself.We offer CC events via postal mail, email or even on a chess server! Here is a quick rundo",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/play-us-chess-rated-correspondence-chess",
+         "pubDate" : "Mon, 21 Jul 2025 00:00:00",
+         "title" : "Play US Chess Rated Correspondence Chess!"
       },
       {
          "description" : "The semi-finals are set for the 2025 FIDE Women's World Cup in Batumi, Georgia. With three spots in the FIDE Women's World Championship Candidates Tournament up for grabs (and none of the semi-finalists already qualified), the question is whether it will be China or India to send not one but two players to the Candidates.The semi-finals begin Tuesday at 6:20 a.m. CDT, with top-seeded GM Lei Tingjie paired against fourth-seeded GM Humpy Koneru and third-seeded GM Tan Zhongyi facing the only surprise semi-finalist, IM Divya Deshmukh.The four remaining players have each earned paychecks of at least $20,000, going up to $35,000 for the runner-up and $50,000 for the winner. In addition to the Can",
@@ -610,14 +626,6 @@ news_feed (
          "title" : "Wednesday Workout: FIDE World Cadets Cup, Pt. 2"
       },
       {
-         "description" : "Last year, US Chess announced 17 grant awards (up from seven the year before) under the US Chess Women's program. With support from the Saint Louis Chess Club, US Chess annually offers grants to nonprofit affiliate members who are promoting programs that support women and girls in their respective communities.As applications for this year's grant cycle went live this morning, today we are sharing some highlights, photos, and testimonials from some of last cycle's grant recipients and from women and girls who benefitted from these programs and initiatives.We hope to receive even more applications this year, and hopefully this report will encourage both new and returning applicants by inspirin",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2024-25-us-chess-womens-grant-recipients-share-experiences",
-         "pubDate" : "Wed, 16 Jul 2025 00:00:00",
-         "title" : "2024-25 US Chess Women Grant Recipients Share Experiences"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-national-championships-postgame-round-1-an-exciting-start/\">POSTGAME Round 1: An Exciting Start | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/07/12/cadet-champ-tani-adewumi-strong-at-world-open/",
          "pubDate" : "Sun, 13 Jul 2025 02:10:41",
          "title" : "Cadet Champ Tani Adewumi strong at World Open"
-      },
-      {
-         "description" : "Bullet Brawl&#39;s all-time title leader GM Hikaru Nakamura outpaced 156 titled players in Saturday&#39;s event moments after announcing that he and his wife, WGM Atousa Pourkashiyan, are expecting their first child. While streaming live on Kick, Nakamu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-july-12-2025",
-         "pubDate" : "Sat, 12 Jul 2025 17:33:00",
-         "title" : "Nakamura Wins 3rd Straight Bullet Brawl Following Baby Announcement"
       },
       {
          "description" : "Just one little shout-out before we get into today's article. My lovely wife Alessia has published a super fun video on her YouTube Channel where I watch her play blitz chess and give my Grandmaster take on her games. I had a blast recording it, and believe it makes for great chess entertainment, and some []",
