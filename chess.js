@@ -26,6 +26,14 @@ news_feed (
          "title" : "Koneru Humpy creates history, becomes first Indian woman to enter FIDE WC semis"
       },
       {
+         "description" : "GM Levon Aronian has been crowned the $200,000 winner of the Freestyle Chess Grand Slam Las Vegas on Sunday after overcoming GM Hans Niemann 1.5-0.5 in the Final. Aronian held firm in an opposite-colored bishop ending in the first before putting o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/levon-aronian-wins-freestyle-chess-las-vegas",
+         "pubDate" : "Sun, 20 Jul 2025 16:26:00",
+         "title" : "Aronian Defeats Niemann, Wins $200,000 First Prize In Las Vegas"
+      },
+      {
          "description" : "GM Lei Tingjie continues her impressive run in the 2025 FIDE Women&#39;s World Cup, scoring another clean 2-0 victory, this time with a rather convincing victory against GM Nana Dzagnidze, to climb to women&#39;s world number-two in the live ratings. Jo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-team-chess-champions-2025-crowned-in-slovenia/",
          "pubDate" : "Sat, 12 Jul 2025 09:32:21",
          "title" : "European Youth Team Chess Champions 2025 crowned in Slovenia"
-      },
-      {
-         "description" : "NMs Isaac Chiu and Janak Awatramani dominated the 2025 Chess.com Community Bughouse Championship, although they didn&#39;t have the highest FIDE ratings in the field. They won two matches decisively against the second-place team of FM Richard Zheng an...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/awatramani-chiu-win-bughouse-championship",
-         "pubDate" : "Sat, 12 Jul 2025 08:55:00",
-         "title" : "Awatramani, Chiu Dominate Bughouse Championship"
       },
       {
          "description" : "&#160; &#160;",
