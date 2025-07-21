@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last week Problem expert Werner Keym gave us some remarkable chess problems to solve. They were from his latest eBook, Problem Chess Art, which is available to everyone, free of charge. Here today are the solutions of the problems he selected for us. Were you able to solve them?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/problem-chess-art",
+         "pubDate" : "Mon, 21 Jul 2025 17:00:00",
+         "title" : "Problem Chess Art"
+      },
+      {
+         "description" : "Levon Aronian won the Freestyle Chess Grand Slam in Las Vegas by defeating Hans Niemann 1&frac12;-&frac12; in Sunday's final, securing his first title and the $200,000 top prize. Magnus Carlsen beat Hikaru Nakamura to finish third and maintain his lead in the overall tour standings. Fabiano Caruana and Praggnanandhaa Rameshbabu claimed fifth and seventh place, respectively, as the first Freestyle Chess event held in the United States came to a close. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-5",
+         "pubDate" : "Mon, 21 Jul 2025 16:40:00",
+         "title" : "Freestyle Chess: Aronian conquers Las Vegas, Carlsen grabs third place"
+      },
+      {
+         "description" : "The opening is tricky. If you don't know what you are doing, you can quickly find yourself on the losing side, but if you know what you are doing, you can also quickly gain an advantage. ChessBase offers help! The Opening Encyclopaedia offers a complete overview of all openings, and with Fritz 20 you can try out and practise all of them. This week (21-27 July), the strong duo is available as a Summer Special at a special price!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/this-week-s-summer-special-a-strong-duo-for-opening-study",
+         "pubDate" : "Mon, 21 Jul 2025 14:21:48",
+         "title" : "This week's Summer Special: A strong duo for opening study"
+      },
+      {
+         "description" : "There was no requirement for an election this year and the incumbents (plus one replacement rep) are as follows &#8212; Lifetime John Wickham, Gerry Walsh Platinum Adrian Elwin,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/direct-members-reps-2025/",
+         "pubDate" : "Mon, 21 Jul 2025 12:45:21",
+         "title" : "Direct Members' Reps 2025"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -882,14 +914,6 @@ news_feed (
          "title" : "European Youth Team Chess Championship 2025 starts in Slovenia"
       },
       {
-         "description" : "The UK Open Blitz Championship returns in 2025, featuring an expanded format with 16 qualifiers in 14 cities around the United Kingdom. Eldar Gasanov will be aiming for a hat-trick...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/uk-open-blitz-championship-2025/",
-         "pubDate" : "Thu, 03 Jul 2025 08:00:21",
-         "title" : "UK Open Blitz Championship 2025"
-      },
-      {
          "description" : " The Titled Tuesday Blitz 1st July 2025 events saw V Pranav win the early on tie-break from M Pranesh and Denis Lazavik after all scored 9.5/11 and in the late Parham Maghsoodloo won on tie-break from the youngster Yagiz Kaan Erdogmus and Nguyen Ngoc Truong Son.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -920,14 +944,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45624957/fide-chess-rankings-july-2025-d-gukesh-r-praggnanandhaa-magnus-carlsen-koneru-humpy-r-vaishali-arjun-erigaisi?device=featurephone",
          "pubDate" : "Tue, 1 Jul 2025 05:50:00",
          "title" : "FIDE Chess rankings for July: R Praggnanandhaa becomes India no.1 in classical"
-      },
-      {
-         "description" : " The Chess Stars 5.0 tournament took place in Moscow 26th to 30th June 2025. Players: Vladislav Artemiev, Sergey Karjakin, Teimour Radjabov, Evgeny Tomashevsky, Raunak Sadhwani, Hou Yifan, Aleksandra Goryachkina, Kateryna Lagno, Bibisara Assaubayeva and Valentina Gunina. 3 days of rapid was followed by 2 days of blitz. Vladislav Artemiev won the rapid with 7/9 and blitz with 14.5/18. Raunak Sadhwani was second in the rapid and Sergey Karjakin second in the blitz.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess-stars-5.0-2025",
-         "pubDate" : "Mon, 30 Jun 2025 13:46:00",
-         "title" : "Chess Stars 5.0 2025 - Games and Results"
       }
    ]
 }
