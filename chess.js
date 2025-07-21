@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
+         "pubDate" : "Mon, 21 Jul 2025 12:45:00",
+         "title" : "Women's World Cup, Round 5, Tiebreak!"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation , Punjab State Chess Association is organizing Senior National Arbiters Seminar &#38; Exam at Hotel Roya Lista, Near Shiv Mandir,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-examination-in-bathindapunjab-on-15-16-august-2025/",
+         "pubDate" : "Mon, 21 Jul 2025 11:05:10",
+         "title" : "Senior National Arbiter Seminar & Examination in Bathinda,Punjab on 15 & 16 August 2025"
+      },
+      {
+         "description" : "The first decisions have been made at the Biel Grandmaster Triathlon: today's blitz chess matches marked the end of the qualification phase. Svane and Wojtaszek were unable to make up their deficit and are the last two players to be eliminated from the Masters. In the Challengers, the blitz games brought another change: Navara proved to be the stronger blitz player than Ma Qun and was thus able to push past the Chinese player into fourth place. In the coming week, the remaining players will now play for victory in Biel 2025. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-wojtaszek-and-svane-are-eliminated",
+         "pubDate" : "Mon, 21 Jul 2025 10:07:12",
+         "title" : "Biel: Wojtaszek and Svane are eliminated"
+      },
+      {
          "description" : "Grandmaster Koneru Humpy became the first player to secure a spot in the semifinals of the FIDE Women's World Cup 2025, defeating China's IM Song",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -72,14 +96,6 @@ news_feed (
          "link" : "https://aicf.in/20-july-international-chess-day/",
          "pubDate" : "Sun, 20 Jul 2025 13:11:22",
          "title" : "20 July International Chess Day !"
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
-         "pubDate" : "Sun, 20 Jul 2025 12:50:00",
-         "title" : "Women's World Cup, Round 5, Game 2 - Live!"
       },
       {
          "description" : "India's top seed, GM Koneru Humpy, made a commanding start in the quarterfinals of the FIDE Women's World Cup 2025, defeating China's IM Yuxin Song",
@@ -848,14 +864,6 @@ news_feed (
          "link" : "https://aicf.in/fide-world-youth-chess-championships-2025-in-durres-albania-from-18th-september-to-1st-october-2025/",
          "pubDate" : "Fri, 04 Jul 2025 05:51:49",
          "title" : "FIDE World Youth Chess Championships - 2025 in Durres, Albania from 03-16 October, 2025."
-      },
-      {
-         "description" : "The Asian Junior &#38; Girls Chess Championship 2025 was successfully held in Kalutara, Sri Lanka, from 27th June to 3rd July 2025. A strong Indian",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/india-shines-at-asian-junior-girls-chess-championship-2025-in-sri-lanka/",
-         "pubDate" : "Fri, 04 Jul 2025 04:21:22",
-         "title" : "India Shines at Asian Junior & Girls Chess Championship 2025 in Sri Lanka"
       },
       {
          "description" : " The Ashley Chess Fellows have been announced! Last November, we announced the Maurice Ashley Chess Fellowship, to provide Black chess talents with opportunities to reach new heights in the sport. Excellence in chess requires a significant amount of training, as well as resources. It is commonly stated and perhaps known that this is one hurdle The post <a href=\"https://thechessdrum.net/blog/2025/07/03/2025-ashley-chess-fellows-announced/\">2025 Ashley Chess Fellows announced!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
