@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Three years ago, former NBA star Derrick Rose had an idea to host a chess tournament featuring NBA players in Las Vegas. He billed it as a &#8220;Chesstival&#8221; with a high-stakes prize fund. The idea drew similarities to Maurice Ashley's Millionaire franchise, which had a first prize of $100,000. The tournament was delayed, but as The post <a href=\"https://thechessdrum.net/blog/2025/07/21/derrick-rose-chesstival-freestyle-rousing-success/\">Derrick Rose Chesstival Freestyle rousing success!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/07/21/derrick-rose-chesstival-freestyle-rousing-success/",
+         "pubDate" : "Tue, 22 Jul 2025 00:35:32",
+         "title" : "Derrick Rose Chesstival Freestyle rousing success!"
+      },
+      {
+         "description" : " POSTGAME Round 6: Could Abhi Slow Andy? Join GMs Yasser Seirawan &#038; Cristian Chirila, and IM Nazi Paikidze for the top moments of today's games. Standings 2025 U.S. Junior Championship Standings + # Place Name Rating Rd 1 Rd 2 Rd 3 Rd 4 Rd 5 Rd 6 Rd 7 Rd 8 Rd 9 Total [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-6-could-abhi-slow-andy-2025-us-national-championships/\">POSTGAME ROUND 6: Could Abhi Slow Andy?</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-6-could-abhi-slow-andy-2025-us-national-championships/",
+         "pubDate" : "Mon, 21 Jul 2025 23:35:27",
+         "title" : "POSTGAME ROUND 6: Could Abhi Slow Andy?"
+      },
+      {
          "description" : " The English Championships took place in Kenilworth, Friday, 18th to Monday, 21st July 2025. Michael Adams beat Nikita Vitiugov in a tie-break match after they tied on 6/7. Then two rapid games (20m+10spm) were both drawn, Adams won the first of two blitz (5m+3spm) games to take the title. The women's section likewise went down to a tie-break with Elmira Mirzoeva winning the first rapid game against Shambavi Hariharan, they had both scored 5.5/7.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
