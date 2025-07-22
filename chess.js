@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122841441.cms\" />In their first games of the FIDE Women's World Cup semifinals, India's Koneru Humpy and Divya Deshmukh secured draws against their Chinese opponents, Tingjie Lei and Zhongyi Tan, respectively. Humpy, playing black, comfortably neutralized Lei, while Deshmukh's solid defense thwarted Tan's attempts. With the return leg seeing both Indians playing white, their chances of advancing look promising.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-fide-womens-world-cup-india-stars-koneru-humpy-divya-deshmukh-hold-firm-with-semifinal-first-game-draws/articleshow/122841441.cms",
+         "pubDate" : "Tue, 22 Jul 2025 16:36:48",
+         "title" : "FIDE Women's World Cup: India stars Humpy, Divya hold firm with semifinal draws"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +42,28 @@ news_feed (
          "title" : "Michael Adams wins English Championship"
       },
       {
+         "description" : "Four cities in two continents played over-the-board chess against one another on International Chess Day (July 20). The event, Portals x Chess.com, was a celebration of chess that connected Dublin, Ireland; Lublin, Poland; Philadelphia, U.S.A.; an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-portals-intl-chess-day",
+         "pubDate" : "Tue, 22 Jul 2025 10:57:17",
+         "title" : "Portals x Chess.com Connects 4 Cities On International Chess Day"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122833959.cms\" />At the Freestyle Chess Grand Slam in Las Vegas, Levon Aronian secured his first title, defeating Hans Niemann in the final and earning $200,000. A notable moment occurred when Magnus Carlsen conspicuously did not applaud Niemann during the award ceremony, reigniting their ongoing feud, but warmly applauded Aronian. Carlsen recovered to win the third-place match against Nakamura.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-magnus-carlsens-awkward-reaction-to-hans-niemanns-entry-at-award-ceremony-goes-viral-watch/articleshow/122833959.cms",
          "pubDate" : "Tue, 22 Jul 2025 10:19:41",
          "title" : "Chess | Carlsen's awkward reaction to Niemann's entry at award ceremony goes viral - Watch"
+      },
+      {
+         "description" : "With no decisive results after game one of the 2025 FIDE Women&#39;s World Cup Semifinals, tensions rise as we enter the second and potentially last game of each match. IM Divya Deshmukh held a quick draw with Black against GM Tan Zhongyi, while GM Ko...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-semifinals-game-1",
+         "pubDate" : "Tue, 22 Jul 2025 08:42:00",
+         "title" : "Divya, Humpy Hold Draws In Semifinals Game 1"
       },
       {
          "description" : "FIDE has approved Matthew Wadsworth's GM title. You can read the meeting minutes here https://www.fide.com/fide-council-meeting-held-in-batumi-georgia/ The ECF offers its congratulations to Matthew. Photograph of Matthew by Brendan O'Gorman",
@@ -72,6 +96,14 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/07/21/derrick-rose-chesstival-freestyle-rousing-success/",
          "pubDate" : "Tue, 22 Jul 2025 00:35:32",
          "title" : "Derrick Rose Chesstival Freestyle rousing success!"
+      },
+      {
+         "description" : "Coming off the rest day, the 2025 Junior, Girls' Junior, and Senior National Championships were competitive at the top of the standings, and, despite some decisive results, clarity at the podium remained elusive after Monday's sixth round.In both junior sections, the top two players in the standings squared off. But, unfortunately, both games ended in draws. Meanwhile, players from the upper-middle part of the pack managed to grab full points. With this swing, both GM Kirk Ghazarian and WGM Zoey Tang have joined GM Andy Woodward and FM Megan Paragua atop their respective leaderboards.In the Senior Championship, the fact that there are still six players within one point of GM Vladimir Akopian",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/all-races-remain-tight-2025-national-championships",
+         "pubDate" : "Tue, 22 Jul 2025 00:00:00",
+         "title" : "All Races Remain Tight in 2025 National Championships"
       },
       {
          "description" : " POSTGAME Round 6: Could Abhi Slow Andy? Join GMs Yasser Seirawan &#038; Cristian Chirila, and IM Nazi Paikidze for the top moments of today's games. Standings 2025 U.S. Junior Championship Standings + # Place Name Rating Rd 1 Rd 2 Rd 3 Rd 4 Rd 5 Rd 6 Rd 7 Rd 8 Rd 9 Total [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-6-could-abhi-slow-andy-2025-us-national-championships/\">POSTGAME ROUND 6: Could Abhi Slow Andy?</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -618,14 +650,6 @@ news_feed (
          "title" : "Roebers Sets All-Time High Blitz Rating For Women"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122570842.cms\" />Indian Grandmaster R Praggnanandhaa is set to clash with world champion Magnus Carlsen in the Freestyle Chess tournament in New Delhi. Arjun Erigaisi and Vidit Gujrathi are in the other group. The event features a $750,000 prize pool and a unique format where piece positions are randomized.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/where-is-d-gukesh-world-champion-skips-vegas-freestyle-chess/articleshow/122570842.cms",
-         "pubDate" : "Wed, 16 Jul 2025 09:59:38",
-         "title" : "Where is D Gukesh? World Champion skips Vegas Freestyle Chess"
-      },
-      {
          "description" : "NBA superstar Victor &#34;Wemby&#34; Wembanyama is bringing his passion for chess back home. The San Antonio Spurs phenom is hosting a chess tournament in his hometown in France on Sunday, July 20. The French NBA sensation has already given his hometown...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -674,14 +698,6 @@ news_feed (
          "title" : "Young Stars, Seasoned Veterans Kick Off First Round of U.S. Junior, Girls' Junior, and Senior Championships"
       },
       {
-         "description" : "Today's puzzles continue a series featuring games from the 2025 FIDE World Cadets Cup. Read our full report here, and check out more puzzles for younger or newer players in this week's Tactics Tuesday column. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cadets-cup-pt-2",
-         "pubDate" : "Wed, 16 Jul 2025 00:00:00",
-         "title" : "Wednesday Workout: FIDE World Cadets Cup, Pt. 2"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-national-championships-postgame-round-1-an-exciting-start/\">POSTGAME Round 1: An Exciting Start | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -722,14 +738,6 @@ news_feed (
          "title" : "19-year-old Song Yuxin Knocks Out 5th Seed Anna Muzychuk"
       },
       {
-         "description" : "We&#38;rsquo;re excited to announce that you can now play chess against Steve Aoki&#38;rsquo;s very own bot on Chess.com! Put on your favorite Steve Aoki track, turn up the volume, and get ready for a high-energy chess match with one of music&#39;s most dynam...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/steve-aoki-bot",
-         "pubDate" : "Mon, 14 Jul 2025 08:18:00",
-         "title" : "Play Chess Against Superstar DJ And Producer Steve Aoki's Bot On Chess.com"
-      },
-      {
          "description" : "Free monthly magazine! Get a rating! Join England's chess community! Become a member today at https://www.englishchess.org.uk/join-us/",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/07/13/brewington-hardaway-receives-samford-fellow/",
          "pubDate" : "Sun, 13 Jul 2025 23:36:50",
          "title" : "Brewington Hardaway receives Samford Fellow!"
-      },
-      {
-         "description" : "GMs Kateryna Lagno and Valentina Gunina struck back against IM Vantika Agrawal and GM Nana Dzagnidze, respectively, to take their 2025 FIDE Women&#39;s World Cup round-three matches to tiebreaks. Four more matches will be decided Monday, while 10 play...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-3-game-2",
-         "pubDate" : "Sun, 13 Jul 2025 14:59:00",
-         "title" : "Gunina, Lagno Strike Back To Force Tiebreaks"
       },
       {
          "description" : "A recent column by the erudite Jeffrey Meyers reminded me that Joseph Conrad was a chess enthusiast and specifically a great admirer and student of Capablanca. Conrad, the enigmatic Anglo-Polish merchant naval officer, had originally been a subject of the Russian Tsars, whose empire incorporated Poland at that time. He rose to become one of the most []",
