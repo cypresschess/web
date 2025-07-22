@@ -46,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-portals-intl-chess-day",
-         "pubDate" : "Tue, 22 Jul 2025 10:57:17",
+         "pubDate" : "Tue, 22 Jul 2025 10:57:00",
          "title" : "Portals x Chess.com Connects 4 Cities On International Chess Day"
       },
       {
@@ -90,12 +90,20 @@ news_feed (
          "title" : "FIDE allots chess World Cup to India"
       },
       {
-         "description" : " Three years ago, former NBA star Derrick Rose had an idea to host a chess tournament featuring NBA players in Las Vegas. He billed it as a &#8220;Chesstival&#8221; with a high-stakes prize fund. The idea drew similarities to Maurice Ashley's Millionaire franchise, which had a first prize of $100,000. The tournament was delayed, but as The post <a href=\"https://thechessdrum.net/blog/2025/07/21/derrick-rose-chesstival-freestyle-rousing-success/\">Derrick Rose Chesstival Freestyle rousing success!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Three years ago, former NBA star Derrick Rose had an idea to host a chess tournament featuring NBA players in Las Vegas. He billed it as a &#8220;Chesstival&#8221; with a high-stakes prize fund. The idea drew similarities to Maurice Ashley's Millionaire franchise, which had a first prize of $100,000. Rose, who retired in 2024, was The post <a href=\"https://thechessdrum.net/blog/2025/07/21/derrick-rose-chesstival-freestyle-rousing-success/\">Derrick Rose Chesstival Freestyle rousing success!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/07/21/derrick-rose-chesstival-freestyle-rousing-success/",
          "pubDate" : "Tue, 22 Jul 2025 00:35:32",
          "title" : "Derrick Rose Chesstival Freestyle rousing success!"
+      },
+      {
+         "description" : "Today's puzzles continue a series featuring games from the 2025 FIDE World Cadets Cup. Read our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cadets-cup-pt-3",
+         "pubDate" : "Tue, 22 Jul 2025 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Cadets Cup, Pt. 3"
       },
       {
          "description" : "Coming off the rest day, the 2025 Junior, Girls' Junior, and Senior National Championships were competitive at the top of the standings, and, despite some decisive results, clarity at the podium remained elusive after Monday's sixth round.In both junior sections, the top two players in the standings squared off. But, unfortunately, both games ended in draws. Meanwhile, players from the upper-middle part of the pack managed to grab full points. With this swing, both GM Kirk Ghazarian and WGM Zoey Tang have joined GM Andy Woodward and FM Megan Paragua atop their respective leaderboards.In the Senior Championship, the fact that there are still six players within one point of GM Vladimir Akopian",
@@ -688,14 +696,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/us-junior-girls-and-seniors-2025",
          "pubDate" : "Wed, 16 Jul 2025 00:54:00",
          "title" : "US Junior, Girls and Seniors 2025 - Games and Results"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Brewington Hardaway (L) and Maxim Dlugy drew a crowd during their spontaneous blitz exhibition (Photo courtesy of Crystal Fuller/SLCC)<br> <br> <br> <br> A Midsummer Night's BattleEvery summer, amidst the scorching heat wave of mid-July, renowned legends and future stars gather in the chess capital of the country for the U.S. Junior, Girls' Junior, and Senior Championships. An exciting nine-game Round Robin tournament at the Saint Louis Chess Club (SLCC), the Championships are an opportunity for young players and seasoned veterans alike to show off their talent on the eight by eight world. While the playe",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/young-stars-seasoned-veterans-kick-first-round-us-junior-girls-junior-and-senior-championships",
-         "pubDate" : "Wed, 16 Jul 2025 00:00:00",
-         "title" : "Young Stars, Seasoned Veterans Kick Off First Round of U.S. Junior, Girls' Junior, and Senior Championships"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-national-championships-postgame-round-1-an-exciting-start/\">POSTGAME Round 1: An Exciting Start | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
