@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
+         "pubDate" : "Tue, 22 Jul 2025 12:45:00",
+         "title" : "Women's World Cup, Semifinals - Live!"
+      },
+      {
+         "description" : "While the finalists of the Grand Master Triathlon took a day off on Monday to prepare for the final rounds, the participants of the Master Open played their seventh round. Thirteen-year-old German talent Christian Gl&ouml;ckler was among the leaders but lost the top match against Pranav. | Photo: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-rising-stars-and-veterans-in-the-master-tournament",
+         "pubDate" : "Tue, 22 Jul 2025 12:01:16",
+         "title" : "Biel: Rising stars and veterans in the Master Tournament"
+      },
+      {
+         "description" : "In the only match that went to tiebreaks in the quarterfinals of the Women's World Cup, Divya Deshmukh secured a 2-0 victory over her compatriot Harika Dronavalli, thus becoming the fourth player to advance to the semi-finals. In the second rapid game, Harika twice missed a winning continuation in the endgame. In the semifinals, India's Humpy Koneru and Divya Deshmukh will face China's Lei Tingjie and Tan Zhongyi, respectively | Photo: Anna Shtourman / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-r5tb",
+         "pubDate" : "Tue, 22 Jul 2025 12:00:00",
+         "title" : "Women's World Cup QF: Divya beats Harika in tiebreaks, reaches semis"
+      },
+      {
+         "description" : "Last weekend, spanning four days, the English Chess Federation hosted the English Championship. Michael Adams claimed the title, edging out Nikita Vitiugov on tiebreak, with both players finishing on equal points. In the Women's Championship, the title went to Elmira Mirzoeva. | Photo: Melinda Wilde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/michael-adams-wins-english-championship",
+         "pubDate" : "Tue, 22 Jul 2025 11:57:00",
+         "title" : "Michael Adams wins English Championship"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122833959.cms\" />At the Freestyle Chess Grand Slam in Las Vegas, Levon Aronian secured his first title, defeating Hans Niemann in the final and earning $200,000. A notable moment occurred when Magnus Carlsen conspicuously did not applaud Niemann during the award ceremony, reigniting their ongoing feud, but warmly applauded Aronian. Carlsen recovered to win the third-place match against Nakamura.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-magnus-carlsens-awkward-reaction-to-hans-niemanns-entry-at-award-ceremony-goes-viral-watch/articleshow/122833959.cms",
+         "pubDate" : "Tue, 22 Jul 2025 10:19:41",
+         "title" : "Chess | Carlsen's awkward reaction to Niemann's entry at award ceremony goes viral - Watch"
+      },
+      {
+         "description" : "FIDE has approved Matthew Wadsworth's GM title. You can read the meeting minutes here https://www.fide.com/fide-council-meeting-held-in-batumi-georgia/ The ECF offers its congratulations to Matthew. Photograph of Matthew by Brendan O'Gorman",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/new-english-grandmaster/",
+         "pubDate" : "Tue, 22 Jul 2025 08:26:50",
+         "title" : "New English Grandmaster"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122827631.cms\" />Divya Deshmukh, India's World Junior Champion, advanced to the FIDE Women's World Cup semifinals in Batumi by defeating veteran Grandmaster D Harika in rapid tiebreaks. The 19-year-old's victory brings her closer to qualifying for the Women's Candidates tournament. She will now face China's Tan Zhongyi, while Koneru Humpy will compete against top seed Lei Tingjie.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -88,14 +136,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/direct-members-reps-2025/",
          "pubDate" : "Mon, 21 Jul 2025 12:45:21",
          "title" : "Direct Members' Reps 2025"
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
-         "pubDate" : "Mon, 21 Jul 2025 12:45:00",
-         "title" : "Women's World Cup, Round 5, Tiebreak!"
       },
       {
          "description" : "Nineteen-year-old IM Divya Deshmukh has reached the Semifinals of the&#38;nbsp;2025 FIDE Women&#39;s World Cup after winning the all-Indian tiebreak clash with GM Harika Dronavalli 2-0. Divya dominated an impressive first game before Harika came very clos...",
@@ -610,14 +650,6 @@ news_feed (
          "title" : "Movahed Wins First Tuesday Title Following Sarana's 16th"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122554362.cms\" />Hans Niemann, once unwelcome, has qualified for the Las Vegas leg of the Freestyle Chess Grand Slam, setting the stage for a highly anticipated rematch with Magnus Carlsen. Niemann's journey involved overcoming skepticism and intense competition to earn his place among the world's top players. This 'Battle of the Baddies' promises high drama and intense competition.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-despite-being-told-cant-invite-you-to-las-vegas-hans-niemann-turns-up-awaits-magnus-carlsen-in-battle-of-baddies/articleshow/122554362.cms",
-         "pubDate" : "Wed, 16 Jul 2025 04:55:11",
-         "title" : "Despite being told 'Can't invite you to Las Vegas', Niemann turns up, awaits Carlsen in 'Battle of Baddies'"
-      },
-      {
          "description" : "World number-four GM Praggnanandhaa Rameshbabu headlines a star-studded preliminary list of participants signed up for the Last Chance Qualifier (LCQ) for the Esports World Cup (EWC), in Riyadh, Saudi Arabia. The LCQ, scheduled for July 24-26, o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -826,14 +858,6 @@ news_feed (
          "title" : "FIDE Women's World Cup 2025 - Games and Results"
       },
       {
-         "description" : "In the battle of the 2025 North and South Union Champions, Surrey win the 104th Counties Championship, defending their title by a 3 1 margin on the decisive boards...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2025-counties-champions/",
-         "pubDate" : "Mon, 07 Jul 2025 14:55:42",
-         "title" : "2025 Counties Champions"
-      },
-      {
          "description" : "Rank Under 07 Rank &#160;&#160;&#160;&#160;&#160;&#160; Under 07 Girls 1 Evan Antonio Telles 1 Shreyanshi Jain 2 Duvesh Milan P 2 Anika K 3 Ansh Dadhich",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -960,14 +984,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/praggnanandhaa-wins-the-uzchess-cup-masters",
          "pubDate" : "Wed, 2 Jul 2025 16:10:00",
          "title" : "Praggnanandhaa wins the Uzchess Cup Masters - 1-9"
-      },
-      {
-         "description" : "After a middling 2024, Pragg has rebounded in 2025 with three big titles that underline his Candidates bid.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45629931/new-year-new-pragg-how-change-mentality-pushed-praggnanandhaa-gukesh-india-new-number-1?device=featurephone",
-         "pubDate" : "Tue, 1 Jul 2025 10:30:00",
-         "title" : "New year, New Pragg: How a change in mentality pushed Praggnanandhaa past Gukesh as India's new no.1"
       }
    ]
 }
