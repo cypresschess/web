@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122827631.cms\" />Divya Deshmukh, India's World Junior Champion, advanced to the FIDE Women's World Cup semifinals in Batumi by defeating veteran Grandmaster D Harika in rapid tiebreaks. The 19-year-old's victory brings her closer to qualifying for the Women's Candidates tournament. She will now face China's Tan Zhongyi, while Koneru Humpy will compete against top seed Lei Tingjie.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/inspired-divya-deshmukh-takes-down-harika-in-rapid/articleshow/122827631.cms",
+         "pubDate" : "Tue, 22 Jul 2025 04:54:43",
+         "title" : "Inspired Divya Deshmukh takes down Harika in rapid"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122827523.cms\" />India has secured the rights to host the FIDE World Cup in 2025 after a 23-year gap, with the event scheduled from October 30 to November 27. The All India Chess Federation (AICF) is considering Goa and Ahmedabad as potential host cities for the prestigious tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-fide-allots-chess-world-cup-to-india/articleshow/122827523.cms",
+         "pubDate" : "Tue, 22 Jul 2025 04:50:10",
+         "title" : "FIDE allots chess World Cup to India"
+      },
+      {
          "description" : " Three years ago, former NBA star Derrick Rose had an idea to host a chess tournament featuring NBA players in Las Vegas. He billed it as a &#8220;Chesstival&#8221; with a high-stakes prize fund. The idea drew similarities to Maurice Ashley's Millionaire franchise, which had a first prize of $100,000. The tournament was delayed, but as The post <a href=\"https://thechessdrum.net/blog/2025/07/21/derrick-rose-chesstival-freestyle-rousing-success/\">Derrick Rose Chesstival Freestyle rousing success!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -490,14 +506,6 @@ news_feed (
          "title" : "Praggnanandhaa stuns Magnus Carlsen, World No 1 out of title contention"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122607475.cms\" />In a stunning upset at the FIDE Women's World Cup, India's Divya Deshmukh defeated world No. 2 Zhu Jiner, showcasing remarkable composure. With this victory, Divya leads their match and is on the verge of reaching the quarterfinals. Meanwhile, Vaishali, Humpy, and Harika secured draws in their respective first games, setting the stage for crucial Game 2 encounters.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-divya-deshmukh-stuns-world-no-2-zhu-jiner-other-indians-settle-for-draw-at-fide-womens-world-cup/articleshow/122607475.cms",
-         "pubDate" : "Thu, 17 Jul 2025 02:26:37",
-         "title" : "Chess: Divya Deshmukh stuns World No 2 Zhu Jiner at FIDE Women's World Cup"
-      },
-      {
          "description" : "Five players earned norms at NYC Chess Norms' Marshall Summer Six Day GM/IM Invitational, held July 8 through 13 at the Marshall Chess Club in Manhattan. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> FA Carlos Chavez and Samrug Narayanan displaying the latter's first GM norm (Photos courtesy of NYC Chess Norms)<br> <br> In the GM A section, IM Samrug Narayanan finished in clear first with a 6&frac12;/9 score, a 2607 FIDE performance rating, and his first GM norm. Norms galore in the GM B section, even with two GMs (and one IM: GM Gabor Nagy, GM Vojtech Plat, and IM Josiah Stearman) ea",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/100k-accounts-closed-anti-cheating-systems-improve",
          "pubDate" : "Tue, 15 Jul 2025 11:05:29",
          "title" : "100,000 Accounts Closed Per Month As Chess.com Eyes New Anti-Cheating Measures"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122499313.cms\" />Indian Grandmaster Arjun Erigaisi slammed British Airways for a last-minute downgrade and 48-hour baggage delay ahead of the Freestyle Grand Slam in Las Vegas, calling it his \"worst experience\" and vowing never to fly with the airline again.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-arjun-erigaisi-slams-british-airways-over-flight-downgrade-delayed-baggage-youve-lost-a-customer/articleshow/122499313.cms",
-         "pubDate" : "Tue, 15 Jul 2025 09:27:19",
-         "title" : "Chess | Arjun Erigaisi slams British Airways - 'You've lost a customer'"
       },
       {
          "description" : "Basketball and chess pros joined forces in the latest sports-and-chess crossover event, the Chesstival, which took place the weekend before the Las Vegas Freestyle Grand Slam, which begins on Wednesday. Grant Williams, of the Charlotte Hornets, wo...",
@@ -968,14 +968,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45629931/new-year-new-pragg-how-change-mentality-pushed-praggnanandhaa-gukesh-india-new-number-1?device=featurephone",
          "pubDate" : "Tue, 1 Jul 2025 10:30:00",
          "title" : "New year, New Pragg: How a change in mentality pushed Praggnanandhaa past Gukesh as India's new no.1"
-      },
-      {
-         "description" : "Check out the FIDE rankings of the best chess players in the world.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45624957/fide-chess-rankings-july-2025-d-gukesh-r-praggnanandhaa-magnus-carlsen-koneru-humpy-r-vaishali-arjun-erigaisi?device=featurephone",
-         "pubDate" : "Tue, 1 Jul 2025 05:50:00",
-         "title" : "FIDE Chess rankings for July: R Praggnanandhaa becomes India no.1 in classical"
       }
    ]
 }
