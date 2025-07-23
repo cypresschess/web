@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The International Chess Federation has announced the venue for the 2025 FIDE World Cup. The knockout tournament will take place in India in November. The exact location is not yet known. 206 players will compete for prize money and three places in the Candidates Tournament. | Graphics and photos: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-venue",
+         "pubDate" : "Wed, 23 Jul 2025 02:15:00",
+         "title" : "FIDE World Cup to take place in India"
+      },
+      {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-7-day-of-the-spoilers/\">POSTGAME ROUND 7: Day of the Spoilers</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-7-day-of-the-spoilers/",
+         "pubDate" : "Wed, 23 Jul 2025 00:25:18",
+         "title" : "POSTGAME ROUND 7: Day of the Spoilers"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122841441.cms\" />In their first games of the FIDE Women's World Cup semifinals, India's Koneru Humpy and Divya Deshmukh secured draws against their Chinese opponents, Tingjie Lei and Zhongyi Tan, respectively. Humpy, playing black, comfortably neutralized Lei, while Deshmukh's solid defense thwarted Tan's attempts. With the return leg seeing both Indians playing white, their chances of advancing look promising.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
