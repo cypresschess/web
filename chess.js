@@ -34,6 +34,14 @@ news_feed (
          "title" : "Senior National Arbiters Seminar & Exam at Agartala on 21 & 22 August 2025"
       },
       {
+         "description" : "Both Titled Tuesday events of July 22 were close, but in the end, GMs Hikaru Nakamura and Bogdan Daniel Deac won out. They scored 9.5 points each, beating out GMs Jeffery Xiong and Matthias Bluebaum, respectively, on&#38;nbsp;tiebreaks. Both Nakamura ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-deac-win-titled-tuesday-july-22-2025",
+         "pubDate" : "Wed, 23 Jul 2025 08:17:07",
+         "title" : "Nakamura Topples Gukesh On Way To Titled Tuesday Victory"
+      },
+      {
          "description" : "The&#160;FIDE Council Decision on Russian Women's Team Participation in&#160;the&#160;World Team Championship 2025 The European Chess Union (ECU) has reviewed the decision made at the Online FIDE Council Meeting held on July 18, 2025, regarding the participation of Russian National Team in the 2025 Women's World Team Championship. We note that this decision directly contradicts the most recent decisions of the FIDE General Assembly taken in Budapest, where two motions for lifting the sanctions against the Russian Chess Federation were rejected by a vast majority by FIDE member nations. Additionally,&#160;this&#160;matter was not&#160;originally&#160;on the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -64,6 +72,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-7-day-of-the-spoilers/",
          "pubDate" : "Wed, 23 Jul 2025 00:25:18",
          "title" : "POSTGAME ROUND 7: Day of the Spoilers"
+      },
+      {
+         "description" : "If any viewers were hoping for a clear frontrunner to emerge after seven rounds, I'm sorry to disappoint you. The leaders of the pack keep drawing, and the players just behind them keep winning crucial games. The result, in all sections, is a traffic jam at the top.In the Girls' Junior, there's now a three-way tie for first between WFM Rachael Li, WGM Zoey Tang, and FM Megan Paragua, all with 5/7 points. Breathing down their necks, however, are FM Ruiyang Yan (4&frac12;/7), WIM Iris Mou (4/7) and Jasmine Su (4/7).The picture in the Junior Championship isn't much clearer. GMs Andy Woodward and Kirk Ghazarian are still tied for first with 5/7 points, while GMs Brewington Hardaway and Abhimanyu",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tie-breaks-loom-two-rounds-remaining-national-championships",
+         "pubDate" : "Wed, 23 Jul 2025 00:00:00",
+         "title" : "Tie-Breaks Loom With Two Rounds Remaining in National Championships"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122841441.cms\" />In their first games of the FIDE Women's World Cup semifinals, India's Koneru Humpy and Divya Deshmukh secured draws against their Chinese opponents, Tingjie Lei and Zhongyi Tan, respectively. Humpy, playing black, comfortably neutralized Lei, while Deshmukh's solid defense thwarted Tan's attempts. With the return leg seeing both Indians playing white, their chances of advancing look promising.",
@@ -586,14 +602,6 @@ news_feed (
          "title" : "Online Workshops Schedule for Delegates Meeting"
       },
       {
-         "description" : "As the National Championships (U.S. Junior, Girls' Junior, and Senior Championships) entered their second round, the intensity was amplified. Following seven decisive games (out of 15) on Tuesday's opening round, players continued vying to set a strong rhythm for the early rounds. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of Crystal Fuller/SLCC<br> <br> <br> <br> While Woodward maintained his sole lead in the Junior, it was Atwell who jumped out to an early lead in the Girls' Junior, with her over-five-hour game being the last one to finish in the tournament. Since the result puts her at 2/2, she surely didn't mind the extra work. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/woodward-atwell-perfect-after-two-national-championships",
-         "pubDate" : "Thu, 17 Jul 2025 00:00:00",
-         "title" : "Woodward, Atwell Perfect After Two in National Championships"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-2-day-of-the-juniors-2025-u-s-national-championships/\">POSTGAME Round 2: Day of the Juniors | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/williams-post-win-2025-chesstival",
          "pubDate" : "Mon, 14 Jul 2025 19:10:00",
          "title" : "Williams, Post Win Basketball & Freestyle Chess Crossover Event"
-      },
-      {
-         "description" : "IM Song Yuxin has joined fellow 19-year-olds IM Meruert Kamalidenova and IM Umida Omonova in round four of the&#38;nbsp;2025 FIDE Women&#39;s World Cup after knocking out GM Anna Muzychuk in round-three tiebreaks. In the six tiebreak matches only one play...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-3-tiebreaks",
-         "pubDate" : "Mon, 14 Jul 2025 16:10:00",
-         "title" : "19-year-old Song Yuxin Knocks Out 5th Seed Anna Muzychuk"
       },
       {
          "description" : "Free monthly magazine! Get a rating! Join England's chess community! Become a member today at https://www.englishchess.org.uk/join-us/",
