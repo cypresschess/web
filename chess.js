@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#160;FIDE Council Decision on Russian Women's Team Participation in&#160;the&#160;World Team Championship 2025 The European Chess Union (ECU) has reviewed the decision made at the Online FIDE Council Meeting held on July 18, 2025, regarding the participation of Russian National Team in the 2025 Women's World Team Championship. We note that this decision&#160;&#160;directly&#160;contradicts&#160;the&#160;most recent&#160;decisions&#160;of&#160;the FIDE General Assembly&#160;taken&#160;in Budapest, where two motions for lifting the sanctions against the Russian Chess Federation were rejected&#160;by a high&#160;majority by FIDE member&#160;nations.&#160; Additionally,&#160;this&#160;matter",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-statement-on-fide-council-decision/",
+         "pubDate" : "Wed, 23 Jul 2025 06:48:33",
+         "title" : "ECU Statement on FIDE Council Decision"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122850316.cms\" />In the FIDE Women's World Cup semifinals, Indian players Divya Deshmukh and Koneru Humpy demonstrated strong defensive skills, securing draws against higher-ranked Chinese Grandmasters Tan Zhongyi and Lei Tingjie, respectively. Divya's solid preparation with black pieces led to a draw in 30 moves, while Humpy capitalized on Tingjie's errors to achieve a 38-move draw.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-divya-deshmukh-koneru-humpy-hold-higher-ranked-chinese-gms-in-semifinal-game-1/articleshow/122850316.cms",
+         "pubDate" : "Wed, 23 Jul 2025 04:51:24",
+         "title" : "Chess | Divya, Humpy hold higher-ranked Chinese GMs in semifinal Game 1"
+      },
+      {
          "description" : "The International Chess Federation has announced the venue for the 2025 FIDE World Cup. The knockout tournament will take place in India in November. The exact location is not yet known. 206 players will compete for prize money and three places in the Candidates Tournament. | Graphics and photos: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -264,14 +280,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/divya-joins-top-seeds-womens-world-cup-semi-finals",
          "pubDate" : "Mon, 21 Jul 2025 00:00:00",
          "title" : "Divya Joins Top Seeds in Women's World Cup Semi-Finals"
-      },
-      {
-         "description" : "The Freestyle Chess Grand Slam continues in Las Vegas from 16 to 20 July with a 16-player invitational event featuring a round-robin followed by a double-elimination knockout stage. Top players including Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are taking part. All games will be broadcast live with commentary, and eliminated players will contribute to coverage. | Follow the games live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-live",
-         "pubDate" : "Sun, 20 Jul 2025 19:45:00",
-         "title" : "Freestyle Chess Las Vegas Grand Final - Live!"
       },
       {
          "description" : "Magnus Carlsen and Hikaru Nakamura advanced to the third-place match of the Freestyle Chess Grand Slam in Las Vegas after winning their lower bracket encounters on Saturday. Carlsen defeated Praggnanandhaa Rameshbabu and Arjun Erigaisi, while Nakamura overcame Wesley So and Fabiano Caruana. Sunday's final day will also feature Hans Niemann vs. Levon Aronian for the title, as well as placement matches for fifth and seventh place. | Photo: Lennart Ootes",
@@ -640,14 +648,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/freestyle-chess-grandslam-las-vegas-group-stage",
          "pubDate" : "Wed, 16 Jul 2025 23:55:00",
          "title" : "Aronian Stuns Carlsen In Tiebreaks; Nakamura Dominates With 6/7"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122579181.cms\" />Ahead of the Las Vegas leg of the Freestyle Chess Grand Slam Tour, Hans Niemann asserts that Magnus Carlsen and other top players face greater pressure due to past events. Niemann highlights his recent online successes against Carlsen and Hikaru Nakamura, suggesting they are more stressed when facing him.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-im-22-years-old-hans-niemann-takes-a-swipe-at-magnus-carlsen/articleshow/122579181.cms",
-         "pubDate" : "Wed, 16 Jul 2025 14:24:02",
-         "title" : "Vegas Freestyle | 'I'm 22 years old' - Niemann takes a jibe at Carlsen"
       },
       {
          "description" : "19-year-old Indian IM Divya Deshmukh has one foot in the 2025 FIDE Women&#39;s World Cup Quarterfinals after scoring an impressive win over Chinese number-two seed GM Zhu Jiner as round four began in Batumi. The remaining three Chinese players&#38;mdash;G...",
