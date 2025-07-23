@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-07-20","7","<a href=http://www.uschess.org/msa/XtblMain.php?202507209092 target='_blank'>JULY 20TH-SUNDAY SWISS OPEN</a>",
 "HOUSTON","2025-07-18  - 07-20","47","<a href=http://www.uschess.org/msa/XtblMain.php?202507207942 target='_blank'>SOUTH TEXAS FIDE 2025</a>",
 "HOUSTON","2025-07-19","17","<a href=http://www.uschess.org/msa/XtblMain.php?202507196662 target='_blank'>CHESSPANDA07192025SATURDAY</a>",
 "SPRING","2025-07-18","20","<a href=http://www.uschess.org/msa/XtblMain.php?202507186262 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2025-01-11","122","<a href=http://www.uschess.org/msa/XtblMain.php?202501119732 target='_blank'>WHARTON ACADEMY CHESS TOURNAMENT</a>",
 "HOUSTON","2025-01-11","31","<a href=http://www.uschess.org/msa/XtblMain.php?202501119632 target='_blank'>JAN 11TH - TROPHY SCHOLASTIC</a>",
 "HOUSTON","2025-01-11","5","<a href=http://www.uschess.org/msa/XtblMain.php?202501119592 target='_blank'>CHESSPANDA01112025SATURDAY</a>",
-"SUGAR LAND","2025-01-10","10","<a href=http://www.uschess.org/msa/XtblMain.php?202501108932 target='_blank'>FBCC 2024 SAVE THE EAGLES DAY OPEN.</a>",
 ]);
