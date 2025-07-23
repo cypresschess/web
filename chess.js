@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The&#160;FIDE Council Decision on Russian Women's Team Participation in&#160;the&#160;World Team Championship 2025 The European Chess Union (ECU) has reviewed the decision made at the Online FIDE Council Meeting held on July 18, 2025, regarding the participation of Russian National Team in the 2025 Women's World Team Championship. We note that this decision&#160;&#160;directly&#160;contradicts&#160;the&#160;most recent&#160;decisions&#160;of&#160;the FIDE General Assembly&#160;taken&#160;in Budapest, where two motions for lifting the sanctions against the Russian Chess Federation were rejected&#160;by a high&#160;majority by FIDE member&#160;nations.&#160; Additionally,&#160;this&#160;matter",
+         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
+         "pubDate" : "Wed, 23 Jul 2025 12:45:00",
+         "title" : "Women's World Cup, Semifinals - Live!"
+      },
+      {
+         "description" : "The finals have begun in the Biel Grand Master Triathlons. Saleh Salem and Vladimir Fedoseev are leading in the Masters. In the Challengers, Nikolas Theodorou has pulled away from his competitors. Christian Gl&ouml;ckler drew in the Masters Open and is now eleventh, one point behind the leader. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-finals-have-started",
+         "pubDate" : "Wed, 23 Jul 2025 11:38:10",
+         "title" : "Biel: Finals have started"
+      },
+      {
+         "description" : "Summit chess was played once again at an altitude of 2,315 metres in the Rudolfsh&uuml;tte in Pinzgau, Austria. Robert Wiesinger and Gerhard Tobler from Upper Austria won the team competition alongside Florian Raber. Stefan L&ouml;ffler reports on Europe's highest chess tournament. | Photos: Harald Sammer / Stefan L&ouml;ffler",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/summit-chess-mountain-hiking-and-playing-chess",
+         "pubDate" : "Wed, 23 Jul 2025 10:09:47",
+         "title" : "Summit Chess: Mountain hiking and playing chess"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation , All Tripura Chess Association is organizing Senior National Arbiters Seminar &#38; Exam on 21 &#38; 22 August 2025 at Meeting",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiters-seminar-exam-at-agartala-on-21-22-august-2025/",
+         "pubDate" : "Wed, 23 Jul 2025 09:24:21",
+         "title" : "Senior National Arbiters Seminar & Exam at Agartala on 21 & 22 August 2025"
+      },
+      {
+         "description" : "The&#160;FIDE Council Decision on Russian Women's Team Participation in&#160;the&#160;World Team Championship 2025 The European Chess Union (ECU) has reviewed the decision made at the Online FIDE Council Meeting held on July 18, 2025, regarding the participation of Russian National Team in the 2025 Women's World Team Championship. We note that this decision directly contradicts the most recent decisions of the FIDE General Assembly taken in Budapest, where two motions for lifting the sanctions against the Russian Chess Federation were rejected by a vast majority by FIDE member nations. Additionally,&#160;this&#160;matter was not&#160;originally&#160;on the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-statement-on-fide-council-decision/",
@@ -42,14 +74,6 @@ news_feed (
          "title" : "FIDE Women's World Cup: India stars Humpy, Divya hold firm with semifinal draws"
       },
       {
-         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
-         "pubDate" : "Tue, 22 Jul 2025 12:45:00",
-         "title" : "Women's World Cup, Semifinals - Live!"
-      },
-      {
          "description" : "While the finalists of the Grand Master Triathlon took a day off on Monday to prepare for the final rounds, the participants of the Master Open played their seventh round. Thirteen-year-old German talent Christian Gl&ouml;ckler was among the leaders but lost the top match against Pranav. | Photo: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-world-cup-2025-r5tb",
          "pubDate" : "Tue, 22 Jul 2025 12:00:00",
          "title" : "Women's World Cup QF: Divya beats Harika in tiebreaks, reaches semis"
-      },
-      {
-         "description" : "Last weekend, spanning four days, the English Chess Federation hosted the English Championship. Michael Adams claimed the title, edging out Nikita Vitiugov on tiebreak, with both players finishing on equal points. In the Women's Championship, the title went to Elmira Mirzoeva. | Photo: Melinda Wilde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/michael-adams-wins-english-championship",
-         "pubDate" : "Tue, 22 Jul 2025 11:57:00",
-         "title" : "Michael Adams wins English Championship"
       },
       {
          "description" : "Four cities in two continents played over-the-board chess against one another on International Chess Day (July 20). The event, Portals x Chess.com, was a celebration of chess that connected Dublin, Ireland; Lublin, Poland; Philadelphia, U.S.A.; an...",
@@ -122,7 +138,7 @@ news_feed (
          "title" : "FIDE allots chess World Cup to India"
       },
       {
-         "description" : " Three years ago, former NBA star Derrick Rose had an idea to host a chess tournament featuring NBA players in Las Vegas. He billed it as a &#8220;Chesstival&#8221; with a high-stakes prize fund. The idea drew similarities to Maurice Ashley's Millionaire franchise, which had a first prize of $100,000. Rose, who retired in 2024, was The post <a href=\"https://thechessdrum.net/blog/2025/07/21/derrick-rose-chesstival-freestyle-rousing-success/\">Derrick Rose Chesstival Freestyle rousing success!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Three years ago, former NBA star Derrick Rose had an idea to host a chess tournament featuring NBA players in Las Vegas. He billed it as a &#8220;Chesstival&#8221; with a high-stakes prize fund. The idea drew similarities to Maurice Ashley's Millionaire franchise, which had a first prize of $100,000. Video by Freestyle Chess Rose, who The post <a href=\"https://thechessdrum.net/blog/2025/07/21/derrick-rose-chesstival-freestyle-rousing-success/\">Derrick Rose Chesstival Freestyle rousing success!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/07/21/derrick-rose-chesstival-freestyle-rousing-success/",
@@ -162,14 +178,6 @@ news_feed (
          "title" : "English Championships 2025 - Games and Results"
       },
       {
-         "description" : "Radoslaw (Radek) Wojtaszek came out on top in the separate Accentus Chess 960 Masters at the 58th International Biel/Bienne Chess Festival 2025. Our author Eduard Frey, who lives in Biel, met the proficient player from Poland during the tournament. | Photo: Simon Bohnenblust, Organiser",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-six-time-assistant-in-world-chess-championship-title-matches-a-portrait-of-gm-wojtaszek",
-         "pubDate" : "Mon, 21 Jul 2025 18:04:05",
-         "title" : "A six-time assistant in World Chess Championship title matches: A portrait of GM Wojtaszek"
-      },
-      {
          "description" : "Last week Problem expert Werner Keym gave us some remarkable chess problems to solve. They were from his latest eBook, Problem Chess Art, which is available to everyone, free of charge. Here today are the solutions of the problems he selected for us. Were you able to solve them?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -178,28 +186,12 @@ news_feed (
          "title" : "Problem Chess Art"
       },
       {
-         "description" : "Levon Aronian won the Freestyle Chess Grand Slam in Las Vegas by defeating Hans Niemann 1&frac12;-&frac12; in Sunday's final, securing his first title and the $200,000 top prize. Magnus Carlsen beat Hikaru Nakamura to finish third and maintain his lead in the overall tour standings. Fabiano Caruana and Praggnanandhaa Rameshbabu claimed fifth and seventh place, respectively, as the first Freestyle Chess event held in the United States came to a close. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-5",
-         "pubDate" : "Mon, 21 Jul 2025 16:40:00",
-         "title" : "Freestyle Chess: Aronian conquers Las Vegas, Carlsen grabs third place"
-      },
-      {
          "description" : "When basketball star Victor Wembanyama (Wemby) says that it&#39;s time for a game, chess players show up! It happened last December in New York, and again on Sunday in his hometown of Le Chesnay, France. Just last week, Wemby announced the Hoop Gambit...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/im-yovann-gatineau-wins-wembys-hoop-gambit-tournament",
          "pubDate" : "Mon, 21 Jul 2025 14:52:30",
          "title" : "Yovann Gatineau Wins Wemby's Hoop Gambit Tournament"
-      },
-      {
-         "description" : "The opening is tricky. If you don't know what you are doing, you can quickly find yourself on the losing side, but if you know what you are doing, you can also quickly gain an advantage. ChessBase offers help! The Opening Encyclopaedia offers a complete overview of all openings, and with Fritz 20 you can try out and practise all of them. This week (21-27 July), the strong duo is available as a Summer Special at a special price!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/this-week-s-summer-special-a-strong-duo-for-opening-study",
-         "pubDate" : "Mon, 21 Jul 2025 14:21:48",
-         "title" : "This week's Summer Special: A strong duo for opening study"
       },
       {
          "description" : "There was no requirement for an election this year and the incumbents (plus one replacement rep) are as follows &#8212; Lifetime John Wickham, Gerry Walsh Platinum Adrian Elwin,...",
@@ -224,14 +216,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-examination-in-bathindapunjab-on-15-16-august-2025/",
          "pubDate" : "Mon, 21 Jul 2025 11:05:10",
          "title" : "Senior National Arbiter Seminar & Examination in Bathinda,Punjab on 15 & 16 August 2025"
-      },
-      {
-         "description" : "The first decisions have been made at the Biel Grandmaster Triathlon: today's blitz chess matches marked the end of the qualification phase. Svane and Wojtaszek were unable to make up their deficit and are the last two players to be eliminated from the Masters. In the Challengers, the blitz games brought another change: Navara proved to be the stronger blitz player than Ma Qun and was thus able to push past the Chinese player into fourth place. In the coming week, the remaining players will now play for victory in Biel 2025. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-wojtaszek-and-svane-are-eliminated",
-         "pubDate" : "Mon, 21 Jul 2025 10:07:12",
-         "title" : "Biel: Wojtaszek and Svane are eliminated"
       },
       {
          "description" : "We&#39;re excited to announce the 2025 Women&#39;s Speed Chess Championship (WSCC), the most exciting speed chess event for women in the world! Starting on August 4, the event will feature a $75,000 prize fund and the same thrilling format fans already kn...",
@@ -282,14 +266,6 @@ news_feed (
          "title" : "Divya Joins Top Seeds in Women's World Cup Semi-Finals"
       },
       {
-         "description" : "Magnus Carlsen and Hikaru Nakamura advanced to the third-place match of the Freestyle Chess Grand Slam in Las Vegas after winning their lower bracket encounters on Saturday. Carlsen defeated Praggnanandhaa Rameshbabu and Arjun Erigaisi, while Nakamura overcame Wesley So and Fabiano Caruana. Sunday's final day will also feature Hans Niemann vs. Levon Aronian for the title, as well as placement matches for fifth and seventh place. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vegas-fcgs-2025-4",
-         "pubDate" : "Sun, 20 Jul 2025 18:55:00",
-         "title" : "Freestyle Chess Las Vegas: Carlsen and Nakamura to fight for third place"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122800328.cms\" />Koneru Humpy made history as the first Indian woman to reach the FIDE Women's Chess World Cup semifinals, securing her spot with a draw against China's Song Yuxin. In another quarterfinal, Harika Dronavalli and Divya Deshmukh's match went to a tiebreaker. Vaishali Rameshbabu exited after losing to Tan Zhongyi.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -330,14 +306,6 @@ news_feed (
          "title" : "Quarterfinal Tension Rises: Humpy Triumphs, Harika, Divya, and Vaishali Hold Ground"
       },
       {
-         "description" : "Working with ChessBase 18 is so enjoyable because it builds on the experience of the developers from 17 previous versions. But you don't have to wait for the next release - you'll receive ongoing improvements directly to your computer through the free update service. And don't worry: staying up to date with the latest updates takes just a few clicks. In this tutorial, we'll show you how.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-23-stay-up-to-date-with-program-updates",
-         "pubDate" : "Sun, 20 Jul 2025 07:00:00",
-         "title" : "ChessBase 18 - Tips for beginners, part 23: Stay up to date with program updates"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122793355.cms\" />Koneru Humpy of India and China's Lei Tingjie secured victories in their respective opening games, leading the quarterfinals at the FIDE Women's Chess World Cup. Indian compatriots Divya Deshmukh and Harika D drew, while Vaishali Rameshbabu held China's Tan Zhongyi to a draw after a lengthy 72-move game.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -376,14 +344,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/paragua-claims-lead-national-championships-reach-rest-day",
          "pubDate" : "Sun, 20 Jul 2025 00:00:00",
          "title" : "Paragua Claims Lead as National Championships Reach Rest Day"
-      },
-      {
-         "description" : "The first games of the Women's World Cup quarterfinals saw wins for Lei Tingjie and Humpy Koneru, who now lead their respective matches. Lei defeated Nana Dzagnidze in a game which saw the Georgian GM losing on time after a scoresheet miscount, while Humpy overcame Song Yuxin with the white pieces. Divya Deshmukh drew against Harika Dronavalli, while Vaishali Rameshbabu missed a chance to press against Tan Zhongyi. | Photo: Anna Shtourman / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-r5g1",
-         "pubDate" : "Sat, 19 Jul 2025 23:20:00",
-         "title" : "Women's World Cup QF: Humpy and Lei strike first"
       },
       {
          "description" : "GM Daniel Naroditsky has returned to the top spot in the latest edition of Bullet Brawl, two months after winning his last title. Naroditsky outpaced 105 titled players, including the second- and third-placed GM Oleksandr Bortnyk and IM Yoseph Tah...",
@@ -722,14 +682,6 @@ news_feed (
          "title" : "POSTGAME Round 1: An Exciting Start | 2025 U.S. National Championships"
       },
       {
-         "description" : "The chess world is showing increasing interest in what many now refer to as \"Freestyle Chess.\" Having served as Chief Arbiter at two such events this year - one in Weissenhaus, Germany in February and another in Paris, France in April - Gerhard Bertagnolli has encountered a number of unique challenges. These are worth sharing, as Freestyle Chess differs from classical chess in several subtle yet significant ways.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arbiting-a-freestyle-event",
-         "pubDate" : "Tue, 15 Jul 2025 18:00:00",
-         "title" : "Arbiting a Freestyle Event"
-      },
-      {
          "description" : "As Chess.com&#39;s Fair Play team is shutting down more than 100,000 accounts every month for violating fair play rules, the platform is now considering new measures to combat the constant battle against cheating in online chess. A new blog post tit...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -960,14 +912,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jul/04/russians-absent-world-chess-top-10-first-time-since-official-lists-began-ian-nepomniachtchi",
          "pubDate" : "Fri, 04 Jul 2025 07:01:11",
          "title" : "Russians absent from world chess top 10 for first time since official lists began"
-      },
-      {
-         "description" : "Special Note: If a player has only&#160;one accompanying person, then he/she must pay for double sharing amount only. (Triple sharing basis not accepted for two",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-youth-chess-championships-2025-in-durres-albania-from-18th-september-to-1st-october-2025/",
-         "pubDate" : "Fri, 04 Jul 2025 05:51:49",
-         "title" : "FIDE World Youth Chess Championships - 2025 in Durres, Albania from 03-16 October, 2025."
       },
       {
          "description" : " The Ashley Chess Fellows have been announced! Last November, we announced the Maurice Ashley Chess Fellowship, to provide Black chess talents with opportunities to reach new heights in the sport. Excellence in chess requires a significant amount of training, as well as resources. It is commonly stated and perhaps known that this is one hurdle The post <a href=\"https://thechessdrum.net/blog/2025/07/03/2025-ashley-chess-fellows-announced/\">2025 Ashley Chess Fellows announced!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
