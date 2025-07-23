@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Over the past 20 years Larry List has curated exhibitions, and written primarily about the interrelationships between chess and visual art. To coincide with a Man Ray exhibition of photos at the Metropolitan Museum of Art this September, Hirmer Verlag of Munich is publishing his new book On Man Ray, the closest artist friend of the famous 20th century artist Marcel Duchamp. It is lavishly illustrated with color photos, with a solid and attractive layout. | Man Ray self-portrait 1926 Centre Pompidou",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/man-ray-chess",
+         "pubDate" : "Wed, 23 Jul 2025 20:00:00",
+         "title" : "Permanent Attraction: Man Ray & Chess"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122865202.cms\" />Divya Deshmukh made history by reaching the FIDE Women's World Chess Cup final, defeating Zhongyi Tan and becoming the first Indian to qualify for the Women's Candidates tournament. The 19-year-old secured her victory with a strong performance, showcasing her positional understanding in the Alapin variation. Koneru Humpy drew against Tingjie Lei, setting up a tie-break to determine the other finalist.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-womens-world-cup-divya-deshmukh-creates-history-qualifies-for-candidates-tournament/articleshow/122865202.cms",
+         "pubDate" : "Wed, 23 Jul 2025 18:29:52",
+         "title" : "FIDE Women's World Cup: Divya Deshmukh creates history, qualifies for Candidates tournament"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122864193.cms\" />India's Divya Deshmukh made history. She beat former world champion Tan Zhongyi. Divya secured a spot in the FIDE Women's World Cup final. Koneru Humpy faces a tie-break. She drew with Lei Tingjie. The tournament highlights Asia's strength in women's chess. An Indian will play in the next Women's Candidates Tournament. Fans hope for an all-Indian final.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-divya-deshmukh-in-tears-after-becoming-first-indian-to-reach-fide-womens-world-cup-final-watch/articleshow/122864193.cms",
+         "pubDate" : "Wed, 23 Jul 2025 17:14:23",
+         "title" : "Divya in tears after becoming first Indian to reach WC final - Watch"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +34,28 @@ news_feed (
          "title" : "Women's World Cup, Semifinals - Live!"
       },
       {
+         "description" : "IM Divya Deshmukh eliminated GM Tan Zhongyi from the 2025 FIDE Women&#39;s World Cup, extending her Cinderella story into the Final with a third consecutive match victory over a grandmaster. She also earns her first grandmaster norm and a spot in the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-semifinals-game-2",
+         "pubDate" : "Wed, 23 Jul 2025 11:42:00",
+         "title" : "Divya Eliminates 3rd Seed Tan, Lei Survives Vs. Humpy"
+      },
+      {
          "description" : "The finals have begun in the Biel Grand Master Triathlons. Saleh Salem and Vladimir Fedoseev are leading in the Masters. In the Challengers, Nikolas Theodorou has pulled away from his competitors. Christian Gl&ouml;ckler drew in the Masters Open and is now eleventh, one point behind the leader. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/biel-finals-have-started",
          "pubDate" : "Wed, 23 Jul 2025 11:38:10",
          "title" : "Biel: Finals have started"
+      },
+      {
+         "description" : "The International Chess Federation (FIDE) has approved the participation of a Russian team in the upcoming 2025 Women&#39;s World Team Championship. The controversial decision has led to several reactions, most notably from the European Chess Union (E...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-softens-stance-on-russian-teams-ecu-others-protest",
+         "pubDate" : "Wed, 23 Jul 2025 10:28:00",
+         "title" : "FIDE Sparks Protests By Allowing Russian Team To Compete In Major Event"
       },
       {
          "description" : "Summit chess was played once again at an altitude of 2,315 metres in the Rudolfsh&uuml;tte in Pinzgau, Austria. Robert Wiesinger and Gerhard Tobler from Upper Austria won the team competition alongside Florian Raber. Stefan L&ouml;ffler reports on Europe's highest chess tournament. | Photos: Harald Sammer / Stefan L&ouml;ffler",
@@ -34,11 +74,11 @@ news_feed (
          "title" : "Senior National Arbiters Seminar & Exam at Agartala on 21 & 22 August 2025"
       },
       {
-         "description" : "Both Titled Tuesday events of July 22 were close, but in the end, GMs Hikaru Nakamura and Bogdan Daniel Deac won out. They scored 9.5 points each, beating out GMs Jeffery Xiong and Matthias Bluebaum, respectively, on&#38;nbsp;tiebreaks. Both Nakamura ...",
+         "description" : "Both Titled Tuesday events of July 22 were close, but in the end, GMs Hikaru Nakamura and Bogdan-Daniel Deac won out. They scored 9.5 points each, beating out GMs Jeffery Xiong and Matthias Bluebaum, respectively, on&#38;nbsp;tiebreaks. Both Nakamura ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-deac-win-titled-tuesday-july-22-2025",
-         "pubDate" : "Wed, 23 Jul 2025 08:17:07",
+         "pubDate" : "Wed, 23 Jul 2025 08:17:00",
          "title" : "Nakamura Topples Gukesh On Way To Titled Tuesday Victory"
       },
       {
@@ -72,6 +112,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-7-day-of-the-spoilers/",
          "pubDate" : "Wed, 23 Jul 2025 00:25:18",
          "title" : "POSTGAME ROUND 7: Day of the Spoilers"
+      },
+      {
+         "description" : "Today's puzzles continue a series featuring games from the 2025 FIDE World Cadets Cup. Read our full report here, and check out more puzzles for younger or newer players in this week's Tactics Tuesday column. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cadets-cup-pt-3",
+         "pubDate" : "Wed, 23 Jul 2025 00:00:00",
+         "title" : "Wednesday Workout: FIDE World Cadets Cup, Pt. 3"
       },
       {
          "description" : "If any viewers were hoping for a clear frontrunner to emerge after seven rounds, I'm sorry to disappoint you. The leaders of the pack keep drawing, and the players just behind them keep winning crucial games. The result, in all sections, is a traffic jam at the top.In the Girls' Junior, there's now a three-way tie for first between WFM Rachael Li, WGM Zoey Tang, and FM Megan Paragua, all with 5/7 points. Breathing down their necks, however, are FM Ruiyang Yan (4&frac12;/7), WIM Iris Mou (4/7) and Jasmine Su (4/7).The picture in the Junior Championship isn't much clearer. GMs Andy Woodward and Kirk Ghazarian are still tied for first with 5/7 points, while GMs Brewington Hardaway and Abhimanyu",
@@ -562,14 +610,6 @@ news_feed (
          "title" : "Zhu Strikes Back As Lei, Tan, Song, Dzagnidze Reach Quarterfinals"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122630946.cms\" />Magnus Carlsen faced a shocking early exit at the Freestyle Chess Grand Slam Tour in Las Vegas, losing in a playoff to Levon Aronian. Hans Niemann, fresh off online qualification, celebrated Carlsen's defeat with an exuberant reaction that quickly went viral. The event also saw strong performances from Praggnanandhaa, Abdusattorov, and Sindarov, marking an unpredictable start to the tour.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-falters-hans-neimanns-hilarious-reaction-goes-viral-watch/articleshow/122630946.cms",
-         "pubDate" : "Thu, 17 Jul 2025 10:07:35",
-         "title" : "Carlsen falters! Neimann's hilarious reaction goes viral - Watch"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122631637.cms\" />Hans Niemann celebrated Magnus Carlsen's losses at the Freestyle Grand Slam Tour in Las Vegas, even offering to take Levon Aronian to dinner after Aronian defeated Carlsen. Despite finishing second in Group 2 behind Hikaru Nakamura, Niemann expressed immense satisfaction, calling it the 'best day of his life' in two years.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -578,28 +618,12 @@ news_feed (
          "title" : "Chess | Niemann on Carlsen losing two games - 'Best day of my life'"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122614426.cms\" />R Praggnanandhaa achieved a remarkable victory against world champion Magnus Carlsen at the Freestyle Chess Grand Slam Tour in Las Vegas, securing a clean sweep across all formats. Carlsen's subsequent losses and playoff defeat eliminated him from title contention. Praggnanandhaa now shares the lead in Group White, advancing to the quarterfinals along with other top players from both groups.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/las-vegas-chess-grand-slam-tour-r-praggnanandhaa-stuns-magnus-carlsen-world-no-1-out-of-title-contention/articleshow/122614426.cms",
-         "pubDate" : "Thu, 17 Jul 2025 05:06:26",
-         "title" : "Praggnanandhaa stuns Magnus Carlsen, World No 1 out of title contention"
-      },
-      {
          "description" : "Five players earned norms at NYC Chess Norms' Marshall Summer Six Day GM/IM Invitational, held July 8 through 13 at the Marshall Chess Club in Manhattan. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> FA Carlos Chavez and Samrug Narayanan displaying the latter's first GM norm (Photos courtesy of NYC Chess Norms)<br> <br> In the GM A section, IM Samrug Narayanan finished in clear first with a 6&frac12;/9 score, a 2607 FIDE performance rating, and his first GM norm. Norms galore in the GM B section, even with two GMs (and one IM: GM Gabor Nagy, GM Vojtech Plat, and IM Josiah Stearman) ea",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/five-norms-earned-marshall-summer-invitational",
          "pubDate" : "Thu, 17 Jul 2025 00:00:00",
          "title" : "Five Norms Earned at Marshall Summer Invitational"
-      },
-      {
-         "description" : "This year, a number of workshops previously held in-person at the U.S. Open are being hosted online in the lead-up to this year's event. This change is intended to make these workshops accessible to those not on-site. A full schedule of online workshops (and links to recordings of the already-concluded workshops) can be viewed at the bottom of this page.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/online-workshops-schedule-delegates-meeting",
-         "pubDate" : "Thu, 17 Jul 2025 00:00:00",
-         "title" : "Online Workshops Schedule for Delegates Meeting"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-2-day-of-the-juniors-2025-u-s-national-championships/\">POSTGAME Round 2: Day of the Juniors | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -688,22 +712,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-national-championships-postgame-round-1-an-exciting-start/",
          "pubDate" : "Tue, 15 Jul 2025 23:53:32",
          "title" : "POSTGAME Round 1: An Exciting Start | 2025 U.S. National Championships"
-      },
-      {
-         "description" : "As Chess.com&#39;s Fair Play team is shutting down more than 100,000 accounts every month for violating fair play rules, the platform is now considering new measures to combat the constant battle against cheating in online chess. A new blog post tit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/100k-accounts-closed-anti-cheating-systems-improve",
-         "pubDate" : "Tue, 15 Jul 2025 11:05:29",
-         "title" : "100,000 Accounts Closed Per Month As Chess.com Eyes New Anti-Cheating Measures"
-      },
-      {
-         "description" : "Basketball and chess pros joined forces in the latest sports-and-chess crossover event, the Chesstival, which took place the weekend before the Las Vegas Freestyle Grand Slam, which begins on Wednesday. Grant Williams, of the Charlotte Hornets, wo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/williams-post-win-2025-chesstival",
-         "pubDate" : "Mon, 14 Jul 2025 19:10:00",
-         "title" : "Williams, Post Win Basketball & Freestyle Chess Crossover Event"
       },
       {
          "description" : "Free monthly magazine! Get a rating! Join England's chess community! Become a member today at https://www.englishchess.org.uk/join-us/",
@@ -936,14 +944,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-1st-july-2025",
          "pubDate" : "Wed, 2 Jul 2025 20:23:00",
          "title" : "Titled Tuesday Blitz 1st July 2025 - Games and Results"
-      },
-      {
-         "description" : " Praggnanandhaa won the <a href=\"https://theweekinchess.com/chessnews/events/2nd-uzchess-cup-2025\">Uzchess Cup</a>, Masters in Tashkent that finished on June 27th and consolidated his lead in the 2025 FIDE Circuit (chessnumbers article on chess.com: <a href=\"https://www.chess.com/article/view/fide-circuit-june-update\"</a>can Praggnanandhaa be caught, spoiler, yes!), winning that has a first prize of a Candidates place. Praggnanandhaa had to beat the long time leader Nodirbek Abdusattorov with the black pieces in the final round. Praggnanandhaa emerged as winner only after two blitz tie-breaks against Abdusattorov and Javokhir Sindarov. The event will be likely remembered for Richard Rapport'",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/praggnanandhaa-wins-the-uzchess-cup-masters",
-         "pubDate" : "Wed, 2 Jul 2025 16:10:00",
-         "title" : "Praggnanandhaa wins the Uzchess Cup Masters - 1-9"
       }
    ]
 }
