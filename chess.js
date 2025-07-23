@@ -936,14 +936,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-team-chess-championship-2025-starts-in-slovenia/",
          "pubDate" : "Thu, 03 Jul 2025 15:14:48",
          "title" : "European Youth Team Chess Championship 2025 starts in Slovenia"
-      },
-      {
-         "description" : " The Titled Tuesday Blitz 1st July 2025 events saw V Pranav win the early on tie-break from M Pranesh and Denis Lazavik after all scored 9.5/11 and in the late Parham Maghsoodloo won on tie-break from the youngster Yagiz Kaan Erdogmus and Nguyen Ngoc Truong Son.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-1st-july-2025",
-         "pubDate" : "Wed, 2 Jul 2025 20:23:00",
-         "title" : "Titled Tuesday Blitz 1st July 2025 - Games and Results"
       }
    ]
 }
