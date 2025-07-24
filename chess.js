@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
+         "pubDate" : "Thu, 24 Jul 2025 12:45:00",
+         "title" : "Women's World Cup, Semifinals - Live!"
+      },
+      {
+         "description" : "Aravindh Chithambaram has taken the lead of the GMT-Masters in the Biel Grandmaster Triathlon with a victory over the previous leader Saleh Salem. Aravindh has thus not only overtaken Salem, but also Fedoseev, who lost his game against Murzin after a rollercoaster ride and thus falls back to 3rd place. The final round on Thursday must now decide the outcome. The decision in the GMT-Challengers has already been made one round before the end: Nikolas Theodorou celebrated a start-to-finish victory over the entire tournament and can no longer be caught in the final round. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-advantage-aravindh-theodorou-wins-biel-challengers",
+         "pubDate" : "Thu, 24 Jul 2025 11:58:07",
+         "title" : "Biel: Advantage Aravindh - Theodorou wins Biel Challengers"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122874301.cms\" />India's 19-year-old chess prodigy Divya Deshmukh created history by becoming the first Indian to reach the FIDE Women's World Cup final. In a five-hour battle, she defeated third seed Tan Zhongyi, securing her first GM norm, a spot in the 2026 Candidates Tournament, and $35,000. \"I just need sleep,\" she said.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
