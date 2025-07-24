@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122874301.cms\" />India's 19-year-old chess prodigy Divya Deshmukh created history by becoming the first Indian to reach the FIDE Women's World Cup final. In a five-hour battle, she defeated third seed Tan Zhongyi, securing her first GM norm, a spot in the 2026 Candidates Tournament, and $35,000. \"I just need sleep,\" she said.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-divya-deshmukh-one-step-away-from-historic-world-cup-title-but-all-she-wants-now-is-sleep-and-food/articleshow/122874301.cms",
+         "pubDate" : "Thu, 24 Jul 2025 06:28:01",
+         "title" : "Chess | Divya one step away from historic WC title; but all she wants is 'sleep'"
+      },
+      {
+         "description" : "India's 19-year-old chess prodigy, IM Divya Deshmukh, scripted history by becoming the first Indian woman to reach the finals of the FIDE Women's World Cup,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/divya-deshmukh-creates-history-storms-into-finals/",
+         "pubDate" : "Thu, 24 Jul 2025 05:26:29",
+         "title" : "Divya Deshmukh Creates History, Storms into Finals"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122872953.cms\" />Divya Deshmukh, a 19-year-old Indian International Master, achieved a historic victory over former champion Tan Zhongyi in the FIDE Women's World Cup semifinal. With a strategic utilization of an extra pawn, Divya secured a final berth and a spot in the Women's Candidates tournament, becoming the first teenager in 34 years to do so.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-divya-deshmukh-scripts-history-books-her-spot-in-candidates/articleshow/122872953.cms",
+         "pubDate" : "Thu, 24 Jul 2025 05:19:44",
+         "title" : "Chess | Divya Deshmukh scripts history, books her spot in Candidates"
+      },
+      {
          "description" : "Divya Deshmukh became the first finalist of the Women's World Cup after defeating Tan Zhongyi in a dramatic 101-move game, securing both a place in the final and qualification for the 2026 Candidates Tournament. The second semifinal between Humpy Koneru and Lei Tingjie ended in another draw after a complex rook endgame, and will be decided in tiebreaks on Thursday. The third-place match also offers a remaining spot in the Candidates. | Photo: Anna Shtourman / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -610,28 +634,12 @@ news_feed (
          "title" : "POSTGAME ROUND 3: Woodward In The Lead With Perfect 3/3 | 2025 U.S. National Championships"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122665478.cms\" />Hans Niemann responded to accusations of gloating over Magnus Carlsen's unexpected elimination from the Las Vegas Freestyle Chess Grand Slam. Niemann alluded to the ongoing controversy stemming from Carlsen's 2022 cheating allegations. Carlsen's shocking exit, especially after his previous dominance, has reignited the rivalry between the two chess players, adding another layer of intrigue to the unpredictable tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-hans-niemann-responds-to-claims-he-hate-watched-magnus-carlsens-loss-if-you-think-/articleshow/122665478.cms",
-         "pubDate" : "Thu, 17 Jul 2025 17:53:35",
-         "title" : "Chess | Niemann responds to claims he 'hate-watched' Carlsen's loss: 'If you think ... '"
-      },
-      {
          "description" : "Second seed GM Zhu Jiner struck back with a powerful game against IM Divya Deshmukh to take their 2025 FIDE Women&#39;s World Cup round four match to tiebreaks. Chinese stars GM Lei Tingjie, GM Tan Zhongyi, and IM Song Yuxin all sealed Quarterfinal sp...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-4-game-2",
          "pubDate" : "Thu, 17 Jul 2025 15:44:36",
          "title" : "Zhu Strikes Back As Lei, Tan, Song, Dzagnidze Reach Quarterfinals"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122631637.cms\" />Hans Niemann celebrated Magnus Carlsen's losses at the Freestyle Grand Slam Tour in Las Vegas, even offering to take Levon Aronian to dinner after Aronian defeated Carlsen. Despite finishing second in Group 2 behind Hikaru Nakamura, Niemann expressed immense satisfaction, calling it the 'best day of his life' in two years.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-hans-niemann-on-magnus-carlsen-losing-two-games-in-vegas-best-day-of-my-life/articleshow/122631637.cms",
-         "pubDate" : "Thu, 17 Jul 2025 09:48:48",
-         "title" : "Chess | Niemann on Carlsen losing two games - 'Best day of my life'"
       },
       {
          "description" : "Five players earned norms at NYC Chess Norms' Marshall Summer Six Day GM/IM Invitational, held July 8 through 13 at the Marshall Chess Club in Manhattan. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> FA Carlos Chavez and Samrug Narayanan displaying the latter's first GM norm (Photos courtesy of NYC Chess Norms)<br> <br> In the GM A section, IM Samrug Narayanan finished in clear first with a 6&frac12;/9 score, a 2607 FIDE performance rating, and his first GM norm. Norms galore in the GM B section, even with two GMs (and one IM: GM Gabor Nagy, GM Vojtech Plat, and IM Josiah Stearman) ea",
@@ -904,14 +912,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/mindset-shift/",
          "pubDate" : "Sat, 05 Jul 2025 13:00:00",
          "title" : "The Simple Mindset Shift to Enjoy Chess Study Again"
-      },
-      {
-         "description" : "All India Chess Federation is pleased to announced the eleven FIDE Trainer Seminars as per the appended schedule and it's a great opportunity for the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-trainer-seminar-2025-26/",
-         "pubDate" : "Sat, 05 Jul 2025 12:17:52",
-         "title" : "FIDE TRAINER SEMINAR 2025-26"
       },
       {
          "description" : "I am grateful to Alexei Zakharov, a vital contributor to the recent outstanding opening salvo in the Elk and Ruby tetralogy on Alexander Alekhine, for drawing my attention to the great world champion's virtually unknown obituary on the sadly premature death of Aron Nimzowitsch, the grandmaster and theoretician who was born in Riga (now Latvia, []",
