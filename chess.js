@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Divya Deshmukh became the first finalist of the Women's World Cup after defeating Tan Zhongyi in a dramatic 101-move game, securing both a place in the final and qualification for the 2026 Candidates Tournament. The second semifinal between Humpy Koneru and Lei Tingjie ended in another draw after a complex rook endgame, and will be decided in tiebreaks on Thursday. The third-place match also offers a remaining spot in the Candidates. | Photo: Anna Shtourman / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-r6g2",
+         "pubDate" : "Thu, 24 Jul 2025 01:50:00",
+         "title" : "Women's World Cup SF: Divya knocks out Tan, qualifies to Candidates Tournament"
+      },
+      {
+         "description" : " POSTGAME Round 8: Only Two Rounds Left to Make Their Mark! Join GMs Yasser Seirawan &#038; Cristian Chirila, and IM Nazi Paikidze for the top moments of today's games. Standings 2025 U.S. Junior Championship Standings After Round 8 + # Place Name Rating Rd 1 Rd 2 Rd 3 Rd 4 Rd 5 Rd 6 [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-8-only-two-rounds-left-to-make-their-mark-2025-us-national-championships/\">POSTGAME ROUND 8: Only Two Rounds Left to Make Their Mark!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-8-only-two-rounds-left-to-make-their-mark-2025-us-national-championships/",
+         "pubDate" : "Wed, 23 Jul 2025 23:33:13",
+         "title" : "POSTGAME ROUND 8: Only Two Rounds Left to Make Their Mark!"
+      },
+      {
          "description" : "Over the past 20 years Larry List has curated exhibitions, and written primarily about the interrelationships between chess and visual art. To coincide with a Man Ray exhibition of photos at the Metropolitan Museum of Art this September, Hirmer Verlag of Munich is publishing his new book On Man Ray, the closest artist friend of the famous 20th century artist Marcel Duchamp. It is lavishly illustrated with color photos, with a solid and attractive layout. | Man Ray self-portrait 1926 Centre Pompidou",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +42,20 @@ news_feed (
          "title" : "Divya in tears after becoming first Indian to reach WC final - Watch"
       },
       {
-         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "description" : "The 19-year-old is the first Indian to reach the final of the Women's Chess World Cup.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45805183/teenager-divya-deshmukh-reach-chess-world-cup-final-first-indian?device=featurephone",
+         "pubDate" : "Wed, 23 Jul 2025 14:40:00",
+         "title" : "Teenager Divya Deshmukh slays nerves and seeded players to reach first Chess World Cup final"
+      },
+      {
+         "description" : "Summit chess was played once again at an altitude of 2,315 metres in the Rudolfsh&uuml;tte in Pinzgau, Austria. Robert Wiesinger and Gerhard Tobler from Upper Austria won the team competition alongside Florian Raber. Stefan L&ouml;ffler reports on Europe's highest chess tournament. | Photos: Harald Sammer / Stefan L&ouml;ffler",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
-         "pubDate" : "Wed, 23 Jul 2025 12:45:00",
-         "title" : "Women's World Cup, Semifinals - Live!"
+         "link" : "https://en.chessbase.com/post/summit-chess-mountain-hiking-and-playing-chess",
+         "pubDate" : "Wed, 23 Jul 2025 12:40:00",
+         "title" : "Summit Chess: Mountain hiking and playing chess"
       },
       {
          "description" : "IM Divya Deshmukh eliminated GM Tan Zhongyi from the 2025 FIDE Women&#39;s World Cup, extending her Cinderella story into the Final with a third consecutive match victory over a grandmaster. She also earns her first grandmaster norm and a spot in the ...",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-softens-stance-on-russian-teams-ecu-others-protest",
          "pubDate" : "Wed, 23 Jul 2025 10:28:00",
          "title" : "FIDE Sparks Protests By Allowing Russian Team To Compete In Major Event"
-      },
-      {
-         "description" : "Summit chess was played once again at an altitude of 2,315 metres in the Rudolfsh&uuml;tte in Pinzgau, Austria. Robert Wiesinger and Gerhard Tobler from Upper Austria won the team competition alongside Florian Raber. Stefan L&ouml;ffler reports on Europe's highest chess tournament. | Photos: Harald Sammer / Stefan L&ouml;ffler",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/summit-chess-mountain-hiking-and-playing-chess",
-         "pubDate" : "Wed, 23 Jul 2025 10:09:47",
-         "title" : "Summit Chess: Mountain hiking and playing chess"
       },
       {
          "description" : "On behalf of All India Chess Federation , All Tripura Chess Association is organizing Senior National Arbiters Seminar &#38; Exam on 21 &#38; 22 August 2025 at Meeting",
@@ -106,10 +122,10 @@ news_feed (
          "title" : "FIDE World Cup to take place in India"
       },
       {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-7-day-of-the-spoilers/\">POSTGAME ROUND 7: Day of the Spoilers</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-7-day-of-the-spoilers-2025-us-national-championships/\">POSTGAME ROUND 7: Day of the Spoilers</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-7-day-of-the-spoilers/",
+         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-7-day-of-the-spoilers-2025-us-national-championships/",
          "pubDate" : "Wed, 23 Jul 2025 00:25:18",
          "title" : "POSTGAME ROUND 7: Day of the Spoilers"
       },
@@ -394,12 +410,12 @@ news_feed (
          "title" : "Carlsen, Nakamura Set Up $100,000 Showdown In Las Vegas"
       },
       {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-5-all-about-the-juniors-2025-us-national-championships/\">POSTGAME Round 5: All About the Juniors</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-5-all-about-the-juniors-2025-us-national-championships/\">POSTGAME ROUND 5: All About the Juniors</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-5-all-about-the-juniors-2025-us-national-championships/",
          "pubDate" : "Sun, 20 Jul 2025 00:19:12",
-         "title" : "POSTGAME Round 5: All About the Juniors"
+         "title" : "POSTGAME ROUND 5: All About the Juniors"
       },
       {
          "description" : "Capping off a week of fighting chess in the 2025 U.S. Junior, Girls' Junior, and Senior Championships, we saw \"only\" six decisive results out of 15 games in Saturday's fifth and final round before Sunday's rest day.GMs Andy Woodward and Vladimir Akopian maintained their leads in the Junior and Senior, respectively, while FM Megan Paragua emerged as the sole leader in the Girls' Junior after top-seeded WGM Zoey Tang upset previous co-leader FM Ruiyang Yan with the black pieces in a model Sicilian. Junior: Woodward leads still-leading GMsThe most peaceful of the sections featured only one decisive result, with last year's runner-up IM Justin Wang upsetting GM Brewington Hardaway. <br> <br> <br",
@@ -586,12 +602,12 @@ news_feed (
          "title" : "Woodward Improves to 3/3 in U.S. Junior Championship, Girls' Junior and Senior Races Tighten"
       },
       {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-3-woodward-in-the-lead-with-perfect-3-3-2025-u-s-national-championships/\">POSTGAME Round 3: Woodward In The Lead With Perfect 3/3 | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-3-woodward-in-the-lead-with-perfect-3-3-2025-u-s-national-championships/\">POSTGAME ROUND 3: Woodward In The Lead With Perfect 3/3 | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-3-woodward-in-the-lead-with-perfect-3-3-2025-u-s-national-championships/",
          "pubDate" : "Thu, 17 Jul 2025 23:54:32",
-         "title" : "POSTGAME Round 3: Woodward In The Lead With Perfect 3/3 | 2025 U.S. National Championships"
+         "title" : "POSTGAME ROUND 3: Woodward In The Lead With Perfect 3/3 | 2025 U.S. National Championships"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122665478.cms\" />Hans Niemann responded to accusations of gloating over Magnus Carlsen's unexpected elimination from the Las Vegas Freestyle Chess Grand Slam. Niemann alluded to the ongoing controversy stemming from Carlsen's 2022 cheating allegations. Carlsen's shocking exit, especially after his previous dominance, has reignited the rivalry between the two chess players, adding another layer of intrigue to the unpredictable tournament.",
@@ -626,12 +642,12 @@ news_feed (
          "title" : "Five Norms Earned at Marshall Summer Invitational"
       },
       {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-2-day-of-the-juniors-2025-u-s-national-championships/\">POSTGAME Round 2: Day of the Juniors | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-2-day-of-the-juniors-2025-u-s-national-championships/\">POSTGAME ROUND 2: Day of the Juniors | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-2-day-of-the-juniors-2025-u-s-national-championships/",
          "pubDate" : "Wed, 16 Jul 2025 23:59:48",
-         "title" : "POSTGAME Round 2: Day of the Juniors | 2025 U.S. National Championships"
+         "title" : "POSTGAME ROUND 2: Day of the Juniors | 2025 U.S. National Championships"
       },
       {
          "description" : "GM Levon Aronian made a statement at the Freestyle Chess Grand Slam Las Vegas on Wednesday by defeating GM Magnus Carlsen 2-0 in a tiebreak showdown, keeping his chances alive of winning the $200,000 first prize, and in the process, condemning Car...",
@@ -706,12 +722,12 @@ news_feed (
          "title" : "US Junior, Girls and Seniors 2025 - Games and Results"
       },
       {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-national-championships-postgame-round-1-an-exciting-start/\">POSTGAME Round 1: An Exciting Start | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-national-championships-postgame-round-1-an-exciting-start/\">POSTGAME ROUND 1: An Exciting Start | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-national-championships-postgame-round-1-an-exciting-start/",
          "pubDate" : "Tue, 15 Jul 2025 23:53:32",
-         "title" : "POSTGAME Round 1: An Exciting Start | 2025 U.S. National Championships"
+         "title" : "POSTGAME ROUND 1: An Exciting Start | 2025 U.S. National Championships"
       },
       {
          "description" : "Free monthly magazine! Get a rating! Join England's chess community! Become a member today at https://www.englishchess.org.uk/join-us/",
