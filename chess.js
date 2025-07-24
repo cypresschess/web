@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Fritz Trainer, Grandmaster S.P. Sethuraman presents a modern repertoire for the classical Sicilian. Reviewer Lukas K&ouml;pl, an experienced tournament player and licensed trainer with over 15 years' experience, introduces the course and shows how ambitious players and Sicilian fans can benefit from Sethuraman's work.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-s-p-sethuraman-the-classical-sicilian-a-timeless-counterattacking-weapon",
+         "pubDate" : "Thu, 24 Jul 2025 20:00:00",
+         "title" : "Review: S.P. Sethuraman - The Classical Sicilian - A Timeless Counterattacking Weapon"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122887638.cms\" />History is guaranteed at the FIDE Women's World Cup 2025 as Koneru Humpy and Divya Deshmukh, both from India, secured their spots in the final after defeating their Chinese opponents in the semifinals. Deshmukh triumphed over Tan Zhongyi, while Humpy edged out Lei Tingjie in tiebreaks.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-womens-world-cup-2025-when-is-koneru-humpy-vs-divya-deshmukh-in-the-final-what-is-the-prize-money/articleshow/122887638.cms",
+         "pubDate" : "Thu, 24 Jul 2025 17:21:47",
+         "title" : "When is Humpy vs Divya in the final? What is the prize money?"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122887505.cms\" />Koneru Humpy triumphed over Tingjie Lei in a gruelling eight-game semi-final at the FIDE Women's World Cup, securing her place in the final. After a series of draws and tense tiebreaks, Humpy's resilience shone through as she won crucial blitz games. She is now set to face Divya Deshmukh in an all-Indian final.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-fide-womens-world-cup-koneru-humpy-pulls-off-thrilling-win-to-face-divya-deshmukh-in-final/articleshow/122887505.cms",
+         "pubDate" : "Thu, 24 Jul 2025 17:12:51",
+         "title" : "Chess | Humpy vs Deshmukh - All-Indian final at FIDE Women's World Cup"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
          "pubDate" : "Thu, 24 Jul 2025 12:45:00",
          "title" : "Women's World Cup, Semifinals - Live!"
+      },
+      {
+         "description" : "GM Koneru Humpy was on the brink of elimination in the 2025 FIDE Women&#39;s World Cup Semifinals after losing the third tiebreak game. But she won on demand in game four and then won the two blitz games&#38;mdash;pulling off the hat trick&#38;mdash;to advanc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-semifinals-tiebreaks",
+         "pubDate" : "Thu, 24 Jul 2025 12:02:00",
+         "title" : "Humpy Wins On Demand, Advances To All-Indian Final"
       },
       {
          "description" : "Aravindh Chithambaram has taken the lead of the GMT-Masters in the Biel Grandmaster Triathlon with a victory over the previous leader Saleh Salem. Aravindh has thus not only overtaken Salem, but also Fedoseev, who lost his game against Murzin after a rollercoaster ride and thus falls back to 3rd place. The final round on Thursday must now decide the outcome. The decision in the GMT-Challengers has already been made one round before the end: Nikolas Theodorou celebrated a start-to-finish victory over the entire tournament and can no longer be caught in the final round. | Photos: Biel Chess Festival",
@@ -56,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-world-cup-2025-r6g2",
          "pubDate" : "Thu, 24 Jul 2025 01:50:00",
          "title" : "Women's World Cup SF: Divya knocks out Tan, qualifies to Candidates Tournament"
+      },
+      {
+         "description" : "The penultimate round of the 2025 National Championships finally brought clear leaders in two out of the three sections. Nevertheless, the races so far have been close enough that no section has a guaranteed winner. GM Andy Woodward's lead in the Junior is the largest (a full point), while WGM Zoey Tang's in the Girls' Junior is just half of a point. The situation is even more tense in the Senior, where GM Larry Christiansen, GM Vladimir Akopian, and GM Alexander Goldin all share the lead. Let's take the sections one by one: U.S. Junior: Woodward gets some breathing roomWoodward's fortunes were greatly aided by a sharp Sicilian win with the black pieces against the struggling IM Evan Park. A",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/woodward-tang-take-lead-goldin-christiansen-catch-akopian",
+         "pubDate" : "Thu, 24 Jul 2025 00:00:00",
+         "title" : "Woodward, Tang Take Lead as Goldin, Christiansen Catch Akopian"
       },
       {
          "description" : " POSTGAME Round 8: Only Two Rounds Left to Make Their Mark! Join GMs Yasser Seirawan &#038; Cristian Chirila, and IM Nazi Paikidze for the top moments of today's games. Standings 2025 U.S. Junior Championship Standings After Round 8 + # Place Name Rating Rd 1 Rd 2 Rd 3 Rd 4 Rd 5 Rd 6 [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-8-only-two-rounds-left-to-make-their-mark-2025-us-national-championships/\">POSTGAME ROUND 8: Only Two Rounds Left to Make Their Mark!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -602,28 +642,12 @@ news_feed (
          "title" : "Perfect Score Encore As Andreikin Joins 11/11 Freestyle Friday Crew"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122750090.cms\" />Arjun Erigaisi triumphed over Nodirbek Abdusattorov, advancing to the Freestyle Grand Slam Chess Tour semifinals, while Praggnanandhaa lost a close match to Fabiano Caruana. Levon Aronian and Hans Niemann also secured victories, setting up semifinal clashes. In the lower bracket, Magnus Carlsen, Wesley So, Leinier Dominguez Perez, and Vincent Keymer emerged victorious, showcasing intense competition.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-grand-slam-tour-arjun-erigaisi-storms-into-semi-final-r-praggnanandhaa-out-of-title-race/articleshow/122750090.cms",
-         "pubDate" : "Fri, 18 Jul 2025 08:19:41",
-         "title" : "Freestyle Grand Slam Tour: Arjun storms into semi-final; Praggnanandhaa out of title race"
-      },
-      {
          "description" : " 'We are allocating &pound;1.5m to help identify, support and elevate top-tier players' ChessFest in Trafalgar Square attracted more than 20,000 visitors last Sunday, slightly below last year's record 23,000 but still indicating strong public interest. England's grandmasters gave simuls and met amateurs at blitz, living chess was played with professional actors and there was a blindfold exhibition plus a transatlantic prodigy match. Additional ChessFests took place in ­Portishead and Hull, with a ­further one scheduled for Liverpool on Sunday. ChessFest was again sponsored by XTX Markets. <a href=\"https://www.theguardian.com/sport/2025/jul/18/chess-rachel-reeves-announces-15m-fund-as-london-",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/jul/18/chess-rachel-reeves-announces-15m-fund-as-london-chessfest-attracts-20000-visitors",
          "pubDate" : "Fri, 18 Jul 2025 07:00:46",
          "title" : "Chess: Rachel Reeves announces &pound;1.5m fund as London ChessFest attracts 20,000 visitors"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122736326.cms\" />Divya Deshmukh's passive play against Zhu Jiner led to a defeat in the second game of their FIDE Women's Chess World Cup pre-quarterfinal, forcing a tiebreak. Meanwhile, Humpy Koneru, Vaishali Rameshbabu, and Harika Dronavalli drew their matches. Several Chinese players advanced to the quarterfinals, setting the stage for intense tiebreak battles for the Indian contenders.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-womens-chess-world-cup-zhu-jiner-wins-to-bring-parity-with-divya-deshmukh/articleshow/122736326.cms",
-         "pubDate" : "Fri, 18 Jul 2025 06:05:13",
-         "title" : "FIDE Women's Chess World Cup: Zhu Jiner wins to bring parity with Divya Deshmukh"
       },
       {
          "description" : "The International Chess Federation (FIDE) has announced a strong field for the highly anticipated FIDE Grand Swiss 2025, scheduled to take place September 3-16 in Samarkand, Uzbekistan. 2025 has been packed with great chess events, but many more...",
@@ -664,14 +688,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-4-game-2",
          "pubDate" : "Thu, 17 Jul 2025 15:44:36",
          "title" : "Zhu Strikes Back As Lei, Tan, Song, Dzagnidze Reach Quarterfinals"
-      },
-      {
-         "description" : "Five players earned norms at NYC Chess Norms' Marshall Summer Six Day GM/IM Invitational, held July 8 through 13 at the Marshall Chess Club in Manhattan. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> FA Carlos Chavez and Samrug Narayanan displaying the latter's first GM norm (Photos courtesy of NYC Chess Norms)<br> <br> In the GM A section, IM Samrug Narayanan finished in clear first with a 6&frac12;/9 score, a 2607 FIDE performance rating, and his first GM norm. Norms galore in the GM B section, even with two GMs (and one IM: GM Gabor Nagy, GM Vojtech Plat, and IM Josiah Stearman) ea",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/five-norms-earned-marshall-summer-invitational",
-         "pubDate" : "Thu, 17 Jul 2025 00:00:00",
-         "title" : "Five Norms Earned at Marshall Summer Invitational"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-2-day-of-the-juniors-2025-u-s-national-championships/\">POSTGAME ROUND 2: Day of the Juniors | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -728,14 +744,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/join-the-global-online-celebration-for-international-chess-day/",
          "pubDate" : "Wed, 16 Jul 2025 08:31:36",
          "title" : "Join the Global Online Celebration for International Chess Day"
-      },
-      {
-         "description" : "For GM Alexey Sarana, the early Titled Tuesday tournament on July 15 was his 16th career win in the event, and his third of the year. For up-and-coming GM Sina Movahed, the late tournament was his first ever. The established player was the one ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sarana-movahed-win-titled-tuesday-july-15-2025",
-         "pubDate" : "Wed, 16 Jul 2025 08:23:57",
-         "title" : "Movahed Wins First Tuesday Title Following Sarana's 16th"
       },
       {
          "description" : " The US Junior, Girls and Seniors takes place in St Louis Tue 15th to Fri 25th Jul 2025. ",
@@ -952,14 +960,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jul/04/russians-absent-world-chess-top-10-first-time-since-official-lists-began-ian-nepomniachtchi",
          "pubDate" : "Fri, 04 Jul 2025 07:01:11",
          "title" : "Russians absent from world chess top 10 for first time since official lists began"
-      },
-      {
-         "description" : " The Ashley Chess Fellows have been announced! Last November, we announced the Maurice Ashley Chess Fellowship, to provide Black chess talents with opportunities to reach new heights in the sport. Excellence in chess requires a significant amount of training, as well as resources. It is commonly stated and perhaps known that this is one hurdle The post <a href=\"https://thechessdrum.net/blog/2025/07/03/2025-ashley-chess-fellows-announced/\">2025 Ashley Chess Fellows announced!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/07/03/2025-ashley-chess-fellows-announced/",
-         "pubDate" : "Thu, 03 Jul 2025 16:48:08",
-         "title" : "2025 Ashley Chess Fellows announced!"
       }
    ]
 }
