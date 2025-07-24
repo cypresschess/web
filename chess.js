@@ -34,6 +34,14 @@ news_feed (
          "title" : "Divya Deshmukh Creates History, Storms into Finals"
       },
       {
+         "description" : "21-year-old Bibisara Assaubayeva has officially become the 43rd woman to achieve the grandmaster title, joining a prestigious list of players to achieve the feat. IM Roman Shogdzhiev has also been confirmed as the world&#39;s youngest international ma...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/assaubayeva-confirmed-as-43rd-female-gm-shogdzhiev-worlds-youngest-im",
+         "pubDate" : "Thu, 24 Jul 2025 05:24:00",
+         "title" : "Assaubayeva Confirmed As 43rd Female GM, Shogdzhiev World's Youngest IM"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122872953.cms\" />Divya Deshmukh, a 19-year-old Indian International Master, achieved a historic victory over former champion Tan Zhongyi in the FIDE Women's World Cup semifinal. With a strategic utilization of an extra pawn, Divya secured a final berth and a spot in the Women's Candidates tournament, becoming the first teenager in 34 years to do so.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -730,14 +738,6 @@ news_feed (
          "title" : "Movahed Wins First Tuesday Title Following Sarana's 16th"
       },
       {
-         "description" : "World number-four GM Praggnanandhaa Rameshbabu headlines a star-studded preliminary list of participants signed up for the Last Chance Qualifier (LCQ) for the Esports World Cup (EWC), in Riyadh, Saudi Arabia. The LCQ, scheduled for July 24-26, o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/praggnanandhaa-heads-strong-last-chance-qualifier-for-esports-world-cup",
-         "pubDate" : "Wed, 16 Jul 2025 02:21:00",
-         "title" : "Praggnanandhaa Leads Star-Studded Field For Last Chance Qualifier In Riyadh"
-      },
-      {
          "description" : " The US Junior, Girls and Seniors takes place in St Louis Tue 15th to Fri 25th Jul 2025. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -960,14 +960,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/07/03/2025-ashley-chess-fellows-announced/",
          "pubDate" : "Thu, 03 Jul 2025 16:48:08",
          "title" : "2025 Ashley Chess Fellows announced!"
-      },
-      {
-         "description" : "The European Youth Team Chess Championship 2025 is set to take place from 4th-12th July in Terme Catez, Slovenia. The event will be played in two age categories: U12 and U18, open and girls sections separately. Teams in Open competition consist of four + one reserve player, while teams in Girls sections consist of two + one reserve player. Each Championship is played in 7 rounds, swiss system, with the time control of 90 min. + 30 sec. increment for []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2025-starts-in-slovenia/",
-         "pubDate" : "Thu, 03 Jul 2025 15:14:48",
-         "title" : "European Youth Team Chess Championship 2025 starts in Slovenia"
       }
    ]
 }
