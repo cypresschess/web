@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Humpy Koneru defeated Lei Tingjie in a closely contested tiebreak match to join Divya Deshmukh in the final of the Women's World Cup in Batumi, marking the first all-Indian final in the event's history. After two drawn classical games, Humpy prevailed 5-3 following rapid and blitz stages. Both finalists have secured places in the 2026 Women's Candidates Tournament, while Lei Tingjie and Tan Zhongyi will compete for third place and the final qualification spot. | Photo: Anna Shtourman / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-r6tb",
+         "pubDate" : "Thu, 24 Jul 2025 23:50:00",
+         "title" : "Women's World Cup SF: Humpy beats top seed Lei in gruelling tiebreak, sets up all-Indian final"
+      },
+      {
          "description" : "In his Fritz Trainer, Grandmaster S.P. Sethuraman presents a modern repertoire for the classical Sicilian. Reviewer Lukas K&ouml;pl, an experienced tournament player and licensed trainer with over 15 years' experience, introduces the course and shows how ambitious players and Sicilian fans can benefit from Sethuraman's work.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +34,20 @@ news_feed (
          "title" : "Chess | Humpy vs Deshmukh - All-Indian final at FIDE Women's World Cup"
       },
       {
-         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
-         "pubDate" : "Thu, 24 Jul 2025 12:45:00",
-         "title" : "Women's World Cup, Semifinals - Live!"
+         "description" : "GM Vladimir Fedoseev emerged as the winner of the grueling Biel Masters Triathlon, an event that required him to play a total of 30 games in Chess960, blitz, rapid, and classical formats over 11 days. The Russian grandmaster, who lives in Germany ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vladimir-fedoseev-wins-biel-masters-triathlon-2025",
+         "pubDate" : "Thu, 24 Jul 2025 14:07:16",
+         "title" : "Fedoseev Edges Out Aravindh On Tiebreaks To Win Biel Masters"
+      },
+      {
+         "description" : "Koneru Humpy will face Divya Deshmukh in the 2025 Women's Chess World Cup final after both Indians beat Chinese top seeds in the semis.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45813656/koneru-humpy-makes-india-vs-india-2025-chess-world-cup-final-divya-deshmukh?device=featurephone",
+         "pubDate" : "Thu, 24 Jul 2025 13:30:00",
+         "title" : "Koneru Humpy makes it India vs India in 2025 Chess World Cup final"
       },
       {
          "description" : "GM Koneru Humpy was on the brink of elimination in the 2025 FIDE Women&#39;s World Cup Semifinals after losing the third tiebreak game. But she won on demand in game four and then won the two blitz games&#38;mdash;pulling off the hat trick&#38;mdash;to advanc...",
@@ -162,7 +178,7 @@ news_feed (
          "title" : "Biel: Finals have started"
       },
       {
-         "description" : "The International Chess Federation (FIDE) has approved the participation of a Russian team in the upcoming 2025 Women&#39;s World Team Championship. The controversial decision has led to several reactions, most notably from the European Chess Union (E...",
+         "description" : "The International Chess Federation (FIDE) has approved the participation of a Russian team in the upcoming 2025 Women&#39;s World Team Championship. The controversial decision has led to several reactions, most notably from the Ukrainian Chess Federat...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-softens-stance-on-russian-teams-ecu-others-protest",
@@ -728,14 +744,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/roebers-sets-blitz-record",
          "pubDate" : "Wed, 16 Jul 2025 10:44:20",
          "title" : "Roebers Sets All-Time High Blitz Rating For Women"
-      },
-      {
-         "description" : "NBA superstar Victor &#34;Wemby&#34; Wembanyama is bringing his passion for chess back home. The San Antonio Spurs phenom is hosting a chess tournament in his hometown in France on Sunday, July 20. The French NBA sensation has already given his hometown...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nba-superstar-wemby-organizes-chess-tournament-in-france",
-         "pubDate" : "Wed, 16 Jul 2025 09:55:00",
-         "title" : "NBA Superstar Wemby Launches Chess Tournament In France"
       },
       {
          "description" : "FIDE, in partnership with&#160;Lichess.org, invites chess-lovers from around the world to take part in the largest-ever Social Chess Day tournament - a 24-hour blitz marathon celebrating International Chess Day on...",
