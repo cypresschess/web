@@ -34,6 +34,14 @@ news_feed (
          "title" : "Women's WC: Humpy vs Deshmukh - Preview, live streaming, format and prize money"
       },
       {
+         "description" : "GM Ian Nepomniachtchi doesn&#39;t really need to add too many more accomplishments to his resume, but he did that on July 25 by winning his first Freestyle Friday ahead of GMs Jeffery Xiong and Jan-Krzysztof Duda&#38;nbsp;on tiebreaks. The field of 175 pl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nepomniachtchi-wins-freestyle-friday-july-25-2025",
+         "pubDate" : "Fri, 25 Jul 2025 11:53:32",
+         "title" : "Nepomniachtchi Holds On For 1st Freestyle Friday Victory"
+      },
+      {
          "description" : "Ahmednagar District Chess Circle on behalf of Maharashtra Chess Association, All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38;",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/freestyle-chess-grandslam-las-vegas-group-stage",
          "pubDate" : "Wed, 16 Jul 2025 23:55:00",
          "title" : "Aronian Stuns Carlsen In Tiebreaks; Nakamura Dominates With 6/7"
-      },
-      {
-         "description" : "19-year-old Indian IM Divya Deshmukh has one foot in the 2025 FIDE Women&#39;s World Cup Quarterfinals after scoring an impressive win over Chinese number-two seed GM Zhu Jiner as round four began in Batumi. The remaining three Chinese players&#38;mdash;G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-4-game-1",
-         "pubDate" : "Wed, 16 Jul 2025 13:38:00",
-         "title" : "Divya Stuns Zhu As Other Chinese Stars Win"
       },
       {
          "description" : "Last Updated on 16th July 2025 by WebAdmin The English Chess Federation is inviting expressions of interest from associations, leagues, congresses and clubs interested in purchasing chess clocks at discounted...",
