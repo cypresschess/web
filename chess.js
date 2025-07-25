@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "During the FIDE World Cup, the FIDE Council held an online meeting and decided to allow a \"neutral team\" featuring Russian players to participate in the upcoming Women's Team World Championship. The European Chess Union (ECU) issued a statement protesting this decision.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-wants-to-allow-neutral-women-s-team-with-russian-players-at-team-world-championship",
+         "pubDate" : "Fri, 25 Jul 2025 16:00:00",
+         "title" : "FIDE wants to allow \"neutral\" women's team with Russian players at Team World Championship"
+      },
+      {
+         "description" : "Oskemen has made a new entry into the international tournament calendar. In the largest city of East Kazakhstan, three open tournaments are currently taking place, including a Masters event featuring nearly 20 grandmasters competing for a substantial prize fund. Oskemen is notable not only for its strong chess field but also for its rich and complex history. Once known as Ust-Kamenogorsk, the city was an important center during the Soviet era and remains a cultural and industrial hub today.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/strong-lineup-at-the-oskemen-open",
+         "pubDate" : "Fri, 25 Jul 2025 15:19:19",
+         "title" : "Strong Lineup at the Oskemen Open"
+      },
+      {
+         "description" : "The opening is tricky. If you don't know what you are doing, you can quickly find yourself on the losing side, but if you know what you are doing, you can also quickly gain an advantage. ChessBase offers help! The Opening Encyclopaedia offers a complete overview of all openings, and with Fritz 20 you can try out and practise all of them. This week (21-27 July), the strong duo is available as a Summer Special at a special price!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/this-week-s-summer-special-a-strong-duo-for-opening-study",
+         "pubDate" : "Fri, 25 Jul 2025 14:21:48",
+         "title" : "This week's Summer Special: A strong duo for opening study"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122906429.cms\" />History is guaranteed to be made at the FIDE Women's World Cup as Koneru Humpy and Divya Deshmukh, both from India, face off in the final. This marks the first time two Indians will compete for the title, ensuring India's first-ever winner. Both players have also secured their spots in the Women's Candidates tournament next year after their semi-final wins.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-womens-world-cup-final-koneru-humpy-vs-divya-deshmukh-preview-live-streaming-format-and-prize-money/articleshow/122906429.cms",
+         "pubDate" : "Fri, 25 Jul 2025 12:54:46",
+         "title" : "Women's WC: Humpy vs Deshmukh - Preview, live streaming, format and prize money"
+      },
+      {
          "description" : "Ahmednagar District Chess Circle on behalf of Maharashtra Chess Association, All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38;",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -18,14 +50,6 @@ news_feed (
          "title" : "Vladimir Fedoseev wins the Biel Grandmaster Triathlon"
       },
       {
-         "description" : "In early July, the Norwegian Chess Championships were held in Bergen. The Landsturneringen is a lively chess festival that features events not found at other national championships, such as bughouse chess and the chaotic team blitz known as \"Team Talk Blitz.\" Holger Blauhut reports. | Elite podium: IM/GM Aksel Bu Kval&oslash;y (2nd), GM Jon Ludvig Hammer (1st), and GM Aryan Tari (3rd) | Photo: Anniken Vestby",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jon-ludvig-hammer-wins-norwegian-championships",
-         "pubDate" : "Fri, 25 Jul 2025 08:29:49",
-         "title" : "Jon Ludvig Hammer wins Norwegian Championships"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122900208.cms\" />India is guaranteed gold and silver at the FIDE Women's World Cup as Divya Deshmukh and Koneru Humpy face off in the final. Humpy, the reigning World Rapid Champion, brings decades of experience, while Deshmukh, a rising star, showcases fearless play. The winner secures a spot in the 2026 Candidates Tournament, marking a significant moment for Indian chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "Chess WC | India assured of medals; but what to expect from Humpy vs Deshmukh final?"
       },
       {
-         "description" : " World No 1 Carlsen was third as Aronian took the $200,000 prize in the Las Vegas leg of the Freestyle Grand Slam Levon Aronian, at 42 the oldest in the tournament, scored what he described as \"one of the crown jewels\" of his career to win the $200,000 (&pound;148,000) first prize at the Las Vegas leg of the Freestyle Grand Slam last weekend. Aronian did it in style, winning matches against the world No 1 Magnus Carlsen, the No 2 Hikaru Nakamura and the No 5 Arjun Erigaisi en route to victory. Carlsen had to settle for the third prize of $100,000, plus the further indignity of finishing behind his arch enemy Hans Niemann, whose game with the Norwegian at the 2022 Sinquefield Cup led to alleg",
+         "description" : " World No 1 Carlsen was third as Aronian took the $200,000 prize in the Las Vegas leg of the Freestyle Grand Slam Levon Aronian, at 42 the oldest in the tournament, scored what he described as \"one of the crown jewels\" of his career to win the $200,000 (&pound;148,000) first prize at the Las Vegas leg of the Freestyle Grand Slam last weekend. Aronian did it in style, winning matches against the world No 1, Magnus Carlsen, the No 2, Hikaru Nakamura and the No 5, Arjun Erigaisi en route to victory. Carlsen had to settle for the third prize of $100,000, plus the further indignity of finishing behind his arch enemy, Hans Niemann, whose game with the Norwegian at the 2022 Sinquefield Cup led to a",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/jul/25/chess-levon-aronian-takes-big-top-prize-las-vegas-freestyle-grand-slam-hans-niemann-magnus-carlsen",
@@ -50,7 +74,7 @@ news_feed (
          "title" : "Divya Deshmukh rises as new star of world chess"
       },
       {
-         "description" : "GM Levon Aronian continued his form from Las Vegas as he topped Group A of the Last Chance Qualifier for the 2025 Esports World Cup, while GMs Dmitry Andreikin, Vidit Gujrathi, and Daniil Dubov were all eliminated. GMs Alexey Sarana, Marc&#39;Andria M...",
+         "description" : "GM Levon Aronian continued his form from Las Vegas as he topped Group A of the Last Chance Qualifier in Riyadh for the 2025 Esports World Cup, while GMs Dmitry Andreikin, Vidit Gujrathi, and Daniil Dubov were all eliminated. GMs Alexey Sarana, Mar...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-esports-world-cup-lcq-day-1",
@@ -74,20 +98,12 @@ news_feed (
          "title" : "Clash of Generations Svidler Erdogmus 2025 - Games and Results"
       },
       {
-         "description" : "Humpy Koneru defeated Lei Tingjie in a closely contested tiebreak match to join Divya Deshmukh in the final of the Women's World Cup in Batumi, marking the first all-Indian final in the event's history. After two drawn classical games, Humpy prevailed 5-3 following rapid and blitz stages. Both finalists have secured places in the 2026 Women's Candidates Tournament, while Lei Tingjie and Tan Zhongyi will compete for third place and the final qualification spot. | Photo: Anna Shtourman / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-r6tb",
-         "pubDate" : "Thu, 24 Jul 2025 23:50:00",
-         "title" : "Women's World Cup SF: Humpy beats top seed Lei in gruelling tiebreak, sets up all-Indian final"
-      },
-      {
-         "description" : "In his Fritz Trainer, Grandmaster S.P. Sethuraman presents a modern repertoire for the classical Sicilian. Reviewer Lukas K&ouml;pl, an experienced tournament player and licensed trainer with over 15 years' experience, introduces the course and shows how ambitious players and Sicilian fans can benefit from Sethuraman's work.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-s-p-sethuraman-the-classical-sicilian-a-timeless-counterattacking-weapon",
-         "pubDate" : "Thu, 24 Jul 2025 20:00:00",
-         "title" : "Review: S.P. Sethuraman - The Classical Sicilian - A Timeless Counterattacking Weapon"
+         "description" : "Ten Grandmasters to Compete in Round-Robin Invitational Honoring 140 Years of Organized Chess in New JerseyMorristown, NJ - The New Jersey State Chess Federation (NJSCF) has officially announced the grandmaster lineup for its 140th Anniversary Commemorative Tournament, taking place October 22-26, 2025, at the historic Masonic Lodge in Morristown, New Jersey.The invitational tournament will bring together ten renowned grandmasters in a round-robin format. Over five days of elite competition, fans and players alike can expect strategic play, tactical fireworks, and a celebration of the Garden State's distinguished chess legacy.Confirmed Participants (in alphabetical order):Barbosa, OliverDlugy",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/njscf-organizes-all-gm-round-robin-140th-anniversary",
+         "pubDate" : "Fri, 25 Jul 2025 00:00:00",
+         "title" : "NJSCF Organizes All-GM Round Robin for 140th Anniversary"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122887638.cms\" />History is guaranteed at the FIDE Women's World Cup 2025 as Koneru Humpy and Divya Deshmukh, both from India, secured their spots in the final after defeating their Chinese opponents in the semifinals. Deshmukh triumphed over Tan Zhongyi, while Humpy edged out Lei Tingjie in tiebreaks.",
@@ -130,14 +146,6 @@ news_feed (
          "title" : "Humpy Wins On Demand, Advances To All-Indian Final"
       },
       {
-         "description" : "Aravindh Chithambaram has taken the lead of the GMT-Masters in the Biel Grandmaster Triathlon with a victory over the previous leader Saleh Salem. Aravindh has thus not only overtaken Salem, but also Fedoseev, who lost his game against Murzin after a rollercoaster ride and thus falls back to 3rd place. The final round on Thursday must now decide the outcome. The decision in the GMT-Challengers has already been made one round before the end: Nikolas Theodorou celebrated a start-to-finish victory over the entire tournament and can no longer be caught in the final round. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-advantage-aravindh-theodorou-wins-biel-challengers",
-         "pubDate" : "Thu, 24 Jul 2025 11:58:07",
-         "title" : "Biel: Advantage Aravindh - Theodorou wins Biel Challengers"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122874301.cms\" />India's 19-year-old chess prodigy Divya Deshmukh created history by becoming the first Indian to reach the FIDE Women's World Cup final. In a five-hour battle, she defeated third seed Tan Zhongyi, securing her first GM norm, a spot in the 2026 Candidates Tournament, and $35,000. \"I just need sleep,\" she said.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -168,14 +176,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-divya-deshmukh-scripts-history-books-her-spot-in-candidates/articleshow/122872953.cms",
          "pubDate" : "Thu, 24 Jul 2025 05:19:44",
          "title" : "Chess | Divya Deshmukh scripts history, books her spot in Candidates"
-      },
-      {
-         "description" : "Divya Deshmukh became the first finalist of the Women's World Cup after defeating Tan Zhongyi in a dramatic 101-move game, securing both a place in the final and qualification for the 2026 Candidates Tournament. The second semifinal between Humpy Koneru and Lei Tingjie ended in another draw after a complex rook endgame, and will be decided in tiebreaks on Thursday. The third-place match also offers a remaining spot in the Candidates. | Photo: Anna Shtourman / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-r6g2",
-         "pubDate" : "Thu, 24 Jul 2025 01:50:00",
-         "title" : "Women's World Cup SF: Divya knocks out Tan, qualifies to Candidates Tournament"
       },
       {
          "description" : "The penultimate round of the 2025 National Championships finally brought clear leaders in two out of the three sections. Nevertheless, the races so far have been close enough that no section has a guaranteed winner. GM Andy Woodward's lead in the Junior is the largest (a full point), while WGM Zoey Tang's in the Girls' Junior is just half of a point. The situation is even more tense in the Senior, where GM Larry Christiansen, GM Vladimir Akopian, and GM Alexander Goldin all share the lead. Let's take the sections one by one: U.S. Junior: Woodward gets some breathing roomWoodward's fortunes were greatly aided by a sharp Sicilian win with the black pieces against the struggling IM Evan Park. A",
@@ -226,28 +226,12 @@ news_feed (
          "title" : "Teenager Divya Deshmukh slays nerves and seeded players to reach first Chess World Cup final"
       },
       {
-         "description" : "Summit chess was played once again at an altitude of 2,315 metres in the Rudolfsh&uuml;tte in Pinzgau, Austria. Robert Wiesinger and Gerhard Tobler from Upper Austria won the team competition alongside Florian Raber. Stefan L&ouml;ffler reports on Europe's highest chess tournament. | Photos: Harald Sammer / Stefan L&ouml;ffler",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/summit-chess-mountain-hiking-and-playing-chess",
-         "pubDate" : "Wed, 23 Jul 2025 12:40:00",
-         "title" : "Summit Chess: Mountain hiking and playing chess"
-      },
-      {
          "description" : "IM Divya Deshmukh eliminated GM Tan Zhongyi from the 2025 FIDE Women&#39;s World Cup, extending her Cinderella story into the Final with a third consecutive match victory over a grandmaster. She also earns her first grandmaster norm and a spot in the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-semifinals-game-2",
          "pubDate" : "Wed, 23 Jul 2025 11:42:00",
          "title" : "Divya Eliminates 3rd Seed Tan, Lei Survives Vs. Humpy"
-      },
-      {
-         "description" : "The finals have begun in the Biel Grand Master Triathlons. Saleh Salem and Vladimir Fedoseev are leading in the Masters. In the Challengers, Nikolas Theodorou has pulled away from his competitors. Christian Gl&ouml;ckler drew in the Masters Open and is now eleventh, one point behind the leader. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-finals-have-started",
-         "pubDate" : "Wed, 23 Jul 2025 11:38:10",
-         "title" : "Biel: Finals have started"
       },
       {
          "description" : "The International Chess Federation (FIDE) has approved the participation of a Russian team in the upcoming 2025 Women&#39;s World Team Championship. The controversial decision has led to several reactions, most notably from the Ukrainian Chess Federat...",
@@ -290,14 +274,6 @@ news_feed (
          "title" : "Chess | Divya, Humpy hold higher-ranked Chinese GMs in semifinal Game 1"
       },
       {
-         "description" : "The International Chess Federation has announced the venue for the 2025 FIDE World Cup. The knockout tournament will take place in India in November. The exact location is not yet known. 206 players will compete for prize money and three places in the Candidates Tournament. | Graphics and photos: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-venue",
-         "pubDate" : "Wed, 23 Jul 2025 02:15:00",
-         "title" : "FIDE World Cup to take place in India"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-7-day-of-the-spoilers-2025-us-national-championships/\">POSTGAME ROUND 7: Day of the Spoilers</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -328,22 +304,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-fide-womens-world-cup-india-stars-koneru-humpy-divya-deshmukh-hold-firm-with-semifinal-first-game-draws/articleshow/122841441.cms",
          "pubDate" : "Tue, 22 Jul 2025 16:36:48",
          "title" : "FIDE Women's World Cup: India stars Humpy, Divya hold firm with semifinal draws"
-      },
-      {
-         "description" : "While the finalists of the Grand Master Triathlon took a day off on Monday to prepare for the final rounds, the participants of the Master Open played their seventh round. Thirteen-year-old German talent Christian Gl&ouml;ckler was among the leaders but lost the top match against Pranav. | Photo: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-rising-stars-and-veterans-in-the-master-tournament",
-         "pubDate" : "Tue, 22 Jul 2025 12:01:16",
-         "title" : "Biel: Rising stars and veterans in the Master Tournament"
-      },
-      {
-         "description" : "In the only match that went to tiebreaks in the quarterfinals of the Women's World Cup, Divya Deshmukh secured a 2-0 victory over her compatriot Harika Dronavalli, thus becoming the fourth player to advance to the semi-finals. In the second rapid game, Harika twice missed a winning continuation in the endgame. In the semifinals, India's Humpy Koneru and Divya Deshmukh will face China's Lei Tingjie and Tan Zhongyi, respectively | Photo: Anna Shtourman / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-r5tb",
-         "pubDate" : "Tue, 22 Jul 2025 12:00:00",
-         "title" : "Women's World Cup QF: Divya beats Harika in tiebreaks, reaches semis"
       },
       {
          "description" : "Four cities in two continents played over-the-board chess against one another on International Chess Day (July 20). The event, Portals x Chess.com, was a celebration of chess that connected Dublin, Ireland; Lublin, Poland; Philadelphia, U.S.A.; an...",
@@ -658,14 +618,6 @@ news_feed (
          "title" : "Round 4- Tiebreak Report FWWC Georgia"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122778184.cms\" />In a stunning display of skill, Divya Deshmukh, along with Koneru Humpy, D Harika, and Vaishali Rameshbabu, have advanced to the quarterfinals of the FIDE Women's Chess World Cup in Batumi. Divya's aggressive play led to a victory against China's Zhu Jiner, while Humpy, Harika, and Vaishali secured their spots through tiebreaks.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/womens-chess-world-cup-brave-divya-stuns-chinas-world-no-6-zhu-again/articleshow/122778184.cms",
-         "pubDate" : "Sat, 19 Jul 2025 06:24:05",
-         "title" : "Women's Chess World Cup: Brave Divya stuns China's World No. 6 Zhu, again"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-4-mishras-gamble-pays-off-2025-us-national-championships/\">POSTGAME ROUND 4: Mishra's Gamble Pays Off!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -736,14 +688,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/freestyle-chess-quarter-final-stage",
          "pubDate" : "Fri, 18 Jul 2025 03:33:00",
          "title" : "Aronian, Caruana, Niemann, Arjun Reach Semifinals In Vegas"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Andy Woodward (L) improved to 3/3 after yesterday's win over Sharvesh Deviprasath (Photo courtesy of Crystal Fuller/SLCC)<br> <br> <br> <br> Although we are only a third of the way through the tournament, round 3 of the National Championships was riddled with deja vu moments, with motifs reoccurring between different sections and different rounds. We saw yet another knight get trapped on the b8-square, two instances of the queen triumphing against rook and pawns, and, in both knight-versus-bishop endgames of the day, it was the cavalry who emerged victorious, albeit with different colors. With pieces figh",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/woodward-improves-33-us-junior-championship-girls-junior-and-senior-races-tighten",
-         "pubDate" : "Fri, 18 Jul 2025 00:00:00",
-         "title" : "Woodward Improves to 3/3 in U.S. Junior Championship, Girls' Junior and Senior Races Tighten"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-3-woodward-in-the-lead-with-perfect-3-3-2025-u-s-national-championships/\">POSTGAME ROUND 3: Woodward In The Lead With Perfect 3/3 | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
