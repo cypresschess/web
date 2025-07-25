@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In early July, the Norwegian Chess Championships were held in Bergen. The Landsturneringen is a lively chess festival that features events not found at other national championships, such as bughouse chess and the chaotic team blitz known as \"Team Talk Blitz.\" Holger Blauhut reports. | Elite podium: IM/GM Aksel Bu Kval&oslash;y (2nd), GM Jon Ludvig Hammer (1st), and GM Aryan Tari (3rd) | Photo: Anniken Vestby",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jon-ludvig-hammer-wins-norwegian-championships",
+         "pubDate" : "Fri, 25 Jul 2025 08:29:49",
+         "title" : "Jon Ludvig Hammer wins Norwegian Championships"
+      },
+      {
+         "description" : " World No 1 Carlsen was third as Aronian took the $200,000 prize in the Las Vegas leg of the Freestyle Grand Slam Levon Aronian, at 42 the oldest in the tournament, scored what he described as \"one of the crown jewels\" of his career to win the $200,000 (&pound;148,000) first prize at the Las Vegas leg of the Freestyle Grand Slam last weekend. Aronian did it in style, winning matches against the world No 1 Magnus Carlsen, the No 2 Hikaru Nakamura and the No 5 Arjun Erigaisi en route to victory. Carlsen had to settle for the third prize of $100,000, plus the further indignity of finishing behind his arch enemy Hans Niemann, whose game with the Norwegian at the 2022 Sinquefield Cup led to alleg",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/jul/25/chess-levon-aronian-takes-big-top-prize-las-vegas-freestyle-grand-slam-hans-niemann-magnus-carlsen",
+         "pubDate" : "Fri, 25 Jul 2025 07:00:53",
+         "title" : "Chess: Aronian takes big top prize in Las Vegas as Niemann celebrates Carlsen's downfall"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122896175.cms\" />Divya Deshmukh has made history in chess. She is the first Indian to reach the FIDE Women's World Cup final. The 19-year-old is also the first teenager in 34 years to qualify for the Women's Candidates tournament. She is close to becoming India's fourth woman Grandmaster.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-rises-as-new-star-of-world-chess/articleshow/122896175.cms",
+         "pubDate" : "Fri, 25 Jul 2025 05:17:32",
+         "title" : "Divya Deshmukh rises as new star of world chess"
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-9-andy-zoey-are-champions-2025-us-national-championships/\">POSTGAME ROUND 9: Andy &#038; Zoey are Champions!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -642,14 +666,6 @@ news_feed (
          "title" : "Niemann Fells Caruana, Books Finals Clash With Comeback King Aronian"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122769667.cms\" />In a first, Koneru Humpy, Dronavalli Harika, R Vaishali, and Divya Deshmukh made it to the FIDE Women's World Cup quarterfinals. FIDE CEO Emil Sutovsky congratulated the players. The Indian players won tense tie-breakers. Humpy defeated Alexandra Kosteniuk, and Harika edged out Kateryna Lagno. Vaishali defeated Meruert Kamalidenova, and Divya Deshmukh beat Zhu Jiner.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-quite-a-feat-fide-ceo-lauds-indian-stars-after-all-four-enter-quarterfinals-of-womens-world-cup/articleshow/122769667.cms",
-         "pubDate" : "Fri, 18 Jul 2025 17:33:10",
-         "title" : "'Quite a feat' - FIDE CEO lauds Indians after all four enter QFs of women's WC"
-      },
-      {
          "description" : "The ECF has a limited stock of printed 2025 Yearbooks priced at &pound;10.00 for members and &pound;12.00 for non-members per issue, including second class postage. A form to order the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -976,14 +992,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45673974/fide-womens-chess-world-cup-2025-preview-koneru-humpy-r-vaishali-harika-dronavalli-divya-deshmukh-indian-charge-107-strong-field-eye-candidates?device=featurephone",
          "pubDate" : "Sat, 5 Jul 2025 02:00:00",
          "title" : "FIDE Women's Chess World Cup 2025: Humpy leads Indian charge at 107-strong field with an eye on Candidates"
-      },
-      {
-         "description" : " A poor outing from Ian Nepomniachtchi brought up an unlikely first but Serjey Karjakin made a strong comeback at Blitz last week It would have been inconceivable in the glory days of the Soviet chess empire. For the first time since 1971 when Fide, the world chess body, began publishing its rating lists - then annually and now monthly - there are no Russians ranked in the classical world top 10. Bobby Fischer was No 1 in the first Fide list, published on the eve of his Reykjavik match with Boris Spassky, but after Fischer gave up active play Anatoly Karpov and Garry Kasparov took over. In 1970, when the USSR team defeated the Rest of the World, or in the decades when Mikhail Botvinnik, Karp",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/jul/04/russians-absent-world-chess-top-10-first-time-since-official-lists-began-ian-nepomniachtchi",
-         "pubDate" : "Fri, 04 Jul 2025 07:01:11",
-         "title" : "Russians absent from world chess top 10 for first time since official lists began"
       }
    ]
 }
