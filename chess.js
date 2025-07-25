@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "During the FIDE World Cup, the FIDE Council held an online meeting and decided to allow a \"neutral team\" featuring Russian players to participate in the upcoming Women's Team World Championship. The European Chess Union (ECU) issued a statement protesting this decision.",
+         "description" : "The 2025 US Chess Championships for Juniors, Girls and Seniors produced three new title-holders. Andy Woodward secured first place in the Junior section with 6&frac12;/9, while top seed Zoey Tang finished half a point ahead of Megan Paragua to win the Girls' Junior Championship. In the Senior Championship, Alexander Fishbein triumphed in a three-way playoff against Vladimir Akopian and Alexander Shabalov to claim his first title in the event. | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-wants-to-allow-neutral-women-s-team-with-russian-players-at-team-world-championship",
-         "pubDate" : "Fri, 25 Jul 2025 16:00:00",
-         "title" : "FIDE wants to allow \"neutral\" women's team with Russian players at Team World Championship"
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2025-report",
+         "pubDate" : "Fri, 25 Jul 2025 23:50:00",
+         "title" : "Woodward, Tang and Fishbein collect titles at US national championships"
       },
       {
-         "description" : "Oskemen has made a new entry into the international tournament calendar. In the largest city of East Kazakhstan, three open tournaments are currently taking place, including a Masters event featuring nearly 20 grandmasters competing for a substantial prize fund. Oskemen is notable not only for its strong chess field but also for its rich and complex history. Once known as Ust-Kamenogorsk, the city was an important center during the Soviet era and remains a cultural and industrial hub today.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/strong-lineup-at-the-oskemen-open",
-         "pubDate" : "Fri, 25 Jul 2025 15:19:19",
-         "title" : "Strong Lineup at the Oskemen Open"
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-playoff-fishbein-is-champion/\">POSTGAME PLAYOFF: Fishbein is Champion!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-playoff-fishbein-is-champion/",
+         "pubDate" : "Fri, 25 Jul 2025 21:03:46",
+         "title" : "POSTGAME PLAYOFF: Fishbein is Champion!"
       },
       {
          "description" : "The opening is tricky. If you don't know what you are doing, you can quickly find yourself on the losing side, but if you know what you are doing, you can also quickly gain an advantage. ChessBase offers help! The Opening Encyclopaedia offers a complete overview of all openings, and with Fritz 20 you can try out and practise all of them. This week (21-27 July), the strong duo is available as a Summer Special at a special price!",
@@ -48,14 +48,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-held-in-ahmednagar-ahilya-nagar-maharashtra-on-12th-13th-july-2025/",
          "pubDate" : "Fri, 25 Jul 2025 11:12:13",
          "title" : "Final Report of Senior National Arbiter Seminar & Examination held in Ahmednagar (Ahilya Nagar), Maharashtra on 12th & 13th July, 2025."
-      },
-      {
-         "description" : "Vladimir Fedoseev fought back after his painful defeat the day before and defeated Saleh Salem in the last round of the Biel GMT-Masters in commanding style. Since Aravindh missed the victory needed to win the tournament against Murzin and only played to a draw, Fedoseev secured victory in the Biel Grandmaster Triathlon. | Photos: Schachfestival Biel",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vladimir-fedoseev-wins-the-biel-grandmaster-triathlon",
-         "pubDate" : "Fri, 25 Jul 2025 11:00:00",
-         "title" : "Vladimir Fedoseev wins the Biel Grandmaster Triathlon"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122900208.cms\" />India is guaranteed gold and silver at the FIDE Women's World Cup as Divya Deshmukh and Koneru Humpy face off in the final. Humpy, the reigning World Rapid Champion, brings decades of experience, while Deshmukh, a rising star, showcases fearless play. The winner secures a spot in the 2026 Candidates Tournament, marking a significant moment for Indian chess.",
@@ -104,6 +96,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/clash-of-generations-svidler-erdogmus-2025",
          "pubDate" : "Fri, 25 Jul 2025 00:43:00",
          "title" : "Clash of Generations Svidler Erdogmus 2025 - Games and Results"
+      },
+      {
+         "description" : "Breaking: Fishbein wins Senior Championship after three-way playoffFor the first time ever, we have a three-way tie in the U.S. Senior Championship. But the winners may not be who you expect. Yesterday's round concluded with a three-way tie between GMs Vladimir Akopian, Larry Christiansen, and Alexander Goldin. Of those three, only Akopian made it through the last round unscathed after drawing a solid game with GM Gregory Kaidanov. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Defending champion Vladimir Akopian jumped out to an early lead, but a string of draws led to him studying his competitors' games as closely as his own by the final round (Phot",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/woodward-tang-and-fishbein-win-national-championships",
+         "pubDate" : "Fri, 25 Jul 2025 00:00:00",
+         "title" : "Woodward, Tang, and Fishbein Win National Championships"
       },
       {
          "description" : "Ten Grandmasters to Compete in Round-Robin Invitational Honoring 140 Years of Organized Chess in New JerseyMorristown, NJ - The New Jersey State Chess Federation (NJSCF) has officially announced the grandmaster lineup for its 140th Anniversary Commemorative Tournament, taking place October 22-26, 2025, at the historic Masonic Lodge in Morristown, New Jersey.The invitational tournament will bring together ten renowned grandmasters in a round-robin format. Over five days of elite competition, fans and players alike can expect strategic play, tactical fireworks, and a celebration of the Garden State's distinguished chess legacy.Confirmed Participants (in alphabetical order):Barbosa, OliverDlugy",
@@ -632,14 +632,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-4-mishras-gamble-pays-off-2025-us-national-championships/",
          "pubDate" : "Sat, 19 Jul 2025 01:13:23",
          "title" : "POSTGAME ROUND 4: Mishra's Gamble Pays Off!"
-      },
-      {
-         "description" : "As the U.S. Junior, Girls' Junior, and Senior Championships approach the halfway point, the players continued to demonstrate keen fighting chess, battling for the coveted spot of tournament leader with everything from pugnacious openings to ineluctable endgame precision. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Some pre-game banter before another sharp round (Photo courtesy of Austin Fuller/SLCC)<br> <br> <br> <br> With nine decisive games this round, it wasn't quite as bloody as the last round, but when the dust settled, each section had a clear leader for the first time since the start of the tournament. GM Andy Woodward maintained his lead in",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/clear-leaders-emerge-national-championships",
-         "pubDate" : "Sat, 19 Jul 2025 00:00:00",
-         "title" : "Clear Leaders Emerge in National Championships"
       },
       {
          "description" : "GM Hans Niemann and Levon Aronian will be at least $140,000 richer when the Freestyle Chess Grand Slam Las Vegas comes to its conclusion on Sunday after the pair won their respective Semifinals, setting up a Final that was &#34;written in the stars,&#34; ...",
