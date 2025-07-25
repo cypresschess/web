@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ahmednagar District Chess Circle on behalf of Maharashtra Chess Association, All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38;",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-held-in-ahmednagar-ahilya-nagar-maharashtra-on-12th-13th-july-2025/",
+         "pubDate" : "Fri, 25 Jul 2025 11:12:13",
+         "title" : "Final Report of Senior National Arbiter Seminar & Examination held in Ahmednagar (Ahilya Nagar), Maharashtra on 12th & 13th July, 2025."
+      },
+      {
+         "description" : "Vladimir Fedoseev fought back after his painful defeat the day before and defeated Saleh Salem in the last round of the Biel GMT-Masters in commanding style. Since Aravindh missed the victory needed to win the tournament against Murzin and only played to a draw, Fedoseev secured victory in the Biel Grandmaster Triathlon. | Photos: Schachfestival Biel",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vladimir-fedoseev-wins-the-biel-grandmaster-triathlon",
+         "pubDate" : "Fri, 25 Jul 2025 11:00:00",
+         "title" : "Vladimir Fedoseev wins the Biel Grandmaster Triathlon"
+      },
+      {
          "description" : "In early July, the Norwegian Chess Championships were held in Bergen. The Landsturneringen is a lively chess festival that features events not found at other national championships, such as bughouse chess and the chaotic team blitz known as \"Team Talk Blitz.\" Holger Blauhut reports. | Elite podium: IM/GM Aksel Bu Kval&oslash;y (2nd), GM Jon Ludvig Hammer (1st), and GM Aryan Tari (3rd) | Photo: Anniken Vestby",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/jon-ludvig-hammer-wins-norwegian-championships",
          "pubDate" : "Fri, 25 Jul 2025 08:29:49",
          "title" : "Jon Ludvig Hammer wins Norwegian Championships"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122900208.cms\" />India is guaranteed gold and silver at the FIDE Women's World Cup as Divya Deshmukh and Koneru Humpy face off in the final. Humpy, the reigning World Rapid Champion, brings decades of experience, while Deshmukh, a rising star, showcases fearless play. The winner secures a spot in the 2026 Candidates Tournament, marking a significant moment for Indian chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-india-assured-of-historic-medals-at-fide-womens-world-cup-but-what-to-expect-from-koneru-humpy-vs-divya-deshmukh-final/articleshow/122900208.cms",
+         "pubDate" : "Fri, 25 Jul 2025 08:06:06",
+         "title" : "Chess WC | India assured of medals; but what to expect from Humpy vs Deshmukh final?"
       },
       {
          "description" : " World No 1 Carlsen was third as Aronian took the $200,000 prize in the Las Vegas leg of the Freestyle Grand Slam Levon Aronian, at 42 the oldest in the tournament, scored what he described as \"one of the crown jewels\" of his career to win the $200,000 (&pound;148,000) first prize at the Las Vegas leg of the Freestyle Grand Slam last weekend. Aronian did it in style, winning matches against the world No 1 Magnus Carlsen, the No 2 Hikaru Nakamura and the No 5 Arjun Erigaisi en route to victory. Carlsen had to settle for the third prize of $100,000, plus the further indignity of finishing behind his arch enemy Hans Niemann, whose game with the Norwegian at the 2022 Sinquefield Cup led to alleg",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-rises-as-new-star-of-world-chess/articleshow/122896175.cms",
          "pubDate" : "Fri, 25 Jul 2025 05:17:32",
          "title" : "Divya Deshmukh rises as new star of world chess"
+      },
+      {
+         "description" : "GM Levon Aronian continued his form from Las Vegas as he topped Group A of the Last Chance Qualifier for the 2025 Esports World Cup, while GMs Dmitry Andreikin, Vidit Gujrathi, and Daniil Dubov were all eliminated. GMs Alexey Sarana, Marc&#39;Andria M...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-esports-world-cup-lcq-day-1",
+         "pubDate" : "Fri, 25 Jul 2025 02:31:00",
+         "title" : "Aronian Survives Group Of Death As Chess Joins Esports World Cup"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-9-andy-zoey-are-champions-2025-us-national-championships/\">POSTGAME ROUND 9: Andy &#038; Zoey are Champions!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -78,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/vladimir-fedoseev-wins-biel-masters-triathlon-2025",
-         "pubDate" : "Thu, 24 Jul 2025 14:07:16",
+         "pubDate" : "Thu, 24 Jul 2025 14:07:00",
          "title" : "Fedoseev Edges Out Aravindh On Tiebreaks To Win Biel Masters"
       },
       {
@@ -338,7 +370,7 @@ news_feed (
          "title" : "Divya, Humpy Hold Draws In Semifinals Game 1"
       },
       {
-         "description" : "FIDE has approved Matthew Wadsworth's GM title. You can read the meeting minutes here https://www.fide.com/fide-council-meeting-held-in-batumi-georgia/ The ECF offers its congratulations to Matthew. Photograph of Matthew by Brendan O'Gorman",
+         "description" : "Last Updated on 22nd July 2025 by WebAdmin FIDE has approved Matthew Wadsworth's GM title. You can read the meeting minutes here https://www.fide.com/fide-council-meeting-held-in-batumi-georgia/ The ECF offers its congratulations to...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/new-english-grandmaster/",
@@ -418,7 +450,7 @@ news_feed (
          "title" : "Yovann Gatineau Wins Wemby's Hoop Gambit Tournament"
       },
       {
-         "description" : "There was no requirement for an election this year and the incumbents (plus one replacement rep) are as follows &#8212; Lifetime John Wickham, Gerry Walsh Platinum Adrian Elwin,...",
+         "description" : "Last Updated on 21st July 2025 by WebAdmin There was no requirement for an election this year and the incumbents (plus one replacement rep) are as follows &#8212; Lifetime ...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/direct-members-reps-2025/",
@@ -634,14 +666,6 @@ news_feed (
          "title" : "Women's Chess World Cup: Brave Divya stuns China's World No. 6 Zhu, again"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122776741.cms\" />Arjun Erigaisi's impressive run at the Freestyle Chess Grand Slam ended in the semifinals with a loss to Levon Aronian, despite earlier victories over Magnus Carlsen and Hikaru Nakamura. Hans Niemann defeated Fabiano Caruana to advance to the finals. In the playoffs, R Praggnanandhaa and Magnus Carlsen secured victories, while Wesley So and Hikaru Nakamura also won their respective matches.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-grand-slam-tour-arjun-erigaisis-record-run-halted-in-semi-finals-all-american-final-in-vegas/articleshow/122776741.cms",
-         "pubDate" : "Sat, 19 Jul 2025 04:36:16",
-         "title" : "Freestyle Grand Slam Tour: Erigaisi's record run halted; all-American final in Vegas"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-4-mishras-gamble-pays-off-2025-us-national-championships/\">POSTGAME ROUND 4: Mishra's Gamble Pays Off!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -762,7 +786,7 @@ news_feed (
          "title" : "Divya Stuns Zhu As Other Chinese Stars Win"
       },
       {
-         "description" : "The English Chess Federation is inviting expressions of interest from associations, leagues, congresses and clubs interested in purchasing chess clocks at discounted rates: DGT 2010 clocks: &pound;24.00; DGT 2500 clocks:...",
+         "description" : "Last Updated on 16th July 2025 by WebAdmin The English Chess Federation is inviting expressions of interest from associations, leagues, congresses and clubs interested in purchasing chess clocks at discounted...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/chess-clocks-expression-of-interest-2025/",
@@ -770,15 +794,7 @@ news_feed (
          "title" : "Chess clocks expression of interest 2025"
       },
       {
-         "description" : "Nineteen-year-old Dutch IM Eline Roebers set a new record in June, becoming the highest-rated woman in the history of Chess.com. Her new rating of 2932 beat GM Kateryna Lagno&#39;s previous record of 2928. ELINE IS UNSTOPPABLE! 🔥 pic.twitter.com/g...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/roebers-sets-blitz-record",
-         "pubDate" : "Wed, 16 Jul 2025 10:44:20",
-         "title" : "Roebers Sets All-Time High Blitz Rating For Women"
-      },
-      {
-         "description" : "FIDE, in partnership with&#160;Lichess.org, invites chess-lovers from around the world to take part in the largest-ever Social Chess Day tournament - a 24-hour blitz marathon celebrating International Chess Day on...",
+         "description" : "Last Updated on 16th July 2025 by WebAdmin FIDE, in partnership with&#160;Lichess.org, invites chess-lovers from around the world to take part in the largest-ever Social Chess Day tournament - a...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/join-the-global-online-celebration-for-international-chess-day/",
@@ -850,7 +866,7 @@ news_feed (
          "title" : "European Youth Team Chess Champions 2025 crowned in Slovenia"
       },
       {
-         "description" : "&#160; &#160;",
+         "description" : "Last Updated on 11th July 2025 by WebAdmin &#160; &#160;",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/english-championships-2025/#new_tab",
@@ -858,7 +874,7 @@ news_feed (
          "title" : "English and English Women's Championships 2025"
       },
       {
-         "description" : "",
+         "description" : "Last Updated on 11th July 2025 by WebAdmin",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.britishchesschampionships.co.uk/#new_tab",
@@ -874,7 +890,7 @@ news_feed (
          "title" : "Chess: Carlsen fights off Gukesh in Zagreb as ChessFest returns to Trafalgar Square"
       },
       {
-         "description" : "The U2050 County Championships final was held at the new King in the North Chess and Archery Centre on 5th July. Yorkshire, who failed to qualify for the 2024 knock-out...",
+         "description" : "Last Updated on 10th July 2025 by WebAdmin The U2050 County Championships final was held at the new King in the North Chess and Archery Centre on 5th July. Yorkshire,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/u2050-county-championships-final/",
@@ -898,7 +914,7 @@ news_feed (
          "title" : "FIDE World Junior Rapid and Blitz Chess Championship - 2025 in Lime - Peru from 22nd to 29th September, 2025"
       },
       {
-         "description" : "The chess section starts at 33 minutes and 25 seconds &#8212; https://www.bbc.co.uk/sounds/play/m002f936",
+         "description" : "Last Updated on 9th July 2025 by WebAdmin The chess section starts at 33 minutes and 25 seconds &#8212; https://www.bbc.co.uk/sounds/play/m002f936",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/chess-chessfest-the-bcc-and-liverpool-on-the-bbc/",
@@ -920,14 +936,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-womens-world-cup-2025",
          "pubDate" : "Mon, 7 Jul 2025 21:01:00",
          "title" : "FIDE Women's World Cup 2025 - Games and Results"
-      },
-      {
-         "description" : "Rank Under 07 Rank &#160;&#160;&#160;&#160;&#160;&#160; Under 07 Girls 1 Evan Antonio Telles 1 Shreyanshi Jain 2 Duvesh Milan P 2 Anika K 3 Ansh Dadhich",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-of-national-under-07-in-odisha-from-01-05-june-2025/",
-         "pubDate" : "Mon, 07 Jul 2025 12:15:39",
-         "title" : "Certificates of National Under 07 in Odisha from 01-05 June 2025"
       },
       {
          "description" : "The 2025 FIDE Women's World Chess Cup kicked off yesterday in Batumi, Georgia. The event will be played from 6-28 July at the Grand Bellagio Batumi Convention Hotel with the participation of 107 players from 46 different federations. The event is played as a knock-out tournament, with 7 rounds, and each round comprises two classical games. If the result is tied, the tiebreak match/es will determine the Winner of the match. The FIDE Women's World Chess Cup 2025 features the []",
