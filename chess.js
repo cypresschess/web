@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-9-andy-zoey-are-champions-2025-us-national-championships/\">POSTGAME ROUND 9: Andy &#038; Zoey are Champions!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-9-andy-zoey-are-champions-2025-us-national-championships/",
+         "pubDate" : "Fri, 25 Jul 2025 01:10:48",
+         "title" : "POSTGAME ROUND 9: Andy & Zoey are Champions!"
+      },
+      {
+         "description" : " There is a 6 game classical match between Peter Svidler and 14 year old wonderkind Yagiz Kaan Erdogmus in Marseille, France 24th - 29th July 2025.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/clash-of-generations-svidler-erdogmus-2025",
+         "pubDate" : "Fri, 25 Jul 2025 00:43:00",
+         "title" : "Clash of Generations Svidler Erdogmus 2025 - Games and Results"
+      },
+      {
          "description" : "Humpy Koneru defeated Lei Tingjie in a closely contested tiebreak match to join Divya Deshmukh in the final of the Women's World Cup in Batumi, marking the first all-Indian final in the event's history. After two drawn classical games, Humpy prevailed 5-3 following rapid and blitz stages. Both finalists have secured places in the 2026 Women's Candidates Tournament, while Lei Tingjie and Tan Zhongyi will compete for third place and the final qualification spot. | Photo: Anna Shtourman / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
