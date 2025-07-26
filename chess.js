@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first games of the Women's World Cup final and third-place match in Batumi both ended in draws. Divya Deshmukh missed a promising attacking chance against Humpy Koneru, while Tan Zhongyi and Lei Tingjie played a balanced game in the Exchange Variation of the Queen's Gambit Declined. The second classical games will be played tomorrow, with Humpy and Lei having the white pieces. A win would secure the match without tiebreaks. | Photo: Anna Shtourman / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-r7g1",
+         "pubDate" : "Sat, 26 Jul 2025 22:45:00",
+         "title" : "Women's World Cup Finals: Divya misses big chance"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122925546.cms\" />The first game of the FIDE Women's World Cup final witnessed a tense draw between Divya Deshmukh and Koneru Humpy in Batumi. Despite a promising start with the white pieces, Divya's initial advantage slipped as Humpy showcased her experience with precise defense. The 41-move game concluded through repetition, leaving Divya visibly disappointed for missing an early opportunity.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/mistakes/",
          "pubDate" : "Sat, 26 Jul 2025 13:00:00",
          "title" : "Good vs. Bad Mistakes: A Simple Guide"
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
-         "pubDate" : "Sat, 26 Jul 2025 12:45:00",
-         "title" : "Women's World Cup, Finals - Live!"
       },
       {
          "description" : "As regular readers of this column all know, Magnus Carlsen has disappointingly joined that trio of former champions (Morphy, Alekhine, Fischer) who missed their final challenge. While still the World Chess Champion, Magnus Carlsen confirmed in a public statement his intention to decline the defence of his title in 2023. FIDÉ (the world governing body) understood that his []",
@@ -82,12 +82,12 @@ news_feed (
          "title" : "Esports World Cup: Aronian, Bortnyk, Pragg and Niemann top Last Chance Qualifiers' group stage"
       },
       {
-         "description" : "Follow live updates from game 1 of the all-Indian final at the Women's Chess World Cup in Batumi, Georgia.",
+         "description" : "Koneru Humpy and Divya Deshmukh played out a draw in 41 moves in game 1 of the Women's Chess World Cup in Batumi, Georgia.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/45826368/koneru-humpy-vs-divya-deshmukh-live-blog-updates-commentary-results-2025-fide-womens-chess-world-cup-final-game-1?device=featurephone",
          "pubDate" : "Sat, 26 Jul 2025 03:00:00",
-         "title" : "Koneru Humpy vs Divya Deshmukh LIVE: Updates, commentary and results from the FIDE Women's Chess World Cup final"
+         "title" : "Koneru Humpy, Divya Deshmukh draw in game 1 of FIDE Women's Chess World Cup final"
       },
       {
          "description" : "GMs Praggnanandhaa Rameshbabu and Hans Niemann topped Groups C and D of the 2025 Esports World Cup Last Chance Qualifier as the 16-player field was completed for Saturday&#39;s Playoffs. They were joined by GMs Yu Yangyi, Javokhir Sindarov, Anish Giri...",
