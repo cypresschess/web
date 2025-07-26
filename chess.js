@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Opening Encyclopedia offers a wide range of exciting repertoire suggestions. But how can you tell if a recommendation truly suits your playing style? The best way is to try it out in a practical match against Fritz 20. With the \"Play Against Database Book\" feature, you can load opening articles, game collections, or analyses directly from the encyclopedia as an opening book and immediately play against Fritz. This lets you test new lines under realistic conditions. Best of all: This week (until July 27, 2025), you can get the Fritz 20 and Opening Encyclopedia bundle at a special Summer Special price.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-and-play-learning-openings-with-fritz-20-and-the-opening-encyclopedia",
+         "pubDate" : "Sat, 26 Jul 2025 08:00:00",
+         "title" : "Study and play: learning openings with Fritz 20 and the Opening Encyclopedia!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122918133.cms\" />In a historic FIDE Women's World Cup final, India's Koneru Humpy, a seasoned veteran, will face the rising star Divya Deshmukh. This generational clash pits Humpy's strategic depth and experience against Divya's tactical aggression and youthful energy.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/can-teenager-divya-deshmukhs-enthusiasm-get-the-better-of-koneru-humpys-vast-experience/articleshow/122918133.cms",
+         "pubDate" : "Sat, 26 Jul 2025 06:03:20",
+         "title" : "Can teenager Divya's enthusiasm get the better of Humpy's vast experience?"
+      },
+      {
          "description" : "The Last Chance Qualifier for the Esports World Cup chess event is underway in Riyadh, with 16 players set to battle for the final four places in the main tournament. Held from 24 to 26 July, the qualifier began with a two-day group stage and concludes with a double-elimination knockout on Saturday. The winners will join twelve invited players, including Magnus Carlsen, Hikaru Nakamura and Alireza Firouzja, in the $1.5 million main event starting on 29 July. | Photos: Aditya Sur Roy / ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://www.thearticle.com/anti-semitism-from-nazi-germany-to-glastonbury/",
          "pubDate" : "Sat, 19 Jul 2025 15:50:31",
          "title" : "Anti-Semitism: from Nazi Germany to Glastonbury"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122783461.cms\" />Hans Niemann is in the final of the Freestyle Chess Grand Slam. He defeated Fabiano Caruana in the semi-final. Niemann will face Levon Aronian for the title. The tournament is happening in Las Vegas. Magnus Carlsen and Hikaru Nakamura are competing for third place. Niemann aims to prove himself after his controversy with Carlsen.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-dont-need-an-apology-hans-niemann-after-making-his-maiden-freestyle-chess-grand-slam-final-on-debut-appearance/articleshow/122783461.cms",
-         "pubDate" : "Sat, 19 Jul 2025 13:13:36",
-         "title" : "'I don't need an apology': Niemann after making his maiden Freestyle final on debut"
       },
       {
          "description" : "GMs Lei Tingjie and Koneru Humpy struck first in their 2025 FIDE Women&#39;s World Cup quarterfinal matches. Humpy&#39;s win over IM Song Yuxin was convincing if bumpy at times, while Lei confessed she played &#34;pretty horribly&#34; before turning things around...",
