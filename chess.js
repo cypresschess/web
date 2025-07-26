@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
+         "pubDate" : "Sat, 26 Jul 2025 12:45:00",
+         "title" : "Women's World Cup, Finals - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122920735.cms\" />",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-vs-divya-deshmukh-fide-womens-chess-world-cup-final-2025-game-1-today-live-updates-live-streaming-online/liveblog/122920735.cms",
+         "pubDate" : "Sat, 26 Jul 2025 09:37:20",
+         "title" : "Chess WC Final Live: Divya makes bold start with white pieces against Humpy"
+      },
+      {
          "description" : "The Opening Encyclopedia offers a wide range of exciting repertoire suggestions. But how can you tell if a recommendation truly suits your playing style? The best way is to try it out in a practical match against Fritz 20. With the \"Play Against Database Book\" feature, you can load opening articles, game collections, or analyses directly from the encyclopedia as an opening book and immediately play against Fritz. This lets you test new lines under realistic conditions. Best of all: This week (until July 27, 2025), you can get the Fritz 20 and Opening Encyclopedia bundle at a special Summer Special price.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +34,28 @@ news_feed (
          "title" : "Can teenager Divya's enthusiasm get the better of Humpy's vast experience?"
       },
       {
+         "description" : "GM Alexander Fishbein clinched the U.S. Seniors Championship title by winning a playoff on Friday with GM Vladimir Akopian and GM Alexander Shabalov after all three had finished in a tie for first. Fishbein earned $23,167. GM Andy Woodward was the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alex-fishbein-andy-woodward-zoey-tang-win-national-titles-2025",
+         "pubDate" : "Sat, 26 Jul 2025 04:24:01",
+         "title" : "Alex Fishbein, Andy Woodward, Zoey Tang Win National Titles In St. Louis"
+      },
+      {
          "description" : "The Last Chance Qualifier for the Esports World Cup chess event is underway in Riyadh, with 16 players set to battle for the final four places in the main tournament. Held from 24 to 26 July, the qualifier began with a two-day group stage and concludes with a double-elimination knockout on Saturday. The winners will join twelve invited players, including Magnus Carlsen, Hikaru Nakamura and Alireza Firouzja, in the $1.5 million main event starting on 29 July. | Photos: Aditya Sur Roy / ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/esports-world-cup-2025-lcq-groups",
          "pubDate" : "Sat, 26 Jul 2025 04:20:00",
          "title" : "Esports World Cup: Aronian, Bortnyk, Pragg and Niemann top Last Chance Qualifiers' group stage"
+      },
+      {
+         "description" : "GMs Praggnanandhaa Rameshbabu and Hans Niemann topped Groups C and D of the 2025 Esports World Cup Last Chance Qualifier as the 16-player field was completed for Saturday&#39;s Playoffs. They were joined by GMs Yu Yangyi, Javokhir Sindarov, Anish Giri...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-esports-world-cup-lcq-day-1-1",
+         "pubDate" : "Sat, 26 Jul 2025 01:25:27",
+         "title" : "Praggnanandhaa, Niemann Win Groups To Reach Playoffs"
       },
       {
          "description" : "The 2025 US Chess Championships for Juniors, Girls and Seniors produced three new title-holders. Andy Woodward secured first place in the Junior section with 6&frac12;/9, while top seed Zoey Tang finished half a point ahead of Megan Paragua to win the Girls' Junior Championship. In the Senior Championship, Alexander Fishbein triumphed in a three-way playoff against Vladimir Akopian and Alexander Shabalov to claim his first title in the event. | Photo: Lennart Ootes / Saint Louis Chess Club",
@@ -562,14 +594,6 @@ news_feed (
          "title" : "Women's Chess World Cup: Humpy, Tingjie take early lead in quarters"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122793147.cms\" />Rameshbabu Praggnanandhaa, the Indian chess prodigy, has once again defeated World No. 1 Magnus Carlsen at the Freestyle Chess Grand Slam in Las Vegas. The 19-year-old grandmaster secured his second victory over Carlsen in the tournament, showcasing his tactical prowess. Despite Carlsen winning the semifinal clash, Praggnanandhaa's impressive performance solidifies his position as a rising star in the chess world.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-grand-slam-praggnanandhaa-beats-magnus-carlsen-again-in-las-vegas/articleshow/122793147.cms",
-         "pubDate" : "Sun, 20 Jul 2025 03:49:24",
-         "title" : "Freestyle Chess Grand Slam: Praggnanandhaa beats Magnus Carlsen again in Las Vegas"
-      },
-      {
          "description" : "World numbers one and two Magnus Carlsen and Hikaru Nakamura will battle for the $100,000 third-place prize on the final day of the Freestyle Chess Grand Slam Las Vegas. Carlsen lost his first game of the day to GM Praggnanandhaa Rameshbabu but bl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -714,28 +738,12 @@ news_feed (
          "title" : "POSTGAME ROUND 3: Woodward In The Lead With Perfect 3/3 | 2025 U.S. National Championships"
       },
       {
-         "description" : "Second seed GM Zhu Jiner struck back with a powerful game against IM Divya Deshmukh to take their 2025 FIDE Women&#39;s World Cup round four match to tiebreaks. Chinese stars GM Lei Tingjie, GM Tan Zhongyi, and IM Song Yuxin all sealed Quarterfinal sp...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-4-game-2",
-         "pubDate" : "Thu, 17 Jul 2025 15:44:36",
-         "title" : "Zhu Strikes Back As Lei, Tan, Song, Dzagnidze Reach Quarterfinals"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-2-day-of-the-juniors-2025-u-s-national-championships/\">POSTGAME ROUND 2: Day of the Juniors | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-2-day-of-the-juniors-2025-u-s-national-championships/",
          "pubDate" : "Wed, 16 Jul 2025 23:59:48",
          "title" : "POSTGAME ROUND 2: Day of the Juniors | 2025 U.S. National Championships"
-      },
-      {
-         "description" : "GM Levon Aronian made a statement at the Freestyle Chess Grand Slam Las Vegas on Wednesday by defeating GM Magnus Carlsen 2-0 in a tiebreak showdown, keeping his chances alive of winning the $200,000 first prize, and in the process, condemning Car...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/freestyle-chess-grandslam-las-vegas-group-stage",
-         "pubDate" : "Wed, 16 Jul 2025 23:55:00",
-         "title" : "Aronian Stuns Carlsen In Tiebreaks; Nakamura Dominates With 6/7"
       },
       {
          "description" : "Last Updated on 16th July 2025 by WebAdmin The English Chess Federation is inviting expressions of interest from associations, leagues, congresses and clubs interested in purchasing chess clocks at discounted...",
