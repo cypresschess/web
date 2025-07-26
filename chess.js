@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Last Chance Qualifier for the Esports World Cup chess event is underway in Riyadh, with 16 players set to battle for the final four places in the main tournament. Held from 24 to 26 July, the qualifier began with a two-day group stage and concludes with a double-elimination knockout on Saturday. The winners will join twelve invited players, including Magnus Carlsen, Hikaru Nakamura and Alireza Firouzja, in the $1.5 million main event starting on 29 July. | Photos: Aditya Sur Roy / ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/esports-world-cup-2025-lcq-groups",
+         "pubDate" : "Sat, 26 Jul 2025 04:20:00",
+         "title" : "Esports World Cup: Aronian, Bortnyk, Pragg and Niemann top Last Chance Qualifiers' group stage"
+      },
+      {
          "description" : "The 2025 US Chess Championships for Juniors, Girls and Seniors produced three new title-holders. Andy Woodward secured first place in the Junior section with 6&frac12;/9, while top seed Zoey Tang finished half a point ahead of Megan Paragua to win the Girls' Junior Championship. In the Senior Championship, Alexander Fishbein triumphed in a three-way playoff against Vladimir Akopian and Alexander Shabalov to claim his first title in the event. | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -928,14 +936,6 @@ news_feed (
          "link" : "https://www.thearticle.com/alekhines-tribute-to-nimzowitsch/",
          "pubDate" : "Sat, 05 Jul 2025 11:47:25",
          "title" : "Alekhine's tribute to Nimzowitsch"
-      },
-      {
-         "description" : "All you need to know as R Vaishali, Harikia Dronavalli and other Indians battle chess's best in the World Cup.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45673974/fide-womens-chess-world-cup-2025-preview-koneru-humpy-r-vaishali-harika-dronavalli-divya-deshmukh-indian-charge-107-strong-field-eye-candidates?device=featurephone",
-         "pubDate" : "Sat, 5 Jul 2025 02:00:00",
-         "title" : "FIDE Women's Chess World Cup 2025: Humpy leads Indian charge at 107-strong field with an eye on Candidates"
       }
    ]
 }
