@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122925546.cms\" />The first game of the FIDE Women's World Cup final witnessed a tense draw between Divya Deshmukh and Koneru Humpy in Batumi. Despite a promising start with the white pieces, Divya's initial advantage slipped as Humpy showcased her experience with precise defense. The 41-move game concluded through repetition, leaving Divya visibly disappointed for missing an early opportunity.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-divya-deshmukh-devastated-in-fide-womens-world-cup-final-draw-against-koneru-humpy-watch/articleshow/122925546.cms",
+         "pubDate" : "Sat, 26 Jul 2025 17:14:32",
+         "title" : "Divya devastated in World Cup final draw against Humpy - Watch"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122924507.cms\" />The first game of the Women's Chess World Cup final saw a draw between Divya Deshmukh and Koneru Humpy in Batumi. Divya, playing white, surprised with a new opening, while Humpy's experience ensured a balanced game. Despite tense moments and repeated checks, neither player could break through, setting the stage for a gripping contest.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.thearticle.com/magnus-carlsen-the-fallen-angel-fights-on/",
          "pubDate" : "Sat, 26 Jul 2025 11:32:27",
          "title" : "Magnus Carlsen: the fallen angel fights on"
+      },
+      {
+         "description" : "Both games were drawn in game one of the 2025 FIDE Women&#39;s World Cup Finals, but neither of them was dull. IM Divya Deshmukh gained a massive advantage as early as move 10 and even sacrificed a piece, but GM Koneru Humpy got away. In the match for...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-final-game-1",
+         "pubDate" : "Sat, 26 Jul 2025 08:47:00",
+         "title" : "Humpy Survives Vs. Divya, Lei Accepts Draw In Better Position"
       },
       {
          "description" : "The Opening Encyclopedia offers a wide range of exciting repertoire suggestions. But how can you tell if a recommendation truly suits your playing style? The best way is to try it out in a practical match against Fritz 20. With the \"Play Against Database Book\" feature, you can load opening articles, game collections, or analyses directly from the encyclopedia as an opening book and immediately play against Fritz. This lets you test new lines under realistic conditions. Best of all: This week (until July 27, 2025), you can get the Fritz 20 and Opening Encyclopedia bundle at a special Summer Special price.",
@@ -610,14 +626,6 @@ news_feed (
          "title" : "Quarterfinal Tension Rises: Humpy Triumphs, Harika, Divya, and Vaishali Hold Ground"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122793355.cms\" />Koneru Humpy of India and China's Lei Tingjie secured victories in their respective opening games, leading the quarterfinals at the FIDE Women's Chess World Cup. Indian compatriots Divya Deshmukh and Harika D drew, while Vaishali Rameshbabu held China's Tan Zhongyi to a draw after a lengthy 72-move game.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/womens-chess-world-cup-koneru-humpy-lei-tingjie-take-early-lead-in-quarters/articleshow/122793355.cms",
-         "pubDate" : "Sun, 20 Jul 2025 04:19:26",
-         "title" : "Women's Chess World Cup: Humpy, Tingjie take early lead in quarters"
-      },
-      {
          "description" : "World numbers one and two Magnus Carlsen and Hikaru Nakamura will battle for the $100,000 third-place prize on the final day of the Freestyle Chess Grand Slam Las Vegas. Carlsen lost his first game of the day to GM Praggnanandhaa Rameshbabu but bl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gukesh-headlines-spectacular-fide-grand-swiss-lineup",
          "pubDate" : "Fri, 18 Jul 2025 05:51:02",
          "title" : "World Champion Gukesh Headlines Spectacular Grand Swiss Lineup"
-      },
-      {
-         "description" : "A 10-hour marathon day at the $750,000 Freestyle Chess Grand Slam Las Vegas saw GM Levon Aronian follow up his elimination of GM Magnus Carlsen on Wednesday by knocking out GM Hikaru Nakamura 2.5-1.5 on Thursday.&#38;nbsp; Aronian is joined in the S...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/freestyle-chess-quarter-final-stage",
-         "pubDate" : "Fri, 18 Jul 2025 03:33:00",
-         "title" : "Aronian, Caruana, Niemann, Arjun Reach Semifinals In Vegas"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-3-woodward-in-the-lead-with-perfect-3-3-2025-u-s-national-championships/\">POSTGAME ROUND 3: Woodward In The Lead With Perfect 3/3 | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
