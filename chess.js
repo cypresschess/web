@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122924507.cms\" />The first game of the Women's Chess World Cup final saw a draw between Divya Deshmukh and Koneru Humpy in Batumi. Divya, playing white, surprised with a new opening, while Humpy's experience ensured a balanced game. Despite tense moments and repeated checks, neither player could break through, setting the stage for a gripping contest.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/womens-chess-world-cup-final-divya-deshmukh-lets-advantage-slip-holds-koneru-humpy-to-hard-fought-draw-in-game-1/articleshow/122924507.cms",
+         "pubDate" : "Sat, 26 Jul 2025 15:16:46",
+         "title" : "Chess | WC Final: Divya lets advantage slip, holds Humpy to draw"
+      },
+      {
+         "description" : "Hey everyone, before we get into this one on the bad and good mistakes, short announcement that you can get access to Grandmaster made courses for free for the next days. Until July 31st, ChessMood has unlocked all of their courses for anyone with a free account. For those of you that don't know, ChessMood []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/mistakes/",
+         "pubDate" : "Sat, 26 Jul 2025 13:00:00",
+         "title" : "Good vs. Bad Mistakes: A Simple Guide"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "Women's World Cup, Finals - Live!"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122920735.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-vs-divya-deshmukh-fide-womens-chess-world-cup-final-2025-game-1-today-live-updates-live-streaming-online/liveblog/122920735.cms",
-         "pubDate" : "Sat, 26 Jul 2025 09:37:20",
-         "title" : "Chess WC Final Live: Divya makes bold start with white pieces against Humpy"
+         "description" : "As regular readers of this column all know, Magnus Carlsen has disappointingly joined that trio of former champions (Morphy, Alekhine, Fischer) who missed their final challenge. While still the World Chess Champion, Magnus Carlsen confirmed in a public statement his intention to decline the defence of his title in 2023. FIDÉ (the world governing body) understood that his []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/magnus-carlsen-the-fallen-angel-fights-on/",
+         "pubDate" : "Sat, 26 Jul 2025 11:32:27",
+         "title" : "Magnus Carlsen: the fallen angel fights on"
       },
       {
          "description" : "The Opening Encyclopedia offers a wide range of exciting repertoire suggestions. But how can you tell if a recommendation truly suits your playing style? The best way is to try it out in a practical match against Fritz 20. With the \"Play Against Database Book\" feature, you can load opening articles, game collections, or analyses directly from the encyclopedia as an opening book and immediately play against Fritz. This lets you test new lines under realistic conditions. Best of all: This week (until July 27, 2025), you can get the Fritz 20 and Opening Encyclopedia bundle at a special Summer Special price.",
@@ -34,12 +50,12 @@ news_feed (
          "title" : "Can teenager Divya's enthusiasm get the better of Humpy's vast experience?"
       },
       {
-         "description" : "GM Alexander Fishbein clinched the U.S. Seniors Championship title by winning a playoff on Friday with GM Vladimir Akopian and GM Alexander Shabalov after all three had finished in a tie for first. Fishbein earned $23,167. GM Andy Woodward was the...",
+         "description" : "GM Alexander Fishbein clinched the U.S. Senior Championship title by winning a playoff on Friday with GM Vladimir Akopian and GM Alexander Shabalov after all three had finished in a tie for first. Fishbein earned $23,167. GM Andy Woodward was the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/alex-fishbein-andy-woodward-zoey-tang-win-national-titles-2025",
-         "pubDate" : "Sat, 26 Jul 2025 04:24:01",
-         "title" : "Alex Fishbein, Andy Woodward, Zoey Tang Win National Titles In St. Louis"
+         "pubDate" : "Sat, 26 Jul 2025 04:24:00",
+         "title" : "Alex Fishbein, Andy Woodward, Zoey Tang Win U.S. Titles In St. Louis"
       },
       {
          "description" : "The Last Chance Qualifier for the Esports World Cup chess event is underway in Riyadh, with 16 players set to battle for the final four places in the main tournament. Held from 24 to 26 July, the qualifier began with a two-day group stage and concludes with a double-elimination knockout on Saturday. The winners will join twelve invited players, including Magnus Carlsen, Hikaru Nakamura and Alireza Firouzja, in the $1.5 million main event starting on 29 July. | Photos: Aditya Sur Roy / ChessBase India",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/esports-world-cup-2025-lcq-groups",
          "pubDate" : "Sat, 26 Jul 2025 04:20:00",
          "title" : "Esports World Cup: Aronian, Bortnyk, Pragg and Niemann top Last Chance Qualifiers' group stage"
+      },
+      {
+         "description" : "Follow live updates from game 1 of the all-Indian final at the Women's Chess World Cup in Batumi, Georgia.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45826368/koneru-humpy-vs-divya-deshmukh-live-blog-updates-commentary-results-2025-fide-womens-chess-world-cup-final-game-1?device=featurephone",
+         "pubDate" : "Sat, 26 Jul 2025 03:00:00",
+         "title" : "Koneru Humpy vs Divya Deshmukh LIVE: Updates, commentary and results from the FIDE Women's Chess World Cup final"
       },
       {
          "description" : "GMs Praggnanandhaa Rameshbabu and Hans Niemann topped Groups C and D of the 2025 Esports World Cup Last Chance Qualifier as the 16-player field was completed for Saturday&#39;s Playoffs. They were joined by GMs Yu Yangyi, Javokhir Sindarov, Anish Giri...",
@@ -936,22 +960,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-team-chess-championship-2025-commenced-in-slovenia/",
          "pubDate" : "Sun, 06 Jul 2025 07:47:14",
          "title" : "European Youth Team Chess Championship 2025 commenced in Slovenia"
-      },
-      {
-         "description" : "The list of things I feel I should, or have to do, is endless. Even though I am self-employed (and clearly very privileged) and have a lot of flexibility on paper, the have-tos and should's make me feel caged. Like I'm running on a treadmil all day long. I'm sure you know that feeling. You []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/mindset-shift/",
-         "pubDate" : "Sat, 05 Jul 2025 13:00:00",
-         "title" : "The Simple Mindset Shift to Enjoy Chess Study Again"
-      },
-      {
-         "description" : "I am grateful to Alexei Zakharov, a vital contributor to the recent outstanding opening salvo in the Elk and Ruby tetralogy on Alexander Alekhine, for drawing my attention to the great world champion's virtually unknown obituary on the sadly premature death of Aron Nimzowitsch, the grandmaster and theoretician who was born in Riga (now Latvia, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/alekhines-tribute-to-nimzowitsch/",
-         "pubDate" : "Sat, 05 Jul 2025 11:47:25",
-         "title" : "Alekhine's tribute to Nimzowitsch"
       }
    ]
 }
