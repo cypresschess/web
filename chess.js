@@ -18,7 +18,7 @@ news_feed (
          "title" : "Women's World Cup, Finals - Live!"
       },
       {
-         "description" : " GM Tan Zhongyi won with the black pieces against GM Lei Tingjie to finish in third place at the 2025 FIDE Women&#39;s World Cup. She qualifies for the 2026 FIDE Women&#39;s Candidates and earns a $25,000 prize. The match for first place, between IM Divy...",
+         "description" : "GM Tan Zhongyi won with the black pieces against GM Lei Tingjie to finish in third place at the 2025 FIDE Women&#39;s World Cup. She qualifies for the 2026 FIDE Women&#39;s Candidates and earns a $25,000 prize. The match for first place, between IM Divya ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-final-game-2",
@@ -960,22 +960,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-womens-world-chess-cup-2025-kicked-off-in-batumi-georgia/",
          "pubDate" : "Mon, 07 Jul 2025 12:14:49",
          "title" : "FIDE Women's World Chess Cup 2025 kicked off in Georgia"
-      },
-      {
-         "description" : " The China YanCheng GM Match took place Wed 2nd Jul to Sun 6th Jul 2025. Wei Yi played Levon Aronian in four classical games followed by four rapid games on the final day. Wei Yi won the match, the classical games counted double the rapid games. Wei Yi won the classical 2.5-1.5 and after winning the first two rapid games he had already secured the match and the remaining two were not played.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/china-yancheng-gm-match-2025",
-         "pubDate" : "Sun, 6 Jul 2025 21:46:00",
-         "title" : "China YanCheng GM Match 2025 - Games and Results"
-      },
-      {
-         "description" : " The 38th Leon Chess tournament took place Fri 4th Jul to Sun 6th Jul 2025. Four game rapid matches followed by blitz tie-breaks if necessary. Viswanathan Anand beat youngster Faustino Oro but only after a tie-break. Le Quang Liem beat Jaime Santos Latasa in the second semifinal and then beat Anand 3-1 in the final.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/38th-leon-chess-2025",
-         "pubDate" : "Sun, 6 Jul 2025 21:44:00",
-         "title" : "38th Leon Chess 2025 - Games and Results"
       }
    ]
 }
