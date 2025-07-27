@@ -18,6 +18,14 @@ news_feed (
          "title" : "Women's World Cup, Finals - Live!"
       },
       {
+         "description" : " GM Tan Zhongyi won with the black pieces against GM Lei Tingjie to finish in third place at the 2025 FIDE Women&#39;s World Cup. She qualifies for the 2026 FIDE Women&#39;s Candidates and earns a $25,000 prize. The match for first place, between IM Divy...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-final-game-2",
+         "pubDate" : "Sun, 27 Jul 2025 09:57:00",
+         "title" : "Tan Finishes 3rd With Black Win"
+      },
+      {
          "description" : "The Mega Database 2025 contains over eleven million games - an impressive archive of chess knowledge. And it keeps growing. Thanks to the weekly Mega Update service, you receive about 5,000 new games each week, directly from tournaments around the world. As with ChessBase 18, keeping the Mega Database up to date requires just a few clicks. In this tutorial episode, we'll show you how.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -770,14 +778,6 @@ news_feed (
          "title" : "ECF Yearbook 2025 - print edition"
       },
       {
-         "description" : "All four&#38;nbsp;2025 FIDE Women&#39;s World Cup round-four tiebreaks were won by Indian players. IM Divya Deshmukh and GM Koneru Humpy were the first to book Quarterfinals spots, defeating GMs Zhu Jiner and Alexandra Kosteniuk respectively 1.5-0.5 in th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-4-tiebreaks",
-         "pubDate" : "Fri, 18 Jul 2025 15:25:00",
-         "title" : "Dream Day For India As All 4 Players Clinch Quarterfinal Spots"
-      },
-      {
          "description" : " 'We are allocating &pound;1.5m to help identify, support and elevate top-tier players' ChessFest in Trafalgar Square attracted more than 20,000 visitors last Sunday, slightly below last year's record 23,000 but still indicating strong public interest. England's grandmasters gave simuls and met amateurs at blitz, living chess was played with professional actors and there was a blindfold exhibition plus a transatlantic prodigy match. Additional ChessFests took place in ­Portishead and Hull, with a ­further one scheduled for Liverpool on Sunday. ChessFest was again sponsored by XTX Markets. <a href=\"https://www.theguardian.com/sport/2025/jul/18/chess-rachel-reeves-announces-15m-fund-as-london-",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -976,14 +976,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/38th-leon-chess-2025",
          "pubDate" : "Sun, 6 Jul 2025 21:44:00",
          "title" : "38th Leon Chess 2025 - Games and Results"
-      },
-      {
-         "description" : " The SuperUnited Croatia Rapid and Blitz took place Wed 2nd Jul to Sun 6th Jul 2025. Players: Magnus, Carlsen, World Champion D Gukesh, Alireza Firouzja, Wesley So, Fabiano Caruana, Jan Krzysztof Duda, R Praggnanandhaa, Nodirbek Abdusattorov, Anish Giri and Ivan Saric. World Chess Champion Gukesh won the rapid portion of the event, he lost against Duda in the first round and then won five in a row with Magnus Carlsen being the last of these wins, he had two draws at the start of the final day before beating Wesley So. In the blitz Magnus Carlsen dominated and Gukesh finished last struggling throughout. The final results were produce by doubling the rapid total and adding that to the blitz to",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superunited-croatia-rapid-and-blitz-2025",
-         "pubDate" : "Sun, 6 Jul 2025 18:38:00",
-         "title" : "SuperUnited Croatia Rapid and Blitz 2025 - Games and Results"
       }
    ]
 }
