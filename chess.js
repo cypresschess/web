@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first half of the \"Clash of Generations\" match between Peter Svidler and Yagız Kaan Erdoğmuş in Marseille has concluded with the score tied at 1&frac12;-1&frac12;. The six-game classical encounter has already featured a decisive win for each player and one strategic draw. From a sharp French Defence to dynamic Sicilian play, both contenders have shown their readiness to fight in complex positions. | Photo: Harry Gielen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clash-of-generations-svidler-erdogmus-g3",
+         "pubDate" : "Sun, 27 Jul 2025 03:00:00",
+         "title" : "Svidler and Erdogmus trade wins at Clash of Generations in Marseille"
+      },
+      {
          "description" : "The first games of the Women's World Cup final and third-place match in Batumi both ended in draws. Divya Deshmukh missed a promising attacking chance against Humpy Koneru, while Tan Zhongyi and Lei Tingjie played a balanced game in the Exchange Variation of the Queen's Gambit Declined. The second classical games will be played tomorrow, with Humpy and Lei having the white pieces. A win would secure the match without tiebreaks. | Photo: Anna Shtourman / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-world-cup-2025-r7g1",
          "pubDate" : "Sat, 26 Jul 2025 22:45:00",
          "title" : "Women's World Cup Finals: Divya misses big chance"
+      },
+      {
+         "description" : "16-year-old GM Ediz Gurel impressively scored 161 points in Saturday&#39;s Bullet Brawl and 6/8 against 29-time winner GM Daniel Naroditsky to clinch his fourth career title and the $400 first prize. Naroditsky and GM Andrew Tang challenged Gurel bu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-july-26-2025",
+         "pubDate" : "Sat, 26 Jul 2025 17:58:00",
+         "title" : "Gurel Scores 6/8 Against Naroditsky, Blazes To 4th Bullet Brawl Title"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122925546.cms\" />The first game of the FIDE Women's World Cup final witnessed a tense draw between Divya Deshmukh and Koneru Humpy in Batumi. Despite a promising start with the white pieces, Divya's initial advantage slipped as Humpy showcased her experience with precise defense. The 41-move game concluded through repetition, leaving Divya visibly disappointed for missing an early opportunity.",
@@ -744,14 +760,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jul/18/chess-rachel-reeves-announces-15m-fund-as-london-chessfest-attracts-20000-visitors",
          "pubDate" : "Fri, 18 Jul 2025 07:00:46",
          "title" : "Chess: Rachel Reeves announces &pound;1.5m fund as London ChessFest attracts 20,000 visitors"
-      },
-      {
-         "description" : "The International Chess Federation (FIDE) has announced a strong field for the highly anticipated FIDE Grand Swiss 2025, scheduled to take place September 3-16 in Samarkand, Uzbekistan. 2025 has been packed with great chess events, but many more...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gukesh-headlines-spectacular-fide-grand-swiss-lineup",
-         "pubDate" : "Fri, 18 Jul 2025 05:51:02",
-         "title" : "World Champion Gukesh Headlines Spectacular Grand Swiss Lineup"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-3-woodward-in-the-lead-with-perfect-3-3-2025-u-s-national-championships/\">POSTGAME ROUND 3: Woodward In The Lead With Perfect 3/3 | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
