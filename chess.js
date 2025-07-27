@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122936917.cms\" />The FIDE Women's World Cup 2025 final between GM Koneru Humpy and IM Divya Deshmukh remains undecided after a second draw in their classical match in Batumi. The tense encounter saw a cautious game, leading to a repetition of moves and a stalemate. The title will now be determined in Monday's rapid tie-breaks, pitting Humpy's experience against Divya's youthful talent.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-fide-womens-world-cup-2025-final-koneru-humpy-divya-deshmukh-head-to-tie-break-after-game-2-draw/articleshow/122936917.cms",
+         "pubDate" : "Sun, 27 Jul 2025 14:47:18",
+         "title" : "Chess | Women's WC final: Humpy, Divya head to tie-break after Game 2 draw"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
          "pubDate" : "Sun, 27 Jul 2025 12:45:00",
          "title" : "Women's World Cup, Finals - Live!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122934464.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-vs-divya-deshmukh-live-updates-fide-womens-chess-world-cup-final-2025-game-2-today-live-streaming/liveblog/122934464.cms",
-         "pubDate" : "Sun, 27 Jul 2025 10:14:32",
-         "title" : "Chess WC Final Live: Humpy plays whites, one win away from historic title"
       },
       {
          "description" : "The Mega Database 2025 contains over eleven million games - an impressive archive of chess knowledge. And it keeps growing. Thanks to the weekly Mega Update service, you receive about 5,000 new games each week, directly from tournaments around the world. As with ChessBase 18, keeping the Mega Database up to date requires just a few clicks. In this tutorial episode, we'll show you how.",
@@ -48,6 +48,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-esports-world-cup-lcq-day-3",
          "pubDate" : "Sun, 27 Jul 2025 02:34:05",
          "title" : "Giri, Aronian, Nihal, Sindarov Grab Final Spots In Esports World Cup"
+      },
+      {
+         "description" : "Follow all the updates from Game 2 of FIDE Women's World Cup final between Koneru Humpy and Divya Deshmukh.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45832839/koneru-humpy-vs-divya-deshmukh-live-game-2-blog-updates-commentary-result-2025-fide-womens-chess-world-cup-final?device=featurephone",
+         "pubDate" : "Sat, 26 Jul 2025 23:45:00",
+         "title" : "Koneru Humpy vs Divya Deshmukh LIVE Game 2: Updates, commentary, result from the 2025 FIDE Women's Chess World Cup final"
       },
       {
          "description" : "The first games of the Women's World Cup final and third-place match in Batumi both ended in draws. Divya Deshmukh missed a promising attacking chance against Humpy Koneru, while Tan Zhongyi and Lei Tingjie played a balanced game in the Exchange Variation of the Queen's Gambit Declined. The second classical games will be played tomorrow, with Humpy and Lei having the white pieces. A win would secure the match without tiebreaks. | Photo: Anna Shtourman / FIDE",
