@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
+         "pubDate" : "Sun, 27 Jul 2025 12:45:00",
+         "title" : "Women's World Cup, Finals - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122934464.cms\" />",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-vs-divya-deshmukh-live-updates-fide-womens-chess-world-cup-final-2025-game-2-today-live-streaming/liveblog/122934464.cms",
+         "pubDate" : "Sun, 27 Jul 2025 10:14:32",
+         "title" : "Chess WC Final Live: Humpy plays whites, one win away from historic title"
+      },
+      {
          "description" : "The Mega Database 2025 contains over eleven million games - an impressive archive of chess knowledge. And it keeps growing. Thanks to the weekly Mega Update service, you receive about 5,000 new games each week, directly from tournaments around the world. As with ChessBase 18, keeping the Mega Database up to date requires just a few clicks. In this tutorial episode, we'll show you how.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +42,12 @@ news_feed (
          "title" : "Svidler and Erdogmus trade wins at Clash of Generations in Marseille"
       },
       {
-         "description" : "Follow all the updates from Game 2 of FIDE Women's World Cup final between Koneru Humpy and Divya Deshmukh.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45832839/koneru-humpy-vs-divya-deshmukh-live-game-2-blog-updates-commentary-result-2025-fide-womens-chess-world-cup-final?device=featurephone",
-         "pubDate" : "Sat, 26 Jul 2025 23:45:00",
-         "title" : "Koneru Humpy vs Divya Deshmukh LIVE Game 2: Updates, commentary, result from the 2025 FIDE Women's Chess World Cup final"
+         "description" : "GMs Anish Giri, Levon Aronian, Nihal Sarin, and Javokhir Sindarov have taken the final four spots in the $1.5 million main chess event of the 2025 Esports World Cup. Giri won in the most dramatic fashion, flagging GM Hans Niemann in a losing posit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-esports-world-cup-lcq-day-3",
+         "pubDate" : "Sun, 27 Jul 2025 02:34:05",
+         "title" : "Giri, Aronian, Nihal, Sindarov Grab Final Spots In Esports World Cup"
       },
       {
          "description" : "The first games of the Women's World Cup final and third-place match in Batumi both ended in draws. Divya Deshmukh missed a promising attacking chance against Humpy Koneru, while Tan Zhongyi and Lei Tingjie played a balanced game in the Exchange Variation of the Queen's Gambit Declined. The second classical games will be played tomorrow, with Humpy and Lei having the white pieces. A win would secure the match without tiebreaks. | Photo: Anna Shtourman / FIDE",
@@ -602,14 +618,6 @@ news_feed (
          "title" : "CHESS | FIDE WC 2025 in India; Top players to battle for spot in 2026 Candidates"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122806480.cms\" />Grandmaster Koneru Humpy advanced to the FIDE Women's Chess World Cup semifinals, defeating China's Yuxin Song. She will face top seed Lei Tingjie, who also secured a decisive victory. D Harika and Divya Deshmukh's match ended in a draw, necessitating tiebreaks. Vaishali Rameshbabu's campaign concluded with a loss to China's Tan Zhongyi after a lengthy battle.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-womens-world-cup-koneru-humpy-on-song-enters-semifinals/articleshow/122806480.cms",
-         "pubDate" : "Mon, 21 Jul 2025 04:55:11",
-         "title" : "FIDE Women's World Cup: Koneru Humpy on song, enters semifinals"
-      },
-      {
          "description" : "Play US Chess Rated Correspondence Chess!Did you know that US Chess offers rated Correspondence Chess events?Correspondence Chess (CC) is a great way to improve your game and have fun. You don't even have to leave home! The time control for all US Chess CC events is 30 days for each 10 moves, allowing you ample time to really study each position in full, getting to know your openings deeper, improving your middlegame analysis and find all the nuances in the endgame. However, US Chess CC does NOT allow the use of computer programs or algorithms to come up with moves for you, you must do that by yourself.We offer CC events via postal mail, email or even on a chess server! Here is a quick rundo",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-round-4-tiebreaks",
          "pubDate" : "Fri, 18 Jul 2025 15:25:00",
          "title" : "Dream Day For India As All 4 Players Clinch Quarterfinal Spots"
-      },
-      {
-         "description" : "For the third time in seven weeks, Freestyle Friday was almost over before it started on July 18, with GM Dmitry Andreikin becoming the third player to take the tournament on a perfect 11/11 score, following GM Jeffery Xiong on June 6 and GM Hikar...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andreikin-wins-freestyle-friday-july-18-2025",
-         "pubDate" : "Fri, 18 Jul 2025 11:17:16",
-         "title" : "Perfect Score Encore As Andreikin Joins 11/11 Freestyle Friday Crew"
       },
       {
          "description" : " 'We are allocating &pound;1.5m to help identify, support and elevate top-tier players' ChessFest in Trafalgar Square attracted more than 20,000 visitors last Sunday, slightly below last year's record 23,000 but still indicating strong public interest. England's grandmasters gave simuls and met amateurs at blitz, living chess was played with professional actors and there was a blindfold exhibition plus a transatlantic prodigy match. Additional ChessFests took place in ­Portishead and Hull, with a ­further one scheduled for Liverpool on Sunday. ChessFest was again sponsored by XTX Markets. <a href=\"https://www.theguardian.com/sport/2025/jul/18/chess-rachel-reeves-announces-15m-fund-as-london-",
@@ -976,14 +976,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/superunited-croatia-rapid-and-blitz-2025",
          "pubDate" : "Sun, 6 Jul 2025 18:38:00",
          "title" : "SuperUnited Croatia Rapid and Blitz 2025 - Games and Results"
-      },
-      {
-         "description" : "The European Youth Team Chess Championship 2025 commenced yesterday in Terme Catez, Slovenia! The Opening ceremony of the event took place shortly before the start of the first round with the attendance of the Deputy Mayor of Brezice Mojca Florjanic, ECU President Zurab Azmaiparashvili, ECU Vice-President Alojzije Jankovic, Vice-President of the Slovenian Chess Federation Mirko Bandelj, Secretary General of the Slovenian Chess Federation Nina Rob, ECU Tournament Director Petr Pisk, FIDE Secretary General Lukasz Turlej and other distinguished guests. Vice-President []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2025-commenced-in-slovenia/",
-         "pubDate" : "Sun, 06 Jul 2025 07:47:14",
-         "title" : "European Youth Team Chess Championship 2025 commenced in Slovenia"
       }
    ]
 }
