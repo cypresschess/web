@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Mega Database 2025 contains over eleven million games - an impressive archive of chess knowledge. And it keeps growing. Thanks to the weekly Mega Update service, you receive about 5,000 new games each week, directly from tournaments around the world. As with ChessBase 18, keeping the Mega Database up to date requires just a few clicks. In this tutorial episode, we'll show you how.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-24-always-get-the-latest-games-via-update",
+         "pubDate" : "Sun, 27 Jul 2025 09:00:00",
+         "title" : "ChessBase 18 - Tips for beginners, part 24: Always get the latest games via update"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122932568.cms\" />The all-India FIDE Women's Chess World Cup final began with a Queen's Gambit, as Koneru Humpy drew with Divya Deshmukh in a 41-move game. Divya, playing with white, missed a key opportunity in the 14th move, allowing Humpy to equalize after a tense endgame.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-koneru-humpy-final-starts-with-veteran-accepting-queens-gambit-challenge/articleshow/122932568.cms",
+         "pubDate" : "Sun, 27 Jul 2025 06:51:39",
+         "title" : "Divya-Humpy final starts with veteran accepting Queen's Gambit challenge"
+      },
+      {
          "description" : "The first half of the \"Clash of Generations\" match between Peter Svidler and Yagız Kaan Erdoğmuş in Marseille has concluded with the score tied at 1&frac12;-1&frac12;. The six-game classical encounter has already featured a decisive win for each player and one strategic draw. From a sharp French Defence to dynamic Sicilian play, both contenders have shown their readiness to fight in complex positions. | Photo: Harry Gielen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/clash-of-generations-svidler-erdogmus-g3",
          "pubDate" : "Sun, 27 Jul 2025 03:00:00",
          "title" : "Svidler and Erdogmus trade wins at Clash of Generations in Marseille"
+      },
+      {
+         "description" : "Follow all the updates from Game 2 of FIDE Women's World Cup final between Koneru Humpy and Divya Deshmukh.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45832839/koneru-humpy-vs-divya-deshmukh-live-game-2-blog-updates-commentary-result-2025-fide-womens-chess-world-cup-final?device=featurephone",
+         "pubDate" : "Sat, 26 Jul 2025 23:45:00",
+         "title" : "Koneru Humpy vs Divya Deshmukh LIVE Game 2: Updates, commentary, result from the 2025 FIDE Women's Chess World Cup final"
       },
       {
          "description" : "The first games of the Women's World Cup final and third-place match in Batumi both ended in draws. Divya Deshmukh missed a promising attacking chance against Humpy Koneru, while Tan Zhongyi and Lei Tingjie played a balanced game in the Exchange Variation of the Queen's Gambit Declined. The second classical games will be played tomorrow, with Humpy and Lei having the white pieces. A win would secure the match without tiebreaks. | Photo: Anna Shtourman / FIDE",
@@ -600,14 +624,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/divya-joins-top-seeds-womens-world-cup-semi-finals",
          "pubDate" : "Mon, 21 Jul 2025 00:00:00",
          "title" : "Divya Joins Top Seeds in Women's World Cup Semi-Finals"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122800328.cms\" />Koneru Humpy made history as the first Indian woman to reach the FIDE Women's Chess World Cup semifinals, securing her spot with a draw against China's Song Yuxin. In another quarterfinal, Harika Dronavalli and Divya Deshmukh's match went to a tiebreaker. Vaishali Rameshbabu exited after losing to Tan Zhongyi.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-creates-history-becomes-first-indian-woman-to-enter-fide-womens-world-cup-semifinals/articleshow/122800328.cms",
-         "pubDate" : "Sun, 20 Jul 2025 18:15:44",
-         "title" : "Koneru Humpy creates history, becomes first Indian woman to enter FIDE WC semis"
       },
       {
          "description" : "GM Levon Aronian has been crowned the $200,000 winner of the Freestyle Chess Grand Slam Las Vegas on Sunday after overcoming GM Hans Niemann 1.5-0.5 in the Final. Aronian held firm in an opposite-colored bishop ending in the first, before putting ...",
