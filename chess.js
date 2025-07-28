@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The US Junior, Girls and Seniors took place in St Louis Tue 15th to Fri 25th Jul 2025. Andy Woodward won his first title with 6.5/9 half a point clear of Brewington Hardaway and Abhimanyu Mishra. Zoey Tang won the girls event with 7/9 half a point clear of Megan Althea Paragua. Only the seniors went to a tie-break where Alex Fishbein beat Alexander Shabalov and drew with Vladimir Akopian in the tie-breaks after all scored 5.5/9.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/us-junior-girls-and-seniors-2025",
+         "pubDate" : "Mon, 28 Jul 2025 18:55:00",
+         "title" : "US Junior, Girls and Seniors 2025 - Games and Results"
+      },
+      {
+         "description" : " The FIDE Women's World Cup took place in Batumi, Georgia, Sun 6th Jul to Monday 28th Jul 2025. This was a seven round knockout with 107 players. The top seeds were Lei Tingjie, Zhu Jiner, Tan Zhongyi, Humpy Koneru, Anna Muzychuk etc. The event was won by 15th seed IM Divya Deshmukh who beat Humpy Koneru in a rapid tie-break in the final, Deshmukh had missed a big chance in the first game of the regular time control. She won the event, a place in the women's Candidates and the GM title. Koneru and Tan Zhongyi join Deshmukh in the women's Candidates. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-world-cup-2025",
+         "pubDate" : "Mon, 28 Jul 2025 18:40:00",
+         "title" : "FIDE Women's World Cup 2025 - Games and Results"
+      },
+      {
          "description" : "This practical course offers a clean and effective response to the Sicilian Defense. By playing 2.c3, you sidestep heavy theory and gain early central control, logical development, and aggressive yet manageable positions. The course includes structured explanations, model games, and interactive training tools to help you confidently master the Alapin and outplay your opponents.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,12 +138,12 @@ news_feed (
          "title" : "Glorney Cup - live games / results links"
       },
       {
-         "description" : "It must be a giddy feeling to be associated with Indian chess right now, as Divya Deshmukh joins the list of title holders",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45841194/divya-deshmukh-indian-chess-latest-win-world-cup-crown-just-start?device=featurephone",
-         "pubDate" : "Mon, 28 Jul 2025 10:04:00",
-         "title" : "Indian chess's latest W: World Cup crown just the start for Divya Deshmukh"
+         "description" : "GM Divya Deshmukh defeated GM Koneru Humpy 1.5-0.5 in tiebreaks to win the 2025 FIDE Women&#39;s World Cup. She earns not only $50,000, with $35,000 going to the runner-up, but she is also awarded the grandmaster title. Nineteen years old, she is the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/divya-wins-2025-fide-womens-world-cup-final-tiebreaks",
+         "pubDate" : "Mon, 28 Jul 2025 08:59:00",
+         "title" : "Divya Wins Women's World Cup, Earns Grandmaster Title"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122947152.cms\" />Divya Deshmukh and Koneru Humpy played to a draw in the second classical game of the FIDE Women's Chess World Cup final, setting the stage for tiebreaks. Despite Humpy's slight opening advantage, Divya's solid defense and strategic pawn structure led to a balanced game. The tiebreaks will determine the winner in rapid and blitz formats.",
@@ -152,6 +168,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/esports-world-cup-2025-lcq-ko",
          "pubDate" : "Mon, 28 Jul 2025 01:40:00",
          "title" : "Esports World Cup: Nihal, Sindarov, Aronian and Giri qualify to main event"
+      },
+      {
+         "description" : "In a storybook ending, IM Divya Deshmukh became the first Indian player ever to win the FIDE Women's World Cup, defeating Indian GM Humpy Koneru 2&frac12;-1&frac12; after Monday's tie-breaks. The win directly grants Divya the GM title, making the 19-year-old the fifth Indian woman to earn the GM title and the second youngest, behind only Humpy herself! Both players have also qualified for the FIDE Women's World Championship Candidates Tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Divya Deshmukh entered as the 15th-seeded player, but won the World Cup by defeating the second-, third-, and fourth-highest-rated players (Photo courtesy of Ann",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/divya-wins-womens-world-cup-becomes-gm-and-qualifies-candidates",
+         "pubDate" : "Mon, 28 Jul 2025 00:00:00",
+         "title" : "Divya Wins Women's World Cup, Becomes GM, and Qualifies for Candidates"
       },
       {
          "description" : "Divya Deshmukh won the rapid tie-breaks to be crowned the winner of the Women's World Cup.",
@@ -754,14 +778,6 @@ news_feed (
          "title" : "POSTGAME ROUND 5: All About the Juniors"
       },
       {
-         "description" : "Capping off a week of fighting chess in the 2025 U.S. Junior, Girls' Junior, and Senior Championships, we saw \"only\" six decisive results out of 15 games in Saturday's fifth and final round before Sunday's rest day.GMs Andy Woodward and Vladimir Akopian maintained their leads in the Junior and Senior, respectively, while FM Megan Paragua emerged as the sole leader in the Girls' Junior after top-seeded WGM Zoey Tang upset previous co-leader FM Ruiyang Yan with the black pieces in a model Sicilian. Junior: Woodward leads still-leading GMsThe most peaceful of the sections featured only one decisive result, with last year's runner-up IM Justin Wang upsetting GM Brewington Hardaway. <br> <br> <br",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/paragua-claims-lead-national-championships-reach-rest-day",
-         "pubDate" : "Sun, 20 Jul 2025 00:00:00",
-         "title" : "Paragua Claims Lead as National Championships Reach Rest Day"
-      },
-      {
          "description" : "GM Daniel Naroditsky has returned to the top spot in the latest edition of Bullet Brawl, two months after winning his last title. Naroditsky outpaced 105 titled players, including the second- and third-placed GM Oleksandr Bortnyk and IM Yoseph Tah...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -818,14 +834,6 @@ news_feed (
          "title" : "POSTGAME ROUND 4: Mishra's Gamble Pays Off!"
       },
       {
-         "description" : "GM Hans Niemann and Levon Aronian will be at least $140,000 richer when the Freestyle Chess Grand Slam Las Vegas comes to its conclusion on Sunday after the pair won their respective Semifinals, setting up a Final that was &#34;written in the stars,&#34; ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/freestyle-chess-semi-final-stage",
-         "pubDate" : "Fri, 18 Jul 2025 22:00:00",
-         "title" : "Niemann Fells Caruana, Books Finals Clash With Comeback King Aronian"
-      },
-      {
          "description" : "The ECF has a limited stock of printed 2025 Yearbooks priced at &pound;10.00 for members and &pound;12.00 for non-members per issue, including second class postage. A form to order the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -872,14 +880,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/join-the-global-online-celebration-for-international-chess-day/",
          "pubDate" : "Wed, 16 Jul 2025 08:31:36",
          "title" : "Join the Global Online Celebration for International Chess Day"
-      },
-      {
-         "description" : " The US Junior, Girls and Seniors takes place in St Louis Tue 15th to Fri 25th Jul 2025. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/us-junior-girls-and-seniors-2025",
-         "pubDate" : "Wed, 16 Jul 2025 00:54:00",
-         "title" : "US Junior, Girls and Seniors 2025 - Games and Results"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-national-championships-postgame-round-1-an-exciting-start/\">POSTGAME ROUND 1: An Exciting Start | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -976,14 +976,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-team-chess-championship-2025-reaches-its-midpoint/",
          "pubDate" : "Tue, 08 Jul 2025 12:21:49",
          "title" : "European Youth Team Chess Championship 2025 reaches its midpoint"
-      },
-      {
-         "description" : " The FIDE Women's World Cup takes place in Batumi, Georgia, Sun 6th Jul to Sun 27th Jul 2025. This is a seven round knockout with 107 players. The top seeds are Lei Tingjie, Zhu Jiner, Tan Zhongyi, Humpy Koneru, Anna Muzychuk etc but the top 21 players don't enter the competition until round 2. The event is wide open with for example Carissa Yip, Alice Lee, Anna Ushenina not being highly seeded dbut surely having a chance to do well.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-world-cup-2025",
-         "pubDate" : "Mon, 7 Jul 2025 21:01:00",
-         "title" : "FIDE Women's World Cup 2025 - Games and Results"
       }
    ]
 }
