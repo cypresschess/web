@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The best way to play a good (and successful) game is to start with a strong opening. Svitlana Dimchenko demonstrates how to succeed with the versatile King's Indian Attack-a dangerous weapon that's easy to learn. For those who want more, there's ChessBase Magazine-the best and most comprehensive digital chess magazine, featuring analyses by top players. Get it at a special price during this week's Summer Special (July 28 to August 3)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/this-week-s-summer-special-king-s-indian-attack-and-chessbase-magazine",
+         "pubDate" : "Mon, 28 Jul 2025 12:52:16",
+         "title" : "This week's Summer Special: King's Indian Attack and ChessBase Magazine"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122953244.cms\" />Viswanathan Anand congratulated Divya Deshmukh, 19, on her FIDE Women's World Cup victory over Koneru Humpy, which also earned her the Grandmaster title and a spot in the Candidates Tournament. Anand praised Humpy's fighting spirit, acknowledging her status as a great champion.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-who-said-what-on-19-year-old-divya-deshmukhs-fide-world-cup-win-celebration-of-indian-chess/articleshow/122953244.cms",
+         "pubDate" : "Mon, 28 Jul 2025 11:22:02",
+         "title" : "Who said what on Divya's FIDE World Cup win - 'Celebration of Indian chess'"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122953025.cms\" />Divya Deshmukh, a 19-year-old chess prodigy, achieved a stunning victory at the FIDE Women's World Cup, defeating Koneru Humpy in a thrilling tie-break. This triumph not only secured her the championship but also earned her the coveted Grandmaster title, making her India's fourth woman to reach this milestone.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-19-year-old-divya-deshmukh-breaks-down-in-tears-hugs-mother-after-historic-world-cup-win/articleshow/122953025.cms",
+         "pubDate" : "Mon, 28 Jul 2025 11:19:59",
+         "title" : "Watch: Divya breaks down in tears, hugs mother after historic World Cup win"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122952374.cms\" />In a stunning upset, 19-year-old Divya Deshmukh clinched the FIDE Women's World Cup title, defeating Koneru Humpy in rapid tiebreaks. This victory not only secured her the World Cup but also earned her final Grandmaster norm, making her the fourth Indian woman to achieve the prestigious GM title.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tears-of-joy-divya-deshmukh-breaks-down-after-winning-fide-womens-world-cup-watch/articleshow/122952374.cms",
+         "pubDate" : "Mon, 28 Jul 2025 10:55:29",
+         "title" : "Tears of joy! Divya Deshmukh breaks down after winning FIDE Women's World Cup - Watch"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122952287.cms\" />In a stunning victory, 19-year-old Divya Deshmukh clinched the FIDE Women's World Cup title, defeating India no. 1 Koneru Humpy in rapid tiebreaks in Batumi, Georgia. The 15th seed's remarkable performance saw her overcome formidable opponents. This triumph not only crowns her World Cup Champion but also secures her final Grandmaster norm.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-historic-19-year-old-divya-deshmukh-crowned-fide-womens-world-cup-champion-becomes-indias-88th-gm/articleshow/122952287.cms",
+         "pubDate" : "Mon, 28 Jul 2025 10:42:34",
+         "title" : "Historic! 19-yo Divya crowned Women's WC champion, becomes India's 88th GM"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122952278.cms\" />In a stunning victory, 19-year-old Diya Deshmukh triumphed over Koneru Humpy at the FIDE Women's World Cup in Georgia. Deshmukh's composed play under pressure secured her the title and also earned her the prestigious Grandmaster title, making her India's 88th Grandmaster and only the fourth Indian woman to achieve this feat.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-becomes-chess-world-champion-how-much-prize-money-did-she-win/articleshow/122952278.cms",
+         "pubDate" : "Mon, 28 Jul 2025 10:39:06",
+         "title" : "Divya Deshmukh wins Chess World Cup: How much prize money did she win?"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/divya-deshmukh-beats-koneru-humpy-in-tiebreaks-to-become-the-fide-womens-world-cup-champion-2025/",
+         "pubDate" : "Mon, 28 Jul 2025 10:30:16",
+         "title" : "Divya Deshmukh beats Koneru Humpy in tiebreaks to become the FIDE Women's World Cup Champion 2025"
+      },
+      {
+         "description" : "Last Updated on 28th July 2025 by WebAdmin Chess.com Glorney:&#160;https://www.chess.com/events/2025-glorney-cup-glorney-u18/games Gilbert:&#160;https://www.chess.com/events/2025-glorney-cup-gilbert-u18-girls/games Robinson:&#160;https://www.chess.com/events/2025-glorney-cup-robinson-u14/games Stokes: https://www.chess.com/events/2025-glorney-cup-stokes-u12/games &#160; Lichess.org&#160; Glorney:&#160;https://lichess.org/broadcast/2025-glorney-cup-under-18/u9m7vRfj Gilbert:&#160;https://lichess.org/broadcast/2025-glorney-cup-gilbert-under-18-girls/NIZZqTH9 Robinson:&#160;https://lichess.org/broadcast/2025-glorney-cup-robinson-under-14/cIMeVYGT Stokes:&#160;https://lichess.org/broadcast/2025-",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/glorney-cup-live-game-links/",
+         "pubDate" : "Mon, 28 Jul 2025 10:27:35",
+         "title" : "Glorney Cup - live games / results links"
+      },
+      {
+         "description" : "The Women's World Cup in Batumi, Georgia, could hardly have ended more dramatically. The two games with classic time control in the all-Indian final between Divya Deshmukh and Humpy Koneru ended in a draw, so now the World Cup title will be decided in a tiebreak. Live coverage with commentary starts at 10 a.m. CEST. (4.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
+         "pubDate" : "Mon, 28 Jul 2025 09:45:00",
+         "title" : "Women's World Cup, Final: Tiebreak - Live!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122947152.cms\" />Divya Deshmukh and Koneru Humpy played to a draw in the second classical game of the FIDE Women's Chess World Cup final, setting the stage for tiebreaks. Despite Humpy's slight opening advantage, Divya's solid defense and strategic pawn structure led to a balanced game. The tiebreaks will determine the winner in rapid and blitz formats.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,6 +96,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/esports-world-cup-2025-lcq-ko",
          "pubDate" : "Mon, 28 Jul 2025 01:40:00",
          "title" : "Esports World Cup: Nihal, Sindarov, Aronian and Giri qualify to main event"
+      },
+      {
+         "description" : "Catch all the updates from FIDE Women's World Cup final between Divya Deshmukh and Koneru Humpy.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45839502/koneru-humpy-vs-divya-deshmukh-live-tiebreakers-updates-commentary-result-2025-fide-womens-chess-world-cup-final?device=featurephone",
+         "pubDate" : "Sun, 27 Jul 2025 23:00:00",
+         "title" : "Koneru Humpy vs Divya Deshmukh LIVE tiebreakers: Updates, commentary, result from the 2025 FIDE Women's Chess World Cup final"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122936917.cms\" />The FIDE Women's World Cup 2025 final between GM Koneru Humpy and IM Divya Deshmukh remains undecided after a second draw in their classical match in Batumi. The tense encounter saw a cautious game, leading to a repetition of moves and a stalemate. The title will now be determined in Monday's rapid tie-breaks, pitting Humpy's experience against Divya's youthful talent.",
@@ -70,7 +150,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-esports-world-cup-lcq-day-3",
-         "pubDate" : "Sun, 27 Jul 2025 02:34:05",
+         "pubDate" : "Sun, 27 Jul 2025 02:34:00",
          "title" : "Giri, Aronian, Nihal, Sindarov Grab Final Spots In Esports World Cup"
       },
       {
@@ -402,14 +482,6 @@ news_feed (
          "title" : "FIDE Women's World Cup: Divya Deshmukh creates history, qualifies for Candidates tournament"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122864193.cms\" />India's Divya Deshmukh made history. She beat former world champion Tan Zhongyi. Divya secured a spot in the FIDE Women's World Cup final. Koneru Humpy faces a tie-break. She drew with Lei Tingjie. The tournament highlights Asia's strength in women's chess. An Indian will play in the next Women's Candidates Tournament. Fans hope for an all-Indian final.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-divya-deshmukh-in-tears-after-becoming-first-indian-to-reach-fide-womens-world-cup-final-watch/articleshow/122864193.cms",
-         "pubDate" : "Wed, 23 Jul 2025 17:14:23",
-         "title" : "Divya in tears after becoming first Indian to reach WC final - Watch"
-      },
-      {
          "description" : "The 19-year-old is the first Indian to reach the final of the Women's Chess World Cup.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -458,14 +530,6 @@ news_feed (
          "title" : "ECU Statement on FIDE Council Decision"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122850316.cms\" />In the FIDE Women's World Cup semifinals, Indian players Divya Deshmukh and Koneru Humpy demonstrated strong defensive skills, securing draws against higher-ranked Chinese Grandmasters Tan Zhongyi and Lei Tingjie, respectively. Divya's solid preparation with black pieces led to a draw in 30 moves, while Humpy capitalized on Tingjie's errors to achieve a 38-move draw.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-divya-deshmukh-koneru-humpy-hold-higher-ranked-chinese-gms-in-semifinal-game-1/articleshow/122850316.cms",
-         "pubDate" : "Wed, 23 Jul 2025 04:51:24",
-         "title" : "Chess | Divya, Humpy hold higher-ranked Chinese GMs in semifinal Game 1"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-7-day-of-the-spoilers-2025-us-national-championships/\">POSTGAME ROUND 7: Day of the Spoilers</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -490,28 +554,12 @@ news_feed (
          "title" : "Tie-Breaks Loom With Two Rounds Remaining in National Championships"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122841441.cms\" />In their first games of the FIDE Women's World Cup semifinals, India's Koneru Humpy and Divya Deshmukh secured draws against their Chinese opponents, Tingjie Lei and Zhongyi Tan, respectively. Humpy, playing black, comfortably neutralized Lei, while Deshmukh's solid defense thwarted Tan's attempts. With the return leg seeing both Indians playing white, their chances of advancing look promising.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-fide-womens-world-cup-india-stars-koneru-humpy-divya-deshmukh-hold-firm-with-semifinal-first-game-draws/articleshow/122841441.cms",
-         "pubDate" : "Tue, 22 Jul 2025 16:36:48",
-         "title" : "FIDE Women's World Cup: India stars Humpy, Divya hold firm with semifinal draws"
-      },
-      {
          "description" : "Four cities in two continents played over-the-board chess against one another on International Chess Day (July 20). The event, Portals x Chess.com, was a celebration of chess that connected Dublin, Ireland; Lublin, Poland; Philadelphia, U.S.A.; an...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-portals-intl-chess-day",
          "pubDate" : "Tue, 22 Jul 2025 10:57:00",
          "title" : "Portals x Chess.com Connects 4 Cities On International Chess Day"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122833959.cms\" />At the Freestyle Chess Grand Slam in Las Vegas, Levon Aronian secured his first title, defeating Hans Niemann in the final and earning $200,000. A notable moment occurred when Magnus Carlsen conspicuously did not applaud Niemann during the award ceremony, reigniting their ongoing feud, but warmly applauded Aronian. Carlsen recovered to win the third-place match against Nakamura.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-magnus-carlsens-awkward-reaction-to-hans-niemanns-entry-at-award-ceremony-goes-viral-watch/articleshow/122833959.cms",
-         "pubDate" : "Tue, 22 Jul 2025 10:19:41",
-         "title" : "Chess | Carlsen's awkward reaction to Niemann's entry at award ceremony goes viral - Watch"
       },
       {
          "description" : "With no decisive results after game one of the 2025 FIDE Women&#39;s World Cup Semifinals, tensions rise as we enter the second and potentially last game of each match. IM Divya Deshmukh held a quick draw with Black against GM Tan Zhongyi, while GM Ko...",
@@ -528,14 +576,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/new-english-grandmaster/",
          "pubDate" : "Tue, 22 Jul 2025 08:26:50",
          "title" : "New English Grandmaster"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122827631.cms\" />Divya Deshmukh, India's World Junior Champion, advanced to the FIDE Women's World Cup semifinals in Batumi by defeating veteran Grandmaster D Harika in rapid tiebreaks. The 19-year-old's victory brings her closer to qualifying for the Women's Candidates tournament. She will now face China's Tan Zhongyi, while Koneru Humpy will compete against top seed Lei Tingjie.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/inspired-divya-deshmukh-takes-down-harika-in-rapid/articleshow/122827631.cms",
-         "pubDate" : "Tue, 22 Jul 2025 04:54:43",
-         "title" : "Inspired Divya Deshmukh takes down Harika in rapid"
       },
       {
          "description" : " Three years ago, former NBA star Derrick Rose had an idea to host a chess tournament featuring NBA players in Las Vegas. He billed it as a &#8220;Chesstival&#8221; with a high-stakes prize fund. The idea drew similarities to Maurice Ashley's Millionaire franchise, which had a first prize of $100,000. Video by Freestyle Chess Rose, who The post <a href=\"https://thechessdrum.net/blog/2025/07/21/derrick-rose-chesstival-freestyle-rousing-success/\">Derrick Rose Chesstival Freestyle rousing success!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -834,7 +874,7 @@ news_feed (
          "title" : "POSTGAME ROUND 1: An Exciting Start | 2025 U.S. National Championships"
       },
       {
-         "description" : "Free monthly magazine! Get a rating! Join England's chess community! Become a member today at https://www.englishchess.org.uk/join-us/",
+         "description" : "Last Updated on 28th July 2025 by WebAdmin Free monthly magazine! Get a rating! Join England's chess community! Become a member today at https://www.englishchess.org.uk/join-us/",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/are-you-game-summer-special-membership-offer-with-chessmood/",
@@ -882,7 +922,7 @@ news_feed (
          "title" : "European Youth Team Chess Champions 2025 crowned in Slovenia"
       },
       {
-         "description" : "Last Updated on 11th July 2025 by WebAdmin &#160; &#160;",
+         "description" : "Last Updated on 28th July 2025 by WebAdmin &#160; &#160;",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/english-championships-2025/#new_tab",
@@ -920,22 +960,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-june-2025/",
          "pubDate" : "Thu, 10 Jul 2025 08:03:41",
          "title" : "ECU E-Magazine June 2025"
-      },
-      {
-         "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the players and accompanying persons are required to make",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-junior-rapid-and-blitz-chess-championship-2025-in-lime-peru-from-22nd-to-29th-september-2025/",
-         "pubDate" : "Wed, 09 Jul 2025 10:30:53",
-         "title" : "FIDE World Junior Rapid and Blitz Chess Championship - 2025 in Lime - Peru from 22nd to 29th September, 2025"
-      },
-      {
-         "description" : "Last Updated on 9th July 2025 by WebAdmin The chess section starts at 33 minutes and 25 seconds &#8212; https://www.bbc.co.uk/sounds/play/m002f936",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chess-chessfest-the-bcc-and-liverpool-on-the-bbc/",
-         "pubDate" : "Wed, 09 Jul 2025 08:50:22",
-         "title" : "Chess, ChessFest, the BCC and Liverpool on the BBC"
       },
       {
          "description" : "Three rounds have been played at the European Youth Team Chess Championship 2025 in Terme Catez, Slovenia and only four rounds left before the announcement of the Winners! After three played rounds, Girls sections got the emerged sole leaders, while the Open sections have tied teams on the top. In the Open U18 category, as many as four teams score 5 match points each to tie for the top: Austria, Hungary, Poland and Germany. Four teams closely follow scoring 4 []",
