@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The knockout stage of the Last Chance Qualifier in Riyadh has determined the final four participants for the Esports World Cup chess main event. After a long day of intense rapid matches, Nihal Sarin, Javokhir Sindarov, Anish Giri and Levon Aronian claimed qualification. They now join twelve invited players, including Carlsen, Nakamura and Firouzja, in the 16-player tournament that begins on Tuesday, 29 July. | Photos: Aditya Sur Roy / ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/esports-world-cup-2025-lcq-ko",
+         "pubDate" : "Mon, 28 Jul 2025 01:40:00",
+         "title" : "Esports World Cup: Nihal, Sindarov, Aronian and Giri qualify to main event"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122936917.cms\" />The FIDE Women's World Cup 2025 final between GM Koneru Humpy and IM Divya Deshmukh remains undecided after a second draw in their classical match in Batumi. The tense encounter saw a cautious game, leading to a repetition of moves and a stalemate. The title will now be determined in Monday's rapid tie-breaks, pitting Humpy's experience against Divya's youthful talent.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -58,12 +66,12 @@ news_feed (
          "title" : "Giri, Aronian, Nihal, Sindarov Grab Final Spots In Esports World Cup"
       },
       {
-         "description" : "Follow all the updates from Game 2 of FIDE Women's World Cup final between Koneru Humpy and Divya Deshmukh.",
+         "description" : "Divya walked a tight-rope in search of a win, but avoided Humpy's traps to gain a draw in game 2 of the final.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/45832839/koneru-humpy-vs-divya-deshmukh-live-game-2-blog-updates-commentary-result-2025-fide-womens-chess-world-cup-final?device=featurephone",
          "pubDate" : "Sat, 26 Jul 2025 23:45:00",
-         "title" : "Koneru Humpy vs Divya Deshmukh LIVE Game 2: Updates, commentary, result from the 2025 FIDE Women's Chess World Cup final"
+         "title" : "Divya rebuffs Humpy's pressure to draw game 2 and push World Cup final into tie-breaks"
       },
       {
          "description" : "The first games of the Women's World Cup final and third-place match in Batumi both ended in draws. Divya Deshmukh missed a promising attacking chance against Humpy Koneru, while Tan Zhongyi and Lei Tingjie played a balanced game in the Exchange Variation of the Queen's Gambit Declined. The second classical games will be played tomorrow, with Humpy and Lei having the white pieces. A win would secure the match without tiebreaks. | Photo: Anna Shtourman / FIDE",
