@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Rising Stars and Legends Shine at 2025 U.S. Championships The next generation of American chess stars made their mark while legends reinforced their legacy in this year's U.S. Junior, U.S. Junior Girls, and U.S. Senior Championships-three of the nation's most prestigious events, hosted by the Saint Louis Chess Club in Saint Louis, Mo., the official [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/new-champions-emerge-gm-andy-woodward-fm-wgm-zoey-tang-and-gm-alex-fishbein-win-in-u-s-junior-junior-girls-and-senior-championships-in-saint-louis/\">New Champions Emerge: GM Andy Woodward, FM/WGM Zoey Tang, and GM Alex Fishbein Win in U.S. Junior, Junior Girls and Senior Cha",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/new-champions-emerge-gm-andy-woodward-fm-wgm-zoey-tang-and-gm-alex-fishbein-win-in-u-s-junior-junior-girls-and-senior-championships-in-saint-louis/",
+         "pubDate" : "Mon, 28 Jul 2025 19:48:56",
+         "title" : "New Champions Emerge: GM Andy Woodward, FM/WGM Zoey Tang, and GM Alex Fishbein Win in U.S. Junior, Junior Girls and Senior Championships in Saint Louis"
+      },
+      {
          "description" : " The US Junior, Girls and Seniors took place in St Louis Tue 15th to Fri 25th Jul 2025. Andy Woodward won his first title with 6.5/9 half a point clear of Brewington Hardaway and Abhimanyu Mishra. Zoey Tang won the girls event with 7/9 half a point clear of Megan Althea Paragua. Only the seniors went to a tie-break where Alex Fishbein beat Alexander Shabalov and drew with Vladimir Akopian in the tie-breaks after all scored 5.5/9.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -136,6 +144,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/glorney-cup-live-game-links/",
          "pubDate" : "Mon, 28 Jul 2025 10:27:35",
          "title" : "Glorney Cup - live games / results links"
+      },
+      {
+         "description" : "It must be a giddy feeling to be associated with Indian chess right now, as Divya Deshmukh joins the list of title holders",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45841194/divya-deshmukh-indian-chess-latest-win-world-cup-crown-just-start?device=featurephone",
+         "pubDate" : "Mon, 28 Jul 2025 10:04:00",
+         "title" : "Indian chess's latest W: World Cup crown just the start for Divya Deshmukh"
       },
       {
          "description" : "GM Divya Deshmukh defeated GM Koneru Humpy 1.5-0.5 in tiebreaks to win the 2025 FIDE Women&#39;s World Cup. She earns not only $50,000, with $35,000 going to the runner-up, but she is also awarded the grandmaster title. Nineteen years old, she is the ...",
@@ -880,14 +896,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/join-the-global-online-celebration-for-international-chess-day/",
          "pubDate" : "Wed, 16 Jul 2025 08:31:36",
          "title" : "Join the Global Online Celebration for International Chess Day"
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-national-championships-postgame-round-1-an-exciting-start/\">POSTGAME ROUND 1: An Exciting Start | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-national-championships-postgame-round-1-an-exciting-start/",
-         "pubDate" : "Tue, 15 Jul 2025 23:53:32",
-         "title" : "POSTGAME ROUND 1: An Exciting Start | 2025 U.S. National Championships"
       },
       {
          "description" : "Last Updated on 28th July 2025 by WebAdmin Free monthly magazine! Get a rating! Join England's chess community! Become a member today at https://www.englishchess.org.uk/join-us/",
