@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122947152.cms\" />Divya Deshmukh and Koneru Humpy played to a draw in the second classical game of the FIDE Women's Chess World Cup final, setting the stage for tiebreaks. Despite Humpy's slight opening advantage, Divya's solid defense and strategic pawn structure led to a balanced game. The tiebreaks will determine the winner in rapid and blitz formats.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-divya-deshmukh-play-peaceful-34-move-draw-to-stay-at-par/articleshow/122947152.cms",
+         "pubDate" : "Mon, 28 Jul 2025 06:27:48",
+         "title" : "Humpy, Divya play peaceful 34-move draw to stay at par"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122945553.cms\" />The FIDE Women's World Chess Cup final remains undecided as Koneru Humpy and Divya Deshmukh drew their second classical game. A rapid tiebreak will determine the champion. Deshmukh held her own against Humpy's opening advantage. The tiebreak format includes rapid, blitz games, and an Armageddon game if needed.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/what-are-rapid-tiebreaks-and-how-will-they-decide-the-fide-womens-world-cup-winner-explained/articleshow/122945553.cms",
+         "pubDate" : "Mon, 28 Jul 2025 05:17:47",
+         "title" : "What are rapid tiebreaks and how will they decide the Women's World Cup Winner?"
+      },
+      {
          "description" : "The knockout stage of the Last Chance Qualifier in Riyadh has determined the final four participants for the Esports World Cup chess main event. After a long day of intense rapid matches, Nihal Sarin, Javokhir Sindarov, Anish Giri and Levon Aronian claimed qualification. They now join twelve invited players, including Carlsen, Nakamura and Firouzja, in the 16-player tournament that begins on Tuesday, 29 July. | Photos: Aditya Sur Roy / ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-fide-womens-world-cup-2025-final-koneru-humpy-divya-deshmukh-head-to-tie-break-after-game-2-draw/articleshow/122936917.cms",
          "pubDate" : "Sun, 27 Jul 2025 14:47:18",
          "title" : "Chess | Women's WC final: Humpy, Divya head to tie-break after Game 2 draw"
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Cup is taking place in Batumi, Georgia on 5-16 July. Hosted at the Grand Bellagio Hotel, the 107-player knockout tournament offers three spots in the 2026 Candidates. With many of the world's top female players competing, Batumi promises high-stakes action in one of the calendar's most prestigious events. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
-         "pubDate" : "Sun, 27 Jul 2025 12:45:00",
-         "title" : "Women's World Cup, Finals - Live!"
       },
       {
          "description" : "GM Tan Zhongyi won with the black pieces against GM Lei Tingjie to finish in third place at the 2025 FIDE Women&#39;s World Cup. She qualifies for the 2026 FIDE Women&#39;s Candidates and earns a $25,000 prize. The match for first place, between IM Divya ...",
@@ -71,7 +79,7 @@ news_feed (
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/45832839/koneru-humpy-vs-divya-deshmukh-live-game-2-blog-updates-commentary-result-2025-fide-womens-chess-world-cup-final?device=featurephone",
          "pubDate" : "Sat, 26 Jul 2025 23:45:00",
-         "title" : "Divya rebuffs Humpy's pressure to draw game 2 and push World Cup final into tie-breaks"
+         "title" : "Divya rejects Humpy's pressure to draw game 2 and push World Cup final into tie-breaks"
       },
       {
          "description" : "The first games of the Women's World Cup final and third-place match in Batumi both ended in draws. Divya Deshmukh missed a promising attacking chance against Humpy Koneru, while Tan Zhongyi and Lei Tingjie played a balanced game in the Exchange Variation of the Queen's Gambit Declined. The second classical games will be played tomorrow, with Humpy and Lei having the white pieces. A win would secure the match without tiebreaks. | Photo: Anna Shtourman / FIDE",
@@ -530,14 +538,6 @@ news_feed (
          "title" : "Inspired Divya Deshmukh takes down Harika in rapid"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122827523.cms\" />India has secured the rights to host the FIDE World Cup in 2025 after a 23-year gap, with the event scheduled from October 30 to November 27. The All India Chess Federation (AICF) is considering Goa and Ahmedabad as potential host cities for the prestigious tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-fide-allots-chess-world-cup-to-india/articleshow/122827523.cms",
-         "pubDate" : "Tue, 22 Jul 2025 04:50:10",
-         "title" : "FIDE allots chess World Cup to India"
-      },
-      {
          "description" : " Three years ago, former NBA star Derrick Rose had an idea to host a chess tournament featuring NBA players in Las Vegas. He billed it as a &#8220;Chesstival&#8221; with a high-stakes prize fund. The idea drew similarities to Maurice Ashley's Millionaire franchise, which had a first prize of $100,000. Video by Freestyle Chess Rose, who The post <a href=\"https://thechessdrum.net/blog/2025/07/21/derrick-rose-chesstival-freestyle-rousing-success/\">Derrick Rose Chesstival Freestyle rousing success!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -632,14 +632,6 @@ news_feed (
          "link" : "https://aicf.in/gm-koneru-humpy-marches-into-semifinals-divya-harika-tie-heads-to-playoffs/",
          "pubDate" : "Mon, 21 Jul 2025 07:05:35",
          "title" : "GM Koneru Humpy Marches into Semifinals; Divya-Harika Tie Heads to Playoffs"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122808729.cms\" />India is set to host the 2025 FIDE World Cup, a prestigious chess tournament scheduled from October 30 to November 2. The event will feature 206 players competing in a single-elimination format. The top three finishers will secure spots in the 2026 Candidates Tournament. Players can qualify through various routes, including continental events, ratings, and nominations.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-fide-world-cup-2025-to-be-hosted-in-india-top-players-to-battle-for-spot-in-2026-candidates/articleshow/122808729.cms",
-         "pubDate" : "Mon, 21 Jul 2025 07:03:11",
-         "title" : "CHESS | FIDE WC 2025 in India; Top players to battle for spot in 2026 Candidates"
       },
       {
          "description" : "Play US Chess Rated Correspondence Chess!Did you know that US Chess offers rated Correspondence Chess events?Correspondence Chess (CC) is a great way to improve your game and have fun. You don't even have to leave home! The time control for all US Chess CC events is 30 days for each 10 moves, allowing you ample time to really study each position in full, getting to know your openings deeper, improving your middlegame analysis and find all the nuances in the endgame. However, US Chess CC does NOT allow the use of computer programs or algorithms to come up with moves for you, you must do that by yourself.We offer CC events via postal mail, email or even on a chess server! Here is a quick rundo",
