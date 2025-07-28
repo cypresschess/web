@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This practical course offers a clean and effective response to the Sicilian Defense. By playing 2.c3, you sidestep heavy theory and gain early central control, logical development, and aggressive yet manageable positions. The course includes structured explanations, model games, and interactive training tools to help you confidently master the Alapin and outplay your opponents.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-demchenko-silence-the-sicilian-win-with-the-alapin-variation-2-c3",
+         "pubDate" : "Mon, 28 Jul 2025 16:00:00",
+         "title" : "Svitlana Demchenko: Silence the Sicilian - Win with the Alapin Variation (2.c3)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122956105.cms\" />Divya Deshmukh, with modest expectations, remarkably won the FIDE Women's World Cup 2025, securing a spot in the Candidates tournament and the World Cup title. This victory automatically granted her the Grandmaster title, bypassing the usual norm and rating requirements. Deshmukh defeated Koneru Humpy, becoming the fourth Indian woman to achieve Grandmaster status.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-what-did-divya-deshmukh-say-after-becoming-first-indian-to-win-fide-womens-world-cup-title-full-details/articleshow/122956105.cms",
+         "pubDate" : "Mon, 28 Jul 2025 14:28:28",
+         "title" : "Chess | What did Divya say after becoming first Indian to win WC? Full details"
+      },
+      {
+         "description" : "Humpy Koneru and Divya Deshmukh faced off in the tiebreak for the title at the 2025 Women's World Cup. After a draw in the first game, the second developed into a dramatic battle with fluctuating evaluations in a complex rook endgame. With time running short, it was Humpy Koneru who made the final mistake, allowing Divya Deshmukh to win the game, the match, and the title. | Photos: Andrei Anosov/FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/divya-deshmukh-wins-women-s-world-cup-2025",
+         "pubDate" : "Mon, 28 Jul 2025 14:24:46",
+         "title" : "Divya Deshmukh wins Women's World Cup 2025!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122955616.cms\" />Nineteen-year-old Divya Deshmukh made history by becoming the first Indian woman to win the FIDE Women's World Cup, defeating Koneru Humpy in a tiebreak. The crucial match saw Koneru make inaccurate moves, ultimately benefiting Divya, who capitalised on the opportunity. PM Modi and President Murmu congratulated Deshmukh on her remarkable achievement.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/proud-of-young-divya-deshmukh-pm-modi-congratulates-19-year-old-on-becoming-first-indian-to-win-chess-world-cup-title/articleshow/122955616.cms",
+         "pubDate" : "Mon, 28 Jul 2025 13:48:30",
+         "title" : "'Proud of young Divya': PM Modi congratulates 19-yo on becoming first Indian to win WC title"
+      },
+      {
          "description" : "The best way to play a good (and successful) game is to start with a strong opening. Svitlana Dimchenko demonstrates how to succeed with the versatile King's Indian Attack-a dangerous weapon that's easy to learn. For those who want more, there's ChessBase Magazine-the best and most comprehensive digital chess magazine, featuring analyses by top players. Get it at a special price during this week's Summer Special (July 28 to August 3)!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/this-week-s-summer-special-king-s-indian-attack-and-chessbase-magazine",
          "pubDate" : "Mon, 28 Jul 2025 12:52:16",
          "title" : "This week's Summer Special: King's Indian Attack and ChessBase Magazine"
+      },
+      {
+         "description" : "Last Updated on 28th July 2025 by WebAdmin Sunday 27 July will go down in history as a great day for English football, with the Lionesses winning the Euros final...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/youngest-ever-wgm-norm-bodhana-sivanandan/",
+         "pubDate" : "Mon, 28 Jul 2025 11:52:33",
+         "title" : "Youngest ever WGM norm - Bodhana Sivanandan!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122953692.cms\" />Nineteen-year-old Divya Deshmukh triumphed over veteran Koneru Humpy in a tie-breaker at the FIDE Women's World Cup in Batumi, Georgia. Coached by Srinath Narayanan, who likens her composure to M.S. Dhoni, Divya's victory underscores her exceptional talent and determination.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/like-ms-dhoni-in-pressure-moments-coach-praises-19-year-old-divya-deshmukh-after-fide-world-cup-win/articleshow/122953692.cms",
+         "pubDate" : "Mon, 28 Jul 2025 11:49:27",
+         "title" : "'Like MS Dhoni in pressure moments': Coach praises Divya Deshmukh after FIDE World Cup win"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122953710.cms\" />Nineteen-year-old Divya Deshmukh secured the FIDE Women's World Cup in Batumi. She defeated Koneru Humpy in rapid tiebreaks. Divya started as the 15th seed and displayed remarkable skill. Her victory earned her the Grandmaster title. She is the fourth Indian woman to achieve this milestone. This win marks a significant moment in her career.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-womens-world-cup-winner-divya-deshmukh-becomes-indias-88th-gm-full-list-of-grandmasters/articleshow/122953710.cms",
+         "pubDate" : "Mon, 28 Jul 2025 11:44:56",
+         "title" : "Chess | Divya Deshmukh becomes India's 88th GM - full list of Grandmasters"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122953244.cms\" />Viswanathan Anand congratulated Divya Deshmukh, 19, on her FIDE Women's World Cup victory over Koneru Humpy, which also earned her the Grandmaster title and a spot in the Candidates Tournament. Anand praised Humpy's fighting spirit, acknowledging her status as a great champion.",
@@ -66,12 +122,12 @@ news_feed (
          "title" : "Glorney Cup - live games / results links"
       },
       {
-         "description" : "The Women's World Cup in Batumi, Georgia, could hardly have ended more dramatically. The two games with classic time control in the all-Indian final between Divya Deshmukh and Humpy Koneru ended in a draw, so now the World Cup title will be decided in a tiebreak. Live coverage with commentary starts at 10 a.m. CEST. (4.00 ET, 12.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-live",
-         "pubDate" : "Mon, 28 Jul 2025 09:45:00",
-         "title" : "Women's World Cup, Final: Tiebreak - Live!"
+         "description" : "It must be a giddy feeling to be associated with Indian chess right now, as Divya Deshmukh joins the list of title holders",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45841194/divya-deshmukh-indian-chess-latest-win-world-cup-crown-just-start?device=featurephone",
+         "pubDate" : "Mon, 28 Jul 2025 10:04:00",
+         "title" : "Indian chess's latest W: World Cup crown just the start for Divya Deshmukh"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122947152.cms\" />Divya Deshmukh and Koneru Humpy played to a draw in the second classical game of the FIDE Women's Chess World Cup final, setting the stage for tiebreaks. Despite Humpy's slight opening advantage, Divya's solid defense and strategic pawn structure led to a balanced game. The tiebreaks will determine the winner in rapid and blitz formats.",
@@ -98,12 +154,12 @@ news_feed (
          "title" : "Esports World Cup: Nihal, Sindarov, Aronian and Giri qualify to main event"
       },
       {
-         "description" : "Catch all the updates from FIDE Women's World Cup final between Divya Deshmukh and Koneru Humpy.",
+         "description" : "Divya Deshmukh won the rapid tie-breaks to be crowned the winner of the Women's World Cup.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/45839502/koneru-humpy-vs-divya-deshmukh-live-tiebreakers-updates-commentary-result-2025-fide-womens-chess-world-cup-final?device=featurephone",
          "pubDate" : "Sun, 27 Jul 2025 23:00:00",
-         "title" : "Koneru Humpy vs Divya Deshmukh LIVE tiebreakers: Updates, commentary, result from the 2025 FIDE Women's Chess World Cup final"
+         "title" : "Divya Deshmukh beats Koneru Humpy to win 2025 FIDE Women's Chess World Cup"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122936917.cms\" />The FIDE Women's World Cup 2025 final between GM Koneru Humpy and IM Divya Deshmukh remains undecided after a second draw in their classical match in Batumi. The tense encounter saw a cautious game, leading to a repetition of moves and a stalemate. The title will now be determined in Monday's rapid tie-breaks, pitting Humpy's experience against Divya's youthful talent.",
@@ -378,22 +434,6 @@ news_feed (
          "title" : "NJSCF Organizes All-GM Round Robin for 140th Anniversary"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122887638.cms\" />History is guaranteed at the FIDE Women's World Cup 2025 as Koneru Humpy and Divya Deshmukh, both from India, secured their spots in the final after defeating their Chinese opponents in the semifinals. Deshmukh triumphed over Tan Zhongyi, while Humpy edged out Lei Tingjie in tiebreaks.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-womens-world-cup-2025-when-is-koneru-humpy-vs-divya-deshmukh-in-the-final-what-is-the-prize-money/articleshow/122887638.cms",
-         "pubDate" : "Thu, 24 Jul 2025 17:21:47",
-         "title" : "When is Humpy vs Divya in the final? What is the prize money?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122887505.cms\" />Koneru Humpy triumphed over Tingjie Lei in a gruelling eight-game semi-final at the FIDE Women's World Cup, securing her place in the final. After a series of draws and tense tiebreaks, Humpy's resilience shone through as she won crucial blitz games. She is now set to face Divya Deshmukh in an all-Indian final.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-fide-womens-world-cup-koneru-humpy-pulls-off-thrilling-win-to-face-divya-deshmukh-in-final/articleshow/122887505.cms",
-         "pubDate" : "Thu, 24 Jul 2025 17:12:51",
-         "title" : "Chess | Humpy vs Deshmukh - All-Indian final at FIDE Women's World Cup"
-      },
-      {
          "description" : "GM Vladimir Fedoseev emerged as the winner of the grueling Biel Masters Triathlon, an event that required him to play a total of 30 games in Chess960, blitz, rapid, and classical formats over 11 days. The Russian grandmaster, who lives in Germany ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -418,14 +458,6 @@ news_feed (
          "title" : "Humpy Wins On Demand, Advances To All-Indian Final"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122874301.cms\" />India's 19-year-old chess prodigy Divya Deshmukh created history by becoming the first Indian to reach the FIDE Women's World Cup final. In a five-hour battle, she defeated third seed Tan Zhongyi, securing her first GM norm, a spot in the 2026 Candidates Tournament, and $35,000. \"I just need sleep,\" she said.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-divya-deshmukh-one-step-away-from-historic-world-cup-title-but-all-she-wants-now-is-sleep-and-food/articleshow/122874301.cms",
-         "pubDate" : "Thu, 24 Jul 2025 06:28:01",
-         "title" : "Chess | Divya one step away from historic WC title; but all she wants is 'sleep'"
-      },
-      {
          "description" : "India's 19-year-old chess prodigy, IM Divya Deshmukh, scripted history by becoming the first Indian woman to reach the finals of the FIDE Women's World Cup,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -440,14 +472,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/assaubayeva-confirmed-as-43rd-female-gm-shogdzhiev-worlds-youngest-im",
          "pubDate" : "Thu, 24 Jul 2025 05:24:00",
          "title" : "Assaubayeva Confirmed As 43rd Female GM, Shogdzhiev World's Youngest IM"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122872953.cms\" />Divya Deshmukh, a 19-year-old Indian International Master, achieved a historic victory over former champion Tan Zhongyi in the FIDE Women's World Cup semifinal. With a strategic utilization of an extra pawn, Divya secured a final berth and a spot in the Women's Candidates tournament, becoming the first teenager in 34 years to do so.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-divya-deshmukh-scripts-history-books-her-spot-in-candidates/articleshow/122872953.cms",
-         "pubDate" : "Thu, 24 Jul 2025 05:19:44",
-         "title" : "Chess | Divya Deshmukh scripts history, books her spot in Candidates"
       },
       {
          "description" : "The penultimate round of the 2025 National Championships finally brought clear leaders in two out of the three sections. Nevertheless, the races so far have been close enough that no section has a guaranteed winner. GM Andy Woodward's lead in the Junior is the largest (a full point), while WGM Zoey Tang's in the Girls' Junior is just half of a point. The situation is even more tense in the Senior, where GM Larry Christiansen, GM Vladimir Akopian, and GM Alexander Goldin all share the lead. Let's take the sections one by one: U.S. Junior: Woodward gets some breathing roomWoodward's fortunes were greatly aided by a sharp Sicilian win with the black pieces against the struggling IM Evan Park. A",
@@ -472,14 +496,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/man-ray-chess",
          "pubDate" : "Wed, 23 Jul 2025 20:00:00",
          "title" : "Permanent Attraction: Man Ray & Chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122865202.cms\" />Divya Deshmukh made history by reaching the FIDE Women's World Chess Cup final, defeating Zhongyi Tan and becoming the first Indian to qualify for the Women's Candidates tournament. The 19-year-old secured her victory with a strong performance, showcasing her positional understanding in the Alapin variation. Koneru Humpy drew against Tingjie Lei, setting up a tie-break to determine the other finalist.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-womens-world-cup-divya-deshmukh-creates-history-qualifies-for-candidates-tournament/articleshow/122865202.cms",
-         "pubDate" : "Wed, 23 Jul 2025 18:29:52",
-         "title" : "FIDE Women's World Cup: Divya Deshmukh creates history, qualifies for Candidates tournament"
       },
       {
          "description" : "The 19-year-old is the first Indian to reach the final of the Women's Chess World Cup.",
@@ -946,14 +962,6 @@ news_feed (
          "title" : "Chess: Carlsen fights off Gukesh in Zagreb as ChessFest returns to Trafalgar Square"
       },
       {
-         "description" : "Last Updated on 10th July 2025 by WebAdmin The U2050 County Championships final was held at the new King in the North Chess and Archery Centre on 5th July. Yorkshire,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/u2050-county-championships-final/",
-         "pubDate" : "Thu, 10 Jul 2025 14:56:30",
-         "title" : "U2050 County Championships Final"
-      },
-      {
          "description" : "The ECU E-Magazine June 2025 is out! In this edition of the ECU E-Magazine you may read about: The June 2025 Magazine can be read online together with interactive links on the following link, or it can be downloaded below in PDF format.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -976,14 +984,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-womens-world-cup-2025",
          "pubDate" : "Mon, 7 Jul 2025 21:01:00",
          "title" : "FIDE Women's World Cup 2025 - Games and Results"
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Chess Cup kicked off yesterday in Batumi, Georgia. The event will be played from 6-28 July at the Grand Bellagio Batumi Convention Hotel with the participation of 107 players from 46 different federations. The event is played as a knock-out tournament, with 7 rounds, and each round comprises two classical games. If the result is tied, the tiebreak match/es will determine the Winner of the match. The FIDE Women's World Chess Cup 2025 features the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-womens-world-chess-cup-2025-kicked-off-in-batumi-georgia/",
-         "pubDate" : "Mon, 07 Jul 2025 12:14:49",
-         "title" : "FIDE Women's World Chess Cup 2025 kicked off in Georgia"
       }
    ]
 }
