@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122964696.cms\" />In a historic win at Batumi, Georgia, 19-year-old Divya Deshmukh clinched India's first-ever Women's World Cup chess title, defeating Grandmaster Koneru Humpy. The intense final saw Divya, playing with black pieces, triumph in a rapid tie-break. Amidst the drama, an untouched banana served as her quirky companion, a constant presence throughout her victorious journey.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-the-banana-survives-in-batumi-india-gets-its-first-ever-womens-world-cup-champion-in-divya-deshmukh/articleshow/122964696.cms",
+         "pubDate" : "Tue, 29 Jul 2025 03:00:55",
+         "title" : "Chess | The banana survives in Batumi; India gets its first-ever Women's World Cup champion in Divya Deshmukh"
+      },
+      {
          "description" : " Rising Stars and Legends Shine at 2025 U.S. Championships The next generation of American chess stars made their mark while legends reinforced their legacy in this year's U.S. Junior, U.S. Junior Girls, and U.S. Senior Championships-three of the nation's most prestigious events, hosted by the Saint Louis Chess Club in Saint Louis, Mo., the official [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/new-champions-emerge-gm-andy-woodward-fm-wgm-zoey-tang-and-gm-alex-fishbein-win-in-u-s-junior-junior-girls-and-senior-championships-in-saint-louis/\">New Champions Emerge: GM Andy Woodward, FM/WGM Zoey Tang, and GM Alex Fishbein Win in U.S. Junior, Junior Girls and Senior Cha",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -424,14 +432,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jul/25/chess-levon-aronian-takes-big-top-prize-las-vegas-freestyle-grand-slam-hans-niemann-magnus-carlsen",
          "pubDate" : "Fri, 25 Jul 2025 07:00:53",
          "title" : "Chess: Aronian takes big top prize in Las Vegas as Niemann celebrates Carlsen's downfall"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122896175.cms\" />Divya Deshmukh has made history in chess. She is the first Indian to reach the FIDE Women's World Cup final. The 19-year-old is also the first teenager in 34 years to qualify for the Women's Candidates tournament. She is close to becoming India's fourth woman Grandmaster.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-rises-as-new-star-of-world-chess/articleshow/122896175.cms",
-         "pubDate" : "Fri, 25 Jul 2025 05:17:32",
-         "title" : "Divya Deshmukh rises as new star of world chess"
       },
       {
          "description" : "GM Levon Aronian continued his form from Las Vegas as he topped Group A of the Last Chance Qualifier in Riyadh for the 2025 Esports World Cup, while GMs Dmitry Andreikin, Vidit Gujrathi, and Daniil Dubov were all eliminated. GMs Alexey Sarana, Mar...",
