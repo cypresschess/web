@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Esports World Cup is a blitz double elimination knockout tournament held in Riyadh, Saudi Arabia Tue 29th July to Fri 1st Aug 2025. Players: Group A Ian Nepomniachtchi, Andrey Esipenko, Levon Aronian and Vladislav Artemiev. Group B Maxime Vachier-Lagrave, Anish Giri, Arjun Erigaisi, Nihal Sarin. Group C Hikaru Nakamura, Javokhir Sindarov, Alireza Firouzja, Wei Yi. Group D Magnus Carlsen, Nodirbek Abdusattorov, Fabiano Caruana, Jan-Krzysztof Duda. Double elimination is a super complicated format for me to cover. I will round up the games as the event progresses but this is very much an event for watching live on video if you ask me. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/esports-world-cup-2025",
+         "pubDate" : "Tue, 29 Jul 2025 13:58:00",
+         "title" : "Esports World Cup 2025 - Games and Results"
+      },
+      {
+         "description" : "The Chess Esports World Cup is taking place from 29 July to 1 August in Riyadh. Sixteen elite players are competing for a total prize pool of $1.5 million. A group stage will be held on Tuesday and Wednesday, followed by the final knockout stage on Thursday and Friday. | Matches starts daily at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live with computer analysis and expert commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/esports-world-cup-2025-live",
+         "pubDate" : "Tue, 29 Jul 2025 13:50:00",
+         "title" : "Chess Esports World Cup - Live!"
+      },
+      {
          "description" : "The winner of the 2025 Women's World Cup was decided in an exciting play-off between Humpy Koneru and Divya Deshmukh. Divya Deshmukh ultimately emerged victorious. Tin Zhangyi won the match for third place against Lei Tingjie. The awards ceremony took place on Monday evening in a festive atmosphere. | Photos: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -242,7 +258,7 @@ news_feed (
          "title" : "Esports World Cup: Nihal, Sindarov, Aronian and Giri qualify to main event"
       },
       {
-         "description" : "Organized and run by FM Kevin Bachler and his wife Deborah, the 2025 Caveman Chess Festival had something for everyone. Festivities kicked off Sunday, July 20, with a chess camp that attracted campers ages 7 to 76. Along with grandmasters Boris Avrukh, Dmitry Gurevich, and Yury Shulman, I was an instructor.From Friday, July 25, through Sunday, July 27, nine tournaments - including three national championship events - took place simultaneously at the Hilton Northbrook hotel in suburban Chicago. Three players earned national titles: GM Jesse Kraai, IM Evan Park, and Jessica Lauser. Pairings and standings are available here. 2025 U.S. Senior OpenOn the first day of the 2025 U.S. Senior Open, ne",
+         "description" : "Organized and run by FM Kevin Bachler and his wife Deborah, the 2025 Caveman Chess Festival had something for everyone. Festivities kicked off Sunday, July 20, with a chess camp that attracted campers ages 7 to 76. Along with grandmasters Boris Avrukh, Dmitry Gurevich, and Yury Shulman, I was an instructor.From Friday, July 25, through Sunday, July 27, nine tournaments - including three national championship events - took place simultaneously at the Hilton Northbrook hotel in suburban Chicago. Pairings and standings are available here. 2025 U.S. Senior OpenOn the first day of the 2025 U.S. Senior Open, news broke that GM Alex Fishbein won a playoff to become the 2025 U.S. Senior Champion. Fi",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/2025-caveman-chess-festival-americas-pastime",
@@ -1000,14 +1016,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-june-2025/",
          "pubDate" : "Thu, 10 Jul 2025 08:03:41",
          "title" : "ECU E-Magazine June 2025"
-      },
-      {
-         "description" : "Three rounds have been played at the European Youth Team Chess Championship 2025 in Terme Catez, Slovenia and only four rounds left before the announcement of the Winners! After three played rounds, Girls sections got the emerged sole leaders, while the Open sections have tied teams on the top. In the Open U18 category, as many as four teams score 5 match points each to tie for the top: Austria, Hungary, Poland and Germany. Four teams closely follow scoring 4 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2025-reaches-its-midpoint/",
-         "pubDate" : "Tue, 08 Jul 2025 12:21:49",
-         "title" : "European Youth Team Chess Championship 2025 reaches its midpoint"
       }
    ]
 }
