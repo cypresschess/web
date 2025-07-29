@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122966779.cms\" />Nagpur's Divya Deshmukh, 19, has become India's 88th Grandmaster after winning the Women's World Cup in Batumi. She bypassed the traditional norm-and-rating route, achieving the title directly due to her victory. Previously an International Master, Divya's win marks a significant leap in her career. World No. 2 Hikaru Nakamura congratulated her, acknowledging India's rising prominence in chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/from-no-norms-to-grandmaster-divya-deshmukh-becomes-indias-88th-gm-and-fourth-among-indian-women/articleshow/122966779.cms",
+         "pubDate" : "Tue, 29 Jul 2025 05:15:06",
+         "title" : "From no norms to Grandmaster: Divya Deshmukh becomes India's 88th GM and fourth among Indian women"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122966600.cms\" />19-year-old Divya Deshmukh, from Nagpur, achieved a historic win. She became the first Indian and youngest to secure the FIDE Women's Chess World Cup in Georgia. In the final, she defeated Koneru Humpy. Divya's rapid game strategy led to her victory. She is now the fourth Indian woman to earn the GM title.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/womens-world-cup-divya-deshmukh-takes-control-of-the-clock-to-stun-koneru-humpy-becomes-first-indian-winner/articleshow/122966600.cms",
+         "pubDate" : "Tue, 29 Jul 2025 05:13:10",
+         "title" : "Divya Deshmukh takes control of the clock to stun Humpy, becomes first Indian winner"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122964696.cms\" />In a historic win at Batumi, Georgia, 19-year-old Divya Deshmukh clinched India's first-ever Women's World Cup chess title, defeating Grandmaster Koneru Humpy. The intense final saw Divya, playing with black pieces, triumph in a rapid tie-break. Amidst the drama, an untouched banana served as her quirky companion, a constant presence throughout her victorious journey.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -192,6 +208,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/esports-world-cup-2025-lcq-ko",
          "pubDate" : "Mon, 28 Jul 2025 01:40:00",
          "title" : "Esports World Cup: Nihal, Sindarov, Aronian and Giri qualify to main event"
+      },
+      {
+         "description" : "Organized and run by FM Kevin Bachler and his wife Deborah, the 2025 Caveman Chess Festival had something for everyone. Festivities kicked off Sunday, July 20, with a chess camp that attracted campers ages 7 to 76. Along with grandmasters Boris Avrukh, Dmitry Gurevich, and Yury Shulman, I was an instructor.From Friday, July 25, through Sunday, July 27, nine tournaments - including three national championship events - took place simultaneously at the Hilton Northbrook hotel in suburban Chicago. Three players earned national titles: GM Jesse Kraai, IM Evan Park, and Jessica Lauser. Pairings and standings are available here. 2025 U.S. Senior OpenOn the first day of the 2025 U.S. Senior Open, ne",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-caveman-chess-festival-americas-pastime",
+         "pubDate" : "Mon, 28 Jul 2025 00:00:00",
+         "title" : "2025 Caveman Chess Festival: America's Pastime"
       },
       {
          "description" : "In a storybook ending, IM Divya Deshmukh became the first Indian player ever to win the FIDE Women's World Cup, defeating Indian GM Humpy Koneru 2&frac12;-1&frac12; after Monday's tie-breaks. The win directly grants Divya the GM title, making the 19-year-old the fifth Indian woman to earn the GM title and the second youngest, behind only Humpy herself! Both players have also qualified for the FIDE Women's World Championship Candidates Tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Divya Deshmukh entered as the 15th-seeded player, but won the World Cup by defeating the second-, third-, and fourth-highest-rated players (Photo courtesy of Ann",
@@ -394,14 +418,6 @@ news_feed (
          "title" : "This week's Summer Special: A strong duo for opening study"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122906429.cms\" />History is guaranteed to be made at the FIDE Women's World Cup as Koneru Humpy and Divya Deshmukh, both from India, face off in the final. This marks the first time two Indians will compete for the title, ensuring India's first-ever winner. Both players have also secured their spots in the Women's Candidates tournament next year after their semi-final wins.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-womens-world-cup-final-koneru-humpy-vs-divya-deshmukh-preview-live-streaming-format-and-prize-money/articleshow/122906429.cms",
-         "pubDate" : "Fri, 25 Jul 2025 12:54:46",
-         "title" : "Women's WC: Humpy vs Deshmukh - Preview, live streaming, format and prize money"
-      },
-      {
          "description" : "GM Ian Nepomniachtchi doesn&#39;t really need to add too many more accomplishments to his resume, but he did that on July 25 by winning his first Freestyle Friday ahead of GMs Jeffery Xiong and Jan-Krzysztof Duda&#38;nbsp;on tiebreaks. The field of 175 pl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -416,14 +432,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-held-in-ahmednagar-ahilya-nagar-maharashtra-on-12th-13th-july-2025/",
          "pubDate" : "Fri, 25 Jul 2025 11:12:13",
          "title" : "Final Report of Senior National Arbiter Seminar & Examination held in Ahmednagar (Ahilya Nagar), Maharashtra on 12th & 13th July, 2025."
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122900208.cms\" />India is guaranteed gold and silver at the FIDE Women's World Cup as Divya Deshmukh and Koneru Humpy face off in the final. Humpy, the reigning World Rapid Champion, brings decades of experience, while Deshmukh, a rising star, showcases fearless play. The winner secures a spot in the 2026 Candidates Tournament, marking a significant moment for Indian chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-india-assured-of-historic-medals-at-fide-womens-world-cup-but-what-to-expect-from-koneru-humpy-vs-divya-deshmukh-final/articleshow/122900208.cms",
-         "pubDate" : "Fri, 25 Jul 2025 08:06:06",
-         "title" : "Chess WC | India assured of medals; but what to expect from Humpy vs Deshmukh final?"
       },
       {
          "description" : " World No 1 Carlsen was third as Aronian took the $200,000 prize in the Las Vegas leg of the Freestyle Grand Slam Levon Aronian, at 42 the oldest in the tournament, scored what he described as \"one of the crown jewels\" of his career to win the $200,000 (&pound;148,000) first prize at the Las Vegas leg of the Freestyle Grand Slam last weekend. Aronian did it in style, winning matches against the world No 1, Magnus Carlsen, the No 2, Hikaru Nakamura and the No 5, Arjun Erigaisi en route to victory. Carlsen had to settle for the third prize of $100,000, plus the further indignity of finishing behind his arch enemy, Hans Niemann, whose game with the Norwegian at the 2022 Sinquefield Cup led to a",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/play-us-chess-rated-correspondence-chess",
          "pubDate" : "Mon, 21 Jul 2025 00:00:00",
          "title" : "Play US Chess Rated Correspondence Chess!"
-      },
-      {
-         "description" : "The semi-finals are set for the 2025 FIDE Women's World Cup in Batumi, Georgia. With three spots in the FIDE Women's World Championship Candidates Tournament up for grabs (and none of the semi-finalists already qualified), the question is whether it will be China or India to send not one but two players to the Candidates.The semi-finals begin Tuesday at 6:20 a.m. CDT, with top-seeded GM Lei Tingjie paired against fourth-seeded GM Humpy Koneru and third-seeded GM Tan Zhongyi facing the only surprise semi-finalist, IM Divya Deshmukh.The four remaining players have each earned paychecks of at least $20,000, going up to $35,000 for the runner-up and $50,000 for the winner. In addition to the Can",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/divya-joins-top-seeds-womens-world-cup-semi-finals",
-         "pubDate" : "Mon, 21 Jul 2025 00:00:00",
-         "title" : "Divya Joins Top Seeds in Women's World Cup Semi-Finals"
       },
       {
          "description" : "GM Levon Aronian has been crowned the $200,000 winner of the Freestyle Chess Grand Slam Las Vegas on Sunday after overcoming GM Hans Niemann 1.5-0.5 in the Final. Aronian held firm in an opposite-colored bishop ending in the first, before putting ...",
