@@ -34,6 +34,14 @@ news_feed (
          "title" : "Biel Chess Festival crowns the winners"
       },
       {
+         "description" : "GMs Levon Aronian (Group A), Arjun Erigaisi (Group B), Alireza Firouzja (Group C), and Magnus Carlsen (Group D) all won two matches to reach the Grand Finals of their respective groups in the 2025 Esports World Cup. On their last lives in the Lo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-esports-world-cup-day-1",
+         "pubDate" : "Tue, 29 Jul 2025 11:42:21",
+         "title" : "Carlsen, Firouzja, Aronian, Arjun Reach Grand Finals"
+      },
+      {
          "description" : "The 2nd Dole Trophy Pasino Grand Aix 2025 brought together over 400 players from more than 40 countries for a 9-round Swiss tournament held in Aix-en-Provence, France. With a prize fund exceeding €30,000 and a strong Masters section featuring over 100 titled players, the event concluded with a rapid playoff between GM Iniyan Panneerselvam and GM Jan Malek. Iniyan emerged victorious after scoring 1&frac12;-&frac12; in the tie-break. | Photos: Shahid Ahmed / ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,6 +80,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-the-banana-survives-in-batumi-india-gets-its-first-ever-womens-world-cup-champion-in-divya-deshmukh/articleshow/122964696.cms",
          "pubDate" : "Tue, 29 Jul 2025 03:00:55",
          "title" : "Chess | The banana survives in Batumi; India gets its first-ever Women's World Cup champion in Divya Deshmukh"
+      },
+      {
+         "description" : "This week's puzzles begin a series on the 2025 FIDE Women's World Cup (coverage here), with WGM Sabina Foisor bringing us some tactical highlights from the games and variations that kept us riveted throughout July. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-womens-world-cup-pt-1",
+         "pubDate" : "Tue, 29 Jul 2025 00:00:00",
+         "title" : "Tactics Tuesday: Women's World Cup, Pt. 1"
+      },
+      {
+         "description" : "The 125th Annual U.S. Open began Monday, July 28, in Middleton, WI, with several hundred players competing in the first round of the seven-day schedule and another several hundred competing in the opening round of the national state invitationals. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Group photos from the Denker, Barber, Haring, Rockefeller, and Irwin invitationals. (Photos by David Llada)<br> <br> Come Thursday, we will know who is \"champion of champions\" for elementary, middle school, and high school",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/start-middleton-us-open-invitationals-begin-wisconsin",
+         "pubDate" : "Tue, 29 Jul 2025 00:00:00",
+         "title" : "Start From the Middleton: U.S. Open, Invitationals Begin in Wisconsin"
       },
       {
          "description" : " Rising Stars and Legends Shine at 2025 U.S. Championships The next generation of American chess stars made their mark while legends reinforced their legacy in this year's U.S. Junior, U.S. Junior Girls, and U.S. Senior Championships-three of the nation's most prestigious events, hosted by the Saint Louis Chess Club in Saint Louis, Mo., the official [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/new-champions-emerge-gm-andy-woodward-fm-wgm-zoey-tang-and-gm-alex-fishbein-win-in-u-s-junior-junior-girls-and-senior-championships-in-saint-louis/\">New Champions Emerge: GM Andy Woodward, FM/WGM Zoey Tang, and GM Alex Fishbein Win in U.S. Junior, Junior Girls and Senior Cha",
@@ -706,14 +730,6 @@ news_feed (
          "title" : "Tactics Tuesday: FIDE World Cadets Cup, Pt. 3"
       },
       {
-         "description" : "Coming off the rest day, the 2025 Junior, Girls' Junior, and Senior National Championships were competitive at the top of the standings, and, despite some decisive results, clarity at the podium remained elusive after Monday's sixth round.In both junior sections, the top two players in the standings squared off. But, unfortunately, both games ended in draws. Meanwhile, players from the upper-middle part of the pack managed to grab full points. With this swing, both GM Kirk Ghazarian and WGM Zoey Tang have joined GM Andy Woodward and FM Megan Paragua atop their respective leaderboards.In the Senior Championship, the fact that there are still six players within one point of GM Vladimir Akopian",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/all-races-remain-tight-2025-national-championships",
-         "pubDate" : "Tue, 22 Jul 2025 00:00:00",
-         "title" : "All Races Remain Tight in 2025 National Championships"
-      },
-      {
          "description" : " POSTGAME Round 6: Could Abhi Slow Andy? Join GMs Yasser Seirawan &#038; Cristian Chirila, and IM Nazi Paikidze for the top moments of today's games. Standings 2025 U.S. Junior Championship Standings + # Place Name Rating Rd 1 Rd 2 Rd 3 Rd 4 Rd 5 Rd 6 Rd 7 Rd 8 Rd 9 Total [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-6-could-abhi-slow-andy-2025-us-national-championships/\">POSTGAME ROUND 6: Could Abhi Slow Andy?</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -786,14 +802,6 @@ news_feed (
          "title" : "GM Koneru Humpy Marches into Semifinals; Divya-Harika Tie Heads to Playoffs"
       },
       {
-         "description" : "Play US Chess Rated Correspondence Chess!Did you know that US Chess offers rated Correspondence Chess events?Correspondence Chess (CC) is a great way to improve your game and have fun. You don't even have to leave home! The time control for all US Chess CC events is 30 days for each 10 moves, allowing you ample time to really study each position in full, getting to know your openings deeper, improving your middlegame analysis and find all the nuances in the endgame. However, US Chess CC does NOT allow the use of computer programs or algorithms to come up with moves for you, you must do that by yourself.We offer CC events via postal mail, email or even on a chess server! Here is a quick rundo",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/play-us-chess-rated-correspondence-chess",
-         "pubDate" : "Mon, 21 Jul 2025 00:00:00",
-         "title" : "Play US Chess Rated Correspondence Chess!"
-      },
-      {
          "description" : "GM Levon Aronian has been crowned the $200,000 winner of the Freestyle Chess Grand Slam Las Vegas on Sunday after overcoming GM Hans Niemann 1.5-0.5 in the Final. Aronian held firm in an opposite-colored bishop ending in the first, before putting ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -856,14 +864,6 @@ news_feed (
          "link" : "https://www.thearticle.com/anti-semitism-from-nazi-germany-to-glastonbury/",
          "pubDate" : "Sat, 19 Jul 2025 15:50:31",
          "title" : "Anti-Semitism: from Nazi Germany to Glastonbury"
-      },
-      {
-         "description" : "GMs Lei Tingjie and Koneru Humpy struck first in their 2025 FIDE Women&#39;s World Cup quarterfinal matches. Humpy&#39;s win over IM Song Yuxin was convincing if bumpy at times, while Lei confessed she played &#34;pretty horribly&#34; before turning things around...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-quarterfinals-game-1",
-         "pubDate" : "Sat, 19 Jul 2025 13:01:00",
-         "title" : "Lei, Humpy Strike First After Clock Drama"
       },
       {
          "description" : "In business, we're taught that taking bold risks is often worth it. You can lose your entire investment, but the upside is nearly unlimited. If you angel invest in 50 startups and one of them becomes a unicorn, you're massively profitable. The risk is capped (100% loss), but the reward isn't. That's what makes high-risk []",
