@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The winner of the 2025 Women's World Cup was decided in an exciting play-off between Humpy Koneru and Divya Deshmukh. Divya Deshmukh ultimately emerged victorious. Tin Zhangyi won the match for third place against Lei Tingjie. The awards ceremony took place on Monday evening in a festive atmosphere. | Photos: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-world-cup-2025-closing-ceremony-a-night-of-music-memories-and-triumph-in-batumi",
+         "pubDate" : "Tue, 29 Jul 2025 13:25:09",
+         "title" : "Women's World Cup 2025 closing ceremony: A night of music, memories, and triumph in Batumi"
+      },
+      {
+         "description" : "The Biel Chess Festival is one of the most important traditional tournaments, with an unbroken history stretching back over 58 years. Vladimir Fedoseev won the Masters tournament, Nikolas Theodorou won the Challengers tournament, and Karthikeyan Murali won the Masters Open tournament. On the last day of the tournament, the winners of these and other tournaments were honoured. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-chess-festival-crowns-the-winners",
+         "pubDate" : "Tue, 29 Jul 2025 12:42:52",
+         "title" : "Biel Chess Festival crowns the winners"
+      },
+      {
+         "description" : "The 2nd Dole Trophy Pasino Grand Aix 2025 brought together over 400 players from more than 40 countries for a 9-round Swiss tournament held in Aix-en-Provence, France. With a prize fund exceeding €30,000 and a strong Masters section featuring over 100 titled players, the event concluded with a rapid playoff between GM Iniyan Panneerselvam and GM Jan Malek. Iniyan emerged victorious after scoring 1&frac12;-&frac12; in the tie-break. | Photos: Shahid Ahmed / ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dole-trophy-2025-report",
+         "pubDate" : "Tue, 29 Jul 2025 10:15:00",
+         "title" : "Iniyan beats Malek in tiebreaks to win Dole Trophy in Aix-en-Provence"
+      },
+      {
+         "description" : "Last Updated on 29th July 2025 by WebAdmin Congratulations to Sohum Lohia (above right) and to Alex Golding who both had their IM titles confirmed at the FIDE Council meeting...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/new-ims-sohum-lohia-and-alex-golding/",
+         "pubDate" : "Tue, 29 Jul 2025 09:27:24",
+         "title" : "New IMs - Sohum Lohia and Alex Golding"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122966779.cms\" />Nagpur's Divya Deshmukh, 19, has become India's 88th Grandmaster after winning the Women's World Cup in Batumi. She bypassed the traditional norm-and-rating route, achieving the title directly due to her victory. Previously an International Master, Divya's win marks a significant leap in her career. World No. 2 Hikaru Nakamura congratulated her, acknowledging India's rising prominence in chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -90,7 +122,7 @@ news_feed (
          "title" : "This week's Summer Special: King's Indian Attack and ChessBase Magazine"
       },
       {
-         "description" : "Last Updated on 28th July 2025 by WebAdmin Sunday 27 July will go down in history as a great day for English football, with the Lionesses winning the Euros final...",
+         "description" : "Last Updated on 29th July 2025 by WebAdmin Sunday 27 July will go down in history as a great day for English football, with the Lionesses winning the Euros final...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/youngest-ever-wgm-norm-bodhana-sivanandan/",
@@ -952,14 +984,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-championships-2025/#new_tab",
          "pubDate" : "Fri, 11 Jul 2025 08:00:22",
          "title" : "English and English Women's Championships 2025"
-      },
-      {
-         "description" : "Last Updated on 11th July 2025 by WebAdmin",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.britishchesschampionships.co.uk/#new_tab",
-         "pubDate" : "Fri, 11 Jul 2025 07:00:46",
-         "title" : "British Chess Championships 2025 - entries open"
       },
       {
          "description" : " The Norwegian lost his second game in succession to the 19-year-old Indian but won a third in \"old man's chess\" style, while 20,000 fans are expected in London on Sunday It looked as if the Magnus Carlsen era might finally be over. The Norwegian, 35, had just lost his second game in succession to India's world champion, Gukesh Dommaraju, 19, who was on a streak of five consecutive wins and leading the Zagreb event three points ahead of Carlsen. <a href=\"https://www.chessgames.com/perl/chess.pl?tid=135615&amp;pid=52948\">The game</a> was like their <a href=\"https://www.chessgames.com/perl/chessgame?gid=2905674\">first in Stavanger</a>, where Carlsen had spoiled a winning position and images of",
