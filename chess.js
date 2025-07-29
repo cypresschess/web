@@ -34,12 +34,12 @@ news_feed (
          "title" : "Biel Chess Festival crowns the winners"
       },
       {
-         "description" : "GMs Levon Aronian (Group A), Arjun Erigaisi (Group B), Alireza Firouzja (Group C), and Magnus Carlsen (Group D) all won two matches to reach the Grand Finals of their respective groups in the 2025 Esports World Cup. On their last lives in the Lo...",
+         "description" : "GMs Levon Aronian (Group A), Arjun Erigaisi&#38;nbsp;(Group B), Alireza Firouzja&#38;nbsp;(Group C), and Magnus Carlsen (Group D) all won two matches to reach the Quarterfinals of the 2025 Esports World Cup.&#38;nbsp; On their last lives in the Losers Brack...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-esports-world-cup-day-1",
-         "pubDate" : "Tue, 29 Jul 2025 11:42:21",
-         "title" : "Carlsen, Firouzja, Aronian, Arjun Reach Grand Finals"
+         "pubDate" : "Tue, 29 Jul 2025 11:42:00",
+         "title" : "Carlsen, Firouzja, Aronian, Arjun Reach Quarterfinals"
       },
       {
          "description" : "The 2nd Dole Trophy Pasino Grand Aix 2025 brought together over 400 players from more than 40 countries for a 9-round Swiss tournament held in Aix-en-Provence, France. With a prize fund exceeding €30,000 and a strong Masters section featuring over 100 titled players, the event concluded with a rapid playoff between GM Iniyan Panneerselvam and GM Jan Malek. Iniyan emerged victorious after scoring 1&frac12;-&frac12; in the tie-break. | Photos: Shahid Ahmed / ChessBase India",
