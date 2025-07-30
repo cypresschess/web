@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess Esports World Cup is taking place from 29 July to 1 August in Riyadh. Sixteen elite players are competing for a total prize pool of $1.5 million. A group stage will be held on Tuesday and Wednesday, followed by the final knockout stage on Thursday and Friday. | Matches starts daily at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live with computer analysis and expert commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/esports-world-cup-2025-live",
+         "pubDate" : "Wed, 30 Jul 2025 13:50:00",
+         "title" : "Chess Esports World Cup - Live!"
+      },
+      {
          "description" : "Since 1986, we've been developing chess software that inspires millions of players around the world - and honestly: it's a blast to spend every day working with chess, technology, and creative people! Our founding team set new standards with ChessBase and Fritz - now it's your move to continue this success story!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -274,7 +282,7 @@ news_feed (
          "title" : "What are rapid tiebreaks and how will they decide the Women's World Cup Winner?"
       },
       {
-         "description" : "Organized and run by FM Kevin Bachler and his wife Deborah, the 2025 Caveman Chess Festival had something for everyone. Festivities kicked off Sunday, July 20, with a chess camp that attracted campers ages 7 to 76. Along with grandmasters Boris Avrukh, Dmitry Gurevich, and Yury Shulman, I was an instructor.From Friday, July 25, through Sunday, July 27, nine tournaments - including three national championship events - took place simultaneously at the Hilton Northbrook hotel in suburban Chicago. Pairings and standings are available here. 2025 U.S. Senior OpenOn the first day of the 2025 U.S. Senior Open, news broke that GM Alex Fishbein won a playoff to become the 2025 U.S. Senior Champion. Fi",
+         "description" : "Organized and run by FM Kevin Bachler and his wife Deborah, the 2025 Caveman Chess Festival had something for everyone. Festivities kicked off Sunday, July 20, with a chess camp that attracted campers ages 7 to 76. Along with grandmasters Boris Avrukh, Dmitry Gurevich, and Yury Shulman, I was an instructor.From Friday, July 25, through Sunday, July 27, nine tournaments - including three national championship events - took place simultaneously at the Hilton Northbrook hotel in suburban Chicago. Pairings and standings will be available here and can also be found here. 2025 U.S. Senior OpenOn the first day of the 2025 U.S. Senior Open, news broke that GM Alex Fishbein won a playoff to become th",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/2025-caveman-chess-festival-americas-pastime",
