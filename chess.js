@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Since 1986, we've been developing chess software that inspires millions of players around the world - and honestly: it's a blast to spend every day working with chess, technology, and creative people! Our founding team set new standards with ChessBase and Fritz - now it's your move to continue this success story!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/checkmate-boredom-help-shape-the-future-of-chessbase",
+         "pubDate" : "Wed, 30 Jul 2025 10:00:00",
+         "title" : "Checkmate Boredom: Help Shape the Future of ChessBase!"
+      },
+      {
          "description" : "The traditional chess festival in Dortmund kicks off its 52nd edition this Saturday as the Sparkassen Chess Trophy. European champion Matthias Bl&uuml;baum is the favourite in the A Open. On Sunday, the International Women's Tournament begins, featuring four grandmasters: Elisabeth P&auml;htz, Dinara Wagner, 15-year-old Chinese champion Miaoyi Lu, and Deimant&eacute; Daulyt&eacute;-Cornette of France. | Photo: Elisabeth P&auml;htz and Dinara Wagner",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/international-dortmund-chess-days-kick-off-on-saturday",
          "pubDate" : "Wed, 30 Jul 2025 09:06:07",
          "title" : "International Dortmund Chess Days kick off on Saturday"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122992408.cms\" />Indian Grandmaster Arjun Erigaisi has advanced to the quarterfinals of the Esports World Cup chess competition in Riyadh. He emerged as the winner of Group B. Erigaisi defeated fellow Indian player Nihal Sarin and Maxime Vachier-Lagrave. Other group winners include Levon Aronian, Alireza Firouzja, and Magnus Carlsen. The tournament boasts a prize pool of USD 1.5 million.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/esports-chess-world-cup-2025-india-grandmaster-arjun-erigaisi-enters-quarterfinals-how-much-could-he-win/articleshow/122992408.cms",
+         "pubDate" : "Wed, 30 Jul 2025 08:20:34",
+         "title" : "Esports Chess WC: Erigaisi enters QF; how much could he win?"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122991362.cms\" />Indian prodigy Divya Deshmukh's victory at the Women's World Cup in Batumi secured her a spot in the 2026 Candidates tournament, alongside Koneru Humpy and Tan Zhongyi. With five spots filled, the Grand Swiss and FIDE Women's Events series offer remaining qualification opportunities. Humpy Koneru currently leads the FIDE series, while Anna Muzychuk tops the qualification race.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/despite-womens-world-cup-final-defeat-koneru-humpy-leads-fide-circuit-leaderboard-divya-deshmukh-makes-massive-jump/articleshow/122991362.cms",
+         "pubDate" : "Wed, 30 Jul 2025 07:16:21",
+         "title" : "Despite WC final defeat, Humpy leads FIDE Circuit leaderboard"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122991218.cms\" />Koneru Humpy, a veteran of Indian chess, continues to inspire after securing a silver medal at the Women's Chess World Cup and qualifying for the 2026 Candidates tournament.",
@@ -42,44 +66,12 @@ news_feed (
          "title" : "Esports World Cup 2025 - Games and Results"
       },
       {
-         "description" : "The Chess Esports World Cup is taking place from 29 July to 1 August in Riyadh. Sixteen elite players are competing for a total prize pool of $1.5 million. A group stage will be held on Tuesday and Wednesday, followed by the final knockout stage on Thursday and Friday. | Matches starts daily at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live with computer analysis and expert commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/esports-world-cup-2025-live",
-         "pubDate" : "Tue, 29 Jul 2025 13:50:00",
-         "title" : "Chess Esports World Cup - Live!"
-      },
-      {
-         "description" : "The winner of the 2025 Women's World Cup was decided in an exciting play-off between Humpy Koneru and Divya Deshmukh. Divya Deshmukh ultimately emerged victorious. Tin Zhangyi won the match for third place against Lei Tingjie. The awards ceremony took place on Monday evening in a festive atmosphere. | Photos: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-world-cup-2025-closing-ceremony-a-night-of-music-memories-and-triumph-in-batumi",
-         "pubDate" : "Tue, 29 Jul 2025 13:25:09",
-         "title" : "Women's World Cup 2025 closing ceremony: A night of music, memories, and triumph in Batumi"
-      },
-      {
-         "description" : "The Biel Chess Festival is one of the most important traditional tournaments, with an unbroken history stretching back over 58 years. Vladimir Fedoseev won the Masters tournament, Nikolas Theodorou won the Challengers tournament, and Karthikeyan Murali won the Masters Open tournament. On the last day of the tournament, the winners of these and other tournaments were honoured. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-chess-festival-crowns-the-winners",
-         "pubDate" : "Tue, 29 Jul 2025 12:42:52",
-         "title" : "Biel Chess Festival crowns the winners"
-      },
-      {
          "description" : "GMs Levon Aronian (Group A), Arjun Erigaisi&#38;nbsp;(Group B), Alireza Firouzja&#38;nbsp;(Group C), and Magnus Carlsen (Group D) all won two matches to reach the Quarterfinals of the 2025 Esports World Cup.&#38;nbsp; On their last lives in the Losers Brack...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-esports-world-cup-day-1",
          "pubDate" : "Tue, 29 Jul 2025 11:42:00",
          "title" : "Carlsen, Firouzja, Aronian, Arjun Reach Quarterfinals"
-      },
-      {
-         "description" : "The 2nd Dole Trophy Pasino Grand Aix 2025 brought together over 400 players from more than 40 countries for a 9-round Swiss tournament held in Aix-en-Provence, France. With a prize fund exceeding €30,000 and a strong Masters section featuring over 100 titled players, the event concluded with a rapid playoff between GM Iniyan Panneerselvam and GM Jan Malek. Iniyan emerged victorious after scoring 1&frac12;-&frac12; in the tie-break. | Photos: Shahid Ahmed / ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dole-trophy-2025-report",
-         "pubDate" : "Tue, 29 Jul 2025 10:15:00",
-         "title" : "Iniyan beats Malek in tiebreaks to win Dole Trophy in Aix-en-Provence"
       },
       {
          "description" : "Last Updated on 29th July 2025 by WebAdmin Congratulations to Sohum Lohia (above right) and to Alex Golding who both had their IM titles confirmed at the FIDE Council meeting...",
@@ -154,14 +146,6 @@ news_feed (
          "title" : "FIDE Women's World Cup 2025 - Games and Results"
       },
       {
-         "description" : "This practical course offers a clean and effective response to the Sicilian Defense. By playing 2.c3, you sidestep heavy theory and gain early central control, logical development, and aggressive yet manageable positions. The course includes structured explanations, model games, and interactive training tools to help you confidently master the Alapin and outplay your opponents.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-demchenko-silence-the-sicilian-win-with-the-alapin-variation-2-c3",
-         "pubDate" : "Mon, 28 Jul 2025 16:00:00",
-         "title" : "Svitlana Demchenko: Silence the Sicilian - Win with the Alapin Variation (2.c3)"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122956105.cms\" />Divya Deshmukh, with modest expectations, remarkably won the FIDE Women's World Cup 2025, securing a spot in the Candidates tournament and the World Cup title. This victory automatically granted her the Grandmaster title, bypassing the usual norm and rating requirements. Deshmukh defeated Koneru Humpy, becoming the fourth Indian woman to achieve Grandmaster status.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -170,28 +154,12 @@ news_feed (
          "title" : "Chess | What did Divya say after becoming first Indian to win WC? Full details"
       },
       {
-         "description" : "Humpy Koneru and Divya Deshmukh faced off in the tiebreak for the title at the 2025 Women's World Cup. After a draw in the first game, the second developed into a dramatic battle with fluctuating evaluations in a complex rook endgame. With time running short, it was Humpy Koneru who made the final mistake, allowing Divya Deshmukh to win the game, the match, and the title. | Photos: Andrei Anosov/FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/divya-deshmukh-wins-women-s-world-cup-2025",
-         "pubDate" : "Mon, 28 Jul 2025 14:24:46",
-         "title" : "Divya Deshmukh wins Women's World Cup 2025!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122955616.cms\" />Nineteen-year-old Divya Deshmukh made history by becoming the first Indian woman to win the FIDE Women's World Cup, defeating Koneru Humpy in a tiebreak. The crucial match saw Koneru make inaccurate moves, ultimately benefiting Divya, who capitalised on the opportunity. PM Modi and President Murmu congratulated Deshmukh on her remarkable achievement.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/proud-of-young-divya-deshmukh-pm-modi-congratulates-19-year-old-on-becoming-first-indian-to-win-chess-world-cup-title/articleshow/122955616.cms",
          "pubDate" : "Mon, 28 Jul 2025 13:48:30",
          "title" : "'Proud of young Divya': PM Modi congratulates 19-yo on becoming first Indian to win WC title"
-      },
-      {
-         "description" : "The best way to play a good (and successful) game is to start with a strong opening. Svitlana Dimchenko demonstrates how to succeed with the versatile King's Indian Attack-a dangerous weapon that's easy to learn. For those who want more, there's ChessBase Magazine-the best and most comprehensive digital chess magazine, featuring analyses by top players. Get it at a special price during this week's Summer Special (July 28 to August 3)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/this-week-s-summer-special-king-s-indian-attack-and-chessbase-magazine",
-         "pubDate" : "Mon, 28 Jul 2025 12:52:16",
-         "title" : "This week's Summer Special: King's Indian Attack and ChessBase Magazine"
       },
       {
          "description" : "Last Updated on 29th July 2025 by WebAdmin Sunday 27 July will go down in history as a great day for English football, with the Lionesses winning the Euros final...",
@@ -306,14 +274,6 @@ news_feed (
          "title" : "What are rapid tiebreaks and how will they decide the Women's World Cup Winner?"
       },
       {
-         "description" : "The knockout stage of the Last Chance Qualifier in Riyadh has determined the final four participants for the Esports World Cup chess main event. After a long day of intense rapid matches, Nihal Sarin, Javokhir Sindarov, Anish Giri and Levon Aronian claimed qualification. They now join twelve invited players, including Carlsen, Nakamura and Firouzja, in the 16-player tournament that begins on Tuesday, 29 July. | Photos: Aditya Sur Roy / ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/esports-world-cup-2025-lcq-ko",
-         "pubDate" : "Mon, 28 Jul 2025 01:40:00",
-         "title" : "Esports World Cup: Nihal, Sindarov, Aronian and Giri qualify to main event"
-      },
-      {
          "description" : "Organized and run by FM Kevin Bachler and his wife Deborah, the 2025 Caveman Chess Festival had something for everyone. Festivities kicked off Sunday, July 20, with a chess camp that attracted campers ages 7 to 76. Along with grandmasters Boris Avrukh, Dmitry Gurevich, and Yury Shulman, I was an instructor.From Friday, July 25, through Sunday, July 27, nine tournaments - including three national championship events - took place simultaneously at the Hilton Northbrook hotel in suburban Chicago. Pairings and standings are available here. 2025 U.S. Senior OpenOn the first day of the 2025 U.S. Senior Open, news broke that GM Alex Fishbein won a playoff to become the 2025 U.S. Senior Champion. Fi",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -338,44 +298,12 @@ news_feed (
          "title" : "Divya Deshmukh beats Koneru Humpy to win 2025 FIDE Women's Chess World Cup"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122936917.cms\" />The FIDE Women's World Cup 2025 final between GM Koneru Humpy and IM Divya Deshmukh remains undecided after a second draw in their classical match in Batumi. The tense encounter saw a cautious game, leading to a repetition of moves and a stalemate. The title will now be determined in Monday's rapid tie-breaks, pitting Humpy's experience against Divya's youthful talent.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-fide-womens-world-cup-2025-final-koneru-humpy-divya-deshmukh-head-to-tie-break-after-game-2-draw/articleshow/122936917.cms",
-         "pubDate" : "Sun, 27 Jul 2025 14:47:18",
-         "title" : "Chess | Women's WC final: Humpy, Divya head to tie-break after Game 2 draw"
-      },
-      {
          "description" : "GM Tan Zhongyi won with the black pieces against GM Lei Tingjie to finish in third place at the 2025 FIDE Women&#39;s World Cup. She qualifies for the 2026 FIDE Women&#39;s Candidates and earns a $25,000 prize. The match for first place, between IM Divya ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-final-game-2",
          "pubDate" : "Sun, 27 Jul 2025 09:57:00",
          "title" : "Tan Finishes 3rd With Black Win"
-      },
-      {
-         "description" : "The Mega Database 2025 contains over eleven million games - an impressive archive of chess knowledge. And it keeps growing. Thanks to the weekly Mega Update service, you receive about 5,000 new games each week, directly from tournaments around the world. As with ChessBase 18, keeping the Mega Database up to date requires just a few clicks. In this tutorial episode, we'll show you how.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-24-always-get-the-latest-games-via-update",
-         "pubDate" : "Sun, 27 Jul 2025 09:00:00",
-         "title" : "ChessBase 18 - Tips for beginners, part 24: Always get the latest games via update"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122932568.cms\" />The all-India FIDE Women's Chess World Cup final began with a Queen's Gambit, as Koneru Humpy drew with Divya Deshmukh in a 41-move game. Divya, playing with white, missed a key opportunity in the 14th move, allowing Humpy to equalize after a tense endgame.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-koneru-humpy-final-starts-with-veteran-accepting-queens-gambit-challenge/articleshow/122932568.cms",
-         "pubDate" : "Sun, 27 Jul 2025 06:51:39",
-         "title" : "Divya-Humpy final starts with veteran accepting Queen's Gambit challenge"
-      },
-      {
-         "description" : "The first half of the \"Clash of Generations\" match between Peter Svidler and Yagız Kaan Erdoğmuş in Marseille has concluded with the score tied at 1&frac12;-1&frac12;. The six-game classical encounter has already featured a decisive win for each player and one strategic draw. From a sharp French Defence to dynamic Sicilian play, both contenders have shown their readiness to fight in complex positions. | Photo: Harry Gielen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clash-of-generations-svidler-erdogmus-g3",
-         "pubDate" : "Sun, 27 Jul 2025 03:00:00",
-         "title" : "Svidler and Erdogmus trade wins at Clash of Generations in Marseille"
       },
       {
          "description" : "GMs Anish Giri, Levon Aronian, Nihal Sarin, and Javokhir Sindarov have taken the final four spots in the $1.5 million main chess event of the 2025 Esports World Cup. Giri won in the most dramatic fashion, flagging GM Hans Niemann in a losing posit...",
@@ -392,14 +320,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45832839/koneru-humpy-vs-divya-deshmukh-live-game-2-blog-updates-commentary-result-2025-fide-womens-chess-world-cup-final?device=featurephone",
          "pubDate" : "Sat, 26 Jul 2025 23:45:00",
          "title" : "Divya rejects Humpy's pressure to draw game 2 and push World Cup final into tie-breaks"
-      },
-      {
-         "description" : "The first games of the Women's World Cup final and third-place match in Batumi both ended in draws. Divya Deshmukh missed a promising attacking chance against Humpy Koneru, while Tan Zhongyi and Lei Tingjie played a balanced game in the Exchange Variation of the Queen's Gambit Declined. The second classical games will be played tomorrow, with Humpy and Lei having the white pieces. A win would secure the match without tiebreaks. | Photo: Anna Shtourman / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-cup-2025-r7g1",
-         "pubDate" : "Sat, 26 Jul 2025 22:45:00",
-         "title" : "Women's World Cup Finals: Divya misses big chance"
       },
       {
          "description" : "16-year-old GM Ediz Gurel impressively scored 161 points in Saturday&#39;s Bullet Brawl and 6/8 against 29-time winner GM Daniel Naroditsky to clinch his fourth career title and the $400 first prize. Naroditsky and GM Andrew Tang challenged Gurel bu...",
@@ -434,28 +354,12 @@ news_feed (
          "title" : "Humpy Survives Vs. Divya, Lei Accepts Draw In Better Position"
       },
       {
-         "description" : "The Opening Encyclopedia offers a wide range of exciting repertoire suggestions. But how can you tell if a recommendation truly suits your playing style? The best way is to try it out in a practical match against Fritz 20. With the \"Play Against Database Book\" feature, you can load opening articles, game collections, or analyses directly from the encyclopedia as an opening book and immediately play against Fritz. This lets you test new lines under realistic conditions. Best of all: This week (until July 27, 2025), you can get the Fritz 20 and Opening Encyclopedia bundle at a special Summer Special price.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-and-play-learning-openings-with-fritz-20-and-the-opening-encyclopedia",
-         "pubDate" : "Sat, 26 Jul 2025 08:00:00",
-         "title" : "Study and play: learning openings with Fritz 20 and the Opening Encyclopedia!"
-      },
-      {
          "description" : "GM Alexander Fishbein clinched the U.S. Senior Championship title by winning a playoff on Friday with GM Vladimir Akopian and GM Alexander Shabalov after all three had finished in a tie for first. Fishbein earned $23,167. GM Andy Woodward was the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/alex-fishbein-andy-woodward-zoey-tang-win-national-titles-2025",
          "pubDate" : "Sat, 26 Jul 2025 04:24:00",
          "title" : "Alex Fishbein, Andy Woodward, Zoey Tang Win U.S. Titles In St. Louis"
-      },
-      {
-         "description" : "The Last Chance Qualifier for the Esports World Cup chess event is underway in Riyadh, with 16 players set to battle for the final four places in the main tournament. Held from 24 to 26 July, the qualifier began with a two-day group stage and concludes with a double-elimination knockout on Saturday. The winners will join twelve invited players, including Magnus Carlsen, Hikaru Nakamura and Alireza Firouzja, in the $1.5 million main event starting on 29 July. | Photos: Aditya Sur Roy / ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/esports-world-cup-2025-lcq-groups",
-         "pubDate" : "Sat, 26 Jul 2025 04:20:00",
-         "title" : "Esports World Cup: Aronian, Bortnyk, Pragg and Niemann top Last Chance Qualifiers' group stage"
       },
       {
          "description" : "Koneru Humpy and Divya Deshmukh played out a draw in 41 moves in game 1 of the Women's Chess World Cup in Batumi, Georgia.",
@@ -474,28 +378,12 @@ news_feed (
          "title" : "Praggnanandhaa, Niemann Win Groups To Reach Playoffs"
       },
       {
-         "description" : "The 2025 US Chess Championships for Juniors, Girls and Seniors produced three new title-holders. Andy Woodward secured first place in the Junior section with 6&frac12;/9, while top seed Zoey Tang finished half a point ahead of Megan Paragua to win the Girls' Junior Championship. In the Senior Championship, Alexander Fishbein triumphed in a three-way playoff against Vladimir Akopian and Alexander Shabalov to claim his first title in the event. | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2025-report",
-         "pubDate" : "Fri, 25 Jul 2025 23:50:00",
-         "title" : "Woodward, Tang and Fishbein collect titles at US national championships"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-playoff-fishbein-is-champion/\">POSTGAME PLAYOFF: Fishbein is Champion!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-playoff-fishbein-is-champion/",
          "pubDate" : "Fri, 25 Jul 2025 21:03:46",
          "title" : "POSTGAME PLAYOFF: Fishbein is Champion!"
-      },
-      {
-         "description" : "The opening is tricky. If you don't know what you are doing, you can quickly find yourself on the losing side, but if you know what you are doing, you can also quickly gain an advantage. ChessBase offers help! The Opening Encyclopaedia offers a complete overview of all openings, and with Fritz 20 you can try out and practise all of them. This week (21-27 July), the strong duo is available as a Summer Special at a special price!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/this-week-s-summer-special-a-strong-duo-for-opening-study",
-         "pubDate" : "Fri, 25 Jul 2025 14:21:48",
-         "title" : "This week's Summer Special: A strong duo for opening study"
       },
       {
          "description" : "GM Ian Nepomniachtchi doesn&#39;t really need to add too many more accomplishments to his resume, but he did that on July 25 by winning his first Freestyle Friday ahead of GMs Jeffery Xiong and Jan-Krzysztof Duda&#38;nbsp;on tiebreaks. The field of 175 pl...",
