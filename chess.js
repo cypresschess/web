@@ -26,6 +26,14 @@ news_feed (
          "title" : "Chess Esports World Cup - Live!"
       },
       {
+         "description" : "GMs Ian Nepomniachtchi (Group A), Nihal Sarin (Group B), Hikaru Nakamura (Group C), and Nodirbek Abdusattorov (Group D) won their respective Losers Brackets to complete the field of eight players in the 2025 Esports World Cup Quarterfinals. They j...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-esports-world-cup-day-2",
+         "pubDate" : "Wed, 30 Jul 2025 12:50:00",
+         "title" : "Abdusattorov Wins On Move 5 After Duda's $20,000 Mouse Slip"
+      },
+      {
          "description" : "WFM Bodhana Sivanandan continued her rise in the chess world on Sunday by becoming the youngest player ever to achieve a Woman Grandmaster (WGM) norm, at just 10 years old. The historic feat came at the Dole Trophy 2025, held from July 19-27 in Ai...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -96,6 +104,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-security-protocol-why-divya-deshmukh-played-world-cup-winning-move-inside-empty-venue/articleshow/122990349.cms",
          "pubDate" : "Wed, 30 Jul 2025 06:08:20",
          "title" : "'Security protocol': Why Divya played World Cup-winning move inside empty venue"
+      },
+      {
+         "description" : "The US Chess Federation is pleased to announce the 2025 Annual Award recipients. Congratulations to all of these individuals and organizations who are advancing our mission to \"empower people, enrich lives, and enhance communities through chess.\"US Chess Awards Recipients from previous years can be viewed here: 2024 | 2023 | 2022 | 2021 | 2020 Named AwardsDan Heisman Award for Excellence in Chess InstructionKoltanowski AwardsFrank J. Marshall AwardOrganizer AwardsChess City of the YearChess Club of the YearChess College of the YearOrganizer of the YearHonorary Chess Mate Player AwardsGM of the YearOutstanding Team AchievementWoman Player of the YearYoung Player of the YearOutstanding Player ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-us-chess-awards-recipients",
+         "pubDate" : "Wed, 30 Jul 2025 00:00:00",
+         "title" : "2025 US Chess Awards Recipients"
+      },
+      {
+         "description" : "This week's puzzles begin a series on the 2025 FIDE Women's World Cup (coverage here), with WGM Sabina Foisor bringing us some tactical highlights from the games and variations that kept us riveted throughout July. Check out more of her puzzles in ourTactics Tuesday series, as well. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-womens-world-cup-pt-1",
+         "pubDate" : "Wed, 30 Jul 2025 00:00:00",
+         "title" : "Wednesday Workout: FIDE Women's World Cup, Pt. 1"
       },
       {
          "description" : "That's a lot of chess! Tuesday was the first of two double-round days in Middleton for participants of the national state invitationals and the 7-day schedule of the U.S. Open, with another double-round day already underway today (follow live here). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The 5-day schedule for the Open also begins today with two rounds this afternoon before tomorrow's triple-round day. Those who opted for the four-day schedule are already resting up for Thursday's quadruple-round day! All playing schedules can be found here.Between the five invitationals, only 14 players out of 250 made it through Tuesday with perfect 3/3 scores. In the Open, 2",
@@ -610,22 +634,6 @@ news_feed (
          "title" : "POSTGAME ROUND 7: Day of the Spoilers"
       },
       {
-         "description" : "Today's puzzles continue a series featuring games from the 2025 FIDE World Cadets Cup. Read our full report here, and check out more puzzles for younger or newer players in this week's Tactics Tuesday column. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cadets-cup-pt-3",
-         "pubDate" : "Wed, 23 Jul 2025 00:00:00",
-         "title" : "Wednesday Workout: FIDE World Cadets Cup, Pt. 3"
-      },
-      {
-         "description" : "If any viewers were hoping for a clear frontrunner to emerge after seven rounds, I'm sorry to disappoint you. The leaders of the pack keep drawing, and the players just behind them keep winning crucial games. The result, in all sections, is a traffic jam at the top.In the Girls' Junior, there's now a three-way tie for first between WFM Rachael Li, WGM Zoey Tang, and FM Megan Paragua, all with 5/7 points. Breathing down their necks, however, are FM Ruiyang Yan (4&frac12;/7), WIM Iris Mou (4/7) and Jasmine Su (4/7).The picture in the Junior Championship isn't much clearer. GMs Andy Woodward and Kirk Ghazarian are still tied for first with 5/7 points, while GMs Brewington Hardaway and Abhimanyu",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tie-breaks-loom-two-rounds-remaining-national-championships",
-         "pubDate" : "Wed, 23 Jul 2025 00:00:00",
-         "title" : "Tie-Breaks Loom With Two Rounds Remaining in National Championships"
-      },
-      {
          "description" : "Four cities in two continents played over-the-board chess against one another on International Chess Day (July 20). The event, Portals x Chess.com, was a celebration of chess that connected Dublin, Ireland; Lublin, Poland; Philadelphia, U.S.A.; an...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/levon-aronian-wins-freestyle-chess-las-vegas",
          "pubDate" : "Sun, 20 Jul 2025 16:26:00",
          "title" : "Aronian Defeats Niemann, Wins $200,000 First Prize In Las Vegas"
-      },
-      {
-         "description" : "GM Lei Tingjie continues her impressive run in the 2025 FIDE Women&#39;s World Cup, scoring another clean 2-0 victory, this time with a rather convincing victory against GM Nana Dzagnidze, to climb to women&#39;s world number-two in the live ratings. Jo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-quarterfinals-game-2",
-         "pubDate" : "Sun, 20 Jul 2025 15:29:00",
-         "title" : "Lei Wins Again To Reach World No. 2; Tan, Humpy Also Through"
       },
       {
          "description" : "Chief Minister Shri Bhupendra Patel extended his greetings to the chess community of the country, including Gujarat, on the occasion of International Chess Day, which",
