@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Women's Candidates Tournament 2026 is scheduled to take place in April 2026. The winner will play reigning Women's World Champion Ju Wenjun for the title. Currently, five players are qualified for the Candidates: Humpy Koneru, Tan Zhongyi, Divya Deshmukh, Zhu Jiner, and Aleksandra Goryachkina. But who has the best chances of claiming one of the three remaining spots? Here's an update from FIDE.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/five-down-three-to-go-world-cup-shakes-up-women-s-candidates-race",
+         "pubDate" : "Wed, 30 Jul 2025 20:00:00",
+         "title" : "Five down, three to go: World Cup shakes up Women's Candidates race"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123003550.cms\" />Divya Deshmukh, a 19-year-old chess prodigy from Nagpur, achieved a historic victory at the FIDE Women's World Chess Cup 2025 in Batumi, Georgia. She defeated Koneru Humpy in a dramatic tie-break, securing the prestigious World Cup trophy and earning the Grandmaster title. This win marks a resurgence for Indian women's chess and secures her spot in the 2026 Candidates Tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-receives-grand-welcome-in-nagpur-after-historic-chess-world-cup-win/articleshow/123003550.cms",
+         "pubDate" : "Wed, 30 Jul 2025 17:47:02",
+         "title" : "Divya Deshmukh receives grand welcome in Nagpur after historic Chess World Cup win"
+      },
+      {
          "description" : "The Chess Esports World Cup is taking place from 29 July to 1 August in Riyadh. Sixteen elite players are competing for a total prize pool of $1.5 million. A group stage will be held on Tuesday and Wednesday, followed by the final knockout stage on Thursday and Friday. | Matches starts daily at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live with computer analysis and expert commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/esports-world-cup-2025-live",
          "pubDate" : "Wed, 30 Jul 2025 13:50:00",
          "title" : "Chess Esports World Cup - Live!"
+      },
+      {
+         "description" : "WFM Bodhana Sivanandan continued her rise in the chess world on Sunday by becoming the youngest player ever to achieve a Woman Grandmaster (WGM) norm, at just 10 years old. The historic feat came at the Dole Trophy 2025, held from July 19-27 in Ai...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bodhana-secures-first-wgm-norm-makes-history",
+         "pubDate" : "Wed, 30 Jul 2025 11:00:48",
+         "title" : "Bodhana Scores 2400 Performance To Achieve Historic WGM Norm At 10"
       },
       {
          "description" : "Since 1986, we've been developing chess software that inspires millions of players around the world - and honestly: it's a blast to spend every day working with chess, technology, and creative people! Our founding team set new standards with ChessBase and Fritz - now it's your move to continue this success story!",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/international-dortmund-chess-days-kick-off-on-saturday",
          "pubDate" : "Wed, 30 Jul 2025 09:06:07",
          "title" : "International Dortmund Chess Days kick off on Saturday"
+      },
+      {
+         "description" : "The last Titled Tuesdays of July saw two players, GMs Maksim Chigaev and Salem Saleh, win their first of 2025. For Chigaev, it had been nearly a decade since his previous victory on June 7, 2016, while Saleh previously won on June 28, 2022. Chigae...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chigaev-saleh-win-titled-tuesday-july-29-2025",
+         "pubDate" : "Wed, 30 Jul 2025 08:49:16",
+         "title" : "Worth The Wait As Chigaev, Saleh Win First Tuesdays In Years"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122992408.cms\" />Indian Grandmaster Arjun Erigaisi has advanced to the quarterfinals of the Esports World Cup chess competition in Riyadh. He emerged as the winner of Group B. Erigaisi defeated fellow Indian player Nihal Sarin and Maxime Vachier-Lagrave. Other group winners include Levon Aronian, Alireza Firouzja, and Magnus Carlsen. The tournament boasts a prize pool of USD 1.5 million.",
@@ -64,6 +96,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-security-protocol-why-divya-deshmukh-played-world-cup-winning-move-inside-empty-venue/articleshow/122990349.cms",
          "pubDate" : "Wed, 30 Jul 2025 06:08:20",
          "title" : "'Security protocol': Why Divya played World Cup-winning move inside empty venue"
+      },
+      {
+         "description" : "That's a lot of chess! Tuesday was the first of two double-round days in Middleton for participants of the national state invitationals and the 7-day schedule of the U.S. Open, with another double-round day already underway today (follow live here). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The 5-day schedule for the Open also begins today with two rounds this afternoon before tomorrow's triple-round day. Those who opted for the four-day schedule are already resting up for Thursday's quadruple-round day! All playing schedules can be found here.Between the five invitationals, only 14 players out of 250 made it through Tuesday with perfect 3/3 scores. In the Open, 2",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/double-round-days-begin-middleton",
+         "pubDate" : "Wed, 30 Jul 2025 00:00:00",
+         "title" : "Double-Round Days Begin In Middleton"
       },
       {
          "description" : " The Esports World Cup is a blitz double elimination knockout tournament held in Riyadh, Saudi Arabia Tue 29th July to Fri 1st Aug 2025. Players: Group A Ian Nepomniachtchi, Andrey Esipenko, Levon Aronian and Vladislav Artemiev. Group B Maxime Vachier-Lagrave, Anish Giri, Arjun Erigaisi, Nihal Sarin. Group C Hikaru Nakamura, Javokhir Sindarov, Alireza Firouzja, Wei Yi. Group D Magnus Carlsen, Nodirbek Abdusattorov, Fabiano Caruana, Jan-Krzysztof Duda. Double elimination is a super complicated format for me to cover. I will round up the games as the event progresses but this is very much an event for watching live on video if you ask me. ",
@@ -272,14 +312,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-divya-deshmukh-play-peaceful-34-move-draw-to-stay-at-par/articleshow/122947152.cms",
          "pubDate" : "Mon, 28 Jul 2025 06:27:48",
          "title" : "Humpy, Divya play peaceful 34-move draw to stay at par"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122945553.cms\" />The FIDE Women's World Chess Cup final remains undecided as Koneru Humpy and Divya Deshmukh drew their second classical game. A rapid tiebreak will determine the champion. Deshmukh held her own against Humpy's opening advantage. The tiebreak format includes rapid, blitz games, and an Armageddon game if needed.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/what-are-rapid-tiebreaks-and-how-will-they-decide-the-fide-womens-world-cup-winner-explained/articleshow/122945553.cms",
-         "pubDate" : "Mon, 28 Jul 2025 05:17:47",
-         "title" : "What are rapid tiebreaks and how will they decide the Women's World Cup Winner?"
       },
       {
          "description" : "Organized and run by FM Kevin Bachler and his wife Deborah, the 2025 Caveman Chess Festival had something for everyone. Festivities kicked off Sunday, July 20, with a chess camp that attracted campers ages 7 to 76. Along with grandmasters Boris Avrukh, Dmitry Gurevich, and Yury Shulman, I was an instructor.From Friday, July 25, through Sunday, July 27, nine tournaments - including three national championship events - took place simultaneously at the Hilton Northbrook hotel in suburban Chicago. Pairings and standings will be available here and can also be found here. 2025 U.S. Senior OpenOn the first day of the 2025 U.S. Senior Open, news broke that GM Alex Fishbein won a playoff to become th",
@@ -626,14 +658,6 @@ news_feed (
          "title" : "Derrick Rose Chesstival Freestyle rousing success!"
       },
       {
-         "description" : "Today's puzzles continue a series featuring games from the 2025 FIDE World Cadets Cup. Read our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cadets-cup-pt-3",
-         "pubDate" : "Tue, 22 Jul 2025 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Cadets Cup, Pt. 3"
-      },
-      {
          "description" : " POSTGAME Round 6: Could Abhi Slow Andy? Join GMs Yasser Seirawan &#038; Cristian Chirila, and IM Nazi Paikidze for the top moments of today's games. Standings 2025 U.S. Junior Championship Standings + # Place Name Rating Rd 1 Rd 2 Rd 3 Rd 4 Rd 5 Rd 6 Rd 7 Rd 8 Rd 9 Total [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-6-could-abhi-slow-andy-2025-us-national-championships/\">POSTGAME ROUND 6: Could Abhi Slow Andy?</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -738,28 +762,12 @@ news_feed (
          "title" : "Quarterfinal Tension Rises: Humpy Triumphs, Harika, Divya, and Vaishali Hold Ground"
       },
       {
-         "description" : "World numbers one and two Magnus Carlsen and Hikaru Nakamura will battle for the $100,000 third-place prize on the final day of the Freestyle Chess Grand Slam Las Vegas. Carlsen lost his first game of the day to GM Praggnanandhaa Rameshbabu but bl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/freestyle-chess-las-vegas-day-4",
-         "pubDate" : "Sun, 20 Jul 2025 00:51:00",
-         "title" : "Carlsen, Nakamura Set Up $100,000 Showdown In Las Vegas"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-5-all-about-the-juniors-2025-us-national-championships/\">POSTGAME ROUND 5: All About the Juniors</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-5-all-about-the-juniors-2025-us-national-championships/",
          "pubDate" : "Sun, 20 Jul 2025 00:19:12",
          "title" : "POSTGAME ROUND 5: All About the Juniors"
-      },
-      {
-         "description" : "GM Daniel Naroditsky has returned to the top spot in the latest edition of Bullet Brawl, two months after winning his last title. Naroditsky outpaced 105 titled players, including the second- and third-placed GM Oleksandr Bortnyk and IM Yoseph Tah...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-july-19-2025",
-         "pubDate" : "Sat, 19 Jul 2025 18:09:00",
-         "title" : "Naroditsky Brute-Forces His Way Back To Top Of Bullet Brawl"
       },
       {
          "description" : "Recent regrettable events at the music festival in Glastonbury, where pop duo \"Bob Vylan\" led a sad minority of bigots in calling for Jewish extermination, have caused me to revisit the question of antisemitism in general and chess in particular. Vylan's eponymous lead singer, (real name: Pascal Robinson-Foster) notoriously parroted the genocidal brief 'From the river to the sea', a call unwisely broadcast live by []",
