@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The traditional chess festival in Dortmund kicks off its 52nd edition this Saturday as the Sparkassen Chess Trophy. European champion Matthias Bl&uuml;baum is the favourite in the A Open. On Sunday, the International Women's Tournament begins, featuring four grandmasters: Elisabeth P&auml;htz, Dinara Wagner, 15-year-old Chinese champion Miaoyi Lu, and Deimant&eacute; Daulyt&eacute;-Cornette of France. | Photo: Elisabeth P&auml;htz and Dinara Wagner",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/international-dortmund-chess-days-kick-off-on-saturday",
+         "pubDate" : "Wed, 30 Jul 2025 09:06:07",
+         "title" : "International Dortmund Chess Days kick off on Saturday"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122991218.cms\" />Koneru Humpy, a veteran of Indian chess, continues to inspire after securing a silver medal at the Women's Chess World Cup and qualifying for the 2026 Candidates tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-young-indian-girls-need-to-get-more-training-koneru-humpy/articleshow/122991218.cms",
+         "pubDate" : "Wed, 30 Jul 2025 06:44:04",
+         "title" : "EXCLUSIVE | 'Young Indian girls need to get more training' - Koneru Humpy"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122990856.cms\" />Speaking exclusively with TOI from Batumi airport in Georgia, Divya talked at length and shared her thoughts on how it feels to be a Grandmaster, how she turned things around in her favour and the favourite dress she wore during all her tiebreak games to script history.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-i-took-inspiration-from-milkha-and-mary-kom-movie-songs-divya-deshmukh/articleshow/122990856.cms",
+         "pubDate" : "Wed, 30 Jul 2025 06:31:52",
+         "title" : "Exclusive: 'I took inspiration from Milkha, Mary Kom movie songs' - Divya"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122990349.cms\" />Divya Deshmukh made history by winning the FIDE Women's World Cup in Batumi. The 19-year-old defeated Grandmaster (GM) Koneru Humpy in a tense tie-break. Spectators were absent during the final moments due to FIDE regulations. Divya's victory marks a significant moment for Indian women's chess. She also became India's 88th Grandmaster.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-security-protocol-why-divya-deshmukh-played-world-cup-winning-move-inside-empty-venue/articleshow/122990349.cms",
+         "pubDate" : "Wed, 30 Jul 2025 06:08:20",
+         "title" : "'Security protocol': Why Divya played World Cup-winning move inside empty venue"
+      },
+      {
          "description" : " The Esports World Cup is a blitz double elimination knockout tournament held in Riyadh, Saudi Arabia Tue 29th July to Fri 1st Aug 2025. Players: Group A Ian Nepomniachtchi, Andrey Esipenko, Levon Aronian and Vladislav Artemiev. Group B Maxime Vachier-Lagrave, Anish Giri, Arjun Erigaisi, Nihal Sarin. Group C Hikaru Nakamura, Javokhir Sindarov, Alireza Firouzja, Wei Yi. Group D Magnus Carlsen, Nodirbek Abdusattorov, Fabiano Caruana, Jan-Krzysztof Duda. Double elimination is a super complicated format for me to cover. I will round up the games as the event progresses but this is very much an event for watching live on video if you ask me. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -378,22 +410,6 @@ news_feed (
          "title" : "Gurel Scores 6/8 Against Naroditsky, Blazes To 4th Bullet Brawl Title"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122925546.cms\" />The first game of the FIDE Women's World Cup final witnessed a tense draw between Divya Deshmukh and Koneru Humpy in Batumi. Despite a promising start with the white pieces, Divya's initial advantage slipped as Humpy showcased her experience with precise defense. The 41-move game concluded through repetition, leaving Divya visibly disappointed for missing an early opportunity.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-divya-deshmukh-devastated-in-fide-womens-world-cup-final-draw-against-koneru-humpy-watch/articleshow/122925546.cms",
-         "pubDate" : "Sat, 26 Jul 2025 17:14:32",
-         "title" : "Divya devastated in World Cup final draw against Humpy - Watch"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122924507.cms\" />The first game of the Women's Chess World Cup final saw a draw between Divya Deshmukh and Koneru Humpy in Batumi. Divya, playing white, surprised with a new opening, while Humpy's experience ensured a balanced game. Despite tense moments and repeated checks, neither player could break through, setting the stage for a gripping contest.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/womens-chess-world-cup-final-divya-deshmukh-lets-advantage-slip-holds-koneru-humpy-to-hard-fought-draw-in-game-1/articleshow/122924507.cms",
-         "pubDate" : "Sat, 26 Jul 2025 15:16:46",
-         "title" : "Chess | WC Final: Divya lets advantage slip, holds Humpy to draw"
-      },
-      {
          "description" : "Hey everyone, before we get into this one on the bad and good mistakes, short announcement that you can get access to Grandmaster made courses for free for the next days. Until July 31st, ChessMood has unlocked all of their courses for anyone with a free account. For those of you that don't know, ChessMood []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -424,14 +440,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/study-and-play-learning-openings-with-fritz-20-and-the-opening-encyclopedia",
          "pubDate" : "Sat, 26 Jul 2025 08:00:00",
          "title" : "Study and play: learning openings with Fritz 20 and the Opening Encyclopedia!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122918133.cms\" />In a historic FIDE Women's World Cup final, India's Koneru Humpy, a seasoned veteran, will face the rising star Divya Deshmukh. This generational clash pits Humpy's strategic depth and experience against Divya's tactical aggression and youthful energy.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/can-teenager-divya-deshmukhs-enthusiasm-get-the-better-of-koneru-humpys-vast-experience/articleshow/122918133.cms",
-         "pubDate" : "Sat, 26 Jul 2025 06:03:20",
-         "title" : "Can teenager Divya's enthusiasm get the better of Humpy's vast experience?"
       },
       {
          "description" : "GM Alexander Fishbein clinched the U.S. Senior Championship title by winning a playoff on Friday with GM Vladimir Akopian and GM Alexander Shabalov after all three had finished in a tie for first. Fishbein earned $23,167. GM Andy Woodward was the ...",
