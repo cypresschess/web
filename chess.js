@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123027815.cms\" />Divya Deshmukh, the 19-year-old chess prodigy, clinched the FIDE Women's World Cup title in Batumi, becoming the youngest ever to achieve this feat. Deshmukh secured her Grandmaster title after defeating Koneru Humpy in a tie-breaker. Known for her aggressive playing style, she remains unfazed by pressure, focusing instead on her personal goals and expectations.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-pressure-does-not-matter-divya-deshmukh-on-ms-dhoni-comparisons/articleshow/123027815.cms",
+         "pubDate" : "Thu, 31 Jul 2025 18:17:56",
+         "title" : "'Pressure does not matter' - Divya Deshmukh on MS Dhoni comparisons"
+      },
+      {
          "description" : "The Chess Esports World Cup is taking place from 29 July to 1 August in Riyadh. Sixteen elite players are competing for a total prize pool of $1.5 million. A group stage will be held on Tuesday and Wednesday, followed by the final knockout stage on Thursday and Friday. | Matches starts daily at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live with computer analysis and expert commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/esports-world-cup-2025-day-2",
          "pubDate" : "Thu, 31 Jul 2025 13:25:00",
          "title" : "Esports World Cup: Nepo, Nihal, Naka and Abdusattorov make it through"
+      },
+      {
+         "description" : "The focus of this month&#39;s article will be on the women&#39;s rating list, as the 2025 FIDE Women&#39;s World Cup brought many changes. GM Divya Deshmukh was the player of the month as she was the first IM to ever win the event and, through it, earn the gr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/august-2025-fide-ratings",
+         "pubDate" : "Thu, 31 Jul 2025 11:50:38",
+         "title" : "August 2025 FIDE Ratings: GM Divya Breaks Into Top 15"
       },
       {
          "description" : "Two-time Under-18 World Champion Aleksey Grebnev won the strong Oskemen Masters in eastern Kazakhstan. After an impressive win in the last round, in which he showed his endgame skills, Grebnev shared first with top seed Richard Rapport. Both had 7.0/9, but Grebnev had the better tiebreak and won the tournament. | Photo: Aleksey Grebnev at the Dubai Open in June 2025 - which he also won. | Photo: Dubai Chess & Culture Club",
@@ -72,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/clash-of-generations-svidler-erdogmus-report",
          "pubDate" : "Thu, 31 Jul 2025 00:30:00",
          "title" : "Clash of Generations: Erdogmus wins classical match, Svidler dominates blitz"
+      },
+      {
+         "description" : "The final round of the five national invitational tournaments of state champions begun this morning at 10:00 a.m. CDT, with four of the five events taking the same shape.In every event but the Haring, there is one player with 4&frac12;/5 going into the last round, meaning they're \"win and in\" as outright champion. But a draw (or loss) would allow anybody from the chasing group to claim a share of the title. These \"chasing\" packs range from two (Barber) or three players (Irwin, Denker) all the way up to seven in the Rockefeller.In the Haring, however, three players enter Thursday's final round with 4&frac12;/5 scores, but only one player trails this group by a half-point. So, while we know no",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/five-titles-grabs-national-invitationals-enter-final-day",
+         "pubDate" : "Thu, 31 Jul 2025 00:00:00",
+         "title" : "Five Titles Up For Grabs As National Invitationals Enter Final Day"
       },
       {
          "description" : "The Women's Candidates Tournament 2026 is scheduled to take place in April 2026. The winner will play reigning Women's World Champion Ju Wenjun for the title. Currently, five players are qualified for the Candidates: Humpy Koneru, Tan Zhongyi, Divya Deshmukh, Zhu Jiner, and Aleksandra Goryachkina. But who has the best chances of claiming one of the three remaining spots? Here's an update from FIDE.",
@@ -288,14 +312,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/youngest-ever-wgm-norm-bodhana-sivanandan/",
          "pubDate" : "Mon, 28 Jul 2025 11:52:33",
          "title" : "Youngest ever WGM norm - Bodhana Sivanandan!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122953710.cms\" />Nineteen-year-old Divya Deshmukh secured the FIDE Women's World Cup in Batumi. She defeated Koneru Humpy in rapid tiebreaks. Divya started as the 15th seed and displayed remarkable skill. Her victory earned her the Grandmaster title. She is the fourth Indian woman to achieve this milestone. This win marks a significant moment in her career.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-womens-world-cup-winner-divya-deshmukh-becomes-indias-88th-gm-full-list-of-grandmasters/articleshow/122953710.cms",
-         "pubDate" : "Mon, 28 Jul 2025 11:44:56",
-         "title" : "Chess | Divya Deshmukh becomes India's 88th GM - full list of Grandmasters"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122953244.cms\" />Viswanathan Anand congratulated Divya Deshmukh, 19, on her FIDE Women's World Cup victory over Koneru Humpy, which also earned her the Grandmaster title and a spot in the Candidates Tournament. Anand praised Humpy's fighting spirit, acknowledging her status as a great champion.",
@@ -562,14 +578,6 @@ news_feed (
          "title" : "Assaubayeva Confirmed As 43rd Female GM, Shogdzhiev World's Youngest IM"
       },
       {
-         "description" : "The penultimate round of the 2025 National Championships finally brought clear leaders in two out of the three sections. Nevertheless, the races so far have been close enough that no section has a guaranteed winner. GM Andy Woodward's lead in the Junior is the largest (a full point), while WGM Zoey Tang's in the Girls' Junior is just half of a point. The situation is even more tense in the Senior, where GM Larry Christiansen, GM Vladimir Akopian, and GM Alexander Goldin all share the lead. Let's take the sections one by one: U.S. Junior: Woodward gets some breathing roomWoodward's fortunes were greatly aided by a sharp Sicilian win with the black pieces against the struggling IM Evan Park. A",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/woodward-tang-take-lead-goldin-christiansen-catch-akopian",
-         "pubDate" : "Thu, 24 Jul 2025 00:00:00",
-         "title" : "Woodward, Tang Take Lead as Goldin, Christiansen Catch Akopian"
-      },
-      {
          "description" : " POSTGAME Round 8: Only Two Rounds Left to Make Their Mark! Join GMs Yasser Seirawan &#038; Cristian Chirila, and IM Nazi Paikidze for the top moments of today's games. Standings 2025 U.S. Junior Championship Standings After Round 8 + # Place Name Rating Rd 1 Rd 2 Rd 3 Rd 4 Rd 5 Rd 6 [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-8-only-two-rounds-left-to-make-their-mark-2025-us-national-championships/\">POSTGAME ROUND 8: Only Two Rounds Left to Make Their Mark!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://aicf.in/gm-koneru-humpy-marches-into-semifinals-divya-harika-tie-heads-to-playoffs/",
          "pubDate" : "Mon, 21 Jul 2025 07:05:35",
          "title" : "GM Koneru Humpy Marches into Semifinals; Divya-Harika Tie Heads to Playoffs"
-      },
-      {
-         "description" : "GM Levon Aronian has been crowned the $200,000 winner of the Freestyle Chess Grand Slam Las Vegas on Sunday after overcoming GM Hans Niemann 1.5-0.5 in the Final. Aronian held firm in an opposite-colored bishop ending in the first, before putting ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/levon-aronian-wins-freestyle-chess-las-vegas",
-         "pubDate" : "Sun, 20 Jul 2025 16:26:00",
-         "title" : "Aronian Defeats Niemann, Wins $200,000 First Prize In Las Vegas"
       },
       {
          "description" : "Chief Minister Shri Bhupendra Patel extended his greetings to the chess community of the country, including Gujarat, on the occasion of International Chess Day, which",
