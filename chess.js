@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123009790.cms\" />Nineteen-year-old Divya Deshmukh was celebrated at Nagpur airport after her Women's World Cup victory in Batumi, where she triumphed over Koneru Humpy. This win secured her the Grandmaster title, a spot in the Candidates tournament, and a $50,000 prize. She credited her first coach Rahul Joshi, who passed away in 2020.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-divya-deshmukh-dedicates-world-cup-title-to-her-first-trainer-who-passed-away-in-2020/articleshow/123009790.cms",
+         "pubDate" : "Thu, 31 Jul 2025 03:17:06",
+         "title" : "Divya dedicates World Cup title to her first trainer, who passed away in 2020"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123009237.cms\" />Tensions soared at the Esports Chess World Cup 2025 as Nihal Sarin of India triumphed over Dutch champion Anish Giri, triggering a fit of rage from Giri, who was seen banging his mouse. This incident follows a similar outburst by Hans Niemann after his defeat by Giri. The rising emotional displays are sparking conversations about the pressure players face.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-after-magnus-carlsen-hans-niemann-dutch-no-1-anish-giri-rages-bangs-his-mouse-after-defeat-to-indias-nihal-sarin-watch/articleshow/123009237.cms",
+         "pubDate" : "Thu, 31 Jul 2025 02:55:32",
+         "title" : "After Carlsen, Niemann, Dutch no. 1 Giri rages, bangs his mouse - Watch"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123009033.cms\" />Divya Deshmukh, an Indian chess player, won the FIDE Women's World Cup in Batumi. She defeated Koneru Humpy in the final through an intense tie-break. This victory also earned her the Grandmaster title. Ju Wenjun of China is still the reigning Women's World Champion. Divya's World Cup win qualifies her for the Candidates Tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-is-a-chess-world-cup-winner-but-not-a-world-champion-yet-why/articleshow/123009033.cms",
+         "pubDate" : "Thu, 31 Jul 2025 02:14:52",
+         "title" : "Divya is a Chess World Cup winner - but not a World Champion yet: Why?"
+      },
+      {
+         "description" : "The Clash of Generations match in Marseille between veteran grandmaster Peter Svidler and 14-year-old Yagız Kaan Erdogmus concluded with a 4-2 classical victory for the Turkish prodigy, who impressed with strong preparation and mature play. Svidler responded by dominating the blitz section 10-2. The event offered a structured 6-game classical match followed by a 12-game blitz segment, highlighting contrasting strengths across formats and marking a milestone in Erdogmus's rapid rise. | Photo: Mark Livshitz / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clash-of-generations-svidler-erdogmus-report",
+         "pubDate" : "Thu, 31 Jul 2025 00:30:00",
+         "title" : "Clash of Generations: Erdogmus wins classical match, Svidler dominates blitz"
+      },
+      {
          "description" : "The Women's Candidates Tournament 2026 is scheduled to take place in April 2026. The winner will play reigning Women's World Champion Ju Wenjun for the title. Currently, five players are qualified for the Candidates: Humpy Koneru, Tan Zhongyi, Divya Deshmukh, Zhu Jiner, and Aleksandra Goryachkina. But who has the best chances of claiming one of the three remaining spots? Here's an update from FIDE.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -274,28 +306,12 @@ news_feed (
          "title" : "Watch: Divya breaks down in tears, hugs mother after historic World Cup win"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122952374.cms\" />In a stunning upset, 19-year-old Divya Deshmukh clinched the FIDE Women's World Cup title, defeating Koneru Humpy in rapid tiebreaks. This victory not only secured her the World Cup but also earned her final Grandmaster norm, making her the fourth Indian woman to achieve the prestigious GM title.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tears-of-joy-divya-deshmukh-breaks-down-after-winning-fide-womens-world-cup-watch/articleshow/122952374.cms",
-         "pubDate" : "Mon, 28 Jul 2025 10:55:29",
-         "title" : "Tears of joy! Divya Deshmukh breaks down after winning FIDE Women's World Cup - Watch"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122952287.cms\" />In a stunning victory, 19-year-old Divya Deshmukh clinched the FIDE Women's World Cup title, defeating India no. 1 Koneru Humpy in rapid tiebreaks in Batumi, Georgia. The 15th seed's remarkable performance saw her overcome formidable opponents. This triumph not only crowns her World Cup Champion but also secures her final Grandmaster norm.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-historic-19-year-old-divya-deshmukh-crowned-fide-womens-world-cup-champion-becomes-indias-88th-gm/articleshow/122952287.cms",
          "pubDate" : "Mon, 28 Jul 2025 10:42:34",
          "title" : "Historic! 19-yo Divya crowned Women's WC champion, becomes India's 88th GM"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122952278.cms\" />In a stunning victory, 19-year-old Diya Deshmukh triumphed over Koneru Humpy at the FIDE Women's World Cup in Georgia. Deshmukh's composed play under pressure secured her the title and also earned her the prestigious Grandmaster title, making her India's 88th Grandmaster and only the fourth Indian woman to achieve this feat.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-becomes-chess-world-champion-how-much-prize-money-did-she-win/articleshow/122952278.cms",
-         "pubDate" : "Mon, 28 Jul 2025 10:39:06",
-         "title" : "Divya Deshmukh wins Chess World Cup: How much prize money did she win?"
       },
       {
          "description" : "",
@@ -328,14 +344,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/divya-wins-2025-fide-womens-world-cup-final-tiebreaks",
          "pubDate" : "Mon, 28 Jul 2025 08:59:00",
          "title" : "Divya Wins Women's World Cup, Earns Grandmaster Title"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122947152.cms\" />Divya Deshmukh and Koneru Humpy played to a draw in the second classical game of the FIDE Women's Chess World Cup final, setting the stage for tiebreaks. Despite Humpy's slight opening advantage, Divya's solid defense and strategic pawn structure led to a balanced game. The tiebreaks will determine the winner in rapid and blitz formats.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-divya-deshmukh-play-peaceful-34-move-draw-to-stay-at-par/articleshow/122947152.cms",
-         "pubDate" : "Mon, 28 Jul 2025 06:27:48",
-         "title" : "Humpy, Divya play peaceful 34-move draw to stay at par"
       },
       {
          "description" : "Organized and run by FM Kevin Bachler and his wife Deborah, the 2025 Caveman Chess Festival had something for everyone. Festivities kicked off Sunday, July 20, with a chess camp that attracted campers ages 7 to 76. Along with grandmasters Boris Avrukh, Dmitry Gurevich, and Yury Shulman, I was an instructor.From Friday, July 25, through Sunday, July 27, nine tournaments - including three national championship events - took place simultaneously at the Hilton Northbrook hotel in suburban Chicago. Pairings and standings will be available here and can also be found here. 2025 U.S. Senior OpenOn the first day of the 2025 U.S. Senior Open, news broke that GM Alex Fishbein won a playoff to become th",
