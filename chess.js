@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123013248.cms\" />Divya Deshmukh, the youngest Indian woman to win the chess World Cup, has a family history with the game. Her great-grandfather, Dr. Durgaprasad Sharma, played chess with Vinoba Bhave. Divya's mother, Dr. Namrata Deshmukh, enrolled her in a chess academy at age five. Divya won her first national gold medal in 2012. Her parents supported her chess career, with Dr.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-has-always-been-in-divya-deshmukhs-genes-great-grandfather-used-to-play-with-vinoba-bhave/articleshow/123013248.cms",
+         "pubDate" : "Thu, 31 Jul 2025 06:45:12",
+         "title" : "Chess has always been in Divya's genes; great-grandfather used to play with Vinoba Bhave"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123009790.cms\" />Nineteen-year-old Divya Deshmukh was celebrated at Nagpur airport after her Women's World Cup victory in Batumi, where she triumphed over Koneru Humpy. This win secured her the Grandmaster title, a spot in the Candidates tournament, and a $50,000 prize. She credited her first coach Rahul Joshi, who passed away in 2020.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -296,14 +304,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-who-said-what-on-19-year-old-divya-deshmukhs-fide-world-cup-win-celebration-of-indian-chess/articleshow/122953244.cms",
          "pubDate" : "Mon, 28 Jul 2025 11:22:02",
          "title" : "Who said what on Divya's FIDE World Cup win - 'Celebration of Indian chess'"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122953025.cms\" />Divya Deshmukh, a 19-year-old chess prodigy, achieved a stunning victory at the FIDE Women's World Cup, defeating Koneru Humpy in a thrilling tie-break. This triumph not only secured her the championship but also earned her the coveted Grandmaster title, making her India's fourth woman to reach this milestone.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-19-year-old-divya-deshmukh-breaks-down-in-tears-hugs-mother-after-historic-world-cup-win/articleshow/122953025.cms",
-         "pubDate" : "Mon, 28 Jul 2025 11:19:59",
-         "title" : "Watch: Divya breaks down in tears, hugs mother after historic World Cup win"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122952287.cms\" />In a stunning victory, 19-year-old Divya Deshmukh clinched the FIDE Women's World Cup title, defeating India no. 1 Koneru Humpy in rapid tiebreaks in Batumi, Georgia. The 15th seed's remarkable performance saw her overcome formidable opponents. This triumph not only crowns her World Cup Champion but also secures her final Grandmaster norm.",
