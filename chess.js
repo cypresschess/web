@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess Esports World Cup is taking place from 29 July to 1 August in Riyadh. Sixteen elite players are competing for a total prize pool of $1.5 million. A group stage will be held on Tuesday and Wednesday, followed by the final knockout stage on Thursday and Friday. | Matches starts daily at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live with computer analysis and expert commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/esports-world-cup-2025-live",
+         "pubDate" : "Thu, 31 Jul 2025 13:50:00",
+         "title" : "Chess Esports World Cup - Live!"
+      },
+      {
+         "description" : "Day two of the 2025 Esports World Cup chess tournament concluded the group stage, with Ian Nepomniachtchi, Nihal Sarin, Hikaru Nakamura and Nodirbek Abdusattorov advancing from the Losers Brackets to complete the quarterfinal lineup. Each won two matches to stay in contention for the $250,000 first prize. Meanwhile, eight players - including Giri, Vachier-Lagrave and Caruana - were eliminated. The remaining participants are now guaranteed at least $85,000 as the knockout phase begins. | Photos: Esports World Cup",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/esports-world-cup-2025-day-2",
+         "pubDate" : "Thu, 31 Jul 2025 13:25:00",
+         "title" : "Esports World Cup: Nepo, Nihal, Naka and Abdusattorov make it through"
+      },
+      {
          "description" : "Two-time Under-18 World Champion Aleksey Grebnev won the strong Oskemen Masters in eastern Kazakhstan. After an impressive win in the last round, in which he showed his endgame skills, Grebnev shared first with top seed Richard Rapport. Both had 7.0/9, but Grebnev had the better tiebreak and won the tournament. | Photo: Aleksey Grebnev at the Dubai Open in June 2025 - which he also won. | Photo: Dubai Chess & Culture Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,14 +90,6 @@ news_feed (
          "title" : "Divya Deshmukh receives grand welcome in Nagpur after historic Chess World Cup win"
       },
       {
-         "description" : "The Chess Esports World Cup is taking place from 29 July to 1 August in Riyadh. Sixteen elite players are competing for a total prize pool of $1.5 million. A group stage will be held on Tuesday and Wednesday, followed by the final knockout stage on Thursday and Friday. | Matches starts daily at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live with computer analysis and expert commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/esports-world-cup-2025-live",
-         "pubDate" : "Wed, 30 Jul 2025 13:50:00",
-         "title" : "Chess Esports World Cup - Live!"
-      },
-      {
          "description" : "GMs Ian Nepomniachtchi (Group A), Nihal Sarin (Group B), Hikaru Nakamura (Group C), and Nodirbek Abdusattorov (Group D) won their respective Losers Brackets to complete the field of eight players in the 2025 Esports World Cup Quarterfinals. They j...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -94,24 +102,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/bodhana-secures-first-wgm-norm-makes-history",
-         "pubDate" : "Wed, 30 Jul 2025 11:00:48",
+         "pubDate" : "Wed, 30 Jul 2025 11:00:00",
          "title" : "Bodhana Scores 2400 Performance To Achieve Historic WGM Norm At 10"
-      },
-      {
-         "description" : "Since 1986, we've been developing chess software that inspires millions of players around the world - and honestly: it's a blast to spend every day working with chess, technology, and creative people! Our founding team set new standards with ChessBase and Fritz - now it's your move to continue this success story!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/checkmate-boredom-help-shape-the-future-of-chessbase",
-         "pubDate" : "Wed, 30 Jul 2025 10:00:00",
-         "title" : "Checkmate Boredom: Help Shape the Future of ChessBase!"
-      },
-      {
-         "description" : "The traditional chess festival in Dortmund kicks off its 52nd edition this Saturday as the Sparkassen Chess Trophy. European champion Matthias Bl&uuml;baum is the favourite in the A Open. On Sunday, the International Women's Tournament begins, featuring four grandmasters: Elisabeth P&auml;htz, Dinara Wagner, 15-year-old Chinese champion Miaoyi Lu, and Deimant&eacute; Daulyt&eacute;-Cornette of France. | Photo: Elisabeth P&auml;htz and Dinara Wagner",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/international-dortmund-chess-days-kick-off-on-saturday",
-         "pubDate" : "Wed, 30 Jul 2025 09:06:07",
-         "title" : "International Dortmund Chess Days kick off on Saturday"
       },
       {
          "description" : "The last Titled Tuesdays of July saw two players, GMs Maksim Chigaev and Salem Saleh, win their first of 2025. For Chigaev, it had been nearly a decade since his previous victory on June 7, 2016, while Saleh previously won on June 28, 2022. Chigae...",
