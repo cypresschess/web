@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-07-01  - 07-29","22","<a href=http://www.uschess.org/msa/XtblMain.php?202507293462 target='_blank'>JULY 2025 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2025-07-27","8","<a href=http://www.uschess.org/msa/XtblMain.php?202507271762 target='_blank'>BELLAIRE SWISS 07/27/25</a>",
 "HOUSTON","2025-07-26","8","<a href=http://www.uschess.org/msa/XtblMain.php?202507260752 target='_blank'>CHESSPANDA07262025SATURDAY</a>",
 "CYPRESS","2025-07-26","40","<a href=http://www.uschess.org/msa/XtblMain.php?202507260502 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2025-01-18","16","<a href=http://www.uschess.org/msa/XtblMain.php?202501186522 target='_blank'>MLK DAY BLITZ</a>",
 "HOUSTON","2025-01-18","5","<a href=http://www.uschess.org/msa/XtblMain.php?202501183802 target='_blank'>CHESSPANDA01182025SATURDAY</a>",
 "SUGAR LAND","2025-01-17","10","<a href=http://www.uschess.org/msa/XtblMain.php?202501173392 target='_blank'>FBCC 2025 NATIONAL KIDS INVENTOR DA</a>",
-"SPRING","2025-01-17","25","<a href=http://www.uschess.org/msa/XtblMain.php?202501173292 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
