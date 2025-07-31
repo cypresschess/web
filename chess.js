@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two-time Under-18 World Champion Aleksey Grebnev won the strong Oskemen Masters in eastern Kazakhstan. After an impressive win in the last round, in which he showed his endgame skills, Grebnev shared first with top seed Richard Rapport. Both had 7.0/9, but Grebnev had the better tiebreak and won the tournament. | Photo: Aleksey Grebnev at the Dubai Open in June 2025 - which he also won. | Photo: Dubai Chess & Culture Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aleksey-grebnev-wins-oskenem-masters",
+         "pubDate" : "Thu, 31 Jul 2025 10:23:43",
+         "title" : "Aleksey Grebnev wins Oskenem Masters"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123016181.cms\" />The Chennai Grand Masters 2025, a prestigious chess tournament, is set to take place in August, featuring a competitive field of elite veterans and rising international stars. Anish Giri, Awonder Liang, Vincent Keymer, Jorden van Foreest, and Ray Robson are among the top foreign players expected to make a significant impact with their unique styles and strengths.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-from-dutch-no-1-anish-giri-to-german-no-1-vincent-keymer-top-5-foreigners-to-look-out-for-at-chennai-grand-masters-2025/articleshow/123016181.cms",
+         "pubDate" : "Thu, 31 Jul 2025 09:18:37",
+         "title" : "From Giri to Keymer: Top 5 foreigners to look out for at Chennai Grand Masters 2025"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123013248.cms\" />Divya Deshmukh, the youngest Indian woman to win the chess World Cup, has a family history with the game. Her great-grandfather, Dr. Durgaprasad Sharma, played chess with Vinoba Bhave. Divya's mother, Dr. Namrata Deshmukh, enrolled her in a chess academy at age five. Divya won her first national gold medal in 2012. Her parents supported her chess career, with Dr.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -280,14 +296,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/youngest-ever-wgm-norm-bodhana-sivanandan/",
          "pubDate" : "Mon, 28 Jul 2025 11:52:33",
          "title" : "Youngest ever WGM norm - Bodhana Sivanandan!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122953692.cms\" />Nineteen-year-old Divya Deshmukh triumphed over veteran Koneru Humpy in a tie-breaker at the FIDE Women's World Cup in Batumi, Georgia. Coached by Srinath Narayanan, who likens her composure to M.S. Dhoni, Divya's victory underscores her exceptional talent and determination.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/like-ms-dhoni-in-pressure-moments-coach-praises-19-year-old-divya-deshmukh-after-fide-world-cup-win/articleshow/122953692.cms",
-         "pubDate" : "Mon, 28 Jul 2025 11:49:27",
-         "title" : "'Like MS Dhoni in pressure moments': Coach praises Divya Deshmukh after FIDE World Cup win"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122953710.cms\" />Nineteen-year-old Divya Deshmukh secured the FIDE Women's World Cup in Batumi. She defeated Koneru Humpy in rapid tiebreaks. Divya started as the 15th seed and displayed remarkable skill. Her victory earned her the Grandmaster title. She is the fourth Indian woman to achieve this milestone. This win marks a significant moment in her career.",
@@ -928,14 +936,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jul/11/chess-carlsen-fights-off-gukesh-in-zagreb-as-chessfest-returns-to-trafalgar-square",
          "pubDate" : "Fri, 11 Jul 2025 07:00:01",
          "title" : "Chess: Carlsen fights off Gukesh in Zagreb as ChessFest returns to Trafalgar Square"
-      },
-      {
-         "description" : "The ECU E-Magazine June 2025 is out! In this edition of the ECU E-Magazine you may read about: The June 2025 Magazine can be read online together with interactive links on the following link, or it can be downloaded below in PDF format.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-june-2025/",
-         "pubDate" : "Thu, 10 Jul 2025 08:03:41",
-         "title" : "ECU E-Magazine June 2025"
       }
    ]
 }
