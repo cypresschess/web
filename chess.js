@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Esports World Cup is a blitz double elimination knockout tournament held in Riyadh, Saudi Arabia Tue 29th July to Fri 1st Aug 2025. Players: Group A Ian Nepomniachtchi, Andrey Esipenko, Levon Aronian and Vladislav Artemiev. Group B Maxime Vachier-Lagrave, Anish Giri, Arjun Erigaisi, Nihal Sarin. Group C Hikaru Nakamura, Javokhir Sindarov, Alireza Firouzja, Wei Yi. Group D Magnus Carlsen, Nodirbek Abdusattorov, Fabiano Caruana, Jan-Krzysztof Duda. Double elimination is a super complicated format for me to cover. I will round up the games as the event progresses but this is very much an event for watching live on video if you ask me. Carlsen plays Firouzja in the final and Nakamura plays ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/esports-world-cup-2025",
+         "pubDate" : "Thu, 31 Jul 2025 23:04:00",
+         "title" : "Esports World Cup 2025 - Games and Results"
+      },
+      {
+         "description" : "Not only does Liverpool have a great musical history, it also has a great chess history. Its chess club was founded in 1837, and one of its early luminaries was Amos Burn. The city is now hosting the British Championships (31 August-10 September), a major chess festival featuring the best players and greatest British talent. | Photos: English Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/liverpool-city-of-chess",
+         "pubDate" : "Thu, 31 Jul 2025 22:17:00",
+         "title" : "Liverpool - City of Chess"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123027815.cms\" />Divya Deshmukh, the 19-year-old chess prodigy, clinched the FIDE Women's World Cup title in Batumi, becoming the youngest ever to achieve this feat. Deshmukh secured her Grandmaster title after defeating Koneru Humpy in a tie-breaker. Known for her aggressive playing style, she remains unfazed by pressure, focusing instead on her personal goals and expectations.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/esports-world-cup-2025-day-2",
          "pubDate" : "Thu, 31 Jul 2025 13:25:00",
          "title" : "Esports World Cup: Nepo, Nihal, Naka and Abdusattorov make it through"
+      },
+      {
+         "description" : "World number-one Magnus Carlsen will take on GM Alireza Firouzja in the 2025 Esports World Cup Grand Final after defeating GM Hikaru Nakamura 4-3 in an epic match decided only in armageddon. Carlsen had earlier defeated GM Nihal Sarin 2.5-0.5, whi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-esports-world-cup-day-3",
+         "pubDate" : "Thu, 31 Jul 2025 13:11:58",
+         "title" : "Carlsen Silences Crowd To Beat Nakamura, Books Esports Final Vs. Firouzja"
       },
       {
          "description" : "The focus of this month&#39;s article will be on the women&#39;s rating list, as the 2025 FIDE Women&#39;s World Cup brought many changes. GM Divya Deshmukh was the player of the month as she was the first IM to ever win the event and, through it, earn the gr...",
@@ -200,14 +224,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/double-round-days-begin-middleton",
          "pubDate" : "Wed, 30 Jul 2025 00:00:00",
          "title" : "Double-Round Days Begin In Middleton"
-      },
-      {
-         "description" : " The Esports World Cup is a blitz double elimination knockout tournament held in Riyadh, Saudi Arabia Tue 29th July to Fri 1st Aug 2025. Players: Group A Ian Nepomniachtchi, Andrey Esipenko, Levon Aronian and Vladislav Artemiev. Group B Maxime Vachier-Lagrave, Anish Giri, Arjun Erigaisi, Nihal Sarin. Group C Hikaru Nakamura, Javokhir Sindarov, Alireza Firouzja, Wei Yi. Group D Magnus Carlsen, Nodirbek Abdusattorov, Fabiano Caruana, Jan-Krzysztof Duda. Double elimination is a super complicated format for me to cover. I will round up the games as the event progresses but this is very much an event for watching live on video if you ask me. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/esports-world-cup-2025",
-         "pubDate" : "Tue, 29 Jul 2025 13:58:00",
-         "title" : "Esports World Cup 2025 - Games and Results"
       },
       {
          "description" : "GMs Levon Aronian (Group A), Arjun Erigaisi&#38;nbsp;(Group B), Alireza Firouzja&#38;nbsp;(Group C), and Magnus Carlsen (Group D) all won two matches to reach the Quarterfinals of the 2025 Esports World Cup.&#38;nbsp; On their last lives in the Losers Brack...",
@@ -736,14 +752,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-examination-in-bathindapunjab-on-15-16-august-2025/",
          "pubDate" : "Mon, 21 Jul 2025 11:05:10",
          "title" : "Senior National Arbiter Seminar & Examination in Bathinda,Punjab on 15 & 16 August 2025"
-      },
-      {
-         "description" : "We&#39;re excited to announce the 2025 Women&#39;s Speed Chess Championship (WSCC), the most exciting speed chess event for women in the world! Starting on August 4, the event will feature a $75,000 prize fund and the same thrilling format fans already kn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-womens-speed-chess-championship-2025",
-         "pubDate" : "Mon, 21 Jul 2025 08:49:00",
-         "title" : "Ju Wenjun, Hou Yifan Headline Women's Speed Chess Championship Starting August 4"
       },
       {
          "description" : "Grandmaster Koneru Humpy became the first player to secure a spot in the semifinals of the FIDE Women's World Cup 2025, defeating China's IM Song",
