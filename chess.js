@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kavutskiy shares how he balances his pursuit of the Grandmaster title with his work as a content creator, coach, and co-founder of ChessDojo. Though his creative and educational work often limits his tournament prep, he remains deeply motivated by a love for the game and a desire to improve. In the interview, he reflects on chess as a tool for personal growth, his admiration for the King's Indian Defense, and his belief that freestyle chess could shape the game's future.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kostya-kavutskiy-why-he-still-believes-in-the-gm-dream",
+         "pubDate" : "Fri, 01 Aug 2025 12:00:00",
+         "title" : "Kostya Kavutskiy - Why he still believes in the GM dream"
+      },
+      {
+         "description" : "The third day of the 2025 Esports World Cup chess tournament featured both the quarterfinals and semifinals, with Magnus Carlsen and Alireza Firouzja advancing to the Grand Final. In the semis, Carlsen edged out Hikaru Nakamura in a tightly contested match that went to Armageddon, while Firouzja defeated Arjun Erigaisi 4-1. Nakamura and Arjun will meet in the third-place playoff. | Photos: Esports World Cup",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/esports-world-cup-2025-day-3",
+         "pubDate" : "Fri, 01 Aug 2025 10:40:00",
+         "title" : "Esports World Cup: Carlsen knocks out Naka, will face Firouzja in Grand Final"
+      },
+      {
+         "description" : "Last Updated on 1st August 2025 by WebAdmin World Youth Championships 3 16 October Nominated and approved England players selected for the 2025 FIDE World Youth Championships U14, U16...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/world-youth-european-youth-championships/",
+         "pubDate" : "Fri, 01 Aug 2025 10:35:41",
+         "title" : "World Youth & European Youth Championships"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123037973.cms\" />Divya Deshmukh achieved a hat-trick of successes in Batumi. She returned home as a Grandmaster after winning the World Cup. Divya defeated India No. 1 Koneru Humpy in the final. She also secured her place in the Candidates tournament. She shared her experiences and strategies. Divya acknowledged the support of her coach and seconds.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "'Pressure doesn't matter, but my own expectations and goals do': Divya Deshmukh"
       },
       {
-         "description" : " Record entry in Liverpool, while Bodhana Sivanandan bids to become youngest national women's champion England's grandmasters are in action on Saturday, as round one of the British Championship gets under way at St George's Hall in the centre of Liverpool. Former Russian Nikita Vitiugov, 38, the national No 1, is top seeded while the No 2 and world senior champion, Michael Adams, is the man in form after the 53-year-old from Taunton, Somerset, won the English title in July. The continuing chess boom, reflecting the easy availability of <a href=\"https://lichess.org/\">online blitz games</a>, the popularity of the world No 1, Magnus Carlsen, and the success of Netflix's The Queen's Gambit, have",
+         "description" : " Record entry in Liverpool, while Bodhana Sivanandan bids to become youngest national women's champion England's grandmasters are in action on Saturday, as round one of the British Championship gets under way at St George's Hall in the centre of Liverpool. Former Russian Nikita Vitiugov, 38, the national No 1, is top seeded while the No 3 and world senior champion, Michael Adams, is the man in form after the 53-year-old from Taunton, Somerset, won the English title in July. The continuing chess boom, reflecting the easy availability of <a href=\"https://lichess.org/\">online blitz games</a>, the popularity of the world No 1, Magnus Carlsen, and the success of Netflix's <a href=\"https://www.the",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/aug/01/chess-10-year-old-targets-world-record-alongside-grandmasters-at-british-championship",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-pressure-does-not-matter-divya-deshmukh-on-ms-dhoni-comparisons/articleshow/123027815.cms",
          "pubDate" : "Thu, 31 Jul 2025 18:17:56",
          "title" : "'Pressure does not matter' - Divya Deshmukh on MS Dhoni comparisons"
-      },
-      {
-         "description" : "The Chess Esports World Cup is taking place from 29 July to 1 August in Riyadh. Sixteen elite players are competing for a total prize pool of $1.5 million. A group stage will be held on Tuesday and Wednesday, followed by the final knockout stage on Thursday and Friday. | Matches starts daily at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live with computer analysis and expert commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/esports-world-cup-2025-live",
-         "pubDate" : "Thu, 31 Jul 2025 13:50:00",
-         "title" : "Chess Esports World Cup - Live!"
       },
       {
          "description" : "Day two of the 2025 Esports World Cup chess tournament concluded the group stage, with Ian Nepomniachtchi, Nihal Sarin, Hikaru Nakamura and Nodirbek Abdusattorov advancing from the Losers Brackets to complete the quarterfinal lineup. Each won two matches to stay in contention for the $250,000 first prize. Meanwhile, eight players - including Giri, Vachier-Lagrave and Caruana - were eliminated. The remaining participants are now guaranteed at least $85,000 as the knockout phase begins. | Photos: Esports World Cup",
@@ -936,14 +952,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-team-chess-champions-2025-crowned-in-slovenia/",
          "pubDate" : "Sat, 12 Jul 2025 09:32:21",
          "title" : "European Youth Team Chess Champions 2025 crowned in Slovenia"
-      },
-      {
-         "description" : "Last Updated on 28th July 2025 by WebAdmin &#160; &#160;",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-championships-2025/#new_tab",
-         "pubDate" : "Fri, 11 Jul 2025 08:00:22",
-         "title" : "English and English Women's Championships 2025"
       }
    ]
 }
