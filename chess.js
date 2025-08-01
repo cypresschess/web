@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123037973.cms\" />Divya Deshmukh achieved a hat-trick of successes in Batumi. She returned home as a Grandmaster after winning the World Cup. Divya defeated India No. 1 Koneru Humpy in the final. She also secured her place in the Candidates tournament. She shared her experiences and strategies. Divya acknowledged the support of her coach and seconds.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pressure-doesnt-matter-but-my-own-expectations-and-goals-do-divya-deshmukh/articleshow/123037973.cms",
+         "pubDate" : "Fri, 01 Aug 2025 07:21:18",
+         "title" : "'Pressure doesn't matter, but my own expectations and goals do': Divya Deshmukh"
+      },
+      {
+         "description" : " Record entry in Liverpool, while Bodhana Sivanandan bids to become youngest national women's champion England's grandmasters are in action on Saturday, as round one of the British Championship gets under way at St George's Hall in the centre of Liverpool. Former Russian Nikita Vitiugov, 38, the national No 1, is top seeded while the No 2 and world senior champion, Michael Adams, is the man in form after the 53-year-old from Taunton, Somerset, won the English title in July. The continuing chess boom, reflecting the easy availability of <a href=\"https://lichess.org/\">online blitz games</a>, the popularity of the world No 1, Magnus Carlsen, and the success of Netflix's The Queen's Gambit, have",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/aug/01/chess-10-year-old-targets-world-record-alongside-grandmasters-at-british-championship",
+         "pubDate" : "Fri, 01 Aug 2025 07:00:17",
+         "title" : "Chess: 10-year-old targets world record alongside grandmasters at British Championship"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123035744.cms\" />Divya Deshmukh's Grandmaster title highlights a gender disparity in Indian chess. Only four Indian women have achieved this rank, compared to over eighty men. Experts cite societal pressures, lack of support, and financial constraints as key factors. They emphasize the need for inclusive policies, coaching, and financial aid. This will encourage more women to pursue chess professionally.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-no-support-in-male-dominated-society-divya-deshmukh-becomes-indias-4th-female-gm-but-why-arent-there-more/articleshow/123035744.cms",
+         "pubDate" : "Fri, 01 Aug 2025 05:41:06",
+         "title" : "'No support in male-dominated society': Divya becomes India's 4th female GM; but why so few?"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123033463.cms\" />In a thrilling Esports World Cup 2025 chess semifinal, Magnus Carlsen edged out Hikaru Nakamura 4-3, reaching the final after an Armageddon showdown. Nakamura, despite a strong King's Indian Defense win, narrowly missed victory. Carlsen will now face Alireza Firouzja for the top prize, while Nakamura competes for third place.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -322,28 +346,12 @@ news_feed (
          "title" : "FIDE Women's World Cup 2025 - Games and Results"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122956105.cms\" />Divya Deshmukh, with modest expectations, remarkably won the FIDE Women's World Cup 2025, securing a spot in the Candidates tournament and the World Cup title. This victory automatically granted her the Grandmaster title, bypassing the usual norm and rating requirements. Deshmukh defeated Koneru Humpy, becoming the fourth Indian woman to achieve Grandmaster status.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-what-did-divya-deshmukh-say-after-becoming-first-indian-to-win-fide-womens-world-cup-title-full-details/articleshow/122956105.cms",
-         "pubDate" : "Mon, 28 Jul 2025 14:28:28",
-         "title" : "Chess | What did Divya say after becoming first Indian to win WC? Full details"
-      },
-      {
          "description" : "Last Updated on 29th July 2025 by WebAdmin Sunday 27 July will go down in history as a great day for English football, with the Lionesses winning the Euros final...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/youngest-ever-wgm-norm-bodhana-sivanandan/",
          "pubDate" : "Mon, 28 Jul 2025 11:52:33",
          "title" : "Youngest ever WGM norm - Bodhana Sivanandan!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122953244.cms\" />Viswanathan Anand congratulated Divya Deshmukh, 19, on her FIDE Women's World Cup victory over Koneru Humpy, which also earned her the Grandmaster title and a spot in the Candidates Tournament. Anand praised Humpy's fighting spirit, acknowledging her status as a great champion.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-who-said-what-on-19-year-old-divya-deshmukhs-fide-world-cup-win-celebration-of-indian-chess/articleshow/122953244.cms",
-         "pubDate" : "Mon, 28 Jul 2025 11:22:02",
-         "title" : "Who said what on Divya's FIDE World Cup win - 'Celebration of Indian chess'"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122952287.cms\" />In a stunning victory, 19-year-old Divya Deshmukh clinched the FIDE Women's World Cup title, defeating India no. 1 Koneru Humpy in rapid tiebreaks in Batumi, Georgia. The 15th seed's remarkable performance saw her overcome formidable opponents. This triumph not only crowns her World Cup Champion but also secures her final Grandmaster norm.",
@@ -936,14 +944,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-championships-2025/#new_tab",
          "pubDate" : "Fri, 11 Jul 2025 08:00:22",
          "title" : "English and English Women's Championships 2025"
-      },
-      {
-         "description" : " The Norwegian lost his second game in succession to the 19-year-old Indian but won a third in \"old man's chess\" style, while 20,000 fans are expected in London on Sunday It looked as if the Magnus Carlsen era might finally be over. The Norwegian, 35, had just lost his second game in succession to India's world champion, Gukesh Dommaraju, 19, who was on a streak of five consecutive wins and leading the Zagreb event three points ahead of Carlsen. <a href=\"https://www.chessgames.com/perl/chess.pl?tid=135615&amp;pid=52948\">The game</a> was like their <a href=\"https://www.chessgames.com/perl/chessgame?gid=2905674\">first in Stavanger</a>, where Carlsen had spoiled a winning position and images of",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/jul/11/chess-carlsen-fights-off-gukesh-in-zagreb-as-chessfest-returns-to-trafalgar-square",
-         "pubDate" : "Fri, 11 Jul 2025 07:00:01",
-         "title" : "Chess: Carlsen fights off Gukesh in Zagreb as ChessFest returns to Trafalgar Square"
       }
    ]
 }
