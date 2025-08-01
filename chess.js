@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123033463.cms\" />In a thrilling Esports World Cup 2025 chess semifinal, Magnus Carlsen edged out Hikaru Nakamura 4-3, reaching the final after an Armageddon showdown. Nakamura, despite a strong King's Indian Defense win, narrowly missed victory. Carlsen will now face Alireza Firouzja for the top prize, while Nakamura competes for third place.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-hopefully-alireza-can-kick-magnus-carlsens-a-hikaru-nakamura-after-epic-semifinal-loss-at-esports-world-cup/articleshow/123033463.cms",
+         "pubDate" : "Fri, 01 Aug 2025 03:06:43",
+         "title" : "'Hopefully, Alireza can kick Carlsen's a**': Nakamura after semifinal loss"
+      },
+      {
+         "description" : "The 19th Amber Blindfold and Rapid Tournament, held in Nice from 13 to 25 March 2010, saw a gripping duel between 19-year-old Magnus Carlsen, who had just become the highest-rated player in the world, and Ukrainian star Vasyl Ivanchuk, the only player to take part in all editions of the event. Both finished on 14&frac12;/22 points, but their paths to victory differed: Ivanchuk remained unbeaten throughout, while Carlsen played uncompromisingly, drawing only 3 out of 22 games. | All photos: Nadja Wittmann",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/throwback-thursday-amber-2010",
+         "pubDate" : "Fri, 01 Aug 2025 02:00:00",
+         "title" : "Throwback Thursday: Ivanchuk and Carlsen co-winners in Amber 2010"
+      },
+      {
          "description" : " The Esports World Cup is a blitz double elimination knockout tournament held in Riyadh, Saudi Arabia Tue 29th July to Fri 1st Aug 2025. Players: Group A Ian Nepomniachtchi, Andrey Esipenko, Levon Aronian and Vladislav Artemiev. Group B Maxime Vachier-Lagrave, Anish Giri, Arjun Erigaisi, Nihal Sarin. Group C Hikaru Nakamura, Javokhir Sindarov, Alireza Firouzja, Wei Yi. Group D Magnus Carlsen, Nodirbek Abdusattorov, Fabiano Caruana, Jan-Krzysztof Duda. Double elimination is a super complicated format for me to cover. I will round up the games as the event progresses but this is very much an event for watching live on video if you ask me. Carlsen plays Firouzja in the final and Nakamura plays ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -46,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-esports-world-cup-day-3",
-         "pubDate" : "Thu, 31 Jul 2025 13:11:58",
+         "pubDate" : "Thu, 31 Jul 2025 13:11:00",
          "title" : "Carlsen Silences Crowd To Beat Nakamura, Books Esports Final Vs. Firouzja"
       },
       {
@@ -312,14 +328,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-what-did-divya-deshmukh-say-after-becoming-first-indian-to-win-fide-womens-world-cup-title-full-details/articleshow/122956105.cms",
          "pubDate" : "Mon, 28 Jul 2025 14:28:28",
          "title" : "Chess | What did Divya say after becoming first Indian to win WC? Full details"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122955616.cms\" />Nineteen-year-old Divya Deshmukh made history by becoming the first Indian woman to win the FIDE Women's World Cup, defeating Koneru Humpy in a tiebreak. The crucial match saw Koneru make inaccurate moves, ultimately benefiting Divya, who capitalised on the opportunity. PM Modi and President Murmu congratulated Deshmukh on her remarkable achievement.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/proud-of-young-divya-deshmukh-pm-modi-congratulates-19-year-old-on-becoming-first-indian-to-win-chess-world-cup-title/articleshow/122955616.cms",
-         "pubDate" : "Mon, 28 Jul 2025 13:48:30",
-         "title" : "'Proud of young Divya': PM Modi congratulates 19-yo on becoming first Indian to win WC title"
       },
       {
          "description" : "Last Updated on 29th July 2025 by WebAdmin Sunday 27 July will go down in history as a great day for English football, with the Lionesses winning the Euros final...",
