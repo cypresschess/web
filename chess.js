@@ -82,6 +82,14 @@ news_feed (
          "title" : "Magnus Carlsen breaks new ground, wins first edition of Chess Esports World Cup"
       },
       {
+         "description" : "At the U.S. Open, we know there are a ton of chess players around, but it doesn't always feel that way during the first few days. Some players are off in the invitationals, others are at side events, and some are attending (or leading) committee meetings and workshops. Of those who are playing in the main event, there are three different schedules, so the playing hall feels half-empty at any given time.And then, there's the merge. Over 500 players competed in the seventh round of the 125th Annual U.S. Open on Friday, August 1, in Middleton, WI for the first of three merged rounds this weekend. Participants will again scatter around the Madison Marriott West - this weekend's side events inclu",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/friedel-leads-us-open-after-merge",
+         "pubDate" : "Sat, 02 Aug 2025 00:00:00",
+         "title" : "Friedel Leads U.S. Open After the Merge"
+      },
+      {
          "description" : " The 111th British Chess Championships take place in Liverpool Saturday 2nd to Sunday 10th August 2025. Top seeds Nikita Vitiugov, Michael Adams, Gawain Maroroa Jones, Stuart C Conquest Ameet K Ghasi etc. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -576,14 +584,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/clash-of-generations-svidler-erdogmus-2025",
          "pubDate" : "Fri, 25 Jul 2025 00:43:00",
          "title" : "Clash of Generations Svidler Erdogmus 2025 - Games and Results"
-      },
-      {
-         "description" : "Breaking: Fishbein wins Senior Championship after three-way playoffFor the first time ever, we have a three-way tie in the U.S. Senior Championship. But the winners may not be who you expect. Yesterday's round concluded with a three-way tie between GMs Vladimir Akopian, Larry Christiansen, and Alexander Goldin. Of those three, only Akopian made it through the last round unscathed after drawing a solid game with GM Gregory Kaidanov. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Defending champion Vladimir Akopian jumped out to an early lead, but a string of draws led to him studying his competitors' games as closely as his own by the final round (Phot",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/woodward-tang-and-fishbein-win-national-championships",
-         "pubDate" : "Fri, 25 Jul 2025 00:00:00",
-         "title" : "Woodward, Tang, and Fishbein Win National Championships"
       },
       {
          "description" : "GM Vladimir Fedoseev emerged as the winner of the grueling Biel Masters Triathlon, an event that required him to play a total of 30 games in Chess960, blitz, rapid, and classical formats over 11 days. The Russian grandmaster, who lives in Germany ...",
