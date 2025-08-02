@@ -2,28 +2,124 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Kavutskiy shares how he balances his pursuit of the Grandmaster title with his work as a content creator, coach, and co-founder of ChessDojo. Though his creative and educational work often limits his tournament prep, he remains deeply motivated by a love for the game and a desire to improve. In the interview, he reflects on chess as a tool for personal growth, his admiration for the King's Indian Defense, and his belief that freestyle chess could shape the game's future.",
+         "description" : "Michael Kotyk, a young chess trainer from Hamburg, has taken a close look at David Navara's new course. The Czech grandmaster, who has been among the world's elite for many years, offers deep insights into how chess players can make their thinking processes more effective. Players often misjudge what needs to be calculated and what does not. Kotyk explains how David Navara approaches this subject.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kostya-kavutskiy-why-he-still-believes-in-the-gm-dream",
-         "pubDate" : "Fri, 01 Aug 2025 12:00:00",
-         "title" : "Kostya Kavutskiy - Why he still believes in the GM dream"
+         "link" : "https://en.chessbase.com/post/review-david-navara-your-calculation-compass-know-when-to-calculate",
+         "pubDate" : "Sat, 02 Aug 2025 17:00:00",
+         "title" : "Review: David Navara - Your Calculation Compass: Know When to Calculate"
       },
       {
-         "description" : "The third day of the 2025 Esports World Cup chess tournament featured both the quarterfinals and semifinals, with Magnus Carlsen and Alireza Firouzja advancing to the Grand Final. In the semis, Carlsen edged out Hikaru Nakamura in a tightly contested match that went to Armageddon, while Firouzja defeated Arjun Erigaisi 4-1. Nakamura and Arjun will meet in the third-place playoff. | Photos: Esports World Cup",
+         "description" : "I'm so grateful that I grew up in a chess world without opening courses, clickbait, move-trainer, and constant FOMO. It allowed me to train the one main skill that helps me excel at chess, be a better businessman, and solve difficult problems in my private life. To think. On my own. Without interruption and help. []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/thinking/",
+         "pubDate" : "Sat, 02 Aug 2025 13:00:00",
+         "title" : "How AI Destroys Your Chess"
+      },
+      {
+         "description" : "Having completed my annual pilgrimage to Glyndebourne for their new version of Le Nozze di Figaro, I finally realised what this particular opera by Mozart is all about. Figaro initially expresses his rivalry with Count Almaviva in terms of a dance: \"Se vuol ballare, signor contino, il chitarrino le suonerÃ²&hellip;\" (Act I, Scene II) But the plot []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/mozarts-moves-figaro-as-a-game-of-chess/",
+         "pubDate" : "Sat, 02 Aug 2025 12:36:00",
+         "title" : "Mozart's moves: 'Figaro' as a game of chess"
+      },
+      {
+         "description" : "Frederic Friedel reveals what the Egyptian pyramids, an internship with Otto Borik and a frog game on the home computer have to do with his career in Germany's leading chess magazine SCHACH-MAGAZIN 64, where he was interviewed by Stefan Liebig. The four-page article is reproduced here in English with the kind permission of Schuenemann-Verlag. | Photos: Archiv Frederic Friedel",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/esports-world-cup-2025-day-3",
-         "pubDate" : "Fri, 01 Aug 2025 10:40:00",
-         "title" : "Esports World Cup: Carlsen knocks out Naka, will face Firouzja in Grand Final"
+         "link" : "https://en.chessbase.com/post/a-guestbook-full-of-chess-stories",
+         "pubDate" : "Sat, 02 Aug 2025 10:00:00",
+         "title" : "A guestbook full of chess stories"
       },
       {
-         "description" : "Last Updated on 1st August 2025 by WebAdmin World Youth Championships 3 16 October Nominated and approved England players selected for the 2025 FIDE World Youth Championships U14, U16...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/world-youth-european-youth-championships/",
-         "pubDate" : "Fri, 01 Aug 2025 10:35:41",
-         "title" : "World Youth & European Youth Championships"
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123059657.cms\" />Maharashtra Chief Minister Devendra Fadnavis honored Divya Deshmukh, the FIDE Women's Chess World Cup champion, with a Rs 3 crore award. The 19-year-old from Nagpur secured her victory in Batumi, Georgia, defeating Koneru Humpy, also earning the Grandmaster title. Deshmukh expressed gratitude to the Maharashtra government and Chess Association for their support.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-rs-3-crore-reward-divya-deshmukh-felicitated-by-maharashtra-cm/articleshow/123059657.cms",
+         "pubDate" : "Sat, 02 Aug 2025 09:24:13",
+         "title" : "Chess | Rs 3 crore reward! Divya Deshmukh felicitated by Maharashtra CM"
+      },
+      {
+         "description" : "Check out the FIDE rankings of the best chess players in the world.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45884604/fide-chess-rankings-august-divya-deshmukh-reaches-career-high-rank-15?device=featurephone",
+         "pubDate" : "Sat, 2 Aug 2025 08:55:00",
+         "title" : "FIDE Chess rankings for August: Divya Deshmukh reaches career-high rank of 15"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123058151.cms\" />The Chennai Grand Masters 2025 is poised to be a significant chess event in Asia, featuring top global and Indian talents. Arjun Erigaisi, India's highest-rated player, leads the charge alongside experienced players like Vidit Gujrathi and young stars such as Nihal Sarin and Leon Luke Mendonca. Harika Dronavalli, a veteran of Indian women's chess, adds further depth to the competition.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-from-arjun-erigaisi-to-harika-dronavalli-top-5-indian-to-watch-at-chennai-grand-masters-2025/articleshow/123058151.cms",
+         "pubDate" : "Sat, 02 Aug 2025 08:51:34",
+         "title" : "From Erigaisi to Harika: Top 5 Indians to watch at Chennai Grand Masters 2025"
+      },
+      {
+         "description" : "You look around in the chess world these days, you will find a young Indian competing for the top honours.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45883892/global-chess-now-era-vishys-children?device=featurephone",
+         "pubDate" : "Sat, 2 Aug 2025 06:08:00",
+         "title" : "Global chess is now in the era of Vishy's children"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123055171.cms\" />Magnus Carlsen, the world's top-ranked grandmaster, has secured another victory, this time at the inaugural Esports Chess World Cup in Riyadh. Representing Team Liquid, Carlsen triumphed over Alireza Firouzja in the final, earning $250,000 and praising the event's innovative format. The inclusion of chess in the Esports World Cup marks a significant step in modernizing the game.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/new-ground-conquered-world-no-1-magnus-carlsen-after-winning-inaugural-esports-chess-world-cup-title/articleshow/123055171.cms",
+         "pubDate" : "Sat, 02 Aug 2025 03:32:50",
+         "title" : "'New ground conquered': Carlsen after winning inaugural Esports Chess WC"
+      },
+      {
+         "description" : "Magnus Carlsen won the first-ever chess tournament held at the Esports World Cup, defeating Alireza Firouzja with two consecutive 3-1 set wins in the Grand Final. The Norwegian performed convincingly throughout the four-day event, displaying consistent control and clock management in every stage. Earlier on the final day, Hikaru Nakamura edged Arjun Erigaisi 3&frac12;-2&frac12; to secure third place. The tournament featured a fast-paced, no-increment format. | Photos: Esports World Cup",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/esports-world-cup-2025-day-4",
+         "pubDate" : "Sat, 02 Aug 2025 03:10:00",
+         "title" : "Magnus Carlsen breaks new ground, wins first edition of Chess Esports World Cup"
+      },
+      {
+         "description" : " The 111th British Chess Championships take place in Liverpool Saturday 2nd to Sunday 10th August 2025. Top seeds Nikita Vitiugov, Michael Adams, Gawain Maroroa Jones, Stuart C Conquest Ameet K Ghasi etc. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/111th-british-chess-championships-2025",
+         "pubDate" : "Fri, 1 Aug 2025 20:53:00",
+         "title" : "111th British Chess Championships 2025 - Games and Results"
+      },
+      {
+         "description" : " The Esports World Cup chess sections was a blitz double elimination knockout tournament held in Riyadh, Saudi Arabia Tue 29th July to Fri 1st Aug 2025. Players: Group A Ian Nepomniachtchi, Andrey Esipenko, Levon Aronian and Vladislav Artemiev. Group B Maxime Vachier-Lagrave, Anish Giri, Arjun Erigaisi, Nihal Sarin. Group C Hikaru Nakamura, Javokhir Sindarov, Alireza Firouzja, Wei Yi. Group D Magnus Carlsen, Nodirbek Abdusattorov, Fabiano Caruana, Jan-Krzysztof Duda. Magnus Carlsen easily beat Alireza Firouzja in the final winning 2-0 in a best of 3 sets and winning each of those sets 3-1 Hikaru Nakamura narrowly beat Arjun Erigaisi in the 3rd-4th playoff. The players are members of wider Es",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/esports-world-cup-2025",
+         "pubDate" : "Fri, 1 Aug 2025 20:42:00",
+         "title" : "Esports World Cup 2025 - Games and Results"
+      },
+      {
+         "description" : "The 2025 European Women's Rapid &#38; Blitz Chess Championship will take place from 8th-12th January 2026 in Monte-Carlo, Monaco. The Championship is open to all players representing Chess Federations which are ECU members regardless of their title and rating. There is no limit to the number of participants per federation. Registration starts after 1st August 2025, and applications must be sent to the Tournament Director, Jean Michel Rapaire by mail:&#160;cemc@libello.com.&#160;Registration deadline is December 19th, 2025. The first event on the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-rapid-blitz-chess-championship-2025-official-regulations/",
+         "pubDate" : "Fri, 01 Aug 2025 15:40:23",
+         "title" : "European Women's Rapid & Blitz Chess Championship 2025 - Official regulations"
+      },
+      {
+         "description" : "World number-one Magnus Carlsen is the first ever Chess Esports World Cup Champion after winning the final three games to beat GM Alireza Firouzja in the Grand Final. Carlsen took the $250,000 top prize and saw his Team Liquid sneak ahead in the o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-esports-world-cup-day-4",
+         "pubDate" : "Fri, 01 Aug 2025 12:39:00",
+         "title" : "Magnus Carlsen Wins 1st Ever Chess Esports World Cup"
+      },
+      {
+         "description" : "GM Vladislav Artemiev, who also participated in the 2025 Esports World Cup this week, has taken home the first Freestyle Friday of August, the fourth straight week where someone won the event for the first time. The tournament still in the balance...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/artemiev-wins-freestyle-friday-august-1-2025",
+         "pubDate" : "Fri, 01 Aug 2025 11:22:58",
+         "title" : "Artemiev Wins 8 Straight To Pick Up 1st Freestyle Friday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123037973.cms\" />Divya Deshmukh achieved a hat-trick of successes in Batumi. She returned home as a Grandmaster after winning the World Cup. Divya defeated India No. 1 Koneru Humpy in the final. She also secured her place in the Candidates tournament. She shared her experiences and strategies. Divya acknowledged the support of her coach and seconds.",
@@ -58,28 +154,12 @@ news_feed (
          "title" : "'Hopefully, Alireza can kick Carlsen's a**': Nakamura after semifinal loss"
       },
       {
-         "description" : "The 19th Amber Blindfold and Rapid Tournament, held in Nice from 13 to 25 March 2010, saw a gripping duel between 19-year-old Magnus Carlsen, who had just become the highest-rated player in the world, and Ukrainian star Vasyl Ivanchuk, the only player to take part in all editions of the event. Both finished on 14&frac12;/22 points, but their paths to victory differed: Ivanchuk remained unbeaten throughout, while Carlsen played uncompromisingly, drawing only 3 out of 22 games. | All photos: Nadja Wittmann",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/throwback-thursday-amber-2010",
-         "pubDate" : "Fri, 01 Aug 2025 02:00:00",
-         "title" : "Throwback Thursday: Ivanchuk and Carlsen co-winners in Amber 2010"
-      },
-      {
-         "description" : " The Esports World Cup is a blitz double elimination knockout tournament held in Riyadh, Saudi Arabia Tue 29th July to Fri 1st Aug 2025. Players: Group A Ian Nepomniachtchi, Andrey Esipenko, Levon Aronian and Vladislav Artemiev. Group B Maxime Vachier-Lagrave, Anish Giri, Arjun Erigaisi, Nihal Sarin. Group C Hikaru Nakamura, Javokhir Sindarov, Alireza Firouzja, Wei Yi. Group D Magnus Carlsen, Nodirbek Abdusattorov, Fabiano Caruana, Jan-Krzysztof Duda. Double elimination is a super complicated format for me to cover. I will round up the games as the event progresses but this is very much an event for watching live on video if you ask me. Carlsen plays Firouzja in the final and Nakamura plays ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/esports-world-cup-2025",
-         "pubDate" : "Thu, 31 Jul 2025 23:04:00",
-         "title" : "Esports World Cup 2025 - Games and Results"
-      },
-      {
-         "description" : "Not only does Liverpool have a great musical history, it also has a great chess history. Its chess club was founded in 1837, and one of its early luminaries was Amos Burn. The city is now hosting the British Championships (31 August-10 September), a major chess festival featuring the best players and greatest British talent. | Photos: English Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/liverpool-city-of-chess",
-         "pubDate" : "Thu, 31 Jul 2025 22:17:00",
-         "title" : "Liverpool - City of Chess"
+         "description" : "The five 2025 national invitational tournaments of state champions came to a close Thursday, with prize money and scholarships on the line. Texas won the prize for top state in the combined standings, finishing ahead of three teams with average ratings over 2200. Find out more about the invitationals' prize funds prize funds and results.In today's final recap from the invitationals, enjoy a final batch of key positions selected by commentator WGM Sabina Foisor, who returns to our Twitch channel tonight at 7 p.m. for Round 7 of the U.S. Open. Irwin<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Alex Fishbein (L) and Stuart Rachels finished as Irwin co-c",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/texas-forever-texas-top-team-invitationals-conclude-middleton",
+         "pubDate" : "Fri, 01 Aug 2025 00:00:00",
+         "title" : "Texas Forever: Texas Top Team as Invitationals Conclude in Middleton"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123027815.cms\" />Divya Deshmukh, the 19-year-old chess prodigy, clinched the FIDE Women's World Cup title in Batumi, becoming the youngest ever to achieve this feat. Deshmukh secured her Grandmaster title after defeating Koneru Humpy in a tie-breaker. Known for her aggressive playing style, she remains unfazed by pressure, focusing instead on her personal goals and expectations.",
@@ -88,14 +168,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-pressure-does-not-matter-divya-deshmukh-on-ms-dhoni-comparisons/articleshow/123027815.cms",
          "pubDate" : "Thu, 31 Jul 2025 18:17:56",
          "title" : "'Pressure does not matter' - Divya Deshmukh on MS Dhoni comparisons"
-      },
-      {
-         "description" : "Day two of the 2025 Esports World Cup chess tournament concluded the group stage, with Ian Nepomniachtchi, Nihal Sarin, Hikaru Nakamura and Nodirbek Abdusattorov advancing from the Losers Brackets to complete the quarterfinal lineup. Each won two matches to stay in contention for the $250,000 first prize. Meanwhile, eight players - including Giri, Vachier-Lagrave and Caruana - were eliminated. The remaining participants are now guaranteed at least $85,000 as the knockout phase begins. | Photos: Esports World Cup",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/esports-world-cup-2025-day-2",
-         "pubDate" : "Thu, 31 Jul 2025 13:25:00",
-         "title" : "Esports World Cup: Nepo, Nihal, Naka and Abdusattorov make it through"
       },
       {
          "description" : "World number-one Magnus Carlsen will take on GM Alireza Firouzja in the 2025 Esports World Cup Grand Final after defeating GM Hikaru Nakamura 4-3 in an epic match decided only in armageddon. Carlsen had earlier defeated GM Nihal Sarin 2.5-0.5, whi...",
@@ -112,14 +184,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/august-2025-fide-ratings",
          "pubDate" : "Thu, 31 Jul 2025 11:50:38",
          "title" : "August 2025 FIDE Ratings: GM Divya Breaks Into Top 15"
-      },
-      {
-         "description" : "Two-time Under-18 World Champion Aleksey Grebnev won the strong Oskemen Masters in eastern Kazakhstan. After an impressive win in the last round, in which he showed his endgame skills, Grebnev shared first with top seed Richard Rapport. Both had 7.0/9, but Grebnev had the better tiebreak and won the tournament. | Photo: Aleksey Grebnev at the Dubai Open in June 2025 - which he also won. | Photo: Dubai Chess & Culture Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aleksey-grebnev-wins-oskenem-masters",
-         "pubDate" : "Thu, 31 Jul 2025 10:23:43",
-         "title" : "Aleksey Grebnev wins Oskenem Masters"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123016181.cms\" />The Chennai Grand Masters 2025, a prestigious chess tournament, is set to take place in August, featuring a competitive field of elite veterans and rising international stars. Anish Giri, Awonder Liang, Vincent Keymer, Jorden van Foreest, and Ray Robson are among the top foreign players expected to make a significant impact with their unique styles and strengths.",
@@ -162,28 +226,12 @@ news_feed (
          "title" : "Divya is a Chess World Cup winner - but not a World Champion yet: Why?"
       },
       {
-         "description" : "The Clash of Generations match in Marseille between veteran grandmaster Peter Svidler and 14-year-old YagÄ±z Kaan Erdogmus concluded with a 4-2 classical victory for the Turkish prodigy, who impressed with strong preparation and mature play. Svidler responded by dominating the blitz section 10-2. The event offered a structured 6-game classical match followed by a 12-game blitz segment, highlighting contrasting strengths across formats and marking a milestone in Erdogmus's rapid rise. | Photo: Mark Livshitz / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clash-of-generations-svidler-erdogmus-report",
-         "pubDate" : "Thu, 31 Jul 2025 00:30:00",
-         "title" : "Clash of Generations: Erdogmus wins classical match, Svidler dominates blitz"
-      },
-      {
          "description" : "The final round of the five national invitational tournaments of state champions begun this morning at 10:00 a.m. CDT, with four of the five events taking the same shape.In every event but the Haring, there is one player with 4&frac12;/5 going into the last round, meaning they're \"win and in\" as outright champion. But a draw (or loss) would allow anybody from the chasing group to claim a share of the title. These \"chasing\" packs range from two (Barber) or three players (Irwin, Denker) all the way up to seven in the Rockefeller.In the Haring, however, three players enter Thursday's final round with 4&frac12;/5 scores, but only one player trails this group by a half-point. So, while we know no",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/five-titles-grabs-national-invitationals-enter-final-day",
          "pubDate" : "Thu, 31 Jul 2025 00:00:00",
          "title" : "Five Titles Up For Grabs As National Invitationals Enter Final Day"
-      },
-      {
-         "description" : "The Women's Candidates Tournament 2026 is scheduled to take place in April 2026. The winner will play reigning Women's World Champion Ju Wenjun for the title. Currently, five players are qualified for the Candidates: Humpy Koneru, Tan Zhongyi, Divya Deshmukh, Zhu Jiner, and Aleksandra Goryachkina. But who has the best chances of claiming one of the three remaining spots? Here's an update from FIDE.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/five-down-three-to-go-world-cup-shakes-up-women-s-candidates-race",
-         "pubDate" : "Wed, 30 Jul 2025 20:00:00",
-         "title" : "Five down, three to go: World Cup shakes up Women's Candidates race"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123003550.cms\" />Divya Deshmukh, a 19-year-old chess prodigy from Nagpur, achieved a historic victory at the FIDE Women's World Chess Cup 2025 in Batumi, Georgia. She defeated Koneru Humpy in a dramatic tie-break, securing the prestigious World Cup trophy and earning the Grandmaster title. This win marks a resurgence for Indian women's chess and secures her spot in the 2026 Candidates Tournament.",
@@ -290,22 +338,6 @@ news_feed (
          "title" : "Carlsen, Firouzja, Aronian, Arjun Reach Quarterfinals"
       },
       {
-         "description" : "Last Updated on 29th July 2025 by WebAdmin Congratulations to Sohum Lohia (above right) and to Alex Golding who both had their IM titles confirmed at the FIDE Council meeting...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/new-ims-sohum-lohia-and-alex-golding/",
-         "pubDate" : "Tue, 29 Jul 2025 09:27:24",
-         "title" : "New IMs - Sohum Lohia and Alex Golding"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122966779.cms\" />Nagpur's Divya Deshmukh, 19, has become India's 88th Grandmaster after winning the Women's World Cup in Batumi. She bypassed the traditional norm-and-rating route, achieving the title directly due to her victory. Previously an International Master, Divya's win marks a significant leap in her career. World No. 2 Hikaru Nakamura congratulated her, acknowledging India's rising prominence in chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/from-no-norms-to-grandmaster-divya-deshmukh-becomes-indias-88th-gm-and-fourth-among-indian-women/articleshow/122966779.cms",
-         "pubDate" : "Tue, 29 Jul 2025 05:15:06",
-         "title" : "From no norms to Grandmaster: Divya Deshmukh becomes India's 88th GM and fourth among Indian women"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122966600.cms\" />19-year-old Divya Deshmukh, from Nagpur, achieved a historic win. She became the first Indian and youngest to secure the FIDE Women's Chess World Cup in Georgia. In the final, she defeated Koneru Humpy. Divya's rapid game strategy led to her victory. She is now the fourth Indian woman to earn the GM title.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -362,36 +394,12 @@ news_feed (
          "title" : "FIDE Women's World Cup 2025 - Games and Results"
       },
       {
-         "description" : "Last Updated on 29th July 2025 by WebAdmin Sunday 27 July will go down in history as a great day for English football, with the Lionesses winning the Euros final...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/youngest-ever-wgm-norm-bodhana-sivanandan/",
-         "pubDate" : "Mon, 28 Jul 2025 11:52:33",
-         "title" : "Youngest ever WGM norm - Bodhana Sivanandan!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122952287.cms\" />In a stunning victory, 19-year-old Divya Deshmukh clinched the FIDE Women's World Cup title, defeating India no. 1 Koneru Humpy in rapid tiebreaks in Batumi, Georgia. The 15th seed's remarkable performance saw her overcome formidable opponents. This triumph not only crowns her World Cup Champion but also secures her final Grandmaster norm.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-historic-19-year-old-divya-deshmukh-crowned-fide-womens-world-cup-champion-becomes-indias-88th-gm/articleshow/122952287.cms",
-         "pubDate" : "Mon, 28 Jul 2025 10:42:34",
-         "title" : "Historic! 19-yo Divya crowned Women's WC champion, becomes India's 88th GM"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/divya-deshmukh-beats-koneru-humpy-in-tiebreaks-to-become-the-fide-womens-world-cup-champion-2025/",
          "pubDate" : "Mon, 28 Jul 2025 10:30:16",
          "title" : "Divya Deshmukh beats Koneru Humpy in tiebreaks to become the FIDE Women's World Cup Champion 2025"
-      },
-      {
-         "description" : "Last Updated on 28th July 2025 by WebAdmin Chess.com Glorney:&#160;https://www.chess.com/events/2025-glorney-cup-glorney-u18/games Gilbert:&#160;https://www.chess.com/events/2025-glorney-cup-gilbert-u18-girls/games Robinson:&#160;https://www.chess.com/events/2025-glorney-cup-robinson-u14/games Stokes: https://www.chess.com/events/2025-glorney-cup-stokes-u12/games &#160; Lichess.org&#160; Glorney:&#160;https://lichess.org/broadcast/2025-glorney-cup-under-18/u9m7vRfj Gilbert:&#160;https://lichess.org/broadcast/2025-glorney-cup-gilbert-under-18-girls/NIZZqTH9 Robinson:&#160;https://lichess.org/broadcast/2025-glorney-cup-robinson-under-14/cIMeVYGT Stokes:&#160;https://lichess.org/broadcast/2025-",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/glorney-cup-live-game-links/",
-         "pubDate" : "Mon, 28 Jul 2025 10:27:35",
-         "title" : "Glorney Cup - live games / results links"
       },
       {
          "description" : "It must be a giddy feeling to be associated with Indian chess right now, as Divya Deshmukh joins the list of title holders",
@@ -578,14 +586,6 @@ news_feed (
          "title" : "Woodward, Tang, and Fishbein Win National Championships"
       },
       {
-         "description" : "Ten Grandmasters to Compete in Round-Robin Invitational Honoring 140 Years of Organized Chess in New JerseyMorristown, NJ - The New Jersey State Chess Federation (NJSCF) has officially announced the grandmaster lineup for its 140th Anniversary Commemorative Tournament, taking place October 22-26, 2025, at the historic Masonic Lodge in Morristown, New Jersey.The invitational tournament will bring together ten renowned grandmasters in a round-robin format. Over five days of elite competition, fans and players alike can expect strategic play, tactical fireworks, and a celebration of the Garden State's distinguished chess legacy.Confirmed Participants (in alphabetical order):Barbosa, OliverDlugy",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/njscf-organizes-all-gm-round-robin-140th-anniversary",
-         "pubDate" : "Fri, 25 Jul 2025 00:00:00",
-         "title" : "NJSCF Organizes All-GM Round Robin for 140th Anniversary"
-      },
-      {
          "description" : "GM Vladimir Fedoseev emerged as the winner of the grueling Biel Masters Triathlon, an event that required him to play a total of 30 games in Chess960, blitz, rapid, and classical formats over 11 days. The Russian grandmaster, who lives in Germany ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -714,14 +714,6 @@ news_feed (
          "title" : "Divya, Humpy Hold Draws In Semifinals Game 1"
       },
       {
-         "description" : "Last Updated on 22nd July 2025 by WebAdmin FIDE has approved Matthew Wadsworth's GM title. You can read the meeting minutes here https://www.fide.com/fide-council-meeting-held-in-batumi-georgia/ The ECF offers its congratulations to...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/new-english-grandmaster/",
-         "pubDate" : "Tue, 22 Jul 2025 08:26:50",
-         "title" : "New English Grandmaster"
-      },
-      {
          "description" : " Three years ago, former NBA star Derrick Rose had an idea to host a chess tournament featuring NBA players in Las Vegas. He billed it as a &#8220;Chesstival&#8221; with a high-stakes prize fund. The idea drew similarities to Maurice Ashley's Millionaire franchise, which had a first prize of $100,000. Video by Freestyle Chess Rose, who The post <a href=\"https://thechessdrum.net/blog/2025/07/21/derrick-rose-chesstival-freestyle-rousing-success/\">Derrick Rose Chesstival Freestyle rousing success!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -752,30 +744,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/problem-chess-art",
          "pubDate" : "Mon, 21 Jul 2025 17:00:00",
          "title" : "Problem Chess Art"
-      },
-      {
-         "description" : "When basketball star Victor Wembanyama (Wemby) says that it&#39;s time for a game, chess players show up! It happened last December in New York, and again on Sunday in his hometown of Le Chesnay, France. Just last week, Wemby announced the Hoop Gambit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/im-yovann-gatineau-wins-wembys-hoop-gambit-tournament",
-         "pubDate" : "Mon, 21 Jul 2025 14:52:30",
-         "title" : "Yovann Gatineau Wins Wemby's Hoop Gambit Tournament"
-      },
-      {
-         "description" : "Last Updated on 21st July 2025 by WebAdmin There was no requirement for an election this year and the incumbents (plus one replacement rep) are as follows &#8212; Lifetime ...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/direct-members-reps-2025/",
-         "pubDate" : "Mon, 21 Jul 2025 12:45:21",
-         "title" : "Direct Members' Reps 2025"
-      },
-      {
-         "description" : "Nineteen-year-old IM Divya Deshmukh has reached the Semifinals of the&#38;nbsp;2025 FIDE Women&#39;s World Cup after winning the all-Indian tiebreak clash with GM Harika Dronavalli 2-0. Divya dominated an impressive first game before Harika came very clos...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-quarterfinal-tiebreaks",
-         "pubDate" : "Mon, 21 Jul 2025 11:53:00",
-         "title" : "Divya Beats Harika To Reach World Cup Final 4"
       },
       {
          "description" : "On behalf of All India Chess Federation , Punjab State Chess Association is organizing Senior National Arbiters Seminar &#38; Exam at Hotel Roya Lista, Near Shiv Mandir,",
@@ -858,14 +826,6 @@ news_feed (
          "title" : "POSTGAME ROUND 4: Mishra's Gamble Pays Off!"
       },
       {
-         "description" : "The ECF has a limited stock of printed 2025 Yearbooks priced at &pound;10.00 for members and &pound;12.00 for non-members per issue, including second class postage. A form to order the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-yearbook-2025-print-edition/",
-         "pubDate" : "Fri, 18 Jul 2025 16:00:36",
-         "title" : "ECF Yearbook 2025 - print edition"
-      },
-      {
          "description" : " 'We are allocating &pound;1.5m to help identify, support and elevate top-tier players' ChessFest in Trafalgar Square attracted more than 20,000 visitors last Sunday, slightly below last year's record 23,000 but still indicating strong public interest. England's grandmasters gave simuls and met amateurs at blitz, living chess was played with professional actors and there was a blindfold exhibition plus a transatlantic prodigy match. Additional ChessFests took place in ­Portishead and Hull, with a ­further one scheduled for Liverpool on Sunday. ChessFest was again sponsored by XTX Markets. <a href=\"https://www.theguardian.com/sport/2025/jul/18/chess-rachel-reeves-announces-15m-fund-as-london-",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -890,30 +850,6 @@ news_feed (
          "title" : "POSTGAME ROUND 2: Day of the Juniors | 2025 U.S. National Championships"
       },
       {
-         "description" : "Last Updated on 16th July 2025 by WebAdmin The English Chess Federation is inviting expressions of interest from associations, leagues, congresses and clubs interested in purchasing chess clocks at discounted...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chess-clocks-expression-of-interest-2025/",
-         "pubDate" : "Wed, 16 Jul 2025 12:42:32",
-         "title" : "Chess clocks expression of interest 2025"
-      },
-      {
-         "description" : "Last Updated on 16th July 2025 by WebAdmin FIDE, in partnership with&#160;Lichess.org, invites chess-lovers from around the world to take part in the largest-ever Social Chess Day tournament - a...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/join-the-global-online-celebration-for-international-chess-day/",
-         "pubDate" : "Wed, 16 Jul 2025 08:31:36",
-         "title" : "Join the Global Online Celebration for International Chess Day"
-      },
-      {
-         "description" : "Last Updated on 28th July 2025 by WebAdmin Free monthly magazine! Get a rating! Join England's chess community! Become a member today at https://www.englishchess.org.uk/join-us/",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/are-you-game-summer-special-membership-offer-with-chessmood/",
-         "pubDate" : "Mon, 14 Jul 2025 08:00:49",
-         "title" : "Free monthly magazine! Get a rating! Join England's chess community!"
-      },
-      {
          "description" : " Brewington Hardaway was one of nine recipients of the Samford Fellowship, awarded to players of tremendous promise. Most of the players are well-known in scholastic circles, having earned All-American honors. Hardaway, who earned his Grandmaster title early this year, is the first African-American to receive the Samford award. Photo from X (Brewington Hardaway) In its The post <a href=\"https://thechessdrum.net/blog/2025/07/13/brewington-hardaway-receives-samford-fellow/\">Brewington Hardaway receives Samford Fellow!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -936,22 +872,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/07/12/cadet-champ-tani-adewumi-strong-at-world-open/",
          "pubDate" : "Sun, 13 Jul 2025 02:10:41",
          "title" : "Cadet Champ Tani Adewumi strong at World Open"
-      },
-      {
-         "description" : "Just one little shout-out before we get into today's article. My lovely wife Alessia has published a super fun video on her YouTube Channel where I watch her play blitz chess and give my Grandmaster take on her games. I had a blast recording it, and believe it makes for great chess entertainment, and some []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/deliberate-practice-in-chess/",
-         "pubDate" : "Sat, 12 Jul 2025 13:00:00",
-         "title" : "The 10,000-Hour Myth and What Really Matters"
-      },
-      {
-         "description" : "The European Youth Team Chess Championship 2025 concluded yesterday in Terme Catez, Slovenia with Poland winning gold medals in Girls U12, Girls U18 and Open U18 Championships! Romanian team clinched the trophy in the Open U12 section, scoring 11 match points and finishing one match point ahead of Turkey and Germany. Having better tiebreak criteria, Turkey won silver and Germany claimed bronze. Scoring impressive 13 match points, Poland won the Girls U12 tournament with two match points edge over Ukraine []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-team-chess-champions-2025-crowned-in-slovenia/",
-         "pubDate" : "Sat, 12 Jul 2025 09:32:21",
-         "title" : "European Youth Team Chess Champions 2025 crowned in Slovenia"
       }
    ]
 }
