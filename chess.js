@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 52nd edition of the Dortmund Chess Festival is taking place on 2-10 August at the Kulturzentrum in the largest city of the Ruhr District. European champion Matthias Bluebaum is the rating favourite in the A Open. On Sunday, the International Women's Tournament begins, featuring four representatives from three countries: Elisabeth Paehtz, Dinara Wagner, 15-year-old Chinese champion Lu Miaoyi and Deimant&eacute; Daulyt&eacute;-Cornette of France. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2025-live",
+         "pubDate" : "Sun, 03 Aug 2025 15:00:00",
+         "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
+         "description" : "Last Updated on 3rd August 2025 by WebAdmin Coventry will be transformed into a city of chess next summer as the University of Warwick hosts the 2026 British Chess Championships....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2026-british-championships-venue-announcement/",
+         "pubDate" : "Sun, 03 Aug 2025 14:00:26",
+         "title" : "2026 British Championships Venue Announcement"
+      },
+      {
          "description" : "The Modern Defence (1&hellip;g6) offers Black a dynamic and strategically rich alternative to mainstream openings, avoiding early theory battles while targeting White's centre with long-term pressure. Grandmaster Daniel Fernandez guides you through its complex ideas and practical applications, ideal for players seeking unbalanced positions and full-point ambitions. Master the subtleties of 1&hellip;g6 and energize your repertoire with this bold and flexible weapon.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapid-blitz-chess-championship-2025-starts-in-greece/",
          "pubDate" : "Sun, 03 Aug 2025 07:39:46",
          "title" : "European Youth Rapid & Blitz Chess Championship 2025 starts in Greece"
+      },
+      {
+         "description" : "At just 14 years old, GM Yagiz Kaan Erdogmus has officially broken into the world&#39;s top-100 players, a milestone that once again confirms his status as one of the chess world&#39;s most exciting prospects. The Turkish prodigy reached a new career-hi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/erdogmus-enters-world-top-100-at-14-another-age-record",
+         "pubDate" : "Sun, 03 Aug 2025 07:16:41",
+         "title" : "Erdogmus Enters World Top-100 At 14, Breaks Yet Another Age Record"
       },
       {
          "description" : "ChessBase 18 offers a wide range of technical features and training tools. To get the most out of them, it helps to know where to look. In this tutorial, we show you how just a few clicks can enhance your ChessBase experience. Explore the \"View\" menu across different sections of the program to design your own personalized ChessBase environment. Take a look and try it out - because in the end, it's all a matter of personal preference...",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "https://www.thearticle.com/mozarts-moves-figaro-as-a-game-of-chess/",
          "pubDate" : "Sat, 02 Aug 2025 12:36:00",
          "title" : "Mozart's moves: 'Figaro' as a game of chess"
-      },
-      {
-         "description" : "Frederic Friedel reveals what the Egyptian pyramids, an internship with Otto Borik and a frog game on the home computer have to do with his career in Germany's leading chess magazine SCHACH-MAGAZIN 64, where he was interviewed by Stefan Liebig. The four-page article is reproduced here in English with the kind permission of Schuenemann-Verlag. | Photos: Archiv Frederic Friedel",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-guestbook-full-of-chess-stories",
-         "pubDate" : "Sat, 02 Aug 2025 10:00:00",
-         "title" : "A guestbook full of chess stories"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123059657.cms\" />Maharashtra Chief Minister Devendra Fadnavis honored Divya Deshmukh, the FIDE Women's Chess World Cup champion, with a Rs 3 crore award. The 19-year-old from Nagpur secured her victory in Batumi, Georgia, defeating Koneru Humpy, also earning the Grandmaster title. Deshmukh expressed gratitude to the Maharashtra government and Chess Association for their support.",
@@ -160,6 +176,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/artemiev-wins-freestyle-friday-august-1-2025",
          "pubDate" : "Fri, 01 Aug 2025 11:22:58",
          "title" : "Artemiev Wins 8 Straight To Pick Up 1st Freestyle Friday"
+      },
+      {
+         "description" : "Last Updated on 1st August 2025 by WebAdmin World Youth Championships 3 16 October Nominated and approved England players selected for the 2025 FIDE World Youth Championships U14, U16...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/world-youth-european-youth-championships/",
+         "pubDate" : "Fri, 01 Aug 2025 10:35:41",
+         "title" : "World Youth & European Youth Championships"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123037973.cms\" />Divya Deshmukh achieved a hat-trick of successes in Batumi. She returned home as a Grandmaster after winning the World Cup. Divya defeated India No. 1 Koneru Humpy in the final. She also secured her place in the Candidates tournament. She shared her experiences and strategies. Divya acknowledged the support of her coach and seconds.",
@@ -378,6 +402,14 @@ news_feed (
          "title" : "Carlsen, Firouzja, Aronian, Arjun Reach Quarterfinals"
       },
       {
+         "description" : "Last Updated on 29th July 2025 by WebAdmin Congratulations to Sohum Lohia (above right) and to Alex Golding who both had their IM titles confirmed at the FIDE Council meeting...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/new-ims-sohum-lohia-and-alex-golding/",
+         "pubDate" : "Tue, 29 Jul 2025 09:27:24",
+         "title" : "New IMs - Sohum Lohia and Alex Golding"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122966600.cms\" />19-year-old Divya Deshmukh, from Nagpur, achieved a historic win. She became the first Indian and youngest to secure the FIDE Women's Chess World Cup in Georgia. In the final, she defeated Koneru Humpy. Divya's rapid game strategy led to her victory. She is now the fourth Indian woman to earn the GM title.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -434,12 +466,28 @@ news_feed (
          "title" : "FIDE Women's World Cup 2025 - Games and Results"
       },
       {
+         "description" : "Last Updated on 29th July 2025 by WebAdmin Sunday 27 July will go down in history as a great day for English football, with the Lionesses winning the Euros final...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/youngest-ever-wgm-norm-bodhana-sivanandan/",
+         "pubDate" : "Mon, 28 Jul 2025 11:52:33",
+         "title" : "Youngest ever WGM norm - Bodhana Sivanandan!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/divya-deshmukh-beats-koneru-humpy-in-tiebreaks-to-become-the-fide-womens-world-cup-champion-2025/",
          "pubDate" : "Mon, 28 Jul 2025 10:30:16",
          "title" : "Divya Deshmukh beats Koneru Humpy in tiebreaks to become the FIDE Women's World Cup Champion 2025"
+      },
+      {
+         "description" : "Last Updated on 28th July 2025 by WebAdmin Chess.com Glorney:&#160;https://www.chess.com/events/2025-glorney-cup-glorney-u18/games Gilbert:&#160;https://www.chess.com/events/2025-glorney-cup-gilbert-u18-girls/games Robinson:&#160;https://www.chess.com/events/2025-glorney-cup-robinson-u14/games Stokes: https://www.chess.com/events/2025-glorney-cup-stokes-u12/games &#160; Lichess.org&#160; Glorney:&#160;https://lichess.org/broadcast/2025-glorney-cup-under-18/u9m7vRfj Gilbert:&#160;https://lichess.org/broadcast/2025-glorney-cup-gilbert-under-18-girls/NIZZqTH9 Robinson:&#160;https://lichess.org/broadcast/2025-glorney-cup-robinson-under-14/cIMeVYGT Stokes:&#160;https://lichess.org/broadcast/2025-",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/glorney-cup-live-game-links/",
+         "pubDate" : "Mon, 28 Jul 2025 10:27:35",
+         "title" : "Glorney Cup - live games / results links"
       },
       {
          "description" : "It must be a giddy feeling to be associated with Indian chess right now, as Divya Deshmukh joins the list of title holders",
@@ -730,12 +778,12 @@ news_feed (
          "title" : "POSTGAME ROUND 7: Day of the Spoilers"
       },
       {
-         "description" : "Four cities in two continents played over-the-board chess against one another on International Chess Day (July 20). The event, Portals x Chess.com, was a celebration of chess that connected Dublin, Ireland; Lublin, Poland; Philadelphia, U.S.A.; an...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-portals-intl-chess-day",
-         "pubDate" : "Tue, 22 Jul 2025 10:57:00",
-         "title" : "Portals x Chess.com Connects 4 Cities On International Chess Day"
+         "description" : "Last Updated on 22nd July 2025 by WebAdmin FIDE has approved Matthew Wadsworth's GM title. You can read the meeting minutes here https://www.fide.com/fide-council-meeting-held-in-batumi-georgia/ The ECF offers its congratulations to...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/new-english-grandmaster/",
+         "pubDate" : "Tue, 22 Jul 2025 08:26:50",
+         "title" : "New English Grandmaster"
       },
       {
          "description" : " Three years ago, former NBA star Derrick Rose had an idea to host a chess tournament featuring NBA players in Las Vegas. He billed it as a &#8220;Chesstival&#8221; with a high-stakes prize fund. The idea drew similarities to Maurice Ashley's Millionaire franchise, which had a first prize of $100,000. Video by Freestyle Chess Rose, who The post <a href=\"https://thechessdrum.net/blog/2025/07/21/derrick-rose-chesstival-freestyle-rousing-success/\">Derrick Rose Chesstival Freestyle rousing success!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -768,6 +816,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/problem-chess-art",
          "pubDate" : "Mon, 21 Jul 2025 17:00:00",
          "title" : "Problem Chess Art"
+      },
+      {
+         "description" : "Last Updated on 21st July 2025 by WebAdmin There was no requirement for an election this year and the incumbents (plus one replacement rep) are as follows &#8212; Lifetime ...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/direct-members-reps-2025/",
+         "pubDate" : "Mon, 21 Jul 2025 12:45:21",
+         "title" : "Direct Members' Reps 2025"
       },
       {
          "description" : "On behalf of All India Chess Federation , Punjab State Chess Association is organizing Senior National Arbiters Seminar &#38; Exam at Hotel Roya Lista, Near Shiv Mandir,",
@@ -850,6 +906,14 @@ news_feed (
          "title" : "POSTGAME ROUND 4: Mishra's Gamble Pays Off!"
       },
       {
+         "description" : "The ECF has a limited stock of printed 2025 Yearbooks priced at &pound;10.00 for members and &pound;12.00 for non-members per issue, including second class postage. A form to order the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-yearbook-2025-print-edition/",
+         "pubDate" : "Fri, 18 Jul 2025 16:00:36",
+         "title" : "ECF Yearbook 2025 - print edition"
+      },
+      {
          "description" : " 'We are allocating &pound;1.5m to help identify, support and elevate top-tier players' ChessFest in Trafalgar Square attracted more than 20,000 visitors last Sunday, slightly below last year's record 23,000 but still indicating strong public interest. England's grandmasters gave simuls and met amateurs at blitz, living chess was played with professional actors and there was a blindfold exhibition plus a transatlantic prodigy match. Additional ChessFests took place in ­Portishead and Hull, with a ­further one scheduled for Liverpool on Sunday. ChessFest was again sponsored by XTX Markets. <a href=\"https://www.theguardian.com/sport/2025/jul/18/chess-rachel-reeves-announces-15m-fund-as-london-",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -872,6 +936,22 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-2-day-of-the-juniors-2025-u-s-national-championships/",
          "pubDate" : "Wed, 16 Jul 2025 23:59:48",
          "title" : "POSTGAME ROUND 2: Day of the Juniors | 2025 U.S. National Championships"
+      },
+      {
+         "description" : "Last Updated on 16th July 2025 by WebAdmin The English Chess Federation is inviting expressions of interest from associations, leagues, congresses and clubs interested in purchasing chess clocks at discounted...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chess-clocks-expression-of-interest-2025/",
+         "pubDate" : "Wed, 16 Jul 2025 12:42:32",
+         "title" : "Chess clocks expression of interest 2025"
+      },
+      {
+         "description" : "Last Updated on 16th July 2025 by WebAdmin FIDE, in partnership with&#160;Lichess.org, invites chess-lovers from around the world to take part in the largest-ever Social Chess Day tournament - a...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/join-the-global-online-celebration-for-international-chess-day/",
+         "pubDate" : "Wed, 16 Jul 2025 08:31:36",
+         "title" : "Join the Global Online Celebration for International Chess Day"
       },
       {
          "description" : " Brewington Hardaway was one of nine recipients of the Samford Fellowship, awarded to players of tremendous promise. Most of the players are well-known in scholastic circles, having earned All-American honors. Hardaway, who earned his Grandmaster title early this year, is the first African-American to receive the Samford award. Photo from X (Brewington Hardaway) In its The post <a href=\"https://thechessdrum.net/blog/2025/07/13/brewington-hardaway-receives-samford-fellow/\">Brewington Hardaway receives Samford Fellow!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
