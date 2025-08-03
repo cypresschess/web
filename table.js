@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2025-08-02","7","<a href=http://www.uschess.org/msa/XtblMain.php?202508025382 target='_blank'>CHESSPANDA08022025SATURDAY</a>",
+"SUGAR LAND","2025-08-01","20","<a href=http://www.uschess.org/msa/XtblMain.php?202508015192 target='_blank'>FBCC NATIONAL SPIDERMAN DAY OPEN</a>",
 "SPRING","2025-08-01","19","<a href=http://www.uschess.org/msa/XtblMain.php?202508014982 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-08-01","47","<a href=http://www.uschess.org/msa/XtblMain.php?202508014962 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-07-30","8","<a href=http://www.uschess.org/msa/XtblMain.php?202507304052 target='_blank'>JULY 30TH - TRAINING TOURNAMENT</a>",
@@ -197,6 +199,4 @@ jtable([
 "CYPRESS","2025-01-24","26","<a href=http://www.uschess.org/msa/XtblMain.php?202501247662 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-01-20","72","<a href=http://www.uschess.org/msa/XtblMain.php?202501206462 target='_blank'>MLK DAY SCHOLASTIC</a>",
 "HOUSTON","2025-01-17  - 01-19","39","<a href=http://www.uschess.org/msa/XtblMain.php?202501196542 target='_blank'>MLK DAY OPEN - PREMIER</a>",
-"HOUSTON","2025-01-17  - 01-19","61","<a href=http://www.uschess.org/msa/XtblMain.php?202501196472 target='_blank'>MLK DAY OPEN</a>",
-"HOUSTON","2025-01-19","14","<a href=http://www.uschess.org/msa/XtblMain.php?202501194892 target='_blank'>SUNDAY SWISS AT NOON JAN 19TH</a>",
 ]);
