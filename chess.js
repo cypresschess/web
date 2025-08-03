@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his latest column, Jon Speelman turns his attention to rook endgames from the Women's World Cup in Batumi, including key moments from Divya Deshmukh's games in the semifinals and the final. Alongside recent examples, he revisits a bishop-themed gem from decades past. With interactive diagrams and video commentary, readers are invited to solve critical positions and reflect on the subtleties of high-level technique and calculation. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-230",
+         "pubDate" : "Sun, 03 Aug 2025 20:20:00",
+         "title" : "Jon Speelman: Georgian castles and Episcopal rulings"
+      },
+      {
          "description" : "The 52nd edition of the Dortmund Chess Festival is taking place on 2-10 August at the Kulturzentrum in the largest city of the Ruhr District. European champion Matthias Bluebaum is the rating favourite in the A Open. On Sunday, the International Women's Tournament begins, featuring four representatives from three countries: Elisabeth Paehtz, Dinara Wagner, 15-year-old Chinese champion Lu Miaoyi and Deimant&eacute; Daulyt&eacute;-Cornette of France. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/erdogmus-enters-world-top-100-at-14-another-age-record",
-         "pubDate" : "Sun, 03 Aug 2025 07:16:41",
+         "pubDate" : "Sun, 03 Aug 2025 07:16:00",
          "title" : "Erdogmus Enters World Top-100 At 14, Breaks Yet Another Age Record"
       },
       {
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-25-customizing-your-view-how-to-see-what-matters",
          "pubDate" : "Sun, 03 Aug 2025 07:00:00",
          "title" : "ChessBase 18 - Tips for beginners, part 25: Customizing your view - how to see what matters"
+      },
+      {
+         "description" : "After a week of competition, the final round of the 125th annual U.S. Open begins at 3 p.m. CDT in Middleton, WI, with a spot in this October's U.S. Championship on the line. Join WGM Sabina Foisor as she finishes her marathon week of commentary on our Twitch channel, and enjoy her written notes on last night's key games. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Sam Schmakel (L) had winning chances against the tournament leader, but ultimately Joshua Friedel held a draw to maintain his lead (Photo by David Llada)<br> <br> <br> <br> GM Joshua Friedel leads with 7&frac12;/8 after drawing IM Sam Schmakel. Schmakel was the only player a half-point b",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/friedel-takes-half-point-lead-final-round-us-open",
+         "pubDate" : "Sun, 03 Aug 2025 00:00:00",
+         "title" : "Friedel Takes Half-Point Lead Into Final Round of U.S. Open"
       },
       {
          "description" : "Chess&#39; answer to DC Comics&#39; &#34;The Flash,&#34; GM Andrew Tang, has joined GMs Hikaru Nakamura and Daniel Naroditsky as a top-three all-time Bullet Brawl titlist after winning Saturday&#39;s event ahead of 118 titled players. Tang&#39;s fast start gave him an ...",
@@ -512,14 +528,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2025-caveman-chess-festival-americas-pastime",
          "pubDate" : "Mon, 28 Jul 2025 00:00:00",
          "title" : "2025 Caveman Chess Festival: America's Pastime"
-      },
-      {
-         "description" : "In a storybook ending, IM Divya Deshmukh became the first Indian player ever to win the FIDE Women's World Cup, defeating Indian GM Humpy Koneru 2&frac12;-1&frac12; after Monday's tie-breaks. The win directly grants Divya the GM title, making the 19-year-old the fifth Indian woman to earn the GM title and the second youngest, behind only Humpy herself! Both players have also qualified for the FIDE Women's World Championship Candidates Tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Divya Deshmukh entered as the 15th-seeded player, but won the World Cup by defeating the second-, third-, and fourth-highest-rated players (Photo courtesy of Ann",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/divya-wins-womens-world-cup-becomes-gm-and-qualifies-candidates",
-         "pubDate" : "Mon, 28 Jul 2025 00:00:00",
-         "title" : "Divya Wins Women's World Cup, Becomes GM, and Qualifies for Candidates"
       },
       {
          "description" : "Divya Deshmukh won the rapid tie-breaks to be crowned the winner of the Women's World Cup.",
