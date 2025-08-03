@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess&#39; answer to DC Comics&#39; &#34;The Flash,&#34; GM Andrew Tang, has joined GMs Hikaru Nakamura and Daniel Naroditsky as a top-three all-time Bullet Brawl titlist after winning Saturday&#39;s event ahead of 118 titled players. Tang&#39;s fast start gave him an ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-aug-2-2025",
+         "pubDate" : "Sat, 02 Aug 2025 18:29:00",
+         "title" : "Tang Breaks Into Bullet Brawl All-Time Top 3 Following 8th Win Of The Year"
+      },
+      {
          "description" : "Michael Kotyk, a young chess trainer from Hamburg, has taken a close look at David Navara's new course. The Czech grandmaster, who has been among the world's elite for many years, offers deep insights into how chess players can make their thinking processes more effective. Players often misjudge what needs to be calculated and what does not. Kotyk explains how David Navara approaches this subject.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -706,14 +714,6 @@ news_feed (
          "title" : "Portals x Chess.com Connects 4 Cities On International Chess Day"
       },
       {
-         "description" : "With no decisive results after game one of the 2025 FIDE Women&#39;s World Cup Semifinals, tensions rise as we enter the second and potentially last game of each match. IM Divya Deshmukh held a quick draw with Black against GM Tan Zhongyi, while GM Ko...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-semifinals-game-1",
-         "pubDate" : "Tue, 22 Jul 2025 08:42:00",
-         "title" : "Divya, Humpy Hold Draws In Semifinals Game 1"
-      },
-      {
          "description" : " Three years ago, former NBA star Derrick Rose had an idea to host a chess tournament featuring NBA players in Las Vegas. He billed it as a &#8220;Chesstival&#8221; with a high-stakes prize fund. The idea drew similarities to Maurice Ashley's Millionaire franchise, which had a first prize of $100,000. Video by Freestyle Chess Rose, who The post <a href=\"https://thechessdrum.net/blog/2025/07/21/derrick-rose-chesstival-freestyle-rousing-success/\">Derrick Rose Chesstival Freestyle rousing success!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -864,14 +864,6 @@ news_feed (
          "link" : "https://www.thearticle.com/joseph-conrad-capa-fan/",
          "pubDate" : "Sun, 13 Jul 2025 10:23:16",
          "title" : "Joseph Conrad: Capa fan"
-      },
-      {
-         "description" : " Tanitoluwa &#8220;Tani&#8221; Adewumi finished a strong performance at the 2025 World Open after winning the Cadet Championship a couple of weeks earlier. It was his second consecutive title, only months after finishing the rating requirements for the IM title. So far, 2025 has been a great year. FM Tanitoluwa &#8220;Tani&#8221; Adewumi (2397-USA) # Player ELO The post <a href=\"https://thechessdrum.net/blog/2025/07/12/cadet-champ-tani-adewumi-strong-at-world-open/\">Cadet Champ Tani Adewumi strong at World Open</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/07/12/cadet-champ-tani-adewumi-strong-at-world-open/",
-         "pubDate" : "Sun, 13 Jul 2025 02:10:41",
-         "title" : "Cadet Champ Tani Adewumi strong at World Open"
       }
    ]
 }
