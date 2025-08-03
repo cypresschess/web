@@ -26,14 +26,6 @@ news_feed (
          "title" : "2026 British Championships Venue Announcement"
       },
       {
-         "description" : "The Modern Defence (1&hellip;g6) offers Black a dynamic and strategically rich alternative to mainstream openings, avoiding early theory battles while targeting White's centre with long-term pressure. Grandmaster Daniel Fernandez guides you through its complex ideas and practical applications, ideal for players seeking unbalanced positions and full-point ambitions. Master the subtleties of 1&hellip;g6 and energize your repertoire with this bold and flexible weapon.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-fernandez-master-the-modern-defence-1-g6-a-dynamic-and-unbalanced-weapon-for-black",
-         "pubDate" : "Sun, 03 Aug 2025 11:00:00",
-         "title" : "Daniel Fernandez: Master the Modern Defence (1...g6) - A Dynamic and Unbalanced Weapon for Black"
-      },
-      {
          "description" : "The 24th European Youth Rapid and Blitz Chess Championship are set to commence in Thessaloniki, Greece, taking place from 4-8 August at the *****Porto Palace Hotel. The event gathers more than 450 players coming from 36 European federations who will compete over six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. The first event on the schedule will be the European Youth Rapid Chess Championship 2025 which will be played from 5-6 August, in []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -50,14 +42,6 @@ news_feed (
          "title" : "Erdogmus Enters World Top-100 At 14, Breaks Yet Another Age Record"
       },
       {
-         "description" : "ChessBase 18 offers a wide range of technical features and training tools. To get the most out of them, it helps to know where to look. In this tutorial, we show you how just a few clicks can enhance your ChessBase experience. Explore the \"View\" menu across different sections of the program to design your own personalized ChessBase environment. Take a look and try it out - because in the end, it's all a matter of personal preference...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-25-customizing-your-view-how-to-see-what-matters",
-         "pubDate" : "Sun, 03 Aug 2025 07:00:00",
-         "title" : "ChessBase 18 - Tips for beginners, part 25: Customizing your view - how to see what matters"
-      },
-      {
          "description" : "After a week of competition, the final round of the 125th annual U.S. Open begins at 3 p.m. CDT in Middleton, WI, with a spot in this October's U.S. Championship on the line. Join WGM Sabina Foisor as she finishes her marathon week of commentary on our Twitch channel, and enjoy her written notes on last night's key games. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Sam Schmakel (L) had winning chances against the tournament leader, but ultimately Joshua Friedel held a draw to maintain his lead (Photo by David Llada)<br> <br> <br> <br> GM Joshua Friedel leads with 7&frac12;/8 after drawing IM Sam Schmakel. Schmakel was the only player a half-point b",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -72,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-aug-2-2025",
          "pubDate" : "Sat, 02 Aug 2025 18:29:00",
          "title" : "Tang Breaks Into Bullet Brawl All-Time Top 3 Following 8th Win Of The Year"
-      },
-      {
-         "description" : "Michael Kotyk, a young chess trainer from Hamburg, has taken a close look at David Navara's new course. The Czech grandmaster, who has been among the world's elite for many years, offers deep insights into how chess players can make their thinking processes more effective. Players often misjudge what needs to be calculated and what does not. Kotyk explains how David Navara approaches this subject.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-david-navara-your-calculation-compass-know-when-to-calculate",
-         "pubDate" : "Sat, 02 Aug 2025 17:00:00",
-         "title" : "Review: David Navara - Your Calculation Compass: Know When to Calculate"
       },
       {
          "description" : "I'm so grateful that I grew up in a chess world without opening courses, clickbait, move-trainer, and constant FOMO. It allowed me to train the one main skill that helps me excel at chess, be a better businessman, and solve difficult problems in my private life. To think. On my own. Without interruption and help. []",
@@ -136,14 +112,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/new-ground-conquered-world-no-1-magnus-carlsen-after-winning-inaugural-esports-chess-world-cup-title/articleshow/123055171.cms",
          "pubDate" : "Sat, 02 Aug 2025 03:32:50",
          "title" : "'New ground conquered': Carlsen after winning inaugural Esports Chess WC"
-      },
-      {
-         "description" : "Magnus Carlsen won the first-ever chess tournament held at the Esports World Cup, defeating Alireza Firouzja with two consecutive 3-1 set wins in the Grand Final. The Norwegian performed convincingly throughout the four-day event, displaying consistent control and clock management in every stage. Earlier on the final day, Hikaru Nakamura edged Arjun Erigaisi 3&frac12;-2&frac12; to secure third place. The tournament featured a fast-paced, no-increment format. | Photos: Esports World Cup",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/esports-world-cup-2025-day-4",
-         "pubDate" : "Sat, 02 Aug 2025 03:10:00",
-         "title" : "Magnus Carlsen breaks new ground, wins first edition of Chess Esports World Cup"
       },
       {
          "description" : "At the U.S. Open, we know there are a ton of chess players around, but it doesn't always feel that way during the first few days. Some players are off in the invitationals, others are at side events, and some are attending (or leading) committee meetings and workshops. Of those who are playing in the main event, there are three different schedules, so the playing hall feels half-empty at any given time.And then, there's the merge. Over 500 players competed in the seventh round of the 125th Annual U.S. Open on Friday, August 1, in Middleton, WI for the first of three merged rounds this weekend. Participants will again scatter around the Madison Marriott West - this weekend's side events inclu",
