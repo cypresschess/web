@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase 18 offers a wide range of technical features and training tools. To get the most out of them, it helps to know where to look. In this tutorial, we show you how just a few clicks can enhance your ChessBase experience. Explore the \"View\" menu across different sections of the program to design your own personalized ChessBase environment. Take a look and try it out - because in the end, it's all a matter of personal preference...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-25-customizing-your-view-how-to-see-what-matters",
+         "pubDate" : "Sun, 03 Aug 2025 07:00:00",
+         "title" : "ChessBase 18 - Tips for beginners, part 25: Customizing your view - how to see what matters"
+      },
+      {
          "description" : "Chess&#39; answer to DC Comics&#39; &#34;The Flash,&#34; GM Andrew Tang, has joined GMs Hikaru Nakamura and Daniel Naroditsky as a top-three all-time Bullet Brawl titlist after winning Saturday&#39;s event ahead of 118 titled players. Tang&#39;s fast start gave him an ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
