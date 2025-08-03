@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Modern Defence (1&hellip;g6) offers Black a dynamic and strategically rich alternative to mainstream openings, avoiding early theory battles while targeting White's centre with long-term pressure. Grandmaster Daniel Fernandez guides you through its complex ideas and practical applications, ideal for players seeking unbalanced positions and full-point ambitions. Master the subtleties of 1&hellip;g6 and energize your repertoire with this bold and flexible weapon.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-fernandez-master-the-modern-defence-1-g6-a-dynamic-and-unbalanced-weapon-for-black",
+         "pubDate" : "Sun, 03 Aug 2025 11:00:00",
+         "title" : "Daniel Fernandez: Master the Modern Defence (1...g6) - A Dynamic and Unbalanced Weapon for Black"
+      },
+      {
+         "description" : "The 24th European Youth Rapid and Blitz Chess Championship are set to commence in Thessaloniki, Greece, taking place from 4-8 August at the *****Porto Palace Hotel. The event gathers more than 450 players coming from 36 European federations who will compete over six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. The first event on the schedule will be the European Youth Rapid Chess Championship 2025 which will be played from 5-6 August, in []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-rapid-blitz-chess-championship-2025-starts-in-greece/",
+         "pubDate" : "Sun, 03 Aug 2025 07:39:46",
+         "title" : "European Youth Rapid & Blitz Chess Championship 2025 starts in Greece"
+      },
+      {
          "description" : "ChessBase 18 offers a wide range of technical features and training tools. To get the most out of them, it helps to know where to look. In this tutorial, we show you how just a few clicks can enhance your ChessBase experience. Explore the \"View\" menu across different sections of the program to design your own personalized ChessBase environment. Take a look and try it out - because in the end, it's all a matter of personal preference...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -864,14 +880,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/07/13/brewington-hardaway-receives-samford-fellow/",
          "pubDate" : "Sun, 13 Jul 2025 23:36:50",
          "title" : "Brewington Hardaway receives Samford Fellow!"
-      },
-      {
-         "description" : "A recent column by the erudite Jeffrey Meyers reminded me that Joseph Conrad was a chess enthusiast and specifically a great admirer and student of Capablanca. Conrad, the enigmatic Anglo-Polish merchant naval officer, had originally been a subject of the Russian Tsars, whose empire incorporated Poland at that time. He rose to become one of the most []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/joseph-conrad-capa-fan/",
-         "pubDate" : "Sun, 13 Jul 2025 10:23:16",
-         "title" : "Joseph Conrad: Capa fan"
       }
    ]
 }
