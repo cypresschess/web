@@ -26,6 +26,14 @@ news_feed (
          "title" : "Elisabeth P&auml;htz defeats Dinara Wagner after more than 100 moves"
       },
       {
+         "description" : "A unique and powerful approach to understanding AI capabilities, Kaggle Game Arena, in partnership with Google DeepMind, announced a new platform where leading AI models will compete head-to-head in chess and other games. To kick things off, Kag...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/which-ai-model-is-the-best-at-chess-kaggle-game-arena",
+         "pubDate" : "Mon, 04 Aug 2025 09:12:21",
+         "title" : "Which AI Model Is The Best At Chess? Meet The New Kaggle Game Arena"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123087173.cms\" />India's chess prowess shone at the Women's World Cup, where Divya Deshmukh secured a remarkable victory, inspiring fellow players like Gukesh. He emphasized the importance of success in both men's and women's chess for India, expressing excitement for the upcoming World Cup to be hosted in India.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -48,6 +56,30 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-india-treats-their-players-like-superstars-while-america-sabotages-theirs-gm-hans-niemann-sparks-new-debate/articleshow/123084595.cms",
          "pubDate" : "Mon, 04 Aug 2025 02:16:55",
          "title" : "'India treats players like superstars, while USA sabotages theirs': Niemann"
+      },
+      {
+         "description" : "The Caro-Kann Defense (Advance Variation) is, by far, the most popular opening over the last year, from June 2024 to May 2025, for players participating in US Chess ICCF server-based games. With just over 5% of the games on the server using the Caro-Kann (Advance Variation) over the last year, no other opening even came close in popularity.The Advance Variation is a family of lines within the Caro-Kann Defense, which is one of the most solid and respected responses to 1.e4.The ECO Code for the Caro-Kann Defense (Advance Variation) is B12.Historical research for the Caro-Kann Defense informs us that the name is the combination of two men: Horatio Caro, from the United Kingdom, and Marcus Kann",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/check-mail-august-2025-caro-kann-defense-advance-variation",
+         "pubDate" : "Mon, 04 Aug 2025 00:00:00",
+         "title" : "Check is in the Mail, August 2025: Caro-Kann Defense (Advance Variation)"
+      },
+      {
+         "description" : "TD Help or Interference?At the end of a long tourament game, it was clock-banging time. Both contestants were aiming to win via a flag fall, or a fast checkmate: tick, tick, tick. Pawns did their best foot-soldier impression and raced to reach the opposite side of the board. Their aim was simply to become royalty - to become a queen. Then fate intervened.Your pawn was a lot closer to gaining a throne than your opponent's. Then it happened. Your lonely pawn reached its destination. The promotion ceremony only needed a queen for the regal swap. Her majesty was available to you if you stretched out in a semi-seated, semi-standing position to reach her. Her majesty was hastily nabbed by your ner",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-no-good-deed",
+         "pubDate" : "Mon, 04 Aug 2025 00:00:00",
+         "title" : "Just the Rules: No Good Deed?"
+      },
+      {
+         "description" : "Normally, it would be cruel to describe anybody's tournament as \"heartbreaking\" or even disappointing because they \"only\" tied for second place. Similarly, a top grandmaster winning a tournament hardly counts as a shocking upset.But GM Darius Swiercz's defeat of GM Joshua Friedel in the final round of the 125th Annual U.S. Open to claim first place and a spot in October's U.S. Championship was a shocking result for Swiercz and a heartbreaking one for Friedel.Swiercz won with 8/9. He was never far from the tournament lead, but draws in Rounds 5 and 7 with GM Andrew Hong and IM Sam Schmakel, respectively, meant he would need to win each of his final two games to have any chance at the top spot",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/swiercz-wins-125th-annual-us-open-qualifies-us-championship",
+         "pubDate" : "Mon, 04 Aug 2025 00:00:00",
+         "title" : "Swiercz Wins 125th Annual U.S. Open, Qualifies For U.S. Championship"
       },
       {
          "description" : "In his latest column, Jon Speelman turns his attention to rook endgames from the Women's World Cup in Batumi, including key moments from Divya Deshmukh's games in the semifinals and the final. Alongside recent examples, he revisits a bishop-themed gem from decades past. With interactive diagrams and video commentary, readers are invited to solve critical positions and reflect on the subtleties of high-level technique and calculation. | Photo: Anna Shtourman",
@@ -426,22 +458,6 @@ news_feed (
          "title" : "New IMs - Sohum Lohia and Alex Golding"
       },
       {
-         "description" : "This week's puzzles begin a series on the 2025 FIDE Women's World Cup (coverage here), with WGM Sabina Foisor bringing us some tactical highlights from the games and variations that kept us riveted throughout July. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-womens-world-cup-pt-1",
-         "pubDate" : "Tue, 29 Jul 2025 00:00:00",
-         "title" : "Tactics Tuesday: Women's World Cup, Pt. 1"
-      },
-      {
-         "description" : "The 125th Annual U.S. Open began Monday, July 28, in Middleton, WI, with several hundred players competing in the first round of the seven-day schedule and another several hundred competing in the opening round of the national state invitationals. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Group photos from the Denker, Barber, Haring, Rockefeller, and Irwin invitationals. (Photos by David Llada)<br> <br> Come Thursday, we will know who is \"champion of champions\" for elementary, middle school, and high school",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/start-middleton-us-open-invitationals-begin-wisconsin",
-         "pubDate" : "Tue, 29 Jul 2025 00:00:00",
-         "title" : "Start From the Middleton: U.S. Open, Invitationals Begin in Wisconsin"
-      },
-      {
          "description" : " Rising Stars and Legends Shine at 2025 U.S. Championships The next generation of American chess stars made their mark while legends reinforced their legacy in this year's U.S. Junior, U.S. Junior Girls, and U.S. Senior Championships-three of the nation's most prestigious events, hosted by the Saint Louis Chess Club in Saint Louis, Mo., the official [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/new-champions-emerge-gm-andy-woodward-fm-wgm-zoey-tang-and-gm-alex-fishbein-win-in-u-s-junior-junior-girls-and-senior-championships-in-saint-louis/\">New Champions Emerge: GM Andy Woodward, FM/WGM Zoey Tang, and GM Alex Fishbein Win in U.S. Junior, Junior Girls and Senior Cha",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -504,14 +520,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/divya-wins-2025-fide-womens-world-cup-final-tiebreaks",
          "pubDate" : "Mon, 28 Jul 2025 08:59:00",
          "title" : "Divya Wins Women's World Cup, Earns Grandmaster Title"
-      },
-      {
-         "description" : "Organized and run by FM Kevin Bachler and his wife Deborah, the 2025 Caveman Chess Festival had something for everyone. Festivities kicked off Sunday, July 20, with a chess camp that attracted campers ages 7 to 76. Along with grandmasters Boris Avrukh, Dmitry Gurevich, and Yury Shulman, I was an instructor.From Friday, July 25, through Sunday, July 27, nine tournaments - including three national championship events - took place simultaneously at the Hilton Northbrook hotel in suburban Chicago. Pairings and standings will be available here and can also be found here. 2025 U.S. Senior OpenOn the first day of the 2025 U.S. Senior Open, news broke that GM Alex Fishbein won a playoff to become th",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-caveman-chess-festival-americas-pastime",
-         "pubDate" : "Mon, 28 Jul 2025 00:00:00",
-         "title" : "2025 Caveman Chess Festival: America's Pastime"
       },
       {
          "description" : "Divya Deshmukh won the rapid tie-breaks to be crowned the winner of the Women's World Cup.",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiters-seminar-exam-at-agartala-on-21-22-august-2025/",
          "pubDate" : "Wed, 23 Jul 2025 09:24:21",
          "title" : "Senior National Arbiters Seminar & Exam at Agartala on 21 & 22 August 2025"
-      },
-      {
-         "description" : "Both Titled Tuesday events of July 22 were close, but in the end, GMs Hikaru Nakamura and Bogdan-Daniel Deac won out. They scored 9.5 points each, beating out GMs Jeffery Xiong and Matthias Bluebaum, respectively, on&#38;nbsp;tiebreaks. Both Nakamura ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-deac-win-titled-tuesday-july-22-2025",
-         "pubDate" : "Wed, 23 Jul 2025 08:17:00",
-         "title" : "Nakamura Topples Gukesh On Way To Titled Tuesday Victory"
       },
       {
          "description" : "The&#160;FIDE Council Decision on Russian Women's Team Participation in&#160;the&#160;World Team Championship 2025 The European Chess Union (ECU) has reviewed the decision made at the Online FIDE Council Meeting held on July 18, 2025, regarding the participation of Russian National Team in the 2025 Women's World Team Championship. We note that this decision directly contradicts the most recent decisions of the FIDE General Assembly taken in Budapest, where two motions for lifting the sanctions against the Russian Chess Federation were rejected by a vast majority by FIDE member nations. Additionally,&#160;this&#160;matter was not&#160;originally&#160;on the []",
