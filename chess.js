@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123084595.cms\" />Hans Niemann sparked controversy by contrasting India's robust support system for chess players with the alleged shortcomings of the American chess federation. This followed Divya Deshmukh's historic FIDE Women's World Cup win, celebrated with significant government recognition and financial rewards in India. Niemann suggests the diverging approaches will have clear consequences for chess talent development in the coming years.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-india-treats-their-players-like-superstars-while-america-sabotages-theirs-gm-hans-niemann-sparks-new-debate/articleshow/123084595.cms",
+         "pubDate" : "Mon, 04 Aug 2025 02:16:55",
+         "title" : "'India treats players like superstars, while USA sabotages theirs': Niemann"
+      },
+      {
          "description" : "In his latest column, Jon Speelman turns his attention to rook endgames from the Women's World Cup in Batumi, including key moments from Divya Deshmukh's games in the semifinals and the final. Alongside recent examples, he revisits a bishop-themed gem from decades past. With interactive diagrams and video commentary, readers are invited to solve critical positions and reflect on the subtleties of high-level technique and calculation. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -392,14 +400,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/new-ims-sohum-lohia-and-alex-golding/",
          "pubDate" : "Tue, 29 Jul 2025 09:27:24",
          "title" : "New IMs - Sohum Lohia and Alex Golding"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122966600.cms\" />19-year-old Divya Deshmukh, from Nagpur, achieved a historic win. She became the first Indian and youngest to secure the FIDE Women's Chess World Cup in Georgia. In the final, she defeated Koneru Humpy. Divya's rapid game strategy led to her victory. She is now the fourth Indian woman to earn the GM title.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/womens-world-cup-divya-deshmukh-takes-control-of-the-clock-to-stun-koneru-humpy-becomes-first-indian-winner/articleshow/122966600.cms",
-         "pubDate" : "Tue, 29 Jul 2025 05:13:10",
-         "title" : "Divya Deshmukh takes control of the clock to stun Humpy, becomes first Indian winner"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122964696.cms\" />In a historic win at Batumi, Georgia, 19-year-old Divya Deshmukh clinched India's first-ever Women's World Cup chess title, defeating Grandmaster Koneru Humpy. The intense final saw Divya, playing with black pieces, triumph in a rapid tie-break. Amidst the drama, an untouched banana served as her quirky companion, a constant presence throughout her victorious journey.",
@@ -928,14 +928,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/join-the-global-online-celebration-for-international-chess-day/",
          "pubDate" : "Wed, 16 Jul 2025 08:31:36",
          "title" : "Join the Global Online Celebration for International Chess Day"
-      },
-      {
-         "description" : " Brewington Hardaway was one of nine recipients of the Samford Fellowship, awarded to players of tremendous promise. Most of the players are well-known in scholastic circles, having earned All-American honors. Hardaway, who earned his Grandmaster title early this year, is the first African-American to receive the Samford award. Photo from X (Brewington Hardaway) In its The post <a href=\"https://thechessdrum.net/blog/2025/07/13/brewington-hardaway-receives-samford-fellow/\">Brewington Hardaway receives Samford Fellow!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/07/13/brewington-hardaway-receives-samford-fellow/",
-         "pubDate" : "Sun, 13 Jul 2025 23:36:50",
-         "title" : "Brewington Hardaway receives Samford Fellow!"
       }
    ]
 }
