@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 52nd edition of the Dortmund Chess Festival is taking place on 2-10 August at the Kulturzentrum in the largest city of the Ruhr District. European champion Matthias Bluebaum is the rating favourite in the A Open. On Sunday, the International Women's Tournament begins, featuring four representatives from three countries: Elisabeth Paehtz, Dinara Wagner, 15-year-old Chinese champion Lu Miaoyi and Deimant&eacute; Daulyt&eacute;-Cornette of France. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "description" : "Round two of the Women Masters and round three of the A-Open were played on Monday at the Dortmund Chess Festival. In the Women Masters, Lu Miaoyi claimed a second win with the black pieces to become the sole leader going into the first rest day. Meanwhile, eight players reached a perfect score in the A-Open, including rating favourite Matthias Bluebaum. A costly blunder by Swiss youngster Cristian Arsenie featured in one of the day's key encounters. | All photos: Sparkassen Chess Meeting",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2025-live",
-         "pubDate" : "Mon, 04 Aug 2025 15:00:00",
-         "title" : "Dortmund Chess Festival - Live!"
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2025-d3",
+         "pubDate" : "Tue, 05 Aug 2025 00:50:00",
+         "title" : "Dortmund: Lu gets lucky break against Wagner, leads Women Masters"
+      },
+      {
+         "description" : "World number-one GM Hou Yifan defeated GM Karina Ambartsumova 11-3 in the opening match of the 2025 Women&#39;s Speed Chess Championship, followed immediately by IM Alice Lee beating GM Vaishali Rameshbabu 8-6 on the same day. While the first match wa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-wscc-ro16-hou-ambartsumova-vaishali-lee",
+         "pubDate" : "Mon, 04 Aug 2025 12:23:00",
+         "title" : "Lee Wins 5 In A Row Vs. Vaishali, Advances With Hou Yifan"
       },
       {
          "description" : "Two three-part courses that will take your game to the next level! In his three-part Fritztrainer series on the Najdorf, Luis Engel presents a powerful repertoire against 1.e4. In \"Mastering Chess Strategy\", Robert Ris starts with the fundamentals before diving into the finer points of strategic play. Take advantage of our Summer Special this week (August 4-10) and get these courses at a special discounted price.",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/which-ai-model-is-the-best-at-chess-kaggle-game-arena",
-         "pubDate" : "Mon, 04 Aug 2025 09:12:21",
+         "pubDate" : "Mon, 04 Aug 2025 09:12:00",
          "title" : "Which AI Model Is The Best At Chess? Meet The New Kaggle Game Arena"
       },
       {
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-semifinals-game-2",
          "pubDate" : "Wed, 23 Jul 2025 11:42:00",
          "title" : "Divya Eliminates 3rd Seed Tan, Lei Survives Vs. Humpy"
-      },
-      {
-         "description" : "The International Chess Federation (FIDE) has approved the participation of a Russian team in the upcoming 2025 Women&#39;s World Team Championship. The controversial decision has led to several reactions, most notably from the Ukrainian Chess Federat...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-softens-stance-on-russian-teams-ecu-others-protest",
-         "pubDate" : "Wed, 23 Jul 2025 10:28:00",
-         "title" : "FIDE Sparks Protests By Allowing Russian Team To Compete In Major Event"
       },
       {
          "description" : "On behalf of All India Chess Federation , All Tripura Chess Association is organizing Senior National Arbiters Seminar &#38; Exam on 21 &#38; 22 August 2025 at Meeting",
