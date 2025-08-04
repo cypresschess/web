@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123087173.cms\" />India's chess prowess shone at the Women's World Cup, where Divya Deshmukh secured a remarkable victory, inspiring fellow players like Gukesh. He emphasized the importance of success in both men's and women's chess for India, expressing excitement for the upcoming World Cup to be hosted in India.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-champion-gukesh-laud-divya-deshmukhs-world-cup-win-it-is-not-easy-/articleshow/123087173.cms",
+         "pubDate" : "Mon, 04 Aug 2025 05:14:28",
+         "title" : "CHESS | Gukesh laud Divya's World Cup win - 'It is not easy...'"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123085953.cms\" />In a surprise twist, India's 2025 World Junior Champion Pranav Venkatesh has earned a wildcard entry to the prestigious 2025 FIDE Grand Swiss after defeating Kazakhstan's GM Kazybek Nogerbek 1.5-0.5 in an unpublicised 'Asian Wildcard Match' in Al Ain, UAE. Pranav, who narrowly missed qualifying by rating, now joins an elite field chasing a spot in the 2026 Candidates.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-very-surprising-indias-world-junior-chess-champion-pranav-vs-grand-swiss-2025-entry-has-a-wild-backstory/articleshow/123085953.cms",
+         "pubDate" : "Mon, 04 Aug 2025 04:01:05",
+         "title" : "Exclusive | 'Very surprising': Pranav V's Grand Swiss 2025 entry has a wild backstory"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123084595.cms\" />Hans Niemann sparked controversy by contrasting India's robust support system for chess players with the alleged shortcomings of the American chess federation. This followed Divya Deshmukh's historic FIDE Women's World Cup win, celebrated with significant government recognition and financial rewards in India. Niemann suggests the diverging approaches will have clear consequences for chess talent development in the coming years.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -338,14 +354,6 @@ news_feed (
          "title" : "Despite WC final defeat, Humpy leads FIDE Circuit leaderboard"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122991218.cms\" />Koneru Humpy, a veteran of Indian chess, continues to inspire after securing a silver medal at the Women's Chess World Cup and qualifying for the 2026 Candidates tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-young-indian-girls-need-to-get-more-training-koneru-humpy/articleshow/122991218.cms",
-         "pubDate" : "Wed, 30 Jul 2025 06:44:04",
-         "title" : "EXCLUSIVE | 'Young Indian girls need to get more training' - Koneru Humpy"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122990856.cms\" />Speaking exclusively with TOI from Batumi airport in Georgia, Divya talked at length and shared her thoughts on how it feels to be a Grandmaster, how she turned things around in her favour and the favourite dress she wore during all her tiebreak games to script history.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -400,14 +408,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/new-ims-sohum-lohia-and-alex-golding/",
          "pubDate" : "Tue, 29 Jul 2025 09:27:24",
          "title" : "New IMs - Sohum Lohia and Alex Golding"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122964696.cms\" />In a historic win at Batumi, Georgia, 19-year-old Divya Deshmukh clinched India's first-ever Women's World Cup chess title, defeating Grandmaster Koneru Humpy. The intense final saw Divya, playing with black pieces, triumph in a rapid tie-break. Amidst the drama, an untouched banana served as her quirky companion, a constant presence throughout her victorious journey.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-the-banana-survives-in-batumi-india-gets-its-first-ever-womens-world-cup-champion-in-divya-deshmukh/articleshow/122964696.cms",
-         "pubDate" : "Tue, 29 Jul 2025 03:00:55",
-         "title" : "Chess | The banana survives in Batumi; India gets its first-ever Women's World Cup champion in Divya Deshmukh"
       },
       {
          "description" : "This week's puzzles begin a series on the 2025 FIDE Women's World Cup (coverage here), with WGM Sabina Foisor bringing us some tactical highlights from the games and variations that kept us riveted throughout July. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
