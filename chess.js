@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 52nd edition of the Dortmund Chess Festival is taking place on 2-10 August at the Kulturzentrum in the largest city of the Ruhr District. European champion Matthias Bluebaum is the rating favourite in the A Open. On Sunday, the International Women's Tournament begins, featuring four representatives from three countries: Elisabeth Paehtz, Dinara Wagner, 15-year-old Chinese champion Lu Miaoyi and Deimant&eacute; Daulyt&eacute;-Cornette of France. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2025-live",
+         "pubDate" : "Mon, 04 Aug 2025 15:00:00",
+         "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
          "description" : "Two three-part courses that will take your game to the next level! In his three-part Fritztrainer series on the Najdorf, Luis Engel presents a powerful repertoire against 1.e4. In \"Mastering Chess Strategy\", Robert Ris starts with the fundamentals before diving into the finer points of strategic play. Take advantage of our Summer Special this week (August 4-10) and get these courses at a special discounted price.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/summer-special-mastering-chess-strategy-and-win-with-the-najdorf",
          "pubDate" : "Mon, 04 Aug 2025 12:19:17",
-         "title" : "Summer Special: \"Mastering Chess Strategy\" and win with the Najdorf"
+         "title" : "Summer Special: \"Mastering Chess Strategy\" and winning with the Najdorf"
       },
       {
          "description" : "The Dortmund Sparkassen Chess Festival started on the weekend. The Open began on Saturday, the Women's Tournament on Sunday. In the duel of the best German women players Elisabeth P&auml;htz won against Dinara Wagner - after 129 moves and showing good knowledge of basic endgames! The 15-year old Chinese talent Lu Miaoyi also started with a win. | Photo: Mayor Norbert Schilff makes the ceremonial first move | Photos: Sparkassen Chess Meeting",
