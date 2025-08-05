@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123111684.cms\" />D Gukesh inspires young chess talents like Vincent Keymer. Keymer, who seconded Gukesh, admires his flexibility. He acknowledges India's rising chess power with many top players and strong support. Keymer aims to qualify for the Candidates tournament. He emphasizes the importance of classical tournaments. He is determined to give his best effort in the upcoming qualifiers. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-gukeshs-world-championship-second-vincent-keymer-in-awe-of-indias-chess-talent-pool/articleshow/123111684.cms",
+         "pubDate" : "Tue, 05 Aug 2025 06:18:38",
+         "title" : "Gukesh's World Championship second Vincent Keymer in awe of India's chess talent pool"
+      },
+      {
          "description" : "Round two of the Women Masters and round three of the A-Open were played on Monday at the Dortmund Chess Festival. In the Women Masters, Lu Miaoyi claimed a second win with the black pieces to become the sole leader going into the first rest day. Meanwhile, eight players reached a perfect score in the A-Open, including rating favourite Matthias Bluebaum. A costly blunder by Swiss youngster Cristian Arsenie featured in one of the day's key encounters. | All photos: Sparkassen Chess Meeting",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -400,14 +408,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/esports-chess-world-cup-2025-india-grandmaster-arjun-erigaisi-enters-quarterfinals-how-much-could-he-win/articleshow/122992408.cms",
          "pubDate" : "Wed, 30 Jul 2025 08:20:34",
          "title" : "Esports Chess WC: Erigaisi enters QF; how much could he win?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122991362.cms\" />Indian prodigy Divya Deshmukh's victory at the Women's World Cup in Batumi secured her a spot in the 2026 Candidates tournament, alongside Koneru Humpy and Tan Zhongyi. With five spots filled, the Grand Swiss and FIDE Women's Events series offer remaining qualification opportunities. Humpy Koneru currently leads the FIDE series, while Anna Muzychuk tops the qualification race.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/despite-womens-world-cup-final-defeat-koneru-humpy-leads-fide-circuit-leaderboard-divya-deshmukh-makes-massive-jump/articleshow/122991362.cms",
-         "pubDate" : "Wed, 30 Jul 2025 07:16:21",
-         "title" : "Despite WC final defeat, Humpy leads FIDE Circuit leaderboard"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122990856.cms\" />Speaking exclusively with TOI from Batumi airport in Georgia, Divya talked at length and shared her thoughts on how it feels to be a Grandmaster, how she turned things around in her favour and the favourite dress she wore during all her tiebreak games to script history.",
