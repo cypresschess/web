@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third edition of the Quantbox Chennai Grand Masters will take place from 6 to 15 August at the Hyatt Regency in Chennai. Featuring a ten-player round-robin in both the Masters and Challengers sections, the event brings together top international grandmasters and India's most promising talents. The Masters is headlined by Arjun Erigaisi, Anish Giri, and Vincent Keymer. With FIDE Circuit points and a substantial prize fund, the tournament is becoming a key fixture on the global chess calendar.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2025-preview",
+         "pubDate" : "Tue, 05 Aug 2025 22:00:00",
+         "title" : "Arjun, Giri and Keymer head strong field at third edition of Quantbox Chennai Grand Masters"
+      },
+      {
+         "description" : "The 24th European Youth Rapid and Blitz Chess Championship commenced yesterday in Thessaloniki, Greece, with the participation of more than 450 players from 36 European federations. The event started with the European Youth Rapid Chess Championship 2025, which is played over six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. ECU Secretary General Mr. Theodoros Tsorbatzoglou addressed the players and guests at the Opening ceremony, and then played the first ceremonial move with the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-rapid-blitz-chess-championship-2025-commenced-in-greece/",
+         "pubDate" : "Tue, 05 Aug 2025 20:28:42",
+         "title" : "European Youth Rapid & Blitz Chess Championship 2025 commenced in Greece"
+      },
+      {
          "description" : "Svitlana Demchenko's Smart Moves show began in 2021 and has produced over 120 nearly weekly episodes on topics ranging from openings and endgames to tactics and all things chess. Now, she is speaking at the World Schools Summit in Washington, DC-fittingly named the Smart Moves Summit 2025! | Photo: ChessBase India Interview",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +42,28 @@ news_feed (
          "title" : "British Chess Championship - Live!"
       },
       {
+         "description" : "The inaugural day of the AI chess exhibition match in Google&#39;s new Kaggle Game Arena project saw dominating performances by four of the Large Language Models (LLMs) on display. Four 4-0 sweeps took Gemini 2.5 Pro, o4-mini, Grok 4, and o3 to the Se...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kaggle-game-arena-chess-2025-day-1",
+         "pubDate" : "Tue, 05 Aug 2025 15:07:05",
+         "title" : "Grok 4 Dominates AI Chess Tournament Day 1, Advances With Gemini 2.5 Pro, o4-mini, o3"
+      },
+      {
          "description" : "The 52nd edition of the Dortmund Chess Festival is taking place on 2-10 August at the Kulturzentrum in the largest city of the Ruhr District. European champion Matthias Bluebaum is the rating favourite in the A Open. On Sunday, the International Women's Tournament begins, featuring four representatives from three countries: Elisabeth Paehtz, Dinara Wagner, 15-year-old Chinese champion Lu Miaoyi and Deimant&eacute; Daulyt&eacute;-Cornette of France. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/dortmund-festival-2025-live",
          "pubDate" : "Tue, 05 Aug 2025 15:00:00",
          "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
+         "description" : "CGM brings with it circuit points and the incentive of building form and momentum as the 2026 World Championship cycle starts.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45907388/arjun-erigaisi-anish-giri-top-players-looking-get-classical-groove-chennai-grand-masters?device=featurephone",
+         "pubDate" : "Tue, 5 Aug 2025 11:36:00",
+         "title" : "Arjun Erigaisi, Anish Giri among top players looking to get into Classical groove at Chennai Grand Masters"
       },
       {
          "description" : "At the 23rd ASEAN+ Age Group Championships in Penang, the spotlight wasn't only on young talents like Huynh Thien An and Oo Ke Chien, but also on the devoted parents supporting them. The story of Nagalakshmi, mother to Indian stars R. Praggnanandhaa and R. Vaishali, highlights the sacrifices behind success. Across cultures and continents, chess mums and dads ensure their children thrive - one packed lunch, quiet word and long wait at a time. | All photos: Edwin Lam",
@@ -720,14 +752,6 @@ news_feed (
          "link" : "https://aicf.in/divya-deshmukh-creates-history-storms-into-finals/",
          "pubDate" : "Thu, 24 Jul 2025 05:26:29",
          "title" : "Divya Deshmukh Creates History, Storms into Finals"
-      },
-      {
-         "description" : "21-year-old Bibisara Assaubayeva has officially become the 43rd woman to achieve the grandmaster title, joining a prestigious list of players to achieve the feat. IM Roman Shogdzhiev has also been confirmed as the world&#39;s youngest international ma...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/assaubayeva-confirmed-as-43rd-female-gm-shogdzhiev-worlds-youngest-im",
-         "pubDate" : "Thu, 24 Jul 2025 05:24:00",
-         "title" : "Assaubayeva Confirmed As 43rd Female GM, Shogdzhiev World's Youngest IM"
       },
       {
          "description" : " POSTGAME Round 8: Only Two Rounds Left to Make Their Mark! Join GMs Yasser Seirawan &#038; Cristian Chirila, and IM Nazi Paikidze for the top moments of today's games. Standings 2025 U.S. Junior Championship Standings After Round 8 + # Place Name Rating Rd 1 Rd 2 Rd 3 Rd 4 Rd 5 Rd 6 [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-8-only-two-rounds-left-to-make-their-mark-2025-us-national-championships/\">POSTGAME ROUND 8: Only Two Rounds Left to Make Their Mark!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
