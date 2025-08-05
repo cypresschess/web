@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 111th edition of the British Chess Championship is taking place on 2-10 August at the St George's Hall in Liverpool. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Nikita Vitiugov, Michael Adams and Gawain Jones. Also noteworthy is the presence of 16-year-old GM Shreyas Royal and 10-year-old prodigy Bodhana Sivanandan. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2025-live",
+         "pubDate" : "Tue, 05 Aug 2025 15:30:00",
+         "title" : "British Chess Championship - Live!"
+      },
+      {
+         "description" : "The 52nd edition of the Dortmund Chess Festival is taking place on 2-10 August at the Kulturzentrum in the largest city of the Ruhr District. European champion Matthias Bluebaum is the rating favourite in the A Open. On Sunday, the International Women's Tournament begins, featuring four representatives from three countries: Elisabeth Paehtz, Dinara Wagner, 15-year-old Chinese champion Lu Miaoyi and Deimant&eacute; Daulyt&eacute;-Cornette of France. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2025-live",
+         "pubDate" : "Tue, 05 Aug 2025 15:00:00",
+         "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
          "description" : "At the 23rd ASEAN+ Age Group Championships in Penang, the spotlight wasn't only on young talents like Huynh Thien An and Oo Ke Chien, but also on the devoted parents supporting them. The story of Nagalakshmi, mother to Indian stars R. Praggnanandhaa and R. Vaishali, highlights the sacrifices behind success. Across cultures and continents, chess mums and dads ensure their children thrive - one packed lunch, quiet word and long wait at a time. | All photos: Edwin Lam",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/asean-age-group-ch-2025",
          "pubDate" : "Tue, 05 Aug 2025 11:31:09",
          "title" : "Mom, Dad, I did it!"
+      },
+      {
+         "description" : "Get ready to mix up your potions and enchant your opponent with your tactics! The 2025 Chess.com Spell Chess Championship is the next event of the Chess.com Community Championships, starting on August 14. The event will feature a $2,500 prize fund...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-2025-chesscom-spell-chess-championship",
+         "pubDate" : "Tue, 05 Aug 2025 08:00:00",
+         "title" : "Make Magic Happen In The 2025 Chess.com Spell Chess Championship Starting August 14"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123112639.cms\" />The Chennai Grand Masters 2025 is set to begin from August 6 to 15, boasting an expanded format, an elite lineup, and a record prize pool. Pranav V, the reigning FIDE World Junior Champion, will debut in the Masters section, while Karthikeyan Murali replaces Vladimir Fedoseev. Harshvardhan GB, the first IM, joins the Challengers, promising intense competition.",
@@ -26,14 +50,6 @@ news_feed (
          "title" : "Gukesh's World Championship second Vincent Keymer in awe of India's chess talent pool"
       },
       {
-         "description" : "Round two of the Women Masters and round three of the A-Open were played on Monday at the Dortmund Chess Festival. In the Women Masters, Lu Miaoyi claimed a second win with the black pieces to become the sole leader going into the first rest day. Meanwhile, eight players reached a perfect score in the A-Open, including rating favourite Matthias Bluebaum. A costly blunder by Swiss youngster Cristian Arsenie featured in one of the day's key encounters. | All photos: Sparkassen Chess Meeting",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2025-d3",
-         "pubDate" : "Tue, 05 Aug 2025 00:50:00",
-         "title" : "Dortmund: Lu gets lucky break against Wagner, leads Women Masters"
-      },
-      {
          "description" : "World number-one GM Hou Yifan defeated GM Karina Ambartsumova 11-3 in the opening match of the 2025 Women&#39;s Speed Chess Championship, followed immediately by IM Alice Lee beating GM Vaishali Rameshbabu 8-6 on the same day. While the first match wa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/summer-special-mastering-chess-strategy-and-win-with-the-najdorf",
          "pubDate" : "Mon, 04 Aug 2025 12:19:17",
          "title" : "Summer Special: \"Mastering Chess Strategy\" and winning with the Najdorf"
-      },
-      {
-         "description" : "The Dortmund Sparkassen Chess Festival started on the weekend. The Open began on Saturday, the Women's Tournament on Sunday. In the duel of the best German women players Elisabeth P&auml;htz won against Dinara Wagner - after 129 moves and showing good knowledge of basic endgames! The 15-year old Chinese talent Lu Miaoyi also started with a win. | Photo: Mayor Norbert Schilff makes the ceremonial first move | Photos: Sparkassen Chess Meeting",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/elisabeth-paehtz-defeats-dinara-wagner-after-more-than-100-moves",
-         "pubDate" : "Mon, 04 Aug 2025 10:03:02",
-         "title" : "Elisabeth P&auml;htz defeats Dinara Wagner after more than 100 moves"
       },
       {
          "description" : "A unique and powerful approach to understanding AI capabilities, Kaggle Game Arena, in partnership with Google DeepMind, announced a new platform where leading AI models will compete head-to-head in chess and other games. To kick things off, Kag...",
@@ -112,14 +120,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/swiercz-wins-125th-annual-us-open-qualifies-us-championship",
          "pubDate" : "Mon, 04 Aug 2025 00:00:00",
          "title" : "Swiercz Wins 125th Annual U.S. Open, Qualifies For U.S. Championship"
-      },
-      {
-         "description" : "In his latest column, Jon Speelman turns his attention to rook endgames from the Women's World Cup in Batumi, including key moments from Divya Deshmukh's games in the semifinals and the final. Alongside recent examples, he revisits a bishop-themed gem from decades past. With interactive diagrams and video commentary, readers are invited to solve critical positions and reflect on the subtleties of high-level technique and calculation. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-230",
-         "pubDate" : "Sun, 03 Aug 2025 20:20:00",
-         "title" : "Jon Speelman: Georgian castles and Episcopal rulings"
       },
       {
          "description" : "Last Updated on 3rd August 2025 by WebAdmin Coventry will be transformed into a city of chess next summer as the University of Warwick hosts the 2026 British Chess Championships....",
@@ -744,14 +744,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45805183/teenager-divya-deshmukh-reach-chess-world-cup-final-first-indian?device=featurephone",
          "pubDate" : "Wed, 23 Jul 2025 14:40:00",
          "title" : "Teenager Divya Deshmukh slays nerves and seeded players to reach first Chess World Cup final"
-      },
-      {
-         "description" : "IM Divya Deshmukh eliminated GM Tan Zhongyi from the 2025 FIDE Women&#39;s World Cup, extending her Cinderella story into the Final with a third consecutive match victory over a grandmaster. She also earns her first grandmaster norm and a spot in the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-semifinals-game-2",
-         "pubDate" : "Wed, 23 Jul 2025 11:42:00",
-         "title" : "Divya Eliminates 3rd Seed Tan, Lei Survives Vs. Humpy"
       },
       {
          "description" : "On behalf of All India Chess Federation , All Tripura Chess Association is organizing Senior National Arbiters Seminar &#38; Exam on 21 &#38; 22 August 2025 at Meeting",
