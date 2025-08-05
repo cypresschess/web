@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the 23rd ASEAN+ Age Group Championships in Penang, the spotlight wasn't only on young talents like Huynh Thien An and Oo Ke Chien, but also on the devoted parents supporting them. The story of Nagalakshmi, mother to Indian stars R. Praggnanandhaa and R. Vaishali, highlights the sacrifices behind success. Across cultures and continents, chess mums and dads ensure their children thrive - one packed lunch, quiet word and long wait at a time. | All photos: Edwin Lam",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/asean-age-group-ch-2025",
+         "pubDate" : "Tue, 05 Aug 2025 11:31:09",
+         "title" : "Mom, Dad, I did it!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123112639.cms\" />The Chennai Grand Masters 2025 is set to begin from August 6 to 15, boasting an expanded format, an elite lineup, and a record prize pool. Pranav V, the reigning FIDE World Junior Champion, will debut in the Masters section, while Karthikeyan Murali replaces Vladimir Fedoseev. Harshvardhan GB, the first IM, joins the Challengers, promising intense competition.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-chennai-grand-masters-2025-more-rounds-biggest-ever-prize-pool-and-what-more/articleshow/123112639.cms",
+         "pubDate" : "Tue, 05 Aug 2025 07:28:44",
+         "title" : "Chennai Grand Masters 2025: More rounds, biggest-ever prize pool, and what more?"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123111684.cms\" />D Gukesh inspires young chess talents like Vincent Keymer. Keymer, who seconded Gukesh, admires his flexibility. He acknowledges India's rising chess power with many top players and strong support. Keymer aims to qualify for the Candidates tournament. He emphasizes the importance of classical tournaments. He is determined to give his best effort in the upcoming qualifiers. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -400,14 +416,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chigaev-saleh-win-titled-tuesday-july-29-2025",
          "pubDate" : "Wed, 30 Jul 2025 08:49:16",
          "title" : "Worth The Wait As Chigaev, Saleh Win First Tuesdays In Years"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122992408.cms\" />Indian Grandmaster Arjun Erigaisi has advanced to the quarterfinals of the Esports World Cup chess competition in Riyadh. He emerged as the winner of Group B. Erigaisi defeated fellow Indian player Nihal Sarin and Maxime Vachier-Lagrave. Other group winners include Levon Aronian, Alireza Firouzja, and Magnus Carlsen. The tournament boasts a prize pool of USD 1.5 million.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/esports-chess-world-cup-2025-india-grandmaster-arjun-erigaisi-enters-quarterfinals-how-much-could-he-win/articleshow/122992408.cms",
-         "pubDate" : "Wed, 30 Jul 2025 08:20:34",
-         "title" : "Esports Chess WC: Erigaisi enters QF; how much could he win?"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122990856.cms\" />Speaking exclusively with TOI from Batumi airport in Georgia, Divya talked at length and shared her thoughts on how it feels to be a Grandmaster, how she turned things around in her favour and the favourite dress she wore during all her tiebreak games to script history.",
