@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana Demchenko's Smart Moves show began in 2021 and has produced over 120 nearly weekly episodes on topics ranging from openings and endgames to tactics and all things chess. Now, she is speaking at the World Schools Summit in Washington, DC-fittingly named the Smart Moves Summit 2025! | Photo: ChessBase India Interview",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-in-washington",
+         "pubDate" : "Tue, 05 Aug 2025 20:00:00",
+         "title" : "Svitlana's Smart Moves in Washington!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123123415.cms\" />Chennai is gearing up to host the third edition of the Chennai Grandmasters chess tournament, commencing on August 6th, 2025. This prestigious event features 20 elite players competing for a prize pool of Rs 1 Crore and valuable FIDE Circuit points. The tournament includes two round-robin groups, Masters and Challengers, with matches scheduled daily until August 15th.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-chennai-grand-masters-2025-arjun-erigaisi-vs-awonder-liang-kicks-off-day-1-full-list-of-fixtures-inside/articleshow/123123415.cms",
+         "pubDate" : "Tue, 05 Aug 2025 16:36:12",
+         "title" : "Chennai Grand Masters: Erigaisi vs Liang kicks off Day 1"
+      },
+      {
          "description" : "The 111th edition of the British Chess Championship is taking place on 2-10 August at the St George's Hall in Liverpool. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Nikita Vitiugov, Michael Adams and Gawain Jones. Also noteworthy is the presence of 16-year-old GM Shreyas Royal and 10-year-old prodigy Bodhana Sivanandan. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,12 +58,20 @@ news_feed (
          "title" : "Chennai Grand Masters 2025: More rounds, biggest-ever prize pool, and what more?"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123111684.cms\" />D Gukesh inspires young chess talents like Vincent Keymer. Keymer, who seconded Gukesh, admires his flexibility. He acknowledges India's rising chess power with many top players and strong support. Keymer aims to qualify for the Candidates tournament. He emphasizes the importance of classical tournaments. He is determined to give his best effort in the upcoming qualifiers. ",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123111684.cms\" />D Gukesh inspires young chess talents like Vincent Keymer. Keymer, who was a second to Gukesh, admires his flexibility. He acknowledges India's rising chess power with many top players and strong support. Keymer aims to qualify for the Candidates tournament. He emphasizes the importance of classical tournaments. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-gukeshs-world-championship-second-vincent-keymer-in-awe-of-indias-chess-talent-pool/articleshow/123111684.cms",
          "pubDate" : "Tue, 05 Aug 2025 06:18:38",
          "title" : "Gukesh's World Championship second Vincent Keymer in awe of India's chess talent pool"
+      },
+      {
+         "description" : "This week's puzzles continue our series on the 2025 FIDE Women's World Cup (coverage here), with WGM Sabina Foisor bringing us some tactical highlights from the games and variations that kept us riveted throughout July. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-womens-world-cup-pt-2",
+         "pubDate" : "Tue, 05 Aug 2025 00:00:00",
+         "title" : "Tactics Tuesday: Women's World Cup, Pt. 2"
       },
       {
          "description" : "World number-one GM Hou Yifan defeated GM Karina Ambartsumova 11-3 in the opening match of the 2025 Women&#39;s Speed Chess Championship, followed immediately by IM Alice Lee beating GM Vaishali Rameshbabu 8-6 on the same day. While the first match wa...",
@@ -426,14 +450,6 @@ news_feed (
          "title" : "Exclusive: 'I took inspiration from Milkha, Mary Kom movie songs' - Divya"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122990349.cms\" />Divya Deshmukh made history by winning the FIDE Women's World Cup in Batumi. The 19-year-old defeated Grandmaster (GM) Koneru Humpy in a tense tie-break. Spectators were absent during the final moments due to FIDE regulations. Divya's victory marks a significant moment for Indian women's chess. She also became India's 88th Grandmaster.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-security-protocol-why-divya-deshmukh-played-world-cup-winning-move-inside-empty-venue/articleshow/122990349.cms",
-         "pubDate" : "Wed, 30 Jul 2025 06:08:20",
-         "title" : "'Security protocol': Why Divya played World Cup-winning move inside empty venue"
-      },
-      {
          "description" : "The US Chess Federation is pleased to announce the 2025 Annual Award recipients. Congratulations to all of these individuals and organizations who are advancing our mission to \"empower people, enrich lives, and enhance communities through chess.\"US Chess Awards Recipients from previous years can be viewed here: 2024 | 2023 | 2022 | 2021 | 2020 Named AwardsDan Heisman Award for Excellence in Chess InstructionKoltanowski AwardsFrank J. Marshall AwardOrganizer AwardsChess City of the YearChess Club of the YearChess College of the YearOrganizer of the YearHonorary Chess Mate Player AwardsGM of the YearOutstanding Team AchievementWoman Player of the YearYoung Player of the YearOutstanding Player ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -448,14 +464,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-womens-world-cup-pt-1",
          "pubDate" : "Wed, 30 Jul 2025 00:00:00",
          "title" : "Wednesday Workout: FIDE Women's World Cup, Pt. 1"
-      },
-      {
-         "description" : "That's a lot of chess! Tuesday was the first of two double-round days in Middleton for participants of the national state invitationals and the 7-day schedule of the U.S. Open, with another double-round day already underway today (follow live here). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The 5-day schedule for the Open also begins today with two rounds this afternoon before tomorrow's triple-round day. Those who opted for the four-day schedule are already resting up for Thursday's quadruple-round day! All playing schedules can be found here.Between the five invitationals, only 14 players out of 250 made it through Tuesday with perfect 3/3 scores. In the Open, 2",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/double-round-days-begin-middleton",
-         "pubDate" : "Wed, 30 Jul 2025 00:00:00",
-         "title" : "Double-Round Days Begin In Middleton"
       },
       {
          "description" : "GMs Levon Aronian (Group A), Arjun Erigaisi&#38;nbsp;(Group B), Alireza Firouzja&#38;nbsp;(Group C), and Magnus Carlsen (Group D) all won two matches to reach the Quarterfinals of the 2025 Esports World Cup.&#38;nbsp; On their last lives in the Losers Brack...",
