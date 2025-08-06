@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123133911.cms\" />D Harika, India's No. 2 female Grandmaster, balances her chess career with motherhood, finding joy in playing the Chennai Grand Masters tournament close to home, allowing her to spend time with her two-year-old daughter, Hanvika.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-with-daughter-in-tow-guilt-free-harika-takes-on-the-best/articleshow/123133911.cms",
+         "pubDate" : "Wed, 06 Aug 2025 05:48:49",
+         "title" : "Chennai Grand Masters: With daughter in tow, 'guilt'-free Harika takes on the best"
+      },
+      {
+         "description" : "The Air Force Sports Control Board (AFSCB) is inviting applications from outstanding sportsmen to join the Indian Air Force as Agniveervayu (Sports). For the first",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/recruitment-opportunity-for-outstanding-sportsmen-indian-air-force-agniveervayu-sports/",
+         "pubDate" : "Wed, 06 Aug 2025 05:44:38",
+         "title" : "Recruitment Opportunity for Outstanding Sportsmen - Indian Air Force (Agniveervayu - Sports)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123133813.cms\" />Arjun Erigaisi seeks to regain his form at the Chennai Grand Masters after a series of disappointing classical chess performances. The tournament, featuring 20 players, serves as crucial preparation for the Grand Swiss.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-arjun-erigaisis-chance-to-turn-around-indifferent-year/articleshow/123133813.cms",
+         "pubDate" : "Wed, 06 Aug 2025 05:38:54",
+         "title" : "Chennai Grand Masters: Arjun Erigaisi's chance to turn around indifferent year"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123132485.cms\" />The Chennai Grand Masters 2025 has been delayed by a day due to a fire at the Hyatt Regency, its venue. All players are safe and relocated. The tournament will now commence on August 7, with the first round on the original rest day.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-all-the-players-safe-tournament-postponed-by-a-day-after-fire-disrupts-venue/articleshow/123132485.cms",
+         "pubDate" : "Wed, 06 Aug 2025 04:22:39",
+         "title" : "Chennai Grand Masters: Tournament postponed after fire disrupts venue - Watch"
+      },
+      {
          "description" : "The third edition of the Quantbox Chennai Grand Masters will take place from 6 to 15 August at the Hyatt Regency in Chennai. Featuring a ten-player round-robin in both the Masters and Challengers sections, the event brings together top international grandmasters and India's most promising talents. The Masters is headlined by Arjun Erigaisi, Anish Giri, and Vincent Keymer. With FIDE Circuit points and a substantial prize fund, the tournament is becoming a key fixture on the global chess calendar.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -418,14 +450,6 @@ news_feed (
          "title" : "Divya dedicates World Cup title to her first trainer, who passed away in 2020"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123009237.cms\" />Tensions soared at the Esports Chess World Cup 2025 as Nihal Sarin of India triumphed over Dutch champion Anish Giri, triggering a fit of rage from Giri, who was seen banging his mouse. This incident follows a similar outburst by Hans Niemann after his defeat by Giri. The rising emotional displays are sparking conversations about the pressure players face.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-after-magnus-carlsen-hans-niemann-dutch-no-1-anish-giri-rages-bangs-his-mouse-after-defeat-to-indias-nihal-sarin-watch/articleshow/123009237.cms",
-         "pubDate" : "Thu, 31 Jul 2025 02:55:32",
-         "title" : "After Carlsen, Niemann, Dutch no. 1 Giri rages, bangs his mouse - Watch"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123009033.cms\" />Divya Deshmukh, an Indian chess player, won the FIDE Women's World Cup in Batumi. She defeated Koneru Humpy in the final through an intense tie-break. This victory also earned her the Grandmaster title. Ju Wenjun of China is still the reigning Women's World Champion. Divya's World Cup win qualifies her for the Candidates Tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -440,14 +464,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/five-titles-grabs-national-invitationals-enter-final-day",
          "pubDate" : "Thu, 31 Jul 2025 00:00:00",
          "title" : "Five Titles Up For Grabs As National Invitationals Enter Final Day"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123003550.cms\" />Divya Deshmukh, a 19-year-old chess prodigy from Nagpur, achieved a historic victory at the FIDE Women's World Chess Cup 2025 in Batumi, Georgia. She defeated Koneru Humpy in a dramatic tie-break, securing the prestigious World Cup trophy and earning the Grandmaster title. This win marks a resurgence for Indian women's chess and secures her spot in the 2026 Candidates Tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-receives-grand-welcome-in-nagpur-after-historic-chess-world-cup-win/articleshow/123003550.cms",
-         "pubDate" : "Wed, 30 Jul 2025 17:47:02",
-         "title" : "Divya Deshmukh receives grand welcome in Nagpur after historic Chess World Cup win"
       },
       {
          "description" : "GMs Ian Nepomniachtchi (Group A), Nihal Sarin (Group B), Hikaru Nakamura (Group C), and Nodirbek Abdusattorov (Group D) won their respective Losers Brackets to complete the field of eight players in the 2025 Esports World Cup Quarterfinals. They j...",
@@ -472,14 +488,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chigaev-saleh-win-titled-tuesday-july-29-2025",
          "pubDate" : "Wed, 30 Jul 2025 08:49:16",
          "title" : "Worth The Wait As Chigaev, Saleh Win First Tuesdays In Years"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/122990856.cms\" />Speaking exclusively with TOI from Batumi airport in Georgia, Divya talked at length and shared her thoughts on how it feels to be a Grandmaster, how she turned things around in her favour and the favourite dress she wore during all her tiebreak games to script history.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-i-took-inspiration-from-milkha-and-mary-kom-movie-songs-divya-deshmukh/articleshow/122990856.cms",
-         "pubDate" : "Wed, 30 Jul 2025 06:31:52",
-         "title" : "Exclusive: 'I took inspiration from Milkha, Mary Kom movie songs' - Divya"
       },
       {
          "description" : "The US Chess Federation is pleased to announce the 2025 Annual Award recipients. Congratulations to all of these individuals and organizations who are advancing our mission to \"empower people, enrich lives, and enhance communities through chess.\"US Chess Awards Recipients from previous years can be viewed here: 2024 | 2023 | 2022 | 2021 | 2020 Named AwardsDan Heisman Award for Excellence in Chess InstructionKoltanowski AwardsFrank J. Marshall AwardOrganizer AwardsChess City of the YearChess Club of the YearChess College of the YearOrganizer of the YearHonorary Chess Mate Player AwardsGM of the YearOutstanding Team AchievementWoman Player of the YearYoung Player of the YearOutstanding Player ",
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://aicf.in/fide-arbiter-seminar-2025-26/",
          "pubDate" : "Sat, 19 Jul 2025 10:06:04",
          "title" : "FIDE ARBITER SEMINAR 2025-26"
-      },
-      {
-         "description" : "Proud Moment for India: 4 Players Enter Women's World Cup Quarterfinals!Batumi, Georgia - A historic day for Indian chess as four Indian players have advanced",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/round-4-tiebreak-report-fwwc-georgia/",
-         "pubDate" : "Sat, 19 Jul 2025 09:59:04",
-         "title" : "Round 4- Tiebreak Report FWWC Georgia"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-4-mishras-gamble-pays-off-2025-us-national-championships/\">POSTGAME ROUND 4: Mishra's Gamble Pays Off!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
