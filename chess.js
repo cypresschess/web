@@ -46,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/kaggle-game-arena-chess-2025-day-1",
-         "pubDate" : "Tue, 05 Aug 2025 15:07:05",
+         "pubDate" : "Tue, 05 Aug 2025 15:07:00",
          "title" : "Grok 4 Dominates AI Chess Tournament Day 1, Advances With Gemini 2.5 Pro, o4-mini, o3"
       },
       {
