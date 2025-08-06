@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round three of the Women Masters and round five of the A-Open took place on Wednesday at the Dortmund Chess Festival. In the Women Masters, Lu Miaoyi kept her perfect score by defeating Elisabeth Paehtz in a sharp, tactical battle, while Dinara Wagner bounced back with a win over Deimantė Daulytė-Cornette. Meanwhile, in the A-Open, draws on the top boards allowed International Masters Nitish Belurkar and Ashot Parvanyan to join the leading group. | Photo: Dariusz Gorzinski",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2025-d5",
+         "pubDate" : "Thu, 07 Aug 2025 00:25:00",
+         "title" : "Dortmund: Lu beats Paehtz in tactical struggle, keeps perfect score"
+      },
+      {
          "description" : "The 111th edition of the British Chess Championship is taking place on 2-10 August at the St George's Hall in Liverpool. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Nikita Vitiugov, Michael Adams and Gawain Jones. Also noteworthy is the presence of 16-year-old GM Shreyas Royal and 10-year-old prodigy Bodhana Sivanandan. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +18,20 @@ news_feed (
          "title" : "British Chess Championship - Live!"
       },
       {
-         "description" : "The 52nd edition of the Dortmund Chess Festival is taking place on 2-10 August at the Kulturzentrum in the largest city of the Ruhr District. European champion Matthias Bluebaum is the rating favourite in the A Open. On Sunday, the International Women's Tournament begins, featuring four representatives from three countries: Elisabeth Paehtz, Dinara Wagner, 15-year-old Chinese champion Lu Miaoyi and Deimant&eacute; Daulyt&eacute;-Cornette of France. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2025-live",
-         "pubDate" : "Wed, 06 Aug 2025 15:00:00",
-         "title" : "Dortmund Chess Festival - Live!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123144629.cms\" />Google's Kaggle Game Arena witnessed a thrilling start as Gemini 2.5 Pro, o4-mini, Grok 4, and o3 secured dominant victories in the AI chess exhibition tournament. These LLMs defeated formidable opponents, showcasing their strategic capabilities. Grok 4's impressive performance drew attention, with Elon Musk acknowledging xAI's minimal focus on chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gemini-vs-grok-vs-claude-vs-deepseek-which-ai-tool-is-best-for-chess/articleshow/123144629.cms",
          "pubDate" : "Wed, 06 Aug 2025 14:34:16",
          "title" : "Gemini vs Grok vs Claude vs DeepSeek: Which AI tool is best for chess?"
+      },
+      {
+         "description" : "Grok 4 and o3 won their semifinal matches against Gemini 2.5 Pro and o4-mini in the AI chess exhibition match in Google&#39;s Kaggle Game Arena. While o3&#39;s victory was expected, no one could predict the tough battle between Grok and Gemini, which had ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kaggle-game-arena-chess-2025-day-2",
+         "pubDate" : "Wed, 06 Aug 2025 14:10:00",
+         "title" : "Grok Defeats Gemini On Tiebreaks, Advances To Final Against o3"
       },
       {
          "description" : "Rank Name Rank Name 1 Sattwik Swain 1 Girisha Prasanna Pai 2 Aadwik Abhinav Krishna 2 Nakshatra Gumudavelly 3 Divith Reddy Adulla 3 Narayani Umesh",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-playoff-fishbein-is-champion/",
          "pubDate" : "Fri, 25 Jul 2025 21:03:46",
          "title" : "POSTGAME PLAYOFF: Fishbein is Champion!"
-      },
-      {
-         "description" : "GM Ian Nepomniachtchi doesn&#39;t really need to add too many more accomplishments to his resume, but he did that on July 25 by winning his first Freestyle Friday ahead of GMs Jeffery Xiong and Jan-Krzysztof Duda&#38;nbsp;on tiebreaks. The field of 175 pl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nepomniachtchi-wins-freestyle-friday-july-25-2025",
-         "pubDate" : "Fri, 25 Jul 2025 11:53:32",
-         "title" : "Nepomniachtchi Holds On For 1st Freestyle Friday Victory"
       },
       {
          "description" : "Ahmednagar District Chess Circle on behalf of Maharashtra Chess Association, All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38;",
