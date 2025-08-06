@@ -50,6 +50,22 @@ news_feed (
          "title" : "For the first time ever: no Russian in the top ten!"
       },
       {
+         "description" : "GM Christopher Yoo has been handed an 18-month suspension from FIDE-rated events after the FIDE Ethics and Disciplinary Commission (EDC) found him guilty of multiple violations, including harassment, psychological abuse, and inappropriate conduct ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/christopher-yoo-18-month-ban-fide-harassment",
+         "pubDate" : "Wed, 06 Aug 2025 10:20:00",
+         "title" : "Christopher Yoo Found Guilty Of Harassment, Receives 18-Month Ban"
+      },
+      {
+         "description" : "We&#39;re excited to announce our new partnership with Zenni Optical, the leading online eyewear retailer. With the new partnership, Zenni Optical will support Chess.com&#39;s most prestigious events, including the Speed Chess Championship (SCC), Champion...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/zenni-optical-partners-with-chesscom",
+         "pubDate" : "Wed, 06 Aug 2025 10:00:00",
+         "title" : "Chess.com and Zenni Optical Announce Partnership to Champion Eye Health and Elevate Competitive Chess"
+      },
+      {
          "description" : "One country was consistently at the top of Titled Tuesday on August 5 as GMs Amin Tabatabaei, Parham Maghsoodloo, Sina Movahed all scored 10/11 in one of the day&#39;s events. The scores were enough for Tabatabaei to win the early event outright and f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -88,6 +104,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-all-the-players-safe-tournament-postponed-by-a-day-after-fire-disrupts-venue/articleshow/123132485.cms",
          "pubDate" : "Wed, 06 Aug 2025 04:22:39",
          "title" : "Chennai Grand Masters: Tournament postponed after fire disrupts venue - Watch"
+      },
+      {
+         "description" : "This week's puzzles continue a series on the 2025 FIDE Women's World Cup (coverage here), with WGM Sabina Foisor bringing us some tactical highlights from the games and variations that kept us riveted throughout July. Check out more of her puzzles in ourTactics Tuesday series, as well. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-womens-world-cup-pt-2",
+         "pubDate" : "Wed, 06 Aug 2025 00:00:00",
+         "title" : "Wednesday Workout: FIDE Women's World Cup, Pt. 2"
       },
       {
          "description" : "The third edition of the Quantbox Chennai Grand Masters will take place from 6 to 15 August at the Hyatt Regency in Chennai. Featuring a ten-player round-robin in both the Masters and Challengers sections, the event brings together top international grandmasters and India's most promising talents. The Masters is headlined by Arjun Erigaisi, Anish Giri, and Vincent Keymer. With FIDE Circuit points and a substantial prize fund, the tournament is becoming a key fixture on the global chess calendar.",
@@ -530,14 +554,6 @@ news_feed (
          "title" : "2025 US Chess Awards Recipients"
       },
       {
-         "description" : "This week's puzzles begin a series on the 2025 FIDE Women's World Cup (coverage here), with WGM Sabina Foisor bringing us some tactical highlights from the games and variations that kept us riveted throughout July. Check out more of her puzzles in ourTactics Tuesday series, as well. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-womens-world-cup-pt-1",
-         "pubDate" : "Wed, 30 Jul 2025 00:00:00",
-         "title" : "Wednesday Workout: FIDE Women's World Cup, Pt. 1"
-      },
-      {
          "description" : "GMs Levon Aronian (Group A), Arjun Erigaisi&#38;nbsp;(Group B), Alireza Firouzja&#38;nbsp;(Group C), and Magnus Carlsen (Group D) all won two matches to reach the Quarterfinals of the 2025 Esports World Cup.&#38;nbsp; On their last lives in the Losers Brack...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -738,14 +754,6 @@ news_feed (
          "title" : "Chess: Aronian takes big top prize in Las Vegas as Niemann celebrates Carlsen's downfall"
       },
       {
-         "description" : "GM Levon Aronian continued his form from Las Vegas as he topped Group A of the Last Chance Qualifier in Riyadh for the 2025 Esports World Cup, while GMs Dmitry Andreikin, Vidit Gujrathi, and Daniil Dubov were all eliminated. GMs Alexey Sarana, Mar...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-esports-world-cup-lcq-day-1",
-         "pubDate" : "Fri, 25 Jul 2025 02:31:00",
-         "title" : "Aronian Survives Group Of Death As Chess Joins Esports World Cup"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-9-andy-zoey-are-champions-2025-us-national-championships/\">POSTGAME ROUND 9: Andy &#038; Zoey are Champions!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/clash-of-generations-svidler-erdogmus-2025",
          "pubDate" : "Fri, 25 Jul 2025 00:43:00",
          "title" : "Clash of Generations Svidler Erdogmus 2025 - Games and Results"
-      },
-      {
-         "description" : "GM Vladimir Fedoseev emerged as the winner of the grueling Biel Masters Triathlon, an event that required him to play a total of 30 games in Chess960, blitz, rapid, and classical formats over 11 days. The Russian grandmaster, who lives in Germany ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vladimir-fedoseev-wins-biel-masters-triathlon-2025",
-         "pubDate" : "Thu, 24 Jul 2025 14:07:00",
-         "title" : "Fedoseev Edges Out Aravindh On Tiebreaks To Win Biel Masters"
       },
       {
          "description" : "Koneru Humpy will face Divya Deshmukh in the 2025 Women's Chess World Cup final after both Indians beat Chinese top seeds in the semis.",
