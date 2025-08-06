@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 111th edition of the British Chess Championship is taking place on 2-10 August at the St George's Hall in Liverpool. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Nikita Vitiugov, Michael Adams and Gawain Jones. Also noteworthy is the presence of 16-year-old GM Shreyas Royal and 10-year-old prodigy Bodhana Sivanandan. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2025-live",
+         "pubDate" : "Wed, 06 Aug 2025 15:30:00",
+         "title" : "British Chess Championship - Live!"
+      },
+      {
+         "description" : "The 52nd edition of the Dortmund Chess Festival is taking place on 2-10 August at the Kulturzentrum in the largest city of the Ruhr District. European champion Matthias Bluebaum is the rating favourite in the A Open. On Sunday, the International Women's Tournament begins, featuring four representatives from three countries: Elisabeth Paehtz, Dinara Wagner, 15-year-old Chinese champion Lu Miaoyi and Deimant&eacute; Daulyt&eacute;-Cornette of France. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2025-live",
+         "pubDate" : "Wed, 06 Aug 2025 15:00:00",
+         "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123144629.cms\" />Google's Kaggle Game Arena witnessed a thrilling start as Gemini 2.5 Pro, o4-mini, Grok 4, and o3 secured dominant victories in the AI chess exhibition tournament. These LLMs defeated formidable opponents, showcasing their strategic capabilities. Grok 4's impressive performance drew attention, with Elon Musk acknowledging xAI's minimal focus on chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gemini-vs-grok-vs-claude-vs-deepseek-which-ai-tool-is-best-for-chess/articleshow/123144629.cms",
+         "pubDate" : "Wed, 06 Aug 2025 14:34:16",
+         "title" : "Gemini vs Grok vs Claude vs DeepSeek: Which AI tool is best for chess?"
+      },
+      {
+         "description" : "Rank Name Rank Name 1 Sattwik Swain 1 Girisha Prasanna Pai 2 Aadwik Abhinav Krishna 2 Nakshatra Gumudavelly 3 Divith Reddy Adulla 3 Narayani Umesh",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-national-under-09-chess-championship-2025-in-gurugram-from-15-21-june-2025/",
+         "pubDate" : "Wed, 06 Aug 2025 11:35:51",
+         "title" : "Certificate :National Under 09 Chess Championship 2025 in Gurugram from 15-21 June 2025"
+      },
+      {
+         "description" : "Last Updated on 6th August 2025 by WebAdmin This year saw 62 entries - an increase on last year - with many strong submissions, giving the Awards Committee a tough...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-awards-2025/",
+         "pubDate" : "Wed, 06 Aug 2025 11:33:48",
+         "title" : "ECF Awards 2025"
+      },
+      {
          "description" : "It was the ever observant Leonard Barden who pointed it out to me: for the first time since FIDE began publishing its rating lists, 1971, there are no Russians in the top ten. The Guardian's weekly chess columnist turns 96 this month, and still keeps providing us with interesting reports.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/for-the-first-time-ever-no-russian-in-the-top-ten-2",
          "pubDate" : "Wed, 06 Aug 2025 11:00:00",
          "title" : "For the first time ever: no Russian in the top ten!"
+      },
+      {
+         "description" : "One country was consistently at the top of Titled Tuesday on August 5 as GMs Amin Tabatabaei, Parham Maghsoodloo, Sina Movahed all scored 10/11 in one of the day&#39;s events. The scores were enough for Tabatabaei to win the early event outright and f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tabatabaei-maghsoodloo-win-titled-tuesday-august-5-2025",
+         "pubDate" : "Wed, 06 Aug 2025 08:24:45",
+         "title" : "Compatriots Claim Titled Tuesday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123133911.cms\" />D Harika, India's No. 2 female Grandmaster, balances her chess career with motherhood, finding joy in playing the Chennai Grand Masters tournament close to home, allowing her to spend time with her two-year-old daughter, Hanvika.",
@@ -79,7 +127,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/kaggle-game-arena-chess-2025-day-1",
          "pubDate" : "Tue, 05 Aug 2025 15:07:00",
-         "title" : "Grok 4 Dominates AI Chess Tournament Day 1, Advances With Gemini 2.5 Pro, o4-mini, o3"
+         "title" : "Grok 4 Dominates AI Chess Tournament Day 1"
       },
       {
          "description" : "CGM brings with it circuit points and the incentive of building form and momentum as the 2026 World Championship cycle starts.",
@@ -434,14 +482,6 @@ news_feed (
          "title" : "Chess has always been in Divya's genes; great-grandfather used to play with Vinoba Bhave"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123009790.cms\" />Nineteen-year-old Divya Deshmukh was celebrated at Nagpur airport after her Women's World Cup victory in Batumi, where she triumphed over Koneru Humpy. This win secured her the Grandmaster title, a spot in the Candidates tournament, and a $50,000 prize. She credited her first coach Rahul Joshi, who passed away in 2020.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-divya-deshmukh-dedicates-world-cup-title-to-her-first-trainer-who-passed-away-in-2020/articleshow/123009790.cms",
-         "pubDate" : "Thu, 31 Jul 2025 03:17:06",
-         "title" : "Divya dedicates World Cup title to her first trainer, who passed away in 2020"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123009033.cms\" />Divya Deshmukh, an Indian chess player, won the FIDE Women's World Cup in Batumi. She defeated Koneru Humpy in the final through an intense tie-break. This victory also earned her the Grandmaster title. Ju Wenjun of China is still the reigning Women's World Champion. Divya's World Cup win qualifies her for the Candidates Tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -738,14 +778,6 @@ news_feed (
          "title" : "Koneru Humpy makes it India vs India in 2025 Chess World Cup final"
       },
       {
-         "description" : "GM Koneru Humpy was on the brink of elimination in the 2025 FIDE Women&#39;s World Cup Semifinals after losing the third tiebreak game. But she won on demand in game four and then won the two blitz games&#38;mdash;pulling off the hat trick&#38;mdash;to advanc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-semifinals-tiebreaks",
-         "pubDate" : "Thu, 24 Jul 2025 12:02:00",
-         "title" : "Humpy Wins On Demand, Advances To All-Indian Final"
-      },
-      {
          "description" : "India's 19-year-old chess prodigy, IM Divya Deshmukh, scripted history by becoming the first Indian woman to reach the finals of the FIDE Women's World Cup,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -906,14 +938,6 @@ news_feed (
          "title" : "This Mindset Works in Business-But Will Ruin Your Chess"
       },
       {
-         "description" : "All India Chess Federation is pleased to announced the 8 FIDE Arbiter Seminars as per the appended schedule below: Sl No Venue` Date 1 Bhubaneshwar",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-arbiter-seminar-2025-26/",
-         "pubDate" : "Sat, 19 Jul 2025 10:06:04",
-         "title" : "FIDE ARBITER SEMINAR 2025-26"
-      },
-      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-4-mishras-gamble-pays-off-2025-us-national-championships/\">POSTGAME ROUND 4: Mishra's Gamble Pays Off!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -952,14 +976,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-2-day-of-the-juniors-2025-u-s-national-championships/",
          "pubDate" : "Wed, 16 Jul 2025 23:59:48",
          "title" : "POSTGAME ROUND 2: Day of the Juniors | 2025 U.S. National Championships"
-      },
-      {
-         "description" : "Last Updated on 16th July 2025 by WebAdmin The English Chess Federation is inviting expressions of interest from associations, leagues, congresses and clubs interested in purchasing chess clocks at discounted...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chess-clocks-expression-of-interest-2025/",
-         "pubDate" : "Wed, 16 Jul 2025 12:42:32",
-         "title" : "Chess clocks expression of interest 2025"
       }
    ]
 }
