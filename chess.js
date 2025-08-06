@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It was the ever observant Leonard Barden who pointed it out to me: for the first time since FIDE began publishing its rating lists, 1971, there are no Russians in the top ten. The Guardian's weekly chess columnist turns 96 this month, and still keeps providing us with interesting reports.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/for-the-first-time-ever-no-russian-in-the-top-ten-2",
+         "pubDate" : "Wed, 06 Aug 2025 11:00:00",
+         "title" : "For the first time ever: no Russian in the top ten!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123133911.cms\" />D Harika, India's No. 2 female Grandmaster, balances her chess career with motherhood, finding joy in playing the Chennai Grand Masters tournament close to home, allowing her to spend time with her two-year-old daughter, Hanvika.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -66,28 +74,12 @@ news_feed (
          "title" : "Chennai Grand Masters: Erigaisi vs Liang kicks off Day 1"
       },
       {
-         "description" : "The 111th edition of the British Chess Championship is taking place on 2-10 August at the St George's Hall in Liverpool. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Nikita Vitiugov, Michael Adams and Gawain Jones. Also noteworthy is the presence of 16-year-old GM Shreyas Royal and 10-year-old prodigy Bodhana Sivanandan. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2025-live",
-         "pubDate" : "Tue, 05 Aug 2025 15:30:00",
-         "title" : "British Chess Championship - Live!"
-      },
-      {
          "description" : "The inaugural day of the AI chess exhibition match in Google&#39;s new Kaggle Game Arena project saw dominating performances by four of the Large Language Models (LLMs) on display. Four 4-0 sweeps took Gemini 2.5 Pro, o4-mini, Grok 4, and o3 to the Se...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/kaggle-game-arena-chess-2025-day-1",
          "pubDate" : "Tue, 05 Aug 2025 15:07:00",
          "title" : "Grok 4 Dominates AI Chess Tournament Day 1, Advances With Gemini 2.5 Pro, o4-mini, o3"
-      },
-      {
-         "description" : "The 52nd edition of the Dortmund Chess Festival is taking place on 2-10 August at the Kulturzentrum in the largest city of the Ruhr District. European champion Matthias Bluebaum is the rating favourite in the A Open. On Sunday, the International Women's Tournament begins, featuring four representatives from three countries: Elisabeth Paehtz, Dinara Wagner, 15-year-old Chinese champion Lu Miaoyi and Deimant&eacute; Daulyt&eacute;-Cornette of France. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2025-live",
-         "pubDate" : "Tue, 05 Aug 2025 15:00:00",
-         "title" : "Dortmund Chess Festival - Live!"
       },
       {
          "description" : "CGM brings with it circuit points and the incentive of building form and momentum as the 2026 World Championship cycle starts.",
@@ -968,14 +960,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chess-clocks-expression-of-interest-2025/",
          "pubDate" : "Wed, 16 Jul 2025 12:42:32",
          "title" : "Chess clocks expression of interest 2025"
-      },
-      {
-         "description" : "Last Updated on 16th July 2025 by WebAdmin FIDE, in partnership with&#160;Lichess.org, invites chess-lovers from around the world to take part in the largest-ever Social Chess Day tournament - a...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/join-the-global-online-celebration-for-international-chess-day/",
-         "pubDate" : "Wed, 16 Jul 2025 08:31:36",
-         "title" : "Join the Global Online Celebration for International Chess Day"
       }
    ]
 }
