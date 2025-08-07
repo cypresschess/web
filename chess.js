@@ -34,6 +34,22 @@ news_feed (
          "title" : "Dortmund Chess Festival - Live!"
       },
       {
+         "description" : "Two former WSCC champions advanced comfortably into the Quarterfinals of the 2025 Women&#39;s Speed Chess Championship. Women&#39;s World Champion (and reigning WSCC Champion) GM Ju Wenjun beat FM Anastasia Avramidou 9.5-4.5, while GM Kateryna Lagno elimi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-wscc-ro16-ju-avramidou-lagno-maltsevskaya",
+         "pubDate" : "Thu, 07 Aug 2025 14:59:52",
+         "title" : "Ju, Lagno Dominate & Advance To Quarterfinals"
+      },
+      {
+         "description" : "OpenAI&#39;s o3 took the crown after steamrolling over Grok 4 in the final day of the AI chess exhibition match in Google&#39;s Kaggle Game Arena. In the third-place match, Gemini 2.5 Pro defeated o4-mini 3.5-0.5 for the bronze medal. Kaggle Arena Chess...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kaggle-game-arena-chess-2025-day-3",
+         "pubDate" : "Thu, 07 Aug 2025 14:22:47",
+         "title" : "OpenAI's o3 Crushes Grok 4 In Final, Wins Kaggle's AI Chess Exhibition Tournament"
+      },
+      {
          "description" : " The Quantbox Chennai Grand Masters takes place Thu 7th Aug to Fri 15th Aug 2025. Following a fire the venue had to change and the start postponed by a day. Players in the Masters tournament: Erigaisi, Giri, Keymer, Vidit, Jorden Van Foreest, Awonder Liang, Nihal Sarin, Robson, Karthikeyan and Pranav. There is a strong challengers event as well.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -104,6 +120,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dortmund-festival-2025-d5",
          "pubDate" : "Thu, 07 Aug 2025 00:25:00",
          "title" : "Dortmund: Lu beats Paehtz in tactical struggle, keeps perfect score"
+      },
+      {
+         "description" : "The USA delegation boasted 14 podium finishes - including five gold medals - across 12 sections at the XXXV Pan-American Youth Chess Festival. Led by Head of Delegation WGM Kate&#345ina Němcov&aacute;, a total of 67 Americans competed in Lima, Peru, making up a twelfth of the 784 total players (representing 25 different federations). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo by Kateřina Němcov&aacute;<br> <br> <br> <br> With 28 points (three points per gold, two points each for four silver medals, and a point each for five bronze) USA won the team gold medal, ahead of Peru (16 points) and Colombia (6 points). <br> <br> <br> <br> <br> <br",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/americans-win-14-medals-pan-american-youth",
+         "pubDate" : "Thu, 07 Aug 2025 00:00:00",
+         "title" : "Americans Win 14 Medals at Pan-American Youth"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123144629.cms\" />Google's Kaggle Game Arena witnessed a thrilling start as Gemini 2.5 Pro, o4-mini, Grok 4, and o3 secured dominant victories in the AI chess exhibition tournament. These LLMs defeated formidable opponents, showcasing their strategic capabilities. Grok 4's impressive performance drew attention, with Elon Musk acknowledging xAI's minimal focus on chess.",
@@ -586,14 +610,6 @@ news_feed (
          "title" : "Worth The Wait As Chigaev, Saleh Win First Tuesdays In Years"
       },
       {
-         "description" : "The US Chess Federation is pleased to announce the 2025 Annual Award recipients. Congratulations to all of these individuals and organizations who are advancing our mission to \"empower people, enrich lives, and enhance communities through chess.\"US Chess Awards Recipients from previous years can be viewed here: 2024 | 2023 | 2022 | 2021 | 2020 Named AwardsDan Heisman Award for Excellence in Chess InstructionKoltanowski AwardsFrank J. Marshall AwardOrganizer AwardsChess City of the YearChess Club of the YearChess College of the YearOrganizer of the YearHonorary Chess Mate Player AwardsGM of the YearOutstanding Team AchievementWoman Player of the YearYoung Player of the YearOutstanding Player ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-us-chess-awards-recipients",
-         "pubDate" : "Wed, 30 Jul 2025 00:00:00",
-         "title" : "2025 US Chess Awards Recipients"
-      },
-      {
          "description" : "GMs Levon Aronian (Group A), Arjun Erigaisi&#38;nbsp;(Group B), Alireza Firouzja&#38;nbsp;(Group C), and Magnus Carlsen (Group D) all won two matches to reach the Quarterfinals of the 2025 Esports World Cup.&#38;nbsp; On their last lives in the Losers Brack...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -728,22 +744,6 @@ news_feed (
          "link" : "https://www.thearticle.com/magnus-carlsen-the-fallen-angel-fights-on/",
          "pubDate" : "Sat, 26 Jul 2025 11:32:27",
          "title" : "Magnus Carlsen: the fallen angel fights on"
-      },
-      {
-         "description" : "Both games were drawn in game one of the 2025 FIDE Women&#39;s World Cup Finals, but neither of them was dull. IM Divya Deshmukh gained a massive advantage as early as move 10 and even sacrificed a piece, but GM Koneru Humpy got away. In the match for...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-final-game-1",
-         "pubDate" : "Sat, 26 Jul 2025 08:47:00",
-         "title" : "Humpy Survives Vs. Divya, Lei Accepts Draw In Better Position"
-      },
-      {
-         "description" : "GM Alexander Fishbein clinched the U.S. Senior Championship title by winning a playoff on Friday with GM Vladimir Akopian and GM Alexander Shabalov after all three had finished in a tie for first. Fishbein earned $23,167. GM Andy Woodward was the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alex-fishbein-andy-woodward-zoey-tang-win-national-titles-2025",
-         "pubDate" : "Sat, 26 Jul 2025 04:24:00",
-         "title" : "Alex Fishbein, Andy Woodward, Zoey Tang Win U.S. Titles In St. Louis"
       },
       {
          "description" : "Koneru Humpy and Divya Deshmukh played out a draw in 41 moves in game 1 of the Women's Chess World Cup in Batumi, Georgia.",
