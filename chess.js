@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123158977.cms\" />Tanishka Garg, an eight-year-old from Bathinda, has become Punjab's youngest female FIDE-rated chess player, showcasing her strategic talent at a young age. Her journey began unexpectedly when she joined her brother's coaching sessions, quickly surpassing expectations and winning multiple titles.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-the-mothers-gambit-how-a-housewifes-trick-to-make-dinner-prepped-a-record-breaking-8-year-old-in-punjab/articleshow/123158977.cms",
+         "pubDate" : "Thu, 07 Aug 2025 07:06:49",
+         "title" : "The Mother's Gambit: How a housewife's trick prepped a record-breaking 8-year-old"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123157745.cms\" />The Chennai Grand Masters chess tournament faced an unexpected disruption as a fire broke out at the Hyatt Regency venue early Wednesday. An electrical issue triggered the incident, prompting organisers to evacuate players and staff to a nearby hotel. The start of the tournament has been postponed to Thursday, with the rest day canceled to accommodate the revised schedule.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-playing-hall-unaffected-despite-fire-issue-players-back-at-venue/articleshow/123157745.cms",
+         "pubDate" : "Thu, 07 Aug 2025 06:04:57",
+         "title" : "Chennai Grand Masters: Playing hall unaffected despite fire issue, players back at venue"
+      },
+      {
          "description" : "Round three of the Women Masters and round five of the A-Open took place on Wednesday at the Dortmund Chess Festival. In the Women Masters, Lu Miaoyi kept her perfect score by defeating Elisabeth Paehtz in a sharp, tactical battle, while Dinara Wagner bounced back with a win over Deimantė Daulytė-Cornette. Meanwhile, in the A-Open, draws on the top boards allowed International Masters Nitish Belurkar and Ashot Parvanyan to join the leading group. | Photo: Dariusz Gorzinski",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -498,28 +514,12 @@ news_feed (
          "title" : "August 2025 FIDE Ratings: GM Divya Breaks Into Top 15"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123016181.cms\" />The Chennai Grand Masters 2025, a prestigious chess tournament, is set to take place in August, featuring a competitive field of elite veterans and rising international stars. Anish Giri, Awonder Liang, Vincent Keymer, Jorden van Foreest, and Ray Robson are among the top foreign players expected to make a significant impact with their unique styles and strengths.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-from-dutch-no-1-anish-giri-to-german-no-1-vincent-keymer-top-5-foreigners-to-look-out-for-at-chennai-grand-masters-2025/articleshow/123016181.cms",
-         "pubDate" : "Thu, 31 Jul 2025 09:18:37",
-         "title" : "From Giri to Keymer: Top 5 foreigners to look out for at Chennai Grand Masters 2025"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123013248.cms\" />Divya Deshmukh, the youngest Indian woman to win the chess World Cup, has a family history with the game. Her great-grandfather, Dr. Durgaprasad Sharma, played chess with Vinoba Bhave. Divya's mother, Dr. Namrata Deshmukh, enrolled her in a chess academy at age five. Divya won her first national gold medal in 2012. Her parents supported her chess career, with Dr.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-has-always-been-in-divya-deshmukhs-genes-great-grandfather-used-to-play-with-vinoba-bhave/articleshow/123013248.cms",
          "pubDate" : "Thu, 31 Jul 2025 06:45:12",
          "title" : "Chess has always been in Divya's genes; great-grandfather used to play with Vinoba Bhave"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123009033.cms\" />Divya Deshmukh, an Indian chess player, won the FIDE Women's World Cup in Batumi. She defeated Koneru Humpy in the final through an intense tie-break. This victory also earned her the Grandmaster title. Ju Wenjun of China is still the reigning Women's World Champion. Divya's World Cup win qualifies her for the Candidates Tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-is-a-chess-world-cup-winner-but-not-a-world-champion-yet-why/articleshow/123009033.cms",
-         "pubDate" : "Thu, 31 Jul 2025 02:14:52",
-         "title" : "Divya is a Chess World Cup winner - but not a World Champion yet: Why?"
       },
       {
          "description" : "The final round of the five national invitational tournaments of state champions begun this morning at 10:00 a.m. CDT, with four of the five events taking the same shape.In every event but the Haring, there is one player with 4&frac12;/5 going into the last round, meaning they're \"win and in\" as outright champion. But a draw (or loss) would allow anybody from the chasing group to claim a share of the title. These \"chasing\" packs range from two (Barber) or three players (Irwin, Denker) all the way up to seven in the Rockefeller.In the Haring, however, three players enter Thursday's final round with 4&frac12;/5 scores, but only one player trails this group by a half-point. So, while we know no",
