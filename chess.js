@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 111th edition of the British Chess Championship is taking place on 2-10 August at the St George's Hall in Liverpool. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Nikita Vitiugov, Michael Adams and Gawain Jones. Also noteworthy is the presence of 16-year-old GM Shreyas Royal and 10-year-old prodigy Bodhana Sivanandan. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2025-live",
+         "pubDate" : "Thu, 07 Aug 2025 15:30:00",
+         "title" : "British Chess Championship - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123169349.cms\" />Arjun Erigaisi and Vincent Keymer initiated their Chennai Grandmasters 2025 campaigns with impressive victories, defeating Awonder Liang and Nihal Sarin respectively. In the Challengers section, Diptayan Ghosh, Leon Luke Mendonca, and M Pranesh secured wins, while other matches saw mixed results, including losses for Harika Dronavalli and Aryan Chopra. The Masters section also featured draws in high-profile matches.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-arjun-erigaisi-vincent-keymer-kick-off-exciting-day-1-with-victories-know-full-results/articleshow/123169349.cms",
+         "pubDate" : "Thu, 07 Aug 2025 15:04:19",
+         "title" : "Chennai Grand Masters 2025: Arjun Erigaisi, Vincent Keymer kick off exciting Day 1 with victories - know full results"
+      },
+      {
+         "description" : "The 52nd edition of the Dortmund Chess Festival is taking place on 2-10 August at the Kulturzentrum in the largest city of the Ruhr District. European champion Matthias Bluebaum is the rating favourite in the A Open. On Sunday, the International Women's Tournament begins, featuring four representatives from three countries: Elisabeth Paehtz, Dinara Wagner, 15-year-old Chinese champion Lu Miaoyi and Deimant&eacute; Daulyt&eacute;-Cornette of France. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2025-live",
+         "pubDate" : "Thu, 07 Aug 2025 15:00:00",
+         "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
+         "description" : " The Quantbox Chennai Grand Masters takes place Thu 7th Aug to Fri 15th Aug 2025. Following a fire the venue had to change and the start postponed by a day. Players in the Masters tournament: Erigaisi, Giri, Keymer, Vidit, Jorden Van Foreest, Awonder Liang, Nihal Sarin, Robson, Karthikeyan and Pranav. There is a strong challengers event as well.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/quantbox-chennai-grand-masters-2025",
+         "pubDate" : "Thu, 7 Aug 2025 13:58:00",
+         "title" : "Quantbox Chennai Grand Masters 2025 - Games and Results"
+      },
+      {
+         "description" : " There was a match between World Champion Gukesh and Jan-Krzysztof Duda in Katowice, Poland on 7th August 2025. Gukesh's struggles at fast time controls continues, he won game 1 but lost all the rest to lose the match 5-1. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/gukesh-vs-duda-blitz-2025",
+         "pubDate" : "Thu, 7 Aug 2025 13:12:00",
+         "title" : "Gukesh vs Duda Blitz 2025 - Games and Results"
+      },
+      {
+         "description" : "Please find the live link here Masters &#160;https://live.chennaigrandmasters.com/2025/masters/ Challengers &#160;https://live.chennaigrandmasters.com/2025/challengers/",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link-chennai-grandmasters-2025/",
+         "pubDate" : "Thu, 07 Aug 2025 12:15:04",
+         "title" : "Live link Chennai Grandmasters 2025"
+      },
+      {
          "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -522,14 +570,6 @@ news_feed (
          "title" : "August 2025 FIDE Ratings: GM Divya Breaks Into Top 15"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123013248.cms\" />Divya Deshmukh, the youngest Indian woman to win the chess World Cup, has a family history with the game. Her great-grandfather, Dr. Durgaprasad Sharma, played chess with Vinoba Bhave. Divya's mother, Dr. Namrata Deshmukh, enrolled her in a chess academy at age five. Divya won her first national gold medal in 2012. Her parents supported her chess career, with Dr.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-has-always-been-in-divya-deshmukhs-genes-great-grandfather-used-to-play-with-vinoba-bhave/articleshow/123013248.cms",
-         "pubDate" : "Thu, 31 Jul 2025 06:45:12",
-         "title" : "Chess has always been in Divya's genes; great-grandfather used to play with Vinoba Bhave"
-      },
-      {
          "description" : "The final round of the five national invitational tournaments of state champions begun this morning at 10:00 a.m. CDT, with four of the five events taking the same shape.In every event but the Haring, there is one player with 4&frac12;/5 going into the last round, meaning they're \"win and in\" as outright champion. But a draw (or loss) would allow anybody from the chasing group to claim a share of the title. These \"chasing\" packs range from two (Barber) or three players (Irwin, Denker) all the way up to seven in the Rockefeller.In the Haring, however, three players enter Thursday's final round with 4&frac12;/5 scores, but only one player trails this group by a half-point. So, while we know no",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -912,14 +952,6 @@ news_feed (
          "link" : "https://aicf.in/20-july-international-chess-day/",
          "pubDate" : "Sun, 20 Jul 2025 13:11:22",
          "title" : "20 July International Chess Day !"
-      },
-      {
-         "description" : "India's top seed, GM Koneru Humpy, made a commanding start in the quarterfinals of the FIDE Women's World Cup 2025, defeating China's IM Yuxin Song",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/quarterfinal-tension-rises-humpy-triumphs-harika-divya-and-vaishali-hold-ground/",
-         "pubDate" : "Sun, 20 Jul 2025 07:34:26",
-         "title" : "Quarterfinal Tension Rises: Humpy Triumphs, Harika, Divya, and Vaishali Hold Ground"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-5-all-about-the-juniors-2025-us-national-championships/\">POSTGAME ROUND 5: All About the Juniors</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
