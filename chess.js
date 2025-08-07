@@ -968,14 +968,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-3-woodward-in-the-lead-with-perfect-3-3-2025-u-s-national-championships/",
          "pubDate" : "Thu, 17 Jul 2025 23:54:32",
          "title" : "POSTGAME ROUND 3: Woodward In The Lead With Perfect 3/3 | 2025 U.S. National Championships"
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-2-day-of-the-juniors-2025-u-s-national-championships/\">POSTGAME ROUND 2: Day of the Juniors | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-2-day-of-the-juniors-2025-u-s-national-championships/",
-         "pubDate" : "Wed, 16 Jul 2025 23:59:48",
-         "title" : "POSTGAME ROUND 2: Day of the Juniors | 2025 U.S. National Championships"
       }
    ]
 }
