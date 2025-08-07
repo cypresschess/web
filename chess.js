@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-masters-live",
+         "pubDate" : "Thu, 07 Aug 2025 11:14:00",
+         "title" : "Chennai Masters - live!"
+      },
+      {
+         "description" : "The trend is toward speeding things up, chess being no exception. Today in Katowice, Poland, World Champion Gukesh Dommaraju and Poland's number one, Jan-Krzysztof Duda, face off in a six-game blitz match (3+2). If the score is tied after six games, an Armageddon game will decide the winner. ChessBase India will broadcast the short duel live, starting at 11:00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/short-and-sweet-gukesh-vs-duda",
+         "pubDate" : "Thu, 07 Aug 2025 09:30:00",
+         "title" : "Short and Sweet: Gukesh vs. Duda"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123158977.cms\" />Tanishka Garg, an eight-year-old from Bathinda, has become Punjab's youngest female FIDE-rated chess player, showcasing her strategic talent at a young age. Her journey began unexpectedly when she joined her brother's coaching sessions, quickly surpassing expectations and winning multiple titles.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dortmund-festival-2025-d5",
          "pubDate" : "Thu, 07 Aug 2025 00:25:00",
          "title" : "Dortmund: Lu beats Paehtz in tactical struggle, keeps perfect score"
-      },
-      {
-         "description" : "The 111th edition of the British Chess Championship is taking place on 2-10 August at the St George's Hall in Liverpool. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Nikita Vitiugov, Michael Adams and Gawain Jones. Also noteworthy is the presence of 16-year-old GM Shreyas Royal and 10-year-old prodigy Bodhana Sivanandan. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2025-live",
-         "pubDate" : "Wed, 06 Aug 2025 15:30:00",
-         "title" : "British Chess Championship - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123144629.cms\" />Google's Kaggle Game Arena witnessed a thrilling start as Gemini 2.5 Pro, o4-mini, Grok 4, and o3 secured dominant victories in the AI chess exhibition tournament. These LLMs defeated formidable opponents, showcasing their strategic capabilities. Grok 4's impressive performance drew attention, with Elon Musk acknowledging xAI's minimal focus on chess.",
