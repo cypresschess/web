@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It has been a long time coming, but Malaysia finally has a chess grandmaster in 26-year-old Yeoh Li Tian. This milestone comes 51 years after the formation of the Malaysian Chess Federation in 1974. With this achievement, Yeoh joins an elite group of about 2,000 players recognised by the World Chess Federation (FIDE) for their mastery of the game. Quah Seng Sun reports. | Photos courtesy of Malaysian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/from-prodigy-to-grandmaster",
+         "pubDate" : "Thu, 07 Aug 2025 21:00:00",
+         "title" : "From Prodigy to Grandmaster"
+      },
+      {
          "description" : "The 111th edition of the British Chess Championship is taking place on 2-10 August at the St George's Hall in Liverpool. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Nikita Vitiugov, Michael Adams and Gawain Jones. Also noteworthy is the presence of 16-year-old GM Shreyas Royal and 10-year-old prodigy Bodhana Sivanandan. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/gukesh-vs-duda-blitz-2025",
          "pubDate" : "Thu, 7 Aug 2025 13:12:00",
          "title" : "Gukesh vs Duda Blitz 2025 - Games and Results"
+      },
+      {
+         "description" : "GM Arjun Erigaisi is Indian number-one and world number-four again after beating GM Awonder Liang in round one of the Masters section of the Quantbox Chennai Grand Masters 2025. Arjun is joined in the lead by GM Vincent Keymer, who won a time-trou...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-1",
+         "pubDate" : "Thu, 07 Aug 2025 12:16:36",
+         "title" : "Arjun Climbs To World No. 4 As Chennai Grand Masters Begins"
       },
       {
          "description" : "Please find the live link here Masters &#160;https://live.chennaigrandmasters.com/2025/masters/ Challengers &#160;https://live.chennaigrandmasters.com/2025/challengers/",
@@ -194,28 +210,12 @@ news_feed (
          "title" : "Wednesday Workout: FIDE Women's World Cup, Pt. 2"
       },
       {
-         "description" : "The third edition of the Quantbox Chennai Grand Masters will take place from 6 to 15 August at the Hyatt Regency in Chennai. Featuring a ten-player round-robin in both the Masters and Challengers sections, the event brings together top international grandmasters and India's most promising talents. The Masters is headlined by Arjun Erigaisi, Anish Giri, and Vincent Keymer. With FIDE Circuit points and a substantial prize fund, the tournament is becoming a key fixture on the global chess calendar.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2025-preview",
-         "pubDate" : "Tue, 05 Aug 2025 22:00:00",
-         "title" : "Arjun, Giri and Keymer head strong field at third edition of Quantbox Chennai Grand Masters"
-      },
-      {
          "description" : "The 24th European Youth Rapid and Blitz Chess Championship commenced yesterday in Thessaloniki, Greece, with the participation of more than 450 players from 36 European federations. The event started with the European Youth Rapid Chess Championship 2025, which is played over six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. ECU Secretary General Mr. Theodoros Tsorbatzoglou addressed the players and guests at the Opening ceremony, and then played the first ceremonial move with the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-youth-rapid-blitz-chess-championship-2025-commenced-in-greece/",
          "pubDate" : "Tue, 05 Aug 2025 20:28:42",
          "title" : "European Youth Rapid & Blitz Chess Championship 2025 commenced in Greece"
-      },
-      {
-         "description" : "Svitlana Demchenko's Smart Moves show began in 2021 and has produced over 120 nearly weekly episodes on topics ranging from openings and endgames to tactics and all things chess. Now, she is speaking at the World Schools Summit in Washington, DC-fittingly named the Smart Moves Summit 2025! | Photo: ChessBase India Interview",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-in-washington",
-         "pubDate" : "Tue, 05 Aug 2025 20:00:00",
-         "title" : "Svitlana's Smart Moves in Washington!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123123415.cms\" />Chennai is gearing up to host the third edition of the Chennai Grandmasters chess tournament, commencing on August 6th, 2025. This prestigious event features 20 elite players competing for a prize pool of Rs 1 Crore and valuable FIDE Circuit points. The tournament includes two round-robin groups, Masters and Challengers, with matches scheduled daily until August 15th.",
@@ -240,14 +240,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45907388/arjun-erigaisi-anish-giri-top-players-looking-get-classical-groove-chennai-grand-masters?device=featurephone",
          "pubDate" : "Tue, 5 Aug 2025 11:36:00",
          "title" : "Arjun Erigaisi, Anish Giri among top players looking to get into Classical groove at Chennai Grand Masters"
-      },
-      {
-         "description" : "At the 23rd ASEAN+ Age Group Championships in Penang, the spotlight wasn't only on young talents like Huynh Thien An and Oo Ke Chien, but also on the devoted parents supporting them. The story of Nagalakshmi, mother to Indian stars R. Praggnanandhaa and R. Vaishali, highlights the sacrifices behind success. Across cultures and continents, chess mums and dads ensure their children thrive - one packed lunch, quiet word and long wait at a time. | All photos: Edwin Lam",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/asean-age-group-ch-2025",
-         "pubDate" : "Tue, 05 Aug 2025 11:31:09",
-         "title" : "Mom, Dad, I did it!"
       },
       {
          "description" : "Get ready to mix up your potions and enchant your opponent with your tactics! The 2025 Chess.com Spell Chess Championship is the next event of the Chess.com Community Championships, starting on August 14. The event will feature a $2,500 prize fund...",
@@ -288,14 +280,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-wscc-ro16-hou-ambartsumova-vaishali-lee",
          "pubDate" : "Mon, 04 Aug 2025 12:23:00",
          "title" : "Lee Wins 5 In A Row Vs. Vaishali, Advances With Hou Yifan"
-      },
-      {
-         "description" : "Two three-part courses that will take your game to the next level! In his three-part Fritztrainer series on the Najdorf, Luis Engel presents a powerful repertoire against 1.e4. In \"Mastering Chess Strategy\", Robert Ris starts with the fundamentals before diving into the finer points of strategic play. Take advantage of our Summer Special this week (August 4-10) and get these courses at a special discounted price.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/summer-special-mastering-chess-strategy-and-win-with-the-najdorf",
-         "pubDate" : "Mon, 04 Aug 2025 12:19:17",
-         "title" : "Summer Special: \"Mastering Chess Strategy\" and winning with the Najdorf"
       },
       {
          "description" : "A unique and powerful approach to understanding AI capabilities, Kaggle Game Arena, in partnership with Google DeepMind, announced a new platform where leading AI models will compete head-to-head in chess and other games. To kick things off, Kag...",
@@ -768,14 +752,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45826368/koneru-humpy-vs-divya-deshmukh-live-blog-updates-commentary-results-2025-fide-womens-chess-world-cup-final-game-1?device=featurephone",
          "pubDate" : "Sat, 26 Jul 2025 03:00:00",
          "title" : "Koneru Humpy, Divya Deshmukh draw in game 1 of FIDE Women's Chess World Cup final"
-      },
-      {
-         "description" : "GMs Praggnanandhaa Rameshbabu and Hans Niemann topped Groups C and D of the 2025 Esports World Cup Last Chance Qualifier as the 16-player field was completed for Saturday&#39;s Playoffs. They were joined by GMs Yu Yangyi, Javokhir Sindarov, Anish Giri...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-esports-world-cup-lcq-day-1-1",
-         "pubDate" : "Sat, 26 Jul 2025 01:25:27",
-         "title" : "Praggnanandhaa, Niemann Win Groups To Reach Playoffs"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-playoff-fishbein-is-champion/\">POSTGAME PLAYOFF: Fishbein is Champion!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
