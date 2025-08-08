@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123191914.cms\" />Vincent Keymer's masterful play secured him the sole lead in the Masters category at the Chennai Grand Masters 2025, while Ray Robson delivered a stunning upset against Vidit Gujrathi. In the Challengers section, Iniyan P showcased his prowess with a decisive victory over Harika Dronavalli.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-germany-no-1-vincent-keymer-takes-sole-lead-after-arjun-erigaisi-held-to-draw/articleshow/123191914.cms",
+         "pubDate" : "Fri, 08 Aug 2025 16:02:36",
+         "title" : "Chennai Grand Masters: Keymer takes sole lead after Erigaisi held to draw"
+      },
+      {
          "description" : "The 111th edition of the British Chess Championship is taking place on 2-10 August at the St George's Hall in Liverpool. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Nikita Vitiugov, Michael Adams and Gawain Jones. Also noteworthy is the presence of 16-year-old GM Shreyas Royal and 10-year-old prodigy Bodhana Sivanandan. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dortmund-festival-2025-live",
          "pubDate" : "Fri, 08 Aug 2025 15:00:00",
          "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
+         "description" : "GM Hikaru Nakamura won his sixth Freestyle Friday on August 8, now three more than anyone else after 29 editions of the event. This day&#39;s top three places were all awarded outright, Nakamura on 10 points, GM Magnus Carlsen on 9.5 points, and GM Ol...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-freestyle-friday-august-8-2025",
+         "pubDate" : "Fri, 08 Aug 2025 11:38:48",
+         "title" : "Nakamura Wins Battle, War Over Carlsen In Freestyle Friday"
       },
       {
          "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-used-to-throw-tantrums-d-gukesh-shares-how-meditation-changed-his-chess-and-life/articleshow/123185492.cms",
          "pubDate" : "Fri, 08 Aug 2025 09:58:40",
          "title" : "'I used to throw tantrums': D Gukesh shares how meditation changed his chess"
-      },
-      {
-         "description" : "The Quantbox Chennai Grand Masters began a day later than scheduled after a minor fire at the Hyatt Regency Chennai delayed the start. The opening round of the Masters saw wins for Arjun Erigaisi and Vincent Keymer, while the other three games ended in draws, including a sharp battle between Vidit Gujrathi and Jorden van Foreest. In the Challengers, Leon Luke Mendonca, Diptayan Ghosh and Pranesh M scored the day's victories to take an early lead. | Photos: Anmol Bhargav",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2025-1",
-         "pubDate" : "Fri, 08 Aug 2025 08:20:00",
-         "title" : "Chennai GMs: Arjun and Keymer start with wins"
       },
       {
          "description" : "The World Amateur Chess Championship will be held at Vrnjacka Banja, Serbia from 4th to 14th November, 2025. The detailed regulations you can find at&#160;FIDE",
@@ -154,14 +162,6 @@ news_feed (
          "title" : "Live link Chennai Grandmasters 2025"
       },
       {
-         "description" : "The trend is toward speeding things up, chess being no exception. Today in Katowice, Poland, World Champion Gukesh Dommaraju and Poland's number one, Jan-Krzysztof Duda, face off in a six-game blitz match (3+2). If the score is tied after six games, an Armageddon game will decide the winner. ChessBase India will broadcast the short duel live, starting at 11:00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/short-and-sweet-gukesh-vs-duda",
-         "pubDate" : "Thu, 07 Aug 2025 09:30:00",
-         "title" : "Short and Sweet: Gukesh vs. Duda"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123158977.cms\" />Tanishka Garg, an eight-year-old from Bathinda, has become Punjab's youngest female FIDE-rated chess player, showcasing her strategic talent at a young age. Her journey began unexpectedly when she joined her brother's coaching sessions, quickly surpassing expectations and winning multiple titles.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -176,14 +176,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-playing-hall-unaffected-despite-fire-issue-players-back-at-venue/articleshow/123157745.cms",
          "pubDate" : "Thu, 07 Aug 2025 06:04:57",
          "title" : "Chennai Grand Masters: Playing hall unaffected despite fire issue, players back at venue"
-      },
-      {
-         "description" : "Round three of the Women Masters and round five of the A-Open took place on Wednesday at the Dortmund Chess Festival. In the Women Masters, Lu Miaoyi kept her perfect score by defeating Elisabeth Paehtz in a sharp, tactical battle, while Dinara Wagner bounced back with a win over Deimantė Daulytė-Cornette. Meanwhile, in the A-Open, draws on the top boards allowed International Masters Nitish Belurkar and Ashot Parvanyan to join the leading group. | Photo: Dariusz Gorzinski",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2025-d5",
-         "pubDate" : "Thu, 07 Aug 2025 00:25:00",
-         "title" : "Dortmund: Lu beats Paehtz in tactical struggle, keeps perfect score"
       },
       {
          "description" : "The USA delegation boasted 14 podium finishes - including five gold medals - across 12 sections at the XXXV Pan-American Youth Chess Festival. Led by Head of Delegation WGM Kate&#345ina Němcov&aacute;, a total of 67 Americans competed in Lima, Peru, making up a twelfth of the 784 total players (representing 25 different federations). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo by Kateřina Němcov&aacute;<br> <br> <br> <br> With 28 points (three points per gold, two points each for four silver medals, and a point each for five bronze) USA won the team gold medal, ahead of Peru (16 points) and Colombia (6 points). <br> <br> <br> <br> <br> <br",
@@ -224,14 +216,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-awards-2025/",
          "pubDate" : "Wed, 06 Aug 2025 11:33:48",
          "title" : "ECF Awards 2025"
-      },
-      {
-         "description" : "It was the ever observant Leonard Barden who pointed it out to me: for the first time since FIDE began publishing its rating lists, 1971, there are no Russians in the top ten. The Guardian's weekly chess columnist turns 96 this month, and still keeps providing us with interesting reports.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/for-the-first-time-ever-no-russian-in-the-top-ten-2",
-         "pubDate" : "Wed, 06 Aug 2025 11:00:00",
-         "title" : "For the first time ever: no Russian in the top ten!"
       },
       {
          "description" : "GM Christopher Yoo has been handed an 18-month suspension from FIDE-rated events after the FIDE Ethics and Disciplinary Commission (EDC) found him guilty of multiple violations, including harassment, psychological abuse, and inappropriate conduct ...",
@@ -514,14 +498,6 @@ news_feed (
          "title" : "Global chess is now in the era of Vishy's children"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123055171.cms\" />Magnus Carlsen, the world's top-ranked grandmaster, has secured another victory, this time at the inaugural Esports Chess World Cup in Riyadh. Representing Team Liquid, Carlsen triumphed over Alireza Firouzja in the final, earning $250,000 and praising the event's innovative format. The inclusion of chess in the Esports World Cup marks a significant step in modernizing the game.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/new-ground-conquered-world-no-1-magnus-carlsen-after-winning-inaugural-esports-chess-world-cup-title/articleshow/123055171.cms",
-         "pubDate" : "Sat, 02 Aug 2025 03:32:50",
-         "title" : "'New ground conquered': Carlsen after winning inaugural Esports Chess WC"
-      },
-      {
          "description" : "At the U.S. Open, we know there are a ton of chess players around, but it doesn't always feel that way during the first few days. Some players are off in the invitationals, others are at side events, and some are attending (or leading) committee meetings and workshops. Of those who are playing in the main event, there are three different schedules, so the playing hall feels half-empty at any given time.And then, there's the merge. Over 500 players competed in the seventh round of the 125th Annual U.S. Open on Friday, August 1, in Middleton, WI for the first of three merged rounds this weekend. Participants will again scatter around the Madison Marriott West - this weekend's side events inclu",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -736,14 +712,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-final-game-2",
          "pubDate" : "Sun, 27 Jul 2025 09:57:00",
          "title" : "Tan Finishes 3rd With Black Win"
-      },
-      {
-         "description" : "GMs Anish Giri, Levon Aronian, Nihal Sarin, and Javokhir Sindarov have taken the final four spots in the $1.5 million main chess event of the 2025 Esports World Cup. Giri won in the most dramatic fashion, flagging GM Hans Niemann in a losing posit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-esports-world-cup-lcq-day-3",
-         "pubDate" : "Sun, 27 Jul 2025 02:34:00",
-         "title" : "Giri, Aronian, Nihal, Sindarov Grab Final Spots In Esports World Cup"
       },
       {
          "description" : "Divya walked a tight-rope in search of a win, but avoided Humpy's traps to gain a draw in game 2 of the final.",
@@ -976,14 +944,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-4-mishras-gamble-pays-off-2025-us-national-championships/",
          "pubDate" : "Sat, 19 Jul 2025 01:13:23",
          "title" : "POSTGAME ROUND 4: Mishra's Gamble Pays Off!"
-      },
-      {
-         "description" : "The ECF has a limited stock of printed 2025 Yearbooks priced at &pound;10.00 for members and &pound;12.00 for non-members per issue, including second class postage. A form to order the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-yearbook-2025-print-edition/",
-         "pubDate" : "Fri, 18 Jul 2025 16:00:36",
-         "title" : "ECF Yearbook 2025 - print edition"
       }
    ]
 }
