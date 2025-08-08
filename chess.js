@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Quantbox Chennai Grand Masters began a day later than scheduled after a minor fire at the Hyatt Regency Chennai delayed the start. The opening round of the Masters saw wins for Arjun Erigaisi and Vincent Keymer, while the other three games ended in draws, including a sharp battle between Vidit Gujrathi and Jorden van Foreest. In the Challengers, Leon Luke Mendonca, Diptayan Ghosh and Pranesh M scored the day's victories to take an early lead. | Photos: Anmol Bhargav",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2025-1",
+         "pubDate" : "Fri, 08 Aug 2025 08:20:00",
+         "title" : "Chennai GMs: Arjun and Keymer start with wins"
+      },
+      {
+         "description" : " World No 1 dominated every round and was determined to show chess in its best light at Saudi event Magnus Carlsen was in imperious form at last week's Esports World Cup in Riyadh, Saudi Arabia, with a virtuoso performance both on and off the board. On it, the world No 1 won the group stage, the quarter and semi-finals, and the final, all in dominant style while seeing off the world No 2 Hikaru Nakamura and one of the leading young contenders, Alireza Firouzja. Offboard, Carlsen exuded enthusiasm for the event, and delivered upbeat and articulate responses to interviewers. The limit of 10 minutes per player per game, without the usual per move increment, was designed for tight TV schedules, ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/aug/08/magnus-carlsen-esports-world-cup-chess",
+         "pubDate" : "Fri, 08 Aug 2025 07:00:04",
+         "title" : "Magnus Carlsen shows class and wins $250,000 at frantic Esports World Cup"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123181165.cms\" />Arjun Erigaisi, aiming to build confidence for the World Championship cycle, secured a crucial victory against Awonder Liang at the Chennai Grand Masters. The world No. 5 showcased control in his 49-move win, marking a positive start to the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-arjun-erigaisi-off-the-blocks-with-win/articleshow/123181165.cms",
+         "pubDate" : "Fri, 08 Aug 2025 05:49:22",
+         "title" : "Chennai Grand Masters: Arjun Erigaisi off the blocks with win"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123180898.cms\" />Anish Giri, a seasoned chess player, highlights the game's evolution due to chess engines, contrasting it with his early career facing legends like Magnus Carlsen. He emphasises the shift in preparation and approach, noting young players' advantage of adapting to the current engine-driven landscape.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-cant-recognise-the-game-i-played-10-years-ago-anish-giri-on-changes-in-chess/articleshow/123180898.cms",
+         "pubDate" : "Fri, 08 Aug 2025 05:38:10",
+         "title" : "'I can't recognise the game I played 10 years ago': Anish Giri on changes in chess"
+      },
+      {
          "description" : "It has been a long time coming, but Malaysia finally has a chess grandmaster in 26-year-old Yeoh Li Tian. This milestone comes 51 years after the formation of the Malaysian Chess Federation in 1974. With this achievement, Yeoh joins an elite group of about 2,000 players recognised by the World Chess Federation (FIDE) for their mastery of the game. Quah Seng Sun reports. | Photos courtesy of Malaysian Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-wscc-ro16-ju-avramidou-lagno-maltsevskaya",
-         "pubDate" : "Thu, 07 Aug 2025 14:59:52",
+         "pubDate" : "Thu, 07 Aug 2025 14:59:00",
          "title" : "Ju, Lagno Dominate & Advance To Quarterfinals"
       },
       {
@@ -80,14 +112,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-chennai-grandmasters-2025/",
          "pubDate" : "Thu, 07 Aug 2025 12:15:04",
          "title" : "Live link Chennai Grandmasters 2025"
-      },
-      {
-         "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-masters-live",
-         "pubDate" : "Thu, 07 Aug 2025 11:14:00",
-         "title" : "Chennai Masters - live!"
       },
       {
          "description" : "The trend is toward speeding things up, chess being no exception. Today in Katowice, Poland, World Champion Gukesh Dommaraju and Poland's number one, Jan-Krzysztof Duda, face off in a six-game blitz match (3+2). If the score is tied after six games, an Armageddon game will decide the winner. ChessBase India will broadcast the short duel live, starting at 11:00 CEST.",
@@ -538,28 +562,12 @@ news_feed (
          "title" : "'No support in male-dominated society': Divya becomes India's 4th female GM; but why so few?"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123033463.cms\" />In a thrilling Esports World Cup 2025 chess semifinal, Magnus Carlsen edged out Hikaru Nakamura 4-3, reaching the final after an Armageddon showdown. Nakamura, despite a strong King's Indian Defense win, narrowly missed victory. Carlsen will now face Alireza Firouzja for the top prize, while Nakamura competes for third place.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-hopefully-alireza-can-kick-magnus-carlsens-a-hikaru-nakamura-after-epic-semifinal-loss-at-esports-world-cup/articleshow/123033463.cms",
-         "pubDate" : "Fri, 01 Aug 2025 03:06:43",
-         "title" : "'Hopefully, Alireza can kick Carlsen's a**': Nakamura after semifinal loss"
-      },
-      {
          "description" : "The five 2025 national invitational tournaments of state champions came to a close Thursday, with prize money and scholarships on the line. Texas won the prize for top state in the combined standings, finishing ahead of three teams with average ratings over 2200. Find out more about the invitationals' prize funds prize funds and results.In today's final recap from the invitationals, enjoy a final batch of key positions selected by commentator WGM Sabina Foisor, who returns to our Twitch channel tonight at 7 p.m. for Round 7 of the U.S. Open. Irwin<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Alex Fishbein (L) and Stuart Rachels finished as Irwin co-c",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/texas-forever-texas-top-team-invitationals-conclude-middleton",
          "pubDate" : "Fri, 01 Aug 2025 00:00:00",
          "title" : "Texas Forever: Texas Top Team as Invitationals Conclude in Middleton"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123027815.cms\" />Divya Deshmukh, the 19-year-old chess prodigy, clinched the FIDE Women's World Cup title in Batumi, becoming the youngest ever to achieve this feat. Deshmukh secured her Grandmaster title after defeating Koneru Humpy in a tie-breaker. Known for her aggressive playing style, she remains unfazed by pressure, focusing instead on her personal goals and expectations.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-pressure-does-not-matter-divya-deshmukh-on-ms-dhoni-comparisons/articleshow/123027815.cms",
-         "pubDate" : "Thu, 31 Jul 2025 18:17:56",
-         "title" : "'Pressure does not matter' - Divya Deshmukh on MS Dhoni comparisons"
       },
       {
          "description" : "World number-one Magnus Carlsen will take on GM Alireza Firouzja in the 2025 Esports World Cup Grand Final after defeating GM Hikaru Nakamura 4-3 in an epic match decided only in armageddon. Carlsen had earlier defeated GM Nihal Sarin 2.5-0.5, whi...",
@@ -968,14 +976,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-yearbook-2025-print-edition/",
          "pubDate" : "Fri, 18 Jul 2025 16:00:36",
          "title" : "ECF Yearbook 2025 - print edition"
-      },
-      {
-         "description" : " 'We are allocating &pound;1.5m to help identify, support and elevate top-tier players' ChessFest in Trafalgar Square attracted more than 20,000 visitors last Sunday, slightly below last year's record 23,000 but still indicating strong public interest. England's grandmasters gave simuls and met amateurs at blitz, living chess was played with professional actors and there was a blindfold exhibition plus a transatlantic prodigy match. Additional ChessFests took place in ­Portishead and Hull, with a ­further one scheduled for Liverpool on Sunday. ChessFest was again sponsored by XTX Markets. <a href=\"https://www.theguardian.com/sport/2025/jul/18/chess-rachel-reeves-announces-15m-fund-as-london-",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/jul/18/chess-rachel-reeves-announces-15m-fund-as-london-chessfest-attracts-20000-visitors",
-         "pubDate" : "Fri, 18 Jul 2025 07:00:46",
-         "title" : "Chess: Rachel Reeves announces &pound;1.5m fund as London ChessFest attracts 20,000 visitors"
       }
    ]
 }
