@@ -42,7 +42,7 @@ news_feed (
          "title" : "Ju, Lagno Dominate & Advance To Quarterfinals"
       },
       {
-         "description" : "OpenAI&#39;s o3 took the crown after steamrolling over Grok 4 in the final day of the AI chess exhibition match in Google&#39;s Kaggle Game Arena. In the third-place match, Gemini 2.5 Pro defeated o4-mini 3.5-0.5 for the bronze medal. Kaggle Arena Chess...",
+         "description" : "OpenAI&#39;s o3 took the crown after steamrolling over Grok 4 on the final day of the AI chess exhibition match in Google&#39;s Kaggle Game Arena. In the third-place match, Gemini 2.5 Pro defeated o4-mini 3.5-0.5 for the bronze medal. Kaggle Arena Chess...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/kaggle-game-arena-chess-2025-day-3",
@@ -976,14 +976,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jul/18/chess-rachel-reeves-announces-15m-fund-as-london-chessfest-attracts-20000-visitors",
          "pubDate" : "Fri, 18 Jul 2025 07:00:46",
          "title" : "Chess: Rachel Reeves announces &pound;1.5m fund as London ChessFest attracts 20,000 visitors"
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-3-woodward-in-the-lead-with-perfect-3-3-2025-u-s-national-championships/\">POSTGAME ROUND 3: Woodward In The Lead With Perfect 3/3 | 2025 U.S. National Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-3-woodward-in-the-lead-with-perfect-3-3-2025-u-s-national-championships/",
-         "pubDate" : "Thu, 17 Jul 2025 23:54:32",
-         "title" : "POSTGAME ROUND 3: Woodward In The Lead With Perfect 3/3 | 2025 U.S. National Championships"
       }
    ]
 }
