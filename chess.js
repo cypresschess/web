@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-masters-live",
+         "pubDate" : "Fri, 08 Aug 2025 11:14:00",
+         "title" : "Chennai Masters - live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123186413.cms\" />India is set to host the third edition of the Global Chess League (GCL) from December 13-24, 2025, featuring six franchises. This event, concluding just before the FIDE World Rapid and Blitz Championship in Qatar, follows successful GCL editions in Dubai and London.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-to-host-third-edition-of-global-chess-league-in-december-adds-to-countrys-busy-chess-calendar/articleshow/123186413.cms",
+         "pubDate" : "Fri, 08 Aug 2025 10:26:12",
+         "title" : "India to host third edition of Global Chess League in December; adds to country's busy chess calendar"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123185492.cms\" />World chess champion Gukesh Dommaraju attributes his success to meditation and yoga, which helped him transform from an impulsive player to a composed one. Speaking in Poland, Gukesh shared how these practices improved his emotional control and focus, crucial for his game.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-used-to-throw-tantrums-d-gukesh-shares-how-meditation-changed-his-chess-and-life/articleshow/123185492.cms",
+         "pubDate" : "Fri, 08 Aug 2025 09:58:40",
+         "title" : "'I used to throw tantrums': D Gukesh shares how meditation changed his chess"
+      },
+      {
          "description" : "The Quantbox Chennai Grand Masters began a day later than scheduled after a minor fire at the Hyatt Regency Chennai delayed the start. The opening round of the Masters saw wins for Arjun Erigaisi and Vincent Keymer, while the other three games ended in draws, including a sharp battle between Vidit Gujrathi and Jorden van Foreest. In the Challengers, Leon Luke Mendonca, Diptayan Ghosh and Pranesh M scored the day's victories to take an early lead. | Photos: Anmol Bhargav",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +34,15 @@ news_feed (
          "title" : "Chennai GMs: Arjun and Keymer start with wins"
       },
       {
-         "description" : " World No 1 dominated every round and was determined to show chess in its best light at Saudi event Magnus Carlsen was in imperious form at last week's Esports World Cup in Riyadh, Saudi Arabia, with a virtuoso performance both on and off the board. On it, the world No 1 won the group stage, the quarter and semi-finals, and the final, all in dominant style while seeing off the world No 2 Hikaru Nakamura and one of the leading young contenders, Alireza Firouzja. Offboard, Carlsen exuded enthusiasm for the event, and delivered upbeat and articulate responses to interviewers. The limit of 10 minutes per player per game, without the usual per move increment, was designed for tight TV schedules, ",
+         "description" : "The World Amateur Chess Championship will be held at Vrnjacka Banja, Serbia from 4th to 14th November, 2025. The detailed regulations you can find at&#160;FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-amateur-chess-championships-2025-in-vrnjacka-banja-serbia-from-4th-to-14th-november-2025/",
+         "pubDate" : "Fri, 08 Aug 2025 08:16:53",
+         "title" : "FIDE World Amateur Chess Championships - 2025 in Vrnjacka Banja, Serbia from 4th to 14th November, 2025"
+      },
+      {
+         "description" : " World No 1 dominated every round and was determined to show chess in its best light at Saudi event Magnus Carlsen was in imperious form at last week's Esports World Cup in Riyadh, Saudi Arabia, with a virtuoso performance both on and off the board. On it, the world No 1 won the group stage, the quarter- and semi-finals, and the final, all in dominant style while seeing off the world No 2, Hikaru Nakamura, and one of the leading young contenders, Alireza Firouzja. Offboard, Carlsen exuded enthusiasm for the event, and ­delivered upbeat and articulate responses to interviewers. The limit of 10 minutes per player per game, without the usual per move increment, was designed for tight TV schedul",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/aug/08/magnus-carlsen-esports-world-cup-chess",
@@ -34,6 +66,14 @@ news_feed (
          "title" : "'I can't recognise the game I played 10 years ago': Anish Giri on changes in chess"
       },
       {
+         "description" : "A former chess prodigy from China has been banned for six months after losing 13 consecutive games over two tournaments and dropping 400 Elo points in a year.&#38;nbsp; FIDE has frequently investigated cases of suspected use of computer assistance, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-bans-chinese-player-for-sandbagging",
+         "pubDate" : "Fri, 08 Aug 2025 00:44:00",
+         "title" : "FIDE Bans Former Chinese Chess Prodigy For Sandbagging"
+      },
+      {
          "description" : "It has been a long time coming, but Malaysia finally has a chess grandmaster in 26-year-old Yeoh Li Tian. This milestone comes 51 years after the formation of the Malaysian Chess Federation in 1974. With this achievement, Yeoh joins an elite group of about 2,000 players recognised by the World Chess Federation (FIDE) for their mastery of the game. Quah Seng Sun reports. | Photos courtesy of Malaysian Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,28 +82,12 @@ news_feed (
          "title" : "From Prodigy to Grandmaster"
       },
       {
-         "description" : "The 111th edition of the British Chess Championship is taking place on 2-10 August at the St George's Hall in Liverpool. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Nikita Vitiugov, Michael Adams and Gawain Jones. Also noteworthy is the presence of 16-year-old GM Shreyas Royal and 10-year-old prodigy Bodhana Sivanandan. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2025-live",
-         "pubDate" : "Thu, 07 Aug 2025 15:30:00",
-         "title" : "British Chess Championship - Live!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123169349.cms\" />Arjun Erigaisi and Vincent Keymer initiated their Chennai Grandmasters 2025 campaigns with impressive victories, defeating Awonder Liang and Nihal Sarin respectively. In the Challengers section, Diptayan Ghosh, Leon Luke Mendonca, and M Pranesh secured wins, while other matches saw mixed results, including losses for Harika Dronavalli and Aryan Chopra. The Masters section also featured draws in high-profile matches.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-arjun-erigaisi-vincent-keymer-kick-off-exciting-day-1-with-victories-know-full-results/articleshow/123169349.cms",
          "pubDate" : "Thu, 07 Aug 2025 15:04:19",
          "title" : "Chennai Grand Masters 2025: Arjun Erigaisi, Vincent Keymer kick off exciting Day 1 with victories - know full results"
-      },
-      {
-         "description" : "The 52nd edition of the Dortmund Chess Festival is taking place on 2-10 August at the Kulturzentrum in the largest city of the Ruhr District. European champion Matthias Bluebaum is the rating favourite in the A Open. On Sunday, the International Women's Tournament begins, featuring four representatives from three countries: Elisabeth Paehtz, Dinara Wagner, 15-year-old Chinese champion Lu Miaoyi and Deimant&eacute; Daulyt&eacute;-Cornette of France. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2025-live",
-         "pubDate" : "Thu, 07 Aug 2025 15:00:00",
-         "title" : "Dortmund Chess Festival - Live!"
       },
       {
          "description" : "Two former WSCC champions advanced comfortably into the Quarterfinals of the 2025 Women&#39;s Speed Chess Championship. Women&#39;s World Champion (and reigning WSCC Champion) GM Ju Wenjun beat FM Anastasia Avramidou 9.5-4.5, while GM Kateryna Lagno elimi...",
@@ -538,28 +562,12 @@ news_feed (
          "title" : "World Youth & European Youth Championships"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123037973.cms\" />Divya Deshmukh achieved a hat-trick of successes in Batumi. She returned home as a Grandmaster after winning the World Cup. Divya defeated India No. 1 Koneru Humpy in the final. She also secured her place in the Candidates tournament. She shared her experiences and strategies. Divya acknowledged the support of her coach and seconds.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pressure-doesnt-matter-but-my-own-expectations-and-goals-do-divya-deshmukh/articleshow/123037973.cms",
-         "pubDate" : "Fri, 01 Aug 2025 07:21:18",
-         "title" : "'Pressure doesn't matter, but my own expectations and goals do': Divya Deshmukh"
-      },
-      {
          "description" : " Record entry in Liverpool, while Bodhana Sivanandan bids to become youngest national women's champion England's grandmasters are in action on Saturday, as round one of the British Championship gets under way at St George's Hall in the centre of Liverpool. Former Russian Nikita Vitiugov, 38, the national No 1, is top seeded while the No 3 and world senior champion, Michael Adams, is the man in form after the 53-year-old from Taunton, Somerset, won the English title in July. The continuing chess boom, reflecting the easy availability of <a href=\"https://lichess.org/\">online blitz games</a>, the popularity of the world No 1, Magnus Carlsen, and the success of Netflix's <a href=\"https://www.the",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/aug/01/chess-10-year-old-targets-world-record-alongside-grandmasters-at-british-championship",
          "pubDate" : "Fri, 01 Aug 2025 07:00:17",
          "title" : "Chess: 10-year-old targets world record alongside grandmasters at British Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123035744.cms\" />Divya Deshmukh's Grandmaster title highlights a gender disparity in Indian chess. Only four Indian women have achieved this rank, compared to over eighty men. Experts cite societal pressures, lack of support, and financial constraints as key factors. They emphasize the need for inclusive policies, coaching, and financial aid. This will encourage more women to pursue chess professionally.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-no-support-in-male-dominated-society-divya-deshmukh-becomes-indias-4th-female-gm-but-why-arent-there-more/articleshow/123035744.cms",
-         "pubDate" : "Fri, 01 Aug 2025 05:41:06",
-         "title" : "'No support in male-dominated society': Divya becomes India's 4th female GM; but why so few?"
       },
       {
          "description" : "The five 2025 national invitational tournaments of state champions came to a close Thursday, with prize money and scholarships on the line. Texas won the prize for top state in the combined standings, finishing ahead of three teams with average ratings over 2200. Find out more about the invitationals' prize funds prize funds and results.In today's final recap from the invitationals, enjoy a final batch of key positions selected by commentator WGM Sabina Foisor, who returns to our Twitch channel tonight at 7 p.m. for Round 7 of the U.S. Open. Irwin<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Alex Fishbein (L) and Stuart Rachels finished as Irwin co-c",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45832839/koneru-humpy-vs-divya-deshmukh-live-game-2-blog-updates-commentary-result-2025-fide-womens-chess-world-cup-final?device=featurephone",
          "pubDate" : "Sat, 26 Jul 2025 23:45:00",
          "title" : "Divya rejects Humpy's pressure to draw game 2 and push World Cup final into tie-breaks"
-      },
-      {
-         "description" : "16-year-old GM Ediz Gurel impressively scored 161 points in Saturday&#39;s Bullet Brawl and 6/8 against 29-time winner GM Daniel Naroditsky to clinch his fourth career title and the $400 first prize. Naroditsky and GM Andrew Tang challenged Gurel bu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-july-26-2025",
-         "pubDate" : "Sat, 26 Jul 2025 17:58:00",
-         "title" : "Gurel Scores 6/8 Against Naroditsky, Blazes To 4th Bullet Brawl Title"
       },
       {
          "description" : "Hey everyone, before we get into this one on the bad and good mistakes, short announcement that you can get access to Grandmaster made courses for free for the next days. Until July 31st, ChessMood has unlocked all of their courses for anyone with a free account. For those of you that don't know, ChessMood []",
@@ -928,14 +928,6 @@ news_feed (
          "link" : "https://aicf.in/gm-koneru-humpy-marches-into-semifinals-divya-harika-tie-heads-to-playoffs/",
          "pubDate" : "Mon, 21 Jul 2025 07:05:35",
          "title" : "GM Koneru Humpy Marches into Semifinals; Divya-Harika Tie Heads to Playoffs"
-      },
-      {
-         "description" : "Chief Minister Shri Bhupendra Patel extended his greetings to the chess community of the country, including Gujarat, on the occasion of International Chess Day, which",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/20-july-international-chess-day/",
-         "pubDate" : "Sun, 20 Jul 2025 13:11:22",
-         "title" : "20 July International Chess Day !"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-5-all-about-the-juniors-2025-us-national-championships/\">POSTGAME ROUND 5: All About the Juniors</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
