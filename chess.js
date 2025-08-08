@@ -26,6 +26,22 @@ news_feed (
          "title" : "Dortmund Chess Festival - Live!"
       },
       {
+         "description" : "GM Vincent Keymer is the only player on a perfect 2/2 in either section of the&#38;nbsp;Quantbox Chennai Grand Masters 2025 after winning a wild game with Black against GM Pranav Venkatesh. The other winner was GM Ray Robson, who won a thrilling time ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-2",
+         "pubDate" : "Fri, 08 Aug 2025 14:43:00",
+         "title" : "Keymer Grabs Sole Lead In Chennai"
+      },
+      {
+         "description" : "Velammal MHS School, from India, won the FIDE World Schools Team Championship 2025 with a perfect 8/8 score. The National School of Physics and Mathematics from Kazakhstan took silver with 6/8, while the Harker School from the U.S. took bronze wit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-schools-team-championship",
+         "pubDate" : "Fri, 08 Aug 2025 13:43:00",
+         "title" : "India's Velammal MHS School Wins Gold, Smart Moves Summit Connects Minds"
+      },
+      {
          "description" : "GM Hikaru Nakamura won his sixth Freestyle Friday on August 8, now three more than anyone else after 29 editions of the event. This day&#39;s top three places were all awarded outright, Nakamura on 10 points, GM Magnus Carlsen on 9.5 points, and GM Ol...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -66,7 +82,7 @@ news_feed (
          "title" : "FIDE World Amateur Chess Championships - 2025 in Vrnjacka Banja, Serbia from 4th to 14th November, 2025"
       },
       {
-         "description" : " World No 1 dominated every round and was determined to show chess in its best light at Saudi event Magnus Carlsen was in imperious form at last week's Esports World Cup in Riyadh, Saudi Arabia, with a virtuoso performance both on and off the board. On it, the world No 1 won the group stage, the quarter- and semi-finals, and the final, all in dominant style while seeing off the world No 2, Hikaru Nakamura, and one of the leading young contenders, Alireza Firouzja. Offboard, Carlsen exuded enthusiasm for the event, and ­delivered upbeat and articulate responses to interviewers. The limit of 10 minutes per player per game, without the usual per move increment, was designed for tight TV schedul",
+         "description" : " World No 1 dominated every round and was determined to show chess in its best light at Saudi event Magnus Carlsen was in imperious form at last week's Esports World Cup in Riyadh, Saudi Arabia, with a virtuoso performance both on and off the board. On it, the world No 1 won the group stage, the quarter- and semi-finals, and the final, all in dominant style while seeing off the world No 2, Hikaru Nakamura, and one of the leading young contenders, Alireza Firouzja. Offboard, Carlsen exuded enthusiasm for the event, and delivered upbeat and articulate responses to interviewers. The limit of 10 minutes per player per game, without the usual per move increment, was designed for tight TV schedule",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/aug/08/magnus-carlsen-esports-world-cup-chess",
@@ -690,28 +706,12 @@ news_feed (
          "title" : "Indian chess's latest W: World Cup crown just the start for Divya Deshmukh"
       },
       {
-         "description" : "GM Divya Deshmukh defeated GM Koneru Humpy 1.5-0.5 in tiebreaks to win the 2025 FIDE Women&#39;s World Cup. She earns not only $50,000, with $35,000 going to the runner-up, but she is also awarded the grandmaster title. Nineteen years old, she is the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/divya-wins-2025-fide-womens-world-cup-final-tiebreaks",
-         "pubDate" : "Mon, 28 Jul 2025 08:59:00",
-         "title" : "Divya Wins Women's World Cup, Earns Grandmaster Title"
-      },
-      {
          "description" : "Divya Deshmukh won the rapid tie-breaks to be crowned the winner of the Women's World Cup.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/45839502/koneru-humpy-vs-divya-deshmukh-live-tiebreakers-updates-commentary-result-2025-fide-womens-chess-world-cup-final?device=featurephone",
          "pubDate" : "Sun, 27 Jul 2025 23:00:00",
          "title" : "Divya Deshmukh beats Koneru Humpy to win 2025 FIDE Women's Chess World Cup"
-      },
-      {
-         "description" : "GM Tan Zhongyi won with the black pieces against GM Lei Tingjie to finish in third place at the 2025 FIDE Women&#39;s World Cup. She qualifies for the 2026 FIDE Women&#39;s Candidates and earns a $25,000 prize. The match for first place, between IM Divya ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-world-cup-final-game-2",
-         "pubDate" : "Sun, 27 Jul 2025 09:57:00",
-         "title" : "Tan Finishes 3rd With Black Win"
       },
       {
          "description" : "Divya walked a tight-rope in search of a win, but avoided Humpy's traps to gain a draw in game 2 of the final.",
