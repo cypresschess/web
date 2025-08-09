@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-masters-live",
+         "pubDate" : "Sat, 09 Aug 2025 11:30:00",
+         "title" : "Chennai Masters - live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-trainer-seminar-in-vijayawada-from-08-10-august-2025/",
+         "pubDate" : "Sat, 09 Aug 2025 10:27:22",
+         "title" : "Fide Trainer Seminar in Vijayawada from 08-10 August 2025"
+      },
+      {
+         "description" : "The indefatigable Malcolm Pein has pulled off a remarkable organisational feat in arranging at short notice for the world rapid and blitz team championships to be staged in London. In fact the venue was the Novotel in Hammersmith, scene of a great Tony Miles tournament triumph in 1975, and my choice for the second Mind []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/malcolm-pein-chess-impresario/",
+         "pubDate" : "Sat, 09 Aug 2025 09:40:59",
+         "title" : "Malcolm Pein: chess impresario"
+      },
+      {
+         "description" : "The 24th European Youth Rapid and Blitz Chess Championships 2025 concluded in Thessaloniki, Greece. More than 450 players coming from 36 European federations competed in the Championship which was played from 5-7 August at the *****Porto Palace Hotel Thessaloniki. The first on the schedule was European Youth Rapid Chess Championship 2025 which was played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each tournament was played in 9 rounds, swiss system. The []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-rapid-and-blitz-chess-champions-2025-crowned-in-greece/",
+         "pubDate" : "Sat, 09 Aug 2025 08:12:07",
+         "title" : "European Youth Rapid and Blitz Chess Champions 2025 crowned in Greece"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123202045.cms\" />Velammal MHS School's chess team triumphed at the 2025 World Schools Team Championship, continuing India's chess dominance. The Chennai-based institution, known for nurturing chess talent like GMs D Gukesh and R Praggnanandhaa, provides academic flexibility and professional coaching. Velammal's success, fueled by Chennai's chess culture and support for players, solidifies its reputation as a \"Chess Factory.\"",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -31,7 +63,7 @@ news_feed (
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/45926600/harika-dronavalli-plays-chennai-grand-masters-daughter-hanvika-happy-witness-my-life-way?device=featurephone",
          "pubDate" : "Sat, 9 Aug 2025 00:00:00",
-         "title" : "Harika Dronavalli plays Chennai Grand Masters with 3-year-old daughter: 'Happy she could witness my life in a way'"
+         "title" : "Harika Dronavalli plays Chennai Grand Masters with 2-year-old daughter: 'Happy she could witness my life in a way'"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123191914.cms\" />Vincent Keymer's masterful play secured him the sole lead in the Masters category at the Chennai Grand Masters 2025, while Ray Robson delivered a stunning upset against Vidit Gujrathi. In the Challengers section, Iniyan P showcased his prowess with a decisive victory over Harika Dronavalli.",
@@ -912,14 +944,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-examination-in-bathindapunjab-on-15-16-august-2025/",
          "pubDate" : "Mon, 21 Jul 2025 11:05:10",
          "title" : "Senior National Arbiter Seminar & Examination in Bathinda,Punjab on 15 & 16 August 2025"
-      },
-      {
-         "description" : "Grandmaster Koneru Humpy became the first player to secure a spot in the semifinals of the FIDE Women's World Cup 2025, defeating China's IM Song",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/gm-koneru-humpy-marches-into-semifinals-divya-harika-tie-heads-to-playoffs/",
-         "pubDate" : "Mon, 21 Jul 2025 07:05:35",
-         "title" : "GM Koneru Humpy Marches into Semifinals; Divya-Harika Tie Heads to Playoffs"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-5-all-about-the-juniors-2025-us-national-championships/\">POSTGAME ROUND 5: All About the Juniors</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
