@@ -42,6 +42,14 @@ news_feed (
          "title" : "Chennai Masters - Live!"
       },
       {
+         "description" : "GM Vincent Keymer made it 3/3 with another brilliant win, this time over GM Karthikeyan Murali, but he leads the Quantbox Chennai Grand Masters 2025 by only half a point after GM Arjun Erigaisi eased to victory over GM Ray Robson. It was a day of ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-3",
+         "pubDate" : "Sat, 09 Aug 2025 13:46:29",
+         "title" : "Keymer Makes It 3/3, Arjun In Hot Pursuit"
+      },
+      {
          "description" : "Hey everyone, this is a very personal one. I wrote it both as a reminder for myself, and for anyone else struggling with too high expectations. They are slowly but surely burning us out and eating us from inside. Let me tell you: You are enough. You are not your rating. Chess rating doesn't determine []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/bodhana-secures-first-wgm-norm-makes-history",
          "pubDate" : "Wed, 30 Jul 2025 11:00:00",
          "title" : "Bodhana Scores 2400 Performance To Achieve Historic WGM Norm At 10"
-      },
-      {
-         "description" : "The last Titled Tuesdays of July saw two players, GMs Maksim Chigaev and Salem Saleh, win their first of 2025. For Chigaev, it had been nearly a decade since his previous victory on June 7, 2016, while Saleh previously won on June 28, 2022. Chigae...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chigaev-saleh-win-titled-tuesday-july-29-2025",
-         "pubDate" : "Wed, 30 Jul 2025 08:49:16",
-         "title" : "Worth The Wait As Chigaev, Saleh Win First Tuesdays In Years"
       },
       {
          "description" : "Last Updated on 29th July 2025 by WebAdmin Congratulations to Sohum Lohia (above right) and to Alex Golding who both had their IM titles confirmed at the FIDE Council meeting...",
