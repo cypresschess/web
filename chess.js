@@ -10,6 +10,14 @@ news_feed (
          "title" : "Review: Max Euwe - Masterclass Vol. 18"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123207088.cms\" />Vincent Keymer achieved his third consecutive victory at the Chennai Grand Masters 2025, positioning himself as the sole leader in the Masters section. Arjun Erigaisi secured a win, closely trailing Keymer, while Vidit Gujrathi rebounded with a victory. In the Challengers section, Abhimanyu Puranik continued his winning streak, maintaining a competitive atmosphere.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-vincent-keymer-stays-perfect-dutch-no-1-anish-giri-remains-winless/articleshow/123207088.cms",
+         "pubDate" : "Sat, 09 Aug 2025 15:39:17",
+         "title" : "Chennai Grand Masters 2025: Keymer stays perfect; Giri remains winless"
+      },
+      {
          "description" : "The 111th edition of the British Chess Championship is taking place on 2-10 August at the St George's Hall in Liverpool. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Nikita Vitiugov, Michael Adams and Gawain Jones. Also noteworthy is the presence of 16-year-old GM Shreyas Royal and 10-year-old prodigy Bodhana Sivanandan. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://nextlevelchess.com/you-are-not-your-rating/",
          "pubDate" : "Sat, 09 Aug 2025 13:00:00",
          "title" : "You Are Not Your Rating"
+      },
+      {
+         "description" : "With his peers leapfrogging him in classical chess, Nihal Sarin has turned to GM Vishnu Prasanna to aid him.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45931811/nihal-sarin-speed-demon-turns-gukesh-old-trainer-fix-classical-stagnation-chennai-grand-masters-2025?device=featurephone",
+         "pubDate" : "Sat, 9 Aug 2025 10:50:00",
+         "title" : "'Speed demon' Nihal Sarin turns to Gukesh's old trainer to fix Classical stagnation"
       },
       {
          "description" : "",
@@ -472,14 +488,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-very-surprising-indias-world-junior-chess-champion-pranav-vs-grand-swiss-2025-entry-has-a-wild-backstory/articleshow/123085953.cms",
          "pubDate" : "Mon, 04 Aug 2025 04:01:05",
          "title" : "Exclusive | 'Very surprising': Pranav V's Grand Swiss 2025 entry has a wild backstory"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123084595.cms\" />Hans Niemann sparked controversy by contrasting India's robust support system for chess players with the alleged shortcomings of the American chess federation. This followed Divya Deshmukh's historic FIDE Women's World Cup win, celebrated with significant government recognition and financial rewards in India. Niemann suggests the diverging approaches will have clear consequences for chess talent development in the coming years.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-india-treats-their-players-like-superstars-while-america-sabotages-theirs-gm-hans-niemann-sparks-new-debate/articleshow/123084595.cms",
-         "pubDate" : "Mon, 04 Aug 2025 02:16:55",
-         "title" : "'India treats players like superstars, while USA sabotages theirs': Niemann"
       },
       {
          "description" : "The Caro-Kann Defense (Advance Variation) is, by far, the most popular opening over the last year, from June 2024 to May 2025, for players participating in US Chess ICCF server-based games. With just over 5% of the games on the server using the Caro-Kann (Advance Variation) over the last year, no other opening even came close in popularity.The Advance Variation is a family of lines within the Caro-Kann Defense, which is one of the most solid and respected responses to 1.e4.The ECO Code for the Caro-Kann Defense (Advance Variation) is B12.Historical research for the Caro-Kann Defense informs us that the name is the combination of two men: Horatio Caro, from the United Kingdom, and Marcus Kann",
@@ -968,14 +976,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-5-all-about-the-juniors-2025-us-national-championships/",
          "pubDate" : "Sun, 20 Jul 2025 00:19:12",
          "title" : "POSTGAME ROUND 5: All About the Juniors"
-      },
-      {
-         "description" : "Recent regrettable events at the music festival in Glastonbury, where pop duo \"Bob Vylan\" led a sad minority of bigots in calling for Jewish extermination, have caused me to revisit the question of antisemitism in general and chess in particular. Vylan's eponymous lead singer, (real name: Pascal Robinson-Foster) notoriously parroted the genocidal brief 'From the river to the sea', a call unwisely broadcast live by []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/anti-semitism-from-nazi-germany-to-glastonbury/",
-         "pubDate" : "Sat, 19 Jul 2025 15:50:31",
-         "title" : "Anti-Semitism: from Nazi Germany to Glastonbury"
       }
    ]
 }
