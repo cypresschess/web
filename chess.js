@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What kind of chess did a world champion play who combined brilliant intellect with quiet strategic strength? Master Class Volume 18 offers a deep dive into the thinking of Max Euwe, a player whose ideas remain surprisingly relevant and instructive today. International Master Hannes Langrock, a fiction editor based in Leipzig and a player for ESV Nickelh&uuml;tte-Aue, has taken a close look at the course and shares his impressions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-max-euwe-masterclass-vol-18",
+         "pubDate" : "Sat, 09 Aug 2025 16:00:00",
+         "title" : "Review: Max Euwe - Masterclass Vol. 18"
+      },
+      {
+         "description" : "The 111th edition of the British Chess Championship is taking place on 2-10 August at the St George's Hall in Liverpool. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Nikita Vitiugov, Michael Adams and Gawain Jones. Also noteworthy is the presence of 16-year-old GM Shreyas Royal and 10-year-old prodigy Bodhana Sivanandan. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2025-live",
+         "pubDate" : "Sat, 09 Aug 2025 15:30:00",
+         "title" : "British Chess Championship - Live!"
+      },
+      {
+         "description" : "The 52nd edition of the Dortmund Chess Festival is taking place on 2-10 August at the Kulturzentrum in the largest city of the Ruhr District. European champion Matthias Bluebaum is the rating favourite in the A Open. On Sunday, the International Women's Tournament begins, featuring four representatives from three countries: Elisabeth Paehtz, Dinara Wagner, 15-year-old Chinese champion Lu Miaoyi and Deimant&eacute; Daulyt&eacute;-Cornette of France. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2025-live",
+         "pubDate" : "Sat, 09 Aug 2025 15:00:00",
+         "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
          "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chennai-masters-live",
-         "pubDate" : "Sat, 09 Aug 2025 11:30:00",
-         "title" : "Chennai Masters - live!"
+         "pubDate" : "Sat, 09 Aug 2025 14:55:00",
+         "title" : "Chennai Masters - Live!"
+      },
+      {
+         "description" : "Hey everyone, this is a very personal one. I wrote it both as a reminder for myself, and for anyone else struggling with too high expectations. They are slowly but surely burning us out and eating us from inside. Let me tell you: You are enough. You are not your rating. Chess rating doesn't determine []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/you-are-not-your-rating/",
+         "pubDate" : "Sat, 09 Aug 2025 13:00:00",
+         "title" : "You Are Not Your Rating"
       },
       {
          "description" : "",
@@ -32,6 +64,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapid-and-blitz-chess-champions-2025-crowned-in-greece/",
          "pubDate" : "Sat, 09 Aug 2025 08:12:07",
          "title" : "European Youth Rapid and Blitz Chess Champions 2025 crowned in Greece"
+      },
+      {
+         "description" : "GM Hikaru Nakamura and Kick are thrilled to present Hikaru&#39;s Second Annual Chess 4 The Masses Sponsored by Kick. The event gives players of all levels the chance to win cash prizes&#38;mdash;and maybe even see Hikaru commentating on their games!&#38;nbsp;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-second-annual-hikarus-chess-4-the-masses",
+         "pubDate" : "Sat, 09 Aug 2025 08:00:00",
+         "title" : "Announcing Hikaru's Second Annual Chess 4 The Masses Sponsored By Kick"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123202045.cms\" />Velammal MHS School's chess team triumphed at the 2025 World Schools Team Championship, continuing India's chess dominance. The Chennai-based institution, known for nurturing chess talent like GMs D Gukesh and R Praggnanandhaa, provides academic flexibility and professional coaching. Velammal's success, fueled by Chennai's chess culture and support for players, solidifies its reputation as a \"Chess Factory.\"",
@@ -72,22 +112,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-germany-no-1-vincent-keymer-takes-sole-lead-after-arjun-erigaisi-held-to-draw/articleshow/123191914.cms",
          "pubDate" : "Fri, 08 Aug 2025 16:02:36",
          "title" : "Chennai Grand Masters: Keymer takes sole lead after Erigaisi held to draw"
-      },
-      {
-         "description" : "The 111th edition of the British Chess Championship is taking place on 2-10 August at the St George's Hall in Liverpool. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Nikita Vitiugov, Michael Adams and Gawain Jones. Also noteworthy is the presence of 16-year-old GM Shreyas Royal and 10-year-old prodigy Bodhana Sivanandan. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2025-live",
-         "pubDate" : "Fri, 08 Aug 2025 15:30:00",
-         "title" : "British Chess Championship - Live!"
-      },
-      {
-         "description" : "The 52nd edition of the Dortmund Chess Festival is taking place on 2-10 August at the Kulturzentrum in the largest city of the Ruhr District. European champion Matthias Bluebaum is the rating favourite in the A Open. On Sunday, the International Women's Tournament begins, featuring four representatives from three countries: Elisabeth Paehtz, Dinara Wagner, 15-year-old Chinese champion Lu Miaoyi and Deimant&eacute; Daulyt&eacute;-Cornette of France. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2025-live",
-         "pubDate" : "Fri, 08 Aug 2025 15:00:00",
-         "title" : "Dortmund Chess Festival - Live!"
       },
       {
          "description" : "GM Vincent Keymer is the only player on a perfect 2/2 in either section of the&#38;nbsp;Quantbox Chennai Grand Masters 2025 after winning a wild game with Black against GM Pranav Venkatesh. The other winner was GM Ray Robson, who won a thrilling time ...",
@@ -674,14 +698,6 @@ news_feed (
          "title" : "Worth The Wait As Chigaev, Saleh Win First Tuesdays In Years"
       },
       {
-         "description" : "GMs Levon Aronian (Group A), Arjun Erigaisi&#38;nbsp;(Group B), Alireza Firouzja&#38;nbsp;(Group C), and Magnus Carlsen (Group D) all won two matches to reach the Quarterfinals of the 2025 Esports World Cup.&#38;nbsp; On their last lives in the Losers Brack...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-esports-world-cup-day-1",
-         "pubDate" : "Tue, 29 Jul 2025 11:42:00",
-         "title" : "Carlsen, Firouzja, Aronian, Arjun Reach Quarterfinals"
-      },
-      {
          "description" : "Last Updated on 29th July 2025 by WebAdmin Congratulations to Sohum Lohia (above right) and to Alex Golding who both had their IM titles confirmed at the FIDE Council meeting...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -960,14 +976,6 @@ news_feed (
          "link" : "https://www.thearticle.com/anti-semitism-from-nazi-germany-to-glastonbury/",
          "pubDate" : "Sat, 19 Jul 2025 15:50:31",
          "title" : "Anti-Semitism: from Nazi Germany to Glastonbury"
-      },
-      {
-         "description" : "In business, we're taught that taking bold risks is often worth it. You can lose your entire investment, but the upside is nearly unlimited. If you angel invest in 50 startups and one of them becomes a unicorn, you're massively profitable. The risk is capped (100% loss), but the reward isn't. That's what makes high-risk []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/chess-improvement-without-risks/",
-         "pubDate" : "Sat, 19 Jul 2025 13:00:00",
-         "title" : "This Mindset Works in Business-But Will Ruin Your Chess"
       }
    ]
 }
