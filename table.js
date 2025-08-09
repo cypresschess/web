@@ -1,4 +1,6 @@
 jtable([
+"SUGAR LAND","2025-08-08","20","<a href=http://www.uschess.org/msa/XtblMain.php?202508088802 target='_blank'>FBCC 2025 INTERNATIONAL CAT DAY OPE</a>",
+"CYPRESS","2025-08-08","27","<a href=http://www.uschess.org/msa/XtblMain.php?202508088742 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-08-01  - 08-03","66","<a href=http://www.uschess.org/msa/XtblMain.php?202508036932 target='_blank'>$2,500  AUGUST CHAMPIONSHIP</a>",
 "HOUSTON","2025-08-03","10","<a href=http://www.uschess.org/msa/XtblMain.php?202508036242 target='_blank'>BELLAIRE SUNDAY SWISS 08/03/25</a>",
 "HOUSTON","2025-08-02","7","<a href=http://www.uschess.org/msa/XtblMain.php?202508025382 target='_blank'>CHESSPANDA08022025SATURDAY</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2025-01-25","8","<a href=http://www.uschess.org/msa/XtblMain.php?202501258332 target='_blank'>QUADS - ALL AGES -SATURDAY JAN 25 A</a>",
 "HOUSTON DOWNTOW","2025-01-25","8","<a href=http://www.uschess.org/msa/XtblMain.php?202501252562 target='_blank'>CHESS KIDS AND HOUSTON CHESS ACADEM</a>",
 "SUGAR LAND","2025-01-24","10","<a href=http://www.uschess.org/msa/XtblMain.php?202501247812 target='_blank'>FBCC 2024 NATL MACINTOSH COMPUTER DAY OPEN</a>",
-"HOUSTON","2025-01-24","26","<a href=http://www.uschess.org/msa/XtblMain.php?202501247772 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2025-01-24","26","<a href=http://www.uschess.org/msa/XtblMain.php?202501247662 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
