@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123202045.cms\" />Velammal MHS School's chess team triumphed at the 2025 World Schools Team Championship, continuing India's chess dominance. The Chennai-based institution, known for nurturing chess talent like GMs D Gukesh and R Praggnanandhaa, provides academic flexibility and professional coaching. Velammal's success, fueled by Chennai's chess culture and support for players, solidifies its reputation as a \"Chess Factory.\"",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gold-again-world-chess-champion-d-gukesh-world-junior-champion-pranav-v-and-now-this-velammal-keeps-minting-talents/articleshow/123202045.cms",
+         "pubDate" : "Sat, 09 Aug 2025 07:10:43",
+         "title" : "Gold again! D Gukesh, Pranav V and now this - Velammal keeps minting talents"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123201163.cms\" />Inspired by Chennai's Praggnanandhaa and Vaishali, Dutch siblings Jorden and Machteld van Foreest clinched national titles. At the Chennai Grand Masters, Jorden drew with Arjun Erigaisi, while Vaishali also had a draw. Keymer leads after defeating Pranav. Other matches saw Robson triumph over Gujrathi, and Sarin drew with Giri after a late blunder.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-jorden-holds-arjun-keymer-in-sole-lead/articleshow/123201163.cms",
+         "pubDate" : "Sat, 09 Aug 2025 05:42:09",
+         "title" : "Chennai Grand Masters: Jorden holds Arjun; Keymer in sole lead"
+      },
+      {
          "description" : "Vincent Keymer took the sole lead in the Quantbox Chennai Grand Masters after defeating Pranav Venkatesh in round two, his second win in as many days. Ray Robson also scored, beating Vidit Gujrathi, while the remaining games were drawn. In the Challengers, Abhimanyu Puranik and P Iniyan joined M Pranesh and Diptayan Ghosh in the lead, as both claimed victories to reach 1&frac12; points after two rounds. | Photos: Anmol Bhargav",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chennai-gms-2025-2",
          "pubDate" : "Sat, 09 Aug 2025 02:35:00",
          "title" : "Chennai GMs: Keymer wins again, Robson stuns Vidit"
+      },
+      {
+         "description" : "For the first time, Harika's daughter Hanvika is experiencing her mother's world around the chess board.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45926600/harika-dronavalli-plays-chennai-grand-masters-daughter-hanvika-happy-witness-my-life-way?device=featurephone",
+         "pubDate" : "Sat, 9 Aug 2025 00:00:00",
+         "title" : "Harika Dronavalli plays Chennai Grand Masters with 3-year-old daughter: 'Happy she could witness my life in a way'"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123191914.cms\" />Vincent Keymer's masterful play secured him the sole lead in the Masters category at the Chennai Grand Masters 2025, while Ray Robson delivered a stunning upset against Vidit Gujrathi. In the Challengers section, Iniyan P showcased his prowess with a decisive victory over Harika Dronavalli.",
@@ -482,28 +506,12 @@ news_feed (
          "title" : "Mozart's moves: 'Figaro' as a game of chess"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123059657.cms\" />Maharashtra Chief Minister Devendra Fadnavis honored Divya Deshmukh, the FIDE Women's Chess World Cup champion, with a Rs 3 crore award. The 19-year-old from Nagpur secured her victory in Batumi, Georgia, defeating Koneru Humpy, also earning the Grandmaster title. Deshmukh expressed gratitude to the Maharashtra government and Chess Association for their support.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-rs-3-crore-reward-divya-deshmukh-felicitated-by-maharashtra-cm/articleshow/123059657.cms",
-         "pubDate" : "Sat, 02 Aug 2025 09:24:13",
-         "title" : "Chess | Rs 3 crore reward! Divya Deshmukh felicitated by Maharashtra CM"
-      },
-      {
          "description" : "Check out the FIDE rankings of the best chess players in the world.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/45884604/fide-chess-rankings-august-divya-deshmukh-reaches-career-high-rank-15?device=featurephone",
          "pubDate" : "Sat, 2 Aug 2025 08:55:00",
          "title" : "FIDE Chess rankings for August: Divya Deshmukh reaches career-high rank of 15"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123058151.cms\" />The Chennai Grand Masters 2025 is poised to be a significant chess event in Asia, featuring top global and Indian talents. Arjun Erigaisi, India's highest-rated player, leads the charge alongside experienced players like Vidit Gujrathi and young stars such as Nihal Sarin and Leon Luke Mendonca. Harika Dronavalli, a veteran of Indian women's chess, adds further depth to the competition.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-from-arjun-erigaisi-to-harika-dronavalli-top-5-indian-to-watch-at-chennai-grand-masters-2025/articleshow/123058151.cms",
-         "pubDate" : "Sat, 02 Aug 2025 08:51:34",
-         "title" : "From Erigaisi to Harika: Top 5 Indians to watch at Chennai Grand Masters 2025"
       },
       {
          "description" : "You look around in the chess world these days, you will find a young Indian competing for the top honours.",
