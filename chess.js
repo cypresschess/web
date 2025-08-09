@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vincent Keymer took the sole lead in the Quantbox Chennai Grand Masters after defeating Pranav Venkatesh in round two, his second win in as many days. Ray Robson also scored, beating Vidit Gujrathi, while the remaining games were drawn. In the Challengers, Abhimanyu Puranik and P Iniyan joined M Pranesh and Diptayan Ghosh in the lead, as both claimed victories to reach 1&frac12; points after two rounds. | Photos: Anmol Bhargav",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2025-2",
+         "pubDate" : "Sat, 09 Aug 2025 02:35:00",
+         "title" : "Chennai GMs: Keymer wins again, Robson stuns Vidit"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123191914.cms\" />Vincent Keymer's masterful play secured him the sole lead in the Masters category at the Chennai Grand Masters 2025, while Ray Robson delivered a stunning upset against Vidit Gujrathi. In the Challengers section, Iniyan P showcased his prowess with a decisive victory over Harika Dronavalli.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-freestyle-friday-august-8-2025",
          "pubDate" : "Fri, 08 Aug 2025 11:38:48",
          "title" : "Nakamura Wins Battle, War Over Carlsen In Freestyle Friday"
-      },
-      {
-         "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-masters-live",
-         "pubDate" : "Fri, 08 Aug 2025 11:14:00",
-         "title" : "Chennai Masters - live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123186413.cms\" />India is set to host the third edition of the Global Chess League (GCL) from December 13-24, 2025, featuring six franchises. This event, concluding just before the FIDE World Rapid and Blitz Championship in Qatar, follows successful GCL editions in Dubai and London.",
@@ -936,14 +936,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/chess-improvement-without-risks/",
          "pubDate" : "Sat, 19 Jul 2025 13:00:00",
          "title" : "This Mindset Works in Business-But Will Ruin Your Chess"
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-4-mishras-gamble-pays-off-2025-us-national-championships/\">POSTGAME ROUND 4: Mishra's Gamble Pays Off!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-4-mishras-gamble-pays-off-2025-us-national-championships/",
-         "pubDate" : "Sat, 19 Jul 2025 01:13:23",
-         "title" : "POSTGAME ROUND 4: Mishra's Gamble Pays Off!"
       }
    ]
 }
