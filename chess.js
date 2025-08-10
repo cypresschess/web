@@ -42,6 +42,14 @@ news_feed (
          "title" : "ChessBase 18 - Tips for beginners, part 26: Null moves: The art of doing nothing"
       },
       {
+         "description" : "GM Alexandra Kosteniuk and IM Polina Shuvalova have advanced to the quarterfinals of the 2025 Women&#39;s Speed Chess Championship. While Kosteniuk was clearly too strong for IM Carissa Yip (11-4), Shuvalova only narrowly beat IM Meri Arabidze (7-6) i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-wscc-ro16-kosteniuk-yip-shuvalova-arabidze",
+         "pubDate" : "Sun, 10 Aug 2025 06:15:00",
+         "title" : "Kosteniuk, Shuvalova Qualify For Women's Speed Chess Championship Quarterfinals"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123214268.cms\" />Indian Grandmaster R Praggnanandhaa recounted his father's understated reaction to his first victory over World No. 1 Magnus Carlsen in 2022. Despite the 2 a.m. win at the Champions Chess Tour, his father simply said 'Good' before returning to sleep.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/five-titles-grabs-national-invitationals-enter-final-day",
          "pubDate" : "Thu, 31 Jul 2025 00:00:00",
          "title" : "Five Titles Up For Grabs As National Invitationals Enter Final Day"
-      },
-      {
-         "description" : "GMs Ian Nepomniachtchi (Group A), Nihal Sarin (Group B), Hikaru Nakamura (Group C), and Nodirbek Abdusattorov (Group D) won their respective Losers Brackets to complete the field of eight players in the 2025 Esports World Cup Quarterfinals. They j...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-esports-world-cup-day-2",
-         "pubDate" : "Wed, 30 Jul 2025 12:50:00",
-         "title" : "Abdusattorov Wins On Move 5 After Duda's $20,000 Mouse Slip"
       },
       {
          "description" : "Last Updated on 29th July 2025 by WebAdmin Congratulations to Sohum Lohia (above right) and to Alex Golding who both had their IM titles confirmed at the FIDE Council meeting...",
