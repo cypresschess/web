@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 111th British Chess Championships took place in Liverpool Saturday 2nd to Sunday 10th August 2025. Top seeds Nikita Vitiugov, Michael Adams, Gawain Maroroa Jones, Stuart C Conquest Ameet K Ghasi etc. Michael Adams won his 9th title after beating Stuart Conquest (who had to beat Peter Roberson first) in a three way tie-break match. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/111th-british-chess-championships-2025",
+         "pubDate" : "Sun, 10 Aug 2025 19:06:00",
+         "title" : "111th British Chess Championships 2025 - Games and Results"
+      },
+      {
+         "description" : " Michael Adams won the <a href=\"https://theweekinchess.com/chessnews/events/111th-british-chess-championships-2025\">111th British Chess Championships</a> which took place in Liverpool. Adams had been the long term leader but was in a six way tie for first at the start of the final round, he won but so did two of his rivals and the tournament was settled in a tie-break. Unusually six of the top seven pairings were decisive including all the games amongst the six leaders. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/michael-adams-grabs-his-nineth-british-chess-championship-title",
+         "pubDate" : "Sun, 10 Aug 2025 19:01:00",
+         "title" : "Michael Adams grabs his nineth British Chess Championship title - 9"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123219739.cms\" />Nihal Sarin claimed victory over Arjun Erigaisi at the Chennai Grand Masters 2025, while Vincent Keymer held his lead after a draw with Anish Giri. The tournament, featuring Masters and Challengers sections, offers significant prizes and FIDE Circuit points. Abhimanyu Puranik leads the Challengers section after defeating Vaishali Rameshbabu, setting the stage for intense competition in the remaining rounds.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-nihal-sarin-shocks-arjun-erigaisi-vincent-keymer-stays-unbeaten/articleshow/123219739.cms",
+         "pubDate" : "Sun, 10 Aug 2025 16:20:00",
+         "title" : "Chennai GM 2025: Nihal Sarin shocks Arjun Erigaisi, Vincent Keymer stays unbeaten"
+      },
+      {
          "description" : "The 111th edition of the British Chess Championship is taking place on 2-10 August at the St George's Hall in Liverpool. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Nikita Vitiugov, Michael Adams and Gawain Jones. Also noteworthy is the presence of 16-year-old GM Shreyas Royal and 10-year-old prodigy Bodhana Sivanandan. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -506,14 +530,6 @@ news_feed (
          "title" : "Make Magic Happen In The 2025 Chess.com Spell Chess Championship Starting August 14"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123112639.cms\" />The Chennai Grand Masters 2025 is set to begin from August 6 to 15, boasting an expanded format, an elite lineup, and a record prize pool. Pranav V, the reigning FIDE World Junior Champion, will debut in the Masters section, while Karthikeyan Murali replaces Vladimir Fedoseev. Harshvardhan GB, the first IM, joins the Challengers, promising intense competition.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-chennai-grand-masters-2025-more-rounds-biggest-ever-prize-pool-and-what-more/articleshow/123112639.cms",
-         "pubDate" : "Tue, 05 Aug 2025 07:28:44",
-         "title" : "Chennai Grand Masters 2025: More rounds, biggest-ever prize pool, and what more?"
-      },
-      {
          "description" : "This week's puzzles continue our series on the 2025 FIDE Women's World Cup (coverage here), with WGM Sabina Foisor bringing us some tactical highlights from the games and variations that kept us riveted throughout July. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -640,14 +656,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/friedel-leads-us-open-after-merge",
          "pubDate" : "Sat, 02 Aug 2025 00:00:00",
          "title" : "Friedel Leads U.S. Open After the Merge"
-      },
-      {
-         "description" : " The 111th British Chess Championships take place in Liverpool Saturday 2nd to Sunday 10th August 2025. Top seeds Nikita Vitiugov, Michael Adams, Gawain Maroroa Jones, Stuart C Conquest Ameet K Ghasi etc. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/111th-british-chess-championships-2025",
-         "pubDate" : "Fri, 1 Aug 2025 20:53:00",
-         "title" : "111th British Chess Championships 2025 - Games and Results"
       },
       {
          "description" : " The Esports World Cup chess sections was a blitz double elimination knockout tournament held in Riyadh, Saudi Arabia Tue 29th July to Fri 1st Aug 2025. Players: Group A Ian Nepomniachtchi, Andrey Esipenko, Levon Aronian and Vladislav Artemiev. Group B Maxime Vachier-Lagrave, Anish Giri, Arjun Erigaisi, Nihal Sarin. Group C Hikaru Nakamura, Javokhir Sindarov, Alireza Firouzja, Wei Yi. Group D Magnus Carlsen, Nodirbek Abdusattorov, Fabiano Caruana, Jan-Krzysztof Duda. Magnus Carlsen easily beat Alireza Firouzja in the final winning 2-0 in a best of 3 sets and winning each of those sets 3-1 Hikaru Nakamura narrowly beat Arjun Erigaisi in the 3rd-4th playoff. The players are members of wider Es",
