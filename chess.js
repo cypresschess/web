@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It's often the small tricks that make training clearer and more effective. One such feature in ChessBase 18 is the ability to insert null moves. This can be especially helpful in chess training or analysis. In this short and concise tutorial, you'll learn how to use null moves effectively.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-26-null-moves-the-art-of-doing-nothing-2",
+         "pubDate" : "Sun, 10 Aug 2025 08:30:00",
+         "title" : "ChessBase 18 - Tips for beginners, part 26: Null moves: The art of doing nothing"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123214268.cms\" />Indian Grandmaster R Praggnanandhaa recounted his father's understated reaction to his first victory over World No. 1 Magnus Carlsen in 2022. Despite the 2 a.m. win at the Champions Chess Tour, his father simply said 'Good' before returning to sleep.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-beating-magnus-carlsen-praggnanandhaa-reveals-one-word-reaction-from-his-father-after-win/articleshow/123214268.cms",
+         "pubDate" : "Sun, 10 Aug 2025 05:19:50",
+         "title" : "Chess | Beating Carlsen! Pragg reveals 'one-word' reaction from his father after win"
+      },
+      {
          "description" : "Round eight of the 2025 British Chess Championship in Liverpool produced a six-way tie for the lead ahead of Sunday's early-start finale (the last round starts at 11.00 CEST, 4&frac12; hours earlier than usual). Michael Adams drew with defending champion Gawain Jones, while Stuart Conquest defeated Shreyas Royal after the youngster faltered decisively early in the middlegame. Joining Adams and Conquest on 6 points are Nikita Vitiugov, Peter Roberson, Richard Pert and Maciej Czopor. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -488,14 +504,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/which-ai-model-is-the-best-at-chess-kaggle-game-arena",
          "pubDate" : "Mon, 04 Aug 2025 09:12:00",
          "title" : "Which AI Model Is The Best At Chess? Meet The New Kaggle Game Arena"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123085953.cms\" />In a surprise twist, India's 2025 World Junior Champion Pranav Venkatesh has earned a wildcard entry to the prestigious 2025 FIDE Grand Swiss after defeating Kazakhstan's GM Kazybek Nogerbek 1.5-0.5 in an unpublicised 'Asian Wildcard Match' in Al Ain, UAE. Pranav, who narrowly missed qualifying by rating, now joins an elite field chasing a spot in the 2026 Candidates.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-very-surprising-indias-world-junior-chess-champion-pranav-vs-grand-swiss-2025-entry-has-a-wild-backstory/articleshow/123085953.cms",
-         "pubDate" : "Mon, 04 Aug 2025 04:01:05",
-         "title" : "Exclusive | 'Very surprising': Pranav V's Grand Swiss 2025 entry has a wild backstory"
       },
       {
          "description" : "The Caro-Kann Defense (Advance Variation) is, by far, the most popular opening over the last year, from June 2024 to May 2025, for players participating in US Chess ICCF server-based games. With just over 5% of the games on the server using the Caro-Kann (Advance Variation) over the last year, no other opening even came close in popularity.The Advance Variation is a family of lines within the Caro-Kann Defense, which is one of the most solid and respected responses to 1.e4.The ECO Code for the Caro-Kann Defense (Advance Variation) is B12.Historical research for the Caro-Kann Defense informs us that the name is the combination of two men: Horatio Caro, from the United Kingdom, and Marcus Kann",
