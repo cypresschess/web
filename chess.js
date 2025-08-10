@@ -26,6 +26,14 @@ news_feed (
          "title" : "Chennai GM 2025: Nihal Sarin shocks Arjun Erigaisi, Vincent Keymer stays unbeaten"
       },
       {
+         "description" : "GM Nihal Sarin was finally rewarded for his entertaining chess in the Quantbox Chennai Grand Masters 2025 when he won a great fighting game against GM Arjun Erigaisi. That meant that GM Vincent Keymer took a full-point lead despite being held to h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-4",
+         "pubDate" : "Sun, 10 Aug 2025 13:15:47",
+         "title" : "Nihal Stuns Arjun As Keymer Takes 1-Point Lead"
+      },
+      {
          "description" : "The 111th edition of the British Chess Championship is taking place on 2-10 August at the St George's Hall in Liverpool. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Nikita Vitiugov, Michael Adams and Gawain Jones. Also noteworthy is the presence of 16-year-old GM Shreyas Royal and 10-year-old prodigy Bodhana Sivanandan. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-esports-world-cup-day-3",
          "pubDate" : "Thu, 31 Jul 2025 13:11:00",
          "title" : "Carlsen Silences Crowd To Beat Nakamura, Books Esports Final Vs. Firouzja"
-      },
-      {
-         "description" : "The focus of this month&#39;s article will be on the women&#39;s rating list, as the 2025 FIDE Women&#39;s World Cup brought many changes. GM Divya Deshmukh was the player of the month as she was the first IM to ever win the event and, through it, earn the gr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/august-2025-fide-ratings",
-         "pubDate" : "Thu, 31 Jul 2025 11:50:38",
-         "title" : "August 2025 FIDE Ratings: GM Divya Breaks Into Top 15"
       },
       {
          "description" : "The final round of the five national invitational tournaments of state champions begun this morning at 10:00 a.m. CDT, with four of the five events taking the same shape.In every event but the Haring, there is one player with 4&frac12;/5 going into the last round, meaning they're \"win and in\" as outright champion. But a draw (or loss) would allow anybody from the chasing group to claim a share of the title. These \"chasing\" packs range from two (Barber) or three players (Irwin, Denker) all the way up to seven in the Rockefeller.In the Haring, however, three players enter Thursday's final round with 4&frac12;/5 scores, but only one player trails this group by a half-point. So, while we know no",
