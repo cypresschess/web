@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 111th edition of the British Chess Championship is taking place on 2-10 August at the St George's Hall in Liverpool. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Nikita Vitiugov, Michael Adams and Gawain Jones. Also noteworthy is the presence of 16-year-old GM Shreyas Royal and 10-year-old prodigy Bodhana Sivanandan. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2025-live",
+         "pubDate" : "Sun, 10 Aug 2025 11:00:00",
+         "title" : "British Chess Championship - Live!"
+      },
+      {
+         "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-masters-live",
+         "pubDate" : "Sun, 10 Aug 2025 10:30:00",
+         "title" : "Chennai Masters - Live!"
+      },
+      {
+         "description" : "The 52nd edition of the Dortmund Chess Festival is taking place on 2-10 August at the Kulturzentrum in the largest city of the Ruhr District. European champion Matthias Bluebaum is the rating favourite in the A Open. On Sunday, the International Women's Tournament begins, featuring four representatives from three countries: Elisabeth Paehtz, Dinara Wagner, 15-year-old Chinese champion Lu Miaoyi and Deimant&eacute; Daulyt&eacute;-Cornette of France. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2025-live",
+         "pubDate" : "Sun, 10 Aug 2025 10:20:00",
+         "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123215864.cms\" />R Praggnanandhaa, who has challenged Magnus Carlsen, shared insights into the World No. 1's greatness, highlighting Carlsen's exceptional intuition and ability to consistently make optimal moves. Praggnanandhaa emphasized Carlsen's mental fortitude, noting his relentless fighting spirit and resourcefulness in every game.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-praggnanandhaa-decodes-magnus-carlsens-greatness-hes-just-universally-strong/articleshow/123215864.cms",
+         "pubDate" : "Sun, 10 Aug 2025 08:51:33",
+         "title" : "Chess | Pragg decodes Carlsen's greatness - 'He's just universally strong'"
+      },
+      {
          "description" : "It's often the small tricks that make training clearer and more effective. One such feature in ChessBase 18 is the ability to insert null moves. This can be especially helpful in chess training or analysis. In this short and concise tutorial, you'll learn how to use null moves effectively.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -472,14 +504,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-chennai-grand-masters-2025-more-rounds-biggest-ever-prize-pool-and-what-more/articleshow/123112639.cms",
          "pubDate" : "Tue, 05 Aug 2025 07:28:44",
          "title" : "Chennai Grand Masters 2025: More rounds, biggest-ever prize pool, and what more?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123111684.cms\" />D Gukesh inspires young chess talents like Vincent Keymer. Keymer, who was a second to Gukesh, admires his flexibility. He acknowledges India's rising chess power with many top players and strong support. Keymer aims to qualify for the Candidates tournament. He emphasizes the importance of classical tournaments. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-gukeshs-world-championship-second-vincent-keymer-in-awe-of-indias-chess-talent-pool/articleshow/123111684.cms",
-         "pubDate" : "Tue, 05 Aug 2025 06:18:38",
-         "title" : "Gukesh's World Championship second Vincent Keymer in awe of India's chess talent pool"
       },
       {
          "description" : "This week's puzzles continue our series on the 2025 FIDE Women's World Cup (coverage here), with WGM Sabina Foisor bringing us some tactical highlights from the games and variations that kept us riveted throughout July. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
