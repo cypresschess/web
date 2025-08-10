@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round eight of the 2025 British Chess Championship in Liverpool produced a six-way tie for the lead ahead of Sunday's early-start finale (the last round starts at 11.00 CEST, 4&frac12; hours earlier than usual). Michael Adams drew with defending champion Gawain Jones, while Stuart Conquest defeated Shreyas Royal after the youngster faltered decisively early in the middlegame. Joining Adams and Conquest on 6 points are Nikita Vitiugov, Peter Roberson, Richard Pert and Maciej Czopor. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2025-r8",
+         "pubDate" : "Sun, 10 Aug 2025 04:00:00",
+         "title" : "British Championship: Six co-leaders, as Conquest beats Royal"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123213472.cms\" />Chennai's V Pranav, fresh off recent victories including the World Junior Championship, is navigating the Chennai Grand Masters tournament without a coach, a rare move for a player at this level. Despite a loss to leader Vincent Keymer, the 18-year-old held seasoned GM Anish Giri to a draw. Keymer continues to lead, while Arjun Erigaisi trails closely.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-self-taught-pranav-shows-mettle-against-anish-giri-vincent-keymer-in-lead/articleshow/123213472.cms",
+         "pubDate" : "Sun, 10 Aug 2025 03:16:42",
+         "title" : "Chennai Grand Masters: Self-taught Pranav shows mettle against Anish Giri; Vincent Keymer in lead"
+      },
+      {
+         "description" : "Four decisive games in round three of the Masters section at the Quantbox Chennai Grand Masters saw Vincent Keymer keep his perfect score by defeating Karthikeyan Murali, while Arjun Erigaisi, Vidit Gujrathi, and Awonder Liang also won with the white pieces. Keymer leads on 3/3, with Arjun half a point behind. In the Challengers, Abhimanyu Puranik and M Pranesh both scored to remain joint leaders on 2&frac12; points, ahead of Leon Luke Mendonca and Diptayan Ghosh. | Photos: Anmol Bhargav",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2025-3",
+         "pubDate" : "Sun, 10 Aug 2025 02:45:00",
+         "title" : "Chennai GMs: Keymer still perfect, beats Karthikeyan"
+      },
+      {
+         "description" : "Fresh off the back of his sixth Freestyle Friday victory, GM Hikaru Nakamura&#38;nbsp;reclaimed his spot on the Bullet Brawl throne after scoring 56/68 and accruing a total of 180 points on Saturday. Nakamura kicked off the arena with a 30-game unbeat...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-aug-9-2025",
+         "pubDate" : "Sat, 09 Aug 2025 17:42:00",
+         "title" : "Nakamura Wins 45th Bullet Brawl Following 30-Game Unbeaten Streak"
+      },
+      {
          "description" : "What kind of chess did a world champion play who combined brilliant intellect with quiet strategic strength? Master Class Volume 18 offers a deep dive into the thinking of Max Euwe, a player whose ideas remain surprisingly relevant and instructive today. International Master Hannes Langrock, a fiction editor based in Leipzig and a player for ESV Nickelh&uuml;tte-Aue, has taken a close look at the course and shares his impressions.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,35 +50,11 @@ news_feed (
          "title" : "Chennai Grand Masters 2025: Keymer stays perfect; Giri remains winless"
       },
       {
-         "description" : "The 111th edition of the British Chess Championship is taking place on 2-10 August at the St George's Hall in Liverpool. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Nikita Vitiugov, Michael Adams and Gawain Jones. Also noteworthy is the presence of 16-year-old GM Shreyas Royal and 10-year-old prodigy Bodhana Sivanandan. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2025-live",
-         "pubDate" : "Sat, 09 Aug 2025 15:30:00",
-         "title" : "British Chess Championship - Live!"
-      },
-      {
-         "description" : "The 52nd edition of the Dortmund Chess Festival is taking place on 2-10 August at the Kulturzentrum in the largest city of the Ruhr District. European champion Matthias Bluebaum is the rating favourite in the A Open. On Sunday, the International Women's Tournament begins, featuring four representatives from three countries: Elisabeth Paehtz, Dinara Wagner, 15-year-old Chinese champion Lu Miaoyi and Deimant&eacute; Daulyt&eacute;-Cornette of France. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2025-live",
-         "pubDate" : "Sat, 09 Aug 2025 15:00:00",
-         "title" : "Dortmund Chess Festival - Live!"
-      },
-      {
-         "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-masters-live",
-         "pubDate" : "Sat, 09 Aug 2025 14:55:00",
-         "title" : "Chennai Masters - Live!"
-      },
-      {
-         "description" : "GM Vincent Keymer made it 3/3 with another brilliant win, this time over GM Karthikeyan Murali, but he leads the Quantbox Chennai Grand Masters 2025 by only half a point after GM Arjun Erigaisi eased to victory over GM Ray Robson. It was a day of ...",
+         "description" : "GM Vincent Keymer made it 3/3 with another brilliant win, this time over GM Karthikeyan Murali, but he leads the Quantbox Chennai Grand Masters 2025 by just half a point after GM Arjun Erigaisi eased to victory over GM Ray Robson. It was a day of ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-3",
-         "pubDate" : "Sat, 09 Aug 2025 13:46:29",
+         "pubDate" : "Sat, 09 Aug 2025 13:46:00",
          "title" : "Keymer Makes It 3/3, Arjun In Hot Pursuit"
       },
       {
@@ -158,7 +166,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-wins-freestyle-friday-august-8-2025",
-         "pubDate" : "Fri, 08 Aug 2025 11:38:48",
+         "pubDate" : "Fri, 08 Aug 2025 11:38:00",
          "title" : "Nakamura Wins Battle, War Over Carlsen In Freestyle Friday"
       },
       {
@@ -482,14 +490,6 @@ news_feed (
          "title" : "Which AI Model Is The Best At Chess? Meet The New Kaggle Game Arena"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123087173.cms\" />India's chess prowess shone at the Women's World Cup, where Divya Deshmukh secured a remarkable victory, inspiring fellow players like Gukesh. He emphasized the importance of success in both men's and women's chess for India, expressing excitement for the upcoming World Cup to be hosted in India.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-champion-gukesh-laud-divya-deshmukhs-world-cup-win-it-is-not-easy-/articleshow/123087173.cms",
-         "pubDate" : "Mon, 04 Aug 2025 05:14:28",
-         "title" : "CHESS | Gukesh laud Divya's World Cup win - 'It is not easy...'"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123085953.cms\" />In a surprise twist, India's 2025 World Junior Champion Pranav Venkatesh has earned a wildcard entry to the prestigious 2025 FIDE Grand Swiss after defeating Kazakhstan's GM Kazybek Nogerbek 1.5-0.5 in an unpublicised 'Asian Wildcard Match' in Al Ain, UAE. Pranav, who narrowly missed qualifying by rating, now joins an elite field chasing a spot in the 2026 Candidates.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -696,14 +696,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-esports-world-cup-day-2",
          "pubDate" : "Wed, 30 Jul 2025 12:50:00",
          "title" : "Abdusattorov Wins On Move 5 After Duda's $20,000 Mouse Slip"
-      },
-      {
-         "description" : "WFM Bodhana Sivanandan continued her rise in the chess world on Sunday by becoming the youngest player ever to achieve a Woman Grandmaster (WGM) norm, at just 10 years old. The historic feat came at the Dole Trophy 2025, held from July 19-27 in Ai...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bodhana-secures-first-wgm-norm-makes-history",
-         "pubDate" : "Wed, 30 Jul 2025 11:00:00",
-         "title" : "Bodhana Scores 2400 Performance To Achieve Historic WGM Norm At 10"
       },
       {
          "description" : "Last Updated on 29th July 2025 by WebAdmin Congratulations to Sohum Lohia (above right) and to Alex Golding who both had their IM titles confirmed at the FIDE Council meeting...",
@@ -968,14 +960,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-examination-in-bathindapunjab-on-15-16-august-2025/",
          "pubDate" : "Mon, 21 Jul 2025 11:05:10",
          "title" : "Senior National Arbiter Seminar & Examination in Bathinda,Punjab on 15 & 16 August 2025"
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-5-all-about-the-juniors-2025-us-national-championships/\">POSTGAME ROUND 5: All About the Juniors</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-5-all-about-the-juniors-2025-us-national-championships/",
-         "pubDate" : "Sun, 20 Jul 2025 00:19:12",
-         "title" : "POSTGAME ROUND 5: All About the Juniors"
       }
    ]
 }
