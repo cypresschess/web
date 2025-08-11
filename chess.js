@@ -15,7 +15,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-watching-magnus-carlsen-at-2-how-5-year-old-aarini-lahoty-became-indias-no-1-among-youngest-chess-talents/articleshow/123236359.cms",
          "pubDate" : "Mon, 11 Aug 2025 11:48:40",
-         "title" : "Exclusive | Watching Carlsen at 2: How 5-yo Aarini became India No. 1 youngest talent"
+         "title" : "Exclusive | Watching Magnus at 2: How 5-yo Aarini became India's No. 1 youngest talent"
       },
       {
          "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
