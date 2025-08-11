@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-masters-live",
+         "pubDate" : "Mon, 11 Aug 2025 10:30:00",
+         "title" : "Chennai Masters - Live!"
+      },
+      {
+         "description" : " The Saint Louis Rapid & Blitz takes place 11th to 15th August 2025. Players: Fabiano, Caruana, D Gukesh, Nodirbek Abdusattorov, Wesley So, Levon Aronian, Leinier Dominguez Perez, Maxime Vachier-Lagrave, Le Quang Liem, Sam Shankland and Grigoriy Oparin. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2025",
+         "pubDate" : "Mon, 11 Aug 2025 09:15:00",
+         "title" : "Saint Louis Rapid & Blitz 2025 - Games and Results"
+      },
+      {
          "description" : "Last Updated on 11th August 2025 by WebAdmin The&#160;5th IPCA European Individual Chess Championship will take place from October 10 to 19, 2025, in Ostrava, Czech Republic.&#160;This event is dedicated...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -45,9 +61,9 @@ news_feed (
          "description" : " Michael Adams won the <a href=\"https://theweekinchess.com/chessnews/events/111th-british-chess-championships-2025\">111th British Chess Championships</a> which took place in Liverpool. Adams had been the long term leader but was in a six way tie for first at the start of the final round, he won but so did two of his rivals and the tournament was settled in a tie-break. Unusually six of the top seven pairings were decisive including all the games amongst the six leaders. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/michael-adams-grabs-his-nineth-british-chess-championship-title",
+         "link" : "https://theweekinchess.com/twic-news-feed/michael-adams-grabs-his-ninth-british-chess-championship-title",
          "pubDate" : "Sun, 10 Aug 2025 19:01:00",
-         "title" : "Michael Adams grabs his nineth British Chess Championship title - 9"
+         "title" : "Michael Adams grabs his ninth British Chess Championship title - 9"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123219739.cms\" />Nihal Sarin claimed victory over Arjun Erigaisi at the Chennai Grand Masters 2025, while Vincent Keymer held his lead after a draw with Anish Giri. The tournament, featuring Masters and Challengers sections, offers significant prizes and FIDE Circuit points. Abhimanyu Puranik leads the Challengers section after defeating Vaishali Rameshbabu, setting the stage for intense competition in the remaining rounds.",
@@ -1000,14 +1016,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/direct-members-reps-2025/",
          "pubDate" : "Mon, 21 Jul 2025 12:45:21",
          "title" : "Direct Members' Reps 2025"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation , Punjab State Chess Association is organizing Senior National Arbiters Seminar &#38; Exam at Hotel Roya Lista, Near Shiv Mandir,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-examination-in-bathindapunjab-on-15-16-august-2025/",
-         "pubDate" : "Mon, 21 Jul 2025 11:05:10",
-         "title" : "Senior National Arbiter Seminar & Examination in Bathinda,Punjab on 15 & 16 August 2025"
       }
    ]
 }
