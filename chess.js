@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Sharpen your chess skills and put them to the test with Fritz 20 plus Fritz Powerbook! This ultimate duo gives you powerful training and deep opening knowledge for your next game. Get the Summer Special between August 11-17 and get it for a special price!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/summer-special-fritz-with-powerbook",
+         "pubDate" : "Mon, 11 Aug 2025 14:17:35",
+         "title" : "Summer Special: Fritz with Powerbook 2025"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123236359.cms\" />At just five, Delhi's Aarini Lahoty is India's highest-rated chess player in her age group, boasting a FIDE rating of 1551. Introduced to the game by her father-coach Surendar, Aarini began playing as a toddler and now competes in higher age categories. Balancing studies, chess, and play, she dreams of becoming India's youngest IM and GM.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-watching-magnus-carlsen-at-2-how-5-year-old-aarini-lahoty-became-indias-no-1-among-youngest-chess-talents/articleshow/123236359.cms",
+         "pubDate" : "Mon, 11 Aug 2025 11:48:40",
+         "title" : "Exclusive | Watching Carlsen at 2: How 5-yo Aarini became India No. 1 youngest talent"
+      },
+      {
          "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2025",
          "pubDate" : "Mon, 11 Aug 2025 09:15:00",
          "title" : "Saint Louis Rapid & Blitz 2025 - Games and Results"
+      },
+      {
+         "description" : "\"Chess is a very important part of your life, but it can't really be everything,\" says USA's Awonder Liang.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45942940/meet-awonder-liang-atypical-gm-hunting-chess-elite?device=featurephone",
+         "pubDate" : "Mon, 11 Aug 2025 08:20:00",
+         "title" : "Meet Awonder Liang: The atypical GM hunting chess' elite"
       },
       {
          "description" : "Last Updated on 11th August 2025 by WebAdmin The&#160;5th IPCA European Individual Chess Championship will take place from October 10 to 19, 2025, in Ostrava, Czech Republic.&#160;This event is dedicated...",
@@ -354,6 +378,14 @@ news_feed (
          "title" : "FIDE Bans Former Chinese Chess Prodigy For Sandbagging"
       },
       {
+         "description" : "This fall, US Chess will begin hosting online prize arena tournaments on Chess.com exclusively for US Chess members. This innovative format will allow participants to come late, leave early, and play as many games as they can without waiting for a round to finish.As a soft launch, the first test arena will be on Friday, August 15 at 3 p.m. CDT. To register, please read our Members Only Prize Arena FAQ page and follow the instructions there. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> We invite all current members to follow the instructions below to register and compete. This will be a great opportunity to test the format and infrastructure, so the more people who re",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/introducing-us-chess-members-only-online-prize-arenas",
+         "pubDate" : "Fri, 08 Aug 2025 00:00:00",
+         "title" : "Introducing US Chess Members Only Online Prize Arenas"
+      },
+      {
          "description" : "It has been a long time coming, but Malaysia finally has a chess grandmaster in 26-year-old Yeoh Li Tian. This milestone comes 51 years after the formation of the Malaysian Chess Federation in 1974. With this achievement, Yeoh joins an elite group of about 2,000 players recognised by the World Chess Federation (FIDE) for their mastery of the game. Quah Seng Sun reports. | Photos courtesy of Malaysian Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -496,14 +528,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/tabatabaei-maghsoodloo-win-titled-tuesday-august-5-2025",
          "pubDate" : "Wed, 06 Aug 2025 08:24:45",
          "title" : "Compatriots Claim Titled Tuesday"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123133911.cms\" />D Harika, India's No. 2 female Grandmaster, balances her chess career with motherhood, finding joy in playing the Chennai Grand Masters tournament close to home, allowing her to spend time with her two-year-old daughter, Hanvika.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-with-daughter-in-tow-guilt-free-harika-takes-on-the-best/articleshow/123133911.cms",
-         "pubDate" : "Wed, 06 Aug 2025 05:48:49",
-         "title" : "Chennai Grand Masters: With daughter in tow, 'guilt'-free Harika takes on the best"
       },
       {
          "description" : "The Air Force Sports Control Board (AFSCB) is inviting applications from outstanding sportsmen to join the Indian Air Force as Agniveervayu (Sports). For the first",
@@ -754,14 +778,6 @@ news_feed (
          "title" : "Carlsen Silences Crowd To Beat Nakamura, Books Esports Final Vs. Firouzja"
       },
       {
-         "description" : "The final round of the five national invitational tournaments of state champions begun this morning at 10:00 a.m. CDT, with four of the five events taking the same shape.In every event but the Haring, there is one player with 4&frac12;/5 going into the last round, meaning they're \"win and in\" as outright champion. But a draw (or loss) would allow anybody from the chasing group to claim a share of the title. These \"chasing\" packs range from two (Barber) or three players (Irwin, Denker) all the way up to seven in the Rockefeller.In the Haring, however, three players enter Thursday's final round with 4&frac12;/5 scores, but only one player trails this group by a half-point. So, while we know no",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/five-titles-grabs-national-invitationals-enter-final-day",
-         "pubDate" : "Thu, 31 Jul 2025 00:00:00",
-         "title" : "Five Titles Up For Grabs As National Invitationals Enter Final Day"
-      },
-      {
          "description" : "Last Updated on 29th July 2025 by WebAdmin Congratulations to Sohum Lohia (above right) and to Alex Golding who both had their IM titles confirmed at the FIDE Council meeting...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1008,14 +1024,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/problem-chess-art",
          "pubDate" : "Mon, 21 Jul 2025 17:00:00",
          "title" : "Problem Chess Art"
-      },
-      {
-         "description" : "Last Updated on 21st July 2025 by WebAdmin There was no requirement for an election this year and the incumbents (plus one replacement rep) are as follows &#8212; Lifetime ...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/direct-members-reps-2025/",
-         "pubDate" : "Mon, 21 Jul 2025 12:45:21",
-         "title" : "Direct Members' Reps 2025"
       }
    ]
 }
