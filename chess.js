@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123226875.cms\" />Viswanathan Anand revealed that Magnus Carlsen was a \"limited\" player in his early days, excelling mainly in endgames and technical positions. Reflecting on losing the 2013 World Championship and the 2014 rematch, Anand admitted struggling to adapt to new trends before rediscovering his form. He said their later battles were far more balanced but still went Carlsen's way.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-viswanathan-anands-strange-take-on-magnus-carlsen-he-used-to-be-quite-a-limited-player/articleshow/123226875.cms",
+         "pubDate" : "Mon, 11 Aug 2025 02:59:46",
+         "title" : "Chess | Anand's strange take on Carlsen - 'He used to be quite a limited player'"
+      },
+      {
+         "description" : "Vincent Keymer kept the sole lead in the main section of the Chennai Grand Masters after drawing with Anish Giri, while Nihal Sarin scored his first win by defeating top seed Arjun Erigaisi. Karthikeyan Murali also won, against Jorden van Foreest. Keymer leads on 3&frac12; points, a full point ahead of Arjun. In the Challengers, Abhimanyu Puranik reached 3&frac12;/4 with a win over Vaishali Rameshbabu, moving half a point clear of M Pranesh, Diptayan Ghosh and Leon Luke Mendonca. | Photos: Anmol Bhargav",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2025-4",
+         "pubDate" : "Mon, 11 Aug 2025 01:35:00",
+         "title" : "Chennai GMs: Nihal upsets Arjun, Keymer leads"
+      },
+      {
          "description" : " The 111th British Chess Championships took place in Liverpool Saturday 2nd to Sunday 10th August 2025. Top seeds Nikita Vitiugov, Michael Adams, Gawain Maroroa Jones, Stuart C Conquest Ameet K Ghasi etc. Michael Adams won his 9th title after beating Stuart Conquest (who had to beat Peter Roberson first) in a three way tie-break match. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -26,11 +42,11 @@ news_feed (
          "title" : "Chennai GM 2025: Nihal Sarin shocks Arjun Erigaisi, Vincent Keymer stays unbeaten"
       },
       {
-         "description" : "GM Nihal Sarin was finally rewarded for his entertaining chess in the Quantbox Chennai Grand Masters 2025 when he won a great fighting game against GM Arjun Erigaisi. That meant that GM Vincent Keymer took a full-point lead despite being held to h...",
+         "description" : "GM Nihal Sarin was finally rewarded for his entertaining chess in the Quantbox Chennai Grand Masters 2025 when he won a great fighting game against GM Arjun Erigaisi. That means that GM Vincent Keymer took a full-point lead despite being held to h...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-4",
-         "pubDate" : "Sun, 10 Aug 2025 13:15:47",
+         "pubDate" : "Sun, 10 Aug 2025 13:15:00",
          "title" : "Nihal Stuns Arjun As Keymer Takes 1-Point Lead"
       },
       {
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/british-chess-championship-2025-live",
          "pubDate" : "Sun, 10 Aug 2025 11:00:00",
          "title" : "British Chess Championship - Live!"
-      },
-      {
-         "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-masters-live",
-         "pubDate" : "Sun, 10 Aug 2025 10:30:00",
-         "title" : "Chennai Masters - Live!"
       },
       {
          "description" : "The 52nd edition of the Dortmund Chess Festival is taking place on 2-10 August at the Kulturzentrum in the largest city of the Ruhr District. European champion Matthias Bluebaum is the rating favourite in the A Open. On Sunday, the International Women's Tournament begins, featuring four representatives from three countries: Elisabeth Paehtz, Dinara Wagner, 15-year-old Chinese champion Lu Miaoyi and Deimant&eacute; Daulyt&eacute;-Cornette of France. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
@@ -504,14 +512,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapid-blitz-chess-championship-2025-commenced-in-greece/",
          "pubDate" : "Tue, 05 Aug 2025 20:28:42",
          "title" : "European Youth Rapid & Blitz Chess Championship 2025 commenced in Greece"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123123415.cms\" />Chennai is gearing up to host the third edition of the Chennai Grandmasters chess tournament, commencing on August 6th, 2025. This prestigious event features 20 elite players competing for a prize pool of Rs 1 Crore and valuable FIDE Circuit points. The tournament includes two round-robin groups, Masters and Challengers, with matches scheduled daily until August 15th.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-chennai-grand-masters-2025-arjun-erigaisi-vs-awonder-liang-kicks-off-day-1-full-list-of-fixtures-inside/articleshow/123123415.cms",
-         "pubDate" : "Tue, 05 Aug 2025 16:36:12",
-         "title" : "Chennai Grand Masters: Erigaisi vs Liang kicks off Day 1"
       },
       {
          "description" : "The inaugural day of the AI chess exhibition match in Google&#39;s new Kaggle Game Arena project saw dominating performances by four of the Large Language Models (LLMs) on display. Four 4-0 sweeps took Gemini 2.5 Pro, o4-mini, Grok 4, and o3 to the Se...",
