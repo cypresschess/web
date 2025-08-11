@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last Updated on 11th August 2025 by WebAdmin The&#160;5th IPCA European Individual Chess Championship will take place from October 10 to 19, 2025, in Ostrava, Czech Republic.&#160;This event is dedicated...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/5th-ipca-european-individual-chess-championship/",
+         "pubDate" : "Mon, 11 Aug 2025 07:18:48",
+         "title" : "5th IPCA European Individual Chess Championship"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123229926.cms\" />Nihal Sarin, known for his speed in rapid and blitz chess, is now focusing on classical chess, collaborating with Vishnu Prasanna. Despite a rocky start at the Chennai Grand Masters, Nihal secured a crucial win against Arjun Erigaisi. Meanwhile, Vincent Keymer leads the tournament, with Viswanathan Anand highlighting him as the favourite.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-nihal-sarin-outwits-arjun-erigaisi-in-slow-burn-duel/articleshow/123229926.cms",
+         "pubDate" : "Mon, 11 Aug 2025 06:16:01",
+         "title" : "Chennai Grand Masters: Nihal Sarin outwits Arjun Erigaisi in slow-burn duel"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123226875.cms\" />Viswanathan Anand revealed that Magnus Carlsen was a \"limited\" player in his early days, excelling mainly in endgames and technical positions. Reflecting on losing the 2013 World Championship and the 2014 rematch, Anand admitted struggling to adapt to new trends before rediscovering his form. He said their later battles were far more balanced but still went Carlsen's way.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -480,14 +496,6 @@ news_feed (
          "link" : "https://aicf.in/recruitment-opportunity-for-outstanding-sportsmen-indian-air-force-agniveervayu-sports/",
          "pubDate" : "Wed, 06 Aug 2025 05:44:38",
          "title" : "Recruitment Opportunity for Outstanding Sportsmen - Indian Air Force (Agniveervayu - Sports)"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123133813.cms\" />Arjun Erigaisi seeks to regain his form at the Chennai Grand Masters after a series of disappointing classical chess performances. The tournament, featuring 20 players, serves as crucial preparation for the Grand Swiss.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-arjun-erigaisis-chance-to-turn-around-indifferent-year/articleshow/123133813.cms",
-         "pubDate" : "Wed, 06 Aug 2025 05:38:54",
-         "title" : "Chennai Grand Masters: Arjun Erigaisi's chance to turn around indifferent year"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123132485.cms\" />The Chennai Grand Masters 2025 has been delayed by a day due to a fire at the Hyatt Regency, its venue. All players are safe and relocated. The tournament will now commence on August 7, with the first round on the original rest day.",
