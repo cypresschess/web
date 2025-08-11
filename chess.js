@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-day-1-rapid-is-underway-stl-rb-2025/\">POSTGAME DAY 1: Rapid is Underway!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-day-1-rapid-is-underway-stl-rb-2025/",
+         "pubDate" : "Mon, 11 Aug 2025 23:15:15",
+         "title" : "POSTGAME DAY 1: Rapid is Underway!"
+      },
+      {
          "description" : "The fourth event of the 2025 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 11-15 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the Grand Chess Tour: Alireza Firouzja, R Praggnanandhaa and Maxime Vachier-Lagrave. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-vincent-keymer-remains-tournament-leader-arjun-erigaisi-one-point-behind/articleshow/123240264.cms",
          "pubDate" : "Mon, 11 Aug 2025 15:53:59",
          "title" : "Chennai GM: Keymer remains tournament leader; Erigaisi one point behind"
+      },
+      {
+         "description" : "GM Jorden van Foreest bounced back after two losses in a row to beat GM Ray Robson in the only decisive game of round five of the Quantbox Chennai Grand Masters 2025. As the tournament crossed the halfway mark, GM Vincent Keymer maintained his one...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-5",
+         "pubDate" : "Mon, 11 Aug 2025 14:35:00",
+         "title" : "Jorden Van Foreest Hits Back After 2 Losses"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123236359.cms\" />At just five, Delhi's Aarini Lahoty is India's highest-rated chess player in her age group, boasting a FIDE rating of 1551. Introduced to the game by her father-coach Surendar, Aarini began playing as a toddler and now competes in higher age categories. Balancing studies, chess, and play, she dreams of becoming India's youngest IM and GM.",
@@ -698,14 +714,6 @@ news_feed (
          "title" : "European Women's Rapid & Blitz Chess Championship 2025 - Official regulations"
       },
       {
-         "description" : "World number-one Magnus Carlsen is the first ever Chess Esports World Cup Champion after winning the final three games to beat GM Alireza Firouzja in the Grand Final. Carlsen took the $250,000 top prize and saw his Team Liquid sneak ahead in the o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-esports-world-cup-day-4",
-         "pubDate" : "Fri, 01 Aug 2025 12:39:00",
-         "title" : "Magnus Carlsen Wins 1st Ever Chess Esports World Cup"
-      },
-      {
          "description" : "Last Updated on 1st August 2025 by WebAdmin World Youth Championships 3 16 October Nominated and approved England players selected for the 2025 FIDE World Youth Championships U14, U16...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -952,14 +960,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-6-could-abhi-slow-andy-2025-us-national-championships/",
          "pubDate" : "Mon, 21 Jul 2025 23:35:27",
          "title" : "POSTGAME ROUND 6: Could Abhi Slow Andy?"
-      },
-      {
-         "description" : " The English Championships took place in Kenilworth, Friday, 18th to Monday, 21st July 2025. Michael Adams beat Nikita Vitiugov in a tie-break match after they tied on 6/7. Then two rapid games (20m+10spm) were both drawn, Adams won the first of two blitz (5m+3spm) games to take the title. The women's section likewise went down to a tie-break with Elmira Mirzoeva winning the first rapid game against Shambavi Hariharan, they had both scored 5.5/7.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/english-championships-2025",
-         "pubDate" : "Mon, 21 Jul 2025 19:37:00",
-         "title" : "English Championships 2025 - Games and Results"
       }
    ]
 }
