@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth event of the 2025 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 11-15 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the Grand Chess Tour: Alireza Firouzja, R Praggnanandhaa and Maxime Vachier-Lagrave. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2025-live",
+         "pubDate" : "Tue, 12 Aug 2025 19:00:00",
+         "title" : "St. Louis Rapid & Blitz - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123262845.cms\" />In the Chennai Grand Masters 2025, Vincent Keymer drew with Arjun Erigaisi, maintaining his lead. Awonder Liang's victory over Pranav V puts him level with Arjun. India's premier chess event features Masters and Challengers sections with a ₹1 Crore prize pool. Keymer, undefeated, drew with Arjun after the latter equalized from a Slav Defense.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-germany-no-1-vincent-keymer-draws-against-arjun-erigaisi-maintains-unbeaten-streak-after-round-6/articleshow/123262845.cms",
+         "pubDate" : "Tue, 12 Aug 2025 17:19:40",
+         "title" : "Chennai GM 2025: Keymer draw against Erigaisi, maintains unbeaten streak after Round 6"
+      },
+      {
          "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,6 +66,14 @@ news_feed (
          "title" : "New GMs Divya, Assaubayeva Advance To Speed Chess Quarterfinals"
       },
       {
+         "description" : "This week's puzzles conclude our series on the 2025 FIDE Women's World Cup (coverage here), with WGM Sabina Foisor bringing us some tactical highlights from the games and variations that kept us riveted throughout July. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-womens-world-cup-pt-3",
+         "pubDate" : "Tue, 12 Aug 2025 00:00:00",
+         "title" : "Tactics Tuesday: Women's World Cup, Pt. 3"
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-day-1-rapid-is-underway-stl-rb-2025/\">POSTGAME DAY 1: Rapid is Underway!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-saint-louis-rapid-and-blitz-day-1",
          "pubDate" : "Mon, 11 Aug 2025 22:09:00",
          "title" : "Aronian Leads With Perfect Score"
-      },
-      {
-         "description" : "The fourth event of the 2025 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 11-15 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the Grand Chess Tour: Alireza Firouzja, R Praggnanandhaa and Maxime Vachier-Lagrave. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2025-live",
-         "pubDate" : "Mon, 11 Aug 2025 19:00:00",
-         "title" : "St. Louis Rapid & Blitz - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123240264.cms\" />Vincent Keymer held his lead at the Chennai Grand Masters 2025 after a draw with Vidit Gujrathi, closely followed by Arjun Erigaisi. Keymer and Erigaisi are set for a crucial face-off in the next round. Abhimanyu Puranik extended his lead in the Challengers section with a win, while other matches saw decisive victories and draws.",
@@ -442,14 +458,6 @@ news_feed (
          "title" : "Introducing US Chess Members Only Online Prize Arenas"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123169349.cms\" />Arjun Erigaisi and Vincent Keymer initiated their Chennai Grandmasters 2025 campaigns with impressive victories, defeating Awonder Liang and Nihal Sarin respectively. In the Challengers section, Diptayan Ghosh, Leon Luke Mendonca, and M Pranesh secured wins, while other matches saw mixed results, including losses for Harika Dronavalli and Aryan Chopra. The Masters section also featured draws in high-profile matches.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-arjun-erigaisi-vincent-keymer-kick-off-exciting-day-1-with-victories-know-full-results/articleshow/123169349.cms",
-         "pubDate" : "Thu, 07 Aug 2025 15:04:19",
-         "title" : "Chennai Grand Masters 2025: Arjun Erigaisi, Vincent Keymer kick off exciting Day 1 with victories - know full results"
-      },
-      {
          "description" : "Two former WSCC champions advanced comfortably into the Quarterfinals of the 2025 Women&#39;s Speed Chess Championship. Women&#39;s World Champion (and reigning WSCC Champion) GM Ju Wenjun beat FM Anastasia Avramidou 9.5-4.5, while GM Kateryna Lagno elimi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapid-blitz-chess-championship-2025-starts-in-greece/",
          "pubDate" : "Sun, 03 Aug 2025 07:39:46",
          "title" : "European Youth Rapid & Blitz Chess Championship 2025 starts in Greece"
-      },
-      {
-         "description" : "After a week of competition, the final round of the 125th annual U.S. Open begins at 3 p.m. CDT in Middleton, WI, with a spot in this October's U.S. Championship on the line. Join WGM Sabina Foisor as she finishes her marathon week of commentary on our Twitch channel, and enjoy her written notes on last night's key games. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Sam Schmakel (L) had winning chances against the tournament leader, but ultimately Joshua Friedel held a draw to maintain his lead (Photo by David Llada)<br> <br> <br> <br> GM Joshua Friedel leads with 7&frac12;/8 after drawing IM Sam Schmakel. Schmakel was the only player a half-point b",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/friedel-takes-half-point-lead-final-round-us-open",
-         "pubDate" : "Sun, 03 Aug 2025 00:00:00",
-         "title" : "Friedel Takes Half-Point Lead Into Final Round of U.S. Open"
       },
       {
          "description" : "I'm so grateful that I grew up in a chess world without opening courses, clickbait, move-trainer, and constant FOMO. It allowed me to train the one main skill that helps me excel at chess, be a better businessman, and solve difficult problems in my private life. To think. On my own. Without interruption and help. []",
