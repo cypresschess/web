@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Recently, a 17-year-old player in Germany won the national girls' under-18 tournament. The head of the German commission for women's chess was less thrilled. The winner, you know, who identifies and officially categorizes as female, was born as a boy. Dominic Lawson, who writes for many major British newspapers, a strong chess player (and president of the English Chess Federation), in his words \"managed to smuggle in chess as the subject\" in his Sunday Times column.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-will-never-be-ruled-by-a-queen-2",
+         "pubDate" : "Tue, 12 Aug 2025 08:00:00",
+         "title" : "Chess will never be ruled by a queen"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123250969.cms\" />The Indian chess scene witnesses an intense rivalry between young stars R Praggnanandhaa and D Gukesh, with Pragg initially securing a Candidates berth but Gukesh ultimately claiming the world champion title. Coach RB Ramesh highlights the challenges Pragg faced, including managing pressure and competition from peers.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-how-r-praggnanandhaa-dealt-with-tough-times-as-gukesh-raced-ahead/articleshow/123250969.cms",
+         "pubDate" : "Tue, 12 Aug 2025 05:38:19",
+         "title" : "Chennai Grand Masters: How R Praggnanandhaa dealt with tough times as Gukesh raced ahead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123250798.cms\" />The Chennai Grand Masters saw a day of draws, with Jorden van Foreest's victory over Ray Robson being the exception in the masters section. In the challengers, Abhimanyu Puranik and GB Harshavardhan secured wins. Vincent Keymer leads masters by one point, while Abhimanyu leads challengers. Arjun Erigaisi is set to face Vincent in a crucial round six clash.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-fatigue-kicks-in-as-big-boys-play-out-draws/articleshow/123250798.cms",
+         "pubDate" : "Tue, 12 Aug 2025 05:29:19",
+         "title" : "Chennai Grand Masters: Fatigue kicks in as big boys play out draws"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123249296.cms\" />Bodhana Sivanandan, a 10-year-old chess prodigy from Harrow, has made history as the youngest female player to defeat a grandmaster, surpassing Carissa Yip's previous record. She achieved this remarkable feat at the 2025 British Chess Championships in Liverpool, defeating Grandmaster Peter Wells.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/10-year-old-bodhana-sivanandan-shocks-grandmaster-sets-historic-chess-record/articleshow/123249296.cms",
+         "pubDate" : "Tue, 12 Aug 2025 03:56:51",
+         "title" : "Youngest ever! 10-year-old shocks Grandmaster, sets historic chess record"
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-day-1-rapid-is-underway-stl-rb-2025/\">POSTGAME DAY 1: Rapid is Underway!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-day-1-rapid-is-underway-stl-rb-2025/",
          "pubDate" : "Mon, 11 Aug 2025 23:15:15",
          "title" : "POSTGAME DAY 1: Rapid is Underway!"
+      },
+      {
+         "description" : "GM Levon Aronian leads the 2025 Saint Louis Rapid &#38;amp; Blitz with a perfect 6/6 score after the first three rounds of rapid chess. GM Fabiano Caruana had a strong start as well with 5/6&#38;mdash;two wins and a draw. World Champion Gukesh Dommaraju b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-saint-louis-rapid-and-blitz-day-1",
+         "pubDate" : "Mon, 11 Aug 2025 22:09:28",
+         "title" : "Aronian Leads With Perfect Score"
       },
       {
          "description" : "The fourth event of the 2025 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 11-15 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the Grand Chess Tour: Alireza Firouzja, R Praggnanandhaa and Maxime Vachier-Lagrave. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
@@ -450,22 +490,6 @@ news_feed (
          "title" : "Live link Chennai Grandmasters 2025"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123158977.cms\" />Tanishka Garg, an eight-year-old from Bathinda, has become Punjab's youngest female FIDE-rated chess player, showcasing her strategic talent at a young age. Her journey began unexpectedly when she joined her brother's coaching sessions, quickly surpassing expectations and winning multiple titles.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-the-mothers-gambit-how-a-housewifes-trick-to-make-dinner-prepped-a-record-breaking-8-year-old-in-punjab/articleshow/123158977.cms",
-         "pubDate" : "Thu, 07 Aug 2025 07:06:49",
-         "title" : "The Mother's Gambit: How a housewife's trick prepped a record-breaking 8-year-old"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123157745.cms\" />The Chennai Grand Masters chess tournament faced an unexpected disruption as a fire broke out at the Hyatt Regency venue early Wednesday. An electrical issue triggered the incident, prompting organisers to evacuate players and staff to a nearby hotel. The start of the tournament has been postponed to Thursday, with the rest day canceled to accommodate the revised schedule.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-playing-hall-unaffected-despite-fire-issue-players-back-at-venue/articleshow/123157745.cms",
-         "pubDate" : "Thu, 07 Aug 2025 06:04:57",
-         "title" : "Chennai Grand Masters: Playing hall unaffected despite fire issue, players back at venue"
-      },
-      {
          "description" : "The USA delegation boasted 14 podium finishes - including five gold medals - across 12 sections at the XXXV Pan-American Youth Chess Festival. Led by Head of Delegation WGM Kate&#345ina Němcov&aacute;, a total of 67 Americans competed in Lima, Peru, making up a twelfth of the 784 total players (representing 25 different federations). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo by Kateřina Němcov&aacute;<br> <br> <br> <br> With 28 points (three points per gold, two points each for four silver medals, and a point each for five bronze) USA won the team gold medal, ahead of Peru (16 points) and Colombia (6 points). <br> <br> <br> <br> <br> <br",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -528,14 +552,6 @@ news_feed (
          "link" : "https://aicf.in/recruitment-opportunity-for-outstanding-sportsmen-indian-air-force-agniveervayu-sports/",
          "pubDate" : "Wed, 06 Aug 2025 05:44:38",
          "title" : "Recruitment Opportunity for Outstanding Sportsmen - Indian Air Force (Agniveervayu - Sports)"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123132485.cms\" />The Chennai Grand Masters 2025 has been delayed by a day due to a fire at the Hyatt Regency, its venue. All players are safe and relocated. The tournament will now commence on August 7, with the first round on the original rest day.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-all-the-players-safe-tournament-postponed-by-a-day-after-fire-disrupts-venue/articleshow/123132485.cms",
-         "pubDate" : "Wed, 06 Aug 2025 04:22:39",
-         "title" : "Chennai Grand Masters: Tournament postponed after fire disrupts venue - Watch"
       },
       {
          "description" : "This week's puzzles continue a series on the 2025 FIDE Women's World Cup (coverage here), with WGM Sabina Foisor bringing us some tactical highlights from the games and variations that kept us riveted throughout July. Check out more of her puzzles in ourTactics Tuesday series, as well. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -656,14 +672,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/friedel-takes-half-point-lead-final-round-us-open",
          "pubDate" : "Sun, 03 Aug 2025 00:00:00",
          "title" : "Friedel Takes Half-Point Lead Into Final Round of U.S. Open"
-      },
-      {
-         "description" : "Chess&#39; answer to DC Comics&#39; &#34;The Flash,&#34; GM Andrew Tang, has joined GMs Hikaru Nakamura and Daniel Naroditsky as a top-three all-time Bullet Brawl titlist after winning Saturday&#39;s event ahead of 118 titled players. Tang&#39;s fast start gave him an ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-aug-2-2025",
-         "pubDate" : "Sat, 02 Aug 2025 18:29:00",
-         "title" : "Tang Breaks Into Bullet Brawl All-Time Top 3 Following 8th Win Of The Year"
       },
       {
          "description" : "I'm so grateful that I grew up in a chess world without opening courses, clickbait, move-trainer, and constant FOMO. It allowed me to train the one main skill that helps me excel at chess, be a better businessman, and solve difficult problems in my private life. To think. On my own. Without interruption and help. []",
