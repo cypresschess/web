@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-day-2/\">POSTGAME DAY 2</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-day-2/",
+         "pubDate" : "Tue, 12 Aug 2025 23:00:39",
+         "title" : "POSTGAME DAY 2"
+      },
+      {
          "description" : "The fourth event of the 2025 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 11-15 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the Grand Chess Tour: Alireza Firouzja, R Praggnanandhaa and Maxime Vachier-Lagrave. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-germany-no-1-vincent-keymer-draws-against-arjun-erigaisi-maintains-unbeaten-streak-after-round-6/articleshow/123262845.cms",
          "pubDate" : "Tue, 12 Aug 2025 17:19:40",
          "title" : "Chennai GM 2025: Keymer draw against Erigaisi, maintains unbeaten streak after Round 6"
+      },
+      {
+         "description" : "GM Awonder Liang beat GM Pranav Venkatesh in round six of the Quantbox Chennai Grand Masters 2025 to enter the 2700 club and catch GM Arjun Erigaisi in second place. Arjun lived dangerously against leader GM Vincent Keymer but ultimately drew, mea...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-6",
+         "pubDate" : "Tue, 12 Aug 2025 14:41:17",
+         "title" : "Awonder Hits 2700, Catches Arjun In Chennai"
       },
       {
          "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
@@ -62,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/new-grandmasters-divya-and-assaubayeva-advance-to-wscc-quarterfinals",
-         "pubDate" : "Tue, 12 Aug 2025 01:25:08",
+         "pubDate" : "Tue, 12 Aug 2025 01:25:00",
          "title" : "New GMs Divya, Assaubayeva Advance To Speed Chess Quarterfinals"
       },
       {
@@ -624,14 +640,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-wscc-ro16-hou-ambartsumova-vaishali-lee",
          "pubDate" : "Mon, 04 Aug 2025 12:23:00",
          "title" : "Lee Wins 5 In A Row Vs. Vaishali, Advances With Hou Yifan"
-      },
-      {
-         "description" : "A unique and powerful approach to understanding AI capabilities, Kaggle Game Arena, in partnership with Google DeepMind, announced a new platform where leading AI models will compete head-to-head in chess and other games. To kick things off, Kag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/which-ai-model-is-the-best-at-chess-kaggle-game-arena",
-         "pubDate" : "Mon, 04 Aug 2025 09:12:00",
-         "title" : "Which AI Model Is The Best At Chess? Meet The New Kaggle Game Arena"
       },
       {
          "description" : "The Caro-Kann Defense (Advance Variation) is, by far, the most popular opening over the last year, from June 2024 to May 2025, for players participating in US Chess ICCF server-based games. With just over 5% of the games on the server using the Caro-Kann (Advance Variation) over the last year, no other opening even came close in popularity.The Advance Variation is a family of lines within the Caro-Kann Defense, which is one of the most solid and respected responses to 1.e4.The ECO Code for the Caro-Kann Defense (Advance Variation) is B12.Historical research for the Caro-Kann Defense informs us that the name is the combination of two men: Horatio Caro, from the United Kingdom, and Marcus Kann",
