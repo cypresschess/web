@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-masters-live",
+         "pubDate" : "Tue, 12 Aug 2025 10:30:00",
+         "title" : "Chennai Masters - Live!"
+      },
+      {
          "description" : "Recently, a 17-year-old player in Germany won the national girls' under-18 tournament. The head of the German commission for women's chess was less thrilled. The winner, you know, who identifies and officially categorizes as female, was born as a boy. Dominic Lawson, who writes for many major British newspapers, a strong chess player (and president of the English Chess Federation), in his words \"managed to smuggle in chess as the subject\" in his Sunday Times column.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,6 +42,14 @@ news_feed (
          "title" : "Youngest ever! 10-year-old shocks Grandmaster, sets historic chess record"
       },
       {
+         "description" : "GM-elect Divya Deshmukh and GM Bibisara Assaubayeva have advanced to the Quarterfinals of the 2025 Women&#39;s Speed Chess Championship. Divya, fresh off her FIDE Women&#39;s World Cup victory, picked up right where she left off, winning 10-3 against GM L...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/new-grandmasters-divya-and-assaubayeva-advance-to-wscc-quarterfinals",
+         "pubDate" : "Tue, 12 Aug 2025 01:25:08",
+         "title" : "New GMs Divya, Assaubayeva Advance To Speed Chess Quarterfinals"
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-day-1-rapid-is-underway-stl-rb-2025/\">POSTGAME DAY 1: Rapid is Underway!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -46,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-saint-louis-rapid-and-blitz-day-1",
-         "pubDate" : "Mon, 11 Aug 2025 22:09:28",
+         "pubDate" : "Mon, 11 Aug 2025 22:09:00",
          "title" : "Aronian Leads With Perfect Score"
       },
       {
@@ -88,14 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/bodhana-youngest-woman-to-beat-gm-adams-takes-9th-british-title",
          "pubDate" : "Mon, 11 Aug 2025 10:39:00",
          "title" : "Bodhana Becomes Youngest Woman To Beat Grandmaster As Adams Wins 9th British Title"
-      },
-      {
-         "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-masters-live",
-         "pubDate" : "Mon, 11 Aug 2025 10:30:00",
-         "title" : "Chennai Masters - Live!"
       },
       {
          "description" : "Every spring and fall, top collegiate chess players from around the world compete in the Collegiate Chess League (CCL). Just like in academia, the Summer season is more relaxed. Instead of a full season of team matches, schools played in three com...",
@@ -658,14 +666,6 @@ news_feed (
          "title" : "European Youth Rapid & Blitz Chess Championship 2025 starts in Greece"
       },
       {
-         "description" : "At just 14 years old, GM Yagiz Kaan Erdogmus has officially broken into the world&#39;s top-100 players, a milestone that once again confirms his status as one of the chess world&#39;s most exciting prospects. The Turkish prodigy reached a new career-hi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/erdogmus-enters-world-top-100-at-14-another-age-record",
-         "pubDate" : "Sun, 03 Aug 2025 07:16:00",
-         "title" : "Erdogmus Enters World Top-100 At 14, Breaks Yet Another Age Record"
-      },
-      {
          "description" : "After a week of competition, the final round of the 125th annual U.S. Open begins at 3 p.m. CDT in Middleton, WI, with a spot in this October's U.S. Championship on the line. Join WGM Sabina Foisor as she finishes her marathon week of commentary on our Twitch channel, and enjoy her written notes on last night's key games. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Sam Schmakel (L) had winning chances against the tournament leader, but ultimately Joshua Friedel held a draw to maintain his lead (Photo by David Llada)<br> <br> <br> <br> GM Joshua Friedel leads with 7&frac12;/8 after drawing IM Sam Schmakel. Schmakel was the only player a half-point b",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -944,14 +944,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-7-day-of-the-spoilers-2025-us-national-championships/",
          "pubDate" : "Wed, 23 Jul 2025 00:25:18",
          "title" : "POSTGAME ROUND 7: Day of the Spoilers"
-      },
-      {
-         "description" : "Last Updated on 22nd July 2025 by WebAdmin FIDE has approved Matthew Wadsworth's GM title. You can read the meeting minutes here https://www.fide.com/fide-council-meeting-held-in-batumi-georgia/ The ECF offers its congratulations to...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/new-english-grandmaster/",
-         "pubDate" : "Tue, 22 Jul 2025 08:26:50",
-         "title" : "New English Grandmaster"
       }
    ]
 }
