@@ -944,14 +944,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-statement-on-fide-council-decision/",
          "pubDate" : "Wed, 23 Jul 2025 06:48:33",
          "title" : "ECU Statement on FIDE Council Decision"
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-7-day-of-the-spoilers-2025-us-national-championships/\">POSTGAME ROUND 7: Day of the Spoilers</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-7-day-of-the-spoilers-2025-us-national-championships/",
-         "pubDate" : "Wed, 23 Jul 2025 00:25:18",
-         "title" : "POSTGAME ROUND 7: Day of the Spoilers"
       }
    ]
 }
