@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Last Updated on 13th August 2025 by WebAdmin The new Coventry International will take place from Monday 26th October to Saturday 31st October 2025 at the Holiday Inn Coventry M6,...",
+         "description" : "The fourth event of the 2025 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 11-15 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the Grand Chess Tour: Alireza Firouzja, R Praggnanandhaa and Maxime Vachier-Lagrave. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2025-live",
+         "pubDate" : "Wed, 13 Aug 2025 19:00:00",
+         "title" : "St. Louis Rapid & Blitz - Live!"
+      },
+      {
+         "description" : "Levon Aronian was unable to repeat his strong performance from the previous day on the second day of the rapid chess tournament in Saint Louis. In the sixth round, he lost to Fabiano Caruana in the top match and relinquished the lead. Aronian shares second place with Weskey So going into the third day of action. | Photos: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2025-2",
+         "pubDate" : "Wed, 13 Aug 2025 18:25:00",
+         "title" : "St. Louis Rapid & Blitz: Caruana grabs the lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123284574.cms\" />Vincent Keymer surged ahead in the Chennai Grand Masters, extending his lead to 1.5 points after a decisive victory over Awonder Liang. M Karthikeyan's win against Vidit Gujrathi kept Indian hopes alive, while Arjun Erigaisi's draw against Anish Giri significantly hampered his chances. Keymer could clinch the title on Thursday with a win against Jorden van Foreest.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-indians-title-hopes-fade-as-vincent-keymer-closes-in-on-crown/articleshow/123284574.cms",
+         "pubDate" : "Wed, 13 Aug 2025 16:05:13",
+         "title" : "Chennai Grand Masters | Indians' title hopes fade as Vincent Keymer closes in on crown"
+      },
+      {
+         "description" : "Last Updated on 13th August 2025 by WebAdmin The new Coventry International will take place from Sunday 26th October to Friday 31st October 2025 at the Holiday Inn Coventry M6,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/2025-coventry-international/",
@@ -34,20 +58,20 @@ news_feed (
          "title" : "ECU E-Magazine July 2025"
       },
       {
+         "description" : "The rapid growth of chess is leading to the proliferation of new formats, which is in turn creating a crowded year-long calendar.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45963789/which-chess-most-important-format-frequent-switching-raises-questions?device=featurephone",
+         "pubDate" : "Wed, 13 Aug 2025 10:10:00",
+         "title" : "Which is chess' most important format? Frequent switching raises questions"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123276752.cms\" />Rohith Krishna S has become India's 89th Grandmaster, achieving his final GM norm at the Almaty Masters Qonaev Cup in Kazakhstan. The 20-year-old's victory over Artur Davtyan secured the title, pushing him past the 2500 Elo rating. This milestone follows Divya Deshmukh's recent Grandmaster title, highlighting India's growing presence in the chess world.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-rohith-krishna-s-secures-third-and-final-gm-norm-becomes-indias-89th-grandmaster/articleshow/123276752.cms",
          "pubDate" : "Wed, 13 Aug 2025 09:34:39",
          "title" : "Rohith Krishna S becomes India's 89th Grandmaster; secures third GM norm at Almaty Masters"
-      },
-      {
-         "description" : "Pavel Eljanov, the top seed by Elo rating, has won the Zeeland Open at the HZ University of Applied Science in Vlissingen, a Dutch city in the county of Zeeland, edging out Eelke de Boer on tiebreaks after both finished level on points. Full report by Gerd Dening. | Photos: Gerd Densing and Tina Rouwendal (teaser photo)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eljanov-wins-zeeland-open",
-         "pubDate" : "Wed, 13 Aug 2025 08:40:00",
-         "title" : "Pavel Eljanov wins HZ University of Applied Science Tournament in Zeeland"
       },
       {
          "description" : "On behalf of All India Chess Federation , All J &#38; K Chess Association is organizing Senior National Arbiters Seminar &#38; Exam on 06 &#38; 07 September",
@@ -74,6 +98,14 @@ news_feed (
          "title" : "Chennai GM 2025: Arjun battles back to hold Keymer in tense draw"
       },
       {
+         "description" : "This week's puzzles continue a series on the 2025 FIDE Women's World Cup (coverage here), with WGM Sabina Foisor bringing us some tactical highlights from the games and variations that kept us riveted throughout July. Check out more of her puzzles in ourTactics Tuesday series, as well. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-womens-world-cup-pt-3",
+         "pubDate" : "Wed, 13 Aug 2025 00:00:00",
+         "title" : "Wednesday Workout: FIDE Women's World Cup, Pt. 3"
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-day-2/\">POSTGAME DAY 2</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -88,14 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-saint-louis-rapid-and-blitz-day-2",
          "pubDate" : "Tue, 12 Aug 2025 22:18:00",
          "title" : "Caruana Leads After Direct Encounter With Aronian"
-      },
-      {
-         "description" : "The fourth event of the 2025 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 11-15 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the Grand Chess Tour: Alireza Firouzja, R Praggnanandhaa and Maxime Vachier-Lagrave. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2025-live",
-         "pubDate" : "Tue, 12 Aug 2025 19:00:00",
-         "title" : "St. Louis Rapid & Blitz - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123262845.cms\" />In the Chennai Grand Masters 2025, Vincent Keymer drew with Arjun Erigaisi, maintaining his lead. Awonder Liang's victory over Pranav V puts him level with Arjun. India's premier chess event features Masters and Challengers sections with a ₹1 Crore prize pool. Keymer, undefeated, drew with Arjun after the latter equalized from a Slav Defense.",
@@ -482,14 +506,6 @@ news_feed (
          "title" : "Nakamura Wins Battle, War Over Carlsen In Freestyle Friday"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123186413.cms\" />India is set to host the third edition of the Global Chess League (GCL) from December 13-24, 2025, featuring six franchises. This event, concluding just before the FIDE World Rapid and Blitz Championship in Qatar, follows successful GCL editions in Dubai and London.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-to-host-third-edition-of-global-chess-league-in-december-adds-to-countrys-busy-chess-calendar/articleshow/123186413.cms",
-         "pubDate" : "Fri, 08 Aug 2025 10:26:12",
-         "title" : "India to host third edition of Global Chess League in December; adds to country's busy chess calendar"
-      },
-      {
          "description" : "The World Amateur Chess Championship will be held at Vrnjacka Banja, Serbia from 4th to 14th November, 2025. The detailed regulations you can find at&#160;FIDE",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -688,14 +704,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/just-rules-no-good-deed",
          "pubDate" : "Mon, 04 Aug 2025 00:00:00",
          "title" : "Just the Rules: No Good Deed?"
-      },
-      {
-         "description" : "Normally, it would be cruel to describe anybody's tournament as \"heartbreaking\" or even disappointing because they \"only\" tied for second place. Similarly, a top grandmaster winning a tournament hardly counts as a shocking upset.But GM Darius Swiercz's defeat of GM Joshua Friedel in the final round of the 125th Annual U.S. Open to claim first place and a spot in October's U.S. Championship was a shocking result for Swiercz and a heartbreaking one for Friedel.Swiercz won with 8/9. He was never far from the tournament lead, but draws in Rounds 5 and 7 with GM Andrew Hong and IM Sam Schmakel, respectively, meant he would need to win each of his final two games to have any chance at the top spot",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/swiercz-wins-125th-annual-us-open-qualifies-us-championship",
-         "pubDate" : "Mon, 04 Aug 2025 00:00:00",
-         "title" : "Swiercz Wins 125th Annual U.S. Open, Qualifies For U.S. Championship"
       },
       {
          "description" : "Last Updated on 3rd August 2025 by WebAdmin Coventry will be transformed into a city of chess next summer as the University of Warwick hosts the 2026 British Chess Championships....",
