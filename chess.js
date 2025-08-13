@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last Updated on 13th August 2025 by WebAdmin The new Coventry International will take place from Monday 26th October to Saturday 31st October 2025 at the Holiday Inn Coventry M6,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2025-coventry-international/",
+         "pubDate" : "Wed, 13 Aug 2025 15:22:58",
+         "title" : "2025 Coventry International"
+      },
+      {
          "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-in-jammu-on-06-07-september-2025/",
          "pubDate" : "Wed, 13 Aug 2025 08:37:46",
          "title" : "Senior National Arbiter Seminar & Examination in Jammu on 06 & 07 September 2025"
+      },
+      {
+         "description" : "Not for the first time, GMs Hikaru Nakamura and Magnus Carlsen were your Titled Tuesday winners on August 12. Nakamura defeated GM Oleksandr Bortnyk in the final round of the first tournament, winning it on tiebreaks over Bortnyk and two others. I...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-carlsen-win-titled-tuesday-august-12-2025",
+         "pubDate" : "Wed, 13 Aug 2025 08:04:01",
+         "title" : "Carlsen's Near Perfection Costs Nakamura Sweep"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123272820.cms\" />Vincent Keymer maintained his lead at the Chennai Grand Masters after a draw against Arjun Erigaisi. Keymer, with 4.5 points, is closely followed by Arjun and Awonder Liang, both at 3.5 points. Awonder also crossed the 2700 rating mark. Anish Giri and Vidit Gujrathi played a 109-move draw in another intense match.",
@@ -650,14 +666,6 @@ news_feed (
          "title" : "Arjun Erigaisi, Anish Giri among top players looking to get into Classical groove at Chennai Grand Masters"
       },
       {
-         "description" : "Get ready to mix up your potions and enchant your opponent with your tactics! The 2025 Chess.com Spell Chess Championship is the next event of the Chess.com Community Championships, starting on August 14. The event will feature a $2,500 prize fund...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-2025-chesscom-spell-chess-championship",
-         "pubDate" : "Tue, 05 Aug 2025 08:00:00",
-         "title" : "Make Magic Happen In The 2025 Chess.com Spell Chess Championship Starting August 14"
-      },
-      {
          "description" : "This week's puzzles continue our series on the 2025 FIDE Women's World Cup (coverage here), with WGM Sabina Foisor bringing us some tactical highlights from the games and variations that kept us riveted throughout July. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -944,14 +952,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/man-ray-chess",
          "pubDate" : "Wed, 23 Jul 2025 20:00:00",
          "title" : "Permanent Attraction: Man Ray & Chess"
-      },
-      {
-         "description" : "The 19-year-old is the first Indian to reach the final of the Women's Chess World Cup.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45805183/teenager-divya-deshmukh-reach-chess-world-cup-final-first-indian?device=featurephone",
-         "pubDate" : "Wed, 23 Jul 2025 14:40:00",
-         "title" : "Teenager Divya Deshmukh slays nerves and seeded players to reach first Chess World Cup final"
       }
    ]
 }
