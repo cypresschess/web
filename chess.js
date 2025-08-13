@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/stl-rb-2025-postgame-day-3/\">POSTGAME DAY 3 | #STLRapidBlitz</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/stl-rb-2025-postgame-day-3/",
+         "pubDate" : "Wed, 13 Aug 2025 23:16:24",
+         "title" : "POSTGAME DAY 3 | #STLRapidBlitz"
+      },
+      {
          "description" : "The fourth event of the 2025 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 11-15 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the Grand Chess Tour: Alireza Firouzja, R Praggnanandhaa and Maxime Vachier-Lagrave. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,22 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2025-coventry-international/",
          "pubDate" : "Wed, 13 Aug 2025 15:22:58",
          "title" : "2025 Coventry International"
+      },
+      {
+         "description" : "GM Vincent Keymer defeated GM Awonder Liang in round seven of the&#38;nbsp;Quantbox Chennai Grand Masters 2025 to break into the world top 10 for the first time. GM Arjun Erigaisi trails by 1.5 points after a quiet draw against GM Anish Giri and is jo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-7",
+         "pubDate" : "Wed, 13 Aug 2025 13:59:15",
+         "title" : "Keymer Enters World Top 10 For 1st Time"
+      },
+      {
+         "description" : "\"When I play a lot of players, what I immediately see is mistakes,\" says Anish Giri",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45966032/experience-defensive-prowess-key-anish-giri-charts-path-world-championship?device=featurephone",
+         "pubDate" : "Wed, 13 Aug 2025 11:46:00",
+         "title" : "Experience, defensive prowess the key as Anish Giri charts path to World Championship"
       },
       {
          "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
@@ -106,12 +130,12 @@ news_feed (
          "title" : "Wednesday Workout: FIDE Women's World Cup, Pt. 3"
       },
       {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-day-2/\">POSTGAME DAY 2</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-day-2-stl-rb-2025/\">POSTGAME DAY 2 | #STLRapidBlitz</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-day-2/",
+         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-day-2-stl-rb-2025/",
          "pubDate" : "Tue, 12 Aug 2025 23:00:39",
-         "title" : "POSTGAME DAY 2"
+         "title" : "POSTGAME DAY 2 | #STLRapidBlitz"
       },
       {
          "description" : "GM Fabiano Caruana wrested the lead from GM Levon Aronian in the last round of day two in the 2025 Saint Louis Rapid &#38;amp; Blitz. He won their direct encounter to finish the day with 10 points. Tied in second-third are Aronian and GM Wesley So, wh...",
@@ -186,12 +210,12 @@ news_feed (
          "title" : "Tactics Tuesday: Women's World Cup, Pt. 3"
       },
       {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-day-1-rapid-is-underway-stl-rb-2025/\">POSTGAME DAY 1: Rapid is Underway!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-day-1-rapid-is-underway-stl-rb-2025/\">POSTGAME DAY 1: Rapid is Underway! | #STLRapidBlitz</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-day-1-rapid-is-underway-stl-rb-2025/",
          "pubDate" : "Mon, 11 Aug 2025 23:15:15",
-         "title" : "POSTGAME DAY 1: Rapid is Underway!"
+         "title" : "POSTGAME DAY 1: Rapid is Underway! | #STLRapidBlitz"
       },
       {
          "description" : "GM Levon Aronian leads the 2025 Saint Louis Rapid &#38;amp; Blitz with a perfect 6/6 score after the first three rounds of rapid chess. GM Fabiano Caruana had a strong start as well with 5/6&#38;mdash;two wins and a draw. World Champion Gukesh Dommaraju b...",
@@ -550,7 +574,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/kaggle-game-arena-chess-2025-day-3",
-         "pubDate" : "Thu, 07 Aug 2025 14:22:47",
+         "pubDate" : "Thu, 07 Aug 2025 14:22:00",
          "title" : "OpenAI's o3 Crushes Grok 4 In Final, Wins Kaggle's AI Chess Exhibition Tournament"
       },
       {
@@ -664,14 +688,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapid-blitz-chess-championship-2025-commenced-in-greece/",
          "pubDate" : "Tue, 05 Aug 2025 20:28:42",
          "title" : "European Youth Rapid & Blitz Chess Championship 2025 commenced in Greece"
-      },
-      {
-         "description" : "The inaugural day of the AI chess exhibition match in Google&#39;s new Kaggle Game Arena project saw dominating performances by four of the Large Language Models (LLMs) on display. Four 4-0 sweeps took Gemini 2.5 Pro, o4-mini, Grok 4, and o3 to the Se...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kaggle-game-arena-chess-2025-day-1",
-         "pubDate" : "Tue, 05 Aug 2025 15:07:00",
-         "title" : "Grok 4 Dominates AI Chess Tournament Day 1"
       },
       {
          "description" : "CGM brings with it circuit points and the incentive of building form and momentum as the 2026 World Championship cycle starts.",
@@ -952,14 +968,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-8-only-two-rounds-left-to-make-their-mark-2025-us-national-championships/",
          "pubDate" : "Wed, 23 Jul 2025 23:33:13",
          "title" : "POSTGAME ROUND 8: Only Two Rounds Left to Make Their Mark!"
-      },
-      {
-         "description" : "Over the past 20 years Larry List has curated exhibitions, and written primarily about the interrelationships between chess and visual art. To coincide with a Man Ray exhibition of photos at the Metropolitan Museum of Art this September, Hirmer Verlag of Munich is publishing his new book On Man Ray, the closest artist friend of the famous 20th century artist Marcel Duchamp. It is lavishly illustrated with color photos, with a solid and attractive layout. | Man Ray self-portrait 1926 Centre Pompidou",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/man-ray-chess",
-         "pubDate" : "Wed, 23 Jul 2025 20:00:00",
-         "title" : "Permanent Attraction: Man Ray & Chess"
       }
    ]
 }
