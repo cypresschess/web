@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pavel Eljanov, the top seed by Elo rating, has won the Zeeland Open at the HZ University of Applied Science in Vlissingen, a Dutch city in the county of Zeeland, edging out Eelke de Boer on tiebreaks after both finished level on points. Full report by Gerd Dening. | Photos: Gerd Densing and Tina Rouwendal (teaser photo)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eljanov-wins-zeeland-open",
+         "pubDate" : "Wed, 13 Aug 2025 08:40:00",
+         "title" : "Pavel Eljanov wins HZ University of Applied Science Tournament in Zeeland"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123272820.cms\" />Vincent Keymer maintained his lead at the Chennai Grand Masters after a draw against Arjun Erigaisi. Keymer, with 4.5 points, is closely followed by Arjun and Awonder Liang, both at 3.5 points. Awonder also crossed the 2700 rating mark. Anish Giri and Vidit Gujrathi played a 109-move draw in another intense match.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-arjun-erigaisi-battles-back-to-hold-vincent-keymer-in-tense-draw/articleshow/123272820.cms",
+         "pubDate" : "Wed, 13 Aug 2025 05:38:53",
+         "title" : "Chennai GM 2025: Arjun battles back to hold Keymer in tense draw"
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-day-2/\">POSTGAME DAY 2</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-day-2/",
          "pubDate" : "Tue, 12 Aug 2025 23:00:39",
          "title" : "POSTGAME DAY 2"
+      },
+      {
+         "description" : "GM Fabiano Caruana wrested the lead from GM Levon Aronian in the last round of day two in the 2025 Saint Louis Rapid &#38;amp; Blitz. He won their direct encounter to finish the day with 10 points. Tied in second-third are Aronian and GM Wesley So, wh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-saint-louis-rapid-and-blitz-day-2",
+         "pubDate" : "Tue, 12 Aug 2025 22:18:42",
+         "title" : "Caruana Leads After Direct Encounter With Aronian"
       },
       {
          "description" : "The fourth event of the 2025 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 11-15 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the Grand Chess Tour: Alireza Firouzja, R Praggnanandhaa and Maxime Vachier-Lagrave. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
@@ -30,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-6",
-         "pubDate" : "Tue, 12 Aug 2025 14:41:17",
+         "pubDate" : "Tue, 12 Aug 2025 14:41:00",
          "title" : "Awonder Hits 2700, Catches Arjun In Chennai"
       },
       {
@@ -442,22 +466,6 @@ news_feed (
          "title" : "Magnus Carlsen shows class and wins $250,000 at frantic Esports World Cup"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123181165.cms\" />Arjun Erigaisi, aiming to build confidence for the World Championship cycle, secured a crucial victory against Awonder Liang at the Chennai Grand Masters. The world No. 5 showcased control in his 49-move win, marking a positive start to the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-arjun-erigaisi-off-the-blocks-with-win/articleshow/123181165.cms",
-         "pubDate" : "Fri, 08 Aug 2025 05:49:22",
-         "title" : "Chennai Grand Masters: Arjun Erigaisi off the blocks with win"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123180898.cms\" />Anish Giri, a seasoned chess player, highlights the game's evolution due to chess engines, contrasting it with his early career facing legends like Magnus Carlsen. He emphasises the shift in preparation and approach, noting young players' advantage of adapting to the current engine-driven landscape.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-cant-recognise-the-game-i-played-10-years-ago-anish-giri-on-changes-in-chess/articleshow/123180898.cms",
-         "pubDate" : "Fri, 08 Aug 2025 05:38:10",
-         "title" : "'I can't recognise the game I played 10 years ago': Anish Giri on changes in chess"
-      },
-      {
          "description" : "A former chess prodigy from China has been banned for six months after losing 13 consecutive games over two tournaments and dropping 400 Elo points in a year.&#38;nbsp; FIDE has frequently investigated cases of suspected use of computer assistance, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -632,14 +640,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-womens-world-cup-pt-2",
          "pubDate" : "Tue, 05 Aug 2025 00:00:00",
          "title" : "Tactics Tuesday: Women's World Cup, Pt. 2"
-      },
-      {
-         "description" : "World number-one GM Hou Yifan defeated GM Karina Ambartsumova 11-3 in the opening match of the 2025 Women&#39;s Speed Chess Championship, followed immediately by IM Alice Lee beating GM Vaishali Rameshbabu 8-6 on the same day. While the first match wa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-wscc-ro16-hou-ambartsumova-vaishali-lee",
-         "pubDate" : "Mon, 04 Aug 2025 12:23:00",
-         "title" : "Lee Wins 5 In A Row Vs. Vaishali, Advances With Hou Yifan"
       },
       {
          "description" : "The Caro-Kann Defense (Advance Variation) is, by far, the most popular opening over the last year, from June 2024 to May 2025, for players participating in US Chess ICCF server-based games. With just over 5% of the games on the server using the Caro-Kann (Advance Variation) over the last year, no other opening even came close in popularity.The Advance Variation is a family of lines within the Caro-Kann Defense, which is one of the most solid and respected responses to 1.e4.The ECO Code for the Caro-Kann Defense (Advance Variation) is B12.Historical research for the Caro-Kann Defense informs us that the name is the combination of two men: Horatio Caro, from the United Kingdom, and Marcus Kann",
@@ -936,14 +936,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiters-seminar-exam-at-agartala-on-21-22-august-2025/",
          "pubDate" : "Wed, 23 Jul 2025 09:24:21",
          "title" : "Senior National Arbiters Seminar & Exam at Agartala on 21 & 22 August 2025"
-      },
-      {
-         "description" : "The&#160;FIDE Council Decision on Russian Women's Team Participation in&#160;the&#160;World Team Championship 2025 The European Chess Union (ECU) has reviewed the decision made at the Online FIDE Council Meeting held on July 18, 2025, regarding the participation of Russian National Team in the 2025 Women's World Team Championship. We note that this decision directly contradicts the most recent decisions of the FIDE General Assembly taken in Budapest, where two motions for lifting the sanctions against the Russian Chess Federation were rejected by a vast majority by FIDE member nations. Additionally,&#160;this&#160;matter was not&#160;originally&#160;on the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-statement-on-fide-council-decision/",
-         "pubDate" : "Wed, 23 Jul 2025 06:48:33",
-         "title" : "ECU Statement on FIDE Council Decision"
       }
    ]
 }
