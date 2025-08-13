@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-masters-live",
+         "pubDate" : "Wed, 13 Aug 2025 11:30:00",
+         "title" : "Chennai Masters - Live!"
+      },
+      {
+         "description" : "Vincent Keymer retained his one-point lead in the Masters section of the tournament in Chennai after drawing with Arjun Erigaisi in their much-anticipated round-six clash. Wins for Jorden van Foreest, against Nihal Sarin, and Awonder Liang, over Pranav Venkatesh, brought the latter level with Arjun in second place. In the Challengers, Abhimanyu Puranik suffered his first loss to M Pranesh, who joined him and Leon Luke Mendonca in a three-way tie for first with three rounds remaining. | Photos: Anmol Bhargav",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2025-6",
+         "pubDate" : "Wed, 13 Aug 2025 11:00:00",
+         "title" : "Chennai GMs: Liang scores, joins Arjun in second place"
+      },
+      {
+         "description" : "The ECU E-Magazine July 2025 is out! In this edition of the ECU Magazine, you may read about: The ECU Magazine July 2025 can be read online together with interactive links, or it can be downloaded in PDF format below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-july-2025/",
+         "pubDate" : "Wed, 13 Aug 2025 10:34:48",
+         "title" : "ECU E-Magazine July 2025"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123276752.cms\" />Rohith Krishna S has become India's 89th Grandmaster, achieving his final GM norm at the Almaty Masters Qonaev Cup in Kazakhstan. The 20-year-old's victory over Artur Davtyan secured the title, pushing him past the 2500 Elo rating. This milestone follows Divya Deshmukh's recent Grandmaster title, highlighting India's growing presence in the chess world.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-rohith-krishna-s-secures-third-and-final-gm-norm-becomes-indias-89th-grandmaster/articleshow/123276752.cms",
+         "pubDate" : "Wed, 13 Aug 2025 09:34:39",
+         "title" : "Rohith Krishna S becomes India's 89th Grandmaster; secures third GM norm at Almaty Masters"
+      },
+      {
          "description" : "Pavel Eljanov, the top seed by Elo rating, has won the Zeeland Open at the HZ University of Applied Science in Vlissingen, a Dutch city in the county of Zeeland, edging out Eelke de Boer on tiebreaks after both finished level on points. Full report by Gerd Dening. | Photos: Gerd Densing and Tina Rouwendal (teaser photo)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/eljanov-wins-zeeland-open",
          "pubDate" : "Wed, 13 Aug 2025 08:40:00",
          "title" : "Pavel Eljanov wins HZ University of Applied Science Tournament in Zeeland"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation , All J &#38; K Chess Association is organizing Senior National Arbiters Seminar &#38; Exam on 06 &#38; 07 September",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-in-jammu-on-06-07-september-2025/",
+         "pubDate" : "Wed, 13 Aug 2025 08:37:46",
+         "title" : "Senior National Arbiter Seminar & Examination in Jammu on 06 & 07 September 2025"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123272820.cms\" />Vincent Keymer maintained his lead at the Chennai Grand Masters after a draw against Arjun Erigaisi. Keymer, with 4.5 points, is closely followed by Arjun and Awonder Liang, both at 3.5 points. Awonder also crossed the 2700 rating mark. Anish Giri and Vidit Gujrathi played a 109-move draw in another intense match.",
@@ -30,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-saint-louis-rapid-and-blitz-day-2",
-         "pubDate" : "Tue, 12 Aug 2025 22:18:42",
+         "pubDate" : "Tue, 12 Aug 2025 22:18:00",
          "title" : "Caruana Leads After Direct Encounter With Aronian"
       },
       {
@@ -56,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-6",
          "pubDate" : "Tue, 12 Aug 2025 14:41:00",
          "title" : "Awonder Hits 2700, Catches Arjun In Chennai"
-      },
-      {
-         "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-masters-live",
-         "pubDate" : "Tue, 12 Aug 2025 10:30:00",
-         "title" : "Chennai Masters - Live!"
       },
       {
          "description" : "Recently, a 17-year-old player in Germany won the national girls' under-18 tournament. The head of the German commission for women's chess was less thrilled. The winner, you know, who identifies and officially categorizes as female, was born as a boy. Dominic Lawson, who writes for many major British newspapers, a strong chess player (and president of the English Chess Federation), in his words \"managed to smuggle in chess as the subject\" in his Sunday Times column.",
@@ -440,14 +472,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-to-host-third-edition-of-global-chess-league-in-december-adds-to-countrys-busy-chess-calendar/articleshow/123186413.cms",
          "pubDate" : "Fri, 08 Aug 2025 10:26:12",
          "title" : "India to host third edition of Global Chess League in December; adds to country's busy chess calendar"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123185492.cms\" />World chess champion Gukesh Dommaraju attributes his success to meditation and yoga, which helped him transform from an impulsive player to a composed one. Speaking in Poland, Gukesh shared how these practices improved his emotional control and focus, crucial for his game.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-used-to-throw-tantrums-d-gukesh-shares-how-meditation-changed-his-chess-and-life/articleshow/123185492.cms",
-         "pubDate" : "Fri, 08 Aug 2025 09:58:40",
-         "title" : "'I used to throw tantrums': D Gukesh shares how meditation changed his chess"
       },
       {
          "description" : "The World Amateur Chess Championship will be held at Vrnjacka Banja, Serbia from 4th to 14th November, 2025. The detailed regulations you can find at&#160;FIDE",
@@ -928,14 +952,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45805183/teenager-divya-deshmukh-reach-chess-world-cup-final-first-indian?device=featurephone",
          "pubDate" : "Wed, 23 Jul 2025 14:40:00",
          "title" : "Teenager Divya Deshmukh slays nerves and seeded players to reach first Chess World Cup final"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation , All Tripura Chess Association is organizing Senior National Arbiters Seminar &#38; Exam on 21 &#38; 22 August 2025 at Meeting",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiters-seminar-exam-at-agartala-on-21-22-august-2025/",
-         "pubDate" : "Wed, 23 Jul 2025 09:24:21",
-         "title" : "Senior National Arbiters Seminar & Exam at Agartala on 21 & 22 August 2025"
       }
    ]
 }
