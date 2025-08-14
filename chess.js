@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vincent Keymer claimed his fourth victory of the Quantbox Chennai Grand Masters in round seven, defeating Awonder Liang with black to extend his lead in the standings and become the first German since Robert H&uuml;bner to enter the world's top ten. Karthikeyan Murali and Nihal Sarin also won in the Masters, while Pranesh M and Leon Luke Mendonca emerged as co-leaders in the Challengers after both secured important wins, with former leader Abhimanyu Puranik now half a point behind. | Photos: Dr. Vidhi Karelia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2025-7",
+         "pubDate" : "Thu, 14 Aug 2025 07:51:00",
+         "title" : "Chennai GMs: Keymer wins, enters world top 10"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123297305.cms\" />Vincent Keymer dominates in Chennai. He secures the World No. 10 spot. Keymer wins against Awonder Liang. He extends his lead. Arjun Erigaisi and Karthikeyan Murali are in second place. Anish Giri draws all seven games. He faces criticism. Giri defends his drawing record. He recalls a past event. He learned to appreciate draws.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-vincent-keymer-closes-in-on-title-with-win/articleshow/123297305.cms",
+         "pubDate" : "Thu, 14 Aug 2025 06:36:21",
+         "title" : "Chennai Grand Masters 2025: Vincent Keymer closes in on title with win"
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/stl-rb-2025-postgame-day-3/\">POSTGAME DAY 3 | #STLRapidBlitz</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/stl-rb-2025-postgame-day-3/",
          "pubDate" : "Wed, 13 Aug 2025 23:16:24",
          "title" : "POSTGAME DAY 3 | #STLRapidBlitz"
+      },
+      {
+         "description" : "GM Fabiano Caruana nearly set a new record in the Grand Chess Tour with a score of 16/18, but nerves got the better of him and he collapsed from a winning position against World Champion Gukesh Dommaraju. Despite that loss, he continues to lead th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-saint-louis-rapid-and-blitz-day-3",
+         "pubDate" : "Wed, 13 Aug 2025 23:15:12",
+         "title" : "Caruana Leads, Misses Out On Record After Loss Vs. Gukesh"
       },
       {
          "description" : "The fourth event of the 2025 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 11-15 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the Grand Chess Tour: Alireza Firouzja, R Praggnanandhaa and Maxime Vachier-Lagrave. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45966032/experience-defensive-prowess-key-anish-giri-charts-path-world-championship?device=featurephone",
          "pubDate" : "Wed, 13 Aug 2025 11:46:00",
          "title" : "Experience, defensive prowess the key as Anish Giri charts path to World Championship"
-      },
-      {
-         "description" : "Due to a one-day delay caused by a cable fire at the Hyatt Regency Hotel, the third edition of the Chennai Masters is now underway. The event features both a Masters tournament and a Challengers tournament, both with a strong and attractive field. Top seed in the Masters is Arjun Erigaisi. Live coverage begins daily at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), with the final round on August 13 starting three hours earlier.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-masters-live",
-         "pubDate" : "Wed, 13 Aug 2025 11:30:00",
-         "title" : "Chennai Masters - Live!"
       },
       {
          "description" : "Vincent Keymer retained his one-point lead in the Masters section of the tournament in Chennai after drawing with Arjun Erigaisi in their much-anticipated round-six clash. Wins for Jorden van Foreest, against Nihal Sarin, and Awonder Liang, over Pranav Venkatesh, brought the latter level with Arjun in second place. In the Challengers, Abhimanyu Puranik suffered his first loss to M Pranesh, who joined him and Leon Luke Mendonca in a three-way tie for first with three rounds remaining. | Photos: Anmol Bhargav",
@@ -506,14 +522,6 @@ news_feed (
          "title" : "Harika Dronavalli plays Chennai Grand Masters with 2-year-old daughter: 'Happy she could witness my life in a way'"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123191914.cms\" />Vincent Keymer's masterful play secured him the sole lead in the Masters category at the Chennai Grand Masters 2025, while Ray Robson delivered a stunning upset against Vidit Gujrathi. In the Challengers section, Iniyan P showcased his prowess with a decisive victory over Harika Dronavalli.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-germany-no-1-vincent-keymer-takes-sole-lead-after-arjun-erigaisi-held-to-draw/articleshow/123191914.cms",
-         "pubDate" : "Fri, 08 Aug 2025 16:02:36",
-         "title" : "Chennai Grand Masters: Keymer takes sole lead after Erigaisi held to draw"
-      },
-      {
          "description" : "GM Vincent Keymer is the only player on a perfect 2/2 in either section of the&#38;nbsp;Quantbox Chennai Grand Masters 2025 after winning a wild game with Black against GM Pranav Venkatesh. The other winner was GM Ray Robson, who won a thrilling time ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/christopher-yoo-18-month-ban-fide-harassment",
          "pubDate" : "Wed, 06 Aug 2025 10:20:00",
          "title" : "Christopher Yoo Found Guilty Of Harassment, Receives 18-Month Ban"
-      },
-      {
-         "description" : "We&#39;re excited to announce our new partnership with Zenni Optical, the leading online eyewear retailer. With the new partnership, Zenni Optical will support Chess.com&#39;s most prestigious events, including the Speed Chess Championship (SCC), Champion...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/zenni-optical-partners-with-chesscom",
-         "pubDate" : "Wed, 06 Aug 2025 10:00:00",
-         "title" : "Chess.com and Zenni Optical Announce Partnership to Champion Eye Health and Elevate Competitive Chess"
       },
       {
          "description" : "The Air Force Sports Control Board (AFSCB) is inviting applications from outstanding sportsmen to join the Indian Air Force as Agniveervayu (Sports). For the first",
@@ -952,14 +952,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45813656/koneru-humpy-makes-india-vs-india-2025-chess-world-cup-final-divya-deshmukh?device=featurephone",
          "pubDate" : "Thu, 24 Jul 2025 13:30:00",
          "title" : "Koneru Humpy makes it India vs India in 2025 Chess World Cup final"
-      },
-      {
-         "description" : "India's 19-year-old chess prodigy, IM Divya Deshmukh, scripted history by becoming the first Indian woman to reach the finals of the FIDE Women's World Cup,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/divya-deshmukh-creates-history-storms-into-finals/",
-         "pubDate" : "Thu, 24 Jul 2025 05:26:29",
-         "title" : "Divya Deshmukh Creates History, Storms into Finals"
       }
    ]
 }
