@@ -10,7 +10,7 @@ news_feed (
          "title" : "Fabiano Caruana wins the St Louis Rapid but loses to Gukesh in the final round - Rapid 7-9"
       },
       {
-         "description" : "The third edition of the Chennai Masters consists of a Masters Tournament and a Challengers Tournament. With two rounds to go, Vincent Keymer leads the Masters by 1.5 points and has very good chances of winning the tournament. It would be his greatest success so far in a tournament with classical time control. With his victory over Awonder Liang in round 7, Keymer moved up to tenth place in the live world rankings, making him the first German to achieve this since Dr. Robert H&uuml;bner. Live coverage of round 8 begins at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), the final round on August 15 starts three hours earlier, at 8.30 CEST.",
+         "description" : "The third edition of the Chennai Masters consists of a Masters Tournament and a Challengers Tournament. Vincent Keymer secured overall victory in the Masters with a round to spare. With his win over Awonder Liang in round 7, Keymer moved up to tenth place in the live world rankings, making him the first German to achieve this since Dr. Robert H&uuml;bner. Live coverage of round 8 begins at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. IST), the final round on August 15 starts three hours earlier, at 8.30 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chennai-masters-live",
@@ -78,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ju-lagno-advance-to-wscc-semifinals",
-         "pubDate" : "Wed, 13 Aug 2025 18:33:05",
+         "pubDate" : "Wed, 13 Aug 2025 18:33:00",
          "title" : "Ju and Lagno Advance To WSCC Semifinals"
       },
       {
@@ -586,7 +586,7 @@ news_feed (
          "title" : "FIDE Bans Former Chinese Chess Prodigy For Sandbagging"
       },
       {
-         "description" : "This fall, US Chess will begin hosting online prize arena tournaments on Chess.com exclusively for US Chess members. This innovative format will allow participants to come late, leave early, and play as many games as they can without waiting for a round to finish.As a soft launch, the first test arena will be on Friday, August 15 at 3 p.m. CDT. To register, please read our Members Only Prize Arena FAQ page and follow the instructions there. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> We invite all current members to follow the instructions below to register and compete. This will be a great opportunity to test the format and infrastructure, so the more people who re",
+         "description" : "This fall, US Chess will begin hosting online prize arena tournaments on Chess.com exclusively for US Chess members. This innovative format will allow participants to come late, leave early, and play as many games as they can without waiting for a round to finish.As a soft launch, the first test arena will be on Friday, August 15 at 3 p.m. CDT. To register, please read our Members Only Prize Arena FAQ page and request to join the club here. Note this is a new club, and all players must join to participate. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> We invite all current members to follow the instructions below to register and compete. This will be a great opportuni",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/introducing-us-chess-members-only-online-prize-arenas",
@@ -730,7 +730,7 @@ news_feed (
          "title" : "Check is in the Mail, August 2025: Caro-Kann Defense (Advance Variation)"
       },
       {
-         "description" : "TD Help or Interference?At the end of a long tourament game, it was clock-banging time. Both contestants were aiming to win via a flag fall, or a fast checkmate: tick, tick, tick. Pawns did their best foot-soldier impression and raced to reach the opposite side of the board. Their aim was simply to become royalty - to become a queen. Then fate intervened.Your pawn was a lot closer to gaining a throne than your opponent's. Then it happened. Your lonely pawn reached its destination. The promotion ceremony only needed a queen for the regal swap. Her majesty was available to you if you stretched out in a semi-seated, semi-standing position to reach her. Her majesty was hastily nabbed by your ner",
+         "description" : "TD Help or Interference?At the end of a long tournament game, it was clock-banging time. Both contestants were aiming to win via a flag fall, or a fast checkmate: tick, tick, tick. Pawns did their best foot-soldier impression and raced to reach the opposite side of the board. Their aim was simply to become royalty - to become a queen. Then fate intervened.Your pawn was a lot closer to gaining a throne than your opponent's. Then it happened. Your lonely pawn reached its destination. The promotion ceremony only needed a queen for the regal swap. Her majesty was available to you if you stretched out in a semi-seated, semi-standing position to reach her. Her majesty was hastily nabbed by your ne",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/just-rules-no-good-deed",
@@ -960,14 +960,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/clash-of-generations-svidler-erdogmus-2025",
          "pubDate" : "Fri, 25 Jul 2025 00:43:00",
          "title" : "Clash of Generations Svidler Erdogmus 2025 - Games and Results"
-      },
-      {
-         "description" : "Koneru Humpy will face Divya Deshmukh in the 2025 Women's Chess World Cup final after both Indians beat Chinese top seeds in the semis.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45813656/koneru-humpy-makes-india-vs-india-2025-chess-world-cup-final-divya-deshmukh?device=featurephone",
-         "pubDate" : "Thu, 24 Jul 2025 13:30:00",
-         "title" : "Koneru Humpy makes it India vs India in 2025 Chess World Cup final"
       }
    ]
 }
