@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth event of the 2025 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 11-15 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the Grand Chess Tour: Alireza Firouzja, R Praggnanandhaa and Maxime Vachier-Lagrave. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2025-live",
+         "pubDate" : "Thu, 14 Aug 2025 19:00:00",
+         "title" : "St. Louis Rapid & Blitz - Live!"
+      },
+      {
+         "description" : "The battle for victory in the rapid chess tournament in Saint Louis was a duel between Fabiano Caruana and Levon Aronian. In the final round, world champion Gukesh Dommaraju added some excitement with a victory over Caruana. However, Aronian was unable to capitalise on Caruana's defeat. | Photos: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2025-3",
+         "pubDate" : "Thu, 14 Aug 2025 17:30:00",
+         "title" : "St. Louis Rapid & Blitz: Caruana wins rapid section, Aronian second"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123309718.cms\" />Vincent Keymer dominated the Chennai Grand Masters 2025, securing the title with a round to spare and making history as the tournament's first sole champion. His impressive performance propelled him into the world's Top 10 on the live rating list. In the Challengers, Pranesh M leads, with a promotion to the 2026 Masters at stake.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-chess-vincent-keymer-creates-history-secures-title-with-a-round-to-spare-breaks-into-world-top-10/articleshow/123309718.cms",
+         "pubDate" : "Thu, 14 Aug 2025 17:18:04",
+         "title" : "Chennai Chess: Vincent Keymer creates history, secures title with a round to spare"
+      },
+      {
          "description" : " Fabiano Caruana almost set a record 8/9 score in the Saint Louis Rapid section of this combined rapid and blitz tournament. Caruana needed to beat World Champion Gukesh in the final round to set the new mark. The Gukesh - Caruana final round game was a wild struggle where Caruana outplayed the World Champion and obtained a winning position, but with time running short for Caruana, and the position remaining complicated, the position turned around. Gukesh, although far from accurate himself, brought home the full point in a long endgame. The game is annotated below. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chennai-masters-live",
          "pubDate" : "Thu, 14 Aug 2025 11:30:00",
          "title" : "Chennai Masters - Live!"
+      },
+      {
+         "description" : "GM-elect Divya Deshmukh dominated her first match in the Women&#39;s Speed Chess Championship and got off to a great start against GM Hou Yifan in her quarterfinal match on Wednesday. However, Hou fought back and the two played the closest WSCC match ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hou-wins-thriller-to-advance-to-wscc-semifinals",
+         "pubDate" : "Thu, 14 Aug 2025 11:28:58",
+         "title" : "Hou Wins Thriller To Advance To WSCC Semifinals"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123299765.cms\" />Anish Giri, participating in the Chennai Grand Masters 2025, shared his experiences with Indian cuisine. While acknowledging international options, he humorously noted the unexpected spiciness in dishes like pizza and burgers, despite knowing traditional Indian dishes are spicy. Giri currently stands in joint-fourth place, while Vincent Keymer leads the tournament.",
@@ -34,20 +66,20 @@ news_feed (
          "title" : "St. Louis Rapid and Blitz: D Gukesh recovers from early losses to claim fourth spot"
       },
       {
-         "description" : "Vincent Keymer claimed his fourth victory of the Quantbox Chennai Grand Masters in round seven, defeating Awonder Liang with black to extend his lead in the standings and become the first German since Robert H&uuml;bner to enter the world's top ten. Karthikeyan Murali and Nihal Sarin also won in the Masters, while Pranesh M and Leon Luke Mendonca emerged as co-leaders in the Challengers after both secured important wins, with former leader Abhimanyu Puranik now half a point behind. | Photos: Dr. Vidhi Karelia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2025-7",
-         "pubDate" : "Thu, 14 Aug 2025 07:51:00",
-         "title" : "Chennai GMs: Keymer wins, enters world top 10"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123297305.cms\" />Vincent Keymer dominates in Chennai. He secures the World No. 10 spot. Keymer wins against Awonder Liang. He extends his lead. Arjun Erigaisi and Karthikeyan Murali are in second place. Anish Giri draws all seven games. He faces criticism. Giri defends his drawing record. He recalls a past event. He learned to appreciate draws.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-vincent-keymer-closes-in-on-title-with-win/articleshow/123297305.cms",
          "pubDate" : "Thu, 14 Aug 2025 06:36:21",
          "title" : "Chennai Grand Masters 2025: Vincent Keymer closes in on title with win"
+      },
+      {
+         "description" : "For over a decade, IM Carissa Yip held the world record as the youngest girl to beat a grandmaster in a FIDE-rated classical game of chess, at the age of 10 years, 11 months, and 20 days. Almost 11 years later, two players have broken Yip's record - one in England; the other in the U.S. - only a day apart.England's WFM Bodhana Sivanandan, has received plenty of coverage since becoming the youngest member of any national team in last year's FIDE Olympiad. On Saturday, Aug. 9, she defeated GM Peter Wells in the final round of the 2025 British Chess Championships, clocking in at only 10 years, five months, and three days old. She also became eligible for the WIM title with her 5/9 score. <br> <",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/girls-over-gms-2-break-yips-record-one-weekend",
+         "pubDate" : "Thu, 14 Aug 2025 00:00:00",
+         "title" : "Girls over GMs: 2 Break Yip's Record in One Weekend"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/stl-rb-2025-postgame-day-3/\">POSTGAME DAY 3 | #STLRapidBlitz</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -66,28 +98,12 @@ news_feed (
          "title" : "Caruana Leads, Misses Out On Record After Loss Vs. Gukesh"
       },
       {
-         "description" : "The fourth event of the 2025 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 11-15 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the Grand Chess Tour: Alireza Firouzja, R Praggnanandhaa and Maxime Vachier-Lagrave. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2025-live",
-         "pubDate" : "Wed, 13 Aug 2025 19:00:00",
-         "title" : "St. Louis Rapid & Blitz - Live!"
-      },
-      {
          "description" : "GM Ju Wenjun&#39;s undefeated match record in the Women&#39;s Speed Chess Championship faced its hardest challenge yet as she needed tiebreaks to overcome GM Bibisara Assaubayeva by a score of 10.5-8.5. In the second match of the day, GM Kateryna Lagno do...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ju-lagno-advance-to-wscc-semifinals",
          "pubDate" : "Wed, 13 Aug 2025 18:33:00",
          "title" : "Ju and Lagno Advance To WSCC Semifinals"
-      },
-      {
-         "description" : "Levon Aronian was unable to repeat his strong performance from the previous day on the second day of the rapid chess tournament in Saint Louis. In the sixth round, he lost to Fabiano Caruana in the top match and relinquished the lead. Aronian shares second place with Weskey So going into the third day of action. | Photos: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2025-2",
-         "pubDate" : "Wed, 13 Aug 2025 18:25:00",
-         "title" : "St. Louis Rapid & Blitz: Caruana grabs the lead"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123284574.cms\" />Vincent Keymer surged ahead in the Chennai Grand Masters, extending his lead to 1.5 points after a decisive victory over Awonder Liang. M Karthikeyan's win against Vidit Gujrathi kept Indian hopes alive, while Arjun Erigaisi's draw against Anish Giri significantly hampered his chances. Keymer could clinch the title on Thursday with a win against Jorden van Foreest.",
@@ -120,14 +136,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45966032/experience-defensive-prowess-key-anish-giri-charts-path-world-championship?device=featurephone",
          "pubDate" : "Wed, 13 Aug 2025 11:46:00",
          "title" : "Experience, defensive prowess the key as Anish Giri charts path to World Championship"
-      },
-      {
-         "description" : "Vincent Keymer retained his one-point lead in the Masters section of the tournament in Chennai after drawing with Arjun Erigaisi in their much-anticipated round-six clash. Wins for Jorden van Foreest, against Nihal Sarin, and Awonder Liang, over Pranav Venkatesh, brought the latter level with Arjun in second place. In the Challengers, Abhimanyu Puranik suffered his first loss to M Pranesh, who joined him and Leon Luke Mendonca in a three-way tie for first with three rounds remaining. | Photos: Anmol Bhargav",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2025-6",
-         "pubDate" : "Wed, 13 Aug 2025 11:00:00",
-         "title" : "Chennai GMs: Liang scores, joins Arjun in second place"
       },
       {
          "description" : "The ECU E-Magazine July 2025 is out! In this edition of the ECU Magazine, you may read about: The ECU Magazine July 2025 can be read online together with interactive links, or it can be downloaded in PDF format below.",
@@ -466,14 +474,6 @@ news_feed (
          "title" : "Nakamura Wins 45th Bullet Brawl Following 30-Game Unbeaten Streak"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123207088.cms\" />Vincent Keymer achieved his third consecutive victory at the Chennai Grand Masters 2025, positioning himself as the sole leader in the Masters section. Arjun Erigaisi secured a win, closely trailing Keymer, while Vidit Gujrathi rebounded with a victory. In the Challengers section, Abhimanyu Puranik continued his winning streak, maintaining a competitive atmosphere.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-vincent-keymer-stays-perfect-dutch-no-1-anish-giri-remains-winless/articleshow/123207088.cms",
-         "pubDate" : "Sat, 09 Aug 2025 15:39:17",
-         "title" : "Chennai Grand Masters 2025: Keymer stays perfect; Giri remains winless"
-      },
-      {
          "description" : "GM Vincent Keymer made it 3/3 with another brilliant win, this time over GM Karthikeyan Murali, but he leads the Quantbox Chennai Grand Masters 2025 by just half a point after GM Arjun Erigaisi eased to victory over GM Ray Robson. It was a day of ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -674,14 +674,6 @@ news_feed (
          "title" : "ECF Awards 2025"
       },
       {
-         "description" : "GM Christopher Yoo has been handed an 18-month suspension from FIDE-rated events after the FIDE Ethics and Disciplinary Commission (EDC) found him guilty of multiple violations, including harassment, psychological abuse, and inappropriate conduct ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/christopher-yoo-18-month-ban-fide-harassment",
-         "pubDate" : "Wed, 06 Aug 2025 10:20:00",
-         "title" : "Christopher Yoo Found Guilty Of Harassment, Receives 18-Month Ban"
-      },
-      {
          "description" : "The Air Force Sports Control Board (AFSCB) is inviting applications from outstanding sportsmen to join the Indian Air Force as Agniveervayu (Sports). For the first",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -728,14 +720,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/check-mail-august-2025-caro-kann-defense-advance-variation",
          "pubDate" : "Mon, 04 Aug 2025 00:00:00",
          "title" : "Check is in the Mail, August 2025: Caro-Kann Defense (Advance Variation)"
-      },
-      {
-         "description" : "TD Help or Interference?At the end of a long tournament game, it was clock-banging time. Both contestants were aiming to win via a flag fall, or a fast checkmate: tick, tick, tick. Pawns did their best foot-soldier impression and raced to reach the opposite side of the board. Their aim was simply to become royalty - to become a queen. Then fate intervened.Your pawn was a lot closer to gaining a throne than your opponent's. Then it happened. Your lonely pawn reached its destination. The promotion ceremony only needed a queen for the regal swap. Her majesty was available to you if you stretched out in a semi-seated, semi-standing position to reach her. Her majesty was hastily nabbed by your ne",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-no-good-deed",
-         "pubDate" : "Mon, 04 Aug 2025 00:00:00",
-         "title" : "Just the Rules: No Good Deed?"
       },
       {
          "description" : "Last Updated on 3rd August 2025 by WebAdmin Coventry will be transformed into a city of chess next summer as the University of Warwick hosts the 2026 British Chess Championships....",
