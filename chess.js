@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Fabiano Caruana almost set a record 8/9 score in the Saint Louis Rapid section of this combined rapid and blitz tournament. Caruana needed to beat World Champion Gukesh in the final round to set the new mark. The Gukesh - Caruana final round game was a wild struggle where Caruana outplayed the World Champion and obtained a winning position, but with time running short for Caruana, and the position remaining complicated, the position turned around. Gukesh, although far from accurate himself, brought home the full point in a long endgame. The game is annotated below. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/fabiano-caruana-wins-the-st-louis-rapid-but-loses-to-gukesh-in-the-final-round",
+         "pubDate" : "Thu, 14 Aug 2025 11:52:00",
+         "title" : "Fabiano Caruana wins the St Louis Rapid but loses to Gukesh in the final round - Rapid 7-9"
+      },
+      {
+         "description" : "The third edition of the Chennai Masters consists of a Masters Tournament and a Challengers Tournament. With two rounds to go, Vincent Keymer leads the Masters by 1.5 points and has very good chances of winning the tournament. It would be his greatest success so far in a tournament with classical time control. With his victory over Awonder Liang in round 7, Keymer moved up to tenth place in the live world rankings, making him the first German to achieve this since Dr. Robert H&uuml;bner. Live coverage of round 8 begins at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. BST), the final round on August 15 starts three hours earlier, at 8.30 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-masters-live",
+         "pubDate" : "Thu, 14 Aug 2025 11:30:00",
+         "title" : "Chennai Masters - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123299765.cms\" />Anish Giri, participating in the Chennai Grand Masters 2025, shared his experiences with Indian cuisine. While acknowledging international options, he humorously noted the unexpected spiciness in dishes like pizza and burgers, despite knowing traditional Indian dishes are spicy. Giri currently stands in joint-fourth place, while Vincent Keymer leads the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-why-would-beef-be-spicy-dutch-no-1-anish-giri-on-indian-food/articleshow/123299765.cms",
+         "pubDate" : "Thu, 14 Aug 2025 08:56:50",
+         "title" : "Chess | 'Why would beef be spicy?': Dutch No. 1 Anish Giri on Indian food"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123299140.cms\" />D Gukesh, India's world champion, showcased resilience at the St. Louis Rapid & Blitz, recovering from an initial loss to finish fourth in the rapid section. Despite a shaky start, Gukesh secured crucial victories against Wesley So and Fabiano Caruana.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/st-louis-rapid-and-blitz-d-gukesh-recovers-from-early-losses-to-claim-fourth-spot/articleshow/123299140.cms",
+         "pubDate" : "Thu, 14 Aug 2025 07:54:30",
+         "title" : "St. Louis Rapid and Blitz: D Gukesh recovers from early losses to claim fourth spot"
+      },
+      {
          "description" : "Vincent Keymer claimed his fourth victory of the Quantbox Chennai Grand Masters in round seven, defeating Awonder Liang with black to extend his lead in the standings and become the first German since Robert H&uuml;bner to enter the world's top ten. Karthikeyan Murali and Nihal Sarin also won in the Masters, while Pranesh M and Leon Luke Mendonca emerged as co-leaders in the Challengers after both secured important wins, with former leader Abhimanyu Puranik now half a point behind. | Photos: Dr. Vidhi Karelia",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-saint-louis-rapid-and-blitz-day-3",
-         "pubDate" : "Wed, 13 Aug 2025 23:15:12",
+         "pubDate" : "Wed, 13 Aug 2025 23:15:00",
          "title" : "Caruana Leads, Misses Out On Record After Loss Vs. Gukesh"
       },
       {
@@ -496,22 +528,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-second-annual-hikarus-chess-4-the-masses",
          "pubDate" : "Sat, 09 Aug 2025 08:00:00",
          "title" : "Announcing Hikaru's Second Annual Chess 4 The Masses Sponsored By Kick"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123202045.cms\" />Velammal MHS School's chess team triumphed at the 2025 World Schools Team Championship, continuing India's chess dominance. The Chennai-based institution, known for nurturing chess talent like GMs D Gukesh and R Praggnanandhaa, provides academic flexibility and professional coaching. Velammal's success, fueled by Chennai's chess culture and support for players, solidifies its reputation as a \"Chess Factory.\"",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gold-again-world-chess-champion-d-gukesh-world-junior-champion-pranav-v-and-now-this-velammal-keeps-minting-talents/articleshow/123202045.cms",
-         "pubDate" : "Sat, 09 Aug 2025 07:10:43",
-         "title" : "Gold again! D Gukesh, Pranav V and now this - Velammal keeps minting talents"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123201163.cms\" />Inspired by Chennai's Praggnanandhaa and Vaishali, Dutch siblings Jorden and Machteld van Foreest clinched national titles. At the Chennai Grand Masters, Jorden drew with Arjun Erigaisi, while Vaishali also had a draw. Keymer leads after defeating Pranav. Other matches saw Robson triumph over Gujrathi, and Sarin drew with Giri after a late blunder.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-jorden-holds-arjun-keymer-in-sole-lead/articleshow/123201163.cms",
-         "pubDate" : "Sat, 09 Aug 2025 05:42:09",
-         "title" : "Chennai Grand Masters: Jorden holds Arjun; Keymer in sole lead"
       },
       {
          "description" : "For the first time, Harika's daughter Hanvika is experiencing her mother's world around the chess board.",
