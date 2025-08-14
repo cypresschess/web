@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The fourth event of the 2025 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 11-15 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the Grand Chess Tour: Alireza Firouzja, R Praggnanandhaa and Maxime Vachier-Lagrave. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-day-4-stlrapidblitz/\">POSTGAME DAY 4 | #STLRapidBlitz</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-day-4-stlrapidblitz/",
+         "pubDate" : "Thu, 14 Aug 2025 22:46:29",
+         "title" : "POSTGAME DAY 4 | #STLRapidBlitz"
+      },
+      {
+         "description" : "The Babson Task, one of the most difficult feats in chess composition, has finally been achieved in an endgame study for the first time in history. Italian composer Daniele Guglielmo Gatti succeeded where others, including leading figures, had fallen short, creating a fully legal, perfectly economical and thematically pure version. Published in EG in January 2025, the work marks a historic milestone in the art of chess composition.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2025-live",
-         "pubDate" : "Thu, 14 Aug 2025 19:00:00",
-         "title" : "St. Louis Rapid & Blitz - Live!"
+         "link" : "https://en.chessbase.com/post/babson-task-modern-realization",
+         "pubDate" : "Thu, 14 Aug 2025 21:10:00",
+         "title" : "The Babson Task - A modern realization"
+      },
+      {
+         "description" : "The third edition of the Chennai Masters consists of a Masters Tournament and a Challengers Tournament. Vincent Keymer secured overall victory in the Masters with a round to spare. With his win over Awonder Liang in round 7, Keymer moved up to tenth place in the live world rankings, making him the first German to achieve this since Dr. Robert H&uuml;bner. Live coverage of round 8 begins at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. IST), the final round on August 15 starts three hours earlier, at 8.30 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-masters-live",
+         "pubDate" : "Thu, 14 Aug 2025 17:35:00",
+         "title" : "Chennai Masters - Live!"
       },
       {
          "description" : "The battle for victory in the rapid chess tournament in Saint Louis was a duel between Fabiano Caruana and Levon Aronian. In the final round, world champion Gukesh Dommaraju added some excitement with a victory over Caruana. However, Aronian was unable to capitalise on Caruana's defeat. | Photos: Lennart Ootes",
@@ -26,6 +42,14 @@ news_feed (
          "title" : "Chennai Chess: Vincent Keymer creates history, secures title with a round to spare"
       },
       {
+         "description" : "GM Vincent Keymer has won the Quantbox Chennai Grand Masters 2025 and a prize of almost $30,000 with a round to spare after making a draw against GM Jorden van Foreest. All the other games were drawn as well, with GM Arjun Erigaisi held by GM Vidi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-keymer-wins-chennai-grand-masters-round-8",
+         "pubDate" : "Thu, 14 Aug 2025 14:33:00",
+         "title" : "Keymer Wins Chennai Grand Masters With Round To Spare"
+      },
+      {
          "description" : " Fabiano Caruana almost set a record 8/9 score in the Saint Louis Rapid section of this combined rapid and blitz tournament. Caruana needed to beat World Champion Gukesh in the final round to set the new mark. The Gukesh - Caruana final round game was a wild struggle where Caruana outplayed the World Champion and obtained a winning position, but with time running short for Caruana, and the position remaining complicated, the position turned around. Gukesh, although far from accurate himself, brought home the full point in a long endgame. The game is annotated below. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -34,12 +58,12 @@ news_feed (
          "title" : "Fabiano Caruana wins the St Louis Rapid but loses to Gukesh in the final round - Rapid 7-9"
       },
       {
-         "description" : "The third edition of the Chennai Masters consists of a Masters Tournament and a Challengers Tournament. Vincent Keymer secured overall victory in the Masters with a round to spare. With his win over Awonder Liang in round 7, Keymer moved up to tenth place in the live world rankings, making him the first German to achieve this since Dr. Robert H&uuml;bner. Live coverage of round 8 begins at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. IST), the final round on August 15 starts three hours earlier, at 8.30 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-masters-live",
-         "pubDate" : "Thu, 14 Aug 2025 11:30:00",
-         "title" : "Chennai Masters - Live!"
+         "description" : "Keymer's last trip to Chennai was to help Gukesh become world champion - now he has his biggest classical win.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/45974136/vincent-keymer-takes-aim-d-gukesh-chess-crown-2025-chennai-grand-masters-win?device=featurephone",
+         "pubDate" : "Thu, 14 Aug 2025 11:50:00",
+         "title" : "Keymer takes aim at Gukesh's crown with Chennai Grand Masters win"
       },
       {
          "description" : "GM-elect Divya Deshmukh dominated her first match in the Women&#39;s Speed Chess Championship and got off to a great start against GM Hou Yifan in her quarterfinal match on Wednesday. However, Hou fought back and the two played the closest WSCC match ...",
@@ -648,14 +672,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/americans-win-14-medals-pan-american-youth",
          "pubDate" : "Thu, 07 Aug 2025 00:00:00",
          "title" : "Americans Win 14 Medals at Pan-American Youth"
-      },
-      {
-         "description" : "Grok 4 and o3 won their semifinal matches against Gemini 2.5 Pro and o4-mini in the AI chess exhibition match in Google&#39;s Kaggle Game Arena. While o3&#39;s victory was expected, no one could predict the tough battle between Grok and Gemini, which had ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kaggle-game-arena-chess-2025-day-2",
-         "pubDate" : "Wed, 06 Aug 2025 14:10:00",
-         "title" : "Grok Defeats Gemini On Tiebreaks, Advances To Final Against o3"
       },
       {
          "description" : "Rank Name Rank Name 1 Sattwik Swain 1 Girisha Prasanna Pai 2 Aadwik Abhinav Krishna 2 Nakshatra Gumudavelly 3 Divith Reddy Adulla 3 Narayani Umesh",
