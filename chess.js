@@ -18,6 +18,14 @@ news_feed (
          "title" : "St. Louis Rapid & Blitz - Live!"
       },
       {
+         "description" : "GM Ju Wenjun&#39;s undefeated match record in the Women&#39;s Speed Chess Championship faced its hardest challenge yet as she needed tiebreaks to overcome GM Bibisara Assaubayeva by a score of 10.5-8.5. In the second match of the day, GM Kateryna Lagno do...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ju-lagno-advance-to-wscc-semifinals",
+         "pubDate" : "Wed, 13 Aug 2025 18:33:05",
+         "title" : "Ju and Lagno Advance To WSCC Semifinals"
+      },
+      {
          "description" : "Levon Aronian was unable to repeat his strong performance from the previous day on the second day of the rapid chess tournament in Saint Louis. In the sixth round, he lost to Fabiano Caruana in the top match and relinquished the lead. Aronian shares second place with Weskey So going into the third day of action. | Photos: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,12 +50,12 @@ news_feed (
          "title" : "2025 Coventry International"
       },
       {
-         "description" : "GM Vincent Keymer defeated GM Awonder Liang in round seven of the&#38;nbsp;Quantbox Chennai Grand Masters 2025 to break into the world top 10 for the first time. GM Arjun Erigaisi trails by 1.5 points after a quiet draw against GM Anish Giri and is jo...",
+         "description" : "GM Vincent Keymer defeated GM Awonder Liang in round seven of the&#38;nbsp;Quantbox Chennai Grand Masters 2025 to break into the world top-10 for the first time. GM Arjun Erigaisi trails by 1.5 points after a quiet draw against GM Anish Giri and is jo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-7",
-         "pubDate" : "Wed, 13 Aug 2025 13:59:15",
-         "title" : "Keymer Enters World Top 10 For 1st Time"
+         "pubDate" : "Wed, 13 Aug 2025 13:59:00",
+         "title" : "Keymer Enters World Top-10 For 1st Time"
       },
       {
          "description" : "\"When I play a lot of players, what I immediately see is mistakes,\" says Anish Giri",
@@ -658,14 +666,6 @@ news_feed (
          "title" : "Chess.com and Zenni Optical Announce Partnership to Champion Eye Health and Elevate Competitive Chess"
       },
       {
-         "description" : "One country was consistently at the top of Titled Tuesday on August 5 as GMs Amin Tabatabaei, Parham Maghsoodloo, Sina Movahed all scored 10/11 in one of the day&#39;s events. The scores were enough for Tabatabaei to win the early event outright and f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tabatabaei-maghsoodloo-win-titled-tuesday-august-5-2025",
-         "pubDate" : "Wed, 06 Aug 2025 08:24:45",
-         "title" : "Compatriots Claim Titled Tuesday"
-      },
-      {
          "description" : "The Air Force Sports Control Board (AFSCB) is inviting applications from outstanding sportsmen to join the Indian Air Force as Agniveervayu (Sports). For the first",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -960,14 +960,6 @@ news_feed (
          "link" : "https://aicf.in/divya-deshmukh-creates-history-storms-into-finals/",
          "pubDate" : "Thu, 24 Jul 2025 05:26:29",
          "title" : "Divya Deshmukh Creates History, Storms into Finals"
-      },
-      {
-         "description" : " POSTGAME Round 8: Only Two Rounds Left to Make Their Mark! Join GMs Yasser Seirawan &#038; Cristian Chirila, and IM Nazi Paikidze for the top moments of today's games. Standings 2025 U.S. Junior Championship Standings After Round 8 + # Place Name Rating Rd 1 Rd 2 Rd 3 Rd 4 Rd 5 Rd 6 [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-8-only-two-rounds-left-to-make-their-mark-2025-us-national-championships/\">POSTGAME ROUND 8: Only Two Rounds Left to Make Their Mark!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-8-only-two-rounds-left-to-make-their-mark-2025-us-national-championships/",
-         "pubDate" : "Wed, 23 Jul 2025 23:33:13",
-         "title" : "POSTGAME ROUND 8: Only Two Rounds Left to Make Their Mark!"
       }
    ]
 }
