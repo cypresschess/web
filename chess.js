@@ -18,6 +18,14 @@ news_feed (
          "title" : "The Babson Task - A modern realization"
       },
       {
+         "description" : "The tug of war continues between GM Levon Aronian and GM Fabiano Caruana after day four in the 2025 Saint Louis Rapid &#38;amp; Blitz. After an underwhelming first day of blitz, Caruana has sunk to second place and Aronian has taken his place in the l...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-saint-louis-rapid-and-blitz-day-4",
+         "pubDate" : "Thu, 14 Aug 2025 17:39:19",
+         "title" : "Aronian Takes Back Lead Before Final Day"
+      },
+      {
          "description" : "The third edition of the Chennai Masters consists of a Masters Tournament and a Challengers Tournament. Vincent Keymer secured overall victory in the Masters with a round to spare. With his win over Awonder Liang in round 7, Keymer moved up to tenth place in the live world rankings, making him the first German to achieve this since Dr. Robert H&uuml;bner. Live coverage of round 8 begins at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. IST), the final round on August 15 starts three hours earlier, at 8.30 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -650,14 +658,6 @@ news_feed (
          "title" : "Gukesh vs Duda Blitz 2025 - Games and Results"
       },
       {
-         "description" : "GM Arjun Erigaisi is Indian number-one and world number-four again after beating GM Awonder Liang in round one of the Masters section of the Quantbox Chennai Grand Masters 2025. Arjun is joined in the lead by GM Vincent Keymer, who won a time-trou...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-1",
-         "pubDate" : "Thu, 07 Aug 2025 12:16:36",
-         "title" : "Arjun Climbs To World No. 4 As Chennai Grand Masters Begins"
-      },
-      {
          "description" : "Please find the live link here Masters &#160;https://live.chennaigrandmasters.com/2025/masters/ Challengers &#160;https://live.chennaigrandmasters.com/2025/challengers/",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -944,22 +944,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jul/25/chess-levon-aronian-takes-big-top-prize-las-vegas-freestyle-grand-slam-hans-niemann-magnus-carlsen",
          "pubDate" : "Fri, 25 Jul 2025 07:00:53",
          "title" : "Chess: Aronian takes big top prize in Las Vegas as Niemann celebrates Carlsen's downfall"
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-9-andy-zoey-are-champions-2025-us-national-championships/\">POSTGAME ROUND 9: Andy &#038; Zoey are Champions!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-9-andy-zoey-are-champions-2025-us-national-championships/",
-         "pubDate" : "Fri, 25 Jul 2025 01:10:48",
-         "title" : "POSTGAME ROUND 9: Andy & Zoey are Champions!"
-      },
-      {
-         "description" : " There is a 6 game classical match between Peter Svidler and 14 year old wonderkind Yagiz Kaan Erdogmus in Marseille, France 24th - 29th July 2025.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/clash-of-generations-svidler-erdogmus-2025",
-         "pubDate" : "Fri, 25 Jul 2025 00:43:00",
-         "title" : "Clash of Generations Svidler Erdogmus 2025 - Games and Results"
       }
    ]
 }
