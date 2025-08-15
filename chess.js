@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Quantbox Chennai Grand Masters took place Thu 7th Aug to Fri 15th Aug 2025. Following a fire the venue had to change and the start postponed by a day. Players in the Masters tournament: Erigaisi, Giri, Keymer, Vidit, Jorden Van Foreest, Awonder Liang, Nihal Sarin, Robson, Karthikeyan and Pranav. There is a strong challengers event as well. Vincent Keymer won clearly with 7/9 two points clear of Anish Giri, Arjun Erigaisi and Murali Karthikeyan. The Challengers event was won by M Pranesh.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/quantbox-chennai-grand-masters-2025",
+         "pubDate" : "Fri, 15 Aug 2025 19:47:00",
+         "title" : "Quantbox Chennai Grand Masters 2025 - Games and Results"
+      },
+      {
+         "description" : " Vincent Keymer was the runaway winner of the Quantbox Chennai Grand Masters. Keymer started with three wins in a row against Nihal Sarin, V Pranav and Murali Karthikeyan. He drew against Giri in Round 4 and in Round 6 against close rival Arjun Erigaisi and then beat Awonder Liang in round 7. He'd already sewn up victory with a round to spare but added to his total by beating Ray Robson in the final round. Clearly one of the performances of the year. I've annotated the games against Erigaisi and Robson below.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/vincent-keymer-dominates-the-quantbox-chennai-grand-masters-2025",
+         "pubDate" : "Fri, 15 Aug 2025 19:44:00",
+         "title" : "Vincent Keymer dominates the Quantbox Chennai Grand Masters 2025 - 9"
+      },
+      {
+         "description" : "The fourth event of the 2025 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 11-15 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the Grand Chess Tour: Alireza Firouzja, R Praggnanandhaa and Maxime Vachier-Lagrave. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2025-live",
+         "pubDate" : "Fri, 15 Aug 2025 19:00:00",
+         "title" : "St. Louis Rapid & Blitz - Live!"
+      },
+      {
          "description" : "After the summer break, Svitlana shares one of her favourite tournament games, where she tried the O'Kelly Sicilian for the first time against a 2357-rated FM, using it to steer her opponent out of theory. She explains the strategic ideas behind the variation, demonstrates her pawn-storm attack on the kingside, and navigates through complex middlegame tactics while maintaining the initiative. The game concludes with a precise tactical finish, combining long-term piece coordination and threats to secure victory in a well-prepared and creatively played encounter.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-mastering-the-o-kelly-sicilian-svitlana-s-brilliant-win-vs-fm-2357",
          "pubDate" : "Fri, 15 Aug 2025 16:39:12",
          "title" : "Svitlana's Smart Moves - Mastering the O'Kelly Sicilian: Svitlana's Brilliant Win vs FM 2357"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123324407.cms\" />M Pranesh clinched the Challengers title at the Chennai Grand Masters 2025, securing a spot in next year's Masters. Vincent Keymer dominated the Masters section, defeating Ray Robson and earning ₹25 Lakhs. The tournament, now a leading classical chess event in India, saw significant final-day developments and determined participants for future competitions.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-vincent-keymer-crowned-masters-champion-m-pranesh-wins-challengers-title/articleshow/123324407.cms",
+         "pubDate" : "Fri, 15 Aug 2025 16:32:26",
+         "title" : "Chennai Grand Masters: Keymer crowned Masters champion; M Pranesh wins Challengers title"
+      },
+      {
+         "description" : "GM Vincent Keymer won the Quantbox Chennai Grand Masters 2025 by a full two points after beating GM Ray Robson in the final round to add crossing 2750 to his achievements. GM Anish Giri was the surprise player to sneak into second place after maki...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-9",
+         "pubDate" : "Fri, 15 Aug 2025 12:11:14",
+         "title" : "Keymer Crosses 2750, Giri Takes 2nd, Pranesh Wins Challengers"
+      },
+      {
+         "description" : "Just days after stopping a Titled Tuesday sweep in its tracks, GM Magnus Carlsen won Freestyle Friday ahead of GM Hikaru Nakamura on August 15. It was the second straight Friday in which they finished in the top two, this time in the opposite orde...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-freestyle-friday-august-15-2025",
+         "pubDate" : "Fri, 15 Aug 2025 11:44:17",
+         "title" : "Carlsen Loses Battle, Wins War Over Nakamura In Freestyle Friday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123321311.cms\" />Rohith Krishna S, a 19-year-old from Chennai, has become India's 89th Grandmaster, achieving his final GM norm at the Almaty Region Open. His journey, fueled by family support and sacrifices, involved countless hours of practice and international tournaments. Rohith now balances chess with his computer science studies, setting his sights on a 2600 rating and ultimately, the world championship.",
@@ -482,14 +530,6 @@ news_feed (
          "title" : "Michael Adams grabs his ninth British Chess Championship title - 9"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123219739.cms\" />Nihal Sarin claimed victory over Arjun Erigaisi at the Chennai Grand Masters 2025, while Vincent Keymer held his lead after a draw with Anish Giri. The tournament, featuring Masters and Challengers sections, offers significant prizes and FIDE Circuit points. Abhimanyu Puranik leads the Challengers section after defeating Vaishali Rameshbabu, setting the stage for intense competition in the remaining rounds.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-nihal-sarin-shocks-arjun-erigaisi-vincent-keymer-stays-unbeaten/articleshow/123219739.cms",
-         "pubDate" : "Sun, 10 Aug 2025 16:20:00",
-         "title" : "Chennai GM 2025: Nihal Sarin shocks Arjun Erigaisi, Vincent Keymer stays unbeaten"
-      },
-      {
          "description" : "GM Nihal Sarin was finally rewarded for his entertaining chess in the Quantbox Chennai Grand Masters 2025 when he won a great fighting game against GM Arjun Erigaisi. That means that GM Vincent Keymer took a full-point lead despite being held to h...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -648,30 +688,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/introducing-us-chess-members-only-online-prize-arenas",
          "pubDate" : "Fri, 08 Aug 2025 00:00:00",
          "title" : "Introducing US Chess Members Only Online Prize Arenas"
-      },
-      {
-         "description" : "Two former WSCC champions advanced comfortably into the Quarterfinals of the 2025 Women&#39;s Speed Chess Championship. Women&#39;s World Champion (and reigning WSCC Champion) GM Ju Wenjun beat FM Anastasia Avramidou 9.5-4.5, while GM Kateryna Lagno elimi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-wscc-ro16-ju-avramidou-lagno-maltsevskaya",
-         "pubDate" : "Thu, 07 Aug 2025 14:59:00",
-         "title" : "Ju, Lagno Dominate & Advance To Quarterfinals"
-      },
-      {
-         "description" : "OpenAI&#39;s o3 took the crown after steamrolling over Grok 4 on the final day of the AI chess exhibition match in Google&#39;s Kaggle Game Arena. In the third-place match, Gemini 2.5 Pro defeated o4-mini 3.5-0.5 for the bronze medal. Kaggle Arena Chess...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kaggle-game-arena-chess-2025-day-3",
-         "pubDate" : "Thu, 07 Aug 2025 14:22:00",
-         "title" : "OpenAI's o3 Crushes Grok 4 In Final, Wins Kaggle's AI Chess Exhibition Tournament"
-      },
-      {
-         "description" : " The Quantbox Chennai Grand Masters takes place Thu 7th Aug to Fri 15th Aug 2025. Following a fire the venue had to change and the start postponed by a day. Players in the Masters tournament: Erigaisi, Giri, Keymer, Vidit, Jorden Van Foreest, Awonder Liang, Nihal Sarin, Robson, Karthikeyan and Pranav. There is a strong challengers event as well.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/quantbox-chennai-grand-masters-2025",
-         "pubDate" : "Thu, 7 Aug 2025 13:58:00",
-         "title" : "Quantbox Chennai Grand Masters 2025 - Games and Results"
       },
       {
          "description" : " There was a match between World Champion Gukesh and Jan-Krzysztof Duda in Katowice, Poland on 7th August 2025. Gukesh's struggles at fast time controls continues, he won game 1 but lost all the rest to lose the match 5-1. ",
