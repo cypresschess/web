@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After the summer break, Svitlana shares one of her favourite tournament games, where she tried the O'Kelly Sicilian for the first time against a 2357-rated FM, using it to steer her opponent out of theory. She explains the strategic ideas behind the variation, demonstrates her pawn-storm attack on the kingside, and navigates through complex middlegame tactics while maintaining the initiative. The game concludes with a precise tactical finish, combining long-term piece coordination and threats to secure victory in a well-prepared and creatively played encounter.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-mastering-the-o-kelly-sicilian-svitlana-s-brilliant-win-vs-fm-2357",
+         "pubDate" : "Fri, 15 Aug 2025 16:39:12",
+         "title" : "Svitlana's Smart Moves - Mastering the O'Kelly Sicilian: Svitlana's Brilliant Win vs FM 2357"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123321311.cms\" />Rohith Krishna S, a 19-year-old from Chennai, has become India's 89th Grandmaster, achieving his final GM norm at the Almaty Region Open. His journey, fueled by family support and sacrifices, involved countless hours of practice and international tournaments. Rohith now balances chess with his computer science studies, setting his sights on a 2600 rating and ultimately, the world championship.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
