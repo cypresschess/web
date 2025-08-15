@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wasselonne is one of the many picturesque towns in France's Alsace region. The local Mossig Chess Club invited players to an open tournament. In addition to many French players, several chess enthusiasts from neighbouring Germany also accepted the invitation, including Bettina Trabert and her son Max. Vladyslav Larkin from Ukraine won the tournament on tiebreak criteria. | Full report with photos and anecdotes by Bettina Trabert, who participated alongisde her son Max.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/larkin-wins-wasselonne-2025",
+         "pubDate" : "Fri, 15 Aug 2025 23:45:00",
+         "title" : "Vladyslav Larkin wins open tournament in picturesque Wasselonne"
+      },
+      {
+         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-day-5-unstoppable-levon-takes-1st-stlrapidblitz/\">POSTGAME DAY 5: Unstoppable Levon Takes 1st! | #STLRapidBlitz</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-day-5-unstoppable-levon-takes-1st-stlrapidblitz/",
+         "pubDate" : "Fri, 15 Aug 2025 23:04:31",
+         "title" : "POSTGAME DAY 5: Unstoppable Levon Takes 1st! | #STLRapidBlitz"
+      },
+      {
          "description" : " The Quantbox Chennai Grand Masters took place Thu 7th Aug to Fri 15th Aug 2025. Following a fire the venue had to change and the start postponed by a day. Players in the Masters tournament: Erigaisi, Giri, Keymer, Vidit, Jorden Van Foreest, Awonder Liang, Nihal Sarin, Robson, Karthikeyan and Pranav. There is a strong challengers event as well. Vincent Keymer won clearly with 7/9 two points clear of Anish Giri, Arjun Erigaisi and Murali Karthikeyan. The Challengers event was won by M Pranesh.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -26,14 +42,6 @@ news_feed (
          "title" : "St. Louis Rapid & Blitz - Live!"
       },
       {
-         "description" : "After the summer break, Svitlana shares one of her favourite tournament games, where she tried the O'Kelly Sicilian for the first time against a 2357-rated FM, using it to steer her opponent out of theory. She explains the strategic ideas behind the variation, demonstrates her pawn-storm attack on the kingside, and navigates through complex middlegame tactics while maintaining the initiative. The game concludes with a precise tactical finish, combining long-term piece coordination and threats to secure victory in a well-prepared and creatively played encounter.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-mastering-the-o-kelly-sicilian-svitlana-s-brilliant-win-vs-fm-2357",
-         "pubDate" : "Fri, 15 Aug 2025 16:39:12",
-         "title" : "Svitlana's Smart Moves - Mastering the O'Kelly Sicilian: Svitlana's Brilliant Win vs FM 2357"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123324407.cms\" />M Pranesh clinched the Challengers title at the Chennai Grand Masters 2025, securing a spot in next year's Masters. Vincent Keymer dominated the Masters section, defeating Ray Robson and earning ₹25 Lakhs. The tournament, now a leading classical chess event in India, saw significant final-day developments and determined participants for future competitions.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -42,7 +50,7 @@ news_feed (
          "title" : "Chennai Grand Masters: Keymer crowned Masters champion; M Pranesh wins Challengers title"
       },
       {
-         "description" : "GM Vincent Keymer won the Quantbox Chennai Grand Masters 2025 by a full two points after beating GM Ray Robson in the final round to add crossing 2750 to his achievements. GM Anish Giri was the surprise player to sneak into second place after maki...",
+         "description" : "GM Vincent Keymer won the Quantbox Chennai Grand Masters 2025 by a full two points after beating GM Ray Robson in the final round, add crossing the 2750 Elo mark to his achievements. GM Anish Giri was the surprise player to sneak into second place...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-9",
@@ -54,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-wins-freestyle-friday-august-15-2025",
-         "pubDate" : "Fri, 15 Aug 2025 11:44:17",
+         "pubDate" : "Fri, 15 Aug 2025 11:44:00",
          "title" : "Carlsen Loses Battle, Wins War Over Nakamura In Freestyle Friday"
       },
       {
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chennai-masters-live",
          "pubDate" : "Fri, 15 Aug 2025 08:30:00",
          "title" : "Chennai Masters - Live!"
-      },
-      {
-         "description" : "In the penultimate round of the Quantbox Chennai Grand Masters 2025, all games in the Masters section ended in draws, confirming Vincent Keymer as tournament winner with a round to spare. The German number one, who now enters the live world top 10, maintained his 1&frac12;-point lead over Arjun Erigaisi and Karthikeyan Murali. In the Challengers, M. Pranesh took sole lead on 6&frac12; points and can secure victory - and promotion to next year's Masters - with a final-round win. | Photos: Dr. Vidhi Karelia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2025-8",
-         "pubDate" : "Fri, 15 Aug 2025 07:30:00",
-         "title" : "Chennai GMs: Keymer secures overall victory with a round to spare"
       },
       {
          "description" : " The 53-year-old is just one short of Jonathan Penrose's record, while Bodhana Sivanandan became the youngest ever woman international master Michael Adams edged nearer the all-time record for British Championship titles last weekend when the Taunton-based grandmaster won his ninth national championship at Liverpool. Adams, who relaxes by watching cricket at Somerset's county ground, has now equalled Henry Atkins's total of nine championships from the first half of the last century, but remains one short of Jonathan Penrose's 10 crowns from the second half. Adams's first British title was in 1989 at age 17, still the youngest ever, but in the next 20 years he concentrated on the world champi",
@@ -128,14 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-saint-louis-rapid-and-blitz-day-4",
          "pubDate" : "Thu, 14 Aug 2025 17:39:00",
          "title" : "Aronian Takes Back Lead Before Final Day"
-      },
-      {
-         "description" : "The battle for victory in the rapid chess tournament in Saint Louis was a duel between Fabiano Caruana and Levon Aronian. In the final round, world champion Gukesh Dommaraju added some excitement with a victory over Caruana. However, Aronian was unable to capitalise on Caruana's defeat. | Photos: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2025-3",
-         "pubDate" : "Thu, 14 Aug 2025 17:30:00",
-         "title" : "St. Louis Rapid & Blitz: Caruana wins rapid section, Aronian second"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123309718.cms\" />Vincent Keymer dominated the Chennai Grand Masters 2025, securing the title with a round to spare and making history as the tournament's first sole champion. His impressive performance propelled him into the world's Top 10 on the live rating list. In the Challengers, Pranesh M leads, with a promotion to the 2026 Masters at stake.",
@@ -960,14 +952,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45826368/koneru-humpy-vs-divya-deshmukh-live-blog-updates-commentary-results-2025-fide-womens-chess-world-cup-final-game-1?device=featurephone",
          "pubDate" : "Sat, 26 Jul 2025 03:00:00",
          "title" : "Koneru Humpy, Divya Deshmukh draw in game 1 of FIDE Women's Chess World Cup final"
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-playoff-fishbein-is-champion/\">POSTGAME PLAYOFF: Fishbein is Champion!</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-playoff-fishbein-is-champion/",
-         "pubDate" : "Fri, 25 Jul 2025 21:03:46",
-         "title" : "POSTGAME PLAYOFF: Fishbein is Champion!"
       }
    ]
 }
