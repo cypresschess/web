@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123321311.cms\" />Rohith Krishna S, a 19-year-old from Chennai, has become India's 89th Grandmaster, achieving his final GM norm at the Almaty Region Open. His journey, fueled by family support and sacrifices, involved countless hours of practice and international tournaments. Rohith now balances chess with his computer science studies, setting his sights on a 2600 rating and ultimately, the world championship.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-parents-sleepless-nights-coding-and-chess-how-india-got-its-89th-gm-in-rohith-krishna-s/articleshow/123321311.cms",
+         "pubDate" : "Fri, 15 Aug 2025 10:58:01",
+         "title" : "Exclusive | Parents' sleepless nights, coding, and chess: India gets 89th GM in Rohith"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123320454.cms\" />D Gukesh faced a challenging day at the St. Louis Rapid and Blitz, managing only one win and four draws, which caused him to slip to joint sixth place. Levon Aronian surged ahead, reclaiming the lead with an impressive blitz performance. With nine rounds remaining, Gukesh needs a strong finish to contend for the top prize in the $175,000 event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-d-gukesh-drops-to-joint-sixth-after-enduring-four-draws-at-st-louis-rapid-and-blitz/articleshow/123320454.cms",
+         "pubDate" : "Fri, 15 Aug 2025 09:57:46",
+         "title" : "D Gukesh drops to joint sixth after enduring four draws at St. Louis Rapid and Blitz"
+      },
+      {
          "description" : "The third edition of the Chennai Masters consists of a Masters Tournament and a Challengers Tournament. Vincent Keymer secured overall victory in the Masters with a round to spare. With his win over Awonder Liang in round 7, Keymer moved up to tenth place in the live world rankings, making him the first German to achieve this since Dr. Robert H&uuml;bner. | Live coverage of round 9 begins at 8:30 CEST (2:30 a.m. ET / 12:00 a.m. IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "Chennai GMs: Keymer secures overall victory with a round to spare"
       },
       {
-         "description" : " The 53-year-old is just one short of Jonathan Penrose's record, while Bodhana Sivanandan became the youngest ever female IM Michael Adams edged nearer the all-time record for British Championship titles last weekend when the Taunton-based grandmaster won his ninth national championship at Liverpool. Adams, who relaxes by watching cricket at Somerset's county ground, has now equalled Henry Atkins's total of nine championships from the first half of the last century, but remains one short of Jonathan Penrose's 10 crowns from the second half. Adams's first British title was in 1989 at age 17, still the youngest ever, but in the next 20 years he concentrated on the world championship, coming wi",
+         "description" : " The 53-year-old is just one short of Jonathan Penrose's record, while Bodhana Sivanandan became the youngest ever woman international master Michael Adams edged nearer the all-time record for British Championship titles last weekend when the Taunton-based grandmaster won his ninth national championship at Liverpool. Adams, who relaxes by watching cricket at Somerset's county ground, has now equalled Henry Atkins's total of nine championships from the first half of the last century, but remains one short of Jonathan Penrose's 10 crowns from the second half. Adams's first British title was in 1989 at age 17, still the youngest ever, but in the next 20 years he concentrated on the world champi",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/aug/15/chess-adams-wins-ninth-british-title-while-10-year-old-girl-breaks-two-world-records",
@@ -490,28 +506,12 @@ news_feed (
          "title" : "Dortmund Chess Festival - Live!"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123215864.cms\" />R Praggnanandhaa, who has challenged Magnus Carlsen, shared insights into the World No. 1's greatness, highlighting Carlsen's exceptional intuition and ability to consistently make optimal moves. Praggnanandhaa emphasized Carlsen's mental fortitude, noting his relentless fighting spirit and resourcefulness in every game.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-praggnanandhaa-decodes-magnus-carlsens-greatness-hes-just-universally-strong/articleshow/123215864.cms",
-         "pubDate" : "Sun, 10 Aug 2025 08:51:33",
-         "title" : "Chess | Pragg decodes Carlsen's greatness - 'He's just universally strong'"
-      },
-      {
          "description" : "GM Alexandra Kosteniuk and IM Polina Shuvalova have advanced to the quarterfinals of the 2025 Women&#39;s Speed Chess Championship. While Kosteniuk was clearly too strong for IM Carissa Yip (11-4), Shuvalova only narrowly beat IM Meri Arabidze (7-6) i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-wscc-ro16-kosteniuk-yip-shuvalova-arabidze",
          "pubDate" : "Sun, 10 Aug 2025 06:15:00",
          "title" : "Kosteniuk, Shuvalova Qualify For Women's Speed Chess Championship Quarterfinals"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123214268.cms\" />Indian Grandmaster R Praggnanandhaa recounted his father's understated reaction to his first victory over World No. 1 Magnus Carlsen in 2022. Despite the 2 a.m. win at the Champions Chess Tour, his father simply said 'Good' before returning to sleep.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-beating-magnus-carlsen-praggnanandhaa-reveals-one-word-reaction-from-his-father-after-win/articleshow/123214268.cms",
-         "pubDate" : "Sun, 10 Aug 2025 05:19:50",
-         "title" : "Chess | Beating Carlsen! Pragg reveals 'one-word' reaction from his father after win"
       },
       {
          "description" : "Fresh off the back of his sixth Freestyle Friday victory, GM Hikaru Nakamura&#38;nbsp;reclaimed his spot on the Bullet Brawl throne after scoring 56/68 and accruing a total of 180 points on Saturday. Nakamura kicked off the arena with a 30-game unbeat...",
@@ -944,14 +944,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-playoff-fishbein-is-champion/",
          "pubDate" : "Fri, 25 Jul 2025 21:03:46",
          "title" : "POSTGAME PLAYOFF: Fishbein is Champion!"
-      },
-      {
-         "description" : "Ahmednagar District Chess Circle on behalf of Maharashtra Chess Association, All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38;",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-held-in-ahmednagar-ahilya-nagar-maharashtra-on-12th-13th-july-2025/",
-         "pubDate" : "Fri, 25 Jul 2025 11:12:13",
-         "title" : "Final Report of Senior National Arbiter Seminar & Examination held in Ahmednagar (Ahilya Nagar), Maharashtra on 12th & 13th July, 2025."
       }
    ]
 }
