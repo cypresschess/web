@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third edition of the Chennai Masters consists of a Masters Tournament and a Challengers Tournament. Vincent Keymer secured overall victory in the Masters with a round to spare. With his win over Awonder Liang in round 7, Keymer moved up to tenth place in the live world rankings, making him the first German to achieve this since Dr. Robert H&uuml;bner. | Live coverage of round 9 begins at 8:30 CEST (2:30 a.m. ET / 12:00 a.m. IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-masters-live",
+         "pubDate" : "Fri, 15 Aug 2025 08:30:00",
+         "title" : "Chennai Masters - Live!"
+      },
+      {
+         "description" : "In the penultimate round of the Quantbox Chennai Grand Masters 2025, all games in the Masters section ended in draws, confirming Vincent Keymer as tournament winner with a round to spare. The German number one, who now enters the live world top 10, maintained his 1&frac12;-point lead over Arjun Erigaisi and Karthikeyan Murali. In the Challengers, M. Pranesh took sole lead on 6&frac12; points and can secure victory - and promotion to next year's Masters - with a final-round win. | Photos: Dr. Vidhi Karelia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2025-8",
+         "pubDate" : "Fri, 15 Aug 2025 07:30:00",
+         "title" : "Chennai GMs: Keymer secures overall victory with a round to spare"
+      },
+      {
+         "description" : " The 53-year-old is just one short of Jonathan Penrose's record, while Bodhana Sivanandan became the youngest ever female IM Michael Adams edged nearer the all-time record for British Championship titles last weekend when the Taunton-based grandmaster won his ninth national championship at Liverpool. Adams, who relaxes by watching cricket at Somerset's county ground, has now equalled Henry Atkins's total of nine championships from the first half of the last century, but remains one short of Jonathan Penrose's 10 crowns from the second half. Adams's first British title was in 1989 at age 17, still the youngest ever, but in the next 20 years he concentrated on the world championship, coming wi",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/aug/15/chess-adams-wins-ninth-british-title-while-10-year-old-girl-breaks-two-world-records",
+         "pubDate" : "Fri, 15 Aug 2025 07:00:25",
+         "title" : "Chess: Adams wins ninth British title, while 10-year-old girl breaks two world records"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123317557.cms\" />Vincent Keymer clinched the Chennai Grand Masters title, becoming the first non-Indian champion with a round to spare after a draw against Jorden van Foreest. Despite a late-game scare, Keymer secured the crucial draw needed after Arjun Erigaisi and Karthikeyan Murali's games also ended in stalemates. In the Challengers section, M Pranesh took the sole lead.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-vincent-keymer-wins-title-with-a-round-to-spare/articleshow/123317557.cms",
+         "pubDate" : "Fri, 15 Aug 2025 05:25:37",
+         "title" : "Chennai Grand Masters 2025: Vincent Keymer wins title with a round to spare"
+      },
+      {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-day-4-stlrapidblitz/\">POSTGAME DAY 4 | #STLRapidBlitz</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -22,16 +54,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-saint-louis-rapid-and-blitz-day-4",
-         "pubDate" : "Thu, 14 Aug 2025 17:39:19",
+         "pubDate" : "Thu, 14 Aug 2025 17:39:00",
          "title" : "Aronian Takes Back Lead Before Final Day"
-      },
-      {
-         "description" : "The third edition of the Chennai Masters consists of a Masters Tournament and a Challengers Tournament. Vincent Keymer secured overall victory in the Masters with a round to spare. With his win over Awonder Liang in round 7, Keymer moved up to tenth place in the live world rankings, making him the first German to achieve this since Dr. Robert H&uuml;bner. Live coverage of round 8 begins at 11:30 CEST (5:30 a.m. ET / 10:30 a.m. IST), the final round on August 15 starts three hours earlier, at 8.30 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-masters-live",
-         "pubDate" : "Thu, 14 Aug 2025 17:35:00",
-         "title" : "Chennai Masters - Live!"
       },
       {
          "description" : "The battle for victory in the rapid chess tournament in Saint Louis was a duel between Fabiano Caruana and Levon Aronian. In the final round, world champion Gukesh Dommaraju added some excitement with a victory over Caruana. However, Aronian was unable to capitalise on Caruana's defeat. | Photos: Lennart Ootes",
@@ -490,14 +514,6 @@ news_feed (
          "title" : "Chess | Beating Carlsen! Pragg reveals 'one-word' reaction from his father after win"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123213472.cms\" />Chennai's V Pranav, fresh off recent victories including the World Junior Championship, is navigating the Chennai Grand Masters tournament without a coach, a rare move for a player at this level. Despite a loss to leader Vincent Keymer, the 18-year-old held seasoned GM Anish Giri to a draw. Keymer continues to lead, while Arjun Erigaisi trails closely.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-self-taught-pranav-shows-mettle-against-anish-giri-vincent-keymer-in-lead/articleshow/123213472.cms",
-         "pubDate" : "Sun, 10 Aug 2025 03:16:42",
-         "title" : "Chennai Grand Masters: Self-taught Pranav shows mettle against Anish Giri; Vincent Keymer in lead"
-      },
-      {
          "description" : "Fresh off the back of his sixth Freestyle Friday victory, GM Hikaru Nakamura&#38;nbsp;reclaimed his spot on the Bullet Brawl throne after scoring 56/68 and accruing a total of 180 points on Saturday. Nakamura kicked off the arena with a 30-game unbeat...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -936,14 +952,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-held-in-ahmednagar-ahilya-nagar-maharashtra-on-12th-13th-july-2025/",
          "pubDate" : "Fri, 25 Jul 2025 11:12:13",
          "title" : "Final Report of Senior National Arbiter Seminar & Examination held in Ahmednagar (Ahilya Nagar), Maharashtra on 12th & 13th July, 2025."
-      },
-      {
-         "description" : " World No 1 Carlsen was third as Aronian took the $200,000 prize in the Las Vegas leg of the Freestyle Grand Slam Levon Aronian, at 42 the oldest in the tournament, scored what he described as \"one of the crown jewels\" of his career to win the $200,000 (&pound;148,000) first prize at the Las Vegas leg of the Freestyle Grand Slam last weekend. Aronian did it in style, winning matches against the world No 1, Magnus Carlsen, the No 2, Hikaru Nakamura and the No 5, Arjun Erigaisi en route to victory. Carlsen had to settle for the third prize of $100,000, plus the further indignity of finishing behind his arch enemy, Hans Niemann, whose game with the Norwegian at the 2022 Sinquefield Cup led to a",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/jul/25/chess-levon-aronian-takes-big-top-prize-las-vegas-freestyle-grand-slam-hans-niemann-magnus-carlsen",
-         "pubDate" : "Fri, 25 Jul 2025 07:00:53",
-         "title" : "Chess: Aronian takes big top prize in Las Vegas as Niemann celebrates Carlsen's downfall"
       }
    ]
 }
