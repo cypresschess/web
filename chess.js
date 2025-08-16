@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Wasselonne is one of the many picturesque towns in France's Alsace region. The local Mossig Chess Club invited players to an open tournament. In addition to many French players, several chess enthusiasts from neighbouring Germany also accepted the invitation, including Bettina Trabert and her son Max. Vladyslav Larkin from Ukraine won the tournament on tiebreak criteria. | Full report with photos and anecdotes by Bettina Trabert, who participated alongisde her son Max.",
+         "description" : "Whether it's strategy, technique, or opening knowledge - the July releases from ChessBase leave nothing to be desired! Renowned authors such as David Navara, Robert Ris, and Andrew Martin open their toolkits and share a wealth of professional tips. For those who want it all in one package, ChessBase Magazine issue 226 is the perfect choice, packed once again with training material straight from the pros' lab. Opening enthusiasts take note: there's a whole range of new Powerbases and Powerbooks! Take a look at all the products from the past month!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/larkin-wins-wasselonne-2025",
-         "pubDate" : "Fri, 15 Aug 2025 23:45:00",
-         "title" : "Vladyslav Larkin wins open tournament in picturesque Wasselonne"
+         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-july",
+         "pubDate" : "Sat, 16 Aug 2025 08:30:00",
+         "title" : "Review: All new releases in July"
+      },
+      {
+         "description" : "Vincent Keymer concluded the Quantbox Chennai Grand Masters tournament with a commanding overall victory, finishing two points ahead of his nearest rivals after defeating Ray Robson in the final round. The result gave the 20-year-old a 2917 performance rating, a gain of over 20 Elo points, and secured his place in the live world top-10 for the first time in his career. In the Challengers, a dramatic last round saw all three leaders lose, allowing M Pranesh to claim the title despite his own defeat. | Photos: Anmol Bhargav",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2025-9",
+         "pubDate" : "Sat, 16 Aug 2025 07:00:00",
+         "title" : "Chennai GMs: Keymer scores yet again, Pranesh wins Challengers"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-day-5-unstoppable-levon-takes-1st-stlrapidblitz/\">POSTGAME DAY 5: Unstoppable Levon Takes 1st! | #STLRapidBlitz</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -50,11 +58,11 @@ news_feed (
          "title" : "Chennai Grand Masters: Keymer crowned Masters champion; M Pranesh wins Challengers title"
       },
       {
-         "description" : "GM Vincent Keymer won the Quantbox Chennai Grand Masters 2025 by a full two points after beating GM Ray Robson in the final round, add crossing the 2750 Elo mark to his achievements. GM Anish Giri was the surprise player to sneak into second place...",
+         "description" : "GM Vincent Keymer won the Quantbox Chennai Grand Masters 2025 by a full two points after beating GM Ray Robson in the final round to add crossing the 2750 Elo mark to his achievements. GM Anish Giri was the surprise player to sneak into second pla...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-9",
-         "pubDate" : "Fri, 15 Aug 2025 12:11:14",
+         "pubDate" : "Fri, 15 Aug 2025 12:11:00",
          "title" : "Keymer Crosses 2750, Giri Takes 2nd, Pranesh Wins Challengers"
       },
       {
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-d-gukesh-drops-to-joint-sixth-after-enduring-four-draws-at-st-louis-rapid-and-blitz/articleshow/123320454.cms",
          "pubDate" : "Fri, 15 Aug 2025 09:57:46",
          "title" : "D Gukesh drops to joint sixth after enduring four draws at St. Louis Rapid and Blitz"
-      },
-      {
-         "description" : "The third edition of the Chennai Masters consists of a Masters Tournament and a Challengers Tournament. Vincent Keymer secured overall victory in the Masters with a round to spare. With his win over Awonder Liang in round 7, Keymer moved up to tenth place in the live world rankings, making him the first German to achieve this since Dr. Robert H&uuml;bner. | Live coverage of round 9 begins at 8:30 CEST (2:30 a.m. ET / 12:00 a.m. IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-masters-live",
-         "pubDate" : "Fri, 15 Aug 2025 08:30:00",
-         "title" : "Chennai Masters - Live!"
       },
       {
          "description" : " The 53-year-old is just one short of Jonathan Penrose's record, while Bodhana Sivanandan became the youngest ever woman international master Michael Adams edged nearer the all-time record for British Championship titles last weekend when the Taunton-based grandmaster won his ninth national championship at Liverpool. Adams, who relaxes by watching cricket at Somerset's county ground, has now equalled Henry Atkins's total of nine championships from the first half of the last century, but remains one short of Jonathan Penrose's 10 crowns from the second half. Adams's first British title was in 1989 at age 17, still the youngest ever, but in the next 20 years he concentrated on the world champi",
