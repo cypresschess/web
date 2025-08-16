@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 12th Sinquefield Cup takes place in Saint Louis, Mon 18th to Fri 29th Aug 2025. Players: Fabiano, Caruana, Praggnanandhaa, Gukesh, Nodirbek Abdusattorov, Alireza Firouzja, Wesley So, Levon Aronian, Maxime Vachier-Lagrave, Jan-Krzysztof Duda and Samuel Sevian.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/12th-sinquefield-cup-2025",
+         "pubDate" : "Sat, 16 Aug 2025 11:41:00",
+         "title" : "12th Sinquefield Cup 2025 - Games and Results"
+      },
+      {
+         "description" : " The Saint Louis Rapid & Blitz took place 11th to 15th August 2025. Players: Fabiano, Caruana, D Gukesh, Nodirbek Abdusattorov, Wesley So, Levon Aronian, Leinier Dominguez Perez, Maxime Vachier-Lagrave, Le Quang Liem, Sam Shankland and Grigoriy Oparin. Levon Aronian won the event by finishing second in the rapid and clear first in the blitz. Fabiano Caruana finished in second place over all after winning the rapid but being far off the pace in the blitz. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2025",
+         "pubDate" : "Sat, 16 Aug 2025 11:32:00",
+         "title" : "Saint Louis Rapid & Blitz 2025 - Games and Results"
+      },
+      {
+         "description" : " Levon Aronian won the <a href=\"https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2025\">Saint Louis Blitz</a> on tie-break from Nodirbek Abdusattorov, they both scored 11.5/18. This score was enough to make Aronian clear winner of the combined rapid and blitz as the winner of the rapid section, Caruana only scored 7.5 points and Aronian finished in second place there, Abdusattorov finished tied 6th in the rapid. World Champion Gukesh finished in 7th in the blitz. This event is part of the Grand Chess Tour, the top four in the standings go forward to the finals Sao Paulo at the end of September. There is just one event to go, the <a href=\"https://theweekinchess.com/chessnews",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/levon-aronian-wins-the-saint-louis-rapid-and-blitz-2025",
+         "pubDate" : "Sat, 16 Aug 2025 11:22:00",
+         "title" : "Levon Aronian wins the Saint Louis Rapid and Blitz 2025 - "
+      },
+      {
+         "description" : "My favourite line, in the entire sweep of English literature, comes not from the usual suspects-Shakespeare, Dickens, Eliot-but from the bold and now mostly overlooked opening of Tamburlaine the Great: Part Two, where Marlowe's Turkish Sultan Bajazeth, Yilderim, The Lightning Bolt, thunders out to his numerous followers and captains: \"Egregious viceroys of these Eastern parts.\" It's a []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/egregious-erdogmus/",
+         "pubDate" : "Sat, 16 Aug 2025 08:40:58",
+         "title" : "Egregious Erdogmus"
+      },
+      {
          "description" : "Whether it's strategy, technique, or opening knowledge - the July releases from ChessBase leave nothing to be desired! Renowned authors such as David Navara, Robert Ris, and Andrew Martin open their toolkits and share a wealth of professional tips. For those who want it all in one package, ChessBase Magazine issue 226 is the perfect choice, packed once again with training material straight from the pros' lab. Opening enthusiasts take note: there's a whole range of new Powerbases and Powerbooks! Take a look at all the products from the past month!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +42,28 @@ news_feed (
          "title" : "Review: All new releases in July"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123330955.cms\" />Levon Aronian of the United States emerged victorious at the St. Louis Rapid and Blitz tournament, securing the title with a dominant performance and a prize of USD 40,000. World Champion D Gukesh of India finished in a tied sixth position after a mixed performance.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/st-louis-rapid-blitz-d-gukesh-shows-sparks-but-settles-for-sixth-place-levon-aronian-claims-crown/articleshow/123330955.cms",
+         "pubDate" : "Sat, 16 Aug 2025 07:30:22",
+         "title" : "St Louis Rapid & Blitz: Gukesh settles for sixth place - Aronian claims crown"
+      },
+      {
          "description" : "Vincent Keymer concluded the Quantbox Chennai Grand Masters tournament with a commanding overall victory, finishing two points ahead of his nearest rivals after defeating Ray Robson in the final round. The result gave the 20-year-old a 2917 performance rating, a gain of over 20 Elo points, and secured his place in the live world top-10 for the first time in his career. In the Challengers, a dramatic last round saw all three leaders lose, allowing M Pranesh to claim the title despite his own defeat. | Photos: Anmol Bhargav",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chennai-gms-2025-9",
          "pubDate" : "Sat, 16 Aug 2025 07:00:00",
          "title" : "Chennai GMs: Keymer scores yet again, Pranesh wins Challengers"
+      },
+      {
+         "description" : "Playing solid chess on the final day of blitz, GM Levon Aronian won the 2025 Saint Louis Rapid &#38;amp; Blitz after securing first place with two rounds to go. A lackluster GM Fabiano Caruana said he &#34;stopped being able to play chess&#34; but still finis...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/levon-aronian-wins-2025-saint-louis-rapid-blitz",
+         "pubDate" : "Sat, 16 Aug 2025 03:16:18",
+         "title" : "Aronian Wins Saint Louis Rapid & Blitz With 2 Rounds To Spare"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-day-5-unstoppable-levon-takes-1st-stlrapidblitz/\">POSTGAME DAY 5: Unstoppable Levon Takes 1st! | #STLRapidBlitz</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -450,14 +498,6 @@ news_feed (
          "title" : "UNC, Arizona State and WITS University Take CCL Summer League Titles"
       },
       {
-         "description" : " The Saint Louis Rapid & Blitz takes place 11th to 15th August 2025. Players: Fabiano, Caruana, D Gukesh, Nodirbek Abdusattorov, Wesley So, Levon Aronian, Leinier Dominguez Perez, Maxime Vachier-Lagrave, Le Quang Liem, Sam Shankland and Grigoriy Oparin. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2025",
-         "pubDate" : "Mon, 11 Aug 2025 09:15:00",
-         "title" : "Saint Louis Rapid & Blitz 2025 - Games and Results"
-      },
-      {
          "description" : "\"Chess is a very important part of your life, but it can't really be everything,\" says USA's Awonder Liang.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -472,22 +512,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/5th-ipca-european-individual-chess-championship/",
          "pubDate" : "Mon, 11 Aug 2025 07:18:48",
          "title" : "5th IPCA European Individual Chess Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123229926.cms\" />Nihal Sarin, known for his speed in rapid and blitz chess, is now focusing on classical chess, collaborating with Vishnu Prasanna. Despite a rocky start at the Chennai Grand Masters, Nihal secured a crucial win against Arjun Erigaisi. Meanwhile, Vincent Keymer leads the tournament, with Viswanathan Anand highlighting him as the favourite.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-nihal-sarin-outwits-arjun-erigaisi-in-slow-burn-duel/articleshow/123229926.cms",
-         "pubDate" : "Mon, 11 Aug 2025 06:16:01",
-         "title" : "Chennai Grand Masters: Nihal Sarin outwits Arjun Erigaisi in slow-burn duel"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123226875.cms\" />Viswanathan Anand revealed that Magnus Carlsen was a \"limited\" player in his early days, excelling mainly in endgames and technical positions. Reflecting on losing the 2013 World Championship and the 2014 rematch, Anand admitted struggling to adapt to new trends before rediscovering his form. He said their later battles were far more balanced but still went Carlsen's way.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-viswanathan-anands-strange-take-on-magnus-carlsen-he-used-to-be-quite-a-limited-player/articleshow/123226875.cms",
-         "pubDate" : "Mon, 11 Aug 2025 02:59:46",
-         "title" : "Chess | Anand's strange take on Carlsen - 'He used to be quite a limited player'"
       },
       {
          "description" : "What are your National Chess Day plans? This year's festivities, set for Saturday, October 11, are exactly two months away. This is a great time to find a tournament in your area or even consider running one yourself! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> In order to encourage affiliates to host events, US Chess is offering free email blasts and waived rating fees for tournaments hosted on this day.On Chess Life Online, we plan on sharing some of the events planned for National Chess Day that have caught our eye. Feel free to email Click here to show email address with information about your event if you would be interested in possibly being featured in a futu",
@@ -664,14 +688,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/aug/08/magnus-carlsen-esports-world-cup-chess",
          "pubDate" : "Fri, 08 Aug 2025 07:00:04",
          "title" : "Magnus Carlsen shows class and wins $250,000 at frantic Esports World Cup"
-      },
-      {
-         "description" : "A former chess prodigy from China has been banned for six months after losing 13 consecutive games over two tournaments and dropping 400 Elo points in a year.&#38;nbsp; FIDE has frequently investigated cases of suspected use of computer assistance, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-bans-chinese-player-for-sandbagging",
-         "pubDate" : "Fri, 08 Aug 2025 00:44:00",
-         "title" : "FIDE Bans Former Chinese Chess Prodigy For Sandbagging"
       },
       {
          "description" : "This fall, US Chess will begin hosting online prize arena tournaments on Chess.com exclusively for US Chess members. This innovative format will allow participants to come late, leave early, and play as many games as they can without waiting for a round to finish.As a soft launch, the first test arena will be on Friday, August 15 at 3 p.m. CDT. To register, please read our Members Only Prize Arena FAQ page and request to join the club here. Note this is a new club, and all players must join to participate. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> We invite all current members to follow the instructions below to register and compete. This will be a great opportuni",
