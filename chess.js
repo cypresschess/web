@@ -944,14 +944,6 @@ news_feed (
          "link" : "https://www.thearticle.com/magnus-carlsen-the-fallen-angel-fights-on/",
          "pubDate" : "Sat, 26 Jul 2025 11:32:27",
          "title" : "Magnus Carlsen: the fallen angel fights on"
-      },
-      {
-         "description" : "Koneru Humpy and Divya Deshmukh played out a draw in 41 moves in game 1 of the Women's Chess World Cup in Batumi, Georgia.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45826368/koneru-humpy-vs-divya-deshmukh-live-blog-updates-commentary-results-2025-fide-womens-chess-world-cup-final-game-1?device=featurephone",
-         "pubDate" : "Sat, 26 Jul 2025 03:00:00",
-         "title" : "Koneru Humpy, Divya Deshmukh draw in game 1 of FIDE Women's Chess World Cup final"
       }
    ]
 }
