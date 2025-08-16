@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Duobeniajan Costa Calida from Murcia obtained their third consecutive title at the Spanish Team Championship. In the final round, the team could even afford to lose to Magic Extremaduara. Second place went to C.A. Silla from Valencia, while Magic from Extremadura completed the podium. | Photos: Spanish Chess Federation (FEDA)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/duobeniajan-win-spanish-team-ch-2025",
+         "pubDate" : "Sat, 16 Aug 2025 15:00:00",
+         "title" : "Duobeniajan win Spanish Team Championship for a third year in a row"
+      },
+      {
+         "description" : "Thanks for all the positive feedback on last week's newsletter titled \"You are not your rating\". It really hit home hard for me that identifying with results, believing one is only worth something when you play well, isn't just an experience professional players have. It sort of became an epidemic, both in chess and other []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/acceptance/",
+         "pubDate" : "Sat, 16 Aug 2025 13:00:00",
+         "title" : "The Biggest Lie We Tell Ourselves"
+      },
+      {
          "description" : " The 12th Sinquefield Cup takes place in Saint Louis, Mon 18th to Fri 29th Aug 2025. Players: Fabiano, Caruana, Praggnanandhaa, Gukesh, Nodirbek Abdusattorov, Alireza Firouzja, Wesley So, Levon Aronian, Maxime Vachier-Lagrave, Jan-Krzysztof Duda and Samuel Sevian.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chennai-gms-2025-9",
          "pubDate" : "Sat, 16 Aug 2025 07:00:00",
          "title" : "Chennai GMs: Keymer scores yet again, Pranesh wins Challengers"
+      },
+      {
+         "description" : "Italian GM Luca Moroni has once again proven his proficiency in chess variants by defending his title in the 2025 Chess.com Spell Chess Championship on Friday. Moroni, who was the only GM to qualify for the knockout Final for the second year run...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-community-championships-spell-chess-luca-moroni-wins",
+         "pubDate" : "Sat, 16 Aug 2025 06:31:00",
+         "title" : "Moroni Wins Spell Chess Championship For 2nd Year Running"
       },
       {
          "description" : "Playing solid chess on the final day of blitz, GM Levon Aronian won the 2025 Saint Louis Rapid &#38;amp; Blitz after securing first place with two rounds to go. A lackluster GM Fabiano Caruana said he &#34;stopped being able to play chess&#34; but still finis...",
@@ -666,14 +690,6 @@ news_feed (
          "title" : "India's Velammal MHS School Wins Gold, Smart Moves Summit Connects Minds"
       },
       {
-         "description" : "GM Hikaru Nakamura won his sixth Freestyle Friday on August 8, now three more than anyone else after 29 editions of the event. This day&#39;s top three places were all awarded outright, Nakamura on 10 points, GM Magnus Carlsen on 9.5 points, and GM Ol...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-freestyle-friday-august-8-2025",
-         "pubDate" : "Fri, 08 Aug 2025 11:38:00",
-         "title" : "Nakamura Wins Battle, War Over Carlsen In Freestyle Friday"
-      },
-      {
          "description" : "The World Amateur Chess Championship will be held at Vrnjacka Banja, Serbia from 4th to 14th November, 2025. The detailed regulations you can find at&#160;FIDE",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -944,22 +960,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45832839/koneru-humpy-vs-divya-deshmukh-live-game-2-blog-updates-commentary-result-2025-fide-womens-chess-world-cup-final?device=featurephone",
          "pubDate" : "Sat, 26 Jul 2025 23:45:00",
          "title" : "Divya rejects Humpy's pressure to draw game 2 and push World Cup final into tie-breaks"
-      },
-      {
-         "description" : "Hey everyone, before we get into this one on the bad and good mistakes, short announcement that you can get access to Grandmaster made courses for free for the next days. Until July 31st, ChessMood has unlocked all of their courses for anyone with a free account. For those of you that don't know, ChessMood []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/mistakes/",
-         "pubDate" : "Sat, 26 Jul 2025 13:00:00",
-         "title" : "Good vs. Bad Mistakes: A Simple Guide"
-      },
-      {
-         "description" : "As regular readers of this column all know, Magnus Carlsen has disappointingly joined that trio of former champions (Morphy, Alekhine, Fischer) who missed their final challenge. While still the World Chess Champion, Magnus Carlsen confirmed in a public statement his intention to decline the defence of his title in 2023. FIDÉ (the world governing body) understood that his []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/magnus-carlsen-the-fallen-angel-fights-on/",
-         "pubDate" : "Sat, 26 Jul 2025 11:32:27",
-         "title" : "Magnus Carlsen: the fallen angel fights on"
       }
    ]
 }
