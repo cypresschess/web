@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Duobeniajan Costa Calida from Murcia obtained their third consecutive title at the Spanish Team Championship. In the final round, the team could even afford to lose to Magic Extremaduara. Second place went to C.A. Silla from Valencia, while Magic from Extremadura completed the podium. | Photos: Spanish Chess Federation (FEDA)",
+         "description" : "Duobeniajan Costa Calida from Murcia obtained their third consecutive title at the Spanish Team Championship. In the final round, the team could even afford to lose to Magic Extremadura. Second place went to C.A. Silla from Valencia, while Magic from Extremadura completed the podium. | Photos: Spanish Chess Federation (FEDA)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/duobeniajan-win-spanish-team-ch-2025",
@@ -605,7 +605,7 @@ news_feed (
          "description" : "Fresh off the back of his sixth Freestyle Friday victory, GM Hikaru Nakamura&#38;nbsp;reclaimed his spot on the Bullet Brawl throne after scoring 56/68 and accruing a total of 180 points on Saturday. Nakamura kicked off the arena with a 30-game unbeat...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-aug-9-2025",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-9-2025",
          "pubDate" : "Sat, 09 Aug 2025 17:42:00",
          "title" : "Nakamura Wins 45th Bullet Brawl Following 30-Game Unbeaten Streak"
       },
