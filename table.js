@@ -1,4 +1,7 @@
 jtable([
+"SPRING","2025-08-15","28","<a href=http://www.uschess.org/msa/XtblMain.php?202508152932 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2025-08-15","34","<a href=http://www.uschess.org/msa/XtblMain.php?202508152902 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SUGAR LAND","2025-08-15","23","<a href=http://www.uschess.org/msa/XtblMain.php?202508152882 target='_blank'>FBCC 2025 HAWAIIAN SHIRT DAY OPEN</a>",
 "HOUSTON","2025-08-10","16","<a href=http://www.uschess.org/msa/XtblMain.php?202508100572 target='_blank'>BELLAIRE SUNDAY SWISS 08/10/25</a>",
 "HOUSTON","2025-08-10","4","<a href=http://www.uschess.org/msa/XtblMain.php?202508100382 target='_blank'>AUGUST 10TH-SUNDAY SWISS OPEN</a>",
 "HOUSTON","2025-08-09","38","<a href=http://www.uschess.org/msa/XtblMain.php?202508099292 target='_blank'>AUG 9TH -- TROPHY SCHOLASTIC</a>",
@@ -196,7 +199,4 @@ jtable([
 "HOUSTON","2025-02-01","226","<a href=http://www.uschess.org/msa/XtblMain.php?202502015362 target='_blank'>TCA REGION V SCHOLASTIC CHAMPIONSHIP</a>",
 "HOUSTON","2025-02-01","5","<a href=http://www.uschess.org/msa/XtblMain.php?202502013042 target='_blank'>CHESSPANDA02012025SATURDAY</a>",
 "SUGAR LAND","2025-02-01","14","<a href=http://www.uschess.org/msa/XtblMain.php?202502012642 target='_blank'>FBCC 2025 INTERNATIONAL ZEBRA DAY O</a>",
-"SPRING","2025-01-31","29","<a href=http://www.uschess.org/msa/XtblMain.php?202501312572 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2025-01-31","25","<a href=http://www.uschess.org/msa/XtblMain.php?202501312492 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2025-01-07  - 01-28","20","<a href=http://www.uschess.org/msa/XtblMain.php?202501281382 target='_blank'>JANUARY 2025 TUESDAY NIGHT SWISS</a>",
 ]);
