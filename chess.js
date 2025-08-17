@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess trainers love ChessBase 18 - and for good reason! With just a few clicks, you can create outstanding training material and even enrich it with interactive exercises. In this first part, we'll show you how to set up a thematic database in no time - perfect for your own practice or for your students. In the upcoming parts, you'll discover powerful ways to use it to boost training results quickly and effectively.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-27-creating-effective-training-material-part-1",
+         "pubDate" : "Sun, 17 Aug 2025 07:00:00",
+         "title" : "ChessBase 18 - Tips for beginners, part 27: Creating Effective Training Material (Part 1)"
+      },
+      {
          "description" : "GM Hikaru Nakamura is one step closer to an unprecedented 50 Bullet Brawl titles after the speed chess titan won the event for the second week in a row and gained his 46th victory. Nakamura got off to a sensational 21.5/22 start in Saturday&#39;s ev...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
