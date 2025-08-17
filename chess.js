@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hikaru Nakamura is one step closer to an unprecedented 50 Bullet Brawl titles after the speed chess titan won the event for the second week in a row and gained his 46th victory. Nakamura got off to a sensational 21.5/22 start in Saturday&#39;s ev...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-16-2025",
+         "pubDate" : "Sat, 16 Aug 2025 18:13:00",
+         "title" : "Nakamura Closes In On 50th Bullet Brawl Title With Commanding Victory"
+      },
+      {
          "description" : "Duobeniajan Costa Calida from Murcia obtained their third consecutive title at the Spanish Team Championship. In the final round, the team could even afford to lose to Magic Extremadura. Second place went to C.A. Silla from Valencia, while Magic from Extremadura completed the podium. | Photos: Spanish Chess Federation (FEDA)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -682,14 +690,6 @@ news_feed (
          "title" : "Keymer Grabs Sole Lead In Chennai"
       },
       {
-         "description" : "Velammal MHS School, from India, won the FIDE World Schools Team Championship 2025 with a perfect 8/8 score. The National School of Physics and Mathematics from Kazakhstan took silver with 6/8, while the Harker School from the U.S. took bronze wit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-schools-team-championship",
-         "pubDate" : "Fri, 08 Aug 2025 13:43:00",
-         "title" : "India's Velammal MHS School Wins Gold, Smart Moves Summit Connects Minds"
-      },
-      {
          "description" : "The World Amateur Chess Championship will be held at Vrnjacka Banja, Serbia from 4th to 14th November, 2025. The detailed regulations you can find at&#160;FIDE",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -952,14 +952,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45839502/koneru-humpy-vs-divya-deshmukh-live-tiebreakers-updates-commentary-result-2025-fide-womens-chess-world-cup-final?device=featurephone",
          "pubDate" : "Sun, 27 Jul 2025 23:00:00",
          "title" : "Divya Deshmukh beats Koneru Humpy to win 2025 FIDE Women's Chess World Cup"
-      },
-      {
-         "description" : "Divya walked a tight-rope in search of a win, but avoided Humpy's traps to gain a draw in game 2 of the final.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45832839/koneru-humpy-vs-divya-deshmukh-live-game-2-blog-updates-commentary-result-2025-fide-womens-chess-world-cup-final?device=featurephone",
-         "pubDate" : "Sat, 26 Jul 2025 23:45:00",
-         "title" : "Divya rejects Humpy's pressure to draw game 2 and push World Cup final into tie-breaks"
       }
    ]
 }
