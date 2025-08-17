@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "British writer Mary Harrington warns that the ability to think deeply is at risk of becoming a privilege in the digital age. Drawing on her own education and recent research, she links declining literacy and attention spans to the rise of smartphones and a \"post-literate\" culture. Her analysis suggests this shift could create a widening cognitive gap, with serious implications for social equality, democratic health, and the preservation of reflective, reasoned thought. | Photo: The Protopia Lab",
+         "description" : "Recently, a 17-year-old player in Germany won the national girls' under-18 tournament. The head of the German commission for women's chess was less thrilled. The winner, you know, who identifies and officially categorizes as female, was born as a boy. Dominic Lawson, who writes for many major British newspapers, a strong chess player, in his words \"managed to smuggle in chess as the subject\" in his Sunday Times column. We brought you an abridged version, now we bring you this thought-provoking piece in full.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/thinking-luxury-good-mary-harrington",
-         "pubDate" : "Sun, 17 Aug 2025 11:00:00",
-         "title" : "Thinking as a luxury good: A warning for the digital age"
+         "link" : "https://en.chessbase.com/post/lawson-on-genders-in-chess",
+         "pubDate" : "Sun, 17 Aug 2025 21:21:16",
+         "title" : "Lawson on genders in chess"
       },
       {
-         "description" : "Chess trainers love ChessBase 18 - and for good reason! With just a few clicks, you can create outstanding training material and even enrich it with interactive exercises. In this first part, we'll show you how to set up a thematic database in no time - perfect for your own practice or for your students. In the upcoming parts, you'll discover powerful ways to use it to boost training results quickly and effectively.",
+         "description" : "Mikhail Moiseyevich Botvinnik is undoubtedly one of the towering figures in the entire history of chess, from the birth of modern chess (circa 1495) to the present day. The subject of this article is a game Botvinnik played in 1943 (while World War II was still raging) against one of the great hopes of Soviet chess at the time - and a true innovator - Isaac Boleslavsky. Botvinnik awarded his pawn sacrifice in the middlegame an exclamation mark in all his annotations. But was he correct? | Help us unravel this riddle.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-27-creating-effective-training-material-part-1",
-         "pubDate" : "Sun, 17 Aug 2025 07:00:00",
-         "title" : "ChessBase 18 - Tips for beginners, part 27: Creating Effective Training Material (Part 1)"
+         "link" : "https://en.chessbase.com/post/riddle-botvinnik-boleslavsky-1943",
+         "pubDate" : "Sun, 17 Aug 2025 19:30:00",
+         "title" : "Riddle: Botvinnik-Boleslavsky, 1943"
+      },
+      {
+         "description" : "Levon Aronian emerged as the clear winner of the Saint Louis Rapid & Blitz tournament, securing victory with two rounds to spare. The 42-year-old grandmaster demonstrated precise play throughout, prevailing over Fabiano Caruana and Maxime Vachier-Lagrave, who took second and third places respectively. For world champion Gukesh Dommaraju the event was less successful, leaving him in need of a strong result at the upcoming Sinquefield Cup to reach the Grand Chess Tour Finals. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2025-5",
+         "pubDate" : "Sun, 17 Aug 2025 18:30:00",
+         "title" : "Aronian secures Saint Louis Rapid & Blitz title with two rounds to spare"
       },
       {
          "description" : "GM Hikaru Nakamura is one step closer to an unprecedented 50 Bullet Brawl titles after the speed chess titan won the event for the second week in a row and gained his 46th victory. Nakamura got off to a sensational 21.5/22 start in Saturday&#39;s ev...",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-16-2025",
          "pubDate" : "Sat, 16 Aug 2025 18:13:00",
          "title" : "Nakamura Closes In On 50th Bullet Brawl Title With Commanding Victory"
-      },
-      {
-         "description" : "Duobeniajan Costa Calida from Murcia obtained their third consecutive title at the Spanish Team Championship. In the final round, the team could even afford to lose to Magic Extremadura. Second place went to C.A. Silla from Valencia, while Magic from Extremadura completed the podium. | Photos: Spanish Chess Federation (FEDA)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/duobeniajan-win-spanish-team-ch-2025",
-         "pubDate" : "Sat, 16 Aug 2025 15:00:00",
-         "title" : "Duobeniajan win Spanish Team Championship for a third year in a row"
       },
       {
          "description" : "Thanks for all the positive feedback on last week's newsletter titled \"You are not your rating\". It really hit home hard for me that identifying with results, believing one is only worth something when you play well, isn't just an experience professional players have. It sort of became an epidemic, both in chess and other []",
@@ -74,28 +74,12 @@ news_feed (
          "title" : "Egregious Erdogmus"
       },
       {
-         "description" : "Whether it's strategy, technique, or opening knowledge - the July releases from ChessBase leave nothing to be desired! Renowned authors such as David Navara, Robert Ris, and Andrew Martin open their toolkits and share a wealth of professional tips. For those who want it all in one package, ChessBase Magazine issue 226 is the perfect choice, packed once again with training material straight from the pros' lab. Opening enthusiasts take note: there's a whole range of new Powerbases and Powerbooks! Take a look at all the products from the past month!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-july",
-         "pubDate" : "Sat, 16 Aug 2025 08:30:00",
-         "title" : "Review: All new releases in July"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123330955.cms\" />Levon Aronian of the United States emerged victorious at the St. Louis Rapid and Blitz tournament, securing the title with a dominant performance and a prize of USD 40,000. World Champion D Gukesh of India finished in a tied sixth position after a mixed performance.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/st-louis-rapid-blitz-d-gukesh-shows-sparks-but-settles-for-sixth-place-levon-aronian-claims-crown/articleshow/123330955.cms",
          "pubDate" : "Sat, 16 Aug 2025 07:30:22",
          "title" : "St Louis Rapid & Blitz: Gukesh settles for sixth place - Aronian claims crown"
-      },
-      {
-         "description" : "Vincent Keymer concluded the Quantbox Chennai Grand Masters tournament with a commanding overall victory, finishing two points ahead of his nearest rivals after defeating Ray Robson in the final round. The result gave the 20-year-old a 2917 performance rating, a gain of over 20 Elo points, and secured his place in the live world top-10 for the first time in his career. In the Challengers, a dramatic last round saw all three leaders lose, allowing M Pranesh to claim the title despite his own defeat. | Photos: Anmol Bhargav",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2025-9",
-         "pubDate" : "Sat, 16 Aug 2025 07:00:00",
-         "title" : "Chennai GMs: Keymer scores yet again, Pranesh wins Challengers"
       },
       {
          "description" : "Italian GM Luca Moroni has once again proven his proficiency in chess variants by defending his title in the 2025 Chess.com Spell Chess Championship on Friday. Moroni, who was the only GM to qualify for the knockout Final for the second year run...",
@@ -136,14 +120,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/vincent-keymer-dominates-the-quantbox-chennai-grand-masters-2025",
          "pubDate" : "Fri, 15 Aug 2025 19:44:00",
          "title" : "Vincent Keymer dominates the Quantbox Chennai Grand Masters 2025 - 9"
-      },
-      {
-         "description" : "The fourth event of the 2025 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 11-15 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the Grand Chess Tour: Alireza Firouzja, R Praggnanandhaa and Maxime Vachier-Lagrave. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2025-live",
-         "pubDate" : "Fri, 15 Aug 2025 19:00:00",
-         "title" : "St. Louis Rapid & Blitz - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123324407.cms\" />M Pranesh clinched the Challengers title at the Chennai Grand Masters 2025, securing a spot in next year's Masters. Vincent Keymer dominated the Masters section, defeating Ray Robson and earning ₹25 Lakhs. The tournament, now a leading classical chess event in India, saw significant final-day developments and determined participants for future competitions.",
@@ -208,14 +184,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-day-4-stlrapidblitz/",
          "pubDate" : "Thu, 14 Aug 2025 22:46:29",
          "title" : "POSTGAME DAY 4 | #STLRapidBlitz"
-      },
-      {
-         "description" : "The Babson Task, one of the most difficult feats in chess composition, has finally been achieved in an endgame study for the first time in history. Italian composer Daniele Guglielmo Gatti succeeded where others, including leading figures, had fallen short, creating a fully legal, perfectly economical and thematically pure version. Published in EG in January 2025, the work marks a historic milestone in the art of chess composition.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/babson-task-modern-realization",
-         "pubDate" : "Thu, 14 Aug 2025 21:10:00",
-         "title" : "The Babson Task - A modern realization"
       },
       {
          "description" : "The tug of war continues between GM Levon Aronian and GM Fabiano Caruana after day four in the 2025 Saint Louis Rapid &#38;amp; Blitz. After an underwhelming first day of blitz, Caruana has sunk to second place and Aronian has taken his place in the l...",
@@ -442,14 +410,6 @@ news_feed (
          "title" : "Awonder Hits 2700, Catches Arjun In Chennai"
       },
       {
-         "description" : "Recently, a 17-year-old player in Germany won the national girls' under-18 tournament. The head of the German commission for women's chess was less thrilled. The winner, you know, who identifies and officially categorizes as female, was born as a boy. Dominic Lawson, who writes for many major British newspapers, a strong chess player (and president of the English Chess Federation), in his words \"managed to smuggle in chess as the subject\" in his Sunday Times column.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-will-never-be-ruled-by-a-queen-2",
-         "pubDate" : "Tue, 12 Aug 2025 08:00:00",
-         "title" : "Chess will never be ruled by a queen"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123250969.cms\" />The Indian chess scene witnesses an intense rivalry between young stars R Praggnanandhaa and D Gukesh, with Pragg initially securing a Candidates berth but Gukesh ultimately claiming the world champion title. Coach RB Ramesh highlights the challenges Pragg faced, including managing pressure and competition from peers.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -600,22 +560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-4",
          "pubDate" : "Sun, 10 Aug 2025 13:15:00",
          "title" : "Nihal Stuns Arjun As Keymer Takes 1-Point Lead"
-      },
-      {
-         "description" : "The 111th edition of the British Chess Championship is taking place on 2-10 August at the St George's Hall in Liverpool. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Nikita Vitiugov, Michael Adams and Gawain Jones. Also noteworthy is the presence of 16-year-old GM Shreyas Royal and 10-year-old prodigy Bodhana Sivanandan. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2025-live",
-         "pubDate" : "Sun, 10 Aug 2025 11:00:00",
-         "title" : "British Chess Championship - Live!"
-      },
-      {
-         "description" : "The 52nd edition of the Dortmund Chess Festival is taking place on 2-10 August at the Kulturzentrum in the largest city of the Ruhr District. European champion Matthias Bluebaum is the rating favourite in the A Open. On Sunday, the International Women's Tournament begins, featuring four representatives from three countries: Elisabeth Paehtz, Dinara Wagner, 15-year-old Chinese champion Lu Miaoyi and Deimant&eacute; Daulyt&eacute;-Cornette of France. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2025-live",
-         "pubDate" : "Sun, 10 Aug 2025 10:20:00",
-         "title" : "Dortmund Chess Festival - Live!"
       },
       {
          "description" : "GM Alexandra Kosteniuk and IM Polina Shuvalova have advanced to the quarterfinals of the 2025 Women&#39;s Speed Chess Championship. While Kosteniuk was clearly too strong for IM Carissa Yip (11-4), Shuvalova only narrowly beat IM Meri Arabidze (7-6) i...",
