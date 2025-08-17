@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "British writer Mary Harrington warns that the ability to think deeply is at risk of becoming a privilege in the digital age. Drawing on her own education and recent research, she links declining literacy and attention spans to the rise of smartphones and a \"post-literate\" culture. Her analysis suggests this shift could create a widening cognitive gap, with serious implications for social equality, democratic health, and the preservation of reflective, reasoned thought. | Photo: The Protopia Lab",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/thinking-luxury-good-mary-harrington",
+         "pubDate" : "Sun, 17 Aug 2025 11:00:00",
+         "title" : "Thinking as a luxury good: A warning for the digital age"
+      },
+      {
          "description" : "Chess trainers love ChessBase 18 - and for good reason! With just a few clicks, you can create outstanding training material and even enrich it with interactive exercises. In this first part, we'll show you how to set up a thematic database in no time - perfect for your own practice or for your students. In the upcoming parts, you'll discover powerful ways to use it to boost training results quickly and effectively.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
