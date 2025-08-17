@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Recently, a 17-year-old player in Germany won the national girls' under-18 tournament. The head of the German commission for women's chess was less thrilled. The winner, you know, who identifies and officially categorizes as female, was born as a boy. Dominic Lawson, who writes for many major British newspapers, a strong chess player, in his words \"managed to smuggle in chess as the subject\" in his Sunday Times column. We brought you an abridged version, now we bring you this thought-provoking piece in full.",
+         "description" : "Recently, a 17-year-old player in Germany won the national girls' under-18 tournament. The head of the German commission for women's chess was less thrilled. The winner, you know, who identifies and officially categorizes as female, was born as a boy. Dominic Lawson, who writes for many major British newspapers, a strong chess player, in his words \"managed to smuggle in chess as the subject\" in his Sunday Times column. We brought you an abridged version, now we bring you this thought-provoking piece in full - with kind permission of the Sunday Times.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lawson-on-genders-in-chess",
-         "pubDate" : "Sun, 17 Aug 2025 21:21:16",
-         "title" : "Lawson on genders in chess"
+         "link" : "https://en.chessbase.com/post/full-lawson-on-genders-in-chess",
+         "pubDate" : "Sun, 17 Aug 2025 21:27:16",
+         "title" : "Full Lawson on genders in chess"
       },
       {
          "description" : "Mikhail Moiseyevich Botvinnik is undoubtedly one of the towering figures in the entire history of chess, from the birth of modern chess (circa 1495) to the present day. The subject of this article is a game Botvinnik played in 1943 (while World War II was still raging) against one of the great hopes of Soviet chess at the time - and a true innovator - Isaac Boleslavsky. Botvinnik awarded his pawn sacrifice in the middlegame an exclamation mark in all his annotations. But was he correct? | Help us unravel this riddle.",
@@ -904,14 +904,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45841194/divya-deshmukh-indian-chess-latest-win-world-cup-crown-just-start?device=featurephone",
          "pubDate" : "Mon, 28 Jul 2025 10:04:00",
          "title" : "Indian chess's latest W: World Cup crown just the start for Divya Deshmukh"
-      },
-      {
-         "description" : "Divya Deshmukh won the rapid tie-breaks to be crowned the winner of the Women's World Cup.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45839502/koneru-humpy-vs-divya-deshmukh-live-tiebreakers-updates-commentary-result-2025-fide-womens-chess-world-cup-final?device=featurephone",
-         "pubDate" : "Sun, 27 Jul 2025 23:00:00",
-         "title" : "Divya Deshmukh beats Koneru Humpy to win 2025 FIDE Women's Chess World Cup"
       }
    ]
 }
