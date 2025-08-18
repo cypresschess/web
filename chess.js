@@ -26,6 +26,14 @@ news_feed (
          "title" : "Gosforth Chess Club - GNR Sponsorship for Ukraine"
       },
       {
+         "description" : "IM Polina Shuvalova will take on Women&#39;s World Champion Ju Wenjun in the 2025 Women&#39;s Speed Chess Championship Semifinals after defeating IM Alice Lee 9-5. A topsy-turvy match was too close to call for the the first two sections, and midway throug...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-wscc-qf-polina-shuvalova-beats-alice-lee",
+         "pubDate" : "Mon, 18 Aug 2025 13:54:00",
+         "title" : "Shuvalova Beats Alice Lee To Reach Women's Speed Chess Semifinals"
+      },
+      {
          "description" : "The Sinquefield Cup will take place in St. Louis from 18 to 28 August, bringing together ten elite players in a single round-robin classical event. As the final stage of the Grand Chess Tour before the Finals in São Paulo, the tournament carries extra weight, with qualification spots still undecided. The strong field will be led by defending champion Alireza Firouzja, top seed Fabiano Caruana, GCT standings' leader Maxime Vachier-Lagrave (pictured) and reigning classical chess world champion Gukesh Dommaraju. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -634,14 +642,6 @@ news_feed (
          "title" : "Nakamura Wins 45th Bullet Brawl Following 30-Game Unbeaten Streak"
       },
       {
-         "description" : "GM Vincent Keymer made it 3/3 with another brilliant win, this time over GM Karthikeyan Murali, but he leads the Quantbox Chennai Grand Masters 2025 by just half a point after GM Arjun Erigaisi eased to victory over GM Ray Robson. It was a day of ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-3",
-         "pubDate" : "Sat, 09 Aug 2025 13:46:00",
-         "title" : "Keymer Makes It 3/3, Arjun In Hot Pursuit"
-      },
-      {
          "description" : "Hey everyone, this is a very personal one. I wrote it both as a reminder for myself, and for anyone else struggling with too high expectations. They are slowly but surely burning us out and eating us from inside. Let me tell you: You are enough. You are not your rating. Chess rating doesn't determine []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -880,14 +880,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/new-ims-sohum-lohia-and-alex-golding/",
          "pubDate" : "Tue, 29 Jul 2025 09:27:24",
          "title" : "New IMs - Sohum Lohia and Alex Golding"
-      },
-      {
-         "description" : " Rising Stars and Legends Shine at 2025 U.S. Championships The next generation of American chess stars made their mark while legends reinforced their legacy in this year's U.S. Junior, U.S. Junior Girls, and U.S. Senior Championships-three of the nation's most prestigious events, hosted by the Saint Louis Chess Club in Saint Louis, Mo., the official [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/new-champions-emerge-gm-andy-woodward-fm-wgm-zoey-tang-and-gm-alex-fishbein-win-in-u-s-junior-junior-girls-and-senior-championships-in-saint-louis/\">New Champions Emerge: GM Andy Woodward, FM/WGM Zoey Tang, and GM Alex Fishbein Win in U.S. Junior, Junior Girls and Senior Cha",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/new-champions-emerge-gm-andy-woodward-fm-wgm-zoey-tang-and-gm-alex-fishbein-win-in-u-s-junior-junior-girls-and-senior-championships-in-saint-louis/",
-         "pubDate" : "Mon, 28 Jul 2025 19:48:56",
-         "title" : "New Champions Emerge: GM Andy Woodward, FM/WGM Zoey Tang, and GM Alex Fishbein Win in U.S. Junior, Junior Girls and Senior Championships in Saint Louis"
       }
    ]
 }
