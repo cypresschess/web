@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup will take place in St. Louis from 18 to 28 August, bringing together ten elite players in a single round-robin classical event. As the final stage of the Grand Chess Tour before the Finals in São Paulo, the tournament carries extra weight, with qualification spots still undecided. The strong field will be led by defending champion Alireza Firouzja, top seed Fabiano Caruana, GCT standings' leader Maxime Vachier-Lagrave (pictured) and reigning classical chess world champion Gukesh Dommaraju. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-preview",
+         "pubDate" : "Mon, 18 Aug 2025 12:00:00",
+         "title" : "Sinquefield Cup: Fighting for spots in the revamped GCT Finals"
+      },
+      {
+         "description" : "Anish Giri is known for his extensive opening knowledge and thorough preparation. Together with Sagar Shah, in his \"Supergrandmaster's Guide to Openings\", he provides insights into the ideas and characteristics of a wide range of openings. Inspiring and instructive. This week (18.-24. August) for only 59.90€ - instead of 89.90€!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/summer-special-giri-s-opening-guide",
+         "pubDate" : "Mon, 18 Aug 2025 11:49:46",
+         "title" : "Summer Special: Giri's Opening Guide"
+      },
+      {
          "description" : "Recently, a 17-year-old player in Germany won the national girls' under-18 tournament. The head of the German commission for women's chess was less thrilled. The winner, you know, who identifies and officially categorizes as female, was born as a boy. Dominic Lawson, who writes for many major British newspapers, a strong chess player, in his words \"managed to smuggle in chess as the subject\" in his Sunday Times column. We brought you an abridged version, now we bring you this thought-provoking piece in full - with kind permission of the Sunday Times.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/riddle-botvinnik-boleslavsky-1943",
          "pubDate" : "Sun, 17 Aug 2025 19:30:00",
          "title" : "Riddle: Botvinnik-Boleslavsky, 1943"
-      },
-      {
-         "description" : "Levon Aronian emerged as the clear winner of the Saint Louis Rapid & Blitz tournament, securing victory with two rounds to spare. The 42-year-old grandmaster demonstrated precise play throughout, prevailing over Fabiano Caruana and Maxime Vachier-Lagrave, who took second and third places respectively. For world champion Gukesh Dommaraju the event was less successful, leaving him in need of a strong result at the upcoming Sinquefield Cup to reach the Grand Chess Tour Finals. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2025-5",
-         "pubDate" : "Sun, 17 Aug 2025 18:30:00",
-         "title" : "Aronian secures Saint Louis Rapid & Blitz title with two rounds to spare"
       },
       {
          "description" : "GM Hikaru Nakamura is one step closer to an unprecedented 50 Bullet Brawl titles after the speed chess titan won the event for the second week in a row and gained his 46th victory. Nakamura got off to a sensational 21.5/22 start in Saturday&#39;s ev...",
@@ -880,30 +888,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/youngest-ever-wgm-norm-bodhana-sivanandan/",
          "pubDate" : "Mon, 28 Jul 2025 11:52:33",
          "title" : "Youngest ever WGM norm - Bodhana Sivanandan!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/divya-deshmukh-beats-koneru-humpy-in-tiebreaks-to-become-the-fide-womens-world-cup-champion-2025/",
-         "pubDate" : "Mon, 28 Jul 2025 10:30:16",
-         "title" : "Divya Deshmukh beats Koneru Humpy in tiebreaks to become the FIDE Women's World Cup Champion 2025"
-      },
-      {
-         "description" : "Last Updated on 28th July 2025 by WebAdmin Chess.com Glorney:&#160;https://www.chess.com/events/2025-glorney-cup-glorney-u18/games Gilbert:&#160;https://www.chess.com/events/2025-glorney-cup-gilbert-u18-girls/games Robinson:&#160;https://www.chess.com/events/2025-glorney-cup-robinson-u14/games Stokes: https://www.chess.com/events/2025-glorney-cup-stokes-u12/games &#160; Lichess.org&#160; Glorney:&#160;https://lichess.org/broadcast/2025-glorney-cup-under-18/u9m7vRfj Gilbert:&#160;https://lichess.org/broadcast/2025-glorney-cup-gilbert-under-18-girls/NIZZqTH9 Robinson:&#160;https://lichess.org/broadcast/2025-glorney-cup-robinson-under-14/cIMeVYGT Stokes:&#160;https://lichess.org/broadcast/2025-",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/glorney-cup-live-game-links/",
-         "pubDate" : "Mon, 28 Jul 2025 10:27:35",
-         "title" : "Glorney Cup - live games / results links"
-      },
-      {
-         "description" : "It must be a giddy feeling to be associated with Indian chess right now, as Divya Deshmukh joins the list of title holders",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45841194/divya-deshmukh-indian-chess-latest-win-world-cup-crown-just-start?device=featurephone",
-         "pubDate" : "Mon, 28 Jul 2025 10:04:00",
-         "title" : "Indian chess's latest W: World Cup crown just the start for Divya Deshmukh"
       }
    ]
 }
