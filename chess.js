@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last Updated on 18th August 2025 by Melinda Wilde Gosforth Chess Club has launched an appeal to sponsor Club Members doing the Great North Run, Sep 7 2025. Alex (Piercey),...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/gosforth-chess-club-gnr-sponsorship-for-ukraine/",
+         "pubDate" : "Mon, 18 Aug 2025 15:16:05",
+         "title" : "Gosforth Chess Club - GNR Sponsorship for Ukraine"
+      },
+      {
          "description" : "The Sinquefield Cup will take place in St. Louis from 18 to 28 August, bringing together ten elite players in a single round-robin classical event. As the final stage of the Grand Chess Tour before the Finals in São Paulo, the tournament carries extra weight, with qualification spots still undecided. The strong field will be led by defending champion Alireza Firouzja, top seed Fabiano Caruana, GCT standings' leader Maxime Vachier-Lagrave (pictured) and reigning classical chess world champion Gukesh Dommaraju. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/summer-special-giri-s-opening-guide",
          "pubDate" : "Mon, 18 Aug 2025 11:49:46",
          "title" : "Summer Special: Giri's Opening Guide"
+      },
+      {
+         "description" : "When 10-year-old Keya Jha beat a grandmaster in the final round of the Joe Yun Memorial, she not only sensationally clinched first place in the tournament, but also set a U.S. record for being the youngest American to defeat a grandmaster in a cla...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/10-year-old-keya-defeats-grandmaster-breaks-us-record",
+         "pubDate" : "Mon, 18 Aug 2025 05:49:00",
+         "title" : "10-Year-Old Keya Defeats Grandmaster Hours After Bodhana, Sets U.S. Record"
       },
       {
          "description" : "Recently, a 17-year-old player in Germany won the national girls' under-18 tournament. The head of the German commission for women's chess was less thrilled. The winner, you know, who identifies and officially categorizes as female, was born as a boy. Dominic Lawson, who writes for many major British newspapers, a strong chess player, in his words \"managed to smuggle in chess as the subject\" in his Sunday Times column. We brought you an abridged version, now we bring you this thought-provoking piece in full - with kind permission of the Sunday Times.",
@@ -650,14 +666,6 @@ news_feed (
          "title" : "Harika Dronavalli plays Chennai Grand Masters with 2-year-old daughter: 'Happy she could witness my life in a way'"
       },
       {
-         "description" : "GM Vincent Keymer is the only player on a perfect 2/2 in either section of the&#38;nbsp;Quantbox Chennai Grand Masters 2025 after winning a wild game with Black against GM Pranav Venkatesh. The other winner was GM Ray Robson, who won a thrilling time ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-2",
-         "pubDate" : "Fri, 08 Aug 2025 14:43:00",
-         "title" : "Keymer Grabs Sole Lead In Chennai"
-      },
-      {
          "description" : "The World Amateur Chess Championship will be held at Vrnjacka Banja, Serbia from 4th to 14th November, 2025. The detailed regulations you can find at&#160;FIDE",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -880,14 +888,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-womens-world-cup-2025",
          "pubDate" : "Mon, 28 Jul 2025 18:40:00",
          "title" : "FIDE Women's World Cup 2025 - Games and Results"
-      },
-      {
-         "description" : "Last Updated on 29th July 2025 by WebAdmin Sunday 27 July will go down in history as a great day for English football, with the Lionesses winning the Euros final...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/youngest-ever-wgm-norm-bodhana-sivanandan/",
-         "pubDate" : "Mon, 28 Jul 2025 11:52:33",
-         "title" : "Youngest ever WGM norm - Bodhana Sivanandan!"
       }
    ]
 }
