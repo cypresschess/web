@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-live",
+         "pubDate" : "Mon, 18 Aug 2025 19:00:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : " Americans Sweep First and Second Place in First U.S. Stop of the Grand Chess Tour in Saint Louis SAINT LOUIS, August 18, 2025 U.S. Grandmaster Levon Aronian emerged victorious at the 2025 Saint Louis Rapid &#38; Blitz, conquering 27 rounds of fierce competition in one of the 2025 Grand Chess Tour's (GCT) most electrifying events. [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/gm-levon-aronian-wins-2025-saint-louis-rapid-blitz/\">GM Levon Aronian Wins 2025 Saint Louis Rapid &amp; Blitz</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/gm-levon-aronian-wins-2025-saint-louis-rapid-blitz/",
+         "pubDate" : "Mon, 18 Aug 2025 18:24:43",
+         "title" : "GM Levon Aronian Wins 2025 Saint Louis Rapid & Blitz"
+      },
+      {
          "description" : "Last Updated on 18th August 2025 by Melinda Wilde Gosforth Chess Club has launched an appeal to sponsor Club Members doing the Great North Run, Sep 7 2025. Alex (Piercey),...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -26,12 +42,28 @@ news_feed (
          "title" : "Summer Special: Giri's Opening Guide"
       },
       {
-         "description" : "When 10-year-old Keya Jha beat a grandmaster in the final round of the Joe Yun Memorial, she not only sensationally clinched first place in the tournament, but also set a U.S. record for being the youngest American to defeat a grandmaster in a cla...",
+         "description" : "The Collegiate Chess League (CCL) is back for another thrilling season, and registrations for Fall 2025 are officially open! Once again, the CCL will boast a $25,000 prize fund and the exciting four vs. four team format that fans and players love....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2025-registration",
+         "pubDate" : "Mon, 18 Aug 2025 09:19:53",
+         "title" : "Collegiate Chess League Fall 2025 Registration"
+      },
+      {
+         "description" : "When 10-year-old Keya Jha beat a grandmaster in the final round of the Joe Yun Memorial, she not only clinched first place in the tournament, but also set a U.S. record for being the youngest American girl to defeat a grandmaster in a classical ga...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/10-year-old-keya-defeats-grandmaster-breaks-us-record",
          "pubDate" : "Mon, 18 Aug 2025 05:49:00",
          "title" : "10-Year-Old Keya Defeats Grandmaster Hours After Bodhana, Sets U.S. Record"
+      },
+      {
+         "description" : "GM Levon Aronian won his third Saint Louis Rapid &amp; Blitz title on Friday, August 15, netting a $40,000 first prize and 13 Grand Chess Tour (GCT) points. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Levon Aronian's hot streak continues! (Photo courtesy Lennart Ootes/SLCC)<br> <br> <br> <br> The 10-player invitational consisted of nine rounds of rapid chess (25-minute games with 10-second increment from move one) from Monday through Wednesday, followed by a blitz double round robin (five-minute games with three-second increment) on Thursday and Friday, for a total of 27 rounds.Wins in the rapid portion counted for two points each (with draws being",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/aronian-wins-third-saint-louis-rapid-blitz",
+         "pubDate" : "Mon, 18 Aug 2025 00:00:00",
+         "title" : "Aronian Wins Third Saint Louis Rapid & Blitz"
       },
       {
          "description" : "Recently, a 17-year-old player in Germany won the national girls' under-18 tournament. The head of the German commission for women's chess was less thrilled. The winner, you know, who identifies and officially categorizes as female, was born as a boy. Dominic Lawson, who writes for many major British newspapers, a strong chess player, in his words \"managed to smuggle in chess as the subject\" in his Sunday Times column. We brought you an abridged version, now we bring you this thought-provoking piece in full - with kind permission of the Sunday Times.",
@@ -282,7 +314,7 @@ news_feed (
          "title" : "Chennai Grand Masters 2025: Vincent Keymer closes in on title with win"
       },
       {
-         "description" : "For over a decade, IM Carissa Yip held the world record as the youngest girl to beat a grandmaster in a FIDE-rated classical game of chess, at the age of 10 years, 11 months, and 20 days. Almost 11 years later, two players have broken Yip's record - one in England; the other in the U.S. - only a day apart.England's WFM Bodhana Sivanandan, has received plenty of coverage since becoming the youngest member of any national team in last year's FIDE Olympiad. On Saturday, Aug. 9, she defeated GM Peter Wells in the final round of the 2025 British Chess Championships, clocking in at only 10 years, five months, and three days old. She also became eligible for the WIM title with her 5/9 score. <br> <",
+         "description" : "Update, August 18, 2025: This article has been updated to reflect the circumstances of GM Bryan Smith's record-breaking loss. An earlier version of the annotations for this article incorrectly suggested Smith was sitting at the board when he lost on time.Since then, Smith has reached out to explain that he, in fact, was unaware of the time control for the event, and was away from the board when his flag fell. He has requested this article be updated to reflect this fact, as the original article, based on a good faith reporting of the game with the information that was available at the time, stated that his loss was a result of time trouble. His account of the circumstances surrounding the lo",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/girls-over-gms-2-break-yips-record-one-weekend",
@@ -650,14 +682,6 @@ news_feed (
          "title" : "European Youth Rapid and Blitz Chess Champions 2025 crowned in Greece"
       },
       {
-         "description" : "GM Hikaru Nakamura and Kick are thrilled to present Hikaru&#39;s Second Annual Chess 4 The Masses Sponsored by Kick. The event gives players of all levels the chance to win cash prizes&#38;mdash;and maybe even see Hikaru commentating on their games!&#38;nbsp;...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-second-annual-hikarus-chess-4-the-masses",
-         "pubDate" : "Sat, 09 Aug 2025 08:00:00",
-         "title" : "Announcing Hikaru's Second Annual Chess 4 The Masses Sponsored By Kick"
-      },
-      {
          "description" : "For the first time, Harika's daughter Hanvika is experiencing her mother's world around the chess board.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -770,14 +794,6 @@ news_feed (
          "title" : "Tactics Tuesday: Women's World Cup, Pt. 2"
       },
       {
-         "description" : "The Caro-Kann Defense (Advance Variation) is, by far, the most popular opening over the last year, from June 2024 to May 2025, for players participating in US Chess ICCF server-based games. With just over 5% of the games on the server using the Caro-Kann (Advance Variation) over the last year, no other opening even came close in popularity.The Advance Variation is a family of lines within the Caro-Kann Defense, which is one of the most solid and respected responses to 1.e4.The ECO Code for the Caro-Kann Defense (Advance Variation) is B12.Historical research for the Caro-Kann Defense informs us that the name is the combination of two men: Horatio Caro, from the United Kingdom, and Marcus Kann",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-august-2025-caro-kann-defense-advance-variation",
-         "pubDate" : "Mon, 04 Aug 2025 00:00:00",
-         "title" : "Check is in the Mail, August 2025: Caro-Kann Defense (Advance Variation)"
-      },
-      {
          "description" : "Last Updated on 3rd August 2025 by WebAdmin Coventry will be transformed into a city of chess next summer as the University of Warwick hosts the 2026 British Chess Championships....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -872,22 +888,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/new-champions-emerge-gm-andy-woodward-fm-wgm-zoey-tang-and-gm-alex-fishbein-win-in-u-s-junior-junior-girls-and-senior-championships-in-saint-louis/",
          "pubDate" : "Mon, 28 Jul 2025 19:48:56",
          "title" : "New Champions Emerge: GM Andy Woodward, FM/WGM Zoey Tang, and GM Alex Fishbein Win in U.S. Junior, Junior Girls and Senior Championships in Saint Louis"
-      },
-      {
-         "description" : " The US Junior, Girls and Seniors took place in St Louis Tue 15th to Fri 25th Jul 2025. Andy Woodward won his first title with 6.5/9 half a point clear of Brewington Hardaway and Abhimanyu Mishra. Zoey Tang won the girls event with 7/9 half a point clear of Megan Althea Paragua. Only the seniors went to a tie-break where Alex Fishbein beat Alexander Shabalov and drew with Vladimir Akopian in the tie-breaks after all scored 5.5/9.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/us-junior-girls-and-seniors-2025",
-         "pubDate" : "Mon, 28 Jul 2025 18:55:00",
-         "title" : "US Junior, Girls and Seniors 2025 - Games and Results"
-      },
-      {
-         "description" : " The FIDE Women's World Cup took place in Batumi, Georgia, Sun 6th Jul to Monday 28th Jul 2025. This was a seven round knockout with 107 players. The top seeds were Lei Tingjie, Zhu Jiner, Tan Zhongyi, Humpy Koneru, Anna Muzychuk etc. The event was won by 15th seed IM Divya Deshmukh who beat Humpy Koneru in a rapid tie-break in the final, Deshmukh had missed a big chance in the first game of the regular time control. She won the event, a place in the women's Candidates and the GM title. Koneru and Tan Zhongyi join Deshmukh in the women's Candidates. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-world-cup-2025",
-         "pubDate" : "Mon, 28 Jul 2025 18:40:00",
-         "title" : "FIDE Women's World Cup 2025 - Games and Results"
       }
    ]
 }
