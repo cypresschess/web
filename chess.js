@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Grandmaster Jonathan Levitt has recently ventured into an unexpected field: songwriting. Inspired by a shared poetry routine with his wife, he has written lyrics dedicated to figures such as Bobby Fischer, Boris Spassky and Garry Kasparov. With nine chess-themed songs now available, Levitt continues to explore new forms of creativity while maintaining his deep connection to the game. | Photo: Jonathan Levitt",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessboard-songbook-jonathan-levitt",
+         "pubDate" : "Tue, 19 Aug 2025 13:00:00",
+         "title" : "From chessboard to songbook: GM Jonathan Levitt's new creative path"
+      },
+      {
          "description" : "The Sinquefield Cup began in Saint Louis with two decisive results in the first round. Praggnanandhaa Rameshbabu scored an important win over world champion Gukesh Dommaraju, which was Pragg's first classical victory over his compatriot since 2022, moving him to world number three in the live rankings. Levon Aronian also made a winning start, defeating Nodirbek Abdusattorov, while Sam Sevian missed a chance to beat Wesley So. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-1",
-         "pubDate" : "Mon, 18 Aug 2025 23:16:34",
+         "pubDate" : "Mon, 18 Aug 2025 23:16:00",
          "title" : "Aronian Continues Hot Streak, Praggnanandhaa Beats World Champion"
       },
       {
@@ -856,14 +864,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/aug/01/chess-10-year-old-targets-world-record-alongside-grandmasters-at-british-championship",
          "pubDate" : "Fri, 01 Aug 2025 07:00:17",
          "title" : "Chess: 10-year-old targets world record alongside grandmasters at British Championship"
-      },
-      {
-         "description" : "Last Updated on 29th July 2025 by WebAdmin Congratulations to Sohum Lohia (above right) and to Alex Golding who both had their IM titles confirmed at the FIDE Council meeting...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/new-ims-sohum-lohia-and-alex-golding/",
-         "pubDate" : "Tue, 29 Jul 2025 09:27:24",
-         "title" : "New IMs - Sohum Lohia and Alex Golding"
       }
    ]
 }
