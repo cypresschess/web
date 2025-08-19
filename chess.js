@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup began in Saint Louis with two decisive results in the first round. Praggnanandhaa Rameshbabu scored an important win over world champion Gukesh Dommaraju, which was Pragg's first classical victory over his compatriot since 2022, moving him to world number three in the live rankings. Levon Aronian also made a winning start, defeating Nodirbek Abdusattorov, while Sam Sevian missed a chance to beat Wesley So. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-1",
+         "pubDate" : "Tue, 19 Aug 2025 08:30:00",
+         "title" : "Sinquefield Cup: Pragg takes down Gukesh, climbs to world number three"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123380491.cms\" />In the Sinquefield Cup, R Praggnanandhaa triumphed over D Gukesh. Levon Aronian also secured a win against Nodirbek Abdusattorov. Other matches saw draws between Fabiano Caruana and Jan-Krzysztof Duda, Samuel Sevian and Wesley So, and Maxime Vachier-Lagrave and Alireza Firouzja. Praggnanandhaa and Aronian now lead the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-r-praggnanandhaa-outplays-d-gukesh/articleshow/123380491.cms",
+         "pubDate" : "Tue, 19 Aug 2025 07:01:20",
+         "title" : "Sinquefield Cup: R Praggnanandhaa outplays D Gukesh"
+      },
+      {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinqefield-cup-postgame-day-1/\">POSTGAME ROUND 1: Pragg Doesn't Give Gukesh a Chance! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "POSTGAME ROUND 1: Pragg Doesn't Give Gukesh a Chance! | #SinquefieldCup"
       },
       {
-         "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-live",
-         "pubDate" : "Mon, 18 Aug 2025 19:00:00",
-         "title" : "Sinquefield Cup - Live!"
+         "description" : "GMs Levon Aronian and Praggnanandhaa Rameshbabu started with wins in the 2025 Sinquefield Cup to take the early lead. Aronian beat GM Nodirbek Abdusattorov with the black pieces in our Game of the Day, while Praggnanandhaa won a surprisingly easy-...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-1",
+         "pubDate" : "Mon, 18 Aug 2025 23:16:34",
+         "title" : "Aronian Continues Hot Streak, Praggnanandhaa Beats World Champion"
       },
       {
          "description" : " Americans Sweep First and Second Place in First U.S. Stop of the Grand Chess Tour in Saint Louis SAINT LOUIS, August 18, 2025 U.S. Grandmaster Levon Aronian emerged victorious at the 2025 Saint Louis Rapid &#38; Blitz, conquering 27 rounds of fierce competition in one of the 2025 Grand Chess Tour's (GCT) most electrifying events. [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/gm-levon-aronian-wins-2025-saint-louis-rapid-blitz/\">GM Levon Aronian Wins 2025 Saint Louis Rapid &amp; Blitz</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -42,22 +58,6 @@ news_feed (
          "title" : "Shuvalova Beats Alice Lee To Reach Women's Speed Chess Semifinals"
       },
       {
-         "description" : "The Sinquefield Cup will take place in St. Louis from 18 to 28 August, bringing together ten elite players in a single round-robin classical event. As the final stage of the Grand Chess Tour before the Finals in São Paulo, the tournament carries extra weight, with qualification spots still undecided. The strong field will be led by defending champion Alireza Firouzja, top seed Fabiano Caruana, GCT standings' leader Maxime Vachier-Lagrave (pictured) and reigning classical chess world champion Gukesh Dommaraju. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-preview",
-         "pubDate" : "Mon, 18 Aug 2025 12:00:00",
-         "title" : "Sinquefield Cup: Fighting for spots in the revamped GCT Finals"
-      },
-      {
-         "description" : "Anish Giri is known for his extensive opening knowledge and thorough preparation. Together with Sagar Shah, in his \"Supergrandmaster's Guide to Openings\", he provides insights into the ideas and characteristics of a wide range of openings. Inspiring and instructive. This week (18.-24. August) for only 59.90€ - instead of 89.90€!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/summer-special-giri-s-opening-guide",
-         "pubDate" : "Mon, 18 Aug 2025 11:49:46",
-         "title" : "Summer Special: Giri's Opening Guide"
-      },
-      {
          "description" : "The Collegiate Chess League (CCL) is back for another thrilling season, and registrations for Fall 2025 are officially open! Once again, the CCL will boast a $25,000 prize fund and the exciting four vs. four team format that fans and players love....",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -80,14 +80,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/aronian-wins-third-saint-louis-rapid-blitz",
          "pubDate" : "Mon, 18 Aug 2025 00:00:00",
          "title" : "Aronian Wins Third Saint Louis Rapid & Blitz"
-      },
-      {
-         "description" : "Recently, a 17-year-old player in Germany won the national girls' under-18 tournament. The head of the German commission for women's chess was less thrilled. The winner, you know, who identifies and officially categorizes as female, was born as a boy. Dominic Lawson, who writes for many major British newspapers, a strong chess player, in his words \"managed to smuggle in chess as the subject\" in his Sunday Times column. We brought you an abridged version, now we bring you this thought-provoking piece in full - with kind permission of the Sunday Times.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/full-lawson-on-genders-in-chess",
-         "pubDate" : "Sun, 17 Aug 2025 21:27:16",
-         "title" : "Full Lawson on genders in chess"
       },
       {
          "description" : "Mikhail Moiseyevich Botvinnik is undoubtedly one of the towering figures in the entire history of chess, from the birth of modern chess (circa 1495) to the present day. The subject of this article is a game Botvinnik played in 1943 (while World War II was still raging) against one of the great hopes of Soviet chess at the time - and a true innovator - Isaac Boleslavsky. Botvinnik awarded his pawn sacrifice in the middlegame an exclamation mark in all his annotations. But was he correct? | Help us unravel this riddle.",
@@ -538,14 +530,6 @@ news_feed (
          "title" : "Aronian Leads With Perfect Score"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123240264.cms\" />Vincent Keymer held his lead at the Chennai Grand Masters 2025 after a draw with Vidit Gujrathi, closely followed by Arjun Erigaisi. Keymer and Erigaisi are set for a crucial face-off in the next round. Abhimanyu Puranik extended his lead in the Challengers section with a win, while other matches saw decisive victories and draws.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-vincent-keymer-remains-tournament-leader-arjun-erigaisi-one-point-behind/articleshow/123240264.cms",
-         "pubDate" : "Mon, 11 Aug 2025 15:53:59",
-         "title" : "Chennai GM: Keymer remains tournament leader; Erigaisi one point behind"
-      },
-      {
          "description" : "GM Jorden van Foreest bounced back after two losses in a row to beat GM Ray Robson in the only decisive game of round five of the Quantbox Chennai Grand Masters 2025. As the tournament crossed the halfway mark, GM Vincent Keymer maintained his one...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -640,14 +624,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-wscc-ro16-kosteniuk-yip-shuvalova-arabidze",
          "pubDate" : "Sun, 10 Aug 2025 06:15:00",
          "title" : "Kosteniuk, Shuvalova Qualify For Women's Speed Chess Championship Quarterfinals"
-      },
-      {
-         "description" : "Fresh off the back of his sixth Freestyle Friday victory, GM Hikaru Nakamura&#38;nbsp;reclaimed his spot on the Bullet Brawl throne after scoring 56/68 and accruing a total of 180 points on Saturday. Nakamura kicked off the arena with a 30-game unbeat...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-9-2025",
-         "pubDate" : "Sat, 09 Aug 2025 17:42:00",
-         "title" : "Nakamura Wins 45th Bullet Brawl Following 30-Game Unbeaten Streak"
       },
       {
          "description" : "Hey everyone, this is a very personal one. I wrote it both as a reminder for myself, and for anyone else struggling with too high expectations. They are slowly but surely burning us out and eating us from inside. Let me tell you: You are enough. You are not your rating. Chess rating doesn't determine []",
