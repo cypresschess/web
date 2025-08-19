@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinqefield-cup-postgame-day-1/\">POSTGAME ROUND 1: Pragg Doesn't Give Gukesh a Chance! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinqefield-cup-postgame-day-1/",
+         "pubDate" : "Tue, 19 Aug 2025 00:20:13",
+         "title" : "POSTGAME ROUND 1: Pragg Doesn't Give Gukesh a Chance! | #SinquefieldCup"
+      },
+      {
          "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
