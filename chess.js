@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-live",
+         "pubDate" : "Tue, 19 Aug 2025 19:00:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/12th-sinquefield-cup-2025\">Sinquefield Cup</a> started with two decisive games. Levon Aronian on the back of his rapid and blitz win beat Nodirbek Abdusattorov in a full blooded struggle. Praggnanandhaa scored a very convincing win against Gukesh. MVL was much better on the board and clock against Alireza Firouzja but allowed him to escape. Sam Sevian briefly had a winning position against Wesley So and Fabiano Caruana pushed a little against Jan-Krzysztof Duda but never seemed to have very much. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/aronian-and-praggnanandhaa-win-in-round-1-of-the-sinquefield-cup",
+         "pubDate" : "Tue, 19 Aug 2025 17:03:00",
+         "title" : "Aronian and Praggnanandhaa win in Round 1 of the Sinquefield Cup - 1"
+      },
+      {
          "description" : "Vincent Keymer celebrated one of the greatest successes of his career at the Chennai Masters. He won the strong tournament by a two-point margin, achieved a performance rating of 2917 and gained more than 20 Elo points. For the first time in his career, he has entered the world's top ten in the live rankings. After the tournament he sat down with Himank Ghosh of ChessBase India for an in-depth interview, speaking about the event, his career, his rivals, his collaboration with Peter Leko, life as a top player, his goals, and much more.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-is-something-i-really-enjoy-an-interview-with-vincent-keymer",
          "pubDate" : "Tue, 19 Aug 2025 16:39:49",
          "title" : "\"Chess is something I really enjoy\" - An interview with Vincent Keymer"
+      },
+      {
+         "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the players and accompanying persons are required to make",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/19th-asian-schools-chess-championships-2025-in-ulaanbaatar-mongolia-from-24th-october-to-2nd-november-2025/",
+         "pubDate" : "Tue, 19 Aug 2025 16:01:59",
+         "title" : "19th Asian Schools Chess Championships - 2025 in Ulaanbaatar, Mongolia from 24th October to 2nd November, 2025."
       },
       {
          "description" : "Karsten M&uuml;ller and Arne K&auml;hler use Fritz 20 to compare game analysis with the 4 Player Types standard model. Using a game by Elisabeth P&auml;htz against the 'Bull,' they explain the strategic mistakes of an Active player and how other player types (Reflectors, Theorists, Pragmatists) would have avoided them. In conclusion, they emphasize that Fritz 20 with its player type model offers a valuable training opportunity to specifically prepare for opponents with a certain style - even for Freestyle Chess events.",
@@ -18,7 +42,7 @@ news_feed (
          "title" : "Fritz 20 and the 4 Player Types standard model - Analysis of Paehtz vs. the 'Bull'"
       },
       {
-         "description" : " The newly expanded Club to reopen as the premier global venue for chess, kicking off a historic series of elite tournaments SAINT LOUIS, MO (August X, 2025) - The Saint Louis Chess Club is proud to announce the grand reopening of its newly expanded campus this fall, marking a bold new chapter for the game [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-saint-louis-chess-club-grand-reopening/\">Saint Louis Chess Club to Unveil New World-Class Facility With a Month of Historic Events, Legendary Matches, and U.S. &amp; U.S. Women's Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : " The newly expanded Club to reopen as the premier global venue for chess, kicking off a historic series of elite tournaments SAINT LOUIS, MO (August 19, 2025) - The Saint Louis Chess Club is proud to announce the grand reopening of its newly expanded campus this fall, marking a bold new chapter for the game [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-saint-louis-chess-club-grand-reopening/\">Saint Louis Chess Club to Unveil New World-Class Facility With a Month of Historic Events, Legendary Matches, and U.S. &amp; U.S. Women's Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-saint-louis-chess-club-grand-reopening/",
@@ -56,6 +80,22 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinqefield-cup-postgame-day-1/",
          "pubDate" : "Tue, 19 Aug 2025 00:20:13",
          "title" : "POSTGAME ROUND 1: Pragg Doesn't Give Gukesh a Chance! | #SinquefieldCup"
+      },
+      {
+         "description" : "This week's puzzles look at some brilliant tactical moments from the 125th Annual U.S. Open. WGM Sabina Foisor's excellent coverage for Chess Life Online focused mainly on the top boards, but that doesn't mean she wasn't also keeping an eye on some more tactical highlights, the first batch of which we are pleased to share here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-us-open-highlights",
+         "pubDate" : "Tue, 19 Aug 2025 00:00:00",
+         "title" : "Tactics Tuesday: U.S. Open Highlights"
+      },
+      {
+         "description" : "Editor's note: Since becoming Digital Editor for Chess Life Online, I have dreamt of publishing more regular wrap-ups of the sorts of events that are eligible for our Plan Ahead Calendar (as well as invitational tournaments).Do you want coverage of your tournament on Chess Life Online for future reporting or roundups?If so, email jjlang@uschess.org with information of upcoming or recently concluded (i.e. within 1-2 weeks) events.For concluded tournaments, please include links to or screenshots of final standings, as well as links to DGT games or attached, transcribed game scores from 1-3 games of winners. Photos of the tournament and of winners is also a plus (cell phone photos are fine for ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/rahul-peddi-wins-12th-washington-international",
+         "pubDate" : "Tue, 19 Aug 2025 00:00:00",
+         "title" : "Rahul Peddi Wins 12th Washington International"
       },
       {
          "description" : "GMs Levon Aronian and Praggnanandhaa Rameshbabu started with wins in the 2025 Sinquefield Cup to take the early lead. Aronian beat GM Nodirbek Abdusattorov with the black pieces in our Game of the Day, while Praggnanandhaa won a surprisingly easy-...",
@@ -112,14 +152,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/aronian-wins-third-saint-louis-rapid-blitz",
          "pubDate" : "Mon, 18 Aug 2025 00:00:00",
          "title" : "Aronian Wins Third Saint Louis Rapid & Blitz"
-      },
-      {
-         "description" : "Mikhail Moiseyevich Botvinnik is undoubtedly one of the towering figures in the entire history of chess, from the birth of modern chess (circa 1495) to the present day. The subject of this article is a game Botvinnik played in 1943 (while World War II was still raging) against one of the great hopes of Soviet chess at the time - and a true innovator - Isaac Boleslavsky. Botvinnik awarded his pawn sacrifice in the middlegame an exclamation mark in all his annotations. But was he correct? | Help us unravel this riddle.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/riddle-botvinnik-boleslavsky-1943",
-         "pubDate" : "Sun, 17 Aug 2025 19:30:00",
-         "title" : "Riddle: Botvinnik-Boleslavsky, 1943"
       },
       {
          "description" : "GM Hikaru Nakamura is one step closer to an unprecedented 50 Bullet Brawl titles after the speed chess titan won the event for the second week in a row and gained his 46th victory. Nakamura got off to a sensational 21.5/22 start in Saturday&#39;s ev...",
@@ -778,14 +810,6 @@ news_feed (
          "title" : "Recruitment Opportunity for Outstanding Sportsmen - Indian Air Force (Agniveervayu - Sports)"
       },
       {
-         "description" : "This week's puzzles continue a series on the 2025 FIDE Women's World Cup (coverage here), with WGM Sabina Foisor bringing us some tactical highlights from the games and variations that kept us riveted throughout July. Check out more of her puzzles in ourTactics Tuesday series, as well. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-womens-world-cup-pt-2",
-         "pubDate" : "Wed, 06 Aug 2025 00:00:00",
-         "title" : "Wednesday Workout: FIDE Women's World Cup, Pt. 2"
-      },
-      {
          "description" : "The 24th European Youth Rapid and Blitz Chess Championship commenced yesterday in Thessaloniki, Greece, with the participation of more than 450 players from 36 European federations. The event started with the European Youth Rapid Chess Championship 2025, which is played over six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. ECU Secretary General Mr. Theodoros Tsorbatzoglou addressed the players and guests at the Opening ceremony, and then played the first ceremonial move with the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -800,14 +824,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45907388/arjun-erigaisi-anish-giri-top-players-looking-get-classical-groove-chennai-grand-masters?device=featurephone",
          "pubDate" : "Tue, 5 Aug 2025 11:36:00",
          "title" : "Arjun Erigaisi, Anish Giri among top players looking to get into Classical groove at Chennai Grand Masters"
-      },
-      {
-         "description" : "This week's puzzles continue our series on the 2025 FIDE Women's World Cup (coverage here), with WGM Sabina Foisor bringing us some tactical highlights from the games and variations that kept us riveted throughout July. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-womens-world-cup-pt-2",
-         "pubDate" : "Tue, 05 Aug 2025 00:00:00",
-         "title" : "Tactics Tuesday: Women's World Cup, Pt. 2"
       },
       {
          "description" : "Last Updated on 3rd August 2025 by WebAdmin Coventry will be transformed into a city of chess next summer as the University of Warwick hosts the 2026 British Chess Championships....",
