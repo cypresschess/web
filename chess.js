@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The French Chess Championships are being held in Vichy from 15 to 24 August as part of a large chess festival featuring events for all levels, from national title matches to youth and amateur competitions. The Open and Women's Championships, organised as 16-player knockouts, have now reached the semifinals. In the Open, three veterans join 18-year-old Marc'Andria Maurizzi, while in the Women's, recent champions face ambitious challengers for a place in the final. | Photos: Nathalie Daubry / French Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/french-championships-2025-qf",
+         "pubDate" : "Wed, 20 Aug 2025 01:00:00",
+         "title" : "French Championships: Three veterans and Maurizzi reach semifinals"
+      },
+      {
+         "description" : "On Tuesday August 19th, in the Hotel Energetic in Roznov pod Radhostem in the Czech Republic, the&#160;23rd European Union Youth Chess Championship U8, U10, U12 and U14 has started. European Union Youth Chess Championship 2025 under the patronage of the European Chess Union is organized again by Sachovy klub Svetla nad Sazavou in cooperation with the Czech Chess Federation and continue in previous successful years. The event is supported by the Zlin Region. Boys and girls in each category play []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-union-youth-chess-championship-2025-has-started/",
+         "pubDate" : "Tue, 19 Aug 2025 20:07:39",
+         "title" : "European Union Youth Chess Championship 2025 has started"
+      },
+      {
          "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,22 +64,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-saint-louis-chess-club-grand-reopening/",
          "pubDate" : "Tue, 19 Aug 2025 14:05:04",
          "title" : "Saint Louis Chess Club to Unveil New World-Class Facility With a Month of Historic Events, Legendary Matches, and U.S. & U.S. Women's Championships"
-      },
-      {
-         "description" : "Grandmaster Jonathan Levitt has recently ventured into an unexpected field: songwriting. Inspired by a shared poetry routine with his wife, he has written lyrics dedicated to figures such as Bobby Fischer, Boris Spassky and Garry Kasparov. With nine chess-themed songs now available, Levitt continues to explore new forms of creativity while maintaining his deep connection to the game. | Photo: Jonathan Levitt",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessboard-songbook-jonathan-levitt",
-         "pubDate" : "Tue, 19 Aug 2025 13:00:00",
-         "title" : "From chessboard to songbook: GM Jonathan Levitt's new creative path"
-      },
-      {
-         "description" : "The Sinquefield Cup began in Saint Louis with two decisive results in the first round. Praggnanandhaa Rameshbabu scored an important win over world champion Gukesh Dommaraju, which was Pragg's first classical victory over his compatriot since 2022, moving him to world number three in the live rankings. Levon Aronian also made a winning start, defeating Nodirbek Abdusattorov, while Sam Sevian missed a chance to beat Wesley So. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-1",
-         "pubDate" : "Tue, 19 Aug 2025 08:30:00",
-         "title" : "Sinquefield Cup: Pragg takes down Gukesh, climbs to world number three"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123380491.cms\" />In the Sinquefield Cup, R Praggnanandhaa triumphed over D Gukesh. Levon Aronian also secured a win against Nodirbek Abdusattorov. Other matches saw draws between Fabiano Caruana and Jan-Krzysztof Duda, Samuel Sevian and Wesley So, and Maxime Vachier-Lagrave and Alireza Firouzja. Praggnanandhaa and Aronian now lead the tournament.",
