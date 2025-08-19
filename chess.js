@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vincent Keymer celebrated one of the greatest successes of his career at the Chennai Masters. He won the strong tournament by a two-point margin, achieved a performance rating of 2917 and gained more than 20 Elo points. For the first time in his career, he has entered the world's top ten in the live rankings. After the tournament he sat down with Himank Ghosh of ChessBase India for an in-depth interview, speaking about the event, his career, his rivals, his collaboration with Peter Leko, life as a top player, his goals, and much more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-is-something-i-really-enjoy-an-interview-with-vincent-keymer",
+         "pubDate" : "Tue, 19 Aug 2025 16:39:49",
+         "title" : "\"Chess is something I really enjoy\" - An interview with Vincent Keymer"
+      },
+      {
+         "description" : "Karsten M&uuml;ller and Arne K&auml;hler use Fritz 20 to compare game analysis with the 4 Player Types standard model. Using a game by Elisabeth P&auml;htz against the 'Bull,' they explain the strategic mistakes of an Active player and how other player types (Reflectors, Theorists, Pragmatists) would have avoided them. In conclusion, they emphasize that Fritz 20 with its player type model offers a valuable training opportunity to specifically prepare for opponents with a certain style - even for Freestyle Chess events.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fritz-20-and-the-4-player-types-standard-model-analysis-of-paehtz-vs-the-bull",
+         "pubDate" : "Tue, 19 Aug 2025 15:30:00",
+         "title" : "Fritz 20 and the 4 Player Types standard model - Analysis of Paehtz vs. the 'Bull'"
+      },
+      {
+         "description" : " The newly expanded Club to reopen as the premier global venue for chess, kicking off a historic series of elite tournaments SAINT LOUIS, MO (August X, 2025) - The Saint Louis Chess Club is proud to announce the grand reopening of its newly expanded campus this fall, marking a bold new chapter for the game [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-saint-louis-chess-club-grand-reopening/\">Saint Louis Chess Club to Unveil New World-Class Facility With a Month of Historic Events, Legendary Matches, and U.S. &amp; U.S. Women's Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-saint-louis-chess-club-grand-reopening/",
+         "pubDate" : "Tue, 19 Aug 2025 14:05:04",
+         "title" : "Saint Louis Chess Club to Unveil New World-Class Facility With a Month of Historic Events, Legendary Matches, and U.S. & U.S. Women's Championships"
+      },
+      {
          "description" : "Grandmaster Jonathan Levitt has recently ventured into an unexpected field: songwriting. Inspired by a shared poetry routine with his wife, he has written lyrics dedicated to figures such as Bobby Fischer, Boris Spassky and Garry Kasparov. With nine chess-themed songs now available, Levitt continues to explore new forms of creativity while maintaining his deep connection to the game. | Photo: Jonathan Levitt",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
