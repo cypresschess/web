@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinqefield-cup-postgame-round-3/\">POSTGAME ROUND 3 | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinqefield-cup-postgame-round-3/",
+         "pubDate" : "Wed, 20 Aug 2025 22:37:03",
+         "title" : "POSTGAME ROUND 3 | #SinquefieldCup"
+      },
+      {
          "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-2",
          "pubDate" : "Wed, 20 Aug 2025 15:00:00",
          "title" : "Sinquefield Cup: Gukesh strikes back, Firouzja scores"
+      },
+      {
+         "description" : "The Saint Louis Chess Club will reopen its doors in October following a major renovation and expansion, featuring a clash between none other than former world champions, GMs Garry Kasparov and Vishwanathan Anand. The match is followed by a rapid e...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kasparov-vs-anand-st-louis-reopening-carlsen-heads-champions-showdown",
+         "pubDate" : "Wed, 20 Aug 2025 14:25:00",
+         "title" : "Kasparov Vs. Anand To Face Off In St. Louis Match; Carlsen, Gukesh Headline Rapid Event"
+      },
+      {
+         "description" : "Women&#39;s number-one Hou Yifan is through to the final of the the 2025 Women&#39;s Speed Chess Championship after beating GM Kateryna Lagno 12.5-8.5. Hou powered into a three-point lead after the five-minute section, but then was caught as Lagno hit bac...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-wscc-sf-hou-yifan-kateryna-lagno",
+         "pubDate" : "Wed, 20 Aug 2025 13:28:00",
+         "title" : "Hou Yifan Storms Into Women's Speed Chess Championship Final"
       },
       {
          "description" : "Things are heating up at the Rubinstein Memorial in Polanica-Zdr&oacute;j: after the former sole leader Nodirbek Yakkuboev was held to a draw and Radosław Wojtaszek (pictured) scored a win, both players now share the lead with 3 points from 4 rounds. Germany's European Champion Matthias Bl&uuml;baum also won and, together with Aravindh Chithambaram, trails the leaders by just half a point in third place. Ukraine's Igor Kovalenko and the Czech grandmaster David Navara, both with four draws, occupy the middle of the table. | Photo: Polish Chess Federation",
@@ -664,22 +688,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-5",
          "pubDate" : "Mon, 11 Aug 2025 14:35:00",
          "title" : "Jorden Van Foreest Hits Back After 2 Losses"
-      },
-      {
-         "description" : "Ten-year-old prodigy WFM Bodhana Sivanandan stunned the nation in the 2025 British Chess Championship in Liverpool on Sunday, becoming the youngest woman ever to beat a grandmaster and the youngest-ever to earn the Woman International Master title...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bodhana-youngest-woman-to-beat-gm-adams-takes-9th-british-title",
-         "pubDate" : "Mon, 11 Aug 2025 10:39:00",
-         "title" : "Bodhana Becomes Youngest Woman To Beat Grandmaster As Adams Wins 9th British Title"
-      },
-      {
-         "description" : "Every spring and fall, top collegiate chess players from around the world compete in the Collegiate Chess League (CCL). Just like in academia, the Summer season is more relaxed. Instead of a full season of team matches, schools played in three com...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/unc-arizona-state-and-wits-university-take-ccl-summer-league-titles",
-         "pubDate" : "Mon, 11 Aug 2025 09:39:00",
-         "title" : "UNC, Arizona State and WITS University Take CCL Summer League Titles"
       },
       {
          "description" : "\"Chess is a very important part of your life, but it can't really be everything,\" says USA's Awonder Liang.",
