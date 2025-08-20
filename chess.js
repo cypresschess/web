@@ -10,6 +10,14 @@ news_feed (
          "title" : "French Championships: Three veterans and Maurizzi reach semifinals"
       },
       {
+         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinqefield-cup-postgame-round-2/\">POSTGAME ROUND 2: Alireza Bests Duda in Epic Game! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinqefield-cup-postgame-round-2/",
+         "pubDate" : "Tue, 19 Aug 2025 23:35:31",
+         "title" : "POSTGAME ROUND 2: Alireza Bests Duda in Epic Game! | #SinquefieldCup"
+      },
+      {
          "description" : "On Tuesday August 19th, in the Hotel Energetic in Roznov pod Radhostem in the Czech Republic, the&#160;23rd European Union Youth Chess Championship U8, U10, U12 and U14 has started. European Union Youth Chess Championship 2025 under the patronage of the European Chess Union is organized again by Sachovy klub Svetla nad Sazavou in cooperation with the Czech Chess Federation and continue in previous successful years. The event is supported by the Zlin Region. Boys and girls in each category play []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-live",
          "pubDate" : "Tue, 19 Aug 2025 19:00:00",
          "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "GM Alireza Firouzja has joined GMs Levon Aronian and Praggnanandhaa Rameshbabu in leading the 2025 Sinquefield Cup after two rounds. He survived another difficult position, against GM Jan-Krzysztof Duda, and even managed to win the 100-move marath...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-2",
+         "pubDate" : "Tue, 19 Aug 2025 17:46:56",
+         "title" : "Firouzja Joins Leaders, Gukesh Bounces Back"
       },
       {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/12th-sinquefield-cup-2025\">Sinquefield Cup</a> started with two decisive games. Levon Aronian on the back of his rapid and blitz win beat Nodirbek Abdusattorov in a full blooded struggle. Praggnanandhaa scored a very convincing win against Gukesh. MVL was much better on the board and clock against Alireza Firouzja but allowed him to escape. Sam Sevian briefly had a winning position against Wesley So and Fabiano Caruana pushed a little against Jan-Krzysztof Duda but never seemed to have very much. ",
@@ -74,10 +90,10 @@ news_feed (
          "title" : "Sinquefield Cup: R Praggnanandhaa outplays D Gukesh"
       },
       {
-         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinqefield-cup-postgame-day-1/\">POSTGAME ROUND 1: Pragg Doesn't Give Gukesh a Chance! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinqefield-cup-postgame-round-1/\">POSTGAME ROUND 1: Pragg Doesn't Give Gukesh a Chance! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinqefield-cup-postgame-day-1/",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinqefield-cup-postgame-round-1/",
          "pubDate" : "Tue, 19 Aug 2025 00:20:13",
          "title" : "POSTGAME ROUND 1: Pragg Doesn't Give Gukesh a Chance! | #SinquefieldCup"
       },
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-4",
          "pubDate" : "Sun, 10 Aug 2025 13:15:00",
          "title" : "Nihal Stuns Arjun As Keymer Takes 1-Point Lead"
-      },
-      {
-         "description" : "GM Alexandra Kosteniuk and IM Polina Shuvalova have advanced to the quarterfinals of the 2025 Women&#39;s Speed Chess Championship. While Kosteniuk was clearly too strong for IM Carissa Yip (11-4), Shuvalova only narrowly beat IM Meri Arabidze (7-6) i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-wscc-ro16-kosteniuk-yip-shuvalova-arabidze",
-         "pubDate" : "Sun, 10 Aug 2025 06:15:00",
-         "title" : "Kosteniuk, Shuvalova Qualify For Women's Speed Chess Championship Quarterfinals"
       },
       {
          "description" : "Hey everyone, this is a very personal one. I wrote it both as a reminder for myself, and for anyone else struggling with too high expectations. They are slowly but surely burning us out and eating us from inside. Let me tell you: You are enough. You are not your rating. Chess rating doesn't determine []",
