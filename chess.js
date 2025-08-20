@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-live",
+         "pubDate" : "Wed, 20 Aug 2025 19:00:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
          "description" : " Alireza Firouzja won a tremendous struggle against Jan-Krzysztof Duda to join Praggnanandhaa and Levon Aronian in the lead of the Sinquefield Cup on 1.5 points at this early stage of the competition. Firouzja won on the white side of an open Spanish, as did Gukesh who bounced back from his loss yesterday, he beat Nodirbek Abdusattorov and he is on no points after his second loss in row. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
