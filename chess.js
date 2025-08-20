@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123403772.cms\" />D Gukesh defeated Nodirbek Abdusattorov in the Sinquefield Cup. This victory helped Gukesh recover from an earlier setback. Meanwhile, Praggnanandhaa drew with Fabiano Caruana. Alireza Firouzja won against Jan-Krzysztof Duda. Levon Aronian and Samuel Sevian drew their game. After two rounds, Praggnanandhaa, Aronian, and Firouzja are now in the lead. The tournament continues with intense competition.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-d-gukesh-bounces-back-with-crushing-win-over-uzbekistans-nodirbek-abdusattorov/articleshow/123403772.cms",
+         "pubDate" : "Wed, 20 Aug 2025 07:24:28",
+         "title" : "Sinquefield Cup: Gukesh bounces back with crushing win over Abdusattorov"
+      },
+      {
          "description" : "The French Chess Championships are being held in Vichy from 15 to 24 August as part of a large chess festival featuring events for all levels, from national title matches to youth and amateur competitions. The Open and Women's Championships, organised as 16-player knockouts, have now reached the semifinals. In the Open, three veterans join 18-year-old Marc'Andria Maurizzi, while in the Women's, recent champions face ambitious challengers for a place in the final. | Photos: Nathalie Daubry / French Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,16 +46,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-2",
-         "pubDate" : "Tue, 19 Aug 2025 17:46:56",
+         "pubDate" : "Tue, 19 Aug 2025 17:46:00",
          "title" : "Firouzja Joins Leaders, Gukesh Bounces Back"
-      },
-      {
-         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/12th-sinquefield-cup-2025\">Sinquefield Cup</a> started with two decisive games. Levon Aronian on the back of his rapid and blitz win beat Nodirbek Abdusattorov in a full blooded struggle. Praggnanandhaa scored a very convincing win against Gukesh. MVL was much better on the board and clock against Alireza Firouzja but allowed him to escape. Sam Sevian briefly had a winning position against Wesley So and Fabiano Caruana pushed a little against Jan-Krzysztof Duda but never seemed to have very much. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/aronian-and-praggnanandhaa-win-in-round-1-of-the-sinquefield-cup",
-         "pubDate" : "Tue, 19 Aug 2025 17:03:00",
-         "title" : "Aronian and Praggnanandhaa win in Round 1 of the Sinquefield Cup - 1"
       },
       {
          "description" : "Vincent Keymer celebrated one of the greatest successes of his career at the Chennai Masters. He won the strong tournament by a two-point margin, achieved a performance rating of 2917 and gained more than 20 Elo points. For the first time in his career, he has entered the world's top ten in the live rankings. After the tournament he sat down with Himank Ghosh of ChessBase India for an in-depth interview, speaking about the event, his career, his rivals, his collaboration with Peter Leko, life as a top player, his goals, and much more.",
@@ -96,6 +96,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinqefield-cup-postgame-round-1/",
          "pubDate" : "Tue, 19 Aug 2025 00:20:13",
          "title" : "POSTGAME ROUND 1: Pragg Doesn't Give Gukesh a Chance! | #SinquefieldCup"
+      },
+      {
+         "description" : "This week's puzzles look at some brilliant tactical moments from the 125th Annual U.S. Open. WGM Sabina Foisor's excellent coverage for Chess Life Online focused mainly on the top boards, but that doesn't mean she wasn't also keeping an eye on some more tactical highlights, the first batch of which we are pleased to share here. See yesterday's Tactics Tuesday on Chess Life Kids Online for even more exercises. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-us-open-highlights",
+         "pubDate" : "Tue, 19 Aug 2025 00:00:00",
+         "title" : "Wednesday Workout: U.S. Open Highlights"
       },
       {
          "description" : "This week's puzzles look at some brilliant tactical moments from the 125th Annual U.S. Open. WGM Sabina Foisor's excellent coverage for Chess Life Online focused mainly on the top boards, but that doesn't mean she wasn't also keeping an eye on some more tactical highlights, the first batch of which we are pleased to share here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -186,30 +194,6 @@ news_feed (
          "title" : "The Biggest Lie We Tell Ourselves"
       },
       {
-         "description" : " The 12th Sinquefield Cup takes place in Saint Louis, Mon 18th to Fri 29th Aug 2025. Players: Fabiano, Caruana, Praggnanandhaa, Gukesh, Nodirbek Abdusattorov, Alireza Firouzja, Wesley So, Levon Aronian, Maxime Vachier-Lagrave, Jan-Krzysztof Duda and Samuel Sevian.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/12th-sinquefield-cup-2025",
-         "pubDate" : "Sat, 16 Aug 2025 11:41:00",
-         "title" : "12th Sinquefield Cup 2025 - Games and Results"
-      },
-      {
-         "description" : " The Saint Louis Rapid & Blitz took place 11th to 15th August 2025. Players: Fabiano, Caruana, D Gukesh, Nodirbek Abdusattorov, Wesley So, Levon Aronian, Leinier Dominguez Perez, Maxime Vachier-Lagrave, Le Quang Liem, Sam Shankland and Grigoriy Oparin. Levon Aronian won the event by finishing second in the rapid and clear first in the blitz. Fabiano Caruana finished in second place over all after winning the rapid but being far off the pace in the blitz. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2025",
-         "pubDate" : "Sat, 16 Aug 2025 11:32:00",
-         "title" : "Saint Louis Rapid & Blitz 2025 - Games and Results"
-      },
-      {
-         "description" : " Levon Aronian won the <a href=\"https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2025\">Saint Louis Blitz</a> on tie-break from Nodirbek Abdusattorov, they both scored 11.5/18. This score was enough to make Aronian clear winner of the combined rapid and blitz as the winner of the rapid section, Caruana only scored 7.5 points and Aronian finished in second place there, Abdusattorov finished tied 6th in the rapid. World Champion Gukesh finished in 7th in the blitz. This event is part of the Grand Chess Tour, the top four in the standings go forward to the finals Sao Paulo at the end of September. There is just one event to go, the <a href=\"https://theweekinchess.com/chessnews",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/levon-aronian-wins-the-saint-louis-rapid-and-blitz-2025",
-         "pubDate" : "Sat, 16 Aug 2025 11:22:00",
-         "title" : "Levon Aronian wins the Saint Louis Rapid and Blitz 2025 - "
-      },
-      {
          "description" : "My favourite line, in the entire sweep of English literature, comes not from the usual suspects-Shakespeare, Dickens, Eliot-but from the bold and now mostly overlooked opening of Tamburlaine the Great: Part Two, where Marlowe's Turkish Sultan Bajazeth, Yilderim, The Lightning Bolt, thunders out to his numerous followers and captains: \"Egregious viceroys of these Eastern parts.\" It's a []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -248,22 +232,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-day-5-unstoppable-levon-takes-1st-stlrapidblitz/",
          "pubDate" : "Fri, 15 Aug 2025 23:04:31",
          "title" : "POSTGAME DAY 5: Unstoppable Levon Takes 1st! | #STLRapidBlitz"
-      },
-      {
-         "description" : " The Quantbox Chennai Grand Masters took place Thu 7th Aug to Fri 15th Aug 2025. Following a fire the venue had to change and the start postponed by a day. Players in the Masters tournament: Erigaisi, Giri, Keymer, Vidit, Jorden Van Foreest, Awonder Liang, Nihal Sarin, Robson, Karthikeyan and Pranav. There is a strong challengers event as well. Vincent Keymer won clearly with 7/9 two points clear of Anish Giri, Arjun Erigaisi and Murali Karthikeyan. The Challengers event was won by M Pranesh.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/quantbox-chennai-grand-masters-2025",
-         "pubDate" : "Fri, 15 Aug 2025 19:47:00",
-         "title" : "Quantbox Chennai Grand Masters 2025 - Games and Results"
-      },
-      {
-         "description" : " Vincent Keymer was the runaway winner of the Quantbox Chennai Grand Masters. Keymer started with three wins in a row against Nihal Sarin, V Pranav and Murali Karthikeyan. He drew against Giri in Round 4 and in Round 6 against close rival Arjun Erigaisi and then beat Awonder Liang in round 7. He'd already sewn up victory with a round to spare but added to his total by beating Ray Robson in the final round. Clearly one of the performances of the year. I've annotated the games against Erigaisi and Robson below.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/vincent-keymer-dominates-the-quantbox-chennai-grand-masters-2025",
-         "pubDate" : "Fri, 15 Aug 2025 19:44:00",
-         "title" : "Vincent Keymer dominates the Quantbox Chennai Grand Masters 2025 - 9"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123324407.cms\" />M Pranesh clinched the Challengers title at the Chennai Grand Masters 2025, securing a spot in next year's Masters. Vincent Keymer dominated the Masters section, defeating Ray Robson and earning ₹25 Lakhs. The tournament, now a leading classical chess event in India, saw significant final-day developments and determined participants for future competitions.",
@@ -352,14 +320,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-keymer-wins-chennai-grand-masters-round-8",
          "pubDate" : "Thu, 14 Aug 2025 14:33:00",
          "title" : "Keymer Wins Chennai Grand Masters With Round To Spare"
-      },
-      {
-         "description" : " Fabiano Caruana almost set a record 8/9 score in the Saint Louis Rapid section of this combined rapid and blitz tournament. Caruana needed to beat World Champion Gukesh in the final round to set the new mark. The Gukesh - Caruana final round game was a wild struggle where Caruana outplayed the World Champion and obtained a winning position, but with time running short for Caruana, and the position remaining complicated, the position turned around. Gukesh, although far from accurate himself, brought home the full point in a long endgame. The game is annotated below. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/fabiano-caruana-wins-the-st-louis-rapid-but-loses-to-gukesh-in-the-final-round",
-         "pubDate" : "Thu, 14 Aug 2025 11:52:00",
-         "title" : "Fabiano Caruana wins the St Louis Rapid but loses to Gukesh in the final round - Rapid 7-9"
       },
       {
          "description" : "Keymer's last trip to Chennai was to help Gukesh become world champion - now he has his biggest classical win.",
@@ -618,14 +578,6 @@ news_feed (
          "title" : "Jorden Van Foreest Hits Back After 2 Losses"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123236359.cms\" />At just five, Delhi's Aarini Lahoty is India's highest-rated chess player in her age group, boasting a FIDE rating of 1551. Introduced to the game by her father-coach Surendar, Aarini began playing as a toddler and now competes in higher age categories. Balancing studies, chess, and play, she dreams of becoming India's youngest IM and GM.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-watching-magnus-carlsen-at-2-how-5-year-old-aarini-lahoty-became-indias-no-1-among-youngest-chess-talents/articleshow/123236359.cms",
-         "pubDate" : "Mon, 11 Aug 2025 11:48:40",
-         "title" : "Exclusive | Watching Magnus at 2: How 5-yo Aarini became India's No. 1 youngest talent"
-      },
-      {
          "description" : "Ten-year-old prodigy WFM Bodhana Sivanandan stunned the nation in the 2025 British Chess Championship in Liverpool on Sunday, becoming the youngest woman ever to beat a grandmaster and the youngest-ever to earn the Woman International Master title...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -672,22 +624,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2025-information-regarding-annual-safesport-refresher-course-requirements",
          "pubDate" : "Mon, 11 Aug 2025 00:00:00",
          "title" : "2025 Information Regarding Annual SafeSport Refresher Course Requirements"
-      },
-      {
-         "description" : " The 111th British Chess Championships took place in Liverpool Saturday 2nd to Sunday 10th August 2025. Top seeds Nikita Vitiugov, Michael Adams, Gawain Maroroa Jones, Stuart C Conquest Ameet K Ghasi etc. Michael Adams won his 9th title after beating Stuart Conquest (who had to beat Peter Roberson first) in a three way tie-break match. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/111th-british-chess-championships-2025",
-         "pubDate" : "Sun, 10 Aug 2025 19:06:00",
-         "title" : "111th British Chess Championships 2025 - Games and Results"
-      },
-      {
-         "description" : " Michael Adams won the <a href=\"https://theweekinchess.com/chessnews/events/111th-british-chess-championships-2025\">111th British Chess Championships</a> which took place in Liverpool. Adams had been the long term leader but was in a six way tie for first at the start of the final round, he won but so did two of his rivals and the tournament was settled in a tie-break. Unusually six of the top seven pairings were decisive including all the games amongst the six leaders. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/michael-adams-grabs-his-ninth-british-chess-championship-title",
-         "pubDate" : "Sun, 10 Aug 2025 19:01:00",
-         "title" : "Michael Adams grabs his ninth British Chess Championship title - 9"
       },
       {
          "description" : "GM Nihal Sarin was finally rewarded for his entertaining chess in the Quantbox Chennai Grand Masters 2025 when he won a great fighting game against GM Arjun Erigaisi. That means that GM Vincent Keymer took a full-point lead despite being held to h...",
@@ -770,28 +706,12 @@ news_feed (
          "title" : "Introducing US Chess Members Only Online Prize Arenas"
       },
       {
-         "description" : " There was a match between World Champion Gukesh and Jan-Krzysztof Duda in Katowice, Poland on 7th August 2025. Gukesh's struggles at fast time controls continues, he won game 1 but lost all the rest to lose the match 5-1. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/gukesh-vs-duda-blitz-2025",
-         "pubDate" : "Thu, 7 Aug 2025 13:12:00",
-         "title" : "Gukesh vs Duda Blitz 2025 - Games and Results"
-      },
-      {
          "description" : "Please find the live link here Masters &#160;https://live.chennaigrandmasters.com/2025/masters/ Challengers &#160;https://live.chennaigrandmasters.com/2025/challengers/",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/live-link-chennai-grandmasters-2025/",
          "pubDate" : "Thu, 07 Aug 2025 12:15:04",
          "title" : "Live link Chennai Grandmasters 2025"
-      },
-      {
-         "description" : "The USA delegation boasted 14 podium finishes - including five gold medals - across 12 sections at the XXXV Pan-American Youth Chess Festival. Led by Head of Delegation WGM Kate&#345ina Němcov&aacute;, a total of 67 Americans competed in Lima, Peru, making up a twelfth of the 784 total players (representing 25 different federations). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo by Kateřina Němcov&aacute;<br> <br> <br> <br> With 28 points (three points per gold, two points each for four silver medals, and a point each for five bronze) USA won the team gold medal, ahead of Peru (16 points) and Colombia (6 points). <br> <br> <br> <br> <br> <br",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/americans-win-14-medals-pan-american-youth",
-         "pubDate" : "Thu, 07 Aug 2025 00:00:00",
-         "title" : "Americans Win 14 Medals at Pan-American Youth"
       },
       {
          "description" : "Rank Name Rank Name 1 Sattwik Swain 1 Girisha Prasanna Pai 2 Aadwik Abhinav Krishna 2 Nakshatra Gumudavelly 3 Divith Reddy Adulla 3 Narayani Umesh",
@@ -880,14 +800,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45883892/global-chess-now-era-vishys-children?device=featurephone",
          "pubDate" : "Sat, 2 Aug 2025 06:08:00",
          "title" : "Global chess is now in the era of Vishy's children"
-      },
-      {
-         "description" : " The Esports World Cup chess sections was a blitz double elimination knockout tournament held in Riyadh, Saudi Arabia Tue 29th July to Fri 1st Aug 2025. Players: Group A Ian Nepomniachtchi, Andrey Esipenko, Levon Aronian and Vladislav Artemiev. Group B Maxime Vachier-Lagrave, Anish Giri, Arjun Erigaisi, Nihal Sarin. Group C Hikaru Nakamura, Javokhir Sindarov, Alireza Firouzja, Wei Yi. Group D Magnus Carlsen, Nodirbek Abdusattorov, Fabiano Caruana, Jan-Krzysztof Duda. Magnus Carlsen easily beat Alireza Firouzja in the final winning 2-0 in a best of 3 sets and winning each of those sets 3-1 Hikaru Nakamura narrowly beat Arjun Erigaisi in the 3rd-4th playoff. The players are members of wider Es",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/esports-world-cup-2025",
-         "pubDate" : "Fri, 1 Aug 2025 20:42:00",
-         "title" : "Esports World Cup 2025 - Games and Results"
       },
       {
          "description" : "The 2025 European Women's Rapid &#38; Blitz Chess Championship will take place from 8th-12th January 2026 in Monte-Carlo, Monaco. The Championship is open to all players representing Chess Federations which are ECU members regardless of their title and rating. There is no limit to the number of participants per federation. Registration starts after 1st August 2025, and applications must be sent to the Tournament Director, Jean Michel Rapaire by mail:&#160;cemc@libello.com.&#160;Registration deadline is December 19th, 2025. The first event on the []",
