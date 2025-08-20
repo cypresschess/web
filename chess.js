@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Alireza Firouzja won a tremendous struggle against Jan-Krzysztof Duda to join Praggnanandhaa and Levon Aronian in the lead of the Sinquefield Cup on 1.5 points at this early stage of the competition. Firouzja won on the white side of an open Spanish, as did Gukesh who bounced back from his loss yesterday, he beat Nodirbek Abdusattorov and he is on no points after his second loss in row. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/firouzja-and-gukesh-win-tricky-games-in-round-2-of-the-sinquefield-cup",
+         "pubDate" : "Wed, 20 Aug 2025 15:49:00",
+         "title" : "Firouzja and Gukesh win tricky games in Round 2 of the Sinquefield Cup - 2"
+      },
+      {
+         "description" : "Round two of the Sinquefield Cup in Saint Louis produced two decisive games, as world champion Gukesh Dommaraju bounced back from his opening-day loss with a chaotic win against Nodirbek Abdusattorov, while Alireza Firouzja turned the tables in a 100-move struggle against Jan-Krzysztof Duda. The remaining three games were drawn, leaving Firouzja, Levon Aronian and Praggnanandhaa Rameshbabu sharing the lead on 1&frac12; points. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-2",
+         "pubDate" : "Wed, 20 Aug 2025 15:00:00",
+         "title" : "Sinquefield Cup: Gukesh strikes back, Firouzja scores"
+      },
+      {
          "description" : "Things are heating up at the Rubinstein Memorial in Polanica-Zdr&oacute;j: after the former sole leader Nodirbek Yakkuboev was held to a draw and Radosław Wojtaszek (pictured) scored a win, both players now share the lead with 3 points from 4 rounds. Germany's European Champion Matthias Bl&uuml;baum also won and, together with Aravindh Chithambaram, trails the leaders by just half a point in third place. Ukraine's Igor Kovalenko and the Czech grandmaster David Navara, both with four draws, occupy the middle of the table. | Photo: Polish Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/rubinstein-chess-festival-2025-yakkuboev-and-wojtaszek-lead",
          "pubDate" : "Wed, 20 Aug 2025 11:36:54",
          "title" : "Rubinstein Chess Festival 2025: Yakkuboev and Wojtaszek lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123408753.cms\" />Indian chess player R Praggnanandhaa has achieved a milestone. He defeated D Gukesh at the Sinquefield Cup. Praggnanandhaa is now ranked World No. 3. He has a live rating of 2784.1 points. Only Magnus Carlsen and Hikaru Nakamura are ahead of him. Praggnanandhaa shares the tournament lead with Levon Aronian. The Sinquefield Cup has a prize pool of USD 350,000.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/historic-r-praggnanandhaa-becomes-new-world-no-3-after-beating-d-gukesh-at-sinquefield-cup-chess-tournament/articleshow/123408753.cms",
+         "pubDate" : "Wed, 20 Aug 2025 11:26:26",
+         "title" : "Praggnanandhaa becomes new World No. 3 after beating Gukesh - who holds the top spots?"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123408102.cms\" />Chess legends Viswanathan Anand and Garry Kasparov are set to reignite their rivalry in Clutch Chess exhibition matches this October in St Louis. The event also features a highly anticipated clash between current world champion D Gukesh and Magnus Carlsen. The matches will be held in an enhanced facility, reaffirming St. Louis's position as a global chess capital.",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-drama-dutch-no-1-anish-giri-blocks-magnus-carlsens-long-time-coach-on-social-media-i-still-mostly-like-him/articleshow/123406846.cms",
          "pubDate" : "Wed, 20 Aug 2025 10:20:23",
          "title" : "Drama! Dutch No. 1 Giri blocks Carlsen's long-time coach on social media"
+      },
+      {
+         "description" : "On August 19, for the second time in less than two years, GM Magnus Carlsen swept both Titled Tuesdays on a single day. Carlsen also won last week&#39;s late event, giving him three in a row overall. He won both of today&#39;s events outright, including a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-august-19-2025",
+         "pubDate" : "Wed, 20 Aug 2025 07:49:00",
+         "title" : "Carlsen Sweeps Into Three Straight Titled Tuesdays"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123403772.cms\" />D Gukesh defeated Nodirbek Abdusattorov in the Sinquefield Cup. This victory helped Gukesh recover from an earlier setback. Meanwhile, Praggnanandhaa drew with Fabiano Caruana. Alireza Firouzja won against Jan-Krzysztof Duda. Levon Aronian and Samuel Sevian drew their game. After two rounds, Praggnanandhaa, Aronian, and Firouzja are now in the lead. The tournament continues with intense competition.",
@@ -56,14 +88,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-union-youth-chess-championship-2025-has-started/",
          "pubDate" : "Tue, 19 Aug 2025 20:07:39",
          "title" : "European Union Youth Chess Championship 2025 has started"
-      },
-      {
-         "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-live",
-         "pubDate" : "Tue, 19 Aug 2025 19:00:00",
-         "title" : "Sinquefield Cup - Live!"
       },
       {
          "description" : "GM Alireza Firouzja has joined GMs Levon Aronian and Praggnanandhaa Rameshbabu in leading the 2025 Sinquefield Cup after two rounds. He survived another difficult position, against GM Jan-Krzysztof Duda, and even managed to win the 100-move marath...",
@@ -594,14 +618,6 @@ news_feed (
          "title" : "Awonder Hits 2700, Catches Arjun In Chennai"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123249296.cms\" />Bodhana Sivanandan, a 10-year-old chess prodigy from Harrow, has made history as the youngest female player to defeat a grandmaster, surpassing Carissa Yip's previous record. She achieved this remarkable feat at the 2025 British Chess Championships in Liverpool, defeating Grandmaster Peter Wells.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/10-year-old-bodhana-sivanandan-shocks-grandmaster-sets-historic-chess-record/articleshow/123249296.cms",
-         "pubDate" : "Tue, 12 Aug 2025 03:56:51",
-         "title" : "Youngest ever! 10-year-old shocks Grandmaster, sets historic chess record"
-      },
-      {
          "description" : "GM-elect Divya Deshmukh and GM Bibisara Assaubayeva have advanced to the Quarterfinals of the 2025 Women&#39;s Speed Chess Championship. Divya, fresh off her FIDE Women&#39;s World Cup victory, picked up right where she left off, winning 10-3 against GM L...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -704,14 +720,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/michael-adams-grabs-his-ninth-british-chess-championship-title",
          "pubDate" : "Sun, 10 Aug 2025 19:01:00",
          "title" : "Michael Adams grabs his ninth British Chess Championship title - 9"
-      },
-      {
-         "description" : "GM Nihal Sarin was finally rewarded for his entertaining chess in the Quantbox Chennai Grand Masters 2025 when he won a great fighting game against GM Arjun Erigaisi. That means that GM Vincent Keymer took a full-point lead despite being held to h...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-4",
-         "pubDate" : "Sun, 10 Aug 2025 13:15:00",
-         "title" : "Nihal Stuns Arjun As Keymer Takes 1-Point Lead"
       },
       {
          "description" : "Hey everyone, this is a very personal one. I wrote it both as a reminder for myself, and for anyone else struggling with too high expectations. They are slowly but surely burning us out and eating us from inside. Let me tell you: You are enough. You are not your rating. Chess rating doesn't determine []",
