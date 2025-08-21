@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Saint Louis Chess Club is set to reopen this October with a newly expanded 30,000-square-foot campus, reinforcing its position as a global hub for chess. The month-long celebration will feature \"Clutch Chess: The Legends\", with Garry Kasparov facing Viswanathan Anand, the U.S. and U.S. Women's Championships, Hall of Fame inductions, and the Champions Showdown with Carlsen, Nakamura, Caruana and Gukesh. The transformed venue combines elite competition with education, community engagement and cutting-edge technology. | All photos: Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/stl-chess-club-new-facility",
+         "pubDate" : "Fri, 22 Aug 2025 00:10:00",
+         "title" : "Saint Louis Chess Club to unveil new world-class facility: Anand v. Kasparov match among historic events"
+      },
+      {
+         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-4/\">POSTGAME ROUND 4: Caruana Holds Nerves, Turns Tables on Nodirbek | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-4/",
+         "pubDate" : "Thu, 21 Aug 2025 21:37:42",
+         "title" : "POSTGAME ROUND 4: Caruana Holds Nerves, Turns Tables on Nodirbek | #SinquefieldCup"
+      },
+      {
          "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-live",
          "pubDate" : "Thu, 21 Aug 2025 19:00:00",
          "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "Five-time Women&#39;s World Champion GM Ju Wenjun defeated IM Polina Shuvalova with a score of 17-5 in what turned out to be a one-sided semifinal of the 2025 Women&#39;s Speed Chess Championship. In the process, she beat her own WSCC record for the large...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-wscc-sf-ju-wenjun-polina-shuvalova",
+         "pubDate" : "Thu, 21 Aug 2025 15:17:29",
+         "title" : "Ju Wenjun Wins With Record Breaking Margin"
       },
       {
          "description" : " Fabiano Caruana was the only winner in Round 3 of the Sinquefield Cup. Caruana took advantage of a few Firouzja inaccuracies, 21...Raf8? (21...Rff8!) was a real error, not exploited 22.a3?! (22.Bh3!) 22...Qd8? (22...Qe7!=) but it was only later that the real collapse happened when Firouzja allowed Caruana's d-pawn to advance. Levon Aronian escaped a lost position against Maxime Vachier-Lagrave, 53.Bf6? (53.a3 was the win) was the point MVL erred. Nodirbek Abdusattorov pressed against Praggnanandhaa but had to settle for a draw in the end. Jan-Krzysztof Duda and Wesley So drew a very quiet game. Sam Sevian had a little something against Gukesh but it didn't turn out to be anything. Notes to ",
@@ -18,12 +42,12 @@ news_feed (
          "title" : "Caruana joins the leaders after beating Firouzja in the Sinquefield Cup Round 3 - 3"
       },
       {
-         "description" : "After five rounds, the Rubinstein Memorial in Polanica-Zdr&oacute;j has three leaders at the top of the table: Nodirbek Yakubboev, Radosław Wojtaszek, and reigning European Champion Matthias Bl&uuml;baum (pictured). In round five, Bl&uuml;baum scored a notable win with the black pieces against Michael Adams, who now finds himself at the bottom of the standings. The biggest surprise of the day, however, came from Jan Klimkowski: the Polish player defeated top seed Aravindh Chithambaram with Black, delivering the upset of the tournament so far. Round six will feature the direct clash between Wojtaszek and Bl&uuml;baum. | Photo: SZS / Luka Rifelj (Archive)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rubinstein-chess-festival-2025-bluebaum-yakkuboev-and-wojtaszek-share-the-lead",
-         "pubDate" : "Thu, 21 Aug 2025 13:58:22",
-         "title" : "Rubinstein Chess Festival 2025: Bl&uuml;baum, Yakkuboev and Wojtaszek share the lead"
+         "description" : "GM Fabiano Caruana won a second game in a row, this time with Black against GM Nodirbek Abdusattorov, to take the sole lead of the 2025 Sinquefield Cup with 3/4. All other games were drawn, leaving GM Levon Aronian and GM Praggnanandhaa Rameshbabu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-4",
+         "pubDate" : "Thu, 21 Aug 2025 15:14:34",
+         "title" : "Caruana Takes Sole Lead After 2nd Win"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123432041.cms\" />A grandmaster chess tournament in New Delhi highlights the traditional, silent atmosphere of the game, contrasting sharply with a recent event in Las Vegas where live audiences roared at every move. Players express concerns about distractions caused by spectators, questioning whether chess is truly ready for a live audience setting.",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/ssshhh-chess-and-the-challenges-of-playing-in-front-of-a-live-audience/articleshow/123432041.cms",
          "pubDate" : "Thu, 21 Aug 2025 11:37:37",
          "title" : "Ssshhh! Chess and the challenges of playing in front of a live audience"
-      },
-      {
-         "description" : "Fabiano Caruana scored the only win on day three of the Sinquefield Cup in Saint Louis, defeating Alireza Firouzja to join Levon Aronian and Rameshbabu Praggnanandhaa at the top of the standings on 2 points. The most eventful game of the round came from Maxime Vachier-Lagrave's clash with Aronian, where the Frenchman obtained a winning position in a sharp French Defence but was unable to convert, eventually allowing his opponent to escape with a draw. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-3",
-         "pubDate" : "Thu, 21 Aug 2025 10:40:00",
-         "title" : "Sinquefield Cup: Caruana beats Firouzja, joins the lead"
       },
       {
          "description" : "The Bathinda District Chess Association, on behalf of the Punjab State Chess Association, the All India Chess Federation, and the AICF Arbiters' Commission, successfully organized",
@@ -66,14 +82,6 @@ news_feed (
          "title" : "Abrahamyan Plays 'Best Tournament of Career', Earns IM Title, GM Norm"
       },
       {
-         "description" : "Peter Leko, once the youngest grandmaster in the world and a former world championship contender, played a pivotal role as mentor to Germany's star Vincent Keymer. In an interview with The Indian Express, Leko reflects on Keymer's steady rise, the influence of the new generation of prodigies and his own career lessons. He offers candid insights into what it takes to succeed at the highest level and why growth matters more than results. | Pictured: Peter Leko, Vincent Keymer and Hans-Walter Schmitt (2018) | Photo: Hartmut Metz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leko-on-keymer-indian-express",
-         "pubDate" : "Thu, 21 Aug 2025 05:00:00",
-         "title" : "Leko on The Indian Express: \"Keymer is clearly a great strategist\""
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123423351.cms\" />In the Sinquefield Cup's third round, D Gukesh and R Praggnanandhaa drew their games, while Fabiano Caruana secured a crucial victory against Alireza Firouzja. Praggnanandhaa, Caruana, and Levon Aronian now share the lead with two points each. Caruana's win is significant as players vie for spots in the Grand Chess Tour finals later this year.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -90,20 +98,12 @@ news_feed (
          "title" : "Tatev Abrahamyan Reaches 2400, Earns First GM Norm"
       },
       {
-         "description" : "The FIDE Grand Swiss returns this September with its fourth edition, bringing many of the world's strongest players to Samarkand, Uzbekistan, for one of the most prestigious classical tournaments on the calendar. Alongside seasoned contenders, a new generation of prodigies will be in the spotlight, from established teenage stars to emerging talents aiming to set fresh records. The event promises a fascinating clash of youth and experience across both the Open and Women's sections.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-clash-generations",
-         "pubDate" : "Wed, 20 Aug 2025 22:45:00",
-         "title" : "Future of chess and clash of generations at Grand Swiss in Samarkand"
-      },
-      {
-         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-3/\">POSTGAME ROUND 3 | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-3/\">POSTGAME ROUND 3: Caruana Earns Massive Win over Firouzja! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-3/",
          "pubDate" : "Wed, 20 Aug 2025 22:37:03",
-         "title" : "POSTGAME ROUND 3 | #SinquefieldCup"
+         "title" : "POSTGAME ROUND 3: Caruana Earns Massive Win over Firouzja! | #SinquefieldCup"
       },
       {
          "description" : "GM Fabiano Caruana won the only decisive game in round three of the 2025 Sinquefield Cup to knock GM Alireza Firouzja out of the lead. Caruana now leads with GM Levon Aronian, who survived miraculously and drew GM Maxime Vachier-Lagrave, and GM Pr...",
@@ -122,14 +122,6 @@ news_feed (
          "title" : "Firouzja and Gukesh win tricky games in Round 2 of the Sinquefield Cup - 2"
       },
       {
-         "description" : "Round two of the Sinquefield Cup in Saint Louis produced two decisive games, as world champion Gukesh Dommaraju bounced back from his opening-day loss with a chaotic win against Nodirbek Abdusattorov, while Alireza Firouzja turned the tables in a 100-move struggle against Jan-Krzysztof Duda. The remaining three games were drawn, leaving Firouzja, Levon Aronian and Praggnanandhaa Rameshbabu sharing the lead on 1&frac12; points. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-2",
-         "pubDate" : "Wed, 20 Aug 2025 15:00:00",
-         "title" : "Sinquefield Cup: Gukesh strikes back, Firouzja scores"
-      },
-      {
          "description" : "The Saint Louis Chess Club will reopen its doors in October following a major renovation and expansion, and feature a clash between none other than former World Champions Garry Kasparov and Viswanathan Anand. The match is followed by a rapid event...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -144,14 +136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-wscc-sf-hou-yifan-kateryna-lagno",
          "pubDate" : "Wed, 20 Aug 2025 13:28:00",
          "title" : "Hou Yifan Storms Into Women's Speed Chess Championship Final"
-      },
-      {
-         "description" : "Things are heating up at the Rubinstein Memorial in Polanica-Zdr&oacute;j: after the former sole leader Nodirbek Yakkuboev was held to a draw and Radosław Wojtaszek (pictured) scored a win, both players now share the lead with 3 points from 4 rounds. Germany's European Champion Matthias Bl&uuml;baum also won and, together with Aravindh Chithambaram, trails the leaders by just half a point in third place. Ukraine's Igor Kovalenko and the Czech grandmaster David Navara, both with four draws, occupy the middle of the table. | Photo: Polish Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rubinstein-chess-festival-2025-yakkuboev-and-wojtaszek-lead",
-         "pubDate" : "Wed, 20 Aug 2025 11:36:54",
-         "title" : "Rubinstein Chess Festival 2025: Yakkuboev and Wojtaszek lead"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123408753.cms\" />Indian chess player R Praggnanandhaa has achieved a milestone. He defeated D Gukesh at the Sinquefield Cup. Praggnanandhaa is now ranked World No. 3. He has a live rating of 2784.1 points. Only Magnus Carlsen and Hikaru Nakamura are ahead of him. Praggnanandhaa shares the tournament lead with Levon Aronian. The Sinquefield Cup has a prize pool of USD 350,000.",
@@ -698,36 +682,12 @@ news_feed (
          "title" : "POSTGAME DAY 2 | #STLRapidBlitz"
       },
       {
-         "description" : "GM Fabiano Caruana wrested the lead from GM Levon Aronian in the last round of day two in the 2025 Saint Louis Rapid &#38;amp; Blitz. He won their direct encounter to finish the day with 10 points. Tied in second-third are Aronian and GM Wesley So, wh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-saint-louis-rapid-and-blitz-day-2",
-         "pubDate" : "Tue, 12 Aug 2025 22:18:00",
-         "title" : "Caruana Leads After Direct Encounter With Aronian"
-      },
-      {
-         "description" : "GM Awonder Liang beat GM Pranav Venkatesh in round six of the Quantbox Chennai Grand Masters 2025 to enter the 2700 club and catch GM Arjun Erigaisi in second place. Arjun lived dangerously against leader GM Vincent Keymer but ultimately drew, mea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-6",
-         "pubDate" : "Tue, 12 Aug 2025 14:41:00",
-         "title" : "Awonder Hits 2700, Catches Arjun In Chennai"
-      },
-      {
          "description" : "This week's puzzles conclude our series on the 2025 FIDE Women's World Cup (coverage here), with WGM Sabina Foisor bringing us some tactical highlights from the games and variations that kept us riveted throughout July. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-womens-world-cup-pt-3",
          "pubDate" : "Tue, 12 Aug 2025 00:00:00",
          "title" : "Tactics Tuesday: Women's World Cup, Pt. 3"
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-day-1-rapid-is-underway-stl-rb-2025/\">POSTGAME DAY 1: Rapid is Underway! | #STLRapidBlitz</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-day-1-rapid-is-underway-stl-rb-2025/",
-         "pubDate" : "Mon, 11 Aug 2025 23:15:15",
-         "title" : "POSTGAME DAY 1: Rapid is Underway! | #STLRapidBlitz"
       },
       {
          "description" : "\"Chess is a very important part of your life, but it can't really be everything,\" says USA's Awonder Liang.",
