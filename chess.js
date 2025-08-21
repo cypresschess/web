@@ -10,6 +10,14 @@ news_feed (
          "title" : "Leko on The Indian Express: \"Keymer is clearly a great strategist\""
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123423351.cms\" />In the Sinquefield Cup's third round, D Gukesh and R Praggnanandhaa drew their games, while Fabiano Caruana secured a crucial victory against Alireza Firouzja. Praggnanandhaa, Caruana, and Levon Aronian now share the lead with two points each. Caruana's win is significant as players vie for spots in the Grand Chess Tour finals later this year.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-d-gukesh-held-by-samuel-sevian-praggnanandhaa-draws-with-nodirbek-abdusattorov/articleshow/123423351.cms",
+         "pubDate" : "Thu, 21 Aug 2025 04:25:12",
+         "title" : "Sinquefield Cup: D Gukesh held by Samuel Sevian"
+      },
+      {
          "description" : "The FIDE Grand Swiss returns this September with its fourth edition, bringing many of the world's strongest players to Samarkand, Uzbekistan, for one of the most prestigious classical tournaments on the calendar. Alongside seasoned contenders, a new generation of prodigies will be in the spotlight, from established teenage stars to emerging talents aiming to set fresh records. The event promises a fascinating clash of youth and experience across both the Open and Women's sections.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-3/",
          "pubDate" : "Wed, 20 Aug 2025 22:37:03",
          "title" : "POSTGAME ROUND 3 | #SinquefieldCup"
+      },
+      {
+         "description" : "GM Fabiano Caruana won the only decisive game in round three of the 2025 Sinquefield Cup to knock GM Alireza Firouzja out of the lead. Caruana now leads with GM Levon Aronian, who survived miraculously and drew GM Maxime Vachier-Lagrave, and GM Pr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-3",
+         "pubDate" : "Wed, 20 Aug 2025 22:18:00",
+         "title" : "Caruana Knocks Down Firouzja, Joins Lead With Aronian, Praggnanandhaa"
       },
       {
          "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
@@ -50,12 +66,12 @@ news_feed (
          "title" : "Sinquefield Cup: Gukesh strikes back, Firouzja scores"
       },
       {
-         "description" : "The Saint Louis Chess Club will reopen its doors in October following a major renovation and expansion, featuring a clash between none other than former world champions, GMs Garry Kasparov and Vishwanathan Anand. The match is followed by a rapid e...",
+         "description" : "The Saint Louis Chess Club will reopen its doors in October following a major renovation and expansion, and feature a clash between none other than former World Champions Garry Kasparov and Viswanathan Anand. The match is followed by a rapid event...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/kasparov-vs-anand-st-louis-reopening-carlsen-heads-champions-showdown",
          "pubDate" : "Wed, 20 Aug 2025 14:25:00",
-         "title" : "Kasparov Vs. Anand To Face Off In St. Louis Match; Carlsen, Gukesh Headline Rapid Event"
+         "title" : "Kasparov, Anand To Face Off In St. Louis Match; Carlsen, Gukesh Headline Rapid Event"
       },
       {
          "description" : "Women&#39;s number-one Hou Yifan is through to the final of the the 2025 Women&#39;s Speed Chess Championship after beating GM Kateryna Lagno 12.5-8.5. Hou powered into a three-point lead after the five-minute section, but then was caught as Lagno hit bac...",
@@ -626,14 +642,6 @@ news_feed (
          "title" : "Caruana Leads After Direct Encounter With Aronian"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123262845.cms\" />In the Chennai Grand Masters 2025, Vincent Keymer drew with Arjun Erigaisi, maintaining his lead. Awonder Liang's victory over Pranav V puts him level with Arjun. India's premier chess event features Masters and Challengers sections with a ₹1 Crore prize pool. Keymer, undefeated, drew with Arjun after the latter equalized from a Slav Defense.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-germany-no-1-vincent-keymer-draws-against-arjun-erigaisi-maintains-unbeaten-streak-after-round-6/articleshow/123262845.cms",
-         "pubDate" : "Tue, 12 Aug 2025 17:19:40",
-         "title" : "Chennai GM 2025: Keymer draw against Erigaisi, maintains unbeaten streak after Round 6"
-      },
-      {
          "description" : "GM Awonder Liang beat GM Pranav Venkatesh in round six of the Quantbox Chennai Grand Masters 2025 to enter the 2700 club and catch GM Arjun Erigaisi in second place. Arjun lived dangerously against leader GM Vincent Keymer but ultimately drew, mea...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-saint-louis-rapid-and-blitz-day-1",
          "pubDate" : "Mon, 11 Aug 2025 22:09:00",
          "title" : "Aronian Leads With Perfect Score"
-      },
-      {
-         "description" : "GM Jorden van Foreest bounced back after two losses in a row to beat GM Ray Robson in the only decisive game of round five of the Quantbox Chennai Grand Masters 2025. As the tournament crossed the halfway mark, GM Vincent Keymer maintained his one...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-5",
-         "pubDate" : "Mon, 11 Aug 2025 14:35:00",
-         "title" : "Jorden Van Foreest Hits Back After 2 Losses"
       },
       {
          "description" : "\"Chess is a very important part of your life, but it can't really be everything,\" says USA's Awonder Liang.",
