@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana scored the only win on day three of the Sinquefield Cup in Saint Louis, defeating Alireza Firouzja to join Levon Aronian and Rameshbabu Praggnanandhaa at the top of the standings on 2 points. The most eventful game of the round came from Maxime Vachier-Lagrave's clash with Aronian, where the Frenchman obtained a winning position in a sharp French Defence but was unable to convert, eventually allowing his opponent to escape with a draw. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-3",
+         "pubDate" : "Thu, 21 Aug 2025 10:40:00",
+         "title" : "Sinquefield Cup: Caruana beats Firouzja, joins the lead"
+      },
+      {
+         "description" : "The Bathinda District Chess Association, on behalf of the Punjab State Chess Association, the All India Chess Federation, and the AICF Arbiters' Commission, successfully organized",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-held-in-bathinda-on-15-16-august-2025/",
+         "pubDate" : "Thu, 21 Aug 2025 09:31:16",
+         "title" : "Final Report of Senior National Arbiter Seminar & Examination held in Bathinda on 15 & 16 August 2025"
+      },
+      {
          "description" : "Peter Leko, once the youngest grandmaster in the world and a former world championship contender, played a pivotal role as mentor to Germany's star Vincent Keymer. In an interview with The Indian Express, Leko reflects on Keymer's steady rise, the influence of the new generation of prodigies and his own career lessons. He offers candid insights into what it takes to succeed at the highest level and why growth matters more than results. | Pictured: Peter Leko, Vincent Keymer and Hans-Walter Schmitt (2018) | Photo: Hartmut Metz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-3",
          "pubDate" : "Wed, 20 Aug 2025 22:18:00",
          "title" : "Caruana Knocks Down Firouzja, Joins Lead With Aronian, Praggnanandhaa"
-      },
-      {
-         "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-live",
-         "pubDate" : "Wed, 20 Aug 2025 19:00:00",
-         "title" : "Sinquefield Cup - Live!"
       },
       {
          "description" : " Alireza Firouzja won a tremendous struggle against Jan-Krzysztof Duda to join Praggnanandhaa and Levon Aronian in the lead of the Sinquefield Cup on 1.5 points at this early stage of the competition. Firouzja won on the white side of an open Spanish, as did Gukesh who bounced back from his loss yesterday, he beat Nodirbek Abdusattorov and he is on no points after his second loss in row. ",
