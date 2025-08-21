@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Fabiano Caruana was the only winner in Round 3 of the Sinquefield Cup. Caruana took advantage of a few Firouzja inaccuracies, 21...Raf8? (21...Rff8!) was a real error, not exploited 22.a3?! (22.Bh3!) 22...Qd8? (22...Qe7!=) but it was only later that the real collapse happened when Firouzja allowed Caruana's d-pawn to advance. Levon Aronian escaped a lost position against Maxime Vachier-Lagrave, 53.Bf6? (53.a3 was the win) was the point MVL erred. Nodirbek Abdusattorov pressed against Praggnanandhaa but had to settle for a draw in the end. Jan-Krzysztof Duda and Wesley So drew a very quiet game. Sam Sevian had a little something against Gukesh but it didn't turn out to be anything. Notes to ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/caruana-joins-the-leaders-after-beating-firouzja-in-the-sinquefield-cup-round-3",
+         "pubDate" : "Thu, 21 Aug 2025 15:16:00",
+         "title" : "Caruana joins the leaders after beating Firouzja in the Sinquefield Cup Round 3 - 3"
+      },
+      {
+         "description" : "After five rounds, the Rubinstein Memorial in Polanica-Zdr&oacute;j has three leaders at the top of the table: Nodirbek Yakubboev, Radosław Wojtaszek, and reigning European Champion Matthias Bl&uuml;baum (pictured). In round five, Bl&uuml;baum scored a notable win with the black pieces against Michael Adams, who now finds himself at the bottom of the standings. The biggest surprise of the day, however, came from Jan Klimkowski: the Polish player defeated top seed Aravindh Chithambaram with Black, delivering the upset of the tournament so far. Round six will feature the direct clash between Wojtaszek and Bl&uuml;baum. | Photo: SZS / Luka Rifelj (Archive)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rubinstein-chess-festival-2025-bluebaum-yakkuboev-and-wojtaszek-share-the-lead",
+         "pubDate" : "Thu, 21 Aug 2025 13:58:22",
+         "title" : "Rubinstein Chess Festival 2025: Bl&uuml;baum, Yakkuboev and Wojtaszek share the lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123432041.cms\" />A grandmaster chess tournament in New Delhi highlights the traditional, silent atmosphere of the game, contrasting sharply with a recent event in Las Vegas where live audiences roared at every move. Players express concerns about distractions caused by spectators, questioning whether chess is truly ready for a live audience setting.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/ssshhh-chess-and-the-challenges-of-playing-in-front-of-a-live-audience/articleshow/123432041.cms",
+         "pubDate" : "Thu, 21 Aug 2025 11:37:37",
+         "title" : "Ssshhh! Chess and the challenges of playing in front of a live audience"
+      },
+      {
          "description" : "Fabiano Caruana scored the only win on day three of the Sinquefield Cup in Saint Louis, defeating Alireza Firouzja to join Levon Aronian and Rameshbabu Praggnanandhaa at the top of the standings on 2 points. The most eventful game of the round came from Maxime Vachier-Lagrave's clash with Aronian, where the Frenchman obtained a winning position in a sharp French Defence but was unable to convert, eventually allowing his opponent to escape with a draw. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
