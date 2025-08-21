@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-live",
+         "pubDate" : "Thu, 21 Aug 2025 19:00:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
          "description" : " Fabiano Caruana was the only winner in Round 3 of the Sinquefield Cup. Caruana took advantage of a few Firouzja inaccuracies, 21...Raf8? (21...Rff8!) was a real error, not exploited 22.a3?! (22.Bh3!) 22...Qd8? (22...Qe7!=) but it was only later that the real collapse happened when Firouzja allowed Caruana's d-pawn to advance. Levon Aronian escaped a lost position against Maxime Vachier-Lagrave, 53.Bf6? (53.a3 was the win) was the point MVL erred. Nodirbek Abdusattorov pressed against Praggnanandhaa but had to settle for a draw in the end. Jan-Krzysztof Duda and Wesley So drew a very quiet game. Sam Sevian had a little something against Gukesh but it didn't turn out to be anything. Notes to ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -42,6 +50,22 @@ news_feed (
          "title" : "Final Report of Senior National Arbiter Seminar & Examination held in Bathinda on 15 & 16 August 2025"
       },
       {
+         "description" : "Chess will return to the global esports stage following the highly successful debut in 2025. The qualifying cycle for the 2026 Esports World Cup (EWC) will see major changes, making it bigger, better, and more competitive. The Champions Chess To...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/esports-world-cup-2026-announcement",
+         "pubDate" : "Thu, 21 Aug 2025 09:30:00",
+         "title" : "Esports World Cup Returns With Bigger, Year-Round Qualifying Cycle"
+      },
+      {
+         "description" : "Adult improvers, rejoice. More than 15 years since earning her first IM norm in 2010, and more than a decade after earning her third and final, WGM Tatev Abrahamyan played the &#34;best tournament of my career&#34; at the Budapest One Week in Hungary. She...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/abrahamyan-plays-best-tournament-of-career-earns-im-title-gm-norm",
+         "pubDate" : "Thu, 21 Aug 2025 09:02:00",
+         "title" : "Abrahamyan Plays 'Best Tournament of Career', Earns IM Title, GM Norm"
+      },
+      {
          "description" : "Peter Leko, once the youngest grandmaster in the world and a former world championship contender, played a pivotal role as mentor to Germany's star Vincent Keymer. In an interview with The Indian Express, Leko reflects on Keymer's steady rise, the influence of the new generation of prodigies and his own career lessons. He offers candid insights into what it takes to succeed at the highest level and why growth matters more than results. | Pictured: Peter Leko, Vincent Keymer and Hans-Walter Schmitt (2018) | Photo: Hartmut Metz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-d-gukesh-held-by-samuel-sevian-praggnanandhaa-draws-with-nodirbek-abdusattorov/articleshow/123423351.cms",
          "pubDate" : "Thu, 21 Aug 2025 04:25:12",
          "title" : "Sinquefield Cup: D Gukesh held by Samuel Sevian"
+      },
+      {
+         "description" : "11 years after earning her final IM norm, 37-year-old American WGM Tatev Abrahamyan crossed 2400 FIDE for the first time to become eligible for the IM title by winning the Budapest One Week August 2025 GM norm invitational tournament. Curiously, this makes Abrahamyan the first woman to become eligible for the IM title in a calendar year that has already seen two new female grandmasters.Abrahamyan also earned her first GM norm in Budapest thanks to her 2613 performance rating, picking up a whopping 62 rating points. Her undefeated 7/9 score was particularly impressive considering that she entered the event as the third lowest-rated player. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tatev-abrahamyan-reaches-2400-earns-first-gm-norm",
+         "pubDate" : "Thu, 21 Aug 2025 00:00:00",
+         "title" : "Tatev Abrahamyan Reaches 2400, Earns First GM Norm"
       },
       {
          "description" : "The FIDE Grand Swiss returns this September with its fourth edition, bringing many of the world's strongest players to Samarkand, Uzbekistan, for one of the most prestigious classical tournaments on the calendar. Alongside seasoned contenders, a new generation of prodigies will be in the spotlight, from established teenage stars to emerging talents aiming to set fresh records. The event promises a fascinating clash of youth and experience across both the Open and Women's sections.",
@@ -682,14 +714,6 @@ news_feed (
          "title" : "Awonder Hits 2700, Catches Arjun In Chennai"
       },
       {
-         "description" : "GM-elect Divya Deshmukh and GM Bibisara Assaubayeva have advanced to the Quarterfinals of the 2025 Women&#39;s Speed Chess Championship. Divya, fresh off her FIDE Women&#39;s World Cup victory, picked up right where she left off, winning 10-3 against GM L...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/new-grandmasters-divya-and-assaubayeva-advance-to-wscc-quarterfinals",
-         "pubDate" : "Tue, 12 Aug 2025 01:25:00",
-         "title" : "New GMs Divya, Assaubayeva Advance To Speed Chess Quarterfinals"
-      },
-      {
          "description" : "This week's puzzles conclude our series on the 2025 FIDE Women's World Cup (coverage here), with WGM Sabina Foisor bringing us some tactical highlights from the games and variations that kept us riveted throughout July. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -704,14 +728,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/postgame-day-1-rapid-is-underway-stl-rb-2025/",
          "pubDate" : "Mon, 11 Aug 2025 23:15:15",
          "title" : "POSTGAME DAY 1: Rapid is Underway! | #STLRapidBlitz"
-      },
-      {
-         "description" : "GM Levon Aronian leads the 2025 Saint Louis Rapid &#38;amp; Blitz with a perfect 6/6 score after the first three rounds of rapid chess. GM Fabiano Caruana had a strong start as well with 5/6&#38;mdash;two wins and a draw. World Champion Gukesh Dommaraju b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-saint-louis-rapid-and-blitz-day-1",
-         "pubDate" : "Mon, 11 Aug 2025 22:09:00",
-         "title" : "Aronian Leads With Perfect Score"
       },
       {
          "description" : "\"Chess is a very important part of your life, but it can't really be everything,\" says USA's Awonder Liang.",
@@ -824,14 +840,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/aug/08/magnus-carlsen-esports-world-cup-chess",
          "pubDate" : "Fri, 08 Aug 2025 07:00:04",
          "title" : "Magnus Carlsen shows class and wins $250,000 at frantic Esports World Cup"
-      },
-      {
-         "description" : "This fall, US Chess will begin hosting online prize arena tournaments on Chess.com exclusively for US Chess members. This innovative format will allow participants to come late, leave early, and play as many games as they can without waiting for a round to finish.As a soft launch, the first test arena will be on Friday, August 15 at 3 p.m. CDT. To register, please read our Members Only Prize Arena FAQ page and request to join the club here. Note this is a new club, and all players must join to participate. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> We invite all current members to follow the instructions below to register and compete. This will be a great opportuni",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/introducing-us-chess-members-only-online-prize-arenas",
-         "pubDate" : "Fri, 08 Aug 2025 00:00:00",
-         "title" : "Introducing US Chess Members Only Online Prize Arenas"
       },
       {
          "description" : " There was a match between World Champion Gukesh and Jan-Krzysztof Duda in Katowice, Poland on 7th August 2025. Gukesh's struggles at fast time controls continues, he won game 1 but lost all the rest to lose the match 5-1. ",
