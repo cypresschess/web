@@ -2,10 +2,26 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinqefield-cup-postgame-round-3/\">POSTGAME ROUND 3 | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : "Peter Leko, once the youngest grandmaster in the world and a former world championship contender, played a pivotal role as mentor to Germany's star Vincent Keymer. In an interview with The Indian Express, Leko reflects on Keymer's steady rise, the influence of the new generation of prodigies and his own career lessons. He offers candid insights into what it takes to succeed at the highest level and why growth matters more than results. | Pictured: Peter Leko, Vincent Keymer and Hans-Walter Schmitt (2018) | Photo: Hartmut Metz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leko-on-keymer-indian-express",
+         "pubDate" : "Thu, 21 Aug 2025 05:00:00",
+         "title" : "Leko on The Indian Express: \"Keymer is clearly a great strategist\""
+      },
+      {
+         "description" : "The FIDE Grand Swiss returns this September with its fourth edition, bringing many of the world's strongest players to Samarkand, Uzbekistan, for one of the most prestigious classical tournaments on the calendar. Alongside seasoned contenders, a new generation of prodigies will be in the spotlight, from established teenage stars to emerging talents aiming to set fresh records. The event promises a fascinating clash of youth and experience across both the Open and Women's sections.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-clash-generations",
+         "pubDate" : "Wed, 20 Aug 2025 22:45:00",
+         "title" : "Future of chess and clash of generations at Grand Swiss in Samarkand"
+      },
+      {
+         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-3/\">POSTGAME ROUND 3 | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinqefield-cup-postgame-round-3/",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-3/",
          "pubDate" : "Wed, 20 Aug 2025 22:37:03",
          "title" : "POSTGAME ROUND 3 | #SinquefieldCup"
       },
@@ -98,18 +114,10 @@ news_feed (
          "title" : "Sinquefield Cup: Gukesh bounces back with crushing win over Abdusattorov"
       },
       {
-         "description" : "The French Chess Championships are being held in Vichy from 15 to 24 August as part of a large chess festival featuring events for all levels, from national title matches to youth and amateur competitions. The Open and Women's Championships, organised as 16-player knockouts, have now reached the semifinals. In the Open, three veterans join 18-year-old Marc'Andria Maurizzi, while in the Women's, recent champions face ambitious challengers for a place in the final. | Photos: Nathalie Daubry / French Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/french-championships-2025-qf",
-         "pubDate" : "Wed, 20 Aug 2025 01:00:00",
-         "title" : "French Championships: Three veterans and Maurizzi reach semifinals"
-      },
-      {
-         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinqefield-cup-postgame-round-2/\">POSTGAME ROUND 2: Alireza Bests Duda in Epic Game! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-2/\">POSTGAME ROUND 2: Alireza Bests Duda in Epic Game! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinqefield-cup-postgame-round-2/",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-2/",
          "pubDate" : "Tue, 19 Aug 2025 23:35:31",
          "title" : "POSTGAME ROUND 2: Alireza Bests Duda in Epic Game! | #SinquefieldCup"
       },
@@ -138,28 +146,12 @@ news_feed (
          "title" : "Aronian and Praggnanandhaa win in Round 1 of the Sinquefield Cup - 1"
       },
       {
-         "description" : "Vincent Keymer celebrated one of the greatest successes of his career at the Chennai Masters. He won the strong tournament by a two-point margin, achieved a performance rating of 2917 and gained more than 20 Elo points. For the first time in his career, he has entered the world's top ten in the live rankings. After the tournament he sat down with Himank Ghosh of ChessBase India for an in-depth interview, speaking about the event, his career, his rivals, his collaboration with Peter Leko, life as a top player, his goals, and much more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-is-something-i-really-enjoy-an-interview-with-vincent-keymer",
-         "pubDate" : "Tue, 19 Aug 2025 16:39:49",
-         "title" : "\"Chess is something I really enjoy\" - An interview with Vincent Keymer"
-      },
-      {
          "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the players and accompanying persons are required to make",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/19th-asian-schools-chess-championships-2025-in-ulaanbaatar-mongolia-from-24th-october-to-2nd-november-2025/",
          "pubDate" : "Tue, 19 Aug 2025 16:01:59",
          "title" : "19th Asian Schools Chess Championships - 2025 in Ulaanbaatar, Mongolia from 24th October to 2nd November, 2025."
-      },
-      {
-         "description" : "Karsten M&uuml;ller and Arne K&auml;hler use Fritz 20 to compare game analysis with the 4 Player Types standard model. Using a game by Elisabeth P&auml;htz against the 'Bull,' they explain the strategic mistakes of an Active player and how other player types (Reflectors, Theorists, Pragmatists) would have avoided them. In conclusion, they emphasize that Fritz 20 with its player type model offers a valuable training opportunity to specifically prepare for opponents with a certain style - even for Freestyle Chess events.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fritz-20-and-the-4-player-types-standard-model-analysis-of-paehtz-vs-the-bull",
-         "pubDate" : "Tue, 19 Aug 2025 15:30:00",
-         "title" : "Fritz 20 and the 4 Player Types standard model - Analysis of Paehtz vs. the 'Bull'"
       },
       {
          "description" : " The newly expanded Club to reopen as the premier global venue for chess, kicking off a historic series of elite tournaments SAINT LOUIS, MO (August 19, 2025) - The Saint Louis Chess Club is proud to announce the grand reopening of its newly expanded campus this fall, marking a bold new chapter for the game [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-saint-louis-chess-club-grand-reopening/\">Saint Louis Chess Club to Unveil New World-Class Facility With a Month of Historic Events, Legendary Matches, and U.S. &amp; U.S. Women's Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -178,10 +170,10 @@ news_feed (
          "title" : "Sinquefield Cup: R Praggnanandhaa outplays D Gukesh"
       },
       {
-         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinqefield-cup-postgame-round-1/\">POSTGAME ROUND 1: Pragg Doesn't Give Gukesh a Chance! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-1/\">POSTGAME ROUND 1: Pragg Doesn't Give Gukesh a Chance! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinqefield-cup-postgame-round-1/",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-1/",
          "pubDate" : "Tue, 19 Aug 2025 00:20:13",
          "title" : "POSTGAME ROUND 1: Pragg Doesn't Give Gukesh a Chance! | #SinquefieldCup"
       },
