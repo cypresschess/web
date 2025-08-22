@@ -46,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-4",
-         "pubDate" : "Thu, 21 Aug 2025 15:14:34",
+         "pubDate" : "Thu, 21 Aug 2025 15:14:00",
          "title" : "Caruana Takes Sole Lead After 2nd Win"
       },
       {
