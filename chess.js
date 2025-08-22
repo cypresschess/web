@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Abu Dhabi Masters, the main event of the 31st Abu Dhabi International Chess Festival, is currently under way in the capital of the United Arab Emirates. Bringing together a strong international field, the nine-round Swiss event is played at classical time control with a prize fund of 55,000 USD. With two rounds remaining, China's Zeng Chongsheng leads the standings, pursued closely by a group featuring a few higher-seeded contenders. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/abu-dhabi-masters-2025-r7",
+         "pubDate" : "Sat, 23 Aug 2025 00:15:00",
+         "title" : "Abu Dhabi Masters: Zeng leads, Naiditsch, Lazavik and Socko among closest chasers"
+      },
+      {
+         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-5/\">POSTGAME ROUND 5 | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-5/",
+         "pubDate" : "Fri, 22 Aug 2025 22:01:51",
+         "title" : "POSTGAME ROUND 5 | #SinquefieldCup"
+      },
+      {
          "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "Sinquefield Cup - Live!"
       },
       {
-         "description" : "Suspense in Vichy. The semifinals of the French Chess Championship offered thrilling duels between experience and youthful vigour. Marc'Andria Maurizzi (pictured) and Laurent Fressinet prevailed in the open competition, while Mitra Hejazipour and Yosha Iglesias will contest the women's final. Etienne Bacrot v. S&eacute;bastien Maz&eacute; and Deimant&eacute; Daulyte-Cornette v. Anastasia Savina will be the matches for third place. | Photos: Nathalie Daubry / French Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/french-championships-2025-sf",
-         "pubDate" : "Fri, 22 Aug 2025 18:00:00",
-         "title" : "French Championship Finals: Maurizzi v. Fressinet and Iglesias v. Hejazipour"
+         "description" : "GM Fabiano Caruana continues to lead the 2025 Sinquefield Cup after, for the first time this year, a round of all draws. GM Jan-Krzysztof Duda came closest to winning against World Champion Gukesh Dommaraju, finding a brilliant line but missing th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-5",
+         "pubDate" : "Fri, 22 Aug 2025 16:20:19",
+         "title" : "Caruana Leads After 5 Draws Before Rest Day"
       },
       {
          "description" : " Fabiano Caruana survived a scary opening to beat the out of form Nodirbek Abdusattorov. Caruana now leads alone on 3/4, half a point clear of Aronian and Praggnanandhaa. Maxime Vachier-Lagrave outplayed Gukesh for a few moves in the middlegame but missed the final killer blow and the game finished in a draw. Wesley So was better almost throughout against Alireza Firouzja, 30...f5?! was definitely an inaccuracy and rather than agree to a repetition So should have played on with 32.Kd2 (or subsequently this deviation when they repeated). The games Levon Aronian against Jan-Krzysztof Duda and Praggnanandhaa against Sam Sevian were quiet draws. Round 5 pairings: Duda-Gukesh, Caruana-So, Sevian-",
@@ -30,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-wscc-f-hou-yifan-ju-wenjun",
-         "pubDate" : "Fri, 22 Aug 2025 11:15:59",
+         "pubDate" : "Fri, 22 Aug 2025 11:15:00",
          "title" : "Ju Wenjun Defeats Hou Yifan For WSCC Title Second Year In A Row"
       },
       {
@@ -634,14 +650,6 @@ news_feed (
          "title" : "2025 Coventry International"
       },
       {
-         "description" : "GM Vincent Keymer defeated GM Awonder Liang in round seven of the&#38;nbsp;Quantbox Chennai Grand Masters 2025 to break into the world top-10 for the first time. GM Arjun Erigaisi trails by 1.5 points after a quiet draw against GM Anish Giri and is jo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-7",
-         "pubDate" : "Wed, 13 Aug 2025 13:59:00",
-         "title" : "Keymer Enters World Top-10 For 1st Time"
-      },
-      {
          "description" : "\"When I play a lot of players, what I immediately see is mistakes,\" says Anish Giri",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-womens-world-cup-pt-3",
          "pubDate" : "Wed, 13 Aug 2025 00:00:00",
          "title" : "Wednesday Workout: FIDE Women's World Cup, Pt. 3"
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-day-2-stl-rb-2025/\">POSTGAME DAY 2 | #STLRapidBlitz</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-day-2-stl-rb-2025/",
-         "pubDate" : "Tue, 12 Aug 2025 23:00:39",
-         "title" : "POSTGAME DAY 2 | #STLRapidBlitz"
       },
       {
          "description" : "This week's puzzles conclude our series on the 2025 FIDE Women's World Cup (coverage here), with WGM Sabina Foisor bringing us some tactical highlights from the games and variations that kept us riveted throughout July. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -920,14 +920,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45883892/global-chess-now-era-vishys-children?device=featurephone",
          "pubDate" : "Sat, 2 Aug 2025 06:08:00",
          "title" : "Global chess is now in the era of Vishy's children"
-      },
-      {
-         "description" : " The Esports World Cup chess sections was a blitz double elimination knockout tournament held in Riyadh, Saudi Arabia Tue 29th July to Fri 1st Aug 2025. Players: Group A Ian Nepomniachtchi, Andrey Esipenko, Levon Aronian and Vladislav Artemiev. Group B Maxime Vachier-Lagrave, Anish Giri, Arjun Erigaisi, Nihal Sarin. Group C Hikaru Nakamura, Javokhir Sindarov, Alireza Firouzja, Wei Yi. Group D Magnus Carlsen, Nodirbek Abdusattorov, Fabiano Caruana, Jan-Krzysztof Duda. Magnus Carlsen easily beat Alireza Firouzja in the final winning 2-0 in a best of 3 sets and winning each of those sets 3-1 Hikaru Nakamura narrowly beat Arjun Erigaisi in the 3rd-4th playoff. The players are members of wider Es",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/esports-world-cup-2025",
-         "pubDate" : "Fri, 1 Aug 2025 20:42:00",
-         "title" : "Esports World Cup 2025 - Games and Results"
       }
    ]
 }
