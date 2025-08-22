@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Fabiano Caruana survived a scary opening to beat the out of form Nodirbek Abdusattorov. Caruana now leads alone on 3/4, half a point clear of Aronian and Praggnanandhaa. Maxime Vachier-Lagrave outplayed Gukesh for a few moves in the middlegame but missed the final killer blow and the game finished in a draw. Wesley So was better almost throughout against Alireza Firouzja, 30...f5?! was definitely an inaccuracy and rather than agree to a repetition So should have played on with 32.Kd2 (or subsequently this deviation when they repeated). The games Levon Aronian against Jan-Krzysztof Duda and Praggnanandhaa against Sam Sevian were quiet draws. Round 5 pairings: Duda-Gukesh, Caruana-So, Sevian-",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/caruana-takes-a-clear-lead-in-the-sinquefield-cup-after-beating-abdusattorov-in-round-4",
+         "pubDate" : "Fri, 22 Aug 2025 12:27:00",
+         "title" : "Caruana takes a clear lead in the Sinquefield Cup after beating Abdusattorov in Round 4 - 4"
+      },
+      {
          "description" : "Fabiano Caruana took the sole lead at the Sinquefield Cup after defeating Nodirbek Abdusattorov in round four, his second straight win. The Uzbek player's aggressive strategy with opposite-side castling and a speculative knight sacrifice backfired, leaving him with a third loss in four games. Maxime Vachier-Lagrave again missed a clear winning chance, this time against world champion Gukesh Dommaraju, while Alireza Firouzja's sharp encounter with Wesley So also ended in a draw. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
