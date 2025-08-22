@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The German has jumped into the world top 10, while Praggnandhaa advanced to No 4 as he crushed world champion Gukesh in the $325,000 Sinquefield Cup Germany's Vincent Keymer, 20, has laid down a marker for the 2026 world candidates and title match by routing some of India's best grandmasters at the Quantbox GM tournament in Chennai, the heartland of the Olympiad champions and the home of the world champion, Gukesh Dommaraju. Keymer's score was an unbeaten 7/9, while his winning margin was a full two points. In contrast, India's Arjun Erigaisi finished third on tie-break and dropped from No 4 to No 6 in the Fide live ratings, while Vidit Gujrathi, a 2024 world title candidate, had a minus sc",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/aug/22/chess-vincent-keymer-20-routs-indians-in-their-chennai-heartland",
+         "pubDate" : "Fri, 22 Aug 2025 07:00:26",
+         "title" : "Chess: Vincent Keymer, 20, routs Indians in their Chennai heartland"
+      },
+      {
          "description" : "The Saint Louis Chess Club is set to reopen this October with a newly expanded 30,000-square-foot campus, reinforcing its position as a global hub for chess. The month-long celebration will feature \"Clutch Chess: The Legends\", with Garry Kasparov facing Viswanathan Anand, the U.S. and U.S. Women's Championships, Hall of Fame inductions, and the Champions Showdown with Carlsen, Nakamura, Caruana and Gukesh. The transformed venue combines elite competition with education, community engagement and cutting-edge technology. | All photos: Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -928,14 +936,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/world-youth-european-youth-championships/",
          "pubDate" : "Fri, 01 Aug 2025 10:35:41",
          "title" : "World Youth & European Youth Championships"
-      },
-      {
-         "description" : " Record entry in Liverpool, while Bodhana Sivanandan bids to become youngest national women's champion England's grandmasters are in action on Saturday, as round one of the British Championship gets under way at St George's Hall in the centre of Liverpool. Former Russian Nikita Vitiugov, 38, the national No 1, is top seeded while the No 3 and world senior champion, Michael Adams, is the man in form after the 53-year-old from Taunton, Somerset, won the English title in July. The continuing chess boom, reflecting the easy availability of <a href=\"https://lichess.org/\">online blitz games</a>, the popularity of the world No 1, Magnus Carlsen, and the success of Netflix's <a href=\"https://www.the",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/aug/01/chess-10-year-old-targets-world-record-alongside-grandmasters-at-british-championship",
-         "pubDate" : "Fri, 01 Aug 2025 07:00:17",
-         "title" : "Chess: 10-year-old targets world record alongside grandmasters at British Championship"
       }
    ]
 }
