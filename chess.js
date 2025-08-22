@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana took the sole lead at the Sinquefield Cup after defeating Nodirbek Abdusattorov in round four, his second straight win. The Uzbek player's aggressive strategy with opposite-side castling and a speculative knight sacrifice backfired, leaving him with a third loss in four games. Maxime Vachier-Lagrave again missed a clear winning chance, this time against world champion Gukesh Dommaraju, while Alireza Firouzja's sharp encounter with Wesley So also ended in a draw. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-4",
+         "pubDate" : "Fri, 22 Aug 2025 10:30:00",
+         "title" : "Sinquefield Cup: Caruana grabs second consecutive win, leads"
+      },
+      {
          "description" : " The German has jumped into the world top 10, while Praggnandhaa advanced to No 4 as he crushed world champion Gukesh in the $325,000 Sinquefield Cup Germany's Vincent Keymer, 20, has laid down a marker for the 2026 world candidates and title match by routing some of India's best grandmasters at the Quantbox GM tournament in Chennai, the heartland of the Olympiad champions and the home of the world champion, Gukesh Dommaraju. Keymer's score was an unbeaten 7/9, while his winning margin was a full two points. In contrast, India's Arjun Erigaisi finished third on tie-break and dropped from No 4 to No 6 in the Fide live ratings, while Vidit Gujrathi, a 2024 world title candidate, had a minus sc",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-4/",
          "pubDate" : "Thu, 21 Aug 2025 21:37:42",
          "title" : "POSTGAME ROUND 4: Caruana Holds Nerves, Turns Tables on Nodirbek | #SinquefieldCup"
-      },
-      {
-         "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-live",
-         "pubDate" : "Thu, 21 Aug 2025 19:00:00",
-         "title" : "Sinquefield Cup - Live!"
       },
       {
          "description" : "Five-time Women&#39;s World Champion GM Ju Wenjun defeated IM Polina Shuvalova with a score of 17-5 in what turned out to be a one-sided semifinal of the 2025 Women&#39;s Speed Chess Championship. In the process, she beat her own WSCC record for the large...",
@@ -928,14 +928,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-rapid-blitz-chess-championship-2025-official-regulations/",
          "pubDate" : "Fri, 01 Aug 2025 15:40:23",
          "title" : "European Women's Rapid & Blitz Chess Championship 2025 - Official regulations"
-      },
-      {
-         "description" : "Last Updated on 1st August 2025 by WebAdmin World Youth Championships 3 16 October Nominated and approved England players selected for the 2025 FIDE World Youth Championships U14, U16...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/world-youth-european-youth-championships/",
-         "pubDate" : "Fri, 01 Aug 2025 10:35:41",
-         "title" : "World Youth & European Youth Championships"
       }
    ]
 }
