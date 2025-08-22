@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-live",
+         "pubDate" : "Fri, 22 Aug 2025 19:00:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "Suspense in Vichy. The semifinals of the French Chess Championship offered thrilling duels between experience and youthful vigour. Marc'Andria Maurizzi (pictured) and Laurent Fressinet prevailed in the open competition, while Mitra Hejazipour and Yosha Iglesias will contest the women's final. Etienne Bacrot v. S&eacute;bastien Maz&eacute; and Deimant&eacute; Daulyte-Cornette v. Anastasia Savina will be the matches for third place. | Photos: Nathalie Daubry / French Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/french-championships-2025-sf",
+         "pubDate" : "Fri, 22 Aug 2025 18:00:00",
+         "title" : "French Championship Finals: Maurizzi v. Fressinet and Iglesias v. Hejazipour"
+      },
+      {
          "description" : " Fabiano Caruana survived a scary opening to beat the out of form Nodirbek Abdusattorov. Caruana now leads alone on 3/4, half a point clear of Aronian and Praggnanandhaa. Maxime Vachier-Lagrave outplayed Gukesh for a few moves in the middlegame but missed the final killer blow and the game finished in a draw. Wesley So was better almost throughout against Alireza Firouzja, 30...f5?! was definitely an inaccuracy and rather than agree to a repetition So should have played on with 32.Kd2 (or subsequently this deviation when they repeated). The games Levon Aronian against Jan-Krzysztof Duda and Praggnanandhaa against Sam Sevian were quiet draws. Round 5 pairings: Duda-Gukesh, Caruana-So, Sevian-",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "Caruana takes a clear lead in the Sinquefield Cup after beating Abdusattorov in Round 4 - 4"
       },
       {
-         "description" : "Fabiano Caruana took the sole lead at the Sinquefield Cup after defeating Nodirbek Abdusattorov in round four, his second straight win. The Uzbek player's aggressive strategy with opposite-side castling and a speculative knight sacrifice backfired, leaving him with a third loss in four games. Maxime Vachier-Lagrave again missed a clear winning chance, this time against world champion Gukesh Dommaraju, while Alireza Firouzja's sharp encounter with Wesley So also ended in a draw. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-4",
-         "pubDate" : "Fri, 22 Aug 2025 10:30:00",
-         "title" : "Sinquefield Cup: Caruana grabs second consecutive win, leads"
+         "description" : "Reigning Women&#39;s World Champion GM Ju Wenjun defeated Women&#39;s number-one GM Hou Yifan with a combined score of 11.5-9.5 in the all-Chinese finals of the 2025 Women&#39;s Speed Chess Championship to claim the title for the second year in a row. Hou h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-wscc-f-hou-yifan-ju-wenjun",
+         "pubDate" : "Fri, 22 Aug 2025 11:15:59",
+         "title" : "Ju Wenjun Defeats Hou Yifan For WSCC Title Second Year In A Row"
       },
       {
          "description" : " The German has jumped into the world top 10, while Praggnandhaa advanced to No 4 as he crushed world champion Gukesh in the $325,000 Sinquefield Cup Germany's Vincent Keymer, 20, has laid down a marker for the 2026 world candidates and title match by routing some of India's best grandmasters at the Quantbox GM tournament in Chennai, the heartland of the Olympiad champions and the home of the world champion, Gukesh Dommaraju. Keymer's score was an unbeaten 7/9, while his winning margin was a full two points. In contrast, India's Arjun Erigaisi finished third on tie-break and dropped from No 4 to No 6 in the Fide live ratings, while Vidit Gujrathi, a 2024 world title candidate, had a minus sc",
@@ -26,12 +42,12 @@ news_feed (
          "title" : "Chess: Vincent Keymer, 20, routs Indians in their Chennai heartland"
       },
       {
-         "description" : "The Saint Louis Chess Club is set to reopen this October with a newly expanded 30,000-square-foot campus, reinforcing its position as a global hub for chess. The month-long celebration will feature \"Clutch Chess: The Legends\", with Garry Kasparov facing Viswanathan Anand, the U.S. and U.S. Women's Championships, Hall of Fame inductions, and the Champions Showdown with Carlsen, Nakamura, Caruana and Gukesh. The transformed venue combines elite competition with education, community engagement and cutting-edge technology. | All photos: Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/stl-chess-club-new-facility",
-         "pubDate" : "Fri, 22 Aug 2025 00:10:00",
-         "title" : "Saint Louis Chess Club to unveil new world-class facility: Anand v. Kasparov match among historic events"
+         "description" : "On August 14, 2025, the Chicago Police Department (CPD), in partnership with the Renaissance Knights Chess Foundation and Chicago Public Schools (CPS), hosted a special \"Cops &amp; Kids\" chess event, teaming up with UFC fighters to engage CPS students in a spirited and strategic match-up. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of the organizers<br> <br> <br> <br> Held at the Chicago Police Department Training Academy in West Humboldt Park, this community outreach was designed to strengthen connections among students, law enforcement, and athletes through the universal language of chess. A Unique Blend of Strategy and CommunityAl",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/cops-kids-chess-community-engagement-event-ufc",
+         "pubDate" : "Fri, 22 Aug 2025 00:00:00",
+         "title" : "Cops & Kids Chess: Community Engagement Event with UFC"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-4/\">POSTGAME ROUND 4: Caruana Holds Nerves, Turns Tables on Nodirbek | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -666,14 +682,6 @@ news_feed (
          "title" : "Senior National Arbiter Seminar & Examination in Jammu on 06 & 07 September 2025"
       },
       {
-         "description" : "Not for the first time, GMs Hikaru Nakamura and Magnus Carlsen were your Titled Tuesday winners on August 12. Nakamura defeated GM Oleksandr Bortnyk in the final round of the first tournament, winning it on tiebreaks over Bortnyk and two others. I...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-carlsen-win-titled-tuesday-august-12-2025",
-         "pubDate" : "Wed, 13 Aug 2025 08:04:01",
-         "title" : "Carlsen's Near Perfection Costs Nakamura Sweep"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123272820.cms\" />Vincent Keymer maintained his lead at the Chennai Grand Masters after a draw against Arjun Erigaisi. Keymer, with 4.5 points, is closely followed by Arjun and Awonder Liang, both at 3.5 points. Awonder also crossed the 2700 rating mark. Anish Giri and Vidit Gujrathi played a 109-move draw in another intense match.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/national-chess-day-preview-y-not-chess-three-simultaneous-scholastics",
          "pubDate" : "Mon, 11 Aug 2025 00:00:00",
          "title" : "National Chess Day Preview: Y Not Chess Three Simultaneous Scholastics"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> SafeSport refresher courses are required annually to maintain your TD certification after you complete the initial SafeSport Trained course. Refresher courses must be taken within one year of the previous training completion date, with a 30-day grace period.If this deadline is not met, your TD certification will be changed to inactive until the next required course is completed. You do not have to retake courses.Here is the SafeSport certification schedule:SafeSport Trained - Not Affiliated (core course): Expires one year from the completion date.Refresher 1: Recognizing and Reporting Misconduct - Not Affiliated: Take with",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-information-regarding-annual-safesport-refresher-course-requirements",
-         "pubDate" : "Mon, 11 Aug 2025 00:00:00",
-         "title" : "2025 Information Regarding Annual SafeSport Refresher Course Requirements"
       },
       {
          "description" : " The 111th British Chess Championships took place in Liverpool Saturday 2nd to Sunday 10th August 2025. Top seeds Nikita Vitiugov, Michael Adams, Gawain Maroroa Jones, Stuart C Conquest Ameet K Ghasi etc. Michael Adams won his 9th title after beating Stuart Conquest (who had to beat Peter Roberson first) in a three way tie-break match. ",
@@ -928,14 +928,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/esports-world-cup-2025",
          "pubDate" : "Fri, 1 Aug 2025 20:42:00",
          "title" : "Esports World Cup 2025 - Games and Results"
-      },
-      {
-         "description" : "The 2025 European Women's Rapid &#38; Blitz Chess Championship will take place from 8th-12th January 2026 in Monte-Carlo, Monaco. The Championship is open to all players representing Chess Federations which are ECU members regardless of their title and rating. There is no limit to the number of participants per federation. Registration starts after 1st August 2025, and applications must be sent to the Tournament Director, Jean Michel Rapaire by mail:&#160;cemc@libello.com.&#160;Registration deadline is December 19th, 2025. The first event on the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-rapid-blitz-chess-championship-2025-official-regulations/",
-         "pubDate" : "Fri, 01 Aug 2025 15:40:23",
-         "title" : "European Women's Rapid & Blitz Chess Championship 2025 - Official regulations"
       }
    ]
 }
