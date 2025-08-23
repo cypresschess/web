@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana's newest course is here: Silence the Sicilian - Win with the Alapin Variation (2.c3)! The Canadian WIM offers a first look at what you can expect from her lessons. In addition, she takes us through the famous 1996 clash between Deep Blue and Garry Kasparov, where the computer claimed victory with the very same Alapin Variation.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-deep-blue-vs-kasparov-the-alapin",
+         "pubDate" : "Sat, 23 Aug 2025 16:00:00",
+         "title" : "Svitlana's Smart Moves - Deep Blue vs. Kasparov: The Alapin"
+      },
+      {
+         "description" : "The fifth round of the Sinquefield Cup ended with all five games drawn, though several encounters carried plenty of tension. Fabiano Caruana maintained his lead after a balanced game with Wesley So, reaching the halfway point on 3&frac12; points. Jan-Krzysztof Duda came closest to victory, missing a brilliant tactic that would have likely given him the win against world champion Gukesh Dommaraju. The players now get a rest day before the action continues with round six on Sunday. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-5",
+         "pubDate" : "Sat, 23 Aug 2025 14:30:00",
+         "title" : "Sinquefield Cup: Five draws, Caruana remains sole leader"
+      },
+      {
+         "description" : " All of the games finished in a draw in the fifth round of the Sinquefield Cup This was the round heading into the only rest day. Levon Aronian and Alireza Firouzja drew a very sharp French but it seems it was all preparation from both players, Gukesh and Jan-Krzysztof Duda drew a fluctuating struggle where Duda in missed a clear win. Sam Sevian vs Nodirbek Abdusattorov, MVL vs Praggnanandhaa and Fabiano Caruana vs Wesley So were all well played draws. Leaders Caruana 3pts, Praggnanandhaa and Aronian 2.5 pts. Rest Day Saturday. Round 6 Pairings Sunday 24th August 2025: Abdusattorov-MVL, Gukesh-Firouzja, Praggnanandhaa-Duda, Sevian-Caruana, Aronian-So. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/all-games-drawn-in-sinquefield-cup-round-5",
+         "pubDate" : "Sat, 23 Aug 2025 13:21:00",
+         "title" : "All games drawn in Sinquefield Cup Round 5 - 5"
+      },
+      {
+         "description" : "Many of my students are successful in their Careers, and most have improved at various hobbies, such as running, exercise, or their favorite team sports. Time and time again, I hear from them that Chess is the most difficult to wrap their head around. And while there are many possible reasons for it (Chess is []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/why-chess-training-is-confusing/",
+         "pubDate" : "Sat, 23 Aug 2025 13:00:00",
+         "title" : "The Reason Chess Training Is So Confusing"
+      },
+      {
          "description" : "On August 6, 1945, the world saw the first use of the atomic bomb in war. Hiroshima was destroyed in a single morning. On that same day, in a small town outside the city, two men were playing the second game of a Go championship match. The coincidence is remarkable, and it says something about []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -64,14 +96,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-5/",
          "pubDate" : "Fri, 22 Aug 2025 22:01:51",
          "title" : "POSTGAME ROUND 5 | #SinquefieldCup"
-      },
-      {
-         "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-live",
-         "pubDate" : "Fri, 22 Aug 2025 19:00:00",
-         "title" : "Sinquefield Cup - Live!"
       },
       {
          "description" : "GM Fabiano Caruana continues to lead the 2025 Sinquefield Cup after, for the first time this year, a round of all draws. GM Jan-Krzysztof Duda came closest to winning against World Champion Gukesh Dommaraju, finding a brilliant line but missing th...",
@@ -912,22 +936,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapid-blitz-chess-championship-2025-starts-in-greece/",
          "pubDate" : "Sun, 03 Aug 2025 07:39:46",
          "title" : "European Youth Rapid & Blitz Chess Championship 2025 starts in Greece"
-      },
-      {
-         "description" : "I'm so grateful that I grew up in a chess world without opening courses, clickbait, move-trainer, and constant FOMO. It allowed me to train the one main skill that helps me excel at chess, be a better businessman, and solve difficult problems in my private life. To think. On my own. Without interruption and help. []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/thinking/",
-         "pubDate" : "Sat, 02 Aug 2025 13:00:00",
-         "title" : "How AI Destroys Your Chess"
-      },
-      {
-         "description" : "Having completed my annual pilgrimage to Glyndebourne for their new version of Le Nozze di Figaro, I finally realised what this particular opera by Mozart is all about. Figaro initially expresses his rivalry with Count Almaviva in terms of a dance: \"Se vuol ballare, signor contino, il chitarrino le suonerò&hellip;\" (Act I, Scene II) But the plot []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/mozarts-moves-figaro-as-a-game-of-chess/",
-         "pubDate" : "Sat, 02 Aug 2025 12:36:00",
-         "title" : "Mozart's moves: 'Figaro' as a game of chess"
       }
    ]
 }
