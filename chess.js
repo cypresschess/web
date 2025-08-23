@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 8 August, Praggnanandhaa Rameshbabu gave a simultaneous exhibition at the IMC office in Mumbai. His mother, Nagalakshmi, was also present. Amruta Mokal seized the moment to speak with her, and what followed was a special interview where Nagalakshmi opened up about the journey of raising India's golden siblings of chess, Praggnanandhaa and Vaishali. She revealed the amount of planning and support that goes into nurturing world-class talents. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pragg-vaishali-mother-interview-2025",
+         "pubDate" : "Sat, 23 Aug 2025 18:40:00",
+         "title" : "The journey of Praggnanandhaa and Vaishali through their mother's eyes"
+      },
+      {
          "description" : "Svitlana's newest course is here: Silence the Sicilian - Win with the Alapin Variation (2.c3)! The Canadian WIM offers a first look at what you can expect from her lessons. In addition, she takes us through the famous 1996 clash between Deep Blue and Garry Kasparov, where the computer claimed victory with the very same Alapin Variation.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
