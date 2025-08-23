@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On August 6, 1945, the world saw the first use of the atomic bomb in war. Hiroshima was destroyed in a single morning. On that same day, in a small town outside the city, two men were playing the second game of a Go championship match. The coincidence is remarkable, and it says something about []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/go-and-the-atomic-bomb/",
+         "pubDate" : "Sat, 23 Aug 2025 10:10:01",
+         "title" : "Go and the atomic bomb"
+      },
+      {
+         "description" : "Please find the revised list of participants appeared successfully in AICF Refresher Course 2025-26. International Arbiter Fide Arbiter Senior National Arbiter",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/revised-list-of-aicf-refresher-course-2025-26/",
+         "pubDate" : "Sat, 23 Aug 2025 09:24:02",
+         "title" : "Revised list : AICF Refresher Course 2025-26"
+      },
+      {
          "description" : "In the late 1980s, a company was founded in Hamburg that created a revolutionary product for the chess world: a chess database program for personal computers, destined to change the game forever. As one of the very early ChessBase users, I would like to share the story of its development from my own perspective.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -912,14 +928,6 @@ news_feed (
          "link" : "https://www.thearticle.com/mozarts-moves-figaro-as-a-game-of-chess/",
          "pubDate" : "Sat, 02 Aug 2025 12:36:00",
          "title" : "Mozart's moves: 'Figaro' as a game of chess"
-      },
-      {
-         "description" : "Check out the FIDE rankings of the best chess players in the world.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45884604/fide-chess-rankings-august-divya-deshmukh-reaches-career-high-rank-15?device=featurephone",
-         "pubDate" : "Sat, 2 Aug 2025 08:55:00",
-         "title" : "FIDE Chess rankings for August: Divya Deshmukh reaches career-high rank of 15"
       }
    ]
 }
