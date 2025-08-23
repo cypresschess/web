@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the late 1980s, a company was founded in Hamburg that created a revolutionary product for the chess world: a chess database program for personal computers, destined to change the game forever. As one of the very early ChessBase users, I would like to share the story of its development from my own perspective.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-a-look-back-at-the-early-days",
+         "pubDate" : "Sat, 23 Aug 2025 07:00:00",
+         "title" : "ChessBase - A Look Back at the Early Days"
+      },
+      {
+         "description" : "It was a Golden beginning of the Indian Junior Chess Team here in FIDE World Youth U-16 Chess Olympiad at Barranquilla, Colombia which started from",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/report-fide-world-youth-u-16-chess-olympiad-at-barranquilla-colombia-which-started-from-17th-august-to-22nd-august-2025/",
+         "pubDate" : "Sat, 23 Aug 2025 04:57:52",
+         "title" : "Report :FIDE World Youth U-16 Chess Olympiad at Barranquilla, Colombia from 17th August to 22nd August 2025."
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123465804.cms\" />Chess legends Viswanathan Anand and Garry Kasparov are set to reignite their historic rivalry in St. Louis this October, headlining the Clutch Chess series. Adding to the excitement, current world champion D Gukesh will face off against Magnus Carlsen. Kasparov, while acknowledging Gukesh's title win, suggests Carlsen remains the strongest player, sparking debate about the current world championship landscape.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-legends-return-garry-kasparov-teases-viswanathan-anand-ahead-of-mega-clash-i-should-give-vishy-a-chance-to-/articleshow/123465804.cms",
+         "pubDate" : "Sat, 23 Aug 2025 04:29:16",
+         "title" : "Legends return! Kasparov teases Anand: 'I should give him a chance to ...'"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123464822.cms\" />Garry Kasparov commented on Gukesh's recent world championship win during the Sinquefield Cup. Kasparov acknowledged Gukesh's victory but questioned his status as the strongest player. He contrasted Gukesh's title with those of past champions like Magnus Carlsen. Kasparov later apologised while standing by his opinion. He highlighted the excitement for future Candidates and world championship matches. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-under-fire-again-chess-legend-garry-kasparov-you-can-hardly-call-him-the-strongest-player-in-the-world/articleshow/123464822.cms",
+         "pubDate" : "Sat, 23 Aug 2025 02:51:24",
+         "title" : "Gukesh under fire! Chess legend Kasparov: 'Hardly call him the strongest'"
+      },
+      {
          "description" : "The Abu Dhabi Masters, the main event of the 31st Abu Dhabi International Chess Festival, is currently under way in the capital of the United Arab Emirates. Bringing together a strong international field, the nine-round Swiss event is played at classical time control with a prize fund of 55,000 USD. With two rounds remaining, China's Zeng Chongsheng leads the standings, pursued closely by a group featuring a few higher-seeded contenders. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -634,14 +666,6 @@ news_feed (
          "title" : "Ju and Lagno Advance To WSCC Semifinals"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123284574.cms\" />Vincent Keymer surged ahead in the Chennai Grand Masters, extending his lead to 1.5 points after a decisive victory over Awonder Liang. M Karthikeyan's win against Vidit Gujrathi kept Indian hopes alive, while Arjun Erigaisi's draw against Anish Giri significantly hampered his chances. Keymer could clinch the title on Thursday with a win against Jorden van Foreest.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-indians-title-hopes-fade-as-vincent-keymer-closes-in-on-crown/articleshow/123284574.cms",
-         "pubDate" : "Wed, 13 Aug 2025 16:05:13",
-         "title" : "Chennai Grand Masters | Indians' title hopes fade as Vincent Keymer closes in on crown"
-      },
-      {
          "description" : "Last Updated on 13th August 2025 by WebAdmin The new Coventry International will take place from Sunday 26th October to Friday 31st October 2025 at the Holiday Inn Coventry M6,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -674,28 +698,12 @@ news_feed (
          "title" : "Which is chess' most important format? Frequent switching raises questions"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123276752.cms\" />Rohith Krishna S has become India's 89th Grandmaster, achieving his final GM norm at the Almaty Masters Qonaev Cup in Kazakhstan. The 20-year-old's victory over Artur Davtyan secured the title, pushing him past the 2500 Elo rating. This milestone follows Divya Deshmukh's recent Grandmaster title, highlighting India's growing presence in the chess world.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-rohith-krishna-s-secures-third-and-final-gm-norm-becomes-indias-89th-grandmaster/articleshow/123276752.cms",
-         "pubDate" : "Wed, 13 Aug 2025 09:34:39",
-         "title" : "Rohith Krishna S becomes India's 89th Grandmaster; secures third GM norm at Almaty Masters"
-      },
-      {
          "description" : "On behalf of All India Chess Federation , All J &#38; K Chess Association is organizing Senior National Arbiters Seminar &#38; Exam on 06 &#38; 07 September",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-in-jammu-on-06-07-september-2025/",
          "pubDate" : "Wed, 13 Aug 2025 08:37:46",
          "title" : "Senior National Arbiter Seminar & Examination in Jammu on 06 & 07 September 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123272820.cms\" />Vincent Keymer maintained his lead at the Chennai Grand Masters after a draw against Arjun Erigaisi. Keymer, with 4.5 points, is closely followed by Arjun and Awonder Liang, both at 3.5 points. Awonder also crossed the 2700 rating mark. Anish Giri and Vidit Gujrathi played a 109-move draw in another intense match.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-arjun-erigaisi-battles-back-to-hold-vincent-keymer-in-tense-draw/articleshow/123272820.cms",
-         "pubDate" : "Wed, 13 Aug 2025 05:38:53",
-         "title" : "Chennai GM 2025: Arjun battles back to hold Keymer in tense draw"
       },
       {
          "description" : "This week's puzzles continue a series on the 2025 FIDE Women's World Cup (coverage here), with WGM Sabina Foisor bringing us some tactical highlights from the games and variations that kept us riveted throughout July. Check out more of her puzzles in ourTactics Tuesday series, as well. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45884604/fide-chess-rankings-august-divya-deshmukh-reaches-career-high-rank-15?device=featurephone",
          "pubDate" : "Sat, 2 Aug 2025 08:55:00",
          "title" : "FIDE Chess rankings for August: Divya Deshmukh reaches career-high rank of 15"
-      },
-      {
-         "description" : "You look around in the chess world these days, you will find a young Indian competing for the top honours.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45883892/global-chess-now-era-vishys-children?device=featurephone",
-         "pubDate" : "Sat, 2 Aug 2025 06:08:00",
-         "title" : "Global chess is now in the era of Vishy's children"
       }
    ]
 }
