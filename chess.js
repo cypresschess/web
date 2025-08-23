@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-5",
-         "pubDate" : "Fri, 22 Aug 2025 16:20:19",
+         "pubDate" : "Fri, 22 Aug 2025 16:20:00",
          "title" : "Caruana Leads After 5 Draws Before Rest Day"
       },
       {
