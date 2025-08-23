@@ -18,6 +18,14 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Deep Blue vs. Kasparov: The Alapin"
       },
       {
+         "description" : "A powerful performance by GM Daniel Naroditsky in Saturday&#39;s Bullet Brawl saw the 29-year-old join GM Hikaru Nakamura as the only player to win 30 titles in Chess.com&#39;s weekly titled arena. In a field brimming with elite bullet chess exponents, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-aug-23-2025",
+         "pubDate" : "Sat, 23 Aug 2025 15:19:00",
+         "title" : "Naroditsky Thwarts Tang, Maghsoodloo To Win 30th Title"
+      },
+      {
          "description" : "The fifth round of the Sinquefield Cup ended with all five games drawn, though several encounters carried plenty of tension. Fabiano Caruana maintained his lead after a balanced game with Wesley So, reaching the halfway point on 3&frac12; points. Jan-Krzysztof Duda came closest to victory, missing a brilliant tactic that would have likely given him the win against world champion Gukesh Dommaraju. The players now get a rest day before the action continues with round six on Sunday. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -704,14 +712,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-saint-louis-rapid-and-blitz-day-3",
          "pubDate" : "Wed, 13 Aug 2025 23:15:00",
          "title" : "Caruana Leads, Misses Out On Record After Loss Vs. Gukesh"
-      },
-      {
-         "description" : "GM Ju Wenjun&#39;s undefeated match record in the Women&#39;s Speed Chess Championship faced its hardest challenge yet as she needed tiebreaks to overcome GM Bibisara Assaubayeva by a score of 10.5-8.5. In the second match of the day, GM Kateryna Lagno do...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ju-lagno-advance-to-wscc-semifinals",
-         "pubDate" : "Wed, 13 Aug 2025 18:33:00",
-         "title" : "Ju and Lagno Advance To WSCC Semifinals"
       },
       {
          "description" : "Last Updated on 13th August 2025 by WebAdmin The new Coventry International will take place from Sunday 26th October to Friday 31st October 2025 at the Holiday Inn Coventry M6,...",
