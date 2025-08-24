@@ -944,14 +944,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2026-british-championships-venue-announcement/",
          "pubDate" : "Sun, 03 Aug 2025 14:00:26",
          "title" : "2026 British Championships Venue Announcement"
-      },
-      {
-         "description" : "The 24th European Youth Rapid and Blitz Chess Championship are set to commence in Thessaloniki, Greece, taking place from 4-8 August at the *****Porto Palace Hotel. The event gathers more than 450 players coming from 36 European federations who will compete over six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. The first event on the schedule will be the European Youth Rapid Chess Championship 2025 which will be played from 5-6 August, in []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-rapid-blitz-chess-championship-2025-starts-in-greece/",
-         "pubDate" : "Sun, 03 Aug 2025 07:39:46",
-         "title" : "European Youth Rapid & Blitz Chess Championship 2025 starts in Greece"
       }
    ]
 }
