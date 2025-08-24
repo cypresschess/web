@@ -936,14 +936,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45907388/arjun-erigaisi-anish-giri-top-players-looking-get-classical-groove-chennai-grand-masters?device=featurephone",
          "pubDate" : "Tue, 5 Aug 2025 11:36:00",
          "title" : "Arjun Erigaisi, Anish Giri among top players looking to get into Classical groove at Chennai Grand Masters"
-      },
-      {
-         "description" : "Last Updated on 3rd August 2025 by WebAdmin Coventry will be transformed into a city of chess next summer as the University of Warwick hosts the 2026 British Chess Championships....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2026-british-championships-venue-announcement/",
-         "pubDate" : "Sun, 03 Aug 2025 14:00:26",
-         "title" : "2026 British Championships Venue Announcement"
       }
    ]
 }
