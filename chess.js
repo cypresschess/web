@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-6/\">POSTGAME ROUND 6: Fabiano Leads With Half a Point! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-6/",
+         "pubDate" : "Sun, 24 Aug 2025 23:25:21",
+         "title" : "POSTGAME ROUND 6: Fabiano Leads With Half a Point! | #SinquefieldCup"
+      },
+      {
+         "description" : "EU Youth Chess Championship 2025 is underway. The level of the event is very good in category U8 is leading Lev Jevglevski (EST, 5 points out of 5 rounds!), in U10 with also 5 points Simon Perouin (FRA), in U12 Alexandru-Daniel Pasca (ROU, 4,5 points) and in U14 FM Vlad Petroff (ROU, 4 points). Since beautiful and combative games are seen, the organizers award best games in each category with prize every day. After the first five rounds Wojciech Szlendak []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/eu-youth-chess-championship-2025-round-5-report/",
+         "pubDate" : "Sun, 24 Aug 2025 21:04:35",
+         "title" : "EU Youth Chess Championship 2025 - Round 5 report"
+      },
+      {
          "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,12 +98,12 @@ news_feed (
          "title" : "Gukesh under fire! Chess legend Kasparov: 'Hardly call him the strongest'"
       },
       {
-         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-5/\">POSTGAME ROUND 5 | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-5/\">POSTGAME ROUND 5: Five Draws, But All Interesting | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-5/",
          "pubDate" : "Fri, 22 Aug 2025 22:01:51",
-         "title" : "POSTGAME ROUND 5 | #SinquefieldCup"
+         "title" : "POSTGAME ROUND 5: Five Draws, But All Interesting | #SinquefieldCup"
       },
       {
          "description" : "GM Fabiano Caruana continues to lead the 2025 Sinquefield Cup after, for the first time this year, a round of all draws. GM Jan-Krzysztof Duda came closest to winning against World Champion Gukesh Dommaraju, finding a brilliant line but missing th...",
@@ -672,14 +688,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/girls-over-gms-2-break-yips-record-one-weekend",
          "pubDate" : "Thu, 14 Aug 2025 00:00:00",
          "title" : "Girls over GMs: 2 Break Yip's Record in One Weekend"
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/stl-rb-2025-postgame-day-3/\">POSTGAME DAY 3 | #STLRapidBlitz</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/stl-rb-2025-postgame-day-3/",
-         "pubDate" : "Wed, 13 Aug 2025 23:16:24",
-         "title" : "POSTGAME DAY 3 | #STLRapidBlitz"
       },
       {
          "description" : "Last Updated on 13th August 2025 by WebAdmin The new Coventry International will take place from Sunday 26th October to Friday 31st October 2025 at the Holiday Inn Coventry M6,...",
