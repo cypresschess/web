@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Use ChessBase 18 for training purposes: with smart use of the database functions and the training tool, you can quickly put together excellent training material. There's no need anymore to pore over books, copy diagrams, or scan pages. In this second part of the tutorial, you'll learn how easy it is to prepare your material in a didactic way and turn it into exercises. This saves you valuable time that you can use for your own training or for your students.",
+         "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-28-creating-effective-training-material-part-2",
-         "pubDate" : "Sun, 24 Aug 2025 07:00:00",
-         "title" : "ChessBase 18 - Tips for beginners, part 28: Creating Effective Training Material (Part 2)"
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-live",
+         "pubDate" : "Sun, 24 Aug 2025 18:50:00",
+         "title" : "Sinquefield Cup - Live!"
       },
       {
          "description" : "GM Alexander Grischuk displayed his famed blitz credentials, this time combining them with Freestyle chess abilities, winning the Freestyle Friday on August 22. He started with an amazing eight victories in the first eight rounds to capture the so...",
@@ -18,36 +18,12 @@ news_feed (
          "title" : "Blitz Specialist Grischuk Triumphs, Nakamura Plays Masterpiece"
       },
       {
-         "description" : "On 8 August, Praggnanandhaa Rameshbabu gave a simultaneous exhibition at the IMC office in Mumbai. His mother, Nagalakshmi, was also present. Amruta Mokal seized the moment to speak with her, and what followed was a special interview where Nagalakshmi opened up about the journey of raising India's golden siblings of chess, Praggnanandhaa and Vaishali. She revealed the amount of planning and support that goes into nurturing world-class talents. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pragg-vaishali-mother-interview-2025",
-         "pubDate" : "Sat, 23 Aug 2025 18:40:00",
-         "title" : "The journey of Praggnanandhaa and Vaishali through their mother's eyes"
-      },
-      {
-         "description" : "Svitlana's newest course is here: Silence the Sicilian - Win with the Alapin Variation (2.c3)! The Canadian WIM offers a first look at what you can expect from her lessons. In addition, she takes us through the famous 1996 clash between Deep Blue and Garry Kasparov, where the computer claimed victory with the very same Alapin Variation.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-deep-blue-vs-kasparov-the-alapin",
-         "pubDate" : "Sat, 23 Aug 2025 16:00:00",
-         "title" : "Svitlana's Smart Moves - Deep Blue vs. Kasparov: The Alapin"
-      },
-      {
          "description" : "A powerful performance by GM Daniel Naroditsky in Saturday&#39;s Bullet Brawl saw the 29-year-old join GM Hikaru Nakamura as the only player to win 30 titles in Chess.com&#39;s weekly titled arena. In a field brimming with elite bullet chess exponents, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-aug-23-2025",
          "pubDate" : "Sat, 23 Aug 2025 15:19:00",
          "title" : "Naroditsky Thwarts Tang, Maghsoodloo To Win 30th Title"
-      },
-      {
-         "description" : "The fifth round of the Sinquefield Cup ended with all five games drawn, though several encounters carried plenty of tension. Fabiano Caruana maintained his lead after a balanced game with Wesley So, reaching the halfway point on 3&frac12; points. Jan-Krzysztof Duda came closest to victory, missing a brilliant tactic that would have likely given him the win against world champion Gukesh Dommaraju. The players now get a rest day before the action continues with round six on Sunday. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-5",
-         "pubDate" : "Sat, 23 Aug 2025 14:30:00",
-         "title" : "Sinquefield Cup: Five draws, Caruana remains sole leader"
       },
       {
          "description" : " All of the games finished in a draw in the fifth round of the Sinquefield Cup This was the round heading into the only rest day. Levon Aronian and Alireza Firouzja drew a very sharp French but it seems it was all preparation from both players, Gukesh and Jan-Krzysztof Duda drew a fluctuating struggle where Duda in missed a clear win. Sam Sevian vs Nodirbek Abdusattorov, MVL vs Praggnanandhaa and Fabiano Caruana vs Wesley So were all well played draws. Leaders Caruana 3pts, Praggnanandhaa and Aronian 2.5 pts. Rest Day Saturday. Round 6 Pairings Sunday 24th August 2025: Abdusattorov-MVL, Gukesh-Firouzja, Praggnanandhaa-Duda, Sevian-Caruana, Aronian-So. ",
@@ -82,14 +58,6 @@ news_feed (
          "title" : "Revised list : AICF Refresher Course 2025-26"
       },
       {
-         "description" : "In the late 1980s, a company was founded in Hamburg that created a revolutionary product for the chess world: a chess database program for personal computers, destined to change the game forever. As one of the very early ChessBase users, I would like to share the story of its development from my own perspective.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-a-look-back-at-the-early-days",
-         "pubDate" : "Sat, 23 Aug 2025 07:00:00",
-         "title" : "ChessBase - A Look Back at the Early Days"
-      },
-      {
          "description" : "It was a Golden beginning of the Indian Junior Chess Team here in FIDE World Youth U-16 Chess Olympiad at Barranquilla, Colombia which started from",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -112,14 +80,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-under-fire-again-chess-legend-garry-kasparov-you-can-hardly-call-him-the-strongest-player-in-the-world/articleshow/123464822.cms",
          "pubDate" : "Sat, 23 Aug 2025 02:51:24",
          "title" : "Gukesh under fire! Chess legend Kasparov: 'Hardly call him the strongest'"
-      },
-      {
-         "description" : "The Abu Dhabi Masters, the main event of the 31st Abu Dhabi International Chess Festival, is currently under way in the capital of the United Arab Emirates. Bringing together a strong international field, the nine-round Swiss event is played at classical time control with a prize fund of 55,000 USD. With two rounds remaining, China's Zeng Chongsheng leads the standings, pursued closely by a group featuring a few higher-seeded contenders. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/abu-dhabi-masters-2025-r7",
-         "pubDate" : "Sat, 23 Aug 2025 00:15:00",
-         "title" : "Abu Dhabi Masters: Zeng leads, Naiditsch, Lazavik and Socko among closest chasers"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-5/\">POSTGAME ROUND 5 | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
