@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Alexander Grischuk displayed his famed blitz credentials, this time combining them with Freestyle chess abilities, winning the Freestyle Friday on August 22. He started with an amazing eight victories in the first eight rounds to capture the so...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/grischuk-wins-freestyle-friday-august-22-2015",
+         "pubDate" : "Sat, 23 Aug 2025 18:53:46",
+         "title" : "Blitz Specialist Grischuk Triumphs, Nakamura Plays Masterpiece"
+      },
+      {
          "description" : "On 8 August, Praggnanandhaa Rameshbabu gave a simultaneous exhibition at the IMC office in Mumbai. His mother, Nagalakshmi, was also present. Amruta Mokal seized the moment to speak with her, and what followed was a special interview where Nagalakshmi opened up about the journey of raising India's golden siblings of chess, Praggnanandhaa and Vaishali. She revealed the amount of planning and support that goes into nurturing world-class talents. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -704,14 +712,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/stl-rb-2025-postgame-day-3/",
          "pubDate" : "Wed, 13 Aug 2025 23:16:24",
          "title" : "POSTGAME DAY 3 | #STLRapidBlitz"
-      },
-      {
-         "description" : "GM Fabiano Caruana nearly set a new record in the Grand Chess Tour with a score of 16/18, but nerves got the better of him and he collapsed from a winning position against World Champion Gukesh Dommaraju. Despite that loss, he continues to lead th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-saint-louis-rapid-and-blitz-day-3",
-         "pubDate" : "Wed, 13 Aug 2025 23:15:00",
-         "title" : "Caruana Leads, Misses Out On Record After Loss Vs. Gukesh"
       },
       {
          "description" : "Last Updated on 13th August 2025 by WebAdmin The new Coventry International will take place from Sunday 26th October to Friday 31st October 2025 at the Holiday Inn Coventry M6,...",
