@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Use ChessBase 18 for training purposes: with smart use of the database functions and the training tool, you can quickly put together excellent training material. There's no need anymore to pore over books, copy diagrams, or scan pages. In this second part of the tutorial, you'll learn how easy it is to prepare your material in a didactic way and turn it into exercises. This saves you valuable time that you can use for your own training or for your students.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-28-creating-effective-training-material-part-2",
+         "pubDate" : "Sun, 24 Aug 2025 07:00:00",
+         "title" : "ChessBase 18 - Tips for beginners, part 28: Creating Effective Training Material (Part 2)"
+      },
+      {
          "description" : "GM Alexander Grischuk displayed his famed blitz credentials, this time combining them with Freestyle chess abilities, winning the Freestyle Friday on August 22. He started with an amazing eight victories in the first eight rounds to capture the so...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
