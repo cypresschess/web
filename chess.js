@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-live",
+         "pubDate" : "Mon, 25 Aug 2025 18:50:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
          "description" : "This week, from 25 to 31 August, there is another special offer in our Summer Special: ChessBase 18 and the Opening Encyclopedia 2025 for only 249.90€ - instead of 299.90€! Be well prepared for every tournament and the new season!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,6 +80,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-no-jeans-divya-deshmukh-evokes-magnus-carlsens-viral-dress-code-controversy-watch/articleshow/123493643.cms",
          "pubDate" : "Mon, 25 Aug 2025 04:25:49",
          "title" : "'No jeans': Divya Deshmukh evokes Magnus Carlsen's viral controversy - Watch"
+      },
+      {
+         "description" : "Editor's note: To the best of my knowledge, no games were broadcast for this tournament, and there are no official photos of the awards ceremony. Parents are encouraged to send photos of any medalists to Click here to show email address, and I will update this page accordingly.***88 American players traveled to Kingston, Ontario, for the 2025 North American Youth Chess Championships, held August 17 through 23 at Queen's University.Across 12 sections, Americans brought home 29 medals, including 8 golds. Players competed in one of six age categories (Under-8, Under-10, Under-12, Under-14, Under-16, and Under-18) in either an open or girls section.These statistics do not include the blitz tourn",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/americans-bring-home-29-medals-2025-north-american-youth",
+         "pubDate" : "Mon, 25 Aug 2025 00:00:00",
+         "title" : "Americans Bring Home 29 Medals From 2025 North American Youth"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-6/\">POSTGAME ROUND 6: Fabiano Leads With Half a Point! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -800,14 +816,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/5th-ipca-european-individual-chess-championship/",
          "pubDate" : "Mon, 11 Aug 2025 07:18:48",
          "title" : "5th IPCA European Individual Chess Championship"
-      },
-      {
-         "description" : "What are your National Chess Day plans? This year's festivities, set for Saturday, October 11, are exactly two months away. This is a great time to find a tournament in your area or even consider running one yourself! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> In order to encourage affiliates to host events, US Chess is offering free email blasts and waived rating fees for tournaments hosted on this day.On Chess Life Online, we plan on sharing some of the events planned for National Chess Day that have caught our eye. Feel free to email Click here to show email address with information about your event if you would be interested in possibly being featured in a futu",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/national-chess-day-preview-y-not-chess-three-simultaneous-scholastics",
-         "pubDate" : "Mon, 11 Aug 2025 00:00:00",
-         "title" : "National Chess Day Preview: Y Not Chess Three Simultaneous Scholastics"
       },
       {
          "description" : " The 111th British Chess Championships took place in Liverpool Saturday 2nd to Sunday 10th August 2025. Top seeds Nikita Vitiugov, Michael Adams, Gawain Maroroa Jones, Stuart C Conquest Ameet K Ghasi etc. Michael Adams won his 9th title after beating Stuart Conquest (who had to beat Peter Roberson first) in a three way tie-break match. ",
