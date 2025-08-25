@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In Saint Louis, the sixth round of the Sinquefield Cup produced another full set of draws, though the results concealed the drama on several boards. Maxime Vachier-Lagrave once more failed to convert a winning position, this time against Nodirbek Abdusattorov, while Alireza Firouzja also missed chances to defeat world champion Gukesh Dommaraju, who defended tenaciously. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-6",
+         "pubDate" : "Mon, 25 Aug 2025 08:20:00",
+         "title" : "Sinquefield Cup: Abdusattorov and Gukesh escape with draws"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123495601.cms\" />Karthikeyan Murali, the 26-year-old Grandmaster from Thanjavur, holds a unique place in Indian chess history. In 2023, at the Qatar Masters, he became the only Indian to beat Magnus Carlsen with the black pieces during the Norwegian's 14-year reign as World No. 1. A two-time national champion, Murali's accidental chess journey now carries one unforgettable milestone.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-not-gukesh-anand-meet-the-only-indian-to-beat-magnus-carlsen-in-classical-with-black-in-his-14-years-as-world-no-1/articleshow/123495601.cms",
+         "pubDate" : "Mon, 25 Aug 2025 06:04:17",
+         "title" : "Exclusive | Not Gukesh, Anand! Meet the only Indian to beat Carlsen in classical with black in his 14 years as No. 1"
+      },
+      {
+         "description" : "The Rubinstein Memorial in Polanica-Zdr&oacute;j, a spa town located in south-western Poland, ended with Nodirbek Yakubboev securing first place after a final-round draw against Igor Kovalenko, who finished with the unusual record of nine draws. Radoslaw Wojtaszek overtook David Navara on the last day to claim second place, while European champion Matthias Bluebaum took third. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rubinstein-chess-festival-2025-r9",
+         "pubDate" : "Mon, 25 Aug 2025 05:50:00",
+         "title" : "Yakubboev wins Rubinstein Memorial, Wojtaszek climbs to sole second place"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123493643.cms\" />India's Divya Deshmukh sparked laughs with her \"No jeans!\" rule-change joke, recalling Magnus Carlsen's 2024 dress code controversy. Carlsen famously refused to change his Corneliani jeans, was fined, and later auctioned them for $36,100. Proceeds went to Big Brothers Big Sisters of America, turning a quirky chess moment into a powerful charitable milestone.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-no-jeans-divya-deshmukh-evokes-magnus-carlsens-viral-dress-code-controversy-watch/articleshow/123493643.cms",
+         "pubDate" : "Mon, 25 Aug 2025 04:25:49",
+         "title" : "'No jeans': Divya Deshmukh evokes Magnus Carlsen's viral controversy - Watch"
+      },
+      {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-6/\">POSTGAME ROUND 6: Fabiano Leads With Half a Point! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -16,14 +48,6 @@ news_feed (
          "link" : "https://www.europechess.org/eu-youth-chess-championship-2025-round-5-report/",
          "pubDate" : "Sun, 24 Aug 2025 21:04:35",
          "title" : "EU Youth Chess Championship 2025 - Round 5 report"
-      },
-      {
-         "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-live",
-         "pubDate" : "Sun, 24 Aug 2025 18:50:00",
-         "title" : "Sinquefield Cup - Live!"
       },
       {
          "description" : "GMs Maxime Vachier-Lagrave and Alireza Firouzja looked to be on the verge of winning their games, respectively, against GMs Nodirbek Abdusattorov and World Champion Gukesh Dommaraju in round six of the 2025 Sinquefield Cup, but both ended in draws...",
@@ -664,22 +688,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-why-would-beef-be-spicy-dutch-no-1-anish-giri-on-indian-food/articleshow/123299765.cms",
          "pubDate" : "Thu, 14 Aug 2025 08:56:50",
          "title" : "Chess | 'Why would beef be spicy?': Dutch No. 1 Anish Giri on Indian food"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123299140.cms\" />D Gukesh, India's world champion, showcased resilience at the St. Louis Rapid & Blitz, recovering from an initial loss to finish fourth in the rapid section. Despite a shaky start, Gukesh secured crucial victories against Wesley So and Fabiano Caruana.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/st-louis-rapid-and-blitz-d-gukesh-recovers-from-early-losses-to-claim-fourth-spot/articleshow/123299140.cms",
-         "pubDate" : "Thu, 14 Aug 2025 07:54:30",
-         "title" : "St. Louis Rapid and Blitz: D Gukesh recovers from early losses to claim fourth spot"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123297305.cms\" />Vincent Keymer dominates in Chennai. He secures the World No. 10 spot. Keymer wins against Awonder Liang. He extends his lead. Arjun Erigaisi and Karthikeyan Murali are in second place. Anish Giri draws all seven games. He faces criticism. Giri defends his drawing record. He recalls a past event. He learned to appreciate draws.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-vincent-keymer-closes-in-on-title-with-win/articleshow/123297305.cms",
-         "pubDate" : "Thu, 14 Aug 2025 06:36:21",
-         "title" : "Chennai Grand Masters 2025: Vincent Keymer closes in on title with win"
       },
       {
          "description" : "Update, August 18, 2025: This article has been updated to reflect the circumstances of GM Bryan Smith's record-breaking loss. An earlier version of the annotations for this article incorrectly suggested Smith was sitting at the board when he lost on time.Since then, Smith has reached out to explain that he, in fact, was unaware of the time control for the event, and was away from the board when his flag fell. He has requested this article be updated to reflect this fact, as the original article, based on a good faith reporting of the game with the information that was available at the time, stated that his loss was a result of time trouble. His account of the circumstances surrounding the lo",
