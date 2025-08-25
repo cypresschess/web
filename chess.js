@@ -26,6 +26,14 @@ news_feed (
          "title" : "Sinquefield Cup - Live!"
       },
       {
+         "description" : "GMs Maxime Vachier-Lagrave and Alireza Firouzja looked to be on the verge of winning their games, respectively, against GMs Nodirbek Abdusattorov and World Champion Gukesh Dommaraju in round six of the 2025 Sinquefield Cup, but both ended in draws...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-6",
+         "pubDate" : "Sun, 24 Aug 2025 16:53:00",
+         "title" : "Firouzja, Vachier-Lagrave Miss Wins On 2nd Day Of Draws"
+      },
+      {
          "description" : "GM Alexander Grischuk displayed his famed blitz credentials, this time combining them with Freestyle chess abilities, winning the Freestyle Friday on August 22. He started with an amazing eight victories in the first eight rounds to capture the so...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -106,7 +114,7 @@ news_feed (
          "title" : "POSTGAME ROUND 5: Five Draws, But All Interesting | #SinquefieldCup"
       },
       {
-         "description" : "GM Fabiano Caruana continues to lead the 2025 Sinquefield Cup after, for the first time this year, a round of all draws. GM Jan-Krzysztof Duda came closest to winning against World Champion Gukesh Dommaraju, finding a brilliant line but missing th...",
+         "description" : "GM Fabiano Caruana continues to lead the 2025 Sinquefield Cup after, for the first time this tournament, a round of all draws. GM Jan-Krzysztof Duda came closest to winning against World Champion Gukesh Dommaraju by finding a brilliant line but mi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-5",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45974136/vincent-keymer-takes-aim-d-gukesh-chess-crown-2025-chennai-grand-masters-win?device=featurephone",
          "pubDate" : "Thu, 14 Aug 2025 11:50:00",
          "title" : "Keymer takes aim at Gukesh's crown with Chennai Grand Masters win"
-      },
-      {
-         "description" : "GM-elect Divya Deshmukh dominated her first match in the Women&#39;s Speed Chess Championship and got off to a great start against GM Hou Yifan in her quarterfinal match on Wednesday. However, Hou fought back and the two played the closest WSCC match ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hou-wins-thriller-to-advance-to-wscc-semifinals",
-         "pubDate" : "Thu, 14 Aug 2025 11:28:58",
-         "title" : "Hou Wins Thriller To Advance To WSCC Semifinals"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123299765.cms\" />Anish Giri, participating in the Chennai Grand Masters 2025, shared his experiences with Indian cuisine. While acknowledging international options, he humorously noted the unexpected spiciness in dishes like pizza and burgers, despite knowing traditional Indian dishes are spicy. Giri currently stands in joint-fourth place, while Vincent Keymer leads the tournament.",
