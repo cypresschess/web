@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, from 25 to 31 August, there is another special offer in our Summer Special: ChessBase 18 and the Opening Encyclopedia 2025 for only 249.90€ - instead of 299.90€! Be well prepared for every tournament and the new season!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/summer-special-chessbase-18-opening-encyclopedia-2025",
+         "pubDate" : "Mon, 25 Aug 2025 13:18:13",
+         "title" : "Summer Special: ChessBase 18 & Opening Encyclopedia 2025"
+      },
+      {
+         "description" : "Emil Joseph Diemer was a notable German chess player and author, best remembered for his fervent advocacy of the Blackmar-Diemer Gambit: 1.d4 d5 2.e4 dxe4 3.Nc3. Today the gambit is not common in elite play, but is well worth trying in inconsequential games. Today's article tells about the turmoils in the life of the initiator of the gambit.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-complicated-life-of-emil-diemer",
+         "pubDate" : "Mon, 25 Aug 2025 13:00:00",
+         "title" : "The complicated life of Emil Diemer"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123500765.cms\" />Indian Grandmaster R Praggnanandhaa drew with Jan-Krzysztof Duda in the Sinquefield Cup, securing a joint second place with Levon Aronian. Fabiano Caruana maintained his lead with 4 points. D Gukesh managed a draw against Alireza Firouzja after a tense game, while other matches also ended in draws, marking the second consecutive day of drawn games.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-r-praggnanandhaa-still-joint-second-on-another-day-of-draws/articleshow/123500765.cms",
+         "pubDate" : "Mon, 25 Aug 2025 10:04:52",
+         "title" : "Sinquefield Cup: Praggnanandhaa still joint second on another day of draws"
+      },
+      {
+         "description" : " The sixth round of the Sinquefield Cup was a lively one but in the end all the games were drawn leaving Caruana in the lead on 4/6. MVL will be upset how he let go several winning opportunities against Nodirbek Abdusattorov. It was a very strange game all around, MVL was completely winning, let go most of his advantage, was offered a final pretty straight forward winning chance but instead went into a king and pawn endgame that turned out to be drawn. Gukesh was a little bit better against Alireza Firouzja for a while but 21.Ned5? was inaccurate as was 25.Qd3. 30...Kh8?! (30...Qxe6) allowed Firouzja to come back into the game and Gukesh held a tricky endgame without drama. Fabiano Caruana w",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/five-more-draws-in-sinquefield-cup-round-6-but-mvl-missed-a-big-opportunity",
+         "pubDate" : "Mon, 25 Aug 2025 09:13:00",
+         "title" : "Five more draws in Sinquefield Cup Round 6 but MVL missed a big opportunity - 6"
+      },
+      {
+         "description" : "Please find the certificates here SL No Name 1 Ajmal P A 2 Anuraj Mohan Raskatla 3 Rathi Dhanashree 4 Dhokale Devendra 5 Tamane Madhur",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-sna-seminar-exam-held-in-ahmednagar-ahilya-nagar-maharashtra-on-12th-13th-july-2025/",
+         "pubDate" : "Mon, 25 Aug 2025 08:28:31",
+         "title" : "Certificate of SNA Seminar & Exam held in Ahmednagar (Ahilya Nagar), Maharashtra on 12th & 13th July, 2025."
+      },
+      {
          "description" : "In Saint Louis, the sixth round of the Sinquefield Cup produced another full set of draws, though the results concealed the drama on several boards. Maxime Vachier-Lagrave once more failed to convert a winning position, this time against Nodirbek Abdusattorov, while Alireza Firouzja also missed chances to defeat world champion Gukesh Dommaraju, who defended tenaciously. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -682,14 +722,6 @@ news_feed (
          "title" : "Keymer takes aim at Gukesh's crown with Chennai Grand Masters win"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123299765.cms\" />Anish Giri, participating in the Chennai Grand Masters 2025, shared his experiences with Indian cuisine. While acknowledging international options, he humorously noted the unexpected spiciness in dishes like pizza and burgers, despite knowing traditional Indian dishes are spicy. Giri currently stands in joint-fourth place, while Vincent Keymer leads the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-why-would-beef-be-spicy-dutch-no-1-anish-giri-on-indian-food/articleshow/123299765.cms",
-         "pubDate" : "Thu, 14 Aug 2025 08:56:50",
-         "title" : "Chess | 'Why would beef be spicy?': Dutch No. 1 Anish Giri on Indian food"
-      },
-      {
          "description" : "Update, August 18, 2025: This article has been updated to reflect the circumstances of GM Bryan Smith's record-breaking loss. An earlier version of the annotations for this article incorrectly suggested Smith was sitting at the board when he lost on time.Since then, Smith has reached out to explain that he, in fact, was unaware of the time control for the event, and was away from the board when his flag fell. He has requested this article be updated to reflect this fact, as the original article, based on a good faith reporting of the game with the information that was available at the time, stated that his loss was a result of time trouble. His account of the circumstances surrounding the lo",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -888,14 +920,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-awards-2025/",
          "pubDate" : "Wed, 06 Aug 2025 11:33:48",
          "title" : "ECF Awards 2025"
-      },
-      {
-         "description" : "The Air Force Sports Control Board (AFSCB) is inviting applications from outstanding sportsmen to join the Indian Air Force as Agniveervayu (Sports). For the first",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/recruitment-opportunity-for-outstanding-sportsmen-indian-air-force-agniveervayu-sports/",
-         "pubDate" : "Wed, 06 Aug 2025 05:44:38",
-         "title" : "Recruitment Opportunity for Outstanding Sportsmen - Indian Air Force (Agniveervayu - Sports)"
       },
       {
          "description" : "The 24th European Youth Rapid and Blitz Chess Championship commenced yesterday in Thessaloniki, Greece, with the participation of more than 450 players from 36 European federations. The event started with the European Youth Rapid Chess Championship 2025, which is played over six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. ECU Secretary General Mr. Theodoros Tsorbatzoglou addressed the players and guests at the Opening ceremony, and then played the first ceremonial move with the []",
