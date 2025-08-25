@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-7/\">POSTGAME ROUND 7: Pragg Wins Outstanding Battle With Alireza | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-7/",
+         "pubDate" : "Mon, 25 Aug 2025 22:53:57",
+         "title" : "POSTGAME ROUND 7: Pragg Wins Outstanding Battle With Alireza | #SinquefieldCup"
+      },
+      {
          "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -688,14 +696,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-vincent-keymer-wins-title-with-a-round-to-spare/articleshow/123317557.cms",
          "pubDate" : "Fri, 15 Aug 2025 05:25:37",
          "title" : "Chennai Grand Masters 2025: Vincent Keymer wins title with a round to spare"
-      },
-      {
-         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-day-4-stlrapidblitz/\">POSTGAME DAY 4 | #STLRapidBlitz</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-day-4-stlrapidblitz/",
-         "pubDate" : "Thu, 14 Aug 2025 22:46:29",
-         "title" : "POSTGAME DAY 4 | #STLRapidBlitz"
       },
       {
          "description" : "The tug of war continues between GM Levon Aronian and GM Fabiano Caruana after day four in the 2025 Saint Louis Rapid &#38;amp; Blitz. After an underwhelming first day of blitz, Caruana has sunk to second place and Aronian has taken his place in the l...",
