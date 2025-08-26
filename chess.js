@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find here few photos",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-arbiter-seminar-2025-in-karaikudi-from-22-24-august-2025/",
+         "pubDate" : "Tue, 26 Aug 2025 11:04:03",
+         "title" : "Fide Arbiter Seminar 2025 in Karaikudi from 22-24 August 2025"
+      },
+      {
+         "description" : " 36 experienced chess coaches join the seminar, bringing so much energy, knowledge, and perspective to every session. The discussions were interactive. Check out here for few",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-trainers-seminar-madurai-2025-from-16-18-august-2025/",
+         "pubDate" : "Tue, 26 Aug 2025 10:56:17",
+         "title" : "FIDE Trainers Seminar - Madurai 2025 from 22-24 August 2025"
+      },
+      {
+         "description" : " The Sinquefield Cup is positioned for an exciting finish after Praggnanandhaa's win against Alireza Firouzja allowed him to catch Fabiano Caruana in the lead after seven of the nine rounds. Caruana drew against Levon Aronian and Wesley So beat the World Champion Gukesh. This means Praggnanandhaa and Caruana have 4.5/7 and Aronian and So 4/7 with Sam Sevian, MVL and Duda a further half point further back. Round 8 pairings: Abdusattorov-Firouzja, Praggnanandhaa-So, Sevian-Duda, MVL-Caruana, Gukesh-Aronian. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/praggnanandhaa-joins-caruana-in-the-lead-of-the-sinquefield-cup-after-beating-firouzja-in-round-7",
+         "pubDate" : "Tue, 26 Aug 2025 09:04:00",
+         "title" : "Praggnanandhaa joins Caruana in the lead of the Sinquefield Cup after beating Firouzja in Round 7 - 7"
+      },
+      {
+         "description" : "Last Updated on 26th August 2025 by WebAdmin The Prison I was delighted to re-visit this prison to further support their chess endeavours. This time I invited along Yury Krylov,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/visit-to-hmp-bullingdon-carl-portman/",
+         "pubDate" : "Tue, 26 Aug 2025 08:43:31",
+         "title" : "Visit to HMP Bullingdon - Carl Portman"
+      },
+      {
          "description" : "The French Chess Championships concluded in Vichy, with Marc'Andria Maurizzi and Yosha Iglesias crowned as the new national champions. Maurizzi defeated Laurent Fressinet in rapid tiebreaks, while Etienne Bacrot claimed third place ahead of Sebastien Maze. In the women's final, Iglesias overcame Mitra Hejazipour, with Anastasia Savina securing bronze after a tiebreak win against Deimante Daulyte-Cornette. The event closed a ten-day festival featuring players of all levels. | Photos: Nathalie Daubry / French Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -882,14 +914,6 @@ news_feed (
          "title" : "Harika Dronavalli plays Chennai Grand Masters with 2-year-old daughter: 'Happy she could witness my life in a way'"
       },
       {
-         "description" : "The World Amateur Chess Championship will be held at Vrnjacka Banja, Serbia from 4th to 14th November, 2025. The detailed regulations you can find at&#160;FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-amateur-chess-championships-2025-in-vrnjacka-banja-serbia-from-4th-to-14th-november-2025/",
-         "pubDate" : "Fri, 08 Aug 2025 08:16:53",
-         "title" : "FIDE World Amateur Chess Championships - 2025 in Vrnjacka Banja, Serbia from 4th to 14th November, 2025"
-      },
-      {
          "description" : " World No 1 dominated every round and was determined to show chess in its best light at Saudi event Magnus Carlsen was in imperious form at last week's Esports World Cup in Riyadh, Saudi Arabia, with a virtuoso performance both on and off the board. On it, the world No 1 won the group stage, the quarter- and semi-finals, and the final, all in dominant style while seeing off the world No 2, Hikaru Nakamura, and one of the leading young contenders, Alireza Firouzja. Offboard, Carlsen exuded enthusiasm for the event, and delivered upbeat and articulate responses to interviewers. The limit of 10 minutes per player per game, without the usual per move increment, was designed for tight TV schedule",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -904,14 +928,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/gukesh-vs-duda-blitz-2025",
          "pubDate" : "Thu, 7 Aug 2025 13:12:00",
          "title" : "Gukesh vs Duda Blitz 2025 - Games and Results"
-      },
-      {
-         "description" : "Please find the live link here Masters &#160;https://live.chennaigrandmasters.com/2025/masters/ Challengers &#160;https://live.chennaigrandmasters.com/2025/challengers/",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link-chennai-grandmasters-2025/",
-         "pubDate" : "Thu, 07 Aug 2025 12:15:04",
-         "title" : "Live link Chennai Grandmasters 2025"
       },
       {
          "description" : "Last Updated on 6th August 2025 by WebAdmin This year saw 62 entries - an increase on last year - with many strong submissions, giving the Awards Committee a tough...",
