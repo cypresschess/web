@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-live",
+         "pubDate" : "Tue, 26 Aug 2025 18:50:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123532712.cms\" />Goa is set to host the FIDE World Cup from October 30 to November 27, offering three Candidates Tournament spots and a $2 million prize pool. The event features chess giants like D Gukesh, Magnus Carlsen, and R Praggnanandhaa. India boasts a strong contingent of 21 players, including Viswanathan Anand, as the World Cup returns to India after 23 years.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-2025-in-india-pm-narendra-modi-says-chess-is-gaining-popularity-among-our-youth/articleshow/123532712.cms",
+         "pubDate" : "Tue, 26 Aug 2025 18:29:58",
+         "title" : "FIDE WC in India: PM Modi says 'Chess is gaining popularity among our youth'"
+      },
+      {
          "description" : "Round seven of the Sinquefield Cup in Saint Louis brought three decisive games, the most in a single day so far. Praggnanandhaa Rameshbabu defeated Alireza Firouzja with black in a Rossolimo Sicilian, his first classical win against the French grandmaster, and joined Fabiano Caruana in the lead on 4&frac12; points. Wesley So overcame world champion Gukesh Dommaraju, while Jan-Krzysztof Duda beat Nodirbek Abdusattorov. Caruana v. Aronian and Vachier-Lagrave v. Sevian ended drawn. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -87,7 +103,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-7",
          "pubDate" : "Mon, 25 Aug 2025 21:08:00",
-         "title" : "Praggnanandhaa Catches Caruana In Lead; So, Duda Pick Up Wins"
+         "title" : "Praggnanandhaa Catches Caruana In Lead; Wesley So, Duda Pick Up Wins"
       },
       {
          "description" : "This week, from 25 to 31 August, there is another special offer in our Summer Special: ChessBase 18 and the Opening Encyclopedia 2025 for only 249.90€ - instead of 299.90€! Be well prepared for every tournament and the new season!",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-parents-sleepless-nights-coding-and-chess-how-india-got-its-89th-gm-in-rohith-krishna-s/articleshow/123321311.cms",
          "pubDate" : "Fri, 15 Aug 2025 10:58:01",
          "title" : "Exclusive | Parents' sleepless nights, coding, and chess: India gets 89th GM in Rohith"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123320454.cms\" />D Gukesh faced a challenging day at the St. Louis Rapid and Blitz, managing only one win and four draws, which caused him to slip to joint sixth place. Levon Aronian surged ahead, reclaiming the lead with an impressive blitz performance. With nine rounds remaining, Gukesh needs a strong finish to contend for the top prize in the $175,000 event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-d-gukesh-drops-to-joint-sixth-after-enduring-four-draws-at-st-louis-rapid-and-blitz/articleshow/123320454.cms",
-         "pubDate" : "Fri, 15 Aug 2025 09:57:46",
-         "title" : "D Gukesh drops to joint sixth after enduring four draws at St. Louis Rapid and Blitz"
       },
       {
          "description" : " The 53-year-old is just one short of Jonathan Penrose's record, while Bodhana Sivanandan became the youngest ever woman international master Michael Adams edged nearer the all-time record for British Championship titles last weekend when the Taunton-based grandmaster won his ninth national championship at Liverpool. Adams, who relaxes by watching cricket at Somerset's county ground, has now equalled Henry Atkins's total of nine championships from the first half of the last century, but remains one short of Jonathan Penrose's 10 crowns from the second half. Adams's first British title was in 1989 at age 17, still the youngest ever, but in the next 20 years he concentrated on the world champi",
