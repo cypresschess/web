@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round seven of the Sinquefield Cup in Saint Louis brought three decisive games, the most in a single day so far. Praggnanandhaa Rameshbabu defeated Alireza Firouzja with black in a Rossolimo Sicilian, his first classical win against the French grandmaster, and joined Fabiano Caruana in the lead on 4&frac12; points. Wesley So overcame world champion Gukesh Dommaraju, while Jan-Krzysztof Duda beat Nodirbek Abdusattorov. Caruana v. Aronian and Vachier-Lagrave v. Sevian ended drawn. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-7",
+         "pubDate" : "Tue, 26 Aug 2025 14:25:00",
+         "title" : "Sinquefield Cup: Pragg beats Firouzja, joins Caruana in the lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123526167.cms\" />Goa will host the FIDE World Cup 2025 from October 31 to November 27, featuring 206 players competing for a $2 million prize and 3 qualifying spots for 2026 Candidates Tournament. This eight-round knockout event marks a significant moment for Indian chess, following recent triumphs like D Gukesh's World Championship and team victories at the Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-its-official-goa-to-host-fide-world-cup-with-rs-17-5-cr-prize-pool/articleshow/123526167.cms",
+         "pubDate" : "Tue, 26 Aug 2025 12:39:47",
+         "title" : "It's official! Goa to host FIDE World Cup with Rs 17.5 Cr prize pool"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123524924.cms\" />Indian Grandmaster R Praggnanandhaa showcased a dominant performance, defeating Alireza Firouzja and surging to joint first place in the Sinquefield Cup alongside Fabiano Caruana with a score of 4.5. However, D Gukesh faced a setback, losing to Wesley So and dropping to the bottom standings in the standings. With three rounds remaining, the competition intensifies as Caruana and Praggnanandhaa lead, followed closely by Wesley So and Levon Aronian.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-r-praggnanandhaa-takes-joint-lead-with-fabiano-caruana-d-gukesh-drops-to-bottom-half/articleshow/123524924.cms",
+         "pubDate" : "Tue, 26 Aug 2025 11:20:39",
+         "title" : "Sinquefield Cup: Praggnanandhaa takes joint lead with Caruana; Gukesh drops to bottom half"
+      },
+      {
          "description" : "Please find here few photos",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -34,12 +58,12 @@ news_feed (
          "title" : "Visit to HMP Bullingdon - Carl Portman"
       },
       {
-         "description" : "The French Chess Championships concluded in Vichy, with Marc'Andria Maurizzi and Yosha Iglesias crowned as the new national champions. Maurizzi defeated Laurent Fressinet in rapid tiebreaks, while Etienne Bacrot claimed third place ahead of Sebastien Maze. In the women's final, Iglesias overcame Mitra Hejazipour, with Anastasia Savina securing bronze after a tiebreak win against Deimante Daulyte-Cornette. The event closed a ten-day festival featuring players of all levels. | Photos: Nathalie Daubry / French Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/french-championships-2025-finals",
-         "pubDate" : "Tue, 26 Aug 2025 06:20:00",
-         "title" : "Maurizzi and Iglesias are the 2025 French chess champions"
+         "description" : "Get ready for a brand new era of Titled Tuesday! As recently announced, this 11-year-old institution is becoming part of the Champions Chess Tour qualification cycle for the Esports World Cup (EWC). The new Titled Tuesday season kicks off on Septe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/new-titled-tuesday-format-esports-world-cup-taketaketake",
+         "pubDate" : "Tue, 26 Aug 2025 07:00:00",
+         "title" : "Major Changes To Titled Tuesday, Take Take Take Joins As Official Broadcaster"
       },
       {
          "description" : "A FIDE Arbiters' Seminar was held in Bhubaneshwar, Odisha, from the 16th to the 18th of August 2025. The seminar was organized by the All",
@@ -58,20 +82,12 @@ news_feed (
          "title" : "POSTGAME ROUND 7: Pragg Wins Outstanding Battle With Alireza | #SinquefieldCup"
       },
       {
-         "description" : "There were three decisive games in round seven of the 2025 Sinquefield Cup. GM Praggnanandhaa Rameshbabu beat GM Alireza Firouzja to join GM Fabiano Caruana in the lead on 4.5/7. GM Wesley So, in his first win of the tournament, beat World Champio...",
+         "description" : "Round seven of the 2025 Sinquefield Cup had three decisive games. GM Praggnanandhaa Rameshbabu beat GM Alireza Firouzja to join GM Fabiano Caruana in the lead on 4.5/7. GM Wesley So, in his first win of the tournament, beat World Champion Gukesh D...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-7",
          "pubDate" : "Mon, 25 Aug 2025 21:08:00",
          "title" : "Praggnanandhaa Catches Caruana In Lead; So, Duda Pick Up Wins"
-      },
-      {
-         "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-live",
-         "pubDate" : "Mon, 25 Aug 2025 18:50:00",
-         "title" : "Sinquefield Cup - Live!"
       },
       {
          "description" : "This week, from 25 to 31 August, there is another special offer in our Summer Special: ChessBase 18 and the Opening Encyclopedia 2025 for only 249.90€ - instead of 299.90€! Be well prepared for every tournament and the new season!",
@@ -104,14 +120,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-sna-seminar-exam-held-in-ahmednagar-ahilya-nagar-maharashtra-on-12th-13th-july-2025/",
          "pubDate" : "Mon, 25 Aug 2025 08:28:31",
          "title" : "Certificate of SNA Seminar & Exam held in Ahmednagar (Ahilya Nagar), Maharashtra on 12th & 13th July, 2025."
-      },
-      {
-         "description" : "In Saint Louis, the sixth round of the Sinquefield Cup produced another full set of draws, though the results concealed the drama on several boards. Maxime Vachier-Lagrave once more failed to convert a winning position, this time against Nodirbek Abdusattorov, while Alireza Firouzja also missed chances to defeat world champion Gukesh Dommaraju, who defended tenaciously. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-6",
-         "pubDate" : "Mon, 25 Aug 2025 08:20:00",
-         "title" : "Sinquefield Cup: Abdusattorov and Gukesh escape with draws"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123495601.cms\" />Karthikeyan Murali, the 26-year-old Grandmaster from Thanjavur, holds a unique place in Indian chess history. In 2023, at the Qatar Masters, he became the only Indian to beat Magnus Carlsen with the black pieces during the Norwegian's 14-year reign as World No. 1. A two-time national champion, Murali's accidental chess journey now carries one unforgettable milestone.",
@@ -730,30 +738,6 @@ news_feed (
          "title" : "Chess: Adams wins ninth British title, while 10-year-old girl breaks two world records"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123317557.cms\" />Vincent Keymer clinched the Chennai Grand Masters title, becoming the first non-Indian champion with a round to spare after a draw against Jorden van Foreest. Despite a late-game scare, Keymer secured the crucial draw needed after Arjun Erigaisi and Karthikeyan Murali's games also ended in stalemates. In the Challengers section, M Pranesh took the sole lead.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-vincent-keymer-wins-title-with-a-round-to-spare/articleshow/123317557.cms",
-         "pubDate" : "Fri, 15 Aug 2025 05:25:37",
-         "title" : "Chennai Grand Masters 2025: Vincent Keymer wins title with a round to spare"
-      },
-      {
-         "description" : "The tug of war continues between GM Levon Aronian and GM Fabiano Caruana after day four in the 2025 Saint Louis Rapid &#38;amp; Blitz. After an underwhelming first day of blitz, Caruana has sunk to second place and Aronian has taken his place in the l...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-saint-louis-rapid-and-blitz-day-4",
-         "pubDate" : "Thu, 14 Aug 2025 17:39:00",
-         "title" : "Aronian Takes Back Lead Before Final Day"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123309718.cms\" />Vincent Keymer dominated the Chennai Grand Masters 2025, securing the title with a round to spare and making history as the tournament's first sole champion. His impressive performance propelled him into the world's Top 10 on the live rating list. In the Challengers, Pranesh M leads, with a promotion to the 2026 Masters at stake.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-chess-vincent-keymer-creates-history-secures-title-with-a-round-to-spare-breaks-into-world-top-10/articleshow/123309718.cms",
-         "pubDate" : "Thu, 14 Aug 2025 17:18:04",
-         "title" : "Chennai Chess: Vincent Keymer creates history, secures title with a round to spare"
-      },
-      {
          "description" : " Fabiano Caruana almost set a record 8/9 score in the Saint Louis Rapid section of this combined rapid and blitz tournament. Caruana needed to beat World Champion Gukesh in the final round to set the new mark. The Gukesh - Caruana final round game was a wild struggle where Caruana outplayed the World Champion and obtained a winning position, but with time running short for Caruana, and the position remaining complicated, the position turned around. Gukesh, although far from accurate himself, brought home the full point in a long endgame. The game is annotated below. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -930,7 +914,7 @@ news_feed (
          "title" : "Gukesh vs Duda Blitz 2025 - Games and Results"
       },
       {
-         "description" : "Last Updated on 6th August 2025 by WebAdmin This year saw 62 entries - an increase on last year - with many strong submissions, giving the Awards Committee a tough...",
+         "description" : "Last Updated on 26th August 2025 by WebAdmin This year saw 62 entries - an increase on last year - with many strong submissions, giving the Awards Committee a tough...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-awards-2025/",
@@ -944,14 +928,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapid-blitz-chess-championship-2025-commenced-in-greece/",
          "pubDate" : "Tue, 05 Aug 2025 20:28:42",
          "title" : "European Youth Rapid & Blitz Chess Championship 2025 commenced in Greece"
-      },
-      {
-         "description" : "CGM brings with it circuit points and the incentive of building form and momentum as the 2026 World Championship cycle starts.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45907388/arjun-erigaisi-anish-giri-top-players-looking-get-classical-groove-chennai-grand-masters?device=featurephone",
-         "pubDate" : "Tue, 5 Aug 2025 11:36:00",
-         "title" : "Arjun Erigaisi, Anish Giri among top players looking to get into Classical groove at Chennai Grand Masters"
       }
    ]
 }
