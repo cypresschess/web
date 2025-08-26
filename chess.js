@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Abu Dhabi Masters, the flagship event of the 31st Abu Dhabi International Chess Festival, concluded with a five-way tie at the top of the standings. After nine rounds, Denis Lazavik, Arkadij Naiditsch, Zeng Chongsheng, Aleksey Grebnev and Maksim Tsaruk all finished on 7/9. Lazavik was declared the winner on tiebreaks. The open attracted over 200 participants, including 25 rated above 2500, and once again demonstrated the competitiveness of large international tournaments. | Photo: Aditya Sur Roy / ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/abu-dhabi-masters-2025-r9",
+         "pubDate" : "Tue, 26 Aug 2025 23:50:00",
+         "title" : "Denis Lazavik wins Abu Dhabi Masters"
+      },
+      {
          "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-2025-in-india-pm-narendra-modi-says-chess-is-gaining-popularity-among-our-youth/articleshow/123532712.cms",
          "pubDate" : "Tue, 26 Aug 2025 18:29:58",
          "title" : "FIDE WC in India: PM Modi says 'Chess is gaining popularity among our youth'"
-      },
-      {
-         "description" : "Round seven of the Sinquefield Cup in Saint Louis brought three decisive games, the most in a single day so far. Praggnanandhaa Rameshbabu defeated Alireza Firouzja with black in a Rossolimo Sicilian, his first classical win against the French grandmaster, and joined Fabiano Caruana in the lead on 4&frac12; points. Wesley So overcame world champion Gukesh Dommaraju, while Jan-Krzysztof Duda beat Nodirbek Abdusattorov. Caruana v. Aronian and Vachier-Lagrave v. Sevian ended drawn. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-7",
-         "pubDate" : "Tue, 26 Aug 2025 14:25:00",
-         "title" : "Sinquefield Cup: Pragg beats Firouzja, joins Caruana in the lead"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123526167.cms\" />Goa will host the FIDE World Cup 2025 from October 31 to November 27, featuring 206 players competing for a $2 million prize and 3 qualifying spots for 2026 Candidates Tournament. This eight-round knockout event marks a significant moment for Indian chess, following recent triumphs like D Gukesh's World Championship and team victories at the Chess Olympiad.",
@@ -90,6 +90,14 @@ news_feed (
          "title" : "Report-FIDE Arbiters' Seminar in Bhubaneshwar from 16-18 August 2025."
       },
       {
+         "description" : "This week's puzzles come from the 12th Washington International, covered last week on Chess Life Online. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-12th-washington-international",
+         "pubDate" : "Tue, 26 Aug 2025 00:00:00",
+         "title" : "Tactics Tuesday: 12th Washington International"
+      },
+      {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-7/\">POSTGAME ROUND 7: Pragg Wins Outstanding Battle With Alireza | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -104,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-7",
          "pubDate" : "Mon, 25 Aug 2025 21:08:00",
          "title" : "Praggnanandhaa Catches Caruana In Lead; Wesley So, Duda Pick Up Wins"
-      },
-      {
-         "description" : "This week, from 25 to 31 August, there is another special offer in our Summer Special: ChessBase 18 and the Opening Encyclopedia 2025 for only 249.90€ - instead of 299.90€! Be well prepared for every tournament and the new season!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/summer-special-chessbase-18-opening-encyclopedia-2025",
-         "pubDate" : "Mon, 25 Aug 2025 13:18:13",
-         "title" : "Summer Special: ChessBase 18 & Opening Encyclopedia 2025"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123500765.cms\" />Indian Grandmaster R Praggnanandhaa drew with Jan-Krzysztof Duda in the Sinquefield Cup, securing a joint second place with Levon Aronian. Fabiano Caruana maintained his lead with 4 points. D Gukesh managed a draw against Alireza Firouzja after a tense game, while other matches also ended in draws, marking the second consecutive day of drawn games.",
@@ -818,14 +818,6 @@ news_feed (
          "title" : "Wednesday Workout: FIDE Women's World Cup, Pt. 3"
       },
       {
-         "description" : "This week's puzzles conclude our series on the 2025 FIDE Women's World Cup (coverage here), with WGM Sabina Foisor bringing us some tactical highlights from the games and variations that kept us riveted throughout July. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-womens-world-cup-pt-3",
-         "pubDate" : "Tue, 12 Aug 2025 00:00:00",
-         "title" : "Tactics Tuesday: Women's World Cup, Pt. 3"
-      },
-      {
          "description" : "\"Chess is a very important part of your life, but it can't really be everything,\" says USA's Awonder Liang.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -928,14 +920,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-awards-2025/",
          "pubDate" : "Wed, 06 Aug 2025 11:33:48",
          "title" : "ECF Awards 2025"
-      },
-      {
-         "description" : "The 24th European Youth Rapid and Blitz Chess Championship commenced yesterday in Thessaloniki, Greece, with the participation of more than 450 players from 36 European federations. The event started with the European Youth Rapid Chess Championship 2025, which is played over six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. ECU Secretary General Mr. Theodoros Tsorbatzoglou addressed the players and guests at the Opening ceremony, and then played the first ceremonial move with the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-rapid-blitz-chess-championship-2025-commenced-in-greece/",
-         "pubDate" : "Tue, 05 Aug 2025 20:28:42",
-         "title" : "European Youth Rapid & Blitz Chess Championship 2025 commenced in Greece"
       }
    ]
 }
