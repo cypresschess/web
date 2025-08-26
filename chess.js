@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The French Chess Championships concluded in Vichy, with Marc'Andria Maurizzi and Yosha Iglesias crowned as the new national champions. Maurizzi defeated Laurent Fressinet in rapid tiebreaks, while Etienne Bacrot claimed third place ahead of Sebastien Maze. In the women's final, Iglesias overcame Mitra Hejazipour, with Anastasia Savina securing bronze after a tiebreak win against Deimante Daulyte-Cornette. The event closed a ten-day festival featuring players of all levels. | Photos: Nathalie Daubry / French Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/french-championships-2025-finals",
+         "pubDate" : "Tue, 26 Aug 2025 06:20:00",
+         "title" : "Maurizzi and Iglesias are the 2025 French chess champions"
+      },
+      {
+         "description" : "A FIDE Arbiters' Seminar was held in Bhubaneshwar, Odisha, from the 16th to the 18th of August 2025. The seminar was organized by the All",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/report-fide-arbiters-seminar-in-bhubaneshwar-from-16-18-august-2025/",
+         "pubDate" : "Tue, 26 Aug 2025 06:08:50",
+         "title" : "Report-FIDE Arbiters' Seminar in Bhubaneshwar from 16-18 August 2025."
+      },
+      {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-7/\">POSTGAME ROUND 7: Pragg Wins Outstanding Battle With Alireza | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-7/",
          "pubDate" : "Mon, 25 Aug 2025 22:53:57",
          "title" : "POSTGAME ROUND 7: Pragg Wins Outstanding Battle With Alireza | #SinquefieldCup"
+      },
+      {
+         "description" : "There were three decisive games in round seven of the 2025 Sinquefield Cup. GM Praggnanandhaa Rameshbabu beat GM Alireza Firouzja to join GM Fabiano Caruana in the lead on 4.5/7. GM Wesley So, in his first win of the tournament, beat World Champio...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-7",
+         "pubDate" : "Mon, 25 Aug 2025 21:08:00",
+         "title" : "Praggnanandhaa Catches Caruana In Lead; So, Duda Pick Up Wins"
       },
       {
          "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/summer-special-chessbase-18-opening-encyclopedia-2025",
          "pubDate" : "Mon, 25 Aug 2025 13:18:13",
          "title" : "Summer Special: ChessBase 18 & Opening Encyclopedia 2025"
-      },
-      {
-         "description" : "Emil Joseph Diemer was a notable German chess player and author, best remembered for his fervent advocacy of the Blackmar-Diemer Gambit: 1.d4 d5 2.e4 dxe4 3.Nc3. Today the gambit is not common in elite play, but is well worth trying in inconsequential games. Today's article tells about the turmoils in the life of the initiator of the gambit.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-complicated-life-of-emil-diemer",
-         "pubDate" : "Mon, 25 Aug 2025 13:00:00",
-         "title" : "The complicated life of Emil Diemer"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123500765.cms\" />Indian Grandmaster R Praggnanandhaa drew with Jan-Krzysztof Duda in the Sinquefield Cup, securing a joint second place with Levon Aronian. Fabiano Caruana maintained his lead with 4 points. D Gukesh managed a draw against Alireza Firouzja after a tense game, while other matches also ended in draws, marking the second consecutive day of drawn games.",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-not-gukesh-anand-meet-the-only-indian-to-beat-magnus-carlsen-in-classical-with-black-in-his-14-years-as-world-no-1/articleshow/123495601.cms",
          "pubDate" : "Mon, 25 Aug 2025 06:04:17",
          "title" : "Exclusive | Not Gukesh, Anand! Meet the only Indian to beat Carlsen in classical with black in his 14 years as No. 1"
-      },
-      {
-         "description" : "The Rubinstein Memorial in Polanica-Zdr&oacute;j, a spa town located in south-western Poland, ended with Nodirbek Yakubboev securing first place after a final-round draw against Igor Kovalenko, who finished with the unusual record of nine draws. Radoslaw Wojtaszek overtook David Navara on the last day to claim second place, while European champion Matthias Bluebaum took third. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rubinstein-chess-festival-2025-r9",
-         "pubDate" : "Mon, 25 Aug 2025 05:50:00",
-         "title" : "Yakubboev wins Rubinstein Memorial, Wojtaszek climbs to sole second place"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123493643.cms\" />India's Divya Deshmukh sparked laughs with her \"No jeans!\" rule-change joke, recalling Magnus Carlsen's 2024 dress code controversy. Carlsen famously refused to change his Corneliani jeans, was fined, and later auctioned them for $36,100. Proceeds went to Big Brothers Big Sisters of America, turning a quirky chess moment into a powerful charitable milestone.",
@@ -714,14 +722,6 @@ news_feed (
          "title" : "Chennai Chess: Vincent Keymer creates history, secures title with a round to spare"
       },
       {
-         "description" : "GM Vincent Keymer has won the Quantbox Chennai Grand Masters 2025 and a prize of almost $30,000 with a round to spare after making a draw against GM Jorden van Foreest. All the other games were drawn as well, with GM Arjun Erigaisi held by GM Vidi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-keymer-wins-chennai-grand-masters-round-8",
-         "pubDate" : "Thu, 14 Aug 2025 14:33:00",
-         "title" : "Keymer Wins Chennai Grand Masters With Round To Spare"
-      },
-      {
          "description" : " Fabiano Caruana almost set a record 8/9 score in the Saint Louis Rapid section of this combined rapid and blitz tournament. Caruana needed to beat World Champion Gukesh in the final round to set the new mark. The Gukesh - Caruana final round game was a wild struggle where Caruana outplayed the World Champion and obtained a winning position, but with time running short for Caruana, and the position remaining complicated, the position turned around. Gukesh, although far from accurate himself, brought home the full point in a long endgame. The game is annotated below. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -912,14 +912,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-chennai-grandmasters-2025/",
          "pubDate" : "Thu, 07 Aug 2025 12:15:04",
          "title" : "Live link Chennai Grandmasters 2025"
-      },
-      {
-         "description" : "Rank Name Rank Name 1 Sattwik Swain 1 Girisha Prasanna Pai 2 Aadwik Abhinav Krishna 2 Nakshatra Gumudavelly 3 Divith Reddy Adulla 3 Narayani Umesh",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-national-under-09-chess-championship-2025-in-gurugram-from-15-21-june-2025/",
-         "pubDate" : "Wed, 06 Aug 2025 11:35:51",
-         "title" : "Certificate :National Under 09 Chess Championship 2025 in Gurugram from 15-21 June 2025"
       },
       {
          "description" : "Last Updated on 6th August 2025 by WebAdmin This year saw 62 entries - an increase on last year - with many strong submissions, giving the Awards Committee a tough...",
