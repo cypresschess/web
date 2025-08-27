@@ -10,6 +10,14 @@ news_feed (
          "title" : "Denis Lazavik wins Abu Dhabi Masters"
       },
       {
+         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-8/\">POSTGAME ROUND 8: Pragg &amp; Fabi Lead Before Final Round | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-8/",
+         "pubDate" : "Tue, 26 Aug 2025 23:33:27",
+         "title" : "POSTGAME ROUND 8: Pragg & Fabi Lead Before Final Round | #SinquefieldCup"
+      },
+      {
          "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,28 @@ news_feed (
          "title" : "Sinquefield Cup - Live!"
       },
       {
+         "description" : "The standings at the top remain unchanged after the penultimate round of the 2025 Sinquefield Cup. GMs Fabiano Caruana and Praggnanandhaa Rameshbabu lead before the final round, after draws respectively with GMs Maxime Vachier-Lagrave&#38;nbsp; and We...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-8",
+         "pubDate" : "Tue, 26 Aug 2025 18:31:00",
+         "title" : "Abdusattorov Scores 1st Win; Caruana, Praggnanandhaa Lead"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123532712.cms\" />Goa is set to host the FIDE World Cup from October 30 to November 27, offering three Candidates Tournament spots and a $2 million prize pool. The event features chess giants like D Gukesh, Magnus Carlsen, and R Praggnanandhaa. India boasts a strong contingent of 21 players, including Viswanathan Anand, as the World Cup returns to India after 23 years.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-2025-in-india-pm-narendra-modi-says-chess-is-gaining-popularity-among-our-youth/articleshow/123532712.cms",
          "pubDate" : "Tue, 26 Aug 2025 18:29:58",
          "title" : "FIDE WC in India: PM Modi says 'Chess is gaining popularity among our youth'"
+      },
+      {
+         "description" : "FIDE has announced that the 2025 Chess World Cup will be held in Goa, India, between October 30 and November 27, 2025. The World Cup is a biennial knockout tournament that features most of the world&#39;s top players. This year&#39;s event features 206 pa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/goa-india-to-host-2025-chess-world-cup",
+         "pubDate" : "Tue, 26 Aug 2025 17:58:06",
+         "title" : "Goa, India, To Host 2025 Chess World Cup"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123526167.cms\" />Goa will host the FIDE World Cup 2025 from October 31 to November 27, featuring 206 players competing for a $2 million prize and 3 qualifying spots for 2026 Candidates Tournament. This eight-round knockout event marks a significant moment for Indian chess, following recent triumphs like D Gukesh's World Championship and team victories at the Chess Olympiad.",
@@ -682,14 +706,6 @@ news_feed (
          "title" : "Aronian Wins Saint Louis Rapid & Blitz With 2 Rounds To Spare"
       },
       {
-         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-day-5-unstoppable-levon-takes-1st-stlrapidblitz/\">POSTGAME DAY 5: Unstoppable Levon Takes 1st! | #STLRapidBlitz</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-day-5-unstoppable-levon-takes-1st-stlrapidblitz/",
-         "pubDate" : "Fri, 15 Aug 2025 23:04:31",
-         "title" : "POSTGAME DAY 5: Unstoppable Levon Takes 1st! | #STLRapidBlitz"
-      },
-      {
          "description" : " The Quantbox Chennai Grand Masters took place Thu 7th Aug to Fri 15th Aug 2025. Following a fire the venue had to change and the start postponed by a day. Players in the Masters tournament: Erigaisi, Giri, Keymer, Vidit, Jorden Van Foreest, Awonder Liang, Nihal Sarin, Robson, Karthikeyan and Pranav. There is a strong challengers event as well. Vincent Keymer won clearly with 7/9 two points clear of Anish Giri, Arjun Erigaisi and Murali Karthikeyan. The Challengers event was won by M Pranesh.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -712,22 +728,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-vincent-keymer-crowned-masters-champion-m-pranesh-wins-challengers-title/articleshow/123324407.cms",
          "pubDate" : "Fri, 15 Aug 2025 16:32:26",
          "title" : "Chennai Grand Masters: Keymer crowned Masters champion; M Pranesh wins Challengers title"
-      },
-      {
-         "description" : "GM Vincent Keymer won the Quantbox Chennai Grand Masters 2025 by a full two points after beating GM Ray Robson in the final round to add crossing the 2750 Elo mark to his achievements. GM Anish Giri was the surprise player to sneak into second pla...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-chennai-grand-masters-round-9",
-         "pubDate" : "Fri, 15 Aug 2025 12:11:00",
-         "title" : "Keymer Crosses 2750, Giri Takes 2nd, Pranesh Wins Challengers"
-      },
-      {
-         "description" : "Just days after stopping a Titled Tuesday sweep in its tracks, GM Magnus Carlsen won Freestyle Friday ahead of GM Hikaru Nakamura on August 15. It was the second straight Friday in which they finished in the top two, this time in the opposite orde...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-freestyle-friday-august-15-2025",
-         "pubDate" : "Fri, 15 Aug 2025 11:44:00",
-         "title" : "Carlsen Loses Battle, Wins War Over Nakamura In Freestyle Friday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123321311.cms\" />Rohith Krishna S, a 19-year-old from Chennai, has become India's 89th Grandmaster, achieving his final GM norm at the Almaty Region Open. His journey, fueled by family support and sacrifices, involved countless hours of practice and international tournaments. Rohith now balances chess with his computer science studies, setting his sights on a 2600 rating and ultimately, the world championship.",
