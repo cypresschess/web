@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the penultimate round of the Sinquefield Cup, Nodirbek Abdusattorov finally found success after a difficult event, defeating Alireza Firouzja to claim his first win. The result confirmed Firouzja's elimination from the Grand Chess Tour Finals race, ending his hopes after two consecutive losses. Elsewhere, Fabiano Caruana and Praggnanandhaa Rameshbabu both drew and remain joint leaders on 5 points, while Levon Aronian and Wesley So trail just half a point behind heading into the final day. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-8",
+         "pubDate" : "Wed, 27 Aug 2025 07:25:00",
+         "title" : "Sinquefield Cup: Abdusattorov beats Firouzja, leaves him out of the Grand Chess Tour Finals"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123538292.cms\" />The penultimate round of the Sinquefield Cup saw Caruana and Praggnanandhaa maintain their joint lead, while Abdusattorov secured his first win against Firouzja. Gukesh pressed Aronian but only managed a draw. With Caruana facing Gukesh and Praggnanandhaa playing Aronian in the final round, the tournament title remains fiercely contested.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-caruana-praggnanandhaa-maintain-lead-as-abdusattorov-scores-first-win/articleshow/123538292.cms",
+         "pubDate" : "Wed, 27 Aug 2025 04:42:22",
+         "title" : "Sinquefield Cup: Caruana, Praggnanandhaa maintain lead as Abdusattorov scores first win"
+      },
+      {
          "description" : "The Abu Dhabi Masters, the flagship event of the 31st Abu Dhabi International Chess Festival, concluded with a five-way tie at the top of the standings. After nine rounds, Denis Lazavik, Arkadij Naiditsch, Zeng Chongsheng, Aleksey Grebnev and Maksim Tsaruk all finished on 7/9. Lazavik was declared the winner on tiebreaks. The open attracted over 200 participants, including 25 rated above 2500, and once again demonstrated the competitiveness of large international tournaments. | Photo: Aditya Sur Roy / ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-8/",
          "pubDate" : "Tue, 26 Aug 2025 23:33:27",
          "title" : "POSTGAME ROUND 8: Pragg & Fabi Lead Before Final Round | #SinquefieldCup"
-      },
-      {
-         "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-live",
-         "pubDate" : "Tue, 26 Aug 2025 18:50:00",
-         "title" : "Sinquefield Cup - Live!"
       },
       {
          "description" : "The standings at the top remain unchanged after the penultimate round of the 2025 Sinquefield Cup. GMs Fabiano Caruana and Praggnanandhaa Rameshbabu lead before the final round, after draws respectively with GMs Maxime Vachier-Lagrave&#38;nbsp; and We...",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/vincent-keymer-dominates-the-quantbox-chennai-grand-masters-2025",
          "pubDate" : "Fri, 15 Aug 2025 19:44:00",
          "title" : "Vincent Keymer dominates the Quantbox Chennai Grand Masters 2025 - 9"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123324407.cms\" />M Pranesh clinched the Challengers title at the Chennai Grand Masters 2025, securing a spot in next year's Masters. Vincent Keymer dominated the Masters section, defeating Ray Robson and earning ₹25 Lakhs. The tournament, now a leading classical chess event in India, saw significant final-day developments and determined participants for future competitions.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2025-vincent-keymer-crowned-masters-champion-m-pranesh-wins-challengers-title/articleshow/123324407.cms",
-         "pubDate" : "Fri, 15 Aug 2025 16:32:26",
-         "title" : "Chennai Grand Masters: Keymer crowned Masters champion; M Pranesh wins Challengers title"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123321311.cms\" />Rohith Krishna S, a 19-year-old from Chennai, has become India's 89th Grandmaster, achieving his final GM norm at the Almaty Region Open. His journey, fueled by family support and sacrifices, involved countless hours of practice and international tournaments. Rohith now balances chess with his computer science studies, setting his sights on a 2600 rating and ultimately, the world championship.",
