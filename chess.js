@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 12th Sinquefield Cup took place in Saint Louis, Mon 18th to Fri 29th Aug 2025. Players: Fabiano Caruana, Praggnanandhaa, Gukesh, Nodirbek Abdusattorov, Alireza Firouzja, Wesley So, Levon Aronian, Maxime Vachier-Lagrave, Jan-Krzysztof Duda and Samuel Sevian. The Sinquefield Cup was won by Wesely So after a blitz tie-break round robin where Praggnanandhaa finished second and Fabiano Caruana finished third. The players shared the prize money. The result of this event settled who made the Grand Chess Tour finals next month in Sao Paulo. Those qualifiers were MVL, Caruana, Levon Aronian and Praggnanandhaa, the latter displacing Alireza Firouzja from the top four.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/12th-sinquefield-cup-2025",
+         "pubDate" : "Wed, 27 Aug 2025 23:47:00",
+         "title" : "12th Sinquefield Cup 2025 - Games and Results"
+      },
+      {
          "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-live",
          "pubDate" : "Wed, 27 Aug 2025 18:50:00",
-         "title" : "Sinquefield Cup - Live!"
+         "title" : "Sinquefield Cup Playoffs - Live!"
       },
       {
          "description" : " The Titled Tuesday Blitz 27th August was the last in this format with major changes coming next week. Tuan Minh Le was the winner of the early with 10.5/11 a point and a half clear of the field, Carlsen finished a further point and a half back on 8.5 points. Aleksei Sarana won the late with 9.5/11 half a point clear of Arjun Erigaisi, Dmitry Andreikin, Magnus Carlsen and Oleksandr Bortnyk, somewhat surprisingly Fabiano Caruana also played after his early finish in the Sinquefield Cup and he was half a point further back. The games are available for download but the files are too large to be displayed.",
@@ -26,12 +34,12 @@ news_feed (
          "title" : "Abdusattorov beats Firouzja in Round 8 of the Sinquefield Cup - 8"
       },
       {
-         "description" : "The Fujairah Global Chess Championship made its debut in the United Arab Emirates with over 530 players from more than 70 countries competing across three sections. The main event is the Superstars tournament, a nine-round Swiss open which is part of the 2025 FIDE Circuit. The tournament began with notable surprises, including Pranav Venkatesh's (pictured) victory over top seed Nihal Sarin in the first round. | Photo: Vivek Sohani",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fujairah-superstars-2025-r2",
-         "pubDate" : "Wed, 27 Aug 2025 13:40:00",
-         "title" : "Fujairah Superstars: Major upsets at the start"
+         "description" : "WIM Yosha Iglesias had already made chess history by becoming the first transgender woman international master. Last weekend, the 37-year-old added another accomplishment by winning the French Women&#39;s Championship, as the second transgender woman ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/yosha-iglesias-wins-title-in-france-makes-transgender-chess-history",
+         "pubDate" : "Wed, 27 Aug 2025 12:52:00",
+         "title" : "Yosha Iglesias Triumphs In France, Makes Transgender Chess History Again"
       },
       {
          "description" : "Are you ready to compete in one of the craziest variants ever invented? The Chess.com Duck Chess Championship is coming on September 4 and will feature a $2,500 prize fund. With the most savage tactics and a fearsome rubber duck, anything can happ...",
@@ -50,14 +58,6 @@ news_feed (
          "title" : "Le, Sarana Become Last Players To Share Titled Tuesday Victory Stage"
       },
       {
-         "description" : "In the penultimate round of the Sinquefield Cup, Nodirbek Abdusattorov finally found success after a difficult event, defeating Alireza Firouzja to claim his first win. The result confirmed Firouzja's elimination from the Grand Chess Tour Finals race, ending his hopes after two consecutive losses. Elsewhere, Fabiano Caruana and Praggnanandhaa Rameshbabu both drew and remain joint leaders on 5 points, while Levon Aronian and Wesley So trail just half a point behind heading into the final day. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-8",
-         "pubDate" : "Wed, 27 Aug 2025 07:25:00",
-         "title" : "Sinquefield Cup: Abdusattorov beats Firouzja, leaves him out of the Grand Chess Tour Finals"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123538292.cms\" />The penultimate round of the Sinquefield Cup saw Caruana and Praggnanandhaa maintain their joint lead, while Abdusattorov secured his first win against Firouzja. Gukesh pressed Aronian but only managed a draw. With Caruana facing Gukesh and Praggnanandhaa playing Aronian in the final round, the tournament title remains fiercely contested.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -66,20 +66,20 @@ news_feed (
          "title" : "Sinquefield Cup: Caruana, Praggnanandhaa maintain lead as Abdusattorov scores first win"
       },
       {
+         "description" : "Registration for the 2025 National K-12 Grade Chess Championship, held December 12 through 14 in Spokane, WA is open now. Please visit our event hub for more information - including information about sections, team rooms, and hotels - and register by October 27 for the lowest rate of $105. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/registration-2025-national-k-12-grade-chess-championship-open-now",
+         "pubDate" : "Wed, 27 Aug 2025 00:00:00",
+         "title" : "Registration for 2025 National K-12 Grade Chess Championship Open Now"
+      },
+      {
          "description" : "This week's puzzles come from the 12th Washington International, covered last week on Chess Life Online. For more puzzles from this event, see yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-12th-washington-international",
          "pubDate" : "Wed, 27 Aug 2025 00:00:00",
          "title" : "Wednesday Workout: 12th Washington International"
-      },
-      {
-         "description" : "The Abu Dhabi Masters, the flagship event of the 31st Abu Dhabi International Chess Festival, concluded with a five-way tie at the top of the standings. After nine rounds, Denis Lazavik, Arkadij Naiditsch, Zeng Chongsheng, Aleksey Grebnev and Maksim Tsaruk all finished on 7/9. Lazavik was declared the winner on tiebreaks. The open attracted over 200 participants, including 25 rated above 2500, and once again demonstrated the competitiveness of large international tournaments. | Photo: Aditya Sur Roy / ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/abu-dhabi-masters-2025-r9",
-         "pubDate" : "Tue, 26 Aug 2025 23:50:00",
-         "title" : "Denis Lazavik wins Abu Dhabi Masters"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-8/\">POSTGAME ROUND 8: Pragg &amp; Fabi Lead Before Final Round | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -110,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/goa-india-to-host-2025-chess-world-cup",
-         "pubDate" : "Tue, 26 Aug 2025 17:58:06",
+         "pubDate" : "Tue, 26 Aug 2025 17:58:00",
          "title" : "Goa, India, To Host 2025 Chess World Cup"
       },
       {
@@ -698,28 +698,12 @@ news_feed (
          "title" : "Aronian Wins Third Saint Louis Rapid & Blitz"
       },
       {
-         "description" : "GM Hikaru Nakamura is one step closer to an unprecedented 50 Bullet Brawl titles after the speed chess titan won the event for the second week in a row and gained his 46th victory. Nakamura got off to a sensational 21.5/22 start in Saturday&#39;s ev...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-16-2025",
-         "pubDate" : "Sat, 16 Aug 2025 18:13:00",
-         "title" : "Nakamura Closes In On 50th Bullet Brawl Title With Commanding Victory"
-      },
-      {
          "description" : "Thanks for all the positive feedback on last week's newsletter titled \"You are not your rating\". It really hit home hard for me that identifying with results, believing one is only worth something when you play well, isn't just an experience professional players have. It sort of became an epidemic, both in chess and other []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.com/acceptance/",
          "pubDate" : "Sat, 16 Aug 2025 13:00:00",
          "title" : "The Biggest Lie We Tell Ourselves"
-      },
-      {
-         "description" : " The 12th Sinquefield Cup takes place in Saint Louis, Mon 18th to Fri 29th Aug 2025. Players: Fabiano, Caruana, Praggnanandhaa, Gukesh, Nodirbek Abdusattorov, Alireza Firouzja, Wesley So, Levon Aronian, Maxime Vachier-Lagrave, Jan-Krzysztof Duda and Samuel Sevian.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/12th-sinquefield-cup-2025",
-         "pubDate" : "Sat, 16 Aug 2025 11:41:00",
-         "title" : "12th Sinquefield Cup 2025 - Games and Results"
       },
       {
          "description" : " The Saint Louis Rapid & Blitz took place 11th to 15th August 2025. Players: Fabiano, Caruana, D Gukesh, Nodirbek Abdusattorov, Wesley So, Levon Aronian, Leinier Dominguez Perez, Maxime Vachier-Lagrave, Le Quang Liem, Sam Shankland and Grigoriy Oparin. Levon Aronian won the event by finishing second in the rapid and clear first in the blitz. Fabiano Caruana finished in second place over all after winning the rapid but being far off the pace in the blitz. ",
@@ -800,14 +784,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45974136/vincent-keymer-takes-aim-d-gukesh-chess-crown-2025-chennai-grand-masters-win?device=featurephone",
          "pubDate" : "Thu, 14 Aug 2025 11:50:00",
          "title" : "Keymer takes aim at Gukesh's crown with Chennai Grand Masters win"
-      },
-      {
-         "description" : "Update, August 18, 2025: This article has been updated to reflect the circumstances of GM Bryan Smith's record-breaking loss. An earlier version of the annotations for this article incorrectly suggested Smith was sitting at the board when he lost on time.Since then, Smith has reached out to explain that he, in fact, was unaware of the time control for the event, and was away from the board when his flag fell. He has requested this article be updated to reflect this fact, as the original article, based on a good faith reporting of the game with the information that was available at the time, stated that his loss was a result of time trouble. His account of the circumstances surrounding the lo",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/girls-over-gms-2-break-yips-record-one-weekend",
-         "pubDate" : "Thu, 14 Aug 2025 00:00:00",
-         "title" : "Girls over GMs: 2 Break Yip's Record in One Weekend"
       },
       {
          "description" : "Last Updated on 13th August 2025 by WebAdmin The new Coventry International will take place from Sunday 26th October to Friday 31st October 2025 at the Holiday Inn Coventry M6,...",
