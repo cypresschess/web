@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-live",
+         "pubDate" : "Wed, 27 Aug 2025 18:50:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : " The Titled Tuesday Blitz 27th August was the last in this format with major changes coming next week. Tuan Minh Le was the winner of the early with 10.5/11 a point and a half clear of the field, Carlsen finished a further point and a half back on 8.5 points. Aleksei Sarana won the late with 9.5/11 half a point clear of Arjun Erigaisi, Dmitry Andreikin, Magnus Carlsen and Oleksandr Bortnyk, somewhat surprisingly Fabiano Caruana also played after his early finish in the Sinquefield Cup and he was half a point further back. The games are available for download but the files are too large to be displayed.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-27th-august-2025",
+         "pubDate" : "Wed, 27 Aug 2025 16:20:00",
+         "title" : "Titled Tuesday Blitz 27th August 2025 - Games and Results"
+      },
+      {
          "description" : " The eighth round of the Sinquefield Cup only had one decisive result when Nodirbek Abdusattorov beat Alireza Firouzja taking advantage of some rather loose play. Gukesh pressed for a long time against Levon Aronian and missed a hard win but then a late blunder should in return have cost him the game but Aronian missed his chance. MVL-Caruana, Sevian-Duda and Praggnanandhaa-So were all drawn meaning that Caruana and Praggnanandhaa share the lead on 5/8 half a point clear of Aronian and So. Final Round 9 pairings: Duda-MV:, Caruana-Gukesh, Aronian-Praggnanandhaa, So-Abdusattorov and Firouzja-Sevian. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -18,6 +34,22 @@ news_feed (
          "title" : "Fujairah Superstars: Major upsets at the start"
       },
       {
+         "description" : "Are you ready to compete in one of the craziest variants ever invented? The Chess.com Duck Chess Championship is coming on September 4 and will feature a $2,500 prize fund. With the most savage tactics and a fearsome rubber duck, anything can happ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-duck-chess-championship-2025",
+         "pubDate" : "Wed, 27 Aug 2025 11:09:21",
+         "title" : "Show Off Your Best Quacktics In The Upcoming Chess.com Duck Chess Championship"
+      },
+      {
+         "description" : "On the day Chess.com announced several changes to Titled Tuesday, including the retirement of the late tournament, GMs Minh Le and Alexey Sarana became the last players to split the day&#39;s glory. Le was nearly perfect, scoring 10.5 points with only...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/le-sarana-win-titled-tuesday-august-26-2025",
+         "pubDate" : "Wed, 27 Aug 2025 08:51:35",
+         "title" : "Le, Sarana Become Last Players To Share Titled Tuesday Victory Stage"
+      },
+      {
          "description" : "In the penultimate round of the Sinquefield Cup, Nodirbek Abdusattorov finally found success after a difficult event, defeating Alireza Firouzja to claim his first win. The result confirmed Firouzja's elimination from the Grand Chess Tour Finals race, ending his hopes after two consecutive losses. Elsewhere, Fabiano Caruana and Praggnanandhaa Rameshbabu both drew and remain joint leaders on 5 points, while Levon Aronian and Wesley So trail just half a point behind heading into the final day. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +64,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-caruana-praggnanandhaa-maintain-lead-as-abdusattorov-scores-first-win/articleshow/123538292.cms",
          "pubDate" : "Wed, 27 Aug 2025 04:42:22",
          "title" : "Sinquefield Cup: Caruana, Praggnanandhaa maintain lead as Abdusattorov scores first win"
+      },
+      {
+         "description" : "This week's puzzles come from the 12th Washington International, covered last week on Chess Life Online. For more puzzles from this event, see yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-12th-washington-international",
+         "pubDate" : "Wed, 27 Aug 2025 00:00:00",
+         "title" : "Wednesday Workout: 12th Washington International"
       },
       {
          "description" : "The Abu Dhabi Masters, the flagship event of the 31st Abu Dhabi International Chess Festival, concluded with a five-way tie at the top of the standings. After nine rounds, Denis Lazavik, Arkadij Naiditsch, Zeng Chongsheng, Aleksey Grebnev and Maksim Tsaruk all finished on 7/9. Lazavik was declared the winner on tiebreaks. The open attracted over 200 participants, including 25 rated above 2500, and once again demonstrated the competitiveness of large international tournaments. | Photo: Aditya Sur Roy / ChessBase India",
@@ -714,22 +754,6 @@ news_feed (
          "title" : "St Louis Rapid & Blitz: Gukesh settles for sixth place - Aronian claims crown"
       },
       {
-         "description" : "Italian GM Luca Moroni has once again proven his proficiency in chess variants by defending his title in the 2025 Chess.com Spell Chess Championship on Friday. Moroni, who was the only GM to qualify for the knockout Final for the second year run...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-community-championships-spell-chess-luca-moroni-wins",
-         "pubDate" : "Sat, 16 Aug 2025 06:31:00",
-         "title" : "Moroni Wins Spell Chess Championship For 2nd Year Running"
-      },
-      {
-         "description" : "Playing solid chess on the final day of blitz, GM Levon Aronian won the 2025 Saint Louis Rapid &#38;amp; Blitz after securing first place with two rounds to go. A lackluster GM Fabiano Caruana said he &#34;stopped being able to play chess&#34; but still finis...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/levon-aronian-wins-2025-saint-louis-rapid-blitz",
-         "pubDate" : "Sat, 16 Aug 2025 03:16:18",
-         "title" : "Aronian Wins Saint Louis Rapid & Blitz With 2 Rounds To Spare"
-      },
-      {
          "description" : " The Quantbox Chennai Grand Masters took place Thu 7th Aug to Fri 15th Aug 2025. Following a fire the venue had to change and the start postponed by a day. Players in the Masters tournament: Erigaisi, Giri, Keymer, Vidit, Jorden Van Foreest, Awonder Liang, Nihal Sarin, Robson, Karthikeyan and Pranav. There is a strong challengers event as well. Vincent Keymer won clearly with 7/9 two points clear of Anish Giri, Arjun Erigaisi and Murali Karthikeyan. The Challengers event was won by M Pranesh.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -824,14 +848,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-in-jammu-on-06-07-september-2025/",
          "pubDate" : "Wed, 13 Aug 2025 08:37:46",
          "title" : "Senior National Arbiter Seminar & Examination in Jammu on 06 & 07 September 2025"
-      },
-      {
-         "description" : "This week's puzzles continue a series on the 2025 FIDE Women's World Cup (coverage here), with WGM Sabina Foisor bringing us some tactical highlights from the games and variations that kept us riveted throughout July. Check out more of her puzzles in ourTactics Tuesday series, as well. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-womens-world-cup-pt-3",
-         "pubDate" : "Wed, 13 Aug 2025 00:00:00",
-         "title" : "Wednesday Workout: FIDE Women's World Cup, Pt. 3"
       },
       {
          "description" : "\"Chess is a very important part of your life, but it can't really be everything,\" says USA's Awonder Liang.",
