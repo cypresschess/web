@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The eighth round of the Sinquefield Cup only had one decisive result when Nodirbek Abdusattorov beat Alireza Firouzja taking advantage of some rather loose play. Gukesh pressed for a long time against Levon Aronian and missed a hard win but then a late blunder should in return have cost him the game but Aronian missed his chance. MVL-Caruana, Sevian-Duda and Praggnanandhaa-So were all drawn meaning that Caruana and Praggnanandhaa share the lead on 5/8 half a point clear of Aronian and So. Final Round 9 pairings: Duda-MV:, Caruana-Gukesh, Aronian-Praggnanandhaa, So-Abdusattorov and Firouzja-Sevian. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-beats-firouzja-in-round-8-of-the-sinquefield-cup",
+         "pubDate" : "Wed, 27 Aug 2025 15:29:00",
+         "title" : "Abdusattorov beats Firouzja in Round 8 of the Sinquefield Cup - 8"
+      },
+      {
+         "description" : "The Fujairah Global Chess Championship made its debut in the United Arab Emirates with over 530 players from more than 70 countries competing across three sections. The main event is the Superstars tournament, a nine-round Swiss open which is part of the 2025 FIDE Circuit. The tournament began with notable surprises, including Pranav Venkatesh's (pictured) victory over top seed Nihal Sarin in the first round. | Photo: Vivek Sohani",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fujairah-superstars-2025-r2",
+         "pubDate" : "Wed, 27 Aug 2025 13:40:00",
+         "title" : "Fujairah Superstars: Major upsets at the start"
+      },
+      {
          "description" : "In the penultimate round of the Sinquefield Cup, Nodirbek Abdusattorov finally found success after a difficult event, defeating Alireza Firouzja to claim his first win. The result confirmed Firouzja's elimination from the Grand Chess Tour Finals race, ending his hopes after two consecutive losses. Elsewhere, Fabiano Caruana and Praggnanandhaa Rameshbabu both drew and remain joint leaders on 5 points, while Levon Aronian and Wesley So trail just half a point behind heading into the final day. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -912,14 +928,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/gukesh-vs-duda-blitz-2025",
          "pubDate" : "Thu, 7 Aug 2025 13:12:00",
          "title" : "Gukesh vs Duda Blitz 2025 - Games and Results"
-      },
-      {
-         "description" : "Last Updated on 26th August 2025 by WebAdmin This year saw 62 entries - an increase on last year - with many strong submissions, giving the Awards Committee a tough...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-awards-2025/",
-         "pubDate" : "Wed, 06 Aug 2025 11:33:48",
-         "title" : "ECF Awards 2025"
       }
    ]
 }
