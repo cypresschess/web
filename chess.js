@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fiona Steil-Antoni is a well-known and popular figure in the chess world. In an interview with ChessBase, she explains how she moved from being a competitive player to becoming an interviewer, commentator, and host - a transition that happened almost by accident. She talks about her love for events like Tata Steel, her recent involvement with St. Pauli, and the growing range of chess-related projects, from GothamChess and Freestyle Chess to chess boxing. While she admits she currently lacks the motivation to play competitively, she remains passionate about interviewing, hosting, and exploring new formats in chess, emphasizing both the importance of human connection and the representation of ",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fiona-steil-antoni-reinventing-herself-in-the-world-of-chess",
+         "pubDate" : "Thu, 28 Aug 2025 17:07:32",
+         "title" : "Reinventing Herself in the World of Chess - An Interview with Fiona Steil-Antoni"
+      },
+      {
+         "description" : " So Wins Second Title Amid Fierce Competition, Top Four Headed to Grand Chess Tour Finals in Brazil SAINT LOUIS, August 28, 2025 U.S. Grandmaster Wesley So triumphed at the 2025 Sinquefield Cup, outlasting a world-class field and a thrilling three-way tie at the top that led to playoffs to decide it all. In the end, [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-title-goes-to-american-grandmaster-wesley-so/\">2025 Sinquefield Cup Title Goes to American Grandmaster Wesley So</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-title-goes-to-american-grandmaster-wesley-so/",
+         "pubDate" : "Thu, 28 Aug 2025 15:12:01",
+         "title" : "2025 Sinquefield Cup Title Goes to American Grandmaster Wesley So"
+      },
+      {
+         "description" : "Wesley So left his best until last at the Sinquefield Cup, turning a quiet start into a tournament victory on the final day in Saint Louis. After outplaying Nodirbek Abdusattorov in round nine, he joined Fabiano Caruana and Praggnanandhaa Rameshbabu in a three-way tie for first. A tense blitz playoff followed, where So defeated Pragg and then held Caruana to a draw, enough to secure the title - even if it was not quite enough to reach the Grand Chess Tour Finals. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-9",
+         "pubDate" : "Thu, 28 Aug 2025 14:20:00",
+         "title" : "Wesley So wins Sinquefield Cup after late surge"
+      },
+      {
          "description" : "Last Updated on 28th August 2025 by WebAdmin Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "ECF AGM - call for nominations"
       },
       {
-         "description" : " The Sinquefield Cup was won by Wesley So for the second time. So was the only winner in the final round when he defeated the woefully out of form Nodirbek Abdusattorov. So then won a blitz tie-break by beating Praggnanandhaa and drawing with Fabiano Caruana. So won $77,667 and Praggnanandhaa and Caruana $67,667. The result of this event settled who made the Grand Chess Tour finals next month in Sao Paulo. Those qualifiers were MVL, Caruana, Levon Aronian and Praggnanandhaa, the latter displacing Alireza Firouzja from the top four as a result of this tournament. ",
+         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/12th-sinquefield-cup-2025\">Sinquefield Cup</a> was won by Wesley So for a second time, he won first of all in 2016. So was the only winner in the final round when he defeated the woefully out of form Nodirbek Abdusattorov. So then won a blitz tie-break by beating Praggnanandhaa and drawing with Fabiano Caruana. So won $77,667 and Praggnanandhaa and Caruana $67,667. The result of this event settled who made the Grand Chess Tour finals next month in Sao Paulo. Those qualifiers were MVL, Caruana, Levon Aronian and Praggnanandhaa, the latter displacing Alireza Firouzja from the top four as a result of this tournament. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/wesley-so-wins-the-sinquefield-cup-after-a-playoff",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-exam-in-agartala-on-21-22-august-2025/",
          "pubDate" : "Thu, 28 Aug 2025 09:14:30",
          "title" : "Final Report of Senior National Arbiter Seminar & Exam in Agartala on 21 & 22 August 2025"
-      },
-      {
-         "description" : "Round four of the Fujairah Global Chess Championship's Superstars tournament concluded with nine players sharing the lead on 3 points. Wins by Amin Tabatabaei, Gleb Dudin and Zhu Jiner with the white pieces allowed them to join the players who entered the round as co-leaders. Zhu, the only female participant and lowest seed, defeated Alexander Motylev to continue her rise. Her performance has lifted her to fourth place in the women's live ranking. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fujairah-superstars-2025-r4",
-         "pubDate" : "Thu, 28 Aug 2025 09:00:00",
-         "title" : "Fujairah Superstars: Zhu Jiner, the only female participant, among co-leaders"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123559940.cms\" />Yosha Iglesias, a 37-year-old chess player, has made history by winning the French Women's Chess Championship, becoming the second transgender player to achieve this feat. Overcoming challenges and online harassment, Iglesias defeated Women's Grand Master Mitra Hejazipour in the final.",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-praggnanandhaa-books-grand-chess-tour-finale-spot-with-runner-up-finish/articleshow/123557281.cms",
          "pubDate" : "Thu, 28 Aug 2025 06:01:36",
          "title" : "Sinquefield Cup: Praggnanandhaa books Grand Chess Tour Finale spot with runner-up finish"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Monday, September 1 in observance of Labor Day. Our offices will reopen for regular business on Tuesday, September 2 at 8 a.m. CT. Our best wishes and a happy Labor Day to all, and thank you for your continued support of US Chess! ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/labor-day-2025",
+         "pubDate" : "Thu, 28 Aug 2025 00:00:00",
+         "title" : "US Chess Offices Closed Monday, September 1, For Labor Day"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-9/\">POSTGAME ROUND 9 | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -674,14 +698,6 @@ news_feed (
          "title" : "Sinquefield Cup: R Praggnanandhaa outplays D Gukesh"
       },
       {
-         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-1/\">POSTGAME ROUND 1: Pragg Doesn't Give Gukesh a Chance! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-1/",
-         "pubDate" : "Tue, 19 Aug 2025 00:20:13",
-         "title" : "POSTGAME ROUND 1: Pragg Doesn't Give Gukesh a Chance! | #SinquefieldCup"
-      },
-      {
          "description" : "This week's puzzles look at some brilliant tactical moments from the 125th Annual U.S. Open. WGM Sabina Foisor's excellent coverage for Chess Life Online focused mainly on the top boards, but that doesn't mean she wasn't also keeping an eye on some more tactical highlights, the first batch of which we are pleased to share here. See yesterday's Tactics Tuesday on Chess Life Kids Online for even more exercises. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -736,14 +752,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2025-registration",
          "pubDate" : "Mon, 18 Aug 2025 09:19:53",
          "title" : "Collegiate Chess League Fall 2025 Registration"
-      },
-      {
-         "description" : "GM Levon Aronian won his third Saint Louis Rapid &amp; Blitz title on Friday, August 15, netting a $40,000 first prize and 13 Grand Chess Tour (GCT) points. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Levon Aronian's hot streak continues! (Photo courtesy Lennart Ootes/SLCC)<br> <br> <br> <br> The 10-player invitational consisted of nine rounds of rapid chess (25-minute games with 10-second increment from move one) from Monday through Wednesday, followed by a blitz double round robin (five-minute games with three-second increment) on Thursday and Friday, for a total of 27 rounds.Wins in the rapid portion counted for two points each (with draws being",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/aronian-wins-third-saint-louis-rapid-blitz",
-         "pubDate" : "Mon, 18 Aug 2025 00:00:00",
-         "title" : "Aronian Wins Third Saint Louis Rapid & Blitz"
       },
       {
          "description" : "Thanks for all the positive feedback on last week's newsletter titled \"You are not your rating\". It really hit home hard for me that identifying with results, believing one is only worth something when you play well, isn't just an experience professional players have. It sort of became an epidemic, both in chess and other []",
@@ -936,14 +944,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/aug/08/magnus-carlsen-esports-world-cup-chess",
          "pubDate" : "Fri, 08 Aug 2025 07:00:04",
          "title" : "Magnus Carlsen shows class and wins $250,000 at frantic Esports World Cup"
-      },
-      {
-         "description" : " There was a match between World Champion Gukesh and Jan-Krzysztof Duda in Katowice, Poland on 7th August 2025. Gukesh's struggles at fast time controls continues, he won game 1 but lost all the rest to lose the match 5-1. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/gukesh-vs-duda-blitz-2025",
-         "pubDate" : "Thu, 7 Aug 2025 13:12:00",
-         "title" : "Gukesh vs Duda Blitz 2025 - Games and Results"
       }
    ]
 }
