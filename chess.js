@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-9/\">POSTGAME ROUND 9 | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-9/",
+         "pubDate" : "Wed, 27 Aug 2025 23:57:40",
+         "title" : "POSTGAME ROUND 9 | #SinquefieldCup"
+      },
+      {
          "description" : " The 12th Sinquefield Cup took place in Saint Louis, Mon 18th to Fri 29th Aug 2025. Players: Fabiano Caruana, Praggnanandhaa, Gukesh, Nodirbek Abdusattorov, Alireza Firouzja, Wesley So, Levon Aronian, Maxime Vachier-Lagrave, Jan-Krzysztof Duda and Samuel Sevian. The Sinquefield Cup was won by Wesely So after a blitz tie-break round robin where Praggnanandhaa finished second and Fabiano Caruana finished third. The players shared the prize money. The result of this event settled who made the Grand Chess Tour finals next month in Sao Paulo. Those qualifiers were MVL, Caruana, Levon Aronian and Praggnanandhaa, the latter displacing Alireza Firouzja from the top four.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-1",
          "pubDate" : "Mon, 18 Aug 2025 23:16:00",
          "title" : "Aronian Continues Hot Streak, Praggnanandhaa Beats World Champion"
-      },
-      {
-         "description" : " Americans Sweep First and Second Place in First U.S. Stop of the Grand Chess Tour in Saint Louis SAINT LOUIS, August 18, 2025 U.S. Grandmaster Levon Aronian emerged victorious at the 2025 Saint Louis Rapid &#38; Blitz, conquering 27 rounds of fierce competition in one of the 2025 Grand Chess Tour's (GCT) most electrifying events. [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/gm-levon-aronian-wins-2025-saint-louis-rapid-blitz/\">GM Levon Aronian Wins 2025 Saint Louis Rapid &amp; Blitz</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/gm-levon-aronian-wins-2025-saint-louis-rapid-blitz/",
-         "pubDate" : "Mon, 18 Aug 2025 18:24:43",
-         "title" : "GM Levon Aronian Wins 2025 Saint Louis Rapid & Blitz"
       },
       {
          "description" : "Last Updated on 18th August 2025 by Melinda Wilde Gosforth Chess Club has launched an appeal to sponsor Club Members doing the Great North Run, Sep 7 2025. Alex (Piercey),...",
