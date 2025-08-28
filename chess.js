@@ -10,6 +10,14 @@ news_feed (
          "title" : "Reinventing Herself in the World of Chess - An Interview with Fiona Steil-Antoni"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123568207.cms\" />Global Chess League introduces 'GCL Contenders' to discover new talent. Registrations begin on Thursday for amateurs and professionals. The tournament unites players across six time zones. Winners will join Global Chess League franchises. The third edition starts December 13. Aspiring players can register in male, female, and U-21 categories. This initiative aims to strengthen the chess community.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-three-winners-to-join-franchises-through-contenders-programme/articleshow/123568207.cms",
+         "pubDate" : "Thu, 28 Aug 2025 16:30:11",
+         "title" : "Global Chess League: Three winners to join franchises through Contenders programme"
+      },
+      {
          "description" : " So Wins Second Title Amid Fierce Competition, Top Four Headed to Grand Chess Tour Finals in Brazil SAINT LOUIS, August 28, 2025 U.S. Grandmaster Wesley So triumphed at the 2025 Sinquefield Cup, outlasting a world-class field and a thrilling three-way tie at the top that led to playoffs to decide it all. In the end, [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-title-goes-to-american-grandmaster-wesley-so/\">2025 Sinquefield Cup Title Goes to American Grandmaster Wesley So</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/wesley-so-wins-the-sinquefield-cup-after-a-playoff",
          "pubDate" : "Thu, 28 Aug 2025 10:15:00",
          "title" : "Wesley So wins the Sinquefield Cup after a playoff - 9"
+      },
+      {
+         "description" : "Chess.com is thrilled to announce GothamChess vs. The World, an exclusive Vote Chess match between IM Levy Rozman and the global chess community, starting September 30. Will the internet&#39;s most-watched chess streamer be able to outwit the collecti...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gothamchess-vs-world-announcement",
+         "pubDate" : "Thu, 28 Aug 2025 10:00:46",
+         "title" : "Announcing GothamChess Vs. The World Starting September 30"
       },
       {
          "description" : "The All Tripura Chess Association, in collaboration with the All India Chess Federation and the Arbiters' Commission, organised a Senior National Arbiter Seminar and Examination",
@@ -744,14 +760,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-wscc-qf-polina-shuvalova-beats-alice-lee",
          "pubDate" : "Mon, 18 Aug 2025 13:54:00",
          "title" : "Shuvalova Beats Alice Lee To Reach Women's Speed Chess Semifinals"
-      },
-      {
-         "description" : "The Collegiate Chess League (CCL) is back for another thrilling season, and registrations for Fall 2025 are officially open! Once again, the CCL will boast a $25,000 prize fund and the exciting four vs. four team format that fans and players love....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2025-registration",
-         "pubDate" : "Mon, 18 Aug 2025 09:19:53",
-         "title" : "Collegiate Chess League Fall 2025 Registration"
       },
       {
          "description" : "Thanks for all the positive feedback on last week's newsletter titled \"You are not your rating\". It really hit home hard for me that identifying with results, believing one is only worth something when you play well, isn't just an experience professional players have. It sort of became an epidemic, both in chess and other []",
