@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last Updated on 28th August 2025 by WebAdmin Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-agm-call-for-nominations-3/",
+         "pubDate" : "Thu, 28 Aug 2025 10:53:00",
+         "title" : "ECF AGM - call for nominations"
+      },
+      {
+         "description" : " The Sinquefield Cup was won by Wesley So for the second time. So was the only winner in the final round when he defeated the woefully out of form Nodirbek Abdusattorov. So then won a blitz tie-break by beating Praggnanandhaa and drawing with Fabiano Caruana. So won $77,667 and Praggnanandhaa and Caruana $67,667. The result of this event settled who made the Grand Chess Tour finals next month in Sao Paulo. Those qualifiers were MVL, Caruana, Levon Aronian and Praggnanandhaa, the latter displacing Alireza Firouzja from the top four as a result of this tournament. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/wesley-so-wins-the-sinquefield-cup-after-a-playoff",
+         "pubDate" : "Thu, 28 Aug 2025 10:15:00",
+         "title" : "Wesley So wins the Sinquefield Cup after a playoff - 9"
+      },
+      {
+         "description" : "The All Tripura Chess Association, in collaboration with the All India Chess Federation and the Arbiters' Commission, organised a Senior National Arbiter Seminar and Examination",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-exam-in-agartala-on-21-22-august-2025/",
+         "pubDate" : "Thu, 28 Aug 2025 09:14:30",
+         "title" : "Final Report of Senior National Arbiter Seminar & Exam in Agartala on 21 & 22 August 2025"
+      },
+      {
          "description" : "Round four of the Fujairah Global Chess Championship's Superstars tournament concluded with nine players sharing the lead on 3 points. Wins by Amin Tabatabaei, Gleb Dudin and Zhu Jiner with the white pieces allowed them to join the players who entered the round as co-leaders. Zhu, the only female participant and lowest seed, defeated Alexander Motylev to continue her rise. Her performance has lifted her to fourth place in the women's live ranking. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fujairah-superstars-2025-r4",
          "pubDate" : "Thu, 28 Aug 2025 09:00:00",
          "title" : "Fujairah Superstars: Zhu Jiner, the only female participant, among co-leaders"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123559940.cms\" />Yosha Iglesias, a 37-year-old chess player, has made history by winning the French Women's Chess Championship, becoming the second transgender player to achieve this feat. Overcoming challenges and online harassment, Iglesias defeated Women's Grand Master Mitra Hejazipour in the final.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/french-transgender-chess-player-who-faced-online-abuse-wins-national-title-creates-history/articleshow/123559940.cms",
+         "pubDate" : "Thu, 28 Aug 2025 08:41:23",
+         "title" : "French trans chess player, who faced abuse, wins national title; creates history"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123557281.cms\" />R Praggnanandhaa's impressive runner-up finish at the Sinquefield Cup in St. Louis secured his spot in the Grand Chess Tour finale, despite Wesley So clinching the title after a thrilling playoff. Praggnanandhaa's performance adds to his stellar year, already marked by qualification for the 2026 Candidates Tournament. He will next compete in the Grand Swiss in Uzbekistan.",
@@ -746,14 +778,6 @@ news_feed (
          "title" : "Egregious Erdogmus"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123330955.cms\" />Levon Aronian of the United States emerged victorious at the St. Louis Rapid and Blitz tournament, securing the title with a dominant performance and a prize of USD 40,000. World Champion D Gukesh of India finished in a tied sixth position after a mixed performance.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/st-louis-rapid-blitz-d-gukesh-shows-sparks-but-settles-for-sixth-place-levon-aronian-claims-crown/articleshow/123330955.cms",
-         "pubDate" : "Sat, 16 Aug 2025 07:30:22",
-         "title" : "St Louis Rapid & Blitz: Gukesh settles for sixth place - Aronian claims crown"
-      },
-      {
          "description" : " The Quantbox Chennai Grand Masters took place Thu 7th Aug to Fri 15th Aug 2025. Following a fire the venue had to change and the start postponed by a day. Players in the Masters tournament: Erigaisi, Giri, Keymer, Vidit, Jorden Van Foreest, Awonder Liang, Nihal Sarin, Robson, Karthikeyan and Pranav. There is a strong challengers event as well. Vincent Keymer won clearly with 7/9 two points clear of Anish Giri, Arjun Erigaisi and Murali Karthikeyan. The Challengers event was won by M Pranesh.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -880,14 +904,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45931811/nihal-sarin-speed-demon-turns-gukesh-old-trainer-fix-classical-stagnation-chennai-grand-masters-2025?device=featurephone",
          "pubDate" : "Sat, 9 Aug 2025 10:50:00",
          "title" : "'Speed demon' Nihal Sarin turns to Gukesh's old trainer to fix Classical stagnation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-trainer-seminar-in-vijayawada-from-08-10-august-2025/",
-         "pubDate" : "Sat, 09 Aug 2025 10:27:22",
-         "title" : "Fide Trainer Seminar in Vijayawada from 08-10 August 2025"
       },
       {
          "description" : "The indefatigable Malcolm Pein has pulled off a remarkable organisational feat in arranging at short notice for the world rapid and blitz team championships to be staged in London. In fact the venue was the Novotel in Hammersmith, scene of a great Tony Miles tournament triumph in 1975, and my choice for the second Mind []",
