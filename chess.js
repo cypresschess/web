@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round four of the Fujairah Global Chess Championship's Superstars tournament concluded with nine players sharing the lead on 3 points. Wins by Amin Tabatabaei, Gleb Dudin and Zhu Jiner with the white pieces allowed them to join the players who entered the round as co-leaders. Zhu, the only female participant and lowest seed, defeated Alexander Motylev to continue her rise. Her performance has lifted her to fourth place in the women's live ranking. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fujairah-superstars-2025-r4",
+         "pubDate" : "Thu, 28 Aug 2025 09:00:00",
+         "title" : "Fujairah Superstars: Zhu Jiner, the only female participant, among co-leaders"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123557281.cms\" />R Praggnanandhaa's impressive runner-up finish at the Sinquefield Cup in St. Louis secured his spot in the Grand Chess Tour finale, despite Wesley So clinching the title after a thrilling playoff. Praggnanandhaa's performance adds to his stellar year, already marked by qualification for the 2026 Candidates Tournament. He will next compete in the Grand Swiss in Uzbekistan.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-praggnanandhaa-books-grand-chess-tour-finale-spot-with-runner-up-finish/articleshow/123557281.cms",
+         "pubDate" : "Thu, 28 Aug 2025 06:01:36",
+         "title" : "Sinquefield Cup: Praggnanandhaa books Grand Chess Tour Finale spot with runner-up finish"
+      },
+      {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-9/\">POSTGAME ROUND 9 | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/12th-sinquefield-cup-2025",
          "pubDate" : "Wed, 27 Aug 2025 23:47:00",
          "title" : "12th Sinquefield Cup 2025 - Games and Results"
+      },
+      {
+         "description" : "GM Wesley So has won the 2025 Sinquefield Cup, his second time winning the elite event he first won in 2016. While all the other classical games ended in draws, So won on demand against GM Nodirbek Abdusattorov to reach three-way blitz tiebreaks w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wesley-so-wins-2025-sinquefield-cup",
+         "pubDate" : "Wed, 27 Aug 2025 23:01:00",
+         "title" : "Wesley So Wins 2nd Sinquefield Cup In Blitz Tiebreaks"
       },
       {
          "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
@@ -682,14 +706,6 @@ news_feed (
          "title" : "Collegiate Chess League Fall 2025 Registration"
       },
       {
-         "description" : "When 10-year-old Keya Jha beat a grandmaster in the final round of the Joe Yun Memorial, she not only clinched first place in the tournament, but also set a U.S. record for being the youngest American girl to defeat a grandmaster in a classical ga...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/10-year-old-keya-defeats-grandmaster-breaks-us-record",
-         "pubDate" : "Mon, 18 Aug 2025 05:49:00",
-         "title" : "10-Year-Old Keya Defeats Grandmaster Hours After Bodhana, Sets U.S. Record"
-      },
-      {
          "description" : "GM Levon Aronian won his third Saint Louis Rapid &amp; Blitz title on Friday, August 15, netting a $40,000 first prize and 13 Grand Chess Tour (GCT) points. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Levon Aronian's hot streak continues! (Photo courtesy Lennart Ootes/SLCC)<br> <br> <br> <br> The 10-player invitational consisted of nine rounds of rapid chess (25-minute games with 10-second increment from move one) from Monday through Wednesday, followed by a blitz double round robin (five-minute games with three-second increment) on Thursday and Friday, for a total of 27 rounds.Wins in the rapid portion counted for two points each (with draws being",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/vincent-keymer-dominates-the-quantbox-chennai-grand-masters-2025",
          "pubDate" : "Fri, 15 Aug 2025 19:44:00",
          "title" : "Vincent Keymer dominates the Quantbox Chennai Grand Masters 2025 - 9"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123321311.cms\" />Rohith Krishna S, a 19-year-old from Chennai, has become India's 89th Grandmaster, achieving his final GM norm at the Almaty Region Open. His journey, fueled by family support and sacrifices, involved countless hours of practice and international tournaments. Rohith now balances chess with his computer science studies, setting his sights on a 2600 rating and ultimately, the world championship.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-parents-sleepless-nights-coding-and-chess-how-india-got-its-89th-gm-in-rohith-krishna-s/articleshow/123321311.cms",
-         "pubDate" : "Fri, 15 Aug 2025 10:58:01",
-         "title" : "Exclusive | Parents' sleepless nights, coding, and chess: India gets 89th GM in Rohith"
       },
       {
          "description" : " The 53-year-old is just one short of Jonathan Penrose's record, while Bodhana Sivanandan became the youngest ever woman international master Michael Adams edged nearer the all-time record for British Championship titles last weekend when the Taunton-based grandmaster won his ninth national championship at Liverpool. Adams, who relaxes by watching cricket at Somerset's county ground, has now equalled Henry Atkins's total of nine championships from the first half of the last century, but remains one short of Jonathan Penrose's 10 crowns from the second half. Adams's first British title was in 1989 at age 17, still the youngest ever, but in the next 20 years he concentrated on the world champi",
