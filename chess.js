@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In early 1983, Ulf Andersson and former world champion Mikhail Tal met in Malm&ouml; to decide who would act as reserve for that cycle's Candidates matches. Their playoff followed the Moscow Interzonal, where a 19-year-old Garry Kasparov and Aleksandr Beliavsky had taken the two qualifying spots, leaving Tal and Andersson tied for third. The six-game contest was not without excitement and ended with a tied score - each of the contestants scored one win. | Photo: Lars Grahn",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/throwback-thursday-andersson-tal",
+         "pubDate" : "Fri, 29 Aug 2025 01:40:00",
+         "title" : "Throwback Thursday: Ulf Andersson and Mikhail Tal play six-game match"
+      },
+      {
          "description" : "Fiona Steil-Antoni is a well-known and popular figure in the chess world. In an interview with ChessBase, she explains how she moved from being a competitive player to becoming an interviewer, commentator, and host - a transition that happened almost by accident. She talks about her love for events like Tata Steel, her recent involvement with St. Pauli, and the growing range of chess-related projects, from GothamChess and Freestyle Chess to chess boxing. While she admits she currently lacks the motivation to play competitively, she remains passionate about interviewing, hosting, and exploring new formats in chess, emphasizing both the importance of human connection and the representation of ",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
