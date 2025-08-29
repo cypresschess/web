@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-august-29-2025",
-         "pubDate" : "Fri, 29 Aug 2025 12:10:13",
+         "pubDate" : "Fri, 29 Aug 2025 12:10:00",
          "title" : "Bortnyk Wins Fourth Freestyle Friday, Second-Most So Far"
       },
       {
