@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Global Chess League (GCL) has announced an unprecedented initiative with the launch of GCL Contenders 2025, a two-month global tournament that will open doors for amateurs and professionals alike. Three winners - one each from the Male, Female and U21 categories - will secure lifetime opportunities as ambassadors for GCL Season 3, set to begin on 13 December. Registration opens on 28 August, with the event providing a direct pathway for grassroots talent to compete alongside the world's elite Grandmasters.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-gcl-contenders",
+         "pubDate" : "Fri, 29 Aug 2025 16:00:00",
+         "title" : "Global Chess League launches GCL Contenders 2025"
+      },
+      {
+         "description" : "Round five of the Fujairah Global Chess Championship's Superstars tournament ended with Sanan Sjugirov and Pranav Venkatesh moving into joint first place on 4 points. Sjugirov defeated fellow Hungarian Gleb Dudin, while Pranav beat Mexico's Jos&eacute; Mart&iacute;nez Alc&aacute;ntara in a sharp encounter (pictured). A five-player chasing pack trails just half a point behind, including Zhu Jiner, who drew with Aydin Suleymanli to continue her consistent run. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fujairah-superstars-2025-r5",
+         "pubDate" : "Fri, 29 Aug 2025 15:00:00",
+         "title" : "Fujairah Superstars: Pranav and Sjugirov take the lead"
+      },
+      {
+         "description" : "The European Chess Union held its latest Board Meeting on 19 August 2025, via Zoom, chaired by ECU President Zurab Azmaiparashvili. Key Information and Decisions European Chess Championships",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/communication-of-the-ecu-board-meeting/",
+         "pubDate" : "Fri, 29 Aug 2025 11:36:50",
+         "title" : "Communication of the ECU Board Meeting"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123583271.cms\" />D Gukesh, the youngest World Chess Champion, revealed that Viswanathan Anand's advice helped him recover after a poor start in Singapore. The 19-year-old admitted overconfidence led to a loss in the opening game, serving as a wake-up call. He revealed the 'pep talk' that gave him perspective and ultimately led to victory.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -26,12 +50,36 @@ news_feed (
          "title" : "Chess: Wesley So wins $350,000 Sinquefield Cup as world champion Gukesh fails again"
       },
       {
+         "description" : "The Tech Mahindra Global Chess League (GCL) is back for its third season, again with a jaw-dropping lineup of the strongest players in the world. Now, for the first time ever, amateur and titled players alike can compete in the GCL Contenders, an ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-tech-mahindra-global-chess-league-season-3",
+         "pubDate" : "Fri, 29 Aug 2025 06:00:57",
+         "title" : "Global Chess League Returns For 3rd Season With Open Qualifiers And Top Talent"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123575293.cms\" />Goa is set to host the FIDE World Cup in 2025, marking its return to India after 23 years, reminiscent of the 2002 World Junior Championship where Levon Aronian emerged victorious. The event not only boosted Goa's tourism, particularly attracting Russian visitors, but also showcased the region's hospitality and organisational capabilities.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/in-iran-no-dancing-in-goa-iranians-danced-chess-world-cup-returns-after-23-years/articleshow/123575293.cms",
+         "pubDate" : "Fri, 29 Aug 2025 03:35:46",
+         "title" : "'In Goa, Iranians danced' - Chess World Cup returns after 23 years"
+      },
+      {
          "description" : "In early 1983, Ulf Andersson and former world champion Mikhail Tal met in Malm&ouml; to decide who would act as reserve for that cycle's Candidates matches. Their playoff followed the Moscow Interzonal, where a 19-year-old Garry Kasparov and Aleksandr Beliavsky had taken the two qualifying spots, leaving Tal and Andersson tied for third. The six-game contest was not without excitement and ended with a tied score - each of the contestants scored one win. | Photo: Lars Grahn",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/throwback-thursday-andersson-tal",
          "pubDate" : "Fri, 29 Aug 2025 01:40:00",
          "title" : "Throwback Thursday: Ulf Andersson and Mikhail Tal play six-game match"
+      },
+      {
+         "description" : "The Scholastic Council and the Executive Board have approved the 2025-2026 Scholastic Regulations. This year's regulations can be found here. Substantive changes in this year's regulations include:If the venue seating capacity allows, US Chess will make every effort to accept onsite entries at our National Scholastic events. See Section 3.2.2, which is completely revised for 2025-26.In Section 3.2.3 we specify upper limits for Early Entry and Late Entry Fees. See also the table in Section 4.5.2 which lists Early Entry deadlines for several of the Spring 2026 National Scholastic events.Section 4.7 includes provisions to help ensure that players listed as Unrated are Unrated. When a player lis",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-2026-scholastic-regulations",
+         "pubDate" : "Fri, 29 Aug 2025 00:00:00",
+         "title" : "2025-2026 Scholastic Regulations"
       },
       {
          "description" : "Fiona Steil-Antoni is a well-known and popular figure in the chess world. In an interview with ChessBase, she explains how she moved from being a competitive player to becoming an interviewer, commentator, and host - a transition that happened almost by accident. She talks about her love for events like Tata Steel, her recent involvement with St. Pauli, and the growing range of chess-related projects, from GothamChess and Freestyle Chess to chess boxing. While she admits she currently lacks the motivation to play competitively, she remains passionate about interviewing, hosting, and exploring new formats in chess, emphasizing both the importance of human connection and the representation of ",
@@ -86,7 +134,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gothamchess-vs-world-announcement",
-         "pubDate" : "Thu, 28 Aug 2025 10:00:46",
+         "pubDate" : "Thu, 28 Aug 2025 10:00:00",
          "title" : "Announcing GothamChess Vs. The World Starting September 30"
       },
       {
@@ -682,14 +730,6 @@ news_feed (
          "title" : "Carlsen Sweeps Into Three Straight Titled Tuesdays"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123403772.cms\" />D Gukesh defeated Nodirbek Abdusattorov in the Sinquefield Cup. This victory helped Gukesh recover from an earlier setback. Meanwhile, Praggnanandhaa drew with Fabiano Caruana. Alireza Firouzja won against Jan-Krzysztof Duda. Levon Aronian and Samuel Sevian drew their game. After two rounds, Praggnanandhaa, Aronian, and Firouzja are now in the lead. The tournament continues with intense competition.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-d-gukesh-bounces-back-with-crushing-win-over-uzbekistans-nodirbek-abdusattorov/articleshow/123403772.cms",
-         "pubDate" : "Wed, 20 Aug 2025 07:24:28",
-         "title" : "Sinquefield Cup: Gukesh bounces back with crushing win over Abdusattorov"
-      },
-      {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-2/\">POSTGAME ROUND 2: Alireza Bests Duda in Epic Game! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -754,14 +794,6 @@ news_feed (
          "title" : "Tactics Tuesday: U.S. Open Highlights"
       },
       {
-         "description" : "Editor's note: Since becoming Digital Editor for Chess Life Online, I have dreamt of publishing more regular wrap-ups of the sorts of events that are eligible for our Plan Ahead Calendar (as well as invitational tournaments).Do you want coverage of your tournament on Chess Life Online for future reporting or roundups?If so, email jjlang@uschess.org with information of upcoming or recently concluded (i.e. within 1-2 weeks) events.For concluded tournaments, please include links to or screenshots of final standings, as well as links to DGT games or attached, transcribed game scores from 1-3 games of winners. Photos of the tournament and of winners is also a plus (cell phone photos are fine for ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/rahul-peddi-wins-12th-washington-international",
-         "pubDate" : "Tue, 19 Aug 2025 00:00:00",
-         "title" : "Rahul Peddi Wins 12th Washington International"
-      },
-      {
          "description" : "GMs Levon Aronian and Praggnanandhaa Rameshbabu started with wins in the 2025 Sinquefield Cup to take the early lead. Aronian beat GM Nodirbek Abdusattorov with the black pieces in our Game of the Day, while Praggnanandhaa won a surprisingly easy-...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -776,14 +808,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/gosforth-chess-club-gnr-sponsorship-for-ukraine/",
          "pubDate" : "Mon, 18 Aug 2025 15:16:05",
          "title" : "Gosforth Chess Club - GNR Sponsorship for Ukraine"
-      },
-      {
-         "description" : "IM Polina Shuvalova will take on Women&#39;s World Champion Ju Wenjun in the 2025 Women&#39;s Speed Chess Championship Semifinals after defeating IM Alice Lee 9-5. A topsy-turvy match was too close to call for the the first two sections, and midway throug...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-wscc-qf-polina-shuvalova-beats-alice-lee",
-         "pubDate" : "Mon, 18 Aug 2025 13:54:00",
-         "title" : "Shuvalova Beats Alice Lee To Reach Women's Speed Chess Semifinals"
       },
       {
          "description" : "Thanks for all the positive feedback on last week's newsletter titled \"You are not your rating\". It really hit home hard for me that identifying with results, believing one is only worth something when you play well, isn't just an experience professional players have. It sort of became an epidemic, both in chess and other []",
