@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Every game among the top seven finishers was halved, despite a regulation in the event forbidding agreed draws The $350,000 Sinquefield Cup is one of the most iconic annual events in the chess calendar. Part of the Grand Chess Tour and named after the St Louis billionaire Rex Sinquefield, who has been the most generous individual sponsor in all chess history, it will be remembered for Fabiano Caruana's 7/7 start in 2014 and his record 3098 tournament performance, for Ding Liren's victory ahead of Magnus Carlsen in 2019, and, most of all, for the controversial 2022 Carlsen-Hans Niemann alleged cheating scandal. For 2025, the organisers introduced a four-player Tour Final at São Paulo next m",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/aug/29/chess-wesley-so-wins-350000-sinquefield-cup-as-world-champion-gukesh-fails-again",
+         "pubDate" : "Fri, 29 Aug 2025 07:00:09",
+         "title" : "Chess: Wesley So wins $350,000 Sinquefield Cup as world champion Gukesh fails again"
+      },
+      {
          "description" : "In early 1983, Ulf Andersson and former world champion Mikhail Tal met in Malm&ouml; to decide who would act as reserve for that cycle's Candidates matches. Their playoff followed the Moscow Interzonal, where a 19-year-old Garry Kasparov and Aleksandr Beliavsky had taken the two qualifying spots, leaving Tal and Andersson tied for third. The six-game contest was not without excitement and ended with a tied score - each of the contestants scored one win. | Photo: Lars Grahn",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -952,14 +960,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45926600/harika-dronavalli-plays-chennai-grand-masters-daughter-hanvika-happy-witness-my-life-way?device=featurephone",
          "pubDate" : "Sat, 9 Aug 2025 00:00:00",
          "title" : "Harika Dronavalli plays Chennai Grand Masters with 2-year-old daughter: 'Happy she could witness my life in a way'"
-      },
-      {
-         "description" : " World No 1 dominated every round and was determined to show chess in its best light at Saudi event Magnus Carlsen was in imperious form at last week's Esports World Cup in Riyadh, Saudi Arabia, with a virtuoso performance both on and off the board. On it, the world No 1 won the group stage, the quarter- and semi-finals, and the final, all in dominant style while seeing off the world No 2, Hikaru Nakamura, and one of the leading young contenders, Alireza Firouzja. Offboard, Carlsen exuded enthusiasm for the event, and delivered upbeat and articulate responses to interviewers. The limit of 10 minutes per player per game, without the usual per move increment, was designed for tight TV schedule",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/aug/08/magnus-carlsen-esports-world-cup-chess",
-         "pubDate" : "Fri, 08 Aug 2025 07:00:04",
-         "title" : "Magnus Carlsen shows class and wins $250,000 at frantic Esports World Cup"
       }
    ]
 }
