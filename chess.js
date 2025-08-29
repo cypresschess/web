@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Hall of Fame & Galleries will open its newest exhibition, \"Reading Between the Lines: Chess & Literature\", on 18 September 2025. Running through 12 April 2026, the show explores how chess has shaped storytelling across centuries, from Lewis Carroll to Vladimir Nabokov and Walter Tevis. With rare books, artworks, artefacts and literary-themed chess sets, the exhibition highlights how the game has been used to explore imagination, morality and identity.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reading-between-the-line-world-chess-hof",
+         "pubDate" : "Fri, 29 Aug 2025 21:00:00",
+         "title" : "New exhibition at the World Chess Hall of Fame: \"Reading Between the Lines: Chess & Literature\""
+      },
+      {
+         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-26th-august-2025\">Titled Tuesday Blitz for the 26th August</a> was the last under the current format. This Chess.com event has run since 2014 and has had an early and late section since 2022. From the 2nd September there will be just one Titled Tuesday Blitz each week, it will take place at 11am Eastern Standard Time, 17:00 Central European Time and 20:30 Indian time. Other changes include a move to five minutes per game and a weekly live show produced by the chess app \"Take Take Take\". Titled Tuesday will be part of Chess.com's qualification process for the Esports World Cup (EWC) which will take place in Riddah ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/chess.com-make-changes-to-titled-tuesday-announce-take-take-take-agreement-and-ewc-qualification-process",
+         "pubDate" : "Fri, 29 Aug 2025 18:05:00",
+         "title" : "Chess.com make changes to Titled Tuesday, announce \"Take Take Take\" agreement, and EWC qualification process - "
+      },
+      {
          "description" : "The Global Chess League (GCL) has announced an unprecedented initiative with the launch of GCL Contenders 2025, a two-month global tournament that will open doors for amateurs and professionals alike. Three winners - one each from the Male, Female and U21 categories - will secure lifetime opportunities as ambassadors for GCL Season 3, set to begin on 13 December. Registration opens on 28 August, with the event providing a direct pathway for grassroots talent to compete alongside the world's elite Grandmasters.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "Global Chess League launches GCL Contenders 2025"
       },
       {
-         "description" : "Round five of the Fujairah Global Chess Championship's Superstars tournament ended with Sanan Sjugirov and Pranav Venkatesh moving into joint first place on 4 points. Sjugirov defeated fellow Hungarian Gleb Dudin, while Pranav beat Mexico's Jos&eacute; Mart&iacute;nez Alc&aacute;ntara in a sharp encounter (pictured). A five-player chasing pack trails just half a point behind, including Zhu Jiner, who drew with Aydin Suleymanli to continue her consistent run. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fujairah-superstars-2025-r5",
-         "pubDate" : "Fri, 29 Aug 2025 15:00:00",
-         "title" : "Fujairah Superstars: Pranav and Sjugirov take the lead"
+         "description" : "GM Oleksandr Bortnyk won his fourth Freestyle Friday on August 29, moving past GM Arjun Erigaisi for the second-most in the tournament&#39;s brief history, trailing only GM Hikaru Nakamura. It was Nakamura who finished second this week, half a point b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-august-29-2025",
+         "pubDate" : "Fri, 29 Aug 2025 12:10:13",
+         "title" : "Bortnyk Wins Fourth Freestyle Friday, Second-Most So Far"
       },
       {
          "description" : "The European Chess Union held its latest Board Meeting on 19 August 2025, via Zoom, chaired by ECU President Zurab Azmaiparashvili. Key Information and Decisions European Chess Championships",
@@ -42,7 +58,7 @@ news_feed (
          "title" : "European Union U8-U14 Chess Champions crowned in Czech Republic"
       },
       {
-         "description" : " Every game among the top seven finishers was halved, despite a regulation in the event forbidding agreed draws The $350,000 Sinquefield Cup is one of the most iconic annual events in the chess calendar. Part of the Grand Chess Tour and named after the St Louis billionaire Rex Sinquefield, who has been the most generous individual sponsor in all chess history, it will be remembered for Fabiano Caruana's 7/7 start in 2014 and his record 3098 tournament performance, for Ding Liren's victory ahead of Magnus Carlsen in 2019, and, most of all, for the controversial 2022 Carlsen-Hans Niemann alleged cheating scandal. For 2025, the organisers introduced a four-player Tour Final at São Paulo next m",
+         "description" : " Every game among the top seven finishers was halved, despite a regulation in the event forbidding agreed draws The $350,000 (&pound;250,000) Sinquefield Cup is one of the most iconic annual events in the chess calendar. Part of the Grand Chess Tour and named after the St Louis billionaire Rex Sinquefield, who has been the most generous individual sponsor in all chess history, it will be remembered for Fabiano Caruana's 7/7 start in 2014 and his record 3098 tournament performance, for Ding Liren's victory ahead of Magnus Carlsen in 2019, and, most of all, for the controversial 2022 Carlsen-Hans Niemann alleged cheating scandal. For 2025, the organisers introduced a four-player Tour Final at ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/aug/29/chess-wesley-so-wins-350000-sinquefield-cup-as-world-champion-gukesh-fails-again",
@@ -66,12 +82,20 @@ news_feed (
          "title" : "'In Goa, Iranians danced' - Chess World Cup returns after 23 years"
       },
       {
-         "description" : "In early 1983, Ulf Andersson and former world champion Mikhail Tal met in Malm&ouml; to decide who would act as reserve for that cycle's Candidates matches. Their playoff followed the Moscow Interzonal, where a 19-year-old Garry Kasparov and Aleksandr Beliavsky had taken the two qualifying spots, leaving Tal and Andersson tied for third. The six-game contest was not without excitement and ended with a tied score - each of the contestants scored one win. | Photo: Lars Grahn",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/throwback-thursday-andersson-tal",
-         "pubDate" : "Fri, 29 Aug 2025 01:40:00",
-         "title" : "Throwback Thursday: Ulf Andersson and Mikhail Tal play six-game match"
+         "description" : "The theme of this issue is non-server games. All moves from the games presented were either sent through the US Postal Service or by email.Please Note: In order for non-server games to be included in an issue of Check is in the Mail, they must be provided by, at least, one of the players of the games. Since US Chess does not mandate that players send in the games, sharing them is entirely voluntary.Games can be provided by email to ciitimeditor@gmail.com:In a PGN or other chess database file (example: ChessBase or Chess Assistant) attached to an email.As text within the body of an email including the details and moves of the game.As photos/scans of the game scoresheets attached to an email.O",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/check-mail-september-2025-going-postal",
+         "pubDate" : "Fri, 29 Aug 2025 00:00:00",
+         "title" : "Check is in the Mail, September 2025: Going Postal!"
+      },
+      {
+         "description" : "There is an entire rule devoted to half-point byes in our rulebook. There you will find directives on when to allow them and when not to allow them. Those directives are also furnished with escape hatches. That mix makes it as clear as mud.One should ideally ask for last-round byes early on - like, before the tournament begins. Why? It rubs people the wrong way when a wood-pusher checks out the wallchart before their last contest, sees that a half-pointer in their upcoming game guarantees them first place gold (or, at least, some gold), and then requests a half-point bye.If the TD allows that late-requested last-round bye - which is one of those escape hatches - it may result in ire from the",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-last-round-byes",
+         "pubDate" : "Fri, 29 Aug 2025 00:00:00",
+         "title" : "Just the Rules: Last-Round Byes"
       },
       {
          "description" : "The Scholastic Council and the Executive Board have approved the 2025-2026 Scholastic Regulations. This year's regulations can be found here. Substantive changes in this year's regulations include:If the venue seating capacity allows, US Chess will make every effort to accept onsite entries at our National Scholastic events. See Section 3.2.2, which is completely revised for 2025-26.In Section 3.2.3 we specify upper limits for Early Entry and Late Entry Fees. See also the table in Section 4.5.2 which lists Early Entry deadlines for several of the Spring 2026 National Scholastic events.Section 4.7 includes provisions to help ensure that players listed as Unrated are Unrated. When a player lis",
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2025-2026-scholastic-regulations",
          "pubDate" : "Fri, 29 Aug 2025 00:00:00",
          "title" : "2025-2026 Scholastic Regulations"
-      },
-      {
-         "description" : "Fiona Steil-Antoni is a well-known and popular figure in the chess world. In an interview with ChessBase, she explains how she moved from being a competitive player to becoming an interviewer, commentator, and host - a transition that happened almost by accident. She talks about her love for events like Tata Steel, her recent involvement with St. Pauli, and the growing range of chess-related projects, from GothamChess and Freestyle Chess to chess boxing. While she admits she currently lacks the motivation to play competitively, she remains passionate about interviewing, hosting, and exploring new formats in chess, emphasizing both the importance of human connection and the representation of ",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fiona-steil-antoni-reinventing-herself-in-the-world-of-chess",
-         "pubDate" : "Thu, 28 Aug 2025 17:07:32",
-         "title" : "Reinventing Herself in the World of Chess - An Interview with Fiona Steil-Antoni"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123568207.cms\" />Global Chess League introduces 'GCL Contenders' to discover new talent. Registrations begin on Thursday for amateurs and professionals. The tournament unites players across six time zones. Winners will join Global Chess League franchises. The third edition starts December 13. Aspiring players can register in male, female, and U-21 categories. This initiative aims to strengthen the chess community.",
@@ -104,14 +120,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-title-goes-to-american-grandmaster-wesley-so/",
          "pubDate" : "Thu, 28 Aug 2025 15:12:01",
          "title" : "2025 Sinquefield Cup Title Goes to American Grandmaster Wesley So"
-      },
-      {
-         "description" : "Wesley So left his best until last at the Sinquefield Cup, turning a quiet start into a tournament victory on the final day in Saint Louis. After outplaying Nodirbek Abdusattorov in round nine, he joined Fabiano Caruana and Praggnanandhaa Rameshbabu in a three-way tie for first. A tense blitz playoff followed, where So defeated Pragg and then held Caruana to a draw, enough to secure the title - even if it was not quite enough to reach the Grand Chess Tour Finals. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-9",
-         "pubDate" : "Thu, 28 Aug 2025 14:20:00",
-         "title" : "Wesley So wins Sinquefield Cup after late surge"
       },
       {
          "description" : "Last Updated on 28th August 2025 by WebAdmin Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General...",
@@ -202,12 +210,12 @@ news_feed (
          "title" : "Sinquefield Cup Playoffs - Live!"
       },
       {
-         "description" : " The Titled Tuesday Blitz 27th August was the last in this format with major changes coming next week. Tuan Minh Le was the winner of the early with 10.5/11 a point and a half clear of the field, Carlsen finished a further point and a half back on 8.5 points. Aleksei Sarana won the late with 9.5/11 half a point clear of Arjun Erigaisi, Dmitry Andreikin, Magnus Carlsen and Oleksandr Bortnyk, somewhat surprisingly Fabiano Caruana also played after his early finish in the Sinquefield Cup and he was half a point further back. The games are available for download but the files are too large to be displayed.",
+         "description" : " The Titled Tuesday Blitz 26th August was the last in this format with major changes coming next week. Tuan Minh Le was the winner of the early with 10.5/11 a point and a half clear of the field, Carlsen finished a further point and a half back on 8.5 points. Aleksei Sarana won the late with 9.5/11 half a point clear of Arjun Erigaisi, Dmitry Andreikin, Magnus Carlsen and Oleksandr Bortnyk, somewhat surprisingly Fabiano Caruana also played after his early finish in the Sinquefield Cup and he was half a point further back. The games are available for download but the files are too large to be displayed.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-27th-august-2025",
+         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-26th-august-2025",
          "pubDate" : "Wed, 27 Aug 2025 16:20:00",
-         "title" : "Titled Tuesday Blitz 27th August 2025 - Games and Results"
+         "title" : "Titled Tuesday Blitz 26th August 2025 - Games and Results"
       },
       {
          "description" : " The eighth round of the Sinquefield Cup only had one decisive result when Nodirbek Abdusattorov beat Alireza Firouzja taking advantage of some rather loose play. Gukesh pressed for a long time against Levon Aronian and missed a hard win but then a late blunder should in return have cost him the game but Aronian missed his chance. MVL-Caruana, Sevian-Duda and Praggnanandhaa-So were all drawn meaning that Caruana and Praggnanandhaa share the lead on 5/8 half a point clear of Aronian and So. Final Round 9 pairings: Duda-MV:, Caruana-Gukesh, Aronian-Praggnanandhaa, So-Abdusattorov and Firouzja-Sevian. ",
@@ -776,30 +784,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-saint-louis-chess-club-grand-reopening/",
          "pubDate" : "Tue, 19 Aug 2025 14:05:04",
          "title" : "Saint Louis Chess Club to Unveil New World-Class Facility With a Month of Historic Events, Legendary Matches, and U.S. & U.S. Women's Championships"
-      },
-      {
-         "description" : "This week's puzzles look at some brilliant tactical moments from the 125th Annual U.S. Open. WGM Sabina Foisor's excellent coverage for Chess Life Online focused mainly on the top boards, but that doesn't mean she wasn't also keeping an eye on some more tactical highlights, the first batch of which we are pleased to share here. See yesterday's Tactics Tuesday on Chess Life Kids Online for even more exercises. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-us-open-highlights",
-         "pubDate" : "Tue, 19 Aug 2025 00:00:00",
-         "title" : "Wednesday Workout: U.S. Open Highlights"
-      },
-      {
-         "description" : "This week's puzzles look at some brilliant tactical moments from the 125th Annual U.S. Open. WGM Sabina Foisor's excellent coverage for Chess Life Online focused mainly on the top boards, but that doesn't mean she wasn't also keeping an eye on some more tactical highlights, the first batch of which we are pleased to share here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-us-open-highlights",
-         "pubDate" : "Tue, 19 Aug 2025 00:00:00",
-         "title" : "Tactics Tuesday: U.S. Open Highlights"
-      },
-      {
-         "description" : "GMs Levon Aronian and Praggnanandhaa Rameshbabu started with wins in the 2025 Sinquefield Cup to take the early lead. Aronian beat GM Nodirbek Abdusattorov with the black pieces in our Game of the Day, while Praggnanandhaa won a surprisingly easy-...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-1",
-         "pubDate" : "Mon, 18 Aug 2025 23:16:00",
-         "title" : "Aronian Continues Hot Streak, Praggnanandhaa Beats World Champion"
       },
       {
          "description" : "Last Updated on 18th August 2025 by Melinda Wilde Gosforth Chess Club has launched an appeal to sponsor Club Members doing the Great North Run, Sep 7 2025. Alex (Piercey),...",
