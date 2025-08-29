@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123583271.cms\" />D Gukesh, the youngest World Chess Champion, revealed that Viswanathan Anand's advice helped him recover after a poor start in Singapore. The 19-year-old admitted overconfidence led to a loss in the opening game, serving as a wake-up call. He revealed the 'pep talk' that gave him perspective and ultimately led to victory.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-reveals-nightmare-start-before-viswanathan-anands-words-saved-him-overconfident-played-horribly/articleshow/123583271.cms",
+         "pubDate" : "Fri, 29 Aug 2025 11:01:49",
+         "title" : "Gukesh reveals nightmare start before Viswanathan Anand's words saved him: 'Played horribly'"
+      },
+      {
+         "description" : "European Union Youth U8-U14 Chess Championship concluded in Roznov pod Radhostem, Czech Republic! The last rounds were full of fights and tension. In category Boys U8, Lev Jevglevski (EST) took the first place scoring 9 our of 9 points(!), the second place went to David-Christian Talaba (ROU) and Daniel Sava (ROU) won bronze. In category Girls U8, Sophia-Lenina Matala (ROU) won gold, Sare Adam (FRA) won silver medal and Pausader Ines Bravo (FRA) came third. Filip Sirbu (FRA) became the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-union-u8-u14-chess-champions-crowned-in-czech-republic/",
+         "pubDate" : "Fri, 29 Aug 2025 07:31:13",
+         "title" : "European Union U8-U14 Chess Champions crowned in Czech Republic"
+      },
+      {
          "description" : " Every game among the top seven finishers was halved, despite a regulation in the event forbidding agreed draws The $350,000 Sinquefield Cup is one of the most iconic annual events in the chess calendar. Part of the Grand Chess Tour and named after the St Louis billionaire Rex Sinquefield, who has been the most generous individual sponsor in all chess history, it will be remembered for Fabiano Caruana's 7/7 start in 2014 and his record 3098 tournament performance, for Ding Liren's victory ahead of Magnus Carlsen in 2019, and, most of all, for the controversial 2022 Carlsen-Hans Niemann alleged cheating scandal. For 2025, the organisers introduced a four-player Tour Final at São Paulo next m",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-saint-louis-chess-club-grand-reopening/",
          "pubDate" : "Tue, 19 Aug 2025 14:05:04",
          "title" : "Saint Louis Chess Club to Unveil New World-Class Facility With a Month of Historic Events, Legendary Matches, and U.S. & U.S. Women's Championships"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123380491.cms\" />In the Sinquefield Cup, R Praggnanandhaa triumphed over D Gukesh. Levon Aronian also secured a win against Nodirbek Abdusattorov. Other matches saw draws between Fabiano Caruana and Jan-Krzysztof Duda, Samuel Sevian and Wesley So, and Maxime Vachier-Lagrave and Alireza Firouzja. Praggnanandhaa and Aronian now lead the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-r-praggnanandhaa-outplays-d-gukesh/articleshow/123380491.cms",
-         "pubDate" : "Tue, 19 Aug 2025 07:01:20",
-         "title" : "Sinquefield Cup: R Praggnanandhaa outplays D Gukesh"
       },
       {
          "description" : "This week's puzzles look at some brilliant tactical moments from the 125th Annual U.S. Open. WGM Sabina Foisor's excellent coverage for Chess Life Online focused mainly on the top boards, but that doesn't mean she wasn't also keeping an eye on some more tactical highlights, the first batch of which we are pleased to share here. See yesterday's Tactics Tuesday on Chess Life Kids Online for even more exercises. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
