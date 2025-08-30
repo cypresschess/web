@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "I recently saw a YouTube short of Magnus Carlsen sharing one of the best advice he got early on in his career. It made me understand why so many amateur chess players feel they have to play several openings when there is absolutely no reason for it. He says this: \"Maybe the best advice I []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/chess-openings-for-adult-improvers/",
+         "pubDate" : "Sat, 30 Aug 2025 13:00:00",
+         "title" : "Why Playing Many Different Openings Won't Work For You"
+      },
+      {
          "description" : "Thirty years ago, on August 30, 1995, Soviet Grandmaster Lev Polugaevsky died in Paris from cancer. To commemorate the renowned theoretician, who for many years was among the world's leading players, Johannes Fischer takes a look at his book \"Grandmaster Preparation\", in which Polugaevsky recounts his decades-long passion for the line that bears his name: the Polugaevsky Variation of the Najdorf. | Photo: Anefo / Croes, R.C.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/a-love-story-lev-polugaevsky-s-grandmaster-preparation",
          "pubDate" : "Sat, 30 Aug 2025 13:00:00",
          "title" : "A Love Story: Lev Polugaevsky's \"Grandmaster Preparation\""
+      },
+      {
+         "description" : "No Name1 Diva Zalani2 Rupinder Kumar3 Harikrishan Prajapati4 Prince Lobo5 Md. Shahid6 Avinya Mohan Singh7 Kumar Bansal8 Singh Gursher9 Samneet Munde10 Dinesh Kumar11 Neha Supinder",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-sna-seminar-and-exam-held-in-bathinda-on-15-16-august-2025/",
+         "pubDate" : "Sat, 30 Aug 2025 12:54:04",
+         "title" : "Certificate of SNA seminar and Exam held in Bathinda on 15 & 16 August 2025"
+      },
+      {
+         "description" : "The 2025 British Chess Championship, held in Liverpool earlier this month, ended with a reminder that age still counts for something. The winner was 53-year-old Michael (\"Mickey\") Adams, taking his ninth national title. His opponent in the final play-off was 58-year-old Stuart Conquest, also a former champion. Between them they had beaten a string of []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/senior-moments/",
+         "pubDate" : "Sat, 30 Aug 2025 12:17:54",
+         "title" : "Senior moments "
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123600890.cms\" />A video shows a Chinese man analysing his chess loss in the rain. Grandmaster Hans Niemann shared a similar experience. Anish Giri joked about his rain-free victory. Niemann criticised the American chess system, praising India's support for players. Divya Deshmukh received a Rs 3 crore prize for her chess achievements. Chess passion continues to inspire globally.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viral-video-chinese-chess-player-spends-4-hours-in-heavy-rain-after-loss-hans-niemann-anish-giri-react/articleshow/123600890.cms",
+         "pubDate" : "Sat, 30 Aug 2025 11:39:01",
+         "title" : "Watch: Chinese chess player spends 4 hours in heavy rain after loss; GMs react"
       },
       {
          "description" : "\"The training sessions with GM Ganguly are fun!\" concludes the reviewer. Christian Hoethe explains why this Ragozin course is not only instructive but also engaging for Nimzo-Indian players, and highlights what makes the author so effective in conveying the subtleties and specific lines of the opening.",
@@ -738,14 +770,6 @@ news_feed (
          "title" : "Hou Yifan Storms Into Women's Speed Chess Championship Final"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123408753.cms\" />Indian chess player R Praggnanandhaa has achieved a milestone. He defeated D Gukesh at the Sinquefield Cup. Praggnanandhaa is now ranked World No. 3. He has a live rating of 2784.1 points. Only Magnus Carlsen and Hikaru Nakamura are ahead of him. Praggnanandhaa shares the tournament lead with Levon Aronian. The Sinquefield Cup has a prize pool of USD 350,000.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/historic-r-praggnanandhaa-becomes-new-world-no-3-after-beating-d-gukesh-at-sinquefield-cup-chess-tournament/articleshow/123408753.cms",
-         "pubDate" : "Wed, 20 Aug 2025 11:26:26",
-         "title" : "Praggnanandhaa becomes new World No. 3 after beating Gukesh - who holds the top spots?"
-      },
-      {
          "description" : "On August 19, for the second time in less than two years, GM Magnus Carlsen swept both Titled Tuesdays on a single day. Carlsen also won last week&#39;s late event, giving him three in a row overall. He won both of today&#39;s events outright, including a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -914,14 +938,6 @@ news_feed (
          "title" : "Which is chess' most important format? Frequent switching raises questions"
       },
       {
-         "description" : "On behalf of All India Chess Federation , All J &#38; K Chess Association is organizing Senior National Arbiters Seminar &#38; Exam on 06 &#38; 07 September",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-in-jammu-on-06-07-september-2025/",
-         "pubDate" : "Wed, 13 Aug 2025 08:37:46",
-         "title" : "Senior National Arbiter Seminar & Examination in Jammu on 06 & 07 September 2025"
-      },
-      {
          "description" : "\"Chess is a very important part of your life, but it can't really be everything,\" says USA's Awonder Liang.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -952,14 +968,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/michael-adams-grabs-his-ninth-british-chess-championship-title",
          "pubDate" : "Sun, 10 Aug 2025 19:01:00",
          "title" : "Michael Adams grabs his ninth British Chess Championship title - 9"
-      },
-      {
-         "description" : "Hey everyone, this is a very personal one. I wrote it both as a reminder for myself, and for anyone else struggling with too high expectations. They are slowly but surely burning us out and eating us from inside. Let me tell you: You are enough. You are not your rating. Chess rating doesn't determine []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/you-are-not-your-rating/",
-         "pubDate" : "Sat, 09 Aug 2025 13:00:00",
-         "title" : "You Are Not Your Rating"
       }
    ]
 }
