@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Thirty years ago, on August 30, 1995, Soviet Grandmaster Lev Polugaevsky died in Paris from cancer. To commemorate the renowned theoretician, who for many years was among the world's leading players, Johannes Fischer takes a look at his book \"Grandmaster Preparation\", in which Polugaevsky recounts his decades-long passion for the line that bears his name: the Polugaevsky Variation of the Najdorf. | Photo: Anefo / Croes, R.C.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-love-story-lev-polugaevsky-s-grandmaster-preparation",
+         "pubDate" : "Sat, 30 Aug 2025 13:00:00",
+         "title" : "A Love Story: Lev Polugaevsky's \"Grandmaster Preparation\""
+      },
+      {
          "description" : "\"The training sessions with GM Ganguly are fun!\" concludes the reviewer. Christian Hoethe explains why this Ragozin course is not only instructive but also engaging for Nimzo-Indian players, and highlights what makes the author so effective in conveying the subtleties and specific lines of the opening.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -952,30 +960,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/you-are-not-your-rating/",
          "pubDate" : "Sat, 09 Aug 2025 13:00:00",
          "title" : "You Are Not Your Rating"
-      },
-      {
-         "description" : "With his peers leapfrogging him in classical chess, Nihal Sarin has turned to GM Vishnu Prasanna to aid him.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45931811/nihal-sarin-speed-demon-turns-gukesh-old-trainer-fix-classical-stagnation-chennai-grand-masters-2025?device=featurephone",
-         "pubDate" : "Sat, 9 Aug 2025 10:50:00",
-         "title" : "'Speed demon' Nihal Sarin turns to Gukesh's old trainer to fix Classical stagnation"
-      },
-      {
-         "description" : "The indefatigable Malcolm Pein has pulled off a remarkable organisational feat in arranging at short notice for the world rapid and blitz team championships to be staged in London. In fact the venue was the Novotel in Hammersmith, scene of a great Tony Miles tournament triumph in 1975, and my choice for the second Mind []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/malcolm-pein-chess-impresario/",
-         "pubDate" : "Sat, 09 Aug 2025 09:40:59",
-         "title" : "Malcolm Pein: chess impresario"
-      },
-      {
-         "description" : "The 24th European Youth Rapid and Blitz Chess Championships 2025 concluded in Thessaloniki, Greece. More than 450 players coming from 36 European federations competed in the Championship which was played from 5-7 August at the *****Porto Palace Hotel Thessaloniki. The first on the schedule was European Youth Rapid Chess Championship 2025 which was played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each tournament was played in 9 rounds, swiss system. The []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-rapid-and-blitz-chess-champions-2025-crowned-in-greece/",
-         "pubDate" : "Sat, 09 Aug 2025 08:12:07",
-         "title" : "European Youth Rapid and Blitz Chess Champions 2025 crowned in Greece"
       }
    ]
 }
