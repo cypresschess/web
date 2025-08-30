@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"The training sessions with GM Ganguly are fun!\" concludes the reviewer. Christian Hoethe explains why this Ragozin course is not only instructive but also engaging for Nimzo-Indian players, and highlights what makes the author so effective in conveying the subtleties and specific lines of the opening.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reinvented-ragozin-by-surya-ganguly-a-review",
+         "pubDate" : "Sat, 30 Aug 2025 09:00:00",
+         "title" : "\"Reinvented Ragozin\" by Surya Ganguly - a review"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123595743.cms\" />Following Magnus Carlsen's controversial exit from the FIDE World Rapid Championship after being fined for wearing jeans, FIDE has updated its dress code. The new regulations now permit \"appropriate jeans\" in blue, black, and grey at the upcoming Grand Swiss and Women's Grand Swiss tournaments in September.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-updates-dress-code-for-grand-swiss-includes-appropriate-jeans-after-magnus-carlsen-controversy/articleshow/123595743.cms",
+         "pubDate" : "Sat, 30 Aug 2025 05:10:41",
+         "title" : "FIDE updates dress code, includes 'appropriate jeans' after Carlsen controversy"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123595447.cms\" />Grandmaster Kirill Shevchenko has been handed a three-year ban from FIDE-rated events and lost his Grandmaster title after confessing to hiding a phone during the Spanish Team Championship in October 2024. Tournament officials discovered the phone, prompting an investigation after concerns were raised about Shevchenko's absences.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-strips-grandmaster-title-of-player-for-cheating-banned-for-three-years/articleshow/123595447.cms",
+         "pubDate" : "Sat, 30 Aug 2025 04:11:06",
+         "title" : "FIDE strips Grandmaster title of player for cheating, banned for three years"
+      },
+      {
          "description" : "The World Chess Hall of Fame & Galleries will open its newest exhibition, \"Reading Between the Lines: Chess & Literature\", on 18 September 2025. Running through 12 April 2026, the show explores how chess has shaped storytelling across centuries, from Lewis Carroll to Vladimir Nabokov and Walter Tevis. With rare books, artworks, artefacts and literary-themed chess sets, the exhibition highlights how the game has been used to explore imagination, morality and identity.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -712,22 +736,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/historic-r-praggnanandhaa-becomes-new-world-no-3-after-beating-d-gukesh-at-sinquefield-cup-chess-tournament/articleshow/123408753.cms",
          "pubDate" : "Wed, 20 Aug 2025 11:26:26",
          "title" : "Praggnanandhaa becomes new World No. 3 after beating Gukesh - who holds the top spots?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123408102.cms\" />Chess legends Viswanathan Anand and Garry Kasparov are set to reignite their rivalry in Clutch Chess exhibition matches this October in St Louis. The event also features a highly anticipated clash between current world champion D Gukesh and Magnus Carlsen. The matches will be held in an enhanced facility, reaffirming St. Louis's position as a global chess capital.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-legends-face-off-viswanathan-anand-takes-on-garry-kasparov-magnus-carlsen-to-face-d-gukesh-all-you-need-to-know/articleshow/123408102.cms",
-         "pubDate" : "Wed, 20 Aug 2025 10:52:23",
-         "title" : "Anand takes on Kasparov, Carlsen to face Gukesh: All you need to know"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123406846.cms\" />A social media clash erupted between Anish Giri and Peter Heine Nielsen after Giri commented on D Gukesh's drawing tendencies. Nielsen criticised Giri's view on player mentality, sparking a heated exchange where Giri referenced Carlsen's playing style and Nielsen's alleged bias. Despite the feud, Giri remains in strong form, recently finishing as runner-up in the Chennai Grand Masters 2025.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-drama-dutch-no-1-anish-giri-blocks-magnus-carlsens-long-time-coach-on-social-media-i-still-mostly-like-him/articleshow/123406846.cms",
-         "pubDate" : "Wed, 20 Aug 2025 10:20:23",
-         "title" : "Drama! Dutch No. 1 Giri blocks Carlsen's long-time coach on social media"
       },
       {
          "description" : "On August 19, for the second time in less than two years, GM Magnus Carlsen swept both Titled Tuesdays on a single day. Carlsen also won last week&#39;s late event, giving him three in a row overall. He won both of today&#39;s events outright, including a...",
