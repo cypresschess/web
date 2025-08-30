@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Circuit is entering its decisive months, with Praggnanandhaa Rameshbabu holding a commanding lead mainly thanks to victories earlier this year in Wijk aan Zee, Bucharest and Tashkent. With 107 points, he sits well ahead of Anish Giri and Nodirbek Abdusattorov, his closest pursuers. Attention now turns to the Grand Swiss in Samarkand, where results will both influence the Circuit standings and play a key role in shaping the Candidates lineup. | Photo: Lennart Ootes / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-circuit-2025-august-standings",
+         "pubDate" : "Sat, 30 Aug 2025 21:00:00",
+         "title" : "FIDE Circuit: Pragg, Giri and Abdusattorov atop the leaderboard"
+      },
+      {
          "description" : "I recently saw a YouTube short of Magnus Carlsen sharing one of the best advice he got early on in his career. It made me understand why so many amateur chess players feel they have to play several openings when there is absolutely no reason for it. He says this: \"Maybe the best advice I []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -42,14 +50,6 @@ news_feed (
          "title" : "Watch: Chinese chess player spends 4 hours in heavy rain after loss; GMs react"
       },
       {
-         "description" : "\"The training sessions with GM Ganguly are fun!\" concludes the reviewer. Christian Hoethe explains why this Ragozin course is not only instructive but also engaging for Nimzo-Indian players, and highlights what makes the author so effective in conveying the subtleties and specific lines of the opening.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reinvented-ragozin-by-surya-ganguly-a-review",
-         "pubDate" : "Sat, 30 Aug 2025 09:00:00",
-         "title" : "\"Reinvented Ragozin\" by Surya Ganguly - a review"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123595743.cms\" />Following Magnus Carlsen's controversial exit from the FIDE World Rapid Championship after being fined for wearing jeans, FIDE has updated its dress code. The new regulations now permit \"appropriate jeans\" in blue, black, and grey at the upcoming Grand Swiss and Women's Grand Swiss tournaments in September.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -66,28 +66,12 @@ news_feed (
          "title" : "FIDE strips Grandmaster title of player for cheating, banned for three years"
       },
       {
-         "description" : "The World Chess Hall of Fame & Galleries will open its newest exhibition, \"Reading Between the Lines: Chess & Literature\", on 18 September 2025. Running through 12 April 2026, the show explores how chess has shaped storytelling across centuries, from Lewis Carroll to Vladimir Nabokov and Walter Tevis. With rare books, artworks, artefacts and literary-themed chess sets, the exhibition highlights how the game has been used to explore imagination, morality and identity.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reading-between-the-line-world-chess-hof",
-         "pubDate" : "Fri, 29 Aug 2025 21:00:00",
-         "title" : "New exhibition at the World Chess Hall of Fame: \"Reading Between the Lines: Chess & Literature\""
-      },
-      {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-26th-august-2025\">Titled Tuesday Blitz for the 26th August</a> was the last under the current format. This Chess.com event has run since 2014 and has had an early and late section since 2022. From the 2nd September there will be just one Titled Tuesday Blitz each week, it will take place at 11am Eastern Standard Time, 17:00 Central European Time and 20:30 Indian time. Other changes include a move to five minutes per game and a weekly live show produced by the chess app \"Take Take Take\". Titled Tuesday will be part of Chess.com's qualification process for the Esports World Cup (EWC) which will take place in Riddah ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/chess.com-make-changes-to-titled-tuesday-announce-take-take-take-agreement-and-ewc-qualification-process",
          "pubDate" : "Fri, 29 Aug 2025 18:05:00",
          "title" : "Chess.com make changes to Titled Tuesday, announce \"Take Take Take\" agreement, and EWC qualification process - "
-      },
-      {
-         "description" : "The Global Chess League (GCL) has announced an unprecedented initiative with the launch of GCL Contenders 2025, a two-month global tournament that will open doors for amateurs and professionals alike. Three winners - one each from the Male, Female and U21 categories - will secure lifetime opportunities as ambassadors for GCL Season 3, set to begin on 13 December. Registration opens on 28 August, with the event providing a direct pathway for grassroots talent to compete alongside the world's elite Grandmasters.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-gcl-contenders",
-         "pubDate" : "Fri, 29 Aug 2025 16:00:00",
-         "title" : "Global Chess League launches GCL Contenders 2025"
       },
       {
          "description" : "GM Oleksandr Bortnyk won his fourth Freestyle Friday on August 29, moving past GM Arjun Erigaisi for the second-most in the tournament&#39;s brief history, trailing only GM Hikaru Nakamura. It was Nakamura who finished second this week, half a point b...",
