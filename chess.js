@@ -968,14 +968,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapid-and-blitz-chess-champions-2025-crowned-in-greece/",
          "pubDate" : "Sat, 09 Aug 2025 08:12:07",
          "title" : "European Youth Rapid and Blitz Chess Champions 2025 crowned in Greece"
-      },
-      {
-         "description" : "For the first time, Harika's daughter Hanvika is experiencing her mother's world around the chess board.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45926600/harika-dronavalli-plays-chennai-grand-masters-daughter-hanvika-happy-witness-my-life-way?device=featurephone",
-         "pubDate" : "Sat, 9 Aug 2025 00:00:00",
-         "title" : "Harika Dronavalli plays Chennai Grand Masters with 2-year-old daughter: 'Happy she could witness my life in a way'"
       }
    ]
 }
