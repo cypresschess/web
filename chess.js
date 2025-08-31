@@ -968,22 +968,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/5th-ipca-european-individual-chess-championship/",
          "pubDate" : "Mon, 11 Aug 2025 07:18:48",
          "title" : "5th IPCA European Individual Chess Championship"
-      },
-      {
-         "description" : " The 111th British Chess Championships took place in Liverpool Saturday 2nd to Sunday 10th August 2025. Top seeds Nikita Vitiugov, Michael Adams, Gawain Maroroa Jones, Stuart C Conquest Ameet K Ghasi etc. Michael Adams won his 9th title after beating Stuart Conquest (who had to beat Peter Roberson first) in a three way tie-break match. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/111th-british-chess-championships-2025",
-         "pubDate" : "Sun, 10 Aug 2025 19:06:00",
-         "title" : "111th British Chess Championships 2025 - Games and Results"
-      },
-      {
-         "description" : " Michael Adams won the <a href=\"https://theweekinchess.com/chessnews/events/111th-british-chess-championships-2025\">111th British Chess Championships</a> which took place in Liverpool. Adams had been the long term leader but was in a six way tie for first at the start of the final round, he won but so did two of his rivals and the tournament was settled in a tie-break. Unusually six of the top seven pairings were decisive including all the games amongst the six leaders. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/michael-adams-grabs-his-ninth-british-chess-championship-title",
-         "pubDate" : "Sun, 10 Aug 2025 19:01:00",
-         "title" : "Michael Adams grabs his ninth British Chess Championship title - 9"
       }
    ]
 }
