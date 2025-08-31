@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "How to use ChessBase 18 effectively in training - that is the subject of this three-part series in our tutorial line. Using it effectively also means being able to send your files to your training group, since the material you created in the earlier parts should, after all, be made available to your students in a useful way. ChessBase 18 offers several practical methods for doing this, which we explain in this part.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-29-creating-effective-training-material-part-3",
+         "pubDate" : "Sun, 31 Aug 2025 07:00:00",
+         "title" : "ChessBase 18 - Tips for beginners, part 29: Creating Effective Training Material (Part 3)"
+      },
+      {
          "description" : "A turning point arrived in round seven of the Fujairah Global Chess Championship's Superstars event, as Pranav Venkatesh defeated Amin Tabatabaei to become the sole leader on 5&frac12; points. The chasing group, now a point behind, includes Zhu Jiner, who remained unbeaten with a steady draw against Sanan Sjugirov. Also among them is Pranav's next rival, 16-year-old Abhimanyu Mishra, who let a winning chance slip in a lengthy battle against Aydin Suleymanli. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
