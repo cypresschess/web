@@ -2,44 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Grand Swiss, one of the most competitive events in the chess calendar, has been held three times so far, each edition producing distinct winners in both the open and women's sections. In the open, the champions were Wang Hao, Alireza Firouzja and Vidit Gujrathi. The women's tournaments, introduced in 2021, saw victories for Lei Tingjie and Vaishali Rameshbabu. The much anticipated 2025 edition is scheduled to begin on Thursday, 4 September. | Photo: Anna Shtourman / FIDE Grand Swiss 2023",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-earlier-editions",
+         "pubDate" : "Sun, 31 Aug 2025 23:50:00",
+         "title" : "The first three editions of the Grand Swiss: High stakes, extreme competitiveness"
+      },
+      {
          "description" : "ChessBase Magazine offers a window to the world of professional chess. Our columnist Nagesh Havanur takes a look at CBM 226. All games from the European Championship, 27 annotated games, 11 opening surveys, 4 opening videos, 7 demo lectures and several exercises for training. Annotators include two-time European champion Matthias Bluebaum (pictured), Frederik Svane, Daniil Yuffa, Maxim Rodshtein and Gabriel Sargissian, among others. | Photo: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/cbm-226-review-nagesh-havanur",
          "pubDate" : "Sun, 31 Aug 2025 16:00:00",
          "title" : "CBM 226: The play's the thing"
-      },
-      {
-         "description" : "In this Smart Moves episode, Svitlana explains the Stonewall pawn structure, most often arising from the Dutch Defense, and outlines key strategic plans for both sides. White aims to control the e5 square, trade dark-squared bishops, and expand on the queenside with ideas like c4-b4, while Black typically seeks kingside play with a knight on e4, improving the bad bishop via maneuvers, or breaking with c5. She then illustrates these concepts through a model game by Jon Ludvig Hammer, showing how White successfully opened the c-file, traded bishops, exploited weaknesses, and converted into a winning endgame - demonstrating both the strengths and vulnerabilities of the Stonewall.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-secrets-of-the-stonewall-pawn-structure",
-         "pubDate" : "Sun, 31 Aug 2025 13:00:00",
-         "title" : "Svitlana's Smart Moves - The Secrets of the Stonewall Pawn Structure"
-      },
-      {
-         "description" : "How to use ChessBase 18 effectively in training - that is the subject of this three-part series in our tutorial line. Using it effectively also means being able to send your files to your training group, since the material you created in the earlier parts should, after all, be made available to your students in a useful way. ChessBase 18 offers several practical methods for doing this, which we explain in this part.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-29-creating-effective-training-material-part-3",
-         "pubDate" : "Sun, 31 Aug 2025 07:00:00",
-         "title" : "ChessBase 18 - Tips for beginners, part 29: Creating Effective Training Material (Part 3)"
-      },
-      {
-         "description" : "A turning point arrived in round seven of the Fujairah Global Chess Championship's Superstars event, as Pranav Venkatesh defeated Amin Tabatabaei to become the sole leader on 5&frac12; points. The chasing group, now a point behind, includes Zhu Jiner, who remained unbeaten with a steady draw against Sanan Sjugirov. Also among them is Pranav's next rival, 16-year-old Abhimanyu Mishra, who let a winning chance slip in a lengthy battle against Aydin Suleymanli. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fujairah-superstars-2025-r7",
-         "pubDate" : "Sun, 31 Aug 2025 02:50:00",
-         "title" : "Fujairah Superstars: Pranav beats Tabatabaei, becomes sole leader"
-      },
-      {
-         "description" : "The 2025 FIDE Circuit is entering its decisive months, with Praggnanandhaa Rameshbabu holding a commanding lead mainly thanks to victories earlier this year in Wijk aan Zee, Bucharest and Tashkent. With 107 points, he sits well ahead of Anish Giri and Nodirbek Abdusattorov, his closest pursuers. Attention now turns to the Grand Swiss in Samarkand, where results will both influence the Circuit standings and play a key role in shaping the Candidates lineup. | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-circuit-2025-august-standings",
-         "pubDate" : "Sat, 30 Aug 2025 21:00:00",
-         "title" : "FIDE Circuit: Pragg, Giri and Abdusattorov atop the leaderboard"
       },
       {
          "description" : "GM Daniel Naroditsky scooped up his 31st Bullet Brawl title and the event&#39;s $400 first prize on Saturday after outpacing 119 titled players for the second week in a row. An electric 15/16 start helped the 29-year-old commentator amass an unassaila...",
@@ -56,14 +32,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/chess-openings-for-adult-improvers/",
          "pubDate" : "Sat, 30 Aug 2025 13:00:00",
          "title" : "Why Playing Many Different Openings Won't Work For You"
-      },
-      {
-         "description" : "Thirty years ago, on August 30, 1995, Soviet Grandmaster Lev Polugaevsky died in Paris from cancer. To commemorate the renowned theoretician, who for many years was among the world's leading players, Johannes Fischer takes a look at his book \"Grandmaster Preparation\", in which Polugaevsky recounts his decades-long passion for the line that bears his name: the Polugaevsky Variation of the Najdorf. | Photo: Anefo / Croes, R.C.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-love-story-lev-polugaevsky-s-grandmaster-preparation",
-         "pubDate" : "Sat, 30 Aug 2025 13:00:00",
-         "title" : "A Love Story: Lev Polugaevsky's \"Grandmaster Preparation\""
       },
       {
          "description" : "No Name1 Diva Zalani2 Rupinder Kumar3 Harikrishan Prajapati4 Prince Lobo5 Md. Shahid6 Avinya Mohan Singh7 Kumar Bansal8 Singh Gursher9 Samneet Munde10 Dinesh Kumar11 Neha Supinder",
