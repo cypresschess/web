@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Magazine offers a window to the world of professional chess. Our columnist Nagesh Havanur takes a look at CBM 226. All games from the European Championship, 27 annotated games, 11 opening surveys, 4 opening videos, 7 demo lectures and several exercises for training. Annotators include two-time European champion Matthias Bluebaum (pictured), Frederik Svane, Daniil Yuffa, Maxim Rodshtein and Gabriel Sargissian, among others. | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-226-review-nagesh-havanur",
+         "pubDate" : "Sun, 31 Aug 2025 16:00:00",
+         "title" : "CBM 226: The play's the thing"
+      },
+      {
          "description" : "In this Smart Moves episode, Svitlana explains the Stonewall pawn structure, most often arising from the Dutch Defense, and outlines key strategic plans for both sides. White aims to control the e5 square, trade dark-squared bishops, and expand on the queenside with ideas like c4-b4, while Black typically seeks kingside play with a knight on e4, improving the bad bishop via maneuvers, or breaking with c5. She then illustrates these concepts through a model game by Jon Ludvig Hammer, showing how White successfully opened the c-file, traded bishops, exploited weaknesses, and converted into a winning endgame - demonstrating both the strengths and vulnerabilities of the Stonewall.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
