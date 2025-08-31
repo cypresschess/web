@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A turning point arrived in round seven of the Fujairah Global Chess Championship's Superstars event, as Pranav Venkatesh defeated Amin Tabatabaei to become the sole leader on 5&frac12; points. The chasing group, now a point behind, includes Zhu Jiner, who remained unbeaten with a steady draw against Sanan Sjugirov. Also among them is Pranav's next rival, 16-year-old Abhimanyu Mishra, who let a winning chance slip in a lengthy battle against Aydin Suleymanli. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fujairah-superstars-2025-r7",
+         "pubDate" : "Sun, 31 Aug 2025 02:50:00",
+         "title" : "Fujairah Superstars: Pranav beats Tabatabaei, becomes sole leader"
+      },
+      {
          "description" : "The 2025 FIDE Circuit is entering its decisive months, with Praggnanandhaa Rameshbabu holding a commanding lead mainly thanks to victories earlier this year in Wijk aan Zee, Bucharest and Tashkent. With 107 points, he sits well ahead of Anish Giri and Nodirbek Abdusattorov, his closest pursuers. Attention now turns to the Grand Swiss in Samarkand, where results will both influence the Circuit standings and play a key role in shaping the Candidates lineup. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-circuit-2025-august-standings",
          "pubDate" : "Sat, 30 Aug 2025 21:00:00",
          "title" : "FIDE Circuit: Pragg, Giri and Abdusattorov atop the leaderboard"
+      },
+      {
+         "description" : "GM Daniel Naroditsky scooped up his 31st Bullet Brawl title and the event&#39;s $400 first prize on Saturday after outpacing 119 titled players for the second week in a row. An electric 15/16 start helped the 29-year-old commentator amass an unassaila...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-aug-30-2025",
+         "pubDate" : "Sat, 30 Aug 2025 18:23:00",
+         "title" : "Naroditsky Triumphs In Back-To-Back Bullet Brawls"
       },
       {
          "description" : "I recently saw a YouTube short of Magnus Carlsen sharing one of the best advice he got early on in his career. It made me understand why so many amateur chess players feel they have to play several openings when there is absolutely no reason for it. He says this: \"Maybe the best advice I []",
@@ -776,14 +792,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-union-youth-chess-championship-2025-has-started/",
          "pubDate" : "Tue, 19 Aug 2025 20:07:39",
          "title" : "European Union Youth Chess Championship 2025 has started"
-      },
-      {
-         "description" : "GM Alireza Firouzja has joined GMs Levon Aronian and Praggnanandhaa Rameshbabu in leading the 2025 Sinquefield Cup after two rounds. He survived another difficult position, against GM Jan-Krzysztof Duda, and even managed to win the 100-move marath...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-2",
-         "pubDate" : "Tue, 19 Aug 2025 17:46:00",
-         "title" : "Firouzja Joins Leaders, Gukesh Bounces Back"
       },
       {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/12th-sinquefield-cup-2025\">Sinquefield Cup</a> started with two decisive games. Levon Aronian on the back of his rapid and blitz win beat Nodirbek Abdusattorov in a full blooded struggle. Praggnanandhaa scored a very convincing win against Gukesh. MVL was much better on the board and clock against Alireza Firouzja but allowed him to escape. Sam Sevian briefly had a winning position against Wesley So and Fabiano Caruana pushed a little against Jan-Krzysztof Duda but never seemed to have very much. ",
