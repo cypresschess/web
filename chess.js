@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this Smart Moves episode, Svitlana explains the Stonewall pawn structure, most often arising from the Dutch Defense, and outlines key strategic plans for both sides. White aims to control the e5 square, trade dark-squared bishops, and expand on the queenside with ideas like c4-b4, while Black typically seeks kingside play with a knight on e4, improving the bad bishop via maneuvers, or breaking with c5. She then illustrates these concepts through a model game by Jon Ludvig Hammer, showing how White successfully opened the c-file, traded bishops, exploited weaknesses, and converted into a winning endgame - demonstrating both the strengths and vulnerabilities of the Stonewall.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-secrets-of-the-stonewall-pawn-structure",
+         "pubDate" : "Sun, 31 Aug 2025 13:00:00",
+         "title" : "Svitlana's Smart Moves - The Secrets of the Stonewall Pawn Structure"
+      },
+      {
          "description" : "How to use ChessBase 18 effectively in training - that is the subject of this three-part series in our tutorial line. Using it effectively also means being able to send your files to your training group, since the material you created in the earlier parts should, after all, be made available to your students in a useful way. ChessBase 18 offers several practical methods for doing this, which we explain in this part.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
