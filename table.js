@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-08-31","20","<a href=http://www.uschess.org/msa/XtblMain.php?202508311782 target='_blank'>BELLAIRE SUNDAY SWISS 8/31/2025</a>",
 "HOUSTON","2025-08-30","12","<a href=http://www.uschess.org/msa/XtblMain.php?202508301152 target='_blank'>CHESSPANDA08302025SATURDAY</a>",
 "HOUSTON","2025-08-30","74","<a href=http://www.uschess.org/msa/XtblMain.php?202508301132 target='_blank'>TCR: CLUTCH CITY OPEN</a>",
 "HOUSTON","2025-08-30","75","<a href=http://www.uschess.org/msa/XtblMain.php?202508300952 target='_blank'>TCR: CLUTCH CITY SCHOLASTIC</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2025-02-22","10","<a href=http://www.uschess.org/msa/XtblMain.php?202502225802 target='_blank'>CHESSPANDA02222025SATURDAY</a>",
 "SPRING","2025-02-21","33","<a href=http://www.uschess.org/msa/XtblMain.php?202502215312 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-02-21","26","<a href=http://www.uschess.org/msa/XtblMain.php?202502215272 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SUGAR LAND","2025-02-21","12","<a href=http://www.uschess.org/msa/XtblMain.php?202502215262 target='_blank'>FBCC 2025 RANDOM ACTS OF KINDNESS W</a>",
 ]);
