@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123640609.cms\" />Rameshbabu Praggnanandhaa maintains his position as a top player. He is currently ranked fourth in the world. Vincent Keymer makes a significant jump in the rankings. He enters the top ten for the first time. Keymer's rise pushes him past chess legends. Nodirbek Abdusattorov experiences a drop in ranking. Wesley So improves his standing after a tournament win.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-fide-releases-september-rating-lists-r-praggnanandhaa-remains-india-no-1/articleshow/123640609.cms",
+         "pubDate" : "Mon, 01 Sep 2025 17:50:46",
+         "title" : "FIDE releases September rating lists; Pragg remains India no. 1"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123639814.cms\" />Pranav Venkatesh triumphed in the Superstars section of the Fujairah Global Chess 2025, held in UAE. He secured victory with an aggressive final-round win, finishing with 7.0/9 points. Prior to this, the 2025 World Junior Champion earned a spot in the FIDE Grand Swiss by winning the \"Asian Wildcard Match\"Z against GM Kazybek Nogerbek.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pranav-venkatesh-2025-world-junior-champion-clinches-fujairah-global-chess-title-ahead-of-grand-swiss-challenge/articleshow/123639814.cms",
+         "pubDate" : "Mon, 01 Sep 2025 17:20:28",
+         "title" : "18-yo Pranav V strikes again! World Jr Champion clinches Fujairah title"
+      },
+      {
          "description" : "Under the heading \"FIDE Grand Swiss 2025: Updated dress code offers more flexibility\", FIDE has introduced a new, more liberal dress code for the upcoming Grand Swiss tournament in Samarkand, which starts on 3 September. Now, 'classic jeans' (not ripped ones) are also permitted. Plain trainers may also be worn. Elastane has always been permitted.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/final-decision-kirill-shevchenko-cheating",
          "pubDate" : "Mon, 01 Sep 2025 11:48:43",
          "title" : "FIDE announces final decision on Shevchenko's case: GM title revoked and three-year ban"
+      },
+      {
+         "description" : "You&#38;rsquo;ve played with them, now play against them. This month&#38;rsquo;s bot challenge is to square off against the pieces themselves! Can you beat them at their own game? Go to our Play Computer page and find out! The Pawn Playing strength: ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chess-pieces-bots",
+         "pubDate" : "Mon, 01 Sep 2025 10:30:00",
+         "title" : "September Bot Challenge: You Want a Piece of This?"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123632496.cms\" />FIDE CEO Emil Sutovsky refuted Hikaru Nakamura's claims that the Candidates' rating qualification spot was designed for Magnus Carlsen's potential return. Sutovsky clarified that the rule has existed for years and now benefits top players like Nakamura. He emphasised the spot ensures the inclusion of the world's best, not specifically targeting Carlsen, whose return is deemed unlikely. ",
@@ -658,14 +682,6 @@ news_feed (
          "title" : "Report :FIDE World Youth U-16 Chess Olympiad at Barranquilla, Colombia from 17th August to 22nd August 2025."
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123465804.cms\" />Chess legends Viswanathan Anand and Garry Kasparov are set to reignite their historic rivalry in St. Louis this October, headlining the Clutch Chess series. Adding to the excitement, current world champion D Gukesh will face off against Magnus Carlsen. Kasparov, while acknowledging Gukesh's title win, suggests Carlsen remains the strongest player, sparking debate about the current world championship landscape.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-legends-return-garry-kasparov-teases-viswanathan-anand-ahead-of-mega-clash-i-should-give-vishy-a-chance-to-/articleshow/123465804.cms",
-         "pubDate" : "Sat, 23 Aug 2025 04:29:16",
-         "title" : "Legends return! Kasparov teases Anand: 'I should give him a chance to ...'"
-      },
-      {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-5/\">POSTGAME ROUND 5: Five Draws, But All Interesting | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -800,14 +816,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/firouzja-and-gukesh-win-tricky-games-in-round-2-of-the-sinquefield-cup",
          "pubDate" : "Wed, 20 Aug 2025 15:49:00",
          "title" : "Firouzja and Gukesh win tricky games in Round 2 of the Sinquefield Cup - 2"
-      },
-      {
-         "description" : "The Saint Louis Chess Club will reopen its doors in October following a major renovation and expansion, and feature a clash between none other than former World Champions Garry Kasparov and Viswanathan Anand. The match is followed by a rapid event...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kasparov-vs-anand-st-louis-reopening-carlsen-heads-champions-showdown",
-         "pubDate" : "Wed, 20 Aug 2025 14:25:00",
-         "title" : "Kasparov, Anand To Face Off In St. Louis Match; Carlsen, Gukesh Headline Rapid Event"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-2/\">POSTGAME ROUND 2: Alireza Bests Duda in Epic Game! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
