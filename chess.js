@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kirill Shevchenko's bid to overturn sanctions for alleged cheating at the 2024 Spanish Team Championship has failed. The FIDE Ethics & Disciplinary Commission's Appeal Chamber has unanimously confirmed his guilt and strengthened the penalties originally imposed. The decision follows earlier controversy in Melilla, where the 22-year-old grandmaster was excluded after suspicions arose over repeated absences to the same toilet cubicle, with mobile phones later discovered and linked to him.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/final-decision-kirill-shevchenko-cheating",
+         "pubDate" : "Mon, 01 Sep 2025 11:48:43",
+         "title" : "FIDE announces final decision on Shevchenko's case: GM title revoked and three-year ban"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123632496.cms\" />FIDE CEO Emil Sutovsky refuted Hikaru Nakamura's claims that the Candidates' rating qualification spot was designed for Magnus Carlsen's potential return. Sutovsky clarified that the rule has existed for years and now benefits top players like Nakamura. He emphasised the spot ensures the inclusion of the world's best, not specifically targeting Carlsen, whose return is deemed unlikely. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-drama-fide-ceo-slams-hikaru-nakamuras-claims-of-magnus-carlsen-candidates-favouritism/articleshow/123632496.cms",
+         "pubDate" : "Mon, 01 Sep 2025 10:26:45",
+         "title" : "FIDE CEO slams Hikaru's claims of Carlsen Candidates favouritism"
+      },
+      {
          "description" : "Pranav Venkatesh kept the sole lead at the Fujairah Global Chess Championship after drawing with Abhimanyu Mishra in round eight, reaching 6 points. Two players closed in on the leader, as Brandon Jacobson defeated Aydin Suleymanli and Amin Tabatabaei (pictured) outplayed Andrew Hong, both moving to 5&frac12; points. In the final round, Pranav will face Alan Pichot, while Jacobson and Tabatabaei meet Nihal Sarin and Alexander Donchenko respectively, all with tournament victory still in sight. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -610,14 +626,6 @@ news_feed (
          "title" : "Legends return! Kasparov teases Anand: 'I should give him a chance to ...'"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123464822.cms\" />Garry Kasparov commented on Gukesh's recent world championship win during the Sinquefield Cup. Kasparov acknowledged Gukesh's victory but questioned his status as the strongest player. He contrasted Gukesh's title with those of past champions like Magnus Carlsen. Kasparov later apologised while standing by his opinion. He highlighted the excitement for future Candidates and world championship matches. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-under-fire-again-chess-legend-garry-kasparov-you-can-hardly-call-him-the-strongest-player-in-the-world/articleshow/123464822.cms",
-         "pubDate" : "Sat, 23 Aug 2025 02:51:24",
-         "title" : "Gukesh under fire! Chess legend Kasparov: 'Hardly call him the strongest'"
-      },
-      {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-5/\">POSTGAME ROUND 5: Five Draws, But All Interesting | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -928,14 +936,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45963789/which-chess-most-important-format-frequent-switching-raises-questions?device=featurephone",
          "pubDate" : "Wed, 13 Aug 2025 10:10:00",
          "title" : "Which is chess' most important format? Frequent switching raises questions"
-      },
-      {
-         "description" : "\"Chess is a very important part of your life, but it can't really be everything,\" says USA's Awonder Liang.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45942940/meet-awonder-liang-atypical-gm-hunting-chess-elite?device=featurephone",
-         "pubDate" : "Mon, 11 Aug 2025 08:20:00",
-         "title" : "Meet Awonder Liang: The atypical GM hunting chess' elite"
       }
    ]
 }
