@@ -42,14 +42,6 @@ news_feed (
          "title" : "Katowice to Host the European Individual Chess Championship 2026"
       },
       {
-         "description" : "Kirill Shevchenko's bid to overturn sanctions for alleged cheating at the 2024 Spanish Team Championship has failed. The FIDE Ethics & Disciplinary Commission's Appeal Chamber has unanimously confirmed his guilt and strengthened the penalties originally imposed. The decision follows earlier controversy in Melilla, where the 22-year-old grandmaster was excluded after suspicions arose over repeated absences to the same toilet cubicle, with mobile phones later discovered and linked to him.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/final-decision-kirill-shevchenko-cheating",
-         "pubDate" : "Mon, 01 Sep 2025 11:48:43",
-         "title" : "FIDE announces final decision on Shevchenko's case: GM title revoked and three-year ban"
-      },
-      {
          "description" : "You&#38;rsquo;ve played with them, now play against them. This month&#38;rsquo;s bot challenge is to square off against the pieces themselves! Can you beat them at their own game? Go to our Play Computer page and find out! The Pawn Playing strength: ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -82,14 +74,6 @@ news_feed (
          "title" : "Magnus Carlsen Makes G-Star Comeback Following 'Jeansgate' Dress Code Controversy"
       },
       {
-         "description" : "Pranav Venkatesh kept the sole lead at the Fujairah Global Chess Championship after drawing with Abhimanyu Mishra in round eight, reaching 6 points. Two players closed in on the leader, as Brandon Jacobson defeated Aydin Suleymanli and Amin Tabatabaei (pictured) outplayed Andrew Hong, both moving to 5&frac12; points. In the final round, Pranav will face Alan Pichot, while Jacobson and Tabatabaei meet Nihal Sarin and Alexander Donchenko respectively, all with tournament victory still in sight. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fujairah-superstars-2025-r8",
-         "pubDate" : "Mon, 01 Sep 2025 05:45:00",
-         "title" : "Fujairah Superstars: Jacobson and Tabatabaei score, remain in contention"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123627108.cms\" />In a recent announcement, FIDE punished Ukrainian Grandmaster Kirill Shevchenko for cheating during the Spanish Team Championship last October. Shevchenko's GM title was revoked, and he received a three-year ban after being caught with cell phones in the restrooms. Responding to player requests, FIDE also updated its dress code, now permitting jeans to be worn at Grand Swiss events.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -104,22 +88,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/history-5-year-old-aarini-lahoty-becomes-indias-youngest-with-fide-ratings-across-all-chess-formats/articleshow/123623449.cms",
          "pubDate" : "Mon, 01 Sep 2025 01:01:32",
          "title" : "History! 5-year-old Aarini Lahoty - India's youngest with FIDE ratings"
-      },
-      {
-         "description" : "The FIDE Grand Swiss, one of the most competitive events in the chess calendar, has been held three times so far, each edition producing distinct winners in both the open and women's sections. In the open, the champions were Wang Hao, Alireza Firouzja and Vidit Gujrathi. The women's tournaments, introduced in 2021, saw victories for Lei Tingjie and Vaishali Rameshbabu. The much anticipated 2025 edition is scheduled to begin on Thursday, 4 September. | Photo: Anna Shtourman / FIDE Grand Swiss 2023",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-earlier-editions",
-         "pubDate" : "Sun, 31 Aug 2025 23:50:00",
-         "title" : "The first three editions of the Grand Swiss: High stakes, extreme competitiveness"
-      },
-      {
-         "description" : "ChessBase Magazine offers a window to the world of professional chess. Our columnist Nagesh Havanur takes a look at CBM 226. All games from the European Championship, 27 annotated games, 11 opening surveys, 4 opening videos, 7 demo lectures and several exercises for training. Annotators include two-time European champion Matthias Bluebaum (pictured), Frederik Svane, Daniil Yuffa, Maxim Rodshtein and Gabriel Sargissian, among others. | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-226-review-nagesh-havanur",
-         "pubDate" : "Sun, 31 Aug 2025 16:00:00",
-         "title" : "CBM 226: The play's the thing"
       },
       {
          "description" : "GM Daniel Naroditsky scooped up his 31st Bullet Brawl title and the event&#39;s $400 first prize on Saturday after outpacing 119 titled players for the second week in a row. An electric 15/16 start helped the 29-year-old commentator amass an unassaila...",
