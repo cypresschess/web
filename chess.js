@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123623449.cms\" />Aarini Lahoty, a five-year-old chess prodigy from Delhi, has made history as the youngest Indian player to achieve FIDE ratings in classical, rapid, and blitz formats. Born in 2019, she is the first from her age group to accomplish this feat, holding impressive ratings across all three categories.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/history-5-year-old-aarini-lahoty-becomes-indias-youngest-with-fide-ratings-across-all-chess-formats/articleshow/123623449.cms",
+         "pubDate" : "Mon, 01 Sep 2025 01:01:32",
+         "title" : "History! 5-year-old Aarini Lahoty - India's youngest with FIDE ratings"
+      },
+      {
          "description" : "The FIDE Grand Swiss, one of the most competitive events in the chess calendar, has been held three times so far, each edition producing distinct winners in both the open and women's sections. In the open, the champions were Wang Hao, Alireza Firouzja and Vidit Gujrathi. The women's tournaments, introduced in 2021, saw victories for Lei Tingjie and Vaishali Rameshbabu. The much anticipated 2025 edition is scheduled to begin on Thursday, 4 September. | Photo: Anna Shtourman / FIDE Grand Swiss 2023",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -704,14 +712,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/abrahamyan-plays-best-tournament-of-career-earns-im-title-gm-norm",
          "pubDate" : "Thu, 21 Aug 2025 09:02:00",
          "title" : "Abrahamyan Plays 'Best Tournament of Career', Earns IM Title, GM Norm"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123423351.cms\" />In the Sinquefield Cup's third round, D Gukesh and R Praggnanandhaa drew their games, while Fabiano Caruana secured a crucial victory against Alireza Firouzja. Praggnanandhaa, Caruana, and Levon Aronian now share the lead with two points each. Caruana's win is significant as players vie for spots in the Grand Chess Tour finals later this year.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-d-gukesh-held-by-samuel-sevian-praggnanandhaa-draws-with-nodirbek-abdusattorov/articleshow/123423351.cms",
-         "pubDate" : "Thu, 21 Aug 2025 04:25:12",
-         "title" : "Sinquefield Cup: D Gukesh held by Samuel Sevian"
       },
       {
          "description" : "11 years after earning her final IM norm, 37-year-old American WGM Tatev Abrahamyan crossed 2400 FIDE for the first time to become eligible for the IM title by winning the Budapest One Week August 2025 GM norm invitational tournament. Curiously, this makes Abrahamyan the first woman to become eligible for the IM title in a calendar year that has already seen two new female grandmasters.Abrahamyan also earned her first GM norm in Budapest thanks to her 2613 performance rating, picking up a whopping 62 rating points. Her undefeated 7/9 score was particularly impressive considering that she entered the event as the third lowest-rated player. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br",
