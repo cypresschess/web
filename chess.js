@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Under the heading \"FIDE Grand Swiss 2025: Updated dress code offers more flexibility\", FIDE has introduced a new, more liberal dress code for the upcoming Grand Swiss tournament in Samarkand, which starts on 3 September. Now, 'classic jeans' (not ripped ones) are also permitted. Plain trainers may also be worn. Elastane has always been permitted.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-updates-its-dresscode",
+         "pubDate" : "Mon, 01 Sep 2025 17:00:00",
+         "title" : "FIDE updates its dresscode"
+      },
+      {
+         "description" : "The best news in the new FIDE world rankings from a German perspective is Vincent Keymer's leap into the world's top ten. For the first time since Robert H&uuml;bner, a German chess professional belongs to the absolute world elite. Never before has a German player achieved an Elo rating of 2751.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-rankings-september-2025",
+         "pubDate" : "Mon, 01 Sep 2025 13:37:11",
+         "title" : "FIDE rankings: September 2025"
+      },
+      {
+         "description" : "The City of Katowice, and the Silesian Chess Federation are proud to announce that the European Individual Chess Championship 2026 will take place in Katowice, Poland, from 7-19 April 2026. Katowice has already established itself as one of Europe's leading chess hubs, having successfully organized four editions of the European Rapid and Blitz Chess Championships, each attracting a record number of participants. The city's proven organizational experience, world-class venues, and welcoming atmosphere provide the ideal conditions for hosting the most []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/katowice-to-host-the-european-individual-chess-championship-2026/",
+         "pubDate" : "Mon, 01 Sep 2025 12:15:11",
+         "title" : "Katowice to Host the European Individual Chess Championship 2026"
+      },
+      {
          "description" : "Kirill Shevchenko's bid to overturn sanctions for alleged cheating at the 2024 Spanish Team Championship has failed. The FIDE Ethics & Disciplinary Commission's Appeal Chamber has unanimously confirmed his guilt and strengthened the penalties originally imposed. The decision follows earlier controversy in Melilla, where the 22-year-old grandmaster was excluded after suspicions arose over repeated absences to the same toilet cubicle, with mobile phones later discovered and linked to him.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-drama-fide-ceo-slams-hikaru-nakamuras-claims-of-magnus-carlsen-candidates-favouritism/articleshow/123632496.cms",
          "pubDate" : "Mon, 01 Sep 2025 10:26:45",
          "title" : "FIDE CEO slams Hikaru's claims of Carlsen Candidates favouritism"
+      },
+      {
+         "description" : "GM Wesley So is back in the top-10 on the September 2025 FIDE rating list after winning the 2025 Sinquefield Cup, while 20-year-old GM Vincent Keymer has broken into the club for the first time after winning the 2025 Quantbox Chennai Grand Masters...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/september-2025-fide-ratings",
+         "pubDate" : "Mon, 01 Sep 2025 07:43:00",
+         "title" : "September 2025 FIDE Ratings: Wesley So, Keymer Enter Top 10"
+      },
+      {
+         "description" : "World number-one GM Magnus Carlsen&#39;s career as a fashion model is not over. Now the 34-year-old has made a comeback with Dutch fashion brand G-Star for its Fall 2025 campaign, marking a continuation of a 15-year-long collaboration. G-Star releas...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-returns-as-model-for-g-star",
+         "pubDate" : "Mon, 01 Sep 2025 06:55:04",
+         "title" : "Magnus Carlsen Makes G-Star Comeback Following 'Jeansgate' Dress Code Controversy"
       },
       {
          "description" : "Pranav Venkatesh kept the sole lead at the Fujairah Global Chess Championship after drawing with Abhimanyu Mishra in round eight, reaching 6 points. Two players closed in on the leader, as Brandon Jacobson defeated Aydin Suleymanli and Amin Tabatabaei (pictured) outplayed Andrew Hong, both moving to 5&frac12; points. In the final round, Pranav will face Alan Pichot, while Jacobson and Tabatabaei meet Nihal Sarin and Alexander Donchenko respectively, all with tournament victory still in sight. | Photo: Anna Shtourman",
@@ -768,22 +808,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/kasparov-vs-anand-st-louis-reopening-carlsen-heads-champions-showdown",
          "pubDate" : "Wed, 20 Aug 2025 14:25:00",
          "title" : "Kasparov, Anand To Face Off In St. Louis Match; Carlsen, Gukesh Headline Rapid Event"
-      },
-      {
-         "description" : "Women&#39;s number-one Hou Yifan is through to the final of the the 2025 Women&#39;s Speed Chess Championship after beating GM Kateryna Lagno 12.5-8.5. Hou powered into a three-point lead after the five-minute section, but then was caught as Lagno hit bac...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-wscc-sf-hou-yifan-kateryna-lagno",
-         "pubDate" : "Wed, 20 Aug 2025 13:28:00",
-         "title" : "Hou Yifan Storms Into Women's Speed Chess Championship Final"
-      },
-      {
-         "description" : "On August 19, for the second time in less than two years, GM Magnus Carlsen swept both Titled Tuesdays on a single day. Carlsen also won last week&#39;s late event, giving him three in a row overall. He won both of today&#39;s events outright, including a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-august-19-2025",
-         "pubDate" : "Wed, 20 Aug 2025 07:49:00",
-         "title" : "Carlsen Sweeps Into Three Straight Titled Tuesdays"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-2/\">POSTGAME ROUND 2: Alireza Bests Duda in Epic Game! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
