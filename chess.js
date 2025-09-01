@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pranav Venkatesh kept the sole lead at the Fujairah Global Chess Championship after drawing with Abhimanyu Mishra in round eight, reaching 6 points. Two players closed in on the leader, as Brandon Jacobson defeated Aydin Suleymanli and Amin Tabatabaei (pictured) outplayed Andrew Hong, both moving to 5&frac12; points. In the final round, Pranav will face Alan Pichot, while Jacobson and Tabatabaei meet Nihal Sarin and Alexander Donchenko respectively, all with tournament victory still in sight. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fujairah-superstars-2025-r8",
+         "pubDate" : "Mon, 01 Sep 2025 05:45:00",
+         "title" : "Fujairah Superstars: Jacobson and Tabatabaei score, remain in contention"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123627108.cms\" />In a recent announcement, FIDE punished Ukrainian Grandmaster Kirill Shevchenko for cheating during the Spanish Team Championship last October. Shevchenko's GM title was revoked, and he received a three-year ban after being caught with cell phones in the restrooms. Responding to player requests, FIDE also updated its dress code, now permitting jeans to be worn at Grand Swiss events.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-bans-grandmaster-for-cheating-allows-jeans-in-dress-code/articleshow/123627108.cms",
+         "pubDate" : "Mon, 01 Sep 2025 05:20:44",
+         "title" : "FIDE bans Grandmaster for cheating; allows jeans in dress code"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123623449.cms\" />Aarini Lahoty, a five-year-old chess prodigy from Delhi, has made history as the youngest Indian player to achieve FIDE ratings in classical, rapid, and blitz formats. Born in 2019, she is the first from her age group to accomplish this feat, holding impressive ratings across all three categories.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -682,14 +698,6 @@ news_feed (
          "title" : "Caruana Takes Sole Lead After 2nd Win"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123432041.cms\" />A grandmaster chess tournament in New Delhi highlights the traditional, silent atmosphere of the game, contrasting sharply with a recent event in Las Vegas where live audiences roared at every move. Players express concerns about distractions caused by spectators, questioning whether chess is truly ready for a live audience setting.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/ssshhh-chess-and-the-challenges-of-playing-in-front-of-a-live-audience/articleshow/123432041.cms",
-         "pubDate" : "Thu, 21 Aug 2025 11:37:37",
-         "title" : "Ssshhh! Chess and the challenges of playing in front of a live audience"
-      },
-      {
          "description" : "The Bathinda District Chess Association, on behalf of the Punjab State Chess Association, the All India Chess Federation, and the AICF Arbiters' Commission, successfully organized",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -928,14 +936,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45942940/meet-awonder-liang-atypical-gm-hunting-chess-elite?device=featurephone",
          "pubDate" : "Mon, 11 Aug 2025 08:20:00",
          "title" : "Meet Awonder Liang: The atypical GM hunting chess' elite"
-      },
-      {
-         "description" : "Last Updated on 11th August 2025 by WebAdmin The&#160;5th IPCA European Individual Chess Championship will take place from October 10 to 19, 2025, in Ostrava, Czech Republic.&#160;This event is dedicated...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/5th-ipca-european-individual-chess-championship/",
-         "pubDate" : "Mon, 11 Aug 2025 07:18:48",
-         "title" : "5th IPCA European Individual Chess Championship"
       }
    ]
 }
