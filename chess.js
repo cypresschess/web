@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For two weeks in September, the ancient capital of the Silk Road will be home to many of the best chess players in the world. Since its initiation in 2019, the FIDE Grand Swiss - held every two years - has distinguished itself as the strongest classical chess tournament. Featuring eleven rounds played under the Swiss system it is a battleground where the best face the best and only exceptional performance can secure victory.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/talent-youth-experience-and-ambition-collide",
+         "pubDate" : "Tue, 02 Sep 2025 11:21:00",
+         "title" : "Talent, youth, experience, and ambition collide"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123649645.cms\" />After a challenging Chennai GM tournament, V Pranav, the 18-year-old from Tamil Nadu, demonstrated his prowess by winning the Superstars section of the Fujairah Global festival in UAE. Defeating top seed Nihal Sarin, Pranav's undefeated run and a remarkable rating performance of 2843 solidified his position among the elite, proving his belonging at the higher level.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "Chess: V Pranav comes to the fore with Superstar win"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123646402.cms\" />Yosha Iglesias, 37, made history as the first transgender chess player to earn the WIM title and win the French women's championship. From battling depression, financial struggles, and online hate to embracing her identity in 2020, her journey reflects resilience. ",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123646402.cms\" />Yosha Iglesias, once a chess prodigy in Sochi, Russia, has made history as the first transgender woman to win the French women's chess championship. Overcoming personal struggles, including a difficult transition and online harassment, Yosha found strength in her chess community and Buddhist philosophy. Her journey, marked by resilience and self-acceptance, inspires others to embrace their true selves.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-i-tried-to-live-as-a-man-but-couldnt-first-ever-trans-chess-player-to-reach-wim-now-french-womens-champion/articleshow/123646402.cms",
