@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123659959.cms\" />Aarini Lahoty, a five-year-old chess prodigy from Delhi, has achieved a remarkable feat by earning FIDE ratings in classical, rapid, and blitz chess formats. She is the youngest girl globally to achieve this milestone and the first Indian player born in 2019 to do so. She now holds ratings of 1553 (classical), 1550 (rapid) and 1498 (blitz).",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/explained-how-aarini-lahoty-5-became-worlds-youngest-female-with-fide-ratings-across-all-chess-formats/articleshow/123659959.cms",
+         "pubDate" : "Tue, 02 Sep 2025 16:19:23",
+         "title" : "How Aarini Lahoty, 5, became world's youngest female with FIDE ratings in all chess formats"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123660586.cms\" />R Praggnanandhaa aims for a spot in the 2026 Candidates Tournament at the FIDE Grand Swiss. The event features a large prize pool and Candidates qualification spots. D Gukesh will also compete. Arjun Erigaisi seeks to improve his chances. Vidit Gujrathi hopes to regain his form. Divya Deshmukh plays in the open section. Koneru Humpy skips the event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-takes-on-a-strong-field-at-grand-swiss-eyes-candidates-berth/articleshow/123660586.cms",
+         "pubDate" : "Tue, 02 Sep 2025 16:05:54",
+         "title" : "Praggnanandhaa takes on a strong field at Grand Swiss, eyes Candidates berth"
+      },
+      {
          "description" : "For two weeks in September, the ancient capital of the Silk Road will be home to many of the best chess players in the world. Since its initiation in 2019, the FIDE Grand Swiss - held every two years - has distinguished itself as the strongest classical chess tournament. Featuring eleven rounds played under the Swiss system it is a battleground where the best face the best and only exceptional performance can secure victory.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/talent-youth-experience-and-ambition-collide",
          "pubDate" : "Tue, 02 Sep 2025 11:21:00",
          "title" : "Talent, youth, experience, and ambition collide"
+      },
+      {
+         "description" : "We&#39;re excited to announce our newest weekly prize events for titled players and streamers, The After Party and The Untitled After Party! Starting September 9, the new After Party series will feature a weekly prize fund and the beloved arena format...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-the-after-party",
+         "pubDate" : "Tue, 02 Sep 2025 10:58:00",
+         "title" : "Announcing The After Party & The Untitled After Party, Chess.com's New Weekly Prize Arenas"
+      },
+      {
+         "description" : "Arena Kings, Chess.com&#39;s longest-running tournament for creators, is undergoing changes starting October 1. The event will feature a new format and cadence that will help creators build and engage their communities. The new Arena Kings will now ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-new-arena-kings-format",
+         "pubDate" : "Tue, 02 Sep 2025 10:57:11",
+         "title" : "Arena Kings To Feature New Format Focused On Community Building Starting October 1"
+      },
+      {
+         "description" : "The North American Corporate Chess League (NACCL) is returning to Chess.com this fall. The NACCL is the largest corporate chess competition in the world and includes some of the world&#39;s best-known companies and small businesses! What Is The NA...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-north-american-corporate-chess-league-returns-for-season-12",
+         "pubDate" : "Tue, 02 Sep 2025 10:26:11",
+         "title" : "The North American Corporate Chess League Returns For Season 12"
+      },
+      {
+         "description" : "Twenty-two-year-old Kirill Shevchenko has become only the fourth player in chess history to be stripped of the GM title, after the FIDE Ethics and Disciplinary Commission (EDC) rejected his appeal in one of the most high-profile over-the-board che...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-bans-shevchenko-strips-gm-title",
+         "pubDate" : "Tue, 02 Sep 2025 09:25:00",
+         "title" : "FIDE Strips Shevchenko Of GM Title, Upholds 3-Year Ban In Cheating Case"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123649645.cms\" />After a challenging Chennai GM tournament, V Pranav, the 18-year-old from Tamil Nadu, demonstrated his prowess by winning the Superstars section of the Fujairah Global festival in UAE. Defeating top seed Nihal Sarin, Pranav's undefeated run and a remarkable rating performance of 2843 solidified his position among the elite, proving his belonging at the higher level.",
@@ -26,12 +74,12 @@ news_feed (
          "title" : "Exclusive | 'I tried to live as a man but': First-ever trans chess player to reach WIM"
       },
       {
-         "description" : "The inaugural Fujairah Global Chess Championship concluded with 18-year-old Pranav Venkatesh winning the Superstars tournament outright on 7/9. The reigning world junior champion, seeded only 23rd at the start, sealed victory with a final-round win over Alan Pichot, finishing a full point ahead of Brandon Jacobson, Amin Tabatabaei and Jos&eacute; Mart&iacute;nez. Zhu Jiner also impressed, ending on 5&frac12; points and rising to second place in the women's live ratings. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fujairah-superstars-2025-r9",
-         "pubDate" : "Tue, 02 Sep 2025 01:20:00",
-         "title" : "Fujairah Superstars: Pranav secures overall victory with final-round win"
+         "description" : "This week's puzzles come from last month's Saint Louis Rapid &amp; Blitz, where GM Levon Aronian won the five-day, 27-game marathon for the third time in his career. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-rapid-blitz-pt-1-0",
+         "pubDate" : "Tue, 02 Sep 2025 00:00:00",
+         "title" : "Tactics Tuesday: Saint Louis Rapid & Blitz, Pt. 1"
       },
       {
          "description" : "Kids for Chess, a nonprofit organization committed to supporting America's best youth chess players, is thrilled to announce the five winners of its scholarships for the 2025 World Youth and World Cadets Championships.After a rigorous selection process, the scholarships, each valued at $1,500, have been awarded to Renae Chen, Felix Guo, CM Chenxuan Ling, WCM Anagha Sinkar, and FM Linxi Zhu. The scholarships aim to assist the winners with the costs associated with participating in the World Youth and World Cadets Chess Championships this fall.We are also very proud to support FM Megan Paragua and CM Sasha Schaefer, two winners of the 2024 scholarship who could not attend the tournament last y",
@@ -482,14 +530,6 @@ news_feed (
          "title" : "It's official! Goa to host FIDE World Cup with Rs 17.5 Cr prize pool"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123524924.cms\" />Indian Grandmaster R Praggnanandhaa showcased a dominant performance, defeating Alireza Firouzja and surging to joint first place in the Sinquefield Cup alongside Fabiano Caruana with a score of 4.5. However, D Gukesh faced a setback, losing to Wesley So and dropping to the bottom standings in the standings. With three rounds remaining, the competition intensifies as Caruana and Praggnanandhaa lead, followed closely by Wesley So and Levon Aronian.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-r-praggnanandhaa-takes-joint-lead-with-fabiano-caruana-d-gukesh-drops-to-bottom-half/articleshow/123524924.cms",
-         "pubDate" : "Tue, 26 Aug 2025 11:20:39",
-         "title" : "Sinquefield Cup: Praggnanandhaa takes joint lead with Caruana; Gukesh drops to bottom half"
-      },
-      {
          "description" : "Please find here few photos",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -560,14 +600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-7",
          "pubDate" : "Mon, 25 Aug 2025 21:08:00",
          "title" : "Praggnanandhaa Catches Caruana In Lead; Wesley So, Duda Pick Up Wins"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123500765.cms\" />Indian Grandmaster R Praggnanandhaa drew with Jan-Krzysztof Duda in the Sinquefield Cup, securing a joint second place with Levon Aronian. Fabiano Caruana maintained his lead with 4 points. D Gukesh managed a draw against Alireza Firouzja after a tense game, while other matches also ended in draws, marking the second consecutive day of drawn games.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-r-praggnanandhaa-still-joint-second-on-another-day-of-draws/articleshow/123500765.cms",
-         "pubDate" : "Mon, 25 Aug 2025 10:04:52",
-         "title" : "Sinquefield Cup: Praggnanandhaa still joint second on another day of draws"
       },
       {
          "description" : " The sixth round of the Sinquefield Cup was a lively one but in the end all the games were drawn leaving Caruana in the lead on 4/6. MVL will be upset how he let go several winning opportunities against Nodirbek Abdusattorov. It was a very strange game all around, MVL was completely winning, let go most of his advantage, was offered a final pretty straight forward winning chance but instead went into a king and pawn endgame that turned out to be drawn. Gukesh was a little bit better against Alireza Firouzja for a while but 21.Ned5? was inaccurate as was 25.Qd3. 30...Kh8?! (30...Qxe6) allowed Firouzja to come back into the game and Gukesh held a tricky endgame without drama. Fabiano Caruana w",
@@ -714,14 +746,6 @@ news_feed (
          "title" : "Chess: Vincent Keymer, 20, routs Indians in their Chennai heartland"
       },
       {
-         "description" : "On August 14, 2025, the Chicago Police Department (CPD), in partnership with the Renaissance Knights Chess Foundation and Chicago Public Schools (CPS), hosted a special \"Cops &amp; Kids\" chess event, teaming up with UFC fighters to engage CPS students in a spirited and strategic match-up. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of the organizers<br> <br> <br> <br> Held at the Chicago Police Department Training Academy in West Humboldt Park, this community outreach was designed to strengthen connections among students, law enforcement, and athletes through the universal language of chess. A Unique Blend of Strategy and CommunityAl",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/cops-kids-chess-community-engagement-event-ufc",
-         "pubDate" : "Fri, 22 Aug 2025 00:00:00",
-         "title" : "Cops & Kids Chess: Community Engagement Event with UFC"
-      },
-      {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-4/\">POSTGAME ROUND 4: Caruana Holds Nerves, Turns Tables on Nodirbek | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -746,14 +770,6 @@ news_feed (
          "title" : "Caruana joins the leaders after beating Firouzja in the Sinquefield Cup Round 3 - 3"
       },
       {
-         "description" : "GM Fabiano Caruana won a second game in a row, this time with Black against GM Nodirbek Abdusattorov, to take the sole lead of the 2025 Sinquefield Cup with 3/4. All other games were drawn, leaving GM Levon Aronian and GM Praggnanandhaa Rameshbabu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-4",
-         "pubDate" : "Thu, 21 Aug 2025 15:14:00",
-         "title" : "Caruana Takes Sole Lead After 2nd Win"
-      },
-      {
          "description" : "The Bathinda District Chess Association, on behalf of the Punjab State Chess Association, the All India Chess Federation, and the AICF Arbiters' Commission, successfully organized",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -762,36 +778,12 @@ news_feed (
          "title" : "Final Report of Senior National Arbiter Seminar & Examination held in Bathinda on 15 & 16 August 2025"
       },
       {
-         "description" : "Chess will return to the global esports stage following the highly successful debut in 2025. The qualifying cycle for the 2026 Esports World Cup (EWC) will see major changes, making it bigger, better, and more competitive. The Champions Chess To...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/esports-world-cup-2026-announcement",
-         "pubDate" : "Thu, 21 Aug 2025 09:30:00",
-         "title" : "Esports World Cup Returns With Bigger, Year-Round Qualifying Cycle"
-      },
-      {
-         "description" : "Adult improvers, rejoice. More than 15 years since earning her first IM norm in 2010, and more than a decade after earning her third and final, WGM Tatev Abrahamyan played the &#34;best tournament of my career&#34; at the Budapest One Week in Hungary. She...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/abrahamyan-plays-best-tournament-of-career-earns-im-title-gm-norm",
-         "pubDate" : "Thu, 21 Aug 2025 09:02:00",
-         "title" : "Abrahamyan Plays 'Best Tournament of Career', Earns IM Title, GM Norm"
-      },
-      {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-3/\">POSTGAME ROUND 3: Caruana Earns Massive Win over Firouzja! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-3/",
          "pubDate" : "Wed, 20 Aug 2025 22:37:03",
          "title" : "POSTGAME ROUND 3: Caruana Earns Massive Win over Firouzja! | #SinquefieldCup"
-      },
-      {
-         "description" : "GM Fabiano Caruana won the only decisive game in round three of the 2025 Sinquefield Cup to knock GM Alireza Firouzja out of the lead. Caruana now leads with GM Levon Aronian, who survived miraculously and drew GM Maxime Vachier-Lagrave, and GM Pr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-3",
-         "pubDate" : "Wed, 20 Aug 2025 22:18:00",
-         "title" : "Caruana Knocks Down Firouzja, Joins Lead With Aronian, Praggnanandhaa"
       },
       {
          "description" : " Alireza Firouzja won a tremendous struggle against Jan-Krzysztof Duda to join Praggnanandhaa and Levon Aronian in the lead of the Sinquefield Cup on 1.5 points at this early stage of the competition. Firouzja won on the white side of an open Spanish, as did Gukesh who bounced back from his loss yesterday, he beat Nodirbek Abdusattorov and he is on no points after his second loss in row. ",
