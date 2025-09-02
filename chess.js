@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural Fujairah Global Chess Championship concluded with 18-year-old Pranav Venkatesh winning the Superstars tournament outright on 7/9. The reigning world junior champion, seeded only 23rd at the start, sealed victory with a final-round win over Alan Pichot, finishing a full point ahead of Brandon Jacobson, Amin Tabatabaei and Jos&eacute; Mart&iacute;nez. Zhu Jiner also impressed, ending on 5&frac12; points and rising to second place in the women's live ratings. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fujairah-superstars-2025-r9",
+         "pubDate" : "Tue, 02 Sep 2025 01:20:00",
+         "title" : "Fujairah Superstars: Pranav secures overall victory with final-round win"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123640609.cms\" />Rameshbabu Praggnanandhaa maintains his position as a top player. He is currently ranked fourth in the world. Vincent Keymer makes a significant jump in the rankings. He enters the top ten for the first time. Keymer's rise pushes him past chess legends. Nodirbek Abdusattorov experiences a drop in ranking. Wesley So improves his standing after a tournament win.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
