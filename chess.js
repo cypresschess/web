@@ -34,6 +34,14 @@ news_feed (
          "title" : "Fujairah Superstars: Pranav secures overall victory with final-round win"
       },
       {
+         "description" : "Kids for Chess, a nonprofit organization committed to supporting America's best youth chess players, is thrilled to announce the five winners of its scholarships for the 2025 World Youth and World Cadets Championships.After a rigorous selection process, the scholarships, each valued at $1,500, have been awarded to Renae Chen, Felix Guo, CM Chenxuan Ling, WCM Anagha Sinkar, and FM Linxi Zhu. The scholarships aim to assist the winners with the costs associated with participating in the World Youth and World Cadets Chess Championships this fall.We are also very proud to support FM Megan Paragua and CM Sasha Schaefer, two winners of the 2024 scholarship who could not attend the tournament last y",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/kids-chess-announces-2025-scholarship-winners",
+         "pubDate" : "Tue, 02 Sep 2025 00:00:00",
+         "title" : "Kids for Chess Announces 2025 Scholarship Winners"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123640609.cms\" />Rameshbabu Praggnanandhaa maintains his position as a top player. He is currently ranked fourth in the world. Vincent Keymer makes a significant jump in the rankings. He enters the top ten for the first time. Keymer's rise pushes him past chess legends. Nodirbek Abdusattorov experiences a drop in ranking. Wesley So improves his standing after a tournament win.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -114,7 +122,7 @@ news_feed (
          "title" : "FIDE bans Grandmaster for cheating; allows jeans in dress code"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123623449.cms\" />Aarini Lahoty, a five-year-old chess prodigy from Delhi, has made history as the youngest Indian player to achieve FIDE ratings in classical, rapid, and blitz formats. Born in 2019, she is the first from her age group to accomplish this feat, holding impressive ratings across all three categories.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123623449.cms\" />Aarini Lahoty, a five-year-old chess prodigy from Delhi, has made history as India's youngest and the world's youngest female player to achieve FIDE ratings in classical, rapid, and blitz formats. Born in 2019, she is the first Indian player from her birth year to accomplish this feat, holding impressive ratings across all three categories.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/history-5-year-old-aarini-lahoty-becomes-indias-youngest-with-fide-ratings-across-all-chess-formats/articleshow/123623449.cms",
@@ -768,14 +776,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/abrahamyan-plays-best-tournament-of-career-earns-im-title-gm-norm",
          "pubDate" : "Thu, 21 Aug 2025 09:02:00",
          "title" : "Abrahamyan Plays 'Best Tournament of Career', Earns IM Title, GM Norm"
-      },
-      {
-         "description" : "11 years after earning her final IM norm, 37-year-old American WGM Tatev Abrahamyan crossed 2400 FIDE for the first time to become eligible for the IM title by winning the Budapest One Week August 2025 GM norm invitational tournament. Curiously, this makes Abrahamyan the first woman to become eligible for the IM title in a calendar year that has already seen two new female grandmasters.Abrahamyan also earned her first GM norm in Budapest thanks to her 2613 performance rating, picking up a whopping 62 rating points. Her undefeated 7/9 score was particularly impressive considering that she entered the event as the third lowest-rated player. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tatev-abrahamyan-reaches-2400-earns-first-gm-norm",
-         "pubDate" : "Thu, 21 Aug 2025 00:00:00",
-         "title" : "Tatev Abrahamyan Reaches 2400, Earns First GM Norm"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-3/\">POSTGAME ROUND 3: Caruana Earns Massive Win over Firouzja! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
