@@ -18,6 +18,14 @@ news_feed (
          "title" : "Praggnanandhaa takes on a strong field at Grand Swiss, eyes Candidates berth"
       },
       {
+         "description" : "GM Hikaru Nakamura this weekend scored 7/7 to win the 2025 Louisiana State Championship in New Orleans. Why was the world number-two playing a $3,000 event where his toughest rival was 2344-rated FM Nicholas Matta? It&#39;s all about qualification for...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-louisiana-state-championship-candidates",
+         "pubDate" : "Tue, 02 Sep 2025 12:23:02",
+         "title" : "Nakamura Wins Louisiana State Championship, Edges Closer To Candidates"
+      },
+      {
          "description" : "For two weeks in September, the ancient capital of the Silk Road will be home to many of the best chess players in the world. Since its initiation in 2019, the FIDE Grand Swiss - held every two years - has distinguished itself as the strongest classical chess tournament. Featuring eleven rounds played under the Swiss system it is a battleground where the best face the best and only exceptional performance can secure victory.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-4/",
          "pubDate" : "Thu, 21 Aug 2025 21:37:42",
          "title" : "POSTGAME ROUND 4: Caruana Holds Nerves, Turns Tables on Nodirbek | #SinquefieldCup"
-      },
-      {
-         "description" : "Five-time Women&#39;s World Champion GM Ju Wenjun defeated IM Polina Shuvalova with a score of 17-5 in what turned out to be a one-sided semifinal of the 2025 Women&#39;s Speed Chess Championship. In the process, she beat her own WSCC record for the large...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-wscc-sf-ju-wenjun-polina-shuvalova",
-         "pubDate" : "Thu, 21 Aug 2025 15:17:29",
-         "title" : "Ju Wenjun Wins With Record Breaking Margin"
       },
       {
          "description" : " Fabiano Caruana was the only winner in Round 3 of the Sinquefield Cup. Caruana took advantage of a few Firouzja inaccuracies, 21...Raf8? (21...Rff8!) was a real error, not exploited 22.a3?! (22.Bh3!) 22...Qd8? (22...Qe7!=) but it was only later that the real collapse happened when Firouzja allowed Caruana's d-pawn to advance. Levon Aronian escaped a lost position against Maxime Vachier-Lagrave, 53.Bf6? (53.a3 was the win) was the point MVL erred. Nodirbek Abdusattorov pressed against Praggnanandhaa but had to settle for a draw in the end. Jan-Krzysztof Duda and Wesley So drew a very quiet game. Sam Sevian had a little something against Gukesh but it didn't turn out to be anything. Notes to ",
