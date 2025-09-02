@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123649645.cms\" />After a challenging Chennai GM tournament, V Pranav, the 18-year-old from Tamil Nadu, demonstrated his prowess by winning the Superstars section of the Fujairah Global festival in UAE. Defeating top seed Nihal Sarin, Pranav's undefeated run and a remarkable rating performance of 2843 solidified his position among the elite, proving his belonging at the higher level.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-v-pranav-comes-to-the-fore-with-superstar-win/articleshow/123649645.cms",
+         "pubDate" : "Tue, 02 Sep 2025 06:07:04",
+         "title" : "Chess: V Pranav comes to the fore with Superstar win"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123646402.cms\" />Yosha Iglesias, 37, made history as the first transgender chess player to earn the WIM title and win the French women's championship. From battling depression, financial struggles, and online hate to embracing her identity in 2020, her journey reflects resilience. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-i-tried-to-live-as-a-man-but-couldnt-first-ever-trans-chess-player-to-reach-wim-now-french-womens-champion/articleshow/123646402.cms",
+         "pubDate" : "Tue, 02 Sep 2025 03:34:53",
+         "title" : "Exclusive | 'I tried to live as a man but': First-ever trans chess player to reach WIM"
+      },
+      {
          "description" : "The inaugural Fujairah Global Chess Championship concluded with 18-year-old Pranav Venkatesh winning the Superstars tournament outright on 7/9. The reigning world junior champion, seeded only 23rd at the start, sealed victory with a final-round win over Alan Pichot, finishing a full point ahead of Brandon Jacobson, Amin Tabatabaei and Jos&eacute; Mart&iacute;nez. Zhu Jiner also impressed, ending on 5&frac12; points and rising to second place in the women's live ratings. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -552,22 +568,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-sna-seminar-exam-held-in-ahmednagar-ahilya-nagar-maharashtra-on-12th-13th-july-2025/",
          "pubDate" : "Mon, 25 Aug 2025 08:28:31",
          "title" : "Certificate of SNA Seminar & Exam held in Ahmednagar (Ahilya Nagar), Maharashtra on 12th & 13th July, 2025."
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123495601.cms\" />Karthikeyan Murali, the 26-year-old Grandmaster from Thanjavur, holds a unique place in Indian chess history. In 2023, at the Qatar Masters, he became the only Indian to beat Magnus Carlsen with the black pieces during the Norwegian's 14-year reign as World No. 1. A two-time national champion, Murali's accidental chess journey now carries one unforgettable milestone.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-not-gukesh-anand-meet-the-only-indian-to-beat-magnus-carlsen-in-classical-with-black-in-his-14-years-as-world-no-1/articleshow/123495601.cms",
-         "pubDate" : "Mon, 25 Aug 2025 06:04:17",
-         "title" : "Exclusive | Not Gukesh, Anand! Meet the only Indian to beat Carlsen in classical with black in his 14 years as No. 1"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123493643.cms\" />India's Divya Deshmukh sparked laughs with her \"No jeans!\" rule-change joke, recalling Magnus Carlsen's 2024 dress code controversy. Carlsen famously refused to change his Corneliani jeans, was fined, and later auctioned them for $36,100. Proceeds went to Big Brothers Big Sisters of America, turning a quirky chess moment into a powerful charitable milestone.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-no-jeans-divya-deshmukh-evokes-magnus-carlsens-viral-dress-code-controversy-watch/articleshow/123493643.cms",
-         "pubDate" : "Mon, 25 Aug 2025 04:25:49",
-         "title" : "'No jeans': Divya Deshmukh evokes Magnus Carlsen's viral controversy - Watch"
       },
       {
          "description" : "Editor's note: To the best of my knowledge, no games were broadcast for this tournament, and there are no official photos of the awards ceremony. Parents are encouraged to send photos of any medalists to Click here to show email address, and I will update this page accordingly.***88 American players traveled to Kingston, Ontario, for the 2025 North American Youth Chess Championships, held August 17 through 23 at Queen's University.Across 12 sections, Americans brought home 29 medals, including 8 golds. Players competed in one of six age categories (Under-8, Under-10, Under-12, Under-14, Under-16, and Under-18) in either an open or girls section.These statistics do not include the blitz tourn",
