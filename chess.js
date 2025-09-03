@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With five of the eight places for the 2026 Women's Candidates already decided, the focus now turns to the upcoming Women's Grand Swiss and the conclusion of the Women's Events 2024-25 series. Anna Muzychuk (pictured) currently leads the standings among players still in contention, ahead of Lei Tingjie, Harika Dronavalli and Kateryna Lagno. Their performances in Samarkand and later rapid and blitz events will determine the final qualification spots. | Photo: Przemek Nikiel",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-women-events-update-september-2025",
+         "pubDate" : "Wed, 03 Sep 2025 07:20:00",
+         "title" : "Women's Candidates Race: Grand Swiss to grant two of the three remaining spots"
+      },
+      {
          "description" : "Chess.com&#38;rsquo;s Chief Chess Officer, IM Danny Rensch, hosted State of Chess on Tuesday to share all the latest updates for Chess.com. Joining him were several special guests including GM Magnus Carlsen, GM Hikaru Nakamura, and IM Levy Rozman. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-state-of-chess-september",
-         "pubDate" : "Tue, 02 Sep 2025 17:56:07",
+         "pubDate" : "Tue, 02 Sep 2025 17:56:00",
          "title" : "State Of Chess: 2026 Esports World Cup, Titled Tuesday, Super PogChamps, & More"
       },
       {
@@ -120,22 +128,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/pranav-venkatesh-2025-world-junior-champion-clinches-fujairah-global-chess-title-ahead-of-grand-swiss-challenge/articleshow/123639814.cms",
          "pubDate" : "Mon, 01 Sep 2025 17:20:28",
          "title" : "18-yo Pranav V strikes again! World Jr Champion clinches Fujairah title"
-      },
-      {
-         "description" : "Under the heading \"FIDE Grand Swiss 2025: Updated dress code offers more flexibility\", FIDE has introduced a new, more liberal dress code for the upcoming Grand Swiss tournament in Samarkand, which starts on 3 September. Now, 'classic jeans' (not ripped ones) are also permitted. Plain trainers may also be worn. Elastane has always been permitted.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-updates-its-dresscode",
-         "pubDate" : "Mon, 01 Sep 2025 17:00:00",
-         "title" : "FIDE updates its dresscode"
-      },
-      {
-         "description" : "The best news in the new FIDE world rankings from a German perspective is Vincent Keymer's leap into the world's top ten. For the first time since Robert H&uuml;bner, a German chess professional belongs to the absolute world elite. Never before has a German player achieved an Elo rating of 2751.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-rankings-september-2025",
-         "pubDate" : "Mon, 01 Sep 2025 13:37:11",
-         "title" : "FIDE rankings: September 2025"
       },
       {
          "description" : "The City of Katowice, and the Silesian Chess Federation are proud to announce that the European Individual Chess Championship 2026 will take place in Katowice, Poland, from 7-19 April 2026. Katowice has already established itself as one of Europe's leading chess hubs, having successfully organized four editions of the European Rapid and Blitz Chess Championships, each attracting a record number of participants. The city's proven organizational experience, world-class venues, and welcoming atmosphere provide the ideal conditions for hosting the most []",
