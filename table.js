@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-09-01","23","<a href=http://www.uschess.org/msa/XtblMain.php?202509013092 target='_blank'>2025 LABOR DAY BY AZCHACAD</a>",
 "HOUSTON","2025-08-31","20","<a href=http://www.uschess.org/msa/XtblMain.php?202508311782 target='_blank'>BELLAIRE SUNDAY SWISS 8/31/2025</a>",
 "HOUSTON","2025-08-30","177","<a href=http://www.uschess.org/msa/XtblMain.php?202508301742 target='_blank'>BACK TO SCHOOL SCHOLASTIC TOURNAMEN</a>",
 "HOUSTON","2025-08-30","12","<a href=http://www.uschess.org/msa/XtblMain.php?202508301152 target='_blank'>CHESSPANDA08302025SATURDAY</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2025-02-22","133","<a href=http://www.uschess.org/msa/XtblMain.php?202502226712 target='_blank'>EASTWOOD ACADEMY CHESS TOURNAMENT</a>",
 "PASADENA","2025-02-22","29","<a href=http://www.uschess.org/msa/XtblMain.php?202502226562 target='_blank'>PISD FEBRUARY 2025</a>",
 "HOUSTON","2025-02-22","10","<a href=http://www.uschess.org/msa/XtblMain.php?202502225802 target='_blank'>CHESSPANDA02222025SATURDAY</a>",
-"SPRING","2025-02-21","33","<a href=http://www.uschess.org/msa/XtblMain.php?202502215312 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
