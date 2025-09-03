@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess.com&#38;rsquo;s Chief Chess Officer, IM Danny Rensch, hosted State of Chess on Tuesday to share all the latest updates for Chess.com. Joining him were several special guests including GM Magnus Carlsen, GM Hikaru Nakamura, and IM Levy Rozman. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-state-of-chess-september",
+         "pubDate" : "Tue, 02 Sep 2025 17:56:07",
+         "title" : "State Of Chess: 2026 Esports World Cup, Titled Tuesday, Super PogChamps, & More"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123659959.cms\" />Aarini Lahoty, a five-year-old chess prodigy from Delhi, has achieved a remarkable feat by earning FIDE ratings in classical, rapid, and blitz chess formats. She is the youngest girl globally to achieve this milestone and the first Indian player born in 2019 to do so. She now holds ratings of 1553 (classical), 1550 (rapid) and 1498 (blitz).",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/caruana-takes-a-clear-lead-in-the-sinquefield-cup-after-beating-abdusattorov-in-round-4",
          "pubDate" : "Fri, 22 Aug 2025 12:27:00",
          "title" : "Caruana takes a clear lead in the Sinquefield Cup after beating Abdusattorov in Round 4 - 4"
-      },
-      {
-         "description" : "Reigning Women&#39;s World Champion GM Ju Wenjun defeated Women&#39;s number-one GM Hou Yifan with a combined score of 11.5-9.5 in the all-Chinese finals of the 2025 Women&#39;s Speed Chess Championship to claim the title for the second year in a row. Hou h...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-wscc-f-hou-yifan-ju-wenjun",
-         "pubDate" : "Fri, 22 Aug 2025 11:15:00",
-         "title" : "Ju Wenjun Defeats Hou Yifan For WSCC Title Second Year In A Row"
       },
       {
          "description" : " The German has jumped into the world top 10, while Praggnandhaa advanced to No 4 as he crushed world champion Gukesh in the $325,000 Sinquefield Cup Germany's Vincent Keymer, 20, has laid down a marker for the 2026 world candidates and title match by routing some of India's best grandmasters at the Quantbox GM tournament in Chennai, the heartland of the Olympiad champions and the home of the world champion, Gukesh Dommaraju. Keymer's score was an unbeaten 7/9, while his winning margin was a full two points. In contrast, India's Arjun Erigaisi finished third on tie-break and dropped from No 4 to No 6 in the Fide live ratings, while Vidit Gujrathi, a 2024 world title candidate, had a minus sc",
