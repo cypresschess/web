@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123675946.cms\" />India's top-ranked Grandmaster R Praggnanandhaa remains one of the favourites to secure his 2026 Candidates berth, while Arjun Erigaisi, Vidit Gujrathi, Pentala Harikrishna, Nihal Sarin and Pranav V add firepower to India's record 15-player open section squad.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-divya-deshmukh-only-indian-female-in-open-section-d-gukesh-surprisingly-in-contention/articleshow/123675946.cms",
+         "pubDate" : "Wed, 03 Sep 2025 10:31:06",
+         "title" : "Grand Swiss: Divya only Indian female in Open section; Gukesh in contention"
+      },
+      {
+         "description" : "The ECU Annual Academy training programme commences on 17th of November 2025 and will run until the 28th of April 2026 with the support of the FIDE Development Fund. The lecturers are the world-renowned chess coaches, and the trainings are organised in two groups: A for players rated 1900+, and B for players rated U1900. Each group will have 24 live sessions for a total of 48 hours of instruction. Participants will have the opportunity to watch the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-annual-academy-training-programme-2025-26/",
+         "pubDate" : "Wed, 03 Sep 2025 08:45:26",
+         "title" : "ECU Annual Academy training programme 2025/26"
+      },
+      {
          "description" : "With five of the eight places for the 2026 Women's Candidates already decided, the focus now turns to the upcoming Women's Grand Swiss and the conclusion of the Women's Events 2024-25 series. Anna Muzychuk (pictured) currently leads the standings among players still in contention, ahead of Lei Tingjie, Harika Dronavalli and Kateryna Lagno. Their performances in Samarkand and later rapid and blitz events will determine the final qualification spots. | Photo: Przemek Nikiel",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-women-events-update-september-2025",
          "pubDate" : "Wed, 03 Sep 2025 07:20:00",
          "title" : "Women's Candidates Race: Grand Swiss to grant two of the three remaining spots"
+      },
+      {
+         "description" : "36-year-old GM Igor Kovalenko played his first tournament outside of Ukraine in three years as he made nine draws in the recent 2025 Rubinstein Memorial in Polanica-Zdroj, Poland. The world number-54 is still a soldier but revealed he was able to ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kovalenko-ukraine-frontline-chessboard-poland",
+         "pubDate" : "Wed, 03 Sep 2025 02:11:05",
+         "title" : "Kovalenko Swaps Ukraine Frontlines For Chessboard In Poland"
       },
       {
          "description" : "Chess.com&#38;rsquo;s Chief Chess Officer, IM Danny Rensch, hosted State of Chess on Tuesday to share all the latest updates for Chess.com. Joining him were several special guests including GM Magnus Carlsen, GM Hikaru Nakamura, and IM Levy Rozman. ...",
@@ -530,14 +554,6 @@ news_feed (
          "title" : "Goa, India, To Host 2025 Chess World Cup"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123526167.cms\" />Goa will host the FIDE World Cup 2025 from October 31 to November 27, featuring 206 players competing for a $2 million prize and 3 qualifying spots for 2026 Candidates Tournament. This eight-round knockout event marks a significant moment for Indian chess, following recent triumphs like D Gukesh's World Championship and team victories at the Chess Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-its-official-goa-to-host-fide-world-cup-with-rs-17-5-cr-prize-pool/articleshow/123526167.cms",
-         "pubDate" : "Tue, 26 Aug 2025 12:39:47",
-         "title" : "It's official! Goa to host FIDE World Cup with Rs 17.5 Cr prize pool"
-      },
-      {
          "description" : "Please find here few photos",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-5/",
          "pubDate" : "Fri, 22 Aug 2025 22:01:51",
          "title" : "POSTGAME ROUND 5: Five Draws, But All Interesting | #SinquefieldCup"
-      },
-      {
-         "description" : "GM Fabiano Caruana continues to lead the 2025 Sinquefield Cup after, for the first time this tournament, a round of all draws. GM Jan-Krzysztof Duda came closest to winning against World Champion Gukesh Dommaraju by finding a brilliant line but mi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-5",
-         "pubDate" : "Fri, 22 Aug 2025 16:20:00",
-         "title" : "Caruana Leads After 5 Draws Before Rest Day"
       },
       {
          "description" : " Fabiano Caruana survived a scary opening to beat the out of form Nodirbek Abdusattorov. Caruana now leads alone on 3/4, half a point clear of Aronian and Praggnanandhaa. Maxime Vachier-Lagrave outplayed Gukesh for a few moves in the middlegame but missed the final killer blow and the game finished in a draw. Wesley So was better almost throughout against Alireza Firouzja, 30...f5?! was definitely an inaccuracy and rather than agree to a repetition So should have played on with 32.Kd2 (or subsequently this deviation when they repeated). The games Levon Aronian against Jan-Krzysztof Duda and Praggnanandhaa against Sam Sevian were quiet draws. Round 5 pairings: Duda-Gukesh, Caruana-So, Sevian-",
@@ -920,22 +928,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45966032/experience-defensive-prowess-key-anish-giri-charts-path-world-championship?device=featurephone",
          "pubDate" : "Wed, 13 Aug 2025 11:46:00",
          "title" : "Experience, defensive prowess the key as Anish Giri charts path to World Championship"
-      },
-      {
-         "description" : "The ECU E-Magazine July 2025 is out! In this edition of the ECU Magazine, you may read about: The ECU Magazine July 2025 can be read online together with interactive links, or it can be downloaded in PDF format below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-july-2025/",
-         "pubDate" : "Wed, 13 Aug 2025 10:34:48",
-         "title" : "ECU E-Magazine July 2025"
-      },
-      {
-         "description" : "The rapid growth of chess is leading to the proliferation of new formats, which is in turn creating a crowded year-long calendar.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45963789/which-chess-most-important-format-frequent-switching-raises-questions?device=featurephone",
-         "pubDate" : "Wed, 13 Aug 2025 10:10:00",
-         "title" : "Which is chess' most important format? Frequent switching raises questions"
       }
    ]
 }
