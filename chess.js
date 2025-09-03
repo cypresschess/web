@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123675946.cms\" />India's top-ranked Grandmaster R Praggnanandhaa remains one of the favourites to secure his 2026 Candidates berth, while Arjun Erigaisi, Vidit Gujrathi, Pentala Harikrishna, Nihal Sarin and Pranav V add firepower to India's record 15-player open section squad.",
+         "description" : " The FIDE Grand Swiss Tournament takes place in Samarkand, Uzbekistan which is 4 hours ahead of BST so 15:00 local time is 11am UK. The dates are Thu 4th Sep top Mon 15th Sep 2025. Players Open: Praggnanandhaa, Erigaisi, Gukesh, Firouzja, Keymer, Abdusattorov, Giri, Aronian, Nepomniachtchi, Mamedyarov, MVL, Niemann etc. Players Women: Muzychuk, Tan, Assaubayeva, Lagno etc play in the women's even which has suffered a number of withdrawals. Two players from each event qualify for the relevant Candidates tournaments. Gianluca Cantonetti contacted me about the Android App <a href=\"https://www.fomochess.com/\">FomoChess</a> which has a fantasy competition around this event, and had previously run",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-grand-swiss-tournament-2025",
+         "pubDate" : "Wed, 3 Sep 2025 14:30:00",
+         "title" : "FIDE Grand Swiss Tournament 2025 - Games and Results"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123675946.cms\" />The FIDE Grand Swiss 2025 in Samarkand will feature World Champion D Gukesh and Women's World Cup winner Divya Deshmukh, alongside a strong Indian contingent. Gukesh aims to maintain momentum, while Deshmukh seeks to test herself against top players. With Candidates spots and significant prize money at stake, the tournament promises intense competition and a showcase of India's chess talent.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-divya-deshmukh-only-indian-female-in-open-section-d-gukesh-surprisingly-in-contention/articleshow/123675946.cms",
@@ -18,6 +26,14 @@ news_feed (
          "title" : "ECU Annual Academy training programme 2025/26"
       },
       {
+         "description" : "The next era of Titled Tuesday began on September 2 with GM Alexey Sarana taking home the honors in the day&#39;s only tournament. With 9.5 points, Sarana was able to come out ahead of GM Andrey Esipenko on tiebreaks for his second consecutive victory...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sarana-wins-titled-tuesday-september-2-2025",
+         "pubDate" : "Wed, 03 Sep 2025 07:24:26",
+         "title" : "New Titled Tuesday Winner, Same As The Old Winner"
+      },
+      {
          "description" : "With five of the eight places for the 2026 Women's Candidates already decided, the focus now turns to the upcoming Women's Grand Swiss and the conclusion of the Women's Events 2024-25 series. Anna Muzychuk (pictured) currently leads the standings among players still in contention, ahead of Lei Tingjie, Harika Dronavalli and Kateryna Lagno. Their performances in Samarkand and later rapid and blitz events will determine the final qualification spots. | Photo: Przemek Nikiel",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +42,12 @@ news_feed (
          "title" : "Women's Candidates Race: Grand Swiss to grant two of the three remaining spots"
       },
       {
-         "description" : "36-year-old GM Igor Kovalenko played his first tournament outside of Ukraine in three years as he made nine draws in the recent 2025 Rubinstein Memorial in Polanica-Zdroj, Poland. The world number-54 is still a soldier but revealed he was able to ...",
+         "description" : "Thirty-six-year-old GM Igor Kovalenko played his first tournament outside of Ukraine in three years as he made nine draws in the recent 2025 Rubinstein Memorial in Polanica-Zdroj, Poland. The world number-54 is still a soldier but revealed he was ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/kovalenko-ukraine-frontline-chessboard-poland",
          "pubDate" : "Wed, 03 Sep 2025 02:11:05",
-         "title" : "Kovalenko Swaps Ukraine Frontlines For Chessboard In Poland"
+         "title" : "Kovalenko Swaps Ukraine Front Lines For Chessboard In Poland"
       },
       {
          "description" : "Chess.com&#38;rsquo;s Chief Chess Officer, IM Danny Rensch, hosted State of Chess on Tuesday to share all the latest updates for Chess.com. Joining him were several special guests including GM Magnus Carlsen, GM Hikaru Nakamura, and IM Levy Rozman. ...",
@@ -62,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-wins-louisiana-state-championship-candidates",
-         "pubDate" : "Tue, 02 Sep 2025 12:23:02",
+         "pubDate" : "Tue, 02 Sep 2025 12:23:00",
          "title" : "Nakamura Wins Louisiana State Championship, Edges Closer To Candidates"
       },
       {
@@ -120,6 +136,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-i-tried-to-live-as-a-man-but-couldnt-first-ever-trans-chess-player-to-reach-wim-now-french-womens-champion/articleshow/123646402.cms",
          "pubDate" : "Tue, 02 Sep 2025 03:34:53",
          "title" : "Exclusive | 'I tried to live as a man but': First-ever trans chess player to reach WIM"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> A chessboard's worth of US Chess members competed in the first US Chess Members Only Prize Arena, with NM Chess_Star1234 finishing first among the 64-player field. Results, standings, and games can be found on the arena's page.As a note, in these reports, we choose not to share the names of players competing in online arenas. Players may choose to share their own names publicly on their Chess.com profiles, in which case the reader can identify them.Arena tournaments are a unique online format that allow participants to come and go as they please without anybody having to wait until all games are finished to get paired for ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/64-players-compete-first-us-chess-members-only-prize-arena",
+         "pubDate" : "Tue, 02 Sep 2025 00:00:00",
+         "title" : "64 Players Compete in First US Chess Members Only Prize Arena"
       },
       {
          "description" : "This week's puzzles come from last month's Saint Louis Rapid &amp; Blitz, where GM Levon Aronian won the five-day, 27-game marathon for the third time in his career. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -642,14 +666,6 @@ news_feed (
          "title" : "Certificate of SNA Seminar & Exam held in Ahmednagar (Ahilya Nagar), Maharashtra on 12th & 13th July, 2025."
       },
       {
-         "description" : "Editor's note: To the best of my knowledge, no games were broadcast for this tournament, and there are no official photos of the awards ceremony. Parents are encouraged to send photos of any medalists to Click here to show email address, and I will update this page accordingly.***88 American players traveled to Kingston, Ontario, for the 2025 North American Youth Chess Championships, held August 17 through 23 at Queen's University.Across 12 sections, Americans brought home 29 medals, including 8 golds. Players competed in one of six age categories (Under-8, Under-10, Under-12, Under-14, Under-16, and Under-18) in either an open or girls section.These statistics do not include the blitz tourn",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/americans-bring-home-29-medals-2025-north-american-youth",
-         "pubDate" : "Mon, 25 Aug 2025 00:00:00",
-         "title" : "Americans Bring Home 29 Medals From 2025 North American Youth"
-      },
-      {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-6/\">POSTGAME ROUND 6: Fabiano Leads With Half a Point! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/grischuk-wins-freestyle-friday-august-22-2015",
          "pubDate" : "Sat, 23 Aug 2025 18:53:46",
          "title" : "Blitz Specialist Grischuk Triumphs, Nakamura Plays Masterpiece"
-      },
-      {
-         "description" : "A powerful performance by GM Daniel Naroditsky in Saturday&#39;s Bullet Brawl saw the 29-year-old join GM Hikaru Nakamura as the only player to win 30 titles in Chess.com&#39;s weekly titled arena. In a field brimming with elite bullet chess exponents, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-aug-23-2025",
-         "pubDate" : "Sat, 23 Aug 2025 15:19:00",
-         "title" : "Naroditsky Thwarts Tang, Maghsoodloo To Win 30th Title"
       },
       {
          "description" : " All of the games finished in a draw in the fifth round of the Sinquefield Cup This was the round heading into the only rest day. Levon Aronian and Alireza Firouzja drew a very sharp French but it seems it was all preparation from both players, Gukesh and Jan-Krzysztof Duda drew a fluctuating struggle where Duda in missed a clear win. Sam Sevian vs Nodirbek Abdusattorov, MVL vs Praggnanandhaa and Fabiano Caruana vs Wesley So were all well played draws. Leaders Caruana 3pts, Praggnanandhaa and Aronian 2.5 pts. Rest Day Saturday. Round 6 Pairings Sunday 24th August 2025: Abdusattorov-MVL, Gukesh-Firouzja, Praggnanandhaa-Duda, Sevian-Caruana, Aronian-So. ",
@@ -912,22 +920,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/45974136/vincent-keymer-takes-aim-d-gukesh-chess-crown-2025-chennai-grand-masters-win?device=featurephone",
          "pubDate" : "Thu, 14 Aug 2025 11:50:00",
          "title" : "Keymer takes aim at Gukesh's crown with Chennai Grand Masters win"
-      },
-      {
-         "description" : "Last Updated on 13th August 2025 by WebAdmin The new Coventry International will take place from Sunday 26th October to Friday 31st October 2025 at the Holiday Inn Coventry M6,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2025-coventry-international/",
-         "pubDate" : "Wed, 13 Aug 2025 15:22:58",
-         "title" : "2025 Coventry International"
-      },
-      {
-         "description" : "\"When I play a lot of players, what I immediately see is mistakes,\" says Anish Giri",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45966032/experience-defensive-prowess-key-anish-giri-charts-path-world-championship?device=featurephone",
-         "pubDate" : "Wed, 13 Aug 2025 11:46:00",
-         "title" : "Experience, defensive prowess the key as Anish Giri charts path to World Championship"
       }
    ]
 }
