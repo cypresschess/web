@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "...for the 2025 FIDE Grand Swiss. The historic city of Samarkand welcomed the chess world with a spectacular ceremony blending history, art and chess, setting the stage for one of the strongest tournaments ever. The ceremony started with a short video that took the audience on a journey in time, from the archaeological discoveries of 7th-century Afrasiab to the present day. The carefully crafted narrative began in darkness, with a golden beam of light revealing ancient chess pieces discovered on the historic hill of Afrasiab - evidence that chess had flourished in these lands for over thirteen centuries.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ancient-samarkand-sets-the-stage",
+         "pubDate" : "Wed, 03 Sep 2025 22:50:00",
+         "title" : "Ancient Samarkand sets the stage..."
+      },
+      {
          "description" : "Some time ago, we invited our readers to help us unravel a long-standing mystery in the famous game Botvinnik-Boleslavsky, played in 1943 (during World War II!). The response was overwhelming, and in a relatively short time, we reached a conclusion: Boleslavsky could have held the balance - a draw was within reach - despite Botvinnik's claim in his (usually precise!) commentary that his position was winning.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
