@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Some time ago, we invited our readers to help us unravel a long-standing mystery in the famous game Botvinnik-Boleslavsky, played in 1943 (during World War II!). The response was overwhelming, and in a relatively short time, we reached a conclusion: Boleslavsky could have held the balance - a draw was within reach - despite Botvinnik's claim in his (usually precise!) commentary that his position was winning.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/solution-botvinnik-boleslavsky-1943",
+         "pubDate" : "Wed, 03 Sep 2025 18:26:51",
+         "title" : "Solution: Botvinnik-Boleslavsky 1943"
+      },
+      {
          "description" : " The FIDE Grand Swiss Tournament takes place in Samarkand, Uzbekistan which is 4 hours ahead of BST so 15:00 local time is 11am UK. The dates are Thu 4th Sep top Mon 15th Sep 2025. Players Open: Praggnanandhaa, Erigaisi, Gukesh, Firouzja, Keymer, Abdusattorov, Giri, Aronian, Nepomniachtchi, Mamedyarov, MVL, Niemann etc. Players Women: Muzychuk, Tan, Assaubayeva, Lagno etc play in the women's even which has suffered a number of withdrawals. Two players from each event qualify for the relevant Candidates tournaments. Gianluca Cantonetti contacted me about the Android App <a href=\"https://www.fomochess.com/\">FomoChess</a> which has a fantasy competition around this event, and had previously run",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/kovalenko-ukraine-frontline-chessboard-poland",
          "pubDate" : "Wed, 03 Sep 2025 02:11:05",
          "title" : "Kovalenko Swaps Ukraine Front Lines For Chessboard In Poland"
+      },
+      {
+         "description" : "This week's puzzles come from last month's Saint Louis Rapid &amp; Blitz, where GM Levon Aronian won the five-day, 27-game marathon for the third time in his career. The Wednesday puzzles aren't easy! Check out yesterday's Tactics Tuesday for a more approachable batch of exercises from the same event. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-1-0",
+         "pubDate" : "Wed, 03 Sep 2025 00:00:00",
+         "title" : "Wednesday Workout: Saint Louis Rapid & Blitz, Pt. 1"
       },
       {
          "description" : "Chess.com&#38;rsquo;s Chief Chess Officer, IM Danny Rensch, hosted State of Chess on Tuesday to share all the latest updates for Chess.com. Joining him were several special guests including GM Magnus Carlsen, GM Hikaru Nakamura, and IM Levy Rozman. ...",
@@ -624,14 +640,6 @@ news_feed (
          "link" : "https://aicf.in/report-fide-arbiters-seminar-in-bhubaneshwar-from-16-18-august-2025/",
          "pubDate" : "Tue, 26 Aug 2025 06:08:50",
          "title" : "Report-FIDE Arbiters' Seminar in Bhubaneshwar from 16-18 August 2025."
-      },
-      {
-         "description" : "This week's puzzles come from the 12th Washington International, covered last week on Chess Life Online. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-12th-washington-international",
-         "pubDate" : "Tue, 26 Aug 2025 00:00:00",
-         "title" : "Tactics Tuesday: 12th Washington International"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-7/\">POSTGAME ROUND 7: Pragg Wins Outstanding Battle With Alireza | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
