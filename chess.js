@@ -928,22 +928,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/aug/15/chess-adams-wins-ninth-british-title-while-10-year-old-girl-breaks-two-world-records",
          "pubDate" : "Fri, 15 Aug 2025 07:00:25",
          "title" : "Chess: Adams wins ninth British title, while 10-year-old girl breaks two world records"
-      },
-      {
-         "description" : " Fabiano Caruana almost set a record 8/9 score in the Saint Louis Rapid section of this combined rapid and blitz tournament. Caruana needed to beat World Champion Gukesh in the final round to set the new mark. The Gukesh - Caruana final round game was a wild struggle where Caruana outplayed the World Champion and obtained a winning position, but with time running short for Caruana, and the position remaining complicated, the position turned around. Gukesh, although far from accurate himself, brought home the full point in a long endgame. The game is annotated below. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/fabiano-caruana-wins-the-st-louis-rapid-but-loses-to-gukesh-in-the-final-round",
-         "pubDate" : "Thu, 14 Aug 2025 11:52:00",
-         "title" : "Fabiano Caruana wins the St Louis Rapid but loses to Gukesh in the final round - Rapid 7-9"
-      },
-      {
-         "description" : "Keymer's last trip to Chennai was to help Gukesh become world champion - now he has his biggest classical win.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/45974136/vincent-keymer-takes-aim-d-gukesh-chess-crown-2025-chennai-grand-masters-win?device=featurephone",
-         "pubDate" : "Thu, 14 Aug 2025 11:50:00",
-         "title" : "Keymer takes aim at Gukesh's crown with Chennai Grand Masters win"
       }
    ]
 }
