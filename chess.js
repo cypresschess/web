@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123691133.cms\" />India's R Praggnanandhaa is set to clash with Jeffery Xiong at the FIDE Grand Swiss 2025, where Gukesh will face Etienne Bacrot. With top players like Carlsen, Caruana, and Nakamura absent, Indian players lead the seeds. Divya Deshmukh competes in the open section, while the tournament offers Candidates qualification spots and a substantial prize fund.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-2025-schedule-players-format-prize-money-and-live-streaming/articleshow/123691133.cms",
+         "pubDate" : "Thu, 04 Sep 2025 05:47:41",
+         "title" : "FIDE Grand Swiss 2025: Schedule, format, prize money and live streaming"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123690970.cms\" />The FIDE Grand Swiss tournament in Samarkand commences, offering Candidates spots. Caruana and Divya Deshmukh are absent from their respective sections, having already qualified. Divya participates in the Open section, while Gukesh, despite his World Champion status, competes, potentially influencing others' chances.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-chess-divya-deshmukh-needs-special-power-to-make-a-mark/articleshow/123690970.cms",
+         "pubDate" : "Thu, 04 Sep 2025 05:19:29",
+         "title" : "FIDE Grand Swiss Chess: Divya Deshmukh needs special power to make a mark"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123688243.cms\" />Nodirbek Abdusattorov ignited a pre-tournament buzz by confidently predicting D Gukesh's title loss, adding intrigue to the FIDE Grand Swiss 2025. While Gukesh aims to test himself in the Swiss format despite already securing his title match spot, Abdusattorov's remark intensifies the competition, especially with Candidates Tournament qualification at stake for many participants.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-d-gukesh-will-lose-his-title-uzbek-gms-latest-comment-sparks-controversy-before-fide-grand-swiss/articleshow/123688243.cms",
+         "pubDate" : "Thu, 04 Sep 2025 02:09:10",
+         "title" : "'Gukesh will lose his title': Uzbek GM's latest comment sparks controversy"
+      },
+      {
          "description" : "...for the 2025 FIDE Grand Swiss. The historic city of Samarkand welcomed the chess world with a spectacular ceremony blending history, art and chess, setting the stage for one of the strongest tournaments ever. The ceremony started with a short video that took the audience on a journey in time, from the archaeological discoveries of 7th-century Afrasiab to the present day. The carefully crafted narrative began in darkness, with a golden beam of light revealing ancient chess pieces discovered on the historic hill of Afrasiab - evidence that chess had flourished in these lands for over thirteen centuries.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -458,14 +482,6 @@ news_feed (
          "title" : "French trans chess player, who faced abuse, wins national title; creates history"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123557281.cms\" />R Praggnanandhaa's impressive runner-up finish at the Sinquefield Cup in St. Louis secured his spot in the Grand Chess Tour finale, despite Wesley So clinching the title after a thrilling playoff. Praggnanandhaa's performance adds to his stellar year, already marked by qualification for the 2026 Candidates Tournament. He will next compete in the Grand Swiss in Uzbekistan.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-praggnanandhaa-books-grand-chess-tour-finale-spot-with-runner-up-finish/articleshow/123557281.cms",
-         "pubDate" : "Thu, 28 Aug 2025 06:01:36",
-         "title" : "Sinquefield Cup: Praggnanandhaa books Grand Chess Tour Finale spot with runner-up finish"
-      },
-      {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Monday, September 1 in observance of Labor Day. Our offices will reopen for regular business on Tuesday, September 2 at 8 a.m. CT. Our best wishes and a happy Labor Day to all, and thank you for your continued support of US Chess! ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -546,14 +562,6 @@ news_feed (
          "title" : "Le, Sarana Become Last Players To Share Titled Tuesday Victory Stage"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123538292.cms\" />The penultimate round of the Sinquefield Cup saw Caruana and Praggnanandhaa maintain their joint lead, while Abdusattorov secured his first win against Firouzja. Gukesh pressed Aronian but only managed a draw. With Caruana facing Gukesh and Praggnanandhaa playing Aronian in the final round, the tournament title remains fiercely contested.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-caruana-praggnanandhaa-maintain-lead-as-abdusattorov-scores-first-win/articleshow/123538292.cms",
-         "pubDate" : "Wed, 27 Aug 2025 04:42:22",
-         "title" : "Sinquefield Cup: Caruana, Praggnanandhaa maintain lead as Abdusattorov scores first win"
-      },
-      {
          "description" : "Registration for the 2025 National K-12 Grade Chess Championship, held December 12 through 14 in Spokane, WA is open now. Please visit our event hub for more information - including information about sections, team rooms, and hotels - and register by October 27 for the lowest rate of $105. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -584,14 +592,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-8",
          "pubDate" : "Tue, 26 Aug 2025 18:31:00",
          "title" : "Abdusattorov Scores 1st Win; Caruana, Praggnanandhaa Lead"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123532712.cms\" />Goa is set to host the FIDE World Cup from October 30 to November 27, offering three Candidates Tournament spots and a $2 million prize pool. The event features chess giants like D Gukesh, Magnus Carlsen, and R Praggnanandhaa. India boasts a strong contingent of 21 players, including Viswanathan Anand, as the World Cup returns to India after 23 years.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-2025-in-india-pm-narendra-modi-says-chess-is-gaining-popularity-among-our-youth/articleshow/123532712.cms",
-         "pubDate" : "Tue, 26 Aug 2025 18:29:58",
-         "title" : "FIDE WC in India: PM Modi says 'Chess is gaining popularity among our youth'"
       },
       {
          "description" : "FIDE has announced that the 2025 Chess World Cup will be held in Goa, India, between October 30 and November 27, 2025. The World Cup is a biennial knockout tournament that features most of the world&#39;s top players. This year&#39;s event features 206 pa...",
