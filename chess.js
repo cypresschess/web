@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On September 28, Czech Inn Chess is organizing a rapid chess tournament in honor of Vlastimil Hort. The venue is the Hotel Giovanni, where Vlastimil Hort always stayed whenever he visited Prague. The tournament is intended to be held annually from now on. Those who take part will feel the spirit of the great Czech chess legend, which surely still lingers in these rooms.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rapid-chess-tournament-in-honor-of-vlastimil-hort-in-prague",
+         "pubDate" : "Thu, 04 Sep 2025 21:00:00",
+         "title" : "Rapid Chess Tournament in Honor of Vlastimil Hort in Prague"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://aicf.in/commonwealth-chess-championship-2025-26-in-kuala-lumpur-malaysia-from-8th-to-17th-november-2025/",
          "pubDate" : "Thu, 04 Sep 2025 10:23:35",
          "title" : "Commonwealth Chess Championship - 2025 - 26 in Kuala Lumpur, Malaysia from 8th to 17th November, 2025."
+      },
+      {
+         "description" : "World Champion Gukesh Dommaraju was among only 17 of 116 players to win in the first round of the 2025 FIDE Grand Swiss in Samarkand, with other stars getting off to a quick start including GMs Alireza Firouzja, Nodirbek Abdusattorov, and Anish Gi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-1",
+         "pubDate" : "Thu, 04 Sep 2025 09:57:46",
+         "title" : "Gukesh, Firouzja Among Early Winners; Women's Favorites Toppled"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123691133.cms\" />India's R Praggnanandhaa is set to clash with Jeffery Xiong at the FIDE Grand Swiss 2025, where Gukesh will face Etienne Bacrot. With top players like Carlsen, Caruana, and Nakamura absent, Indian players lead the seeds. Divya Deshmukh competes in the open section, while the tournament offers Candidates qualification spots and a substantial prize fund.",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-6",
          "pubDate" : "Sun, 24 Aug 2025 16:53:00",
          "title" : "Firouzja, Vachier-Lagrave Miss Wins On 2nd Day Of Draws"
-      },
-      {
-         "description" : "GM Alexander Grischuk displayed his famed blitz credentials, this time combining them with Freestyle chess abilities, winning the Freestyle Friday on August 22. He started with an amazing eight victories in the first eight rounds to capture the so...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/grischuk-wins-freestyle-friday-august-22-2015",
-         "pubDate" : "Sat, 23 Aug 2025 18:53:46",
-         "title" : "Blitz Specialist Grischuk Triumphs, Nakamura Plays Masterpiece"
       },
       {
          "description" : " All of the games finished in a draw in the fifth round of the Sinquefield Cup This was the round heading into the only rest day. Levon Aronian and Alireza Firouzja drew a very sharp French but it seems it was all preparation from both players, Gukesh and Jan-Krzysztof Duda drew a fluctuating struggle where Duda in missed a clear win. Sam Sevian vs Nodirbek Abdusattorov, MVL vs Praggnanandhaa and Fabiano Caruana vs Wesley So were all well played draws. Leaders Caruana 3pts, Praggnanandhaa and Aronian 2.5 pts. Rest Day Saturday. Round 6 Pairings Sunday 24th August 2025: Abdusattorov-MVL, Gukesh-Firouzja, Praggnanandhaa-Duda, Sevian-Caruana, Aronian-So. ",
