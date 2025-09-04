@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
+         "pubDate" : "Thu, 04 Sep 2025 11:50:00",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the additional players and accompanying persons are required to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/commonwealth-chess-championship-2025-26-in-kuala-lumpur-malaysia-from-8th-to-17th-november-2025/",
+         "pubDate" : "Thu, 04 Sep 2025 10:23:35",
+         "title" : "Commonwealth Chess Championship - 2025 - 26 in Kuala Lumpur, Malaysia from 8th to 17th November, 2025."
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123691133.cms\" />India's R Praggnanandhaa is set to clash with Jeffery Xiong at the FIDE Grand Swiss 2025, where Gukesh will face Etienne Bacrot. With top players like Carlsen, Caruana, and Nakamura absent, Indian players lead the seeds. Divya Deshmukh competes in the open section, while the tournament offers Candidates qualification spots and a substantial prize fund.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -840,14 +856,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/aronian-and-praggnanandhaa-win-in-round-1-of-the-sinquefield-cup",
          "pubDate" : "Tue, 19 Aug 2025 17:03:00",
          "title" : "Aronian and Praggnanandhaa win in Round 1 of the Sinquefield Cup - 1"
-      },
-      {
-         "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the players and accompanying persons are required to make",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/19th-asian-schools-chess-championships-2025-in-ulaanbaatar-mongolia-from-24th-october-to-2nd-november-2025/",
-         "pubDate" : "Tue, 19 Aug 2025 16:01:59",
-         "title" : "19th Asian Schools Chess Championships - 2025 in Ulaanbaatar, Mongolia from 24th October to 2nd November, 2025."
       },
       {
          "description" : " The newly expanded Club to reopen as the premier global venue for chess, kicking off a historic series of elite tournaments SAINT LOUIS, MO (August 19, 2025) - The Saint Louis Chess Club is proud to announce the grand reopening of its newly expanded campus this fall, marking a bold new chapter for the game [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-saint-louis-chess-club-grand-reopening/\">Saint Louis Chess Club to Unveil New World-Class Facility With a Month of Historic Events, Legendary Matches, and U.S. &amp; U.S. Women's Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
