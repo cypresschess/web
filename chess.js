@@ -34,7 +34,7 @@ news_feed (
          "title" : "Senior National Arbiter Seminar & Examination in Guwahati on 20 & 21 September 2025"
       },
       {
-         "description" : "GM Alireza Firouzja is the only top-20 player on a perfect 2/2 after round two of the 2025 FIDE Grand Swiss after he ground out another win, this time with Black against GM Maxim Rodshtein. He&#39;s joined in the lead by 21st seed, GM Parham Maghsoodl...",
+         "description" : "GM Alireza Firouzja is the only top-20 seed on a perfect 2/2 after grinding out a win in round two of the 2025 FIDE Grand Swiss, this time with Black against GM Maxim Rodshtein. He&#39;s joined in the lead by 21st seed, GM Parham Maghsoodloo, and the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-2",
@@ -48,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grandmaster-banned-for-cheating",
          "pubDate" : "Fri, 05 Sep 2025 10:00:00",
          "title" : "Grandmaster banned for cheating"
-      },
-      {
-         "description" : "The FIDE Grand Swiss opened with contrasting fortunes across the two sections. In the open, several of the world's top players, including Gukesh Dommaraju, Alireza Firouzja, Nodirbek Abdusattorov and Anish Giri, made assured starts, while upsets from David Ant&oacute;n and Aydin Suleymanli showed the depth of the field. The women's tournament, however, saw chaos from the outset, as 6 of the top 10 seeds fell, with Anna and Mariya Muzychuk, Tan Zhongyi and others suffering early defeats. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-1",
-         "pubDate" : "Fri, 05 Sep 2025 09:35:00",
-         "title" : "Grand Swiss: Many upsets in the women's section"
       },
       {
          "description" : "Last Updated on 5th September 2025 by WebAdmin Please note that the correct URLs to access the ECF LMS and Rating systems are as follows: https://rating.englishchess.org.uk/ https://lms.englishchess.org.uk/ The previous URLs...",
@@ -920,22 +912,6 @@ news_feed (
          "link" : "https://www.thearticle.com/egregious-erdogmus/",
          "pubDate" : "Sat, 16 Aug 2025 08:40:58",
          "title" : "Egregious Erdogmus"
-      },
-      {
-         "description" : " The Quantbox Chennai Grand Masters took place Thu 7th Aug to Fri 15th Aug 2025. Following a fire the venue had to change and the start postponed by a day. Players in the Masters tournament: Erigaisi, Giri, Keymer, Vidit, Jorden Van Foreest, Awonder Liang, Nihal Sarin, Robson, Karthikeyan and Pranav. There is a strong challengers event as well. Vincent Keymer won clearly with 7/9 two points clear of Anish Giri, Arjun Erigaisi and Murali Karthikeyan. The Challengers event was won by M Pranesh.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/quantbox-chennai-grand-masters-2025",
-         "pubDate" : "Fri, 15 Aug 2025 19:47:00",
-         "title" : "Quantbox Chennai Grand Masters 2025 - Games and Results"
-      },
-      {
-         "description" : " Vincent Keymer was the runaway winner of the Quantbox Chennai Grand Masters. Keymer started with three wins in a row against Nihal Sarin, V Pranav and Murali Karthikeyan. He drew against Giri in Round 4 and in Round 6 against close rival Arjun Erigaisi and then beat Awonder Liang in round 7. He'd already sewn up victory with a round to spare but added to his total by beating Ray Robson in the final round. Clearly one of the performances of the year. I've annotated the games against Erigaisi and Robson below.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/vincent-keymer-dominates-the-quantbox-chennai-grand-masters-2025",
-         "pubDate" : "Fri, 15 Aug 2025 19:44:00",
-         "title" : "Vincent Keymer dominates the Quantbox Chennai Grand Masters 2025 - 9"
       }
    ]
 }
