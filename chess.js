@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123709888.cms\" />The FIDE Grand Swiss witnessed a stunning upset as Hungarian teenager Zs&oacute;ka Ga&aacute;l defeated world No. 5 Anna Muzychuk. Reigning world champion D Gukesh of India began strongly, defeating Etienne Bacrot, while Praggnanandhaa drew with Jeffery Xiong. In other matches, Vaishali secured a win, adding to the excitement of the tournament's opening day.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-shocking-world-no-5-gm-anna-muzychuk-forgets-about-clock-suffers-massive-setback-at-grand-swiss-watch/articleshow/123709888.cms",
+         "pubDate" : "Fri, 05 Sep 2025 02:57:03",
+         "title" : "Shocking! World No. 5 forgets about clock, suffers setback - Watch"
+      },
+      {
          "description" : "In this new ChessBase show \"Master Your Chess with ChessBase Tools\", GM Dorian Rogozenco and Arne Kaehler introduce viewers to the practical use of ChessBase tools for chess improvement, starting with the cloud engine and the newly added ChessBase remote-engine feature. They explain how cloud and remote engines differ, how to install and use them, the role of ducats, and why trust and engine choice matter for analysis. The episode also highlights practical tips like running multiple engines, using private engines remotely, and applying engine analysis efficiently in opening, middlegame, and endgame study.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/the-grandmaster-who-is-approaching-a-100-game-unbeaten-streak",
-         "pubDate" : "Thu, 04 Sep 2025 12:53:54",
+         "pubDate" : "Thu, 04 Sep 2025 12:53:00",
          "title" : "This Grandmaster Is Closing In On 100 Games Without A Loss, While His Rating Is Dropping"
       },
       {
@@ -528,14 +536,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-exam-in-agartala-on-21-22-august-2025/",
          "pubDate" : "Thu, 28 Aug 2025 09:14:30",
          "title" : "Final Report of Senior National Arbiter Seminar & Exam in Agartala on 21 & 22 August 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123559940.cms\" />Yosha Iglesias, a 37-year-old chess player, has made history by winning the French Women's Chess Championship, becoming the second transgender player to achieve this feat. Overcoming challenges and online harassment, Iglesias defeated Women's Grand Master Mitra Hejazipour in the final.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/french-transgender-chess-player-who-faced-online-abuse-wins-national-title-creates-history/articleshow/123559940.cms",
-         "pubDate" : "Thu, 28 Aug 2025 08:41:23",
-         "title" : "French trans chess player, who faced abuse, wins national title; creates history"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Monday, September 1 in observance of Labor Day. Our offices will reopen for regular business on Tuesday, September 2 at 8 a.m. CT. Our best wishes and a happy Labor Day to all, and thank you for your continued support of US Chess! ",
