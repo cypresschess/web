@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The contest in Uzbekistan will qualify two of the eight 2026 world title Candidates, but Nakamura, the world No 2, has controversially preferred a low-rated qualification route The 11-round $625,000 Fide Grand Swiss, which began on Thursday in Samarkand, Uzbekistan, the capital of the Silk Road, will decide two of the eight qualifiers for next year's world title Candidates. India has a strong hand, as the world champion, Gukesh Dommaraju (ineligible to qualify), is joined by the world No 4, Praggnanandhaa Rameshbabu, the world No 5, Arjun Erigaisi, and the world No 27, Vidit Gujrathi, who won the 2023 Grand Swiss in Douglas, Isle of Man. Praggnanandhaa is already well placed to qualify via ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/sep/05/chess-gukesh-wins-impressively-on-silk-road-as-grand-swiss-starts-in-samarkand",
+         "pubDate" : "Fri, 05 Sep 2025 07:00:19",
+         "title" : "Chess: Gukesh wins impressively on Silk Road as Grand Swiss starts in Samarkand"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123712781.cms\" />Divya Deshmukh, after her Women's World Cup victory, revealed her mentors, Csaba Balogh and Abhimanyu Puranik. At the Grand Swiss 2025, Puranik, who had just enjoyed a Disneyland vacation, defeated his prot&eacute;g&eacute;, Divya. Puranik, a Mumbai-born Punekar, started chess at five and praised Divya's amazing mentality and potential for future dominance in Indian chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-from-chasing-one-rupee-coins-every-day-to-defeating-divya-deshmukh-abhimanyu-puranik-finds-the-state-between-rage-and-serenity/articleshow/123712781.cms",
+         "pubDate" : "Fri, 05 Sep 2025 06:06:24",
+         "title" : "Exclusive | From one-rupee coins to defeating Divya: Puranik finds state between 'rage and serenity'"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123709888.cms\" />The FIDE Grand Swiss witnessed a stunning upset as Hungarian teenager Zs&oacute;ka Ga&aacute;l defeated world No. 5 Anna Muzychuk. Reigning world champion D Gukesh of India began strongly, defeating Etienne Bacrot, while Praggnanandhaa drew with Jeffery Xiong. In other matches, Vaishali secured a win, adding to the excitement of the tournament's opening day.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -490,14 +506,6 @@ news_feed (
          "title" : "2025-2026 Scholastic Regulations"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123568207.cms\" />Global Chess League introduces 'GCL Contenders' to discover new talent. Registrations begin on Thursday for amateurs and professionals. The tournament unites players across six time zones. Winners will join Global Chess League franchises. The third edition starts December 13. Aspiring players can register in male, female, and U-21 categories. This initiative aims to strengthen the chess community.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-three-winners-to-join-franchises-through-contenders-programme/articleshow/123568207.cms",
-         "pubDate" : "Thu, 28 Aug 2025 16:30:11",
-         "title" : "Global Chess League: Three winners to join franchises through Contenders programme"
-      },
-      {
          "description" : " So Wins Second Title Amid Fierce Competition, Top Four Headed to Grand Chess Tour Finals in Brazil SAINT LOUIS, August 28, 2025 U.S. Grandmaster Wesley So triumphed at the 2025 Sinquefield Cup, outlasting a world-class field and a thrilling three-way tie at the top that led to playoffs to decide it all. In the end, [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-title-goes-to-american-grandmaster-wesley-so/\">2025 Sinquefield Cup Title Goes to American Grandmaster Wesley So</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -936,14 +944,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/vincent-keymer-dominates-the-quantbox-chennai-grand-masters-2025",
          "pubDate" : "Fri, 15 Aug 2025 19:44:00",
          "title" : "Vincent Keymer dominates the Quantbox Chennai Grand Masters 2025 - 9"
-      },
-      {
-         "description" : " The 53-year-old is just one short of Jonathan Penrose's record, while Bodhana Sivanandan became the youngest ever woman international master Michael Adams edged nearer the all-time record for British Championship titles last weekend when the Taunton-based grandmaster won his ninth national championship at Liverpool. Adams, who relaxes by watching cricket at Somerset's county ground, has now equalled Henry Atkins's total of nine championships from the first half of the last century, but remains one short of Jonathan Penrose's 10 crowns from the second half. Adams's first British title was in 1989 at age 17, still the youngest ever, but in the next 20 years he concentrated on the world champi",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/aug/15/chess-adams-wins-ninth-british-title-while-10-year-old-girl-breaks-two-world-records",
-         "pubDate" : "Fri, 15 Aug 2025 07:00:25",
-         "title" : "Chess: Adams wins ninth British title, while 10-year-old girl breaks two world records"
       }
    ]
 }
