@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this new ChessBase show \"Master Your Chess with ChessBase Tools\", GM Dorian Rogozenco and Arne Kaehler introduce viewers to the practical use of ChessBase tools for chess improvement, starting with the cloud engine and the newly added ChessBase remote-engine feature. They explain how cloud and remote engines differ, how to install and use them, the role of ducats, and why trust and engine choice matter for analysis. The episode also highlights practical tips like running multiple engines, using private engines remotely, and applying engine analysis efficiently in opening, middlegame, and endgame study.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cloud-engines-dorian-rogozenco-master-your-chess-with-chessbase-tools",
+         "pubDate" : "Thu, 04 Sep 2025 22:31:00",
+         "title" : "Cloud Engines - Dorian Rogozenco: Master Your Chess with ChessBase Tools"
+      },
+      {
          "description" : "On September 28, Czech Inn Chess is organizing a rapid chess tournament in honor of Vlastimil Hort. The venue is the Hotel Giovanni, where Vlastimil Hort always stayed whenever he visited Prague. The tournament is intended to be held annually from now on. Those who take part will feel the spirit of the great Czech chess legend, which surely still lingers in these rooms.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/rapid-chess-tournament-in-honor-of-vlastimil-hort-in-prague",
          "pubDate" : "Thu, 04 Sep 2025 21:00:00",
          "title" : "Rapid Chess Tournament in Honor of Vlastimil Hort in Prague"
+      },
+      {
+         "description" : "World Champion Gukesh Dommaraju was among only 17 of 116 players to win in the first round of the 2025 FIDE Grand Swiss in Samarkand, with other stars getting off to a quick start including GMs Alireza Firouzja, Nodirbek Abdusattorov, and Anish Gi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-1",
+         "pubDate" : "Thu, 04 Sep 2025 14:45:00",
+         "title" : "Gukesh, Firouzja Among Early Winners; Women's Favorites Toppled"
+      },
+      {
+         "description" : "GM Vadim Zvjaginsev is quietly building an impressive unbeaten streak. The 49-year-old grandmaster is up to 92 games without a single loss in classical chess, putting him in sight of the 100-game mark. Yet, instead of climbing on the rating list, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-grandmaster-who-is-approaching-a-100-game-unbeaten-streak",
+         "pubDate" : "Thu, 04 Sep 2025 12:53:54",
+         "title" : "This Grandmaster Is Closing In On 100 Games Without A Loss, While His Rating Is Dropping"
       },
       {
          "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://aicf.in/commonwealth-chess-championship-2025-26-in-kuala-lumpur-malaysia-from-8th-to-17th-november-2025/",
          "pubDate" : "Thu, 04 Sep 2025 10:23:35",
          "title" : "Commonwealth Chess Championship - 2025 - 26 in Kuala Lumpur, Malaysia from 8th to 17th November, 2025."
-      },
-      {
-         "description" : "World Champion Gukesh Dommaraju was among only 17 of 116 players to win in the first round of the 2025 FIDE Grand Swiss in Samarkand, with other stars getting off to a quick start including GMs Alireza Firouzja, Nodirbek Abdusattorov, and Anish Gi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-1",
-         "pubDate" : "Thu, 04 Sep 2025 09:57:46",
-         "title" : "Gukesh, Firouzja Among Early Winners; Women's Favorites Toppled"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123691133.cms\" />India's R Praggnanandhaa is set to clash with Jeffery Xiong at the FIDE Grand Swiss 2025, where Gukesh will face Etienne Bacrot. With top players like Carlsen, Caruana, and Nakamura absent, Indian players lead the seeds. Divya Deshmukh competes in the open section, while the tournament offers Candidates qualification spots and a substantial prize fund.",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-d-gukesh-will-lose-his-title-uzbek-gms-latest-comment-sparks-controversy-before-fide-grand-swiss/articleshow/123688243.cms",
          "pubDate" : "Thu, 04 Sep 2025 02:09:10",
          "title" : "'Gukesh will lose his title': Uzbek GM's latest comment sparks controversy"
+      },
+      {
+         "description" : "Editor's note: Since becoming Digital Editor for Chess Life Online, I have dreamt of publishing more regular wrap-ups of the sorts of events that are eligible for our Plan Ahead Calendar (as well as invitational tournaments).Do you want coverage of your tournament on Chess Life Online for future reporting or roundups?If so, email Click here to show email address with information of upcoming or recently concluded (i.e. within 1-2 weeks) events.For concluded tournaments, please include links to or screenshots of final standings, as well as links to DGT games or attached, transcribed game scores from 1-3 games of winners. Photos of the tournament and of winners are also a plus (cell phone photo",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/labor-day-weekend-wrap",
+         "pubDate" : "Thu, 04 Sep 2025 00:00:00",
+         "title" : "Labor Day Weekend Wrap-Up"
       },
       {
          "description" : "...for the 2025 FIDE Grand Swiss. The historic city of Samarkand welcomed the chess world with a spectacular ceremony blending history, art and chess, setting the stage for one of the strongest tournaments ever. The ceremony started with a short video that took the audience on a journey in time, from the archaeological discoveries of 7th-century Afrasiab to the present day. The carefully crafted narrative began in darkness, with a golden beam of light revealing ancient chess pieces discovered on the historic hill of Afrasiab - evidence that chess had flourished in these lands for over thirteen centuries.",
@@ -602,14 +626,6 @@ news_feed (
          "title" : "Registration for 2025 National K-12 Grade Chess Championship Open Now"
       },
       {
-         "description" : "This week's puzzles come from the 12th Washington International, covered last week on Chess Life Online. For more puzzles from this event, see yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-12th-washington-international",
-         "pubDate" : "Wed, 27 Aug 2025 00:00:00",
-         "title" : "Wednesday Workout: 12th Washington International"
-      },
-      {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-8/\">POSTGAME ROUND 8: Pragg &amp; Fabi Lead Before Final Round | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -728,14 +744,6 @@ news_feed (
          "link" : "https://www.europechess.org/eu-youth-chess-championship-2025-round-5-report/",
          "pubDate" : "Sun, 24 Aug 2025 21:04:35",
          "title" : "EU Youth Chess Championship 2025 - Round 5 report"
-      },
-      {
-         "description" : "GMs Maxime Vachier-Lagrave and Alireza Firouzja looked to be on the verge of winning their games, respectively, against GMs Nodirbek Abdusattorov and World Champion Gukesh Dommaraju in round six of the 2025 Sinquefield Cup, but both ended in draws...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-6",
-         "pubDate" : "Sun, 24 Aug 2025 16:53:00",
-         "title" : "Firouzja, Vachier-Lagrave Miss Wins On 2nd Day Of Draws"
       },
       {
          "description" : " All of the games finished in a draw in the fifth round of the Sinquefield Cup This was the round heading into the only rest day. Levon Aronian and Alireza Firouzja drew a very sharp French but it seems it was all preparation from both players, Gukesh and Jan-Krzysztof Duda drew a fluctuating struggle where Duda in missed a clear win. Sam Sevian vs Nodirbek Abdusattorov, MVL vs Praggnanandhaa and Fabiano Caruana vs Wesley So were all well played draws. Leaders Caruana 3pts, Praggnanandhaa and Aronian 2.5 pts. Rest Day Saturday. Round 6 Pairings Sunday 24th August 2025: Abdusattorov-MVL, Gukesh-Firouzja, Praggnanandhaa-Duda, Sevian-Caruana, Aronian-So. ",
