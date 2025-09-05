@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Grandmaster Lubomir Ftacnik presents a personal chess course that draws on his decades of playing at the top level and later experience as a coach, aiming to teach what he now understands more deeply than during his competitive career. Instead of overwhelming students with the endless information available in databases, he focuses on highlighting the most important principles-how to evaluate positions, avoid common mistakes, and understand underlying features of the game. The course covers key aspects of openings, middlegames, and endgames, always stressing practical understanding to help players make better decisions at the board.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lubomir-ftacnik-fundamentals-of-positional-play-and-strategy",
+         "pubDate" : "Fri, 05 Sep 2025 21:00:00",
+         "title" : "Lubomir Ftacnik: Fundamentals of Positional Play and Strategy"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,28 @@ news_feed (
          "title" : "Grand Swiss - Live!"
       },
       {
+         "description" : "GM Sina Movahed has become the sixth two-time winner of Freestyle Friday, winning his last six games on September 5 to take first place on tiebreaks&#38;nbsp;ahead of GM Zhamsaran Tsydypov, and 1.5 points ahead of the rest of the 116-player field. The...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/movahed-wins-freestyle-friday-september-5-2025",
+         "pubDate" : "Fri, 05 Sep 2025 11:11:39",
+         "title" : "Movahed Joins Multi-Time Winner List With Six-Game Win Streak"
+      },
+      {
          "description" : "On behalf of All India Chess Federation , All Assam State Chess Association is organizing Senior National Hotel Ornate, near Nehru Stadium in Guwahati ,Assam on 21",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-in-guwahati-on-20-21-september-2025/",
          "pubDate" : "Fri, 05 Sep 2025 10:34:39",
          "title" : "Senior National Arbiter Seminar & Examination in Guwahati on 20 & 21 September 2025"
+      },
+      {
+         "description" : "GM Alireza Firouzja is the only top-20 player on a perfect 2/2 after round two of the 2025 FIDE Grand Swiss after he ground out another win, this time with Black against GM Maxim Rodshtein. He&#39;s joined in the lead by 21st seed, GM Parham Maghsoodl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-2",
+         "pubDate" : "Fri, 05 Sep 2025 10:11:00",
+         "title" : "Gukesh Misses Win Vs. 14-Year-Old Erdogmus"
       },
       {
          "description" : "On Tuesday 22-year-old Ukrainian GM Kirill Shevchenko was stripped of his title and banned from competitive chess for three years. He was caught cheating during the Spanish Team Championship last year - and admitted to his wrongdoing. The case renewed our interest in the subject, and we take a look back at the evolution of cheating in chess - and the very tricky way it can be exercised.",
@@ -47,7 +71,7 @@ news_feed (
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/sep/05/chess-gukesh-wins-impressively-on-silk-road-as-grand-swiss-starts-in-samarkand",
          "pubDate" : "Fri, 05 Sep 2025 07:00:19",
-         "title" : "Chess: Gukesh wins impressively on Silk Road as Grand Swiss starts in Samarkand"
+         "title" : "Chess: World champion Gukesh falters against teenager as Grand Swiss starts on Silk Road"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123712781.cms\" />Divya Deshmukh, after her Women's World Cup victory, revealed her mentors, Csaba Balogh and Abhimanyu Puranik. At the Grand Swiss 2025, Puranik, who had just enjoyed a Disneyland vacation, defeated his prot&eacute;g&eacute;, Divya. Puranik, a Mumbai-born Punekar, started chess at five and praised Divya's amazing mentality and potential for future dominance in Indian chess.",
@@ -64,6 +88,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-shocking-world-no-5-gm-anna-muzychuk-forgets-about-clock-suffers-massive-setback-at-grand-swiss-watch/articleshow/123709888.cms",
          "pubDate" : "Fri, 05 Sep 2025 02:57:03",
          "title" : "Shocking! World No. 5 forgets about clock, suffers setback - Watch"
+      },
+      {
+         "description" : "It is said that no one can serve two masters. And so US Chess Executive Director Ranae Bartlett is trading Caïssa for the people of Madison, Alabama.<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> After serving on the Madison Board of Education (2011-2020) and City Council (2020-current), Bartlett won the Aug. 26 mayoral election with more than 56% of the vote. She will be inaugurated Nov. 3.Bartlett was named US Chess director of operations in September 2023, and became our executive director in March 2024. She departs US Chess on Oct. 21, but as mayor she'll keep her hand in the chess world.Newly elected to the Alabama Chess Hall of Fame, Bartlett will help run a che",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/mayor-bartlett-depart-us-chess-oct-21",
+         "pubDate" : "Fri, 05 Sep 2025 00:00:00",
+         "title" : "Mayor Bartlett to Depart US Chess Oct. 21"
       },
       {
          "description" : "World Champion Gukesh Dommaraju was among only 17 of 116 players to win in the first round of the 2025 FIDE Grand Swiss in Samarkand, with other stars getting off to a quick start including GMs Alireza Firouzja, Nodirbek Abdusattorov, and Anish Gi...",
@@ -618,14 +650,6 @@ news_feed (
          "title" : "Le, Sarana Become Last Players To Share Titled Tuesday Victory Stage"
       },
       {
-         "description" : "Registration for the 2025 National K-12 Grade Chess Championship, held December 12 through 14 in Spokane, WA is open now. Please visit our event hub for more information - including information about sections, team rooms, and hotels - and register by October 27 for the lowest rate of $105. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/registration-2025-national-k-12-grade-chess-championship-open-now",
-         "pubDate" : "Wed, 27 Aug 2025 00:00:00",
-         "title" : "Registration for 2025 National K-12 Grade Chess Championship Open Now"
-      },
-      {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-8/\">POSTGAME ROUND 8: Pragg &amp; Fabi Lead Before Final Round | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -682,14 +706,6 @@ news_feed (
          "title" : "Visit to HMP Bullingdon - Carl Portman"
       },
       {
-         "description" : "Get ready for a brand new era of Titled Tuesday! As recently announced, this 11-year-old institution is becoming part of the Champions Chess Tour qualification cycle for the Esports World Cup (EWC). The new Titled Tuesday season kicks off on Septe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/new-titled-tuesday-format-esports-world-cup-taketaketake",
-         "pubDate" : "Tue, 26 Aug 2025 07:00:00",
-         "title" : "Major Changes To Titled Tuesday, Take Take Take Joins As Official Broadcaster"
-      },
-      {
          "description" : "A FIDE Arbiters' Seminar was held in Bhubaneshwar, Odisha, from the 16th to the 18th of August 2025. The seminar was organized by the All",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -704,14 +720,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-7/",
          "pubDate" : "Mon, 25 Aug 2025 22:53:57",
          "title" : "POSTGAME ROUND 7: Pragg Wins Outstanding Battle With Alireza | #SinquefieldCup"
-      },
-      {
-         "description" : "Round seven of the 2025 Sinquefield Cup had three decisive games. GM Praggnanandhaa Rameshbabu beat GM Alireza Firouzja to join GM Fabiano Caruana in the lead on 4.5/7. GM Wesley So, in his first win of the tournament, beat World Champion Gukesh D...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-7",
-         "pubDate" : "Mon, 25 Aug 2025 21:08:00",
-         "title" : "Praggnanandhaa Catches Caruana In Lead; Wesley So, Duda Pick Up Wins"
       },
       {
          "description" : " The sixth round of the Sinquefield Cup was a lively one but in the end all the games were drawn leaving Caruana in the lead on 4/6. MVL will be upset how he let go several winning opportunities against Nodirbek Abdusattorov. It was a very strange game all around, MVL was completely winning, let go most of his advantage, was offered a final pretty straight forward winning chance but instead went into a king and pawn endgame that turned out to be drawn. Gukesh was a little bit better against Alireza Firouzja for a while but 21.Ned5? was inaccurate as was 25.Qd3. 30...Kh8?! (30...Qxe6) allowed Firouzja to come back into the game and Gukesh held a tricky endgame without drama. Fabiano Caruana w",
