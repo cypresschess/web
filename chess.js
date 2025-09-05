@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
+         "pubDate" : "Fri, 05 Sep 2025 11:50:00",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation , All Assam State Chess Association is organizing Senior National Hotel Ornate, near Nehru Stadium in Guwahati ,Assam on 21",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-in-guwahati-on-20-21-september-2025/",
+         "pubDate" : "Fri, 05 Sep 2025 10:34:39",
+         "title" : "Senior National Arbiter Seminar & Examination in Guwahati on 20 & 21 September 2025"
+      },
+      {
+         "description" : "On Tuesday 22-year-old Ukrainian GM Kirill Shevchenko was stripped of his title and banned from competitive chess for three years. He was caught cheating during the Spanish Team Championship last year - and admitted to his wrongdoing. The case renewed our interest in the subject, and we take a look back at the evolution of cheating in chess - and the very tricky way it can be exercised.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grandmaster-banned-for-cheating",
+         "pubDate" : "Fri, 05 Sep 2025 10:00:00",
+         "title" : "Grandmaster banned for cheating"
+      },
+      {
+         "description" : "The FIDE Grand Swiss opened with contrasting fortunes across the two sections. In the open, several of the world's top players, including Gukesh Dommaraju, Alireza Firouzja, Nodirbek Abdusattorov and Anish Giri, made assured starts, while upsets from David Ant&oacute;n and Aydin Suleymanli showed the depth of the field. The women's tournament, however, saw chaos from the outset, as 6 of the top 10 seeds fell, with Anna and Mariya Muzychuk, Tan Zhongyi and others suffering early defeats. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-1",
+         "pubDate" : "Fri, 05 Sep 2025 09:35:00",
+         "title" : "Grand Swiss: Many upsets in the women's section"
+      },
+      {
+         "description" : "Last Updated on 5th September 2025 by WebAdmin Please note that the correct URLs to access the ECF LMS and Rating systems are as follows: https://rating.englishchess.org.uk/ https://lms.englishchess.org.uk/ The previous URLs...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/accessing-ecf-lms-and-rating/",
+         "pubDate" : "Fri, 05 Sep 2025 09:09:56",
+         "title" : "Accessing ECF LMS and Rating"
+      },
+      {
          "description" : " The contest in Uzbekistan will qualify two of the eight 2026 world title Candidates, but Nakamura, the world No 2, has controversially preferred a low-rated qualification route The 11-round $625,000 Fide Grand Swiss, which began on Thursday in Samarkand, Uzbekistan, the capital of the Silk Road, will decide two of the eight qualifiers for next year's world title Candidates. India has a strong hand, as the world champion, Gukesh Dommaraju (ineligible to qualify), is joined by the world No 4, Praggnanandhaa Rameshbabu, the world No 5, Arjun Erigaisi, and the world No 27, Vidit Gujrathi, who won the 2023 Grand Swiss in Douglas, Isle of Man. Praggnanandhaa is already well placed to qualify via ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -26,22 +66,6 @@ news_feed (
          "title" : "Shocking! World No. 5 forgets about clock, suffers setback - Watch"
       },
       {
-         "description" : "In this new ChessBase show \"Master Your Chess with ChessBase Tools\", GM Dorian Rogozenco and Arne Kaehler introduce viewers to the practical use of ChessBase tools for chess improvement, starting with the cloud engine and the newly added ChessBase remote-engine feature. They explain how cloud and remote engines differ, how to install and use them, the role of ducats, and why trust and engine choice matter for analysis. The episode also highlights practical tips like running multiple engines, using private engines remotely, and applying engine analysis efficiently in opening, middlegame, and endgame study.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cloud-engines-dorian-rogozenco-master-your-chess-with-chessbase-tools",
-         "pubDate" : "Thu, 04 Sep 2025 22:31:00",
-         "title" : "Cloud Engines - Dorian Rogozenco: Master Your Chess with ChessBase Tools"
-      },
-      {
-         "description" : "On September 28, Czech Inn Chess is organizing a rapid chess tournament in honor of Vlastimil Hort. The venue is the Hotel Giovanni, where Vlastimil Hort always stayed whenever he visited Prague. The tournament is intended to be held annually from now on. Those who take part will feel the spirit of the great Czech chess legend, which surely still lingers in these rooms.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rapid-chess-tournament-in-honor-of-vlastimil-hort-in-prague",
-         "pubDate" : "Thu, 04 Sep 2025 21:00:00",
-         "title" : "Rapid Chess Tournament in Honor of Vlastimil Hort in Prague"
-      },
-      {
          "description" : "World Champion Gukesh Dommaraju was among only 17 of 116 players to win in the first round of the 2025 FIDE Grand Swiss in Samarkand, with other stars getting off to a quick start including GMs Alireza Firouzja, Nodirbek Abdusattorov, and Anish Gi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/the-grandmaster-who-is-approaching-a-100-game-unbeaten-streak",
          "pubDate" : "Thu, 04 Sep 2025 12:53:00",
          "title" : "This Grandmaster Is Closing In On 100 Games Without A Loss, While His Rating Is Dropping"
-      },
-      {
-         "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
-         "pubDate" : "Thu, 04 Sep 2025 11:50:00",
-         "title" : "Grand Swiss - Live!"
       },
       {
          "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the additional players and accompanying persons are required to",
@@ -106,14 +122,6 @@ news_feed (
          "title" : "Labor Day Weekend Wrap-Up"
       },
       {
-         "description" : "...for the 2025 FIDE Grand Swiss. The historic city of Samarkand welcomed the chess world with a spectacular ceremony blending history, art and chess, setting the stage for one of the strongest tournaments ever. The ceremony started with a short video that took the audience on a journey in time, from the archaeological discoveries of 7th-century Afrasiab to the present day. The carefully crafted narrative began in darkness, with a golden beam of light revealing ancient chess pieces discovered on the historic hill of Afrasiab - evidence that chess had flourished in these lands for over thirteen centuries.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ancient-samarkand-sets-the-stage",
-         "pubDate" : "Wed, 03 Sep 2025 22:50:00",
-         "title" : "Ancient Samarkand sets the stage..."
-      },
-      {
          "description" : "Some time ago, we invited our readers to help us unravel a long-standing mystery in the famous game Botvinnik-Boleslavsky, played in 1943 (during World War II!). The response was overwhelming, and in a relatively short time, we reached a conclusion: Boleslavsky could have held the balance - a draw was within reach - despite Botvinnik's claim in his (usually precise!) commentary that his position was winning.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -152,14 +160,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sarana-wins-titled-tuesday-september-2-2025",
          "pubDate" : "Wed, 03 Sep 2025 07:24:26",
          "title" : "New Titled Tuesday Winner, Same As The Old Winner"
-      },
-      {
-         "description" : "With five of the eight places for the 2026 Women's Candidates already decided, the focus now turns to the upcoming Women's Grand Swiss and the conclusion of the Women's Events 2024-25 series. Anna Muzychuk (pictured) currently leads the standings among players still in contention, ahead of Lei Tingjie, Harika Dronavalli and Kateryna Lagno. Their performances in Samarkand and later rapid and blitz events will determine the final qualification spots. | Photo: Przemek Nikiel",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-women-events-update-september-2025",
-         "pubDate" : "Wed, 03 Sep 2025 07:20:00",
-         "title" : "Women's Candidates Race: Grand Swiss to grant two of the three remaining spots"
       },
       {
          "description" : "Thirty-six-year-old GM Igor Kovalenko played his first tournament outside of Ukraine in three years as he made nine draws in the recent 2025 Rubinstein Memorial in Polanica-Zdroj, Poland. The world number-54 is still a soldier but revealed he was ...",
@@ -208,14 +208,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-louisiana-state-championship-candidates",
          "pubDate" : "Tue, 02 Sep 2025 12:23:00",
          "title" : "Nakamura Wins Louisiana State Championship, Edges Closer To Candidates"
-      },
-      {
-         "description" : "For two weeks in September, the ancient capital of the Silk Road will be home to many of the best chess players in the world. Since its initiation in 2019, the FIDE Grand Swiss - held every two years - has distinguished itself as the strongest classical chess tournament. Featuring eleven rounds played under the Swiss system it is a battleground where the best face the best and only exceptional performance can secure victory.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/talent-youth-experience-and-ambition-collide",
-         "pubDate" : "Tue, 02 Sep 2025 11:21:00",
-         "title" : "Talent, youth, experience, and ambition collide"
       },
       {
          "description" : "We&#39;re excited to announce our newest weekly prize events for titled players and streamers, The After Party and The Untitled After Party! Starting September 9, the new After Party series will feature a weekly prize fund and the beloved arena format...",
@@ -832,14 +824,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/caruana-joins-the-leaders-after-beating-firouzja-in-the-sinquefield-cup-round-3",
          "pubDate" : "Thu, 21 Aug 2025 15:16:00",
          "title" : "Caruana joins the leaders after beating Firouzja in the Sinquefield Cup Round 3 - 3"
-      },
-      {
-         "description" : "The Bathinda District Chess Association, on behalf of the Punjab State Chess Association, the All India Chess Federation, and the AICF Arbiters' Commission, successfully organized",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-held-in-bathinda-on-15-16-august-2025/",
-         "pubDate" : "Thu, 21 Aug 2025 09:31:16",
-         "title" : "Final Report of Senior National Arbiter Seminar & Examination held in Bathinda on 15 & 16 August 2025"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-3/\">POSTGAME ROUND 3: Caruana Earns Massive Win over Firouzja! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
