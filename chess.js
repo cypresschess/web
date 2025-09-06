@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Simpson's-in-the-Strand is due to reopen this autumn after being closed for five years, ever since the Covid pandemic. For nearly two centuries, Simpson's Grand Cigar Divan (as it was originally known) has been a landmark for chess players. The excitement is not least present with the new proprietor, the celebrated restaurateur Jeremy King. Here are his thoughts []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/paradise-regained-the-reopening-of-simpsons/",
+         "pubDate" : "Sat, 06 Sep 2025 12:00:20",
+         "title" : "Paradise regained: the reopening of Simpson's"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/acceptance/",
          "pubDate" : "Sat, 16 Aug 2025 13:00:00",
          "title" : "The Biggest Lie We Tell Ourselves"
-      },
-      {
-         "description" : " The Saint Louis Rapid & Blitz took place 11th to 15th August 2025. Players: Fabiano, Caruana, D Gukesh, Nodirbek Abdusattorov, Wesley So, Levon Aronian, Leinier Dominguez Perez, Maxime Vachier-Lagrave, Le Quang Liem, Sam Shankland and Grigoriy Oparin. Levon Aronian won the event by finishing second in the rapid and clear first in the blitz. Fabiano Caruana finished in second place over all after winning the rapid but being far off the pace in the blitz. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2025",
-         "pubDate" : "Sat, 16 Aug 2025 11:32:00",
-         "title" : "Saint Louis Rapid & Blitz 2025 - Games and Results"
       }
    ]
 }
