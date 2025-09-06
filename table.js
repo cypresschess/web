@@ -1,4 +1,7 @@
 jtable([
+"CYPRESS","2025-09-05","42","<a href=http://www.uschess.org/msa/XtblMain.php?202509054922 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SUGAR LAND","2025-09-05","10","<a href=http://www.uschess.org/msa/XtblMain.php?202509054902 target='_blank'>FBCC 2025 WORLD SAMOSA DAY OPEN/FBC</a>",
+"HOUSTON","2025-09-05","18","<a href=http://www.uschess.org/msa/XtblMain.php?202509054872 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2025-09-01","23","<a href=http://www.uschess.org/msa/XtblMain.php?202509013092 target='_blank'>2025 LABOR DAY BY AZCHACAD</a>",
 "HOUSTON","2025-08-31","20","<a href=http://www.uschess.org/msa/XtblMain.php?202508311782 target='_blank'>BELLAIRE SUNDAY SWISS 8/31/2025</a>",
 "HOUSTON","2025-08-30","177","<a href=http://www.uschess.org/msa/XtblMain.php?202508301742 target='_blank'>BACK TO SCHOOL SCHOLASTIC TOURNAMEN</a>",
@@ -196,7 +199,4 @@ jtable([
 "HOUSTON","2025-02-23","12","<a href=http://www.uschess.org/msa/XtblMain.php?202502238892 target='_blank'>QUICK CHESS SUNDAY SWISS (G/15)</a>",
 "PASADENA","2025-02-22","43","<a href=http://www.uschess.org/msa/XtblMain.php?202502229432 target='_blank'>PASADENA ISD FEBRUARY 2025</a>",
 "HOUSTON","2025-02-22","8","<a href=http://www.uschess.org/msa/XtblMain.php?202502228882 target='_blank'>FEB 22  SATURDAY SWISS AT NOON</a>",
-"HOUSTON","2025-02-22","133","<a href=http://www.uschess.org/msa/XtblMain.php?202502226712 target='_blank'>EASTWOOD ACADEMY CHESS TOURNAMENT</a>",
-"PASADENA","2025-02-22","29","<a href=http://www.uschess.org/msa/XtblMain.php?202502226562 target='_blank'>PISD FEBRUARY 2025</a>",
-"HOUSTON","2025-02-22","10","<a href=http://www.uschess.org/msa/XtblMain.php?202502225802 target='_blank'>CHESSPANDA02222025SATURDAY</a>",
 ]);
