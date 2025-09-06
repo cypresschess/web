@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
+         "pubDate" : "Sat, 06 Sep 2025 11:50:00",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "95 years ago, on September 6, 1930, the Anderssen Jubilee Tournament of the Frankfurt Chess Club began in Frankfurt am Main. The Master Tournament was convincingly won by Nimzowitsch with 9&frac12; out of 11, but the perhaps most famous game of the event was played in the Main Tournament. It was Hugo Hussong's brilliant win against Fritz Herrmann.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hugo-hussong-s-immortal",
+         "pubDate" : "Sat, 06 Sep 2025 10:00:00",
+         "title" : "Hugo Hussong's \"Immortal\""
+      },
+      {
+         "description" : "After two rounds of the FIDE Grand Swiss, only five players remain on perfect scores out of 172 participants, underlining the strength of both tournaments. In the open, Alireza Firouzja, Parham Maghsoodloo and Anton Demchenko (pictured) lead with 2/2, while Vaishali Rameshbabu and Olga Badelka top the women's standings. Thirty players chase the leaders in the open, while fifteen trail in the women's event. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-2",
+         "pubDate" : "Sat, 06 Sep 2025 08:50:00",
+         "title" : "Grand Swiss: Demchenko, Firouzja and Maghsoodloo on 2 out of 2"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123732095.cms\" />Indian Grand Master Divya Deshmukh is participating in the FIDE Grand Swiss tournament in Samarkand. Despite an opening round defeat by her mentor Abhimanyu Puranik, the 19-year-old rebounded with a draw against Alexander Donchenko. Divya emphasizes learning over winning, stating that losses against strong players provide valuable lessons.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-divya-deshmukh-ready-to-lose-11-rounds-i-will-be-fine-if-i-learn/articleshow/123732095.cms",
+         "pubDate" : "Sat, 06 Sep 2025 07:28:47",
+         "title" : "FIDE Grand Swiss: Divya ready to lose 11 rounds - 'I will be fine if I learn'"
+      },
+      {
          "description" : "Michael Kotyk is a young chess trainer from Hamburg. He still remembers clearly when he first took serious notice of the Trompowsky system: during the World Championship match between Magnus Carlsen and Sergey Karjakin. That was reason enough for him to take a closer look at Robert Ris's video course on this opening and to explain why he now finds the Trompowsky system interesting, despite having long considered it not particularly dangerous... | Photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,16 +70,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-duck-chess-championship-nhat-wins",
-         "pubDate" : "Fri, 05 Sep 2025 20:29:08",
+         "pubDate" : "Fri, 05 Sep 2025 20:29:00",
          "title" : "Nhat Minh Defends Title Of Duck Chess Champion"
-      },
-      {
-         "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
-         "pubDate" : "Fri, 05 Sep 2025 11:50:00",
-         "title" : "Grand Swiss - Live!"
       },
       {
          "description" : "GM Sina Movahed has become the sixth two-time winner of Freestyle Friday, winning his last six games on September 5 to take first place on tiebreaks&#38;nbsp;ahead of GM Zhamsaran Tsydypov, and 1.5 points ahead of the rest of the 116-player field. The...",
@@ -456,14 +480,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-updates-dress-code-for-grand-swiss-includes-appropriate-jeans-after-magnus-carlsen-controversy/articleshow/123595743.cms",
          "pubDate" : "Sat, 30 Aug 2025 05:10:41",
          "title" : "FIDE updates dress code, includes 'appropriate jeans' after Carlsen controversy"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123595447.cms\" />Grandmaster Kirill Shevchenko has been handed a three-year ban from FIDE-rated events and lost his Grandmaster title after confessing to hiding a phone during the Spanish Team Championship in October 2024. Tournament officials discovered the phone, prompting an investigation after concerns were raised about Shevchenko's absences.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-strips-grandmaster-title-of-player-for-cheating-banned-for-three-years/articleshow/123595447.cms",
-         "pubDate" : "Sat, 30 Aug 2025 04:11:06",
-         "title" : "FIDE strips Grandmaster title of player for cheating, banned for three years"
       },
       {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-26th-august-2025\">Titled Tuesday Blitz for the 26th August</a> was the last under the current format. This Chess.com event has run since 2014 and has had an early and late section since 2022. From the 2nd September there will be just one Titled Tuesday Blitz each week, it will take place at 11am Eastern Standard Time, 17:00 Central European Time and 20:30 Indian time. Other changes include a move to five minutes per game and a weekly live show produced by the chess app \"Take Take Take\". Titled Tuesday will be part of Chess.com's qualification process for the Esports World Cup (EWC) which will take place in Riddah ",
@@ -904,22 +920,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2025",
          "pubDate" : "Sat, 16 Aug 2025 11:32:00",
          "title" : "Saint Louis Rapid & Blitz 2025 - Games and Results"
-      },
-      {
-         "description" : " Levon Aronian won the <a href=\"https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2025\">Saint Louis Blitz</a> on tie-break from Nodirbek Abdusattorov, they both scored 11.5/18. This score was enough to make Aronian clear winner of the combined rapid and blitz as the winner of the rapid section, Caruana only scored 7.5 points and Aronian finished in second place there, Abdusattorov finished tied 6th in the rapid. World Champion Gukesh finished in 7th in the blitz. This event is part of the Grand Chess Tour, the top four in the standings go forward to the finals Sao Paulo at the end of September. There is just one event to go, the <a href=\"https://theweekinchess.com/chessnews",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/levon-aronian-wins-the-saint-louis-rapid-and-blitz-2025",
-         "pubDate" : "Sat, 16 Aug 2025 11:22:00",
-         "title" : "Levon Aronian wins the Saint Louis Rapid and Blitz 2025 - "
-      },
-      {
-         "description" : "My favourite line, in the entire sweep of English literature, comes not from the usual suspects-Shakespeare, Dickens, Eliot-but from the bold and now mostly overlooked opening of Tamburlaine the Great: Part Two, where Marlowe's Turkish Sultan Bajazeth, Yilderim, The Lightning Bolt, thunders out to his numerous followers and captains: \"Egregious viceroys of these Eastern parts.\" It's a []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/egregious-erdogmus/",
-         "pubDate" : "Sat, 16 Aug 2025 08:40:58",
-         "title" : "Egregious Erdogmus"
       }
    ]
 }
