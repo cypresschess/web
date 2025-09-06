@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123737942.cms\" />R Vaishali's exceptional form propelled her to the sole lead in the FIDE Grand Swiss women's section with a third consecutive victory. Meanwhile, D Gukesh showcased his prowess in the open section, outplaying Daniil Yuffa. Other Indian players experienced mixed results, with Vantika Agrawal facing a defeat and D Harika drawing her game.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-vaishali-takes-sole-lead-in-womens-section-gukesh-impresses-with-solid-win/articleshow/123737942.cms",
+         "pubDate" : "Sat, 06 Sep 2025 16:54:24",
+         "title" : "FIDE Grand Swiss: Vaishali takes sole lead in women's section, Gukesh impresses with solid win"
+      },
+      {
          "description" : "If you're used to picking things up quickly, in school, at work, or in life, then chess can feel strangely frustrating. You're successful in your career. You had little trouble with math in school. You've solved tough problems before, and usually with less effort than most. But in chess, you struggle. For the first time, []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
          "pubDate" : "Sat, 06 Sep 2025 11:50:00",
          "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "GM Parham Maghsoodloo called GM Alireza Firouzja&#39;s bluff to take the sole lead in the 2025 FIDE Grand Swiss, after co-leader GM Anton Demchenko eventually succumbed to GM Arjun Erigaisi&#39;s pressure. Another late winner was GM Praggnanandhaa Rameshb...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-3",
+         "pubDate" : "Sat, 06 Sep 2025 11:11:00",
+         "title" : "Maghsoodloo, Vaishali Take Sole Grand Swiss Lead On 3/3"
       },
       {
          "description" : "95 years ago, on September 6, 1930, the Anderssen Jubilee Tournament of the Frankfurt Chess Club began in Frankfurt am Main. The Master Tournament was convincingly won by Nimzowitsch with 9&frac12; out of 11, but the perhaps most famous game of the event was played in the Main Tournament. It was Hugo Hussong's brilliant win against Fritz Herrmann.",
@@ -490,14 +506,6 @@ news_feed (
          "title" : "Watch: Chinese chess player spends 4 hours in heavy rain after loss; GMs react"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123595743.cms\" />Following Magnus Carlsen's controversial exit from the FIDE World Rapid Championship after being fined for wearing jeans, FIDE has updated its dress code. The new regulations now permit \"appropriate jeans\" in blue, black, and grey at the upcoming Grand Swiss and Women's Grand Swiss tournaments in September.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-updates-dress-code-for-grand-swiss-includes-appropriate-jeans-after-magnus-carlsen-controversy/articleshow/123595743.cms",
-         "pubDate" : "Sat, 30 Aug 2025 05:10:41",
-         "title" : "FIDE updates dress code, includes 'appropriate jeans' after Carlsen controversy"
-      },
-      {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-26th-august-2025\">Titled Tuesday Blitz for the 26th August</a> was the last under the current format. This Chess.com event has run since 2014 and has had an early and late section since 2022. From the 2nd September there will be just one Titled Tuesday Blitz each week, it will take place at 11am Eastern Standard Time, 17:00 Central European Time and 20:30 Indian time. Other changes include a move to five minutes per game and a weekly live show produced by the chess app \"Take Take Take\". Titled Tuesday will be part of Chess.com's qualification process for the Esports World Cup (EWC) which will take place in Riddah ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-8/",
          "pubDate" : "Tue, 26 Aug 2025 23:33:27",
          "title" : "POSTGAME ROUND 8: Pragg & Fabi Lead Before Final Round | #SinquefieldCup"
-      },
-      {
-         "description" : "The standings at the top remain unchanged after the penultimate round of the 2025 Sinquefield Cup. GMs Fabiano Caruana and Praggnanandhaa Rameshbabu lead before the final round, after draws respectively with GMs Maxime Vachier-Lagrave&#38;nbsp; and We...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-8",
-         "pubDate" : "Tue, 26 Aug 2025 18:31:00",
-         "title" : "Abdusattorov Scores 1st Win; Caruana, Praggnanandhaa Lead"
       },
       {
          "description" : "Please find here few photos",
