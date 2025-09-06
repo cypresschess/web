@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "If you're used to picking things up quickly, in school, at work, or in life, then chess can feel strangely frustrating. You're successful in your career. You had little trouble with math in school. You've solved tough problems before, and usually with less effort than most. But in chess, you struggle. For the first time, []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/chess-improvement-for-smart-adults/",
+         "pubDate" : "Sat, 06 Sep 2025 13:59:00",
+         "title" : "What If Being Smart Was The Problem?"
+      },
+      {
          "description" : "Simpson's-in-the-Strand is due to reopen this autumn after being closed for five years, ever since the Covid pandemic. For nearly two centuries, Simpson's Grand Cigar Divan (as it was originally known) has been a landmark for chess players. The excitement is not least present with the new proprietor, the celebrated restaurateur Jeremy King. Here are his thoughts []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/gosforth-chess-club-gnr-sponsorship-for-ukraine/",
          "pubDate" : "Mon, 18 Aug 2025 15:16:05",
          "title" : "Gosforth Chess Club - GNR Sponsorship for Ukraine"
-      },
-      {
-         "description" : "Thanks for all the positive feedback on last week's newsletter titled \"You are not your rating\". It really hit home hard for me that identifying with results, believing one is only worth something when you play well, isn't just an experience professional players have. It sort of became an epidemic, both in chess and other []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/acceptance/",
-         "pubDate" : "Sat, 16 Aug 2025 13:00:00",
-         "title" : "The Biggest Lie We Tell Ourselves"
       }
    ]
 }
