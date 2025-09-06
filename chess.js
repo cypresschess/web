@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Michael Kotyk is a young chess trainer from Hamburg. He still remembers clearly when he first took serious notice of the Trompowsky system: during the World Championship match between Magnus Carlsen and Sergey Karjakin. That was reason enough for him to take a closer look at Robert Ris's video course on this opening and to explain why he now finds the Trompowsky system interesting, despite having long considered it not particularly dangerous... | Photos: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-robert-ris-the-top-tier-trompowsky",
+         "pubDate" : "Sat, 06 Sep 2025 07:00:00",
+         "title" : "Review - Robert Ris: The Top-Tier Trompowsky"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123730061.cms\" />Uzbekistan's Nodirbek Abdusattorov has stirred the chess world by predicting that India's youngest world champion, D Gukesh, will lose his title in the next defense. Viswanathan Anand responded with amusement, acknowledging the comment's entertainment value. Gukesh, unfazed, focused on the Candidates Tournament qualification race, where Abdusattorov is a contender alongside other strong players.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-will-lose-his-title-in-the-next-match-viswanathan-anand-slams-nodirbek-abdusattorov-for-controversial-remark-watch/articleshow/123730061.cms",
+         "pubDate" : "Sat, 06 Sep 2025 05:29:42",
+         "title" : "'Gukesh will lose his title': Anand slams Uzbek GM - Watch"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123729390.cms\" />Indian grandmasters are making waves at the FIDE Grand Swiss! D Gukesh drew a tense match, while defending champion R Vaishali secured another victory. Praggnanandhaa clinched his first tournament win. Alireza Firouzja, Parham Maghsoodloo, and Anton Demchenko lead the open section. Vaishali and Olga Bedelka share the lead in the women's section.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-world-chess-champion-d-gukesh-denied-win-by-14-year-old-prodigy-r-vaishali-shares-lead-in-womens-section/articleshow/123729390.cms",
+         "pubDate" : "Sat, 06 Sep 2025 03:40:33",
+         "title" : "Gukesh denied win by 14-year-old; Vaishali shares lead in women's section"
+      },
+      {
          "description" : "Grandmaster Lubomir Ftacnik presents a personal chess course that draws on his decades of playing at the top level and later experience as a coach, aiming to teach what he now understands more deeply than during his competitive career. Instead of overwhelming students with the endless information available in databases, he focuses on highlighting the most important principles-how to evaluate positions, avoid common mistakes, and understand underlying features of the game. The course covers key aspects of openings, middlegames, and endgames, always stressing practical understanding to help players make better decisions at the board.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/lubomir-ftacnik-fundamentals-of-positional-play-and-strategy",
          "pubDate" : "Fri, 05 Sep 2025 21:00:00",
          "title" : "Lubomir Ftacnik: Fundamentals of Positional Play and Strategy"
+      },
+      {
+         "description" : "Duck Chess Champion IM Nhat Minh To defended his title in the&#38;nbsp;2025 Duck Chess Championship Final, and convincingly so. He won all four of his matches 3-0, literally winning all 12 games, to earn $750. He defeated runner-up IM Eric Rosen (earn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-duck-chess-championship-nhat-wins",
+         "pubDate" : "Fri, 05 Sep 2025 20:29:08",
+         "title" : "Nhat Minh Defends Title Of Duck Chess Champion"
       },
       {
          "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
@@ -34,7 +66,7 @@ news_feed (
          "title" : "Senior National Arbiter Seminar & Examination in Guwahati on 20 & 21 September 2025"
       },
       {
-         "description" : "GM Alireza Firouzja is the only top-20 seed on a perfect 2/2 after grinding out a win in round two of the 2025 FIDE Grand Swiss, this time with Black against GM Maxim Rodshtein. He&#39;s joined in the lead by 21st seed, GM Parham Maghsoodloo, and the ...",
+         "description" : "GM Alireza Firouzja is the only top-20 seed on a perfect 2/2 after grinding out a win in round two of the 2025 FIDE Grand Swiss, this time with Black against GM Maxim Rodshtein. He&#39;s joined in the lead by the 21st seed, GM Parham Maghsoodloo, and ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-2",
@@ -458,14 +490,6 @@ news_feed (
          "title" : "Communication of the ECU Board Meeting"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123583271.cms\" />D Gukesh, the youngest World Chess Champion, revealed that Viswanathan Anand's advice helped him recover after a poor start in Singapore. The 19-year-old admitted overconfidence led to a loss in the opening game, serving as a wake-up call. He revealed the 'pep talk' that gave him perspective and ultimately led to victory.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-reveals-nightmare-start-before-viswanathan-anands-words-saved-him-overconfident-played-horribly/articleshow/123583271.cms",
-         "pubDate" : "Fri, 29 Aug 2025 11:01:49",
-         "title" : "Gukesh reveals nightmare start before Viswanathan Anand's words saved him: 'Played horribly'"
-      },
-      {
          "description" : "European Union Youth U8-U14 Chess Championship concluded in Roznov pod Radhostem, Czech Republic! The last rounds were full of fights and tension. In category Boys U8, Lev Jevglevski (EST) took the first place scoring 9 our of 9 points(!), the second place went to David-Christian Talaba (ROU) and Daniel Sava (ROU) won bronze. In category Girls U8, Sophia-Lenina Matala (ROU) won gold, Sare Adam (FRA) won silver medal and Pausader Ines Bravo (FRA) came third. Filip Sirbu (FRA) became the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -488,14 +512,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-tech-mahindra-global-chess-league-season-3",
          "pubDate" : "Fri, 29 Aug 2025 06:00:57",
          "title" : "Global Chess League Returns For 3rd Season With Open Qualifiers And Top Talent"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123575293.cms\" />Goa is set to host the FIDE World Cup in 2025, marking its return to India after 23 years, reminiscent of the 2002 World Junior Championship where Levon Aronian emerged victorious. The event not only boosted Goa's tourism, particularly attracting Russian visitors, but also showcased the region's hospitality and organisational capabilities.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/in-iran-no-dancing-in-goa-iranians-danced-chess-world-cup-returns-after-23-years/articleshow/123575293.cms",
-         "pubDate" : "Fri, 29 Aug 2025 03:35:46",
-         "title" : "'In Goa, Iranians danced' - Chess World Cup returns after 23 years"
       },
       {
          "description" : "The theme of this issue is non-server games. All moves from the games presented were either sent through the US Postal Service or by email.Please Note: In order for non-server games to be included in an issue of Check is in the Mail, they must be provided by, at least, one of the players of the games. Since US Chess does not mandate that players send in the games, sharing them is entirely voluntary.Games can be provided by email to ciitimeditor@gmail.com:In a PGN or other chess database file (example: ChessBase or Chess Assistant) attached to an email.As text within the body of an email including the details and moves of the game.As photos/scans of the game scoresheets attached to an email.O",
@@ -656,14 +672,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-sinquefield-cup-round-8",
          "pubDate" : "Tue, 26 Aug 2025 18:31:00",
          "title" : "Abdusattorov Scores 1st Win; Caruana, Praggnanandhaa Lead"
-      },
-      {
-         "description" : "FIDE has announced that the 2025 Chess World Cup will be held in Goa, India, between October 30 and November 27, 2025. The World Cup is a biennial knockout tournament that features most of the world&#39;s top players. This year&#39;s event features 206 pa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/goa-india-to-host-2025-chess-world-cup",
-         "pubDate" : "Tue, 26 Aug 2025 17:58:00",
-         "title" : "Goa, India, To Host 2025 Chess World Cup"
       },
       {
          "description" : "Please find here few photos",
