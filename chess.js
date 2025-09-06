@@ -34,7 +34,7 @@ news_feed (
          "title" : "Grand Swiss - Live!"
       },
       {
-         "description" : "GM Parham Maghsoodloo called GM Alireza Firouzja&#39;s bluff to take the sole lead in the 2025 FIDE Grand Swiss, after co-leader GM Anton Demchenko eventually succumbed to GM Arjun Erigaisi&#39;s pressure. Another late winner was GM Praggnanandhaa Rameshb...",
+         "description" : "GM Parham Maghsoodloo called GM Alireza Firouzja&#39;s bluff to take the sole lead in the 2025 FIDE Grand Swiss, after co-leader GM Anton Demchenko succumbed to GM Arjun Erigaisi&#39;s pressure. GM Praggnanandhaa Rameshbabu took advantage of GM Boris Gelf...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-3",
