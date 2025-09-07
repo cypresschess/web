@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Oleksandr Bortnyk stole the show in Saturday&#39;s Bullet Brawl after outscoring 186 of Chess.com&#39;s quickest titled players to capture the $400 first prize for the 13th time. Bortnyk&#39;s score of 164 positioned him 12 points ahead of the second-pla...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-sep-6-2025",
+         "pubDate" : "Sat, 06 Sep 2025 18:37:00",
+         "title" : "Bortnyk Beats Carlsen Twice En Route To 13th Bullet Brawl Title"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123737942.cms\" />R Vaishali's exceptional form propelled her to the sole lead in the FIDE Grand Swiss women's section with a third consecutive victory. Meanwhile, D Gukesh showcased his prowess in the open section, outplaying Daniil Yuffa. Other Indian players experienced mixed results, with Vantika Agrawal facing a defeat and D Harika drawing her game.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -688,14 +696,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-chesscom-duck-chess-championship-2025",
          "pubDate" : "Wed, 27 Aug 2025 11:09:21",
          "title" : "Show Off Your Best Quacktics In The Upcoming Chess.com Duck Chess Championship"
-      },
-      {
-         "description" : "On the day Chess.com announced several changes to Titled Tuesday, including the retirement of the late tournament, GMs Minh Le and Alexey Sarana became the last players to split the day&#39;s glory. Le was nearly perfect, scoring 10.5 points with only...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/le-sarana-win-titled-tuesday-august-26-2025",
-         "pubDate" : "Wed, 27 Aug 2025 08:51:35",
-         "title" : "Le, Sarana Become Last Players To Share Titled Tuesday Victory Stage"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-8/\">POSTGAME ROUND 8: Pragg &amp; Fabi Lead Before Final Round | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
