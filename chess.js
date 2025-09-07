@@ -22,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-4",
-         "pubDate" : "Sun, 07 Sep 2025 11:33:08",
+         "pubDate" : "Sun, 07 Sep 2025 11:33:00",
          "title" : "14-Year-Old Erdogmus Wins Masterpiece; Lagno Catches Vaishali"
       },
       {
