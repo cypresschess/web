@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase 18 is amazingly versatile and often surprisingly user-friendly - as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the \"Folders\" window, which lets you quickly locate anything you want to use within your storage directories. In this episode, we'll show you how to activate the window (in case it's been disabled) and what you can view and work with there.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-30-use-folders",
+         "pubDate" : "Sun, 07 Sep 2025 07:00:00",
+         "title" : "ChessBase 18 - Tips for Beginners, part 30: Use \"Folders\""
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123743163.cms\" />In the FIDE Grand Swiss, R Praggnanandhaa defeated Boris Gelfand after the latter blundered under time pressure. Parham Maghsoodloo leads the Open section with a perfect score, while R Vaishali holds the same distinction in the women's section. Several top games were hard-fought, with D Gukesh and Erigaisi Arjun securing notable victories.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-r-praggnanandhaa-bests-coach-boris-gelfand-vaishali-leads-womens-section/articleshow/123743163.cms",
+         "pubDate" : "Sun, 07 Sep 2025 05:06:13",
+         "title" : "FIDE Grand Swiss: Pragg bests coach Gelfand; Vaishali leads women's section"
+      },
+      {
          "description" : "GM Oleksandr Bortnyk stole the show in Saturday&#39;s Bullet Brawl after outscoring 186 of Chess.com&#39;s quickest titled players to capture the $400 first prize for the 13th time. Bortnyk&#39;s score of 164 positioned him 12 points ahead of the second-pla...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -58,28 +74,12 @@ news_feed (
          "title" : "Hugo Hussong's \"Immortal\""
       },
       {
-         "description" : "After two rounds of the FIDE Grand Swiss, only five players remain on perfect scores out of 172 participants, underlining the strength of both tournaments. In the open, Alireza Firouzja, Parham Maghsoodloo and Anton Demchenko (pictured) lead with 2/2, while Vaishali Rameshbabu and Olga Badelka top the women's standings. Thirty players chase the leaders in the open, while fifteen trail in the women's event. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-2",
-         "pubDate" : "Sat, 06 Sep 2025 08:50:00",
-         "title" : "Grand Swiss: Demchenko, Firouzja and Maghsoodloo on 2 out of 2"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123732095.cms\" />Indian Grand Master Divya Deshmukh is participating in the FIDE Grand Swiss tournament in Samarkand. Despite an opening round defeat by her mentor Abhimanyu Puranik, the 19-year-old rebounded with a draw against Alexander Donchenko. Divya emphasizes learning over winning, stating that losses against strong players provide valuable lessons.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-divya-deshmukh-ready-to-lose-11-rounds-i-will-be-fine-if-i-learn/articleshow/123732095.cms",
          "pubDate" : "Sat, 06 Sep 2025 07:28:47",
          "title" : "FIDE Grand Swiss: Divya ready to lose 11 rounds - 'I will be fine if I learn'"
-      },
-      {
-         "description" : "Michael Kotyk is a young chess trainer from Hamburg. He still remembers clearly when he first took serious notice of the Trompowsky system: during the World Championship match between Magnus Carlsen and Sergey Karjakin. That was reason enough for him to take a closer look at Robert Ris's video course on this opening and to explain why he now finds the Trompowsky system interesting, despite having long considered it not particularly dangerous... | Photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-robert-ris-the-top-tier-trompowsky",
-         "pubDate" : "Sat, 06 Sep 2025 07:00:00",
-         "title" : "Review - Robert Ris: The Top-Tier Trompowsky"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123730061.cms\" />Uzbekistan's Nodirbek Abdusattorov has stirred the chess world by predicting that India's youngest world champion, D Gukesh, will lose his title in the next defense. Viswanathan Anand responded with amusement, acknowledging the comment's entertainment value. Gukesh, unfazed, focused on the Candidates Tournament qualification race, where Abdusattorov is a contender alongside other strong players.",
@@ -136,14 +136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-2",
          "pubDate" : "Fri, 05 Sep 2025 10:11:00",
          "title" : "Gukesh Misses Win Vs. 14-Year-Old Erdogmus"
-      },
-      {
-         "description" : "On Tuesday 22-year-old Ukrainian GM Kirill Shevchenko was stripped of his title and banned from competitive chess for three years. He was caught cheating during the Spanish Team Championship last year - and admitted to his wrongdoing. The case renewed our interest in the subject, and we take a look back at the evolution of cheating in chess - and the very tricky way it can be exercised.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grandmaster-banned-for-cheating",
-         "pubDate" : "Fri, 05 Sep 2025 10:00:00",
-         "title" : "Grandmaster banned for cheating"
       },
       {
          "description" : "Last Updated on 5th September 2025 by WebAdmin Please note that the correct URLs to access the ECF LMS and Rating systems are as follows: https://rating.englishchess.org.uk/ https://lms.englishchess.org.uk/ The previous URLs...",
@@ -504,14 +496,6 @@ news_feed (
          "link" : "https://www.thearticle.com/senior-moments/",
          "pubDate" : "Sat, 30 Aug 2025 12:17:54",
          "title" : "Senior moments "
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123600890.cms\" />A video shows a Chinese man analysing his chess loss in the rain. Grandmaster Hans Niemann shared a similar experience. Anish Giri joked about his rain-free victory. Niemann criticised the American chess system, praising India's support for players. Divya Deshmukh received a Rs 3 crore prize for her chess achievements. Chess passion continues to inspire globally.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viral-video-chinese-chess-player-spends-4-hours-in-heavy-rain-after-loss-hans-niemann-anish-giri-react/articleshow/123600890.cms",
-         "pubDate" : "Sat, 30 Aug 2025 11:39:01",
-         "title" : "Watch: Chinese chess player spends 4 hours in heavy rain after loss; GMs react"
       },
       {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-26th-august-2025\">Titled Tuesday Blitz for the 26th August</a> was the last under the current format. This Chess.com event has run since 2014 and has had an early and late section since 2022. From the 2nd September there will be just one Titled Tuesday Blitz each week, it will take place at 11am Eastern Standard Time, 17:00 Central European Time and 20:30 Indian time. Other changes include a move to five minutes per game and a weekly live show produced by the chess app \"Take Take Take\". Titled Tuesday will be part of Chess.com's qualification process for the Esports World Cup (EWC) which will take place in Riddah ",
