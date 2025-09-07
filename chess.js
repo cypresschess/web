@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
+         "pubDate" : "Sun, 07 Sep 2025 11:50:00",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "The third day of play in Samarkand produced sole leaders in both tournaments of the FIDE Grand Swiss. Decisive results on all the top four boards in the open section left Parham Maghsoodloo, the 21st seed, alone at the top with a perfect 3/3. In the women's event, defending champion Vaishali Rameshbabu continued her perfect run, scoring a third consecutive victory to move half a point ahead of the field. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-3",
+         "pubDate" : "Sun, 07 Sep 2025 10:50:00",
+         "title" : "Grand Swiss: Maghsoodloo stuns Firouzja, leads"
+      },
+      {
          "description" : "ChessBase 18 is amazingly versatile and often surprisingly user-friendly - as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the \"Folders\" window, which lets you quickly locate anything you want to use within your storage directories. In this episode, we'll show you how to activate the window (in case it's been disabled) and what you can view and work with there.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://www.thearticle.com/paradise-regained-the-reopening-of-simpsons/",
          "pubDate" : "Sat, 06 Sep 2025 12:00:20",
          "title" : "Paradise regained: the reopening of Simpson's"
-      },
-      {
-         "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
-         "pubDate" : "Sat, 06 Sep 2025 11:50:00",
-         "title" : "Grand Swiss - Live!"
       },
       {
          "description" : "GM Parham Maghsoodloo called GM Alireza Firouzja&#39;s bluff to take the sole lead in the 2025 FIDE Grand Swiss, after co-leader GM Anton Demchenko succumbed to GM Arjun Erigaisi&#39;s pressure. GM Praggnanandhaa Rameshbabu took advantage of GM Boris Gelf...",
