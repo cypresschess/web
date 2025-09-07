@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has approved a pilot project introducing \"fast classic\" tournaments with shorter time controls that will still count toward the standard rating list. Three events - the Qatar Cup, the QCA Training Center September Tournament, and the Women's World Team Championship - will be played at 45 minutes plus 30 seconds per move. While no title norms will be awarded, the initiative reflects growing interest in serious but shorter formats adapted to modern schedules.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-pilot-project-fast-classic",
+         "pubDate" : "Sun, 07 Sep 2025 21:00:00",
+         "title" : "FIDE launches pilot project to test \"Fast Classic\" for standard rating"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
          "pubDate" : "Sun, 07 Sep 2025 11:50:00",
          "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "Turkish prodigy GM Yagiz Kaan Erdogmus won what GM David Howell called his &#34;Evergreen Game&#34; in round four of the&#38;nbsp;2025 FIDE Grand Swiss to join a 13-way tie for second place behind GM Parham Maghsoodloo. It was mainly draws at the top, but 18-...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-4",
+         "pubDate" : "Sun, 07 Sep 2025 11:33:08",
+         "title" : "14-Year-Old Erdogmus Wins Masterpiece; Lagno Catches Vaishali"
       },
       {
          "description" : "The third day of play in Samarkand produced sole leaders in both tournaments of the FIDE Grand Swiss. Decisive results on all the top four boards in the open section left Parham Maghsoodloo, the 21st seed, alone at the top with a perfect 3/3. In the women's event, defending champion Vaishali Rameshbabu continued her perfect run, scoring a third consecutive victory to move half a point ahead of the field. | Photo: FIDE / Michal Walusza",
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/yosha-iglesias-wins-title-in-france-makes-transgender-chess-history",
          "pubDate" : "Wed, 27 Aug 2025 12:52:00",
          "title" : "Yosha Iglesias Triumphs In France, Makes Transgender Chess History Again"
-      },
-      {
-         "description" : "Are you ready to compete in one of the craziest variants ever invented? The Chess.com Duck Chess Championship is coming on September 4 and will feature a $2,500 prize fund. With the most savage tactics and a fearsome rubber duck, anything can happ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-duck-chess-championship-2025",
-         "pubDate" : "Wed, 27 Aug 2025 11:09:21",
-         "title" : "Show Off Your Best Quacktics In The Upcoming Chess.com Duck Chess Championship"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-8/\">POSTGAME ROUND 8: Pragg &amp; Fabi Lead Before Final Round | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
