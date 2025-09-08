@@ -912,14 +912,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-saint-louis-chess-club-grand-reopening/",
          "pubDate" : "Tue, 19 Aug 2025 14:05:04",
          "title" : "Saint Louis Chess Club to Unveil New World-Class Facility With a Month of Historic Events, Legendary Matches, and U.S. & U.S. Women's Championships"
-      },
-      {
-         "description" : "Last Updated on 18th August 2025 by Melinda Wilde Gosforth Chess Club has launched an appeal to sponsor Club Members doing the Great North Run, Sep 7 2025. Alex (Piercey),...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/gosforth-chess-club-gnr-sponsorship-for-ukraine/",
-         "pubDate" : "Mon, 18 Aug 2025 15:16:05",
-         "title" : "Gosforth Chess Club - GNR Sponsorship for Ukraine"
       }
    ]
 }
