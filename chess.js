@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
+         "pubDate" : "Mon, 08 Sep 2025 11:50:00",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "Round four of the FIDE Grand Swiss produced no more perfect scores, yet Parham Maghsoodloo remains out in front in the open section after drawing his game with white against Nodirbek Abdusattorov. The pack of pursuers swelled to thirteen, highlighted by the victories of young talents Yagiz Erdogmus (pictured) and Marc'Andria Maurizzi, both overcoming higher-rated opponents in exciting battles. In the women's event, Kateryna Lagno's win over Song Yuxin allowed her to join Vaishali Rameshbabu in the lead, with five players half a point behind. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-4",
+         "pubDate" : "Mon, 08 Sep 2025 09:45:00",
+         "title" : "Grand Swiss: Maghsoodloo remains sole leader, Erdogmus and Maurizzi grab stunning wins"
+      },
+      {
          "description" : "NO Name1 Priyabrata Bhattacharya2 Arunava Pal3 Ishan Das4 Rahul Jain5 Kingshuk, Debnath6 Rajbeer Ahmed7 Sky Debnath8 Suprith Jain9 Sakhawat Hussain10 Dipasree Ray Chaudhuri11 Sudip Kumar",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-pilot-project-fast-classic",
          "pubDate" : "Sun, 07 Sep 2025 21:00:00",
          "title" : "FIDE launches pilot project to test \"Fast Classic\" for standard rating"
-      },
-      {
-         "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
-         "pubDate" : "Sun, 07 Sep 2025 11:50:00",
-         "title" : "Grand Swiss - Live!"
       },
       {
          "description" : "Turkish prodigy GM Yagiz Kaan Erdogmus won what GM David Howell called an &#34;Evergreen&#34; game in round four of the 2025 FIDE Grand Swiss to join a 13-way tie for second place behind GM Parham Maghsoodloo. It was mainly draws at the top, but 18-year-o...",
