@@ -18,7 +18,7 @@ news_feed (
          "title" : "Grand Swiss - Live!"
       },
       {
-         "description" : "Turkish prodigy GM Yagiz Kaan Erdogmus won what GM David Howell called his &#34;Evergreen Game&#34; in round four of the&#38;nbsp;2025 FIDE Grand Swiss to join a 13-way tie for second place behind GM Parham Maghsoodloo. It was mainly draws at the top, but 18-...",
+         "description" : "Turkish prodigy GM Yagiz Kaan Erdogmus won what GM David Howell called an &#34;Evergreen&#34; game in round four of the 2025 FIDE Grand Swiss to join a 13-way tie for second place behind GM Parham Maghsoodloo. It was mainly draws at the top, but 18-year-o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-4",
