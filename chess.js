@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "NO Name1 Priyabrata Bhattacharya2 Arunava Pal3 Ishan Das4 Rahul Jain5 Kingshuk, Debnath6 Rajbeer Ahmed7 Sky Debnath8 Suprith Jain9 Sakhawat Hussain10 Dipasree Ray Chaudhuri11 Sudip Kumar",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-of-sna-seminar-exam-held-in-agartala-on-21-22-september-2025/",
+         "pubDate" : "Mon, 08 Sep 2025 06:10:56",
+         "title" : "Certificates of SNA Seminar & Exam held in Agartala on 21 & 22 September 2025"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123756910.cms\" />Teen chess prodigy GM Divya Deshmukh, after a shaky start at the Grand Swiss, stunned Africa's top-rated GM Bassem Amin. Playing with black, Divya showcased resilience in the Sicilian Defence, capitalising on Amin's aggressive play. Despite a challenging opening, she seized the initiative, converting a rook sacrifice into a decisive advantage. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/historic-chess-victory-how-divya-deshmukh-beat-higher-ranked-africa-no-1-bassem-amin-at-fide-grand-swiss/articleshow/123756910.cms",
+         "pubDate" : "Mon, 08 Sep 2025 04:13:09",
+         "title" : "Historic! How Divya Deshmukh beat No. 1 Bassem Amin at FIDE Grand Swiss"
+      },
+      {
          "description" : "FIDE has approved a pilot project introducing \"fast classic\" tournaments with shorter time controls that will still count toward the standard rating list. Three events - the Qatar Cup, the QCA Training Center September Tournament, and the Women's World Team Championship - will be played at 45 minutes plus 30 seconds per move. While no title norms will be awarded, the initiative reflects growing interest in serious but shorter formats adapted to modern schedules.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-4",
          "pubDate" : "Sun, 07 Sep 2025 11:33:00",
          "title" : "14-Year-Old Erdogmus Wins Masterpiece; Lagno Catches Vaishali"
-      },
-      {
-         "description" : "The third day of play in Samarkand produced sole leaders in both tournaments of the FIDE Grand Swiss. Decisive results on all the top four boards in the open section left Parham Maghsoodloo, the 21st seed, alone at the top with a perfect 3/3. In the women's event, defending champion Vaishali Rameshbabu continued her perfect run, scoring a third consecutive victory to move half a point ahead of the field. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-3",
-         "pubDate" : "Sun, 07 Sep 2025 10:50:00",
-         "title" : "Grand Swiss: Maghsoodloo stuns Firouzja, leads"
       },
       {
          "description" : "ChessBase 18 is amazingly versatile and often surprisingly user-friendly - as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the \"Folders\" window, which lets you quickly locate anything you want to use within your storage directories. In this episode, we'll show you how to activate the window (in case it's been disabled) and what you can view and work with there.",
@@ -482,14 +490,6 @@ news_feed (
          "title" : "FIDE bans Grandmaster for cheating; allows jeans in dress code"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123623449.cms\" />Aarini Lahoty, a five-year-old chess prodigy from Delhi, has made history as India's youngest and the world's youngest female player to achieve FIDE ratings in classical, rapid, and blitz formats. Born in 2019, she is the first Indian player from her birth year to accomplish this feat, holding impressive ratings across all three categories.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/history-5-year-old-aarini-lahoty-becomes-indias-youngest-with-fide-ratings-across-all-chess-formats/articleshow/123623449.cms",
-         "pubDate" : "Mon, 01 Sep 2025 01:01:32",
-         "title" : "History! 5-year-old Aarini Lahoty - India's youngest with FIDE ratings"
-      },
-      {
          "description" : "GM Daniel Naroditsky scooped up his 31st Bullet Brawl title and the event&#39;s $400 first prize on Saturday after outpacing 119 titled players for the second week in a row. An electric 15/16 start helped the 29-year-old commentator amass an unassaila...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -816,14 +816,6 @@ news_feed (
          "link" : "https://aicf.in/revised-list-of-aicf-refresher-course-2025-26/",
          "pubDate" : "Sat, 23 Aug 2025 09:24:02",
          "title" : "Revised list : AICF Refresher Course 2025-26"
-      },
-      {
-         "description" : "It was a Golden beginning of the Indian Junior Chess Team here in FIDE World Youth U-16 Chess Olympiad at Barranquilla, Colombia which started from",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/report-fide-world-youth-u-16-chess-olympiad-at-barranquilla-colombia-which-started-from-17th-august-to-22nd-august-2025/",
-         "pubDate" : "Sat, 23 Aug 2025 04:57:52",
-         "title" : "Report :FIDE World Youth U-16 Chess Olympiad at Barranquilla, Colombia from 17th August to 22nd August 2025."
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-5/\">POSTGAME ROUND 5: Five Draws, But All Interesting | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
