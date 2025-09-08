@@ -10,6 +10,22 @@ news_feed (
          "title" : "Passed pawns can be fun"
       },
       {
+         "description" : "One of the longest-running tournaments in Spain sparked reactions this week after organizers tried to ban Israeli players and prevent them from competing under their national flag. Following backlash from players, media, and warnings from FIDE, th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/israeli-flag-ban-reversed-after-fide-condemn-spanish-organizers",
+         "pubDate" : "Mon, 08 Sep 2025 12:42:00",
+         "title" : "FIDE Steps In After Attempted Ban On Israeli Players In Spanish Open Tournament"
+      },
+      {
+         "description" : "GM Hikaru Nakamura won the 70th Iowa Open with a perfect 5/5 score and is 11 games away from reaching the 40 required (by December 31) to be eligible for the 2026 FIDE Candidates Tournament. He would qualify by having the highest rating, as GM Mag...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-2025-iowa-chess-open",
+         "pubDate" : "Mon, 08 Sep 2025 12:37:56",
+         "title" : "Nakamura Wins Iowa Chess Open, 11 More Games For Candidates Requirement"
+      },
+      {
          "description" : "16-year-old GM Abhimanyu Mishra&#38;nbsp;beat World Champion Gukesh Dommaraju in round five of the&#38;nbsp;2025 FIDE Grand Swiss, becoming the youngest player ever to defeat a reigning champion in a game of classical chess. GM Parham Maghsoodloo remains ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
          "pubDate" : "Mon, 08 Sep 2025 11:50:00",
          "title" : "Grand Swiss - Live!"
-      },
-      {
-         "description" : "Round four of the FIDE Grand Swiss produced no more perfect scores, yet Parham Maghsoodloo remains out in front in the open section after drawing his game with white against Nodirbek Abdusattorov. The pack of pursuers swelled to thirteen, highlighted by the victories of young talents Yagiz Erdogmus (pictured) and Marc'Andria Maurizzi, both overcoming higher-rated opponents in exciting battles. In the women's event, Kateryna Lagno's win over Song Yuxin allowed her to join Vaishali Rameshbabu in the lead, with five players half a point behind. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-4",
-         "pubDate" : "Mon, 08 Sep 2025 09:45:00",
-         "title" : "Grand Swiss: Maghsoodloo remains sole leader, Erdogmus and Maurizzi grab stunning wins"
       },
       {
          "description" : "NO Name1 Priyabrata Bhattacharya2 Arunava Pal3 Ishan Das4 Rahul Jain5 Kingshuk, Debnath6 Rajbeer Ahmed7 Sky Debnath8 Suprith Jain9 Sakhawat Hussain10 Dipasree Ray Chaudhuri11 Sudip Kumar",
@@ -50,28 +58,12 @@ news_feed (
          "title" : "Historic! How Divya Deshmukh beat No. 1 Bassem Amin at FIDE Grand Swiss"
       },
       {
-         "description" : "FIDE has approved a pilot project introducing \"fast classic\" tournaments with shorter time controls that will still count toward the standard rating list. Three events - the Qatar Cup, the QCA Training Center September Tournament, and the Women's World Team Championship - will be played at 45 minutes plus 30 seconds per move. While no title norms will be awarded, the initiative reflects growing interest in serious but shorter formats adapted to modern schedules.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-pilot-project-fast-classic",
-         "pubDate" : "Sun, 07 Sep 2025 21:00:00",
-         "title" : "FIDE launches pilot project to test \"Fast Classic\" for standard rating"
-      },
-      {
          "description" : "Turkish prodigy GM Yagiz Kaan Erdogmus won what GM David Howell called an &#34;Evergreen&#34; game in round four of the 2025 FIDE Grand Swiss to join a 13-way tie for second place behind GM Parham Maghsoodloo. It was mainly draws at the top, but 18-year-o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-4",
          "pubDate" : "Sun, 07 Sep 2025 11:33:00",
          "title" : "14-Year-Old Erdogmus Wins Masterpiece; Lagno Catches Vaishali"
-      },
-      {
-         "description" : "ChessBase 18 is amazingly versatile and often surprisingly user-friendly - as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the \"Folders\" window, which lets you quickly locate anything you want to use within your storage directories. In this episode, we'll show you how to activate the window (in case it's been disabled) and what you can view and work with there.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-30-use-folders",
-         "pubDate" : "Sun, 07 Sep 2025 07:00:00",
-         "title" : "ChessBase 18 - Tips for Beginners, part 30: Use \"Folders\""
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123743163.cms\" />In the FIDE Grand Swiss, R Praggnanandhaa defeated Boris Gelfand after the latter blundered under time pressure. Parham Maghsoodloo leads the Open section with a perfect score, while R Vaishali holds the same distinction in the women's section. Several top games were hard-fought, with D Gukesh and Erigaisi Arjun securing notable victories.",
@@ -642,14 +634,6 @@ news_feed (
          "title" : "Wesley So wins the Sinquefield Cup after a playoff - 9"
       },
       {
-         "description" : "Chess.com is thrilled to announce GothamChess vs. The World, an exclusive Vote Chess match between IM Levy Rozman and the global chess community, starting September 30. Will the internet&#39;s most-watched chess streamer be able to outwit the collecti...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gothamchess-vs-world-announcement",
-         "pubDate" : "Thu, 28 Aug 2025 10:00:00",
-         "title" : "Announcing GothamChess Vs. The World Starting September 30"
-      },
-      {
          "description" : "The All Tripura Chess Association, in collaboration with the All India Chess Federation and the Arbiters' Commission, organised a Senior National Arbiter Seminar and Examination",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -680,14 +664,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/12th-sinquefield-cup-2025",
          "pubDate" : "Wed, 27 Aug 2025 23:47:00",
          "title" : "12th Sinquefield Cup 2025 - Games and Results"
-      },
-      {
-         "description" : "GM Wesley So has won the 2025 Sinquefield Cup, his second time winning the elite event he first won in 2016. While all the other classical games ended in draws, So won on demand against GM Nodirbek Abdusattorov to reach three-way blitz tiebreaks w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wesley-so-wins-2025-sinquefield-cup",
-         "pubDate" : "Wed, 27 Aug 2025 23:01:00",
-         "title" : "Wesley So Wins 2nd Sinquefield Cup In Blitz Tiebreaks"
       },
       {
          "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
