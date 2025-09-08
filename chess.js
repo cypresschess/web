@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The rule that a pawn reaching the eighth or the first rank can be promoted into another piece of the same color is one of the most beautiful in chess. It makes the game dynamic and has already led to many brilliant combinations and exciting games. One of these was played recently in round 6 of the Fujairah Masters between the Argentine prodigy Faustino Oro and the American International Master Nico Chasin.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/passed-pawns-are-powerful-6",
+         "pubDate" : "Mon, 08 Sep 2025 19:00:00",
+         "title" : "Passed pawns can be fun"
+      },
+      {
+         "description" : "16-year-old GM Abhimanyu Mishra&#38;nbsp;beat World Champion Gukesh Dommaraju in round five of the&#38;nbsp;2025 FIDE Grand Swiss, becoming the youngest player ever to defeat a reigning champion in a game of classical chess. GM Parham Maghsoodloo remains ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-5",
+         "pubDate" : "Mon, 08 Sep 2025 12:02:00",
+         "title" : "16-Year-Old Mishra Youngest Player Ever To Beat World Champion In Classical Chess"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -696,14 +712,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-beats-firouzja-in-round-8-of-the-sinquefield-cup",
          "pubDate" : "Wed, 27 Aug 2025 15:29:00",
          "title" : "Abdusattorov beats Firouzja in Round 8 of the Sinquefield Cup - 8"
-      },
-      {
-         "description" : "WIM Yosha Iglesias had already made chess history by becoming the first transgender woman international master. Last weekend, the 37-year-old added another accomplishment by winning the French Women&#39;s Championship, as the second transgender woman ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/yosha-iglesias-wins-title-in-france-makes-transgender-chess-history",
-         "pubDate" : "Wed, 27 Aug 2025 12:52:00",
-         "title" : "Yosha Iglesias Triumphs In France, Makes Transgender Chess History Again"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-8/\">POSTGAME ROUND 8: Pragg &amp; Fabi Lead Before Final Round | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
