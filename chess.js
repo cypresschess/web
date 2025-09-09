@@ -38,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-september-9-2025",
-         "pubDate" : "Tue, 09 Sep 2025 12:16:50",
+         "pubDate" : "Tue, 09 Sep 2025 12:16:00",
          "title" : "Carlsen Takes Titled Tuesday In Final Round Triumph Over Nakamura"
       },
       {
@@ -46,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-6",
-         "pubDate" : "Tue, 09 Sep 2025 11:57:09",
+         "pubDate" : "Tue, 09 Sep 2025 11:57:00",
          "title" : "Maghsoodloo Leads Grand Swiss As Gukesh Loses 2nd Game In A Row"
       },
       {
@@ -104,6 +104,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-double-blow-for-india-gukesh-stunned-by-abhimanyu-mishra-praggnanandhaa-falls-to-matthias-bluebaum/articleshow/123776236.cms",
          "pubDate" : "Tue, 09 Sep 2025 01:40:18",
          "title" : "Double blow for India! Gukesh stunned by Mishra; Praggnanandhaa falls to Bluebaum"
+      },
+      {
+         "description" : "The National Scholastic Chess Foundation (NSCF), in partnership with the Kasparov Chess Foundation (KCF), is proud to announce Mindsets: The New York Chess in Education Conference, a premier event for educators, school administrators, and chess instructors. This one-day conference, taking place on Saturday, December 6, 2025, at Quorum in New York City, is designed to empower educators with the tools and knowledge to effectively integrate chess into their curricula and unlock its full potential for student development. Drawing broadly on the concept of mindsets, this conference will explore the role of chess in education-ranging from fundamental concerns about curriculum, educational policy, ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/mindsets-chess-education-conference-take-place-new-york-city-december-6",
+         "pubDate" : "Tue, 09 Sep 2025 00:00:00",
+         "title" : "Mindsets: Chess in Education Conference to Take Place in New York City on December 6"
       },
       {
          "description" : "This week's puzzles continue our series from last month's Saint Louis Rapid &amp; Blitz, where GM Levon Aronian won the five-day, 27-game marathon for the third time in his career. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -642,14 +650,6 @@ news_feed (
          "title" : "Check is in the Mail, September 2025: Going Postal!"
       },
       {
-         "description" : "There is an entire rule devoted to half-point byes in our rulebook. There you will find directives on when to allow them and when not to allow them. Those directives are also furnished with escape hatches. That mix makes it as clear as mud.One should ideally ask for last-round byes early on - like, before the tournament begins. Why? It rubs people the wrong way when a wood-pusher checks out the wallchart before their last contest, sees that a half-pointer in their upcoming game guarantees them first place gold (or, at least, some gold), and then requests a half-point bye.If the TD allows that late-requested last-round bye - which is one of those escape hatches - it may result in ire from the",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-last-round-byes",
-         "pubDate" : "Fri, 29 Aug 2025 00:00:00",
-         "title" : "Just the Rules: Last-Round Byes"
-      },
-      {
          "description" : " So Wins Second Title Amid Fierce Competition, Top Four Headed to Grand Chess Tour Finals in Brazil SAINT LOUIS, August 28, 2025 U.S. Grandmaster Wesley So triumphed at the 2025 Sinquefield Cup, outlasting a world-class field and a thrilling three-way tie at the top that led to playoffs to decide it all. In the end, [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-title-goes-to-american-grandmaster-wesley-so/\">2025 Sinquefield Cup Title Goes to American Grandmaster Wesley So</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -896,14 +896,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-2/",
          "pubDate" : "Tue, 19 Aug 2025 23:35:31",
          "title" : "POSTGAME ROUND 2: Alireza Bests Duda in Epic Game! | #SinquefieldCup"
-      },
-      {
-         "description" : "On Tuesday August 19th, in the Hotel Energetic in Roznov pod Radhostem in the Czech Republic, the&#160;23rd European Union Youth Chess Championship U8, U10, U12 and U14 has started. European Union Youth Chess Championship 2025 under the patronage of the European Chess Union is organized again by Sachovy klub Svetla nad Sazavou in cooperation with the Czech Chess Federation and continue in previous successful years. The event is supported by the Zlin Region. Boys and girls in each category play []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-union-youth-chess-championship-2025-has-started/",
-         "pubDate" : "Tue, 19 Aug 2025 20:07:39",
-         "title" : "European Union Youth Chess Championship 2025 has started"
       }
    ]
 }
