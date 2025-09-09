@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123776236.cms\" />Top seed Grandmaster R Praggnanandhaa suffered a shock defeat at the hands of Germany's Matthias Bluebaum, while reigning World Champion D Gukesh went down to Abhimanyu Mishra of the USA - the youngest Grandmaster in chess history - in the fifth round of the FIDE Grand Swiss on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-double-blow-for-india-gukesh-stunned-by-abhimanyu-mishra-praggnanandhaa-falls-to-matthias-bluebaum/articleshow/123776236.cms",
+         "pubDate" : "Tue, 09 Sep 2025 01:40:18",
+         "title" : "Double blow for India! Gukesh stunned by Mishra; Praggnanandhaa falls to Bluebaum"
+      },
+      {
          "description" : "The rule that a pawn reaching the eighth or the first rank can be promoted into another piece of the same color is one of the most beautiful in chess. It makes the game dynamic and has already led to many brilliant combinations and exciting games. One of these was played recently in round 6 of the Fujairah Masters between the Argentine prodigy Faustino Oro and the American International Master Nico Chasin.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -496,14 +504,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/magnus-carlsen-returns-as-model-for-g-star",
          "pubDate" : "Mon, 01 Sep 2025 06:55:04",
          "title" : "Magnus Carlsen Makes G-Star Comeback Following 'Jeansgate' Dress Code Controversy"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123627108.cms\" />In a recent announcement, FIDE punished Ukrainian Grandmaster Kirill Shevchenko for cheating during the Spanish Team Championship last October. Shevchenko's GM title was revoked, and he received a three-year ban after being caught with cell phones in the restrooms. Responding to player requests, FIDE also updated its dress code, now permitting jeans to be worn at Grand Swiss events.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-bans-grandmaster-for-cheating-allows-jeans-in-dress-code/articleshow/123627108.cms",
-         "pubDate" : "Mon, 01 Sep 2025 05:20:44",
-         "title" : "FIDE bans Grandmaster for cheating; allows jeans in dress code"
       },
       {
          "description" : "GM Daniel Naroditsky scooped up his 31st Bullet Brawl title and the event&#39;s $400 first prize on Saturday after outpacing 119 titled players for the second week in a row. An electric 15/16 start helped the 29-year-old commentator amass an unassaila...",
