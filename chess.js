@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
+         "pubDate" : "Tue, 09 Sep 2025 11:50:00",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : " The FIDE Grand Swiss (<a href=\"https://theweekinchess.com/chessnews/events/fide-grand-swiss-tournament-2025\">my game and results page is here</a>) is being led by Iranian number one Parham Maghsoodloo. He is rated 37 in the world at 2692, so far he has beaten Chopra Aryan, David Anton, former countryman Alireza Firouzja and in round 5 he beat Richard Rapport, his only draw came in round 4 against Nodirbek Abdusattorov. Round 5 saw the top 5 boards all finish decisively. Maghsoodloo leads with 4.5/5 half a point clear of 16 year old Abhimanyu Mishra, who beat Gukesh in Round 5, Marc'andria Maurizzi (beat Vincent Keymer), Arjun Erigaisi (beat Nikita Vitiugov) and Matthias Bluebaum (who beat P",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/maghsoodloo-leads-the-fide-grand-swiss-alone-after-five-rounds",
+         "pubDate" : "Tue, 9 Sep 2025 09:26:00",
+         "title" : "Maghsoodloo leads the FIDE Grand Swiss alone after five rounds - 5"
+      },
+      {
          "description" : "History was made in round five of the FIDE Grand Swiss as 16-year-old Abhimanyu Mishra defeated world champion Gukesh Dommaraju, becoming the youngest player ever to beat a sitting champion in classical chess. The day also saw top seed Praggnanandhaa Rameshbabu fall to Matthias Bluebaum and Vincent Keymer lose to Marc'Andria Maurizzi, while leader Parham Maghsoodloo defeated Richard Rapport. In the women's section, Vaishali Rameshbabu and Kateryna Lagno were joined by Dinara Wagner and Ulviyya Fataliyeva in a four-way lead. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grand-swiss-2025-5",
          "pubDate" : "Tue, 09 Sep 2025 08:30:00",
          "title" : "Grand Swiss: Maghsoodloo beats Rapport, Mishra stuns Gukesh"
+      },
+      {
+         "description" : "Special Note: If a player has only&#160;one accompanying person, then he/she must pay for double sharing amount only. (Triple sharing basis not accepted for two",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/27th-asian-youth-chess-championships-2025-in-bangkok-thailand-from-20th-to-30th-november-2025/",
+         "pubDate" : "Tue, 09 Sep 2025 08:23:36",
+         "title" : "27th Asian Youth Chess Championships - 2025 in Bangkok, Thailand from 20th to 30th November, 2025."
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123779458.cms\" />Erdogmus Yagiz Kaan, a 14-year-old Turkish chess prodigy, achieved a remarkable checkmate against India's Aditya Mittal at the FIDE Grand Swiss. Despite a significant material disadvantage, Yagiz executed a brilliant endgame, forcing mate in six moves. Trained by GM Shakhriyar Mamedyarov, Yagiz is drawing comparisons to Magnus Carlsen's early career, showcasing extraordinary potential.",
@@ -342,7 +366,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sarana-wins-titled-tuesday-september-2-2025",
-         "pubDate" : "Wed, 03 Sep 2025 07:24:26",
+         "pubDate" : "Wed, 03 Sep 2025 07:24:00",
          "title" : "New Titled Tuesday Winner, Same As The Old Winner"
       },
       {
@@ -800,14 +824,6 @@ news_feed (
          "link" : "https://www.thearticle.com/go-and-the-atomic-bomb/",
          "pubDate" : "Sat, 23 Aug 2025 10:10:01",
          "title" : "Go and the atomic bomb"
-      },
-      {
-         "description" : "Please find the revised list of participants appeared successfully in AICF Refresher Course 2025-26. International Arbiter Fide Arbiter Senior National Arbiter",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/revised-list-of-aicf-refresher-course-2025-26/",
-         "pubDate" : "Sat, 23 Aug 2025 09:24:02",
-         "title" : "Revised list : AICF Refresher Course 2025-26"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-5/\">POSTGAME ROUND 5: Five Draws, But All Interesting | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
