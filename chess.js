@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Computers continue to shape the way chess is played, studied and understood, but they also present challenges for humans trying to assert their creativity at the board. This month's column highlights two recent encounters where human ingenuity met silicon precision: Wesley So's victory over world champion Gukesh Dommaraju at the Sinquefield Cup (pictured), and Ian Nepomniachtchi's resilient defence against Praggnanandhaa Rameshbabu at the 2024 Candidates in Toronto. Both games illustrate the tension between preparation, psychology and practical decision-making. | Photo: Lennart Ootes / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-231",
+         "pubDate" : "Tue, 09 Sep 2025 21:20:00",
+         "title" : "Jon Speelman: The Caissic hunt of the Centaur"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123790630.cms\" />Turkish chess prodigy Yagiz Kaan Erdogmus, 14, drew against his coach Shakhriyar Mamedyarov at the FIDE Grand Swiss 2025 after a short 16-move game. This followed Yagiz's stunning victory over India's Aditya Mittal, where he executed a brilliant checkmate despite a significant material disadvantage. Praveen Thipsay called it a \"game for the books of combinations.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-after-190-move-draw-14-year-old-yagiz-kaan-erdogmus-plays-out-16-move-draw-at-fide-grand-swiss-2025-heres-why/articleshow/123790630.cms",
+         "pubDate" : "Tue, 09 Sep 2025 17:24:19",
+         "title" : "After 190-move draw, 14-yo Erdogmus plays 16-move draw: Here's why"
+      },
+      {
+         "description" : " U.S. Championship, U.S. Women's Championship, Hall of Fame Inductions and More to Highlight a Month of Historic Chess Events SAINT LOUIS, September 9, 2025 The nation's top chess players are set to compete in America's most prestigious events - the 2025 U.S. Chess Championship and the 2025 U.S. Women's Chess Championship. Hosted by the newly [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-to-host-americas-chess-elite-in-october-2025/\">Saint Louis to Host America's Chess Elite in October 2025</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/saint-louis-to-host-americas-chess-elite-in-october-2025/",
+         "pubDate" : "Tue, 09 Sep 2025 16:12:13",
+         "title" : "Saint Louis to Host America's Chess Elite in October 2025"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123789801.cms\" />Hans Niemann, amid the FIDE Grand Swiss, experienced an unexpected viral moment when a young fan, after taking a picture, asked for his name, creating a humorous and awkward encounter. The incident amused the chess community. Niemann's tournament performance has been varied, including draws and a recent victory, maintaining his status as a closely watched player.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/hilarious-chess-fan-asks-american-gm-hans-niemann-his-name-after-photo-together-at-fide-grand-swiss-watch/articleshow/123789801.cms",
+         "pubDate" : "Tue, 09 Sep 2025 16:07:31",
+         "title" : "Hilarious! Chess fan asks American GM his name after photo - Watch"
+      },
+      {
+         "description" : "GM Magnus Carlsen won Titled Tuesday by a full point on September 9, but don&#39;t let the final margin fool you into thinking the result was a runaway. Tied with GM Alireza Firouzja entering the final round of play, Carlsen needed to defeat GM Hikaru...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-september-9-2025",
+         "pubDate" : "Tue, 09 Sep 2025 12:16:50",
+         "title" : "Carlsen Takes Titled Tuesday In Final Round Triumph Over Nakamura"
+      },
+      {
+         "description" : "GM Parham Maghsoodloo drew against GM Arjun Erigaisi to remain sole leader of the 2025 FIDE Grand Swiss going into the only rest day, while GMs Anish Giri and Nihal Sarin both won sharp games to join a six-player pack half a point behind. World Ch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-6",
+         "pubDate" : "Tue, 09 Sep 2025 11:57:09",
+         "title" : "Maghsoodloo Leads Grand Swiss As Gukesh Loses 2nd Game In A Row"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +104,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-double-blow-for-india-gukesh-stunned-by-abhimanyu-mishra-praggnanandhaa-falls-to-matthias-bluebaum/articleshow/123776236.cms",
          "pubDate" : "Tue, 09 Sep 2025 01:40:18",
          "title" : "Double blow for India! Gukesh stunned by Mishra; Praggnanandhaa falls to Bluebaum"
+      },
+      {
+         "description" : "This week's puzzles continue our series from last month's Saint Louis Rapid &amp; Blitz, where GM Levon Aronian won the five-day, 27-game marathon for the third time in his career. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-rapid-blitz-pt-2-0",
+         "pubDate" : "Tue, 09 Sep 2025 00:00:00",
+         "title" : "Tactics Tuesday: Saint Louis Rapid & Blitz, Pt. 2"
       },
       {
          "description" : "The rule that a pawn reaching the eighth or the first rank can be promoted into another piece of the same color is one of the most beautiful in chess. It makes the game dynamic and has already led to many brilliant combinations and exciting games. One of these was played recently in round 6 of the Fujairah Masters between the Argentine prodigy Faustino Oro and the American International Master Nico Chasin.",
@@ -458,14 +514,6 @@ news_feed (
          "title" : "FIDE Strips Shevchenko Of GM Title, Upholds 3-Year Ban In Cheating Case"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123649645.cms\" />After a challenging Chennai GM tournament, V Pranav, the 18-year-old from Tamil Nadu, demonstrated his prowess by winning the Superstars section of the Fujairah Global festival in UAE. Defeating top seed Nihal Sarin, Pranav's undefeated run and a remarkable rating performance of 2843 solidified his position among the elite, proving his belonging at the higher level.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-v-pranav-comes-to-the-fore-with-superstar-win/articleshow/123649645.cms",
-         "pubDate" : "Tue, 02 Sep 2025 06:07:04",
-         "title" : "Chess: V Pranav comes to the fore with Superstar win"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123646402.cms\" />Yosha Iglesias, once a chess prodigy in Sochi, Russia, has made history as the first transgender woman to win the French women's chess championship. Overcoming personal struggles, including a difficult transition and online harassment, Yosha found strength in her chess community and Buddhist philosophy. Her journey, marked by resilience and self-acceptance, inspires others to embrace their true selves.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -496,14 +544,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/kids-chess-announces-2025-scholarship-winners",
          "pubDate" : "Tue, 02 Sep 2025 00:00:00",
          "title" : "Kids for Chess Announces 2025 Scholarship Winners"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123639814.cms\" />Pranav Venkatesh triumphed in the Superstars section of the Fujairah Global Chess 2025, held in UAE. He secured victory with an aggressive final-round win, finishing with 7.0/9 points. Prior to this, the 2025 World Junior Champion earned a spot in the FIDE Grand Swiss by winning the \"Asian Wildcard Match\"Z against GM Kazybek Nogerbek.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pranav-venkatesh-2025-world-junior-champion-clinches-fujairah-global-chess-title-ahead-of-grand-swiss-challenge/articleshow/123639814.cms",
-         "pubDate" : "Mon, 01 Sep 2025 17:20:28",
-         "title" : "18-yo Pranav V strikes again! World Jr Champion clinches Fujairah title"
       },
       {
          "description" : "The City of Katowice, and the Silesian Chess Federation are proud to announce that the European Individual Chess Championship 2026 will take place in Katowice, Poland, from 7-19 April 2026. Katowice has already established itself as one of Europe's leading chess hubs, having successfully organized four editions of the European Rapid and Blitz Chess Championships, each attracting a record number of participants. The city's proven organizational experience, world-class venues, and welcoming atmosphere provide the ideal conditions for hosting the most []",
@@ -538,14 +578,6 @@ news_feed (
          "title" : "Magnus Carlsen Makes G-Star Comeback Following 'Jeansgate' Dress Code Controversy"
       },
       {
-         "description" : "GM Daniel Naroditsky scooped up his 31st Bullet Brawl title and the event&#39;s $400 first prize on Saturday after outpacing 119 titled players for the second week in a row. An electric 15/16 start helped the 29-year-old commentator amass an unassaila...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-aug-30-2025",
-         "pubDate" : "Sat, 30 Aug 2025 18:23:00",
-         "title" : "Naroditsky Triumphs In Back-To-Back Bullet Brawls"
-      },
-      {
          "description" : "I recently saw a YouTube short of Magnus Carlsen sharing one of the best advice he got early on in his career. It made me understand why so many amateur chess players feel they have to play several openings when there is absolutely no reason for it. He says this: \"Maybe the best advice I []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -576,14 +608,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/chess.com-make-changes-to-titled-tuesday-announce-take-take-take-agreement-and-ewc-qualification-process",
          "pubDate" : "Fri, 29 Aug 2025 18:05:00",
          "title" : "Chess.com make changes to Titled Tuesday, announce \"Take Take Take\" agreement, and EWC qualification process - "
-      },
-      {
-         "description" : "GM Oleksandr Bortnyk won his fourth Freestyle Friday on August 29, moving past GM Arjun Erigaisi for the second-most in the tournament&#39;s brief history, trailing only GM Hikaru Nakamura. It was Nakamura who finished second this week, half a point b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-august-29-2025",
-         "pubDate" : "Fri, 29 Aug 2025 12:10:00",
-         "title" : "Bortnyk Wins Fourth Freestyle Friday, Second-Most So Far"
       },
       {
          "description" : "The European Chess Union held its latest Board Meeting on 19 August 2025, via Zoom, chaired by ECU President Zurab Azmaiparashvili. Key Information and Decisions European Chess Championships",
@@ -624,14 +648,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/just-rules-last-round-byes",
          "pubDate" : "Fri, 29 Aug 2025 00:00:00",
          "title" : "Just the Rules: Last-Round Byes"
-      },
-      {
-         "description" : "The Scholastic Council and the Executive Board have approved the 2025-2026 Scholastic Regulations. This year's regulations can be found here. Substantive changes in this year's regulations include:If the venue seating capacity allows, US Chess will make every effort to accept onsite entries at our National Scholastic events. See Section 3.2.2, which is completely revised for 2025-26.In Section 3.2.3 we specify upper limits for Early Entry and Late Entry Fees. See also the table in Section 4.5.2 which lists Early Entry deadlines for several of the Spring 2026 National Scholastic events.Section 4.7 includes provisions to help ensure that players listed as Unrated are Unrated. When a player lis",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-2026-scholastic-regulations",
-         "pubDate" : "Fri, 29 Aug 2025 00:00:00",
-         "title" : "2025-2026 Scholastic Regulations"
       },
       {
          "description" : " So Wins Second Title Amid Fierce Competition, Top Four Headed to Grand Chess Tour Finals in Brazil SAINT LOUIS, August 28, 2025 U.S. Grandmaster Wesley So triumphed at the 2025 Sinquefield Cup, outlasting a world-class field and a thrilling three-way tie at the top that led to playoffs to decide it all. In the end, [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-title-goes-to-american-grandmaster-wesley-so/\">2025 Sinquefield Cup Title Goes to American Grandmaster Wesley So</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -888,14 +904,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-union-youth-chess-championship-2025-has-started/",
          "pubDate" : "Tue, 19 Aug 2025 20:07:39",
          "title" : "European Union Youth Chess Championship 2025 has started"
-      },
-      {
-         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/12th-sinquefield-cup-2025\">Sinquefield Cup</a> started with two decisive games. Levon Aronian on the back of his rapid and blitz win beat Nodirbek Abdusattorov in a full blooded struggle. Praggnanandhaa scored a very convincing win against Gukesh. MVL was much better on the board and clock against Alireza Firouzja but allowed him to escape. Sam Sevian briefly had a winning position against Wesley So and Fabiano Caruana pushed a little against Jan-Krzysztof Duda but never seemed to have very much. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/aronian-and-praggnanandhaa-win-in-round-1-of-the-sinquefield-cup",
-         "pubDate" : "Tue, 19 Aug 2025 17:03:00",
-         "title" : "Aronian and Praggnanandhaa win in Round 1 of the Sinquefield Cup - 1"
       }
    ]
 }
