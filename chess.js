@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "History was made in round five of the FIDE Grand Swiss as 16-year-old Abhimanyu Mishra defeated world champion Gukesh Dommaraju, becoming the youngest player ever to beat a sitting champion in classical chess. The day also saw top seed Praggnanandhaa Rameshbabu fall to Matthias Bluebaum and Vincent Keymer lose to Marc'Andria Maurizzi, while leader Parham Maghsoodloo defeated Richard Rapport. In the women's section, Vaishali Rameshbabu and Kateryna Lagno were joined by Dinara Wagner and Ulviyya Fataliyeva in a four-way lead. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-5",
+         "pubDate" : "Tue, 09 Sep 2025 08:30:00",
+         "title" : "Grand Swiss: Maghsoodloo beats Rapport, Mishra stuns Gukesh"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123779458.cms\" />Erdogmus Yagiz Kaan, a 14-year-old Turkish chess prodigy, achieved a remarkable checkmate against India's Aditya Mittal at the FIDE Grand Swiss. Despite a significant material disadvantage, Yagiz executed a brilliant endgame, forcing mate in six moves. Trained by GM Shakhriyar Mamedyarov, Yagiz is drawing comparisons to Magnus Carlsen's early career, showcasing extraordinary potential.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/prodigy-yagiz-kaan-primed-for-candidates-bid/articleshow/123779458.cms",
+         "pubDate" : "Tue, 09 Sep 2025 06:01:26",
+         "title" : "Prodigy Yagiz Kaan primed for Candidates bid"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123777304.cms\" />Mishra, born in New Jersey to Indian parents, had already carved his place in history as the youngest-ever to earn the GM title at 12 years and four months. With this win, he set another record, becoming the youngest to defeat a reigning world champion in classical chess, eclipsing Gata Kamsky's 1992 mark at 18, when he beat Garry Kasparov.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-champion-d-gukeshs-biggest-defeat-how-american-gm-abhimanyu-mishra-aced-the-battle-of-youngest-chess-icons/articleshow/123777304.cms",
+         "pubDate" : "Tue, 09 Sep 2025 03:39:57",
+         "title" : "Gukesh's biggest defeat? How American GM Mishra aced the battle of youngest chess icons"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123776236.cms\" />Top seed Grandmaster R Praggnanandhaa suffered a shock defeat at the hands of Germany's Matthias Bluebaum, while reigning World Champion D Gukesh went down to Abhimanyu Mishra of the USA - the youngest Grandmaster in chess history - in the fifth round of the FIDE Grand Swiss on Monday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-5",
          "pubDate" : "Mon, 08 Sep 2025 12:02:00",
          "title" : "16-Year-Old Mishra Youngest Player Ever To Beat World Champion In Classical Chess"
-      },
-      {
-         "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
-         "pubDate" : "Mon, 08 Sep 2025 11:50:00",
-         "title" : "Grand Swiss - Live!"
       },
       {
          "description" : "NO Name1 Priyabrata Bhattacharya2 Arunava Pal3 Ishan Das4 Rahul Jain5 Kingshuk, Debnath6 Rajbeer Ahmed7 Sky Debnath8 Suprith Jain9 Sakhawat Hussain10 Dipasree Ray Chaudhuri11 Sudip Kumar",
@@ -450,14 +466,6 @@ news_feed (
          "title" : "Kids for Chess Announces 2025 Scholarship Winners"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123640609.cms\" />Rameshbabu Praggnanandhaa maintains his position as a top player. He is currently ranked fourth in the world. Vincent Keymer makes a significant jump in the rankings. He enters the top ten for the first time. Keymer's rise pushes him past chess legends. Nodirbek Abdusattorov experiences a drop in ranking. Wesley So improves his standing after a tournament win.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-fide-releases-september-rating-lists-r-praggnanandhaa-remains-india-no-1/articleshow/123640609.cms",
-         "pubDate" : "Mon, 01 Sep 2025 17:50:46",
-         "title" : "FIDE releases September rating lists; Pragg remains India no. 1"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123639814.cms\" />Pranav Venkatesh triumphed in the Superstars section of the Fujairah Global Chess 2025, held in UAE. He secured victory with an aggressive final-round win, finishing with 7.0/9 points. Prior to this, the 2025 World Junior Champion earned a spot in the FIDE Grand Swiss by winning the \"Asian Wildcard Match\"Z against GM Kazybek Nogerbek.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -480,14 +488,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-chess-pieces-bots",
          "pubDate" : "Mon, 01 Sep 2025 10:30:00",
          "title" : "September Bot Challenge: You Want a Piece of This?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123632496.cms\" />FIDE CEO Emil Sutovsky refuted Hikaru Nakamura's claims that the Candidates' rating qualification spot was designed for Magnus Carlsen's potential return. Sutovsky clarified that the rule has existed for years and now benefits top players like Nakamura. He emphasised the spot ensures the inclusion of the world's best, not specifically targeting Carlsen, whose return is deemed unlikely. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-drama-fide-ceo-slams-hikaru-nakamuras-claims-of-magnus-carlsen-candidates-favouritism/articleshow/123632496.cms",
-         "pubDate" : "Mon, 01 Sep 2025 10:26:45",
-         "title" : "FIDE CEO slams Hikaru's claims of Carlsen Candidates favouritism"
       },
       {
          "description" : "GM Wesley So is back in the top-10 on the September 2025 FIDE rating list after winning the 2025 Sinquefield Cup, while 20-year-old GM Vincent Keymer has broken into the club for the first time after winning the 2025 Quantbox Chennai Grand Masters...",
