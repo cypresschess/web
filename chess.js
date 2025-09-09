@@ -82,12 +82,12 @@ news_feed (
          "title" : "Nakamura Wins Iowa Chess Open, 11 More Games For Candidates Requirement"
       },
       {
-         "description" : "16-year-old GM Abhimanyu Mishra&#38;nbsp;beat World Champion Gukesh Dommaraju in round five of the&#38;nbsp;2025 FIDE Grand Swiss, becoming the youngest player ever to defeat a reigning champion in a game of classical chess. GM Parham Maghsoodloo remains ...",
+         "description" : "Sixteen-year-old GM Abhimanyu Mishra&#38;nbsp;beat World Champion Gukesh Dommaraju in round five of the&#38;nbsp;2025 FIDE Grand Swiss, becoming the youngest player ever to defeat a reigning champion in a game of classical chess. GM Parham Maghsoodloo rem...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-5",
          "pubDate" : "Mon, 08 Sep 2025 12:02:00",
-         "title" : "16-Year-Old Mishra Youngest Player Ever To Beat World Champion In Classical Chess"
+         "title" : "16-Year-Old Mishra Youngest Player Ever To Beat World Champion"
       },
       {
          "description" : "NO Name1 Priyabrata Bhattacharya2 Arunava Pal3 Ishan Das4 Rahul Jain5 Kingshuk, Debnath6 Rajbeer Ahmed7 Sky Debnath8 Suprith Jain9 Sakhawat Hussain10 Dipasree Ray Chaudhuri11 Sudip Kumar",
@@ -264,6 +264,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-shocking-world-no-5-gm-anna-muzychuk-forgets-about-clock-suffers-massive-setback-at-grand-swiss-watch/articleshow/123709888.cms",
          "pubDate" : "Fri, 05 Sep 2025 02:57:03",
          "title" : "Shocking! World No. 5 forgets about clock, suffers setback - Watch"
+      },
+      {
+         "description" : "US Chess Interest Survey Open for 2nd FIDE Chess Olympiad for People with Disabilities. The international event, organized by FIDE, and hosted by the Kazakhstan Chess Federation, will take place October 19 - October 26, in Astana, Kazakhstan.US Chess will be accepting interest registrations for eligible U.S. participants until Friday, September 12, 5PM Central time.TOURNAMENT DETAILS AND ELIGIBILITYEach event will be an 6-round Swiss system tournament, using a time control of 90 minutes for the first 40 moves plus 30 minutes, plus an addition of 30 seconds per move starting from move one.The full schedule for all rounds can be viewed within the regulations document at https://www.fide.com/wp",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/interest-survey-open-2nd-fide-chess-olympiad-people-disabilities",
+         "pubDate" : "Fri, 05 Sep 2025 00:00:00",
+         "title" : "Interest Survey Open for 2nd FIDE Chess Olympiad for People with Disabilities"
       },
       {
          "description" : "It is said that no one can serve two masters. And so US Chess Executive Director Ranae Bartlett is trading Caïssa for the people of Madison, Alabama.<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> After serving on the Madison Board of Education (2011-2020) and City Council (2020-current), Bartlett won the Aug. 26 mayoral election with more than 56% of the vote. She will be inaugurated Nov. 3.Bartlett was named US Chess director of operations in September 2023, and became our executive director in March 2024. She departs US Chess on Oct. 21, but as mayor she'll keep her hand in the chess world.Newly elected to the Alabama Chess Hall of Fame, Bartlett will help run a che",
@@ -602,14 +610,6 @@ news_feed (
          "title" : "Chess: Wesley So wins $350,000 Sinquefield Cup as world champion Gukesh fails again"
       },
       {
-         "description" : "The Tech Mahindra Global Chess League (GCL) is back for its third season, again with a jaw-dropping lineup of the strongest players in the world. Now, for the first time ever, amateur and titled players alike can compete in the GCL Contenders, an ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-tech-mahindra-global-chess-league-season-3",
-         "pubDate" : "Fri, 29 Aug 2025 06:00:57",
-         "title" : "Global Chess League Returns For 3rd Season With Open Qualifiers And Top Talent"
-      },
-      {
          "description" : "The theme of this issue is non-server games. All moves from the games presented were either sent through the US Postal Service or by email.Please Note: In order for non-server games to be included in an issue of Check is in the Mail, they must be provided by, at least, one of the players of the games. Since US Chess does not mandate that players send in the games, sharing them is entirely voluntary.Games can be provided by email to ciitimeditor@gmail.com:In a PGN or other chess database file (example: ChessBase or Chess Assistant) attached to an email.As text within the body of an email including the details and moves of the game.As photos/scans of the game scoresheets attached to an email.O",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -664,14 +664,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-exam-in-agartala-on-21-22-august-2025/",
          "pubDate" : "Thu, 28 Aug 2025 09:14:30",
          "title" : "Final Report of Senior National Arbiter Seminar & Exam in Agartala on 21 & 22 August 2025"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Monday, September 1 in observance of Labor Day. Our offices will reopen for regular business on Tuesday, September 2 at 8 a.m. CT. Our best wishes and a happy Labor Day to all, and thank you for your continued support of US Chess! ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/labor-day-2025",
-         "pubDate" : "Thu, 28 Aug 2025 00:00:00",
-         "title" : "US Chess Offices Closed Monday, September 1, For Labor Day"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-9/\">POSTGAME ROUND 9 | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -904,14 +896,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/aronian-and-praggnanandhaa-win-in-round-1-of-the-sinquefield-cup",
          "pubDate" : "Tue, 19 Aug 2025 17:03:00",
          "title" : "Aronian and Praggnanandhaa win in Round 1 of the Sinquefield Cup - 1"
-      },
-      {
-         "description" : " The newly expanded Club to reopen as the premier global venue for chess, kicking off a historic series of elite tournaments SAINT LOUIS, MO (August 19, 2025) - The Saint Louis Chess Club is proud to announce the grand reopening of its newly expanded campus this fall, marking a bold new chapter for the game [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-saint-louis-chess-club-grand-reopening/\">Saint Louis Chess Club to Unveil New World-Class Facility With a Month of Historic Events, Legendary Matches, and U.S. &amp; U.S. Women's Championships</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-saint-louis-chess-club-grand-reopening/",
-         "pubDate" : "Tue, 19 Aug 2025 14:05:04",
-         "title" : "Saint Louis Chess Club to Unveil New World-Class Facility With a Month of Historic Events, Legendary Matches, and U.S. & U.S. Women's Championships"
       }
    ]
 }
