@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Parham Maghsoodloo kept his lead at the FIDE Grand Swiss, drawing with Arjun Erigaisi to stay half a point clear on 5/6 going into the rest day. Nihal Sarin defeated Szymon Gumularz, while Anish Giri overcame Marc'Andria Maurizzi to join the five-player pack of pursuers. Reigning world champion Gukesh Dommaraju suffered a second consecutive defeat, this time against Nikolas Theodorou (pictured). In the women's section, Vaishali Rameshbabu and Kateryna Lagno both won to remain tied at the top. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-6",
+         "pubDate" : "Wed, 10 Sep 2025 17:20:00",
+         "title" : "Grand Swiss: Maghsoodloo keeps the lead, Theodorou shocks Gukesh"
+      },
+      {
+         "description" : "The XTX Markets London Chess Classic (LCC) returns to the capital between 26th November and 7th December 2025. Following GM Gawain Jones's victory in 2024, the event will once again be held largely at the iconic Emirates Stadium, switching to London Novotel West in Hammersmith to avoid clashes with Arsenal home matches.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2025",
+         "pubDate" : "Wed, 10 Sep 2025 17:00:00",
+         "title" : "London Chess Classic 2025"
+      },
+      {
          "description" : "At the Louisiana State Championship, a surprise guest stole the spotlight: none other than Hikaru Nakamura. The superstar streamer was looking to secure qualification for the Candidates Tournament and needed a few rated games to do so. That set the stage for some wildly lopsided encounters - none more striking than his matchup against Nahum Jose Villamil, rated just 1933, nearly 1000 points below Hikaru. Against all odds, Villamil came close to pulling off what would have been one of the most sensational underdog upsets in chess history. Robert Ris has a closer look.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/hikaru-in-trouble-against-a-player-1000-elo-lower-the-underdog",
          "pubDate" : "Wed, 10 Sep 2025 12:37:27",
          "title" : "Hikaru in Trouble against a Player 1000 Elo Lower! - The Underdog"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123808140.cms\" />Magnus Carlsen has commented on Hikaru Nakamura's approach to qualify for the Candidates Tournament. Carlsen finds Nakamura's strategy shameless but pragmatic. Nakamura is playing in smaller open events to gain rating points. He recently won the Iowa Open. This victory brings him closer to his goal. Some criticize his choice of tournaments.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-im-not-part-of-that-s-anymore-magnus-carlsen-calls-world-no-2-hikaru-nakamura-shameless-blasts-candidates-path/articleshow/123808140.cms",
+         "pubDate" : "Wed, 10 Sep 2025 11:51:59",
+         "title" : "Carlsen calls World No. 2 Nakamura 'shameless': 'I'm not part of that'"
       },
       {
          "description" : "On behalf of All India Chess Federation and Arbiters' commission AICF, All J &#38; K Chess Association is organizing Senior National Arbiters Seminar &#38; Exam",
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-september-9-2025",
          "pubDate" : "Tue, 09 Sep 2025 12:16:00",
          "title" : "Carlsen Takes Titled Tuesday In Final Round Triumph Over Nakamura"
-      },
-      {
-         "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
-         "pubDate" : "Tue, 09 Sep 2025 11:50:00",
-         "title" : "Grand Swiss - Live!"
       },
       {
          "description" : " The FIDE Grand Swiss (<a href=\"https://theweekinchess.com/chessnews/events/fide-grand-swiss-tournament-2025\">my game and results page is here</a>) is being led by Iranian number one Parham Maghsoodloo. He is rated 37 in the world at 2692, so far he has beaten Chopra Aryan, David Anton, former countryman Alireza Firouzja and in round 5 he beat Richard Rapport, his only draw came in round 4 against Nodirbek Abdusattorov. Round 5 saw the top 5 boards all finish decisively. Maghsoodloo leads with 4.5/5 half a point clear of 16 year old Abhimanyu Mishra, who beat Gukesh in Round 5, Marc'andria Maurizzi (beat Vincent Keymer), Arjun Erigaisi (beat Nikita Vitiugov) and Matthias Bluebaum (who beat P",
@@ -504,14 +520,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/explained-how-aarini-lahoty-5-became-worlds-youngest-female-with-fide-ratings-across-all-chess-formats/articleshow/123659959.cms",
          "pubDate" : "Tue, 02 Sep 2025 16:19:23",
          "title" : "How Aarini Lahoty, 5, became world's youngest female with FIDE ratings in all chess formats"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123660586.cms\" />R Praggnanandhaa aims for a spot in the 2026 Candidates Tournament at the FIDE Grand Swiss. The event features a large prize pool and Candidates qualification spots. D Gukesh will also compete. Arjun Erigaisi seeks to improve his chances. Vidit Gujrathi hopes to regain his form. Divya Deshmukh plays in the open section. Koneru Humpy skips the event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-takes-on-a-strong-field-at-grand-swiss-eyes-candidates-berth/articleshow/123660586.cms",
-         "pubDate" : "Tue, 02 Sep 2025 16:05:54",
-         "title" : "Praggnanandhaa takes on a strong field at Grand Swiss, eyes Candidates berth"
       },
       {
          "description" : "GM Hikaru Nakamura this weekend scored 7/7 to win the 2025 Louisiana State Championship in New Orleans. Why was the world number-two playing a $3,000 event where his toughest rival was 2344-rated FM Nicholas Matta? It&#39;s all about qualification for...",
