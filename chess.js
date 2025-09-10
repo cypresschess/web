@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123801976.cms\" />World Champion D. Gukesh faced a tough day at the FIDE Grand Swiss, losing to Nikolas Theodorou after a defeat a day prior to 16-year-old Abhimanyu Mishra. Theodorou, now a 'Chigorin Club' member, capitalised on Gukesh's ambitious play with White pieces, exploiting a miscalculated threefold repetition claim.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-new-low-for-world-champion-gukesh-virtually-out-of-grand-swiss-title-race-after-second-straight-defeat/articleshow/123801976.cms",
+         "pubDate" : "Wed, 10 Sep 2025 06:52:15",
+         "title" : "New low for D Gukesh: Two losses in a row and now virtually out of Grand Swiss title race"
+      },
+      {
          "description" : "Computers continue to shape the way chess is played, studied and understood, but they also present challenges for humans trying to assert their creativity at the board. This month's column highlights two recent encounters where human ingenuity met silicon precision: Wesley So's victory over world champion Gukesh Dommaraju at the Sinquefield Cup (pictured), and Ian Nepomniachtchi's resilient defence against Praggnanandhaa Rameshbabu at the 2024 Candidates in Toronto. Both games illustrate the tension between preparation, psychology and practical decision-making. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -520,14 +528,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-bans-shevchenko-strips-gm-title",
          "pubDate" : "Tue, 02 Sep 2025 09:25:00",
          "title" : "FIDE Strips Shevchenko Of GM Title, Upholds 3-Year Ban In Cheating Case"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123646402.cms\" />Yosha Iglesias, once a chess prodigy in Sochi, Russia, has made history as the first transgender woman to win the French women's chess championship. Overcoming personal struggles, including a difficult transition and online harassment, Yosha found strength in her chess community and Buddhist philosophy. Her journey, marked by resilience and self-acceptance, inspires others to embrace their true selves.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-i-tried-to-live-as-a-man-but-couldnt-first-ever-trans-chess-player-to-reach-wim-now-french-womens-champion/articleshow/123646402.cms",
-         "pubDate" : "Tue, 02 Sep 2025 03:34:53",
-         "title" : "Exclusive | 'I tried to live as a man but': First-ever trans chess player to reach WIM"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> A chessboard's worth of US Chess members competed in the first US Chess Members Only Prize Arena, with NM Chess_Star1234 finishing first among the 64-player field. Results, standings, and games can be found on the arena's page.As a note, in these reports, we choose not to share the names of players competing in online arenas. Players may choose to share their own names publicly on their Chess.com profiles, in which case the reader can identify them.Arena tournaments are a unique online format that allow participants to come and go as they please without anybody having to wait until all games are finished to get paired for ",
