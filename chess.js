@@ -74,6 +74,14 @@ news_feed (
          "title" : "New low for D Gukesh: Two losses in a row and now virtually out of Grand Swiss title race"
       },
       {
+         "description" : "The 2025 FIDE World Grand Swiss is just past its halfway point in Samarkand, Uzbekistan. The event consists of a 116-player Open section and a 56-player Women's section. Play resumes Thursday, September 11, at 5:15 a.m. CDT.The top two finishers in each section will qualify for the FIDE Candidates and Women's Candidates Tournament, respectively. The total prize fund in Samarkand is $855,000, with $625,000 for the Open and $230,000 for the Women's, and first-place prizes of $90,000 and $40,000, respectively.Below is a summary of the first six rounds, with annotations courtesy of WGM Sabina Foisor. Keep reading for some additional puzzles, selected by Sabina, from games played by some of the 1",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-fide-grand-swiss-stories-so-far",
+         "pubDate" : "Wed, 10 Sep 2025 00:00:00",
+         "title" : "2025 FIDE Grand Swiss: The Stories So Far"
+      },
+      {
          "description" : "This week's puzzles continue our series from last month's Saint Louis Rapid &amp; Blitz, where GM Levon Aronian won the five-day, 27-game marathon for the third time in his career.The Wednesday puzzles aren't easy! Check out yesterday's Tactics Tuesday for a more approachable batch of exercises from the same event. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -562,14 +570,6 @@ news_feed (
          "title" : "Tactics Tuesday: Saint Louis Rapid & Blitz, Pt. 1"
       },
       {
-         "description" : "Kids for Chess, a nonprofit organization committed to supporting America's best youth chess players, is thrilled to announce the five winners of its scholarships for the 2025 World Youth and World Cadets Championships.After a rigorous selection process, the scholarships, each valued at $1,500, have been awarded to Renae Chen, Felix Guo, CM Chenxuan Ling, WCM Anagha Sinkar, and FM Linxi Zhu. The scholarships aim to assist the winners with the costs associated with participating in the World Youth and World Cadets Chess Championships this fall.We are also very proud to support FM Megan Paragua and CM Sasha Schaefer, two winners of the 2024 scholarship who could not attend the tournament last y",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/kids-chess-announces-2025-scholarship-winners",
-         "pubDate" : "Tue, 02 Sep 2025 00:00:00",
-         "title" : "Kids for Chess Announces 2025 Scholarship Winners"
-      },
-      {
          "description" : "The City of Katowice, and the Silesian Chess Federation are proud to announce that the European Individual Chess Championship 2026 will take place in Katowice, Poland, from 7-19 April 2026. Katowice has already established itself as one of Europe's leading chess hubs, having successfully organized four editions of the European Rapid and Blitz Chess Championships, each attracting a record number of participants. The city's proven organizational experience, world-class venues, and welcoming atmosphere provide the ideal conditions for hosting the most []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -856,14 +856,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/caruana-joins-the-leaders-after-beating-firouzja-in-the-sinquefield-cup-round-3",
          "pubDate" : "Thu, 21 Aug 2025 15:16:00",
          "title" : "Caruana joins the leaders after beating Firouzja in the Sinquefield Cup Round 3 - 3"
-      },
-      {
-         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-3/\">POSTGAME ROUND 3: Caruana Earns Massive Win over Firouzja! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-3/",
-         "pubDate" : "Wed, 20 Aug 2025 22:37:03",
-         "title" : "POSTGAME ROUND 3: Caruana Earns Massive Win over Firouzja! | #SinquefieldCup"
       }
    ]
 }
