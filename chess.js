@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Parham Maghsoodloo kept his lead at the FIDE Grand Swiss, drawing with Arjun Erigaisi to stay half a point clear on 5/6 going into the rest day. Nihal Sarin defeated Szymon Gumularz, while Anish Giri overcame Marc'Andria Maurizzi to join the five-player pack of pursuers. Reigning world champion Gukesh Dommaraju suffered a second consecutive defeat, this time against Nikolas Theodorou (pictured). In the women's section, Vaishali Rameshbabu and Kateryna Lagno both won to remain tied at the top. | Photo: FIDE / Michal Walusza",
+         "description" : "The Saint Louis Chess Club will soon host the 2025 US Chess Championship and the 2025 US Women's Championship, running from 12 to 24 October in its newly expanded venue. With a prize fund exceeding $400,000, the 12-player fields feature America's elite, including Fabiano Caruana, Wesley So, Carissa Yip, Alice Lee and Irina Krush. Alongside the competitions, Hall of Fame inductions and cultural events promise a historic month for American chess in Saint Louis. | Pictured: 2024 US chess champions, Fabiano Caruana and Carissa Yip | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-6",
-         "pubDate" : "Wed, 10 Sep 2025 17:20:00",
-         "title" : "Grand Swiss: Maghsoodloo keeps the lead, Theodorou shocks Gukesh"
+         "link" : "https://en.chessbase.com/post/us-championships-2025-fields",
+         "pubDate" : "Wed, 10 Sep 2025 21:00:00",
+         "title" : "Fields set for 2025 US Chess Championships"
       },
       {
-         "description" : "The XTX Markets London Chess Classic (LCC) returns to the capital between 26th November and 7th December 2025. Following GM Gawain Jones's victory in 2024, the event will once again be held largely at the iconic Emirates Stadium, switching to London Novotel West in Hammersmith to avoid clashes with Arsenal home matches.",
+         "description" : "As part of the Fortune Brainstorm Tech Conference, Anna Cramling will play a game of chess against Noland Arbaugh. Arbaugh is paraplegic, but with the help of a novel neurochip in his brain, he can move the pieces via a Brain Computer interface using pure thought power.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2025",
-         "pubDate" : "Wed, 10 Sep 2025 17:00:00",
-         "title" : "London Chess Classic 2025"
+         "link" : "https://en.chessbase.com/post/anna-cramling-noland-arbaugh-fortune",
+         "pubDate" : "Wed, 10 Sep 2025 19:15:00",
+         "title" : "Anna Cramling plays chess against \"cyborg\" Noland Arbaugh at Fortune Brainstorm Tech Conference"
       },
       {
          "description" : "At the Louisiana State Championship, a surprise guest stole the spotlight: none other than Hikaru Nakamura. The superstar streamer was looking to secure qualification for the Candidates Tournament and needed a few rated games to do so. That set the stage for some wildly lopsided encounters - none more striking than his matchup against Nahum Jose Villamil, rated just 1933, nearly 1000 points below Hikaru. Against all odds, Villamil came close to pulling off what would have been one of the most sensational underdog upsets in chess history. Robert Ris has a closer look.",
@@ -34,12 +34,28 @@ news_feed (
          "title" : "Carlsen calls World No. 2 Nakamura 'shameless': 'I'm not part of that'"
       },
       {
+         "description" : "The teams in CoachChamps 2025 are set for the main event in October. The eight coaches&#38;mdash;GMs Arturs Neiksans, Ben Finegold, IMs Levy Rozman, David Pruess, Andras Toth, WGM Dina Belenkaya, CM Can Kabadayi, and NM Robert Ramirez&#38;mdash;have each ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-coachchamps-draft-day",
+         "pubDate" : "Wed, 10 Sep 2025 11:30:28",
+         "title" : "GothamChess & Top Coaches Draft Their Picks For CoachChamps 2025"
+      },
+      {
          "description" : "On behalf of All India Chess Federation and Arbiters' commission AICF, All J &#38; K Chess Association is organizing Senior National Arbiters Seminar &#38; Exam",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/final-result-of-sna-seminar-exam-in-jammu-on-06-07-sept-2025/",
          "pubDate" : "Wed, 10 Sep 2025 10:38:05",
          "title" : "Final Result of SNA Seminar & Exam in Jammu on 06 & 07 Sept.2025"
+      },
+      {
+         "description" : "The late Titled Tuesday tournament may no longer run, but that doesn&#39;t mean the Tuesday chess action stops after one tournament, with the previously announced Titled Tuesday After Party happening each week as well. The inaugural After Party, a two...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-first-titled-tuesday-after-party",
+         "pubDate" : "Wed, 10 Sep 2025 09:38:00",
+         "title" : "Nakamura Kicks Off First Titled Tuesday After Party With Win"
       },
       {
          "description" : "Last Updated on 10th September 2025 by WebAdmin The four books selected show the long history and variety of chess. Two books cover the life of a player with a...",
@@ -58,12 +74,12 @@ news_feed (
          "title" : "New low for D Gukesh: Two losses in a row and now virtually out of Grand Swiss title race"
       },
       {
-         "description" : "Computers continue to shape the way chess is played, studied and understood, but they also present challenges for humans trying to assert their creativity at the board. This month's column highlights two recent encounters where human ingenuity met silicon precision: Wesley So's victory over world champion Gukesh Dommaraju at the Sinquefield Cup (pictured), and Ian Nepomniachtchi's resilient defence against Praggnanandhaa Rameshbabu at the 2024 Candidates in Toronto. Both games illustrate the tension between preparation, psychology and practical decision-making. | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-231",
-         "pubDate" : "Tue, 09 Sep 2025 21:20:00",
-         "title" : "Jon Speelman: The Caissic hunt of the Centaur"
+         "description" : "This week's puzzles continue our series from last month's Saint Louis Rapid &amp; Blitz, where GM Levon Aronian won the five-day, 27-game marathon for the third time in his career.The Wednesday puzzles aren't easy! Check out yesterday's Tactics Tuesday for a more approachable batch of exercises from the same event. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-2-0",
+         "pubDate" : "Wed, 10 Sep 2025 00:00:00",
+         "title" : "Wednesday Workout: Saint Louis Rapid & Blitz, Pt. 2"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123790630.cms\" />Turkish chess prodigy Yagiz Kaan Erdogmus, 14, drew against his coach Shakhriyar Mamedyarov at the FIDE Grand Swiss 2025 after a short 16-move game. This followed Yagiz's stunning victory over India's Aditya Mittal, where he executed a brilliant checkmate despite a significant material disadvantage. Praveen Thipsay called it a \"game for the books of combinations.",
@@ -114,14 +130,6 @@ news_feed (
          "title" : "Maghsoodloo leads the FIDE Grand Swiss alone after five rounds - 5"
       },
       {
-         "description" : "History was made in round five of the FIDE Grand Swiss as 16-year-old Abhimanyu Mishra defeated world champion Gukesh Dommaraju, becoming the youngest player ever to beat a sitting champion in classical chess. The day also saw top seed Praggnanandhaa Rameshbabu fall to Matthias Bluebaum and Vincent Keymer lose to Marc'Andria Maurizzi, while leader Parham Maghsoodloo defeated Richard Rapport. In the women's section, Vaishali Rameshbabu and Kateryna Lagno were joined by Dinara Wagner and Ulviyya Fataliyeva in a four-way lead. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-5",
-         "pubDate" : "Tue, 09 Sep 2025 08:30:00",
-         "title" : "Grand Swiss: Maghsoodloo beats Rapport, Mishra stuns Gukesh"
-      },
-      {
          "description" : "Special Note: If a player has only&#160;one accompanying person, then he/she must pay for double sharing amount only. (Triple sharing basis not accepted for two",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -168,14 +176,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-rapid-blitz-pt-2-0",
          "pubDate" : "Tue, 09 Sep 2025 00:00:00",
          "title" : "Tactics Tuesday: Saint Louis Rapid & Blitz, Pt. 2"
-      },
-      {
-         "description" : "The rule that a pawn reaching the eighth or the first rank can be promoted into another piece of the same color is one of the most beautiful in chess. It makes the game dynamic and has already led to many brilliant combinations and exciting games. One of these was played recently in round 6 of the Fujairah Masters between the Argentine prodigy Faustino Oro and the American International Master Nico Chasin.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/passed-pawns-are-powerful-6",
-         "pubDate" : "Mon, 08 Sep 2025 19:00:00",
-         "title" : "Passed pawns can be fun"
       },
       {
          "description" : "One of the longest-running tournaments in Spain sparked reactions this week after organizers tried to ban Israeli players and prevent them from competing under their national flag. Following backlash from players, media, and warnings from FIDE, th...",
@@ -274,14 +274,6 @@ news_feed (
          "title" : "Maghsoodloo, Vaishali Take Sole Grand Swiss Lead On 3/3"
       },
       {
-         "description" : "95 years ago, on September 6, 1930, the Anderssen Jubilee Tournament of the Frankfurt Chess Club began in Frankfurt am Main. The Master Tournament was convincingly won by Nimzowitsch with 9&frac12; out of 11, but the perhaps most famous game of the event was played in the Main Tournament. It was Hugo Hussong's brilliant win against Fritz Herrmann.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hugo-hussong-s-immortal",
-         "pubDate" : "Sat, 06 Sep 2025 10:00:00",
-         "title" : "Hugo Hussong's \"Immortal\""
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123732095.cms\" />Indian Grand Master Divya Deshmukh is participating in the FIDE Grand Swiss tournament in Samarkand. Despite an opening round defeat by her mentor Abhimanyu Puranik, the 19-year-old rebounded with a draw against Alexander Donchenko. Divya emphasizes learning over winning, stating that losses against strong players provide valuable lessons.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -304,14 +296,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-world-chess-champion-d-gukesh-denied-win-by-14-year-old-prodigy-r-vaishali-shares-lead-in-womens-section/articleshow/123729390.cms",
          "pubDate" : "Sat, 06 Sep 2025 03:40:33",
          "title" : "Gukesh denied win by 14-year-old; Vaishali shares lead in women's section"
-      },
-      {
-         "description" : "Grandmaster Lubomir Ftacnik presents a personal chess course that draws on his decades of playing at the top level and later experience as a coach, aiming to teach what he now understands more deeply than during his competitive career. Instead of overwhelming students with the endless information available in databases, he focuses on highlighting the most important principles-how to evaluate positions, avoid common mistakes, and understand underlying features of the game. The course covers key aspects of openings, middlegames, and endgames, always stressing practical understanding to help players make better decisions at the board.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lubomir-ftacnik-fundamentals-of-positional-play-and-strategy",
-         "pubDate" : "Fri, 05 Sep 2025 21:00:00",
-         "title" : "Lubomir Ftacnik: Fundamentals of Positional Play and Strategy"
       },
       {
          "description" : "Duck Chess Champion IM Nhat Minh To defended his title in the&#38;nbsp;2025 Duck Chess Championship Final, and convincingly so. He won all four of his matches 3-0, literally winning all 12 games, to earn $750. He defeated runner-up IM Eric Rosen (earn...",
@@ -602,22 +586,6 @@ news_feed (
          "title" : "September Bot Challenge: You Want a Piece of This?"
       },
       {
-         "description" : "GM Wesley So is back in the top-10 on the September 2025 FIDE rating list after winning the 2025 Sinquefield Cup, while 20-year-old GM Vincent Keymer has broken into the club for the first time after winning the 2025 Quantbox Chennai Grand Masters...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/september-2025-fide-ratings",
-         "pubDate" : "Mon, 01 Sep 2025 07:43:00",
-         "title" : "September 2025 FIDE Ratings: Wesley So, Keymer Enter Top 10"
-      },
-      {
-         "description" : "World number-one GM Magnus Carlsen&#39;s career as a fashion model is not over. Now the 34-year-old has made a comeback with Dutch fashion brand G-Star for its Fall 2025 campaign, marking a continuation of a 15-year-long collaboration. G-Star releas...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-returns-as-model-for-g-star",
-         "pubDate" : "Mon, 01 Sep 2025 06:55:04",
-         "title" : "Magnus Carlsen Makes G-Star Comeback Following 'Jeansgate' Dress Code Controversy"
-      },
-      {
          "description" : "I recently saw a YouTube short of Magnus Carlsen sharing one of the best advice he got early on in his career. It made me understand why so many amateur chess players feel they have to play several openings when there is absolutely no reason for it. He says this: \"Maybe the best advice I []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -672,14 +640,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/aug/29/chess-wesley-so-wins-350000-sinquefield-cup-as-world-champion-gukesh-fails-again",
          "pubDate" : "Fri, 29 Aug 2025 07:00:09",
          "title" : "Chess: Wesley So wins $350,000 Sinquefield Cup as world champion Gukesh fails again"
-      },
-      {
-         "description" : "The theme of this issue is non-server games. All moves from the games presented were either sent through the US Postal Service or by email.Please Note: In order for non-server games to be included in an issue of Check is in the Mail, they must be provided by, at least, one of the players of the games. Since US Chess does not mandate that players send in the games, sharing them is entirely voluntary.Games can be provided by email to ciitimeditor@gmail.com:In a PGN or other chess database file (example: ChessBase or Chess Assistant) attached to an email.As text within the body of an email including the details and moves of the game.As photos/scans of the game scoresheets attached to an email.O",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-september-2025-going-postal",
-         "pubDate" : "Fri, 29 Aug 2025 00:00:00",
-         "title" : "Check is in the Mail, September 2025: Going Postal!"
       },
       {
          "description" : " So Wins Second Title Amid Fierce Competition, Top Four Headed to Grand Chess Tour Finals in Brazil SAINT LOUIS, August 28, 2025 U.S. Grandmaster Wesley So triumphed at the 2025 Sinquefield Cup, outlasting a world-class field and a thrilling three-way tie at the top that led to playoffs to decide it all. In the end, [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-title-goes-to-american-grandmaster-wesley-so/\">2025 Sinquefield Cup Title Goes to American Grandmaster Wesley So</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -904,14 +864,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-3/",
          "pubDate" : "Wed, 20 Aug 2025 22:37:03",
          "title" : "POSTGAME ROUND 3: Caruana Earns Massive Win over Firouzja! | #SinquefieldCup"
-      },
-      {
-         "description" : " Alireza Firouzja won a tremendous struggle against Jan-Krzysztof Duda to join Praggnanandhaa and Levon Aronian in the lead of the Sinquefield Cup on 1.5 points at this early stage of the competition. Firouzja won on the white side of an open Spanish, as did Gukesh who bounced back from his loss yesterday, he beat Nodirbek Abdusattorov and he is on no points after his second loss in row. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/firouzja-and-gukesh-win-tricky-games-in-round-2-of-the-sinquefield-cup",
-         "pubDate" : "Wed, 20 Aug 2025 15:49:00",
-         "title" : "Firouzja and Gukesh win tricky games in Round 2 of the Sinquefield Cup - 2"
       }
    ]
 }
