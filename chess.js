@@ -34,20 +34,20 @@ news_feed (
          "title" : "Hilarious! Chess fan asks American GM his name after photo - Watch"
       },
       {
+         "description" : "GM Parham Maghsoodloo drew against GM Arjun Erigaisi to remain sole leader of the 2025 FIDE Grand Swiss going into the only rest day, while GMs Anish Giri and Nihal Sarin both won sharp games to join a six-player pack half a point behind. World Ch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-6",
+         "pubDate" : "Tue, 09 Sep 2025 14:30:00",
+         "title" : "Maghsoodloo Leads Grand Swiss As Gukesh Loses 2nd Game In A Row"
+      },
+      {
          "description" : "GM Magnus Carlsen won Titled Tuesday by a full point on September 9, but don&#39;t let the final margin fool you into thinking the result was a runaway. Tied with GM Alireza Firouzja entering the final round of play, Carlsen needed to defeat GM Hikaru...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-september-9-2025",
          "pubDate" : "Tue, 09 Sep 2025 12:16:00",
          "title" : "Carlsen Takes Titled Tuesday In Final Round Triumph Over Nakamura"
-      },
-      {
-         "description" : "GM Parham Maghsoodloo drew against GM Arjun Erigaisi to remain sole leader of the 2025 FIDE Grand Swiss going into the only rest day, while GMs Anish Giri and Nihal Sarin both won sharp games to join a six-player pack half a point behind. World Ch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-6",
-         "pubDate" : "Tue, 09 Sep 2025 11:57:00",
-         "title" : "Maghsoodloo Leads Grand Swiss As Gukesh Loses 2nd Game In A Row"
       },
       {
          "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
@@ -888,14 +888,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/firouzja-and-gukesh-win-tricky-games-in-round-2-of-the-sinquefield-cup",
          "pubDate" : "Wed, 20 Aug 2025 15:49:00",
          "title" : "Firouzja and Gukesh win tricky games in Round 2 of the Sinquefield Cup - 2"
-      },
-      {
-         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-2/\">POSTGAME ROUND 2: Alireza Bests Duda in Epic Game! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-2/",
-         "pubDate" : "Tue, 19 Aug 2025 23:35:31",
-         "title" : "POSTGAME ROUND 2: Alireza Bests Duda in Epic Game! | #SinquefieldCup"
       }
    ]
 }
