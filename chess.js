@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123801976.cms\" />World Champion D. Gukesh faced a tough day at the FIDE Grand Swiss, losing to Nikolas Theodorou after a defeat a day prior to 16-year-old Abhimanyu Mishra. Theodorou, now a 'Chigorin Club' member, capitalised on Gukesh's ambitious play with White pieces, exploiting a miscalculated threefold repetition claim.",
+         "description" : "At the Louisiana State Championship, a surprise guest stole the spotlight: none other than Hikaru Nakamura. The superstar streamer was looking to secure qualification for the Candidates Tournament and needed a few rated games to do so. That set the stage for some wildly lopsided encounters - none more striking than his matchup against Nahum Jose Villamil, rated just 1933, nearly 1000 points below Hikaru. Against all odds, Villamil came close to pulling off what would have been one of the most sensational underdog upsets in chess history. Robert Ris has a closer look.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hikaru-in-trouble-against-a-player-1000-elo-lower-the-underdog",
+         "pubDate" : "Wed, 10 Sep 2025 12:37:27",
+         "title" : "Hikaru in Trouble against a Player 1000 Elo Lower! - The Underdog"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation and Arbiters' commission AICF, All J &#38; K Chess Association is organizing Senior National Arbiters Seminar &#38; Exam",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-result-of-sna-seminar-exam-in-jammu-on-06-07-sept-2025/",
+         "pubDate" : "Wed, 10 Sep 2025 10:38:05",
+         "title" : "Final Result of SNA Seminar & Exam in Jammu on 06 & 07 Sept.2025"
+      },
+      {
+         "description" : "Last Updated on 10th September 2025 by WebAdmin The four books selected show the long history and variety of chess. Two books cover the life of a player with a...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-shortlist-4/",
+         "pubDate" : "Wed, 10 Sep 2025 08:33:36",
+         "title" : "ECF Book of the Year shortlist"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123801976.cms\" />D Gukesh, the world champion, faced another setback at the FIDE Grand Swiss, losing to Nikolas Theodorou on Tuesday after a previous defeat. Theodorou, surprised by Gukesh's opening, capitalised on a missed threefold repetition claim by Gukesh. Despite Gukesh's ambition to win with the White pieces, Theodorou secured the victory in 47 moves.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-new-low-for-world-champion-gukesh-virtually-out-of-grand-swiss-title-race-after-second-straight-defeat/articleshow/123801976.cms",
@@ -754,7 +778,7 @@ news_feed (
          "title" : "Praggnanandhaa joins Caruana in the lead of the Sinquefield Cup after beating Firouzja in Round 7 - 7"
       },
       {
-         "description" : "Last Updated on 26th August 2025 by WebAdmin The Prison I was delighted to re-visit this prison to further support their chess endeavours. This time I invited along Yury Krylov,...",
+         "description" : "Last Updated on 10th September 2025 by WebAdmin The Prison I was delighted to re-visit this prison to further support their chess endeavours. This time I invited along Yury Krylov,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/visit-to-hmp-bullingdon-carl-portman/",
@@ -784,14 +808,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/five-more-draws-in-sinquefield-cup-round-6-but-mvl-missed-a-big-opportunity",
          "pubDate" : "Mon, 25 Aug 2025 09:13:00",
          "title" : "Five more draws in Sinquefield Cup Round 6 but MVL missed a big opportunity - 6"
-      },
-      {
-         "description" : "Please find the certificates here SL No Name 1 Ajmal P A 2 Anuraj Mohan Raskatla 3 Rathi Dhanashree 4 Dhokale Devendra 5 Tamane Madhur",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-sna-seminar-exam-held-in-ahmednagar-ahilya-nagar-maharashtra-on-12th-13th-july-2025/",
-         "pubDate" : "Mon, 25 Aug 2025 08:28:31",
-         "title" : "Certificate of SNA Seminar & Exam held in Ahmednagar (Ahilya Nagar), Maharashtra on 12th & 13th July, 2025."
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-6/\">POSTGAME ROUND 6: Fabiano Leads With Half a Point! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
