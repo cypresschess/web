@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123824514.cms\" />Hikaru Nakamura is strategically playing in weaker tournaments to maintain his high rating and secure a spot in the World Chess Championship Candidates Tournament. While other aspirants compete in challenging events like the FIDE Grand Swiss, Nakamura focuses on accumulating points against lower-rated opponents to fulfill the 40-game requirement, exploiting loopholes in the system.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-no-2-hikaru-nakamura-exploits-candidates-system-and-he-is-not-the-first/articleshow/123824514.cms",
+         "pubDate" : "Thu, 11 Sep 2025 06:54:29",
+         "title" : "World No. 2 Hikaru Nakamura exploits Candidates system and he is not the first"
+      },
+      {
+         "description" : "Hikaru Nakamura is working to meet the requirement of playing enough classical games in 2025 to qualify for the 2026 FIDE Candidates Tournament by rating. The world number two recently entered two state-level events in the United States, scoring perfect results in both. He won all seven games at the Louisiana State Championship in New Orleans, before adding five more victories at the Iowa Chess Open in Iowa City. These results bring his total to 29 classical games, with 11 still needed by year's end. | Photo: Nakamura's X account",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nakamura-louisiana-iowa-chess-ch-2025",
+         "pubDate" : "Thu, 11 Sep 2025 05:30:00",
+         "title" : "Nakamura wins tournaments in Louisiana and Iowa, as he attempts to get rating spot at the Candidates"
+      },
+      {
          "description" : "The Saint Louis Chess Club will soon host the 2025 US Chess Championship and the 2025 US Women's Championship, running from 12 to 24 October in its newly expanded venue. With a prize fund exceeding $400,000, the 12-player fields feature America's elite, including Fabiano Caruana, Wesley So, Carissa Yip, Alice Lee and Irina Krush. Alongside the competitions, Hall of Fame inductions and cultural events promise a historic month for American chess in Saint Louis. | Pictured: 2024 US chess champions, Fabiano Caruana and Carissa Yip | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -504,14 +520,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-state-of-chess-september",
          "pubDate" : "Tue, 02 Sep 2025 17:56:00",
          "title" : "State Of Chess: 2026 Esports World Cup, Titled Tuesday, Super PogChamps, & More"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123659959.cms\" />Aarini Lahoty, a five-year-old chess prodigy from Delhi, has achieved a remarkable feat by earning FIDE ratings in classical, rapid, and blitz chess formats. She is the youngest girl globally to achieve this milestone and the first Indian player born in 2019 to do so. She now holds ratings of 1553 (classical), 1550 (rapid) and 1498 (blitz).",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/explained-how-aarini-lahoty-5-became-worlds-youngest-female-with-fide-ratings-across-all-chess-formats/articleshow/123659959.cms",
-         "pubDate" : "Tue, 02 Sep 2025 16:19:23",
-         "title" : "How Aarini Lahoty, 5, became world's youngest female with FIDE ratings in all chess formats"
       },
       {
          "description" : "GM Hikaru Nakamura this weekend scored 7/7 to win the 2025 Louisiana State Championship in New Orleans. Why was the world number-two playing a $3,000 event where his toughest rival was 2344-rated FM Nicholas Matta? It&#39;s all about qualification for...",
