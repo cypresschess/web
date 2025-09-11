@@ -34,6 +34,14 @@ news_feed (
          "title" : "World No. 2 Hikaru Nakamura exploits Candidates system and he is not the first"
       },
       {
+         "description" : "Noland Arbaugh, the first person to receive Neuralink&#39;s brain-computer interface, appeared at Fortune Brainstorm Tech 2025 on Wednesday. After an on-stage conversation about his remarkable journey, Arbaugh capped the session by facing none other t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fortune-brainstorm-tech-2025-arbaugh-plays-cramling",
+         "pubDate" : "Thu, 11 Sep 2025 06:28:34",
+         "title" : "Noland Arbaugh, Neuralink's 1st Patient, Plays Chess.com Game Against Anna Cramling"
+      },
+      {
          "description" : "Hikaru Nakamura is working to meet the requirement of playing enough classical games in 2025 to qualify for the 2026 FIDE Candidates Tournament by rating. The world number two recently entered two state-level events in the United States, scoring perfect results in both. He won all seven games at the Louisiana State Championship in New Orleans, before adding five more victories at the Iowa Chess Open in Iowa City. These results bring his total to 29 classical games, with 11 still needed by year's end. | Photo: Nakamura's X account",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -610,14 +618,6 @@ news_feed (
          "title" : "Katowice to Host the European Individual Chess Championship 2026"
       },
       {
-         "description" : "You&#38;rsquo;ve played with them, now play against them. This month&#38;rsquo;s bot challenge is to square off against the pieces themselves! Can you beat them at their own game? Go to our Play Computer page and find out! The Pawn Playing strength: ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chess-pieces-bots",
-         "pubDate" : "Mon, 01 Sep 2025 10:30:00",
-         "title" : "September Bot Challenge: You Want a Piece of This?"
-      },
-      {
          "description" : "I recently saw a YouTube short of Magnus Carlsen sharing one of the best advice he got early on in his career. It made me understand why so many amateur chess players feel they have to play several openings when there is absolutely no reason for it. He says this: \"Maybe the best advice I []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -872,14 +872,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-4/",
          "pubDate" : "Thu, 21 Aug 2025 21:37:42",
          "title" : "POSTGAME ROUND 4: Caruana Holds Nerves, Turns Tables on Nodirbek | #SinquefieldCup"
-      },
-      {
-         "description" : " Fabiano Caruana was the only winner in Round 3 of the Sinquefield Cup. Caruana took advantage of a few Firouzja inaccuracies, 21...Raf8? (21...Rff8!) was a real error, not exploited 22.a3?! (22.Bh3!) 22...Qd8? (22...Qe7!=) but it was only later that the real collapse happened when Firouzja allowed Caruana's d-pawn to advance. Levon Aronian escaped a lost position against Maxime Vachier-Lagrave, 53.Bf6? (53.a3 was the win) was the point MVL erred. Nodirbek Abdusattorov pressed against Praggnanandhaa but had to settle for a draw in the end. Jan-Krzysztof Duda and Wesley So drew a very quiet game. Sam Sevian had a little something against Gukesh but it didn't turn out to be anything. Notes to ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/caruana-joins-the-leaders-after-beating-firouzja-in-the-sinquefield-cup-round-3",
-         "pubDate" : "Thu, 21 Aug 2025 15:16:00",
-         "title" : "Caruana joins the leaders after beating Firouzja in the Sinquefield Cup Round 3 - 3"
       }
    ]
 }
