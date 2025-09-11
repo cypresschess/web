@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE Education Commission and ECU Education Commission proudly present the following event Every Lesson Counts: Masterclasses in Chess in Education, taking place at the London MindSports Centre on 11-12...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/every-lesson-counts-masterclasses-in-chess-in-education/",
+         "pubDate" : "Thu, 11 Sep 2025 16:00:06",
+         "title" : "Every Lesson Counts: Masterclasses in Chess in Education"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
          "pubDate" : "Thu, 11 Sep 2025 11:50:00",
          "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "Indian GM Nihal Sarin defeated GM Parham Maghsoodloo to grab the 2025 FIDE Grand Swiss lead on 5.5/7, where he was joined by GM Matthias Bluebaum, who stunned GM Arjun Erigaisi. GMs Alireza Firouzja, Nodirbek Abdusattorov, Hans Niemann, and Vidit ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-7",
+         "pubDate" : "Thu, 11 Sep 2025 10:41:00",
+         "title" : "Nihal, Bluebaum Grab Grand Swiss Lead; Gukesh Loses 3rd Game"
       },
       {
          "description" : "Last Updated on 11th September 2025 by WebAdmin There was a large number of nominations this year, and the Chess Trust made eight awards as follows: St Catherine's School Bramley;&#160;Stockport...",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/nakamura-louisiana-iowa-chess-ch-2025",
          "pubDate" : "Thu, 11 Sep 2025 05:30:00",
          "title" : "Nakamura wins tournaments in Louisiana and Iowa, as he attempts to get rating spot at the Candidates"
+      },
+      {
+         "description" : "FM Tibor Weinberger, of Santa Monica, California, passed away Aug. 28. He was born in 1932 in Budapest to Marton and Erz&eacute;bet (n&eacute;e Teitelbaum) Weinberger; he was predeceased by his parents, his older sisters Hedvig (Hedi) Weinberger and Edit (Medi) Weinberger, and older brother Meir (Mayerli) Weinberger.Tibor's immediate family survived the Holocaust. His father was impressed into the Hungarian army on the Eastern Front and died of tuberculosis shortly after the war. Tibor's older siblings remained in Budapest during the German occupation in 1944, while he and his younger brother Robert (Robi) went into hiding - first in the Hungarian countryside and then in Budapest. <br> <br> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/fm-tibor-weinberger-1932-2025",
+         "pubDate" : "Thu, 11 Sep 2025 00:00:00",
+         "title" : "FM Tibor Weinberger (1932-2025)"
       },
       {
          "description" : "The Saint Louis Chess Club will soon host the 2025 US Chess Championship and the 2025 US Women's Championship, running from 12 to 24 October in its newly expanded venue. With a prize fund exceeding $400,000, the 12-player fields feature America's elite, including Fabiano Caruana, Wesley So, Carissa Yip, Alice Lee and Irina Krush. Alongside the competitions, Hall of Fame inductions and cultural events promise a historic month for American chess in Saint Louis. | Pictured: 2024 US chess champions, Fabiano Caruana and Carissa Yip | Photo: Lennart Ootes",
@@ -586,28 +610,12 @@ news_feed (
          "title" : "The North American Corporate Chess League Returns For Season 12"
       },
       {
-         "description" : "Twenty-two-year-old Kirill Shevchenko has become only the fourth player in chess history to be stripped of the GM title, after the FIDE Ethics and Disciplinary Commission (EDC) rejected his appeal in one of the most high-profile over-the-board che...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-bans-shevchenko-strips-gm-title",
-         "pubDate" : "Tue, 02 Sep 2025 09:25:00",
-         "title" : "FIDE Strips Shevchenko Of GM Title, Upholds 3-Year Ban In Cheating Case"
-      },
-      {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> A chessboard's worth of US Chess members competed in the first US Chess Members Only Prize Arena, with NM Chess_Star1234 finishing first among the 64-player field. Results, standings, and games can be found on the arena's page.As a note, in these reports, we choose not to share the names of players competing in online arenas. Players may choose to share their own names publicly on their Chess.com profiles, in which case the reader can identify them.Arena tournaments are a unique online format that allow participants to come and go as they please without anybody having to wait until all games are finished to get paired for ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/64-players-compete-first-us-chess-members-only-prize-arena",
          "pubDate" : "Tue, 02 Sep 2025 00:00:00",
          "title" : "64 Players Compete in First US Chess Members Only Prize Arena"
-      },
-      {
-         "description" : "This week's puzzles come from last month's Saint Louis Rapid &amp; Blitz, where GM Levon Aronian won the five-day, 27-game marathon for the third time in his career. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-rapid-blitz-pt-1-0",
-         "pubDate" : "Tue, 02 Sep 2025 00:00:00",
-         "title" : "Tactics Tuesday: Saint Louis Rapid & Blitz, Pt. 1"
       },
       {
          "description" : "The City of Katowice, and the Silesian Chess Federation are proud to announce that the European Individual Chess Championship 2026 will take place in Katowice, Poland, from 7-19 April 2026. Katowice has already established itself as one of Europe's leading chess hubs, having successfully organized four editions of the European Rapid and Blitz Chess Championships, each attracting a record number of participants. The city's proven organizational experience, world-class venues, and welcoming atmosphere provide the ideal conditions for hosting the most []",
