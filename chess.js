@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
+         "pubDate" : "Thu, 11 Sep 2025 11:50:00",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "Last Updated on 11th September 2025 by WebAdmin There was a large number of nominations this year, and the Chess Trust made eight awards as follows: St Catherine's School Bramley;&#160;Stockport...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/bcet-awards-2025/",
+         "pubDate" : "Thu, 11 Sep 2025 08:39:53",
+         "title" : "BCET Awards 2025"
+      },
+      {
+         "description" : "The 38th National Under-13 Chess Championship 2025 concluded with grandeur at the Daivadnya Bhavan in Margao, Goa. After eleven rounds of intense battles, Shaunak Badole",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/38th-national-under-13-chess-championship-2025event-codes-430540-goa-2025-430541-goa-2025-shaunak-badole-of-maharashtra-and-wcm-deekshitha-modipalli-of-telangana-crowned-national-champions/",
+         "pubDate" : "Thu, 11 Sep 2025 07:42:20",
+         "title" : "38th National Under-13 Chess Championship 2025Event Codes: 430540/GOA/2025 & 430541/GOA/2025.Shaunak Badole of Maharashtra and WCM Deekshitha Modipalli of Telangana Crowned National Champions"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123824514.cms\" />Hikaru Nakamura is strategically playing in weaker tournaments to maintain his high rating and secure a spot in the World Chess Championship Candidates Tournament. While other aspirants compete in challenging events like the FIDE Grand Swiss, Nakamura focuses on accumulating points against lower-rated opponents to fulfill the 40-game requirement, exploiting loopholes in the system.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -760,14 +784,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/visit-to-hmp-bullingdon-carl-portman/",
          "pubDate" : "Tue, 26 Aug 2025 08:43:31",
          "title" : "Visit to HMP Bullingdon - Carl Portman"
-      },
-      {
-         "description" : "A FIDE Arbiters' Seminar was held in Bhubaneshwar, Odisha, from the 16th to the 18th of August 2025. The seminar was organized by the All",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/report-fide-arbiters-seminar-in-bhubaneshwar-from-16-18-august-2025/",
-         "pubDate" : "Tue, 26 Aug 2025 06:08:50",
-         "title" : "Report-FIDE Arbiters' Seminar in Bhubaneshwar from 16-18 August 2025."
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-7/\">POSTGAME ROUND 7: Pragg Wins Outstanding Battle With Alireza | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
