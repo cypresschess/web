@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the second time, Hamburg played host to a unique combined chess and tennis tournament. To manage the Swiss-system draw, a specially developed combined rating was introduced. Georgi Davidov once again proved his class, successfully defending his title from last year. | Pictured: Group photo at the close of the tournament - champion Georgi Davidov with the knight in the centre, flanked on his right by organisers Christian Kalla and Kai Sch&ouml;nwolf. | Fotos: Eva Maria Zickelbein and Anastasiia Agapitova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hamburg-chess-tennish-challenge-2025",
+         "pubDate" : "Thu, 11 Sep 2025 21:45:00",
+         "title" : "Georgi Davidov wins second edition of the Hamburg Chess Tennis Challenge"
+      },
+      {
          "description" : "FIDE Education Commission and ECU Education Commission proudly present the following event Every Lesson Counts: Masterclasses in Chess in Education, taking place at the London MindSports Centre on 11-12...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -58,44 +66,12 @@ news_feed (
          "title" : "Noland Arbaugh, Neuralink's 1st Patient, Plays Chess.com Game Against Anna Cramling"
       },
       {
-         "description" : "Hikaru Nakamura is working to meet the requirement of playing enough classical games in 2025 to qualify for the 2026 FIDE Candidates Tournament by rating. The world number two recently entered two state-level events in the United States, scoring perfect results in both. He won all seven games at the Louisiana State Championship in New Orleans, before adding five more victories at the Iowa Chess Open in Iowa City. These results bring his total to 29 classical games, with 11 still needed by year's end. | Photo: Nakamura's X account",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nakamura-louisiana-iowa-chess-ch-2025",
-         "pubDate" : "Thu, 11 Sep 2025 05:30:00",
-         "title" : "Nakamura wins tournaments in Louisiana and Iowa, as he attempts to get rating spot at the Candidates"
-      },
-      {
          "description" : "FM Tibor Weinberger, of Santa Monica, California, passed away Aug. 28. He was born in 1932 in Budapest to Marton and Erz&eacute;bet (n&eacute;e Teitelbaum) Weinberger; he was predeceased by his parents, his older sisters Hedvig (Hedi) Weinberger and Edit (Medi) Weinberger, and older brother Meir (Mayerli) Weinberger.Tibor's immediate family survived the Holocaust. His father was impressed into the Hungarian army on the Eastern Front and died of tuberculosis shortly after the war. Tibor's older siblings remained in Budapest during the German occupation in 1944, while he and his younger brother Robert (Robi) went into hiding - first in the Hungarian countryside and then in Budapest. <br> <br> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/fm-tibor-weinberger-1932-2025",
          "pubDate" : "Thu, 11 Sep 2025 00:00:00",
          "title" : "FM Tibor Weinberger (1932-2025)"
-      },
-      {
-         "description" : "The Saint Louis Chess Club will soon host the 2025 US Chess Championship and the 2025 US Women's Championship, running from 12 to 24 October in its newly expanded venue. With a prize fund exceeding $400,000, the 12-player fields feature America's elite, including Fabiano Caruana, Wesley So, Carissa Yip, Alice Lee and Irina Krush. Alongside the competitions, Hall of Fame inductions and cultural events promise a historic month for American chess in Saint Louis. | Pictured: 2024 US chess champions, Fabiano Caruana and Carissa Yip | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2025-fields",
-         "pubDate" : "Wed, 10 Sep 2025 21:00:00",
-         "title" : "Fields set for 2025 US Chess Championships"
-      },
-      {
-         "description" : "As part of the Fortune Brainstorm Tech Conference, Anna Cramling will play a game of chess against Noland Arbaugh. Arbaugh is paraplegic, but with the help of a novel neurochip in his brain, he can move the pieces via a Brain Computer interface using pure thought power.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anna-cramling-noland-arbaugh-fortune",
-         "pubDate" : "Wed, 10 Sep 2025 19:15:00",
-         "title" : "Anna Cramling plays chess against \"cyborg\" Noland Arbaugh at Fortune Brainstorm Tech Conference"
-      },
-      {
-         "description" : "At the Louisiana State Championship, a surprise guest stole the spotlight: none other than Hikaru Nakamura. The superstar streamer was looking to secure qualification for the Candidates Tournament and needed a few rated games to do so. That set the stage for some wildly lopsided encounters - none more striking than his matchup against Nahum Jose Villamil, rated just 1933, nearly 1000 points below Hikaru. Against all odds, Villamil came close to pulling off what would have been one of the most sensational underdog upsets in chess history. Robert Ris has a closer look.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hikaru-in-trouble-against-a-player-1000-elo-lower-the-underdog",
-         "pubDate" : "Wed, 10 Sep 2025 12:37:27",
-         "title" : "Hikaru in Trouble against a Player 1000 Elo Lower! - The Underdog"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123808140.cms\" />Magnus Carlsen has commented on Hikaru Nakamura's approach to qualify for the Candidates Tournament. Carlsen finds Nakamura's strategy shameless but pragmatic. Nakamura is playing in smaller open events to gain rating points. He recently won the Iowa Open. This victory brings him closer to his goal. Some criticize his choice of tournaments.",
@@ -872,14 +848,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/aug/22/chess-vincent-keymer-20-routs-indians-in-their-chennai-heartland",
          "pubDate" : "Fri, 22 Aug 2025 07:00:26",
          "title" : "Chess: Vincent Keymer, 20, routs Indians in their Chennai heartland"
-      },
-      {
-         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-4/\">POSTGAME ROUND 4: Caruana Holds Nerves, Turns Tables on Nodirbek | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-4/",
-         "pubDate" : "Thu, 21 Aug 2025 21:37:42",
-         "title" : "POSTGAME ROUND 4: Caruana Holds Nerves, Turns Tables on Nodirbek | #SinquefieldCup"
       }
    ]
 }
