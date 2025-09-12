@@ -18,6 +18,14 @@ news_feed (
          "title" : "Grand Swiss: Nihal shares lead; Gukesh, Divya play out 103-move draw"
       },
       {
+         "description" : "Iranian teenage GM Sina Movahed won his second consecutive&#38;nbsp;Freestyle Friday, and his third overall, in a field of 115 on September 12 after beating out GMs Magnus Carlsen, Arseniy Nesterov, and Denis Lazavik by a full point. There were two ke...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/movahed-wins-freestyle-friday-september-12-2025",
+         "pubDate" : "Fri, 12 Sep 2025 12:57:00",
+         "title" : "Movahed On Freestyle Run Of Victories"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +50,7 @@ news_feed (
          "title" : "Certificates:National Under 11 Chess Championship 2025 in Jalgaon"
       },
       {
-         "description" : "GMs Matthias Bluebaum and Nihal Sarin continue to lead the 2025 FIDE Grand Swiss after round eight, as not one of the seven players behind them was able to catch up. GMs Vincent Keymer and Jorden van Foreest, with respective wins against GMs Vidit...",
+         "description" : "GMs Matthias Bluebaum and Nihal Sarin continue to lead the 2025 FIDE Grand Swiss after round eight. They made a quick draw, and not one of the seven players behind them was able to catch up. GMs Vincent Keymer and Jorden van Foreest, with respecti...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-8",
@@ -58,7 +66,7 @@ news_feed (
          "title" : "Gukesh keeps losing, Nihal keeps winning: Indian chess confronts Janus paradox"
       },
       {
-         "description" : " The 'Turkish Immortal' allowed two white queens on the board, then sacrificed the black queen for a pawn, followed by checkmate by a previously unmoved black pawn Draws dominated on Friday in round eight of the $625,000 Grand Swiss in Samarkand on the ancient Silk Road, where the top two finishers after 11 rounds will qualify for the 2026 Candidates and a potential title shot at the shaky crown of the world champion, Gukesh Dommaraju. Leaders after round eight were Nihal Sarin (India) and Matthias Bl&uuml;baum (Germany) 6, Parham Maghsoodloo (Iran), Abhimanyu Mishra and Hans Niemann (US), Anish Giri and Jorden van Foreest (Netherlands), Alireza Firouzja (France), Nodirbek Abdusattorov (Uzbe",
+         "description" : " The 'Turkish Immortal' allowed two white queens on the board, then sacrificed the black queen for a pawn, followed by checkmate by a previously unmoved black pawn Draws dominated on Friday in round eight of the $625,000 Grand Swiss in Samarkand on the ancient Silk Road, where the top two finishers after 11 rounds will qualify for the 2026 ­Candidates and a potential title shot at the shaky crown of the world ­champion, Gukesh Dommaraju. Leaders after round eight were Nihal Sarin (India) and Matthias Bl&uuml;baum (Germany) 6, Parham Maghsoodloo (Iran), Abhimanyu Mishra and Hans Niemann (US), Anish Giri and Jorden van ­Foreest (Netherlands), Alireza Firouzja (France), Nodirbek Abdusattorov (U",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/sep/12/chess-erdogmus-14-wins-immortal-game-on-silk-road-as-grand-swiss-nears-climax",
@@ -602,14 +610,6 @@ news_feed (
          "title" : "Announcing The After Party & The Untitled After Party, Chess.com's New Weekly Prize Arenas"
       },
       {
-         "description" : "Arena Kings, Chess.com&#39;s longest-running tournament for creators, is undergoing changes starting October 1. The event will feature a new format and cadence that will help creators build and engage their communities. The new Arena Kings will now ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-new-arena-kings-format",
-         "pubDate" : "Tue, 02 Sep 2025 10:57:11",
-         "title" : "Arena Kings To Feature New Format Focused On Community Building Starting October 1"
-      },
-      {
          "description" : "The City of Katowice, and the Silesian Chess Federation are proud to announce that the European Individual Chess Championship 2026 will take place in Katowice, Poland, from 7-19 April 2026. Katowice has already established itself as one of Europe's leading chess hubs, having successfully organized four editions of the European Rapid and Blitz Chess Championships, each attracting a record number of participants. The city's proven organizational experience, world-class venues, and welcoming atmosphere provide the ideal conditions for hosting the most []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -832,14 +832,6 @@ news_feed (
          "link" : "https://www.thearticle.com/go-and-the-atomic-bomb/",
          "pubDate" : "Sat, 23 Aug 2025 10:10:01",
          "title" : "Go and the atomic bomb"
-      },
-      {
-         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-5/\">POSTGAME ROUND 5: Five Draws, But All Interesting | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-5/",
-         "pubDate" : "Fri, 22 Aug 2025 22:01:51",
-         "title" : "POSTGAME ROUND 5: Five Draws, But All Interesting | #SinquefieldCup"
       }
    ]
 }
