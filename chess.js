@@ -10,6 +10,14 @@ news_feed (
          "title" : "Grand Swiss - Live!"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123851085.cms\" />Eric Rosen, an American chess player, cleverly earned $1,000 by thoroughly examining the terms and conditions of a Titled Tuesday chess tournament. He discovered a hidden message within the broadcasting regulations, making him the \"undisputed champion of reading the rules.\" The chess app confirmed Rosen's prize on their X account after he emailed them a screenshot of the message.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-can-you-earn-rs-89000-from-your-desk-american-chess-player-has-an-idea/articleshow/123851085.cms",
+         "pubDate" : "Fri, 12 Sep 2025 11:39:56",
+         "title" : "How can you earn Rs 89k from your desk? US chess player has an idea"
+      },
+      {
          "description" : "Please find here National Under 11 National Under 11 Girls Rank Name Rank Name 1 Aarit Kapil 1 Krisha Tamhant Jain 2 Oishik Mondal 2",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -498,14 +506,6 @@ news_feed (
          "title" : "FIDE Grand Swiss 2025: Schedule, format, prize money and live streaming"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123688243.cms\" />Nodirbek Abdusattorov ignited a pre-tournament buzz by confidently predicting D Gukesh's title loss, adding intrigue to the FIDE Grand Swiss 2025. While Gukesh aims to test himself in the Swiss format despite already securing his title match spot, Abdusattorov's remark intensifies the competition, especially with Candidates Tournament qualification at stake for many participants.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-d-gukesh-will-lose-his-title-uzbek-gms-latest-comment-sparks-controversy-before-fide-grand-swiss/articleshow/123688243.cms",
-         "pubDate" : "Thu, 04 Sep 2025 02:09:10",
-         "title" : "'Gukesh will lose his title': Uzbek GM's latest comment sparks controversy"
-      },
-      {
          "description" : "Editor's note: Since becoming Digital Editor for Chess Life Online, I have dreamt of publishing more regular wrap-ups of the sorts of events that are eligible for our Plan Ahead Calendar (as well as invitational tournaments).Do you want coverage of your tournament on Chess Life Online for future reporting or roundups?If so, email Click here to show email address with information of upcoming or recently concluded (i.e. within 1-2 weeks) events.For concluded tournaments, please include links to or screenshots of final standings, as well as links to DGT games or attached, transcribed game scores from 1-3 games of winners. Photos of the tournament and of winners are also a plus (cell phone photo",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -840,14 +840,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-5/",
          "pubDate" : "Fri, 22 Aug 2025 22:01:51",
          "title" : "POSTGAME ROUND 5: Five Draws, But All Interesting | #SinquefieldCup"
-      },
-      {
-         "description" : " Fabiano Caruana survived a scary opening to beat the out of form Nodirbek Abdusattorov. Caruana now leads alone on 3/4, half a point clear of Aronian and Praggnanandhaa. Maxime Vachier-Lagrave outplayed Gukesh for a few moves in the middlegame but missed the final killer blow and the game finished in a draw. Wesley So was better almost throughout against Alireza Firouzja, 30...f5?! was definitely an inaccuracy and rather than agree to a repetition So should have played on with 32.Kd2 (or subsequently this deviation when they repeated). The games Levon Aronian against Jan-Krzysztof Duda and Praggnanandhaa against Sam Sevian were quiet draws. Round 5 pairings: Duda-Gukesh, Caruana-So, Sevian-",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/caruana-takes-a-clear-lead-in-the-sinquefield-cup-after-beating-abdusattorov-in-round-4",
-         "pubDate" : "Fri, 22 Aug 2025 12:27:00",
-         "title" : "Caruana takes a clear lead in the Sinquefield Cup after beating Abdusattorov in Round 4 - 4"
       }
    ]
 }
