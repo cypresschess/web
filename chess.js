@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
+         "pubDate" : "Fri, 12 Sep 2025 11:50:00",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "Please find here National Under 11 National Under 11 Girls Rank Name Rank Name 1 Aarit Kapil 1 Krisha Tamhant Jain 2 Oishik Mondal 2",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificatesnational-under-11-chess-championship-2025-in-jalgaon/",
+         "pubDate" : "Fri, 12 Sep 2025 10:35:39",
+         "title" : "Certificates:National Under 11 Chess Championship 2025 in Jalgaon"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123847621.cms\" />At the FIDE Grand Swiss in Samarkand, Indian chess presents a contrasting picture. Nihal Sarin shines, securing his third consecutive win and joining the lead. Meanwhile, World Champion D Gukesh struggles, losing his third straight game and risking a drop from the top 10. Despite Nihal's success, he humbly credits Viswanathan Anand and Gukesh for India's chess boom.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-keeps-losing-nihal-sarin-keeps-winning-indian-chess-confronts-janus-paradox-at-fide-grand-swiss/articleshow/123847621.cms",
+         "pubDate" : "Fri, 12 Sep 2025 08:29:53",
+         "title" : "Gukesh keeps losing, Nihal keeps winning: Indian chess confronts Janus paradox"
+      },
+      {
          "description" : " The 'Turkish Immortal' allowed two white queens on the board, then sacrificed the black queen for a pawn, followed by checkmate by a previously unmoved black pawn There were two new frontrunners on Thursday at the $625,000 Grand Swiss in Samarkand on the ancient Silk Road, after Iran's Parham Maghsoodloo, who had led for the first six rounds, was beaten. The top two finishers after 11 rounds will qualify for the 2026 Candidates and a potential title shot at the shaky crown of the world champion, Gukesh Dommaraju. Leaders after round seven were Nihal Sarin (India) and Matthias Bl&uuml;baum (Germany) 5.5, Maghsoodloo (Iran), Abhimanyu Mishra and Hans Niemann (US), Anish Giri (Netherlands), Al",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/sep/12/chess-erdogmus-14-wins-immortal-game-on-silk-road-as-grand-swiss-nears-climax",
          "pubDate" : "Fri, 12 Sep 2025 07:00:28",
-         "title" : "Chess: Erdogmus, 14 , wins 'Immortal' game on Silk Road as Grand Swiss nears climax"
+         "title" : "Chess: Erdogmus, 14, wins 'Immortal' game on Silk Road as Grand Swiss nears climax"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123842431.cms\" />D Gukesh faced another setback at the FIDE Grand Swiss, losing to Ediz Gurel, while Nihal Sarin joined Matthias Bluebaum in the lead. Several Indian players, including Praggnanandhaa, secured victories, improving their standings. Vaishali Rameshbabu took the sole lead in the women's section, increasing her chances to qualify for the Candidates tournament.",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/every-lesson-counts-masterclasses-in-chess-in-education/",
          "pubDate" : "Thu, 11 Sep 2025 16:00:06",
          "title" : "Every Lesson Counts: Masterclasses in Chess in Education"
-      },
-      {
-         "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
-         "pubDate" : "Thu, 11 Sep 2025 11:50:00",
-         "title" : "Grand Swiss - Live!"
       },
       {
          "description" : "Indian GM Nihal Sarin defeated GM Parham Maghsoodloo to grab the 2025 FIDE Grand Swiss lead on 5.5/7, where he was joined by GM Matthias Bluebaum, who stunned GM Arjun Erigaisi. GMs Alireza Firouzja, Nodirbek Abdusattorov, Hans Niemann, and Vidit ...",
@@ -482,14 +498,6 @@ news_feed (
          "title" : "FIDE Grand Swiss 2025: Schedule, format, prize money and live streaming"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123690970.cms\" />The FIDE Grand Swiss tournament in Samarkand commences, offering Candidates spots. Caruana and Divya Deshmukh are absent from their respective sections, having already qualified. Divya participates in the Open section, while Gukesh, despite his World Champion status, competes, potentially influencing others' chances.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-chess-divya-deshmukh-needs-special-power-to-make-a-mark/articleshow/123690970.cms",
-         "pubDate" : "Thu, 04 Sep 2025 05:19:29",
-         "title" : "FIDE Grand Swiss Chess: Divya Deshmukh needs special power to make a mark"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123688243.cms\" />Nodirbek Abdusattorov ignited a pre-tournament buzz by confidently predicting D Gukesh's title loss, adding intrigue to the FIDE Grand Swiss 2025. While Gukesh aims to test himself in the Swiss format despite already securing his title match spot, Abdusattorov's remark intensifies the competition, especially with Candidates Tournament qualification at stake for many participants.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://aicf.in/fide-arbiter-seminar-2025-in-karaikudi-from-22-24-august-2025/",
          "pubDate" : "Tue, 26 Aug 2025 11:04:03",
          "title" : "Fide Arbiter Seminar 2025 in Karaikudi from 22-24 August 2025"
-      },
-      {
-         "description" : " 36 experienced chess coaches join the seminar, bringing so much energy, knowledge, and perspective to every session. The discussions were interactive. Check out here for few",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-trainers-seminar-madurai-2025-from-16-18-august-2025/",
-         "pubDate" : "Tue, 26 Aug 2025 10:56:17",
-         "title" : "FIDE Trainers Seminar - Madurai 2025 from 22-24 August 2025"
       },
       {
          "description" : " The Sinquefield Cup is positioned for an exciting finish after Praggnanandhaa's win against Alireza Firouzja allowed him to catch Fabiano Caruana in the lead after seven of the nine rounds. Caruana drew against Levon Aronian and Wesley So beat the World Champion Gukesh. This means Praggnanandhaa and Caruana have 4.5/7 and Aronian and So 4/7 with Sam Sevian, MVL and Duda a further half point further back. Round 8 pairings: Abdusattorov-Firouzja, Praggnanandhaa-So, Sevian-Duda, MVL-Caruana, Gukesh-Aronian. ",
