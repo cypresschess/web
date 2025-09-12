@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 'Turkish Immortal' allowed two white queens on the board, then sacrificed the black queen for a pawn, followed by checkmate by a previously unmoved black pawn There were two new frontrunners on Thursday at the $625,000 Grand Swiss in Samarkand on the ancient Silk Road, after Iran's Parham Maghsoodloo, who had led for the first six rounds, was beaten. The top two finishers after 11 rounds will qualify for the 2026 Candidates and a potential title shot at the shaky crown of the world champion, Gukesh Dommaraju. Leaders after round seven were Nihal Sarin (India) and Matthias Bl&uuml;baum (Germany) 5.5, Maghsoodloo (Iran), Abhimanyu Mishra and Hans Niemann (US), Anish Giri (Netherlands), Al",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/sep/12/chess-erdogmus-14-wins-immortal-game-on-silk-road-as-grand-swiss-nears-climax",
+         "pubDate" : "Fri, 12 Sep 2025 07:00:28",
+         "title" : "Chess: Erdogmus, 14 , wins 'Immortal' game on Silk Road as Grand Swiss nears climax"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123842431.cms\" />D Gukesh faced another setback at the FIDE Grand Swiss, losing to Ediz Gurel, while Nihal Sarin joined Matthias Bluebaum in the lead. Several Indian players, including Praggnanandhaa, secured victories, improving their standings. Vaishali Rameshbabu took the sole lead in the women's section, increasing her chances to qualify for the Candidates tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/this-is-not-him-head-in-hands-d-gukesh-suffers-third-straight-loss-at-fide-grand-swiss-watch/articleshow/123842431.cms",
+         "pubDate" : "Fri, 12 Sep 2025 03:50:40",
+         "title" : "'This is not him': Head in hands, Gukesh suffers third straight loss at FIDE Grand Swiss - watch"
+      },
+      {
          "description" : "For the second time, Hamburg played host to a unique combined chess and tennis tournament. To manage the Swiss-system draw, a specially developed combined rating was introduced. Georgi Davidov once again proved his class, successfully defending his title from last year. | Pictured: Group photo at the close of the tournament - champion Georgi Davidov with the knight in the centre, flanked on his right by organisers Christian Kalla and Kai Sch&ouml;nwolf. | Fotos: Eva Maria Zickelbein and Anastasiia Agapitova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -506,14 +522,6 @@ news_feed (
          "title" : "FIDE Grand Swiss Tournament 2025 - Games and Results"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123675946.cms\" />The FIDE Grand Swiss 2025 in Samarkand will feature World Champion D Gukesh and Women's World Cup winner Divya Deshmukh, alongside a strong Indian contingent. Gukesh aims to maintain momentum, while Deshmukh seeks to test herself against top players. With Candidates spots and significant prize money at stake, the tournament promises intense competition and a showcase of India's chess talent.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-divya-deshmukh-only-indian-female-in-open-section-d-gukesh-surprisingly-in-contention/articleshow/123675946.cms",
-         "pubDate" : "Wed, 03 Sep 2025 10:31:06",
-         "title" : "Grand Swiss: Divya only Indian female in Open section; Gukesh in contention"
-      },
-      {
          "description" : "The ECU Annual Academy training programme commences on 17th of November 2025 and will run until the 28th of April 2026 with the support of the FIDE Development Fund. The lecturers are the world-renowned chess coaches, and the trainings are organised in two groups: A for players rated 1900+, and B for players rated U1900. Each group will have 24 live sessions for a total of 48 hours of instruction. Participants will have the opportunity to watch the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -840,14 +848,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/caruana-takes-a-clear-lead-in-the-sinquefield-cup-after-beating-abdusattorov-in-round-4",
          "pubDate" : "Fri, 22 Aug 2025 12:27:00",
          "title" : "Caruana takes a clear lead in the Sinquefield Cup after beating Abdusattorov in Round 4 - 4"
-      },
-      {
-         "description" : " The German has jumped into the world top 10, while Praggnandhaa advanced to No 4 as he crushed world champion Gukesh in the $325,000 Sinquefield Cup Germany's Vincent Keymer, 20, has laid down a marker for the 2026 world candidates and title match by routing some of India's best grandmasters at the Quantbox GM tournament in Chennai, the heartland of the Olympiad champions and the home of the world champion, Gukesh Dommaraju. Keymer's score was an unbeaten 7/9, while his winning margin was a full two points. In contrast, India's Arjun Erigaisi finished third on tie-break and dropped from No 4 to No 6 in the Fide live ratings, while Vidit Gujrathi, a 2024 world title candidate, had a minus sc",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/aug/22/chess-vincent-keymer-20-routs-indians-in-their-chennai-heartland",
-         "pubDate" : "Fri, 22 Aug 2025 07:00:26",
-         "title" : "Chess: Vincent Keymer, 20, routs Indians in their Chennai heartland"
       }
    ]
 }
