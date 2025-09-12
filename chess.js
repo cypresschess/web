@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Saturday, December 6, 2025, leading educators, academics, and chess professionals will share their experiences, research, and insights on the dynamic field of chess in education. Drawing broadly on the concept of mindsets, this conference will explore the role of chess in education-ranging from fundamental concerns about curriculum, educational policy, the positive uses of failure, and the nature of play, to practical questions about classrooms and other sites of learning.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-chess-in-education-conference",
+         "pubDate" : "Fri, 12 Sep 2025 19:20:00",
+         "title" : "KCF Chess in Education Conference"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123856640.cms\" />Gukesh D and Divya Deshmukh drew in a lengthy endgame, while Nihal Sarin secured a quick draw, sharing the lead in the FIDE Grand Swiss. R Vaishali lost her lead in the women's section after a defeat, and Vidit Gujrathi was also defeated. Kateryna Lagno now leads the women's section with 6.5 points, holding a half-point advantage.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-nihal-sarin-shares-lead-after-round-8-d-gukesh-divya-deshmukh-play-out-103-move-draw/articleshow/123856640.cms",
+         "pubDate" : "Fri, 12 Sep 2025 17:33:58",
+         "title" : "Grand Swiss: Nihal shares lead; Gukesh, Divya play out 103-move draw"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +42,14 @@ news_feed (
          "title" : "Certificates:National Under 11 Chess Championship 2025 in Jalgaon"
       },
       {
+         "description" : "GMs Matthias Bluebaum and Nihal Sarin continue to lead the 2025 FIDE Grand Swiss after round eight, as not one of the seven players behind them was able to catch up. GMs Vincent Keymer and Jorden van Foreest, with respective wins against GMs Vidit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-8",
+         "pubDate" : "Fri, 12 Sep 2025 09:56:00",
+         "title" : "Lagno Overtakes Vaishali In Women's; Nihal, Bluebaum Lead Open"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123847621.cms\" />At the FIDE Grand Swiss in Samarkand, Indian chess presents a contrasting picture. Nihal Sarin shines, securing his third consecutive win and joining the lead. Meanwhile, World Champion D Gukesh struggles, losing his third straight game and risking a drop from the top 10. Despite Nihal's success, he humbly credits Viswanathan Anand and Gukesh for India's chess boom.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "Gukesh keeps losing, Nihal keeps winning: Indian chess confronts Janus paradox"
       },
       {
-         "description" : " The 'Turkish Immortal' allowed two white queens on the board, then sacrificed the black queen for a pawn, followed by checkmate by a previously unmoved black pawn There were two new frontrunners on Thursday at the $625,000 Grand Swiss in Samarkand on the ancient Silk Road, after Iran's Parham Maghsoodloo, who had led for the first six rounds, was beaten. The top two finishers after 11 rounds will qualify for the 2026 Candidates and a potential title shot at the shaky crown of the world champion, Gukesh Dommaraju. Leaders after round seven were Nihal Sarin (India) and Matthias Bl&uuml;baum (Germany) 5.5, Maghsoodloo (Iran), Abhimanyu Mishra and Hans Niemann (US), Anish Giri (Netherlands), Al",
+         "description" : " The 'Turkish Immortal' allowed two white queens on the board, then sacrificed the black queen for a pawn, followed by checkmate by a previously unmoved black pawn Draws dominated on Friday in round eight of the $625,000 Grand Swiss in Samarkand on the ancient Silk Road, where the top two finishers after 11 rounds will qualify for the 2026 Candidates and a potential title shot at the shaky crown of the world champion, Gukesh Dommaraju. Leaders after round eight were Nihal Sarin (India) and Matthias Bl&uuml;baum (Germany) 6, Parham Maghsoodloo (Iran), Abhimanyu Mishra and Hans Niemann (US), Anish Giri and Jorden van Foreest (Netherlands), Alireza Firouzja (France), Nodirbek Abdusattorov (Uzbe",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/sep/12/chess-erdogmus-14-wins-immortal-game-on-silk-road-as-grand-swiss-nears-climax",
@@ -498,14 +522,6 @@ news_feed (
          "title" : "Commonwealth Chess Championship - 2025 - 26 in Kuala Lumpur, Malaysia from 8th to 17th November, 2025."
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123691133.cms\" />India's R Praggnanandhaa is set to clash with Jeffery Xiong at the FIDE Grand Swiss 2025, where Gukesh will face Etienne Bacrot. With top players like Carlsen, Caruana, and Nakamura absent, Indian players lead the seeds. Divya Deshmukh competes in the open section, while the tournament offers Candidates qualification spots and a substantial prize fund.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-2025-schedule-players-format-prize-money-and-live-streaming/articleshow/123691133.cms",
-         "pubDate" : "Thu, 04 Sep 2025 05:47:41",
-         "title" : "FIDE Grand Swiss 2025: Schedule, format, prize money and live streaming"
-      },
-      {
          "description" : "Editor's note: Since becoming Digital Editor for Chess Life Online, I have dreamt of publishing more regular wrap-ups of the sorts of events that are eligible for our Plan Ahead Calendar (as well as invitational tournaments).Do you want coverage of your tournament on Chess Life Online for future reporting or roundups?If so, email Click here to show email address with information of upcoming or recently concluded (i.e. within 1-2 weeks) events.For concluded tournaments, please include links to or screenshots of final standings, as well as links to DGT games or attached, transcribed game scores from 1-3 games of winners. Photos of the tournament and of winners are also a plus (cell phone photo",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -592,22 +608,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-new-arena-kings-format",
          "pubDate" : "Tue, 02 Sep 2025 10:57:11",
          "title" : "Arena Kings To Feature New Format Focused On Community Building Starting October 1"
-      },
-      {
-         "description" : "The North American Corporate Chess League (NACCL) is returning to Chess.com this fall. The NACCL is the largest corporate chess competition in the world and includes some of the world&#39;s best-known companies and small businesses! What Is The NA...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-north-american-corporate-chess-league-returns-for-season-12",
-         "pubDate" : "Tue, 02 Sep 2025 10:26:11",
-         "title" : "The North American Corporate Chess League Returns For Season 12"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> A chessboard's worth of US Chess members competed in the first US Chess Members Only Prize Arena, with NM Chess_Star1234 finishing first among the 64-player field. Results, standings, and games can be found on the arena's page.As a note, in these reports, we choose not to share the names of players competing in online arenas. Players may choose to share their own names publicly on their Chess.com profiles, in which case the reader can identify them.Arena tournaments are a unique online format that allow participants to come and go as they please without anybody having to wait until all games are finished to get paired for ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/64-players-compete-first-us-chess-members-only-prize-arena",
-         "pubDate" : "Tue, 02 Sep 2025 00:00:00",
-         "title" : "64 Players Compete in First US Chess Members Only Prize Arena"
       },
       {
          "description" : "The City of Katowice, and the Silesian Chess Federation are proud to announce that the European Individual Chess Championship 2026 will take place in Katowice, Poland, from 7-19 April 2026. Katowice has already established itself as one of Europe's leading chess hubs, having successfully organized four editions of the European Rapid and Blitz Chess Championships, each attracting a record number of participants. The city's proven organizational experience, world-class venues, and welcoming atmosphere provide the ideal conditions for hosting the most []",
