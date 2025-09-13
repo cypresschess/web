@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123873399.cms\" />In the FIDE Grand Swiss, Nihal Sarin's Candidates hopes dimmed after losing to Alireza Firouzja, while Arjun Erigaisi boosted Indian hopes with a win. Alireza joined the lead pack, and Praggnanandhaa eyes Candidates qualification through tournament scores. Vaishali remains in contention in the women's section, trailing leader Kateryna Lagno by half a point.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-nihal-sarin-loses-to-firouzja-hopes-of-making-candidates-suffers-setback/articleshow/123873399.cms",
+         "pubDate" : "Sat, 13 Sep 2025 18:04:44",
+         "title" : "FIDE Grand Swiss: Nihal Sarin loses to Firouzja; Candidates hopes suffer"
+      },
+      {
          "description" : "When chess improvers ask me for book recommendations, they expect a list of chess classics. But here's the truth: the books that shaped me most, both as a professional player and later as a coach, weren't written about chess at all. They were about mindset, focus, and how to live and learn better. Lessons I []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
          "pubDate" : "Sat, 13 Sep 2025 11:50:00",
          "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "GMs Alireza Firouzja, Anish Giri, and Vincent Keymer all won to catch GM Matthias Bluebaum in the 2025 FIDE Grand Swiss lead on 6.5/9 with two rounds to go. Firouzja won a wild 82-move clash against previous co-leader GM Nihal Sarin, Giri caught G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-9",
+         "pubDate" : "Sat, 13 Sep 2025 11:25:10",
+         "title" : "Firouzja, Giri, Keymer Join Grand Swiss Lead With 2 Rounds To Go"
       },
       {
          "description" : "In recent years we have been told that certain words, thoughts, or even memories are no longer fit for use. The new censors call this progress, though it is nothing of the kind. It is merely the old habit of forcing people to think alike, dressed up with a new name. Freedom of speech in []",
@@ -490,14 +506,6 @@ news_feed (
          "title" : "Chess: World champion Gukesh falters against teenager as Grand Swiss starts on Silk Road"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123712781.cms\" />Divya Deshmukh, after her Women's World Cup victory, revealed her mentors, Csaba Balogh and Abhimanyu Puranik. At the Grand Swiss 2025, Puranik, who had just enjoyed a Disneyland vacation, defeated his prot&eacute;g&eacute;, Divya. Puranik, a Mumbai-born Punekar, started chess at five and praised Divya's amazing mentality and potential for future dominance in Indian chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-from-chasing-one-rupee-coins-every-day-to-defeating-divya-deshmukh-abhimanyu-puranik-finds-the-state-between-rage-and-serenity/articleshow/123712781.cms",
-         "pubDate" : "Fri, 05 Sep 2025 06:06:24",
-         "title" : "Exclusive | From one-rupee coins to defeating Divya: Puranik finds state between 'rage and serenity'"
-      },
-      {
          "description" : "US Chess Interest Survey Open for 2nd FIDE Chess Olympiad for People with Disabilities. The international event, organized by FIDE, and hosted by the Kazakhstan Chess Federation, will take place October 19 - October 26, in Astana, Kazakhstan.US Chess will be accepting interest registrations for eligible U.S. participants until Friday, September 12, 5PM Central time.TOURNAMENT DETAILS AND ELIGIBILITYEach event will be an 6-round Swiss system tournament, using a time control of 90 minutes for the first 40 moves plus 30 minutes, plus an addition of 30 seconds per move starting from move one.The full schedule for all rounds can be viewed within the regulations document at https://www.fide.com/wp",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-louisiana-state-championship-candidates",
          "pubDate" : "Tue, 02 Sep 2025 12:23:00",
          "title" : "Nakamura Wins Louisiana State Championship, Edges Closer To Candidates"
-      },
-      {
-         "description" : "We&#39;re excited to announce our newest weekly prize events for titled players and streamers, The After Party and The Untitled After Party! Starting September 9, the new After Party series will feature a weekly prize fund and the beloved arena format...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-the-after-party",
-         "pubDate" : "Tue, 02 Sep 2025 10:58:00",
-         "title" : "Announcing The After Party & The Untitled After Party, Chess.com's New Weekly Prize Arenas"
       },
       {
          "description" : "The City of Katowice, and the Silesian Chess Federation are proud to announce that the European Individual Chess Championship 2026 will take place in Katowice, Poland, from 7-19 April 2026. Katowice has already established itself as one of Europe's leading chess hubs, having successfully organized four editions of the European Rapid and Blitz Chess Championships, each attracting a record number of participants. The city's proven organizational experience, world-class venues, and welcoming atmosphere provide the ideal conditions for hosting the most []",
