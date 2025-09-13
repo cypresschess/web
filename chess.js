@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
+         "pubDate" : "Sat, 13 Sep 2025 11:50:00",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "In recent years we have been told that certain words, thoughts, or even memories are no longer fit for use. The new censors call this progress, though it is nothing of the kind. It is merely the old habit of forcing people to think alike, dressed up with a new name. Freedom of speech in []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/free-speech-vs-ultracrepidarian-authoritarianism/",
+         "pubDate" : "Sat, 13 Sep 2025 10:44:13",
+         "title" : "Free speech vs ultracrepidarian authoritarianism"
+      },
+      {
          "description" : "GM Felix Blohberger takes the road less traveled with his two-part video course on the R&eacute;ti Opening. In nearly eight hours of material, he explains the ideas he has developed for the R&eacute;ti - drawing on his own practical experience. Hannes Langrock, an International Master and literary editor at a fiction publishing house, lives in Leipzig and plays for ESV Nickelh&uuml;tte-Aue. He took an in-depth look at the course and now shares his impressions. | Photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/movahed-wins-freestyle-friday-september-12-2025",
          "pubDate" : "Fri, 12 Sep 2025 12:57:00",
          "title" : "Movahed On Freestyle Run Of Victories"
-      },
-      {
-         "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
-         "pubDate" : "Fri, 12 Sep 2025 11:50:00",
-         "title" : "Grand Swiss - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123851085.cms\" />Eric Rosen, an American chess player, cleverly earned $1,000 by thoroughly examining the terms and conditions of a Titled Tuesday chess tournament. He discovered a hidden message within the broadcasting regulations, making him the \"undisputed champion of reading the rules.\" The chess app confirmed Rosen's prize on their X account after he emailed them a screenshot of the message.",
@@ -840,14 +848,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/why-chess-training-is-confusing/",
          "pubDate" : "Sat, 23 Aug 2025 13:00:00",
          "title" : "The Reason Chess Training Is So Confusing"
-      },
-      {
-         "description" : "On August 6, 1945, the world saw the first use of the atomic bomb in war. Hiroshima was destroyed in a single morning. On that same day, in a small town outside the city, two men were playing the second game of a Go championship match. The coincidence is remarkable, and it says something about []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/go-and-the-atomic-bomb/",
-         "pubDate" : "Sat, 23 Aug 2025 10:10:01",
-         "title" : "Go and the atomic bomb"
       }
    ]
 }
