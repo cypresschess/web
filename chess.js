@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Felix Blohberger takes the road less traveled with his two-part video course on the R&eacute;ti Opening. In nearly eight hours of material, he explains the ideas he has developed for the R&eacute;ti - drawing on his own practical experience. Hannes Langrock, an International Master and literary editor at a fiction publishing house, lives in Leipzig and plays for ESV Nickelh&uuml;tte-Aue. He took an in-depth look at the course and now shares his impressions. | Photos: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/felix-blohberger-s-rti-a-clever-repertoire-for-practical-players",
+         "pubDate" : "Sat, 13 Sep 2025 07:00:00",
+         "title" : "Felix Blohberger's R&eacute;ti - A clever repertoire for the practical player"
+      },
+      {
+         "description" : "On 9 September 2025, Jacob Murey passed away in a care home in Israel. Born in Moscow in 1941, Murey immigrated to Israel in 1976. In 1978, he worked as Viktor Korchnoi's second in the World Championship match against Anatoly Karpov. In 2001, he became the first European Senior Champion. At his peak, Murey was among the 50 best players in the world.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jacob-murey-obituary",
+         "pubDate" : "Sat, 13 Sep 2025 04:50:00",
+         "title" : "Jacob Murey passed away at 84"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123863231.cms\" />Gukesh Dommaraju and Divya Deshmukh, Indian chess prodigies, faced off at the FIDE Grand Swiss in Uzbekistan. Their first classical format encounter ended in a draw after a 103-move battle. Grandmaster Pravin Thipsay analysed the game, highlighting Divya's unusual opening and Gukesh's missed opportunities. With the draw, Gukesh, undergoing a slump, fell out of the top 10 in live ratings.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-how-much-hindi-do-you-know-divya-deshmukh-once-his-translator-pushes-world-chess-champion-out-of-top-10/articleshow/123863231.cms",
+         "pubDate" : "Sat, 13 Sep 2025 04:06:59",
+         "title" : "Chess: Once Gukesh's Hindi translator, Divya pushes World champ off top-10 Rating"
+      },
+      {
          "description" : "On Saturday, December 6, 2025, leading educators, academics, and chess professionals will share their experiences, research, and insights on the dynamic field of chess in education. Drawing broadly on the concept of mindsets, this conference will explore the role of chess in education-ranging from fundamental concerns about curriculum, educational policy, the positive uses of failure, and the nature of play, to practical questions about classrooms and other sites of learning.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -480,14 +504,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-from-chasing-one-rupee-coins-every-day-to-defeating-divya-deshmukh-abhimanyu-puranik-finds-the-state-between-rage-and-serenity/articleshow/123712781.cms",
          "pubDate" : "Fri, 05 Sep 2025 06:06:24",
          "title" : "Exclusive | From one-rupee coins to defeating Divya: Puranik finds state between 'rage and serenity'"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123709888.cms\" />The FIDE Grand Swiss witnessed a stunning upset as Hungarian teenager Zs&oacute;ka Ga&aacute;l defeated world No. 5 Anna Muzychuk. Reigning world champion D Gukesh of India began strongly, defeating Etienne Bacrot, while Praggnanandhaa drew with Jeffery Xiong. In other matches, Vaishali secured a win, adding to the excitement of the tournament's opening day.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-shocking-world-no-5-gm-anna-muzychuk-forgets-about-clock-suffers-massive-setback-at-grand-swiss-watch/articleshow/123709888.cms",
-         "pubDate" : "Fri, 05 Sep 2025 02:57:03",
-         "title" : "Shocking! World No. 5 forgets about clock, suffers setback - Watch"
       },
       {
          "description" : "US Chess Interest Survey Open for 2nd FIDE Chess Olympiad for People with Disabilities. The international event, organized by FIDE, and hosted by the Kazakhstan Chess Federation, will take place October 19 - October 26, in Astana, Kazakhstan.US Chess will be accepting interest registrations for eligible U.S. participants until Friday, September 12, 5PM Central time.TOURNAMENT DETAILS AND ELIGIBILITYEach event will be an 6-round Swiss system tournament, using a time control of 90 minutes for the first 40 moves plus 30 minutes, plus an addition of 30 seconds per move starting from move one.The full schedule for all rounds can be viewed within the regulations document at https://www.fide.com/wp",
