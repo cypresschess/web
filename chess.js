@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When chess improvers ask me for book recommendations, they expect a list of chess classics. But here's the truth: the books that shaped me most, both as a professional player and later as a coach, weren't written about chess at all. They were about mindset, focus, and how to live and learn better. Lessons I []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/non-chess-books-for-chess-improvement/",
+         "pubDate" : "Sat, 13 Sep 2025 13:00:00",
+         "title" : "The Best Books for Chess Improvement (That Aren't About Chess)"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,14 +26,6 @@ news_feed (
          "title" : "Free speech vs ultracrepidarian authoritarianism"
       },
       {
-         "description" : "GM Felix Blohberger takes the road less traveled with his two-part video course on the R&eacute;ti Opening. In nearly eight hours of material, he explains the ideas he has developed for the R&eacute;ti - drawing on his own practical experience. Hannes Langrock, an International Master and literary editor at a fiction publishing house, lives in Leipzig and plays for ESV Nickelh&uuml;tte-Aue. He took an in-depth look at the course and now shares his impressions. | Photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/felix-blohberger-s-rti-a-clever-repertoire-for-practical-players",
-         "pubDate" : "Sat, 13 Sep 2025 07:00:00",
-         "title" : "Felix Blohberger's R&eacute;ti - A clever repertoire for the practical player"
-      },
-      {
          "description" : "On 9 September 2025, Jacob Murey passed away in a care home in Israel. Born in Moscow in 1941, Murey immigrated to Israel in 1976. In 1978, he worked as Viktor Korchnoi's second in the World Championship match against Anatoly Karpov. In 2001, he became the first European Senior Champion. At his peak, Murey was among the 50 best players in the world.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +40,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-how-much-hindi-do-you-know-divya-deshmukh-once-his-translator-pushes-world-chess-champion-out-of-top-10/articleshow/123863231.cms",
          "pubDate" : "Sat, 13 Sep 2025 04:06:59",
          "title" : "Chess: Once Gukesh's Hindi translator, Divya pushes World champ off top-10 Rating"
-      },
-      {
-         "description" : "On Saturday, December 6, 2025, leading educators, academics, and chess professionals will share their experiences, research, and insights on the dynamic field of chess in education. Drawing broadly on the concept of mindsets, this conference will explore the role of chess in education-ranging from fundamental concerns about curriculum, educational policy, the positive uses of failure, and the nature of play, to practical questions about classrooms and other sites of learning.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-chess-in-education-conference",
-         "pubDate" : "Fri, 12 Sep 2025 19:20:00",
-         "title" : "KCF Chess in Education Conference"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123856640.cms\" />Gukesh D and Divya Deshmukh drew in a lengthy endgame, while Nihal Sarin secured a quick draw, sharing the lead in the FIDE Grand Swiss. R Vaishali lost her lead in the women's section after a defeat, and Vidit Gujrathi was also defeated. Kateryna Lagno now leads the women's section with 6.5 points, holding a half-point advantage.",
@@ -112,14 +104,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/this-is-not-him-head-in-hands-d-gukesh-suffers-third-straight-loss-at-fide-grand-swiss-watch/articleshow/123842431.cms",
          "pubDate" : "Fri, 12 Sep 2025 03:50:40",
          "title" : "'This is not him': Head in hands, Gukesh suffers third straight loss at FIDE Grand Swiss - watch"
-      },
-      {
-         "description" : "For the second time, Hamburg played host to a unique combined chess and tennis tournament. To manage the Swiss-system draw, a specially developed combined rating was introduced. Georgi Davidov once again proved his class, successfully defending his title from last year. | Pictured: Group photo at the close of the tournament - champion Georgi Davidov with the knight in the centre, flanked on his right by organisers Christian Kalla and Kai Sch&ouml;nwolf. | Fotos: Eva Maria Zickelbein and Anastasiia Agapitova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hamburg-chess-tennish-challenge-2025",
-         "pubDate" : "Thu, 11 Sep 2025 21:45:00",
-         "title" : "Georgi Davidov wins second edition of the Hamburg Chess Tennis Challenge"
       },
       {
          "description" : "FIDE Education Commission and ECU Education Commission proudly present the following event Every Lesson Counts: Masterclasses in Chess in Education, taking place at the London MindSports Centre on 11-12...",
@@ -832,22 +816,6 @@ news_feed (
          "link" : "https://www.europechess.org/eu-youth-chess-championship-2025-round-5-report/",
          "pubDate" : "Sun, 24 Aug 2025 21:04:35",
          "title" : "EU Youth Chess Championship 2025 - Round 5 report"
-      },
-      {
-         "description" : " All of the games finished in a draw in the fifth round of the Sinquefield Cup This was the round heading into the only rest day. Levon Aronian and Alireza Firouzja drew a very sharp French but it seems it was all preparation from both players, Gukesh and Jan-Krzysztof Duda drew a fluctuating struggle where Duda in missed a clear win. Sam Sevian vs Nodirbek Abdusattorov, MVL vs Praggnanandhaa and Fabiano Caruana vs Wesley So were all well played draws. Leaders Caruana 3pts, Praggnanandhaa and Aronian 2.5 pts. Rest Day Saturday. Round 6 Pairings Sunday 24th August 2025: Abdusattorov-MVL, Gukesh-Firouzja, Praggnanandhaa-Duda, Sevian-Caruana, Aronian-So. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/all-games-drawn-in-sinquefield-cup-round-5",
-         "pubDate" : "Sat, 23 Aug 2025 13:21:00",
-         "title" : "All games drawn in Sinquefield Cup Round 5 - 5"
-      },
-      {
-         "description" : "Many of my students are successful in their Careers, and most have improved at various hobbies, such as running, exercise, or their favorite team sports. Time and time again, I hear from them that Chess is the most difficult to wrap their head around. And while there are many possible reasons for it (Chess is []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/why-chess-training-is-confusing/",
-         "pubDate" : "Sat, 23 Aug 2025 13:00:00",
-         "title" : "The Reason Chess Training Is So Confusing"
       }
    ]
 }
