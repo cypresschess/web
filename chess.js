@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-9",
-         "pubDate" : "Sat, 13 Sep 2025 11:25:10",
+         "pubDate" : "Sat, 13 Sep 2025 11:25:00",
          "title" : "Firouzja, Giri, Keymer Join Grand Swiss Lead With 2 Rounds To Go"
       },
       {
