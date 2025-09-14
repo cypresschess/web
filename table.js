@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2025-09-13","13","<a href=http://www.uschess.org/msa/XtblMain.php?202509139212 target='_blank'>CHESSPANDA09132025SATURDAY</a>",
+"HOUSTON","2025-09-13","11","<a href=http://www.uschess.org/msa/XtblMain.php?202509138992 target='_blank'>SEPT 13TH -- TROPHY SCHOLASTIC</a>",
 "SPRING","2025-09-12","21","<a href=http://www.uschess.org/msa/XtblMain.php?202509128732 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-09-12","45","<a href=http://www.uschess.org/msa/XtblMain.php?202509128682 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2025-09-12","17","<a href=http://www.uschess.org/msa/XtblMain.php?202509128612 target='_blank'>FBCC 2025 NATIONAL VIDEO GAMES DAY</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2025-03-07","6","<a href=http://www.uschess.org/msa/XtblMain.php?202503075762 target='_blank'>MAR 7TH FRIDAY NIGHT SWISS</a>",
 "CYPRESS","2025-03-07","28","<a href=http://www.uschess.org/msa/XtblMain.php?202503075702 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-03-02","7","<a href=http://www.uschess.org/msa/XtblMain.php?202503022632 target='_blank'>MAR 2 SUNDAY SWISS AT NOON</a>",
-"HOUSTON","2025-03-01","30","<a href=http://www.uschess.org/msa/XtblMain.php?202503010822 target='_blank'>MARCH 1ST - TROPHY SCHOLASTIC</a>",
-"HOUSTON","2025-03-01","6","<a href=http://www.uschess.org/msa/XtblMain.php?202503010732 target='_blank'>CHESSPANDA03012025SATURDAY</a>",
 ]);
