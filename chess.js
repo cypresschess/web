@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Matthias Bluebaum's quiet draw with Nodirbek Abdusattorov allowed three players to catch him at the top of the FIDE Grand Swiss standings, setting up a four-way tie with two rounds to go. Alireza Firouzja outlasted Nihal Sarin in a dramatic 82-move encounter, Vincent Keymer claimed a second consecutive win by beating Parham Maghsoodloo, while Anish Giri overcame Jorden van Foreest in a tense Queen's Gambit Declined. In the women's tournament, Kateryna Lagno survived a lost position against Bibisara Assaubayeva to hold the lead by half a point. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-9",
+         "pubDate" : "Sun, 14 Sep 2025 03:45:00",
+         "title" : "Grand Swiss: Keymer, Giri and Firouzja join Bluebaum in the lead"
+      },
+      {
+         "description" : "From 17 to 25 September, the closed tournament \"Legends and Prodigies\" will be held in Madrid, featuring five GMs and five IMs in a generational clash. The event will be played as a single round-robin with a classical time control. Among the participants are Peruvian GM Julio Granda, a legend of Latin American chess, and the young talents Faustino Oro and Lu Miaoyi. The tournament will award a GM norm to players scoring 6/9 points. | Photo: Andina",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2025-preview",
+         "pubDate" : "Sat, 13 Sep 2025 23:50:00",
+         "title" : "Granda returns: Peruvian legend set to face Oro and Lu at Madrid round-robin"
+      },
+      {
+         "description" : "Following his back-to-back victories in the highly publicized 2025 Louisiana State Championship and Iowa Open, GM Hikaru Nakamura returned to the Bullet Brawl arena on Saturday and picked up the $400 first prize. Nakamura scored 53/65 in the eve...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-sep-13-2025",
+         "pubDate" : "Sat, 13 Sep 2025 18:24:00",
+         "title" : "Nakamura Takes Break From 'Road To The Candidates' To Win 47th Bullet Brawl"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123873399.cms\" />In the FIDE Grand Swiss, Nihal Sarin's Candidates hopes dimmed after losing to Alireza Firouzja, while Arjun Erigaisi boosted Indian hopes with a win. Alireza joined the lead pack, and Praggnanandhaa eyes Candidates qualification through tournament scores. Vaishali remains in contention in the women's section, trailing leader Kateryna Lagno by half a point.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,14 +40,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/non-chess-books-for-chess-improvement/",
          "pubDate" : "Sat, 13 Sep 2025 13:00:00",
          "title" : "The Best Books for Chess Improvement (That Aren't About Chess)"
-      },
-      {
-         "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
-         "pubDate" : "Sat, 13 Sep 2025 11:50:00",
-         "title" : "Grand Swiss - Live!"
       },
       {
          "description" : "GMs Alireza Firouzja, Anish Giri, and Vincent Keymer all won to catch GM Matthias Bluebaum in the 2025 FIDE Grand Swiss lead on 6.5/9 with two rounds to go. Firouzja won a wild 82-move clash against previous co-leader GM Nihal Sarin, Giri caught G...",
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-state-of-chess-september",
          "pubDate" : "Tue, 02 Sep 2025 17:56:00",
          "title" : "State Of Chess: 2026 Esports World Cup, Titled Tuesday, Super PogChamps, & More"
-      },
-      {
-         "description" : "GM Hikaru Nakamura this weekend scored 7/7 to win the 2025 Louisiana State Championship in New Orleans. Why was the world number-two playing a $3,000 event where his toughest rival was 2344-rated FM Nicholas Matta? It&#39;s all about qualification for...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-louisiana-state-championship-candidates",
-         "pubDate" : "Tue, 02 Sep 2025 12:23:00",
-         "title" : "Nakamura Wins Louisiana State Championship, Edges Closer To Candidates"
       },
       {
          "description" : "The City of Katowice, and the Silesian Chess Federation are proud to announce that the European Individual Chess Championship 2026 will take place in Katowice, Poland, from 7-19 April 2026. Katowice has already established itself as one of Europe's leading chess hubs, having successfully organized four editions of the European Rapid and Blitz Chess Championships, each attracting a record number of participants. The city's proven organizational experience, world-class venues, and welcoming atmosphere provide the ideal conditions for hosting the most []",
