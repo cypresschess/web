@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For many, the passing of Jacob Murey will elicit a passing nod, or barely that as a name that brings no recognition. This is fair, but for the chess community located in Paris, France, he was a deeply respected character and fixture who left an indelible mark.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jacob-murey-in-paris-a-personal-recollection",
+         "pubDate" : "Sun, 14 Sep 2025 23:40:00",
+         "title" : "Jacob Murey in Paris - A personal recollection"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123887458.cms\" />Indian Grandmaster R Vaishali surged into a joint lead at the FIDE Grand Swiss in Samarkand, Uzbekistan, after defeating former world champion Mariya Muzychuk. Vaishali's victory puts her alongside Kateryna Lagno with 7.5 points. In the open section, Indian hopes for Candidates Tournament qualification dimmed as Arjun Erigaisi, Nihal Sarin drew their respective games and Praggnanandhaa lost.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-indian-gm-r-vaishali-back-in-joint-lead-brother-r-praggnanandhaa-loses-to-hans-niemann/articleshow/123887458.cms",
+         "pubDate" : "Sun, 14 Sep 2025 20:14:08",
+         "title" : "FIDE Grand Swiss: Vaishali back in joint lead; Praggnanandhaa loses"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -490,14 +506,6 @@ news_feed (
          "title" : "'Gukesh will lose his title': Anand slams Uzbek GM - Watch"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123729390.cms\" />Indian grandmasters are making waves at the FIDE Grand Swiss! D Gukesh drew a tense match, while defending champion R Vaishali secured another victory. Praggnanandhaa clinched his first tournament win. Alireza Firouzja, Parham Maghsoodloo, and Anton Demchenko lead the open section. Vaishali and Olga Bedelka share the lead in the women's section.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-world-chess-champion-d-gukesh-denied-win-by-14-year-old-prodigy-r-vaishali-shares-lead-in-womens-section/articleshow/123729390.cms",
-         "pubDate" : "Sat, 06 Sep 2025 03:40:33",
-         "title" : "Gukesh denied win by 14-year-old; Vaishali shares lead in women's section"
-      },
-      {
          "description" : "Duck Chess Champion IM Nhat Minh To defended his title in the&#38;nbsp;2025 Duck Chess Championship Final, and convincingly so. He won all four of his matches 3-0, literally winning all 12 games, to earn $750. He defeated runner-up IM Eric Rosen (earn...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -824,22 +832,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/five-more-draws-in-sinquefield-cup-round-6-but-mvl-missed-a-big-opportunity",
          "pubDate" : "Mon, 25 Aug 2025 09:13:00",
          "title" : "Five more draws in Sinquefield Cup Round 6 but MVL missed a big opportunity - 6"
-      },
-      {
-         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-6/\">POSTGAME ROUND 6: Fabiano Leads With Half a Point! | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-6/",
-         "pubDate" : "Sun, 24 Aug 2025 23:25:21",
-         "title" : "POSTGAME ROUND 6: Fabiano Leads With Half a Point! | #SinquefieldCup"
-      },
-      {
-         "description" : "EU Youth Chess Championship 2025 is underway. The level of the event is very good in category U8 is leading Lev Jevglevski (EST, 5 points out of 5 rounds!), in U10 with also 5 points Simon Perouin (FRA), in U12 Alexandru-Daniel Pasca (ROU, 4,5 points) and in U14 FM Vlad Petroff (ROU, 4 points). Since beautiful and combative games are seen, the organizers award best games in each category with prize every day. After the first five rounds Wojciech Szlendak []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/eu-youth-chess-championship-2025-round-5-report/",
-         "pubDate" : "Sun, 24 Aug 2025 21:04:35",
-         "title" : "EU Youth Chess Championship 2025 - Round 5 report"
       }
    ]
 }
