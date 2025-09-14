@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "How do you train endgames? To be honest, the question might be better phrased as: Do you even train endgames at all? After all, the magical richness of the final phase of a game is something not everyone appreciates. This makes it all the more important that training is enjoyable and not bogged down by unnecessarily long searches for the right solution. In this regard, the LiveBook feature of ChessBase 18 may not be familiar to everyone. All the more reason, then, to introduce this highly practical tool in this tutorial.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-31-endgame-expert-with-the-live-book",
+         "pubDate" : "Sun, 14 Sep 2025 07:00:00",
+         "title" : "ChessBase 18 - Tips for Beginners, part 31: Endgame expert with the \"LiveBook\""
+      },
+      {
          "description" : "Matthias Bluebaum's quiet draw with Nodirbek Abdusattorov allowed three players to catch him at the top of the FIDE Grand Swiss standings, setting up a four-way tie with two rounds to go. Alireza Firouzja outlasted Nihal Sarin in a dramatic 82-move encounter, Vincent Keymer claimed a second consecutive win by beating Parham Maghsoodloo, while Anish Giri overcame Jorden van Foreest in a tense Queen's Gambit Declined. In the women's tournament, Kateryna Lagno survived a lost position against Bibisara Assaubayeva to hold the lead by half a point. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
