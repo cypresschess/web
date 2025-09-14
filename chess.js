@@ -10,6 +10,14 @@ news_feed (
          "title" : "Grand Swiss - Live!"
       },
       {
+         "description" : "GM Hans Niemann&#39;s win over GM Praggnanandhaa Rameshbabu was the only decisive game on the top-nine boards as he caught GMs Alireza Firouzja, Anish Giri, Vincent Keymer, and Matthias Bluebaum in the 2025 FIDE Grand Swiss lead. They&#39;re on 7/10 going...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-10",
+         "pubDate" : "Sun, 14 Sep 2025 11:01:00",
+         "title" : "Niemann Beats Pragg To Join 5-Way Tie For 1st; Vaishali Catches Lagno"
+      },
+      {
          "description" : "How do you train endgames? To be honest, the question might be better phrased as: Do you even train endgames at all? After all, the magical richness of the final phase of a game is something not everyone appreciates. This makes it all the more important that training is enjoyable and not bogged down by unnecessarily long searches for the right solution. In this regard, the LiveBook feature of ChessBase 18 may not be familiar to everyone. All the more reason, then, to introduce this highly practical tool in this tutorial.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -632,14 +640,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-1-0",
          "pubDate" : "Wed, 03 Sep 2025 00:00:00",
          "title" : "Wednesday Workout: Saint Louis Rapid & Blitz, Pt. 1"
-      },
-      {
-         "description" : "Chess.com&#38;rsquo;s Chief Chess Officer, IM Danny Rensch, hosted State of Chess on Tuesday to share all the latest updates for Chess.com. Joining him were several special guests including GM Magnus Carlsen, GM Hikaru Nakamura, and IM Levy Rozman. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-state-of-chess-september",
-         "pubDate" : "Tue, 02 Sep 2025 17:56:00",
-         "title" : "State Of Chess: 2026 Esports World Cup, Titled Tuesday, Super PogChamps, & More"
       },
       {
          "description" : "The City of Katowice, and the Silesian Chess Federation are proud to announce that the European Individual Chess Championship 2026 will take place in Katowice, Poland, from 7-19 April 2026. Katowice has already established itself as one of Europe's leading chess hubs, having successfully organized four editions of the European Rapid and Blitz Chess Championships, each attracting a record number of participants. The city's proven organizational experience, world-class venues, and welcoming atmosphere provide the ideal conditions for hosting the most []",
