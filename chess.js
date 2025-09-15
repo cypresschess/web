@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
+         "pubDate" : "Mon, 15 Sep 2025 10:50:00",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
          "description" : "Last Updated on 15th September 2025 by WebAdmin The new Coventry International will take place from Sunday 26th October to Friday 31st October 2025 at the Holiday Inn Coventry M6,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-indian-gm-r-vaishali-back-in-joint-lead-brother-r-praggnanandhaa-loses-to-hans-niemann/articleshow/123887458.cms",
          "pubDate" : "Sun, 14 Sep 2025 20:14:08",
          "title" : "FIDE Grand Swiss: Vaishali back in joint lead; Praggnanandhaa loses"
-      },
-      {
-         "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
-         "pubDate" : "Sun, 14 Sep 2025 11:50:00",
-         "title" : "Grand Swiss - Live!"
       },
       {
          "description" : "GM Hans Niemann&#39;s win over GM Praggnanandhaa Rameshbabu was the only decisive game on the top-nine boards as he caught GMs Alireza Firouzja, Anish Giri, Vincent Keymer, and Matthias Bluebaum in the 2025 FIDE Grand Swiss lead. They&#39;re on 7/10 going...",
@@ -824,14 +824,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-7/",
          "pubDate" : "Mon, 25 Aug 2025 22:53:57",
          "title" : "POSTGAME ROUND 7: Pragg Wins Outstanding Battle With Alireza | #SinquefieldCup"
-      },
-      {
-         "description" : " The sixth round of the Sinquefield Cup was a lively one but in the end all the games were drawn leaving Caruana in the lead on 4/6. MVL will be upset how he let go several winning opportunities against Nodirbek Abdusattorov. It was a very strange game all around, MVL was completely winning, let go most of his advantage, was offered a final pretty straight forward winning chance but instead went into a king and pawn endgame that turned out to be drawn. Gukesh was a little bit better against Alireza Firouzja for a while but 21.Ned5? was inaccurate as was 25.Qd3. 30...Kh8?! (30...Qxe6) allowed Firouzja to come back into the game and Gukesh held a tricky endgame without drama. Fabiano Caruana w",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/five-more-draws-in-sinquefield-cup-round-6-but-mvl-missed-a-big-opportunity",
-         "pubDate" : "Mon, 25 Aug 2025 09:13:00",
-         "title" : "Five more draws in Sinquefield Cup Round 6 but MVL missed a big opportunity - 6"
       }
    ]
 }
