@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last Updated on 15th September 2025 by WebAdmin The new Coventry International will take place from Sunday 26th October to Friday 31st October 2025 at the Holiday Inn Coventry M6,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2025-coventry-international/",
+         "pubDate" : "Mon, 15 Sep 2025 06:30:58",
+         "title" : "2025 Coventry International"
+      },
+      {
+         "description" : "Last Updated on 15th September 2025 by WebAdmin The UK Open Blitz Championship returns in 2025, featuring an expanded format with 16 qualifiers in 14 cities around the United Kingdom....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/uk-open-blitz-championship-2025/",
+         "pubDate" : "Mon, 15 Sep 2025 06:00:21",
+         "title" : "UK Open Blitz Championship 2025"
+      },
+      {
+         "description" : "The ECU E-Magazine August 2025 is out! In this edition of the ECU E-Magazine you may read about: The August 2025 edition of the ECU Magazine can be read online together with interactive links through the following link, or it can be downloaded in PDF format.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-august-2025/",
+         "pubDate" : "Mon, 15 Sep 2025 05:41:34",
+         "title" : "ECU E-Magazine August 2025"
+      },
+      {
          "description" : "For many, the passing of Jacob Murey will elicit a passing nod, or barely that as a name that brings no recognition. This is fair, but for the chess community located in Paris, France, he was a deeply respected character and fixture who left an indelible mark.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,22 +66,6 @@ news_feed (
          "title" : "ChessBase 18 - Tips for Beginners, part 31: Endgame expert with the \"LiveBook\""
       },
       {
-         "description" : "Matthias Bluebaum's quiet draw with Nodirbek Abdusattorov allowed three players to catch him at the top of the FIDE Grand Swiss standings, setting up a four-way tie with two rounds to go. Alireza Firouzja outlasted Nihal Sarin in a dramatic 82-move encounter, Vincent Keymer claimed a second consecutive win by beating Parham Maghsoodloo, while Anish Giri overcame Jorden van Foreest in a tense Queen's Gambit Declined. In the women's tournament, Kateryna Lagno survived a lost position against Bibisara Assaubayeva to hold the lead by half a point. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-9",
-         "pubDate" : "Sun, 14 Sep 2025 03:45:00",
-         "title" : "Grand Swiss: Keymer, Giri and Firouzja join Bluebaum in the lead"
-      },
-      {
-         "description" : "From 17 to 25 September, the closed tournament \"Legends and Prodigies\" will be held in Madrid, featuring five GMs and five IMs in a generational clash. The event will be played as a single round-robin with a classical time control. Among the participants are Peruvian GM Julio Granda, a legend of Latin American chess, and the young talents Faustino Oro and Lu Miaoyi. The tournament will award a GM norm to players scoring 6/9 points. | Photo: Andina",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2025-preview",
-         "pubDate" : "Sat, 13 Sep 2025 23:50:00",
-         "title" : "Granda returns: Peruvian legend set to face Oro and Lu at Madrid round-robin"
-      },
-      {
          "description" : "Following his back-to-back victories in the highly publicized 2025 Louisiana State Championship and Iowa Open, GM Hikaru Nakamura returned to the Bullet Brawl arena on Saturday and picked up the $400 first prize. Nakamura scored 53/65 in the eve...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -96,14 +104,6 @@ news_feed (
          "link" : "https://www.thearticle.com/free-speech-vs-ultracrepidarian-authoritarianism/",
          "pubDate" : "Sat, 13 Sep 2025 10:44:13",
          "title" : "Free speech vs ultracrepidarian authoritarianism"
-      },
-      {
-         "description" : "On 9 September 2025, Jacob Murey passed away in a care home in Israel. Born in Moscow in 1941, Murey immigrated to Israel in 1976. In 1978, he worked as Viktor Korchnoi's second in the World Championship match against Anatoly Karpov. In 2001, he became the first European Senior Champion. At his peak, Murey was among the 50 best players in the world.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jacob-murey-obituary",
-         "pubDate" : "Sat, 13 Sep 2025 04:50:00",
-         "title" : "Jacob Murey passed away at 84"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123863231.cms\" />Gukesh Dommaraju and Divya Deshmukh, Indian chess prodigies, faced off at the FIDE Grand Swiss in Uzbekistan. Their first classical format encounter ended in a draw after a 103-move battle. Grandmaster Pravin Thipsay analysed the game, highlighting Divya's unusual opening and Gukesh's missed opportunities. With the draw, Gukesh, undergoing a slump, fell out of the top 10 in live ratings.",
