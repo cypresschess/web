@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Seventy years ago, on September 8, 1955, a column appeared in the Manchester Guardian, about a Russian teenager, Boris Spassky. It was written by a budding young chess master from Croydon. Leonard Barden went on to become one of Britain's strongest chess players - and a columnist who has set a Guinness World Record. | Photo John Saunders",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leonard-barden-2",
+         "pubDate" : "Mon, 15 Sep 2025 17:00:00",
+         "title" : "Leonard Barden, going strong at 96"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123903864.cms\" />Anish Giri and Matthias Bluebaum secured their spots in the FIDE Candidates Tournament 2026 after a strong showing at the FIDE Grand Swiss. R Vaishali defended her title in the women's event, marking her second appearance in the Women's Candidates Tournament 2026. With Caruana and Nakamura also confirmed, the Candidates Tournament is set to be highly competitive.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-dutch-no-1-anish-giri-wins-fide-grand-swiss-title-qualifies-for-candidates-2026/articleshow/123903864.cms",
+         "pubDate" : "Mon, 15 Sep 2025 14:54:00",
+         "title" : "Dutch no. 1 Anish Giri wins Grand Swiss, qualifies for Candidates 2026"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123902275.cms\" />R Vaishali defended her FIDE Women's Grand Swiss title in 2025, securing a spot in the 2026 Candidates Tournament. She finished with 8 points after drawing against Tan Zhongyi. Vaishali joins Koneru Humpy and Divya Deshmukh as the third Indian woman to qualify for the Candidates, marking a significant achievement for Indian women's chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/historic-r-vaishali-defends-fide-womens-grand-swiss-title-becomes-third-indian-to-enter-candidates-2026/articleshow/123902275.cms",
+         "pubDate" : "Mon, 15 Sep 2025 12:59:54",
+         "title" : "Vaishali wins Women's Grand Swiss; now 3rd Indian to enter Candidates"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -488,22 +512,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-3",
          "pubDate" : "Sat, 06 Sep 2025 11:11:00",
          "title" : "Maghsoodloo, Vaishali Take Sole Grand Swiss Lead On 3/3"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123732095.cms\" />Indian Grand Master Divya Deshmukh is participating in the FIDE Grand Swiss tournament in Samarkand. Despite an opening round defeat by her mentor Abhimanyu Puranik, the 19-year-old rebounded with a draw against Alexander Donchenko. Divya emphasizes learning over winning, stating that losses against strong players provide valuable lessons.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-divya-deshmukh-ready-to-lose-11-rounds-i-will-be-fine-if-i-learn/articleshow/123732095.cms",
-         "pubDate" : "Sat, 06 Sep 2025 07:28:47",
-         "title" : "FIDE Grand Swiss: Divya ready to lose 11 rounds - 'I will be fine if I learn'"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123730061.cms\" />Uzbekistan's Nodirbek Abdusattorov has stirred the chess world by predicting that India's youngest world champion, D Gukesh, will lose his title in the next defense. Viswanathan Anand responded with amusement, acknowledging the comment's entertainment value. Gukesh, unfazed, focused on the Candidates Tournament qualification race, where Abdusattorov is a contender alongside other strong players.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-will-lose-his-title-in-the-next-match-viswanathan-anand-slams-nodirbek-abdusattorov-for-controversial-remark-watch/articleshow/123730061.cms",
-         "pubDate" : "Sat, 06 Sep 2025 05:29:42",
-         "title" : "'Gukesh will lose his title': Anand slams Uzbek GM - Watch"
       },
       {
          "description" : "Duck Chess Champion IM Nhat Minh To defended his title in the&#38;nbsp;2025 Duck Chess Championship Final, and convincingly so. He won all four of his matches 3-0, literally winning all 12 games, to earn $750. He defeated runner-up IM Eric Rosen (earn...",
