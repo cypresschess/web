@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The FIDE Grand Swiss Tournament took place in Samarkand, Uzbekistan Thu 4th Sep to Mon 15th Sep 2025. Players Open: Praggnanandhaa, Erigaisi, Gukesh, Firouzja, Keymer, Abdusattorov, Giri, Aronian, Nepomniachtchi, Mamedyarov, MVL, Niemann etc. Players Women: Muzychuk, Tan, Assaubayeva, Lagno etc play in the women's even which has suffered a number of withdrawals. Two players from each event qualified for the relevant Candidates tournaments. Anish Giri took clear first place in the open section with 8/11 and Matthias Bluebaum finished second on tie-break from Alireza Firouzja and Vincent Keymer. Rameshbabu Vaishali won the women's event on tie-break from Kateryna Lagno after they finished on ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-grand-swiss-tournament-2025",
+         "pubDate" : "Mon, 15 Sep 2025 19:59:00",
+         "title" : "FIDE Grand Swiss Tournament 2025 - Games and Results"
+      },
+      {
+         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/fide-grand-swiss-tournament-2025\">FIDE Grand Swiss</a> finished today with a very tense final round in the Open tournament. The women's tournament was a little more cut and dried, Kateryna Lagno and Rameshbabu Vaishali knew that they only required draws to qualify for the Women's Candidates and Lagno got her draw fairly quickly with the white pieces but Vaishali only had to work a little harder with black to get her spot and indeed win the event. The Open situation was a lot more complicated. There was no provision for tie-break matches, just a technical tie-break, the first and only one that counted this time was Average Rating of Op",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/giri-and-vaishali-win-the-grand-swisses-bluebaum-and-lagno-scoop-up-the-additional-candidates-places",
+         "pubDate" : "Mon, 15 Sep 2025 19:21:00",
+         "title" : "Giri and Vaishali win the Grand Swisses, Bluebaum and Lagno scoop up the additional Candidates places - 11"
+      },
+      {
          "description" : "Seventy years ago, on September 8, 1955, a column appeared in the Manchester Guardian, about a Russian teenager, Boris Spassky. It was written by a budding young chess master from Croydon. Leonard Barden went on to become one of Britain's strongest chess players - and a columnist who has set a Guinness World Record. | Photo John Saunders",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
          "pubDate" : "Mon, 15 Sep 2025 10:50:00",
          "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "GM Anish Giri played a perfect slow, grinding game to defeat GM Hans Niemann and win the 2025 FIDE Grand Swiss with 8/11. Giri takes the $90,000 top prize and earns a spot in the 2026 FIDE Candidates Tournament, where he&#39;ll be joined by GM Matthia...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/giri-vaishali-win-2025-fide-grand-swiss",
+         "pubDate" : "Mon, 15 Sep 2025 08:22:00",
+         "title" : "Giri, Vaishali Win Grand Swiss, Join Bluebaum, Lagno In Candidates"
       },
       {
          "description" : "Last Updated on 15th September 2025 by WebAdmin The new Coventry International will take place from Sunday 26th October to Friday 31st October 2025 at the Holiday Inn Coventry M6,...",
@@ -618,14 +642,6 @@ news_feed (
          "title" : "Solution: Botvinnik-Boleslavsky 1943"
       },
       {
-         "description" : " The FIDE Grand Swiss Tournament takes place in Samarkand, Uzbekistan which is 4 hours ahead of BST so 15:00 local time is 11am UK. The dates are Thu 4th Sep top Mon 15th Sep 2025. Players Open: Praggnanandhaa, Erigaisi, Gukesh, Firouzja, Keymer, Abdusattorov, Giri, Aronian, Nepomniachtchi, Mamedyarov, MVL, Niemann etc. Players Women: Muzychuk, Tan, Assaubayeva, Lagno etc play in the women's even which has suffered a number of withdrawals. Two players from each event qualify for the relevant Candidates tournaments. Gianluca Cantonetti contacted me about the Android App <a href=\"https://www.fomochess.com/\">FomoChess</a> which has a fantasy competition around this event, and had previously run",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-grand-swiss-tournament-2025",
-         "pubDate" : "Wed, 3 Sep 2025 14:30:00",
-         "title" : "FIDE Grand Swiss Tournament 2025 - Games and Results"
-      },
-      {
          "description" : "The ECU Annual Academy training programme commences on 17th of November 2025 and will run until the 28th of April 2026 with the support of the FIDE Development Fund. The lecturers are the world-renowned chess coaches, and the trainings are organised in two groups: A for players rated 1900+, and B for players rated U1900. Each group will have 24 live sessions for a total of 48 hours of instruction. Participants will have the opportunity to watch the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -640,14 +656,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sarana-wins-titled-tuesday-september-2-2025",
          "pubDate" : "Wed, 03 Sep 2025 07:24:00",
          "title" : "New Titled Tuesday Winner, Same As The Old Winner"
-      },
-      {
-         "description" : "Thirty-six-year-old GM Igor Kovalenko played his first tournament outside of Ukraine in three years as he made nine draws in the recent 2025 Rubinstein Memorial in Polanica-Zdroj, Poland. The world number-54 is still a soldier but revealed he was ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kovalenko-ukraine-frontline-chessboard-poland",
-         "pubDate" : "Wed, 03 Sep 2025 02:11:05",
-         "title" : "Kovalenko Swaps Ukraine Front Lines For Chessboard In Poland"
       },
       {
          "description" : "This week's puzzles come from last month's Saint Louis Rapid &amp; Blitz, where GM Levon Aronian won the five-day, 27-game marathon for the third time in his career. The Wednesday puzzles aren't easy! Check out yesterday's Tactics Tuesday for a more approachable batch of exercises from the same event. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study.",
