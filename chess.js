@@ -42,6 +42,14 @@ news_feed (
          "title" : "Vaishali wins Women's Grand Swiss; now 3rd Indian to enter Candidates"
       },
       {
+         "description" : "Keymer's last trip to Chennai was to help Gukesh become world champion - now he has his biggest classical win.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/46270737/r-vaishali-puts-bad-year-defend-grand-swiss-crown-seal-fide-candidates-spot?device=featurephone",
+         "pubDate" : "Mon, 15 Sep 2025 12:12:00",
+         "title" : "R Vaishali puts bad year behind her to defend Grand Swiss crown, seal Candidates spot"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -55,7 +63,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/giri-vaishali-win-2025-fide-grand-swiss",
          "pubDate" : "Mon, 15 Sep 2025 08:22:00",
-         "title" : "Giri, Vaishali Win Grand Swiss, Join Bluebaum, Lagno In Candidates"
+         "title" : "Giri, Vaishali Win Grand Swiss, Joined By Bluebaum, Lagno In Candidates"
       },
       {
          "description" : "Last Updated on 15th September 2025 by WebAdmin The new Coventry International will take place from Sunday 26th October to Friday 31st October 2025 at the Holiday Inn Coventry M6,...",
@@ -832,14 +840,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/visit-to-hmp-bullingdon-carl-portman/",
          "pubDate" : "Tue, 26 Aug 2025 08:43:31",
          "title" : "Visit to HMP Bullingdon - Carl Portman"
-      },
-      {
-         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-7/\">POSTGAME ROUND 7: Pragg Wins Outstanding Battle With Alireza | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-7/",
-         "pubDate" : "Mon, 25 Aug 2025 22:53:57",
-         "title" : "POSTGAME ROUND 7: Pragg Wins Outstanding Battle With Alireza | #SinquefieldCup"
       }
    ]
 }
