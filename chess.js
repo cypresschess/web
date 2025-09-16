@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It happened almost without notice, because it is so rare. Yagiz Erdogmus came swooping in and took the record for the second youngest player ever to enter the Top 100. We are conditioned to seek the youngest grandmaster or the youngest 2600 (he's that too), but actually entering the Top 100 before the age of 15 is a feat accomplished by only three players, and Erdogmus is one. | Photo: Michal Walusza/FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/yagiz-erdogmus-the-second-youngest-ever-in-the-top-100",
+         "pubDate" : "Tue, 16 Sep 2025 14:00:00",
+         "title" : "Yagiz Erdogmus: The second youngest ever in the Top 100"
+      },
+      {
          "description" : "Anish Giri captured clear first place at the 2025 FIDE Grand Swiss, scoring 8/11 and sealing victory with a final-round win over Hans Niemann to book his third appearance at the Candidates. Matthias Bluebaum's undefeated run, which included wins over Praggnanandhaa Rameshbabu and Arjun Erigaisi, earned him second place on tiebreaks and Germany's first Candidates spot since Robert H&uuml;bner. Vincent Keymer narrowly missed converting a winning chance in the penultimate round and failed to make the most of an advantageous position against Arjun on Monday. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,28 @@ news_feed (
          "title" : "FIDE Grand Swiss: R Vaishali wins for second straight year, books place in Candidates tournament"
       },
       {
+         "description" : "Chess.com&#39;s Chief Chess Officer and co-founder, IM Danny Rensch, has released his first book, Dark Squares, a raw and deeply personal memoir about growing up in an abusive cult, how chess became his lifeline, and the journey that helped him build ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/danny-rensch-dark-squares-released",
+         "pubDate" : "Tue, 16 Sep 2025 06:07:44",
+         "title" : "Danny Rensch Releases Dark Squares: From Cult Survivor To Chess.com Co-Founder"
+      },
+      {
          "description" : "Vaishali Rameshbabu won her second consecutive Women's Grand Swiss, scoring 8/11 and edging Kateryna Lagno on tiebreaks to take first place. Both players secured qualification to the 2026 Women's Candidates Tournament. In the final round, Vaishali held Tan Zhongyi to a draw with black, while Lagno drew safely against Ulviyya Fataliyeva. Bibisara Assaubayeva missed a chance to join them in a three-way tie for first, settling for third place despite an undefeated run in Samarkand. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grand-swiss-2025-11",
          "pubDate" : "Tue, 16 Sep 2025 01:25:00",
          "title" : "Vaishali wins Women's Grand Swiss for a second time in a row, Lagno reaches Candidates"
+      },
+      {
+         "description" : "This week begins our series on the just-concluded 2025 FIDE Grand Swiss and Women's Grand Swiss tournaments. Check back later today for a full report featuring annotations by WGM Sabina Foisor, and catch up on our report from the first half of the event here. We are pleased to share even more curated positions from Sabina over the next few weeks. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-fide-grand-swiss-pt-1",
+         "pubDate" : "Tue, 16 Sep 2025 00:00:00",
+         "title" : "Tactics Tuesday: 2025 FIDE Grand Swiss, Pt. 1"
       },
       {
          "description" : " The FIDE Grand Swiss Tournament took place in Samarkand, Uzbekistan Thu 4th Sep to Mon 15th Sep 2025. Players Open: Praggnanandhaa, Erigaisi, Gukesh, Firouzja, Keymer, Abdusattorov, Giri, Aronian, Nepomniachtchi, Mamedyarov, MVL, Niemann etc. Players Women: Muzychuk, Tan, Assaubayeva, Lagno etc play in the women's even which has suffered a number of withdrawals. Two players from each event qualified for the relevant Candidates tournaments. Anish Giri took clear first place in the open section with 8/11 and Matthias Bluebaum finished second on tie-break from Alireza Firouzja and Vincent Keymer. Rameshbabu Vaishali won the women's event on tie-break from Kateryna Lagno after they finished on ",
@@ -672,22 +696,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-annual-academy-training-programme-2025-26/",
          "pubDate" : "Wed, 03 Sep 2025 08:45:26",
          "title" : "ECU Annual Academy training programme 2025/26"
-      },
-      {
-         "description" : "The next era of Titled Tuesday began on September 2 with GM Alexey Sarana taking home the honors in the day&#39;s only tournament. With 9.5 points, Sarana was able to come out ahead of GM Andrey Esipenko on tiebreaks for his second consecutive victory...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sarana-wins-titled-tuesday-september-2-2025",
-         "pubDate" : "Wed, 03 Sep 2025 07:24:00",
-         "title" : "New Titled Tuesday Winner, Same As The Old Winner"
-      },
-      {
-         "description" : "This week's puzzles come from last month's Saint Louis Rapid &amp; Blitz, where GM Levon Aronian won the five-day, 27-game marathon for the third time in his career. The Wednesday puzzles aren't easy! Check out yesterday's Tactics Tuesday for a more approachable batch of exercises from the same event. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-1-0",
-         "pubDate" : "Wed, 03 Sep 2025 00:00:00",
-         "title" : "Wednesday Workout: Saint Louis Rapid & Blitz, Pt. 1"
       },
       {
          "description" : "The City of Katowice, and the Silesian Chess Federation are proud to announce that the European Individual Chess Championship 2026 will take place in Katowice, Poland, from 7-19 April 2026. Katowice has already established itself as one of Europe's leading chess hubs, having successfully organized four editions of the European Rapid and Blitz Chess Championships, each attracting a record number of participants. The city's proven organizational experience, world-class venues, and welcoming atmosphere provide the ideal conditions for hosting the most []",
