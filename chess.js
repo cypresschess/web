@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vaishali Rameshbabu won her second consecutive Women's Grand Swiss, scoring 8/11 and edging Kateryna Lagno on tiebreaks to take first place. Both players secured qualification to the 2026 Women's Candidates Tournament. In the final round, Vaishali held Tan Zhongyi to a draw with black, while Lagno drew safely against Ulviyya Fataliyeva. Bibisara Assaubayeva missed a chance to join them in a three-way tie for first, settling for third place despite an undefeated run in Samarkand. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-11",
+         "pubDate" : "Tue, 16 Sep 2025 01:25:00",
+         "title" : "Vaishali wins Women's Grand Swiss for a second time in a row, Lagno reaches Candidates"
+      },
+      {
          "description" : " The FIDE Grand Swiss Tournament took place in Samarkand, Uzbekistan Thu 4th Sep to Mon 15th Sep 2025. Players Open: Praggnanandhaa, Erigaisi, Gukesh, Firouzja, Keymer, Abdusattorov, Giri, Aronian, Nepomniachtchi, Mamedyarov, MVL, Niemann etc. Players Women: Muzychuk, Tan, Assaubayeva, Lagno etc play in the women's even which has suffered a number of withdrawals. Two players from each event qualified for the relevant Candidates tournaments. Anish Giri took clear first place in the open section with 8/11 and Matthias Bluebaum finished second on tie-break from Alireza Firouzja and Vincent Keymer. Rameshbabu Vaishali won the women's event on tie-break from Kateryna Lagno after they finished on ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
