@@ -5,9 +5,17 @@ news_feed (
          "description" : "It happened almost without notice, because it is so rare. Yagiz Erdogmus came swooping in and took the record for the second youngest player ever to enter the Top 100. We are conditioned to seek the youngest grandmaster or the youngest 2600 (he's that too), but actually entering the Top 100 before the age of 15 is a feat accomplished by only three players, and Erdogmus is one. | Photo: Michal Walusza/FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/yagiz-erdogmus-the-second-youngest-ever-in-the-top-100",
+         "link" : "https://en.chessbase.com/post/yagiz-erdogmus-the-youngest-top-100-in-36-years",
          "pubDate" : "Tue, 16 Sep 2025 14:00:00",
-         "title" : "Yagiz Erdogmus: The second youngest ever in the Top 100"
+         "title" : "Yagiz Erdogmus: The youngest Top 100 in 36 years"
+      },
+      {
+         "description" : "GM Magnus Carlsen won Titled Tuesday for the second straight week on September 16, scoring 10.5 points with only a draw against GM Jan-Krzysztof Duda preventing him from the perfect 11/11 in what he called &#34;definitely one of my more comfortable Ti...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-september-16-2025",
+         "pubDate" : "Tue, 16 Sep 2025 11:03:31",
+         "title" : "Carlsen Scores Huge With Back-To-Back Tournament Victories"
       },
       {
          "description" : "Anish Giri captured clear first place at the 2025 FIDE Grand Swiss, scoring 8/11 and sealing victory with a final-round win over Hans Niemann to book his third appearance at the Candidates. Matthias Bluebaum's undefeated run, which included wins over Praggnanandhaa Rameshbabu and Arjun Erigaisi, earned him second place on tiebreaks and Germany's first Candidates spot since Robert H&uuml;bner. Vincent Keymer narrowly missed converting a winning chance in the penultimate round and failed to make the most of an advantageous position against Arjun on Monday. | Photo: FIDE / Michal Walusza",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-1",
          "pubDate" : "Thu, 04 Sep 2025 14:45:00",
          "title" : "Gukesh, Firouzja Among Early Winners; Women's Favorites Toppled"
-      },
-      {
-         "description" : "GM Vadim Zvjaginsev is quietly building an impressive unbeaten streak. The 49-year-old grandmaster is up to 92 games without a single loss in classical chess, putting him in sight of the 100-game mark. Yet, instead of climbing on the rating list, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-grandmaster-who-is-approaching-a-100-game-unbeaten-streak",
-         "pubDate" : "Thu, 04 Sep 2025 12:53:00",
-         "title" : "This Grandmaster Is Closing In On 100 Games Without A Loss, While His Rating Is Dropping"
       },
       {
          "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the additional players and accompanying persons are required to",
