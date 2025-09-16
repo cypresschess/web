@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 12 September, the sixth edition of the popular simultaneous chess series \"Grandmaster Meets Amateurs\" took place in the caf&eacute; of the Salzgitter-Bad Grammar School - featuring a world-class player: GM Ivan Sokolov. The Dutch-Bosnian grandmaster faced 31 opponents and showed an impressive form, scoring 30&frac12;-&frac12;. Only Jannes Haverlandt managed to withstand the pressure and secure a draw - surely an admirable achievement.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sokolov-simul-salzgitter-bad-2025",
+         "pubDate" : "Tue, 16 Sep 2025 23:50:00",
+         "title" : "Ivan Sokolov shows his class in Salzgitter-Bad!"
+      },
+      {
          "description" : "It happened almost without notice, because it is so rare. Yagiz Erdogmus came swooping in and took the record for the second youngest player ever to enter the Top 100. We are conditioned to seek the youngest grandmaster or the youngest 2600 (he's that too), but actually entering the Top 100 before the age of 15 is a feat accomplished by only three players, and Erdogmus is one. | Photo: Michal Walusza/FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
