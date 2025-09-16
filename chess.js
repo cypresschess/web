@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anish Giri captured clear first place at the 2025 FIDE Grand Swiss, scoring 8/11 and sealing victory with a final-round win over Hans Niemann to book his third appearance at the Candidates. Matthias Bluebaum's undefeated run, which included wins over Praggnanandhaa Rameshbabu and Arjun Erigaisi, earned him second place on tiebreaks and Germany's first Candidates spot since Robert H&uuml;bner. Vincent Keymer narrowly missed converting a winning chance in the penultimate round and failed to make the most of an advantageous position against Arjun on Monday. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-12",
+         "pubDate" : "Tue, 16 Sep 2025 08:50:00",
+         "title" : "Giri outright winner at FIDE Grand Swiss, Bluebaum grabs second Candidates spot"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123915523.cms\" />Grandmaster R Vaishali lifts crown for second consecutive time, joins Divya Deshmukh and Koneru Humpy in Candidates meet",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-r-vaishali-wins-for-second-straight-year-books-place-in-candidates-tournament/articleshow/123915523.cms",
+         "pubDate" : "Tue, 16 Sep 2025 06:26:01",
+         "title" : "FIDE Grand Swiss: R Vaishali wins for second straight year, books place in Candidates tournament"
+      },
+      {
          "description" : "Vaishali Rameshbabu won her second consecutive Women's Grand Swiss, scoring 8/11 and edging Kateryna Lagno on tiebreaks to take first place. Both players secured qualification to the 2026 Women's Candidates Tournament. In the final round, Vaishali held Tan Zhongyi to a draw with black, while Lagno drew safely against Ulviyya Fataliyeva. Bibisara Assaubayeva missed a chance to join them in a three-way tie for first, settling for third place despite an undefeated run in Samarkand. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -520,14 +536,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-sep-6-2025",
          "pubDate" : "Sat, 06 Sep 2025 18:37:00",
          "title" : "Bortnyk Beats Carlsen Twice En Route To 13th Bullet Brawl Title"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123737942.cms\" />R Vaishali's exceptional form propelled her to the sole lead in the FIDE Grand Swiss women's section with a third consecutive victory. Meanwhile, D Gukesh showcased his prowess in the open section, outplaying Daniil Yuffa. Other Indian players experienced mixed results, with Vantika Agrawal facing a defeat and D Harika drawing her game.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-vaishali-takes-sole-lead-in-womens-section-gukesh-impresses-with-solid-win/articleshow/123737942.cms",
-         "pubDate" : "Sat, 06 Sep 2025 16:54:24",
-         "title" : "FIDE Grand Swiss: Vaishali takes sole lead in women's section, Gukesh impresses with solid win"
       },
       {
          "description" : "If you're used to picking things up quickly, in school, at work, or in life, then chess can feel strangely frustrating. You're successful in your career. You had little trouble with math in school. You've solved tough problems before, and usually with less effort than most. But in chess, you struggle. For the first time, []",
