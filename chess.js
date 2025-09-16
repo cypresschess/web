@@ -832,30 +832,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-8/",
          "pubDate" : "Tue, 26 Aug 2025 23:33:27",
          "title" : "POSTGAME ROUND 8: Pragg & Fabi Lead Before Final Round | #SinquefieldCup"
-      },
-      {
-         "description" : "Please find here few photos",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-arbiter-seminar-2025-in-karaikudi-from-22-24-august-2025/",
-         "pubDate" : "Tue, 26 Aug 2025 11:04:03",
-         "title" : "Fide Arbiter Seminar 2025 in Karaikudi from 22-24 August 2025"
-      },
-      {
-         "description" : " The Sinquefield Cup is positioned for an exciting finish after Praggnanandhaa's win against Alireza Firouzja allowed him to catch Fabiano Caruana in the lead after seven of the nine rounds. Caruana drew against Levon Aronian and Wesley So beat the World Champion Gukesh. This means Praggnanandhaa and Caruana have 4.5/7 and Aronian and So 4/7 with Sam Sevian, MVL and Duda a further half point further back. Round 8 pairings: Abdusattorov-Firouzja, Praggnanandhaa-So, Sevian-Duda, MVL-Caruana, Gukesh-Aronian. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/praggnanandhaa-joins-caruana-in-the-lead-of-the-sinquefield-cup-after-beating-firouzja-in-round-7",
-         "pubDate" : "Tue, 26 Aug 2025 09:04:00",
-         "title" : "Praggnanandhaa joins Caruana in the lead of the Sinquefield Cup after beating Firouzja in Round 7 - 7"
-      },
-      {
-         "description" : "Last Updated on 10th September 2025 by WebAdmin The Prison I was delighted to re-visit this prison to further support their chess endeavours. This time I invited along Yury Krylov,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/visit-to-hmp-bullingdon-carl-portman/",
-         "pubDate" : "Tue, 26 Aug 2025 08:43:31",
-         "title" : "Visit to HMP Bullingdon - Carl Portman"
       }
    ]
 }
