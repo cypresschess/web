@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 17 to 25 September, the closed tournament \"Legends and Prodigies\" is being held in Madrid, featuring five GMs and five IMs in a generational clash. The event is a single round-robin with a classical time control. Among the participants are Peruvian GM Julio Granda, a legend of Latin American chess, alongside young talents Faustino Oro and Lu Miaoyi. The tournament will award a GM norm to players scoring 6/9 points. | Follow the games live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2025-live",
+         "pubDate" : "Wed, 17 Sep 2025 16:00:00",
+         "title" : "Legends & Prodigies - Live!"
+      },
+      {
+         "description" : "In his 9/11 memorial article in the German Zeit Magazin GM Helmut Pfleger tells us how William Lombardy, the former youth world champion and, alongside Fischer, the strongest American player, bitterly complained to him during the Kasparov-Anand world championship match that began on September 11, 1995 that he had never been accorded the honour being inducted into the US Chess Hall of Fame. In 2016 Maurice Ashley, the first African-American chess grandmaster in history, did it and joined the ranks of Paul Morphy, Bobby Fischer, and Frank Marshall before him.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/helmut-pfleger-on-maurice-ashley",
+         "pubDate" : "Wed, 17 Sep 2025 14:00:00",
+         "title" : "Helmut Pfleger on Maurice Ashley"
+      },
+      {
+         "description" : "Last Updated on 17th September 2025 by WebAdmin The much awaited Live Chess World League 2025/S2 (Season 14) is now underway on Chess.com with teams from around the world playing...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/live-chess-world-league-2025-s2/",
+         "pubDate" : "Wed, 17 Sep 2025 11:59:49",
+         "title" : "Live Chess World League 2025/S2"
+      },
+      {
+         "description" : "GMs Anish Giri and Vaishali Rameshbabu topped the tables of the 2025 FIDE Grand Swiss and 2025 FIDE Women&#38;rsquo;s Grand Swiss in Samarkand, Uzbekistan, but the 172 players in 11 rounds brought countless stories. We got the surprise Candidates qual...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-13-conclusions",
+         "pubDate" : "Wed, 17 Sep 2025 07:18:00",
+         "title" : "2025 FIDE Grand Swiss: 13 Conclusions"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123936941.cms\" />Grandmaster R Vaishali secured her spot in the Women's Candidates Tournament 2026 by winning the Women's Grand Swiss in Samarkand. This victory came after a challenging experience at the Chennai Grand Masters, where she faced a series of losses. Ironically, her lowered rating from the Chennai tournament inadvertently contributed to her Grand Swiss win due to tie-break calculations.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -666,14 +698,6 @@ news_feed (
          "title" : "Mayor Bartlett to Depart US Chess Oct. 21"
       },
       {
-         "description" : "World Champion Gukesh Dommaraju was among only 17 of 116 players to win in the first round of the 2025 FIDE Grand Swiss in Samarkand, with other stars getting off to a quick start including GMs Alireza Firouzja, Nodirbek Abdusattorov, and Anish Gi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-1",
-         "pubDate" : "Thu, 04 Sep 2025 14:45:00",
-         "title" : "Gukesh, Firouzja Among Early Winners; Women's Favorites Toppled"
-      },
-      {
          "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the additional players and accompanying persons are required to",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -832,14 +856,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-26th-august-2025",
          "pubDate" : "Wed, 27 Aug 2025 16:20:00",
          "title" : "Titled Tuesday Blitz 26th August 2025 - Games and Results"
-      },
-      {
-         "description" : " The eighth round of the Sinquefield Cup only had one decisive result when Nodirbek Abdusattorov beat Alireza Firouzja taking advantage of some rather loose play. Gukesh pressed for a long time against Levon Aronian and missed a hard win but then a late blunder should in return have cost him the game but Aronian missed his chance. MVL-Caruana, Sevian-Duda and Praggnanandhaa-So were all drawn meaning that Caruana and Praggnanandhaa share the lead on 5/8 half a point clear of Aronian and So. Final Round 9 pairings: Duda-MV:, Caruana-Gukesh, Aronian-Praggnanandhaa, So-Abdusattorov and Firouzja-Sevian. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-beats-firouzja-in-round-8-of-the-sinquefield-cup",
-         "pubDate" : "Wed, 27 Aug 2025 15:29:00",
-         "title" : "Abdusattorov beats Firouzja in Round 8 of the Sinquefield Cup - 8"
       }
    ]
 }
