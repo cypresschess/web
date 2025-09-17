@@ -840,14 +840,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-beats-firouzja-in-round-8-of-the-sinquefield-cup",
          "pubDate" : "Wed, 27 Aug 2025 15:29:00",
          "title" : "Abdusattorov beats Firouzja in Round 8 of the Sinquefield Cup - 8"
-      },
-      {
-         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-8/\">POSTGAME ROUND 8: Pragg &amp; Fabi Lead Before Final Round | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-8/",
-         "pubDate" : "Tue, 26 Aug 2025 23:33:27",
-         "title" : "POSTGAME ROUND 8: Pragg & Fabi Lead Before Final Round | #SinquefieldCup"
       }
    ]
 }
