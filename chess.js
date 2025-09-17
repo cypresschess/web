@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123936941.cms\" />Grandmaster R Vaishali secured her spot in the Women's Candidates tournament 2026 by winning the Women's Grand Swiss in Samarkand, a remarkable comeback after a disastrous performance in Chennai. Her brother, GM Praggnanandhaa, and her family played a crucial role in convincing her to participate, before fate intervened.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123936941.cms\" />Grandmaster R Vaishali secured her spot in the Women's Candidates Tournament 2026 by winning the Women's Grand Swiss in Samarkand. This victory came after a challenging experience at the Chennai Grand Masters, where she faced a series of losses. Ironically, her lowered rating from the Chennai tournament inadvertently contributed to her Grand Swiss win due to tie-break calculations.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-i-decided-not-to-play-grand-swiss-how-r-vaishalis-chennai-nightmare-earned-her-a-2026-candidates-ticket/articleshow/123936941.cms",
@@ -810,7 +810,7 @@ news_feed (
          "title" : "POSTGAME ROUND 9 | #SinquefieldCup"
       },
       {
-         "description" : " The 12th Sinquefield Cup took place in Saint Louis, Mon 18th to Fri 29th Aug 2025. Players: Fabiano Caruana, Praggnanandhaa, Gukesh, Nodirbek Abdusattorov, Alireza Firouzja, Wesley So, Levon Aronian, Maxime Vachier-Lagrave, Jan-Krzysztof Duda and Samuel Sevian. The Sinquefield Cup was won by Wesely So after a blitz tie-break round robin where Praggnanandhaa finished second and Fabiano Caruana finished third. The players shared the prize money. The result of this event settled who made the Grand Chess Tour finals next month in Sao Paulo. Those qualifiers were MVL, Caruana, Levon Aronian and Praggnanandhaa, the latter displacing Alireza Firouzja from the top four.",
+         "description" : " The 12th Sinquefield Cup took place in Saint Louis, Mon 18th to Fri 29th Aug 2025. Players: Fabiano Caruana, Praggnanandhaa, Gukesh, Nodirbek Abdusattorov, Alireza Firouzja, Wesley So, Levon Aronian, Maxime Vachier-Lagrave, Jan-Krzysztof Duda and Samuel Sevian. The Sinquefield Cup was won by Wesley So after a blitz tie-break round robin where Praggnanandhaa finished second and Fabiano Caruana finished third. The players shared the prize money. The result of this event settled who made the Grand Chess Tour finals next month in Sao Paulo. Those qualifiers were MVL, Caruana, Levon Aronian and Praggnanandhaa, the latter displacing Alireza Firouzja from the top four.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/12th-sinquefield-cup-2025",
