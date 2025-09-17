@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What chessplayer hasn't, when staring down disaster, dreamed of moving not their own pieces but the adversary's, swapping defeat for a sudden delicious triumph? Ever generous with impossible wishes, fairy composers have conjured just that: All-in-Chess! Here, either side may move either colour, within a few carefully chosen limits, of course. While it's possible to play entire games this way, problemists summon AIC to craft zany puzzles that twist expectations and delight the imagination. If you've got a taste for the bizarre, the brain-twisting, and the exquisitely tricky, pull up a chair - you've arrived at just the right place!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/all-in-chess-shared-control",
+         "pubDate" : "Wed, 17 Sep 2025 20:00:00",
+         "title" : "All-in-Chess: The art and amusement of shared control"
+      },
+      {
          "description" : "From 17 to 25 September, the closed tournament \"Legends and Prodigies\" is being held in Madrid, featuring five GMs and five IMs in a generational clash. The event is a single round-robin with a classical time control. Among the participants are Peruvian GM Julio Granda, a legend of Latin American chess, alongside young talents Faustino Oro and Lu Miaoyi. The tournament will award a GM norm to players scoring 6/9 points. | Follow the games live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,6 +50,14 @@ news_feed (
          "title" : "'I decided not to play Grand Swiss': How R Vaishali's Chennai nightmare earned her a 2026 Candidates ticket"
       },
       {
+         "description" : "This week begins our series on the just-concluded 2025 FIDE Grand Swiss and Women's Grand Swiss tournaments. Check back later today for a full report featuring annotations by WGM Sabina Foisor, and catch up on our report from the first half of the event here. We are pleased to share even more curated positions from Sabina over the next few weeks, including a more accessible batch of tactics beginning with yesterday's Tactics Tuesday column. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2025-fide-grand-swiss-pt-1",
+         "pubDate" : "Wed, 17 Sep 2025 00:00:00",
+         "title" : "Wednesday Workout: 2025 FIDE Grand Swiss, Pt. 1"
+      },
+      {
          "description" : "On 12 September, the sixth edition of the popular simultaneous chess series \"Grandmaster Meets Amateurs\" took place in the caf&eacute; of the Salzgitter-Bad Grammar School - featuring a world-class player: GM Ivan Sokolov. The Dutch-Bosnian grandmaster faced 31 opponents and showed an impressive form, scoring 30&frac12;-&frac12;. Only Jannes Haverlandt managed to withstand the pressure and secure a draw - surely an admirable achievement.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,14 +82,6 @@ news_feed (
          "title" : "Carlsen Scores Huge With Back-To-Back Tournament Victories"
       },
       {
-         "description" : "Anish Giri captured clear first place at the 2025 FIDE Grand Swiss, scoring 8/11 and sealing victory with a final-round win over Hans Niemann to book his third appearance at the Candidates. Matthias Bluebaum's undefeated run, which included wins over Praggnanandhaa Rameshbabu and Arjun Erigaisi, earned him second place on tiebreaks and Germany's first Candidates spot since Robert H&uuml;bner. Vincent Keymer narrowly missed converting a winning chance in the penultimate round and failed to make the most of an advantageous position against Arjun on Monday. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-12",
-         "pubDate" : "Tue, 16 Sep 2025 08:50:00",
-         "title" : "Giri outright winner at FIDE Grand Swiss, Bluebaum grabs second Candidates spot"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123915523.cms\" />Grandmaster R Vaishali lifts crown for second consecutive time, joins Divya Deshmukh and Koneru Humpy in Candidates meet",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -88,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/danny-rensch-dark-squares-released",
          "pubDate" : "Tue, 16 Sep 2025 06:07:44",
          "title" : "Danny Rensch Releases Dark Squares: From Cult Survivor To Chess.com Co-Founder"
-      },
-      {
-         "description" : "Vaishali Rameshbabu won her second consecutive Women's Grand Swiss, scoring 8/11 and edging Kateryna Lagno on tiebreaks to take first place. Both players secured qualification to the 2026 Women's Candidates Tournament. In the final round, Vaishali held Tan Zhongyi to a draw with black, while Lagno drew safely against Ulviyya Fataliyeva. Bibisara Assaubayeva missed a chance to join them in a three-way tie for first, settling for third place despite an undefeated run in Samarkand. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-11",
-         "pubDate" : "Tue, 16 Sep 2025 01:25:00",
-         "title" : "Vaishali wins Women's Grand Swiss for a second time in a row, Lagno reaches Candidates"
       },
       {
          "description" : "This week begins our series on the just-concluded 2025 FIDE Grand Swiss and Women's Grand Swiss tournaments. Check back later today for a full report featuring annotations by WGM Sabina Foisor, and catch up on our report from the first half of the event here. We are pleased to share even more curated positions from Sabina over the next few weeks. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -120,14 +120,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/giri-and-vaishali-win-the-grand-swisses-bluebaum-and-lagno-scoop-up-the-additional-candidates-places",
          "pubDate" : "Mon, 15 Sep 2025 19:21:00",
          "title" : "Giri and Vaishali win the Grand Swisses, Bluebaum and Lagno scoop up the additional Candidates places - 11"
-      },
-      {
-         "description" : "Seventy years ago, on September 8, 1955, a column appeared in the Manchester Guardian, about a Russian teenager, Boris Spassky. It was written by a budding young chess master from Croydon. Leonard Barden went on to become one of Britain's strongest chess players - and a columnist who has set a Guinness World Record. | Photo John Saunders",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leonard-barden-2",
-         "pubDate" : "Mon, 15 Sep 2025 17:00:00",
-         "title" : "Leonard Barden, going strong at 96"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123903864.cms\" />Anish Giri and Matthias Bluebaum secured their spots in the FIDE Candidates Tournament 2026 after a strong showing at the FIDE Grand Swiss. R Vaishali defended her title in the women's event, marking her second appearance in the Women's Candidates Tournament 2026. With Caruana and Nakamura also confirmed, the Candidates Tournament is set to be highly competitive.",
@@ -216,14 +208,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-10",
          "pubDate" : "Sun, 14 Sep 2025 11:01:00",
          "title" : "Niemann Beats Pragg To Join 5-Way Tie For 1st; Vaishali Catches Lagno"
-      },
-      {
-         "description" : "How do you train endgames? To be honest, the question might be better phrased as: Do you even train endgames at all? After all, the magical richness of the final phase of a game is something not everyone appreciates. This makes it all the more important that training is enjoyable and not bogged down by unnecessarily long searches for the right solution. In this regard, the LiveBook feature of ChessBase 18 may not be familiar to everyone. All the more reason, then, to introduce this highly practical tool in this tutorial.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-31-endgame-expert-with-the-live-book",
-         "pubDate" : "Sun, 14 Sep 2025 07:00:00",
-         "title" : "ChessBase 18 - Tips for Beginners, part 31: Endgame expert with the \"LiveBook\""
       },
       {
          "description" : "Following his back-to-back victories in the highly publicized 2025 Louisiana State Championship and Iowa Open, GM Hikaru Nakamura returned to the Bullet Brawl arena on Saturday and picked up the $400 first prize. Nakamura scored 53/65 in the eve...",
@@ -706,14 +690,6 @@ news_feed (
          "title" : "Commonwealth Chess Championship - 2025 - 26 in Kuala Lumpur, Malaysia from 8th to 17th November, 2025."
       },
       {
-         "description" : "Editor's note: Since becoming Digital Editor for Chess Life Online, I have dreamt of publishing more regular wrap-ups of the sorts of events that are eligible for our Plan Ahead Calendar (as well as invitational tournaments).Do you want coverage of your tournament on Chess Life Online for future reporting or roundups?If so, email Click here to show email address with information of upcoming or recently concluded (i.e. within 1-2 weeks) events.For concluded tournaments, please include links to or screenshots of final standings, as well as links to DGT games or attached, transcribed game scores from 1-3 games of winners. Photos of the tournament and of winners are also a plus (cell phone photo",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/labor-day-weekend-wrap",
-         "pubDate" : "Thu, 04 Sep 2025 00:00:00",
-         "title" : "Labor Day Weekend Wrap-Up"
-      },
-      {
          "description" : "Some time ago, we invited our readers to help us unravel a long-standing mystery in the famous game Botvinnik-Boleslavsky, played in 1943 (during World War II!). The response was overwhelming, and in a relatively short time, we reached a conclusion: Boleslavsky could have held the balance - a draw was within reach - despite Botvinnik's claim in his (usually precise!) commentary that his position was winning.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -840,22 +816,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/12th-sinquefield-cup-2025",
          "pubDate" : "Wed, 27 Aug 2025 23:47:00",
          "title" : "12th Sinquefield Cup 2025 - Games and Results"
-      },
-      {
-         "description" : "The Sinquefield Cup, the only event to feature in every Grand Chess Tour since 2015, returns to Saint Louis from 18 to 27 August. As the concluding leg before the revived Finals in São Paulo, it will play a decisive role in determining the four qualifiers, with Maxime Vachier-Lagrave currently leading the standings and strong challengers close behind. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2025-live",
-         "pubDate" : "Wed, 27 Aug 2025 18:50:00",
-         "title" : "Sinquefield Cup Playoffs - Live!"
-      },
-      {
-         "description" : " The Titled Tuesday Blitz 26th August was the last in this format with major changes coming next week. Tuan Minh Le was the winner of the early with 10.5/11 a point and a half clear of the field, Carlsen finished a further point and a half back on 8.5 points. Aleksei Sarana won the late with 9.5/11 half a point clear of Arjun Erigaisi, Dmitry Andreikin, Magnus Carlsen and Oleksandr Bortnyk, somewhat surprisingly Fabiano Caruana also played after his early finish in the Sinquefield Cup and he was half a point further back. The games are available for download but the files are too large to be displayed.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-26th-august-2025",
-         "pubDate" : "Wed, 27 Aug 2025 16:20:00",
-         "title" : "Titled Tuesday Blitz 26th August 2025 - Games and Results"
       }
    ]
 }
