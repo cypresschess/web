@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Sally Hamadeh from Lebanon faced the \"Mouse\" (Strong Club Player) of Fritz 20. Things looked grim after an early blunder cost her a piece within just a few moves. Many players might have resigned on the spot, but not Sally. True to her attacking style, she seized the initiative with a bold pawn push on the kingside. Fritz 20 gives the player a chance to find some smooth tactics, luckily. The timid mouse faltered one last time, and suddenly the tables had turned: what began with a setback ended in a sparkling checkmate!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-fritz-20-duel-sally-hamadeh-vs-mouse",
+         "pubDate" : "Wed, 17 Sep 2025 22:43:58",
+         "title" : "The Fritz 20 Duel: Sally Hamadeh vs. Mouse!"
+      },
+      {
          "description" : "What chessplayer hasn't, when staring down disaster, dreamed of moving not their own pieces but the adversary's, swapping defeat for a sudden delicious triumph? Ever generous with impossible wishes, fairy composers have conjured just that: All-in-Chess! Here, either side may move either colour, within a few carefully chosen limits, of course. While it's possible to play entire games this way, problemists summon AIC to craft zany puzzles that twist expectations and delight the imagination. If you've got a taste for the bizarre, the brain-twisting, and the exquisitely tricky, pull up a chair - you've arrived at just the right place!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
