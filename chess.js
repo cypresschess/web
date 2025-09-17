@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123936941.cms\" />Grandmaster R Vaishali secured her spot in the Women's Candidates tournament 2026 by winning the Women's Grand Swiss in Samarkand, a remarkable comeback after a disastrous performance in Chennai. Her brother, GM Praggnanandhaa, and her family played a crucial role in convincing her to participate, before fate intervened.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-i-decided-not-to-play-grand-swiss-how-r-vaishalis-chennai-nightmare-earned-her-a-2026-candidates-ticket/articleshow/123936941.cms",
+         "pubDate" : "Wed, 17 Sep 2025 06:26:58",
+         "title" : "'I decided not to play Grand Swiss': How R Vaishali's Chennai nightmare earned her a 2026 Candidates ticket"
+      },
+      {
          "description" : "On 12 September, the sixth edition of the popular simultaneous chess series \"Grandmaster Meets Amateurs\" took place in the caf&eacute; of the Salzgitter-Bad Grammar School - featuring a world-class player: GM Ivan Sokolov. The Dutch-Bosnian grandmaster faced 31 opponents and showed an impressive form, scoring 30&frac12;-&frac12;. Only Jannes Haverlandt managed to withstand the pressure and secure a draw - surely an admirable achievement.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -560,14 +568,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-4",
          "pubDate" : "Sun, 07 Sep 2025 11:33:00",
          "title" : "14-Year-Old Erdogmus Wins Masterpiece; Lagno Catches Vaishali"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123743163.cms\" />In the FIDE Grand Swiss, R Praggnanandhaa defeated Boris Gelfand after the latter blundered under time pressure. Parham Maghsoodloo leads the Open section with a perfect score, while R Vaishali holds the same distinction in the women's section. Several top games were hard-fought, with D Gukesh and Erigaisi Arjun securing notable victories.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-r-praggnanandhaa-bests-coach-boris-gelfand-vaishali-leads-womens-section/articleshow/123743163.cms",
-         "pubDate" : "Sun, 07 Sep 2025 05:06:13",
-         "title" : "FIDE Grand Swiss: Pragg bests coach Gelfand; Vaishali leads women's section"
       },
       {
          "description" : "GM Oleksandr Bortnyk stole the show in Saturday&#39;s Bullet Brawl after outscoring 186 of Chess.com&#39;s quickest titled players to capture the $400 first prize for the 13th time. Bortnyk&#39;s score of 164 positioned him 12 points ahead of the second-pla...",
