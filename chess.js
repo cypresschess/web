@@ -14,7 +14,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-announces-fide-on-2025-world-blitz-championship-changes",
-         "pubDate" : "Wed, 17 Sep 2025 21:08:10",
+         "pubDate" : "Wed, 17 Sep 2025 21:08:00",
          "title" : "FIDE On World Blitz Format Change: 'Too Many Non-Games'"
       },
       {
@@ -784,30 +784,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-title-goes-to-american-grandmaster-wesley-so/",
          "pubDate" : "Thu, 28 Aug 2025 15:12:01",
          "title" : "2025 Sinquefield Cup Title Goes to American Grandmaster Wesley So"
-      },
-      {
-         "description" : "Last Updated on 28th August 2025 by WebAdmin Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-agm-call-for-nominations-3/",
-         "pubDate" : "Thu, 28 Aug 2025 10:53:00",
-         "title" : "ECF AGM - call for nominations"
-      },
-      {
-         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/12th-sinquefield-cup-2025\">Sinquefield Cup</a> was won by Wesley So for a second time, he won first of all in 2016. So was the only winner in the final round when he defeated the woefully out of form Nodirbek Abdusattorov. So then won a blitz tie-break by beating Praggnanandhaa and drawing with Fabiano Caruana. So won $77,667 and Praggnanandhaa and Caruana $67,667. The result of this event settled who made the Grand Chess Tour finals next month in Sao Paulo. Those qualifiers were MVL, Caruana, Levon Aronian and Praggnanandhaa, the latter displacing Alireza Firouzja from the top four as a result of this tournament. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/wesley-so-wins-the-sinquefield-cup-after-a-playoff",
-         "pubDate" : "Thu, 28 Aug 2025 10:15:00",
-         "title" : "Wesley So wins the Sinquefield Cup after a playoff - 9"
-      },
-      {
-         "description" : "The All Tripura Chess Association, in collaboration with the All India Chess Federation and the Arbiters' Commission, organised a Senior National Arbiter Seminar and Examination",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-exam-in-agartala-on-21-22-august-2025/",
-         "pubDate" : "Thu, 28 Aug 2025 09:14:30",
-         "title" : "Final Report of Senior National Arbiter Seminar & Exam in Agartala on 21 & 22 August 2025"
       }
    ]
 }
