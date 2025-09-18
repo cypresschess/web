@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 17 to 25 September, the closed tournament \"Legends and Prodigies\" is being held in Madrid, featuring five GMs and five IMs in a generational clash. The event is a single round-robin with a classical time control. Among the participants are Peruvian GM Julio Granda, a legend of Latin American chess, alongside young talents Faustino Oro and Lu Miaoyi. The tournament will award a GM norm to players scoring 6/9 points. | Follow the games live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2025-live",
+         "pubDate" : "Thu, 18 Sep 2025 16:00:00",
+         "title" : "Legends & Prodigies - Live!"
+      },
+      {
+         "description" : "On October 12, the U.S. Championship begins in St. Louis. Twelve of the country's top players will compete, nine of whom also played in the Grand Swiss, which concluded on September 15 in Samarkand. Their performances there point to an interesting championship, with Abhimanyu Mishra and Andy Woodward delivering particularly notable results. | Photo: Michal Walusza/FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/from-grand-swiss-to-u-s-championship",
+         "pubDate" : "Thu, 18 Sep 2025 15:16:46",
+         "title" : "From Grand Swiss to U.S. Championship"
+      },
+      {
+         "description" : "On Friday, the FIDE Cadet World Championships will begin in Almaty (Kazakhstan) with the first round. Almost 90 countries have registered players who will compete in six age groups - U8, U10, and U12 - each with an open section and a girls' tournament for the titles.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-cadet-chess-championships",
+         "pubDate" : "Thu, 18 Sep 2025 14:43:09",
+         "title" : "FIDE World Cadet Chess Championships"
+      },
+      {
+         "description" : "Last Updated on 18th September 2025 by WebAdmin The new Coventry International will take place from Sunday 26th October to Friday 31st October 2025 at the Holiday Inn Coventry M6,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2025-coventry-international/",
+         "pubDate" : "Thu, 18 Sep 2025 06:30:58",
+         "title" : "2025 Coventry International"
+      },
+      {
+         "description" : "Last Updated on 18th September 2025 by WebAdmin The UK Open Blitz Championship returns in 2025, featuring an expanded format with 16 qualifiers in 14 cities around the United Kingdom....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/uk-open-blitz-championship-2025/",
+         "pubDate" : "Thu, 18 Sep 2025 06:00:21",
+         "title" : "UK Open Blitz Championship 2025"
+      },
+      {
          "description" : "Sally Hamadeh from Lebanon faced the \"Mouse\" (Strong Club Player) of Fritz 20. Things looked grim after an early blunder cost her a piece within just a few moves. Many players might have resigned on the spot, but not Sally. True to her attacking style, she seized the initiative with a bold pawn push on the kingside. Fritz 20 gives the player a chance to find some smooth tactics, luckily. The timid mouse faltered one last time, and suddenly the tables had turned: what began with a setback ended in a sparkling checkmate!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,14 +66,6 @@ news_feed (
          "title" : "All-in-Chess: The art and amusement of shared control"
       },
       {
-         "description" : "From 17 to 25 September, the closed tournament \"Legends and Prodigies\" is being held in Madrid, featuring five GMs and five IMs in a generational clash. The event is a single round-robin with a classical time control. Among the participants are Peruvian GM Julio Granda, a legend of Latin American chess, alongside young talents Faustino Oro and Lu Miaoyi. The tournament will award a GM norm to players scoring 6/9 points. | Follow the games live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2025-live",
-         "pubDate" : "Wed, 17 Sep 2025 16:00:00",
-         "title" : "Legends & Prodigies - Live!"
-      },
-      {
          "description" : "In his 9/11 memorial article in the German Zeit Magazin GM Helmut Pfleger tells us how William Lombardy, the former youth world champion and, alongside Fischer, the strongest American player, bitterly complained to him during the Kasparov-Anand world championship match that began on September 11, 1995 that he had never been accorded the honour being inducted into the US Chess Hall of Fame. In 2016 Maurice Ashley, the first African-American chess grandmaster in history, did it and joined the ranks of Paul Morphy, Bobby Fischer, and Frank Marshall before him.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +74,7 @@ news_feed (
          "title" : "Helmut Pfleger on Maurice Ashley"
       },
       {
-         "description" : "Last Updated on 17th September 2025 by WebAdmin The much awaited Live Chess World League 2025/S2 (Season 14) is now underway on Chess.com with teams from around the world playing...",
+         "description" : "Last Updated on 18th September 2025 by WebAdmin The much awaited Live Chess World League 2025/S2 (Season 14) is now underway on Chess.com with teams from around the world playing...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/live-chess-world-league-2025-s2/",
@@ -176,22 +208,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/giri-vaishali-win-2025-fide-grand-swiss",
          "pubDate" : "Mon, 15 Sep 2025 08:22:00",
          "title" : "Giri, Vaishali Win Grand Swiss, Joined By Bluebaum, Lagno In Candidates"
-      },
-      {
-         "description" : "Last Updated on 15th September 2025 by WebAdmin The new Coventry International will take place from Sunday 26th October to Friday 31st October 2025 at the Holiday Inn Coventry M6,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2025-coventry-international/",
-         "pubDate" : "Mon, 15 Sep 2025 06:30:58",
-         "title" : "2025 Coventry International"
-      },
-      {
-         "description" : "Last Updated on 15th September 2025 by WebAdmin The UK Open Blitz Championship returns in 2025, featuring an expanded format with 16 qualifiers in 14 cities around the United Kingdom....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/uk-open-blitz-championship-2025/",
-         "pubDate" : "Mon, 15 Sep 2025 06:00:21",
-         "title" : "UK Open Blitz Championship 2025"
       },
       {
          "description" : "The ECU E-Magazine August 2025 is out! In this edition of the ECU E-Magazine you may read about: The August 2025 edition of the ECU Magazine can be read online together with interactive links through the following link, or it can be downloaded in PDF format.",
@@ -776,14 +792,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/aug/29/chess-wesley-so-wins-350000-sinquefield-cup-as-world-champion-gukesh-fails-again",
          "pubDate" : "Fri, 29 Aug 2025 07:00:09",
          "title" : "Chess: Wesley So wins $350,000 Sinquefield Cup as world champion Gukesh fails again"
-      },
-      {
-         "description" : " So Wins Second Title Amid Fierce Competition, Top Four Headed to Grand Chess Tour Finals in Brazil SAINT LOUIS, August 28, 2025 U.S. Grandmaster Wesley So triumphed at the 2025 Sinquefield Cup, outlasting a world-class field and a thrilling three-way tie at the top that led to playoffs to decide it all. In the end, [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-title-goes-to-american-grandmaster-wesley-so/\">2025 Sinquefield Cup Title Goes to American Grandmaster Wesley So</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-title-goes-to-american-grandmaster-wesley-so/",
-         "pubDate" : "Thu, 28 Aug 2025 15:12:01",
-         "title" : "2025 Sinquefield Cup Title Goes to American Grandmaster Wesley So"
       }
    ]
 }
