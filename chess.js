@@ -808,22 +808,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-exam-in-agartala-on-21-22-august-2025/",
          "pubDate" : "Thu, 28 Aug 2025 09:14:30",
          "title" : "Final Report of Senior National Arbiter Seminar & Exam in Agartala on 21 & 22 August 2025"
-      },
-      {
-         "description" : " Join GMs Yasser Seirawan &#38; Peter Svidler, and IM Nazi Paikidze for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-9/\">POSTGAME ROUND 9 | #SinquefieldCup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-sinquefield-cup-postgame-round-9/",
-         "pubDate" : "Wed, 27 Aug 2025 23:57:40",
-         "title" : "POSTGAME ROUND 9 | #SinquefieldCup"
-      },
-      {
-         "description" : " The 12th Sinquefield Cup took place in Saint Louis, Mon 18th to Fri 29th Aug 2025. Players: Fabiano Caruana, Praggnanandhaa, Gukesh, Nodirbek Abdusattorov, Alireza Firouzja, Wesley So, Levon Aronian, Maxime Vachier-Lagrave, Jan-Krzysztof Duda and Samuel Sevian. The Sinquefield Cup was won by Wesley So after a blitz tie-break round robin where Praggnanandhaa finished second and Fabiano Caruana finished third. The players shared the prize money. The result of this event settled who made the Grand Chess Tour finals next month in Sao Paulo. Those qualifiers were MVL, Caruana, Levon Aronian and Praggnanandhaa, the latter displacing Alireza Firouzja from the top four.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/12th-sinquefield-cup-2025",
-         "pubDate" : "Wed, 27 Aug 2025 23:47:00",
-         "title" : "12th Sinquefield Cup 2025 - Games and Results"
       }
    ]
 }
