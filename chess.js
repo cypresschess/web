@@ -10,6 +10,14 @@ news_feed (
          "title" : "The Fritz 20 Duel: Sally Hamadeh vs. Mouse!"
       },
       {
+         "description" : "FIDE, the International Chess Federation, in a piece published on Tuesday, announced there are 100 days before the FIDE World Rapid and Blitz Championships are set to take place in Doha, Qatar. While they have kept last year&#39;s format for the Blitz...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-announces-fide-on-2025-world-blitz-championship-changes",
+         "pubDate" : "Wed, 17 Sep 2025 21:08:10",
+         "title" : "FIDE On World Blitz Format Change: 'Too Many Non-Games'"
+      },
+      {
          "description" : "What chessplayer hasn't, when staring down disaster, dreamed of moving not their own pieces but the adversary's, swapping defeat for a sudden delicious triumph? Ever generous with impossible wishes, fairy composers have conjured just that: All-in-Chess! Here, either side may move either colour, within a few carefully chosen limits, of course. While it's possible to play entire games this way, problemists summon AIC to craft zany puzzles that twist expectations and delight the imagination. If you've got a taste for the bizarre, the brain-twisting, and the exquisitely tricky, pull up a chair - you've arrived at just the right place!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-in-guwahati-on-20-21-september-2025/",
          "pubDate" : "Fri, 05 Sep 2025 10:34:39",
          "title" : "Senior National Arbiter Seminar & Examination in Guwahati on 20 & 21 September 2025"
-      },
-      {
-         "description" : "GM Alireza Firouzja is the only top-20 seed on a perfect 2/2 after grinding out a win in round two of the 2025 FIDE Grand Swiss, this time with Black against GM Maxim Rodshtein. He&#39;s joined in the lead by the 21st seed, GM Parham Maghsoodloo, and ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-2",
-         "pubDate" : "Fri, 05 Sep 2025 10:11:00",
-         "title" : "Gukesh Misses Win Vs. 14-Year-Old Erdogmus"
       },
       {
          "description" : "Last Updated on 5th September 2025 by WebAdmin Please note that the correct URLs to access the ECF LMS and Rating systems are as follows: https://rating.englishchess.org.uk/ https://lms.englishchess.org.uk/ The previous URLs...",
