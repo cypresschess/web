@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vincent Keymer needed a win in the final round of the FIDE Grand Swiss to get a spot in next year's Candidates Tournament, and faced second seed Arjun Erigaisi with black. The German star obtained a promising advantage but failed to find the precise continuation on several key moments, allowing Arjun to hold a draw. Below, Wolfram Sch&ouml;n analyses the critical points where Keymer could have pressed for more. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-arjun-keymer",
+         "pubDate" : "Fri, 19 Sep 2025 01:00:00",
+         "title" : "Grand Swiss: Keymer's (missed) path to victory in his final-round game against Arjun"
+      },
+      {
          "description" : "Victor Bologan's Chess Academy Vol. 3 & 4 offers a complete, low-maintenance repertoire for both White and Black, built on the philosophy of his legendary coach Chebanenko: focus on understanding typical pawn structures and recurring piece setups rather than memorising endless theory. For Black, Bologan recommends the universal 1&hellip;d6 system, leading to flexible Philidor-style positions against 1.e4 and solid setups against 1.d4, emphasizing resilience and strategic clarity. For White, the repertoire begins with 1.e4 followed by d3, using quiet but powerful systems like the King's Indian Attack, Closed Sicilian ideas, and anti-Caro-Kann setups-practical approaches that avoid heavy theor",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,22 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/uk-open-blitz-championship-2025/",
          "pubDate" : "Thu, 18 Sep 2025 06:00:21",
          "title" : "UK Open Blitz Championship 2025"
+      },
+      {
+         "description" : "US Chess is accepting applications for the position of Executive Director. The Executive Director is the chief executive officer of the organization and is a non-voting member of the US Chess Executive Board.Interested applicants should email (subject heading: ED Application) to Click here to show email address the following documents (in PDF format): (1) a letter of interest, (2) a resume, (3) three professional references, and (4) a writing sample no more than three pages. Applications should be submitted no later than 11:59 p.m. EDT on Friday, October 17, 2025.US Chess is committed to having an inclusive community and (as an Equal Opportunity Employer) does not discriminate in its hiring ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-seeks-executive-director-2025",
+         "pubDate" : "Thu, 18 Sep 2025 00:00:00",
+         "title" : "US Chess Seeks Executive Director"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> 2025 Grand Swiss and Women's Grand Swiss winners Anish Giri and Vaishali Rameshbabu (Photo courtesy Michal Walusza/FIDE)<br> <br> <br> <br> After almost two full weeks of play during the 2025 FIDE Grand Swiss in Samarkand, Uzbekistan, four players earned their \"FIDE Airlines\" boarding passes for the 2026 Candidates. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> From left: Anish Giri, Vaishali Rameshbabu, Matthias Bluebaum, and Kateryna Lagno qualifi",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/giri-vaishali-win-2025-grand-swiss",
+         "pubDate" : "Thu, 18 Sep 2025 00:00:00",
+         "title" : "Giri, Vaishali Win 2025 Grand Swiss"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to launch a program to support Affiliates who bring chess to students attending Title I schools for the 2025-2026 school year. This program is made possible by generous donors who are committed to helping us bring chess to underserved students. We believe that chess is transformative for children by improving their focus, aiding in decision making, and teaching that choices have consequences - lifelong skills that can be immediately applied in the classroom. We are seeking partnerships with US Chess Affiliates that offer chess programs to Title I schools, either as part of the school day or as an afters",
@@ -578,14 +602,6 @@ news_feed (
          "title" : "Mindsets: Chess in Education Conference to Take Place in New York City on December 6"
       },
       {
-         "description" : "This week's puzzles continue our series from last month's Saint Louis Rapid &amp; Blitz, where GM Levon Aronian won the five-day, 27-game marathon for the third time in his career. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-rapid-blitz-pt-2-0",
-         "pubDate" : "Tue, 09 Sep 2025 00:00:00",
-         "title" : "Tactics Tuesday: Saint Louis Rapid & Blitz, Pt. 2"
-      },
-      {
          "description" : "One of the longest-running tournaments in Spain sparked reactions this week after organizers tried to ban Israeli players and prevent them from competing under their national flag. Following backlash from players, media, and warnings from FIDE, th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -704,14 +720,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/sep/05/chess-gukesh-wins-impressively-on-silk-road-as-grand-swiss-starts-in-samarkand",
          "pubDate" : "Fri, 05 Sep 2025 07:00:19",
          "title" : "Chess: World champion Gukesh falters against teenager as Grand Swiss starts on Silk Road"
-      },
-      {
-         "description" : "US Chess Interest Survey Open for 2nd FIDE Chess Olympiad for People with Disabilities. The international event, organized by FIDE, and hosted by the Kazakhstan Chess Federation, will take place October 19 - October 26, in Astana, Kazakhstan.US Chess will be accepting interest registrations for eligible U.S. participants until Friday, September 12, 5PM Central time.TOURNAMENT DETAILS AND ELIGIBILITYEach event will be an 6-round Swiss system tournament, using a time control of 90 minutes for the first 40 moves plus 30 minutes, plus an addition of 30 seconds per move starting from move one.The full schedule for all rounds can be viewed within the regulations document at https://www.fide.com/wp",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/interest-survey-open-2nd-fide-chess-olympiad-people-disabilities",
-         "pubDate" : "Fri, 05 Sep 2025 00:00:00",
-         "title" : "Interest Survey Open for 2nd FIDE Chess Olympiad for People with Disabilities"
       },
       {
          "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the additional players and accompanying persons are required to",
