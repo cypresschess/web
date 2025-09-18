@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Victor Bologan's Chess Academy Vol. 3 & 4 offers a complete, low-maintenance repertoire for both White and Black, built on the philosophy of his legendary coach Chebanenko: focus on understanding typical pawn structures and recurring piece setups rather than memorising endless theory. For Black, Bologan recommends the universal 1&hellip;d6 system, leading to flexible Philidor-style positions against 1.e4 and solid setups against 1.d4, emphasizing resilience and strategic clarity. For White, the repertoire begins with 1.e4 followed by d3, using quiet but powerful systems like the King's Indian Attack, Closed Sicilian ideas, and anti-Caro-Kann setups-practical approaches that avoid heavy theor",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/victor-bologan-1-d6-universal-minimal-prep-1-e4-the-lazy-way",
+         "pubDate" : "Thu, 18 Sep 2025 20:52:49",
+         "title" : "Victor Bologan - 1...d6 universal - Minimal Prep & 1.e4 the lazy way"
+      },
+      {
          "description" : "From 17 to 25 September, the closed tournament \"Legends and Prodigies\" is being held in Madrid, featuring five GMs and five IMs in a generational clash. The event is a single round-robin with a classical time control. Among the participants are Peruvian GM Julio Granda, a legend of Latin American chess, alongside young talents Faustino Oro and Lu Miaoyi. The tournament will award a GM norm to players scoring 6/9 points. | Follow the games live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/uk-open-blitz-championship-2025/",
          "pubDate" : "Thu, 18 Sep 2025 06:00:21",
          "title" : "UK Open Blitz Championship 2025"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to launch a program to support Affiliates who bring chess to students attending Title I schools for the 2025-2026 school year. This program is made possible by generous donors who are committed to helping us bring chess to underserved students. We believe that chess is transformative for children by improving their focus, aiding in decision making, and teaching that choices have consequences - lifelong skills that can be immediately applied in the classroom. We are seeking partnerships with US Chess Affiliates that offer chess programs to Title I schools, either as part of the school day or as an afters",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-opens-2025-2026-title-i-school-outreach-program-affiliates-serving-risk-youth",
+         "pubDate" : "Thu, 18 Sep 2025 00:00:00",
+         "title" : "US Chess Opens 2025-2026 Title I School Outreach Program for Affiliates Serving At-Risk Youth "
       },
       {
          "description" : "Sally Hamadeh from Lebanon faced the \"Mouse\" (Strong Club Player) of Fritz 20. Things looked grim after an early blunder cost her a piece within just a few moves. Many players might have resigned on the spot, but not Sally. True to her attacking style, she seized the initiative with a bold pawn push on the kingside. Fritz 20 gives the player a chance to find some smooth tactics, luckily. The timid mouse faltered one last time, and suddenly the tables had turned: what began with a setback ended in a sparkling checkmate!",
@@ -696,14 +712,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/interest-survey-open-2nd-fide-chess-olympiad-people-disabilities",
          "pubDate" : "Fri, 05 Sep 2025 00:00:00",
          "title" : "Interest Survey Open for 2nd FIDE Chess Olympiad for People with Disabilities"
-      },
-      {
-         "description" : "It is said that no one can serve two masters. And so US Chess Executive Director Ranae Bartlett is trading Caïssa for the people of Madison, Alabama.<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> After serving on the Madison Board of Education (2011-2020) and City Council (2020-current), Bartlett won the Aug. 26 mayoral election with more than 56% of the vote. She will be inaugurated Nov. 3.Bartlett was named US Chess director of operations in September 2023, and became our executive director in March 2024. She departs US Chess on Oct. 21, but as mayor she'll keep her hand in the chess world.Newly elected to the Alabama Chess Hall of Fame, Bartlett will help run a che",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/mayor-bartlett-depart-us-chess-oct-21",
-         "pubDate" : "Fri, 05 Sep 2025 00:00:00",
-         "title" : "Mayor Bartlett to Depart US Chess Oct. 21"
       },
       {
          "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the additional players and accompanying persons are required to",
