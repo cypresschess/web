@@ -18,12 +18,12 @@ news_feed (
          "title" : "Updated ECF Junior Selection Policy"
       },
       {
-         "description" : "Doha gets ready to welcome the participants of the world's fastest chess tournament for a spectacular end to the year. FIDE today announced the regulations for the 2025 World Rapid and Blitz, which will be held from 25 to 30 December and feature a one million euro prize fund.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-rapid-blitz-championships-2025-100-days-to-go",
-         "pubDate" : "Fri, 19 Sep 2025 11:03:14",
-         "title" : "FIDE World Rapid & Blitz Championships 2025: 100 days to go"
+         "description" : "GM Hikaru Nakamura won Freestyle Friday on September 19, his seventh, reaching his final score of nine points with a win in the final round against GM Sina Movahed. Movahed, who was attempting to win the event for the third straight week, retained...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-freestyle-friday-september-19-2025",
+         "pubDate" : "Fri, 19 Sep 2025 11:21:58",
+         "title" : "Nakamura Stops Movahed's Freestyle Friday Streak At Last Moment"
       },
       {
          "description" : " The five-time Dutch champion and Germany's No 2, Matthias Bl&uuml;baum, were surprise qualifiers for the world title Candidates ahead of several more fancied rivals The $625,000 Grand Swiss in Samarkand, on the ancient Silk Road, was a hard-fought race for two qualifying spots in the 2026 world title Candidates, yet paradoxically it ended with victories for one grandmaster with a reputation for halved games and for another who nobody expected to do well. Anish Giri, the Netherlands No 1, took the $90,000 first prize with an unbeaten 8/11 total. The five-time Dutch champion's key game was in the final round against Hans Niemann, when the controversial American, who himself needed to win, had",
@@ -48,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2025-arjun-keymer",
          "pubDate" : "Fri, 19 Sep 2025 01:00:00",
          "title" : "Grand Swiss: Keymer's (missed) path to victory in his final-round game against Arjun"
+      },
+      {
+         "description" : "What are your National Chess Day plans? This year's festivities, set for Saturday, October 11, are exactly two months away. This is a great time to find a tournament in your area or even consider running one yourself! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> In order to encourage affiliates to host events, US Chess is offering free email blasts and waived rating fees for tournaments hosted on this day.On Chess Life Online, we plan on sharing some of the events planned for National Chess Day that have caught our eye. Feel free to email Click here to show email address with information about your event if you would be interested in possibly being featured in a futu",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/national-chess-day-preview-kentucky-chess-ambassadors-host-historic-blitz-bughouse-tournament",
+         "pubDate" : "Fri, 19 Sep 2025 00:00:00",
+         "title" : "National Chess Day Preview: Kentucky Chess Ambassadors Host Historic Blitz & Bughouse Tournament in Louisville "
       },
       {
          "description" : "Victor Bologan's Chess Academy Vol. 3 & 4 offers a complete, low-maintenance repertoire for both White and Black, built on the philosophy of his legendary coach Chebanenko: focus on understanding typical pawn structures and recurring piece setups rather than memorising endless theory. For Black, Bologan recommends the universal 1&hellip;d6 system, leading to flexible Philidor-style positions against 1.e4 and solid setups against 1.d4, emphasizing resilience and strategic clarity. For White, the repertoire begins with 1.e4 followed by d3, using quiet but powerful systems like the King's Indian Attack, Closed Sicilian ideas, and anti-Caro-Kann setups-practical approaches that avoid heavy theor",
@@ -186,14 +194,6 @@ news_feed (
          "title" : "Ivan Sokolov shows his class in Salzgitter-Bad!"
       },
       {
-         "description" : "It happened almost without notice, because it is so rare. Yagiz Erdogmus came swooping in and took the record for the second youngest player ever to enter the Top 100. We are conditioned to seek the youngest grandmaster or the youngest 2600 (he's that too), but actually entering the Top 100 before the age of 15 is a feat accomplished by only three players, and Erdogmus is one. | Photo: Michal Walusza/FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/yagiz-erdogmus-the-youngest-top-100-in-36-years",
-         "pubDate" : "Tue, 16 Sep 2025 14:00:00",
-         "title" : "Yagiz Erdogmus: The youngest Top 100 in 36 years"
-      },
-      {
          "description" : "GM Magnus Carlsen won Titled Tuesday for the second straight week on September 16, scoring 10.5 points with only a draw against GM Jan-Krzysztof Duda preventing him from the perfect 11/11 in what he called &#34;definitely one of my more comfortable Ti...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -288,14 +288,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-august-2025/",
          "pubDate" : "Mon, 15 Sep 2025 05:41:34",
          "title" : "ECU E-Magazine August 2025"
-      },
-      {
-         "description" : "For many, the passing of Jacob Murey will elicit a passing nod, or barely that as a name that brings no recognition. This is fair, but for the chess community located in Paris, France, he was a deeply respected character and fixture who left an indelible mark.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jacob-murey-in-paris-a-personal-recollection",
-         "pubDate" : "Sun, 14 Sep 2025 23:40:00",
-         "title" : "Jacob Murey in Paris - A personal recollection"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123887458.cms\" />Indian Grandmaster R Vaishali surged into a joint lead at the FIDE Grand Swiss in Samarkand, Uzbekistan, after defeating former world champion Mariya Muzychuk. Vaishali's victory puts her alongside Kateryna Lagno with 7.5 points. In the open section, Indian hopes for Candidates Tournament qualification dimmed as Arjun Erigaisi, Nihal Sarin drew their respective games and Praggnanandhaa lost.",
@@ -626,14 +618,6 @@ news_feed (
          "title" : "Double blow for India! Gukesh stunned by Mishra; Praggnanandhaa falls to Bluebaum"
       },
       {
-         "description" : "The National Scholastic Chess Foundation (NSCF), in partnership with the Kasparov Chess Foundation (KCF), is proud to announce Mindsets: The New York Chess in Education Conference, a premier event for educators, school administrators, and chess instructors. This one-day conference, taking place on Saturday, December 6, 2025, at Quorum in New York City, is designed to empower educators with the tools and knowledge to effectively integrate chess into their curricula and unlock its full potential for student development. Drawing broadly on the concept of mindsets, this conference will explore the role of chess in education-ranging from fundamental concerns about curriculum, educational policy, ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/mindsets-chess-education-conference-take-place-new-york-city-december-6",
-         "pubDate" : "Tue, 09 Sep 2025 00:00:00",
-         "title" : "Mindsets: Chess in Education Conference to Take Place in New York City on December 6"
-      },
-      {
          "description" : "One of the longest-running tournaments in Spain sparked reactions this week after organizers tried to ban Israeli players and prevent them from competing under their national flag. Following backlash from players, media, and warnings from FIDE, th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -714,14 +698,6 @@ news_feed (
          "title" : "Nhat Minh Defends Title Of Duck Chess Champion"
       },
       {
-         "description" : "GM Sina Movahed has become the sixth two-time winner of Freestyle Friday, winning his last six games on September 5 to take first place on tiebreaks&#38;nbsp;ahead of GM Zhamsaran Tsydypov, and 1.5 points ahead of the rest of the 116-player field. The...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/movahed-wins-freestyle-friday-september-5-2025",
-         "pubDate" : "Fri, 05 Sep 2025 11:11:39",
-         "title" : "Movahed Joins Multi-Time Winner List With Six-Game Win Streak"
-      },
-      {
          "description" : "On behalf of All India Chess Federation , All Assam State Chess Association is organizing Senior National Hotel Ornate, near Nehru Stadium in Guwahati ,Assam on 21",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -800,14 +776,6 @@ news_feed (
          "link" : "https://www.thearticle.com/senior-moments/",
          "pubDate" : "Sat, 30 Aug 2025 12:17:54",
          "title" : "Senior moments "
-      },
-      {
-         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-26th-august-2025\">Titled Tuesday Blitz for the 26th August</a> was the last under the current format. This Chess.com event has run since 2014 and has had an early and late section since 2022. From the 2nd September there will be just one Titled Tuesday Blitz each week, it will take place at 11am Eastern Standard Time, 17:00 Central European Time and 20:30 Indian time. Other changes include a move to five minutes per game and a weekly live show produced by the chess app \"Take Take Take\". Titled Tuesday will be part of Chess.com's qualification process for the Esports World Cup (EWC) which will take place in Riddah ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess.com-make-changes-to-titled-tuesday-announce-take-take-take-agreement-and-ewc-qualification-process",
-         "pubDate" : "Fri, 29 Aug 2025 18:05:00",
-         "title" : "Chess.com make changes to Titled Tuesday, announce \"Take Take Take\" agreement, and EWC qualification process - "
       }
    ]
 }
