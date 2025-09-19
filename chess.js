@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Doha gets ready to welcome the participants of the world's fastest chess tournament for a spectacular end to the year. FIDE today announced the regulations for the 2025 World Rapid and Blitz, which will be held from 25 to 30 December and feature a one million euro prize fund.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-rapid-blitz-championships-2025-100-days-to-go",
+         "pubDate" : "Fri, 19 Sep 2025 11:03:14",
+         "title" : "FIDE World Rapid & Blitz Championships 2025: 100 days to go"
+      },
+      {
          "description" : " The five-time Dutch champion and Germany's No 2, Matthias Bl&uuml;baum, were surprise qualifiers for the world title Candidates ahead of several more fancied rivals The $625,000 Grand Swiss in Samarkand, on the ancient Silk Road, was a hard fought race for two qualifying spots in the 2026 world title Candidates, yet paradoxically it ended with victories for one grandmaster with a reputation for halved games and for another who nobody expected to do well. Anish Giri, the Netherlands No 1, took the $90,000 first prize with an unbeaten 8/11 total. The five-time Dutch champion's key game was in the final round against Hans Niemann, when the controversial American, who himself needed to win, had",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/victor-bologan-1-d6-universal-minimal-prep-1-e4-the-lazy-way",
          "pubDate" : "Thu, 18 Sep 2025 20:52:49",
          "title" : "Victor Bologan - 1...d6 universal - Minimal Prep & 1.e4 the lazy way"
-      },
-      {
-         "description" : "From 17 to 25 September, the closed tournament \"Legends and Prodigies\" is being held in Madrid, featuring five GMs and five IMs in a generational clash. The event is a single round-robin with a classical time control. Among the participants are Peruvian GM Julio Granda, a legend of Latin American chess, alongside young talents Faustino Oro and Lu Miaoyi. The tournament will award a GM norm to players scoring 6/9 points. | Follow the games live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2025-live",
-         "pubDate" : "Thu, 18 Sep 2025 16:00:00",
-         "title" : "Legends & Prodigies - Live!"
       },
       {
          "description" : "On October 12, the U.S. Championship begins in St. Louis. Twelve of the country's top players will compete, nine of whom also played in the Grand Swiss, which concluded on September 15 in Samarkand. Their performances there point to an interesting championship, with Abhimanyu Mishra and Andy Woodward delivering particularly notable results. | Photo: Michal Walusza/FIDE",
@@ -130,7 +130,7 @@ news_feed (
          "title" : "Helmut Pfleger on Maurice Ashley"
       },
       {
-         "description" : "Last Updated on 18th September 2025 by WebAdmin The much awaited Live Chess World League 2025/S2 (Season 14) is now underway on Chess.com with teams from around the world playing...",
+         "description" : "Last Updated on 19th September 2025 by WebAdmin The much awaited Live Chess World League 2025/S2 (Season 14) is now underway on Chess.com with teams from around the world playing...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/live-chess-world-league-2025-s2/",
@@ -426,7 +426,7 @@ news_feed (
          "title" : "Nihal, Bluebaum Grab Grand Swiss Lead; Gukesh Loses 3rd Game"
       },
       {
-         "description" : "Last Updated on 11th September 2025 by WebAdmin There was a large number of nominations this year, and the Chess Trust made eight awards as follows: St Catherine's School Bramley;&#160;Stockport...",
+         "description" : "Last Updated on 19th September 2025 by WebAdmin There was a large number of nominations this year, and the Chess Trust made eight awards as follows: St Catherine's School Bramley;&#160;Stockport...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2025/",
@@ -498,7 +498,7 @@ news_feed (
          "title" : "Nakamura Kicks Off First Titled Tuesday After Party With Win"
       },
       {
-         "description" : "Last Updated on 10th September 2025 by WebAdmin The four books selected show the long history and variety of chess. Two books cover the life of a player with a...",
+         "description" : "Last Updated on 19th September 2025 by WebAdmin The four books selected show the long history and variety of chess. Two books cover the life of a player with a...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-shortlist-4/",
@@ -714,7 +714,7 @@ news_feed (
          "title" : "Senior National Arbiter Seminar & Examination in Guwahati on 20 & 21 September 2025"
       },
       {
-         "description" : "Last Updated on 5th September 2025 by WebAdmin Please note that the correct URLs to access the ECF LMS and Rating systems are as follows: https://rating.englishchess.org.uk/ https://lms.englishchess.org.uk/ The previous URLs...",
+         "description" : "Last Updated on 19th September 2025 by WebAdmin Please note that the correct URLs to access the ECF LMS and Rating systems are as follows: https://rating.englishchess.org.uk/ https://lms.englishchess.org.uk/ The previous URLs...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/accessing-ecf-lms-and-rating/",
@@ -800,14 +800,6 @@ news_feed (
          "link" : "https://www.europechess.org/communication-of-the-ecu-board-meeting/",
          "pubDate" : "Fri, 29 Aug 2025 11:36:50",
          "title" : "Communication of the ECU Board Meeting"
-      },
-      {
-         "description" : "European Union Youth U8-U14 Chess Championship concluded in Roznov pod Radhostem, Czech Republic! The last rounds were full of fights and tension. In category Boys U8, Lev Jevglevski (EST) took the first place scoring 9 our of 9 points(!), the second place went to David-Christian Talaba (ROU) and Daniel Sava (ROU) won bronze. In category Girls U8, Sophia-Lenina Matala (ROU) won gold, Sare Adam (FRA) won silver medal and Pausader Ines Bravo (FRA) came third. Filip Sirbu (FRA) became the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-union-u8-u14-chess-champions-crowned-in-czech-republic/",
-         "pubDate" : "Fri, 29 Aug 2025 07:31:13",
-         "title" : "European Union U8-U14 Chess Champions crowned in Czech Republic"
       }
    ]
 }
