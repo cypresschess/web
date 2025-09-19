@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The five-time Dutch champion and Germany's No 2, Matthias Bl&uuml;baum, were surprise qualifiers for the world title Candidates ahead of several more fancied rivals The $625,000 Grand Swiss in Samarkand, on the ancient Silk Road, was a hard fought race for two qualifying spots in the 2026 world title Candidates, yet paradoxically it ended with victories for one grandmaster with a reputation for halved games and for another who nobody expected to do well. Anish Giri, the Netherlands No 1, took the $90,000 first prize with an unbeaten 8/11 total. The five-time Dutch champion's key game was in the final round against Hans Niemann, when the controversial American, who himself needed to win, had",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/sep/19/chess-draw-king-anish-giri-grinds-to-90000-prize-at-grand-swiss-on-the-silk-road",
+         "pubDate" : "Fri, 19 Sep 2025 07:00:38",
+         "title" : "Chess: draw king Anish Giri grinds to $90,000 prize at Grand Swiss on the Silk Road"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123990810.cms\" />After a devastating performance at the Chennai Grand Masters, Grandmaster R Vaishali contemplated withdrawing from the FIDE Grand Swiss. Encouraged by her brother, GM R Praggnanandhaa, and GM Karthikeyan Murali, she participated without preparation. Surprisingly, Vaishali defended her Grand Swiss title in Samarkand, Uzbekistan, and secured a spot in the 2026 FIDE Women's Candidates tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-vaishalis-journey-from-twilight-zone-to-swiss-sunrise/articleshow/123990810.cms",
+         "pubDate" : "Fri, 19 Sep 2025 05:39:23",
+         "title" : "R Vaishali's journey: From twilight zone to Swiss sunrise"
+      },
+      {
          "description" : "Vincent Keymer needed a win in the final round of the FIDE Grand Swiss to get a spot in next year's Candidates Tournament, and faced second seed Arjun Erigaisi with black. The German star obtained a promising advantage but failed to find the precise continuation on several key moments, allowing Arjun to hold a draw. Below, Wolfram Sch&ouml;n analyses the critical points where Keymer could have pressed for more. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -634,14 +650,6 @@ news_feed (
          "title" : "Certificates of SNA Seminar & Exam held in Agartala on 21 & 22 September 2025"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123756910.cms\" />Teen chess prodigy GM Divya Deshmukh, after a shaky start at the Grand Swiss, stunned Africa's top-rated GM Bassem Amin. Playing with black, Divya showcased resilience in the Sicilian Defence, capitalising on Amin's aggressive play. Despite a challenging opening, she seized the initiative, converting a rook sacrifice into a decisive advantage. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/historic-chess-victory-how-divya-deshmukh-beat-higher-ranked-africa-no-1-bassem-amin-at-fide-grand-swiss/articleshow/123756910.cms",
-         "pubDate" : "Mon, 08 Sep 2025 04:13:09",
-         "title" : "Historic! How Divya Deshmukh beat No. 1 Bassem Amin at FIDE Grand Swiss"
-      },
-      {
          "description" : "Turkish prodigy GM Yagiz Kaan Erdogmus won what GM David Howell called an &#34;Evergreen&#34; game in round four of the 2025 FIDE Grand Swiss to join a 13-way tie for second place behind GM Parham Maghsoodloo. It was mainly draws at the top, but 18-year-o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -800,14 +808,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-union-u8-u14-chess-champions-crowned-in-czech-republic/",
          "pubDate" : "Fri, 29 Aug 2025 07:31:13",
          "title" : "European Union U8-U14 Chess Champions crowned in Czech Republic"
-      },
-      {
-         "description" : " Every game among the top seven finishers was halved, despite a regulation in the event forbidding agreed draws The $350,000 (&pound;250,000) Sinquefield Cup is one of the most iconic annual events in the chess calendar. Part of the Grand Chess Tour and named after the St Louis billionaire Rex Sinquefield, who has been the most generous individual sponsor in all chess history, it will be remembered for Fabiano Caruana's 7/7 start in 2014 and his record 3098 tournament performance, for Ding Liren's victory ahead of Magnus Carlsen in 2019, and, most of all, for the controversial 2022 Carlsen-Hans Niemann alleged cheating scandal. For 2025, the organisers introduced a four-player Tour Final at ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/aug/29/chess-wesley-so-wins-350000-sinquefield-cup-as-world-champion-gukesh-fails-again",
-         "pubDate" : "Fri, 29 Aug 2025 07:00:09",
-         "title" : "Chess: Wesley So wins $350,000 Sinquefield Cup as world champion Gukesh fails again"
       }
    ]
 }
