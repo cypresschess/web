@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 17 to 25 September, the closed tournament \"Legends and Prodigies\" is being held in Madrid, featuring five GMs and five IMs in a generational clash. The event is a single round-robin with a classical time control. Among the participants are Peruvian GM Julio Granda, a legend of Latin American chess, alongside young talents Faustino Oro and Lu Miaoyi. The tournament will award a GM norm to players scoring 6/9 points. | Follow the games live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2025-live",
+         "pubDate" : "Fri, 19 Sep 2025 16:00:00",
+         "title" : "Legends & Prodigies, Round 3 - Live!"
+      },
+      {
+         "description" : "Last Updated on 19th September 2025 by WebAdmin The ECF's Junior Selection Policy has been updated to reflect changes in the way England Juniors will be selected and qualify for...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/updated-ecf-junior-selection-policy/",
+         "pubDate" : "Fri, 19 Sep 2025 14:22:37",
+         "title" : "Updated ECF Junior Selection Policy"
+      },
+      {
          "description" : "Doha gets ready to welcome the participants of the world's fastest chess tournament for a spectacular end to the year. FIDE today announced the regulations for the 2025 World Rapid and Blitz, which will be held from 25 to 30 December and feature a one million euro prize fund.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +26,7 @@ news_feed (
          "title" : "FIDE World Rapid & Blitz Championships 2025: 100 days to go"
       },
       {
-         "description" : " The five-time Dutch champion and Germany's No 2, Matthias Bl&uuml;baum, were surprise qualifiers for the world title Candidates ahead of several more fancied rivals The $625,000 Grand Swiss in Samarkand, on the ancient Silk Road, was a hard fought race for two qualifying spots in the 2026 world title Candidates, yet paradoxically it ended with victories for one grandmaster with a reputation for halved games and for another who nobody expected to do well. Anish Giri, the Netherlands No 1, took the $90,000 first prize with an unbeaten 8/11 total. The five-time Dutch champion's key game was in the final round against Hans Niemann, when the controversial American, who himself needed to win, had",
+         "description" : " The five-time Dutch champion and Germany's No 2, Matthias Bl&uuml;baum, were surprise qualifiers for the world title Candidates ahead of several more fancied rivals The $625,000 Grand Swiss in Samarkand, on the ancient Silk Road, was a hard-fought race for two qualifying spots in the 2026 world title Candidates, yet paradoxically it ended with victories for one grandmaster with a reputation for halved games and for another who nobody expected to do well. Anish Giri, the Netherlands No 1, took the $90,000 first prize with an unbeaten 8/11 total. The five-time Dutch champion's key game was in the final round against Hans Niemann, when the controversial American, who himself needed to win, had",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/sep/19/chess-draw-king-anish-giri-grinds-to-90000-prize-at-grand-swiss-on-the-silk-road",
@@ -792,14 +808,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/chess.com-make-changes-to-titled-tuesday-announce-take-take-take-agreement-and-ewc-qualification-process",
          "pubDate" : "Fri, 29 Aug 2025 18:05:00",
          "title" : "Chess.com make changes to Titled Tuesday, announce \"Take Take Take\" agreement, and EWC qualification process - "
-      },
-      {
-         "description" : "The European Chess Union held its latest Board Meeting on 19 August 2025, via Zoom, chaired by ECU President Zurab Azmaiparashvili. Key Information and Decisions European Chess Championships",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/communication-of-the-ecu-board-meeting/",
-         "pubDate" : "Fri, 29 Aug 2025 11:36:50",
-         "title" : "Communication of the ECU Board Meeting"
       }
    ]
 }
