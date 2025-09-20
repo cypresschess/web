@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "On behalf of All India Chess Federation , Tamil Nadu Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Prince Shri Venkateshwara Arts &#38; Science",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-and-exam-in-chennai-on-25th-26th-october-2025/",
-         "pubDate" : "Sat, 20 Sep 2025 06:52:33",
-         "title" : "SNA seminar and Exam in Chennai on 25th & 26th October, 2025"
+         "description" : "Britain's leading Grandmaster for many decades, Mickey Adams, has enjoyed a spectacular run of recent successes: a first and a second place in the London classic, victory in the over-fifties world senior championship, success in the Cambridge open, first in the English championship, not to mention his ninth British championship title this year. In the []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/mickeys-meltdown-in-poland/",
+         "pubDate" : "Sat, 20 Sep 2025 09:11:19",
+         "title" : "Mickey's meltdown in Poland"
       },
       {
          "description" : "From 17 to 25 September, the closed tournament \"Legends and Prodigies\" is being held in Madrid, featuring five GMs and five IMs in a generational clash. The event is a single round-robin with a classical time control. Among the participants are Peruvian GM Julio Granda, a legend of Latin American chess, alongside young talents Faustino Oro and Lu Miaoyi. The tournament will award a GM norm to players scoring 6/9 points. | Follow the games live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
