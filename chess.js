@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "From 17 to 25 September, the closed tournament \"Legends and Prodigies\" is being held in Madrid, featuring five GMs and five IMs in a generational clash. The event is a single round-robin with a classical time control. Among the participants are Peruvian GM Julio Granda, a legend of Latin American chess, alongside young talents Faustino Oro and Lu Miaoyi. The tournament will award a GM norm to players scoring 6/9 points. | Follow the games live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
+         "description" : "The FIDE World Cup 2025 in Goa will see five notable invitees joining the 206-player knockout field, as confirmed by FIDE President Arkady Dvorkovich. Among them are 11-year-old Argentine prodigy Faustino Oro, Americans Abhimanyu Mishra and Andy Woodward, world rapid champion Volodar Murzin, and Austrian GM Kirill Alekseenko. The tournament, running from 30 October to 27 November, offers not only prestige and prizes but also qualification spots for the Candidates Tournament.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2025-live",
-         "pubDate" : "Sat, 20 Sep 2025 16:00:00",
-         "title" : "Legends & Prodigies, Round 4 - Live!"
+         "link" : "https://en.chessbase.com/post/world-cup-2025-invited-youngsters",
+         "pubDate" : "Sat, 20 Sep 2025 17:30:00",
+         "title" : "A new generation of chess players gets an invite for the FIDE World Cup"
       },
       {
          "description" : "Yes, you can improve your chess by training the wrong way. Actually, it happens more often than you might think. Let's say a million people are using a random chess improvement method. They jump around YouTube, watch whatever pops up, maybe buy some random opening courses, and then play a few games. Out of that []",
