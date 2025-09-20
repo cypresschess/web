@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 17 to 25 September, the closed tournament \"Legends and Prodigies\" is being held in Madrid, featuring five GMs and five IMs in a generational clash. The event is a single round-robin with a classical time control. Among the participants are Peruvian GM Julio Granda, a legend of Latin American chess, alongside young talents Faustino Oro and Lu Miaoyi. The tournament will award a GM norm to players scoring 6/9 points. | Follow the games live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2025-live",
+         "pubDate" : "Sat, 20 Sep 2025 16:00:00",
+         "title" : "Legends & Prodigies, Round 4 - Live!"
+      },
+      {
+         "description" : "Yes, you can improve your chess by training the wrong way. Actually, it happens more often than you might think. Let's say a million people are using a random chess improvement method. They jump around YouTube, watch whatever pops up, maybe buy some random opening courses, and then play a few games. Out of that []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/random-success-stories/",
+         "pubDate" : "Sat, 20 Sep 2025 13:00:00",
+         "title" : "Why You Shouldn't Copy Random Success Stories in Chess Improvement"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124013864.cms\" />The FIDE Grand Swiss 2025 witnessed Anish Giri's triumph and Vaishali Rameshbabu's repeat victory, alongside Matthias Bluebaum's unexpected Candidates qualification. Despite Gukesh Dommaraju's stumble, the event highlighted India's mixed fortunes and the rise of young talents like America's Abhimanyu Mishra. Divya Deshmukh's fearless performance in the Open section also underscored the growing strength of women in chess, inspiring future participation.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-d-gukesh-is-not-even-20-yet-fide-grand-swiss-2025-was-an-eye-opener-in-many-ways/articleshow/124013864.cms",
+         "pubDate" : "Sat, 20 Sep 2025 11:17:34",
+         "title" : "'Gukesh is not even 20 yet': Grand Swiss was an eye-opener in many ways"
+      },
+      {
          "description" : "Britain's leading Grandmaster for many decades, Mickey Adams, has enjoyed a spectacular run of recent successes: a first and a second place in the London classic, victory in the over-fifties world senior championship, success in the Cambridge open, first in the English championship, not to mention his ninth British championship title this year. In the []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/mickeys-meltdown-in-poland/",
          "pubDate" : "Sat, 20 Sep 2025 09:11:19",
          "title" : "Mickey's meltdown in Poland"
-      },
-      {
-         "description" : "From 17 to 25 September, the closed tournament \"Legends and Prodigies\" is being held in Madrid, featuring five GMs and five IMs in a generational clash. The event is a single round-robin with a classical time control. Among the participants are Peruvian GM Julio Granda, a legend of Latin American chess, alongside young talents Faustino Oro and Lu Miaoyi. The tournament will award a GM norm to players scoring 6/9 points. | Follow the games live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2025-live",
-         "pubDate" : "Fri, 19 Sep 2025 16:00:00",
-         "title" : "Legends & Prodigies, Round 3 - Live!"
       },
       {
          "description" : "Last Updated on 19th September 2025 by WebAdmin The ECF's Junior Selection Policy has been updated to reflect changes in the way England Juniors will be selected and qualify for...",
@@ -58,7 +74,7 @@ news_feed (
          "title" : "Grand Swiss: Keymer's (missed) path to victory in his final-round game against Arjun"
       },
       {
-         "description" : "What are your National Chess Day plans? This year's festivities, set for Saturday, October 11, are exactly two months away. This is a great time to find a tournament in your area or even consider running one yourself! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> In order to encourage affiliates to host events, US Chess is offering free email blasts and waived rating fees for tournaments hosted on this day.On Chess Life Online, we plan on sharing some of the events planned for National Chess Day that have caught our eye. Feel free to email Click here to show email address with information about your event if you would be interested in possibly being featured in a futu",
+         "description" : "What are your National Chess Day plans? This year's festivities, set for Saturday, October 11, are just over two weeks away. This is a great time to find a tournament in your area or even consider running one yourself! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> In order to encourage affiliates to host events, US Chess is offering free email blasts and waived rating fees for tournaments hosted on this day.On Chess Life Online, we plan on sharing some of the events planned for National Chess Day that have caught our eye. Feel free to email Click here to show email address with information about your event if you would be interested in possibly being featured in a fut",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/national-chess-day-preview-kentucky-chess-ambassadors-host-historic-blitz-bughouse-tournament",
@@ -618,14 +634,6 @@ news_feed (
          "title" : "Gukesh's biggest defeat? How American GM Mishra aced the battle of youngest chess icons"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123776236.cms\" />Top seed Grandmaster R Praggnanandhaa suffered a shock defeat at the hands of Germany's Matthias Bluebaum, while reigning World Champion D Gukesh went down to Abhimanyu Mishra of the USA - the youngest Grandmaster in chess history - in the fifth round of the FIDE Grand Swiss on Monday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-double-blow-for-india-gukesh-stunned-by-abhimanyu-mishra-praggnanandhaa-falls-to-matthias-bluebaum/articleshow/123776236.cms",
-         "pubDate" : "Tue, 09 Sep 2025 01:40:18",
-         "title" : "Double blow for India! Gukesh stunned by Mishra; Praggnanandhaa falls to Bluebaum"
-      },
-      {
          "description" : "One of the longest-running tournaments in Spain sparked reactions this week after organizers tried to ban Israeli players and prevent them from competing under their national flag. Following backlash from players, media, and warnings from FIDE, th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -760,30 +768,6 @@ news_feed (
          "link" : "https://www.europechess.org/katowice-to-host-the-european-individual-chess-championship-2026/",
          "pubDate" : "Mon, 01 Sep 2025 12:15:11",
          "title" : "Katowice to Host the European Individual Chess Championship 2026"
-      },
-      {
-         "description" : "I recently saw a YouTube short of Magnus Carlsen sharing one of the best advice he got early on in his career. It made me understand why so many amateur chess players feel they have to play several openings when there is absolutely no reason for it. He says this: \"Maybe the best advice I []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/chess-openings-for-adult-improvers/",
-         "pubDate" : "Sat, 30 Aug 2025 13:00:00",
-         "title" : "Why Playing Many Different Openings Won't Work For You"
-      },
-      {
-         "description" : "No Name1 Diva Zalani2 Rupinder Kumar3 Harikrishan Prajapati4 Prince Lobo5 Md. Shahid6 Avinya Mohan Singh7 Kumar Bansal8 Singh Gursher9 Samneet Munde10 Dinesh Kumar11 Neha Supinder",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-sna-seminar-and-exam-held-in-bathinda-on-15-16-august-2025/",
-         "pubDate" : "Sat, 30 Aug 2025 12:54:04",
-         "title" : "Certificate of SNA seminar and Exam held in Bathinda on 15 & 16 August 2025"
-      },
-      {
-         "description" : "The 2025 British Chess Championship, held in Liverpool earlier this month, ended with a reminder that age still counts for something. The winner was 53-year-old Michael (\"Mickey\") Adams, taking his ninth national title. His opponent in the final play-off was 58-year-old Stuart Conquest, also a former champion. Between them they had beaten a string of []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/senior-moments/",
-         "pubDate" : "Sat, 30 Aug 2025 12:17:54",
-         "title" : "Senior moments "
       }
    ]
 }
