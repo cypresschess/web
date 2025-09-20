@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On behalf of All India Chess Federation , Tamil Nadu Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Prince Shri Venkateshwara Arts &#38; Science",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-and-exam-in-chennai-on-25th-26th-october-2025/",
+         "pubDate" : "Sat, 20 Sep 2025 06:52:33",
+         "title" : "SNA seminar and Exam in Chennai on 25th & 26th October, 2025"
+      },
+      {
          "description" : "From 17 to 25 September, the closed tournament \"Legends and Prodigies\" is being held in Madrid, featuring five GMs and five IMs in a generational clash. The event is a single round-robin with a classical time control. Among the participants are Peruvian GM Julio Granda, a legend of Latin American chess, alongside young talents Faustino Oro and Lu Miaoyi. The tournament will award a GM norm to players scoring 6/9 points. | Follow the games live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
