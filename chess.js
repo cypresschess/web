@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It's once again time to think about aesthetics in ChessBase 18 training: Have you ever noticed the \"Style\" option? If not, in this episode we'll explain briefly and concisely how you can better adapt your screen display to your own taste.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-32-training-with-style",
+         "pubDate" : "Sun, 21 Sep 2025 07:00:00",
+         "title" : "ChessBase 18 - Tips for Beginners, part 32: Training with style"
+      },
+      {
          "description" : "GM Hikaru Nakamura has moved one step closer to a historic 50th Bullet Brawl title after outscoring GMs Andrew Tang, Daniel Naroditsky, and 196 hungry titled players on Saturday.&#38;nbsp; Nakamura scored 174 points in the two-hour arena and won the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
