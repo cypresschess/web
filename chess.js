@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ferrari drivers Charles Leclerc and Lewis Hamilton share a common interest in chess, often playing against each other and discussing the game publicly. Their rivalry has included light-hearted stories about online matches and mutual \"cheating\". Ahead of the recent Baku Grand Prix, the two met Azerbaijani grandmaster Teimour Radjabov, who observed their play and presented them with a chess-themed gift, highlighting the cultural and strategic links between motorsport and chess. | Photo: Racing News 365",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/radjabov-ferrari-baku-2025",
+         "pubDate" : "Sun, 21 Sep 2025 20:00:00",
+         "title" : "Teimour Radjabov meets Formula 1 Ferrari drivers for a game of chess"
+      },
+      {
+         "description" : "From 17 to 25 September, the closed tournament \"Legends and Prodigies\" is being held in Madrid, featuring five GMs and five IMs in a generational clash. The event is a single round-robin with a classical time control. Among the participants are Peruvian GM Julio Granda, a legend of Latin American chess, alongside young talents Faustino Oro and Lu Miaoyi. The tournament will award a GM norm to players scoring 6/9 points. | Follow the games live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2025-live",
+         "pubDate" : "Sun, 21 Sep 2025 16:00:00",
+         "title" : "Legends & Prodigies, Round 5 - Live!"
+      },
+      {
          "description" : "It's once again time to think about aesthetics in ChessBase 18 training: Have you ever noticed the \"Style\" option? If not, in this episode we'll explain briefly and concisely how you can better adapt your screen display to your own taste.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
