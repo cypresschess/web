@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hikaru Nakamura has moved one step closer to a historic 50th Bullet Brawl title after outscoring GMs Andrew Tang, Daniel Naroditsky, and 196 hungry titled players on Saturday.&#38;nbsp; Nakamura scored 174 points in the two-hour arena and won the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-sep-20-2025",
+         "pubDate" : "Sat, 20 Sep 2025 18:39:00",
+         "title" : "Nakamura Wins 48th Bullet Brawl Title Ahead Of Tang, Naroditsky"
+      },
+      {
          "description" : "The FIDE World Cup 2025 in Goa will see five notable invitees joining the 206-player knockout field, as confirmed by FIDE President Arkady Dvorkovich. Among them are 11-year-old Argentine prodigy Faustino Oro, Americans Abhimanyu Mishra and Andy Woodward, world rapid champion Volodar Murzin, and Austrian GM Kirill Alekseenko. The tournament, running from 30 October to 27 November, offers not only prestige and prizes but also qualification spots for the Candidates Tournament.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -704,14 +712,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-3",
          "pubDate" : "Sat, 06 Sep 2025 11:11:00",
          "title" : "Maghsoodloo, Vaishali Take Sole Grand Swiss Lead On 3/3"
-      },
-      {
-         "description" : "Duck Chess Champion IM Nhat Minh To defended his title in the&#38;nbsp;2025 Duck Chess Championship Final, and convincingly so. He won all four of his matches 3-0, literally winning all 12 games, to earn $750. He defeated runner-up IM Eric Rosen (earn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-duck-chess-championship-nhat-wins",
-         "pubDate" : "Fri, 05 Sep 2025 20:29:00",
-         "title" : "Nhat Minh Defends Title Of Duck Chess Champion"
       },
       {
          "description" : "On behalf of All India Chess Federation , All Assam State Chess Association is organizing Senior National Hotel Ornate, near Nehru Stadium in Guwahati ,Assam on 21",
