@@ -42,14 +42,6 @@ news_feed (
          "title" : "Teimour Radjabov meets Formula 1 Ferrari drivers for a game of chess"
       },
       {
-         "description" : "From 17 to 25 September, the closed tournament \"Legends and Prodigies\" is being held in Madrid, featuring five GMs and five IMs in a generational clash. The event is a single round-robin with a classical time control. Among the participants are Peruvian GM Julio Granda, a legend of Latin American chess, alongside young talents Faustino Oro and Lu Miaoyi. The tournament will award a GM norm to players scoring 6/9 points. | Follow the games live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2025-live",
-         "pubDate" : "Sun, 21 Sep 2025 16:00:00",
-         "title" : "Legends & Prodigies, Round 5 - Live!"
-      },
-      {
          "description" : "It's once again time to think about aesthetics in ChessBase 18 training: Have you ever noticed the \"Style\" option? If not, in this episode we'll explain briefly and concisely how you can better adapt your screen display to your own taste.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
