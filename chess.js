@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124052363.cms\" />Divya Deshmukh, India's 19-year-old Grandmaster, has received a wild card entry into the FIDE World Cup 2025 in Goa after a last-minute withdrawal. She will join 20 other Indian players, including world champion D Gukesh, in the knockout tournament. The biennial event features 206 top players, with the top three finishers qualifying for the 2026 Candidates Tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-2025-divya-deshmukh-handed-wild-card/articleshow/124052363.cms",
+         "pubDate" : "Mon, 22 Sep 2025 15:14:05",
+         "title" : "FIDE World Cup 2025: Divya Deshmukh handed wild card"
+      },
+      {
          "description" : "\"How to think like a chess player and win at life\" is the latest book by three-time US national chess champion, Jennifer Shahade. It offers essential life lessons from the world of chess - from making smarter choices to building focus and confidence. Chess players are experts in considering their options, allowing them to seize an opportunity, idea, or make a move that no one else saw. Shahade calls this \"thinking sideways\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -682,14 +690,6 @@ news_feed (
          "title" : "27th Asian Youth Chess Championships - 2025 in Bangkok, Thailand from 20th to 30th November, 2025."
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123779458.cms\" />Erdogmus Yagiz Kaan, a 14-year-old Turkish chess prodigy, achieved a remarkable checkmate against India's Aditya Mittal at the FIDE Grand Swiss. Despite a significant material disadvantage, Yagiz executed a brilliant endgame, forcing mate in six moves. Trained by GM Shakhriyar Mamedyarov, Yagiz is drawing comparisons to Magnus Carlsen's early career, showcasing extraordinary potential.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/prodigy-yagiz-kaan-primed-for-candidates-bid/articleshow/123779458.cms",
-         "pubDate" : "Tue, 09 Sep 2025 06:01:26",
-         "title" : "Prodigy Yagiz Kaan primed for Candidates bid"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123777304.cms\" />Mishra, born in New Jersey to Indian parents, had already carved his place in history as the youngest-ever to earn the GM title at 12 years and four months. With this win, he set another record, becoming the youngest to defeat a reigning world champion in classical chess, eclipsing Gata Kamsky's 1992 mark at 18, when he beat Garry Kasparov.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -816,14 +816,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-annual-academy-training-programme-2025-26/",
          "pubDate" : "Wed, 03 Sep 2025 08:45:26",
          "title" : "ECU Annual Academy training programme 2025/26"
-      },
-      {
-         "description" : "The City of Katowice, and the Silesian Chess Federation are proud to announce that the European Individual Chess Championship 2026 will take place in Katowice, Poland, from 7-19 April 2026. Katowice has already established itself as one of Europe's leading chess hubs, having successfully organized four editions of the European Rapid and Blitz Chess Championships, each attracting a record number of participants. The city's proven organizational experience, world-class venues, and welcoming atmosphere provide the ideal conditions for hosting the most []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/katowice-to-host-the-european-individual-chess-championship-2026/",
-         "pubDate" : "Mon, 01 Sep 2025 12:15:11",
-         "title" : "Katowice to Host the European Individual Chess Championship 2026"
       }
    ]
 }
