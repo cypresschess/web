@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"How to think like a chess player and win at life\" is the latest book by three-time US national chess champion, Jennifer Shahade. It offers essential life lessons from the world of chess - from making smarter choices to building focus and confidence. Chess players are experts in considering their options, allowing them to seize an opportunity, idea, or make a move that no one else saw. Shahade calls this \"thinking sideways\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jennifer-shahade-thinking-sidewards",
+         "pubDate" : "Mon, 22 Sep 2025 11:00:00",
+         "title" : "Jennifer Shahade: Thinking Sideways"
+      },
+      {
+         "description" : " The 62nd Indian Chess Championships take place in Guntur Sun 21st Sep to Wed 1st Oct 2025. Pa Iniyan, Surya Shekhar Ganguly, SP Sethuraman, Krishnan Sasikiran etc. The event doesn't have any of the top 15 Indian players. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/62nd-ch-ind-2025",
+         "pubDate" : "Mon, 22 Sep 2025 10:08:00",
+         "title" : "62nd ch-IND 2025 - Games and Results"
+      },
+      {
+         "description" : "Please find the link here : https://view.livechesscloud.com/#905337cf-5d00-4ada-b021-2d2853901ea9",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link-for-62nd-national-championship-2025/",
+         "pubDate" : "Mon, 22 Sep 2025 09:28:06",
+         "title" : "LIVE LINK for 62nd National Championship 2025"
+      },
+      {
          "description" : "Ferrari drivers Charles Leclerc and Lewis Hamilton share a common interest in chess, often playing against each other and discussing the game publicly. Their rivalry has included light-hearted stories about online matches and mutual \"cheating\". Ahead of the recent Baku Grand Prix, the two met Azerbaijani grandmaster Teimour Radjabov, who observed their play and presented them with a chess-themed gift, highlighting the cultural and strategic links between motorsport and chess. | Photo: Racing News 365",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +88,14 @@ news_feed (
          "link" : "https://www.thearticle.com/mickeys-meltdown-in-poland/",
          "pubDate" : "Sat, 20 Sep 2025 09:11:19",
          "title" : "Mickey's meltdown in Poland"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation ,&#160;Tamil Nadu Chess Association&#160;&#160;is organizing Senior National Arbiter Seminar &#38; exam in Prince Shri Venkateshwara Arts &#38; Science",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-and-exam-in-chennai-on-25th-26th-october-2025/",
+         "pubDate" : "Sat, 20 Sep 2025 06:52:33",
+         "title" : "SNA seminar and Exam in Chennai on 25th & 26th October, 2025"
       },
       {
          "description" : "Last Updated on 19th September 2025 by WebAdmin The ECF's Junior Selection Policy has been updated to reflect changes in the way England Juniors will be selected and qualify for...",
