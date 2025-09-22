@@ -1,4 +1,7 @@
 jtable([
+"HOUSTON","2025-09-19  - 09-21","84","<a href=http://www.uschess.org/msa/XtblMain.php?202509214302 target='_blank'>AUTUMN FIDE 2025</a>",
+"SUGAR LAND","2025-09-20","78","<a href=http://www.uschess.org/msa/XtblMain.php?202509203582 target='_blank'>FELLOWSHIP CHRISTIAN ACADEMY</a>",
+"HOUSTON","2025-09-20","9","<a href=http://www.uschess.org/msa/XtblMain.php?202509202992 target='_blank'>CHESSPANDA09202025SATURDAY</a>",
 "CYPRESS","2025-09-19  - 09-20","37","<a href=http://www.uschess.org/msa/XtblMain.php?202509202622 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2025-09-19","21","<a href=http://www.uschess.org/msa/XtblMain.php?202509192572 target='_blank'>FBCC 2025 TALK LIKE A PIRATE DAY OP</a>",
 "HOUSTON","2025-09-14","19","<a href=http://www.uschess.org/msa/XtblMain.php?202509140382 target='_blank'>SEPT 14TH SUNDAY SWISS</a>",
@@ -196,7 +199,4 @@ jtable([
 "SUGAR LAND","2025-03-14","6","<a href=http://www.uschess.org/msa/XtblMain.php?202503149792 target='_blank'>FBCC 2025 NATIONAL PI DAY OPEN</a>",
 "CYPRESS","2025-03-14","23","<a href=http://www.uschess.org/msa/XtblMain.php?202503140632 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-03-09","44","<a href=http://www.uschess.org/msa/XtblMain.php?202503099582 target='_blank'>SRI MEENAKSHI TEMPLE 03-09-2025</a>",
-"HOUSTON","2025-03-07  - 03-09","58","<a href=http://www.uschess.org/msa/XtblMain.php?202503097372 target='_blank'>$2,500 MARCH  CHAMPIONSHIP</a>",
-"LEAGUE CITY","2025-03-08","150","<a href=http://www.uschess.org/msa/XtblMain.php?202503087152 target='_blank'>GOFORTH ELEMENTARY SCHOOL TOURNAMEN</a>",
-"HOUSTON","2025-03-08","8","<a href=http://www.uschess.org/msa/XtblMain.php?202503086182 target='_blank'>CHESSPANDA03082025SATURDAY</a>",
 ]);
