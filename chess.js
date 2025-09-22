@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The development of chess is deeply entwined with the history of human civilisation, and its journey along the Silk Road helped transform it into a cultural treasure that transcends borders. From its early forms in India and China to its adaptations in Persia, the Islamic world and medieval Europe, chess evolved as a mirror of thought and philosophy. This account retraces its millennial path, highlighting how every move carries memory, creativity and a universal human legacy.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/millenial-journey-chess-silk-road",
+         "pubDate" : "Mon, 22 Sep 2025 21:45:00",
+         "title" : "The millennial journey of chess along the Silk Road"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124052363.cms\" />Divya Deshmukh, India's 19-year-old Grandmaster, has received a wild card entry into the FIDE World Cup 2025 in Goa after a last-minute withdrawal. She will join 20 other Indian players, including world champion D Gukesh, in the knockout tournament. The biennial event features 206 top players, with the top three finishers qualifying for the 2026 Candidates Tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-2025-divya-deshmukh-handed-wild-card/articleshow/124052363.cms",
          "pubDate" : "Mon, 22 Sep 2025 15:14:05",
          "title" : "FIDE World Cup 2025: Divya Deshmukh handed wild card"
+      },
+      {
+         "description" : "Announced on Monday, FIDE President Arkady Dvorkovich has granted six wildcard invitations for the upcoming 2025 FIDE World Cup, a major tournament in November that will award three seats in the 2026 FIDE Candidates Tournament. The winner of that ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-announces-wildcards-2025-fide-world-cup",
+         "pubDate" : "Mon, 22 Sep 2025 13:49:36",
+         "title" : "Divya Among 6 Players Awarded World Cup Wildcard Spots; Firouzja Not In"
       },
       {
          "description" : "\"How to think like a chess player and win at life\" is the latest book by three-time US national chess champion, Jennifer Shahade. It offers essential life lessons from the world of chess - from making smarter choices to building focus and confidence. Chess players are experts in considering their options, allowing them to seize an opportunity, idea, or make a move that no one else saw. Shahade calls this \"thinking sideways\".",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://www.thearticle.com/paradise-regained-the-reopening-of-simpsons/",
          "pubDate" : "Sat, 06 Sep 2025 12:00:20",
          "title" : "Paradise regained: the reopening of Simpson's"
-      },
-      {
-         "description" : "GM Parham Maghsoodloo called GM Alireza Firouzja&#39;s bluff to take the sole lead in the 2025 FIDE Grand Swiss, after co-leader GM Anton Demchenko succumbed to GM Arjun Erigaisi&#39;s pressure. GM Praggnanandhaa Rameshbabu took advantage of GM Boris Gelf...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-3",
-         "pubDate" : "Sat, 06 Sep 2025 11:11:00",
-         "title" : "Maghsoodloo, Vaishali Take Sole Grand Swiss Lead On 3/3"
       },
       {
          "description" : "On behalf of All India Chess Federation , All Assam State Chess Association is organizing Senior National Hotel Ornate, near Nehru Stadium in Guwahati ,Assam on 21",
