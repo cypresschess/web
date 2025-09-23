@@ -10,12 +10,36 @@ news_feed (
          "title" : "Garry Kasparov warns"
       },
       {
+         "description" : "Argentina&#38;rsquo;s IM Faustino Oro has scored his first grandmaster norm after a stunning 6/7 start to the Legends &#38;amp; Prodigies 2025 tournament in Madrid, Spain. Only World Champion Gukesh Dommaraju has ever scored a GM norm at a younger age and...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/faustino-oro-gm-norm-crosses-2500",
+         "pubDate" : "Tue, 23 Sep 2025 08:18:31",
+         "title" : "11-Year-Old Faustino Oro Scores 1st GM Norm, Crosses 2500"
+      },
+      {
          "description" : "Last Updated on 23rd September 2025 by WebAdmin FIDE's Chess in Education Commission continues to accelerate its provision of training for Lecturers and Teachers of Educational Chess, offering a series...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-chess-in-education-commission-edu-courses-events-september-november-2025/",
          "pubDate" : "Tue, 23 Sep 2025 08:05:08",
          "title" : "FIDE Chess in Education Commission (EDU) courses & events September - November 2025"
+      },
+      {
+         "description" : "Hawks and elephants are storming the chessboard once again in the next event of the Chess.com Community Championship. The Seirawan Chess Championship takes place on October 2 and 3, featuring a $2,000 prize pool. Seirawan Chess is the brainchild...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-seirawan-chess-championship-2025",
+         "pubDate" : "Tue, 23 Sep 2025 08:00:00",
+         "title" : "Chess.com Seirawan Chess Championship Kicks Off October 2"
+      },
+      {
+         "description" : "Chess will return as a stadium sport at the Checkmate: USA vs India match in Arlington, Texas, on October 4. The organizers said they hope to capture both die-hard chess fans and the broader chess audience with some fascinating new experiments. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/checkmate-usa-vs-india-2025-stadium-sport",
+         "pubDate" : "Tue, 23 Sep 2025 06:29:04",
+         "title" : "Checkmate: USA vs India To Bring Chess Back To The Stadium Stage"
       },
       {
          "description" : "The development of chess is deeply entwined with the history of human civilisation, and its journey along the Silk Road helped transform it into a cultural treasure that transcends borders. From its early forms in India and China to its adaptations in Persia, the Islamic world and medieval Europe, chess evolved as a mirror of thought and philosophy. This account retraces its millennial path, highlighting how every move carries memory, creativity and a universal human legacy.",
@@ -64,6 +88,14 @@ news_feed (
          "link" : "https://aicf.in/live-link-for-62nd-national-championship-2025/",
          "pubDate" : "Mon, 22 Sep 2025 09:28:06",
          "title" : "LIVE LINK for 62nd National Championship 2025"
+      },
+      {
+         "description" : "US Chess is proud to announce the second phase in our long-term plan to overhaul digital infrastructure. Following the 2020 move to CiviCRM, our next step is to replace outdated tools in the Membership Services Area (MSA) and Tournament Director/Affiliate Area (TD/A).Because these areas still rely on decades-old platforms that no longer meet our needs, US Chess has partnered with Leago to create a new, unified platform for tournament directors (TDs), players, and parents.As of today, this new platform is open for beta testing. If you are interested, read on for instructions for how to become a beta tester and how to share your feedback with us. What is changing?Currently, tournament director",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/leago-muir-beta-testing-now-open",
+         "pubDate" : "Mon, 22 Sep 2025 00:00:00",
+         "title" : "Leago MUIR Beta Testing Now Open"
       },
       {
          "description" : "Ferrari drivers Charles Leclerc and Lewis Hamilton share a common interest in chess, often playing against each other and discussing the game publicly. Their rivalry has included light-hearted stories about online matches and mutual \"cheating\". Ahead of the recent Baku Grand Prix, the two met Azerbaijani grandmaster Teimour Radjabov, who observed their play and presented them with a chess-themed gift, highlighting the cultural and strategic links between motorsport and chess. | Photo: Racing News 365",
@@ -642,14 +674,6 @@ news_feed (
          "title" : "2025 FIDE Grand Swiss: The Stories So Far"
       },
       {
-         "description" : "This week's puzzles continue our series from last month's Saint Louis Rapid &amp; Blitz, where GM Levon Aronian won the five-day, 27-game marathon for the third time in his career.The Wednesday puzzles aren't easy! Check out yesterday's Tactics Tuesday for a more approachable batch of exercises from the same event. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-2-0",
-         "pubDate" : "Wed, 10 Sep 2025 00:00:00",
-         "title" : "Wednesday Workout: Saint Louis Rapid & Blitz, Pt. 2"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123790630.cms\" />Turkish chess prodigy Yagiz Kaan Erdogmus, 14, drew against his coach Shakhriyar Mamedyarov at the FIDE Grand Swiss 2025 after a short 16-move game. This followed Yagiz's stunning victory over India's Aditya Mittal, where he executed a brilliant checkmate despite a significant material disadvantage. Praveen Thipsay called it a \"game for the books of combinations.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -730,36 +754,12 @@ news_feed (
          "title" : "Nakamura Wins Iowa Chess Open, 11 More Games For Candidates Requirement"
       },
       {
-         "description" : "Sixteen-year-old GM Abhimanyu Mishra&#38;nbsp;beat World Champion Gukesh Dommaraju in round five of the&#38;nbsp;2025 FIDE Grand Swiss, becoming the youngest player ever to defeat a reigning champion in a game of classical chess. GM Parham Maghsoodloo rem...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-5",
-         "pubDate" : "Mon, 08 Sep 2025 12:02:00",
-         "title" : "16-Year-Old Mishra Youngest Player Ever To Beat World Champion"
-      },
-      {
          "description" : "NO Name1 Priyabrata Bhattacharya2 Arunava Pal3 Ishan Das4 Rahul Jain5 Kingshuk, Debnath6 Rajbeer Ahmed7 Sky Debnath8 Suprith Jain9 Sakhawat Hussain10 Dipasree Ray Chaudhuri11 Sudip Kumar",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/certificates-of-sna-seminar-exam-held-in-agartala-on-21-22-september-2025/",
          "pubDate" : "Mon, 08 Sep 2025 06:10:56",
          "title" : "Certificates of SNA Seminar & Exam held in Agartala on 21 & 22 September 2025"
-      },
-      {
-         "description" : "Turkish prodigy GM Yagiz Kaan Erdogmus won what GM David Howell called an &#34;Evergreen&#34; game in round four of the 2025 FIDE Grand Swiss to join a 13-way tie for second place behind GM Parham Maghsoodloo. It was mainly draws at the top, but 18-year-o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-4",
-         "pubDate" : "Sun, 07 Sep 2025 11:33:00",
-         "title" : "14-Year-Old Erdogmus Wins Masterpiece; Lagno Catches Vaishali"
-      },
-      {
-         "description" : "GM Oleksandr Bortnyk stole the show in Saturday&#39;s Bullet Brawl after outscoring 186 of Chess.com&#39;s quickest titled players to capture the $400 first prize for the 13th time. Bortnyk&#39;s score of 164 positioned him 12 points ahead of the second-pla...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-sep-6-2025",
-         "pubDate" : "Sat, 06 Sep 2025 18:37:00",
-         "title" : "Bortnyk Beats Carlsen Twice En Route To 13th Bullet Brawl Title"
       },
       {
          "description" : "If you're used to picking things up quickly, in school, at work, or in life, then chess can feel strangely frustrating. You're successful in your career. You had little trouble with math in school. You've solved tough problems before, and usually with less effort than most. But in chess, you struggle. For the first time, []",
