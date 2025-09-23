@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 17 to 25 September, the closed tournament \"Legends and Prodigies\" is being held in Madrid, featuring five GMs and five IMs in a generational clash. The event is a single round-robin with a classical time control. Among the participants are Peruvian GM Julio Granda, a legend of Latin American chess, alongside young talents Faustino Oro and Lu Miaoyi. The tournament will award a GM norm to players scoring 6/9 points. | Follow the games live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2025-live",
+         "pubDate" : "Tue, 23 Sep 2025 16:00:00",
+         "title" : "Legends & Prodigies, Round 7 - Live!"
+      },
+      {
          "description" : "The legendary world champion and political activist has issued a warning regarding the current media crackdown in the US, comparing it to the early days of Putin's rule in Russia. Kasparov appeared for an interview with CNN's Anderson Cooper, and on MSNBC with Jen Psaki. You can read his article and watch the videos of his eloquent admonitions here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/faustino-oro-gm-norm-crosses-2500",
-         "pubDate" : "Tue, 23 Sep 2025 08:18:31",
+         "pubDate" : "Tue, 23 Sep 2025 08:18:00",
          "title" : "11-Year-Old Faustino Oro Scores 1st GM Norm, Crosses 2500"
       },
       {
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/checkmate-usa-vs-india-2025-stadium-sport",
          "pubDate" : "Tue, 23 Sep 2025 06:29:04",
          "title" : "Checkmate: USA vs India To Bring Chess Back To The Stadium Stage"
+      },
+      {
+         "description" : "US Chess is pleased to announce that a record-breaking number of affiliates, clubs, and organizations applied for the 2025-26 Women and Girls cycle of programming grants. These grants are supported by our partnership with the Saint Louis Chess Club, which began in 2019. For the 2024-25 cycle, US Chess announced 17 grant awards (up from seven the year before) under the US Chess Women's program. This was out of 38 applicants (up from 12 in 2023-24). Recipients used this funding for developing mentorship programs, educational series, and special events geared towards promoting women and girls' chess (read more about last year's winners here).With 68 applicants for this cycle, we anticipate dist",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/update-2025-26-women-and-girls-programming-grant-applications",
+         "pubDate" : "Tue, 23 Sep 2025 00:00:00",
+         "title" : "Update on 2025-26 Women and Girls Programming Grant Applications"
       },
       {
          "description" : "The development of chess is deeply entwined with the history of human civilisation, and its journey along the Silk Road helped transform it into a cultural treasure that transcends borders. From its early forms in India and China to its adaptations in Persia, the Islamic world and medieval Europe, chess evolved as a mirror of thought and philosophy. This account retraces its millennial path, highlighting how every move carries memory, creativity and a universal human legacy.",
@@ -664,14 +680,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-new-low-for-world-champion-gukesh-virtually-out-of-grand-swiss-title-race-after-second-straight-defeat/articleshow/123801976.cms",
          "pubDate" : "Wed, 10 Sep 2025 06:52:15",
          "title" : "New low for D Gukesh: Two losses in a row and now virtually out of Grand Swiss title race"
-      },
-      {
-         "description" : "The 2025 FIDE World Grand Swiss is just past its halfway point in Samarkand, Uzbekistan. The event consists of a 116-player Open section and a 56-player Women's section. Play resumes Thursday, September 11, at 5:15 a.m. CDT.The top two finishers in each section will qualify for the FIDE Candidates and Women's Candidates Tournament, respectively. The total prize fund in Samarkand is $855,000, with $625,000 for the Open and $230,000 for the Women's, and first-place prizes of $90,000 and $40,000, respectively.Below is a summary of the first six rounds, with annotations courtesy of WGM Sabina Foisor. Keep reading for some additional puzzles, selected by Sabina, from games played by some of the 1",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-fide-grand-swiss-stories-so-far",
-         "pubDate" : "Wed, 10 Sep 2025 00:00:00",
-         "title" : "2025 FIDE Grand Swiss: The Stories So Far"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123790630.cms\" />Turkish chess prodigy Yagiz Kaan Erdogmus, 14, drew against his coach Shakhriyar Mamedyarov at the FIDE Grand Swiss 2025 after a short 16-move game. This followed Yagiz's stunning victory over India's Aditya Mittal, where he executed a brilliant checkmate despite a significant material disadvantage. Praveen Thipsay called it a \"game for the books of combinations.",
