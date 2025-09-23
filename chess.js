@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The legendary world champion and political activist has issued a warning regarding the current media crackdown in the US, comparing it to the early days of Putin's rule in Russia. Kasparov appeared for an interview with CNN's Anderson Cooper, and on MSNBC with Jen Psaki. You can read his article and watch the videos of his eloquent admonitions here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/garry-kasparov-warns",
+         "pubDate" : "Tue, 23 Sep 2025 13:00:00",
+         "title" : "Garry Kasparov warns"
+      },
+      {
+         "description" : "Last Updated on 23rd September 2025 by WebAdmin FIDE's Chess in Education Commission continues to accelerate its provision of training for Lecturers and Teachers of Educational Chess, offering a series...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/fide-chess-in-education-commission-edu-courses-events-september-november-2025/",
+         "pubDate" : "Tue, 23 Sep 2025 08:05:08",
+         "title" : "FIDE Chess in Education Commission (EDU) courses & events September - November 2025"
+      },
+      {
          "description" : "The development of chess is deeply entwined with the history of human civilisation, and its journey along the Silk Road helped transform it into a cultural treasure that transcends borders. From its early forms in India and China to its adaptations in Persia, the Islamic world and medieval Europe, chess evolved as a mirror of thought and philosophy. This account retraces its millennial path, highlighting how every move carries memory, creativity and a universal human legacy.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -520,14 +536,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/this-is-not-him-head-in-hands-d-gukesh-suffers-third-straight-loss-at-fide-grand-swiss-watch/articleshow/123842431.cms",
          "pubDate" : "Fri, 12 Sep 2025 03:50:40",
          "title" : "'This is not him': Head in hands, Gukesh suffers third straight loss at FIDE Grand Swiss - watch"
-      },
-      {
-         "description" : "FIDE Education Commission and ECU Education Commission proudly present the following event Every Lesson Counts: Masterclasses in Chess in Education, taking place at the London MindSports Centre on 11-12...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/every-lesson-counts-masterclasses-in-chess-in-education/",
-         "pubDate" : "Thu, 11 Sep 2025 16:00:06",
-         "title" : "Every Lesson Counts: Masterclasses in Chess in Education"
       },
       {
          "description" : "Indian GM Nihal Sarin defeated GM Parham Maghsoodloo to grab the 2025 FIDE Grand Swiss lead on 5.5/7, where he was joined by GM Matthias Bluebaum, who stunned GM Arjun Erigaisi. GMs Alireza Firouzja, Nodirbek Abdusattorov, Hans Niemann, and Vidit ...",
