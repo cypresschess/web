@@ -18,6 +18,14 @@ news_feed (
          "title" : "Garry Kasparov warns"
       },
       {
+         "description" : "GM Hikaru Nakamura took his first Titled Tuesday in the new system on September 23, entering the top four of the Champions Chess Tour standings. Other than two quick draws in the seventh and eighth rounds, he scored every possible point on his way...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-september-23-2025",
+         "pubDate" : "Tue, 23 Sep 2025 12:46:50",
+         "title" : "Nakamura Wins Titled Tuesday Drama-Free, Joins CCT Leaders"
+      },
+      {
          "description" : "Argentina&#38;rsquo;s IM Faustino Oro has scored his first grandmaster norm after a stunning 6/7 start to the Legends &#38;amp; Prodigies 2025 tournament in Madrid, Spain. Only World Champion Gukesh Dommaraju has ever scored a GM norm at a younger age and...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -50,6 +58,14 @@ news_feed (
          "title" : "Checkmate: USA vs India To Bring Chess Back To The Stadium Stage"
       },
       {
+         "description" : "This week continues our series on the just-concluded 2025 FIDE Grand Swiss and Women's Grand Swiss tournaments. Check out the full report featuring annotations by WGM Sabina Foisor. We are pleased to share even more curated positions from Sabina over the next few weeks. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-grand-swiss-pt-2",
+         "pubDate" : "Tue, 23 Sep 2025 00:00:00",
+         "title" : "Tactics Tuesday: FIDE Grand Swiss, Pt. 2"
+      },
+      {
          "description" : "US Chess is pleased to announce that a record-breaking number of affiliates, clubs, and organizations applied for the 2025-26 Women and Girls cycle of programming grants. These grants are supported by our partnership with the Saint Louis Chess Club, which began in 2019. For the 2024-25 cycle, US Chess announced 17 grant awards (up from seven the year before) under the US Chess Women's program. This was out of 38 applicants (up from 12 in 2023-24). Recipients used this funding for developing mentorship programs, educational series, and special events geared towards promoting women and girls' chess (read more about last year's winners here).With 68 applicants for this cycle, we anticipate dist",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-announces-wildcards-2025-fide-world-cup",
          "pubDate" : "Mon, 22 Sep 2025 13:49:36",
          "title" : "Divya Among 6 Players Awarded World Cup Wildcard Spots; Firouzja Not In"
-      },
-      {
-         "description" : "\"How to think like a chess player and win at life\" is the latest book by three-time US national chess champion, Jennifer Shahade. It offers essential life lessons from the world of chess - from making smarter choices to building focus and confidence. Chess players are experts in considering their options, allowing them to seize an opportunity, idea, or make a move that no one else saw. Shahade calls this \"thinking sideways\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jennifer-shahade-thinking-sidewards",
-         "pubDate" : "Mon, 22 Sep 2025 11:00:00",
-         "title" : "Jennifer Shahade: Thinking Sideways"
       },
       {
          "description" : " The 62nd Indian Chess Championships take place in Guntur Sun 21st Sep to Wed 1st Oct 2025. Pa Iniyan, Surya Shekhar Ganguly, SP Sethuraman, Krishnan Sasikiran etc. The event doesn't have any of the top 15 Indian players. ",
@@ -314,14 +322,6 @@ news_feed (
          "title" : "All-in-Chess: The art and amusement of shared control"
       },
       {
-         "description" : "In his 9/11 memorial article in the German Zeit Magazin GM Helmut Pfleger tells us how William Lombardy, the former youth world champion and, alongside Fischer, the strongest American player, bitterly complained to him during the Kasparov-Anand world championship match that began on September 11, 1995 that he had never been accorded the honour being inducted into the US Chess Hall of Fame. In 2016 Maurice Ashley, the first African-American chess grandmaster in history, did it and joined the ranks of Paul Morphy, Bobby Fischer, and Frank Marshall before him.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/helmut-pfleger-on-maurice-ashley",
-         "pubDate" : "Wed, 17 Sep 2025 14:00:00",
-         "title" : "Helmut Pfleger on Maurice Ashley"
-      },
-      {
          "description" : "Last Updated on 19th September 2025 by WebAdmin The much awaited Live Chess World League 2025/S2 (Season 14) is now underway on Chess.com with teams from around the world playing...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -352,14 +352,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-2025-fide-grand-swiss-pt-1",
          "pubDate" : "Wed, 17 Sep 2025 00:00:00",
          "title" : "Wednesday Workout: 2025 FIDE Grand Swiss, Pt. 1"
-      },
-      {
-         "description" : "On 12 September, the sixth edition of the popular simultaneous chess series \"Grandmaster Meets Amateurs\" took place in the caf&eacute; of the Salzgitter-Bad Grammar School - featuring a world-class player: GM Ivan Sokolov. The Dutch-Bosnian grandmaster faced 31 opponents and showed an impressive form, scoring 30&frac12;-&frac12;. Only Jannes Haverlandt managed to withstand the pressure and secure a draw - surely an admirable achievement.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sokolov-simul-salzgitter-bad-2025",
-         "pubDate" : "Tue, 16 Sep 2025 23:50:00",
-         "title" : "Ivan Sokolov shows his class in Salzgitter-Bad!"
       },
       {
          "description" : "GM Magnus Carlsen won Titled Tuesday for the second straight week on September 16, scoring 10.5 points with only a draw against GM Jan-Krzysztof Duda preventing him from the perfect 11/11 in what he called &#34;definitely one of my more comfortable Ti...",
@@ -432,14 +424,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/46270737/r-vaishali-puts-bad-year-defend-grand-swiss-crown-seal-fide-candidates-spot?device=featurephone",
          "pubDate" : "Mon, 15 Sep 2025 12:12:00",
          "title" : "R Vaishali puts bad year behind her to defend Grand Swiss crown, seal Candidates spot"
-      },
-      {
-         "description" : "The FIDE Grand Swiss is taking place in Samarkand, Uzbekistan on 4-15 September. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-live",
-         "pubDate" : "Mon, 15 Sep 2025 10:50:00",
-         "title" : "Grand Swiss - Live!"
       },
       {
          "description" : "GM Anish Giri played a perfect slow, grinding game to defeat GM Hans Niemann and win the 2025 FIDE Grand Swiss with 8/11. Giri takes the $90,000 top prize and earns a spot in the 2026 FIDE Candidates Tournament, where he&#39;ll be joined by GM Matthia...",
@@ -626,14 +610,6 @@ news_feed (
          "title" : "Noland Arbaugh, Neuralink's 1st Patient, Plays Chess.com Game Against Anna Cramling"
       },
       {
-         "description" : "FM Tibor Weinberger, of Santa Monica, California, passed away Aug. 28. He was born in 1932 in Budapest to Marton and Erz&eacute;bet (n&eacute;e Teitelbaum) Weinberger; he was predeceased by his parents, his older sisters Hedvig (Hedi) Weinberger and Edit (Medi) Weinberger, and older brother Meir (Mayerli) Weinberger.Tibor's immediate family survived the Holocaust. His father was impressed into the Hungarian army on the Eastern Front and died of tuberculosis shortly after the war. Tibor's older siblings remained in Budapest during the German occupation in 1944, while he and his younger brother Robert (Robi) went into hiding - first in the Hungarian countryside and then in Budapest. <br> <br> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/fm-tibor-weinberger-1932-2025",
-         "pubDate" : "Thu, 11 Sep 2025 00:00:00",
-         "title" : "FM Tibor Weinberger (1932-2025)"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123808140.cms\" />Magnus Carlsen has commented on Hikaru Nakamura's approach to qualify for the Candidates Tournament. Carlsen finds Nakamura's strategy shameless but pragmatic. Nakamura is playing in smaller open events to gain rating points. He recently won the Iowa Open. This victory brings him closer to his goal. Some criticize his choice of tournaments.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -752,14 +728,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/israeli-flag-ban-reversed-after-fide-condemn-spanish-organizers",
          "pubDate" : "Mon, 08 Sep 2025 12:42:00",
          "title" : "FIDE Steps In After Attempted Ban On Israeli Players In Spanish Open Tournament"
-      },
-      {
-         "description" : "GM Hikaru Nakamura won the 70th Iowa Open with a perfect 5/5 score and is 11 games away from reaching the 40 required (by December 31) to be eligible for the 2026 FIDE Candidates Tournament. He would qualify by having the highest rating, as GM Mag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-2025-iowa-chess-open",
-         "pubDate" : "Mon, 08 Sep 2025 12:37:56",
-         "title" : "Nakamura Wins Iowa Chess Open, 11 More Games For Candidates Requirement"
       },
       {
          "description" : "NO Name1 Priyabrata Bhattacharya2 Arunava Pal3 Ishan Das4 Rahul Jain5 Kingshuk, Debnath6 Rajbeer Ahmed7 Sky Debnath8 Suprith Jain9 Sakhawat Hussain10 Dipasree Ray Chaudhuri11 Sudip Kumar",
