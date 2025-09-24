@@ -26,14 +26,6 @@ news_feed (
          "title" : "3rd NATIONAL SCHOOLS TEAM UNDER-12 & UNDER-18CHESS CHAMPIONSHIPS - 2025 in Shimla from 12-14 October 2025"
       },
       {
-         "description" : "The chess world is no stranger to scandals. A prominent recent controversy erupted in November 2023, when Vladimir Kramnik insinuated on his chess.com blog and in a YouTube video that Hikaru Nakamura cheated - when he scored 45.5/50 in a blitz tournament. Kramnik pointed out the statistical improbability of Nakamura's streak. But a research team, using Bayesian analysis and historical performance data, has found a 99.6% probability that Nakamura did not cheat.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/did-a-us-chess-champion-cheat",
-         "pubDate" : "Wed, 24 Sep 2025 10:00:00",
-         "title" : "Did a US chess champion cheat?"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124086028.cms\" />World Champion D Gukesh faced a tough stretch at the FIDE Grand Swiss tournament, impacting his Elo rating. Viswanathan Anand acknowledged Gukesh's challenges in adapting to his champion status and the pressure it brings. Anand remains optimistic about Gukesh's ability to rebound.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -170,28 +162,12 @@ news_feed (
          "title" : "Teimour Radjabov meets Formula 1 Ferrari drivers for a game of chess"
       },
       {
-         "description" : "It's once again time to think about aesthetics in ChessBase 18 training: Have you ever noticed the \"Style\" option? If not, in this episode we'll explain briefly and concisely how you can better adapt your screen display to your own taste.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-32-training-with-style",
-         "pubDate" : "Sun, 21 Sep 2025 07:00:00",
-         "title" : "ChessBase 18 - Tips for Beginners, part 32: Training with style"
-      },
-      {
          "description" : "GM Hikaru Nakamura has moved one step closer to a historic 50th Bullet Brawl title after outscoring GMs Andrew Tang, Daniel Naroditsky, and 196 hungry titled players on Saturday.&#38;nbsp; Nakamura scored 174 points in the two-hour arena and won the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-sep-20-2025",
          "pubDate" : "Sat, 20 Sep 2025 18:39:00",
          "title" : "Nakamura Wins 48th Bullet Brawl Title Ahead Of Tang, Naroditsky"
-      },
-      {
-         "description" : "The FIDE World Cup 2025 in Goa will see five notable invitees joining the 206-player knockout field, as confirmed by FIDE President Arkady Dvorkovich. Among them are 11-year-old Argentine prodigy Faustino Oro, Americans Abhimanyu Mishra and Andy Woodward, world rapid champion Volodar Murzin, and Austrian GM Kirill Alekseenko. The tournament, running from 30 October to 27 November, offers not only prestige and prizes but also qualification spots for the Candidates Tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-invited-youngsters",
-         "pubDate" : "Sat, 20 Sep 2025 17:30:00",
-         "title" : "A new generation of chess players gets an invite for the FIDE World Cup"
       },
       {
          "description" : "Yes, you can improve your chess by training the wrong way. Actually, it happens more often than you might think. Let's say a million people are using a random chess improvement method. They jump around YouTube, watch whatever pops up, maybe buy some random opening courses, and then play a few games. Out of that []",
@@ -258,44 +234,12 @@ news_feed (
          "title" : "R Vaishali's journey: From twilight zone to Swiss sunrise"
       },
       {
-         "description" : "Vincent Keymer needed a win in the final round of the FIDE Grand Swiss to get a spot in next year's Candidates Tournament, and faced second seed Arjun Erigaisi with black. The German star obtained a promising advantage but failed to find the precise continuation on several key moments, allowing Arjun to hold a draw. Below, Wolfram Sch&ouml;n analyses the critical points where Keymer could have pressed for more. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-arjun-keymer",
-         "pubDate" : "Fri, 19 Sep 2025 01:00:00",
-         "title" : "Grand Swiss: Keymer's (missed) path to victory in his final-round game against Arjun"
-      },
-      {
          "description" : "What are your National Chess Day plans? This year's festivities, set for Saturday, October 11, are just over two weeks away. This is a great time to find a tournament in your area or even consider running one yourself! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> In order to encourage affiliates to host events, US Chess is offering free email blasts and waived rating fees for tournaments hosted on this day.On Chess Life Online, we plan on sharing some of the events planned for National Chess Day that have caught our eye. Feel free to email Click here to show email address with information about your event if you would be interested in possibly being featured in a fut",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/national-chess-day-preview-kentucky-chess-ambassadors-host-historic-blitz-bughouse-tournament",
          "pubDate" : "Fri, 19 Sep 2025 00:00:00",
          "title" : "National Chess Day Preview: Kentucky Chess Ambassadors Host Historic Blitz & Bughouse Tournament in Louisville "
-      },
-      {
-         "description" : "Victor Bologan's Chess Academy Vol. 3 & 4 offers a complete, low-maintenance repertoire for both White and Black, built on the philosophy of his legendary coach Chebanenko: focus on understanding typical pawn structures and recurring piece setups rather than memorising endless theory. For Black, Bologan recommends the universal 1&hellip;d6 system, leading to flexible Philidor-style positions against 1.e4 and solid setups against 1.d4, emphasizing resilience and strategic clarity. For White, the repertoire begins with 1.e4 followed by d3, using quiet but powerful systems like the King's Indian Attack, Closed Sicilian ideas, and anti-Caro-Kann setups-practical approaches that avoid heavy theor",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/victor-bologan-1-d6-universal-minimal-prep-1-e4-the-lazy-way",
-         "pubDate" : "Thu, 18 Sep 2025 20:52:49",
-         "title" : "Victor Bologan - 1...d6 universal - Minimal Prep & 1.e4 the lazy way"
-      },
-      {
-         "description" : "On October 12, the U.S. Championship begins in St. Louis. Twelve of the country's top players will compete, nine of whom also played in the Grand Swiss, which concluded on September 15 in Samarkand. Their performances there point to an interesting championship, with Abhimanyu Mishra and Andy Woodward delivering particularly notable results. | Photo: Michal Walusza/FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/from-grand-swiss-to-u-s-championship",
-         "pubDate" : "Thu, 18 Sep 2025 15:16:46",
-         "title" : "From Grand Swiss to U.S. Championship"
-      },
-      {
-         "description" : "On Friday, the FIDE Cadet World Championships will begin in Almaty (Kazakhstan) with the first round. Almost 90 countries have registered players who will compete in six age groups - U8, U10, and U12 - each with an open section and a girls' tournament for the titles.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-cadet-chess-championships",
-         "pubDate" : "Thu, 18 Sep 2025 14:43:09",
-         "title" : "FIDE World Cadet Chess Championships"
       },
       {
          "description" : "The new Coventry International will take place from Sunday 26th October to Friday 31st October 2025 at the Holiday Inn Coventry M6, JCT.2 in Coventry. The hotel is familiar to...",
@@ -338,28 +282,12 @@ news_feed (
          "title" : "US Chess Opens 2025-2026 Title I School Outreach Program for Affiliates Serving At-Risk Youth "
       },
       {
-         "description" : "Sally Hamadeh from Lebanon faced the \"Mouse\" (Strong Club Player) of Fritz 20. Things looked grim after an early blunder cost her a piece within just a few moves. Many players might have resigned on the spot, but not Sally. True to her attacking style, she seized the initiative with a bold pawn push on the kingside. Fritz 20 gives the player a chance to find some smooth tactics, luckily. The timid mouse faltered one last time, and suddenly the tables had turned: what began with a setback ended in a sparkling checkmate!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-fritz-20-duel-sally-hamadeh-vs-mouse",
-         "pubDate" : "Wed, 17 Sep 2025 22:43:58",
-         "title" : "The Fritz 20 Duel: Sally Hamadeh vs. Mouse!"
-      },
-      {
          "description" : "FIDE, the International Chess Federation, in a piece published on Tuesday, announced there are 100 days before the FIDE World Rapid and Blitz Championships are set to take place in Doha, Qatar. While they have kept last year&#39;s format for the Blitz...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-announces-fide-on-2025-world-blitz-championship-changes",
          "pubDate" : "Wed, 17 Sep 2025 21:08:00",
          "title" : "FIDE On World Blitz Format Change: 'Too Many Non-Games'"
-      },
-      {
-         "description" : "What chessplayer hasn't, when staring down disaster, dreamed of moving not their own pieces but the adversary's, swapping defeat for a sudden delicious triumph? Ever generous with impossible wishes, fairy composers have conjured just that: All-in-Chess! Here, either side may move either colour, within a few carefully chosen limits, of course. While it's possible to play entire games this way, problemists summon AIC to craft zany puzzles that twist expectations and delight the imagination. If you've got a taste for the bizarre, the brain-twisting, and the exquisitely tricky, pull up a chair - you've arrived at just the right place!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/all-in-chess-shared-control",
-         "pubDate" : "Wed, 17 Sep 2025 20:00:00",
-         "title" : "All-in-Chess: The art and amusement of shared control"
       },
       {
          "description" : "The much awaited Live Chess World League 2025/S2 (Season 14) is now underway on Chess.com with teams from around the world playing in 5 divisions based on results from previous...",
@@ -808,14 +736,6 @@ news_feed (
          "link" : "https://aicf.in/commonwealth-chess-championship-2025-26-in-kuala-lumpur-malaysia-from-8th-to-17th-november-2025/",
          "pubDate" : "Thu, 04 Sep 2025 10:23:35",
          "title" : "Commonwealth Chess Championship - 2025 - 26 in Kuala Lumpur, Malaysia from 8th to 17th November, 2025."
-      },
-      {
-         "description" : "Some time ago, we invited our readers to help us unravel a long-standing mystery in the famous game Botvinnik-Boleslavsky, played in 1943 (during World War II!). The response was overwhelming, and in a relatively short time, we reached a conclusion: Boleslavsky could have held the balance - a draw was within reach - despite Botvinnik's claim in his (usually precise!) commentary that his position was winning.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/solution-botvinnik-boleslavsky-1943",
-         "pubDate" : "Wed, 03 Sep 2025 18:26:51",
-         "title" : "Solution: Botvinnik-Boleslavsky 1943"
       }
    ]
 }
