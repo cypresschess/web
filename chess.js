@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124086028.cms\" />World Champion D Gukesh faced a tough stretch at the FIDE Grand Swiss tournament, impacting his Elo rating. Viswanathan Anand acknowledged Gukesh's challenges in adapting to his champion status and the pressure it brings. Anand remains optimistic about Gukesh's ability to rebound.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-still-settling-in-as-world-champ-says-viswanathan-anand/articleshow/124086028.cms",
+         "pubDate" : "Wed, 24 Sep 2025 07:06:39",
+         "title" : "Gukesh still settling in as world champ, says Viswanathan Anand"
+      },
+      {
          "description" : "Argentina's 11-year-old Faustino Oro is leading the Legends & Prodigies tournament in Madrid after scoring 6 points from his first 7 games. His victories included a crucial win over former co-leader Alan Pichot, and his performance has already secured him a first grandmaster norm. With his rating now above 2500, Oro has moved closer to becoming the youngest grandmaster in history. The event also saw Lu Miaoyi withdraw due to health issues. | Photo: Ra&uacute;l Mart&iacute;nez",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://aicf.in/27th-asian-youth-chess-championships-2025-in-bangkok-thailand-from-20th-to-30th-november-2025/",
          "pubDate" : "Tue, 09 Sep 2025 08:23:36",
          "title" : "27th Asian Youth Chess Championships - 2025 in Bangkok, Thailand from 20th to 30th November, 2025."
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123777304.cms\" />Mishra, born in New Jersey to Indian parents, had already carved his place in history as the youngest-ever to earn the GM title at 12 years and four months. With this win, he set another record, becoming the youngest to defeat a reigning world champion in classical chess, eclipsing Gata Kamsky's 1992 mark at 18, when he beat Garry Kasparov.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-champion-d-gukeshs-biggest-defeat-how-american-gm-abhimanyu-mishra-aced-the-battle-of-youngest-chess-icons/articleshow/123777304.cms",
-         "pubDate" : "Tue, 09 Sep 2025 03:39:57",
-         "title" : "Gukesh's biggest defeat? How American GM Mishra aced the battle of youngest chess icons"
       },
       {
          "description" : "One of the longest-running tournaments in Spain sparked reactions this week after organizers tried to ban Israeli players and prevent them from competing under their national flag. Following backlash from players, media, and warnings from FIDE, th...",
