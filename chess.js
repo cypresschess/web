@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As is well known, chess not only offers the opportunity to play games, but also opens up further possibilities for intellectual engagement. These include composing and solving chess problems. The World Federation for Chess Composition has now published the FIDE Album 2019-2021, featuring the finest compositions and studies from this period.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-album-2019-2021",
+         "pubDate" : "Wed, 24 Sep 2025 21:40:00",
+         "title" : "The FIDE Album 2019-2021"
+      },
+      {
          "description" : "From 17 to 25 September, the closed tournament \"Legends and Prodigies\" is being held in Madrid, featuring five GMs and five IMs in a generational clash. The event is a single round-robin with a classical time control. Among the participants are Peruvian GM Julio Granda, a legend of Latin American chess, alongside young talents Faustino Oro and Lu Miaoyi. The tournament will award a GM norm to players scoring 6/9 points. | Follow the games live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-still-settling-in-as-world-champ-says-viswanathan-anand/articleshow/124086028.cms",
          "pubDate" : "Wed, 24 Sep 2025 07:06:39",
          "title" : "Gukesh still settling in as world champ, says Viswanathan Anand"
+      },
+      {
+         "description" : "This week continues our series on the just-concluded 2025 FIDE Grand Swiss and Women's Grand Swiss tournaments (see report). We are pleased to share even more curated positions from Sabina over the next few weeks, including a more accessible batch of tactics beginning with last week's Tactics Tuesday column and yesterday's follow-up. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2025-fide-grand-swiss-pt-2",
+         "pubDate" : "Wed, 24 Sep 2025 00:00:00",
+         "title" : "Wednesday Workout: 2025 FIDE Grand Swiss, Pt. 2"
       },
       {
          "description" : "Argentina's 11-year-old Faustino Oro is leading the Legends & Prodigies tournament in Madrid after scoring 6 points from his first 7 games. His victories included a crucial win over former co-leader Alan Pichot, and his performance has already secured him a first grandmaster norm. With his rating now above 2500, Oro has moved closer to becoming the youngest grandmaster in history. The event also saw Lu Miaoyi withdraw due to health issues. | Photo: Ra&uacute;l Mart&iacute;nez",
