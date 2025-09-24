@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "From 17 to 25 September, the closed tournament \"Legends and Prodigies\" is being held in Madrid, featuring five GMs and five IMs in a generational clash. The event is a single round-robin with a classical time control. Among the participants are Peruvian GM Julio Granda, a legend of Latin American chess, alongside young talents Faustino Oro and Lu Miaoyi. The tournament will award a GM norm to players scoring 6/9 points. | Follow the games live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
+         "description" : "Argentina's 11-year-old Faustino Oro is leading the Legends & Prodigies tournament in Madrid after scoring 6 points from his first 7 games. His victories included a crucial win over former co-leader Alan Pichot, and his performance has already secured him a first grandmaster norm. With his rating now above 2500, Oro has moved closer to becoming the youngest grandmaster in history. The event also saw Lu Miaoyi withdraw due to health issues. | Photo: Ra&uacute;l Mart&iacute;nez",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2025-live",
-         "pubDate" : "Tue, 23 Sep 2025 16:00:00",
-         "title" : "Legends & Prodigies, Round 7 - Live!"
+         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2025-r6",
+         "pubDate" : "Tue, 23 Sep 2025 23:50:00",
+         "title" : "Faustino Oro crosses 2500 rating mark, collects first GM norm"
       },
       {
          "description" : "The legendary world champion and political activist has issued a warning regarding the current media crackdown in the US, comparing it to the early days of Putin's rule in Russia. Kasparov appeared for an interview with CNN's Anderson Cooper, and on MSNBC with Jen Psaki. You can read his article and watch the videos of his eloquent admonitions here.",
