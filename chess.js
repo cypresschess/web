@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124089971.cms\" />World Champion D Gukesh, alongside chess legend Viswanathan Anand and R Praggnanandhaa, will headline the Global Chess League (GCL) Season 3. The player draft is scheduled for September 26 in Mumbai, with the league taking place in Chennai from December 13-24. While Magnus Carlsen will be absent, top players like Nakamura and Caruana will participate.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-player-draft-on-september-26-d-gukesh-to-headline/articleshow/124089971.cms",
+         "pubDate" : "Wed, 24 Sep 2025 11:03:12",
+         "title" : "Global Chess League player draft on September 26; D Gukesh to headline"
+      },
+      {
+         "description" : "Please find the event circular Entry Form Payment link: https://prs.aicf.in/pay",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/3rd-national-schools-team-under-12-under-18chess-championships-2025/",
+         "pubDate" : "Wed, 24 Sep 2025 10:23:24",
+         "title" : "3rd NATIONAL SCHOOLS TEAM UNDER-12 & UNDER-18CHESS CHAMPIONSHIPS - 2025 in Shimla from 12-14 October 2025"
+      },
+      {
+         "description" : "The chess world is no stranger to scandals. A prominent recent controversy erupted in November 2023, when Vladimir Kramnik insinuated on his chess.com blog and in a YouTube video that Hikaru Nakamura cheated - when he scored 45.5/50 in a blitz tournament. Kramnik pointed out the statistical improbability of Nakamura's streak. But a research team, using Bayesian analysis and historical performance data, has found a 99.6% probability that Nakamura did not cheat.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/did-a-us-chess-champion-cheat",
+         "pubDate" : "Wed, 24 Sep 2025 10:00:00",
+         "title" : "Did a US chess champion cheat?"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124086028.cms\" />World Champion D Gukesh faced a tough stretch at the FIDE Grand Swiss tournament, impacting his Elo rating. Viswanathan Anand acknowledged Gukesh's challenges in adapting to his champion status and the pressure it brings. Anand remains optimistic about Gukesh's ability to rebound.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -62,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/checkmate-usa-vs-india-2025-stadium-sport",
-         "pubDate" : "Tue, 23 Sep 2025 06:29:04",
+         "pubDate" : "Tue, 23 Sep 2025 06:29:00",
          "title" : "Checkmate: USA vs India To Bring Chess Back To The Stadium Stage"
       },
       {
@@ -682,14 +706,6 @@ news_feed (
          "title" : "Saint Louis to Host America's Chess Elite in October 2025"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123789801.cms\" />Hans Niemann, amid the FIDE Grand Swiss, experienced an unexpected viral moment when a young fan, after taking a picture, asked for his name, creating a humorous and awkward encounter. The incident amused the chess community. Niemann's tournament performance has been varied, including draws and a recent victory, maintaining his status as a closely watched player.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/hilarious-chess-fan-asks-american-gm-hans-niemann-his-name-after-photo-together-at-fide-grand-swiss-watch/articleshow/123789801.cms",
-         "pubDate" : "Tue, 09 Sep 2025 16:07:31",
-         "title" : "Hilarious! Chess fan asks American GM his name after photo - Watch"
-      },
-      {
          "description" : "GM Parham Maghsoodloo drew against GM Arjun Erigaisi to remain sole leader of the 2025 FIDE Grand Swiss going into the only rest day, while GMs Anish Giri and Nihal Sarin both won sharp games to join a six-player pack half a point behind. World Ch...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -792,14 +808,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/solution-botvinnik-boleslavsky-1943",
          "pubDate" : "Wed, 03 Sep 2025 18:26:51",
          "title" : "Solution: Botvinnik-Boleslavsky 1943"
-      },
-      {
-         "description" : "The ECU Annual Academy training programme commences on 17th of November 2025 and will run until the 28th of April 2026 with the support of the FIDE Development Fund. The lecturers are the world-renowned chess coaches, and the trainings are organised in two groups: A for players rated 1900+, and B for players rated U1900. Each group will have 24 live sessions for a total of 48 hours of instruction. Participants will have the opportunity to watch the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-annual-academy-training-programme-2025-26/",
-         "pubDate" : "Wed, 03 Sep 2025 08:45:26",
-         "title" : "ECU Annual Academy training programme 2025/26"
       }
    ]
 }
