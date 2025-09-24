@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 17 to 25 September, the closed tournament \"Legends and Prodigies\" is being held in Madrid, featuring five GMs and five IMs in a generational clash. The event is a single round-robin with a classical time control. Among the participants are Peruvian GM Julio Granda, a legend of Latin American chess, alongside young talents Faustino Oro and Lu Miaoyi. The tournament will award a GM norm to players scoring 6/9 points. | Follow the games live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2025-live",
+         "pubDate" : "Wed, 24 Sep 2025 16:00:00",
+         "title" : "Legends & Prodigies, Round 8 - Live!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124089971.cms\" />World Champion D Gukesh, alongside chess legend Viswanathan Anand and R Praggnanandhaa, will headline the Global Chess League (GCL) Season 3. The player draft is scheduled for September 26 in Mumbai, with the league taking place in Chennai from December 13-24. While Magnus Carlsen will be absent, top players like Nakamura and Caruana will participate.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -66,7 +74,7 @@ news_feed (
          "title" : "11-Year-Old Faustino Oro Scores 1st GM Norm, Crosses 2500"
       },
       {
-         "description" : "Last Updated on 23rd September 2025 by WebAdmin FIDE's Chess in Education Commission continues to accelerate its provision of training for Lecturers and Teachers of Educational Chess, offering a series...",
+         "description" : "FIDE's Chess in Education Commission continues to accelerate its provision of training for Lecturers and Teachers of Educational Chess, offering a series of high-level online and in-person opportunities in autumn...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-chess-in-education-commission-edu-courses-events-september-november-2025/",
@@ -218,7 +226,7 @@ news_feed (
          "title" : "SNA seminar and Exam in Chennai on 25th & 26th October, 2025"
       },
       {
-         "description" : "Last Updated on 19th September 2025 by WebAdmin The ECF's Junior Selection Policy has been updated to reflect changes in the way England Juniors will be selected and qualify for...",
+         "description" : "The ECF's Junior Selection Policy has been updated to reflect changes in the way England Juniors will be selected and qualify for major international individual and team events.&#160;The full policy...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/updated-ecf-junior-selection-policy/",
@@ -290,7 +298,7 @@ news_feed (
          "title" : "FIDE World Cadet Chess Championships"
       },
       {
-         "description" : "Last Updated on 18th September 2025 by WebAdmin The new Coventry International will take place from Sunday 26th October to Friday 31st October 2025 at the Holiday Inn Coventry M6,...",
+         "description" : "The new Coventry International will take place from Sunday 26th October to Friday 31st October 2025 at the Holiday Inn Coventry M6, JCT.2 in Coventry. The hotel is familiar to...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/2025-coventry-international/",
@@ -298,7 +306,7 @@ news_feed (
          "title" : "2025 Coventry International"
       },
       {
-         "description" : "Last Updated on 18th September 2025 by WebAdmin The UK Open Blitz Championship returns in 2025, featuring an expanded format with 16 qualifiers in 14 cities around the United Kingdom....",
+         "description" : "The UK Open Blitz Championship returns in 2025, featuring an expanded format with 16 qualifiers in 14 cities around the United Kingdom. Eldar Gasanov will be aiming for a hat-trick...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/uk-open-blitz-championship-2025/",
@@ -354,7 +362,7 @@ news_feed (
          "title" : "All-in-Chess: The art and amusement of shared control"
       },
       {
-         "description" : "Last Updated on 19th September 2025 by WebAdmin The much awaited Live Chess World League 2025/S2 (Season 14) is now underway on Chess.com with teams from around the world playing...",
+         "description" : "The much awaited Live Chess World League 2025/S2 (Season 14) is now underway on Chess.com with teams from around the world playing in 5 divisions based on results from previous...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/live-chess-world-league-2025-s2/",
@@ -610,7 +618,7 @@ news_feed (
          "title" : "Nihal, Bluebaum Grab Grand Swiss Lead; Gukesh Loses 3rd Game"
       },
       {
-         "description" : "Last Updated on 19th September 2025 by WebAdmin There was a large number of nominations this year, and the Chess Trust made eight awards as follows: St Catherine's School Bramley;&#160;Stockport...",
+         "description" : "There was a large number of nominations this year, and the Chess Trust made eight awards as follows: St Catherine's School Bramley;&#160;Stockport Grammar School;&#160;Brentwood School;&#160;Redhill Prep School;&#160;Radcliffe &#38; Bingham Chess...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2025/",
@@ -674,7 +682,7 @@ news_feed (
          "title" : "Nakamura Kicks Off First Titled Tuesday After Party With Win"
       },
       {
-         "description" : "Last Updated on 19th September 2025 by WebAdmin The four books selected show the long history and variety of chess. Two books cover the life of a player with a...",
+         "description" : "The four books selected show the long history and variety of chess. Two books cover the life of a player with a natural genius for chess, and the remarkable early...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-shortlist-4/",
@@ -778,7 +786,7 @@ news_feed (
          "title" : "Senior National Arbiter Seminar & Examination in Guwahati on 20 & 21 September 2025"
       },
       {
-         "description" : "Last Updated on 19th September 2025 by WebAdmin Please note that the correct URLs to access the ECF LMS and Rating systems are as follows: https://rating.englishchess.org.uk/ https://lms.englishchess.org.uk/ The previous URLs...",
+         "description" : "Please note that the correct URLs to access the ECF LMS and Rating systems are as follows: https://rating.englishchess.org.uk/ https://lms.englishchess.org.uk/ The previous URLs can no longer be used to access the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/accessing-ecf-lms-and-rating/",
