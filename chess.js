@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Norway's GM Johan-Sebastian Christiansen emerged victorious at the inaugural Sahel Chess Festival, held in Monastir, Tunisia, from 1 to 9 September 2025. Scoring 8&frac12;/9 in the main Open, Christiansen also won the blitz event, highlighting the high level of play at a tournament that attracted 263 participants from 11 federations. The festival, hosted at the Amir Palace Hotel, showcased Tunisia's vibrant chess scene and signalled the start of a promising new tradition in the Sahel region. | All photos: Diana Mihajlova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sahel-chess-festival-2025",
+         "pubDate" : "Thu, 25 Sep 2025 12:30:00",
+         "title" : "1st Sahel Chess Festival in Monastir, Tunisia"
+      },
+      {
          "description" : "As is well known, chess not only offers the opportunity to play games, but also opens up further possibilities for intellectual engagement. These include composing and solving chess problems. The World Federation for Chess Composition has now published the FIDE Album 2019-2021, featuring the finest compositions and studies from this period.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/sep/05/chess-gukesh-wins-impressively-on-silk-road-as-grand-swiss-starts-in-samarkand",
          "pubDate" : "Fri, 05 Sep 2025 07:00:19",
          "title" : "Chess: World champion Gukesh falters against teenager as Grand Swiss starts on Silk Road"
-      },
-      {
-         "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the additional players and accompanying persons are required to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/commonwealth-chess-championship-2025-26-in-kuala-lumpur-malaysia-from-8th-to-17th-november-2025/",
-         "pubDate" : "Thu, 04 Sep 2025 10:23:35",
-         "title" : "Commonwealth Chess Championship - 2025 - 26 in Kuala Lumpur, Malaysia from 8th to 17th November, 2025."
       }
    ]
 }
