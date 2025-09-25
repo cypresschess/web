@@ -18,6 +18,14 @@ news_feed (
          "title" : "1st Sahel Chess Festival in Monastir, Tunisia"
       },
       {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The ceremonial first move (All photos courtesy FIDE)<br> <br> <br> <br> 842 players age 12 and under are competing across six sections in the 2025 FIDE World Cadet Championships in Almaty, Kazakhstan. 24 Americans made the trip for the 11-round Swiss system tournament, which resumes play tomorrow for Round 7 after today's rest day. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> A view of the playing hall<br> <br> <br> <br> There is at least one American player in contention in almost every section, but, with five rounds still to go, there's too much chess left to m",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/world-cadet-championships-halftime-report-laurie-qiu-leads-other-americans-close-behind",
+         "pubDate" : "Thu, 25 Sep 2025 00:00:00",
+         "title" : "World Cadet Championships Halftime Report: Laurie Qiu Leads, Other Americans Close Behind"
+      },
+      {
          "description" : "As is well known, chess not only offers the opportunity to play games, but also opens up further possibilities for intellectual engagement. These include composing and solving chess problems. The World Federation for Chess Composition has now published the FIDE Album 2019-2021, featuring the finest compositions and studies from this period.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -368,14 +376,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/danny-rensch-dark-squares-released",
          "pubDate" : "Tue, 16 Sep 2025 06:07:44",
          "title" : "Danny Rensch Releases Dark Squares: From Cult Survivor To Chess.com Co-Founder"
-      },
-      {
-         "description" : "This week begins our series on the just-concluded 2025 FIDE Grand Swiss and Women's Grand Swiss tournaments. Check back later today for a full report featuring annotations by WGM Sabina Foisor, and catch up on our report from the first half of the event here. We are pleased to share even more curated positions from Sabina over the next few weeks. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-fide-grand-swiss-pt-1",
-         "pubDate" : "Tue, 16 Sep 2025 00:00:00",
-         "title" : "Tactics Tuesday: 2025 FIDE Grand Swiss, Pt. 1"
       },
       {
          "description" : " The FIDE Grand Swiss Tournament took place in Samarkand, Uzbekistan Thu 4th Sep to Mon 15th Sep 2025. Players Open: Praggnanandhaa, Erigaisi, Gukesh, Firouzja, Keymer, Abdusattorov, Giri, Aronian, Nepomniachtchi, Mamedyarov, MVL, Niemann etc. Players Women: Muzychuk, Tan, Assaubayeva, Lagno etc play in the women's even which has suffered a number of withdrawals. Two players from each event qualified for the relevant Candidates tournaments. Anish Giri took clear first place in the open section with 8/11 and Matthias Bluebaum finished second on tie-break from Alireza Firouzja and Vincent Keymer. Rameshbabu Vaishali won the women's event on tie-break from Kateryna Lagno after they finished on ",
