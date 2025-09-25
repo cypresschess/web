@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess players have an advantage when it comes to learning a language. If they start with the help of a chess magazine, they already have a rough idea of what it is about. Roger Lorenz learnt Italian in this way while on holiday - with the help of the magazine \"Torre e Cavallo\". Now he can (almost) fluently understand Italian game commentaries and invites others to join in.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/torre-cavallo-crash-course-italian",
+         "pubDate" : "Thu, 25 Sep 2025 21:10:00",
+         "title" : "Torre & Cavallo: A crash course in Italian for chess players"
+      },
+      {
          "description" : "Norway's GM Johan-Sebastian Christiansen emerged victorious at the inaugural Sahel Chess Festival, held in Monastir, Tunisia, from 1 to 9 September 2025. Scoring 8&frac12;/9 in the main Open, Christiansen also won the blitz event, highlighting the high level of play at a tournament that attracted 263 participants from 11 federations. The festival, hosted at the Amir Palace Hotel, showcased Tunisia's vibrant chess scene and signalled the start of a promising new tradition in the Sahel region. | All photos: Diana Mihajlova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-album-2019-2021",
          "pubDate" : "Wed, 24 Sep 2025 21:40:00",
          "title" : "The FIDE Album 2019-2021"
-      },
-      {
-         "description" : "From 17 to 25 September, the closed tournament \"Legends and Prodigies\" is being held in Madrid, featuring five GMs and five IMs in a generational clash. The event is a single round-robin with a classical time control. Among the participants are Peruvian GM Julio Granda, a legend of Latin American chess, alongside young talents Faustino Oro and Lu Miaoyi. The tournament will award a GM norm to players scoring 6/9 points. | Follow the games live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2025-live",
-         "pubDate" : "Wed, 24 Sep 2025 16:00:00",
-         "title" : "Legends & Prodigies, Round 8 - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124089971.cms\" />World Champion D Gukesh, alongside chess legend Viswanathan Anand and R Praggnanandhaa, will headline the Global Chess League (GCL) Season 3. The player draft is scheduled for September 26 in Mumbai, with the league taking place in Chennai from December 13-24. While Magnus Carlsen will be absent, top players like Nakamura and Caruana will participate.",
