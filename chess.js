@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124160734.cms\" />The Global Chess League Season 3 player draft in Mumbai saw World Champion Gukesh and Arjun Erigaisi unite with PBG Alaskan Knights, while Wesley So joined Mumba Masters. The league, featuring top international and Indian talents, is set to debut in India from December 13-24, 2025, at the Royal Opera House.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-2025-player-draft-who-picked-d-gukesh-r-praggnanandhaa-all-you-need-to-know/articleshow/124160734.cms",
+         "pubDate" : "Fri, 26 Sep 2025 13:40:04",
+         "title" : "GCL 2025 draft: Who picked Gukesh, Pragg? All you need to know"
+      },
+      {
+         "description" : "Argentina's 11-year-old IM Faustino Oro won the Legends & Prodigies tournament in Madrid with an undefeated 7&frac12;/9 performance, finishing a point and a half ahead of Julio Granda and Alan Pichot. Along the way, he crossed the 2500 rating mark and secured his first grandmaster norm. With his October rating expected to rise above 2500, Oro now has until March 2026 to chase two further norms and potentially become the youngest grandmaster in history. | Photo: Mar Melero",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2025-r9",
+         "pubDate" : "Fri, 26 Sep 2025 12:45:00",
+         "title" : "Faustino Oro convincingly wins Legends & Prodigies event in Madrid"
+      },
+      {
+         "description" : " The Legends and Prodigies tournament took place Wed 17th Sep 2025 to Thu 25th Sep 2025. The event had four young players Diego Macias Pino (born 2007), Lu Miaoyi (2010 who had to withdraw at the half way stage), Ilan Schnaider (2011) and the player of the moment 11 year old Faustino Oro (2013). These were pitted against older players Julio Granda Zuniga, Omar Almeida Quintana, Jose Fernando Cuenca Jimenez, David Larino Nieto, Pedro Ramon Martinez Reyes and Alan Pichot. The event was dominated by Oro who conceded just three draws and won all sorts of games. This result reminds me of Carlsen's win and first GM norm in the Wijk aan Zee C tournament at the age of 13 in 2004 when it was no longe",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/legends-and-prodigies-2025",
+         "pubDate" : "Fri, 26 Sep 2025 09:23:00",
+         "title" : "Legends and Prodigies 2025 - Games and Results"
+      },
+      {
          "description" : "ONGC is inviting online applications for Sports Scholarships 2025-26 from underprivileged young, talented sportspersons, aged 15 to 20 years. In this regard, a complete details,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -38,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/faustino-oro-wins-madrid-shatters-praggnanandhaa-records",
-         "pubDate" : "Fri, 26 Sep 2025 02:55:43",
+         "pubDate" : "Fri, 26 Sep 2025 02:55:00",
          "title" : "11-Year-Old Faustino Oro Dominates In Madrid, Shatters Two Praggnanandhaa Records"
       },
       {
@@ -640,14 +664,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fortune-brainstorm-tech-2025-arbaugh-plays-cramling",
          "pubDate" : "Thu, 11 Sep 2025 06:28:34",
          "title" : "Noland Arbaugh, Neuralink's 1st Patient, Plays Chess.com Game Against Anna Cramling"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123808140.cms\" />Magnus Carlsen has commented on Hikaru Nakamura's approach to qualify for the Candidates Tournament. Carlsen finds Nakamura's strategy shameless but pragmatic. Nakamura is playing in smaller open events to gain rating points. He recently won the Iowa Open. This victory brings him closer to his goal. Some criticize his choice of tournaments.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-im-not-part-of-that-s-anymore-magnus-carlsen-calls-world-no-2-hikaru-nakamura-shameless-blasts-candidates-path/articleshow/123808140.cms",
-         "pubDate" : "Wed, 10 Sep 2025 11:51:59",
-         "title" : "Carlsen calls World No. 2 Nakamura 'shameless': 'I'm not part of that'"
       },
       {
          "description" : "The teams in CoachChamps 2025 are set for the main event in October. The eight coaches&#38;mdash;GMs Arturs Neiksans, Ben Finegold, IMs Levy Rozman, David Pruess, Andras Toth, WGM Dina Belenkaya, CM Can Kabadayi, and NM Robert Ramirez&#38;mdash;have each ...",
