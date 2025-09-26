@@ -26,6 +26,14 @@ news_feed (
          "title" : "Faustino Oro convincingly wins Legends & Prodigies event in Madrid"
       },
       {
+         "description" : "GM Alexander Grischuk won his second Freestyle Friday of the year on September 26, recovering from a 1.5/3 start by winning his last eight games to clear the 135-player field by a full point. GMs Hikaru Nakamura and Jan-Krzysztof Duda were Grischu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/grischuk-wins-freestyle-friday-september-26-2025",
+         "pubDate" : "Fri, 26 Sep 2025 11:13:00",
+         "title" : "Grischuk Rides Big Win Streak To 2nd Freestyle Friday Victory"
+      },
+      {
          "description" : " The Legends and Prodigies tournament took place Wed 17th Sep 2025 to Thu 25th Sep 2025. The event had four young players Diego Macias Pino (born 2007), Lu Miaoyi (2010 who had to withdraw at the half way stage), Ilan Schnaider (2011) and the player of the moment 11 year old Faustino Oro (2013). These were pitted against older players Julio Granda Zuniga, Omar Almeida Quintana, Jose Fernando Cuenca Jimenez, David Larino Nieto, Pedro Ramon Martinez Reyes and Alan Pichot. The event was dominated by Oro who conceded just three draws and won all sorts of games. This result reminds me of Carlsen's win and first GM norm in the Wijk aan Zee C tournament at the age of 13 in 2004 when it was no longe",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -72,6 +80,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/faustino-oro-wins-madrid-shatters-praggnanandhaa-records",
          "pubDate" : "Fri, 26 Sep 2025 02:55:00",
          "title" : "11-Year-Old Faustino Oro Dominates In Madrid, Shatters Two Praggnanandhaa Records"
+      },
+      {
+         "description" : "US Chess is pleased to announce the recipients of the 2025-2026 Herbert B. Jacklyn Program. The winners, their hometowns, and colleges/universities they are attending are:Kevin Flores, Palmview, TX, attending University of Texas Rio Grande Valley, TXAustin John, Cedar Park, TX, attending University of Texas at Austin, TXAparna Yellamraju, Austin, TX, attending New York University, NYYajat Gupta, Chester Springs, PA, attending Georgetown University, Washington D.C. In addition to the 18-21 age requirements set forth in Dr. Jacklyn's bequest, applicants for the Jacklyn Program must be US Chess members with a rating between 1500-2000 and have a sustained history of playing in US Chess-rated eve",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-herbert-b-jacklyn-program-recipients-announced",
+         "pubDate" : "Fri, 26 Sep 2025 00:00:00",
+         "title" : "2025 Herbert B. Jacklyn Program Recipients Announced"
       },
       {
          "description" : "Chess players have an advantage when it comes to learning a language. If they start with the help of a chess magazine, they already have a rough idea of what it is about. Roger Lorenz learnt Italian in this way while on holiday - with the help of the magazine \"Torre e Cavallo\". Now he can (almost) fluently understand Italian game commentaries and invites others to join in.",
@@ -416,14 +432,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-i-decided-not-to-play-grand-swiss-how-r-vaishalis-chennai-nightmare-earned-her-a-2026-candidates-ticket/articleshow/123936941.cms",
          "pubDate" : "Wed, 17 Sep 2025 06:26:58",
          "title" : "'I decided not to play Grand Swiss': How R Vaishali's Chennai nightmare earned her a 2026 Candidates ticket"
-      },
-      {
-         "description" : "This week begins our series on the just-concluded 2025 FIDE Grand Swiss and Women's Grand Swiss tournaments. Check back later today for a full report featuring annotations by WGM Sabina Foisor, and catch up on our report from the first half of the event here. We are pleased to share even more curated positions from Sabina over the next few weeks, including a more accessible batch of tactics beginning with yesterday's Tactics Tuesday column. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2025-fide-grand-swiss-pt-1",
-         "pubDate" : "Wed, 17 Sep 2025 00:00:00",
-         "title" : "Wednesday Workout: 2025 FIDE Grand Swiss, Pt. 1"
       },
       {
          "description" : "GM Magnus Carlsen won Titled Tuesday for the second straight week on September 16, scoring 10.5 points with only a draw against GM Jan-Krzysztof Duda preventing him from the perfect 11/11 in what he called &#34;definitely one of my more comfortable Ti...",
