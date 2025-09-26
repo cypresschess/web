@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124148780.cms\" />Indian chess prodigy R Praggnanandhaa, fresh off his Sinquefield Cup performance and Tata Masters win, unwinds by playing Jenga, showcasing his ability to balance focus and relaxation. His recent achievements, including a rivalry with D. Gukesh, highlight India's growing chess prominence.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tests-your-nerves-r-praggnanandhaa-plays-jenga-with-friends-to-unwind-watch/articleshow/124148780.cms",
+         "pubDate" : "Fri, 26 Sep 2025 07:12:31",
+         "title" : "'Tests your nerves': R Praggnanandhaa plays jenga with friends to unwind - watch"
+      },
+      {
+         "description" : " Schoolboy also beat three international masters and made a huge ratings gain, but was edged out in the final Interest in English one-day blitz tournaments is growing rapidly. They offer the chance to compete in officially ranked events with many rounds without the financial pressures of overnight accommodation, and give amateurs and juniors a rare chance to take on established masters, with a chance of an upset result. This year the English Chess Federation has doubled the number of qualifying events for the UK Blitz Championship, whose final is at Leamington in November, from eight to 16, and organised three qualifiers in Greater London rather than just one. All three tournaments, in Hampt",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/sep/26/chess-kai-hanache-13-beats-three-grandmasters-uk-blitz-qualifier",
+         "pubDate" : "Fri, 26 Sep 2025 07:00:59",
+         "title" : "Chess: Kai Hanache, 13, beats three grandmasters at UK blitz qualifier"
+      },
+      {
          "description" : "Chess players have an advantage when it comes to learning a language. If they start with the help of a chess magazine, they already have a rough idea of what it is about. Roger Lorenz learnt Italian in this way while on holiday - with the help of the magazine \"Torre e Cavallo\". Now he can (almost) fluently understand Italian game commentaries and invites others to join in.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -650,14 +666,6 @@ news_feed (
          "title" : "New low for D Gukesh: Two losses in a row and now virtually out of Grand Swiss title race"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123790630.cms\" />Turkish chess prodigy Yagiz Kaan Erdogmus, 14, drew against his coach Shakhriyar Mamedyarov at the FIDE Grand Swiss 2025 after a short 16-move game. This followed Yagiz's stunning victory over India's Aditya Mittal, where he executed a brilliant checkmate despite a significant material disadvantage. Praveen Thipsay called it a \"game for the books of combinations.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-after-190-move-draw-14-year-old-yagiz-kaan-erdogmus-plays-out-16-move-draw-at-fide-grand-swiss-2025-heres-why/articleshow/123790630.cms",
-         "pubDate" : "Tue, 09 Sep 2025 17:24:19",
-         "title" : "After 190-move draw, 14-yo Erdogmus plays 16-move draw: Here's why"
-      },
-      {
          "description" : " U.S. Championship, U.S. Women's Championship, Hall of Fame Inductions and More to Highlight a Month of Historic Chess Events SAINT LOUIS, September 9, 2025 The nation's top chess players are set to compete in America's most prestigious events - the 2025 U.S. Chess Championship and the 2025 U.S. Women's Chess Championship. Hosted by the newly [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-to-host-americas-chess-elite-in-october-2025/\">Saint Louis to Host America's Chess Elite in October 2025</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/accessing-ecf-lms-and-rating/",
          "pubDate" : "Fri, 05 Sep 2025 09:09:56",
          "title" : "Accessing ECF LMS and Rating"
-      },
-      {
-         "description" : " The contest in Uzbekistan will qualify two of the eight 2026 world title Candidates, but Nakamura, the world No 2, has controversially preferred a low-rated qualification route The 11-round $625,000 Fide Grand Swiss, which began on Thursday in Samarkand, Uzbekistan, the capital of the Silk Road, will decide two of the eight qualifiers for next year's world title Candidates. India has a strong hand, as the world champion, Gukesh Dommaraju (ineligible to qualify), is joined by the world No 4, Praggnanandhaa Rameshbabu, the world No 5, Arjun Erigaisi, and the world No 27, Vidit Gujrathi, who won the 2023 Grand Swiss in Douglas, Isle of Man. Praggnanandhaa is already well placed to qualify via ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/sep/05/chess-gukesh-wins-impressively-on-silk-road-as-grand-swiss-starts-in-samarkand",
-         "pubDate" : "Fri, 05 Sep 2025 07:00:19",
-         "title" : "Chess: World champion Gukesh falters against teenager as Grand Swiss starts on Silk Road"
       }
    ]
 }
