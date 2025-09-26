@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ONGC is inviting online applications for Sports Scholarships 2025-26 from underprivileged young, talented sportspersons, aged 15 to 20 years. In this regard, a complete details,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/ongc-sports-scholarship-2025-26/",
+         "pubDate" : "Fri, 26 Sep 2025 07:42:27",
+         "title" : "ONGC Sports Scholarship 2025-26 "
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124148780.cms\" />Indian chess prodigy R Praggnanandhaa, fresh off his Sinquefield Cup performance and Tata Masters win, unwinds by playing Jenga, showcasing his ability to balance focus and relaxation. His recent achievements, including a rivalry with D. Gukesh, highlight India's growing chess prominence.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -10,12 +18,28 @@ news_feed (
          "title" : "'Tests your nerves': R Praggnanandhaa plays jenga with friends to unwind - watch"
       },
       {
-         "description" : " Schoolboy also beat three international masters and made a huge ratings gain, but was edged out in the final Interest in English one-day blitz tournaments is growing rapidly. They offer the chance to compete in officially ranked events with many rounds without the financial pressures of overnight accommodation, and give amateurs and juniors a rare chance to take on established masters, with a chance of an upset result. This year the English Chess Federation has doubled the number of qualifying events for the UK Blitz Championship, whose final is at Leamington in November, from eight to 16, and organised three qualifiers in Greater London rather than just one. All three tournaments, in Hampt",
+         "description" : " Schoolboy also beat three international masters and made a huge ratings gain, but was edged out in the final round Interest in English one-day blitz tournaments is growing rapidly. They offer the chance to compete in officially ranked events with many rounds without the financial pressures of overnight accommodation, and give amateurs and juniors a rare chance to take on established masters, with a chance of an upset result. This year the English Chess Federation has doubled the number of qualifying events for the UK Blitz Championship, whose final is at Leamington in November, from eight to 16, and organised three qualifiers in Greater London rather than just one. All three tournaments, in",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/sep/26/chess-kai-hanache-13-beats-three-grandmasters-uk-blitz-qualifier",
          "pubDate" : "Fri, 26 Sep 2025 07:00:59",
          "title" : "Chess: Kai Hanache, 13, beats three grandmasters at UK blitz qualifier"
+      },
+      {
+         "description" : "The Chhattisgarh State Chess Association, under the aegis of the All India Chess Federation, successfully organized a Grandmaster Coaching Camp in Raipur from 11th to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/report-on-gm-coaching-camp-raipur-from-11-17-sept-2025/",
+         "pubDate" : "Fri, 26 Sep 2025 06:11:12",
+         "title" : "Report on GM Coaching Camp, Raipur from 11-17 Sept.2025Report on GM Coaching Camp, Raipur ,Chhattisgarh (11-17 September 2025)"
+      },
+      {
+         "description" : "Argentinian chess prodigy IM Faustino Oro continues to rewrite the history books. The 11-year-old won the Legends &#38;amp; Prodigies 2025 tournament in Madrid on Thursday, clinching first place with a round to spare. Along the way, he secured his fir...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/faustino-oro-wins-madrid-shatters-praggnanandhaa-records",
+         "pubDate" : "Fri, 26 Sep 2025 02:55:43",
+         "title" : "11-Year-Old Faustino Oro Dominates In Madrid, Shatters Two Praggnanandhaa Records"
       },
       {
          "description" : "Chess players have an advantage when it comes to learning a language. If they start with the help of a chess magazine, they already have a rough idea of what it is about. Roger Lorenz learnt Italian in this way while on holiday - with the help of the magazine \"Torre e Cavallo\". Now he can (almost) fluently understand Italian game commentaries and invites others to join in.",
@@ -706,14 +730,6 @@ news_feed (
          "title" : "27th Asian Youth Chess Championships - 2025 in Bangkok, Thailand from 20th to 30th November, 2025."
       },
       {
-         "description" : "One of the longest-running tournaments in Spain sparked reactions this week after organizers tried to ban Israeli players and prevent them from competing under their national flag. Following backlash from players, media, and warnings from FIDE, th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/israeli-flag-ban-reversed-after-fide-condemn-spanish-organizers",
-         "pubDate" : "Mon, 08 Sep 2025 12:42:00",
-         "title" : "FIDE Steps In After Attempted Ban On Israeli Players In Spanish Open Tournament"
-      },
-      {
          "description" : "NO Name1 Priyabrata Bhattacharya2 Arunava Pal3 Ishan Das4 Rahul Jain5 Kingshuk, Debnath6 Rajbeer Ahmed7 Sky Debnath8 Suprith Jain9 Sakhawat Hussain10 Dipasree Ray Chaudhuri11 Sudip Kumar",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -736,22 +752,6 @@ news_feed (
          "link" : "https://www.thearticle.com/paradise-regained-the-reopening-of-simpsons/",
          "pubDate" : "Sat, 06 Sep 2025 12:00:20",
          "title" : "Paradise regained: the reopening of Simpson's"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation , All Assam State Chess Association is organizing Senior National Hotel Ornate, near Nehru Stadium in Guwahati ,Assam on 21",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-in-guwahati-on-20-21-september-2025/",
-         "pubDate" : "Fri, 05 Sep 2025 10:34:39",
-         "title" : "Senior National Arbiter Seminar & Examination in Guwahati on 20 & 21 September 2025"
-      },
-      {
-         "description" : "Please note that the correct URLs to access the ECF LMS and Rating systems are as follows: https://rating.englishchess.org.uk/ https://lms.englishchess.org.uk/ The previous URLs can no longer be used to access the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/accessing-ecf-lms-and-rating/",
-         "pubDate" : "Fri, 05 Sep 2025 09:09:56",
-         "title" : "Accessing ECF LMS and Rating"
       }
    ]
 }
