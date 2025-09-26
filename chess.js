@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grand Chess Tour Finals return in 2025, taking place at the World Trade Center in São Paulo from 28 September to 3 October. For the first time since 2019, the season will conclude with knockout matches. The event will feature Maxime Vachier-LaGrave, Praggnanandhaa Rameshbabu, Fabiano Caruana and Levon Aronian. Marking the Tour's tenth anniversary, the Finals form part of a $1.6 million prize fund, with $350,000 at stake in South America's first GCT event.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gct-finals-2025-preview",
+         "pubDate" : "Fri, 26 Sep 2025 17:00:00",
+         "title" : "Starting Sunday: Grand Chess Tour Finals in São Paulo"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124160734.cms\" />The Global Chess League Season 3 player draft in Mumbai saw World Champion Gukesh and Arjun Erigaisi unite with PBG Alaskan Knights, while Wesley So joined Mumba Masters. The league, featuring top international and Indian talents, is set to debut in India from December 13-24, 2025, at the Royal Opera House.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
