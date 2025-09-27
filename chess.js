@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Gukesh..Gukesh..Gukesh..the crowd screamed, welcoming the youngest-ever world chess champion on the stage. A bit overwhelmed, but extremely calm and composed, the 19-year-old youngster took the stage in a foreign land where people waited to watch him. And as humble as he is, Gukesh shared his thoughts on the stage! As the audience cheered in applause, he said, \"Just keep loving chess\". Gukesh was invited to be a part of a two-day event in Poland, and these were two of the most incredible days that we have spent with Gukesh! | All photos and videos by Aditya Sur Roy.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-trip-poland-2025",
+         "pubDate" : "Sat, 27 Sep 2025 22:10:00",
+         "title" : "A helicopter ride with world champion Gukesh Dommaraju"
+      },
+      {
          "description" : " Emory Tate is obviously one of the most significant figures when it comes to content at The Chess Drum. In the nearly 25 years of the site's existence, Tate's initial exposure appeared on these pages, as few media outlets wrote stories about this mercurial and fascinating personality. Emory Tate, Jr. December 27, 1958 October The post <a href=\"https://thechessdrum.net/blog/2025/09/27/emory-tate-masterclass-10-year-tribute/\">Emory Tate Masterclass 10-year tribute!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/david-navara-your-calculation-compass-know-when-to-calculate-2",
          "pubDate" : "Sat, 27 Sep 2025 07:00:00",
          "title" : "David Navara: Your Calculation Compass - Know When to Calculate"
-      },
-      {
-         "description" : "The Grand Chess Tour Finals return in 2025, taking place at the World Trade Center in São Paulo from 28 September to 3 October. For the first time since 2019, the season will conclude with knockout matches. The event will feature Maxime Vachier-LaGrave, Praggnanandhaa Rameshbabu, Fabiano Caruana and Levon Aronian. Marking the Tour's tenth anniversary, the Finals form part of a $1.6 million prize fund, with $350,000 at stake in South America's first GCT event.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2025-preview",
-         "pubDate" : "Fri, 26 Sep 2025 17:00:00",
-         "title" : "Starting Sunday: Grand Chess Tour Finals in São Paulo"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124160734.cms\" />The Global Chess League Season 3 player draft in Mumbai saw World Champion Gukesh and Arjun Erigaisi unite with PBG Alaskan Knights, while Wesley So joined Mumba Masters. The league, featuring top international and Indian talents, is set to debut in India from December 13-24, 2025, at the Royal Opera House.",
