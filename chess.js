@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The technique of calculating variations is perhaps one of the most important techniques that defines a chess player's playing strength. An entire generation of top players, including the current World Champion Gukesh Dommaraju, have a reputation of being true calculating machines. David Navara brings the secrets of calculating variations from the perspective of an absolute top player with a peak rating of 2751 to your home. Lukas K&ouml;pl, himself a trainer and advocate of the technique of calculating variations, reviewed David Navara's contribution. | Photos: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/david-navara-your-calculation-compass-know-when-to-calculate-2",
+         "pubDate" : "Sat, 27 Sep 2025 07:00:00",
+         "title" : "David Navara: Your Calculation Compass - Know When to Calculate"
+      },
+      {
          "description" : "The Grand Chess Tour Finals return in 2025, taking place at the World Trade Center in São Paulo from 28 September to 3 October. For the first time since 2019, the season will conclude with knockout matches. The event will feature Maxime Vachier-LaGrave, Praggnanandhaa Rameshbabu, Fabiano Caruana and Levon Aronian. Marking the Tour's tenth anniversary, the Finals form part of a $1.6 million prize fund, with $350,000 at stake in South America's first GCT event.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
