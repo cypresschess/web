@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess Bundesliga kicks off this weekend with the new season. The venues are Deggendorf, Deizisau, Wolfhagen and Heimbach-Weis-Neuwied. Reigning champions, D&uuml;sseldorfer SK - without their top players following the withdrawal of their sponsor - together with their travel partner Solingen, face an initial test against Deggendorf and Bayern Munich. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-2025-26-live",
+         "pubDate" : "Sat, 27 Sep 2025 14:00:00",
+         "title" : "Bundesliga - Live!"
+      },
+      {
+         "description" : "Technology is exciting. But the more I learn about chess improvement, the more I feel like technology is a problem, not an asset for most chess improvers. The key problem? If we don't fight it, technology will use us, instead of us using technology. The most prominent way to get used by technology is to []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/chess-improvement-and-technology/",
+         "pubDate" : "Sat, 27 Sep 2025 13:00:00",
+         "title" : "Use Technology - Don't let it use you"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124181475.cms\" />Argentinian chess prodigy Faustino Oro, aged 11, won the Legends & Prodigies 2025 tournament, securing his first GM norm and remaining undefeated. He set new performance and FIDE rating records for players under 12, becoming the youngest to surpass a 2500 rating. Oro now aims to become the youngest Grandmaster in history.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/11-year-old-lionel-messi-of-chess-faustino-oro-shatters-records-to-outshine-indias-r-praggnanandhaa/articleshow/124181475.cms",
+         "pubDate" : "Sat, 27 Sep 2025 12:04:28",
+         "title" : "'Messi of Chess' Oro, 11, breaks records to surpass Praggnanandhaa"
+      },
+      {
          "description" : "It is well known (not least from the Benedict Cumberbatch movie Breaking the Code) that chess masters were largely responsible for unravelling Nazi codes at Bletchley Park during World War II. Figures such as Harry Golombek OBE, C H 0'D (Hugh) Alexander CBE and Sir Stuart Milner Barry, all of whom were personal friends of []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -194,7 +218,7 @@ news_feed (
          "title" : "Nakamura Wins Titled Tuesday Drama-Free, Joins CCT Leaders"
       },
       {
-         "description" : "Argentina&#38;rsquo;s IM Faustino Oro has scored his first grandmaster norm after a stunning 6/7 start to the Legends &#38;amp; Prodigies 2025 tournament in Madrid, Spain. Only World Champion Gukesh Dommaraju has ever scored a GM norm at a younger age and...",
+         "description" : "Argentina&#38;rsquo;s IM Faustino Oro has scored his first grandmaster norm after a stunning 6/7 start to the Legends &#38;amp; Prodigies 2025 tournament in Madrid, Spain. Only World Champion Gukesh Dommaraju and GM Illya Nyzhnyk have ever scored a GM nor...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/faustino-oro-gm-norm-crosses-2500",
@@ -730,14 +754,6 @@ news_feed (
          "title" : "ECF Book of the Year shortlist"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123801976.cms\" />D Gukesh, the world champion, faced another setback at the FIDE Grand Swiss, losing to Nikolas Theodorou on Tuesday after a previous defeat. Theodorou, surprised by Gukesh's opening, capitalised on a missed threefold repetition claim by Gukesh. Despite Gukesh's ambition to win with the White pieces, Theodorou secured the victory in 47 moves.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-new-low-for-world-champion-gukesh-virtually-out-of-grand-swiss-title-race-after-second-straight-defeat/articleshow/123801976.cms",
-         "pubDate" : "Wed, 10 Sep 2025 06:52:15",
-         "title" : "New low for D Gukesh: Two losses in a row and now virtually out of Grand Swiss title race"
-      },
-      {
          "description" : " U.S. Championship, U.S. Women's Championship, Hall of Fame Inductions and More to Highlight a Month of Historic Chess Events SAINT LOUIS, September 9, 2025 The nation's top chess players are set to compete in America's most prestigious events - the 2025 U.S. Chess Championship and the 2025 U.S. Women's Chess Championship. Hosted by the newly [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-to-host-americas-chess-elite-in-october-2025/\">Saint Louis to Host America's Chess Elite in October 2025</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -784,22 +800,6 @@ news_feed (
          "link" : "https://aicf.in/certificates-of-sna-seminar-exam-held-in-agartala-on-21-22-september-2025/",
          "pubDate" : "Mon, 08 Sep 2025 06:10:56",
          "title" : "Certificates of SNA Seminar & Exam held in Agartala on 21 & 22 September 2025"
-      },
-      {
-         "description" : "If you're used to picking things up quickly, in school, at work, or in life, then chess can feel strangely frustrating. You're successful in your career. You had little trouble with math in school. You've solved tough problems before, and usually with less effort than most. But in chess, you struggle. For the first time, []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/chess-improvement-for-smart-adults/",
-         "pubDate" : "Sat, 06 Sep 2025 13:59:00",
-         "title" : "What If Being Smart Was The Problem?"
-      },
-      {
-         "description" : "Simpson's-in-the-Strand is due to reopen this autumn after being closed for five years, ever since the Covid pandemic. For nearly two centuries, Simpson's Grand Cigar Divan (as it was originally known) has been a landmark for chess players. The excitement is not least present with the new proprietor, the celebrated restaurateur Jeremy King. Here are his thoughts []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/paradise-regained-the-reopening-of-simpsons/",
-         "pubDate" : "Sat, 06 Sep 2025 12:00:20",
-         "title" : "Paradise regained: the reopening of Simpson's"
       }
    ]
 }
