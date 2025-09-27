@@ -1,4 +1,6 @@
 jtable([
+"CYPRESS","2025-09-26","57","<a href=http://www.uschess.org/msa/XtblMain.php?202509267372 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SUGAR LAND","2025-09-26","18","<a href=http://www.uschess.org/msa/XtblMain.php?202509267342 target='_blank'>FBCC NATIONAL DUMPLING DAY OPEN</a>",
 "HOUSTON","2025-09-19  - 09-21","84","<a href=http://www.uschess.org/msa/XtblMain.php?202509214302 target='_blank'>AUTUMN FIDE 2025</a>",
 "SUGAR LAND","2025-09-20","78","<a href=http://www.uschess.org/msa/XtblMain.php?202509203582 target='_blank'>FELLOWSHIP CHRISTIAN ACADEMY</a>",
 "HOUSTON","2025-09-20","9","<a href=http://www.uschess.org/msa/XtblMain.php?202509202992 target='_blank'>CHESSPANDA09202025SATURDAY</a>",
@@ -197,6 +199,4 @@ jtable([
 "PEARLAND","2025-03-15","19","<a href=http://www.uschess.org/msa/XtblMain.php?202503150152 target='_blank'>PEARLAND OPEN MARCH 2025</a>",
 "SPRING","2025-03-14","16","<a href=http://www.uschess.org/msa/XtblMain.php?202503149922 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2025-03-14","6","<a href=http://www.uschess.org/msa/XtblMain.php?202503149792 target='_blank'>FBCC 2025 NATIONAL PI DAY OPEN</a>",
-"CYPRESS","2025-03-14","23","<a href=http://www.uschess.org/msa/XtblMain.php?202503140632 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2025-03-09","44","<a href=http://www.uschess.org/msa/XtblMain.php?202503099582 target='_blank'>SRI MEENAKSHI TEMPLE 03-09-2025</a>",
 ]);
