@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Emory Tate is obviously one of the most significant figures when it comes to content at The Chess Drum. In the nearly 25 years of the site's existence, Tate's initial exposure appeared on these pages, as few media outlets wrote stories about this mercurial and fascinating personality. Emory Tate, Jr. December 27, 1958 October The post <a href=\"https://thechessdrum.net/blog/2025/09/27/emory-tate-masterclass-10-year-tribute/\">Emory Tate Masterclass 10-year tribute!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/09/27/emory-tate-masterclass-10-year-tribute/",
+         "pubDate" : "Sat, 27 Sep 2025 17:23:42",
+         "title" : "Emory Tate Masterclass&hellip; 10-year tribute!"
+      },
+      {
          "description" : "The Chess Bundesliga kicks off this weekend with the new season. The venues are Deggendorf, Deizisau, Wolfhagen and Heimbach-Weis-Neuwied. Reigning champions, D&uuml;sseldorfer SK - without their top players following the withdrawal of their sponsor - together with their travel partner Solingen, face an initial test against Deggendorf and Bayern Munich. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-2025-player-draft-who-picked-d-gukesh-r-praggnanandhaa-all-you-need-to-know/articleshow/124160734.cms",
          "pubDate" : "Fri, 26 Sep 2025 13:40:04",
          "title" : "GCL 2025 draft: Who picked Gukesh, Pragg? All you need to know"
-      },
-      {
-         "description" : "Argentina's 11-year-old IM Faustino Oro won the Legends & Prodigies tournament in Madrid with an undefeated 7&frac12;/9 performance, finishing a point and a half ahead of Julio Granda and Alan Pichot. Along the way, he crossed the 2500 rating mark and secured his first grandmaster norm. With his October rating expected to rise above 2500, Oro now has until March 2026 to chase two further norms and potentially become the youngest grandmaster in history. | Photo: Mar Melero",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2025-r9",
-         "pubDate" : "Fri, 26 Sep 2025 12:45:00",
-         "title" : "Faustino Oro convincingly wins Legends & Prodigies event in Madrid"
       },
       {
          "description" : "GM Alexander Grischuk won his second Freestyle Friday of the year on September 26, recovering from a 1.5/3 start by winning his last eight games to clear the 135-player field by a full point. GMs Hikaru Nakamura and Jan-Krzysztof Duda were Grischu...",
@@ -130,36 +130,12 @@ news_feed (
          "title" : "2025 Herbert B. Jacklyn Program Recipients Announced"
       },
       {
-         "description" : "Chess players have an advantage when it comes to learning a language. If they start with the help of a chess magazine, they already have a rough idea of what it is about. Roger Lorenz learnt Italian in this way while on holiday - with the help of the magazine \"Torre e Cavallo\". Now he can (almost) fluently understand Italian game commentaries and invites others to join in.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/torre-cavallo-crash-course-italian",
-         "pubDate" : "Thu, 25 Sep 2025 21:10:00",
-         "title" : "Torre & Cavallo: A crash course in Italian for chess players"
-      },
-      {
-         "description" : "Norway's GM Johan-Sebastian Christiansen emerged victorious at the inaugural Sahel Chess Festival, held in Monastir, Tunisia, from 1 to 9 September 2025. Scoring 8&frac12;/9 in the main Open, Christiansen also won the blitz event, highlighting the high level of play at a tournament that attracted 263 participants from 11 federations. The festival, hosted at the Amir Palace Hotel, showcased Tunisia's vibrant chess scene and signalled the start of a promising new tradition in the Sahel region. | All photos: Diana Mihajlova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sahel-chess-festival-2025",
-         "pubDate" : "Thu, 25 Sep 2025 12:30:00",
-         "title" : "1st Sahel Chess Festival in Monastir, Tunisia"
-      },
-      {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The ceremonial first move (All photos courtesy FIDE)<br> <br> <br> <br> 842 players age 12 and under are competing across six sections in the 2025 FIDE World Cadet Championships in Almaty, Kazakhstan. 24 Americans made the trip for the 11-round Swiss system tournament, which resumes play tomorrow for Round 7 after today's rest day. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> A view of the playing hall<br> <br> <br> <br> There is at least one American player in contention in almost every section, but, with five rounds still to go, there's too much chess left to m",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/world-cadet-championships-halftime-report-laurie-qiu-leads-other-americans-close-behind",
          "pubDate" : "Thu, 25 Sep 2025 00:00:00",
          "title" : "World Cadet Championships Halftime Report: Laurie Qiu Leads, Other Americans Close Behind"
-      },
-      {
-         "description" : "As is well known, chess not only offers the opportunity to play games, but also opens up further possibilities for intellectual engagement. These include composing and solving chess problems. The World Federation for Chess Composition has now published the FIDE Album 2019-2021, featuring the finest compositions and studies from this period.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-album-2019-2021",
-         "pubDate" : "Wed, 24 Sep 2025 21:40:00",
-         "title" : "The FIDE Album 2019-2021"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124089971.cms\" />World Champion D Gukesh, alongside chess legend Viswanathan Anand and R Praggnanandhaa, will headline the Global Chess League (GCL) Season 3. The player draft is scheduled for September 26 in Mumbai, with the league taking place in Chennai from December 13-24. While Magnus Carlsen will be absent, top players like Nakamura and Caruana will participate.",
@@ -192,22 +168,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-2025-fide-grand-swiss-pt-2",
          "pubDate" : "Wed, 24 Sep 2025 00:00:00",
          "title" : "Wednesday Workout: 2025 FIDE Grand Swiss, Pt. 2"
-      },
-      {
-         "description" : "Argentina's 11-year-old Faustino Oro is leading the Legends & Prodigies tournament in Madrid after scoring 6 points from his first 7 games. His victories included a crucial win over former co-leader Alan Pichot, and his performance has already secured him a first grandmaster norm. With his rating now above 2500, Oro has moved closer to becoming the youngest grandmaster in history. The event also saw Lu Miaoyi withdraw due to health issues. | Photo: Ra&uacute;l Mart&iacute;nez",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2025-r6",
-         "pubDate" : "Tue, 23 Sep 2025 23:50:00",
-         "title" : "Faustino Oro crosses 2500 rating mark, collects first GM norm"
-      },
-      {
-         "description" : "The legendary world champion and political activist has issued a warning regarding the current media crackdown in the US, comparing it to the early days of Putin's rule in Russia. Kasparov appeared for an interview with CNN's Anderson Cooper, and on MSNBC with Jen Psaki. You can read his article and watch the videos of his eloquent admonitions here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/garry-kasparov-warns",
-         "pubDate" : "Tue, 23 Sep 2025 13:00:00",
-         "title" : "Garry Kasparov warns"
       },
       {
          "description" : "GM Hikaru Nakamura took his first Titled Tuesday in the new system on September 23, entering the top four of the Champions Chess Tour standings. Other than two quick draws in the seventh and eighth rounds, he scored every possible point on his way...",
@@ -266,14 +226,6 @@ news_feed (
          "title" : "Update on 2025-26 Women and Girls Programming Grant Applications"
       },
       {
-         "description" : "The development of chess is deeply entwined with the history of human civilisation, and its journey along the Silk Road helped transform it into a cultural treasure that transcends borders. From its early forms in India and China to its adaptations in Persia, the Islamic world and medieval Europe, chess evolved as a mirror of thought and philosophy. This account retraces its millennial path, highlighting how every move carries memory, creativity and a universal human legacy.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/millenial-journey-chess-silk-road",
-         "pubDate" : "Mon, 22 Sep 2025 21:45:00",
-         "title" : "The millennial journey of chess along the Silk Road"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124052363.cms\" />Divya Deshmukh, India's 19-year-old Grandmaster, has received a wild card entry into the FIDE World Cup 2025 in Goa after a last-minute withdrawal. She will join 20 other Indian players, including world champion D Gukesh, in the knockout tournament. The biennial event features 206 top players, with the top three finishers qualifying for the 2026 Candidates Tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -312,14 +264,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/leago-muir-beta-testing-now-open",
          "pubDate" : "Mon, 22 Sep 2025 00:00:00",
          "title" : "Leago MUIR Beta Testing Now Open"
-      },
-      {
-         "description" : "Ferrari drivers Charles Leclerc and Lewis Hamilton share a common interest in chess, often playing against each other and discussing the game publicly. Their rivalry has included light-hearted stories about online matches and mutual \"cheating\". Ahead of the recent Baku Grand Prix, the two met Azerbaijani grandmaster Teimour Radjabov, who observed their play and presented them with a chess-themed gift, highlighting the cultural and strategic links between motorsport and chess. | Photo: Racing News 365",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/radjabov-ferrari-baku-2025",
-         "pubDate" : "Sun, 21 Sep 2025 20:00:00",
-         "title" : "Teimour Radjabov meets Formula 1 Ferrari drivers for a game of chess"
       },
       {
          "description" : "GM Hikaru Nakamura has moved one step closer to a historic 50th Bullet Brawl title after outscoring GMs Andrew Tang, Daniel Naroditsky, and 196 hungry titled players on Saturday.&#38;nbsp; Nakamura scored 174 points in the two-hour arena and won the...",
