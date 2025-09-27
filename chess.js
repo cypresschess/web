@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It is well known (not least from the Benedict Cumberbatch movie Breaking the Code) that chess masters were largely responsible for unravelling Nazi codes at Bletchley Park during World War II. Figures such as Harry Golombek OBE, C H 0'D (Hugh) Alexander CBE and Sir Stuart Milner Barry, all of whom were personal friends of []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/codebreakers-prophets-and-freedom-of-speech/",
+         "pubDate" : "Sat, 27 Sep 2025 09:59:08",
+         "title" : "Codebreakers, prophets and freedom of speech"
+      },
+      {
          "description" : "The technique of calculating variations is perhaps one of the most important techniques that defines a chess player's playing strength. An entire generation of top players, including the current World Champion Gukesh Dommaraju, have a reputation of being true calculating machines. David Navara brings the secrets of calculating variations from the perspective of an absolute top player with a peak rating of 2751 to your home. Lukas K&ouml;pl, himself a trainer and advocate of the technique of calculating variations, reviewed David Navara's contribution. | Photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
