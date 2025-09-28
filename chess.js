@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 European Senior Chess Championship commenced yesterday in Rabac, Croatia and takes place from 27th of September to 5th of October at the \"Sunny Rabac\" restaurant by Valamar. The Championship is played in two age categories: 50+ and 65+, open and women's sections separately. More than 160 players coming from 30 European federations compete in the tournament, fighting for the title of European Senior Chess Champion. The top seeds of the Open 50+ section are: GM Jean-Marc Degraeve (FRA, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-chess-championship-2025-commenced-in-croatia/",
+         "pubDate" : "Sun, 28 Sep 2025 11:45:24",
+         "title" : "European Senior Chess Championship 2025 commenced in Croatia"
+      },
+      {
          "description" : "Garry Kasparov is one of the most influential figures of recent decades - not only as a World Champion, but also as a ChessBase author. One of his classic video courses has been reissued. In addition, the new ChessBase Magazine is here, and there is brand new opening knowledge - so the August releases from ChessBase once again leave nothing to be desired! Just take a look at all of last month's products: | All Photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
