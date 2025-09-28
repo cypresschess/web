@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Garry Kasparov is one of the most influential figures of recent decades - not only as a World Champion, but also as a ChessBase author. One of his classic video courses has been reissued. In addition, the new ChessBase Magazine is here, and there is brand new opening knowledge - so the August releases from ChessBase once again leave nothing to be desired! Just take a look at all of last month's products: | All Photos: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-august",
+         "pubDate" : "Sun, 28 Sep 2025 07:00:00",
+         "title" : "Review: All new releases in August!"
+      },
+      {
          "description" : "Gukesh..Gukesh..Gukesh..the crowd screamed, welcoming the youngest-ever world chess champion on the stage. A bit overwhelmed, but extremely calm and composed, the 19-year-old youngster took the stage in a foreign land where people waited to watch him. And as humble as he is, Gukesh shared his thoughts on the stage! As the audience cheered in applause, he said, \"Just keep loving chess\". Gukesh was invited to be a part of a two-day event in Poland, and these were two of the most incredible days that we have spent with Gukesh! | All photos and videos by Aditya Sur Roy.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-sep-27-2025",
-         "pubDate" : "Sat, 27 Sep 2025 19:37:39",
+         "pubDate" : "Sat, 27 Sep 2025 19:37:00",
          "title" : "Tang Dazzles In Bid For 13th Bullet Brawl Title"
       },
       {
