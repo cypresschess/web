@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grand Chess Tour Finals return in 2025, taking place at the World Trade Center in São Paulo from 28 September to 3 October. The event features Maxime Vachier-LaGrave, Praggnanandhaa Rameshbabu, Fabiano Caruana and Levon Aronian facing off in a knockout tournament. | Follow the action live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gct-finals-2025-live",
+         "pubDate" : "Sun, 28 Sep 2025 19:45:00",
+         "title" : "Grand Chess Tour Finals - Live!"
+      },
+      {
          "description" : "The 2025 European Senior Chess Championship commenced yesterday in Rabac, Croatia and takes place from 27th of September to 5th of October at the \"Sunny Rabac\" restaurant by Valamar. The Championship is played in two age categories: 50+ and 65+, open and women's sections separately. More than 160 players coming from 30 European federations compete in the tournament, fighting for the title of European Senior Chess Champion. The top seeds of the Open 50+ section are: GM Jean-Marc Degraeve (FRA, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/09/27/emory-tate-masterclass-10-year-tribute/",
          "pubDate" : "Sat, 27 Sep 2025 17:23:42",
          "title" : "Emory Tate Masterclass&hellip; 10-year tribute!"
-      },
-      {
-         "description" : "The Chess Bundesliga kicks off this weekend with the new season. The venues are Deggendorf, Deizisau, Wolfhagen and Heimbach-Weis-Neuwied. Reigning champions, D&uuml;sseldorfer SK - without their top players following the withdrawal of their sponsor - together with their travel partner Solingen, face an initial test against Deggendorf and Bayern Munich. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-2025-26-live",
-         "pubDate" : "Sat, 27 Sep 2025 14:00:00",
-         "title" : "Bundesliga - Live!"
       },
       {
          "description" : "Technology is exciting. But the more I learn about chess improvement, the more I feel like technology is a problem, not an asset for most chess improvers. The key problem? If we don't fight it, technology will use us, instead of us using technology. The most prominent way to get used by technology is to []",
