@@ -10,6 +10,14 @@ news_feed (
          "title" : "A helicopter ride with world champion Gukesh Dommaraju"
       },
       {
+         "description" : "GM Andrew Tang has reclaimed equal third position on Bullet Brawl&#39;s all-time leaderboard after prevailing over GM Oleksandr Bortnyk in a sprint to the finish in Saturday&#39;s arena. Tang combined pace and precision to amass a score of 162 points, e...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-sep-27-2025",
+         "pubDate" : "Sat, 27 Sep 2025 19:37:39",
+         "title" : "Tang Dazzles In Bid For 13th Bullet Brawl Title"
+      },
+      {
          "description" : " Emory Tate is obviously one of the most significant figures when it comes to content at The Chess Drum. In the nearly 25 years of the site's existence, Tate's initial exposure appeared on these pages, as few media outlets wrote stories about this mercurial and fascinating personality. Emory Tate, Jr. December 27, 1958 October The post <a href=\"https://thechessdrum.net/blog/2025/09/27/emory-tate-masterclass-10-year-tribute/\">Emory Tate Masterclass 10-year tribute!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-6",
          "pubDate" : "Tue, 09 Sep 2025 14:30:00",
          "title" : "Maghsoodloo Leads Grand Swiss As Gukesh Loses 2nd Game In A Row"
-      },
-      {
-         "description" : "GM Magnus Carlsen won Titled Tuesday by a full point on September 9, but don&#39;t let the final margin fool you into thinking the result was a runaway. Tied with GM Alireza Firouzja entering the final round of play, Carlsen needed to defeat GM Hikaru...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-september-9-2025",
-         "pubDate" : "Tue, 09 Sep 2025 12:16:00",
-         "title" : "Carlsen Takes Titled Tuesday In Final Round Triumph Over Nakamura"
       },
       {
          "description" : " The FIDE Grand Swiss (<a href=\"https://theweekinchess.com/chessnews/events/fide-grand-swiss-tournament-2025\">my game and results page is here</a>) is being led by Iranian number one Parham Maghsoodloo. He is rated 37 in the world at 2692, so far he has beaten Chopra Aryan, David Anton, former countryman Alireza Firouzja and in round 5 he beat Richard Rapport, his only draw came in round 4 against Nodirbek Abdusattorov. Round 5 saw the top 5 boards all finish decisively. Maghsoodloo leads with 4.5/5 half a point clear of 16 year old Abhimanyu Mishra, who beat Gukesh in Round 5, Marc'andria Maurizzi (beat Vincent Keymer), Arjun Erigaisi (beat Nikita Vitiugov) and Matthias Bluebaum (who beat P",
