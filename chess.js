@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124215591.cms\" />American Gambits revealed their Global Chess League Season 3 draft strategy. They retained Hikaru Nakamura and Bibisara Assaubayeva. Richard Rapport, Vladislav Artemiev, and Teodora Injac joined the team. They acquired prodigy Volodar Murzin but failed to secure Arjun Erigaisi after a bidding contest. The team aims to win the trophy and strengthen its brand this season.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-was-one-of-our-top-preferences-head-coach-srinath-narayanan-dissects-global-chess-league-season-3-draft-strategy/articleshow/124215591.cms",
+         "pubDate" : "Mon, 29 Sep 2025 14:49:58",
+         "title" : "'Erigaisi was one of our top preferences': Srinath dissects GCL draft strategy"
+      },
+      {
+         "description" : "Hatsun Chess Academy is one of the fastest-growing chess academies in India. It's supported by Hatsun Agro Products Ltd. and envisioned by GM Vishnu Prasanna, the former coach of World Champion D Gukesh. It's known for its holistic approach that combines chess, fitness, and mental conditioning. The academy has already become home to many rising talents. With its rapid growth, Hatsun Chess Academy is now looking to expand its coaching team. If you are an International Master with a passion for coaching, this could be the perfect opportunity for you. Read on to know how to apply.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hatsun-chess-academy-is-looking-for-a-full-time-international-master-coach",
+         "pubDate" : "Mon, 29 Sep 2025 14:04:59",
+         "title" : "Hatsun Chess Academy is looking for a Full-time International Master Coach"
+      },
+      {
          "description" : "The Grand Chess Tour Finals opened in São Paulo with the first classical games of the semifinals, both ending in draws after moments of tension. Fabiano Caruana introduced a rare line in the French Defence against Levon Aronian but failed to maintain his advantage. Meanwhile, Praggnanandhaa Rameshbabu missed a winning continuation in time trouble, allowing Maxime Vachier-Lagrave to simplify into a tricky pawn-up endgame, which he failed to convert into a victory. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/gct-finals-2025-1",
          "pubDate" : "Mon, 29 Sep 2025 10:00:00",
          "title" : "GCT Finals: Pragg and MVL miss chances in topsy-turvy game"
+      },
+      {
+         "description" : "The Speed Chess Championship (SCC) is back, and drama is guaranteed as the event will reignite the fiercest rivalries in chess today. Starting October 13, the championship will once again pit GMs Magnus Carlsen, Hikaru Nakamura, and Hans Niemann a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-speed-chess-championship-2025",
+         "pubDate" : "Mon, 29 Sep 2025 08:00:00",
+         "title" : "Rivals Reunite As Carlsen, Nakamura, & Niemann Headline 2025 Speed Chess Championship"
       },
       {
          "description" : " The Grand Chess Tour Finals take place in Sao Paulo Sunday 28th to Friday 3rd October. Players: Maxime Vachier-Lagrave, Praggnanandhaa, Levon Aronian and Fabiano Caruana. This is a knockout where they play a mix of Classical, rapid and blitz. Classical Games: 6 points for a win, 3 points for a draw and 0 points for a loss, Rapid Games: 4 points for a win, 2 points for a draw and 0 points for a loss, Blitz Games: 2 points for a win, 1 point for a draw and 0 points for a loss.",
@@ -690,14 +714,6 @@ news_feed (
          "title" : "38th National Under-13 Chess Championship 2025Event Codes: 430540/GOA/2025 & 430541/GOA/2025.Shaunak Badole of Maharashtra and WCM Deekshitha Modipalli of Telangana Crowned National Champions"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123824514.cms\" />Hikaru Nakamura is strategically playing in weaker tournaments to maintain his high rating and secure a spot in the World Chess Championship Candidates Tournament. While other aspirants compete in challenging events like the FIDE Grand Swiss, Nakamura focuses on accumulating points against lower-rated opponents to fulfill the 40-game requirement, exploiting loopholes in the system.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-no-2-hikaru-nakamura-exploits-candidates-system-and-he-is-not-the-first/articleshow/123824514.cms",
-         "pubDate" : "Thu, 11 Sep 2025 06:54:29",
-         "title" : "World No. 2 Hikaru Nakamura exploits Candidates system and he is not the first"
-      },
-      {
          "description" : "Noland Arbaugh, the first person to receive Neuralink&#39;s brain-computer interface, appeared at Fortune Brainstorm Tech 2025 on Wednesday. After an on-stage conversation about his remarkable journey, Arbaugh capped the session by facing none other t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://aicf.in/final-result-of-sna-seminar-exam-in-jammu-on-06-07-sept-2025/",
          "pubDate" : "Wed, 10 Sep 2025 10:38:05",
          "title" : "Final Result of SNA Seminar & Exam in Jammu on 06 & 07 Sept.2025"
-      },
-      {
-         "description" : "The late Titled Tuesday tournament may no longer run, but that doesn&#39;t mean the Tuesday chess action stops after one tournament, with the previously announced Titled Tuesday After Party happening each week as well. The inaugural After Party, a two...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-first-titled-tuesday-after-party",
-         "pubDate" : "Wed, 10 Sep 2025 09:38:00",
-         "title" : "Nakamura Kicks Off First Titled Tuesday After Party With Win"
       },
       {
          "description" : "The four books selected show the long history and variety of chess. Two books cover the life of a player with a natural genius for chess, and the remarkable early...",
