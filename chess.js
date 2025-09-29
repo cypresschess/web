@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grand Chess Tour Finals return in 2025, taking place at the World Trade Center in São Paulo from 28 September to 3 October. The event features Maxime Vachier-LaGrave, Praggnanandhaa Rameshbabu, Fabiano Caruana and Levon Aronian facing off in a knockout tournament. | Follow the action live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gct-finals-2025-live",
+         "pubDate" : "Mon, 29 Sep 2025 19:45:00",
+         "title" : "Grand Chess Tour Finals - Live!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124215591.cms\" />American Gambits revealed their Global Chess League Season 3 draft strategy. They retained Hikaru Nakamura and Bibisara Assaubayeva. Richard Rapport, Vladislav Artemiev, and Teodora Injac joined the team. They acquired prodigy Volodar Murzin but failed to secure Arjun Erigaisi after a bidding contest. The team aims to win the trophy and strengthen its brand this season.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gct-finals-2025-1",
          "pubDate" : "Mon, 29 Sep 2025 10:00:00",
          "title" : "GCT Finals: Pragg and MVL miss chances in topsy-turvy game"
+      },
+      {
+         "description" : "Enough with do-or-die from move one&#38;mdash;steer the game toward strategic waters that you understand with the new Anna Cramling&#39;s 1.d4 - Part 1 course! Great strategists like GM Magnus Carlsen have taken over the chess world with their calm and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/anna-cramling-d4-repertoire-course",
+         "pubDate" : "Mon, 29 Sep 2025 09:00:00",
+         "title" : "Anna Cramling Makes Chessable Debut With 1.d4 Course For Positional Players"
       },
       {
          "description" : "The Speed Chess Championship (SCC) is back, and drama is guaranteed as the event will reignite the fiercest rivalries in chess today. Starting October 13, the championship will once again pit GMs Magnus Carlsen, Hikaru Nakamura, and Hans Niemann a...",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fortune-brainstorm-tech-2025-arbaugh-plays-cramling",
          "pubDate" : "Thu, 11 Sep 2025 06:28:34",
          "title" : "Noland Arbaugh, Neuralink's 1st Patient, Plays Chess.com Game Against Anna Cramling"
-      },
-      {
-         "description" : "The teams in CoachChamps 2025 are set for the main event in October. The eight coaches&#38;mdash;GMs Arturs Neiksans, Ben Finegold, IMs Levy Rozman, David Pruess, Andras Toth, WGM Dina Belenkaya, CM Can Kabadayi, and NM Robert Ramirez&#38;mdash;have each ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-coachchamps-draft-day",
-         "pubDate" : "Wed, 10 Sep 2025 11:30:28",
-         "title" : "GothamChess & Top Coaches Draft Their Picks For CoachChamps 2025"
       },
       {
          "description" : "On behalf of All India Chess Federation and Arbiters' commission AICF, All J &#38; K Chess Association is organizing Senior National Arbiters Seminar &#38; Exam",
