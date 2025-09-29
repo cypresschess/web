@@ -26,6 +26,14 @@ news_feed (
          "title" : "Hatsun Chess Academy is looking for a Full-time International Master Coach"
       },
       {
+         "description" : "The International Chess Federation (FIDE) has announced a change to its rating regulations that will already take effect on October 1, removing the so-called 400-point rule for players rated above 2650. The change was triggered by GM Hikaru Nakamu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-introduces-hikaru-rule-from-october",
+         "pubDate" : "Mon, 29 Sep 2025 13:39:00",
+         "title" : "FIDE Scraps 400-Point Rule For 2650+ Players, \"Triggered By Nakamura\""
+      },
+      {
          "description" : "The Grand Chess Tour Finals opened in São Paulo with the first classical games of the semifinals, both ending in draws after moments of tension. Fabiano Caruana introduced a rare line in the French Defence against Levon Aronian but failed to maintain his advantage. Meanwhile, Praggnanandhaa Rameshbabu missed a winning continuation in time trouble, allowing Maxime Vachier-Lagrave to simplify into a tricky pawn-up endgame, which he failed to convert into a victory. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://aicf.in/38th-national-under-13-chess-championship-2025event-codes-430540-goa-2025-430541-goa-2025-shaunak-badole-of-maharashtra-and-wcm-deekshitha-modipalli-of-telangana-crowned-national-champions/",
          "pubDate" : "Thu, 11 Sep 2025 07:42:20",
          "title" : "38th National Under-13 Chess Championship 2025Event Codes: 430540/GOA/2025 & 430541/GOA/2025.Shaunak Badole of Maharashtra and WCM Deekshitha Modipalli of Telangana Crowned National Champions"
-      },
-      {
-         "description" : "Noland Arbaugh, the first person to receive Neuralink&#39;s brain-computer interface, appeared at Fortune Brainstorm Tech 2025 on Wednesday. After an on-stage conversation about his remarkable journey, Arbaugh capped the session by facing none other t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fortune-brainstorm-tech-2025-arbaugh-plays-cramling",
-         "pubDate" : "Thu, 11 Sep 2025 06:28:34",
-         "title" : "Noland Arbaugh, Neuralink's 1st Patient, Plays Chess.com Game Against Anna Cramling"
       },
       {
          "description" : "On behalf of All India Chess Federation and Arbiters' commission AICF, All J &#38; K Chess Association is organizing Senior National Arbiters Seminar &#38; Exam",
