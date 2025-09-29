@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Grand Chess Tour Finals return in 2025, taking place at the World Trade Center in São Paulo from 28 September to 3 October. The event features Maxime Vachier-LaGrave, Praggnanandhaa Rameshbabu, Fabiano Caruana and Levon Aronian facing off in a knockout tournament. | Follow the action live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "description" : "The Grand Chess Tour Finals opened in São Paulo with the first classical games of the semifinals, both ending in draws after moments of tension. Fabiano Caruana introduced a rare line in the French Defence against Levon Aronian but failed to maintain his advantage. Meanwhile, Praggnanandhaa Rameshbabu missed a winning continuation in time trouble, allowing Maxime Vachier-Lagrave to simplify into a tricky pawn-up endgame, which he failed to convert into a victory. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2025-live",
-         "pubDate" : "Sun, 28 Sep 2025 19:45:00",
-         "title" : "Grand Chess Tour Finals - Live!"
+         "link" : "https://en.chessbase.com/post/gct-finals-2025-1",
+         "pubDate" : "Mon, 29 Sep 2025 10:00:00",
+         "title" : "GCT Finals: Pragg and MVL miss chances in topsy-turvy game"
+      },
+      {
+         "description" : " The Grand Chess Tour Finals take place in Sao Paulo Sunday 28th to Friday 3rd October. Players: Maxime Vachier-Lagrave, Praggnanandhaa, Levon Aronian and Fabiano Caruana. This is a knockout where they play a mix of Classical, rapid and blitz. Classical Games: 6 points for a win, 3 points for a draw and 0 points for a loss, Rapid Games: 4 points for a win, 2 points for a draw and 0 points for a loss, Blitz Games: 2 points for a win, 1 point for a draw and 0 points for a loss.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/grand-chess-tour-finals-2025",
+         "pubDate" : "Sun, 28 Sep 2025 21:19:00",
+         "title" : "Grand Chess Tour Finals 2025 - Games and Results"
+      },
+      {
+         "description" : "GM Praggnanandhaa Rameshbabu blundered with a second on his clock to turn a promising position into a pawn-down endgame, but GM Maxime Vachier-Lagrave missed a win as their 2025 Grand Chess Tour Finals semifinal began with a draw. The other match-...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-grand-chess-tour-finals-day-1",
+         "pubDate" : "Sun, 28 Sep 2025 19:08:00",
+         "title" : "Praggnanandhaa Escapes As Grand Chess Tour Finals Begin In Sao Paulo"
       },
       {
          "description" : "The 2025 European Senior Chess Championship commenced yesterday in Rabac, Croatia and takes place from 27th of September to 5th of October at the \"Sunny Rabac\" restaurant by Valamar. The Championship is played in two age categories: 50+ and 65+, open and women's sections separately. More than 160 players coming from 30 European federations compete in the tournament, fighting for the title of European Senior Chess Champion. The top seeds of the Open 50+ section are: GM Jean-Marc Degraeve (FRA, []",
@@ -502,7 +518,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/46270737/r-vaishali-puts-bad-year-defend-grand-swiss-crown-seal-fide-candidates-spot?device=featurephone",
-         "pubDate" : "Mon, 15 Sep 2025 12:12:00",
+         "pubDate" : "Mon, 15 Sep 2025 12:22:47",
          "title" : "R Vaishali puts bad year behind her to defend Grand Swiss crown, seal Candidates spot"
       },
       {
@@ -730,14 +746,6 @@ news_feed (
          "title" : "Saint Louis to Host America's Chess Elite in October 2025"
       },
       {
-         "description" : "GM Parham Maghsoodloo drew against GM Arjun Erigaisi to remain sole leader of the 2025 FIDE Grand Swiss going into the only rest day, while GMs Anish Giri and Nihal Sarin both won sharp games to join a six-player pack half a point behind. World Ch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-6",
-         "pubDate" : "Tue, 09 Sep 2025 14:30:00",
-         "title" : "Maghsoodloo Leads Grand Swiss As Gukesh Loses 2nd Game In A Row"
-      },
-      {
          "description" : " The FIDE Grand Swiss (<a href=\"https://theweekinchess.com/chessnews/events/fide-grand-swiss-tournament-2025\">my game and results page is here</a>) is being led by Iranian number one Parham Maghsoodloo. He is rated 37 in the world at 2692, so far he has beaten Chopra Aryan, David Anton, former countryman Alireza Firouzja and in round 5 he beat Richard Rapport, his only draw came in round 4 against Nodirbek Abdusattorov. Round 5 saw the top 5 boards all finish decisively. Maghsoodloo leads with 4.5/5 half a point clear of 16 year old Abhimanyu Mishra, who beat Gukesh in Round 5, Marc'andria Maurizzi (beat Vincent Keymer), Arjun Erigaisi (beat Nikita Vitiugov) and Matthias Bluebaum (who beat P",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://aicf.in/27th-asian-youth-chess-championships-2025-in-bangkok-thailand-from-20th-to-30th-november-2025/",
          "pubDate" : "Tue, 09 Sep 2025 08:23:36",
          "title" : "27th Asian Youth Chess Championships - 2025 in Bangkok, Thailand from 20th to 30th November, 2025."
-      },
-      {
-         "description" : "NO Name1 Priyabrata Bhattacharya2 Arunava Pal3 Ishan Das4 Rahul Jain5 Kingshuk, Debnath6 Rajbeer Ahmed7 Sky Debnath8 Suprith Jain9 Sakhawat Hussain10 Dipasree Ray Chaudhuri11 Sudip Kumar",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-of-sna-seminar-exam-held-in-agartala-on-21-22-september-2025/",
-         "pubDate" : "Mon, 08 Sep 2025 06:10:56",
-         "title" : "Certificates of SNA Seminar & Exam held in Agartala on 21 & 22 September 2025"
       }
    ]
 }
