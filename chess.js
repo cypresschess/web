@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grand Chess Tour Finals return in 2025, taking place at the World Trade Center in São Paulo from 28 September to 3 October. The event features Maxime Vachier-LaGrave, Praggnanandhaa Rameshbabu, Fabiano Caruana and Levon Aronian facing off in a knockout tournament. | Follow the action live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gct-finals-2025-live",
+         "pubDate" : "Tue, 30 Sep 2025 19:45:00",
+         "title" : "Grand Chess Tour Finals - Live!"
+      },
+      {
          "description" : "In the boxing ring, he learned what it means to pick yourself up again and again and draw new strength from setbacks. On 7 October, former world boxing champion Wladimir Klitschko will tell us about his life, the current situation in Ukraine and resilience in times of crisis. Vladimir is an old friend who visited ChessBase a number of times, together with his brother Vitaly. We look forward to seeing him again.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,28 @@ news_feed (
          "title" : "Nakamura 'triggers' FIDE rating system change: How will it affect top GM's?"
       },
       {
+         "description" : "&#34;HN&#34; won another Titled Tuesday on September 30, but this time it was GM Hans Niemann who took home the victory, while last week&#39;s winner GM Hikaru Nakamura was runner-up this week. Only two draws kept the undefeated Niemann from a perfect score, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/niemann-wins-titled-tuesday-september-30-2025",
+         "pubDate" : "Tue, 30 Sep 2025 11:37:38",
+         "title" : "No One Beats Niemann On His Way To Titled Tuesday Victory"
+      },
+      {
          "description" : "Please find the details here",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/fide-arbiters-seminar-in-madgaon-goa-india-from-19-21-sept-2025-report/",
          "pubDate" : "Tue, 30 Sep 2025 09:56:38",
          "title" : "FIDE Arbiters' Seminar in Madgaon, Goa (India) from 19-21 Sept 2025 . Report"
+      },
+      {
+         "description" : "FM James Canty III is the Super Heavyweight Chessboxing World Champion after winning two chess-and-boxing bouts in the 7th World Chessboxing Championships in Loznica, Serbia. He ducked and weaved in the ring and was just too fast for his opponents...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/james-canty-chessboxing-world-champion",
+         "pubDate" : "Tue, 30 Sep 2025 09:46:43",
+         "title" : "James Canty Wins Heavyweight Chessboxing World Championship"
       },
       {
          "description" : "The second classical games of the Grand Chess Tour Finals in São Paulo ended quickly, with both semifinals producing draws in under two hours. Levon Aronian and Fabiano Caruana exchanged pieces early after Caruana's 2...g6, while Maxime Vachier-Lagrave failed to challenge Praggnanandhaa Rameshbabu in a short Caro-Kann encounter. With all four players now on six points, the focus shifts to rapid and blitz. | Photo: Lennart Ootes",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/slu-begins-title-defense-defeats-ttu",
          "pubDate" : "Tue, 30 Sep 2025 03:33:00",
          "title" : "SLU Begins Title Defense, Defeats TTU"
+      },
+      {
+         "description" : "The USA delegation finished third overall out of 86 federations represented at the 2025 FIDE World Cadet Championships in Almaty, Kazakhstan. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> All photos courtesy US Chess<br> <br> <br> <br> The six sections (Under-8, Under-10, and Under-12 Open and Girls) of the 11-round Swiss system tournament concluded Tuesday, September 30. Read more about the event, and results from the first-half, in our midway report. A final report will be available on Chess Life Online by the morning of Thursday, October 2. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Head of Delegation G",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/flash-report-usa-finishes-third-fide-world-cadet-championships",
+         "pubDate" : "Tue, 30 Sep 2025 00:00:00",
+         "title" : "Flash Report: USA Finishes Third at FIDE World Cadet Championships"
       },
       {
          "description" : "In a round that barely lasted two hours, we saw two draws in both semifinal matches of the 2025 Grand Chess Tour Finals. The scores, in GM Praggnanandhaa Rameshbabu vs. GM Maxime Vachier-Lagrave and GM Fabiano Caruana vs. GM Levon Aronian, remain ...",
@@ -506,14 +538,6 @@ news_feed (
          "title" : "Giri, Vaishali Win 2025 Grand Swiss"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to launch a program to support Affiliates who bring chess to students attending Title I schools for the 2025-2026 school year. This program is made possible by generous donors who are committed to helping us bring chess to underserved students. We believe that chess is transformative for children by improving their focus, aiding in decision making, and teaching that choices have consequences - lifelong skills that can be immediately applied in the classroom. We are seeking partnerships with US Chess Affiliates that offer chess programs to Title I schools, either as part of the school day or as an afters",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-opens-2025-2026-title-i-school-outreach-program-affiliates-serving-risk-youth",
-         "pubDate" : "Thu, 18 Sep 2025 00:00:00",
-         "title" : "US Chess Opens 2025-2026 Title I School Outreach Program for Affiliates Serving At-Risk Youth "
-      },
-      {
          "description" : "FIDE, the International Chess Federation, in a piece published on Tuesday, announced there are 100 days before the FIDE World Rapid and Blitz Championships are set to take place in Doha, Qatar. While they have kept last year&#39;s format for the Blitz...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -666,14 +690,6 @@ news_feed (
          "title" : "The Best Books for Chess Improvement (That Aren't About Chess)"
       },
       {
-         "description" : "GMs Alireza Firouzja, Anish Giri, and Vincent Keymer all won to catch GM Matthias Bluebaum in the 2025 FIDE Grand Swiss lead on 6.5/9 with two rounds to go. Firouzja won a wild 82-move clash against previous co-leader GM Nihal Sarin, Giri caught G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-9",
-         "pubDate" : "Sat, 13 Sep 2025 11:25:00",
-         "title" : "Firouzja, Giri, Keymer Join Grand Swiss Lead With 2 Rounds To Go"
-      },
-      {
          "description" : "In recent years we have been told that certain words, thoughts, or even memories are no longer fit for use. The new censors call this progress, though it is nothing of the kind. It is merely the old habit of forcing people to think alike, dressed up with a new name. Freedom of speech in []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -696,14 +712,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-nihal-sarin-shares-lead-after-round-8-d-gukesh-divya-deshmukh-play-out-103-move-draw/articleshow/123856640.cms",
          "pubDate" : "Fri, 12 Sep 2025 17:33:58",
          "title" : "Grand Swiss: Nihal shares lead; Gukesh, Divya play out 103-move draw"
-      },
-      {
-         "description" : "Iranian teenage GM Sina Movahed won his second consecutive&#38;nbsp;Freestyle Friday, and his third overall, in a field of 115 on September 12 after beating out GMs Magnus Carlsen, Arseniy Nesterov, and Denis Lazavik by a full point. There were two ke...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/movahed-wins-freestyle-friday-september-12-2025",
-         "pubDate" : "Fri, 12 Sep 2025 12:57:00",
-         "title" : "Movahed On Freestyle Run Of Victories"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123851085.cms\" />Eric Rosen, an American chess player, cleverly earned $1,000 by thoroughly examining the terms and conditions of a Titled Tuesday chess tournament. He discovered a hidden message within the broadcasting regulations, making him the \"undisputed champion of reading the rules.\" The chess app confirmed Rosen's prize on their X account after he emailed them a screenshot of the message.",
@@ -768,14 +776,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-shortlist-4/",
          "pubDate" : "Wed, 10 Sep 2025 08:33:36",
          "title" : "ECF Book of the Year shortlist"
-      },
-      {
-         "description" : " U.S. Championship, U.S. Women's Championship, Hall of Fame Inductions and More to Highlight a Month of Historic Chess Events SAINT LOUIS, September 9, 2025 The nation's top chess players are set to compete in America's most prestigious events - the 2025 U.S. Chess Championship and the 2025 U.S. Women's Chess Championship. Hosted by the newly [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-to-host-americas-chess-elite-in-october-2025/\">Saint Louis to Host America's Chess Elite in October 2025</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/saint-louis-to-host-americas-chess-elite-in-october-2025/",
-         "pubDate" : "Tue, 09 Sep 2025 16:12:13",
-         "title" : "Saint Louis to Host America's Chess Elite in October 2025"
       }
    ]
 }
