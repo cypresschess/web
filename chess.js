@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the boxing ring, he learned what it means to pick yourself up again and again and draw new strength from setbacks. On 7 October, former world boxing champion Wladimir Klitschko will tell us about his life, the current situation in Ukraine and resilience in times of crisis. Vladimir is an old friend who visited ChessBase a number of times, together with his brother Vitaly. We look forward to seeing him again.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vladimir-klitschko-in-hamburg",
+         "pubDate" : "Tue, 30 Sep 2025 14:00:00",
+         "title" : "Vladimir Klitschko in Hamburg"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124233435.cms\" />FIDE is implementing a major rating system change from October 1, removing the 400-point rule for players rated 2650 and above. This reform means top grandmasters will gain minimal points against significantly lower-rated opponents, but face substantial penalties for draws or losses, aiming to curb \"rating farming\" and encourage competition among peers.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/hikaru-nakamura-triggers-fide-rating-system-change-how-will-it-affect-top-gms-like-d-gukesh/articleshow/124233435.cms",
+         "pubDate" : "Tue, 30 Sep 2025 11:42:01",
+         "title" : "Nakamura 'triggers' FIDE rating system change: How will it affect top GM's?"
+      },
+      {
          "description" : "Please find the details here",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/sep/12/chess-erdogmus-14-wins-immortal-game-on-silk-road-as-grand-swiss-nears-climax",
          "pubDate" : "Fri, 12 Sep 2025 07:00:28",
          "title" : "Chess: Erdogmus, 14, wins 'Immortal' game on Silk Road as Grand Swiss nears climax"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123842431.cms\" />D Gukesh faced another setback at the FIDE Grand Swiss, losing to Ediz Gurel, while Nihal Sarin joined Matthias Bluebaum in the lead. Several Indian players, including Praggnanandhaa, secured victories, improving their standings. Vaishali Rameshbabu took the sole lead in the women's section, increasing her chances to qualify for the Candidates tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/this-is-not-him-head-in-hands-d-gukesh-suffers-third-straight-loss-at-fide-grand-swiss-watch/articleshow/123842431.cms",
-         "pubDate" : "Fri, 12 Sep 2025 03:50:40",
-         "title" : "'This is not him': Head in hands, Gukesh suffers third straight loss at FIDE Grand Swiss - watch"
       },
       {
          "description" : "There was a large number of nominations this year, and the Chess Trust made eight awards as follows: St Catherine's School Bramley;&#160;Stockport Grammar School;&#160;Brentwood School;&#160;Redhill Prep School;&#160;Radcliffe &#38; Bingham Chess...",
