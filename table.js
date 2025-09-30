@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2025-09-28","13","<a href=http://www.uschess.org/msa/XtblMain.php?202509289822 target='_blank'>SEPT 28TH OLD MAN TOURNEY 10AM G/60</a>",
+"HOUSTON","2025-09-28","20","<a href=http://www.uschess.org/msa/XtblMain.php?202509289172 target='_blank'>BELLAIRE SUNDAY SWISS 09/28/25</a>",
 "HOUSTON","2025-09-27","13","<a href=http://www.uschess.org/msa/XtblMain.php?202509277902 target='_blank'>CHESSPANDA09272025SATURDAY</a>",
 "CYPRESS","2025-09-26","57","<a href=http://www.uschess.org/msa/XtblMain.php?202509267372 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2025-09-26","18","<a href=http://www.uschess.org/msa/XtblMain.php?202509267342 target='_blank'>FBCC NATIONAL DUMPLING DAY OPEN</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2025-03-14  - 03-16","230","<a href=http://www.uschess.org/msa/XtblMain.php?202503162132 target='_blank'>2025 LONE STAR OPEN CHESS CHAMPIONS</a>",
 "HOUSTON","2025-03-15","92","<a href=http://www.uschess.org/msa/XtblMain.php?202503151152 target='_blank'>2025 LONE STAR SCHOLASTIC</a>",
 "HOUSTON","2025-03-15","6","<a href=http://www.uschess.org/msa/XtblMain.php?202503150532 target='_blank'>MAR 15TH SATURDAY SWISS</a>",
-"PEARLAND","2025-03-15","19","<a href=http://www.uschess.org/msa/XtblMain.php?202503150152 target='_blank'>PEARLAND OPEN MARCH 2025</a>",
-"SPRING","2025-03-14","16","<a href=http://www.uschess.org/msa/XtblMain.php?202503149922 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
