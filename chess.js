@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find the details here",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-arbiters-seminar-in-madgaon-goa-india-from-19-21-sept-2025-report/",
+         "pubDate" : "Tue, 30 Sep 2025 09:56:38",
+         "title" : "FIDE Arbiters' Seminar in Madgaon, Goa (India) from 19-21 Sept 2025 . Report"
+      },
+      {
          "description" : "The second classical games of the Grand Chess Tour Finals in São Paulo ended quickly, with both semifinals producing draws in under two hours. Levon Aronian and Fabiano Caruana exchanged pieces early after Caruana's 2...g6, while Maxime Vachier-Lagrave failed to challenge Praggnanandhaa Rameshbabu in a short Caro-Kann encounter. With all four players now on six points, the focus shifts to rapid and blitz. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/gct-finals-2025-2",
          "pubDate" : "Tue, 30 Sep 2025 08:00:00",
          "title" : "GCT Finals: Quick draws"
+      },
+      {
+         "description" : "Last season, Saint Louis University, SLU, won the Collegiate Chess League Spring 2025 (CCL) in convincing fashion. On September 30, they began their title defense by winning their first match of the Collegiate Chess League Fall 2025 just as convin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/slu-begins-title-defense-defeats-ttu",
+         "pubDate" : "Tue, 30 Sep 2025 03:33:00",
+         "title" : "SLU Begins Title Defense, Defeats TTU"
       },
       {
          "description" : "In a round that barely lasted two hours, we saw two draws in both semifinal matches of the 2025 Grand Chess Tour Finals. The scores, in GM Praggnanandhaa Rameshbabu vs. GM Maxime Vachier-Lagrave and GM Fabiano Caruana vs. GM Levon Aronian, remain ...",
@@ -690,14 +706,6 @@ news_feed (
          "title" : "Certificates:National Under 11 Chess Championship 2025 in Jalgaon"
       },
       {
-         "description" : "GMs Matthias Bluebaum and Nihal Sarin continue to lead the 2025 FIDE Grand Swiss after round eight. They made a quick draw, and not one of the seven players behind them was able to catch up. GMs Vincent Keymer and Jorden van Foreest, with respecti...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-8",
-         "pubDate" : "Fri, 12 Sep 2025 09:56:00",
-         "title" : "Lagno Overtakes Vaishali In Women's; Nihal, Bluebaum Lead Open"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123847621.cms\" />At the FIDE Grand Swiss in Samarkand, Indian chess presents a contrasting picture. Nihal Sarin shines, securing his third consecutive win and joining the lead. Meanwhile, World Champion D Gukesh struggles, losing his third straight game and risking a drop from the top 10. Despite Nihal's success, he humbly credits Viswanathan Anand and Gukesh for India's chess boom.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -760,22 +768,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/saint-louis-to-host-americas-chess-elite-in-october-2025/",
          "pubDate" : "Tue, 09 Sep 2025 16:12:13",
          "title" : "Saint Louis to Host America's Chess Elite in October 2025"
-      },
-      {
-         "description" : " The FIDE Grand Swiss (<a href=\"https://theweekinchess.com/chessnews/events/fide-grand-swiss-tournament-2025\">my game and results page is here</a>) is being led by Iranian number one Parham Maghsoodloo. He is rated 37 in the world at 2692, so far he has beaten Chopra Aryan, David Anton, former countryman Alireza Firouzja and in round 5 he beat Richard Rapport, his only draw came in round 4 against Nodirbek Abdusattorov. Round 5 saw the top 5 boards all finish decisively. Maghsoodloo leads with 4.5/5 half a point clear of 16 year old Abhimanyu Mishra, who beat Gukesh in Round 5, Marc'andria Maurizzi (beat Vincent Keymer), Arjun Erigaisi (beat Nikita Vitiugov) and Matthias Bluebaum (who beat P",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/maghsoodloo-leads-the-fide-grand-swiss-alone-after-five-rounds",
-         "pubDate" : "Tue, 9 Sep 2025 09:26:00",
-         "title" : "Maghsoodloo leads the FIDE Grand Swiss alone after five rounds - 5"
-      },
-      {
-         "description" : "Special Note: If a player has only&#160;one accompanying person, then he/she must pay for double sharing amount only. (Triple sharing basis not accepted for two",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/27th-asian-youth-chess-championships-2025-in-bangkok-thailand-from-20th-to-30th-november-2025/",
-         "pubDate" : "Tue, 09 Sep 2025 08:23:36",
-         "title" : "27th Asian Youth Chess Championships - 2025 in Bangkok, Thailand from 20th to 30th November, 2025."
       }
    ]
 }
