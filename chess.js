@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After the first weekend of the 2025/26 Chess Bundesliga, three clubs share the lead on maximum points. Promoted Schachfreunde Wolfhagen joined established contenders SC Viernheim and OSG Baden-Baden at the top, each securing two victories. Defending champions D&uuml;sseldorfer SK dropped ground after being held to a draw by Bayern M&uuml;nchen in round two, while Deizisau were twice held to 4-4. The season is set to resume in December. | Photo: Reinhard Ahrens / Hamburger SK",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-2025-26-r2",
+         "pubDate" : "Wed, 01 Oct 2025 01:05:00",
+         "title" : "Bundesliga: Wolfhagen, Baden-Baden and Viernheim lead after first weekend"
+      },
+      {
          "description" : "The Grand Chess Tour Finals return in 2025, taking place at the World Trade Center in São Paulo from 28 September to 3 October. The event features Maxime Vachier-LaGrave, Praggnanandhaa Rameshbabu, Fabiano Caruana and Levon Aronian facing off in a knockout tournament. | Follow the action live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/vladimir-klitschko-in-hamburg",
          "pubDate" : "Tue, 30 Sep 2025 14:00:00",
          "title" : "Vladimir Klitschko in Hamburg"
+      },
+      {
+         "description" : "GM Magnus Carlsen, perhaps the greatest player to ever play the game, has become a father for the first time. The five-time world champion and his wife Ella Victoria Carlsen have welcomed their first child on September 27. The joyful news was fi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-ella-victoria-carlsen-welcome-first-child",
+         "pubDate" : "Tue, 30 Sep 2025 13:22:00",
+         "title" : "Magnus Carlsen & Wife Ella Victoria Welcome First Child"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124233435.cms\" />FIDE is implementing a major rating system change from October 1, removing the 400-point rule for players rated 2650 and above. This reform means top grandmasters will gain minimal points against significantly lower-rated opponents, but face substantial penalties for draws or losses, aiming to curb \"rating farming\" and encourage competition among peers.",
@@ -64,6 +80,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/slu-begins-title-defense-defeats-ttu",
          "pubDate" : "Tue, 30 Sep 2025 03:33:00",
          "title" : "SLU Begins Title Defense, Defeats TTU"
+      },
+      {
+         "description" : "This week's puzzles begin our series on the 2025 FIDE World Cadet Championships, which concluded earlier today in Almaty, Kazakhstan (flash report). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-fide-world-cadet-championships-pt-1",
+         "pubDate" : "Tue, 30 Sep 2025 00:00:00",
+         "title" : "Tactics Tuesday: 2025 FIDE World Cadet Championships, Pt. 1"
       },
       {
          "description" : "The USA delegation finished third overall out of 86 federations represented at the 2025 FIDE World Cadet Championships in Almaty, Kazakhstan. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> All photos courtesy US Chess<br> <br> <br> <br> The six sections (Under-8, Under-10, and Under-12 Open and Girls) of the 11-round Swiss system tournament concluded Tuesday, September 30. Read more about the event, and results from the first-half, in our midway report. A final report will be available on Chess Life Online by the morning of Thursday, October 2. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Head of Delegation G",
@@ -530,14 +554,6 @@ news_feed (
          "title" : "US Chess Seeks Executive Director"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> 2025 Grand Swiss and Women's Grand Swiss winners Anish Giri and Vaishali Rameshbabu (Photo courtesy Michal Walusza/FIDE)<br> <br> <br> <br> After almost two full weeks of play during the 2025 FIDE Grand Swiss in Samarkand, Uzbekistan, four players earned their \"FIDE Airlines\" boarding passes for the 2026 Candidates. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> From left: Anish Giri, Vaishali Rameshbabu, Matthias Bluebaum, and Kateryna Lagno qualifi",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/giri-vaishali-win-2025-grand-swiss",
-         "pubDate" : "Thu, 18 Sep 2025 00:00:00",
-         "title" : "Giri, Vaishali Win 2025 Grand Swiss"
-      },
-      {
          "description" : "FIDE, the International Chess Federation, in a piece published on Tuesday, announced there are 100 days before the FIDE World Rapid and Blitz Championships are set to take place in Doha, Qatar. While they have kept last year&#39;s format for the Blitz...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -664,14 +680,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-10",
          "pubDate" : "Sun, 14 Sep 2025 11:01:00",
          "title" : "Niemann Beats Pragg To Join 5-Way Tie For 1st; Vaishali Catches Lagno"
-      },
-      {
-         "description" : "Following his back-to-back victories in the highly publicized 2025 Louisiana State Championship and Iowa Open, GM Hikaru Nakamura returned to the Bullet Brawl arena on Saturday and picked up the $400 first prize. Nakamura scored 53/65 in the eve...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-sep-13-2025",
-         "pubDate" : "Sat, 13 Sep 2025 18:24:00",
-         "title" : "Nakamura Takes Break From 'Road To The Candidates' To Win 47th Bullet Brawl"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123873399.cms\" />In the FIDE Grand Swiss, Nihal Sarin's Candidates hopes dimmed after losing to Alireza Firouzja, while Arjun Erigaisi boosted Indian hopes with a win. Alireza joined the lead pack, and Praggnanandhaa eyes Candidates qualification through tournament scores. Vaishali remains in contention in the women's section, trailing leader Kateryna Lagno by half a point.",
