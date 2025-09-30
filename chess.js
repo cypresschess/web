@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Grand Chess Tour Finals return in 2025, taking place at the World Trade Center in São Paulo from 28 September to 3 October. The event features Maxime Vachier-LaGrave, Praggnanandhaa Rameshbabu, Fabiano Caruana and Levon Aronian facing off in a knockout tournament. | Follow the action live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "description" : "The second classical games of the Grand Chess Tour Finals in São Paulo ended quickly, with both semifinals producing draws in under two hours. Levon Aronian and Fabiano Caruana exchanged pieces early after Caruana's 2...g6, while Maxime Vachier-Lagrave failed to challenge Praggnanandhaa Rameshbabu in a short Caro-Kann encounter. With all four players now on six points, the focus shifts to rapid and blitz. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2025-live",
-         "pubDate" : "Mon, 29 Sep 2025 19:45:00",
-         "title" : "Grand Chess Tour Finals - Live!"
+         "link" : "https://en.chessbase.com/post/gct-finals-2025-2",
+         "pubDate" : "Tue, 30 Sep 2025 08:00:00",
+         "title" : "GCT Finals: Quick draws"
+      },
+      {
+         "description" : "In a round that barely lasted two hours, we saw two draws in both semifinal matches of the 2025 Grand Chess Tour Finals. The scores, in GM Praggnanandhaa Rameshbabu vs. GM Maxime Vachier-Lagrave and GM Fabiano Caruana vs. GM Levon Aronian, remain ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-grand-chess-tour-finals-day-2",
+         "pubDate" : "Mon, 29 Sep 2025 22:27:00",
+         "title" : "Semifinals Head To Rapid & Blitz With Even Scores"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124215591.cms\" />American Gambits revealed their Global Chess League Season 3 draft strategy. They retained Hikaru Nakamura and Bibisara Assaubayeva. Richard Rapport, Vladislav Artemiev, and Teodora Injac joined the team. They acquired prodigy Volodar Murzin but failed to secure Arjun Erigaisi after a bidding contest. The team aims to win the trophy and strengthen its brand this season.",
@@ -31,7 +39,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-introduces-hikaru-rule-from-october",
          "pubDate" : "Mon, 29 Sep 2025 13:39:00",
-         "title" : "FIDE Scraps 400-Point Rule For 2650+ Players, \"Triggered By Nakamura\""
+         "title" : "FIDE Scraps 400-Point Rule For 2650+ Players, 'Triggered By Nakamura'"
       },
       {
          "description" : "The Grand Chess Tour Finals opened in São Paulo with the first classical games of the semifinals, both ending in draws after moments of tension. Fabiano Caruana introduced a rare line in the French Defence against Levon Aronian but failed to maintain his advantage. Meanwhile, Praggnanandhaa Rameshbabu missed a winning continuation in time trouble, allowing Maxime Vachier-Lagrave to simplify into a tricky pawn-up endgame, which he failed to convert into a victory. | Photo: Lennart Ootes",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/this-is-not-him-head-in-hands-d-gukesh-suffers-third-straight-loss-at-fide-grand-swiss-watch/articleshow/123842431.cms",
          "pubDate" : "Fri, 12 Sep 2025 03:50:40",
          "title" : "'This is not him': Head in hands, Gukesh suffers third straight loss at FIDE Grand Swiss - watch"
-      },
-      {
-         "description" : "Indian GM Nihal Sarin defeated GM Parham Maghsoodloo to grab the 2025 FIDE Grand Swiss lead on 5.5/7, where he was joined by GM Matthias Bluebaum, who stunned GM Arjun Erigaisi. GMs Alireza Firouzja, Nodirbek Abdusattorov, Hans Niemann, and Vidit ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-7",
-         "pubDate" : "Thu, 11 Sep 2025 10:41:00",
-         "title" : "Nihal, Bluebaum Grab Grand Swiss Lead; Gukesh Loses 3rd Game"
       },
       {
          "description" : "There was a large number of nominations this year, and the Chess Trust made eight awards as follows: St Catherine's School Bramley;&#160;Stockport Grammar School;&#160;Brentwood School;&#160;Redhill Prep School;&#160;Radcliffe &#38; Bingham Chess...",
