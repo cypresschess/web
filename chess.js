@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After the classical portion of the Grand Chess Tour Finals had concluded with all games drawn, the semifinals were left to be decided in rapid and blitz play. With six games to follow - two rapid encounters worth four points each, and four blitz games worth two points each - the margins for error became smaller and the intensity greater. The two matches followed different paths: Maxime Vachier-Lagrave defeated Praggnanandhaa Rameshbabu with a convincing score, while Fabiano Caruana overcame Levon Aronian only in the final stages. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gct-finals-2025-3",
+         "pubDate" : "Wed, 01 Oct 2025 09:10:00",
+         "title" : "GCT Finals: MVL and Caruana advance to the final"
+      },
+      {
+         "description" : "Sharvaanica A.S. was leading by half a point before the start of the final round, where a draw would have been enough for her to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sharvaanica-wins-gold-in-fide-world-cadet-chess-championship-in-almaty-from-18-sept-to-01-oct-2025/",
+         "pubDate" : "Wed, 01 Oct 2025 06:55:15",
+         "title" : "Sharvaanica Wins Gold in Fide World Cadet Chess Championship in Almaty from 18 Sept to 01 Oct 2025."
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124248797.cms\" />Chess icon Magnus Carlsen and wife Ella Victoria Carlsen welcomed their first child on September 27, drawing global congratulations. FIDE's unique social media post referenced \"great genes\" and subtly recalled Carlsen's past 'jeans-gate' incident. Carlsen, who married in January, stated he would encourage his child to explore chess, noting his personal life's positive influence on his recent game performance.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/new-dad-alert-magnus-carlsen-welcomes-baby-fides-post-has-everyone-talking/articleshow/124248797.cms",
+         "pubDate" : "Wed, 01 Oct 2025 05:43:03",
+         "title" : "New dad alert! Magnus Carlsen welcomes baby; FIDE's post has everyone talking"
+      },
+      {
          "description" : "After the first weekend of the 2025/26 Chess Bundesliga, three clubs share the lead on maximum points. Promoted Schachfreunde Wolfhagen joined established contenders SC Viernheim and OSG Baden-Baden at the top, each securing two victories. Defending champions D&uuml;sseldorfer SK dropped ground after being held to a draw by Bayern M&uuml;nchen in round two, while Deizisau were twice held to 4-4. The season is set to resume in December. | Photo: Reinhard Ahrens / Hamburger SK",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,19 +34,11 @@ news_feed (
          "title" : "Bundesliga: Wolfhagen, Baden-Baden and Viernheim lead after first weekend"
       },
       {
-         "description" : "The Grand Chess Tour Finals return in 2025, taking place at the World Trade Center in São Paulo from 28 September to 3 October. The event features Maxime Vachier-LaGrave, Praggnanandhaa Rameshbabu, Fabiano Caruana and Levon Aronian facing off in a knockout tournament. | Follow the action live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2025-live",
-         "pubDate" : "Tue, 30 Sep 2025 19:45:00",
-         "title" : "Grand Chess Tour Finals - Live!"
-      },
-      {
          "description" : "GMs Fabiano Caruana and Maxime Vachier-Lagrave will play the title match of the 2025 Grand Chess Tour Finals. Caruana won his match 15-13 against GM Levon Aronian, while Vachier-Lagrave won 17-11 against GM Praggnanandhaa Rameshbabu. In a cruel tu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-grand-chess-tour-finals-day-3",
-         "pubDate" : "Tue, 30 Sep 2025 18:57:24",
+         "pubDate" : "Tue, 30 Sep 2025 18:57:00",
          "title" : "Caruana, Vachier-Lagrave Advance To Title Match"
       },
       {
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-nihal-sarin-shares-lead-after-round-8-d-gukesh-divya-deshmukh-play-out-103-move-draw/articleshow/123856640.cms",
          "pubDate" : "Fri, 12 Sep 2025 17:33:58",
          "title" : "Grand Swiss: Nihal shares lead; Gukesh, Divya play out 103-move draw"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123851085.cms\" />Eric Rosen, an American chess player, cleverly earned $1,000 by thoroughly examining the terms and conditions of a Titled Tuesday chess tournament. He discovered a hidden message within the broadcasting regulations, making him the \"undisputed champion of reading the rules.\" The chess app confirmed Rosen's prize on their X account after he emailed them a screenshot of the message.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-can-you-earn-rs-89000-from-your-desk-american-chess-player-has-an-idea/articleshow/123851085.cms",
-         "pubDate" : "Fri, 12 Sep 2025 11:39:56",
-         "title" : "How can you earn Rs 89k from your desk? US chess player has an idea"
       },
       {
          "description" : "Please find here National Under 11 National Under 11 Girls Rank Name Rank Name 1 Aarit Kapil 1 Krisha Tamhant Jain 2 Oishik Mondal 2",
