@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grand Chess Tour Finals return in 2025, taking place at the World Trade Center in São Paulo from 28 September to 3 October. The event features Maxime Vachier-LaGrave, Praggnanandhaa Rameshbabu, Fabiano Caruana and Levon Aronian facing off in a knockout tournament. | Follow the action live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gct-finals-2025-live",
+         "pubDate" : "Wed, 01 Oct 2025 19:45:00",
+         "title" : "Grand Chess Tour Finals - Live!"
+      },
+      {
          "description" : "After the classical portion of the Grand Chess Tour Finals had concluded with all games drawn, the semifinals were left to be decided in rapid and blitz play. With six games to follow - two rapid encounters worth four points each, and four blitz games worth two points each - the margins for error became smaller and the intensity greater. The two matches followed different paths: Maxime Vachier-Lagrave defeated Praggnanandhaa Rameshbabu with a convincing score, while Fabiano Caruana overcame Levon Aronian only in the final stages. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/gct-finals-2025-3",
          "pubDate" : "Wed, 01 Oct 2025 09:10:00",
          "title" : "GCT Finals: MVL and Caruana advance to the final"
+      },
+      {
+         "description" : "IM Levy Rozman, better known as GothamChess, has just made chess history. Just two moves into the GothamChess vs. The World match on Chess.com, he has officially broken the world record for the largest online chess match, surpassing 144,000 partic...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gothamchess-vs-world-breaks-record",
+         "pubDate" : "Wed, 01 Oct 2025 08:38:00",
+         "title" : "GothamChess vs. The World Smashes World Record As Game Begins"
       },
       {
          "description" : "Sharvaanica A.S. was leading by half a point before the start of the final round, where a draw would have been enough for her to",
@@ -624,14 +640,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/46270737/r-vaishali-puts-bad-year-defend-grand-swiss-crown-seal-fide-candidates-spot?device=featurephone",
          "pubDate" : "Mon, 15 Sep 2025 12:22:47",
          "title" : "R Vaishali puts bad year behind her to defend Grand Swiss crown, seal Candidates spot"
-      },
-      {
-         "description" : "GM Anish Giri played a perfect slow, grinding game to defeat GM Hans Niemann and win the 2025 FIDE Grand Swiss with 8/11. Giri takes the $90,000 top prize and earns a spot in the 2026 FIDE Candidates Tournament, where he&#39;ll be joined by GM Matthia...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/giri-vaishali-win-2025-fide-grand-swiss",
-         "pubDate" : "Mon, 15 Sep 2025 08:22:00",
-         "title" : "Giri, Vaishali Win Grand Swiss, Joined By Bluebaum, Lagno In Candidates"
       },
       {
          "description" : "The ECU E-Magazine August 2025 is out! In this edition of the ECU E-Magazine you may read about: The August 2025 edition of the ECU Magazine can be read online together with interactive links through the following link, or it can be downloaded in PDF format.",
