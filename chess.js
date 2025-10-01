@@ -18,6 +18,14 @@ news_feed (
          "title" : "Grand Chess Tour Finals - Live!"
       },
       {
+         "description" : "GMs Fabiano Caruana and Maxime Vachier-Lagrave will play the title match of the 2025 Grand Chess Tour Finals. Caruana won his match 15-13 against GM Levon Aronian, while Vachier-Lagrave won 17-11 against GM Praggnanandhaa Rameshbabu. In a cruel tu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-grand-chess-tour-finals-day-3",
+         "pubDate" : "Tue, 30 Sep 2025 18:57:24",
+         "title" : "Caruana, Vachier-Lagrave Advance To Title Match"
+      },
+      {
          "description" : "In the boxing ring, he learned what it means to pick yourself up again and again and draw new strength from setbacks. On 7 October, former world boxing champion Wladimir Klitschko will tell us about his life, the current situation in Ukraine and resilience in times of crisis. Vladimir is an old friend who visited ChessBase a number of times, together with his brother Vitaly. We look forward to seeing him again.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-indian-gm-r-vaishali-back-in-joint-lead-brother-r-praggnanandhaa-loses-to-hans-niemann/articleshow/123887458.cms",
          "pubDate" : "Sun, 14 Sep 2025 20:14:08",
          "title" : "FIDE Grand Swiss: Vaishali back in joint lead; Praggnanandhaa loses"
-      },
-      {
-         "description" : "GM Hans Niemann&#39;s win over GM Praggnanandhaa Rameshbabu was the only decisive game on the top-nine boards as he caught GMs Alireza Firouzja, Anish Giri, Vincent Keymer, and Matthias Bluebaum in the 2025 FIDE Grand Swiss lead. They&#39;re on 7/10 going...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-round-10",
-         "pubDate" : "Sun, 14 Sep 2025 11:01:00",
-         "title" : "Niemann Beats Pragg To Join 5-Way Tie For 1st; Vaishali Catches Lagno"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123873399.cms\" />In the FIDE Grand Swiss, Nihal Sarin's Candidates hopes dimmed after losing to Alireza Firouzja, while Arjun Erigaisi boosted Indian hopes with a win. Alireza joined the lead pack, and Praggnanandhaa eyes Candidates qualification through tournament scores. Vaishali remains in contention in the women's section, trailing leader Kateryna Lagno by half a point.",
