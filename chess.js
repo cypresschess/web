@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen no longer wants to compete for the World Championship title, but remains the clear number one in the world ranking. With an Elo rating of 2839, he continues to lead the FIDE world rankings by a clear margin. He has led the rankings continuously since July 2011 and is currently 23 points ahead of Hikaru Nakamura, who is number 2 in the world with 2816. In the women's rankings, Hou Yifan from China remains at the top. The best junior is Praggnanandhaa Rameshbabu from India, while the best junior girl also hails from India - Divya Deshmukh.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-october-2025",
+         "pubDate" : "Thu, 02 Oct 2025 01:15:00",
+         "title" : "FIDE ratings - October 2025"
+      },
+      {
          "description" : "The Grand Chess Tour Finals return in 2025, taking place at the World Trade Center in São Paulo from 28 September to 3 October. The event features Maxime Vachier-LaGrave, Praggnanandhaa Rameshbabu, Fabiano Caruana and Levon Aronian facing off in a knockout tournament. | Follow the action live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,20 @@ news_feed (
          "title" : "Grand Chess Tour Finals - Live!"
       },
       {
-         "description" : "After the classical portion of the Grand Chess Tour Finals had concluded with all games drawn, the semifinals were left to be decided in rapid and blitz play. With six games to follow - two rapid encounters worth four points each, and four blitz games worth two points each - the margins for error became smaller and the intensity greater. The two matches followed different paths: Maxime Vachier-Lagrave defeated Praggnanandhaa Rameshbabu with a convincing score, while Fabiano Caruana overcame Levon Aronian only in the final stages. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2025-3",
-         "pubDate" : "Wed, 01 Oct 2025 09:10:00",
-         "title" : "GCT Finals: MVL and Caruana advance to the final"
+         "description" : "GM Hikaru Nakamura&#39;s wins in state championships have taken him back to 2816, a peak he reached exactly a decade ago, but also provoked FIDE to change its rules. Elsewhere GM Anish Giri&#39;s victory in the FIDE Grand Swiss took him up to world number...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/october-2025-fide-ratings",
+         "pubDate" : "Wed, 01 Oct 2025 13:43:00",
+         "title" : "October 2025 FIDE Ratings: Nakamura Hits Peak, Giri Replaces Gukesh In Top 10"
+      },
+      {
+         "description" : "Arena Kings got a fresh new start on October 1; the new monthly version of Arena Kings continues to showcase the Chess.com streaming community as it always has, and only adds to that sense of community by allowing players to join together in a lar...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/terry-wins-arena-kings-october-1-2025",
+         "pubDate" : "Wed, 01 Oct 2025 13:23:19",
+         "title" : "2,300 Players Welcome New Arena Kings Era"
       },
       {
          "description" : "IM Levy Rozman, better known as GothamChess, has just made chess history. Just two moves into the GothamChess vs. The World match on Chess.com, he has officially broken the world record for the largest online chess match, surpassing 144,000 partic...",
@@ -42,12 +58,12 @@ news_feed (
          "title" : "New dad alert! Magnus Carlsen welcomes baby; FIDE's post has everyone talking"
       },
       {
-         "description" : "After the first weekend of the 2025/26 Chess Bundesliga, three clubs share the lead on maximum points. Promoted Schachfreunde Wolfhagen joined established contenders SC Viernheim and OSG Baden-Baden at the top, each securing two victories. Defending champions D&uuml;sseldorfer SK dropped ground after being held to a draw by Bayern M&uuml;nchen in round two, while Deizisau were twice held to 4-4. The season is set to resume in December. | Photo: Reinhard Ahrens / Hamburger SK",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-2025-26-r2",
-         "pubDate" : "Wed, 01 Oct 2025 01:05:00",
-         "title" : "Bundesliga: Wolfhagen, Baden-Baden and Viernheim lead after first weekend"
+         "description" : "This week concludes our series on the just-concluded 2025 FIDE Grand Swiss and Women's Grand Swiss tournaments (see report). We are pleased to share over 30 puzzles that WGM Sabina Foisor curated for us while selecting games to annotate for her reports, including two Tactics Tuesday columns designed for a broader range of chess players. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2025-fide-grand-swiss-pt-3",
+         "pubDate" : "Wed, 01 Oct 2025 00:00:00",
+         "title" : "Wednesday Workout: 2025 FIDE Grand Swiss, Pt. 3"
       },
       {
          "description" : "GMs Fabiano Caruana and Maxime Vachier-Lagrave will play the title match of the 2025 Grand Chess Tour Finals. Caruana won his match 15-13 against GM Levon Aronian, while Vachier-Lagrave won 17-11 against GM Praggnanandhaa Rameshbabu. In a cruel tu...",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/james-canty-chessboxing-world-champion",
          "pubDate" : "Tue, 30 Sep 2025 09:46:43",
          "title" : "James Canty Wins Heavyweight Chessboxing World Championship"
-      },
-      {
-         "description" : "The second classical games of the Grand Chess Tour Finals in São Paulo ended quickly, with both semifinals producing draws in under two hours. Levon Aronian and Fabiano Caruana exchanged pieces early after Caruana's 2...g6, while Maxime Vachier-Lagrave failed to challenge Praggnanandhaa Rameshbabu in a short Caro-Kann encounter. With all four players now on six points, the focus shifts to rapid and blitz. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2025-2",
-         "pubDate" : "Tue, 30 Sep 2025 08:00:00",
-         "title" : "GCT Finals: Quick draws"
       },
       {
          "description" : "Last season, Saint Louis University, SLU, won the Collegiate Chess League Spring 2025 (CCL) in convincing fashion. On September 30, they began their title defense by winning their first match of the Collegiate Chess League Fall 2025 just as convin...",
@@ -538,14 +546,6 @@ news_feed (
          "title" : "UK Open Blitz Championship 2025"
       },
       {
-         "description" : "US Chess is accepting applications for the position of Executive Director. The Executive Director is the chief executive officer of the organization and is a non-voting member of the US Chess Executive Board.Interested applicants should email (subject heading: ED Application) to Click here to show email address the following documents (in PDF format): (1) a letter of interest, (2) a resume, (3) three professional references, and (4) a writing sample no more than three pages. Applications should be submitted no later than 11:59 p.m. EDT on Friday, October 17, 2025.US Chess is committed to having an inclusive community and (as an Equal Opportunity Employer) does not discriminate in its hiring ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-seeks-executive-director-2025",
-         "pubDate" : "Thu, 18 Sep 2025 00:00:00",
-         "title" : "US Chess Seeks Executive Director"
-      },
-      {
          "description" : "FIDE, the International Chess Federation, in a piece published on Tuesday, announced there are 100 days before the FIDE World Rapid and Blitz Championships are set to take place in Doha, Qatar. While they have kept last year&#39;s format for the Blitz...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -578,28 +578,12 @@ news_feed (
          "title" : "'I decided not to play Grand Swiss': How R Vaishali's Chennai nightmare earned her a 2026 Candidates ticket"
       },
       {
-         "description" : "GM Magnus Carlsen won Titled Tuesday for the second straight week on September 16, scoring 10.5 points with only a draw against GM Jan-Krzysztof Duda preventing him from the perfect 11/11 in what he called &#34;definitely one of my more comfortable Ti...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-september-16-2025",
-         "pubDate" : "Tue, 16 Sep 2025 11:03:31",
-         "title" : "Carlsen Scores Huge With Back-To-Back Tournament Victories"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123915523.cms\" />Grandmaster R Vaishali lifts crown for second consecutive time, joins Divya Deshmukh and Koneru Humpy in Candidates meet",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-r-vaishali-wins-for-second-straight-year-books-place-in-candidates-tournament/articleshow/123915523.cms",
          "pubDate" : "Tue, 16 Sep 2025 06:26:01",
          "title" : "FIDE Grand Swiss: R Vaishali wins for second straight year, books place in Candidates tournament"
-      },
-      {
-         "description" : "Chess.com&#39;s Chief Chess Officer and co-founder, IM Danny Rensch, has released his first book, Dark Squares, a raw and deeply personal memoir about growing up in an abusive cult, how chess became his lifeline, and the journey that helped him build ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/danny-rensch-dark-squares-released",
-         "pubDate" : "Tue, 16 Sep 2025 06:07:44",
-         "title" : "Danny Rensch Releases Dark Squares: From Cult Survivor To Chess.com Co-Founder"
       },
       {
          "description" : " The FIDE Grand Swiss Tournament took place in Samarkand, Uzbekistan Thu 4th Sep to Mon 15th Sep 2025. Players Open: Praggnanandhaa, Erigaisi, Gukesh, Firouzja, Keymer, Abdusattorov, Giri, Aronian, Nepomniachtchi, Mamedyarov, MVL, Niemann etc. Players Women: Muzychuk, Tan, Assaubayeva, Lagno etc play in the women's even which has suffered a number of withdrawals. Two players from each event qualified for the relevant Candidates tournaments. Anish Giri took clear first place in the open section with 8/11 and Matthias Bluebaum finished second on tie-break from Alireza Firouzja and Vincent Keymer. Rameshbabu Vaishali won the women's event on tie-break from Kateryna Lagno after they finished on ",
