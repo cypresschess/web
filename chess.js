@@ -42,14 +42,6 @@ news_feed (
          "title" : "Caruana, Vachier-Lagrave Advance To Title Match"
       },
       {
-         "description" : "In the boxing ring, he learned what it means to pick yourself up again and again and draw new strength from setbacks. On 7 October, former world boxing champion Wladimir Klitschko will tell us about his life, the current situation in Ukraine and resilience in times of crisis. Vladimir is an old friend who visited ChessBase a number of times, together with his brother Vitaly. We look forward to seeing him again.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vladimir-klitschko-in-hamburg",
-         "pubDate" : "Tue, 30 Sep 2025 14:00:00",
-         "title" : "Vladimir Klitschko in Hamburg"
-      },
-      {
          "description" : "GM Magnus Carlsen, perhaps the greatest player to ever play the game, has become a father for the first time. The five-time world champion and his wife Ella Victoria Carlsen have welcomed their first child on September 27. The joyful news was fi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -138,28 +130,12 @@ news_feed (
          "title" : "'Erigaisi was one of our top preferences': Srinath dissects GCL draft strategy"
       },
       {
-         "description" : "Hatsun Chess Academy is one of the fastest-growing chess academies in India. It's supported by Hatsun Agro Products Ltd. and envisioned by GM Vishnu Prasanna, the former coach of World Champion D Gukesh. It's known for its holistic approach that combines chess, fitness, and mental conditioning. The academy has already become home to many rising talents. With its rapid growth, Hatsun Chess Academy is now looking to expand its coaching team. If you are an International Master with a passion for coaching, this could be the perfect opportunity for you. Read on to know how to apply.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hatsun-chess-academy-is-looking-for-a-full-time-international-master-coach",
-         "pubDate" : "Mon, 29 Sep 2025 14:04:59",
-         "title" : "Hatsun Chess Academy is looking for a Full-time International Master Coach"
-      },
-      {
          "description" : "The International Chess Federation (FIDE) has announced a change to its rating regulations that will already take effect on October 1, removing the so-called 400-point rule for players rated above 2650. The change was triggered by GM Hikaru Nakamu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-introduces-hikaru-rule-from-october",
          "pubDate" : "Mon, 29 Sep 2025 13:39:00",
          "title" : "FIDE Scraps 400-Point Rule For 2650+ Players, 'Triggered By Nakamura'"
-      },
-      {
-         "description" : "The Grand Chess Tour Finals opened in São Paulo with the first classical games of the semifinals, both ending in draws after moments of tension. Fabiano Caruana introduced a rare line in the French Defence against Levon Aronian but failed to maintain his advantage. Meanwhile, Praggnanandhaa Rameshbabu missed a winning continuation in time trouble, allowing Maxime Vachier-Lagrave to simplify into a tricky pawn-up endgame, which he failed to convert into a victory. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2025-1",
-         "pubDate" : "Mon, 29 Sep 2025 10:00:00",
-         "title" : "GCT Finals: Pragg and MVL miss chances in topsy-turvy game"
       },
       {
          "description" : "Enough with do-or-die from move one&#38;mdash;steer the game toward strategic waters that you understand with the new Anna Cramling&#39;s 1.d4 - Part 1 course! Great strategists like GM Magnus Carlsen have taken over the chess world with their calm and ...",
@@ -202,22 +178,6 @@ news_feed (
          "title" : "European Senior Chess Championship 2025 commenced in Croatia"
       },
       {
-         "description" : "Garry Kasparov is one of the most influential figures of recent decades - not only as a World Champion, but also as a ChessBase author. One of his classic video courses has been reissued. In addition, the new ChessBase Magazine is here, and there is brand new opening knowledge - so the August releases from ChessBase once again leave nothing to be desired! Just take a look at all of last month's products: | All Photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-august",
-         "pubDate" : "Sun, 28 Sep 2025 07:00:00",
-         "title" : "Review: All new releases in August!"
-      },
-      {
-         "description" : "Gukesh..Gukesh..Gukesh..the crowd screamed, welcoming the youngest-ever world chess champion on the stage. A bit overwhelmed, but extremely calm and composed, the 19-year-old youngster took the stage in a foreign land where people waited to watch him. And as humble as he is, Gukesh shared his thoughts on the stage! As the audience cheered in applause, he said, \"Just keep loving chess\". Gukesh was invited to be a part of a two-day event in Poland, and these were two of the most incredible days that we have spent with Gukesh! | All photos and videos by Aditya Sur Roy.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gukesh-trip-poland-2025",
-         "pubDate" : "Sat, 27 Sep 2025 22:10:00",
-         "title" : "A helicopter ride with world champion Gukesh Dommaraju"
-      },
-      {
          "description" : "GM Andrew Tang has reclaimed equal third position on Bullet Brawl&#39;s all-time leaderboard after prevailing over GM Oleksandr Bortnyk in a sprint to the finish in Saturday&#39;s arena. Tang combined pace and precision to amass a score of 162 points, e...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -256,14 +216,6 @@ news_feed (
          "link" : "https://www.thearticle.com/codebreakers-prophets-and-freedom-of-speech/",
          "pubDate" : "Sat, 27 Sep 2025 09:59:08",
          "title" : "Codebreakers, prophets and freedom of speech"
-      },
-      {
-         "description" : "The technique of calculating variations is perhaps one of the most important techniques that defines a chess player's playing strength. An entire generation of top players, including the current World Champion Gukesh Dommaraju, have a reputation of being true calculating machines. David Navara brings the secrets of calculating variations from the perspective of an absolute top player with a peak rating of 2751 to your home. Lukas K&ouml;pl, himself a trainer and advocate of the technique of calculating variations, reviewed David Navara's contribution. | Photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/david-navara-your-calculation-compass-know-when-to-calculate-2",
-         "pubDate" : "Sat, 27 Sep 2025 07:00:00",
-         "title" : "David Navara: Your Calculation Compass - Know When to Calculate"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124160734.cms\" />The Global Chess League Season 3 player draft in Mumbai saw World Champion Gukesh and Arjun Erigaisi unite with PBG Alaskan Knights, while Wesley So joined Mumba Masters. The league, featuring top international and Indian talents, is set to debut in India from December 13-24, 2025, at the Royal Opera House.",
@@ -776,22 +728,6 @@ news_feed (
          "link" : "https://aicf.in/38th-national-under-13-chess-championship-2025event-codes-430540-goa-2025-430541-goa-2025-shaunak-badole-of-maharashtra-and-wcm-deekshitha-modipalli-of-telangana-crowned-national-champions/",
          "pubDate" : "Thu, 11 Sep 2025 07:42:20",
          "title" : "38th National Under-13 Chess Championship 2025Event Codes: 430540/GOA/2025 & 430541/GOA/2025.Shaunak Badole of Maharashtra and WCM Deekshitha Modipalli of Telangana Crowned National Champions"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation and Arbiters' commission AICF, All J &#38; K Chess Association is organizing Senior National Arbiters Seminar &#38; Exam",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-result-of-sna-seminar-exam-in-jammu-on-06-07-sept-2025/",
-         "pubDate" : "Wed, 10 Sep 2025 10:38:05",
-         "title" : "Final Result of SNA Seminar & Exam in Jammu on 06 & 07 Sept.2025"
-      },
-      {
-         "description" : "The four books selected show the long history and variety of chess. Two books cover the life of a player with a natural genius for chess, and the remarkable early...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-shortlist-4/",
-         "pubDate" : "Wed, 10 Sep 2025 08:33:36",
-         "title" : "ECF Book of the Year shortlist"
       }
    ]
 }
