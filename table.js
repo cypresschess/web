@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-09-02  - 09-30","17","<a href=http://www.uschess.org/msa/XtblMain.php?202509300842 target='_blank'>SEPTEMBER TUESDAY NIGHT SWISS 2025</a>",
 "HOUSTON","2025-09-28","13","<a href=http://www.uschess.org/msa/XtblMain.php?202509289822 target='_blank'>SEPT 28TH OLD MAN TOURNEY 10AM G/60</a>",
 "HOUSTON","2025-09-28","20","<a href=http://www.uschess.org/msa/XtblMain.php?202509289172 target='_blank'>BELLAIRE SUNDAY SWISS 09/28/25</a>",
 "HOUSTON","2025-09-27","13","<a href=http://www.uschess.org/msa/XtblMain.php?202509277902 target='_blank'>CHESSPANDA09272025SATURDAY</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2025-03-14  - 03-16","9","<a href=http://www.uschess.org/msa/XtblMain.php?202503163182 target='_blank'>2025 LONE STAR OPEN CHESS CHAMPIONS</a>",
 "HOUSTON","2025-03-14  - 03-16","230","<a href=http://www.uschess.org/msa/XtblMain.php?202503162132 target='_blank'>2025 LONE STAR OPEN CHESS CHAMPIONS</a>",
 "HOUSTON","2025-03-15","92","<a href=http://www.uschess.org/msa/XtblMain.php?202503151152 target='_blank'>2025 LONE STAR SCHOLASTIC</a>",
-"HOUSTON","2025-03-15","6","<a href=http://www.uschess.org/msa/XtblMain.php?202503150532 target='_blank'>MAR 15TH SATURDAY SWISS</a>",
 ]);
