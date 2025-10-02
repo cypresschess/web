@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "While Magnus Carlsen's embrace of freestyle chess has sparked questions about the future of established theory, traditional openings remain central to top-level play. The ChessBase Opening Encyclopaedia 2025 offers over 1500 articles, 7850 surveys and recent repertoire ideas to help players navigate both classic and modern systems. From deep analysis of the Spanish Berlin to a revisited Evans Gambit tested by Carlsen and Anand, this resource balances instruction with inspiration.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/opening-encyclopaedia-review-nagesh-havanur-p1",
+         "pubDate" : "Thu, 02 Oct 2025 08:40:00",
+         "title" : "Opening Encyclopaedia 2025: Introduction and Open Games"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124269670.cms\" />From sibling rivalry in Goa to becoming the state's second Grandmaster, 19-year-old Leon Luke Mendonca's journey has been shaped by family sacrifice and resilience. After illness marred his Tata Steel Masters debut, the teenager rebounded with consistent performances to earn a World Cup reserve spot in Goa, underlining his persistence in chasing the next level of global chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-leon-mendonca-story-from-father-leaving-job-for-chess-to-battling-illness-in-wijk-aan-zee-now-world-cup-reserve/articleshow/124269670.cms",
+         "pubDate" : "Thu, 02 Oct 2025 05:23:03",
+         "title" : "Leon Mendonca's journey: Chess, setbacks, and the road to World Cup reserve"
+      },
+      {
          "description" : "Magnus Carlsen no longer wants to compete for the World Championship title, but remains the clear number one in the world ranking. With an Elo rating of 2839, he continues to lead the FIDE world rankings by a clear margin. He has led the rankings continuously since July 2011 and is currently 23 points ahead of Hikaru Nakamura, who is number 2 in the world with 2816. In the women's rankings, Hou Yifan from China remains at the top. The best junior is Praggnanandhaa Rameshbabu from India, while the best junior girl also hails from India - Divya Deshmukh.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-ratings-october-2025",
          "pubDate" : "Thu, 02 Oct 2025 01:15:00",
          "title" : "FIDE ratings - October 2025"
+      },
+      {
+         "description" : "Despite the end result, game one of the title match between GMs Fabiano Caruana and Maxime Vachier-Lagrave in the 2025 Grand Chess Tour Finals was a true, five-hour-long struggle. Caruana reached a winning queen endgame, but it was too difficult t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-grand-chess-tour-finals-day-4",
+         "pubDate" : "Wed, 01 Oct 2025 20:50:26",
+         "title" : "Vachier-Lagrave Survives After 89 Moves"
       },
       {
          "description" : "The Grand Chess Tour Finals return in 2025, taking place at the World Trade Center in SÃ£o Paulo from 28 September to 3 October. The event features Maxime Vachier-LaGrave, Praggnanandhaa Rameshbabu, Fabiano Caruana and Levon Aronian facing off in a knockout tournament. | Follow the action live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
@@ -562,14 +586,6 @@ news_feed (
          "title" : "Live Chess World League 2025/S2"
       },
       {
-         "description" : "GMs Anish Giri and Vaishali Rameshbabu topped the tables of the 2025 FIDE Grand Swiss and 2025 FIDE Women&#38;rsquo;s Grand Swiss in Samarkand, Uzbekistan, but the 172 players in 11 rounds brought countless stories. We got the surprise Candidates qual...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-grand-swiss-13-conclusions",
-         "pubDate" : "Wed, 17 Sep 2025 07:18:00",
-         "title" : "2025 FIDE Grand Swiss: 13 Conclusions"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123936941.cms\" />Grandmaster R Vaishali secured her spot in the Women's Candidates Tournament 2026 by winning the Women's Grand Swiss in Samarkand. This victory came after a challenging experience at the Chennai Grand Masters, where she faced a series of losses. Ironically, her lowered rating from the Chennai tournament inadvertently contributed to her Grand Swiss win due to tie-break calculations.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -688,14 +704,6 @@ news_feed (
          "link" : "https://aicf.in/certificatesnational-under-11-chess-championship-2025-in-jalgaon/",
          "pubDate" : "Fri, 12 Sep 2025 10:35:39",
          "title" : "Certificates:National Under 11 Chess Championship 2025 in Jalgaon"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123847621.cms\" />At the FIDE Grand Swiss in Samarkand, Indian chess presents a contrasting picture. Nihal Sarin shines, securing his third consecutive win and joining the lead. Meanwhile, World Champion D Gukesh struggles, losing his third straight game and risking a drop from the top 10. Despite Nihal's success, he humbly credits Viswanathan Anand and Gukesh for India's chess boom.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-keeps-losing-nihal-sarin-keeps-winning-indian-chess-confronts-janus-paradox-at-fide-grand-swiss/articleshow/123847621.cms",
-         "pubDate" : "Fri, 12 Sep 2025 08:29:53",
-         "title" : "Gukesh keeps losing, Nihal keeps winning: Indian chess confronts Janus paradox"
       },
       {
          "description" : " The 'Turkish Immortal' allowed two white queens on the board, then sacrificed the black queen for a pawn, followed by checkmate by a previously unmoved black pawn Draws dominated on Friday in round eight of the $625,000 Grand Swiss in Samarkand on the ancient Silk Road, where the top two finishers after 11 rounds will qualify for the 2026 ­Candidates and a potential title shot at the shaky crown of the world ­champion, Gukesh Dommaraju. Leaders after round eight were Nihal Sarin (India) and Matthias Bl&uuml;baum (Germany) 6, Parham Maghsoodloo (Iran), Abhimanyu Mishra and Hans Niemann (US), Anish Giri and Jorden van ­Foreest (Netherlands), Alireza Firouzja (France), Nodirbek Abdusattorov (U",
