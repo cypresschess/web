@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first classical games of the final and the match for third place in São Paulo both ended drawn, though in contrasting ways. Levon Aronian and Praggnanandhaa Rameshbabu quickly simplified their Sicilian Defence encounter into a level ending after queens left the board on move 15. Meanwhile, Fabiano Caruana pressed for more than five hours against Maxime Vachier-Lagrave in a lengthy queen endgame, but despite holding an extra pawn, he could not convert his advantage into a win. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gct-finals-2025-4",
+         "pubDate" : "Thu, 02 Oct 2025 10:45:00",
+         "title" : "GCT Finals: MVL escapes with a draw in lengthy struggle"
+      },
+      {
          "description" : "While Magnus Carlsen's embrace of freestyle chess has sparked questions about the future of established theory, traditional openings remain central to top-level play. The ChessBase Opening Encyclopaedia 2025 offers over 1500 articles, 7850 surveys and recent repertoire ideas to help players navigate both classic and modern systems. From deep analysis of the Spanish Berlin to a revisited Evans Gambit tested by Carlsen and Anand, this resource balances instruction with inspiration.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,16 +38,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-grand-chess-tour-finals-day-4",
-         "pubDate" : "Wed, 01 Oct 2025 20:50:26",
+         "pubDate" : "Wed, 01 Oct 2025 20:50:00",
          "title" : "Vachier-Lagrave Survives After 89 Moves"
-      },
-      {
-         "description" : "The Grand Chess Tour Finals return in 2025, taking place at the World Trade Center in São Paulo from 28 September to 3 October. The event features Maxime Vachier-LaGrave, Praggnanandhaa Rameshbabu, Fabiano Caruana and Levon Aronian facing off in a knockout tournament. | Follow the action live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2025-live",
-         "pubDate" : "Wed, 01 Oct 2025 19:45:00",
-         "title" : "Grand Chess Tour Finals - Live!"
       },
       {
          "description" : "GM Hikaru Nakamura&#39;s wins in state championships have taken him back to 2816, a peak he reached exactly a decade ago, but also provoked FIDE to change its rules. Elsewhere GM Anish Giri&#39;s victory in the FIDE Grand Swiss took him up to world number...",
@@ -712,22 +712,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/sep/12/chess-erdogmus-14-wins-immortal-game-on-silk-road-as-grand-swiss-nears-climax",
          "pubDate" : "Fri, 12 Sep 2025 07:00:28",
          "title" : "Chess: Erdogmus, 14, wins 'Immortal' game on Silk Road as Grand Swiss nears climax"
-      },
-      {
-         "description" : "There was a large number of nominations this year, and the Chess Trust made eight awards as follows: St Catherine's School Bramley;&#160;Stockport Grammar School;&#160;Brentwood School;&#160;Redhill Prep School;&#160;Radcliffe &#38; Bingham Chess...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/bcet-awards-2025/",
-         "pubDate" : "Thu, 11 Sep 2025 08:39:53",
-         "title" : "BCET Awards 2025"
-      },
-      {
-         "description" : "The 38th National Under-13 Chess Championship 2025 concluded with grandeur at the Daivadnya Bhavan in Margao, Goa. After eleven rounds of intense battles, Shaunak Badole",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/38th-national-under-13-chess-championship-2025event-codes-430540-goa-2025-430541-goa-2025-shaunak-badole-of-maharashtra-and-wcm-deekshitha-modipalli-of-telangana-crowned-national-champions/",
-         "pubDate" : "Thu, 11 Sep 2025 07:42:20",
-         "title" : "38th National Under-13 Chess Championship 2025Event Codes: 430540/GOA/2025 & 430541/GOA/2025.Shaunak Badole of Maharashtra and WCM Deekshitha Modipalli of Telangana Crowned National Champions"
       }
    ]
 }
