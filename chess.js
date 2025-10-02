@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The first classical games of the final and the match for third place in São Paulo both ended drawn, though in contrasting ways. Levon Aronian and Praggnanandhaa Rameshbabu quickly simplified their Sicilian Defence encounter into a level ending after queens left the board on move 15. Meanwhile, Fabiano Caruana pressed for more than five hours against Maxime Vachier-Lagrave in a lengthy queen endgame, but despite holding an extra pawn, he could not convert his advantage into a win. | Photo: Lennart Ootes",
+         "description" : "The Grand Chess Tour Finals return in 2025, taking place at the World Trade Center in São Paulo from 28 September to 3 October. The event features Maxime Vachier-LaGrave, Praggnanandhaa Rameshbabu, Fabiano Caruana and Levon Aronian facing off in a knockout tournament. | Follow the action live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2025-4",
-         "pubDate" : "Thu, 02 Oct 2025 10:45:00",
-         "title" : "GCT Finals: MVL escapes with a draw in lengthy struggle"
+         "link" : "https://en.chessbase.com/post/gct-finals-2025-live",
+         "pubDate" : "Thu, 02 Oct 2025 19:45:00",
+         "title" : "Grand Chess Tour Finals - Live!"
       },
       {
-         "description" : "While Magnus Carlsen's embrace of freestyle chess has sparked questions about the future of established theory, traditional openings remain central to top-level play. The ChessBase Opening Encyclopaedia 2025 offers over 1500 articles, 7850 surveys and recent repertoire ideas to help players navigate both classic and modern systems. From deep analysis of the Spanish Berlin to a revisited Evans Gambit tested by Carlsen and Anand, this resource balances instruction with inspiration.",
+         "description" : "Grandmasters Wang Hao and Hou Yifan triumphed in the Open and Women's sections of the chess competition at the 15th National Games of China, held in Shenzhen from 23 to 28 September. Featuring leading players such as Ding Liren, Wei Yi, Yu Yangyi, Ju Wenjun, Lei Tingjie and Zhu Jiner, the event saw Jiangsu win the team title ahead of Shandong and Hebei. The competition combined round-robin preliminaries with knockout finals, producing tense matches and surprise results. | Photos: Chinese Chess Association",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/opening-encyclopaedia-review-nagesh-havanur-p1",
-         "pubDate" : "Thu, 02 Oct 2025 08:40:00",
-         "title" : "Opening Encyclopaedia 2025: Introduction and Open Games"
+         "link" : "https://en.chessbase.com/post/chinese-national-games-2025",
+         "pubDate" : "Thu, 02 Oct 2025 19:20:00",
+         "title" : "Wang Hao and Hou Yifan triumph at 15th Chinese National Games"
+      },
+      {
+         "description" : "Chess.com is excited to partner with Perplexity, the developer behind the cutting-edge, AI-integrated web browser Comet. The collaboration is designed to bring amazing benefits to our community, and will feature the 2025 Comet Open, a high-stakes ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/perplexity-partnership-comet-open-announcement",
+         "pubDate" : "Thu, 02 Oct 2025 11:01:00",
+         "title" : "Chess.com Partners With Perplexity; Announcing $200,000 Comet Open"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124269670.cms\" />From sibling rivalry in Goa to becoming the state's second Grandmaster, 19-year-old Leon Luke Mendonca's journey has been shaped by family sacrifice and resilience. After illness marred his Tata Steel Masters debut, the teenager rebounded with consistent performances to earn a World Cup reserve spot in Goa, underlining his persistence in chasing the next level of global chess.",
@@ -26,12 +34,12 @@ news_feed (
          "title" : "Leon Mendonca's journey: Chess, setbacks, and the road to World Cup reserve"
       },
       {
-         "description" : "Magnus Carlsen no longer wants to compete for the World Championship title, but remains the clear number one in the world ranking. With an Elo rating of 2839, he continues to lead the FIDE world rankings by a clear margin. He has led the rankings continuously since July 2011 and is currently 23 points ahead of Hikaru Nakamura, who is number 2 in the world with 2816. In the women's rankings, Hou Yifan from China remains at the top. The best junior is Praggnanandhaa Rameshbabu from India, while the best junior girl also hails from India - Divya Deshmukh.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-october-2025",
-         "pubDate" : "Thu, 02 Oct 2025 01:15:00",
-         "title" : "FIDE ratings - October 2025"
+         "description" : "Editor's note: In the spirit of this essay, I am choosing to publish it as-is. There are a few changes I would make - including putting spaces around the em-dashes (like this!), per our style guide - but I think there is value in seeing how AI writes. Furthermore, I think it can be dangerous to try to pass off AI-generated writing as human writing, so it feels disingenuous (not to mention, missing the point) to try to human-ify it. Thanks for the day off, Tim! - JJLTJ's Question: I asked AI (Copilot) to write a \"Just the Rules\" column in the style of Tim Just. Look what it spit out:AI's Answer: Absolutely! Tim Just's \"Just the Rules\" column is known for its practical, sometimes humorous, and",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-how-ai-wrote-column",
+         "pubDate" : "Thu, 02 Oct 2025 00:00:00",
+         "title" : "Just the Rules: How AI Wrote This Column!"
       },
       {
          "description" : "Despite the end result, game one of the title match between GMs Fabiano Caruana and Maxime Vachier-Lagrave in the 2025 Grand Chess Tour Finals was a true, five-hour-long struggle. Caruana reached a winning queen endgame, but it was too difficult t...",
@@ -546,14 +554,6 @@ news_feed (
          "title" : "R Vaishali's journey: From twilight zone to Swiss sunrise"
       },
       {
-         "description" : "What are your National Chess Day plans? This year's festivities, set for Saturday, October 11, are just over two weeks away. This is a great time to find a tournament in your area or even consider running one yourself! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> In order to encourage affiliates to host events, US Chess is offering free email blasts and waived rating fees for tournaments hosted on this day.On Chess Life Online, we plan on sharing some of the events planned for National Chess Day that have caught our eye. Feel free to email Click here to show email address with information about your event if you would be interested in possibly being featured in a fut",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/national-chess-day-preview-kentucky-chess-ambassadors-host-historic-blitz-bughouse-tournament",
-         "pubDate" : "Fri, 19 Sep 2025 00:00:00",
-         "title" : "National Chess Day Preview: Kentucky Chess Ambassadors Host Historic Blitz & Bughouse Tournament in Louisville "
-      },
-      {
          "description" : "The new Coventry International will take place from Sunday 26th October to Friday 31st October 2025 at the Holiday Inn Coventry M6, JCT.2 in Coventry. The hotel is familiar to...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -568,14 +568,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/uk-open-blitz-championship-2025/",
          "pubDate" : "Thu, 18 Sep 2025 06:00:21",
          "title" : "UK Open Blitz Championship 2025"
-      },
-      {
-         "description" : "FIDE, the International Chess Federation, in a piece published on Tuesday, announced there are 100 days before the FIDE World Rapid and Blitz Championships are set to take place in Doha, Qatar. While they have kept last year&#39;s format for the Blitz...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-announces-fide-on-2025-world-blitz-championship-changes",
-         "pubDate" : "Wed, 17 Sep 2025 21:08:00",
-         "title" : "FIDE On World Blitz Format Change: 'Too Many Non-Games'"
       },
       {
          "description" : "The much awaited Live Chess World League 2025/S2 (Season 14) is now underway on Chess.com with teams from around the world playing in 5 divisions based on results from previous...",
