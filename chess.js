@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Over the past year, the Kasparov Chess Academy has provided training to over 500 students from across the globe, making it a unique educational platform in the world of chess. The Academy proudly celebrates its second year of activity, marking remarkable achievements and setting ambitious goals for the future - the third season of the training program for 2026.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-academy-season-2026",
+         "pubDate" : "Fri, 03 Oct 2025 14:00:00",
+         "title" : "KCF Academy: Season 2026"
+      },
+      {
          "description" : "The 2025 European Team Chess Championship is set to take place from 4-15 October in Batumi, Georgia. The event is played in 9 rounds, swiss system, with Open and Women's sections separately. 76 teams participate in the Championship, with 40 teams in Open section and 36 teams in Women's competition, and very strong fields in both tournaments. The rating favourites in the Open section are Germany (average rating of players 2681), Netherlands (average rating of players 2675), Hungary (average rating []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gct-finals-2025-5",
          "pubDate" : "Fri, 03 Oct 2025 08:20:00",
          "title" : "GCT Finals: Scores remain tied going into rapid and blitz"
+      },
+      {
+         "description" : "WFM Anna Cramling is about to go around the world in four boards in the next episode of Kids vs. Stars! The popular streamer from Sweden will take on four kids from different continents in a clock simul on October 6, starting at 12 p.m. ET / 18:00...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-kids-vs-stars-episode-6",
+         "pubDate" : "Fri, 03 Oct 2025 08:00:00",
+         "title" : "Anna Cramling Takes On 4 Kids From Around The World In Next Kids Vs. Stars"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124285478.cms\" />Indian chess witnessed a landmark September as Arjun Erigaisi ascended to world number four and Nihal Sarin joined the elite 2700 club. Vaishali Rameshbabu secured a Women's Candidates spot, while Divya Deshmukh also impressed. Junior prodigies like Pranav Venkatesh, Abhimanyu Mishra, and Ashwath Kaushik achieved significant rating gains, underscoring India's burgeoning status as a global chess powerhouse.",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/checkmate-usa-india-2025-announcement",
          "pubDate" : "Fri, 03 Oct 2025 02:00:00",
          "title" : "Coming up: USA v. India amid roaring arena atmosphere"
+      },
+      {
+         "description" : "US Chess is pleased to announce plans to create a new program to replace the current Certified Chess Coach Program. To ensure consistent quality standards, these plans include certifying qualified organizations and individuals as a US Chess Coach Certification Authority.US Chess will be issuing a Request for Proposals (RFP) to organizations or individuals interested in becoming a US Chess Coach Certification Authority. Applicants awarded Certification Authority status by US Chess will be granted non-exclusive rights to deliver instructional programs to certify coaches who successfully complete the Certification Authority's US Chess-approved curriculum.US Chess is releasing the RFP as a draft",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/feedback-requested-us-chess-coach-certification-program",
+         "pubDate" : "Fri, 03 Oct 2025 00:00:00",
+         "title" : "Feedback Requested: US Chess Coach Certification Program"
       },
       {
          "description" : " James Canty III is now a World Champion! Readers may have wondered if they missed something. Yet, it is true. Canty won the 7th United Chess Boxing heavyweight world title in Loznica, Serbia. While he is a much stronger chess player than a boxer, the Detroit native knows a thing or two about the sport The post <a href=\"https://thechessdrum.net/blog/2025/10/02/canty-wins-chessboxing-title/\">Canty wins ChessBoxing world title!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -490,28 +514,12 @@ news_feed (
          "title" : "Checkmate: USA vs India To Bring Chess Back To The Stadium Stage"
       },
       {
-         "description" : "This week continues our series on the just-concluded 2025 FIDE Grand Swiss and Women's Grand Swiss tournaments. Check out the full report featuring annotations by WGM Sabina Foisor. We are pleased to share even more curated positions from Sabina over the next few weeks. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-grand-swiss-pt-2",
-         "pubDate" : "Tue, 23 Sep 2025 00:00:00",
-         "title" : "Tactics Tuesday: FIDE Grand Swiss, Pt. 2"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124052363.cms\" />Divya Deshmukh, India's 19-year-old Grandmaster, has received a wild card entry into the FIDE World Cup 2025 in Goa after a last-minute withdrawal. She will join 20 other Indian players, including world champion D Gukesh, in the knockout tournament. The biennial event features 206 top players, with the top three finishers qualifying for the 2026 Candidates Tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-2025-divya-deshmukh-handed-wild-card/articleshow/124052363.cms",
          "pubDate" : "Mon, 22 Sep 2025 15:14:05",
          "title" : "FIDE World Cup 2025: Divya Deshmukh handed wild card"
-      },
-      {
-         "description" : "Announced on Monday, FIDE President Arkady Dvorkovich has granted six wildcard invitations for the upcoming 2025 FIDE World Cup, a major tournament in November that will award three seats in the 2026 FIDE Candidates Tournament. The winner of that ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-announces-wildcards-2025-fide-world-cup",
-         "pubDate" : "Mon, 22 Sep 2025 13:49:36",
-         "title" : "Divya Among 6 Players Awarded World Cup Wildcard Spots; Firouzja Not In"
       },
       {
          "description" : " The 62nd Indian Chess Championships take place in Guntur Sun 21st Sep to Wed 1st Oct 2025. Pa Iniyan, Surya Shekhar Ganguly, SP Sethuraman, Krishnan Sasikiran etc. The event doesn't have any of the top 15 Indian players. ",
@@ -528,14 +536,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-for-62nd-national-championship-2025/",
          "pubDate" : "Mon, 22 Sep 2025 09:28:06",
          "title" : "LIVE LINK for 62nd National Championship 2025"
-      },
-      {
-         "description" : "GM Hikaru Nakamura has moved one step closer to a historic 50th Bullet Brawl title after outscoring GMs Andrew Tang, Daniel Naroditsky, and 196 hungry titled players on Saturday.&#38;nbsp; Nakamura scored 174 points in the two-hour arena and won the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-sep-20-2025",
-         "pubDate" : "Sat, 20 Sep 2025 18:39:00",
-         "title" : "Nakamura Wins 48th Bullet Brawl Title Ahead Of Tang, Naroditsky"
       },
       {
          "description" : "Yes, you can improve your chess by training the wrong way. Actually, it happens more often than you might think. Let's say a million people are using a random chess improvement method. They jump around YouTube, watch whatever pops up, maybe buy some random opening courses, and then play a few games. Out of that []",
