@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 European Team Chess Championship is set to take place from 4-15 October in Batumi, Georgia. The event is played in 9 rounds, swiss system, with Open and Women's sections separately. 76 teams participate in the Championship, with 40 teams in Open section and 36 teams in Women's competition, and very strong fields in both tournaments. The rating favourites in the Open section are Germany (average rating of players 2681), Netherlands (average rating of players 2675), Hungary (average rating []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-team-chess-championship-2025-starts-in-batumi-georgia/",
+         "pubDate" : "Fri, 03 Oct 2025 09:05:17",
+         "title" : "European Team Chess Championship 2025 starts in Batumi, Georgia"
+      },
+      {
          "description" : "The second classical games of the championship match and the third-place playoff both ended drawn in São Paulo, keeping both duels level at six points each. Maxime Vachier-Lagrave pressed Fabiano Caruana in a Sicilian that led to a rook endgame, but Caruana defended accurately. Praggnanandhaa Rameshbabu, meanwhile, tested Levon Aronian in a queenless position, though Black's well-placed minor pieces ensured the balance. The event now moves to rapid and blitz. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -15,7 +23,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-d-gukesh-out-of-top-10-in-latest-fide-rankings-arjun-erigaisi-surpasses-r-praggnanandhaa-to-become-india-no-1/articleshow/124285478.cms",
          "pubDate" : "Fri, 03 Oct 2025 07:19:11",
-         "title" : "FIDE rankings: Gukesh out of top 10 in latest; Erigaisi becomes India No. 1"
+         "title" : "FIDE rankings: Gukesh out of top 10; Erigaisi becomes India No. 1"
       },
       {
          "description" : " The Argentinian looks set to break the record for the youngest GM after winning the Legends and Prodigies tournament in Madrid Faustino Oro, the 11-year-old \"chess Messi\" from Argentina, set new world records for his age when he won last week's Legends and Prodigies tournament in Madrid with an unbeaten 7.5/9, achieving his first grandmaster norm (of three needed for the title) with 1.5 points to spare, plus a 2509 GM rating on Fide's <a href=\"https://ratings.fide.com/top_lists.phtml?list=juniors\">October rating list</a>. Oro is the first under-12 in chess history to be rated 2500-plus. His next target will be his second and third GM norms, and with them Abhimanyu Mishra's world record as t",
@@ -122,7 +130,7 @@ news_feed (
          "title" : "2,300 Players Welcome New Arena Kings Era"
       },
       {
-         "description" : "IM Levy Rozman, better known as GothamChess, has just made chess history. Just two moves into the GothamChess vs. The World match on Chess.com, he has officially broken the world record for the largest online chess match, surpassing 144,000 partic...",
+         "description" : "IM Levy Rozman, better known as GothamChess, has just made chess history. Two moves into the GothamChess vs. The World match on Chess.com, he has officially broken the world record for the largest online chess match, surpassing 144,000 participant...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gothamchess-vs-world-breaks-record",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-how-much-hindi-do-you-know-divya-deshmukh-once-his-translator-pushes-world-chess-champion-out-of-top-10/articleshow/123863231.cms",
          "pubDate" : "Sat, 13 Sep 2025 04:06:59",
          "title" : "Chess: Once Gukesh's Hindi translator, Divya pushes World champ off top-10 Rating"
-      },
-      {
-         "description" : "Please find here National Under 11 National Under 11 Girls Rank Name Rank Name 1 Aarit Kapil 1 Krisha Tamhant Jain 2 Oishik Mondal 2",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificatesnational-under-11-chess-championship-2025-in-jalgaon/",
-         "pubDate" : "Fri, 12 Sep 2025 10:35:39",
-         "title" : "Certificates:National Under 11 Chess Championship 2025 in Jalgaon"
       }
    ]
 }
