@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grand Chess Tour Finals return in 2025, taking place at the World Trade Center in São Paulo from 28 September to 3 October. The event features Maxime Vachier-LaGrave, Praggnanandhaa Rameshbabu, Fabiano Caruana and Levon Aronian facing off in a knockout tournament. | Follow the action live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gct-finals-2025-live",
+         "pubDate" : "Fri, 03 Oct 2025 17:45:00",
+         "title" : "Grand Chess Tour Finals - Live!"
+      },
+      {
          "description" : "Over the past year, the Kasparov Chess Academy has provided training to over 500 students from across the globe, making it a unique educational platform in the world of chess. The Academy proudly celebrates its second year of activity, marking remarkable achievements and setting ambitious goals for the future - the third season of the training program for 2026.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/kcf-academy-season-2026",
          "pubDate" : "Fri, 03 Oct 2025 14:00:00",
          "title" : "KCF Academy: Season 2026"
+      },
+      {
+         "description" : "GM Pranesh M won Freestyle Friday (his first) with a round to spare on October 3, gliding to a 9.5/10 start in the field of 116 players. GM Oleksandr Bortnyk finished in second place with nine points after becoming the first player to finally beat...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pranesh-wins-freestyle-friday-october-3-2025",
+         "pubDate" : "Fri, 03 Oct 2025 11:49:24",
+         "title" : "New Face Cruises To Freestyle Friday Victory"
       },
       {
          "description" : "The 2025 European Team Chess Championship is set to take place from 4-15 October in Batumi, Georgia. The event is played in 9 rounds, swiss system, with Open and Women's sections separately. 76 teams participate in the Championship, with 40 teams in Open section and 36 teams in Women's competition, and very strong fields in both tournaments. The rating favourites in the Open section are Germany (average rating of players 2681), Netherlands (average rating of players 2675), Hungary (average rating []",
@@ -504,14 +520,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-chesscom-seirawan-chess-championship-2025",
          "pubDate" : "Tue, 23 Sep 2025 08:00:00",
          "title" : "Chess.com Seirawan Chess Championship Kicks Off October 2"
-      },
-      {
-         "description" : "Chess will return as a stadium sport at the Checkmate: USA vs India match in Arlington, Texas, on October 4. The organizers said they hope to capture both die-hard chess fans and the broader chess audience with some fascinating new experiments. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/checkmate-usa-vs-india-2025-stadium-sport",
-         "pubDate" : "Tue, 23 Sep 2025 06:29:00",
-         "title" : "Checkmate: USA vs India To Bring Chess Back To The Stadium Stage"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124052363.cms\" />Divya Deshmukh, India's 19-year-old Grandmaster, has received a wild card entry into the FIDE World Cup 2025 in Goa after a last-minute withdrawal. She will join 20 other Indian players, including world champion D Gukesh, in the knockout tournament. The biennial event features 206 top players, with the top three finishers qualifying for the 2026 Candidates Tournament.",
