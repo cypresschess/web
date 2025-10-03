@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Grand Chess Tour Finals took place in Sao Paulo Sunday 28th to Friday 3rd October. Players: Maxime Vachier-Lagrave, Praggnanandhaa, Levon Aronian and Fabiano Caruana. This is a knockout where they play a mix of Classical, rapid and blitz. Classical Games: 6 points for a win, 3 points for a draw and 0 points for a loss, Rapid Games: 4 points for a win, 2 points for a draw and 0 points for a loss, Blitz Games: 2 points for a win, 1 point for a draw and 0 points for a loss. Fabiano Caruana beat MVL in the final but only after coming from behind winning three blitz games in a row and then surviving a lost position in the fourth. Levon Aronian qualified for next year's tour beating Praggnana",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/grand-chess-tour-finals-2025",
+         "pubDate" : "Fri, 3 Oct 2025 22:08:00",
+         "title" : "Grand Chess Tour Finals 2025 - Games and Results"
+      },
+      {
          "description" : "The Grand Chess Tour Finals return in 2025, taking place at the World Trade Center in São Paulo from 28 September to 3 October. The event features Maxime Vachier-LaGrave, Praggnanandhaa Rameshbabu, Fabiano Caruana and Levon Aronian facing off in a knockout tournament. | Follow the action live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/gct-finals-2025-live",
          "pubDate" : "Fri, 03 Oct 2025 17:45:00",
          "title" : "Grand Chess Tour Finals - Live!"
+      },
+      {
+         "description" : "GM Fabiano Caruana won the 2025 Grand Chess Tour Finals to earn $150,000, with the runner-up GM Maxime Vachier-Lagrave taking the second $100,000 prize. Vachier-Lagrave won the first game, but Caruana went on a rampage to win three games in a row ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/caruana-wins-2025-grand-chess-tour-finals",
+         "pubDate" : "Fri, 03 Oct 2025 14:28:00",
+         "title" : "Caruana Wins 2nd Grand Chess Tour Title"
       },
       {
          "description" : "Over the past year, the Kasparov Chess Academy has provided training to over 500 students from across the globe, making it a unique educational platform in the world of chess. The Academy proudly celebrates its second year of activity, marking remarkable achievements and setting ambitious goals for the future - the third season of the training program for 2026.",
@@ -72,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/checkmate-usa-india-2025-announcement",
          "pubDate" : "Fri, 03 Oct 2025 02:00:00",
          "title" : "Coming up: USA v. India amid roaring arena atmosphere"
+      },
+      {
+         "description" : "What are your National Chess Day plans? This year's festivities, set for Saturday, October 11, are just one week away. This is a great time to find a tournament in your area or even consider running one yourself! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> In order to encourage affiliates to host events, US Chess is offering free email blasts and waived rating fees for tournaments hosted on this day.On Chess Life Online, we plan on sharing some of the events planned for National Chess Day that have caught our eye. Feel free to email Click here to show email address with information about your event if you would be interested in possibly being featured in a National ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/national-chess-day-preview-puzzle-night-shepherdstown-west-virginia",
+         "pubDate" : "Fri, 03 Oct 2025 00:00:00",
+         "title" : "National Chess Day Preview: Puzzle Night in Shepherdstown, West Virginia"
       },
       {
          "description" : "US Chess is pleased to announce plans to create a new program to replace the current Certified Chess Coach Program. To ensure consistent quality standards, these plans include certifying qualified organizations and individuals as a US Chess Coach Certification Authority.US Chess will be issuing a Request for Proposals (RFP) to organizations or individuals interested in becoming a US Chess Coach Certification Authority. Applicants awarded Certification Authority status by US Chess will be granted non-exclusive rights to deliver instructional programs to certify coaches who successfully complete the Certification Authority's US Chess-approved curriculum.US Chess is releasing the RFP as a draft",
@@ -314,14 +338,6 @@ news_feed (
          "title" : "Rivals Reunite As Carlsen, Nakamura, & Niemann Headline 2025 Speed Chess Championship"
       },
       {
-         "description" : " The Grand Chess Tour Finals take place in Sao Paulo Sunday 28th to Friday 3rd October. Players: Maxime Vachier-Lagrave, Praggnanandhaa, Levon Aronian and Fabiano Caruana. This is a knockout where they play a mix of Classical, rapid and blitz. Classical Games: 6 points for a win, 3 points for a draw and 0 points for a loss, Rapid Games: 4 points for a win, 2 points for a draw and 0 points for a loss, Blitz Games: 2 points for a win, 1 point for a draw and 0 points for a loss.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/grand-chess-tour-finals-2025",
-         "pubDate" : "Sun, 28 Sep 2025 21:19:00",
-         "title" : "Grand Chess Tour Finals 2025 - Games and Results"
-      },
-      {
          "description" : "GM Praggnanandhaa Rameshbabu blundered with a second on his clock to turn a promising position into a pawn-down endgame, but GM Maxime Vachier-Lagrave missed a win as their 2025 Grand Chess Tour Finals semifinal began with a draw. The other match-...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -482,14 +498,6 @@ news_feed (
          "title" : "Gukesh still settling in as world champ, says Viswanathan Anand"
       },
       {
-         "description" : "This week continues our series on the just-concluded 2025 FIDE Grand Swiss and Women's Grand Swiss tournaments (see report). We are pleased to share even more curated positions from Sabina over the next few weeks, including a more accessible batch of tactics beginning with last week's Tactics Tuesday column and yesterday's follow-up. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2025-fide-grand-swiss-pt-2",
-         "pubDate" : "Wed, 24 Sep 2025 00:00:00",
-         "title" : "Wednesday Workout: 2025 FIDE Grand Swiss, Pt. 2"
-      },
-      {
          "description" : "GM Hikaru Nakamura took his first Titled Tuesday in the new system on September 23, entering the top four of the Champions Chess Tour standings. Other than two quick draws in the seventh and eighth rounds, he scored every possible point on his way...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -512,14 +520,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/fide-chess-in-education-commission-edu-courses-events-september-november-2025/",
          "pubDate" : "Tue, 23 Sep 2025 08:05:08",
          "title" : "FIDE Chess in Education Commission (EDU) courses & events September - November 2025"
-      },
-      {
-         "description" : "Hawks and elephants are storming the chessboard once again in the next event of the Chess.com Community Championship. The Seirawan Chess Championship takes place on October 2 and 3, featuring a $2,000 prize pool. Seirawan Chess is the brainchild...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-seirawan-chess-championship-2025",
-         "pubDate" : "Tue, 23 Sep 2025 08:00:00",
-         "title" : "Chess.com Seirawan Chess Championship Kicks Off October 2"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124052363.cms\" />Divya Deshmukh, India's 19-year-old Grandmaster, has received a wild card entry into the FIDE World Cup 2025 in Goa after a last-minute withdrawal. She will join 20 other Indian players, including world champion D Gukesh, in the knockout tournament. The biennial event features 206 top players, with the top three finishers qualifying for the 2026 Candidates Tournament.",
