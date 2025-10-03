@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 4 October, Arlington becomes the setting for \"Checkmate: USA v. India\", an evening of chess presented as a live arena spectacle. Esports Stadium Arlington will see Hikaru Nakamura take on world champion Gukesh Dommaraju, Fabiano Caruana face Arjun Erigaisi, and further clashes featuring women stars, prodigies and leading chess streamers. With fast-paced games, unusual rules and a sports-style atmosphere, the event seeks to redefine how elite chess is staged and experienced.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/checkmate-usa-india-2025-announcement",
+         "pubDate" : "Fri, 03 Oct 2025 02:00:00",
+         "title" : "Coming up: USA v. India amid roaring arena atmosphere"
+      },
+      {
          "description" : " James Canty III is now a World Champion! Readers may have wondered if they missed something. Yet, it is true. Canty won the 7th United Chess Boxing heavyweight world title in Loznica, Serbia. While he is a much stronger chess player than a boxer, the Detroit native knows a thing or two about the sport The post <a href=\"https://thechessdrum.net/blog/2025/10/02/canty-wins-chessboxing-title/\">Canty wins ChessBoxing world title!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -26,6 +34,14 @@ news_feed (
          "title" : "Wang Hao and Hou Yifan triumph at 15th Chinese National Games"
       },
       {
+         "description" : "Both matches in the 2025 Grand Chess Tour Finals enter the rapid and blitz portion with even scores. In the title match, GM Maxime Vachier-Lagrave squeezed for a bit but got no advantage against GM Fabiano Caruana in a rook endgame. GM Praggnanand...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-grand-chess-tour-finals-day-5",
+         "pubDate" : "Thu, 02 Oct 2025 16:23:44",
+         "title" : "2025 GCT Champion To Be Decided By Rapid & Blitz After Draws"
+      },
+      {
          "description" : "Chess.com is excited to partner with Perplexity, the developer behind the cutting-edge, AI-integrated web browser Comet. The collaboration is designed to bring amazing benefits to our community, and will feature the 2025 Comet Open, a high-stakes ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -40,6 +56,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/the-leon-mendonca-story-from-father-leaving-job-for-chess-to-battling-illness-in-wijk-aan-zee-now-world-cup-reserve/articleshow/124269670.cms",
          "pubDate" : "Thu, 02 Oct 2025 05:23:03",
          "title" : "Leon Mendonca's journey: Chess, setbacks, and the road to World Cup reserve"
+      },
+      {
+         "description" : "In this issue, I have decided to just 'follow along' with what was provided from the Front Office's Recent Event Winners report and the tournaments the players participated in. All games and puzzles provided in this issue were played in the Walter Muir E-Quads tournament (specifically Section 25W07) or the Victor Palciauskas tournament (specifically Section 25VP04). In addition, for each game, at least one of the players was a winner of their respective tournament's section. Victor PalciauskasThe Victor Palciauskas tournament started on March 12 of this year. There were seven participants in Section 25VP04. Below are the current results of the section. Even though there are two games from th",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/check-mail-october-2025-follow-along",
+         "pubDate" : "Thu, 02 Oct 2025 00:00:00",
+         "title" : "Check is in the Mail, October 2025: Follow Along!"
+      },
+      {
+         "description" : "It was a successful outing for the 24 Americans who traveled to Almaty, Kazakhstan for the 2025 FIDE World Cadet Championships in Almaty, Kazakhstan. As covered in Tuesday's flash report, the USA delegation finished third overall, and three Americans achieved top-three finishes with four more finishing in the top ten. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Medalists Laurie Qiu, Ethan Guo, and Lacey Wang (All photos courtesy US Chess)<br> <br> <br> <br> As we get ready for the 2025 FIDE World Youth Championship in Durres, Albania to kick off this weekend, let's take a look at some of the key games from our Under-12, Under-10, and Under-8 player",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/full-report-usa-third-2025-fide-cadets",
+         "pubDate" : "Thu, 02 Oct 2025 00:00:00",
+         "title" : "Full Report: USA Third at 2025 FIDE Cadets"
       },
       {
          "description" : "Editor's note: In the spirit of this essay, I am choosing to publish it as-is. There are a few changes I would make - including putting spaces around the em-dashes (like this!), per our style guide - but I think there is value in seeing how AI writes. Furthermore, I think it can be dangerous to try to pass off AI-generated writing as human writing, so it feels disingenuous (not to mention, missing the point) to try to human-ify it. Thanks for the day off, Tim! - JJLTJ's Question: I asked AI (Copilot) to write a \"Just the Rules\" column in the style of Tim Just. Look what it spit out:AI's Answer: Absolutely! Tim Just's \"Just the Rules\" column is known for its practical, sometimes humorous, and",
@@ -442,14 +474,6 @@ news_feed (
          "title" : "Tactics Tuesday: FIDE Grand Swiss, Pt. 2"
       },
       {
-         "description" : "US Chess is pleased to announce that a record-breaking number of affiliates, clubs, and organizations applied for the 2025-26 Women and Girls cycle of programming grants. These grants are supported by our partnership with the Saint Louis Chess Club, which began in 2019. For the 2024-25 cycle, US Chess announced 17 grant awards (up from seven the year before) under the US Chess Women's program. This was out of 38 applicants (up from 12 in 2023-24). Recipients used this funding for developing mentorship programs, educational series, and special events geared towards promoting women and girls' chess (read more about last year's winners here).With 68 applicants for this cycle, we anticipate dist",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/update-2025-26-women-and-girls-programming-grant-applications",
-         "pubDate" : "Tue, 23 Sep 2025 00:00:00",
-         "title" : "Update on 2025-26 Women and Girls Programming Grant Applications"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124052363.cms\" />Divya Deshmukh, India's 19-year-old Grandmaster, has received a wild card entry into the FIDE World Cup 2025 in Goa after a last-minute withdrawal. She will join 20 other Indian players, including world champion D Gukesh, in the knockout tournament. The biennial event features 206 top players, with the top three finishers qualifying for the 2026 Candidates Tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -480,14 +504,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-for-62nd-national-championship-2025/",
          "pubDate" : "Mon, 22 Sep 2025 09:28:06",
          "title" : "LIVE LINK for 62nd National Championship 2025"
-      },
-      {
-         "description" : "US Chess is proud to announce the second phase in our long-term plan to overhaul digital infrastructure. Following the 2020 move to CiviCRM, our next step is to replace outdated tools in the Membership Services Area (MSA) and Tournament Director/Affiliate Area (TD/A).Because these areas still rely on decades-old platforms that no longer meet our needs, US Chess has partnered with Leago to create a new, unified platform for tournament directors (TDs), players, and parents.As of today, this new platform is open for beta testing. If you are interested, read on for instructions for how to become a beta tester and how to share your feedback with us. What is changing?Currently, tournament director",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/leago-muir-beta-testing-now-open",
-         "pubDate" : "Mon, 22 Sep 2025 00:00:00",
-         "title" : "Leago MUIR Beta Testing Now Open"
       },
       {
          "description" : "GM Hikaru Nakamura has moved one step closer to a historic 50th Bullet Brawl title after outscoring GMs Andrew Tang, Daniel Naroditsky, and 196 hungry titled players on Saturday.&#38;nbsp; Nakamura scored 174 points in the two-hour arena and won the...",
@@ -536,14 +552,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/updated-ecf-junior-selection-policy/",
          "pubDate" : "Fri, 19 Sep 2025 14:22:37",
          "title" : "Updated ECF Junior Selection Policy"
-      },
-      {
-         "description" : "GM Hikaru Nakamura won Freestyle Friday on September 19, his seventh, reaching his final score of nine points with a win in the final round against GM Sina Movahed. Movahed, who was attempting to win the event for the third straight week, retained...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-freestyle-friday-september-19-2025",
-         "pubDate" : "Fri, 19 Sep 2025 11:21:58",
-         "title" : "Nakamura Stops Movahed's Freestyle Friday Streak At Last Moment"
       },
       {
          "description" : " The five-time Dutch champion and Germany's No 2, Matthias Bl&uuml;baum, were surprise qualifiers for the world title Candidates ahead of several more fancied rivals The $625,000 Grand Swiss in Samarkand, on the ancient Silk Road, was a hard-fought race for two qualifying spots in the 2026 world title Candidates, yet paradoxically it ended with victories for one grandmaster with a reputation for halved games and for another who nobody expected to do well. Anish Giri, the Netherlands No 1, took the $90,000 first prize with an unbeaten 8/11 total. The five-time Dutch champion's key game was in the final round against Hans Niemann, when the controversial American, who himself needed to win, had",
