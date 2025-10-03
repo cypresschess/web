@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second classical games of the championship match and the third-place playoff both ended drawn in SÃ£o Paulo, keeping both duels level at six points each. Maxime Vachier-Lagrave pressed Fabiano Caruana in a Sicilian that led to a rook endgame, but Caruana defended accurately. Praggnanandhaa Rameshbabu, meanwhile, tested Levon Aronian in a queenless position, though Black's well-placed minor pieces ensured the balance. The event now moves to rapid and blitz. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gct-finals-2025-5",
+         "pubDate" : "Fri, 03 Oct 2025 08:20:00",
+         "title" : "GCT Finals: Scores remain tied going into rapid and blitz"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124285478.cms\" />Indian chess witnessed a landmark September as Arjun Erigaisi ascended to world number four and Nihal Sarin joined the elite 2700 club. Vaishali Rameshbabu secured a Women's Candidates spot, while Divya Deshmukh also impressed. Junior prodigies like Pranav Venkatesh, Abhimanyu Mishra, and Ashwath Kaushik achieved significant rating gains, underscoring India's burgeoning status as a global chess powerhouse.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-d-gukesh-out-of-top-10-in-latest-fide-rankings-arjun-erigaisi-surpasses-r-praggnanandhaa-to-become-india-no-1/articleshow/124285478.cms",
+         "pubDate" : "Fri, 03 Oct 2025 07:19:11",
+         "title" : "FIDE rankings: Gukesh out of top 10 in latest; Erigaisi becomes India No. 1"
+      },
+      {
+         "description" : " The Argentinian looks set to break the record for the youngest GM after winning the Legends and Prodigies tournament in Madrid Faustino Oro, the 11-year-old \"chess Messi\" from Argentina, set new world records for his age when he won last week's Legends and Prodigies tournament in Madrid with an unbeaten 7.5/9, achieving his first grandmaster norm (of three needed for the title) with 1.5 points to spare, plus a 2509 GM rating on Fide's <a href=\"https://ratings.fide.com/top_lists.phtml?list=juniors\">October rating list</a>. Oro is the first under-12 in chess history to be rated 2500-plus. His next target will be his second and third GM norms, and with them Abhimanyu Mishra's world record as t",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/oct/03/chess-messi-faustino-oro-achieves-grandmaster-norm-and-2500-rating-at-just-11",
+         "pubDate" : "Fri, 03 Oct 2025 07:00:28",
+         "title" : "'Chess Messi' Faustino Oro achieves grandmaster norm and 2500 rating at just 11"
+      },
+      {
          "description" : "On 4 October, Arlington becomes the setting for \"Checkmate: USA v. India\", an evening of chess presented as a live arena spectacle. Esports Stadium Arlington will see Hikaru Nakamura take on world champion Gukesh Dommaraju, Fabiano Caruana face Arjun Erigaisi, and further clashes featuring women stars, prodigies and leading chess streamers. With fast-paced games, unusual rules and a sports-style atmosphere, the event seeks to redefine how elite chess is staged and experienced.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,14 +42,6 @@ news_feed (
          "title" : "Canty wins ChessBoxing world title!"
       },
       {
-         "description" : "The Grand Chess Tour Finals return in 2025, taking place at the World Trade Center in SÃ£o Paulo from 28 September to 3 October. The event features Maxime Vachier-LaGrave, Praggnanandhaa Rameshbabu, Fabiano Caruana and Levon Aronian facing off in a knockout tournament. | Follow the action live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2025-live",
-         "pubDate" : "Thu, 02 Oct 2025 19:45:00",
-         "title" : "Grand Chess Tour Finals - Live!"
-      },
-      {
          "description" : "Grandmasters Wang Hao and Hou Yifan triumphed in the Open and Women's sections of the chess competition at the 15th National Games of China, held in Shenzhen from 23 to 28 September. Featuring leading players such as Ding Liren, Wei Yi, Yu Yangyi, Ju Wenjun, Lei Tingjie and Zhu Jiner, the event saw Jiangsu win the team title ahead of Shandong and Hebei. The competition combined round-robin preliminaries with knockout finals, producing tense matches and surprise results. | Photos: Chinese Chess Association",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-grand-chess-tour-finals-day-5",
-         "pubDate" : "Thu, 02 Oct 2025 16:23:44",
+         "pubDate" : "Thu, 02 Oct 2025 16:23:00",
          "title" : "2025 GCT Champion To Be Decided By Rapid & Blitz After Draws"
       },
       {
@@ -698,28 +714,12 @@ news_feed (
          "title" : "Chess: Once Gukesh's Hindi translator, Divya pushes World champ off top-10 Rating"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123856640.cms\" />Gukesh D and Divya Deshmukh drew in a lengthy endgame, while Nihal Sarin secured a quick draw, sharing the lead in the FIDE Grand Swiss. R Vaishali lost her lead in the women's section after a defeat, and Vidit Gujrathi was also defeated. Kateryna Lagno now leads the women's section with 6.5 points, holding a half-point advantage.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-nihal-sarin-shares-lead-after-round-8-d-gukesh-divya-deshmukh-play-out-103-move-draw/articleshow/123856640.cms",
-         "pubDate" : "Fri, 12 Sep 2025 17:33:58",
-         "title" : "Grand Swiss: Nihal shares lead; Gukesh, Divya play out 103-move draw"
-      },
-      {
          "description" : "Please find here National Under 11 National Under 11 Girls Rank Name Rank Name 1 Aarit Kapil 1 Krisha Tamhant Jain 2 Oishik Mondal 2",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/certificatesnational-under-11-chess-championship-2025-in-jalgaon/",
          "pubDate" : "Fri, 12 Sep 2025 10:35:39",
          "title" : "Certificates:National Under 11 Chess Championship 2025 in Jalgaon"
-      },
-      {
-         "description" : " The 'Turkish Immortal' allowed two white queens on the board, then sacrificed the black queen for a pawn, followed by checkmate by a previously unmoved black pawn Draws dominated on Friday in round eight of the $625,000 Grand Swiss in Samarkand on the ancient Silk Road, where the top two finishers after 11 rounds will qualify for the 2026 ­Candidates and a potential title shot at the shaky crown of the world ­champion, Gukesh Dommaraju. Leaders after round eight were Nihal Sarin (India) and Matthias Bl&uuml;baum (Germany) 6, Parham Maghsoodloo (Iran), Abhimanyu Mishra and Hans Niemann (US), Anish Giri and Jorden van ­Foreest (Netherlands), Alireza Firouzja (France), Nodirbek Abdusattorov (U",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/sep/12/chess-erdogmus-14-wins-immortal-game-on-silk-road-as-grand-swiss-nears-climax",
-         "pubDate" : "Fri, 12 Sep 2025 07:00:28",
-         "title" : "Chess: Erdogmus, 14, wins 'Immortal' game on Silk Road as Grand Swiss nears climax"
       }
    ]
 }
