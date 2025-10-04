@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana won the 2025 Grand Chess Tour Finals in São Paulo after defeating Maxime Vachier-Lagrave in a tense match that was decided in the blitz phase. After losing the opening rapid game, Caruana responded with three straight wins in blitz to secure the title, holding a draw in a dramatic final game to clinch overall victory. Levon Aronian beat Praggnanandhaa Rameshbabu 20-8 in the third-place match, earning a place in next year's Grand Chess Tour. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gct-finals-2025-6",
+         "pubDate" : "Sat, 04 Oct 2025 19:20:00",
+         "title" : "Caruana beats MVL in very close match, wins Grand Chess Tour Finals"
+      },
+      {
          "description" : "Having a plan is great. But then real life happens, and it gets chaotic real quick. The list of possible things to get between you and your scheduled training is endless. The key is not to avoid these that's impossible. What determines if you stick to your chess improvement is how you react to []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
