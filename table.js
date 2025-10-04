@@ -1,4 +1,7 @@
 jtable([
+"CYPRESS","2025-10-03","50","<a href=http://www.uschess.org/msa/XtblMain.php?202510032672 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SUGAR LAND","2025-10-03","19","<a href=http://www.uschess.org/msa/XtblMain.php?202510032652 target='_blank'>FBCC 2025 FIRST THANKSGIVING OPEN</a>",
+"SPRING","2025-10-03","27","<a href=http://www.uschess.org/msa/XtblMain.php?202510032622 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2025-09-02  - 09-30","17","<a href=http://www.uschess.org/msa/XtblMain.php?202509300842 target='_blank'>SEPTEMBER TUESDAY NIGHT SWISS 2025</a>",
 "HOUSTON","2025-09-28","13","<a href=http://www.uschess.org/msa/XtblMain.php?202509289822 target='_blank'>SEPT 28TH OLD MAN TOURNEY 10AM G/60</a>",
 "HOUSTON","2025-09-28","20","<a href=http://www.uschess.org/msa/XtblMain.php?202509289172 target='_blank'>BELLAIRE SUNDAY SWISS 09/28/25</a>",
@@ -196,7 +199,4 @@ jtable([
 "CYPRESS","2025-03-22","42","<a href=http://www.uschess.org/msa/XtblMain.php?202503224152 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2025-03-21","27","<a href=http://www.uschess.org/msa/XtblMain.php?202503214072 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2025-03-21","24","<a href=http://www.uschess.org/msa/XtblMain.php?202503214062 target='_blank'>FBCC NATIONAL FRENCH BREAD DAY OPEN</a>",
-"HOUSTON","2025-03-14  - 03-16","9","<a href=http://www.uschess.org/msa/XtblMain.php?202503163182 target='_blank'>2025 LONE STAR OPEN CHESS CHAMPIONS</a>",
-"HOUSTON","2025-03-14  - 03-16","230","<a href=http://www.uschess.org/msa/XtblMain.php?202503162132 target='_blank'>2025 LONE STAR OPEN CHESS CHAMPIONS</a>",
-"HOUSTON","2025-03-15","92","<a href=http://www.uschess.org/msa/XtblMain.php?202503151152 target='_blank'>2025 LONE STAR SCHOLASTIC</a>",
 ]);
