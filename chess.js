@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124301271.cms\" />Fabiano Caruana secured his second Grand Chess Tour Finals victory, earning $150,000 after a remarkable comeback. He defeated runner-up Maxime Vachier-Lagrave, who initially won the first game but saw Caruana secure three consecutive victories. Levon Aronian claimed third place and $60,000, dominating Praggnanandhaa Rameshbabu. Caruana expressed the immense prestige of this difficult win.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-chess-tour-finals-2025-fabiano-caruana-clinches-title-bags-usd-150k-r-praggnanandhaa-loses-third-place-match/articleshow/124301271.cms",
+         "pubDate" : "Sat, 04 Oct 2025 02:57:20",
+         "title" : "GCT Finals: Caruana clinches title; Pragg loses third-place match"
+      },
+      {
+         "description" : "Matthias Bluebaum is the man of the hour in international chess. With his second place at the Grand Swiss in Samarkand, the grandmaster from Lemgo has achieved something that no German has managed in around 35 years: to be a World Championship candidate. Following the European Team Championship, where Bluebaum will represent Germany, he will play at the World Cup, where Vincent Keymer still has a chance to jump on the World Championship bandwagon. Holger Hank spoke to Bluebaum for Deutsche Welle in what turned out to be an in-depth interview. | Photo: Michal Walusza / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/matthias-bluebaum-interview-hank-2025",
+         "pubDate" : "Sat, 04 Oct 2025 01:35:00",
+         "title" : "Matthias Bluebaum: \"I'm not the type of person who takes a lot of risks\""
+      },
+      {
          "description" : " The Grand Chess Tour Finals took place in Sao Paulo Sunday 28th to Friday 3rd October. Players: Maxime Vachier-Lagrave, Praggnanandhaa, Levon Aronian and Fabiano Caruana. This is a knockout where they play a mix of Classical, rapid and blitz. Classical Games: 6 points for a win, 3 points for a draw and 0 points for a loss, Rapid Games: 4 points for a win, 2 points for a draw and 0 points for a loss, Blitz Games: 2 points for a win, 1 point for a draw and 0 points for a loss. Fabiano Caruana beat MVL in the final but only after coming from behind winning three blitz games in a row and then surviving a lost position in the fourth. Levon Aronian qualified for next year's tour beating Praggnana",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://www.thearticle.com/free-speech-vs-ultracrepidarian-authoritarianism/",
          "pubDate" : "Sat, 13 Sep 2025 10:44:13",
          "title" : "Free speech vs ultracrepidarian authoritarianism"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123863231.cms\" />Gukesh Dommaraju and Divya Deshmukh, Indian chess prodigies, faced off at the FIDE Grand Swiss in Uzbekistan. Their first classical format encounter ended in a draw after a 103-move battle. Grandmaster Pravin Thipsay analysed the game, highlighting Divya's unusual opening and Gukesh's missed opportunities. With the draw, Gukesh, undergoing a slump, fell out of the top 10 in live ratings.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-how-much-hindi-do-you-know-divya-deshmukh-once-his-translator-pushes-world-chess-champion-out-of-top-10/articleshow/123863231.cms",
-         "pubDate" : "Sat, 13 Sep 2025 04:06:59",
-         "title" : "Chess: Once Gukesh's Hindi translator, Divya pushes World champ off top-10 Rating"
       }
    ]
 }
