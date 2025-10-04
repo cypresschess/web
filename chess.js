@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Having a plan is great. But then real life happens, and it gets chaotic real quick. The list of possible things to get between you and your scheduled training is endless. The key is not to avoid these that's impossible. What determines if you stick to your chess improvement is how you react to []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/chess-training-during-busy-times/",
+         "pubDate" : "Sat, 04 Oct 2025 13:00:00",
+         "title" : "How To Train Chess When Real Life Things Happen"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124301978.cms\" />Nagpur's first Grandmaster, Raunak Sadhwani, has received a wildcard entry from the All India Chess Federation for the upcoming Chess World Cup in Goa. The 19-year-old, ranked World Junior No. 8, becomes the 23rd Indian participant in the prestigious tournament. Sadhwani expressed his gratitude and eagerness to compete and make his mark on the global stage.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -47,7 +55,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-faces-backlash-after-rule-change-accused-of-stealing-rating-points",
          "pubDate" : "Fri, 03 Oct 2025 20:30:00",
-         "title" : "FIDE Faces Backlash After Rule Changes, Accused of 'Stealing' Rating Points"
+         "title" : "FIDE Faces Backlash After Rule Changes, Accused Of 'Stealing' Rating Points"
       },
       {
          "description" : "The Grand Chess Tour Finals return in 2025, taking place at the World Trade Center in São Paulo from 28 September to 3 October. The event features Maxime Vachier-LaGrave, Praggnanandhaa Rameshbabu, Fabiano Caruana and Levon Aronian facing off in a knockout tournament. | Follow the action live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-indian-gm-r-vaishali-back-in-joint-lead-brother-r-praggnanandhaa-loses-to-hans-niemann/articleshow/123887458.cms",
          "pubDate" : "Sun, 14 Sep 2025 20:14:08",
          "title" : "FIDE Grand Swiss: Vaishali back in joint lead; Praggnanandhaa loses"
-      },
-      {
-         "description" : "When chess improvers ask me for book recommendations, they expect a list of chess classics. But here's the truth: the books that shaped me most, both as a professional player and later as a coach, weren't written about chess at all. They were about mindset, focus, and how to live and learn better. Lessons I []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/non-chess-books-for-chess-improvement/",
-         "pubDate" : "Sat, 13 Sep 2025 13:00:00",
-         "title" : "The Best Books for Chess Improvement (That Aren't About Chess)"
       }
    ]
 }
