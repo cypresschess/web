@@ -10,6 +10,14 @@ news_feed (
          "title" : "India's 65th GM Sadhwani gets wildcard entry for FIDE Chess WC"
       },
       {
+         "description" : "In September, IM Nhat Minh To won the 2025 Duck Chess Championship. In October, he conquered another variant, winning the 2025 Seirawan Chess Championship. Minh To did it the hard way, losing his very first match, and then having to win the Grand ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/variant-king-minh-to-wins-2025-seirawan-chess-championship",
+         "pubDate" : "Sat, 04 Oct 2025 03:42:13",
+         "title" : "Variant King Minh To Wins 2025 Seirawan Chess Championship"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124301271.cms\" />Fabiano Caruana secured his second Grand Chess Tour Finals victory, earning $150,000 after a remarkable comeback. He defeated runner-up Maxime Vachier-Lagrave, who initially won the first game but saw Caruana secure three consecutive victories. Levon Aronian claimed third place and $60,000, dominating Praggnanandhaa Rameshbabu. Caruana expressed the immense prestige of this difficult win.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -38,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-faces-backlash-after-rule-change-accused-of-stealing-rating-points",
-         "pubDate" : "Fri, 03 Oct 2025 20:30:04",
+         "pubDate" : "Fri, 03 Oct 2025 20:30:00",
          "title" : "FIDE Faces Backlash After Rule Changes, Accused of 'Stealing' Rating Points"
       },
       {
@@ -530,14 +538,6 @@ news_feed (
          "title" : "Gukesh still settling in as world champ, says Viswanathan Anand"
       },
       {
-         "description" : "GM Hikaru Nakamura took his first Titled Tuesday in the new system on September 23, entering the top four of the Champions Chess Tour standings. Other than two quick draws in the seventh and eighth rounds, he scored every possible point on his way...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-september-23-2025",
-         "pubDate" : "Tue, 23 Sep 2025 12:46:50",
-         "title" : "Nakamura Wins Titled Tuesday Drama-Free, Joins CCT Leaders"
-      },
-      {
          "description" : "FIDE's Chess in Education Commission continues to accelerate its provision of training for Lecturers and Teachers of Educational Chess, offering a series of high-level online and in-person opportunities in autumn...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -728,14 +728,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/non-chess-books-for-chess-improvement/",
          "pubDate" : "Sat, 13 Sep 2025 13:00:00",
          "title" : "The Best Books for Chess Improvement (That Aren't About Chess)"
-      },
-      {
-         "description" : "In recent years we have been told that certain words, thoughts, or even memories are no longer fit for use. The new censors call this progress, though it is nothing of the kind. It is merely the old habit of forcing people to think alike, dressed up with a new name. Freedom of speech in []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/free-speech-vs-ultracrepidarian-authoritarianism/",
-         "pubDate" : "Sat, 13 Sep 2025 10:44:13",
-         "title" : "Free speech vs ultracrepidarian authoritarianism"
       }
    ]
 }
