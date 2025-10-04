@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124301978.cms\" />Nagpur's first Grandmaster, Raunak Sadhwani, has received a wildcard entry from the All India Chess Federation for the upcoming Chess World Cup in Goa. The 19-year-old, ranked World Junior No. 8, becomes the 23rd Indian participant in the prestigious tournament. Sadhwani expressed his gratitude and eagerness to compete and make his mark on the global stage.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-65th-gm-raunak-sadhwani-gets-wildcard-entry-for-fide-chess-world-cup/articleshow/124301978.cms",
+         "pubDate" : "Sat, 04 Oct 2025 04:30:38",
+         "title" : "India's 65th GM Sadhwani gets wildcard entry for FIDE Chess WC"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124301271.cms\" />Fabiano Caruana secured his second Grand Chess Tour Finals victory, earning $150,000 after a remarkable comeback. He defeated runner-up Maxime Vachier-Lagrave, who initially won the first game but saw Caruana secure three consecutive victories. Levon Aronian claimed third place and $60,000, dominating Praggnanandhaa Rameshbabu. Caruana expressed the immense prestige of this difficult win.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/grand-chess-tour-finals-2025",
          "pubDate" : "Fri, 3 Oct 2025 22:08:00",
          "title" : "Grand Chess Tour Finals 2025 - Games and Results"
+      },
+      {
+         "description" : "The recent decision by the International Chess Federation&#38;nbsp;(FIDE) to change the long-debated 400-point rule for top grandmasters has sparked an outcry, with accusations of &#34;stealing&#34; rating points and warnings that the system is losing credibi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-faces-backlash-after-rule-change-accused-of-stealing-rating-points",
+         "pubDate" : "Fri, 03 Oct 2025 20:30:04",
+         "title" : "FIDE Faces Backlash After Rule Changes, Accused of 'Stealing' Rating Points"
       },
       {
          "description" : "The Grand Chess Tour Finals return in 2025, taking place at the World Trade Center in São Paulo from 28 September to 3 October. The event features Maxime Vachier-LaGrave, Praggnanandhaa Rameshbabu, Fabiano Caruana and Levon Aronian facing off in a knockout tournament. | Follow the action live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
@@ -522,14 +538,6 @@ news_feed (
          "title" : "Nakamura Wins Titled Tuesday Drama-Free, Joins CCT Leaders"
       },
       {
-         "description" : "Argentina&#38;rsquo;s IM Faustino Oro has scored his first grandmaster norm after a stunning 6/7 start to the Legends &#38;amp; Prodigies 2025 tournament in Madrid, Spain. Only World Champion Gukesh Dommaraju and GM Illya Nyzhnyk have ever scored a GM nor...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/faustino-oro-gm-norm-crosses-2500",
-         "pubDate" : "Tue, 23 Sep 2025 08:18:00",
-         "title" : "11-Year-Old Faustino Oro Scores 1st GM Norm, Crosses 2500"
-      },
-      {
          "description" : "FIDE's Chess in Education Commission continues to accelerate its provision of training for Lecturers and Teachers of Educational Chess, offering a series of high-level online and in-person opportunities in autumn...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-indian-gm-r-vaishali-back-in-joint-lead-brother-r-praggnanandhaa-loses-to-hans-niemann/articleshow/123887458.cms",
          "pubDate" : "Sun, 14 Sep 2025 20:14:08",
          "title" : "FIDE Grand Swiss: Vaishali back in joint lead; Praggnanandhaa loses"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123873399.cms\" />In the FIDE Grand Swiss, Nihal Sarin's Candidates hopes dimmed after losing to Alireza Firouzja, while Arjun Erigaisi boosted Indian hopes with a win. Alireza joined the lead pack, and Praggnanandhaa eyes Candidates qualification through tournament scores. Vaishali remains in contention in the women's section, trailing leader Kateryna Lagno by half a point.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-nihal-sarin-loses-to-firouzja-hopes-of-making-candidates-suffers-setback/articleshow/123873399.cms",
-         "pubDate" : "Sat, 13 Sep 2025 18:04:44",
-         "title" : "FIDE Grand Swiss: Nihal Sarin loses to Firouzja; Candidates hopes suffer"
       },
       {
          "description" : "When chess improvers ask me for book recommendations, they expect a list of chess classics. But here's the truth: the books that shaped me most, both as a professional player and later as a coach, weren't written about chess at all. They were about mindset, focus, and how to live and learn better. Lessons I []",
