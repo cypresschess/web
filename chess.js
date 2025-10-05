@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When is it useful to invest a lot of time in thinking about a position, and when is it not? This is a question that players ask themselves time and time again. Our reviewer is familiar with this topic from his own experience. Hannes Langrock is an editor at a fiction publishing house and an International Master. He lives in Leipzig and plays for ESV Nickelh&uuml;tte-Aue. He studied the course intensively and shares his thoughts on it. | Photos: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-david-navara-your-calculation-compass-know-when-to-calculate-2",
+         "pubDate" : "Sun, 05 Oct 2025 07:00:00",
+         "title" : "Review: David Navara - Your Calculation Compass: Know When to Calculate"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124316641.cms\" />Women's World Cup winner Divya Deshmukh lightened the mood with a jersey typo during the 'Checkmate: USA vs India' exhibition. However, Team India suffered a 5-0 defeat to Team USA, highlighted by Hikaru Nakamura's dramatic bullet win over Gukesh Dommaraju. A return leg in India offers Team India a chance for redemption.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/so-sad-indian-chess-queen-divya-deshmukh-reacts-to-hilarious-typo-on-her-jersey-watch/articleshow/124316641.cms",
+         "pubDate" : "Sun, 05 Oct 2025 06:06:44",
+         "title" : "'So sad!': Divya Deshmukh reacts to hilarious typo on her jersey - Watch"
+      },
+      {
          "description" : "Arlington welcomes the unprecedented event \"Checkmate: USA v. India\", an evening of chess presented as a live arena spectacle. Esports Stadium Arlington sees Hikaru Nakamura take on world champion Gukesh Dommaraju, Fabiano Caruana face Arjun Erigaisi, and further clashes featuring women stars, prodigies and leading chess streamers. | Follow the action live starting at 2.00 CEST (20.00 ET, 5.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -688,14 +704,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-august-2025/",
          "pubDate" : "Mon, 15 Sep 2025 05:41:34",
          "title" : "ECU E-Magazine August 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123887458.cms\" />Indian Grandmaster R Vaishali surged into a joint lead at the FIDE Grand Swiss in Samarkand, Uzbekistan, after defeating former world champion Mariya Muzychuk. Vaishali's victory puts her alongside Kateryna Lagno with 7.5 points. In the open section, Indian hopes for Candidates Tournament qualification dimmed as Arjun Erigaisi, Nihal Sarin drew their respective games and Praggnanandhaa lost.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-indian-gm-r-vaishali-back-in-joint-lead-brother-r-praggnanandhaa-loses-to-hans-niemann/articleshow/123887458.cms",
-         "pubDate" : "Sun, 14 Sep 2025 20:14:08",
-         "title" : "FIDE Grand Swiss: Vaishali back in joint lead; Praggnanandhaa loses"
       }
    ]
 }
