@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2025-10-04","15","<a href=http://www.uschess.org/msa/XtblMain.php?202510043072 target='_blank'>CHESSPANDA10042025SATURDAY</a>",
+"HOUSTON","2025-10-04","6","<a href=http://www.uschess.org/msa/XtblMain.php?202510043022 target='_blank'>ROUND ROBIN</a>",
 "CYPRESS","2025-10-03","50","<a href=http://www.uschess.org/msa/XtblMain.php?202510032672 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2025-10-03","19","<a href=http://www.uschess.org/msa/XtblMain.php?202510032652 target='_blank'>FBCC 2025 FIRST THANKSGIVING OPEN</a>",
 "SPRING","2025-10-03","27","<a href=http://www.uschess.org/msa/XtblMain.php?202510032622 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -197,6 +199,4 @@ jtable([
 "KATY","2025-03-22","104","<a href=http://www.uschess.org/msa/XtblMain.php?202503225252 target='_blank'>4TH ANNUAL ARISTOI CHESS TOURNAMENT</a>",
 "HOUSTON","2025-03-22","10","<a href=http://www.uschess.org/msa/XtblMain.php?202503224502 target='_blank'>CHESSPANDA03222025SATURDAY</a>",
 "CYPRESS","2025-03-22","42","<a href=http://www.uschess.org/msa/XtblMain.php?202503224152 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SPRING","2025-03-21","27","<a href=http://www.uschess.org/msa/XtblMain.php?202503214072 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2025-03-21","24","<a href=http://www.uschess.org/msa/XtblMain.php?202503214062 target='_blank'>FBCC NATIONAL FRENCH BREAD DAY OPEN</a>",
 ]);
