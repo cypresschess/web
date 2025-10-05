@@ -18,7 +18,7 @@ news_feed (
          "title" : "Nakamura's controversial celebration after defeating Gukesh enrages fans - watch"
       },
       {
-         "description" : " The Checkmate: USA vs India match took place in Arlington, Virginia on October 4th. This is the projected first leg of two and the format was that USA had white in every game as the home side, there will be an Indian leg where the colours will be reversed. There was one 10 minute game, if drawn a 5 minute game, if drawn a 1 minute game until a winner was found. USA won every one of the mini-matches between the teams.",
+         "description" : " The Checkmate: USA vs India match took place in Arlington, Virginia on October 4th. This is the projected first leg of two and the format was that the USA had white in every game as the home side, there will be an Indian leg where the colours will be reversed at some point in the future. There was one 10 minute game, if drawn a 5 minute game, if drawn a 1 minute game until a winner was found. USA won every one of the mini-matches between the teams which was a mix of strengths.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/checkmate-usa-vs-india-2025",
@@ -46,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-gukesh-king-checkmate-usa-vs-india-2025",
-         "pubDate" : "Sun, 05 Oct 2025 04:00:51",
+         "pubDate" : "Sun, 05 Oct 2025 04:00:00",
          "title" : "Nakamura Checkmates Gukesh, Electrifies Crowd At Checkmate India vs USA"
       },
       {
