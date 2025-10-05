@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Team Chess Championship 2025 commenced today in Batumi, Georgia! The event is played in 9 rounds, swiss system, Open and Women's sections separately, with the participation of 76 teams (40 teams in Open tournament and 36 teams participate in the Women's championship). The Opening ceremony of the event took place shortly before the start of the first round. The ECU President Mr. Zurab Azmaiparashvili and the President of the Georgian Chess Federation Mr. Akaki Iashvili addressed the players []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-team-chess-championship-2025-kicked-off-in-georgia/",
+         "pubDate" : "Sun, 05 Oct 2025 21:29:13",
+         "title" : "European Team Chess Championship 2025 kicked off in Georgia"
+      },
+      {
          "description" : "Leonard Barden's life has been unusual. His father was a dustman. He learnt chess at grammar school and sharpened his play in air raid shelters during the war. He never called himself a prodigy, yet by the early 1950s he was among the strongest players in the country. His career took a new turn when []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
