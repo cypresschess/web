@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Leonard Barden's life has been unusual. His father was a dustman. He learnt chess at grammar school and sharpened his play in air raid shelters during the war. He never called himself a prodigy, yet by the early 1950s he was among the strongest players in the country. His career took a new turn when []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-doyen-leonard-barden/",
+         "pubDate" : "Sun, 05 Oct 2025 15:46:21",
+         "title" : "The doyen: Leonard Barden"
+      },
+      {
          "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/checkmate-usa-vs-india-2025",
          "pubDate" : "Sun, 5 Oct 2025 11:10:00",
          "title" : "Checkmate: USA vs India 2025 - Games and Results"
+      },
+      {
+         "description" : "The International Chess Federation (FIDE) will discuss the possible reinstatement of Russian national teams at its General Assembly meeting in December, FIDE President Arkady Dvorkovich has confirmed. A proposal will be on the agenda for the Gen...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dvorkovich-confirms-proposal-to-reinstate-russian-teams",
+         "pubDate" : "Sun, 05 Oct 2025 07:06:00",
+         "title" : "Dvorkovich Confirms Proposal To Reinstate Russian Teams In FIDE Tournaments"
       },
       {
          "description" : "When is it useful to invest a lot of time in thinking about a position, and when is it not? This is a question that players ask themselves time and time again. Our reviewer is familiar with this topic from his own experience. Hannes Langrock is an editor at a fiction publishing house and an International Master. He lives in Leipzig and plays for ESV Nickelh&uuml;tte-Aue. He studied the course intensively and shares his thoughts on it. | Photos: ChessBase",
@@ -424,14 +440,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-chess-championship-2025-commenced-in-croatia/",
          "pubDate" : "Sun, 28 Sep 2025 11:45:24",
          "title" : "European Senior Chess Championship 2025 commenced in Croatia"
-      },
-      {
-         "description" : "GM Andrew Tang has reclaimed equal third position on Bullet Brawl&#39;s all-time leaderboard after prevailing over GM Oleksandr Bortnyk in a sprint to the finish in Saturday&#39;s arena. Tang combined pace and precision to amass a score of 162 points, e...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-sep-27-2025",
-         "pubDate" : "Sat, 27 Sep 2025 19:37:00",
-         "title" : "Tang Dazzles In Bid For 13th Bullet Brawl Title"
       },
       {
          "description" : " Emory Tate is obviously one of the most significant figures when it comes to content at The Chess Drum. In the nearly 25 years of the site's existence, Tate's initial exposure appeared on these pages, as few media outlets wrote stories about this mercurial and fascinating personality. Emory Tate, Jr. December 27, 1958 October The post <a href=\"https://thechessdrum.net/blog/2025/09/27/emory-tate-masterclass-10-year-tribute/\">Emory Tate Masterclass 10-year tribute!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
