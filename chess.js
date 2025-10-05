@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Fabiano Caruana won the 2025 Grand Chess Tour Finals in São Paulo after defeating Maxime Vachier-Lagrave in a tense match that was decided in the blitz phase. After losing the opening rapid game, Caruana responded with three straight wins in blitz to secure the title, holding a draw in a dramatic final game to clinch overall victory. Levon Aronian beat Praggnanandhaa Rameshbabu 20-8 in the third-place match, earning a place in next year's Grand Chess Tour. | Photo: Lennart Ootes",
+         "description" : "Arlington welcomes the unprecedented event \"Checkmate: USA v. India\", an evening of chess presented as a live arena spectacle. Esports Stadium Arlington sees Hikaru Nakamura take on world champion Gukesh Dommaraju, Fabiano Caruana face Arjun Erigaisi, and further clashes featuring women stars, prodigies and leading chess streamers. | Follow the action live starting at 2.00 CEST (20.00 ET, 5.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2025-6",
-         "pubDate" : "Sat, 04 Oct 2025 19:20:00",
-         "title" : "Caruana beats MVL in very close match, wins Grand Chess Tour Finals"
+         "link" : "https://en.chessbase.com/post/checkmate-usa-india-2025-live",
+         "pubDate" : "Sun, 05 Oct 2025 01:30:00",
+         "title" : "Checkmate: USA v. India - Live!"
+      },
+      {
+         "description" : "GM Daniel Naroditsky was the deserving winner of October&#39;s first Bullet Brawl and the $400 first prize after he toppled 30 players with Chess.com bullet ratings over 3000 en route to a dominant victory. Naroditsky scored 55/73 overall and accumu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-oct-4-2025",
+         "pubDate" : "Sat, 04 Oct 2025 16:28:00",
+         "title" : "Naroditsky Runs Away With 32nd Bullet Brawl Title"
       },
       {
          "description" : "Having a plan is great. But then real life happens, and it gets chaotic real quick. The list of possible things to get between you and your scheduled training is endless. The key is not to avoid these that's impossible. What determines if you stick to your chess improvement is how you react to []",
@@ -42,14 +50,6 @@ news_feed (
          "title" : "GCT Finals: Caruana clinches title; Pragg loses third-place match"
       },
       {
-         "description" : "Matthias Bluebaum is the man of the hour in international chess. With his second place at the Grand Swiss in Samarkand, the grandmaster from Lemgo has achieved something that no German has managed in around 35 years: to be a World Championship candidate. Following the European Team Championship, where Bluebaum will represent Germany, he will play at the World Cup, where Vincent Keymer still has a chance to jump on the World Championship bandwagon. Holger Hank spoke to Bluebaum for Deutsche Welle in what turned out to be an in-depth interview. | Photo: Michal Walusza / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/matthias-bluebaum-interview-hank-2025",
-         "pubDate" : "Sat, 04 Oct 2025 01:35:00",
-         "title" : "Matthias Bluebaum: \"I'm not the type of person who takes a lot of risks\""
-      },
-      {
          "description" : " The Grand Chess Tour Finals took place in Sao Paulo Sunday 28th to Friday 3rd October. Players: Maxime Vachier-Lagrave, Praggnanandhaa, Levon Aronian and Fabiano Caruana. This is a knockout where they play a mix of Classical, rapid and blitz. Classical Games: 6 points for a win, 3 points for a draw and 0 points for a loss, Rapid Games: 4 points for a win, 2 points for a draw and 0 points for a loss, Blitz Games: 2 points for a win, 1 point for a draw and 0 points for a loss. Fabiano Caruana beat MVL in the final but only after coming from behind winning three blitz games in a row and then surviving a lost position in the fourth. Levon Aronian qualified for next year's tour beating Praggnana",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -82,14 +82,6 @@ news_feed (
          "title" : "Caruana Wins 2nd Grand Chess Tour Title"
       },
       {
-         "description" : "Over the past year, the Kasparov Chess Academy has provided training to over 500 students from across the globe, making it a unique educational platform in the world of chess. The Academy proudly celebrates its second year of activity, marking remarkable achievements and setting ambitious goals for the future - the third season of the training program for 2026.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-academy-season-2026",
-         "pubDate" : "Fri, 03 Oct 2025 14:00:00",
-         "title" : "KCF Academy: Season 2026"
-      },
-      {
          "description" : "GM Pranesh M won Freestyle Friday (his first) with a round to spare on October 3, gliding to a 9.5/10 start in the field of 116 players. GM Oleksandr Bortnyk finished in second place with nine points after becoming the first player to finally beat...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -104,14 +96,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-team-chess-championship-2025-starts-in-batumi-georgia/",
          "pubDate" : "Fri, 03 Oct 2025 09:05:17",
          "title" : "European Team Chess Championship 2025 starts in Batumi, Georgia"
-      },
-      {
-         "description" : "The second classical games of the championship match and the third-place playoff both ended drawn in São Paulo, keeping both duels level at six points each. Maxime Vachier-Lagrave pressed Fabiano Caruana in a Sicilian that led to a rook endgame, but Caruana defended accurately. Praggnanandhaa Rameshbabu, meanwhile, tested Levon Aronian in a queenless position, though Black's well-placed minor pieces ensured the balance. The event now moves to rapid and blitz. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2025-5",
-         "pubDate" : "Fri, 03 Oct 2025 08:20:00",
-         "title" : "GCT Finals: Scores remain tied going into rapid and blitz"
       },
       {
          "description" : "WFM Anna Cramling is about to go around the world in four boards in the next episode of Kids vs. Stars! The popular streamer from Sweden will take on four kids from different continents in a clock simul on October 6, starting at 12 p.m. ET / 18:00...",
@@ -138,14 +122,6 @@ news_feed (
          "title" : "'Chess Messi' Faustino Oro achieves grandmaster norm and 2500 rating at just 11"
       },
       {
-         "description" : "On 4 October, Arlington becomes the setting for \"Checkmate: USA v. India\", an evening of chess presented as a live arena spectacle. Esports Stadium Arlington will see Hikaru Nakamura take on world champion Gukesh Dommaraju, Fabiano Caruana face Arjun Erigaisi, and further clashes featuring women stars, prodigies and leading chess streamers. With fast-paced games, unusual rules and a sports-style atmosphere, the event seeks to redefine how elite chess is staged and experienced.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/checkmate-usa-india-2025-announcement",
-         "pubDate" : "Fri, 03 Oct 2025 02:00:00",
-         "title" : "Coming up: USA v. India amid roaring arena atmosphere"
-      },
-      {
          "description" : "What are your National Chess Day plans? This year's festivities, set for Saturday, October 11, are just one week away. This is a great time to find a tournament in your area or even consider running one yourself! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> In order to encourage affiliates to host events, US Chess is offering free email blasts and waived rating fees for tournaments hosted on this day.On Chess Life Online, we plan on sharing some of the events planned for National Chess Day that have caught our eye. Feel free to email Click here to show email address with information about your event if you would be interested in possibly being featured in a National ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -168,14 +144,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/10/02/canty-wins-chessboxing-title/",
          "pubDate" : "Thu, 02 Oct 2025 20:28:55",
          "title" : "Canty wins ChessBoxing world title!"
-      },
-      {
-         "description" : "Grandmasters Wang Hao and Hou Yifan triumphed in the Open and Women's sections of the chess competition at the 15th National Games of China, held in Shenzhen from 23 to 28 September. Featuring leading players such as Ding Liren, Wei Yi, Yu Yangyi, Ju Wenjun, Lei Tingjie and Zhu Jiner, the event saw Jiangsu win the team title ahead of Shandong and Hebei. The competition combined round-robin preliminaries with knockout finals, producing tense matches and surprise results. | Photos: Chinese Chess Association",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chinese-national-games-2025",
-         "pubDate" : "Thu, 02 Oct 2025 19:20:00",
-         "title" : "Wang Hao and Hou Yifan triumph at 15th Chinese National Games"
       },
       {
          "description" : "Both matches in the 2025 Grand Chess Tour Finals enter the rapid and blitz portion with even scores. In the title match, GM Maxime Vachier-Lagrave squeezed for a bit but got no advantage against GM Fabiano Caruana in a rook endgame. GM Praggnanand...",
@@ -504,14 +472,6 @@ news_feed (
          "link" : "https://aicf.in/report-on-gm-coaching-camp-raipur-from-11-17-sept-2025/",
          "pubDate" : "Fri, 26 Sep 2025 06:11:12",
          "title" : "Report on GM Coaching Camp, Raipur from 11-17 Sept.2025Report on GM Coaching Camp, Raipur ,Chhattisgarh (11-17 September 2025)"
-      },
-      {
-         "description" : "Argentinian chess prodigy IM Faustino Oro continues to rewrite the history books. The 11-year-old won the Legends &#38;amp; Prodigies 2025 tournament in Madrid on Thursday, clinching first place with a round to spare. Along the way, he secured his fir...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/faustino-oro-wins-madrid-shatters-praggnanandhaa-records",
-         "pubDate" : "Fri, 26 Sep 2025 02:55:00",
-         "title" : "11-Year-Old Faustino Oro Dominates In Madrid, Shatters Two Praggnanandhaa Records"
       },
       {
          "description" : "US Chess is pleased to announce the recipients of the 2025-2026 Herbert B. Jacklyn Program. The winners, their hometowns, and colleges/universities they are attending are:Kevin Flores, Palmview, TX, attending University of Texas Rio Grande Valley, TXAustin John, Cedar Park, TX, attending University of Texas at Austin, TXAparna Yellamraju, Austin, TX, attending New York University, NYYajat Gupta, Chester Springs, PA, attending Georgetown University, Washington D.C. In addition to the 18-21 age requirements set forth in Dr. Jacklyn's bequest, applicants for the Jacklyn Program must be US Chess members with a rating between 1500-2000 and have a sustained history of playing in US Chess-rated eve",
