@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championships-live",
+         "pubDate" : "Sun, 05 Oct 2025 13:00:51",
+         "title" : "European Team Championships - live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124319723.cms\" />The USA dominated India 5-0 in the 'Checkmate' event, with Hikaru Nakamura defeating world champion D Gukesh. However, Nakamura's post-match gesture of throwing Gukesh's king piece towards the crowd sparked widespread controversy and divided social media opinion. This incident now sets the stage for an intense return leg in India.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/hikaru-nakamuras-controversial-gesture-towards-d-gukesh-enrages-fans-watch/articleshow/124319723.cms",
+         "pubDate" : "Sun, 05 Oct 2025 11:14:33",
+         "title" : "Nakamura's controversial celebration after defeating Gukesh enrages fans - watch"
+      },
+      {
+         "description" : " The Checkmate: USA vs India match took place in Arlington, Virginia on October 4th. This is the projected first leg of two and the format was that USA had white in every game as the home side, there will be an Indian leg where the colours will be reversed. There was one 10 minute game, if drawn a 5 minute game, if drawn a 1 minute game until a winner was found. USA won every one of the mini-matches between the teams.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/checkmate-usa-vs-india-2025",
+         "pubDate" : "Sun, 5 Oct 2025 11:10:00",
+         "title" : "Checkmate: USA vs India 2025 - Games and Results"
+      },
+      {
          "description" : "When is it useful to invest a lot of time in thinking about a position, and when is it not? This is a question that players ask themselves time and time again. Our reviewer is familiar with this topic from his own experience. Hannes Langrock is an editor at a fiction publishing house and an International Master. He lives in Leipzig and plays for ESV Nickelh&uuml;tte-Aue. He studied the course intensively and shares his thoughts on it. | Photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/so-sad-indian-chess-queen-divya-deshmukh-reacts-to-hilarious-typo-on-her-jersey-watch/articleshow/124316641.cms",
          "pubDate" : "Sun, 05 Oct 2025 06:06:44",
          "title" : "'So sad!': Divya Deshmukh reacts to hilarious typo on her jersey - Watch"
+      },
+      {
+         "description" : "Team USA beat Team India 5-0 on Saturday evening at the highly innovative Checkmate: USA vs India match in Arlington, Texas. In the last game of the day, GM Hikaru Nakamura defeated GM Gukesh Dommaraju, literally grabbed his opponent&#39;s king, and t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-gukesh-king-checkmate-usa-vs-india-2025",
+         "pubDate" : "Sun, 05 Oct 2025 04:00:51",
+         "title" : "Nakamura Checkmates Gukesh, Electrifies Crowd At Checkmate India vs USA"
       },
       {
          "description" : "Arlington welcomes the unprecedented event \"Checkmate: USA v. India\", an evening of chess presented as a live arena spectacle. Esports Stadium Arlington sees Hikaru Nakamura take on world champion Gukesh Dommaraju, Fabiano Caruana face Arjun Erigaisi, and further clashes featuring women stars, prodigies and leading chess streamers. | Follow the action live starting at 2.00 CEST (20.00 ET, 5.30 IST)",
@@ -442,14 +474,6 @@ news_feed (
          "title" : "GCL 2025 draft: Who picked Gukesh, Pragg? All you need to know"
       },
       {
-         "description" : "GM Alexander Grischuk won his second Freestyle Friday of the year on September 26, recovering from a 1.5/3 start by winning his last eight games to clear the 135-player field by a full point. GMs Hikaru Nakamura and Jan-Krzysztof Duda were Grischu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/grischuk-wins-freestyle-friday-september-26-2025",
-         "pubDate" : "Fri, 26 Sep 2025 11:13:00",
-         "title" : "Grischuk Rides Big Win Streak To 2nd Freestyle Friday Victory"
-      },
-      {
          "description" : " The Legends and Prodigies tournament took place Wed 17th Sep 2025 to Thu 25th Sep 2025. The event had four young players Diego Macias Pino (born 2007), Lu Miaoyi (2010 who had to withdraw at the half way stage), Ilan Schnaider (2011) and the player of the moment 11 year old Faustino Oro (2013). These were pitted against older players Julio Granda Zuniga, Omar Almeida Quintana, Jose Fernando Cuenca Jimenez, David Larino Nieto, Pedro Ramon Martinez Reyes and Alan Pichot. The event was dominated by Oro who conceded just three draws and won all sorts of games. This result reminds me of Carlsen's win and first GM norm in the Wijk aan Zee C tournament at the age of 13 in 2004 when it was no longe",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -680,14 +704,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-dutch-no-1-anish-giri-wins-fide-grand-swiss-title-qualifies-for-candidates-2026/articleshow/123903864.cms",
          "pubDate" : "Mon, 15 Sep 2025 14:54:00",
          "title" : "Dutch no. 1 Anish Giri wins Grand Swiss, qualifies for Candidates 2026"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123902275.cms\" />R Vaishali defended her FIDE Women's Grand Swiss title in 2025, securing a spot in the 2026 Candidates Tournament. She finished with 8 points after drawing against Tan Zhongyi. Vaishali joins Koneru Humpy and Divya Deshmukh as the third Indian woman to qualify for the Candidates, marking a significant achievement for Indian women's chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/historic-r-vaishali-defends-fide-womens-grand-swiss-title-becomes-third-indian-to-enter-candidates-2026/articleshow/123902275.cms",
-         "pubDate" : "Mon, 15 Sep 2025 12:59:54",
-         "title" : "Vaishali wins Women's Grand Swiss; now 3rd Indian to enter Candidates"
       },
       {
          "description" : "Keymer's last trip to Chennai was to help Gukesh become world champion - now he has his biggest classical win.",
