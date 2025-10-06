@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-10-05","14","<a href=http://www.uschess.org/msa/XtblMain.php?202510054392 target='_blank'>BELLAIRE SUNDAY SWISS 10/05/25</a>",
 "HOUSTON","2025-10-04","15","<a href=http://www.uschess.org/msa/XtblMain.php?202510043072 target='_blank'>CHESSPANDA10042025SATURDAY</a>",
 "HOUSTON","2025-10-04","6","<a href=http://www.uschess.org/msa/XtblMain.php?202510043022 target='_blank'>ROUND ROBIN</a>",
 "CYPRESS","2025-10-03","50","<a href=http://www.uschess.org/msa/XtblMain.php?202510032672 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2025-03-22  - 03-23","25","<a href=http://www.uschess.org/msa/XtblMain.php?202503236302 target='_blank'>TEXAS STATE SENIOR CHAMPIONSHIP 2025</a>",
 "KATY","2025-03-22","104","<a href=http://www.uschess.org/msa/XtblMain.php?202503225252 target='_blank'>4TH ANNUAL ARISTOI CHESS TOURNAMENT</a>",
 "HOUSTON","2025-03-22","10","<a href=http://www.uschess.org/msa/XtblMain.php?202503224502 target='_blank'>CHESSPANDA03222025SATURDAY</a>",
-"CYPRESS","2025-03-22","42","<a href=http://www.uschess.org/msa/XtblMain.php?202503224152 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
