@@ -46,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-pairings",
-         "pubDate" : "Mon, 06 Oct 2025 03:52:17",
+         "pubDate" : "Mon, 06 Oct 2025 03:52:00",
          "title" : "2025 FIDE World Cup Pairings, Venue Revealed"
       },
       {
@@ -56,6 +56,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/vladimir-kramnik-blasts-hikaru-nakamura-for-tossing-19-year-old-world-champion-d-gukeshs-king-away-calls-it-tasteless-and-vulgar/articleshow/124328762.cms",
          "pubDate" : "Mon, 06 Oct 2025 02:22:25",
          "title" : "Chess: Kramnik blasts Nakamura for tossing Gukesh's king away; calls the act 'vulgar'"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> With Ranae Bartlett's departure from US Chess to become the next mayor of Madison, Alabama, the US Chess Executive Board has named Francisco (Franc) Guadalupe as the Interim Executive Director effective October 13.Bartlett will continue serving her duties through her last day of October 21. Guadalupe's appointment as Interim Executive Director is for a 90-day term. The Executive Board is currently conducting a national search for the Executive Director position, with a desired start date by January 15, 2026. Guadalupe returns to US Chess after retiring at the end of 2017 after many years of service to US Chess, including t",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/francisco-guadalupe-named-interim-executive-director",
+         "pubDate" : "Mon, 06 Oct 2025 00:00:00",
+         "title" : "Francisco Guadalupe Named Interim Executive Director"
       },
       {
          "description" : "The European Team Chess Championship 2025 commenced today in Batumi, Georgia! The event is played in 9 rounds, swiss system, Open and Women's sections separately, with the participation of 76 teams (40 teams in Open tournament and 36 teams participate in the Women's championship). The Opening ceremony of the event took place shortly before the start of the first round. The ECU President Mr. Zurab Azmaiparashvili and the President of the Georgian Chess Federation Mr. Akaki Iashvili addressed the players []",
@@ -578,14 +586,6 @@ news_feed (
          "title" : "2025 Herbert B. Jacklyn Program Recipients Announced"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The ceremonial first move (All photos courtesy FIDE)<br> <br> <br> <br> 842 players age 12 and under are competing across six sections in the 2025 FIDE World Cadet Championships in Almaty, Kazakhstan. 24 Americans made the trip for the 11-round Swiss system tournament, which resumes play tomorrow for Round 7 after today's rest day. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> A view of the playing hall<br> <br> <br> <br> There is at least one American player in contention in almost every section, but, with five rounds still to go, there's too much chess left to m",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/world-cadet-championships-halftime-report-laurie-qiu-leads-other-americans-close-behind",
-         "pubDate" : "Thu, 25 Sep 2025 00:00:00",
-         "title" : "World Cadet Championships Halftime Report: Laurie Qiu Leads, Other Americans Close Behind"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124089971.cms\" />World Champion D Gukesh, alongside chess legend Viswanathan Anand and R Praggnanandhaa, will headline the Global Chess League (GCL) Season 3. The player draft is scheduled for September 26 in Mumbai, with the league taking place in Chennai from December 13-24. While Magnus Carlsen will be absent, top players like Nakamura and Caruana will participate.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -744,14 +744,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/giri-and-vaishali-win-the-grand-swisses-bluebaum-and-lagno-scoop-up-the-additional-candidates-places",
          "pubDate" : "Mon, 15 Sep 2025 19:21:00",
          "title" : "Giri and Vaishali win the Grand Swisses, Bluebaum and Lagno scoop up the additional Candidates places - 11"
-      },
-      {
-         "description" : "Keymer's last trip to Chennai was to help Gukesh become world champion - now he has his biggest classical win.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/46270737/r-vaishali-puts-bad-year-defend-grand-swiss-crown-seal-fide-candidates-spot?device=featurephone",
-         "pubDate" : "Mon, 15 Sep 2025 12:22:47",
-         "title" : "R Vaishali puts bad year behind her to defend Grand Swiss crown, seal Candidates spot"
       }
    ]
 }
