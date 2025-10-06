@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 25th European Team championships take place in Batumi, Georgia 5th to 14th October 2025. Leading players such as Anish Giri, Vincent Keymer, Shakhriyar Mamedyarov, Richard Rapport, the field has 56 players over 2600. In the women's event the leading players are Nana Dzagnidze, Nino Batsiashvili, Alexandra Kosteniuk etc. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/25th-european-teams-2025",
+         "pubDate" : "Mon, 6 Oct 2025 20:24:00",
+         "title" : "25th European Teams 2025 - Games and Results"
+      },
+      {
          "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-team-championships-live",
          "pubDate" : "Mon, 06 Oct 2025 13:00:00",
          "title" : "European Team Championships - Live!"
+      },
+      {
+         "description" : "In the spring season of the Collegiate Chess League, the University of Missouri (Mizzou) lost to St. Louis University (SLU) in the Finals, to finish in second place. This year they are looking for more and are off to a good start, winning their fi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-ccl-fall-week-2-mizzou-ttu",
+         "pubDate" : "Mon, 06 Oct 2025 12:19:50",
+         "title" : "Mizzou Handles TTU, Takes Early Lead In CCL"
       },
       {
          "description" : "The European Team Championships began in Batumi with a number of early surprises. Denmark upset top seeds Germany in the open section thanks to Mads Andersen's win over Dmitrij Kollars, while Georgia edged Hungary and Switzerland held Spain to a draw. In the women's event, Georgia and Poland started strongly, though Ukraine were held by Austria and Slovakia defeated Spain to produce the day's biggest shock. | Photos: European Chess Union",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/vladimir-kramnik-blasts-hikaru-nakamura-for-tossing-19-year-old-world-champion-d-gukeshs-king-away-calls-it-tasteless-and-vulgar/articleshow/124328762.cms",
          "pubDate" : "Mon, 06 Oct 2025 02:22:25",
          "title" : "Chess: Kramnik blasts Nakamura for tossing Gukesh's king away; calls the act 'vulgar'"
+      },
+      {
+         "description" : "Six days before Checkmate: USA vs India, one of its commentators, GM Harshit Raja, predicted that India would win 3-2 against the USA team, despite the latter getting White on each board. USA swept 5-0. The winning team's members received TAG Heuer Carrera watches. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> A victorious Team USA at the closing ceremony (Photo by Dr. Alexey Root)<br> <br> <br> <br> Raja's PredictionHere is how Raja thought the results would play out. For the winner of the round between the two players under age 16, he chose India's IM Ethan Vaz over USA's IM Tanitoluwa Adewumi. On the women's board, he chose India's GM Divya Deshmu",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/checkmate-usa-vs-india-team-usa-victory-and-throwing-king",
+         "pubDate" : "Mon, 06 Oct 2025 00:00:00",
+         "title" : "Checkmate: USA vs India: Team USA Victory, and Throwing a King"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> With Ranae Bartlett's departure from US Chess to become the next mayor of Madison, Alabama, the US Chess Executive Board has named Francisco (Franc) Guadalupe as the Interim Executive Director effective October 13.Bartlett will continue serving her duties through her last day of October 21. Guadalupe's appointment as Interim Executive Director is for a 90-day term. The Executive Board is currently conducting a national search for the Executive Director position, with a desired start date by January 15, 2026. Guadalupe returns to US Chess after retiring at the end of 2017 after many years of service to US Chess, including t",
@@ -482,14 +506,6 @@ news_feed (
          "title" : "Anna Cramling Makes Chessable Debut With 1.d4 Course For Positional Players"
       },
       {
-         "description" : "The Speed Chess Championship (SCC) is back, and drama is guaranteed as the event will reignite the fiercest rivalries in chess today. Starting October 13, the championship will once again pit GMs Magnus Carlsen, Hikaru Nakamura, and Hans Niemann a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-speed-chess-championship-2025",
-         "pubDate" : "Mon, 29 Sep 2025 08:00:00",
-         "title" : "Rivals Reunite As Carlsen, Nakamura, & Niemann Headline 2025 Speed Chess Championship"
-      },
-      {
          "description" : "The 2025 European Senior Chess Championship commenced yesterday in Rabac, Croatia and takes place from 27th of September to 5th of October at the \"Sunny Rabac\" restaurant by Valamar. The Championship is played in two age categories: 50+ and 65+, open and women's sections separately. More than 160 players coming from 30 European federations compete in the tournament, fighting for the title of European Senior Chess Champion. The top seeds of the Open 50+ section are: GM Jean-Marc Degraeve (FRA, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -576,14 +592,6 @@ news_feed (
          "link" : "https://aicf.in/report-on-gm-coaching-camp-raipur-from-11-17-sept-2025/",
          "pubDate" : "Fri, 26 Sep 2025 06:11:12",
          "title" : "Report on GM Coaching Camp, Raipur from 11-17 Sept.2025Report on GM Coaching Camp, Raipur ,Chhattisgarh (11-17 September 2025)"
-      },
-      {
-         "description" : "US Chess is pleased to announce the recipients of the 2025-2026 Herbert B. Jacklyn Program. The winners, their hometowns, and colleges/universities they are attending are:Kevin Flores, Palmview, TX, attending University of Texas Rio Grande Valley, TXAustin John, Cedar Park, TX, attending University of Texas at Austin, TXAparna Yellamraju, Austin, TX, attending New York University, NYYajat Gupta, Chester Springs, PA, attending Georgetown University, Washington D.C. In addition to the 18-21 age requirements set forth in Dr. Jacklyn's bequest, applicants for the Jacklyn Program must be US Chess members with a rating between 1500-2000 and have a sustained history of playing in US Chess-rated eve",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-herbert-b-jacklyn-program-recipients-announced",
-         "pubDate" : "Fri, 26 Sep 2025 00:00:00",
-         "title" : "2025 Herbert B. Jacklyn Program Recipients Announced"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124089971.cms\" />World Champion D Gukesh, alongside chess legend Viswanathan Anand and R Praggnanandhaa, will headline the Global Chess League (GCL) Season 3. The player draft is scheduled for September 26 in Mumbai, with the league taking place in Chennai from December 13-24. While Magnus Carlsen will be absent, top players like Nakamura and Caruana will participate.",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-grand-swiss-tournament-2025",
          "pubDate" : "Mon, 15 Sep 2025 19:59:00",
          "title" : "FIDE Grand Swiss Tournament 2025 - Games and Results"
-      },
-      {
-         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/fide-grand-swiss-tournament-2025\">FIDE Grand Swiss</a> finished today with a very tense final round in the Open tournament. The women's tournament was a little more cut and dried, Kateryna Lagno and Rameshbabu Vaishali knew that they only required draws to qualify for the Women's Candidates and Lagno got her draw fairly quickly with the white pieces but Vaishali only had to work a little harder with black to get her spot and indeed win the event. The Open situation was a lot more complicated. There was no provision for tie-break matches, just a technical tie-break, the first and only one that counted this time was Average Rating of Op",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/giri-and-vaishali-win-the-grand-swisses-bluebaum-and-lagno-scoop-up-the-additional-candidates-places",
-         "pubDate" : "Mon, 15 Sep 2025 19:21:00",
-         "title" : "Giri and Vaishali win the Grand Swisses, Bluebaum and Lagno scoop up the additional Candidates places - 11"
       }
    ]
 }
