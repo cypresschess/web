@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 78th Russian Chess Championship and 75th Russian Women's Championship take place in Moscow 1st to 12th October 2025. The event is pretty weak compared to even the relatively recent past due to the war. Daniil Dubov, Vladislav Artemiev, Andrey Esipenko and Vladimir Malakhov are the top seeds. Polina Shuvalova, Leya Garifullina, Olga Girya, Valentina Gunina and Alisa Galliamova are the leading women's players. The tables will look a little strange as I am transliterating the Chess Results entries which are originally in Russian.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/78th-russian-chess-championships-2025",
+         "pubDate" : "Mon, 6 Oct 2025 23:05:00",
+         "title" : "78th Russian Chess Championships 2025 - Games and Results"
+      },
+      {
+         "description" : "The round-one pairings for the 2025 FIDE World Cup in Goa, India have been unveiled, setting the stage for an intense start to chess' most prestigious knockout event. From 30 October to 27 November, 206 players will compete for a $2 million prize fund and three coveted Candidates spots. With wildcards including Abhimanyu Mishra, Andy Woodward, Faustino Oro, Divya Deshmukh and world rapid champion Volodar Murzin, the opening battles promise plenty of intrigue.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-pairings",
+         "pubDate" : "Mon, 06 Oct 2025 21:50:00",
+         "title" : "FIDE World Cup 2025: Round one pairings revealed"
+      },
+      {
          "description" : " The 25th European Team championships take place in Batumi, Georgia 5th to 14th October 2025. Leading players such as Anish Giri, Vincent Keymer, Shakhriyar Mamedyarov, Richard Rapport, the field has 56 players over 2600. In the women's event the leading players are Nana Dzagnidze, Nino Batsiashvili, Alexandra Kosteniuk etc. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/25th-european-teams-2025",
          "pubDate" : "Mon, 6 Oct 2025 20:24:00",
          "title" : "25th European Teams 2025 - Games and Results"
+      },
+      {
+         "description" : "The second round of the European Team Chess Championship 2025 was played today in Batumi, Georgia, and only five teams remained with the perfect score in the Open section, while there are eight teams scoring the maximum of 4/4 match points in the Women's section. The second round brought interesting games, matches, and a few surprising results. Most of the top board matches finished with the draw, leaving only Romania, Greece, Slovenia, Serbia and France with the score of 4/4 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-team-chess-championship-2025-round-2-recap/",
+         "pubDate" : "Mon, 06 Oct 2025 19:55:38",
+         "title" : "European Team Chess Championship 2025 - Round 2 recap"
+      },
+      {
+         "description" : "WFM Anna Cramling blundered a piece against 12-year-old Zac Chua from Canada and didn&#39;t realize until three moves later, but she shrugged off that slip-up to win the 6th episode of Kids vs. Stars 2.5-1.5. &#34;I would rather go skydiving!&#34; she said of...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/anna-cramling-kids-vs-stars-episode-6",
+         "pubDate" : "Mon, 06 Oct 2025 16:02:05",
+         "title" : "Anna Cramling Wins \"Terrifying\" Kids Vs. Stars Simul"
       },
       {
          "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
@@ -498,14 +530,6 @@ news_feed (
          "title" : "FIDE Scraps 400-Point Rule For 2650+ Players, 'Triggered By Nakamura'"
       },
       {
-         "description" : "Enough with do-or-die from move one&#38;mdash;steer the game toward strategic waters that you understand with the new Anna Cramling&#39;s 1.d4 - Part 1 course! Great strategists like GM Magnus Carlsen have taken over the chess world with their calm and ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/anna-cramling-d4-repertoire-course",
-         "pubDate" : "Mon, 29 Sep 2025 09:00:00",
-         "title" : "Anna Cramling Makes Chessable Debut With 1.d4 Course For Positional Players"
-      },
-      {
          "description" : "The 2025 European Senior Chess Championship commenced yesterday in Rabac, Croatia and takes place from 27th of September to 5th of October at the \"Sunny Rabac\" restaurant by Valamar. The Championship is played in two age categories: 50+ and 65+, open and women's sections separately. More than 160 players coming from 30 European federations compete in the tournament, fighting for the title of European Senior Chess Champion. The top seeds of the Open 50+ section are: GM Jean-Marc Degraeve (FRA, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -736,14 +760,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-i-decided-not-to-play-grand-swiss-how-r-vaishalis-chennai-nightmare-earned-her-a-2026-candidates-ticket/articleshow/123936941.cms",
          "pubDate" : "Wed, 17 Sep 2025 06:26:58",
          "title" : "'I decided not to play Grand Swiss': How R Vaishali's Chennai nightmare earned her a 2026 Candidates ticket"
-      },
-      {
-         "description" : " The FIDE Grand Swiss Tournament took place in Samarkand, Uzbekistan Thu 4th Sep to Mon 15th Sep 2025. Players Open: Praggnanandhaa, Erigaisi, Gukesh, Firouzja, Keymer, Abdusattorov, Giri, Aronian, Nepomniachtchi, Mamedyarov, MVL, Niemann etc. Players Women: Muzychuk, Tan, Assaubayeva, Lagno etc play in the women's even which has suffered a number of withdrawals. Two players from each event qualified for the relevant Candidates tournaments. Anish Giri took clear first place in the open section with 8/11 and Matthias Bluebaum finished second on tie-break from Alireza Firouzja and Vincent Keymer. Rameshbabu Vaishali won the women's event on tie-break from Kateryna Lagno after they finished on ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-grand-swiss-tournament-2025",
-         "pubDate" : "Mon, 15 Sep 2025 19:59:00",
-         "title" : "FIDE Grand Swiss Tournament 2025 - Games and Results"
       }
    ]
 }
