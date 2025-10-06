@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The rule limits the rating gap used when evaluating game results. From October 1st FIDE dropped the 400 point rule for players rated above 2650. This makes it harder for top players to gain points by playing against much weaker opponents (called \"farming\"), and easier to lose points when not beating them. Leading chess statistician and FIDe consultant Jeff Sonas tells us why, and what the rule change implies.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/why-fide-dropped-the-400-point-rule",
+         "pubDate" : "Mon, 06 Oct 2025 08:13:51",
+         "title" : "Why FIDE dropped the 400 point rule"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124329792.cms\" />American Grandmaster Hikaru Nakamura caused a stir at the Checkmate: USA vs India event by throwing away world champion D Gukesh's king. This controversial act, during USA's 5-0 victory, drew sharp criticism from former world champion Vladimir Kramnik, who called it a \"degradation of modern chess.\" The incident has reignited discussions on sportsmanship and entertainment in professional chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/drama-in-chess-world-hikaru-nakamura-reacts-to-social-media-post-trolling-fide-ceo-emil-sutovsky/articleshow/124329792.cms",
+         "pubDate" : "Mon, 06 Oct 2025 04:03:11",
+         "title" : "Drama in chess world! Nakamura reacts to post trolling FIDE CEO Sutovsky"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124328762.cms\" />Former world champion Vladimir Kramnik has launched a scathing attack on world no. 2 Hikaru Nakamura following his controversial gesture towards D Gukesh during the USA vs India chess exhibition. Kramnik labeled Nakamura's actions as \"vulgarity\" and \"degradation of modern chess,\" asserting they damaged the game. This comes after India suffered a 0-5 whitewash against USA.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -698,14 +714,6 @@ news_feed (
          "title" : "'I decided not to play Grand Swiss': How R Vaishali's Chennai nightmare earned her a 2026 Candidates ticket"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123915523.cms\" />Grandmaster R Vaishali lifts crown for second consecutive time, joins Divya Deshmukh and Koneru Humpy in Candidates meet",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-r-vaishali-wins-for-second-straight-year-books-place-in-candidates-tournament/articleshow/123915523.cms",
-         "pubDate" : "Tue, 16 Sep 2025 06:26:01",
-         "title" : "FIDE Grand Swiss: R Vaishali wins for second straight year, books place in Candidates tournament"
-      },
-      {
          "description" : " The FIDE Grand Swiss Tournament took place in Samarkand, Uzbekistan Thu 4th Sep to Mon 15th Sep 2025. Players Open: Praggnanandhaa, Erigaisi, Gukesh, Firouzja, Keymer, Abdusattorov, Giri, Aronian, Nepomniachtchi, Mamedyarov, MVL, Niemann etc. Players Women: Muzychuk, Tan, Assaubayeva, Lagno etc play in the women's even which has suffered a number of withdrawals. Two players from each event qualified for the relevant Candidates tournaments. Anish Giri took clear first place in the open section with 8/11 and Matthias Bluebaum finished second on tie-break from Alireza Firouzja and Vincent Keymer. Rameshbabu Vaishali won the women's event on tie-break from Kateryna Lagno after they finished on ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/46270737/r-vaishali-puts-bad-year-defend-grand-swiss-crown-seal-fide-candidates-spot?device=featurephone",
          "pubDate" : "Mon, 15 Sep 2025 12:22:47",
          "title" : "R Vaishali puts bad year behind her to defend Grand Swiss crown, seal Candidates spot"
-      },
-      {
-         "description" : "The ECU E-Magazine August 2025 is out! In this edition of the ECU E-Magazine you may read about: The August 2025 edition of the ECU Magazine can be read online together with interactive links through the following link, or it can be downloaded in PDF format.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-august-2025/",
-         "pubDate" : "Mon, 15 Sep 2025 05:41:34",
-         "title" : "ECU E-Magazine August 2025"
       }
    ]
 }
