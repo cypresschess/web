@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124328762.cms\" />Former world champion Vladimir Kramnik has launched a scathing attack on world no. 2 Hikaru Nakamura following his controversial gesture towards D Gukesh during the USA vs India chess exhibition. Kramnik labeled Nakamura's actions as \"vulgarity\" and \"degradation of modern chess,\" asserting they damaged the game. This comes after India suffered a 0-5 whitewash against USA.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/vladimir-kramnik-blasts-hikaru-nakamura-for-tossing-19-year-old-world-champion-d-gukeshs-king-away-calls-it-tasteless-and-vulgar/articleshow/124328762.cms",
+         "pubDate" : "Mon, 06 Oct 2025 02:22:25",
+         "title" : "Chess: Kramnik blasts Nakamura for tossing Gukesh's king away; calls the act 'vulgar'"
+      },
+      {
          "description" : "The European Team Chess Championship 2025 commenced today in Batumi, Georgia! The event is played in 9 rounds, swiss system, Open and Women's sections separately, with the participation of 76 teams (40 teams in Open tournament and 36 teams participate in the Women's championship). The Opening ceremony of the event took place shortly before the start of the first round. The ECU President Mr. Zurab Azmaiparashvili and the President of the Georgian Chess Federation Mr. Akaki Iashvili addressed the players []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/giri-and-vaishali-win-the-grand-swisses-bluebaum-and-lagno-scoop-up-the-additional-candidates-places",
          "pubDate" : "Mon, 15 Sep 2025 19:21:00",
          "title" : "Giri and Vaishali win the Grand Swisses, Bluebaum and Lagno scoop up the additional Candidates places - 11"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123903864.cms\" />Anish Giri and Matthias Bluebaum secured their spots in the FIDE Candidates Tournament 2026 after a strong showing at the FIDE Grand Swiss. R Vaishali defended her title in the women's event, marking her second appearance in the Women's Candidates Tournament 2026. With Caruana and Nakamura also confirmed, the Candidates Tournament is set to be highly competitive.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-dutch-no-1-anish-giri-wins-fide-grand-swiss-title-qualifies-for-candidates-2026/articleshow/123903864.cms",
-         "pubDate" : "Mon, 15 Sep 2025 14:54:00",
-         "title" : "Dutch no. 1 Anish Giri wins Grand Swiss, qualifies for Candidates 2026"
       },
       {
          "description" : "Keymer's last trip to Chennai was to help Gukesh become world champion - now he has his biggest classical win.",
