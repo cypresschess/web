@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championships-live",
+         "pubDate" : "Mon, 06 Oct 2025 13:00:00",
+         "title" : "European Team Championships - Live!"
+      },
+      {
+         "description" : "The European Team Championships began in Batumi with a number of early surprises. Denmark upset top seeds Germany in the open section thanks to Mads Andersen's win over Dmitrij Kollars, while Georgia edged Hungary and Switzerland held Spain to a draw. In the women's event, Georgia and Poland started strongly, though Ukraine were held by Austria and Slovakia defeated Spain to produce the day's biggest shock. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2025-1",
+         "pubDate" : "Mon, 06 Oct 2025 12:00:00",
+         "title" : "Euro Teams: Denmark stun Germany"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/council-papers/#new_tab",
+         "pubDate" : "Mon, 06 Oct 2025 10:14:16",
+         "title" : "Council papers for the ECF AGM"
+      },
+      {
          "description" : "The rule limits the rating gap used when evaluating game results. From October 1st FIDE dropped the 400 point rule for players rated above 2650. This makes it harder for top players to gain points by playing against much weaker opponents (called \"farming\"), and easier to lose points when not beating them. Leading chess statistician and FIDe consultant Jeff Sonas tells us why, and what the rule change implies.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/drama-in-chess-world-hikaru-nakamura-reacts-to-social-media-post-trolling-fide-ceo-emil-sutovsky/articleshow/124329792.cms",
          "pubDate" : "Mon, 06 Oct 2025 04:03:11",
          "title" : "Drama in chess world! Nakamura reacts to post trolling FIDE CEO Sutovsky"
+      },
+      {
+         "description" : "It&#39;s now less than a month until the $2 million 2025 FIDE World Cup begins on November 1, with a 206-player field topped by the Indian trio of World Champion Gukesh Dommaraju and GMs Arjun Erigaisi and Praggnanandhaa Rameshbabu. The event will tak...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-pairings",
+         "pubDate" : "Mon, 06 Oct 2025 03:52:17",
+         "title" : "2025 FIDE World Cup Pairings, Venue Revealed"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124328762.cms\" />Former world champion Vladimir Kramnik has launched a scathing attack on world no. 2 Hikaru Nakamura following his controversial gesture towards D Gukesh during the USA vs India chess exhibition. Kramnik labeled Nakamura's actions as \"vulgarity\" and \"degradation of modern chess,\" asserting they damaged the game. This comes after India suffered a 0-5 whitewash against USA.",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-doyen-leonard-barden/",
          "pubDate" : "Sun, 05 Oct 2025 15:46:21",
          "title" : "The doyen: Leonard Barden"
-      },
-      {
-         "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championships-live",
-         "pubDate" : "Sun, 05 Oct 2025 13:00:51",
-         "title" : "European Team Championships - live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124319723.cms\" />The USA dominated India 5-0 in the 'Checkmate' event, with Hikaru Nakamura defeating world champion D Gukesh. However, Nakamura's post-match gesture of throwing Gukesh's king piece towards the crowd sparked widespread controversy and divided social media opinion. This incident now sets the stage for an intense return leg in India.",
@@ -456,14 +480,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-speed-chess-championship-2025",
          "pubDate" : "Mon, 29 Sep 2025 08:00:00",
          "title" : "Rivals Reunite As Carlsen, Nakamura, & Niemann Headline 2025 Speed Chess Championship"
-      },
-      {
-         "description" : "GM Praggnanandhaa Rameshbabu blundered with a second on his clock to turn a promising position into a pawn-down endgame, but GM Maxime Vachier-Lagrave missed a win as their 2025 Grand Chess Tour Finals semifinal began with a draw. The other match-...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-grand-chess-tour-finals-day-1",
-         "pubDate" : "Sun, 28 Sep 2025 19:08:00",
-         "title" : "Praggnanandhaa Escapes As Grand Chess Tour Finals Begin In Sao Paulo"
       },
       {
          "description" : "The 2025 European Senior Chess Championship commenced yesterday in Rabac, Croatia and takes place from 27th of September to 5th of October at the \"Sunny Rabac\" restaurant by Valamar. The Championship is played in two age categories: 50+ and 65+, open and women's sections separately. More than 160 players coming from 30 European federations compete in the tournament, fighting for the title of European Senior Chess Champion. The top seeds of the Open 50+ section are: GM Jean-Marc Degraeve (FRA, []",
