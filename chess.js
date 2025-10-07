@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124352137.cms\" />Top seed Aaryan Varshney achieved his goal of reaching an Elo of 2500 despite a low 90th-place finish in the Maharathi international open. He strategically withdrew from three rounds, playing only six to secure wins against significantly lower-rated opponents and add Elo points. His father cited illness as the reason for the withdrawals.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-aaryan-varshney-scaled-elo-2500-live-rating/articleshow/124352137.cms",
+         "pubDate" : "Tue, 07 Oct 2025 03:03:12",
+         "title" : "How Aaryan Varshney scaled Elo 2500 live rating"
+      },
+      {
          "description" : " The 78th Russian Chess Championship and 75th Russian Women's Championship take place in Moscow 1st to 12th October 2025. The event is pretty weak compared to even the relatively recent past due to the war. Daniil Dubov, Vladislav Artemiev, Andrey Esipenko and Vladimir Malakhov are the top seeds. Polina Shuvalova, Leya Garifullina, Olga Girya, Valentina Gunina and Alisa Galliamova are the leading women's players. The tables will look a little strange as I am transliterating the Chess Results entries which are originally in Russian.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -34,12 +42,12 @@ news_feed (
          "title" : "European Team Chess Championship 2025 - Round 2 recap"
       },
       {
-         "description" : "WFM Anna Cramling blundered a piece against 12-year-old Zac Chua from Canada and didn&#39;t realize until three moves later, but she shrugged off that slip-up to win the 6th episode of Kids vs. Stars 2.5-1.5. &#34;I would rather go skydiving!&#34; she said of...",
+         "description" : "WFM Anna Cramling blundered a piece against 12-year-old Zac Chua from Canada and didn&#39;t realize until three moves later, but she shrugged off that slip-up to win the sixth episode of Kids vs. Stars 2.5-1.5. &#34;I would rather go skydiving!&#34; she said ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/anna-cramling-kids-vs-stars-episode-6",
          "pubDate" : "Mon, 06 Oct 2025 16:02:05",
-         "title" : "Anna Cramling Wins \"Terrifying\" Kids Vs. Stars Simul"
+         "title" : "Anna Cramling Wins 'Terrifying' Kids Vs. Stars Simul"
       },
       {
          "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
@@ -104,6 +112,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/vladimir-kramnik-blasts-hikaru-nakamura-for-tossing-19-year-old-world-champion-d-gukeshs-king-away-calls-it-tasteless-and-vulgar/articleshow/124328762.cms",
          "pubDate" : "Mon, 06 Oct 2025 02:22:25",
          "title" : "Chess: Kramnik blasts Nakamura for tossing Gukesh's king away; calls the act 'vulgar'"
+      },
+      {
+         "description" : "GM Fabiano Caruana won the 2025 Grand Chess Tour (GCT) Finals in São Paulo, Brazil, taking home $150,000 for winning his matches over GMs Levon Aronian and Maxime Vachier-Lagrave in the semifinals and finals, respectively.Aronian won $60,000 for his victory over GM Praggnanandhaa Rameshbabu in the consolation match. Vachier-Lagrave won $100,000 for his second-place finish and Praggnanandhaa took home $40,000 for qualifying for the finals. The tournament took place from September 28 through October 3, with Caruana having just enough time to make it to Dallas for Checkmate: USA vs India the next day. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Carua",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/comeback-caruana-wins-gct-finals",
+         "pubDate" : "Mon, 06 Oct 2025 00:00:00",
+         "title" : "Comeback Caruana Wins GCT Finals"
       },
       {
          "description" : "Six days before Checkmate: USA vs India, one of its commentators, GM Harshit Raja, predicted that India would win 3-2 against the USA team, despite the latter getting White on each board. USA swept 5-0. The winning team's members received TAG Heuer Carrera watches. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> A victorious Team USA at the closing ceremony (Photo by Dr. Alexey Root)<br> <br> <br> <br> Raja's PredictionHere is how Raja thought the results would play out. For the winner of the round between the two players under age 16, he chose India's IM Ethan Vaz over USA's IM Tanitoluwa Adewumi. On the women's board, he chose India's GM Divya Deshmu",
@@ -498,14 +514,6 @@ news_feed (
          "title" : "Tactics Tuesday: 2025 FIDE World Cadet Championships, Pt. 1"
       },
       {
-         "description" : "The USA delegation finished third overall out of 86 federations represented at the 2025 FIDE World Cadet Championships in Almaty, Kazakhstan. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> All photos courtesy US Chess<br> <br> <br> <br> The six sections (Under-8, Under-10, and Under-12 Open and Girls) of the 11-round Swiss system tournament concluded Tuesday, September 30. Read more about the event, and results from the first-half, in our midway report. A final report will be available on Chess Life Online by the morning of Thursday, October 2. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Head of Delegation G",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/flash-report-usa-finishes-third-fide-world-cadet-championships",
-         "pubDate" : "Tue, 30 Sep 2025 00:00:00",
-         "title" : "Flash Report: USA Finishes Third at FIDE World Cadet Championships"
-      },
-      {
          "description" : "In a round that barely lasted two hours, we saw two draws in both semifinal matches of the 2025 Grand Chess Tour Finals. The scores, in GM Praggnanandhaa Rameshbabu vs. GM Maxime Vachier-Lagrave and GM Fabiano Caruana vs. GM Levon Aronian, remain ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/live-chess-world-league-2025-s2/",
          "pubDate" : "Wed, 17 Sep 2025 11:59:49",
          "title" : "Live Chess World League 2025/S2"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123936941.cms\" />Grandmaster R Vaishali secured her spot in the Women's Candidates Tournament 2026 by winning the Women's Grand Swiss in Samarkand. This victory came after a challenging experience at the Chennai Grand Masters, where she faced a series of losses. Ironically, her lowered rating from the Chennai tournament inadvertently contributed to her Grand Swiss win due to tie-break calculations.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-i-decided-not-to-play-grand-swiss-how-r-vaishalis-chennai-nightmare-earned-her-a-2026-candidates-ticket/articleshow/123936941.cms",
-         "pubDate" : "Wed, 17 Sep 2025 06:26:58",
-         "title" : "'I decided not to play Grand Swiss': How R Vaishali's Chennai nightmare earned her a 2026 Candidates ticket"
       }
    ]
 }
