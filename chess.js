@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124365152.cms\" />Kolkata's Sarbartho Mani secured a bronze medal in the Under-10 open section at the World Cadet Chess Championship in Kazakhstan. This follows his July gold at the World Cadet Chess Cup in Georgia. Despite a strong start, a single loss in the 10th round impacted his final standing, but superior tie-breaks secured him a podium finish.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/nine-year-old-sarbartho-mani-bags-bronze-in-world-cadet-chess-championship-in-kazakhstan/articleshow/124365152.cms",
+         "pubDate" : "Tue, 07 Oct 2025 13:58:44",
+         "title" : "Nine-year-old Sarbartho Mani bags bronze in World Cadet Chess C'ship"
+      },
+      {
          "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +66,7 @@ news_feed (
          "title" : "How Aaryan Varshney scaled Elo 2500 live rating"
       },
       {
-         "description" : " The 78th Russian Chess Championship and 75th Russian Women's Championship take place in Moscow 1st to 12th October 2025. The event is pretty weak compared to even the relatively recent past due to the war. Daniil Dubov, Vladislav Artemiev, Andrey Esipenko and Vladimir Malakhov are the top seeds. Polina Shuvalova, Leya Garifullina, Olga Girya, Valentina Gunina and Alisa Galliamova are the leading women's players. The tables will look a little strange as I am transliterating the Chess Results entries which are originally in Russian.",
+         "description" : " The 78th Russian Chess Championship and 75th Russian Women's Championship take place in Moscow 1st to 12th October 2025. The event is pretty weak compared to even the relatively recent past due to the war. Daniil Dubov, Vladislav Artemiev, Andrey Esipenko and Vladimir Malakhov are the top seeds. Polina Shuvalova, Leya Garifullina, Olga Girya, Valentina Gunina and Alisa Galliamova are the leading women's players. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/78th-russian-chess-championships-2025",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/random-success-stories/",
          "pubDate" : "Sat, 20 Sep 2025 13:00:00",
          "title" : "Why You Shouldn't Copy Random Success Stories in Chess Improvement"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124013864.cms\" />The FIDE Grand Swiss 2025 witnessed Anish Giri's triumph and Vaishali Rameshbabu's repeat victory, alongside Matthias Bluebaum's unexpected Candidates qualification. Despite Gukesh Dommaraju's stumble, the event highlighted India's mixed fortunes and the rise of young talents like America's Abhimanyu Mishra. Divya Deshmukh's fearless performance in the Open section also underscored the growing strength of women in chess, inspiring future participation.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-d-gukesh-is-not-even-20-yet-fide-grand-swiss-2025-was-an-eye-opener-in-many-ways/articleshow/124013864.cms",
-         "pubDate" : "Sat, 20 Sep 2025 11:17:34",
-         "title" : "'Gukesh is not even 20 yet': Grand Swiss was an eye-opener in many ways"
       },
       {
          "description" : "Britain's leading Grandmaster for many decades, Mickey Adams, has enjoyed a spectacular run of recent successes: a first and a second place in the London classic, victory in the over-fifties world senior championship, success in the Cambridge open, first in the English championship, not to mention his ninth British championship title this year. In the []",
