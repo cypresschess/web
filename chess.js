@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his latest column, GM Jon Speelman explores a key psychological theme in chess: the art of refusing the opponent's narrative. Using examples from his own games, classic encounters such as Szabo-Reshevsky (Z&uuml;rich 1953), and instructive cases from Karpov-Kasparov and Smyslov-Keres, Speelman reflects on when to accept or decline sacrifices and how independent thinking at the board can overturn assumptions and disrupt momentum. | Photo: A. Hasson / Hastings 1991-92",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-232",
+         "pubDate" : "Tue, 07 Oct 2025 22:15:00",
+         "title" : "Jon Speelman: Don't make assumptions"
+      },
+      {
+         "description" : "The third round of the European Team Chess Championship 2025 was played today, and matches are getting tougher each day. Only two teams maintained the perfect score in the Open section, co-leading with 6 match points (each): defending European Team Chess Champions Serbia, and Greece. The team of Serbia defeated France, thanks to GM Aleksandar Indjic's (SRB, 2618) victory against GM Maxime Lagarde (FRA, 2617). Indjic misplayed the opening and allowed Lagarde to gain an advantage with black pieces, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/three-rounds-played-at-european-team-chess-championship-2025/",
+         "pubDate" : "Tue, 07 Oct 2025 20:53:56",
+         "title" : "Three rounds played at European Team Chess Championship 2025"
+      },
+      {
+         "description" : " Clutch Chess: The Legends is a match between Viswanathan Anand and Gary Kasparov in Saint Louis 8th to 10th October. Whilst I'm sure it's going to be interesting, the format is weird when straightforward would have been better, I mean it's Kasparov and Anand playing a match. The format is as follows: first of all it's a Chess960 Match, second it's a mixture of 2 rapid and 2 blitz per day and thirdly it's Clutch Chess. The details: Rapid Games (1, 2, 5, 6, 9 and 10) (G/25;+10). Blitz Games (3, 4, 7, 8, 11 and 12) (G/5;+3). Clutch chess means games are worth 1pt for a win and 0pts for a draw on day one, 2pts and 1pt on day two and 3pts and 1.5pts on the final day. The idea is that the match s",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-the-legends",
+         "pubDate" : "Tue, 7 Oct 2025 20:42:00",
+         "title" : "Clutch Chess: The Legends - Games and Results"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124365152.cms\" />Kolkata's Sarbartho Mani secured a bronze medal in the Under-10 open section at the World Cadet Chess Championship in Kazakhstan. This follows his July gold at the World Cadet Chess Cup in Georgia. Despite a strong start, a single loss in the 10th round impacted his final standing, but superior tie-breaks secured him a podium finish.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -72,6 +96,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/how-aaryan-varshney-scaled-elo-2500-live-rating/articleshow/124352137.cms",
          "pubDate" : "Tue, 07 Oct 2025 03:03:12",
          "title" : "How Aaryan Varshney scaled Elo 2500 live rating"
+      },
+      {
+         "description" : "This week's puzzles continue our series on the 2025 FIDE World Cadet Championships, which concluded last Tuesday in Almaty, Kazakhstan (flash report | full report). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-fide-world-cadet-championships-pt-2",
+         "pubDate" : "Tue, 07 Oct 2025 00:00:00",
+         "title" : "Tactics Tuesday: 2025 FIDE World Cadet Championships, Pt. 2"
       },
       {
          "description" : " The 78th Russian Chess Championship and 75th Russian Women's Championship take place in Moscow 1st to 12th October 2025. The event is pretty weak compared to even the relatively recent past due to the war. Daniil Dubov, Vladislav Artemiev, Andrey Esipenko and Vladimir Malakhov are the top seeds. Polina Shuvalova, Leya Garifullina, Olga Girya, Valentina Gunina and Alisa Galliamova are the leading women's players. ",
@@ -560,14 +592,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/slu-begins-title-defense-defeats-ttu",
          "pubDate" : "Tue, 30 Sep 2025 03:33:00",
          "title" : "SLU Begins Title Defense, Defeats TTU"
-      },
-      {
-         "description" : "This week's puzzles begin our series on the 2025 FIDE World Cadet Championships, which concluded earlier today in Almaty, Kazakhstan (flash report). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-fide-world-cadet-championships-pt-1",
-         "pubDate" : "Tue, 30 Sep 2025 00:00:00",
-         "title" : "Tactics Tuesday: 2025 FIDE World Cadet Championships, Pt. 1"
       },
       {
          "description" : "In a round that barely lasted two hours, we saw two draws in both semifinal matches of the 2025 Grand Chess Tour Finals. The scores, in GM Praggnanandhaa Rameshbabu vs. GM Maxime Vachier-Lagrave and GM Fabiano Caruana vs. GM Levon Aronian, remain ...",
