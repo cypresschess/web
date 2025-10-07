@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European Senior Chess Championship 2025 concluded in Rabac, Croatia! The event was played in two age sections: 50+ and 65+, Open and Women's sections separately, with the participation of more than 160 players coming from 30 European federations. GM Jean-Marc Degraeve (FRA, 2478) emerged as the sole Winner of the Open 50+ category. With the score of 7/9 points, he clinched the title of the European Senior 50+ Chess Champion for 2025. Three players scored 6.5 points each and tied []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-chess-champions-2025-crowned-in-croatia/",
+         "pubDate" : "Tue, 07 Oct 2025 07:11:26",
+         "title" : "European Senior Chess Champions 2025 crowned in Croatia"
+      },
+      {
+         "description" : "Team USA claimed a 5-0 victory over Team India in \"Checkmate: USA v. India\", a new-format exhibition held at Esports Stadium in Arlington, Texas. The event combined top-level chess with a live sports-style presentation, featuring unconventional rules such as no resignations and active audience participation. Hikaru Nakamura sealed the clean sweep by defeating world champion Gukesh Dommaraju, capping an evening that tested how far chess can be taken as a stadium spectacle. | Photo: Ashwin Subramanian",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/checkmate-usa-india-2025-live-2",
+         "pubDate" : "Tue, 07 Oct 2025 07:05:00",
+         "title" : "USA v. India at Esports Stadium: A 5-0 clean sweep for Team USA"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124354516.cms\" />Hikaru Nakamura's controversial act of throwing Gukesh Dommaraju's king piece into the crowd during an exhibition match has divided the chess community. While some, like Magnus Carlsen's coach Peter Heine Nielsen and organizer Levy Rozman, defended it as an entertainment-driven, pre-planned gesture, others like Vladimir Kramnik condemned it as vulgar and damaging to the game.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsens-coach-peter-heine-nielsen-defends-hikaru-nakamuras-controversial-action-of-throwing-d-gukeshs-king/articleshow/124354516.cms",
+         "pubDate" : "Tue, 07 Oct 2025 06:51:25",
+         "title" : "Carlsen's coach Nielsen defends Nakamura's controversial action"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124352137.cms\" />Top seed Aaryan Varshney achieved his goal of reaching an Elo of 2500 despite a low 90th-place finish in the Maharathi international open. He strategically withdrew from three rounds, playing only six to secure wins against significantly lower-rated opponents and add Elo points. His father cited illness as the reason for the withdrawals.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -46,8 +70,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/anna-cramling-kids-vs-stars-episode-6",
-         "pubDate" : "Mon, 06 Oct 2025 16:02:05",
-         "title" : "Anna Cramling Wins 'Terrifying' Kids Vs. Stars Simul"
+         "pubDate" : "Mon, 06 Oct 2025 16:02:00",
+         "title" : "Anna Cramling Wins 'Terrifying' Kids Vs. Stars"
       },
       {
          "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
@@ -728,14 +752,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/sep/19/chess-draw-king-anish-giri-grinds-to-90000-prize-at-grand-swiss-on-the-silk-road",
          "pubDate" : "Fri, 19 Sep 2025 07:00:38",
          "title" : "Chess: draw king Anish Giri grinds to $90,000 prize at Grand Swiss on the Silk Road"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/123990810.cms\" />After a devastating performance at the Chennai Grand Masters, Grandmaster R Vaishali contemplated withdrawing from the FIDE Grand Swiss. Encouraged by her brother, GM R Praggnanandhaa, and GM Karthikeyan Murali, she participated without preparation. Surprisingly, Vaishali defended her Grand Swiss title in Samarkand, Uzbekistan, and secured a spot in the 2026 FIDE Women's Candidates tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-vaishalis-journey-from-twilight-zone-to-swiss-sunrise/articleshow/123990810.cms",
-         "pubDate" : "Fri, 19 Sep 2025 05:39:23",
-         "title" : "R Vaishali's journey: From twilight zone to Swiss sunrise"
       },
       {
          "description" : "The new Coventry International will take place from Sunday 26th October to Friday 31st October 2025 at the Holiday Inn Coventry M6, JCT.2 in Coventry. The hotel is familiar to...",
