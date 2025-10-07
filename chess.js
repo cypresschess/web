@@ -18,6 +18,14 @@ news_feed (
          "title" : "European Team Championships - Live!"
       },
       {
+         "description" : "GM Alireza Firouzja won a tense Titled Tuesday on October 7, taking it on tiebreaks ahead of GM Ian Nepomniachtchi and GM Jan-Krzysztof Duda after they all posted a 9.5/11 score. GM Xiao Tong, a 16-year old grandmaster rated over 3100 in Chess.com...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-october-7-2025",
+         "pubDate" : "Tue, 07 Oct 2025 11:30:25",
+         "title" : "Firouzja Completes Comeback To Caper Into CCT Contention"
+      },
+      {
          "description" : "Please find the final report here",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -576,14 +584,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-was-one-of-our-top-preferences-head-coach-srinath-narayanan-dissects-global-chess-league-season-3-draft-strategy/articleshow/124215591.cms",
          "pubDate" : "Mon, 29 Sep 2025 14:49:58",
          "title" : "'Erigaisi was one of our top preferences': Srinath dissects GCL draft strategy"
-      },
-      {
-         "description" : "The International Chess Federation (FIDE) has announced a change to its rating regulations that will already take effect on October 1, removing the so-called 400-point rule for players rated above 2650. The change was triggered by GM Hikaru Nakamu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-introduces-hikaru-rule-from-october",
-         "pubDate" : "Mon, 29 Sep 2025 13:39:00",
-         "title" : "FIDE Scraps 400-Point Rule For 2650+ Players, 'Triggered By Nakamura'"
       },
       {
          "description" : "The 2025 European Senior Chess Championship commenced yesterday in Rabac, Croatia and takes place from 27th of September to 5th of October at the \"Sunny Rabac\" restaurant by Valamar. The Championship is played in two age categories: 50+ and 65+, open and women's sections separately. More than 160 players coming from 30 European federations compete in the tournament, fighting for the title of European Senior Chess Champion. The top seeds of the Open 50+ section are: GM Jean-Marc Degraeve (FRA, []",
