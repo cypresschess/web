@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championships-live",
+         "pubDate" : "Tue, 07 Oct 2025 13:00:00",
+         "title" : "European Team Championships - Live!"
+      },
+      {
+         "description" : "Please find the final report here",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-arbiters-seminar-in-guntur-andhra-pradesh-india-from-26-28-sept-2025-report/",
+         "pubDate" : "Tue, 07 Oct 2025 11:08:00",
+         "title" : "FIDE Arbiters' Seminar in Guntur, Andhra Pradesh (India) from 26-28 Sept.2025- Report"
+      },
+      {
+         "description" : "Special Note: If a player has only&#160;one accompanying person, then he/she must pay for double sharing amount only. (Triple sharing basis not accepted for two",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-u9-u17-rapid-blitz-chess-championships-2025-in-antalya-turkey-from-15th-to-21st-december-2025/",
+         "pubDate" : "Tue, 07 Oct 2025 10:29:19",
+         "title" : "FIDE World U9-U17 Rapid & Blitz Chess Championships - 2025 in Antalya, Turkey from 15th to 21st December, 2025"
+      },
+      {
          "description" : "European Senior Chess Championship 2025 concluded in Rabac, Croatia! The event was played in two age sections: 50+ and 65+, Open and Women's sections separately, with the participation of more than 160 players coming from 30 European federations. GM Jean-Marc Degraeve (FRA, 2478) emerged as the sole Winner of the Open 50+ category. With the score of 7/9 points, he clinched the title of the European Senior 50+ Chess Champion for 2025. Three players scored 6.5 points each and tied []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -72,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/anna-cramling-kids-vs-stars-episode-6",
          "pubDate" : "Mon, 06 Oct 2025 16:02:00",
          "title" : "Anna Cramling Wins 'Terrifying' Kids Vs. Stars"
-      },
-      {
-         "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championships-live",
-         "pubDate" : "Mon, 06 Oct 2025 13:00:00",
-         "title" : "European Team Championships - Live!"
       },
       {
          "description" : "In the spring season of the Collegiate Chess League, the University of Missouri (Mizzou) lost to St. Louis University (SLU) in the Finals, to finish in second place. This year they are looking for more and are off to a good start, winning their fi...",
