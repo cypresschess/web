@@ -58,6 +58,14 @@ news_feed (
          "title" : "Anand vs Kasparov: Legendary chess rivals reignite 30-year-old battle in USA"
       },
       {
+         "description" : "This week's puzzles begin our series on the 2025 FIDE World Cadet Championships, which concluded last Tuesday in Almaty, Kazakhstan (flash report | full report). For even more puzzles, see part 1 and part 2 of our Tactics Tuesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2025-fide-world-cadet-championships-pt-1",
+         "pubDate" : "Wed, 08 Oct 2025 00:00:00",
+         "title" : "Wednesday Workout: 2025 FIDE World Cadet Championships, Pt. 1"
+      },
+      {
          "description" : "In his latest column, GM Jon Speelman explores a key psychological theme in chess: the art of refusing the opponent's narrative. Using examples from his own games, classic encounters such as Szabo-Reshevsky (Z&uuml;rich 1953), and instructive cases from Karpov-Kasparov and Smyslov-Keres, Speelman reflects on when to accept or decline sacrifices and how independent thinking at the board can overturn assumptions and disrupt momentum. | Photo: A. Hasson / Hastings 1991-92",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -530,14 +538,6 @@ news_feed (
          "title" : "New dad alert! Magnus Carlsen welcomes baby; FIDE's post has everyone talking"
       },
       {
-         "description" : "This week concludes our series on the just-concluded 2025 FIDE Grand Swiss and Women's Grand Swiss tournaments (see report). We are pleased to share over 30 puzzles that WGM Sabina Foisor curated for us while selecting games to annotate for her reports, including two Tactics Tuesday columns designed for a broader range of chess players. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2025-fide-grand-swiss-pt-3",
-         "pubDate" : "Wed, 01 Oct 2025 00:00:00",
-         "title" : "Wednesday Workout: 2025 FIDE Grand Swiss, Pt. 3"
-      },
-      {
          "description" : "GMs Fabiano Caruana and Maxime Vachier-Lagrave will play the title match of the 2025 Grand Chess Tour Finals. Caruana won his match 15-13 against GM Levon Aronian, while Vachier-Lagrave won 17-11 against GM Praggnanandhaa Rameshbabu. In a cruel tu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -582,7 +582,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/james-canty-chessboxing-world-champion",
-         "pubDate" : "Tue, 30 Sep 2025 09:46:43",
+         "pubDate" : "Tue, 30 Sep 2025 09:46:00",
          "title" : "James Canty Wins Heavyweight Chessboxing World Championship"
       },
       {
