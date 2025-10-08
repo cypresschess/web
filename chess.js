@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124375039.cms\" />Chess legends Viswanathan Anand and Garry Kasparov reignite their iconic rivalry after three decades in St. Louis. The \"Clutch Chess: The Legends\" tournament features a 12-game Chess 960 match with escalating stakes, promising a thrilling display of creativity and strategic brilliance. Fans anticipate a nostalgic yet fiercely competitive showdown between these two titans of the game.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-vs-garry-kasparov-legendary-chess-rivals-reignite-30-year-old-battle-in-usa/articleshow/124375039.cms",
+         "pubDate" : "Wed, 08 Oct 2025 02:39:11",
+         "title" : "Anand vs Kasparov: Legendary chess rivals reignite 30-year-old battle in USA"
+      },
+      {
          "description" : "In his latest column, GM Jon Speelman explores a key psychological theme in chess: the art of refusing the opponent's narrative. Using examples from his own games, classic encounters such as Szabo-Reshevsky (Z&uuml;rich 1953), and instructive cases from Karpov-Kasparov and Smyslov-Keres, Speelman reflects on when to accept or decline sacrifices and how independent thinking at the board can overturn assumptions and disrupt momentum. | Photo: A. Hasson / Hastings 1991-92",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-the-legends",
          "pubDate" : "Tue, 7 Oct 2025 20:42:00",
          "title" : "Clutch Chess: The Legends - Games and Results"
+      },
+      {
+         "description" : "Nabbollini, student of GM Arturs Neiksans, won the u800 round-robin tournament in the inaugural CoachChamps 2025. Though he won with a 5.5/7 score, it wasn&#39;t totally smooth sailing. Hhart10k, IM Levy Rozman&#39;s student, beat him in the penultimate r...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-coachchamps-group-1",
+         "pubDate" : "Tue, 07 Oct 2025 17:39:41",
+         "title" : "Nabbollini Wins U800 Group, Neiksans Leads Among Coaches"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124365152.cms\" />Kolkata's Sarbartho Mani secured a bronze medal in the Under-10 open section at the World Cadet Chess Championship in Kazakhstan. This follows his July gold at the World Cadet Chess Cup in Georgia. Despite a strong start, a single loss in the 10th round impacted his final standing, but superior tie-breaks secured him a podium finish.",
@@ -594,14 +610,6 @@ news_feed (
          "title" : "SLU Begins Title Defense, Defeats TTU"
       },
       {
-         "description" : "In a round that barely lasted two hours, we saw two draws in both semifinal matches of the 2025 Grand Chess Tour Finals. The scores, in GM Praggnanandhaa Rameshbabu vs. GM Maxime Vachier-Lagrave and GM Fabiano Caruana vs. GM Levon Aronian, remain ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-grand-chess-tour-finals-day-2",
-         "pubDate" : "Mon, 29 Sep 2025 22:27:00",
-         "title" : "Semifinals Head To Rapid & Blitz With Even Scores"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124215591.cms\" />American Gambits revealed their Global Chess League Season 3 draft strategy. They retained Hikaru Nakamura and Bibisara Assaubayeva. Richard Rapport, Vladislav Artemiev, and Teodora Injac joined the team. They acquired prodigy Volodar Murzin but failed to secure Arjun Erigaisi after a bidding contest. The team aims to win the trophy and strengthen its brand this season.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/fide-chess-in-education-commission-edu-courses-events-september-november-2025/",
          "pubDate" : "Tue, 23 Sep 2025 08:05:08",
          "title" : "FIDE Chess in Education Commission (EDU) courses & events September - November 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124052363.cms\" />Divya Deshmukh, India's 19-year-old Grandmaster, has received a wild card entry into the FIDE World Cup 2025 in Goa after a last-minute withdrawal. She will join 20 other Indian players, including world champion D Gukesh, in the knockout tournament. The biennial event features 206 top players, with the top three finishers qualifying for the 2026 Candidates Tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-2025-divya-deshmukh-handed-wild-card/articleshow/124052363.cms",
-         "pubDate" : "Mon, 22 Sep 2025 15:14:05",
-         "title" : "FIDE World Cup 2025: Divya Deshmukh handed wild card"
       },
       {
          "description" : " The 62nd Indian Chess Championships take place in Guntur Sun 21st Sep to Wed 1st Oct 2025. Pa Iniyan, Surya Shekhar Ganguly, SP Sethuraman, Krishnan Sasikiran etc. The event doesn't have any of the top 15 Indian players. ",
