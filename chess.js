@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two former world champions, Viswanathan Anand and Garry Kasparov, face each other in \"Clutch Chess: The Legends\", a 12-game chess960 exhibition match held from 8 to 10 October at the newly expanded Saint Louis Chess Club. The event features rapid and blitz games with increasing point values and prize stakes each day. | Follow the action live starting at 22.00 CEST (16.00 ET, 1.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clutch-chess-2025-live",
+         "pubDate" : "Wed, 08 Oct 2025 21:45:00",
+         "title" : "Clutch Chess: Kasparov v. Anand - Live!"
+      },
+      {
+         "description" : "Four rounds have been already played at the European Team Chess Championship 2025, and only a few teams kept the perfect score of 8 match points. Defending Champions, Serbia, scored the fourth consecutive win in the tournament to emerge as the sole leader of the European Team Chess Championship 2025. Serbian team narrowly defeated Greece, with the final score of 2.5-1.5. The first game to finish was played on the first board, where GM Alexandr Predke (SRB, 2634) shockingly lost []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/serbia-grabs-sole-lead-in-open-poland-and-germany-co-lead-in-womens-section-etcc2025/",
+         "pubDate" : "Wed, 08 Oct 2025 20:08:44",
+         "title" : "Serbia grabs sole lead in Open, Poland and Germany co-lead in Women's section -#ETCC2025"
+      },
+      {
          "description" : "Two former world champions, Viswanathan Anand and Garry Kasparov, will face each other in \"Clutch Chess: The Legends\", a 12-game Chess960 exhibition match held from 8 to 10 October at the newly expanded Saint Louis Chess Club. The event will feature rapid and blitz games with increasing point values and prize stakes each day, marking the official reopening of the club's renovated campus and celebrating its role as a global centre for chess. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/dance-in-front-of-me-hikaru-nakamuras-bizarre-advice-to-d-gukesh-after-throwing-king-gesture-faces-heat/articleshow/124388545.cms",
          "pubDate" : "Wed, 08 Oct 2025 14:19:25",
          "title" : "'Dance in front of me': Nakamura's bizarre advice to Gukesh; defends throwing king"
+      },
+      {
+         "description" : "QQQ1M, IM Levy Rozman&#39;s student, dominated the second day of CoachChamps 2025, which featured the rating range of improvers between 800 and 1199. Playing quickly, the Algerian youngster and GothamChess fan&#38;mdash;who displays his coach in his profi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-coachchamps-group-2",
+         "pubDate" : "Wed, 08 Oct 2025 13:23:00",
+         "title" : "GothamChess Leads CoachChamps After Student, QQQ1M, Dominates Day 2"
       },
       {
          "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-2025-fide-world-cadet-championships-pt-1",
          "pubDate" : "Wed, 08 Oct 2025 00:00:00",
          "title" : "Wednesday Workout: 2025 FIDE World Cadet Championships, Pt. 1"
-      },
-      {
-         "description" : "In his latest column, GM Jon Speelman explores a key psychological theme in chess: the art of refusing the opponent's narrative. Using examples from his own games, classic encounters such as Szabo-Reshevsky (Z&uuml;rich 1953), and instructive cases from Karpov-Kasparov and Smyslov-Keres, Speelman reflects on when to accept or decline sacrifices and how independent thinking at the board can overturn assumptions and disrupt momentum. | Photo: A. Hasson / Hastings 1991-92",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-232",
-         "pubDate" : "Tue, 07 Oct 2025 22:15:00",
-         "title" : "Jon Speelman: Don't make assumptions"
       },
       {
          "description" : "The third round of the European Team Chess Championship 2025 was played today, and matches are getting tougher each day. Only two teams maintained the perfect score in the Open section, co-leading with 6 match points (each): defending European Team Chess Champions Serbia, and Greece. The team of Serbia defeated France, thanks to GM Aleksandar Indjic's (SRB, 2618) victory against GM Maxime Lagarde (FRA, 2617). Indjic misplayed the opening and allowed Lagarde to gain an advantage with black pieces, []",
@@ -584,14 +600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/james-canty-chessboxing-world-champion",
          "pubDate" : "Tue, 30 Sep 2025 09:46:00",
          "title" : "James Canty Wins Heavyweight Chessboxing World Championship"
-      },
-      {
-         "description" : "Last season, Saint Louis University, SLU, won the Collegiate Chess League Spring 2025 (CCL) in convincing fashion. On September 30, they began their title defense by winning their first match of the Collegiate Chess League Fall 2025 just as convin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/slu-begins-title-defense-defeats-ttu",
-         "pubDate" : "Tue, 30 Sep 2025 03:33:00",
-         "title" : "SLU Begins Title Defense, Defeats TTU"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124215591.cms\" />American Gambits revealed their Global Chess League Season 3 draft strategy. They retained Hikaru Nakamura and Bibisara Assaubayeva. Richard Rapport, Vladislav Artemiev, and Teodora Injac joined the team. They acquired prodigy Volodar Murzin but failed to secure Arjun Erigaisi after a bidding contest. The team aims to win the trophy and strengthen its brand this season.",
