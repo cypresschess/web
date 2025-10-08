@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "You may have seen it before. In this very famous position, composed almost exactly a century ago, it is White to play and draw. Which do you think is the stupidest move White could make. Right, that is the solution - it is the only move that saves the game. Problem expert Werner Keym illustrates this in a book which he has made available, as an eBook, to everyone, free of charge. Here are some excerpts to give you a taste. You can play them out on the diagrams we provide.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/werner-keym-problem-chess-art-6",
+         "pubDate" : "Wed, 08 Oct 2025 08:53:52",
+         "title" : "Werner Keym: Problem Chess Art"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124375039.cms\" />Chess legends Viswanathan Anand and Garry Kasparov reignite their iconic rivalry after three decades in St. Louis. The \"Clutch Chess: The Legends\" tournament features a 12-game Chess 960 match with escalating stakes, promising a thrilling display of creativity and strategic brilliance. Fans anticipate a nostalgic yet fiercely competitive showdown between these two titans of the game.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -38,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-coachchamps-group-1",
-         "pubDate" : "Tue, 07 Oct 2025 17:39:41",
+         "pubDate" : "Tue, 07 Oct 2025 17:39:00",
          "title" : "Nabbollini Wins U800 Group, Neiksans Leads Among Coaches"
       },
       {
@@ -90,14 +98,6 @@ news_feed (
          "title" : "European Senior Chess Champions 2025 crowned in Croatia"
       },
       {
-         "description" : "Team USA claimed a 5-0 victory over Team India in \"Checkmate: USA v. India\", a new-format exhibition held at Esports Stadium in Arlington, Texas. The event combined top-level chess with a live sports-style presentation, featuring unconventional rules such as no resignations and active audience participation. Hikaru Nakamura sealed the clean sweep by defeating world champion Gukesh Dommaraju, capping an evening that tested how far chess can be taken as a stadium spectacle. | Photo: Ashwin Subramanian",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/checkmate-usa-india-2025-live-2",
-         "pubDate" : "Tue, 07 Oct 2025 07:05:00",
-         "title" : "USA v. India at Esports Stadium: A 5-0 clean sweep for Team USA"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124354516.cms\" />Hikaru Nakamura's controversial act of throwing Gukesh Dommaraju's king piece into the crowd during an exhibition match has divided the chess community. While some, like Magnus Carlsen's coach Peter Heine Nielsen and organizer Levy Rozman, defended it as an entertainment-driven, pre-planned gesture, others like Vladimir Kramnik condemned it as vulgar and damaging to the game.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -128,14 +128,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/78th-russian-chess-championships-2025",
          "pubDate" : "Mon, 6 Oct 2025 23:05:00",
          "title" : "78th Russian Chess Championships 2025 - Games and Results"
-      },
-      {
-         "description" : "The round-one pairings for the 2025 FIDE World Cup in Goa, India have been unveiled, setting the stage for an intense start to chess' most prestigious knockout event. From 30 October to 27 November, 206 players will compete for a $2 million prize fund and three coveted Candidates spots. With wildcards including Abhimanyu Mishra, Andy Woodward, Faustino Oro, Divya Deshmukh and world rapid champion Volodar Murzin, the opening battles promise plenty of intrigue.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-pairings",
-         "pubDate" : "Mon, 06 Oct 2025 21:50:00",
-         "title" : "FIDE World Cup 2025: Round one pairings revealed"
       },
       {
          "description" : " The 25th European Team championships take place in Batumi, Georgia 5th to 14th October 2025. Leading players such as Anish Giri, Vincent Keymer, Shakhriyar Mamedyarov, Richard Rapport, the field has 56 players over 2600. In the women's event the leading players are Nana Dzagnidze, Nino Batsiashvili, Alexandra Kosteniuk etc. ",
@@ -170,28 +162,12 @@ news_feed (
          "title" : "Mizzou Handles TTU, Takes Early Lead In CCL"
       },
       {
-         "description" : "The European Team Championships began in Batumi with a number of early surprises. Denmark upset top seeds Germany in the open section thanks to Mads Andersen's win over Dmitrij Kollars, while Georgia edged Hungary and Switzerland held Spain to a draw. In the women's event, Georgia and Poland started strongly, though Ukraine were held by Austria and Slovakia defeated Spain to produce the day's biggest shock. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2025-1",
-         "pubDate" : "Mon, 06 Oct 2025 12:00:00",
-         "title" : "Euro Teams: Denmark stun Germany"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/council-papers/#new_tab",
          "pubDate" : "Mon, 06 Oct 2025 10:14:16",
          "title" : "Council papers for the ECF AGM"
-      },
-      {
-         "description" : "The rule limits the rating gap used when evaluating game results. From October 1st FIDE dropped the 400 point rule for players rated above 2650. This makes it harder for top players to gain points by playing against much weaker opponents (called \"farming\"), and easier to lose points when not beating them. Leading chess statistician and FIDe consultant Jeff Sonas tells us why, and what the rule change implies.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/why-fide-dropped-the-400-point-rule",
-         "pubDate" : "Mon, 06 Oct 2025 08:13:51",
-         "title" : "Why FIDE dropped the 400 point rule"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124329792.cms\" />American Grandmaster Hikaru Nakamura caused a stir at the Checkmate: USA vs India event by throwing away world champion D Gukesh's king. This controversial act, during USA's 5-0 victory, drew sharp criticism from former world champion Vladimir Kramnik, who called it a \"degradation of modern chess.\" The incident has reignited discussions on sportsmanship and entertainment in professional chess.",
@@ -282,14 +258,6 @@ news_feed (
          "title" : "Dvorkovich Confirms Proposal To Reinstate Russian Teams In FIDE Tournaments"
       },
       {
-         "description" : "When is it useful to invest a lot of time in thinking about a position, and when is it not? This is a question that players ask themselves time and time again. Our reviewer is familiar with this topic from his own experience. Hannes Langrock is an editor at a fiction publishing house and an International Master. He lives in Leipzig and plays for ESV Nickelh&uuml;tte-Aue. He studied the course intensively and shares his thoughts on it. | Photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-david-navara-your-calculation-compass-know-when-to-calculate-2",
-         "pubDate" : "Sun, 05 Oct 2025 07:00:00",
-         "title" : "Review: David Navara - Your Calculation Compass: Know When to Calculate"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124316641.cms\" />Women's World Cup winner Divya Deshmukh lightened the mood with a jersey typo during the 'Checkmate: USA vs India' exhibition. However, Team India suffered a 5-0 defeat to Team USA, highlighted by Hikaru Nakamura's dramatic bullet win over Gukesh Dommaraju. A return leg in India offers Team India a chance for redemption.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -304,14 +272,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-gukesh-king-checkmate-usa-vs-india-2025",
          "pubDate" : "Sun, 05 Oct 2025 04:00:00",
          "title" : "Nakamura Checkmates Gukesh, Electrifies Crowd At Checkmate India vs USA"
-      },
-      {
-         "description" : "Arlington welcomes the unprecedented event \"Checkmate: USA v. India\", an evening of chess presented as a live arena spectacle. Esports Stadium Arlington sees Hikaru Nakamura take on world champion Gukesh Dommaraju, Fabiano Caruana face Arjun Erigaisi, and further clashes featuring women stars, prodigies and leading chess streamers. | Follow the action live starting at 2.00 CEST (20.00 ET, 5.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/checkmate-usa-india-2025-live",
-         "pubDate" : "Sun, 05 Oct 2025 01:30:00",
-         "title" : "Checkmate: USA v. India - Live!"
       },
       {
          "description" : "GM Daniel Naroditsky was the deserving winner of October&#39;s first Bullet Brawl and the $400 first prize after he toppled 30 players with Chess.com bullet ratings over 3000 en route to a dominant victory. Naroditsky scored 55/73 overall and accumu...",
@@ -368,14 +328,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-faces-backlash-after-rule-change-accused-of-stealing-rating-points",
          "pubDate" : "Fri, 03 Oct 2025 20:30:00",
          "title" : "FIDE Faces Backlash After Rule Changes, Accused Of 'Stealing' Rating Points"
-      },
-      {
-         "description" : "The Grand Chess Tour Finals return in 2025, taking place at the World Trade Center in São Paulo from 28 September to 3 October. The event features Maxime Vachier-LaGrave, Praggnanandhaa Rameshbabu, Fabiano Caruana and Levon Aronian facing off in a knockout tournament. | Follow the action live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2025-live",
-         "pubDate" : "Fri, 03 Oct 2025 17:45:00",
-         "title" : "Grand Chess Tour Finals - Live!"
       },
       {
          "description" : "GM Fabiano Caruana won the 2025 Grand Chess Tour Finals to earn $150,000, with the runner-up GM Maxime Vachier-Lagrave taking the second $100,000 prize. Vachier-Lagrave won the first game, but Caruana went on a rampage to win three games in a row ...",
