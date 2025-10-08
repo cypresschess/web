@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two former world champions, Viswanathan Anand and Garry Kasparov, will face each other in \"Clutch Chess: The Legends\", a 12-game Chess960 exhibition match held from 8 to 10 October at the newly expanded Saint Louis Chess Club. The event will feature rapid and blitz games with increasing point values and prize stakes each day, marking the official reopening of the club's renovated campus and celebrating its role as a global centre for chess. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clutch-chess-2025-preview",
+         "pubDate" : "Wed, 08 Oct 2025 15:50:00",
+         "title" : "Clutch Chess: Kasparov and Anand face off in Chess960 showdown"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124388545.cms\" />Hikaru Nakamura defended tossing D Gukesh's king into the crowd at an exhibition event, stating it was part of the organizers' entertainment format. He clarified it was not an insult, emphasizing the difference between a serious tournament and a purely entertainment-focused match. Nakamura also playfully suggested Gukesh could dance on the chessboard if he wins the reverse match in India.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/dance-in-front-of-me-hikaru-nakamuras-bizarre-advice-to-d-gukesh-after-throwing-king-gesture-faces-heat/articleshow/124388545.cms",
+         "pubDate" : "Wed, 08 Oct 2025 14:19:25",
+         "title" : "'Dance in front of me': Nakamura's bizarre advice to Gukesh; defends throwing king"
+      },
+      {
          "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -690,14 +706,6 @@ news_feed (
          "title" : "3rd NATIONAL SCHOOLS TEAM UNDER-12 & UNDER-18CHESS CHAMPIONSHIPS - 2025 in Shimla from 12-14 October 2025"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124086028.cms\" />World Champion D Gukesh faced a tough stretch at the FIDE Grand Swiss tournament, impacting his Elo rating. Viswanathan Anand acknowledged Gukesh's challenges in adapting to his champion status and the pressure it brings. Anand remains optimistic about Gukesh's ability to rebound.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-still-settling-in-as-world-champ-says-viswanathan-anand/articleshow/124086028.cms",
-         "pubDate" : "Wed, 24 Sep 2025 07:06:39",
-         "title" : "Gukesh still settling in as world champ, says Viswanathan Anand"
-      },
-      {
          "description" : "FIDE's Chess in Education Commission continues to accelerate its provision of training for Lecturers and Teachers of Educational Chess, offering a series of high-level online and in-person opportunities in autumn...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/uk-open-blitz-championship-2025/",
          "pubDate" : "Thu, 18 Sep 2025 06:00:21",
          "title" : "UK Open Blitz Championship 2025"
-      },
-      {
-         "description" : "The much awaited Live Chess World League 2025/S2 (Season 14) is now underway on Chess.com with teams from around the world playing in 5 divisions based on results from previous...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/live-chess-world-league-2025-s2/",
-         "pubDate" : "Wed, 17 Sep 2025 11:59:49",
-         "title" : "Live Chess World League 2025/S2"
       }
    ]
 }
