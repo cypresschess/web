@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2025-10-07","16","<a href=http://www.uschess.org/msa/XtblMain.php?202510075612 target='_blank'>THE CHESS REFINERY: SUPER BLITZ 2025</a>",
+"HOUSTON","2025-10-03  - 10-05","32","<a href=http://www.uschess.org/msa/XtblMain.php?202510054972 target='_blank'>$2,500 OCTOBER CHAMPIONSHIP</a>",
 "HOUSTON","2025-10-05","14","<a href=http://www.uschess.org/msa/XtblMain.php?202510054392 target='_blank'>BELLAIRE SUNDAY SWISS 10/05/25</a>",
 "HOUSTON","2025-10-04","15","<a href=http://www.uschess.org/msa/XtblMain.php?202510043072 target='_blank'>CHESSPANDA10042025SATURDAY</a>",
 "HOUSTON","2025-10-04","6","<a href=http://www.uschess.org/msa/XtblMain.php?202510043022 target='_blank'>ROUND ROBIN</a>",
@@ -197,6 +199,4 @@ jtable([
 "SUGAR LAND","2025-03-28","20","<a href=http://www.uschess.org/msa/XtblMain.php?202503288582 target='_blank'>FBCC 2025 BLACK FOREST CAKE DAY OPE</a>",
 "HOUSTON","2025-03-04  - 03-25","18","<a href=http://www.uschess.org/msa/XtblMain.php?202503257102 target='_blank'>MARCH TUE NITE SWISS 2025</a>",
 "HOUSTON","2025-03-22  - 03-23","25","<a href=http://www.uschess.org/msa/XtblMain.php?202503236302 target='_blank'>TEXAS STATE SENIOR CHAMPIONSHIP 2025</a>",
-"KATY","2025-03-22","104","<a href=http://www.uschess.org/msa/XtblMain.php?202503225252 target='_blank'>4TH ANNUAL ARISTOI CHESS TOURNAMENT</a>",
-"HOUSTON","2025-03-22","10","<a href=http://www.uschess.org/msa/XtblMain.php?202503224502 target='_blank'>CHESSPANDA03222025SATURDAY</a>",
 ]);
