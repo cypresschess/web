@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championships-live",
+         "pubDate" : "Wed, 08 Oct 2025 13:00:00",
+         "title" : "European Team Championships - Live!"
+      },
+      {
+         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/25th-european-teams-2025\">European Team Championships</a> got underway on Sunday. This is still one of the highlights of the chess calendar. If you're looking for high-quality, motivated chess, this is your tournament. Russia is absent due to the war in Ukraine (or, if you prefer, because it now belongs to the Asian Federation), and Norway couldn't afford to send a team, but quality is everywhere. Top-seeded Germany lost to 21st-seeded Denmark. They outrated them on every board, but not by so much that the result was outrageous. After three rounds, Serbia and Greece are the only teams with perfect scores. The Netherlands, Azerbaijan, ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/chess-highlights-this-week-european-teams-russian-championship-and-anand-vs-kasparov",
+         "pubDate" : "Wed, 8 Oct 2025 11:03:00",
+         "title" : "Chess Highlights this Week : European Teams, Russian Championship, and Anand vs Kasparov - "
+      },
+      {
+         "description" : "Applications are invited for funding under the ECF's Grassroots Initiative (fifth tranche). The closing date for applications is 12th November. There have already been 136 applications for support under the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/next-grassroots-assessment-3/",
+         "pubDate" : "Wed, 08 Oct 2025 09:23:56",
+         "title" : "Next Grassroots assessment"
+      },
+      {
          "description" : "You may have seen it before. In this very famous position, composed almost exactly a century ago, it is White to play and draw. Which do you think is the stupidest move White could make. Right, that is the solution - it is the only move that saves the game. Problem expert Werner Keym illustrates this in a book which he has made available, as an eBook, to everyone, free of charge. Here are some excerpts to give you a taste. You can play them out on the diagrams we provide.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +66,7 @@ news_feed (
          "title" : "Clutch Chess: The Legends - Games and Results"
       },
       {
-         "description" : "Nabbollini, student of GM Arturs Neiksans, won the u800 round-robin tournament in the inaugural CoachChamps 2025. Though he won with a 5.5/7 score, it wasn&#39;t totally smooth sailing. Hhart10k, IM Levy Rozman&#39;s student, beat him in the penultimate r...",
+         "description" : "Nabbollini, student of GM Arturs Neiksans, won the Under 800 round-robin tournament in the inaugural CoachChamps 2025. Though he won with a 5.5/7 score, it wasn&#39;t totally smooth sailing. Hhart10k, IM Levy Rozman&#39;s student, beat him in the penultim...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-coachchamps-group-1",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/nine-year-old-sarbartho-mani-bags-bronze-in-world-cadet-chess-championship-in-kazakhstan/articleshow/124365152.cms",
          "pubDate" : "Tue, 07 Oct 2025 13:58:44",
          "title" : "Nine-year-old Sarbartho Mani bags bronze in World Cadet Chess C'ship"
-      },
-      {
-         "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championships-live",
-         "pubDate" : "Tue, 07 Oct 2025 13:00:00",
-         "title" : "European Team Championships - Live!"
       },
       {
          "description" : "GM Alireza Firouzja won a tense Titled Tuesday on October 7, taking it on tiebreaks ahead of GM Ian Nepomniachtchi and GM Jan-Krzysztof Duda after they all posted a 9.5/11 score. GM Xiao Tong, a 16-year old grandmaster rated over 3100 in Chess.com...",
