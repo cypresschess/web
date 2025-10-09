@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and James Dash for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-2-vishy-fails-to-find-his-form/\">POSTGAME DAY 2: Vishy Fails to Find His Form | #KasparovAnand</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-2-vishy-fails-to-find-his-form/",
+         "pubDate" : "Thu, 09 Oct 2025 21:19:36",
+         "title" : "POSTGAME DAY 2: Vishy Fails to Find His Form | #KasparovAnand"
+      },
+      {
          "description" : "Two former world champions, Viswanathan Anand and Garry Kasparov, face each other in \"Clutch Chess: The Legends\", a 12-game chess960 exhibition match held from 8 to 10 October at the newly expanded Saint Louis Chess Club. The event features rapid and blitz games with increasing point values and prize stakes each day. | Follow the action live starting at 19.00 CEST (13.00 ET, 10.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-not-an-official-sport-in-norway",
          "pubDate" : "Thu, 09 Oct 2025 16:01:00",
          "title" : "Chess - not an official sport in Norway"
+      },
+      {
+         "description" : "KiriyamaKazuo, coached by IM David Pruess, won the u1600 tournament of CoachChamps 2025 with 6/7. With only one loss in round four, against frank, coached by WGM Dina Belenkaya, he otherwise kept control throughout the entire event. At the top o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-coachchamps-group-3",
+         "pubDate" : "Thu, 09 Oct 2025 14:47:53",
+         "title" : "KiriyamaKazuo, Coached By Pruess, Wins U1600 Group; Belenkaya Leads Coaches"
       },
       {
          "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
@@ -632,14 +648,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-grand-chess-tour-finals-day-3",
          "pubDate" : "Tue, 30 Sep 2025 18:57:00",
          "title" : "Caruana, Vachier-Lagrave Advance To Title Match"
-      },
-      {
-         "description" : "GM Magnus Carlsen, perhaps the greatest player to ever play the game, has become a father for the first time. The five-time world champion and his wife Ella Victoria Carlsen have welcomed their first child on September 27. The joyful news was fi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-ella-victoria-carlsen-welcome-first-child",
-         "pubDate" : "Tue, 30 Sep 2025 13:22:00",
-         "title" : "Magnus Carlsen & Wife Ella Victoria Welcome First Child"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124233435.cms\" />FIDE is implementing a major rating system change from October 1, removing the 400-point rule for players rated 2650 and above. This reform means top grandmasters will gain minimal points against significantly lower-rated opponents, but face substantial penalties for draws or losses, aiming to curb \"rating farming\" and encourage competition among peers.",
