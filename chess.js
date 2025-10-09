@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championships-live",
+         "pubDate" : "Thu, 09 Oct 2025 13:00:00",
+         "title" : "European Team Championships - Live!"
+      },
+      {
+         "description" : "Defending champions Serbia took the sole lead in the open section of the European Team Chess Championship after defeating Greece in round four, their fourth consecutive 2&frac12;-1&frac12; victory. Ukraine moved into clear second place by beating top seeds Germany, while seven teams now share third. In the women's event, Poland and Germany remain perfect on 8/8 match points, with Bulgaria, Georgia, Ukraine and France two points behind. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2025-4",
+         "pubDate" : "Thu, 09 Oct 2025 12:10:00",
+         "title" : "Euro Teams: Serbia grab sole lead, Ukraine close behind"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124404630.cms\" />Vaishali Rameshbabu, a top Indian Grandmaster, nearly withdrew from a major tournament after a string of losses. Her childhood coach, RB Ramesh, enlisted fellow Grandmaster Karthikeyan Murali, known as \"Karthi Anna,\" to encourage her. His timely support helped Vaishali regain confidence, defend her title, and secure a spot in the Women's Candidates 2026.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/from-fathers-surgery-to-playing-silent-role-in-r-vaishalis-grand-swiss-glory-the-story-of-karthi-anna/articleshow/124404630.cms",
          "pubDate" : "Thu, 09 Oct 2025 04:41:01",
          "title" : "From father's surgery to playing silent role in R Vaishali's Grand Swiss glory: The story of 'Karthi Anna'"
+      },
+      {
+         "description" : "13th World Champion Garry Kasparov leads 15th World Champion Viswanathan Anand 2.5-1.5 after day one of the 2025 Clutch Chess Legends, a three-day clash taking place 30 years after their world championship match. After two draws in rapid chess, Ka...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-clutch-chess-legends-kasparov-anand-day-1",
+         "pubDate" : "Thu, 09 Oct 2025 01:56:00",
+         "title" : "Kasparov Leads Anand As Legends Clash In New Saint Louis Chess Club"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and James Dash for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-1-kasparovanand/\">POSTGAME DAY 1: Fireworks Have Just Begun! | #KasparovAnand</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-coachchamps-group-2",
          "pubDate" : "Wed, 08 Oct 2025 13:23:00",
          "title" : "GothamChess Leads CoachChamps After Student, QQQ1M, Dominates Day 2"
-      },
-      {
-         "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championships-live",
-         "pubDate" : "Wed, 08 Oct 2025 13:00:00",
-         "title" : "European Team Championships - Live!"
       },
       {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/25th-european-teams-2025\">European Team Championships</a> got underway on Sunday. This is still one of the highlights of the chess calendar. If you're looking for high-quality, motivated chess, this is your tournament. Russia is absent due to the war in Ukraine (or, if you prefer, because it now belongs to the Asian Federation), and Norway couldn't afford to send a team, but quality is everywhere. Top-seeded Germany lost to 21st-seeded Denmark. They outrated them on every board, but not by so much that the result was outrageous. After three rounds, Serbia and Greece are the only teams with perfect scores. The Netherlands, Azerbaijan, ",
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://aicf.in/fide-arbiters-seminar-in-madgaon-goa-india-from-19-21-sept-2025-report/",
          "pubDate" : "Tue, 30 Sep 2025 09:56:38",
          "title" : "FIDE Arbiters' Seminar in Madgaon, Goa (India) from 19-21 Sept 2025 . Report"
-      },
-      {
-         "description" : "FM James Canty III is the Super Heavyweight Chessboxing World Champion after winning two chess-and-boxing bouts in the 7th World Chessboxing Championships in Loznica, Serbia. He ducked and weaved in the ring and was just too fast for his opponents...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/james-canty-chessboxing-world-champion",
-         "pubDate" : "Tue, 30 Sep 2025 09:46:00",
-         "title" : "James Canty Wins Heavyweight Chessboxing World Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124215591.cms\" />American Gambits revealed their Global Chess League Season 3 draft strategy. They retained Hikaru Nakamura and Bibisara Assaubayeva. Richard Rapport, Vladislav Artemiev, and Teodora Injac joined the team. They acquired prodigy Volodar Murzin but failed to secure Arjun Erigaisi after a bidding contest. The team aims to win the trophy and strengthen its brand this season.",
