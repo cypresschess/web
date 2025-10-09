@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124404630.cms\" />Vaishali Rameshbabu, a top Indian Grandmaster, nearly withdrew from a major tournament after a string of losses. Her childhood coach, RB Ramesh, enlisted fellow Grandmaster Karthikeyan Murali, known as \"Karthi Anna,\" to encourage her. His timely support helped Vaishali regain confidence, defend her title, and secure a spot in the Women's Candidates 2026.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/from-fathers-surgery-to-playing-silent-role-in-r-vaishalis-grand-swiss-glory-the-story-of-karthi-anna/articleshow/124404630.cms",
+         "pubDate" : "Thu, 09 Oct 2025 04:41:01",
+         "title" : "From father's surgery to playing silent role in R Vaishali's Grand Swiss glory: The story of 'Karthi Anna'"
+      },
+      {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and James Dash for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-1-kasparovanand/\">POSTGAME DAY 1: Fireworks Have Just Begun! | #KasparovAnand</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -706,14 +714,6 @@ news_feed (
          "title" : "Report on GM Coaching Camp, Raipur from 11-17 Sept.2025Report on GM Coaching Camp, Raipur ,Chhattisgarh (11-17 September 2025)"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124089971.cms\" />World Champion D Gukesh, alongside chess legend Viswanathan Anand and R Praggnanandhaa, will headline the Global Chess League (GCL) Season 3. The player draft is scheduled for September 26 in Mumbai, with the league taking place in Chennai from December 13-24. While Magnus Carlsen will be absent, top players like Nakamura and Caruana will participate.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-player-draft-on-september-26-d-gukesh-to-headline/articleshow/124089971.cms",
-         "pubDate" : "Wed, 24 Sep 2025 11:03:12",
-         "title" : "Global Chess League player draft on September 26; D Gukesh to headline"
-      },
-      {
          "description" : "Please find the event circular Entry Form Payment link: https://prs.aicf.in/pay",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -784,22 +784,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/sep/19/chess-draw-king-anish-giri-grinds-to-90000-prize-at-grand-swiss-on-the-silk-road",
          "pubDate" : "Fri, 19 Sep 2025 07:00:38",
          "title" : "Chess: draw king Anish Giri grinds to $90,000 prize at Grand Swiss on the Silk Road"
-      },
-      {
-         "description" : "The new Coventry International will take place from Sunday 26th October to Friday 31st October 2025 at the Holiday Inn Coventry M6, JCT.2 in Coventry. The hotel is familiar to...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2025-coventry-international/",
-         "pubDate" : "Thu, 18 Sep 2025 06:30:58",
-         "title" : "2025 Coventry International"
-      },
-      {
-         "description" : "The UK Open Blitz Championship returns in 2025, featuring an expanded format with 16 qualifiers in 14 cities around the United Kingdom. Eldar Gasanov will be aiming for a hat-trick...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/uk-open-blitz-championship-2025/",
-         "pubDate" : "Thu, 18 Sep 2025 06:00:21",
-         "title" : "UK Open Blitz Championship 2025"
       }
    ]
 }
