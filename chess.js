@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and James Dash for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-1-kasparovanand/\">POSTGAME DAY 1: Fireworks Have Just Begun! | #KasparovAnand</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-1-kasparovanand/",
+         "pubDate" : "Thu, 09 Oct 2025 00:19:43",
+         "title" : "POSTGAME DAY 1: Fireworks Have Just Begun! | #KasparovAnand"
+      },
+      {
          "description" : "Two former world champions, Viswanathan Anand and Garry Kasparov, face each other in \"Clutch Chess: The Legends\", a 12-game chess960 exhibition match held from 8 to 10 October at the newly expanded Saint Louis Chess Club. The event features rapid and blitz games with increasing point values and prize stakes each day. | Follow the action live starting at 22.00 CEST (16.00 ET, 1.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
