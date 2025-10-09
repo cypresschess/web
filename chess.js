@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two former world champions, Viswanathan Anand and Garry Kasparov, face each other in \"Clutch Chess: The Legends\", a 12-game chess960 exhibition match held from 8 to 10 October at the newly expanded Saint Louis Chess Club. The event features rapid and blitz games with increasing point values and prize stakes each day. | Follow the action live starting at 19.00 CEST (13.00 ET, 10.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clutch-chess-2025-live",
+         "pubDate" : "Thu, 09 Oct 2025 18:45:00",
+         "title" : "Clutch Chess: Kasparov v. Anand - Live!"
+      },
+      {
+         "description" : "Five rounds have been played at the European Team Chess Championship 2025 and the tournament reached its midpoint. Heading into the 6th round, Ukraine emerged as the sole leader of the Open section, while Poland took the sole lead in the Women's Championship. The team of Ukraine defeated the defending Champions Serbia. GM Ihor Samunenkov (UKR, 2568) brought the initial lead to Ukraine, after defeating GM Robert Markus (SRB, 2535). The position was roughly equal when Markus badly blundered []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ukraine-and-poland-take-sole-lead-in-european-open-and-womens-team-chess-championships-2025/",
+         "pubDate" : "Thu, 09 Oct 2025 18:18:29",
+         "title" : "Ukraine and Poland take sole lead in European Open and Women's Team Chess Championships 2025"
+      },
+      {
          "description" : "One country is missing from the European Team Chess Championship in Batumi. Norway, home to the world's best chess player, is not represented in either the open or women's tournaments. The reason for this is purely financial. The Norwegian Chess Federation has very limited funds at its disposal. And there is a specific reason for this.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-1-kasparovanand/",
          "pubDate" : "Thu, 09 Oct 2025 00:19:43",
          "title" : "POSTGAME DAY 1: Fireworks Have Just Begun! | #KasparovAnand"
-      },
-      {
-         "description" : "Two former world champions, Viswanathan Anand and Garry Kasparov, face each other in \"Clutch Chess: The Legends\", a 12-game chess960 exhibition match held from 8 to 10 October at the newly expanded Saint Louis Chess Club. The event features rapid and blitz games with increasing point values and prize stakes each day. | Follow the action live starting at 22.00 CEST (16.00 ET, 1.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-2025-live",
-         "pubDate" : "Wed, 08 Oct 2025 21:45:00",
-         "title" : "Clutch Chess: Kasparov v. Anand - Live!"
       },
       {
          "description" : "Four rounds have been already played at the European Team Chess Championship 2025, and only a few teams kept the perfect score of 8 match points. Defending Champions, Serbia, scored the fourth consecutive win in the tournament to emerge as the sole leader of the European Team Chess Championship 2025. Serbian team narrowly defeated Greece, with the final score of 2.5-1.5. The first game to finish was played on the first board, where GM Alexandr Predke (SRB, 2634) shockingly lost []",
