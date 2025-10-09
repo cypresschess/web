@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One country is missing from the European Team Chess Championship in Batumi. Norway, home to the world's best chess player, is not represented in either the open or women's tournaments. The reason for this is purely financial. The Norwegian Chess Federation has very limited funds at its disposal. And there is a specific reason for this.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-not-an-official-sport-in-norway",
+         "pubDate" : "Thu, 09 Oct 2025 16:01:00",
+         "title" : "Chess - not an official sport in Norway"
+      },
+      {
          "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-team-championships-live",
          "pubDate" : "Thu, 09 Oct 2025 13:00:00",
          "title" : "European Team Championships - Live!"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation , Maharashtra Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Children's Welfare School Versova Andheri West Mumbai-400061",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-and-exam-in-maharashtra-on-01-02-november-2025/",
+         "pubDate" : "Thu, 09 Oct 2025 12:42:51",
+         "title" : "SNA seminar and Exam in Andheri West Mumbai, Maharashtra on 01 & 02 November 2025"
+      },
+      {
+         "description" : "Please find the certificates .For any query please write back to indianchessfed@gmail.com Rank Under 13 Rank Under 13 Girls 1 Badole Shaunak 1 Modipalli Deekshitha",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-national-under-13-chess-championship-2025-in-goa/",
+         "pubDate" : "Thu, 09 Oct 2025 12:37:28",
+         "title" : "Certificate: National Under 13 Chess Championship 2025 in Goa ."
       },
       {
          "description" : "Defending champions Serbia took the sole lead in the open section of the European Team Chess Championship after defeating Greece in round four, their fourth consecutive 2&frac12;-1&frac12; victory. Ukraine moved into clear second place by beating top seeds Germany, while seven teams now share third. In the women's event, Poland and Germany remain perfect on 8/8 match points, with Bulgaria, Georgia, Ukraine and France two points behind. | Photos: European Chess Union",
@@ -18,6 +42,14 @@ news_feed (
          "title" : "Euro Teams: Serbia grab sole lead, Ukraine close behind"
       },
       {
+         "description" : "We&#39;re excited to announce a series of changes to improve your puzzle-solving experience! We&#39;ve reworked our Puzzles rating system so it&#39;s more reliable&#38;mdash;giving you smoother level progression and generally more satisfying experience when solvi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-new-puzzles-rating-system",
+         "pubDate" : "Thu, 09 Oct 2025 08:00:33",
+         "title" : "New Puzzles Ratings, Difficulty Settings, And More Consistent Experience"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124404630.cms\" />Vaishali Rameshbabu, a top Indian Grandmaster, nearly withdrew from a major tournament after a string of losses. Her childhood coach, RB Ramesh, enlisted fellow Grandmaster Karthikeyan Murali, known as \"Karthi Anna,\" to encourage her. His timely support helped Vaishali regain confidence, defend her title, and secure a spot in the Women's Candidates 2026.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -26,7 +58,7 @@ news_feed (
          "title" : "From father's surgery to playing silent role in R Vaishali's Grand Swiss glory: The story of 'Karthi Anna'"
       },
       {
-         "description" : "13th World Champion Garry Kasparov leads 15th World Champion Viswanathan Anand 2.5-1.5 after day one of the 2025 Clutch Chess Legends, a three-day clash taking place 30 years after their world championship match. After two draws in rapid chess, Ka...",
+         "description" : "Thirteenth World Champion Garry Kasparov leads 15th World Champion Viswanathan Anand 2.5-1.5 after day one of the 2025 Clutch Chess Legends, a three-day clash taking place 30 years after their world championship match. After two draws in rapid che...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-clutch-chess-legends-kasparov-anand-day-1",
@@ -610,14 +642,6 @@ news_feed (
          "title" : "Nakamura 'triggers' FIDE rating system change: How will it affect top GM's?"
       },
       {
-         "description" : "&#34;HN&#34; won another Titled Tuesday on September 30, but this time it was GM Hans Niemann who took home the victory, while last week&#39;s winner GM Hikaru Nakamura was runner-up this week. Only two draws kept the undefeated Niemann from a perfect score, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/niemann-wins-titled-tuesday-september-30-2025",
-         "pubDate" : "Tue, 30 Sep 2025 11:37:38",
-         "title" : "No One Beats Niemann On His Way To Titled Tuesday Victory"
-      },
-      {
          "description" : "Please find the details here",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -768,14 +792,6 @@ news_feed (
          "link" : "https://www.thearticle.com/mickeys-meltdown-in-poland/",
          "pubDate" : "Sat, 20 Sep 2025 09:11:19",
          "title" : "Mickey's meltdown in Poland"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation ,&#160;Tamil Nadu Chess Association&#160;&#160;is organizing Senior National Arbiter Seminar &#38; exam in Prince Shri Venkateshwara Arts &#38; Science",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-and-exam-in-chennai-on-25th-26th-october-2025/",
-         "pubDate" : "Sat, 20 Sep 2025 06:52:33",
-         "title" : "SNA seminar and Exam in Chennai on 25th & 26th October, 2025"
       },
       {
          "description" : "The ECF's Junior Selection Policy has been updated to reflect changes in the way England Juniors will be selected and qualify for major international individual and team events.&#160;The full policy...",
