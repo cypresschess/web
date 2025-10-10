@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fifth round of the European Team Chess Championship in Batumi brought a major shift in both leaderboards. In the open section, Ukraine defeated the defending champions from Serbia to take the sole lead, while in the women's tournament, Poland continued their remarkable run, becoming the only team still on a perfect score after overcoming Germany in the day's top match. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2025-5",
+         "pubDate" : "Fri, 10 Oct 2025 02:10:00",
+         "title" : "Euro Teams: Ukraine take down Serbia in the open, Poland still perfect in the women's"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124442012.cms\" />Chess legend Garry Kasparov, at 62, has taken a 2.5-1.5 lead against Viswanathan Anand in the Clutch Chess series. After two draws, Kasparov secured a crucial win in the third game, showcasing his enduring skill. The high-stakes contest, featuring a $144,000 prize pool, intensifies with escalating point values for victories on subsequent days.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/garry-kasparov-stuns-viswanathan-anand-on-day-1-of-clutch-chess-takes-early-lead/articleshow/124442012.cms",
+         "pubDate" : "Fri, 10 Oct 2025 01:43:54",
+         "title" : "Garry Kasparov stuns Viswanathan Anand on Day 1 of Clutch Chess, takes early lead"
+      },
+      {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and James Dash for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-2-vishy-fails-to-find-his-form/\">POSTGAME DAY 2: Vishy Fails to Find His Form | #KasparovAnand</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -26,6 +42,14 @@ news_feed (
          "title" : "Ukraine and Poland take sole lead in European Open and Women's Team Chess Championships 2025"
       },
       {
+         "description" : "GM&#38;nbsp;Viswanathan Anand had over a minute on his clock in a winning position but lost on time to GM Garry Kasparov as day two of the 2025 Clutch Chess Legends got off to the worst possible start for the Indian legend. Kasparov went on to dominat...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-clutch-chess-legends-kasparov-anand-day-2",
+         "pubDate" : "Thu, 09 Oct 2025 16:56:00",
+         "title" : "Kasparov Takes 5-Point Lead As Anand's Nightmare Continues"
+      },
+      {
          "description" : "One country is missing from the European Team Chess Championship in Batumi. Norway, home to the world's best chess player, is not represented in either the open or women's tournaments. The reason for this is purely financial. The Norwegian Chess Federation has very limited funds at its disposal. And there is a specific reason for this.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-coachchamps-group-3",
          "pubDate" : "Thu, 09 Oct 2025 14:47:53",
          "title" : "KiriyamaKazuo, Coached By Pruess, Wins U1600 Group; Belenkaya Leads Coaches"
-      },
-      {
-         "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championships-live",
-         "pubDate" : "Thu, 09 Oct 2025 13:00:00",
-         "title" : "European Team Championships - Live!"
       },
       {
          "description" : "On behalf of All India Chess Federation , Maharashtra Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Children's Welfare School Versova Andheri West Mumbai-400061",
@@ -642,14 +658,6 @@ news_feed (
          "title" : "New dad alert! Magnus Carlsen welcomes baby; FIDE's post has everyone talking"
       },
       {
-         "description" : "GMs Fabiano Caruana and Maxime Vachier-Lagrave will play the title match of the 2025 Grand Chess Tour Finals. Caruana won his match 15-13 against GM Levon Aronian, while Vachier-Lagrave won 17-11 against GM Praggnanandhaa Rameshbabu. In a cruel tu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-grand-chess-tour-finals-day-3",
-         "pubDate" : "Tue, 30 Sep 2025 18:57:00",
-         "title" : "Caruana, Vachier-Lagrave Advance To Title Match"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124233435.cms\" />FIDE is implementing a major rating system change from October 1, removing the 400-point rule for players rated 2650 and above. This reform means top grandmasters will gain minimal points against significantly lower-rated opponents, but face substantial penalties for draws or losses, aiming to curb \"rating farming\" and encourage competition among peers.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://aicf.in/ongc-sports-scholarship-2025-26/",
          "pubDate" : "Fri, 26 Sep 2025 07:42:27",
          "title" : "ONGC Sports Scholarship 2025-26 "
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124148780.cms\" />Indian chess prodigy R Praggnanandhaa, fresh off his Sinquefield Cup performance and Tata Masters win, unwinds by playing Jenga, showcasing his ability to balance focus and relaxation. His recent achievements, including a rivalry with D. Gukesh, highlight India's growing chess prominence.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tests-your-nerves-r-praggnanandhaa-plays-jenga-with-friends-to-unwind-watch/articleshow/124148780.cms",
-         "pubDate" : "Fri, 26 Sep 2025 07:12:31",
-         "title" : "'Tests your nerves': R Praggnanandhaa plays jenga with friends to unwind - watch"
       },
       {
          "description" : " Schoolboy also beat three international masters and made a huge ratings gain, but was edged out in the final round Interest in English one-day blitz tournaments is growing rapidly. They offer the chance to compete in officially ranked events with many rounds without the financial pressures of overnight accommodation, and give amateurs and juniors a rare chance to take on established masters, with a chance of an upset result. This year the English Chess Federation has doubled the number of qualifying events for the UK Blitz Championship, whose final is at Leamington in November, from eight to 16, and organised three qualifiers in Greater London rather than just one. All three tournaments, in",
