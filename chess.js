@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two former world champions, Viswanathan Anand and Garry Kasparov, face each other in \"Clutch Chess: The Legends\", a 12-game chess960 exhibition match held from 8 to 10 October at the newly expanded Saint Louis Chess Club. The event features rapid and blitz games with increasing point values and prize stakes each day. | Follow the action live starting at 19.00 CEST (13.00 ET, 10.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clutch-chess-2025-live",
+         "pubDate" : "Fri, 10 Oct 2025 18:45:00",
+         "title" : "Clutch Chess: Kasparov v. Anand - Live!"
+      },
+      {
+         "description" : "The sixth round was played today at the European Team Chess Championship 2025, and Ukraine and Poland kept their sole lead in the Open and Women's sections (respectively). Ukraine scored a narrow victory against France today, thanks to GM Igor Kovalenko's (UKR, 2669) win over GM Pierre Laurent-Paoli (FRA, 2570). GM Ruslan Ponomariov (UKR, 2633) had a nice chance to win the game against GM Marc'Andria Maurizzi (FRA, 2624) but missed the motive to transpose into winning pawns endgame, and []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ukraine-and-poland-keep-the-sole-lead-in-european-open-and-womens-team-chess-championships-2025/",
+         "pubDate" : "Fri, 10 Oct 2025 18:37:16",
+         "title" : "Ukraine and Poland keep the sole lead in European Open and Women's Team Chess Championships 2025"
+      },
+      {
+         "description" : " England, seeded fifth among 40 teams at the start, were fifth after six of nine rounds while England women, seeded 12th among 36, were 11th England's open team jumped into an outside medal chance on Friday as this week's European championships at Batumi, Georgia, passed the halfway mark. However, with only three rounds left after Saturday's rest day, they still have to meet the front runners from Ukraine and the Netherlands. Leaders after six of the nine rounds: <strong>Open:</strong> 1 Ukraine 11 match points (15 game points), 2 Netherlands 10 (15.5), 3 Azerbaijan 9 (14). <strong>Also:</strong> 5 England 8 (14). <strong>Women:</strong> 1 Poland 12 (16.5), 2 Germany 9 (14), 3 Ukraine 9 (15,",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/oct/10/chess-england-in-midfield-at-european-championships-and-medals-appear-unlikely",
+         "pubDate" : "Fri, 10 Oct 2025 18:34:10",
+         "title" : "Chess: England jump to fifth at European championships, with outside medal chance"
+      },
+      {
          "description" : "Garry Kasparov increased his advantage over Viswanathan Anand to 8&frac12;-3&frac12; after the second day of their chess960 match in Saint Louis. The 13th world champion capitalised on Anand's time forfeiture in the first game and later added another win in the blitz section. The day's results left Kasparov firmly ahead, though twelve points remain at stake in the final session of the exhibition match. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +50,14 @@ news_feed (
          "title" : "European Team Championships - Live!"
       },
       {
+         "description" : "GM Arjun Erigaisi, who won three straight Freestyle Fridays in February and March, finally got back in the win column in the tournament on October 10 for his long-awaited fourth victory. The undefeated Arjun&#39;s 9.5 points were enough to win outrigh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-wins-freestyle-friday-october-10-2025",
+         "pubDate" : "Fri, 10 Oct 2025 10:51:00",
+         "title" : "Arjun Freestyles Into Four-Time Friday Champion"
+      },
+      {
          "description" : "Rejoice, daily chess fans: The 2026 Chess.com Daily Chess Championship (DCC) is now open for registration! It will soon be that time again for one of the biggest events of the Chess.com calendar. But even if you&#39;ve never played daily chess before,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -48,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-monthly-dragon-to-be-or-not-to-be-bb3",
          "pubDate" : "Fri, 10 Oct 2025 07:25:35",
          "title" : "The Monthly Dragon - To be or not to be Bb3"
-      },
-      {
-         "description" : " England, seeded fifth among 40 teams at the start, were 12th at halfway, while England women, seeded 12th among 36, were 10th England's open and women's teams looked unlikely to contend for medals on Thursday, as this week's European championships at Batumi, Georgia, passed the halfway mark. Leaders after five of the nine rounds: Open: 1 Ukraine 9 match points (12.5 game points), 2 Netherlands 8 (12.5), 3 Serbia 8 (11). Also: 12 England 6 (11). Women: 1 Poland 10 (13.5), 2 Georgia 8 (14), 3 Germany 8 (12). Also: 10 England 6 (11,5). <a href=\"https://www.theguardian.com/sport/2025/oct/10/chess-england-in-midfield-at-european-championships-and-medals-appear-unlikely\">Continue reading...</a>",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/oct/10/chess-england-in-midfield-at-european-championships-and-medals-appear-unlikely",
-         "pubDate" : "Fri, 10 Oct 2025 07:00:48",
-         "title" : "Chess: England in midfield at European championships and medals appear unlikely"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124446426.cms\" />Viswanathan Anand missed crucial opportunities against Garry Kasparov in the Clutch Chess Legends, allowing the Russian to extend his lead. Anand's time trouble and blunders contributed to his losses, though he still has a mathematical chance on the final day. Kasparov expressed surprise at his good fortune.",
@@ -134,7 +158,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-new-puzzles-rating-system",
-         "pubDate" : "Thu, 09 Oct 2025 08:00:33",
+         "pubDate" : "Thu, 09 Oct 2025 08:00:00",
          "title" : "New Puzzles Ratings, Difficulty Settings, And More Consistent Experience"
       },
       {
@@ -648,14 +672,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-grand-chess-tour-finals-day-4",
          "pubDate" : "Wed, 01 Oct 2025 20:50:00",
          "title" : "Vachier-Lagrave Survives After 89 Moves"
-      },
-      {
-         "description" : "GM Hikaru Nakamura&#39;s wins in state championships have taken him back to 2816, a peak he reached exactly a decade ago, but also provoked FIDE to change its rules. Elsewhere GM Anish Giri&#39;s victory in the FIDE Grand Swiss took him up to world number...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/october-2025-fide-ratings",
-         "pubDate" : "Wed, 01 Oct 2025 13:43:00",
-         "title" : "October 2025 FIDE Ratings: Nakamura Hits Peak, Giri Replaces Gukesh In Top 10"
       },
       {
          "description" : "Sharvaanica A.S. was leading by half a point before the start of the final round, where a draw would have been enough for her to",
