@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The delayed September edition reviews a single slow-play game in the mainline Sicilian Dragon, Yugoslav Attack with Bc4 and 10.Bb3. Chris outlines White's three plans: all-out h4-h5, positional a4, or the \"halfway house\", and shows the typical imbalances after Bxe6 followed by fxe6 and the tactical motif Rb4. But, our viewers have to be strong, since this episode it is White who actually wins | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-to-be-or-not-to-be-bb3",
+         "pubDate" : "Fri, 10 Oct 2025 07:25:35",
+         "title" : "The Monthly Dragon - To be or not to be Bb3"
+      },
+      {
+         "description" : " England, seeded fifth among 40 teams at the start, were 12th at halfway, while England women, seeded 12th among 36, were 10th England's open and women's teams looked unlikely to contend for medals on Thursday, as this week's European championships at Batumi, Georgia, passed the halfway mark. Leaders after five of the nine rounds: Open: 1 Ukraine 9 match points (12.5 game points), 2 Netherlands 8 (12.5), 3 Serbia 8 (11). Also: 12 England 6 (11). Women: 1 Poland 10 (13.5), 2 Georgia 8 (14), 3 Germany 8 (12). Also: 10 England 6 (11,5). <a href=\"https://www.theguardian.com/sport/2025/oct/10/chess-england-in-midfield-at-european-championships-and-medals-appear-unlikely\">Continue reading...</a>",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/oct/10/chess-england-in-midfield-at-european-championships-and-medals-appear-unlikely",
+         "pubDate" : "Fri, 10 Oct 2025 07:00:48",
+         "title" : "Chess: England in midfield at European championships and medals appear unlikely"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124446426.cms\" />Viswanathan Anand missed crucial opportunities against Garry Kasparov in the Clutch Chess Legends, allowing the Russian to extend his lead. Anand's time trouble and blunders contributed to his losses, though he still has a mathematical chance on the final day. Kasparov expressed surprise at his good fortune.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-misses-key-chances-as-kasparov-extends-lead-in-clutch-chess-legends/articleshow/124446426.cms",
+         "pubDate" : "Fri, 10 Oct 2025 06:38:15",
+         "title" : "Anand misses key chances as Kasparov extends lead in Clutch Chess Legends"
+      },
+      {
          "description" : "The fifth round of the European Team Chess Championship in Batumi brought a major shift in both leaderboards. In the open section, Ukraine defeated the defending champions from Serbia to take the sole lead, while in the women's tournament, Poland continued their remarkable run, becoming the only team still on a perfect score after overcoming Germany in the day's top match. | Photos: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -722,14 +746,6 @@ news_feed (
          "title" : "Codebreakers, prophets and freedom of speech"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124160734.cms\" />The Global Chess League Season 3 player draft in Mumbai saw World Champion Gukesh and Arjun Erigaisi unite with PBG Alaskan Knights, while Wesley So joined Mumba Masters. The league, featuring top international and Indian talents, is set to debut in India from December 13-24, 2025, at the Royal Opera House.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-2025-player-draft-who-picked-d-gukesh-r-praggnanandhaa-all-you-need-to-know/articleshow/124160734.cms",
-         "pubDate" : "Fri, 26 Sep 2025 13:40:04",
-         "title" : "GCL 2025 draft: Who picked Gukesh, Pragg? All you need to know"
-      },
-      {
          "description" : " The Legends and Prodigies tournament took place Wed 17th Sep 2025 to Thu 25th Sep 2025. The event had four young players Diego Macias Pino (born 2007), Lu Miaoyi (2010 who had to withdraw at the half way stage), Ilan Schnaider (2011) and the player of the moment 11 year old Faustino Oro (2013). These were pitted against older players Julio Granda Zuniga, Omar Almeida Quintana, Jose Fernando Cuenca Jimenez, David Larino Nieto, Pedro Ramon Martinez Reyes and Alan Pichot. The event was dominated by Oro who conceded just three draws and won all sorts of games. This result reminds me of Carlsen's win and first GM norm in the Wijk aan Zee C tournament at the age of 13 in 2004 when it was no longe",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -816,14 +832,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/updated-ecf-junior-selection-policy/",
          "pubDate" : "Fri, 19 Sep 2025 14:22:37",
          "title" : "Updated ECF Junior Selection Policy"
-      },
-      {
-         "description" : " The five-time Dutch champion and Germany's No 2, Matthias Bl&uuml;baum, were surprise qualifiers for the world title Candidates ahead of several more fancied rivals The $625,000 Grand Swiss in Samarkand, on the ancient Silk Road, was a hard-fought race for two qualifying spots in the 2026 world title Candidates, yet paradoxically it ended with victories for one grandmaster with a reputation for halved games and for another who nobody expected to do well. Anish Giri, the Netherlands No 1, took the $90,000 first prize with an unbeaten 8/11 total. The five-time Dutch champion's key game was in the final round against Hans Niemann, when the controversial American, who himself needed to win, had",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/sep/19/chess-draw-king-anish-giri-grinds-to-90000-prize-at-grand-swiss-on-the-silk-road",
-         "pubDate" : "Fri, 19 Sep 2025 07:00:38",
-         "title" : "Chess: draw king Anish Giri grinds to $90,000 prize at Grand Swiss on the Silk Road"
       }
    ]
 }
