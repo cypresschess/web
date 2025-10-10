@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Garry Kasparov increased his advantage over Viswanathan Anand to 8&frac12;-3&frac12; after the second day of their chess960 match in Saint Louis. The 13th world champion capitalised on Anand's time forfeiture in the first game and later added another win in the blitz section. The day's results left Kasparov firmly ahead, though twelve points remain at stake in the final session of the exhibition match. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clutch-chess-2025-2",
+         "pubDate" : "Fri, 10 Oct 2025 16:25:00",
+         "title" : "Clutch Chess: Kasparov gets lucky break, leads Anand by five points"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124455889.cms\" />Argentinian prodigy Faustino Oro, dubbed the 'Messi of Chess', and Indian GM Pranesh M are among 12 Grandmasters and International Masters joining the GCL Contenders 2025 Knockout Challengers Round. Over 11,500 players initially registered, with top performers now set to compete against these elite players for ambassador spots in the Global Chess League season 3.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-lionel-messi-of-chess-faustino-oro-indias-m-pranesh-among-gms-joining-gcl-contenders-2025-knock-out-challengers/articleshow/124455889.cms",
+         "pubDate" : "Fri, 10 Oct 2025 13:47:46",
+         "title" : "GCL: 'Lionel Messi of chess' Oro, Pranesh among GMs joining Contenders"
+      },
+      {
          "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-team-championships-live",
          "pubDate" : "Fri, 10 Oct 2025 13:00:00",
          "title" : "European Team Championships - Live!"
+      },
+      {
+         "description" : "Rejoice, daily chess fans: The 2026 Chess.com Daily Chess Championship (DCC) is now open for registration! It will soon be that time again for one of the biggest events of the Chess.com calendar. But even if you&#39;ve never played daily chess before,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daily-chess-championship-2026",
+         "pubDate" : "Fri, 10 Oct 2025 08:00:00",
+         "title" : "Register Now For the 2026 Daily Chess Championship"
+      },
+      {
+         "description" : "The Ukrainian Open Team and the Polish Women&#39;s team lead the 2025 European Team Championships after round five of the nine-round event. The tournament is a semi-annual competition between European nations and a good test for countries to test line...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-european-team-championship-rounds-1-5",
+         "pubDate" : "Fri, 10 Oct 2025 07:45:00",
+         "title" : "Ukraine, Poland Lead European Team Championships At Halfway Point"
       },
       {
          "description" : "The delayed September edition reviews a single slow-play game in the mainline Sicilian Dragon, Yugoslav Attack with Bc4 and 10.Bb3. Chris outlines White's three plans: all-out h4-h5, positional a4, or the \"halfway house\", and shows the typical imbalances after Bxe6 followed by fxe6 and the tactical motif Rb4. But, our viewers have to be strong, since this episode it is White who actually wins | Photo: John Upham",
@@ -34,14 +66,6 @@ news_feed (
          "title" : "Anand misses key chances as Kasparov extends lead in Clutch Chess Legends"
       },
       {
-         "description" : "The fifth round of the European Team Chess Championship in Batumi brought a major shift in both leaderboards. In the open section, Ukraine defeated the defending champions from Serbia to take the sole lead, while in the women's tournament, Poland continued their remarkable run, becoming the only team still on a perfect score after overcoming Germany in the day's top match. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2025-5",
-         "pubDate" : "Fri, 10 Oct 2025 02:10:00",
-         "title" : "Euro Teams: Ukraine take down Serbia in the open, Poland still perfect in the women's"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124442012.cms\" />Chess legend Garry Kasparov, at 62, has taken a 2.5-1.5 lead against Viswanathan Anand in the Clutch Chess series. After two draws, Kasparov secured a crucial win in the third game, showcasing his enduring skill. The high-stakes contest, featuring a $144,000 prize pool, intensifies with escalating point values for victories on subsequent days.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-2-vishy-fails-to-find-his-form/",
          "pubDate" : "Thu, 09 Oct 2025 21:19:36",
          "title" : "POSTGAME DAY 2: Vishy Fails to Find His Form | #KasparovAnand"
-      },
-      {
-         "description" : "Two former world champions, Viswanathan Anand and Garry Kasparov, face each other in \"Clutch Chess: The Legends\", a 12-game chess960 exhibition match held from 8 to 10 October at the newly expanded Saint Louis Chess Club. The event features rapid and blitz games with increasing point values and prize stakes each day. | Follow the action live starting at 19.00 CEST (13.00 ET, 10.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-2025-live",
-         "pubDate" : "Thu, 09 Oct 2025 18:45:00",
-         "title" : "Clutch Chess: Kasparov v. Anand - Live!"
       },
       {
          "description" : "Five rounds have been played at the European Team Chess Championship 2025 and the tournament reached its midpoint. Heading into the 6th round, Ukraine emerged as the sole leader of the Open section, while Poland took the sole lead in the Women's Championship. The team of Ukraine defeated the defending Champions Serbia. GM Ihor Samunenkov (UKR, 2568) brought the initial lead to Ukraine, after defeating GM Robert Markus (SRB, 2535). The position was roughly equal when Markus badly blundered []",
@@ -114,14 +130,6 @@ news_feed (
          "title" : "Certificate: National Under 13 Chess Championship 2025 in Goa ."
       },
       {
-         "description" : "Defending champions Serbia took the sole lead in the open section of the European Team Chess Championship after defeating Greece in round four, their fourth consecutive 2&frac12;-1&frac12; victory. Ukraine moved into clear second place by beating top seeds Germany, while seven teams now share third. In the women's event, Poland and Germany remain perfect on 8/8 match points, with Bulgaria, Georgia, Ukraine and France two points behind. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2025-4",
-         "pubDate" : "Thu, 09 Oct 2025 12:10:00",
-         "title" : "Euro Teams: Serbia grab sole lead, Ukraine close behind"
-      },
-      {
          "description" : "We&#39;re excited to announce a series of changes to improve your puzzle-solving experience! We&#39;ve reworked our Puzzles rating system so it&#39;s more reliable&#38;mdash;giving you smoother level progression and generally more satisfying experience when solvi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -160,14 +168,6 @@ news_feed (
          "link" : "https://www.europechess.org/serbia-grabs-sole-lead-in-open-poland-and-germany-co-lead-in-womens-section-etcc2025/",
          "pubDate" : "Wed, 08 Oct 2025 20:08:44",
          "title" : "Serbia grabs sole lead in Open, Poland and Germany co-lead in Women's section -#ETCC2025"
-      },
-      {
-         "description" : "Two former world champions, Viswanathan Anand and Garry Kasparov, will face each other in \"Clutch Chess: The Legends\", a 12-game Chess960 exhibition match held from 8 to 10 October at the newly expanded Saint Louis Chess Club. The event will feature rapid and blitz games with increasing point values and prize stakes each day, marking the official reopening of the club's renovated campus and celebrating its role as a global centre for chess. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-2025-preview",
-         "pubDate" : "Wed, 08 Oct 2025 15:50:00",
-         "title" : "Clutch Chess: Kasparov and Anand face off in Chess960 showdown"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124388545.cms\" />Hikaru Nakamura defended tossing D Gukesh's king into the crowd at an exhibition event, stating it was part of the organizers' entertainment format. He clarified it was not an insult, emphasizing the difference between a serious tournament and a purely entertainment-focused match. Nakamura also playfully suggested Gukesh could dance on the chessboard if he wins the reverse match in India.",
@@ -658,22 +658,6 @@ news_feed (
          "title" : "October 2025 FIDE Ratings: Nakamura Hits Peak, Giri Replaces Gukesh In Top 10"
       },
       {
-         "description" : "Arena Kings got a fresh new start on October 1; the new monthly version of Arena Kings continues to showcase the Chess.com streaming community as it always has, and only adds to that sense of community by allowing players to join together in a lar...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/terry-wins-arena-kings-october-1-2025",
-         "pubDate" : "Wed, 01 Oct 2025 13:23:19",
-         "title" : "2,300 Players Welcome New Arena Kings Era"
-      },
-      {
-         "description" : "IM Levy Rozman, better known as GothamChess, has just made chess history. Two moves into the GothamChess vs. The World match on Chess.com, he has officially broken the world record for the largest online chess match, surpassing 144,000 participant...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gothamchess-vs-world-breaks-record",
-         "pubDate" : "Wed, 01 Oct 2025 08:38:00",
-         "title" : "GothamChess vs. The World Smashes World Record As Game Begins"
-      },
-      {
          "description" : "Sharvaanica A.S. was leading by half a point before the start of the final round, where a draw would have been enough for her to",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -736,14 +720,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/chess-improvement-and-technology/",
          "pubDate" : "Sat, 27 Sep 2025 13:00:00",
          "title" : "Use Technology - Don't let it use you"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124181475.cms\" />Argentinian chess prodigy Faustino Oro, aged 11, won the Legends & Prodigies 2025 tournament, securing his first GM norm and remaining undefeated. He set new performance and FIDE rating records for players under 12, becoming the youngest to surpass a 2500 rating. Oro now aims to become the youngest Grandmaster in history.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/11-year-old-lionel-messi-of-chess-faustino-oro-shatters-records-to-outshine-indias-r-praggnanandhaa/articleshow/124181475.cms",
-         "pubDate" : "Sat, 27 Sep 2025 12:04:28",
-         "title" : "'Messi of Chess' Oro, 11, breaks records to surpass Praggnanandhaa"
       },
       {
          "description" : "It is well known (not least from the Benedict Cumberbatch movie Breaking the Code) that chess masters were largely responsible for unravelling Nazi codes at Bletchley Park during World War II. Figures such as Harry Golombek OBE, C H 0'D (Hugh) Alexander CBE and Sir Stuart Milner Barry, all of whom were personal friends of []",
@@ -832,14 +808,6 @@ news_feed (
          "link" : "https://www.thearticle.com/mickeys-meltdown-in-poland/",
          "pubDate" : "Sat, 20 Sep 2025 09:11:19",
          "title" : "Mickey's meltdown in Poland"
-      },
-      {
-         "description" : "The ECF's Junior Selection Policy has been updated to reflect changes in the way England Juniors will be selected and qualify for major international individual and team events.&#160;The full policy...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/updated-ecf-junior-selection-policy/",
-         "pubDate" : "Fri, 19 Sep 2025 14:22:37",
-         "title" : "Updated ECF Junior Selection Policy"
       }
    ]
 }
