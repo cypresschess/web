@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and James Dash for the top moments of today's games. Game Links Kasparov vs Anand RAPID GAMES GAME 9 ANAND VS KASPAROV GAME 10 KASPAROV VS ANAND BLITZ GAMES GAME 11 ANAND VS KASPAROV GAME 12 KASPAROV VS ANAND The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-3-kasparov-wins-but-vishy-gets-last-laugh-kasparovanand/\">POSTGAME DAY 3: Kasparov Wins! But Vishy Gets Last Laugh | #KasparovAnand</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-3-kasparov-wins-but-vishy-gets-last-laugh-kasparovanand/",
+         "pubDate" : "Fri, 10 Oct 2025 22:06:41",
+         "title" : "POSTGAME DAY 3: Kasparov Wins! But Vishy Gets Last Laugh | #KasparovAnand"
+      },
+      {
+         "description" : " SAINT LOUIS, MO (October 10, 2025) - In a thrilling display of precision, creativity and composure, legendary World Champion Grandmaster (GM) Garry Kasparov was crowned champion of the first Clutch Chess: The Legends, defeating longtime rival and fellow World Champion GM Viswanathan Anand in a three-day showdown that captivated fans around the world. \"It was [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/world-champion-garry-kasparov-wins-clutch-chess-the-legendsduring-grand-reopening-of-saint-louis-chess-club/\">World Champion Garry Kasparov Wins Clutch Chess: The LegendsDuring Grand Reopening of Saint Louis Chess Club</a> appeared first on <a href=\"https://saintlo",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/world-champion-garry-kasparov-wins-clutch-chess-the-legendsduring-grand-reopening-of-saint-louis-chess-club/",
+         "pubDate" : "Fri, 10 Oct 2025 21:28:24",
+         "title" : "World Champion Garry Kasparov Wins Clutch Chess: The LegendsDuring Grand Reopening of Saint Louis Chess Club"
+      },
+      {
          "description" : "Two former world champions, Viswanathan Anand and Garry Kasparov, face each other in \"Clutch Chess: The Legends\", a 12-game chess960 exhibition match held from 8 to 10 October at the newly expanded Saint Louis Chess Club. The event features rapid and blitz games with increasing point values and prize stakes each day. | Follow the action live starting at 19.00 CEST (13.00 ET, 10.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/clutch-chess-2025-2",
          "pubDate" : "Fri, 10 Oct 2025 16:25:00",
          "title" : "Clutch Chess: Kasparov gets lucky break, leads Anand by five points"
+      },
+      {
+         "description" : "Vtom, coached by NM Robert Ramirez, won the u2000 round-robin in CoachChamps 2025 with a round to spare and a final score of 6/7. He went on a perfect run of 6/6, only losing his last game after already clinching the tournament and victory for his...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ramirez-wins-2025-coachchamps",
+         "pubDate" : "Fri, 10 Oct 2025 13:52:17",
+         "title" : "Ramirez Wins CoachChamps 2025, Student Vtom Wins U2000 With Game To Spare"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124455889.cms\" />Argentinian prodigy Faustino Oro, dubbed the 'Messi of Chess', and Indian GM Pranesh M are among 12 Grandmasters and International Masters joining the GCL Contenders 2025 Knockout Challengers Round. Over 11,500 players initially registered, with top performers now set to compete against these elite players for ambassador spots in the Global Chess League season 3.",
@@ -178,7 +202,7 @@ news_feed (
          "title" : "Kasparov Leads Anand As Legends Clash In New Saint Louis Chess Club"
       },
       {
-         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and James Dash for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-1-kasparovanand/\">POSTGAME DAY 1: Fireworks Have Just Begun! | #KasparovAnand</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and James Dash for the top moments of today's games. Game Links Kasparov vs Anand RAPID GAMES GAME 1 ANAND VS KASPAROV GAME 2 KASPAROV VS ANAND BLITZ GAMES GAME 3 ANAND VS KASPAROV GAME 4 KASPAROV VS ANAND The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-1-kasparovanand/\">POSTGAME DAY 1: Fireworks Have Just Begun! | #KasparovAnand</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-1-kasparovanand/",
@@ -258,7 +282,7 @@ news_feed (
          "title" : "Three rounds played at European Team Chess Championship 2025"
       },
       {
-         "description" : " Clutch Chess: The Legends is a match between Viswanathan Anand and Gary Kasparov in Saint Louis 8th to 10th October. Whilst I'm sure it's going to be interesting, the format is weird when straightforward would have been better, I mean it's Kasparov and Anand playing a match. The format is as follows: first of all it's a Chess960 Match, second it's a mixture of 2 rapid and 2 blitz per day and thirdly it's Clutch Chess. The details: Rapid Games (1, 2, 5, 6, 9 and 10) (G/25;+10). Blitz Games (3, 4, 7, 8, 11 and 12) (G/5;+3). Clutch chess means games are worth 1pt for a win and 0pts for a draw on day one, 2pts and 1pt on day two and 3pts and 1.5pts on the final day. The idea is that the match s",
+         "description" : " Clutch Chess: The Legends was a match between Viswanathan Anand and Gary Kasparov in Saint Louis 8th to 10th October. The format was weird when straightforward would have been better, I mean it was Kasparov and Anand playing a match. The format was as follows: first of all it was a Chess960 Match, second a mixture of 2 rapid and 2 blitz per day and thirdly Clutch Chess. The details: Rapid Games (1, 2, 5, 6, 9 and 10) (G/25;+10). Blitz Games (3, 4, 7, 8, 11 and 12) (G/5;+3). Clutch chess means games are worth 1pt for a win and 0pts for a draw on day one, 2pts and 1pt on day two and 3pts and 1.5pts on the final day. The idea is that the match should stay alive right until late on the final da",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-the-legends",
@@ -664,14 +688,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/just-rules-how-ai-wrote-column",
          "pubDate" : "Thu, 02 Oct 2025 00:00:00",
          "title" : "Just the Rules: How AI Wrote This Column!"
-      },
-      {
-         "description" : "Despite the end result, game one of the title match between GMs Fabiano Caruana and Maxime Vachier-Lagrave in the 2025 Grand Chess Tour Finals was a true, five-hour-long struggle. Caruana reached a winning queen endgame, but it was too difficult t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-grand-chess-tour-finals-day-4",
-         "pubDate" : "Wed, 01 Oct 2025 20:50:00",
-         "title" : "Vachier-Lagrave Survives After 89 Moves"
       },
       {
          "description" : "Sharvaanica A.S. was leading by half a point before the start of the final round, where a draw would have been enough for her to",
