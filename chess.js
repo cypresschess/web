@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championships-live",
+         "pubDate" : "Fri, 10 Oct 2025 13:00:00",
+         "title" : "European Team Championships - Live!"
+      },
+      {
          "description" : "The delayed September edition reviews a single slow-play game in the mainline Sicilian Dragon, Yugoslav Attack with Bc4 and 10.Bb3. Chris outlines White's three plans: all-out h4-h5, positional a4, or the \"halfway house\", and shows the typical imbalances after Bxe6 followed by fxe6 and the tactical motif Rb4. But, our viewers have to be strong, since this episode it is White who actually wins | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
