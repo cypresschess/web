@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After six rounds of play at the European Team Chess Championship in Batumi, Ukraine have strengthened their position at the top of the open standings, while Poland have taken firm control of the women's competition with a commanding victory over their closest rivals. The final three rounds of the championships in Batumi will take place from Sunday to Tuesday. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2025-6",
+         "pubDate" : "Sat, 11 Oct 2025 14:40:00",
+         "title" : "Euro Teams: Ukraine and Poland win again, remain on top"
+      },
+      {
+         "description" : "The Saint Louis Chess Club will soon host the 2025 US Chess Championship and the 2025 US Women's Championship, running from 12 to 24 October in its newly expanded venue. With a prize fund exceeding $400,000, the 12-player fields feature America's elite, including Fabiano Caruana, Wesley So, Carissa Yip, Alice Lee and Irina Krush. Alongside the competitions, Hall of Fame inductions and cultural events promise a historic month for American chess in Saint Louis.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2025-preview",
+         "pubDate" : "Sat, 11 Oct 2025 13:10:00",
+         "title" : "Starting Sunday: The US Chess Championships"
+      },
+      {
+         "description" : "The internet is full of these lofty promises that make you feel like improving your chess will be easy. If you only watch this video or buy this course, you'll improve immediately 300 points. As you might have found out the hard way, that's not true. But you might wonder, why does online chess content []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/how-to-avoid-clickbait/",
+         "pubDate" : "Sat, 11 Oct 2025 13:00:00",
+         "title" : "Annoyed At Clickbait Videos? Do this."
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124475201.cms\" />Garry Kasparov triumphed over Viswanathan Anand in the Clutch Chess Legends, securing victory with two games to spare. This win, occurring 30 years after their 1995 World Championship clash, saw Kasparov earn $78,000. Despite a significant lead, Kasparov remained focused, attributing Anand's struggles to past psychological pressures. He expressed satisfaction with exceeding expectations and his commitment to entertaining fans.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -104,14 +128,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-lionel-messi-of-chess-faustino-oro-indias-m-pranesh-among-gms-joining-gcl-contenders-2025-knock-out-challengers/articleshow/124455889.cms",
          "pubDate" : "Fri, 10 Oct 2025 13:47:46",
          "title" : "GCL: 'Lionel Messi of chess' Oro, Pranesh among GMs joining Contenders"
-      },
-      {
-         "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championships-live",
-         "pubDate" : "Fri, 10 Oct 2025 13:00:00",
-         "title" : "European Team Championships - Live!"
       },
       {
          "description" : "GM Arjun Erigaisi, who won three straight Freestyle Fridays in February and March, finally got back in the win column in the tournament on October 10 for his long-awaited fourth victory. The undefeated Arjun&#39;s 9.5 points were enough to win outrigh...",
@@ -840,14 +856,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/62nd-ch-ind-2025",
          "pubDate" : "Mon, 22 Sep 2025 10:08:00",
          "title" : "62nd ch-IND 2025 - Games and Results"
-      },
-      {
-         "description" : "Yes, you can improve your chess by training the wrong way. Actually, it happens more often than you might think. Let's say a million people are using a random chess improvement method. They jump around YouTube, watch whatever pops up, maybe buy some random opening courses, and then play a few games. Out of that []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/random-success-stories/",
-         "pubDate" : "Sat, 20 Sep 2025 13:00:00",
-         "title" : "Why You Shouldn't Copy Random Success Stories in Chess Improvement"
       }
    ]
 }
