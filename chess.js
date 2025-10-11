@@ -42,6 +42,14 @@ news_feed (
          "title" : "Chess: England jump to fifth at European championships, with outside medal chance"
       },
       {
+         "description" : "Thirteenth World Champion Garry Kasparov dominated to win 2025 Clutch Chess: The Legends with two games to spare, 30 years to the day after clinching victory over GM Viswanathan Anand in the 1995 World Chess Championship match. Anand hadn&#39;t won a ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-clutch-chess-legends-kasparov-anand-day-3",
+         "pubDate" : "Fri, 10 Oct 2025 17:05:00",
+         "title" : "Kasparov Wins Clutch Chess With 2 Games To Spare; Anand Ends On A High"
+      },
+      {
          "description" : "Garry Kasparov increased his advantage over Viswanathan Anand to 8&frac12;-3&frac12; after the second day of their chess960 match in Saint Louis. The 13th world champion capitalised on Anand's time forfeiture in the first game and later added another win in the blitz section. The day's results left Kasparov firmly ahead, though twelve points remain at stake in the final session of the exhibition match. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,11 +58,11 @@ news_feed (
          "title" : "Clutch Chess: Kasparov gets lucky break, leads Anand by five points"
       },
       {
-         "description" : "Vtom, coached by NM Robert Ramirez, won the u2000 round-robin in CoachChamps 2025 with a round to spare and a final score of 6/7. He went on a perfect run of 6/6, only losing his last game after already clinching the tournament and victory for his...",
+         "description" : "Vtom, coached by NM Robert Ramirez, won the U2000 round-robin in CoachChamps 2025 with a round to spare and a final score of 6/7. He went on a perfect run of 6/6, only losing his last game after already clinching the tournament and victory for his...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ramirez-wins-2025-coachchamps",
-         "pubDate" : "Fri, 10 Oct 2025 13:52:17",
+         "pubDate" : "Fri, 10 Oct 2025 13:52:00",
          "title" : "Ramirez Wins CoachChamps 2025, Student Vtom Wins U2000 With Game To Spare"
       },
       {
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-grand-chess-tour-finals-day-5",
          "pubDate" : "Thu, 02 Oct 2025 16:23:00",
          "title" : "2025 GCT Champion To Be Decided By Rapid & Blitz After Draws"
-      },
-      {
-         "description" : "Chess.com is excited to partner with Perplexity, the developer behind the cutting-edge, AI-integrated web browser Comet. The collaboration is designed to bring amazing benefits to our community, and will feature the 2025 Comet Open, a high-stakes ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/perplexity-partnership-comet-open-announcement",
-         "pubDate" : "Thu, 02 Oct 2025 11:01:00",
-         "title" : "Chess.com Partners With Perplexity; Announcing $200,000 Comet Open"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124269670.cms\" />From sibling rivalry in Goa to becoming the state's second Grandmaster, 19-year-old Leon Luke Mendonca's journey has been shaped by family sacrifice and resilience. After illness marred his Tata Steel Masters debut, the teenager rebounded with consistent performances to earn a World Cup reserve spot in Goa, underlining his persistence in chasing the next level of global chess.",
