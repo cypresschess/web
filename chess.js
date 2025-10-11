@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124475201.cms\" />Garry Kasparov triumphed over Viswanathan Anand in the Clutch Chess Legends, securing victory with two games to spare. This win, occurring 30 years after their 1995 World Championship clash, saw Kasparov earn $78,000. Despite a significant lead, Kasparov remained focused, attributing Anand's struggles to past psychological pressures. He expressed satisfaction with exceeding expectations and his commitment to entertaining fans.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/in-battle-of-chess-legends-garry-kasparov-downs-viswanathan-anand-his-score-against-me-historically-is-bad/articleshow/124475201.cms",
+         "pubDate" : "Sat, 11 Oct 2025 11:02:46",
+         "title" : "Kasparov downs Anand: 'His score against me historically is bad'"
+      },
+      {
+         "description" : "In a commanding display of skill and teamwork, the Indian Railways Chess Team emerged as the champions of the World Railways Chess Championship 2025, held",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/indian-railways-clinch-world-railways-chess-championship-with-a-perfect-score/",
+         "pubDate" : "Sat, 11 Oct 2025 07:59:46",
+         "title" : "Indian Railways Clinch World Railways Chess Championship with a Perfect Score"
+      },
+      {
+         "description" : "In 2026 the Chess Olympiad and the election for FIDÉ President are due to take place in Samarkand, the ancient city in Uzbekistan. The current President, a supporter of Putin, may face a challenge from his predecessor, Kirsan Ilyumzhinov. Once blacklisted by the United States under President Biden, Ilyumzhinov has since been cleared under President []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/war-science-and-chess-in-samarkand/",
+         "pubDate" : "Sat, 11 Oct 2025 07:36:25",
+         "title" : "War, science and chess in Samarkand"
+      },
+      {
          "description" : "The Ragozin Defence is one of those opening systems that are very popular in modern tournament chess. It combines solid classical elements with dynamic ideas. For those looking for active and dynamic play against 1.d4 without taking any significant risks, Grandmaster Surya Ganguly has created a high-class Fritz trainer in \"Reinventing the Ragozin\". The course impresses not only with its modern repertoire against the Queen's Gambit Declined in impressive depth, but also with valuable insights into the modern opening preparation of current top players. Lukas K&ouml;pl has taken a close look at Ganguly's Fritz trainer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -298,7 +322,7 @@ news_feed (
          "title" : "Three rounds played at European Team Chess Championship 2025"
       },
       {
-         "description" : " Clutch Chess: The Legends was a match between Viswanathan Anand and Gary Kasparov in Saint Louis 8th to 10th October. The format was weird when straightforward would have been better, I mean it was Kasparov and Anand playing a match. The format was as follows: first of all it was a Chess960 Match, second a mixture of 2 rapid and 2 blitz per day and thirdly Clutch Chess. The details: Rapid Games (1, 2, 5, 6, 9 and 10) (G/25;+10). Blitz Games (3, 4, 7, 8, 11 and 12) (G/5;+3). Clutch chess means games are worth 1pt for a win and 0pts for a draw on day one, 2pts and 1pt on day two and 3pts and 1.5pts on the final day. The idea is that the match should stay alive right until late on the final da",
+         "description" : " Clutch Chess: The Legends was a match between Viswanathan Anand and Gary Kasparov in Saint Louis 8th to 10th October. Kasparov won the match 13-11 but this score rather flatters Anand who won the final two games after the match was already decided.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-the-legends",
@@ -730,14 +754,6 @@ news_feed (
          "title" : "FIDE Arbiters' Seminar in Madgaon, Goa (India) from 19-21 Sept 2025 . Report"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124215591.cms\" />American Gambits revealed their Global Chess League Season 3 draft strategy. They retained Hikaru Nakamura and Bibisara Assaubayeva. Richard Rapport, Vladislav Artemiev, and Teodora Injac joined the team. They acquired prodigy Volodar Murzin but failed to secure Arjun Erigaisi after a bidding contest. The team aims to win the trophy and strengthen its brand this season.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-was-one-of-our-top-preferences-head-coach-srinath-narayanan-dissects-global-chess-league-season-3-draft-strategy/articleshow/124215591.cms",
-         "pubDate" : "Mon, 29 Sep 2025 14:49:58",
-         "title" : "'Erigaisi was one of our top preferences': Srinath dissects GCL draft strategy"
-      },
-      {
          "description" : "The 2025 European Senior Chess Championship commenced yesterday in Rabac, Croatia and takes place from 27th of September to 5th of October at the \"Sunny Rabac\" restaurant by Valamar. The Championship is played in two age categories: 50+ and 65+, open and women's sections separately. More than 160 players coming from 30 European federations compete in the tournament, fighting for the title of European Senior Chess Champion. The top seeds of the Open 50+ section are: GM Jean-Marc Degraeve (FRA, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -826,28 +842,12 @@ news_feed (
          "title" : "62nd ch-IND 2025 - Games and Results"
       },
       {
-         "description" : "Please find the link here : https://view.livechesscloud.com/#905337cf-5d00-4ada-b021-2d2853901ea9",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link-for-62nd-national-championship-2025/",
-         "pubDate" : "Mon, 22 Sep 2025 09:28:06",
-         "title" : "LIVE LINK for 62nd National Championship 2025"
-      },
-      {
          "description" : "Yes, you can improve your chess by training the wrong way. Actually, it happens more often than you might think. Let's say a million people are using a random chess improvement method. They jump around YouTube, watch whatever pops up, maybe buy some random opening courses, and then play a few games. Out of that []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.com/random-success-stories/",
          "pubDate" : "Sat, 20 Sep 2025 13:00:00",
          "title" : "Why You Shouldn't Copy Random Success Stories in Chess Improvement"
-      },
-      {
-         "description" : "Britain's leading Grandmaster for many decades, Mickey Adams, has enjoyed a spectacular run of recent successes: a first and a second place in the London classic, victory in the over-fifties world senior championship, success in the Cambridge open, first in the English championship, not to mention his ninth British championship title this year. In the []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/mickeys-meltdown-in-poland/",
-         "pubDate" : "Sat, 20 Sep 2025 09:11:19",
-         "title" : "Mickey's meltdown in Poland"
       }
    ]
 }
