@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The US Chess Championships take place in Saint Louis Sun 12th Oct to Sat 25th Oct 2025. Players: Fabiano Caruana, Wesley So, Hans Moke Niemann, Levon Aronian, Awonder Liang, Samuel Sevian, Ray Robson, Grigoriy Oparin, Sam Shankland, Abhimanyu Mishra, Andy Woodward and Dariusz Swiercz. Women: Carissa Yip, Alice Lee, Tatev Abrahamyan, Irina Krush, Anna Sargsyan, Rose Atwell, Thalia Cervantes Landeiro, Anna Zatonskih, Nazi Paikidze, Atousa Pourkashiyan, Megan Althea Paragua and Jennifer Yu. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/us-chess-championships-2025",
+         "pubDate" : "Sat, 11 Oct 2025 21:16:00",
+         "title" : "US Chess Championships 2025 - Games and Results"
+      },
+      {
          "description" : "After six rounds of play at the European Team Chess Championship in Batumi, Ukraine have strengthened their position at the top of the open standings, while Poland have taken firm control of the women's competition with a commanding victory over their closest rivals. The final three rounds of the championships in Batumi will take place from Sunday to Tuesday. | Photos: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/review-reinvented-ragozin-von-surya-ganguly",
          "pubDate" : "Sat, 11 Oct 2025 07:00:00",
          "title" : "Review: \"Reinventing the Ragozin\" by Surya Ganguly"
+      },
+      {
+         "description" : "Clutch Chess: The Legends <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Garry Kasparov, Maurice Ashley, Viswanathan Anand, Jeanne Cairns Sinquefield, and Rex Sinquefield celebrate the Saint Louis Chess Club's grand re-opening (All photos courtesy Lennart Ootes/SLCC)<br> <br> <br> <br> The 2025 U.S. Chess Championship and U.S. Women's Chess Championship begin Sunday, October 12 at the newly renovated Saint Louis Chess Club (SLCC). As a grand re-opening, the lead-up to GM Fabiano Caruana and IM Carissa Yip's quests for their fourth and third consecutive titles, respectively, featured quite an opening act. <br> <br> <br> <br> <br> <br> <br> <br> <br> <b",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/clutch-chess-and-us-championships-slccs-grand-re-opening",
+         "pubDate" : "Sat, 11 Oct 2025 00:00:00",
+         "title" : "Clutch Chess and U.S. Championships: SLCC's Grand Re-Opening"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and James Dash for the top moments of today's games. Game Links Kasparov vs Anand RAPID GAMES GAME 9 ANAND VS KASPAROV GAME 10 KASPAROV VS ANAND BLITZ GAMES GAME 11 ANAND VS KASPAROV GAME 12 KASPAROV VS ANAND The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-3-kasparov-wins-but-vishy-gets-last-laugh-kasparovanand/\">POSTGAME DAY 3: Kasparov Wins! But Vishy Gets Last Laugh | #KasparovAnand</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -728,14 +744,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/full-report-usa-third-2025-fide-cadets",
          "pubDate" : "Thu, 02 Oct 2025 00:00:00",
          "title" : "Full Report: USA Third at 2025 FIDE Cadets"
-      },
-      {
-         "description" : "Editor's note: In the spirit of this essay, I am choosing to publish it as-is. There are a few changes I would make - including putting spaces around the em-dashes (like this!), per our style guide - but I think there is value in seeing how AI writes. Furthermore, I think it can be dangerous to try to pass off AI-generated writing as human writing, so it feels disingenuous (not to mention, missing the point) to try to human-ify it. Thanks for the day off, Tim! - JJLTJ's Question: I asked AI (Copilot) to write a \"Just the Rules\" column in the style of Tim Just. Look what it spit out:AI's Answer: Absolutely! Tim Just's \"Just the Rules\" column is known for its practical, sometimes humorous, and",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-how-ai-wrote-column",
-         "pubDate" : "Thu, 02 Oct 2025 00:00:00",
-         "title" : "Just the Rules: How AI Wrote This Column!"
       },
       {
          "description" : "Sharvaanica A.S. was leading by half a point before the start of the final round, where a draw would have been enough for her to",
