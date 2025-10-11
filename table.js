@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2025-10-10","14","<a href=http://www.uschess.org/msa/XtblMain.php?202510107132 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2025-10-10","43","<a href=http://www.uschess.org/msa/XtblMain.php?202510107122 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-10-07","16","<a href=http://www.uschess.org/msa/XtblMain.php?202510075612 target='_blank'>THE CHESS REFINERY: SUPER BLITZ 2025</a>",
 "HOUSTON","2025-10-03  - 10-05","32","<a href=http://www.uschess.org/msa/XtblMain.php?202510054972 target='_blank'>$2,500 OCTOBER CHAMPIONSHIP</a>",
 "HOUSTON","2025-10-05","14","<a href=http://www.uschess.org/msa/XtblMain.php?202510054392 target='_blank'>BELLAIRE SUNDAY SWISS 10/05/25</a>",
@@ -22,6 +24,7 @@ jtable([
 "HOUSTON","2025-09-14","6","<a href=http://www.uschess.org/msa/XtblMain.php?202509140192 target='_blank'>BELLAIRE SUNDAY SWISS 09/14/2025</a>",
 "HOUSTON","2025-09-13","13","<a href=http://www.uschess.org/msa/XtblMain.php?202509139212 target='_blank'>CHESSPANDA09132025SATURDAY</a>",
 "HOUSTON","2025-09-13","11","<a href=http://www.uschess.org/msa/XtblMain.php?202509138992 target='_blank'>SEPT 13TH -- TROPHY SCHOLASTIC</a>",
+"HOUSTON","2025-09-13","16","<a href=http://www.uschess.org/msa/XtblMain.php?202509136812 target='_blank'>BAD ASTRONAUT BACK-2-SCHOOL</a>",
 "SPRING","2025-09-12","21","<a href=http://www.uschess.org/msa/XtblMain.php?202509128732 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-09-12","45","<a href=http://www.uschess.org/msa/XtblMain.php?202509128682 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2025-09-12","17","<a href=http://www.uschess.org/msa/XtblMain.php?202509128612 target='_blank'>FBCC 2025 NATIONAL VIDEO GAMES DAY</a>",
@@ -196,7 +199,4 @@ jtable([
 "HOUSTON","2025-03-29","6","<a href=http://www.uschess.org/msa/XtblMain.php?202503299082 target='_blank'>CHESSPANDA03292025SATURDAY</a>",
 "HOUSTON","2025-03-29","36","<a href=http://www.uschess.org/msa/XtblMain.php?202503298602 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-03-28","33","<a href=http://www.uschess.org/msa/XtblMain.php?202503288662 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SUGAR LAND","2025-03-28","20","<a href=http://www.uschess.org/msa/XtblMain.php?202503288582 target='_blank'>FBCC 2025 BLACK FOREST CAKE DAY OPE</a>",
-"HOUSTON","2025-03-04  - 03-25","18","<a href=http://www.uschess.org/msa/XtblMain.php?202503257102 target='_blank'>MARCH TUE NITE SWISS 2025</a>",
-"HOUSTON","2025-03-22  - 03-23","25","<a href=http://www.uschess.org/msa/XtblMain.php?202503236302 target='_blank'>TEXAS STATE SENIOR CHAMPIONSHIP 2025</a>",
 ]);
