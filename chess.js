@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Ragozin Defence is one of those opening systems that are very popular in modern tournament chess. It combines solid classical elements with dynamic ideas. For those looking for active and dynamic play against 1.d4 without taking any significant risks, Grandmaster Surya Ganguly has created a high-class Fritz trainer in \"Reinventing the Ragozin\". The course impresses not only with its modern repertoire against the Queen's Gambit Declined in impressive depth, but also with valuable insights into the modern opening preparation of current top players. Lukas K&ouml;pl has taken a close look at Ganguly's Fritz trainer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-reinvented-ragozin-von-surya-ganguly",
+         "pubDate" : "Sat, 11 Oct 2025 07:00:00",
+         "title" : "Review: \"Reinventing the Ragozin\" by Surya Ganguly"
+      },
+      {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and James Dash for the top moments of today's games. Game Links Kasparov vs Anand RAPID GAMES GAME 9 ANAND VS KASPAROV GAME 10 KASPAROV VS ANAND BLITZ GAMES GAME 11 ANAND VS KASPAROV GAME 12 KASPAROV VS ANAND The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-3-kasparov-wins-but-vishy-gets-last-laugh-kasparovanand/\">POSTGAME DAY 3: Kasparov Wins! But Vishy Gets Last Laugh | #KasparovAnand</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
