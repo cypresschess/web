@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this episode of Svitlana's Smart Moves, Svitlana Demchenko and Arne analyze a classic 1991 game between Garry Kasparov and Viswanathan Anand, inspired by their current exhibition match. They explore the tactical richness of the Sicilian Taimanov, focusing on key moments like Kasparov's brilliant knight sacrifice on b5 and his creative attacking manoeuvres leading to a decisive win. The discussion highlights Kasparov's precision, Anand's resilience, and the timeless instructive value of their games for learning dynamic chess play.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-kasparov-vs-anand-a-taimanov-masterclass",
+         "pubDate" : "Sun, 12 Oct 2025 08:30:00",
+         "title" : "Svitlana's Smart Moves - Kasparov vs Anand: A Taimanov Masterclass"
+      },
+      {
          "description" : " The US Chess Championships take place in Saint Louis Sun 12th Oct to Sat 25th Oct 2025. Players: Fabiano Caruana, Wesley So, Hans Moke Niemann, Levon Aronian, Awonder Liang, Samuel Sevian, Ray Robson, Grigoriy Oparin, Sam Shankland, Abhimanyu Mishra, Andy Woodward and Dariusz Swiercz. Women: Carissa Yip, Alice Lee, Tatev Abrahamyan, Irina Krush, Anna Sargsyan, Rose Atwell, Thalia Cervantes Landeiro, Anna Zatonskih, Nazi Paikidze, Atousa Pourkashiyan, Megan Althea Paragua and Jennifer Yu. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/jeffery-xiong-wins-bullet-brawl-oct-11-2025",
          "pubDate" : "Sat, 11 Oct 2025 17:33:00",
          "title" : "Xiong Surprises Bullet Brawl Field With 'Orangutan' Opening"
-      },
-      {
-         "description" : "After six rounds of play at the European Team Chess Championship in Batumi, Ukraine have strengthened their position at the top of the open standings, while Poland have taken firm control of the women's competition with a commanding victory over their closest rivals. The final three rounds of the championships in Batumi will take place from Sunday to Tuesday. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2025-6",
-         "pubDate" : "Sat, 11 Oct 2025 14:40:00",
-         "title" : "Euro Teams: Ukraine and Poland win again, remain on top"
       },
       {
          "description" : "The Saint Louis Chess Club will soon host the 2025 US Chess Championship and the 2025 US Women's Championship, running from 12 to 24 October in its newly expanded venue. With a prize fund exceeding $400,000, the 12-player fields feature America's elite, including Fabiano Caruana, Wesley So, Carissa Yip, Alice Lee and Irina Krush. Alongside the competitions, Hall of Fame inductions and cultural events promise a historic month for American chess in Saint Louis.",
