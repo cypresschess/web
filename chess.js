@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championships-live",
+         "pubDate" : "Sun, 12 Oct 2025 13:00:00",
+         "title" : "European Team Championships - Live!"
+      },
+      {
          "description" : "In this episode of Svitlana's Smart Moves, Svitlana Demchenko and Arne analyze a classic 1991 game between Garry Kasparov and Viswanathan Anand, inspired by their current exhibition match. They explore the tactical richness of the Sicilian Taimanov, focusing on key moments like Kasparov's brilliant knight sacrifice on b5 and his creative attacking manoeuvres leading to a decisive win. The discussion highlights Kasparov's precision, Anand's resilience, and the timeless instructive value of their games for learning dynamic chess play.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
