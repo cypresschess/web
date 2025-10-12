@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Already in the second round of the famous Hastings tournament of 1895, two of the favourites faced each other in a tough and complex battle. After just thirteen moves, the game had reached a semi-endgame with two rooks and two minor pieces each. Lasker held the pair of bishops, but it was Chigorin with the pair of knights who emerged victorious in the end. The game made history, and its course has been interpreted very differently over time. We invite our readers to join us in the search for new insights.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lasker-chigorin-legendary-clash-of-two-bishops-vs-two-knights",
+         "pubDate" : "Sun, 12 Oct 2025 15:00:00",
+         "title" : "Lasker-Chigorin: A legendary clash of two bishops vs two knights"
+      },
+      {
          "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
