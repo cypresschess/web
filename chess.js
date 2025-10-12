@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 78th Russian Chess Championship and 75th Russian Women's Championship took place in Moscow 1st to 12th October 2025. The event was pretty weak compared to even the relatively recent past due to the war. Daniil Dubov, Vladislav Artemiev, Andrey Esipenko and Vladimir Malakhov were the top seeds but there were some young players too. Polina Shuvalova, Leya Garifullina, Olga Girya, Valentina Gunina and Alisa Galliamova were the leading women's players. 22 year old Arseniy Nesterov won the title for the first time with 6.5/11 half a point clear of Daniil Dubov, Andrey Esipenko and Vadim Zvjaginsev. Anna Shukhman won the women's event with 7/10 half a point clear of Leya Garifullina (who she ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/78th-russian-chess-championships-2025",
+         "pubDate" : "Sun, 12 Oct 2025 19:07:00",
+         "title" : "78th Russian Chess Championships 2025 - Games and Results"
+      },
+      {
+         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
+         "pubDate" : "Sun, 12 Oct 2025 19:00:00",
+         "title" : "US Chess Championships - Live!"
+      },
+      {
+         "description" : "Only two rounds left to be played at the European Team Chess Championship 2025 in Batumi, Georgia, and Ukraine and Poland remained in the sole lead in Open and Women's sections (respectively). Today's 7th round was opened by Mrs. Meline Arakelian, Ambassador of Kingdom of the Netherlands to Georgia, who played the first ceremonial move in the game between GM Anish Giri and GM Ruslan Ponomariov. The top board match between the Netherlands and Ukraine finished with the final 2.5-1.5 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ukraine-and-poland-remain-in-the-sole-lead-at-european-open-and-womens-team-chess-championship-2025/",
+         "pubDate" : "Sun, 12 Oct 2025 18:10:46",
+         "title" : "Ukraine and Poland remain in the sole lead at European Open and Women's Team Chess Championship 2025"
+      },
+      {
          "description" : "Already in the second round of the famous Hastings tournament of 1895, two of the favourites faced each other in a tough and complex battle. After just thirteen moves, the game had reached a semi-endgame with two rooks and two minor pieces each. Lasker held the pair of bishops, but it was Chigorin with the pair of knights who emerged victorious in the end. The game made history, and its course has been interpreted very differently over time. We invite our readers to join us in the search for new insights.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -456,14 +480,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-2025-fide-world-cadet-championships-pt-2",
          "pubDate" : "Tue, 07 Oct 2025 00:00:00",
          "title" : "Tactics Tuesday: 2025 FIDE World Cadet Championships, Pt. 2"
-      },
-      {
-         "description" : " The 78th Russian Chess Championship and 75th Russian Women's Championship take place in Moscow 1st to 12th October 2025. The event is pretty weak compared to even the relatively recent past due to the war. Daniil Dubov, Vladislav Artemiev, Andrey Esipenko and Vladimir Malakhov are the top seeds. Polina Shuvalova, Leya Garifullina, Olga Girya, Valentina Gunina and Alisa Galliamova are the leading women's players. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/78th-russian-chess-championships-2025",
-         "pubDate" : "Mon, 6 Oct 2025 23:05:00",
-         "title" : "78th Russian Chess Championships 2025 - Games and Results"
       },
       {
          "description" : " The 25th European Team championships take place in Batumi, Georgia 5th to 14th October 2025. Leading players such as Anish Giri, Vincent Keymer, Shakhriyar Mamedyarov, Richard Rapport, the field has 56 players over 2600. In the women's event the leading players are Nana Dzagnidze, Nino Batsiashvili, Alexandra Kosteniuk etc. ",
