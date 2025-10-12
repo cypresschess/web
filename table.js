@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2025-10-11","13","<a href=http://www.uschess.org/msa/XtblMain.php?202510117952 target='_blank'>CHESSPANDA10112025SATURDAY</a>",
+"HOUSTON","2025-10-10","10","<a href=http://www.uschess.org/msa/XtblMain.php?202510107572 target='_blank'>OCT 11TH -- TROPHY SCHOLASTIC</a>",
 "HOUSTON","2025-10-10","14","<a href=http://www.uschess.org/msa/XtblMain.php?202510107132 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-10-10","43","<a href=http://www.uschess.org/msa/XtblMain.php?202510107122 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-10-07","16","<a href=http://www.uschess.org/msa/XtblMain.php?202510075612 target='_blank'>THE CHESS REFINERY: SUPER BLITZ 2025</a>",
@@ -197,6 +199,4 @@ jtable([
 "HUMBLE","2025-03-29","135","<a href=http://www.uschess.org/msa/XtblMain.php?202503299942 target='_blank'>CATHOLIC SCHOOLS CHAMPIONSHIP</a>",
 "HOUSTON","2025-03-29","20","<a href=http://www.uschess.org/msa/XtblMain.php?202503299812 target='_blank'>MAR 29TH SATURDAY SWISS</a>",
 "HOUSTON","2025-03-29","6","<a href=http://www.uschess.org/msa/XtblMain.php?202503299082 target='_blank'>CHESSPANDA03292025SATURDAY</a>",
-"HOUSTON","2025-03-29","36","<a href=http://www.uschess.org/msa/XtblMain.php?202503298602 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2025-03-28","33","<a href=http://www.uschess.org/msa/XtblMain.php?202503288662 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
