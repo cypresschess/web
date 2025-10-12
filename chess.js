@@ -10,6 +10,14 @@ news_feed (
          "title" : "US Chess Championships 2025 - Games and Results"
       },
       {
+         "description" : "The former world junior champion GM Jeffery Xiong rocketed to his first Bullet Brawl title on Saturday ahead of 148 other titled players after playing the unorthodox Orangutan Opening in most of his games with White. Xiong accrued a total score ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jeffery-xiong-wins-bullet-brawl-oct-11-2025",
+         "pubDate" : "Sat, 11 Oct 2025 17:33:00",
+         "title" : "Xiong Surprises Bullet Brawl Field With 'Orangutan' Opening"
+      },
+      {
          "description" : "After six rounds of play at the European Team Chess Championship in Batumi, Ukraine have strengthened their position at the top of the open standings, while Poland have taken firm control of the women's competition with a commanding victory over their closest rivals. The final three rounds of the championships in Batumi will take place from Sunday to Tuesday. | Photos: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/10/02/canty-wins-chessboxing-title/",
          "pubDate" : "Thu, 02 Oct 2025 20:28:55",
          "title" : "Canty wins ChessBoxing world title!"
-      },
-      {
-         "description" : "Both matches in the 2025 Grand Chess Tour Finals enter the rapid and blitz portion with even scores. In the title match, GM Maxime Vachier-Lagrave squeezed for a bit but got no advantage against GM Fabiano Caruana in a rook endgame. GM Praggnanand...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-grand-chess-tour-finals-day-5",
-         "pubDate" : "Thu, 02 Oct 2025 16:23:00",
-         "title" : "2025 GCT Champion To Be Decided By Rapid & Blitz After Draws"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124269670.cms\" />From sibling rivalry in Goa to becoming the state's second Grandmaster, 19-year-old Leon Luke Mendonca's journey has been shaped by family sacrifice and resilience. After illness marred his Tata Steel Masters debut, the teenager rebounded with consistent performances to earn a World Cup reserve spot in Goa, underlining his persistence in chasing the next level of global chess.",
