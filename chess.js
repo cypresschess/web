@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-us-championship-round-1",
-         "pubDate" : "Mon, 13 Oct 2025 01:57:30",
+         "pubDate" : "Mon, 13 Oct 2025 01:57:00",
          "title" : "Caruana, Aronian Strike As US Championships Begin In St. Louis"
       },
       {
