@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-1-round-1-caruanas-epic-win-vs-oparin-uschesschamps/\">POSTGAME 1 ROUND 1: Caruana's Epic Win vs. Oparin | #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-1-round-1-caruanas-epic-win-vs-oparin-uschesschamps/",
+         "pubDate" : "Mon, 13 Oct 2025 00:03:14",
+         "title" : "POSTGAME 1 ROUND 1: Caruana's Epic Win vs. Oparin | #USChessChamps"
+      },
+      {
          "description" : " The 78th Russian Chess Championship and 75th Russian Women's Championship took place in Moscow 1st to 12th October 2025. The event was pretty weak compared to even the relatively recent past due to the war. Daniil Dubov, Vladislav Artemiev, Andrey Esipenko and Vladimir Malakhov were the top seeds but there were some young players too. Polina Shuvalova, Leya Garifullina, Olga Girya, Valentina Gunina and Alisa Galliamova were the leading women's players. 22 year old Arseniy Nesterov won the title for the first time with 6.5/11 half a point clear of Daniil Dubov, Andrey Esipenko and Vadim Zvjaginsev. Anna Shukhman won the women's event with 7/10 half a point clear of Leya Garifullina (who she ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
