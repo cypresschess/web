@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pierre de Fermat (1601-1665) was a French mathematician who made pioneering contributions to analytic geometry, calculus, optics, and probability. He is best known for Fermat's Last Theorem, which famously remained unproven for over three centuries. Then, thirty years ago (in 1995), the mathematician Andrew Wiles published the comprehensive proof. In his book \"Chess Stories\" mathematician Prof Christian Hesse, told us how he applied Fermat's final conjecture to chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fermat-in-chess",
+         "pubDate" : "Mon, 13 Oct 2025 08:32:12",
+         "title" : "Fermat in Chess"
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-1-round-1-caruanas-epic-win-vs-oparin-uschesschamps/\">POSTGAME 1 ROUND 1: Caruana's Epic Win vs. Oparin | #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
