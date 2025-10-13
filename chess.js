@@ -26,6 +26,14 @@ news_feed (
          "title" : "One round to go at the European Team Chess Championship 2025"
       },
       {
+         "description" : "Thirty-two players, including top GMs Hikaru Nakamura, Arjun Erigaisi, Vincent Keymer, and Alireza Firouzja, have qualified for the inaugural 2025 Comet Open main event. Next weekend, over two days of playoffs, the players will compete for their s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-comet-open-qualifiers",
+         "pubDate" : "Mon, 13 Oct 2025 13:27:00",
+         "title" : "Nakamura, Arjun, Keymer, Firouzja Among Qualified Players For Comet Open"
+      },
+      {
          "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/caruana-wins-2025-grand-chess-tour-finals",
          "pubDate" : "Fri, 03 Oct 2025 14:28:00",
          "title" : "Caruana Wins 2nd Grand Chess Tour Title"
-      },
-      {
-         "description" : "GM Pranesh M won Freestyle Friday (his first) with a round to spare on October 3, gliding to a 9.5/10 start in the field of 116 players. GM Oleksandr Bortnyk finished in second place with nine points after becoming the first player to finally beat...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pranesh-wins-freestyle-friday-october-3-2025",
-         "pubDate" : "Fri, 03 Oct 2025 11:49:24",
-         "title" : "New Face Cruises To Freestyle Friday Victory"
       },
       {
          "description" : "The 2025 European Team Chess Championship is set to take place from 4-15 October in Batumi, Georgia. The event is played in 9 rounds, swiss system, with Open and Women's sections separately. 76 teams participate in the Championship, with 40 teams in Open section and 36 teams in Women's competition, and very strong fields in both tournaments. The rating favourites in the Open section are Germany (average rating of players 2681), Netherlands (average rating of players 2675), Hungary (average rating []",
