@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
+         "pubDate" : "Mon, 13 Oct 2025 19:00:00",
+         "title" : "US Chess Championships - Live!"
+      },
+      {
+         "description" : "The 2025 US Chess Championships began in Saint Louis with an eventful first day that saw Fabiano Caruana and Levon Aronian take the early lead in the open section, while Irina Krush, Atousa Pourkashiyan and Anna Sargsyan prevailed in the women's event. The opening round was notable both for the quality of play and for the unusual sight of an arbiter holding an umbrella during one of the games. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2025-1",
+         "pubDate" : "Mon, 13 Oct 2025 17:35:00",
+         "title" : "US Championships: Caruana and Aronian start with wins"
+      },
+      {
+         "description" : "The 8th round of the European Team Chess Championship 2025 was played today, and only one round left before the announcement of European Team Champions. Today's round was opened by the ECU President Mr. Zurab Azmaiparashvili and FIDE Secretary General Mr. Lukasz Turlej. They played the first ceremonial move in the game between IM Deimante Daulyte-Cornette (FRA, 2386) and IM Alina Kashlinskaya (POL, 2450) at the top Women's match of France vs Poland. An intense top board match of the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/one-round-to-go-at-the-european-team-chess-championship-2025/",
+         "pubDate" : "Mon, 13 Oct 2025 17:27:15",
+         "title" : "One round to go at the European Team Chess Championship 2025"
+      },
+      {
          "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +42,14 @@ news_feed (
          "title" : "Sunny start to the US Championships in Saint Louis"
       },
       {
+         "description" : "A Dutch teenager has been given a three-year ban, with one year suspended, by the FIDE Ethics &#38;amp; Disciplinary Commission (EDC) after he was caught with a mobile phone hidden in his sock during a tournament in the Netherlands last year. The de...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/teenager-banned-3-years-phone-in-sock",
+         "pubDate" : "Mon, 13 Oct 2025 09:29:00",
+         "title" : "FIDE Bans Dutch Teenager After Phone Found Hidden In Sock"
+      },
+      {
          "description" : "Pierre de Fermat (1601-1665) was a French mathematician who made pioneering contributions to analytic geometry, calculus, optics, and probability. He is best known for Fermat's Last Theorem, which famously remained unproven for over three centuries. Then, thirty years ago (in 1995), the mathematician Andrew Wiles published the comprehensive proof. In his book \"Chess Stories\" mathematician Prof Christian Hesse, told us how he applied Fermat's final conjecture to chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -31,7 +63,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-us-championship-round-1",
          "pubDate" : "Mon, 13 Oct 2025 01:57:00",
-         "title" : "Caruana, Aronian Strike As US Championships Begin In St. Louis"
+         "title" : "Caruana, Aronian Strike As U.S. Championships Begin In St. Louis"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-1-round-1-caruanas-epic-win-vs-oparin-uschesschamps/\">POSTGAME 1 ROUND 1: Caruana's Epic Win vs. Oparin | #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -42,20 +74,20 @@ news_feed (
          "title" : "POSTGAME 1 ROUND 1: Caruana's Epic Win vs. Oparin | #USChessChamps"
       },
       {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Dr. Jeanne Cairns Sinquefield rings the bell at the start of round 1, with Chess Life Editor John Hartmann spotted in the background (Photo courtesy of Lennart Ootes/SLCC)<br> <br> <br> <br> Every year, we witness a dozen each of the top American male and female players take part in the prestigious U.S Chess Championships, this year hosted in the newly renovated Saint Louis Chess Club (SLCC). This event is always exhilarating to watch, as we witness many generations of American chess battling it out for the coveted titles of U.S and U.S Women's Champion. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-us-championships-sun-shining-caruana-cruising-pourkashiyan-upsets-yip",
+         "pubDate" : "Mon, 13 Oct 2025 00:00:00",
+         "title" : "2025 U.S. Championships: Sun is Shining, Caruana is Cruising, but Pourkashiyan Upsets Yip"
+      },
+      {
          "description" : " The 78th Russian Chess Championship and 75th Russian Women's Championship took place in Moscow 1st to 12th October 2025. The event was pretty weak compared to even the relatively recent past due to the war. Daniil Dubov, Vladislav Artemiev, Andrey Esipenko and Vladimir Malakhov were the top seeds but there were some young players too. Polina Shuvalova, Leya Garifullina, Olga Girya, Valentina Gunina and Alisa Galliamova were the leading women's players. 22 year old Arseniy Nesterov won the title for the first time with 6.5/11 half a point clear of Daniil Dubov, Andrey Esipenko and Vadim Zvjaginsev. Anna Shukhman won the women's event with 7/10 half a point clear of Leya Garifullina (who she ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/78th-russian-chess-championships-2025",
          "pubDate" : "Sun, 12 Oct 2025 19:07:00",
          "title" : "78th Russian Chess Championships 2025 - Games and Results"
-      },
-      {
-         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
-         "pubDate" : "Sun, 12 Oct 2025 19:00:00",
-         "title" : "US Chess Championships - Live!"
       },
       {
          "description" : "Only two rounds left to be played at the European Team Chess Championship 2025 in Batumi, Georgia, and Ukraine and Poland remained in the sole lead in Open and Women's sections (respectively). Today's 7th round was opened by Mrs. Meline Arakelian, Ambassador of Kingdom of the Netherlands to Georgia, who played the first ceremonial move in the game between GM Anish Giri and GM Ruslan Ponomariov. The top board match between the Netherlands and Ukraine finished with the final 2.5-1.5 []",
@@ -738,14 +770,6 @@ news_feed (
          "title" : "European Team Chess Championship 2025 starts in Batumi, Georgia"
       },
       {
-         "description" : "WFM Anna Cramling is about to go around the world in four boards in the next episode of Kids vs. Stars! The popular streamer from Sweden will take on four kids from different continents in a clock simul on October 6, starting at 12 p.m. ET / 18:00...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-kids-vs-stars-episode-6",
-         "pubDate" : "Fri, 03 Oct 2025 08:00:00",
-         "title" : "Anna Cramling Takes On 4 Kids From Around The World In Next Kids Vs. Stars"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124285478.cms\" />Indian chess witnessed a landmark September as Arjun Erigaisi ascended to world number four and Nihal Sarin joined the elite 2700 club. Vaishali Rameshbabu secured a Women's Candidates spot, while Divya Deshmukh also impressed. Junior prodigies like Pranav Venkatesh, Abhimanyu Mishra, and Ashwath Kaushik achieved significant rating gains, underscoring India's burgeoning status as a global chess powerhouse.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -802,14 +826,6 @@ news_feed (
          "title" : "Check is in the Mail, October 2025: Follow Along!"
       },
       {
-         "description" : "It was a successful outing for the 24 Americans who traveled to Almaty, Kazakhstan for the 2025 FIDE World Cadet Championships in Almaty, Kazakhstan. As covered in Tuesday's flash report, the USA delegation finished third overall, and three Americans achieved top-three finishes with four more finishing in the top ten. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Medalists Laurie Qiu, Ethan Guo, and Lacey Wang (All photos courtesy US Chess)<br> <br> <br> <br> As we get ready for the 2025 FIDE World Youth Championship in Durres, Albania to kick off this weekend, let's take a look at some of the key games from our Under-12, Under-10, and Under-8 player",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/full-report-usa-third-2025-fide-cadets",
-         "pubDate" : "Thu, 02 Oct 2025 00:00:00",
-         "title" : "Full Report: USA Third at 2025 FIDE Cadets"
-      },
-      {
          "description" : "Sharvaanica A.S. was leading by half a point before the start of the final round, where a draw would have been enough for her to",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -840,14 +856,6 @@ news_feed (
          "link" : "https://aicf.in/fide-arbiters-seminar-in-madgaon-goa-india-from-19-21-sept-2025-report/",
          "pubDate" : "Tue, 30 Sep 2025 09:56:38",
          "title" : "FIDE Arbiters' Seminar in Madgaon, Goa (India) from 19-21 Sept 2025 . Report"
-      },
-      {
-         "description" : "The 2025 European Senior Chess Championship commenced yesterday in Rabac, Croatia and takes place from 27th of September to 5th of October at the \"Sunny Rabac\" restaurant by Valamar. The Championship is played in two age categories: 50+ and 65+, open and women's sections separately. More than 160 players coming from 30 European federations compete in the tournament, fighting for the title of European Senior Chess Champion. The top seeds of the Open 50+ section are: GM Jean-Marc Degraeve (FRA, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-chess-championship-2025-commenced-in-croatia/",
-         "pubDate" : "Sun, 28 Sep 2025 11:45:24",
-         "title" : "European Senior Chess Championship 2025 commenced in Croatia"
       },
       {
          "description" : " Emory Tate is obviously one of the most significant figures when it comes to content at The Chess Drum. In the nearly 25 years of the site's existence, Tate's initial exposure appeared on these pages, as few media outlets wrote stories about this mercurial and fascinating personality. Emory Tate, Jr. December 27, 1958 October The post <a href=\"https://thechessdrum.net/blog/2025/09/27/emory-tate-masterclass-10-year-tribute/\">Emory Tate Masterclass 10-year tribute!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
