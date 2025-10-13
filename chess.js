@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championships-live",
+         "pubDate" : "Mon, 13 Oct 2025 13:00:00",
+         "title" : "European Team Championships - Live!"
+      },
+      {
+         "description" : "At the US National Championship, which began on Sunday, arbiter Chris Bird helped to create an image that will likely find its way into the collection of the most curious chess photos. He stood next to the table of Wesley So and Hans Niemann - with an umbrella. No, it wasn't raining inside.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunny-start-to-the-us-championships-in-saint-louis",
+         "pubDate" : "Mon, 13 Oct 2025 12:50:36",
+         "title" : "Sunny start to the US Championships in Saint Louis"
+      },
+      {
          "description" : "Pierre de Fermat (1601-1665) was a French mathematician who made pioneering contributions to analytic geometry, calculus, optics, and probability. He is best known for Fermat's Last Theorem, which famously remained unproven for over three centuries. Then, thirty years ago (in 1995), the mathematician Andrew Wiles published the comprehensive proof. In his book \"Chess Stories\" mathematician Prof Christian Hesse, told us how he applied Fermat's final conjecture to chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fermat-in-chess",
          "pubDate" : "Mon, 13 Oct 2025 08:32:12",
          "title" : "Fermat in Chess"
+      },
+      {
+         "description" : "GM Fabiano Caruana scored a crushing win over GM Grigoriy Oparin in round one of the 2025 U.S. Chess Championships as he began his campaign to become the first player since GM Bobby Fischer to claim four titles in a row. GM Levon Aronian grabbed t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-us-championship-round-1",
+         "pubDate" : "Mon, 13 Oct 2025 01:57:30",
+         "title" : "Caruana, Aronian Strike As US Championships Begin In St. Louis"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-1-round-1-caruanas-epic-win-vs-oparin-uschesschamps/\">POSTGAME 1 ROUND 1: Caruana's Epic Win vs. Oparin | #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/lasker-chigorin-legendary-clash-of-two-bishops-vs-two-knights",
          "pubDate" : "Sun, 12 Oct 2025 15:00:00",
          "title" : "Lasker-Chigorin: A legendary clash of two bishops vs two knights"
-      },
-      {
-         "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championships-live",
-         "pubDate" : "Sun, 12 Oct 2025 13:00:00",
-         "title" : "European Team Championships - Live!"
       },
       {
          "description" : "In this episode of Svitlana's Smart Moves, Svitlana Demchenko and Arne analyze a classic 1991 game between Garry Kasparov and Viswanathan Anand, inspired by their current exhibition match. They explore the tactical richness of the Sicilian Taimanov, focusing on key moments like Kasparov's brilliant knight sacrifice on b5 and his creative attacking manoeuvres leading to a decisive win. The discussion highlights Kasparov's precision, Anand's resilience, and the timeless instructive value of their games for learning dynamic chess play.",
@@ -904,14 +920,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/fide-chess-in-education-commission-edu-courses-events-september-november-2025/",
          "pubDate" : "Tue, 23 Sep 2025 08:05:08",
          "title" : "FIDE Chess in Education Commission (EDU) courses & events September - November 2025"
-      },
-      {
-         "description" : " The 62nd Indian Chess Championships take place in Guntur Sun 21st Sep to Wed 1st Oct 2025. Pa Iniyan, Surya Shekhar Ganguly, SP Sethuraman, Krishnan Sasikiran etc. The event doesn't have any of the top 15 Indian players. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/62nd-ch-ind-2025",
-         "pubDate" : "Mon, 22 Sep 2025 10:08:00",
-         "title" : "62nd ch-IND 2025 - Games and Results"
       }
    ]
 }
