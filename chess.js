@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ninth and final round of the European Team Championships will determine the medal winners. In the Open Ukraine and Azerbaijan fight for victory, in the Women's Tournament Poland is in the lead, but Ukraine and Germany can still hope to win. | Watch the games live with video commentary. Start: Around 10:00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championships-live",
+         "pubDate" : "Tue, 14 Oct 2025 10:00:00",
+         "title" : "European Team Championships - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124548274.cms\" />While the US Chess Championship showcased professional player treatment with an umbrella for sunlight, India's National Championship faced chaos. Players endured monkeys, power cuts, and leaking tents, highlighting poor playing conditions. This stark contrast raises concerns about India's ability to host major chess events, despite its growing chess prowess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/as-india-readies-to-host-chess-world-cup-nationals-witness-monkey-invasion-power-cuts-and-leaking-tents/articleshow/124548274.cms",
+         "pubDate" : "Tue, 14 Oct 2025 09:04:12",
+         "title" : "Monkeys, power cuts and leaks: How India hosted chess Nationals"
+      },
+      {
+         "description" : "GMs Wesley So and Sam Shankland joined GMs Fabiano Caruana and Levon Aronian in a four-way tie for the 2025 U.S. Chess Championship lead on 1.5/2 after scoring the only wins in round two. So beat his old college roommate GM Ray Robson while Shankl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-us-championship-round-2",
+         "pubDate" : "Tue, 14 Oct 2025 02:57:43",
+         "title" : "So, Shankland Join Lead As Caruana Escapes; Sargsyan On Perfect Score"
+      },
+      {
+         "description" : "Former world champion Magnus Carlsen defeated GM Alireza Firouzja in the live finals of the Speed Chess Championship in 2024. Both players look ready to return this year, as they began the 2025 edition with decisive victories against grandmasters ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-carlsen-martinez-firouzja-minh-le",
+         "pubDate" : "Tue, 14 Oct 2025 01:47:00",
+         "title" : "Firouzja, Carlsen Begin Path Back To SCC Finals"
+      },
+      {
          "description" : " ﻿﻿ Join GMs Yasser Seirawan &#038; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 2 &#124; GAME LINKS ROBSON VS SO RESULT: 0-1 OPARIN VS NIEMANN RESULT: 1/2-1/2 MISHRA VS SEVIAN RESULT: 1/2-1/2 SHANKLAND VS SWIERCZ RESULT: 1-0 ARONIAN VS LIANG RESULT: 1/2-1/2 CARUANA VS WOODWARD RESULT: 1/2-1/2 ﻿﻿ [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-2-fabi-barely-survives-woodward-uschesschamps/\">POSTGAME ROUND 2: Fabi Barely Survives Woodward #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -48,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-comet-open-qualifiers",
          "pubDate" : "Mon, 13 Oct 2025 13:27:00",
          "title" : "Nakamura, Arjun, Keymer, Firouzja Among Qualified Players For Comet Open"
-      },
-      {
-         "description" : "From October 5 to October 14, the European Team Chess Championships are taking place in Batumi, Georgia. In the Open section, Germany - runner-up in 2023 in Budva - is the top seed, followed by the Netherlands, Hungary (with Rapport and Leko), and Azerbaijan (featuring Mamedyarov and Radjabov as team captain). In the women's section, Georgia 1 is the clear Elo favorite, followed by Poland and Ukraine. The defending champion is Bulgaria. | Watch the games live with video commentary. Start: Around 13:00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championships-live",
-         "pubDate" : "Mon, 13 Oct 2025 13:00:00",
-         "title" : "European Team Championships - Live!"
       },
       {
          "description" : "At the US National Championship, which began on Sunday, arbiter Chris Bird helped to create an image that will likely find its way into the collection of the most curious chess photos. He stood next to the table of Wesley So and Hans Niemann - with an umbrella. No, it wasn't raining inside.",
@@ -762,22 +786,6 @@ news_feed (
          "title" : "Grand Chess Tour Finals 2025 - Games and Results"
       },
       {
-         "description" : "The recent decision by the International Chess Federation&#38;nbsp;(FIDE) to change the long-debated 400-point rule for top grandmasters has sparked an outcry, with accusations of &#34;stealing&#34; rating points and warnings that the system is losing credibi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-faces-backlash-after-rule-change-accused-of-stealing-rating-points",
-         "pubDate" : "Fri, 03 Oct 2025 20:30:00",
-         "title" : "FIDE Faces Backlash After Rule Changes, Accused Of 'Stealing' Rating Points"
-      },
-      {
-         "description" : "GM Fabiano Caruana won the 2025 Grand Chess Tour Finals to earn $150,000, with the runner-up GM Maxime Vachier-Lagrave taking the second $100,000 prize. Vachier-Lagrave won the first game, but Caruana went on a rampage to win three games in a row ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/caruana-wins-2025-grand-chess-tour-finals",
-         "pubDate" : "Fri, 03 Oct 2025 14:28:00",
-         "title" : "Caruana Wins 2nd Grand Chess Tour Title"
-      },
-      {
          "description" : "The 2025 European Team Chess Championship is set to take place from 4-15 October in Batumi, Georgia. The event is played in 9 rounds, swiss system, with Open and Women's sections separately. 76 teams participate in the Championship, with 40 teams in Open section and 36 teams in Women's competition, and very strong fields in both tournaments. The rating favourites in the Open section are Germany (average rating of players 2681), Netherlands (average rating of players 2675), Hungary (average rating []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -850,14 +858,6 @@ news_feed (
          "title" : "Sharvaanica Wins Gold in Fide World Cadet Chess Championship in Almaty from 18 Sept to 01 Oct 2025."
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124248797.cms\" />Chess icon Magnus Carlsen and wife Ella Victoria Carlsen welcomed their first child on September 27, drawing global congratulations. FIDE's unique social media post referenced \"great genes\" and subtly recalled Carlsen's past 'jeans-gate' incident. Carlsen, who married in January, stated he would encourage his child to explore chess, noting his personal life's positive influence on his recent game performance.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/new-dad-alert-magnus-carlsen-welcomes-baby-fides-post-has-everyone-talking/articleshow/124248797.cms",
-         "pubDate" : "Wed, 01 Oct 2025 05:43:03",
-         "title" : "New dad alert! Magnus Carlsen welcomes baby; FIDE's post has everyone talking"
-      },
-      {
          "description" : "Please find the details here",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -928,14 +928,6 @@ news_feed (
          "link" : "https://aicf.in/3rd-national-schools-team-under-12-under-18chess-championships-2025/",
          "pubDate" : "Wed, 24 Sep 2025 10:23:24",
          "title" : "3rd NATIONAL SCHOOLS TEAM UNDER-12 & UNDER-18CHESS CHAMPIONSHIPS - 2025 in Shimla from 12-14 October 2025"
-      },
-      {
-         "description" : "FIDE's Chess in Education Commission continues to accelerate its provision of training for Lecturers and Teachers of Educational Chess, offering a series of high-level online and in-person opportunities in autumn...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/fide-chess-in-education-commission-edu-courses-events-september-november-2025/",
-         "pubDate" : "Tue, 23 Sep 2025 08:05:08",
-         "title" : "FIDE Chess in Education Commission (EDU) courses & events September - November 2025"
       }
    ]
 }
