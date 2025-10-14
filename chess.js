@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Team Chess Championship 2025 concluded today in Batumi, Georgia. Intense final round determined the Winners and Medalists in the Open section, as Ukraine and Azerbaijan headed into the last with a joint lead. Azerbaijan played against Serbia on the top board, while Ukraine faced England. Higher-rated team of Azerbaijan was the favourite in the match against Serbia, but Serbians took a convincing 3-1 victory with GM Alexey Sarana (SRB, 2661) defeating GM Shakhriyar Mamedyarov (AZE, 2742), GM Aleksandar []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ukraine-and-poland-are-european-team-chess-champions-2025/",
+         "pubDate" : "Tue, 14 Oct 2025 20:08:17",
+         "title" : "Ukraine and Poland are European Team Chess Champions 2025!"
+      },
+      {
          "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,22 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/the-5th-fide-intercontinental-online-chess-championship-for-prisoners/",
          "pubDate" : "Tue, 14 Oct 2025 12:41:33",
          "title" : "The 5th FIDE Intercontinental Online Chess Championship for Prisoners"
+      },
+      {
+         "description" : "GM Jose Martinez of Mexico, IM Mai Narva of Estonia, and IM Faustino Oro of Argentina emerged winners of the Men, Women, and U21 sections, respectively, of the month-long 2025 GCL Contenders held on the Chess.com platform. They all qualified as Am...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-gcl-contenders",
+         "pubDate" : "Tue, 14 Oct 2025 12:37:00",
+         "title" : "Jose Martinez, Mai Narva, Faustino Oro Win GCL Contenders"
+      },
+      {
+         "description" : "GM Magnus Carlsen won Titled Tuesday on October 14, his third of the Autumn Split and first since the recent birth of his son, leading commentator GM David Howell to dub the champion &#34;Daddy Carlsen.&#34; Carlsen flirted with a perfect score after reac...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-october-14-2025",
+         "pubDate" : "Tue, 14 Oct 2025 12:26:57",
+         "title" : "\"Daddy Carlsen\" Wins Third Titled Tuesday Of Season"
       },
       {
          "description" : "The featured match in the third week of the Collegiate Chess League (CCL) saw IM Roman Pyrih escape from two lost positions to score a perfect 4-0 and lead his Texas Tech University (TTU) chess team to their first victory of the season. It was a t...",
@@ -88,6 +112,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-carlsen-martinez-firouzja-minh-le",
          "pubDate" : "Tue, 14 Oct 2025 01:47:00",
          "title" : "Firouzja, Carlsen Begin Path Back To SCC Finals"
+      },
+      {
+         "description" : "This week's puzzles continue our series on the 2025 FIDE World Cadet Championships, which concluded last month in Almaty, Kazakhstan (flash report | full report). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-fide-world-cadet-championships-pt-3",
+         "pubDate" : "Tue, 14 Oct 2025 00:00:00",
+         "title" : "Tactics Tuesday: 2025 FIDE World Cadet Championships, Pt. 3"
       },
       {
          "description" : "The 2025 U.S. and U.S. Women's Championships in St. Louis are unfolding with drama, tension, and upsets in every round. Both fields are fiercely competitive, and Round 2 brought a mix of precision, pressure, and a few painful blunders. U.S. ChampionshipIn Round 2, GM Ray Robson stumbled late in his game against Wesley So, who punished the mistake brilliantly by marching his black king all the way to the f3-square to seal the win. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Wesley So delivered an entertaining victory featuring a very active king (Photo courtesy of Lennart Ootes/SLCC)<br> <br> <br> <br> After yesterday's loss to GM Fabiano Caruana, G",
@@ -762,28 +794,12 @@ news_feed (
          "title" : "Checkmate: USA vs India 2025 - Games and Results"
       },
       {
-         "description" : "The International Chess Federation (FIDE) will discuss the possible reinstatement of Russian national teams at its General Assembly meeting in December, FIDE President Arkady Dvorkovich has confirmed. A proposal will be on the agenda for the Gen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dvorkovich-confirms-proposal-to-reinstate-russian-teams",
-         "pubDate" : "Sun, 05 Oct 2025 07:06:00",
-         "title" : "Dvorkovich Confirms Proposal To Reinstate Russian Teams In FIDE Tournaments"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124316641.cms\" />Women's World Cup winner Divya Deshmukh lightened the mood with a jersey typo during the 'Checkmate: USA vs India' exhibition. However, Team India suffered a 5-0 defeat to Team USA, highlighted by Hikaru Nakamura's dramatic bullet win over Gukesh Dommaraju. A return leg in India offers Team India a chance for redemption.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/so-sad-indian-chess-queen-divya-deshmukh-reacts-to-hilarious-typo-on-her-jersey-watch/articleshow/124316641.cms",
          "pubDate" : "Sun, 05 Oct 2025 06:06:44",
          "title" : "'So sad!': Divya Deshmukh reacts to hilarious typo on her jersey - Watch"
-      },
-      {
-         "description" : "Team USA beat Team India 5-0 on Saturday evening at the highly innovative Checkmate: USA vs India match in Arlington, Texas. In the last game of the day, GM Hikaru Nakamura defeated GM Gukesh Dommaraju, literally grabbed his opponent&#39;s king, and t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-gukesh-king-checkmate-usa-vs-india-2025",
-         "pubDate" : "Sun, 05 Oct 2025 04:00:00",
-         "title" : "Nakamura Checkmates Gukesh, Electrifies Crowd At Checkmate India vs USA"
       },
       {
          "description" : "Having a plan is great. But then real life happens, and it gets chaotic real quick. The list of possible things to get between you and your scheduled training is endless. The key is not to avoid these that's impossible. What determines if you stick to your chess improvement is how you react to []",
@@ -818,14 +834,6 @@ news_feed (
          "title" : "Grand Chess Tour Finals 2025 - Games and Results"
       },
       {
-         "description" : "The 2025 European Team Chess Championship is set to take place from 4-15 October in Batumi, Georgia. The event is played in 9 rounds, swiss system, with Open and Women's sections separately. 76 teams participate in the Championship, with 40 teams in Open section and 36 teams in Women's competition, and very strong fields in both tournaments. The rating favourites in the Open section are Germany (average rating of players 2681), Netherlands (average rating of players 2675), Hungary (average rating []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-team-chess-championship-2025-starts-in-batumi-georgia/",
-         "pubDate" : "Fri, 03 Oct 2025 09:05:17",
-         "title" : "European Team Chess Championship 2025 starts in Batumi, Georgia"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124285478.cms\" />Indian chess witnessed a landmark September as Arjun Erigaisi ascended to world number four and Nihal Sarin joined the elite 2700 club. Vaishali Rameshbabu secured a Women's Candidates spot, while Divya Deshmukh also impressed. Junior prodigies like Pranav Venkatesh, Abhimanyu Mishra, and Ashwath Kaushik achieved significant rating gains, underscoring India's burgeoning status as a global chess powerhouse.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -848,14 +856,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/national-chess-day-preview-puzzle-night-shepherdstown-west-virginia",
          "pubDate" : "Fri, 03 Oct 2025 00:00:00",
          "title" : "National Chess Day Preview: Puzzle Night in Shepherdstown, West Virginia"
-      },
-      {
-         "description" : "US Chess is pleased to announce plans to create a new program to replace the current Certified Chess Coach Program. To ensure consistent quality standards, these plans include certifying qualified organizations and individuals as a US Chess Coach Certification Authority.US Chess will be issuing a Request for Proposals (RFP) to organizations or individuals interested in becoming a US Chess Coach Certification Authority. Applicants awarded Certification Authority status by US Chess will be granted non-exclusive rights to deliver instructional programs to certify coaches who successfully complete the Certification Authority's US Chess-approved curriculum.US Chess is releasing the RFP as a draft",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/feedback-requested-us-chess-coach-certification-program",
-         "pubDate" : "Fri, 03 Oct 2025 00:00:00",
-         "title" : "Feedback Requested: US Chess Coach Certification Program"
       },
       {
          "description" : " James Canty III is now a World Champion! Readers may have wondered if they missed something. Yet, it is true. Canty won the 7th United Chess Boxing heavyweight world title in Loznica, Serbia. While he is a much stronger chess player than a boxer, the Detroit native knows a thing or two about the sport The post <a href=\"https://thechessdrum.net/blog/2025/10/02/canty-wins-chessboxing-title/\">Canty wins ChessBoxing world title!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
