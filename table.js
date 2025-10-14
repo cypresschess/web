@@ -1,5 +1,6 @@
 jtable([
 "HOUSTON","2025-10-12","8","<a href=http://www.uschess.org/msa/XtblMain.php?202510129212 target='_blank'>OCT 12 SUNDAY SWISS 10AM G/60+30</a>",
+"HOUSTON","2025-10-11","305","<a href=http://www.uschess.org/msa/XtblMain.php?202510119722 target='_blank'>NATIONAL CHESS DAY AT EISENHOWER HS</a>",
 "HOUSTON","2025-10-11","13","<a href=http://www.uschess.org/msa/XtblMain.php?202510117952 target='_blank'>CHESSPANDA10112025SATURDAY</a>",
 "HOUSTON","2025-10-10","10","<a href=http://www.uschess.org/msa/XtblMain.php?202510107572 target='_blank'>OCT 11TH -- TROPHY SCHOLASTIC</a>",
 "HOUSTON","2025-10-10","14","<a href=http://www.uschess.org/msa/XtblMain.php?202510107132 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -15,6 +16,7 @@ jtable([
 "HOUSTON","2025-09-02  - 09-30","17","<a href=http://www.uschess.org/msa/XtblMain.php?202509300842 target='_blank'>SEPTEMBER TUESDAY NIGHT SWISS 2025</a>",
 "HOUSTON","2025-09-28","13","<a href=http://www.uschess.org/msa/XtblMain.php?202509289822 target='_blank'>SEPT 28TH OLD MAN TOURNEY 10AM G/60</a>",
 "HOUSTON","2025-09-28","20","<a href=http://www.uschess.org/msa/XtblMain.php?202509289172 target='_blank'>BELLAIRE SUNDAY SWISS 09/28/25</a>",
+"HOUSTON","2025-09-27","27","<a href=http://www.uschess.org/msa/XtblMain.php?202509278682 target='_blank'>HOUSTON CHESS ACADEMY TMT</a>",
 "HOUSTON","2025-09-27","13","<a href=http://www.uschess.org/msa/XtblMain.php?202509277902 target='_blank'>CHESSPANDA09272025SATURDAY</a>",
 "CYPRESS","2025-09-26","57","<a href=http://www.uschess.org/msa/XtblMain.php?202509267372 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2025-09-26","18","<a href=http://www.uschess.org/msa/XtblMain.php?202509267342 target='_blank'>FBCC NATIONAL DUMPLING DAY OPEN</a>",
@@ -197,6 +199,4 @@ jtable([
 "SPRING","2025-04-04","40","<a href=http://www.uschess.org/msa/XtblMain.php?202504043452 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2025-04-04","14","<a href=http://www.uschess.org/msa/XtblMain.php?202504043432 target='_blank'>APRIL 4TH FRIDAY NIGHT U1600 SWISS</a>",
 "SUGAR LAND","2025-04-04","20","<a href=http://www.uschess.org/msa/XtblMain.php?202504043382 target='_blank'>FBCC PRE-SUGAR LAND CHESSFEST OPEN</a>",
-"HUMBLE","2025-03-29","135","<a href=http://www.uschess.org/msa/XtblMain.php?202503299942 target='_blank'>CATHOLIC SCHOOLS CHAMPIONSHIP</a>",
-"HOUSTON","2025-03-29","20","<a href=http://www.uschess.org/msa/XtblMain.php?202503299812 target='_blank'>MAR 29TH SATURDAY SWISS</a>",
 ]);
