@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " ﻿﻿ Join GMs Yasser Seirawan &#038; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 2 &#124; GAME LINKS ROBSON VS SO RESULT: 0-1 OPARIN VS NIEMANN RESULT: 1/2-1/2 MISHRA VS SEVIAN RESULT: 1/2-1/2 SHANKLAND VS SWIERCZ RESULT: 1-0 ARONIAN VS LIANG RESULT: 1/2-1/2 CARUANA VS WOODWARD RESULT: 1/2-1/2 ﻿﻿ [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-2-fabi-barely-survives-woodward-uschesschamps/\">POSTGAME ROUND 2: Fabi Barely Survives Woodward #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-2-fabi-barely-survives-woodward-uschesschamps/",
+         "pubDate" : "Mon, 13 Oct 2025 23:34:20",
+         "title" : "POSTGAME ROUND 2: Fabi Barely Survives Woodward #USChessChamps"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124524544.cms\" />Once the heart of global chess, Russia's dominance is fading amid geopolitical turmoil and FIDE sanctions. Belarus No. 1 Denis Lazavik reveals the struggles of young players: limited team opportunities, the temptation to switch federations, and the financial and logistical hurdles of competing internationally. Despite these challenges, Lazavik remains focused on climbing the rating ladder and chasing his World Championship dreams.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-russia-once-home-to-chess-now-home-breaker-we-cant-play-as-a-team-players-changing-federation/articleshow/124524544.cms",
+         "pubDate" : "Mon, 13 Oct 2025 23:30:00",
+         "title" : "Exclusive | Russia, once chess's home, now home-breaker: 'We can't play'"
+      },
+      {
          "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,12 +90,12 @@ news_feed (
          "title" : "Caruana, Aronian Strike As U.S. Championships Begin In St. Louis"
       },
       {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-1-round-1-caruanas-epic-win-vs-oparin-uschesschamps/\">POSTGAME 1 ROUND 1: Caruana's Epic Win vs. Oparin | #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-1-round-1-caruanas-epic-win-vs-oparin-uschesschamps/\">POSTGAME ROUND 1: Caruana's Epic Win vs. Oparin | #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-1-round-1-caruanas-epic-win-vs-oparin-uschesschamps/",
          "pubDate" : "Mon, 13 Oct 2025 00:03:14",
-         "title" : "POSTGAME 1 ROUND 1: Caruana's Epic Win vs. Oparin | #USChessChamps"
+         "title" : "POSTGAME ROUND 1: Caruana's Epic Win vs. Oparin | #USChessChamps"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Dr. Jeanne Cairns Sinquefield rings the bell at the start of round 1, with Chess Life Editor John Hartmann spotted in the background (Photo courtesy of Lennart Ootes/SLCC)<br> <br> <br> <br> Every year, we witness a dozen each of the top American male and female players take part in the prestigious U.S Chess Championships, this year hosted in the newly renovated Saint Louis Chess Club (SLCC). This event is always exhilarating to watch, as we witness many generations of American chess battling it out for the coveted titles of U.S and U.S Women's Champion. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <",
@@ -840,14 +856,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/new-dad-alert-magnus-carlsen-welcomes-baby-fides-post-has-everyone-talking/articleshow/124248797.cms",
          "pubDate" : "Wed, 01 Oct 2025 05:43:03",
          "title" : "New dad alert! Magnus Carlsen welcomes baby; FIDE's post has everyone talking"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124233435.cms\" />FIDE is implementing a major rating system change from October 1, removing the 400-point rule for players rated 2650 and above. This reform means top grandmasters will gain minimal points against significantly lower-rated opponents, but face substantial penalties for draws or losses, aiming to curb \"rating farming\" and encourage competition among peers.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/hikaru-nakamura-triggers-fide-rating-system-change-how-will-it-affect-top-gms-like-d-gukesh/articleshow/124233435.cms",
-         "pubDate" : "Tue, 30 Sep 2025 11:42:01",
-         "title" : "Nakamura 'triggers' FIDE rating system change: How will it affect top GM's?"
       },
       {
          "description" : "Please find the details here",
