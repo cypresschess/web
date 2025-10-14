@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase co-founder Matthias W&uuml;llenweber talks in an interview about 40 years of ChessBase, 35 years of Fritz and much more. The interview was first published in the October issue of Schach-Magazin 64 and appears here with the kind permission of Otto Borik, editor-in-chief of the chess magazine. | Photos: ChessBase / Nils Rohde / Archive Otto Borik",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/in-chess-ai-fails-due-to-its-hallucinations-an-interview-with-matthias-wuellenweber",
+         "pubDate" : "Tue, 14 Oct 2025 15:39:45",
+         "title" : "\"In chess, AI fails due to its hallucinations\" - An interview with Matthias W&uuml;llenweber"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124553919.cms\" />World champion D Gukesh is the top seed at the FIDE World Cup in Goa, running October 30 to November 27. Indian stars Arjun Erigaisi and R Praggnanandhaa are seeded second and third, respectively. The prestigious tournament features 206 players and offers three direct qualification spots for the 2026 Candidates Tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-d-gukesh-top-seed-for-goa-event-arjun-erigaisi-r-praggnanandhaa-seeded-second-and-third/articleshow/124553919.cms",
+         "pubDate" : "Tue, 14 Oct 2025 13:28:08",
+         "title" : "Chess WC: Gukesh top seed; Erigaisi, Pragg seeded second and third"
+      },
+      {
+         "description" : "The 5th FIDE Intercontinental Online Chess Championship for Prisoners is taking place from October 14 to 16, 2025, bringing together incarcerated men, women, and youth from correctional facilities around the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/the-5th-fide-intercontinental-online-chess-championship-for-prisoners/",
+         "pubDate" : "Tue, 14 Oct 2025 12:41:33",
+         "title" : "The 5th FIDE Intercontinental Online Chess Championship for Prisoners"
+      },
+      {
          "description" : "The ninth and final round of the European Team Championships will determine the medal winners. In the Open Ukraine and Azerbaijan fight for victory, in the Women's Tournament Poland is in the lead, but Ukraine and Germany can still hope to win. | Watch the games live with video commentary. Start: Around 10:00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -832,14 +856,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/10/02/canty-wins-chessboxing-title/",
          "pubDate" : "Thu, 02 Oct 2025 20:28:55",
          "title" : "Canty wins ChessBoxing world title!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124269670.cms\" />From sibling rivalry in Goa to becoming the state's second Grandmaster, 19-year-old Leon Luke Mendonca's journey has been shaped by family sacrifice and resilience. After illness marred his Tata Steel Masters debut, the teenager rebounded with consistent performances to earn a World Cup reserve spot in Goa, underlining his persistence in chasing the next level of global chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-leon-mendonca-story-from-father-leaving-job-for-chess-to-battling-illness-in-wijk-aan-zee-now-world-cup-reserve/articleshow/124269670.cms",
-         "pubDate" : "Thu, 02 Oct 2025 05:23:03",
-         "title" : "Leon Mendonca's journey: Chess, setbacks, and the road to World Cup reserve"
       },
       {
          "description" : "In this issue, I have decided to just 'follow along' with what was provided from the Front Office's Recent Event Winners report and the tournaments the players participated in. All games and puzzles provided in this issue were played in the Walter Muir E-Quads tournament (specifically Section 25W07) or the Victor Palciauskas tournament (specifically Section 25VP04). In addition, for each game, at least one of the players was a winner of their respective tournament's section. Victor PalciauskasThe Victor Palciauskas tournament started on March 12 of this year. There were seven participants in Section 25VP04. Below are the current results of the section. Even though there are two games from th",
