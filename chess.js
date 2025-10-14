@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
+         "pubDate" : "Tue, 14 Oct 2025 19:00:00",
+         "title" : "US Chess Championships - Live!"
+      },
+      {
+         "description" : " The 25th European Team championships took place in Batumi, Georgia 5th to 14th October 2025. Leading players such as Anish Giri, Vincent Keymer, Shakhriyar Mamedyarov, Richard Rapport competed, the field had 56 players over 2600. In the women's event the leading players were Nana Dzagnidze, Nino Batsiashvili, Alexandra Kosteniuk etc. Ukraine won the event by beating England 2.5-1.5 in the final round. Azerbaijan finished second in spite of losing to Serbia in the last round whose win earned them a third place finish. In the women's event Poland beat Azerbaijan in the final round to take first place, Ukraine drew with Armenia to take second place and Germany finished third in spite of losing",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/25th-european-teams-2025",
+         "pubDate" : "Tue, 14 Oct 2025 17:31:00",
+         "title" : "25th European Teams 2025 - Games and Results"
+      },
+      {
          "description" : "ChessBase co-founder Matthias W&uuml;llenweber talks in an interview about 40 years of ChessBase, 35 years of Fritz and much more. The interview was first published in the October issue of Schach-Magazin 64 and appears here with the kind permission of Otto Borik, editor-in-chief of the chess magazine. | Photos: ChessBase / Nils Rohde / Archive Otto Borik",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +42,28 @@ news_feed (
          "title" : "The 5th FIDE Intercontinental Online Chess Championship for Prisoners"
       },
       {
+         "description" : "The featured match in the third week of the Collegiate Chess League (CCL) saw IM Roman Pyrih escape from two lost positions to score a perfect 4-0 and lead his Texas Tech University (TTU) chess team to their first victory of the season. It was a t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2025-ccl-fall-week-3-ttu-utrgv",
+         "pubDate" : "Tue, 14 Oct 2025 12:08:24",
+         "title" : "Pyrih, Texas Tech Win Lonestar State Battle In CCL Week Three"
+      },
+      {
          "description" : "The ninth and final round of the European Team Championships will determine the medal winners. In the Open Ukraine and Azerbaijan fight for victory, in the Women's Tournament Poland is in the lead, but Ukraine and Germany can still hope to win. | Watch the games live with video commentary. Start: Around 10:00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-team-championships-live",
          "pubDate" : "Tue, 14 Oct 2025 10:00:00",
          "title" : "European Team Championships - Live!"
+      },
+      {
+         "description" : "WFM Alexandra Botez is best known for her career as a chess content creator and streamer, but now she&#39;s also entering game development with the launch of her first videogame. Co-produced with indie studio Millions of Monsters, Chess Arena reimagin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alexandra-botez-launches-chess-inspired-videogame",
+         "pubDate" : "Tue, 14 Oct 2025 09:21:00",
+         "title" : "Alexandra Botez Launches Chess-Inspired Videogame"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124548274.cms\" />While the US Chess Championship showcased professional player treatment with an umbrella for sunlight, India's National Championship faced chaos. Players endured monkeys, power cuts, and leaking tents, highlighting poor playing conditions. This stark contrast raises concerns about India's ability to host major chess events, despite its growing chess prowess.",
@@ -42,11 +74,11 @@ news_feed (
          "title" : "Monkeys, power cuts and leaks: How India hosted chess Nationals"
       },
       {
-         "description" : "GMs Wesley So and Sam Shankland joined GMs Fabiano Caruana and Levon Aronian in a four-way tie for the 2025 U.S. Chess Championship lead on 1.5/2 after scoring the only wins in round two. So beat his old college roommate GM Ray Robson while Shankl...",
+         "description" : "GMs Wesley So and Sam Shankland joined GMs Fabiano Caruana and Levon Aronian in a four-way tie for the 2025 U.S. Chess Championship lead on 1.5/2 after scoring the only wins in round two. So beat his old college roommate GM Ray Robson&#38;nbsp;while S...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-us-championship-round-2",
-         "pubDate" : "Tue, 14 Oct 2025 02:57:43",
+         "pubDate" : "Tue, 14 Oct 2025 02:57:00",
          "title" : "So, Shankland Join Lead As Caruana Escapes; Sargsyan On Perfect Score"
       },
       {
@@ -56,6 +88,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-carlsen-martinez-firouzja-minh-le",
          "pubDate" : "Tue, 14 Oct 2025 01:47:00",
          "title" : "Firouzja, Carlsen Begin Path Back To SCC Finals"
+      },
+      {
+         "description" : "The 2025 U.S. and U.S. Women's Championships in St. Louis are unfolding with drama, tension, and upsets in every round. Both fields are fiercely competitive, and Round 2 brought a mix of precision, pressure, and a few painful blunders. U.S. ChampionshipIn Round 2, GM Ray Robson stumbled late in his game against Wesley So, who punished the mistake brilliantly by marching his black king all the way to the f3-square to seal the win. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Wesley So delivered an entertaining victory featuring a very active king (Photo courtesy of Lennart Ootes/SLCC)<br> <br> <br> <br> After yesterday's loss to GM Fabiano Caruana, G",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/sargsyan-and-woodward-display-brilliant-play-round-2",
+         "pubDate" : "Tue, 14 Oct 2025 00:00:00",
+         "title" : "Sargsyan and Woodward Display Brilliant Play in Round 2"
       },
       {
          "description" : " ﻿﻿ Join GMs Yasser Seirawan &#038; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 2 &#124; GAME LINKS ROBSON VS SO RESULT: 0-1 OPARIN VS NIEMANN RESULT: 1/2-1/2 MISHRA VS SEVIAN RESULT: 1/2-1/2 SHANKLAND VS SWIERCZ RESULT: 1-0 ARONIAN VS LIANG RESULT: 1/2-1/2 CARUANA VS WOODWARD RESULT: 1/2-1/2 ﻿﻿ [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-2-fabi-barely-survives-woodward-uschesschamps/\">POSTGAME ROUND 2: Fabi Barely Survives Woodward #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -72,14 +112,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-russia-once-home-to-chess-now-home-breaker-we-cant-play-as-a-team-players-changing-federation/articleshow/124524544.cms",
          "pubDate" : "Mon, 13 Oct 2025 23:30:00",
          "title" : "Exclusive | Russia, once chess's home, now home-breaker: 'We can't play'"
-      },
-      {
-         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
-         "pubDate" : "Mon, 13 Oct 2025 19:00:00",
-         "title" : "US Chess Championships - Live!"
       },
       {
          "description" : "The 2025 US Chess Championships began in Saint Louis with an eventful first day that saw Fabiano Caruana and Levon Aronian take the early lead in the open section, while Irina Krush, Atousa Pourkashiyan and Anna Sargsyan prevailed in the women's event. The opening round was notable both for the quality of play and for the unusual sight of an arbiter holding an umbrella during one of the games. | Photo: Lennart Ootes",
@@ -618,14 +650,6 @@ news_feed (
          "title" : "Tactics Tuesday: 2025 FIDE World Cadet Championships, Pt. 2"
       },
       {
-         "description" : " The 25th European Team championships take place in Batumi, Georgia 5th to 14th October 2025. Leading players such as Anish Giri, Vincent Keymer, Shakhriyar Mamedyarov, Richard Rapport, the field has 56 players over 2600. In the women's event the leading players are Nana Dzagnidze, Nino Batsiashvili, Alexandra Kosteniuk etc. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/25th-european-teams-2025",
-         "pubDate" : "Mon, 6 Oct 2025 20:24:00",
-         "title" : "25th European Teams 2025 - Games and Results"
-      },
-      {
          "description" : "The second round of the European Team Chess Championship 2025 was played today in Batumi, Georgia, and only five teams remained with the perfect score in the Open section, while there are eight teams scoring the maximum of 4/4 match points in the Women's section. The second round brought interesting games, matches, and a few surprising results. Most of the top board matches finished with the draw, leaving only Romania, Greece, Slovenia, Serbia and France with the score of 4/4 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -762,14 +786,6 @@ news_feed (
          "title" : "Nakamura Checkmates Gukesh, Electrifies Crowd At Checkmate India vs USA"
       },
       {
-         "description" : "GM Daniel Naroditsky was the deserving winner of October&#39;s first Bullet Brawl and the $400 first prize after he toppled 30 players with Chess.com bullet ratings over 3000 en route to a dominant victory. Naroditsky scored 55/73 overall and accumu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-oct-4-2025",
-         "pubDate" : "Sat, 04 Oct 2025 16:28:00",
-         "title" : "Naroditsky Runs Away With 32nd Bullet Brawl Title"
-      },
-      {
          "description" : "Having a plan is great. But then real life happens, and it gets chaotic real quick. The list of possible things to get between you and your scheduled training is endless. The key is not to avoid these that's impossible. What determines if you stick to your chess improvement is how you react to []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -784,14 +800,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-65th-gm-raunak-sadhwani-gets-wildcard-entry-for-fide-chess-world-cup/articleshow/124301978.cms",
          "pubDate" : "Sat, 04 Oct 2025 04:30:38",
          "title" : "India's 65th GM Sadhwani gets wildcard entry for FIDE Chess WC"
-      },
-      {
-         "description" : "In September, IM Nhat Minh To won the 2025 Duck Chess Championship. In October, he conquered another variant, winning the 2025 Seirawan Chess Championship. Minh To did it the hard way, losing his very first match, and then having to win the Grand ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/variant-king-minh-to-wins-2025-seirawan-chess-championship",
-         "pubDate" : "Sat, 04 Oct 2025 03:42:13",
-         "title" : "Variant King Minh To Wins 2025 Seirawan Chess Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124301271.cms\" />Fabiano Caruana secured his second Grand Chess Tour Finals victory, earning $150,000 after a remarkable comeback. He defeated runner-up Maxime Vachier-Lagrave, who initially won the first game but saw Caruana secure three consecutive victories. Levon Aronian claimed third place and $60,000, dominating Praggnanandhaa Rameshbabu. Caruana expressed the immense prestige of this difficult win.",
@@ -856,14 +864,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/10/02/canty-wins-chessboxing-title/",
          "pubDate" : "Thu, 02 Oct 2025 20:28:55",
          "title" : "Canty wins ChessBoxing world title!"
-      },
-      {
-         "description" : "In this issue, I have decided to just 'follow along' with what was provided from the Front Office's Recent Event Winners report and the tournaments the players participated in. All games and puzzles provided in this issue were played in the Walter Muir E-Quads tournament (specifically Section 25W07) or the Victor Palciauskas tournament (specifically Section 25VP04). In addition, for each game, at least one of the players was a winner of their respective tournament's section. Victor PalciauskasThe Victor Palciauskas tournament started on March 12 of this year. There were seven participants in Section 25VP04. Below are the current results of the section. Even though there are two games from th",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-october-2025-follow-along",
-         "pubDate" : "Thu, 02 Oct 2025 00:00:00",
-         "title" : "Check is in the Mail, October 2025: Follow Along!"
       },
       {
          "description" : "Sharvaanica A.S. was leading by half a point before the start of the final round, where a draw would have been enough for her to",
