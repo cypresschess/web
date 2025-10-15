@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
+         "pubDate" : "Wed, 15 Oct 2025 19:00:00",
+         "title" : "US Chess Championships - Live!"
+      },
+      {
+         "description" : "The Colle and Zukertort Systems offer White a simple yet powerful setup with d4-Nf3-e3-Bd3, aiming for rapid development and a strong kingside attack. The Colle-Koltanowski focuses on c3 and e4, while the Zukertort System employs b3 and a fianchettoed bishop for added strategic depth. Easy to learn and highly effective for club players, this course teaches key sacrifices, maneuvers, and attacking ideas through classical and modern grandmaster games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-the-menacing-colle-zukertort-system-for-the-club-player",
+         "pubDate" : "Wed, 15 Oct 2025 17:00:00",
+         "title" : "Robert Ris: The menacing Colle & Zukertort System for the Club Player!"
+      },
+      {
          "description" : "In a surprising move, FIDE has officially approved a new world championship format: the Total Chess World Championship Tour, organized by Norway Chess. The Tour will determine a FIDE World Combined Champion across three disciplines - Fast Classic, Rapid, and Blitz - through four global events each year. With a $2.7 million annual prize pool, the series aims to find \"The Total Chess Player\" and bring faster, tech-enhanced formats to a wider audience. A pilot event launches in fall 2026, followed by the first full season in 2027. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -112,6 +128,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-us-championship-round-3",
          "pubDate" : "Wed, 15 Oct 2025 02:00:14",
          "title" : "Wesley So Takes Sole US Championship Lead; Paikidze Catches Sargsyan"
+      },
+      {
+         "description" : "Round 3 saw great attacking games in both the U.S. Championship and the U.S. Women's Championship. U.S. Women's ChampionshipThe women gave us several exciting and instructive games, with 4 decisive results. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Nazi Paikidze's victory over Tatev Abrahamyan vaulted her into a share of the lead (Photo courtesy of Lennart Ootes/SLCC)<br> <br> <br> <br> IM Nazi Paikidze won for the second day in a row, defeating IM Tatev Abrahamyan in a game that should find its way into best game collections or even textbooks of the future: <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/round-3-women-bring-fire-board-wesley-so-takes-lead",
+         "pubDate" : "Wed, 15 Oct 2025 00:00:00",
+         "title" : "Round 3: Women Bring Fire to Board, Wesley So Takes Lead"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#038; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 3 &#124; GAME LINKS SO VS SHANKLANDRESULT: 1-0 LIANG VS CARUANARESULT: 1/2-1/2 SWIERCZ VS MISHRARESULT: 1/2-1/2 NIEMANN VS ROBSONRESULT: 1/2-1/2 WOODWARD VS OPARINRESULT: 0-1 SEVIAN VS ARONIANRESULT: 1/2-1/2 ROUND 3 &#124; GAME LINKS PAIKIDZE VS ABRAHAMYANRESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-3-paikidzes-dominate-class-topples-tatev-uschesschamps/\">POSTGAME ROUND 3: Paikidze's Dominate Class Topples Tatev! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint L",
@@ -904,14 +928,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/oct/03/chess-messi-faustino-oro-achieves-grandmaster-norm-and-2500-rating-at-just-11",
          "pubDate" : "Fri, 03 Oct 2025 07:00:28",
          "title" : "'Chess Messi' Faustino Oro achieves grandmaster norm and 2500 rating at just 11"
-      },
-      {
-         "description" : "What are your National Chess Day plans? This year's festivities, set for Saturday, October 11, are just one week away. This is a great time to find a tournament in your area or even consider running one yourself! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> In order to encourage affiliates to host events, US Chess is offering free email blasts and waived rating fees for tournaments hosted on this day.On Chess Life Online, we plan on sharing some of the events planned for National Chess Day that have caught our eye. Feel free to email Click here to show email address with information about your event if you would be interested in possibly being featured in a National ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/national-chess-day-preview-puzzle-night-shepherdstown-west-virginia",
-         "pubDate" : "Fri, 03 Oct 2025 00:00:00",
-         "title" : "National Chess Day Preview: Puzzle Night in Shepherdstown, West Virginia"
       },
       {
          "description" : " James Canty III is now a World Champion! Readers may have wondered if they missed something. Yet, it is true. Canty won the 7th United Chess Boxing heavyweight world title in Loznica, Serbia. While he is a much stronger chess player than a boxer, the Detroit native knows a thing or two about the sport The post <a href=\"https://thechessdrum.net/blog/2025/10/02/canty-wins-chessboxing-title/\">Canty wins ChessBoxing world title!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
