@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 European Team Chess Championship concluded in Batumi with Ukraine and Poland emerging as the continental champions in the open and women's sections respectively. Both teams entered the final round in control of their own destinies and confirmed their titles with victories on the last day of play. The tournament featured 40 teams in the open section and 36 in the women's. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2025-9",
+         "pubDate" : "Wed, 15 Oct 2025 08:00:00",
+         "title" : "Ukraine and Poland grab gold at European Team Championships"
+      },
+      {
          "description" : " Join GMs Yasser Seirawan &#038; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 3 &#124; GAME LINKS SO VS SHANKLANDRESULT: 1-0 LIANG VS CARUANARESULT: 1/2-1/2 SWIERCZ VS MISHRARESULT: 1/2-1/2 NIEMANN VS ROBSONRESULT: 1/2-1/2 WOODWARD VS OPARINRESULT: 0-1 SEVIAN VS ARONIANRESULT: 1/2-1/2 ROUND 3 &#124; GAME LINKS PAIKIDZE VS ABRAHAMYANRESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-3-paikidzes-dominate-class-topples-tatev-uschesschamps/\">POSTGAME ROUND 3: Paikidze's Dominate Class Topples Tatev! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint L",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
