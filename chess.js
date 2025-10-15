@@ -34,6 +34,14 @@ news_feed (
          "title" : "Norway Chess organisers launch World Championship Tour"
       },
       {
+         "description" : "GM Denis Lazavik defeated GM&#38;nbsp;Arjun Erigaisi&#38;nbsp;12-9 in the Speed Chess Championship 2025. The 3+1 segment separated the players, and GM Aman Hambleton aptly summarized it: &#34;I don&#39;t even recall Arjun playing a terrible match, Denis was just ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-r16-arjun-lazavik",
+         "pubDate" : "Wed, 15 Oct 2025 12:34:00",
+         "title" : "Lazavik Bests Arjun, Advances To QuarterFinals"
+      },
+      {
          "description" : "FIDE has extended the deadline for submissions to the FIDE Social Chess Storytelling Challenge 2025. Participants now have until November 30, 2025, to submit their stories under the theme &#8216;Every...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -128,6 +136,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-us-championship-round-3",
          "pubDate" : "Wed, 15 Oct 2025 02:00:14",
          "title" : "Wesley So Takes Sole US Championship Lead; Paikidze Catches Sargsyan"
+      },
+      {
+         "description" : "This week's puzzles continue our series on the 2025 FIDE World Cadet Championships, which concluded last Tuesday in Almaty, Kazakhstan (flash report | full report). For even more puzzles, see part 1, part 2, and part 3 of our Tactics Tuesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2025-fide-world-cadet-championships-pt-2",
+         "pubDate" : "Wed, 15 Oct 2025 00:00:00",
+         "title" : "Wednesday Workout: 2025 FIDE World Cadet Championships, Pt. 2"
       },
       {
          "description" : "Round 3 saw great attacking games in both the U.S. Championship and the U.S. Women's Championship. U.S. Women's ChampionshipThe women gave us several exciting and instructive games, with 4 decisive results. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Nazi Paikidze's victory over Tatev Abrahamyan vaulted her into a share of the lead (Photo courtesy of Lennart Ootes/SLCC)<br> <br> <br> <br> IM Nazi Paikidze won for the second day in a row, defeating IM Tatev Abrahamyan in a game that should find its way into best game collections or even textbooks of the future: <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>",
@@ -746,14 +762,6 @@ news_feed (
          "title" : "Nine-year-old Sarbartho Mani bags bronze in World Cadet Chess C'ship"
       },
       {
-         "description" : "GM Alireza Firouzja won a tense Titled Tuesday on October 7, taking it on tiebreaks ahead of GM Ian Nepomniachtchi and GM Jan-Krzysztof Duda after they all posted a 9.5/11 score. GM Xiao Tong, a 16-year old grandmaster rated over 3100 in Chess.com...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-october-7-2025",
-         "pubDate" : "Tue, 07 Oct 2025 11:30:25",
-         "title" : "Firouzja Completes Comeback To Caper Into CCT Contention"
-      },
-      {
          "description" : "Please find the final report here",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -840,14 +848,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/checkmate-usa-vs-india-team-usa-victory-and-throwing-king",
          "pubDate" : "Mon, 06 Oct 2025 00:00:00",
          "title" : "Checkmate: USA vs India: Team USA Victory, and Throwing a King"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> With Ranae Bartlett's departure from US Chess to become the next mayor of Madison, Alabama, the US Chess Executive Board has named Francisco (Franc) Guadalupe as the Interim Executive Director effective October 13.Bartlett will continue serving her duties through her last day of October 21. Guadalupe's appointment as Interim Executive Director is for a 90-day term. The Executive Board is currently conducting a national search for the Executive Director position, with a desired start date by January 15, 2026. Guadalupe returns to US Chess after retiring at the end of 2017 after many years of service to US Chess, including t",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/francisco-guadalupe-named-interim-executive-director",
-         "pubDate" : "Mon, 06 Oct 2025 00:00:00",
-         "title" : "Francisco Guadalupe Named Interim Executive Director"
       },
       {
          "description" : "The European Team Chess Championship 2025 commenced today in Batumi, Georgia! The event is played in 9 rounds, swiss system, Open and Women's sections separately, with the participation of 76 teams (40 teams in Open tournament and 36 teams participate in the Women's championship). The Opening ceremony of the event took place shortly before the start of the first round. The ECU President Mr. Zurab Azmaiparashvili and the President of the Georgian Chess Federation Mr. Akaki Iashvili addressed the players []",
