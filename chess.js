@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Join GMs Yasser Seirawan &#038; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 3 &#124; GAME LINKS SO VS SHANKLANDRESULT: 1-0 LIANG VS CARUANARESULT: 1/2-1/2 SWIERCZ VS MISHRARESULT: 1/2-1/2 NIEMANN VS ROBSONRESULT: 1/2-1/2 WOODWARD VS OPARINRESULT: 0-1 SEVIAN VS ARONIANRESULT: 1/2-1/2 ROUND 3 &#124; GAME LINKS PAIKIDZE VS ABRAHAMYANRESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-3-paikidzes-dominate-class-topples-tatev-uschesschamps/\">POSTGAME ROUND 3: Paikidze's Dominate Class Topples Tatev! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint L",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-3-paikidzes-dominate-class-topples-tatev-uschesschamps/",
+         "pubDate" : "Tue, 14 Oct 2025 23:57:56",
+         "title" : "POSTGAME ROUND 3: Paikidze's Dominate Class Topples Tatev! #USChessChamps"
+      },
+      {
          "description" : "The European Team Chess Championship 2025 concluded today in Batumi, Georgia. Intense final round determined the Winners and Medalists in the Open section, as Ukraine and Azerbaijan headed into the last with a joint lead. Azerbaijan played against Serbia on the top board, while Ukraine faced England. Higher-rated team of Azerbaijan was the favourite in the match against Serbia, but Serbians took a convincing 3-1 victory with GM Alexey Sarana (SRB, 2661) defeating GM Shakhriyar Mamedyarov (AZE, 2742), GM Aleksandar []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
