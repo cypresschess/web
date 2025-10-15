@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Two decisive games were seen in the open section and four in the women's section as round three of the US Chess Championships took place in Saint Louis. In the open, Wesley So defeated Sam Shankland to move into the sole lead on 2&frac12; points, while Grigoriy Oparin scored his first win of the tournament. In the women's championship, Nazi Paikidze caught Anna Sargsyan at the top after defeating Tatev Abrahamyan, while Irina Krush, Alice Lee and Thalia Cervantes also claimed victories. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2025-3",
-         "pubDate" : "Wed, 15 Oct 2025 13:10:00",
-         "title" : "US Championships: So beats Shankland, becomes sole leader"
-      },
-      {
          "description" : "In a surprising move, FIDE has officially approved a new world championship format: the Total Chess World Championship Tour, organized by Norway Chess. The Tour will determine a FIDE World Combined Champion across three disciplines - Fast Classic, Rapid, and Blitz - through four global events each year. With a $2.7 million annual prize pool, the series aims to find \"The Total Chess Player\" and bring faster, tech-enhanced formats to a wider audience. A pilot event launches in fall 2026, followed by the first full season in 2027. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-launches-new-world-championship-approved-by-fide",
          "pubDate" : "Wed, 15 Oct 2025 13:04:51",
          "title" : "Norway Chess Launches New World Championship - Approved by FIDE"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124579629.cms\" />Norway Chess has unveiled the Total Chess World Championship Tour, a new annual event starting in 2027 featuring Fast Classic, Rapid, and Blitz formats. This FIDE-approved tour, with a substantial prize pool, aims to crown a unified champion across disciplines, complementing existing World Championships and potentially offering a path to the Candidates tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-organisers-launch-world-championship-tour/articleshow/124579629.cms",
+         "pubDate" : "Wed, 15 Oct 2025 12:41:00",
+         "title" : "Norway Chess organisers launch World Championship Tour"
+      },
+      {
+         "description" : "FIDE has extended the deadline for submissions to the FIDE Social Chess Storytelling Challenge 2025. Participants now have until November 30, 2025, to submit their stories under the theme &#8216;Every...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/fide-social-chess-storytelling-challenge-deadline-extended/",
+         "pubDate" : "Wed, 15 Oct 2025 12:28:03",
+         "title" : "FIDE Social Chess Storytelling Challenge deadline extended"
       },
       {
          "description" : "In today's hectic chess world, it is easy to forget that the game we play now is built on foundations established many years ago. A biography of a player -...",
@@ -87,14 +95,14 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/norway-chess-launches-new-fide-approved-total-chess-world-championship-tour",
          "pubDate" : "Wed, 15 Oct 2025 03:08:00",
-         "title" : "Norway Chess Launches New FIDE-Approved \"Total Chess World Championship Tour\""
+         "title" : "Norway Chess Launches New FIDE-Approved 'Total Chess World Championship Tour'"
       },
       {
          "description" : "The Ukrainian Open team and the Polish Women&#39;s team won the 2025 European Team Championships in Batumi, Georgia on Tuesday. Both teams were in the lead after round five and suffered subsequent losses but managed to clinch the gold medals after all...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ukraine-poland-win-2025-european-team-championships",
-         "pubDate" : "Wed, 15 Oct 2025 02:56:51",
+         "pubDate" : "Wed, 15 Oct 2025 02:56:00",
          "title" : "Gold For Ukraine, Poland At European Team Championships"
       },
       {
@@ -186,7 +194,7 @@ news_feed (
          "title" : "Alexandra Botez Launches Chess-Inspired Videogame"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124548274.cms\" />While the US Chess Championship showcased professional player treatment with an umbrella for sunlight, India's National Championship faced chaos. Players endured monkeys, power cuts, and leaking tents, highlighting poor playing conditions. This stark contrast raises concerns about India's ability to host major chess events, despite its growing chess prowess.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124548274.cms\" />While American chess players enjoy top-tier conditions, India's recent National Championship was marred by monkeys, power outages, and leaking tents. This stark contrast highlights significant issues in organizing major chess events domestically, raising concerns as India prepares to host the FIDE World Cup. Top players are questioning the country's commitment to its chess talent.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/as-india-readies-to-host-chess-world-cup-nationals-witness-monkey-invasion-power-cuts-and-leaking-tents/articleshow/124548274.cms",
@@ -888,14 +896,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/grand-chess-tour-finals-2025",
          "pubDate" : "Fri, 3 Oct 2025 22:08:00",
          "title" : "Grand Chess Tour Finals 2025 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124285478.cms\" />Indian chess witnessed a landmark September as Arjun Erigaisi ascended to world number four and Nihal Sarin joined the elite 2700 club. Vaishali Rameshbabu secured a Women's Candidates spot, while Divya Deshmukh also impressed. Junior prodigies like Pranav Venkatesh, Abhimanyu Mishra, and Ashwath Kaushik achieved significant rating gains, underscoring India's burgeoning status as a global chess powerhouse.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-d-gukesh-out-of-top-10-in-latest-fide-rankings-arjun-erigaisi-surpasses-r-praggnanandhaa-to-become-india-no-1/articleshow/124285478.cms",
-         "pubDate" : "Fri, 03 Oct 2025 07:19:11",
-         "title" : "FIDE rankings: Gukesh out of top 10; Erigaisi becomes India No. 1"
       },
       {
          "description" : " The Argentinian looks set to break the record for the youngest GM after winning the Legends and Prodigies tournament in Madrid Faustino Oro, the 11-year-old \"chess Messi\" from Argentina, set new world records for his age when he won last week's Legends and Prodigies tournament in Madrid with an unbeaten 7.5/9, achieving his first grandmaster norm (of three needed for the title) with 1.5 points to spare, plus a 2509 GM rating on Fide's <a href=\"https://ratings.fide.com/top_lists.phtml?list=juniors\">October rating list</a>. Oro is the first under-12 in chess history to be rated 2500-plus. His next target will be his second and third GM norms, and with them Abhimanyu Mishra's world record as t",
