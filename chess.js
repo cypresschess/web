@@ -2,12 +2,108 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two decisive games were seen in the open section and four in the women's section as round three of the US Chess Championships took place in Saint Louis. In the open, Wesley So defeated Sam Shankland to move into the sole lead on 2&frac12; points, while Grigoriy Oparin scored his first win of the tournament. In the women's championship, Nazi Paikidze caught Anna Sargsyan at the top after defeating Tatev Abrahamyan, while Irina Krush, Alice Lee and Thalia Cervantes also claimed victories. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2025-3",
+         "pubDate" : "Wed, 15 Oct 2025 13:10:00",
+         "title" : "US Championships: So beats Shankland, becomes sole leader"
+      },
+      {
+         "description" : "In a surprising move, FIDE has officially approved a new world championship format: the Total Chess World Championship Tour, organized by Norway Chess. The Tour will determine a FIDE World Combined Champion across three disciplines - Fast Classic, Rapid, and Blitz - through four global events each year. With a $2.7 million annual prize pool, the series aims to find \"The Total Chess Player\" and bring faster, tech-enhanced formats to a wider audience. A pilot event launches in fall 2026, followed by the first full season in 2027. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-launches-new-world-championship-approved-by-fide",
+         "pubDate" : "Wed, 15 Oct 2025 13:04:51",
+         "title" : "Norway Chess Launches New World Championship - Approved by FIDE"
+      },
+      {
+         "description" : "In today's hectic chess world, it is easy to forget that the game we play now is built on foundations established many years ago. A biography of a player -...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-2025/",
+         "pubDate" : "Wed, 15 Oct 2025 08:41:48",
+         "title" : "ECF Book of the Year 2025"
+      },
+      {
          "description" : "The 2025 European Team Chess Championship concluded in Batumi with Ukraine and Poland emerging as the continental champions in the open and women's sections respectively. Both teams entered the final round in control of their own destinies and confirmed their titles with victories on the last day of play. The tournament featured 40 teams in the open section and 36 in the women's. | Photos: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-team-championship-2025-9",
          "pubDate" : "Wed, 15 Oct 2025 08:00:00",
          "title" : "Ukraine and Poland grab gold at European Team Championships"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/council-papers/#new_tab",
+         "pubDate" : "Wed, 15 Oct 2025 07:00:16",
+         "title" : "Council papers for the ECF AGM"
+      },
+      {
+         "description" : "The new Coventry International will take place from Sunday 26th October to Friday 31st October 2025 at the Holiday Inn Coventry M6, JCT.2 in Coventry. The hotel is familiar to...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2025-coventry-international/",
+         "pubDate" : "Wed, 15 Oct 2025 06:50:58",
+         "title" : "2025 Coventry International"
+      },
+      {
+         "description" : "The UK Open Blitz Championship returns in 2025, featuring an expanded format with 16 qualifiers in 14 cities around the United Kingdom. Eldar Gasanov will be aiming for a hat-trick...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/uk-open-blitz-championship-2025/",
+         "pubDate" : "Wed, 15 Oct 2025 06:40:21",
+         "title" : "UK Open Blitz Championship 2025"
+      },
+      {
+         "description" : "Coventry will be transformed into a city of chess next summer as the University of Warwick hosts the 2026 British Chess Championships. More than 1,000 chess players from across the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2026-british-championships-venue-announcement/",
+         "pubDate" : "Wed, 15 Oct 2025 06:30:26",
+         "title" : "2026 British Championships Venue Announcement"
+      },
+      {
+         "description" : "The 5th FIDE Intercontinental Online Chess Championship for Prisoners is taking place from October 14 to 16, 2025, bringing together incarcerated men, women, and youth from correctional facilities around the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/the-5th-fide-intercontinental-online-chess-championship-for-prisoners/",
+         "pubDate" : "Wed, 15 Oct 2025 06:20:33",
+         "title" : "The 5th FIDE Intercontinental Online Chess Championship for Prisoners"
+      },
+      {
+         "description" : "Applications are invited for funding under the ECF's Grassroots Initiative (fifth tranche). The closing date for applications is 12th November. There have already been 136 applications for support under the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/next-grassroots-assessment-3/",
+         "pubDate" : "Wed, 15 Oct 2025 06:10:56",
+         "title" : "Next Grassroots assessment"
+      },
+      {
+         "description" : "The organizers behind Norway Chess have announced an ambitious new competition officially endorsed by the International Chess Federation (FIDE). The Total Chess World Championship Tour will crown an entirely new FIDE World Combined Champion across...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/norway-chess-launches-new-fide-approved-total-chess-world-championship-tour",
+         "pubDate" : "Wed, 15 Oct 2025 03:08:00",
+         "title" : "Norway Chess Launches New FIDE-Approved \"Total Chess World Championship Tour\""
+      },
+      {
+         "description" : "The Ukrainian Open team and the Polish Women&#39;s team won the 2025 European Team Championships in Batumi, Georgia on Tuesday. Both teams were in the lead after round five and suffered subsequent losses but managed to clinch the gold medals after all...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ukraine-poland-win-2025-european-team-championships",
+         "pubDate" : "Wed, 15 Oct 2025 02:56:51",
+         "title" : "Gold For Ukraine, Poland At European Team Championships"
+      },
+      {
+         "description" : "Three-time U.S. Champion Wesley So beat 2018 Champion Sam Shankland to take the sole lead in the 2025 U.S. Chess Championship on 2.5/3. He&#39;s trailed by half a point by GMs Fabiano Caruana and Levon Aronian, who made quiet draws with the black piec...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-us-championship-round-3",
+         "pubDate" : "Wed, 15 Oct 2025 02:00:14",
+         "title" : "Wesley So Takes Sole US Championship Lead; Paikidze Catches Sargsyan"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#038; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 3 &#124; GAME LINKS SO VS SHANKLANDRESULT: 1-0 LIANG VS CARUANARESULT: 1/2-1/2 SWIERCZ VS MISHRARESULT: 1/2-1/2 NIEMANN VS ROBSONRESULT: 1/2-1/2 WOODWARD VS OPARINRESULT: 0-1 SEVIAN VS ARONIANRESULT: 1/2-1/2 ROUND 3 &#124; GAME LINKS PAIKIDZE VS ABRAHAMYANRESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-3-paikidzes-dominate-class-topples-tatev-uschesschamps/\">POSTGAME ROUND 3: Paikidze's Dominate Class Topples Tatev! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint L",
@@ -24,14 +120,6 @@ news_feed (
          "link" : "https://www.europechess.org/ukraine-and-poland-are-european-team-chess-champions-2025/",
          "pubDate" : "Tue, 14 Oct 2025 20:08:17",
          "title" : "Ukraine and Poland are European Team Chess Champions 2025!"
-      },
-      {
-         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
-         "pubDate" : "Tue, 14 Oct 2025 19:00:00",
-         "title" : "US Chess Championships - Live!"
       },
       {
          "description" : " The 25th European Team championships took place in Batumi, Georgia 5th to 14th October 2025. Leading players such as Anish Giri, Vincent Keymer, Shakhriyar Mamedyarov, Richard Rapport competed, the field had 56 players over 2600. In the women's event the leading players were Nana Dzagnidze, Nino Batsiashvili, Alexandra Kosteniuk etc. Ukraine won the event by beating England 2.5-1.5 in the final round. Azerbaijan finished second in spite of losing to Serbia in the last round whose win earned them a third place finish. In the women's event Poland beat Azerbaijan in the final round to take first place, Ukraine drew with Armenia to take second place and Germany finished third in spite of losing",
@@ -56,14 +144,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-d-gukesh-top-seed-for-goa-event-arjun-erigaisi-r-praggnanandhaa-seeded-second-and-third/articleshow/124553919.cms",
          "pubDate" : "Tue, 14 Oct 2025 13:28:08",
          "title" : "Chess WC: Gukesh top seed; Erigaisi, Pragg seeded second and third"
-      },
-      {
-         "description" : "The 5th FIDE Intercontinental Online Chess Championship for Prisoners is taking place from October 14 to 16, 2025, bringing together incarcerated men, women, and youth from correctional facilities around the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/the-5th-fide-intercontinental-online-chess-championship-for-prisoners/",
-         "pubDate" : "Tue, 14 Oct 2025 12:41:33",
-         "title" : "The 5th FIDE Intercontinental Online Chess Championship for Prisoners"
       },
       {
          "description" : "GM Jose Martinez of Mexico, IM Mai Narva of Estonia, and IM Faustino Oro of Argentina emerged winners of the Men, Women, and U21 sections, respectively, of the month-long 2025 GCL Contenders held on the Chess.com platform. They all qualified as Am...",
@@ -578,14 +658,6 @@ news_feed (
          "title" : "Chess Highlights this Week : European Teams, Russian Championship, and Anand vs Kasparov - "
       },
       {
-         "description" : "Applications are invited for funding under the ECF's Grassroots Initiative (fifth tranche). The closing date for applications is 12th November. There have already been 136 applications for support under the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/next-grassroots-assessment-3/",
-         "pubDate" : "Wed, 08 Oct 2025 09:23:56",
-         "title" : "Next Grassroots assessment"
-      },
-      {
          "description" : "You may have seen it before. In this very famous position, composed almost exactly a century ago, it is White to play and draw. Which do you think is the stupidest move White could make. Right, that is the solution - it is the only move that saves the game. Problem expert Werner Keym illustrates this in a book which he has made available, as an eBook, to everyone, free of charge. Here are some excerpts to give you a taste. You can play them out on the diagrams we provide.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -706,44 +778,12 @@ news_feed (
          "title" : "European Team Chess Championship 2025 - Round 2 recap"
       },
       {
-         "description" : "WFM Anna Cramling blundered a piece against 12-year-old Zac Chua from Canada and didn&#39;t realize until three moves later, but she shrugged off that slip-up to win the sixth episode of Kids vs. Stars 2.5-1.5. &#34;I would rather go skydiving!&#34; she said ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/anna-cramling-kids-vs-stars-episode-6",
-         "pubDate" : "Mon, 06 Oct 2025 16:02:00",
-         "title" : "Anna Cramling Wins 'Terrifying' Kids Vs. Stars"
-      },
-      {
-         "description" : "In the spring season of the Collegiate Chess League, the University of Missouri (Mizzou) lost to St. Louis University (SLU) in the Finals, to finish in second place. This year they are looking for more and are off to a good start, winning their fi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-ccl-fall-week-2-mizzou-ttu",
-         "pubDate" : "Mon, 06 Oct 2025 12:19:50",
-         "title" : "Mizzou Handles TTU, Takes Early Lead In CCL"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/council-papers/#new_tab",
-         "pubDate" : "Mon, 06 Oct 2025 10:14:16",
-         "title" : "Council papers for the ECF AGM"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124329792.cms\" />American Grandmaster Hikaru Nakamura caused a stir at the Checkmate: USA vs India event by throwing away world champion D Gukesh's king. This controversial act, during USA's 5-0 victory, drew sharp criticism from former world champion Vladimir Kramnik, who called it a \"degradation of modern chess.\" The incident has reignited discussions on sportsmanship and entertainment in professional chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/drama-in-chess-world-hikaru-nakamura-reacts-to-social-media-post-trolling-fide-ceo-emil-sutovsky/articleshow/124329792.cms",
          "pubDate" : "Mon, 06 Oct 2025 04:03:11",
          "title" : "Drama in chess world! Nakamura reacts to post trolling FIDE CEO Sutovsky"
-      },
-      {
-         "description" : "It&#39;s now less than a month until the $2 million 2025 FIDE World Cup begins on November 1, with a 206-player field topped by the Indian trio of World Champion Gukesh Dommaraju and GMs Arjun Erigaisi and Praggnanandhaa Rameshbabu. The event will tak...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-pairings",
-         "pubDate" : "Mon, 06 Oct 2025 03:52:00",
-         "title" : "2025 FIDE World Cup Pairings, Venue Revealed"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124328762.cms\" />Former world champion Vladimir Kramnik has launched a scathing attack on world no. 2 Hikaru Nakamura following his controversial gesture towards D Gukesh during the USA vs India chess exhibition. Kramnik labeled Nakamura's actions as \"vulgarity\" and \"degradation of modern chess,\" asserting they damaged the game. This comes after India suffered a 0-5 whitewash against USA.",
@@ -952,14 +992,6 @@ news_feed (
          "link" : "https://aicf.in/report-on-gm-coaching-camp-raipur-from-11-17-sept-2025/",
          "pubDate" : "Fri, 26 Sep 2025 06:11:12",
          "title" : "Report on GM Coaching Camp, Raipur from 11-17 Sept.2025Report on GM Coaching Camp, Raipur ,Chhattisgarh (11-17 September 2025)"
-      },
-      {
-         "description" : "Please find the event circular Entry Form Payment link: https://prs.aicf.in/pay",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/3rd-national-schools-team-under-12-under-18chess-championships-2025/",
-         "pubDate" : "Wed, 24 Sep 2025 10:23:24",
-         "title" : "3rd NATIONAL SCHOOLS TEAM UNDER-12 & UNDER-18CHESS CHAMPIONSHIPS - 2025 in Shimla from 12-14 October 2025"
       }
    ]
 }
