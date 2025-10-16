@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Join GMs Yasser Seirawan &#038; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 4 &#124; GAME LINKS WOODWARD VS LIANG RESULT: &frac12;-&frac12;OPARIN VS ROBSON RESULT: &frac12;-&frac12;CARUANA VS SEVIAN RESULT: &frac12;-&frac12;ARONIAN VS SWIERCZ RESULT: &frac12;-&frac12;MISHRA VS SO RESULT: &frac12;-&frac12; SHANKLAND VS NIEMANN RESULT: 0-1 ROUND 4 &#124; GAME LINKS KRUSH [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-4-alices-win-falls-victim-to-a-carissa-tactic-uschesschamps/\">POSTGAME ROUND 4: Alice's Win Falls Victim to a Carissa Tactic! #USChessChamps</a> appeared first on <a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-4-alices-win-falls-victim-to-a-carissa-tactic-uschesschamps/",
+         "pubDate" : "Thu, 16 Oct 2025 00:12:05",
+         "title" : "POSTGAME ROUND 4: Alice's Win Falls Victim to a Carissa Tactic! #USChessChamps"
+      },
+      {
          "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -135,7 +143,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-us-championship-round-3",
          "pubDate" : "Wed, 15 Oct 2025 02:00:14",
-         "title" : "Wesley So Takes Sole US Championship Lead; Paikidze Catches Sargsyan"
+         "title" : "Wesley So Takes Sole U.S. Championship Lead; Paikidze Catches Sargsyan"
       },
       {
          "description" : "This week's puzzles continue our series on the 2025 FIDE World Cadet Championships, which concluded last Tuesday in Almaty, Kazakhstan (flash report | full report). For even more puzzles, see part 1, part 2, and part 3 of our Tactics Tuesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
