@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124603594.cms\" />Argentina's 12-year-old chess prodigy Faustino Oro triumphed in the U21 title at the GCL Contenders Knockout Challengers Round in Mumbai. He, alongside men's champion Jose Martinez and women's winner Mai Narva, will now be ambassadors for the Global Chess League. Oro's victory over GM Pranav Anand highlights his rapid ascent in the chess world.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/faustino-oro-clinches-prodigy-u21-title-jose-martinez-mai-narva-win-gcl-contenders-crowns/articleshow/124603594.cms",
+         "pubDate" : "Thu, 16 Oct 2025 11:21:31",
+         "title" : "'Messi of Chess' Faustino Oro triumphs; Martinez, Narva win GCL crowns"
+      },
+      {
          "description" : "Richard Rapport had the best individual result at the European Team Chess Championship in Batumi. Playing on board 1 for Hungary, he scored 5.5 points from 7 games and had a performance rating of 2869, the highest of all players in Batumi. In the final round, he won a nice and theoretically interesting game against Maksim Chigaev. | Photo: Lennart Ootes (Archiv)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/creative-and-successful-richard-rapport",
          "pubDate" : "Thu, 16 Oct 2025 08:31:46",
          "title" : "Creative and successful: Richard Rapport"
+      },
+      {
+         "description" : "GM Hans Niemann won a dramatic game against GM Sam Shankland in round four of the&#38;nbsp;2025 U.S. Chess Championship to join GMs Fabiano Caruana and Levon Aronian in second place on 2.5/4, half a point behind leader GM Wesley So. Niemann&#39;s was the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-us-championship-round-4",
+         "pubDate" : "Thu, 16 Oct 2025 03:54:00",
+         "title" : "Niemann Joins Battle For U.S. Title; Sargsyan Extends Lead"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#038; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 4 &#124; GAME LINKS WOODWARD VS LIANG RESULT: &frac12;-&frac12;OPARIN VS ROBSON RESULT: &frac12;-&frac12;CARUANA VS SEVIAN RESULT: &frac12;-&frac12;ARONIAN VS SWIERCZ RESULT: &frac12;-&frac12;MISHRA VS SO RESULT: &frac12;-&frac12; SHANKLAND VS NIEMANN RESULT: 0-1 ROUND 4 &#124; GAME LINKS KRUSH [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-4-alices-win-falls-victim-to-a-carissa-tactic-uschesschamps/\">POSTGAME ROUND 4: Alice's Win Falls Victim to a Carissa Tactic! #USChessChamps</a> appeared first on <a href",
@@ -762,14 +778,6 @@ news_feed (
          "title" : "Clutch Chess: The Legends - Games and Results"
       },
       {
-         "description" : "Nabbollini, student of GM Arturs Neiksans, won the Under 800 round-robin tournament in the inaugural CoachChamps 2025. Though he won with a 5.5/7 score, it wasn&#39;t totally smooth sailing. Hhart10k, IM Levy Rozman&#39;s student, beat him in the penultim...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-coachchamps-group-1",
-         "pubDate" : "Tue, 07 Oct 2025 17:39:00",
-         "title" : "Nabbollini Wins U800 Group, Neiksans Leads Among Coaches"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124365152.cms\" />Kolkata's Sarbartho Mani secured a bronze medal in the Under-10 open section at the World Cadet Chess Championship in Kazakhstan. This follows his July gold at the World Cadet Chess Cup in Georgia. Despite a strong start, a single loss in the 10th round impacted his final standing, but superior tie-breaks secured him a podium finish.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/chess-training-during-busy-times/",
          "pubDate" : "Sat, 04 Oct 2025 13:00:00",
          "title" : "How To Train Chess When Real Life Things Happen"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124301978.cms\" />Nagpur's first Grandmaster, Raunak Sadhwani, has received a wildcard entry from the All India Chess Federation for the upcoming Chess World Cup in Goa. The 19-year-old, ranked World Junior No. 8, becomes the 23rd Indian participant in the prestigious tournament. Sadhwani expressed his gratitude and eagerness to compete and make his mark on the global stage.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-65th-gm-raunak-sadhwani-gets-wildcard-entry-for-fide-chess-world-cup/articleshow/124301978.cms",
-         "pubDate" : "Sat, 04 Oct 2025 04:30:38",
-         "title" : "India's 65th GM Sadhwani gets wildcard entry for FIDE Chess WC"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124301271.cms\" />Fabiano Caruana secured his second Grand Chess Tour Finals victory, earning $150,000 after a remarkable comeback. He defeated runner-up Maxime Vachier-Lagrave, who initially won the first game but saw Caruana secure three consecutive victories. Levon Aronian claimed third place and $60,000, dominating Praggnanandhaa Rameshbabu. Caruana expressed the immense prestige of this difficult win.",
