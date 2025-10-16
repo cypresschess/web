@@ -58,6 +58,14 @@ news_feed (
          "title" : "POSTGAME ROUND 4: Alice's Win Falls Victim to a Carissa Tactic! #USChessChamps"
       },
       {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The Saint Louis Chess Club. (SLCC/Lennart Ootes)<br> <br> <br> <br> In Round 4 of the U.S. Championship and U.S. Women's Championship, we were treated to several piece sacrifices, an uncharacteristically open Rossolimo Sicilian, and clinical rook endgames of the drawn and winning varieties. While GM Wesley So maintained his half-point lead in the Open Section, IM Anna Sargsyan pulled ahead of IM Nazi Paikidze, and now leads the Women's field by a full point with her third win in four games. U.S. ChampionshipFrom a glance, Round 4 seemed like a casual day at the office for most players, with five draws and",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-championships-round-4-so-maintains-open-lead-sargsyan-moves-clear-1st-womens",
+         "pubDate" : "Thu, 16 Oct 2025 00:00:00",
+         "title" : "U.S. Championships Round 4: So maintains Open lead; Sargsyan moves into clear 1st in Women's"
+      },
+      {
          "description" : "The Colle and Zukertort Systems offer White a simple yet powerful setup with d4-Nf3-e3-Bd3, aiming for rapid development and a strong kingside attack. The Colle-Koltanowski focuses on c3 and e4, while the Zukertort System employs b3 and a fianchettoed bishop for added strategic depth. Easy to learn and highly effective for club players, this course teaches key sacrifices, maneuvers, and attacking ideas through classical and modern grandmaster games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -880,14 +888,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/comeback-caruana-wins-gct-finals",
          "pubDate" : "Mon, 06 Oct 2025 00:00:00",
          "title" : "Comeback Caruana Wins GCT Finals"
-      },
-      {
-         "description" : "Six days before Checkmate: USA vs India, one of its commentators, GM Harshit Raja, predicted that India would win 3-2 against the USA team, despite the latter getting White on each board. USA swept 5-0. The winning team's members received TAG Heuer Carrera watches. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> A victorious Team USA at the closing ceremony (Photo by Dr. Alexey Root)<br> <br> <br> <br> Raja's PredictionHere is how Raja thought the results would play out. For the winner of the round between the two players under age 16, he chose India's IM Ethan Vaz over USA's IM Tanitoluwa Adewumi. On the women's board, he chose India's GM Divya Deshmu",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/checkmate-usa-vs-india-team-usa-victory-and-throwing-king",
-         "pubDate" : "Mon, 06 Oct 2025 00:00:00",
-         "title" : "Checkmate: USA vs India: Team USA Victory, and Throwing a King"
       },
       {
          "description" : "The European Team Chess Championship 2025 commenced today in Batumi, Georgia! The event is played in 9 rounds, swiss system, Open and Women's sections separately, with the participation of 76 teams (40 teams in Open tournament and 36 teams participate in the Women's championship). The Opening ceremony of the event took place shortly before the start of the first round. The ECU President Mr. Zurab Azmaiparashvili and the President of the Georgian Chess Federation Mr. Akaki Iashvili addressed the players []",
