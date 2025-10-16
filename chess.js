@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Richard Rapport had the best individual result at the European Team Chess Championship in Batumi. Playing on board 1 for Hungary, he scored 5.5 points from 7 games and had a performance rating of 2869, the highest of all players in Batumi. In the final round, he won a nice and theoretically interesting game against Maksim Chigaev. | Photo: Lennart Ootes (Archiv)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/creative-and-successful-richard-rapport",
+         "pubDate" : "Thu, 16 Oct 2025 08:31:46",
+         "title" : "Creative and successful: Richard Rapport"
+      },
+      {
          "description" : " Join GMs Yasser Seirawan &#038; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 4 &#124; GAME LINKS WOODWARD VS LIANG RESULT: &frac12;-&frac12;OPARIN VS ROBSON RESULT: &frac12;-&frac12;CARUANA VS SEVIAN RESULT: &frac12;-&frac12;ARONIAN VS SWIERCZ RESULT: &frac12;-&frac12;MISHRA VS SO RESULT: &frac12;-&frac12; SHANKLAND VS NIEMANN RESULT: 0-1 ROUND 4 &#124; GAME LINKS KRUSH [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-4-alices-win-falls-victim-to-a-carissa-tactic-uschesschamps/\">POSTGAME ROUND 4: Alice's Win Falls Victim to a Carissa Tactic! #USChessChamps</a> appeared first on <a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
