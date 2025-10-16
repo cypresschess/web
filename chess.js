@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wilhelm Steinitz, born in Prague in 1836, is regarded as the first official World Chess Champion after winning the historic 1886 match against Johannes Zukertort. He founded modern chess theory by replacing romantic, attacking chess with strategic and positional thinking, formulating numerous principles that still shape the game today. The Master Class, featuring four international experts, presents his most important openings, strategic ideas, endgames, and combinations through engaging video lessons.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/master-class-band-19-wilhelm-steinitz",
+         "pubDate" : "Thu, 16 Oct 2025 16:00:00",
+         "title" : "Master Class Band 19: Wilhelm Steinitz"
+      },
+      {
+         "description" : "Hans Niemann was the sole winner in Round 4 of the Open section at this year's U.S. Championships. Playing Black, he defeated Sam Shankland to move into a tie for second place with defending champion Fabiano Caruana and Levon Aronian, half a point behind leader Wesley So, who drew his game against Abhimanyu Mishra. In the Women's Championship, by contrast, five players scored victories. With second-placed Alice Lee drawing against defending champion Carissa Yip, leader Anna Sargsyan extended her lead to a full point thanks to her win over Megan Paragua. Thursday is a rest day in St. Louis. | Photos: Lennart Ootes / St. Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-round-4-anna-sargsyan-one-point-ahead",
+         "pubDate" : "Thu, 16 Oct 2025 14:05:45",
+         "title" : "US Championships Round 4: Anna Sargsyan one point ahead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://britchess.wufoo.com/forms/liveboards-swiss-manager-course-november-2025/#new_tab",
+         "pubDate" : "Thu, 16 Oct 2025 11:52:20",
+         "title" : "Liveboards / Swiss Manager Course November 2025"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124603594.cms\" />Argentina's 12-year-old chess prodigy Faustino Oro triumphed in the U21 title at the GCL Contenders Knockout Challengers Round in Mumbai. He, alongside men's champion Jose Martinez and women's winner Mai Narva, will now be ambassadors for the Global Chess League. Oro's victory over GM Pranav Anand highlights his rapid ascent in the chess world.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-4-alices-win-falls-victim-to-a-carissa-tactic-uschesschamps/",
          "pubDate" : "Thu, 16 Oct 2025 00:12:05",
          "title" : "POSTGAME ROUND 4: Alice's Win Falls Victim to a Carissa Tactic! #USChessChamps"
-      },
-      {
-         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
-         "pubDate" : "Wed, 15 Oct 2025 19:00:00",
-         "title" : "US Chess Championships - Live!"
       },
       {
          "description" : "The Colle and Zukertort Systems offer White a simple yet powerful setup with d4-Nf3-e3-Bd3, aiming for rapid development and a strong kingside attack. The Colle-Koltanowski focuses on c3 and e4, while the Zukertort System employs b3 and a fianchettoed bishop for added strategic depth. Easy to learn and highly effective for club players, this course teaches key sacrifices, maneuvers, and attacking ideas through classical and modern grandmaster games.",
@@ -386,7 +402,7 @@ news_feed (
          "title" : "POSTGAME ROUND 1: Caruana's Epic Win vs. Oparin | #USChessChamps"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Dr. Jeanne Cairns Sinquefield rings the bell at the start of round 1, with Chess Life Editor John Hartmann spotted in the background (Photo courtesy of Lennart Ootes/SLCC)<br> <br> <br> <br> Every year, we witness a dozen each of the top American male and female players take part in the prestigious U.S Chess Championships, this year hosted in the newly renovated Saint Louis Chess Club (SLCC). This event is always exhilarating to watch, as we witness many generations of American chess battling it out for the coveted titles of U.S and U.S Women's Champion. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <",
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Dr. Jeanne Cairns Sinquefield rings the bell at the start of round 1, with Chess Life Editor John Hartmann spotted in the background (Photo courtesy of Lennart Ootes/SLCC)<br> <br> <br> <br> Every year, we witness a dozen each of the top American male and female players take part in the prestigious U.S. Chess Championships, this year hosted in the newly renovated Saint Louis Chess Club (SLCC). This event is always exhilarating to watch, as we witness many generations of American chess battling it out for the coveted titles of U.S. and U.S. Women's Champion. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/2025-us-championships-sun-shining-caruana-cruising-pourkashiyan-upsets-yip",
