@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Wesley So beat GM Vincent Keymer in the Speed Chess Championship 2025, winning the closest match yet in the Round of 16. He won only in overtime, after Keymer won the last bullet game on demand. So, who played during his rest day at the U.S. Ch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-r16-keymer-so",
+         "pubDate" : "Thu, 16 Oct 2025 18:54:02",
+         "title" : "Wesley So Beats Keymer In Overtime"
+      },
+      {
          "description" : "Wilhelm Steinitz, born in Prague in 1836, is regarded as the first official World Chess Champion after winning the historic 1886 match against Johannes Zukertort. He founded modern chess theory by replacing romantic, attacking chess with strategic and positional thinking, formulating numerous principles that still shape the game today. The Master Class, featuring four international experts, presents his most important openings, strategic ideas, endgames, and combinations through engaging video lessons.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/dance-in-front-of-me-hikaru-nakamuras-bizarre-advice-to-d-gukesh-after-throwing-king-gesture-faces-heat/articleshow/124388545.cms",
          "pubDate" : "Wed, 08 Oct 2025 14:19:25",
          "title" : "'Dance in front of me': Nakamura's bizarre advice to Gukesh; defends throwing king"
-      },
-      {
-         "description" : "QQQ1M, IM Levy Rozman&#39;s student, dominated the second day of CoachChamps 2025, which featured the rating range of improvers between 800 and 1199. Playing quickly, the Algerian youngster and GothamChess fan&#38;mdash;who displays his coach in his profi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-coachchamps-group-2",
-         "pubDate" : "Wed, 08 Oct 2025 13:23:00",
-         "title" : "GothamChess Leads CoachChamps After Student, QQQ1M, Dominates Day 2"
       },
       {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/25th-european-teams-2025\">European Team Championships</a> got underway on Sunday. This is still one of the highlights of the chess calendar. If you're looking for high-quality, motivated chess, this is your tournament. Russia is absent due to the war in Ukraine (or, if you prefer, because it now belongs to the Asian Federation), and Norway couldn't afford to send a team, but quality is everywhere. Top-seeded Germany lost to 21st-seeded Denmark. They outrated them on every board, but not by so much that the result was outrageous. After three rounds, Serbia and Greece are the only teams with perfect scores. The Netherlands, Azerbaijan, ",
