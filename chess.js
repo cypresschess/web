@@ -2,11 +2,35 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Take a look at this position. In order to have any winning chances, White must clearly move his rook. There are nine squares it can safely occupy, but only one retains the win. Can you find it? Today we have four problems that will challenge your endgame skills. Try to solve them by moving pieces on our interactive diagrams. The video solutions will be provided in a week.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-endgame-challenge",
+         "pubDate" : "Fri, 17 Oct 2025 07:14:58",
+         "title" : "Chess Endgame Challenge"
+      },
+      {
+         "description" : " Igor Kovalenko, 36, the world No 48 with a Fide rating of 2669, has been a frontline soldier for three years and only began playing again a month ago Ukraine was the most successful nation at this week's European team championships, winning gold in the open event and silver in the women's. It also sparked one of the most memorable results of recent years, as Igor Kovalenko, a serving army soldier who played no chess for three years, won the individual gold on fourth board with 6.5/8, the best percentage of the entire tournament. Kovalenko's games included <a href=\"https://lichess.org/broadcast/european-team-chess-championship-2025--open/round-5/fpVuADRh/9PGx9Ybt\">a key win</a> against Serbi",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/oct/17/chess-ukraine-soldier-grandmaster-wins-gold-medal-at-european-team-championships",
+         "pubDate" : "Fri, 17 Oct 2025 07:00:05",
+         "title" : "Chess: Ukraine soldier grandmaster wins gold medal at European team championships"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124620858.cms\" />FIDE has approved the \"Total Chess World Championship Tour,\" a new format by Norway Chess, combining Fast Classical, Rapid, and Blitz to find the \"Total Chess Player.\" The tour, featuring four events annually with a $2.7 million prize pool, aims to innovate chess. A pilot event is set for autumn 2026, with the full season in 2027.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-no-womens-edition-no-freestyle-will-old-norway-chess-go-on-total-chess-world-championship-tour-explained/articleshow/124620858.cms",
+         "pubDate" : "Fri, 17 Oct 2025 05:24:53",
+         "title" : "Exclusive | No women's edition? No freestyle? Will old Norway Chess go on?: Total Chess World Championship Tour explained"
+      },
+      {
          "description" : "GM Wesley So beat GM Vincent Keymer in the Speed Chess Championship 2025, winning the closest match yet in the Round of 16. He won only in overtime, after Keymer won the last bullet game on demand. So, who played during his rest day at the U.S. Ch...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-r16-keymer-so",
-         "pubDate" : "Thu, 16 Oct 2025 18:54:02",
+         "pubDate" : "Thu, 16 Oct 2025 18:54:00",
          "title" : "Wesley So Beats Keymer In Overtime"
       },
       {
@@ -938,14 +962,6 @@ news_feed (
          "title" : "How To Train Chess When Real Life Things Happen"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124301271.cms\" />Fabiano Caruana secured his second Grand Chess Tour Finals victory, earning $150,000 after a remarkable comeback. He defeated runner-up Maxime Vachier-Lagrave, who initially won the first game but saw Caruana secure three consecutive victories. Levon Aronian claimed third place and $60,000, dominating Praggnanandhaa Rameshbabu. Caruana expressed the immense prestige of this difficult win.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-chess-tour-finals-2025-fabiano-caruana-clinches-title-bags-usd-150k-r-praggnanandhaa-loses-third-place-match/articleshow/124301271.cms",
-         "pubDate" : "Sat, 04 Oct 2025 02:57:20",
-         "title" : "GCT Finals: Caruana clinches title; Pragg loses third-place match"
-      },
-      {
          "description" : " The Grand Chess Tour Finals took place in Sao Paulo Sunday 28th to Friday 3rd October. Players: Maxime Vachier-Lagrave, Praggnanandhaa, Levon Aronian and Fabiano Caruana. This is a knockout where they play a mix of Classical, rapid and blitz. Classical Games: 6 points for a win, 3 points for a draw and 0 points for a loss, Rapid Games: 4 points for a win, 2 points for a draw and 0 points for a loss, Blitz Games: 2 points for a win, 1 point for a draw and 0 points for a loss. Fabiano Caruana beat MVL in the final but only after coming from behind winning three blitz games in a row and then surviving a lost position in the fourth. Levon Aronian qualified for next year's tour beating Praggnana",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1024,22 +1040,6 @@ news_feed (
          "link" : "https://aicf.in/ongc-sports-scholarship-2025-26/",
          "pubDate" : "Fri, 26 Sep 2025 07:42:27",
          "title" : "ONGC Sports Scholarship 2025-26 "
-      },
-      {
-         "description" : " Schoolboy also beat three international masters and made a huge ratings gain, but was edged out in the final round Interest in English one-day blitz tournaments is growing rapidly. They offer the chance to compete in officially ranked events with many rounds without the financial pressures of overnight accommodation, and give amateurs and juniors a rare chance to take on established masters, with a chance of an upset result. This year the English Chess Federation has doubled the number of qualifying events for the UK Blitz Championship, whose final is at Leamington in November, from eight to 16, and organised three qualifiers in Greater London rather than just one. All three tournaments, in",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/sep/26/chess-kai-hanache-13-beats-three-grandmasters-uk-blitz-qualifier",
-         "pubDate" : "Fri, 26 Sep 2025 07:00:59",
-         "title" : "Chess: Kai Hanache, 13, beats three grandmasters at UK blitz qualifier"
-      },
-      {
-         "description" : "The Chhattisgarh State Chess Association, under the aegis of the All India Chess Federation, successfully organized a Grandmaster Coaching Camp in Raipur from 11th to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/report-on-gm-coaching-camp-raipur-from-11-17-sept-2025/",
-         "pubDate" : "Fri, 26 Sep 2025 06:11:12",
-         "title" : "Report on GM Coaching Camp, Raipur from 11-17 Sept.2025Report on GM Coaching Camp, Raipur ,Chhattisgarh (11-17 September 2025)"
       }
    ]
 }
