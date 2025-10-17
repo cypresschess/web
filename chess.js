@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
+         "pubDate" : "Fri, 17 Oct 2025 19:00:00",
+         "title" : "US Chess Championships - Live!"
+      },
+      {
          "description" : "The concept behind the \"60 Minutes\" courses is simple: one hour of video instruction for just under 10€. There are also courses on middle game and endgame topics, but most courses focus on opening variations. In the first instalment of a short series, Jochen Schwarz presents the most important \"60 Minutes\" courses for 1.e4 players against the Sicilian.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/review-60-minutes-against-the-sicilian",
          "pubDate" : "Fri, 17 Oct 2025 15:00:00",
          "title" : "Review: 60 Minutes against the Sicilian"
+      },
+      {
+         "description" : "GM Hikaru Nakamura defeated Liem Le 13.5-11.5 in the Speed Chess Championship 2025 Round of 16. Though Nakamura dominated the first two portions of the match, it was in the bullet segment, surprisingly, that Le nearly made a heroic comeback. The...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-r16-nakamura-le",
+         "pubDate" : "Fri, 17 Oct 2025 12:07:50",
+         "title" : "Nakamura Wins Despite Liem Le's Bullet Comeback"
       },
       {
          "description" : "The 40th European Chess Club Cup and the 29th European Women's Chess Club Cup will commence this weekend in Rhodes, Greece! The events will be played in 7-swiss round, with the time control of 90 minutes for 30 moves, plus 30-minute until the end of the game, with 30-second increment for each move starting from move one. The event features the record-breaking participation of 122 clubs (102 in Open event and 20 teams will participate in Women's championship) represented by []",
@@ -26,7 +42,7 @@ news_feed (
          "title" : "Chess Endgame Challenge"
       },
       {
-         "description" : " Igor Kovalenko, 36, the world No 48 with a Fide rating of 2669, has been a frontline soldier for three years and only began playing again a month ago Ukraine was the most successful nation at this week's European team championships, winning gold in the open event and silver in the women's. It also sparked one of the most memorable results of recent years, as Igor Kovalenko, a serving army soldier who played no chess for three years, won the individual gold on fourth board with 6.5/8, the best percentage of the entire tournament. Kovalenko's games included <a href=\"https://lichess.org/broadcast/european-team-chess-championship-2025--open/round-5/fpVuADRh/9PGx9Ybt\">a key win</a> against Serbi",
+         "description" : " Igor Kovalenko, 36, the world No 48 with a Fide rating of 2669, has been a frontline soldier for three years and only began playing again a month ago Ukraine was the most successful nation at this week's European Team Championships, winning gold in the open event and silver in the women's. It also sparked one of the most memorable results of recent years, as Igor Kovalenko, a serving army soldier who played no chess for three years, won the individual gold on fourth board with 6.5/8, the best percentage of the entire tournament. Kovalenko's games included <a href=\"https://lichess.org/broadcast/european-team-chess-championship-2025--open/round-5/fpVuADRh/9PGx9Ybt\">a key win</a> against Serbi",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/oct/17/chess-ukraine-soldier-grandmaster-wins-gold-medal-at-european-team-championships",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-national-under-13-chess-championship-2025-in-goa/",
          "pubDate" : "Thu, 09 Oct 2025 12:37:28",
          "title" : "Certificate: National Under 13 Chess Championship 2025 in Goa ."
-      },
-      {
-         "description" : "We&#39;re excited to announce a series of changes to improve your puzzle-solving experience! We&#39;ve reworked our Puzzles rating system so it&#39;s more reliable&#38;mdash;giving you smoother level progression and generally more satisfying experience when solvi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-new-puzzles-rating-system",
-         "pubDate" : "Thu, 09 Oct 2025 08:00:00",
-         "title" : "New Puzzles Ratings, Difficulty Settings, And More Consistent Experience"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124404630.cms\" />Vaishali Rameshbabu, a top Indian Grandmaster, nearly withdrew from a major tournament after a string of losses. Her childhood coach, RB Ramesh, enlisted fellow Grandmaster Karthikeyan Murali, known as \"Karthi Anna,\" to encourage her. His timely support helped Vaishali regain confidence, defend her title, and secure a spot in the Women's Candidates 2026.",
