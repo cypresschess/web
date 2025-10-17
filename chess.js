@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The concept behind the \"60 Minutes\" courses is simple: one hour of video instruction for just under 10€. There are also courses on middle game and endgame topics, but most courses focus on opening variations. In the first instalment of a short series, Jochen Schwarz presents the most important \"60 Minutes\" courses for 1.e4 players against the Sicilian.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-60-minutes-against-the-sicilian",
+         "pubDate" : "Fri, 17 Oct 2025 15:00:00",
+         "title" : "Review: 60 Minutes against the Sicilian"
+      },
+      {
          "description" : "The 40th European Chess Club Cup and the 29th European Women's Chess Club Cup will commence this weekend in Rhodes, Greece! The events will be played in 7-swiss round, with the time control of 90 minutes for 30 moves, plus 30-minute until the end of the game, with 30-second increment for each move starting from move one. The event features the record-breaking participation of 122 clubs (102 in Open event and 20 teams will participate in Women's championship) represented by []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/oct/17/chess-ukraine-soldier-grandmaster-wins-gold-medal-at-european-team-championships",
          "pubDate" : "Fri, 17 Oct 2025 07:00:05",
          "title" : "Chess: Ukraine soldier grandmaster wins gold medal at European team championships"
+      },
+      {
+         "description" : "We&#39;re excited to announce our newest partner, the highly anticipated first-ever Broadway revival of the musical CHESS! To celebrate the occasion, we&#39;re launching exclusive new bots based on the characters of the show. You can now challenge Fredd...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chess-musical-bots",
+         "pubDate" : "Fri, 17 Oct 2025 06:00:00",
+         "title" : "Chess.com Launches New Bots In Partnership With Broadway Musical 'Chess'"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124620858.cms\" />FIDE has approved the \"Total Chess World Championship Tour,\" a new format by Norway Chess, combining Fast Classical, Rapid, and Blitz to find the \"Total Chess Player.\" The tour, featuring four events annually with a $2.7 million prize pool, aims to innovate chess. A pilot event is set for autumn 2026, with the full season in 2027.",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/from-fathers-surgery-to-playing-silent-role-in-r-vaishalis-grand-swiss-glory-the-story-of-karthi-anna/articleshow/124404630.cms",
          "pubDate" : "Thu, 09 Oct 2025 04:41:01",
          "title" : "From father's surgery to playing silent role in R Vaishali's Grand Swiss glory: The story of 'Karthi Anna'"
-      },
-      {
-         "description" : "Thirteenth World Champion Garry Kasparov leads 15th World Champion Viswanathan Anand 2.5-1.5 after day one of the 2025 Clutch Chess Legends, a three-day clash taking place 30 years after their world championship match. After two draws in rapid che...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-clutch-chess-legends-kasparov-anand-day-1",
-         "pubDate" : "Thu, 09 Oct 2025 01:56:00",
-         "title" : "Kasparov Leads Anand As Legends Clash In New Saint Louis Chess Club"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and James Dash for the top moments of today's games. Game Links Kasparov vs Anand RAPID GAMES GAME 1 ANAND VS KASPAROV GAME 2 KASPAROV VS ANAND BLITZ GAMES GAME 3 ANAND VS KASPAROV GAME 4 KASPAROV VS ANAND The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-1-kasparovanand/\">POSTGAME DAY 1: Fireworks Have Just Begun! | #KasparovAnand</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
