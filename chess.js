@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 40th European Chess Club Cup and the 29th European Women's Chess Club Cup will commence this weekend in Rhodes, Greece! The events will be played in 7-swiss round, with the time control of 90 minutes for 30 moves, plus 30-minute until the end of the game, with 30-second increment for each move starting from move one. The event features the record-breaking participation of 122 clubs (102 in Open event and 20 teams will participate in Women's championship) represented by []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-club-cup-2025-starts-in-rhodes/",
+         "pubDate" : "Fri, 17 Oct 2025 07:57:16",
+         "title" : "European Chess Club Cup 2025 starts in Rhodes"
+      },
+      {
          "description" : "Take a look at this position. In order to have any winning chances, White must clearly move his rook. There are nine squares it can safely occupy, but only one retains the win. Can you find it? Today we have four problems that will challenge your endgame skills. Try to solve them by moving pieces on our interactive diagrams. The video solutions will be provided in a week.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -914,14 +922,6 @@ news_feed (
          "title" : "Comeback Caruana Wins GCT Finals"
       },
       {
-         "description" : "The European Team Chess Championship 2025 commenced today in Batumi, Georgia! The event is played in 9 rounds, swiss system, Open and Women's sections separately, with the participation of 76 teams (40 teams in Open tournament and 36 teams participate in the Women's championship). The Opening ceremony of the event took place shortly before the start of the first round. The ECU President Mr. Zurab Azmaiparashvili and the President of the Georgian Chess Federation Mr. Akaki Iashvili addressed the players []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-team-chess-championship-2025-kicked-off-in-georgia/",
-         "pubDate" : "Sun, 05 Oct 2025 21:29:13",
-         "title" : "European Team Chess Championship 2025 kicked off in Georgia"
-      },
-      {
          "description" : "Leonard Barden's life has been unusual. His father was a dustman. He learnt chess at grammar school and sharpened his play in air raid shelters during the war. He never called himself a prodigy, yet by the early 1950s he was among the strongest players in the country. His career took a new turn when []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1024,22 +1024,6 @@ news_feed (
          "link" : "https://www.thearticle.com/codebreakers-prophets-and-freedom-of-speech/",
          "pubDate" : "Sat, 27 Sep 2025 09:59:08",
          "title" : "Codebreakers, prophets and freedom of speech"
-      },
-      {
-         "description" : " The Legends and Prodigies tournament took place Wed 17th Sep 2025 to Thu 25th Sep 2025. The event had four young players Diego Macias Pino (born 2007), Lu Miaoyi (2010 who had to withdraw at the half way stage), Ilan Schnaider (2011) and the player of the moment 11 year old Faustino Oro (2013). These were pitted against older players Julio Granda Zuniga, Omar Almeida Quintana, Jose Fernando Cuenca Jimenez, David Larino Nieto, Pedro Ramon Martinez Reyes and Alan Pichot. The event was dominated by Oro who conceded just three draws and won all sorts of games. This result reminds me of Carlsen's win and first GM norm in the Wijk aan Zee C tournament at the age of 13 in 2004 when it was no longe",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/legends-and-prodigies-2025",
-         "pubDate" : "Fri, 26 Sep 2025 09:23:00",
-         "title" : "Legends and Prodigies 2025 - Games and Results"
-      },
-      {
-         "description" : "ONGC is inviting online applications for Sports Scholarships 2025-26 from underprivileged young, talented sportspersons, aged 15 to 20 years. In this regard, a complete details,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/ongc-sports-scholarship-2025-26/",
-         "pubDate" : "Fri, 26 Sep 2025 07:42:27",
-         "title" : "ONGC Sports Scholarship 2025-26 "
       }
    ]
 }
