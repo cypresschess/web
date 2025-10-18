@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "description" : "The fifth round of the US Championships in Saint Louis brought decisive results and a reshuffling of the standings in both sections. In the open, Hans Niemann ended Abhimanyu Mishra's remarkable 71-game unbeaten streak to join Wesley So and Fabiano Caruana in the lead, while in the women's championship, Carissa Yip defeated former sole leader Anna Sargsyan, allowing Alice Lee to join the lead. Irina Krush and Tatev Abrahamyan also scored important wins. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
-         "pubDate" : "Fri, 17 Oct 2025 19:00:00",
-         "title" : "US Chess Championships - Live!"
+         "link" : "https://en.chessbase.com/post/us-championships-2025-5",
+         "pubDate" : "Sat, 18 Oct 2025 14:30:00",
+         "title" : "US Championships: Niemann and Caruana join So in the lead"
+      },
+      {
+         "description" : "We take a unique behind-the-scenes look at how top chess masters organize their digital workspace. Grandmasters and trainers like Svitlana Demchenko, Robert Ris, Michael Prusikin, Harald Schneider-Zinner, Frederik Svane, Felix Blohberger, and Dorian Rogozenco share their screens to reveal their personal ChessBase 18 setups - from meticulously clean desktops to chaotic databases full of ideas. They show us their board designs, current projects, and discuss their favourite or most-used ChessBase functions, offering fascinating insights into how great minds prepare, study, and work with chess every day.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dorian-rogozenco-my-chessbase-18-desktop",
+         "pubDate" : "Sat, 18 Oct 2025 14:00:00",
+         "title" : "Dorian Rogozenco - My ChessBase 18 Desktop"
+      },
+      {
+         "description" : "There are four stages to chess improvement. Most players get stuck in one of the earlier stages. Or try to go to stage 4 without any preparation. Which usually leads to disaster. Curious about the stages? I'm sure you'll resonate with some of those: Stage 1: Random Improvements You get into chess and just wing []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/stages-of-chess-improvement/",
+         "pubDate" : "Sat, 18 Oct 2025 13:00:00",
+         "title" : "The Four Stages Of Chess Improvement"
+      },
+      {
+         "description" : "The Caro-Kann defence suffers from a somewhat pacifist reputation when compared with the famously combative Sicilian, but this reputation is unfair. Several world champions have played the Caro-Kann to win as Black, notably Capablanca, Botvinnik, Smyslov, Petrosian, Karpov and even Kasparov. It should also be observed for Sicilian devotees that after 1. e4 c5, the continuation []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/how-i-beat-tal-the-caro-can/",
+         "pubDate" : "Sat, 18 Oct 2025 12:50:36",
+         "title" : " How I beat Tal: the Caro can"
+      },
+      {
+         "description" : "Please find certificates below Sl No. &#160;Name 1 Arvindu 2 Vipin Singh 3 Vivek Kumar Gupta 4 Shiv Grover 5 Aditi Sharma 6 Gagan Preet",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-sna-seminar-on-6-7th-september-in-jammu/",
+         "pubDate" : "Sat, 18 Oct 2025 08:18:09",
+         "title" : "Certificate of SNA Seminar on 6-7th September in Jammu"
+      },
+      {
+         "description" : "This ChessBase course transforms calculation into a structured, trainable skill. Instead of random puzzles, it teaches practical thinking tools-how to identify forcing moves, visualize clearly, and compare positions under real game conditions. Designed for ambitious club and tournament players, this course builds lasting calculation habits that sharpen decision-making and reduce blunders.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/surya-ganguly-a-grandmaster-s-training-guide-vol-1-foundations",
+         "pubDate" : "Sat, 18 Oct 2025 08:00:00",
+         "title" : "Surya Ganguly: A Grandmaster's Training Guide Vol. 1 - Foundations"
+      },
+      {
+         "description" : "GM Hans Niemann ended GM Abhimanyu Mishra&#39;s 71-game unbeaten streak to join GMs Wesley So and Fabiano Caruana in the 2025 U.S. Chess Championship lead after round five. So&#39;s sole lead ended with a 15-minute draw against GM Levon Aronian, and he wa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-us-championship-round-5",
+         "pubDate" : "Sat, 18 Oct 2025 02:45:00",
+         "title" : "Niemann, Caruana Catch So; Christmas Comes Early For Carissa Yip"
+      },
+      {
+         "description" : "Hikaru Nakamura continued his bid to qualify for the 2026 FIDE Candidates Tournament by winning the Maritime Open Chess Championship in Summerside, Prince Edward Island. Playing against much lower-rated opposition, the world number two scored 5&frac12;/6 to take first place outright. Though he lost a few rating points, the event brought him closer to fulfilling the 40-game requirement for the rating qualification spot. | Photo: Hikaru Nakamura's X account",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nakamura-maritime-open-2025",
+         "pubDate" : "Sat, 18 Oct 2025 01:00:00",
+         "title" : "Nakamura scores 5&frac12;/6 at Maritime Open in Canada"
+      },
+      {
+         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 5 &#124; GAME LINKS NIEMANN VS MISHRA RESULT: 1-0SEVIAN VS WOODWARD RESULT: 0-1ROBSON VS SHANKLAND RESULT: &frac12;-&frac12;LIANG VS OPARIN RESULT: &frac12;-&frac12;SWIERCZ VS CARUANA RESULT: 0-1SO VS ARONIAN RESULT: &frac12;-&frac12; ROUND 5 &#124; GAME LINKS CERVANTES LANDEIRO [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-5-tatevs-spectacular-style-nets-second-win-uschesschamps/\">POSTGAME ROUND 5: Tatev's Spectacular Style Nets Second Win! #USChessChamps</a> appeared first on <a href=\"https://saintlouische",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-5-tatevs-spectacular-style-nets-second-win-uschesschamps/",
+         "pubDate" : "Fri, 17 Oct 2025 23:50:04",
+         "title" : "POSTGAME ROUND 5: Tatev's Spectacular Style Nets Second Win! #USChessChamps"
       },
       {
          "description" : "The concept behind the \"60 Minutes\" courses is simple: one hour of video instruction for just under 10€. There are also courses on middle game and endgame topics, but most courses focus on opening variations. In the first instalment of a short series, Jochen Schwarz presents the most important \"60 Minutes\" courses for 1.e4 players against the Sicilian.",
@@ -18,11 +82,11 @@ news_feed (
          "title" : "Review: 60 Minutes against the Sicilian"
       },
       {
-         "description" : "GM Hikaru Nakamura defeated Liem Le 13.5-11.5 in the Speed Chess Championship 2025 Round of 16. Though Nakamura dominated the first two portions of the match, it was in the bullet segment, surprisingly, that Le nearly made a heroic comeback. The...",
+         "description" : "GM Hikaru Nakamura defeated GM Liem Le 13.5-11.5 in the Speed Chess Championship 2025 Round of 16 on October 17. Though Nakamura dominated the first two portions of the match, it was in the bullet segment, surprisingly, that Le nearly made a heroi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-r16-nakamura-le",
-         "pubDate" : "Fri, 17 Oct 2025 12:07:50",
+         "pubDate" : "Fri, 17 Oct 2025 12:07:00",
          "title" : "Nakamura Wins Despite Liem Le's Bullet Comeback"
       },
       {
@@ -746,14 +810,6 @@ news_feed (
          "title" : "Chess - not an official sport in Norway"
       },
       {
-         "description" : "KiriyamaKazuo, coached by IM David Pruess, won the u1600 tournament of CoachChamps 2025 with 6/7. With only one loss in round four, against frank, coached by WGM Dina Belenkaya, he otherwise kept control throughout the entire event. At the top o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-coachchamps-group-3",
-         "pubDate" : "Thu, 09 Oct 2025 14:47:53",
-         "title" : "KiriyamaKazuo, Coached By Pruess, Wins U1600 Group; Belenkaya Leads Coaches"
-      },
-      {
          "description" : "On behalf of All India Chess Federation , Maharashtra Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Children's Welfare School Versova Andheri West Mumbai-400061",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1024,22 +1080,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/09/27/emory-tate-masterclass-10-year-tribute/",
          "pubDate" : "Sat, 27 Sep 2025 17:23:42",
          "title" : "Emory Tate Masterclass&hellip; 10-year tribute!"
-      },
-      {
-         "description" : "Technology is exciting. But the more I learn about chess improvement, the more I feel like technology is a problem, not an asset for most chess improvers. The key problem? If we don't fight it, technology will use us, instead of us using technology. The most prominent way to get used by technology is to []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/chess-improvement-and-technology/",
-         "pubDate" : "Sat, 27 Sep 2025 13:00:00",
-         "title" : "Use Technology - Don't let it use you"
-      },
-      {
-         "description" : "It is well known (not least from the Benedict Cumberbatch movie Breaking the Code) that chess masters were largely responsible for unravelling Nazi codes at Bletchley Park during World War II. Figures such as Harry Golombek OBE, C H 0'D (Hugh) Alexander CBE and Sir Stuart Milner Barry, all of whom were personal friends of []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/codebreakers-prophets-and-freedom-of-speech/",
-         "pubDate" : "Sat, 27 Sep 2025 09:59:08",
-         "title" : "Codebreakers, prophets and freedom of speech"
       }
    ]
 }
