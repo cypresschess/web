@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
+         "pubDate" : "Sat, 18 Oct 2025 19:00:00",
+         "title" : "US Chess Championships - Live!"
+      },
+      {
          "description" : "The fifth round of the US Championships in Saint Louis brought decisive results and a reshuffling of the standings in both sections. In the open, Hans Niemann ended Abhimanyu Mishra's remarkable 71-game unbeaten streak to join Wesley So and Fabiano Caruana in the lead, while in the women's championship, Carissa Yip defeated former sole leader Anna Sargsyan, allowing Alice Lee to join the lead. Irina Krush and Tatev Abrahamyan also scored important wins. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/nakamura-maritime-open-2025",
          "pubDate" : "Sat, 18 Oct 2025 01:00:00",
          "title" : "Nakamura scores 5&frac12;/6 at Maritime Open in Canada"
+      },
+      {
+         "description" : "After the rest day, players came recharged - and Round 5 of the 2025 U.S. and U.S. Women's Chess Championships brought no shortage of drama and decisive results. The Confessional Booth EffectIt might be pure coincidence - or perhaps a bit of St. Louis magic - but every player who stepped into the confessional booth in Round 5 ended up winning their game. GM Hans Niemann, IM Carissa Yip, GM Irina Krush, and IM Alice Lee all took a few moments mid-battle to share their thoughts, predictions, or even off-topic frustrations - such as Carissa's seasonal \"sweater drama\" - and later walked away with full points. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <b",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/shared-leaders-both-sections-after-round-5-us-championships",
+         "pubDate" : "Sat, 18 Oct 2025 00:00:00",
+         "title" : "Shared Leaders in Both Sections After Round 5 at the U.S. Championships"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 5 &#124; GAME LINKS NIEMANN VS MISHRA RESULT: 1-0SEVIAN VS WOODWARD RESULT: 0-1ROBSON VS SHANKLAND RESULT: &frac12;-&frac12;LIANG VS OPARIN RESULT: &frac12;-&frac12;SWIERCZ VS CARUANA RESULT: 0-1SO VS ARONIAN RESULT: &frac12;-&frac12; ROUND 5 &#124; GAME LINKS CERVANTES LANDEIRO [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-5-tatevs-spectacular-style-nets-second-win-uschesschamps/\">POSTGAME ROUND 5: Tatev's Spectacular Style Nets Second Win! #USChessChamps</a> appeared first on <a href=\"https://saintlouische",
@@ -986,14 +1002,6 @@ news_feed (
          "title" : "Chess: Kramnik blasts Nakamura for tossing Gukesh's king away; calls the act 'vulgar'"
       },
       {
-         "description" : "GM Fabiano Caruana won the 2025 Grand Chess Tour (GCT) Finals in São Paulo, Brazil, taking home $150,000 for winning his matches over GMs Levon Aronian and Maxime Vachier-Lagrave in the semifinals and finals, respectively.Aronian won $60,000 for his victory over GM Praggnanandhaa Rameshbabu in the consolation match. Vachier-Lagrave won $100,000 for his second-place finish and Praggnanandhaa took home $40,000 for qualifying for the finals. The tournament took place from September 28 through October 3, with Caruana having just enough time to make it to Dallas for Checkmate: USA vs India the next day. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Carua",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/comeback-caruana-wins-gct-finals",
-         "pubDate" : "Mon, 06 Oct 2025 00:00:00",
-         "title" : "Comeback Caruana Wins GCT Finals"
-      },
-      {
          "description" : "Leonard Barden's life has been unusual. His father was a dustman. He learnt chess at grammar school and sharpened his play in air raid shelters during the war. He never called himself a prodigy, yet by the early 1950s he was among the strongest players in the country. His career took a new turn when []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "https://aicf.in/fide-arbiters-seminar-in-madgaon-goa-india-from-19-21-sept-2025-report/",
          "pubDate" : "Tue, 30 Sep 2025 09:56:38",
          "title" : "FIDE Arbiters' Seminar in Madgaon, Goa (India) from 19-21 Sept 2025 . Report"
-      },
-      {
-         "description" : " Emory Tate is obviously one of the most significant figures when it comes to content at The Chess Drum. In the nearly 25 years of the site's existence, Tate's initial exposure appeared on these pages, as few media outlets wrote stories about this mercurial and fascinating personality. Emory Tate, Jr. December 27, 1958 October The post <a href=\"https://thechessdrum.net/blog/2025/09/27/emory-tate-masterclass-10-year-tribute/\">Emory Tate Masterclass 10-year tribute!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/09/27/emory-tate-masterclass-10-year-tribute/",
-         "pubDate" : "Sat, 27 Sep 2025 17:23:42",
-         "title" : "Emory Tate Masterclass&hellip; 10-year tribute!"
       }
    ]
 }
