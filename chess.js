@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 6 &#124; GAME LINKS WOODWARD VS SWIERCZ RESULT: 1-0OPARIN VS SHANKLAND RESULT: &frac12;-&frac12;ARONIAN VS NIEMANN &frac12;-&frac12; CARUANA VS SO RESULT: &frac12;-&frac12;LIANG VS SEVIAN RESULT: &frac12;-&frac12;MISHRA VS ROBSON RESULT: &frac12;-&frac12; ROUND 6 &#124; GAME LINKS KRUSH VS [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-6-alice-lee-and-anna-zatonskih-currently-tied-for-first-uschesschamps/\">POSTGAME ROUND 6: Alice Lee and Anna Zatonskih Currently Tied For First! #USChessChamps</a> appeared fir",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-6-alice-lee-and-anna-zatonskih-currently-tied-for-first-uschesschamps/",
+         "pubDate" : "Sat, 18 Oct 2025 22:57:20",
+         "title" : "POSTGAME ROUND 6: Alice Lee and Anna Zatonskih Currently Tied For First! #USChessChamps"
+      },
+      {
+         "description" : "The 40th edition of the European Chess Club Cup and the 29th edition of the European Women's Chess Club Cup were officially declared opened today. The Opening ceremony of the event took place at the truly magnificent and historical venue of the Palace of the Grand Master of the Knights of Rhodes - a place that has witnessed centuries of strategy, courage and vision - qualities that perfectly reflect the spirit of chess. The ceremony was attended by the ECU []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-club-cup-2025-officially-opened/",
+         "pubDate" : "Sat, 18 Oct 2025 22:24:46",
+         "title" : "European Chess Club Cup 2025 officially opened"
+      },
+      {
          "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -976,14 +992,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-2025-fide-world-cadet-championships-pt-2",
          "pubDate" : "Tue, 07 Oct 2025 00:00:00",
          "title" : "Tactics Tuesday: 2025 FIDE World Cadet Championships, Pt. 2"
-      },
-      {
-         "description" : "The second round of the European Team Chess Championship 2025 was played today in Batumi, Georgia, and only five teams remained with the perfect score in the Open section, while there are eight teams scoring the maximum of 4/4 match points in the Women's section. The second round brought interesting games, matches, and a few surprising results. Most of the top board matches finished with the draw, leaving only Romania, Greece, Slovenia, Serbia and France with the score of 4/4 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-team-chess-championship-2025-round-2-recap/",
-         "pubDate" : "Mon, 06 Oct 2025 19:55:38",
-         "title" : "European Team Chess Championship 2025 - Round 2 recap"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124329792.cms\" />American Grandmaster Hikaru Nakamura caused a stir at the Checkmate: USA vs India event by throwing away world champion D Gukesh's king. This controversial act, during USA's 5-0 victory, drew sharp criticism from former world champion Vladimir Kramnik, who called it a \"degradation of modern chess.\" The incident has reignited discussions on sportsmanship and entertainment in professional chess.",
