@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
+         "pubDate" : "Sun, 19 Oct 2025 19:00:00",
+         "title" : "US Chess Championships - Live!"
+      },
+      {
          "description" : "The European Club Cup is taking place on 19-25 October in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from around the world. The seven-round event features a number of elite players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/40th-european-club-cup-2025",
          "pubDate" : "Sun, 19 Oct 2025 13:04:00",
          "title" : "40th European Club Cup 2025 - Games and Results"
+      },
+      {
+         "description" : "GM Hikaru Nakamura won $45,000 in the inaugural 2025 Comet Open, an event that concluded on Sunday, October 19. He didn&#39;t lose a single one of his six matches, finally defeating GM Denis Lazavik 2.5-1.5 in the Grand Final. He earns $45,000, while ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-2025-comet-open",
+         "pubDate" : "Sun, 19 Oct 2025 10:51:00",
+         "title" : "Nakamura Wins 2025 Comet Open"
       },
       {
          "description" : "The 2025 European Club Cup and European Women's Club Cup begin this weekend in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from across the continent. The seven-round event features many of Europe's strongest clubs and a number of world-class players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. Both tournaments run from 19 to 25 October at the Rodos Palace Hotel.",
@@ -34,6 +50,14 @@ news_feed (
          "title" : "Caruana Misses Forced Checkmate vs So; Zatonskih Catches Lee"
       },
       {
+         "description" : "The leaders all drew in the Open Section of Saturday's Round 6 at the U.S. Championships, but one of the split points came after the reigning champion missed a forced mate. In the Women's, there's still a two-way tie at the top, but one of the co-leaders was taken down and replaced, while the defending champion is gaining ground and picking up steam.U.S. ChampionshipThe game of the day, and maybe of the tournament, was Caruana - So. Defending champion GM Fabiano Caruana played a highly original opening plan, making many compromising pawn moves for initiative and piece activity. After GM Wesley So carelessly loosened his king, White's queen entered Black's territory with four consecutive smal",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-championships-round-6-so-survives-forced-mate-new-co-leader-womens",
+         "pubDate" : "Sun, 19 Oct 2025 00:00:00",
+         "title" : "U.S. Championships Round 6: So Survives Forced Mate; New Co-leader in Women's"
+      },
+      {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 6 &#124; GAME LINKS WOODWARD VS SWIERCZ RESULT: 1-0OPARIN VS SHANKLAND RESULT: &frac12;-&frac12;ARONIAN VS NIEMANN &frac12;-&frac12; CARUANA VS SO RESULT: &frac12;-&frac12;LIANG VS SEVIAN RESULT: &frac12;-&frac12;MISHRA VS ROBSON RESULT: &frac12;-&frac12; ROUND 6 &#124; GAME LINKS KRUSH VS [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-6-alice-lee-and-anna-zatonskih-currently-tied-for-first-uschesschamps/\">POSTGAME ROUND 6: Alice Lee and Anna Zatonskih Currently Tied For First! #USChessChamps</a> appeared fir",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-club-cup-2025-officially-opened/",
          "pubDate" : "Sat, 18 Oct 2025 22:24:46",
          "title" : "European Chess Club Cup 2025 officially opened"
-      },
-      {
-         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
-         "pubDate" : "Sat, 18 Oct 2025 19:00:00",
-         "title" : "US Chess Championships - Live!"
       },
       {
          "description" : "The 16-year-old Turkish prodigy and GM Ediz Gurel has moved to fifth on the all-time Bullet Brawl leaderboard after picking up his third win of 2025. Gurel scored 177 points, comprising 49 wins, six draws, and seven losses, giving him a winning ma...",
@@ -658,14 +674,6 @@ news_feed (
          "title" : "Arjun Freestyles Into Four-Time Friday Champion"
       },
       {
-         "description" : "Rejoice, daily chess fans: The 2026 Chess.com Daily Chess Championship (DCC) is now open for registration! It will soon be that time again for one of the biggest events of the Chess.com calendar. But even if you&#39;ve never played daily chess before,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daily-chess-championship-2026",
-         "pubDate" : "Fri, 10 Oct 2025 08:00:00",
-         "title" : "Register Now For the 2026 Daily Chess Championship"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124446426.cms\" />Viswanathan Anand missed crucial opportunities against Garry Kasparov in the Clutch Chess Legends, allowing the Russian to extend his lead. Anand's time trouble and blunders contributed to his losses, though he still has a mathematical chance on the final day. Kasparov expressed surprise at his good fortune.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -840,14 +848,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/how-aaryan-varshney-scaled-elo-2500-live-rating/articleshow/124352137.cms",
          "pubDate" : "Tue, 07 Oct 2025 03:03:12",
          "title" : "How Aaryan Varshney scaled Elo 2500 live rating"
-      },
-      {
-         "description" : "This week's puzzles continue our series on the 2025 FIDE World Cadet Championships, which concluded last Tuesday in Almaty, Kazakhstan (flash report | full report). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-fide-world-cadet-championships-pt-2",
-         "pubDate" : "Tue, 07 Oct 2025 00:00:00",
-         "title" : "Tactics Tuesday: 2025 FIDE World Cadet Championships, Pt. 2"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124329792.cms\" />American Grandmaster Hikaru Nakamura caused a stir at the Checkmate: USA vs India event by throwing away world champion D Gukesh's king. This controversial act, during USA's 5-0 victory, drew sharp criticism from former world champion Vladimir Kramnik, who called it a \"degradation of modern chess.\" The incident has reignited discussions on sportsmanship and entertainment in professional chess.",
