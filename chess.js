@@ -26,6 +26,14 @@ news_feed (
          "title" : "US Chess Championships - Live!"
       },
       {
+         "description" : "The 16-year-old Turkish prodigy and GM Ediz Gurel has moved to fifth on the all-time Bullet Brawl leaderboard after picking up his third win of 2025. Gurel scored 177 points, comprising 49 wins, six draws, and seven losses, giving him a winning ma...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-oct-18-2025",
+         "pubDate" : "Sat, 18 Oct 2025 17:18:00",
+         "title" : "16-Year-Old Gurel Steamrolls His Way To 5th Bullet Brawl Title"
+      },
+      {
          "description" : "The fifth round of the US Championships in Saint Louis brought decisive results and a reshuffling of the standings in both sections. In the open, Hans Niemann ended Abhimanyu Mishra's remarkable 71-game unbeaten streak to join Wesley So and Fabiano Caruana in the lead, while in the women's championship, Carissa Yip defeated former sole leader Anna Sargsyan, allowing Alice Lee to join the lead. Irina Krush and Tatev Abrahamyan also scored important wins. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://www.europechess.org/ukraine-and-poland-take-sole-lead-in-european-open-and-womens-team-chess-championships-2025/",
          "pubDate" : "Thu, 09 Oct 2025 18:18:29",
          "title" : "Ukraine and Poland take sole lead in European Open and Women's Team Chess Championships 2025"
-      },
-      {
-         "description" : "GM&#38;nbsp;Viswanathan Anand had over a minute on his clock in a winning position but lost on time to GM Garry Kasparov as day two of the 2025 Clutch Chess Legends got off to the worst possible start for the Indian legend. Kasparov went on to dominat...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-clutch-chess-legends-kasparov-anand-day-2",
-         "pubDate" : "Thu, 09 Oct 2025 16:56:00",
-         "title" : "Kasparov Takes 5-Point Lead As Anand's Nightmare Continues"
       },
       {
          "description" : "One country is missing from the European Team Chess Championship in Batumi. Norway, home to the world's best chess player, is not represented in either the open or women's tournaments. The reason for this is purely financial. The Norwegian Chess Federation has very limited funds at its disposal. And there is a specific reason for this.",
