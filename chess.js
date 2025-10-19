@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 7 &#124; GAME LINKS ROBSON VS ARONIANRESULT: &#189;-&#189;SWIERCZ VS LIANGRESULT: 1-0SO VS WOODWARDRESULT: 1-0SHANKLAND VS MISHRARESULT: 1-0NIEMANN VS CARUANARESULT: 0-1SEVIAN VS OPARINRESULT: 1-0 ROUND 7 &#124; GAME LINKS POURKASHIYAN VS LEERESULT: 0-1YIP VS YURESULT: &#189;-&#189;PAIKIDZE VS [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-7/\">POSTGAME ROUND 7 | #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-7/",
+         "pubDate" : "Sun, 19 Oct 2025 22:53:33",
+         "title" : "POSTGAME ROUND 7 | #USChessChamps"
+      },
+      {
+         "description" : "The European Chess Club Cup 2025 kicked off today in Rhodes, Greece. The first round of the event was opened by the ECU President Mr. Zurab Azmaiparashvili, the Governor of the South Aegean Region Mr. Giorgos Hatzimarkos, and the President of the Greek Chess Fedeartion,Mr. Stathis Efstathopoulos, who made the first ceremonial moves in the games between FM Bart Gijswijt and GM Shakhriyar Mamedyarov, GM Divya Deshmukh and IM Gulrukhbegim Tokhirjonova, and in the game between IM Stavroula Tsolakidou and []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-club-cup-2025-kicked-off-in-rhodes/",
+         "pubDate" : "Sun, 19 Oct 2025 22:03:05",
+         "title" : "European Chess Club Cup 2025 kicked off in Rhodes"
+      },
+      {
          "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -730,14 +746,6 @@ news_feed (
          "title" : "From father's surgery to playing silent role in R Vaishali's Grand Swiss glory: The story of 'Karthi Anna'"
       },
       {
-         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and James Dash for the top moments of today's games. Game Links Kasparov vs Anand RAPID GAMES GAME 1 ANAND VS KASPAROV GAME 2 KASPAROV VS ANAND BLITZ GAMES GAME 3 ANAND VS KASPAROV GAME 4 KASPAROV VS ANAND The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-1-kasparovanand/\">POSTGAME DAY 1: Fireworks Have Just Begun! | #KasparovAnand</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-1-kasparovanand/",
-         "pubDate" : "Thu, 09 Oct 2025 00:19:43",
-         "title" : "POSTGAME DAY 1: Fireworks Have Just Begun! | #KasparovAnand"
-      },
-      {
          "description" : "Four rounds have been already played at the European Team Chess Championship 2025, and only a few teams kept the perfect score of 8 match points. Defending Champions, Serbia, scored the fourth consecutive win in the tournament to emerge as the sole leader of the European Team Chess Championship 2025. Serbian team narrowly defeated Greece, with the final score of 2.5-1.5. The first game to finish was played on the first board, where GM Alexandr Predke (SRB, 2634) shockingly lost []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://aicf.in/fide-world-u9-u17-rapid-blitz-chess-championships-2025-in-antalya-turkey-from-15th-to-21st-december-2025/",
          "pubDate" : "Tue, 07 Oct 2025 10:29:19",
          "title" : "FIDE World U9-U17 Rapid & Blitz Chess Championships - 2025 in Antalya, Turkey from 15th to 21st December, 2025"
-      },
-      {
-         "description" : "European Senior Chess Championship 2025 concluded in Rabac, Croatia! The event was played in two age sections: 50+ and 65+, Open and Women's sections separately, with the participation of more than 160 players coming from 30 European federations. GM Jean-Marc Degraeve (FRA, 2478) emerged as the sole Winner of the Open 50+ category. With the score of 7/9 points, he clinched the title of the European Senior 50+ Chess Champion for 2025. Three players scored 6.5 points each and tied []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-chess-champions-2025-crowned-in-croatia/",
-         "pubDate" : "Tue, 07 Oct 2025 07:11:26",
-         "title" : "European Senior Chess Champions 2025 crowned in Croatia"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124354516.cms\" />Hikaru Nakamura's controversial act of throwing Gukesh Dommaraju's king piece into the crowd during an exhibition match has divided the chess community. While some, like Magnus Carlsen's coach Peter Heine Nielsen and organizer Levy Rozman, defended it as an entertainment-driven, pre-planned gesture, others like Vladimir Kramnik condemned it as vulgar and damaging to the game.",
