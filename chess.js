@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 European Club Cup and European Women's Club Cup begin this weekend in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from across the continent. The seven-round event features many of Europe's strongest clubs and a number of world-class players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. Both tournaments run from 19 to 25 October at the Rodos Palace Hotel.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2025-preview",
+         "pubDate" : "Sun, 19 Oct 2025 09:00:00",
+         "title" : "European Club Cup: Gukesh, Giri and Keymer among star participants"
+      },
+      {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 6 &#124; GAME LINKS WOODWARD VS SWIERCZ RESULT: 1-0OPARIN VS SHANKLAND RESULT: &frac12;-&frac12;ARONIAN VS NIEMANN &frac12;-&frac12; CARUANA VS SO RESULT: &frac12;-&frac12;LIANG VS SEVIAN RESULT: &frac12;-&frac12;MISHRA VS ROBSON RESULT: &frac12;-&frac12; ROUND 6 &#124; GAME LINKS KRUSH VS [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-6-alice-lee-and-anna-zatonskih-currently-tied-for-first-uschesschamps/\">POSTGAME ROUND 6: Alice Lee and Anna Zatonskih Currently Tied For First! #USChessChamps</a> appeared fir",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -74,14 +82,6 @@ news_feed (
          "title" : "Certificate of SNA Seminar on 6-7th September in Jammu"
       },
       {
-         "description" : "This ChessBase course transforms calculation into a structured, trainable skill. Instead of random puzzles, it teaches practical thinking tools-how to identify forcing moves, visualize clearly, and compare positions under real game conditions. Designed for ambitious club and tournament players, this course builds lasting calculation habits that sharpen decision-making and reduce blunders.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/surya-ganguly-a-grandmaster-s-training-guide-vol-1-foundations",
-         "pubDate" : "Sat, 18 Oct 2025 08:00:00",
-         "title" : "Surya Ganguly: A Grandmaster's Training Guide Vol. 1 - Foundations"
-      },
-      {
          "description" : "GM Hans Niemann ended GM Abhimanyu Mishra&#39;s 71-game unbeaten streak to join GMs Wesley So and Fabiano Caruana in the 2025 U.S. Chess Championship lead after round five. So&#39;s sole lead ended with a 15-minute draw against GM Levon Aronian, and he wa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -112,14 +112,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-5-tatevs-spectacular-style-nets-second-win-uschesschamps/",
          "pubDate" : "Fri, 17 Oct 2025 23:50:04",
          "title" : "POSTGAME ROUND 5: Tatev's Spectacular Style Nets Second Win! #USChessChamps"
-      },
-      {
-         "description" : "The concept behind the \"60 Minutes\" courses is simple: one hour of video instruction for just under 10€. There are also courses on middle game and endgame topics, but most courses focus on opening variations. In the first instalment of a short series, Jochen Schwarz presents the most important \"60 Minutes\" courses for 1.e4 players against the Sicilian.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-60-minutes-against-the-sicilian",
-         "pubDate" : "Fri, 17 Oct 2025 15:00:00",
-         "title" : "Review: 60 Minutes against the Sicilian"
       },
       {
          "description" : "GM Hikaru Nakamura defeated GM Liem Le 13.5-11.5 in the Speed Chess Championship 2025 Round of 16 on October 17. Though Nakamura dominated the first two portions of the match, it was in the bullet segment, surprisingly, that Le nearly made a heroi...",
@@ -178,22 +170,6 @@ news_feed (
          "title" : "Wesley So Beats Keymer In Overtime"
       },
       {
-         "description" : "Wilhelm Steinitz, born in Prague in 1836, is regarded as the first official World Chess Champion after winning the historic 1886 match against Johannes Zukertort. He founded modern chess theory by replacing romantic, attacking chess with strategic and positional thinking, formulating numerous principles that still shape the game today. The Master Class, featuring four international experts, presents his most important openings, strategic ideas, endgames, and combinations through engaging video lessons.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/master-class-band-19-wilhelm-steinitz",
-         "pubDate" : "Thu, 16 Oct 2025 16:00:00",
-         "title" : "Master Class Band 19: Wilhelm Steinitz"
-      },
-      {
-         "description" : "Hans Niemann was the sole winner in Round 4 of the Open section at this year's U.S. Championships. Playing Black, he defeated Sam Shankland to move into a tie for second place with defending champion Fabiano Caruana and Levon Aronian, half a point behind leader Wesley So, who drew his game against Abhimanyu Mishra. In the Women's Championship, by contrast, five players scored victories. With second-placed Alice Lee drawing against defending champion Carissa Yip, leader Anna Sargsyan extended her lead to a full point thanks to her win over Megan Paragua. Thursday is a rest day in St. Louis. | Photos: Lennart Ootes / St. Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-round-4-anna-sargsyan-one-point-ahead",
-         "pubDate" : "Thu, 16 Oct 2025 14:05:45",
-         "title" : "US Championships Round 4: Anna Sargsyan one point ahead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -208,14 +184,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/faustino-oro-clinches-prodigy-u21-title-jose-martinez-mai-narva-win-gcl-contenders-crowns/articleshow/124603594.cms",
          "pubDate" : "Thu, 16 Oct 2025 11:21:31",
          "title" : "'Messi of Chess' Faustino Oro triumphs; Martinez, Narva win GCL crowns"
-      },
-      {
-         "description" : "Richard Rapport had the best individual result at the European Team Chess Championship in Batumi. Playing on board 1 for Hungary, he scored 5.5 points from 7 games and had a performance rating of 2869, the highest of all players in Batumi. In the final round, he won a nice and theoretically interesting game against Maksim Chigaev. | Photo: Lennart Ootes (Archiv)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/creative-and-successful-richard-rapport",
-         "pubDate" : "Thu, 16 Oct 2025 08:31:46",
-         "title" : "Creative and successful: Richard Rapport"
       },
       {
          "description" : "GM Hans Niemann won a dramatic game against GM Sam Shankland in round four of the&#38;nbsp;2025 U.S. Chess Championship to join GMs Fabiano Caruana and Levon Aronian in second place on 2.5/4, half a point behind leader GM Wesley So. Niemann&#39;s was the ...",
@@ -240,22 +208,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-championships-round-4-so-maintains-open-lead-sargsyan-moves-clear-1st-womens",
          "pubDate" : "Thu, 16 Oct 2025 00:00:00",
          "title" : "U.S. Championships Round 4: So maintains Open lead; Sargsyan moves into clear 1st in Women's"
-      },
-      {
-         "description" : "The Colle and Zukertort Systems offer White a simple yet powerful setup with d4-Nf3-e3-Bd3, aiming for rapid development and a strong kingside attack. The Colle-Koltanowski focuses on c3 and e4, while the Zukertort System employs b3 and a fianchettoed bishop for added strategic depth. Easy to learn and highly effective for club players, this course teaches key sacrifices, maneuvers, and attacking ideas through classical and modern grandmaster games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-the-menacing-colle-zukertort-system-for-the-club-player",
-         "pubDate" : "Wed, 15 Oct 2025 17:00:00",
-         "title" : "Robert Ris: The menacing Colle & Zukertort System for the Club Player!"
-      },
-      {
-         "description" : "In a surprising move, FIDE has officially approved a new world championship format: the Total Chess World Championship Tour, organized by Norway Chess. The Tour will determine a FIDE World Combined Champion across three disciplines - Fast Classic, Rapid, and Blitz - through four global events each year. With a $2.7 million annual prize pool, the series aims to find \"The Total Chess Player\" and bring faster, tech-enhanced formats to a wider audience. A pilot event launches in fall 2026, followed by the first full season in 2027. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-launches-new-world-championship-approved-by-fide",
-         "pubDate" : "Wed, 15 Oct 2025 13:04:51",
-         "title" : "Norway Chess Launches New World Championship - Approved by FIDE"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124579629.cms\" />Norway Chess has unveiled the Total Chess World Championship Tour, a new annual event starting in 2027 featuring Fast Classic, Rapid, and Blitz formats. This FIDE-approved tour, with a substantial prize pool, aims to crown a unified champion across disciplines, complementing existing World Championships and potentially offering a path to the Candidates tournament.",
@@ -288,14 +240,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-2025/",
          "pubDate" : "Wed, 15 Oct 2025 08:41:48",
          "title" : "ECF Book of the Year 2025"
-      },
-      {
-         "description" : "The 2025 European Team Chess Championship concluded in Batumi with Ukraine and Poland emerging as the continental champions in the open and women's sections respectively. Both teams entered the final round in control of their own destinies and confirmed their titles with victories on the last day of play. The tournament featured 40 teams in the open section and 36 in the women's. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2025-9",
-         "pubDate" : "Wed, 15 Oct 2025 08:00:00",
-         "title" : "Ukraine and Poland grab gold at European Team Championships"
       },
       {
          "description" : "",
@@ -410,14 +354,6 @@ news_feed (
          "title" : "25th European Teams 2025 - Games and Results"
       },
       {
-         "description" : "ChessBase co-founder Matthias W&uuml;llenweber talks in an interview about 40 years of ChessBase, 35 years of Fritz and much more. The interview was first published in the October issue of Schach-Magazin 64 and appears here with the kind permission of Otto Borik, editor-in-chief of the chess magazine. | Photos: ChessBase / Nils Rohde / Archive Otto Borik",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/in-chess-ai-fails-due-to-its-hallucinations-an-interview-with-matthias-wuellenweber",
-         "pubDate" : "Tue, 14 Oct 2025 15:39:45",
-         "title" : "\"In chess, AI fails due to its hallucinations\" - An interview with Matthias W&uuml;llenweber"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124553919.cms\" />World champion D Gukesh is the top seed at the FIDE World Cup in Goa, running October 30 to November 27. Indian stars Arjun Erigaisi and R Praggnanandhaa are seeded second and third, respectively. The prestigious tournament features 206 players and offers three direct qualification spots for the 2026 Candidates Tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -522,14 +458,6 @@ news_feed (
          "title" : "Exclusive | Russia, once chess's home, now home-breaker: 'We can't play'"
       },
       {
-         "description" : "The 2025 US Chess Championships began in Saint Louis with an eventful first day that saw Fabiano Caruana and Levon Aronian take the early lead in the open section, while Irina Krush, Atousa Pourkashiyan and Anna Sargsyan prevailed in the women's event. The opening round was notable both for the quality of play and for the unusual sight of an arbiter holding an umbrella during one of the games. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2025-1",
-         "pubDate" : "Mon, 13 Oct 2025 17:35:00",
-         "title" : "US Championships: Caruana and Aronian start with wins"
-      },
-      {
          "description" : "The 8th round of the European Team Chess Championship 2025 was played today, and only one round left before the announcement of European Team Champions. Today's round was opened by the ECU President Mr. Zurab Azmaiparashvili and FIDE Secretary General Mr. Lukasz Turlej. They played the first ceremonial move in the game between IM Deimante Daulyte-Cornette (FRA, 2386) and IM Alina Kashlinskaya (POL, 2450) at the top Women's match of France vs Poland. An intense top board match of the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -544,14 +472,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-comet-open-qualifiers",
          "pubDate" : "Mon, 13 Oct 2025 13:27:00",
          "title" : "Nakamura, Arjun, Keymer, Firouzja Among Qualified Players For Comet Open"
-      },
-      {
-         "description" : "At the US National Championship, which began on Sunday, arbiter Chris Bird helped to create an image that will likely find its way into the collection of the most curious chess photos. He stood next to the table of Wesley So and Hans Niemann - with an umbrella. No, it wasn't raining inside.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunny-start-to-the-us-championships-in-saint-louis",
-         "pubDate" : "Mon, 13 Oct 2025 12:50:36",
-         "title" : "Sunny start to the US Championships in Saint Louis"
       },
       {
          "description" : "A Dutch teenager has been given a three-year ban, with one year suspended, by the FIDE Ethics &#38;amp; Disciplinary Commission (EDC) after he was caught with a mobile phone hidden in his sock during a tournament in the Netherlands last year. The de...",
@@ -618,14 +538,6 @@ news_feed (
          "title" : "Lasker-Chigorin: A legendary clash of two bishops vs two knights"
       },
       {
-         "description" : "In this episode of Svitlana's Smart Moves, Svitlana Demchenko and Arne analyze a classic 1991 game between Garry Kasparov and Viswanathan Anand, inspired by their current exhibition match. They explore the tactical richness of the Sicilian Taimanov, focusing on key moments like Kasparov's brilliant knight sacrifice on b5 and his creative attacking manoeuvres leading to a decisive win. The discussion highlights Kasparov's precision, Anand's resilience, and the timeless instructive value of their games for learning dynamic chess play.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-kasparov-vs-anand-a-taimanov-masterclass",
-         "pubDate" : "Sun, 12 Oct 2025 08:30:00",
-         "title" : "Svitlana's Smart Moves - Kasparov vs Anand: A Taimanov Masterclass"
-      },
-      {
          "description" : " The US Chess Championships take place in Saint Louis Sun 12th Oct to Sat 25th Oct 2025. Players: Fabiano Caruana, Wesley So, Hans Moke Niemann, Levon Aronian, Awonder Liang, Samuel Sevian, Ray Robson, Grigoriy Oparin, Sam Shankland, Abhimanyu Mishra, Andy Woodward and Dariusz Swiercz. Women: Carissa Yip, Alice Lee, Tatev Abrahamyan, Irina Krush, Anna Sargsyan, Rose Atwell, Thalia Cervantes Landeiro, Anna Zatonskih, Nazi Paikidze, Atousa Pourkashiyan, Megan Althea Paragua and Jennifer Yu. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -640,14 +552,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/jeffery-xiong-wins-bullet-brawl-oct-11-2025",
          "pubDate" : "Sat, 11 Oct 2025 17:33:00",
          "title" : "Xiong Surprises Bullet Brawl Field With 'Orangutan' Opening"
-      },
-      {
-         "description" : "The Saint Louis Chess Club will soon host the 2025 US Chess Championship and the 2025 US Women's Championship, running from 12 to 24 October in its newly expanded venue. With a prize fund exceeding $400,000, the 12-player fields feature America's elite, including Fabiano Caruana, Wesley So, Carissa Yip, Alice Lee and Irina Krush. Alongside the competitions, Hall of Fame inductions and cultural events promise a historic month for American chess in Saint Louis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2025-preview",
-         "pubDate" : "Sat, 11 Oct 2025 13:10:00",
-         "title" : "Starting Sunday: The US Chess Championships"
       },
       {
          "description" : "The internet is full of these lofty promises that make you feel like improving your chess will be easy. If you only watch this video or buy this course, you'll improve immediately 300 points. As you might have found out the hard way, that's not true. But you might wonder, why does online chess content []",
@@ -682,14 +586,6 @@ news_feed (
          "title" : "War, science and chess in Samarkand"
       },
       {
-         "description" : "The Ragozin Defence is one of those opening systems that are very popular in modern tournament chess. It combines solid classical elements with dynamic ideas. For those looking for active and dynamic play against 1.d4 without taking any significant risks, Grandmaster Surya Ganguly has created a high-class Fritz trainer in \"Reinventing the Ragozin\". The course impresses not only with its modern repertoire against the Queen's Gambit Declined in impressive depth, but also with valuable insights into the modern opening preparation of current top players. Lukas K&ouml;pl has taken a close look at Ganguly's Fritz trainer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-reinvented-ragozin-von-surya-ganguly",
-         "pubDate" : "Sat, 11 Oct 2025 07:00:00",
-         "title" : "Review: \"Reinventing the Ragozin\" by Surya Ganguly"
-      },
-      {
          "description" : "Clutch Chess: The Legends <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Garry Kasparov, Maurice Ashley, Viswanathan Anand, Jeanne Cairns Sinquefield, and Rex Sinquefield celebrate the Saint Louis Chess Club's grand re-opening (All photos courtesy Lennart Ootes/SLCC)<br> <br> <br> <br> The 2025 U.S. Chess Championship and U.S. Women's Chess Championship begin Sunday, October 12 at the newly renovated Saint Louis Chess Club (SLCC). As a grand re-opening, the lead-up to GM Fabiano Caruana and IM Carissa Yip's quests for their fourth and third consecutive titles, respectively, featured quite an opening act. <br> <br> <br> <br> <br> <br> <br> <br> <br> <b",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -714,14 +610,6 @@ news_feed (
          "title" : "World Champion Garry Kasparov Wins Clutch Chess: The LegendsDuring Grand Reopening of Saint Louis Chess Club"
       },
       {
-         "description" : "Two former world champions, Viswanathan Anand and Garry Kasparov, face each other in \"Clutch Chess: The Legends\", a 12-game chess960 exhibition match held from 8 to 10 October at the newly expanded Saint Louis Chess Club. The event features rapid and blitz games with increasing point values and prize stakes each day. | Follow the action live starting at 19.00 CEST (13.00 ET, 10.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-2025-live",
-         "pubDate" : "Fri, 10 Oct 2025 18:45:00",
-         "title" : "Clutch Chess: Kasparov v. Anand - Live!"
-      },
-      {
          "description" : "The sixth round was played today at the European Team Chess Championship 2025, and Ukraine and Poland kept their sole lead in the Open and Women's sections (respectively). Ukraine scored a narrow victory against France today, thanks to GM Igor Kovalenko's (UKR, 2669) win over GM Pierre Laurent-Paoli (FRA, 2570). GM Ruslan Ponomariov (UKR, 2633) had a nice chance to win the game against GM Marc'Andria Maurizzi (FRA, 2624) but missed the motive to transpose into winning pawns endgame, and []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -744,14 +632,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-clutch-chess-legends-kasparov-anand-day-3",
          "pubDate" : "Fri, 10 Oct 2025 17:05:00",
          "title" : "Kasparov Wins Clutch Chess With 2 Games To Spare; Anand Ends On A High"
-      },
-      {
-         "description" : "Garry Kasparov increased his advantage over Viswanathan Anand to 8&frac12;-3&frac12; after the second day of their chess960 match in Saint Louis. The 13th world champion capitalised on Anand's time forfeiture in the first game and later added another win in the blitz section. The day's results left Kasparov firmly ahead, though twelve points remain at stake in the final session of the exhibition match. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-2025-2",
-         "pubDate" : "Fri, 10 Oct 2025 16:25:00",
-         "title" : "Clutch Chess: Kasparov gets lucky break, leads Anand by five points"
       },
       {
          "description" : "Vtom, coached by NM Robert Ramirez, won the U2000 round-robin in CoachChamps 2025 with a round to spare and a final score of 6/7. He went on a perfect run of 6/6, only losing his last game after already clinching the tournament and victory for his...",
@@ -794,14 +674,6 @@ news_feed (
          "title" : "Ukraine, Poland Lead European Team Championships At Halfway Point"
       },
       {
-         "description" : "The delayed September edition reviews a single slow-play game in the mainline Sicilian Dragon, Yugoslav Attack with Bc4 and 10.Bb3. Chris outlines White's three plans: all-out h4-h5, positional a4, or the \"halfway house\", and shows the typical imbalances after Bxe6 followed by fxe6 and the tactical motif Rb4. But, our viewers have to be strong, since this episode it is White who actually wins | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-to-be-or-not-to-be-bb3",
-         "pubDate" : "Fri, 10 Oct 2025 07:25:35",
-         "title" : "The Monthly Dragon - To be or not to be Bb3"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124446426.cms\" />Viswanathan Anand missed crucial opportunities against Garry Kasparov in the Clutch Chess Legends, allowing the Russian to extend his lead. Anand's time trouble and blunders contributed to his losses, though he still has a mathematical chance on the final day. Kasparov expressed surprise at his good fortune.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -832,14 +704,6 @@ news_feed (
          "link" : "https://www.europechess.org/ukraine-and-poland-take-sole-lead-in-european-open-and-womens-team-chess-championships-2025/",
          "pubDate" : "Thu, 09 Oct 2025 18:18:29",
          "title" : "Ukraine and Poland take sole lead in European Open and Women's Team Chess Championships 2025"
-      },
-      {
-         "description" : "One country is missing from the European Team Chess Championship in Batumi. Norway, home to the world's best chess player, is not represented in either the open or women's tournaments. The reason for this is purely financial. The Norwegian Chess Federation has very limited funds at its disposal. And there is a specific reason for this.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-not-an-official-sport-in-norway",
-         "pubDate" : "Thu, 09 Oct 2025 16:01:00",
-         "title" : "Chess - not an official sport in Norway"
       },
       {
          "description" : "On behalf of All India Chess Federation , Maharashtra Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Children's Welfare School Versova Andheri West Mumbai-400061",
