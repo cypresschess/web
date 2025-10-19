@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Club Cup is taking place on 19-25 October in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from around the world. The seven-round event features a number of elite players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2025-live",
+         "pubDate" : "Sun, 19 Oct 2025 14:00:00",
+         "title" : "European Club Cup - Live!"
+      },
+      {
+         "description" : " The 40th European Club Cup and 29th Club Cup for Women takes place in Rhodes, Greece, 19th to 25th October 2025. The top teams are: BayeganPendik chess sports (TUR with Giri, Mamedyarov, Rapport, Sarin etc), Alkaloid (MKD, Erigaisi, Wei Yi, Yu Yangyi etc), Novi Bor (CZE with Keymer, Vidit, Harikrishna, Navara etc), SuperChess (ROU with Gukesh, Van Foreest, Maghsoodloo, Sarana). Cercle d'&eacute;checs de Monte-Carlo, Turkish Airlines sports club, Tajfun SK Ljubljana and SuperChess are the top seeds in the women's event. There are a wide variety of strengths of player competing. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/40th-european-club-cup-2025",
+         "pubDate" : "Sun, 19 Oct 2025 13:04:00",
+         "title" : "40th European Club Cup 2025 - Games and Results"
+      },
+      {
          "description" : "The 2025 European Club Cup and European Women's Club Cup begin this weekend in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from across the continent. The seven-round event features many of Europe's strongest clubs and a number of world-class players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. Both tournaments run from 19 to 25 October at the Rodos Palace Hotel.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
