@@ -10,6 +10,14 @@ news_feed (
          "title" : "European Club Cup: Gukesh, Giri and Keymer among star participants"
       },
       {
+         "description" : "GM Fabiano Caruana missed a huge chance to grab the sole lead at the 2025 U.S. Chess Championship in St. Louis on Saturday, failing to force a checkmate in nine moves against GM Wesley So. Alongside several more draws, GM Andy Woodward won his sec...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-us-championship-round-6",
+         "pubDate" : "Sun, 19 Oct 2025 00:34:00",
+         "title" : "Caruana Misses Forced Checkmate vs So; Zatonskih Catches Lee"
+      },
+      {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 6 &#124; GAME LINKS WOODWARD VS SWIERCZ RESULT: 1-0OPARIN VS SHANKLAND RESULT: &frac12;-&frac12;ARONIAN VS NIEMANN &frac12;-&frac12; CARUANA VS SO RESULT: &frac12;-&frac12;LIANG VS SEVIAN RESULT: &frac12;-&frac12;MISHRA VS ROBSON RESULT: &frac12;-&frac12; ROUND 6 &#124; GAME LINKS KRUSH VS [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-6-alice-lee-and-anna-zatonskih-currently-tied-for-first-uschesschamps/\">POSTGAME ROUND 6: Alice Lee and Anna Zatonskih Currently Tied For First! #USChessChamps</a> appeared fir",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -42,22 +50,6 @@ news_feed (
          "title" : "16-Year-Old Gurel Steamrolls His Way To 5th Bullet Brawl Title"
       },
       {
-         "description" : "The fifth round of the US Championships in Saint Louis brought decisive results and a reshuffling of the standings in both sections. In the open, Hans Niemann ended Abhimanyu Mishra's remarkable 71-game unbeaten streak to join Wesley So and Fabiano Caruana in the lead, while in the women's championship, Carissa Yip defeated former sole leader Anna Sargsyan, allowing Alice Lee to join the lead. Irina Krush and Tatev Abrahamyan also scored important wins. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2025-5",
-         "pubDate" : "Sat, 18 Oct 2025 14:30:00",
-         "title" : "US Championships: Niemann and Caruana join So in the lead"
-      },
-      {
-         "description" : "We take a unique behind-the-scenes look at how top chess masters organize their digital workspace. Grandmasters and trainers like Svitlana Demchenko, Robert Ris, Michael Prusikin, Harald Schneider-Zinner, Frederik Svane, Felix Blohberger, and Dorian Rogozenco share their screens to reveal their personal ChessBase 18 setups - from meticulously clean desktops to chaotic databases full of ideas. They show us their board designs, current projects, and discuss their favourite or most-used ChessBase functions, offering fascinating insights into how great minds prepare, study, and work with chess every day.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dorian-rogozenco-my-chessbase-18-desktop",
-         "pubDate" : "Sat, 18 Oct 2025 14:00:00",
-         "title" : "Dorian Rogozenco - My ChessBase 18 Desktop"
-      },
-      {
          "description" : "There are four stages to chess improvement. Most players get stuck in one of the earlier stages. Or try to go to stage 4 without any preparation. Which usually leads to disaster. Curious about the stages? I'm sure you'll resonate with some of those: Stage 1: Random Improvements You get into chess and just wing []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -88,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-us-championship-round-5",
          "pubDate" : "Sat, 18 Oct 2025 02:45:00",
          "title" : "Niemann, Caruana Catch So; Christmas Comes Early For Carissa Yip"
-      },
-      {
-         "description" : "Hikaru Nakamura continued his bid to qualify for the 2026 FIDE Candidates Tournament by winning the Maritime Open Chess Championship in Summerside, Prince Edward Island. Playing against much lower-rated opposition, the world number two scored 5&frac12;/6 to take first place outright. Though he lost a few rating points, the event brought him closer to fulfilling the 40-game requirement for the rating qualification spot. | Photo: Hikaru Nakamura's X account",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nakamura-maritime-open-2025",
-         "pubDate" : "Sat, 18 Oct 2025 01:00:00",
-         "title" : "Nakamura scores 5&frac12;/6 at Maritime Open in Canada"
       },
       {
          "description" : "After the rest day, players came recharged - and Round 5 of the 2025 U.S. and U.S. Women's Chess Championships brought no shortage of drama and decisive results. The Confessional Booth EffectIt might be pure coincidence - or perhaps a bit of St. Louis magic - but every player who stepped into the confessional booth in Round 5 ended up winning their game. GM Hans Niemann, IM Carissa Yip, GM Irina Krush, and IM Alice Lee all took a few moments mid-battle to share their thoughts, predictions, or even off-topic frustrations - such as Carissa's seasonal \"sweater drama\" - and later walked away with full points. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <b",
@@ -664,14 +648,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/daily-chess-championship-2026",
          "pubDate" : "Fri, 10 Oct 2025 08:00:00",
          "title" : "Register Now For the 2026 Daily Chess Championship"
-      },
-      {
-         "description" : "The Ukrainian Open Team and the Polish Women&#39;s team lead the 2025 European Team Championships after round five of the nine-round event. The tournament is a semi-annual competition between European nations and a good test for countries to test line...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-european-team-championship-rounds-1-5",
-         "pubDate" : "Fri, 10 Oct 2025 07:45:00",
-         "title" : "Ukraine, Poland Lead European Team Championships At Halfway Point"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124446426.cms\" />Viswanathan Anand missed crucial opportunities against Garry Kasparov in the Clutch Chess Legends, allowing the Russian to extend his lead. Anand's time trouble and blunders contributed to his losses, though he still has a mathematical chance on the final day. Kasparov expressed surprise at his good fortune.",
