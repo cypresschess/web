@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, his family announced the death of Daniel Naroditsky. The talented American grandmaster was an active online player and streamer, as well as a popular commentator. He would have turned 30 on 9 November. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-naroditsky-1995-2",
+         "pubDate" : "Mon, 20 Oct 2025 21:53:45",
+         "title" : "Daniel Naroditsky (9 November 1995 - 19 October 2025)"
+      },
+      {
          "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +26,14 @@ news_feed (
          "title" : "Leonard Barden on young chess talents"
       },
       {
+         "description" : "In October and November 2000, the World Championship match between Garry Kasparov and Vladimir Kramnik took place in London under unusual circumstances. With the rediscovered Berlin Defence, Kramnik neutralised Kasparov's attacking power and became the 14th world champion. A look back. | Photo: Ben Bartels",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/25-years-ago-kramnik-beats-kasparov",
+         "pubDate" : "Mon, 20 Oct 2025 15:05:00",
+         "title" : "25 Years Ago: Kramnik beats Kasparov"
+      },
+      {
          "description" : "The European Club Cup is taking place on 19-25 October in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from around the world. The seven-round event features a number of elite players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,20 +42,12 @@ news_feed (
          "title" : "European Club Cup - Live!"
       },
       {
-         "description" : "GM Daniel Naroditsky, the popular U.S. grandmaster, commentator, creator, educator, and author, unexpectedly passed away on Sunday at the age of only 29. The news has been met with shock and sadness by the chess community. This is a developing s...",
+         "description" : "GM Daniel Naroditsky, the popular U.S. grandmaster, commentator, creator, educator, and author, unexpectedly passed away on Sunday at the age of only 29. The news has sent shockwaves around the chess community, which is grieving the loss of one of...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/grandmaster-daniel-naroditsky-dies-at-29",
          "pubDate" : "Mon, 20 Oct 2025 11:30:00",
          "title" : "Grandmaster, Popular Commentator Daniel Naroditsky Tragically Passes Away At 29"
-      },
-      {
-         "description" : "In October and November 2000, the World Championship match between Garry Kasparov and Vladimir Kramnik took place in London under unusual circumstances. With the rediscovered Berlin Defence, Kramnik neutralised Kasparov's attacking power and became the 14th world champion. A look back. | Photo: Ben Bartels",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/25-years-ago-kramnik-beats-kasparov",
-         "pubDate" : "Mon, 20 Oct 2025 10:05:55",
-         "title" : "25 Years Ago: Kramnik beats Kasparov"
       },
       {
          "description" : "The&#160;49th&#160;BWCI Guernsey International Chess Festival will be taking place from Sunday&#160;19th&#160;October to Saturday&#160;25th&#160;&#160;October 2025&#160;and we will be displaying the live games on the top&#160;8&#160;boards in the Open section via&#160;https://view.livechesscloud.com#783d64ea-7513-49ff-8125-2181180554e2&#160; We...",
@@ -82,7 +90,7 @@ news_feed (
          "title" : "GM Daniel Naroditsky (1995-2025)"
       },
       {
-         "description" : "Sunday saw eight decisive games in St. Louis, with players fighting for the win in contrasting fashions. While some players threw caution to the wind and embarked on audacious king walks in the middlegame, others embraced a more methodical and patient approach, squeezing the water out of drawn endgames a la Rubinstein.With only four draws, Round 7 marks the bloodiest round in this year's championships so far. While co-leaders GM Fabiano Caruana and Wesley So pulled ahead to a full point lead in the Open Section, IM Alice Lee who took the sole lead in the Women's, a half-point ahead of her two nearest rivals. U.S. ChampionshipAfter a relatively calm Round 6 that saw five peaceful handshakes, ",
+         "description" : "Sunday saw eight decisive games in St. Louis, with players fighting for the win in contrasting fashions. While some players threw caution to the wind and embarked on audacious king walks in the middlegame, others embraced a more methodical and patient approach, squeezing the water out of drawn endgames a la Rubinstein. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Carissa Yip watches her competitors' games during Sunday's seventh round (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> With only four draws, Round 7 marks the bloodiest round in this year's championships so far. While co-leaders GM Fabiano Caruana and Wesley So pulled ahead to a fu",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/us-championships-action-heats-ultra-decisive-round-7",
