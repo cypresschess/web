@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The opening round of the European Club Cup in Rhodes went largely as expected, with all top teams in both the open and women's sections winning their matches comfortably. The day's most notable result came in the women's event, where 10-year-old Bodhana Sivanandan of Lionesses #1 defeated Mariya Muzychuk of Turkish Airlines in a sharp Sicilian. BayeganPendik, the top seeds in the open section, began with a 5-1 win over HWP Haarlem. | Photo: Patricia Claros",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2025-1",
+         "pubDate" : "Mon, 20 Oct 2025 06:50:00",
+         "title" : "Euro Club Cup: Favourites start with dominating wins"
+      },
+      {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 7 &#124; GAME LINKS ROBSON VS ARONIAN RESULT: &frac12;-&frac12;SWIERCZ VS LIANG RESULT: 1-0SO VS WOODWARD RESULT: 1-0SHANKLAND VS MISHRA RESULT: 1-0NIEMANN VS CARUANA RESULT: 0-1SEVIAN VS OPARIN RESULT: 1-0 ROUND 7 &#124; GAME LINKS POURKASHIYAN VS [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-7/\">POSTGAME ROUND 7: Caruana's BIG TIME Win Over Hans! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2025-live",
          "pubDate" : "Sun, 19 Oct 2025 19:00:00",
          "title" : "US Chess Championships - Live!"
-      },
-      {
-         "description" : "The European Club Cup is taking place on 19-25 October in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from around the world. The seven-round event features a number of elite players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2025-live",
-         "pubDate" : "Sun, 19 Oct 2025 14:00:00",
-         "title" : "European Club Cup - Live!"
       },
       {
          "description" : " The 40th European Club Cup and 29th Club Cup for Women takes place in Rhodes, Greece, 19th to 25th October 2025. The top teams are: BayeganPendik chess sports (TUR with Giri, Mamedyarov, Rapport, Sarin etc), Alkaloid (MKD, Erigaisi, Wei Yi, Yu Yangyi etc), Novi Bor (CZE with Keymer, Vidit, Harikrishna, Navara etc), SuperChess (ROU with Gukesh, Van Foreest, Maghsoodloo, Sarana). Cercle d'&eacute;checs de Monte-Carlo, Turkish Airlines sports club, Tajfun SK Ljubljana and SuperChess are the top seeds in the women's event. There are a wide variety of strengths of player competing. ",
