@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 7 &#124; GAME LINKS ROBSON VS ARONIANRESULT: &#189;-&#189;SWIERCZ VS LIANGRESULT: 1-0SO VS WOODWARDRESULT: 1-0SHANKLAND VS MISHRARESULT: 1-0NIEMANN VS CARUANARESULT: 0-1SEVIAN VS OPARINRESULT: 1-0 ROUND 7 &#124; GAME LINKS POURKASHIYAN VS LEERESULT: 0-1YIP VS YURESULT: &#189;-&#189;PAIKIDZE VS [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-7/\">POSTGAME ROUND 7 | #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 7 &#124; GAME LINKS ROBSON VS ARONIAN RESULT: &frac12;-&frac12;SWIERCZ VS LIANG RESULT: 1-0SO VS WOODWARD RESULT: 1-0SHANKLAND VS MISHRA RESULT: 1-0NIEMANN VS CARUANA RESULT: 0-1SEVIAN VS OPARIN RESULT: 1-0 ROUND 7 &#124; GAME LINKS POURKASHIYAN VS [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-7/\">POSTGAME ROUND 7: Caruana's BIG TIME Win Over Hans! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-7/",
          "pubDate" : "Sun, 19 Oct 2025 22:53:33",
-         "title" : "POSTGAME ROUND 7 | #USChessChamps"
+         "title" : "POSTGAME ROUND 7: Caruana's BIG TIME Win Over Hans! #USChessChamps"
       },
       {
          "description" : "The European Chess Club Cup 2025 kicked off today in Rhodes, Greece. The first round of the event was opened by the ECU President Mr. Zurab Azmaiparashvili, the Governor of the South Aegean Region Mr. Giorgos Hatzimarkos, and the President of the Greek Chess Fedeartion,Mr. Stathis Efstathopoulos, who made the first ceremonial moves in the games between FM Bart Gijswijt and GM Shakhriyar Mamedyarov, GM Divya Deshmukh and IM Gulrukhbegim Tokhirjonova, and in the game between IM Stavroula Tsolakidou and []",
