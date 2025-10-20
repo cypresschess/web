@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Can you imagine writing about rising chess stars who are up to 86 years younger than you? The indefatigable Leonard Barden, who at 96 still fills his weekly London Guardian column, has been keenly following the youngest talents, players between ten and sixteen playing at GM levels. If you want to keep up-to-date on some mind-boggling developments in the game, it is definitely advisable to put Fridays on your schedule to read what Barden has to say.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leonard-barden-on-young-chess-talents",
+         "pubDate" : "Mon, 20 Oct 2025 16:00:00",
+         "title" : "Leonard Barden on young chess talents"
+      },
+      {
+         "description" : "The European Club Cup is taking place on 19-25 October in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from around the world. The seven-round event features a number of elite players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2025-live",
+         "pubDate" : "Mon, 20 Oct 2025 14:00:00",
+         "title" : "European Club Cup - Live!"
+      },
+      {
          "description" : "In October and November 2000, the World Championship match between Garry Kasparov and Vladimir Kramnik took place in London under unusual circumstances. With the rediscovered Berlin Defence, Kramnik neutralised Kasparov's attacking power and became the 14th world champion. A look back. | Photo: Ben Bartels",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +42,14 @@ news_feed (
          "title" : "Euro Club Cup: Favourites start with dominating wins"
       },
       {
+         "description" : "GM Magnus Carlsen won the October 17 Freestyle Friday in fine fashion, scoring 10 points to clear the field by 1.5 points. It was Carlsen&#39;s first win in the event since August 15, which was also the last time anyone scored 10 points. He hadn&#39;t rea...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-freestyle-friday-october-17-2025",
+         "pubDate" : "Mon, 20 Oct 2025 06:10:43",
+         "title" : "Carlsen Crushes Freestyle Friday"
+      },
+      {
          "description" : "GM Fabiano Caruana bulldozed his pawns through GM Hans Niemann&#39;s kingside to reach a forced checkmate on Saturday in St. Louis. America&#39;s number two now leads with GM Wesley So, who put an end to GM Andy Woodward&#39;s winning ways. A very adventurous...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-club-cup-2025-kicked-off-in-rhodes/",
          "pubDate" : "Sun, 19 Oct 2025 22:03:05",
          "title" : "European Chess Club Cup 2025 kicked off in Rhodes"
-      },
-      {
-         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
-         "pubDate" : "Sun, 19 Oct 2025 19:00:00",
-         "title" : "US Chess Championships - Live!"
       },
       {
          "description" : " The 40th European Club Cup and 29th Club Cup for Women takes place in Rhodes, Greece, 19th to 25th October 2025. The top teams are: BayeganPendik chess sports (TUR with Giri, Mamedyarov, Rapport, Sarin etc), Alkaloid (MKD, Erigaisi, Wei Yi, Yu Yangyi etc), Novi Bor (CZE with Keymer, Vidit, Harikrishna, Navara etc), SuperChess (ROU with Gukesh, Van Foreest, Maghsoodloo, Sarana). Cercle d'&eacute;checs de Monte-Carlo, Turkish Airlines sports club, Tajfun SK Ljubljana and SuperChess are the top seeds in the women's event. There are a wide variety of strengths of player competing. ",
@@ -688,14 +704,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-clutch-chess-legends-kasparov-anand-day-3",
          "pubDate" : "Fri, 10 Oct 2025 17:05:00",
          "title" : "Kasparov Wins Clutch Chess With 2 Games To Spare; Anand Ends On A High"
-      },
-      {
-         "description" : "Vtom, coached by NM Robert Ramirez, won the U2000 round-robin in CoachChamps 2025 with a round to spare and a final score of 6/7. He went on a perfect run of 6/6, only losing his last game after already clinching the tournament and victory for his...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ramirez-wins-2025-coachchamps",
-         "pubDate" : "Fri, 10 Oct 2025 13:52:00",
-         "title" : "Ramirez Wins CoachChamps 2025, Student Vtom Wins U2000 With Game To Spare"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124455889.cms\" />Argentinian prodigy Faustino Oro, dubbed the 'Messi of Chess', and Indian GM Pranesh M are among 12 Grandmasters and International Masters joining the GCL Contenders 2025 Knockout Challengers Round. Over 11,500 players initially registered, with top performers now set to compete against these elite players for ambassador spots in the Global Chess League season 3.",
