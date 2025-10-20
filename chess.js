@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In October and November 2000, the World Championship match between Garry Kasparov and Vladimir Kramnik took place in London under unusual circumstances. With the rediscovered Berlin Defence, Kramnik neutralised Kasparov's attacking power and became the 14th world champion. A look back. | Photo: Ben Bartels",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/25-years-ago-kramnik-beats-kasparov",
+         "pubDate" : "Mon, 20 Oct 2025 10:05:55",
+         "title" : "25 Years Ago: Kramnik beats Kasparov"
+      },
+      {
+         "description" : "The&#160;49th&#160;BWCI Guernsey International Chess Festival will be taking place from Sunday&#160;19th&#160;October to Saturday&#160;25th&#160;&#160;October 2025&#160;and we will be displaying the live games on the top&#160;8&#160;boards in the Open section via&#160;https://view.livechesscloud.com#783d64ea-7513-49ff-8125-2181180554e2&#160; We...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/49th-bwci-guernsey-international-chess-festival/",
+         "pubDate" : "Mon, 20 Oct 2025 08:36:47",
+         "title" : "49th BWCI Guernsey International Chess Festival"
+      },
+      {
          "description" : "The opening round of the European Club Cup in Rhodes went largely as expected, with all top teams in both the open and women's sections winning their matches comfortably. The day's most notable result came in the women's event, where 10-year-old Bodhana Sivanandan of Lionesses #1 defeated Mariya Muzychuk of Turkish Airlines in a sharp Sicilian. BayeganPendik, the top seeds in the open section, began with a 5-1 win over HWP Haarlem. | Photo: Patricia Claros",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-club-cup-2025-1",
          "pubDate" : "Mon, 20 Oct 2025 06:50:00",
          "title" : "Euro Club Cup: Favourites start with dominating wins"
+      },
+      {
+         "description" : "GM Fabiano Caruana bulldozed his pawns through GM Hans Niemann&#39;s kingside to reach a forced checkmate on Saturday in St. Louis. America&#39;s number two now leads with GM Wesley So, who put an end to GM Andy Woodward&#39;s winning ways. A very adventurous...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-us-championship-round-7",
+         "pubDate" : "Mon, 20 Oct 2025 01:48:00",
+         "title" : "Caruana Bulldozes Niemann To Lead With So; Lee Becomes Sole Leader"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 7 &#124; GAME LINKS ROBSON VS ARONIAN RESULT: &frac12;-&frac12;SWIERCZ VS LIANG RESULT: 1-0SO VS WOODWARD RESULT: 1-0SHANKLAND VS MISHRA RESULT: 1-0NIEMANN VS CARUANA RESULT: 0-1SEVIAN VS OPARIN RESULT: 1-0 ROUND 7 &#124; GAME LINKS POURKASHIYAN VS [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-7/\">POSTGAME ROUND 7: Caruana's BIG TIME Win Over Hans! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -680,14 +704,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-lionel-messi-of-chess-faustino-oro-indias-m-pranesh-among-gms-joining-gcl-contenders-2025-knock-out-challengers/articleshow/124455889.cms",
          "pubDate" : "Fri, 10 Oct 2025 13:47:46",
          "title" : "GCL: 'Lionel Messi of chess' Oro, Pranesh among GMs joining Contenders"
-      },
-      {
-         "description" : "GM Arjun Erigaisi, who won three straight Freestyle Fridays in February and March, finally got back in the win column in the tournament on October 10 for his long-awaited fourth victory. The undefeated Arjun&#39;s 9.5 points were enough to win outrigh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-wins-freestyle-friday-october-10-2025",
-         "pubDate" : "Fri, 10 Oct 2025 10:51:00",
-         "title" : "Arjun Freestyles Into Four-Time Friday Champion"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124446426.cms\" />Viswanathan Anand missed crucial opportunities against Garry Kasparov in the Clutch Chess Legends, allowing the Russian to extend his lead. Anand's time trouble and blunders contributed to his losses, though he still has a mathematical chance on the final day. Kasparov expressed surprise at his good fortune.",
