@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-10-18","9","<a href=http://www.uschess.org/msa/XtblMain.php?202510182712 target='_blank'>CHESSPANDA10182025SATURDAY</a>",
 "SUGAR LAND","2025-10-17","8","<a href=http://www.uschess.org/msa/XtblMain.php?202510172262 target='_blank'>FBCC NATIONAL PASTA DAY OPEN</a>",
 "HOUSTON","2025-10-08  - 10-13","27","<a href=http://www.uschess.org/msa/XtblMain.php?202510130982 target='_blank'>TEXAS NORM SWISS 2025</a>",
 "HOUSTON","2025-10-12","8","<a href=http://www.uschess.org/msa/XtblMain.php?202510129212 target='_blank'>OCT 12 SUNDAY SWISS 10AM G/60+30</a>",
@@ -198,5 +199,4 @@ jtable([
 "CYPRESS","2025-04-09","41","<a href=http://www.uschess.org/msa/XtblMain.php?202504096572 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-04-04  - 04-06","41","<a href=http://www.uschess.org/msa/XtblMain.php?202504065162 target='_blank'>$3,000 APRIL  CHAMPIONSHIP</a>",
 "HOUSTON","2025-04-06","9","<a href=http://www.uschess.org/msa/XtblMain.php?202504065082 target='_blank'>CHESSPANDA04052025SATURDAY</a>",
-"SPRING","2025-04-04","40","<a href=http://www.uschess.org/msa/XtblMain.php?202504043452 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
