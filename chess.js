@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
+         "pubDate" : "Mon, 20 Oct 2025 19:00:00",
+         "title" : "US Chess Championships - Live!"
+      },
+      {
          "description" : "Can you imagine writing about rising chess stars who are up to 86 years younger than you? The indefatigable Leonard Barden, who at 96 still fills his weekly London Guardian column, has been keenly following the youngest talents, players between ten and sixteen playing at GM levels. If you want to keep up-to-date on some mind-boggling developments in the game, it is definitely advisable to put Fridays on your schedule to read what Barden has to say.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-club-cup-2025-live",
          "pubDate" : "Mon, 20 Oct 2025 14:00:00",
          "title" : "European Club Cup - Live!"
+      },
+      {
+         "description" : "GM Daniel Naroditsky, the popular U.S. grandmaster, commentator, creator, educator, and author, unexpectedly passed away on Sunday at the age of only 29. The news has been met with shock and sadness by the chess community. This is a developing s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/grandmaster-daniel-naroditsky-dies-at-29",
+         "pubDate" : "Mon, 20 Oct 2025 11:30:00",
+         "title" : "Grandmaster, Popular Commentator Daniel Naroditsky Tragically Passes Away At 29"
       },
       {
          "description" : "In October and November 2000, the World Championship match between Garry Kasparov and Vladimir Kramnik took place in London under unusual circumstances. With the rediscovered Berlin Defence, Kramnik neutralised Kasparov's attacking power and became the 14th world champion. A look back. | Photo: Ben Bartels",
@@ -56,6 +72,30 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-us-championship-round-7",
          "pubDate" : "Mon, 20 Oct 2025 01:48:00",
          "title" : "Caruana Bulldozes Niemann To Lead With So; Lee Becomes Sole Leader"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy SLCC/Lennart Ootes.<br> <br> <br> <br> GM Daniel Naroditsky, a former World Junior Champion and longtime member of the Charlotte Chess Center community, has died, the center said on Monday. He was 29.\"Daniel was a talented chess player, commentator, and educator, and a cherished member of the chess community, admired and respected by fans and players around the world,\" the center said in a statement attributed to the Naroditsky family.The center asked for \"privacy for Daniel's family during this extremely difficult time.\"\"Let us remember Daniel for his passion and love for the game of chess",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/gm-daniel-naroditsky-1995-2025",
+         "pubDate" : "Mon, 20 Oct 2025 00:00:00",
+         "title" : "GM Daniel Naroditsky (1995-2025)"
+      },
+      {
+         "description" : "Sunday saw eight decisive games in St. Louis, with players fighting for the win in contrasting fashions. While some players threw caution to the wind and embarked on audacious king walks in the middlegame, others embraced a more methodical and patient approach, squeezing the water out of drawn endgames a la Rubinstein.With only four draws, Round 7 marks the bloodiest round in this year's championships so far. While co-leaders GM Fabiano Caruana and Wesley So pulled ahead to a full point lead in the Open Section, IM Alice Lee who took the sole lead in the Women's, a half-point ahead of her two nearest rivals. U.S. ChampionshipAfter a relatively calm Round 6 that saw five peaceful handshakes, ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-championships-action-heats-ultra-decisive-round-7",
+         "pubDate" : "Mon, 20 Oct 2025 00:00:00",
+         "title" : "U.S. Championships: Action Heats Up in Ultra-Decisive Round 7"
+      },
+      {
+         "description" : "US Chess Prepares to Launch New Membership Database and MUIR SystemOver the past few years, US Chess has made steady progress toward modernizing its digital infrastructure. The next major step in that journey is the launch of our new membership database - a system designed to strengthen the organization's ability to serve members efficiently, accurately, and in real time.This new database will be vital to US Chess's future operations. It will enable the federation to provide more timely information, enhanced member services, and improved communication. At the same time, it will reduce the amount of staff time needed to maintain internal systems, financial records, and donor data. The update ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/introducing-muir-member-uploads-information-and-reporting",
+         "pubDate" : "Mon, 20 Oct 2025 00:00:00",
+         "title" : "Introducing MUIR: Member Uploads, Information, and Reporting"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 7 &#124; GAME LINKS ROBSON VS ARONIAN RESULT: &frac12;-&frac12;SWIERCZ VS LIANG RESULT: 1-0SO VS WOODWARD RESULT: 1-0SHANKLAND VS MISHRA RESULT: 1-0NIEMANN VS CARUANA RESULT: 0-1SEVIAN VS OPARIN RESULT: 1-0 ROUND 7 &#124; GAME LINKS POURKASHIYAN VS [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-7/\">POSTGAME ROUND 7: Caruana's BIG TIME Win Over Hans! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -578,14 +618,6 @@ news_feed (
          "title" : "POSTGAME ROUND 1: Caruana's Epic Win vs. Oparin | #USChessChamps"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Dr. Jeanne Cairns Sinquefield rings the bell at the start of round 1, with Chess Life Editor John Hartmann spotted in the background (Photo courtesy of Lennart Ootes/SLCC)<br> <br> <br> <br> Every year, we witness a dozen each of the top American male and female players take part in the prestigious U.S. Chess Championships, this year hosted in the newly renovated Saint Louis Chess Club (SLCC). This event is always exhilarating to watch, as we witness many generations of American chess battling it out for the coveted titles of U.S. and U.S. Women's Champion. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-us-championships-sun-shining-caruana-cruising-pourkashiyan-upsets-yip",
-         "pubDate" : "Mon, 13 Oct 2025 00:00:00",
-         "title" : "2025 U.S. Championships: Sun is Shining, Caruana is Cruising, but Pourkashiyan Upsets Yip"
-      },
-      {
          "description" : " The 78th Russian Chess Championship and 75th Russian Women's Championship took place in Moscow 1st to 12th October 2025. The event was pretty weak compared to even the relatively recent past due to the war. Daniil Dubov, Vladislav Artemiev, Andrey Esipenko and Vladimir Malakhov were the top seeds but there were some young players too. Polina Shuvalova, Leya Garifullina, Olga Girya, Valentina Gunina and Alisa Galliamova were the leading women's players. 22 year old Arseniy Nesterov won the title for the first time with 6.5/11 half a point clear of Daniil Dubov, Andrey Esipenko and Vadim Zvjaginsev. Anna Shukhman won the women's event with 7/10 half a point clear of Leya Garifullina (who she ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -658,14 +690,6 @@ news_feed (
          "title" : "War, science and chess in Samarkand"
       },
       {
-         "description" : "Clutch Chess: The Legends <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Garry Kasparov, Maurice Ashley, Viswanathan Anand, Jeanne Cairns Sinquefield, and Rex Sinquefield celebrate the Saint Louis Chess Club's grand re-opening (All photos courtesy Lennart Ootes/SLCC)<br> <br> <br> <br> The 2025 U.S. Chess Championship and U.S. Women's Chess Championship begin Sunday, October 12 at the newly renovated Saint Louis Chess Club (SLCC). As a grand re-opening, the lead-up to GM Fabiano Caruana and IM Carissa Yip's quests for their fourth and third consecutive titles, respectively, featured quite an opening act. <br> <br> <br> <br> <br> <br> <br> <br> <br> <b",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/clutch-chess-and-us-championships-slccs-grand-re-opening",
-         "pubDate" : "Sat, 11 Oct 2025 00:00:00",
-         "title" : "Clutch Chess and U.S. Championships: SLCC's Grand Re-Opening"
-      },
-      {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and James Dash for the top moments of today's games. Game Links Kasparov vs Anand RAPID GAMES GAME 9 ANAND VS KASPAROV GAME 10 KASPAROV VS ANAND BLITZ GAMES GAME 11 ANAND VS KASPAROV GAME 12 KASPAROV VS ANAND The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-3-kasparov-wins-but-vishy-gets-last-laugh-kasparovanand/\">POSTGAME DAY 3: Kasparov Wins! But Vishy Gets Last Laugh | #KasparovAnand</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -696,14 +720,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/oct/10/chess-england-in-midfield-at-european-championships-and-medals-appear-unlikely",
          "pubDate" : "Fri, 10 Oct 2025 18:34:10",
          "title" : "Chess: England jump to fifth at European championships, with outside medal chance"
-      },
-      {
-         "description" : "Thirteenth World Champion Garry Kasparov dominated to win 2025 Clutch Chess: The Legends with two games to spare, 30 years to the day after clinching victory over GM Viswanathan Anand in the 1995 World Chess Championship match. Anand hadn&#39;t won a ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-clutch-chess-legends-kasparov-anand-day-3",
-         "pubDate" : "Fri, 10 Oct 2025 17:05:00",
-         "title" : "Kasparov Wins Clutch Chess With 2 Games To Spare; Anand Ends On A High"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124455889.cms\" />Argentinian prodigy Faustino Oro, dubbed the 'Messi of Chess', and Indian GM Pranesh M are among 12 Grandmasters and International Masters joining the GCL Contenders 2025 Knockout Challengers Round. Over 11,500 players initially registered, with top performers now set to compete against these elite players for ambassador spots in the Global Chess League season 3.",
@@ -808,14 +824,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-vs-garry-kasparov-legendary-chess-rivals-reignite-30-year-old-battle-in-usa/articleshow/124375039.cms",
          "pubDate" : "Wed, 08 Oct 2025 02:39:11",
          "title" : "Anand vs Kasparov: Legendary chess rivals reignite 30-year-old battle in USA"
-      },
-      {
-         "description" : "This week's puzzles begin our series on the 2025 FIDE World Cadet Championships, which concluded last Tuesday in Almaty, Kazakhstan (flash report | full report). For even more puzzles, see part 1 and part 2 of our Tactics Tuesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2025-fide-world-cadet-championships-pt-1",
-         "pubDate" : "Wed, 08 Oct 2025 00:00:00",
-         "title" : "Wednesday Workout: 2025 FIDE World Cadet Championships, Pt. 1"
       },
       {
          "description" : "The third round of the European Team Chess Championship 2025 was played today, and matches are getting tougher each day. Only two teams maintained the perfect score in the Open section, co-leading with 6 match points (each): defending European Team Chess Champions Serbia, and Greece. The team of Serbia defeated France, thanks to GM Aleksandar Indjic's (SRB, 2618) victory against GM Maxime Lagarde (FRA, 2617). Indjic misplayed the opening and allowed Lagarde to gain an advantage with black pieces, []",
