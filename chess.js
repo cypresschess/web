@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "FIDE has created a new world championship, the Total World Chess Championship. The top two players qualify for the World Championship Candidates Tournament. Well, it's complicated. Indian Grandmaster Vidit Gujrathi explains.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vidit-gujrathi-explains-the-world-championships",
-         "pubDate" : "Tue, 21 Oct 2025 20:57:23",
-         "title" : "Vidit Gujrathi explains the World Championships"
+         "description" : "The third round of the 2025 European Chess Club Cup took place today in Rhodes, Greece, highlighted by the arrival of reigning World Chess Champion Gukesh D, who joined his SuperChess team at the venue for the first time in the event. Only nine teams in the Open section, and two teams in the Women's section, kept the perfect score of 6 match points, and share the lead in the tournament after three played rounds. The leading teams of the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/gukesh-debuts-in-the-third-round-of-european-chess-club-cup-2025/",
+         "pubDate" : "Tue, 21 Oct 2025 20:29:24",
+         "title" : "Gukesh debuts in the third round of European Chess Club Cup 2025"
+      },
+      {
+         "description" : "A key match in the fourth week of the Collegiate Chess League (CCL) saw the University of Missouri, Columbia (Mizzou) cement their place atop the league with a dominant 12-4 victory over the University of Texas Rio Grande Valley (UTRGV).&#38;nbsp; T...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2025-ccl-fall-week-4-mizzou-utrgv",
+         "pubDate" : "Tue, 21 Oct 2025 16:00:42",
+         "title" : "Mizzou Maintains Lead, Defeates UTRGV In Collegiate Chess League Week 4"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124724370.cms\" />Ten-year-old British chess prodigy Bodhana Sivanandan achieved a historic victory, defeating former World Champion Grandmaster Mariya Muzychuk at the European Club Cup. This remarkable win, achieved while representing the She Plays to Win Lionesses, highlights Sivanandan's rapid ascent in the chess world. She continues to break records, solidifying her position as a rising star in English chess.",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-club-cup-2025-live",
          "pubDate" : "Tue, 21 Oct 2025 14:00:00",
          "title" : "European Club Cup - Live!"
+      },
+      {
+         "description" : "From the classrooms of Trujillo to the tournament halls of Europe, Patricia Claros Aguilar has built a career defined by purpose, empathy and excellence. The Peruvian-born organiser, now based in Spain, reflects on her 25-year journey in chess - from humble beginnings to international recognition. Honoured with the 2025 Special Prize from the Chess Hall of Fame of the Americas, she shares insights on education, leadership, innovation and the unifying power of chess. | Photos: Patricia Claros' Archive",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-patricia-claros-uvencio-blanco",
+         "pubDate" : "Tue, 21 Oct 2025 14:00:00",
+         "title" : "Patricia Claros, full-time chess promoter: \"Never sacrifice wellbeing for spectacle\""
       },
       {
          "description" : " The death of Daniel Naroditsky at the age of only 29 has come as a great shock. Naroditsky was a well known chess commentator and streamer who became a GM in 2013 and had a peak rating of 2647 in May 2017. His play was limited to mostly blitz in recent years, both online and over the board, although his fifth and final appearance in the US Championships was as recent as 2021. ",
@@ -50,7 +66,7 @@ news_feed (
          "title" : "FIDE World Cup 2025 logo and anthem unveiled"
       },
       {
-         "description" : "GM Parham Maghsoodloo won Titled Tuesday on October 21, scoring 9.5 points and winning on the tiebreak score over GM Hikaru Nakamura&#38;nbsp;after Nakamura and&#38;nbsp;GM Magnus Carlsen made a draw with each other in the final round.&#38;nbsp;In his post-to...",
+         "description" : "GM Parham Maghsoodloo won Titled Tuesday on October 21, scoring 9.5 points and winning on the tiebreak score over GM Hikaru Nakamura&#38;nbsp;after Nakamura and&#38;nbsp;GM Magnus Carlsen made a draw with each other in the final round. In his post-tournam...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/maghsoodloo-wins-titled-tuesday-october-21-2025",
@@ -256,14 +272,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-2025-comet-open",
          "pubDate" : "Sun, 19 Oct 2025 10:51:00",
          "title" : "Nakamura Wins 2025 Comet Open"
-      },
-      {
-         "description" : "The 2025 European Club Cup and European Women's Club Cup begin this weekend in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from across the continent. The seven-round event features many of Europe's strongest clubs and a number of world-class players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. Both tournaments run from 19 to 25 October at the Rodos Palace Hotel.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2025-preview",
-         "pubDate" : "Sun, 19 Oct 2025 09:00:00",
-         "title" : "European Club Cup: Gukesh, Giri and Keymer among star participants"
       },
       {
          "description" : "GM Fabiano Caruana missed a huge chance to grab the sole lead at the 2025 U.S. Chess Championship in St. Louis on Saturday, failing to force a checkmate in nine moves against GM Wesley So. Alongside several more draws, GM Andy Woodward won his sec...",
@@ -690,14 +698,6 @@ news_feed (
          "title" : "Nakamura, Arjun, Keymer, Firouzja Among Qualified Players For Comet Open"
       },
       {
-         "description" : "A Dutch teenager has been given a three-year ban, with one year suspended, by the FIDE Ethics &#38;amp; Disciplinary Commission (EDC) after he was caught with a mobile phone hidden in his sock during a tournament in the Netherlands last year. The de...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/teenager-banned-3-years-phone-in-sock",
-         "pubDate" : "Mon, 13 Oct 2025 09:29:00",
-         "title" : "FIDE Bans Dutch Teenager After Phone Found Hidden In Sock"
-      },
-      {
          "description" : "Pierre de Fermat (1601-1665) was a French mathematician who made pioneering contributions to analytic geometry, calculus, optics, and probability. He is best known for Fermat's Last Theorem, which famously remained unproven for over three centuries. Then, thirty years ago (in 1995), the mathematician Andrew Wiles published the comprehensive proof. In his book \"Chess Stories\" mathematician Prof Christian Hesse, told us how he applied Fermat's final conjecture to chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -864,14 +864,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/from-fathers-surgery-to-playing-silent-role-in-r-vaishalis-grand-swiss-glory-the-story-of-karthi-anna/articleshow/124404630.cms",
          "pubDate" : "Thu, 09 Oct 2025 04:41:01",
          "title" : "From father's surgery to playing silent role in R Vaishali's Grand Swiss glory: The story of 'Karthi Anna'"
-      },
-      {
-         "description" : "Four rounds have been already played at the European Team Chess Championship 2025, and only a few teams kept the perfect score of 8 match points. Defending Champions, Serbia, scored the fourth consecutive win in the tournament to emerge as the sole leader of the European Team Chess Championship 2025. Serbian team narrowly defeated Greece, with the final score of 2.5-1.5. The first game to finish was played on the first board, where GM Alexandr Predke (SRB, 2634) shockingly lost []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/serbia-grabs-sole-lead-in-open-poland-and-germany-co-lead-in-womens-section-etcc2025/",
-         "pubDate" : "Wed, 08 Oct 2025 20:08:44",
-         "title" : "Serbia grabs sole lead in Open, Poland and Germany co-lead in Women's section -#ETCC2025"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124388545.cms\" />Hikaru Nakamura defended tossing D Gukesh's king into the crowd at an exhibition event, stating it was part of the organizers' entertainment format. He clarified it was not an insult, emphasizing the difference between a serious tournament and a purely entertainment-focused match. Nakamura also playfully suggested Gukesh could dance on the chessboard if he wins the reverse match in India.",
