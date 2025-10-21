@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Club Cup is taking place on 19-25 October in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from around the world. The seven-round event features a number of elite players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2025-live",
+         "pubDate" : "Tue, 21 Oct 2025 14:00:00",
+         "title" : "European Club Cup - Live!"
+      },
+      {
+         "description" : " The death of Daniel Naroditsky at the age of only 29 has come as a great shock. Naroditsky was a well known chess commentator and streamer who became a GM in 2013 and had a peak rating of 2647 in May 2017. His play was limited to mostly blitz in recent years, both online and over the board, although his fifth and final appearance in the US Championships was as recent as 2021. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/daniel-naroditsky-1995-2025",
+         "pubDate" : "Tue, 21 Oct 2025 13:53:00",
+         "title" : "Daniel Naroditsky 1995-2025 - 1995-2025"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124722655.cms\" />American chess grandmaster Daniel Naroditsky has died at age 29, with the cause undisclosed. Known for his talent as a player, commentator, and educator, Naroditsky's passing has prompted questions and discussions within the chess community. His family remembered him for his passion and the joy he brought to the game.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/days-before-his-tragic-death-chess-gm-daniel-naroditsky-posted-youtube-video-with-shocking-title/articleshow/124722655.cms",
+         "pubDate" : "Tue, 21 Oct 2025 13:52:28",
+         "title" : "Days before death, chess GM Naroditsky posted video with shocking title"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124721204.cms\" />Goa is set to host the 2025 FIDE World Cup Chess Championship from October 31 to November 27, with Chief Minister Pramod Sawant launching the event's logo and anthem. This prestigious tournament, returning to India after 23 years, will feature top global players and aims to boost sports and tourism in the state.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-2025-logo-and-anthem-unveiled-as-india-set-to-host-its-biggest-chess-event-after-23-years/articleshow/124721204.cms",
+         "pubDate" : "Tue, 21 Oct 2025 12:27:25",
+         "title" : "FIDE World Cup 2025 logo and anthem unveiled"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124720261.cms\" />Indian Grandmaster Nihal Sarin has indirectly criticised Vladimir Kramnik following Daniel Naroditsky's death, citing relentless, baseless cheating accusations that caused immense pressure. Naroditsky, who called Kramnik \"worse than dirt,\" experienced severe mental health impacts from the public harassment. The chess world mourns the loss of a bright light whose accessibility to millions was affected by these unfounded allegations.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/after-daniel-naroditskys-death-indias-nihal-sarin-blasts-vladimir-kramnik-baseless-accusations-caused-him-immense-pain/articleshow/124720261.cms",
+         "pubDate" : "Tue, 21 Oct 2025 11:45:25",
+         "title" : "After Daniel Naroditsky's death, India's Sarin blasts Kramnik"
+      },
+      {
          "description" : "The second round of the European Chess Club Cup 2025 was played yesterday in Rhodes, Greece, and games are getting tougher every day. The top seeded clubs continued strong yesterday, most of them scoring convincing victories against the underdogs. Bayegan Pendik chess sports club scored 5-1 win against SK Dunajska streda, Alkaloid scored maximum 6-0 win over Ippotis Rhodes chess club, defending Champions Novy Bor was victorious against De Sprenger Echternach with the score of 5-1, SuperChess defeated FC St. []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -50,20 +90,20 @@ news_feed (
          "title" : "POSTGAME ROUND 8: Aggressive Levon Trips Up Shankland #USChessChamps"
       },
       {
+         "description" : "This week's puzzles all come from the ongoing 2025 U.S. Championship and Women's Championship. Every day, a rotating cast of annotators are covering key games from the event on Chess Life Online, and you can find all the annotations here. When learning chess, it's important to look at the moves that aren't played, as well as the ones that are. Today, almost every puzzle comes from a variation that looked reasonable, but would have been losing. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-variations-2025-us-championships-pt-1",
+         "pubDate" : "Tue, 21 Oct 2025 00:00:00",
+         "title" : "Tactics Tuesday: Variations From the 2025 U.S. Championships, Pt. 1"
+      },
+      {
          "description" : "Today, his family announced the death of Daniel Naroditsky. The talented American grandmaster was an active online player and streamer, as well as a popular commentator. He would have turned 30 on 9 November. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/daniel-naroditsky-1995-2",
          "pubDate" : "Mon, 20 Oct 2025 21:53:45",
          "title" : "Daniel Naroditsky (9 November 1995 - 19 October 2025)"
-      },
-      {
-         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
-         "pubDate" : "Mon, 20 Oct 2025 19:00:00",
-         "title" : "US Chess Championships - Live!"
       },
       {
          "description" : "Can you imagine writing about rising chess stars who are up to 86 years younger than you? The indefatigable Leonard Barden, who at 96 still fills his weekly London Guardian column, has been keenly following the youngest talents, players between ten and sixteen playing at GM levels. If you want to keep up-to-date on some mind-boggling developments in the game, it is definitely advisable to put Fridays on your schedule to read what Barden has to say.",
@@ -594,14 +634,6 @@ news_feed (
          "title" : "Tactics Tuesday: 2025 FIDE World Cadet Championships, Pt. 3"
       },
       {
-         "description" : "The 2025 U.S. and U.S. Women's Championships in St. Louis are unfolding with drama, tension, and upsets in every round. Both fields are fiercely competitive, and Round 2 brought a mix of precision, pressure, and a few painful blunders. U.S. ChampionshipIn Round 2, GM Ray Robson stumbled late in his game against Wesley So, who punished the mistake brilliantly by marching his black king all the way to the f3-square to seal the win. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Wesley So delivered an entertaining victory featuring a very active king (Photo courtesy of Lennart Ootes/SLCC)<br> <br> <br> <br> After yesterday's loss to GM Fabiano Caruana, G",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/sargsyan-and-woodward-display-brilliant-play-round-2",
-         "pubDate" : "Tue, 14 Oct 2025 00:00:00",
-         "title" : "Sargsyan and Woodward Display Brilliant Play in Round 2"
-      },
-      {
          "description" : " ﻿﻿ Join GMs Yasser Seirawan &#038; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 2 &#124; GAME LINKS ROBSON VS SO RESULT: 0-1 OPARIN VS NIEMANN RESULT: 1/2-1/2 MISHRA VS SEVIAN RESULT: 1/2-1/2 SHANKLAND VS SWIERCZ RESULT: 1-0 ARONIAN VS LIANG RESULT: 1/2-1/2 CARUANA VS WOODWARD RESULT: 1/2-1/2 ﻿﻿ [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-2-fabi-barely-survives-woodward-uschesschamps/\">POSTGAME ROUND 2: Fabi Barely Survives Woodward #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -888,30 +920,6 @@ news_feed (
          "link" : "https://aicf.in/fide-world-u9-u17-rapid-blitz-chess-championships-2025-in-antalya-turkey-from-15th-to-21st-december-2025/",
          "pubDate" : "Tue, 07 Oct 2025 10:29:19",
          "title" : "FIDE World U9-U17 Rapid & Blitz Chess Championships - 2025 in Antalya, Turkey from 15th to 21st December, 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124354516.cms\" />Hikaru Nakamura's controversial act of throwing Gukesh Dommaraju's king piece into the crowd during an exhibition match has divided the chess community. While some, like Magnus Carlsen's coach Peter Heine Nielsen and organizer Levy Rozman, defended it as an entertainment-driven, pre-planned gesture, others like Vladimir Kramnik condemned it as vulgar and damaging to the game.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsens-coach-peter-heine-nielsen-defends-hikaru-nakamuras-controversial-action-of-throwing-d-gukeshs-king/articleshow/124354516.cms",
-         "pubDate" : "Tue, 07 Oct 2025 06:51:25",
-         "title" : "Carlsen's coach Nielsen defends Nakamura's controversial action"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124352137.cms\" />Top seed Aaryan Varshney achieved his goal of reaching an Elo of 2500 despite a low 90th-place finish in the Maharathi international open. He strategically withdrew from three rounds, playing only six to secure wins against significantly lower-rated opponents and add Elo points. His father cited illness as the reason for the withdrawals.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-aaryan-varshney-scaled-elo-2500-live-rating/articleshow/124352137.cms",
-         "pubDate" : "Tue, 07 Oct 2025 03:03:12",
-         "title" : "How Aaryan Varshney scaled Elo 2500 live rating"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124329792.cms\" />American Grandmaster Hikaru Nakamura caused a stir at the Checkmate: USA vs India event by throwing away world champion D Gukesh's king. This controversial act, during USA's 5-0 victory, drew sharp criticism from former world champion Vladimir Kramnik, who called it a \"degradation of modern chess.\" The incident has reignited discussions on sportsmanship and entertainment in professional chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/drama-in-chess-world-hikaru-nakamura-reacts-to-social-media-post-trolling-fide-ceo-emil-sutovsky/articleshow/124329792.cms",
-         "pubDate" : "Mon, 06 Oct 2025 04:03:11",
-         "title" : "Drama in chess world! Nakamura reacts to post trolling FIDE CEO Sutovsky"
       },
       {
          "description" : "Leonard Barden's life has been unusual. His father was a dustman. He learnt chess at grammar school and sharpened his play in air raid shelters during the war. He never called himself a prodigy, yet by the early 1950s he was among the strongest players in the country. His career took a new turn when []",
