@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has created a new world championship, the Total World Chess Championship. The top two players qualify for the World Championship Candidates Tournament. Well, it's complicated. Indian Grandmaster Vidit Gujrathi explains.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vidit-gujrathi-explains-the-world-championships",
+         "pubDate" : "Tue, 21 Oct 2025 20:57:23",
+         "title" : "Vidit Gujrathi explains the World Championships"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124724370.cms\" />Ten-year-old British chess prodigy Bodhana Sivanandan achieved a historic victory, defeating former World Champion Grandmaster Mariya Muzychuk at the European Club Cup. This remarkable win, achieved while representing the She Plays to Win Lionesses, highlights Sivanandan's rapid ascent in the chess world. She continues to break records, solidifying her position as a rising star in English chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/historic-10-year-old-indian-origin-british-chess-prodigy-bodhana-sivanandan-beats-ex-world-champion-gm-mariya-muzychuk/articleshow/124724370.cms",
+         "pubDate" : "Tue, 21 Oct 2025 15:29:03",
+         "title" : "Historic! 10-yo Indian-origin British chess prodigy beats ex-World Champ"
+      },
+      {
          "description" : "The European Club Cup is taking place on 19-25 October in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from around the world. The seven-round event features a number of elite players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-2025-logo-and-anthem-unveiled-as-india-set-to-host-its-biggest-chess-event-after-23-years/articleshow/124721204.cms",
          "pubDate" : "Tue, 21 Oct 2025 12:27:25",
          "title" : "FIDE World Cup 2025 logo and anthem unveiled"
+      },
+      {
+         "description" : "GM Parham Maghsoodloo won Titled Tuesday on October 21, scoring 9.5 points and winning on the tiebreak score over GM Hikaru Nakamura&#38;nbsp;after Nakamura and&#38;nbsp;GM Magnus Carlsen made a draw with each other in the final round.&#38;nbsp;In his post-to...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/maghsoodloo-wins-titled-tuesday-october-21-2025",
+         "pubDate" : "Tue, 21 Oct 2025 12:01:30",
+         "title" : "Maghsoodloo Joins CCT Top 10 With Titled Tuesday Win"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124720261.cms\" />Indian Grandmaster Nihal Sarin has indirectly criticised Vladimir Kramnik following Daniel Naroditsky's death, citing relentless, baseless cheating accusations that caused immense pressure. Naroditsky, who called Kramnik \"worse than dirt,\" experienced severe mental health impacts from the public harassment. The chess world mourns the loss of a bright light whose accessibility to millions was affected by these unfounded allegations.",
@@ -88,6 +112,22 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-8/",
          "pubDate" : "Tue, 21 Oct 2025 00:49:12",
          "title" : "POSTGAME ROUND 8: Aggressive Levon Trips Up Shankland #USChessChamps"
+      },
+      {
+         "description" : "Just counting events tagged with National Chess Day or NCD on US Chess's Membership Services Area, affiliates hosted 48 rated tournaments around the country with 2,242 chess players competing on Saturday, October 11.This doesn't even include a number of large national, regional, and state events also held that weekend, with over 200 tournaments taking place in total. This is in addition to all of the other festivities, variant tournaments, and puzzle competitions also organized across the country. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> The Kentucky Ches",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/national-chess-day-wrap",
+         "pubDate" : "Tue, 21 Oct 2025 00:00:00",
+         "title" : "National Chess Day Wrap-Up"
+      },
+      {
+         "description" : "It was very difficult for me to write today's report. Like all in the chess community, I am deeply shaken by the tragic death of one of the sport's brightest lights, GM Daniel Naroditsky, at the age of only 29.Danya was one of my role models when I was growing up. I loved his book, Mastering Complex Endgames (published when he was only 18), and never missed his articles on Chess.com and in Chess Life. Apart from being an incredibly strong player, Danya was an incredible communicator who wrote and spoke with unmatched eloquence and precision of language. He was a fantastic streamer and commentator; countless people benefited from his teaching and wisdom. He was too young and too brilliant to ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/round-8-lee-aronian-make-moves-difficult-day",
+         "pubDate" : "Tue, 21 Oct 2025 00:00:00",
+         "title" : "Round 8: Lee, Aronian Make Moves on Difficult Day"
       },
       {
          "description" : "This week's puzzles all come from the ongoing 2025 U.S. Championship and Women's Championship. Every day, a rotating cast of annotators are covering key games from the event on Chess Life Online, and you can find all the annotations here. When learning chess, it's important to look at the moves that aren't played, as well as the ones that are. Today, almost every puzzle comes from a variation that looked reasonable, but would have been losing. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -522,14 +562,6 @@ news_feed (
          "title" : "Wednesday Workout: 2025 FIDE World Cadet Championships, Pt. 2"
       },
       {
-         "description" : "Round 3 saw great attacking games in both the U.S. Championship and the U.S. Women's Championship. U.S. Women's ChampionshipThe women gave us several exciting and instructive games, with 4 decisive results. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Nazi Paikidze's victory over Tatev Abrahamyan vaulted her into a share of the lead (Photo courtesy of Lennart Ootes/SLCC)<br> <br> <br> <br> IM Nazi Paikidze won for the second day in a row, defeating IM Tatev Abrahamyan in a game that should find its way into best game collections or even textbooks of the future: <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/round-3-women-bring-fire-board-wesley-so-takes-lead",
-         "pubDate" : "Wed, 15 Oct 2025 00:00:00",
-         "title" : "Round 3: Women Bring Fire to Board, Wesley So Takes Lead"
-      },
-      {
          "description" : " Join GMs Yasser Seirawan &#038; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 3 &#124; GAME LINKS SO VS SHANKLANDRESULT: 1-0 LIANG VS CARUANARESULT: 1/2-1/2 SWIERCZ VS MISHRARESULT: 1/2-1/2 NIEMANN VS ROBSONRESULT: 1/2-1/2 WOODWARD VS OPARINRESULT: 0-1 SEVIAN VS ARONIANRESULT: 1/2-1/2 ROUND 3 &#124; GAME LINKS PAIKIDZE VS ABRAHAMYANRESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-3-paikidzes-dominate-class-topples-tatev-uschesschamps/\">POSTGAME ROUND 3: Paikidze's Dominate Class Topples Tatev! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint L",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -626,14 +658,6 @@ news_feed (
          "title" : "Firouzja, Carlsen Begin Path Back To SCC Finals"
       },
       {
-         "description" : "This week's puzzles continue our series on the 2025 FIDE World Cadet Championships, which concluded last month in Almaty, Kazakhstan (flash report | full report). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-fide-world-cadet-championships-pt-3",
-         "pubDate" : "Tue, 14 Oct 2025 00:00:00",
-         "title" : "Tactics Tuesday: 2025 FIDE World Cadet Championships, Pt. 3"
-      },
-      {
          "description" : " ﻿﻿ Join GMs Yasser Seirawan &#038; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 2 &#124; GAME LINKS ROBSON VS SO RESULT: 0-1 OPARIN VS NIEMANN RESULT: 1/2-1/2 MISHRA VS SEVIAN RESULT: 1/2-1/2 SHANKLAND VS SWIERCZ RESULT: 1-0 ARONIAN VS LIANG RESULT: 1/2-1/2 CARUANA VS WOODWARD RESULT: 1/2-1/2 ﻿﻿ [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-2-fabi-barely-survives-woodward-uschesschamps/\">POSTGAME ROUND 2: Fabi Barely Survives Woodward #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -680,14 +704,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fermat-in-chess",
          "pubDate" : "Mon, 13 Oct 2025 08:32:12",
          "title" : "Fermat in Chess"
-      },
-      {
-         "description" : "GM Fabiano Caruana scored a crushing win over GM Grigoriy Oparin in round one of the 2025 U.S. Chess Championships as he began his campaign to become the first player since GM Bobby Fischer to claim four titles in a row. GM Levon Aronian grabbed t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-us-championship-round-1",
-         "pubDate" : "Mon, 13 Oct 2025 01:57:00",
-         "title" : "Caruana, Aronian Strike As U.S. Championships Begin In St. Louis"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-1-round-1-caruanas-epic-win-vs-oparin-uschesschamps/\">POSTGAME ROUND 1: Caruana's Epic Win vs. Oparin | #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -896,14 +912,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-the-legends",
          "pubDate" : "Tue, 7 Oct 2025 20:42:00",
          "title" : "Clutch Chess: The Legends - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124365152.cms\" />Kolkata's Sarbartho Mani secured a bronze medal in the Under-10 open section at the World Cadet Chess Championship in Kazakhstan. This follows his July gold at the World Cadet Chess Cup in Georgia. Despite a strong start, a single loss in the 10th round impacted his final standing, but superior tie-breaks secured him a podium finish.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/nine-year-old-sarbartho-mani-bags-bronze-in-world-cadet-chess-championship-in-kazakhstan/articleshow/124365152.cms",
-         "pubDate" : "Tue, 07 Oct 2025 13:58:44",
-         "title" : "Nine-year-old Sarbartho Mani bags bronze in World Cadet Chess C'ship"
       },
       {
          "description" : "Please find the final report here",
