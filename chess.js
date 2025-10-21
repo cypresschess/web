@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124711507.cms\" />The chess world mourns the unexpected passing of Daniel Naroditsky, a celebrated 29-year-old Grandmaster and Stanford graduate. Known for his playing prowess, insightful commentary, and educational content, Naroditsky was a prominent figure, earning numerous accolades including the US National Blitz Championship. His passion for chess inspired many globally.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-grandmaster-daniel-naroditsky-dies-at-29-details-on-his-sudden-death/articleshow/124711507.cms",
+         "pubDate" : "Tue, 21 Oct 2025 00:53:28",
+         "title" : "Chess Grandmaster Naroditsky dies at 29: Details on his sudden death"
+      },
+      {
+         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 8 &#124; GAME LINKS OPARIN VS MISHRA RESULT: &frac12;-&frac12;CARUANA VS ROBSON RESULT: &frac12;-&frac12;SEVIAN VS SWIERCZ RESULT: &frac12;-&frac12; WOODWARD VS NIEMANN RESULT: 1-0 ARONIAN VS SHANKLAND RESULT: 1-0 LIANG VS SO RESULT: &frac12;-&frac12; ROUND 8 &#124; GAME [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-8/\">POSTGAME ROUND 8: Aggressive Levon Trips Up Shankland #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-8/",
+         "pubDate" : "Tue, 21 Oct 2025 00:49:12",
+         "title" : "POSTGAME ROUND 8: Aggressive Levon Trips Up Shankland #USChessChamps"
+      },
+      {
          "description" : "Today, his family announced the death of Daniel Naroditsky. The talented American grandmaster was an active online player and streamer, as well as a popular commentator. He would have turned 30 on 9 November. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -754,14 +770,6 @@ news_feed (
          "title" : "Garry Kasparov stuns Viswanathan Anand on Day 1 of Clutch Chess, takes early lead"
       },
       {
-         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and James Dash for the top moments of today's games. The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-2-vishy-fails-to-find-his-form/\">POSTGAME DAY 2: Vishy Fails to Find His Form | #KasparovAnand</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-2-vishy-fails-to-find-his-form/",
-         "pubDate" : "Thu, 09 Oct 2025 21:19:36",
-         "title" : "POSTGAME DAY 2: Vishy Fails to Find His Form | #KasparovAnand"
-      },
-      {
          "description" : "Five rounds have been played at the European Team Chess Championship 2025 and the tournament reached its midpoint. Heading into the 6th round, Ukraine emerged as the sole leader of the Open section, while Poland took the sole lead in the Women's Championship. The team of Ukraine defeated the defending Champions Serbia. GM Ihor Samunenkov (UKR, 2568) brought the initial lead to Ukraine, after defeating GM Robert Markus (SRB, 2535). The position was roughly equal when Markus badly blundered []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -928,14 +936,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/checkmate-usa-vs-india-2025",
          "pubDate" : "Sun, 5 Oct 2025 11:10:00",
          "title" : "Checkmate: USA vs India 2025 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124316641.cms\" />Women's World Cup winner Divya Deshmukh lightened the mood with a jersey typo during the 'Checkmate: USA vs India' exhibition. However, Team India suffered a 5-0 defeat to Team USA, highlighted by Hikaru Nakamura's dramatic bullet win over Gukesh Dommaraju. A return leg in India offers Team India a chance for redemption.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/so-sad-indian-chess-queen-divya-deshmukh-reacts-to-hilarious-typo-on-her-jersey-watch/articleshow/124316641.cms",
-         "pubDate" : "Sun, 05 Oct 2025 06:06:44",
-         "title" : "'So sad!': Divya Deshmukh reacts to hilarious typo on her jersey - Watch"
       },
       {
          "description" : "Having a plan is great. But then real life happens, and it gets chaotic real quick. The list of possible things to get between you and your scheduled training is endless. The key is not to avoid these that's impossible. What determines if you stick to your chess improvement is how you react to []",
