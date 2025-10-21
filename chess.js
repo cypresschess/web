@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second round of the European Chess Club Cup 2025 was played yesterday in Rhodes, Greece, and games are getting tougher every day. The top seeded clubs continued strong yesterday, most of them scoring convincing victories against the underdogs. Bayegan Pendik chess sports club scored 5-1 win against SK Dunajska streda, Alkaloid scored maximum 6-0 win over Ippotis Rhodes chess club, defending Champions Novy Bor was victorious against De Sprenger Echternach with the score of 5-1, SuperChess defeated FC St. []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/favourites-continue-strong-at-european-chess-club-cup-2025/",
+         "pubDate" : "Tue, 21 Oct 2025 07:57:40",
+         "title" : "Favourites continue strong at European Chess Club Cup 2025"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124714104.cms\" />Former World Champion Vladimir Kramnik has publicly questioned the sudden death of Grandmaster Daniel Naroditsky at 29, hinting at substance abuse and mental health issues. Kramnik cited Naroditsky's recent online activity and removal from commentator roles as concerning, urging for an investigation into the circumstances surrounding his passing.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -10,12 +18,20 @@ news_feed (
          "title" : "Kramnik, who was called 'worse than dirt', questions Naroditsky's sudden death, alleges drug abuse"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124713078.cms\" />The chess world mourns Grandmaster Daniel Naroditsky's sudden death at 29. Naroditsky was a celebrated player and educator. He earned his Grandmaster title at 18. He was a top player in classical, rapid, and blitz chess. Naroditsky also built a large online following. His passing is a significant loss for competitive and online chess.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124713078.cms\" />The chess world mourns Grandmaster Daniel Naroditsky's sudden death at 29. Naroditsky was a celebrated player and educator. He earned his Grandmaster title at 17. He was a top player in classical, rapid, and blitz chess. Naroditsky also built a large online following. His passing is a significant loss for competitive and online chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-hikaru-nakamura-breaks-down-while-discussing-the-death-of-american-gm-daniel-naroditsky/articleshow/124713078.cms",
          "pubDate" : "Tue, 21 Oct 2025 04:42:44",
          "title" : "Watch: Nakamura breaks down while discussing the death of Naroditsky"
+      },
+      {
+         "description" : "GMs Fabiano Caruana and Wesley So&#38;nbsp;drew their games on Monday and are still leading the 2025 U.S. Chess Championship going into the second rest day. GM Levon Aronian, who beat GM Sam Shankland, is the only player now trailing by half a point. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-us-championship-round-8",
+         "pubDate" : "Tue, 21 Oct 2025 02:04:59",
+         "title" : "Caruana, So Still Atop U.S. Championship Leaderboard; Lee Increases Lead To Full Point"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124711507.cms\" />The chess world mourns the unexpected passing of Daniel Naroditsky, a celebrated 29-year-old Grandmaster and Stanford graduate. Known for his playing prowess, insightful commentary, and educational content, Naroditsky was a prominent figure, earning numerous accolades including the US National Blitz Championship. His passion for chess inspired many globally.",
@@ -682,14 +698,6 @@ news_feed (
          "title" : "US Chess Championships 2025 - Games and Results"
       },
       {
-         "description" : "The former world junior champion GM Jeffery Xiong rocketed to his first Bullet Brawl title on Saturday ahead of 148 other titled players after playing the unorthodox Orangutan Opening in most of his games with White. Xiong accrued a total score ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jeffery-xiong-wins-bullet-brawl-oct-11-2025",
-         "pubDate" : "Sat, 11 Oct 2025 17:33:00",
-         "title" : "Xiong Surprises Bullet Brawl Field With 'Orangutan' Opening"
-      },
-      {
          "description" : "The internet is full of these lofty promises that make you feel like improving your chess will be easy. If you only watch this video or buy this course, you'll improve immediately 300 points. As you might have found out the hard way, that's not true. But you might wonder, why does online chess content []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -850,14 +858,6 @@ news_feed (
          "title" : "Anand vs Kasparov: Legendary chess rivals reignite 30-year-old battle in USA"
       },
       {
-         "description" : "The third round of the European Team Chess Championship 2025 was played today, and matches are getting tougher each day. Only two teams maintained the perfect score in the Open section, co-leading with 6 match points (each): defending European Team Chess Champions Serbia, and Greece. The team of Serbia defeated France, thanks to GM Aleksandar Indjic's (SRB, 2618) victory against GM Maxime Lagarde (FRA, 2617). Indjic misplayed the opening and allowed Lagarde to gain an advantage with black pieces, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/three-rounds-played-at-european-team-chess-championship-2025/",
-         "pubDate" : "Tue, 07 Oct 2025 20:53:56",
-         "title" : "Three rounds played at European Team Chess Championship 2025"
-      },
-      {
          "description" : " Clutch Chess: The Legends was a match between Viswanathan Anand and Gary Kasparov in Saint Louis 8th to 10th October. Kasparov won the match 13-11 but this score rather flatters Anand who won the final two games after the match was already decided.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -968,14 +968,6 @@ news_feed (
          "link" : "https://aicf.in/sharvaanica-wins-gold-in-fide-world-cadet-chess-championship-in-almaty-from-18-sept-to-01-oct-2025/",
          "pubDate" : "Wed, 01 Oct 2025 06:55:15",
          "title" : "Sharvaanica Wins Gold in Fide World Cadet Chess Championship in Almaty from 18 Sept to 01 Oct 2025."
-      },
-      {
-         "description" : "Please find the details here",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-arbiters-seminar-in-madgaon-goa-india-from-19-21-sept-2025-report/",
-         "pubDate" : "Tue, 30 Sep 2025 09:56:38",
-         "title" : "FIDE Arbiters' Seminar in Madgaon, Goa (India) from 19-21 Sept 2025 . Report"
       }
    ]
 }
