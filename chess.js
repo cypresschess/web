@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124714104.cms\" />Former World Champion Vladimir Kramnik has publicly questioned the sudden death of Grandmaster Daniel Naroditsky at 29, hinting at substance abuse and mental health issues. Kramnik cited Naroditsky's recent online activity and removal from commentator roles as concerning, urging for an investigation into the circumstances surrounding his passing.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/vladimir-kramnik-who-was-called-worse-than-dirt-questions-daniel-naroditskys-sudden-death-alleges-drug-abuse/articleshow/124714104.cms",
+         "pubDate" : "Tue, 21 Oct 2025 05:28:33",
+         "title" : "Kramnik, who was called 'worse than dirt', questions Naroditsky's sudden death, alleges drug abuse"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124713078.cms\" />The chess world mourns Grandmaster Daniel Naroditsky's sudden death at 29. Naroditsky was a celebrated player and educator. He earned his Grandmaster title at 18. He was a top player in classical, rapid, and blitz chess. Naroditsky also built a large online following. His passing is a significant loss for competitive and online chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-hikaru-nakamura-breaks-down-while-discussing-the-death-of-american-gm-daniel-naroditsky/articleshow/124713078.cms",
+         "pubDate" : "Tue, 21 Oct 2025 04:42:44",
+         "title" : "Watch: Nakamura breaks down while discussing the death of Naroditsky"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124711507.cms\" />The chess world mourns the unexpected passing of Daniel Naroditsky, a celebrated 29-year-old Grandmaster and Stanford graduate. Known for his playing prowess, insightful commentary, and educational content, Naroditsky was a prominent figure, earning numerous accolades including the US National Blitz Championship. His passion for chess inspired many globally.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/25-years-ago-kramnik-beats-kasparov",
          "pubDate" : "Mon, 20 Oct 2025 15:05:00",
          "title" : "25 Years Ago: Kramnik beats Kasparov"
-      },
-      {
-         "description" : "The European Club Cup is taking place on 19-25 October in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from around the world. The seven-round event features a number of elite players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2025-live",
-         "pubDate" : "Mon, 20 Oct 2025 14:00:00",
-         "title" : "European Club Cup - Live!"
       },
       {
          "description" : "GM Daniel Naroditsky, the popular U.S. grandmaster, commentator, creator, educator, and author, unexpectedly passed away on Sunday at the age of only 29. The news has sent shockwaves around the chess community, which is grieving the loss of one of...",
@@ -906,28 +914,12 @@ news_feed (
          "title" : "Drama in chess world! Nakamura reacts to post trolling FIDE CEO Sutovsky"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124328762.cms\" />Former world champion Vladimir Kramnik has launched a scathing attack on world no. 2 Hikaru Nakamura following his controversial gesture towards D Gukesh during the USA vs India chess exhibition. Kramnik labeled Nakamura's actions as \"vulgarity\" and \"degradation of modern chess,\" asserting they damaged the game. This comes after India suffered a 0-5 whitewash against USA.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/vladimir-kramnik-blasts-hikaru-nakamura-for-tossing-19-year-old-world-champion-d-gukeshs-king-away-calls-it-tasteless-and-vulgar/articleshow/124328762.cms",
-         "pubDate" : "Mon, 06 Oct 2025 02:22:25",
-         "title" : "Chess: Kramnik blasts Nakamura for tossing Gukesh's king away; calls the act 'vulgar'"
-      },
-      {
          "description" : "Leonard Barden's life has been unusual. His father was a dustman. He learnt chess at grammar school and sharpened his play in air raid shelters during the war. He never called himself a prodigy, yet by the early 1950s he was among the strongest players in the country. His career took a new turn when []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/the-doyen-leonard-barden/",
          "pubDate" : "Sun, 05 Oct 2025 15:46:21",
          "title" : "The doyen: Leonard Barden"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124319723.cms\" />The USA dominated India 5-0 in the 'Checkmate' event, with Hikaru Nakamura defeating world champion D Gukesh. However, Nakamura's post-match gesture of throwing Gukesh's king piece towards the crowd sparked widespread controversy and divided social media opinion. This incident now sets the stage for an intense return leg in India.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/hikaru-nakamuras-controversial-gesture-towards-d-gukesh-enrages-fans-watch/articleshow/124319723.cms",
-         "pubDate" : "Sun, 05 Oct 2025 11:14:33",
-         "title" : "Nakamura's controversial celebration after defeating Gukesh enrages fans - watch"
       },
       {
          "description" : " The Checkmate: USA vs India match took place in Arlington, Virginia on October 4th. This is the projected first leg of two and the format was that the USA had white in every game as the home side, there will be an Indian leg where the colours will be reversed at some point in the future. There was one 10 minute game, if drawn a 5 minute game, if drawn a 1 minute game until a winner was found. USA won every one of the mini-matches between the teams which was a mix of strengths.",
