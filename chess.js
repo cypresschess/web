@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We take a unique behind-the-scenes look at how top chess masters organize their digital workspace. Grandmasters and trainers like Svitlana Demchenko, Robert Ris, Michael Prusikin, Harald Schneider-Zinner, Frederik Svane, Felix Blohberger, and Dorian Rogozenco share their screens to reveal their personal ChessBase 18 setups - from meticulously clean desktops to chaotic databases full of ideas. They show us their board designs, current projects, and discuss their favourite or most-used ChessBase functions, offering fascinating insights into how great minds prepare, study, and work with chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/my-chessbase-18-desktop-svitlana-demchenko",
+         "pubDate" : "Wed, 22 Oct 2025 16:30:00",
+         "title" : "My ChessBase 18 Desktop! - Svitlana Demchenko"
+      },
+      {
+         "description" : "The eighth edition of the Salamanca Chess Festival is taking place on 22-25 at the \"Centro Internacional del Español\" in the city's prestigious university. The Masters Tournament, featuring four men and four women, is a single round-robin with a time control of 30 minutes plus 5-second increments. Follow the games live with computer-assisted analysis starting at 16.00 CEST (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/salamanca-festival-2025-live",
+         "pubDate" : "Wed, 22 Oct 2025 16:00:00",
+         "title" : "Salamanca Chess Festival - Live!"
+      },
+      {
+         "description" : "The European Club Cup is taking place on 19-25 October in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from around the world. The seven-round event features a number of elite players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2025-live",
+         "pubDate" : "Wed, 22 Oct 2025 14:00:00",
+         "title" : "European Club Cup - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124741468.cms\" />FIDE CEO Emil Sutovsky has slammed Vladimir Kramnik's 'appalling' comments about the late Daniel Naroditsky, questioning the outpouring of posthumous support for the young Grandmaster. Sutovsky highlighted Naroditsky's struggles following unsubstantiated cheating allegations and urged those claiming friendship to explain their inaction during his difficult period.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/daniel-naroditskys-death-fide-ceo-bashes-hypocrisy-where-were-all-of-you-/articleshow/124741468.cms",
+         "pubDate" : "Wed, 22 Oct 2025 13:26:54",
+         "title" : "Daniel Naroditsky's death: FIDE CEO bashes hypocrisy - 'Where were all of you... '"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124739666.cms\" />In a twist that's shaken up the global chess scene, Norway Chess has pulled off what even Magnus Carlsen's Freestyle tour couldn't, convincing FIDE to approve a brand-new World Championship title. The \"Total Chess World Championship\" marks a stunning power play that could redefine how elite chess is played and governed.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-we-didnt-tell-any-players-not-even-magnus-carlsen-how-norway-chess-did-what-freestyle-couldnt/articleshow/124739666.cms",
+         "pubDate" : "Wed, 22 Oct 2025 11:31:23",
+         "title" : "Exclusive | 'Not even Magnus Carlsen': How Norway Chess did what Freestyle couldn't"
+      },
+      {
          "description" : "Did you find the only move in this very famous study, composed almost exactly a century ago, that allows White to draw? It looks like the stupidest move one could make - move the king to a square that takes it further away from the black pawn and blocks the promotion of his own pawn. Problem expert Werner Keym selected six studies in similar style for you to solve. Here, today, are the solutions.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +72,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/historic-10-year-old-indian-origin-british-chess-prodigy-bodhana-sivanandan-beats-ex-world-champion-gm-mariya-muzychuk/articleshow/124724370.cms",
          "pubDate" : "Tue, 21 Oct 2025 15:29:03",
          "title" : "Historic! 10-yo Indian-origin British chess prodigy beats ex-World Champ"
-      },
-      {
-         "description" : "The European Club Cup is taking place on 19-25 October in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from around the world. The seven-round event features a number of elite players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2025-live",
-         "pubDate" : "Tue, 21 Oct 2025 14:00:00",
-         "title" : "European Club Cup - Live!"
       },
       {
          "description" : "From the classrooms of Trujillo to the tournament halls of Europe, Patricia Claros Aguilar has built a career defined by purpose, empathy and excellence. The Peruvian-born organiser, now based in Spain, reflects on her 25-year journey in chess - from humble beginnings to international recognition. Honoured with the 2025 Special Prize from the Chess Hall of Fame of the Americas, she shares insights on education, leadership, innovation and the unifying power of chess. | Photos: Patricia Claros' Archive",
@@ -874,14 +906,6 @@ news_feed (
          "title" : "From father's surgery to playing silent role in R Vaishali's Grand Swiss glory: The story of 'Karthi Anna'"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124388545.cms\" />Hikaru Nakamura defended tossing D Gukesh's king into the crowd at an exhibition event, stating it was part of the organizers' entertainment format. He clarified it was not an insult, emphasizing the difference between a serious tournament and a purely entertainment-focused match. Nakamura also playfully suggested Gukesh could dance on the chessboard if he wins the reverse match in India.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/dance-in-front-of-me-hikaru-nakamuras-bizarre-advice-to-d-gukesh-after-throwing-king-gesture-faces-heat/articleshow/124388545.cms",
-         "pubDate" : "Wed, 08 Oct 2025 14:19:25",
-         "title" : "'Dance in front of me': Nakamura's bizarre advice to Gukesh; defends throwing king"
-      },
-      {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/25th-european-teams-2025\">European Team Championships</a> got underway on Sunday. This is still one of the highlights of the chess calendar. If you're looking for high-quality, motivated chess, this is your tournament. Russia is absent due to the war in Ukraine (or, if you prefer, because it now belongs to the Asian Federation), and Norway couldn't afford to send a team, but quality is everywhere. Top-seeded Germany lost to 21st-seeded Denmark. They outrated them on every board, but not by so much that the result was outrageous. After three rounds, Serbia and Greece are the only teams with perfect scores. The Netherlands, Azerbaijan, ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -896,14 +920,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/werner-keym-problem-chess-art-6",
          "pubDate" : "Wed, 08 Oct 2025 08:53:52",
          "title" : "Werner Keym: Problem Chess Art"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124375039.cms\" />Chess legends Viswanathan Anand and Garry Kasparov reignite their iconic rivalry after three decades in St. Louis. The \"Clutch Chess: The Legends\" tournament features a 12-game Chess 960 match with escalating stakes, promising a thrilling display of creativity and strategic brilliance. Fans anticipate a nostalgic yet fiercely competitive showdown between these two titans of the game.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-vs-garry-kasparov-legendary-chess-rivals-reignite-30-year-old-battle-in-usa/articleshow/124375039.cms",
-         "pubDate" : "Wed, 08 Oct 2025 02:39:11",
-         "title" : "Anand vs Kasparov: Legendary chess rivals reignite 30-year-old battle in USA"
       },
       {
          "description" : " Clutch Chess: The Legends was a match between Viswanathan Anand and Gary Kasparov in Saint Louis 8th to 10th October. Kasparov won the match 13-11 but this score rather flatters Anand who won the final two games after the match was already decided.",
