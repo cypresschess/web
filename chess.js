@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Did you find the only move in this very famous study, composed almost exactly a century ago, that allows White to draw? It looks like the stupidest move one could make - move the king to a square that takes it further away from the black pawn and blocks the promotion of his own pawn. Problem expert Werner Keym selected six studies in similar style for you to solve. Here, today, are the solutions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/werner-keym-problem-chess-art-7",
+         "pubDate" : "Wed, 22 Oct 2025 07:34:25",
+         "title" : "Werner Keym: Problem Chess Art"
+      },
+      {
          "description" : "The third round of the 2025 European Chess Club Cup took place today in Rhodes, Greece, highlighted by the arrival of reigning World Chess Champion Gukesh D, who joined his SuperChess team at the venue for the first time in the event. Only nine teams in the Open section, and two teams in the Women's section, kept the perfect score of 6 match points, and share the lead in the tournament after three played rounds. The leading teams of the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -968,14 +976,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/10/02/canty-wins-chessboxing-title/",
          "pubDate" : "Thu, 02 Oct 2025 20:28:55",
          "title" : "Canty wins ChessBoxing world title!"
-      },
-      {
-         "description" : "Sharvaanica A.S. was leading by half a point before the start of the final round, where a draw would have been enough for her to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sharvaanica-wins-gold-in-fide-world-cadet-chess-championship-in-almaty-from-18-sept-to-01-oct-2025/",
-         "pubDate" : "Wed, 01 Oct 2025 06:55:15",
-         "title" : "Sharvaanica Wins Gold in Fide World Cadet Chess Championship in Almaty from 18 Sept to 01 Oct 2025."
       }
    ]
 }
