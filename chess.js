@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
+         "pubDate" : "Wed, 22 Oct 2025 19:00:00",
+         "title" : "US Chess Championships - Live!"
+      },
+      {
          "description" : "We take a unique behind-the-scenes look at how top chess masters organize their digital workspace. Grandmasters and trainers like Svitlana Demchenko, Robert Ris, Michael Prusikin, Harald Schneider-Zinner, Frederik Svane, Felix Blohberger, and Dorian Rogozenco share their screens to reveal their personal ChessBase 18 setups - from meticulously clean desktops to chaotic databases full of ideas. They show us their board designs, current projects, and discuss their favourite or most-used ChessBase functions, offering fascinating insights into how great minds prepare, study, and work with chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/salamanca-festival-2025-live",
          "pubDate" : "Wed, 22 Oct 2025 16:00:00",
          "title" : "Salamanca Chess Festival - Live!"
+      },
+      {
+         "description" : "The ECF will be running two courses on the 15th and 16th November as follows &#8212; A Swiss Manager course on Saturday 15th November, starting at 10am and lasting until...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/swiss-manager-liveboards-course/",
+         "pubDate" : "Wed, 22 Oct 2025 15:46:37",
+         "title" : "Swiss Manager/Liveboards Course"
       },
       {
          "description" : "The European Club Cup is taking place on 19-25 October in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from around the world. The seven-round event features a number of elite players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
@@ -150,7 +166,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-us-championship-round-8",
-         "pubDate" : "Tue, 21 Oct 2025 02:04:59",
+         "pubDate" : "Tue, 21 Oct 2025 02:04:00",
          "title" : "Caruana, So Still Atop U.S. Championship Leaderboard; Lee Increases Lead To Full Point"
       },
       {
@@ -456,14 +472,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-r16-keymer-so",
          "pubDate" : "Thu, 16 Oct 2025 18:54:00",
          "title" : "Wesley So Beats Keymer In Overtime"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://britchess.wufoo.com/forms/liveboards-swiss-manager-course-november-2025/#new_tab",
-         "pubDate" : "Thu, 16 Oct 2025 11:52:20",
-         "title" : "Liveboards / Swiss Manager Course November 2025"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124603594.cms\" />Argentina's 12-year-old chess prodigy Faustino Oro triumphed in the U21 title at the GCL Contenders Knockout Challengers Round in Mumbai. He, alongside men's champion Jose Martinez and women's winner Mai Narva, will now be ambassadors for the Global Chess League. Oro's victory over GM Pranav Anand highlights his rapid ascent in the chess world.",
