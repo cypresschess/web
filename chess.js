@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 9 &#124; GAME LINKS SO VS SEVIAN RESULT: &frac12;-&frac12;MISHRA VS ARONIAN RESULT: &frac12;-&frac12;NIEMANN VS LIANG RESULT: 1-0SHANKLAND VS CARUANA RESULT: 0-1ROBSON VS WOODWARD RESULT: &frac12;-&frac12;SWIERCZ VS OPARIN &frac12;-&frac12; ROUND 9 &#124; GAME LINKS PAIKIDZE VS PARAGUA [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-9/\">POSTGAME ROUND 9</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-9/",
+         "pubDate" : "Wed, 22 Oct 2025 23:12:12",
+         "title" : "POSTGAME ROUND 9"
+      },
+      {
+         "description" : "Four rounds have been already played at the European Chess Club Cup 2025 in Rhodes, Greece! Three teams emerged on the top of the Open section scoring maximum 8 match points: Alkaloid from North Macedonia, SuperChess from Romania, and Novy Bor from Czech Republic, while Cercle d'Echecs de Monte-Carlo emerged as the sole leader of the Women's event as the only team with the perfect score. North Macedonian team Alkaloid scored a 4-2 win today against Vugar Gashimov team from []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-club-cup-2025-passes-the-halfway-mark/",
+         "pubDate" : "Wed, 22 Oct 2025 20:27:11",
+         "title" : "European Chess Club Cup 2025 passes the halfway mark"
+      },
+      {
          "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/werner-keym-problem-chess-art-7",
          "pubDate" : "Wed, 22 Oct 2025 07:34:25",
          "title" : "Werner Keym: Problem Chess Art"
+      },
+      {
+         "description" : "Today's puzzles come from the 2025 FIDE World Youth Championships, held earlier this month in Durres, Albania. There was only a small number of games from the USA delegation broadcast from the tournament, but there were still enough interesting positions to put together a worksheet here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-youth-championships",
+         "pubDate" : "Wed, 22 Oct 2025 00:00:00",
+         "title" : "Wednesday Workout: FIDE World Youth Championships"
       },
       {
          "description" : "The third round of the 2025 European Chess Club Cup took place today in Rhodes, Greece, highlighted by the arrival of reigning World Chess Champion Gukesh D, who joined his SuperChess team at the venue for the first time in the event. Only nine teams in the Open section, and two teams in the Women's section, kept the perfect score of 6 match points, and share the lead in the tournament after three played rounds. The leading teams of the []",
@@ -610,14 +634,6 @@ news_feed (
          "title" : "Wesley So Takes Sole U.S. Championship Lead; Paikidze Catches Sargsyan"
       },
       {
-         "description" : "This week's puzzles continue our series on the 2025 FIDE World Cadet Championships, which concluded last Tuesday in Almaty, Kazakhstan (flash report | full report). For even more puzzles, see part 1, part 2, and part 3 of our Tactics Tuesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2025-fide-world-cadet-championships-pt-2",
-         "pubDate" : "Wed, 15 Oct 2025 00:00:00",
-         "title" : "Wednesday Workout: 2025 FIDE World Cadet Championships, Pt. 2"
-      },
-      {
          "description" : " Join GMs Yasser Seirawan &#038; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 3 &#124; GAME LINKS SO VS SHANKLANDRESULT: 1-0 LIANG VS CARUANARESULT: 1/2-1/2 SWIERCZ VS MISHRARESULT: 1/2-1/2 NIEMANN VS ROBSONRESULT: 1/2-1/2 WOODWARD VS OPARINRESULT: 0-1 SEVIAN VS ARONIANRESULT: 1/2-1/2 ROUND 3 &#124; GAME LINKS PAIKIDZE VS ABRAHAMYANRESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-3-paikidzes-dominate-class-topples-tatev-uschesschamps/\">POSTGAME ROUND 3: Paikidze's Dominate Class Topples Tatev! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint L",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -834,14 +850,6 @@ news_feed (
          "title" : "POSTGAME DAY 3: Kasparov Wins! But Vishy Gets Last Laugh | #KasparovAnand"
       },
       {
-         "description" : " SAINT LOUIS, MO (October 10, 2025) - In a thrilling display of precision, creativity and composure, legendary World Champion Grandmaster (GM) Garry Kasparov was crowned champion of the first Clutch Chess: The Legends, defeating longtime rival and fellow World Champion GM Viswanathan Anand in a three-day showdown that captivated fans around the world. \"It was [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/world-champion-garry-kasparov-wins-clutch-chess-the-legendsduring-grand-reopening-of-saint-louis-chess-club/\">World Champion Garry Kasparov Wins Clutch Chess: The LegendsDuring Grand Reopening of Saint Louis Chess Club</a> appeared first on <a href=\"https://saintlo",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/world-champion-garry-kasparov-wins-clutch-chess-the-legendsduring-grand-reopening-of-saint-louis-chess-club/",
-         "pubDate" : "Fri, 10 Oct 2025 21:28:24",
-         "title" : "World Champion Garry Kasparov Wins Clutch Chess: The LegendsDuring Grand Reopening of Saint Louis Chess Club"
-      },
-      {
          "description" : "The sixth round was played today at the European Team Chess Championship 2025, and Ukraine and Poland kept their sole lead in the Open and Women's sections (respectively). Ukraine scored a narrow victory against France today, thanks to GM Igor Kovalenko's (UKR, 2669) win over GM Pierre Laurent-Paoli (FRA, 2570). GM Ruslan Ponomariov (UKR, 2633) had a nice chance to win the game against GM Marc'Andria Maurizzi (FRA, 2624) but missed the motive to transpose into winning pawns endgame, and []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -880,14 +888,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/garry-kasparov-stuns-viswanathan-anand-on-day-1-of-clutch-chess-takes-early-lead/articleshow/124442012.cms",
          "pubDate" : "Fri, 10 Oct 2025 01:43:54",
          "title" : "Garry Kasparov stuns Viswanathan Anand on Day 1 of Clutch Chess, takes early lead"
-      },
-      {
-         "description" : "Five rounds have been played at the European Team Chess Championship 2025 and the tournament reached its midpoint. Heading into the 6th round, Ukraine emerged as the sole leader of the Open section, while Poland took the sole lead in the Women's Championship. The team of Ukraine defeated the defending Champions Serbia. GM Ihor Samunenkov (UKR, 2568) brought the initial lead to Ukraine, after defeating GM Robert Markus (SRB, 2535). The position was roughly equal when Markus badly blundered []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ukraine-and-poland-take-sole-lead-in-european-open-and-womens-team-chess-championships-2025/",
-         "pubDate" : "Thu, 09 Oct 2025 18:18:29",
-         "title" : "Ukraine and Poland take sole lead in European Open and Women's Team Chess Championships 2025"
       },
       {
          "description" : "On behalf of All India Chess Federation , Maharashtra Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Children's Welfare School Versova Andheri West Mumbai-400061",
