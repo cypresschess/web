@@ -14,8 +14,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2025-ccl-fall-week-4-mizzou-utrgv",
-         "pubDate" : "Tue, 21 Oct 2025 16:00:42",
-         "title" : "Mizzou Maintains Lead, Defeates UTRGV In Collegiate Chess League Week 4"
+         "pubDate" : "Tue, 21 Oct 2025 16:00:00",
+         "title" : "Mizzou Maintains Lead, Defeats UTRGV In Collegiate Chess League Week 4"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124724370.cms\" />Ten-year-old British chess prodigy Bodhana Sivanandan achieved a historic victory, defeating former World Champion Grandmaster Mariya Muzychuk at the European Club Cup. This remarkable win, achieved while representing the She Plays to Win Lionesses, highlights Sivanandan's rapid ascent in the chess world. She continues to break records, solidifying her position as a rising star in English chess.",
