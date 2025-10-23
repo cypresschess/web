@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last Sunday, the family of 29-year-old American grandmaster Daniel Naroditsky announced his passing. No cause of death was given. Now, a major controversy has broken out: former world champion Vladimir Kramnik is being accused of harassing Naroditsky with suspicion of cheating. It is far too early to come to any conclusion in this matter, but the story has been splashed over international straight newspapers and channels.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/breaking-accusations-against-kramnik",
+         "pubDate" : "Thu, 23 Oct 2025 13:07:57",
+         "title" : "Breaking: Accusations against Kramnik"
+      },
+      {
+         "description" : "Vincent Keymer raised his live Elo rating to 2771.7 with his third victory in three games at the European Club Cup in Rhodes. He is currently fourth in the world rankings, just ahead of Praggnanandhaa and Arjun Erigaisi, who he will play against in the fifth round of the European Club Cup. | Photo: Gerd Densing",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/he-wins-and-wins-and-wins-keymer-now-number-four-in-the-world",
+         "pubDate" : "Thu, 23 Oct 2025 09:50:32",
+         "title" : "He wins and wins and wins: Keymer now number four in the world"
+      },
+      {
+         "description" : "I was recently invited to have tea at the House of Lords by Baroness Miller of Chilthorne Domer to discuss my work with chess in prisons. She plays chess herself...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/the-baroness-and-the-pink-doughnut-carl-portman/",
+         "pubDate" : "Thu, 23 Oct 2025 09:24:28",
+         "title" : "The Baroness and the pink doughnut - Carl Portman"
+      },
+      {
          "description" : "After four rounds of the European Club Cup in Batumi, Alkaloid (pictured, right), Novy Bor and SuperChess share the lead in the open section with perfect 8/8 match points. Limhamns from Sweden have emerged as the surprise contenders after defeating MTK Budapest. In the women's event, Cercle d'Echecs Monte Carlo are the sole leaders with a flawless 8/8 record, followed by Tajfun SK Ljubljana, Sirmium Sremska Mitrovica and Crvena Zvezda two match points behind. | Photo: Patricia Claros",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/daniel-naroditskys-death-turns-spotlight-on-negative-impact-of-online-chess-boom/articleshow/124751170.cms",
          "pubDate" : "Thu, 23 Oct 2025 02:29:38",
          "title" : "Daniel Naroditsky's death turns spotlight on negative impact of online chess boom"
+      },
+      {
+         "description" : "With two rounds to go at the 2025 U.S. Chess Championship in St. Louis, GM&#38;nbsp;Fabiano Caruana is the sole leader thanks to a win against GM Sam Shankland on Wednesday. In the only other decisive game, GM Hans Niemann recovered from back-to-back ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-us-championship-round-9",
+         "pubDate" : "Thu, 23 Oct 2025 02:04:07",
+         "title" : "Caruana Grabs Sole Lead; Women's U.S. Champs Wide Open As Zatonskih Beats Lee"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 9 &#124; GAME LINKS SO VS SEVIAN RESULT: &frac12;-&frac12;MISHRA VS ARONIAN RESULT: &frac12;-&frac12;NIEMANN VS LIANG RESULT: 1-0SHANKLAND VS CARUANA RESULT: 0-1ROBSON VS WOODWARD RESULT: &frac12;-&frac12;SWIERCZ VS OPARIN &frac12;-&frac12; ROUND 9 &#124; GAME LINKS PAIKIDZE VS PARAGUA [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-9/\">POSTGAME ROUND 9 | #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -578,14 +610,6 @@ news_feed (
          "title" : "The 5th FIDE Intercontinental Online Chess Championship for Prisoners"
       },
       {
-         "description" : "Applications are invited for funding under the ECF's Grassroots Initiative (fifth tranche). The closing date for applications is 12th November. There have already been 136 applications for support under the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/next-grassroots-assessment-3/",
-         "pubDate" : "Wed, 15 Oct 2025 06:10:56",
-         "title" : "Next Grassroots assessment"
-      },
-      {
          "description" : "The organizers behind Norway Chess have announced an ambitious new competition officially endorsed by the International Chess Federation (FIDE). The Total Chess World Championship Tour will crown an entirely new FIDE World Combined Champion across...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -696,14 +720,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-us-championship-round-2",
          "pubDate" : "Tue, 14 Oct 2025 02:57:00",
          "title" : "So, Shankland Join Lead As Caruana Escapes; Sargsyan On Perfect Score"
-      },
-      {
-         "description" : "Former world champion Magnus Carlsen defeated GM Alireza Firouzja in the live finals of the Speed Chess Championship in 2024. Both players look ready to return this year, as they began the 2025 edition with decisive victories against grandmasters ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-carlsen-martinez-firouzja-minh-le",
-         "pubDate" : "Tue, 14 Oct 2025 01:47:00",
-         "title" : "Firouzja, Carlsen Begin Path Back To SCC Finals"
       },
       {
          "description" : " ﻿﻿ Join GMs Yasser Seirawan &#038; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 2 &#124; GAME LINKS ROBSON VS SO RESULT: 0-1 OPARIN VS NIEMANN RESULT: 1/2-1/2 MISHRA VS SEVIAN RESULT: 1/2-1/2 SHANKLAND VS SWIERCZ RESULT: 1-0 ARONIAN VS LIANG RESULT: 1/2-1/2 CARUANA VS WOODWARD RESULT: 1/2-1/2 ﻿﻿ [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-2-fabi-barely-survives-woodward-uschesschamps/\">POSTGAME ROUND 2: Fabi Barely Survives Woodward #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
