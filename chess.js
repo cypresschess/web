@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
+         "pubDate" : "Thu, 23 Oct 2025 19:00:00",
+         "title" : "US Chess Championships - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124767413.cms\" />Viswanathan Anand inaugurated the Global Chess League's new Experience Centre in Plano, Dallas, a hub for chess, technology, and innovation. The centre aims to enhance fan engagement and player development through AI, analytics, and digital platforms. It will foster collaboration with universities and tech partners to shape the future of the game.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-icon-viswanathan-anand-inaugurates-global-chess-league-experience-centre-in-dallas/articleshow/124767413.cms",
+         "pubDate" : "Thu, 23 Oct 2025 17:13:56",
+         "title" : "Viswanathan Anand inaugurates GCL Experience Centre in Dallas"
+      },
+      {
          "description" : "Last Sunday, the family of 29-year-old American grandmaster Daniel Naroditsky announced his passing. No cause of death was given. Now, a major controversy has broken out: former world champion Vladimir Kramnik is being accused of harassing Naroditsky with suspicion of cheating. It is far too early to come to any conclusion in this matter, but the story has been splashed over international straight newspapers and channels.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/breaking-accusations-against-kramnik",
-         "pubDate" : "Thu, 23 Oct 2025 13:07:57",
+         "pubDate" : "Thu, 23 Oct 2025 16:15:00",
          "title" : "Breaking: Accusations against Kramnik"
       },
       {
@@ -48,6 +64,22 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-us-championship-round-9",
          "pubDate" : "Thu, 23 Oct 2025 02:04:07",
          "title" : "Caruana Grabs Sole Lead; Women's U.S. Champs Wide Open As Zatonskih Beats Lee"
+      },
+      {
+         "description" : "22 American players made the trip to Durres, Albania to compete on behalf of the USA Delegation at the 2025 FIDE World Youth Chess Championships from October 4 through 15. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Courtesy of US Chess<br> <br> <br> <br> In contrast to last month's World Cadets Chess Championship, no Americans made podium finishes. But no player entered in the top 10 (by FIDE rating) of their respective section (Under-14, -16, and -18 Open and Girls), so this was not totally unexpected. The overlap with the U.S. Chess Championships was also unfortunate, as several of our top juniors opted to compete in St. Louis.FM Aditeya Das (Un",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-fide-world-youth-chess-championship-das-sinkar-shine-usa-delegation",
+         "pubDate" : "Thu, 23 Oct 2025 00:00:00",
+         "title" : "2025 FIDE World Youth Chess Championship: Das, Sinkar Shine for USA Delegation"
+      },
+      {
+         "description" : "After the final rest day, we saw many exciting games in both the U.S. and U.S. Women's Championships. Both sections saw crucial results significantly shake up the standings. Now, GM Fabiano Caruana leads the Open Section outright, and, thanks to IM Anna Zatonskih's win over IM Alice Lee, Lee's full-point lead in the Women's Section is now a three-way tie (with IM Carissa Yip joining Lee and Zatonskih). <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> The four leaders entering the final two rounds. (Photos courtesy SLCC/Lennart Ootes)<br> <br> The final two rounds will surely be exciting ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/leaderboard-shakeups-us-championships-round-9",
+         "pubDate" : "Thu, 23 Oct 2025 00:00:00",
+         "title" : "Leaderboard Shakeups in U.S. Championships Round 9"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 9 &#124; GAME LINKS SO VS SEVIAN RESULT: &frac12;-&frac12;MISHRA VS ARONIAN RESULT: &frac12;-&frac12;NIEMANN VS LIANG RESULT: 1-0SHANKLAND VS CARUANA RESULT: 0-1ROBSON VS WOODWARD RESULT: &frac12;-&frac12;SWIERCZ VS OPARIN &frac12;-&frac12; ROUND 9 &#124; GAME LINKS PAIKIDZE VS PARAGUA [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-9/\">POSTGAME ROUND 9 | #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -418,14 +450,6 @@ news_feed (
          "title" : "Niemann, Caruana Catch So; Christmas Comes Early For Carissa Yip"
       },
       {
-         "description" : "After the rest day, players came recharged - and Round 5 of the 2025 U.S. and U.S. Women's Chess Championships brought no shortage of drama and decisive results. The Confessional Booth EffectIt might be pure coincidence - or perhaps a bit of St. Louis magic - but every player who stepped into the confessional booth in Round 5 ended up winning their game. GM Hans Niemann, IM Carissa Yip, GM Irina Krush, and IM Alice Lee all took a few moments mid-battle to share their thoughts, predictions, or even off-topic frustrations - such as Carissa's seasonal \"sweater drama\" - and later walked away with full points. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <b",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/shared-leaders-both-sections-after-round-5-us-championships",
-         "pubDate" : "Sat, 18 Oct 2025 00:00:00",
-         "title" : "Shared Leaders in Both Sections After Round 5 at the U.S. Championships"
-      },
-      {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 5 &#124; GAME LINKS NIEMANN VS MISHRA RESULT: 1-0SEVIAN VS WOODWARD RESULT: 0-1ROBSON VS SHANKLAND RESULT: &frac12;-&frac12;LIANG VS OPARIN RESULT: &frac12;-&frac12;SWIERCZ VS CARUANA RESULT: 0-1SO VS ARONIAN RESULT: &frac12;-&frac12; ROUND 5 &#124; GAME LINKS CERVANTES LANDEIRO [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-5-tatevs-spectacular-style-nets-second-win-uschesschamps/\">POSTGAME ROUND 5: Tatev's Spectacular Style Nets Second Win! #USChessChamps</a> appeared first on <a href=\"https://saintlouische",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -512,14 +536,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-4-alices-win-falls-victim-to-a-carissa-tactic-uschesschamps/",
          "pubDate" : "Thu, 16 Oct 2025 00:12:05",
          "title" : "POSTGAME ROUND 4: Alice's Win Falls Victim to a Carissa Tactic! #USChessChamps"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The Saint Louis Chess Club. (SLCC/Lennart Ootes)<br> <br> <br> <br> In Round 4 of the U.S. Championship and U.S. Women's Championship, we were treated to several piece sacrifices, an uncharacteristically open Rossolimo Sicilian, and clinical rook endgames of the drawn and winning varieties. While GM Wesley So maintained his half-point lead in the Open Section, IM Anna Sargsyan pulled ahead of IM Nazi Paikidze, and now leads the Women's field by a full point with her third win in four games. U.S. ChampionshipFrom a glance, Round 4 seemed like a casual day at the office for most players, with five draws and",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-championships-round-4-so-maintains-open-lead-sargsyan-moves-clear-1st-womens",
-         "pubDate" : "Thu, 16 Oct 2025 00:00:00",
-         "title" : "U.S. Championships Round 4: So maintains Open lead; Sargsyan moves into clear 1st in Women's"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124579629.cms\" />Norway Chess has unveiled the Total Chess World Championship Tour, a new annual event starting in 2027 featuring Fast Classic, Rapid, and Blitz formats. This FIDE-approved tour, with a substantial prize pool, aims to crown a unified champion across disciplines, complementing existing World Championships and potentially offering a path to the Candidates tournament.",
@@ -848,14 +864,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-misses-key-chances-as-kasparov-extends-lead-in-clutch-chess-legends/articleshow/124446426.cms",
          "pubDate" : "Fri, 10 Oct 2025 06:38:15",
          "title" : "Anand misses key chances as Kasparov extends lead in Clutch Chess Legends"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124442012.cms\" />Chess legend Garry Kasparov, at 62, has taken a 2.5-1.5 lead against Viswanathan Anand in the Clutch Chess series. After two draws, Kasparov secured a crucial win in the third game, showcasing his enduring skill. The high-stakes contest, featuring a $144,000 prize pool, intensifies with escalating point values for victories on subsequent days.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/garry-kasparov-stuns-viswanathan-anand-on-day-1-of-clutch-chess-takes-early-lead/articleshow/124442012.cms",
-         "pubDate" : "Fri, 10 Oct 2025 01:43:54",
-         "title" : "Garry Kasparov stuns Viswanathan Anand on Day 1 of Clutch Chess, takes early lead"
       },
       {
          "description" : "On behalf of All India Chess Federation , Maharashtra Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Children's Welfare School Versova Andheri West Mumbai-400061",
