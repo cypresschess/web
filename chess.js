@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 9 &#124; GAME LINKS SO VS SEVIAN RESULT: &frac12;-&frac12;MISHRA VS ARONIAN RESULT: &frac12;-&frac12;NIEMANN VS LIANG RESULT: 1-0SHANKLAND VS CARUANA RESULT: 0-1ROBSON VS WOODWARD RESULT: &frac12;-&frac12;SWIERCZ VS OPARIN &frac12;-&frac12; ROUND 9 &#124; GAME LINKS PAIKIDZE VS PARAGUA [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/postgame-round-9/\">POSTGAME ROUND 9</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124751170.cms\" />Chess world mourns Grandmaster Daniel Naroditsky, aged 29. Former champion Pravin Thipsay praised his talent. Naroditsky's death is surrounded by mystery. Some criticize Vladimir Kramnik for past cheating accusations against Naroditsky. Experts suggest focusing on Naroditsky's contributions and the impact of online chess and social media on mental health.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/daniel-naroditskys-death-turns-spotlight-on-negative-impact-of-online-chess-boom/articleshow/124751170.cms",
+         "pubDate" : "Thu, 23 Oct 2025 02:29:38",
+         "title" : "Daniel Naroditsky's death turns spotlight on negative impact of online chess boom"
+      },
+      {
+         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 9 &#124; GAME LINKS SO VS SEVIAN RESULT: &frac12;-&frac12;MISHRA VS ARONIAN RESULT: &frac12;-&frac12;NIEMANN VS LIANG RESULT: 1-0SHANKLAND VS CARUANA RESULT: 0-1ROBSON VS WOODWARD RESULT: &frac12;-&frac12;SWIERCZ VS OPARIN &frac12;-&frac12; ROUND 9 &#124; GAME LINKS PAIKIDZE VS PARAGUA [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-9/\">POSTGAME ROUND 9 | #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/postgame-round-9/",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-9/",
          "pubDate" : "Wed, 22 Oct 2025 23:12:12",
-         "title" : "POSTGAME ROUND 9"
+         "title" : "POSTGAME ROUND 9 | #USChessChamps"
       },
       {
          "description" : "Four rounds have been already played at the European Chess Club Cup 2025 in Rhodes, Greece! Three teams emerged on the top of the Open section scoring maximum 8 match points: Alkaloid from North Macedonia, SuperChess from Romania, and Novy Bor from Czech Republic, while Cercle d'Echecs de Monte-Carlo emerged as the sole leader of the Women's event as the only team with the perfect score. North Macedonian team Alkaloid scored a 4-2 win today against Vugar Gashimov team from []",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2025-live",
          "pubDate" : "Wed, 22 Oct 2025 19:00:00",
          "title" : "US Chess Championships - Live!"
+      },
+      {
+         "description" : "The chess world is mourning after the heartbreaking death of&#38;nbsp;GM Daniel Naroditsky, a loss that has sparked an unprecedented wave of tributes from fans and top players such as GMs Magnus Carlsen, Hikaru Nakamura, Fabiano Caruana, and Levon Aro...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-caruana-aronian-fide-pay-tribute-to-naroditsky",
+         "pubDate" : "Wed, 22 Oct 2025 17:41:59",
+         "title" : "Carlsen, Top Players Pay Tribute To Naroditsky As Chess World Mourns"
       },
       {
          "description" : "We take a unique behind-the-scenes look at how top chess masters organize their digital workspace. Grandmasters and trainers like Svitlana Demchenko, Robert Ris, Michael Prusikin, Harald Schneider-Zinner, Frederik Svane, Felix Blohberger, and Dorian Rogozenco share their screens to reveal their personal ChessBase 18 setups - from meticulously clean desktops to chaotic databases full of ideas. They show us their board designs, current projects, and discuss their favourite or most-used ChessBase functions, offering fascinating insights into how great minds prepare, study, and work with chess.",
@@ -754,14 +770,6 @@ news_feed (
          "title" : "One round to go at the European Team Chess Championship 2025"
       },
       {
-         "description" : "Thirty-two players, including top GMs Hikaru Nakamura, Arjun Erigaisi, Vincent Keymer, and Alireza Firouzja, have qualified for the inaugural 2025 Comet Open main event. Next weekend, over two days of playoffs, the players will compete for their s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-comet-open-qualifiers",
-         "pubDate" : "Mon, 13 Oct 2025 13:27:00",
-         "title" : "Nakamura, Arjun, Keymer, Firouzja Among Qualified Players For Comet Open"
-      },
-      {
          "description" : "Pierre de Fermat (1601-1665) was a French mathematician who made pioneering contributions to analytic geometry, calculus, optics, and probability. He is best known for Fermat's Last Theorem, which famously remained unproven for over three centuries. Then, thirty years ago (in 1995), the mathematician Andrew Wiles published the comprehensive proof. In his book \"Chess Stories\" mathematician Prof Christian Hesse, told us how he applied Fermat's final conjecture to chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -904,14 +912,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-national-under-13-chess-championship-2025-in-goa/",
          "pubDate" : "Thu, 09 Oct 2025 12:37:28",
          "title" : "Certificate: National Under 13 Chess Championship 2025 in Goa ."
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124404630.cms\" />Vaishali Rameshbabu, a top Indian Grandmaster, nearly withdrew from a major tournament after a string of losses. Her childhood coach, RB Ramesh, enlisted fellow Grandmaster Karthikeyan Murali, known as \"Karthi Anna,\" to encourage her. His timely support helped Vaishali regain confidence, defend her title, and secure a spot in the Women's Candidates 2026.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/from-fathers-surgery-to-playing-silent-role-in-r-vaishalis-grand-swiss-glory-the-story-of-karthi-anna/articleshow/124404630.cms",
-         "pubDate" : "Thu, 09 Oct 2025 04:41:01",
-         "title" : "From father's surgery to playing silent role in R Vaishali's Grand Swiss glory: The story of 'Karthi Anna'"
       },
       {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/25th-european-teams-2025\">European Team Championships</a> got underway on Sunday. This is still one of the highlights of the chess calendar. If you're looking for high-quality, motivated chess, this is your tournament. Russia is absent due to the war in Ukraine (or, if you prefer, because it now belongs to the Asian Federation), and Norway couldn't afford to send a team, but quality is everywhere. Top-seeded Germany lost to 21st-seeded Denmark. They outrated them on every board, but not by so much that the result was outrageous. After three rounds, Serbia and Greece are the only teams with perfect scores. The Netherlands, Azerbaijan, ",
