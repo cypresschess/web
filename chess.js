@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 10 &#124; GAME LINKS LIANG VS ROBSON RESULT: 1-0SEVIAN VS NIEMANNRESULT: 1-0WOODWARD VS SHANKLAND RESULT: &frac12;-&frac12;SWIERCZ VS SORESULT: 0-1OPARIN VS ARONIAN RESULT: &frac12;-&frac12;CARUANA VS MISHRARESULT: 1-0 ROUND 10 &#124; GAME LINKS YU VS POURKASHIYAN RESULT: &frac12;-&frac12;PARAGUA [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-10/\">2025-us-chess-championships-postgame-round-10</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-10/",
+         "pubDate" : "Thu, 23 Oct 2025 23:26:21",
+         "title" : "2025-us-chess-championships-postgame-round-10"
+      },
+      {
+         "description" : "After five played rounds in the European Chess Club Cup 2025, only two teams in the Open section maintained the perfect score and co-lead with only two rounds to go: Alkaloid and SuperChess, while Cercle d'Echecs de Monte-Carlo kept the sole lead in the Women's event. Alkaloid from North Macedonia was convincing against the defending Champions Novy Bor from Czech Republic. Alkaloid won the match with the final score of 4-2, with wins by GM Arjun Erigaisi who crushed GM []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/alkaloid-and-superchess-co-lead-in-open-cercle-dechecs-de-monte-carlo-leads-in-womens-european-chess-club-cup/",
+         "pubDate" : "Thu, 23 Oct 2025 23:14:12",
+         "title" : "Alkaloid and SuperChess co-lead in Open, Cercle d'Echecs de Monte-Carlo leads in Women's European Chess Club Cup"
+      },
+      {
          "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -62,11 +78,19 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-us-championship-round-9",
-         "pubDate" : "Thu, 23 Oct 2025 02:04:07",
+         "pubDate" : "Thu, 23 Oct 2025 02:04:00",
          "title" : "Caruana Grabs Sole Lead; Women's U.S. Champs Wide Open As Zatonskih Beats Lee"
       },
       {
-         "description" : "22 American players made the trip to Durres, Albania to compete on behalf of the USA Delegation at the 2025 FIDE World Youth Chess Championships from October 4 through 15. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Courtesy of US Chess<br> <br> <br> <br> In contrast to last month's World Cadets Chess Championship, no Americans made podium finishes. But no player entered in the top 10 (by FIDE rating) of their respective section (Under-14, -16, and -18 Open and Girls), so this was not totally unexpected. The overlap with the U.S. Chess Championships was also unfortunate, as several of our top juniors opted to compete in St. Louis.FM Aditeya Das (Un",
+         "description" : "Effective Nov. 1, 2025, there will no longer be a 30-day grace period to complete SafeSport Refresher trainings. Your TD certification will become inactive as soon as your previous training lapses and will be reactivated once you complete the required training. Note: You do not have to re-take a SafeSport training course. If your SafeSport certification is lapsing/has lapsed, you need to take the next course in the sequence:If your most recent course was the core course, you need to take Refresher 1.If your most recent course was Refresher 1, you need to take Refresher 2.If your most recent course was Refresher 2, you need to take Refresher 3.If your most recent course was Refresher 3, you n",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/update-safesport-refresher-requirements-tournament-directors",
+         "pubDate" : "Thu, 23 Oct 2025 00:00:00",
+         "title" : "Update to SafeSport Refresher Requirements for Tournament Directors"
+      },
+      {
+         "description" : "22 American players made the trip to Durres, Albania to compete on behalf of the USA Delegation at the 2025 FIDE World Youth Chess Championships from October 4 through 15. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Courtesy of US Chess<br> <br> <br> <br> In contrast to last month's World Cadets Chess Championship, no Americans made podium finishes. But no player entered in the top 10 (by FIDE rating) of their respective section (Under-14, -16, and -18 Open and Girls), so this was not totally unexpected. The overlap with the U.S. Chess Championships was also unfortunate, as several of our top juniors opted to compete in St. Louis. <br> <br> <br> <b",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/2025-fide-world-youth-chess-championship-das-sinkar-shine-usa-delegation",
@@ -384,14 +408,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-us-championship-round-6",
          "pubDate" : "Sun, 19 Oct 2025 00:34:00",
          "title" : "Caruana Misses Forced Checkmate vs So; Zatonskih Catches Lee"
-      },
-      {
-         "description" : "The leaders all drew in the Open Section of Saturday's Round 6 at the U.S. Championships, but one of the split points came after the reigning champion missed a forced mate. In the Women's, there's still a two-way tie at the top, but one of the co-leaders was taken down and replaced, while the defending champion is gaining ground and picking up steam.U.S. ChampionshipThe game of the day, and maybe of the tournament, was Caruana - So. Defending champion GM Fabiano Caruana played a highly original opening plan, making many compromising pawn moves for initiative and piece activity. After GM Wesley So carelessly loosened his king, White's queen entered Black's territory with four consecutive smal",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-championships-round-6-so-survives-forced-mate-new-co-leader-womens",
-         "pubDate" : "Sun, 19 Oct 2025 00:00:00",
-         "title" : "U.S. Championships Round 6: So Survives Forced Mate; New Co-leader in Women's"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 6 &#124; GAME LINKS WOODWARD VS SWIERCZ RESULT: 1-0OPARIN VS SHANKLAND RESULT: &frac12;-&frac12;ARONIAN VS NIEMANN &frac12;-&frac12; CARUANA VS SO RESULT: &frac12;-&frac12;LIANG VS SEVIAN RESULT: &frac12;-&frac12;MISHRA VS ROBSON RESULT: &frac12;-&frac12; ROUND 6 &#124; GAME LINKS KRUSH VS [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-6-alice-lee-and-anna-zatonskih-currently-tied-for-first-uschesschamps/\">POSTGAME ROUND 6: Alice Lee and Anna Zatonskih Currently Tied For First! #USChessChamps</a> appeared fir",
@@ -826,22 +842,6 @@ news_feed (
          "title" : "War, science and chess in Samarkand"
       },
       {
-         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and James Dash for the top moments of today's games. Game Links Kasparov vs Anand RAPID GAMES GAME 9 ANAND VS KASPAROV GAME 10 KASPAROV VS ANAND BLITZ GAMES GAME 11 ANAND VS KASPAROV GAME 12 KASPAROV VS ANAND The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-3-kasparov-wins-but-vishy-gets-last-laugh-kasparovanand/\">POSTGAME DAY 3: Kasparov Wins! But Vishy Gets Last Laugh | #KasparovAnand</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-the-legends-postgame-day-3-kasparov-wins-but-vishy-gets-last-laugh-kasparovanand/",
-         "pubDate" : "Fri, 10 Oct 2025 22:06:41",
-         "title" : "POSTGAME DAY 3: Kasparov Wins! But Vishy Gets Last Laugh | #KasparovAnand"
-      },
-      {
-         "description" : "The sixth round was played today at the European Team Chess Championship 2025, and Ukraine and Poland kept their sole lead in the Open and Women's sections (respectively). Ukraine scored a narrow victory against France today, thanks to GM Igor Kovalenko's (UKR, 2669) win over GM Pierre Laurent-Paoli (FRA, 2570). GM Ruslan Ponomariov (UKR, 2633) had a nice chance to win the game against GM Marc'Andria Maurizzi (FRA, 2624) but missed the motive to transpose into winning pawns endgame, and []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ukraine-and-poland-keep-the-sole-lead-in-european-open-and-womens-team-chess-championships-2025/",
-         "pubDate" : "Fri, 10 Oct 2025 18:37:16",
-         "title" : "Ukraine and Poland keep the sole lead in European Open and Women's Team Chess Championships 2025"
-      },
-      {
          "description" : " England, seeded fifth among 40 teams at the start, were fifth after six of nine rounds while England women, seeded 12th among 36, were 11th England's open team jumped into an outside medal chance on Friday as this week's European championships at Batumi, Georgia, passed the halfway mark. However, with only three rounds left after Saturday's rest day, they still have to meet the front runners from Ukraine and the Netherlands. Leaders after six of the nine rounds: <strong>Open:</strong> 1 Ukraine 11 match points (15 game points), 2 Netherlands 10 (15.5), 3 Azerbaijan 9 (14). <strong>Also:</strong> 5 England 8 (14). <strong>Women:</strong> 1 Poland 12 (16.5), 2 Germany 9 (14), 3 Ukraine 9 (15,",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -960,14 +960,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/oct/03/chess-messi-faustino-oro-achieves-grandmaster-norm-and-2500-rating-at-just-11",
          "pubDate" : "Fri, 03 Oct 2025 07:00:28",
          "title" : "'Chess Messi' Faustino Oro achieves grandmaster norm and 2500 rating at just 11"
-      },
-      {
-         "description" : " James Canty III is now a World Champion! Readers may have wondered if they missed something. Yet, it is true. Canty won the 7th United Chess Boxing heavyweight world title in Loznica, Serbia. While he is a much stronger chess player than a boxer, the Detroit native knows a thing or two about the sport The post <a href=\"https://thechessdrum.net/blog/2025/10/02/canty-wins-chessboxing-title/\">Canty wins ChessBoxing world title!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/10/02/canty-wins-chessboxing-title/",
-         "pubDate" : "Thu, 02 Oct 2025 20:28:55",
-         "title" : "Canty wins ChessBoxing world title!"
       }
    ]
 }
