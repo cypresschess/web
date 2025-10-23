@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After four rounds of the European Club Cup in Batumi, Alkaloid (pictured, right), Novy Bor and SuperChess share the lead in the open section with perfect 8/8 match points. Limhamns from Sweden have emerged as the surprise contenders after defeating MTK Budapest. In the women's event, Cercle d'Echecs Monte Carlo are the sole leaders with a flawless 8/8 record, followed by Tajfun SK Ljubljana, Sirmium Sremska Mitrovica and Crvena Zvezda two match points behind. | Photo: Patricia Claros",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2025-4",
+         "pubDate" : "Thu, 23 Oct 2025 07:25:00",
+         "title" : "Euro Club Cup: Alkaloid, SuperChess and Novy Bor still perfect"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124751170.cms\" />Chess world mourns Grandmaster Daniel Naroditsky, aged 29. Former champion Pravin Thipsay praised his talent. Naroditsky's death is surrounded by mystery. Some criticize Vladimir Kramnik for past cheating accusations against Naroditsky. Experts suggest focusing on Naroditsky's contributions and the impact of online chess and social media on mental health.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -42,14 +50,6 @@ news_feed (
          "title" : "Carlsen, Top Players Pay Tribute To Naroditsky As Chess World Mourns"
       },
       {
-         "description" : "We take a unique behind-the-scenes look at how top chess masters organize their digital workspace. Grandmasters and trainers like Svitlana Demchenko, Robert Ris, Michael Prusikin, Harald Schneider-Zinner, Frederik Svane, Felix Blohberger, and Dorian Rogozenco share their screens to reveal their personal ChessBase 18 setups - from meticulously clean desktops to chaotic databases full of ideas. They show us their board designs, current projects, and discuss their favourite or most-used ChessBase functions, offering fascinating insights into how great minds prepare, study, and work with chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/my-chessbase-18-desktop-svitlana-demchenko",
-         "pubDate" : "Wed, 22 Oct 2025 16:30:00",
-         "title" : "My ChessBase 18 Desktop! - Svitlana Demchenko"
-      },
-      {
          "description" : "The eighth edition of the Salamanca Chess Festival is taking place on 22-25 at the \"Centro Internacional del Español\" in the city's prestigious university. The Masters Tournament, featuring four men and four women, is a single round-robin with a time control of 30 minutes plus 5-second increments. Follow the games live with computer-assisted analysis starting at 16.00 CEST (10.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +64,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/swiss-manager-liveboards-course/",
          "pubDate" : "Wed, 22 Oct 2025 15:46:37",
          "title" : "Swiss Manager/Liveboards Course"
-      },
-      {
-         "description" : "The European Club Cup is taking place on 19-25 October in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from around the world. The seven-round event features a number of elite players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2025-live",
-         "pubDate" : "Wed, 22 Oct 2025 14:00:00",
-         "title" : "European Club Cup - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124741468.cms\" />FIDE CEO Emil Sutovsky has slammed Vladimir Kramnik's 'appalling' comments about the late Daniel Naroditsky, questioning the outpouring of posthumous support for the young Grandmaster. Sutovsky highlighted Naroditsky's struggles following unsubstantiated cheating allegations and urged those claiming friendship to explain their inaction during his difficult period.",
@@ -128,14 +120,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/historic-10-year-old-indian-origin-british-chess-prodigy-bodhana-sivanandan-beats-ex-world-champion-gm-mariya-muzychuk/articleshow/124724370.cms",
          "pubDate" : "Tue, 21 Oct 2025 15:29:03",
          "title" : "Historic! 10-yo Indian-origin British chess prodigy beats ex-World Champ"
-      },
-      {
-         "description" : "From the classrooms of Trujillo to the tournament halls of Europe, Patricia Claros Aguilar has built a career defined by purpose, empathy and excellence. The Peruvian-born organiser, now based in Spain, reflects on her 25-year journey in chess - from humble beginnings to international recognition. Honoured with the 2025 Special Prize from the Chess Hall of Fame of the Americas, she shares insights on education, leadership, innovation and the unifying power of chess. | Photos: Patricia Claros' Archive",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-patricia-claros-uvencio-blanco",
-         "pubDate" : "Tue, 21 Oct 2025 14:00:00",
-         "title" : "Patricia Claros, full-time chess promoter: \"Never sacrifice wellbeing for spectacle\""
       },
       {
          "description" : " The death of Daniel Naroditsky at the age of only 29 has come as a great shock. Naroditsky was a well known chess commentator and streamer who became a GM in 2013 and had a peak rating of 2647 in May 2017. His play was limited to mostly blitz in recent years, both online and over the board, although his fifth and final appearance in the US Championships was as recent as 2021. ",
@@ -258,22 +242,6 @@ news_feed (
          "title" : "Daniel Naroditsky (9 November 1995 - 19 October 2025)"
       },
       {
-         "description" : "Can you imagine writing about rising chess stars who are up to 86 years younger than you? The indefatigable Leonard Barden, who at 96 still fills his weekly London Guardian column, has been keenly following the youngest talents, players between ten and sixteen playing at GM levels. If you want to keep up-to-date on some mind-boggling developments in the game, it is definitely advisable to put Fridays on your schedule to read what Barden has to say.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leonard-barden-on-young-chess-talents",
-         "pubDate" : "Mon, 20 Oct 2025 16:00:00",
-         "title" : "Leonard Barden on young chess talents"
-      },
-      {
-         "description" : "In October and November 2000, the World Championship match between Garry Kasparov and Vladimir Kramnik took place in London under unusual circumstances. With the rediscovered Berlin Defence, Kramnik neutralised Kasparov's attacking power and became the 14th world champion. A look back. | Photo: Ben Bartels",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/25-years-ago-kramnik-beats-kasparov",
-         "pubDate" : "Mon, 20 Oct 2025 15:05:00",
-         "title" : "25 Years Ago: Kramnik beats Kasparov"
-      },
-      {
          "description" : "GM Daniel Naroditsky, the popular U.S. grandmaster, commentator, creator, educator, and author, unexpectedly passed away on Sunday at the age of only 29. The news has sent shockwaves around the chess community, which is grieving the loss of one of...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -288,14 +256,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/49th-bwci-guernsey-international-chess-festival/",
          "pubDate" : "Mon, 20 Oct 2025 08:36:47",
          "title" : "49th BWCI Guernsey International Chess Festival"
-      },
-      {
-         "description" : "The opening round of the European Club Cup in Rhodes went largely as expected, with all top teams in both the open and women's sections winning their matches comfortably. The day's most notable result came in the women's event, where 10-year-old Bodhana Sivanandan of Lionesses #1 defeated Mariya Muzychuk of Turkish Airlines in a sharp Sicilian. BayeganPendik, the top seeds in the open section, began with a 5-1 win over HWP Haarlem. | Photo: Patricia Claros",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2025-1",
-         "pubDate" : "Mon, 20 Oct 2025 06:50:00",
-         "title" : "Euro Club Cup: Favourites start with dominating wins"
       },
       {
          "description" : "GM Magnus Carlsen won the October 17 Freestyle Friday in fine fashion, scoring 10 points to clear the field by 1.5 points. It was Carlsen&#39;s first win in the event since August 15, which was also the last time anyone scored 10 points. He hadn&#39;t rea...",
