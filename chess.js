@@ -66,28 +66,12 @@ news_feed (
          "title" : "European Chess Club Cup 2025 passes the halfway mark"
       },
       {
-         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
-         "pubDate" : "Wed, 22 Oct 2025 19:00:00",
-         "title" : "US Chess Championships - Live!"
-      },
-      {
          "description" : "The chess world is mourning after the heartbreaking death of&#38;nbsp;GM Daniel Naroditsky, a loss that has sparked an unprecedented wave of tributes from fans and top players such as GMs Magnus Carlsen, Hikaru Nakamura, Fabiano Caruana, and Levon Aro...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-caruana-aronian-fide-pay-tribute-to-naroditsky",
          "pubDate" : "Wed, 22 Oct 2025 17:41:59",
          "title" : "Carlsen, Top Players Pay Tribute To Naroditsky As Chess World Mourns"
-      },
-      {
-         "description" : "The eighth edition of the Salamanca Chess Festival is taking place on 22-25 at the \"Centro Internacional del Español\" in the city's prestigious university. The Masters Tournament, featuring four men and four women, is a single round-robin with a time control of 30 minutes plus 5-second increments. Follow the games live with computer-assisted analysis starting at 16.00 CEST (10.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/salamanca-festival-2025-live",
-         "pubDate" : "Wed, 22 Oct 2025 16:00:00",
-         "title" : "Salamanca Chess Festival - Live!"
       },
       {
          "description" : "The ECF will be running two courses on the 15th and 16th November as follows &#8212; A Swiss Manager course on Saturday 15th November, starting at 10am and lasting until...",
