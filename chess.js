@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124781492.cms\" />Estonian chess talent Mai Narva achieved a remarkable feat by winning the Global Chess League (GCL) Contenders Knockout while simultaneously competing in the European Team Chess Championship. The 26-year-old International Master (IM) juggled over-the-board classical games with online rapid matches, securing the Women's Contenders champion title and earning the GCL 2025 Ambassador role.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-from-a-country-of-new-delhis-size-chess-gets-stressful-when-juggling-two-tournaments-in-a-day/articleshow/124781492.cms",
+         "pubDate" : "Fri, 24 Oct 2025 09:27:26",
+         "title" : "Exclusive | The Estonian who played two chess tournaments in two formats on same day - and came out a champion"
+      },
+      {
          "description" : "The battle for the European Club Cup title tightened as Alkaloid (pictured, right) and SuperChess pulled ahead with perfect 10/10 match points. Both teams scored 4-2 victories, defeating Novy Bor and Bayegan Pendik respectively, and will now meet in a crucial penultimate-round clash. In the women's section, Cercle d'Echecs Monte Carlo maintained their flawless run by narrowly beating Crvena Zvezda, while Sirmium Sremska Mitrovica moved into clear second after a dominant win over Tajfun SK Ljubljana. | Photo: Patricia Claros",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/not-d-gukesh-or-r-praggnanandhaa-india-pin-freestyle-chess-finals-hopes-on-one-star/articleshow/124776299.cms",
          "pubDate" : "Fri, 24 Oct 2025 04:42:12",
          "title" : "Not Gukesh or Pragg! India pin Freestyle Chess Finals hopes on one star"
+      },
+      {
+         "description" : "GM Fabiano Caruana kept his half-point lead over GM Wesley So as both top GMs won their game in the penultimate round of the&#38;nbsp;2025 U.S. Chess Championship on Thursday in St. Louis. GM Levon Aronian drew his game and is now a point behind So. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-us-championship-round-10",
+         "pubDate" : "Fri, 24 Oct 2025 03:21:00",
+         "title" : "Caruana, So Keep Winning; Yip Grabs Sole Lead"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124774385.cms\" />American Grandmaster Daniel Naroditsky, 29, has died, leaving the chess community in shock. His mother revealed his deep concern for his dignity as a player, especially after facing cheating accusations from Vladimir Kramnik. Naroditsky's passing tragically interrupts plans for family visits and his birthday celebration.",
@@ -714,14 +730,6 @@ news_feed (
          "title" : "25th European Teams 2025 - Games and Results"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124553919.cms\" />World champion D Gukesh is the top seed at the FIDE World Cup in Goa, running October 30 to November 27. Indian stars Arjun Erigaisi and R Praggnanandhaa are seeded second and third, respectively. The prestigious tournament features 206 players and offers three direct qualification spots for the 2026 Candidates Tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-d-gukesh-top-seed-for-goa-event-arjun-erigaisi-r-praggnanandhaa-seeded-second-and-third/articleshow/124553919.cms",
-         "pubDate" : "Tue, 14 Oct 2025 13:28:08",
-         "title" : "Chess WC: Gukesh top seed; Erigaisi, Pragg seeded second and third"
-      },
-      {
          "description" : "GM Jose Martinez of Mexico, IM Mai Narva of Estonia, and IM Faustino Oro of Argentina emerged winners of the Men, Women, and U21 sections, respectively, of the month-long 2025 GCL Contenders held on the Chess.com platform. They all qualified as Am...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -768,14 +776,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/as-india-readies-to-host-chess-world-cup-nationals-witness-monkey-invasion-power-cuts-and-leaking-tents/articleshow/124548274.cms",
          "pubDate" : "Tue, 14 Oct 2025 09:04:12",
          "title" : "Monkeys, power cuts and leaks: How India hosted chess Nationals"
-      },
-      {
-         "description" : "GMs Wesley So and Sam Shankland joined GMs Fabiano Caruana and Levon Aronian in a four-way tie for the 2025 U.S. Chess Championship lead on 1.5/2 after scoring the only wins in round two. So beat his old college roommate GM Ray Robson&#38;nbsp;while S...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-us-championship-round-2",
-         "pubDate" : "Tue, 14 Oct 2025 02:57:00",
-         "title" : "So, Shankland Join Lead As Caruana Escapes; Sargsyan On Perfect Score"
       },
       {
          "description" : " ﻿﻿ Join GMs Yasser Seirawan &#038; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 2 &#124; GAME LINKS ROBSON VS SO RESULT: 0-1 OPARIN VS NIEMANN RESULT: 1/2-1/2 MISHRA VS SEVIAN RESULT: 1/2-1/2 SHANKLAND VS SWIERCZ RESULT: 1-0 ARONIAN VS LIANG RESULT: 1/2-1/2 CARUANA VS WOODWARD RESULT: 1/2-1/2 ﻿﻿ [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-2-fabi-barely-survives-woodward-uschesschamps/\">POSTGAME ROUND 2: Fabi Barely Survives Woodward #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
