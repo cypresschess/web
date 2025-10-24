@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The battle for the European Club Cup title tightened as Alkaloid (pictured, right) and SuperChess pulled ahead with perfect 10/10 match points. Both teams scored 4-2 victories, defeating Novy Bor and Bayegan Pendik respectively, and will now meet in a crucial penultimate-round clash. In the women's section, Cercle d'Echecs Monte Carlo maintained their flawless run by narrowly beating Crvena Zvezda, while Sirmium Sremska Mitrovica moved into clear second after a dominant win over Tajfun SK Ljubljana. | Photo: Patricia Claros",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2025-5",
+         "pubDate" : "Fri, 24 Oct 2025 08:00:00",
+         "title" : "Euro Club Cup: Alkaloid and SuperChess keep on winning"
+      },
+      {
+         "description" : "Exactly one year ago, Robert Ris released an Underdog episode titled: 9-Year-Old Girl Defeats WIM Mariam Mkyrtchyan. Now, that same girl-Bodhana Sivanandan-is 10 years old, and once again finds herself the underdog, this time facing none other than GM Mariya Muzychuk! It appears that opponents whose names include the letters \"MKYC\" and \"H\" tend to inspire brilliancies from Bodhana. The young English prodigy is clearly on a mission to make sure that by 2026, no one will dare call her an underdog any more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/10-year-old-girl-wins-against-muzychuk-the-underdog",
+         "pubDate" : "Fri, 24 Oct 2025 07:45:17",
+         "title" : "10-Year-Old girl wins against Muzychuk - The Underdog"
+      },
+      {
+         "description" : " The Fide president, Arkady Dvorkovich, said that Kramnik, who is accused of unfounded allegations against Naroditsky, will be referred to its ethics disciplinary committee Fide has responded to the <a href=\"https://www.theguardian.com/sport/2025/oct/20/daniel-naroditsky-dies-chess-grandmaster\">death of Daniel Naroditsky</a> by promising to take faster action over allegations by former world champion Vladimir Kramnik, which were made without significant evidence. The Fide president, Arkady Dvorkovich, announced on Wednesday that the case will be referred to its ethics and disciplinary committee, which has the power to ban players for life. The omens for that are not promising. A similar refe",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/oct/24/chess-fide-to-discipline-vladimir-kramnik-over-daniel-naroditsky-cheating-allegations",
+         "pubDate" : "Fri, 24 Oct 2025 07:00:37",
+         "title" : "Chess: Fide to 'discipline' Kramnik over Naroditsky cheating allegations"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124777201.cms\" />American grandmaster Daniel Naroditsky died by suicide after facing repeated accusations of cheating in online chess games from former world champion Vladimir Kramnik. His mother stated that Naroditsky's dignity was paramount, and Kramnik's relentless campaign destroyed it. FIDE is investigating Kramnik's remarks, highlighting the severe consequences of online harassment.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/vladimir-kramnik-faces-ethics-heat-after-death-of-daniel-naroditsky/articleshow/124777201.cms",
+         "pubDate" : "Fri, 24 Oct 2025 05:09:02",
+         "title" : "Vladimir Kramnik faces ethics heat after death of Daniel Naroditsky"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124776299.cms\" />India's Arjun Erigaisi will be the sole Indian representative at the inaugural Freestyle Chess Grand Slam Finals in South Africa this December. Competing against a star-studded field including Magnus Carlsen, the young Indian prodigy faces a unique challenge in the randomized starting position format. This event promises a blend of intense chess and cultural celebration.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/not-d-gukesh-or-r-praggnanandhaa-india-pin-freestyle-chess-finals-hopes-on-one-star/articleshow/124776299.cms",
+         "pubDate" : "Fri, 24 Oct 2025 04:42:12",
+         "title" : "Not Gukesh or Pragg! India pin Freestyle Chess Finals hopes on one star"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124774385.cms\" />American Grandmaster Daniel Naroditsky, 29, has died, leaving the chess community in shock. His mother revealed his deep concern for his dignity as a player, especially after facing cheating accusations from Vladimir Kramnik. Naroditsky's passing tragically interrupts plans for family visits and his birthday celebration.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -64,14 +104,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/the-baroness-and-the-pink-doughnut-carl-portman/",
          "pubDate" : "Thu, 23 Oct 2025 09:24:28",
          "title" : "The Baroness and the pink doughnut - Carl Portman"
-      },
-      {
-         "description" : "After four rounds of the European Club Cup in Batumi, Alkaloid (pictured, right), Novy Bor and SuperChess share the lead in the open section with perfect 8/8 match points. Limhamns from Sweden have emerged as the surprise contenders after defeating MTK Budapest. In the women's event, Cercle d'Echecs Monte Carlo are the sole leaders with a flawless 8/8 record, followed by Tajfun SK Ljubljana, Sirmium Sremska Mitrovica and Crvena Zvezda two match points behind. | Photo: Patricia Claros",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2025-4",
-         "pubDate" : "Thu, 23 Oct 2025 07:25:00",
-         "title" : "Euro Club Cup: Alkaloid, SuperChess and Novy Bor still perfect"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124751170.cms\" />Chess world mourns Grandmaster Daniel Naroditsky, aged 29. Former champion Pravin Thipsay praised his talent. Naroditsky's death is surrounded by mystery. Some criticize Vladimir Kramnik for past cheating accusations against Naroditsky. Experts suggest focusing on Naroditsky's contributions and the impact of online chess and social media on mental health.",
@@ -826,14 +858,6 @@ news_feed (
          "title" : "Annoyed At Clickbait Videos? Do this."
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124475201.cms\" />Garry Kasparov triumphed over Viswanathan Anand in the Clutch Chess Legends, securing victory with two games to spare. This win, occurring 30 years after their 1995 World Championship clash, saw Kasparov earn $78,000. Despite a significant lead, Kasparov remained focused, attributing Anand's struggles to past psychological pressures. He expressed satisfaction with exceeding expectations and his commitment to entertaining fans.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/in-battle-of-chess-legends-garry-kasparov-downs-viswanathan-anand-his-score-against-me-historically-is-bad/articleshow/124475201.cms",
-         "pubDate" : "Sat, 11 Oct 2025 11:02:46",
-         "title" : "Kasparov downs Anand: 'His score against me historically is bad'"
-      },
-      {
          "description" : "In a commanding display of skill and teamwork, the Indian Railways Chess Team emerged as the champions of the World Railways Chess Championship 2025, held",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -856,14 +880,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/oct/10/chess-england-in-midfield-at-european-championships-and-medals-appear-unlikely",
          "pubDate" : "Fri, 10 Oct 2025 18:34:10",
          "title" : "Chess: England jump to fifth at European championships, with outside medal chance"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124455889.cms\" />Argentinian prodigy Faustino Oro, dubbed the 'Messi of Chess', and Indian GM Pranesh M are among 12 Grandmasters and International Masters joining the GCL Contenders 2025 Knockout Challengers Round. Over 11,500 players initially registered, with top performers now set to compete against these elite players for ambassador spots in the Global Chess League season 3.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-lionel-messi-of-chess-faustino-oro-indias-m-pranesh-among-gms-joining-gcl-contenders-2025-knock-out-challengers/articleshow/124455889.cms",
-         "pubDate" : "Fri, 10 Oct 2025 13:47:46",
-         "title" : "GCL: 'Lionel Messi of chess' Oro, Pranesh among GMs joining Contenders"
       },
       {
          "description" : "On behalf of All India Chess Federation , Maharashtra Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Children's Welfare School Versova Andheri West Mumbai-400061",
@@ -952,14 +968,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/grand-chess-tour-finals-2025",
          "pubDate" : "Fri, 3 Oct 2025 22:08:00",
          "title" : "Grand Chess Tour Finals 2025 - Games and Results"
-      },
-      {
-         "description" : " The Argentinian looks set to break the record for the youngest GM after winning the Legends and Prodigies tournament in Madrid Faustino Oro, the 11-year-old \"chess Messi\" from Argentina, set new world records for his age when he won last week's Legends and Prodigies tournament in Madrid with an unbeaten 7.5/9, achieving his first grandmaster norm (of three needed for the title) with 1.5 points to spare, plus a 2509 GM rating on Fide's <a href=\"https://ratings.fide.com/top_lists.phtml?list=juniors\">October rating list</a>. Oro is the first under-12 in chess history to be rated 2500-plus. His next target will be his second and third GM norms, and with them Abhimanyu Mishra's world record as t",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/oct/03/chess-messi-faustino-oro-achieves-grandmaster-norm-and-2500-rating-at-just-11",
-         "pubDate" : "Fri, 03 Oct 2025 07:00:28",
-         "title" : "'Chess Messi' Faustino Oro achieves grandmaster norm and 2500 rating at just 11"
       }
    ]
 }
