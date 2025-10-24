@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Heading into the last round of the European Chess Club Cup 2025, SuperChess emerged as the sole leader of the Open tournament, while Cercle d'Echecs de Monte-Carlo kept the leading position in Women's section and remained on perfect score! The direct match between the leaders of the Open section marked the 6th round, with SuperChess from Romania against Alkaloid from North Macedonia. The match proved tightly contested, with five boards ending in draws. The decisive result came on the top []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/superchess-and-cercle-dechecs-de-monte-carlo-leading-european-chess-club-cups/",
+         "pubDate" : "Fri, 24 Oct 2025 19:11:28",
+         "title" : "SuperChess and Cercle d'Echecs de Monte-Carlo leading European Chess Club Cups"
+      },
+      {
+         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
+         "pubDate" : "Fri, 24 Oct 2025 19:00:00",
+         "title" : "US Chess Championships - Live!"
+      },
+      {
          "description" : "The Freestyle Chess Grand Slam 2025 will conclude in South Africa with a final event from 8 to 11 December. At the Grootbos Private Nature Reserve in the Western Cape Province, eight of the world's best players, including Magnus Carlsen and Fabiano Caruana, will compete both for the tournament victory and the series title. | Photo: Freestyle Chess/ Grootbos",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-club-cup-2025-live",
          "pubDate" : "Fri, 24 Oct 2025 14:00:00",
          "title" : "European Club Cup - Live!"
+      },
+      {
+         "description" : "IM Renato Terry won Freestyle Friday on October 24 by taking his last six games, breaking a tie with GM Jules Moussard in the final round by winning head-to-head with Black. The win was Terry&#39;s second in Freestyle Friday, the first coming back in ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/terry-wins-freestyle-friday-october-24-2025",
+         "pubDate" : "Fri, 24 Oct 2025 10:45:08",
+         "title" : "Wide Open Freestyle Friday Goes To Terry"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124781492.cms\" />Estonian chess talent Mai Narva achieved a remarkable feat by winning the Global Chess League (GCL) Contenders Knockout while simultaneously competing in the European Team Chess Championship. The 26-year-old International Master (IM) juggled over-the-board classical games with online rapid matches, securing the Women's Contenders champion title and earning the GCL 2025 Ambassador role.",
@@ -58,7 +82,7 @@ news_feed (
          "title" : "Not Gukesh or Pragg! India pin Freestyle Chess Finals hopes on one star"
       },
       {
-         "description" : "GM Fabiano Caruana kept his half-point lead over GM Wesley So as both top GMs won their game in the penultimate round of the&#38;nbsp;2025 U.S. Chess Championship on Thursday in St. Louis. GM Levon Aronian drew his game and is now a point behind So. ...",
+         "description" : "GM Fabiano Caruana kept his half-point lead over GM Wesley So as both top GMs won their games in the penultimate round of the 2025 U.S. Chess Championship on Thursday in St. Louis. GM Levon Aronian drew his game and is now a point behind So. By ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-us-championship-round-10",
@@ -72,6 +96,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/he-played-more-and-more-to-prove-he-wasnt-a-cheater-daniel-naroditskys-mother-shares-heartbreaking-words/articleshow/124774385.cms",
          "pubDate" : "Fri, 24 Oct 2025 01:18:01",
          "title" : "'He played more and more to prove he wasn't a cheater' - Daniel Naroditsky's mother shares heartbreaking words"
+      },
+      {
+         "description" : "The penultimate round of the 2025 U.S. Championships saw both defending champions emerge as clear leaders after winning their games. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy SLCC/Lennart Ootes.<br> <br> <br> <br> In total, there were seven (!) decisive results between the two sections, clarifying the races for the top title but not closing the books just yet. Both GM Fabiano Caruana and IM Carissa Yip are only a half-point ahead of the rest of the field, making today's final round crucial. Open <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/defending-champions-lead-after-chaotic-round-10",
+         "pubDate" : "Fri, 24 Oct 2025 00:00:00",
+         "title" : "Defending Champions Lead After Chaotic Round 10"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Anastasia Karlovich for the top moments of today's games. ROUND 10 &#124; GAME LINKS LIANG VS ROBSON RESULT: 1-0SEVIAN VS NIEMANNRESULT: 1-0WOODWARD VS SHANKLAND RESULT: &frac12;-&frac12;SWIERCZ VS SORESULT: 0-1OPARIN VS ARONIAN RESULT: &frac12;-&frac12;CARUANA VS MISHRARESULT: 1-0 ROUND 10 &#124; GAME LINKS YU VS POURKASHIYAN RESULT: &frac12;-&frac12;PARAGUA [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-10/\">POSTGAME ROUND 10: Wesley Pounces! Earns Chance Tomorrow #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a",
@@ -88,14 +120,6 @@ news_feed (
          "link" : "https://www.europechess.org/alkaloid-and-superchess-co-lead-in-open-cercle-dechecs-de-monte-carlo-leads-in-womens-european-chess-club-cup/",
          "pubDate" : "Thu, 23 Oct 2025 23:14:12",
          "title" : "Alkaloid and SuperChess co-lead in Open, Cercle d'Echecs de Monte-Carlo leads in Women's European Chess Club Cup"
-      },
-      {
-         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
-         "pubDate" : "Thu, 23 Oct 2025 19:00:00",
-         "title" : "US Chess Championships - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124767413.cms\" />Viswanathan Anand inaugurated the Global Chess League's new Experience Centre in Plano, Dallas, a hub for chess, technology, and innovation. The centre aims to enhance fan engagement and player development through AI, analytics, and digital platforms. It will foster collaboration with universities and tech partners to shape the future of the game.",
@@ -146,7 +170,7 @@ news_feed (
          "title" : "Caruana Grabs Sole Lead; Women's U.S. Champs Wide Open As Zatonskih Beats Lee"
       },
       {
-         "description" : "Effective Nov. 1, 2025, there will no longer be a 30-day grace period to complete SafeSport Refresher trainings. Your TD certification will become inactive as soon as your previous training lapses and will be reactivated once you complete the required training. Note: You do not have to re-take a SafeSport training course. If your SafeSport certification is lapsing/has lapsed, you need to take the next course in the sequence:If your most recent course was the core course, you need to take Refresher 1.If your most recent course was Refresher 1, you need to take Refresher 2.If your most recent course was Refresher 2, you need to take Refresher 3.If your most recent course was Refresher 3, you n",
+         "description" : "Effective Nov. 1, 2025, there will no longer be a 30-day grace period to complete SafeSport Refresher trainings. Your TD certification will become inactive as soon as your previous training lapses and will be reactivated once you complete the required training.Note: You do not have to re-take a SafeSport training course. If your SafeSport certification is lapsing/has lapsed, you need to take the next course in the sequence:If your most recent course was the core course, you need to take Refresher 1.If your most recent course was Refresher 1, you need to take Refresher 2.If your most recent course was Refresher 2, you need to take Refresher 3.If your most recent course was Refresher 3, you ne",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/update-safesport-refresher-requirements-tournament-directors",
@@ -410,7 +434,7 @@ news_feed (
          "title" : "Caruana Bulldozes Niemann To Lead With So; Lee Becomes Sole Leader"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy SLCC/Lennart Ootes.<br> <br> <br> <br> GM Daniel Naroditsky, a former World Junior Champion and longtime member of the Charlotte Chess Center community, has died, the center said on Monday. He was 29.\"Daniel was a talented chess player, commentator, and educator, and a cherished member of the chess community, admired and respected by fans and players around the world,\" the center said in a statement attributed to the Naroditsky family.The center asked for \"privacy for Daniel's family during this extremely difficult time.\"\"Let us remember Daniel for his passion and love for the game of chess",
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy SLCC/Lennart Ootes.<br> <br> <br> <br> Update, Oct. 24, 2025: Naroditsky was a Chess Life columnist from June 2014 through March 2020. All of his columns can be downloaded here in a single .pdf file. GM Daniel Naroditsky, a former World Junior Champion and longtime member of the Charlotte Chess Center community, has died, the center said on Monday. He was 29.\"Daniel was a talented chess player, commentator, and educator, and a cherished member of the chess community, admired and respected by fans and players around the world,\" the center said in a statement attributed to the Naroditsky fami",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/gm-daniel-naroditsky-1995-2025",
@@ -424,14 +448,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-championships-action-heats-ultra-decisive-round-7",
          "pubDate" : "Mon, 20 Oct 2025 00:00:00",
          "title" : "U.S. Championships: Action Heats Up in Ultra-Decisive Round 7"
-      },
-      {
-         "description" : "US Chess Prepares to Launch New Membership Database and MUIR SystemOver the past few years, US Chess has made steady progress toward modernizing its digital infrastructure. The next major step in that journey is the launch of our new membership database - a system designed to strengthen the organization's ability to serve members efficiently, accurately, and in real time.This new database will be vital to US Chess's future operations. It will enable the federation to provide more timely information, enhanced member services, and improved communication. At the same time, it will reduce the amount of staff time needed to maintain internal systems, financial records, and donor data. The update ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/introducing-muir-member-uploads-information-and-reporting",
-         "pubDate" : "Mon, 20 Oct 2025 00:00:00",
-         "title" : "Introducing MUIR: Member Uploads, Information, and Reporting"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 7 &#124; GAME LINKS ROBSON VS ARONIAN RESULT: &frac12;-&frac12;SWIERCZ VS LIANG RESULT: 1-0SO VS WOODWARD RESULT: 1-0SHANKLAND VS MISHRA RESULT: 1-0NIEMANN VS CARUANA RESULT: 0-1SEVIAN VS OPARIN RESULT: 1-0 ROUND 7 &#124; GAME LINKS POURKASHIYAN VS [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-7/\">POSTGAME ROUND 7: Caruana's BIG TIME Win Over Hans! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -770,14 +786,6 @@ news_feed (
          "title" : "European Team Championships - Live!"
       },
       {
-         "description" : "WFM Alexandra Botez is best known for her career as a chess content creator and streamer, but now she&#39;s also entering game development with the launch of her first videogame. Co-produced with indie studio Millions of Monsters, Chess Arena reimagin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alexandra-botez-launches-chess-inspired-videogame",
-         "pubDate" : "Tue, 14 Oct 2025 09:21:00",
-         "title" : "Alexandra Botez Launches Chess-Inspired Videogame"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124548274.cms\" />While American chess players enjoy top-tier conditions, India's recent National Championship was marred by monkeys, power outages, and leaking tents. This stark contrast highlights significant issues in organizing major chess events domestically, raising concerns as India prepares to host the FIDE World Cup. Top players are questioning the country's commitment to its chess talent.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -832,14 +840,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/78th-russian-chess-championships-2025",
          "pubDate" : "Sun, 12 Oct 2025 19:07:00",
          "title" : "78th Russian Chess Championships 2025 - Games and Results"
-      },
-      {
-         "description" : "Only two rounds left to be played at the European Team Chess Championship 2025 in Batumi, Georgia, and Ukraine and Poland remained in the sole lead in Open and Women's sections (respectively). Today's 7th round was opened by Mrs. Meline Arakelian, Ambassador of Kingdom of the Netherlands to Georgia, who played the first ceremonial move in the game between GM Anish Giri and GM Ruslan Ponomariov. The top board match between the Netherlands and Ukraine finished with the final 2.5-1.5 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ukraine-and-poland-remain-in-the-sole-lead-at-european-open-and-womens-team-chess-championship-2025/",
-         "pubDate" : "Sun, 12 Oct 2025 18:10:46",
-         "title" : "Ukraine and Poland remain in the sole lead at European Open and Women's Team Chess Championship 2025"
       },
       {
          "description" : "Already in the second round of the famous Hastings tournament of 1895, two of the favourites faced each other in a tough and complex battle. After just thirteen moves, the game had reached a semi-endgame with two rooks and two minor pieces each. Lasker held the pair of bishops, but it was Chigorin with the pair of knights who emerged victorious in the end. The game made history, and its course has been interpreted very differently over time. We invite our readers to join us in the search for new insights.",
