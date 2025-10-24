@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 10 &#124; GAME LINKS LIANG VS ROBSON RESULT: 1-0SEVIAN VS NIEMANNRESULT: 1-0WOODWARD VS SHANKLAND RESULT: &frac12;-&frac12;SWIERCZ VS SORESULT: 0-1OPARIN VS ARONIAN RESULT: &frac12;-&frac12;CARUANA VS MISHRARESULT: 1-0 ROUND 10 &#124; GAME LINKS YU VS POURKASHIYAN RESULT: &frac12;-&frac12;PARAGUA [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-10/\">2025-us-chess-championships-postgame-round-10</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124774385.cms\" />American Grandmaster Daniel Naroditsky, 29, has died, leaving the chess community in shock. His mother revealed his deep concern for his dignity as a player, especially after facing cheating accusations from Vladimir Kramnik. Naroditsky's passing tragically interrupts plans for family visits and his birthday celebration.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/he-played-more-and-more-to-prove-he-wasnt-a-cheater-daniel-naroditskys-mother-shares-heartbreaking-words/articleshow/124774385.cms",
+         "pubDate" : "Fri, 24 Oct 2025 01:18:01",
+         "title" : "'He played more and more to prove he wasn't a cheater' - Daniel Naroditsky's mother shares heartbreaking words"
+      },
+      {
+         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Anastasia Karlovich for the top moments of today's games. ROUND 10 &#124; GAME LINKS LIANG VS ROBSON RESULT: 1-0SEVIAN VS NIEMANNRESULT: 1-0WOODWARD VS SHANKLAND RESULT: &frac12;-&frac12;SWIERCZ VS SORESULT: 0-1OPARIN VS ARONIAN RESULT: &frac12;-&frac12;CARUANA VS MISHRARESULT: 1-0 ROUND 10 &#124; GAME LINKS YU VS POURKASHIYAN RESULT: &frac12;-&frac12;PARAGUA [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-10/\">POSTGAME ROUND 10: Wesley Pounces! Earns Chance Tomorrow #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-10/",
          "pubDate" : "Thu, 23 Oct 2025 23:26:21",
-         "title" : "2025-us-chess-championships-postgame-round-10"
+         "title" : "POSTGAME ROUND 10: Wesley Pounces! Earns Chance Tomorrow #USChessChamps"
       },
       {
          "description" : "After five played rounds in the European Chess Club Cup 2025, only two teams in the Open section maintained the perfect score and co-lead with only two rounds to go: Alkaloid and SuperChess, while Cercle d'Echecs de Monte-Carlo kept the sole lead in the Women's event. Alkaloid from North Macedonia was convincing against the defending Champions Novy Bor from Czech Republic. Alkaloid won the match with the final score of 4-2, with wins by GM Arjun Erigaisi who crushed GM []",
@@ -856,14 +864,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-lionel-messi-of-chess-faustino-oro-indias-m-pranesh-among-gms-joining-gcl-contenders-2025-knock-out-challengers/articleshow/124455889.cms",
          "pubDate" : "Fri, 10 Oct 2025 13:47:46",
          "title" : "GCL: 'Lionel Messi of chess' Oro, Pranesh among GMs joining Contenders"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124446426.cms\" />Viswanathan Anand missed crucial opportunities against Garry Kasparov in the Clutch Chess Legends, allowing the Russian to extend his lead. Anand's time trouble and blunders contributed to his losses, though he still has a mathematical chance on the final day. Kasparov expressed surprise at his good fortune.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-misses-key-chances-as-kasparov-extends-lead-in-clutch-chess-legends/articleshow/124446426.cms",
-         "pubDate" : "Fri, 10 Oct 2025 06:38:15",
-         "title" : "Anand misses key chances as Kasparov extends lead in Clutch Chess Legends"
       },
       {
          "description" : "On behalf of All India Chess Federation , Maharashtra Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Children's Welfare School Versova Andheri West Mumbai-400061",
