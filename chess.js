@@ -18,14 +18,6 @@ news_feed (
          "title" : "US Chess Championships - Live!"
       },
       {
-         "description" : "The Freestyle Chess Grand Slam 2025 will conclude in South Africa with a final event from 8 to 11 December. At the Grootbos Private Nature Reserve in the Western Cape Province, eight of the world's best players, including Magnus Carlsen and Fabiano Caruana, will compete both for the tournament victory and the series title. | Photo: Freestyle Chess/ Grootbos",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-finals-preview",
-         "pubDate" : "Fri, 24 Oct 2025 15:50:00",
-         "title" : "Freestyle Chess Grand Slam Finals to take place in South Africa"
-      },
-      {
          "description" : "The European Club Cup is taking place on 19-25 October in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from around the world. The seven-round event features a number of elite players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -968,14 +960,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/chess-training-during-busy-times/",
          "pubDate" : "Sat, 04 Oct 2025 13:00:00",
          "title" : "How To Train Chess When Real Life Things Happen"
-      },
-      {
-         "description" : " The Grand Chess Tour Finals took place in Sao Paulo Sunday 28th to Friday 3rd October. Players: Maxime Vachier-Lagrave, Praggnanandhaa, Levon Aronian and Fabiano Caruana. This is a knockout where they play a mix of Classical, rapid and blitz. Classical Games: 6 points for a win, 3 points for a draw and 0 points for a loss, Rapid Games: 4 points for a win, 2 points for a draw and 0 points for a loss, Blitz Games: 2 points for a win, 1 point for a draw and 0 points for a loss. Fabiano Caruana beat MVL in the final but only after coming from behind winning three blitz games in a row and then surviving a lost position in the fourth. Levon Aronian qualified for next year's tour beating Praggnana",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/grand-chess-tour-finals-2025",
-         "pubDate" : "Fri, 3 Oct 2025 22:08:00",
-         "title" : "Grand Chess Tour Finals 2025 - Games and Results"
       }
    ]
 }
