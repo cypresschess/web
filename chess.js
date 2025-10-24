@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Freestyle Chess Grand Slam 2025 will conclude in South Africa with a final event from 8 to 11 December. At the Grootbos Private Nature Reserve in the Western Cape Province, eight of the world's best players, including Magnus Carlsen and Fabiano Caruana, will compete both for the tournament victory and the series title. | Photo: Freestyle Chess/ Grootbos",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-finals-preview",
+         "pubDate" : "Fri, 24 Oct 2025 15:50:00",
+         "title" : "Freestyle Chess Grand Slam Finals to take place in South Africa"
+      },
+      {
+         "description" : "The European Club Cup is taking place on 19-25 October in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from around the world. The seven-round event features a number of elite players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2025-live",
+         "pubDate" : "Fri, 24 Oct 2025 14:00:00",
+         "title" : "European Club Cup - Live!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124781492.cms\" />Estonian chess talent Mai Narva achieved a remarkable feat by winning the Global Chess League (GCL) Contenders Knockout while simultaneously competing in the European Team Chess Championship. The 26-year-old International Master (IM) juggled over-the-board classical games with online rapid matches, securing the Women's Contenders champion title and earning the GCL 2025 Ambassador role.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-from-a-country-of-new-delhis-size-chess-gets-stressful-when-juggling-two-tournaments-in-a-day/articleshow/124781492.cms",
          "pubDate" : "Fri, 24 Oct 2025 09:27:26",
          "title" : "Exclusive | The Estonian who played two chess tournaments in two formats on same day - and came out a champion"
-      },
-      {
-         "description" : "The battle for the European Club Cup title tightened as Alkaloid (pictured, right) and SuperChess pulled ahead with perfect 10/10 match points. Both teams scored 4-2 victories, defeating Novy Bor and Bayegan Pendik respectively, and will now meet in a crucial penultimate-round clash. In the women's section, Cercle d'Echecs Monte Carlo maintained their flawless run by narrowly beating Crvena Zvezda, while Sirmium Sremska Mitrovica moved into clear second after a dominant win over Tajfun SK Ljubljana. | Photo: Patricia Claros",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2025-5",
-         "pubDate" : "Fri, 24 Oct 2025 08:00:00",
-         "title" : "Euro Club Cup: Alkaloid and SuperChess keep on winning"
       },
       {
          "description" : "Exactly one year ago, Robert Ris released an Underdog episode titled: 9-Year-Old Girl Defeats WIM Mariam Mkyrtchyan. Now, that same girl-Bodhana Sivanandan-is 10 years old, and once again finds herself the underdog, this time facing none other than GM Mariya Muzychuk! It appears that opponents whose names include the letters \"MKYC\" and \"H\" tend to inspire brilliancies from Bodhana. The young English prodigy is clearly on a mission to make sure that by 2026, no one will dare call her an underdog any more.",
