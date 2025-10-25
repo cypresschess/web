@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The US Chess Championships took place in Saint Louis Sun 12th Oct to Sat 25th Oct 2025. Players: Fabiano Caruana, Wesley So, Hans Moke Niemann, Levon Aronian, Awonder Liang, Samuel Sevian, Ray Robson, Grigoriy Oparin, Sam Shankland, Abhimanyu Mishra, Andy Woodward and Dariusz Swiercz. Women: Carissa Yip, Alice Lee, Tatev Abrahamyan, Irina Krush, Anna Sargsyan, Rose Atwell, Thalia Cervantes Landeiro, Anna Zatonskih, Nazi Paikidze, Atousa Pourkashiyan, Megan Althea Paragua and Jennifer Yu. Fabiano Caruana won his fourth title in a row, his fifth in total. Carissa Yip won the women's title finishing with 6.5/7 after a slow start.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/us-chess-championships-2025",
+         "pubDate" : "Sat, 25 Oct 2025 18:39:00",
+         "title" : "US Chess Championships 2025 - Games and Results"
+      },
+      {
+         "description" : " Carissa Yip has claimed her fourth U.S. Women's Chess Championship title in five years, securing victory in the final round with a win against Thalia Cervantes Landeiro with the black pieces. The turning point came after Cervantes' mistake with 19.Bd4?, compounded by 21.Rad1?, leaving Yip clearly winning. Meanwhile her closest rival Anna Sargsyan was the beneficiary of a very serious blunder 34.Re1? (34.Rd3!=) by Alice Lee which was almost immediately decisive, she took second place alone after Irina Krush could only draw against her long term rival Anna Zatonskih. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/carissa-yip-wins-her-fourth-womens-title-in-five-years",
+         "pubDate" : "Sat, 25 Oct 2025 18:33:00",
+         "title" : "Carissa Yip wins her fourth women's title in five years - "
+      },
+      {
+         "description" : " Fabiano Caruana secured his fifth U.S. Championship, and fourth consecutive title, after a fairly quick final-round draw against Levon Aronian in Saint Louis. The result proved sufficient, but Caruana had to wait for Wesley So's game to finish to confirm his victory. A win by So over Grigoriy Oparin would have forced a playoff, but So had to settle for a draw, finishing in clear second place. Caruana had missed a golden opportunity to defeat So in Round 6, failing to convert a completely winning position. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/fabiano-caruana-wins-his-fifth-us-title",
+         "pubDate" : "Sat, 25 Oct 2025 18:29:00",
+         "title" : "Fabiano Caruana wins his fifth US title - "
+      },
+      {
+         "description" : " Daniel Naroditsky was a popular chess streamer and influencer who mixed humour with his skillful play and engaging commentary. Naroditsky, who would've turned 30 on November 9th, was found dead in his home days after his final stream, where he appeared extremely distraught and reflective of the bullying he suffered at the hands of Vladimir The post <a href=\"https://thechessdrum.net/blog/2025/10/25/daniel-naroditsky-and-the-chess-worlds-failure-on-bullying/\">Daniel Naroditsky and the Chess World's Failure on Bullying</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/10/25/daniel-naroditsky-and-the-chess-worlds-failure-on-bullying/",
+         "pubDate" : "Sat, 25 Oct 2025 17:50:03",
+         "title" : "Daniel Naroditsky and the Chess World's Failure on Bullying"
+      },
+      {
          "description" : "The European Club Cup is taking place on 19-25 October in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from around the world. The seven-round event features a number of elite players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -856,14 +888,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/lasker-chigorin-legendary-clash-of-two-bishops-vs-two-knights",
          "pubDate" : "Sun, 12 Oct 2025 15:00:00",
          "title" : "Lasker-Chigorin: A legendary clash of two bishops vs two knights"
-      },
-      {
-         "description" : " The US Chess Championships take place in Saint Louis Sun 12th Oct to Sat 25th Oct 2025. Players: Fabiano Caruana, Wesley So, Hans Moke Niemann, Levon Aronian, Awonder Liang, Samuel Sevian, Ray Robson, Grigoriy Oparin, Sam Shankland, Abhimanyu Mishra, Andy Woodward and Dariusz Swiercz. Women: Carissa Yip, Alice Lee, Tatev Abrahamyan, Irina Krush, Anna Sargsyan, Rose Atwell, Thalia Cervantes Landeiro, Anna Zatonskih, Nazi Paikidze, Atousa Pourkashiyan, Megan Althea Paragua and Jennifer Yu. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/us-chess-championships-2025",
-         "pubDate" : "Sat, 11 Oct 2025 21:16:00",
-         "title" : "US Chess Championships 2025 - Games and Results"
       },
       {
          "description" : "The internet is full of these lofty promises that make you feel like improving your chess will be easy. If you only watch this video or buy this course, you'll improve immediately 300 points. As you might have found out the hard way, that's not true. But you might wonder, why does online chess content []",
