@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Club Cup is taking place on 19-25 October in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from around the world. The seven-round event features a number of elite players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2025-live",
+         "pubDate" : "Sat, 25 Oct 2025 14:00:00",
+         "title" : "European Club Cup - Live!"
+      },
+      {
          "description" : "Michael Kotyk is a young chess coach from Hamburg. Below, he reviews Robert Ris's video course on the Colle & Zukertort System, an often underestimated system, but one that Kotyk has very personal memories of from his early days as a tournament player... | Photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fabiano-caruana-carissa-yip-win-2025-us-championships",
-         "pubDate" : "Sat, 25 Oct 2025 02:24:15",
+         "pubDate" : "Sat, 25 Oct 2025 02:24:00",
          "title" : "Caruana, Yip Repeat As U.S. Champions Once Again"
       },
       {
@@ -58,19 +66,11 @@ news_feed (
          "title" : "US Chess Championships - Live!"
       },
       {
-         "description" : "The European Club Cup is taking place on 19-25 October in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from around the world. The seven-round event features a number of elite players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2025-live",
-         "pubDate" : "Fri, 24 Oct 2025 14:00:00",
-         "title" : "European Club Cup - Live!"
-      },
-      {
          "description" : "IM Renato Terry won Freestyle Friday on October 24 by taking his last six games, breaking a tie with GM Jules Moussard in the final round by winning head-to-head with Black. The win was Terry&#39;s second in Freestyle Friday, the first coming back in ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/terry-wins-freestyle-friday-october-24-2025",
-         "pubDate" : "Fri, 24 Oct 2025 10:45:08",
+         "pubDate" : "Fri, 24 Oct 2025 10:45:00",
          "title" : "Wide Open Freestyle Friday Goes To Terry"
       },
       {
@@ -968,14 +968,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/checkmate-usa-vs-india-2025",
          "pubDate" : "Sun, 5 Oct 2025 11:10:00",
          "title" : "Checkmate: USA vs India 2025 - Games and Results"
-      },
-      {
-         "description" : "Having a plan is great. But then real life happens, and it gets chaotic real quick. The list of possible things to get between you and your scheduled training is endless. The key is not to avoid these that's impossible. What determines if you stick to your chess improvement is how you react to []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/chess-training-during-busy-times/",
-         "pubDate" : "Sat, 04 Oct 2025 13:00:00",
-         "title" : "How To Train Chess When Real Life Things Happen"
       }
    ]
 }
