@@ -18,6 +18,14 @@ news_feed (
          "title" : "Huge record! World No. 3 Caruana joins Fischer with US C'ship 2025 title"
       },
       {
+         "description" : "GM Fabiano Caruana and IM Carissa Yip repeated their U.S. Championship victories once again on Friday in St. Louis. Caruana tied GM Bobby Fischer&#39;s record of four consecutive U.S. titles, earning $76,000, while Yip has now won it three times back-...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fabiano-caruana-carissa-yip-win-2025-us-championships",
+         "pubDate" : "Sat, 25 Oct 2025 02:24:15",
+         "title" : "Caruana, Yip Repeat As U.S. Champions Once Again"
+      },
+      {
          "description" : "FIDE President Arkady Dvorkovich has announced that recent public statements made by GM Vladimir Kramnik, both before and after the death of GM Daniel Naroditsky, will be referred to the FIDE Ethics and Disciplinary Commission for review. In a statement emphasising respect, dignity and accountability within the chess community, Dvorkovich reaffirmed FIDE's commitment to act against harassment or bullying and to uphold integrity and humanity as guiding principles of the sport.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-october-14-2025",
          "pubDate" : "Tue, 14 Oct 2025 12:26:57",
          "title" : "\"Daddy Carlsen\" Wins Third Titled Tuesday Of Season"
-      },
-      {
-         "description" : "The featured match in the third week of the Collegiate Chess League (CCL) saw IM Roman Pyrih escape from two lost positions to score a perfect 4-0 and lead his Texas Tech University (TTU) chess team to their first victory of the season. It was a t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2025-ccl-fall-week-3-ttu-utrgv",
-         "pubDate" : "Tue, 14 Oct 2025 12:08:24",
-         "title" : "Pyrih, Texas Tech Win Lonestar State Battle In CCL Week Three"
       },
       {
          "description" : "The ninth and final round of the European Team Championships will determine the medal winners. In the Open Ukraine and Azerbaijan fight for victory, in the Women's Tournament Poland is in the lead, but Ukraine and Germany can still hope to win. | Watch the games live with video commentary. Start: Around 10:00 CEST.",
