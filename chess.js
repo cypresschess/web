@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Michael Kotyk is a young chess coach from Hamburg. Below, he reviews Robert Ris's video course on the Colle & Zukertort System, an often underestimated system, but one that Kotyk has very personal memories of from his early days as a tournament player... | Photos: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-the-colle-system",
+         "pubDate" : "Sat, 25 Oct 2025 07:00:00",
+         "title" : "Review: The Colle System"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124798319.cms\" />Fabiano Caruana and Carissa Yip have clinched their US Chess Championship titles for 2025. Caruana secured his fifth overall championship with a fourth consecutive win, while Yip earned her fourth title with a third straight victory. Both champions displayed strategic prowess to maintain their leads and secure their dominant positions in the prestigious tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-huge-record-world-no-3-fabiano-caruana-joins-bobby-fischer-in-history-with-us-championship-2025-title/articleshow/124798319.cms",
+         "pubDate" : "Sat, 25 Oct 2025 03:38:26",
+         "title" : "Huge record! World No. 3 Caruana joins Fischer with US C'ship 2025 title"
+      },
+      {
          "description" : "FIDE President Arkady Dvorkovich has announced that recent public statements made by GM Vladimir Kramnik, both before and after the death of GM Daniel Naroditsky, will be referred to the FIDE Ethics and Disciplinary Commission for review. In a statement emphasising respect, dignity and accountability within the chess community, Dvorkovich reaffirmed FIDE's commitment to act against harassment or bullying and to uphold integrity and humanity as guiding principles of the sport.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -808,14 +824,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-2-fabi-barely-survives-woodward-uschesschamps/",
          "pubDate" : "Mon, 13 Oct 2025 23:34:20",
          "title" : "POSTGAME ROUND 2: Fabi Barely Survives Woodward #USChessChamps"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124524544.cms\" />Once the heart of global chess, Russia's dominance is fading amid geopolitical turmoil and FIDE sanctions. Belarus No. 1 Denis Lazavik reveals the struggles of young players: limited team opportunities, the temptation to switch federations, and the financial and logistical hurdles of competing internationally. Despite these challenges, Lazavik remains focused on climbing the rating ladder and chasing his World Championship dreams.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-russia-once-home-to-chess-now-home-breaker-we-cant-play-as-a-team-players-changing-federation/articleshow/124524544.cms",
-         "pubDate" : "Mon, 13 Oct 2025 23:30:00",
-         "title" : "Exclusive | Russia, once chess's home, now home-breaker: 'We can't play'"
       },
       {
          "description" : "The 8th round of the European Team Chess Championship 2025 was played today, and only one round left before the announcement of European Team Champions. Today's round was opened by the ECU President Mr. Zurab Azmaiparashvili and FIDE Secretary General Mr. Lukasz Turlej. They played the first ceremonial move in the game between IM Deimante Daulyte-Cornette (FRA, 2386) and IM Alina Kashlinskaya (POL, 2450) at the top Women's match of France vs Poland. An intense top board match of the []",
