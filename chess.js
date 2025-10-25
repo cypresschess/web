@@ -58,7 +58,7 @@ news_feed (
          "title" : "Huge record! World No. 3 Caruana joins Fischer with US C'ship 2025 title"
       },
       {
-         "description" : "GM Fabiano Caruana and IM Carissa Yip repeated their U.S. Championship victories once again on Friday in St. Louis. Caruana tied GM Bobby Fischer&#39;s record of four consecutive U.S. titles, earning $76,000, while Yip has now won it three times back-...",
+         "description" : "GM Fabiano Caruana and IM Carissa Yip repeated their U.S. Championship victories once again on Friday in St. Louis. Caruana was the first player since GM Bobby Fischer to win four consecutive U.S. titles, earning $67,000, while Yip has now won it ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fabiano-caruana-carissa-yip-win-2025-us-championships",
