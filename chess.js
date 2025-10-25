@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE President Arkady Dvorkovich has announced that recent public statements made by GM Vladimir Kramnik, both before and after the death of GM Daniel Naroditsky, will be referred to the FIDE Ethics and Disciplinary Commission for review. In a statement emphasising respect, dignity and accountability within the chess community, Dvorkovich reaffirmed FIDE's commitment to act against harassment or bullying and to uphold integrity and humanity as guiding principles of the sport.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-statement-vladimir-kramnik-october-2025",
+         "pubDate" : "Sat, 25 Oct 2025 01:15:00",
+         "title" : "FIDE statement regarding controversy surrounding Vladimir Kramnik"
+      },
+      {
+         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 11 &#124; GAME LINKS ARONIAN VS CARUANA RESULT: &frac12;-&frac12;MISHRA VS WOODWARD RESULT: &frac12;-&frac12;SO VS OPARIN RESULT: &frac12;-&frac12;ROBSON VS SEVIAN RESULT: &frac12;-&frac12;NIEMANN VS SWIERCZ RESULT: &frac12;-&frac12;SHANKLAND VS LIANG RESULT: &frac12;-&frac12; ROUND 11 &#124; GAME LINKS Cervantes [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-final/\">POSTGAME FINAL: Champions are Crowned! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-final/",
+         "pubDate" : "Fri, 24 Oct 2025 23:51:17",
+         "title" : "POSTGAME FINAL: Champions are Crowned! #USChessChamps"
+      },
+      {
          "description" : "Heading into the last round of the European Chess Club Cup 2025, SuperChess emerged as the sole leader of the Open tournament, while Cercle d'Echecs de Monte-Carlo kept the leading position in Women's section and remained on perfect score! The direct match between the leaders of the Open section marked the 6th round, with SuperChess from Romania against Alkaloid from North Macedonia. The match proved tightly contested, with five boards ending in draws. The decisive result came on the top []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -88,6 +104,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/he-played-more-and-more-to-prove-he-wasnt-a-cheater-daniel-naroditskys-mother-shares-heartbreaking-words/articleshow/124774385.cms",
          "pubDate" : "Fri, 24 Oct 2025 01:18:01",
          "title" : "'He played more and more to prove he wasn't a cheater' - Daniel Naroditsky's mother shares heartbreaking words"
+      },
+      {
+         "description" : "Stop me if you've heard this one before: GM Fabiano Caruana and IM Carissa Yip are this year's U.S. champions. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy SLCC/Lennart Ootes.<br> <br> The win makes it four years in a row (five overall) for Caruana and three years in a row (four overall) for Yip. It should be noted, though, that it's sort of \"four in a row\" for Yip, too, as, after winning in 2021, she skipped the 2022 event before winning in each 2023, 2024, and now 2025.Both Caruana and Yip entered the final day looking to protect a half-point lead, but took differen",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/caruana-yip-repeat-us-champions-again",
+         "pubDate" : "Fri, 24 Oct 2025 00:00:00",
+         "title" : "Caruana, Yip Repeat as U.S. Champions (Again!)"
       },
       {
          "description" : "The penultimate round of the 2025 U.S. Championships saw both defending champions emerge as clear leaders after winning their games. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy SLCC/Lennart Ootes.<br> <br> <br> <br> In total, there were seven (!) decisive results between the two sections, clarifying the races for the top title but not closing the books just yet. Both GM Fabiano Caruana and IM Carissa Yip are only a half-point ahead of the rest of the field, making today's final round crucial. Open <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br",
@@ -432,14 +456,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/gm-daniel-naroditsky-1995-2025",
          "pubDate" : "Mon, 20 Oct 2025 00:00:00",
          "title" : "GM Daniel Naroditsky (1995-2025)"
-      },
-      {
-         "description" : "Sunday saw eight decisive games in St. Louis, with players fighting for the win in contrasting fashions. While some players threw caution to the wind and embarked on audacious king walks in the middlegame, others embraced a more methodical and patient approach, squeezing the water out of drawn endgames a la Rubinstein. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Carissa Yip watches her competitors' games during Sunday's seventh round (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> With only four draws, Round 7 marks the bloodiest round in this year's championships so far. While co-leaders GM Fabiano Caruana and Wesley So pulled ahead to a fu",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-championships-action-heats-ultra-decisive-round-7",
-         "pubDate" : "Mon, 20 Oct 2025 00:00:00",
-         "title" : "U.S. Championships: Action Heats Up in Ultra-Decisive Round 7"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 7 &#124; GAME LINKS ROBSON VS ARONIAN RESULT: &frac12;-&frac12;SWIERCZ VS LIANG RESULT: 1-0SO VS WOODWARD RESULT: 1-0SHANKLAND VS MISHRA RESULT: 1-0NIEMANN VS CARUANA RESULT: 0-1SEVIAN VS OPARIN RESULT: 1-0 ROUND 7 &#124; GAME LINKS POURKASHIYAN VS [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-7/\">POSTGAME ROUND 7: Caruana's BIG TIME Win Over Hans! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -816,14 +832,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fermat-in-chess",
          "pubDate" : "Mon, 13 Oct 2025 08:32:12",
          "title" : "Fermat in Chess"
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-1-round-1-caruanas-epic-win-vs-oparin-uschesschamps/\">POSTGAME ROUND 1: Caruana's Epic Win vs. Oparin | #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-1-round-1-caruanas-epic-win-vs-oparin-uschesschamps/",
-         "pubDate" : "Mon, 13 Oct 2025 00:03:14",
-         "title" : "POSTGAME ROUND 1: Caruana's Epic Win vs. Oparin | #USChessChamps"
       },
       {
          "description" : " The 78th Russian Chess Championship and 75th Russian Women's Championship took place in Moscow 1st to 12th October 2025. The event was pretty weak compared to even the relatively recent past due to the war. Daniil Dubov, Vladislav Artemiev, Andrey Esipenko and Vladimir Malakhov were the top seeds but there were some young players too. Polina Shuvalova, Leya Garifullina, Olga Girya, Valentina Gunina and Alisa Galliamova were the leading women's players. 22 year old Arseniy Nesterov won the title for the first time with 6.5/11 half a point clear of Daniil Dubov, Andrey Esipenko and Vadim Zvjaginsev. Anna Shukhman won the women's event with 7/10 half a point clear of Leya Garifullina (who she ",
