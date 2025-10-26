@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 US Chess Championships concluded on Friday in Saint Louis, with both Fabiano Caruana and Carissa Yip successfully defending their national titles. Caruana secured his fourth consecutive US Championship - the first player to achieve this since Bobby Fischer - while Yip claimed her third straight US Women's Championship, and her fourth overall. | Pictured: The US champions alongside Rex and Jeanne Sinquefield | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2025-11",
+         "pubDate" : "Sun, 26 Oct 2025 18:05:00",
+         "title" : "Fabiano Caruana and Carissa Yip win US Championships, again!"
+      },
+      {
+         "description" : "The name of Andr&eacute; Danican Philidor still stands at the threshold of modern chess. He was the first to see the game as more than an affair of isolated brilliance - he saw it as a structure of ideas. Yet his chief musical work, the opera Tom Jones, contains no trace of chess. The two worlds []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/amadeus-ex-machina-chess-ai-and-music/",
+         "pubDate" : "Sun, 26 Oct 2025 16:58:57",
+         "title" : "Amadeus ex machina: chess, AI and music"
+      },
+      {
          "description" : "Any idea how long the longest recorded chess game was? How many moves were played? It was the year 1989 when Ivan Nikoli&#263 and Goran Arsović played stunning 269 moves! Not only that, the game was also very interesting, as Svitlana demonstrates in this episode. But, there was actually a second game, which was even longer!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -976,14 +992,6 @@ news_feed (
          "link" : "https://aicf.in/fide-world-u9-u17-rapid-blitz-chess-championships-2025-in-antalya-turkey-from-15th-to-21st-december-2025/",
          "pubDate" : "Tue, 07 Oct 2025 10:29:19",
          "title" : "FIDE World U9-U17 Rapid & Blitz Chess Championships - 2025 in Antalya, Turkey from 15th to 21st December, 2025"
-      },
-      {
-         "description" : "Leonard Barden's life has been unusual. His father was a dustman. He learnt chess at grammar school and sharpened his play in air raid shelters during the war. He never called himself a prodigy, yet by the early 1950s he was among the strongest players in the country. His career took a new turn when []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-doyen-leonard-barden/",
-         "pubDate" : "Sun, 05 Oct 2025 15:46:21",
-         "title" : "The doyen: Leonard Barden"
       }
    ]
 }
