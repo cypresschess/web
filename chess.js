@@ -26,7 +26,7 @@ news_feed (
          "title" : "Fabiano Caruana wins his fifth US title - "
       },
       {
-         "description" : " Daniel Naroditsky was a popular chess streamer and influencer who mixed humour with his skillful play and engaging commentary. Naroditsky, who would've turned 30 on November 9th, was found dead in his home days after his final stream, where he appeared extremely distraught and reflective of the bullying he suffered at the hands of Vladimir The post <a href=\"https://thechessdrum.net/blog/2025/10/25/daniel-naroditsky-and-the-chess-worlds-failure-on-bullying/\">Daniel Naroditsky and the Chess World's Failure on Bullying</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Daniel Naroditsky was a popular chess streamer and influencer who mixed humour with his skillful play and engaging commentary. Naroditsky, who would've turned 30 on November 9th, was found dead in his home days after his final stream. He appeared extremely distraught and reflective of the bullying he suffered at the hands of Vladimir Kramnik. The post <a href=\"https://thechessdrum.net/blog/2025/10/25/daniel-naroditsky-and-the-chess-worlds-failure-on-bullying/\">Daniel Naroditsky and the Chess World's Failure on Bullying</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/10/25/daniel-naroditsky-and-the-chess-worlds-failure-on-bullying/",
