@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124822470.cms\" />Indian chess stars shone brightly at the European Club Cup 2025. SuperChess clinched the Open title with a flawless record, while Cercle d'&eacute;checs de Monte-Carlo dominated the Women's competition. World Champion Gukesh and GM Divya Deshmukh delivered stellar performances, securing individual accolades and highlighting India's growing chess prowess on the global stage.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-double-gold-for-d-gukesh-divya-deshmukh-gm-nihal-sarin-abhimanyu-puranik-also-shine-at-european-club-cup/articleshow/124822470.cms",
+         "pubDate" : "Sun, 26 Oct 2025 05:25:13",
+         "title" : "Double gold for Gukesh, Divya; Sarin, Puranik also shine at ECC"
+      },
+      {
          "description" : " The US Chess Championships took place in Saint Louis Sun 12th Oct to Sat 25th Oct 2025. Players: Fabiano Caruana, Wesley So, Hans Moke Niemann, Levon Aronian, Awonder Liang, Samuel Sevian, Ray Robson, Grigoriy Oparin, Sam Shankland, Abhimanyu Mishra, Andy Woodward and Dariusz Swiercz. Women: Carissa Yip, Alice Lee, Tatev Abrahamyan, Irina Krush, Anna Sargsyan, Rose Atwell, Thalia Cervantes Landeiro, Anna Zatonskih, Nazi Paikidze, Atousa Pourkashiyan, Megan Althea Paragua and Jennifer Yu. Fabiano Caruana won his fourth title in a row, his fifth in total. Carissa Yip won the women's title finishing with 6.5/7 after a slow start.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/10/25/daniel-naroditsky-and-the-chess-worlds-failure-on-bullying/",
          "pubDate" : "Sat, 25 Oct 2025 17:50:03",
          "title" : "Daniel Naroditsky and the Chess World's Failure on Bullying"
-      },
-      {
-         "description" : "The European Club Cup is taking place on 19-25 October in Rhodes, Greece, bringing together no fewer than 122 teams and around 800 players from around the world. The seven-round event features a number of elite players, including Arjun Erigaisi, Anish Giri, Gukesh Dommaraju, Aleksandra Goryachkina and Zhu Jiner. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2025-live",
-         "pubDate" : "Sat, 25 Oct 2025 14:00:00",
-         "title" : "European Club Cup - Live!"
       },
       {
          "description" : "Michael Kotyk is a young chess coach from Hamburg. Below, he reviews Robert Ris's video course on the Colle & Zukertort System, an often underestimated system, but one that Kotyk has very personal memories of from his early days as a tournament player... | Photos: ChessBase",
@@ -840,14 +840,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-team-championships-live",
          "pubDate" : "Tue, 14 Oct 2025 10:00:00",
          "title" : "European Team Championships - Live!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124548274.cms\" />While American chess players enjoy top-tier conditions, India's recent National Championship was marred by monkeys, power outages, and leaking tents. This stark contrast highlights significant issues in organizing major chess events domestically, raising concerns as India prepares to host the FIDE World Cup. Top players are questioning the country's commitment to its chess talent.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/as-india-readies-to-host-chess-world-cup-nationals-witness-monkey-invasion-power-cuts-and-leaking-tents/articleshow/124548274.cms",
-         "pubDate" : "Tue, 14 Oct 2025 09:04:12",
-         "title" : "Monkeys, power cuts and leaks: How India hosted chess Nationals"
       },
       {
          "description" : " ﻿﻿ Join GMs Yasser Seirawan &#038; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 2 &#124; GAME LINKS ROBSON VS SO RESULT: 0-1 OPARIN VS NIEMANN RESULT: 1/2-1/2 MISHRA VS SEVIAN RESULT: 1/2-1/2 SHANKLAND VS SWIERCZ RESULT: 1-0 ARONIAN VS LIANG RESULT: 1/2-1/2 CARUANA VS WOODWARD RESULT: 1/2-1/2 ﻿﻿ [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-2-fabi-barely-survives-woodward-uschesschamps/\">POSTGAME ROUND 2: Fabi Barely Survives Woodward #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
