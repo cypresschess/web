@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 40th European Club Cup and 29th Club Cup for Women took place in Rhodes, Greece, 19th to 25th October 2025. The top teams are: BayeganPendik chess sports (TUR with Giri, Mamedyarov, Rapport, Sarin etc), Alkaloid (MKD, Erigaisi, Wei Yi, Yu Yangyi etc), Novi Bor (CZE with Keymer, Vidit, Harikrishna, Navara etc), SuperChess (ROU with Gukesh, Van Foreest, Maghsoodloo, Sarana). Cercle d'&eacute;checs de Monte-Carlo, Turkish Airlines sports club, Tajfun SK Ljubljana and SuperChess are the top seeds in the women's event. There were a wide variety of strengths of player competing. 4th seeds SuperChess took the title ahead of Alkaloid and Novy Bor. Cercle d'&eacute;checs de Monte-Carlo won the w",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/40th-european-club-cup-2025",
+         "pubDate" : "Sun, 26 Oct 2025 10:23:00",
+         "title" : "40th European Club Cup 2025 - Games and Results"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124824389.cms\" />Former World Champion Vladimir Kramnik faces intense backlash following the death of Grandmaster Daniel Naroditsky, now under investigation as a possible suicide. Kramnik, who previously accused Naroditsky of cheating without proof, expressed condolences but defended his actions, citing Naroditsky's alleged health issues. The chess world, including top players, has condemned Kramnik's campaign, with FIDE reviewing his conduct.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/vladimir-kramnik-on-daniel-naroditskys-tragic-death-i-was-the-only-person-in-the-chess-community/articleshow/124824389.cms",
+         "pubDate" : "Sun, 26 Oct 2025 08:00:37",
+         "title" : "Kramnik on Naroditsky's death: 'I was the only person in chess community'"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124822470.cms\" />Indian chess stars shone brightly at the European Club Cup 2025. SuperChess clinched the Open title with a flawless record, while Cercle d'&eacute;checs de Monte-Carlo dominated the Women's competition. World Champion Gukesh and GM Divya Deshmukh delivered stellar performances, securing individual accolades and highlighting India's growing chess prowess on the global stage.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -530,14 +546,6 @@ news_feed (
          "title" : "European Chess Club Cup 2025 kicked off in Rhodes"
       },
       {
-         "description" : " The 40th European Club Cup and 29th Club Cup for Women takes place in Rhodes, Greece, 19th to 25th October 2025. The top teams are: BayeganPendik chess sports (TUR with Giri, Mamedyarov, Rapport, Sarin etc), Alkaloid (MKD, Erigaisi, Wei Yi, Yu Yangyi etc), Novi Bor (CZE with Keymer, Vidit, Harikrishna, Navara etc), SuperChess (ROU with Gukesh, Van Foreest, Maghsoodloo, Sarana). Cercle d'&eacute;checs de Monte-Carlo, Turkish Airlines sports club, Tajfun SK Ljubljana and SuperChess are the top seeds in the women's event. There are a wide variety of strengths of player competing. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/40th-european-club-cup-2025",
-         "pubDate" : "Sun, 19 Oct 2025 13:04:00",
-         "title" : "40th European Club Cup 2025 - Games and Results"
-      },
-      {
          "description" : "GM Hikaru Nakamura won $45,000 in the inaugural 2025 Comet Open, an event that concluded on Sunday, October 19. He didn&#39;t lose a single one of his six matches, finally defeating GM Denis Lazavik 2.5-1.5 in the Grand Final. He earns $45,000, while ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-4-alices-win-falls-victim-to-a-carissa-tactic-uschesschamps/",
          "pubDate" : "Thu, 16 Oct 2025 00:12:05",
          "title" : "POSTGAME ROUND 4: Alice's Win Falls Victim to a Carissa Tactic! #USChessChamps"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124579629.cms\" />Norway Chess has unveiled the Total Chess World Championship Tour, a new annual event starting in 2027 featuring Fast Classic, Rapid, and Blitz formats. This FIDE-approved tour, with a substantial prize pool, aims to crown a unified champion across disciplines, complementing existing World Championships and potentially offering a path to the Candidates tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-organisers-launch-world-championship-tour/articleshow/124579629.cms",
-         "pubDate" : "Wed, 15 Oct 2025 12:41:00",
-         "title" : "Norway Chess organisers launch World Championship Tour"
       },
       {
          "description" : "GM Denis Lazavik defeated GM&#38;nbsp;Arjun Erigaisi&#38;nbsp;12-9 in the Speed Chess Championship 2025. The 3+1 segment separated the players, and GM Aman Hambleton aptly summarized it: &#34;I don&#39;t even recall Arjun playing a terrible match, Denis was just ...",
@@ -976,14 +976,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-doyen-leonard-barden/",
          "pubDate" : "Sun, 05 Oct 2025 15:46:21",
          "title" : "The doyen: Leonard Barden"
-      },
-      {
-         "description" : " The Checkmate: USA vs India match took place in Arlington, Virginia on October 4th. This is the projected first leg of two and the format was that the USA had white in every game as the home side, there will be an Indian leg where the colours will be reversed at some point in the future. There was one 10 minute game, if drawn a 5 minute game, if drawn a 1 minute game until a winner was found. USA won every one of the mini-matches between the teams which was a mix of strengths.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/checkmate-usa-vs-india-2025",
-         "pubDate" : "Sun, 5 Oct 2025 11:10:00",
-         "title" : "Checkmate: USA vs India 2025 - Games and Results"
       }
    ]
 }
