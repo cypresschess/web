@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2025-10-25","10","<a href=http://www.uschess.org/msa/XtblMain.php?202510257222 target='_blank'>CHESSPANDA10252025SATURDAY</a>",
+"HOUSTON","2025-10-25","62","<a href=http://www.uschess.org/msa/XtblMain.php?202510257182 target='_blank'>TCR: HOUSTON FALL SCHOLASTIC 2025</a>",
 "SUGAR LAND","2025-10-24","17","<a href=http://www.uschess.org/msa/XtblMain.php?202510246592 target='_blank'>FBCC 2025 NATIONAL FOOD DAY OPEN</a>",
 "CYPRESS","2025-10-24","46","<a href=http://www.uschess.org/msa/XtblMain.php?202510246562 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2025-10-24","19","<a href=http://www.uschess.org/msa/XtblMain.php?202510246542 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2025-04-19","6","<a href=http://www.uschess.org/msa/XtblMain.php?202504192902 target='_blank'>CHESSPANDA04192025SATURDAY</a>",
 "HOUSTON","2025-04-12","549","<a href=http://www.uschess.org/msa/XtblMain.php?202504128812 target='_blank'>T H ROGERS SCHOLASTIC</a>",
 "HOUSTON","2025-04-12","20","<a href=http://www.uschess.org/msa/XtblMain.php?202504127622 target='_blank'>APRIL 12TH - TROPHY SCHOLASTIC</a>",
-"HOUSTON","2025-04-12","5","<a href=http://www.uschess.org/msa/XtblMain.php?202504127592 target='_blank'>CHESSPANDA04122025CHESSPANDA</a>",
-"HOUSTON","2025-04-11","26","<a href=http://www.uschess.org/msa/XtblMain.php?202504117392 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
