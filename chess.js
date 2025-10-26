@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The 40th European Club Cup and 29th Club Cup for Women took place in Rhodes, Greece, 19th to 25th October 2025. The top teams are: BayeganPendik chess sports (TUR with Giri, Mamedyarov, Rapport, Sarin etc), Alkaloid (MKD, Erigaisi, Wei Yi, Yu Yangyi etc), Novi Bor (CZE with Keymer, Vidit, Harikrishna, Navara etc), SuperChess (ROU with Gukesh, Van Foreest, Maghsoodloo, Sarana). Cercle d'&eacute;checs de Monte-Carlo, Turkish Airlines sports club, Tajfun SK Ljubljana and SuperChess are the top seeds in the women's event. There were a wide variety of strengths of player competing. 4th seeds SuperChess took the title ahead of Alkaloid and Novy Bor. Cercle d'&eacute;checs de Monte-Carlo won the w",
+         "description" : "Any idea how long the longest recorded chess game was? How many moves were played? It was the year 1989 when Ivan Nikoli&#263 and Goran Arsović played stunning 269 moves! Not only that, the game was also very interesting, as Svitlana demonstrates in this episode. But, there was actually a second game, which was even longer!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-longest-game-ever-played",
+         "pubDate" : "Sun, 26 Oct 2025 14:00:00",
+         "title" : "Svitlana's Smart Moves - The longest game ever played"
+      },
+      {
+         "description" : "The 40th European Chess Club Cup and the 29th European Women's Chess Club Cup officially concluded yesterday in Rhodes, Greece. SuperChess clinched its maiden title in the Open tournament, while Cercle d'Echecs de Monte-Carlo won its 8th gold in the Women's section. Heading into the final round of the event, SuperChess (Romania) had a perfect score and 1 match point edge over Tuxera Aquaprofit Nagykanizsai Sakk klub (Hungary). The last round was marked with the direct encounter between the two []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-club-cup-2025-concluded-in-rhodes/",
+         "pubDate" : "Sun, 26 Oct 2025 13:34:37",
+         "title" : "European Chess Club Cup 2025 concluded in Rhodes"
+      },
+      {
+         "description" : " The 40th European Club Cup and 29th Club Cup for Women took place in Rhodes, Greece, 19th to 25th October 2025. The top teams were: <ul> <li> <strong>BayeganPendik chess sports</strong> (TUR with Giri, Mamedyarov, Rapport, Sarin, etc.)</li> <li> <strong>Alkaloid</strong> (MKD with Erigaisi, Wei Yi, Yu Yangyi, etc.)</li> <li> <strong>Novi Bor</strong> (CZE with Keymer, Vidit, Harikrishna, Navara, etc.)</li> <li> <strong>SuperChess</strong> (ROU with Gukesh, Van Foreest, Maghsoodloo, Sarana)</li> </ul> Cercle d'&eacute;checs de Monte-Carlo, Turkish Airlines sports club, Tajfun SK Ljubljana, and SuperChess were the top seeds in the women's event. There was a wide variety of player strengths co",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/40th-european-club-cup-2025",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/vladimir-kramnik-on-daniel-naroditskys-tragic-death-i-was-the-only-person-in-the-chess-community/articleshow/124824389.cms",
          "pubDate" : "Sun, 26 Oct 2025 08:00:37",
          "title" : "Kramnik on Naroditsky's death: 'I was the only person in chess community'"
+      },
+      {
+         "description" : "GM Javokhir Sindarov collected his first Bullet Brawl title and the event&#39;s $400 first prize after outpacing seven challengers on Saturday. Sindarov posted a score of 159 and eclipsed IM Yoseph Taher, GM Oleksandr Bortnyk, and IM Reza Mahdavi for ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/javokhir-sindarov-wins-bullet-brawl-oct-25-2025",
+         "pubDate" : "Sun, 26 Oct 2025 05:57:49",
+         "title" : "Sindarov Fends Off 7 Challengers, Wins 1st Bullet Brawl Title"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124822470.cms\" />Indian chess stars shone brightly at the European Club Cup 2025. SuperChess clinched the Open title with a flawless record, while Cercle d'&eacute;checs de Monte-Carlo dominated the Women's competition. World Champion Gukesh and GM Divya Deshmukh delivered stellar performances, securing individual accolades and highlighting India's growing chess prowess on the global stage.",
@@ -50,7 +74,7 @@ news_feed (
          "title" : "Fabiano Caruana wins his fifth US title - "
       },
       {
-         "description" : " Daniel Naroditsky was a popular chess streamer and influencer who mixed humour with his skillful play and engaging commentary. Naroditsky, who would've turned 30 on November 9th, was found dead in his home days after his final stream. He appeared extremely distraught and reflective of the bullying he suffered at the hands of Vladimir Kramnik. The post <a href=\"https://thechessdrum.net/blog/2025/10/25/daniel-naroditsky-and-the-chess-worlds-failure-on-bullying/\">Daniel Naroditsky and the Chess World's Failure on Bullying</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Daniel Naroditsky was a popular chess streamer and influencer who mixed humour with his skillful play and engaging commentary. Naroditsky, who would've turned 30 on November 9th, was found dead in his home days after his final stream. He appeared extremely distraught and reflective of the bullying he suffered at the hands of Russian Grandmaster The post <a href=\"https://thechessdrum.net/blog/2025/10/25/daniel-naroditsky-and-the-chess-worlds-failure-on-bullying/\">Daniel Naroditsky and the Chess World's Failure on Bullying</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/10/25/daniel-naroditsky-and-the-chess-worlds-failure-on-bullying/",
@@ -826,14 +850,6 @@ news_feed (
          "title" : "Jose Martinez, Mai Narva, Faustino Oro Win GCL Contenders"
       },
       {
-         "description" : "GM Magnus Carlsen won Titled Tuesday on October 14, his third of the Autumn Split and first since the recent birth of his son, leading commentator GM David Howell to dub the champion &#34;Daddy Carlsen.&#34; Carlsen flirted with a perfect score after reac...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-october-14-2025",
-         "pubDate" : "Tue, 14 Oct 2025 12:26:57",
-         "title" : "\"Daddy Carlsen\" Wins Third Titled Tuesday Of Season"
-      },
-      {
          "description" : "The ninth and final round of the European Team Championships will determine the medal winners. In the Open Ukraine and Azerbaijan fight for victory, in the Women's Tournament Poland is in the lead, but Ukraine and Germany can still hope to win. | Watch the games live with video commentary. Start: Around 10:00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -848,14 +864,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-2-fabi-barely-survives-woodward-uschesschamps/",
          "pubDate" : "Mon, 13 Oct 2025 23:34:20",
          "title" : "POSTGAME ROUND 2: Fabi Barely Survives Woodward #USChessChamps"
-      },
-      {
-         "description" : "The 8th round of the European Team Chess Championship 2025 was played today, and only one round left before the announcement of European Team Champions. Today's round was opened by the ECU President Mr. Zurab Azmaiparashvili and FIDE Secretary General Mr. Lukasz Turlej. They played the first ceremonial move in the game between IM Deimante Daulyte-Cornette (FRA, 2386) and IM Alina Kashlinskaya (POL, 2450) at the top Women's match of France vs Poland. An intense top board match of the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/one-round-to-go-at-the-european-team-chess-championship-2025/",
-         "pubDate" : "Mon, 13 Oct 2025 17:27:15",
-         "title" : "One round to go at the European Team Chess Championship 2025"
       },
       {
          "description" : "Pierre de Fermat (1601-1665) was a French mathematician who made pioneering contributions to analytic geometry, calculus, optics, and probability. He is best known for Fermat's Last Theorem, which famously remained unproven for over three centuries. Then, thirty years ago (in 1995), the mathematician Andrew Wiles published the comprehensive proof. In his book \"Chess Stories\" mathematician Prof Christian Hesse, told us how he applied Fermat's final conjecture to chess.",
