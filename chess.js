@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " RIP Mihai Suba (Bucharest 1 June 1947 - Spain 26 October 2025, aged 78) Suba was a Romanian-born chess player who became an International Master in 1975 and a Grandmaster in 1978. Suba didn't begin playing chess until the unusually late age of 19, yet within just a few years he had risen to become a formidable competitor. He was crowned Romanian Champion three times - in 1980, 1981, and 1985 - and narrowly missed qualifying for the Candidates Tournament after finishing third at the 1982 Las Palmas Interzonal. Among his tournament triumphs were first place at Dortmund 1983, and shared first at Prague 1985 and Timisoara 1987. In 1988, during the Lloyds Bank Masters in London, Suba defected fr",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/mihai-suba-1947-2025",
+         "pubDate" : "Sun, 26 Oct 2025 23:01:00",
+         "title" : "Mihai Suba 1947-2025 - "
+      },
+      {
+         "description" : "The 2025 European Youth Chess Championship is set to take place in Budva, Montenegro, from 28th of October to 8th of November. The event will be played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each tournament will be played in 9 rounds, swiss system, with time control of 90 minutes for the game with an increment of 30 seconds per move, starting from move one. The European Youth Chess Championship gathers []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-championship-2025-starts-in-montenegro/",
+         "pubDate" : "Sun, 26 Oct 2025 22:38:56",
+         "title" : "European Youth Chess Championship 2025 starts in Montenegro"
+      },
+      {
+         "description" : "Kazakhstan's capital, Astana, hosted a landmark celebration of inclusivity as the 2nd Chess Olympiad for People with Disabilities concluded on Republic Day. A record 34 teams took part in the over-the-board festival, which featured cultural performances, inspiring personal stories and fierce final-round battles. With FIDE confirming that future editions will be held alongside the main Olympiad starting in 2026, the event marked a major step toward full integration within the global chess community.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-people-disabilities-2025",
+         "pubDate" : "Sun, 26 Oct 2025 19:15:00",
+         "title" : "Winners crowned at Chess Olympiad for People with Disabilities"
+      },
+      {
          "description" : "The 2025 US Chess Championships concluded on Friday in Saint Louis, with both Fabiano Caruana and Carissa Yip successfully defending their national titles. Caruana secured his fourth consecutive US Championship - the first player to achieve this since Bobby Fischer - while Yip claimed her third straight US Women's Championship, and her fourth overall. | Pictured: The US champions alongside Rex and Jeanne Sinquefield | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -840,14 +864,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-3-paikidzes-dominate-class-topples-tatev-uschesschamps/",
          "pubDate" : "Tue, 14 Oct 2025 23:57:56",
          "title" : "POSTGAME ROUND 3: Paikidze's Dominate Class Topples Tatev! #USChessChamps"
-      },
-      {
-         "description" : "The European Team Chess Championship 2025 concluded today in Batumi, Georgia. Intense final round determined the Winners and Medalists in the Open section, as Ukraine and Azerbaijan headed into the last with a joint lead. Azerbaijan played against Serbia on the top board, while Ukraine faced England. Higher-rated team of Azerbaijan was the favourite in the match against Serbia, but Serbians took a convincing 3-1 victory with GM Alexey Sarana (SRB, 2661) defeating GM Shakhriyar Mamedyarov (AZE, 2742), GM Aleksandar []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ukraine-and-poland-are-european-team-chess-champions-2025/",
-         "pubDate" : "Tue, 14 Oct 2025 20:08:17",
-         "title" : "Ukraine and Poland are European Team Chess Champions 2025!"
       },
       {
          "description" : " The 25th European Team championships took place in Batumi, Georgia 5th to 14th October 2025. Leading players such as Anish Giri, Vincent Keymer, Shakhriyar Mamedyarov, Richard Rapport competed, the field had 56 players over 2600. In the women's event the leading players were Nana Dzagnidze, Nino Batsiashvili, Alexandra Kosteniuk etc. Ukraine won the event by beating England 2.5-1.5 in the final round. Azerbaijan finished second in spite of losing to Serbia in the last round whose win earned them a third place finish. In the women's event Poland beat Azerbaijan in the final round to take first place, Ukraine drew with Armenia to take second place and Germany finished third in spite of losing",
