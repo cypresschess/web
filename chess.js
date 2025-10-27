@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Did you solve the endgame puzzles we gave you last week? In the position shown, White had to move his rook to one of nine squares. But only moving it to e6 retained the win. How come? Today we give you the full solutions of all the four problems, in video explanations and on a replay board with engine assistance. It's a good way to master such tricky endgame situations.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-endgame-challenge-2",
+         "pubDate" : "Mon, 27 Oct 2025 11:25:26",
+         "title" : "Chess Endgame Challenge"
+      },
+      {
+         "description" : "The eighth edition of the Salamanca Masters once again brought top-level rapid chess to the historic Spanish city. Six players from five countries took part in a double round-robin event valid for FIDE rapid ratings, with world junior champion Pranav Venkatesh producing a dominant performance. The format maintained equal representation between male and female competitors, reflecting ongoing institutional support for the tournament's role within the international chess calendar. | Photos: University of Salamanca - USAL",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/salamanca-festival-2025-final-report",
+         "pubDate" : "Mon, 27 Oct 2025 10:35:00",
+         "title" : "Pranav dominates Salamanca Masters, scores 9&frac12; out of 10"
+      },
+      {
          "description" : " Clutch Chess: Champions Showdown Caps Off an Unforgettable Month of Chess in Saint Louis to Celebrate Newly Re-opened Saint Louis Chess Club SAINT LOUIS - Grandmaster (GM) and World No. 3 Fabiano Caruana and International Master (IM) Carissa Yip have successfully defended their titles at the 2025 U.S. and U.S. Women's Chess Championships, respectively. Their [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/world-no-3-fabiano-caruana-wins-fifth-u-s-chess-championship-carissa-yip-captures-fourth-u-s-womens-championship-title/\">World No. 3 Fabiano Caruana Wins Fifth U.S. Chess Championship; Carissa Yip Captures Fourth U.S. Women's Championship Title</a> appeared first o",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -546,7 +562,7 @@ news_feed (
          "title" : "National Chess Day Wrap-Up"
       },
       {
-         "description" : "It was very difficult for me to write today's report. Like all in the chess community, I am deeply shaken by the tragic death of one of the sport's brightest lights, GM Daniel Naroditsky, at the age of only 29.Danya was one of my role models when I was growing up. I loved his book, Mastering Complex Endgames (published when he was only 18), and never missed his articles on Chess.com and in Chess Life. Apart from being an incredibly strong player, Danya was an incredible communicator who wrote and spoke with unmatched eloquence and precision of language. He was a fantastic streamer and commentator; countless people benefited from his teaching and wisdom. He was too young and too brilliant to ",
+         "description" : "It was very difficult for me to write today's report. Like all in the chess community, I am deeply shaken by the tragic death of one of the sport's brightest lights, GM Daniel Naroditsky, at the age of only 29.Danya was one of my role models when I was growing up. I loved his book, Mastering Complex Endgames (published when he was only 17), and never missed his articles on Chess.com and in Chess Life. Apart from being an incredibly strong player, Danya was an incredible communicator who wrote and spoke with unmatched eloquence and precision of language. He was a fantastic streamer and commentator; countless people benefited from his teaching and wisdom. He was too young and too brilliant to ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/round-8-lee-aronian-make-moves-difficult-day",
