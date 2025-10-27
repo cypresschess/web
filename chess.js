@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " ROUND 1 &#124; GAME 1 CARUANA VS NAKAMURA RESULT: 1-0GUKESH VS CARLSEN RESULT: 0-1 ROUND 1 &#124; GAME 2 NAKAMURA VS CARUANA RESULT: 1-0CARLSEN VS GUKESH RESULT: &frac12;-&frac12; ROUND 2 &#124; GAME 1 CARLSEN VS CARUANA RESULT: &frac12;-&frac12;NAKAMURA VS GUKESH RESULT: 0-1 ROUND 2 &#124; GAME 2 CARUANA VS CARLSEN RESULT: 0-1GUKESH VS NAKAMURA RESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-1/\">POSTGAME DAY 1 | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-1/",
+         "pubDate" : "Mon, 27 Oct 2025 21:49:28",
+         "title" : "POSTGAME DAY 1 | #ChampionsShowdown"
+      },
+      {
          "description" : "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Reigning world champion Gukesh Dommaraju joins Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana in a concentrated three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-champions-showdown-2025",
          "pubDate" : "Mon, 27 Oct 2025 14:19:00",
          "title" : "Clutch Chess: Champions Showdown 2025 - Games and Results"
+      },
+      {
+         "description" : "GM Hans Niemann demolished former World Champion Ding Liren 18-6 to reach the Speed Chess Championship 2025 Quarterfinals. Ding&#39;s first win came in game 12, when a 10-1 scoreline had already made a comeback all but impossible. Niemann will now fac...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-r16-niemann-ding",
+         "pubDate" : "Mon, 27 Oct 2025 13:34:34",
+         "title" : "Niemann Overwhelms Ding To Reach Speed Chess Quarterfinals"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124849998.cms\" />World No. 1 Magnus Carlsen emotionally remembered Daniel Naroditsky, a rare talent and beloved grandmaster, who passed away at 29. Carlsen highlighted Naroditsky's unique attacking style and expressed sorrow over the online accusations that deeply affected him. He believes Naroditsky was not cheating and regrets not supporting him more publicly.",
@@ -920,22 +936,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ukraine-poland-win-2025-european-team-championships",
          "pubDate" : "Wed, 15 Oct 2025 02:56:00",
          "title" : "Gold For Ukraine, Poland At European Team Championships"
-      },
-      {
-         "description" : "Three-time U.S. Champion Wesley So beat 2018 Champion Sam Shankland to take the sole lead in the 2025 U.S. Chess Championship on 2.5/3. He&#39;s trailed by half a point by GMs Fabiano Caruana and Levon Aronian, who made quiet draws with the black piec...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-us-championship-round-3",
-         "pubDate" : "Wed, 15 Oct 2025 02:00:14",
-         "title" : "Wesley So Takes Sole U.S. Championship Lead; Paikidze Catches Sargsyan"
-      },
-      {
-         "description" : " Join GMs Yasser Seirawan &#038; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 3 &#124; GAME LINKS SO VS SHANKLANDRESULT: 1-0 LIANG VS CARUANARESULT: 1/2-1/2 SWIERCZ VS MISHRARESULT: 1/2-1/2 NIEMANN VS ROBSONRESULT: 1/2-1/2 WOODWARD VS OPARINRESULT: 0-1 SEVIAN VS ARONIANRESULT: 1/2-1/2 ROUND 3 &#124; GAME LINKS PAIKIDZE VS ABRAHAMYANRESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-3-paikidzes-dominate-class-topples-tatev-uschesschamps/\">POSTGAME ROUND 3: Paikidze's Dominate Class Topples Tatev! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint L",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-3-paikidzes-dominate-class-topples-tatev-uschesschamps/",
-         "pubDate" : "Tue, 14 Oct 2025 23:57:56",
-         "title" : "POSTGAME ROUND 3: Paikidze's Dominate Class Topples Tatev! #USChessChamps"
       },
       {
          "description" : " The 25th European Team championships took place in Batumi, Georgia 5th to 14th October 2025. Leading players such as Anish Giri, Vincent Keymer, Shakhriyar Mamedyarov, Richard Rapport competed, the field had 56 players over 2600. In the women's event the leading players were Nana Dzagnidze, Nino Batsiashvili, Alexandra Kosteniuk etc. Ukraine won the event by beating England 2.5-1.5 in the final round. Azerbaijan finished second in spite of losing to Serbia in the last round whose win earned them a third place finish. In the women's event Poland beat Azerbaijan in the final round to take first place, Ukraine drew with Armenia to take second place and Germany finished third in spite of losing",
