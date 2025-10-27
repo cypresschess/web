@@ -1,4 +1,7 @@
 jtable([
+"HOUSTON","2025-10-26","12","<a href=http://www.uschess.org/msa/XtblMain.php?202510268452 target='_blank'>BELLAIRE SUNDAY SWISS 2025.10.26</a>",
+"HOUSTON","2025-10-24  - 10-26","43","<a href=http://www.uschess.org/msa/XtblMain.php?202510268362 target='_blank'>TCR: HOUSTON FALL CHAMPIONSHIP 2025</a>",
+"HOUSTON","2025-10-25","120","<a href=http://www.uschess.org/msa/XtblMain.php?202510257972 target='_blank'>TEXAS CHESS TRIATHLON - A TEXAS STA</a>",
 "HOUSTON","2025-10-25","10","<a href=http://www.uschess.org/msa/XtblMain.php?202510257222 target='_blank'>CHESSPANDA10252025SATURDAY</a>",
 "HOUSTON","2025-10-25","62","<a href=http://www.uschess.org/msa/XtblMain.php?202510257182 target='_blank'>TCR: HOUSTON FALL SCHOLASTIC 2025</a>",
 "SUGAR LAND","2025-10-24","17","<a href=http://www.uschess.org/msa/XtblMain.php?202510246592 target='_blank'>FBCC 2025 NATIONAL FOOD DAY OPEN</a>",
@@ -196,7 +199,4 @@ jtable([
 "HOUSTON","2025-04-19","54","<a href=http://www.uschess.org/msa/XtblMain.php?202504193592 target='_blank'>TCR: EASTER FIDE 2025</a>",
 "HOUSTON","2025-04-19","6","<a href=http://www.uschess.org/msa/XtblMain.php?202504193442 target='_blank'>APRIL 19TH SATURDAY SWISS</a>",
 "HOUSTON","2025-04-19","97","<a href=http://www.uschess.org/msa/XtblMain.php?202504193182 target='_blank'>TCR: EASTER SCHOLASTIC 2025</a>",
-"HOUSTON","2025-04-19","6","<a href=http://www.uschess.org/msa/XtblMain.php?202504192902 target='_blank'>CHESSPANDA04192025SATURDAY</a>",
-"HOUSTON","2025-04-12","549","<a href=http://www.uschess.org/msa/XtblMain.php?202504128812 target='_blank'>T H ROGERS SCHOLASTIC</a>",
-"HOUSTON","2025-04-12","20","<a href=http://www.uschess.org/msa/XtblMain.php?202504127622 target='_blank'>APRIL 12TH - TROPHY SCHOLASTIC</a>",
 ]);
