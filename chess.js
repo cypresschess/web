@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two hundred and six of the world's best chess players from more than 80 countries will descend on Goa, India, this week for the 2025 FIDE World Cup, arguably the most important individual chess event of the year. From October 30 to November 27, players will battle through a gruelling knockout format for a share of the USD 2 million prize fund and, more importantly, the three coveted qualification spots for the 2026 FIDE Candidates Tournament - the gateway to the next World Championship match.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/preview-fide-world-cup-2025-goa-india",
+         "pubDate" : "Mon, 27 Oct 2025 15:04:34",
+         "title" : "Preview: FIDE World Cup 2025 - Goa"
+      },
+      {
+         "description" : " The FIDE World Cup takes place in Goa, India, Sat 1st to Wed 26th Nov 2025. Players include: World Champion Gukesh, Erigaisi, Praggnanandhaa, Giri, So, Keymer, Wei Yi, Abdusattorov, Mamedyarov, Niemann, MVL, Nepomniachtchi, Le, Rapport, Aronian etc. It is a seven round knockout but the top 50 players only enter the competition in round 2 alongside the 78 winners of Round 1. The top three finishers will qualify for the Candidates tournament although players such as Gukesh and Giri and Caruana don't require this and the extra place will be awarded to \"another path\" in the qualification system. The <a href=\"https://theweekinchess.com/chessnews/events/fide-womens-world-cup-2025\">Women's World C",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2025",
+         "pubDate" : "Mon, 27 Oct 2025 14:41:00",
+         "title" : "FIDE World Cup 2025 - Games and Results"
+      },
+      {
+         "description" : " The Clutch Chess: Champions Showdown takes place in Saint Louis Mon 27th Oct to Wed 29th Oct 2025. Magnus Carlsen, Fabiano Caruana, Hikaru Nakamura and World Champion Gukesh play three days of fast rapid chess (10m+5spm), a double round robin each day, eventually adding up to 18 rounds. Play starts at midday local time (5pm GMT). Clutch Chess is concept invented by Maurice Ashley and the key is its scoring system which increases over the course of the event. On day one there is the standard scoring system of one, half and zero, day two doubles that, day three trebles the standard score. The event is described as \"a comeback-friendly format that cultivates increased tension and fan excitemen",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-champions-showdown-2025",
+         "pubDate" : "Mon, 27 Oct 2025 14:19:00",
+         "title" : "Clutch Chess: Champions Showdown 2025 - Games and Results"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124849998.cms\" />World No. 1 Magnus Carlsen emotionally remembered Daniel Naroditsky, a rare talent and beloved grandmaster, who passed away at 29. Carlsen highlighted Naroditsky's unique attacking style and expressed sorrow over the online accusations that deeply affected him. He believes Naroditsky was not cheating and regrets not supporting him more publicly.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-recalls-daniel-naroditskys-unique-brilliance/articleshow/124849998.cms",
+         "pubDate" : "Mon, 27 Oct 2025 12:59:40",
+         "title" : "Magnus Carlsen recalls Daniel Naroditsky's unique brilliance"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124848762.cms\" />World Champion D Gukesh returns to Goa for the FIDE World Cup, a tournament he previously competed in during his junior career. This prestigious event, returning to India after 23 years, features a USD 2 million prize fund and a knockout format with 206 players vying for qualification to the 2026 Candidates Tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-champion-and-world-cup-top-seed-d-gukesh-i-have-some-great-memories-of-goa/articleshow/124848762.cms",
+         "pubDate" : "Mon, 27 Oct 2025 12:11:38",
+         "title" : "World chess champion Gukesh: 'I have some great memories of Goa'"
+      },
+      {
          "description" : "Did you solve the endgame puzzles we gave you last week? In the position shown, White had to move his rook to one of nine squares. But only moving it to e6 retained the win. How come? Today we give you the full solutions of all the four problems, in video explanations and on a replay board with engine assistance. It's a good way to master such tricky endgame situations.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/salamanca-festival-2025-final-report",
          "pubDate" : "Mon, 27 Oct 2025 10:35:00",
          "title" : "Pranav dominates Salamanca Masters, scores 9&frac12; out of 10"
+      },
+      {
+         "description" : "SuperChess, the Romanian club with an in-form world champion on top board, won the European Club Cup in Rhodes, Greece, on Saturday. Scoring an undefeated 4/5, GM Gukesh Dommaraju is back in the world&#39;s top 10. Cercle d&#39;Echecs de Monte-Carlo won t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/superchess-monaco-winners-at-european-club-cup",
+         "pubDate" : "Mon, 27 Oct 2025 07:02:48",
+         "title" : "Gukesh Powers SuperChess To European Club Cup Win; Monaco Tops Women's Section"
       },
       {
          "description" : " Clutch Chess: Champions Showdown Caps Off an Unforgettable Month of Chess in Saint Louis to Celebrate Newly Re-opened Saint Louis Chess Club SAINT LOUIS - Grandmaster (GM) and World No. 3 Fabiano Caruana and International Master (IM) Carissa Yip have successfully defended their titles at the 2025 U.S. and U.S. Women's Chess Championships, respectively. Their [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/world-no-3-fabiano-caruana-wins-fifth-u-s-chess-championship-carissa-yip-captures-fourth-u-s-womens-championship-title/\">World No. 3 Fabiano Caruana Wins Fifth U.S. Chess Championship; Carissa Yip Captures Fourth U.S. Women's Championship Title</a> appeared first o",
@@ -274,7 +322,7 @@ news_feed (
          "title" : "'He played more and more to prove he wasn't a cheater' - Daniel Naroditsky's mother shares heartbreaking words"
       },
       {
-         "description" : "Stop me if you've heard this one before: GM Fabiano Caruana and IM Carissa Yip are this year's U.S. champions. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy SLCC/Lennart Ootes.<br> <br> The win makes it four years in a row (five overall) for Caruana and three years in a row (four overall) for Yip. It should be noted, though, that it's sort of \"four in a row\" for Yip, too, as, after winning in 2021, she skipped the 2022 event before winning in each 2023, 2024, and now 2025.Both Caruana and Yip entered the final day looking to protect a half-point lead, but took differen",
+         "description" : "Stop me if you've heard this one before: GM Fabiano Caruana and IM Carissa Yip are this year's U.S. champions. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy SLCC/Lennart Ootes.<br> <br> The win makes it four years in a row (five overall) for Caruana and three years in a row (four overall) for Yip. It should be noted, though, that it's sort of \"four in a row\" for Yip, too, as, after winning in 2021, she skipped the 2022 event before winning in each 2023, 2024, and now 2025. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo cou",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/caruana-yip-repeat-us-champions-again",
@@ -762,28 +810,12 @@ news_feed (
          "title" : "Chess.com Launches New Bots In Partnership With Broadway Musical 'Chess'"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124620858.cms\" />FIDE has approved the \"Total Chess World Championship Tour,\" a new format by Norway Chess, combining Fast Classical, Rapid, and Blitz to find the \"Total Chess Player.\" The tour, featuring four events annually with a $2.7 million prize pool, aims to innovate chess. A pilot event is set for autumn 2026, with the full season in 2027.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-no-womens-edition-no-freestyle-will-old-norway-chess-go-on-total-chess-world-championship-tour-explained/articleshow/124620858.cms",
-         "pubDate" : "Fri, 17 Oct 2025 05:24:53",
-         "title" : "Exclusive | No women's edition? No freestyle? Will old Norway Chess go on?: Total Chess World Championship Tour explained"
-      },
-      {
          "description" : "GM Wesley So beat GM Vincent Keymer in the Speed Chess Championship 2025, winning the closest match yet in the Round of 16. He won only in overtime, after Keymer won the last bullet game on demand. So, who played during his rest day at the U.S. Ch...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-r16-keymer-so",
          "pubDate" : "Thu, 16 Oct 2025 18:54:00",
          "title" : "Wesley So Beats Keymer In Overtime"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124603594.cms\" />Argentina's 12-year-old chess prodigy Faustino Oro triumphed in the U21 title at the GCL Contenders Knockout Challengers Round in Mumbai. He, alongside men's champion Jose Martinez and women's winner Mai Narva, will now be ambassadors for the Global Chess League. Oro's victory over GM Pranav Anand highlights his rapid ascent in the chess world.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/faustino-oro-clinches-prodigy-u21-title-jose-martinez-mai-narva-win-gcl-contenders-crowns/articleshow/124603594.cms",
-         "pubDate" : "Thu, 16 Oct 2025 11:21:31",
-         "title" : "'Messi of Chess' Faustino Oro triumphs; Martinez, Narva win GCL crowns"
       },
       {
          "description" : "GM Hans Niemann won a dramatic game against GM Sam Shankland in round four of the&#38;nbsp;2025 U.S. Chess Championship to join GMs Fabiano Caruana and Levon Aronian in second place on 2.5/4, half a point behind leader GM Wesley So. Niemann&#39;s was the ...",
@@ -904,14 +936,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/25th-european-teams-2025",
          "pubDate" : "Tue, 14 Oct 2025 17:31:00",
          "title" : "25th European Teams 2025 - Games and Results"
-      },
-      {
-         "description" : "GM Jose Martinez of Mexico, IM Mai Narva of Estonia, and IM Faustino Oro of Argentina emerged winners of the Men, Women, and U21 sections, respectively, of the month-long 2025 GCL Contenders held on the Chess.com platform. They all qualified as Am...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-gcl-contenders",
-         "pubDate" : "Tue, 14 Oct 2025 12:37:00",
-         "title" : "Jose Martinez, Mai Narva, Faustino Oro Win GCL Contenders"
       },
       {
          "description" : "The ninth and final round of the European Team Championships will determine the medal winners. In the Open Ukraine and Azerbaijan fight for victory, in the Women's Tournament Poland is in the lead, but Ukraine and Germany can still hope to win. | Watch the games live with video commentary. Start: Around 10:00 CEST.",
