@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Reigning world champion Gukesh Dommaraju joins Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana in a concentrated three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2025-live",
+         "pubDate" : "Mon, 27 Oct 2025 17:50:00",
+         "title" : "Clutch Chess: Champions Showdown - Live!"
+      },
+      {
          "description" : "Two hundred and six of the world's best chess players from more than 80 countries will descend on Goa, India, this week for the 2025 FIDE World Cup, arguably the most important individual chess event of the year. From October 30 to November 27, players will battle through a gruelling knockout format for a share of the USD 2 million prize fund and, more importantly, the three coveted qualification spots for the 2026 FIDE Candidates Tournament - the gateway to the next World Championship match.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-club-cup-2025-7",
          "pubDate" : "Mon, 27 Oct 2025 01:15:00",
          "title" : "Euro Club Cup: SuperChess and Cercle d'Echecs Monte Carlo claim titles"
+      },
+      {
+         "description" : "The 2nd FIDE Chess Olympiad for People with Disabilities was held Oct. 19-26 in Astana, Kazakhstan. The Russian team FIDE 1 won gold with 11 match points (5&frac12;/6), ahead of Poland (10 points), and Israel, which won bronze ahead of two other times tied for third with nine points. The USA team tied for sixth with Cuba with four wins and two losses (eight match points). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> From left: Silver medalists Poland, champions FIDE 1, and bronze medalists Israel (All photos courtesy FIDE)<br> <br> <br> <br> The American team consisted of the brothers McConnell (Sullivan and Griffin) from Colorado on Board 1 and 2, ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/usa-ties-6th-2nd-fide-chess-olympiad-people-disabilities",
+         "pubDate" : "Mon, 27 Oct 2025 00:00:00",
+         "title" : "USA Ties for 6th at 2nd FIDE Chess Olympiad for People with Disabilities"
       },
       {
          "description" : " RIP Mihai Suba (Bucharest 1 June 1947 - Spain 26 October 2025, aged 78) Suba was a Romanian-born chess player who became an International Master in 1975 and a Grandmaster in 1978. Suba didn't begin playing chess until the unusually late age of 19, yet within just a few years he had risen to become a formidable competitor. He was crowned Romanian Champion three times - in 1980, 1981, and 1985 - and narrowly missed qualifying for the Candidates Tournament after finishing third at the 1982 Las Palmas Interzonal. Among his tournament triumphs were first place at Dortmund 1983, and shared first at Prague 1985 and Timisoara 1987. In 1988, during the Lloyds Bank Masters in London, Suba defected fr",
@@ -664,14 +680,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-us-championship-round-7",
          "pubDate" : "Mon, 20 Oct 2025 01:48:00",
          "title" : "Caruana Bulldozes Niemann To Lead With So; Lee Becomes Sole Leader"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy SLCC/Lennart Ootes.<br> <br> <br> <br> Update, Oct. 24, 2025: Naroditsky was a Chess Life columnist from June 2014 through March 2020. All of his columns can be downloaded here in a single .pdf file. GM Daniel Naroditsky, a former World Junior Champion and longtime member of the Charlotte Chess Center community, has died, the center said on Monday. He was 29.\"Daniel was a talented chess player, commentator, and educator, and a cherished member of the chess community, admired and respected by fans and players around the world,\" the center said in a statement attributed to the Naroditsky fami",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/gm-daniel-naroditsky-1995-2025",
-         "pubDate" : "Mon, 20 Oct 2025 00:00:00",
-         "title" : "GM Daniel Naroditsky (1995-2025)"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 7 &#124; GAME LINKS ROBSON VS ARONIAN RESULT: &frac12;-&frac12;SWIERCZ VS LIANG RESULT: 1-0SO VS WOODWARD RESULT: 1-0SHANKLAND VS MISHRA RESULT: 1-0NIEMANN VS CARUANA RESULT: 0-1SEVIAN VS OPARIN RESULT: 1-0 ROUND 7 &#124; GAME LINKS POURKASHIYAN VS [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-7/\">POSTGAME ROUND 7: Caruana's BIG TIME Win Over Hans! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
