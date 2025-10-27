@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Clutch Chess: Champions Showdown Caps Off an Unforgettable Month of Chess in Saint Louis to Celebrate Newly Re-opened Saint Louis Chess Club SAINT LOUIS - Grandmaster (GM) and World No. 3 Fabiano Caruana and International Master (IM) Carissa Yip have successfully defended their titles at the 2025 U.S. and U.S. Women's Chess Championships, respectively. Their [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/world-no-3-fabiano-caruana-wins-fifth-u-s-chess-championship-carissa-yip-captures-fourth-u-s-womens-championship-title/\">World No. 3 Fabiano Caruana Wins Fifth U.S. Chess Championship; Carissa Yip Captures Fourth U.S. Women's Championship Title</a> appeared first o",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/world-no-3-fabiano-caruana-wins-fifth-u-s-chess-championship-carissa-yip-captures-fourth-u-s-womens-championship-title/",
+         "pubDate" : "Mon, 27 Oct 2025 02:39:42",
+         "title" : "World No. 3 Fabiano Caruana Wins Fifth U.S. Chess Championship; Carissa Yip Captures Fourth U.S. Women's Championship Title"
+      },
+      {
+         "description" : "SuperChess, led by world champion Gukesh Dommaraju, won the open section of the European Club Cup in Rhodes with a perfect 14/14 match score, defeating Tuxera Aquaprofit Nagykanizsai in the final round to secure the title. Alkaloid and Novy Bor finished second and third respectively. In the women's event, Cercle d'Échecs Monte Carlo clinched tournament victory after drawing their final match against Turkish Airlines. Sirmium Sremska Mitrovica took silver, while Tajfun SK Ljubljana earned bronze. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2025-7",
+         "pubDate" : "Mon, 27 Oct 2025 01:15:00",
+         "title" : "Euro Club Cup: SuperChess and Cercle d'Echecs Monte Carlo claim titles"
+      },
+      {
          "description" : " RIP Mihai Suba (Bucharest 1 June 1947 - Spain 26 October 2025, aged 78) Suba was a Romanian-born chess player who became an International Master in 1975 and a Grandmaster in 1978. Suba didn't begin playing chess until the unusually late age of 19, yet within just a few years he had risen to become a formidable competitor. He was crowned Romanian Champion three times - in 1980, 1981, and 1985 - and narrowly missed qualifying for the Candidates Tournament after finishing third at the 1982 Las Palmas Interzonal. Among his tournament triumphs were first place at Dortmund 1983, and shared first at Prague 1985 and Timisoara 1987. In 1988, during the Lloyds Bank Masters in London, Suba defected fr",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -888,14 +904,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-team-championships-live",
          "pubDate" : "Tue, 14 Oct 2025 10:00:00",
          "title" : "European Team Championships - Live!"
-      },
-      {
-         "description" : " ﻿﻿ Join GMs Yasser Seirawan &#038; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 2 &#124; GAME LINKS ROBSON VS SO RESULT: 0-1 OPARIN VS NIEMANN RESULT: 1/2-1/2 MISHRA VS SEVIAN RESULT: 1/2-1/2 SHANKLAND VS SWIERCZ RESULT: 1-0 ARONIAN VS LIANG RESULT: 1/2-1/2 CARUANA VS WOODWARD RESULT: 1/2-1/2 ﻿﻿ [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-2-fabi-barely-survives-woodward-uschesschamps/\">POSTGAME ROUND 2: Fabi Barely Survives Woodward #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-2-fabi-barely-survives-woodward-uschesschamps/",
-         "pubDate" : "Mon, 13 Oct 2025 23:34:20",
-         "title" : "POSTGAME ROUND 2: Fabi Barely Survives Woodward #USChessChamps"
       },
       {
          "description" : "Pierre de Fermat (1601-1665) was a French mathematician who made pioneering contributions to analytic geometry, calculus, optics, and probability. He is best known for Fermat's Last Theorem, which famously remained unproven for over three centuries. Then, thirty years ago (in 1995), the mathematician Andrew Wiles published the comprehensive proof. In his book \"Chess Stories\" mathematician Prof Christian Hesse, told us how he applied Fermat's final conjecture to chess.",
