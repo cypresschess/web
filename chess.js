@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Reigning world champion Gukesh Dommaraju joins Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana in a concentrated three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2025-live",
+         "pubDate" : "Tue, 28 Oct 2025 17:50:00",
+         "title" : "Clutch Chess: Champions Showdown - Live!"
+      },
+      {
          "description" : "We take a unique behind-the-scenes look at how top chess masters organize their digital workspace. Grandmasters and trainers like Svitlana Demchenko, Robert Ris, Michael Prusikin, Harald Schneider-Zinner, Frederik Svane, Felix Blohberger, and Dorian Rogozenco share their screens to reveal their personal ChessBase 18 setups - from meticulously clean desktops to chaotic databases full of ideas. They show us their board designs, current projects, and discuss their favourite or most-used ChessBase functions, offering fascinating insights into how great minds prepare, study, and work with chess every day.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/my-chessbase-18-desktop-robert-ris",
          "pubDate" : "Tue, 28 Oct 2025 15:00:00",
          "title" : "My ChessBase 18 Desktop! - Robert Ris"
+      },
+      {
+         "description" : "Girls who start with the same age and rating as boys will continue to play chess at a similar rate and at a similar level as those boys, especially in areas where participation is more gender-balanced. A new study, published in Chance and co-funde...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/li-glickman-chabris-2025-sex-ratings-retention-competitive-chess",
+         "pubDate" : "Tue, 28 Oct 2025 11:41:44",
+         "title" : "Study Reveals New Insights Into Gender Gap In Chess: Equal Start, Equal Progress"
       },
       {
          "description" : "Some days ago, we presented the tough and complex battle that ensued between Emanuel Lasker and Mikhail Ivanovich Chigorin. In a semi-endgame the young German world champion held the pair of bishops, but it was the Russian forefighter with the pair of knights who emerged victorious in the end. The game has been the subject of controversy for 130 years, so we asked readers five questions about critical positions to shed some more light on it.",
@@ -146,7 +162,7 @@ news_feed (
          "title" : "Euro Club Cup: SuperChess and Cercle d'Echecs Monte Carlo claim titles"
       },
       {
-         "description" : "The 2nd FIDE Chess Olympiad for People with Disabilities was held Oct. 19-26 in Astana, Kazakhstan. The Russian team FIDE 1 won gold with 11 match points (5&frac12;/6), ahead of Poland (10 points), and Israel, which won bronze ahead of two other times tied for third with nine points. The USA team tied for sixth with Cuba with four wins and two losses (eight match points). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> From left: Silver medalists Poland, champions FIDE 1, and bronze medalists Israel (All photos courtesy FIDE)<br> <br> <br> <br> The American team consisted of the brothers McConnell (Sullivan and Griffin) from Colorado on Board 1 and 2, ",
+         "description" : "The 2nd FIDE Chess Olympiad for People with Disabilities was held Oct. 19-26 in Astana, Kazakhstan. The Russian team FIDE 1 won gold with 11 match points (5&frac12;/6), ahead of Poland (10 points), and Israel, which won bronze ahead of two other teams tied for third with nine points. The USA team tied for sixth with Cuba with four wins and two losses (eight match points). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> From left: Silver medalists Poland, champions FIDE 1, and bronze medalists Israel (All photos courtesy FIDE)<br> <br> <br> <br> The American team consisted of the brothers McConnell (Sullivan and Griffin) from Colorado on Board 1 and 2, ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/usa-ties-6th-2nd-fide-chess-olympiad-people-disabilities",
@@ -896,14 +912,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-4-alices-win-falls-victim-to-a-carissa-tactic-uschesschamps/",
          "pubDate" : "Thu, 16 Oct 2025 00:12:05",
          "title" : "POSTGAME ROUND 4: Alice's Win Falls Victim to a Carissa Tactic! #USChessChamps"
-      },
-      {
-         "description" : "GM Denis Lazavik defeated GM&#38;nbsp;Arjun Erigaisi&#38;nbsp;12-9 in the Speed Chess Championship 2025. The 3+1 segment separated the players, and GM Aman Hambleton aptly summarized it: &#34;I don&#39;t even recall Arjun playing a terrible match, Denis was just ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-r16-arjun-lazavik",
-         "pubDate" : "Wed, 15 Oct 2025 12:34:00",
-         "title" : "Lazavik Bests Arjun, Advances To QuarterFinals"
       },
       {
          "description" : "FIDE has extended the deadline for submissions to the FIDE Social Chess Storytelling Challenge 2025. Participants now have until November 30, 2025, to submit their stories under the theme &#8216;Every...",
