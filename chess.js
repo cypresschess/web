@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Some days ago, we presented the tough and complex battle that ensued between Emanuel Lasker and Mikhail Ivanovich Chigorin. In a semi-endgame the young German world champion held the pair of bishops, but it was the Russian forefighter with the pair of knights who emerged victorious in the end. The game has been the subject of controversy for 130 years, so we asked readers five questions about critical positions to shed some more light on it.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/answers-lasker-chigorin-1895",
+         "pubDate" : "Tue, 28 Oct 2025 11:00:00",
+         "title" : "Lasker-Chigorin, Hastings 1895"
+      },
+      {
+         "description" : "Reigning world champion Gukesh Dommaraju leads the Clutch Chess: Champions Showdown after the opening day in Saint Louis, having recovered from an early loss to Magnus Carlsen with three wins and two draws. Carlsen, Hikaru Nakamura and Fabiano Caruana all experienced fluctuating fortunes across a demanding schedule of rapid double round-robin play. With the value of each victory set to rise over the next two days, the standings remain closely poised for an event that rewards sustained ambition. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2025-1",
+         "pubDate" : "Tue, 28 Oct 2025 09:15:00",
+         "title" : "Champions Showdown: Gukesh leads, Carlsen trails a half point back"
+      },
+      {
          "description" : "Last Sunday, 26 October 2025, Mihai Șubă passed away in Spain. Born in Romania, he started playing chess very late in life but became one of the best players in his country. In the 1980s, he was considered a leading expert on the \"hedgehog\" structure. In 2008, Suba tied for first place at the World Senior Championships, and in 2011 he became European Senior Champion. | Photo: Weebly",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -23,15 +39,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-clutch-chess-champions-showdown-day-1",
          "pubDate" : "Mon, 27 Oct 2025 17:55:00",
-         "title" : "Gukesh Leads After Game 1 Loss"
-      },
-      {
-         "description" : "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Reigning world champion Gukesh Dommaraju joins Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana in a concentrated three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2025-live",
-         "pubDate" : "Mon, 27 Oct 2025 17:50:00",
-         "title" : "Clutch Chess: Champions Showdown - Live!"
+         "title" : "Gukesh Leads Clutch Chess After Game 1 Loss"
       },
       {
          "description" : "Two hundred and six of the world's best chess players from more than 80 countries will descend on Goa, India, this week for the 2025 FIDE World Cup, arguably the most important individual chess event of the year. From October 30 to November 27, players will battle through a gruelling knockout format for a share of the USD 2 million prize fund and, more importantly, the three coveted qualification spots for the 2026 FIDE Candidates Tournament - the gateway to the next World Championship match.",
@@ -102,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/superchess-monaco-winners-at-european-club-cup",
-         "pubDate" : "Mon, 27 Oct 2025 07:02:48",
+         "pubDate" : "Mon, 27 Oct 2025 07:02:00",
          "title" : "Gukesh Powers SuperChess To European Club Cup Win; Monaco Tops Women's Section"
       },
       {
@@ -1056,22 +1064,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-the-legends",
          "pubDate" : "Tue, 7 Oct 2025 20:42:00",
          "title" : "Clutch Chess: The Legends - Games and Results"
-      },
-      {
-         "description" : "Please find the final report here",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-arbiters-seminar-in-guntur-andhra-pradesh-india-from-26-28-sept-2025-report/",
-         "pubDate" : "Tue, 07 Oct 2025 11:08:00",
-         "title" : "FIDE Arbiters' Seminar in Guntur, Andhra Pradesh (India) from 26-28 Sept.2025- Report"
-      },
-      {
-         "description" : "Special Note: If a player has only&#160;one accompanying person, then he/she must pay for double sharing amount only. (Triple sharing basis not accepted for two",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-u9-u17-rapid-blitz-chess-championships-2025-in-antalya-turkey-from-15th-to-21st-december-2025/",
-         "pubDate" : "Tue, 07 Oct 2025 10:29:19",
-         "title" : "FIDE World U9-U17 Rapid & Blitz Chess Championships - 2025 in Antalya, Turkey from 15th to 21st December, 2025"
       }
    ]
 }
