@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " ROUND 4 &#124; GAME 1 CARLSEN VS GUKESH RESULT: 1-0NAKAMURA VS CARUANA RESULT: 0-1 ROUND 4 &#124; GAME 2 GUKESH VS CARLSEN RESULT: 0-1CARUANA VS NAKAMURA RESULT: 0-1 ROUND 5 &#124; GAME 1 GUKESH VS NAKAMURA RESULT: &frac12;-&frac12;CARUANA VS CARLSEN RESULT: 1-0 ROUND 5 &#124; GAME 2 NAKAMURA VS GUKESH RESULT: &frac12;-&frac12;CARLSEN VS CARUANA RESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-2/\">POSTGAME DAY 2 | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-2/",
+         "pubDate" : "Tue, 28 Oct 2025 21:34:23",
+         "title" : "POSTGAME DAY 2 | #ChampionsShowdown"
+      },
+      {
          "description" : "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Reigning world champion Gukesh Dommaraju joins Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana in a concentrated three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,36 @@ news_feed (
          "title" : "Clutch Chess: Champions Showdown - Live!"
       },
       {
+         "description" : "GM Magnus Carlsen leads the 2025 Clutch Chess: Champions Showdown after day two. The world number-one won both games in both matches against World Champion Gukesh Dommaraju and GM Hikaru Nakamura, so that he was still in first even with two losses...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-clutch-chess-champions-showdown-day-2",
+         "pubDate" : "Tue, 28 Oct 2025 16:12:57",
+         "title" : "Carlsen Leads, Caruana Sprints To 2nd From Last"
+      },
+      {
+         "description" : "The field for the legendary 2026 Tata Steel Chess Masters was unveiled today, featuring an exciting young line-up headlined by the reigning World Champion, 19-year-old Gukesh Dommaraju. At the other end of the spectrum is 31-year-old GM Anish Giri...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gukesh-heads-youngest-2026-tata-steel-masters-field",
+         "pubDate" : "Tue, 28 Oct 2025 16:11:24",
+         "title" : "Gukesh Heads Youngest Ever Field For 2026 Tata Steel Chess Masters"
+      },
+      {
          "description" : "We take a unique behind-the-scenes look at how top chess masters organize their digital workspace. Grandmasters and trainers like Svitlana Demchenko, Robert Ris, Michael Prusikin, Harald Schneider-Zinner, Frederik Svane, Felix Blohberger, and Dorian Rogozenco share their screens to reveal their personal ChessBase 18 setups - from meticulously clean desktops to chaotic databases full of ideas. They show us their board designs, current projects, and discuss their favourite or most-used ChessBase functions, offering fascinating insights into how great minds prepare, study, and work with chess every day.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/my-chessbase-18-desktop-robert-ris",
          "pubDate" : "Tue, 28 Oct 2025 15:00:00",
          "title" : "My ChessBase 18 Desktop! - Robert Ris"
+      },
+      {
+         "description" : "GM Oleksandr Bortnyk won Titled Tuesday on October 28, taking his last seven games of the tournament for a come-from-behind outright victory on 10 points out of 11. GM Maxime Vachier-Lagrave was actually the only player not to lose a game during t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bortnyk-wins-titled-tuesday-october-28-2025",
+         "pubDate" : "Tue, 28 Oct 2025 12:55:00",
+         "title" : "Bortnyk Wins His 1st Titled Tuesday This Year, Dedicates Victory To Naroditsky's Memory"
       },
       {
          "description" : "Girls who start with the same age and rating as boys will continue to play chess at a similar rate and at a similar level as those boys, especially in areas where participation is more gender-balanced. A new study, published in Chance and co-funde...",
@@ -47,7 +79,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-2025-chesscom-crazyhouse-chess-championship",
          "pubDate" : "Tue, 28 Oct 2025 08:00:00",
-         "title" : "Go Crazy With The Next Event Of The Chess.com Community Championship Starting November 6"
+         "title" : "Go Crazy With The Next Event Of The Chess.com Community Championships Starting November 6"
       },
       {
          "description" : "Last Sunday, 26 October 2025, Mihai Șubă passed away in Spain. Born in Romania, he started playing chess very late in life but became one of the best players in his country. In the 1980s, he was considered a leading expert on the \"hedgehog\" structure. In 2008, Suba tied for first place at the World Senior Championships, and in 2011 he became European Senior Champion. | Photo: Weebly",
@@ -58,12 +90,20 @@ news_feed (
          "title" : "Mihai Suba (1 June 1947 - 26 October 2025)"
       },
       {
-         "description" : " ROUND 1 &#124; GAME 1 CARUANA VS NAKAMURA RESULT: 1-0GUKESH VS CARLSEN RESULT: 0-1 ROUND 1 &#124; GAME 2 NAKAMURA VS CARUANA RESULT: 1-0CARLSEN VS GUKESH RESULT: &frac12;-&frac12; ROUND 2 &#124; GAME 1 CARLSEN VS CARUANA RESULT: &frac12;-&frac12;NAKAMURA VS GUKESH RESULT: 0-1 ROUND 2 &#124; GAME 2 CARUANA VS CARLSEN RESULT: 0-1GUKESH VS NAKAMURA RESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-1/\">POSTGAME DAY 1 | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : "This week's puzzles once again all come from the just-concluded 2025 U.S. Championship and Women's Championship. Every day, a rotating cast of annotators are covering key games from the event on Chess Life Online, and you can find all the annotations here. When learning chess, it's important to look at the moves that aren't played, as well as the ones that are. Today, almost every puzzle comes from a variation that looked reasonable, but would have been losing. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-variations-2025-us-championships-pt-2",
+         "pubDate" : "Tue, 28 Oct 2025 00:00:00",
+         "title" : "Tactics Tuesday: Variations From the 2025 U.S. Championships, Pt. 2"
+      },
+      {
+         "description" : " ROUND 1 &#124; GAME 1 CARUANA VS NAKAMURA RESULT: 1-0GUKESH VS CARLSEN RESULT: 0-1 ROUND 1 &#124; GAME 2 NAKAMURA VS CARUANA RESULT: 1-0CARLSEN VS GUKESH RESULT: &frac12;-&frac12; ROUND 2 &#124; GAME 1 CARLSEN VS CARUANA RESULT: &frac12;-&frac12;NAKAMURA VS GUKESH RESULT: 0-1 ROUND 2 &#124; GAME 2 CARUANA VS CARLSEN RESULT: 0-1GUKESH VS NAKAMURA RESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-1/\">POSTGAME DAY 1: Gukesh Smashes Fabi! | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-1/",
          "pubDate" : "Mon, 27 Oct 2025 21:49:28",
-         "title" : "POSTGAME DAY 1 | #ChampionsShowdown"
+         "title" : "POSTGAME DAY 1: Gukesh Smashes Fabi! | #ChampionsShowdown"
       },
       {
          "description" : "World Champion Gukesh Dommaraju leads the 2025 Clutch Chess: Champions Showdown with four points out of a possible six on day one. After losing game one against GM Magnus Carlsen, he had the best day, scoring three wins and two draws in his remain...",
@@ -706,14 +746,6 @@ news_feed (
          "title" : "Round 8: Lee, Aronian Make Moves on Difficult Day"
       },
       {
-         "description" : "This week's puzzles all come from the ongoing 2025 U.S. Championship and Women's Championship. Every day, a rotating cast of annotators are covering key games from the event on Chess Life Online, and you can find all the annotations here. When learning chess, it's important to look at the moves that aren't played, as well as the ones that are. Today, almost every puzzle comes from a variation that looked reasonable, but would have been losing. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-variations-2025-us-championships-pt-1",
-         "pubDate" : "Tue, 21 Oct 2025 00:00:00",
-         "title" : "Tactics Tuesday: Variations From the 2025 U.S. Championships, Pt. 1"
-      },
-      {
          "description" : "Today, his family announced the death of Daniel Naroditsky. The talented American grandmaster was an active online player and streamer, as well as a popular commentator. He would have turned 30 on 9 November. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -882,38 +914,6 @@ news_feed (
          "title" : "Chess: Ukraine soldier grandmaster wins gold medal at European team championships"
       },
       {
-         "description" : "We&#39;re excited to announce our newest partner, the highly anticipated first-ever Broadway revival of the musical CHESS! To celebrate the occasion, we&#39;re launching exclusive new bots based on the characters of the show. You can now challenge Fredd...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chess-musical-bots",
-         "pubDate" : "Fri, 17 Oct 2025 06:00:00",
-         "title" : "Chess.com Launches New Bots In Partnership With Broadway Musical 'Chess'"
-      },
-      {
-         "description" : "GM Wesley So beat GM Vincent Keymer in the Speed Chess Championship 2025, winning the closest match yet in the Round of 16. He won only in overtime, after Keymer won the last bullet game on demand. So, who played during his rest day at the U.S. Ch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-r16-keymer-so",
-         "pubDate" : "Thu, 16 Oct 2025 18:54:00",
-         "title" : "Wesley So Beats Keymer In Overtime"
-      },
-      {
-         "description" : "GM Hans Niemann won a dramatic game against GM Sam Shankland in round four of the&#38;nbsp;2025 U.S. Chess Championship to join GMs Fabiano Caruana and Levon Aronian in second place on 2.5/4, half a point behind leader GM Wesley So. Niemann&#39;s was the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-us-championship-round-4",
-         "pubDate" : "Thu, 16 Oct 2025 03:54:00",
-         "title" : "Niemann Joins Battle For U.S. Title; Sargsyan Extends Lead"
-      },
-      {
-         "description" : " Join GMs Yasser Seirawan &#038; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 4 &#124; GAME LINKS WOODWARD VS LIANG RESULT: &frac12;-&frac12;OPARIN VS ROBSON RESULT: &frac12;-&frac12;CARUANA VS SEVIAN RESULT: &frac12;-&frac12;ARONIAN VS SWIERCZ RESULT: &frac12;-&frac12;MISHRA VS SO RESULT: &frac12;-&frac12; SHANKLAND VS NIEMANN RESULT: 0-1 ROUND 4 &#124; GAME LINKS KRUSH [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-4-alices-win-falls-victim-to-a-carissa-tactic-uschesschamps/\">POSTGAME ROUND 4: Alice's Win Falls Victim to a Carissa Tactic! #USChessChamps</a> appeared first on <a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-4-alices-win-falls-victim-to-a-carissa-tactic-uschesschamps/",
-         "pubDate" : "Thu, 16 Oct 2025 00:12:05",
-         "title" : "POSTGAME ROUND 4: Alice's Win Falls Victim to a Carissa Tactic! #USChessChamps"
-      },
-      {
          "description" : "FIDE has extended the deadline for submissions to the FIDE Social Chess Storytelling Challenge 2025. Participants now have until November 30, 2025, to submit their stories under the theme &#8216;Every...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1072,14 +1072,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/werner-keym-problem-chess-art-6",
          "pubDate" : "Wed, 08 Oct 2025 08:53:52",
          "title" : "Werner Keym: Problem Chess Art"
-      },
-      {
-         "description" : " Clutch Chess: The Legends was a match between Viswanathan Anand and Gary Kasparov in Saint Louis 8th to 10th October. Kasparov won the match 13-11 but this score rather flatters Anand who won the final two games after the match was already decided.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-the-legends",
-         "pubDate" : "Tue, 7 Oct 2025 20:42:00",
-         "title" : "Clutch Chess: The Legends - Games and Results"
       }
    ]
 }
