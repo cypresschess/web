@@ -10,6 +10,14 @@ news_feed (
          "title" : "POSTGAME DAY 1 | #ChampionsShowdown"
       },
       {
+         "description" : "World Champion Gukesh Dommaraju leads the 2025 Clutch Chess: Champions Showdown with four points after a possible six on day one. After losing game one against GM Magnus Carlsen, he had the best day, scoring three wins and two draws in his remaini...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-clutch-chess-champions-showdown-day-1",
+         "pubDate" : "Mon, 27 Oct 2025 17:55:37",
+         "title" : "Gukesh Leads After Game 1 Loss"
+      },
+      {
          "description" : "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Reigning world champion Gukesh Dommaraju joins Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana in a concentrated three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -46,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-r16-niemann-ding",
-         "pubDate" : "Mon, 27 Oct 2025 13:34:34",
+         "pubDate" : "Mon, 27 Oct 2025 13:34:00",
          "title" : "Niemann Overwhelms Ding To Reach Speed Chess Quarterfinals"
       },
       {
@@ -928,14 +936,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/norway-chess-launches-new-fide-approved-total-chess-world-championship-tour",
          "pubDate" : "Wed, 15 Oct 2025 03:08:00",
          "title" : "Norway Chess Launches New FIDE-Approved 'Total Chess World Championship Tour'"
-      },
-      {
-         "description" : "The Ukrainian Open team and the Polish Women&#39;s team won the 2025 European Team Championships in Batumi, Georgia on Tuesday. Both teams were in the lead after round five and suffered subsequent losses but managed to clinch the gold medals after all...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ukraine-poland-win-2025-european-team-championships",
-         "pubDate" : "Wed, 15 Oct 2025 02:56:00",
-         "title" : "Gold For Ukraine, Poland At European Team Championships"
       },
       {
          "description" : " The 25th European Team championships took place in Batumi, Georgia 5th to 14th October 2025. Leading players such as Anish Giri, Vincent Keymer, Shakhriyar Mamedyarov, Richard Rapport competed, the field had 56 players over 2600. In the women's event the leading players were Nana Dzagnidze, Nino Batsiashvili, Alexandra Kosteniuk etc. Ukraine won the event by beating England 2.5-1.5 in the final round. Azerbaijan finished second in spite of losing to Serbia in the last round whose win earned them a third place finish. In the women's event Poland beat Azerbaijan in the final round to take first place, Ukraine drew with Armenia to take second place and Germany finished third in spite of losing",
