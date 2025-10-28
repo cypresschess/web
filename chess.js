@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We take a unique behind-the-scenes look at how top chess masters organize their digital workspace. Grandmasters and trainers like Svitlana Demchenko, Robert Ris, Michael Prusikin, Harald Schneider-Zinner, Frederik Svane, Felix Blohberger, and Dorian Rogozenco share their screens to reveal their personal ChessBase 18 setups - from meticulously clean desktops to chaotic databases full of ideas. They show us their board designs, current projects, and discuss their favourite or most-used ChessBase functions, offering fascinating insights into how great minds prepare, study, and work with chess every day.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/my-chessbase-18-desktop-robert-ris",
+         "pubDate" : "Tue, 28 Oct 2025 15:00:00",
+         "title" : "My ChessBase 18 Desktop! - Robert Ris"
+      },
+      {
          "description" : "Some days ago, we presented the tough and complex battle that ensued between Emanuel Lasker and Mikhail Ivanovich Chigorin. In a semi-endgame the young German world champion held the pair of bishops, but it was the Russian forefighter with the pair of knights who emerged victorious in the end. The game has been the subject of controversy for 130 years, so we asked readers five questions about critical positions to shed some more light on it.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2025-1",
          "pubDate" : "Tue, 28 Oct 2025 09:15:00",
          "title" : "Champions Showdown: Gukesh leads, Carlsen trails a half point back"
+      },
+      {
+         "description" : "We&#39;re excited to announce the next event of the Chess.com Community Championships. The Chess.com Crazyhouse Chess Championship starts on November 6 and features a $2,500 prize fund. Featuring a variant where initiative is everything, get ready for...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-2025-chesscom-crazyhouse-chess-championship",
+         "pubDate" : "Tue, 28 Oct 2025 08:00:00",
+         "title" : "Go Crazy With The Next Event Of The Chess.com Community Championship Starting November 6"
       },
       {
          "description" : "Last Sunday, 26 October 2025, Mihai Șubă passed away in Spain. Born in Romania, he started playing chess very late in life but became one of the best players in his country. In the 1980s, he was considered a leading expert on the \"hedgehog\" structure. In 2008, Suba tied for first place at the World Senior Championships, and in 2011 he became European Senior Champion. | Photo: Weebly",
@@ -944,14 +960,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/the-5th-fide-intercontinental-online-chess-championship-for-prisoners/",
          "pubDate" : "Wed, 15 Oct 2025 06:20:33",
          "title" : "The 5th FIDE Intercontinental Online Chess Championship for Prisoners"
-      },
-      {
-         "description" : "The organizers behind Norway Chess have announced an ambitious new competition officially endorsed by the International Chess Federation (FIDE). The Total Chess World Championship Tour will crown an entirely new FIDE World Combined Champion across...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/norway-chess-launches-new-fide-approved-total-chess-world-championship-tour",
-         "pubDate" : "Wed, 15 Oct 2025 03:08:00",
-         "title" : "Norway Chess Launches New FIDE-Approved 'Total Chess World Championship Tour'"
       },
       {
          "description" : " The 25th European Team championships took place in Batumi, Georgia 5th to 14th October 2025. Leading players such as Anish Giri, Vincent Keymer, Shakhriyar Mamedyarov, Richard Rapport competed, the field had 56 players over 2600. In the women's event the leading players were Nana Dzagnidze, Nino Batsiashvili, Alexandra Kosteniuk etc. Ukraine won the event by beating England 2.5-1.5 in the final round. Azerbaijan finished second in spite of losing to Serbia in the last round whose win earned them a third place finish. In the women's event Poland beat Azerbaijan in the final round to take first place, Ukraine drew with Armenia to take second place and Germany finished third in spite of losing",
