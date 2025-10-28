@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last Sunday, 26 October 2025, Mihai Șubă passed away in Spain. Born in Romania, he started playing chess very late in life but became one of the best players in his country. In the 1980s, he was considered a leading expert on the \"hedgehog\" structure. In 2008, Suba tied for first place at the World Senior Championships, and in 2011 he became European Senior Champion. | Photo: Weebly",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mihai-suba-1947-2025",
+         "pubDate" : "Tue, 28 Oct 2025 07:53:55",
+         "title" : "Mihai Suba (1 June 1947 - 26 October 2025)"
+      },
+      {
          "description" : " ROUND 1 &#124; GAME 1 CARUANA VS NAKAMURA RESULT: 1-0GUKESH VS CARLSEN RESULT: 0-1 ROUND 1 &#124; GAME 2 NAKAMURA VS CARUANA RESULT: 1-0CARLSEN VS GUKESH RESULT: &frac12;-&frac12; ROUND 2 &#124; GAME 1 CARLSEN VS CARUANA RESULT: &frac12;-&frac12;NAKAMURA VS GUKESH RESULT: 0-1 ROUND 2 &#124; GAME 2 CARUANA VS CARLSEN RESULT: 0-1GUKESH VS NAKAMURA RESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-1/\">POSTGAME DAY 1 | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -10,11 +18,11 @@ news_feed (
          "title" : "POSTGAME DAY 1 | #ChampionsShowdown"
       },
       {
-         "description" : "World Champion Gukesh Dommaraju leads the 2025 Clutch Chess: Champions Showdown with four points after a possible six on day one. After losing game one against GM Magnus Carlsen, he had the best day, scoring three wins and two draws in his remaini...",
+         "description" : "World Champion Gukesh Dommaraju leads the 2025 Clutch Chess: Champions Showdown with four points out of a possible six on day one. After losing game one against GM Magnus Carlsen, he had the best day, scoring three wins and two draws in his remain...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-clutch-chess-champions-showdown-day-1",
-         "pubDate" : "Mon, 27 Oct 2025 17:55:37",
+         "pubDate" : "Mon, 27 Oct 2025 17:55:00",
          "title" : "Gukesh Leads After Game 1 Loss"
       },
       {
