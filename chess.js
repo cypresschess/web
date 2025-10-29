@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen took the sole lead after day two of the Clutch Chess: Champions Showdown in Saint Louis, reaching 11&frac12; points following four wins from six games - despite expressing dissatisfaction with his play. Fabiano Caruana climbed from last place to second on 10&frac12; points by scoring 9 points across the day, while Hikaru Nakamura and Gukesh Dommaraju slipped to joint last on 7. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2025-2",
+         "pubDate" : "Wed, 29 Oct 2025 14:20:00",
+         "title" : "Champions Showdown: Carlsen leads, Caruana climbs to second place"
+      },
+      {
+         "description" : "In Saint Louis, Fabiano Caruana has just won the U.S. Championship for the fourth time in a row and is currently playing in the Clutch Chess Champions Showdown. Sagar Shah from ChessBase India is also in Saint Louis to cover the event and took the opportunity to interview Caruana. In their conversation, Caruana spoke about the Clutch Chess Champions Showdown and the 2014 Sinquefield Cup, and also shared fond memories of Daniel Naroditsky. | Picture: Video screenshot",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-sinquefield-cup-and-daniel-naroditsky-an-interview-with-fabiano-caruana",
+         "pubDate" : "Wed, 29 Oct 2025 14:15:51",
+         "title" : "St. Louis, Sinquefield Cup and Daniel Naroditsky - An interview with Fabiano Caruana"
+      },
+      {
          "description" : "In this second October Monthly Dragon, Chris Ward let Arne pick two games. Game 1 (Yugoslav, Chinese variation) shows classic opposite-wing play, while Game 2 (Yugoslav, with g3) is a model Dragon win. The episode highlights practical Dragon themes-pawn sacs on the queen side, neutralizing Bh6 ideas, pinned-knight motifs on d5, and the power of coordinated rooks and queen on the b-file. | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +34,14 @@ news_feed (
          "title" : "ECF Annual General Meeting 25th October 2025"
       },
       {
+         "description" : "The reigning champions of the Collegiate Chess League (CCL), Saint Louis University&#38;nbsp;(SLU), have a difficult path to defending their title. They have lost a match already, and have not yet played the other finalist from last season, the Univer...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-ccl-fall-week-5-slu-srm",
+         "pubDate" : "Wed, 29 Oct 2025 06:17:55",
+         "title" : "SLU Shows Class, Defeats SRM"
+      },
+      {
          "description" : "The 33rd FIDE World Senior Championships are underway in Gallipoli, Italy, with a record 467 participants competing across four age-group categories. After seven rounds, the standings remain tightly contested, particularly in the largest section, the 65+ Open. Leading figures such as Victor Mikhalevski and Ketevan Arakhamia-Grant currently top their respective groups, but with four rounds still to play, the battle for the senior world titles remains wide open. | Photos: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,20 +50,20 @@ news_feed (
          "title" : "World Senior Championships: Record participation in Gallipoli"
       },
       {
+         "description" : "The FIDE Chess World Cup 2025 comes to India, starting from October 31 to November 27 in Goa.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/46764782/fide-world-cup-2025-all-need-know-chess-tournament-goa?device=featurephone",
+         "pubDate" : "Wed, 29 Oct 2025 01:01:22",
+         "title" : "FIDE World Cup 2025: All you need to know about chess tournament in Goa"
+      },
+      {
          "description" : " ROUND 4 &#124; GAME 1 CARLSEN VS GUKESH RESULT: 1-0NAKAMURA VS CARUANA RESULT: 0-1 ROUND 4 &#124; GAME 2 GUKESH VS CARLSEN RESULT: 0-1CARUANA VS NAKAMURA RESULT: 0-1 ROUND 5 &#124; GAME 1 GUKESH VS NAKAMURA RESULT: &frac12;-&frac12;CARUANA VS CARLSEN RESULT: 1-0 ROUND 5 &#124; GAME 2 NAKAMURA VS GUKESH RESULT: &frac12;-&frac12;CARLSEN VS CARUANA RESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-2/\">POSTGAME DAY 2 | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-2/",
          "pubDate" : "Tue, 28 Oct 2025 21:34:23",
          "title" : "POSTGAME DAY 2 | #ChampionsShowdown"
-      },
-      {
-         "description" : "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Reigning world champion Gukesh Dommaraju joins Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana in a concentrated three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2025-live",
-         "pubDate" : "Tue, 28 Oct 2025 17:50:00",
-         "title" : "Clutch Chess: Champions Showdown - Live!"
       },
       {
          "description" : "GM Magnus Carlsen leads the 2025 Clutch Chess: Champions Showdown after day two. The world number-one won both games in both matches against World Champion Gukesh Dommaraju and GM Hikaru Nakamura, so that he was still in first even with two losses...",
@@ -58,14 +82,6 @@ news_feed (
          "title" : "Gukesh Heads Youngest Ever Field For 2026 Tata Steel Chess Masters"
       },
       {
-         "description" : "We take a unique behind-the-scenes look at how top chess masters organize their digital workspace. Grandmasters and trainers like Svitlana Demchenko, Robert Ris, Michael Prusikin, Harald Schneider-Zinner, Frederik Svane, Felix Blohberger, and Dorian Rogozenco share their screens to reveal their personal ChessBase 18 setups - from meticulously clean desktops to chaotic databases full of ideas. They show us their board designs, current projects, and discuss their favourite or most-used ChessBase functions, offering fascinating insights into how great minds prepare, study, and work with chess every day.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/my-chessbase-18-desktop-robert-ris",
-         "pubDate" : "Tue, 28 Oct 2025 15:00:00",
-         "title" : "My ChessBase 18 Desktop! - Robert Ris"
-      },
-      {
          "description" : "GM Oleksandr Bortnyk won Titled Tuesday on October 28, taking his last seven games of the tournament for a come-from-behind outright victory on 10 points out of 11. GM Maxime Vachier-Lagrave was actually the only player not to lose a game during t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -82,28 +98,12 @@ news_feed (
          "title" : "Study Reveals New Insights Into Gender Gap In Chess: Equal Start, Equal Progress"
       },
       {
-         "description" : "Reigning world champion Gukesh Dommaraju leads the Clutch Chess: Champions Showdown after the opening day in Saint Louis, having recovered from an early loss to Magnus Carlsen with three wins and two draws. Carlsen, Hikaru Nakamura and Fabiano Caruana all experienced fluctuating fortunes across a demanding schedule of rapid double round-robin play. With the value of each victory set to rise over the next two days, the standings remain closely poised for an event that rewards sustained ambition. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2025-1",
-         "pubDate" : "Tue, 28 Oct 2025 09:15:00",
-         "title" : "Champions Showdown: Gukesh leads, Carlsen trails a half point back"
-      },
-      {
          "description" : "We&#39;re excited to announce the next event of the Chess.com Community Championships. The Chess.com Crazyhouse Chess Championship starts on November 6 and features a $2,500 prize fund. Featuring a variant where initiative is everything, get ready for...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-2025-chesscom-crazyhouse-chess-championship",
          "pubDate" : "Tue, 28 Oct 2025 08:00:00",
          "title" : "Go Crazy With The Next Event Of The Chess.com Community Championships Starting November 6"
-      },
-      {
-         "description" : "Last Sunday, 26 October 2025, Mihai Șubă passed away in Spain. Born in Romania, he started playing chess very late in life but became one of the best players in his country. In the 1980s, he was considered a leading expert on the \"hedgehog\" structure. In 2008, Suba tied for first place at the World Senior Championships, and in 2011 he became European Senior Champion. | Photo: Weebly",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mihai-suba-1947-2025",
-         "pubDate" : "Tue, 28 Oct 2025 07:53:55",
-         "title" : "Mihai Suba (1 June 1947 - 26 October 2025)"
       },
       {
          "description" : "This week's puzzles once again all come from the just-concluded 2025 U.S. Championship and Women's Championship. Every day, a rotating cast of annotators are covering key games from the event on Chess Life Online, and you can find all the annotations here. When learning chess, it's important to look at the moves that aren't played, as well as the ones that are. Today, almost every puzzle comes from a variation that looked reasonable, but would have been losing. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -128,14 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-clutch-chess-champions-showdown-day-1",
          "pubDate" : "Mon, 27 Oct 2025 17:55:00",
          "title" : "Gukesh Leads Clutch Chess After Game 1 Loss"
-      },
-      {
-         "description" : "Two hundred and six of the world's best chess players from more than 80 countries will descend on Goa, India, this week for the 2025 FIDE World Cup, arguably the most important individual chess event of the year. From October 30 to November 27, players will battle through a gruelling knockout format for a share of the USD 2 million prize fund and, more importantly, the three coveted qualification spots for the 2026 FIDE Candidates Tournament - the gateway to the next World Championship match.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/preview-fide-world-cup-2025-goa-india",
-         "pubDate" : "Mon, 27 Oct 2025 15:04:34",
-         "title" : "Preview: FIDE World Cup 2025 - Goa"
       },
       {
          "description" : " The FIDE World Cup takes place in Goa, India, Sat 1st to Wed 26th Nov 2025. Players include: World Champion Gukesh, Erigaisi, Praggnanandhaa, Giri, So, Keymer, Wei Yi, Abdusattorov, Mamedyarov, Niemann, MVL, Nepomniachtchi, Le, Rapport, Aronian etc. It is a seven round knockout but the top 50 players only enter the competition in round 2 alongside the 78 winners of Round 1. The top three finishers will qualify for the Candidates tournament although players such as Gukesh and Giri and Caruana don't require this and the extra place will be awarded to \"another path\" in the qualification system. The <a href=\"https://theweekinchess.com/chessnews/events/fide-womens-world-cup-2025\">Women's World C",
@@ -184,14 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-endgame-challenge-2",
          "pubDate" : "Mon, 27 Oct 2025 11:25:26",
          "title" : "Chess Endgame Challenge"
-      },
-      {
-         "description" : "The eighth edition of the Salamanca Masters once again brought top-level rapid chess to the historic Spanish city. Six players from five countries took part in a double round-robin event valid for FIDE rapid ratings, with world junior champion Pranav Venkatesh producing a dominant performance. The format maintained equal representation between male and female competitors, reflecting ongoing institutional support for the tournament's role within the international chess calendar. | Photos: University of Salamanca - USAL",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/salamanca-festival-2025-final-report",
-         "pubDate" : "Mon, 27 Oct 2025 10:35:00",
-         "title" : "Pranav dominates Salamanca Masters, scores 9&frac12; out of 10"
       },
       {
          "description" : "SuperChess, the Romanian club with an in-form world champion on top board, won the European Club Cup in Rhodes, Greece, on Saturday. Scoring an undefeated 4/5, GM Gukesh Dommaraju is back in the world&#39;s top 10. Cercle d&#39;Echecs de Monte-Carlo won t...",
@@ -824,14 +808,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-5-tatevs-spectacular-style-nets-second-win-uschesschamps/",
          "pubDate" : "Fri, 17 Oct 2025 23:50:04",
          "title" : "POSTGAME ROUND 5: Tatev's Spectacular Style Nets Second Win! #USChessChamps"
-      },
-      {
-         "description" : "GM Hikaru Nakamura defeated GM Liem Le 13.5-11.5 in the Speed Chess Championship 2025 Round of 16 on October 17. Though Nakamura dominated the first two portions of the match, it was in the bullet segment, surprisingly, that Le nearly made a heroi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-r16-nakamura-le",
-         "pubDate" : "Fri, 17 Oct 2025 12:07:00",
-         "title" : "Nakamura Wins Despite Liem Le's Bullet Comeback"
       },
       {
          "description" : "The 40th European Chess Club Cup and the 29th European Women's Chess Club Cup will commence this weekend in Rhodes, Greece! The events will be played in 7-swiss round, with the time control of 90 minutes for 30 moves, plus 30-minute until the end of the game, with 30-second increment for each move starting from move one. The event features the record-breaking participation of 122 clubs (102 in Open event and 20 teams will participate in Women's championship) represented by []",
