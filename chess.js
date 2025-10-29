@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " ROUND 7 GAME 1 CARUANA VS NAKAMURA RESULT: &frac12;-&frac12;GUKESH VS CARLSEN RESULT: 0-1 GAME 2 NAKAMURA VS CARUANA RESULT: 0-1CARLSEN VS GUKESH RESULT: 1-0 ROUND 8 GAME 1 CARLSEN VS CARUANA RESULT: 1-0NAKAMURA VS GUKESH RESULT: &frac12;-&frac12; GAME 2 CARUANA VS CARLSEN RESULT: 0-1GUKESH VS NAKAMURA RESULT: 0-1 ROUND 9 GAME 1 CARUANA VS GUKESH [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-3/\">POSTGAME FINAL: Magnus Plays His Best Chess on Clutch Day! | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-3/",
+         "pubDate" : "Wed, 29 Oct 2025 21:59:27",
+         "title" : "POSTGAME FINAL: Magnus Plays His Best Chess on Clutch Day! | #ChampionsShowdown"
+      },
+      {
+         "description" : " The Clutch Chess: Champions Showdown took place in Saint Louis Mon 27th Oct to Wed 29th Oct 2025. Magnus Carlsen, Fabiano Caruana, Hikaru Nakamura and World Champion Gukesh played three days of fast rapid chess (10m+5spm), a double round robin each day, eventually adding up to 18 rounds, Clutch chess is a special scoring system where the points available from each game increased each day from 1 to 2 to 3 with similar increases for draws from 0.5 to 1 to 1.5. Magnus Carlsen was the runaway winner, the large margin was due to his domination of Gukesh who made huge errors in their games and only managed one draw, there has to be a psychological component to these mistakes as his score was perf",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-champions-showdown-2025",
+         "pubDate" : "Wed, 29 Oct 2025 21:35:00",
+         "title" : "Clutch Chess: Champions Showdown 2025 - Games and Results"
+      },
+      {
+         "description" : "The European Youth Chess Championship 2025 has started in Budva, Montenegro! The spectacular Opening ceremony of the event took place yesterday afternoon, in the Slovenska plaza Hotel complex. The ceremony was attended by the ECU President Mr. Zurab Azmaiparashvili, President of the Montenegro Chess Federation Mr. Jovan Milovic, Director of the Directorate for Sports Infrastructure Mr. Milan Jancic, Mayor of Budva Municipality Mr. Nikola Jovanovic, who addressed the delegations, players, and distinguished guests. As part of the cultural program, a []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-championship-2025-commenced-in-montenegro/",
+         "pubDate" : "Wed, 29 Oct 2025 21:21:59",
+         "title" : "European Youth Chess Championship 2025 commenced in Montenegro"
+      },
+      {
+         "description" : "Wijk aan Zee is set to welcome the chess world once again as the 88th Tata Steel Chess Tournament takes place from 16 January to 1 February 2026. Known as the 'Wimbledon of Chess', the event boasts its youngest lineups to date, with four top-10 players and a 23-year average age. Rising stars, established elite competitors and a passionate local community promise a thrilling and vibrant edition by the Dutch coast. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-lineup",
+         "pubDate" : "Wed, 29 Oct 2025 19:00:00",
+         "title" : "Tata Steel Chess 2026: Youngest lineup ever in Wijk!"
+      },
+      {
          "description" : "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Reigning world champion Gukesh Dommaraju joins Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana in a concentrated three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/st-louis-sinquefield-cup-and-daniel-naroditsky-an-interview-with-fabiano-caruana",
          "pubDate" : "Wed, 29 Oct 2025 14:15:51",
          "title" : "St. Louis, Sinquefield Cup and Daniel Naroditsky - An interview with Fabiano Caruana"
+      },
+      {
+         "description" : "GM Magnus Carlsen won the 2025 Clutch Chess: Champions Showdown with two games to spare. He defeated World Champion Gukesh Dommaraju two times, and then beat GM Fabiano Caruana twice, to win the event and earn $120,000, all before his final match ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-2025-clutch-chess-champions-showdown",
+         "pubDate" : "Wed, 29 Oct 2025 14:03:34",
+         "title" : "Carlsen Wins Clutch Chess With 2 Games To Spare"
       },
       {
          "description" : "In a new study, researchers at Google DeepMind have created an AI system capable of generating creative chess puzzles, some of which impressed experts in chess compositions. The 75-page study titled &#34;Generative Chess Puzzles,&#34; was led by Google&#39;...",
@@ -82,12 +122,12 @@ news_feed (
          "title" : "Wednesday Workout: Clutch Chess Champions, Day 1"
       },
       {
-         "description" : " ROUND 4 &#124; GAME 1 CARLSEN VS GUKESH RESULT: 1-0NAKAMURA VS CARUANA RESULT: 0-1 ROUND 4 &#124; GAME 2 GUKESH VS CARLSEN RESULT: 0-1CARUANA VS NAKAMURA RESULT: 0-1 ROUND 5 &#124; GAME 1 GUKESH VS NAKAMURA RESULT: &frac12;-&frac12;CARUANA VS CARLSEN RESULT: 1-0 ROUND 5 &#124; GAME 2 NAKAMURA VS GUKESH RESULT: &frac12;-&frac12;CARLSEN VS CARUANA RESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-2/\">POSTGAME DAY 2 | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : " ROUND 4 &#124; GAME 1 CARLSEN VS GUKESH RESULT: 1-0NAKAMURA VS CARUANA RESULT: 0-1 ROUND 4 &#124; GAME 2 GUKESH VS CARLSEN RESULT: 0-1CARUANA VS NAKAMURA RESULT: 0-1 ROUND 5 &#124; GAME 1 GUKESH VS NAKAMURA RESULT: &frac12;-&frac12;CARUANA VS CARLSEN RESULT: 1-0 ROUND 5 &#124; GAME 2 NAKAMURA VS GUKESH RESULT: &frac12;-&frac12;CARLSEN VS CARUANA RESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-2/\">POSTGAME DAY 2: Magnus Turns on the Afterburner | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-2/",
          "pubDate" : "Tue, 28 Oct 2025 21:34:23",
-         "title" : "POSTGAME DAY 2 | #ChampionsShowdown"
+         "title" : "POSTGAME DAY 2: Magnus Turns on the Afterburner | #ChampionsShowdown"
       },
       {
          "description" : "GM Magnus Carlsen leads the 2025 Clutch Chess: Champions Showdown after day two. The world number-one won both games in both matches against World Champion Gukesh Dommaraju and GM Hikaru Nakamura, so that he was still in first even with two losses...",
@@ -160,14 +200,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2025",
          "pubDate" : "Mon, 27 Oct 2025 14:41:00",
          "title" : "FIDE World Cup 2025 - Games and Results"
-      },
-      {
-         "description" : " The Clutch Chess: Champions Showdown takes place in Saint Louis Mon 27th Oct to Wed 29th Oct 2025. Magnus Carlsen, Fabiano Caruana, Hikaru Nakamura and World Champion Gukesh play three days of fast rapid chess (10m+5spm), a double round robin each day, eventually adding up to 18 rounds. Play starts at midday local time (5pm GMT). Clutch Chess is concept invented by Maurice Ashley and the key is its scoring system which increases over the course of the event. On day one there is the standard scoring system of one, half and zero, day two doubles that, day three trebles the standard score. The event is described as \"a comeback-friendly format that cultivates increased tension and fan excitemen",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-champions-showdown-2025",
-         "pubDate" : "Mon, 27 Oct 2025 14:19:00",
-         "title" : "Clutch Chess: Champions Showdown 2025 - Games and Results"
       },
       {
          "description" : "GM Hans Niemann demolished former World Champion Ding Liren 18-6 to reach the Speed Chess Championship 2025 Quarterfinals. Ding&#39;s first win came in game 12, when a 10-1 scoreline had already made a comeback all but impossible. Niemann will now fac...",
@@ -778,14 +810,6 @@ news_feed (
          "title" : "European Chess Club Cup 2025 officially opened"
       },
       {
-         "description" : "The 16-year-old Turkish prodigy and GM Ediz Gurel has moved to fifth on the all-time Bullet Brawl leaderboard after picking up his third win of 2025. Gurel scored 177 points, comprising 49 wins, six draws, and seven losses, giving him a winning ma...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-oct-18-2025",
-         "pubDate" : "Sat, 18 Oct 2025 17:18:00",
-         "title" : "16-Year-Old Gurel Steamrolls His Way To 5th Bullet Brawl Title"
-      },
-      {
          "description" : "There are four stages to chess improvement. Most players get stuck in one of the earlier stages. Or try to go to stage 4 without any preparation. Which usually leads to disaster. Curious about the stages? I'm sure you'll resonate with some of those: Stage 1: Random Improvements You get into chess and just wing []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -808,22 +832,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-sna-seminar-on-6-7th-september-in-jammu/",
          "pubDate" : "Sat, 18 Oct 2025 08:18:09",
          "title" : "Certificate of SNA Seminar on 6-7th September in Jammu"
-      },
-      {
-         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 5 &#124; GAME LINKS NIEMANN VS MISHRA RESULT: 1-0SEVIAN VS WOODWARD RESULT: 0-1ROBSON VS SHANKLAND RESULT: &frac12;-&frac12;LIANG VS OPARIN RESULT: &frac12;-&frac12;SWIERCZ VS CARUANA RESULT: 0-1SO VS ARONIAN RESULT: &frac12;-&frac12; ROUND 5 &#124; GAME LINKS CERVANTES LANDEIRO [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-5-tatevs-spectacular-style-nets-second-win-uschesschamps/\">POSTGAME ROUND 5: Tatev's Spectacular Style Nets Second Win! #USChessChamps</a> appeared first on <a href=\"https://saintlouische",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-5-tatevs-spectacular-style-nets-second-win-uschesschamps/",
-         "pubDate" : "Fri, 17 Oct 2025 23:50:04",
-         "title" : "POSTGAME ROUND 5: Tatev's Spectacular Style Nets Second Win! #USChessChamps"
-      },
-      {
-         "description" : "The 40th European Chess Club Cup and the 29th European Women's Chess Club Cup will commence this weekend in Rhodes, Greece! The events will be played in 7-swiss round, with the time control of 90 minutes for 30 moves, plus 30-minute until the end of the game, with 30-second increment for each move starting from move one. The event features the record-breaking participation of 122 clubs (102 in Open event and 20 teams will participate in Women's championship) represented by []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-club-cup-2025-starts-in-rhodes/",
-         "pubDate" : "Fri, 17 Oct 2025 07:57:16",
-         "title" : "European Chess Club Cup 2025 starts in Rhodes"
       },
       {
          "description" : "Take a look at this position. In order to have any winning chances, White must clearly move his rook. There are nine squares it can safely occupy, but only one retains the win. Can you find it? Today we have four problems that will challenge your endgame skills. Try to solve them by moving pieces on our interactive diagrams. The video solutions will be provided in a week.",
