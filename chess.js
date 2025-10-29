@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Magnus Carlsen took the sole lead after day two of the Clutch Chess: Champions Showdown in Saint Louis, reaching 11&frac12; points following four wins from six games - despite expressing dissatisfaction with his play. Fabiano Caruana climbed from last place to second on 10&frac12; points by scoring 9 points across the day, while Hikaru Nakamura and Gukesh Dommaraju slipped to joint last on 7. | Photo: Lennart Ootes",
+         "description" : "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Reigning world champion Gukesh Dommaraju joins Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana in a concentrated three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2025-2",
-         "pubDate" : "Wed, 29 Oct 2025 14:20:00",
-         "title" : "Champions Showdown: Carlsen leads, Caruana climbs to second place"
+         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2025-live",
+         "pubDate" : "Wed, 29 Oct 2025 17:50:00",
+         "title" : "Clutch Chess: Champions Showdown - Live!"
       },
       {
          "description" : "In Saint Louis, Fabiano Caruana has just won the U.S. Championship for the fourth time in a row and is currently playing in the Clutch Chess Champions Showdown. Sagar Shah from ChessBase India is also in Saint Louis to cover the event and took the opportunity to interview Caruana. In their conversation, Caruana spoke about the Clutch Chess Champions Showdown and the 2014 Sinquefield Cup, and also shared fond memories of Daniel Naroditsky. | Picture: Video screenshot",
@@ -16,6 +16,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/st-louis-sinquefield-cup-and-daniel-naroditsky-an-interview-with-fabiano-caruana",
          "pubDate" : "Wed, 29 Oct 2025 14:15:51",
          "title" : "St. Louis, Sinquefield Cup and Daniel Naroditsky - An interview with Fabiano Caruana"
+      },
+      {
+         "description" : "In a new study, researchers at Google DeepMind have created an AI system capable of generating creative chess puzzles, some of which impressed experts in chess compositions. The 75-page study titled &#34;Generative Chess Puzzles,&#34; was led by Google&#39;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ai-learns-to-create-original-chess-puzzles-earns-praise-from-grandmasters",
+         "pubDate" : "Wed, 29 Oct 2025 11:49:42",
+         "title" : "DeepMind's AI Learns To Create Original Chess Puzzles, Praised By GMs"
       },
       {
          "description" : "In this second October Monthly Dragon, Chris Ward let Arne pick two games. Game 1 (Yugoslav, Chinese variation) shows classic opposite-wing play, while Game 2 (Yugoslav, with g3) is a model Dragon win. The episode highlights practical Dragon themes-pawn sacs on the queen side, neutralizing Bh6 ideas, pinned-knight motifs on d5, and the power of coordinated rooks and queen on the b-file. | Photo: John Upham",
@@ -38,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-ccl-fall-week-5-slu-srm",
-         "pubDate" : "Wed, 29 Oct 2025 06:17:55",
+         "pubDate" : "Wed, 29 Oct 2025 06:17:00",
          "title" : "SLU Shows Class, Defeats SRM"
       },
       {
@@ -50,12 +58,28 @@ news_feed (
          "title" : "World Senior Championships: Record participation in Gallipoli"
       },
       {
+         "description" : "With defending champion Magnus Carlsen missing, who can win the Chess World Cup 2025?",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/46765391/gukesh-praggnanandhaa-vincent-keymer-anish-giri-wesley-the-favourites-win-fide-world-cup-2025?device=featurephone",
+         "pubDate" : "Wed, 29 Oct 2025 03:54:19",
+         "title" : "Gukesh, Praggnanandhaa, Vincent: Who are the favourites to win FIDE World Cup 2025?"
+      },
+      {
          "description" : "The FIDE Chess World Cup 2025 comes to India, starting from October 31 to November 27 in Goa.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/46764782/fide-world-cup-2025-all-need-know-chess-tournament-goa?device=featurephone",
          "pubDate" : "Wed, 29 Oct 2025 01:01:22",
          "title" : "FIDE World Cup 2025: All you need to know about chess tournament in Goa"
+      },
+      {
+         "description" : "This week's puzzles come from the first day of the Clutch Chess: Champions Showdown, currently taking place at the Saint Louis Chess Club. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-clutch-chess-champions-day-1",
+         "pubDate" : "Wed, 29 Oct 2025 00:00:00",
+         "title" : "Wednesday Workout: Clutch Chess Champions, Day 1"
       },
       {
          "description" : " ROUND 4 &#124; GAME 1 CARLSEN VS GUKESH RESULT: 1-0NAKAMURA VS CARUANA RESULT: 0-1 ROUND 4 &#124; GAME 2 GUKESH VS CARLSEN RESULT: 0-1CARUANA VS NAKAMURA RESULT: 0-1 ROUND 5 &#124; GAME 1 GUKESH VS NAKAMURA RESULT: &frac12;-&frac12;CARUANA VS CARLSEN RESULT: 1-0 ROUND 5 &#124; GAME 2 NAKAMURA VS GUKESH RESULT: &frac12;-&frac12;CARLSEN VS CARUANA RESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-2/\">POSTGAME DAY 2 | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -666,14 +690,6 @@ news_feed (
          "title" : "National Chess Day Wrap-Up"
       },
       {
-         "description" : "It was very difficult for me to write today's report. Like all in the chess community, I am deeply shaken by the tragic death of one of the sport's brightest lights, GM Daniel Naroditsky, at the age of only 29.Danya was one of my role models when I was growing up. I loved his book, Mastering Complex Endgames (published when he was only 17), and never missed his articles on Chess.com and in Chess Life. Apart from being an incredibly strong player, Danya was an incredible communicator who wrote and spoke with unmatched eloquence and precision of language. He was a fantastic streamer and commentator; countless people benefited from his teaching and wisdom. He was too young and too brilliant to ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/round-8-lee-aronian-make-moves-difficult-day",
-         "pubDate" : "Tue, 21 Oct 2025 00:00:00",
-         "title" : "Round 8: Lee, Aronian Make Moves on Difficult Day"
-      },
-      {
          "description" : "Today, his family announced the death of Daniel Naroditsky. The talented American grandmaster was an active online player and streamer, as well as a popular commentator. He would have turned 30 on 9 November. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -792,14 +808,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-sna-seminar-on-6-7th-september-in-jammu/",
          "pubDate" : "Sat, 18 Oct 2025 08:18:09",
          "title" : "Certificate of SNA Seminar on 6-7th September in Jammu"
-      },
-      {
-         "description" : "GM Hans Niemann ended GM Abhimanyu Mishra&#39;s 71-game unbeaten streak to join GMs Wesley So and Fabiano Caruana in the 2025 U.S. Chess Championship lead after round five. So&#39;s sole lead ended with a 15-minute draw against GM Levon Aronian, and he wa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-us-championship-round-5",
-         "pubDate" : "Sat, 18 Oct 2025 02:45:00",
-         "title" : "Niemann, Caruana Catch So; Christmas Comes Early For Carissa Yip"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 5 &#124; GAME LINKS NIEMANN VS MISHRA RESULT: 1-0SEVIAN VS WOODWARD RESULT: 0-1ROBSON VS SHANKLAND RESULT: &frac12;-&frac12;LIANG VS OPARIN RESULT: &frac12;-&frac12;SWIERCZ VS CARUANA RESULT: 0-1SO VS ARONIAN RESULT: &frac12;-&frac12; ROUND 5 &#124; GAME LINKS CERVANTES LANDEIRO [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-5-tatevs-spectacular-style-nets-second-win-uschesschamps/\">POSTGAME ROUND 5: Tatev's Spectacular Style Nets Second Win! #USChessChamps</a> appeared first on <a href=\"https://saintlouische",
