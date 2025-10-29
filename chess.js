@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this second October Monthly Dragon, Chris Ward let Arne pick two games. Game 1 (Yugoslav, Chinese variation) shows classic opposite-wing play, while Game 2 (Yugoslav, with g3) is a model Dragon win. The episode highlights practical Dragon themes-pawn sacs on the queen side, neutralizing Bh6 ideas, pinned-knight motifs on d5, and the power of coordinated rooks and queen on the b-file. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-theory-of-beating-the-yugoslav-attack",
+         "pubDate" : "Wed, 29 Oct 2025 09:54:30",
+         "title" : "The Monthly Dragon - Theory of beating the Yugoslav Attack"
+      },
+      {
+         "description" : "The Annual General Meeting of the ECF was held on 25th October in Birmingham and via video conference.&#160;Please note that the agenda and all the reports can be found on...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-annual-general-meeting-25th-october-2025/",
+         "pubDate" : "Wed, 29 Oct 2025 08:19:07",
+         "title" : "ECF Annual General Meeting 25th October 2025"
+      },
+      {
+         "description" : "The 33rd FIDE World Senior Championships are underway in Gallipoli, Italy, with a record 467 participants competing across four age-group categories. After seven rounds, the standings remain tightly contested, particularly in the largest section, the 65+ Open. Leading figures such as Victor Mikhalevski and Ketevan Arakhamia-Grant currently top their respective groups, but with four rounds still to play, the battle for the senior world titles remains wide open. | Photos: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-senior-championship-2025-r7",
+         "pubDate" : "Wed, 29 Oct 2025 06:05:00",
+         "title" : "World Senior Championships: Record participation in Gallipoli"
+      },
+      {
          "description" : " ROUND 4 &#124; GAME 1 CARLSEN VS GUKESH RESULT: 1-0NAKAMURA VS CARUANA RESULT: 0-1 ROUND 4 &#124; GAME 2 GUKESH VS CARLSEN RESULT: 0-1CARUANA VS NAKAMURA RESULT: 0-1 ROUND 5 &#124; GAME 1 GUKESH VS NAKAMURA RESULT: &frac12;-&frac12;CARUANA VS CARLSEN RESULT: 1-0 ROUND 5 &#124; GAME 2 NAKAMURA VS GUKESH RESULT: &frac12;-&frac12;CARLSEN VS CARUANA RESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-2/\">POSTGAME DAY 2 | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -22,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-clutch-chess-champions-showdown-day-2",
-         "pubDate" : "Tue, 28 Oct 2025 16:12:57",
+         "pubDate" : "Tue, 28 Oct 2025 16:12:00",
          "title" : "Carlsen Leads, Caruana Sprints To 2nd From Last"
       },
       {
@@ -882,14 +906,6 @@ news_feed (
          "title" : "2026 British Championships Venue Announcement"
       },
       {
-         "description" : "The 5th FIDE Intercontinental Online Chess Championship for Prisoners is taking place from October 14 to 16, 2025, bringing together incarcerated men, women, and youth from correctional facilities around the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/the-5th-fide-intercontinental-online-chess-championship-for-prisoners/",
-         "pubDate" : "Wed, 15 Oct 2025 06:20:33",
-         "title" : "The 5th FIDE Intercontinental Online Chess Championship for Prisoners"
-      },
-      {
          "description" : " The 25th European Team championships took place in Batumi, Georgia 5th to 14th October 2025. Leading players such as Anish Giri, Vincent Keymer, Shakhriyar Mamedyarov, Richard Rapport competed, the field had 56 players over 2600. In the women's event the leading players were Nana Dzagnidze, Nino Batsiashvili, Alexandra Kosteniuk etc. Ukraine won the event by beating England 2.5-1.5 in the final round. Azerbaijan finished second in spite of losing to Serbia in the last round whose win earned them a third place finish. In the women's event Poland beat Azerbaijan in the final round to take first place, Ukraine drew with Armenia to take second place and Germany finished third in spite of losing",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -976,22 +992,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-national-under-13-chess-championship-2025-in-goa/",
          "pubDate" : "Thu, 09 Oct 2025 12:37:28",
          "title" : "Certificate: National Under 13 Chess Championship 2025 in Goa ."
-      },
-      {
-         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/25th-european-teams-2025\">European Team Championships</a> got underway on Sunday. This is still one of the highlights of the chess calendar. If you're looking for high-quality, motivated chess, this is your tournament. Russia is absent due to the war in Ukraine (or, if you prefer, because it now belongs to the Asian Federation), and Norway couldn't afford to send a team, but quality is everywhere. Top-seeded Germany lost to 21st-seeded Denmark. They outrated them on every board, but not by so much that the result was outrageous. After three rounds, Serbia and Greece are the only teams with perfect scores. The Netherlands, Azerbaijan, ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess-highlights-this-week-european-teams-russian-championship-and-anand-vs-kasparov",
-         "pubDate" : "Wed, 8 Oct 2025 11:03:00",
-         "title" : "Chess Highlights this Week : European Teams, Russian Championship, and Anand vs Kasparov - "
-      },
-      {
-         "description" : "You may have seen it before. In this very famous position, composed almost exactly a century ago, it is White to play and draw. Which do you think is the stupidest move White could make. Right, that is the solution - it is the only move that saves the game. Problem expert Werner Keym illustrates this in a book which he has made available, as an eBook, to everyone, free of charge. Here are some excerpts to give you a taste. You can play them out on the diagrams we provide.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/werner-keym-problem-chess-art-6",
-         "pubDate" : "Wed, 08 Oct 2025 08:53:52",
-         "title" : "Werner Keym: Problem Chess Art"
       }
    ]
 }
