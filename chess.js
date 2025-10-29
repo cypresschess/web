@@ -58,14 +58,6 @@ news_feed (
          "title" : "Study Reveals New Insights Into Gender Gap In Chess: Equal Start, Equal Progress"
       },
       {
-         "description" : "Some days ago, we presented the tough and complex battle that ensued between Emanuel Lasker and Mikhail Ivanovich Chigorin. In a semi-endgame the young German world champion held the pair of bishops, but it was the Russian forefighter with the pair of knights who emerged victorious in the end. The game has been the subject of controversy for 130 years, so we asked readers five questions about critical positions to shed some more light on it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/answers-lasker-chigorin-1895",
-         "pubDate" : "Tue, 28 Oct 2025 11:00:00",
-         "title" : "Lasker-Chigorin, Hastings 1895"
-      },
-      {
          "description" : "Reigning world champion Gukesh Dommaraju leads the Clutch Chess: Champions Showdown after the opening day in Saint Louis, having recovered from an early loss to Magnus Carlsen with three wins and two draws. Carlsen, Hikaru Nakamura and Fabiano Caruana all experienced fluctuating fortunes across a demanding schedule of rapid double round-robin play. With the value of each victory set to rise over the next two days, the standings remain closely poised for an event that rewards sustained ambition. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -194,14 +186,6 @@ news_feed (
          "title" : "World No. 3 Fabiano Caruana Wins Fifth U.S. Chess Championship; Carissa Yip Captures Fourth U.S. Women's Championship Title"
       },
       {
-         "description" : "SuperChess, led by world champion Gukesh Dommaraju, won the open section of the European Club Cup in Rhodes with a perfect 14/14 match score, defeating Tuxera Aquaprofit Nagykanizsai in the final round to secure the title. Alkaloid and Novy Bor finished second and third respectively. In the women's event, Cercle d'Échecs Monte Carlo clinched tournament victory after drawing their final match against Turkish Airlines. Sirmium Sremska Mitrovica took silver, while Tajfun SK Ljubljana earned bronze. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2025-7",
-         "pubDate" : "Mon, 27 Oct 2025 01:15:00",
-         "title" : "Euro Club Cup: SuperChess and Cercle d'Echecs Monte Carlo claim titles"
-      },
-      {
          "description" : "The 2nd FIDE Chess Olympiad for People with Disabilities was held Oct. 19-26 in Astana, Kazakhstan. The Russian team FIDE 1 won gold with 11 match points (5&frac12;/6), ahead of Poland (10 points), and Israel, which won bronze ahead of two other teams tied for third with nine points. The USA team tied for sixth with Cuba with four wins and two losses (eight match points). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> From left: Silver medalists Poland, champions FIDE 1, and bronze medalists Israel (All photos courtesy FIDE)<br> <br> <br> <br> The American team consisted of the brothers McConnell (Sullivan and Griffin) from Colorado on Board 1 and 2, ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -226,36 +210,12 @@ news_feed (
          "title" : "European Youth Chess Championship 2025 starts in Montenegro"
       },
       {
-         "description" : "Kazakhstan's capital, Astana, hosted a landmark celebration of inclusivity as the 2nd Chess Olympiad for People with Disabilities concluded on Republic Day. A record 34 teams took part in the over-the-board festival, which featured cultural performances, inspiring personal stories and fierce final-round battles. With FIDE confirming that future editions will be held alongside the main Olympiad starting in 2026, the event marked a major step toward full integration within the global chess community.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-people-disabilities-2025",
-         "pubDate" : "Sun, 26 Oct 2025 19:15:00",
-         "title" : "Winners crowned at Chess Olympiad for People with Disabilities"
-      },
-      {
-         "description" : "The 2025 US Chess Championships concluded on Friday in Saint Louis, with both Fabiano Caruana and Carissa Yip successfully defending their national titles. Caruana secured his fourth consecutive US Championship - the first player to achieve this since Bobby Fischer - while Yip claimed her third straight US Women's Championship, and her fourth overall. | Pictured: The US champions alongside Rex and Jeanne Sinquefield | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2025-11",
-         "pubDate" : "Sun, 26 Oct 2025 18:05:00",
-         "title" : "Fabiano Caruana and Carissa Yip win US Championships, again!"
-      },
-      {
          "description" : "The name of Andr&eacute; Danican Philidor still stands at the threshold of modern chess. He was the first to see the game as more than an affair of isolated brilliance - he saw it as a structure of ideas. Yet his chief musical work, the opera Tom Jones, contains no trace of chess. The two worlds []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/amadeus-ex-machina-chess-ai-and-music/",
          "pubDate" : "Sun, 26 Oct 2025 16:58:57",
          "title" : "Amadeus ex machina: chess, AI and music"
-      },
-      {
-         "description" : "Any idea how long the longest recorded chess game was? How many moves were played? It was the year 1989 when Ivan Nikoli&#263 and Goran Arsović played stunning 269 moves! Not only that, the game was also very interesting, as Svitlana demonstrates in this episode. But, there was actually a second game, which was even longer!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-longest-game-ever-played",
-         "pubDate" : "Sun, 26 Oct 2025 14:00:00",
-         "title" : "Svitlana's Smart Moves - The longest game ever played"
       },
       {
          "description" : "The 40th European Chess Club Cup and the 29th European Women's Chess Club Cup officially concluded yesterday in Rhodes, Greece. SuperChess clinched its maiden title in the Open tournament, while Cercle d'Echecs de Monte-Carlo won its 8th gold in the Women's section. Heading into the final round of the event, SuperChess (Romania) had a perfect score and 1 match point edge over Tuxera Aquaprofit Nagykanizsai Sakk klub (Hungary). The last round was marked with the direct encounter between the two []",
@@ -330,14 +290,6 @@ news_feed (
          "title" : "Daniel Naroditsky and the Chess World's Failure on Bullying"
       },
       {
-         "description" : "Michael Kotyk is a young chess coach from Hamburg. Below, he reviews Robert Ris's video course on the Colle & Zukertort System, an often underestimated system, but one that Kotyk has very personal memories of from his early days as a tournament player... | Photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-the-colle-system",
-         "pubDate" : "Sat, 25 Oct 2025 07:00:00",
-         "title" : "Review: The Colle System"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124798319.cms\" />Fabiano Caruana and Carissa Yip have clinched their US Chess Championship titles for 2025. Caruana secured his fifth overall championship with a fourth consecutive win, while Yip earned her fourth title with a third straight victory. Both champions displayed strategic prowess to maintain their leads and secure their dominant positions in the prestigious tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -352,14 +304,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fabiano-caruana-carissa-yip-win-2025-us-championships",
          "pubDate" : "Sat, 25 Oct 2025 02:24:00",
          "title" : "Caruana, Yip Repeat As U.S. Champions Once Again"
-      },
-      {
-         "description" : "FIDE President Arkady Dvorkovich has announced that recent public statements made by GM Vladimir Kramnik, both before and after the death of GM Daniel Naroditsky, will be referred to the FIDE Ethics and Disciplinary Commission for review. In a statement emphasising respect, dignity and accountability within the chess community, Dvorkovich reaffirmed FIDE's commitment to act against harassment or bullying and to uphold integrity and humanity as guiding principles of the sport.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-statement-vladimir-kramnik-october-2025",
-         "pubDate" : "Sat, 25 Oct 2025 01:15:00",
-         "title" : "FIDE statement regarding controversy surrounding Vladimir Kramnik"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 11 &#124; GAME LINKS ARONIAN VS CARUANA RESULT: &frac12;-&frac12;MISHRA VS WOODWARD RESULT: &frac12;-&frac12;SO VS OPARIN RESULT: &frac12;-&frac12;ROBSON VS SEVIAN RESULT: &frac12;-&frac12;NIEMANN VS SWIERCZ RESULT: &frac12;-&frac12;SHANKLAND VS LIANG RESULT: &frac12;-&frac12; ROUND 11 &#124; GAME LINKS Cervantes [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-final/\">POSTGAME FINAL: Champions are Crowned! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -400,14 +344,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-from-a-country-of-new-delhis-size-chess-gets-stressful-when-juggling-two-tournaments-in-a-day/articleshow/124781492.cms",
          "pubDate" : "Fri, 24 Oct 2025 09:27:26",
          "title" : "Exclusive | The Estonian who played two chess tournaments in two formats on same day - and came out a champion"
-      },
-      {
-         "description" : "Exactly one year ago, Robert Ris released an Underdog episode titled: 9-Year-Old Girl Defeats WIM Mariam Mkyrtchyan. Now, that same girl-Bodhana Sivanandan-is 10 years old, and once again finds herself the underdog, this time facing none other than GM Mariya Muzychuk! It appears that opponents whose names include the letters \"MKYC\" and \"H\" tend to inspire brilliancies from Bodhana. The young English prodigy is clearly on a mission to make sure that by 2026, no one will dare call her an underdog any more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/10-year-old-girl-wins-against-muzychuk-the-underdog",
-         "pubDate" : "Fri, 24 Oct 2025 07:45:17",
-         "title" : "10-Year-Old girl wins against Muzychuk - The Underdog"
       },
       {
          "description" : " The Fide president, Arkady Dvorkovich, said that Kramnik, who is accused of unfounded allegations against Naroditsky, will be referred to its ethics disciplinary committee Fide has responded to the <a href=\"https://www.theguardian.com/sport/2025/oct/20/daniel-naroditsky-dies-chess-grandmaster\">death of Daniel Naroditsky</a> by promising to take faster action over allegations by former world champion Vladimir Kramnik, which were made without significant evidence. The Fide president, Arkady Dvorkovich, announced on Wednesday that the case will be referred to its ethics and disciplinary committee, which has the power to ban players for life. The omens for that are not promising. A similar refe",
@@ -488,22 +424,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-icon-viswanathan-anand-inaugurates-global-chess-league-experience-centre-in-dallas/articleshow/124767413.cms",
          "pubDate" : "Thu, 23 Oct 2025 17:13:56",
          "title" : "Viswanathan Anand inaugurates GCL Experience Centre in Dallas"
-      },
-      {
-         "description" : "Last Sunday, the family of 29-year-old American grandmaster Daniel Naroditsky announced his passing. No cause of death was given. Now, a major controversy has broken out: former world champion Vladimir Kramnik is being accused of harassing Naroditsky with suspicion of cheating. It is far too early to come to any conclusion in this matter, but the story has been splashed over international straight newspapers and channels.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/breaking-accusations-against-kramnik",
-         "pubDate" : "Thu, 23 Oct 2025 16:15:00",
-         "title" : "Breaking: Accusations against Kramnik"
-      },
-      {
-         "description" : "Vincent Keymer raised his live Elo rating to 2771.7 with his third victory in three games at the European Club Cup in Rhodes. He is currently fourth in the world rankings, just ahead of Praggnanandhaa and Arjun Erigaisi, who he will play against in the fifth round of the European Club Cup. | Photo: Gerd Densing",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/he-wins-and-wins-and-wins-keymer-now-number-four-in-the-world",
-         "pubDate" : "Thu, 23 Oct 2025 09:50:32",
-         "title" : "He wins and wins and wins: Keymer now number four in the world"
       },
       {
          "description" : "I was recently invited to have tea at the House of Lords by Baroness Miller of Chilthorne Domer to discuss my work with chess in prisons. She plays chess herself...",
