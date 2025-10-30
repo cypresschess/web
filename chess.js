@@ -34,6 +34,14 @@ news_feed (
          "title" : "Tata Steel Chess 2026: Youngest lineup ever in Wijk!"
       },
       {
+         "description" : "GM Ian Nepomniachtchi at one point led by 10 points before finishing with a 17.5-10.5 score against GM Anish Giri to cruise into the Speed Chess Championship 2025 Quarterfinals. Nepomniachtchi called it, &#34;some really good training in the Catalan w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-r16-nepomniachtchi-giri",
+         "pubDate" : "Wed, 29 Oct 2025 18:48:00",
+         "title" : "Nepomniachtchi Cruises Past Giri To Set Up Quarterfinal Vs. Firouzja"
+      },
+      {
          "description" : "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Reigning world champion Gukesh Dommaraju joins Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana in a concentrated three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CEST (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +58,7 @@ news_feed (
          "title" : "St. Louis, Sinquefield Cup and Daniel Naroditsky - An interview with Fabiano Caruana"
       },
       {
-         "description" : "GM Magnus Carlsen won the 2025 Clutch Chess: Champions Showdown with two games to spare. He defeated World Champion Gukesh Dommaraju two times, and then beat GM Fabiano Caruana twice, to win the event and earn $120,000, all before his final match ...",
+         "description" : "GM Magnus Carlsen won the 2025 Clutch Chess: Champions Showdown with two games to spare. He defeated World Champion Gukesh Dommaraju two times, and then beat GM Fabiano Caruana twice, to win the event and earn the $120,000 first prize, all before ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-wins-2025-clutch-chess-champions-showdown",
@@ -784,14 +792,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-2025-comet-open",
          "pubDate" : "Sun, 19 Oct 2025 10:51:00",
          "title" : "Nakamura Wins 2025 Comet Open"
-      },
-      {
-         "description" : "GM Fabiano Caruana missed a huge chance to grab the sole lead at the 2025 U.S. Chess Championship in St. Louis on Saturday, failing to force a checkmate in nine moves against GM Wesley So. Alongside several more draws, GM Andy Woodward won his sec...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-us-championship-round-6",
-         "pubDate" : "Sun, 19 Oct 2025 00:34:00",
-         "title" : "Caruana Misses Forced Checkmate vs So; Zatonskih Catches Lee"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 6 &#124; GAME LINKS WOODWARD VS SWIERCZ RESULT: 1-0OPARIN VS SHANKLAND RESULT: &frac12;-&frac12;ARONIAN VS NIEMANN &frac12;-&frac12; CARUANA VS SO RESULT: &frac12;-&frac12;LIANG VS SEVIAN RESULT: &frac12;-&frac12;MISHRA VS ROBSON RESULT: &frac12;-&frac12; ROUND 6 &#124; GAME LINKS KRUSH VS [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-6-alice-lee-and-anna-zatonskih-currently-tied-for-first-uschesschamps/\">POSTGAME ROUND 6: Alice Lee and Anna Zatonskih Currently Tied For First! #USChessChamps</a> appeared fir",
