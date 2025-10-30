@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124946134.cms\" />Hailing from Karaikudi, 18-year-old Pranesh M, India's 79th Grandmaster, defied limited resources to achieve chess stardom. Learning from borrowed books and handwritten notes, his dedication, coupled with the unwavering support of coach RB Ramesh and his parents, propelled him to the Chess World Cup. Pranesh's journey highlights that talent thrives beyond fancy setups.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-pranesh-m-son-of-anganwadi-worker-carrying-hopes-of-indias-record-contingent-at-chess-world-cup/articleshow/124946134.cms",
+         "pubDate" : "Thu, 30 Oct 2025 10:36:32",
+         "title" : "Exclusive | Son of anganwadi worker carries India's WC hopes: Pranesh"
+      },
+      {
+         "description" : "Magnus Carlsen secured overall victory at the Clutch Chess: Champions Showdown in Saint Louis with two games to spare, finishing on 25&frac12; points after winning four consecutive games on the final day. Fabiano Caruana, coming from his US Championship triumph, took second place on 16&frac12; points, while Hikaru Nakamura finished third with 14. Gukesh Dommaraju, who had led after day one, ended in fourth on 10 points ahead of the upcoming FIDE World Cup. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2025-3",
+         "pubDate" : "Thu, 30 Oct 2025 10:30:00",
+         "title" : "Carlsen astounds once again, wins Champions Showdown with two games to spare"
+      },
+      {
+         "description" : "GM Surya Ganguly's Calculation Training - Part 2 takes players beyond the structured basics of the first course (forcing moves, elimination, short calculation, visualization, and comparison) into a more complex, tournament-like environment. The lessons mix attack, defense, long calculation, imagination, and unusual tactical patterns, forcing students to think without hints and develop practical decision-making under pressure. Ganguly also emphasizes psychology and mindset, sharing his own instructive experiences against elite players like Morozevich and Nigel Short - moments of missed tactics, emotional struggle, and recovery. The goal is to help players train calculation depth, accuracy, an",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/surya-ganguly-calculation-step-by-step-a-grandmaster-s-training-guide-vol-2-advanced-practice",
+         "pubDate" : "Thu, 30 Oct 2025 10:25:06",
+         "title" : "Surya Ganguly: Calculation Step by Step: A Grandmaster's Training Guide Vol 2 - Advanced Practice"
+      },
+      {
+         "description" : " The FIDE World Cup takes place in Goa, India, Sat 1st to Wed 26th Nov 2025. Players include: World Champion Gukesh, Erigaisi, Praggnanandhaa, Giri, So, Keymer, Wei Yi, Abdusattorov, Mamedyarov, Niemann, MVL, Nepomniachtchi, Le, Rapport, Aronian etc. It is a seven round knockout but the top 50 players only enter the competition in round 2 alongside the 78 winners of Round 1. The top three finishers will qualify for the Candidates tournament although players such as Gukesh and Giri and Caruana don't require this and the extra place will be awarded to \"another path\" in the qualification system. The <a href=\"https://theweekinchess.com/chessnews/events/fide-womens-world-cup-2025\">Women's World C",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2025",
+         "pubDate" : "Thu, 30 Oct 2025 09:15:00",
+         "title" : "FIDE World Cup 2025 - Games and Results"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124935687.cms\" />Former World Champion Vladimir Kramnik has defended his actions regarding Daniel Naroditsky's death, stating he never accused the GM of cheating. Kramnik claims he presented \"serious material\" for examination, not baseless allegations, and believes a \"dirty PR campaign\" is targeting him. He asserts he bears no guilt and will present facts in court.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -58,22 +90,6 @@ news_feed (
          "title" : "Nepomniachtchi Cruises Past Giri To Set Up Quarterfinal Vs. Firouzja"
       },
       {
-         "description" : "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Reigning world champion Gukesh Dommaraju joins Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana in a concentrated three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2025-live",
-         "pubDate" : "Wed, 29 Oct 2025 17:50:00",
-         "title" : "Clutch Chess: Champions Showdown - Live!"
-      },
-      {
-         "description" : "In Saint Louis, Fabiano Caruana has just won the U.S. Championship for the fourth time in a row and is currently playing in the Clutch Chess Champions Showdown. Sagar Shah from ChessBase India is also in Saint Louis to cover the event and took the opportunity to interview Caruana. In their conversation, Caruana spoke about the Clutch Chess Champions Showdown and the 2014 Sinquefield Cup, and also shared fond memories of Daniel Naroditsky. | Picture: Video screenshot",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-sinquefield-cup-and-daniel-naroditsky-an-interview-with-fabiano-caruana",
-         "pubDate" : "Wed, 29 Oct 2025 14:15:51",
-         "title" : "St. Louis, Sinquefield Cup and Daniel Naroditsky - An interview with Fabiano Caruana"
-      },
-      {
          "description" : "GM Magnus Carlsen won the 2025 Clutch Chess: Champions Showdown with two games to spare. He defeated World Champion Gukesh Dommaraju two times, and then also beat GM Fabiano Caruana twice, to win the event and earn the $120,000 first prize, all be...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -90,14 +106,6 @@ news_feed (
          "title" : "DeepMind's AI Learns To Create Original Chess Puzzles, Praised By GMs"
       },
       {
-         "description" : "In this second October Monthly Dragon, Chris Ward let Arne pick two games. Game 1 (Yugoslav, Chinese variation) shows classic opposite-wing play, while Game 2 (Yugoslav, with g3) is a model Dragon win. The episode highlights practical Dragon themes-pawn sacs on the queen side, neutralizing Bh6 ideas, pinned-knight motifs on d5, and the power of coordinated rooks and queen on the b-file. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-theory-of-beating-the-yugoslav-attack",
-         "pubDate" : "Wed, 29 Oct 2025 09:54:30",
-         "title" : "The Monthly Dragon - Theory of beating the Yugoslav Attack"
-      },
-      {
          "description" : "The Annual General Meeting of the ECF was held on 25th October in Birmingham and via video conference.&#160;Please note that the agenda and all the reports can be found on...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -112,30 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-ccl-fall-week-5-slu-srm",
          "pubDate" : "Wed, 29 Oct 2025 06:17:00",
          "title" : "SLU Shows Class, Defeats SRM"
-      },
-      {
-         "description" : "The 33rd FIDE World Senior Championships are underway in Gallipoli, Italy, with a record 467 participants competing across four age-group categories. After seven rounds, the standings remain tightly contested, particularly in the largest section, the 65+ Open. Leading figures such as Victor Mikhalevski and Ketevan Arakhamia-Grant currently top their respective groups, but with four rounds still to play, the battle for the senior world titles remains wide open. | Photos: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-senior-championship-2025-r7",
-         "pubDate" : "Wed, 29 Oct 2025 06:05:00",
-         "title" : "World Senior Championships: Record participation in Gallipoli"
-      },
-      {
-         "description" : "With defending champion Magnus Carlsen missing, who can win the Chess World Cup 2025?",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/46765391/gukesh-praggnanandhaa-vincent-keymer-anish-giri-wesley-the-favourites-win-fide-world-cup-2025?device=featurephone",
-         "pubDate" : "Wed, 29 Oct 2025 03:54:19",
-         "title" : "Gukesh, Praggnanandhaa, Vincent: Who are the favourites to win FIDE World Cup 2025?"
-      },
-      {
-         "description" : "The FIDE Chess World Cup 2025 comes to India, starting from October 31 to November 27 in Goa.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/46764782/fide-world-cup-2025-all-need-know-chess-tournament-goa?device=featurephone",
-         "pubDate" : "Wed, 29 Oct 2025 01:01:22",
-         "title" : "FIDE World Cup 2025: All you need to know about chess tournament in Goa"
       },
       {
          "description" : "This week's puzzles come from the first day of the Clutch Chess: Champions Showdown, currently taking place at the Saint Louis Chess Club. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -216,14 +200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-clutch-chess-champions-showdown-day-1",
          "pubDate" : "Mon, 27 Oct 2025 17:55:00",
          "title" : "Gukesh Leads Clutch Chess After Game 1 Loss"
-      },
-      {
-         "description" : " The FIDE World Cup takes place in Goa, India, Sat 1st to Wed 26th Nov 2025. Players include: World Champion Gukesh, Erigaisi, Praggnanandhaa, Giri, So, Keymer, Wei Yi, Abdusattorov, Mamedyarov, Niemann, MVL, Nepomniachtchi, Le, Rapport, Aronian etc. It is a seven round knockout but the top 50 players only enter the competition in round 2 alongside the 78 winners of Round 1. The top three finishers will qualify for the Candidates tournament although players such as Gukesh and Giri and Caruana don't require this and the extra place will be awarded to \"another path\" in the qualification system. The <a href=\"https://theweekinchess.com/chessnews/events/fide-womens-world-cup-2025\">Women's World C",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2025",
-         "pubDate" : "Mon, 27 Oct 2025 14:41:00",
-         "title" : "FIDE World Cup 2025 - Games and Results"
       },
       {
          "description" : "GM Hans Niemann demolished former World Champion Ding Liren 18-6 to reach the Speed Chess Championship 2025 Quarterfinals. Ding&#39;s first win came in game 12, when a 10-1 scoreline had already made a comeback all but impossible. Niemann will now fac...",
@@ -610,14 +586,6 @@ news_feed (
          "title" : "Exclusive | 'Not even Magnus Carlsen': How Norway Chess did what Freestyle couldn't"
       },
       {
-         "description" : "Did you find the only move in this very famous study, composed almost exactly a century ago, that allows White to draw? It looks like the stupidest move one could make - move the king to a square that takes it further away from the black pawn and blocks the promotion of his own pawn. Problem expert Werner Keym selected six studies in similar style for you to solve. Here, today, are the solutions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/werner-keym-problem-chess-art-7",
-         "pubDate" : "Wed, 22 Oct 2025 07:34:25",
-         "title" : "Werner Keym: Problem Chess Art"
-      },
-      {
          "description" : "Today's puzzles come from the 2025 FIDE World Youth Championships, held earlier this month in Durres, Albania. There was only a small number of games from the USA delegation broadcast from the tournament, but there were still enough interesting positions to put together a worksheet here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -698,14 +666,6 @@ news_feed (
          "title" : "Favourites continue strong at European Chess Club Cup 2025"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124714104.cms\" />Former World Champion Vladimir Kramnik has publicly questioned the sudden death of Grandmaster Daniel Naroditsky at 29, hinting at substance abuse and mental health issues. Kramnik cited Naroditsky's recent online activity and removal from commentator roles as concerning, urging for an investigation into the circumstances surrounding his passing.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/vladimir-kramnik-who-was-called-worse-than-dirt-questions-daniel-naroditskys-sudden-death-alleges-drug-abuse/articleshow/124714104.cms",
-         "pubDate" : "Tue, 21 Oct 2025 05:28:33",
-         "title" : "Kramnik, who was called 'worse than dirt', questions Naroditsky's sudden death, alleges drug abuse"
-      },
-      {
          "description" : "GMs Fabiano Caruana and Wesley So&#38;nbsp;drew their games on Monday and are still leading the 2025 U.S. Chess Championship going into the second rest day. GM Levon Aronian, who beat GM Sam Shankland, is the only player now trailing by half a point. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -728,14 +688,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/national-chess-day-wrap",
          "pubDate" : "Tue, 21 Oct 2025 00:00:00",
          "title" : "National Chess Day Wrap-Up"
-      },
-      {
-         "description" : "Today, his family announced the death of Daniel Naroditsky. The talented American grandmaster was an active online player and streamer, as well as a popular commentator. He would have turned 30 on 9 November. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-naroditsky-1995-2",
-         "pubDate" : "Mon, 20 Oct 2025 21:53:45",
-         "title" : "Daniel Naroditsky (9 November 1995 - 19 October 2025)"
       },
       {
          "description" : "GM Daniel Naroditsky, the popular U.S. grandmaster, commentator, creator, educator, and author, unexpectedly passed away on Sunday at the age of only 29. The news has sent shockwaves around the chess community, which is grieving the loss of one of...",
