@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124956789.cms\" />The 88th Tata Steel Chess Tournament in Wijk aan Zee, from January 16 to February 1, 2026, boasts its youngest-ever lineup with an average age of 23. Featuring four top-10 and ten top-30 players, the event promises a dynamic battle for the title. This prestigious tournament continues to solidify Wijk aan Zee as a global chess hub.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/no-magnus-carlsen-d-gukesh-to-headline-youngest-2026-masters-lineup-at-wimbledon-of-chess/articleshow/124956789.cms",
+         "pubDate" : "Thu, 30 Oct 2025 14:22:49",
+         "title" : "Wimbledon of Chess: No Carlsen! Gukesh to headline 2026 Masters lineup"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124954635.cms\" />Chennai's 16-year-old Ilamparthi AR has become India's 90th Grandmaster, achieving his final norm at the Bijeljina Open. He previously secured norms in Vietnam and Singapore, crossing the 2500 Elo mark. Nurtured by Velammal School and supported by initiatives, Ilamparthi trains under Viswanathan Anand's academy.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-boom-continues-16-year-old-ilamparthi-ar-becomes-indias-90th-grandmaster/articleshow/124954635.cms",
+         "pubDate" : "Thu, 30 Oct 2025 13:19:39",
+         "title" : "Chess boom continues! 16-year-old Ilamparthi becomes India's 90th GM"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124946134.cms\" />Hailing from Karaikudi, 18-year-old Pranesh M, India's 79th Grandmaster, defied limited resources to achieve chess stardom. Learning from borrowed books and handwritten notes, his dedication, coupled with the unwavering support of coach RB Ramesh and his parents, propelled him to the Chess World Cup. Pranesh's journey highlights that talent thrives beyond fancy setups.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -120,6 +136,22 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-ccl-fall-week-5-slu-srm",
          "pubDate" : "Wed, 29 Oct 2025 06:17:00",
          "title" : "SLU Shows Class, Defeats SRM"
+      },
+      {
+         "description" : "With defending champion Magnus Carlsen missing, who can win the Chess World Cup 2025?",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/46765391/gukesh-praggnanandhaa-vincent-keymer-anish-giri-wesley-the-favourites-win-fide-world-cup-2025?device=featurephone",
+         "pubDate" : "Wed, 29 Oct 2025 03:54:19",
+         "title" : "Gukesh, Praggnanandhaa, Vincent: Who are the favourites to win FIDE World Cup 2025?"
+      },
+      {
+         "description" : "The FIDE Chess World Cup 2025 comes to India, starting from October 31 to November 27 in Goa.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/46764782/fide-world-cup-2025-all-need-know-chess-tournament-goa?device=featurephone",
+         "pubDate" : "Wed, 29 Oct 2025 01:01:22",
+         "title" : "FIDE World Cup 2025: All you need to know about chess tournament in Goa"
       },
       {
          "description" : "This week's puzzles come from the first day of the Clutch Chess: Champions Showdown, currently taking place at the Saint Louis Chess Club. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -626,14 +658,6 @@ news_feed (
          "title" : "Daniel Naroditsky 1995-2025 - 1995-2025"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124722655.cms\" />American chess grandmaster Daniel Naroditsky has died at age 29, with the cause undisclosed. Known for his talent as a player, commentator, and educator, Naroditsky's passing has prompted questions and discussions within the chess community. His family remembered him for his passion and the joy he brought to the game.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/days-before-his-tragic-death-chess-gm-daniel-naroditsky-posted-youtube-video-with-shocking-title/articleshow/124722655.cms",
-         "pubDate" : "Tue, 21 Oct 2025 13:52:28",
-         "title" : "Days before death, chess GM Naroditsky posted video with shocking title"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124721204.cms\" />Goa is set to host the 2025 FIDE World Cup Chess Championship from October 31 to November 27, with Chief Minister Pramod Sawant launching the event's logo and anthem. This prestigious tournament, returning to India after 23 years, will feature top global players and aims to boost sports and tourism in the state.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -648,14 +672,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/maghsoodloo-wins-titled-tuesday-october-21-2025",
          "pubDate" : "Tue, 21 Oct 2025 12:01:30",
          "title" : "Maghsoodloo Joins CCT Top 10 With Titled Tuesday Win"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124720261.cms\" />Indian Grandmaster Nihal Sarin has indirectly criticised Vladimir Kramnik following Daniel Naroditsky's death, citing relentless, baseless cheating accusations that caused immense pressure. Naroditsky, who called Kramnik \"worse than dirt,\" experienced severe mental health impacts from the public harassment. The chess world mourns the loss of a bright light whose accessibility to millions was affected by these unfounded allegations.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/after-daniel-naroditskys-death-indias-nihal-sarin-blasts-vladimir-kramnik-baseless-accusations-caused-him-immense-pain/articleshow/124720261.cms",
-         "pubDate" : "Tue, 21 Oct 2025 11:45:25",
-         "title" : "After Daniel Naroditsky's death, India's Sarin blasts Kramnik"
       },
       {
          "description" : "The second round of the European Chess Club Cup 2025 was played yesterday in Rhodes, Greece, and games are getting tougher every day. The top seeded clubs continued strong yesterday, most of them scoring convincing victories against the underdogs. Bayegan Pendik chess sports club scored 5-1 win against SK Dunajska streda, Alkaloid scored maximum 6-0 win over Ippotis Rhodes chess club, defending Champions Novy Bor was victorious against De Sprenger Echternach with the score of 5-1, SuperChess defeated FC St. []",
@@ -920,22 +936,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/oct/10/chess-england-in-midfield-at-european-championships-and-medals-appear-unlikely",
          "pubDate" : "Fri, 10 Oct 2025 18:34:10",
          "title" : "Chess: England jump to fifth at European championships, with outside medal chance"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation , Maharashtra Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Children's Welfare School Versova Andheri West Mumbai-400061",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-and-exam-in-maharashtra-on-01-02-november-2025/",
-         "pubDate" : "Thu, 09 Oct 2025 12:42:51",
-         "title" : "SNA seminar and Exam in Andheri West Mumbai, Maharashtra on 01 & 02 November 2025"
-      },
-      {
-         "description" : "Please find the certificates .For any query please write back to indianchessfed@gmail.com Rank Under 13 Rank Under 13 Girls 1 Badole Shaunak 1 Modipalli Deekshitha",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-national-under-13-chess-championship-2025-in-goa/",
-         "pubDate" : "Thu, 09 Oct 2025 12:37:28",
-         "title" : "Certificate: National Under 13 Chess Championship 2025 in Goa ."
       }
    ]
 }
