@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What makes a chess club feel like home? The Saint Louis Chess Club shows that it's the people, the stories and the shared love for the game. They form the heart and soul of this legendary chess club. From world champions to beginners, everyone is welcome at this place, which is driven by a community of passionate chess lovers. Recently, the club hosted the Clutch Chess Legends 2025, where two icons, Garry Kasparov and Viswanathan Anand, faced each other once again. In the middle of all the action, IM Sagar Shah interviewed the person behind this beloved chess club, Rex Sinquefield, the visionary whose dream turned Saint Louis into the chess capital of the world.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rex-sinquefield-interview-sagar-shah",
+         "pubDate" : "Thu, 30 Oct 2025 23:45:00",
+         "title" : "Interview with the man behind the Saint Louis Chess Club, Rex Sinquefield"
+      },
+      {
          "description" : "Budva is all about chess as the 2025 European Youth Chess Championship gets underway. The best young players from across Europe have gathered in the Montenegrin coastal town to compete in twelve age groups, from U8 to U18, with separate competitions for boys and girls, to determine their European champions. The tournament is being played with a classical time limit, with each player having 90 minutes thinking time, plus an additional 30 seconds per move. | Photos: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-boom-continues-16-year-old-ilamparthi-ar-becomes-indias-90th-grandmaster/articleshow/124954635.cms",
          "pubDate" : "Thu, 30 Oct 2025 13:19:39",
          "title" : "Chess boom continues! 16-year-old Ilamparthi becomes India's 90th GM"
+      },
+      {
+         "description" : "GM Fabiano Caruana won an incredibly close match against GM Praggnanandhaa Rameshbabu to reach the Speed Chess Championship 2025 Quarterfinals, where he will face GM Magnus Carlsen. Only the bullet segment separated the two players, with Caruana b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-r16-caruana-praggnanandhaa",
+         "pubDate" : "Thu, 30 Oct 2025 13:05:40",
+         "title" : "Caruana Edges Praggnanandhaa By 1 Point, Advances To Face Carlsen"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124946134.cms\" />Hailing from Karaikudi, 18-year-old Pranesh M, India's 79th Grandmaster, defied limited resources to achieve chess stardom. Learning from borrowed books and handwritten notes, his dedication, coupled with the unwavering support of coach RB Ramesh and his parents, propelled him to the Chess World Cup. Pranesh's journey highlights that talent thrives beyond fancy setups.",
@@ -768,14 +784,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-club-cup-2025-kicked-off-in-rhodes/",
          "pubDate" : "Sun, 19 Oct 2025 22:03:05",
          "title" : "European Chess Club Cup 2025 kicked off in Rhodes"
-      },
-      {
-         "description" : "GM Hikaru Nakamura won $45,000 in the inaugural 2025 Comet Open, an event that concluded on Sunday, October 19. He didn&#39;t lose a single one of his six matches, finally defeating GM Denis Lazavik 2.5-1.5 in the Grand Final. He earns $45,000, while ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-2025-comet-open",
-         "pubDate" : "Sun, 19 Oct 2025 10:51:00",
-         "title" : "Nakamura Wins 2025 Comet Open"
       },
       {
          "description" : "The 40th edition of the European Chess Club Cup and the 29th edition of the European Women's Chess Club Cup were officially declared opened today. The Opening ceremony of the event took place at the truly magnificent and historical venue of the Palace of the Grand Master of the Knights of Rhodes - a place that has witnessed centuries of strategy, courage and vision - qualities that perfectly reflect the spirit of chess. The ceremony was attended by the ECU []",
