@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Budva is all about chess as the 2025 European Youth Chess Championship gets underway. The best young players from across Europe have gathered in the Montenegrin coastal town to compete in twelve age groups, from U8 to U18, with separate competitions for boys and girls, to determine their European champions. The tournament is being played with a classical time limit, with each player having 90 minutes thinking time, plus an additional 30 seconds per move. | Photos: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-youth-championship-starts-in-budva-montenegro",
+         "pubDate" : "Thu, 30 Oct 2025 17:43:04",
+         "title" : "European Youth Championship starts in Budva, Montenegro"
+      },
+      {
+         "description" : " Landmark Tournament Concludes a Month-Long Celebration of the Newly Reopened Saint Louis Chess Club - the Nation's Chess Capital SAINT LOUIS (Oct. 30, 2025) - Grandmaster (GM) Magnus Carlsen has captured the title at the 2025 Clutch Chess: Champions Showdown, hosted by the Saint Louis Chess Club (STLCC), capping an unforgettable month of elite competition [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/world-no-1-magnus-carlsen-triumphs-at-clutch-chess-champions-showdown/\">World No. 1 Magnus Carlsen Triumphs at Clutch Chess: Champions Showdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/world-no-1-magnus-carlsen-triumphs-at-clutch-chess-champions-showdown/",
+         "pubDate" : "Thu, 30 Oct 2025 15:39:35",
+         "title" : "World No. 1 Magnus Carlsen Triumphs at Clutch Chess: Champions Showdown"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124956789.cms\" />The 88th Tata Steel Chess Tournament in Wijk aan Zee, from January 16 to February 1, 2026, boasts its youngest-ever lineup with an average age of 23. Featuring four top-10 and ten top-30 players, the event promises a dynamic battle for the title. This prestigious tournament continues to solidify Wijk aan Zee as a global chess hub.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -64,6 +80,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-in-must-medal-situation-at-world-cup/articleshow/124932012.cms",
          "pubDate" : "Thu, 30 Oct 2025 03:42:27",
          "title" : "Arjun Erigaisi in must-medal situation at World Cup"
+      },
+      {
+         "description" : "The month-long festivities continued at the newly renovated Saint Louis Chess Club (SLCC) from October 27 through 29 for the Clutch Chess: Champions Showdown, featuring reigning U.S. Champion GM Fabiano Caruana, World Number Two GM Hikaru Nakamura, former World Champion GM Magnus Carlsen, and reigning World Champion GM Gukesh Dommaraju. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The Champions (All photos courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> Much like GM Garry Kasparov at the Clutch Chess: Legends before the U.S. Championships, Carlsen left no doubt about who was in the best form, clinching his tournament victory with two games remaining",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/carlsen-comes-clutch-champions-showdown-st-louis",
+         "pubDate" : "Thu, 30 Oct 2025 00:00:00",
+         "title" : "Carlsen Comes Up Clutch at Champions Showdown in St. Louis"
       },
       {
          "description" : " ROUND 7 GAME 1 CARUANA VS NAKAMURA RESULT: &frac12;-&frac12;GUKESH VS CARLSEN RESULT: 0-1 GAME 2 NAKAMURA VS CARUANA RESULT: 0-1CARLSEN VS GUKESH RESULT: 1-0 ROUND 8 GAME 1 CARLSEN VS CARUANA RESULT: 1-0NAKAMURA VS GUKESH RESULT: &frac12;-&frac12; GAME 2 CARUANA VS CARLSEN RESULT: 0-1GUKESH VS NAKAMURA RESULT: 0-1 ROUND 9 GAME 1 CARUANA VS GUKESH [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-3/\">POSTGAME FINAL: Magnus Plays His Best Chess on Clutch Day! | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -698,14 +722,6 @@ news_feed (
          "title" : "POSTGAME ROUND 8: Aggressive Levon Trips Up Shankland #USChessChamps"
       },
       {
-         "description" : "Just counting events tagged with National Chess Day or NCD on US Chess's Membership Services Area, affiliates hosted 48 rated tournaments around the country with 2,242 chess players competing on Saturday, October 11.This doesn't even include a number of large national, regional, and state events also held that weekend, with over 200 tournaments taking place in total. This is in addition to all of the other festivities, variant tournaments, and puzzle competitions also organized across the country. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> The Kentucky Ches",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/national-chess-day-wrap",
-         "pubDate" : "Tue, 21 Oct 2025 00:00:00",
-         "title" : "National Chess Day Wrap-Up"
-      },
-      {
          "description" : "GM Daniel Naroditsky, the popular U.S. grandmaster, commentator, creator, educator, and author, unexpectedly passed away on Sunday at the age of only 29. The news has sent shockwaves around the chess community, which is grieving the loss of one of...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -760,14 +776,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-2025-comet-open",
          "pubDate" : "Sun, 19 Oct 2025 10:51:00",
          "title" : "Nakamura Wins 2025 Comet Open"
-      },
-      {
-         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 6 &#124; GAME LINKS WOODWARD VS SWIERCZ RESULT: 1-0OPARIN VS SHANKLAND RESULT: &frac12;-&frac12;ARONIAN VS NIEMANN &frac12;-&frac12; CARUANA VS SO RESULT: &frac12;-&frac12;LIANG VS SEVIAN RESULT: &frac12;-&frac12;MISHRA VS ROBSON RESULT: &frac12;-&frac12; ROUND 6 &#124; GAME LINKS KRUSH VS [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-6-alice-lee-and-anna-zatonskih-currently-tied-for-first-uschesschamps/\">POSTGAME ROUND 6: Alice Lee and Anna Zatonskih Currently Tied For First! #USChessChamps</a> appeared fir",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-6-alice-lee-and-anna-zatonskih-currently-tied-for-first-uschesschamps/",
-         "pubDate" : "Sat, 18 Oct 2025 22:57:20",
-         "title" : "POSTGAME ROUND 6: Alice Lee and Anna Zatonskih Currently Tied For First! #USChessChamps"
       },
       {
          "description" : "The 40th edition of the European Chess Club Cup and the 29th edition of the European Women's Chess Club Cup were officially declared opened today. The Opening ceremony of the event took place at the truly magnificent and historical venue of the Palace of the Grand Master of the Knights of Rhodes - a place that has witnessed centuries of strategy, courage and vision - qualities that perfectly reflect the spirit of chess. The ceremony was attended by the ECU []",
