@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124935687.cms\" />Former World Champion Vladimir Kramnik has defended his actions regarding Daniel Naroditsky's death, stating he never accused the GM of cheating. Kramnik claims he presented \"serious material\" for examination, not baseless allegations, and believes a \"dirty PR campaign\" is targeting him. He asserts he bears no guilt and will present facts in court.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-never-accused-daniel-naroditsky-of-cheating-vladimir-kramnik-defends-himself-vows-legal-action/articleshow/124935687.cms",
+         "pubDate" : "Thu, 30 Oct 2025 05:25:57",
+         "title" : "'I never accused Daniel Naroditsky of cheating': Vladimir Kramnik defends himself, vows legal action"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124932012.cms\" />Indian chess prodigy Arjun Erigaisi faces a critical juncture at the World Cup in Goa, needing a medal to qualify for the 2026 Candidates tournament. Despite his high ranking, he's currently outside the qualification spots, with rivals like Nakamura and Giri already securing places.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-in-must-medal-situation-at-world-cup/articleshow/124932012.cms",
+         "pubDate" : "Thu, 30 Oct 2025 03:42:27",
+         "title" : "Arjun Erigaisi in must-medal situation at World Cup"
+      },
+      {
          "description" : " ROUND 7 GAME 1 CARUANA VS NAKAMURA RESULT: &frac12;-&frac12;GUKESH VS CARLSEN RESULT: 0-1 GAME 2 NAKAMURA VS CARUANA RESULT: 0-1CARLSEN VS GUKESH RESULT: 1-0 ROUND 8 GAME 1 CARLSEN VS CARUANA RESULT: 1-0NAKAMURA VS GUKESH RESULT: &frac12;-&frac12; GAME 2 CARUANA VS CARLSEN RESULT: 0-1GUKESH VS NAKAMURA RESULT: 0-1 ROUND 9 GAME 1 CARUANA VS GUKESH [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-3/\">POSTGAME FINAL: Magnus Plays His Best Chess on Clutch Day! | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -58,11 +74,11 @@ news_feed (
          "title" : "St. Louis, Sinquefield Cup and Daniel Naroditsky - An interview with Fabiano Caruana"
       },
       {
-         "description" : "GM Magnus Carlsen won the 2025 Clutch Chess: Champions Showdown with two games to spare. He defeated World Champion Gukesh Dommaraju two times, and then beat GM Fabiano Caruana twice, to win the event and earn the $120,000 first prize, all before ...",
+         "description" : "GM Magnus Carlsen won the 2025 Clutch Chess: Champions Showdown with two games to spare. He defeated World Champion Gukesh Dommaraju two times, and then also beat GM Fabiano Caruana twice, to win the event and earn the $120,000 first prize, all be...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-wins-2025-clutch-chess-champions-showdown",
-         "pubDate" : "Wed, 29 Oct 2025 14:03:34",
+         "pubDate" : "Wed, 29 Oct 2025 14:03:00",
          "title" : "Carlsen Wins Clutch Chess With 2 Games To Spare"
       },
       {
@@ -690,28 +706,12 @@ news_feed (
          "title" : "Kramnik, who was called 'worse than dirt', questions Naroditsky's sudden death, alleges drug abuse"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124713078.cms\" />The chess world mourns Grandmaster Daniel Naroditsky's sudden death at 29. Naroditsky was a celebrated player and educator. He earned his Grandmaster title at 17. He was a top player in classical, rapid, and blitz chess. Naroditsky also built a large online following. His passing is a significant loss for competitive and online chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-hikaru-nakamura-breaks-down-while-discussing-the-death-of-american-gm-daniel-naroditsky/articleshow/124713078.cms",
-         "pubDate" : "Tue, 21 Oct 2025 04:42:44",
-         "title" : "Watch: Nakamura breaks down while discussing the death of Naroditsky"
-      },
-      {
          "description" : "GMs Fabiano Caruana and Wesley So&#38;nbsp;drew their games on Monday and are still leading the 2025 U.S. Chess Championship going into the second rest day. GM Levon Aronian, who beat GM Sam Shankland, is the only player now trailing by half a point. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-us-championship-round-8",
          "pubDate" : "Tue, 21 Oct 2025 02:04:00",
          "title" : "Caruana, So Still Atop U.S. Championship Leaderboard; Lee Increases Lead To Full Point"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124711507.cms\" />The chess world mourns the unexpected passing of Daniel Naroditsky, a celebrated 29-year-old Grandmaster and Stanford graduate. Known for his playing prowess, insightful commentary, and educational content, Naroditsky was a prominent figure, earning numerous accolades including the US National Blitz Championship. His passion for chess inspired many globally.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-grandmaster-daniel-naroditsky-dies-at-29-details-on-his-sudden-death/articleshow/124711507.cms",
-         "pubDate" : "Tue, 21 Oct 2025 00:53:28",
-         "title" : "Chess Grandmaster Naroditsky dies at 29: Details on his sudden death"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 8 &#124; GAME LINKS OPARIN VS MISHRA RESULT: &frac12;-&frac12;CARUANA VS ROBSON RESULT: &frac12;-&frac12;SEVIAN VS SWIERCZ RESULT: &frac12;-&frac12; WOODWARD VS NIEMANN RESULT: 1-0 ARONIAN VS SHANKLAND RESULT: 1-0 LIANG VS SO RESULT: &frac12;-&frac12; ROUND 8 &#124; GAME [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-8/\">POSTGAME ROUND 8: Aggressive Levon Trips Up Shankland #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
