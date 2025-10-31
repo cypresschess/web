@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124987653.cms\" />The World Cup in Goa highlights the tournament's history of producing surprise semifinalists. This year's event features a strong contingent of young prodigies, many under 18, aiming to make their mark. Players like Abhimanyu Mishra, Yagiz Kaan, Andy Woodward, and Faustino Oro are among the notable young talents to watch in the $2m prize money event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-watch-out-for-surprises-and-young-masters/articleshow/124987653.cms",
+         "pubDate" : "Fri, 31 Oct 2025 07:12:20",
+         "title" : "Chess World Cup: Watch out for surprises and young masters"
+      },
+      {
          "description" : "What makes a chess club feel like home? The Saint Louis Chess Club shows that it's the people, the stories and the shared love for the game. They form the heart and soul of this legendary chess club. From world champions to beginners, everyone is welcome at this place, which is driven by a community of passionate chess lovers. Recently, the club hosted the Clutch Chess Legends 2025, where two icons, Garry Kasparov and Viswanathan Anand, faced each other once again. In the middle of all the action, IM Sagar Shah interviewed the person behind this beloved chess club, Rex Sinquefield, the visionary whose dream turned Saint Louis into the chess capital of the world.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -176,22 +184,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-ccl-fall-week-5-slu-srm",
          "pubDate" : "Wed, 29 Oct 2025 06:17:00",
          "title" : "SLU Shows Class, Defeats SRM"
-      },
-      {
-         "description" : "With defending champion Magnus Carlsen missing, who can win the Chess World Cup 2025?",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/46765391/gukesh-praggnanandhaa-vincent-keymer-anish-giri-wesley-the-favourites-win-fide-world-cup-2025?device=featurephone",
-         "pubDate" : "Wed, 29 Oct 2025 03:54:19",
-         "title" : "Gukesh, Praggnanandhaa, Vincent: Who are the favourites to win FIDE World Cup 2025?"
-      },
-      {
-         "description" : "The FIDE Chess World Cup 2025 comes to India, starting from October 31 to November 27 in Goa.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/46764782/fide-world-cup-2025-all-need-know-chess-tournament-goa?device=featurephone",
-         "pubDate" : "Wed, 29 Oct 2025 01:01:22",
-         "title" : "FIDE World Cup 2025: All you need to know about chess tournament in Goa"
       },
       {
          "description" : "This week's puzzles come from the first day of the Clutch Chess: Champions Showdown, currently taking place at the Saint Louis Chess Club. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -680,14 +672,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2025-ccl-fall-week-4-mizzou-utrgv",
          "pubDate" : "Tue, 21 Oct 2025 16:00:00",
          "title" : "Mizzou Maintains Lead, Defeats UTRGV In Collegiate Chess League Week 4"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124724370.cms\" />Ten-year-old British chess prodigy Bodhana Sivanandan achieved a historic victory, defeating former World Champion Grandmaster Mariya Muzychuk at the European Club Cup. This remarkable win, achieved while representing the She Plays to Win Lionesses, highlights Sivanandan's rapid ascent in the chess world. She continues to break records, solidifying her position as a rising star in English chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/historic-10-year-old-indian-origin-british-chess-prodigy-bodhana-sivanandan-beats-ex-world-champion-gm-mariya-muzychuk/articleshow/124724370.cms",
-         "pubDate" : "Tue, 21 Oct 2025 15:29:03",
-         "title" : "Historic! 10-yo Indian-origin British chess prodigy beats ex-World Champ"
       },
       {
          "description" : " The death of Daniel Naroditsky at the age of only 29 has come as a great shock. Naroditsky was a well known chess commentator and streamer who became a GM in 2013 and had a peak rating of 2647 in May 2017. His play was limited to mostly blitz in recent years, both online and over the board, although his fifth and final appearance in the US Championships was as recent as 2021. ",
