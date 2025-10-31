@@ -46,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-r16-caruana-praggnanandhaa",
-         "pubDate" : "Thu, 30 Oct 2025 13:05:40",
+         "pubDate" : "Thu, 30 Oct 2025 13:05:00",
          "title" : "Caruana Edges Praggnanandhaa By 1 Point, Advances To Face Carlsen"
       },
       {
