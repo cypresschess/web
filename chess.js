@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Norway's world No 1 beat the world champion, Gukesh Dommaraju, 5.5-0.5, and also edged the world Nos 2 and 3 The four-player Champions Showdown in St Louis was a historic event, a quadrangular tournament of the super-elite who met each other six times in three days. Magnus Carlsen was the favourite, but after scoring 3.5/6 on the first day the Norwegian expressed dissatisfaction with his own performance: \"I'm not feeling good at all. I scored about two points more than I should have, and I'm happy with that. My level of play was extremely poor.\" <a href=\"https://www.theguardian.com/sport/2025/oct/31/chess-magnus-carlsen-triumphs-at-historic-champions-showdown-in-st-louis\">Continue reading..",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/oct/31/chess-magnus-carlsen-triumphs-at-historic-champions-showdown-in-st-louis",
+         "pubDate" : "Fri, 31 Oct 2025 08:00:21",
+         "title" : "Chess: Magnus Carlsen triumphs at historic Champions Showdown in St Louis"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124987653.cms\" />The World Cup in Goa highlights the tournament's history of producing surprise semifinalists. This year's event features a strong contingent of young prodigies, many under 18, aiming to make their mark. Players like Abhimanyu Mishra, Yagiz Kaan, Andy Woodward, and Faustino Oro are among the notable young talents to watch in the $2m prize money event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -184,6 +192,22 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-ccl-fall-week-5-slu-srm",
          "pubDate" : "Wed, 29 Oct 2025 06:17:00",
          "title" : "SLU Shows Class, Defeats SRM"
+      },
+      {
+         "description" : "With defending champion Magnus Carlsen missing, who can win the Chess World Cup 2025?",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/46765391/gukesh-praggnanandhaa-vincent-keymer-anish-giri-wesley-the-favourites-win-fide-world-cup-2025?device=featurephone",
+         "pubDate" : "Wed, 29 Oct 2025 03:54:19",
+         "title" : "Gukesh, Praggnanandhaa, Vincent: Who are the favourites to win FIDE World Cup 2025?"
+      },
+      {
+         "description" : "The FIDE Chess World Cup 2025 comes to India, starting from October 31 to November 27 in Goa.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/46764782/fide-world-cup-2025-all-need-know-chess-tournament-goa?device=featurephone",
+         "pubDate" : "Wed, 29 Oct 2025 01:01:22",
+         "title" : "FIDE World Cup 2025: All you need to know about chess tournament in Goa"
       },
       {
          "description" : "This week's puzzles come from the first day of the Clutch Chess: Champions Showdown, currently taking place at the Saint Louis Chess Club. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
