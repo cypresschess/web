@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124996884.cms\" />Goa, India, is host the FIDE Chess World Cup 2025 from October 31 to November 27. World champion D Gukesh leads a strong 24-member Indian contingent, with Arjun Erigaisi and R Praggnanandhaa seeded second and third. The tournament offers qualifying spots for the Candidates 2026, with the top three advancing.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-chess-world-cup-live-streaming-when-and-where-to-watch-d-gukesh-divya-deshmukh-battle-in-goa/articleshow/124996884.cms",
+         "pubDate" : "Fri, 31 Oct 2025 14:18:49",
+         "title" : "FIDE Chess World Cup Live Streaming: When and where to watch?"
+      },
+      {
+         "description" : "Many chess players have become successful politicians, and many politicians have enjoyed playing chess. The English politician Kenneth Baker held various positions in Margaret Thatcher's cabinet for some time. His love of chess helped him make the right decisions in the tango of politics.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kenneth-baker-politician-and-chess-enthusiast",
+         "pubDate" : "Fri, 31 Oct 2025 13:00:00",
+         "title" : "Kenneth Baker: Politician and chess enthusiast"
+      },
+      {
          "description" : " Norway's world No 1 beat the world champion, Gukesh Dommaraju, 5.5-0.5, and also edged the world Nos 2 and 3 The four-player Champions Showdown in St Louis was a historic event, a quadrangular tournament of the super-elite who met each other six times in three days. Magnus Carlsen was the favourite, but after scoring 3.5/6 on the first day the Norwegian expressed dissatisfaction with his own performance: \"I'm not feeling good at all. I scored about two points more than I should have, and I'm happy with that. My level of play was extremely poor.\" <a href=\"https://www.theguardian.com/sport/2025/oct/31/chess-magnus-carlsen-triumphs-at-historic-champions-showdown-in-st-louis\">Continue reading..",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -18,20 +34,20 @@ news_feed (
          "title" : "Chess World Cup: Watch out for surprises and young masters"
       },
       {
-         "description" : "What makes a chess club feel like home? The Saint Louis Chess Club shows that it's the people, the stories and the shared love for the game. They form the heart and soul of this legendary chess club. From world champions to beginners, everyone is welcome at this place, which is driven by a community of passionate chess lovers. Recently, the club hosted the Clutch Chess Legends 2025, where two icons, Garry Kasparov and Viswanathan Anand, faced each other once again. In the middle of all the action, IM Sagar Shah interviewed the person behind this beloved chess club, Rex Sinquefield, the visionary whose dream turned Saint Louis into the chess capital of the world.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rex-sinquefield-interview-sagar-shah",
-         "pubDate" : "Thu, 30 Oct 2025 23:45:00",
-         "title" : "Interview with the man behind the Saint Louis Chess Club, Rex Sinquefield"
+         "description" : "Our rulebook has some rules that require a face-off: apparently contradictory rules that each claim they are top dog. A pair of rules, in other words, that require a TD as the referee. Can you navigate the tension and ace this quiz? 1) Draw Offers Versus Annoying BehaviorYour game is a contest of one exclamation-worthy move after another. For every move, there is an equal, opposite countermove from your opponent. As the time control approaches, you have a notion. A series of steps that give you a slight advantage. You are making progress. Your plan will, at the very least, give your opponent pause to think.Your challenger's response is to move quickly and offer a draw - over and over and ove",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-contradictory-rules-quiz",
+         "pubDate" : "Fri, 31 Oct 2025 00:00:00",
+         "title" : "Just the Rules: Contradictory Rules Quiz"
       },
       {
-         "description" : "Budva is all about chess as the 2025 European Youth Chess Championship gets underway. The best young players from across Europe have gathered in the Montenegrin coastal town to compete in twelve age groups, from U8 to U18, with separate competitions for boys and girls, to determine their European champions. The tournament is being played with a classical time limit, with each player having 90 minutes thinking time, plus an additional 30 seconds per move. | Photos: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-youth-championship-starts-in-budva-montenegro",
-         "pubDate" : "Thu, 30 Oct 2025 17:43:04",
-         "title" : "European Youth Championship starts in Budva, Montenegro"
+         "description" : "The 2025 FIDE World Cup begins Saturday, Nov. 1 in Goa, India. Of the 206 participants, 12 Americans are making the trip to compete for a share of the $2,000,000 prize fund and one of three available spots for the 2026 FIDE Candidates Tournament. With GM Magnus Carlsen electing not to participate, we are guaranteed a new champion.The tournament runs through most of the month, with the final tiebreaks and closing ceremony scheduled for Wednesday, Nov. 26. The tournament is formatted as an eight-round knockout, with each round consisting of one classical game a day for two days and a third day reserved for rapid and blitz tiebreaks (if needed). The full schedule, including information about re",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-fide-world-cup-preview-so-niemann-aronian-top-list-12-americans-goa",
+         "pubDate" : "Fri, 31 Oct 2025 00:00:00",
+         "title" : "2025 FIDE World Cup Preview: So, Niemann, Aronian Top List of 12 Americans in Goa"
       },
       {
          "description" : " Landmark Tournament Concludes a Month-Long Celebration of the Newly Reopened Saint Louis Chess Club - the Nation's Chess Capital SAINT LOUIS (Oct. 30, 2025) - Grandmaster (GM) Magnus Carlsen has captured the title at the 2025 Clutch Chess: Champions Showdown, hosted by the Saint Louis Chess Club (STLCC), capping an unforgettable month of elite competition [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/world-no-1-magnus-carlsen-triumphs-at-clutch-chess-champions-showdown/\">World No. 1 Magnus Carlsen Triumphs at Clutch Chess: Champions Showdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -72,22 +88,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-pranesh-m-son-of-anganwadi-worker-carrying-hopes-of-indias-record-contingent-at-chess-world-cup/articleshow/124946134.cms",
          "pubDate" : "Thu, 30 Oct 2025 10:36:32",
          "title" : "Exclusive | Son of anganwadi worker carries India's WC hopes: Pranesh"
-      },
-      {
-         "description" : "Magnus Carlsen secured overall victory at the Clutch Chess: Champions Showdown in Saint Louis with two games to spare, finishing on 25&frac12; points after winning four consecutive games on the final day. Fabiano Caruana, coming from his US Championship triumph, took second place on 16&frac12; points, while Hikaru Nakamura finished third with 14. Gukesh Dommaraju, who had led after day one, ended in fourth on 10 points ahead of the upcoming FIDE World Cup. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2025-3",
-         "pubDate" : "Thu, 30 Oct 2025 10:30:00",
-         "title" : "Carlsen astounds once again, wins Champions Showdown with two games to spare"
-      },
-      {
-         "description" : "GM Surya Ganguly's Calculation Training - Part 2 takes players beyond the structured basics of the first course (forcing moves, elimination, short calculation, visualization, and comparison) into a more complex, tournament-like environment. The lessons mix attack, defense, long calculation, imagination, and unusual tactical patterns, forcing students to think without hints and develop practical decision-making under pressure. Ganguly also emphasizes psychology and mindset, sharing his own instructive experiences against elite players like Morozevich and Nigel Short - moments of missed tactics, emotional struggle, and recovery. The goal is to help players train calculation depth, accuracy, an",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/surya-ganguly-calculation-step-by-step-a-grandmaster-s-training-guide-vol-2-advanced-practice",
-         "pubDate" : "Thu, 30 Oct 2025 10:25:06",
-         "title" : "Surya Ganguly: Calculation Step by Step: A Grandmaster's Training Guide Vol 2 - Advanced Practice"
       },
       {
          "description" : " The FIDE World Cup takes place in Goa, India, Sat 1st to Wed 26th Nov 2025. Players include: World Champion Gukesh, Erigaisi, Praggnanandhaa, Giri, So, Keymer, Wei Yi, Abdusattorov, Mamedyarov, Niemann, MVL, Nepomniachtchi, Le, Rapport, Aronian etc. It is a seven round knockout but the top 50 players only enter the competition in round 2 alongside the 78 winners of Round 1. The top three finishers will qualify for the Candidates tournament although players such as Gukesh and Giri and Caruana don't require this and the extra place will be awarded to \"another path\" in the qualification system. The <a href=\"https://theweekinchess.com/chessnews/events/fide-womens-world-cup-2025\">Women's World C",
@@ -144,14 +144,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2025-commenced-in-montenegro/",
          "pubDate" : "Wed, 29 Oct 2025 21:21:59",
          "title" : "European Youth Chess Championship 2025 commenced in Montenegro"
-      },
-      {
-         "description" : "Wijk aan Zee is set to welcome the chess world once again as the 88th Tata Steel Chess Tournament takes place from 16 January to 1 February 2026. Known as the 'Wimbledon of Chess', the event boasts its youngest lineups to date, with four top-10 players and a 23-year average age. Rising stars, established elite competitors and a passionate local community promise a thrilling and vibrant edition by the Dutch coast. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-lineup",
-         "pubDate" : "Wed, 29 Oct 2025 19:00:00",
-         "title" : "Tata Steel Chess 2026: Youngest lineup ever in Wijk!"
       },
       {
          "description" : "GM Ian Nepomniachtchi at one point led by 10 points before finishing with a 17.5-10.5 score against GM Anish Giri to cruise into the Speed Chess Championship 2025 Quarterfinals. Nepomniachtchi called it, &#34;some really good training in the Catalan w...",
@@ -618,14 +610,6 @@ news_feed (
          "title" : "2025 FIDE World Youth Chess Championship: Das, Sinkar Shine for USA Delegation"
       },
       {
-         "description" : "After the final rest day, we saw many exciting games in both the U.S. and U.S. Women's Championships. Both sections saw crucial results significantly shake up the standings. Now, GM Fabiano Caruana leads the Open Section outright, and, thanks to IM Anna Zatonskih's win over IM Alice Lee, Lee's full-point lead in the Women's Section is now a three-way tie (with IM Carissa Yip joining Lee and Zatonskih). <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> The four leaders entering the final two rounds. (Photos courtesy SLCC/Lennart Ootes)<br> <br> The final two rounds will surely be exciting ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/leaderboard-shakeups-us-championships-round-9",
-         "pubDate" : "Thu, 23 Oct 2025 00:00:00",
-         "title" : "Leaderboard Shakeups in U.S. Championships Round 9"
-      },
-      {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 9 &#124; GAME LINKS SO VS SEVIAN RESULT: &frac12;-&frac12;MISHRA VS ARONIAN RESULT: &frac12;-&frac12;NIEMANN VS LIANG RESULT: 1-0SHANKLAND VS CARUANA RESULT: 0-1ROBSON VS WOODWARD RESULT: &frac12;-&frac12;SWIERCZ VS OPARIN &frac12;-&frac12; ROUND 9 &#124; GAME LINKS PAIKIDZE VS PARAGUA [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-9/\">POSTGAME ROUND 9 | #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -674,14 +658,6 @@ news_feed (
          "title" : "Exclusive | 'Not even Magnus Carlsen': How Norway Chess did what Freestyle couldn't"
       },
       {
-         "description" : "Today's puzzles come from the 2025 FIDE World Youth Championships, held earlier this month in Durres, Albania. There was only a small number of games from the USA delegation broadcast from the tournament, but there were still enough interesting positions to put together a worksheet here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-youth-championships",
-         "pubDate" : "Wed, 22 Oct 2025 00:00:00",
-         "title" : "Wednesday Workout: FIDE World Youth Championships"
-      },
-      {
          "description" : "The third round of the 2025 European Chess Club Cup took place today in Rhodes, Greece, highlighted by the arrival of reigning World Chess Champion Gukesh D, who joined his SuperChess team at the venue for the first time in the event. Only nine teams in the Open section, and two teams in the Women's section, kept the perfect score of 6 match points, and share the lead in the tournament after three played rounds. The leading teams of the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -704,14 +680,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/daniel-naroditsky-1995-2025",
          "pubDate" : "Tue, 21 Oct 2025 13:53:00",
          "title" : "Daniel Naroditsky 1995-2025 - 1995-2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124721204.cms\" />Goa is set to host the 2025 FIDE World Cup Chess Championship from October 31 to November 27, with Chief Minister Pramod Sawant launching the event's logo and anthem. This prestigious tournament, returning to India after 23 years, will feature top global players and aims to boost sports and tourism in the state.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-2025-logo-and-anthem-unveiled-as-india-set-to-host-its-biggest-chess-event-after-23-years/articleshow/124721204.cms",
-         "pubDate" : "Tue, 21 Oct 2025 12:27:25",
-         "title" : "FIDE World Cup 2025 logo and anthem unveiled"
       },
       {
          "description" : "GM Parham Maghsoodloo won Titled Tuesday on October 21, scoring 9.5 points and winning on the tiebreak score over GM Hikaru Nakamura&#38;nbsp;after Nakamura and&#38;nbsp;GM Magnus Carlsen made a draw with each other in the final round. In his post-tournam...",
