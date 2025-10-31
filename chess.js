@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first round of the World Cup will begin in Goa, India, on 1 November at 15:00 local time. A total of 206 players will compete; the oldest participant is 65-year-old Igor Efimov, while the youngest is Faustino Oro, who turned 12 in October. The prize money totals 2 million US dollars, and the top three finishers will qualify for the Candidates Tournament. Matches will consist of two games, with rapid chess and blitz tiebreaks following a 1-1 score. The loser is eliminated. Vincent Keymer is officially seeded 6th, but according to the live world rankings, he is effectively ranked 1st. So, how good are his chances of finishing in the top three? | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-how-good-are-the-chances-for-the-favourites",
+         "pubDate" : "Fri, 31 Oct 2025 22:32:05",
+         "title" : "World Cup 2025: How good are the chances for the favourites?"
+      },
+      {
+         "description" : "Three rounds have been already played at the European Youth Chess Championship 2025 in Budva, Montenegro. After three intense rounds, only 71 of nearly 1200 participants have managed to preserve a perfect score of three points, underscoring the fierce level of competition across all sections. Two players tie for the top in Open U18 section; Open U16 and Open U12 categories each have six co-leaders, while seven players are tied for first place in both Open U14 and Open U10 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-championship-2025-round-3-recap/",
+         "pubDate" : "Fri, 31 Oct 2025 22:13:14",
+         "title" : "European Youth Chess Championship 2025 - Round 3 recap"
+      },
+      {
+         "description" : "The 2025 FIDE World Cup opened in grand style at the Dr. Shyama Prasad Mukherjee Indoor Stadium in Goa, as dignitaries, players and guests gathered for a dazzling 2&frac12;-hour ceremony blending culture, sport and symbolism. With 206 players set to compete for a $2 million prize fund and three coveted Candidates spots, the event began with music, dance and inspiring speeches celebrating India's chess tradition and the spirit of fair play that defines the game. | All photos: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-opening-ceremony",
+         "pubDate" : "Fri, 31 Oct 2025 21:20:00",
+         "title" : "Opening ceremony of the FIDE World Cup dazzles in Goa"
+      },
+      {
          "description" : "YouTuber Zachary Saines presents a compilation of Daniel Naroditsky's finest tactical moments from online blitz play and over-the-board performances. The video highlights the late grandmaster's sharp calculation, creativity and composure under time pressure. Drawing on his career as one of the world's leading blitz specialists, it especially offers a clear view of how Naroditsky blended intuition and precision in the demanding environment of fast-paced online chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,11 +50,11 @@ news_feed (
          "title" : "Kenneth Baker: Politician and chess enthusiast"
       },
       {
-         "description" : "On a Halloween edition of Freestyle Friday,&#38;nbsp;GM Hikaru Nakamura scored a victory on October 31 after missing the past few tournaments with prior engagements. Nakamura was 1.5 points behind the lead after five rounds, but with the tenacity akin...",
+         "description" : "On a Halloween edition of Freestyle Friday,&#38;nbsp;GM Hikaru Nakamura scored a victory on October 31 after missing the past few tournaments. Nakamura was 1.5 points behind the lead after five rounds, but with the tenacity akin to a horror movie anta...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-wins-freestyle-friday-october-31-2025",
-         "pubDate" : "Fri, 31 Oct 2025 11:32:31",
+         "pubDate" : "Fri, 31 Oct 2025 11:32:00",
          "title" : "Nakamura Chases Down Friday Field In Triumphant Return"
       },
       {
@@ -768,14 +792,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-club-cup-2025-kicked-off-in-rhodes/",
          "pubDate" : "Sun, 19 Oct 2025 22:03:05",
          "title" : "European Chess Club Cup 2025 kicked off in Rhodes"
-      },
-      {
-         "description" : "The 40th edition of the European Chess Club Cup and the 29th edition of the European Women's Chess Club Cup were officially declared opened today. The Opening ceremony of the event took place at the truly magnificent and historical venue of the Palace of the Grand Master of the Knights of Rhodes - a place that has witnessed centuries of strategy, courage and vision - qualities that perfectly reflect the spirit of chess. The ceremony was attended by the ECU []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-club-cup-2025-officially-opened/",
-         "pubDate" : "Sat, 18 Oct 2025 22:24:46",
-         "title" : "European Chess Club Cup 2025 officially opened"
       },
       {
          "description" : "There are four stages to chess improvement. Most players get stuck in one of the earlier stages. Or try to go to stage 4 without any preparation. Which usually leads to disaster. Curious about the stages? I'm sure you'll resonate with some of those: Stage 1: Random Improvements You get into chess and just wing []",
