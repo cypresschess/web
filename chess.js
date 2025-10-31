@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "YouTuber Zachary Saines presents a compilation of Daniel Naroditsky's finest tactical moments from online blitz play and over-the-board performances. The video highlights the late grandmaster's sharp calculation, creativity and composure under time pressure. Drawing on his career as one of the world's leading blitz specialists, it especially offers a clear view of how Naroditsky blended intuition and precision in the demanding environment of fast-paced online chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/zachary-saine-daniel-naroditsky",
+         "pubDate" : "Fri, 31 Oct 2025 18:00:00",
+         "title" : "Zachary Saine pays tribute to Daniel Naroditsky"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124996884.cms\" />Goa, India, is host the FIDE Chess World Cup 2025 from October 31 to November 27. World champion D Gukesh leads a strong 24-member Indian contingent, with Arjun Erigaisi and R Praggnanandhaa seeded second and third. The tournament offers qualifying spots for the Candidates 2026, with the top three advancing.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -18,7 +26,15 @@ news_feed (
          "title" : "Kenneth Baker: Politician and chess enthusiast"
       },
       {
-         "description" : " Norway's world No 1 beat the world champion, Gukesh Dommaraju, 5.5-0.5, and also edged the world Nos 2 and 3 The four-player Champions Showdown in St Louis was a historic event, a quadrangular tournament of the super-elite who met each other six times in three days. Magnus Carlsen was the favourite, but after scoring 3.5/6 on the first day the Norwegian expressed dissatisfaction with his own performance: \"I'm not feeling good at all. I scored about two points more than I should have, and I'm happy with that. My level of play was extremely poor.\" <a href=\"https://www.theguardian.com/sport/2025/oct/31/chess-magnus-carlsen-triumphs-at-historic-champions-showdown-in-st-louis\">Continue reading..",
+         "description" : "On a Halloween edition of Freestyle Friday,&#38;nbsp;GM Hikaru Nakamura scored a victory on October 31 after missing the past few tournaments with prior engagements. Nakamura was 1.5 points behind the lead after five rounds, but with the tenacity akin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-freestyle-friday-october-31-2025",
+         "pubDate" : "Fri, 31 Oct 2025 11:32:31",
+         "title" : "Nakamura Chases Down Friday Field In Triumphant Return"
+      },
+      {
+         "description" : " Norway's world No 1 beat the world champion, Gukesh Dommaraju, 5.5-0.5, and also edged the world Nos 2 and 3 The four-player $412.000 Champions Showdown in St Louis was a historic event, a quadrangular tournament of the super-elite who met each other six times in three days. Magnus Carlsen was the favourite, but after scoring 3.5/6 on the first day the Norwegian expressed dissatisfaction with his own performance: \"I'm not feeling good at all. I scored about two points more than I should have, and I'm happy with that. My level of play was extremely poor.\" <a href=\"https://www.theguardian.com/sport/2025/oct/31/chess-magnus-carlsen-triumphs-at-historic-champions-showdown-in-st-louis\">Continue ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/oct/31/chess-magnus-carlsen-triumphs-at-historic-champions-showdown-in-st-louis",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-watch-out-for-surprises-and-young-masters/articleshow/124987653.cms",
          "pubDate" : "Fri, 31 Oct 2025 07:12:20",
          "title" : "Chess World Cup: Watch out for surprises and young masters"
+      },
+      {
+         "description" : "In this issue we have games from four different sections of the Victor Palciauskas tournament. This tournament, which was also partially covered in the last issue of Check is in the Mail, is a Round Robin ICCF Server-based tournament. Similar to the last issue, you will find games played by some of the winners in the tournament sections provided within the Front Office section.Reminder: The December issue of Check is in the Mail is our yearly Miniature Games issue. If you have played any game(s) that ended in 25 moves or less that you would like considered for publication in next month's issue, please email the game(s) to me. GamesReminder when reviewing the cross tables:XD = result by defau",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/check-mail-november-2025-rockin-robin",
+         "pubDate" : "Fri, 31 Oct 2025 00:00:00",
+         "title" : "Check is in the Mail, November 2025: Rockin' Robin!"
       },
       {
          "description" : "Our rulebook has some rules that require a face-off: apparently contradictory rules that each claim they are top dog. A pair of rules, in other words, that require a TD as the referee. Can you navigate the tension and ace this quiz? 1) Draw Offers Versus Annoying BehaviorYour game is a contest of one exclamation-worthy move after another. For every move, there is an equal, opposite countermove from your opponent. As the time control approaches, you have a notion. A series of steps that give you a slight advantage. You are making progress. Your plan will, at the very least, give your opponent pause to think.Your challenger's response is to move quickly and offer a draw - over and over and ove",
@@ -602,14 +626,6 @@ news_feed (
          "title" : "Update to SafeSport Refresher Requirements for Tournament Directors"
       },
       {
-         "description" : "22 American players made the trip to Durres, Albania to compete on behalf of the USA Delegation at the 2025 FIDE World Youth Chess Championships from October 4 through 15. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Courtesy of US Chess<br> <br> <br> <br> In contrast to last month's World Cadets Chess Championship, no Americans made podium finishes. But no player entered in the top 10 (by FIDE rating) of their respective section (Under-14, -16, and -18 Open and Girls), so this was not totally unexpected. The overlap with the U.S. Chess Championships was also unfortunate, as several of our top juniors opted to compete in St. Louis. <br> <br> <br> <b",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-fide-world-youth-chess-championship-das-sinkar-shine-usa-delegation",
-         "pubDate" : "Thu, 23 Oct 2025 00:00:00",
-         "title" : "2025 FIDE World Youth Chess Championship: Das, Sinkar Shine for USA Delegation"
-      },
-      {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 9 &#124; GAME LINKS SO VS SEVIAN RESULT: &frac12;-&frac12;MISHRA VS ARONIAN RESULT: &frac12;-&frac12;NIEMANN VS LIANG RESULT: 1-0SHANKLAND VS CARUANA RESULT: 0-1ROBSON VS WOODWARD RESULT: &frac12;-&frac12;SWIERCZ VS OPARIN &frac12;-&frac12; ROUND 9 &#124; GAME LINKS PAIKIDZE VS PARAGUA [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-9/\">POSTGAME ROUND 9 | #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -736,14 +752,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-wins-freestyle-friday-october-17-2025",
          "pubDate" : "Mon, 20 Oct 2025 06:10:43",
          "title" : "Carlsen Crushes Freestyle Friday"
-      },
-      {
-         "description" : "GM Fabiano Caruana bulldozed his pawns through GM Hans Niemann&#39;s kingside to reach a forced checkmate on Saturday in St. Louis. America&#39;s number two now leads with GM Wesley So, who put an end to GM Andy Woodward&#39;s winning ways. A very adventurous...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-us-championship-round-7",
-         "pubDate" : "Mon, 20 Oct 2025 01:48:00",
-         "title" : "Caruana Bulldozes Niemann To Lead With So; Lee Becomes Sole Leader"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 7 &#124; GAME LINKS ROBSON VS ARONIAN RESULT: &frac12;-&frac12;SWIERCZ VS LIANG RESULT: 1-0SO VS WOODWARD RESULT: 1-0SHANKLAND VS MISHRA RESULT: 1-0NIEMANN VS CARUANA RESULT: 0-1SEVIAN VS OPARIN RESULT: 1-0 ROUND 7 &#124; GAME LINKS POURKASHIYAN VS [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-7/\">POSTGAME ROUND 7: Caruana's BIG TIME Win Over Hans! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -920,14 +928,6 @@ news_feed (
          "link" : "https://www.thearticle.com/war-science-and-chess-in-samarkand/",
          "pubDate" : "Sat, 11 Oct 2025 07:36:25",
          "title" : "War, science and chess in Samarkand"
-      },
-      {
-         "description" : " England, seeded fifth among 40 teams at the start, were fifth after six of nine rounds while England women, seeded 12th among 36, were 11th England's open team jumped into an outside medal chance on Friday as this week's European championships at Batumi, Georgia, passed the halfway mark. However, with only three rounds left after Saturday's rest day, they still have to meet the front runners from Ukraine and the Netherlands. Leaders after six of the nine rounds: <strong>Open:</strong> 1 Ukraine 11 match points (15 game points), 2 Netherlands 10 (15.5), 3 Azerbaijan 9 (14). <strong>Also:</strong> 5 England 8 (14). <strong>Women:</strong> 1 Poland 12 (16.5), 2 Germany 9 (14), 3 Ukraine 9 (15,",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/oct/10/chess-england-in-midfield-at-european-championships-and-medals-appear-unlikely",
-         "pubDate" : "Fri, 10 Oct 2025 18:34:10",
-         "title" : "Chess: England jump to fifth at European championships, with outside medal chance"
       }
    ]
 }
