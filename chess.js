@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125010310.cms\" />World No. 1 Magnus Carlsen will not compete in the FIDE Chess World Cup 2025 in Goa, India. Citing motivational issues and a disinterest in long-format classical games, the five-time world champion has withdrawn from pursuing the classical title again. Carlsen is now focusing on faster chess formats and esports.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-chess-world-cup-2025-why-is-world-no-1-magnus-carlsen-not-playing-in-goa/articleshow/125010310.cms",
+         "pubDate" : "Sat, 01 Nov 2025 05:59:32",
+         "title" : "Chess WC: Why is Magnus Carlsen not playing in Goa?"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125010152.cms\" />India hosts the Knockout World Cup in Goa, featuring a record 24 Indian players, including chess prodigies D Gukesh and R Praggnanandhaa. Gukesh, the reigning world champion, aims to solidify his title, while Pragg seeks to maintain his strong FIDE Circuit performance. The tournament format involves intense knockout matches with classical and rapid tiebreaks, promising thrilling chess action.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-different-orbits-of-gukesh-and-praggnanandhaa/articleshow/125010152.cms",
+         "pubDate" : "Sat, 01 Nov 2025 04:59:28",
+         "title" : "FIDE World Cup: Different orbits of Gukesh and Praggnanandhaa"
+      },
+      {
          "description" : "The first round of the World Cup will begin in Goa, India, on 1 November at 15:00 local time. A total of 206 players will compete; the oldest participant is 65-year-old Igor Efimov, while the youngest is Faustino Oro, who turned 12 in October. The prize money totals 2 million US dollars, and the top three finishers will qualify for the Candidates Tournament. Matches will consist of two games, with rapid chess and blitz tiebreaks following a 1-1 score. The loser is eliminated. Vincent Keymer is officially seeded 6th, but according to the live world rankings, he is effectively ranked 1st. So, how good are his chances of finishing in the top three? | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,28 +42,12 @@ news_feed (
          "title" : "Opening ceremony of the FIDE World Cup dazzles in Goa"
       },
       {
-         "description" : "YouTuber Zachary Saines presents a compilation of Daniel Naroditsky's finest tactical moments from online blitz play and over-the-board performances. The video highlights the late grandmaster's sharp calculation, creativity and composure under time pressure. Drawing on his career as one of the world's leading blitz specialists, it especially offers a clear view of how Naroditsky blended intuition and precision in the demanding environment of fast-paced online chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/zachary-saine-daniel-naroditsky",
-         "pubDate" : "Fri, 31 Oct 2025 18:00:00",
-         "title" : "Zachary Saine pays tribute to Daniel Naroditsky"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124996884.cms\" />Goa, India, is host the FIDE Chess World Cup 2025 from October 31 to November 27. World champion D Gukesh leads a strong 24-member Indian contingent, with Arjun Erigaisi and R Praggnanandhaa seeded second and third. The tournament offers qualifying spots for the Candidates 2026, with the top three advancing.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-chess-world-cup-live-streaming-when-and-where-to-watch-d-gukesh-divya-deshmukh-battle-in-goa/articleshow/124996884.cms",
          "pubDate" : "Fri, 31 Oct 2025 14:18:49",
          "title" : "FIDE Chess World Cup Live Streaming: When and where to watch?"
-      },
-      {
-         "description" : "Many chess players have become successful politicians, and many politicians have enjoyed playing chess. The English politician Kenneth Baker held various positions in Margaret Thatcher's cabinet for some time. His love of chess helped him make the right decisions in the tango of politics.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kenneth-baker-politician-and-chess-enthusiast",
-         "pubDate" : "Fri, 31 Oct 2025 13:00:00",
-         "title" : "Kenneth Baker: Politician and chess enthusiast"
       },
       {
          "description" : "On a Halloween edition of Freestyle Friday,&#38;nbsp;GM Hikaru Nakamura scored a victory on October 31 after missing the past few tournaments. Nakamura was 1.5 points behind the lead after five rounds, but with the tenacity akin to a horror movie anta...",
@@ -696,22 +696,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/swiss-manager-liveboards-course/",
          "pubDate" : "Wed, 22 Oct 2025 15:46:37",
          "title" : "Swiss Manager/Liveboards Course"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124741468.cms\" />FIDE CEO Emil Sutovsky has slammed Vladimir Kramnik's 'appalling' comments about the late Daniel Naroditsky, questioning the outpouring of posthumous support for the young Grandmaster. Sutovsky highlighted Naroditsky's struggles following unsubstantiated cheating allegations and urged those claiming friendship to explain their inaction during his difficult period.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/daniel-naroditskys-death-fide-ceo-bashes-hypocrisy-where-were-all-of-you-/articleshow/124741468.cms",
-         "pubDate" : "Wed, 22 Oct 2025 13:26:54",
-         "title" : "Daniel Naroditsky's death: FIDE CEO bashes hypocrisy - 'Where were all of you... '"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124739666.cms\" />In a twist that's shaken up the global chess scene, Norway Chess has pulled off what even Magnus Carlsen's Freestyle tour couldn't, convincing FIDE to approve a brand-new World Championship title. The \"Total Chess World Championship\" marks a stunning power play that could redefine how elite chess is played and governed.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-we-didnt-tell-any-players-not-even-magnus-carlsen-how-norway-chess-did-what-freestyle-couldnt/articleshow/124739666.cms",
-         "pubDate" : "Wed, 22 Oct 2025 11:31:23",
-         "title" : "Exclusive | 'Not even Magnus Carlsen': How Norway Chess did what Freestyle couldn't"
       },
       {
          "description" : "The third round of the 2025 European Chess Club Cup took place today in Rhodes, Greece, highlighted by the arrival of reigning World Chess Champion Gukesh D, who joined his SuperChess team at the venue for the first time in the event. Only nine teams in the Open section, and two teams in the Women's section, kept the perfect score of 6 match points, and share the lead in the tournament after three played rounds. The leading teams of the []",
