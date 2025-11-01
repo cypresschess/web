@@ -26,6 +26,22 @@ news_feed (
          "title" : "FIDE World Cup - Live!"
       },
       {
+         "description" : "GM Vincent Keymer gained 18 points across the 2025 European Team Chess Championship and 2025 European Club Cup to break into the top five for the first time in his career on the November 2025 FIDE rating list. GM Anish Giri is up to fifth, while W...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/november-2025-fide-ratings",
+         "pubDate" : "Sat, 01 Nov 2025 10:03:00",
+         "title" : "Keymer Storms To No. 4, Gukesh Back in Top 10: November 2025 FIDE Ratings"
+      },
+      {
+         "description" : "Emirati GM Salem Saleh won with a brilliant and sacrificial combination in a heated Najdorf battle against Japanese IM Thanh Tu Tran, to earn our Game of the day distinction. The favorites mostly prevailed in round one, game one of the 2025 FIDE W...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-1-game-1",
+         "pubDate" : "Sat, 01 Nov 2025 08:47:00",
+         "title" : "Saleh Plays Attack Of The Day, Favorites Prevail In Game 1"
+      },
+      {
          "description" : "A new study by researchers at Google DeepMind explores whether artificial intelligence can exhibit genuine creativity through the composition of chess puzzles. By generating positions designed for aesthetic appeal and originality, the team invited leading experts to evaluate their quality and artistic value. The reviewers' assessments, combining praise and constructive critique, shed light on how AI-generated chess problems compare with traditional human compositions in terms of beauty, depth and innovation.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -786,28 +802,12 @@ news_feed (
          "title" : "POSTGAME ROUND 8: Aggressive Levon Trips Up Shankland #USChessChamps"
       },
       {
-         "description" : "GM Daniel Naroditsky, the popular U.S. grandmaster, commentator, creator, educator, and author, unexpectedly passed away on Sunday at the age of only 29. The news has sent shockwaves around the chess community, which is grieving the loss of one of...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/grandmaster-daniel-naroditsky-dies-at-29",
-         "pubDate" : "Mon, 20 Oct 2025 11:30:00",
-         "title" : "Grandmaster, Popular Commentator Daniel Naroditsky Tragically Passes Away At 29"
-      },
-      {
          "description" : "The&#160;49th&#160;BWCI Guernsey International Chess Festival will be taking place from Sunday&#160;19th&#160;October to Saturday&#160;25th&#160;&#160;October 2025&#160;and we will be displaying the live games on the top&#160;8&#160;boards in the Open section via&#160;https://view.livechesscloud.com#783d64ea-7513-49ff-8125-2181180554e2&#160; We...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/49th-bwci-guernsey-international-chess-festival/",
          "pubDate" : "Mon, 20 Oct 2025 08:36:47",
          "title" : "49th BWCI Guernsey International Chess Festival"
-      },
-      {
-         "description" : "GM Magnus Carlsen won the October 17 Freestyle Friday in fine fashion, scoring 10 points to clear the field by 1.5 points. It was Carlsen&#39;s first win in the event since August 15, which was also the last time anyone scored 10 points. He hadn&#39;t rea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-freestyle-friday-october-17-2025",
-         "pubDate" : "Mon, 20 Oct 2025 06:10:43",
-         "title" : "Carlsen Crushes Freestyle Friday"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 7 &#124; GAME LINKS ROBSON VS ARONIAN RESULT: &frac12;-&frac12;SWIERCZ VS LIANG RESULT: 1-0SO VS WOODWARD RESULT: 1-0SHANKLAND VS MISHRA RESULT: 1-0NIEMANN VS CARUANA RESULT: 0-1SEVIAN VS OPARIN RESULT: 1-0 ROUND 7 &#124; GAME LINKS POURKASHIYAN VS [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-7/\">POSTGAME ROUND 7: Caruana's BIG TIME Win Over Hans! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
