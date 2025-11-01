@@ -18,14 +18,6 @@ news_feed (
          "title" : "The realms of gold"
       },
       {
-         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Sat, 01 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup - Live!"
-      },
-      {
          "description" : "GM Vincent Keymer gained 18 points across the 2025 European Team Chess Championship and 2025 European Club Cup to break into the top five for the first time in his career on the November 2025 FIDE rating list. GM Anish Giri is up to fifth, while W...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -34,7 +26,7 @@ news_feed (
          "title" : "Keymer Storms To No. 4, Gukesh Back in Top 10: November 2025 FIDE Ratings"
       },
       {
-         "description" : "Emirati GM Salem Saleh won with a brilliant and sacrificial combination in a heated Najdorf battle against Japanese IM Thanh Tu Tran, to earn our Game of the day distinction. The favorites mostly prevailed in round one, game one of the 2025 FIDE W...",
+         "description" : "The favorites&#38;mdash;including GMs Yagiz Kaan Erdogmus, Jeffery Xiong, and Maxim Rodshtein on top boards&#38;mdash;prevailed with almost no upsets in round one, game one of the 2025 FIDE World Cup. GM Salem Saleh won the Game of the Day with a brillian...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-1-game-1",
