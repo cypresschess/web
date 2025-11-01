@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
+         "pubDate" : "Sat, 01 Nov 2025 10:20:00",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "A new study by researchers at Google DeepMind explores whether artificial intelligence can exhibit genuine creativity through the composition of chess puzzles. By generating positions designed for aesthetic appeal and originality, the team invited leading experts to evaluate their quality and artistic value. The reviewers' assessments, combining praise and constructive critique, shed light on how AI-generated chess problems compare with traditional human compositions in terms of beauty, depth and innovation.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ai-chess-compositions-deepmind",
+         "pubDate" : "Sat, 01 Nov 2025 08:30:00",
+         "title" : "Evaluating AI chess compositions - A study by Google DeepMind"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125010310.cms\" />World No. 1 Magnus Carlsen will not compete in the FIDE Chess World Cup 2025 in Goa, India. Citing motivational issues and a disinterest in long-format classical games, the five-time world champion has withdrawn from pursuing the classical title again. Carlsen is now focusing on faster chess formats and esports.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -58,14 +74,6 @@ news_feed (
          "title" : "Nakamura Chases Down Friday Field In Triumphant Return"
       },
       {
-         "description" : "The significance of Women's World Cup winner Divya Deshmukh playing the FIDE World Cup is not about success, but the pursuit of excellence.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/46790814/divya-deshmukh-gambit-women-world-cup-champ-pursues-open-excellence-fide-world-cup?device=featurephone",
-         "pubDate" : "Fri, 31 Oct 2025 08:02:58",
-         "title" : "Divya's gambit: Women's World Cup champ pursues Open excellence in FIDE World Cup"
-      },
-      {
          "description" : " Norway's world No 1 beat the world champion, Gukesh Dommaraju, 5.5-0.5, and also edged the world Nos 2 and 3 The four-player $412.000 Champions Showdown in St Louis was a historic event, a quadrangular tournament of the super-elite who met each other six times in three days. Magnus Carlsen was the favourite, but after scoring 3.5/6 on the first day the Norwegian expressed dissatisfaction with his own performance: \"I'm not feeling good at all. I scored about two points more than I should have, and I'm happy with that. My level of play was extremely poor.\" <a href=\"https://www.theguardian.com/sport/2025/oct/31/chess-magnus-carlsen-triumphs-at-historic-champions-showdown-in-st-louis\">Continue ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-watch-out-for-surprises-and-young-masters/articleshow/124987653.cms",
          "pubDate" : "Fri, 31 Oct 2025 07:12:20",
          "title" : "Chess World Cup: Watch out for surprises and young masters"
-      },
-      {
-         "description" : "The FIDE World Cup in Goa is Gukesh's first event at home in India since becoming world champion last year.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/46788964/can-world-champion-gukesh-add-win-fide-world-cup-title-home-goa-2025?device=featurephone",
-         "pubDate" : "Fri, 31 Oct 2025 04:15:33",
-         "title" : "Can world champion Gukesh add a World Cup title to his resume?"
       },
       {
          "description" : "In this issue we have games from four different sections of the Victor Palciauskas tournament. This tournament, which was also partially covered in the last issue of Check is in the Mail, is a Round Robin ICCF Server-based tournament. Similar to the last issue, you will find games played by some of the winners in the tournament sections provided within the Front Office section.Reminder: The December issue of Check is in the Mail is our yearly Miniature Games issue. If you have played any game(s) that ended in 25 moves or less that you would like considered for publication in next month's issue, please email the game(s) to me. GamesReminder when reviewing the cross tables:XD = result by defau",
@@ -928,22 +928,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/how-to-avoid-clickbait/",
          "pubDate" : "Sat, 11 Oct 2025 13:00:00",
          "title" : "Annoyed At Clickbait Videos? Do this."
-      },
-      {
-         "description" : "In a commanding display of skill and teamwork, the Indian Railways Chess Team emerged as the champions of the World Railways Chess Championship 2025, held",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/indian-railways-clinch-world-railways-chess-championship-with-a-perfect-score/",
-         "pubDate" : "Sat, 11 Oct 2025 07:59:46",
-         "title" : "Indian Railways Clinch World Railways Chess Championship with a Perfect Score"
-      },
-      {
-         "description" : "In 2026 the Chess Olympiad and the election for FIDÉ President are due to take place in Samarkand, the ancient city in Uzbekistan. The current President, a supporter of Putin, may face a challenge from his predecessor, Kirsan Ilyumzhinov. Once blacklisted by the United States under President Biden, Ilyumzhinov has since been cleared under President []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/war-science-and-chess-in-samarkand/",
-         "pubDate" : "Sat, 11 Oct 2025 07:36:25",
-         "title" : "War, science and chess in Samarkand"
       }
    ]
 }
