@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is the story of how I nearly deleted the footage of a video that now has 77K views. A video that has several comments saying something along the lines of: \"This might be the most practically useful chess video I have ever watched.\" Why did I nearly delete it? Because I thought it wasn't []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/chess-improvement-mindset/",
+         "pubDate" : "Sat, 01 Nov 2025 14:00:00",
+         "title" : "Just Do It - And Thank Me Later"
+      },
+      {
+         "description" : "In 1816, John Keats published his ode On First Looking into Chapman's Homer. It remains, to this day, my favourite English language poem. In it, Keats captured the feeling of astonishment that comes when the human mind encounters a new world of thought. \"Then felt I like some watcher of the skies,\" he wrote, \"when a []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-realms-of-gold/",
+         "pubDate" : "Sat, 01 Nov 2025 12:15:22",
+         "title" : "The realms of gold"
+      },
+      {
          "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,6 +90,14 @@ news_feed (
          "title" : "Nakamura Chases Down Friday Field In Triumphant Return"
       },
       {
+         "description" : "The significance of Women's World Cup winner Divya Deshmukh playing the FIDE World Cup is not about success, but the pursuit of excellence.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/46790814/divya-deshmukh-gambit-women-world-cup-champ-pursues-open-excellence-fide-world-cup?device=featurephone",
+         "pubDate" : "Fri, 31 Oct 2025 08:02:58",
+         "title" : "Divya's gambit: Women's World Cup champ pursues Open excellence in FIDE World Cup"
+      },
+      {
          "description" : " Norway's world No 1 beat the world champion, Gukesh Dommaraju, 5.5-0.5, and also edged the world Nos 2 and 3 The four-player $412.000 Champions Showdown in St Louis was a historic event, a quadrangular tournament of the super-elite who met each other six times in three days. Magnus Carlsen was the favourite, but after scoring 3.5/6 on the first day the Norwegian expressed dissatisfaction with his own performance: \"I'm not feeling good at all. I scored about two points more than I should have, and I'm happy with that. My level of play was extremely poor.\" <a href=\"https://www.theguardian.com/sport/2025/oct/31/chess-magnus-carlsen-triumphs-at-historic-champions-showdown-in-st-louis\">Continue ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -88,6 +112,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-watch-out-for-surprises-and-young-masters/articleshow/124987653.cms",
          "pubDate" : "Fri, 31 Oct 2025 07:12:20",
          "title" : "Chess World Cup: Watch out for surprises and young masters"
+      },
+      {
+         "description" : "The FIDE World Cup in Goa is Gukesh's first event at home in India since becoming world champion last year.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/46788964/can-world-champion-gukesh-add-win-fide-world-cup-title-home-goa-2025?device=featurephone",
+         "pubDate" : "Fri, 31 Oct 2025 04:15:33",
+         "title" : "Can world champion Gukesh add a World Cup title to his resume?"
       },
       {
          "description" : "In this issue we have games from four different sections of the Victor Palciauskas tournament. This tournament, which was also partially covered in the last issue of Check is in the Mail, is a Round Robin ICCF Server-based tournament. Similar to the last issue, you will find games played by some of the winners in the tournament sections provided within the Front Office section.Reminder: The December issue of Check is in the Mail is our yearly Miniature Games issue. If you have played any game(s) that ended in 25 moves or less that you would like considered for publication in next month's issue, please email the game(s) to me. GamesReminder when reviewing the cross tables:XD = result by defau",
@@ -920,14 +952,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/lasker-chigorin-legendary-clash-of-two-bishops-vs-two-knights",
          "pubDate" : "Sun, 12 Oct 2025 15:00:00",
          "title" : "Lasker-Chigorin: A legendary clash of two bishops vs two knights"
-      },
-      {
-         "description" : "The internet is full of these lofty promises that make you feel like improving your chess will be easy. If you only watch this video or buy this course, you'll improve immediately 300 points. As you might have found out the hard way, that's not true. But you might wonder, why does online chess content []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/how-to-avoid-clickbait/",
-         "pubDate" : "Sat, 11 Oct 2025 13:00:00",
-         "title" : "Annoyed At Clickbait Videos? Do this."
       }
    ]
 }
