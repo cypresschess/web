@@ -138,14 +138,6 @@ news_feed (
          "title" : "Nakamura Chases Down Friday Field In Triumphant Return"
       },
       {
-         "description" : "The significance of Women's World Cup winner Divya Deshmukh playing the FIDE World Cup is not about success, but the pursuit of excellence.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/46790814/divya-deshmukh-gambit-women-world-cup-champ-pursues-open-excellence-fide-world-cup?device=featurephone",
-         "pubDate" : "Fri, 31 Oct 2025 08:02:58",
-         "title" : "Divya's gambit: Women's World Cup champ pursues Open excellence in FIDE World Cup"
-      },
-      {
          "description" : " Norway's world No 1 beat the world champion, Gukesh Dommaraju, 5.5-0.5, and also edged the world Nos 2 and 3 The four-player $412.000 Champions Showdown in St Louis was a historic event, a quadrangular tournament of the super-elite who met each other six times in three days. Magnus Carlsen was the favourite, but after scoring 3.5/6 on the first day the Norwegian expressed dissatisfaction with his own performance: \"I'm not feeling good at all. I scored about two points more than I should have, and I'm happy with that. My level of play was extremely poor.\" <a href=\"https://www.theguardian.com/sport/2025/oct/31/chess-magnus-carlsen-triumphs-at-historic-champions-showdown-in-st-louis\">Continue ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -952,14 +944,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/78th-russian-chess-championships-2025",
          "pubDate" : "Sun, 12 Oct 2025 19:07:00",
          "title" : "78th Russian Chess Championships 2025 - Games and Results"
-      },
-      {
-         "description" : "Already in the second round of the famous Hastings tournament of 1895, two of the favourites faced each other in a tough and complex battle. After just thirteen moves, the game had reached a semi-endgame with two rooks and two minor pieces each. Lasker held the pair of bishops, but it was Chigorin with the pair of knights who emerged victorious in the end. The game made history, and its course has been interpreted very differently over time. We invite our readers to join us in the search for new insights.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lasker-chigorin-legendary-clash-of-two-bishops-vs-two-knights",
-         "pubDate" : "Sun, 12 Oct 2025 15:00:00",
-         "title" : "Lasker-Chigorin: A legendary clash of two bishops vs two knights"
       }
    ]
 }
