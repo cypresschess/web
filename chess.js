@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GothamChess vs. The World has blown past previously-established records and continues to set new ones, with now more than 200,000 players having joined in. That total is nearly 40% more than the previous record, which was set during Magnus vs. the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gothamchess-vs-world-200k-players",
+         "pubDate" : "Sun, 02 Nov 2025 11:19:01",
+         "title" : "GothamChess Vs. The World Hits 200,000 Players And Counting"
+      },
+      {
          "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2025-live",
          "pubDate" : "Sun, 02 Nov 2025 10:20:00",
          "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "Out of 78 matches in round one of the 2025 FIDE World Cup, 20 will go to rapid and blitz tiebreaks on Monday. The upset of the day was IM Shixu Wang&#39;s (2402) match win against GM Leon Mendonca (2620). This is a flash report. The full article, in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-1-game-2",
+         "pubDate" : "Sun, 02 Nov 2025 08:35:00",
+         "title" : "IM Shixu Wang Pulls Upset, 20 Matches Go To Tiebreaks"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125028587.cms\" />Indian Grandmaster Divya Deshmukh faces a must-win scenario with black pieces in the World Cup chess after a loss to Stamatis Kourkoulos-Arditis. The 19-year-old, a wild card entry in the Open event, risks early elimination if she doesn't secure a victory in her next game.",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-watch-out-for-surprises-and-young-masters/articleshow/124987653.cms",
          "pubDate" : "Fri, 31 Oct 2025 07:12:20",
          "title" : "Chess World Cup: Watch out for surprises and young masters"
-      },
-      {
-         "description" : "The FIDE World Cup in Goa is Gukesh's first event at home in India since becoming world champion last year.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/46788964/can-world-champion-gukesh-add-win-fide-world-cup-title-home-goa-2025?device=featurephone",
-         "pubDate" : "Fri, 31 Oct 2025 04:15:33",
-         "title" : "Can world champion Gukesh add a World Cup title to his resume?"
       },
       {
          "description" : "In this issue we have games from four different sections of the Victor Palciauskas tournament. This tournament, which was also partially covered in the last issue of Check is in the Mail, is a Round Robin ICCF Server-based tournament. Similar to the last issue, you will find games played by some of the winners in the tournament sections provided within the Front Office section.Reminder: The December issue of Check is in the Mail is our yearly Miniature Games issue. If you have played any game(s) that ended in 25 moves or less that you would like considered for publication in next month's issue, please email the game(s) to me. GamesReminder when reviewing the cross tables:XD = result by defau",
@@ -762,28 +770,12 @@ news_feed (
          "title" : "Gukesh debuts in the third round of European Chess Club Cup 2025"
       },
       {
-         "description" : "A key match in the fourth week of the Collegiate Chess League (CCL) saw the University of Missouri, Columbia (Mizzou) cement their place atop the league with a dominant 12-4 victory over the University of Texas Rio Grande Valley (UTRGV).&#38;nbsp; T...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2025-ccl-fall-week-4-mizzou-utrgv",
-         "pubDate" : "Tue, 21 Oct 2025 16:00:00",
-         "title" : "Mizzou Maintains Lead, Defeats UTRGV In Collegiate Chess League Week 4"
-      },
-      {
          "description" : " The death of Daniel Naroditsky at the age of only 29 has come as a great shock. Naroditsky was a well known chess commentator and streamer who became a GM in 2013 and had a peak rating of 2647 in May 2017. His play was limited to mostly blitz in recent years, both online and over the board, although his fifth and final appearance in the US Championships was as recent as 2021. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/daniel-naroditsky-1995-2025",
          "pubDate" : "Tue, 21 Oct 2025 13:53:00",
          "title" : "Daniel Naroditsky 1995-2025 - 1995-2025"
-      },
-      {
-         "description" : "GM Parham Maghsoodloo won Titled Tuesday on October 21, scoring 9.5 points and winning on the tiebreak score over GM Hikaru Nakamura&#38;nbsp;after Nakamura and&#38;nbsp;GM Magnus Carlsen made a draw with each other in the final round. In his post-tournam...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/maghsoodloo-wins-titled-tuesday-october-21-2025",
-         "pubDate" : "Tue, 21 Oct 2025 12:01:30",
-         "title" : "Maghsoodloo Joins CCT Top 10 With Titled Tuesday Win"
       },
       {
          "description" : "The second round of the European Chess Club Cup 2025 was played yesterday in Rhodes, Greece, and games are getting tougher every day. The top seeded clubs continued strong yesterday, most of them scoring convincing victories against the underdogs. Bayegan Pendik chess sports club scored 5-1 win against SK Dunajska streda, Alkaloid scored maximum 6-0 win over Ippotis Rhodes chess club, defending Champions Novy Bor was victorious against De Sprenger Echternach with the score of 5-1, SuperChess defeated FC St. []",
@@ -936,14 +928,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fermat-in-chess",
          "pubDate" : "Mon, 13 Oct 2025 08:32:12",
          "title" : "Fermat in Chess"
-      },
-      {
-         "description" : " The 78th Russian Chess Championship and 75th Russian Women's Championship took place in Moscow 1st to 12th October 2025. The event was pretty weak compared to even the relatively recent past due to the war. Daniil Dubov, Vladislav Artemiev, Andrey Esipenko and Vladimir Malakhov were the top seeds but there were some young players too. Polina Shuvalova, Leya Garifullina, Olga Girya, Valentina Gunina and Alisa Galliamova were the leading women's players. 22 year old Arseniy Nesterov won the title for the first time with 6.5/11 half a point clear of Daniil Dubov, Andrey Esipenko and Vadim Zvjaginsev. Anna Shukhman won the women's event with 7/10 half a point clear of Leya Garifullina (who she ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/78th-russian-chess-championships-2025",
-         "pubDate" : "Sun, 12 Oct 2025 19:07:00",
-         "title" : "78th Russian Chess Championships 2025 - Games and Results"
       }
    ]
 }
