@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125028587.cms\" />Indian Grandmaster Divya Deshmukh faces a must-win scenario with black pieces in the World Cup chess after a loss to Stamatis Kourkoulos-Arditis. The 19-year-old, a wild card entry in the Open event, risks early elimination if she doesn't secure a victory in her next game.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-exit-looms-for-divya-deshmukh-after-loss/articleshow/125028587.cms",
+         "pubDate" : "Sun, 02 Nov 2025 03:51:24",
+         "title" : "Chess World Cup: Exit looms for Divya Deshmukh after loss"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125028359.cms\" />FIDE President Arkady Dvorkovich addressed concerns about cheating and cyberbullying in chess following the death of Grandmaster Daniel Naroditsky. He revealed informal discussions with Vladimir Kramnik regarding aggression and bullying, urging Kramnik to provide scientific evidence for his accusations. The Ethics Commission is currently investigating the matter.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/urged-vladimir-kramnik-to-be-less-aggressive-fide-president-on-daniel-naroditskys-death/articleshow/125028359.cms",
+         "pubDate" : "Sun, 02 Nov 2025 03:17:10",
+         "title" : "'Urged Vladimir Kramnik to be less aggressive': FIDE president on Daniel Naroditsky's death"
+      },
+      {
          "description" : "The wait is over for one of the chess world's most prestigious events, as the FIDE World Cup got underway on Saturday in Goa, India. Over the next 26 days, 206 players will compete for three coveted places in the next Candidates Tournament. While most favourites began solidly with wins, a few underdogs held higher-rated opponents to draws. The most surprising result was IM Uurtsaikh Agibileg's victory over GM Crist&oacute;bal Henr&iacute;quez. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,11 +26,11 @@ news_feed (
          "title" : "World Cup: No major upsets, plenty of tactical shots"
       },
       {
-         "description" : "An inspired GM Andrew Tang posted a 27-game unbeaten streak during Saturday&#39;s Bullet Brawl and surged to a 14th career victory ahead of the 48-time winner, GM Hikaru Nakamura. Tang chalked up 51 wins, four draws, and 11 losses in the two-hour ar...",
+         "description" : "An inspired GM Andrew Tang posted a 27-game unbeaten streak during Saturday&#39;s Bullet Brawl and surged to his 14th career victory ahead of 48-time winner GM Hikaru Nakamura. Tang chalked up 51 wins, four draws, and 11 losses in the two-hour arena...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-nov-1-2025",
-         "pubDate" : "Sat, 01 Nov 2025 19:56:07",
+         "pubDate" : "Sat, 01 Nov 2025 19:56:00",
          "title" : "Tang Surges To 14th Bullet Brawl Title After 27-Game Unbeaten Streak"
       },
       {
@@ -682,28 +698,12 @@ news_feed (
          "title" : "Alkaloid and SuperChess co-lead in Open, Cercle d'Echecs de Monte-Carlo leads in Women's European Chess Club Cup"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124767413.cms\" />Viswanathan Anand inaugurated the Global Chess League's new Experience Centre in Plano, Dallas, a hub for chess, technology, and innovation. The centre aims to enhance fan engagement and player development through AI, analytics, and digital platforms. It will foster collaboration with universities and tech partners to shape the future of the game.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-icon-viswanathan-anand-inaugurates-global-chess-league-experience-centre-in-dallas/articleshow/124767413.cms",
-         "pubDate" : "Thu, 23 Oct 2025 17:13:56",
-         "title" : "Viswanathan Anand inaugurates GCL Experience Centre in Dallas"
-      },
-      {
          "description" : "I was recently invited to have tea at the House of Lords by Baroness Miller of Chilthorne Domer to discuss my work with chess in prisons. She plays chess herself...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/the-baroness-and-the-pink-doughnut-carl-portman/",
          "pubDate" : "Thu, 23 Oct 2025 09:24:28",
          "title" : "The Baroness and the pink doughnut - Carl Portman"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124751170.cms\" />Chess world mourns Grandmaster Daniel Naroditsky, aged 29. Former champion Pravin Thipsay praised his talent. Naroditsky's death is surrounded by mystery. Some criticize Vladimir Kramnik for past cheating accusations against Naroditsky. Experts suggest focusing on Naroditsky's contributions and the impact of online chess and social media on mental health.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/daniel-naroditskys-death-turns-spotlight-on-negative-impact-of-online-chess-boom/articleshow/124751170.cms",
-         "pubDate" : "Thu, 23 Oct 2025 02:29:38",
-         "title" : "Daniel Naroditsky's death turns spotlight on negative impact of online chess boom"
       },
       {
          "description" : "With two rounds to go at the 2025 U.S. Chess Championship in St. Louis, GM&#38;nbsp;Fabiano Caruana is the sole leader thanks to a win against GM Sam Shankland on Wednesday. In the only other decisive game, GM Hans Niemann recovered from back-to-back ...",
