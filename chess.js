@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The wait is over for one of the chess world's most prestigious events, as the FIDE World Cup got underway on Saturday in Goa, India. Over the next 26 days, 206 players will compete for three coveted places in the next Candidates Tournament. While most favourites began solidly with wins, a few underdogs held higher-rated opponents to draws. The most surprising result was IM Uurtsaikh Agibileg's victory over GM Crist&oacute;bal Henr&iacute;quez. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-r1g1",
+         "pubDate" : "Sun, 02 Nov 2025 02:20:00",
+         "title" : "World Cup: No major upsets, plenty of tactical shots"
+      },
+      {
+         "description" : "An inspired GM Andrew Tang posted a 27-game unbeaten streak during Saturday&#39;s Bullet Brawl and surged to a 14th career victory ahead of the 48-time winner, GM Hikaru Nakamura. Tang chalked up 51 wins, four draws, and 11 losses in the two-hour ar...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-nov-1-2025",
+         "pubDate" : "Sat, 01 Nov 2025 19:56:07",
+         "title" : "Tang Surges To 14th Bullet Brawl Title After 27-Game Unbeaten Streak"
+      },
+      {
          "description" : "This is the story of how I nearly deleted the footage of a video that now has 77K views. A video that has several comments saying something along the lines of: \"This might be the most practically useful chess video I have ever watched.\" Why did I nearly delete it? Because I thought it wasn't []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -776,14 +792,6 @@ news_feed (
          "link" : "https://www.europechess.org/favourites-continue-strong-at-european-chess-club-cup-2025/",
          "pubDate" : "Tue, 21 Oct 2025 07:57:40",
          "title" : "Favourites continue strong at European Chess Club Cup 2025"
-      },
-      {
-         "description" : "GMs Fabiano Caruana and Wesley So&#38;nbsp;drew their games on Monday and are still leading the 2025 U.S. Chess Championship going into the second rest day. GM Levon Aronian, who beat GM Sam Shankland, is the only player now trailing by half a point. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-us-championship-round-8",
-         "pubDate" : "Tue, 21 Oct 2025 02:04:00",
-         "title" : "Caruana, So Still Atop U.S. Championship Leaderboard; Lee Increases Lead To Full Point"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 8 &#124; GAME LINKS OPARIN VS MISHRA RESULT: &frac12;-&frac12;CARUANA VS ROBSON RESULT: &frac12;-&frac12;SEVIAN VS SWIERCZ RESULT: &frac12;-&frac12; WOODWARD VS NIEMANN RESULT: 1-0 ARONIAN VS SHANKLAND RESULT: 1-0 LIANG VS SO RESULT: &frac12;-&frac12; ROUND 8 &#124; GAME [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-8/\">POSTGAME ROUND 8: Aggressive Levon Trips Up Shankland #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
