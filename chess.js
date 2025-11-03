@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Five rounds have been already played at the European Youth Chess Championship 2025 in Budva, Montenegro, and only four rounds left before the announcement of the Winners! Out of nearly 1200 young talents, only a handful have managed to keep a perfect 5/5 score. Tomorrow serves as a well-deserved rest day, before the battles resume on Tuesday, November 4, with Round 6. Heading to tomorrow's free day, Bilge Arslan (TUR) stands alone atop the Girls U8 section with a flawless []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-championship-2025-is-halfway-through/",
+         "pubDate" : "Sun, 02 Nov 2025 21:11:10",
+         "title" : "European Youth Chess Championship 2025 is halfway through"
+      },
+      {
          "description" : "GothamChess vs. The World has blown past previously-established records and continues to set new ones, with now more than 200,000 players having joined in. That total is nearly 40% more than the previous record, which was set during Magnus vs. the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "FIDE World Cup - Live!"
       },
       {
-         "description" : "Out of 78 matches in round one of the 2025 FIDE World Cup, 20 will go to rapid and blitz tiebreaks on Monday. The upset of the day was IM Shixu Wang&#39;s (2402) match win against GM Leon Mendonca (2620). This is a flash report. The full article, in...",
+         "description" : "Of the 78 matches in round one of the 2025 FIDE World Cup, 20 will go to rapid and blitz tiebreaks on Monday. The rest have been decided in the classical portion, almost unanimously, with the favorites winning. The upset of the day was IM Shixu Wa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-1-game-2",
@@ -154,6 +162,14 @@ news_feed (
          "title" : "Nakamura Chases Down Friday Field In Triumphant Return"
       },
       {
+         "description" : "The significance of Women's World Cup winner Divya Deshmukh playing the FIDE World Cup is not about success, but the pursuit of excellence.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/46790814/divya-deshmukh-gambit-women-world-cup-champ-pursues-open-excellence-fide-world-cup?device=featurephone",
+         "pubDate" : "Fri, 31 Oct 2025 08:02:58",
+         "title" : "Divya's gambit: Women's World Cup champ pursues Open excellence in FIDE World Cup"
+      },
+      {
          "description" : " Norway's world No 1 beat the world champion, Gukesh Dommaraju, 5.5-0.5, and also edged the world Nos 2 and 3 The four-player $412.000 Champions Showdown in St Louis was a historic event, a quadrangular tournament of the super-elite who met each other six times in three days. Magnus Carlsen was the favourite, but after scoring 3.5/6 on the first day the Norwegian expressed dissatisfaction with his own performance: \"I'm not feeling good at all. I scored about two points more than I should have, and I'm happy with that. My level of play was extremely poor.\" <a href=\"https://www.theguardian.com/sport/2025/oct/31/chess-magnus-carlsen-triumphs-at-historic-champions-showdown-in-st-louis\">Continue ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -168,6 +184,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-watch-out-for-surprises-and-young-masters/articleshow/124987653.cms",
          "pubDate" : "Fri, 31 Oct 2025 07:12:20",
          "title" : "Chess World Cup: Watch out for surprises and young masters"
+      },
+      {
+         "description" : "The FIDE World Cup in Goa is Gukesh's first event at home in India since becoming world champion last year.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/46788964/can-world-champion-gukesh-add-win-fide-world-cup-title-home-goa-2025?device=featurephone",
+         "pubDate" : "Fri, 31 Oct 2025 04:15:33",
+         "title" : "Can world champion Gukesh add a World Cup title to his resume?"
       },
       {
          "description" : "In this issue we have games from four different sections of the Victor Palciauskas tournament. This tournament, which was also partially covered in the last issue of Check is in the Mail, is a Round Robin ICCF Server-based tournament. Similar to the last issue, you will find games played by some of the winners in the tournament sections provided within the Front Office section.Reminder: The December issue of Check is in the Mail is our yearly Miniature Games issue. If you have played any game(s) that ended in 25 moves or less that you would like considered for publication in next month's issue, please email the game(s) to me. GamesReminder when reviewing the cross tables:XD = result by defau",
@@ -808,14 +832,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-7/",
          "pubDate" : "Sun, 19 Oct 2025 22:53:33",
          "title" : "POSTGAME ROUND 7: Caruana's BIG TIME Win Over Hans! #USChessChamps"
-      },
-      {
-         "description" : "The European Chess Club Cup 2025 kicked off today in Rhodes, Greece. The first round of the event was opened by the ECU President Mr. Zurab Azmaiparashvili, the Governor of the South Aegean Region Mr. Giorgos Hatzimarkos, and the President of the Greek Chess Fedeartion,Mr. Stathis Efstathopoulos, who made the first ceremonial moves in the games between FM Bart Gijswijt and GM Shakhriyar Mamedyarov, GM Divya Deshmukh and IM Gulrukhbegim Tokhirjonova, and in the game between IM Stavroula Tsolakidou and []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-club-cup-2025-kicked-off-in-rhodes/",
-         "pubDate" : "Sun, 19 Oct 2025 22:03:05",
-         "title" : "European Chess Club Cup 2025 kicked off in Rhodes"
       },
       {
          "description" : "There are four stages to chess improvement. Most players get stuck in one of the earlier stages. Or try to go to stage 4 without any preparation. Which usually leads to disaster. Curious about the stages? I'm sure you'll resonate with some of those: Stage 1: Random Improvements You get into chess and just wing []",
