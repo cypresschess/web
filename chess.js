@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125049838.cms\" />Indian chess players faced mixed fortunes at the World Cup in Goa. Divya Deshmukh and Leon Mendonca were eliminated in the first round. While several other Indians also crashed out, a significant contingent, including M Pranesh and Surya Shekhar Ganguly, successfully advanced to the second round, keeping host nation hopes alive.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-divya-deshmukh-leon-mendonca-shown-the-door/articleshow/125049838.cms",
+         "pubDate" : "Mon, 03 Nov 2025 07:15:06",
+         "title" : "Chess World Cup: Divya Deshmukh, Leon Mendonca shown the door"
+      },
+      {
+         "description" : "The opening round of the 2025 FIDE World Cup neared its conclusion on Sunday, with most matches already producing a winner after the second classical game. Out of 78 encounters, 58 were decided without the need for tiebreaks, while 20 remain level and will continue on Monday. A few players managed to level their matches after early setbacks, and China's IM Wang Shixu (pictured) delivered the day's biggest surprise by eliminating Leon Luke Mendonca. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-r1g2",
+         "pubDate" : "Mon, 03 Nov 2025 06:25:00",
+         "title" : "World Cup: Four players bounce back on demand, Wang upsets Mendonca"
+      },
+      {
          "description" : "Five rounds have been already played at the European Youth Chess Championship 2025 in Budva, Montenegro, and only four rounds left before the announcement of the Winners! Out of nearly 1200 young talents, only a handful have managed to keep a perfect 5/5 score. Tomorrow serves as a well-deserved rest day, before the battles resume on Tuesday, November 4, with Round 6. Heading to tomorrow's free day, Bilge Arslan (TUR) stands alone atop the Girls U8 section with a flawless []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gothamchess-vs-world-200k-players",
          "pubDate" : "Sun, 02 Nov 2025 11:19:01",
          "title" : "GothamChess Vs. The World Hits 200,000 Players And Counting"
-      },
-      {
-         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Sun, 02 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "Of the 78 matches in round one of the 2025 FIDE World Cup, 20 will go to rapid and blitz tiebreaks on Monday. The rest have been decided in the classical portion, almost unanimously, with the favorites winning. The upset of the day was IM Shixu Wa...",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/urged-vladimir-kramnik-to-be-less-aggressive-fide-president-on-daniel-naroditskys-death/articleshow/125028359.cms",
          "pubDate" : "Sun, 02 Nov 2025 03:17:10",
          "title" : "'Urged Vladimir Kramnik to be less aggressive': FIDE president on Daniel Naroditsky's death"
-      },
-      {
-         "description" : "The wait is over for one of the chess world's most prestigious events, as the FIDE World Cup got underway on Saturday in Goa, India. Over the next 26 days, 206 players will compete for three coveted places in the next Candidates Tournament. While most favourites began solidly with wins, a few underdogs held higher-rated opponents to draws. The most surprising result was IM Uurtsaikh Agibileg's victory over GM Crist&oacute;bal Henr&iacute;quez. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-r1g1",
-         "pubDate" : "Sun, 02 Nov 2025 02:20:00",
-         "title" : "World Cup: No major upsets, plenty of tactical shots"
       },
       {
          "description" : "An inspired GM Andrew Tang posted a 27-game unbeaten streak during Saturday&#39;s Bullet Brawl and surged to his 14th career victory ahead of 48-time winner GM Hikaru Nakamura. Tang chalked up 51 wins, four draws, and 11 losses in the two-hour arena...",
@@ -98,14 +98,6 @@ news_feed (
          "title" : "Saleh Plays Attack Of The Day, Favorites Prevail In Game 1"
       },
       {
-         "description" : "A new study by researchers at Google DeepMind explores whether artificial intelligence can exhibit genuine creativity through the composition of chess puzzles. By generating positions designed for aesthetic appeal and originality, the team invited leading experts to evaluate their quality and artistic value. The reviewers' assessments, combining praise and constructive critique, shed light on how AI-generated chess problems compare with traditional human compositions in terms of beauty, depth and innovation.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ai-chess-compositions-deepmind",
-         "pubDate" : "Sat, 01 Nov 2025 08:30:00",
-         "title" : "Evaluating AI chess compositions - A study by Google DeepMind"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125010310.cms\" />World No. 1 Magnus Carlsen will not compete in the FIDE Chess World Cup 2025 in Goa, India. Citing motivational issues and a disinterest in long-format classical games, the five-time world champion has withdrawn from pursuing the classical title again. Carlsen is now focusing on faster chess formats and esports.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -136,14 +128,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2025-round-3-recap/",
          "pubDate" : "Fri, 31 Oct 2025 22:13:14",
          "title" : "European Youth Chess Championship 2025 - Round 3 recap"
-      },
-      {
-         "description" : "The 2025 FIDE World Cup opened in grand style at the Dr. Shyama Prasad Mukherjee Indoor Stadium in Goa, as dignitaries, players and guests gathered for a dazzling 2&frac12;-hour ceremony blending culture, sport and symbolism. With 206 players set to compete for a $2 million prize fund and three coveted Candidates spots, the event began with music, dance and inspiring speeches celebrating India's chess tradition and the spirit of fair play that defines the game. | All photos: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-opening-ceremony",
-         "pubDate" : "Fri, 31 Oct 2025 21:20:00",
-         "title" : "Opening ceremony of the FIDE World Cup dazzles in Goa"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124996884.cms\" />Goa, India, is host the FIDE Chess World Cup 2025 from October 31 to November 27. World champion D Gukesh leads a strong 24-member Indian contingent, with Arjun Erigaisi and R Praggnanandhaa seeded second and third. The tournament offers qualifying spots for the Candidates 2026, with the top three advancing.",
@@ -688,14 +672,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-us-championship-round-10",
          "pubDate" : "Fri, 24 Oct 2025 03:21:00",
          "title" : "Caruana, So Keep Winning; Yip Grabs Sole Lead"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124774385.cms\" />American Grandmaster Daniel Naroditsky, 29, has died, leaving the chess community in shock. His mother revealed his deep concern for his dignity as a player, especially after facing cheating accusations from Vladimir Kramnik. Naroditsky's passing tragically interrupts plans for family visits and his birthday celebration.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/he-played-more-and-more-to-prove-he-wasnt-a-cheater-daniel-naroditskys-mother-shares-heartbreaking-words/articleshow/124774385.cms",
-         "pubDate" : "Fri, 24 Oct 2025 01:18:01",
-         "title" : "'He played more and more to prove he wasn't a cheater' - Daniel Naroditsky's mother shares heartbreaking words"
       },
       {
          "description" : "Stop me if you've heard this one before: GM Fabiano Caruana and IM Carissa Yip are this year's U.S. champions. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy SLCC/Lennart Ootes.<br> <br> The win makes it four years in a row (five overall) for Caruana and three years in a row (four overall) for Yip. It should be noted, though, that it's sort of \"four in a row\" for Yip, too, as, after winning in 2021, she skipped the 2022 event before winning in each 2023, 2024, and now 2025. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo cou",
