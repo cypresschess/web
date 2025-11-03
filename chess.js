@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
+         "pubDate" : "Mon, 03 Nov 2025 10:20:00",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "The Annual ECU General Assembly was hosted by the Georgian Chess Federation in Batumi on 10 October 2025 under excellent conditions.&#160; Forty-three federations were present. The ECU General Assembly was greeted by the President of the Georgian Chess Federation, Mr Akaki Iashvili, the President of the World Chess Federation (FIDE), Mr Arkady Dvorkovich. The President of ECU Mr. Zurab Azmairapashvili welcomed all participants.&#160; Main information and decisions European Chess Championships ECU Commissions",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/communique-of-the-ecu-general-assembly-in-batumi-georgia/",
+         "pubDate" : "Mon, 03 Nov 2025 09:54:14",
+         "title" : "Communique of the ECU General Assembly in Batumi, Georgia"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125049838.cms\" />Indian chess players faced mixed fortunes at the World Cup in Goa. Divya Deshmukh and Leon Mendonca were eliminated in the first round. While several other Indians also crashed out, a significant contingent, including M Pranesh and Surya Shekhar Ganguly, successfully advanced to the second round, keeping host nation hopes alive.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -112,14 +128,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-different-orbits-of-gukesh-and-praggnanandhaa/articleshow/125010152.cms",
          "pubDate" : "Sat, 01 Nov 2025 04:59:28",
          "title" : "FIDE World Cup: Different orbits of Gukesh and Praggnanandhaa"
-      },
-      {
-         "description" : "The first round of the World Cup will begin in Goa, India, on 1 November at 15:00 local time. A total of 206 players will compete; the oldest participant is 65-year-old Igor Efimov, while the youngest is Faustino Oro, who turned 12 in October. The prize money totals 2 million US dollars, and the top three finishers will qualify for the Candidates Tournament. Matches will consist of two games, with rapid chess and blitz tiebreaks following a 1-1 score. The loser is eliminated. Vincent Keymer is officially seeded 6th, but according to the live world rankings, he is effectively ranked 1st. So, how good are his chances of finishing in the top three? | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-how-good-are-the-chances-for-the-favourites",
-         "pubDate" : "Fri, 31 Oct 2025 22:32:05",
-         "title" : "World Cup 2025: How good are the chances for the favourites?"
       },
       {
          "description" : "Three rounds have been already played at the European Youth Chess Championship 2025 in Budva, Montenegro. After three intense rounds, only 71 of nearly 1200 participants have managed to preserve a perfect score of three points, underscoring the fierce level of competition across all sections. Two players tie for the top in Open U18 section; Open U16 and Open U12 categories each have six co-leaders, while seven players are tied for first place in both Open U14 and Open U10 []",
@@ -382,7 +390,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gukesh-heads-youngest-2026-tata-steel-masters-field",
-         "pubDate" : "Tue, 28 Oct 2025 16:11:24",
+         "pubDate" : "Tue, 28 Oct 2025 16:11:00",
          "title" : "Gukesh Heads Youngest Ever Field For 2026 Tata Steel Chess Masters"
       },
       {
@@ -778,14 +786,6 @@ news_feed (
          "title" : "Daniel Naroditsky 1995-2025 - 1995-2025"
       },
       {
-         "description" : "The second round of the European Chess Club Cup 2025 was played yesterday in Rhodes, Greece, and games are getting tougher every day. The top seeded clubs continued strong yesterday, most of them scoring convincing victories against the underdogs. Bayegan Pendik chess sports club scored 5-1 win against SK Dunajska streda, Alkaloid scored maximum 6-0 win over Ippotis Rhodes chess club, defending Champions Novy Bor was victorious against De Sprenger Echternach with the score of 5-1, SuperChess defeated FC St. []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/favourites-continue-strong-at-european-chess-club-cup-2025/",
-         "pubDate" : "Tue, 21 Oct 2025 07:57:40",
-         "title" : "Favourites continue strong at European Chess Club Cup 2025"
-      },
-      {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 8 &#124; GAME LINKS OPARIN VS MISHRA RESULT: &frac12;-&frac12;CARUANA VS ROBSON RESULT: &frac12;-&frac12;SEVIAN VS SWIERCZ RESULT: &frac12;-&frac12; WOODWARD VS NIEMANN RESULT: 1-0 ARONIAN VS SHANKLAND RESULT: 1-0 LIANG VS SO RESULT: &frac12;-&frac12; ROUND 8 &#124; GAME [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-8/\">POSTGAME ROUND 8: Aggressive Levon Trips Up Shankland #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -912,14 +912,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-team-championships-live",
          "pubDate" : "Tue, 14 Oct 2025 10:00:00",
          "title" : "European Team Championships - Live!"
-      },
-      {
-         "description" : "Pierre de Fermat (1601-1665) was a French mathematician who made pioneering contributions to analytic geometry, calculus, optics, and probability. He is best known for Fermat's Last Theorem, which famously remained unproven for over three centuries. Then, thirty years ago (in 1995), the mathematician Andrew Wiles published the comprehensive proof. In his book \"Chess Stories\" mathematician Prof Christian Hesse, told us how he applied Fermat's final conjecture to chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fermat-in-chess",
-         "pubDate" : "Mon, 13 Oct 2025 08:32:12",
-         "title" : "Fermat in Chess"
       }
    ]
 }
