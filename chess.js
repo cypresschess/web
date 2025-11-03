@@ -18,6 +18,14 @@ news_feed (
          "title" : "Communique of the ECU General Assembly in Batumi, Georgia"
       },
       {
+         "description" : "This month only, Chess.com and Jagex have teamed up to bring you five limited-edition bots, a lineup of the most famous (and infamous) characters in all of Gielinor! As Old School RuneScape fans anxiously await the Sailing update coming on Novembe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-runescape-bots",
+         "pubDate" : "Mon, 03 Nov 2025 08:02:46",
+         "title" : "Battle The Old School RuneScape Bots On Chess.com!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125049838.cms\" />Indian chess players faced mixed fortunes at the World Cup in Goa. Divya Deshmukh and Leon Mendonca were eliminated in the first round. While several other Indians also crashed out, a significant contingent, including M Pranesh and Surya Shekhar Ganguly, successfully advanced to the second round, keeping host nation hopes alive.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -26,12 +34,36 @@ news_feed (
          "title" : "Chess World Cup: Divya Deshmukh, Leon Mendonca shown the door"
       },
       {
+         "description" : "Twelve-year-old IM Faustino Oro, the youngest participant in the&#38;nbsp;2025 FIDE World Cup, is among the 20 players who advance to round two after tiebreaks after defeating GM Ante Brkic 5-3. The matchups only get harder from here, as the top-50 se...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-1-tiebreaks",
+         "pubDate" : "Mon, 03 Nov 2025 06:59:00",
+         "title" : "12-Year-Old Oro Among 20 Winners In Tiebreaks"
+      },
+      {
          "description" : "The opening round of the 2025 FIDE World Cup neared its conclusion on Sunday, with most matches already producing a winner after the second classical game. Out of 78 encounters, 58 were decided without the need for tiebreaks, while 20 remain level and will continue on Monday. A few players managed to level their matches after early setbacks, and China's IM Wang Shixu (pictured) delivered the day's biggest surprise by eliminating Leon Luke Mendonca. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2025-r1g2",
          "pubDate" : "Mon, 03 Nov 2025 06:25:00",
          "title" : "World Cup: Four players bounce back on demand, Wang upsets Mendonca"
+      },
+      {
+         "description" : "GM Victor Mikhalevski of Israel won the 50+ section at the FIDE World Senior Championships in Gallipoli, Italy, on Saturday. IM Alexander Reprintsev of Ukraine edged out five other players on tiebreaks to win the 65+ group. In the Women&#39;s sections...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/mikhalevski-reprintsev-arakhamia-grant-strutinskaia-fide-world-senior-championships-2025",
+         "pubDate" : "Mon, 03 Nov 2025 04:36:07",
+         "title" : "Victor Mikhalevski Wins 50+ Section at FIDE World Senior Championships"
+      },
+      {
+         "description" : "US Chess is seeking volunteers to assist at the 2025 National K-12 Grade Championships from December 11-14 in Spokane, Washington. If you're a local chess enthusiast, seeking national event experience, or an attendee with a few hours to spare, we could use your help! Click here to learn more and to sign up to be a volunteer! Volunteers must: Be over 18Complete the free SafeSport Volunteer training course (if not already SafeSport certified)Pass a background checkUS Chess membership a plus! Please check out our FAQs for additional information on our volunteer program. Volunteering is a great opportunity to work alongside our staff, increase your visibility, and gain behind-the-scenes insights",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/volunteers-wanted-2025-national-k-12-grade-championships",
+         "pubDate" : "Mon, 03 Nov 2025 00:00:00",
+         "title" : "Volunteers Wanted for 2025 National K-12 Grade Championships"
       },
       {
          "description" : "Five rounds have been already played at the European Youth Chess Championship 2025 in Budva, Montenegro, and only four rounds left before the announcement of the Winners! Out of nearly 1200 young talents, only a handful have managed to keep a perfect 5/5 score. Tomorrow serves as a well-deserved rest day, before the battles resume on Tuesday, November 4, with Round 6. Heading to tomorrow's free day, Bilge Arslan (TUR) stands alone atop the Girls U8 section with a flawless []",
@@ -674,14 +706,6 @@ news_feed (
          "title" : "Not Gukesh or Pragg! India pin Freestyle Chess Finals hopes on one star"
       },
       {
-         "description" : "GM Fabiano Caruana kept his half-point lead over GM Wesley So as both top GMs won their games in the penultimate round of the 2025 U.S. Chess Championship on Thursday in St. Louis. GM Levon Aronian drew his game and is now a point behind So. By ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-us-championship-round-10",
-         "pubDate" : "Fri, 24 Oct 2025 03:21:00",
-         "title" : "Caruana, So Keep Winning; Yip Grabs Sole Lead"
-      },
-      {
          "description" : "Stop me if you've heard this one before: GM Fabiano Caruana and IM Carissa Yip are this year's U.S. champions. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy SLCC/Lennart Ootes.<br> <br> The win makes it four years in a row (five overall) for Caruana and three years in a row (four overall) for Yip. It should be noted, though, that it's sort of \"four in a row\" for Yip, too, as, after winning in 2021, she skipped the 2022 event before winning in each 2023, 2024, and now 2025. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo cou",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -722,22 +746,6 @@ news_feed (
          "title" : "The Baroness and the pink doughnut - Carl Portman"
       },
       {
-         "description" : "With two rounds to go at the 2025 U.S. Chess Championship in St. Louis, GM&#38;nbsp;Fabiano Caruana is the sole leader thanks to a win against GM Sam Shankland on Wednesday. In the only other decisive game, GM Hans Niemann recovered from back-to-back ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-us-championship-round-9",
-         "pubDate" : "Thu, 23 Oct 2025 02:04:00",
-         "title" : "Caruana Grabs Sole Lead; Women's U.S. Champs Wide Open As Zatonskih Beats Lee"
-      },
-      {
-         "description" : "Effective Nov. 1, 2025, there will no longer be a 30-day grace period to complete SafeSport Refresher trainings. Your TD certification will become inactive as soon as your previous training lapses and will be reactivated once you complete the required training.Note: You do not have to re-take a SafeSport training course. If your SafeSport certification is lapsing/has lapsed, you need to take the next course in the sequence:If your most recent course was the core course, you need to take Refresher 1.If your most recent course was Refresher 1, you need to take Refresher 2.If your most recent course was Refresher 2, you need to take Refresher 3.If your most recent course was Refresher 3, you ne",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/update-safesport-refresher-requirements-tournament-directors",
-         "pubDate" : "Thu, 23 Oct 2025 00:00:00",
-         "title" : "Update to SafeSport Refresher Requirements for Tournament Directors"
-      },
-      {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 9 &#124; GAME LINKS SO VS SEVIAN RESULT: &frac12;-&frac12;MISHRA VS ARONIAN RESULT: &frac12;-&frac12;NIEMANN VS LIANG RESULT: 1-0SHANKLAND VS CARUANA RESULT: 0-1ROBSON VS WOODWARD RESULT: &frac12;-&frac12;SWIERCZ VS OPARIN &frac12;-&frac12; ROUND 9 &#124; GAME LINKS PAIKIDZE VS PARAGUA [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-9/\">POSTGAME ROUND 9 | #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-club-cup-2025-passes-the-halfway-mark/",
          "pubDate" : "Wed, 22 Oct 2025 20:27:11",
          "title" : "European Chess Club Cup 2025 passes the halfway mark"
-      },
-      {
-         "description" : "The chess world is mourning after the heartbreaking death of&#38;nbsp;GM Daniel Naroditsky, a loss that has sparked an unprecedented wave of tributes from fans and top players such as GMs Magnus Carlsen, Hikaru Nakamura, Fabiano Caruana, and Levon Aro...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-caruana-aronian-fide-pay-tribute-to-naroditsky",
-         "pubDate" : "Wed, 22 Oct 2025 17:41:59",
-         "title" : "Carlsen, Top Players Pay Tribute To Naroditsky As Chess World Mourns"
       },
       {
          "description" : "The ECF will be running two courses on the 15th and 16th November as follows &#8212; A Swiss Manager course on Saturday 15th November, starting at 10am and lasting until...",
