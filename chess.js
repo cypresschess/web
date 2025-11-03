@@ -34,7 +34,7 @@ news_feed (
          "title" : "Chess World Cup: Divya Deshmukh, Leon Mendonca shown the door"
       },
       {
-         "description" : "Twelve-year-old IM Faustino Oro, the youngest participant in the&#38;nbsp;2025 FIDE World Cup, is among the 20 players who advance to round two after tiebreaks after defeating GM Ante Brkic 5-3. The matchups only get harder from here, as the top-50 se...",
+         "description" : "Twelve-year-old IM Faustino Oro, the youngest participant in the&#38;nbsp;2025 FIDE World Cup, is among the 20 players who advance to round two after tiebreaks. He defeated GM Ante Brkic 5-3 in one of the longest matches. The matchups only get harder ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-1-tiebreaks",
@@ -56,6 +56,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/mikhalevski-reprintsev-arakhamia-grant-strutinskaia-fide-world-senior-championships-2025",
          "pubDate" : "Mon, 03 Nov 2025 04:36:07",
          "title" : "Victor Mikhalevski Wins 50+ Section at FIDE World Senior Championships"
+      },
+      {
+         "description" : "US Chess announces the solicitation of bids for hosting the 2026 North American Junior Chess Championships. The Confederation of Chess for Americas (CCA) has awarded the United States of America, FIDE Zone 2.1, the right to host this prestigious tournament in 2026. Usually, we do not have a guarantee that an event will be located in Zone 2.1 in any given year. Since that is the case for the 2026 North American Juniors, we wish to give any licensed International Organizer in the US the chance to bid.Please note, the final decision on awarding this event rests with CCA, which has final authority for FIDE continental-level events in North America. US Chess has final authority on which bids to s",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-soliciting-bids-2026-north-american-junior-championship",
+         "pubDate" : "Mon, 03 Nov 2025 00:00:00",
+         "title" : "US Chess Soliciting Bids for the 2026 North American Junior Championship"
       },
       {
          "description" : "US Chess is seeking volunteers to assist at the 2025 National K-12 Grade Championships from December 11-14 in Spokane, Washington. If you're a local chess enthusiast, seeking national event experience, or an attendee with a few hours to spare, we could use your help! Click here to learn more and to sign up to be a volunteer! Volunteers must: Be over 18Complete the free SafeSport Volunteer training course (if not already SafeSport certified)Pass a background checkUS Chess membership a plus! Please check out our FAQs for additional information on our volunteer program. Volunteering is a great opportunity to work alongside our staff, increase your visibility, and gain behind-the-scenes insights",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/caruana-yip-repeat-us-champions-again",
          "pubDate" : "Fri, 24 Oct 2025 00:00:00",
          "title" : "Caruana, Yip Repeat as U.S. Champions (Again!)"
-      },
-      {
-         "description" : "The penultimate round of the 2025 U.S. Championships saw both defending champions emerge as clear leaders after winning their games. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy SLCC/Lennart Ootes.<br> <br> <br> <br> In total, there were seven (!) decisive results between the two sections, clarifying the races for the top title but not closing the books just yet. Both GM Fabiano Caruana and IM Carissa Yip are only a half-point ahead of the rest of the field, making today's final round crucial. Open <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/defending-champions-lead-after-chaotic-round-10",
-         "pubDate" : "Fri, 24 Oct 2025 00:00:00",
-         "title" : "Defending Champions Lead After Chaotic Round 10"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Anastasia Karlovich for the top moments of today's games. ROUND 10 &#124; GAME LINKS LIANG VS ROBSON RESULT: 1-0SEVIAN VS NIEMANNRESULT: 1-0WOODWARD VS SHANKLAND RESULT: &frac12;-&frac12;SWIERCZ VS SORESULT: 0-1OPARIN VS ARONIAN RESULT: &frac12;-&frac12;CARUANA VS MISHRARESULT: 1-0 ROUND 10 &#124; GAME LINKS YU VS POURKASHIYAN RESULT: &frac12;-&frac12;PARAGUA [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-10/\">POSTGAME ROUND 10: Wesley Pounces! Earns Chance Tomorrow #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a",
