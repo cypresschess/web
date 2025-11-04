@@ -18,6 +18,38 @@ news_feed (
          "title" : "Jon Speelman: Analysis and blind spots"
       },
       {
+         "description" : "Twenty-one players, on a total of 64 boards in round two of the 2025 FIDE World Cup, scored wins in game one and are a draw away from advancing to round three. On the top boards, we saw GMs Arjun Erigaisi, Vincent Keymer, Wei Yi, Shakhriyar Mamedy...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-2-game-1",
+         "pubDate" : "Tue, 04 Nov 2025 07:59:00",
+         "title" : "Arjun, Keymer, Wei, Mamedyarov, Vachier-Lagrave Among Early Leaders"
+      },
+      {
+         "description" : "Every chess fan has their favorite player or creator&#38;mdash;and now, they can also be your favorite coach! We brought the world&#39;s most beloved chess personalities to Chess.com so you can make your playing and learning experience more exciting than ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/choose-your-coach-on-chesscom",
+         "pubDate" : "Tue, 04 Nov 2025 07:09:00",
+         "title" : "Get Coached By Your Favorite Chess Stars With Chess.com's New Feature"
+      },
+      {
+         "description" : "PogChamps Champion Eberechi Eze&#39;s skills on the soccer pitch have made him a star for English Premier League side Arsenal, but last month the England international returned to his former school in London to launch a new chess initiative, in partne...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/eberechi-eze-returns-to-school-to-speak-about-his-love-for-chess",
+         "pubDate" : "Tue, 04 Nov 2025 05:43:00",
+         "title" : "Premier League Star Eberechi Eze Returns To School To Speak About Love For Chess"
+      },
+      {
+         "description" : "For the last couple of years the Collegiate Chess League (CCL) has been a battle between two giants, the defending champions, Saint Louis University (SLU) and the University of Missouri, Columbia (Mizzou). However, in week five, the University of ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-ccl-fall-week-5-slu-utd",
+         "pubDate" : "Tue, 04 Nov 2025 04:53:59",
+         "title" : "UTD Defeats SLU, Holds Top Spot In Collegiate Chess League"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125074600.cms\" />Young Argentinian chess prodigy Faustino Oro, dubbed the 'Messi of chess', secured his second-round spot at the World Cup in Goa. He was among 78 qualifiers who will face top seeds, including world champion D. Gukesh. Three Indian players, Narayanan S., Diptayan Ghosh, and Aronyak Ghosh, also advanced to the next round after intense tie-break matches.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -32,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2025-r1tb",
          "pubDate" : "Tue, 04 Nov 2025 01:05:00",
          "title" : "World Cup: Oro knocks out Brkic in exciting tiebreaker"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to announce 23 grant awards (up from 17 last year) under the US Chess Women's program. With support from the Saint Louis Chess Club, US Chess annually offers grants to nonprofit affiliate members who are promoting programs that support women and girls in their respective communities. The 2025 grant recipients are:Invent The Future (Fremont, CA)Chess Girls DC Nonprofit Organization (Washington, DC)Avila Royals Chess Booster Club, Inc. (Edinburg, TX)Smart Diehl Academy (Mint Hill, NC)Mint Hill Elementary School (Matthews, NC)Think Like a Queen (Doral, FL)Chicago Chess Foundation (Chicago, IL)Azerbaij",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-womens-program-awards-23-grants",
+         "pubDate" : "Tue, 04 Nov 2025 00:00:00",
+         "title" : "US Chess Women's Program Awards 23 Grants"
       },
       {
          "description" : "The Annual ECU General Assembly was hosted by the Georgian Chess Federation in Batumi on 10 October 2025 under excellent conditions.&#160; Forty-three federations were present. The ECU General Assembly was greeted by the President of the Georgian Chess Federation, Mr Akaki Iashvili, the President of the World Chess Federation (FIDE), Mr Arkady Dvorkovich. The President of ECU Mr. Zurab Azmairapashvili welcomed all participants.&#160; Main information and decisions Tournament Rules&#160; European Chess Championships ECU Commissions The next ECU General Assembly will []",
@@ -546,28 +586,12 @@ news_feed (
          "title" : "Chess Endgame Challenge"
       },
       {
-         "description" : "SuperChess, the Romanian club with an in-form world champion on top board, won the European Club Cup in Rhodes, Greece, on Saturday. Scoring an undefeated 4/5, GM Gukesh Dommaraju is back in the world&#39;s top 10. Cercle d&#39;Echecs de Monte-Carlo won t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/superchess-monaco-winners-at-european-club-cup",
-         "pubDate" : "Mon, 27 Oct 2025 07:02:00",
-         "title" : "Gukesh Powers SuperChess To European Club Cup Win; Monaco Tops Women's Section"
-      },
-      {
          "description" : " Clutch Chess: Champions Showdown Caps Off an Unforgettable Month of Chess in Saint Louis to Celebrate Newly Re-opened Saint Louis Chess Club SAINT LOUIS - Grandmaster (GM) and World No. 3 Fabiano Caruana and International Master (IM) Carissa Yip have successfully defended their titles at the 2025 U.S. and U.S. Women's Chess Championships, respectively. Their [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/world-no-3-fabiano-caruana-wins-fifth-u-s-chess-championship-carissa-yip-captures-fourth-u-s-womens-championship-title/\">World No. 3 Fabiano Caruana Wins Fifth U.S. Chess Championship; Carissa Yip Captures Fourth U.S. Women's Championship Title</a> appeared first o",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/world-no-3-fabiano-caruana-wins-fifth-u-s-chess-championship-carissa-yip-captures-fourth-u-s-womens-championship-title/",
          "pubDate" : "Mon, 27 Oct 2025 02:39:42",
          "title" : "World No. 3 Fabiano Caruana Wins Fifth U.S. Chess Championship; Carissa Yip Captures Fourth U.S. Women's Championship Title"
-      },
-      {
-         "description" : "The 2nd FIDE Chess Olympiad for People with Disabilities was held Oct. 19-26 in Astana, Kazakhstan. The Russian team FIDE 1 won gold with 11 match points (5&frac12;/6), ahead of Poland (10 points), and Israel, which won bronze ahead of two other teams tied for third with nine points. The USA team tied for sixth with Cuba with four wins and two losses (eight match points). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> From left: Silver medalists Poland, champions FIDE 1, and bronze medalists Israel (All photos courtesy FIDE)<br> <br> <br> <br> The American team consisted of the brothers McConnell (Sullivan and Griffin) from Colorado on Board 1 and 2, ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/usa-ties-6th-2nd-fide-chess-olympiad-people-disabilities",
-         "pubDate" : "Mon, 27 Oct 2025 00:00:00",
-         "title" : "USA Ties for 6th at 2nd FIDE Chess Olympiad for People with Disabilities"
       },
       {
          "description" : " RIP Mihai Suba (Bucharest 1 June 1947 - Spain 26 October 2025, aged 78) Suba was a Romanian-born chess player who became an International Master in 1975 and a Grandmaster in 1978. Suba didn't begin playing chess until the unusually late age of 19, yet within just a few years he had risen to become a formidable competitor. He was crowned Romanian Champion three times - in 1980, 1981, and 1985 - and narrowly missed qualifying for the Candidates Tournament after finishing third at the 1982 Las Palmas Interzonal. Among his tournament triumphs were first place at Dortmund 1983, and shared first at Prague 1985 and Timisoara 1987. In 1988, during the Lloyds Bank Masters in London, Suba defected fr",
@@ -618,14 +642,6 @@ news_feed (
          "title" : "Kramnik on Naroditsky's death: 'I was the only person in chess community'"
       },
       {
-         "description" : "GM Javokhir Sindarov collected his first Bullet Brawl title and the event&#39;s $400 first prize after outpacing seven challengers on Saturday. Sindarov posted a score of 159 and eclipsed IM Yoseph Taher, GM Oleksandr Bortnyk, and IM Reza Mahdavi for ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/javokhir-sindarov-wins-bullet-brawl-oct-25-2025",
-         "pubDate" : "Sun, 26 Oct 2025 05:57:49",
-         "title" : "Sindarov Fends Off 7 Challengers, Wins 1st Bullet Brawl Title"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124822470.cms\" />Indian chess stars shone brightly at the European Club Cup 2025. SuperChess clinched the Open title with a flawless record, while Cercle d'&eacute;checs de Monte-Carlo dominated the Women's competition. World Champion Gukesh and GM Divya Deshmukh delivered stellar performances, securing individual accolades and highlighting India's growing chess prowess on the global stage.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -674,14 +690,6 @@ news_feed (
          "title" : "Huge record! World No. 3 Caruana joins Fischer with US C'ship 2025 title"
       },
       {
-         "description" : "GM Fabiano Caruana and IM Carissa Yip repeated their U.S. Championship victories once again on Friday in St. Louis. Caruana was the first player since GM Bobby Fischer to win four consecutive U.S. titles, earning $67,000, while Yip has now won it ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fabiano-caruana-carissa-yip-win-2025-us-championships",
-         "pubDate" : "Sat, 25 Oct 2025 02:24:00",
-         "title" : "Caruana, Yip Repeat As U.S. Champions Once Again"
-      },
-      {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 11 &#124; GAME LINKS ARONIAN VS CARUANA RESULT: &frac12;-&frac12;MISHRA VS WOODWARD RESULT: &frac12;-&frac12;SO VS OPARIN RESULT: &frac12;-&frac12;ROBSON VS SEVIAN RESULT: &frac12;-&frac12;NIEMANN VS SWIERCZ RESULT: &frac12;-&frac12;SHANKLAND VS LIANG RESULT: &frac12;-&frac12; ROUND 11 &#124; GAME LINKS Cervantes [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-final/\">POSTGAME FINAL: Champions are Crowned! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -704,14 +712,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2025-live",
          "pubDate" : "Fri, 24 Oct 2025 19:00:00",
          "title" : "US Chess Championships - Live!"
-      },
-      {
-         "description" : "IM Renato Terry won Freestyle Friday on October 24 by taking his last six games, breaking a tie with GM Jules Moussard in the final round by winning head-to-head with Black. The win was Terry&#39;s second in Freestyle Friday, the first coming back in ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/terry-wins-freestyle-friday-october-24-2025",
-         "pubDate" : "Fri, 24 Oct 2025 10:45:00",
-         "title" : "Wide Open Freestyle Friday Goes To Terry"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124781492.cms\" />Estonian chess talent Mai Narva achieved a remarkable feat by winning the Global Chess League (GCL) Contenders Knockout while simultaneously competing in the European Team Chess Championship. The 26-year-old International Master (IM) juggled over-the-board classical games with online rapid matches, securing the Women's Contenders champion title and earning the GCL 2025 Ambassador role.",
