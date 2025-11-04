@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Denis Lazavik&#38;nbsp;won Titled Tuesday on November 4, seizing the outright lead away from GM Jose Martinez in the final round on a day where such tournament lead changes were typical. GM Magnus Carlsen took second place ahead of Martinez while G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lazavik-wins-titled-tuesday-november-4-2025",
+         "pubDate" : "Tue, 04 Nov 2025 11:41:17",
+         "title" : "Action-Packed Tuesday Goes Lazavik's Way"
+      },
+      {
          "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Jon Speelman: Analysis and blind spots"
       },
       {
-         "description" : "Twenty-one players, on a total of 64 boards in round two of the 2025 FIDE World Cup, scored wins in game one and are a draw away from advancing to round three. On the top boards, we saw GMs Arjun Erigaisi, Vincent Keymer, Wei Yi, Shakhriyar Mamedy...",
+         "description" : "Twenty-one players, on a total of 64 boards in round two of the 2025 FIDE World Cup, scored wins and are a draw away from advancing to round three. On the top boards, we saw GMs Arjun Erigaisi, Vincent Keymer, Wei Yi, Shakhriyar Mamedyarov, and Ma...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-2-game-1",
@@ -64,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2025-r1tb",
          "pubDate" : "Tue, 04 Nov 2025 01:05:00",
          "title" : "World Cup: Oro knocks out Brkic in exciting tiebreaker"
+      },
+      {
+         "description" : "This week's puzzles are a tribute to GM Daniel Naroditsky's early years. Read Chess Life Online's obituary here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-gm-daniel-naroditsky-1995-2025",
+         "pubDate" : "Tue, 04 Nov 2025 00:00:00",
+         "title" : "Tactics Tuesday: GM Daniel Naroditsky (1995-2025)"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to announce 23 grant awards (up from 17 last year) under the US Chess Women's program. With support from the Saint Louis Chess Club, US Chess annually offers grants to nonprofit affiliate members who are promoting programs that support women and girls in their respective communities. The 2025 grant recipients are:Invent The Future (Fremont, CA)Chess Girls DC Nonprofit Organization (Washington, DC)Avila Royals Chess Booster Club, Inc. (Edinburg, TX)Smart Diehl Academy (Mint Hill, NC)Mint Hill Elementary School (Matthews, NC)Think Like a Queen (Doral, FL)Chicago Chess Foundation (Chicago, IL)Azerbaij",
@@ -530,14 +546,6 @@ news_feed (
          "title" : "Go Crazy With The Next Event Of The Chess.com Community Championships Starting November 6"
       },
       {
-         "description" : "This week's puzzles once again all come from the just-concluded 2025 U.S. Championship and Women's Championship. Every day, a rotating cast of annotators are covering key games from the event on Chess Life Online, and you can find all the annotations here. When learning chess, it's important to look at the moves that aren't played, as well as the ones that are. Today, almost every puzzle comes from a variation that looked reasonable, but would have been losing. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-variations-2025-us-championships-pt-2",
-         "pubDate" : "Tue, 28 Oct 2025 00:00:00",
-         "title" : "Tactics Tuesday: Variations From the 2025 U.S. Championships, Pt. 2"
-      },
-      {
          "description" : " ROUND 1 &#124; GAME 1 CARUANA VS NAKAMURA RESULT: 1-0GUKESH VS CARLSEN RESULT: 0-1 ROUND 1 &#124; GAME 2 NAKAMURA VS CARUANA RESULT: 1-0CARLSEN VS GUKESH RESULT: &frac12;-&frac12; ROUND 2 &#124; GAME 1 CARLSEN VS CARUANA RESULT: &frac12;-&frac12;NAKAMURA VS GUKESH RESULT: 0-1 ROUND 2 &#124; GAME 2 CARUANA VS CARLSEN RESULT: 0-1GUKESH VS NAKAMURA RESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-1/\">POSTGAME DAY 1: Gukesh Smashes Fabi! | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-clutch-chess-champions-showdown-day-1",
          "pubDate" : "Mon, 27 Oct 2025 17:55:00",
          "title" : "Gukesh Leads Clutch Chess After Game 1 Loss"
-      },
-      {
-         "description" : "GM Hans Niemann demolished former World Champion Ding Liren 18-6 to reach the Speed Chess Championship 2025 Quarterfinals. Ding&#39;s first win came in game 12, when a 10-1 scoreline had already made a comeback all but impossible. Niemann will now fac...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-r16-niemann-ding",
-         "pubDate" : "Mon, 27 Oct 2025 13:34:00",
-         "title" : "Niemann Overwhelms Ding To Reach Speed Chess Quarterfinals"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124849998.cms\" />World No. 1 Magnus Carlsen emotionally remembered Daniel Naroditsky, a rare talent and beloved grandmaster, who passed away at 29. Carlsen highlighted Naroditsky's unique attacking style and expressed sorrow over the online accusations that deeply affected him. He believes Naroditsky was not cheating and regrets not supporting him more publicly.",
@@ -912,14 +912,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2026-british-championships-venue-announcement/",
          "pubDate" : "Wed, 15 Oct 2025 06:30:26",
          "title" : "2026 British Championships Venue Announcement"
-      },
-      {
-         "description" : " The 25th European Team championships took place in Batumi, Georgia 5th to 14th October 2025. Leading players such as Anish Giri, Vincent Keymer, Shakhriyar Mamedyarov, Richard Rapport competed, the field had 56 players over 2600. In the women's event the leading players were Nana Dzagnidze, Nino Batsiashvili, Alexandra Kosteniuk etc. Ukraine won the event by beating England 2.5-1.5 in the final round. Azerbaijan finished second in spite of losing to Serbia in the last round whose win earned them a third place finish. In the women's event Poland beat Azerbaijan in the final round to take first place, Ukraine drew with Armenia to take second place and Germany finished third in spite of losing",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/25th-european-teams-2025",
-         "pubDate" : "Tue, 14 Oct 2025 17:31:00",
-         "title" : "25th European Teams 2025 - Games and Results"
       }
    ]
 }
