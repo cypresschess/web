@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125074600.cms\" />Young Argentinian chess prodigy Faustino Oro, dubbed the 'Messi of chess', secured his second-round spot at the World Cup in Goa. He was among 78 qualifiers who will face top seeds, including world champion D. Gukesh. Three Indian players, Narayanan S., Diptayan Ghosh, and Aronyak Ghosh, also advanced to the next round after intense tie-break matches.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/faustino-oros-blitz-brilliance-12-year-old-shocks-seasoned-gm-to-enter-round-2/articleshow/125074600.cms",
+         "pubDate" : "Tue, 04 Nov 2025 04:20:55",
+         "title" : "Faustino Oro's blitz brilliance: 12-year-old shocks seasoned GM to enter Round 2"
+      },
+      {
          "description" : "A tense day of tiebreak battles brought the opening round of the FIDE World Cup to a close on Monday in Goa. Rapid and blitz games decided the fate of 20 hard-fought encounters, as most favourites advanced but a few unexpected heroes emerged. Among them were India's Aronyak Ghosh, Argentina's 12-year-old prodigy Faustino Oro and Kazakhstan's Alisher Suleymenov, each earning a remarkable victory to move into round two. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "World Cup: Oro knocks out Brkic in exciting tiebreaker"
       },
       {
-         "description" : "The Annual ECU General Assembly was hosted by the Georgian Chess Federation in Batumi on 10 October 2025 under excellent conditions.&#160; Forty-three federations were present. The ECU General Assembly was greeted by the President of the Georgian Chess Federation, Mr Akaki Iashvili, the President of the World Chess Federation (FIDE), Mr Arkady Dvorkovich. The President of ECU Mr. Zurab Azmairapashvili welcomed all participants.&#160; Main information and decisions European Chess Championships ECU Commissions",
+         "description" : "The Annual ECU General Assembly was hosted by the Georgian Chess Federation in Batumi on 10 October 2025 under excellent conditions.&#160; Forty-three federations were present. The ECU General Assembly was greeted by the President of the Georgian Chess Federation, Mr Akaki Iashvili, the President of the World Chess Federation (FIDE), Mr Arkady Dvorkovich. The President of ECU Mr. Zurab Azmairapashvili welcomed all participants.&#160; Main information and decisions European Chess Championships &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Tournament Rules ECU Commissions The next ECU General Assembly []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/communique-of-the-ecu-general-assembly-in-batumi-georgia/",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/vladimir-kramnik-faces-ethics-heat-after-death-of-daniel-naroditsky/articleshow/124777201.cms",
          "pubDate" : "Fri, 24 Oct 2025 05:09:02",
          "title" : "Vladimir Kramnik faces ethics heat after death of Daniel Naroditsky"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124776299.cms\" />India's Arjun Erigaisi will be the sole Indian representative at the inaugural Freestyle Chess Grand Slam Finals in South Africa this December. Competing against a star-studded field including Magnus Carlsen, the young Indian prodigy faces a unique challenge in the randomized starting position format. This event promises a blend of intense chess and cultural celebration.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/not-d-gukesh-or-r-praggnanandhaa-india-pin-freestyle-chess-finals-hopes-on-one-star/articleshow/124776299.cms",
-         "pubDate" : "Fri, 24 Oct 2025 04:42:12",
-         "title" : "Not Gukesh or Pragg! India pin Freestyle Chess Finals hopes on one star"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Anastasia Karlovich for the top moments of today's games. ROUND 10 &#124; GAME LINKS LIANG VS ROBSON RESULT: 1-0SEVIAN VS NIEMANNRESULT: 1-0WOODWARD VS SHANKLAND RESULT: &frac12;-&frac12;SWIERCZ VS SORESULT: 0-1OPARIN VS ARONIAN RESULT: &frac12;-&frac12;CARUANA VS MISHRARESULT: 1-0 ROUND 10 &#124; GAME LINKS YU VS POURKASHIYAN RESULT: &frac12;-&frac12;PARAGUA [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-10/\">POSTGAME ROUND 10: Wesley Pounces! Earns Chance Tomorrow #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a",
