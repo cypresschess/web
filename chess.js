@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
+         "pubDate" : "Tue, 04 Nov 2025 10:20:00",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "After a long break from competitive play, GM Jon Speelman returned to the board with three intense games in quick succession - each offering instructive lessons and a few painful oversights. In his latest column, he revisits the most critical moments from these battles, including a London League clash against Jonathan Parker and two 4NCL encounters, inviting readers to test their tactical vision and find the winning ideas that eluded him over the board. | Photo: John Saunders / 4NCL (2014)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-233",
+         "pubDate" : "Tue, 04 Nov 2025 09:55:00",
+         "title" : "Jon Speelman: Analysis and blind spots"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125074600.cms\" />Young Argentinian chess prodigy Faustino Oro, dubbed the 'Messi of chess', secured his second-round spot at the World Cup in Goa. He was among 78 qualifiers who will face top seeds, including world champion D. Gukesh. Three Indian players, Narayanan S., Diptayan Ghosh, and Aronyak Ghosh, also advanced to the next round after intense tie-break matches.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "World Cup: Oro knocks out Brkic in exciting tiebreaker"
       },
       {
-         "description" : "The Annual ECU General Assembly was hosted by the Georgian Chess Federation in Batumi on 10 October 2025 under excellent conditions.&#160; Forty-three federations were present. The ECU General Assembly was greeted by the President of the Georgian Chess Federation, Mr Akaki Iashvili, the President of the World Chess Federation (FIDE), Mr Arkady Dvorkovich. The President of ECU Mr. Zurab Azmairapashvili welcomed all participants.&#160; Main information and decisions European Chess Championships &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Tournament Rules ECU Commissions The next ECU General Assembly []",
+         "description" : "The Annual ECU General Assembly was hosted by the Georgian Chess Federation in Batumi on 10 October 2025 under excellent conditions.&#160; Forty-three federations were present. The ECU General Assembly was greeted by the President of the Georgian Chess Federation, Mr Akaki Iashvili, the President of the World Chess Federation (FIDE), Mr Arkady Dvorkovich. The President of ECU Mr. Zurab Azmairapashvili welcomed all participants.&#160; Main information and decisions Tournament Rules&#160; European Chess Championships ECU Commissions The next ECU General Assembly will []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/communique-of-the-ecu-general-assembly-in-batumi-georgia/",
@@ -904,14 +920,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/25th-european-teams-2025",
          "pubDate" : "Tue, 14 Oct 2025 17:31:00",
          "title" : "25th European Teams 2025 - Games and Results"
-      },
-      {
-         "description" : "The ninth and final round of the European Team Championships will determine the medal winners. In the Open Ukraine and Azerbaijan fight for victory, in the Women's Tournament Poland is in the lead, but Ukraine and Germany can still hope to win. | Watch the games live with video commentary. Start: Around 10:00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championships-live",
-         "pubDate" : "Tue, 14 Oct 2025 10:00:00",
-         "title" : "European Team Championships - Live!"
       }
    ]
 }
