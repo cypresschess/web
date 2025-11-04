@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "description" : "A tense day of tiebreak battles brought the opening round of the FIDE World Cup to a close on Monday in Goa. Rapid and blitz games decided the fate of 20 hard-fought encounters, as most favourites advanced but a few unexpected heroes emerged. Among them were India's Aronyak Ghosh, Argentina's 12-year-old prodigy Faustino Oro and Kazakhstan's Alisher Suleymenov, each earning a remarkable victory to move into round two. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Mon, 03 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup - Live!"
+         "link" : "https://en.chessbase.com/post/world-cup-2025-r1tb",
+         "pubDate" : "Tue, 04 Nov 2025 01:05:00",
+         "title" : "World Cup: Oro knocks out Brkic in exciting tiebreaker"
       },
       {
          "description" : "The Annual ECU General Assembly was hosted by the Georgian Chess Federation in Batumi on 10 October 2025 under excellent conditions.&#160; Forty-three federations were present. The ECU General Assembly was greeted by the President of the Georgian Chess Federation, Mr Akaki Iashvili, the President of the World Chess Federation (FIDE), Mr Arkady Dvorkovich. The President of ECU Mr. Zurab Azmairapashvili welcomed all participants.&#160; Main information and decisions European Chess Championships ECU Commissions",
@@ -56,6 +56,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/mikhalevski-reprintsev-arakhamia-grant-strutinskaia-fide-world-senior-championships-2025",
          "pubDate" : "Mon, 03 Nov 2025 04:36:07",
          "title" : "Victor Mikhalevski Wins 50+ Section at FIDE World Senior Championships"
+      },
+      {
+         "description" : "Arizona's IM Mark Ginsburg is a World Senior Co-Champion. The 2025 FIDE World Senior Championships were held Oct. 21 through Nov. 1 in Gallipoli, Italy, and featured 433 participants from 62 federations across four sections (Over-65 and Over-50 categories for both Open and Women) competing for a share of the €50,000 prize fund. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Open Over-65 Podium (Photo courtesy FIDE)<br> <br> <br> <br> Ginsburg finished with 8&frac12;/11 in the Over-65 Open, putting him in a six-way tie for first, finishing fifth on tiebreaks. Ginsburg earned a GM norm for his performance. Ukrainian IM Alexander Reprintsev finished fi",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/mark-ginsburg-ties-first-fide-world-senior-championships",
+         "pubDate" : "Mon, 03 Nov 2025 00:00:00",
+         "title" : "Mark Ginsburg Ties For First at FIDE World Senior Championships"
       },
       {
          "description" : "US Chess announces the solicitation of bids for hosting the 2026 North American Junior Chess Championships. The Confederation of Chess for Americas (CCA) has awarded the United States of America, FIDE Zone 2.1, the right to host this prestigious tournament in 2026. Usually, we do not have a guarantee that an event will be located in Zone 2.1 in any given year. Since that is the case for the 2026 North American Juniors, we wish to give any licensed International Organizer in the US the chance to bid.Please note, the final decision on awarding this event rests with CCA, which has final authority for FIDE continental-level events in North America. US Chess has final authority on which bids to s",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/not-d-gukesh-or-r-praggnanandhaa-india-pin-freestyle-chess-finals-hopes-on-one-star/articleshow/124776299.cms",
          "pubDate" : "Fri, 24 Oct 2025 04:42:12",
          "title" : "Not Gukesh or Pragg! India pin Freestyle Chess Finals hopes on one star"
-      },
-      {
-         "description" : "Stop me if you've heard this one before: GM Fabiano Caruana and IM Carissa Yip are this year's U.S. champions. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy SLCC/Lennart Ootes.<br> <br> The win makes it four years in a row (five overall) for Caruana and three years in a row (four overall) for Yip. It should be noted, though, that it's sort of \"four in a row\" for Yip, too, as, after winning in 2021, she skipped the 2022 event before winning in each 2023, 2024, and now 2025. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo cou",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/caruana-yip-repeat-us-champions-again",
-         "pubDate" : "Fri, 24 Oct 2025 00:00:00",
-         "title" : "Caruana, Yip Repeat as U.S. Champions (Again!)"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Anastasia Karlovich for the top moments of today's games. ROUND 10 &#124; GAME LINKS LIANG VS ROBSON RESULT: 1-0SEVIAN VS NIEMANNRESULT: 1-0WOODWARD VS SHANKLAND RESULT: &frac12;-&frac12;SWIERCZ VS SORESULT: 0-1OPARIN VS ARONIAN RESULT: &frac12;-&frac12;CARUANA VS MISHRARESULT: 1-0 ROUND 10 &#124; GAME LINKS YU VS POURKASHIYAN RESULT: &frac12;-&frac12;PARAGUA [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-10/\">POSTGAME ROUND 10: Wesley Pounces! Earns Chance Tomorrow #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a",
