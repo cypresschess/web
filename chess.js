@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Jay Williams was an All-American and &#8220;National Player of the Year&#8221; at Duke University and was a first-round draft pick for the Chicago Bulls. He graduated in three years with dual degrees in sociology and business, and his work ethic was a hallmark of his college career. His #22 is retired at his alma mater. The post <a href=\"https://thechessdrum.net/blog/2025/11/05/jay-williams-on-finance-and-chess/\">Jay Williams on Finance and Chess</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/11/05/jay-williams-on-finance-and-chess/",
+         "pubDate" : "Wed, 05 Nov 2025 15:46:41",
+         "title" : "Jay Williams on Finance and Chess"
+      },
+      {
          "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,28 @@ news_feed (
          "title" : "FIDE World Cup - Live!"
       },
       {
+         "description" : "We&#39;re excited to announce that you can now get tickets to watch the Speed Chess Championship Live Finals in London. Experience the thrill that only the SCC can provide, and join the roaring crowd cheering for their heroes as they battle in high-sp...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-scc-finals-tickets",
+         "pubDate" : "Wed, 05 Nov 2025 08:00:00",
+         "title" : "Get Your Tickets To Watch The Speed Chess Championship Finals In London"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125104282.cms\" />Thirteen-year-old Ilamparthi, initially an uninvited guest at a chess camp, has now become India's 90th Grandmaster. Guided by GM Shyam Sundar Mohanraj, his journey, despite financial hardships and family challenges, is marked by exceptional talent and unwavering discipline. The young prodigy's dedication promises a bright future in the chess world.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/making-of-indias-90th-gm-ilamparthi-ar-travelling-alone-at-16-ms-dhoni-esque-hands-ailing-brother-at-home/articleshow/125104282.cms",
          "pubDate" : "Wed, 05 Nov 2025 07:47:55",
          "title" : "Making of India's 90th GM Ilamparthi: Travelling alone at 16, ailing brother at home"
+      },
+      {
+         "description" : "Twenty-seven matches go to tiebreaks after the second classical game in round two of the 2025 FIDE World Cup. GM Pentala Harikrishna played the Game of the Day, if not the tournament, with a stunning queen sacrifice against GM Arseniy Nesterov. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-2-game-2",
+         "pubDate" : "Wed, 05 Nov 2025 07:39:00",
+         "title" : "Harikrishna Sacs Queen; Nepomniachtchi, Wesley So, Aravindh Eliminated"
       },
       {
          "description" : "GM Dorian Rogozenco demonstrates how to filter and analyse games by rating, year, and tournament to see which openings are currently popular and successful - without needing multiple databases. Rogozenco shows practical shortcuts and explains how to use live updates and tournament selections to instantly study what top grandmasters are playing right now. The episode concludes with insights on how to dig deeper into why certain lines become fashionable, often sparked by world-class players like Magnus Carlsen, experimenting with new ideas.",
@@ -562,28 +586,12 @@ news_feed (
          "title" : "Study Reveals New Insights Into Gender Gap In Chess: Equal Start, Equal Progress"
       },
       {
-         "description" : "We&#39;re excited to announce the next event of the Chess.com Community Championships. The Chess.com Crazyhouse Chess Championship starts on November 6 and features a $2,500 prize fund. Featuring a variant where initiative is everything, get ready for...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-2025-chesscom-crazyhouse-chess-championship",
-         "pubDate" : "Tue, 28 Oct 2025 08:00:00",
-         "title" : "Go Crazy With The Next Event Of The Chess.com Community Championships Starting November 6"
-      },
-      {
          "description" : " ROUND 1 &#124; GAME 1 CARUANA VS NAKAMURA RESULT: 1-0GUKESH VS CARLSEN RESULT: 0-1 ROUND 1 &#124; GAME 2 NAKAMURA VS CARUANA RESULT: 1-0CARLSEN VS GUKESH RESULT: &frac12;-&frac12; ROUND 2 &#124; GAME 1 CARLSEN VS CARUANA RESULT: &frac12;-&frac12;NAKAMURA VS GUKESH RESULT: 0-1 ROUND 2 &#124; GAME 2 CARUANA VS CARLSEN RESULT: 0-1GUKESH VS NAKAMURA RESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-1/\">POSTGAME DAY 1: Gukesh Smashes Fabi! | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-1/",
          "pubDate" : "Mon, 27 Oct 2025 21:49:28",
          "title" : "POSTGAME DAY 1: Gukesh Smashes Fabi! | #ChampionsShowdown"
-      },
-      {
-         "description" : "World Champion Gukesh Dommaraju leads the 2025 Clutch Chess: Champions Showdown with four points out of a possible six on day one. After losing game one against GM Magnus Carlsen, he had the best day, scoring three wins and two draws in his remain...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-clutch-chess-champions-showdown-day-1",
-         "pubDate" : "Mon, 27 Oct 2025 17:55:00",
-         "title" : "Gukesh Leads Clutch Chess After Game 1 Loss"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124849998.cms\" />World No. 1 Magnus Carlsen emotionally remembered Daniel Naroditsky, a rare talent and beloved grandmaster, who passed away at 29. Carlsen highlighted Naroditsky's unique attacking style and expressed sorrow over the online accusations that deeply affected him. He believes Naroditsky was not cheating and regrets not supporting him more publicly.",
