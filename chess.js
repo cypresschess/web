@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In recent decades, the number of draws in international correspondence chess tournaments has increased significantly due to the tools used, and it is now approaching 100%. Venceslav Rutar of Slovenia has therefore proposed an alternative tiebreak system, as not all draws are the same. This system is now set to be tried in a correspondence chess tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/not-all-draws-are-the-same",
+         "pubDate" : "Wed, 05 Nov 2025 18:00:00",
+         "title" : "Not all draws are the same"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125113890.cms\" />Indian Grandmaster Diptayan Ghosh achieved a monumental upset at the World Chess Cup, defeating former world championship challenger Ian Nepomniachtchi. Ghosh capitalized on his opponent's errors to secure a memorable victory. Following the match, Nepomniachtchi's online comments about the conditions drew significant criticism from fans, while other Indian players also progressed.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-kramnik-2-0-in-the-works-ian-nepomniachtchi-lambasted-online-for-complaints-after-loss-to-indias-gm-diptayan-ghosh/articleshow/125113890.cms",
+         "pubDate" : "Wed, 05 Nov 2025 17:50:56",
+         "title" : "'Kramnik 2.0 in the works': Nepo lambasted for 'complaints' after loss"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125111732.cms\" />Grandmaster Diptayan Ghosh stunned former world championship challenger Ian Nepomniachtchi in a major upset at the World Chess Cup. Several other Indian players, including Arjun Erigaisi and D Gukesh, advanced smoothly, while R Praggnanandhaa and Vidit Santosh Gujrathi will head to tiebreaks.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-cup-grandmaster-diptayan-ghosh-ousts-ian-nepomniachtchi/articleshow/125111732.cms",
+         "pubDate" : "Wed, 05 Nov 2025 16:01:47",
+         "title" : "World Chess Cup: Grandmaster Diptayan Ghosh ousts Ian Nepomniachtchi"
+      },
+      {
          "description" : " Jay Williams was an All-American and &#8220;National Player of the Year&#8221; at Duke University and was a first-round draft pick for the Chicago Bulls. He graduated in three years with dual degrees in sociology and business, and his work ethic was a hallmark of his college career. His #22 is retired at his alma mater. The post <a href=\"https://thechessdrum.net/blog/2025/11/05/jay-williams-on-finance-and-chess/\">Jay Williams on Finance and Chess</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/11/05/jay-williams-on-finance-and-chess/",
          "pubDate" : "Wed, 05 Nov 2025 15:46:41",
          "title" : "Jay Williams on Finance and Chess"
+      },
+      {
+         "description" : "The second edition of the new, monthly version of Arena Kings happened on November 5. In this month&#39;s multi-club arena with more than 1,800 total players representing 52 squads, K2N Chess won the overall standings, while GM Jose Ibarra took home t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ibarra-wins-arena-kings-november-5-2025",
+         "pubDate" : "Wed, 05 Nov 2025 12:07:54",
+         "title" : "Hundreds Meet Again In Arena Kings Team Competition"
       },
       {
          "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
@@ -42,14 +74,6 @@ news_feed (
          "title" : "Harikrishna Sacs Queen; Nepomniachtchi, Wesley So, Aravindh Eliminated"
       },
       {
-         "description" : "GM Dorian Rogozenco demonstrates how to filter and analyse games by rating, year, and tournament to see which openings are currently popular and successful - without needing multiple databases. Rogozenco shows practical shortcuts and explains how to use live updates and tournament selections to instantly study what top grandmasters are playing right now. The episode concludes with insights on how to dig deeper into why certain lines become fashionable, often sparked by world-class players like Magnus Carlsen, experimenting with new ideas.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/find-opening-trends-dorian-rogozenco-master-your-chess-with-chessbase-tools",
-         "pubDate" : "Wed, 05 Nov 2025 07:27:03",
-         "title" : "Find opening trends - Dorian Rogozenco: Master Your Chess with ChessBase Tools"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125102761.cms\" />Indian-origin Abhimanyu Mishra, the world's youngest chess Grandmaster, aims for strong performances at the World Cup. Despite holding multiple records, he downplays their significance, valuing the pandemic-era experience more. Mishra attributes his gradual progress to balancing high school and a lack of corporate sponsorship, noting less support for chess in America compared to India.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-disappointed-with-how-vladimir-kramnik-has-behaved/articleshow/125102519.cms",
          "pubDate" : "Wed, 05 Nov 2025 06:01:52",
          "title" : "Viswanathan Anand: 'Disappointed with how Vladimir Kramnik has behaved'"
-      },
-      {
-         "description" : "The World Cup entered a new phase on Tuesday in Goa, as chess heavyweights joined the field and the competition intensified. With the arrival of the top 50 seeds, 64 games were played in round two's first day, producing 21 decisive results. Many top players began cautiously, but some struck quickly - among them Wei Yi and Andrey Esipenko, who each scored 26-move wins with sharp attacking play to make confident starts to their campaigns. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-r2g1",
-         "pubDate" : "Wed, 05 Nov 2025 03:00:00",
-         "title" : "World Cup: Favourites join the fray, Wei and Esipenko snatch quickest wins"
       },
       {
          "description" : "Naroditsky's tragic passing, details still unclear, though with serious allegations levelled at a now-named former top player, invites us to look beyond the parish pump of chess. FIDE itself states in connection with the case: 'Human life and dignity are fundamental values shared by all of us. While we hold deep respect and love for the game of chess that unites our community, these values must always come first.\" A philosopher comments.",
@@ -578,14 +594,6 @@ news_feed (
          "title" : "Bortnyk Wins His 1st Titled Tuesday This Year, Dedicates Victory To Naroditsky's Memory"
       },
       {
-         "description" : "Girls who start with the same age and rating as boys will continue to play chess at a similar rate and at a similar level as those boys, especially in areas where participation is more gender-balanced. A new study, published in Chance and co-funde...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/li-glickman-chabris-2025-sex-ratings-retention-competitive-chess",
-         "pubDate" : "Tue, 28 Oct 2025 11:41:44",
-         "title" : "Study Reveals New Insights Into Gender Gap In Chess: Equal Start, Equal Progress"
-      },
-      {
          "description" : " ROUND 1 &#124; GAME 1 CARUANA VS NAKAMURA RESULT: 1-0GUKESH VS CARLSEN RESULT: 0-1 ROUND 1 &#124; GAME 2 NAKAMURA VS CARUANA RESULT: 1-0CARLSEN VS GUKESH RESULT: &frac12;-&frac12; ROUND 2 &#124; GAME 1 CARLSEN VS CARUANA RESULT: &frac12;-&frac12;NAKAMURA VS GUKESH RESULT: 0-1 ROUND 2 &#124; GAME 2 CARUANA VS CARLSEN RESULT: 0-1GUKESH VS NAKAMURA RESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-1/\">POSTGAME DAY 1: Gukesh Smashes Fabi! | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -664,22 +672,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/40th-european-club-cup-2025",
          "pubDate" : "Sun, 26 Oct 2025 10:23:00",
          "title" : "40th European Club Cup 2025 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124824389.cms\" />Former World Champion Vladimir Kramnik faces intense backlash following the death of Grandmaster Daniel Naroditsky, now under investigation as a possible suicide. Kramnik, who previously accused Naroditsky of cheating without proof, expressed condolences but defended his actions, citing Naroditsky's alleged health issues. The chess world, including top players, has condemned Kramnik's campaign, with FIDE reviewing his conduct.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/vladimir-kramnik-on-daniel-naroditskys-tragic-death-i-was-the-only-person-in-the-chess-community/articleshow/124824389.cms",
-         "pubDate" : "Sun, 26 Oct 2025 08:00:37",
-         "title" : "Kramnik on Naroditsky's death: 'I was the only person in chess community'"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124822470.cms\" />Indian chess stars shone brightly at the European Club Cup 2025. SuperChess clinched the Open title with a flawless record, while Cercle d'&eacute;checs de Monte-Carlo dominated the Women's competition. World Champion Gukesh and GM Divya Deshmukh delivered stellar performances, securing individual accolades and highlighting India's growing chess prowess on the global stage.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-double-gold-for-d-gukesh-divya-deshmukh-gm-nihal-sarin-abhimanyu-puranik-also-shine-at-european-club-cup/articleshow/124822470.cms",
-         "pubDate" : "Sun, 26 Oct 2025 05:25:13",
-         "title" : "Double gold for Gukesh, Divya; Sarin, Puranik also shine at ECC"
       },
       {
          "description" : " The US Chess Championships took place in Saint Louis Sun 12th Oct to Sat 25th Oct 2025. Players: Fabiano Caruana, Wesley So, Hans Moke Niemann, Levon Aronian, Awonder Liang, Samuel Sevian, Ray Robson, Grigoriy Oparin, Sam Shankland, Abhimanyu Mishra, Andy Woodward and Dariusz Swiercz. Women: Carissa Yip, Alice Lee, Tatev Abrahamyan, Irina Krush, Anna Sargsyan, Rose Atwell, Thalia Cervantes Landeiro, Anna Zatonskih, Nazi Paikidze, Atousa Pourkashiyan, Megan Althea Paragua and Jennifer Yu. Fabiano Caruana won his fourth title in a row, his fifth in total. Carissa Yip won the women's title finishing with 6.5/7 after a slow start.",
