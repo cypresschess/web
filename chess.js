@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Cup entered a new phase on Tuesday in Goa, as chess heavyweights joined the field and the competition intensified. With the arrival of the top 50 seeds, 64 games were played in round two's first day, producing 21 decisive results. Many top players began cautiously, but some struck quickly - among them Wei Yi and Andrey Esipenko, who each scored 26-move wins with sharp attacking play to make confident starts to their campaigns. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-r2g1",
+         "pubDate" : "Wed, 05 Nov 2025 03:00:00",
+         "title" : "World Cup: Favourites join the fray, Wei and Esipenko snatch quickest wins"
+      },
+      {
          "description" : "Naroditsky's tragic passing, details still unclear, though with serious allegations levelled at a now-named former top player, invites us to look beyond the parish pump of chess. FIDE itself states in connection with the case: 'Human life and dignity are fundamental values shared by all of us. While we hold deep respect and love for the game of chess that unites our community, these values must always come first.\" A philosopher comments.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,16 +22,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/lazavik-wins-titled-tuesday-november-4-2025",
-         "pubDate" : "Tue, 04 Nov 2025 11:41:17",
+         "pubDate" : "Tue, 04 Nov 2025 11:41:00",
          "title" : "Action-Packed Tuesday Goes Lazavik's Way"
-      },
-      {
-         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Tue, 04 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "Twenty-one players, on a total of 64 boards in round two of the 2025 FIDE World Cup, scored wins and are a draw away from advancing to round three. On the top boards, we saw GMs Arjun Erigaisi, Vincent Keymer, Wei Yi, Shakhriyar Mamedyarov, and Ma...",
