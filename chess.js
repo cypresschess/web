@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Naroditsky's tragic passing, details still unclear, though with serious allegations levelled at a now-named former top player, invites us to look beyond the parish pump of chess. FIDE itself states in connection with the case: 'Human life and dignity are fundamental values shared by all of us. While we hold deep respect and love for the game of chess that unites our community, these values must always come first.\" A philosopher comments.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/in-memory-of-daniel-naroditsky",
+         "pubDate" : "Tue, 04 Nov 2025 22:17:27",
+         "title" : "In memory of Daniel Naroditsky"
+      },
+      {
          "description" : "GM Denis Lazavik&#38;nbsp;won Titled Tuesday on November 4, seizing the outright lead away from GM Jose Martinez in the final round on a day where such tournament lead changes were typical. GM Magnus Carlsen took second place ahead of Martinez while G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2025-live",
          "pubDate" : "Tue, 04 Nov 2025 10:20:00",
          "title" : "FIDE World Cup - Live!"
-      },
-      {
-         "description" : "After a long break from competitive play, GM Jon Speelman returned to the board with three intense games in quick succession - each offering instructive lessons and a few painful oversights. In his latest column, he revisits the most critical moments from these battles, including a London League clash against Jonathan Parker and two 4NCL encounters, inviting readers to test their tactical vision and find the winning ideas that eluded him over the board. | Photo: John Saunders / 4NCL (2014)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-233",
-         "pubDate" : "Tue, 04 Nov 2025 09:55:00",
-         "title" : "Jon Speelman: Analysis and blind spots"
       },
       {
          "description" : "Twenty-one players, on a total of 64 boards in round two of the 2025 FIDE World Cup, scored wins and are a draw away from advancing to round three. On the top boards, we saw GMs Arjun Erigaisi, Vincent Keymer, Wei Yi, Shakhriyar Mamedyarov, and Ma...",
@@ -64,14 +64,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/faustino-oros-blitz-brilliance-12-year-old-shocks-seasoned-gm-to-enter-round-2/articleshow/125074600.cms",
          "pubDate" : "Tue, 04 Nov 2025 04:20:55",
          "title" : "Faustino Oro's blitz brilliance: 12-year-old shocks seasoned GM to enter Round 2"
-      },
-      {
-         "description" : "A tense day of tiebreak battles brought the opening round of the FIDE World Cup to a close on Monday in Goa. Rapid and blitz games decided the fate of 20 hard-fought encounters, as most favourites advanced but a few unexpected heroes emerged. Among them were India's Aronyak Ghosh, Argentina's 12-year-old prodigy Faustino Oro and Kazakhstan's Alisher Suleymenov, each earning a remarkable victory to move into round two. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-r1tb",
-         "pubDate" : "Tue, 04 Nov 2025 01:05:00",
-         "title" : "World Cup: Oro knocks out Brkic in exciting tiebreaker"
       },
       {
          "description" : "This week's puzzles are a tribute to GM Daniel Naroditsky's early years. Read Chess Life Online's obituary here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -120,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-1-tiebreaks",
          "pubDate" : "Mon, 03 Nov 2025 06:59:00",
          "title" : "12-Year-Old Oro Among 20 Winners In Tiebreaks"
-      },
-      {
-         "description" : "The opening round of the 2025 FIDE World Cup neared its conclusion on Sunday, with most matches already producing a winner after the second classical game. Out of 78 encounters, 58 were decided without the need for tiebreaks, while 20 remain level and will continue on Monday. A few players managed to level their matches after early setbacks, and China's IM Wang Shixu (pictured) delivered the day's biggest surprise by eliminating Leon Luke Mendonca. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-r1g2",
-         "pubDate" : "Mon, 03 Nov 2025 06:25:00",
-         "title" : "World Cup: Four players bounce back on demand, Wang upsets Mendonca"
       },
       {
          "description" : "GM Victor Mikhalevski of Israel won the 50+ section at the FIDE World Senior Championships in Gallipoli, Italy, on Saturday. IM Alexander Reprintsev of Ukraine edged out five other players on tiebreaks to win the 65+ group. In the Women&#39;s sections...",
