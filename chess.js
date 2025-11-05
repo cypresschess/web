@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125104282.cms\" />Thirteen-year-old Ilamparthi, initially an uninvited guest at a chess camp, has now become India's 90th Grandmaster. Guided by GM Shyam Sundar Mohanraj, his journey, despite financial hardships and family challenges, is marked by exceptional talent and unwavering discipline. The young prodigy's dedication promises a bright future in the chess world.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/making-of-indias-90th-gm-ilamparthi-ar-travelling-alone-at-16-ms-dhoni-esque-hands-ailing-brother-at-home/articleshow/125104282.cms",
+         "pubDate" : "Wed, 05 Nov 2025 07:47:55",
+         "title" : "Making of India's 90th GM Ilamparthi: Travelling alone at 16, ailing brother at home"
+      },
+      {
+         "description" : "GM Dorian Rogozenco demonstrates how to filter and analyse games by rating, year, and tournament to see which openings are currently popular and successful - without needing multiple databases. Rogozenco shows practical shortcuts and explains how to use live updates and tournament selections to instantly study what top grandmasters are playing right now. The episode concludes with insights on how to dig deeper into why certain lines become fashionable, often sparked by world-class players like Magnus Carlsen, experimenting with new ideas.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/find-opening-trends-dorian-rogozenco-master-your-chess-with-chessbase-tools",
+         "pubDate" : "Wed, 05 Nov 2025 07:27:03",
+         "title" : "Find opening trends - Dorian Rogozenco: Master Your Chess with ChessBase Tools"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125102761.cms\" />Indian-origin Abhimanyu Mishra, the world's youngest chess Grandmaster, aims for strong performances at the World Cup. Despite holding multiple records, he downplays their significance, valuing the pandemic-era experience more. Mishra attributes his gradual progress to balancing high school and a lack of corporate sponsorship, noting less support for chess in America compared to India.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-no-takers-for-chess-in-the-us-abhimanyu-mishra/articleshow/125102761.cms",
+         "pubDate" : "Wed, 05 Nov 2025 06:21:00",
+         "title" : "Chess World Cup | 'No takers for chess in the US' - Abhimanyu Mishra"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125102519.cms\" />Viswanathan Anand expressed disappointment with Vladimir Kramnik's unfounded allegations regarding cheating, especially after Daniel Naroditsky's death. Anand assured action through the ethics commission and urged young players and parents to be discerning about information on unregulated online platforms. He also commented on potential World Cup winners and Candidates tournament qualifiers.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-disappointed-with-how-vladimir-kramnik-has-behaved/articleshow/125102519.cms",
+         "pubDate" : "Wed, 05 Nov 2025 06:01:52",
+         "title" : "Viswanathan Anand: 'Disappointed with how Vladimir Kramnik has behaved'"
+      },
+      {
          "description" : "The World Cup entered a new phase on Tuesday in Goa, as chess heavyweights joined the field and the competition intensified. With the arrival of the top 50 seeds, 64 games were played in round two's first day, producing 21 decisive results. Many top players began cautiously, but some struck quickly - among them Wei Yi and Andrey Esipenko, who each scored 26-move wins with sharp attacking play to make confident starts to their campaigns. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -666,14 +698,6 @@ news_feed (
          "title" : "Daniel Naroditsky and the Chess World's Failure on Bullying"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124798319.cms\" />Fabiano Caruana and Carissa Yip have clinched their US Chess Championship titles for 2025. Caruana secured his fifth overall championship with a fourth consecutive win, while Yip earned her fourth title with a third straight victory. Both champions displayed strategic prowess to maintain their leads and secure their dominant positions in the prestigious tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-huge-record-world-no-3-fabiano-caruana-joins-bobby-fischer-in-history-with-us-championship-2025-title/articleshow/124798319.cms",
-         "pubDate" : "Sat, 25 Oct 2025 03:38:26",
-         "title" : "Huge record! World No. 3 Caruana joins Fischer with US C'ship 2025 title"
-      },
-      {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 11 &#124; GAME LINKS ARONIAN VS CARUANA RESULT: &frac12;-&frac12;MISHRA VS WOODWARD RESULT: &frac12;-&frac12;SO VS OPARIN RESULT: &frac12;-&frac12;ROBSON VS SEVIAN RESULT: &frac12;-&frac12;NIEMANN VS SWIERCZ RESULT: &frac12;-&frac12;SHANKLAND VS LIANG RESULT: &frac12;-&frac12; ROUND 11 &#124; GAME LINKS Cervantes [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-final/\">POSTGAME FINAL: Champions are Crowned! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -698,28 +722,12 @@ news_feed (
          "title" : "US Chess Championships - Live!"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124781492.cms\" />Estonian chess talent Mai Narva achieved a remarkable feat by winning the Global Chess League (GCL) Contenders Knockout while simultaneously competing in the European Team Chess Championship. The 26-year-old International Master (IM) juggled over-the-board classical games with online rapid matches, securing the Women's Contenders champion title and earning the GCL 2025 Ambassador role.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-from-a-country-of-new-delhis-size-chess-gets-stressful-when-juggling-two-tournaments-in-a-day/articleshow/124781492.cms",
-         "pubDate" : "Fri, 24 Oct 2025 09:27:26",
-         "title" : "Exclusive | The Estonian who played two chess tournaments in two formats on same day - and came out a champion"
-      },
-      {
          "description" : " The Fide president, Arkady Dvorkovich, said that Kramnik, who is accused of unfounded allegations against Naroditsky, will be referred to its ethics disciplinary committee Fide has responded to the <a href=\"https://www.theguardian.com/sport/2025/oct/20/daniel-naroditsky-dies-chess-grandmaster\">death of Daniel Naroditsky</a> by promising to take faster action over allegations by former world champion Vladimir Kramnik, which were made without significant evidence. The Fide president, Arkady Dvorkovich, announced on Wednesday that the case will be referred to its ethics and disciplinary committee, which has the power to ban players for life. The omens for that are not promising. A similar refe",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/oct/24/chess-fide-to-discipline-vladimir-kramnik-over-daniel-naroditsky-cheating-allegations",
          "pubDate" : "Fri, 24 Oct 2025 07:00:37",
          "title" : "Chess: Fide to 'discipline' Kramnik over Naroditsky cheating allegations"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124777201.cms\" />American grandmaster Daniel Naroditsky died by suicide after facing repeated accusations of cheating in online chess games from former world champion Vladimir Kramnik. His mother stated that Naroditsky's dignity was paramount, and Kramnik's relentless campaign destroyed it. FIDE is investigating Kramnik's remarks, highlighting the severe consequences of online harassment.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/vladimir-kramnik-faces-ethics-heat-after-death-of-daniel-naroditsky/articleshow/124777201.cms",
-         "pubDate" : "Fri, 24 Oct 2025 05:09:02",
-         "title" : "Vladimir Kramnik faces ethics heat after death of Daniel Naroditsky"
       },
       {
          "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Anastasia Karlovich for the top moments of today's games. ROUND 10 &#124; GAME LINKS LIANG VS ROBSON RESULT: 1-0SEVIAN VS NIEMANNRESULT: 1-0WOODWARD VS SHANKLAND RESULT: &frac12;-&frac12;SWIERCZ VS SORESULT: 0-1OPARIN VS ARONIAN RESULT: &frac12;-&frac12;CARUANA VS MISHRARESULT: 1-0 ROUND 10 &#124; GAME LINKS YU VS POURKASHIYAN RESULT: &frac12;-&frac12;PARAGUA [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-10/\">POSTGAME ROUND 10: Wesley Pounces! Earns Chance Tomorrow #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a",
@@ -864,38 +872,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-2025/",
          "pubDate" : "Wed, 15 Oct 2025 08:41:48",
          "title" : "ECF Book of the Year 2025"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/council-papers/#new_tab",
-         "pubDate" : "Wed, 15 Oct 2025 07:00:16",
-         "title" : "Council papers for the ECF AGM"
-      },
-      {
-         "description" : "The new Coventry International will take place from Sunday 26th October to Friday 31st October 2025 at the Holiday Inn Coventry M6, JCT.2 in Coventry. The hotel is familiar to...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2025-coventry-international/",
-         "pubDate" : "Wed, 15 Oct 2025 06:50:58",
-         "title" : "2025 Coventry International"
-      },
-      {
-         "description" : "The UK Open Blitz Championship returns in 2025, featuring an expanded format with 16 qualifiers in 14 cities around the United Kingdom. Eldar Gasanov will be aiming for a hat-trick...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/uk-open-blitz-championship-2025/",
-         "pubDate" : "Wed, 15 Oct 2025 06:40:21",
-         "title" : "UK Open Blitz Championship 2025"
-      },
-      {
-         "description" : "Coventry will be transformed into a city of chess next summer as the University of Warwick hosts the 2026 British Chess Championships. More than 1,000 chess players from across the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2026-british-championships-venue-announcement/",
-         "pubDate" : "Wed, 15 Oct 2025 06:30:26",
-         "title" : "2026 British Championships Venue Announcement"
       }
    ]
 }
