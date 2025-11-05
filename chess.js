@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
+         "pubDate" : "Wed, 05 Nov 2025 10:20:00",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125104282.cms\" />Thirteen-year-old Ilamparthi, initially an uninvited guest at a chess camp, has now become India's 90th Grandmaster. Guided by GM Shyam Sundar Mohanraj, his journey, despite financial hardships and family challenges, is marked by exceptional talent and unwavering discipline. The young prodigy's dedication promises a bright future in the chess world.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -856,22 +864,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/oct/17/chess-ukraine-soldier-grandmaster-wins-gold-medal-at-european-team-championships",
          "pubDate" : "Fri, 17 Oct 2025 07:00:05",
          "title" : "Chess: Ukraine soldier grandmaster wins gold medal at European team championships"
-      },
-      {
-         "description" : "FIDE has extended the deadline for submissions to the FIDE Social Chess Storytelling Challenge 2025. Participants now have until November 30, 2025, to submit their stories under the theme &#8216;Every...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/fide-social-chess-storytelling-challenge-deadline-extended/",
-         "pubDate" : "Wed, 15 Oct 2025 12:28:03",
-         "title" : "FIDE Social Chess Storytelling Challenge deadline extended"
-      },
-      {
-         "description" : "In today's hectic chess world, it is easy to forget that the game we play now is built on foundations established many years ago. A biography of a player -...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-2025/",
-         "pubDate" : "Wed, 15 Oct 2025 08:41:48",
-         "title" : "ECF Book of the Year 2025"
       }
    ]
 }
