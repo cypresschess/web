@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find certificates here. For any query please email at indianchessfed@gmail.com Rank Name 1 Iniyan Pa 2 Goutham Krishna H 3 Sasikiran Krishnan 4 Ayush",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-national-chess-championship-2025-in-guntur-ap/",
+         "pubDate" : "Thu, 06 Nov 2025 15:59:19",
+         "title" : "Certificate :National Chess Championship 2025 in Guntur AP"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125137484.cms\" />Indian Grandmaster Vidit Gujrathi advanced to the third round of the FIDE World Cup 2025 after defeating 12-year-old Faustino Oro. Young stars Pranav V and Pranesh M also secured their spots in the next stage with impressive victories. Gujrathi praised Oro as a \"special\" talent among the new generation of computer-trained players.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-gujrathi-outsmarts-12-year-old-prodigy-faustino-oro/articleshow/125137484.cms",
+         "pubDate" : "Thu, 06 Nov 2025 15:26:50",
+         "title" : "Chess World Cup: Vidit Gujrathi outsmarts 12-year-old prodigy Faustino Oro"
+      },
+      {
          "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-corporate-chess-championship-2025-stars-in-paris/",
          "pubDate" : "Thu, 06 Nov 2025 09:42:24",
          "title" : "European Corporate Chess Championship 2025 stars in Paris"
+      },
+      {
+         "description" : "There are 32 matches remaining in the 2025 FIDE World Cup after round two tiebreaks, where another 27 players were eliminated on Thursday. The upset of the day was GM Lorenzo Lodici&#39;s (2572) match win against GM Hans Niemann (2729). One match went...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-2-tiebreaks",
+         "pubDate" : "Thu, 06 Nov 2025 08:08:23",
+         "title" : "Lodici Knocks Out Niemann, Rasmus Svane Wins In Armageddon"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125124294.cms\" />India's P. Harikrishna secured a swift 21-move victory in the Chess World Cup, advancing to the third round with a brilliant queen sacrifice. Meanwhile, Surya Shekhar Ganguly's aggressive queen sacrifice against Maxime Vachier-Lagrave resulted in a draw, leading to his elimination. Several other Indian players also advanced, while some faced tiebreaks or were knocked out.",
@@ -498,14 +522,6 @@ news_feed (
          "title" : "'I never accused Daniel Naroditsky of cheating': Vladimir Kramnik defends himself, vows legal action"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124932012.cms\" />Indian chess prodigy Arjun Erigaisi faces a critical juncture at the World Cup in Goa, needing a medal to qualify for the 2026 Candidates tournament. Despite his high ranking, he's currently outside the qualification spots, with rivals like Nakamura and Giri already securing places.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-in-must-medal-situation-at-world-cup/articleshow/124932012.cms",
-         "pubDate" : "Thu, 30 Oct 2025 03:42:27",
-         "title" : "Arjun Erigaisi in must-medal situation at World Cup"
-      },
-      {
          "description" : "The month-long festivities continued at the newly renovated Saint Louis Chess Club (SLCC) from October 27 through 29 for the Clutch Chess: Champions Showdown, featuring reigning U.S. Champion GM Fabiano Caruana, World Number Two GM Hikaru Nakamura, former World Champion GM Magnus Carlsen, and reigning World Champion GM Gukesh Dommaraju. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The Champions (All photos courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> Much like GM Garry Kasparov at the Clutch Chess: Legends before the U.S. Championships, Carlsen left no doubt about who was in the best form, clinching his tournament victory with two games remaining",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -616,14 +632,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gukesh-heads-youngest-2026-tata-steel-masters-field",
          "pubDate" : "Tue, 28 Oct 2025 16:11:00",
          "title" : "Gukesh Heads Youngest Ever Field For 2026 Tata Steel Chess Masters"
-      },
-      {
-         "description" : "GM Oleksandr Bortnyk won Titled Tuesday on October 28, taking his last seven games of the tournament for a come-from-behind outright victory on 10 points out of 11. GM Maxime Vachier-Lagrave was actually the only player not to lose a game during t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bortnyk-wins-titled-tuesday-october-28-2025",
-         "pubDate" : "Tue, 28 Oct 2025 12:55:00",
-         "title" : "Bortnyk Wins His 1st Titled Tuesday This Year, Dedicates Victory To Naroditsky's Memory"
       },
       {
          "description" : " ROUND 1 &#124; GAME 1 CARUANA VS NAKAMURA RESULT: 1-0GUKESH VS CARLSEN RESULT: 0-1 ROUND 1 &#124; GAME 2 NAKAMURA VS CARUANA RESULT: 1-0CARLSEN VS GUKESH RESULT: &frac12;-&frac12; ROUND 2 &#124; GAME 1 CARLSEN VS CARUANA RESULT: &frac12;-&frac12;NAKAMURA VS GUKESH RESULT: 0-1 ROUND 2 &#124; GAME 2 CARUANA VS CARLSEN RESULT: 0-1GUKESH VS NAKAMURA RESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-1/\">POSTGAME DAY 1: Gukesh Smashes Fabi! | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
