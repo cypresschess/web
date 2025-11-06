@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125124294.cms\" />India's P. Harikrishna secured a swift 21-move victory in the Chess World Cup, advancing to the third round with a brilliant queen sacrifice. Meanwhile, Surya Shekhar Ganguly's aggressive queen sacrifice against Maxime Vachier-Lagrave resulted in a draw, leading to his elimination. Several other Indian players also advanced, while some faced tiebreaks or were knocked out.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/double-queen-sacrifice-drama-p-harikrishna-wins-surya-shekhar-ganguly-bows-out-at-chess-world-cup/articleshow/125124294.cms",
+         "pubDate" : "Thu, 06 Nov 2025 05:42:35",
+         "title" : "Double queen sacrifice drama: Harikrishna wins, Ganguly bows out at Chess World Cup"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125123825.cms\" />Indian Grandmaster Diptayan Ghosh stunned two-time Candidates champion Ian Nepomniachtchi in the Chess World Cup. The unseeded 27-year-old defeated the higher-rated Russian in just two classical games, marking a significant upset. Ghosh, who previously worked as a bank clerk, expressed his delight at the biggest victory of his career.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/unseeded-diptayan-ghosh-knocks-out-two-time-candidates-champion-ian-nepomniachtchi-in-goa/articleshow/125123825.cms",
+         "pubDate" : "Thu, 06 Nov 2025 05:26:37",
+         "title" : "Unseeded Diptayan Ghosh knocks out two-time Candidates champion Ian Nepo in Goa"
+      },
+      {
          "description" : "The first major upsets of the 2025 FIDE World Cup occurred on Wednesday in Goa, as three players rated over 2700 were eliminated from the competition. Wesley So, Ian Nepomniachtchi and Aravindh Chithambaram were all knocked out by lower-seeded opponents - Titas Stremavicius, Diptayan Ghosh and Karthik Venkataraman, respectively. With 37 matches already decided, the remaining 27 will be settled in Thursday's tiebreaks, promising a tense conclusion to round two. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -600,22 +616,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-1/",
          "pubDate" : "Mon, 27 Oct 2025 21:49:28",
          "title" : "POSTGAME DAY 1: Gukesh Smashes Fabi! | #ChampionsShowdown"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124849998.cms\" />World No. 1 Magnus Carlsen emotionally remembered Daniel Naroditsky, a rare talent and beloved grandmaster, who passed away at 29. Carlsen highlighted Naroditsky's unique attacking style and expressed sorrow over the online accusations that deeply affected him. He believes Naroditsky was not cheating and regrets not supporting him more publicly.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-recalls-daniel-naroditskys-unique-brilliance/articleshow/124849998.cms",
-         "pubDate" : "Mon, 27 Oct 2025 12:59:40",
-         "title" : "Magnus Carlsen recalls Daniel Naroditsky's unique brilliance"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124848762.cms\" />World Champion D Gukesh returns to Goa for the FIDE World Cup, a tournament he previously competed in during his junior career. This prestigious event, returning to India after 23 years, features a USD 2 million prize fund and a knockout format with 206 players vying for qualification to the 2026 Candidates Tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-champion-and-world-cup-top-seed-d-gukesh-i-have-some-great-memories-of-goa/articleshow/124848762.cms",
-         "pubDate" : "Mon, 27 Oct 2025 12:11:38",
-         "title" : "World chess champion Gukesh: 'I have some great memories of Goa'"
       },
       {
          "description" : "Did you solve the endgame puzzles we gave you last week? In the position shown, White had to move his rook to one of nine squares. But only moving it to e6 retained the win. How come? Today we give you the full solutions of all the four problems, in video explanations and on a replay board with engine assistance. It's a good way to master such tricky endgame situations.",
