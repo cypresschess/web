@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first major upsets of the 2025 FIDE World Cup occurred on Wednesday in Goa, as three players rated over 2700 were eliminated from the competition. Wesley So, Ian Nepomniachtchi and Aravindh Chithambaram were all knocked out by lower-seeded opponents - Titas Stremavicius, Diptayan Ghosh and Karthik Venkataraman, respectively. With 37 matches already decided, the remaining 27 will be settled in Thursday's tiebreaks, promising a tense conclusion to round two. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-r2g2",
+         "pubDate" : "Thu, 06 Nov 2025 03:10:00",
+         "title" : "World Cup: Nepo and So knocked out, Harikrishna scores brilliant win"
+      },
+      {
          "description" : "In recent decades, the number of draws in international correspondence chess tournaments has increased significantly due to the tools used, and it is now approaching 100%. Venceslav Rutar of Slovenia has therefore proposed an alternative tiebreak system, as not all draws are the same. This system is now set to be tried in a correspondence chess tournament.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ibarra-wins-arena-kings-november-5-2025",
          "pubDate" : "Wed, 05 Nov 2025 12:07:54",
          "title" : "Hundreds Meet Again In Arena Kings Team Competition"
-      },
-      {
-         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Wed, 05 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "We&#39;re excited to announce that you can now get tickets to watch the Speed Chess Championship Live Finals in London. Experience the thrill that only the SCC can provide, and join the roaring crowd cheering for their heroes as they battle in high-sp...",
