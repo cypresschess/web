@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
+         "pubDate" : "Thu, 06 Nov 2025 10:20:00",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "The European Corporate Chess Championship 2025, organised by Asnière Le Grand Echiquier under the auspices of the European Chess Union, will be held on 7-8 November in Asnieres sur Seine, Paris, France. The event gathers 54 corporate teams, including Google, PWC, KPMG, UBS, Bank of France, Dassault, Societe G&eacute;n&eacute;rale, Leonard, EBRD, Greco and others. The top seeded teams are Greco (Ukraine), Global Ramblers (Czech Republic), Agrofert (Bulgaria), Redia A/S (Austria), and TePe Sigeman (Sweden). The teams are represented by strong []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-corporate-chess-championship-2025-stars-in-paris/",
+         "pubDate" : "Thu, 06 Nov 2025 09:42:24",
+         "title" : "European Corporate Chess Championship 2025 stars in Paris"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125124294.cms\" />India's P. Harikrishna secured a swift 21-move victory in the Chess World Cup, advancing to the third round with a brilliant queen sacrifice. Meanwhile, Surya Shekhar Ganguly's aggressive queen sacrifice against Maxime Vachier-Lagrave resulted in a draw, leading to his elimination. Several other Indian players also advanced, while some faced tiebreaks or were knocked out.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -26,7 +42,7 @@ news_feed (
          "title" : "World Cup: Nepo and So knocked out, Harikrishna scores brilliant win"
       },
       {
-         "description" : "In recent decades, the number of draws in international correspondence chess tournaments has increased significantly due to the tools used, and it is now approaching 100%. Venceslav Rutar of Slovenia has therefore proposed an alternative tiebreak system, as not all draws are the same. This system is now set to be tried in a correspondence chess tournament.",
+         "description" : "In international correspondence chess tournaments, the number of draws has increased significantly over the last few decades due to the tools used, and is now approaching 100%. But not all draws are the same. An alternative scoring system is now to be tested for the first time in a high-class correspondence chess tournament.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/not-all-draws-are-the-same",
@@ -784,14 +800,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/swiss-manager-liveboards-course/",
          "pubDate" : "Wed, 22 Oct 2025 15:46:37",
          "title" : "Swiss Manager/Liveboards Course"
-      },
-      {
-         "description" : "The third round of the 2025 European Chess Club Cup took place today in Rhodes, Greece, highlighted by the arrival of reigning World Chess Champion Gukesh D, who joined his SuperChess team at the venue for the first time in the event. Only nine teams in the Open section, and two teams in the Women's section, kept the perfect score of 6 match points, and share the lead in the tournament after three played rounds. The leading teams of the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/gukesh-debuts-in-the-third-round-of-european-chess-club-cup-2025/",
-         "pubDate" : "Tue, 21 Oct 2025 20:29:24",
-         "title" : "Gukesh debuts in the third round of European Chess Club Cup 2025"
       },
       {
          "description" : " The death of Daniel Naroditsky at the age of only 29 has come as a great shock. Naroditsky was a well known chess commentator and streamer who became a GM in 2013 and had a peak rating of 2647 in May 2017. His play was limited to mostly blitz in recent years, both online and over the board, although his fifth and final appearance in the US Championships was as recent as 2021. ",
