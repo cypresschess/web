@@ -34,11 +34,11 @@ news_feed (
          "title" : "European Corporate Chess Championship 2025 stars in Paris"
       },
       {
-         "description" : "There are 32 matches remaining in the 2025 FIDE World Cup after round two tiebreaks, where another 27 players were eliminated on Thursday. The upset of the day was GM Lorenzo Lodici&#39;s (2572) match win against GM Hans Niemann (2729). One match went...",
+         "description" : "There are 64 players heading into round three of the 2025 FIDE World Cup after round two tiebreaks, where another 27 players were eliminated on Thursday. The upset of the day was GM Lorenzo Lodici&#39;s (2572) match win against GM Hans Niemann (2729)....",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-2-tiebreaks",
-         "pubDate" : "Thu, 06 Nov 2025 08:08:23",
+         "pubDate" : "Thu, 06 Nov 2025 08:08:00",
          "title" : "Lodici Knocks Out Niemann, Rasmus Svane Wins In Armageddon"
       },
       {
