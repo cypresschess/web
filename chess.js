@@ -90,6 +90,14 @@ news_feed (
          "title" : "Viswanathan Anand: 'Disappointed with how Vladimir Kramnik has behaved'"
       },
       {
+         "description" : "This week's puzzles come from the second day of the Clutch Chess: Champions Showdown, which concluded last week at the newly renovated Saint Louis Chess Club. See puzzles from Day 1 here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-clutch-chess-champions-day-2",
+         "pubDate" : "Wed, 05 Nov 2025 00:00:00",
+         "title" : "Wednesday Workout: Clutch Chess Champions, Day 2"
+      },
+      {
          "description" : "Naroditsky's tragic passing, details still unclear, though with serious allegations levelled at a now-named former top player, invites us to look beyond the parish pump of chess. FIDE itself states in connection with the case: 'Human life and dignity are fundamental values shared by all of us. While we hold deep respect and love for the game of chess that unites our community, these values must always come first.\" A philosopher comments.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/46764782/fide-world-cup-2025-all-need-know-chess-tournament-goa?device=featurephone",
          "pubDate" : "Wed, 29 Oct 2025 01:01:22",
          "title" : "FIDE World Cup 2025: All you need to know about chess tournament in Goa"
-      },
-      {
-         "description" : "This week's puzzles come from the first day of the Clutch Chess: Champions Showdown, currently taking place at the Saint Louis Chess Club. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-clutch-chess-champions-day-1",
-         "pubDate" : "Wed, 29 Oct 2025 00:00:00",
-         "title" : "Wednesday Workout: Clutch Chess Champions, Day 1"
       },
       {
          "description" : " ROUND 4 &#124; GAME 1 CARLSEN VS GUKESH RESULT: 1-0NAKAMURA VS CARUANA RESULT: 0-1 ROUND 4 &#124; GAME 2 GUKESH VS CARLSEN RESULT: 0-1CARUANA VS NAKAMURA RESULT: 0-1 ROUND 5 &#124; GAME 1 GUKESH VS NAKAMURA RESULT: &frac12;-&frac12;CARUANA VS CARLSEN RESULT: 1-0 ROUND 5 &#124; GAME 2 NAKAMURA VS GUKESH RESULT: &frac12;-&frac12;CARLSEN VS CARUANA RESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-2/\">POSTGAME DAY 2: Magnus Turns on the Afterburner | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
