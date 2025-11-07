@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Ian Nepomniachtchi was a world title challenger, Wesley So is ranked No 8, and Hans Niemann has huge ambition, but all lost to unheralded opponents The ongoing $2m, 206-player World Cup in Goa, India, has a brutal format designed to maximise the chance of shock results. Its knockout matches consist of the best of just two classical games, followed by rapid and blitz tiebreaks at increasingly fast speeds, then a final Armageddon game where White has more time but is obliged to win. The major incentive besides the prize money is three places in the 2026 Candidates, the pathway to the world title. The Russia No 1, Ian Nepomniachtchi, who twice played for the global crown, the USA's world No 8,",
+         "description" : "Save the dates: November 21-23, 2025, for our 31st edition of the Preparation of Teachers course - a golden opportunity to become a certified FIDE School Instructor! &#160; &#160; Conducted...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/31st-fide-preparation-of-teachers-course/",
+         "pubDate" : "Fri, 07 Nov 2025 11:23:03",
+         "title" : "31st FIDE Preparation of Teachers Course"
+      },
+      {
+         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
+         "pubDate" : "Fri, 07 Nov 2025 10:20:00",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125156575.cms\" />Divya Deshmukh clinched the Women's World Cup, becoming the first Indian to win the title. Meanwhile, seasoned campaigner Koneru Humpy took a well-deserved break to focus on family after the intense tournament. Humpy is now gearing up for a comeback in the Global Chess League and World Rapid and Blitz Championships.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-koneru-humpy-goes-awol-since-womens-world-cup-final-defeat-where-is-indias-chess-legend/articleshow/125156575.cms",
+         "pubDate" : "Fri, 07 Nov 2025 10:12:39",
+         "title" : "Exclusive | Humpy goes AWOL since WC final defeat: Where is she?"
+      },
+      {
+         "description" : " Ian Nepomniachtchi was a world title challenger, Wesley So is ranked No 8, and Hans Niemann has huge ambition, but all lost to unheralded opponents The $2m (&pound;1.5m), 206-player World Cup taking place in Goa, India, has a brutal format designed to maximise the chance of shock results. Its knockout matches consist of the best of just two classical games, followed by rapid and blitz tie-breaks at increasingly fast speeds, then a final Armageddon game where White has more time but is obliged to win. The major incentive besides the prize money is three places in the 2026 Candidates, the pathway to the world title. Ian ­Nepomniachtchi, the Russia No 1 who twice played for the global crown, t",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/nov/07/chess-russian-star-and-top-americans-fall-in-world-cup-but-adams-wins-10-game-epic",
@@ -50,7 +74,7 @@ news_feed (
          "title" : "Crowd on the top ahead of the last round of European Youth Chess Championship 2025"
       },
       {
-         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/fide-world-cup-2025\">FIDE World Cup</a> takes place in Goa, India, Sat 1st to Wed 26th Nov 2025. The second round concluded today, this round was where the event started in earnest, when the top seeds entered the fray. There has never been a shock winner of this event, but there are always surprise eliminations. Ian Nepomniachtchi, Wesley So and Hans Moke Niemann all would have fancied their chances against anyone but Diptayan Ghosh, Titas Stremavicius and Lorenzo Lodici all had different ideas. Santosh Gujrathi Vidit had a bit too much for wunderkind Faustino Oro, well known players Vassily Ivanchuk, David Navara, Ray Robson and Joha",
+         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/fide-world-cup-2025\">FIDE World Cup</a> takes place in Goa, India, Sat 1st to Wed 26th Nov 2025. The second round concluded today, this round was where the event started in earnest, when the top seeds entered the fray. There has never been a shock winner of this event, but there are always surprise eliminations. Ian Nepomniachtchi, Wesley So and Hans Moke Niemann all would have fancied their chances against anyone, but Diptayan Ghosh, Titas Stremavicius and Lorenzo Lodici all had different ideas. Santosh Gujrathi Vidit had a bit too much for wunderkind Faustino Oro, well known players Vasyl Ivanchuk, David Navara, Ray Robson and Johan",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/major-surprises-in-the-second-round-of-the-fide-world-cup",
@@ -512,14 +536,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/world-no-1-magnus-carlsen-triumphs-at-clutch-chess-champions-showdown/",
          "pubDate" : "Thu, 30 Oct 2025 15:39:35",
          "title" : "World No. 1 Magnus Carlsen Triumphs at Clutch Chess: Champions Showdown"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124954635.cms\" />Chennai's 16-year-old Ilamparthi AR has become India's 90th Grandmaster, achieving his final norm at the Bijeljina Open. He previously secured norms in Vietnam and Singapore, crossing the 2500 Elo mark. Nurtured by Velammal School and supported by initiatives, Ilamparthi trains under Viswanathan Anand's academy.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-boom-continues-16-year-old-ilamparthi-ar-becomes-indias-90th-grandmaster/articleshow/124954635.cms",
-         "pubDate" : "Thu, 30 Oct 2025 13:19:39",
-         "title" : "Chess boom continues! 16-year-old Ilamparthi becomes India's 90th GM"
       },
       {
          "description" : "GM Fabiano Caruana won an incredibly close match against GM Praggnanandhaa Rameshbabu to reach the Speed Chess Championship 2025 Quarterfinals, where he will face GM Magnus Carlsen. Only the bullet segment separated the two players, with Caruana b...",
