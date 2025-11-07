@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Ian Nepomniachtchi was a world title challenger, Wesley So is ranked No 8, and Hans Niemann has huge ambition, but all lost to unheralded opponents The ongoing $2m, 206-player World Cup in Goa, India, has a brutal format designed to maximise the chance of shock results. Its knockout matches consist of the best of just two classical games, followed by rapid and blitz tiebreaks at increasingly fast speeds, then a final Armageddon game where White has more time but is obliged to win. The major incentive besides the prize money is three places in the 2026 Candidates, the pathway to the world title. The Russia No 1, Ian Nepomniachtchi, who twice played for the global crown, the USA's world No 8,",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/nov/07/chess-russian-star-and-top-americans-fall-in-world-cup-but-adams-wins-10-game-epic",
+         "pubDate" : "Fri, 07 Nov 2025 08:00:21",
+         "title" : "Chess: Russian star and top Americans fall in World Cup but Adams wins 10-game epic"
+      },
+      {
+         "description" : " The Senior National Arbiter Seminar cum Examination was organized by the Chengalpattu District Chess Association on behalf of Tamil Nadu State Chess Association at",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-senior-national-arbiter-seminar-cum-examination-chennai-held-on-october-25-26-2025/",
+         "pubDate" : "Fri, 07 Nov 2025 07:52:37",
+         "title" : "Final Report: Senior National Arbiter Seminar cum Examination, Chennai held on October 25 & 26, 2025"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125151810.cms\" />Temur Kuybokarov missed a crucial opportunity to defeat R Praggnanandhaa in the World Cup chess, allowing the Indian to advance. Despite early setbacks for other Indian players, five out of eight, including Vidit Gujrathi, progressed to the third round. Praggnanandhaa narrowly escaped elimination after a tense tiebreak, surviving a near-fatal blunder.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnandhaa-survives-major-scare-advances-as-five-indians-reach-round-3-at-world-cup-chess/articleshow/125151810.cms",
+         "pubDate" : "Fri, 07 Nov 2025 07:17:38",
+         "title" : "R Praggnandhaa survives major scare, advances as five Indians reach Round 3 at World Cup chess"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125151632.cms\" />Reigning world junior champion Pranav V defeated his friend Aryan Tari from Norway 2.5-1.5 in rapid tiebreaks to advance to the third round of the World Cup. Pranav, the only Indian wildcard recipient to reach this stage, utilized a blunder by Tari to secure a crucial win.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-junior-title-is-one-thing-im-aiming-higher-now-pranav-v-enters-world-cup-third-round/articleshow/125151632.cms",
+         "pubDate" : "Fri, 07 Nov 2025 07:02:28",
+         "title" : "'World junior title is one thing, I'm aiming higher now': Pranav V enters World Cup third round"
+      },
+      {
          "description" : "Tension ran high in Goa on Thursday as the second round of the 2025 FIDE World Cup came to an end with a marathon day of tiebreaks. While several favourites advanced smoothly - including Nodirbek Abdusattorov, Shakhriyar Mamedyarov and Vidit Gujrathi - a string of surprises kept spectators on edge. Lorenzo Lodici's victory over Hans Niemann stood out, as lengthy matches and near upsets marked an eventful close to round two. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -482,14 +514,6 @@ news_feed (
          "title" : "World No. 1 Magnus Carlsen Triumphs at Clutch Chess: Champions Showdown"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124956789.cms\" />The 88th Tata Steel Chess Tournament in Wijk aan Zee, from January 16 to February 1, 2026, boasts its youngest-ever lineup with an average age of 23. Featuring four top-10 and ten top-30 players, the event promises a dynamic battle for the title. This prestigious tournament continues to solidify Wijk aan Zee as a global chess hub.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/no-magnus-carlsen-d-gukesh-to-headline-youngest-2026-masters-lineup-at-wimbledon-of-chess/articleshow/124956789.cms",
-         "pubDate" : "Thu, 30 Oct 2025 14:22:49",
-         "title" : "Wimbledon of Chess: No Carlsen! Gukesh to headline 2026 Masters lineup"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124954635.cms\" />Chennai's 16-year-old Ilamparthi AR has become India's 90th Grandmaster, achieving his final norm at the Bijeljina Open. He previously secured norms in Vietnam and Singapore, crossing the 2500 Elo mark. Nurtured by Velammal School and supported by initiatives, Ilamparthi trains under Viswanathan Anand's academy.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -520,14 +544,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2025",
          "pubDate" : "Thu, 30 Oct 2025 09:15:00",
          "title" : "FIDE World Cup 2025 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124935687.cms\" />Former World Champion Vladimir Kramnik has defended his actions regarding Daniel Naroditsky's death, stating he never accused the GM of cheating. Kramnik claims he presented \"serious material\" for examination, not baseless allegations, and believes a \"dirty PR campaign\" is targeting him. He asserts he bears no guilt and will present facts in court.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-never-accused-daniel-naroditsky-of-cheating-vladimir-kramnik-defends-himself-vows-legal-action/articleshow/124935687.cms",
-         "pubDate" : "Thu, 30 Oct 2025 05:25:57",
-         "title" : "'I never accused Daniel Naroditsky of cheating': Vladimir Kramnik defends himself, vows legal action"
       },
       {
          "description" : " ROUND 7 GAME 1 CARUANA VS NAKAMURA RESULT: &frac12;-&frac12;GUKESH VS CARLSEN RESULT: 0-1 GAME 2 NAKAMURA VS CARUANA RESULT: 0-1CARLSEN VS GUKESH RESULT: 1-0 ROUND 8 GAME 1 CARLSEN VS CARUANA RESULT: 1-0NAKAMURA VS GUKESH RESULT: &frac12;-&frac12; GAME 2 CARUANA VS CARLSEN RESULT: 0-1GUKESH VS NAKAMURA RESULT: 0-1 ROUND 9 GAME 1 CARUANA VS GUKESH [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-3/\">POSTGAME FINAL: Magnus Plays His Best Chess on Clutch Day! | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -856,22 +872,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-sna-seminar-on-6-7th-september-in-jammu/",
          "pubDate" : "Sat, 18 Oct 2025 08:18:09",
          "title" : "Certificate of SNA Seminar on 6-7th September in Jammu"
-      },
-      {
-         "description" : "Take a look at this position. In order to have any winning chances, White must clearly move his rook. There are nine squares it can safely occupy, but only one retains the win. Can you find it? Today we have four problems that will challenge your endgame skills. Try to solve them by moving pieces on our interactive diagrams. The video solutions will be provided in a week.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-endgame-challenge",
-         "pubDate" : "Fri, 17 Oct 2025 07:14:58",
-         "title" : "Chess Endgame Challenge"
-      },
-      {
-         "description" : " Igor Kovalenko, 36, the world No 48 with a Fide rating of 2669, has been a frontline soldier for three years and only began playing again a month ago Ukraine was the most successful nation at this week's European Team Championships, winning gold in the open event and silver in the women's. It also sparked one of the most memorable results of recent years, as Igor Kovalenko, a serving army soldier who played no chess for three years, won the individual gold on fourth board with 6.5/8, the best percentage of the entire tournament. Kovalenko's games included <a href=\"https://lichess.org/broadcast/european-team-chess-championship-2025--open/round-5/fpVuADRh/9PGx9Ybt\">a key win</a> against Serbi",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/oct/17/chess-ukraine-soldier-grandmaster-wins-gold-medal-at-european-team-championships",
-         "pubDate" : "Fri, 17 Oct 2025 07:00:05",
-         "title" : "Chess: Ukraine soldier grandmaster wins gold medal at European team championships"
       }
    ]
 }
