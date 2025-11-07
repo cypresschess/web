@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Tension ran high in Goa on Thursday as the second round of the 2025 FIDE World Cup came to an end with a marathon day of tiebreaks. While several favourites advanced smoothly - including Nodirbek Abdusattorov, Shakhriyar Mamedyarov and Vidit Gujrathi - a string of surprises kept spectators on edge. Lorenzo Lodici's victory over Hans Niemann stood out, as lengthy matches and near upsets marked an eventful close to round two. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-r2tb",
+         "pubDate" : "Fri, 07 Nov 2025 04:55:00",
+         "title" : "World Cup: Lodici knocks out Niemann, Svane and Adams win longest matches"
+      },
+      {
          "description" : "Only one round left to be played at the European Youth Chess Championship 2025 in Budva, Montenegro, and we'll soon crown the new Champions! Heading into the last round, many sections still have the unclear situation on the top, while the others have the sole leaders. Myron Netrebka (UKR) scores perfect 8/8 points and clinched gold in the Open U8 section with a round to spare! In Girls U8 category, Stella Zhu (FIN) emerged as the sole leader with 7.5 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -18,14 +26,6 @@ news_feed (
          "title" : "Major surprises in the second round of the FIDE World Cup - 2"
       },
       {
-         "description" : "Himank Ghosh conducted an interview with Vincent Keymer for ChessBase India after his victory over Vladislav Kovalev secured his place in the third round. Keymer said he was satisfied with his performance, but admitted, \"There is pressure, especially the pressure I put on myself!\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vincent-keymer-i-want-to-play-well",
-         "pubDate" : "Thu, 06 Nov 2025 18:31:28",
-         "title" : "Vincent Keymer: \"I want to play well\""
-      },
-      {
          "description" : "Please find certificates here. For any query please email at indianchessfed@gmail.com Rank Name 1 Iniyan Pa 2 Goutham Krishna H 3 Sasikiran Krishnan 4 Ayush",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -40,14 +40,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-gujrathi-outsmarts-12-year-old-prodigy-faustino-oro/articleshow/125137484.cms",
          "pubDate" : "Thu, 06 Nov 2025 15:26:50",
          "title" : "Chess World Cup: Vidit Gujrathi outsmarts 12-year-old prodigy Faustino Oro"
-      },
-      {
-         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Thu, 06 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "The European Corporate Chess Championship 2025, organised by Asnière Le Grand Echiquier under the auspices of the European Chess Union, will be held on 7-8 November in Asnieres sur Seine, Paris, France. The event gathers 54 corporate teams, including Google, PWC, KPMG, UBS, Bank of France, Dassault, Societe G&eacute;n&eacute;rale, Leonard, EBRD, Greco and others. The top seeded teams are Greco (Ukraine), Global Ramblers (Czech Republic), Agrofert (Bulgaria), Redia A/S (Austria), and TePe Sigeman (Sweden). The teams are represented by strong []",
