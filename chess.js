@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Only one round left to be played at the European Youth Chess Championship 2025 in Budva, Montenegro, and we'll soon crown the new Champions! Heading into the last round, many sections still have the unclear situation on the top, while the others have the sole leaders. Myron Netrebka (UKR) scores perfect 8/8 points and clinched gold in the Open U8 section with a round to spare! In Girls U8 category, Stella Zhu (FIN) emerged as the sole leader with 7.5 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/crowd-on-the-top-ahead-of-the-last-round-of-european-youth-chess-championship-2025/",
+         "pubDate" : "Fri, 07 Nov 2025 00:07:07",
+         "title" : "Crowd on the top ahead of the last round of European Youth Chess Championship 2025"
+      },
+      {
+         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/fide-world-cup-2025\">FIDE World Cup</a> takes place in Goa, India, Sat 1st to Wed 26th Nov 2025. The second round concluded today, this round was where the event started in earnest, when the top seeds entered the fray. There has never been a shock winner of this event, but there are always surprise eliminations. Ian Nepomniachtchi, Wesley So and Hans Moke Niemann all would have fancied their chances against anyone but Diptayan Ghosh, Titas Stremavicius and Lorenzo Lodici all had different ideas. Santosh Gujrathi Vidit had a bit too much for wunderkind Faustino Oro, well known players Vassily Ivanchuk, David Navara, Ray Robson and Joha",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/major-surprises-in-the-second-round-of-the-fide-world-cup",
+         "pubDate" : "Thu, 6 Nov 2025 21:12:00",
+         "title" : "Major surprises in the second round of the FIDE World Cup - 2"
+      },
+      {
+         "description" : "Himank Ghosh conducted an interview with Vincent Keymer for ChessBase India after his victory over Vladislav Kovalev secured his place in the third round. Keymer said he was satisfied with his performance, but admitted, \"There is pressure, especially the pressure I put on myself!\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vincent-keymer-i-want-to-play-well",
+         "pubDate" : "Thu, 06 Nov 2025 18:31:28",
+         "title" : "Vincent Keymer: \"I want to play well\""
+      },
+      {
          "description" : "Please find certificates here. For any query please email at indianchessfed@gmail.com Rank Name 1 Iniyan Pa 2 Goutham Krishna H 3 Sasikiran Krishnan 4 Ayush",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "European Corporate Chess Championship 2025 stars in Paris"
       },
       {
-         "description" : "There are 64 players heading into round three of the 2025 FIDE World Cup after round two tiebreaks, where another 27 players were eliminated on Thursday. The upset of the day was GM Lorenzo Lodici&#39;s (2572) match win against GM Hans Niemann (2729)....",
+         "description" : "There are 64 players heading into round three of the 2025 FIDE World Cup. In round two tiebreaks this Thursday, 27 players were eliminated. The upset of the day was GM Lorenzo Lodici&#39;s (2572) match win against GM Hans Niemann (2729). Another match...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-2-tiebreaks",
@@ -58,20 +82,12 @@ news_feed (
          "title" : "Unseeded Diptayan Ghosh knocks out two-time Candidates champion Ian Nepo in Goa"
       },
       {
-         "description" : "The first major upsets of the 2025 FIDE World Cup occurred on Wednesday in Goa, as three players rated over 2700 were eliminated from the competition. Wesley So, Ian Nepomniachtchi and Aravindh Chithambaram were all knocked out by lower-seeded opponents - Titas Stremavicius, Diptayan Ghosh and Karthik Venkataraman, respectively. With 37 matches already decided, the remaining 27 will be settled in Thursday's tiebreaks, promising a tense conclusion to round two. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-r2g2",
-         "pubDate" : "Thu, 06 Nov 2025 03:10:00",
-         "title" : "World Cup: Nepo and So knocked out, Harikrishna scores brilliant win"
-      },
-      {
-         "description" : "In international correspondence chess tournaments, the number of draws has increased significantly over the last few decades due to the tools used, and is now approaching 100%. But not all draws are the same. An alternative scoring system is now to be tested for the first time in a high-class correspondence chess tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/not-all-draws-are-the-same",
-         "pubDate" : "Wed, 05 Nov 2025 18:00:00",
-         "title" : "Not all draws are the same"
+         "description" : "After six days, two weeks, and countless upsets at the 2025 FIDE World Cup (read our preview, which describes the format, here), only five Americans (out of 12) have made it to the final 64 in Goa, India: GMs Levon Aronian (seeded 15th), Awonder Liang (21st), Samuel Sevian (23rd), Sam Shankland (46th), and Jeffery Xiong (52nd). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Aronian analyzes a wild game in the broadcast studio. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> Aronian - who enters Round 3 as the top-rated American left standing - defeated Indian IM Aronyak Ghosh 1&frac12;-&frac12; after some dazzling attacking chess in their firs",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/five-americans-remain-world-cup-after-two-rounds",
+         "pubDate" : "Thu, 06 Nov 2025 00:00:00",
+         "title" : "Five Americans Remain in World Cup After Two Rounds"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125113890.cms\" />Indian Grandmaster Diptayan Ghosh achieved a monumental upset at the World Chess Cup, defeating former world championship challenger Ian Nepomniachtchi. Ghosh capitalized on his opponent's errors to secure a memorable victory. Following the match, Nepomniachtchi's online comments about the conditions drew significant criticism from fans, while other Indian players also progressed.",
@@ -522,14 +538,6 @@ news_feed (
          "title" : "'I never accused Daniel Naroditsky of cheating': Vladimir Kramnik defends himself, vows legal action"
       },
       {
-         "description" : "The month-long festivities continued at the newly renovated Saint Louis Chess Club (SLCC) from October 27 through 29 for the Clutch Chess: Champions Showdown, featuring reigning U.S. Champion GM Fabiano Caruana, World Number Two GM Hikaru Nakamura, former World Champion GM Magnus Carlsen, and reigning World Champion GM Gukesh Dommaraju. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The Champions (All photos courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> Much like GM Garry Kasparov at the Clutch Chess: Legends before the U.S. Championships, Carlsen left no doubt about who was in the best form, clinching his tournament victory with two games remaining",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/carlsen-comes-clutch-champions-showdown-st-louis",
-         "pubDate" : "Thu, 30 Oct 2025 00:00:00",
-         "title" : "Carlsen Comes Up Clutch at Champions Showdown in St. Louis"
-      },
-      {
          "description" : " ROUND 7 GAME 1 CARUANA VS NAKAMURA RESULT: &frac12;-&frac12;GUKESH VS CARLSEN RESULT: 0-1 GAME 2 NAKAMURA VS CARUANA RESULT: 0-1CARLSEN VS GUKESH RESULT: 1-0 ROUND 8 GAME 1 CARLSEN VS CARUANA RESULT: 1-0NAKAMURA VS GUKESH RESULT: &frac12;-&frac12; GAME 2 CARUANA VS CARLSEN RESULT: 0-1GUKESH VS NAKAMURA RESULT: 0-1 ROUND 9 GAME 1 CARUANA VS GUKESH [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-3/\">POSTGAME FINAL: Magnus Plays His Best Chess on Clutch Day! | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-9/",
          "pubDate" : "Wed, 22 Oct 2025 23:12:12",
          "title" : "POSTGAME ROUND 9 | #USChessChamps"
-      },
-      {
-         "description" : "Four rounds have been already played at the European Chess Club Cup 2025 in Rhodes, Greece! Three teams emerged on the top of the Open section scoring maximum 8 match points: Alkaloid from North Macedonia, SuperChess from Romania, and Novy Bor from Czech Republic, while Cercle d'Echecs de Monte-Carlo emerged as the sole leader of the Women's event as the only team with the perfect score. North Macedonian team Alkaloid scored a 4-2 win today against Vugar Gashimov team from []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-club-cup-2025-passes-the-halfway-mark/",
-         "pubDate" : "Wed, 22 Oct 2025 20:27:11",
-         "title" : "European Chess Club Cup 2025 passes the halfway mark"
       },
       {
          "description" : "The ECF will be running two courses on the 15th and 16th November as follows &#8212; A Swiss Manager course on Saturday 15th November, starting at 10am and lasting until...",
