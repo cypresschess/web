@@ -42,7 +42,7 @@ news_feed (
          "title" : "Exclusive | Humpy goes AWOL since WC final defeat: Where is she?"
       },
       {
-         "description" : " Ian Nepomniachtchi was a world title challenger, Wesley So is ranked No 8, and Hans Niemann has huge ambition, but all lost to unheralded opponents The $2m (&pound;1.5m), 206-player World Cup taking place in Goa, India, has a brutal format designed to maximise the chance of shock results. Its knockout matches consist of the best of just two classical games, followed by rapid and blitz tie-breaks at increasingly fast speeds, then a final Armageddon game where White has more time but is obliged to win. The major incentive besides the prize money is three places in the 2026 Candidates, the pathway to the world title. Ian ­Nepomniachtchi, the Russia No 1 who twice played for the global crown, t",
+         "description" : " Ian Nepomniachtchi was a world title challenger, Wesley So is ranked No 8, and Hans Niemann has huge ambition, but all lost to unheralded opponents The $2m (&pound;1.5m), 206-player World Cup taking place in Goa, India, has a brutal format designed to maximise the chance of shock results. Its knockout matches consist of the best of just two classical games, followed by rapid and blitz tie-breaks at increasingly fast speeds, then a final Armageddon game where White has more time but is obliged to win. The major incentive besides the prize money is three places in the 2026 Candidates, the pathway to the world title. Ian Nepomniachtchi, the Russia No 1 who twice played for the global crown, th",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/nov/07/chess-russian-star-and-top-americans-fall-in-world-cup-but-adams-wins-10-game-epic",
@@ -58,11 +58,11 @@ news_feed (
          "title" : "Final Report: Senior National Arbiter Seminar cum Examination, Chennai held on October 25 & 26, 2025"
       },
       {
-         "description" : "GM Jose Martinez (2644) scored the upset of the day in game one of round three in the 2025 FIDE World Cup. His opponent, GM Nodirbek Abdusattorov (2750), played a creative and strong exchange sacrifice to achieve a large advantage, but the Mexican...",
+         "description" : "GM Jose Martinez (2644) scored the upset of the day in game one of round three in the 2025 FIDE World Cup. His opponent, world number-15 GM Nodirbek Abdusattorov (2750), played a creative and strong exchange sacrifice to achieve a large advantage,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-3-game-1",
-         "pubDate" : "Fri, 07 Nov 2025 07:41:29",
+         "pubDate" : "Fri, 07 Nov 2025 07:41:00",
          "title" : "Martinez Upsets Abdusattorov With Black Pieces"
       },
       {
@@ -154,7 +154,7 @@ news_feed (
          "title" : "Unseeded Diptayan Ghosh knocks out two-time Candidates champion Ian Nepo in Goa"
       },
       {
-         "description" : "After six days, two weeks, and countless upsets at the 2025 FIDE World Cup (read our preview, which describes the format, here), only five Americans (out of 12) have made it to the final 64 in Goa, India: GMs Levon Aronian (seeded 15th), Awonder Liang (21st), Samuel Sevian (23rd), Sam Shankland (46th), and Jeffery Xiong (52nd). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Aronian analyzes a wild game in the broadcast studio. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> Aronian - who enters Round 3 as the top-rated American left standing - defeated Indian IM Aronyak Ghosh 1&frac12;-&frac12; after some dazzling attacking chess in their firs",
+         "description" : "After six days, two rounds, and countless upsets at the 2025 FIDE World Cup (read our preview, which describes the format, here), only five Americans (out of 12) have made it to the final 64 in Goa, India: GMs Levon Aronian (seeded 15th), Awonder Liang (21st), Samuel Sevian (23rd), Sam Shankland (46th), and Jeffery Xiong (52nd). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Aronian analyzes a wild game in the broadcast studio. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> Aronian - who enters Round 3 as the top-rated American left standing - defeated Indian IM Aronyak Ghosh 1&frac12;-&frac12; after some dazzling attacking chess in their fir",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/five-americans-remain-world-cup-after-two-rounds",
