@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125165647.cms\" />Drama unfolded at the FIDE World Cup as Indian prodigy Pranav V faced a complaint from Grandmaster Titas Stremavicius for failing to record moves. After a brief interruption and a warning, Pranav secured a victory. Meanwhile, Arjun Erigaisi and P. Harikrishna delivered strong wins, while D. Gukesh drew his match.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/drama-at-chess-world-cup-lithuanias-gm-raises-complaint-against-indias-pranav-v-heres-what-happened/articleshow/125165647.cms",
+         "pubDate" : "Fri, 07 Nov 2025 16:23:33",
+         "title" : "Drama at Chess WC! Lithuania GM complaints against India's Pranav"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125165169.cms\" />Indian Grandmasters Arjun Erigaisi and P Harikrishna secured impressive victories in the FIDE World Cup 2025's third round. Erigaisi dominated his opponent in just 30 moves, while Harikrishna surprised with a sharp Sicilian Classical variation, forcing a quick resignation.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-2025-arjun-erigaisi-harikrishna-shine-as-gukesh-held-to-draw-in-round-3-opener/articleshow/125165169.cms",
+         "pubDate" : "Fri, 07 Nov 2025 15:45:10",
+         "title" : "Chess WC: Arjun Erigaisi, Harikrishna shine as Gukesh held to draw in Round 3 opener"
+      },
+      {
          "description" : "Save the dates: November 21-23, 2025, for our 31st edition of the Preparation of Teachers course - a golden opportunity to become a certified FIDE School Instructor! &#160; &#160; Conducted...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://aicf.in/final-report-senior-national-arbiter-seminar-cum-examination-chennai-held-on-october-25-26-2025/",
          "pubDate" : "Fri, 07 Nov 2025 07:52:37",
          "title" : "Final Report: Senior National Arbiter Seminar cum Examination, Chennai held on October 25 & 26, 2025"
+      },
+      {
+         "description" : "GM Jose Martinez (2644) scored the upset of the day in game one of round three in the 2025 FIDE World Cup. His opponent, GM Nodirbek Abdusattorov (2750), played a creative and strong exchange sacrifice to achieve a large advantage, but the Mexican...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-3-game-1",
+         "pubDate" : "Fri, 07 Nov 2025 07:41:29",
+         "title" : "Martinez Upsets Abdusattorov With Black Pieces"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125151810.cms\" />Temur Kuybokarov missed a crucial opportunity to defeat R Praggnanandhaa in the World Cup chess, allowing the Indian to advance. Despite early setbacks for other Indian players, five out of eight, including Vidit Gujrathi, progressed to the third round. Praggnanandhaa narrowly escaped elimination after a tense tiebreak, surviving a near-fatal blunder.",
@@ -490,14 +514,6 @@ news_feed (
          "title" : "Chess: Magnus Carlsen triumphs at historic Champions Showdown in St Louis"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124987653.cms\" />The World Cup in Goa highlights the tournament's history of producing surprise semifinalists. This year's event features a strong contingent of young prodigies, many under 18, aiming to make their mark. Players like Abhimanyu Mishra, Yagiz Kaan, Andy Woodward, and Faustino Oro are among the notable young talents to watch in the $2m prize money event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-watch-out-for-surprises-and-young-masters/articleshow/124987653.cms",
-         "pubDate" : "Fri, 31 Oct 2025 07:12:20",
-         "title" : "Chess World Cup: Watch out for surprises and young masters"
-      },
-      {
          "description" : "The FIDE World Cup in Goa is Gukesh's first event at home in India since becoming world champion last year.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -544,14 +560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-r16-caruana-praggnanandhaa",
          "pubDate" : "Thu, 30 Oct 2025 13:05:00",
          "title" : "Caruana Edges Praggnanandhaa By 1 Point, Advances To Face Carlsen"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124946134.cms\" />Hailing from Karaikudi, 18-year-old Pranesh M, India's 79th Grandmaster, defied limited resources to achieve chess stardom. Learning from borrowed books and handwritten notes, his dedication, coupled with the unwavering support of coach RB Ramesh and his parents, propelled him to the Chess World Cup. Pranesh's journey highlights that talent thrives beyond fancy setups.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-pranesh-m-son-of-anganwadi-worker-carrying-hopes-of-indias-record-contingent-at-chess-world-cup/articleshow/124946134.cms",
-         "pubDate" : "Thu, 30 Oct 2025 10:36:32",
-         "title" : "Exclusive | Son of anganwadi worker carries India's WC hopes: Pranesh"
       },
       {
          "description" : " The FIDE World Cup takes place in Goa, India, Sat 1st to Wed 26th Nov 2025. Players include: World Champion Gukesh, Erigaisi, Praggnanandhaa, Giri, So, Keymer, Wei Yi, Abdusattorov, Mamedyarov, Niemann, MVL, Nepomniachtchi, Le, Rapport, Aronian etc. It is a seven round knockout but the top 50 players only enter the competition in round 2 alongside the 78 winners of Round 1. The top three finishers will qualify for the Candidates tournament although players such as Gukesh and Giri and Caruana don't require this and the extra place will be awarded to \"another path\" in the qualification system. The <a href=\"https://theweekinchess.com/chessnews/events/fide-womens-world-cup-2025\">Women's World C",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-clutch-chess-champions-showdown-day-2",
          "pubDate" : "Tue, 28 Oct 2025 16:12:00",
          "title" : "Carlsen Leads, Caruana Sprints To 2nd From Last"
-      },
-      {
-         "description" : "The field for the legendary 2026 Tata Steel Chess Masters was unveiled today, featuring an exciting young line-up headlined by the reigning World Champion, 19-year-old Gukesh Dommaraju. At the other end of the spectrum is 31-year-old GM Anish Giri...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gukesh-heads-youngest-2026-tata-steel-masters-field",
-         "pubDate" : "Tue, 28 Oct 2025 16:11:00",
-         "title" : "Gukesh Heads Youngest Ever Field For 2026 Tata Steel Chess Masters"
       },
       {
          "description" : " ROUND 1 &#124; GAME 1 CARUANA VS NAKAMURA RESULT: 1-0GUKESH VS CARLSEN RESULT: 0-1 ROUND 1 &#124; GAME 2 NAKAMURA VS CARUANA RESULT: 1-0CARLSEN VS GUKESH RESULT: &frac12;-&frac12; ROUND 2 &#124; GAME 1 CARLSEN VS CARUANA RESULT: &frac12;-&frac12;NAKAMURA VS GUKESH RESULT: 0-1 ROUND 2 &#124; GAME 2 CARUANA VS CARLSEN RESULT: 0-1GUKESH VS NAKAMURA RESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-1/\">POSTGAME DAY 1: Gukesh Smashes Fabi! | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
