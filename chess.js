@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Dorian Rogozenco explains how coaches can use ChessBase to analyse and improve both their students' and their own games. By creating a database of a player's games and generating a Style Report, one can quickly identify strengths and weaknesses-such as low aggressiveness or strong theoretical play. Using the search mask in the Mega Database, coaches can then find instructive games that target specific themes (like king attacks or positional play) and build customized training material. Rogozenco emphasizes combining personal experience with ChessBase's tools to create effective, theme-based lessons that develop a player's strategic understanding and practical skill.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-to-coach-with-chessbase-dorian-rogozenco-master-your-chess-with-chessbase-tools",
+         "pubDate" : "Sat, 08 Nov 2025 19:00:00",
+         "title" : "How to coach with ChessBase - Dorian Rogozenco: Master Your Chess with ChessBase Tools"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125187146.cms\" />Four Indian chess stars have reached the fourth round of the FIDE World Cup 2025. R Praggnanandhaa, Arjun Erigaisi, and Pranav V secured their spots. However, World Champion Gukesh D faced elimination. Several other Indian players will compete in tiebreaks. The tournament features top players from around the globe vying for the Viswanathan Anand Cup.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -38,8 +46,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-3-game-2",
-         "pubDate" : "Sat, 08 Nov 2025 07:15:53",
-         "title" : "Frederik Svane Eliminates World Champion; Giri, Abdusattorov Also Out"
+         "pubDate" : "Sat, 08 Nov 2025 07:15:00",
+         "title" : "World Champion Gukesh Eliminated By Frederik Svane; Giri, Abdusattorov Also Out"
       },
       {
          "description" : "\"The perfect sacrifice is every chess player's dream,\" says Grandmaster Krishnan Sasikiran in the description of his Fritz Trainer! But when exactly is a sacrifice perfect? How can you correctly assess and evaluate sacrifice ideas, and how can you handle them when complications arise? The Grandmaster from India now wants to show ambitious chess players the answer to this question with his Fritz Trainer. Lukas K&ouml;pl has summarised the essence of the Fritz Trainer in his review.",
