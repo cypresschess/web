@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125187146.cms\" />Four Indian chess stars have reached the fourth round of the FIDE World Cup 2025. R Praggnanandhaa, Arjun Erigaisi, and Pranav V secured their spots. However, World Champion Gukesh D faced elimination. Several other Indian players will compete in tiebreaks. The tournament features top players from around the globe vying for the Viswanathan Anand Cup.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-d-gukesh-out-world-champion-suffers-elimination-top-seeded-foreigner-anish-giri-too-exits/articleshow/125187146.cms",
+         "pubDate" : "Sat, 08 Nov 2025 15:21:08",
+         "title" : "Chess WC: Gukesh out! Top-seeded foreigner Anish Giri too exits"
+      },
+      {
+         "description" : "Imagine going into school and on day 1, your teacher is telling you everything you will have to learn in the next 9 years. Then, for each subject, the teacher picks the 30 main things you'll have to learn, writes them each on a piece of paper, and lets you pick blindly what will be []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/chess-study-system/",
+         "pubDate" : "Sat, 08 Nov 2025 14:00:00",
+         "title" : "Sequential Learning"
+      },
+      {
+         "description" : "Slow but sure has always been a reliable motto in chess, and it is fitting that it is also the motto of the Snail Club, based at London's L'Escargot restaurant. There is a certain appropriateness to the phrase, for the history of chess in London itself, and of Howard Staunton in particular, is a story []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/slow-but-sure-howard-stauntons-legacy/",
+         "pubDate" : "Sat, 08 Nov 2025 12:39:14",
+         "title" : "Slow but sure: Howard Staunton's legacy"
+      },
+      {
          "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2025-live",
          "pubDate" : "Sat, 08 Nov 2025 10:20:00",
          "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "Upsets continue to stream in at a staggering rate in round three of the 2025 FIDE World Cup. Several 2700+ grandmasters were eliminated after the second classical game: World Champion Gukesh Dommaraju eliminated by Frederik Svane&#38;nbsp; GM Ani...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-3-game-2",
+         "pubDate" : "Sat, 08 Nov 2025 07:15:53",
+         "title" : "Frederik Svane Eliminates World Champion; Giri, Abdusattorov Also Out"
       },
       {
          "description" : "\"The perfect sacrifice is every chess player's dream,\" says Grandmaster Krishnan Sasikiran in the description of his Fritz Trainer! But when exactly is a sacrifice perfect? How can you correctly assess and evaluate sacrifice ideas, and how can you handle them when complications arise? The Grandmaster from India now wants to show ambitious chess players the answer to this question with his Fritz Trainer. Lukas K&ouml;pl has summarised the essence of the Fritz Trainer in his review.",
@@ -514,14 +546,6 @@ news_feed (
          "title" : "Saleh Plays Attack Of The Day, Favorites Prevail In Game 1"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125010310.cms\" />World No. 1 Magnus Carlsen will not compete in the FIDE Chess World Cup 2025 in Goa, India. Citing motivational issues and a disinterest in long-format classical games, the five-time world champion has withdrawn from pursuing the classical title again. Carlsen is now focusing on faster chess formats and esports.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-chess-world-cup-2025-why-is-world-no-1-magnus-carlsen-not-playing-in-goa/articleshow/125010310.cms",
-         "pubDate" : "Sat, 01 Nov 2025 05:59:32",
-         "title" : "Chess WC: Why is Magnus Carlsen not playing in Goa?"
-      },
-      {
          "description" : "Three rounds have been already played at the European Youth Chess Championship 2025 in Budva, Montenegro. After three intense rounds, only 71 of nearly 1200 participants have managed to preserve a perfect score of three points, underscoring the fierce level of competition across all sections. Two players tie for the top in Open U18 section; Open U16 and Open U12 categories each have six co-leaders, while seven players are tied for first place in both Open U14 and Open U10 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -648,14 +672,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-wins-2025-clutch-chess-champions-showdown",
          "pubDate" : "Wed, 29 Oct 2025 14:03:00",
          "title" : "Carlsen Wins Clutch Chess With 2 Games To Spare"
-      },
-      {
-         "description" : "In a new study, researchers at Google DeepMind have created an AI system capable of generating creative chess puzzles, some of which impressed experts in chess compositions. The 75-page study titled &#34;Generative Chess Puzzles,&#34; was led by Google&#39;...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ai-learns-to-create-original-chess-puzzles-earns-praise-from-grandmasters",
-         "pubDate" : "Wed, 29 Oct 2025 11:49:42",
-         "title" : "DeepMind's AI Learns To Create Original Chess Puzzles, Praised By GMs"
       },
       {
          "description" : "The Annual General Meeting of the ECF was held on 25th October in Birmingham and via video conference.&#160;Please note that the agenda and all the reports can be found on...",
@@ -880,22 +896,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-7/",
          "pubDate" : "Sun, 19 Oct 2025 22:53:33",
          "title" : "POSTGAME ROUND 7: Caruana's BIG TIME Win Over Hans! #USChessChamps"
-      },
-      {
-         "description" : "There are four stages to chess improvement. Most players get stuck in one of the earlier stages. Or try to go to stage 4 without any preparation. Which usually leads to disaster. Curious about the stages? I'm sure you'll resonate with some of those: Stage 1: Random Improvements You get into chess and just wing []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/stages-of-chess-improvement/",
-         "pubDate" : "Sat, 18 Oct 2025 13:00:00",
-         "title" : "The Four Stages Of Chess Improvement"
-      },
-      {
-         "description" : "The Caro-Kann defence suffers from a somewhat pacifist reputation when compared with the famously combative Sicilian, but this reputation is unfair. Several world champions have played the Caro-Kann to win as Black, notably Capablanca, Botvinnik, Smyslov, Petrosian, Karpov and even Kasparov. It should also be observed for Sicilian devotees that after 1. e4 c5, the continuation []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/how-i-beat-tal-the-caro-can/",
-         "pubDate" : "Sat, 18 Oct 2025 12:50:36",
-         "title" : " How I beat Tal: the Caro can"
       }
    ]
 }
