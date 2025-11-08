@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
+         "pubDate" : "Sat, 08 Nov 2025 10:20:00",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
          "description" : "\"The perfect sacrifice is every chess player's dream,\" says Grandmaster Krishnan Sasikiran in the description of his Fritz Trainer! But when exactly is a sacrifice perfect? How can you correctly assess and evaluate sacrifice ideas, and how can you handle them when complications arise? The Grandmaster from India now wants to show ambitious chess players the answer to this question with his Fritz Trainer. Lukas K&ouml;pl has summarised the essence of the Fritz Trainer in his review.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/31st-fide-preparation-of-teachers-course/",
          "pubDate" : "Fri, 07 Nov 2025 11:23:03",
          "title" : "31st FIDE Preparation of Teachers Course"
-      },
-      {
-         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Fri, 07 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125156575.cms\" />Divya Deshmukh clinched the Women's World Cup, becoming the first Indian to win the title. Meanwhile, seasoned campaigner Koneru Humpy took a well-deserved break to focus on family after the intense tournament. Humpy is now gearing up for a comeback in the Global Chess League and World Rapid and Blitz Championships.",
