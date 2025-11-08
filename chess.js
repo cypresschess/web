@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"The perfect sacrifice is every chess player's dream,\" says Grandmaster Krishnan Sasikiran in the description of his Fritz Trainer! But when exactly is a sacrifice perfect? How can you correctly assess and evaluate sacrifice ideas, and how can you handle them when complications arise? The Grandmaster from India now wants to show ambitious chess players the answer to this question with his Fritz Trainer. Lukas K&ouml;pl has summarised the essence of the Fritz Trainer in his review.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-the-art-of-sacrificing-by-krishnan-sasikiran",
+         "pubDate" : "Sat, 08 Nov 2025 07:00:00",
+         "title" : "Review: \"The Art of Sacrificing\" by Krishnan Sasikiran"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125180233.cms\" />As one of the most creative and unpredictable players in modern chess history, Vasyl Ivanchuk of Ukraine, born in 1969, became a Grandmaster in 1988 and quickly rose to the elite level. Known for his deep understanding and vast opening repertoire, he defeated nearly every world champion of his era, including Magnus Carlsen, to lift the world rapid chess title in 2016.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/being-dramatic-is-a-kind-of-addiction-vasyl-ivanchuk/articleshow/125180233.cms",
+         "pubDate" : "Sat, 08 Nov 2025 06:58:29",
+         "title" : "Being dramatic is a kind of addiction: Vasyl Ivanchuk"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125180114.cms\" />While Pranav played a marathon 102-move game to prevail over Titas in the 5 hours, 36 minutes contest in the third-round opener, second seed Arjun Erigaisi and experienced Harikrishna Pentala won their respective games with white pieces on a day dominated by Indian masters.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pranav-v-shines-again-102-move-marathon-sees-him-take-lead-in-world-cup-round-3/articleshow/125180114.cms",
+         "pubDate" : "Sat, 08 Nov 2025 06:50:32",
+         "title" : "Pranav V shines again: 102-move marathon sees him take lead in World Cup Round 3"
+      },
+      {
          "description" : "The European Youth Chess Championship 2025 concluded this evening in Budva, Montenegro. The Closing ceremony of the event took place in the playing venue with the attendance of ECU President Mr. Zurab Azmaiparashvili, President of the Montenegro Chess Federation Mr. Jovan Milovic, ECU Honorary Vice President Mr. Veselin Draskovic, Secretary of the ECU Events Commission Ms. Nina Rob, Secretary of the ECU Arbiters Coucil Mr. Geert Bailleul and other distinguished guests. Nearly 1200 players from 48 European federations competed in []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-youth-chess-champions-2025-crowned-in-budva-montenegro/",
          "pubDate" : "Sat, 08 Nov 2025 00:27:46",
          "title" : "European Youth Chess Champions 2025 crowned in Budva, Montenegro"
+      },
+      {
+         "description" : "FIDE has announced that the World Women's Team Championship will take place in Linares, Spain, from 17 to 24 November. The event will feature 12 national teams, including China, India, the United States and the host nation Spain. With top players such as Hou Yifan, Carissa Yip and Sarasadat Khademalsharieh expected to compete, the championship promises a strong field in a city long associated with elite chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-women-team-ch-2025",
+         "pubDate" : "Fri, 07 Nov 2025 21:00:00",
+         "title" : "Lineups for World Women's Team Championship announced: Hou Yifan to play on the top board for China"
       },
       {
          "description" : "GM Magnus Carlsen may have been the favorite before the games started, but GM Oleksandr Bortnyk convincingly won his fifth Freestyle Friday tournament 9.5/11, a full point ahead of the former world champion and GM Dmitry Andreikin. With 83 partici...",
@@ -490,28 +522,12 @@ news_feed (
          "title" : "Chess WC: Why is Magnus Carlsen not playing in Goa?"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125010152.cms\" />India hosts the Knockout World Cup in Goa, featuring a record 24 Indian players, including chess prodigies D Gukesh and R Praggnanandhaa. Gukesh, the reigning world champion, aims to solidify his title, while Pragg seeks to maintain his strong FIDE Circuit performance. The tournament format involves intense knockout matches with classical and rapid tiebreaks, promising thrilling chess action.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-different-orbits-of-gukesh-and-praggnanandhaa/articleshow/125010152.cms",
-         "pubDate" : "Sat, 01 Nov 2025 04:59:28",
-         "title" : "FIDE World Cup: Different orbits of Gukesh and Praggnanandhaa"
-      },
-      {
          "description" : "Three rounds have been already played at the European Youth Chess Championship 2025 in Budva, Montenegro. After three intense rounds, only 71 of nearly 1200 participants have managed to preserve a perfect score of three points, underscoring the fierce level of competition across all sections. Two players tie for the top in Open U18 section; Open U16 and Open U12 categories each have six co-leaders, while seven players are tied for first place in both Open U14 and Open U10 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-youth-chess-championship-2025-round-3-recap/",
          "pubDate" : "Fri, 31 Oct 2025 22:13:14",
          "title" : "European Youth Chess Championship 2025 - Round 3 recap"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/124996884.cms\" />Goa, India, is host the FIDE Chess World Cup 2025 from October 31 to November 27. World champion D Gukesh leads a strong 24-member Indian contingent, with Arjun Erigaisi and R Praggnanandhaa seeded second and third. The tournament offers qualifying spots for the Candidates 2026, with the top three advancing.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-chess-world-cup-live-streaming-when-and-where-to-watch-d-gukesh-divya-deshmukh-battle-in-goa/articleshow/124996884.cms",
-         "pubDate" : "Fri, 31 Oct 2025 14:18:49",
-         "title" : "FIDE Chess World Cup Live Streaming: When and where to watch?"
       },
       {
          "description" : "On a Halloween edition of Freestyle Friday,&#38;nbsp;GM Hikaru Nakamura scored a victory on October 31 after missing the past few tournaments. Nakamura was 1.5 points behind the lead after five rounds, but with the tenacity akin to a horror movie anta...",
@@ -880,14 +896,6 @@ news_feed (
          "link" : "https://www.thearticle.com/how-i-beat-tal-the-caro-can/",
          "pubDate" : "Sat, 18 Oct 2025 12:50:36",
          "title" : " How I beat Tal: the Caro can"
-      },
-      {
-         "description" : "Please find certificates below Sl No. &#160;Name 1 Arvindu 2 Vipin Singh 3 Vivek Kumar Gupta 4 Shiv Grover 5 Aditi Sharma 6 Gagan Preet",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-sna-seminar-on-6-7th-september-in-jammu/",
-         "pubDate" : "Sat, 18 Oct 2025 08:18:09",
-         "title" : "Certificate of SNA Seminar on 6-7th September in Jammu"
       }
    ]
 }
