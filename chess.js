@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Youth Chess Championship 2025 concluded this evening in Budva, Montenegro. The Closing ceremony of the event took place in the playing venue with the attendance of ECU President Mr. Zurab Azmaiparashvili, President of the Montenegro Chess Federation Mr. Jovan Milovic, ECU Honorary Vice President Mr. Veselin Draskovic, Secretary of the ECU Events Commission Ms. Nina Rob, Secretary of the ECU Arbiters Coucil Mr. Geert Bailleul and other distinguished guests. Nearly 1200 players from 48 European federations competed in []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-champions-2025-crowned-in-budva-montenegro/",
+         "pubDate" : "Sat, 08 Nov 2025 00:27:46",
+         "title" : "European Youth Chess Champions 2025 crowned in Budva, Montenegro"
+      },
+      {
+         "description" : "GM Magnus Carlsen may have been the favorite before the games started, but GM Oleksandr Bortnyk convincingly won his fifth Freestyle Friday tournament 9.5/11, a full point ahead of the former world champion and GM Dmitry Andreikin. With 83 partici...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-november-7-2025",
+         "pubDate" : "Fri, 07 Nov 2025 19:49:00",
+         "title" : "Bortnyk Wins Freestyle Friday For 5th Time"
+      },
+      {
+         "description" : "IM Levy Rozman stunned more than 200,000 of his opponents&#38;nbsp;and &#34;did the meme&#34; in GothamChess vs. the World on November 7 by sacrificing his rook on the game&#39;s 21st move. After the world attacked Gotham&#39;s rook with a pawn, the internet chess st...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gothamchess-sacrifices-the-rooook-vs-world",
+         "pubDate" : "Fri, 07 Nov 2025 18:59:00",
+         "title" : "GothamChess Sacrifices 'The Rooook' Vs. World"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125165647.cms\" />Drama unfolded at the FIDE World Cup as Indian prodigy Pranav V faced a complaint from Grandmaster Titas Stremavicius for failing to record moves. After a brief interruption and a warning, Pranav secured a victory. Meanwhile, Arjun Erigaisi and P. Harikrishna delivered strong wins, while D. Gukesh drew his match.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -626,14 +650,6 @@ news_feed (
          "title" : "ECF Annual General Meeting 25th October 2025"
       },
       {
-         "description" : "The reigning champions of the Collegiate Chess League (CCL), Saint Louis University&#38;nbsp;(SLU), have a difficult path to defending their title. They have lost a match already, and have not yet played the other finalist from last season, the Univer...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-ccl-fall-week-5-slu-srm",
-         "pubDate" : "Wed, 29 Oct 2025 06:17:00",
-         "title" : "SLU Shows Class, Defeats SRM"
-      },
-      {
          "description" : "With defending champion Magnus Carlsen missing, who can win the Chess World Cup 2025?",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -656,14 +672,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-2/",
          "pubDate" : "Tue, 28 Oct 2025 21:34:23",
          "title" : "POSTGAME DAY 2: Magnus Turns on the Afterburner | #ChampionsShowdown"
-      },
-      {
-         "description" : "GM Magnus Carlsen leads the 2025 Clutch Chess: Champions Showdown after day two. The world number-one won both games in both matches against World Champion Gukesh Dommaraju and GM Hikaru Nakamura, so that he was still in first even with two losses...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-clutch-chess-champions-showdown-day-2",
-         "pubDate" : "Tue, 28 Oct 2025 16:12:00",
-         "title" : "Carlsen Leads, Caruana Sprints To 2nd From Last"
       },
       {
          "description" : " ROUND 1 &#124; GAME 1 CARUANA VS NAKAMURA RESULT: 1-0GUKESH VS CARLSEN RESULT: 0-1 ROUND 1 &#124; GAME 2 NAKAMURA VS CARUANA RESULT: 1-0CARLSEN VS GUKESH RESULT: &frac12;-&frac12; ROUND 2 &#124; GAME 1 CARLSEN VS CARUANA RESULT: &frac12;-&frac12;NAKAMURA VS GUKESH RESULT: 0-1 ROUND 2 &#124; GAME 2 CARUANA VS CARLSEN RESULT: 0-1GUKESH VS NAKAMURA RESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-1/\">POSTGAME DAY 1: Gukesh Smashes Fabi! | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -800,14 +808,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-10/",
          "pubDate" : "Thu, 23 Oct 2025 23:26:21",
          "title" : "POSTGAME ROUND 10: Wesley Pounces! Earns Chance Tomorrow #USChessChamps"
-      },
-      {
-         "description" : "After five played rounds in the European Chess Club Cup 2025, only two teams in the Open section maintained the perfect score and co-lead with only two rounds to go: Alkaloid and SuperChess, while Cercle d'Echecs de Monte-Carlo kept the sole lead in the Women's event. Alkaloid from North Macedonia was convincing against the defending Champions Novy Bor from Czech Republic. Alkaloid won the match with the final score of 4-2, with wins by GM Arjun Erigaisi who crushed GM []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/alkaloid-and-superchess-co-lead-in-open-cercle-dechecs-de-monte-carlo-leads-in-womens-european-chess-club-cup/",
-         "pubDate" : "Thu, 23 Oct 2025 23:14:12",
-         "title" : "Alkaloid and SuperChess co-lead in Open, Cercle d'Echecs de Monte-Carlo leads in Women's European Chess Club Cup"
       },
       {
          "description" : "I was recently invited to have tea at the House of Lords by Baroness Miller of Chilthorne Domer to discuss my work with chess in prisons. She plays chess herself...",
