@@ -58,7 +58,7 @@ news_feed (
          "title" : "Final Report: Senior National Arbiter Seminar cum Examination, Chennai held on October 25 & 26, 2025"
       },
       {
-         "description" : "GM Jose Martinez (2644) scored the upset of the day in game one of round three in the 2025 FIDE World Cup. His opponent, world number-15 GM Nodirbek Abdusattorov (2750), played a creative and strong exchange sacrifice to achieve a large advantage,...",
+         "description" : "GM Jose Martinez (2644) scored the upset of the day in game one of round three in the 2025 FIDE World Cup. His opponent, world number-12 GM Nodirbek Abdusattorov (2750), played a creative and strong exchange sacrifice to achieve a large advantage,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-3-game-1",
