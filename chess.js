@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Saturday brought major drama at the FIDE World Cup in Goa, as four of the top ten seeds were eliminated. Reigning world champion Gukesh Dommaraju, Anish Giri, Nodirbek Abdusattorov and Shakhriyar Mamedyarov all exited the competition, falling to Frederik Svane, Alexander Donchenko, Jose Martinez and Nils Grandelius. With 15 decisive games in total, the knockout format once again delivered intense battles. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-r3g2",
+         "pubDate" : "Sat, 08 Nov 2025 23:50:00",
+         "title" : "World Cup: Frederik Svane shocks Gukesh, Donchenko knocks out Giri"
+      },
+      {
          "description" : "GM Dorian Rogozenco explains how coaches can use ChessBase to analyse and improve both their students' and their own games. By creating a database of a player's games and generating a Style Report, one can quickly identify strengths and weaknesses-such as low aggressiveness or strong theoretical play. Using the search mask in the Mega Database, coaches can then find instructive games that target specific themes (like king attacks or positional play) and build customized training material. Rogozenco emphasizes combining personal experience with ChessBase's tools to create effective, theme-based lessons that develop a player's strategic understanding and practical skill.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://www.thearticle.com/slow-but-sure-howard-stauntons-legacy/",
          "pubDate" : "Sat, 08 Nov 2025 12:39:14",
          "title" : "Slow but sure: Howard Staunton's legacy"
-      },
-      {
-         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Sat, 08 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "Upsets continue to stream in at a staggering rate in round three of the 2025 FIDE World Cup. Several 2700+ grandmasters were eliminated after the second classical game: World Champion Gukesh Dommaraju eliminated by Frederik Svane&#38;nbsp; GM Ani...",
