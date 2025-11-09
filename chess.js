@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Corporate Chess Championship 2025 concluded yesterday in Paris, France! The event took place from 7-8 November at the Espace Francis Delage, with the participation of 53 teams that competed over 9 swiss rounds with rapid time control. Ukrainian Greco clinched the Championship with the score of 24 match points (7 wins, 1 draw, 1 loss) and better tiebreaks than Bulgarian Agrofert which had the same score of match points. Greco (Ukraine) played in very strong composition with: GM []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/greco-ukraine-wins-european-corporate-chess-championship-2025/",
+         "pubDate" : "Sun, 09 Nov 2025 15:56:26",
+         "title" : "Greco (Ukraine) wins European Corporate Chess Championship 2025"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125203290.cms\" />Indian Grandmaster Karthik Venkataraman triumphed over Bogdan-Daniel Deac in a thrilling FIDE World Cup tiebreaker, advancing to the fourth round. He utilised a bishop advantage to secure victory in 43 moves. This win propels five Indians into the next stage, though Vidit Gujrathi and Narayanan SL were eliminated. Karthik's impressive run continues. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-karthik-venkataraman-enters-fourth-round-vidit-gujrathi-bows-out/articleshow/125203290.cms",
+         "pubDate" : "Sun, 09 Nov 2025 15:50:30",
+         "title" : "Chess World Cup: Karthik enters fourth round; Vidit bows out"
+      },
+      {
          "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,28 @@ news_feed (
          "title" : "FIDE World Cup - Live!"
       },
       {
+         "description" : "GM Yasser Seirawan described Crazyhouse as &#34;one-person Bughouse,&#34; so it was fitting that NM Isaac Chiu, one half of the 2025 Bughouse Championship winning team, also triumphed in the 2025 Crazyhouse Championship. Chiu won the Winners Final 3-1 aga...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-crazyhouse-chess-championship-chiu-wins",
+         "pubDate" : "Sun, 09 Nov 2025 08:24:16",
+         "title" : "Bughouse Champion Isaac Chiu Also Wins Crazyhouse Title"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125198263.cms\" />Gukesh became the third Indian to be eliminated in Round 3 after Diptayan Ghosh and Pranesh M lost their respective games against higher-ranked Gabriel Sargissian of Armenia and Germany's Vincent Keymer respectively.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-praggnanandhaa-packs-a-punch-gukesh-out/articleshow/125198263.cms",
          "pubDate" : "Sun, 09 Nov 2025 07:12:38",
          "title" : "FIDE World Cup: Praggnanandhaa packs a punch, Gukesh out"
+      },
+      {
+         "description" : "Thirty-two players remain in contention to win the 2025 FIDE World Cup ahead of round four. The following players advanced after winning round-three tiebreaks on Sunday: GMs Wei Yi, Maxime Vachier-Lagrave, Richard Rapport, Yu Yangyi, Sam Shankland...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-3-tiebreaks",
+         "pubDate" : "Sun, 09 Nov 2025 07:10:00",
+         "title" : "Vachier-Lagrave Wins Marathon Match In Armageddon"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125196985.cms\" />Several GMs were quick to play the Comfort Gambit - French GM Maxime Vachier-Lagrave, better known as MVL, among them. \"I think it's better that jeans are allowed, not all jeans of course, but normal jeans,\" MVL told TOI on Saturday, his jeans paired with a casual shirt.",
@@ -34,11 +66,11 @@ news_feed (
          "title" : "World Cup: Frederik Svane shocks Gukesh, Donchenko knocks out Giri"
       },
       {
-         "description" : "Following his round two exit at 2025 FIDE World Cup, GM Ediz Gurel put on a tactical exhibition to capture his sixth Bullet Brawl title and the $400 first prize on Saturday. Gurel&#39;s final score of 157 saw him edge out GM Tuan Minh Le by a single p...",
+         "description" : "Following his round-two exit at 2025 FIDE World Cup, GM Ediz Gurel put on a tactical exhibition to capture his sixth Bullet Brawl title and the $400 first prize on Saturday. Gurel&#39;s final score of 157 saw him edge out GM Tuan Minh Le by a single p...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-nov-8-2025",
-         "pubDate" : "Sat, 08 Nov 2025 20:05:21",
+         "pubDate" : "Sat, 08 Nov 2025 20:05:00",
          "title" : "Gurel Responds To World Cup Elimination With Sizzling Bullet Brawl Victory"
       },
       {
@@ -458,14 +490,6 @@ news_feed (
          "title" : "Battle The Old School RuneScape Bots On Chess.com!"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125049838.cms\" />Indian chess players faced mixed fortunes at the World Cup in Goa. Divya Deshmukh and Leon Mendonca were eliminated in the first round. While several other Indians also crashed out, a significant contingent, including M Pranesh and Surya Shekhar Ganguly, successfully advanced to the second round, keeping host nation hopes alive.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-divya-deshmukh-leon-mendonca-shown-the-door/articleshow/125049838.cms",
-         "pubDate" : "Mon, 03 Nov 2025 07:15:06",
-         "title" : "Chess World Cup: Divya Deshmukh, Leon Mendonca shown the door"
-      },
-      {
          "description" : "Twelve-year-old IM Faustino Oro, the youngest participant in the&#38;nbsp;2025 FIDE World Cup, is among the 20 players who advance to round two after tiebreaks. He defeated GM Ante Brkic 5-3 in one of the longest matches. The matchups only get harder ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -642,14 +666,6 @@ news_feed (
          "title" : "World No. 1 Magnus Carlsen Triumphs at Clutch Chess: Champions Showdown"
       },
       {
-         "description" : "GM Fabiano Caruana won an incredibly close match against GM Praggnanandhaa Rameshbabu to reach the Speed Chess Championship 2025 Quarterfinals, where he will face GM Magnus Carlsen. Only the bullet segment separated the two players, with Caruana b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-r16-caruana-praggnanandhaa",
-         "pubDate" : "Thu, 30 Oct 2025 13:05:00",
-         "title" : "Caruana Edges Praggnanandhaa By 1 Point, Advances To Face Carlsen"
-      },
-      {
          "description" : " The FIDE World Cup takes place in Goa, India, Sat 1st to Wed 26th Nov 2025. Players include: World Champion Gukesh, Erigaisi, Praggnanandhaa, Giri, So, Keymer, Wei Yi, Abdusattorov, Mamedyarov, Niemann, MVL, Nepomniachtchi, Le, Rapport, Aronian etc. It is a seven round knockout but the top 50 players only enter the competition in round 2 alongside the 78 winners of Round 1. The top three finishers will qualify for the Candidates tournament although players such as Gukesh and Giri and Caruana don't require this and the extra place will be awarded to \"another path\" in the qualification system. The <a href=\"https://theweekinchess.com/chessnews/events/fide-womens-world-cup-2025\">Women's World C",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2025-commenced-in-montenegro/",
          "pubDate" : "Wed, 29 Oct 2025 21:21:59",
          "title" : "European Youth Chess Championship 2025 commenced in Montenegro"
-      },
-      {
-         "description" : "GM Ian Nepomniachtchi at one point led by 10 points before finishing with a 17.5-10.5 score against GM Anish Giri to cruise into the Speed Chess Championship 2025 Quarterfinals. Nepomniachtchi called it, &#34;some really good training in the Catalan w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-r16-nepomniachtchi-giri",
-         "pubDate" : "Wed, 29 Oct 2025 18:48:00",
-         "title" : "Nepomniachtchi Cruises Past Giri To Set Up Quarterfinal Vs. Firouzja"
       },
       {
          "description" : "The Annual General Meeting of the ECF was held on 25th October in Birmingham and via video conference.&#160;Please note that the agenda and all the reports can be found on...",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-final/",
          "pubDate" : "Fri, 24 Oct 2025 23:51:17",
          "title" : "POSTGAME FINAL: Champions are Crowned! #USChessChamps"
-      },
-      {
-         "description" : "Heading into the last round of the European Chess Club Cup 2025, SuperChess emerged as the sole leader of the Open tournament, while Cercle d'Echecs de Monte-Carlo kept the leading position in Women's section and remained on perfect score! The direct match between the leaders of the Open section marked the 6th round, with SuperChess from Romania against Alkaloid from North Macedonia. The match proved tightly contested, with five boards ending in draws. The decisive result came on the top []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/superchess-and-cercle-dechecs-de-monte-carlo-leading-european-chess-club-cups/",
-         "pubDate" : "Fri, 24 Oct 2025 19:11:28",
-         "title" : "SuperChess and Cercle d'Echecs de Monte-Carlo leading European Chess Club Cups"
       },
       {
          "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
