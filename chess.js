@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has announced the winners of the 16th FIDE Trainer Awards, honouring outstanding achievements in global chess training for 2024. The recipients include Pavel Kotsur (Kazakhstan), Richard Rapport (Hungary, pictured) and Mikhail Kobalia (FIDE), recognised for their contributions to women's, open and junior competitions, respectively. The Book of the Year Award went to \"Mastering Chess Endgame Calculation - Level 1\" by Adrian Mikhalchishin and Tadej Sakelšek, published by Forward Chess. | Photo: Eng Chin An / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-trainer-awards-2024-winners",
+         "pubDate" : "Sun, 09 Nov 2025 20:00:00",
+         "title" : "Kobalia, Rapport and Kotsur win FIDE Trainer Awards"
+      },
+      {
+         "description" : "London is set to host the climax of the 2025 Speed Chess Championship, with the world's fastest players gathering at 180 Studios (pictured) on 7 and 8 February 2026 for the semifnals and the final match. Eight players, including Magnus Carlsen and Hikaru Nakamura, remain in contention in the quarterfinals. The four winners of these matches, set to take place until 4 December, will make it to the final live event in London. | Photo: MBS Group",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-ch-2025-26-london",
+         "pubDate" : "Sun, 09 Nov 2025 19:10:00",
+         "title" : "London confirmed as venue for Speed Chess Championship Finals"
+      },
+      {
          "description" : "The European Corporate Chess Championship 2025 concluded yesterday in Paris, France! The event took place from 7-8 November at the Espace Francis Delage, with the participation of 53 teams that competed over 9 swiss rounds with rapid time control. Ukrainian Greco clinched the Championship with the score of 24 match points (7 wins, 1 draw, 1 loss) and better tiebreaks than Bulgarian Agrofert which had the same score of match points. Greco (Ukraine) played in very strong composition with: GM []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -26,11 +42,11 @@ news_feed (
          "title" : "FIDE World Cup - Live!"
       },
       {
-         "description" : "GM Yasser Seirawan described Crazyhouse as &#34;one-person Bughouse,&#34; so it was fitting that NM Isaac Chiu, one half of the 2025 Bughouse Championship winning team, also triumphed in the 2025 Crazyhouse Championship. Chiu won the Winners Final 3-1 aga...",
+         "description" : "GM Yasser Seirawan has described Crazyhouse as &#34;one-person Bughouse,&#34; so it was fitting that NM Isaac Chiu, one half of the 2025 Bughouse Championship winning team, also triumphed in the 2025 Crazyhouse Championship. Chiu won the Winners Final 3-1...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-crazyhouse-chess-championship-chiu-wins",
-         "pubDate" : "Sun, 09 Nov 2025 08:24:16",
+         "pubDate" : "Sun, 09 Nov 2025 08:24:00",
          "title" : "Bughouse Champion Isaac Chiu Also Wins Crazyhouse Title"
       },
       {
@@ -58,28 +74,12 @@ news_feed (
          "title" : "Chess kings go casual: Many GMs swap formals for jeans in Goa"
       },
       {
-         "description" : "Saturday brought major drama at the FIDE World Cup in Goa, as four of the top ten seeds were eliminated. Reigning world champion Gukesh Dommaraju, Anish Giri, Nodirbek Abdusattorov and Shakhriyar Mamedyarov all exited the competition, falling to Frederik Svane, Alexander Donchenko, Jose Martinez and Nils Grandelius. With 15 decisive games in total, the knockout format once again delivered intense battles. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-r3g2",
-         "pubDate" : "Sat, 08 Nov 2025 23:50:00",
-         "title" : "World Cup: Frederik Svane shocks Gukesh, Donchenko knocks out Giri"
-      },
-      {
          "description" : "Following his round-two exit at 2025 FIDE World Cup, GM Ediz Gurel put on a tactical exhibition to capture his sixth Bullet Brawl title and the $400 first prize on Saturday. Gurel&#39;s final score of 157 saw him edge out GM Tuan Minh Le by a single p...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-nov-8-2025",
          "pubDate" : "Sat, 08 Nov 2025 20:05:00",
          "title" : "Gurel Responds To World Cup Elimination With Sizzling Bullet Brawl Victory"
-      },
-      {
-         "description" : "GM Dorian Rogozenco explains how coaches can use ChessBase to analyse and improve both their students' and their own games. By creating a database of a player's games and generating a Style Report, one can quickly identify strengths and weaknesses-such as low aggressiveness or strong theoretical play. Using the search mask in the Mega Database, coaches can then find instructive games that target specific themes (like king attacks or positional play) and build customized training material. Rogozenco emphasizes combining personal experience with ChessBase's tools to create effective, theme-based lessons that develop a player's strategic understanding and practical skill.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-to-coach-with-chessbase-dorian-rogozenco-master-your-chess-with-chessbase-tools",
-         "pubDate" : "Sat, 08 Nov 2025 19:00:00",
-         "title" : "How to coach with ChessBase - Dorian Rogozenco: Master Your Chess with ChessBase Tools"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125187146.cms\" />Four Indian chess stars have reached the fourth round of the FIDE World Cup 2025. R Praggnanandhaa, Arjun Erigaisi, and Pranav V secured their spots. However, World Champion Gukesh D faced elimination. Several other Indian players will compete in tiebreaks. The tournament features top players from around the globe vying for the Viswanathan Anand Cup.",
@@ -114,14 +114,6 @@ news_feed (
          "title" : "World Champion Gukesh Eliminated By Frederik Svane; Giri, Abdusattorov Also Out"
       },
       {
-         "description" : "\"The perfect sacrifice is every chess player's dream,\" says Grandmaster Krishnan Sasikiran in the description of his Fritz Trainer! But when exactly is a sacrifice perfect? How can you correctly assess and evaluate sacrifice ideas, and how can you handle them when complications arise? The Grandmaster from India now wants to show ambitious chess players the answer to this question with his Fritz Trainer. Lukas K&ouml;pl has summarised the essence of the Fritz Trainer in his review.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-the-art-of-sacrificing-by-krishnan-sasikiran",
-         "pubDate" : "Sat, 08 Nov 2025 07:00:00",
-         "title" : "Review: \"The Art of Sacrificing\" by Krishnan Sasikiran"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125180233.cms\" />As one of the most creative and unpredictable players in modern chess history, Vasyl Ivanchuk of Ukraine, born in 1969, became a Grandmaster in 1988 and quickly rose to the elite level. Known for his deep understanding and vast opening repertoire, he defeated nearly every world champion of his era, including Magnus Carlsen, to lift the world rapid chess title in 2016.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -144,14 +136,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-champions-2025-crowned-in-budva-montenegro/",
          "pubDate" : "Sat, 08 Nov 2025 00:27:46",
          "title" : "European Youth Chess Champions 2025 crowned in Budva, Montenegro"
-      },
-      {
-         "description" : "FIDE has announced that the World Women's Team Championship will take place in Linares, Spain, from 17 to 24 November. The event will feature 12 national teams, including China, India, the United States and the host nation Spain. With top players such as Hou Yifan, Carissa Yip and Sarasadat Khademalsharieh expected to compete, the championship promises a strong field in a city long associated with elite chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-women-team-ch-2025",
-         "pubDate" : "Fri, 07 Nov 2025 21:00:00",
-         "title" : "Lineups for World Women's Team Championship announced: Hou Yifan to play on the top board for China"
       },
       {
          "description" : "GM Magnus Carlsen may have been the favorite before the games started, but GM Oleksandr Bortnyk convincingly won his fifth Freestyle Friday tournament 9.5/11, a full point ahead of the former world champion and GM Dmitry Andreikin. With 83 partici...",
@@ -240,14 +224,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-junior-title-is-one-thing-im-aiming-higher-now-pranav-v-enters-world-cup-third-round/articleshow/125151632.cms",
          "pubDate" : "Fri, 07 Nov 2025 07:02:28",
          "title" : "'World junior title is one thing, I'm aiming higher now': Pranav V enters World Cup third round"
-      },
-      {
-         "description" : "Tension ran high in Goa on Thursday as the second round of the 2025 FIDE World Cup came to an end with a marathon day of tiebreaks. While several favourites advanced smoothly - including Nodirbek Abdusattorov, Shakhriyar Mamedyarov and Vidit Gujrathi - a string of surprises kept spectators on edge. Lorenzo Lodici's victory over Hans Niemann stood out, as lengthy matches and near upsets marked an eventful close to round two. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-r2tb",
-         "pubDate" : "Fri, 07 Nov 2025 04:55:00",
-         "title" : "World Cup: Lodici knocks out Niemann, Svane and Adams win longest matches"
       },
       {
          "description" : "Only one round left to be played at the European Youth Chess Championship 2025 in Budva, Montenegro, and we'll soon crown the new Champions! Heading into the last round, many sections still have the unclear situation on the top, while the others have the sole leaders. Myron Netrebka (UKR) scores perfect 8/8 points and clinched gold in the Open U8 section with a round to spare! In Girls U8 category, Stella Zhu (FIN) emerged as the sole leader with 7.5 []",
