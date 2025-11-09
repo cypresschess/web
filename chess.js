@@ -10,6 +10,14 @@ news_feed (
          "title" : "World Cup: Frederik Svane shocks Gukesh, Donchenko knocks out Giri"
       },
       {
+         "description" : "Following his round two exit at 2025 FIDE World Cup, GM Ediz Gurel put on a tactical exhibition to capture his sixth Bullet Brawl title and the $400 first prize on Saturday. Gurel&#39;s final score of 157 saw him edge out GM Tuan Minh Le by a single p...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-nov-8-2025",
+         "pubDate" : "Sat, 08 Nov 2025 20:05:21",
+         "title" : "Gurel Responds To World Cup Elimination With Sizzling Bullet Brawl Victory"
+      },
+      {
          "description" : "GM Dorian Rogozenco explains how coaches can use ChessBase to analyse and improve both their students' and their own games. By creating a database of a player's games and generating a Style Report, one can quickly identify strengths and weaknesses-such as low aggressiveness or strong theoretical play. Using the search mask in the Mega Database, coaches can then find instructive games that target specific themes (like king attacks or positional play) and build customized training material. Rogozenco emphasizes combining personal experience with ChessBase's tools to create effective, theme-based lessons that develop a player's strategic understanding and practical skill.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-r16-nepomniachtchi-giri",
          "pubDate" : "Wed, 29 Oct 2025 18:48:00",
          "title" : "Nepomniachtchi Cruises Past Giri To Set Up Quarterfinal Vs. Firouzja"
-      },
-      {
-         "description" : "GM Magnus Carlsen won the 2025 Clutch Chess: Champions Showdown with two games to spare. He defeated World Champion Gukesh Dommaraju two times, and then also beat GM Fabiano Caruana twice, to win the event and earn the $120,000 first prize, all be...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-2025-clutch-chess-champions-showdown",
-         "pubDate" : "Wed, 29 Oct 2025 14:03:00",
-         "title" : "Carlsen Wins Clutch Chess With 2 Games To Spare"
       },
       {
          "description" : "The Annual General Meeting of the ECF was held on 25th October in Birmingham and via video conference.&#160;Please note that the agenda and all the reports can be found on...",
