@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125198263.cms\" />Gukesh became the third Indian to be eliminated in Round 3 after Diptayan Ghosh and Pranesh M lost their respective games against higher-ranked Gabriel Sargissian of Armenia and Germany's Vincent Keymer respectively.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-praggnanandhaa-packs-a-punch-gukesh-out/articleshow/125198263.cms",
+         "pubDate" : "Sun, 09 Nov 2025 07:12:38",
+         "title" : "FIDE World Cup: Praggnanandhaa packs a punch, Gukesh out"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125196985.cms\" />Several GMs were quick to play the Comfort Gambit - French GM Maxime Vachier-Lagrave, better known as MVL, among them. \"I think it's better that jeans are allowed, not all jeans of course, but normal jeans,\" MVL told TOI on Saturday, his jeans paired with a casual shirt.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-kings-go-casual-many-gms-swap-formals-for-jeans-in-goa/articleshow/125196985.cms",
+         "pubDate" : "Sun, 09 Nov 2025 04:41:38",
+         "title" : "Chess kings go casual: Many GMs swap formals for jeans in Goa"
+      },
+      {
          "description" : "Saturday brought major drama at the FIDE World Cup in Goa, as four of the top ten seeds were eliminated. Reigning world champion Gukesh Dommaraju, Anish Giri, Nodirbek Abdusattorov and Shakhriyar Mamedyarov all exited the competition, falling to Frederik Svane, Alexander Donchenko, Jose Martinez and Nils Grandelius. With 15 decisive games in total, the knockout format once again delivered intense battles. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -504,22 +520,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-1-game-2",
          "pubDate" : "Sun, 02 Nov 2025 08:35:00",
          "title" : "IM Shixu Wang Pulls Upset, 20 Matches Go To Tiebreaks"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125028587.cms\" />Indian Grandmaster Divya Deshmukh faces a must-win scenario with black pieces in the World Cup chess after a loss to Stamatis Kourkoulos-Arditis. The 19-year-old, a wild card entry in the Open event, risks early elimination if she doesn't secure a victory in her next game.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-exit-looms-for-divya-deshmukh-after-loss/articleshow/125028587.cms",
-         "pubDate" : "Sun, 02 Nov 2025 03:51:24",
-         "title" : "Chess World Cup: Exit looms for Divya Deshmukh after loss"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125028359.cms\" />FIDE President Arkady Dvorkovich addressed concerns about cheating and cyberbullying in chess following the death of Grandmaster Daniel Naroditsky. He revealed informal discussions with Vladimir Kramnik regarding aggression and bullying, urging Kramnik to provide scientific evidence for his accusations. The Ethics Commission is currently investigating the matter.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/urged-vladimir-kramnik-to-be-less-aggressive-fide-president-on-daniel-naroditskys-death/articleshow/125028359.cms",
-         "pubDate" : "Sun, 02 Nov 2025 03:17:10",
-         "title" : "'Urged Vladimir Kramnik to be less aggressive': FIDE president on Daniel Naroditsky's death"
       },
       {
          "description" : "An inspired GM Andrew Tang posted a 27-game unbeaten streak during Saturday&#39;s Bullet Brawl and surged to his 14th career victory ahead of 48-time winner GM Hikaru Nakamura. Tang chalked up 51 wins, four draws, and 11 losses in the two-hour arena...",
