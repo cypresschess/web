@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On November 11, 2025, the time has come: ChessBase'26 will be released and available in the ChessBase Shop. Don't miss out - get ChessBase'26 with its many exciting new features! Look forward to the latest edition of your chess database software and order it from tomorrow in our shop. Then you can start enjoying all the new features right away.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-expand-your-chess-horizon",
+         "pubDate" : "Mon, 10 Nov 2025 10:11:08",
+         "title" : "ChessBase'26: Expand Your Chess Horizon!"
+      },
+      {
          "description" : "Svitlana explores the theme of \"invisible moves\" - creative, hard-to-spot ideas that suddenly make everything work. By looking for checks, deflections, and quiet improving moves, players can uncover the beauty of ideas that seem \"invisible\" at first glance.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -880,14 +888,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-8/",
          "pubDate" : "Tue, 21 Oct 2025 00:49:12",
          "title" : "POSTGAME ROUND 8: Aggressive Levon Trips Up Shankland #USChessChamps"
-      },
-      {
-         "description" : "The&#160;49th&#160;BWCI Guernsey International Chess Festival will be taking place from Sunday&#160;19th&#160;October to Saturday&#160;25th&#160;&#160;October 2025&#160;and we will be displaying the live games on the top&#160;8&#160;boards in the Open section via&#160;https://view.livechesscloud.com#783d64ea-7513-49ff-8125-2181180554e2&#160; We...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/49th-bwci-guernsey-international-chess-festival/",
-         "pubDate" : "Mon, 20 Oct 2025 08:36:47",
-         "title" : "49th BWCI Guernsey International Chess Festival"
       }
    ]
 }
