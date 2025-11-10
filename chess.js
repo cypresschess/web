@@ -82,14 +82,6 @@ news_feed (
          "title" : "Chess World Cup: Karthik enters fourth round; Vidit bows out"
       },
       {
-         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Sun, 09 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup - Live!"
-      },
-      {
          "description" : "GM Yasser Seirawan has described Crazyhouse as &#34;one-person Bughouse,&#34; so it was fitting that NM Isaac Chiu, one half of the 2025 Bughouse Championship winning team, also triumphed in the 2025 Crazyhouse Championship. Chiu won the Winners Final 3-1...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
