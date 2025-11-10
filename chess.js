@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana explores the theme of \"invisible moves\" - creative, hard-to-spot ideas that suddenly make everything work. By looking for checks, deflections, and quiet improving moves, players can uncover the beauty of ideas that seem \"invisible\" at first glance.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-invisible-moves-2",
+         "pubDate" : "Mon, 10 Nov 2025 08:34:43",
+         "title" : "Svitlana's Smart Moves - Invisible moves"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125215854.cms\" />In the second game of the rapid tiebreak, the 2579 Elo Karthik surprised Romania's 2655-rated GM Deac Bogdan-Daniel to win the third round 2.5-1.5 and became the fifth Indian to qualify for the round of 32 players. The remaining two Indian masters, Narayanan SL and Vidit Gujrathi, crashed out after losing their rapid games in contrasting fashion.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/karthik-stuns-romanian-gm-in-world-cup-assures-himself-of-careers-highest-prize-money/articleshow/125215854.cms",
+         "pubDate" : "Mon, 10 Nov 2025 05:50:18",
+         "title" : "Karthik stuns Romanian GM in World Cup, assures himself of career's highest prize money"
+      },
+      {
          "description" : "FIDE has announced the winners of the 16th FIDE Trainer Awards, honouring outstanding achievements in global chess training for 2024. The recipients include Pavel Kotsur (Kazakhstan), Richard Rapport (Hungary, pictured) and Mikhail Kobalia (FIDE), recognised for their contributions to women's, open and junior competitions, respectively. The Book of the Year Award went to \"Mastering Chess Endgame Calculation - Level 1\" by Adrian Mikhalchishin and Tadej Sakelšek, published by Forward Chess. | Photo: Eng Chin An / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -424,14 +440,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-ccl-fall-week-5-slu-utd",
          "pubDate" : "Tue, 04 Nov 2025 04:53:59",
          "title" : "UTD Defeats SLU, Holds Top Spot In Collegiate Chess League"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125074600.cms\" />Young Argentinian chess prodigy Faustino Oro, dubbed the 'Messi of chess', secured his second-round spot at the World Cup in Goa. He was among 78 qualifiers who will face top seeds, including world champion D. Gukesh. Three Indian players, Narayanan S., Diptayan Ghosh, and Aronyak Ghosh, also advanced to the next round after intense tie-break matches.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/faustino-oros-blitz-brilliance-12-year-old-shocks-seasoned-gm-to-enter-round-2/articleshow/125074600.cms",
-         "pubDate" : "Tue, 04 Nov 2025 04:20:55",
-         "title" : "Faustino Oro's blitz brilliance: 12-year-old shocks seasoned GM to enter Round 2"
       },
       {
          "description" : "This week's puzzles are a tribute to GM Daniel Naroditsky's early years. Read Chess Life Online's obituary here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
