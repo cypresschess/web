@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today is Discount Day, and we are offering you a 25% price reduction on most products: software, services, video courses, the ChessBase Account. The premium offer is the brand-new ChessBase'26, which provides a new way to understand opening plans, to prepare for your next opponent. There are other very interesting new products that will improve your skill in the game - not to forget the rating points they will earn you.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/only-today-it-s-25-off",
+         "pubDate" : "Mon, 10 Nov 2025 14:00:00",
+         "title" : "Only today: it's 25% off!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125221308.cms\" />Chennai's Raahul VS achieved a significant milestone by becoming India's 91st Grandmaster. He secured the title by winning the 6th ASEAN Individual Open Chess Championship. This direct title win is a rare accomplishment. Raahul overcame financial struggles and mental challenges to reach this point. He now aims for further success in his chess career.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/making-of-indias-91st-gm-raahul-vs-battling-financial-troubles-negative-emotions-before-doing-a-divya-deshmukh-exclusive/articleshow/125221308.cms",
+         "pubDate" : "Mon, 10 Nov 2025 12:32:53",
+         "title" : "Making of India's 91st GM: Battling financial troubles, 'negative emotions' | Exclusive"
+      },
+      {
          "description" : "On November 11, 2025, the time has come: ChessBase'26 will be released and available in the ChessBase Shop. Don't miss out - get ChessBase'26 with its many exciting new features! Look forward to the latest edition of your chess database software and order it from tomorrow in our shop. Then you can start enjoying all the new features right away.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-invisible-moves-2",
          "pubDate" : "Mon, 10 Nov 2025 08:34:43",
          "title" : "Svitlana's Smart Moves - Invisible moves"
+      },
+      {
+         "description" : "We&#39;re excited to announce 3 0 Thursday (three-oh-Thursday), our new weekly prize event for titled players! The event will feature a 3+0 time control, the most popular among titled players on our website. Every Thursday, titled players can now play...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-3-0-thursday",
+         "pubDate" : "Mon, 10 Nov 2025 08:00:00",
+         "title" : "Announcing 3 0 Thursday, The New Weekly Prize Event For Titled Players"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125215854.cms\" />In the second game of the rapid tiebreak, the 2579 Elo Karthik surprised Romania's 2655-rated GM Deac Bogdan-Daniel to win the third round 2.5-1.5 and became the fifth Indian to qualify for the round of 32 players. The remaining two Indian masters, Narayanan SL and Vidit Gujrathi, crashed out after losing their rapid games in contrasting fashion.",
@@ -378,14 +402,6 @@ news_feed (
          "title" : "Harikrishna Sacs Queen; Nepomniachtchi, Wesley So, Aravindh Eliminated"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125102761.cms\" />Indian-origin Abhimanyu Mishra, the world's youngest chess Grandmaster, aims for strong performances at the World Cup. Despite holding multiple records, he downplays their significance, valuing the pandemic-era experience more. Mishra attributes his gradual progress to balancing high school and a lack of corporate sponsorship, noting less support for chess in America compared to India.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-no-takers-for-chess-in-the-us-abhimanyu-mishra/articleshow/125102761.cms",
-         "pubDate" : "Wed, 05 Nov 2025 06:21:00",
-         "title" : "Chess World Cup | 'No takers for chess in the US' - Abhimanyu Mishra"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125102519.cms\" />Viswanathan Anand expressed disappointment with Vladimir Kramnik's unfounded allegations regarding cheating, especially after Daniel Naroditsky's death. Anand assured action through the ethics commission and urged young players and parents to be discerning about information on unregulated online platforms. He also commented on potential World Cup winners and Candidates tournament qualifiers.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2025-round-3-recap/",
          "pubDate" : "Fri, 31 Oct 2025 22:13:14",
          "title" : "European Youth Chess Championship 2025 - Round 3 recap"
-      },
-      {
-         "description" : "On a Halloween edition of Freestyle Friday,&#38;nbsp;GM Hikaru Nakamura scored a victory on October 31 after missing the past few tournaments. Nakamura was 1.5 points behind the lead after five rounds, but with the tenacity akin to a horror movie anta...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-freestyle-friday-october-31-2025",
-         "pubDate" : "Fri, 31 Oct 2025 11:32:00",
-         "title" : "Nakamura Chases Down Friday Field In Triumphant Return"
       },
       {
          "description" : "The significance of Women's World Cup winner Divya Deshmukh playing the FIDE World Cup is not about success, but the pursuit of excellence.",
