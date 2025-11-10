@@ -880,14 +880,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/49th-bwci-guernsey-international-chess-festival/",
          "pubDate" : "Mon, 20 Oct 2025 08:36:47",
          "title" : "49th BWCI Guernsey International Chess Festival"
-      },
-      {
-         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 7 &#124; GAME LINKS ROBSON VS ARONIAN RESULT: &frac12;-&frac12;SWIERCZ VS LIANG RESULT: 1-0SO VS WOODWARD RESULT: 1-0SHANKLAND VS MISHRA RESULT: 1-0NIEMANN VS CARUANA RESULT: 0-1SEVIAN VS OPARIN RESULT: 1-0 ROUND 7 &#124; GAME LINKS POURKASHIYAN VS [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-7/\">POSTGAME ROUND 7: Caruana's BIG TIME Win Over Hans! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-7/",
-         "pubDate" : "Sun, 19 Oct 2025 22:53:33",
-         "title" : "POSTGAME ROUND 7: Caruana's BIG TIME Win Over Hans! #USChessChamps"
       }
    ]
 }
