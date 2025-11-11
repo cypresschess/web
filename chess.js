@@ -18,6 +18,14 @@ news_feed (
          "title" : "Stars missing from World Team Chess"
       },
       {
+         "description" : "No team has had a better run in the Collegiate Chess League (CCL) this season than the University of Texas, Dallas. They&#39;ve defeated both of last season&#39;s finalists, and raced out to a perfect 6-0 start. In contrast, Texas Tech University has had ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-ccl-fall-week-7-texastech-utd",
+         "pubDate" : "Tue, 11 Nov 2025 00:51:03",
+         "title" : "Texas Tech Shakes Up Collegiate Chess League Standings, Defeats UTD"
+      },
+      {
          "description" : "Today is Discount Day, and we are offering you a 25% price reduction on most products: software, services, video courses, the ChessBase Account. The premium offer is the brand-new ChessBase'26, which provides a new way to understand opening plans, to prepare for your next opponent. There are other very interesting new products that will improve your skill in the game - not to forget the rating points they will earn you.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-26-expand-your-chess-horizon",
          "pubDate" : "Mon, 10 Nov 2025 10:11:08",
          "title" : "ChessBase'26: Expand Your Chess Horizon!"
-      },
-      {
-         "description" : "Svitlana explores the theme of \"invisible moves\" - creative, hard-to-spot ideas that suddenly make everything work. By looking for checks, deflections, and quiet improving moves, players can uncover the beauty of ideas that seem \"invisible\" at first glance.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-invisible-moves-2",
-         "pubDate" : "Mon, 10 Nov 2025 08:34:43",
-         "title" : "Svitlana's Smart Moves - Invisible moves"
       },
       {
          "description" : "We&#39;re excited to announce 3 0 Thursday (three-oh-Thursday), our new weekly prize event for titled players! The event will feature a 3+0 time control, the most popular among titled players on our website. Every Thursday, titled players can now play...",
@@ -80,22 +80,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/super-gm-wild-nakamuras-candidates-quest-ends-successfully-virginia",
          "pubDate" : "Mon, 10 Nov 2025 00:00:00",
          "title" : "A Super-GM in the Wild: Nakamura's Candidates Quest Ends Successfully in Virginia"
-      },
-      {
-         "description" : "FIDE has announced the winners of the 16th FIDE Trainer Awards, honouring outstanding achievements in global chess training for 2024. The recipients include Pavel Kotsur (Kazakhstan), Richard Rapport (Hungary, pictured) and Mikhail Kobalia (FIDE), recognised for their contributions to women's, open and junior competitions, respectively. The Book of the Year Award went to \"Mastering Chess Endgame Calculation - Level 1\" by Adrian Mikhalchishin and Tadej Sakelšek, published by Forward Chess. | Photo: Eng Chin An / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-trainer-awards-2024-winners",
-         "pubDate" : "Sun, 09 Nov 2025 20:00:00",
-         "title" : "Kobalia, Rapport and Kotsur win FIDE Trainer Awards"
-      },
-      {
-         "description" : "London is set to host the climax of the 2025 Speed Chess Championship, with the world's fastest players gathering at 180 Studios (pictured) on 7 and 8 February 2026 for the semifnals and the final match. Eight players, including Magnus Carlsen and Hikaru Nakamura, remain in contention in the quarterfinals. The four winners of these matches, set to take place until 4 December, will make it to the final live event in London. | Photo: MBS Group",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-ch-2025-26-london",
-         "pubDate" : "Sun, 09 Nov 2025 19:10:00",
-         "title" : "London confirmed as venue for Speed Chess Championship Finals"
       },
       {
          "description" : "The European Corporate Chess Championship 2025 concluded yesterday in Paris, France! The event took place from 7-8 November at the Espace Francis Delage, with the participation of 53 teams that competed over 9 swiss rounds with rapid time control. Ukrainian Greco clinched the Championship with the score of 24 match points (7 wins, 1 draw, 1 loss) and better tiebreaks than Bulgarian Agrofert which had the same score of match points. Greco (Ukraine) played in very strong composition with: GM []",
@@ -600,14 +584,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/november-2025-fide-ratings",
          "pubDate" : "Sat, 01 Nov 2025 10:03:00",
          "title" : "Keymer Storms To No. 4, Gukesh Back in Top 10: November 2025 FIDE Ratings"
-      },
-      {
-         "description" : "The favorites&#38;mdash;including GMs Yagiz Kaan Erdogmus, Jeffery Xiong, and Maxim Rodshtein on top boards&#38;mdash;prevailed with almost no upsets in round one, game one of the 2025 FIDE World Cup. GM Salem Saleh won the Game of the Day with a brillian...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-1-game-1",
-         "pubDate" : "Sat, 01 Nov 2025 08:47:00",
-         "title" : "Saleh Plays Attack Of The Day, Favorites Prevail In Game 1"
       },
       {
          "description" : "Three rounds have been already played at the European Youth Chess Championship 2025 in Budva, Montenegro. After three intense rounds, only 71 of nearly 1200 participants have managed to preserve a perfect score of three points, underscoring the fierce level of competition across all sections. Two players tie for the top in Open U18 section; Open U16 and Open U12 categories each have six co-leaders, while seven players are tied for first place in both Open U14 and Open U10 []",
