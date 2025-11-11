@@ -880,14 +880,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/daniel-naroditsky-1995-2025",
          "pubDate" : "Tue, 21 Oct 2025 13:53:00",
          "title" : "Daniel Naroditsky 1995-2025 - 1995-2025"
-      },
-      {
-         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 8 &#124; GAME LINKS OPARIN VS MISHRA RESULT: &frac12;-&frac12;CARUANA VS ROBSON RESULT: &frac12;-&frac12;SEVIAN VS SWIERCZ RESULT: &frac12;-&frac12; WOODWARD VS NIEMANN RESULT: 1-0 ARONIAN VS SHANKLAND RESULT: 1-0 LIANG VS SO RESULT: &frac12;-&frac12; ROUND 8 &#124; GAME [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-8/\">POSTGAME ROUND 8: Aggressive Levon Trips Up Shankland #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-8/",
-         "pubDate" : "Tue, 21 Oct 2025 00:49:12",
-         "title" : "POSTGAME ROUND 8: Aggressive Levon Trips Up Shankland #USChessChamps"
       }
    ]
 }
