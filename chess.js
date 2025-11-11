@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125241011.cms\" />World Cup chess, which will give Candidates spots for top-3 finishers, resumes at Resort Rio in Goa on Tuesday after Monday's rest day. TOI takes cues from the first three rounds and looks ahead at the fate of the remaining 32 players in the knockouts.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-chess-knockouts-inch-towards-climax/articleshow/125241011.cms",
+         "pubDate" : "Tue, 11 Nov 2025 05:50:30",
+         "title" : "FIDE World Cup: Chess knockouts inch towards climax"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125240562.cms\" />Team India will be represented by Rakshitta Ravi, Padmini Rout, B Savitha Shri, PV Nandhidhaa, Sarayu Velpula and Srija Seshadri. It means six of the top-seven rated India women are not playing in this 12-team event to be held in Linares from Nov 17 to 24.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/stars-missing-from-world-team-chess/articleshow/125240562.cms",
+         "pubDate" : "Tue, 11 Nov 2025 05:18:05",
+         "title" : "Stars missing from World Team Chess"
+      },
+      {
          "description" : "Today is Discount Day, and we are offering you a 25% price reduction on most products: software, services, video courses, the ChessBase Account. The premium offer is the brand-new ChessBase'26, which provides a new way to understand opening plans, to prepare for your next opponent. There are other very interesting new products that will improve your skill in the game - not to forget the rating points they will earn you.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -394,28 +410,12 @@ news_feed (
          "title" : "Get Your Tickets To Watch The Speed Chess Championship Finals In London"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125104282.cms\" />Thirteen-year-old Ilamparthi, initially an uninvited guest at a chess camp, has now become India's 90th Grandmaster. Guided by GM Shyam Sundar Mohanraj, his journey, despite financial hardships and family challenges, is marked by exceptional talent and unwavering discipline. The young prodigy's dedication promises a bright future in the chess world.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/making-of-indias-90th-gm-ilamparthi-ar-travelling-alone-at-16-ms-dhoni-esque-hands-ailing-brother-at-home/articleshow/125104282.cms",
-         "pubDate" : "Wed, 05 Nov 2025 07:47:55",
-         "title" : "Making of India's 90th GM Ilamparthi: Travelling alone at 16, ailing brother at home"
-      },
-      {
          "description" : "Twenty-seven matches go to tiebreaks after the second classical game in round two of the 2025 FIDE World Cup. GM Pentala Harikrishna played the Game of the Day, if not the tournament, with a stunning queen sacrifice against GM Arseniy Nesterov. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-2-game-2",
          "pubDate" : "Wed, 05 Nov 2025 07:39:00",
          "title" : "Harikrishna Sacs Queen; Nepomniachtchi, Wesley So, Aravindh Eliminated"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125102519.cms\" />Viswanathan Anand expressed disappointment with Vladimir Kramnik's unfounded allegations regarding cheating, especially after Daniel Naroditsky's death. Anand assured action through the ethics commission and urged young players and parents to be discerning about information on unregulated online platforms. He also commented on potential World Cup winners and Candidates tournament qualifiers.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-disappointed-with-how-vladimir-kramnik-has-behaved/articleshow/125102519.cms",
-         "pubDate" : "Wed, 05 Nov 2025 06:01:52",
-         "title" : "Viswanathan Anand: 'Disappointed with how Vladimir Kramnik has behaved'"
       },
       {
          "description" : "This week's puzzles come from the second day of the Clutch Chess: Champions Showdown, which concluded last week at the newly renovated Saint Louis Chess Club. See puzzles from Day 1 here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
