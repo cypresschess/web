@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today is Discount Day, and we are offering you a 25% price reduction on most products: software, services, video courses, the ChessBase Account. The premium offer is the brand-new ChessBase'26, which provides a new way to understand opening plans, to prepare for your next opponent. There are other very interesting new products that will improve your skill in the game - not to forget the rating points they will earn you.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/only-today-it-s-25-off",
+         "pubDate" : "Tue, 11 Nov 2025 20:24:00",
+         "title" : "Only today: it's 25% off!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125254177.cms\" />FIDE has filed a formal complaint against former World Champion Vladimir Kramnik with its Ethics & Disciplinary Commission. The complaint addresses Kramnik's repeated public accusations of cheating against deceased GM Daniel Naroditsky and GM David Navara, citing harassment and insult to dignity. The EDC will now review the evidence and testimony.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-files-formal-complaint-against-former-world-chess-champion-vladimir-kramnik-after-daniel-naroditskys-tragic-death/articleshow/125254177.cms",
+         "pubDate" : "Tue, 11 Nov 2025 17:18:29",
+         "title" : "Naroditsky's tragic death: Kramnik under fire! FIDE files formal complaint"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125252167.cms\" />Indian Grandmasters secured several draws in the FIDE World Cup 2025's fourth round, with R Praggnanandhaa and Arjun Erigaisi among those sharing points. Two-time champion Levon Aronian, however, clinched a victory. Veteran Peter Leko opted for a draw against Arjun, citing time pressure and a desire to play with black in the next encounter.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-r-praggnanandhaa-escapes-scare-arjun-erigaisi-too-settles-for-stalemate/articleshow/125252167.cms",
+         "pubDate" : "Tue, 11 Nov 2025 16:55:01",
+         "title" : "Chess WC, Round 4: Pragg escapes scare; Erigaisi too settles for stalemate"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125250784.cms\" />Anish Giri has downplayed criticism of FIDE World Cup conditions in Goa, calling some claims exaggerated. While acknowledging challenges like jet lag and different food for Western players, he noted the availability of Western dishes and reasonable spice levels. Giri also humorously dismissed reports of bedbugs, suggesting they might stem from misidentification and a lack of firsthand experience.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/hilarious-from-viswanathan-anand-to-anish-giri-top-chess-stars-get-candidates-2026-venue-wrong-watch/articleshow/125247381.cms",
          "pubDate" : "Tue, 11 Nov 2025 13:03:43",
          "title" : "Hilarious! From Anand to Giri, chess stars get Candidates venue wrong - Watch"
+      },
+      {
+         "description" : "Eleven was the number of the day, with GM Magnus Carlsen winning the 11th Titled Tuesday of the current season on November 11 by scoring a perfect 11/11. In the last four rounds, he toppled a quartet of top rivals in GMs Hans Niemann, Alireza Firo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-november-11-2025",
+         "pubDate" : "Tue, 11 Nov 2025 11:01:45",
+         "title" : "Carlsen Takes Down Everyone En Route To 11/11"
       },
       {
          "description" : "Two-time world cup winner GM Levon Aronian smoothly beat GM Radoslaw Wojtaszek as round four of the 2025 FIDE World Cup began in Goa. The day&#39;s only other winner was GM Jose Martinez, who followed a 2-0 victory over GM Nodirbek Abdusattorov with a...",
@@ -58,28 +90,12 @@ news_feed (
          "title" : "Texas Tech Shakes Up Collegiate Chess League Standings, Defeats UTD"
       },
       {
-         "description" : "Today is Discount Day, and we are offering you a 25% price reduction on most products: software, services, video courses, the ChessBase Account. The premium offer is the brand-new ChessBase'26, which provides a new way to understand opening plans, to prepare for your next opponent. There are other very interesting new products that will improve your skill in the game - not to forget the rating points they will earn you.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/only-today-it-s-25-off",
-         "pubDate" : "Mon, 10 Nov 2025 14:00:00",
-         "title" : "Only today: it's 25% off!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125221308.cms\" />Chennai's Raahul VS achieved a significant milestone by becoming India's 91st Grandmaster. He secured the title by winning the 6th ASEAN Individual Open Chess Championship. This direct title win is a rare accomplishment. Raahul overcame financial struggles and mental challenges to reach this point. He now aims for further success in his chess career.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/making-of-indias-91st-gm-raahul-vs-battling-financial-troubles-negative-emotions-before-doing-a-divya-deshmukh-exclusive/articleshow/125221308.cms",
          "pubDate" : "Mon, 10 Nov 2025 12:32:53",
          "title" : "Making of India's 91st GM: Battling financial troubles, 'negative emotions' | Exclusive"
-      },
-      {
-         "description" : "On November 11, 2025, the time has come: ChessBase'26 will be released and available in the ChessBase Shop. Don't miss out - get ChessBase'26 with its many exciting new features! Look forward to the latest edition of your chess database software and order it from tomorrow in our shop. Then you can start enjoying all the new features right away.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-expand-your-chess-horizon",
-         "pubDate" : "Mon, 10 Nov 2025 10:11:08",
-         "title" : "ChessBase'26: Expand Your Chess Horizon!"
       },
       {
          "description" : "We&#39;re excited to announce 3 0 Thursday (three-oh-Thursday), our new weekly prize event for titled players! The event will feature a 3+0 time control, the most popular among titled players on our website. Every Thursday, titled players can now play...",
@@ -362,22 +378,6 @@ news_feed (
          "title" : "Lodici Knocks Out Niemann, Rasmus Svane Wins In Armageddon"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125124294.cms\" />India's P. Harikrishna secured a swift 21-move victory in the Chess World Cup, advancing to the third round with a brilliant queen sacrifice. Meanwhile, Surya Shekhar Ganguly's aggressive queen sacrifice against Maxime Vachier-Lagrave resulted in a draw, leading to his elimination. Several other Indian players also advanced, while some faced tiebreaks or were knocked out.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/double-queen-sacrifice-drama-p-harikrishna-wins-surya-shekhar-ganguly-bows-out-at-chess-world-cup/articleshow/125124294.cms",
-         "pubDate" : "Thu, 06 Nov 2025 05:42:35",
-         "title" : "Double queen sacrifice drama: Harikrishna wins, Ganguly bows out at Chess World Cup"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125123825.cms\" />Indian Grandmaster Diptayan Ghosh stunned two-time Candidates champion Ian Nepomniachtchi in the Chess World Cup. The unseeded 27-year-old defeated the higher-rated Russian in just two classical games, marking a significant upset. Ghosh, who previously worked as a bank clerk, expressed his delight at the biggest victory of his career.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/unseeded-diptayan-ghosh-knocks-out-two-time-candidates-champion-ian-nepomniachtchi-in-goa/articleshow/125123825.cms",
-         "pubDate" : "Thu, 06 Nov 2025 05:26:37",
-         "title" : "Unseeded Diptayan Ghosh knocks out two-time Candidates champion Ian Nepo in Goa"
-      },
-      {
          "description" : "After six days, two rounds, and countless upsets at the 2025 FIDE World Cup (read our preview, which describes the format, here), only five Americans (out of 12) have made it to the final 64 in Goa, India: GMs Levon Aronian (seeded 15th), Awonder Liang (21st), Samuel Sevian (23rd), Sam Shankland (46th), and Jeffery Xiong (52nd). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Aronian analyzes a wild game in the broadcast studio. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> Aronian - who enters Round 3 as the top-rated American left standing - defeated Indian IM Aronyak Ghosh 1&frac12;-&frac12; after some dazzling attacking chess in their fir",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -560,14 +560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gothamchess-vs-world-200k-players",
          "pubDate" : "Sun, 02 Nov 2025 11:19:01",
          "title" : "GothamChess Vs. The World Hits 200,000 Players And Counting"
-      },
-      {
-         "description" : "Of the 78 matches in round one of the 2025 FIDE World Cup, 20 will go to rapid and blitz tiebreaks on Monday. The rest have been decided in the classical portion, almost unanimously, with the favorites winning. The upset of the day was IM Shixu Wa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-1-game-2",
-         "pubDate" : "Sun, 02 Nov 2025 08:35:00",
-         "title" : "IM Shixu Wang Pulls Upset, 20 Matches Go To Tiebreaks"
       },
       {
          "description" : "This is the story of how I nearly deleted the footage of a video that now has 77K views. A video that has several comments saying something along the lines of: \"This might be the most practically useful chess video I have ever watched.\" Why did I nearly delete it? Because I thought it wasn't []",
