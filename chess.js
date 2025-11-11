@@ -50,6 +50,22 @@ news_feed (
          "title" : "Karthik stuns Romanian GM in World Cup, assures himself of career's highest prize money"
       },
       {
+         "description" : "Four Americans are through to the fourth round of the 2025 FIDE World Cup in Goa, India. GM Sam Shankland's upset over 19th-seeded Indian GM Vidit Gujrathi was the best result of the round, and he'll be joined by GMs Levon Aronian, Samuel Sevian, and Awonder Liang. The fifth American who made it to Round 3, GM Jeffery Xiong, was eliminated after losing 1&frac12;-&frac12; to Vietnamese GM Le Quang Liem. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Sam Shankland's come-from-behind double-overtime victory over Vidit Gujrathi - featuring two wins for Shankland as Black - headlined the Am",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/four-americans-remain-after-three-rounds-goa",
+         "pubDate" : "Mon, 10 Nov 2025 00:00:00",
+         "title" : "Four Americans Remain After Three Rounds in Goa"
+      },
+      {
+         "description" : "GM Hikaru Nakamura's recent quest for a ratings-based spot in the Candidates Tournament has taken him to some places you wouldn't think a super-grandmaster would go: the Louisiana Championship on Labor Day weekend, the Iowa Championship in mid-September, and the Washington Dulles Open last weekend.Nakamura has a high enough rating to get into the Candidates; he just needed to rack up enough FIDE-rated games to be considered active, and that's what's led him to the relative boondocks of the chess world. He swept the Louisiana and Iowa tournaments, his highest-rated opponents still ceding more than 500 points to him; in Virginia, he drew quickly in the last round with GM Praveen Balakrishnan t",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/super-gm-wild-nakamuras-candidates-quest-ends-successfully-virginia",
+         "pubDate" : "Mon, 10 Nov 2025 00:00:00",
+         "title" : "A Super-GM in the Wild: Nakamura's Candidates Quest Ends Successfully in Virginia"
+      },
+      {
          "description" : "FIDE has announced the winners of the 16th FIDE Trainer Awards, honouring outstanding achievements in global chess training for 2024. The recipients include Pavel Kotsur (Kazakhstan), Richard Rapport (Hungary, pictured) and Mikhail Kobalia (FIDE), recognised for their contributions to women's, open and junior competitions, respectively. The Book of the Year Award went to \"Mastering Chess Endgame Calculation - Level 1\" by Adrian Mikhalchishin and Tadej Sakelšek, published by Forward Chess. | Photo: Eng Chin An / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -632,22 +648,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/check-mail-november-2025-rockin-robin",
          "pubDate" : "Fri, 31 Oct 2025 00:00:00",
          "title" : "Check is in the Mail, November 2025: Rockin' Robin!"
-      },
-      {
-         "description" : "Our rulebook has some rules that require a face-off: apparently contradictory rules that each claim they are top dog. A pair of rules, in other words, that require a TD as the referee. Can you navigate the tension and ace this quiz? 1) Draw Offers Versus Annoying BehaviorYour game is a contest of one exclamation-worthy move after another. For every move, there is an equal, opposite countermove from your opponent. As the time control approaches, you have a notion. A series of steps that give you a slight advantage. You are making progress. Your plan will, at the very least, give your opponent pause to think.Your challenger's response is to move quickly and offer a draw - over and over and ove",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-contradictory-rules-quiz",
-         "pubDate" : "Fri, 31 Oct 2025 00:00:00",
-         "title" : "Just the Rules: Contradictory Rules Quiz"
-      },
-      {
-         "description" : "The 2025 FIDE World Cup begins Saturday, Nov. 1 in Goa, India. Of the 206 participants, 12 Americans are making the trip to compete for a share of the $2,000,000 prize fund and one of three available spots for the 2026 FIDE Candidates Tournament. With GM Magnus Carlsen electing not to participate, we are guaranteed a new champion.The tournament runs through most of the month, with the final tiebreaks and closing ceremony scheduled for Wednesday, Nov. 26. The tournament is formatted as an eight-round knockout, with each round consisting of one classical game a day for two days and a third day reserved for rapid and blitz tiebreaks (if needed). The full schedule, including information about re",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-fide-world-cup-preview-so-niemann-aronian-top-list-12-americans-goa",
-         "pubDate" : "Fri, 31 Oct 2025 00:00:00",
-         "title" : "2025 FIDE World Cup Preview: So, Niemann, Aronian Top List of 12 Americans in Goa"
       },
       {
          "description" : " Landmark Tournament Concludes a Month-Long Celebration of the Newly Reopened Saint Louis Chess Club - the Nation's Chess Capital SAINT LOUIS (Oct. 30, 2025) - Grandmaster (GM) Magnus Carlsen has captured the title at the 2025 Clutch Chess: Champions Showdown, hosted by the Saint Louis Chess Club (STLCC), capping an unforgettable month of elite competition [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/world-no-1-magnus-carlsen-triumphs-at-clutch-chess-champions-showdown/\">World No. 1 Magnus Carlsen Triumphs at Clutch Chess: Champions Showdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
