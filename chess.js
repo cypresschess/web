@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125250784.cms\" />Anish Giri has downplayed criticism of FIDE World Cup conditions in Goa, calling some claims exaggerated. While acknowledging challenges like jet lag and different food for Western players, he noted the availability of Western dishes and reasonable spice levels. Giri also humorously dismissed reports of bedbugs, suggesting they might stem from misidentification and a lack of firsthand experience.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-where-are-the-bedbugs-dutch-no-1-anish-giri-lashes-out-at-criticism-around-playing-conditions-in-goa/articleshow/125250784.cms",
+         "pubDate" : "Tue, 11 Nov 2025 13:42:45",
+         "title" : "Chess WC: 'Where are the bedbugs?' Giri lashes out at criticism"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125247381.cms\" />Cyprus will host the 2026 FIDE Candidates and Women's Candidates tournaments. The events are scheduled for March 28 to April 16, 2026, near Paphos. Several players have already qualified. The FIDE World Cup in Goa will determine three more Candidates spots. India's R Praggnanandhaa is expected to top the 2025 FIDE Circuit.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/hilarious-from-viswanathan-anand-to-anish-giri-top-chess-stars-get-candidates-2026-venue-wrong-watch/articleshow/125247381.cms",
+         "pubDate" : "Tue, 11 Nov 2025 13:03:43",
+         "title" : "Hilarious! From Anand to Giri, chess stars get Candidates venue wrong - Watch"
+      },
+      {
+         "description" : "Two-time world cup winner GM Levon Aronian smoothly beat GM Radoslaw Wojtaszek as round four of the 2025 FIDE World Cup began in Goa. The day&#39;s only other winner was GM Jose Martinez, who followed a 2-0 victory over GM Nodirbek Abdusattorov with a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-4-game-1",
+         "pubDate" : "Tue, 11 Nov 2025 07:34:00",
+         "title" : "Aronian, Martinez Strike As Praggnanandhaa Escapes Vs. Dubov"
+      },
+      {
+         "description" : "GM Hikaru Nakamura has all but secured his place in the 2026 FIDE Candidates Tournament, after winning the 1st Annual Washington Dulles Open over the weekend&#38;mdash;a five-round Swiss event that provided the final classical games he needed to meet ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-candidates-tournament-set-for-cyprus-nakamura-books-spot",
+         "pubDate" : "Tue, 11 Nov 2025 06:30:00",
+         "title" : "Nakamura Clinches Candidates Spot As FIDE Announces Cyprus As 2026 Host"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125241011.cms\" />World Cup chess, which will give Candidates spots for top-3 finishers, resumes at Resort Rio in Goa on Tuesday after Monday's rest day. TOI takes cues from the first three rounds and looks ahead at the fate of the remaining 32 players in the knockouts.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -354,22 +386,6 @@ news_feed (
          "title" : "Five Americans Remain in World Cup After Two Rounds"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125113890.cms\" />Indian Grandmaster Diptayan Ghosh achieved a monumental upset at the World Chess Cup, defeating former world championship challenger Ian Nepomniachtchi. Ghosh capitalized on his opponent's errors to secure a memorable victory. Following the match, Nepomniachtchi's online comments about the conditions drew significant criticism from fans, while other Indian players also progressed.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-kramnik-2-0-in-the-works-ian-nepomniachtchi-lambasted-online-for-complaints-after-loss-to-indias-gm-diptayan-ghosh/articleshow/125113890.cms",
-         "pubDate" : "Wed, 05 Nov 2025 17:50:56",
-         "title" : "'Kramnik 2.0 in the works': Nepo lambasted for 'complaints' after loss"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125111732.cms\" />Grandmaster Diptayan Ghosh stunned former world championship challenger Ian Nepomniachtchi in a major upset at the World Chess Cup. Several other Indian players, including Arjun Erigaisi and D Gukesh, advanced smoothly, while R Praggnanandhaa and Vidit Santosh Gujrathi will head to tiebreaks.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-cup-grandmaster-diptayan-ghosh-ousts-ian-nepomniachtchi/articleshow/125111732.cms",
-         "pubDate" : "Wed, 05 Nov 2025 16:01:47",
-         "title" : "World Chess Cup: Grandmaster Diptayan Ghosh ousts Ian Nepomniachtchi"
-      },
-      {
          "description" : " Jay Williams was an All-American and &#8220;National Player of the Year&#8221; at Duke University and was a first-round draft pick for the Chicago Bulls. He graduated in three years with dual degrees in sociology and business, and his work ethic was a hallmark of his college career. His #22 is retired at his alma mater. The post <a href=\"https://thechessdrum.net/blog/2025/11/05/jay-williams-on-finance-and-chess/\">Jay Williams on Finance and Chess</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -554,14 +570,6 @@ news_feed (
          "title" : "IM Shixu Wang Pulls Upset, 20 Matches Go To Tiebreaks"
       },
       {
-         "description" : "An inspired GM Andrew Tang posted a 27-game unbeaten streak during Saturday&#39;s Bullet Brawl and surged to his 14th career victory ahead of 48-time winner GM Hikaru Nakamura. Tang chalked up 51 wins, four draws, and 11 losses in the two-hour arena...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-nov-1-2025",
-         "pubDate" : "Sat, 01 Nov 2025 19:56:00",
-         "title" : "Tang Surges To 14th Bullet Brawl Title After 27-Game Unbeaten Streak"
-      },
-      {
          "description" : "This is the story of how I nearly deleted the footage of a video that now has 77K views. A video that has several comments saying something along the lines of: \"This might be the most practically useful chess video I have ever watched.\" Why did I nearly delete it? Because I thought it wasn't []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -576,14 +584,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-realms-of-gold/",
          "pubDate" : "Sat, 01 Nov 2025 12:15:22",
          "title" : "The realms of gold"
-      },
-      {
-         "description" : "GM Vincent Keymer gained 18 points across the 2025 European Team Chess Championship and 2025 European Club Cup to break into the top five for the first time in his career on the November 2025 FIDE rating list. GM Anish Giri is up to fifth, while W...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/november-2025-fide-ratings",
-         "pubDate" : "Sat, 01 Nov 2025 10:03:00",
-         "title" : "Keymer Storms To No. 4, Gukesh Back in Top 10: November 2025 FIDE Ratings"
       },
       {
          "description" : "Three rounds have been already played at the European Youth Chess Championship 2025 in Budva, Montenegro. After three intense rounds, only 71 of nearly 1200 participants have managed to preserve a perfect score of three points, underscoring the fierce level of competition across all sections. Two players tie for the top in Open U18 section; Open U16 and Open U12 categories each have six co-leaders, while seven players are tied for first place in both Open U14 and Open U10 []",
@@ -848,14 +848,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/swiss-manager-liveboards-course/",
          "pubDate" : "Wed, 22 Oct 2025 15:46:37",
          "title" : "Swiss Manager/Liveboards Course"
-      },
-      {
-         "description" : " The death of Daniel Naroditsky at the age of only 29 has come as a great shock. Naroditsky was a well known chess commentator and streamer who became a GM in 2013 and had a peak rating of 2647 in May 2017. His play was limited to mostly blitz in recent years, both online and over the board, although his fifth and final appearance in the US Championships was as recent as 2021. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/daniel-naroditsky-1995-2025",
-         "pubDate" : "Tue, 21 Oct 2025 13:53:00",
-         "title" : "Daniel Naroditsky 1995-2025 - 1995-2025"
       }
    ]
 }
