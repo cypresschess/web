@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
+         "pubDate" : "Wed, 12 Nov 2025 10:20:00",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125266862.cms\" />Pragg's 39th move mistake gave him a lost position, while Dubov's reply - sacrificing queen - gave the Indian GM the chance to bring parity. Two moves later, the draw was agreed.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-praggnanandhaa-survives-daniil-dubov-scare/articleshow/125266862.cms",
          "pubDate" : "Wed, 12 Nov 2025 06:18:55",
          "title" : "Chess World Cup: Praggnanandhaa survives Daniil Dubov scare"
-      },
-      {
-         "description" : "Today is Discount Day, and we are offering you a 25% price reduction on most products: software, services, video courses, the ChessBase Account. The premium offer is the brand-new ChessBase'26, which provides a new way to understand opening plans, to prepare for your next opponent. There are other very interesting new products that will improve your skill in the game - not to forget the rating points they will earn you.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/only-today-it-s-25-off",
-         "pubDate" : "Tue, 11 Nov 2025 20:24:00",
-         "title" : "Only today: it's 25% off!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125254177.cms\" />FIDE has filed a formal complaint against former World Champion Vladimir Kramnik with its Ethics & Disciplinary Commission. The complaint addresses Kramnik's repeated public accusations of cheating against deceased GM Daniel Naroditsky and GM David Navara, citing harassment and insult to dignity. The EDC will now review the evidence and testimony.",
