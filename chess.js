@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125266862.cms\" />Pragg's 39th move mistake gave him a lost position, while Dubov's reply - sacrificing queen - gave the Indian GM the chance to bring parity. Two moves later, the draw was agreed.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-praggnanandhaa-survives-daniil-dubov-scare/articleshow/125266862.cms",
+         "pubDate" : "Wed, 12 Nov 2025 06:18:55",
+         "title" : "Chess World Cup: Praggnanandhaa survives Daniil Dubov scare"
+      },
+      {
          "description" : "Today is Discount Day, and we are offering you a 25% price reduction on most products: software, services, video courses, the ChessBase Account. The premium offer is the brand-new ChessBase'26, which provides a new way to understand opening plans, to prepare for your next opponent. There are other very interesting new products that will improve your skill in the game - not to forget the rating points they will earn you.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -360,14 +368,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-national-chess-championship-2025-in-guntur-ap/",
          "pubDate" : "Thu, 06 Nov 2025 15:59:19",
          "title" : "Certificate :National Chess Championship 2025 in Guntur AP"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125137484.cms\" />Indian Grandmaster Vidit Gujrathi advanced to the third round of the FIDE World Cup 2025 after defeating 12-year-old Faustino Oro. Young stars Pranav V and Pranesh M also secured their spots in the next stage with impressive victories. Gujrathi praised Oro as a \"special\" talent among the new generation of computer-trained players.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-gujrathi-outsmarts-12-year-old-prodigy-faustino-oro/articleshow/125137484.cms",
-         "pubDate" : "Thu, 06 Nov 2025 15:26:50",
-         "title" : "Chess World Cup: Vidit Gujrathi outsmarts 12-year-old prodigy Faustino Oro"
       },
       {
          "description" : "The European Corporate Chess Championship 2025, organised by Asnière Le Grand Echiquier under the auspices of the European Chess Union, will be held on 7-8 November in Asnieres sur Seine, Paris, France. The event gathers 54 corporate teams, including Google, PWC, KPMG, UBS, Bank of France, Dassault, Societe G&eacute;n&eacute;rale, Leonard, EBRD, Greco and others. The top seeded teams are Greco (Ukraine), Global Ramblers (Czech Republic), Agrofert (Bulgaria), Redia A/S (Austria), and TePe Sigeman (Sweden). The teams are represented by strong []",
