@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 9th edition of the European Small Nations Team Chess Championship starts this week in Larnaca, Cyprus, and will be held from 14th-23rd November in the Sun Hall Hotel. The event gathers 10 teams from Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, Monaco and San Marino, and each team consists of four players + one reserve player. The European Small Nations Team Chess Championship 2025 will be played in 9 rounds, round robin system, with the time control []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-small-nations-team-chess-championship-2025-starts-in-cyprus/",
+         "pubDate" : "Wed, 12 Nov 2025 17:43:15",
+         "title" : "European Small Nations Team Chess Championship 2025 starts in Cyprus"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125278675.cms\" />Indian Grandmasters Arjun Erigaisi, R Praggnanandhaa, and P Harikrishna advanced to tiebreaks in the FIDE World Cup 2025 after drawing their classical games. All three faced tough opponents in their fourth-round matches, with their campaigns now hinging on the upcoming tiebreak encounters set to be played on Thursday. GM Jose Eduardo Martinez Alcantara became the first player to reach the round of 16.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-arjun-erigaisi-r-praggnanandhaa-and-p-harikrishna-stay-in-contention-as-trio-heads-for-tie-breaks/articleshow/125278675.cms",
+         "pubDate" : "Wed, 12 Nov 2025 16:40:58",
+         "title" : "Chess WC: Arjun, Pragg, Harikrishna stay in contention, head for tie-breaks"
+      },
+      {
          "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-files-ethics-complaint-against-kramnik",
-         "pubDate" : "Wed, 12 Nov 2025 07:40:27",
+         "pubDate" : "Wed, 12 Nov 2025 07:40:00",
          "title" : "FIDE Confirms Ethics Investigation Into Kramnik Following Death Of Naroditsky"
       },
       {
@@ -368,14 +384,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnandhaa-survives-major-scare-advances-as-five-indians-reach-round-3-at-world-cup-chess/articleshow/125151810.cms",
          "pubDate" : "Fri, 07 Nov 2025 07:17:38",
          "title" : "R Praggnandhaa survives major scare, advances as five Indians reach Round 3 at World Cup chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125151632.cms\" />Reigning world junior champion Pranav V defeated his friend Aryan Tari from Norway 2.5-1.5 in rapid tiebreaks to advance to the third round of the World Cup. Pranav, the only Indian wildcard recipient to reach this stage, utilized a blunder by Tari to secure a crucial win.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-junior-title-is-one-thing-im-aiming-higher-now-pranav-v-enters-world-cup-third-round/articleshow/125151632.cms",
-         "pubDate" : "Fri, 07 Nov 2025 07:02:28",
-         "title" : "'World junior title is one thing, I'm aiming higher now': Pranav V enters World Cup third round"
       },
       {
          "description" : "Only one round left to be played at the European Youth Chess Championship 2025 in Budva, Montenegro, and we'll soon crown the new Champions! Heading into the last round, many sections still have the unclear situation on the top, while the others have the sole leaders. Myron Netrebka (UKR) scores perfect 8/8 points and clinched gold in the Open U8 section with a round to spare! In Girls U8 category, Stella Zhu (FIN) emerged as the sole leader with 7.5 []",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://www.thearticle.com/amadeus-ex-machina-chess-ai-and-music/",
          "pubDate" : "Sun, 26 Oct 2025 16:58:57",
          "title" : "Amadeus ex machina: chess, AI and music"
-      },
-      {
-         "description" : "The 40th European Chess Club Cup and the 29th European Women's Chess Club Cup officially concluded yesterday in Rhodes, Greece. SuperChess clinched its maiden title in the Open tournament, while Cercle d'Echecs de Monte-Carlo won its 8th gold in the Women's section. Heading into the final round of the event, SuperChess (Romania) had a perfect score and 1 match point edge over Tuxera Aquaprofit Nagykanizsai Sakk klub (Hungary). The last round was marked with the direct encounter between the two []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-club-cup-2025-concluded-in-rhodes/",
-         "pubDate" : "Sun, 26 Oct 2025 13:34:37",
-         "title" : "European Chess Club Cup 2025 concluded in Rhodes"
       },
       {
          "description" : " The 40th European Club Cup and 29th Club Cup for Women took place in Rhodes, Greece, 19th to 25th October 2025. The top teams were: <ul> <li> <strong>BayeganPendik chess sports</strong> (TUR with Giri, Mamedyarov, Rapport, Sarin, etc.)</li> <li> <strong>Alkaloid</strong> (MKD with Erigaisi, Wei Yi, Yu Yangyi, etc.)</li> <li> <strong>Novi Bor</strong> (CZE with Keymer, Vidit, Harikrishna, Navara, etc.)</li> <li> <strong>SuperChess</strong> (ROU with Gukesh, Van Foreest, Maghsoodloo, Sarana)</li> </ul> Cercle d'&eacute;checs de Monte-Carlo, Turkish Airlines sports club, Tajfun SK Ljubljana, and SuperChess were the top seeds in the women's event. There was a wide variety of player strengths co",
