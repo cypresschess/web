@@ -46,11 +46,11 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-november-11-2025",
-         "pubDate" : "Tue, 11 Nov 2025 11:01:45",
+         "pubDate" : "Tue, 11 Nov 2025 11:01:00",
          "title" : "Carlsen Takes Down Everyone En Route To 11/11"
       },
       {
-         "description" : "Two-time world cup winner GM Levon Aronian smoothly beat GM Radoslaw Wojtaszek as round four of the 2025 FIDE World Cup began in Goa. The day&#39;s only other winner was GM Jose Martinez, who followed a 2-0 victory over GM Nodirbek Abdusattorov with a...",
+         "description" : "Two-time World Cup winner GM Levon Aronian smoothly beat GM Radoslaw Wojtaszek as round four of the 2025 FIDE World Cup began in Goa. The day&#39;s only other winner was GM Jose Martinez, who followed a 2-0 victory over GM Nodirbek Abdusattorov with a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-4-game-1",
@@ -88,6 +88,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-ccl-fall-week-7-texastech-utd",
          "pubDate" : "Tue, 11 Nov 2025 00:51:03",
          "title" : "Texas Tech Shakes Up Collegiate Chess League Standings, Defeats UTD"
+      },
+      {
+         "description" : "This week's puzzles come from the Clutch Chess: Champions Showdown, which concluded two weeks ago at the newly renovated Saint Louis Chess Club. These puzzles are taken from the Wednesday Workout series on this tournament. Puzzles from Day 1 are here and Day 2 are here. Puzzles from the final day will be released tomorrow. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-clutch-chess-champions",
+         "pubDate" : "Tue, 11 Nov 2025 00:00:00",
+         "title" : "Tactics Tuesday: Clutch Chess Champions"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125221308.cms\" />Chennai's Raahul VS achieved a significant milestone by becoming India's 91st Grandmaster. He secured the title by winning the 6th ASEAN Individual Open Chess Championship. This direct title win is a rare accomplishment. Raahul overcame financial struggles and mental challenges to reach this point. He now aims for further success in his chess career.",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/46788964/can-world-champion-gukesh-add-win-fide-world-cup-title-home-goa-2025?device=featurephone",
          "pubDate" : "Fri, 31 Oct 2025 04:15:33",
          "title" : "Can world champion Gukesh add a World Cup title to his resume?"
-      },
-      {
-         "description" : "In this issue we have games from four different sections of the Victor Palciauskas tournament. This tournament, which was also partially covered in the last issue of Check is in the Mail, is a Round Robin ICCF Server-based tournament. Similar to the last issue, you will find games played by some of the winners in the tournament sections provided within the Front Office section.Reminder: The December issue of Check is in the Mail is our yearly Miniature Games issue. If you have played any game(s) that ended in 25 moves or less that you would like considered for publication in next month's issue, please email the game(s) to me. GamesReminder when reviewing the cross tables:XD = result by defau",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-november-2025-rockin-robin",
-         "pubDate" : "Fri, 31 Oct 2025 00:00:00",
-         "title" : "Check is in the Mail, November 2025: Rockin' Robin!"
       },
       {
          "description" : " Landmark Tournament Concludes a Month-Long Celebration of the Newly Reopened Saint Louis Chess Club - the Nation's Chess Capital SAINT LOUIS (Oct. 30, 2025) - Grandmaster (GM) Magnus Carlsen has captured the title at the 2025 Clutch Chess: Champions Showdown, hosted by the Saint Louis Chess Club (STLCC), capping an unforgettable month of elite competition [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/world-no-1-magnus-carlsen-triumphs-at-clutch-chess-champions-showdown/\">World No. 1 Magnus Carlsen Triumphs at Clutch Chess: Champions Showdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
