@@ -10,12 +10,44 @@ news_feed (
          "title" : "FIDE World Cup - Live!"
       },
       {
+         "description" : "The International Chess Federation (FIDE) confirmed on Tuesday that they have formally filed a complaint against GM Vladimir Kramnik, the 14th world champion, referring him to the Ethics &#38;amp; Disciplinary Commission (EDC) for investigation into t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-files-ethics-complaint-against-kramnik",
+         "pubDate" : "Wed, 12 Nov 2025 07:40:27",
+         "title" : "FIDE Confirms Ethics Investigation Into Kramnik Following Death Of Naroditsky"
+      },
+      {
+         "description" : "GM Alexander Donchenko followed up his win over GM Anish Giri by knocking out German teammate GM Matthias Bluebaum to reach the Last 16 of the 2025 FIDE World Cup. He&#39;s joined by GMs Jose Martinez and Levon Aronian, who gave GMs Alexey Sarana and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-4-game-2",
+         "pubDate" : "Wed, 12 Nov 2025 07:15:00",
+         "title" : "Donchenko, Martinez Continue Giant-Killing As 11 Matches Go To Tiebreaks"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125266862.cms\" />Pragg's 39th move mistake gave him a lost position, while Dubov's reply - sacrificing queen - gave the Indian GM the chance to bring parity. Two moves later, the draw was agreed.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-praggnanandhaa-survives-daniil-dubov-scare/articleshow/125266862.cms",
          "pubDate" : "Wed, 12 Nov 2025 06:18:55",
          "title" : "Chess World Cup: Praggnanandhaa survives Daniil Dubov scare"
+      },
+      {
+         "description" : "Not sure what chess opening you should play next? You can now take our new Opening Recommendation Quiz and find out! Answer seven simple questions, and we&#39;ll suggest an opening that best fits your playing style, level, and preferences. Find Your...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-opening-recommendation-quiz",
+         "pubDate" : "Wed, 12 Nov 2025 06:00:00",
+         "title" : "Find Out Which Opening You Should Play With Our New Quiz"
+      },
+      {
+         "description" : "This week's puzzles come from the final day of the Clutch Chess: Champions Showdown, which concluded last month at the newly renovated Saint Louis Chess Club. See puzzles from Day 1 here, and from Day 2 here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-clutch-chess-champions-day-3",
+         "pubDate" : "Wed, 12 Nov 2025 00:00:00",
+         "title" : "Wednesday Workout: Clutch Chess Champions, Day 3"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125254177.cms\" />FIDE has filed a formal complaint against former World Champion Vladimir Kramnik with its Ethics & Disciplinary Commission. The complaint addresses Kramnik's repeated public accusations of cheating against deceased GM Daniel Naroditsky and GM David Navara, citing harassment and insult to dignity. The EDC will now review the evidence and testimony.",
@@ -514,22 +546,6 @@ news_feed (
          "title" : "Battle The Old School RuneScape Bots On Chess.com!"
       },
       {
-         "description" : "Twelve-year-old IM Faustino Oro, the youngest participant in the&#38;nbsp;2025 FIDE World Cup, is among the 20 players who advance to round two after tiebreaks. He defeated GM Ante Brkic 5-3 in one of the longest matches. The matchups only get harder ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-1-tiebreaks",
-         "pubDate" : "Mon, 03 Nov 2025 06:59:00",
-         "title" : "12-Year-Old Oro Among 20 Winners In Tiebreaks"
-      },
-      {
-         "description" : "GM Victor Mikhalevski of Israel won the 50+ section at the FIDE World Senior Championships in Gallipoli, Italy, on Saturday. IM Alexander Reprintsev of Ukraine edged out five other players on tiebreaks to win the 65+ group. In the Women&#39;s sections...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/mikhalevski-reprintsev-arakhamia-grant-strutinskaia-fide-world-senior-championships-2025",
-         "pubDate" : "Mon, 03 Nov 2025 04:36:07",
-         "title" : "Victor Mikhalevski Wins 50+ Section at FIDE World Senior Championships"
-      },
-      {
          "description" : "Arizona's IM Mark Ginsburg is a World Senior Co-Champion. The 2025 FIDE World Senior Championships were held Oct. 21 through Nov. 1 in Gallipoli, Italy, and featured 433 participants from 62 federations across four sections (Over-65 and Over-50 categories for both Open and Women) competing for a share of the €50,000 prize fund. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Open Over-65 Podium (Photo courtesy FIDE)<br> <br> <br> <br> Ginsburg finished with 8&frac12;/11 in the Over-65 Open, putting him in a six-way tie for first, finishing fifth on tiebreaks. Ginsburg earned a GM norm for his performance. Ukrainian IM Alexander Reprintsev finished fi",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -546,28 +562,12 @@ news_feed (
          "title" : "US Chess Soliciting Bids for the 2026 North American Junior Championship"
       },
       {
-         "description" : "US Chess is seeking volunteers to assist at the 2025 National K-12 Grade Championships from December 11-14 in Spokane, Washington. If you're a local chess enthusiast, seeking national event experience, or an attendee with a few hours to spare, we could use your help! Click here to learn more and to sign up to be a volunteer! Volunteers must: Be over 18Complete the free SafeSport Volunteer training course (if not already SafeSport certified)Pass a background checkUS Chess membership a plus! Please check out our FAQs for additional information on our volunteer program. Volunteering is a great opportunity to work alongside our staff, increase your visibility, and gain behind-the-scenes insights",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/volunteers-wanted-2025-national-k-12-grade-championships",
-         "pubDate" : "Mon, 03 Nov 2025 00:00:00",
-         "title" : "Volunteers Wanted for 2025 National K-12 Grade Championships"
-      },
-      {
          "description" : "Five rounds have been already played at the European Youth Chess Championship 2025 in Budva, Montenegro, and only four rounds left before the announcement of the Winners! Out of nearly 1200 young talents, only a handful have managed to keep a perfect 5/5 score. Tomorrow serves as a well-deserved rest day, before the battles resume on Tuesday, November 4, with Round 6. Heading to tomorrow's free day, Bilge Arslan (TUR) stands alone atop the Girls U8 section with a flawless []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-youth-chess-championship-2025-is-halfway-through/",
          "pubDate" : "Sun, 02 Nov 2025 21:11:10",
          "title" : "European Youth Chess Championship 2025 is halfway through"
-      },
-      {
-         "description" : "GothamChess vs. The World has blown past previously-established records and continues to set new ones, with now more than 200,000 players having joined in. That total is nearly 40% more than the previous record, which was set during Magnus vs. the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gothamchess-vs-world-200k-players",
-         "pubDate" : "Sun, 02 Nov 2025 11:19:01",
-         "title" : "GothamChess Vs. The World Hits 200,000 Players And Counting"
       },
       {
          "description" : "This is the story of how I nearly deleted the footage of a video that now has 77K views. A video that has several comments saying something along the lines of: \"This might be the most practically useful chess video I have ever watched.\" Why did I nearly delete it? Because I thought it wasn't []",
@@ -832,14 +832,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-9/",
          "pubDate" : "Wed, 22 Oct 2025 23:12:12",
          "title" : "POSTGAME ROUND 9 | #USChessChamps"
-      },
-      {
-         "description" : "The ECF will be running two courses on the 15th and 16th November as follows &#8212; A Swiss Manager course on Saturday 15th November, starting at 10am and lasting until...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/swiss-manager-liveboards-course/",
-         "pubDate" : "Wed, 22 Oct 2025 15:46:37",
-         "title" : "Swiss Manager/Liveboards Course"
       }
    ]
 }
