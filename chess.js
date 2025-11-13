@@ -18,6 +18,30 @@ news_feed (
          "title" : "Robert Hungaski wins ProAm Open in Buenos Aires"
       },
       {
+         "description" : "You&#39;ve seen them crawling, and now it&#39;s time to see them running! The strongest PogChamps participants in history are gathering to take on new challengers in SuperPogChamps from December 2 to 5. Former chess novices from past PogChamps and strong ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-superpogchamps-2025",
+         "pubDate" : "Thu, 13 Nov 2025 08:04:00",
+         "title" : "SuperPogChamps To Start December 2 With Strongest PogChamps Field Ever"
+      },
+      {
+         "description" : "Second-seed GM Arjun Erigaisi is the only official top-10 player remaining in the 2025 FIDE World Cup after beating GM Peter Leko 2-0 in round-four tiebreaks. GM Daniil Dubov took down 2023 runner-up GM Praggnanandhaa Rameshbabu, while GM Andrey E...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-4-tiebreaks",
+         "pubDate" : "Thu, 13 Nov 2025 07:48:15",
+         "title" : "Arjun Strides On As Pragg, Keymer, MVL, Rapport Lead World Cup Exodus"
+      },
+      {
+         "description" : "The 2025 Freestyle Chess Grand Slam Tour will reach its conclusion in South Africa next month, and one key question is whether anyone can stop GM Magnus Carlsen from taking the title as the first-ever Freestyle Chess Champion.&#38;nbsp; The fifth an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/can-anyone-stop-carlsen-2025-freestyle-grand-slam-south-africa",
+         "pubDate" : "Thu, 13 Nov 2025 07:08:23",
+         "title" : "Can Anyone Stop Carlsen From Winning The Freestyle Grand Slam Tour?"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125292537.cms\" />India's chess captain N Srinath admits the home team's World Cup performance was underwhelming, attributing it to confusion over prioritizing different tournament formats. He stresses the need for clear goals and direction for young players amidst a surge in chess activity.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -184,6 +208,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-ccl-fall-week-7-texastech-utd",
          "pubDate" : "Tue, 11 Nov 2025 00:51:03",
          "title" : "Texas Tech Shakes Up Collegiate Chess League Standings, Defeats UTD"
+      },
+      {
+         "description" : "The third U.S. Senior Women's Championship will take place this weekend from Nov. 14-16 at the Residence Inn by Marriott in Salt Lake City, Utah. This will be an official US Chess National Championship with an $8,400 prize fund. The FIDE-rated, five-round Swiss tournament will be played at the classical time control of game-in-90 minutes with a 30-second increment beginning on move one. Games will be broadcast live, and Chess Life Online will have daily recaps from WIM Dr. Alexey Root. WGM Sabina Foisor will also be streaming live commentary on the US Chess Twitch channel beginning at 7:00 p.m. MST on Friday, November 14.The Utah State Chess Association and David Day are listed as affiliates",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/3rd-us-senior-womens-championship-preview",
+         "pubDate" : "Tue, 11 Nov 2025 00:00:00",
+         "title" : "3rd U.S. Senior Women's Championship Preview"
       },
       {
          "description" : "This week's puzzles come from the Clutch Chess: Champions Showdown, which concluded two weeks ago at the newly renovated Saint Louis Chess Club. These puzzles are taken from the Wednesday Workout series on this tournament. Puzzles from Day 1 are here and Day 2 are here. Puzzles from the final day will be released tomorrow. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -522,22 +554,6 @@ news_feed (
          "title" : "Get Coached By Your Favorite Chess Stars With Chess.com's New Feature"
       },
       {
-         "description" : "PogChamps Champion Eberechi Eze&#39;s skills on the soccer pitch have made him a star for English Premier League side Arsenal, but last month the England international returned to his former school in London to launch a new chess initiative, in partne...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/eberechi-eze-returns-to-school-to-speak-about-his-love-for-chess",
-         "pubDate" : "Tue, 04 Nov 2025 05:43:00",
-         "title" : "Premier League Star Eberechi Eze Returns To School To Speak About Love For Chess"
-      },
-      {
-         "description" : "For the last couple of years the Collegiate Chess League (CCL) has been a battle between two giants, the defending champions, Saint Louis University (SLU) and the University of Missouri, Columbia (Mizzou). However, in week five, the University of ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-ccl-fall-week-5-slu-utd",
-         "pubDate" : "Tue, 04 Nov 2025 04:53:59",
-         "title" : "UTD Defeats SLU, Holds Top Spot In Collegiate Chess League"
-      },
-      {
          "description" : "This week's puzzles are a tribute to GM Daniel Naroditsky's early years. Read Chess Life Online's obituary here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -562,28 +578,12 @@ news_feed (
          "title" : "Communique of the ECU General Assembly in Batumi, Georgia"
       },
       {
-         "description" : "This month only, Chess.com and Jagex have teamed up to bring you five limited-edition bots, a lineup of the most famous (and infamous) characters in all of Gielinor! As Old School RuneScape fans anxiously await the Sailing update coming on Novembe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-runescape-bots",
-         "pubDate" : "Mon, 03 Nov 2025 08:02:46",
-         "title" : "Battle The Old School RuneScape Bots On Chess.com!"
-      },
-      {
          "description" : "Arizona's IM Mark Ginsburg is a World Senior Co-Champion. The 2025 FIDE World Senior Championships were held Oct. 21 through Nov. 1 in Gallipoli, Italy, and featured 433 participants from 62 federations across four sections (Over-65 and Over-50 categories for both Open and Women) competing for a share of the €50,000 prize fund. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Open Over-65 Podium (Photo courtesy FIDE)<br> <br> <br> <br> Ginsburg finished with 8&frac12;/11 in the Over-65 Open, putting him in a six-way tie for first, finishing fifth on tiebreaks. Ginsburg earned a GM norm for his performance. Ukrainian IM Alexander Reprintsev finished fi",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/mark-ginsburg-ties-first-fide-world-senior-championships",
          "pubDate" : "Mon, 03 Nov 2025 00:00:00",
          "title" : "Mark Ginsburg Ties For First at FIDE World Senior Championships"
-      },
-      {
-         "description" : "US Chess announces the solicitation of bids for hosting the 2026 North American Junior Chess Championships. The Confederation of Chess for Americas (CCA) has awarded the United States of America, FIDE Zone 2.1, the right to host this prestigious tournament in 2026. Usually, we do not have a guarantee that an event will be located in Zone 2.1 in any given year. Since that is the case for the 2026 North American Juniors, we wish to give any licensed International Organizer in the US the chance to bid.Please note, the final decision on awarding this event rests with CCA, which has final authority for FIDE continental-level events in North America. US Chess has final authority on which bids to s",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-soliciting-bids-2026-north-american-junior-championship",
-         "pubDate" : "Mon, 03 Nov 2025 00:00:00",
-         "title" : "US Chess Soliciting Bids for the 2026 North American Junior Championship"
       },
       {
          "description" : "Five rounds have been already played at the European Youth Chess Championship 2025 in Budva, Montenegro, and only four rounds left before the announcement of the Winners! Out of nearly 1200 young talents, only a handful have managed to keep a perfect 5/5 score. Tomorrow serves as a well-deserved rest day, before the battles resume on Tuesday, November 4, with Round 6. Heading to tomorrow's free day, Bilge Arslan (TUR) stands alone atop the Girls U8 section with a flawless []",
