@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125292537.cms\" />India's chess captain N Srinath admits the home team's World Cup performance was underwhelming, attributing it to confusion over prioritizing different tournament formats. He stresses the need for clear goals and direction for young players amidst a surge in chess activity.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-coach-seeks-clarity-on-total-chess-world-championship-standing/articleshow/125292537.cms",
+         "pubDate" : "Thu, 13 Nov 2025 06:38:52",
+         "title" : "India coach seeks clarity on Total Chess World Championship standing"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125292168.cms\" />Italian Grandmaster Lorenzo Lodici, the lowest-rated GM in the FIDE Chess World Cup, has captured attention by defeating a seasoned English player. Lodici, Italy's top player, actively engages with fans, seeing it as crucial for popularizing the game. He dreams of achieving significant fame for Italian chess, akin to tennis star Sinner's impact.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/want-to-be-sinner-of-chess-in-italy-lorenzo-lodici/articleshow/125292168.cms",
+         "pubDate" : "Thu, 13 Nov 2025 06:20:57",
+         "title" : "Want to be Sinner of chess in Italy: Lorenzo Lodici"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125291762.cms\" />Uzbekistan's Nodirbek Yakubboev ended V Pranav's run in the Chess World Cup, while Vietnam's Le Quang Liem advanced to the pre-quarterfinals. Several Indian players, including R Praggnanandhaa, Erigaisi Arjun, and P Harikrishna, will compete in tiebreaks after drawing their classical games. Levon Aronian, Jose Eduardo Martinez Alcantara, and Alexander Donchenko also secured spots in the last 16.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-heartbreak-for-pranav-karthik-arjun-pragg-harikrishna-head-to-tiebreak-in-fourth-round/articleshow/125291762.cms",
+         "pubDate" : "Thu, 13 Nov 2025 05:58:12",
+         "title" : "Chess World Cup: Heartbreak for Pranav, Karthik; Arjun, Pragg, Harikrishna head to tiebreak in fourth round"
+      },
+      {
          "description" : "Cautious play dominated Wednesday's round-of-32 rematches at the FIDE World Cup in Goa, but five players still secured their places in the last sixteen. Le Quang Liem, Nodirbek Yakubboev and Alexander Donchenko (pictured) advanced with wins, while Levon Aronian and Jose Martinez held draws after leading from the first game. With the remaining matches heading to tiebreaks, several compelling clashes await as the field continues to narrow. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -330,28 +354,12 @@ news_feed (
          "title" : "Drama at Chess WC! Lithuania GM complaints against India's Pranav"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125165169.cms\" />Indian Grandmasters Arjun Erigaisi and P Harikrishna secured impressive victories in the FIDE World Cup 2025's third round. Erigaisi dominated his opponent in just 30 moves, while Harikrishna surprised with a sharp Sicilian Classical variation, forcing a quick resignation.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-2025-arjun-erigaisi-harikrishna-shine-as-gukesh-held-to-draw-in-round-3-opener/articleshow/125165169.cms",
-         "pubDate" : "Fri, 07 Nov 2025 15:45:10",
-         "title" : "Chess WC: Arjun Erigaisi, Harikrishna shine as Gukesh held to draw in Round 3 opener"
-      },
-      {
          "description" : "Save the dates: November 21-23, 2025, for our 31st edition of the Preparation of Teachers course - a golden opportunity to become a certified FIDE School Instructor! &#160; &#160; Conducted...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/31st-fide-preparation-of-teachers-course/",
          "pubDate" : "Fri, 07 Nov 2025 11:23:03",
          "title" : "31st FIDE Preparation of Teachers Course"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125156575.cms\" />Divya Deshmukh clinched the Women's World Cup, becoming the first Indian to win the title. Meanwhile, seasoned campaigner Koneru Humpy took a well-deserved break to focus on family after the intense tournament. Humpy is now gearing up for a comeback in the Global Chess League and World Rapid and Blitz Championships.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-koneru-humpy-goes-awol-since-womens-world-cup-final-defeat-where-is-indias-chess-legend/articleshow/125156575.cms",
-         "pubDate" : "Fri, 07 Nov 2025 10:12:39",
-         "title" : "Exclusive | Humpy goes AWOL since WC final defeat: Where is she?"
       },
       {
          "description" : " Ian Nepomniachtchi was a world title challenger, Wesley So is ranked No 8, and Hans Niemann has huge ambition, but all lost to unheralded opponents The $2m (&pound;1.5m), 206-player World Cup taking place in Goa, India, has a brutal format designed to maximise the chance of shock results. Its knockout matches consist of the best of just two classical games, followed by rapid and blitz tie-breaks at increasingly fast speeds, then a final Armageddon game where White has more time but is obliged to win. The major incentive besides the prize money is three places in the 2026 Candidates, the pathway to the world title. Ian Nepomniachtchi, the Russia No 1 who twice played for the global crown, th",
@@ -376,14 +384,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-3-game-1",
          "pubDate" : "Fri, 07 Nov 2025 07:41:00",
          "title" : "Martinez Upsets Abdusattorov With Black Pieces"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125151810.cms\" />Temur Kuybokarov missed a crucial opportunity to defeat R Praggnanandhaa in the World Cup chess, allowing the Indian to advance. Despite early setbacks for other Indian players, five out of eight, including Vidit Gujrathi, progressed to the third round. Praggnanandhaa narrowly escaped elimination after a tense tiebreak, surviving a near-fatal blunder.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnandhaa-survives-major-scare-advances-as-five-indians-reach-round-3-at-world-cup-chess/articleshow/125151810.cms",
-         "pubDate" : "Fri, 07 Nov 2025 07:17:38",
-         "title" : "R Praggnandhaa survives major scare, advances as five Indians reach Round 3 at World Cup chess"
       },
       {
          "description" : "Only one round left to be played at the European Youth Chess Championship 2025 in Budva, Montenegro, and we'll soon crown the new Champions! Heading into the last round, many sections still have the unclear situation on the top, while the others have the sole leaders. Myron Netrebka (UKR) scores perfect 8/8 points and clinched gold in the Open U8 section with a round to spare! In Girls U8 category, Stella Zhu (FIN) emerged as the sole leader with 7.5 []",
