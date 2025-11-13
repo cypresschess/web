@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
+         "pubDate" : "Thu, 13 Nov 2025 10:20:00",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "The 32nd ProAm Chess Open in Buenos Aires brought together 110 players for a nine-round Swiss event held at the Villa Martelli Chess Club. Running from 3 to 11 November, the tournament featured a strong field headed by Alexei Shirov, the clear rating favourite, and a number of well-known players from Latin America. Competitive results across the week led to a four-way tie on 7 points, with Robert Hungaski taking the title on tiebreak in a closely contested edition. | Photo: Ajedrez Martelli",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-hungaski-wins-pro-am-open-2025",
+         "pubDate" : "Thu, 13 Nov 2025 09:55:00",
+         "title" : "Robert Hungaski wins ProAm Open in Buenos Aires"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125292537.cms\" />India's chess captain N Srinath admits the home team's World Cup performance was underwhelming, attributing it to confusion over prioritizing different tournament formats. He stresses the need for clear goals and direction for young players amidst a surge in chess activity.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -816,14 +832,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-10/",
          "pubDate" : "Thu, 23 Oct 2025 23:26:21",
          "title" : "POSTGAME ROUND 10: Wesley Pounces! Earns Chance Tomorrow #USChessChamps"
-      },
-      {
-         "description" : "I was recently invited to have tea at the House of Lords by Baroness Miller of Chilthorne Domer to discuss my work with chess in prisons. She plays chess herself...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/the-baroness-and-the-pink-doughnut-carl-portman/",
-         "pubDate" : "Thu, 23 Oct 2025 09:24:28",
-         "title" : "The Baroness and the pink doughnut - Carl Portman"
       }
    ]
 }
