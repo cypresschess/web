@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Cautious play dominated Wednesday's round-of-32 rematches at the FIDE World Cup in Goa, but five players still secured their places in the last sixteen. Le Quang Liem, Nodirbek Yakubboev and Alexander Donchenko (pictured) advanced with wins, while Levon Aronian and Jose Martinez held draws after leading from the first game. With the remaining matches heading to tiebreaks, several compelling clashes await as the field continues to narrow. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-r4g2",
+         "pubDate" : "Thu, 13 Nov 2025 00:20:00",
+         "title" : "World Cup: Five players secure spots in round-of-16, Donchenko upsets Bluebaum"
+      },
+      {
          "description" : "The 9th edition of the European Small Nations Team Chess Championship starts this week in Larnaca, Cyprus, and will be held from 14th-23rd November in the Sun Hall Hotel. The event gathers 10 teams from Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, Monaco and San Marino, and each team consists of four players + one reserve player. The European Small Nations Team Chess Championship 2025 will be played in 9 rounds, round robin system, with the time control []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-arjun-erigaisi-r-praggnanandhaa-and-p-harikrishna-stay-in-contention-as-trio-heads-for-tie-breaks/articleshow/125278675.cms",
          "pubDate" : "Wed, 12 Nov 2025 16:40:58",
          "title" : "Chess WC: Arjun, Pragg, Harikrishna stay in contention, head for tie-breaks"
-      },
-      {
-         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Wed, 12 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "The International Chess Federation (FIDE) confirmed on Tuesday that they have formally filed a complaint against GM Vladimir Kramnik, the 14th world champion, referring him to the Ethics &#38;amp; Disciplinary Commission (EDC) for investigation into t...",
@@ -824,14 +824,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/the-baroness-and-the-pink-doughnut-carl-portman/",
          "pubDate" : "Thu, 23 Oct 2025 09:24:28",
          "title" : "The Baroness and the pink doughnut - Carl Portman"
-      },
-      {
-         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 9 &#124; GAME LINKS SO VS SEVIAN RESULT: &frac12;-&frac12;MISHRA VS ARONIAN RESULT: &frac12;-&frac12;NIEMANN VS LIANG RESULT: 1-0SHANKLAND VS CARUANA RESULT: 0-1ROBSON VS WOODWARD RESULT: &frac12;-&frac12;SWIERCZ VS OPARIN &frac12;-&frac12; ROUND 9 &#124; GAME LINKS PAIKIDZE VS PARAGUA [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-9/\">POSTGAME ROUND 9 | #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-9/",
-         "pubDate" : "Wed, 22 Oct 2025 23:12:12",
-         "title" : "POSTGAME ROUND 9 | #USChessChamps"
       }
    ]
 }
