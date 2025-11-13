@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "description" : "Thursday's tiebreakers at the FIDE World Cup in Goa saw several high seeds eliminated, including Praggnanandhaa Rameshbabu, Vincent Keymer and Maxime Vachier-Lagrave, who were knocked out by Daniil Dubov (pictured), Andrey Esipenko and Aleksey Grebnev respectively. Six lower-rated players advanced overall, while five favourites held firm to reach the round of 16. With only five players from the top 20 still in contention and eight national federations represented, the field has tightened considerably as the Candidates race enters its decisive phase. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Thu, 13 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup - Live!"
+         "link" : "https://en.chessbase.com/post/world-cup-2025-r4tb",
+         "pubDate" : "Thu, 13 Nov 2025 20:40:00",
+         "title" : "World Cup: Dubov, Esipenko, Grebnev knock out Pragg, Keymer, MVL"
       },
       {
          "description" : "The 32nd ProAm Chess Open in Buenos Aires brought together 110 players for a nine-round Swiss event held at the Villa Martelli Chess Club. Running from 3 to 11 November, the tournament featured a strong field headed by Alexei Shirov, the clear rating favourite, and a number of well-known players from Latin America. Competitive results across the week led to a four-way tie on 7 points, with Robert Hungaski taking the title on tiebreak in a closely contested edition. | Photo: Ajedrez Martelli",
@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-4-tiebreaks",
-         "pubDate" : "Thu, 13 Nov 2025 07:48:15",
+         "pubDate" : "Thu, 13 Nov 2025 07:48:00",
          "title" : "Arjun Strides On As Pragg, Keymer, MVL, Rapport Lead World Cup Exodus"
       },
       {
@@ -38,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/can-anyone-stop-carlsen-2025-freestyle-grand-slam-south-africa",
-         "pubDate" : "Thu, 13 Nov 2025 07:08:23",
+         "pubDate" : "Thu, 13 Nov 2025 07:08:00",
          "title" : "Can Anyone Stop Carlsen From Winning The Freestyle Grand Slam Tour?"
       },
       {
@@ -72,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2025-r4g2",
          "pubDate" : "Thu, 13 Nov 2025 00:20:00",
          "title" : "World Cup: Five players secure spots in round-of-16, Donchenko upsets Bluebaum"
+      },
+      {
+         "description" : "State chapter leaders are invited to join the States &amp; Affiliates Committee for the first in a new quarterly webinar series designed to provide training, resources, and best practices for state chapters. Register here, and read below for details.Date: Monday, November 17, 2025Time: 5:30 p.m. PST / 8:30 p.m. ESTDuration: 1 hourLocation: Zoom (Click here for the new link to register in advance)Who this webinar is for:State Chapter Officers, Board Members and LeadershipState Chapter Committee MembersScholastic CoordinatorsDelegatesPlease also share this invitation to your board or state chapter leadership who might be interested in attending.This inaugural session will feature two of the mo",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/register-now-first-quarterly-state-chapters-webinar-nov-17",
+         "pubDate" : "Thu, 13 Nov 2025 00:00:00",
+         "title" : "Register Now: First Quarterly State Chapters Webinar on Nov. 17"
       },
       {
          "description" : "The 9th edition of the European Small Nations Team Chess Championship starts this week in Larnaca, Cyprus, and will be held from 14th-23rd November in the Sun Hall Hotel. The event gathers 10 teams from Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, Monaco and San Marino, and each team consists of four players + one reserve player. The European Small Nations Team Chess Championship 2025 will be played in 9 rounds, round robin system, with the time control []",
@@ -576,14 +584,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-general-assembly-in-batumi-georgia/",
          "pubDate" : "Mon, 03 Nov 2025 09:54:14",
          "title" : "Communique of the ECU General Assembly in Batumi, Georgia"
-      },
-      {
-         "description" : "Arizona's IM Mark Ginsburg is a World Senior Co-Champion. The 2025 FIDE World Senior Championships were held Oct. 21 through Nov. 1 in Gallipoli, Italy, and featured 433 participants from 62 federations across four sections (Over-65 and Over-50 categories for both Open and Women) competing for a share of the €50,000 prize fund. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Open Over-65 Podium (Photo courtesy FIDE)<br> <br> <br> <br> Ginsburg finished with 8&frac12;/11 in the Over-65 Open, putting him in a six-way tie for first, finishing fifth on tiebreaks. Ginsburg earned a GM norm for his performance. Ukrainian IM Alexander Reprintsev finished fi",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/mark-ginsburg-ties-first-fide-world-senior-championships",
-         "pubDate" : "Mon, 03 Nov 2025 00:00:00",
-         "title" : "Mark Ginsburg Ties For First at FIDE World Senior Championships"
       },
       {
          "description" : "Five rounds have been already played at the European Youth Chess Championship 2025 in Budva, Montenegro, and only four rounds left before the announcement of the Winners! Out of nearly 1200 young talents, only a handful have managed to keep a perfect 5/5 score. Tomorrow serves as a well-deserved rest day, before the battles resume on Tuesday, November 4, with Round 6. Heading to tomorrow's free day, Bilge Arslan (TUR) stands alone atop the Girls U8 section with a flawless []",
