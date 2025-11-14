@@ -10,20 +10,20 @@ news_feed (
          "title" : "World Cup: Dubov, Esipenko, Grebnev knock out Pragg, Keymer, MVL"
       },
       {
+         "description" : "The Collegiate Chess League Fall 2025 Season Playoffs are upon us, and you can join in on the excitement by predicting who wins!&#38;nbsp; Will SLU defend their championship title, or will Mizzou get their revenge? Will UT Dallas earn their first ch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/win-prizes-in-the-fall-2025-ccl-predictions-challenge",
+         "pubDate" : "Thu, 13 Nov 2025 17:48:35",
+         "title" : "Win Prizes In The Fall 2025 CCL Predictions Challenge"
+      },
+      {
          "description" : "The 32nd ProAm Chess Open in Buenos Aires brought together 110 players for a nine-round Swiss event held at the Villa Martelli Chess Club. Running from 3 to 11 November, the tournament featured a strong field headed by Alexei Shirov, the clear rating favourite, and a number of well-known players from Latin America. Competitive results across the week led to a four-way tie on 7 points, with Robert Hungaski taking the title on tiebreak in a closely contested edition. | Photo: Ajedrez Martelli",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-hungaski-wins-pro-am-open-2025",
          "pubDate" : "Thu, 13 Nov 2025 09:55:00",
          "title" : "Robert Hungaski wins ProAm Open in Buenos Aires"
-      },
-      {
-         "description" : "GM Gajewski speaks to ESPN after Gukesh's shock early exit from the FIDE World Cup on lessons learnt from a tough 2025",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/46951993/world-champ-world-cup-loss-coach-gajewski-plots-gukesh-revival-2026?device=featurephone",
-         "pubDate" : "Thu, 13 Nov 2025 08:07:44",
-         "title" : "World champ to World Cup loss: Gajewski plots Gukesh revival in 2026"
       },
       {
          "description" : "You&#39;ve seen them crawling, and now it&#39;s time to see them running! The strongest PogChamps participants in history are gathering to take on new challengers in SuperPogChamps from December 2 to 5. Former chess novices from past PogChamps and strong ...",
@@ -568,14 +568,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-2-game-1",
          "pubDate" : "Tue, 04 Nov 2025 07:59:00",
          "title" : "Arjun, Keymer, Wei, Mamedyarov, Vachier-Lagrave Among Early Leaders"
-      },
-      {
-         "description" : "Every chess fan has their favorite player or creator&#38;mdash;and now, they can also be your favorite coach! We brought the world&#39;s most beloved chess personalities to Chess.com so you can make your playing and learning experience more exciting than ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/choose-your-coach-on-chesscom",
-         "pubDate" : "Tue, 04 Nov 2025 07:09:00",
-         "title" : "Get Coached By Your Favorite Chess Stars With Chess.com's New Feature"
       },
       {
          "description" : "This week's puzzles are a tribute to GM Daniel Naroditsky's early years. Read Chess Life Online's obituary here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
