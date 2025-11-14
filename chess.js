@@ -42,6 +42,14 @@ news_feed (
          "title" : "European Senior Chess Championship 2026 - Official invitation"
       },
       {
+         "description" : "19-year-old GM Javokhir Sindarov&#39;s relentless pressure finally gave him a win over GM Frederik Svane as round five of the 2025 FIDE World Cup began. All the remaining games were drawn, with GM Levon Aronian surviving a fierce attack by GM Arjun Er...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-5-game-1",
+         "pubDate" : "Fri, 14 Nov 2025 07:09:12",
+         "title" : "19-Year-Old Sindarov Grabs Only Win In Goa"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125317837.cms\" />Peruvian-turned-Mexican GM Jose Eduardo Martinez Alcantara is making waves in the chess community with his impressive run in the World Cup. His strategic play, including a notable knight sacrifice, has garnered attention from top Indian chess figures. Martinez's strong performances, even when unexpected, suggest a combination of skill and good fortune are propelling his success.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-hungaski-wins-pro-am-open-2025",
          "pubDate" : "Thu, 13 Nov 2025 09:55:00",
          "title" : "Robert Hungaski wins ProAm Open in Buenos Aires"
-      },
-      {
-         "description" : "GM Gajewski speaks to ESPN after Gukesh's shock early exit from the FIDE World Cup on lessons learnt from a tough 2025",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/46951993/world-champ-world-cup-loss-coach-gajewski-plots-gukesh-revival-2026?device=featurephone",
-         "pubDate" : "Thu, 13 Nov 2025 08:07:44",
-         "title" : "World champ to World Cup loss: Gajewski plots Gukesh revival in 2026"
       },
       {
          "description" : "You&#39;ve seen them crawling, and now it&#39;s time to see them running! The strongest PogChamps participants in history are gathering to take on new challengers in SuperPogChamps from December 2 to 5. Former chess novices from past PogChamps and strong ...",
@@ -608,14 +608,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/lazavik-wins-titled-tuesday-november-4-2025",
          "pubDate" : "Tue, 04 Nov 2025 11:41:00",
          "title" : "Action-Packed Tuesday Goes Lazavik's Way"
-      },
-      {
-         "description" : "Twenty-one players, on a total of 64 boards in round two of the 2025 FIDE World Cup, scored wins and are a draw away from advancing to round three. On the top boards, we saw GMs Arjun Erigaisi, Vincent Keymer, Wei Yi, Shakhriyar Mamedyarov, and Ma...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-2-game-1",
-         "pubDate" : "Tue, 04 Nov 2025 07:59:00",
-         "title" : "Arjun, Keymer, Wei, Mamedyarov, Vachier-Lagrave Among Early Leaders"
       },
       {
          "description" : "This week's puzzles are a tribute to GM Daniel Naroditsky's early years. Read Chess Life Online's obituary here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
