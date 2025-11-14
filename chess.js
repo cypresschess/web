@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Fifteen of the world's top 20 were eliminated in first four rounds, including world champion Gukesh Dommaraju An early cull of the favourites at the Chess World Cup in Goa has resulted in 15 of the top 20 seeds heading for home early. It has also created a lopsided pairing situation where almost all the remaining favourites are concentrated in one half of the draw. The two surviving top seeds, India's world No 5 Arjun Erigaisi and China's No 10-ranked Wei Yi, could meet in the quarter-finals, while the headline pairing in Friday afternoon's fifth round<em> </em>is Levon Aronian, the US star who has already won the World Cup twice, against Erigaisi. <a href=\"https://www.theguardian.com/sport",
+         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
+         "pubDate" : "Fri, 14 Nov 2025 10:20:00",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "Please find the certificates .For any query write back to Indianchessfed@gmail.com No Name1 Sai Harshavardhan J2 Prabhu Trichy Srinivasan3 Manikandan J4 Vaishnavi Selvaraj5 Dharanya G6",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificatesna-held-in-chennai-on-25-26-october-2025/",
+         "pubDate" : "Fri, 14 Nov 2025 08:51:39",
+         "title" : "Certificate:SNA held in Chennai on 25 & 26 October 2025"
+      },
+      {
+         "description" : " Fifteen of the top 20 seeds were eliminated in first four rounds, including world champion Gukesh Dommaraju An early cull of the favourites at the Chess World Cup in Goa has resulted in 15 of the top 20 seeds heading for home early. It has also created a lopsided pairing situation where almost all the remaining favourites are concentrated in one half of the draw. The two surviving top seeds, India's world No 5 Arjun Erigaisi and China's No 10-ranked Wei Yi, could meet in the quarter-finals, while the headline pairing in Friday afternoon's fifth round<em> </em>is Levon Aronian, the US star who has already won the World Cup twice, against Erigaisi. <a href=\"https://www.theguardian.com/sport/2",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/nov/14/outsiders-sense-chess-world-cup-glory-after-big-names-make-early-exits",
