@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125330180.cms\" />Indian Grandmasters P Harikrishna and Arjun Erigaisi secured draws in their fifth-round FIDE World Cup matches against tough opponents. Harikrishna expertly navigated an endgame despite being a pawn down, while Erigaisi's pressure on Levon Aronian ultimately led to a peaceful resolution. Many players opted for caution, leading to several draws as the tournament narrows down.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-p-harikrishna-arjun-erigaisi-secure-draws-in-fifth-round-of-chess-showdown/articleshow/125330180.cms",
+         "pubDate" : "Fri, 14 Nov 2025 15:15:35",
+         "title" : "Chess World Cup: Harikrishna, Arjun secure draws in fifth round of showdown"
+      },
+      {
+         "description" : "GMs Jose Martinez, Alireza Firouzja, and Alexey Sarana won the first three 3 0 Thursday events, which were held on November 13. It was the debut set of tournaments for the most popular time control on Chess.com for titled players. 3 0 Thursday fit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/martinez-firouzja-sarana-3-0-thursday-11-13-25",
+         "pubDate" : "Fri, 14 Nov 2025 12:10:43",
+         "title" : "Martinez, Firouzja, Sarana Win Inaugural 3 0 Thursday Tournaments"
+      },
+      {
+         "description" : "GM Hans Niemann won&#38;nbsp;Freestyle Friday with a round still to play on November 14, becoming the ninth multi-time winner of the event. Niemann raced out to a 6/6 start before facing his only setback, a seventh-round loss to GM Haik Martirosyan, t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/niemann-wins-freestyle-friday-november-14-2025",
+         "pubDate" : "Fri, 14 Nov 2025 11:08:52",
+         "title" : "Niemann Coasts To Freestyle Friday Victory"
+      },
+      {
          "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2025-live",
          "pubDate" : "Fri, 14 Nov 2025 10:20:00",
          "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "Capital One won the North American Corporate Chess League Season 12, its second title since the league&#39;s inception. IM Craig Hilby led the team on board one, along with Maury Ahram, Alex Cook, Marco Flores, and Haider Munir on the tiebreak board. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/capital-one-wins-naccl-season12",
+         "pubDate" : "Fri, 14 Nov 2025 09:50:22",
+         "title" : "Capital One Wins 2nd Title In NACCL Season 12"
       },
       {
          "description" : "Please find the certificates .For any query write back to Indianchessfed@gmail.com No Name1 Sai Harshavardhan J2 Prabhu Trichy Srinivasan3 Manikandan J4 Vaishnavi Selvaraj5 Dharanya G6",
@@ -46,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-5-game-1",
-         "pubDate" : "Fri, 14 Nov 2025 07:09:12",
+         "pubDate" : "Fri, 14 Nov 2025 07:09:00",
          "title" : "19-Year-Old Sindarov Grabs Only Win In Goa"
       },
       {
@@ -64,6 +96,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggs-world-cup-is-over-dubov-ends-indians-unconvincing-run-arjun-harikrishna-in-last-16/articleshow/125317645.cms",
          "pubDate" : "Fri, 14 Nov 2025 05:14:01",
          "title" : "Pragg's World Cup is over! Dubov ends Indian's unconvincing run; Arjun, Harikrishna in last 16"
+      },
+      {
+         "description" : "Editor's note: this story first appeared in the November 2025 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.We also provide a pdf version of the article for those interested in reading it in full layout.Brewington Hardaway breaks through to the GM title. Imagine waiting 25 years to see a dream come true. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> GM Brewington Hardaway (Photo by Caroline King)<br> <br> <br> <br> When I became the first Afr",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/inside-story-long-time-coming",
+         "pubDate" : "Fri, 14 Nov 2025 00:00:00",
+         "title" : "Inside Story: A Long Time Coming"
       },
       {
          "description" : "Thursday's tiebreakers at the FIDE World Cup in Goa saw several high seeds eliminated, including Praggnanandhaa Rameshbabu, Vincent Keymer and Maxime Vachier-Lagrave, who were knocked out by Daniil Dubov (pictured), Andrey Esipenko and Aleksey Grebnev respectively. Six lower-rated players advanced overall, while five favourites held firm to reach the round of 16. With only five players from the top 20 still in contention and eight national federations represented, the field has tightened considerably as the Candidates race enters its decisive phase. | Photo: Michal Walusza",
@@ -88,6 +128,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-hungaski-wins-pro-am-open-2025",
          "pubDate" : "Thu, 13 Nov 2025 09:55:00",
          "title" : "Robert Hungaski wins ProAm Open in Buenos Aires"
+      },
+      {
+         "description" : "GM Gajewski speaks to ESPN after Gukesh's shock early exit from the FIDE World Cup on lessons learnt from a tough 2025",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/46951993/world-champ-world-cup-loss-coach-gajewski-plots-gukesh-revival-2026?device=featurephone",
+         "pubDate" : "Thu, 13 Nov 2025 08:07:44",
+         "title" : "World champ to World Cup loss: Gajewski plots Gukesh revival in 2026"
       },
       {
          "description" : "You&#39;ve seen them crawling, and now it&#39;s time to see them running! The strongest PogChamps participants in history are gathering to take on new challengers in SuperPogChamps from December 2 to 5. Former chess novices from past PogChamps and strong ...",
@@ -418,14 +466,6 @@ news_feed (
          "title" : "Gurel Responds To World Cup Elimination With Sizzling Bullet Brawl Victory"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125187146.cms\" />Four Indian chess stars have reached the fourth round of the FIDE World Cup 2025. R Praggnanandhaa, Arjun Erigaisi, and Pranav V secured their spots. However, World Champion Gukesh D faced elimination. Several other Indian players will compete in tiebreaks. The tournament features top players from around the globe vying for the Viswanathan Anand Cup.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-d-gukesh-out-world-champion-suffers-elimination-top-seeded-foreigner-anish-giri-too-exits/articleshow/125187146.cms",
-         "pubDate" : "Sat, 08 Nov 2025 15:21:08",
-         "title" : "Chess WC: Gukesh out! Top-seeded foreigner Anish Giri too exits"
-      },
-      {
          "description" : "Imagine going into school and on day 1, your teacher is telling you everything you will have to learn in the next 9 years. Then, for each subject, the teacher picks the 30 main things you'll have to learn, writes them each on a piece of paper, and lets you pick blindly what will be []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -570,22 +610,6 @@ news_feed (
          "title" : "Hundreds Meet Again In Arena Kings Team Competition"
       },
       {
-         "description" : "We&#39;re excited to announce that you can now get tickets to watch the Speed Chess Championship Live Finals in London. Experience the thrill that only the SCC can provide, and join the roaring crowd cheering for their heroes as they battle in high-sp...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-scc-finals-tickets",
-         "pubDate" : "Wed, 05 Nov 2025 08:00:00",
-         "title" : "Get Your Tickets To Watch The Speed Chess Championship Finals In London"
-      },
-      {
-         "description" : "Twenty-seven matches go to tiebreaks after the second classical game in round two of the 2025 FIDE World Cup. GM Pentala Harikrishna played the Game of the Day, if not the tournament, with a stunning queen sacrifice against GM Arseniy Nesterov. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-2-game-2",
-         "pubDate" : "Wed, 05 Nov 2025 07:39:00",
-         "title" : "Harikrishna Sacs Queen; Nepomniachtchi, Wesley So, Aravindh Eliminated"
-      },
-      {
          "description" : "This week's puzzles come from the second day of the Clutch Chess: Champions Showdown, which concluded last week at the newly renovated Saint Louis Chess Club. See puzzles from Day 1 here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -600,22 +624,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/in-memory-of-daniel-naroditsky",
          "pubDate" : "Tue, 04 Nov 2025 22:17:27",
          "title" : "In memory of Daniel Naroditsky"
-      },
-      {
-         "description" : "GM Denis Lazavik&#38;nbsp;won Titled Tuesday on November 4, seizing the outright lead away from GM Jose Martinez in the final round on a day where such tournament lead changes were typical. GM Magnus Carlsen took second place ahead of Martinez while G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lazavik-wins-titled-tuesday-november-4-2025",
-         "pubDate" : "Tue, 04 Nov 2025 11:41:00",
-         "title" : "Action-Packed Tuesday Goes Lazavik's Way"
-      },
-      {
-         "description" : "This week's puzzles are a tribute to GM Daniel Naroditsky's early years. Read Chess Life Online's obituary here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-gm-daniel-naroditsky-1995-2025",
-         "pubDate" : "Tue, 04 Nov 2025 00:00:00",
-         "title" : "Tactics Tuesday: GM Daniel Naroditsky (1995-2025)"
       },
       {
          "description" : "The Annual ECU General Assembly was hosted by the Georgian Chess Federation in Batumi on 10 October 2025 under excellent conditions.&#160; Forty-three federations were present. The ECU General Assembly was greeted by the President of the Georgian Chess Federation, Mr Akaki Iashvili, the President of the World Chess Federation (FIDE), Mr Arkady Dvorkovich. The President of ECU Mr. Zurab Azmairapashvili welcomed all participants.&#160; Main information and decisions Tournament Rules&#160; European Chess Championships ECU Commissions The next ECU General Assembly will []",
@@ -840,14 +848,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-final/",
          "pubDate" : "Fri, 24 Oct 2025 23:51:17",
          "title" : "POSTGAME FINAL: Champions are Crowned! #USChessChamps"
-      },
-      {
-         "description" : "The 2025 US Chess Championships are taking place on 12-24 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Hans Niemann are the highest-rated players in the open, while Carissa Yip, Alice Lee and Tatev Abrahamyan head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2025-live",
-         "pubDate" : "Fri, 24 Oct 2025 19:00:00",
-         "title" : "US Chess Championships - Live!"
       }
    ]
 }
