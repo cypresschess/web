@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Fifteen of the world's top 20 were eliminated in first four rounds, including world champion Gukesh Dommaraju An early cull of the favourites at the Chess World Cup in Goa has resulted in 15 of the top 20 seeds heading for home early. It has also created a lopsided pairing situation where almost all the remaining favourites are concentrated in one half of the draw. The two surviving top seeds, India's world No 5 Arjun Erigaisi and China's No 10-ranked Wei Yi, could meet in the quarter-finals, while the headline pairing in Friday afternoon's fifth round<em> </em>is Levon Aronian, the US star who has already won the World Cup twice, against Erigaisi. <a href=\"https://www.theguardian.com/sport",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/nov/14/outsiders-sense-chess-world-cup-glory-after-big-names-make-early-exits",
+         "pubDate" : "Fri, 14 Nov 2025 08:00:23",
+         "title" : "Outsiders sense Chess World Cup glory after host of big names make early exits"
+      },
+      {
+         "description" : "Monte Carlo analysis in ChessBase offers a completely new way to understand sharp or unclear positions by simulating thousands of fast engine games and revealing their practical outcomes. In this walkthrough, Matthias W&uuml;llenweber demonstrates how the feature works, how to interpret its statistics, and how the piece-path arrows uncover typical winning and losing manoeuvres.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/matthias-wuellenweber-the-complete-guide-to-the-chessbase-26-monte-carlo-analysis",
+         "pubDate" : "Fri, 14 Nov 2025 07:42:20",
+         "title" : "Matthias Wuellenweber - The Complete Guide to the ChessBase 26 Monte-Carlo-Analysis"
+      },
+      {
+         "description" : "The 2026 European Individual Senior Chess Championship will take place from 1st-11th June 2026 in Acqui Terme, Italy. The event will be played in two age categories: 50+ and 65+, Open and Women's sections separately. Each championship shall be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for each move starting from move one. In case that less than 9 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-chess-championship-2026-official-invitation/",
+         "pubDate" : "Fri, 14 Nov 2025 07:38:51",
+         "title" : "European Senior Chess Championship 2026 - Official invitation"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125317837.cms\" />Peruvian-turned-Mexican GM Jose Eduardo Martinez Alcantara is making waves in the chess community with his impressive run in the World Cup. His strategic play, including a notable knight sacrifice, has garnered attention from top Indian chess figures. Martinez's strong performances, even when unexpected, suggest a combination of skill and good fortune are propelling his success.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-mexican-martinez-rides-indian-wave/articleshow/125317837.cms",
+         "pubDate" : "Fri, 14 Nov 2025 05:22:14",
+         "title" : "Chess World Cup: Mexican Martinez rides Indian wave"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125317645.cms\" />India's World Cup hopes rest on young Arjun and experienced Harikrishna, who advanced to the pre-quarterfinals. Arjun secured a decisive win against Peter Leko, while Harikrishna overcame Nils Grandelius. Meanwhile, Daniil Dubov eliminated R Praggnandhaa, ending India's challenge in the knockout stage.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggs-world-cup-is-over-dubov-ends-indians-unconvincing-run-arjun-harikrishna-in-last-16/articleshow/125317645.cms",
+         "pubDate" : "Fri, 14 Nov 2025 05:14:01",
+         "title" : "Pragg's World Cup is over! Dubov ends Indian's unconvincing run; Arjun, Harikrishna in last 16"
+      },
+      {
          "description" : "Thursday's tiebreakers at the FIDE World Cup in Goa saw several high seeds eliminated, including Praggnanandhaa Rameshbabu, Vincent Keymer and Maxime Vachier-Lagrave, who were knocked out by Daniil Dubov (pictured), Andrey Esipenko and Aleksey Grebnev respectively. Six lower-rated players advanced overall, while five favourites held firm to reach the round of 16. With only five players from the top 20 still in contention and eight national federations represented, the field has tightened considerably as the Candidates race enters its decisive phase. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-hungaski-wins-pro-am-open-2025",
          "pubDate" : "Thu, 13 Nov 2025 09:55:00",
          "title" : "Robert Hungaski wins ProAm Open in Buenos Aires"
+      },
+      {
+         "description" : "GM Gajewski speaks to ESPN after Gukesh's shock early exit from the FIDE World Cup on lessons learnt from a tough 2025",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/46951993/world-champ-world-cup-loss-coach-gajewski-plots-gukesh-revival-2026?device=featurephone",
+         "pubDate" : "Thu, 13 Nov 2025 08:07:44",
+         "title" : "World champ to World Cup loss: Gajewski plots Gukesh revival in 2026"
       },
       {
          "description" : "You&#39;ve seen them crawling, and now it&#39;s time to see them running! The strongest PogChamps participants in history are gathering to take on new challengers in SuperPogChamps from December 2 to 5. Former chess novices from past PogChamps and strong ...",
@@ -72,6 +120,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-heartbreak-for-pranav-karthik-arjun-pragg-harikrishna-head-to-tiebreak-in-fourth-round/articleshow/125291762.cms",
          "pubDate" : "Thu, 13 Nov 2025 05:58:12",
          "title" : "Chess World Cup: Heartbreak for Pranav, Karthik; Arjun, Pragg, Harikrishna head to tiebreak in fourth round"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125291143.cms\" />Levon Aronian is progressing in the FIDE World Cup in Goa. This location holds special meaning for the Grandmaster, as he won a crucial junior title there 23 years ago. Aronian's victory in the current tournament brings him closer to a third World Cup title. He expresses happiness at being back in Goa.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-i-wouldve-quit-chess-by-now-if-not-for-goa-untold-story-of-a-legend-putting-vishwanathan-anands-world-cup-record-in-danger/articleshow/125291143.cms",
+         "pubDate" : "Thu, 13 Nov 2025 05:41:51",
+         "title" : "'I would've quit chess by now, if not for Goa': Untold story of Aronian"
       },
       {
          "description" : "Cautious play dominated Wednesday's round-of-32 rematches at the FIDE World Cup in Goa, but five players still secured their places in the last sixteen. Le Quang Liem, Nodirbek Yakubboev and Alexander Donchenko (pictured) advanced with wins, while Levon Aronian and Jose Martinez held draws after leading from the first game. With the remaining matches heading to tiebreaks, several compelling clashes await as the field continues to narrow. | Photo: Michal Walusza",
@@ -378,22 +434,6 @@ news_feed (
          "title" : "World Champion Gukesh Eliminated By Frederik Svane; Giri, Abdusattorov Also Out"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125180233.cms\" />As one of the most creative and unpredictable players in modern chess history, Vasyl Ivanchuk of Ukraine, born in 1969, became a Grandmaster in 1988 and quickly rose to the elite level. Known for his deep understanding and vast opening repertoire, he defeated nearly every world champion of his era, including Magnus Carlsen, to lift the world rapid chess title in 2016.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/being-dramatic-is-a-kind-of-addiction-vasyl-ivanchuk/articleshow/125180233.cms",
-         "pubDate" : "Sat, 08 Nov 2025 06:58:29",
-         "title" : "Being dramatic is a kind of addiction: Vasyl Ivanchuk"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125180114.cms\" />While Pranav played a marathon 102-move game to prevail over Titas in the 5 hours, 36 minutes contest in the third-round opener, second seed Arjun Erigaisi and experienced Harikrishna Pentala won their respective games with white pieces on a day dominated by Indian masters.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pranav-v-shines-again-102-move-marathon-sees-him-take-lead-in-world-cup-round-3/articleshow/125180114.cms",
-         "pubDate" : "Sat, 08 Nov 2025 06:50:32",
-         "title" : "Pranav V shines again: 102-move marathon sees him take lead in World Cup Round 3"
-      },
-      {
          "description" : "The European Youth Chess Championship 2025 concluded this evening in Budva, Montenegro. The Closing ceremony of the event took place in the playing venue with the attendance of ECU President Mr. Zurab Azmaiparashvili, President of the Montenegro Chess Federation Mr. Jovan Milovic, ECU Honorary Vice President Mr. Veselin Draskovic, Secretary of the ECU Events Commission Ms. Nina Rob, Secretary of the ECU Arbiters Coucil Mr. Geert Bailleul and other distinguished guests. Nearly 1200 players from 48 European federations competed in []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -416,14 +456,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gothamchess-sacrifices-the-rooook-vs-world",
          "pubDate" : "Fri, 07 Nov 2025 18:59:00",
          "title" : "GothamChess Sacrifices 'The Rooook' Vs. World"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125165647.cms\" />Drama unfolded at the FIDE World Cup as Indian prodigy Pranav V faced a complaint from Grandmaster Titas Stremavicius for failing to record moves. After a brief interruption and a warning, Pranav secured a victory. Meanwhile, Arjun Erigaisi and P. Harikrishna delivered strong wins, while D. Gukesh drew his match.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/drama-at-chess-world-cup-lithuanias-gm-raises-complaint-against-indias-pranav-v-heres-what-happened/articleshow/125165647.cms",
-         "pubDate" : "Fri, 07 Nov 2025 16:23:33",
-         "title" : "Drama at Chess WC! Lithuania GM complaints against India's Pranav"
       },
       {
          "description" : "Save the dates: November 21-23, 2025, for our 31st edition of the Preparation of Teachers course - a golden opportunity to become a certified FIDE School Instructor! &#160; &#160; Conducted...",
@@ -746,14 +778,6 @@ news_feed (
          "title" : "Mihai Suba 1947-2025 - "
       },
       {
-         "description" : "The 2025 European Youth Chess Championship is set to take place in Budva, Montenegro, from 28th of October to 8th of November. The event will be played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each tournament will be played in 9 rounds, swiss system, with time control of 90 minutes for the game with an increment of 30 seconds per move, starting from move one. The European Youth Chess Championship gathers []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-championship-2025-starts-in-montenegro/",
-         "pubDate" : "Sun, 26 Oct 2025 22:38:56",
-         "title" : "European Youth Chess Championship 2025 starts in Montenegro"
-      },
-      {
          "description" : "The name of Andr&eacute; Danican Philidor still stands at the threshold of modern chess. He was the first to see the game as more than an affair of isolated brilliance - he saw it as a structure of ideas. Yet his chief musical work, the opera Tom Jones, contains no trace of chess. The two worlds []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -816,14 +840,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2025-live",
          "pubDate" : "Fri, 24 Oct 2025 19:00:00",
          "title" : "US Chess Championships - Live!"
-      },
-      {
-         "description" : " The Fide president, Arkady Dvorkovich, said that Kramnik, who is accused of unfounded allegations against Naroditsky, will be referred to its ethics disciplinary committee Fide has responded to the <a href=\"https://www.theguardian.com/sport/2025/oct/20/daniel-naroditsky-dies-chess-grandmaster\">death of Daniel Naroditsky</a> by promising to take faster action over allegations by former world champion Vladimir Kramnik, which were made without significant evidence. The Fide president, Arkady Dvorkovich, announced on Wednesday that the case will be referred to its ethics and disciplinary committee, which has the power to ban players for life. The omens for that are not promising. A similar refe",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/oct/24/chess-fide-to-discipline-vladimir-kramnik-over-daniel-naroditsky-cheating-allegations",
-         "pubDate" : "Fri, 24 Oct 2025 07:00:37",
-         "title" : "Chess: Fide to 'discipline' Kramnik over Naroditsky cheating allegations"
       }
    ]
 }
