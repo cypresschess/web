@@ -18,6 +18,14 @@ news_feed (
          "title" : "Robert Hungaski wins ProAm Open in Buenos Aires"
       },
       {
+         "description" : "GM Gajewski speaks to ESPN after Gukesh's shock early exit from the FIDE World Cup on lessons learnt from a tough 2025",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/46951993/world-champ-world-cup-loss-coach-gajewski-plots-gukesh-revival-2026?device=featurephone",
+         "pubDate" : "Thu, 13 Nov 2025 08:07:44",
+         "title" : "World champ to World Cup loss: Gajewski plots Gukesh revival in 2026"
+      },
+      {
          "description" : "You&#39;ve seen them crawling, and now it&#39;s time to see them running! The strongest PogChamps participants in history are gathering to take on new challengers in SuperPogChamps from December 2 to 5. Former chess novices from past PogChamps and strong ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -72,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2025-r4g2",
          "pubDate" : "Thu, 13 Nov 2025 00:20:00",
          "title" : "World Cup: Five players secure spots in round-of-16, Donchenko upsets Bluebaum"
+      },
+      {
+         "description" : "Three Americans - GMs Levon Aronian, Samuel Sevian, and Sam Shankland - have made it to the \"Sweet 16\" in the upset-laden 2025 FIDE World Cup. Only two of the top 10 seeds - second-seeded Indian GM Arjun Erigaisi and seventh-seeded Chinese GM Wei Yi - remain, and 11 of the remaining players are seeded outside of the top 16. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Graphic courtesy of FIDE<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Levon Aronian discusses the second classical game with his opponent, Radoslaw Wojtaszek (Photo courtesy Michal Walusza/FIDE)<br> <br> <br> <br> Of the Ame",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/sevian-shines-sudden-death-joins-aronian-shankland-sweet-16",
+         "pubDate" : "Thu, 13 Nov 2025 00:00:00",
+         "title" : "Sevian Shines in Sudden Death, Joins Aronian, Shankland in Sweet 16"
       },
       {
          "description" : "State chapter leaders are invited to join the States &amp; Affiliates Committee for the first in a new quarterly webinar series designed to provide training, resources, and best practices for state chapters. Register here, and read below for details.Date: Monday, November 17, 2025Time: 5:30 p.m. PST / 8:30 p.m. ESTDuration: 1 hourLocation: Zoom (Click here for the new link to register in advance)Who this webinar is for:State Chapter Officers, Board Members and LeadershipState Chapter Committee MembersScholastic CoordinatorsDelegatesPlease also share this invitation to your board or state chapter leadership who might be interested in attending.This inaugural session will feature two of the mo",
@@ -218,7 +234,7 @@ news_feed (
          "title" : "Texas Tech Shakes Up Collegiate Chess League Standings, Defeats UTD"
       },
       {
-         "description" : "The third U.S. Senior Women's Championship will take place this weekend from Nov. 14-16 at the Residence Inn by Marriott in Salt Lake City, Utah. This will be an official US Chess National Championship with an $8,400 prize fund. The FIDE-rated, five-round Swiss tournament will be played at the classical time control of game-in-90 minutes with a 30-second increment beginning on move one. Games will be broadcast live, and Chess Life Online will have daily recaps from WIM Dr. Alexey Root. WGM Sabina Foisor will also be streaming live commentary on the US Chess Twitch channel beginning at 7:00 p.m. MST on Friday, November 14.The Utah State Chess Association and David Day are listed as affiliates",
+         "description" : "The third U.S. Senior Women's Championship will take place this weekend from Nov. 14-16 at the Residence Inn by Marriott in Murray, Utah near Salt Lake City. This will be an official US Chess National Championship with an $8,400 prize fund. The FIDE-rated, five-round Swiss tournament will be played at the classical time control of game-in-90 minutes with a 30-second increment beginning on move one. Games will be broadcast live, and Chess Life Online will have daily recaps from WIM Dr. Alexey Root. WGM Sabina Foisor will also be streaming live commentary on the US Chess Twitch channel beginning at 7:00 p.m. MST on Friday, November 14.The Utah State Chess Association and David Day are listed a",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/3rd-us-senior-womens-championship-preview",
@@ -570,14 +586,6 @@ news_feed (
          "title" : "Tactics Tuesday: GM Daniel Naroditsky (1995-2025)"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to announce 23 grant awards (up from 17 last year) under the US Chess Women's program. With support from the Saint Louis Chess Club, US Chess annually offers grants to nonprofit affiliate members who are promoting programs that support women and girls in their respective communities. The 2025 grant recipients are:Invent The Future (Fremont, CA)Chess Girls DC Nonprofit Organization (Washington, DC)Avila Royals Chess Booster Club, Inc. (Edinburg, TX)Smart Diehl Academy (Mint Hill, NC)Mint Hill Elementary School (Matthews, NC)Think Like a Queen (Doral, FL)Chicago Chess Foundation (Chicago, IL)Azerbaij",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-womens-program-awards-23-grants",
-         "pubDate" : "Tue, 04 Nov 2025 00:00:00",
-         "title" : "US Chess Women's Program Awards 23 Grants"
-      },
-      {
          "description" : "The Annual ECU General Assembly was hosted by the Georgian Chess Federation in Batumi on 10 October 2025 under excellent conditions.&#160; Forty-three federations were present. The ECU General Assembly was greeted by the President of the Georgian Chess Federation, Mr Akaki Iashvili, the President of the World Chess Federation (FIDE), Mr Arkady Dvorkovich. The President of ECU Mr. Zurab Azmairapashvili welcomed all participants.&#160; Main information and decisions Tournament Rules&#160; European Chess Championships ECU Commissions The next ECU General Assembly will []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/oct/24/chess-fide-to-discipline-vladimir-kramnik-over-daniel-naroditsky-cheating-allegations",
          "pubDate" : "Fri, 24 Oct 2025 07:00:37",
          "title" : "Chess: Fide to 'discipline' Kramnik over Naroditsky cheating allegations"
-      },
-      {
-         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Anastasia Karlovich for the top moments of today's games. ROUND 10 &#124; GAME LINKS LIANG VS ROBSON RESULT: 1-0SEVIAN VS NIEMANNRESULT: 1-0WOODWARD VS SHANKLAND RESULT: &frac12;-&frac12;SWIERCZ VS SORESULT: 0-1OPARIN VS ARONIAN RESULT: &frac12;-&frac12;CARUANA VS MISHRARESULT: 1-0 ROUND 10 &#124; GAME LINKS YU VS POURKASHIYAN RESULT: &frac12;-&frac12;PARAGUA [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-10/\">POSTGAME ROUND 10: Wesley Pounces! Earns Chance Tomorrow #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-round-10/",
-         "pubDate" : "Thu, 23 Oct 2025 23:26:21",
-         "title" : "POSTGAME ROUND 10: Wesley Pounces! Earns Chance Tomorrow #USChessChamps"
       }
    ]
 }
