@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Some years ago in collaboration with Leonardo da Vinci and the Japanese martial arts expert, Michael Gelb, I wrote Samurai Chess . In this book we sought to draw parallels between those martial arts and chess. The latest Japanese craze to sweep the metropolis has been Sumo wrestling: part sport and part Shinto religion. It is wrestling, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/sumo-cum-laude-chess-and-wrestling/",
+         "pubDate" : "Sat, 15 Nov 2025 10:54:28",
+         "title" : "Sumo cum Laude: chess and wrestling"
+      },
+      {
+         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
+         "pubDate" : "Sat, 15 Nov 2025 10:20:00",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
          "description" : "A new meeting place for chess fans has opened in Gothenburg, as Svarta H&auml;sten launched its second bar on 14 November. Following the success of the original Stockholm venue, the new location offers the same mix of casual play, social atmosphere and distinctive red-and-yellow chess tables. Housed in the converted stables of the Dickson Palace, it aims to provide an inviting space for beginners and experienced players alike.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/levon-aronian-p-harikrishna-face-decisive-final-games-javokhir-sindarov-scores-lone-win-of-the-day/articleshow/125340716.cms",
          "pubDate" : "Sat, 15 Nov 2025 03:31:03",
          "title" : "Aronian, Harikrishna face decisive final games; Sindarov scores lone win of the day"
+      },
+      {
+         "description" : "GM Magnus Carlsen overcame mid-match hiccups to overpower GM Fabiano Caruana with a 14.5-7.5 final score and reach the Semifinals of the Speed Chess Championship 2025. Starting as an overwhelming favorite, Carlsen was actively pursued by Caruana...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-qf-carlsen-caruana",
+         "pubDate" : "Sat, 15 Nov 2025 03:05:28",
+         "title" : "Carlsen First To Book Ticket To London Finals"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125330180.cms\" />Indian Grandmasters P Harikrishna and Arjun Erigaisi secured draws in their fifth-round FIDE World Cup matches against tough opponents. Harikrishna expertly navigated an endgame despite being a pawn down, while Erigaisi's pressure on Levon Aronian ultimately led to a peaceful resolution. Many players opted for caution, leading to several draws as the tournament narrows down.",
@@ -576,14 +600,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/11/05/jay-williams-on-finance-and-chess/",
          "pubDate" : "Wed, 05 Nov 2025 15:46:41",
          "title" : "Jay Williams on Finance and Chess"
-      },
-      {
-         "description" : "The second edition of the new, monthly version of Arena Kings happened on November 5. In this month&#39;s multi-club arena with more than 1,800 total players representing 52 squads, K2N Chess won the overall standings, while GM Jose Ibarra took home t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ibarra-wins-arena-kings-november-5-2025",
-         "pubDate" : "Wed, 05 Nov 2025 12:07:54",
-         "title" : "Hundreds Meet Again In Arena Kings Team Competition"
       },
       {
          "description" : "This week's puzzles come from the second day of the Clutch Chess: Champions Showdown, which concluded last week at the newly renovated Saint Louis Chess Club. See puzzles from Day 1 here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
