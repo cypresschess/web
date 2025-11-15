@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125351201.cms\" />Arjun's next move, a pleasing-to-the-eye knight sacrifice proved to be the final nail as the Indian is now three wins away from annexing the World Cup.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-arjun-erigaisi-storms-into-quarterfinals/articleshow/125351201.cms",
+         "pubDate" : "Sat, 15 Nov 2025 16:49:27",
+         "title" : "FIDE World Cup: Arjun Erigaisi storms into quarterfinals"
+      },
+      {
          "description" : "Improving at chess is simple. Just follow my three Do's and you'll be good. That doesn't mean it is easy, though. What makes it hard are the roadblocks along the way. And most of them are self inflicted and imaginary. You might resonate with some: It is the same for chess, business, nutrition You don't []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -70,8 +78,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-qf-carlsen-caruana",
-         "pubDate" : "Sat, 15 Nov 2025 03:05:28",
+         "pubDate" : "Sat, 15 Nov 2025 03:05:00",
          "title" : "Carlsen First To Book Ticket To London Finals"
+      },
+      {
+         "description" : "The 2025 U.S. Senior Women's Championship players are buzzing with excitement to be in the \"Beehive State.\" And they aren't the only ones. At the opening ceremony, US Chess Interim Executive Director Franc Guadalupe, who flew to the Salt Lake City airport from Houston, TX, was delighted to address the country's top women players aged 50 and older. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> From left: US Chess Interim Executive Director Franc Guadalupe, commentator WGM Sabina Foisor, and players at the opening ceremony. (Photos by Rachel Findlay)<br> <br> He",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-us-senior-womens-championship-opening-ceremony-and-round-1",
+         "pubDate" : "Sat, 15 Nov 2025 00:00:00",
+         "title" : "2025 U.S. Senior Women's Championship: Opening Ceremony and Round 1"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125330180.cms\" />Indian Grandmasters P Harikrishna and Arjun Erigaisi secured draws in their fifth-round FIDE World Cup matches against tough opponents. Harikrishna expertly navigated an endgame despite being a pawn down, while Erigaisi's pressure on Levon Aronian ultimately led to a peaceful resolution. Many players opted for caution, leading to several draws as the tournament narrows down.",
@@ -466,14 +482,6 @@ news_feed (
          "title" : "Bughouse Champion Isaac Chiu Also Wins Crazyhouse Title"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125198263.cms\" />Gukesh became the third Indian to be eliminated in Round 3 after Diptayan Ghosh and Pranesh M lost their respective games against higher-ranked Gabriel Sargissian of Armenia and Germany's Vincent Keymer respectively.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-praggnanandhaa-packs-a-punch-gukesh-out/articleshow/125198263.cms",
-         "pubDate" : "Sun, 09 Nov 2025 07:12:38",
-         "title" : "FIDE World Cup: Praggnanandhaa packs a punch, Gukesh out"
-      },
-      {
          "description" : "Thirty-two players remain in contention to win the 2025 FIDE World Cup ahead of round four. The following players advanced after winning round-three tiebreaks on Sunday: GMs Wei Yi, Maxime Vachier-Lagrave, Richard Rapport, Yu Yangyi, Sam Shankland...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -616,14 +624,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/11/05/jay-williams-on-finance-and-chess/",
          "pubDate" : "Wed, 05 Nov 2025 15:46:41",
          "title" : "Jay Williams on Finance and Chess"
-      },
-      {
-         "description" : "This week's puzzles come from the second day of the Clutch Chess: Champions Showdown, which concluded last week at the newly renovated Saint Louis Chess Club. See puzzles from Day 1 here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-clutch-chess-champions-day-2",
-         "pubDate" : "Wed, 05 Nov 2025 00:00:00",
-         "title" : "Wednesday Workout: Clutch Chess Champions, Day 2"
       },
       {
          "description" : "Naroditsky's tragic passing, details still unclear, though with serious allegations levelled at a now-named former top player, invites us to look beyond the parish pump of chess. FIDE itself states in connection with the case: 'Human life and dignity are fundamental values shared by all of us. While we hold deep respect and love for the game of chess that unites our community, these values must always come first.\" A philosopher comments.",
@@ -808,38 +808,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/40th-european-club-cup-2025",
          "pubDate" : "Sun, 26 Oct 2025 10:23:00",
          "title" : "40th European Club Cup 2025 - Games and Results"
-      },
-      {
-         "description" : " The US Chess Championships took place in Saint Louis Sun 12th Oct to Sat 25th Oct 2025. Players: Fabiano Caruana, Wesley So, Hans Moke Niemann, Levon Aronian, Awonder Liang, Samuel Sevian, Ray Robson, Grigoriy Oparin, Sam Shankland, Abhimanyu Mishra, Andy Woodward and Dariusz Swiercz. Women: Carissa Yip, Alice Lee, Tatev Abrahamyan, Irina Krush, Anna Sargsyan, Rose Atwell, Thalia Cervantes Landeiro, Anna Zatonskih, Nazi Paikidze, Atousa Pourkashiyan, Megan Althea Paragua and Jennifer Yu. Fabiano Caruana won his fourth title in a row, his fifth in total. Carissa Yip won the women's title finishing with 6.5/7 after a slow start.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/us-chess-championships-2025",
-         "pubDate" : "Sat, 25 Oct 2025 18:39:00",
-         "title" : "US Chess Championships 2025 - Games and Results"
-      },
-      {
-         "description" : " Carissa Yip has claimed her fourth U.S. Women's Chess Championship title in five years, securing victory in the final round with a win against Thalia Cervantes Landeiro with the black pieces. The turning point came after Cervantes' mistake with 19.Bd4?, compounded by 21.Rad1?, leaving Yip clearly winning. Meanwhile her closest rival Anna Sargsyan was the beneficiary of a very serious blunder 34.Re1? (34.Rd3!=) by Alice Lee which was almost immediately decisive, she took second place alone after Irina Krush could only draw against her long term rival Anna Zatonskih. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/carissa-yip-wins-her-fourth-womens-title-in-five-years",
-         "pubDate" : "Sat, 25 Oct 2025 18:33:00",
-         "title" : "Carissa Yip wins her fourth women's title in five years - "
-      },
-      {
-         "description" : " Fabiano Caruana secured his fifth U.S. Championship, and fourth consecutive title, after a fairly quick final-round draw against Levon Aronian in Saint Louis. The result proved sufficient, but Caruana had to wait for Wesley So's game to finish to confirm his victory. A win by So over Grigoriy Oparin would have forced a playoff, but So had to settle for a draw, finishing in clear second place. Caruana had missed a golden opportunity to defeat So in Round 6, failing to convert a completely winning position. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/fabiano-caruana-wins-his-fifth-us-title",
-         "pubDate" : "Sat, 25 Oct 2025 18:29:00",
-         "title" : "Fabiano Caruana wins his fifth US title - "
-      },
-      {
-         "description" : " Daniel Naroditsky was a popular chess streamer and influencer who mixed humour with his skillful play and engaging commentary. Naroditsky, who would've turned 30 on November 9th, was found dead in his home days after his final stream. He appeared extremely distraught and reflective of the bullying he suffered at the hands of Russian Grandmaster The post <a href=\"https://thechessdrum.net/blog/2025/10/25/daniel-naroditsky-and-the-chess-worlds-failure-on-bullying/\">Daniel Naroditsky and the Chess World's Failure on Bullying</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/10/25/daniel-naroditsky-and-the-chess-worlds-failure-on-bullying/",
-         "pubDate" : "Sat, 25 Oct 2025 17:50:03",
-         "title" : "Daniel Naroditsky and the Chess World's Failure on Bullying"
       }
    ]
 }
