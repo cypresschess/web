@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Improving at chess is simple. Just follow my three Do's and you'll be good. That doesn't mean it is easy, though. What makes it hard are the roadblocks along the way. And most of them are self inflicted and imaginary. You might resonate with some: It is the same for chess, business, nutrition You don't []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/chess-improvement-6-months/",
+         "pubDate" : "Sat, 15 Nov 2025 14:00:00",
+         "title" : "How much can you really improve in 6 months?"
+      },
+      {
+         "description" : "On behalf of the All India Chess Federation, the Arbiters' Commission of AICF, and the Maharashtra Chess Association, the Mumbai Suburban District Chess Association organized",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-sna-seminar-exam-held-in-andheri-on-01-02-nov-2025/",
+         "pubDate" : "Sat, 15 Nov 2025 13:51:36",
+         "title" : "Final Report of SNA Seminar & Exam held in Andheri on 01 & 02 Nov 2025"
+      },
+      {
          "description" : "Some years ago in collaboration with Leonardo da Vinci and the Japanese martial arts expert, Michael Gelb, I wrote Samurai Chess . In this book we sought to draw parallels between those martial arts and chess. The latest Japanese craze to sweep the metropolis has been Sumo wrestling: part sport and part Shinto religion. It is wrestling, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svarta-hansten-second-location",
          "pubDate" : "Sat, 15 Nov 2025 09:00:00",
          "title" : "Sweden's first ever chess bar opens second location"
+      },
+      {
+         "description" : "Second-seed GM Arjun Erigaisi is through to the Quarterfinals of the 2025 FIDE World Cup after finding a beautiful finish to eliminate GM Levon Aronian. He&#39;ll play seventh-seed GM Wei Yi, who eventually punished an early mistake by GM Sam Sevian. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-5-game-2",
+         "pubDate" : "Sat, 15 Nov 2025 07:32:00",
+         "title" : "Arjun Beats Aronian To Reach World Cup Quarterfinals"
       },
       {
          "description" : "Friday's action at the FIDE World Cup in Goa saw all eight round-of-16 matches begin with closely fought encounters. Seven games were ultimately drawn, even though Arjun Erigaisi and Daniil Dubov managed to put their opponents under real pressure. The only player to score a full point was Javokhir Sindarov, who outplayed Frederik Svane in an Italian Opening to take the early lead and leave the German grandmaster needing a win on Saturday. | Photo: Eteri Kublashvili",
@@ -576,14 +600,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-corporate-chess-championship-2025-stars-in-paris/",
          "pubDate" : "Thu, 06 Nov 2025 09:42:24",
          "title" : "European Corporate Chess Championship 2025 stars in Paris"
-      },
-      {
-         "description" : "There are 64 players heading into round three of the 2025 FIDE World Cup. In round two tiebreaks this Thursday, 27 players were eliminated. The upset of the day was GM Lorenzo Lodici&#39;s (2572) match win against GM Hans Niemann (2729). Another match...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-2-tiebreaks",
-         "pubDate" : "Thu, 06 Nov 2025 08:08:00",
-         "title" : "Lodici Knocks Out Niemann, Rasmus Svane Wins In Armageddon"
       },
       {
          "description" : "After six days, two rounds, and countless upsets at the 2025 FIDE World Cup (read our preview, which describes the format, here), only five Americans (out of 12) have made it to the final 64 in Goa, India: GMs Levon Aronian (seeded 15th), Awonder Liang (21st), Samuel Sevian (23rd), Sam Shankland (46th), and Jeffery Xiong (52nd). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Aronian analyzes a wild game in the broadcast studio. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> Aronian - who enters Round 3 as the top-rated American left standing - defeated Indian IM Aronyak Ghosh 1&frac12;-&frac12; after some dazzling attacking chess in their fir",
