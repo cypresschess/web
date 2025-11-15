@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A new meeting place for chess fans has opened in Gothenburg, as Svarta H&auml;sten launched its second bar on 14 November. Following the success of the original Stockholm venue, the new location offers the same mix of casual play, social atmosphere and distinctive red-and-yellow chess tables. Housed in the converted stables of the Dickson Palace, it aims to provide an inviting space for beginners and experienced players alike.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svarta-hansten-second-location",
+         "pubDate" : "Sat, 15 Nov 2025 09:00:00",
+         "title" : "Sweden's first ever chess bar opens second location"
+      },
+      {
+         "description" : "Friday's action at the FIDE World Cup in Goa saw all eight round-of-16 matches begin with closely fought encounters. Seven games were ultimately drawn, even though Arjun Erigaisi and Daniil Dubov managed to put their opponents under real pressure. The only player to score a full point was Javokhir Sindarov, who outplayed Frederik Svane in an Italian Opening to take the early lead and leave the German grandmaster needing a win on Saturday. | Photo: Eteri Kublashvili",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-r5g1",
+         "pubDate" : "Sat, 15 Nov 2025 06:05:00",
+         "title" : "World Cup: Sindarov scores, Aronian and Shankland escape with draws"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125340716.cms\" />Levon Aronian and P Harikrishna drew their World Cup pre-quarterfinal first games and will aim to leverage their white pieces in Saturday's decisive return matches. Most of the day's games ended in draws, setting the stage for tense tiebreaks as several lower-seeded players kept their upset hopes alive.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/niemann-wins-freestyle-friday-november-14-2025",
          "pubDate" : "Fri, 14 Nov 2025 11:08:52",
          "title" : "Niemann Coasts To Freestyle Friday Victory"
-      },
-      {
-         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Fri, 14 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "Capital One won the North American Corporate Chess League Season 12, its second title since the league&#39;s inception. IM Craig Hilby led the team on board one, along with Maury Ahram, Alex Cook, Marco Flores, and Haider Munir on the tiebreak board. ...",
