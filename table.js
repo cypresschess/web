@@ -1,4 +1,8 @@
 jtable([
+"SPRING","2025-11-14","20","<a href=https://ratings.uschess.org/event/202511140233 target='_blank'>THE FRIDAY KNIGHTS (TX)</a>",
+"SUGAR LAND","2025-11-14","20","<a href=https://ratings.uschess.org/event/202511140223 target='_blank'>FBCC 2025 International Girl's Day Open</a>",
+"CYPRESS","2025-11-14","35","<a href=https://ratings.uschess.org/event/202511140213 target='_blank'>Knights of Cypress</a>",
+"PASADENA","2025-11-14","18","<a href=https://ratings.uschess.org/event/202511140073 target='_blank'>Checkmates on Fairmont</a>",
 "HOUSTON","2025-11-09","219","<a href=https://ratings.uschess.org/event/202511090673 target='_blank'>2025 Houston Open Chess Championshi</a>",
 "HOUSTON","2025-11-09","15","<a href=https://ratings.uschess.org/event/202511090303 target='_blank'>Bellaire Sunday Swiss 2025.11.09</a>",
 "HOUSTON","2025-11-08","22","<a href=https://ratings.uschess.org/event/202511081333 target='_blank'>2025 Houston Open Blitz</a>",
@@ -95,8 +99,4 @@ jtable([
 "HOUSTON","2025-08-09","9","<a href=https://ratings.uschess.org/event/202508090792 target='_blank'>CHESSPANDA08092025SATURDAY</a>",
 "SPRING","2025-08-08","21","<a href=https://ratings.uschess.org/event/202508088882 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2025-08-08","20","<a href=https://ratings.uschess.org/event/202508088802 target='_blank'>FBCC 2025 INTERNATIONAL CAT DAY OPE</a>",
-"CYPRESS","2025-08-08","27","<a href=https://ratings.uschess.org/event/202508088742 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2025-08-03","60","<a href=https://ratings.uschess.org/event/202508036932 target='_blank'>$2,500  AUGUST CHAMPIONSHIP</a>",
-"HOUSTON","2025-08-03","10","<a href=https://ratings.uschess.org/event/202508036242 target='_blank'>BELLAIRE SUNDAY SWISS 08/03/25</a>",
-"HOUSTON","2025-08-02","7","<a href=https://ratings.uschess.org/event/202508025382 target='_blank'>CHESSPANDA08022025SATURDAY</a>",
 ]);
