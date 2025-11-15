@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125340716.cms\" />Levon Aronian and P Harikrishna drew their World Cup pre-quarterfinal first games and will aim to leverage their white pieces in Saturday's decisive return matches. Most of the day's games ended in draws, setting the stage for tense tiebreaks as several lower-seeded players kept their upset hopes alive.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/levon-aronian-p-harikrishna-face-decisive-final-games-javokhir-sindarov-scores-lone-win-of-the-day/articleshow/125340716.cms",
+         "pubDate" : "Sat, 15 Nov 2025 03:31:03",
+         "title" : "Aronian, Harikrishna face decisive final games; Sindarov scores lone win of the day"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125330180.cms\" />Indian Grandmasters P Harikrishna and Arjun Erigaisi secured draws in their fifth-round FIDE World Cup matches against tough opponents. Harikrishna expertly navigated an endgame despite being a pawn down, while Erigaisi's pressure on Levon Aronian ultimately led to a peaceful resolution. Many players opted for caution, leading to several draws as the tournament narrows down.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -58,14 +66,6 @@ news_feed (
          "title" : "Outsiders sense Chess World Cup glory after host of big names make early exits"
       },
       {
-         "description" : "Monte Carlo analysis in ChessBase offers a completely new way to understand sharp or unclear positions by simulating thousands of fast engine games and revealing their practical outcomes. In this walkthrough, Matthias W&uuml;llenweber demonstrates how the feature works, how to interpret its statistics, and how the piece-path arrows uncover typical winning and losing manoeuvres.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/matthias-wuellenweber-the-complete-guide-to-the-chessbase-26-monte-carlo-analysis",
-         "pubDate" : "Fri, 14 Nov 2025 07:42:20",
-         "title" : "Matthias Wuellenweber - The Complete Guide to the ChessBase 26 Monte-Carlo-Analysis"
-      },
-      {
          "description" : "The 2026 European Individual Senior Chess Championship will take place from 1st-11th June 2026 in Acqui Terme, Italy. The event will be played in two age categories: 50+ and 65+, Open and Women's sections separately. Each championship shall be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for each move starting from move one. In case that less than 9 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -106,28 +106,12 @@ news_feed (
          "title" : "Inside Story: A Long Time Coming"
       },
       {
-         "description" : "Thursday's tiebreakers at the FIDE World Cup in Goa saw several high seeds eliminated, including Praggnanandhaa Rameshbabu, Vincent Keymer and Maxime Vachier-Lagrave, who were knocked out by Daniil Dubov (pictured), Andrey Esipenko and Aleksey Grebnev respectively. Six lower-rated players advanced overall, while five favourites held firm to reach the round of 16. With only five players from the top 20 still in contention and eight national federations represented, the field has tightened considerably as the Candidates race enters its decisive phase. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-r4tb",
-         "pubDate" : "Thu, 13 Nov 2025 20:40:00",
-         "title" : "World Cup: Dubov, Esipenko, Grebnev knock out Pragg, Keymer, MVL"
-      },
-      {
          "description" : "The Collegiate Chess League Fall 2025 Season Playoffs are upon us, and you can join in on the excitement by predicting who wins!&#38;nbsp; Will SLU defend their championship title, or will Mizzou get their revenge? Will UT Dallas earn their first ch...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/win-prizes-in-the-fall-2025-ccl-predictions-challenge",
          "pubDate" : "Thu, 13 Nov 2025 17:48:35",
          "title" : "Win Prizes In The Fall 2025 CCL Predictions Challenge"
-      },
-      {
-         "description" : "The 32nd ProAm Chess Open in Buenos Aires brought together 110 players for a nine-round Swiss event held at the Villa Martelli Chess Club. Running from 3 to 11 November, the tournament featured a strong field headed by Alexei Shirov, the clear rating favourite, and a number of well-known players from Latin America. Competitive results across the week led to a four-way tie on 7 points, with Robert Hungaski taking the title on tiebreak in a closely contested edition. | Photo: Ajedrez Martelli",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-hungaski-wins-pro-am-open-2025",
-         "pubDate" : "Thu, 13 Nov 2025 09:55:00",
-         "title" : "Robert Hungaski wins ProAm Open in Buenos Aires"
       },
       {
          "description" : "GM Gajewski speaks to ESPN after Gukesh's shock early exit from the FIDE World Cup on lessons learnt from a tough 2025",
@@ -192,14 +176,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-i-wouldve-quit-chess-by-now-if-not-for-goa-untold-story-of-a-legend-putting-vishwanathan-anands-world-cup-record-in-danger/articleshow/125291143.cms",
          "pubDate" : "Thu, 13 Nov 2025 05:41:51",
          "title" : "'I would've quit chess by now, if not for Goa': Untold story of Aronian"
-      },
-      {
-         "description" : "Cautious play dominated Wednesday's round-of-32 rematches at the FIDE World Cup in Goa, but five players still secured their places in the last sixteen. Le Quang Liem, Nodirbek Yakubboev and Alexander Donchenko (pictured) advanced with wins, while Levon Aronian and Jose Martinez held draws after leading from the first game. With the remaining matches heading to tiebreaks, several compelling clashes await as the field continues to narrow. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-r4g2",
-         "pubDate" : "Thu, 13 Nov 2025 00:20:00",
-         "title" : "World Cup: Five players secure spots in round-of-16, Donchenko upsets Bluebaum"
       },
       {
          "description" : "Three Americans - GMs Levon Aronian, Samuel Sevian, and Sam Shankland - have made it to the \"Sweet 16\" in the upset-laden 2025 FIDE World Cup. Only two of the top 10 seeds - second-seeded Indian GM Arjun Erigaisi and seventh-seeded Chinese GM Wei Yi - remain, and 11 of the remaining players are seeded outside of the top 16. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Graphic courtesy of FIDE<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Levon Aronian discusses the second classical game with his opponent, Radoslaw Wojtaszek (Photo courtesy Michal Walusza/FIDE)<br> <br> <br> <br> Of the Ame",
@@ -448,14 +424,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-3-tiebreaks",
          "pubDate" : "Sun, 09 Nov 2025 07:10:00",
          "title" : "Vachier-Lagrave Wins Marathon Match In Armageddon"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125196985.cms\" />Several GMs were quick to play the Comfort Gambit - French GM Maxime Vachier-Lagrave, better known as MVL, among them. \"I think it's better that jeans are allowed, not all jeans of course, but normal jeans,\" MVL told TOI on Saturday, his jeans paired with a casual shirt.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-kings-go-casual-many-gms-swap-formals-for-jeans-in-goa/articleshow/125196985.cms",
-         "pubDate" : "Sun, 09 Nov 2025 04:41:38",
-         "title" : "Chess kings go casual: Many GMs swap formals for jeans in Goa"
       },
       {
          "description" : "Following his round-two exit at 2025 FIDE World Cup, GM Ediz Gurel put on a tactical exhibition to capture his sixth Bullet Brawl title and the $400 first prize on Saturday. Gurel&#39;s final score of 157 saw him edge out GM Tuan Minh Le by a single p...",
@@ -768,14 +736,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-1/",
          "pubDate" : "Mon, 27 Oct 2025 21:49:28",
          "title" : "POSTGAME DAY 1: Gukesh Smashes Fabi! | #ChampionsShowdown"
-      },
-      {
-         "description" : "Did you solve the endgame puzzles we gave you last week? In the position shown, White had to move his rook to one of nine squares. But only moving it to e6 retained the win. How come? Today we give you the full solutions of all the four problems, in video explanations and on a replay board with engine assistance. It's a good way to master such tricky endgame situations.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-endgame-challenge-2",
-         "pubDate" : "Mon, 27 Oct 2025 11:25:26",
-         "title" : "Chess Endgame Challenge"
       },
       {
          "description" : " Clutch Chess: Champions Showdown Caps Off an Unforgettable Month of Chess in Saint Louis to Celebrate Newly Re-opened Saint Louis Chess Club SAINT LOUIS - Grandmaster (GM) and World No. 3 Fabiano Caruana and International Master (IM) Carissa Yip have successfully defended their titles at the 2025 U.S. and U.S. Women's Chess Championships, respectively. Their [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/world-no-3-fabiano-caruana-wins-fifth-u-s-chess-championship-carissa-yip-captures-fourth-u-s-womens-championship-title/\">World No. 3 Fabiano Caruana Wins Fifth U.S. Chess Championship; Carissa Yip Captures Fourth U.S. Women's Championship Title</a> appeared first o",
