@@ -14,7 +14,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/martinez-firouzja-sarana-3-0-thursday-11-13-25",
-         "pubDate" : "Fri, 14 Nov 2025 12:10:43",
+         "pubDate" : "Fri, 14 Nov 2025 12:10:00",
          "title" : "Martinez, Firouzja, Sarana Win Inaugural 3 0 Thursday Tournaments"
       },
       {
@@ -74,12 +74,12 @@ news_feed (
          "title" : "European Senior Chess Championship 2026 - Official invitation"
       },
       {
-         "description" : "19-year-old GM Javokhir Sindarov&#39;s relentless pressure finally gave him a win over GM Frederik Svane as round five of the 2025 FIDE World Cup began. All the remaining games were drawn, with GM Levon Aronian surviving a fierce attack by GM Arjun Er...",
+         "description" : "Nineteen-year-old GM Javokhir Sindarov&#39;s relentless pressure finally gave him a win over GM Frederik Svane as round five of the 2025 FIDE World Cup began. All the remaining games were drawn, with GM Levon Aronian surviving a fierce attack by GM Ar...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-5-game-1",
          "pubDate" : "Fri, 14 Nov 2025 07:09:00",
-         "title" : "19-Year-Old Sindarov Grabs Only Win In Goa"
+         "title" : "19-Year-Old Sindarov Grabs Only Win"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125317837.cms\" />Peruvian-turned-Mexican GM Jose Eduardo Martinez Alcantara is making waves in the chess community with his impressive run in the World Cup. His strategic play, including a notable knight sacrifice, has garnered attention from top Indian chess figures. Martinez's strong performances, even when unexpected, suggest a combination of skill and good fortune are propelling his success.",
@@ -840,14 +840,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/10/25/daniel-naroditsky-and-the-chess-worlds-failure-on-bullying/",
          "pubDate" : "Sat, 25 Oct 2025 17:50:03",
          "title" : "Daniel Naroditsky and the Chess World's Failure on Bullying"
-      },
-      {
-         "description" : " Join GMs Yasser Seirawan &#38; Maurice Ashley, and WGM Katerina Nemcova for the top moments of today's games. ROUND 11 &#124; GAME LINKS ARONIAN VS CARUANA RESULT: &frac12;-&frac12;MISHRA VS WOODWARD RESULT: &frac12;-&frac12;SO VS OPARIN RESULT: &frac12;-&frac12;ROBSON VS SEVIAN RESULT: &frac12;-&frac12;NIEMANN VS SWIERCZ RESULT: &frac12;-&frac12;SHANKLAND VS LIANG RESULT: &frac12;-&frac12; ROUND 11 &#124; GAME LINKS Cervantes [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-final/\">POSTGAME FINAL: Champions are Crowned! #USChessChamps</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-us-chess-championships-postgame-final/",
-         "pubDate" : "Fri, 24 Oct 2025 23:51:17",
-         "title" : "POSTGAME FINAL: Champions are Crowned! #USChessChamps"
       }
    ]
 }
