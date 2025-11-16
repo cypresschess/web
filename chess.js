@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four players secured their places in the quarterfinals on Saturday at the FIDE World Cup in Goa. Javokhir Sindarov held a draw with black to confirm his lead from the first game, while Arjun Erigaisi, Wei Yi and Nodirbek Yakubboev (pictured) each won their rematches to move on. With half of the round-of-16 matches settled, the remaining four spots will be decided in Sunday's rapid and blitz tiebreaks. | Photo: Eteri Kublashvili",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-r5g2",
+         "pubDate" : "Sat, 15 Nov 2025 23:10:00",
+         "title" : "World Cup: Arjun, Wei, Sindarov and Yakubboev advance to quarterfinals"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125351201.cms\" />Arjun's next move, a pleasing-to-the-eye knight sacrifice proved to be the final nail as the Indian is now three wins away from annexing the World Cup.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-arjun-erigaisi-storms-into-quarterfinals/articleshow/125351201.cms",
          "pubDate" : "Sat, 15 Nov 2025 16:49:27",
          "title" : "FIDE World Cup: Arjun Erigaisi storms into quarterfinals"
+      },
+      {
+         "description" : "GM Nihal Sarin secured his third Bullet Brawl title and the $400 first prize on Saturday after going unbeaten in his last seven games. Nihal scored two wins over GM Hikaru Nakamura, and defeated GM Praggnanandhaa Rameshbabu and IM Reza Mahdavi bef...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nihal-sarin-wins-bullet-brawl-nov-15-2025",
+         "pubDate" : "Sat, 15 Nov 2025 16:18:10",
+         "title" : "Nihal Stuns Carlsen, Nakamura, Praggnanandhaa In Bullet Brawl Bonanza"
       },
       {
          "description" : "Improving at chess is simple. Just follow my three Do's and you'll be good. That doesn't mean it is easy, though. What makes it hard are the roadblocks along the way. And most of them are self inflicted and imaginary. You might resonate with some: It is the same for chess, business, nutrition You don't []",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.thearticle.com/sumo-cum-laude-chess-and-wrestling/",
          "pubDate" : "Sat, 15 Nov 2025 10:54:28",
          "title" : "Sumo cum Laude: chess and wrestling"
-      },
-      {
-         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Sat, 15 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "A new meeting place for chess fans has opened in Gothenburg, as Svarta H&auml;sten launched its second bar on 14 November. Following the success of the original Stockholm venue, the new location offers the same mix of casual play, social atmosphere and distinctive red-and-yellow chess tables. Housed in the converted stables of the Dickson Palace, it aims to provide an inviting space for beginners and experienced players alike.",
@@ -568,14 +576,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-senior-national-arbiter-seminar-cum-examination-chennai-held-on-october-25-26-2025/",
          "pubDate" : "Fri, 07 Nov 2025 07:52:37",
          "title" : "Final Report: Senior National Arbiter Seminar cum Examination, Chennai held on October 25 & 26, 2025"
-      },
-      {
-         "description" : "GM Jose Martinez (2644) scored the upset of the day in game one of round three in the 2025 FIDE World Cup. His opponent, world number-12 GM Nodirbek Abdusattorov (2750), played a creative and strong exchange sacrifice to achieve a large advantage,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-3-game-1",
-         "pubDate" : "Fri, 07 Nov 2025 07:41:00",
-         "title" : "Martinez Upsets Abdusattorov With Black Pieces"
       },
       {
          "description" : "Only one round left to be played at the European Youth Chess Championship 2025 in Budva, Montenegro, and we'll soon crown the new Champions! Heading into the last round, many sections still have the unclear situation on the top, while the others have the sole leaders. Myron Netrebka (UKR) scores perfect 8/8 points and clinched gold in the Open U8 section with a round to spare! In Girls U8 category, Stella Zhu (FIN) emerged as the sole leader with 7.5 []",
