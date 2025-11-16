@@ -22,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nihal-sarin-wins-bullet-brawl-nov-15-2025",
-         "pubDate" : "Sat, 15 Nov 2025 16:18:10",
+         "pubDate" : "Sat, 15 Nov 2025 16:18:00",
          "title" : "Nihal Stuns Carlsen, Nakamura, Praggnanandhaa In Bullet Brawl Bonanza"
       },
       {
