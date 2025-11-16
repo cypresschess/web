@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2025-11-15","8","<a href=https://ratings.uschess.org/event/202511150573 target='_blank'>chesspanda11152025saturday</a>",
+"HOUSTON","2025-11-15","16","<a href=https://ratings.uschess.org/event/202511150403 target='_blank'>NOV 15TH -- TROPHY-SCHOLASTIC</a>",
 "SPRING","2025-11-14","20","<a href=https://ratings.uschess.org/event/202511140233 target='_blank'>THE FRIDAY KNIGHTS (TX)</a>",
 "SUGAR LAND","2025-11-14","20","<a href=https://ratings.uschess.org/event/202511140223 target='_blank'>FBCC 2025 International Girl's Day Open</a>",
 "CYPRESS","2025-11-14","35","<a href=https://ratings.uschess.org/event/202511140213 target='_blank'>Knights of Cypress</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2025-08-10","4","<a href=https://ratings.uschess.org/event/202508100382 target='_blank'>AUGUST 10TH-SUNDAY SWISS OPEN</a>",
 "HOUSTON","2025-08-09","38","<a href=https://ratings.uschess.org/event/202508099292 target='_blank'>AUG 9TH -- TROPHY SCHOLASTIC</a>",
 "HOUSTON","2025-08-09","9","<a href=https://ratings.uschess.org/event/202508090792 target='_blank'>CHESSPANDA08092025SATURDAY</a>",
-"SPRING","2025-08-08","21","<a href=https://ratings.uschess.org/event/202508088882 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2025-08-08","20","<a href=https://ratings.uschess.org/event/202508088802 target='_blank'>FBCC 2025 INTERNATIONAL CAT DAY OPE</a>",
 ]);
