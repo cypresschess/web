@@ -22,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-5-tiebreaks",
-         "pubDate" : "Sun, 16 Nov 2025 06:40:43",
+         "pubDate" : "Sun, 16 Nov 2025 06:40:00",
          "title" : "Shankland, Esipenko, Martinez, Donchenko Reach World Cup Quarterfinals"
       },
       {
@@ -808,14 +808,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/mihai-suba-1947-2025",
          "pubDate" : "Sun, 26 Oct 2025 23:01:00",
          "title" : "Mihai Suba 1947-2025 - "
-      },
-      {
-         "description" : "The name of Andr&eacute; Danican Philidor still stands at the threshold of modern chess. He was the first to see the game as more than an affair of isolated brilliance - he saw it as a structure of ideas. Yet his chief musical work, the opera Tom Jones, contains no trace of chess. The two worlds []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/amadeus-ex-machina-chess-ai-and-music/",
-         "pubDate" : "Sun, 26 Oct 2025 16:58:57",
-         "title" : "Amadeus ex machina: chess, AI and music"
       }
    ]
 }
