@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
+         "pubDate" : "Sun, 16 Nov 2025 10:20:00",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
          "description" : "Hardly any opening polarises opinion online as much as the London System. Black has numerous ways to achieve a comfortable position. Nevertheless, there are many followers who have remained loyal to this opening for years. What if there were a surprise weapon that could lure White out of his comfort zone and into positions that require precise play instead of formulaic thinking? Andrew Martin has a secret weapon up his sleeve that he wants to share with us - Lukas Koepl presents the course.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -808,14 +816,6 @@ news_feed (
          "link" : "https://www.thearticle.com/amadeus-ex-machina-chess-ai-and-music/",
          "pubDate" : "Sun, 26 Oct 2025 16:58:57",
          "title" : "Amadeus ex machina: chess, AI and music"
-      },
-      {
-         "description" : " The 40th European Club Cup and 29th Club Cup for Women took place in Rhodes, Greece, 19th to 25th October 2025. The top teams were: <ul> <li> <strong>BayeganPendik chess sports</strong> (TUR with Giri, Mamedyarov, Rapport, Sarin, etc.)</li> <li> <strong>Alkaloid</strong> (MKD with Erigaisi, Wei Yi, Yu Yangyi, etc.)</li> <li> <strong>Novi Bor</strong> (CZE with Keymer, Vidit, Harikrishna, Navara, etc.)</li> <li> <strong>SuperChess</strong> (ROU with Gukesh, Van Foreest, Maghsoodloo, Sarana)</li> </ul> Cercle d'&eacute;checs de Monte-Carlo, Turkish Airlines sports club, Tajfun SK Ljubljana, and SuperChess were the top seeds in the women's event. There was a wide variety of player strengths co",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/40th-european-club-cup-2025",
-         "pubDate" : "Sun, 26 Oct 2025 10:23:00",
-         "title" : "40th European Club Cup 2025 - Games and Results"
       }
    ]
 }
