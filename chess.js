@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hardly any opening polarises opinion online as much as the London System. Black has numerous ways to achieve a comfortable position. Nevertheless, there are many followers who have remained loyal to this opening for years. What if there were a surprise weapon that could lure White out of his comfort zone and into positions that require precise play instead of formulaic thinking? Andrew Martin has a secret weapon up his sleeve that he wants to share with us - Lukas Koepl presents the course.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-outsmarting-the-london-system-60-minutes-by-im-andrew-martin",
+         "pubDate" : "Sun, 16 Nov 2025 07:00:00",
+         "title" : "Review: \"Outsmarting the London System - 60 minutes\" by IM Andrew Martin"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125359885.cms\" />India's top woman chess player K Humpy believes only a top 10 world ranking ensures a sustainable professional career for female players. She advocates for young girls to compete in the men's circuit for experience and rating improvement. Humpy also noted the tricky format of the World Cup favors energetic youngsters and underdogs.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/k-humpy-calls-for-girls-to-play-mens-events-to-gain-skills-and-experience/articleshow/125359885.cms",
+         "pubDate" : "Sun, 16 Nov 2025 05:08:26",
+         "title" : "K Humpy calls for girls to play men's events to gain skills and experience"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125359837.cms\" />Arjun Erigaisi capitalized on Levon Aronian's draw offer, realizing the veteran was not playing ambitiously. This confidence boost led Arjun to a decisive victory with black pieces in the Giuoco Piano opening. He advanced to the World Cup quarterfinals, showcasing a strong performance without needing tiebreaks.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/levon-aronians-draw-offer-proves-costly-as-arjun-powers-into-world-cup-quarterfinals/articleshow/125359837.cms",
+         "pubDate" : "Sun, 16 Nov 2025 05:01:33",
+         "title" : "Levon Aronian's draw offer proves costly as Arjun powers into World Cup quarterfinals"
+      },
+      {
          "description" : "Four players secured their places in the quarterfinals on Saturday at the FIDE World Cup in Goa. Javokhir Sindarov held a draw with black to confirm his lead from the first game, while Arjun Erigaisi, Wei Yi and Nodirbek Yakubboev (pictured) each won their rematches to move on. With half of the round-of-16 matches settled, the remaining four spots will be decided in Sunday's rapid and blitz tiebreaks. | Photo: Eteri Kublashvili",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -442,14 +466,6 @@ news_feed (
          "title" : "Announcing 3 0 Thursday, The New Weekly Prize Event For Titled Players"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125215854.cms\" />In the second game of the rapid tiebreak, the 2579 Elo Karthik surprised Romania's 2655-rated GM Deac Bogdan-Daniel to win the third round 2.5-1.5 and became the fifth Indian to qualify for the round of 32 players. The remaining two Indian masters, Narayanan SL and Vidit Gujrathi, crashed out after losing their rapid games in contrasting fashion.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/karthik-stuns-romanian-gm-in-world-cup-assures-himself-of-careers-highest-prize-money/articleshow/125215854.cms",
-         "pubDate" : "Mon, 10 Nov 2025 05:50:18",
-         "title" : "Karthik stuns Romanian GM in World Cup, assures himself of career's highest prize money"
-      },
-      {
          "description" : "Four Americans are through to the fourth round of the 2025 FIDE World Cup in Goa, India. GM Sam Shankland's upset over 19th-seeded Indian GM Vidit Gujrathi was the best result of the round, and he'll be joined by GMs Levon Aronian, Samuel Sevian, and Awonder Liang. The fifth American who made it to Round 3, GM Jeffery Xiong, was eliminated after losing 1&frac12;-&frac12; to Vietnamese GM Le Quang Liem. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Sam Shankland's come-from-behind double-overtime victory over Vidit Gujrathi - featuring two wins for Shankland as Black - headlined the Am",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -472,14 +488,6 @@ news_feed (
          "link" : "https://www.europechess.org/greco-ukraine-wins-european-corporate-chess-championship-2025/",
          "pubDate" : "Sun, 09 Nov 2025 15:56:26",
          "title" : "Greco (Ukraine) wins European Corporate Chess Championship 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125203290.cms\" />Indian Grandmaster Karthik Venkataraman triumphed over Bogdan-Daniel Deac in a thrilling FIDE World Cup tiebreaker, advancing to the fourth round. He utilised a bishop advantage to secure victory in 43 moves. This win propels five Indians into the next stage, though Vidit Gujrathi and Narayanan SL were eliminated. Karthik's impressive run continues. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-karthik-venkataraman-enters-fourth-round-vidit-gujrathi-bows-out/articleshow/125203290.cms",
-         "pubDate" : "Sun, 09 Nov 2025 15:50:30",
-         "title" : "Chess World Cup: Karthik enters fourth round; Vidit bows out"
       },
       {
          "description" : "GM Yasser Seirawan has described Crazyhouse as &#34;one-person Bughouse,&#34; so it was fitting that NM Isaac Chiu, one half of the 2025 Bughouse Championship winning team, also triumphed in the 2025 Crazyhouse Championship. Chiu won the Winners Final 3-1...",
