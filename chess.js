@@ -18,6 +18,14 @@ news_feed (
          "title" : "Review: \"Outsmarting the London System - 60 minutes\" by IM Andrew Martin"
       },
       {
+         "description" : "GM Sam Shankland won a brilliant first game and ended the 2025 FIDE World Cup run of GM Daniil Dubov 2-0 in tiebreaks to reach the Quarterfinals. GM Andrey Esipenko also needed only two tiebreak games to overcome GM Alexey Grebnev, while GM Jose M...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-5-tiebreaks",
+         "pubDate" : "Sun, 16 Nov 2025 06:40:43",
+         "title" : "Shankland, Esipenko, Martinez, Donchenko Reach World Cup Quarterfinals"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125359885.cms\" />India's top woman chess player K Humpy believes only a top 10 world ranking ensures a sustainable professional career for female players. She advocates for young girls to compete in the men's circuit for experience and rating improvement. Humpy also noted the tricky format of the World Cup favors energetic youngsters and underdogs.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/levon-aronians-draw-offer-proves-costly-as-arjun-powers-into-world-cup-quarterfinals/articleshow/125359837.cms",
          "pubDate" : "Sun, 16 Nov 2025 05:01:33",
          "title" : "Levon Aronian's draw offer proves costly as Arjun powers into World Cup quarterfinals"
+      },
+      {
+         "description" : "Before Round 2 started at 11 a.m., tournament director Karen Pennock promised to have the Round 3 pairings up two hours before the 4 p.m. start of round 3. But eight of the 10 players used up most of their G/90 with 30-second increment allotted time.Because of their fighting attitudes, the Round 3 pairings were not available until 2:56 p.m. These games included some fierce attacks as well as a remarkable come-from-behind victory. A Clear LeaderSaturday began without a clear leader but ended with 2023 U.S. Senior Women's Champion WGM Anjelina Belakovskaia a half point ahead of her nearest competitor, WFM Chouchanik Airapetian. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-us-senior-womens-championship-belakovskaia-leads-perfect-score",
+         "pubDate" : "Sun, 16 Nov 2025 00:00:00",
+         "title" : "2025 U.S. Senior Women's Championship: Belakovskaia Leads With Perfect Score"
       },
       {
          "description" : "Four players secured their places in the quarterfinals on Saturday at the FIDE World Cup in Goa. Javokhir Sindarov held a draw with black to confirm his lead from the first game, while Arjun Erigaisi, Wei Yi and Nodirbek Yakubboev (pictured) each won their rematches to move on. With half of the round-of-16 matches settled, the remaining four spots will be decided in Sunday's rapid and blitz tiebreaks. | Photo: Eteri Kublashvili",
@@ -562,14 +578,6 @@ news_feed (
          "title" : "Bortnyk Wins Freestyle Friday For 5th Time"
       },
       {
-         "description" : "IM Levy Rozman stunned more than 200,000 of his opponents&#38;nbsp;and &#34;did the meme&#34; in GothamChess vs. the World on November 7 by sacrificing his rook on the game&#39;s 21st move. After the world attacked Gotham&#39;s rook with a pawn, the internet chess st...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gothamchess-sacrifices-the-rooook-vs-world",
-         "pubDate" : "Fri, 07 Nov 2025 18:59:00",
-         "title" : "GothamChess Sacrifices 'The Rooook' Vs. World"
-      },
-      {
          "description" : "Save the dates: November 21-23, 2025, for our 31st edition of the Preparation of Teachers course - a golden opportunity to become a certified FIDE School Instructor! &#160; &#160; Conducted...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -624,14 +632,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-corporate-chess-championship-2025-stars-in-paris/",
          "pubDate" : "Thu, 06 Nov 2025 09:42:24",
          "title" : "European Corporate Chess Championship 2025 stars in Paris"
-      },
-      {
-         "description" : "After six days, two rounds, and countless upsets at the 2025 FIDE World Cup (read our preview, which describes the format, here), only five Americans (out of 12) have made it to the final 64 in Goa, India: GMs Levon Aronian (seeded 15th), Awonder Liang (21st), Samuel Sevian (23rd), Sam Shankland (46th), and Jeffery Xiong (52nd). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Aronian analyzes a wild game in the broadcast studio. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> Aronian - who enters Round 3 as the top-rated American left standing - defeated Indian IM Aronyak Ghosh 1&frac12;-&frac12; after some dazzling attacking chess in their fir",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/five-americans-remain-world-cup-after-two-rounds",
-         "pubDate" : "Thu, 06 Nov 2025 00:00:00",
-         "title" : "Five Americans Remain in World Cup After Two Rounds"
       },
       {
          "description" : " Jay Williams was an All-American and &#8220;National Player of the Year&#8221; at Duke University and was a first-round draft pick for the Chicago Bulls. He graduated in three years with dual degrees in sociology and business, and his work ethic was a hallmark of his college career. His #22 is retired at his alma mater. The post <a href=\"https://thechessdrum.net/blog/2025/11/05/jay-williams-on-finance-and-chess/\">Jay Williams on Finance and Chess</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
