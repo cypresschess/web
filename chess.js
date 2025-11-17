@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
+         "pubDate" : "Mon, 17 Nov 2025 10:20:00",
+         "title" : "FIDE World Cup QF - Live!"
+      },
+      {
+         "description" : "The 2025 FIDE World Women's Team Championship will be held in Linares, Spain, one of the most iconic cities in world chess, from November 17 to 24, 2025. Just three days before the official opening ceremony of the championship, FIDE has confirmed the composition of the two competitive pools. The average ratings of the teams range from 2207 (Peru) to 2496 (FIDE).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-women-s-team-championship",
+         "pubDate" : "Mon, 17 Nov 2025 10:07:40",
+         "title" : "World Women's Team Championship"
+      },
+      {
          "description" : "Please find the Under 12 certificates, Under 18 will be published soon . For any query please write back to indainchessfed@gmail.com UNDER 12 S.No Name",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -50,7 +66,7 @@ news_feed (
          "title" : "Review: \"Outsmarting the London System - 60 minutes\" by IM Andrew Martin"
       },
       {
-         "description" : "GM Sam Shankland won a brilliant first game and ended the 2025 FIDE World Cup run of GM Daniil Dubov 2-0 in tiebreaks to reach the Quarterfinals. GM Andrey Esipenko also needed just two tiebreak games to overcome GM Alexey Grebnev, while GM Jose M...",
+         "description" : "GM Sam Shankland won a brilliant first game and ended the 2025 FIDE World Cup run of GM Daniil Dubov 2-0 in tiebreaks to reach the Quarterfinals. GM Andrey Esipenko also needed only two tiebreak games to overcome GM Alexey Grebnev, while GM Jose M...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-5-tiebreaks",
