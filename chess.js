@@ -18,7 +18,7 @@ news_feed (
          "title" : "Review: \"Outsmarting the London System - 60 minutes\" by IM Andrew Martin"
       },
       {
-         "description" : "GM Sam Shankland won a brilliant first game and ended the 2025 FIDE World Cup run of GM Daniil Dubov 2-0 in tiebreaks to reach the Quarterfinals. GM Andrey Esipenko also needed only two tiebreak games to overcome GM Alexey Grebnev, while GM Jose M...",
+         "description" : "GM Sam Shankland won a brilliant first game and ended the 2025 FIDE World Cup run of GM Daniil Dubov 2-0 in tiebreaks to reach the Quarterfinals. GM Andrey Esipenko also needed just two tiebreak games to overcome GM Alexey Grebnev, while GM Jose M...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-5-tiebreaks",
@@ -800,14 +800,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/world-no-3-fabiano-caruana-wins-fifth-u-s-chess-championship-carissa-yip-captures-fourth-u-s-womens-championship-title/",
          "pubDate" : "Mon, 27 Oct 2025 02:39:42",
          "title" : "World No. 3 Fabiano Caruana Wins Fifth U.S. Chess Championship; Carissa Yip Captures Fourth U.S. Women's Championship Title"
-      },
-      {
-         "description" : " RIP Mihai Suba (Bucharest 1 June 1947 - Spain 26 October 2025, aged 78) Suba was a Romanian-born chess player who became an International Master in 1975 and a Grandmaster in 1978. Suba didn't begin playing chess until the unusually late age of 19, yet within just a few years he had risen to become a formidable competitor. He was crowned Romanian Champion three times - in 1980, 1981, and 1985 - and narrowly missed qualifying for the Candidates Tournament after finishing third at the 1982 Las Palmas Interzonal. Among his tournament triumphs were first place at Dortmund 1983, and shared first at Prague 1985 and Timisoara 1987. In 1988, during the Lloyds Bank Masters in London, Suba defected fr",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/mihai-suba-1947-2025",
-         "pubDate" : "Sun, 26 Oct 2025 23:01:00",
-         "title" : "Mihai Suba 1947-2025 - "
       }
    ]
 }
