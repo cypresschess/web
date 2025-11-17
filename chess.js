@@ -34,7 +34,7 @@ news_feed (
          "title" : "Pictorial: Anand-Kasparov showdown"
       },
       {
-         "description" : "GM Nodirbek Yakubboev won the only decisive game in game one of the Quarterfinals in the 2025 FIDE World Cup, against GM Alexander Donchenko. A draw away from reaching the Semifinals, the Uzbek number-three also joins the (unofficial) 2700-club wi...",
+         "description" : "GM Nodirbek Yakubboev won the only decisive game in game one of the Quarterfinals of the 2025 FIDE World Cup, against GM Alexander Donchenko. A draw away from reaching the Semifinals, the Uzbek number-three also joins the (unofficial) 2700-club wi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-6-game-1",
@@ -64,6 +64,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/from-d-gukesh-to-r-praggnanandhaa-is-everything-all-right-with-top-chess-players-early-world-cup-exits-expose-harsh-truth/articleshow/125375999.cms",
          "pubDate" : "Mon, 17 Nov 2025 04:49:40",
          "title" : "From Gukesh to Pragg: Early World Cup exits expose harsh truths"
+      },
+      {
+         "description" : "The 2025 U.S. Senior Women's Championship made history. In both previous years of this event, there was a clear champion from the classical games. But this year, at the end of the five-round Swiss system tournament, 2023's winner WGM Anjelina Belakovskaia and last year's winner WFM Natalya Tsodikova were tied with four points each. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Anjelina Belakovskaia (L) and Natalya Tsodikova tied for first with 4/5 scores. (Photo courtesy of the organizers)<br> <br> <br> <br> Belakovskaia defeated Tsodikova Saturday night in their head-to-head game, but drew both of her games on Sunday while Tsodikova won both her gam",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-us-senior-womens-championship-tsodikova-wins-playoff-title",
+         "pubDate" : "Mon, 17 Nov 2025 00:00:00",
+         "title" : "2025 U.S. Senior Women's Championship: Tsodikova Wins Playoff for Title"
       },
       {
          "description" : "GM Sam Shankland is the only American to reach the 2025 FIDE World Cup \"elite eight\" after defeating Russian GM Daniil Dubov 3-1 in the first rapid tiebreak in Round 5.This is Shankland's second trip to the final eight, where he was eliminated by GM Sergey Karjakin in the second tiebreak in 2021. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy FIDE/Eteri Kublashvili<br> <br> In the first classical game, Shankland found himself under some pressure from Dubov, but he equalized nicely. After a simple, stable draw in the second classical game, Shankl",
@@ -512,14 +520,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-3-0-thursday",
          "pubDate" : "Mon, 10 Nov 2025 08:00:00",
          "title" : "Announcing 3 0 Thursday, The New Weekly Prize Event For Titled Players"
-      },
-      {
-         "description" : "Four Americans are through to the fourth round of the 2025 FIDE World Cup in Goa, India. GM Sam Shankland's upset over 19th-seeded Indian GM Vidit Gujrathi was the best result of the round, and he'll be joined by GMs Levon Aronian, Samuel Sevian, and Awonder Liang. The fifth American who made it to Round 3, GM Jeffery Xiong, was eliminated after losing 1&frac12;-&frac12; to Vietnamese GM Le Quang Liem. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Sam Shankland's come-from-behind double-overtime victory over Vidit Gujrathi - featuring two wins for Shankland as Black - headlined the Am",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/four-americans-remain-after-three-rounds-goa",
-         "pubDate" : "Mon, 10 Nov 2025 00:00:00",
-         "title" : "Four Americans Remain After Three Rounds in Goa"
       },
       {
          "description" : "The European Corporate Chess Championship 2025 concluded yesterday in Paris, France! The event took place from 7-8 November at the Espace Francis Delage, with the participation of 53 teams that competed over 9 swiss rounds with rapid time control. Ukrainian Greco clinched the Championship with the score of 24 match points (7 wins, 1 draw, 1 loss) and better tiebreaks than Bulgarian Agrofert which had the same score of match points. Greco (Ukraine) played in very strong composition with: GM []",
