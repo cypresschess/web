@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2025-11-16","18","<a href=https://ratings.uschess.org/event/202511160473 target='_blank'>2025 Thanksgiving by AzChAcad</a>",
+"HOUSTON","2025-11-16","49","<a href=https://ratings.uschess.org/event/202511160353 target='_blank'>Houston Fall FIDE 25</a>",
 "HOUSTON","2025-11-15","8","<a href=https://ratings.uschess.org/event/202511150573 target='_blank'>chesspanda11152025saturday</a>",
 "HOUSTON","2025-11-15","16","<a href=https://ratings.uschess.org/event/202511150403 target='_blank'>NOV 15TH -- TROPHY-SCHOLASTIC</a>",
 "SPRING","2025-11-14","20","<a href=https://ratings.uschess.org/event/202511140233 target='_blank'>THE FRIDAY KNIGHTS (TX)</a>",
@@ -97,6 +99,4 @@ jtable([
 "SUGAR LAND","2025-08-15","23","<a href=https://ratings.uschess.org/event/202508152882 target='_blank'>FBCC 2025 HAWAIIAN SHIRT DAY OPEN</a>",
 "HOUSTON","2025-08-10","16","<a href=https://ratings.uschess.org/event/202508100572 target='_blank'>BELLAIRE SUNDAY SWISS 08/10/25</a>",
 "HOUSTON","2025-08-10","4","<a href=https://ratings.uschess.org/event/202508100382 target='_blank'>AUGUST 10TH-SUNDAY SWISS OPEN</a>",
-"HOUSTON","2025-08-09","38","<a href=https://ratings.uschess.org/event/202508099292 target='_blank'>AUG 9TH -- TROPHY SCHOLASTIC</a>",
-"HOUSTON","2025-08-09","9","<a href=https://ratings.uschess.org/event/202508090792 target='_blank'>CHESSPANDA08092025SATURDAY</a>",
 ]);
