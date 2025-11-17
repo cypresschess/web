@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find the Under 12 certificates, Under 18 will be published soon . For any query please write back to indainchessfed@gmail.com UNDER 12 S.No Name",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-national-school-teamu-12-u-18-chess-championship-2025-in-shimla-from-12-14-oct-2025/",
+         "pubDate" : "Mon, 17 Nov 2025 08:19:11",
+         "title" : "Certificate of National School Team(U 12 & U 18) Chess Championship 2025 in Shimla from 12-14 Oct 2025"
+      },
+      {
+         "description" : "Ashwin Subramanian, Software Engineering Leader at Intel and lifelong chess enthusiast, was inspired to take up competitive chess after watching the 1990 Kasparov-Karpov match, with Anand becoming a huge inspiration from the very beginning! After Kasparov retired in 2005, he never imagined he'd get to watch him and Anand play competitively again... until St. Louis happened! Armed with his camera and decades of admiration, Ashwin captured the Anand-Kasparov showdown from just a few feet away and sent us these magnificent pictorial impressions from the Clutch Chess event.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pictorial-anand-kasparov-showdown",
+         "pubDate" : "Mon, 17 Nov 2025 08:12:32",
+         "title" : "Pictorial: Anand-Kasparov showdown"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125377515.cms\" />Indian chess prodigy Erigaisi Arjun faces a crucial World Cup quarterfinal clash against China's Wei Yi on Monday. Both players are vying for a coveted Candidates spot, with the top three finishers earning qualification. Arjun has shown impressive form, while Yi, despite past setbacks, remains a formidable opponent. Meanwhile, Harikrishna's World Cup journey concluded after a tough tiebreak loss.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-indias-last-hope-arjun-erigaisi-set-for-wei-yi-challenge-in-quarterfinals/articleshow/125377515.cms",
+         "pubDate" : "Mon, 17 Nov 2025 05:50:44",
+         "title" : "Chess WC: India's last hope Erigaisi set for Yi challenge in quarterfinals"
+      },
+      {
          "description" : "Eight players now remain in contention at the FIDE World Cup in Goa, where Sunday's round-of-16 tiebreaks completed the quarterfinal lineup. Alexander Donchenko, Jose Martinez, Sam Shankland (pictured) and Andrey Esipenko advanced alongside earlier qualifiers, ensuring a diverse field in which no participant has yet played in a Candidates Tournament. With seven nations represented and three coveted Candidates places at stake, the knockout event enters its decisive phase on Monday. | Photo: Eteri Kublashvili",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2025-r5tb",
          "pubDate" : "Mon, 17 Nov 2025 04:50:00",
          "title" : "World Cup: Donchenko, Martinez, Shankland and Esipenko prevail"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125375999.cms\" />Russian Grandmaster Daniil Dubov's dismissive comments after defeating R Praggnanandhaa highlight a trend of early exits for elite players at the FIDE World Cup 2025. Several top seeds, including World Champion D Gukesh, fell to lower-rated opponents, prompting discussions about the narrowing gap in skill and flaws in the rating system.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/from-d-gukesh-to-r-praggnanandhaa-is-everything-all-right-with-top-chess-players-early-world-cup-exits-expose-harsh-truth/articleshow/125375999.cms",
+         "pubDate" : "Mon, 17 Nov 2025 04:49:40",
+         "title" : "From Gukesh to Pragg: Early World Cup exits expose harsh truths"
       },
       {
          "description" : "Hardly any opening polarises opinion online as much as the London System. Black has numerous ways to achieve a comfortable position. Nevertheless, there are many followers who have remained loyal to this opening for years. What if there were a surprise weapon that could lure White out of his comfort zone and into positions that require precise play instead of formulaic thinking? Andrew Martin has a secret weapon up his sleeve that he wants to share with us - Lukas Koepl presents the course.",
@@ -418,14 +450,6 @@ news_feed (
          "title" : "FIDE World Cup: Chess knockouts inch towards climax"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125240562.cms\" />Team India will be represented by Rakshitta Ravi, Padmini Rout, B Savitha Shri, PV Nandhidhaa, Sarayu Velpula and Srija Seshadri. It means six of the top-seven rated India women are not playing in this 12-team event to be held in Linares from Nov 17 to 24.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/stars-missing-from-world-team-chess/articleshow/125240562.cms",
-         "pubDate" : "Tue, 11 Nov 2025 05:18:05",
-         "title" : "Stars missing from World Team Chess"
-      },
-      {
          "description" : "No team has had a better run in the Collegiate Chess League (CCL) this season than the University of Texas, Dallas. They&#39;ve defeated both of last season&#39;s finalists, and raced out to a perfect 6-0 start. In contrast, Texas Tech University has had ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -448,14 +472,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-clutch-chess-champions",
          "pubDate" : "Tue, 11 Nov 2025 00:00:00",
          "title" : "Tactics Tuesday: Clutch Chess Champions"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125221308.cms\" />Chennai's Raahul VS achieved a significant milestone by becoming India's 91st Grandmaster. He secured the title by winning the 6th ASEAN Individual Open Chess Championship. This direct title win is a rare accomplishment. Raahul overcame financial struggles and mental challenges to reach this point. He now aims for further success in his chess career.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/making-of-indias-91st-gm-raahul-vs-battling-financial-troubles-negative-emotions-before-doing-a-divya-deshmukh-exclusive/articleshow/125221308.cms",
-         "pubDate" : "Mon, 10 Nov 2025 12:32:53",
-         "title" : "Making of India's 91st GM: Battling financial troubles, 'negative emotions' | Exclusive"
       },
       {
          "description" : "We&#39;re excited to announce 3 0 Thursday (three-oh-Thursday), our new weekly prize event for titled players! The event will feature a 3+0 time control, the most popular among titled players on our website. Every Thursday, titled players can now play...",
