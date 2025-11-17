@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "description" : "Eight players now remain in contention at the FIDE World Cup in Goa, where Sunday's round-of-16 tiebreaks completed the quarterfinal lineup. Alexander Donchenko, Jose Martinez, Sam Shankland (pictured) and Andrey Esipenko advanced alongside earlier qualifiers, ensuring a diverse field in which no participant has yet played in a Candidates Tournament. With seven nations represented and three coveted Candidates places at stake, the knockout event enters its decisive phase on Monday. | Photo: Eteri Kublashvili",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Sun, 16 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup - Live!"
+         "link" : "https://en.chessbase.com/post/world-cup-2025-r5tb",
+         "pubDate" : "Mon, 17 Nov 2025 04:50:00",
+         "title" : "World Cup: Donchenko, Martinez, Shankland and Esipenko prevail"
       },
       {
          "description" : "Hardly any opening polarises opinion online as much as the London System. Black has numerous ways to achieve a comfortable position. Nevertheless, there are many followers who have remained loyal to this opening for years. What if there were a surprise weapon that could lure White out of his comfort zone and into positions that require precise play instead of formulaic thinking? Andrew Martin has a secret weapon up his sleeve that he wants to share with us - Lukas Koepl presents the course.",
@@ -50,14 +50,6 @@ news_feed (
          "title" : "2025 U.S. Senior Women's Championship: Belakovskaia Leads With Perfect Score"
       },
       {
-         "description" : "Four players secured their places in the quarterfinals on Saturday at the FIDE World Cup in Goa. Javokhir Sindarov held a draw with black to confirm his lead from the first game, while Arjun Erigaisi, Wei Yi and Nodirbek Yakubboev (pictured) each won their rematches to move on. With half of the round-of-16 matches settled, the remaining four spots will be decided in Sunday's rapid and blitz tiebreaks. | Photo: Eteri Kublashvili",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-r5g2",
-         "pubDate" : "Sat, 15 Nov 2025 23:10:00",
-         "title" : "World Cup: Arjun, Wei, Sindarov and Yakubboev advance to quarterfinals"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125351201.cms\" />Arjun's next move, a pleasing-to-the-eye knight sacrifice proved to be the final nail as the Indian is now three wins away from annexing the World Cup.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -98,28 +90,12 @@ news_feed (
          "title" : "Sumo cum Laude: chess and wrestling"
       },
       {
-         "description" : "A new meeting place for chess fans has opened in Gothenburg, as Svarta H&auml;sten launched its second bar on 14 November. Following the success of the original Stockholm venue, the new location offers the same mix of casual play, social atmosphere and distinctive red-and-yellow chess tables. Housed in the converted stables of the Dickson Palace, it aims to provide an inviting space for beginners and experienced players alike.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svarta-hansten-second-location",
-         "pubDate" : "Sat, 15 Nov 2025 09:00:00",
-         "title" : "Sweden's first ever chess bar opens second location"
-      },
-      {
          "description" : "Second-seed GM Arjun Erigaisi is through to the Quarterfinals of the 2025 FIDE World Cup after finding a beautiful finish to eliminate GM Levon Aronian. He&#39;ll play seventh-seed GM Wei Yi, who eventually punished an early mistake by GM Sam Sevian. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-5-game-2",
          "pubDate" : "Sat, 15 Nov 2025 07:32:00",
          "title" : "Arjun Beats Aronian To Reach World Cup Quarterfinals"
-      },
-      {
-         "description" : "Friday's action at the FIDE World Cup in Goa saw all eight round-of-16 matches begin with closely fought encounters. Seven games were ultimately drawn, even though Arjun Erigaisi and Daniil Dubov managed to put their opponents under real pressure. The only player to score a full point was Javokhir Sindarov, who outplayed Frederik Svane in an Italian Opening to take the early lead and leave the German grandmaster needing a win on Saturday. | Photo: Eteri Kublashvili",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-r5g1",
-         "pubDate" : "Sat, 15 Nov 2025 06:05:00",
-         "title" : "World Cup: Sindarov scores, Aronian and Shankland escape with draws"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125340716.cms\" />Levon Aronian and P Harikrishna drew their World Cup pre-quarterfinal first games and will aim to leverage their white pieces in Saturday's decisive return matches. Most of the day's games ended in draws, setting the stage for tense tiebreaks as several lower-seeded players kept their upset hopes alive.",
@@ -792,14 +768,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-1/",
          "pubDate" : "Mon, 27 Oct 2025 21:49:28",
          "title" : "POSTGAME DAY 1: Gukesh Smashes Fabi! | #ChampionsShowdown"
-      },
-      {
-         "description" : " Clutch Chess: Champions Showdown Caps Off an Unforgettable Month of Chess in Saint Louis to Celebrate Newly Re-opened Saint Louis Chess Club SAINT LOUIS - Grandmaster (GM) and World No. 3 Fabiano Caruana and International Master (IM) Carissa Yip have successfully defended their titles at the 2025 U.S. and U.S. Women's Chess Championships, respectively. Their [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/world-no-3-fabiano-caruana-wins-fifth-u-s-chess-championship-carissa-yip-captures-fourth-u-s-womens-championship-title/\">World No. 3 Fabiano Caruana Wins Fifth U.S. Chess Championship; Carissa Yip Captures Fourth U.S. Women's Championship Title</a> appeared first o",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/world-no-3-fabiano-caruana-wins-fifth-u-s-chess-championship-carissa-yip-captures-fourth-u-s-womens-championship-title/",
-         "pubDate" : "Mon, 27 Oct 2025 02:39:42",
-         "title" : "World No. 3 Fabiano Caruana Wins Fifth U.S. Chess Championship; Carissa Yip Captures Fourth U.S. Women's Championship Title"
       }
    ]
 }
