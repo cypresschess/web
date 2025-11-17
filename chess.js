@@ -34,6 +34,14 @@ news_feed (
          "title" : "Pictorial: Anand-Kasparov showdown"
       },
       {
+         "description" : "GM Nodirbek Yakubboev won the only decisive game in game one of the Quarterfinals in the 2025 FIDE World Cup, against GM Alexander Donchenko. A draw away from reaching the Semifinals, the Uzbek number-three also joins the (unofficial) 2700-club wi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-6-game-1",
+         "pubDate" : "Mon, 17 Nov 2025 05:58:00",
+         "title" : "Yakubboev Draws 1st Blood, Crosses 2700 Live Rating"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125377515.cms\" />Indian chess prodigy Erigaisi Arjun faces a crucial World Cup quarterfinal clash against China's Wei Yi on Monday. Both players are vying for a coveted Candidates spot, with the top three finishers earning qualification. Arjun has shown impressive form, while Yi, despite past setbacks, remains a formidable opponent. Meanwhile, Harikrishna's World Cup journey concluded after a tough tiebreak loss.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/from-d-gukesh-to-r-praggnanandhaa-is-everything-all-right-with-top-chess-players-early-world-cup-exits-expose-harsh-truth/articleshow/125375999.cms",
          "pubDate" : "Mon, 17 Nov 2025 04:49:40",
          "title" : "From Gukesh to Pragg: Early World Cup exits expose harsh truths"
+      },
+      {
+         "description" : "GM Sam Shankland is the only American to reach the 2025 FIDE World Cup \"elite eight\" after defeating Russian GM Daniil Dubov 3-1 in the first rapid tiebreak in Round 5.This is Shankland's second trip to the final eight, where he was eliminated by GM Sergey Karjakin in the second tiebreak in 2021. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy FIDE/Eteri Kublashvili<br> <br> In the first classical game, Shankland found himself under some pressure from Dubov, but he equalized nicely. After a simple, stable draw in the second classical game, Shankl",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/shankland-defeats-dubov-returns-world-cup-quarterfinals",
+         "pubDate" : "Mon, 17 Nov 2025 00:00:00",
+         "title" : "Shankland Defeats Dubov, Returns to World Cup Quarterfinals"
       },
       {
          "description" : "Hardly any opening polarises opinion online as much as the London System. Black has numerous ways to achieve a comfortable position. Nevertheless, there are many followers who have remained loyal to this opening for years. What if there were a surprise weapon that could lure White out of his comfort zone and into positions that require precise play instead of formulaic thinking? Andrew Martin has a secret weapon up his sleeve that he wants to share with us - Lukas Koepl presents the course.",
@@ -506,14 +522,6 @@ news_feed (
          "title" : "Four Americans Remain After Three Rounds in Goa"
       },
       {
-         "description" : "GM Hikaru Nakamura's recent quest for a ratings-based spot in the Candidates Tournament has taken him to some places you wouldn't think a super-grandmaster would go: the Louisiana Championship on Labor Day weekend, the Iowa Championship in mid-September, and the Washington Dulles Open last weekend.Nakamura has a high enough rating to get into the Candidates; he just needed to rack up enough FIDE-rated games to be considered active, and that's what's led him to the relative boondocks of the chess world. He swept the Louisiana and Iowa tournaments, his highest-rated opponents still ceding more than 500 points to him; in Virginia, he drew quickly in the last round with GM Praveen Balakrishnan t",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/super-gm-wild-nakamuras-candidates-quest-ends-successfully-virginia",
-         "pubDate" : "Mon, 10 Nov 2025 00:00:00",
-         "title" : "A Super-GM in the Wild: Nakamura's Candidates Quest Ends Successfully in Virginia"
-      },
-      {
          "description" : "The European Corporate Chess Championship 2025 concluded yesterday in Paris, France! The event took place from 7-8 November at the Espace Francis Delage, with the participation of 53 teams that competed over 9 swiss rounds with rapid time control. Ukrainian Greco clinched the Championship with the score of 24 match points (7 wins, 1 draw, 1 loss) and better tiebreaks than Bulgarian Agrofert which had the same score of match points. Greco (Ukraine) played in very strong composition with: GM []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -576,14 +584,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-champions-2025-crowned-in-budva-montenegro/",
          "pubDate" : "Sat, 08 Nov 2025 00:27:46",
          "title" : "European Youth Chess Champions 2025 crowned in Budva, Montenegro"
-      },
-      {
-         "description" : "GM Magnus Carlsen may have been the favorite before the games started, but GM Oleksandr Bortnyk convincingly won his fifth Freestyle Friday tournament 9.5/11, a full point ahead of the former world champion and GM Dmitry Andreikin. With 83 partici...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-november-7-2025",
-         "pubDate" : "Fri, 07 Nov 2025 19:49:00",
-         "title" : "Bortnyk Wins Freestyle Friday For 5th Time"
       },
       {
          "description" : "Save the dates: November 21-23, 2025, for our 31st edition of the Preparation of Teachers course - a golden opportunity to become a certified FIDE School Instructor! &#160; &#160; Conducted...",
