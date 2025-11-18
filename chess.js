@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-november-18-2025",
-         "pubDate" : "Tue, 18 Nov 2025 11:16:51",
+         "pubDate" : "Tue, 18 Nov 2025 11:16:00",
          "title" : "Nakamura Dominates Titled Tuesday In Nearly Perfect Effort"
       },
       {
@@ -40,6 +40,14 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-september-october-2025/",
          "pubDate" : "Tue, 18 Nov 2025 10:39:24",
          "title" : "ECU E-Magazine September & October 2025"
+      },
+      {
+         "description" : "GM Gajewski speaks to ESPN after Gukesh's shock early exit from the FIDE World Cup on lessons learnt from a tough 2025",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/47008708/silence-please-chess-wrestles-fan-atmosphere-conundrum?device=featurephone",
+         "pubDate" : "Tue, 18 Nov 2025 09:10:39",
+         "title" : "Silence please: Chess wrestles with fan atmosphere conundrum"
       },
       {
          "description" : "The Charlotte Chess Center, the Charlotte Chess Center Foundation, along with GM Daniel Naroditsky&#39;s family, have launched the Naroditsky Memorial and Fellowship Fund today, to honor the memory and legacy of the grandmaster. Naroditsky&#39;s tragic ...",
