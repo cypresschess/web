@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A Russian team will be competing in an international team competition at the World Women's Team Championship in Linares for the first time since Russia's attack on Ukraine, albeit under the FIDE flag. While the FIDE Council has approved this, it contradicts the IOC's recommendation. Some critics also believe that FIDE's status as a recognised sports federation within the IOC is now under threat. Photos: Patricia Claros (FEDA), unless otherwise stated.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/after-exclusion-russian-team-back-in-fide-world-championship",
+         "pubDate" : "Tue, 18 Nov 2025 18:38:00",
+         "title" : "After exclusion: Russian team back in FIDE World Championship"
+      },
+      {
+         "description" : " The Tata Steel Chess tournament takes place in Wijk aan Zee 16th Jan - 1st Feb 2026. The fields for both the Masters and Challengers have been set and they reflect the state of professional chess today. The Masters group has an average age of just 23. Exciting players like Vincent Keymer, Arjun Erigaisi, Nodirbek Abdusattorov and Hans Niemann should light up the competition. World Champion Gukesh might be struggling at the moment but you'd want him in your tournament, especially as he only just missed out last year following a tie-break match with the eventual winner Rameshbabu Praggnanandhaa. Dutch number one Anish Giri is the oldest player in the field at 32, he has enjoyed one of his bes",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/tata-steel-chess-tournament-all-set-for-its-2026-edition-after-announcing-the-players",
+         "pubDate" : "Tue, 18 Nov 2025 18:32:00",
+         "title" : "Tata Steel Chess tournament all set for its 2026 edition after announcing the players - "
+      },
+      {
+         "description" : "The World Women's Team Championship is taking place in Linares, Spain, from 18 to 23 November. The event includes 12 national teams, including China, India, the United States and the host nation Spain. With top players such as Hou Yifan, Carissa Yip and Sarasadat Khademalsharieh competing, the championship features a strong field in a city long associated with elite chess. | Follow the games live starting at 13.30 CET (8.30 ET, 18.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-live",
+         "pubDate" : "Tue, 18 Nov 2025 13:20:00",
+         "title" : "World Women's Team Championship - Live!"
+      },
+      {
+         "description" : "GM Hikaru Nakamura began Titled Tuesday on November 18 with 10/10 to lock up first place with a round to spare. He was held to a draw in the last round by GM Jeffery Xiong, but Nakamura&#39;s dominant 10.5/11 score&#38;mdash;nearly accomplishing the same ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-november-18-2025",
+         "pubDate" : "Tue, 18 Nov 2025 11:16:51",
+         "title" : "Nakamura Dominates Titled Tuesday In Nearly Perfect Effort"
+      },
+      {
          "description" : "The combined September &#38; October 2025 issue of the ECU E-Magazine is out! In this edition of the ECU E-Magazine you may read about: The combined September and October issue of the ECU E-Magazine can be read online together with interactive links and videos through the following link or it can be downloaded in the PDF format below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -10,12 +42,20 @@ news_feed (
          "title" : "ECU E-Magazine September & October 2025"
       },
       {
-         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Tue, 18 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup QF - Live!"
+         "description" : "The Charlotte Chess Center, the Charlotte Chess Center Foundation, along with GM Daniel Naroditsky&#39;s family, have launched the Naroditsky Memorial and Fellowship Fund today, to honor the memory and legacy of the grandmaster. Naroditsky&#39;s tragic ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/naroditsky-memorial-chess-fund-announced",
+         "pubDate" : "Tue, 18 Nov 2025 08:31:07",
+         "title" : "Charlotte Chess Center, Naroditsky Family Found 'Memorial And Fellowship Fund'"
+      },
+      {
+         "description" : "Three matches go to tiebreaks after four draws in game two of the Quarterfinals in the 2025 FIDE World Cup. One match did end, with GM Nodirbek Yakubboev advancing to the Semifinals after holding a draw against GM Alexander Donchenko, making good ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-6-game-2",
+         "pubDate" : "Tue, 18 Nov 2025 07:17:00",
+         "title" : "Yakubboev Advances, Wei Yi Survives Vs. Arjun"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125404863.cms\" />US Grandmaster Sam Shankland, a proponent of the knockout format, expressed his belief that it can help reduce draws in chess. Shankland, who has advanced to the quarterfinals of the World Cup after upsetting higher-seeded players, highlighted the format's prevalence in other major sports. He feels it provides crucial opportunities for rising players to test themselves against elite competition.",
@@ -50,6 +90,14 @@ news_feed (
          "title" : "UTD, SLU Advance To Collegiate Chess League Finals"
       },
       {
+         "description" : "This week's exercises come from the just-concluded 2025 U.S. Senior Women's Championship, where WFM Natalya Tsodikova defended her title with an Armageddon playoff victory over WGM Anjelina Belakovskaia. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-us-senior-womens-championship",
+         "pubDate" : "Tue, 18 Nov 2025 00:00:00",
+         "title" : "Tactics Tuesday: U.S. Senior Women's Championship"
+      },
+      {
          "description" : "Monday's quarterfinal openers at the FIDE World Cup in Goa saw Nodirbek Yakubboev take an early lead, as the Uzbek GM won his game against Alexander Donchenko. The other three encounters were drawn, though Javokhir Sindarov came close to securing a second win for Uzbekistan before Jose Martinez held firm in a difficult endgame. With three matches still level, the race for semifinal places remains wide open. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +106,7 @@ news_feed (
          "title" : "World Cup: Yakubboev scores, as Donchenko stumbles in the opening"
       },
       {
-         "description" : "GM Hikaru Nakamura has booked his ticket for the Speed Chess Championship 2025 Semifinals in London after a nail-biting match against GM Wesley So went down to the wire. Nakamura built up four and three-point leads, but So twice hit back with thre...",
+         "description" : "GM Hikaru Nakamura has booked his ticket for the Speed Chess Championship 2025 Semifinals in London after a nail-biting match against GM Wesley So that went down to the wire. Nakamura built up four and three-point leads, but So twice hit back with...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-qf-nakamura-so",
@@ -522,14 +570,6 @@ news_feed (
          "title" : "Nakamura Clinches Candidates Spot As FIDE Announces Cyprus As 2026 Host"
       },
       {
-         "description" : "No team has had a better run in the Collegiate Chess League (CCL) this season than the University of Texas, Dallas. They&#39;ve defeated both of last season&#39;s finalists, and raced out to a perfect 6-0 start. In contrast, Texas Tech University has had ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-ccl-fall-week-7-texastech-utd",
-         "pubDate" : "Tue, 11 Nov 2025 00:51:03",
-         "title" : "Texas Tech Shakes Up Collegiate Chess League Standings, Defeats UTD"
-      },
-      {
          "description" : "The third U.S. Senior Women's Championship will take place this weekend from Nov. 14-16 at the Residence Inn by Marriott in Murray, Utah near Salt Lake City. This will be an official US Chess National Championship with an $8,400 prize fund. The FIDE-rated, five-round Swiss tournament will be played at the classical time control of game-in-90 minutes with a 30-second increment beginning on move one. Games will be broadcast live, and Chess Life Online will have daily recaps from WIM Dr. Alexey Root. WGM Sabina Foisor will also be streaming live commentary on the US Chess Twitch channel beginning at 7:00 p.m. MST on Friday, November 14.The Utah State Chess Association and David Day are listed a",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -538,36 +578,12 @@ news_feed (
          "title" : "3rd U.S. Senior Women's Championship Preview"
       },
       {
-         "description" : "This week's puzzles come from the Clutch Chess: Champions Showdown, which concluded two weeks ago at the newly renovated Saint Louis Chess Club. These puzzles are taken from the Wednesday Workout series on this tournament. Puzzles from Day 1 are here and Day 2 are here. Puzzles from the final day will be released tomorrow. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-clutch-chess-champions",
-         "pubDate" : "Tue, 11 Nov 2025 00:00:00",
-         "title" : "Tactics Tuesday: Clutch Chess Champions"
-      },
-      {
-         "description" : "We&#39;re excited to announce 3 0 Thursday (three-oh-Thursday), our new weekly prize event for titled players! The event will feature a 3+0 time control, the most popular among titled players on our website. Every Thursday, titled players can now play...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-3-0-thursday",
-         "pubDate" : "Mon, 10 Nov 2025 08:00:00",
-         "title" : "Announcing 3 0 Thursday, The New Weekly Prize Event For Titled Players"
-      },
-      {
          "description" : "The European Corporate Chess Championship 2025 concluded yesterday in Paris, France! The event took place from 7-8 November at the Espace Francis Delage, with the participation of 53 teams that competed over 9 swiss rounds with rapid time control. Ukrainian Greco clinched the Championship with the score of 24 match points (7 wins, 1 draw, 1 loss) and better tiebreaks than Bulgarian Agrofert which had the same score of match points. Greco (Ukraine) played in very strong composition with: GM []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/greco-ukraine-wins-european-corporate-chess-championship-2025/",
          "pubDate" : "Sun, 09 Nov 2025 15:56:26",
          "title" : "Greco (Ukraine) wins European Corporate Chess Championship 2025"
-      },
-      {
-         "description" : "GM Yasser Seirawan has described Crazyhouse as &#34;one-person Bughouse,&#34; so it was fitting that NM Isaac Chiu, one half of the 2025 Bughouse Championship winning team, also triumphed in the 2025 Crazyhouse Championship. Chiu won the Winners Final 3-1...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-crazyhouse-chess-championship-chiu-wins",
-         "pubDate" : "Sun, 09 Nov 2025 08:24:00",
-         "title" : "Bughouse Champion Isaac Chiu Also Wins Crazyhouse Title"
       },
       {
          "description" : "Imagine going into school and on day 1, your teacher is telling you everything you will have to learn in the next 9 years. Then, for each subject, the teacher picks the 30 main things you'll have to learn, writes them each on a piece of paper, and lets you pick blindly what will be []",
