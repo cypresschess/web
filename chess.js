@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "description" : "Monday's quarterfinal openers at the FIDE World Cup in Goa saw Nodirbek Yakubboev take an early lead, as the Uzbek GM won his game against Alexander Donchenko. The other three encounters were drawn, though Javokhir Sindarov came close to securing a second win for Uzbekistan before Jose Martinez held firm in a difficult endgame. With three matches still level, the race for semifinal places remains wide open. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Mon, 17 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup QF - Live!"
+         "link" : "https://en.chessbase.com/post/world-cup-2025-r6g1",
+         "pubDate" : "Mon, 17 Nov 2025 21:25:00",
+         "title" : "World Cup: Yakubboev scores, as Donchenko stumbles in the opening"
+      },
+      {
+         "description" : "The Ukrainian Chess Federation has filed a last-minute complaint against the participation of &#34;Team FIDE&#34; in the FIDE Women&#39;s World Team Championship, which begins Tuesday in Linares, Spain. The tournament brings together 12 of the world&#39;s top w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ukraine-files-complaint-vs-russian-team-fide-womens-world-teams",
+         "pubDate" : "Mon, 17 Nov 2025 14:24:00",
+         "title" : "Ukraine Files Protest Vs. Russian 'Team FIDE' In Women's World Team Championship"
       },
       {
          "description" : "The 2025 FIDE World Women's Team Championship will be held in Linares, Spain, one of the most iconic cities in world chess, from November 17 to 24, 2025. Just three days before the official opening ceremony of the championship, FIDE has confirmed the composition of the two competitive pools. The average ratings of the teams range from 2207 (Peru) to 2496 (FIDE).",
@@ -50,14 +58,6 @@ news_feed (
          "title" : "Chess WC: India's last hope Erigaisi set for Yi challenge in quarterfinals"
       },
       {
-         "description" : "Eight players now remain in contention at the FIDE World Cup in Goa, where Sunday's round-of-16 tiebreaks completed the quarterfinal lineup. Alexander Donchenko, Jose Martinez, Sam Shankland (pictured) and Andrey Esipenko advanced alongside earlier qualifiers, ensuring a diverse field in which no participant has yet played in a Candidates Tournament. With seven nations represented and three coveted Candidates places at stake, the knockout event enters its decisive phase on Monday. | Photo: Eteri Kublashvili",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-r5tb",
-         "pubDate" : "Mon, 17 Nov 2025 04:50:00",
-         "title" : "World Cup: Donchenko, Martinez, Shankland and Esipenko prevail"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125375999.cms\" />Russian Grandmaster Daniil Dubov's dismissive comments after defeating R Praggnanandhaa highlight a trend of early exits for elite players at the FIDE World Cup 2025. Several top seeds, including World Champion D Gukesh, fell to lower-rated opponents, prompting discussions about the narrowing gap in skill and flaws in the rating system.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -66,7 +66,7 @@ news_feed (
          "title" : "From Gukesh to Pragg: Early World Cup exits expose harsh truths"
       },
       {
-         "description" : "The 2025 U.S. Senior Women's Championship made history. In both previous years of this event, there was a clear champion from the classical games. But this year, at the end of the five-round Swiss system tournament, 2023's winner WGM Anjelina Belakovskaia and last year's winner WFM Natalya Tsodikova were tied with four points each. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Anjelina Belakovskaia (L) and Natalya Tsodikova tied for first with 4/5 scores. (Photo courtesy of the organizers)<br> <br> <br> <br> Belakovskaia defeated Tsodikova Saturday night in their head-to-head game, but drew both of her games on Sunday while Tsodikova won both her gam",
+         "description" : "The 2025 U.S. Senior Women's Championship made history. In both previous years of this event, there was a clear champion from the classical games. But this year, at the end of the five-round Swiss system tournament, 2023's winner WGM Anjelina Belakovskaia and last year's winner WFM Natalya Tsodikova were tied with four points each. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Anjelina Belakovskaia (L) and Natalya Tsodikova tied for first with 4/5 scores. (Photo courtesy of Anna Wyzywany)<br> <br> <br> <br> Belakovskaia defeated Tsodikova Saturday night in their head-to-head game, but drew both of her games on Sunday while Tsodikova won both her game",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/2025-us-senior-womens-championship-tsodikova-wins-playoff-title",
@@ -80,14 +80,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/shankland-defeats-dubov-returns-world-cup-quarterfinals",
          "pubDate" : "Mon, 17 Nov 2025 00:00:00",
          "title" : "Shankland Defeats Dubov, Returns to World Cup Quarterfinals"
-      },
-      {
-         "description" : "Hardly any opening polarises opinion online as much as the London System. Black has numerous ways to achieve a comfortable position. Nevertheless, there are many followers who have remained loyal to this opening for years. What if there were a surprise weapon that could lure White out of his comfort zone and into positions that require precise play instead of formulaic thinking? Andrew Martin has a secret weapon up his sleeve that he wants to share with us - Lukas Koepl presents the course.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-outsmarting-the-london-system-60-minutes-by-im-andrew-martin",
-         "pubDate" : "Sun, 16 Nov 2025 07:00:00",
-         "title" : "Review: \"Outsmarting the London System - 60 minutes\" by IM Andrew Martin"
       },
       {
          "description" : "GM Sam Shankland won a brilliant first game and ended the 2025 FIDE World Cup run of GM Daniil Dubov 2-0 in tiebreaks to reach the Quarterfinals. GM Andrey Esipenko also needed only two tiebreak games to overcome GM Alexey Grebnev, while GM Jose M...",
@@ -114,7 +106,7 @@ news_feed (
          "title" : "Levon Aronian's draw offer proves costly as Arjun powers into World Cup quarterfinals"
       },
       {
-         "description" : "Before Round 2 started at 11 a.m., tournament director Karen Pennock promised to have the Round 3 pairings up two hours before the 4 p.m. start of round 3. But eight of the 10 players used up most of their G/90 with 30-second increment allotted time.Because of their fighting attitudes, the Round 3 pairings were not available until 2:56 p.m. These games included some fierce attacks as well as a remarkable come-from-behind victory. A Clear LeaderSaturday began without a clear leader but ended with 2023 U.S. Senior Women's Champion WGM Anjelina Belakovskaia a half point ahead of her nearest competitor, WFM Chouchanik Airapetian. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <",
+         "description" : "Before Round 2 started at 11 a.m., Chief Tournament Director NTD/IA Karen Pennock promised to have the Round 3 pairings up two hours before the 4 p.m. start of round 3. But eight of the 10 players used up most of their G/90 with 30-second increment allotted time.Because of their fighting attitudes, the Round 3 pairings were not available until 2:56 p.m. These games included some fierce attacks as well as a remarkable come-from-behind victory. A Clear LeaderSaturday began without a clear leader but ended with 2023 U.S. Senior Women's Champion WGM Anjelina Belakovskaia a half point ahead of her nearest competitor, WFM Chouchanik Airapetian. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/2025-us-senior-womens-championship-belakovskaia-leads-perfect-score",
@@ -570,14 +562,6 @@ news_feed (
          "title" : "Slow but sure: Howard Staunton's legacy"
       },
       {
-         "description" : "Upsets continue to stream in at a staggering rate in round three of the 2025 FIDE World Cup. Several 2700+ grandmasters were eliminated after the second classical game: World Champion Gukesh Dommaraju eliminated by Frederik Svane&#38;nbsp; GM Ani...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-3-game-2",
-         "pubDate" : "Sat, 08 Nov 2025 07:15:00",
-         "title" : "World Champion Gukesh Eliminated By Frederik Svane; Giri, Abdusattorov Also Out"
-      },
-      {
          "description" : "The European Youth Chess Championship 2025 concluded this evening in Budva, Montenegro. The Closing ceremony of the event took place in the playing venue with the attendance of ECU President Mr. Zurab Azmaiparashvili, President of the Montenegro Chess Federation Mr. Jovan Milovic, ECU Honorary Vice President Mr. Veselin Draskovic, Secretary of the ECU Events Commission Ms. Nina Rob, Secretary of the ECU Arbiters Coucil Mr. Geert Bailleul and other distinguished guests. Nearly 1200 players from 48 European federations competed in []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -792,14 +776,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-2/",
          "pubDate" : "Tue, 28 Oct 2025 21:34:23",
          "title" : "POSTGAME DAY 2: Magnus Turns on the Afterburner | #ChampionsShowdown"
-      },
-      {
-         "description" : " ROUND 1 &#124; GAME 1 CARUANA VS NAKAMURA RESULT: 1-0GUKESH VS CARLSEN RESULT: 0-1 ROUND 1 &#124; GAME 2 NAKAMURA VS CARUANA RESULT: 1-0CARLSEN VS GUKESH RESULT: &frac12;-&frac12; ROUND 2 &#124; GAME 1 CARLSEN VS CARUANA RESULT: &frac12;-&frac12;NAKAMURA VS GUKESH RESULT: 0-1 ROUND 2 &#124; GAME 2 CARUANA VS CARLSEN RESULT: 0-1GUKESH VS NAKAMURA RESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-1/\">POSTGAME DAY 1: Gukesh Smashes Fabi! | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-1/",
-         "pubDate" : "Mon, 27 Oct 2025 21:49:28",
-         "title" : "POSTGAME DAY 1: Gukesh Smashes Fabi! | #ChampionsShowdown"
       }
    ]
 }
