@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The combined September &#38; October 2025 issue of the ECU E-Magazine is out! In this edition of the ECU E-Magazine you may read about: The combined September and October issue of the ECU E-Magazine can be read online together with interactive links and videos through the following link or it can be downloaded in the PDF format below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-september-october-2025/",
+         "pubDate" : "Tue, 18 Nov 2025 10:39:24",
+         "title" : "ECU E-Magazine September & October 2025"
+      },
+      {
+         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
+         "pubDate" : "Tue, 18 Nov 2025 10:20:00",
+         "title" : "FIDE World Cup QF - Live!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125404863.cms\" />US Grandmaster Sam Shankland, a proponent of the knockout format, expressed his belief that it can help reduce draws in chess. Shankland, who has advanced to the quarterfinals of the World Cup after upsetting higher-seeded players, highlighted the format's prevalence in other major sports. He feels it provides crucial opportunities for rising players to test themselves against elite competition.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -26,6 +42,14 @@ news_feed (
          "title" : "GM training for Malaysians talents"
       },
       {
+         "description" : "The higher seeds dominated in the quarterfinal and semifinal rounds of the Collegiate Chess League (CCL) Playoffs. SRM Institute of Science and Technology handled Texas Tech 11-5, while the University of Missouri, Columbia (Mizzou) moved past the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-ccl-fall-quarterfinals-semifinals",
+         "pubDate" : "Tue, 18 Nov 2025 03:42:13",
+         "title" : "UTD, SLU Advance To Collegiate Chess League Finals"
+      },
+      {
          "description" : "Monday's quarterfinal openers at the FIDE World Cup in Goa saw Nodirbek Yakubboev take an early lead, as the Uzbek GM won his game against Alexander Donchenko. The other three encounters were drawn, though Javokhir Sindarov came close to securing a second win for Uzbekistan before Jose Martinez held firm in a difficult endgame. With three matches still level, the race for semifinal places remains wide open. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-qf-nakamura-so",
-         "pubDate" : "Mon, 17 Nov 2025 18:57:46",
+         "pubDate" : "Mon, 17 Nov 2025 18:57:00",
          "title" : "Nakamura Beats So 11-10 In Speed Chess Thriller"
       },
       {
@@ -546,14 +570,6 @@ news_feed (
          "title" : "Bughouse Champion Isaac Chiu Also Wins Crazyhouse Title"
       },
       {
-         "description" : "Thirty-two players remain in contention to win the 2025 FIDE World Cup ahead of round four. The following players advanced after winning round-three tiebreaks on Sunday: GMs Wei Yi, Maxime Vachier-Lagrave, Richard Rapport, Yu Yangyi, Sam Shankland...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-3-tiebreaks",
-         "pubDate" : "Sun, 09 Nov 2025 07:10:00",
-         "title" : "Vachier-Lagrave Wins Marathon Match In Armageddon"
-      },
-      {
          "description" : "Imagine going into school and on day 1, your teacher is telling you everything you will have to learn in the next 9 years. Then, for each subject, the teacher picks the 30 main things you'll have to learn, writes them each on a piece of paper, and lets you pick blindly what will be []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -744,14 +760,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-champions-showdown-2025",
          "pubDate" : "Wed, 29 Oct 2025 21:35:00",
          "title" : "Clutch Chess: Champions Showdown 2025 - Games and Results"
-      },
-      {
-         "description" : "The European Youth Chess Championship 2025 has started in Budva, Montenegro! The spectacular Opening ceremony of the event took place yesterday afternoon, in the Slovenska plaza Hotel complex. The ceremony was attended by the ECU President Mr. Zurab Azmaiparashvili, President of the Montenegro Chess Federation Mr. Jovan Milovic, Director of the Directorate for Sports Infrastructure Mr. Milan Jancic, Mayor of Budva Municipality Mr. Nikola Jovanovic, who addressed the delegations, players, and distinguished guests. As part of the cultural program, a []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-championship-2025-commenced-in-montenegro/",
-         "pubDate" : "Wed, 29 Oct 2025 21:21:59",
-         "title" : "European Youth Chess Championship 2025 commenced in Montenegro"
       },
       {
          "description" : "The Annual General Meeting of the ECF was held on 25th October in Birmingham and via video conference.&#160;Please note that the agenda and all the reports can be found on...",
