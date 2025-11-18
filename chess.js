@@ -10,6 +10,14 @@ news_feed (
          "title" : "World Cup: Yakubboev scores, as Donchenko stumbles in the opening"
       },
       {
+         "description" : "GM Hikaru Nakamura has booked his ticket for the Speed Chess Championship 2025 Semifinals in London after a nail-biting match against GM Wesley So went down to the wire. Nakamura built up four and three-point leads, but So twice hit back with thre...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-qf-nakamura-so",
+         "pubDate" : "Mon, 17 Nov 2025 18:57:46",
+         "title" : "Nakamura Beats So 11-10 In Speed Chess Thriller"
+      },
+      {
          "description" : "The Ukrainian Chess Federation has filed a last-minute complaint against the participation of &#34;Team FIDE&#34; in the FIDE Women&#39;s World Team Championship, which begins Tuesday in Linares, Spain. The tournament brings together 12 of the world&#39;s top w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -536,14 +544,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-3-tiebreaks",
          "pubDate" : "Sun, 09 Nov 2025 07:10:00",
          "title" : "Vachier-Lagrave Wins Marathon Match In Armageddon"
-      },
-      {
-         "description" : "Following his round-two exit at 2025 FIDE World Cup, GM Ediz Gurel put on a tactical exhibition to capture his sixth Bullet Brawl title and the $400 first prize on Saturday. Gurel&#39;s final score of 157 saw him edge out GM Tuan Minh Le by a single p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-nov-8-2025",
-         "pubDate" : "Sat, 08 Nov 2025 20:05:00",
-         "title" : "Gurel Responds To World Cup Elimination With Sizzling Bullet Brawl Victory"
       },
       {
          "description" : "Imagine going into school and on day 1, your teacher is telling you everything you will have to learn in the next 9 years. Then, for each subject, the teacher picks the 30 main things you'll have to learn, writes them each on a piece of paper, and lets you pick blindly what will be []",
