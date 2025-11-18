@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125404863.cms\" />US Grandmaster Sam Shankland, a proponent of the knockout format, expressed his belief that it can help reduce draws in chess. Shankland, who has advanced to the quarterfinals of the World Cup after upsetting higher-seeded players, highlighted the format's prevalence in other major sports. He feels it provides crucial opportunities for rising players to test themselves against elite competition.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-sam-shankland-backs-knockout-format/articleshow/125404863.cms",
+         "pubDate" : "Tue, 18 Nov 2025 07:15:35",
+         "title" : "Chess World Cup: Sam Shankland backs knockout format"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125404568.cms\" />In a nail-biting World Cup quarterfinal, Indian chess sensation Erigaisi Arjun held his ground against China's Wei Yi, managing a draw that highlighted his stellar time management skills. In a dramatic turn of events, Uzbekistan's Nordirbek Yakubboev emerged victorious, while his fellow countryman Javokhir Sindarov and Russia's Andrey Esipenko both negotiated draws in their matches.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-erigaisi-arjun-is-fast-but-chinese-rival-forces-quick-draw/articleshow/125404568.cms",
+         "pubDate" : "Tue, 18 Nov 2025 07:05:19",
+         "title" : "Chess World Cup: Arjun Erigaisi is fast but Chinese rival forces quick draw"
+      },
+      {
+         "description" : "Chess grandmaster Daniel Howard Fernandez of England trains young chess talents in Kuala Lumpur. Twelve talented, young Malaysians attended the workshops and were mentored by England's 11th ranked player. GM Daniel Howard Fernandez is no stranger to this region, as he had grown up in neighbouring Singapore as a then young chess prodigy. Now he is helping the next generation of talented children.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gm-training-for-malaysians-talents",
+         "pubDate" : "Tue, 18 Nov 2025 06:58:10",
+         "title" : "GM training for Malaysians talents"
+      },
+      {
          "description" : "Monday's quarterfinal openers at the FIDE World Cup in Goa saw Nodirbek Yakubboev take an early lead, as the Uzbek GM won his game against Alexander Donchenko. The other three encounters were drawn, though Javokhir Sindarov came close to securing a second win for Uzbekistan before Jose Martinez held firm in a difficult endgame. With three matches still level, the race for semifinal places remains wide open. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -450,14 +474,6 @@ news_feed (
          "title" : "Chess WC: 'Where are the bedbugs?' Giri lashes out at criticism"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125247381.cms\" />Cyprus will host the 2026 FIDE Candidates and Women's Candidates tournaments. The events are scheduled for March 28 to April 16, 2026, near Paphos. Several players have already qualified. The FIDE World Cup in Goa will determine three more Candidates spots. India's R Praggnanandhaa is expected to top the 2025 FIDE Circuit.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/hilarious-from-viswanathan-anand-to-anish-giri-top-chess-stars-get-candidates-2026-venue-wrong-watch/articleshow/125247381.cms",
-         "pubDate" : "Tue, 11 Nov 2025 13:03:43",
-         "title" : "Hilarious! From Anand to Giri, chess stars get Candidates venue wrong - Watch"
-      },
-      {
          "description" : "Eleven was the number of the day, with GM Magnus Carlsen winning the 11th Titled Tuesday of the current season on November 11 by scoring a perfect 11/11. In the last four rounds, he toppled a quartet of top rivals in GMs Hans Niemann, Alireza Firo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -480,14 +496,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-candidates-tournament-set-for-cyprus-nakamura-books-spot",
          "pubDate" : "Tue, 11 Nov 2025 06:30:00",
          "title" : "Nakamura Clinches Candidates Spot As FIDE Announces Cyprus As 2026 Host"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125241011.cms\" />World Cup chess, which will give Candidates spots for top-3 finishers, resumes at Resort Rio in Goa on Tuesday after Monday's rest day. TOI takes cues from the first three rounds and looks ahead at the fate of the remaining 32 players in the knockouts.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-chess-knockouts-inch-towards-climax/articleshow/125241011.cms",
-         "pubDate" : "Tue, 11 Nov 2025 05:50:30",
-         "title" : "FIDE World Cup: Chess knockouts inch towards climax"
       },
       {
          "description" : "No team has had a better run in the Collegiate Chess League (CCL) this season than the University of Texas, Dallas. They&#39;ve defeated both of last season&#39;s finalists, and raced out to a perfect 6-0 start. In contrast, Texas Tech University has had ...",
