@@ -42,14 +42,6 @@ news_feed (
          "title" : "ECU E-Magazine September & October 2025"
       },
       {
-         "description" : "GM Gajewski speaks to ESPN after Gukesh's shock early exit from the FIDE World Cup on lessons learnt from a tough 2025",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/47008708/silence-please-chess-wrestles-fan-atmosphere-conundrum?device=featurephone",
-         "pubDate" : "Tue, 18 Nov 2025 09:10:39",
-         "title" : "Silence please: Chess wrestles with fan atmosphere conundrum"
-      },
-      {
          "description" : "The Charlotte Chess Center, the Charlotte Chess Center Foundation, along with GM Daniel Naroditsky&#39;s family, have launched the Naroditsky Memorial and Fellowship Fund today, to honor the memory and legacy of the grandmaster. Naroditsky&#39;s tragic ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -808,14 +800,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/46764782/fide-world-cup-2025-all-need-know-chess-tournament-goa?device=featurephone",
          "pubDate" : "Wed, 29 Oct 2025 01:01:22",
          "title" : "FIDE World Cup 2025: All you need to know about chess tournament in Goa"
-      },
-      {
-         "description" : " ROUND 4 &#124; GAME 1 CARLSEN VS GUKESH RESULT: 1-0NAKAMURA VS CARUANA RESULT: 0-1 ROUND 4 &#124; GAME 2 GUKESH VS CARLSEN RESULT: 0-1CARUANA VS NAKAMURA RESULT: 0-1 ROUND 5 &#124; GAME 1 GUKESH VS NAKAMURA RESULT: &frac12;-&frac12;CARUANA VS CARLSEN RESULT: 1-0 ROUND 5 &#124; GAME 2 NAKAMURA VS GUKESH RESULT: &frac12;-&frac12;CARLSEN VS CARUANA RESULT: [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-2/\">POSTGAME DAY 2: Magnus Turns on the Afterburner | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-2/",
-         "pubDate" : "Tue, 28 Oct 2025 21:34:23",
-         "title" : "POSTGAME DAY 2: Magnus Turns on the Afterburner | #ChampionsShowdown"
       }
    ]
 }
