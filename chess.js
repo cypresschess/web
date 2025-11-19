@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The paings of the semifinals at the FIDE World Cup in Goa were set on Wednesday after a tense day of rapid and blitz tiebreaks. Wei Yi, Andrey Esipenko and Javokhir Sindarov joined early qualifier Nodirbek Yakubboev in the final four, with all three earning their spots through hard-fought matches. A couple of comebacks, missed chances and dramatic momentum shifts shaped the day, leaving four players still in the race for three coveted places in the 2026 Candidates Tournament. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-r6tb",
+         "pubDate" : "Wed, 19 Nov 2025 17:25:00",
+         "title" : "World Cup: Wei eliminates Arjun, Esipenko and Sindarov also in semis"
+      },
+      {
          "description" : "How often do chess players train their minds the way they train openings? Every chess player has faced moments of doubt, nerves, or overthinking that cost them crucial games. This is where psychology enters the picture. In this article, Saloni Sapale, a WIM and sports psychology consultant, shares her journey from being a competitive player to working with athletes on the mental side of performance. If you have ever wondered why your preparation doesn't always translate into results, or how to play with clarity under pressure, this piece will resonate deeply. Know how training your mind can transform the way you play! | Photos: Saloni Sapale",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-arjun-erigaisi-knocked-out-with-defeat-to-chinas-wei-yi-indias-challenge-ends/articleshow/125441171.cms",
          "pubDate" : "Wed, 19 Nov 2025 16:05:52",
          "title" : "World Cup: Arjun Erigaisi knocked out with defeat to Wei Yi; India's challenge ends"
-      },
-      {
-         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Wed, 19 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup QF - Live!"
       },
       {
          "description" : "The Women's World Team Championship opened in Linares with two rounds played across a busy first day, as the twelve teams began their round-robin campaigns in the event's group stage. Early leaders emerged in both pools, with the FIDE team (Russia) taking a clear advantage in Pool A, while China and Georgia set the pace in Pool B. A number of key results, including India's unexpected win over Ukraine, shaped the early standings. | Pictured: Georgia's Bela Khotenashvili | Photo: Pavel Dvorkovich",
@@ -42,7 +42,7 @@ news_feed (
          "title" : "Chess World Cup: Arjun Erigaisi vs Wei Yi goes to tiebreak, Nodirbek Yakubboev in semis"
       },
       {
-         "description" : "GMs Wei Yi, Javokhir Sindarov, and Andrey Esipenko will join GM Nodirbek Yakubboev in the 2025 FIDE World Cup Semifinals after winning their matches in tiebreaks. Respectively, they defeated GMs Arjun Erigaisi, Jose Martinez, and Sam Shankland. ...",
+         "description" : "GMs Wei Yi, Javokhir Sindarov, and Andrey Esipenko will join GM Nodirbek Yakubboev in the 2025 FIDE World Cup Semifinals after winning their quarterfinal matches in tiebreaks. Respectively, they defeated GMs Arjun Erigaisi, Jose Martinez, and Sam ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-6-tiebreaks",
