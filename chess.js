@@ -66,14 +66,6 @@ news_feed (
          "title" : "Tata Steel Chess tournament all set for its 2026 edition after announcing the players - "
       },
       {
-         "description" : "GM Gajewski speaks to ESPN after Gukesh's shock early exit from the FIDE World Cup on lessons learnt from a tough 2025",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/47008708/silence-please-chess-wrestles-fan-atmosphere-conundrum?device=featurephone",
-         "pubDate" : "Tue, 18 Nov 2025 11:39:05",
-         "title" : "Silence please: Chess wrestles with fan atmosphere conundrum"
-      },
-      {
          "description" : "GM Hikaru Nakamura began Titled Tuesday on November 18 with 10/10 to lock up first place with a round to spare. He was held to a draw in the last round by GM Jeffery Xiong, but Nakamura&#39;s dominant 10.5/11 score&#38;mdash;nearly accomplishing the same ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -88,6 +80,14 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-september-october-2025/",
          "pubDate" : "Tue, 18 Nov 2025 10:39:24",
          "title" : "ECU E-Magazine September & October 2025"
+      },
+      {
+         "description" : "GM Gajewski speaks to ESPN after Gukesh's shock early exit from the FIDE World Cup on lessons learnt from a tough 2025",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/47008708/silence-please-chess-wrestles-fan-atmosphere-conundrum?device=featurephone",
+         "pubDate" : "Tue, 18 Nov 2025 09:10:39",
+         "title" : "Silence please: Chess wrestles with fan atmosphere conundrum"
       },
       {
          "description" : "The Charlotte Chess Center, the Charlotte Chess Center Foundation, along with GM Daniel Naroditsky&#39;s family, have launched the Naroditsky Memorial and Fellowship Fund today, to honor the memory and legacy of the grandmaster. Naroditsky&#39;s tragic ...",
