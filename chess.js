@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Women's World Team Championship opened in Linares with two rounds played across a busy first day, as the twelve teams began their round-robin campaigns in the event's group stage. Early leaders emerged in both pools, with the FIDE team (Russia) taking a clear advantage in Pool A, while China and Georgia set the pace in Pool B. A number of key results, including India's unexpected win over Ukraine, shaped the early standings. | Pictured: Georgia's Bela Khotenashvili | Photo: Pavel Dvorkovich",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-d1",
+         "pubDate" : "Wed, 19 Nov 2025 07:40:00",
+         "title" : "Linares: Russia and Georgia lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125428681.cms\" />Chess enthusiasts hold their breath as the Chess World Cup reaches a gripping climax with crucial tiebreaks on Wednesday. Grandmaster Arjun Erigaisi from India faces a formidable opponent in Wei Yi, while Alexander Donchenko wraps up his journey in this prestigious event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-arjun-erigaisi-vs-wei-yi-goes-to-tiebreak-nodirbek-yakubboev-in-semis/articleshow/125428681.cms",
+         "pubDate" : "Wed, 19 Nov 2025 06:10:28",
+         "title" : "Chess World Cup: Arjun Erigaisi vs Wei Yi goes to tiebreak, Nodirbek Yakubboev in semis"
+      },
+      {
          "description" : "Nodirbek Yakubboev became the first player to reach the semifinals of the 2025 FIDE World Cup on Tuesday, drawing with Alexander Donchenko to win their match 1&frac12;-&frac12;. With the remaining three quarterfinal encounters still level after two games, Arjun Erigaisi v. Wei Yi, Jose Martinez v. Javokhir Sindarov and Andrey Esipenko v. Sam Shankland all head to Wednesday's tiebreaks, where the next Candidates contenders will begin to emerge. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/tata-steel-chess-tournament-all-set-for-its-2026-edition-after-announcing-the-players",
          "pubDate" : "Tue, 18 Nov 2025 18:32:00",
          "title" : "Tata Steel Chess tournament all set for its 2026 edition after announcing the players - "
-      },
-      {
-         "description" : "The World Women's Team Championship is taking place in Linares, Spain, from 18 to 23 November. The event includes 12 national teams, including China, India, the United States and the host nation Spain. With top players such as Hou Yifan, Carissa Yip and Sarasadat Khademalsharieh competing, the championship features a strong field in a city long associated with elite chess. | Follow the games live starting at 13.30 CET (8.30 ET, 18.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-live",
-         "pubDate" : "Tue, 18 Nov 2025 13:20:00",
-         "title" : "World Women's Team Championship - Live!"
       },
       {
          "description" : "GM Gajewski speaks to ESPN after Gukesh's shock early exit from the FIDE World Cup on lessons learnt from a tough 2025",
@@ -112,14 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ukraine-files-complaint-vs-russian-team-fide-womens-world-teams",
          "pubDate" : "Mon, 17 Nov 2025 14:24:00",
          "title" : "Ukraine Files Protest Vs. Russian 'Team FIDE' In Women's World Team Championship"
-      },
-      {
-         "description" : "The 2025 FIDE World Women's Team Championship will be held in Linares, Spain, one of the most iconic cities in world chess, from November 17 to 24, 2025. Just three days before the official opening ceremony of the championship, FIDE has confirmed the composition of the two competitive pools. The average ratings of the teams range from 2207 (Peru) to 2496 (FIDE).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-women-s-team-championship",
-         "pubDate" : "Mon, 17 Nov 2025 10:07:40",
-         "title" : "World Women's Team Championship"
       },
       {
          "description" : "Please find the Under 12 certificates, Under 18 will be published soon . For any query please write back to indainchessfed@gmail.com UNDER 12 S.No Name",
@@ -522,14 +522,6 @@ news_feed (
          "title" : "Chess WC, Round 4: Pragg escapes scare; Erigaisi too settles for stalemate"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125250784.cms\" />Anish Giri has downplayed criticism of FIDE World Cup conditions in Goa, calling some claims exaggerated. While acknowledging challenges like jet lag and different food for Western players, he noted the availability of Western dishes and reasonable spice levels. Giri also humorously dismissed reports of bedbugs, suggesting they might stem from misidentification and a lack of firsthand experience.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-where-are-the-bedbugs-dutch-no-1-anish-giri-lashes-out-at-criticism-around-playing-conditions-in-goa/articleshow/125250784.cms",
-         "pubDate" : "Tue, 11 Nov 2025 13:42:45",
-         "title" : "Chess WC: 'Where are the bedbugs?' Giri lashes out at criticism"
-      },
-      {
          "description" : "Eleven was the number of the day, with GM Magnus Carlsen winning the 11th Titled Tuesday of the current season on November 11 by scoring a perfect 11/11. In the last four rounds, he toppled a quartet of top rivals in GMs Hans Niemann, Alireza Firo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -760,14 +752,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-champions-showdown-2025",
          "pubDate" : "Wed, 29 Oct 2025 21:35:00",
          "title" : "Clutch Chess: Champions Showdown 2025 - Games and Results"
-      },
-      {
-         "description" : "The Annual General Meeting of the ECF was held on 25th October in Birmingham and via video conference.&#160;Please note that the agenda and all the reports can be found on...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-annual-general-meeting-25th-october-2025/",
-         "pubDate" : "Wed, 29 Oct 2025 08:19:07",
-         "title" : "ECF Annual General Meeting 25th October 2025"
       }
    ]
 }
