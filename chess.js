@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "A Russian team will be competing in an international team competition at the World Women's Team Championship in Linares for the first time since Russia's attack on Ukraine, albeit under the FIDE flag. While the FIDE Council has approved this, it contradicts the IOC's recommendation. Some critics also believe that FIDE's status as a recognised sports federation within the IOC is now under threat. Photos: Patricia Claros (FEDA), unless otherwise stated.",
+         "description" : "Nodirbek Yakubboev became the first player to reach the semifinals of the 2025 FIDE World Cup on Tuesday, drawing with Alexander Donchenko to win their match 1&frac12;-&frac12;. With the remaining three quarterfinal encounters still level after two games, Arjun Erigaisi v. Wei Yi, Jose Martinez v. Javokhir Sindarov and Andrey Esipenko v. Sam Shankland all head to Wednesday's tiebreaks, where the next Candidates contenders will begin to emerge. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/after-exclusion-russian-team-back-in-fide-world-championship",
-         "pubDate" : "Tue, 18 Nov 2025 18:38:00",
-         "title" : "After exclusion: Russian team back in FIDE World Championship"
+         "link" : "https://en.chessbase.com/post/world-cup-2025-r6g2",
+         "pubDate" : "Wed, 19 Nov 2025 03:50:00",
+         "title" : "World Cup: Yakubboev in semis, Arjun misses chance"
       },
       {
          "description" : " The Tata Steel Chess tournament takes place in Wijk aan Zee 16th Jan - 1st Feb 2026. The fields for both the Masters and Challengers have been set and they reflect the state of professional chess today. The Masters group has an average age of just 23. Exciting players like Vincent Keymer, Arjun Erigaisi, Nodirbek Abdusattorov and Hans Niemann should light up the competition. World Champion Gukesh might be struggling at the moment but you'd want him in your tournament, especially as he only just missed out last year following a tie-break match with the eventual winner Rameshbabu Praggnanandhaa. Dutch number one Anish Giri is the oldest player in the field at 32, he has enjoyed one of his bes",
@@ -24,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-live",
          "pubDate" : "Tue, 18 Nov 2025 13:20:00",
          "title" : "World Women's Team Championship - Live!"
+      },
+      {
+         "description" : "GM Gajewski speaks to ESPN after Gukesh's shock early exit from the FIDE World Cup on lessons learnt from a tough 2025",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/47008708/silence-please-chess-wrestles-fan-atmosphere-conundrum?device=featurephone",
+         "pubDate" : "Tue, 18 Nov 2025 11:39:05",
+         "title" : "Silence please: Chess wrestles with fan atmosphere conundrum"
       },
       {
          "description" : "GM Hikaru Nakamura began Titled Tuesday on November 18 with 10/10 to lock up first place with a round to spare. He was held to a draw in the last round by GM Jeffery Xiong, but Nakamura&#39;s dominant 10.5/11 score&#38;mdash;nearly accomplishing the same ...",
@@ -74,14 +82,6 @@ news_feed (
          "title" : "Chess World Cup: Arjun Erigaisi is fast but Chinese rival forces quick draw"
       },
       {
-         "description" : "Chess grandmaster Daniel Howard Fernandez of England trains young chess talents in Kuala Lumpur. Twelve talented, young Malaysians attended the workshops and were mentored by England's 11th ranked player. GM Daniel Howard Fernandez is no stranger to this region, as he had grown up in neighbouring Singapore as a then young chess prodigy. Now he is helping the next generation of talented children.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gm-training-for-malaysians-talents",
-         "pubDate" : "Tue, 18 Nov 2025 06:58:10",
-         "title" : "GM training for Malaysians talents"
-      },
-      {
          "description" : "The higher seeds dominated in the quarterfinal and semifinal rounds of the Collegiate Chess League (CCL) Playoffs. SRM Institute of Science and Technology handled Texas Tech 11-5, while the University of Missouri, Columbia (Mizzou) moved past the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -96,14 +96,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-us-senior-womens-championship",
          "pubDate" : "Tue, 18 Nov 2025 00:00:00",
          "title" : "Tactics Tuesday: U.S. Senior Women's Championship"
-      },
-      {
-         "description" : "Monday's quarterfinal openers at the FIDE World Cup in Goa saw Nodirbek Yakubboev take an early lead, as the Uzbek GM won his game against Alexander Donchenko. The other three encounters were drawn, though Javokhir Sindarov came close to securing a second win for Uzbekistan before Jose Martinez held firm in a difficult endgame. With three matches still level, the race for semifinal places remains wide open. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-r6g1",
-         "pubDate" : "Mon, 17 Nov 2025 21:25:00",
-         "title" : "World Cup: Yakubboev scores, as Donchenko stumbles in the opening"
       },
       {
          "description" : "GM Hikaru Nakamura has booked his ticket for the Speed Chess Championship 2025 Semifinals in London after a nail-biting match against GM Wesley So that went down to the wire. Nakamura built up four and three-point leads, but So twice hit back with...",
@@ -136,14 +128,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-national-school-teamu-12-u-18-chess-championship-2025-in-shimla-from-12-14-oct-2025/",
          "pubDate" : "Mon, 17 Nov 2025 08:19:11",
          "title" : "Certificate of National School Team(U 12 & U 18) Chess Championship 2025 in Shimla from 12-14 Oct 2025"
-      },
-      {
-         "description" : "Ashwin Subramanian, Software Engineering Leader at Intel and lifelong chess enthusiast, was inspired to take up competitive chess after watching the 1990 Kasparov-Karpov match, with Anand becoming a huge inspiration from the very beginning! After Kasparov retired in 2005, he never imagined he'd get to watch him and Anand play competitively again... until St. Louis happened! Armed with his camera and decades of admiration, Ashwin captured the Anand-Kasparov showdown from just a few feet away and sent us these magnificent pictorial impressions from the Clutch Chess event.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pictorial-anand-kasparov-showdown",
-         "pubDate" : "Mon, 17 Nov 2025 08:12:32",
-         "title" : "Pictorial: Anand-Kasparov showdown"
       },
       {
          "description" : "GM Nodirbek Yakubboev won the only decisive game in game one of the Quarterfinals of the 2025 FIDE World Cup, against GM Alexander Donchenko. A draw away from reaching the Semifinals, the Uzbek number-three also joins the (unofficial) 2700-club wi...",
@@ -784,22 +768,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-annual-general-meeting-25th-october-2025/",
          "pubDate" : "Wed, 29 Oct 2025 08:19:07",
          "title" : "ECF Annual General Meeting 25th October 2025"
-      },
-      {
-         "description" : "With defending champion Magnus Carlsen missing, who can win the Chess World Cup 2025?",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/46765391/gukesh-praggnanandhaa-vincent-keymer-anish-giri-wesley-the-favourites-win-fide-world-cup-2025?device=featurephone",
-         "pubDate" : "Wed, 29 Oct 2025 03:54:19",
-         "title" : "Gukesh, Praggnanandhaa, Vincent: Who are the favourites to win FIDE World Cup 2025?"
-      },
-      {
-         "description" : "The FIDE Chess World Cup 2025 comes to India, starting from October 31 to November 27 in Goa.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/46764782/fide-world-cup-2025-all-need-know-chess-tournament-goa?device=featurephone",
-         "pubDate" : "Wed, 29 Oct 2025 01:01:22",
-         "title" : "FIDE World Cup 2025: All you need to know about chess tournament in Goa"
       }
    ]
 }
