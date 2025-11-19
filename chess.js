@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today would have been the 120th birthday of the American chess grandmaster, Isaac Kashdan. In the 1930s, he was widely regarded as one of the world's best players, almost on a par with Alekhine and Capablanca. He later made a name for himself as an author, referee and organiser. | Photo: Alexander Alekhine (left) and Isaac Kashdan playing blitz chess. Jos&eacute; Araiza, Arthur Dake, Reuben Fine and Sammy Reshevsky in Pasadena in 1932.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/on-the-120th-birthday-of-isaac-kashdan",
+         "pubDate" : "Wed, 19 Nov 2025 20:00:00",
+         "title" : "On the 120th birthday of Isaac Kashdan"
+      },
+      {
          "description" : "The paings of the semifinals at the FIDE World Cup in Goa were set on Wednesday after a tense day of rapid and blitz tiebreaks. Wei Yi, Andrey Esipenko and Javokhir Sindarov joined early qualifier Nodirbek Yakubboev in the final four, with all three earning their spots through hard-fought matches. A couple of comebacks, missed chances and dramatic momentum shifts shaped the day, leaving four players still in the race for three coveted places in the 2026 Candidates Tournament. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,12 +66,28 @@ news_feed (
          "title" : "World Cup: Yakubboev in semis, Arjun misses chance"
       },
       {
+         "description" : "This week's exercises come from the just-concluded 2025 U.S. Senior Women's Championship, where WFM Natalya Tsodikova defended her title with an Armageddon playoff victory over WGM Anjelina Belakovskaia. See yesterday's Tactics Tuesday for even more puzzles from the third edition of this national event. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-us-senior-womens-championship",
+         "pubDate" : "Wed, 19 Nov 2025 00:00:00",
+         "title" : "Wednesday Workout: U.S. Senior Women's Championship"
+      },
+      {
          "description" : " The Tata Steel Chess tournament takes place in Wijk aan Zee 16th Jan - 1st Feb 2026. The fields for both the Masters and Challengers have been set and they reflect the state of professional chess today. The Masters group has an average age of just 23. Exciting players like Vincent Keymer, Arjun Erigaisi, Nodirbek Abdusattorov and Hans Niemann should light up the competition. World Champion Gukesh might be struggling at the moment but you'd want him in your tournament, especially as he only just missed out last year following a tie-break match with the eventual winner Rameshbabu Praggnanandhaa. Dutch number one Anish Giri is the oldest player in the field at 32, he has enjoyed one of his bes",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/tata-steel-chess-tournament-all-set-for-its-2026-edition-after-announcing-the-players",
          "pubDate" : "Tue, 18 Nov 2025 18:32:00",
          "title" : "Tata Steel Chess tournament all set for its 2026 edition after announcing the players - "
+      },
+      {
+         "description" : "GM Gajewski speaks to ESPN after Gukesh's shock early exit from the FIDE World Cup on lessons learnt from a tough 2025",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/47008708/silence-please-chess-wrestles-fan-atmosphere-conundrum?device=featurephone",
+         "pubDate" : "Tue, 18 Nov 2025 11:39:05",
+         "title" : "Silence please: Chess wrestles with fan atmosphere conundrum"
       },
       {
          "description" : "GM Hikaru Nakamura began Titled Tuesday on November 18 with 10/10 to lock up first place with a round to spare. He was held to a draw in the last round by GM Jeffery Xiong, but Nakamura&#39;s dominant 10.5/11 score&#38;mdash;nearly accomplishing the same ...",
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-september-october-2025/",
          "pubDate" : "Tue, 18 Nov 2025 10:39:24",
          "title" : "ECU E-Magazine September & October 2025"
-      },
-      {
-         "description" : "GM Gajewski speaks to ESPN after Gukesh's shock early exit from the FIDE World Cup on lessons learnt from a tough 2025",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/47008708/silence-please-chess-wrestles-fan-atmosphere-conundrum?device=featurephone",
-         "pubDate" : "Tue, 18 Nov 2025 09:10:39",
-         "title" : "Silence please: Chess wrestles with fan atmosphere conundrum"
       },
       {
          "description" : "The Charlotte Chess Center, the Charlotte Chess Center Foundation, along with GM Daniel Naroditsky&#39;s family, have launched the Naroditsky Memorial and Fellowship Fund today, to honor the memory and legacy of the grandmaster. Naroditsky&#39;s tragic ...",
@@ -560,14 +576,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-4-game-1",
          "pubDate" : "Tue, 11 Nov 2025 07:34:00",
          "title" : "Aronian, Martinez Strike As Praggnanandhaa Escapes Vs. Dubov"
-      },
-      {
-         "description" : "The third U.S. Senior Women's Championship will take place this weekend from Nov. 14-16 at the Residence Inn by Marriott in Murray, Utah near Salt Lake City. This will be an official US Chess National Championship with an $8,400 prize fund. The FIDE-rated, five-round Swiss tournament will be played at the classical time control of game-in-90 minutes with a 30-second increment beginning on move one. Games will be broadcast live, and Chess Life Online will have daily recaps from WIM Dr. Alexey Root. WGM Sabina Foisor will also be streaming live commentary on the US Chess Twitch channel beginning at 7:00 p.m. MST on Friday, November 14.The Utah State Chess Association and David Day are listed a",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/3rd-us-senior-womens-championship-preview",
-         "pubDate" : "Tue, 11 Nov 2025 00:00:00",
-         "title" : "3rd U.S. Senior Women's Championship Preview"
       },
       {
          "description" : "The European Corporate Chess Championship 2025 concluded yesterday in Paris, France! The event took place from 7-8 November at the Espace Francis Delage, with the participation of 53 teams that competed over 9 swiss rounds with rapid time control. Ukrainian Greco clinched the Championship with the score of 24 match points (7 wins, 1 draw, 1 loss) and better tiebreaks than Bulgarian Agrofert which had the same score of match points. Greco (Ukraine) played in very strong composition with: GM []",
