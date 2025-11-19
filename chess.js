@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "How often do chess players train their minds the way they train openings? Every chess player has faced moments of doubt, nerves, or overthinking that cost them crucial games. This is where psychology enters the picture. In this article, Saloni Sapale, a WIM and sports psychology consultant, shares her journey from being a competitive player to working with athletes on the mental side of performance. If you have ever wondered why your preparation doesn't always translate into results, or how to play with clarity under pressure, this piece will resonate deeply. Know how training your mind can transform the way you play! | Photos: Saloni Sapale",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-mental-game-why-chess-players-need-sport-psychology",
+         "pubDate" : "Wed, 19 Nov 2025 17:00:00",
+         "title" : "The Mental Game: Why Chess Players Need Sport Psychology"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125441171.cms\" />Grandmaster Arjun Erigaisi's FIDE World Cup journey concluded after a rapid tiebreak loss to China's Wei Yi. Despite drawing both classical games, Arjun faltered in the faster formats, with his French Defence choice proving costly in the first tiebreak. Wei Yi's strong middlegame play secured his victory in the second game, advancing him to the semifinals.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-arjun-erigaisi-knocked-out-with-defeat-to-chinas-wei-yi-indias-challenge-ends/articleshow/125441171.cms",
+         "pubDate" : "Wed, 19 Nov 2025 16:05:52",
+         "title" : "World Cup: Arjun Erigaisi knocked out with defeat to Wei Yi; India's challenge ends"
+      },
+      {
+         "description" : "The FIDE World Cup is taking place from 1 to 26 November at the Resort Rio in Goa, India. The knockout tournament features 206 participants, including world champion Gukesh Dommaraju alongside rating favourites Vincent Keymer, Anish Giri and Arjun Erigaisi. The top three finishers will qualify to the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
+         "pubDate" : "Wed, 19 Nov 2025 10:20:00",
+         "title" : "FIDE World Cup QF - Live!"
+      },
+      {
          "description" : "The Women's World Team Championship opened in Linares with two rounds played across a busy first day, as the twelve teams began their round-robin campaigns in the event's group stage. Early leaders emerged in both pools, with the FIDE team (Russia) taking a clear advantage in Pool A, while China and Georgia set the pace in Pool B. A number of key results, including India's unexpected win over Ukraine, shaped the early standings. | Pictured: Georgia's Bela Khotenashvili | Photo: Pavel Dvorkovich",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-arjun-erigaisi-vs-wei-yi-goes-to-tiebreak-nodirbek-yakubboev-in-semis/articleshow/125428681.cms",
          "pubDate" : "Wed, 19 Nov 2025 06:10:28",
          "title" : "Chess World Cup: Arjun Erigaisi vs Wei Yi goes to tiebreak, Nodirbek Yakubboev in semis"
+      },
+      {
+         "description" : "GMs Wei Yi, Javokhir Sindarov, and Andrey Esipenko will join GM Nodirbek Yakubboev in the 2025 FIDE World Cup Semifinals after winning their matches in tiebreaks. Respectively, they defeated GMs Arjun Erigaisi, Jose Martinez, and Sam Shankland. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-6-tiebreaks",
+         "pubDate" : "Wed, 19 Nov 2025 05:32:00",
+         "title" : "Wei Yi Knocks Out Arjun, Advances With Sindarov, Esipenko"
       },
       {
          "description" : "Nodirbek Yakubboev became the first player to reach the semifinals of the 2025 FIDE World Cup on Tuesday, drawing with Alexander Donchenko to win their match 1&frac12;-&frac12;. With the remaining three quarterfinal encounters still level after two games, Arjun Erigaisi v. Wei Yi, Jose Martinez v. Javokhir Sindarov and Andrey Esipenko v. Sam Shankland all head to Wednesday's tiebreaks, where the next Candidates contenders will begin to emerge. | Photo: Michal Walusza",
@@ -62,7 +94,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/naroditsky-memorial-chess-fund-announced",
-         "pubDate" : "Tue, 18 Nov 2025 08:31:07",
+         "pubDate" : "Tue, 18 Nov 2025 08:31:00",
          "title" : "Charlotte Chess Center, Naroditsky Family Found 'Memorial And Fellowship Fund'"
       },
       {
@@ -514,14 +546,6 @@ news_feed (
          "title" : "Naroditsky's tragic death: Kramnik under fire! FIDE files formal complaint"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125252167.cms\" />Indian Grandmasters secured several draws in the FIDE World Cup 2025's fourth round, with R Praggnanandhaa and Arjun Erigaisi among those sharing points. Two-time champion Levon Aronian, however, clinched a victory. Veteran Peter Leko opted for a draw against Arjun, citing time pressure and a desire to play with black in the next encounter.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-r-praggnanandhaa-escapes-scare-arjun-erigaisi-too-settles-for-stalemate/articleshow/125252167.cms",
-         "pubDate" : "Tue, 11 Nov 2025 16:55:01",
-         "title" : "Chess WC, Round 4: Pragg escapes scare; Erigaisi too settles for stalemate"
-      },
-      {
          "description" : "Eleven was the number of the day, with GM Magnus Carlsen winning the 11th Titled Tuesday of the current season on November 11 by scoring a perfect 11/11. In the last four rounds, he toppled a quartet of top rivals in GMs Hans Niemann, Alireza Firo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -536,14 +560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-4-game-1",
          "pubDate" : "Tue, 11 Nov 2025 07:34:00",
          "title" : "Aronian, Martinez Strike As Praggnanandhaa Escapes Vs. Dubov"
-      },
-      {
-         "description" : "GM Hikaru Nakamura has all but secured his place in the 2026 FIDE Candidates Tournament, after winning the 1st Annual Washington Dulles Open over the weekend&#38;mdash;a five-round Swiss event that provided the final classical games he needed to meet ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-candidates-tournament-set-for-cyprus-nakamura-books-spot",
-         "pubDate" : "Tue, 11 Nov 2025 06:30:00",
-         "title" : "Nakamura Clinches Candidates Spot As FIDE Announces Cyprus As 2026 Host"
       },
       {
          "description" : "The third U.S. Senior Women's Championship will take place this weekend from Nov. 14-16 at the Residence Inn by Marriott in Murray, Utah near Salt Lake City. This will be an official US Chess National Championship with an $8,400 prize fund. The FIDE-rated, five-round Swiss tournament will be played at the classical time control of game-in-90 minutes with a 30-second increment beginning on move one. Games will be broadcast live, and Chess Life Online will have daily recaps from WIM Dr. Alexey Root. WGM Sabina Foisor will also be streaming live commentary on the US Chess Twitch channel beginning at 7:00 p.m. MST on Friday, November 14.The Utah State Chess Association and David Day are listed a",
