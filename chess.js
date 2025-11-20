@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Women's Team Championship is taking place in Linares, Spain, from 18 to 23 November. The event includes 12 national teams, including China, India, the United States and the host nation Spain. With top players such as Hou Yifan, Carissa Yip and Sarasadat Khademalsharieh competing, the championship features a strong field in a city long associated with elite chess. | Follow the games live starting at 13.30 CET (8.30 ET, 18.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-live",
+         "pubDate" : "Thu, 20 Nov 2025 13:20:00",
+         "title" : "World Women's Team Championship - Live!"
+      },
+      {
          "description" : "The second day of the 2025 FIDE Women's World Team Championship in Linares saw high-quality chess and dramatic moments. While Team FIDE extended its lead in Pool A, Hou Yifan produced a standout performance in Pool B with a precise win in her tournament debut. The battle for the remaining knockout spots is heating up - in both groups, tense final rounds lie ahead. | Photos: FIDE/Raul Martinez, Pavel Dvorkovich",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/46788964/can-world-champion-gukesh-add-win-fide-world-cup-title-home-goa-2025?device=featurephone",
          "pubDate" : "Fri, 31 Oct 2025 04:15:33",
          "title" : "Can world champion Gukesh add a World Cup title to his resume?"
-      },
-      {
-         "description" : " Landmark Tournament Concludes a Month-Long Celebration of the Newly Reopened Saint Louis Chess Club - the Nation's Chess Capital SAINT LOUIS (Oct. 30, 2025) - Grandmaster (GM) Magnus Carlsen has captured the title at the 2025 Clutch Chess: Champions Showdown, hosted by the Saint Louis Chess Club (STLCC), capping an unforgettable month of elite competition [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/world-no-1-magnus-carlsen-triumphs-at-clutch-chess-champions-showdown/\">World No. 1 Magnus Carlsen Triumphs at Clutch Chess: Champions Showdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/world-no-1-magnus-carlsen-triumphs-at-clutch-chess-champions-showdown/",
-         "pubDate" : "Thu, 30 Oct 2025 15:39:35",
-         "title" : "World No. 1 Magnus Carlsen Triumphs at Clutch Chess: Champions Showdown"
       }
    ]
 }
