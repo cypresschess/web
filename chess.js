@@ -34,6 +34,14 @@ news_feed (
          "title" : "World Cup: Arjun Erigaisi knocked out with defeat to Wei Yi; India's challenge ends"
       },
       {
+         "description" : "2025 was a reminder for the young Indians that if you're not at your absolute best, there are enough opponents around who are good enough to take advantage.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/47022191/india-stumble-fide-chess-world-cup-2025-goa?device=featurephone",
+         "pubDate" : "Wed, 19 Nov 2025 09:56:25",
+         "title" : "24 to 0: Indians stumble at home Chess World Cup"
+      },
+      {
          "description" : "The Women's World Team Championship opened in Linares with two rounds played across a busy first day, as the twelve teams began their round-robin campaigns in the event's group stage. Early leaders emerged in both pools, with the FIDE team (Russia) taking a clear advantage in Pool A, while China and Georgia set the pace in Pool B. A number of key results, including India's unexpected win over Ukraine, shaped the early standings. | Pictured: Georgia's Bela Khotenashvili | Photo: Pavel Dvorkovich",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -760,22 +768,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2025",
          "pubDate" : "Thu, 30 Oct 2025 09:15:00",
          "title" : "FIDE World Cup 2025 - Games and Results"
-      },
-      {
-         "description" : " ROUND 7 GAME 1 CARUANA VS NAKAMURA RESULT: &frac12;-&frac12;GUKESH VS CARLSEN RESULT: 0-1 GAME 2 NAKAMURA VS CARUANA RESULT: 0-1CARLSEN VS GUKESH RESULT: 1-0 ROUND 8 GAME 1 CARLSEN VS CARUANA RESULT: 1-0NAKAMURA VS GUKESH RESULT: &frac12;-&frac12; GAME 2 CARUANA VS CARLSEN RESULT: 0-1GUKESH VS NAKAMURA RESULT: 0-1 ROUND 9 GAME 1 CARUANA VS GUKESH [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-3/\">POSTGAME FINAL: Magnus Plays His Best Chess on Clutch Day! | #ChampionsShowdown</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2025-clutch-chess-champions-showdown-postgame-day-3/",
-         "pubDate" : "Wed, 29 Oct 2025 21:59:27",
-         "title" : "POSTGAME FINAL: Magnus Plays His Best Chess on Clutch Day! | #ChampionsShowdown"
-      },
-      {
-         "description" : " The Clutch Chess: Champions Showdown took place in Saint Louis Mon 27th Oct to Wed 29th Oct 2025. Magnus Carlsen, Fabiano Caruana, Hikaru Nakamura and World Champion Gukesh played three days of fast rapid chess (10m+5spm), a double round robin each day, eventually adding up to 18 rounds, Clutch chess is a special scoring system where the points available from each game increased each day from 1 to 2 to 3 with similar increases for draws from 0.5 to 1 to 1.5. Magnus Carlsen was the runaway winner, the large margin was due to his domination of Gukesh who made huge errors in their games and only managed one draw, there has to be a psychological component to these mistakes as his score was perf",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-champions-showdown-2025",
-         "pubDate" : "Wed, 29 Oct 2025 21:35:00",
-         "title" : "Clutch Chess: Champions Showdown 2025 - Games and Results"
       }
    ]
 }
