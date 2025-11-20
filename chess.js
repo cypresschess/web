@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second day of the 2025 FIDE Women's World Team Championship in Linares saw high-quality chess and dramatic moments. While Team FIDE extended its lead in Pool A, Hou Yifan produced a standout performance in Pool B with a precise win in her tournament debut. The battle for the remaining knockout spots is heating up - in both groups, tense final rounds lie ahead. | Photos: FIDE/Raul Martinez, Pavel Dvorkovich",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-women-s-team-championship-hou-yifan-shines",
+         "pubDate" : "Thu, 20 Nov 2025 11:43:31",
+         "title" : "World Women's Team Championship: Hou Yifan shines"
+      },
+      {
+         "description" : "Please find the certificates Sl No Candidate Name1 Bhogal, Rupesh2 Gaurav Sharma3 Krishna Prabhakar4 Rahul Kadam5 Pandya Raj6 Vaarin Gada7 Vishnu Sharma8 Anup Subhash Pande9",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-sna-seminar-held-in-andheri-on-01-02-nov-2025/",
+         "pubDate" : "Thu, 20 Nov 2025 09:34:40",
+         "title" : "Certificate :SNA Seminar Held in Andheri on 01 & 02 Nov 2025"
+      },
+      {
          "description" : "Britain's most prestigious chess tournament, the XTX Markets London Chess Classic, is back this month with a world-class field and even more at stake at Arsenal FC's Emirates Stadium. he 2025 edition, the 15th, features a stacked line-up of super grandmasters battling for a total &pound;50,000 prize fund between November 26 and December 5. What makes it vitally important, however, is that the result of this tournament could determine who is the next world champion.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -768,14 +784,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/world-no-1-magnus-carlsen-triumphs-at-clutch-chess-champions-showdown/",
          "pubDate" : "Thu, 30 Oct 2025 15:39:35",
          "title" : "World No. 1 Magnus Carlsen Triumphs at Clutch Chess: Champions Showdown"
-      },
-      {
-         "description" : " The FIDE World Cup takes place in Goa, India, Sat 1st to Wed 26th Nov 2025. Players include: World Champion Gukesh, Erigaisi, Praggnanandhaa, Giri, So, Keymer, Wei Yi, Abdusattorov, Mamedyarov, Niemann, MVL, Nepomniachtchi, Le, Rapport, Aronian etc. It is a seven round knockout but the top 50 players only enter the competition in round 2 alongside the 78 winners of Round 1. The top three finishers will qualify for the Candidates tournament although players such as Gukesh and Giri and Caruana don't require this and the extra place will be awarded to \"another path\" in the qualification system. The <a href=\"https://theweekinchess.com/chessnews/events/fide-womens-world-cup-2025\">Women's World C",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2025",
-         "pubDate" : "Thu, 30 Oct 2025 09:15:00",
-         "title" : "FIDE World Cup 2025 - Games and Results"
       }
    ]
 }
