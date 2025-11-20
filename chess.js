@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Charlotte Chess Center and the Naroditsky family have launched the \"Naroditsky Memorial and Fellowship Fund\" to honour the life and work of GM Daniel Naroditsky, whose passing in October profoundly affected the chess community. The initiative aims to establish a permanent 4-million-dollar endowment supporting two projects dear to him: an annual elite blitz and rapid tournament in Charlotte and a fellowship for promising young players. | Image: Charlotte Chess Center",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-naroditsky-memorial-fund-launch",
+         "pubDate" : "Thu, 20 Nov 2025 19:40:00",
+         "title" : "Daniel Naroditsky Memorial Fund launched in Charlotte"
+      },
+      {
          "description" : "The World Women's Team Championship is taking place in Linares, Spain, from 18 to 23 November. The event includes 12 national teams, including China, India, the United States and the host nation Spain. With top players such as Hou Yifan, Carissa Yip and Sarasadat Khademalsharieh competing, the championship features a strong field in a city long associated with elite chess. | Follow the games live starting at 13.30 CET (8.30 ET, 18.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,20 +26,20 @@ news_feed (
          "title" : "World Women's Team Championship: Hou Yifan shines"
       },
       {
+         "description" : "GM Magnus Carlsen is officially among the 360 players registered for the 2025 World Rapid &#38;amp; Blitz Championship, to be held in Doha, Qatar, on December 26-30, the International Chess Federation (FIDE) announced Thursday. FIDE said 233 players...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-confirmed-world-rapid-blitz-championship-fide-announces-field",
+         "pubDate" : "Thu, 20 Nov 2025 11:07:00",
+         "title" : "Carlsen Confirmed For World Rapid & Blitz Championship As FIDE Announces Field"
+      },
+      {
          "description" : "Please find the certificates Sl No Candidate Name1 Bhogal, Rupesh2 Gaurav Sharma3 Krishna Prabhakar4 Rahul Kadam5 Pandya Raj6 Vaarin Gada7 Vishnu Sharma8 Anup Subhash Pande9",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/certificate-sna-seminar-held-in-andheri-on-01-02-nov-2025/",
          "pubDate" : "Thu, 20 Nov 2025 09:34:40",
          "title" : "Certificate :SNA Seminar Held in Andheri on 01 & 02 Nov 2025"
-      },
-      {
-         "description" : "Britain's most prestigious chess tournament, the XTX Markets London Chess Classic, is back this month with a world-class field and even more at stake at Arsenal FC's Emirates Stadium. he 2025 edition, the 15th, features a stacked line-up of super grandmasters battling for a total &pound;50,000 prize fund between November 26 and December 5. What makes it vitally important, however, is that the result of this tournament could determine who is the next world champion.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/britain-s-most-prestigious-chess-event",
-         "pubDate" : "Thu, 20 Nov 2025 08:32:30",
-         "title" : "Britain's most prestigious chess event"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125455277.cms\" />Arjun Erigaisi, hailed as India's rising chess phenom, suffered a disappointing quarterfinal defeat at the Chess World Cup, halting his quest for a spot in the World Championship. After a gripping battle marked by strategic defenses, he fell to Wei Yi from China in a pressure-filled tiebreak.",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-2025-meet-chinas-no-1-wei-yi-slayer-of-indias-last-hope-arjun-erigaisi/articleshow/125454536.cms",
          "pubDate" : "Thu, 20 Nov 2025 05:57:12",
          "title" : "Chess WC: Meet China's No. 1 Wei Yi - Slayer of India's last hope, Arjun Erigaisi"
+      },
+      {
+         "description" : "The upsets kept coming in the quarterfinals of the 2025 FIDE World Cup. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Seventh-seeded Wei Yi eliminated the final \"top four\" seed in the World Cup, second-seeded Arjun Erigaisi, during Wednesday's quarterfinal tiebreaks in Goa. (Photos courtesy FIDE/Michal Walusza)<br> <br> With Chinese GM Wei Yi's elimination of second-seeded Indian GM Arjun Erigaisi in the first tiebreak, none of the four highest-rated players will be competing in the semifinals for the three available spots in the 2026 FIDE Candidates Tournament in Goa, India. Despite ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/no-chalk-three-new-candidates-guaranteed-world-cup-heads-semifinals",
+         "pubDate" : "Thu, 20 Nov 2025 00:00:00",
+         "title" : "No Chalk, Three New Candidates Guaranteed as World Cup Heads to Semifinals"
       },
       {
          "description" : "Today would have been the 120th birthday of the American chess grandmaster, Isaac Kashdan. In the 1930s, he was widely regarded as one of the world's best players, almost on a par with Alekhine and Capablanca. He later made a name for himself as an author, referee and organiser. | Photo: Alexander Alekhine (left) and Isaac Kashdan playing blitz chess. Jos&eacute; Araiza, Arthur Dake, Reuben Fine and Sammy Reshevsky in Pasadena in 1932.",
@@ -594,28 +610,12 @@ news_feed (
          "title" : "Find Out Which Opening You Should Play With Our New Quiz"
       },
       {
-         "description" : "This week's puzzles come from the final day of the Clutch Chess: Champions Showdown, which concluded last month at the newly renovated Saint Louis Chess Club. See puzzles from Day 1 here, and from Day 2 here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-clutch-chess-champions-day-3",
-         "pubDate" : "Wed, 12 Nov 2025 00:00:00",
-         "title" : "Wednesday Workout: Clutch Chess Champions, Day 3"
-      },
-      {
          "description" : "Eleven was the number of the day, with GM Magnus Carlsen winning the 11th Titled Tuesday of the current season on November 11 by scoring a perfect 11/11. In the last four rounds, he toppled a quartet of top rivals in GMs Hans Niemann, Alireza Firo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-november-11-2025",
          "pubDate" : "Tue, 11 Nov 2025 11:01:00",
          "title" : "Carlsen Takes Down Everyone En Route To 11/11"
-      },
-      {
-         "description" : "Two-time World Cup winner GM Levon Aronian smoothly beat GM Radoslaw Wojtaszek as round four of the 2025 FIDE World Cup began in Goa. The day&#39;s only other winner was GM Jose Martinez, who followed a 2-0 victory over GM Nodirbek Abdusattorov with a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-4-game-1",
-         "pubDate" : "Tue, 11 Nov 2025 07:34:00",
-         "title" : "Aronian, Martinez Strike As Praggnanandhaa Escapes Vs. Dubov"
       },
       {
          "description" : "The European Corporate Chess Championship 2025 concluded yesterday in Paris, France! The event took place from 7-8 November at the Espace Francis Delage, with the participation of 53 teams that competed over 9 swiss rounds with rapid time control. Ukrainian Greco clinched the Championship with the score of 24 match points (7 wins, 1 draw, 1 loss) and better tiebreaks than Bulgarian Agrofert which had the same score of match points. Greco (Ukraine) played in very strong composition with: GM []",
