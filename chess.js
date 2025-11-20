@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Britain's most prestigious chess tournament, the XTX Markets London Chess Classic, is back this month with a world-class field and even more at stake at Arsenal FC's Emirates Stadium. he 2025 edition, the 15th, features a stacked line-up of super grandmasters battling for a total &pound;50,000 prize fund between November 26 and December 5. What makes it vitally important, however, is that the result of this tournament could determine who is the next world champion.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/britain-s-most-prestigious-chess-event",
+         "pubDate" : "Thu, 20 Nov 2025 08:32:30",
+         "title" : "Britain's most prestigious chess event"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125455277.cms\" />Arjun Erigaisi, hailed as India's rising chess phenom, suffered a disappointing quarterfinal defeat at the Chess World Cup, halting his quest for a spot in the World Championship. After a gripping battle marked by strategic defenses, he fell to Wei Yi from China in a pressure-filled tiebreak.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-arjun-erigaisis-candidates-bid-over/articleshow/125455277.cms",
+         "pubDate" : "Thu, 20 Nov 2025 06:31:16",
+         "title" : "Chess World Cup: Arjun Erigaisi's Candidates bid over"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125454536.cms\" />India's top player Arjun Erigaisi faced a heartbreaking defeat in the FIDE World Cup 2025 tie-break against China's Wei Yi, ending his dream of a Candidates 2026 berth. Wei Yi, a rising star, now carries China's hopes for a maiden World Cup title. India's Candidates qualification now hinges on R Praggnanandhaa.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-2025-meet-chinas-no-1-wei-yi-slayer-of-indias-last-hope-arjun-erigaisi/articleshow/125454536.cms",
+         "pubDate" : "Thu, 20 Nov 2025 05:57:12",
+         "title" : "Chess WC: Meet China's No. 1 Wei Yi - Slayer of India's last hope, Arjun Erigaisi"
+      },
+      {
          "description" : "Today would have been the 120th birthday of the American chess grandmaster, Isaac Kashdan. In the 1930s, he was widely regarded as one of the world's best players, almost on a par with Alekhine and Capablanca. He later made a name for himself as an author, referee and organiser. | Photo: Alexander Alekhine (left) and Isaac Kashdan playing blitz chess. Jos&eacute; Araiza, Arthur Dake, Reuben Fine and Sammy Reshevsky in Pasadena in 1932.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -538,14 +562,6 @@ news_feed (
          "title" : "Donchenko, Martinez Continue Giant-Killing As 11 Matches Go To Tiebreaks"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125266862.cms\" />Pragg's 39th move mistake gave him a lost position, while Dubov's reply - sacrificing queen - gave the Indian GM the chance to bring parity. Two moves later, the draw was agreed.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-praggnanandhaa-survives-daniil-dubov-scare/articleshow/125266862.cms",
-         "pubDate" : "Wed, 12 Nov 2025 06:18:55",
-         "title" : "Chess World Cup: Praggnanandhaa survives Daniil Dubov scare"
-      },
-      {
          "description" : "Not sure what chess opening you should play next? You can now take our new Opening Recommendation Quiz and find out! Answer seven simple questions, and we&#39;ll suggest an opening that best fits your playing style, level, and preferences. Find Your...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -560,14 +576,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-clutch-chess-champions-day-3",
          "pubDate" : "Wed, 12 Nov 2025 00:00:00",
          "title" : "Wednesday Workout: Clutch Chess Champions, Day 3"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125254177.cms\" />FIDE has filed a formal complaint against former World Champion Vladimir Kramnik with its Ethics & Disciplinary Commission. The complaint addresses Kramnik's repeated public accusations of cheating against deceased GM Daniel Naroditsky and GM David Navara, citing harassment and insult to dignity. The EDC will now review the evidence and testimony.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-files-formal-complaint-against-former-world-chess-champion-vladimir-kramnik-after-daniel-naroditskys-tragic-death/articleshow/125254177.cms",
-         "pubDate" : "Tue, 11 Nov 2025 17:18:29",
-         "title" : "Naroditsky's tragic death: Kramnik under fire! FIDE files formal complaint"
       },
       {
          "description" : "Eleven was the number of the day, with GM Magnus Carlsen winning the 11th Titled Tuesday of the current season on November 11 by scoring a perfect 11/11. In the last four rounds, he toppled a quartet of top rivals in GMs Hans Niemann, Alireza Firo...",
