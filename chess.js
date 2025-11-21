@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The four semi-finalists, led by Wei Yi, will battle for three 2026 Candidates places - none of them has reached this stage before The $2m World Cup in Goa will be remembered as an event where established stars were humbled and knocked out by supposedly lesser lights. At 26, China's Wei Yi is the oldest in Friday's semi-finals. He was once a prodigy, renowned for his brilliant attacking style and the youngest to surpass an elite 2700 rating, but then opted to take a six-year break from chess to study economics and management, which he says he does not regret. He made a statement return in 2024, winning the <a href=\"https://www.theguardian.com/sport/2024/feb/02/chess-wei-yi-wins-at-wijk-aan-z",
+         "description" : "The World Cup is coming to a close: four players remain, and three of them will qualify for the Candidates Tournament. In the semifinals, Wei Yi - the highest-rated player still in the field - faces Andrey Esipenko, the nominally weakest of the four semifinalists. The second pairing is an all-Uzbek encounter: Javokhir Sindarov takes on Nodirbek Yakubboev. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
+         "pubDate" : "Fri, 21 Nov 2025 10:20:00",
+         "title" : "FIDE World Cup, Semifinals - Live!"
+      },
+      {
+         "description" : "The World Cup began on 30 October in Goa, India. Two hundred and six players entered the tournament; three weeks later, only four remain and will now meet in the semifinals. China's Wei Yi faces the Russian GM Andrey Esipenko, while Javokhir Sindarov of Uzbekistan takes on his compatriot Nodirbek Yakubboev. The top three finishers qualify for the Candidates Tournament. The winner earns 120,000 USD, the fourth-placed player 50,000. But who has the best chances of winning the event - and securing a spot in the Candidates? | Photos: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/who-will-win-the-world-cup-and-who-will-make-it-to-the-candidates",
+         "pubDate" : "Fri, 21 Nov 2025 09:35:20",
+         "title" : "Who will win the World Cup - and who will make it to the Candidates?"
+      },
+      {
+         "description" : " The four semi-finalists, led by Wei Yi, will battle for three 2026 Candidates places - none of them has reached this stage before The $2m (&pound;1.53m) World Cup in Goa will be remembered as an event where established stars were humbled and knocked out by supposedly lesser lights. At 26, China's Wei Yi is the oldest in Friday's semi-finals. He was once a prodigy, renowned for his brilliant attacking style and the youngest to surpass an elite 2700 rating, but then opted to take a six-year break from chess to study economics and management, which he says he does not regret. He made a statement return in 2024, winning the \"chess Wimbledon\" at Wijk aan Zee, and the 2026 Candidates is his main ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/nov/21/chess-outsiders-triumph-at-world-cup-in-goa-and-battle-for-candidates-spots",
