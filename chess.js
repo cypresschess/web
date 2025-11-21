@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125476484.cms\" />Returning to the World Rapid & Blitz Championship in Doha, Magnus Carlsen isn't holding back - he has playfully resurrected the 'jeansgate' drama from last year in a recent social media post. With a nod to 'viral rage moments' and a commitment to tighter jeans, he teases a fun and defiant stance towards FIDE's attire rules.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tighter-jeans-this-time-magnus-carlsen-reignites-fashion-war-with-fide-ahead-of-world-rapid-blitz-2025/articleshow/125476484.cms",
+         "pubDate" : "Fri, 21 Nov 2025 03:51:17",
+         "title" : "'Tighter jeans this time': Magnus Carlsen reignites 'fashion war' with FIDE ahead of World Rapid & Blitz 2025"
+      },
+      {
+         "description" : " Brewington Hardaway stands majestically on the cover of the current Chess Life magazine in a vintage black and white photo. Aptly written by Grandmaster Maurice Ashley, the story titled &#8220;A Long Time Coming&#8221; is in reference to his long pursuit of the GM title, but also the 25-year gap it has taken another Black player The post <a href=\"https://thechessdrum.net/blog/2025/11/20/hardaway-gracing-the-cover-of-chess-life/\">Hardaway gracing the cover of Chess Life!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/11/20/hardaway-gracing-the-cover-of-chess-life/",
+         "pubDate" : "Fri, 21 Nov 2025 02:26:27",
+         "title" : "Hardaway gracing the cover of Chess Life!"
+      },
+      {
          "description" : "The Charlotte Chess Center and the Naroditsky family have launched the \"Naroditsky Memorial and Fellowship Fund\" to honour the life and work of GM Daniel Naroditsky, whose passing in October profoundly affected the chess community. The initiative aims to establish a permanent 4-million-dollar endowment supporting two projects dear to him: an annual elite blitz and rapid tournament in Charlotte and a fellowship for promising young players. | Image: Charlotte Chess Center",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -586,14 +602,6 @@ news_feed (
          "title" : "European Small Nations Team Chess Championship 2025 starts in Cyprus"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125278675.cms\" />Indian Grandmasters Arjun Erigaisi, R Praggnanandhaa, and P Harikrishna advanced to tiebreaks in the FIDE World Cup 2025 after drawing their classical games. All three faced tough opponents in their fourth-round matches, with their campaigns now hinging on the upcoming tiebreak encounters set to be played on Thursday. GM Jose Eduardo Martinez Alcantara became the first player to reach the round of 16.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-arjun-erigaisi-r-praggnanandhaa-and-p-harikrishna-stay-in-contention-as-trio-heads-for-tie-breaks/articleshow/125278675.cms",
-         "pubDate" : "Wed, 12 Nov 2025 16:40:58",
-         "title" : "Chess WC: Arjun, Pragg, Harikrishna stay in contention, head for tie-breaks"
-      },
-      {
          "description" : "The International Chess Federation (FIDE) confirmed on Tuesday that they have formally filed a complaint against GM Vladimir Kramnik, the 14th world champion, referring him to the Ethics &#38;amp; Disciplinary Commission (EDC) for investigation into t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/oct/31/chess-magnus-carlsen-triumphs-at-historic-champions-showdown-in-st-louis",
          "pubDate" : "Fri, 31 Oct 2025 08:00:21",
          "title" : "Chess: Magnus Carlsen triumphs at historic Champions Showdown in St Louis"
-      },
-      {
-         "description" : "The FIDE World Cup in Goa is Gukesh's first event at home in India since becoming world champion last year.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/46788964/can-world-champion-gukesh-add-win-fide-world-cup-title-home-goa-2025?device=featurephone",
-         "pubDate" : "Fri, 31 Oct 2025 04:15:33",
-         "title" : "Can world champion Gukesh add a World Cup title to his resume?"
       }
    ]
 }
