@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-11-20","2","<a href=https://ratings.uschess.org/event/202511200033 target='_blank'>MATCH PLAY AW V JMC</a>",
 "HOUSTON","2025-11-16","18","<a href=https://ratings.uschess.org/event/202511160473 target='_blank'>2025 Thanksgiving by AzChAcad</a>",
 "HOUSTON","2025-11-16","49","<a href=https://ratings.uschess.org/event/202511160353 target='_blank'>Houston Fall FIDE 25</a>",
 "HOUSTON","2025-11-15","8","<a href=https://ratings.uschess.org/event/202511150573 target='_blank'>chesspanda11152025saturday</a>",
@@ -98,5 +99,4 @@ jtable([
 "CYPRESS","2025-08-15","34","<a href=https://ratings.uschess.org/event/202508152902 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2025-08-15","23","<a href=https://ratings.uschess.org/event/202508152882 target='_blank'>FBCC 2025 HAWAIIAN SHIRT DAY OPEN</a>",
 "HOUSTON","2025-08-10","16","<a href=https://ratings.uschess.org/event/202508100572 target='_blank'>BELLAIRE SUNDAY SWISS 08/10/25</a>",
-"HOUSTON","2025-08-10","4","<a href=https://ratings.uschess.org/event/202508100382 target='_blank'>AUGUST 10TH-SUNDAY SWISS OPEN</a>",
 ]);
