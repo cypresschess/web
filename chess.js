@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125489157.cms\" />The FIDE World Cup 2025 in Goa is nearing its end. Indian Grandmaster Vidit Gujrathi has spoken out against criticism of the tournament's conditions. He highlights Goa's beauty and excellent hospitality. Gujrathi also discusses his friendship with Anish Giri and his own journey with burnout. He will next play in the Global Chess League 2025.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-from-surviving-on-only-rice-and-water-in-russia-to-serious-burnout-before-marriage-vidit-gujrathi-on-life-as-a-chess-grandmaster/articleshow/125489157.cms",
+         "pubDate" : "Fri, 21 Nov 2025 15:03:25",
+         "title" : "Exclusive | From 'surviving on rice and water in Russia' to 'burnout': Vidit's story"
+      },
+      {
+         "description" : "The World Women's Team Championship is taking place in Linares, Spain, from 18 to 23 November. The knockout stage kicks off on Friday with the quarterfinals: Russia v. Uzbekistan, China v. United States, Azerbaijan v. Georgia and Kazakhstan v. India. A 45+30 time control ensures plenty of excitement in the team competition. | Follow the games live starting at 13.30 CET (8.30 ET, 18.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-live",
+         "pubDate" : "Fri, 21 Nov 2025 13:20:00",
+         "title" : "World Women's Team Championship - Live!"
+      },
+      {
          "description" : "The World Cup is coming to a close: four players remain, and three of them will qualify for the Candidates Tournament. In the semifinals, Wei Yi - the highest-rated player still in the field - faces Andrey Esipenko, the nominally weakest of the four semifinalists. The second pairing is an all-Uzbek encounter: Javokhir Sindarov takes on Nodirbek Yakubboev. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-d3",
          "pubDate" : "Fri, 21 Nov 2025 05:50:00",
          "title" : "Linares: China v. USA among quarterfinal pairings"
+      },
+      {
+         "description" : "GM Wei Yi found a brilliant sacrificial line to survive against GM Andrey Esipenko in what GM David Howell called &#34;one of the most fun draws I&#38;rsquo;ve seen throughout the whole 2025 FIDE World Cup so far.&#34; The other semifinal was also drawn, as G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-semifinals-game-1",
+         "pubDate" : "Fri, 21 Nov 2025 05:40:00",
+         "title" : "Wei Yi Escapes In Style Vs. Esipenko As World Cup Semifinals Begin"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125478114.cms\" />Uzbekistan has secured two semifinal spots in the World Cup with Nodirbek Yakubboev and Javokhir Sindarov advancing, outperforming the host nation India. The Uzbek duo, both Olympiad gold medalists, will face each other, guaranteeing at least a silver medal for their country. This success echoes their coach Rustam Kasimdzhaov's 2002 World Cup finalist achievement.",
@@ -66,7 +90,7 @@ news_feed (
          "title" : "Firouzja Eliminates Nepomniachtchi, Advances To Semifinal Vs. Nakamura"
       },
       {
-         "description" : "GM Magnus Carlsen is officially among the 360 players registered for the 2025 World Rapid &#38;amp; Blitz Championship, to be held in Doha, Qatar, on December 26-30, the International Chess Federation (FIDE) announced Thursday. FIDE said 233 players...",
+         "description" : "GM Magnus Carlsen is officially among the 360 players registered for the 2025 World Rapid &#38;amp; Blitz Championship, to be held in Doha, Qatar, on December 26-30, the International Chess Federation (FIDE) announced Thursday. FIDE said 235 players...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-confirmed-world-rapid-blitz-championship-fide-announces-field",
@@ -538,14 +562,6 @@ news_feed (
          "title" : "India coach seeks clarity on Total Chess World Championship standing"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125292168.cms\" />Italian Grandmaster Lorenzo Lodici, the lowest-rated GM in the FIDE Chess World Cup, has captured attention by defeating a seasoned English player. Lodici, Italy's top player, actively engages with fans, seeing it as crucial for popularizing the game. He dreams of achieving significant fame for Italian chess, akin to tennis star Sinner's impact.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/want-to-be-sinner-of-chess-in-italy-lorenzo-lodici/articleshow/125292168.cms",
-         "pubDate" : "Thu, 13 Nov 2025 06:20:57",
-         "title" : "Want to be Sinner of chess in Italy: Lorenzo Lodici"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125291143.cms\" />Levon Aronian is progressing in the FIDE World Cup in Goa. This location holds special meaning for the Grandmaster, as he won a crucial junior title there 23 years ago. Aronian's victory in the current tournament brings him closer to a third World Cup title. He expresses happiness at being back in Goa.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -584,14 +600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-4-game-2",
          "pubDate" : "Wed, 12 Nov 2025 07:15:00",
          "title" : "Donchenko, Martinez Continue Giant-Killing As 11 Matches Go To Tiebreaks"
-      },
-      {
-         "description" : "Not sure what chess opening you should play next? You can now take our new Opening Recommendation Quiz and find out! Answer seven simple questions, and we&#39;ll suggest an opening that best fits your playing style, level, and preferences. Find Your...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-opening-recommendation-quiz",
-         "pubDate" : "Wed, 12 Nov 2025 06:00:00",
-         "title" : "Find Out Which Opening You Should Play With Our New Quiz"
       },
       {
          "description" : "The European Corporate Chess Championship 2025 concluded yesterday in Paris, France! The event took place from 7-8 November at the Espace Francis Delage, with the participation of 53 teams that competed over 9 swiss rounds with rapid time control. Ukrainian Greco clinched the Championship with the score of 24 match points (7 wins, 1 draw, 1 loss) and better tiebreaks than Bulgarian Agrofert which had the same score of match points. Greco (Ukraine) played in very strong composition with: GM []",
