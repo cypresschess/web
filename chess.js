@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The four semi-finalists, led by Wei Yi, will battle for three 2026 Candidates places - none of them has reached this stage before The $2m World Cup in Goa will be remembered as an event where established stars were humbled and knocked out by supposedly lesser lights. At 26, China's Wei Yi is the oldest in Friday's semi-finals. He was once a prodigy, renowned for his brilliant attacking style and the youngest to surpass an elite 2700 rating, but then opted to take a six-year break from chess to study economics and management, which he says he does not regret. He made a statement return in 2024, winning the <a href=\"https://www.theguardian.com/sport/2024/feb/02/chess-wei-yi-wins-at-wijk-aan-z",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/nov/21/chess-outsiders-triumph-at-world-cup-in-goa-and-battle-for-candidates-spots",
+         "pubDate" : "Fri, 21 Nov 2025 08:00:05",
+         "title" : "Chess outsiders triumph at World Cup in Goa and battle for Candidates spots"
+      },
+      {
+         "description" : "The preliminary stage of the Women's World Team Championship concluded on Thursday in Linares, with Russia and Georgia topping their respective groups and eight teams advancing to the knockout phase. The final round brought clear outcomes in both pools, alongside a few notable surprises, including India's qualification with a reserve lineup and Ukraine's early exit after two costly defeats. Several intriguing matchups now await in the quarterfinals, most notably China v. United States. | Pictured: Russian IM Polina Shuvalova | Photo: Pavel Dvorkovich",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-d3",
+         "pubDate" : "Fri, 21 Nov 2025 05:50:00",
+         "title" : "Linares: China v. USA among quarterfinal pairings"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125478114.cms\" />Uzbekistan has secured two semifinal spots in the World Cup with Nodirbek Yakubboev and Javokhir Sindarov advancing, outperforming the host nation India. The Uzbek duo, both Olympiad gold medalists, will face each other, guaranteeing at least a silver medal for their country. This success echoes their coach Rustam Kasimdzhaov's 2002 World Cup finalist achievement.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-two-uzbeks-steal-a-march-over-indians/articleshow/125478114.cms",
+         "pubDate" : "Fri, 21 Nov 2025 05:29:33",
+         "title" : "Chess World Cup: Two Uzbeks steal a march over Indians"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125476484.cms\" />Returning to the World Rapid & Blitz Championship in Doha, Magnus Carlsen isn't holding back - he has playfully resurrected the 'jeansgate' drama from last year in a recent social media post. With a nod to 'viral rage moments' and a commitment to tighter jeans, he teases a fun and defiant stance towards FIDE's attire rules.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -18,36 +42,12 @@ news_feed (
          "title" : "Hardaway gracing the cover of Chess Life!"
       },
       {
-         "description" : "The Charlotte Chess Center and the Naroditsky family have launched the \"Naroditsky Memorial and Fellowship Fund\" to honour the life and work of GM Daniel Naroditsky, whose passing in October profoundly affected the chess community. The initiative aims to establish a permanent 4-million-dollar endowment supporting two projects dear to him: an annual elite blitz and rapid tournament in Charlotte and a fellowship for promising young players. | Image: Charlotte Chess Center",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-naroditsky-memorial-fund-launch",
-         "pubDate" : "Thu, 20 Nov 2025 19:40:00",
-         "title" : "Daniel Naroditsky Memorial Fund launched in Charlotte"
-      },
-      {
-         "description" : "The World Women's Team Championship is taking place in Linares, Spain, from 18 to 23 November. The event includes 12 national teams, including China, India, the United States and the host nation Spain. With top players such as Hou Yifan, Carissa Yip and Sarasadat Khademalsharieh competing, the championship features a strong field in a city long associated with elite chess. | Follow the games live starting at 13.30 CET (8.30 ET, 18.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-live",
-         "pubDate" : "Thu, 20 Nov 2025 13:20:00",
-         "title" : "World Women's Team Championship - Live!"
-      },
-      {
          "description" : "GM Alireza Firouzja won his Speed Chess Championship 2025 quarterfinal match against GM Ian Nepomniachtchi 19-9 to book his ticket to the Live Finals in London. There, he will face GM Hikaru Nakamura in the Semifinals. The last quarterfinal matc...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-qf-firouzja-nepomniachtchi",
          "pubDate" : "Thu, 20 Nov 2025 12:59:00",
          "title" : "Firouzja Eliminates Nepomniachtchi, Advances To Semifinal Vs. Nakamura"
-      },
-      {
-         "description" : "The second day of the 2025 FIDE Women's World Team Championship in Linares saw high-quality chess and dramatic moments. While Team FIDE extended its lead in Pool A, Hou Yifan produced a standout performance in Pool B with a precise win in her tournament debut. The battle for the remaining knockout spots is heating up - in both groups, tense final rounds lie ahead. | Photos: FIDE/Raul Martinez, Pavel Dvorkovich",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-women-s-team-championship-hou-yifan-shines",
-         "pubDate" : "Thu, 20 Nov 2025 11:43:31",
-         "title" : "World Women's Team Championship: Hou Yifan shines"
       },
       {
          "description" : "GM Magnus Carlsen is officially among the 360 players registered for the 2025 World Rapid &#38;amp; Blitz Championship, to be held in Doha, Qatar, on December 26-30, the International Chess Federation (FIDE) announced Thursday. FIDE said 233 players...",
@@ -98,30 +98,6 @@ news_feed (
          "title" : "No Chalk, Three New Candidates Guaranteed as World Cup Heads to Semifinals"
       },
       {
-         "description" : "Today would have been the 120th birthday of the American chess grandmaster, Isaac Kashdan. In the 1930s, he was widely regarded as one of the world's best players, almost on a par with Alekhine and Capablanca. He later made a name for himself as an author, referee and organiser. | Photo: Alexander Alekhine (left) and Isaac Kashdan playing blitz chess. Jos&eacute; Araiza, Arthur Dake, Reuben Fine and Sammy Reshevsky in Pasadena in 1932.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/on-the-120th-birthday-of-isaac-kashdan",
-         "pubDate" : "Wed, 19 Nov 2025 20:00:00",
-         "title" : "On the 120th birthday of Isaac Kashdan"
-      },
-      {
-         "description" : "The paings of the semifinals at the FIDE World Cup in Goa were set on Wednesday after a tense day of rapid and blitz tiebreaks. Wei Yi, Andrey Esipenko and Javokhir Sindarov joined early qualifier Nodirbek Yakubboev in the final four, with all three earning their spots through hard-fought matches. A couple of comebacks, missed chances and dramatic momentum shifts shaped the day, leaving four players still in the race for three coveted places in the 2026 Candidates Tournament. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-r6tb",
-         "pubDate" : "Wed, 19 Nov 2025 17:25:00",
-         "title" : "World Cup: Wei eliminates Arjun, Esipenko and Sindarov also in semis"
-      },
-      {
-         "description" : "How often do chess players train their minds the way they train openings? Every chess player has faced moments of doubt, nerves, or overthinking that cost them crucial games. This is where psychology enters the picture. In this article, Saloni Sapale, a WIM and sports psychology consultant, shares her journey from being a competitive player to working with athletes on the mental side of performance. If you have ever wondered why your preparation doesn't always translate into results, or how to play with clarity under pressure, this piece will resonate deeply. Know how training your mind can transform the way you play! | Photos: Saloni Sapale",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-mental-game-why-chess-players-need-sport-psychology",
-         "pubDate" : "Wed, 19 Nov 2025 17:00:00",
-         "title" : "The Mental Game: Why Chess Players Need Sport Psychology"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125441171.cms\" />Grandmaster Arjun Erigaisi's FIDE World Cup journey concluded after a rapid tiebreak loss to China's Wei Yi. Despite drawing both classical games, Arjun faltered in the faster formats, with his French Defence choice proving costly in the first tiebreak. Wei Yi's strong middlegame play secured his victory in the second game, advancing him to the semifinals.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -138,14 +114,6 @@ news_feed (
          "title" : "24 to 0: Indians stumble at home Chess World Cup"
       },
       {
-         "description" : "The Women's World Team Championship opened in Linares with two rounds played across a busy first day, as the twelve teams began their round-robin campaigns in the event's group stage. Early leaders emerged in both pools, with the FIDE team (Russia) taking a clear advantage in Pool A, while China and Georgia set the pace in Pool B. A number of key results, including India's unexpected win over Ukraine, shaped the early standings. | Pictured: Georgia's Bela Khotenashvili | Photo: Pavel Dvorkovich",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-d1",
-         "pubDate" : "Wed, 19 Nov 2025 07:40:00",
-         "title" : "Linares: Russia and Georgia lead"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125428681.cms\" />Chess enthusiasts hold their breath as the Chess World Cup reaches a gripping climax with crucial tiebreaks on Wednesday. Grandmaster Arjun Erigaisi from India faces a formidable opponent in Wei Yi, while Alexander Donchenko wraps up his journey in this prestigious event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -160,14 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-6-tiebreaks",
          "pubDate" : "Wed, 19 Nov 2025 05:32:00",
          "title" : "Wei Yi Knocks Out Arjun, Advances With Sindarov, Esipenko"
-      },
-      {
-         "description" : "Nodirbek Yakubboev became the first player to reach the semifinals of the 2025 FIDE World Cup on Tuesday, drawing with Alexander Donchenko to win their match 1&frac12;-&frac12;. With the remaining three quarterfinal encounters still level after two games, Arjun Erigaisi v. Wei Yi, Jose Martinez v. Javokhir Sindarov and Andrey Esipenko v. Sam Shankland all head to Wednesday's tiebreaks, where the next Candidates contenders will begin to emerge. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-r6g2",
-         "pubDate" : "Wed, 19 Nov 2025 03:50:00",
-         "title" : "World Cup: Yakubboev in semis, Arjun misses chance"
       },
       {
          "description" : "This week's exercises come from the just-concluded 2025 U.S. Senior Women's Championship, where WFM Natalya Tsodikova defended her title with an Armageddon playoff victory over WGM Anjelina Belakovskaia. See yesterday's Tactics Tuesday for even more puzzles from the third edition of this national event. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -570,14 +530,6 @@ news_feed (
          "title" : "Want to be Sinner of chess in Italy: Lorenzo Lodici"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125291762.cms\" />Uzbekistan's Nodirbek Yakubboev ended V Pranav's run in the Chess World Cup, while Vietnam's Le Quang Liem advanced to the pre-quarterfinals. Several Indian players, including R Praggnanandhaa, Erigaisi Arjun, and P Harikrishna, will compete in tiebreaks after drawing their classical games. Levon Aronian, Jose Eduardo Martinez Alcantara, and Alexander Donchenko also secured spots in the last 16.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-heartbreak-for-pranav-karthik-arjun-pragg-harikrishna-head-to-tiebreak-in-fourth-round/articleshow/125291762.cms",
-         "pubDate" : "Thu, 13 Nov 2025 05:58:12",
-         "title" : "Chess World Cup: Heartbreak for Pranav, Karthik; Arjun, Pragg, Harikrishna head to tiebreak in fourth round"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125291143.cms\" />Levon Aronian is progressing in the FIDE World Cup in Goa. This location holds special meaning for the Grandmaster, as he won a crucial junior title there 23 years ago. Aronian's victory in the current tournament brings him closer to a third World Cup title. He expresses happiness at being back in Goa.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -722,14 +674,6 @@ news_feed (
          "title" : "Jay Williams on Finance and Chess"
       },
       {
-         "description" : "Naroditsky's tragic passing, details still unclear, though with serious allegations levelled at a now-named former top player, invites us to look beyond the parish pump of chess. FIDE itself states in connection with the case: 'Human life and dignity are fundamental values shared by all of us. While we hold deep respect and love for the game of chess that unites our community, these values must always come first.\" A philosopher comments.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/in-memory-of-daniel-naroditsky",
-         "pubDate" : "Tue, 04 Nov 2025 22:17:27",
-         "title" : "In memory of Daniel Naroditsky"
-      },
-      {
          "description" : "The Annual ECU General Assembly was hosted by the Georgian Chess Federation in Batumi on 10 October 2025 under excellent conditions.&#160; Forty-three federations were present. The ECU General Assembly was greeted by the President of the Georgian Chess Federation, Mr Akaki Iashvili, the President of the World Chess Federation (FIDE), Mr Arkady Dvorkovich. The President of ECU Mr. Zurab Azmairapashvili welcomed all participants.&#160; Main information and decisions Tournament Rules&#160; European Chess Championships ECU Commissions The next ECU General Assembly will []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -768,22 +712,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2025-round-3-recap/",
          "pubDate" : "Fri, 31 Oct 2025 22:13:14",
          "title" : "European Youth Chess Championship 2025 - Round 3 recap"
-      },
-      {
-         "description" : "The significance of Women's World Cup winner Divya Deshmukh playing the FIDE World Cup is not about success, but the pursuit of excellence.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/46790814/divya-deshmukh-gambit-women-world-cup-champ-pursues-open-excellence-fide-world-cup?device=featurephone",
-         "pubDate" : "Fri, 31 Oct 2025 08:02:58",
-         "title" : "Divya's gambit: Women's World Cup champ pursues Open excellence in FIDE World Cup"
-      },
-      {
-         "description" : " Norway's world No 1 beat the world champion, Gukesh Dommaraju, 5.5-0.5, and also edged the world Nos 2 and 3 The four-player $412.000 Champions Showdown in St Louis was a historic event, a quadrangular tournament of the super-elite who met each other six times in three days. Magnus Carlsen was the favourite, but after scoring 3.5/6 on the first day the Norwegian expressed dissatisfaction with his own performance: \"I'm not feeling good at all. I scored about two points more than I should have, and I'm happy with that. My level of play was extremely poor.\" <a href=\"https://www.theguardian.com/sport/2025/oct/31/chess-magnus-carlsen-triumphs-at-historic-champions-showdown-in-st-louis\">Continue ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/oct/31/chess-magnus-carlsen-triumphs-at-historic-champions-showdown-in-st-louis",
-         "pubDate" : "Fri, 31 Oct 2025 08:00:21",
-         "title" : "Chess: Magnus Carlsen triumphs at historic Champions Showdown in St Louis"
       }
    ]
 }
