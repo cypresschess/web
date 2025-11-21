@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Friday's opening games of the FIDE World Cup semifinals offered balanced results but no shortage of depth. Both encounters were drawn, yet Wei Yi and Andrey Esipenko (pictured) produced an intricate tactical sequence, while Nodirbek Yakubboev and Javokhir Sindarov explored a queenless middlegame full of subtle decisions. With three Candidates spots at stake, every nuance now carries considerable weight as the matches head into their second classical games. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-r7g1",
+         "pubDate" : "Fri, 21 Nov 2025 20:10:00",
+         "title" : "World Cup SF: Two draws, no lack of tension"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125491290.cms\" />In the FIDE World Cup semifinals, top seed Wei Yi drew his first game against Andrey Esipenko, while the match between Uzbek players Nodirbek Yakubboev and Javokhir Sindarov also ended in a draw. Despite fewer spectators after Indian players' elimination, the remaining competitors maintained their spirit. The second games are scheduled for Saturday, with tiebreaks to follow if needed.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-both-semi-final-games-end-in-draw-indian-exits-leave-minimal-interest-among-locals/articleshow/125491290.cms",
+         "pubDate" : "Fri, 21 Nov 2025 17:22:52",
+         "title" : "Chess WC: Both semi-final games end in draw"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125489157.cms\" />The FIDE World Cup 2025 in Goa is nearing its end. Indian Grandmaster Vidit Gujrathi has spoken out against criticism of the tournament's conditions. He highlights Goa's beauty and excellent hospitality. Gujrathi also discusses his friendship with Anish Giri and his own journey with burnout. He will next play in the Global Chess League 2025.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -18,12 +34,20 @@ news_feed (
          "title" : "World Women's Team Championship - Live!"
       },
       {
-         "description" : "The World Cup is coming to a close: four players remain, and three of them will qualify for the Candidates Tournament. In the semifinals, Wei Yi - the highest-rated player still in the field - faces Andrey Esipenko, the nominally weakest of the four semifinalists. The second pairing is an all-Uzbek encounter: Javokhir Sindarov takes on Nodirbek Yakubboev. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Fri, 21 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup, Semifinals - Live!"
+         "description" : "It took tiebreaks to decide a winner in Freestyle Friday on November 21, with GM Pranesh M squeaking by GM Magnus Carlsen to claim his second Freestyle Friday in as many months.&#38;nbsp; Carlsen was the last perfect player in the field of 120, reac...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pranesh-wins-freestyle-friday-november-21-2025",
+         "pubDate" : "Fri, 21 Nov 2025 11:36:08",
+         "title" : "Down To The Wire Freestyle Friday Goes To Pranesh"
+      },
+      {
+         "description" : "GM Jan-Krzysztof Duda, GM Hikaru Nakamura, and IM Renato Terry&#38;nbsp;won the second week of 3 0 Thursday events, which were held on November 20. GM Magnus Carlsen almost secured his first 3 0 Thursday victory in the first session, but a final-round...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duda-nakamura-terry-3-0-thursday-11-20-2025",
+         "pubDate" : "Fri, 21 Nov 2025 10:59:33",
+         "title" : "Duda, Nakamura, Terry Win 3 0 Thursday"
       },
       {
          "description" : "The World Cup began on 30 October in Goa, India. Two hundred and six players entered the tournament; three weeks later, only four remain and will now meet in the semifinals. China's Wei Yi faces the Russian GM Andrey Esipenko, while Javokhir Sindarov of Uzbekistan takes on his compatriot Nodirbek Yakubboev. The top three finishers qualify for the Candidates Tournament. The winner earns 120,000 USD, the fourth-placed player 50,000. But who has the best chances of winning the event - and securing a spot in the Candidates? | Photos: Michal Walusza",
@@ -50,7 +74,7 @@ news_feed (
          "title" : "Linares: China v. USA among quarterfinal pairings"
       },
       {
-         "description" : "GM Wei Yi found a brilliant sacrificial line to survive against GM Andrey Esipenko in what GM David Howell called &#34;one of the most fun draws I&#38;rsquo;ve seen throughout the whole 2025 FIDE World Cup so far.&#34; The other semifinal was also drawn, as G...",
+         "description" : "GM Wei Yi found a brilliant sacrificial line to survive against GM Andrey Esipenko in what GM David Howell called &#34;one of the most fun draws I&#38;rsquo;ve seen throughout the whole 2025 FIDE World Cup so far.&#34; The other semifinal game was also drawn,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-semifinals-game-1",
@@ -554,14 +578,6 @@ news_feed (
          "title" : "Can Anyone Stop Carlsen From Winning The Freestyle Grand Slam Tour?"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125292537.cms\" />India's chess captain N Srinath admits the home team's World Cup performance was underwhelming, attributing it to confusion over prioritizing different tournament formats. He stresses the need for clear goals and direction for young players amidst a surge in chess activity.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-coach-seeks-clarity-on-total-chess-world-championship-standing/articleshow/125292537.cms",
-         "pubDate" : "Thu, 13 Nov 2025 06:38:52",
-         "title" : "India coach seeks clarity on Total Chess World Championship standing"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125291143.cms\" />Levon Aronian is progressing in the FIDE World Cup in Goa. This location holds special meaning for the Grandmaster, as he won a crucial junior title there 23 years ago. Aronian's victory in the current tournament brings him closer to a third World Cup title. He expresses happiness at being back in Goa.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -584,22 +600,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-small-nations-team-chess-championship-2025-starts-in-cyprus/",
          "pubDate" : "Wed, 12 Nov 2025 17:43:15",
          "title" : "European Small Nations Team Chess Championship 2025 starts in Cyprus"
-      },
-      {
-         "description" : "The International Chess Federation (FIDE) confirmed on Tuesday that they have formally filed a complaint against GM Vladimir Kramnik, the 14th world champion, referring him to the Ethics &#38;amp; Disciplinary Commission (EDC) for investigation into t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-files-ethics-complaint-against-kramnik",
-         "pubDate" : "Wed, 12 Nov 2025 07:40:00",
-         "title" : "FIDE Confirms Ethics Investigation Into Kramnik Following Death Of Naroditsky"
-      },
-      {
-         "description" : "GM Alexander Donchenko followed up his win over GM Anish Giri by knocking out German teammate GM Matthias Bluebaum to reach the Last 16 of the 2025 FIDE World Cup. He&#39;s joined by GMs Jose Martinez and Levon Aronian, who gave GMs Alexey Sarana and ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-4-game-2",
-         "pubDate" : "Wed, 12 Nov 2025 07:15:00",
-         "title" : "Donchenko, Martinez Continue Giant-Killing As 11 Matches Go To Tiebreaks"
       },
       {
          "description" : "The European Corporate Chess Championship 2025 concluded yesterday in Paris, France! The event took place from 7-8 November at the Espace Francis Delage, with the participation of 53 teams that competed over 9 swiss rounds with rapid time control. Ukrainian Greco clinched the Championship with the score of 24 match points (7 wins, 1 draw, 1 loss) and better tiebreaks than Bulgarian Agrofert which had the same score of match points. Greco (Ukraine) played in very strong composition with: GM []",
