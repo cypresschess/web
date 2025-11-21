@@ -18,6 +18,14 @@ news_feed (
          "title" : "World Women's Team Championship - Live!"
       },
       {
+         "description" : "GM Alireza Firouzja won his Speed Chess Championship 2025 quarterfinal match against GM Ian Nepomniachtchi 19-9 to book his ticket to the Live Finals in London. There, he will face GM Hikaru Nakamura in the Semifinals. The last quarterfinal matc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-qf-firouzja-nepomniachtchi",
+         "pubDate" : "Thu, 20 Nov 2025 12:59:00",
+         "title" : "Firouzja Eliminates Nepomniachtchi, Advances To Semifinal Vs. Nakamura"
+      },
+      {
          "description" : "The second day of the 2025 FIDE Women's World Team Championship in Linares saw high-quality chess and dramatic moments. While Team FIDE extended its lead in Pool A, Hou Yifan produced a standout performance in Pool B with a precise win in her tournament debut. The battle for the remaining knockout spots is heating up - in both groups, tense final rounds lie ahead. | Photos: FIDE/Raul Martinez, Pavel Dvorkovich",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-2025-meet-chinas-no-1-wei-yi-slayer-of-indias-last-hope-arjun-erigaisi/articleshow/125454536.cms",
          "pubDate" : "Thu, 20 Nov 2025 05:57:12",
          "title" : "Chess WC: Meet China's No. 1 Wei Yi - Slayer of India's last hope, Arjun Erigaisi"
+      },
+      {
+         "description" : "With its third-place finish in Group A, Team USA qualified for the quarterfinals of the FIDE World Women's Team Championship, held from Nov. 17 through 24 in Linares, Spain.12 teams competed in two groups of six in the Round Robin Pool Stage, held Nov. 18 through 20 at the fast-classical time control of G/45 with 30-second increment from move one. The top four finishers in each group are seeded into the knockout stage, which begins Nov. 21. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Captain Melikset Khachiyan with Anna Sargsyan (L), Tatev Abrahamyan, and Zoey Tang. (Photo courtesy FIDE)<br> <br> <br> <br> In Group A, USA lost its Round 2 match to ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/team-usa-qualifies-fide-world-womens-team-championship-quarterfinals",
+         "pubDate" : "Thu, 20 Nov 2025 00:00:00",
+         "title" : "Team USA Qualifies for FIDE World Women's Team Championship Quarterfinals"
       },
       {
          "description" : "The upsets kept coming in the quarterfinals of the 2025 FIDE World Cup. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Seventh-seeded Wei Yi eliminated the final \"top four\" seed in the World Cup, second-seeded Arjun Erigaisi, during Wednesday's quarterfinal tiebreaks in Goa. (Photos courtesy FIDE/Michal Walusza)<br> <br> With Chinese GM Wei Yi's elimination of second-seeded Indian GM Arjun Erigaisi in the first tiebreak, none of the four highest-rated players will be competing in the semifinals for the three available spots in the 2026 FIDE Candidates Tournament in Goa, India. Despite ",
@@ -562,14 +578,6 @@ news_feed (
          "title" : "Sevian Shines in Sudden Death, Joins Aronian, Shankland in Sweet 16"
       },
       {
-         "description" : "State chapter leaders are invited to join the States &amp; Affiliates Committee for the first in a new quarterly webinar series designed to provide training, resources, and best practices for state chapters. Register here, and read below for details.Date: Monday, November 17, 2025Time: 5:30 p.m. PST / 8:30 p.m. ESTDuration: 1 hourLocation: Zoom (Click here for the new link to register in advance)Who this webinar is for:State Chapter Officers, Board Members and LeadershipState Chapter Committee MembersScholastic CoordinatorsDelegatesPlease also share this invitation to your board or state chapter leadership who might be interested in attending.This inaugural session will feature two of the mo",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/register-now-first-quarterly-state-chapters-webinar-nov-17",
-         "pubDate" : "Thu, 13 Nov 2025 00:00:00",
-         "title" : "Register Now: First Quarterly State Chapters Webinar on Nov. 17"
-      },
-      {
          "description" : "The 9th edition of the European Small Nations Team Chess Championship starts this week in Larnaca, Cyprus, and will be held from 14th-23rd November in the Sun Hall Hotel. The event gathers 10 teams from Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, Monaco and San Marino, and each team consists of four players + one reserve player. The European Small Nations Team Chess Championship 2025 will be played in 9 rounds, round robin system, with the time control []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-opening-recommendation-quiz",
          "pubDate" : "Wed, 12 Nov 2025 06:00:00",
          "title" : "Find Out Which Opening You Should Play With Our New Quiz"
-      },
-      {
-         "description" : "Eleven was the number of the day, with GM Magnus Carlsen winning the 11th Titled Tuesday of the current season on November 11 by scoring a perfect 11/11. In the last four rounds, he toppled a quartet of top rivals in GMs Hans Niemann, Alireza Firo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-november-11-2025",
-         "pubDate" : "Tue, 11 Nov 2025 11:01:00",
-         "title" : "Carlsen Takes Down Everyone En Route To 11/11"
       },
       {
          "description" : "The European Corporate Chess Championship 2025 concluded yesterday in Paris, France! The event took place from 7-8 November at the Espace Francis Delage, with the participation of 53 teams that competed over 9 swiss rounds with rapid time control. Ukrainian Greco clinched the Championship with the score of 24 match points (7 wins, 1 draw, 1 loss) and better tiebreaks than Bulgarian Agrofert which had the same score of match points. Greco (Ukraine) played in very strong composition with: GM []",
