@@ -46,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/duda-nakamura-terry-3-0-thursday-11-20-2025",
-         "pubDate" : "Fri, 21 Nov 2025 10:59:33",
+         "pubDate" : "Fri, 21 Nov 2025 10:59:00",
          "title" : "Duda, Nakamura, Terry Win 3 0 Thursday"
       },
       {
@@ -104,6 +104,14 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/11/20/hardaway-gracing-the-cover-of-chess-life/",
          "pubDate" : "Fri, 21 Nov 2025 02:26:27",
          "title" : "Hardaway gracing the cover of Chess Life!"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed beginning at noon CST on Wednesday, November 26 for Thanksgiving. Offices will reopen at 8 a.m. CST on Monday, December 1. All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items. Thank you for your understanding, and happy holidays. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-offices-closed-noon-nov-26-through-nov-30",
+         "pubDate" : "Fri, 21 Nov 2025 00:00:00",
+         "title" : "US Chess Offices Closed Noon Nov 26 through Nov 30"
       },
       {
          "description" : "GM Alireza Firouzja won his Speed Chess Championship 2025 quarterfinal match against GM Ian Nepomniachtchi 19-9 to book his ticket to the Live Finals in London. There, he will face GM Hikaru Nakamura in the Semifinals. The last quarterfinal matc...",
@@ -586,14 +594,6 @@ news_feed (
          "title" : "'I would've quit chess by now, if not for Goa': Untold story of Aronian"
       },
       {
-         "description" : "Three Americans - GMs Levon Aronian, Samuel Sevian, and Sam Shankland - have made it to the \"Sweet 16\" in the upset-laden 2025 FIDE World Cup. Only two of the top 10 seeds - second-seeded Indian GM Arjun Erigaisi and seventh-seeded Chinese GM Wei Yi - remain, and 11 of the remaining players are seeded outside of the top 16. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Graphic courtesy of FIDE<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Levon Aronian discusses the second classical game with his opponent, Radoslaw Wojtaszek (Photo courtesy Michal Walusza/FIDE)<br> <br> <br> <br> Of the Ame",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/sevian-shines-sudden-death-joins-aronian-shankland-sweet-16",
-         "pubDate" : "Thu, 13 Nov 2025 00:00:00",
-         "title" : "Sevian Shines in Sudden Death, Joins Aronian, Shankland in Sweet 16"
-      },
-      {
          "description" : "The 9th edition of the European Small Nations Team Chess Championship starts this week in Larnaca, Cyprus, and will be held from 14th-23rd November in the Sun Hall Hotel. The event gathers 10 teams from Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, Monaco and San Marino, and each team consists of four players + one reserve player. The European Small Nations Team Chess Championship 2025 will be played in 9 rounds, round robin system, with the time control []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -728,14 +728,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-realms-of-gold/",
          "pubDate" : "Sat, 01 Nov 2025 12:15:22",
          "title" : "The realms of gold"
-      },
-      {
-         "description" : "Three rounds have been already played at the European Youth Chess Championship 2025 in Budva, Montenegro. After three intense rounds, only 71 of nearly 1200 participants have managed to preserve a perfect score of three points, underscoring the fierce level of competition across all sections. Two players tie for the top in Open U18 section; Open U16 and Open U12 categories each have six co-leaders, while seven players are tied for first place in both Open U14 and Open U10 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-championship-2025-round-3-recap/",
-         "pubDate" : "Fri, 31 Oct 2025 22:13:14",
-         "title" : "European Youth Chess Championship 2025 - Round 3 recap"
       }
    ]
 }
