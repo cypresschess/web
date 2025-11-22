@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The concept behind Chessbase's \"60-minute\" courses is simple: a one-hour video course for just under 10 Euros. There are also courses on middle game and endgame topics, but most courses focus on quite \"specialised\" opening variations. In the second instalment of a short series, Jochen Schwarz presents the most important 60-minute courses for 1.e4 players against the French Defence.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-60-minutes-against-the-french",
+         "pubDate" : "Sat, 22 Nov 2025 07:00:00",
+         "title" : "Review: 60 minutes against the French"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125499094.cms\" />Chess World Cup semifinals opened with cautious play, resulting in draws for both matches. Uzbek childhood friends Sindarov Javokhir and Yakubboev Nodirbek drew after a tense battle, while Andrey Esipenko and Wei Yi also split points. Both Esipenko and Sindarov will aim to leverage their opening advantage in the next games.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -26,11 +34,11 @@ news_feed (
          "title" : "World Cup SF: Two draws, no lack of tension"
       },
       {
-         "description" : "GM Denis Lazavik has booked his spot in the semifinals of the 2025 Speed Chess Championship and will play GM Magnus Carlsen live in London after defeating GM Hans Niemann 15.5-9.5 on Friday. Lazavik won 11 games and lost only five against Niemann,...",
+         "description" : "GM Denis Lazavik has booked his spot in the Semifinals of the 2025 Speed Chess Championship and will play GM Magnus Carlsen live in London after defeating GM Hans Niemann 15.5-9.5 on Friday. Lazavik won 11 games and lost only five against Niemann,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-qf-niemann-lazavik",
-         "pubDate" : "Fri, 21 Nov 2025 19:07:11",
+         "pubDate" : "Fri, 21 Nov 2025 19:07:00",
          "title" : "Lazavik To Play Carlsen After Niemann Rout"
       },
       {
