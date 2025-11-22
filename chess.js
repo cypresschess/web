@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125499094.cms\" />Chess World Cup semifinals opened with cautious play, resulting in draws for both matches. Uzbek childhood friends Sindarov Javokhir and Yakubboev Nodirbek drew after a tense battle, while Andrey Esipenko and Wei Yi also split points. Both Esipenko and Sindarov will aim to leverage their opening advantage in the next games.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/safety-first-as-chess-world-cup-semifinals-open-with-two-tense-draws/articleshow/125499094.cms",
+         "pubDate" : "Sat, 22 Nov 2025 04:21:23",
+         "title" : "Safety first as Chess World Cup semifinals open with two tense draws"
+      },
+      {
+         "description" : " Florida A&#38;M (FAMU) and Florida State (FSU) share the capital city of Tallahassee and have proud traditions, including football. While there is a natural barrier of the railroad tracks, the campuses are literally walking distance from each other. The two campuses share many things, including an engineering program, but lately they have also developed a The post <a href=\"https://thechessdrum.net/blog/2025/11/21/famu-fsu-tallahassee-chess-clash-a-first/\">FAMU-FSU Tallahassee chess clash a first!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/11/21/famu-fsu-tallahassee-chess-clash-a-first/",
+         "pubDate" : "Sat, 22 Nov 2025 01:41:58",
+         "title" : "FAMU-FSU Tallahassee chess clash&hellip; a first!"
+      },
+      {
          "description" : "Friday's opening games of the FIDE World Cup semifinals offered balanced results but no shortage of depth. Both encounters were drawn, yet Wei Yi and Andrey Esipenko (pictured) produced an intricate tactical sequence, while Nodirbek Yakubboev and Javokhir Sindarov explored a queenless middlegame full of subtle decisions. With three Candidates spots at stake, every nuance now carries considerable weight as the matches head into their second classical games. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2025-r7g1",
          "pubDate" : "Fri, 21 Nov 2025 20:10:00",
          "title" : "World Cup SF: Two draws, no lack of tension"
+      },
+      {
+         "description" : "GM Denis Lazavik has booked his spot in the semifinals of the 2025 Speed Chess Championship and will play GM Magnus Carlsen live in London after defeating GM Hans Niemann 15.5-9.5 on Friday. Lazavik won 11 games and lost only five against Niemann,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-qf-niemann-lazavik",
+         "pubDate" : "Fri, 21 Nov 2025 19:07:11",
+         "title" : "Lazavik To Play Carlsen After Niemann Rout"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125491290.cms\" />In the FIDE World Cup semifinals, top seed Wei Yi drew his first game against Andrey Esipenko, while the match between Uzbek players Nodirbek Yakubboev and Javokhir Sindarov also ended in a draw. Despite fewer spectators after Indian players' elimination, the remaining competitors maintained their spirit. The second games are scheduled for Saturday, with tiebreaks to follow if needed.",
@@ -576,22 +600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-4-tiebreaks",
          "pubDate" : "Thu, 13 Nov 2025 07:48:00",
          "title" : "Arjun Strides On As Pragg, Keymer, MVL, Rapport Lead World Cup Exodus"
-      },
-      {
-         "description" : "The 2025 Freestyle Chess Grand Slam Tour will reach its conclusion in South Africa next month, and one key question is whether anyone can stop GM Magnus Carlsen from taking the title as the first-ever Freestyle Chess Champion.&#38;nbsp; The fifth an...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/can-anyone-stop-carlsen-2025-freestyle-grand-slam-south-africa",
-         "pubDate" : "Thu, 13 Nov 2025 07:08:00",
-         "title" : "Can Anyone Stop Carlsen From Winning The Freestyle Grand Slam Tour?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125291143.cms\" />Levon Aronian is progressing in the FIDE World Cup in Goa. This location holds special meaning for the Grandmaster, as he won a crucial junior title there 23 years ago. Aronian's victory in the current tournament brings him closer to a third World Cup title. He expresses happiness at being back in Goa.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-i-wouldve-quit-chess-by-now-if-not-for-goa-untold-story-of-a-legend-putting-vishwanathan-anands-world-cup-record-in-danger/articleshow/125291143.cms",
-         "pubDate" : "Thu, 13 Nov 2025 05:41:51",
-         "title" : "'I would've quit chess by now, if not for Goa': Untold story of Aronian"
       },
       {
          "description" : "The 9th edition of the European Small Nations Team Chess Championship starts this week in Larnaca, Cyprus, and will be held from 14th-23rd November in the Sun Hall Hotel. The event gathers 10 teams from Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, Monaco and San Marino, and each team consists of four players + one reserve player. The European Small Nations Team Chess Championship 2025 will be played in 9 rounds, round robin system, with the time control []",
