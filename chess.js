@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A lot of improvers struggle with a unhealthy relationship to ratings. So would all be better if there were no ratings at all? I'd argue no. In this Newsletter I want to share the positive side of ratings and why only our interpretation makes them toxic. A World Without Ratings If you struggle with rating []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/chess-rating-mindset/",
+         "pubDate" : "Sat, 22 Nov 2025 14:00:00",
+         "title" : "Ratings Are Great (Only our interpretation not)"
+      },
+      {
+         "description" : "I have no doubt that the spread of chess, especially among the young, performs wonders for the mind. The game disciplines thought, sharpens the power of concentration, and strengthens the faculty of logical reasoning, not least in mathematics. When I was at Trinity College, Cambridge, sharing lodgings for a year with the future King Charles []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/self-mate-suicide-in-chess/",
+         "pubDate" : "Sat, 22 Nov 2025 12:59:36",
+         "title" : "Self-mate: suicide in chess"
+      },
+      {
          "description" : "The World Cup is coming to a close: four players remain, and three of them will qualify for the Candidates Tournament. In the semifinals, Wei Yi - the highest-rated player still in the field - faces Andrey Esipenko, the nominally weakest of the four semifinalists. The second pairing is an all-Uzbek encounter: Javokhir Sindarov takes on Nodirbek Yakubboev. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/review-60-minutes-against-the-french",
          "pubDate" : "Sat, 22 Nov 2025 07:00:00",
          "title" : "Review: 60 minutes against the French"
+      },
+      {
+         "description" : "The Semifinals of the 2025 FIDE World Cup will be decided in tiebreaks after the second classical games both ended in draws. GM Andrey Esipenko tried to massage a risk-free edge against GM Wei Yi&#39;s Petroff, while GM Javokhir Sindarov took an early...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-semifinals-game-2",
+         "pubDate" : "Sat, 22 Nov 2025 05:42:00",
+         "title" : "2 Candidates Spots To Be Decided In World Cup Tiebreaks"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125499094.cms\" />Chess World Cup semifinals opened with cautious play, resulting in draws for both matches. Uzbek childhood friends Sindarov Javokhir and Yakubboev Nodirbek drew after a tense battle, while Andrey Esipenko and Wei Yi also split points. Both Esipenko and Sindarov will aim to leverage their opening advantage in the next games.",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-from-surviving-on-only-rice-and-water-in-russia-to-serious-burnout-before-marriage-vidit-gujrathi-on-life-as-a-chess-grandmaster/articleshow/125489157.cms",
          "pubDate" : "Fri, 21 Nov 2025 15:03:25",
          "title" : "Exclusive | From 'surviving on rice and water in Russia' to 'burnout': Vidit's story"
-      },
-      {
-         "description" : "The World Women's Team Championship is taking place in Linares, Spain, from 18 to 23 November. The knockout stage kicks off on Friday with the quarterfinals: Russia v. Uzbekistan, China v. United States, Azerbaijan v. Georgia and Kazakhstan v. India. A 45+30 time control ensures plenty of excitement in the team competition. | Follow the games live starting at 13.30 CET (8.30 ET, 18.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-live",
-         "pubDate" : "Fri, 21 Nov 2025 13:20:00",
-         "title" : "World Women's Team Championship - Live!"
       },
       {
          "description" : "It took tiebreaks to decide a winner in Freestyle Friday on November 21, with GM Pranesh M squeaking by GM Magnus Carlsen to claim his second Freestyle Friday in as many months.&#38;nbsp; Carlsen was the last perfect player in the field of 120, reac...",
@@ -610,14 +626,6 @@ news_feed (
          "title" : "SuperPogChamps To Start December 2 With Strongest PogChamps Field Ever"
       },
       {
-         "description" : "Second-seed GM Arjun Erigaisi is the only official top-10 player remaining in the 2025 FIDE World Cup after beating GM Peter Leko 2-0 in round-four tiebreaks. GM Daniil Dubov took down 2023 runner-up GM Praggnanandhaa Rameshbabu, while GM Andrey E...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-4-tiebreaks",
-         "pubDate" : "Thu, 13 Nov 2025 07:48:00",
-         "title" : "Arjun Strides On As Pragg, Keymer, MVL, Rapport Lead World Cup Exodus"
-      },
-      {
          "description" : "The 9th edition of the European Small Nations Team Chess Championship starts this week in Larnaca, Cyprus, and will be held from 14th-23rd November in the Sun Hall Hotel. The event gathers 10 teams from Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, Monaco and San Marino, and each team consists of four players + one reserve player. The European Small Nations Team Chess Championship 2025 will be played in 9 rounds, round robin system, with the time control []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2025-is-halfway-through/",
          "pubDate" : "Sun, 02 Nov 2025 21:11:10",
          "title" : "European Youth Chess Championship 2025 is halfway through"
-      },
-      {
-         "description" : "This is the story of how I nearly deleted the footage of a video that now has 77K views. A video that has several comments saying something along the lines of: \"This might be the most practically useful chess video I have ever watched.\" Why did I nearly delete it? Because I thought it wasn't []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/chess-improvement-mindset/",
-         "pubDate" : "Sat, 01 Nov 2025 14:00:00",
-         "title" : "Just Do It - And Thank Me Later"
       }
    ]
 }
