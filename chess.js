@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana dedicates the episode to the memory of Daniel \"Danya\" Naroditsky, whose impact as a player, coach, and communicator reached far beyond the chessboard. She explores one of his favourite ideas in the Four Knights Opening - the powerful Nd5!, a move Danya loved to highlight for its elegance and instructional value. This episode blends clear educational insight with a heartfelt tribute, showing how Danya's creative spirit continues to inspire players through the ideas he championed.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-in-memory-of-danya",
+         "pubDate" : "Sat, 22 Nov 2025 20:00:00",
+         "title" : "Svitlana's Smart Moves - In memory of Danya"
+      },
+      {
          "description" : "A lot of improvers struggle with a unhealthy relationship to ratings. So would all be better if there were no ratings at all? I'd argue no. In this Newsletter I want to share the positive side of ratings and why only our interpretation makes them toxic. A World Without Ratings If you struggle with rating []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
