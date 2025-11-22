@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Cup is coming to a close: four players remain, and three of them will qualify for the Candidates Tournament. In the semifinals, Wei Yi - the highest-rated player still in the field - faces Andrey Esipenko, the nominally weakest of the four semifinalists. The second pairing is an all-Uzbek encounter: Javokhir Sindarov takes on Nodirbek Yakubboev. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
+         "pubDate" : "Sat, 22 Nov 2025 10:20:00",
+         "title" : "FIDE World Cup, Semifinals - Live!"
+      },
+      {
          "description" : "The concept behind Chessbase's \"60-minute\" courses is simple: a one-hour video course for just under 10 Euros. There are also courses on middle game and endgame topics, but most courses focus on quite \"specialised\" opening variations. In the second instalment of a short series, Jochen Schwarz presents the most important 60-minute courses for 1.e4 players against the French Defence.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/chess-improvement-mindset/",
          "pubDate" : "Sat, 01 Nov 2025 14:00:00",
          "title" : "Just Do It - And Thank Me Later"
-      },
-      {
-         "description" : "In 1816, John Keats published his ode On First Looking into Chapman's Homer. It remains, to this day, my favourite English language poem. In it, Keats captured the feeling of astonishment that comes when the human mind encounters a new world of thought. \"Then felt I like some watcher of the skies,\" he wrote, \"when a []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-realms-of-gold/",
-         "pubDate" : "Sat, 01 Nov 2025 12:15:22",
-         "title" : "The realms of gold"
       }
    ]
 }
