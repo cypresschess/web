@@ -10,6 +10,14 @@ news_feed (
          "title" : "Svitlana's Smart Moves - In memory of Danya"
       },
       {
+         "description" : "Turkey&#39;s prodigious GM Ediz Gurel won his second Bullet Brawl of the month on Saturday after posting a 22-game unbeaten streak and staving off a late challenge from GM Nihal Sarin. Gurel scored 157 points, three more than the Indian super-GM, and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-nov-22-2025",
+         "pubDate" : "Sat, 22 Nov 2025 16:03:57",
+         "title" : "Gurel Cements Status As Number 1 Junior Bullet Brawler"
+      },
+      {
          "description" : "A lot of improvers struggle with a unhealthy relationship to ratings. So would all be better if there were no ratings at all? I'd argue no. In this Newsletter I want to share the positive side of ratings and why only our interpretation makes them toxic. A World Without Ratings If you struggle with rating []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -624,14 +632,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/46951993/world-champ-world-cup-loss-coach-gajewski-plots-gukesh-revival-2026?device=featurephone",
          "pubDate" : "Thu, 13 Nov 2025 08:07:44",
          "title" : "World champ to World Cup loss: Gajewski plots Gukesh revival in 2026"
-      },
-      {
-         "description" : "You&#39;ve seen them crawling, and now it&#39;s time to see them running! The strongest PogChamps participants in history are gathering to take on new challengers in SuperPogChamps from December 2 to 5. Former chess novices from past PogChamps and strong ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-superpogchamps-2025",
-         "pubDate" : "Thu, 13 Nov 2025 08:04:00",
-         "title" : "SuperPogChamps To Start December 2 With Strongest PogChamps Field Ever"
       },
       {
          "description" : "The 9th edition of the European Small Nations Team Chess Championship starts this week in Larnaca, Cyprus, and will be held from 14th-23rd November in the Sun Hall Hotel. The event gathers 10 teams from Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, Monaco and San Marino, and each team consists of four players + one reserve player. The European Small Nations Team Chess Championship 2025 will be played in 9 rounds, round robin system, with the time control []",
