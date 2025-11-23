@@ -1,4 +1,6 @@
 jtable([
+"CYPRESS","2025-11-21","30","<a href=https://ratings.uschess.org/event/202511210303 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SPRING","2025-11-21","26","<a href=https://ratings.uschess.org/event/202511210293 target='_blank'>THE FRIDAY KNIGHTS(C:\\USERS\\J\\DOCUM</a>",
 "HOUSTON","2025-11-20","2","<a href=https://ratings.uschess.org/event/202511200033 target='_blank'>MATCH PLAY AW V JMC</a>",
 "HOUSTON","2025-11-16","18","<a href=https://ratings.uschess.org/event/202511160473 target='_blank'>2025 Thanksgiving by AzChAcad</a>",
 "HOUSTON","2025-11-16","49","<a href=https://ratings.uschess.org/event/202511160353 target='_blank'>Houston Fall FIDE 25</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2025-08-17","9","<a href=https://ratings.uschess.org/event/202508174172 target='_blank'>BELLAIRE SUNDAY SWISS 8/17/2025</a>",
 "SPRING","2025-08-15","25","<a href=https://ratings.uschess.org/event/202508152932 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-08-15","34","<a href=https://ratings.uschess.org/event/202508152902 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SUGAR LAND","2025-08-15","23","<a href=https://ratings.uschess.org/event/202508152882 target='_blank'>FBCC 2025 HAWAIIAN SHIRT DAY OPEN</a>",
-"HOUSTON","2025-08-10","16","<a href=https://ratings.uschess.org/event/202508100572 target='_blank'>BELLAIRE SUNDAY SWISS 08/10/25</a>",
 ]);
