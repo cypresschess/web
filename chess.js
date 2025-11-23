@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125514747.cms\" />The contest between childhood Uzbek friends Sindarov and Yakubboev was a short and sweet affair that lasted for 1 hour, 25 minutes. Both young grandmasters played at an accuracy level of 98%. The Four Knights Game of Spanish Variation saw a handshake immediately after the mandatory 30 moves, where both the Uzbekistan semifinalists had a similar structure on the board with equal pawns and a bishop.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/two-candidates-world-cup-finalists-to-be-identified-in-rapid-blitz-tiebreaks/articleshow/125514747.cms",
+         "pubDate" : "Sun, 23 Nov 2025 02:30:30",
+         "title" : "Two candidates, World Cup finalists to be identified in rapid, blitz tiebreaks"
+      },
+      {
          "description" : "Svitlana dedicates the episode to the memory of Daniel \"Danya\" Naroditsky, whose impact as a player, coach, and communicator reached far beyond the chessboard. She explores one of his favourite ideas in the Four Knights Opening - the powerful Nd5!, a move Danya loved to highlight for its elegance and instructional value. This episode blends clear educational insight with a heartfelt tribute, showing how Danya's creative spirit continues to inspire players through the ideas he championed.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,8 +22,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-nov-22-2025",
-         "pubDate" : "Sat, 22 Nov 2025 16:03:57",
-         "title" : "Gurel Cements Status As Number 1 Junior Bullet Brawler"
+         "pubDate" : "Sat, 22 Nov 2025 16:03:00",
+         "title" : "Gurel Cements Status As No. 1 Junior Bullet Brawler"
       },
       {
          "description" : "A lot of improvers struggle with a unhealthy relationship to ratings. So would all be better if there were no ratings at all? I'd argue no. In this Newsletter I want to share the positive side of ratings and why only our interpretation makes them toxic. A World Without Ratings If you struggle with rating []",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-mexican-martinez-rides-indian-wave/articleshow/125317837.cms",
          "pubDate" : "Fri, 14 Nov 2025 05:22:14",
          "title" : "Chess World Cup: Mexican Martinez rides Indian wave"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125317645.cms\" />India's World Cup hopes rest on young Arjun and experienced Harikrishna, who advanced to the pre-quarterfinals. Arjun secured a decisive win against Peter Leko, while Harikrishna overcame Nils Grandelius. Meanwhile, Daniil Dubov eliminated R Praggnandhaa, ending India's challenge in the knockout stage.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggs-world-cup-is-over-dubov-ends-indians-unconvincing-run-arjun-harikrishna-in-last-16/articleshow/125317645.cms",
-         "pubDate" : "Fri, 14 Nov 2025 05:14:01",
-         "title" : "Pragg's World Cup is over! Dubov ends Indian's unconvincing run; Arjun, Harikrishna in last 16"
       },
       {
          "description" : "Editor's note: this story first appeared in the November 2025 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.We also provide a pdf version of the article for those interested in reading it in full layout.Brewington Hardaway breaks through to the GM title. Imagine waiting 25 years to see a dream come true. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> GM Brewington Hardaway (Photo by Caroline King)<br> <br> <br> <br> When I became the first Afr",
