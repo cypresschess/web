@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The FIDE World Cup final will be between Wei Yi of China and Javokhir Sindarov of Uzbekistan, this result mean both have qualified for the FIDE Candidates tournament in Pegeia, Cyprus, 28th March to 16th April 2026. These players join Fabiano Caruana, Anish Giri, Matthias Bluebaum who have already qualified for the Candidates, Hikaru Nakamura is almost certain to qualify on rating, in addition, the winner of the 3rd-4th playoff in this World Cup will also earn a place. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/wei-yi-and-javokhir-sindarov-reach-the-fide-world-cup-final-and-qualify-for-the-candidates-tournament",
+         "pubDate" : "Sun, 23 Nov 2025 14:15:00",
+         "title" : "Wei Yi and Javokhir Sindarov reach the FIDE World Cup final and qualify for the Candidates tournament - 7"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125520706.cms\" />Grandmasters Javokhir Sindarov and Wei Yi have secured their places in the FIDE World Cup 2025 finals and the Candidates tournament after winning their semifinals in tiebreaks. Both players advanced after their classical games ended in draws, with Sindarov defeating fellow Uzbek Nodirbek Yakubboev and Wei Yi overcoming Andrey Esipenko in rapid tiebreaks.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-2025-wei-yi-javokhir-sindarov-advance-to-final-seal-candidates-spots/articleshow/125520706.cms",
+         "pubDate" : "Sun, 23 Nov 2025 14:13:50",
+         "title" : "Chess WC 2025: Wei Yi, Sindarov advance to final, seal Candidates spots"
+      },
+      {
+         "description" : "The World Women's Team Championship is taking place in Linares, Spain, from 18 to 23 November. The knockout stage kicks off on Friday with the quarterfinals: Russia v. Uzbekistan, China v. United States, Azerbaijan v. Georgia and Kazakhstan v. India. A 45+30 time control ensures plenty of excitement in the team competition. | Follow the games live starting at 13.30 CET (8.30 ET, 18.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-live",
+         "pubDate" : "Sun, 23 Nov 2025 13:20:00",
+         "title" : "World Women's Team Championship - Live!"
+      },
+      {
          "description" : "The World Cup is coming to a close: four players remain, and three of them will qualify for the Candidates Tournament. In the semifinals, Wei Yi - the highest-rated player still in the field - faces Andrey Esipenko, the nominally weakest of the four semifinalists. The second pairing is an all-Uzbek encounter: Javokhir Sindarov takes on Nodirbek Yakubboev. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,11 +42,11 @@ news_feed (
          "title" : "Review: All new releases in October!"
       },
       {
-         "description" : "GM Andrey Esipenko was on course to qualify for the 2025 FIDE World Cup final and the Candidates but first missed a win and then blundered a whole rook against GM Wei Yi to lose 1.5-0.5. The Chinese star will face GM Javokhir Sindarov in the final...",
+         "description" : "GM Andrey Esipenko was on course to qualify for the 2025 FIDE World Cup Final and the Candidates but first missed a win and then blundered a whole rook against GM Wei Yi to lose 1.5-0.5. The Chinese star will face GM Javokhir Sindarov in the Final...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-semifinals-tiebreaks",
-         "pubDate" : "Sun, 23 Nov 2025 04:09:16",
+         "pubDate" : "Sun, 23 Nov 2025 04:09:00",
          "title" : "Wei Yi Joins Sindarov In World Cup Final After Esipenko Blunders Rook"
       },
       {
@@ -616,14 +640,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-5-game-1",
          "pubDate" : "Fri, 14 Nov 2025 07:09:00",
          "title" : "19-Year-Old Sindarov Grabs Only Win"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125317837.cms\" />Peruvian-turned-Mexican GM Jose Eduardo Martinez Alcantara is making waves in the chess community with his impressive run in the World Cup. His strategic play, including a notable knight sacrifice, has garnered attention from top Indian chess figures. Martinez's strong performances, even when unexpected, suggest a combination of skill and good fortune are propelling his success.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-mexican-martinez-rides-indian-wave/articleshow/125317837.cms",
-         "pubDate" : "Fri, 14 Nov 2025 05:22:14",
-         "title" : "Chess World Cup: Mexican Martinez rides Indian wave"
       },
       {
          "description" : "Editor's note: this story first appeared in the November 2025 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.We also provide a pdf version of the article for those interested in reading it in full layout.Brewington Hardaway breaks through to the GM title. Imagine waiting 25 years to see a dream come true. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> GM Brewington Hardaway (Photo by Caroline King)<br> <br> <br> <br> When I became the first Afr",
