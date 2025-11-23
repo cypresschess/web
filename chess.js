@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase's October releases cover everything from chess history to opening repertoire and calculation training. In episode 19 of the Master Class series, the expert team of Dorian Rogozenco, Karsten M&uuml;ller, Mihail Marin and Oliver Reeh presents the first World Champion, Wilhelm Steinitz. Robert Ris' new opening course also reaches back to that era, as the opening he examines in depth is named after two classical masters: the Colle & Zukertort System. And who doesn't enjoy looking into the thought processes of grandmasters and world-class trainers? Discover calculation techniques at the highest level - Surya Ganguly's \"Calculation Step by Step\" is sure to climb the ChessBase bestseller ",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-october",
+         "pubDate" : "Sun, 23 Nov 2025 07:00:00",
+         "title" : "Review: All new releases in October!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125514747.cms\" />The contest between childhood Uzbek friends Sindarov and Yakubboev was a short and sweet affair that lasted for 1 hour, 25 minutes. Both young grandmasters played at an accuracy level of 98%. The Four Knights Game of Spanish Variation saw a handshake immediately after the mandatory 30 moves, where both the Uzbekistan semifinalists had a similar structure on the board with equal pawns and a bishop.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
