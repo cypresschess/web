@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ivan Sokolov's new course examines colour-reversed King's Indian and Pirc structures, showing how extra tempi influence typical plans and why these positions feel uncomfortable for humans but not for engines. He analyses key model games from Kramnik, Botvinnik, and Fischer, demonstrating that White usually gets a pleasant setup without a guaranteed advantage, leading to sharp, dynamic battles decided by understanding rather than theory. The course equips practical players, both with white and black, with clear ideas, typical patterns, and concrete plans for navigating these complex reversed-colour systems.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategy-vol-12-reversed-colour-systems-king-s-indian-pirc-defence",
+         "pubDate" : "Sun, 23 Nov 2025 20:00:00",
+         "title" : "Ivan Sokolov: Understanding Middlegame Strategy Vol 12: Reversed Colour Systems - King's Indian/Pirc Defence"
+      },
+      {
          "description" : " The FIDE World Cup final will be between Wei Yi of China and Javokhir Sindarov of Uzbekistan, this result mean both have qualified for the FIDE Candidates tournament in Pegeia, Cyprus, 28th March to 16th April 2026. These players join Fabiano Caruana, Anish Giri, Matthias Bluebaum who have already qualified for the Candidates, Hikaru Nakamura is almost certain to qualify on rating, in addition, the winner of the 3rd-4th playoff in this World Cup will also earn a place. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Chess WC 2025: Wei Yi, Sindarov advance to final, seal Candidates spots"
       },
       {
-         "description" : "The World Women's Team Championship is taking place in Linares, Spain, from 18 to 23 November. The knockout stage kicks off on Friday with the quarterfinals: Russia v. Uzbekistan, China v. United States, Azerbaijan v. Georgia and Kazakhstan v. India. A 45+30 time control ensures plenty of excitement in the team competition. | Follow the games live starting at 13.30 CET (8.30 ET, 18.00 IST)",
+         "description" : "The World Women's Team Championship took place in Linares, Spain, from 18 to 23 November. The knockout stage saw Russia beating China in the semifinals, while Azerbaijan got the better of Kazakhstan. In the final, Russia (FIDE team) defeated Azerbaijan convincingly, while China grabbed third place. | Follow the games live starting at 13.30 CET (8.30 ET, 18.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-live",
@@ -42,7 +50,7 @@ news_feed (
          "title" : "Review: All new releases in October!"
       },
       {
-         "description" : "GM Andrey Esipenko was on course to qualify for the 2025 FIDE World Cup Final and the Candidates but first missed a win and then blundered a whole rook against GM Wei Yi to lose 1.5-0.5. The Chinese star will face GM Javokhir Sindarov in the Final...",
+         "description" : "GM Andrey Esipenko was on course to qualify for the 2025 FIDE World Cup Final and the Candidates but first missed a win and then blundered a whole rook in the next move against GM Wei Yi. The Chinese star will face GM Javokhir Sindarov, the younge...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-semifinals-tiebreaks",
