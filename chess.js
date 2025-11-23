@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Cup is coming to a close: four players remain, and three of them will qualify for the Candidates Tournament. In the semifinals, Wei Yi - the highest-rated player still in the field - faces Andrey Esipenko, the nominally weakest of the four semifinalists. The second pairing is an all-Uzbek encounter: Javokhir Sindarov takes on Nodirbek Yakubboev. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
+         "pubDate" : "Sun, 23 Nov 2025 10:20:00",
+         "title" : "FIDE World Cup, Semifinals - Live!"
+      },
+      {
          "description" : "ChessBase's October releases cover everything from chess history to opening repertoire and calculation training. In episode 19 of the Master Class series, the expert team of Dorian Rogozenco, Karsten M&uuml;ller, Mihail Marin and Oliver Reeh presents the first World Champion, Wilhelm Steinitz. Robert Ris' new opening course also reaches back to that era, as the opening he examines in depth is named after two classical masters: the Colle & Zukertort System. And who doesn't enjoy looking into the thought processes of grandmasters and world-class trainers? Discover calculation techniques at the highest level - Surya Ganguly's \"Calculation Step by Step\" is sure to climb the ChessBase bestseller ",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/review-all-new-releases-in-october",
          "pubDate" : "Sun, 23 Nov 2025 07:00:00",
          "title" : "Review: All new releases in October!"
+      },
+      {
+         "description" : "GM Andrey Esipenko was on course to qualify for the 2025 FIDE World Cup final and the Candidates but first missed a win and then blundered a whole rook against GM Wei Yi to lose 1.5-0.5. The Chinese star will face GM Javokhir Sindarov in the final...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-semifinals-tiebreaks",
+         "pubDate" : "Sun, 23 Nov 2025 04:09:16",
+         "title" : "Wei Yi Joins Sindarov In World Cup Final After Esipenko Blunders Rook"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125514747.cms\" />The contest between childhood Uzbek friends Sindarov and Yakubboev was a short and sweet affair that lasted for 1 hour, 25 minutes. Both young grandmasters played at an accuracy level of 98%. The Four Knights Game of Spanish Variation saw a handshake immediately after the mandatory 30 moves, where both the Uzbekistan semifinalists had a similar structure on the board with equal pawns and a bishop.",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://www.thearticle.com/self-mate-suicide-in-chess/",
          "pubDate" : "Sat, 22 Nov 2025 12:59:36",
          "title" : "Self-mate: suicide in chess"
-      },
-      {
-         "description" : "The World Cup is coming to a close: four players remain, and three of them will qualify for the Candidates Tournament. In the semifinals, Wei Yi - the highest-rated player still in the field - faces Andrey Esipenko, the nominally weakest of the four semifinalists. The second pairing is an all-Uzbek encounter: Javokhir Sindarov takes on Nodirbek Yakubboev. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Sat, 22 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup, Semifinals - Live!"
       },
       {
          "description" : "The concept behind Chessbase's \"60-minute\" courses is simple: a one-hour video course for just under 10 Euros. There are also courses on middle game and endgame topics, but most courses focus on quite \"specialised\" opening variations. In the second instalment of a short series, Jochen Schwarz presents the most important 60-minute courses for 1.e4 players against the French Defence.",
@@ -624,14 +632,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/inside-story-long-time-coming",
          "pubDate" : "Fri, 14 Nov 2025 00:00:00",
          "title" : "Inside Story: A Long Time Coming"
-      },
-      {
-         "description" : "The Collegiate Chess League Fall 2025 Season Playoffs are upon us, and you can join in on the excitement by predicting who wins!&#38;nbsp; Will SLU defend their championship title, or will Mizzou get their revenge? Will UT Dallas earn their first ch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/win-prizes-in-the-fall-2025-ccl-predictions-challenge",
-         "pubDate" : "Thu, 13 Nov 2025 17:48:35",
-         "title" : "Win Prizes In The Fall 2025 CCL Predictions Challenge"
       },
       {
          "description" : "GM Gajewski speaks to ESPN after Gukesh's shock early exit from the FIDE World Cup on lessons learnt from a tough 2025",
