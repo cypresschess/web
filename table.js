@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2025-11-23","15","<a href=https://ratings.uschess.org/event/202511230453 target='_blank'>Bellaire Sunday Swiss 2025.11.23</a>",
+"HOUSTON","2025-11-22","56","<a href=https://ratings.uschess.org/event/202511221113 target='_blank'>NOV 22ND SATURDAY SWISS</a>",
 "CYPRESS","2025-11-21","30","<a href=https://ratings.uschess.org/event/202511210303 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2025-11-21","26","<a href=https://ratings.uschess.org/event/202511210293 target='_blank'>THE FRIDAY KNIGHTS(C:\\USERS\\J\\DOCUM</a>",
 "HOUSTON","2025-11-20","2","<a href=https://ratings.uschess.org/event/202511200033 target='_blank'>MATCH PLAY AW V JMC</a>",
@@ -97,6 +99,4 @@ jtable([
 "CYPRESS","2025-08-22","40","<a href=https://ratings.uschess.org/event/202508226352 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-08-17","12","<a href=https://ratings.uschess.org/event/202508175302 target='_blank'>AUGUST 17TH-9AM G/60+30</a>",
 "HOUSTON","2025-08-17","9","<a href=https://ratings.uschess.org/event/202508174172 target='_blank'>BELLAIRE SUNDAY SWISS 8/17/2025</a>",
-"SPRING","2025-08-15","25","<a href=https://ratings.uschess.org/event/202508152932 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2025-08-15","34","<a href=https://ratings.uschess.org/event/202508152902 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
