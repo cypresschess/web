@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 9th edition of the European Small Nations Team Chess Championship took place from 15-22 November in Larnaca, Cyprus. After nine played rounds, two teams tied for the top scoring 16 match points each: Faroe Islands and Andorra. With the higher score of the game points, Faroe Islands emerged as the Winner of the event and clinched the title. Andorra claimed silver medal. Scoring 15 match points, Cyprus won bronze medal. The Closing Ceremony of the even took place with []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-small-nations-team-chess-champions-2025-crowned-in-cyprus/",
+         "pubDate" : "Mon, 24 Nov 2025 10:31:09",
+         "title" : "European Small Nations Team Chess Champions 2025 crowned in Cyprus"
+      },
+      {
+         "description" : "The final match of the World Cup sees Wei Yi and Javokhir Sindarov fighting for the title and the $120,000 winner's prize. Meanwhile, Andrey Esipenko and Nodirbek Yakubboev are playing a particularly relevant match for third place, as the winner will get a spot in the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
+         "pubDate" : "Mon, 24 Nov 2025 10:20:00",
+         "title" : "FIDE World Cup, Finals - Live!"
+      },
+      {
          "description" : "Russia, competing as the FIDE team, claimed gold at the World Women's Team Championship in Linares, capping an unbeaten run that carried them through both the pool stage and knockout rounds without requiring a single tiebreak. Azerbaijan finished second after an impressive campaign, while China secured bronze by defeating Kazakhstan. The event featured a standout individual performance from Polina Shuvalova, who scored an exceptional 9&frac12;/10 on board three for the champions. | Photo: Pavel Dvorkovich",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -450,7 +466,7 @@ news_feed (
          "title" : "Ukraine Files Protest Vs. Russian 'Team FIDE' In Women's World Team Championship"
       },
       {
-         "description" : "Please find the Under 12 certificates, Under 18 will be published soon . For any query please write back to indainchessfed@gmail.com UNDER 12 S.No Name",
+         "description" : "Please find the Under 12 &#38; 18 certificates . For any query please write back to indainchessfed@gmail.com UNDER 12 S.No Name Team Name 1 Aarav",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/certificate-of-national-school-teamu-12-u-18-chess-championship-2025-in-shimla-from-12-14-oct-2025/",
@@ -776,14 +792,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/11/05/jay-williams-on-finance-and-chess/",
          "pubDate" : "Wed, 05 Nov 2025 15:46:41",
          "title" : "Jay Williams on Finance and Chess"
-      },
-      {
-         "description" : "The Annual ECU General Assembly was hosted by the Georgian Chess Federation in Batumi on 10 October 2025 under excellent conditions.&#160; Forty-three federations were present. The ECU General Assembly was greeted by the President of the Georgian Chess Federation, Mr Akaki Iashvili, the President of the World Chess Federation (FIDE), Mr Arkady Dvorkovich. The President of ECU Mr. Zurab Azmairapashvili welcomed all participants.&#160; Main information and decisions Tournament Rules&#160; European Chess Championships ECU Commissions The next ECU General Assembly will []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/communique-of-the-ecu-general-assembly-in-batumi-georgia/",
-         "pubDate" : "Mon, 03 Nov 2025 09:54:14",
-         "title" : "Communique of the ECU General Assembly in Batumi, Georgia"
       }
    ]
 }
