@@ -776,14 +776,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-general-assembly-in-batumi-georgia/",
          "pubDate" : "Mon, 03 Nov 2025 09:54:14",
          "title" : "Communique of the ECU General Assembly in Batumi, Georgia"
-      },
-      {
-         "description" : "Five rounds have been already played at the European Youth Chess Championship 2025 in Budva, Montenegro, and only four rounds left before the announcement of the Winners! Out of nearly 1200 young talents, only a handful have managed to keep a perfect 5/5 score. Tomorrow serves as a well-deserved rest day, before the battles resume on Tuesday, November 4, with Round 6. Heading to tomorrow's free day, Bilge Arslan (TUR) stands alone atop the Girls U8 section with a flawless []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-championship-2025-is-halfway-through/",
-         "pubDate" : "Sun, 02 Nov 2025 21:11:10",
-         "title" : "European Youth Chess Championship 2025 is halfway through"
       }
    ]
 }
