@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Russia, competing as the FIDE team, claimed gold at the World Women's Team Championship in Linares, capping an unbeaten run that carried them through both the pool stage and knockout rounds without requiring a single tiebreak. Azerbaijan finished second after an impressive campaign, while China secured bronze by defeating Kazakhstan. The event featured a standout individual performance from Polina Shuvalova, who scored an exceptional 9&frac12;/10 on board three for the champions. | Photo: Pavel Dvorkovich",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-final-report",
+         "pubDate" : "Mon, 24 Nov 2025 08:00:00",
+         "title" : "World Women's Team Championship: A convincing victory for FIDE Team"
+      },
+      {
          "description" : "Two players secured their places in the 2026 Candidates Tournament after Sunday's semifinal tiebreaks at the FIDE World Cup in Goa. Wei Yi and Javokhir Sindarov (pictured) both prevailed by a 2&frac12;-1&frac12; score in their matches against Andrey Esipenko and Nodirbek Yakubboev, respectively. Wei's victory came after Esipenko unexpectedly blundered his rook, while Sindarov kept things under control throughout against his compatriot. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +66,7 @@ news_feed (
          "title" : "Review: All new releases in October!"
       },
       {
-         "description" : "GM Andrey Esipenko was on course to qualify for the 2025 FIDE World Cup Final and the Candidates but first missed a win and then blundered a whole rook in the next move against GM Wei Yi. The Chinese star will face GM Javokhir Sindarov, the younge...",
+         "description" : "GM Andrey Esipenko was on course to qualify for the 2025 FIDE World Cup Final and the Candidates but first missed a win and then blundered a whole rook in the next move against GM Wei Yi. The Chinese star will face GM Javokhir Sindarov, after the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-semifinals-tiebreaks",
