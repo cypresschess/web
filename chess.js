@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125542456.cms\" />Young chess prodigy Bodhana Sivanandan, just ten years old, triumphed at the UK Open Blitz Championships, clinching the women's title and a &pound;500 prize. Her remarkable performance saw her score 13.5/15 points. Meanwhile, veteran Grandmaster Daniel Gormally secured the Open Blitz championship, earning &pound;1,000 with 11.5/15 points, narrowly edging out promising 16-year-old Stanley Badacsonyi.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/10-year-old-indian-origin-british-prodigy-bodhana-sivanandan-shocks-chess-world-wins-uk-womens-blitz-championship/articleshow/125542456.cms",
+         "pubDate" : "Mon, 24 Nov 2025 13:46:08",
+         "title" : "10-year-old Sivanandan wins UK Women's Blitz Championship"
+      },
+      {
          "description" : "The 9th edition of the European Small Nations Team Chess Championship took place from 15-22 November in Larnaca, Cyprus. After nine played rounds, two teams tied for the top scoring 16 match points each: Faroe Islands and Andorra. With the higher score of the game points, Faroe Islands emerged as the Winner of the event and clinched the title. Andorra claimed silver medal. Scoring 15 match points, Cyprus won bronze medal. The Closing Ceremony of the even took place with []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -18,12 +26,36 @@ news_feed (
          "title" : "FIDE World Cup, Finals - Live!"
       },
       {
+         "description" : "We&#39;re excited to announce a special Black Friday deal on ChessUp 2. Save big and enjoy your holidays playing chess using the world&#39;s smartest chessboard! ChessUp&#39;s biggest annual sale is on now until December 1, and you can save an additional 10...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chessup-2-black-friday-deal-2025",
+         "pubDate" : "Mon, 24 Nov 2025 08:00:00",
+         "title" : "Save More Than Ever On Your New ChessUp 2 Smart Chessboard"
+      },
+      {
          "description" : "Russia, competing as the FIDE team, claimed gold at the World Women's Team Championship in Linares, capping an unbeaten run that carried them through both the pool stage and knockout rounds without requiring a single tiebreak. Azerbaijan finished second after an impressive campaign, while China secured bronze by defeating Kazakhstan. The event featured a standout individual performance from Polina Shuvalova, who scored an exceptional 9&frac12;/10 on board three for the champions. | Photo: Pavel Dvorkovich",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-final-report",
          "pubDate" : "Mon, 24 Nov 2025 08:00:00",
          "title" : "World Women's Team Championship: A convincing victory for FIDE Team"
+      },
+      {
+         "description" : "GM Andrey Esipenko recovered from his heartbreaking blunder the day before to beat GM Nodirbek Yakubboev. He now leads the battle for both third place in the 2025 FIDE World Cup and the final spot in the 2026 FIDE Candidates Tournament. In the tit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-final-game-1",
+         "pubDate" : "Mon, 24 Nov 2025 06:16:00",
+         "title" : "Esipenko Hits Back To Lead Candidates Battle"
+      },
+      {
+         "description" : "After nearly four decades, cult classic musical Chess returned to Broadway last weekend, welcomed by many fans and earning a range of reactions from critics. As Chess.com reported back in May, the revival marks the first Broadway production of t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-the-musical-returns-to-broadway",
+         "pubDate" : "Mon, 24 Nov 2025 05:49:00",
+         "title" : "Reviews Are In, Chess The Musical Back On Broadway After 37 Years"
       },
       {
          "description" : "Two players secured their places in the 2026 Candidates Tournament after Sunday's semifinal tiebreaks at the FIDE World Cup in Goa. Wei Yi and Javokhir Sindarov (pictured) both prevailed by a 2&frac12;-1&frac12; score in their matches against Andrey Esipenko and Nodirbek Yakubboev, respectively. Wei's victory came after Esipenko unexpectedly blundered his rook, while Sindarov kept things under control throughout against his compatriot. | Photo: Michal Walusza",
@@ -594,14 +626,6 @@ news_feed (
          "title" : "Arjun Beats Aronian To Reach World Cup Quarterfinals"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125340716.cms\" />Levon Aronian and P Harikrishna drew their World Cup pre-quarterfinal first games and will aim to leverage their white pieces in Saturday's decisive return matches. Most of the day's games ended in draws, setting the stage for tense tiebreaks as several lower-seeded players kept their upset hopes alive.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/levon-aronian-p-harikrishna-face-decisive-final-games-javokhir-sindarov-scores-lone-win-of-the-day/articleshow/125340716.cms",
-         "pubDate" : "Sat, 15 Nov 2025 03:31:03",
-         "title" : "Aronian, Harikrishna face decisive final games; Sindarov scores lone win of the day"
-      },
-      {
          "description" : "GM Magnus Carlsen overcame mid-match hiccups to overpower GM Fabiano Caruana with a 14.5-7.5 final score and reach the Semifinals of the Speed Chess Championship 2025. Starting as an overwhelming favorite, Carlsen was actively pursued by Caruana...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -626,22 +650,6 @@ news_feed (
          "title" : "Martinez, Firouzja, Sarana Win Inaugural 3 0 Thursday Tournaments"
       },
       {
-         "description" : "GM Hans Niemann won&#38;nbsp;Freestyle Friday with a round still to play on November 14, becoming the ninth multi-time winner of the event. Niemann raced out to a 6/6 start before facing his only setback, a seventh-round loss to GM Haik Martirosyan, t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/niemann-wins-freestyle-friday-november-14-2025",
-         "pubDate" : "Fri, 14 Nov 2025 11:08:52",
-         "title" : "Niemann Coasts To Freestyle Friday Victory"
-      },
-      {
-         "description" : "Capital One won the North American Corporate Chess League Season 12, its second title since the league&#39;s inception. IM Craig Hilby led the team on board one, along with Maury Ahram, Alex Cook, Marco Flores, and Haider Munir on the tiebreak board. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/capital-one-wins-naccl-season12",
-         "pubDate" : "Fri, 14 Nov 2025 09:50:22",
-         "title" : "Capital One Wins 2nd Title In NACCL Season 12"
-      },
-      {
          "description" : "Please find the certificates .For any query write back to Indianchessfed@gmail.com No Name1 Sai Harshavardhan J2 Prabhu Trichy Srinivasan3 Manikandan J4 Vaishnavi Selvaraj5 Dharanya G6",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-chess-championship-2026-official-invitation/",
          "pubDate" : "Fri, 14 Nov 2025 07:38:51",
          "title" : "European Senior Chess Championship 2026 - Official invitation"
-      },
-      {
-         "description" : "Nineteen-year-old GM Javokhir Sindarov&#39;s relentless pressure finally gave him a win over GM Frederik Svane as round five of the 2025 FIDE World Cup began. All the remaining games were drawn, with GM Levon Aronian surviving a fierce attack by GM Ar...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-5-game-1",
-         "pubDate" : "Fri, 14 Nov 2025 07:09:00",
-         "title" : "19-Year-Old Sindarov Grabs Only Win"
       },
       {
          "description" : "Editor's note: this story first appeared in the November 2025 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.We also provide a pdf version of the article for those interested in reading it in full layout.Brewington Hardaway breaks through to the GM title. Imagine waiting 25 years to see a dream come true. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> GM Brewington Hardaway (Photo by Caroline King)<br> <br> <br> <br> When I became the first Afr",
