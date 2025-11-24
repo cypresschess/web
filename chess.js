@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two players secured their places in the 2026 Candidates Tournament after Sunday's semifinal tiebreaks at the FIDE World Cup in Goa. Wei Yi and Javokhir Sindarov (pictured) both prevailed by a 2&frac12;-1&frac12; score in their matches against Andrey Esipenko and Nodirbek Yakubboev, respectively. Wei's victory came after Esipenko unexpectedly blundered his rook, while Sindarov kept things under control throughout against his compatriot. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-r7tb",
+         "pubDate" : "Mon, 24 Nov 2025 04:50:00",
+         "title" : "World Cup: Wei and Sindarov make it to the Candidates"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125530030.cms\" />While 19-year-old Sindarov defeated childhood friend Yakubboev Nodirbek in an all-Uzbekistan semifinal by snatching an early lead, the battle between Russia No. 2 Andrey Esipenko and world rapid No. 4 Wei was a contest of blunders, won by the \"lucky\" Chinese GM.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/wei-yi-sindarov-javokhir-the-new-candidates/articleshow/125530030.cms",
+         "pubDate" : "Mon, 24 Nov 2025 02:45:22",
+         "title" : "Wei Yi, Sindarov Javokhir the new Candidates"
+      },
+      {
          "description" : "Ivan Sokolov's new course examines colour-reversed King's Indian and Pirc structures, showing how extra tempi influence typical plans and why these positions feel uncomfortable for humans but not for engines. He analyses key model games from Kramnik, Botvinnik, and Fischer, demonstrating that White usually gets a pleasant setup without a guaranteed advantage, leading to sharp, dynamic battles decided by understanding rather than theory. The course equips practical players, both with white and black, with clear ideas, typical patterns, and concrete plans for navigating these complex reversed-colour systems.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-live",
          "pubDate" : "Sun, 23 Nov 2025 13:20:00",
          "title" : "World Women's Team Championship - Live!"
-      },
-      {
-         "description" : "The World Cup is coming to a close: four players remain, and three of them will qualify for the Candidates Tournament. In the semifinals, Wei Yi - the highest-rated player still in the field - faces Andrey Esipenko, the nominally weakest of the four semifinalists. The second pairing is an all-Uzbek encounter: Javokhir Sindarov takes on Nodirbek Yakubboev. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Sun, 23 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup, Semifinals - Live!"
       },
       {
          "description" : "ChessBase's October releases cover everything from chess history to opening repertoire and calculation training. In episode 19 of the Master Class series, the expert team of Dorian Rogozenco, Karsten M&uuml;ller, Mihail Marin and Oliver Reeh presents the first World Champion, Wilhelm Steinitz. Robert Ris' new opening course also reaches back to that era, as the opening he examines in depth is named after two classical masters: the Colle & Zukertort System. And who doesn't enjoy looking into the thought processes of grandmasters and world-class trainers? Discover calculation techniques at the highest level - Surya Ganguly's \"Calculation Step by Step\" is sure to climb the ChessBase bestseller ",
@@ -584,14 +592,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2025-us-senior-womens-championship-opening-ceremony-and-round-1",
          "pubDate" : "Sat, 15 Nov 2025 00:00:00",
          "title" : "2025 U.S. Senior Women's Championship: Opening Ceremony and Round 1"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125330180.cms\" />Indian Grandmasters P Harikrishna and Arjun Erigaisi secured draws in their fifth-round FIDE World Cup matches against tough opponents. Harikrishna expertly navigated an endgame despite being a pawn down, while Erigaisi's pressure on Levon Aronian ultimately led to a peaceful resolution. Many players opted for caution, leading to several draws as the tournament narrows down.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-p-harikrishna-arjun-erigaisi-secure-draws-in-fifth-round-of-chess-showdown/articleshow/125330180.cms",
-         "pubDate" : "Fri, 14 Nov 2025 15:15:35",
-         "title" : "Chess World Cup: Harikrishna, Arjun secure draws in fifth round of showdown"
       },
       {
          "description" : "GMs Jose Martinez, Alireza Firouzja, and Alexey Sarana won the first three 3 0 Thursday events, which were held on November 13. It was the debut set of tournaments for the most popular time control on Chess.com for titled players. 3 0 Thursday fit...",
