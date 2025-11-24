@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 15 November, the Stavenhagenhaus, a splendid early 18th-century manor house in Hamburg, Germany, hosted a special event. The local community had invited Germany's top female player and only woman GM, Elisabeth P&auml;htz, for a simul. P&auml;htz offered an engaging chess lesson and then won her simul against 20 opponents. | Photos: Uwe Schr&ouml;der",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/simul-with-elisabeth-paehtz-at-the-stavenhagenhaus",
+         "pubDate" : "Mon, 24 Nov 2025 18:00:00",
+         "title" : "Simul with Elisabeth P&auml;htz at the Stavenhagenhaus"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125544293.cms\" />Wei Yi drew his first FIDE World Cup final game against Javokhir Sindarov. Wei Yi played with black pieces and secured a draw. Andrey Esipenko won the third-place match against Nodirbek Yakubboev. Esipenko's victory puts him in a strong position for the Candidates tournament. The FIDE World Cup 2025 final continues.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-2025-wei-yi-holds-javokhir-sindarov-with-black-pieces-andrey-esipenko-beats-nodirbek-yakubboev-in-third-place-match/articleshow/125544293.cms",
+         "pubDate" : "Mon, 24 Nov 2025 16:26:30",
+         "title" : "Chess WC: Wei Yi holds Sindarov with black pieces; Esipenko wins"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125542456.cms\" />Young chess prodigy Bodhana Sivanandan, just ten years old, triumphed at the UK Open Blitz Championships, clinching the women's title and a &pound;500 prize. Her remarkable performance saw her score 13.5/15 points. Meanwhile, veteran Grandmaster Daniel Gormally secured the Open Blitz championship, earning &pound;1,000 with 11.5/15 points, narrowly edging out promising 16-year-old Stanley Badacsonyi.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/10-year-old-indian-origin-british-prodigy-bodhana-sivanandan-shocks-chess-world-wins-uk-womens-blitz-championship/articleshow/125542456.cms",
          "pubDate" : "Mon, 24 Nov 2025 13:46:08",
          "title" : "10-year-old Sivanandan wins UK Women's Blitz Championship"
+      },
+      {
+         "description" : "Update: Anna Cramling&#39;s 1.d4 repertoire is now complete with the release of Part 2, fighting the King&#39;s Indian, Nimzo-Indian, Dutch, and more Enough with prep collapsing or panicking before move 10&#38;mdash;steer the game toward positions that you ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/anna-cramling-d4-repertoire-course",
+         "pubDate" : "Mon, 24 Nov 2025 12:00:00",
+         "title" : "Anna Cramling Makes Chessable Debut With 1.d4 Course"
       },
       {
          "description" : "The 9th edition of the European Small Nations Team Chess Championship took place from 15-22 November in Larnaca, Cyprus. After nine played rounds, two teams tied for the top scoring 16 match points each: Faroe Islands and Andorra. With the higher score of the game points, Faroe Islands emerged as the Winner of the event and clinched the title. Andorra claimed silver medal. Scoring 15 match points, Cyprus won bronze medal. The Closing Ceremony of the even took place with []",
@@ -72,6 +96,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/wei-yi-sindarov-javokhir-the-new-candidates/articleshow/125530030.cms",
          "pubDate" : "Mon, 24 Nov 2025 02:45:22",
          "title" : "Wei Yi, Sindarov Javokhir the new Candidates"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy FIDE/Raul Martinez<br> <br> <br> <br> The FIDE team (Russia) won the 2025 FIDE World Women's Team Championship, winning both matches over an underdog Azerbaijan team - which finished fourth in Group A during the Pool Stage - in the finals. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> From left, the Russian, Azerbaijani, and Chinese teams. (Photos courtesy FIDE/Raul Martinez (L) and FIDE/Pavel Dvorkovich)<br> <br> China won both matches over Kazakhstan to cla",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/russia-wins-fide-world-womens-team-championship-china-eliminates-usa-quarterfinals",
+         "pubDate" : "Mon, 24 Nov 2025 00:00:00",
+         "title" : "Russia Wins FIDE World Women's Team Championship, China Eliminates USA in Quarterfinals"
       },
       {
          "description" : "Ivan Sokolov's new course examines colour-reversed King's Indian and Pirc structures, showing how extra tempi influence typical plans and why these positions feel uncomfortable for humans but not for engines. He analyses key model games from Kramnik, Botvinnik, and Fischer, demonstrating that White usually gets a pleasant setup without a guaranteed advantage, leading to sharp, dynamic battles decided by understanding rather than theory. The course equips practical players, both with white and black, with clear ideas, typical patterns, and concrete plans for navigating these complex reversed-colour systems.",
@@ -578,14 +610,6 @@ news_feed (
          "title" : "2025 U.S. Senior Women's Championship: Belakovskaia Leads With Perfect Score"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125351201.cms\" />Arjun's next move, a pleasing-to-the-eye knight sacrifice proved to be the final nail as the Indian is now three wins away from annexing the World Cup.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-arjun-erigaisi-storms-into-quarterfinals/articleshow/125351201.cms",
-         "pubDate" : "Sat, 15 Nov 2025 16:49:27",
-         "title" : "FIDE World Cup: Arjun Erigaisi storms into quarterfinals"
-      },
-      {
          "description" : "GM Nihal Sarin secured his third Bullet Brawl title and the $400 first prize on Saturday after going unbeaten in his last seven games. Nihal scored two wins over GM Hikaru Nakamura, and defeated GM Praggnanandhaa Rameshbabu and IM Reza Mahdavi bef...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -642,14 +666,6 @@ news_feed (
          "title" : "2025 U.S. Senior Women's Championship: Opening Ceremony and Round 1"
       },
       {
-         "description" : "GMs Jose Martinez, Alireza Firouzja, and Alexey Sarana won the first three 3 0 Thursday events, which were held on November 13. It was the debut set of tournaments for the most popular time control on Chess.com for titled players. 3 0 Thursday fit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/martinez-firouzja-sarana-3-0-thursday-11-13-25",
-         "pubDate" : "Fri, 14 Nov 2025 12:10:00",
-         "title" : "Martinez, Firouzja, Sarana Win Inaugural 3 0 Thursday Tournaments"
-      },
-      {
          "description" : "Please find the certificates .For any query write back to Indianchessfed@gmail.com No Name1 Sai Harshavardhan J2 Prabhu Trichy Srinivasan3 Manikandan J4 Vaishnavi Selvaraj5 Dharanya G6",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -672,14 +688,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-chess-championship-2026-official-invitation/",
          "pubDate" : "Fri, 14 Nov 2025 07:38:51",
          "title" : "European Senior Chess Championship 2026 - Official invitation"
-      },
-      {
-         "description" : "Editor's note: this story first appeared in the November 2025 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.We also provide a pdf version of the article for those interested in reading it in full layout.Brewington Hardaway breaks through to the GM title. Imagine waiting 25 years to see a dream come true. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> GM Brewington Hardaway (Photo by Caroline King)<br> <br> <br> <br> When I became the first Afr",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/inside-story-long-time-coming",
-         "pubDate" : "Fri, 14 Nov 2025 00:00:00",
-         "title" : "Inside Story: A Long Time Coming"
       },
       {
          "description" : "GM Gajewski speaks to ESPN after Gukesh's shock early exit from the FIDE World Cup on lessons learnt from a tough 2025",
