@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final stage of the FIDE World Cup began in Goa on Tuesday, with Wei Yi and Javokhir Sindarov opening their title match and Andrey Esipenko and Nodirbek Yakubboev starting their fight for the last remaining Candidates spot. Both encounters produced entertaining struggles: Wei pressed slightly in a Petroff Defence before the game was drawn, while Esipenko responded to his painful semifinal exit with a confident win to take the lead in the third-place match. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-r8g1",
+         "pubDate" : "Mon, 24 Nov 2025 23:25:00",
+         "title" : "World Cup: Esipenko beats Yakubboev"
+      },
+      {
          "description" : "On 15 November, the Stavenhagenhaus, a splendid early 18th-century manor house in Hamburg, Germany, hosted a special event. The local community had invited Germany's top female player and only woman GM, Elisabeth P&auml;htz, for a simul. P&auml;htz offered an engaging chess lesson and then won her simul against 20 opponents. | Photos: Uwe Schr&ouml;der",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +34,14 @@ news_feed (
          "title" : "10-year-old Sivanandan wins UK Women's Blitz Championship"
       },
       {
+         "description" : "It wasn&#39;t easy, but the St. Louis University (SLU) chess team won the&#38;nbsp;Collegiate Chess League (CCL) championship, defeating the University of Texas, Dallas, 8.5-7.5 in a tense match. SLU also won the championship in the Spring 2025 season, jo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/slu-defeats-utd-repeats-as-collegiate-chess-league-champions",
+         "pubDate" : "Mon, 24 Nov 2025 12:30:01",
+         "title" : "SLU Defeats UTD, Repeats as Collegiate Chess League Champions"
+      },
+      {
          "description" : "Update: Anna Cramling&#39;s 1.d4 repertoire is now complete with the release of Part 2, fighting the King&#39;s Indian, Nimzo-Indian, Dutch, and more Enough with prep collapsing or panicking before move 10&#38;mdash;steer the game toward positions that you ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-small-nations-team-chess-champions-2025-crowned-in-cyprus/",
          "pubDate" : "Mon, 24 Nov 2025 10:31:09",
          "title" : "European Small Nations Team Chess Champions 2025 crowned in Cyprus"
-      },
-      {
-         "description" : "The final match of the World Cup sees Wei Yi and Javokhir Sindarov fighting for the title and the $120,000 winner's prize. Meanwhile, Andrey Esipenko and Nodirbek Yakubboev are playing a particularly relevant match for third place, as the winner will get a spot in the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Mon, 24 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup, Finals - Live!"
       },
       {
          "description" : "We&#39;re excited to announce a special Black Friday deal on ChessUp 2. Save big and enjoy your holidays playing chess using the world&#39;s smartest chessboard! ChessUp&#39;s biggest annual sale is on now until December 1, and you can save an additional 10...",
@@ -96,6 +104,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/wei-yi-sindarov-javokhir-the-new-candidates/articleshow/125530030.cms",
          "pubDate" : "Mon, 24 Nov 2025 02:45:22",
          "title" : "Wei Yi, Sindarov Javokhir the new Candidates"
+      },
+      {
+         "description" : "The 9th Annual New York State Girls Championship was held November 15-16, hosted by Columbia Grammar and Preparatory School on the Upper West Side in Manhattan, and presented by Chess Center of New York and Little House of Chess. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Columbia Grammar and Preparatory School hosted 620 girls for the record-breaking event. (Photos courtesy of the organizers)<br> <br> <br> <br> A total of 620 girls competed across nine sections, setting not only a new record for the event, but also a record for a US Chess girls' tournament. This year, 73 teams competed in the event. <br> <br> <br> <br> Image<br> <br> <br> <br> <b",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/9th-annual-new-york-state-girls-championship-breaks-attendance-records",
+         "pubDate" : "Mon, 24 Nov 2025 00:00:00",
+         "title" : "9th Annual New York State Girls Championship Breaks Attendance Records"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy FIDE/Raul Martinez<br> <br> <br> <br> The FIDE team (Russia) won the 2025 FIDE World Women's Team Championship, winning both matches over an underdog Azerbaijan team - which finished fourth in Group A during the Pool Stage - in the finals. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> From left, the Russian, Azerbaijani, and Chinese teams. (Photos courtesy FIDE/Raul Martinez (L) and FIDE/Pavel Dvorkovich)<br> <br> China won both matches over Kazakhstan to cla",
@@ -648,22 +664,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-5-game-2",
          "pubDate" : "Sat, 15 Nov 2025 07:32:00",
          "title" : "Arjun Beats Aronian To Reach World Cup Quarterfinals"
-      },
-      {
-         "description" : "GM Magnus Carlsen overcame mid-match hiccups to overpower GM Fabiano Caruana with a 14.5-7.5 final score and reach the Semifinals of the Speed Chess Championship 2025. Starting as an overwhelming favorite, Carlsen was actively pursued by Caruana...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-qf-carlsen-caruana",
-         "pubDate" : "Sat, 15 Nov 2025 03:05:00",
-         "title" : "Carlsen First To Book Ticket To London Finals"
-      },
-      {
-         "description" : "The 2025 U.S. Senior Women's Championship players are buzzing with excitement to be in the \"Beehive State.\" And they aren't the only ones. At the opening ceremony, US Chess Interim Executive Director Franc Guadalupe, who flew to the Salt Lake City airport from Houston, TX, was delighted to address the country's top women players aged 50 and older. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> From left: US Chess Interim Executive Director Franc Guadalupe, commentator WGM Sabina Foisor, and players at the opening ceremony. (Photos by Rachel Findlay)<br> <br> He",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-us-senior-womens-championship-opening-ceremony-and-round-1",
-         "pubDate" : "Sat, 15 Nov 2025 00:00:00",
-         "title" : "2025 U.S. Senior Women's Championship: Opening Ceremony and Round 1"
       },
       {
          "description" : "Please find the certificates .For any query write back to Indianchessfed@gmail.com No Name1 Sai Harshavardhan J2 Prabhu Trichy Srinivasan3 Manikandan J4 Vaishnavi Selvaraj5 Dharanya G6",
