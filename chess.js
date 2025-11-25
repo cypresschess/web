@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final match of the World Cup sees Wei Yi and Javokhir Sindarov fighting for the title and the $120,000 winner's prize. Meanwhile, Andrey Esipenko and Nodirbek Yakubboev are playing a particularly relevant match for third place, as the winner will get a spot in the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
+         "pubDate" : "Tue, 25 Nov 2025 10:20:00",
+         "title" : "FIDE World Cup, Finals - Live!"
+      },
+      {
+         "description" : "The European Amateur Chess Championships 2025 is set to take place from 25 November to 5 December in Mellieha, Malta. The event is played in three age categories: U2300, U2000, and U1700, and each Championship will be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for each move starting from move one. The event is played at the Conference Hall []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-amateur-chess-championship-2025-starts-in-malta/",
+         "pubDate" : "Tue, 25 Nov 2025 09:57:56",
+         "title" : "European Amateur Chess Championship 2025 starts in Malta"
+      },
+      {
+         "description" : "The quarterfinals of the 2025 Speed Chess Championship have concluded, producing two compelling semifinal pairings for the live stage in London this February. Magnus Carlsen will face Denis Lazavik, while Hikaru Nakamura is set to meet Alireza Firouzja in a clash of leading speed-play specialists. The event, organised by chess.com, continues to combine online matchplay with an on-site finale, bringing rapid-fire chess to a live audience on 7-8 February 2026.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-ch-2025-26-qf",
+         "pubDate" : "Tue, 25 Nov 2025 09:20:00",
+         "title" : "Speed Chess Championship: Carlsen, Nakamura, Firouzja and Lazavik in semis"
+      },
+      {
          "description" : "The final stage of the FIDE World Cup began in Goa on Tuesday, with Wei Yi and Javokhir Sindarov opening their title match and Andrey Esipenko and Nodirbek Yakubboev starting their fight for the last remaining Candidates spot. Both encounters produced entertaining struggles: Wei pressed slightly in a Petroff Defence before the game was drawn, while Esipenko responded to his painful semifinal exit with a confident win to take the lead in the third-place match. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -546,7 +570,7 @@ news_feed (
          "title" : "Ukraine Files Protest Vs. Russian 'Team FIDE' In Women's World Team Championship"
       },
       {
-         "description" : "Please find the Under 12 certificates . Under 18 will be uploaded soon . For any query please write back to indainchessfed@gmail.com UNDER 12 S.No",
+         "description" : "Please find the Under 12 &#38; Under 18 certificates . For any query please write back to indainchessfed@gmail.com UNDER 12 S.No Name Team Name 1",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/certificate-of-national-school-teamu-12-u-18-chess-championship-2025-in-shimla-from-12-14-oct-2025/",
