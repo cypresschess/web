@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this episode, Arne briefly \"takes over\" the Monthly Dragon and, together with Chris, uses ChessBase 26's new Opening Report to explore the history and current relevance of major Dragon and Dragadorf setups, checking how fashionable they are today across different rating levels. They showcase the tactics feature on Dragon positions, with Chris solving sharp combinations live and demonstrating how ChessBase automatically extracts tactical exercises from large databases. The show culminates in an instructive 1951 Averbakh Dragon game, where a dynamic pawn sacrifice and queenside pressure lead to a superior rook endgame. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-how-fashionable-is-the-dragon-in-2025",
+         "pubDate" : "Tue, 25 Nov 2025 18:00:00",
+         "title" : "The Monthly Dragon - How Fashionable Is the Dragon in 2025?"
+      },
+      {
+         "description" : " The 15th XTX Markets London Chess Classic takes place Wed 26th Nov to Sun 7th Dec 2025. Players: Alireza Firouzja, Luke Mcshane, Michael Adams, Nikolas Theodorou, Sam Shankland, Nodirbek Abdusattorov, Pavel Eljanov, Nikita Vitiugov, Abhimanyu Mishra and Gawain Maroroa Jones. There's an open alongside with Praggnanandhaa as top seed. Strong Rapid and Blitz rounds out the event.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/15th-xtx-markets-london-chess-classic-2025",
+         "pubDate" : "Tue, 25 Nov 2025 16:54:00",
+         "title" : "15th XTX Markets London Chess Classic 2025 - Games and Results"
+      },
+      {
          "description" : "In Larnaca, Europe's small chess nations met for the 9th ESNA Team Chess Championship - and delivered a full week of excitement, fierce games, and genuine team spirit. A tournament that shows: greatness isn't measured on a map, but on the board. | Photos: European Small Nations Chess Association (ESNA)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/small-nations-strong-chess-esna-2025-in-larnaca",
          "pubDate" : "Tue, 25 Nov 2025 16:05:50",
          "title" : "Small nations, strong chess: ESNA 2025 in Larnaca"
+      },
+      {
+         "description" : "GM Pranesh M won a wild game in a wild final round of a wild Titled Tuesday on November 25 to take home first place ahead of GM Magnus Carlsen on tiebreaks. With five players tied for first after 10 rounds, Pranesh and Carlsen were both fighting j...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pranesh-wins-titled-tuesday-november-25-2025",
+         "pubDate" : "Tue, 25 Nov 2025 11:22:25",
+         "title" : "Pranesh Wins Titled Tuesday Photo Finish Over Carlsen"
       },
       {
          "description" : "The final match of the World Cup sees Wei Yi and Javokhir Sindarov fighting for the title and the $120,000 winner's prize. Meanwhile, Andrey Esipenko and Nodirbek Yakubboev are playing a particularly relevant match for third place, as the winner will get a spot in the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-amateur-chess-championship-2025-starts-in-malta/",
          "pubDate" : "Tue, 25 Nov 2025 09:57:56",
          "title" : "European Amateur Chess Championship 2025 starts in Malta"
+      },
+      {
+         "description" : "Chess.com has been announced as one of three new publishers of the inaugural Esports Nations Cup (ENC), joining a lineup of major game developers partnering with the Esports World Cup Foundation (EWCF) to build the first major country-versus-count...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-com-joins-esports-nations-cup-as-official-publisher-for-2026-launch",
+         "pubDate" : "Tue, 25 Nov 2025 09:20:58",
+         "title" : "Chess.com Joins Esports Nations Cup As Official Publisher For 2026 Launch"
       },
       {
          "description" : "The quarterfinals of the 2025 Speed Chess Championship have concluded, producing two compelling semifinal pairings for the live stage in London this February. Magnus Carlsen will face Denis Lazavik, while Hikaru Nakamura is set to meet Alireza Firouzja in a clash of leading speed-play specialists. The event, organised by chess.com, continues to combine online matchplay with an on-site finale, bringing rapid-fire chess to a live audience on 7-8 February 2026.",
@@ -48,6 +80,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-final-game-2",
          "pubDate" : "Tue, 25 Nov 2025 05:11:00",
          "title" : "Esipenko Grabs Last Candidates Spot, Final Goes To Tiebreaks"
+      },
+      {
+         "description" : "This week's puzzles come from the 2025 FIDE Women's World Team Championship. See our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-womens-world-team-championship",
+         "pubDate" : "Tue, 25 Nov 2025 00:00:00",
+         "title" : "Tactics Tuesday: FIDE Women's World Team Championship"
       },
       {
          "description" : "The final stage of the FIDE World Cup began in Goa on Tuesday, with Wei Yi and Javokhir Sindarov opening their title match and Andrey Esipenko and Nodirbek Yakubboev starting their fight for the last remaining Candidates spot. Both encounters produced entertaining struggles: Wei pressed slightly in a Petroff Defence before the game was drawn, while Esipenko responded to his painful semifinal exit with a confident win to take the lead in the third-place match. | Photo: Michal Walusza",
@@ -602,14 +642,6 @@ news_feed (
          "title" : "Certificate of National School Team(U 12 & U 18) Chess Championship 2025 in Shimla from 12-14 Oct 2025"
       },
       {
-         "description" : "GM Nodirbek Yakubboev won the only decisive game in game one of the Quarterfinals of the 2025 FIDE World Cup, against GM Alexander Donchenko. A draw away from reaching the Semifinals, the Uzbek number-three also joins the (unofficial) 2700-club wi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-6-game-1",
-         "pubDate" : "Mon, 17 Nov 2025 05:58:00",
-         "title" : "Yakubboev Draws 1st Blood, Crosses 2700 Live Rating"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125377515.cms\" />Indian chess prodigy Erigaisi Arjun faces a crucial World Cup quarterfinal clash against China's Wei Yi on Monday. Both players are vying for a coveted Candidates spot, with the top three finishers earning qualification. Arjun has shown impressive form, while Yi, despite past setbacks, remains a formidable opponent. Meanwhile, Harikrishna's World Cup journey concluded after a tough tiebreak loss.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -642,14 +674,6 @@ news_feed (
          "title" : "Shankland Defeats Dubov, Returns to World Cup Quarterfinals"
       },
       {
-         "description" : "GM Sam Shankland won a brilliant first game and ended the 2025 FIDE World Cup run of GM Daniil Dubov 2-0 in tiebreaks to reach the Quarterfinals. GM Andrey Esipenko also needed only two tiebreak games to overcome GM Alexey Grebnev, while GM Jose M...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-5-tiebreaks",
-         "pubDate" : "Sun, 16 Nov 2025 06:40:00",
-         "title" : "Shankland, Esipenko, Martinez, Donchenko Reach World Cup Quarterfinals"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125359885.cms\" />India's top woman chess player K Humpy believes only a top 10 world ranking ensures a sustainable professional career for female players. She advocates for young girls to compete in the men's circuit for experience and rating improvement. Humpy also noted the tricky format of the World Cup favors energetic youngsters and underdogs.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -664,14 +688,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/levon-aronians-draw-offer-proves-costly-as-arjun-powers-into-world-cup-quarterfinals/articleshow/125359837.cms",
          "pubDate" : "Sun, 16 Nov 2025 05:01:33",
          "title" : "Levon Aronian's draw offer proves costly as Arjun powers into World Cup quarterfinals"
-      },
-      {
-         "description" : "Before Round 2 started at 11 a.m., Chief Tournament Director NTD/IA Karen Pennock promised to have the Round 3 pairings up two hours before the 4 p.m. start of round 3. But eight of the 10 players used up most of their G/90 with 30-second increment allotted time.Because of their fighting attitudes, the Round 3 pairings were not available until 2:56 p.m. These games included some fierce attacks as well as a remarkable come-from-behind victory. A Clear LeaderSaturday began without a clear leader but ended with 2023 U.S. Senior Women's Champion WGM Anjelina Belakovskaia a half point ahead of her nearest competitor, WFM Chouchanik Airapetian. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-us-senior-womens-championship-belakovskaia-leads-perfect-score",
-         "pubDate" : "Sun, 16 Nov 2025 00:00:00",
-         "title" : "2025 U.S. Senior Women's Championship: Belakovskaia Leads With Perfect Score"
       },
       {
          "description" : "Improving at chess is simple. Just follow my three Do's and you'll be good. That doesn't mean it is easy, though. What makes it hard are the roadblocks along the way. And most of them are self inflicted and imaginary. You might resonate with some: It is the same for chess, business, nutrition You don't []",
