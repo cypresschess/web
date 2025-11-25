@@ -546,7 +546,7 @@ news_feed (
          "title" : "Ukraine Files Protest Vs. Russian 'Team FIDE' In Women's World Team Championship"
       },
       {
-         "description" : "Please find the Under 12 &#38; 18 certificates . For any query please write back to indainchessfed@gmail.com UNDER 12 S.No Name Team Name 1 Aarav",
+         "description" : "Please find the Under 12 certificates . Under 18 will be uploaded soon . For any query please write back to indainchessfed@gmail.com UNDER 12 S.No",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/certificate-of-national-school-teamu-12-u-18-chess-championship-2025-in-shimla-from-12-14-oct-2025/",
