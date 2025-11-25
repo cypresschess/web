@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In Larnaca, Europe's small chess nations met for the 9th ESNA Team Chess Championship - and delivered a full week of excitement, fierce games, and genuine team spirit. A tournament that shows: greatness isn't measured on a map, but on the board. | Photos: European Small Nations Chess Association (ESNA)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/small-nations-strong-chess-esna-2025-in-larnaca",
+         "pubDate" : "Tue, 25 Nov 2025 16:05:50",
+         "title" : "Small nations, strong chess: ESNA 2025 in Larnaca"
+      },
+      {
          "description" : "The final match of the World Cup sees Wei Yi and Javokhir Sindarov fighting for the title and the $120,000 winner's prize. Meanwhile, Andrey Esipenko and Nodirbek Yakubboev are playing a particularly relevant match for third place, as the winner will get a spot in the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speed-chess-ch-2025-26-qf",
          "pubDate" : "Tue, 25 Nov 2025 09:20:00",
          "title" : "Speed Chess Championship: Carlsen, Nakamura, Firouzja and Lazavik in semis"
+      },
+      {
+         "description" : "We&#39;re excited to announce the return of the Chess.com Global Championship (CGC), starting on March 14, 2026! With a whopping $250,000 prize fund and up to three spots to next year&#39;s Esports World Cup on the line, the stakes are higher than ever! ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-global-championship-2026",
+         "pubDate" : "Tue, 25 Nov 2025 08:00:00",
+         "title" : "Chess.com Global Championship Returns As Part Of Esports World Cup Qualification Cycle"
+      },
+      {
+         "description" : "GM Andrey Esipenko has snatched the final spot in the 2026 FIDE Candidates Tournament after beating GM Nodirbek Yakubboev 2-0 to take third place in the 2025 FIDE World Cup. Yakubboev had to win on demand, but blundered into a crushing line where ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-final-game-2",
+         "pubDate" : "Tue, 25 Nov 2025 05:11:00",
+         "title" : "Esipenko Grabs Last Candidates Spot, Final Goes To Tiebreaks"
       },
       {
          "description" : "The final stage of the FIDE World Cup began in Goa on Tuesday, with Wei Yi and Javokhir Sindarov opening their title match and Andrey Esipenko and Nodirbek Yakubboev starting their fight for the last remaining Candidates spot. Both encounters produced entertaining struggles: Wei pressed slightly in a Petroff Defence before the game was drawn, while Esipenko responded to his painful semifinal exit with a confident win to take the lead in the third-place match. | Photo: Michal Walusza",
@@ -650,14 +674,6 @@ news_feed (
          "title" : "2025 U.S. Senior Women's Championship: Belakovskaia Leads With Perfect Score"
       },
       {
-         "description" : "GM Nihal Sarin secured his third Bullet Brawl title and the $400 first prize on Saturday after going unbeaten in his last seven games. Nihal scored two wins over GM Hikaru Nakamura, and defeated GM Praggnanandhaa Rameshbabu and IM Reza Mahdavi bef...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nihal-sarin-wins-bullet-brawl-nov-15-2025",
-         "pubDate" : "Sat, 15 Nov 2025 16:18:00",
-         "title" : "Nihal Stuns Carlsen, Nakamura, Praggnanandhaa In Bullet Brawl Bonanza"
-      },
-      {
          "description" : "Improving at chess is simple. Just follow my three Do's and you'll be good. That doesn't mean it is easy, though. What makes it hard are the roadblocks along the way. And most of them are self inflicted and imaginary. You might resonate with some: It is the same for chess, business, nutrition You don't []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://www.thearticle.com/sumo-cum-laude-chess-and-wrestling/",
          "pubDate" : "Sat, 15 Nov 2025 10:54:28",
          "title" : "Sumo cum Laude: chess and wrestling"
-      },
-      {
-         "description" : "Second-seed GM Arjun Erigaisi is through to the Quarterfinals of the 2025 FIDE World Cup after finding a beautiful finish to eliminate GM Levon Aronian. He&#39;ll play seventh-seed GM Wei Yi, who eventually punished an early mistake by GM Sam Sevian. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-5-game-2",
-         "pubDate" : "Sat, 15 Nov 2025 07:32:00",
-         "title" : "Arjun Beats Aronian To Reach World Cup Quarterfinals"
       },
       {
          "description" : "Please find the certificates .For any query write back to Indianchessfed@gmail.com No Name1 Sai Harshavardhan J2 Prabhu Trichy Srinivasan3 Manikandan J4 Vaishnavi Selvaraj5 Dharanya G6",
