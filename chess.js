@@ -330,12 +330,12 @@ news_feed (
          "title" : "Chess World Cup: Two Uzbeks steal a march over Indians"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125476484.cms\" />Returning to the World Rapid & Blitz Championship in Doha, Magnus Carlsen isn't holding back - he has playfully resurrected the 'jeansgate' drama from last year in a recent social media post. With a nod to 'viral rage moments' and a commitment to tighter jeans, he teases a fun and defiant stance towards FIDE's attire rules.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125476484.cms\" />Returning to the World Rapid &amp; Blitz Championship in Doha, Magnus Carlsen isn't holding back - he has playfully resurrected the 'jeansgate' drama from last year in a recent social media post. With a nod to 'viral rage moments' and a commitment to tighter jeans, he teases a fun and defiant stance towards FIDE's attire rules.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tighter-jeans-this-time-magnus-carlsen-reignites-fashion-war-with-fide-ahead-of-world-rapid-blitz-2025/articleshow/125476484.cms",
          "pubDate" : "Fri, 21 Nov 2025 03:51:17",
-         "title" : "'Tighter jeans this time': Magnus Carlsen reignites 'fashion war' with FIDE ahead of World Rapid & Blitz 2025"
+         "title" : "'Tighter jeans this time': Magnus Carlsen reignites 'fashion war' with FIDE ahead of World Rapid &amp; Blitz 2025"
       },
       {
          "description" : " Brewington Hardaway stands majestically on the cover of the current Chess Life magazine in a vintage black and white photo. Aptly written by Grandmaster Maurice Ashley, the story titled &#8220;A Long Time Coming&#8221; is in reference to his long pursuit of the GM title, but also the 25-year gap it has taken another Black player The post <a href=\"https://thechessdrum.net/blog/2025/11/20/hardaway-gracing-the-cover-of-chess-life/\">Hardaway gracing the cover of Chess Life!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
