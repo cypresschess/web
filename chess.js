@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today marks the final day of the World Cup in Goa, which began on October 31. But the key question of who will play in the Candidates Tournament in March and April 2026 has already been settled: Wei Yi, Javokhir Sindarov and Andrey Esipenko are in. Now it's \"only\" a matter of deciding who wins the tournament. That will be determined today in the tiebreak between Wei Yi and Sindarov. The winner takes home the title and 120,000 USD, the runner-up receives 85,000 USD. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
+         "pubDate" : "Wed, 26 Nov 2025 10:20:00",
+         "title" : "FIDE World Cup, Finals - Live!"
+      },
+      {
          "description" : "A decisive result in the match for third place marked Tuesday's action at the FIDE World Cup in Goa, as Andrey Esipenko secured qualification for the 2026 Candidates Tournament. The Russian grandmaster completed a 2-0 victory over Nodirbek Yakubboev with another confident performance in the rematch, while the second classical game of the final between Wei Yi and Javokhir Sindarov ended in a short draw, sending their title contest to rapid tiebreaks. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2025-r8g2",
          "pubDate" : "Wed, 26 Nov 2025 07:50:00",
          "title" : "World Cup: Esipenko wins again, gets last Candidates spot"
+      },
+      {
+         "description" : "19-year-old Uzbek GM Javokhir Sindarov has won the 2025 FIDE World Cup and the $120,000 top prize after beating GM Wei Yi 1.5-0.5 in tiebreaks. Sindarov missed a one-move chance to win with White in the first tiebreak game, but he made no mistake ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-final-tiebreaks",
+         "pubDate" : "Wed, 26 Nov 2025 04:01:00",
+         "title" : "Javokhir Sindarov Becomes Youngest Ever World Cup Winner"
+      },
+      {
+         "description" : "The ChessBrahs, GMs Eric Hansen and Aman Hambleton, stopped by the Las Vegas Grand Prix race on November 20-22. The grandmasters manned a Chess.com booth at the race, playing with fans, drivers, and celebrities alike! Racecar drivers are competi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/formula-one-drivers-and-fans-play-chess-in-las-vegas",
+         "pubDate" : "Wed, 26 Nov 2025 03:17:05",
+         "title" : "Formula One Drivers And Fans Play Chess In Las Vegas"
       },
       {
          "description" : "In this episode, Arne briefly \"takes over\" the Monthly Dragon and, together with Chris, uses ChessBase 26's new Opening Report to explore the history and current relevance of major Dragon and Dragadorf setups, checking how fashionable they are today across different rating levels. They showcase the tactics feature on Dragon positions, with Chris solving sharp combinations live and demonstrating how ChessBase automatically extracts tactical exercises from large databases. The show culminates in an instructive 1951 Averbakh Dragon game, where a dynamic pawn sacrifice and queenside pressure lead to a superior rook endgame. | Photo: John Upham",
@@ -616,22 +640,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-us-senior-womens-championship",
          "pubDate" : "Tue, 18 Nov 2025 00:00:00",
          "title" : "Tactics Tuesday: U.S. Senior Women's Championship"
-      },
-      {
-         "description" : "GM Hikaru Nakamura has booked his ticket for the Speed Chess Championship 2025 Semifinals in London after a nail-biting match against GM Wesley So that went down to the wire. Nakamura built up four and three-point leads, but So twice hit back with...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-qf-nakamura-so",
-         "pubDate" : "Mon, 17 Nov 2025 18:57:00",
-         "title" : "Nakamura Beats So 11-10 In Speed Chess Thriller"
-      },
-      {
-         "description" : "The Ukrainian Chess Federation has filed a last-minute complaint against the participation of &#34;Team FIDE&#34; in the FIDE Women&#39;s World Team Championship, which begins Tuesday in Linares, Spain. The tournament brings together 12 of the world&#39;s top w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ukraine-files-complaint-vs-russian-team-fide-womens-world-teams",
-         "pubDate" : "Mon, 17 Nov 2025 14:24:00",
-         "title" : "Ukraine Files Protest Vs. Russian 'Team FIDE' In Women's World Team Championship"
       },
       {
          "description" : "Please find the Under 12 &#38; Under 18 certificates . For any query please write back to indainchessfed@gmail.com UNDER 12 S.No Name Team Name 1",
