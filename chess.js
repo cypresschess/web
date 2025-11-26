@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Javokhir Sindarov beat Wei Yi in the final of the <a href=\"https://theweekinchess.com/chessnews/events/fide-world-cup-2025\">FIDE World Cup</a>. The two classical games were drawn taking the match to a final tie-break. The first classical game was a Petroff Defence where Wei Yi as black briefly had a small advantage, the second game was a 30 move draw in a Four Knights that only took a few minutes to execute. The rapid games were not of the highest quality, both players were almost certainly very tired, and they'd also achieved their main objective, qualifying for the Candidates. In the first rapid game Wei Yi blundered with 30...g5? and this could have been met by 31.Be4! winning. The secon",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/javokhir-sindarov-wins-the-fide-world-cup-2025",
+         "pubDate" : "Wed, 26 Nov 2025 17:52:00",
+         "title" : "Javokhir Sindarov wins the FIDE World Cup 2025 - 8"
+      },
+      {
          "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/formula-one-drivers-and-fans-play-chess-in-las-vegas",
          "pubDate" : "Wed, 26 Nov 2025 03:17:05",
          "title" : "Formula One Drivers And Fans Play Chess In Las Vegas"
+      },
+      {
+         "description" : "This week's puzzles come from the 2025 FIDE Women's World Team Championship. See our full report here, and find even more puzzles from this event on yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-womens-world-team-championships",
+         "pubDate" : "Wed, 26 Nov 2025 00:00:00",
+         "title" : "Wednesday Workout: FIDE Women's World Team Championships"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Javokhir Sindarov and Wei Yi compete for the Viswanathan Anand Cup in Goa. (All photos courtesy FIDE/Michal Walusza)<br> <br> <br> <br> Uzbekistan's GM Javokhir Sindarov is the 2025 FIDE World Cup champion. Sindarov defeated Chinese GM Wei Yi 2&frac12;-1&frac12;, winning the second game of the first rapid tiebreak on Wednesday, Nov. 26. This concluded almost a month of play in Goa, India. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> A victorious Sindaorv after his win in the finals.<br> <br> <br> <br> Both players qualify for the 2026 FIDE Candidates Tournament, ",
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/from-d-gukesh-to-r-praggnanandhaa-is-everything-all-right-with-top-chess-players-early-world-cup-exits-expose-harsh-truth/articleshow/125375999.cms",
          "pubDate" : "Mon, 17 Nov 2025 04:49:40",
          "title" : "From Gukesh to Pragg: Early World Cup exits expose harsh truths"
-      },
-      {
-         "description" : "The 2025 U.S. Senior Women's Championship made history. In both previous years of this event, there was a clear champion from the classical games. But this year, at the end of the five-round Swiss system tournament, 2023's winner WGM Anjelina Belakovskaia and last year's winner WFM Natalya Tsodikova were tied with four points each. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Anjelina Belakovskaia (L) and Natalya Tsodikova tied for first with 4/5 scores. (Photo courtesy of Anna Wyzywany)<br> <br> <br> <br> Belakovskaia defeated Tsodikova Saturday night in their head-to-head game, but drew both of her games on Sunday while Tsodikova won both her game",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-us-senior-womens-championship-tsodikova-wins-playoff-title",
-         "pubDate" : "Mon, 17 Nov 2025 00:00:00",
-         "title" : "2025 U.S. Senior Women's Championship: Tsodikova Wins Playoff for Title"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125359885.cms\" />India's top woman chess player K Humpy believes only a top 10 world ranking ensures a sustainable professional career for female players. She advocates for young girls to compete in the men's circuit for experience and rating improvement. Humpy also noted the tricky format of the World Cup favors energetic youngsters and underdogs.",
