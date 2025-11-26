@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A decisive result in the match for third place marked Tuesday's action at the FIDE World Cup in Goa, as Andrey Esipenko secured qualification for the 2026 Candidates Tournament. The Russian grandmaster completed a 2-0 victory over Nodirbek Yakubboev with another confident performance in the rematch, while the second classical game of the final between Wei Yi and Javokhir Sindarov ended in a short draw, sending their title contest to rapid tiebreaks. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2025-r8g2",
+         "pubDate" : "Wed, 26 Nov 2025 07:50:00",
+         "title" : "World Cup: Esipenko wins again, gets last Candidates spot"
+      },
+      {
          "description" : "In this episode, Arne briefly \"takes over\" the Monthly Dragon and, together with Chris, uses ChessBase 26's new Opening Report to explore the history and current relevance of major Dragon and Dragadorf setups, checking how fashionable they are today across different rating levels. They showcase the tactics feature on Dragon positions, with Chris solving sharp combinations live and demonstrating how ChessBase automatically extracts tactical exercises from large databases. The show culminates in an instructive 1951 Averbakh Dragon game, where a dynamic pawn sacrifice and queenside pressure lead to a superior rook endgame. | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/pranesh-wins-titled-tuesday-november-25-2025",
          "pubDate" : "Tue, 25 Nov 2025 11:22:00",
          "title" : "Pranesh Wins Titled Tuesday Photo Finish Over Carlsen"
-      },
-      {
-         "description" : "The final match of the World Cup sees Wei Yi and Javokhir Sindarov fighting for the title and the $120,000 winner's prize. Meanwhile, Andrey Esipenko and Nodirbek Yakubboev are playing a particularly relevant match for third place, as the winner will get a spot in the 2026 Candidates Tournament. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Tue, 25 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup, Finals - Live!"
       },
       {
          "description" : "The European Amateur Chess Championships 2025 is set to take place from 25 November to 5 December in Mellieha, Malta. The event is played in three age categories: U2300, U2000, and U1700, and each Championship will be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for each move starting from move one. The event is played at the Conference Hall []",
