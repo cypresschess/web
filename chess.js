@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/pranesh-wins-titled-tuesday-november-25-2025",
-         "pubDate" : "Tue, 25 Nov 2025 11:22:25",
+         "pubDate" : "Tue, 25 Nov 2025 11:22:00",
          "title" : "Pranesh Wins Titled Tuesday Photo Finish Over Carlsen"
       },
       {
@@ -50,11 +50,11 @@ news_feed (
          "title" : "European Amateur Chess Championship 2025 starts in Malta"
       },
       {
-         "description" : "Chess.com has been announced as one of three new publishers of the inaugural Esports Nations Cup (ENC), joining a lineup of major game developers partnering with the Esports World Cup Foundation (EWCF) to build the first major country-versus-count...",
+         "description" : "Chess.com has been announced as one of three new publishers for the inaugural Esports Nations Cup (ENC), joining a lineup of major game developers partnering with the Esports World Cup Foundation (EWCF) to build the first major country-versus-coun...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-com-joins-esports-nations-cup-as-official-publisher-for-2026-launch",
-         "pubDate" : "Tue, 25 Nov 2025 09:20:58",
+         "pubDate" : "Tue, 25 Nov 2025 09:20:00",
          "title" : "Chess.com Joins Esports Nations Cup As Official Publisher For 2026 Launch"
       },
       {
@@ -194,7 +194,7 @@ news_feed (
          "title" : "Wei Yi, Sindarov Javokhir the new Candidates"
       },
       {
-         "description" : "The 9th Annual New York State Girls Championship was held November 15-16, hosted by Columbia Grammar and Preparatory School on the Upper West Side in Manhattan, and presented by Chess Center of New York and Little House of Chess. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Columbia Grammar and Preparatory School hosted 620 girls for the record-breaking event. (Photos courtesy of the organizers)<br> <br> <br> <br> A total of 620 girls competed across nine sections, setting not only a new record for the event, but also a record for a US Chess girls' tournament. This year, 73 teams competed in the event. <br> <br> <br> <br> Image<br> <br> <br> <br> <b",
+         "description" : "The 9th Annual New York State Girls Championship was held November 15-16, hosted by Columbia Grammar and Preparatory School on the Upper West Side in Manhattan, and organized and presented by Chess Center of New York (Steve Immit) and Little House of Chess (Sophia Rohde). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Columbia Grammar and Preparatory School hosted 620 girls for the record-breaking event. (Photos courtesy of the organizers)<br> <br> <br> <br> A total of 620 girls competed across nine sections, setting not only a new record for the event, but also a record for a US Chess girls' tournament. This year, 73 teams competed in the event. <br>",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/9th-annual-new-york-state-girls-championship-breaks-attendance-records",
