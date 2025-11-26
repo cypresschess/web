@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-live",
+         "pubDate" : "Wed, 26 Nov 2025 16:50:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
          "description" : "Today marks the final day of the World Cup in Goa, which began on October 31. But the key question of who will play in the Candidates Tournament in March and April 2026 has already been settled: Wei Yi, Javokhir Sindarov and Andrey Esipenko are in. Now it's \"only\" a matter of deciding who wins the tournament. That will be determined today in the tiebreak between Wei Yi and Sindarov. The winner takes home the title and 120,000 USD, the runner-up receives 85,000 USD. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "World Cup: Esipenko wins again, gets last Candidates spot"
       },
       {
-         "description" : "19-year-old Uzbek GM Javokhir Sindarov has won the 2025 FIDE World Cup and the $120,000 top prize after beating GM Wei Yi 1.5-0.5 in tiebreaks. Sindarov missed a one-move chance to win with White in the first tiebreak game, but he made no mistake ...",
+         "description" : "Nineteen-year-old Uzbek GM Javokhir Sindarov has won the 2025 FIDE World Cup and the $120,000 top prize after beating GM Wei Yi 1.5-0.5 in tiebreaks. Sindarov missed a one-move chance to win with White in the first tiebreak game, but he made no mi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-cup-final-tiebreaks",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/formula-one-drivers-and-fans-play-chess-in-las-vegas",
          "pubDate" : "Wed, 26 Nov 2025 03:17:05",
          "title" : "Formula One Drivers And Fans Play Chess In Las Vegas"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Javokhir Sindarov and Wei Yi compete for the Viswanathan Anand Cup in Goa. (All photos courtesy FIDE/Michal Walusza)<br> <br> <br> <br> Uzbekistan's GM Javokhir Sindarov is the 2025 FIDE World Cup champion. Sindarov defeated Chinese GM Wei Yi 2&frac12;-1&frac12;, winning the second game of the first rapid tiebreak on Wednesday, Nov. 26. This concluded almost a month of play in Goa, India. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> A victorious Sindaorv after his win in the finals.<br> <br> <br> <br> Both players qualify for the 2026 FIDE Candidates Tournament, ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/sindarov-wins-2025-fide-world-cup",
+         "pubDate" : "Wed, 26 Nov 2025 00:00:00",
+         "title" : "Sindarov wins 2025 FIDE World Cup"
       },
       {
          "description" : "In this episode, Arne briefly \"takes over\" the Monthly Dragon and, together with Chris, uses ChessBase 26's new Opening Report to explore the history and current relevance of major Dragon and Dragadorf setups, checking how fashionable they are today across different rating levels. They showcase the tactics feature on Dragon positions, with Chris solving sharp combinations live and demonstrating how ChessBase automatically extracts tactical exercises from large databases. The show culminates in an instructive 1951 Averbakh Dragon game, where a dynamic pawn sacrifice and queenside pressure lead to a superior rook endgame. | Photo: John Upham",
@@ -674,14 +690,6 @@ news_feed (
          "title" : "2025 U.S. Senior Women's Championship: Tsodikova Wins Playoff for Title"
       },
       {
-         "description" : "GM Sam Shankland is the only American to reach the 2025 FIDE World Cup \"elite eight\" after defeating Russian GM Daniil Dubov 3-1 in the first rapid tiebreak in Round 5.This is Shankland's second trip to the final eight, where he was eliminated by GM Sergey Karjakin in the second tiebreak in 2021. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy FIDE/Eteri Kublashvili<br> <br> In the first classical game, Shankland found himself under some pressure from Dubov, but he equalized nicely. After a simple, stable draw in the second classical game, Shankl",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/shankland-defeats-dubov-returns-world-cup-quarterfinals",
-         "pubDate" : "Mon, 17 Nov 2025 00:00:00",
-         "title" : "Shankland Defeats Dubov, Returns to World Cup Quarterfinals"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125359885.cms\" />India's top woman chess player K Humpy believes only a top 10 world ranking ensures a sustainable professional career for female players. She advocates for young girls to compete in the men's circuit for experience and rating improvement. Humpy also noted the tricky format of the World Cup favors energetic youngsters and underdogs.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -848,14 +856,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-corporate-chess-championship-2025-stars-in-paris/",
          "pubDate" : "Thu, 06 Nov 2025 09:42:24",
          "title" : "European Corporate Chess Championship 2025 stars in Paris"
-      },
-      {
-         "description" : " Jay Williams was an All-American and &#8220;National Player of the Year&#8221; at Duke University and was a first-round draft pick for the Chicago Bulls. He graduated in three years with dual degrees in sociology and business, and his work ethic was a hallmark of his college career. His #22 is retired at his alma mater. The post <a href=\"https://thechessdrum.net/blog/2025/11/05/jay-williams-on-finance-and-chess/\">Jay Williams on Finance and Chess</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/11/05/jay-williams-on-finance-and-chess/",
-         "pubDate" : "Wed, 05 Nov 2025 15:46:41",
-         "title" : "Jay Williams on Finance and Chess"
       }
    ]
 }
