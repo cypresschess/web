@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-live",
+         "pubDate" : "Thu, 27 Nov 2025 16:50:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
+         "description" : "DeepMind Technologies has revolutionized AI research and, in its still relatively short history, produced many valuable results and breakthroughs. With its Go and chess programs AlphaGo and AlphaZero, DeepMind caused quite a stir in the gaming world, but of course the aim is about far more than winning games. A compelling film on this was shown at the Tribeca Festival and is now available on YouTube.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-thinking-game-how-deepmind-transformed-artificial-intelligence",
+         "pubDate" : "Thu, 27 Nov 2025 15:25:04",
+         "title" : "The Thinking Game - How DeepMind Transformed Artificial Intelligence"
+      },
+      {
          "description" : "From 26 November to 7 December, the XTX Markets London Chess Classic showcase the game with a packed programme of tournaments and side events. The centrepiece of the festival is the Elite Tournament, featuring ten top players. The opening round produced five draws and no decisive games, but offered several interesting theoretical contests. | Photo: Elo favourite Alireza Firouzja | Photo: Lennart Ootes, Archive",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -872,14 +888,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/major-surprises-in-the-second-round-of-the-fide-world-cup",
          "pubDate" : "Thu, 6 Nov 2025 21:12:00",
          "title" : "Major surprises in the second round of the FIDE World Cup - 2"
-      },
-      {
-         "description" : "Please find certificates here. For any query please email at indianchessfed@gmail.com Rank Name 1 Iniyan Pa 2 Goutham Krishna H 3 Sasikiran Krishnan 4 Ayush",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-national-chess-championship-2025-in-guntur-ap/",
-         "pubDate" : "Thu, 06 Nov 2025 15:59:19",
-         "title" : "Certificate :National Chess Championship 2025 in Guntur AP"
       }
    ]
 }
