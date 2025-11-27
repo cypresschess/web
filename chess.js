@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 26 November to 7 December, the XTX Markets London Chess Classic showcase the game with a packed programme of tournaments and side events. The centrepiece of the festival is the Elite Tournament, featuring ten top players. The opening round produced five draws and no decisive games, but offered several interesting theoretical contests. | Photo: Elo favourite Alireza Firouzja | Photo: Lennart Ootes, Archive",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-theoretical-debates",
+         "pubDate" : "Thu, 27 Nov 2025 12:34:36",
+         "title" : "London Chess Classic: Theoretical debates"
+      },
+      {
          "description" : "As chess players occasionally do, Alex Fishbein, the U.S. grandmaster, was recently looking at a classic game from the past: Viktor Kortschnoj's victory over Anatoly Karpov in the 21st game of their 1978 match. Something was wrong. Charles Sullivan had done some intense research on this volatile encounter and asks for your assessment on the results he presents.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/javokhir-sindarov-wins-the-fide-world-cup-2025",
          "pubDate" : "Wed, 26 Nov 2025 17:52:00",
          "title" : "Javokhir Sindarov wins the FIDE World Cup 2025 - 8"
-      },
-      {
-         "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-live",
-         "pubDate" : "Wed, 26 Nov 2025 16:50:00",
-         "title" : "London Chess Classic - Live!"
       },
       {
          "description" : "Today marks the final day of the World Cup in Goa, which began on October 31. But the key question of who will play in the Candidates Tournament in March and April 2026 has already been settled: Wei Yi, Javokhir Sindarov and Andrey Esipenko are in. Now it's \"only\" a matter of deciding who wins the tournament. That will be determined today in the tiebreak between Wei Yi and Sindarov. The winner takes home the title and 120,000 USD, the runner-up receives 85,000 USD. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
@@ -880,14 +880,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-national-chess-championship-2025-in-guntur-ap/",
          "pubDate" : "Thu, 06 Nov 2025 15:59:19",
          "title" : "Certificate :National Chess Championship 2025 in Guntur AP"
-      },
-      {
-         "description" : "The European Corporate Chess Championship 2025, organised by Asnière Le Grand Echiquier under the auspices of the European Chess Union, will be held on 7-8 November in Asnieres sur Seine, Paris, France. The event gathers 54 corporate teams, including Google, PWC, KPMG, UBS, Bank of France, Dassault, Societe G&eacute;n&eacute;rale, Leonard, EBRD, Greco and others. The top seeded teams are Greco (Ukraine), Global Ramblers (Czech Republic), Agrofert (Bulgaria), Redia A/S (Austria), and TePe Sigeman (Sweden). The teams are represented by strong []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-corporate-chess-championship-2025-stars-in-paris/",
-         "pubDate" : "Thu, 06 Nov 2025 09:42:24",
-         "title" : "European Corporate Chess Championship 2025 stars in Paris"
       }
    ]
 }
