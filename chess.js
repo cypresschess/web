@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As chess players occasionally do, Alex Fishbein, the U.S. grandmaster, was recently looking at a classic game from the past: Viktor Kortschnoj's victory over Anatoly Karpov in the 21st game of their 1978 match. Something was wrong. Charles Sullivan had done some intense research on this volatile encounter and asks for your assessment on the results he presents.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/riddle-korchnoi-karpov-1978",
+         "pubDate" : "Thu, 27 Nov 2025 08:31:43",
+         "title" : "Riddle: Korchnoi-Karpov 1978"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/gm-javokhir-sindarov-crowned-2025-fide-world-cup-champion/",
+         "pubDate" : "Thu, 27 Nov 2025 08:12:26",
+         "title" : "GM Javokhir Sindarov crowned 2025 FIDE World Cup Champion"
+      },
+      {
+         "description" : "The final and ninth round of the Commonwealth Chess Championship 2025 was played today at the Corus KLCC Hotel, Kuala Lumpur. India concluded the classical",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-commonwealth-chess-championship-2025-in-malaysia-from-08-17-nov-2025/",
+         "pubDate" : "Thu, 27 Nov 2025 06:26:22",
+         "title" : "Final Report :Commonwealth Chess Championship 2025 in Malaysia from 08-17 Nov 2025"
+      },
+      {
+         "description" : "An exciting first round at the London Chess Classic&#39;s Elite Tournament saw all games ending in draws, but not without quite a bit of fighting chess on the boards. GM Sam Shankland was fortunate to get away with a draw against&#38;nbsp;GM Alireza Firou...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-1",
+         "pubDate" : "Wed, 26 Nov 2025 23:54:00",
+         "title" : "Shankland Escapes vs. Firouzja As London Chess Classic Takes Off"
+      },
+      {
          "description" : " Javokhir Sindarov beat Wei Yi in the final of the <a href=\"https://theweekinchess.com/chessnews/events/fide-world-cup-2025\">FIDE World Cup</a>. The two classical games were drawn taking the match to a final tie-break. The first classical game was a Petroff Defence where Wei Yi as black briefly had a small advantage, the second game was a 30 move draw in a Four Knights that only took a few minutes to execute. The rapid games were not of the highest quality, both players were almost certainly very tired, and they'd also achieved their main objective, qualifying for the Candidates. In the first rapid game Wei Yi blundered with 30...g5? and this could have been met by 31.Be4! winning. The secon",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -656,14 +688,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-erigaisi-arjun-is-fast-but-chinese-rival-forces-quick-draw/articleshow/125404568.cms",
          "pubDate" : "Tue, 18 Nov 2025 07:05:19",
          "title" : "Chess World Cup: Arjun Erigaisi is fast but Chinese rival forces quick draw"
-      },
-      {
-         "description" : "The higher seeds dominated in the quarterfinal and semifinal rounds of the Collegiate Chess League (CCL) Playoffs. SRM Institute of Science and Technology handled Texas Tech 11-5, while the University of Missouri, Columbia (Mizzou) moved past the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-ccl-fall-quarterfinals-semifinals",
-         "pubDate" : "Tue, 18 Nov 2025 03:42:13",
-         "title" : "UTD, SLU Advance To Collegiate Chess League Finals"
       },
       {
          "description" : "This week's exercises come from the just-concluded 2025 U.S. Senior Women's Championship, where WFM Natalya Tsodikova defended her title with an Armageddon playoff victory over WGM Anjelina Belakovskaia. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
