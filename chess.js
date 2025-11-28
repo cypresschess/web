@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Indian women's chess team delivered one of its most spirited performances on the world stage at the 2025 FIDE World Women's Team Championship, held",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/indian-women-shine-at-world-womens-team-chess-championship-2025-in-linareslinares-spain-17-24-november-2025/",
+         "pubDate" : "Fri, 28 Nov 2025 08:01:45",
+         "title" : "Indian Women Shine at World Women's Team Chess Championship 2025 in LinaresLinares, Spain | 17-24 November 2025"
+      },
+      {
+         "description" : " The Uzbek won $120,000 and qualified for the 2026 Candidates in Cyprus, which will decide the official challenger for Gukesh Dommaraju's world crown Javokhir Sindarov, 19, became the youngest ever winner of the Fide knockout World Cup on Wednesday when the Uzbek teenager defeated China's Wei Yi 2.5-1.5 in the final at Goa. Ukraine's Ruslan Ponomariov had been a year younger in 2002, but that World Cup had also doubled as the Fide world championship in a period when the global title was disputed. Wei was the favourite, but handicapped himself by poor time management in <a href=\"https://www.chessgames.com/perl/chessgame?gid=3014682\">the decisive game</a>. He declined a draw and could have gai",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/nov/28/chess-sindarov-19-becomes-youngest-world-cup-winner-as-london-classic-begins",
+         "pubDate" : "Fri, 28 Nov 2025 08:00:05",
+         "title" : "Chess: Sindarov, 19, becomes youngest World Cup winner as London Classic begins"
+      },
+      {
+         "description" : "Three decisive games in round two of the London Chess Classic saw Alireza Firouzja, Nodirbek Abdusattorov and Nikolas Theodorou move into the shared lead. Abdusattorov's extensive preparation, Firouzja's tactical win over Luke McShane and Theodorou's controlled performance against defending champion Gawain Maroroa Jones offered contrasting paths to victory at Arsenal Football Club's stadium. | Photo: XTX Markets",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-2",
+         "pubDate" : "Fri, 28 Nov 2025 07:15:00",
+         "title" : "London Chess Classic: Abdusattorov, Firouzja and Theodorou score"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125610689.cms\" />Uzbekistan's Javokhir Sindarov, a 19-year-old, became the youngest World Cup winner, securing a spot in the 2026 Candidates. India, hosting the event after 23 years, saw its 24 players fail to reach the top three qualifying spots. The article explores the knockout format's challenges, home advantage pressures, and the impact of chess engines on creativity.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-immortal-game-with-1-b4",
          "pubDate" : "Thu, 27 Nov 2025 21:58:49",
          "title" : "Svitlana's Smart Moves - Immortal game with 1.b4"
-      },
-      {
-         "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-live",
-         "pubDate" : "Thu, 27 Nov 2025 16:50:00",
-         "title" : "London Chess Classic - Live!"
       },
       {
          "description" : "DeepMind Technologies has revolutionized AI research and, in its still relatively short history, produced many valuable results and breakthroughs. With its Go and chess programs AlphaGo and AlphaZero, DeepMind caused quite a stir in the gaming world, but of course the aim is about far more than winning games. A compelling film on this was shown at the Tribeca Festival and is now available on YouTube.",
@@ -864,22 +880,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/31st-fide-preparation-of-teachers-course/",
          "pubDate" : "Fri, 07 Nov 2025 11:23:03",
          "title" : "31st FIDE Preparation of Teachers Course"
-      },
-      {
-         "description" : " Ian Nepomniachtchi was a world title challenger, Wesley So is ranked No 8, and Hans Niemann has huge ambition, but all lost to unheralded opponents The $2m (&pound;1.5m), 206-player World Cup taking place in Goa, India, has a brutal format designed to maximise the chance of shock results. Its knockout matches consist of the best of just two classical games, followed by rapid and blitz tie-breaks at increasingly fast speeds, then a final Armageddon game where White has more time but is obliged to win. The major incentive besides the prize money is three places in the 2026 Candidates, the pathway to the world title. Ian Nepomniachtchi, the Russia No 1 who twice played for the global crown, th",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/nov/07/chess-russian-star-and-top-americans-fall-in-world-cup-but-adams-wins-10-game-epic",
-         "pubDate" : "Fri, 07 Nov 2025 08:00:21",
-         "title" : "Chess: Russian star and top Americans fall in World Cup but Adams wins 10-game epic"
-      },
-      {
-         "description" : " The Senior National Arbiter Seminar cum Examination was organized by the Chengalpattu District Chess Association on behalf of Tamil Nadu State Chess Association at",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-senior-national-arbiter-seminar-cum-examination-chennai-held-on-october-25-26-2025/",
-         "pubDate" : "Fri, 07 Nov 2025 07:52:37",
-         "title" : "Final Report: Senior National Arbiter Seminar cum Examination, Chennai held on October 25 & 26, 2025"
       }
    ]
 }
