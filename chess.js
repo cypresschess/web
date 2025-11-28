@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-live",
+         "pubDate" : "Fri, 28 Nov 2025 16:50:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
+         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/15th-xtx-markets-london-chess-classic-2025\">London Chess Classic</a> has three leaders after the first two rounds of the tournament. The first round was reasonably quiet with five draws, Alireza Firouzja had decent winning chances against Sam Shankland and Michael Adams looked to be a little better against Luke McShane. The second round saw three decisive games and there could have been a fourth. Alireza Firouzja, Nikolas Theodorou, and Nodirbek Abdusattorov share the lead with 1.5/2 after scoring wins in Round 2. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/firouzja-theodorou-and-abdusattorov-lead-the-london-chess-classic-after-wins-in-round-2",
+         "pubDate" : "Fri, 28 Nov 2025 14:36:00",
+         "title" : "Firouzja, Theodorou and Abdusattorov lead the London Chess Classic after wins in Round 2 - 2"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125634762.cms\" />Uzbekistan's Javokhir Sindarov, at 19, became the youngest FIDE World Cup champion, mirroring India's Divya Deshmukh, also 19, who achieved the same feat in the Women's World Cup. While both were lower seeds, Dutch Grandmaster Anish Giri suggests their wins are coincidental, attributing them to the unpredictable nature of short match formats rather than a hidden trend among top players.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -26,7 +42,7 @@ news_feed (
          "title" : "Indian Women Shine at World Women's Team Chess Championship 2025 in LinaresLinares, Spain | 17-24 November 2025"
       },
       {
-         "description" : " The Uzbek won $120,000 and qualified for the 2026 Candidates in Cyprus, which will decide the official challenger for Gukesh Dommaraju's world crown Javokhir Sindarov, 19, became the youngest ever winner of the Fide knockout World Cup on Wednesday when the Uzbek teenager defeated China's Wei Yi 2.5-1.5 in the final at Goa. Ukraine's Ruslan Ponomariov had been a year younger in 2002, but that World Cup had also doubled as the Fide world championship in a period when the global title was disputed. Wei was the favourite, but handicapped himself by poor time management in <a href=\"https://www.chessgames.com/perl/chessgame?gid=3014682\">the decisive game</a>. He declined a draw and could have gai",
+         "description" : " The Uzbek won $120,000 and qualified for the 2026 Candidates in Cyprus, which will decide the official challenger for Gukesh Dommaraju's world crown Javokhir Sindarov, 19, became the youngest ever winner of the Fide knockout World Cup on Wednesday when the Uzbek defeated China's Wei Yi 2.5-1.5 in the final at Goa. Ukraine's Ruslan Ponomariov had been a year younger in 2002, but that World Cup had also doubled as the Fide world championship in a period when the global title was disputed. Wei was the favourite, but handicapped himself by poor time management in <a href=\"https://www.chessgames.com/perl/chessgame?gid=3014682\">the decisive game</a>. He declined a draw and could have gained an ad",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/nov/28/chess-sindarov-19-becomes-youngest-world-cup-winner-as-london-classic-begins",
@@ -40,6 +56,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/london-chess-classic-2025-2",
          "pubDate" : "Fri, 28 Nov 2025 07:15:00",
          "title" : "London Chess Classic: Abdusattorov, Firouzja and Theodorou score"
+      },
+      {
+         "description" : "The 2025 FIDE World Cup is over, with a month of frenetic chess action whittling 206 players down to just one, GM Javokhir Sindarov. The 19-year-old star is both the youngest and lowest-seeded player ever to win the World Cup, earning him a hero&#39;s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sindarov-wins-9-conclusions-2025-fide-world-cup",
+         "pubDate" : "Fri, 28 Nov 2025 04:59:00",
+         "title" : "Sindarov Triumphs: 9 Conclusions From The 2025 FIDE World Cup"
+      },
+      {
+         "description" : "GM Denis Lazavik, GM Magnus Carlsen, and IM Renato Terry&#38;nbsp;won the third week of 3 0 Thursday events, which were held on November 27. The first two tournaments were fought mainly between Carlsen and GM Hikaru Nakamura, while the third event p...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lazavik-carlsen-terry-3-0-thursday-11-27-2025",
+         "pubDate" : "Fri, 28 Nov 2025 04:21:39",
+         "title" : "Lazavik, Carlsen, Terry Win Thursday 3 0"
       },
       {
          "description" : "Top seed GM Alireza Firouzja profited from a big blunder by GM Luke McShane to score a win with the black pieces in round two of the London Chess Classic&#39;s Elite Tournament. Firouzja now shares the lead with GM Nodirbek Abdusattorov, who used 34(!...",
@@ -714,28 +746,12 @@ news_feed (
          "title" : "Silence please: Chess wrestles with fan atmosphere conundrum"
       },
       {
-         "description" : "GM Hikaru Nakamura began Titled Tuesday on November 18 with 10/10 to lock up first place with a round to spare. He was held to a draw in the last round by GM Jeffery Xiong, but Nakamura&#39;s dominant 10.5/11 score&#38;mdash;nearly accomplishing the same ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-november-18-2025",
-         "pubDate" : "Tue, 18 Nov 2025 11:16:00",
-         "title" : "Nakamura Dominates Titled Tuesday In Nearly Perfect Effort"
-      },
-      {
          "description" : "The combined September &#38; October 2025 issue of the ECU E-Magazine is out! In this edition of the ECU E-Magazine you may read about: The combined September and October issue of the ECU E-Magazine can be read online together with interactive links and videos through the following link or it can be downloaded in the PDF format below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-e-magazine-september-october-2025/",
          "pubDate" : "Tue, 18 Nov 2025 10:39:24",
          "title" : "ECU E-Magazine September & October 2025"
-      },
-      {
-         "description" : "The Charlotte Chess Center, the Charlotte Chess Center Foundation, along with GM Daniel Naroditsky&#39;s family, have launched the Naroditsky Memorial and Fellowship Fund today, to honor the memory and legacy of the grandmaster. Naroditsky&#39;s tragic ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/naroditsky-memorial-chess-fund-announced",
-         "pubDate" : "Tue, 18 Nov 2025 08:31:00",
-         "title" : "Charlotte Chess Center, Naroditsky Family Found 'Memorial And Fellowship Fund'"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125404863.cms\" />US Grandmaster Sam Shankland, a proponent of the knockout format, expressed his belief that it can help reduce draws in chess. Shankland, who has advanced to the quarterfinals of the World Cup after upsetting higher-seeded players, highlighted the format's prevalence in other major sports. He feels it provides crucial opportunities for rising players to test themselves against elite competition.",
