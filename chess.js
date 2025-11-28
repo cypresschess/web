@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125610689.cms\" />Uzbekistan's Javokhir Sindarov, a 19-year-old, became the youngest World Cup winner, securing a spot in the 2026 Candidates. India, hosting the event after 23 years, saw its 24 players fail to reach the top three qualifying spots. The article explores the knockout format's challenges, home advantage pressures, and the impact of chess engines on creativity.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-multi-layered-problem-why-no-indians-qualified-for-2026-candidates-via-chess-world-cup-in-goa/articleshow/125610689.cms",
+         "pubDate" : "Thu, 27 Nov 2025 23:30:00",
+         "title" : "Multi-layered problem: Why no Indians made Candidates 2026 via Goa WC"
+      },
+      {
+         "description" : "Today, Svitlana teaches us about the Immortal Game by Carl Schlechter. If a game is called an \"immortal game\", you can expect some sensational tactics. Another thing what makes this game exceptional is the opening choice of 1.b4. According to the new ChessBase opening report, the Sokolsky Opening, also known as the Orangutan and the Polish Opening, is getting less, and less fashionable in the last years. But 1.b4 had its peak from 2009 to 2011!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-immortal-game-with-1-b4",
+         "pubDate" : "Thu, 27 Nov 2025 21:58:49",
+         "title" : "Svitlana's Smart Moves - Immortal game with 1.b4"
+      },
+      {
          "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -738,14 +754,6 @@ news_feed (
          "title" : "From Gukesh to Pragg: Early World Cup exits expose harsh truths"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125359885.cms\" />India's top woman chess player K Humpy believes only a top 10 world ranking ensures a sustainable professional career for female players. She advocates for young girls to compete in the men's circuit for experience and rating improvement. Humpy also noted the tricky format of the World Cup favors energetic youngsters and underdogs.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/k-humpy-calls-for-girls-to-play-mens-events-to-gain-skills-and-experience/articleshow/125359885.cms",
-         "pubDate" : "Sun, 16 Nov 2025 05:08:26",
-         "title" : "K Humpy calls for girls to play men's events to gain skills and experience"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125359837.cms\" />Arjun Erigaisi capitalized on Levon Aronian's draw offer, realizing the veteran was not playing ambitiously. This confidence boost led Arjun to a decisive victory with black pieces in the Giuoco Piano opening. He advanced to the World Cup quarterfinals, showcasing a strong performance without needing tiebreaks.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -872,22 +880,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-senior-national-arbiter-seminar-cum-examination-chennai-held-on-october-25-26-2025/",
          "pubDate" : "Fri, 07 Nov 2025 07:52:37",
          "title" : "Final Report: Senior National Arbiter Seminar cum Examination, Chennai held on October 25 & 26, 2025"
-      },
-      {
-         "description" : "Only one round left to be played at the European Youth Chess Championship 2025 in Budva, Montenegro, and we'll soon crown the new Champions! Heading into the last round, many sections still have the unclear situation on the top, while the others have the sole leaders. Myron Netrebka (UKR) scores perfect 8/8 points and clinched gold in the Open U8 section with a round to spare! In Girls U8 category, Stella Zhu (FIN) emerged as the sole leader with 7.5 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/crowd-on-the-top-ahead-of-the-last-round-of-european-youth-chess-championship-2025/",
-         "pubDate" : "Fri, 07 Nov 2025 00:07:07",
-         "title" : "Crowd on the top ahead of the last round of European Youth Chess Championship 2025"
-      },
-      {
-         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/fide-world-cup-2025\">FIDE World Cup</a> takes place in Goa, India, Sat 1st to Wed 26th Nov 2025. The second round concluded today, this round was where the event started in earnest, when the top seeds entered the fray. There has never been a shock winner of this event, but there are always surprise eliminations. Ian Nepomniachtchi, Wesley So and Hans Moke Niemann all would have fancied their chances against anyone, but Diptayan Ghosh, Titas Stremavicius and Lorenzo Lodici all had different ideas. Santosh Gujrathi Vidit had a bit too much for wunderkind Faustino Oro, well known players Vasyl Ivanchuk, David Navara, Ray Robson and Johan",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/major-surprises-in-the-second-round-of-the-fide-world-cup",
-         "pubDate" : "Thu, 6 Nov 2025 21:12:00",
-         "title" : "Major surprises in the second round of the FIDE World Cup - 2"
       }
    ]
 }
