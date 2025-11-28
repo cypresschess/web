@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An imaginary interview with Jos&eacute; Ra&uacute;l Capablanca offers a reflective journey through the Cuban world champion's life, ideas and legacy. Presented in Capablanca's own voice, the conversation explores his childhood, style, intellectual interests and views on intuition, simplicity and the nature of chess. The piece revisits the milestones that shaped him and highlights his enduring influence on the game's philosophy. | Images (AI): Uvencio Blanco",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/capablanca-imaginary-interview-uvencio-blanco",
+         "pubDate" : "Fri, 28 Nov 2025 19:54:55",
+         "title" : "Capablanca, the timeless maestro: Dialogues and reflections that never took place"
+      },
+      {
          "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
