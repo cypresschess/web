@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125634762.cms\" />Uzbekistan's Javokhir Sindarov, at 19, became the youngest FIDE World Cup champion, mirroring India's Divya Deshmukh, also 19, who achieved the same feat in the Women's World Cup. While both were lower seeds, Dutch Grandmaster Anish Giri suggests their wins are coincidental, attributing them to the unpredictable nature of short match formats rather than a hidden trend among top players.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-not-a-surprise-anish-giri-on-lesser-favourites-divya-deshmukh-javokhir-sindarov-winning-chess-world-cups/articleshow/125634762.cms",
+         "pubDate" : "Fri, 28 Nov 2025 10:16:22",
+         "title" : "Exclusive | 'Not a surprise': Dutch No. 1 Giri on Divya-Sindarov WC wins"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125634240.cms\" />Olympic champion Abhinav Bindra offers perspective on D Gukesh's recent chess performance dip, calling it a natural phase post-major success. Bindra emphasizes returning to basics and recharging energy, both physically and mentally, to overcome such periods. He notes that in sports, past achievements fade, and continuous effort and finding joy are key to navigating these cycles.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/you-simply-cant-jump-to-the-next-peak-abhinav-bindra-on-d-gukeshs-post-world-championship-performance/articleshow/125634240.cms",
+         "pubDate" : "Fri, 28 Nov 2025 09:52:51",
+         "title" : "'You can't jump to the next peak': Bindra on Gukesh's slump post World C'ship"
+      },
+      {
          "description" : "The Indian women's chess team delivered one of its most spirited performances on the world stage at the 2025 FIDE World Women's Team Championship, held",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/london-chess-classic-2025-2",
          "pubDate" : "Fri, 28 Nov 2025 07:15:00",
          "title" : "London Chess Classic: Abdusattorov, Firouzja and Theodorou score"
+      },
+      {
+         "description" : "Top seed GM Alireza Firouzja profited from a big blunder by GM Luke McShane to score a win with the black pieces in round two of the London Chess Classic&#39;s Elite Tournament. Firouzja now shares the lead with GM Nodirbek Abdusattorov, who used 34(!...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-2",
+         "pubDate" : "Fri, 28 Nov 2025 01:07:00",
+         "title" : "Abdusattorov, Firouzja, Theodorou Score 1st Wins In London"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125610689.cms\" />Uzbekistan's Javokhir Sindarov, a 19-year-old, became the youngest World Cup winner, securing a spot in the 2026 Candidates. India, hosting the event after 23 years, saw its 24 players fail to reach the top three qualifying spots. The article explores the knockout format's challenges, home advantage pressures, and the impact of chess engines on creativity.",
@@ -714,14 +738,6 @@ news_feed (
          "title" : "Charlotte Chess Center, Naroditsky Family Found 'Memorial And Fellowship Fund'"
       },
       {
-         "description" : "Three matches go to tiebreaks after four draws in game two of the Quarterfinals in the 2025 FIDE World Cup. One match did end, with GM Nodirbek Yakubboev advancing to the Semifinals after holding a draw against GM Alexander Donchenko, making good ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-6-game-2",
-         "pubDate" : "Tue, 18 Nov 2025 07:17:00",
-         "title" : "Yakubboev Advances, Wei Yi Survives Vs. Arjun"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125404863.cms\" />US Grandmaster Sam Shankland, a proponent of the knockout format, expressed his belief that it can help reduce draws in chess. Shankland, who has advanced to the quarterfinals of the World Cup after upsetting higher-seeded players, highlighted the format's prevalence in other major sports. He feels it provides crucial opportunities for rising players to test themselves against elite competition.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -754,28 +770,12 @@ news_feed (
          "title" : "Certificate of National School Team(U 12 & U 18) Chess Championship 2025 in Shimla from 12-14 Oct 2025"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125377515.cms\" />Indian chess prodigy Erigaisi Arjun faces a crucial World Cup quarterfinal clash against China's Wei Yi on Monday. Both players are vying for a coveted Candidates spot, with the top three finishers earning qualification. Arjun has shown impressive form, while Yi, despite past setbacks, remains a formidable opponent. Meanwhile, Harikrishna's World Cup journey concluded after a tough tiebreak loss.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-indias-last-hope-arjun-erigaisi-set-for-wei-yi-challenge-in-quarterfinals/articleshow/125377515.cms",
-         "pubDate" : "Mon, 17 Nov 2025 05:50:44",
-         "title" : "Chess WC: India's last hope Erigaisi set for Yi challenge in quarterfinals"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125375999.cms\" />Russian Grandmaster Daniil Dubov's dismissive comments after defeating R Praggnanandhaa highlight a trend of early exits for elite players at the FIDE World Cup 2025. Several top seeds, including World Champion D Gukesh, fell to lower-rated opponents, prompting discussions about the narrowing gap in skill and flaws in the rating system.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/from-d-gukesh-to-r-praggnanandhaa-is-everything-all-right-with-top-chess-players-early-world-cup-exits-expose-harsh-truth/articleshow/125375999.cms",
          "pubDate" : "Mon, 17 Nov 2025 04:49:40",
          "title" : "From Gukesh to Pragg: Early World Cup exits expose harsh truths"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125359837.cms\" />Arjun Erigaisi capitalized on Levon Aronian's draw offer, realizing the veteran was not playing ambitiously. This confidence boost led Arjun to a decisive victory with black pieces in the Giuoco Piano opening. He advanced to the World Cup quarterfinals, showcasing a strong performance without needing tiebreaks.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/levon-aronians-draw-offer-proves-costly-as-arjun-powers-into-world-cup-quarterfinals/articleshow/125359837.cms",
-         "pubDate" : "Sun, 16 Nov 2025 05:01:33",
-         "title" : "Levon Aronian's draw offer proves costly as Arjun powers into World Cup quarterfinals"
       },
       {
          "description" : "Improving at chess is simple. Just follow my three Do's and you'll be good. That doesn't mean it is easy, though. What makes it hard are the roadblocks along the way. And most of them are self inflicted and imaginary. You might resonate with some: It is the same for chess, business, nutrition You don't []",
@@ -872,14 +872,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-champions-2025-crowned-in-budva-montenegro/",
          "pubDate" : "Sat, 08 Nov 2025 00:27:46",
          "title" : "European Youth Chess Champions 2025 crowned in Budva, Montenegro"
-      },
-      {
-         "description" : "Save the dates: November 21-23, 2025, for our 31st edition of the Preparation of Teachers course - a golden opportunity to become a certified FIDE School Instructor! &#160; &#160; Conducted...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/31st-fide-preparation-of-teachers-course/",
-         "pubDate" : "Fri, 07 Nov 2025 11:23:03",
-         "title" : "31st FIDE Preparation of Teachers Course"
       }
    ]
 }
