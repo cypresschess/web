@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-live",
+         "pubDate" : "Sat, 29 Nov 2025 16:50:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
+         "description" : "The European Rapid and Blitz Chess Championships are taking place in Pristina, Kosovo on 28-30 November. The rapid tournament consists of 11 rounds, while the blitz section consists of 13 rounds, both played as Swiss opens. More than 350 players from 38 different countries have registered to participate. | Follow the action live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-rapid-blitz-ch-2025-live",
+         "pubDate" : "Sat, 29 Nov 2025 15:10:00",
+         "title" : "European Rapid Championship - Live!"
+      },
+      {
+         "description" : "Hey everyone, I hope those of you celebrating had a lovely Thanksgiving. Before we get into today's newsletter, a quick announcement: Both my Courses are 25% off until Tuesday 3 PM CET. As always, you have a 14-day money back guarantee, so you can get them now at a reduced price without any risk. Simplified []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/chess-calculation-technique/",
+         "pubDate" : "Sat, 29 Nov 2025 14:00:00",
+         "title" : "The Key To Right Calculation in Chess"
+      },
+      {
          "description" : "Next year, 2026, will be the year of Marcel Duchamp and chess, with celebrations, exhibitions and simultaneous displays scattered across New York like leaflets from some well-meaning bureaucracy. Readers of this column, like countless others, already know that Duchamp played chess; the real question is whether anyone has paused to ask how good at the []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -22,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-3",
-         "pubDate" : "Sat, 29 Nov 2025 03:05:11",
+         "pubDate" : "Sat, 29 Nov 2025 03:05:00",
          "title" : "Abdusattorov Beats Vitiugov To Grab Sole Lead"
       },
       {
@@ -32,22 +56,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2025-commenced/",
          "pubDate" : "Sat, 29 Nov 2025 00:32:37",
          "title" : "European Rapid and Blitz Chess Championship 2025 commenced"
-      },
-      {
-         "description" : "An imaginary interview with Jos&eacute; Ra&uacute;l Capablanca offers a reflective journey through the Cuban world champion's life, ideas and legacy. Presented in Capablanca's own voice, the conversation explores his childhood, style, intellectual interests and views on intuition, simplicity and the nature of chess. The piece revisits the milestones that shaped him and highlights his enduring influence on the game's philosophy. | Images (AI): Uvencio Blanco",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/capablanca-imaginary-interview-uvencio-blanco",
-         "pubDate" : "Fri, 28 Nov 2025 19:54:55",
-         "title" : "Capablanca, the timeless maestro: Dialogues and reflections that never took place"
-      },
-      {
-         "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-live",
-         "pubDate" : "Fri, 28 Nov 2025 16:50:00",
-         "title" : "London Chess Classic - Live!"
       },
       {
          "description" : "GM Arjun Erigaisi joined the five-time Freestyle Friday winner&#39;s club after clinching November&#39;s final event with a score of 10/11. GM Hans Niemann, who was the only player to topple Arjun, went undefeated; however, three draws relegated him to se...",
@@ -896,22 +904,6 @@ news_feed (
          "link" : "https://www.europechess.org/greco-ukraine-wins-european-corporate-chess-championship-2025/",
          "pubDate" : "Sun, 09 Nov 2025 15:56:26",
          "title" : "Greco (Ukraine) wins European Corporate Chess Championship 2025"
-      },
-      {
-         "description" : "Imagine going into school and on day 1, your teacher is telling you everything you will have to learn in the next 9 years. Then, for each subject, the teacher picks the 30 main things you'll have to learn, writes them each on a piece of paper, and lets you pick blindly what will be []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/chess-study-system/",
-         "pubDate" : "Sat, 08 Nov 2025 14:00:00",
-         "title" : "Sequential Learning"
-      },
-      {
-         "description" : "Slow but sure has always been a reliable motto in chess, and it is fitting that it is also the motto of the Snail Club, based at London's L'Escargot restaurant. There is a certain appropriateness to the phrase, for the history of chess in London itself, and of Howard Staunton in particular, is a story []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/slow-but-sure-howard-stauntons-legacy/",
-         "pubDate" : "Sat, 08 Nov 2025 12:39:14",
-         "title" : "Slow but sure: Howard Staunton's legacy"
       }
    ]
 }
