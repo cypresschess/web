@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Next year, 2026, will be the year of Marcel Duchamp and chess, with celebrations, exhibitions and simultaneous displays scattered across New York like leaflets from some well-meaning bureaucracy. Readers of this column, like countless others, already know that Duchamp played chess; the real question is whether anyone has paused to ask how good at the []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-art-of-chess-duchamp-and-nimzowitsch/",
+         "pubDate" : "Sat, 29 Nov 2025 12:09:14",
+         "title" : "The art of chess: Duchamp and Nimzowitsch"
+      },
+      {
          "description" : "Robert Ris showcases Jos&eacute; Eduardo Mart&iacute;nez Alc&aacute;ntara's stunning World Cup win with Black against Super GM Nodirbek Abdusattorov, starting from a sharp opposite-castling Philidor-type position in which White unleashes a powerful kingside attack, including an exchange sacrifice on d5 and the pawn storm with h5-h6, while Black searches for counterplay on the queenside. Ris explains how key defensive resources completely turn the tables, leading to a direct attack on the white king.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/how-martinez-took-down-abdusattorov-the-underdog",
          "pubDate" : "Sat, 29 Nov 2025 08:00:00",
          "title" : "How Martinez took down Abdusattorov - The Underdog"
+      },
+      {
+         "description" : "GM Nodirbek Abdusattorov&#39;s second win in a row, this time over GM Nikita Vitiugov, has given him the sole lead in the London Chess Classic&#39;s Elite Tournament on 2.5/3 after the remaining games were drawn. GM Michael Adams took a draw by repetition...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-3",
+         "pubDate" : "Sat, 29 Nov 2025 03:05:11",
+         "title" : "Abdusattorov Beats Vitiugov To Grab Sole Lead"
       },
       {
          "description" : "The European Rapid and Blitz Chess Championship 2025 commenced today in Pristina, Kosovo, with the Rapid tournament. The Opening ceremony of the event took place at the Emerald Hotel, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, Minister of Culture, Youth and Sports of Kosovo Mr. Hajrullah Çeku, Deputy Minister of Sports of North Macedonia Ms. Safije Sadiku Shahini, ECU CEO and President of Albanian Chess Federation Mr. Erald Dervishi, ECU Vice President Mr. Alojzije Jankovic, President of []",
@@ -672,14 +688,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-qf-firouzja-nepomniachtchi",
          "pubDate" : "Thu, 20 Nov 2025 12:59:00",
          "title" : "Firouzja Eliminates Nepomniachtchi, Advances To Semifinal Vs. Nakamura"
-      },
-      {
-         "description" : "GM Magnus Carlsen is officially among the 360 players registered for the 2025 World Rapid &#38;amp; Blitz Championship, to be held in Doha, Qatar, on December 26-30, the International Chess Federation (FIDE) announced Thursday. FIDE said 235 players...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-confirmed-world-rapid-blitz-championship-fide-announces-field",
-         "pubDate" : "Thu, 20 Nov 2025 11:07:00",
-         "title" : "Carlsen Confirmed For World Rapid & Blitz Championship As FIDE Announces Field"
       },
       {
          "description" : "Please find the certificates Sl No Candidate Name1 Bhogal, Rupesh2 Gaurav Sharma3 Krishna Prabhakar4 Rahul Kadam5 Pandya Raj6 Vaarin Gada7 Vishnu Sharma8 Anup Subhash Pande9",
