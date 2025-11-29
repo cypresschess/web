@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Rapid and Blitz Chess Championship 2025 commenced today in Pristina, Kosovo, with the Rapid tournament. The Opening ceremony of the event took place at the Emerald Hotel, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, Minister of Culture, Youth and Sports of Kosovo Mr. Hajrullah Çeku, Deputy Minister of Sports of North Macedonia Ms. Safije Sadiku Shahini, ECU CEO and President of Albanian Chess Federation Mr. Erald Dervishi, ECU Vice President Mr. Alojzije Jankovic, President of []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2025-commenced/",
+         "pubDate" : "Sat, 29 Nov 2025 00:32:37",
+         "title" : "European Rapid and Blitz Chess Championship 2025 commenced"
+      },
+      {
          "description" : "An imaginary interview with Jos&eacute; Ra&uacute;l Capablanca offers a reflective journey through the Cuban world champion's life, ideas and legacy. Presented in Capablanca's own voice, the conversation explores his childhood, style, intellectual interests and views on intuition, simplicity and the nature of chess. The piece revisits the milestones that shaped him and highlights his enduring influence on the game's philosophy. | Images (AI): Uvencio Blanco",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
