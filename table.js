@@ -1,4 +1,6 @@
 jtable([
+"SPRING","2025-11-28","27","<a href=https://ratings.uschess.org/event/202511280193 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2025-11-28","17","<a href=https://ratings.uschess.org/event/202511280173 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-11-25","23","<a href=https://ratings.uschess.org/event/202511250213 target='_blank'>NOVEMBER TUESDAY NIGHT SWISS 2025</a>",
 "HOUSTON","2025-11-25","2","<a href=https://ratings.uschess.org/event/202511250203 target='_blank'>MATCH PLAY JB v AW</a>",
 "HOUSTON","2025-11-23","15","<a href=https://ratings.uschess.org/event/202511230453 target='_blank'>Bellaire Sunday Swiss 2025.11.23</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2025-08-24","94","<a href=https://ratings.uschess.org/event/202508249112 target='_blank'>DFW SUMMER FIDE</a>",
 "HOUSTON","2025-08-24","10","<a href=https://ratings.uschess.org/event/202508247762 target='_blank'>BELLAIRE SUNDAY SWISS 8/24/2025</a>",
 "HOUSTON","2025-08-23","31","<a href=https://ratings.uschess.org/event/202508238732 target='_blank'>HCA-CK TOURNAMENT- TMC AUGUST 2025</a>",
-"HOUSTON","2025-08-23","15","<a href=https://ratings.uschess.org/event/202508236962 target='_blank'>CHESSPANDA08232025SATURDAY</a>",
-"SUGAR LAND","2025-08-22","24","<a href=https://ratings.uschess.org/event/202508226462 target='_blank'>FBCC 2025 WE LOVE SCHOOL OPEN</a>",
 ]);
