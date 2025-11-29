@@ -18,6 +18,14 @@ news_feed (
          "title" : "London Chess Classic - Live!"
       },
       {
+         "description" : "GM Arjun Erigaisi joined the five-time Freestyle Friday winner&#39;s club after clinching November&#39;s final event with a score of 10/11. GM Hans Niemann, who was the only player to topple Arjun, went undefeated; however, three draws relegated him to se...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-freestyle-friday-nov-28-2025",
+         "pubDate" : "Fri, 28 Nov 2025 15:02:00",
+         "title" : "Arjun Edges Out Niemann To Claim 5th Title"
+      },
+      {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/15th-xtx-markets-london-chess-classic-2025\">London Chess Classic</a> has three leaders after the first two rounds of the tournament. The first round was reasonably quiet with five draws, Alireza Firouzja had decent winning chances against Sam Shankland and Michael Adams looked to be a little better against Luke McShane. The second round saw three decisive games and there could have been a fourth. Alireza Firouzja, Nikolas Theodorou, and Nodirbek Abdusattorov share the lead with 1.5/2 after scoring wins in Round 2. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -722,14 +730,6 @@ news_feed (
          "title" : "Chess World Cup: Arjun Erigaisi vs Wei Yi goes to tiebreak, Nodirbek Yakubboev in semis"
       },
       {
-         "description" : "GMs Wei Yi, Javokhir Sindarov, and Andrey Esipenko will join GM Nodirbek Yakubboev in the 2025 FIDE World Cup Semifinals after winning their quarterfinal matches in tiebreaks. Respectively, they defeated GMs Arjun Erigaisi, Jose Martinez, and Sam ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-round-6-tiebreaks",
-         "pubDate" : "Wed, 19 Nov 2025 05:32:00",
-         "title" : "Wei Yi Knocks Out Arjun, Advances With Sindarov, Esipenko"
-      },
-      {
          "description" : "This week's exercises come from the just-concluded 2025 U.S. Senior Women's Championship, where WFM Natalya Tsodikova defended her title with an Armageddon playoff victory over WGM Anjelina Belakovskaia. See yesterday's Tactics Tuesday for even more puzzles from the third edition of this national event. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -888,14 +888,6 @@ news_feed (
          "link" : "https://www.thearticle.com/slow-but-sure-howard-stauntons-legacy/",
          "pubDate" : "Sat, 08 Nov 2025 12:39:14",
          "title" : "Slow but sure: Howard Staunton's legacy"
-      },
-      {
-         "description" : "The European Youth Chess Championship 2025 concluded this evening in Budva, Montenegro. The Closing ceremony of the event took place in the playing venue with the attendance of ECU President Mr. Zurab Azmaiparashvili, President of the Montenegro Chess Federation Mr. Jovan Milovic, ECU Honorary Vice President Mr. Veselin Draskovic, Secretary of the ECU Events Commission Ms. Nina Rob, Secretary of the ECU Arbiters Coucil Mr. Geert Bailleul and other distinguished guests. Nearly 1200 players from 48 European federations competed in []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-champions-2025-crowned-in-budva-montenegro/",
-         "pubDate" : "Sat, 08 Nov 2025 00:27:46",
-         "title" : "European Youth Chess Champions 2025 crowned in Budva, Montenegro"
       }
    ]
 }
