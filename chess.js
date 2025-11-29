@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Robert Ris showcases Jos&eacute; Eduardo Mart&iacute;nez Alc&aacute;ntara's stunning World Cup win with Black against Super GM Nodirbek Abdusattorov, starting from a sharp opposite-castling Philidor-type position in which White unleashes a powerful kingside attack, including an exchange sacrifice on d5 and the pawn storm with h5-h6, while Black searches for counterplay on the queenside. Ris explains how key defensive resources completely turn the tables, leading to a direct attack on the white king.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-martinez-took-down-abdusattorov-the-underdog",
+         "pubDate" : "Sat, 29 Nov 2025 08:00:00",
+         "title" : "How Martinez took down Abdusattorov - The Underdog"
+      },
+      {
          "description" : "The European Rapid and Blitz Chess Championship 2025 commenced today in Pristina, Kosovo, with the Rapid tournament. The Opening ceremony of the event took place at the Emerald Hotel, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, Minister of Culture, Youth and Sports of Kosovo Mr. Hajrullah Çeku, Deputy Minister of Sports of North Macedonia Ms. Safije Sadiku Shahini, ECU CEO and President of Albanian Chess Federation Mr. Erald Dervishi, ECU Vice President Mr. Alojzije Jankovic, President of []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
