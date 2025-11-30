@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Ediz Gurel capped off a tremendous November in the Bullet Brawl arena by picking up his third $400 win of the month on Saturday. Gurel won 49 games, drew three, and lost 13, amassing a winning score of 167 points in the process. GMs Hikaru Na...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-nov-29-2025",
+         "pubDate" : "Sat, 29 Nov 2025 18:27:00",
+         "title" : "Gurel Joins Elite Winner's Club After 3rd Win Of The Month"
+      },
+      {
          "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -688,14 +696,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-chess-offices-closed-noon-nov-26-through-nov-30",
          "pubDate" : "Fri, 21 Nov 2025 00:00:00",
          "title" : "US Chess Offices Closed Noon Nov 26 through Nov 30"
-      },
-      {
-         "description" : "GM Alireza Firouzja won his Speed Chess Championship 2025 quarterfinal match against GM Ian Nepomniachtchi 19-9 to book his ticket to the Live Finals in London. There, he will face GM Hikaru Nakamura in the Semifinals. The last quarterfinal matc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-qf-firouzja-nepomniachtchi",
-         "pubDate" : "Thu, 20 Nov 2025 12:59:00",
-         "title" : "Firouzja Eliminates Nepomniachtchi, Advances To Semifinal Vs. Nakamura"
       },
       {
          "description" : "Please find the certificates Sl No Candidate Name1 Bhogal, Rupesh2 Gaurav Sharma3 Krishna Prabhakar4 Rahul Kadam5 Pandya Raj6 Vaarin Gada7 Vishnu Sharma8 Anup Subhash Pande9",
