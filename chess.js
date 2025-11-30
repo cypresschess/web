@@ -7,7 +7,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-nov-29-2025",
          "pubDate" : "Sat, 29 Nov 2025 18:27:00",
-         "title" : "Gurel Joins Elite Winner's Club After 3rd Win Of The Month"
+         "title" : "Gurel Joins Elite Winners' Club After 3rd Win Of The Month"
       },
       {
          "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
