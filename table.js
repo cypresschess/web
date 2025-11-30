@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2025-11-29","31","<a href=https://ratings.uschess.org/event/202511290243 target='_blank'>Lone Star Houston Fall Action</a>",
+"HOUSTON","2025-11-29","11","<a href=https://ratings.uschess.org/event/202511290193 target='_blank'>chesspanda11292025saturday</a>",
 "SPRING","2025-11-28","27","<a href=https://ratings.uschess.org/event/202511280193 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-11-28","17","<a href=https://ratings.uschess.org/event/202511280173 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-11-25","23","<a href=https://ratings.uschess.org/event/202511250213 target='_blank'>NOVEMBER TUESDAY NIGHT SWISS 2025</a>",
@@ -97,6 +99,4 @@ jtable([
 "SPRING","2025-08-29","20","<a href=https://ratings.uschess.org/event/202508290692 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2025-08-26","20","<a href=https://ratings.uschess.org/event/202508269402 target='_blank'>AUGUST 2025 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2025-08-24","94","<a href=https://ratings.uschess.org/event/202508249112 target='_blank'>DFW SUMMER FIDE</a>",
-"HOUSTON","2025-08-24","10","<a href=https://ratings.uschess.org/event/202508247762 target='_blank'>BELLAIRE SUNDAY SWISS 8/24/2025</a>",
-"HOUSTON","2025-08-23","31","<a href=https://ratings.uschess.org/event/202508238732 target='_blank'>HCA-CK TOURNAMENT- TMC AUGUST 2025</a>",
 ]);
