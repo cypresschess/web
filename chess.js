@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Blitz and Rapid Chess Championships are being held in Pristina, Kosovo, from 28 to 30 November. The Rapid Championship concluded on Friday and Saturday; the Blitz Championship follows on Sunday, with thirteen rounds of blitz chess (3+2) on the schedule. Vasyl Ivanchuk, Baadur Jobava, Jorden Van Foreest, Rasmus Svane and Christian Bauer are among the many top European players in the field. Follow the action live with commentary from 10:30 local time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-blitz-championships-2025-live",
+         "pubDate" : "Sun, 30 Nov 2025 10:15:00",
+         "title" : "European Blitz Championships 2025 - Live!"
+      },
+      {
+         "description" : "In Saturday&#39;s fourth round, GM Nodirbek Abdusattorov maintained his half-point lead at the London Chess Classic&#39;s Elite Tournament with a third consecutive win. The Uzbek GM defeated GM Michael Adams as Black but saw his main rival GM Alireza Firo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-4",
+         "pubDate" : "Sun, 30 Nov 2025 02:49:00",
+         "title" : "Wins For Abdusattorov, Firouzja, McShane in London's 4th Round"
+      },
+      {
          "description" : "GM Ediz Gurel capped off a tremendous November in the Bullet Brawl arena by picking up his third $400 win of the month on Saturday. Gurel won 49 games, drew three, and lost 13, amassing a winning score of 167 points in the process. GMs Hikaru Na...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/london-chess-classic-2025-live",
          "pubDate" : "Sat, 29 Nov 2025 16:50:00",
          "title" : "London Chess Classic - Live!"
-      },
-      {
-         "description" : "The European Rapid and Blitz Chess Championships are taking place in Pristina, Kosovo on 28-30 November. The rapid tournament consists of 11 rounds, while the blitz section consists of 13 rounds, both played as Swiss opens. More than 350 players from 38 different countries have registered to participate. | Follow the action live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-rapid-blitz-ch-2025-live",
-         "pubDate" : "Sat, 29 Nov 2025 15:10:00",
-         "title" : "European Rapid Championship - Live!"
       },
       {
          "description" : "Hey everyone, I hope those of you celebrating had a lovely Thanksgiving. Before we get into today's newsletter, a quick announcement: Both my Courses are 25% off until Tuesday 3 PM CET. As always, you have a 14-day money back guarantee, so you can get them now at a reduced price without any risk. Simplified []",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-d3",
          "pubDate" : "Fri, 21 Nov 2025 05:50:00",
          "title" : "Linares: China v. USA among quarterfinal pairings"
-      },
-      {
-         "description" : "GM Wei Yi found a brilliant sacrificial line to survive against GM Andrey Esipenko in what GM David Howell called &#34;one of the most fun draws I&#38;rsquo;ve seen throughout the whole 2025 FIDE World Cup so far.&#34; The other semifinal game was also drawn,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-semifinals-game-1",
-         "pubDate" : "Fri, 21 Nov 2025 05:40:00",
-         "title" : "Wei Yi Escapes In Style Vs. Esipenko As World Cup Semifinals Begin"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125478114.cms\" />Uzbekistan has secured two semifinal spots in the World Cup with Nodirbek Yakubboev and Javokhir Sindarov advancing, outperforming the host nation India. The Uzbek duo, both Olympiad gold medalists, will face each other, guaranteeing at least a silver medal for their country. This success echoes their coach Rustam Kasimdzhaov's 2002 World Cup finalist achievement.",
