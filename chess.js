@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-live",
+         "pubDate" : "Sun, 30 Nov 2025 16:50:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
+         "description" : " Nodirbek Abdusattorov has started quickly to lead the London Chess Classic alone after four rounds. All the games were drawn in the first round, since then he has beaten Abhimanyu Mishra, Nikita Vitiugov and Michael Adams. Abdusattorov's win against Vitiugov is particularly interesting, as black Abdusattorov gradually took over the position but still had to be precise until the very end. Notes below. Close on Abdusattorov's heals is Alireza Firouzja who has wins against Luke McShane and Pavel Eljanov. Nikolas Theodorou is the only other player on a plus score with three draws and a win against Gawain Maroroa Jones. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-leads-the-london-chess-classic-with-3.54",
+         "pubDate" : "Sun, 30 Nov 2025 15:04:00",
+         "title" : "Abdusattorov leads the London Chess Classic with 3.5/4 - 3-4"
+      },
+      {
+         "description" : "At the next Candidates Tournament, in spring 2026 in Cyprus, eight players will compete to determine the challenger to world champion Gukesh Dommaraju. Five of the players are in the current world top ten, while three are far from it. Several top players who one might have expected to see in the Candidates failed to qualify by any route. Has FIDE put forth a fair World Championship format? | Photo: Larneg (Pixabay)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-format-fairness",
+         "pubDate" : "Sun, 30 Nov 2025 14:25:00",
+         "title" : "Is the format used in the World Championship cycle fair?"
+      },
+      {
+         "description" : "Round four of the London Chess Classic saw Nodirbek Abdusattorov keep his sole lead with a third straight win, this time over Michael Adams in their first classical encounter ever. Alireza Firouzja also scored, outplaying Pavel Eljanov in a lengthy rook endgame, while Luke McShane defeated Gawain Maroroa Jones after a promising position for Black collapsed around move twenty. The remaining games were drawn, leaving Abdusattorov ahead on 3&frac12; points. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-4",
+         "pubDate" : "Sun, 30 Nov 2025 14:00:00",
+         "title" : "London Chess Classic: Abdusattorov leads, Firouzja trails a half point behind"
+      },
+      {
          "description" : "The European Blitz and Rapid Chess Championships are being held in Pristina, Kosovo, from 28 to 30 November. The Rapid Championship concluded on Friday and Saturday; the Blitz Championship follows on Sunday, with thirteen rounds of blitz chess (3+2) on the schedule. Vasyl Ivanchuk, Baadur Jobava, Jorden Van Foreest, Rasmus Svane and Christian Bauer are among the many top European players in the field. Follow the action live with commentary from 10:30 local time.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -15,7 +47,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-4",
          "pubDate" : "Sun, 30 Nov 2025 02:49:00",
-         "title" : "Wins For Abdusattorov, Firouzja, McShane in London's 4th Round"
+         "title" : "Wins For Abdusattorov, Firouzja, McShane In London's 4th Round"
       },
       {
          "description" : "GM Ediz Gurel capped off a tremendous November in the Bullet Brawl arena by picking up his third $400 win of the month on Saturday. Gurel won 49 games, drew three, and lost 13, amassing a winning score of 167 points in the process. GMs Hikaru Na...",
@@ -24,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-nov-29-2025",
          "pubDate" : "Sat, 29 Nov 2025 18:27:00",
          "title" : "Gurel Joins Elite Winners' Club After 3rd Win Of The Month"
-      },
-      {
-         "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-live",
-         "pubDate" : "Sat, 29 Nov 2025 16:50:00",
-         "title" : "London Chess Classic - Live!"
       },
       {
          "description" : "Hey everyone, I hope those of you celebrating had a lovely Thanksgiving. Before we get into today's newsletter, a quick announcement: Both my Courses are 25% off until Tuesday 3 PM CET. As always, you have a 14-day money back guarantee, so you can get them now at a reduced price without any risk. Simplified []",
@@ -896,14 +920,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-small-nations-team-chess-championship-2025-starts-in-cyprus/",
          "pubDate" : "Wed, 12 Nov 2025 17:43:15",
          "title" : "European Small Nations Team Chess Championship 2025 starts in Cyprus"
-      },
-      {
-         "description" : "The European Corporate Chess Championship 2025 concluded yesterday in Paris, France! The event took place from 7-8 November at the Espace Francis Delage, with the participation of 53 teams that competed over 9 swiss rounds with rapid time control. Ukrainian Greco clinched the Championship with the score of 24 match points (7 wins, 1 draw, 1 loss) and better tiebreaks than Bulgarian Agrofert which had the same score of match points. Greco (Ukraine) played in very strong composition with: GM []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/greco-ukraine-wins-european-corporate-chess-championship-2025/",
-         "pubDate" : "Sun, 09 Nov 2025 15:56:26",
-         "title" : "Greco (Ukraine) wins European Corporate Chess Championship 2025"
       }
    ]
 }
