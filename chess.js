@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-live",
+         "pubDate" : "Mon, 01 Dec 2025 16:50:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
          "description" : "Former, legendary World Chess Champion Garry Kasparov has been speaking vociferously about the situation in Ukraine and Russia at International Security Forums. He held a powerful speech on the Security Conference in Canada, and has spoken with extraordinary clarity about Russia, Ukraine, NATO, and responsibility of democracies in the world in a series of subsequent interviews. They are well worth watching.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,6 +42,14 @@ news_feed (
          "title" : "Pultinevicius and Van Foreest triumph at the European Rapid and Blitz Championships"
       },
       {
+         "description" : "After 225,000 Chess.com players cast 987,000 votes, posted 51,000 forum comments, and made 41 moves, IM Levy Rozman delivered checkmate as The World finally fell on Saturday during Thanksgiving weekend, bringing an end to Chess.com&#39;s GothamChess v...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gothamchess-beats-the-world-recap",
+         "pubDate" : "Mon, 01 Dec 2025 06:22:46",
+         "title" : "GothamChess Checkmates 225,000 Players In Largest-Ever Online Chess Game"
+      },
+      {
          "description" : "GM Nodirbek Abdusattorov extended his lead on Sunday at the London Chess Classic&#39;s Elite Tournament to a full point after winning his fourth game in a row, against GM Nikolas Theodorou. GM Alireza Firouzja, who drew with GM Gawain Maroroa Jones, i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-blitz-chess-champions-2025-crowned-in-kosovo/",
          "pubDate" : "Mon, 01 Dec 2025 00:44:35",
          "title" : "European Rapid & Blitz Chess Champions 2025 crowned"
-      },
-      {
-         "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-live",
-         "pubDate" : "Sun, 30 Nov 2025 16:50:00",
-         "title" : "London Chess Classic - Live!"
       },
       {
          "description" : " Nodirbek Abdusattorov has started quickly to lead the London Chess Classic alone after four rounds. All the games were drawn in the first round, since then he has beaten Abhimanyu Mishra, Nikita Vitiugov and Michael Adams. Abdusattorov's win against Vitiugov is particularly interesting, as black Abdusattorov gradually took over the position but still had to be precise until the very end. Notes below. Close on Abdusattorov's heals is Alireza Firouzja who has wins against Luke McShane and Pavel Eljanov. Nikolas Theodorou is the only other player on a plus score with three draws and a win against Gawain Maroroa Jones. ",
@@ -618,14 +626,6 @@ news_feed (
          "title" : "Exclusive | From 'surviving on rice and water in Russia' to 'burnout': Vidit's story"
       },
       {
-         "description" : "It took tiebreaks to decide a winner in Freestyle Friday on November 21, with GM Pranesh M squeaking by GM Magnus Carlsen to claim his second Freestyle Friday in as many months.&#38;nbsp; Carlsen was the last perfect player in the field of 120, reac...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pranesh-wins-freestyle-friday-november-21-2025",
-         "pubDate" : "Fri, 21 Nov 2025 11:36:08",
-         "title" : "Down To The Wire Freestyle Friday Goes To Pranesh"
-      },
-      {
          "description" : "The World Cup began on 30 October in Goa, India. Two hundred and six players entered the tournament; three weeks later, only four remain and will now meet in the semifinals. China's Wei Yi faces the Russian GM Andrey Esipenko, while Javokhir Sindarov of Uzbekistan takes on his compatriot Nodirbek Yakubboev. The top three finishers qualify for the Candidates Tournament. The winner earns 120,000 USD, the fourth-placed player 50,000. But who has the best chances of winning the event - and securing a spot in the Candidates? | Photos: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -733,7 +733,7 @@ news_feed (
          "description" : "2025 was a reminder for the young Indians that if you're not at your absolute best, there are enough opponents around who are good enough to take advantage.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/47022191/india-stumble-fide-chess-world-cup-2025-goa?device=featurephone",
+         "link" : "https://www.espn.com/chess/story/_/id/47022191/india-stumble-fide-chess-world-cup-2025-goa",
          "pubDate" : "Wed, 19 Nov 2025 09:56:25",
          "title" : "24 to 0: Indians stumble at home Chess World Cup"
       },
@@ -765,7 +765,7 @@ news_feed (
          "description" : "GM Gajewski speaks to ESPN after Gukesh's shock early exit from the FIDE World Cup on lessons learnt from a tough 2025",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/47008708/silence-please-chess-wrestles-fan-atmosphere-conundrum?device=featurephone",
+         "link" : "https://www.espn.com/chess/story/_/id/47008708/silence-please-chess-wrestles-fan-atmosphere-conundrum",
          "pubDate" : "Tue, 18 Nov 2025 11:39:05",
          "title" : "Silence please: Chess wrestles with fan atmosphere conundrum"
       },
@@ -869,7 +869,7 @@ news_feed (
          "description" : "GM Gajewski speaks to ESPN after Gukesh's shock early exit from the FIDE World Cup on lessons learnt from a tough 2025",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/46951993/world-champ-world-cup-loss-coach-gajewski-plots-gukesh-revival-2026?device=featurephone",
+         "link" : "https://www.espn.com/chess/story/_/id/46951993/world-champ-world-cup-loss-coach-gajewski-plots-gukesh-revival-2026",
          "pubDate" : "Thu, 13 Nov 2025 08:07:44",
          "title" : "World champ to World Cup loss: Gajewski plots Gukesh revival in 2026"
       },
