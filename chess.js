@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Rapid and Blitz Championships in Pristina, the capital of Kosovo, brought together more than 350 players from 38 federations. Lithuanian GM Paulius Pultinevicius won the rapid title with a 10/11 score after a final-round victory over Vasyl Ivanchuk (who lost on time in an endgame with an extra pawn), while Jorden van Foreest secured the blitz crown by finishing on 11/13. | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-rapid-blitz-ch-2025-final-report",
+         "pubDate" : "Mon, 01 Dec 2025 07:15:00",
+         "title" : "Pultinevicius and Van Foreest triumph at the European Rapid and Blitz Championships"
+      },
+      {
          "description" : "The 2025 European Rapid &#38; Blitz Chess Championships took place from 27 November 1 December in Pristina, Kosovo. The event gathered nearly 400 players coming from 38 European federations, and commenced with the Rapid Championship which was played from 28-29 November in 11 rounds (swiss system). GM Paulius Pultinevicius (LTU, 2566) emerged as the sole Winner of the European Rapid Chess Championship 2025 with the score of 10 points. Playing for gold in the final round, Pultinevicius defeated GM []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
