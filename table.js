@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-11-30","15","<a href=https://ratings.uschess.org/event/202511300323 target='_blank'>Bellaire Sunday Swiss 2025.11.30</a>",
 "HOUSTON","2025-11-29","31","<a href=https://ratings.uschess.org/event/202511290243 target='_blank'>Lone Star Houston Fall Action</a>",
 "HOUSTON","2025-11-29","11","<a href=https://ratings.uschess.org/event/202511290193 target='_blank'>chesspanda11292025saturday</a>",
 "SPRING","2025-11-28","27","<a href=https://ratings.uschess.org/event/202511280193 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -98,5 +99,4 @@ jtable([
 "SUGAR LAND","2025-08-29","8","<a href=https://ratings.uschess.org/event/202508290702 target='_blank'>FBCC 2025 NATIONAL SWEET CORN DAY O</a>",
 "SPRING","2025-08-29","20","<a href=https://ratings.uschess.org/event/202508290692 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2025-08-26","20","<a href=https://ratings.uschess.org/event/202508269402 target='_blank'>AUGUST 2025 TUESDAY NIGHT SWISS</a>",
-"HOUSTON","2025-08-24","94","<a href=https://ratings.uschess.org/event/202508249112 target='_blank'>DFW SUMMER FIDE</a>",
 ]);
