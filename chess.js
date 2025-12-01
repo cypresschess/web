@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has just published its new World Ranking List. Vincent Keymer, Germany's top player, has established himself in fourth place on the Elo list and firmly among the world's elite. Magnus Carlsen, the world's highest-rated player, also gained Elo. The best women come from China, and the best juniors from India.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-december-2",
+         "pubDate" : "Mon, 01 Dec 2025 19:00:00",
+         "title" : "FIDE ratings - December 2025"
+      },
+      {
          "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +34,28 @@ news_feed (
          "title" : "London: Abdusattorov continues to win"
       },
       {
+         "description" : "The Academy Award-winning animated short War Is Over!, a film in which an emotional game of correspondence chess becomes a lifeline between two soldiers on opposite sides of a battlefield, was released on YouTube today. Last year, War Is Over! b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oscar-awarded-chess-themed-animated-short-war-is-over-released-to-public",
+         "pubDate" : "Mon, 01 Dec 2025 10:11:00",
+         "title" : "Oscar-Winning Chess-Themed Animated Short 'War Is Over' Released To Public"
+      },
+      {
          "description" : "India Registers a Dominant Performance with 49 Medals at the Asian Youth Chess Championship AICF congratulates all players, coaches, and parents for an exceptional all-format",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/india-registers-a-dominant-performance-with-49-medals-at-the-asian-youth-chess-championship-2025-in-bangkok-from-20-30-december-2025/",
          "pubDate" : "Mon, 01 Dec 2025 09:15:48",
          "title" : "India Registers a Dominant Performance with 49 Medals at the Asian Youth Chess Championship 2025 in Bangkok from 20-30 November 2025"
+      },
+      {
+         "description" : "This December, Chess.com is giving you the gift of five limited-edition bots for you to defeat! Take on classic holiday characters like Frosty and Santa, or test your luck against a ghostly chess spirit, a claymation monster, and more.&#38;nbsp; Wil...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/holiday-bots-2025",
+         "pubDate" : "Mon, 01 Dec 2025 09:07:19",
+         "title" : "New Bots Have Arrived For The Holidays!"
       },
       {
          "description" : "The European Rapid and Blitz Championships in Pristina, the capital of Kosovo, brought together more than 350 players from 38 federations. Lithuanian GM Paulius Pultinevicius won the rapid title with a 10/11 score after a final-round victory over Vasyl Ivanchuk (who lost on time in an endgame with an extra pawn), while Jorden van Foreest secured the blitz crown by finishing on 11/13. | Photo: European Chess Union",
@@ -42,11 +66,11 @@ news_feed (
          "title" : "Pultinevicius and Van Foreest triumph at the European Rapid and Blitz Championships"
       },
       {
-         "description" : "After 225,000 Chess.com players cast 987,000 votes, posted 51,000 forum comments, and made 41 moves, IM Levy Rozman delivered checkmate as The World finally fell on Saturday during Thanksgiving weekend, bringing an end to Chess.com&#39;s GothamChess v...",
+         "description" : "After 225,000 Chess.com players cast 988,000 votes, posted 52,000 forum comments, and made 41 moves, IM Levy Rozman delivered checkmate as The World finally fell on Saturday during Thanksgiving weekend, bringing an end to Chess.com&#39;s GothamChess v...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gothamchess-beats-the-world-recap",
-         "pubDate" : "Mon, 01 Dec 2025 06:22:46",
+         "pubDate" : "Mon, 01 Dec 2025 06:22:00",
          "title" : "GothamChess Checkmates 225,000 Players In Largest-Ever Online Chess Game"
       },
       {
@@ -64,6 +88,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-blitz-chess-champions-2025-crowned-in-kosovo/",
          "pubDate" : "Mon, 01 Dec 2025 00:44:35",
          "title" : "European Rapid & Blitz Chess Champions 2025 crowned"
+      },
+      {
+         "description" : "December means it's time for the annual Miniatures Issue. Games containing 25 or fewer moves are presented. Some games may contain variations that extend past the 25-move limitation; however, the main line moves of the game will have no more than 25. Other specific requirements: games have no fewer than 19 moves, and were posted to the ICCF archives this year.Since the games are all miniatures, I doubled the number of games and puzzles typically provided for an issue of Check is in the Mail.Also in this issue are two additional games that were played by the co-author of Check is in the Mail. Michael D. Buss always provides the content for the Front Office section. I added two games to the en",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/check-mail-december-2025-return-mini",
+         "pubDate" : "Mon, 01 Dec 2025 00:00:00",
+         "title" : "Check is in the Mail, December 2025: Return of the Mini!"
       },
       {
          "description" : " Nodirbek Abdusattorov has started quickly to lead the London Chess Classic alone after four rounds. All the games were drawn in the first round, since then he has beaten Abhimanyu Mishra, Nikita Vitiugov and Michael Adams. Abdusattorov's win against Vitiugov is particularly interesting, as black Abdusattorov gradually took over the position but still had to be precise until the very end. Notes below. Close on Abdusattorov's heals is Alireza Firouzja who has wins against Luke McShane and Pavel Eljanov. Nikolas Theodorou is the only other player on a plus score with three draws and a win against Gawain Maroroa Jones. ",
@@ -570,14 +602,6 @@ news_feed (
          "title" : "Review: 60 minutes against the French"
       },
       {
-         "description" : "The Semifinals of the 2025 FIDE World Cup will be decided in tiebreaks after the second classical games both ended in draws. GM Andrey Esipenko tried to massage a risk-free edge against GM Wei Yi&#39;s Petroff, while GM Javokhir Sindarov took an early...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-semifinals-game-2",
-         "pubDate" : "Sat, 22 Nov 2025 05:42:00",
-         "title" : "2 Candidates Spots To Be Decided In World Cup Tiebreaks"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125499094.cms\" />Chess World Cup semifinals opened with cautious play, resulting in draws for both matches. Uzbek childhood friends Sindarov Javokhir and Yakubboev Nodirbek drew after a tense battle, while Andrey Esipenko and Wei Yi also split points. Both Esipenko and Sindarov will aim to leverage their opening advantage in the next games.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -600,14 +624,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2025-r7g1",
          "pubDate" : "Fri, 21 Nov 2025 20:10:00",
          "title" : "World Cup SF: Two draws, no lack of tension"
-      },
-      {
-         "description" : "GM Denis Lazavik has booked his spot in the Semifinals of the 2025 Speed Chess Championship and will play GM Magnus Carlsen live in London after defeating GM Hans Niemann 15.5-9.5 on Friday. Lazavik won 11 games and lost only five against Niemann,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-qf-niemann-lazavik",
-         "pubDate" : "Fri, 21 Nov 2025 19:07:00",
-         "title" : "Lazavik To Play Carlsen After Niemann Rout"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125491290.cms\" />In the FIDE World Cup semifinals, top seed Wei Yi drew his first game against Andrey Esipenko, while the match between Uzbek players Nodirbek Yakubboev and Javokhir Sindarov also ended in a draw. Despite fewer spectators after Indian players' elimination, the remaining competitors maintained their spirit. The second games are scheduled for Saturday, with tiebreaks to follow if needed.",
@@ -792,14 +808,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-erigaisi-arjun-is-fast-but-chinese-rival-forces-quick-draw/articleshow/125404568.cms",
          "pubDate" : "Tue, 18 Nov 2025 07:05:19",
          "title" : "Chess World Cup: Arjun Erigaisi is fast but Chinese rival forces quick draw"
-      },
-      {
-         "description" : "This week's exercises come from the just-concluded 2025 U.S. Senior Women's Championship, where WFM Natalya Tsodikova defended her title with an Armageddon playoff victory over WGM Anjelina Belakovskaia. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-us-senior-womens-championship",
-         "pubDate" : "Tue, 18 Nov 2025 00:00:00",
-         "title" : "Tactics Tuesday: U.S. Senior Women's Championship"
       },
       {
          "description" : "Please find the Under 12 &#38; Under 18 certificates . For any query please write back to indainchessfed@gmail.com UNDER 12 S.No Name Team Name 1",
