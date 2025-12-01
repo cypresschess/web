@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Former, legendary World Chess Champion Garry Kasparov has been speaking vociferously about the situation in Ukraine and Russia at International Security Forums. He held a powerful speech on the Security Conference in Canada, and has spoken with extraordinary clarity about Russia, Ukraine, NATO, and responsibility of democracies in the world in a series of subsequent interviews. They are well worth watching.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kasparov-in-the-news",
+         "pubDate" : "Mon, 01 Dec 2025 12:00:00",
+         "title" : "Kasparov on the world situation"
+      },
+      {
+         "description" : "The first half of the London Chess Classic was dominated by Nodirbek Abdusattorov (photo). In round 5 he defeated Nikolas Theodorou with White, reaching 4.5/5 at the halfway mark and pulling a full point ahead of Alireza Firouzja. Firouzja drew with Black against Gawain Maroroa Jones and now stands on 3.5/5. Abhimanyu Mishra and Luke McShane also drew, as did Pavel Eljanov and Michael Adams. The second win of the round went to Nikita Vitiugov, who won a theoretically interesting game against Sam Shankland.| Photo: Tennis legend Andy Murray (center) makes the ceremonial first move | Photo: Tournament page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-abdusattorov-continues-to-win",
+         "pubDate" : "Mon, 01 Dec 2025 11:00:16",
+         "title" : "London: Abdusattorov continues to win"
+      },
+      {
+         "description" : "India Registers a Dominant Performance with 49 Medals at the Asian Youth Chess Championship AICF congratulates all players, coaches, and parents for an exceptional all-format",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/india-registers-a-dominant-performance-with-49-medals-at-the-asian-youth-chess-championship-2025-in-bangkok-from-20-30-december-2025/",
+         "pubDate" : "Mon, 01 Dec 2025 09:15:48",
+         "title" : "India Registers a Dominant Performance with 49 Medals at the Asian Youth Chess Championship 2025 in Bangkok from 20-30 November 2025"
+      },
+      {
          "description" : "The European Rapid and Blitz Championships in Pristina, the capital of Kosovo, brought together more than 350 players from 38 federations. Lithuanian GM Paulius Pultinevicius won the rapid title with a 10/11 score after a final-round victory over Vasyl Ivanchuk (who lost on time in an endgame with an extra pawn), while Jorden van Foreest secured the blitz crown by finishing on 11/13. | Photo: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-rapid-blitz-ch-2025-final-report",
          "pubDate" : "Mon, 01 Dec 2025 07:15:00",
          "title" : "Pultinevicius and Van Foreest triumph at the European Rapid and Blitz Championships"
+      },
+      {
+         "description" : "GM Nodirbek Abdusattorov extended his lead on Sunday at the London Chess Classic&#39;s Elite Tournament to a full point after winning his fourth game in a row, against GM Nikolas Theodorou. GM Alireza Firouzja, who drew with GM Gawain Maroroa Jones, i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-5",
+         "pubDate" : "Mon, 01 Dec 2025 02:45:00",
+         "title" : "Abdusattorov Wins Again, Extends Lead In London"
       },
       {
          "description" : "The 2025 European Rapid &#38; Blitz Chess Championships took place from 27 November 1 December in Pristina, Kosovo. The event gathered nearly 400 players coming from 38 European federations, and commenced with the Rapid Championship which was played from 28-29 November in 11 rounds (swiss system). GM Paulius Pultinevicius (LTU, 2566) emerged as the sole Winner of the European Rapid Chess Championship 2025 with the score of 10 points. Playing for gold in the final round, Pultinevicius defeated GM []",
@@ -592,14 +624,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/pranesh-wins-freestyle-friday-november-21-2025",
          "pubDate" : "Fri, 21 Nov 2025 11:36:08",
          "title" : "Down To The Wire Freestyle Friday Goes To Pranesh"
-      },
-      {
-         "description" : "GM Jan-Krzysztof Duda, GM Hikaru Nakamura, and IM Renato Terry&#38;nbsp;won the second week of 3 0 Thursday events, which were held on November 20. GM Magnus Carlsen almost secured his first 3 0 Thursday victory in the first session, but a final-round...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/duda-nakamura-terry-3-0-thursday-11-20-2025",
-         "pubDate" : "Fri, 21 Nov 2025 10:59:00",
-         "title" : "Duda, Nakamura, Terry Win 3 0 Thursday"
       },
       {
          "description" : "The World Cup began on 30 October in Goa, India. Two hundred and six players entered the tournament; three weeks later, only four remain and will now meet in the semifinals. China's Wei Yi faces the Russian GM Andrey Esipenko, while Javokhir Sindarov of Uzbekistan takes on his compatriot Nodirbek Yakubboev. The top three finishers qualify for the Candidates Tournament. The winner earns 120,000 USD, the fourth-placed player 50,000. But who has the best chances of winning the event - and securing a spot in the Candidates? | Photos: Michal Walusza",
