@@ -194,22 +194,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Immortal game with 1.b4"
       },
       {
-         "description" : "DeepMind Technologies has revolutionized AI research and, in its still relatively short history, produced many valuable results and breakthroughs. With its Go and chess programs AlphaGo and AlphaZero, DeepMind caused quite a stir in the gaming world, but of course the aim is about far more than winning games. A compelling film on this was shown at the Tribeca Festival and is now available on YouTube.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-thinking-game-how-deepmind-transformed-artificial-intelligence",
-         "pubDate" : "Thu, 27 Nov 2025 15:25:04",
-         "title" : "The Thinking Game - How DeepMind Transformed Artificial Intelligence"
-      },
-      {
-         "description" : "From 26 November to 7 December, the XTX Markets London Chess Classic showcase the game with a packed programme of tournaments and side events. The centrepiece of the festival is the Elite Tournament, featuring ten top players. The opening round produced five draws and no decisive games, but offered several interesting theoretical contests. | Photo: Elo favourite Alireza Firouzja | Photo: Lennart Ootes, Archive",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-theoretical-debates",
-         "pubDate" : "Thu, 27 Nov 2025 12:34:36",
-         "title" : "London Chess Classic: Theoretical debates"
-      },
-      {
          "description" : "As chess players occasionally do, Alex Fishbein, the U.S. grandmaster, was recently looking at a classic game from the past: Viktor Kortschnoj's victory over Anatoly Karpov in the 21st game of their 1978 match. Something was wrong. Charles Sullivan had done some intense research on this volatile encounter and asks for your assessment on the results he presents.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -258,14 +242,6 @@ news_feed (
          "title" : "FIDE World Cup, Finals - Live!"
       },
       {
-         "description" : "A decisive result in the match for third place marked Tuesday's action at the FIDE World Cup in Goa, as Andrey Esipenko secured qualification for the 2026 Candidates Tournament. The Russian grandmaster completed a 2-0 victory over Nodirbek Yakubboev with another confident performance in the rematch, while the second classical game of the final between Wei Yi and Javokhir Sindarov ended in a short draw, sending their title contest to rapid tiebreaks. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-r8g2",
-         "pubDate" : "Wed, 26 Nov 2025 07:50:00",
-         "title" : "World Cup: Esipenko wins again, gets last Candidates spot"
-      },
-      {
          "description" : "Nineteen-year-old Uzbek GM Javokhir Sindarov has won the 2025 FIDE World Cup and the $120,000 top prize after beating GM Wei Yi 1.5-0.5 in tiebreaks. Sindarov missed a one-move chance to win with White in the first tiebreak game, but he made no mi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -298,28 +274,12 @@ news_feed (
          "title" : "Sindarov wins 2025 FIDE World Cup"
       },
       {
-         "description" : "In this episode, Arne briefly \"takes over\" the Monthly Dragon and, together with Chris, uses ChessBase 26's new Opening Report to explore the history and current relevance of major Dragon and Dragadorf setups, checking how fashionable they are today across different rating levels. They showcase the tactics feature on Dragon positions, with Chris solving sharp combinations live and demonstrating how ChessBase automatically extracts tactical exercises from large databases. The show culminates in an instructive 1951 Averbakh Dragon game, where a dynamic pawn sacrifice and queenside pressure lead to a superior rook endgame. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-how-fashionable-is-the-dragon-in-2025",
-         "pubDate" : "Tue, 25 Nov 2025 18:00:00",
-         "title" : "The Monthly Dragon - How Fashionable Is the Dragon in 2025?"
-      },
-      {
          "description" : " The 15th XTX Markets London Chess Classic takes place Wed 26th Nov to Sun 7th Dec 2025. Players: Alireza Firouzja, Luke Mcshane, Michael Adams, Nikolas Theodorou, Sam Shankland, Nodirbek Abdusattorov, Pavel Eljanov, Nikita Vitiugov, Abhimanyu Mishra and Gawain Maroroa Jones. There's an open alongside with Praggnanandhaa as top seed. Strong Rapid and Blitz rounds out the event.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/15th-xtx-markets-london-chess-classic-2025",
          "pubDate" : "Tue, 25 Nov 2025 16:54:00",
          "title" : "15th XTX Markets London Chess Classic 2025 - Games and Results"
-      },
-      {
-         "description" : "In Larnaca, Europe's small chess nations met for the 9th ESNA Team Chess Championship - and delivered a full week of excitement, fierce games, and genuine team spirit. A tournament that shows: greatness isn't measured on a map, but on the board. | Photos: European Small Nations Chess Association (ESNA)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/small-nations-strong-chess-esna-2025-in-larnaca",
-         "pubDate" : "Tue, 25 Nov 2025 16:05:50",
-         "title" : "Small nations, strong chess: ESNA 2025 in Larnaca"
       },
       {
          "description" : "GM Pranesh M won a wild game in a wild final round of a wild Titled Tuesday on November 25 to take home first place ahead of GM Magnus Carlsen on tiebreaks. With five players tied for first after 10 rounds, Pranesh and Carlsen were both fighting j...",
@@ -346,14 +306,6 @@ news_feed (
          "title" : "Chess.com Joins Esports Nations Cup As Official Publisher For 2026 Launch"
       },
       {
-         "description" : "The quarterfinals of the 2025 Speed Chess Championship have concluded, producing two compelling semifinal pairings for the live stage in London this February. Magnus Carlsen will face Denis Lazavik, while Hikaru Nakamura is set to meet Alireza Firouzja in a clash of leading speed-play specialists. The event, organised by chess.com, continues to combine online matchplay with an on-site finale, bringing rapid-fire chess to a live audience on 7-8 February 2026.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-ch-2025-26-qf",
-         "pubDate" : "Tue, 25 Nov 2025 09:20:00",
-         "title" : "Speed Chess Championship: Carlsen, Nakamura, Firouzja and Lazavik in semis"
-      },
-      {
          "description" : "We&#39;re excited to announce the return of the Chess.com Global Championship (CGC), starting on March 14, 2026! With a whopping $250,000 prize fund and up to three spots to next year&#39;s Esports World Cup on the line, the stakes are higher than ever! ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -376,22 +328,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-fide-womens-world-team-championship",
          "pubDate" : "Tue, 25 Nov 2025 00:00:00",
          "title" : "Tactics Tuesday: FIDE Women's World Team Championship"
-      },
-      {
-         "description" : "The final stage of the FIDE World Cup began in Goa on Tuesday, with Wei Yi and Javokhir Sindarov opening their title match and Andrey Esipenko and Nodirbek Yakubboev starting their fight for the last remaining Candidates spot. Both encounters produced entertaining struggles: Wei pressed slightly in a Petroff Defence before the game was drawn, while Esipenko responded to his painful semifinal exit with a confident win to take the lead in the third-place match. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-r8g1",
-         "pubDate" : "Mon, 24 Nov 2025 23:25:00",
-         "title" : "World Cup: Esipenko beats Yakubboev"
-      },
-      {
-         "description" : "On 15 November, the Stavenhagenhaus, a splendid early 18th-century manor house in Hamburg, Germany, hosted a special event. The local community had invited Germany's top female player and only woman GM, Elisabeth P&auml;htz, for a simul. P&auml;htz offered an engaging chess lesson and then won her simul against 20 opponents. | Photos: Uwe Schr&ouml;der",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/simul-with-elisabeth-paehtz-at-the-stavenhagenhaus",
-         "pubDate" : "Mon, 24 Nov 2025 18:00:00",
-         "title" : "Simul with Elisabeth P&auml;htz at the Stavenhagenhaus"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125544293.cms\" />Wei Yi drew his first FIDE World Cup final game against Javokhir Sindarov. Wei Yi played with black pieces and secured a draw. Andrey Esipenko won the third-place match against Nodirbek Yakubboev. Esipenko's victory puts him in a strong position for the Candidates tournament. The FIDE World Cup 2025 final continues.",
@@ -442,14 +378,6 @@ news_feed (
          "title" : "Save More Than Ever On Your New ChessUp 2 Smart Chessboard"
       },
       {
-         "description" : "Russia, competing as the FIDE team, claimed gold at the World Women's Team Championship in Linares, capping an unbeaten run that carried them through both the pool stage and knockout rounds without requiring a single tiebreak. Azerbaijan finished second after an impressive campaign, while China secured bronze by defeating Kazakhstan. The event featured a standout individual performance from Polina Shuvalova, who scored an exceptional 9&frac12;/10 on board three for the champions. | Photo: Pavel Dvorkovich",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-final-report",
-         "pubDate" : "Mon, 24 Nov 2025 08:00:00",
-         "title" : "World Women's Team Championship: A convincing victory for FIDE Team"
-      },
-      {
          "description" : "GM Andrey Esipenko recovered from his heartbreaking blunder the day before to beat GM Nodirbek Yakubboev. He now leads the battle for both third place in the 2025 FIDE World Cup and the final spot in the 2026 FIDE Candidates Tournament. In the tit...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -464,14 +392,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-the-musical-returns-to-broadway",
          "pubDate" : "Mon, 24 Nov 2025 05:49:00",
          "title" : "Reviews Are In, Chess The Musical Back On Broadway After 37 Years"
-      },
-      {
-         "description" : "Two players secured their places in the 2026 Candidates Tournament after Sunday's semifinal tiebreaks at the FIDE World Cup in Goa. Wei Yi and Javokhir Sindarov (pictured) both prevailed by a 2&frac12;-1&frac12; score in their matches against Andrey Esipenko and Nodirbek Yakubboev, respectively. Wei's victory came after Esipenko unexpectedly blundered his rook, while Sindarov kept things under control throughout against his compatriot. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-r7tb",
-         "pubDate" : "Mon, 24 Nov 2025 04:50:00",
-         "title" : "World Cup: Wei and Sindarov make it to the Candidates"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125530030.cms\" />While 19-year-old Sindarov defeated childhood friend Yakubboev Nodirbek in an all-Uzbekistan semifinal by snatching an early lead, the battle between Russia No. 2 Andrey Esipenko and world rapid No. 4 Wei was a contest of blunders, won by the \"lucky\" Chinese GM.",
