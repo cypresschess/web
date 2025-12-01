@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 European Rapid &#38; Blitz Chess Championships took place from 27 November 1 December in Pristina, Kosovo. The event gathered nearly 400 players coming from 38 European federations, and commenced with the Rapid Championship which was played from 28-29 November in 11 rounds (swiss system). GM Paulius Pultinevicius (LTU, 2566) emerged as the sole Winner of the European Rapid Chess Championship 2025 with the score of 10 points. Playing for gold in the final round, Pultinevicius defeated GM []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-rapid-blitz-chess-champions-2025-crowned-in-kosovo/",
+         "pubDate" : "Mon, 01 Dec 2025 00:44:35",
+         "title" : "European Rapid & Blitz Chess Champions 2025 crowned"
+      },
+      {
          "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
