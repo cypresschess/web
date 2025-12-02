@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125713043.cms\" />Uzbekistan's 19-year-old Javokhir Sindarov made chess history by becoming the youngest FIDE World Cup champion, earning a spot in the 2026 Candidates Tournament. Kazakhstan's Grandmaster Bibisara Assaubayeva, a two-time World Blitz Champion, expressed immense pride in Sindarov's achievement. Assaubayeva, who recently earned her GM title, now aims to qualify for the Women's Candidates next year, currently leading the FIDE Circuit.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-after-javokhir-sindarovs-world-cup-glory-closest-friend-bibisara-assaubayeva-reveals-her-own-unfinished-task/articleshow/125713043.cms",
+         "pubDate" : "Tue, 02 Dec 2025 07:52:22",
+         "title" : "After Sindarov's WC glory, 'closest friend' Assaubayeva reveals her 'unfinished task'"
+      },
+      {
+         "description" : "Round six of the London Chess Classic saw Nodirbek Abdusattorov extend his lead with a fifth consecutive win, capitalising on a mistake by Sam Shankland in a dynamic Scotch Opening. Alireza Firouzja drew against Abhimanyu Mishra after early tactical complications gave way to a simplified position, while Pavel Eljanov won against Gawain Maroroa Jones. With three rounds remaining, Abdusattorov holds a 1&frac12;-point advantage over Firouzja, sitting in sole second place. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-6",
+         "pubDate" : "Tue, 02 Dec 2025 06:25:00",
+         "title" : "London Chess Classic: Five in a row for Abdusattorov"
+      },
+      {
          "description" : "FIDE has just published its new World Ranking List. Vincent Keymer, Germany's top player, has established himself in fourth place on the Elo list and firmly among the world's elite. Magnus Carlsen, the world's highest-rated player, also gained Elo. The best women come from China, and the best juniors from India.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-ratings-december-2",
          "pubDate" : "Mon, 01 Dec 2025 19:00:00",
          "title" : "FIDE ratings - December 2025"
-      },
-      {
-         "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-live",
-         "pubDate" : "Mon, 01 Dec 2025 16:50:00",
-         "title" : "London Chess Classic - Live!"
       },
       {
          "description" : "Former, legendary World Chess Champion Garry Kasparov has been speaking vociferously about the situation in Ukraine and Russia at International Security Forums. He held a powerful speech on the Security Conference in Canada, and has spoken with extraordinary clarity about Russia, Ukraine, NATO, and responsibility of democracies in the world in a series of subsequent interviews. They are well worth watching.",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-national-school-teamu-12-u-18-chess-championship-2025-in-shimla-from-12-14-oct-2025/",
          "pubDate" : "Mon, 17 Nov 2025 08:19:11",
          "title" : "Certificate of National School Team(U 12 & U 18) Chess Championship 2025 in Shimla from 12-14 Oct 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125375999.cms\" />Russian Grandmaster Daniil Dubov's dismissive comments after defeating R Praggnanandhaa highlight a trend of early exits for elite players at the FIDE World Cup 2025. Several top seeds, including World Champion D Gukesh, fell to lower-rated opponents, prompting discussions about the narrowing gap in skill and flaws in the rating system.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/from-d-gukesh-to-r-praggnanandhaa-is-everything-all-right-with-top-chess-players-early-world-cup-exits-expose-harsh-truth/articleshow/125375999.cms",
-         "pubDate" : "Mon, 17 Nov 2025 04:49:40",
-         "title" : "From Gukesh to Pragg: Early World Cup exits expose harsh truths"
       },
       {
          "description" : "Improving at chess is simple. Just follow my three Do's and you'll be good. That doesn't mean it is easy, though. What makes it hard are the roadblocks along the way. And most of them are self inflicted and imaginary. You might resonate with some: It is the same for chess, business, nutrition You don't []",
