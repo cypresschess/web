@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125713043.cms\" />Uzbekistan's 19-year-old Javokhir Sindarov made chess history by becoming the youngest FIDE World Cup champion, earning a spot in the 2026 Candidates Tournament. Kazakhstan's Grandmaster Bibisara Assaubayeva, a two-time World Blitz Champion, expressed immense pride in Sindarov's achievement. Assaubayeva, who recently earned her GM title, now aims to qualify for the Women's Candidates next year, currently leading the FIDE Circuit.",
+         "description" : "Ed Schr&ouml;der is a pioneer in chess programming. In the 1990s his program Rebel won a number of World Championships in computer chess, and always had a special place in the community, due to its playing style. In 2003 he retired from competitive computer chess, only releasing freeware versions of Rebel. Now Ed has come out of retirement and is undertaking some interesting new projects - like extracting the most interesting games from historical databases. And he is sharing them with us.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rebel-and-playing-style-in-chess",
+         "pubDate" : "Tue, 02 Dec 2025 12:00:00",
+         "title" : "Rebel and playing style in chess"
+      },
+      {
+         "description" : "Please find the certificates here Rank Name Rank Name 1 Goutham Krishna H 1 Arshiya Das 2 Rosh Jain 2 Pratitee Bordoloi 3 Sherla Prathamesh",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-national-under-15-chess-championship-2025-held-in-ghaziabad-from-02-10-nov-2025/",
+         "pubDate" : "Tue, 02 Dec 2025 10:25:59",
+         "title" : "Certificate of National Under 15 Chess Championship 2025 held in Ghaziabad from 02-10 Nov 2025"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125713043.cms\" />Uzbekistan's 19-year-old Javokhir Sindarov made chess history by becoming the youngest FIDE World Cup champion, earning a spot in the 2026 Candidates Tournament. Kazakhstan's Grandmaster Bibisara Assaubayeva, a two-time World Blitz Champion, expressed immense pride in Sindarov's achievement. Assaubayeva, who will play for American Gambits in the upcoming season of GCL, now aims to qualify for the Women's Candidates next year.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-after-javokhir-sindarovs-world-cup-glory-closest-friend-bibisara-assaubayeva-reveals-her-own-unfinished-task/articleshow/125713043.cms",
@@ -16,6 +32,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/london-chess-classic-2025-6",
          "pubDate" : "Tue, 02 Dec 2025 06:25:00",
          "title" : "London Chess Classic: Five in a row for Abdusattorov"
+      },
+      {
+         "description" : "The FIDE World Cup dominated chess headlines in November, leading to several changes in the December 2025 FIDE rating list. No one benefited more than quarterfinalist GM Jose Martinez, known primarily for his Titled Tuesday and other online blitz ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/december-2025-fide-ratings",
+         "pubDate" : "Tue, 02 Dec 2025 04:08:49",
+         "title" : "Martinez Surges In December 2025 FIDE Ratings"
+      },
+      {
+         "description" : "GM Nodirbek Abdusattorov made it a magnificent five wins in a row at the London Chess Classic Elite Tournament after GM Sam Shankland went astray in a razor-sharp position. Abdusattorov now has a 1.5-point lead over GM Alireza Firouzja, who had to...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-6",
+         "pubDate" : "Tue, 02 Dec 2025 03:28:18",
+         "title" : "5th Straight Win Gives Abdusattorov 1.5-Point Lead Over Firouzja"
       },
       {
          "description" : "FIDE has just published its new World Ranking List. Vincent Keymer, Germany's top player, has established himself in fourth place on the Elo list and firmly among the world's elite. Magnus Carlsen, the world's highest-rated player, also gained Elo. The best women come from China, and the best juniors from India.",
@@ -530,14 +562,6 @@ news_feed (
          "title" : "Review: All new releases in October!"
       },
       {
-         "description" : "GM Andrey Esipenko was on course to qualify for the 2025 FIDE World Cup Final and the Candidates but first missed a win and then blundered a whole rook in the next move against GM Wei Yi. The Chinese star will face GM Javokhir Sindarov, after the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-semifinals-tiebreaks",
-         "pubDate" : "Sun, 23 Nov 2025 04:09:00",
-         "title" : "Wei Yi Joins Sindarov In World Cup Final After Esipenko Blunders Rook"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125514747.cms\" />The contest between childhood Uzbek friends Sindarov and Yakubboev was a short and sweet affair that lasted for 1 hour, 25 minutes. Both young grandmasters played at an accuracy level of 98%. The Four Knights Game of Spanish Variation saw a handshake immediately after the mandatory 30 moves, where both the Uzbekistan semifinalists had a similar structure on the board with equal pawns and a bishop.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -552,14 +576,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-in-memory-of-danya",
          "pubDate" : "Sat, 22 Nov 2025 20:00:00",
          "title" : "Svitlana's Smart Moves - In memory of Danya"
-      },
-      {
-         "description" : "Turkey&#39;s prodigious GM Ediz Gurel won his second Bullet Brawl of the month on Saturday after posting a 22-game unbeaten streak and staving off a late challenge from GM Nihal Sarin. Gurel scored 157 points, three more than the Indian super-GM, and ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-nov-22-2025",
-         "pubDate" : "Sat, 22 Nov 2025 16:03:00",
-         "title" : "Gurel Cements Status As No. 1 Junior Bullet Brawler"
       },
       {
          "description" : "A lot of improvers struggle with a unhealthy relationship to ratings. So would all be better if there were no ratings at all? I'd argue no. In this Newsletter I want to share the positive side of ratings and why only our interpretation makes them toxic. A World Without Ratings If you struggle with rating []",
