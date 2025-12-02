@@ -162,14 +162,6 @@ news_feed (
          "title" : "The art of chess: Duchamp and Nimzowitsch"
       },
       {
-         "description" : "Robert Ris showcases Jos&eacute; Eduardo Mart&iacute;nez Alc&aacute;ntara's stunning World Cup win with Black against Super GM Nodirbek Abdusattorov, starting from a sharp opposite-castling Philidor-type position in which White unleashes a powerful kingside attack, including an exchange sacrifice on d5 and the pawn storm with h5-h6, while Black searches for counterplay on the queenside. Ris explains how key defensive resources completely turn the tables, leading to a direct attack on the white king.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-martinez-took-down-abdusattorov-the-underdog",
-         "pubDate" : "Sat, 29 Nov 2025 08:00:00",
-         "title" : "How Martinez took down Abdusattorov - The Underdog"
-      },
-      {
          "description" : "GM Nodirbek Abdusattorov&#39;s second win in a row, this time over GM Nikita Vitiugov, has given him the sole lead in the London Chess Classic&#39;s Elite Tournament on 2.5/3 after the remaining games were drawn. GM Michael Adams took a draw by repetition...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -234,14 +226,6 @@ news_feed (
          "title" : "Chess: Sindarov, 19, becomes youngest World Cup winner as London Classic begins"
       },
       {
-         "description" : "Three decisive games in round two of the London Chess Classic saw Alireza Firouzja, Nodirbek Abdusattorov and Nikolas Theodorou move into the shared lead. Abdusattorov's extensive preparation, Firouzja's tactical win over Luke McShane and Theodorou's controlled performance against defending champion Gawain Maroroa Jones offered contrasting paths to victory at Arsenal Football Club's stadium. | Photo: XTX Markets",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-2",
-         "pubDate" : "Fri, 28 Nov 2025 07:15:00",
-         "title" : "London Chess Classic: Abdusattorov, Firouzja and Theodorou score"
-      },
-      {
          "description" : "The 2025 FIDE World Cup is over, with a month of frenetic chess action whittling 206 players down to just one, GM Javokhir Sindarov. The 19-year-old star is both the youngest and lowest-seeded player ever to win the World Cup, earning him a hero&#39;s...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -272,14 +256,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/a-multi-layered-problem-why-no-indians-qualified-for-2026-candidates-via-chess-world-cup-in-goa/articleshow/125610689.cms",
          "pubDate" : "Thu, 27 Nov 2025 23:30:00",
          "title" : "Multi-layered problem: Why no Indians made Candidates 2026 via Goa WC"
-      },
-      {
-         "description" : "Today, Svitlana teaches us about the Immortal Game by Carl Schlechter. If a game is called an \"immortal game\", you can expect some sensational tactics. Another thing what makes this game exceptional is the opening choice of 1.b4. According to the new ChessBase opening report, the Sokolsky Opening, also known as the Orangutan and the Polish Opening, is getting less, and less fashionable in the last years. But 1.b4 had its peak from 2009 to 2011!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-immortal-game-with-1-b4",
-         "pubDate" : "Thu, 27 Nov 2025 21:58:49",
-         "title" : "Svitlana's Smart Moves - Immortal game with 1.b4"
       },
       {
          "description" : "As chess players occasionally do, Alex Fishbein, the U.S. grandmaster, was recently looking at a classic game from the past: Viktor Kortschnoj's victory over Anatoly Karpov in the 21st game of their 1978 match. Something was wrong. Charles Sullivan had done some intense research on this volatile encounter and asks for your assessment on the results he presents.",
