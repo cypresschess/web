@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-live",
+         "pubDate" : "Tue, 02 Dec 2025 16:50:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
+         "description" : "145 years ago, on 1 December 1880, Akiba Rubinstein was born, perhaps the strongest player of his time who never had the chance to play a World Championship match. For more than 20 years, Rubinstein was one of the leading players in the world, but his life took a tragic turn.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/on-akiba-rubinstein-s-145th-birthday",
+         "pubDate" : "Tue, 02 Dec 2025 14:04:33",
+         "title" : "On Akiba Rubinstein's 145th Birthday"
+      },
+      {
+         "description" : " Nodirbek Abdusattorov leads the London Chess Classic with 5.5/6 one and a half points clear of Alireza Firouzja. After a first round draw Abdusattorov has now won five games in a row. In round five he defeated Nikolas Theodorou in a battling game. Abdusattorov chose the English after recently favouring 1.e4 and this seemed to sidestep all of his opponent's preparation and produce a nice advantage. Theodorou fought back and after 20 moves was equal again, then on move 26 he decided to give up his Queen for Rook and Knight, this wasn't losing but it made him a bit worse, then the game became very wild with black being objectively lost but finding tricky ideas. After 38.Qe3 the game was equal ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-extends-his-winning-streak-to-5-games-in-london",
+         "pubDate" : "Tue, 2 Dec 2025 13:20:00",
+         "title" : "Abdusattorov extends his winning streak to 5 games in London - 5-6"
+      },
+      {
          "description" : "Ed Schr&ouml;der is a pioneer in chess programming. In the 1990s his program Rebel won a number of World Championships in computer chess, and always had a special place in the community, due to its playing style. In 2003 he retired from competitive computer chess, only releasing freeware versions of Rebel. Now Ed has come out of retirement and is undertaking some interesting new projects - like extracting the most interesting games from historical databases. And he is sharing them with us.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-national-under-15-chess-championship-2025-held-in-ghaziabad-from-02-10-nov-2025/",
          "pubDate" : "Tue, 02 Dec 2025 10:25:59",
          "title" : "Certificate of National Under 15 Chess Championship 2025 held in Ghaziabad from 02-10 Nov 2025"
+      },
+      {
+         "description" : "We&#39;re excited to announce the final event of this year&#39;s Chess.com Community Championships, the Chess.com Fog of War Chess Championship! The event starts on December 11 and features a $2,500 prize fund.&#38;nbsp; Fog of War chess is not a variant fo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-fog-of-war-chess-championship-2025",
+         "pubDate" : "Tue, 02 Dec 2025 08:00:00",
+         "title" : "Chess.com Fog Of War Chess Championship Starts December 11"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125713043.cms\" />Uzbekistan's 19-year-old Javokhir Sindarov made chess history by becoming the youngest FIDE World Cup champion, earning a spot in the 2026 Candidates Tournament. Kazakhstan's Grandmaster Bibisara Assaubayeva, a two-time World Blitz Champion, expressed immense pride in Sindarov's achievement. Assaubayeva, who will play for American Gambits in the upcoming season of GCL, now aims to qualify for the Women's Candidates next year.",
@@ -46,8 +78,24 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-6",
-         "pubDate" : "Tue, 02 Dec 2025 03:28:18",
+         "pubDate" : "Tue, 02 Dec 2025 03:28:00",
          "title" : "5th Straight Win Gives Abdusattorov 1.5-Point Lead Over Firouzja"
+      },
+      {
+         "description" : "What rules updates, changes, deletions, and additions can you expect starting in January of 2026? Fasten your seat belts, here we go. Delegate me this, Delegate me that:The Delegates only passed one rule improvement for 2026!The upgrade was so good it eliminated the need for the old rule's TD TIP. Just nine little words (in italics) made everything crystal clear in the Blitz rules:18. Subject to the right of appeal to US Chess, the decision of the chief tournament director is final.FYI, the old rule plus the gone-baby-gone TIP:Old Blitz Rule: 18. The decision of the tournament director is final.TD TIP: This rule's intent stated more accurately could be: \"The decision of the chief tournament ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-januarys-rulebook-updates-2026",
+         "pubDate" : "Tue, 02 Dec 2025 00:00:00",
+         "title" : "Just the Rules: January's Rulebook Updates 2026"
+      },
+      {
+         "description" : "Today's puzzles come from the just-concluded U.S. Masters, organized and run by Charlotte Chess Center. Keep an eye out later this week for a Thanksgiving Weekend Wrap-Up featuring results from Charlotte and many other tournaments. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-us-masters",
+         "pubDate" : "Tue, 02 Dec 2025 00:00:00",
+         "title" : "Tactics Tuesday: U.S. Masters"
       },
       {
          "description" : "FIDE has just published its new World Ranking List. Vincent Keymer, Germany's top player, has established himself in fourth place on the Elo list and firmly among the world's elite. Magnus Carlsen, the world's highest-rated player, also gained Elo. The best women come from China, and the best juniors from India.",
@@ -94,7 +142,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/holiday-bots-2025",
-         "pubDate" : "Mon, 01 Dec 2025 09:07:19",
+         "pubDate" : "Mon, 01 Dec 2025 09:07:00",
          "title" : "New Bots Have Arrived For The Holidays!"
       },
       {
@@ -490,14 +538,6 @@ news_feed (
          "title" : "Esipenko Hits Back To Lead Candidates Battle"
       },
       {
-         "description" : "After nearly four decades, cult classic musical Chess returned to Broadway last weekend, welcomed by many fans and earning a range of reactions from critics. As Chess.com reported back in May, the revival marks the first Broadway production of t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-the-musical-returns-to-broadway",
-         "pubDate" : "Mon, 24 Nov 2025 05:49:00",
-         "title" : "Reviews Are In, Chess The Musical Back On Broadway After 37 Years"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125530030.cms\" />While 19-year-old Sindarov defeated childhood friend Yakubboev Nodirbek in an all-Uzbekistan semifinal by snatching an early lead, the battle between Russia No. 2 Andrey Esipenko and world rapid No. 4 Wei was a contest of blunders, won by the \"lucky\" Chinese GM.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -730,14 +770,6 @@ news_feed (
          "title" : "Team USA Qualifies for FIDE World Women's Team Championship Quarterfinals"
       },
       {
-         "description" : "The upsets kept coming in the quarterfinals of the 2025 FIDE World Cup. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Seventh-seeded Wei Yi eliminated the final \"top four\" seed in the World Cup, second-seeded Arjun Erigaisi, during Wednesday's quarterfinal tiebreaks in Goa. (Photos courtesy FIDE/Michal Walusza)<br> <br> With Chinese GM Wei Yi's elimination of second-seeded Indian GM Arjun Erigaisi in the first tiebreak, none of the four highest-rated players will be competing in the semifinals for the three available spots in the 2026 FIDE Candidates Tournament in Goa, India. Despite ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/no-chalk-three-new-candidates-guaranteed-world-cup-heads-semifinals",
-         "pubDate" : "Thu, 20 Nov 2025 00:00:00",
-         "title" : "No Chalk, Three New Candidates Guaranteed as World Cup Heads to Semifinals"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125441171.cms\" />Grandmaster Arjun Erigaisi's FIDE World Cup journey concluded after a rapid tiebreak loss to China's Wei Yi. Despite drawing both classical games, Arjun faltered in the faster formats, with his French Defence choice proving costly in the first tiebreak. Wei Yi's strong middlegame play secured his victory in the second game, advancing him to the semifinals.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -760,14 +792,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-arjun-erigaisi-vs-wei-yi-goes-to-tiebreak-nodirbek-yakubboev-in-semis/articleshow/125428681.cms",
          "pubDate" : "Wed, 19 Nov 2025 06:10:28",
          "title" : "Chess World Cup: Arjun Erigaisi vs Wei Yi goes to tiebreak, Nodirbek Yakubboev in semis"
-      },
-      {
-         "description" : "This week's exercises come from the just-concluded 2025 U.S. Senior Women's Championship, where WFM Natalya Tsodikova defended her title with an Armageddon playoff victory over WGM Anjelina Belakovskaia. See yesterday's Tactics Tuesday for even more puzzles from the third edition of this national event. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-us-senior-womens-championship",
-         "pubDate" : "Wed, 19 Nov 2025 00:00:00",
-         "title" : "Wednesday Workout: U.S. Senior Women's Championship"
       },
       {
          "description" : " The Tata Steel Chess tournament takes place in Wijk aan Zee 16th Jan - 1st Feb 2026. The fields for both the Masters and Challengers have been set and they reflect the state of professional chess today. The Masters group has an average age of just 23. Exciting players like Vincent Keymer, Arjun Erigaisi, Nodirbek Abdusattorov and Hans Niemann should light up the competition. World Champion Gukesh might be struggling at the moment but you'd want him in your tournament, especially as he only just missed out last year following a tie-break match with the eventual winner Rameshbabu Praggnanandhaa. Dutch number one Anish Giri is the oldest player in the field at 32, he has enjoyed one of his bes",
