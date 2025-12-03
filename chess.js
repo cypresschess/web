@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nodirbek Abdusattorov secured at least a share of first place at the London Chess Classic by earning his sixth straight win in round seven, defeating Luke McShane in a hard-fought Ruy Lopez. With a two-point lead over Alireza Firouzja and only two rounds remaining, the Uzbek grandmaster is close to securing overall victory. The remaining games were drawn, including an enterprising effort by defending champion Gawain Maroroa Jones against Michael Adams. | Photo: Amruta Mokal (Freestyle Chess Grand Slam)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-7",
+         "pubDate" : "Wed, 03 Dec 2025 08:30:00",
+         "title" : "London Chess Classic: There is no stopping Abdusattorov!"
+      },
+      {
+         "description" : "Please find below the live link for the above mentioned Championship : Women Live game link :&#160;https://view.livechesscloud.com/#a3d20e15-5589-4f94-bffa-6daeb3cdcd6d",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-dgt-board-link-for-national-women-2025-held-at-durgapur/",
+         "pubDate" : "Wed, 03 Dec 2025 07:05:00",
+         "title" : "Live DGT Board Link for National Women 2025 held at Durgapur"
+      },
+      {
+         "description" : "In the 100th edition of the \"Campeonato Argentino Superior\" in Buenos Aires, seven-time national champion Diego Flores, 12-year-old prodigy Faustino Oro and 2021 champion Federico P&eacute;rez Ponsa are locked in a battle for first place. Flores is leading the standings, with Oro and P&eacute;rez a half point back. To get his second GM norm, the \"Messi of chess\" needs to score 3/3 in his final games. | Pictured: Faustino Oro at a press event with Jorge Macri, the head of government of Buenos Aires | Photo: Organisers, David Llada.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/argentine-championship-2025-r8",
+         "pubDate" : "Wed, 03 Dec 2025 06:25:00",
+         "title" : "100th Argentine Championship: Oro fighting for first national title"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125734475.cms\" />Three-year-old Sarvagya Singh Kushwaha from Madhya Pradesh has become the youngest player to earn an official FIDE rating at 1572. He achieved this by defeating three internationally rated opponents, showcasing exceptional talent and discipline. His parents introduced him to chess to limit screen time, leading to his rapid development into a prodigy.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/at-just-3-years-old-sarvagya-kushwaha-becomes-worlds-youngest-fide-rated-chess-player/articleshow/125734475.cms",
+         "pubDate" : "Wed, 03 Dec 2025 05:29:24",
+         "title" : "At just 3 years old, Sarvagya Kushwaha becomes world's youngest FIDE-rated chess player"
+      },
+      {
          "description" : "A six-game classical match in Monte Carlo will see Maxime Vachier-Lagrave face 14-year-old Yagiz Kaan Erdogmus from 3 to 8 December, in an event organised by the Monaco Chess Federation with support from Evren Ucok. The encounter brings together an established top-20 grandmaster and T&uuml;rkiye's leading junior. The format mirrors the match Erdogmus played against Peter Svidler in Marseille earlier this year, where he impressed in the classical section. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,16 +46,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/superpogchamps-day-1",
-         "pubDate" : "Tue, 02 Dec 2025 19:31:28",
+         "pubDate" : "Tue, 02 Dec 2025 19:31:00",
          "title" : "Undefeated Masi Oka Cruises To Championship Bracket Along With Andrea Botez, Linda Dias"
-      },
-      {
-         "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-live",
-         "pubDate" : "Tue, 02 Dec 2025 16:50:00",
-         "title" : "London Chess Classic - Live!"
       },
       {
          "description" : "145 years ago, on 1 December 1880, Akiba Rubinstein was born, perhaps the strongest player of his time who never had the chance to play a World Championship match. For more than 20 years, Rubinstein was one of the leading players in the world, but his life took a tragic turn.",
@@ -768,14 +792,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-sam-shankland-backs-knockout-format/articleshow/125404863.cms",
          "pubDate" : "Tue, 18 Nov 2025 07:15:35",
          "title" : "Chess World Cup: Sam Shankland backs knockout format"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125404568.cms\" />In a nail-biting World Cup quarterfinal, Indian chess sensation Erigaisi Arjun held his ground against China's Wei Yi, managing a draw that highlighted his stellar time management skills. In a dramatic turn of events, Uzbekistan's Nordirbek Yakubboev emerged victorious, while his fellow countryman Javokhir Sindarov and Russia's Andrey Esipenko both negotiated draws in their matches.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-erigaisi-arjun-is-fast-but-chinese-rival-forces-quick-draw/articleshow/125404568.cms",
-         "pubDate" : "Tue, 18 Nov 2025 07:05:19",
-         "title" : "Chess World Cup: Arjun Erigaisi is fast but Chinese rival forces quick draw"
       },
       {
          "description" : "Please find the Under 12 &#38; Under 18 certificates . For any query please write back to indainchessfed@gmail.com UNDER 12 S.No Name Team Name 1",
