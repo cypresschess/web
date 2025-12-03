@@ -10,6 +10,14 @@ news_feed (
          "title" : "Clash of Generations: Vachier-Lagrave v. Erdogmus in Monte Carlo"
       },
       {
+         "description" : "Today was the first day of something you thought you&#39;d never see. When watching PogChamps, one might expect Botez Gambits, stalemates, and generally the worst chess you&#39;ve ever seen when tens of thousands of dollars are on the line. That was not...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/superpogchamps-day-1",
+         "pubDate" : "Tue, 02 Dec 2025 19:31:28",
+         "title" : "Undefeated Masi Oka Cruises To Championship Bracket Along With Andrea Botez, Linda Dias"
+      },
+      {
          "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -472,14 +480,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-small-nations-team-chess-champions-2025-crowned-in-cyprus/",
          "pubDate" : "Mon, 24 Nov 2025 10:31:09",
          "title" : "European Small Nations Team Chess Champions 2025 crowned in Cyprus"
-      },
-      {
-         "description" : "We&#39;re excited to announce a special Black Friday deal on ChessUp 2. Save big and enjoy your holidays playing chess using the world&#39;s smartest chessboard! ChessUp&#39;s biggest annual sale is on now until December 1, and you can save an additional 10...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chessup-2-black-friday-deal-2025",
-         "pubDate" : "Mon, 24 Nov 2025 08:00:00",
-         "title" : "Save More Than Ever On Your New ChessUp 2 Smart Chessboard"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125530030.cms\" />While 19-year-old Sindarov defeated childhood friend Yakubboev Nodirbek in an all-Uzbekistan semifinal by snatching an early lead, the battle between Russia No. 2 Andrey Esipenko and world rapid No. 4 Wei was a contest of blunders, won by the \"lucky\" Chinese GM.",
