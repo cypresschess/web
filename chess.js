@@ -66,6 +66,14 @@ news_feed (
          "title" : "Abdusattorov Rampage Continues, Praggnanandhaa Leads Open"
       },
       {
+         "description" : "Today's puzzles come from the just-concluded U.S. Masters, organized and run by Charlotte Chess Center. Keep an eye out later this week for a Thanksgiving Weekend Wrap-Up featuring results from Charlotte and many other tournaments. Plus: check out even more puzzles from this event in yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-us-masters",
+         "pubDate" : "Wed, 03 Dec 2025 00:00:00",
+         "title" : "Wednesday Workout: U.S. Masters"
+      },
+      {
          "description" : "A six-game classical match in Monte Carlo will see Maxime Vachier-Lagrave face 14-year-old Yagiz Kaan Erdogmus from 3 to 8 December, in an event organised by the Monaco Chess Federation with support from Evren Ucok. The encounter brings together an established top-20 grandmaster and T&uuml;rkiye's leading junior. The format mirrors the match Erdogmus played against Peter Svidler in Marseille earlier this year, where he impressed in the classical section. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -154,7 +162,7 @@ news_feed (
          "title" : "5th Straight Win Gives Abdusattorov 1.5-Point Lead Over Firouzja"
       },
       {
-         "description" : "What rules updates, changes, deletions, and additions can you expect starting in January of 2026? Fasten your seat belts, here we go. Delegate me this, Delegate me that:The Delegates only passed one rule improvement for 2026!The upgrade was so good it eliminated the need for the old rule's TD TIP. Just nine little words (in italics) made everything crystal clear in the Blitz rules:18. Subject to the right of appeal to US Chess, the decision of the chief tournament director is final.FYI, the old rule plus the gone-baby-gone TIP:Old Blitz Rule: 18. The decision of the tournament director is final.TD TIP: This rule's intent stated more accurately could be: \"The decision of the chief tournament ",
+         "description" : "Editor's note, Dec. 3, 2025: The section on the TDAC (formerly TDCC) has been slightly revised on a technical level. What rules updates, changes, deletions, and additions can you expect starting in January of 2026? Fasten your seat belts, here we go. Delegate me this, Delegate me that:The Delegates only passed one rule improvement for 2026!The upgrade was so good it eliminated the need for the old rule's TD TIP. Just nine little words (in italics) made everything crystal clear in the Blitz rules:18. Subject to the right of appeal to US Chess, the decision of the chief tournament director is final.FYI, the old rule plus the gone-baby-gone TIP:Old Blitz Rule: 18. The decision of the tournament",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/just-rules-januarys-rulebook-updates-2026",
@@ -754,14 +762,6 @@ news_feed (
          "title" : "Chess WC: Meet China's No. 1 Wei Yi - Slayer of India's last hope, Arjun Erigaisi"
       },
       {
-         "description" : "With its third-place finish in Group A, Team USA qualified for the quarterfinals of the FIDE World Women's Team Championship, held from Nov. 17 through 24 in Linares, Spain.12 teams competed in two groups of six in the Round Robin Pool Stage, held Nov. 18 through 20 at the fast-classical time control of G/45 with 30-second increment from move one. The top four finishers in each group are seeded into the knockout stage, which begins Nov. 21. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Captain Melikset Khachiyan with Anna Sargsyan (L), Tatev Abrahamyan, and Zoey Tang. (Photo courtesy FIDE)<br> <br> <br> <br> In Group A, USA lost its Round 2 match to ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/team-usa-qualifies-fide-world-womens-team-championship-quarterfinals",
-         "pubDate" : "Thu, 20 Nov 2025 00:00:00",
-         "title" : "Team USA Qualifies for FIDE World Women's Team Championship Quarterfinals"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125441171.cms\" />Grandmaster Arjun Erigaisi's FIDE World Cup journey concluded after a rapid tiebreak loss to China's Wei Yi. Despite drawing both classical games, Arjun faltered in the faster formats, with his French Defence choice proving costly in the first tiebreak. Wei Yi's strong middlegame play secured his victory in the second game, advancing him to the semifinals.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -880,14 +880,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/46951993/world-champ-world-cup-loss-coach-gajewski-plots-gukesh-revival-2026",
          "pubDate" : "Thu, 13 Nov 2025 08:07:44",
          "title" : "World champ to World Cup loss: Gajewski plots Gukesh revival in 2026"
-      },
-      {
-         "description" : "The 9th edition of the European Small Nations Team Chess Championship starts this week in Larnaca, Cyprus, and will be held from 14th-23rd November in the Sun Hall Hotel. The event gathers 10 teams from Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, Monaco and San Marino, and each team consists of four players + one reserve player. The European Small Nations Team Chess Championship 2025 will be played in 9 rounds, round robin system, with the time control []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-small-nations-team-chess-championship-2025-starts-in-cyprus/",
-         "pubDate" : "Wed, 12 Nov 2025 17:43:15",
-         "title" : "European Small Nations Team Chess Championship 2025 starts in Cyprus"
       }
    ]
 }
