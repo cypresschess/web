@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A six-game classical match in Monte Carlo will see Maxime Vachier-Lagrave face 14-year-old Yagiz Kaan Erdogmus from 3 to 8 December, in an event organised by the Monaco Chess Federation with support from Evren Ucok. The encounter brings together an established top-20 grandmaster and T&uuml;rkiye's leading junior. The format mirrors the match Erdogmus played against Peter Svidler in Marseille earlier this year, where he impressed in the classical section. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mvl-erdogmus-match-2025-preview",
+         "pubDate" : "Tue, 02 Dec 2025 22:40:00",
+         "title" : "Clash of Generations: Vachier-Lagrave v. Erdogmus in Monte Carlo"
+      },
+      {
          "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-extends-his-winning-streak-to-5-games-in-london",
          "pubDate" : "Tue, 2 Dec 2025 13:20:00",
          "title" : "Abdusattorov extends his winning streak to 5 games in London - 5-6"
+      },
+      {
+         "description" : "GM Magnus Carlsen won his second Titled Tuesday in four weeks on December 2, needing only 9.5 points to take the tournament without even needing tiebreaks. He caught and passed GM Sina Movahed in the 11th round, and clinched the outright win when ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-december-2-2025",
+         "pubDate" : "Tue, 02 Dec 2025 12:25:00",
+         "title" : "Carlsen Wins Tuesday Nailbiter"
       },
       {
          "description" : "Ed Schr&ouml;der is a pioneer in chess programming. In the 1990s his program Rebel won a number of World Championships in computer chess, and always had a special place in the community, due to its playing style. In 2003 he retired from competitive computer chess, only releasing freeware versions of Rebel. Now Ed has come out of retirement and is undertaking some interesting new projects - like extracting the most interesting games from historical databases. And he is sharing them with us.",
@@ -58,14 +74,6 @@ news_feed (
          "title" : "After Sindarov's WC glory, 'closest friend' Assaubayeva reveals her 'unfinished task'"
       },
       {
-         "description" : "Round six of the London Chess Classic saw Nodirbek Abdusattorov extend his lead with a fifth consecutive win, capitalising on a mistake by Sam Shankland in a dynamic Scotch Opening. Alireza Firouzja drew against Abhimanyu Mishra after early tactical complications gave way to a simplified position, while Pavel Eljanov won against Gawain Maroroa Jones. With three rounds remaining, Abdusattorov holds a 1&frac12;-point advantage over Firouzja, sitting in sole second place. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-6",
-         "pubDate" : "Tue, 02 Dec 2025 06:25:00",
-         "title" : "London Chess Classic: Five in a row for Abdusattorov"
-      },
-      {
          "description" : "The FIDE World Cup dominated chess headlines in November, leading to several changes in the December 2025 FIDE rating list. No one benefited more than quarterfinalist GM Jose Martinez, known primarily for his Titled Tuesday and other online blitz ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -98,30 +106,6 @@ news_feed (
          "title" : "Tactics Tuesday: U.S. Masters"
       },
       {
-         "description" : "FIDE has just published its new World Ranking List. Vincent Keymer, Germany's top player, has established himself in fourth place on the Elo list and firmly among the world's elite. Magnus Carlsen, the world's highest-rated player, also gained Elo. The best women come from China, and the best juniors from India.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-december-2",
-         "pubDate" : "Mon, 01 Dec 2025 19:00:00",
-         "title" : "FIDE ratings - December 2025"
-      },
-      {
-         "description" : "Former, legendary World Chess Champion Garry Kasparov has been speaking vociferously about the situation in Ukraine and Russia at International Security Forums. He held a powerful speech on the Security Conference in Canada, and has spoken with extraordinary clarity about Russia, Ukraine, NATO, and responsibility of democracies in the world in a series of subsequent interviews. They are well worth watching.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kasparov-in-the-news",
-         "pubDate" : "Mon, 01 Dec 2025 12:00:00",
-         "title" : "Kasparov on the world situation"
-      },
-      {
-         "description" : "The first half of the London Chess Classic was dominated by Nodirbek Abdusattorov (photo). In round 5 he defeated Nikolas Theodorou with White, reaching 4.5/5 at the halfway mark and pulling a full point ahead of Alireza Firouzja. Firouzja drew with Black against Gawain Maroroa Jones and now stands on 3.5/5. Abhimanyu Mishra and Luke McShane also drew, as did Pavel Eljanov and Michael Adams. The second win of the round went to Nikita Vitiugov, who won a theoretically interesting game against Sam Shankland.| Photo: Tennis legend Andy Murray (center) makes the ceremonial first move | Photo: Tournament page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-abdusattorov-continues-to-win",
-         "pubDate" : "Mon, 01 Dec 2025 11:00:16",
-         "title" : "London: Abdusattorov continues to win"
-      },
-      {
          "description" : "The Academy Award-winning animated short War Is Over!, a film in which an emotional game of correspondence chess becomes a lifeline between two soldiers on opposite sides of a battlefield, was released on YouTube today. Last year, War Is Over! b...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -144,14 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/holiday-bots-2025",
          "pubDate" : "Mon, 01 Dec 2025 09:07:00",
          "title" : "New Bots Have Arrived For The Holidays!"
-      },
-      {
-         "description" : "The European Rapid and Blitz Championships in Pristina, the capital of Kosovo, brought together more than 350 players from 38 federations. Lithuanian GM Paulius Pultinevicius won the rapid title with a 10/11 score after a final-round victory over Vasyl Ivanchuk (who lost on time in an endgame with an extra pawn), while Jorden van Foreest secured the blitz crown by finishing on 11/13. | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-rapid-blitz-ch-2025-final-report",
-         "pubDate" : "Mon, 01 Dec 2025 07:15:00",
-         "title" : "Pultinevicius and Van Foreest triumph at the European Rapid and Blitz Championships"
       },
       {
          "description" : "After 225,000 Chess.com players cast 988,000 votes, posted 52,000 forum comments, and made 41 moves, IM Levy Rozman delivered checkmate as The World finally fell on Saturday during Thanksgiving weekend, bringing an end to Chess.com&#39;s GothamChess v...",
@@ -192,30 +168,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-leads-the-london-chess-classic-with-3.54",
          "pubDate" : "Sun, 30 Nov 2025 15:04:00",
          "title" : "Abdusattorov leads the London Chess Classic with 3.5/4 - 3-4"
-      },
-      {
-         "description" : "At the next Candidates Tournament, in spring 2026 in Cyprus, eight players will compete to determine the challenger to world champion Gukesh Dommaraju. Five of the players are in the current world top ten, while three are far from it. Several top players who one might have expected to see in the Candidates failed to qualify by any route. Has FIDE put forth a fair World Championship format? | Photo: Larneg (Pixabay)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-format-fairness",
-         "pubDate" : "Sun, 30 Nov 2025 14:25:00",
-         "title" : "Is the format used in the World Championship cycle fair?"
-      },
-      {
-         "description" : "Round four of the London Chess Classic saw Nodirbek Abdusattorov keep his sole lead with a third straight win, this time over Michael Adams in their first classical encounter ever. Alireza Firouzja also scored, outplaying Pavel Eljanov in a lengthy rook endgame, while Luke McShane defeated Gawain Maroroa Jones after a promising position for Black collapsed around move twenty. The remaining games were drawn, leaving Abdusattorov ahead on 3&frac12; points. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-4",
-         "pubDate" : "Sun, 30 Nov 2025 14:00:00",
-         "title" : "London Chess Classic: Abdusattorov leads, Firouzja trails a half point behind"
-      },
-      {
-         "description" : "The European Blitz and Rapid Chess Championships are being held in Pristina, Kosovo, from 28 to 30 November. The Rapid Championship concluded on Friday and Saturday; the Blitz Championship follows on Sunday, with thirteen rounds of blitz chess (3+2) on the schedule. Vasyl Ivanchuk, Baadur Jobava, Jorden Van Foreest, Rasmus Svane and Christian Bauer are among the many top European players in the field. Follow the action live with commentary from 10:30 local time.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-blitz-championships-2025-live",
-         "pubDate" : "Sun, 30 Nov 2025 10:15:00",
-         "title" : "European Blitz Championships 2025 - Live!"
       },
       {
          "description" : "In Saturday&#39;s fourth round, GM Nodirbek Abdusattorov maintained his half-point lead at the London Chess Classic&#39;s Elite Tournament with a third consecutive win. The Uzbek GM defeated GM Michael Adams as Black but saw his main rival GM Alireza Firo...",
@@ -528,14 +480,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chessup-2-black-friday-deal-2025",
          "pubDate" : "Mon, 24 Nov 2025 08:00:00",
          "title" : "Save More Than Ever On Your New ChessUp 2 Smart Chessboard"
-      },
-      {
-         "description" : "GM Andrey Esipenko recovered from his heartbreaking blunder the day before to beat GM Nodirbek Yakubboev. He now leads the battle for both third place in the 2025 FIDE World Cup and the final spot in the 2026 FIDE Candidates Tournament. In the tit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-final-game-1",
-         "pubDate" : "Mon, 24 Nov 2025 06:16:00",
-         "title" : "Esipenko Hits Back To Lead Candidates Battle"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125530030.cms\" />While 19-year-old Sindarov defeated childhood friend Yakubboev Nodirbek in an all-Uzbekistan semifinal by snatching an early lead, the battle between Russia No. 2 Andrey Esipenko and world rapid No. 4 Wei was a contest of blunders, won by the \"lucky\" Chinese GM.",
