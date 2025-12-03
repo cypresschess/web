@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Tomorrow (4 December) marks the official start of the Freestyle Finals in South Africa. The opening press conference at The Silo Hotel in Cape Town will be followed by a diving chess competition. From 8 December, the Grand Slam Finals will begin at Grootbos Private Nature Reserve, featuring Magnus Carlsen, Fabiano Caruana, Vincent Keymer and Javokhir Sindarov, among others. | Photos: Freestyle Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-finals-in-south-africa",
+         "pubDate" : "Wed, 03 Dec 2025 17:16:00",
+         "title" : "Freestyle finals in South Africa"
+      },
+      {
+         "description" : "At the second Jerusalem Chess Festival, Arseniy Nesterov and Evgeny Alekseev qualified for the Masters as the best players in the Open and faced ten invited participants there. Svidler, Anand, Nepomniachtchi and Erigaisi advanced from the round-robin tournament of the Masters to the knockout stage. The semi-finals and finals will be played today. | Photos: Tournament website/ Alon Shulman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jerusalem-svidler-anand-nepomniachtchi-and-erigaisi-in-the-semi-finals",
+         "pubDate" : "Wed, 03 Dec 2025 14:21:28",
+         "title" : "Jerusalem: Svidler, Anand, Nepomniachtchi, and Erigaisi in the semi-finals"
+      },
+      {
          "description" : "Ed Schr&ouml;der, pioneer of chess engine programming, has in his retirement turned his attention to a new and very exciting project: to extract games from a database collection that are especially aggressive - that are short and have daring sacrifices and king attacks. He shows us the kinds of result you can get. Best of all: you can download the utility and use it on your databases.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/at-just-3-years-old-sarvagya-kushwaha-becomes-worlds-youngest-fide-rated-chess-player/articleshow/125734475.cms",
          "pubDate" : "Wed, 03 Dec 2025 05:29:24",
          "title" : "At just 3 years old, Sarvagya Kushwaha becomes world's youngest FIDE-rated chess player"
+      },
+      {
+         "description" : "GM Nodirbek Abdusattorov now leads the London Chess Classic Elite Tournament by two points with two rounds to go after beating GM Luke McShane for a sixth win in a row. The remaining games were drawn, with second-placed GM Alireza Firouzja frustra...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-7",
+         "pubDate" : "Wed, 03 Dec 2025 04:54:11",
+         "title" : "Abdusattorov Rampage Continues, Praggnanandhaa Leads Open"
       },
       {
          "description" : "A six-game classical match in Monte Carlo will see Maxime Vachier-Lagrave face 14-year-old Yagiz Kaan Erdogmus from 3 to 8 December, in an event organised by the Monaco Chess Federation with support from Evren Ucok. The encounter brings together an established top-20 grandmaster and T&uuml;rkiye's leading junior. The format mirrors the match Erdogmus played against Peter Svidler in Marseille earlier this year, where he impressed in the classical section. | Photos: Official website",
@@ -106,7 +130,7 @@ news_feed (
          "title" : "Chess.com Fog Of War Chess Championship Starts December 11"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125713043.cms\" />Uzbekistan's 19-year-old Javokhir Sindarov made chess history by becoming the youngest FIDE World Cup champion, earning a spot in the 2026 Candidates Tournament. Kazakhstan's Grandmaster Bibisara Assaubayeva, a two-time World Blitz Champion, expressed immense pride in Sindarov's achievement. Assaubayeva, who will play for American Gambits in the upcoming season of GCL, now aims to qualify for the Women's Candidates next year.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125713043.cms\" />Bibisara Assaubayeva, who will represent American Gambits in the upcoming GCL season, expressed immense pride in Uzbekistan's 19-year-old Javokhir Sindarov after he made chess history by becoming the youngest FIDE World Cup champion and earning a place in the 2026 Candidates Tournament. Assaubayeva, a two-time World Blitz Champion, now aims to qualify for the Women's Candidates next year.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-after-javokhir-sindarovs-world-cup-glory-closest-friend-bibisara-assaubayeva-reveals-her-own-unfinished-task/articleshow/125713043.cms",
@@ -496,14 +520,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/slu-defeats-utd-repeats-as-collegiate-chess-league-champions",
          "pubDate" : "Mon, 24 Nov 2025 12:30:01",
          "title" : "SLU Defeats UTD, Repeats as Collegiate Chess League Champions"
-      },
-      {
-         "description" : "Update: Anna Cramling&#39;s 1.d4 repertoire is now complete with the release of Part 2, fighting the King&#39;s Indian, Nimzo-Indian, Dutch, and more Enough with prep collapsing or panicking before move 10&#38;mdash;steer the game toward positions that you ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/anna-cramling-d4-repertoire-course",
-         "pubDate" : "Mon, 24 Nov 2025 12:00:00",
-         "title" : "Anna Cramling Makes Chessable Debut With 1.d4 Course"
       },
       {
          "description" : "The 9th edition of the European Small Nations Team Chess Championship took place from 15-22 November in Larnaca, Cyprus. After nine played rounds, two teams tied for the top scoring 16 match points each: Faroe Islands and Andorra. With the higher score of the game points, Faroe Islands emerged as the Winner of the event and clinched the title. Andorra claimed silver medal. Scoring 15 match points, Cyprus won bronze medal. The Closing Ceremony of the even took place with []",
