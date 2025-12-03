@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ed Schr&ouml;der, pioneer of chess engine programming, has in his retirement turned his attention to a new and very exciting project: to extract games from a database collection that are especially aggressive - that are short and have daring sacrifices and king attacks. He shows us the kinds of result you can get. Best of all: you can download the utility and use it on your databases.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rebel-3",
+         "pubDate" : "Wed, 03 Dec 2025 12:00:00",
+         "title" : "Attacking and sacrifice games"
+      },
+      {
          "description" : "Nodirbek Abdusattorov secured at least a share of first place at the London Chess Classic by earning his sixth straight win in round seven, defeating Luke McShane in a hard-fought Ruy Lopez. With a two-point lead over Alireza Firouzja and only two rounds remaining, the Uzbek grandmaster is close to securing overall victory. The remaining games were drawn, including an enterprising effort by defending champion Gawain Maroroa Jones against Michael Adams. | Photo: Amruta Mokal (Freestyle Chess Grand Slam)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
