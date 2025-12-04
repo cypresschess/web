@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Arjun Erigaisi claimed the Jerusalem Masters title after a tightly contested knockout stage that featured four seasoned competitors emerging from the round-robin phase. The tournament winner edged Viswanathan Anand in a blitz tiebreak after their rapid games ended level, while Peter Svidler secured third place by defeating Ian Nepomniachtchi. | Photo: Official website / Yoav Nis",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jerusalem-masters-2025-final-report",
+         "pubDate" : "Thu, 04 Dec 2025 08:00:00",
+         "title" : "Arjun Erigaisi beats Vishy Anand to win Jerusalem Masters"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125760568.cms\" />Young Grandmaster Arjun Erigaisi triumphed at the Jerusalem Masters, defeating legendary Viswanathan Anand in a thrilling all-Indian final. After drawing the rapid games, Erigaisi secured the title by winning the first blitz tie-break. He expressed relief at overcoming challenges and playing well in the crucial blitz encounters, ultimately pocketing a significant prize.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-defeats-chess-legend-viswanathan-anand-in-the-jerusalem-masters-final/articleshow/125760568.cms",
+         "pubDate" : "Thu, 04 Dec 2025 07:18:26",
+         "title" : "Arjun Erigaisi defeats chess legend Viswanathan Anand in the Jerusalem Masters"
+      },
+      {
          "description" : "The public release of \"War Is Over! Inspired by the Music of John and Yoko\" marks the first opportunity for general audiences to view the award-winning animated short outside festival and academy screenings. The film, created by Dave Mullins and Sean Ono Lennon, blends an anti-war message with a story centred on correspondence chess in an alternate First World War setting. Its release also supports War Child, raising funds for children affected by armed conflict. | Image: ElectroLeague",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -23,7 +39,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/superpogchamps-day-2",
          "pubDate" : "Wed, 03 Dec 2025 15:44:00",
-         "title" : "Samay Raina Finishes Group Stage With Perfect Score, Makes It To Championship Bracket With Sardoche, Wirtual"
+         "title" : "Samay Raina Ends Group On Perfect Score, Joins Sardoche, Wirtual In Championship Bracket"
       },
       {
          "description" : "At the second Jerusalem Chess Festival, Arseniy Nesterov and Evgeny Alekseev qualified for the Masters as the best players in the Open and faced ten invited participants there. Svidler, Anand, Nepomniachtchi and Erigaisi advanced from the round-robin tournament of the Masters to the knockout stage. The semi-finals and finals will be played today. | Photos: Tournament website/ Alon Shulman",
@@ -42,28 +58,12 @@ news_feed (
          "title" : "Attacking and sacrifice games"
       },
       {
-         "description" : "Nodirbek Abdusattorov secured at least a share of first place at the London Chess Classic by earning his sixth straight win in round seven, defeating Luke McShane in a hard-fought Ruy Lopez. With a two-point lead over Alireza Firouzja and only two rounds remaining, the Uzbek grandmaster is close to securing overall victory. The remaining games were drawn, including an enterprising effort by defending champion Gawain Maroroa Jones against Michael Adams. | Photo: Amruta Mokal (Freestyle Chess Grand Slam)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-7",
-         "pubDate" : "Wed, 03 Dec 2025 08:30:00",
-         "title" : "London Chess Classic: There is no stopping Abdusattorov!"
-      },
-      {
          "description" : "Please find below the live link for the above mentioned Championship : Women Live game link :&#160;https://view.livechesscloud.com/#a3d20e15-5589-4f94-bffa-6daeb3cdcd6d",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/live-dgt-board-link-for-national-women-2025-held-at-durgapur/",
          "pubDate" : "Wed, 03 Dec 2025 07:05:00",
          "title" : "Live DGT Board Link for National Women 2025 held at Durgapur"
-      },
-      {
-         "description" : "In the 100th edition of the \"Campeonato Argentino Superior\" in Buenos Aires, seven-time national champion Diego Flores, 12-year-old prodigy Faustino Oro and 2021 champion Federico P&eacute;rez Ponsa are locked in a battle for first place. Flores is leading the standings, with Oro and P&eacute;rez a half point back. To get his second GM norm, the \"Messi of chess\" needs to score 3/3 in his final games. | Pictured: Faustino Oro at a press event with Jorge Macri, the head of government of Buenos Aires | Photo: Organisers, David Llada.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/argentine-championship-2025-r8",
-         "pubDate" : "Wed, 03 Dec 2025 06:25:00",
-         "title" : "100th Argentine Championship: Oro fighting for first national title"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125734475.cms\" />Three-year-old Sarvagya Singh Kushwaha from Madhya Pradesh has become the youngest player to earn an official FIDE rating at 1572. He achieved this by defeating three internationally rated opponents, showcasing exceptional talent and discipline. His parents introduced him to chess to limit screen time, leading to his rapid development into a prodigy.",
@@ -78,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-7",
-         "pubDate" : "Wed, 03 Dec 2025 04:54:11",
+         "pubDate" : "Wed, 03 Dec 2025 04:54:00",
          "title" : "Abdusattorov Rampage Continues, Praggnanandhaa Leads Open"
       },
       {
@@ -90,28 +90,12 @@ news_feed (
          "title" : "Wednesday Workout: U.S. Masters"
       },
       {
-         "description" : "A six-game classical match in Monte Carlo will see Maxime Vachier-Lagrave face 14-year-old Yagiz Kaan Erdogmus from 3 to 8 December, in an event organised by the Monaco Chess Federation with support from Evren Ucok. The encounter brings together an established top-20 grandmaster and T&uuml;rkiye's leading junior. The format mirrors the match Erdogmus played against Peter Svidler in Marseille earlier this year, where he impressed in the classical section. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mvl-erdogmus-match-2025-preview",
-         "pubDate" : "Tue, 02 Dec 2025 22:40:00",
-         "title" : "Clash of Generations: Vachier-Lagrave v. Erdogmus in Monte Carlo"
-      },
-      {
          "description" : "Today was the first day of something you thought you&#39;d never see. When watching PogChamps, one might expect Botez Gambits, stalemates, and generally the worst chess you&#39;ve ever seen when tens of thousands of dollars are on the line. That was not...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/superpogchamps-day-1",
          "pubDate" : "Tue, 02 Dec 2025 19:31:00",
          "title" : "Undefeated Masi Oka Cruises To Championship Bracket Along With Andrea Botez, Linda Dias"
-      },
-      {
-         "description" : "145 years ago, on 1 December 1880, Akiba Rubinstein was born, perhaps the strongest player of his time who never had the chance to play a World Championship match. For more than 20 years, Rubinstein was one of the leading players in the world, but his life took a tragic turn.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/on-akiba-rubinstein-s-145th-birthday",
-         "pubDate" : "Tue, 02 Dec 2025 14:04:33",
-         "title" : "On Akiba Rubinstein's 145th Birthday"
       },
       {
          "description" : " Nodirbek Abdusattorov leads the London Chess Classic with 5.5/6 one and a half points clear of Alireza Firouzja. After a first round draw Abdusattorov has now won five games in a row. In round five he defeated Nikolas Theodorou in a battling game. Abdusattorov chose the English after recently favouring 1.e4 and this seemed to sidestep all of his opponent's preparation and produce a nice advantage. Theodorou fought back and after 20 moves was equal again, then on move 26 he decided to give up his Queen for Rook and Knight, this wasn't losing but it made him a bit worse, then the game became very wild with black being objectively lost but finding tricky ideas. After 38.Qe3 the game was equal ",
@@ -818,14 +802,6 @@ news_feed (
          "title" : "ECU E-Magazine September & October 2025"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125404863.cms\" />US Grandmaster Sam Shankland, a proponent of the knockout format, expressed his belief that it can help reduce draws in chess. Shankland, who has advanced to the quarterfinals of the World Cup after upsetting higher-seeded players, highlighted the format's prevalence in other major sports. He feels it provides crucial opportunities for rising players to test themselves against elite competition.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-sam-shankland-backs-knockout-format/articleshow/125404863.cms",
-         "pubDate" : "Tue, 18 Nov 2025 07:15:35",
-         "title" : "Chess World Cup: Sam Shankland backs knockout format"
-      },
-      {
          "description" : "Please find the Under 12 &#38; Under 18 certificates . For any query please write back to indainchessfed@gmail.com UNDER 12 S.No Name Team Name 1",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -880,14 +856,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-chess-championship-2026-official-invitation/",
          "pubDate" : "Fri, 14 Nov 2025 07:38:51",
          "title" : "European Senior Chess Championship 2026 - Official invitation"
-      },
-      {
-         "description" : "GM Gajewski speaks to ESPN after Gukesh's shock early exit from the FIDE World Cup on lessons learnt from a tough 2025",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/46951993/world-champ-world-cup-loss-coach-gajewski-plots-gukesh-revival-2026",
-         "pubDate" : "Thu, 13 Nov 2025 08:07:44",
-         "title" : "World champ to World Cup loss: Gajewski plots Gukesh revival in 2026"
       }
    ]
 }
