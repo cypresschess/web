@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The public release of \"War Is Over! Inspired by the Music of John and Yoko\" marks the first opportunity for general audiences to view the award-winning animated short outside festival and academy screenings. The film, created by Dave Mullins and Sean Ono Lennon, blends an anti-war message with a story centred on correspondence chess in an alternate First World War setting. Its release also supports War Child, raising funds for children affected by armed conflict. | Image: ElectroLeague",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/war-is-over-public-release",
+         "pubDate" : "Wed, 03 Dec 2025 22:20:00",
+         "title" : "Short film with chess-related premise now free to watch: \"War Is Over!\""
+      },
+      {
          "description" : "Tomorrow (4 December) marks the official start of the Freestyle Finals in South Africa. The opening press conference at The Silo Hotel in Cape Town will be followed by a diving chess competition. From 8 December, the Grand Slam Finals will begin at Grootbos Private Nature Reserve, featuring Magnus Carlsen, Fabiano Caruana, Vincent Keymer and Javokhir Sindarov, among others. | Photos: Freestyle Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/freestyle-finals-in-south-africa",
          "pubDate" : "Wed, 03 Dec 2025 17:16:00",
          "title" : "Freestyle finals in South Africa"
+      },
+      {
+         "description" : "Samay Raina can make you laugh, and Samay Raina can make you cry. The Indian comedian won every single game in Group B of SuperPogChamps, guaranteeing his spot in the Championship Bracket&#39;s semifinals. Sardoche and Wirtual both made it to the uppe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/superpogchamps-day-2",
+         "pubDate" : "Wed, 03 Dec 2025 15:44:00",
+         "title" : "Samay Raina Finishes Group Stage With Perfect Score, Makes It To Championship Bracket With Sardoche, Wirtual"
       },
       {
          "description" : "At the second Jerusalem Chess Festival, Arseniy Nesterov and Evgeny Alekseev qualified for the Masters as the best players in the Open and faced ten invited participants there. Svidler, Anand, Nepomniachtchi and Erigaisi advanced from the round-robin tournament of the Masters to the knockout stage. The semi-finals and finals will be played today. | Photos: Tournament website/ Alon Shulman",
@@ -520,14 +536,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/10-year-old-indian-origin-british-prodigy-bodhana-sivanandan-shocks-chess-world-wins-uk-womens-blitz-championship/articleshow/125542456.cms",
          "pubDate" : "Mon, 24 Nov 2025 13:46:08",
          "title" : "10-year-old Sivanandan wins UK Women's Blitz Championship"
-      },
-      {
-         "description" : "It wasn&#39;t easy, but the St. Louis University (SLU) chess team won the&#38;nbsp;Collegiate Chess League (CCL) championship, defeating the University of Texas, Dallas, 8.5-7.5 in a tense match. SLU also won the championship in the Spring 2025 season, jo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/slu-defeats-utd-repeats-as-collegiate-chess-league-champions",
-         "pubDate" : "Mon, 24 Nov 2025 12:30:01",
-         "title" : "SLU Defeats UTD, Repeats as Collegiate Chess League Champions"
       },
       {
          "description" : "The 9th edition of the European Small Nations Team Chess Championship took place from 15-22 November in Larnaca, Cyprus. After nine played rounds, two teams tied for the top scoring 16 match points each: Faroe Islands and Andorra. With the higher score of the game points, Faroe Islands emerged as the Winner of the event and clinched the title. Andorra claimed silver medal. Scoring 15 match points, Cyprus won bronze medal. The Closing Ceremony of the even took place with []",
