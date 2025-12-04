@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-live",
+         "pubDate" : "Thu, 04 Dec 2025 16:50:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
+         "description" : "The main attraction of the XTX Markets London Chess Classic is the elite tournament, but the FIDE Open was also very strong, featuring numerous titled players. After nine rounds, three players finished on 7 points and shared first place: GM Praggnanandhaa Rameshbabu of India (pictured), GM Velimir Ilic of Serbia and GM Ameet K. Ghasi of England. As there were no tiebreaks in the event, the three also shared the prize money for the top three places. | Photo: Yury Krylov / London Chess Classic",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-open-final",
+         "pubDate" : "Thu, 04 Dec 2025 16:10:00",
+         "title" : "Pragg, Ivic and Ghasi share first place at London Chess Classic FIDE Open"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125767320.cms\" />Anish Giri found a crucial turning point in his chess career during the Global Chess League (GCL) last year, overcoming a dip in form and confidence. He shares humorous anecdotes about team bonding, food preferences, and even a playful \"iPhone mutiny.\" Giri sees the upcoming GCL season as a vital warm-up for the FIDE World Rapid and Blitz Championships. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-from-dying-from-spice-to-iphone-revolt-and-gukesh-mode-dutch-no-1-anish-giri-opens-box-of-not-quite-chess-tales/articleshow/125767320.cms",
+         "pubDate" : "Thu, 04 Dec 2025 12:45:48",
+         "title" : "Exclusive | From 'iPhone revolt' to 'Gukesh mode': Dutch No.1 opens box of not-quite-chess tales"
+      },
+      {
          "description" : "Arjun Erigaisi claimed the Jerusalem Masters title after a tightly contested knockout stage that featured four seasoned competitors emerging from the round-robin phase. The tournament winner edged Viswanathan Anand in a blitz tiebreak after their rapid games ended level, while Peter Svidler secured third place by defeating Ian Nepomniachtchi. | Photo: Official website / Yoav Nis",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -768,14 +792,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/47022191/india-stumble-fide-chess-world-cup-2025-goa",
          "pubDate" : "Wed, 19 Nov 2025 09:56:25",
          "title" : "24 to 0: Indians stumble at home Chess World Cup"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125428681.cms\" />Chess enthusiasts hold their breath as the Chess World Cup reaches a gripping climax with crucial tiebreaks on Wednesday. Grandmaster Arjun Erigaisi from India faces a formidable opponent in Wei Yi, while Alexander Donchenko wraps up his journey in this prestigious event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-arjun-erigaisi-vs-wei-yi-goes-to-tiebreak-nodirbek-yakubboev-in-semis/articleshow/125428681.cms",
-         "pubDate" : "Wed, 19 Nov 2025 06:10:28",
-         "title" : "Chess World Cup: Arjun Erigaisi vs Wei Yi goes to tiebreak, Nodirbek Yakubboev in semis"
       },
       {
          "description" : " The Tata Steel Chess tournament takes place in Wijk aan Zee 16th Jan - 1st Feb 2026. The fields for both the Masters and Challengers have been set and they reflect the state of professional chess today. The Masters group has an average age of just 23. Exciting players like Vincent Keymer, Arjun Erigaisi, Nodirbek Abdusattorov and Hans Niemann should light up the competition. World Champion Gukesh might be struggling at the moment but you'd want him in your tournament, especially as he only just missed out last year following a tie-break match with the eventual winner Rameshbabu Praggnanandhaa. Dutch number one Anish Giri is the oldest player in the field at 32, he has enjoyed one of his bes",
