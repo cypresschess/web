@@ -26,6 +26,14 @@ news_feed (
          "title" : "Exclusive | From 'iPhone revolt' to 'Gukesh mode': Dutch No.1 opens box of not-quite-chess tales"
       },
       {
+         "description" : "When Jaguar TCS Racing was looking for someone to help launch their new campaign ahead of Season 12 of the all-electric Formula E Championship, they turned to renowned streamer, content creator, and WFM Anna Cramling. &#38;ldquo;In chess, every piec...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jaguar-teams-up-with-anna-cramling-campaign",
+         "pubDate" : "Thu, 04 Dec 2025 12:16:23",
+         "title" : "Jaguar Teams Up With Anna Cramling For New Campaign"
+      },
+      {
          "description" : "Arjun Erigaisi claimed the Jerusalem Masters title after a tightly contested knockout stage that featured four seasoned competitors emerging from the round-robin phase. The tournament winner edged Viswanathan Anand in a blitz tiebreak after their rapid games ended level, while Peter Svidler secured third place by defeating Ian Nepomniachtchi. | Photo: Official website / Yoav Nis",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -512,14 +520,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-chesscom-global-championship-2026",
          "pubDate" : "Tue, 25 Nov 2025 08:00:00",
          "title" : "Chess.com Global Championship Returns As Part Of Esports World Cup Qualification Cycle"
-      },
-      {
-         "description" : "GM Andrey Esipenko has snatched the final spot in the 2026 FIDE Candidates Tournament after beating GM Nodirbek Yakubboev 2-0 to take third place in the 2025 FIDE World Cup. Yakubboev had to win on demand, but blundered into a crushing line where ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-final-game-2",
-         "pubDate" : "Tue, 25 Nov 2025 05:11:00",
-         "title" : "Esipenko Grabs Last Candidates Spot, Final Goes To Tiebreaks"
       },
       {
          "description" : "This week's puzzles come from the 2025 FIDE Women's World Team Championship. See our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
