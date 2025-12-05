@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Uzbek shone at London Classic and a 3,000+ tournament performance reaffirmed his place among world's best This week's XTX London Classic at Arsenal's Emirates Stadium took place in an elegant arena with a full view of the football pitch. The English players suffered for most of the event, but hit back in style on Thursday when all four won their eighth-round games. Scores after eight of the nine rounds were Nodirbek Abdusattorov (Uzbekistan) 7, Alireza Firouzja (France) 5, Nikita Vitiugov (England) 4.5, Luke McShane and Michael Adams (both England) 4, Nikolas Theodorou (Greece) and Pavel Eljanov (Ukraine) 3.5, Abhimanyu Mishra (USA) and Gawain Maroroa Jones (England) 3, Sam Shankland (U",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/dec/05/nodirbek-abdusattorov-overwhelms-rivals-london-classic-chess",
+         "pubDate" : "Fri, 05 Dec 2025 08:00:44",
+         "title" : "Abdusattorov overwhelms rivals at Arsenal but England hit back in style"
+      },
+      {
+         "description" : "The fourth President Cup opened in Tashkent with a round marked by five decisive results, all in favour of the white pieces. With Uzbekistan's top grandmasters absent, the spotlight fell on emerging local talents and a strong group of international participants. The first day saw a couple of upsets, steady wins by some of the top seeds and a competitive start to the 10-player single round-robin. | Pictured: Shant Sargsyan from Armenia | Photo: Uzbek Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/president-cup-2025-1",
+         "pubDate" : "Fri, 05 Dec 2025 07:10:00",
+         "title" : "President Cup: All five games end decisively in first round"
+      },
+      {
          "description" : "FIDE's Commission for Women's Chess has announced the inaugural Pia Cramling Cup, a new rapid tournament for girls and women to be held during the Rilton Cup in Stockholm on 2 January 2026. Created in collaboration with Pia Cramling and the Stockholm Chess Federation, the event celebrates the former world number one's legacy while supporting emerging talent. Alongside the tournament, DGT and FIDE will offer technical training seminars aimed at expanding opportunities for women in chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,14 +74,6 @@ news_feed (
          "title" : "Jaguar Teams Up With Anna Cramling For New Campaign"
       },
       {
-         "description" : "Arjun Erigaisi claimed the Jerusalem Masters title after a tightly contested knockout stage that featured four seasoned competitors emerging from the round-robin phase. The tournament winner edged Viswanathan Anand in a blitz tiebreak after their rapid games ended level, while Peter Svidler secured third place by defeating Ian Nepomniachtchi. | Photo: Official website / Yoav Nis",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jerusalem-masters-2025-final-report",
-         "pubDate" : "Thu, 04 Dec 2025 08:00:00",
-         "title" : "Arjun Erigaisi beats Vishy Anand to win Jerusalem Masters"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125760568.cms\" />Young Grandmaster Arjun Erigaisi triumphed at the Jerusalem Masters, defeating legendary Viswanathan Anand in a thrilling all-Indian final. After drawing the rapid games, Erigaisi secured the title by winning the first blitz tie-break. He expressed relief at overcoming challenges and playing well in the crucial blitz encounters, ultimately pocketing a significant prize.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -74,36 +82,12 @@ news_feed (
          "title" : "Arjun Erigaisi defeats chess legend Viswanathan Anand in the Jerusalem Masters"
       },
       {
-         "description" : "The public release of \"War Is Over! Inspired by the Music of John and Yoko\" marks the first opportunity for general audiences to view the award-winning animated short outside festival and academy screenings. The film, created by Dave Mullins and Sean Ono Lennon, blends an anti-war message with a story centred on correspondence chess in an alternate First World War setting. Its release also supports War Child, raising funds for children affected by armed conflict. | Image: ElectroLeague",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/war-is-over-public-release",
-         "pubDate" : "Wed, 03 Dec 2025 22:20:00",
-         "title" : "Short film with chess-related premise now free to watch: \"War Is Over!\""
-      },
-      {
-         "description" : "Tomorrow (4 December) marks the official start of the Freestyle Finals in South Africa. The opening press conference at The Silo Hotel in Cape Town will be followed by a diving chess competition. From 8 December, the Grand Slam Finals will begin at Grootbos Private Nature Reserve, featuring Magnus Carlsen, Fabiano Caruana, Vincent Keymer and Javokhir Sindarov, among others. | Photos: Freestyle Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-finals-in-south-africa",
-         "pubDate" : "Wed, 03 Dec 2025 17:16:00",
-         "title" : "Freestyle finals in South Africa"
-      },
-      {
          "description" : "Samay Raina can make you laugh, and Samay Raina can make you cry. The Indian comedian won every single game in Group B of SuperPogChamps, guaranteeing his spot in the Championship Bracket&#39;s semifinals. Sardoche and Wirtual both made it to the uppe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/superpogchamps-day-2",
          "pubDate" : "Wed, 03 Dec 2025 15:44:00",
          "title" : "Samay Raina Ends Group On Perfect Score, Joins Sardoche, Wirtual In Championship Bracket"
-      },
-      {
-         "description" : "At the second Jerusalem Chess Festival, Arseniy Nesterov and Evgeny Alekseev qualified for the Masters as the best players in the Open and faced ten invited participants there. Svidler, Anand, Nepomniachtchi and Erigaisi advanced from the round-robin tournament of the Masters to the knockout stage. The semi-finals and finals will be played today. | Photos: Tournament website/ Alon Shulman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jerusalem-svidler-anand-nepomniachtchi-and-erigaisi-in-the-semi-finals",
-         "pubDate" : "Wed, 03 Dec 2025 14:21:28",
-         "title" : "Jerusalem: Svidler, Anand, Nepomniachtchi, and Erigaisi in the semi-finals"
       },
       {
          "description" : "Ed Schr&ouml;der, pioneer of chess engine programming, has in his retirement turned his attention to a new and very exciting project: to extract games from a database collection that are especially aggressive - that are short and have daring sacrifices and king attacks. He shows us the kinds of result you can get. Best of all: you can download the utility and use it on your databases.",
@@ -864,22 +848,6 @@ news_feed (
          "link" : "https://aicf.in/certificatesna-held-in-chennai-on-25-26-october-2025/",
          "pubDate" : "Fri, 14 Nov 2025 08:51:39",
          "title" : "Certificate:SNA held in Chennai on 25 & 26 October 2025"
-      },
-      {
-         "description" : " Fifteen of the top 20 seeds were eliminated in first four rounds, including world champion Gukesh Dommaraju An early cull of the favourites at the Chess World Cup in Goa has resulted in 15 of the top 20 seeds heading for home early. It has also created a lopsided pairing situation where almost all the remaining favourites are concentrated in one half of the draw. The two surviving top seeds, India's world No 5 Arjun Erigaisi and China's No 10-ranked Wei Yi, could meet in the quarter-finals, while the headline pairing in Friday afternoon's fifth round<em> </em>is Levon Aronian, the US star who has already won the World Cup twice, against Erigaisi. <a href=\"https://www.theguardian.com/sport/2",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/nov/14/outsiders-sense-chess-world-cup-glory-after-big-names-make-early-exits",
-         "pubDate" : "Fri, 14 Nov 2025 08:00:23",
-         "title" : "Outsiders sense Chess World Cup glory after host of big names make early exits"
-      },
-      {
-         "description" : "The 2026 European Individual Senior Chess Championship will take place from 1st-11th June 2026 in Acqui Terme, Italy. The event will be played in two age categories: 50+ and 65+, Open and Women's sections separately. Each championship shall be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for each move starting from move one. In case that less than 9 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-chess-championship-2026-official-invitation/",
-         "pubDate" : "Fri, 14 Nov 2025 07:38:51",
-         "title" : "European Senior Chess Championship 2026 - Official invitation"
       }
    ]
 }
