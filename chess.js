@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE's Commission for Women's Chess has announced the inaugural Pia Cramling Cup, a new rapid tournament for girls and women to be held during the Rilton Cup in Stockholm on 2 January 2026. Created in collaboration with Pia Cramling and the Stockholm Chess Federation, the event celebrates the former world number one's legacy while supporting emerging talent. Alongside the tournament, DGT and FIDE will offer technical training seminars aimed at expanding opportunities for women in chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pia-cramling-cup-2026-announcement",
+         "pubDate" : "Thu, 04 Dec 2025 22:10:00",
+         "title" : "In Stockholm: First-ever Pia Cramling Cup and two seminars for women announced"
+      },
+      {
          "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/london-chess-classic-2025-open-final",
          "pubDate" : "Thu, 04 Dec 2025 16:10:00",
          "title" : "Pragg, Ivic and Ghasi share first place at London Chess Classic FIDE Open"
+      },
+      {
+         "description" : "Almost all the favorites won their SuperPogChamps quarterfinal matches. Sardoche overpowered Linda Diaz with his chess, while Wirtual&#39;s own mouse betrayed him in his match against Andrea Botez. In the Consolation Bracket, Cows went extinct as Sp...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/superpogchamps-day-3",
+         "pubDate" : "Thu, 04 Dec 2025 15:00:00",
+         "title" : "Andrea Botez, Sardoche Reach Championship Bracket Semifinals"
+      },
+      {
+         "description" : "The Finals of the Freestyle Chess Grand Slam Tour 2025, taking place near Cape Town, South Africa, are just around the corner. The year-long tour brings together eight world-class players to compete in a Chess960 tournament that starts at the Groo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-tour-finals-preview",
+         "pubDate" : "Thu, 04 Dec 2025 14:57:00",
+         "title" : "Niemann Wins Diving Chess Championship In Lead-Up To Freestyle Chess Finals"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125767320.cms\" />Anish Giri found a crucial turning point in his chess career during the Global Chess League (GCL) last year, overcoming a dip in form and confidence. He shares humorous anecdotes about team bonding, food preferences, and even a playful \"iPhone mutiny.\" Giri sees the upcoming GCL season as a vital warm-up for the FIDE World Rapid and Blitz Championships. ",
@@ -504,22 +528,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-amateur-chess-championship-2025-starts-in-malta/",
          "pubDate" : "Tue, 25 Nov 2025 09:57:56",
          "title" : "European Amateur Chess Championship 2025 starts in Malta"
-      },
-      {
-         "description" : "Chess.com has been announced as one of three new publishers for the inaugural Esports Nations Cup (ENC), joining a lineup of major game developers partnering with the Esports World Cup Foundation (EWCF) to build the first major country-versus-coun...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-com-joins-esports-nations-cup-as-official-publisher-for-2026-launch",
-         "pubDate" : "Tue, 25 Nov 2025 09:20:00",
-         "title" : "Chess.com Joins Esports Nations Cup As Official Publisher For 2026 Launch"
-      },
-      {
-         "description" : "We&#39;re excited to announce the return of the Chess.com Global Championship (CGC), starting on March 14, 2026! With a whopping $250,000 prize fund and up to three spots to next year&#39;s Esports World Cup on the line, the stakes are higher than ever! ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-global-championship-2026",
-         "pubDate" : "Tue, 25 Nov 2025 08:00:00",
-         "title" : "Chess.com Global Championship Returns As Part Of Esports World Cup Qualification Cycle"
       },
       {
          "description" : "This week's puzzles come from the 2025 FIDE Women's World Team Championship. See our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
