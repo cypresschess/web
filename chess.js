@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-live",
+         "pubDate" : "Fri, 05 Dec 2025 16:50:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
+         "description" : "Nodirbek Abdusattorov secured the London Chess Classic title with a round to spare after drawing his eighth-round game against Alireza Firouzja. Entering the day with a two-point lead built on six consecutive wins, the Uzbek grandmaster navigated a sharp position more accurately before choosing to force a perpetual check, confirming overall victory. It was the only draw of the round, with all other games ending decisively. | Photo: nodirbekchess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-8",
+         "pubDate" : "Fri, 05 Dec 2025 16:30:00",
+         "title" : "Abdusattorov wins London Chess Classic with one round to spare"
+      },
+      {
          "description" : "The 2025 European Amateur Chess Championship took place from 26th of November to 4th of December in Mellieha, Malta. The event was played in three rating categories: U1700, U2000, and U2300, each championship with 9-swiss rounds and time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with an increment of 30 seconds for each move starting from move one. After nine played rounds, CM Stefan-Emilian Prisacaru (ROU, 2216) emerged as the sole []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -34,20 +50,20 @@ news_feed (
          "title" : "President Cup: All five games end decisively in first round"
       },
       {
+         "description" : "GM Nodirbek Abdusattorov clinched &#34;truly an amazing tournament for me&#34; with a round to spare after forcing a draw from a position of strength against GM Alireza Firouzja. Elsewhere in the London Chess Classic Elite Tournament it was a dream day fo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-8",
+         "pubDate" : "Fri, 05 Dec 2025 05:03:40",
+         "title" : "Abdusattorov Wins 2025 London Chess Classic, Praggnanandhaa Closes In On Candidates"
+      },
+      {
          "description" : "FIDE's Commission for Women's Chess has announced the inaugural Pia Cramling Cup, a new rapid tournament for girls and women to be held during the Rilton Cup in Stockholm on 2 January 2026. Created in collaboration with Pia Cramling and the Stockholm Chess Federation, the event celebrates the former world number one's legacy while supporting emerging talent. Alongside the tournament, DGT and FIDE will offer technical training seminars aimed at expanding opportunities for women in chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/pia-cramling-cup-2026-announcement",
          "pubDate" : "Thu, 04 Dec 2025 22:10:00",
          "title" : "In Stockholm: First-ever Pia Cramling Cup and two seminars for women announced"
-      },
-      {
-         "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-live",
-         "pubDate" : "Thu, 04 Dec 2025 16:50:00",
-         "title" : "London Chess Classic - Live!"
       },
       {
          "description" : "The main attraction of the XTX Markets London Chess Classic is the elite tournament, but the FIDE Open was also very strong, featuring numerous titled players. After nine rounds, three players finished on 7 points and shared first place: GM Praggnanandhaa Rameshbabu of India (pictured), GM Velimir Ilic of Serbia and GM Ameet K. Ghasi of England. As there were no tiebreaks in the event, the three also shared the prize money for the top three places. | Photo: Yury Krylov / London Chess Classic",
@@ -512,14 +528,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/15th-xtx-markets-london-chess-classic-2025",
          "pubDate" : "Tue, 25 Nov 2025 16:54:00",
          "title" : "15th XTX Markets London Chess Classic 2025 - Games and Results"
-      },
-      {
-         "description" : "GM Pranesh M won a wild game in a wild final round of a wild Titled Tuesday on November 25 to take home first place ahead of GM Magnus Carlsen on tiebreaks. With five players tied for first after 10 rounds, Pranesh and Carlsen were both fighting j...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pranesh-wins-titled-tuesday-november-25-2025",
-         "pubDate" : "Tue, 25 Nov 2025 11:22:00",
-         "title" : "Pranesh Wins Titled Tuesday Photo Finish Over Carlsen"
       },
       {
          "description" : "The European Amateur Chess Championships 2025 is set to take place from 25 November to 5 December in Mellieha, Malta. The event is played in three age categories: U2300, U2000, and U1700, and each Championship will be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for each move starting from move one. The event is played at the Conference Hall []",
