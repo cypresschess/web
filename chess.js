@@ -26,12 +26,36 @@ news_feed (
          "title" : "European Amateur Chess Championships 2025 concluded in Malta"
       },
       {
+         "description" : "IM Renato Terry won another 3 0 Thursday tournament on December 4, marking the third consecutive week that he&#39;s won one of the three events. No one else has won more than once since the event debuted on November 6. GM Vladislav Artemiev and IM Ant...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/artemiev-terry-atanasov-3-0-thursday-12-4-2025",
+         "pubDate" : "Fri, 05 Dec 2025 10:55:16",
+         "title" : "Terry Wins 3 0 Thursday For Third Straight Week, Joined By Artemiev and Atanasov"
+      },
+      {
+         "description" : "GM Sina Movahed won Freestyle Friday on December 5 with a round to spare, becoming just the fourth player to win the event at least four times. Even more impressively, Movahed won 10 straight games to end the tournament, persevering despite a loss...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/movahed-wins-freestyle-friday-december-5-2025",
+         "pubDate" : "Fri, 05 Dec 2025 10:38:43",
+         "title" : "10-Game Win Streak Carries Movahed To 4th Freestyle Friday"
+      },
+      {
          "description" : " Nodirbek Abdusattorov's six game winning streak might have ended with a draw against Alireza Firouzja in Round 8 but it confirmed a clear win for him in the London Chess Classic with a round to spare, and this result was obtained from a position of strength. Abdusattorov had beaten Luke McShane in Round 7 with a long grind giving him a two point lead over Firouzja. Their Round 8 game was a Queen's Gambit Accepted where the engine thought Abdusattorov's 15...Rb6 was inferior to 15...Nd8= and that 16.Qe2 instead of 16.Qa4 might have given an edge to Firouzja. As it was Abdusattorov was the one who stood slightly better and when he repeated for a draw Firouzja had no choice whilst Abdusattorov",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorovs-draw-with-firouzja-confirms-victory-in-the-london-chess-classic",
          "pubDate" : "Fri, 5 Dec 2025 10:04:00",
          "title" : "Abdusattorov's draw with Firouzja confirms victory in the London Chess Classic - 7-8"
+      },
+      {
+         "description" : "Sarwagya Singh Kushwaha from India was 2.5 years old when he picked up chess. Now he plays up to five hours a day, and at just three years, seven months, and 20 days, he has become the youngest FIDE-rated player.&#38;nbsp; Chess is becoming younger ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/3-year-old-breaks-record-as-youngest-ever-rated-player",
+         "pubDate" : "Fri, 05 Dec 2025 08:35:16",
+         "title" : "3-Year-Old Sarwagya Achieves Official 1572 FIDE Rating"
       },
       {
          "description" : " The Uzbek shone at London Classic and a 3,000+ tournament performance reaffirmed his place among world's best This week's XTX London Classic at Arsenal's Emirates Stadium took place in an elegant arena with a full view of the football pitch. The English players suffered for most of the event, but hit back in style last night when all four won their eighth-round games. Scores after eight of the nine rounds were Nodirbek Abdusattorov (Uzbekistan) 7, Alireza Firouzja (France) 5, Nikita Vitiugov (England) 4.5, Luke McShane and Michael Adams (both England) 4, Nikolas Theodorou (Greece) and Pavel Eljanov (Ukraine) 3.5, Abhimanyu Mishra (USA) and Gawain Maroroa Jones (England) 3, Sam Shankland (US",
@@ -466,14 +490,6 @@ news_feed (
          "title" : "Final Report :Commonwealth Chess Championship 2025 in Malaysia from 08-17 Nov 2025"
       },
       {
-         "description" : "An exciting first round at the London Chess Classic&#39;s Elite Tournament saw all games ending in draws, but not without quite a bit of fighting chess on the boards. GM Sam Shankland was fortunate to get away with a draw against&#38;nbsp;GM Alireza Firou...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-1",
-         "pubDate" : "Wed, 26 Nov 2025 23:54:00",
-         "title" : "Shankland Escapes vs. Firouzja As London Chess Classic Takes Off"
-      },
-      {
          "description" : " Javokhir Sindarov beat Wei Yi in the final of the <a href=\"https://theweekinchess.com/chessnews/events/fide-world-cup-2025\">FIDE World Cup</a>. The two classical games were drawn taking the match to a final tie-break. The first classical game was a Petroff Defence where Wei Yi as black briefly had a small advantage, the second game was a 30 move draw in a Four Knights that only took a few minutes to execute. The rapid games were not of the highest quality, both players were almost certainly very tired, and they'd also achieved their main objective, qualifying for the Candidates. In the first rapid game Wei Yi blundered with 30...g5? and this could have been met by 31.Be4! winning. The secon",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -488,22 +504,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2025-live",
          "pubDate" : "Wed, 26 Nov 2025 10:20:00",
          "title" : "FIDE World Cup, Finals - Live!"
-      },
-      {
-         "description" : "Nineteen-year-old Uzbek GM Javokhir Sindarov has won the 2025 FIDE World Cup and the $120,000 top prize after beating GM Wei Yi 1.5-0.5 in tiebreaks. Sindarov missed a one-move chance to win with White in the first tiebreak game, but he made no mi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-cup-final-tiebreaks",
-         "pubDate" : "Wed, 26 Nov 2025 04:01:00",
-         "title" : "Javokhir Sindarov Becomes Youngest Ever World Cup Winner"
-      },
-      {
-         "description" : "The ChessBrahs, GMs Eric Hansen and Aman Hambleton, stopped by the Las Vegas Grand Prix race on November 20-22. The grandmasters manned a Chess.com booth at the race, playing with fans, drivers, and celebrities alike! Racecar drivers are competi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/formula-one-drivers-and-fans-play-chess-in-las-vegas",
-         "pubDate" : "Wed, 26 Nov 2025 03:17:05",
-         "title" : "Formula One Drivers And Fans Play Chess In Las Vegas"
       },
       {
          "description" : "This week's puzzles come from the 2025 FIDE Women's World Team Championship. See our full report here, and find even more puzzles from this event on yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
