@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The Uzbek shone at London Classic and a 3,000+ tournament performance reaffirmed his place among world's best This week's XTX London Classic at Arsenal's Emirates Stadium took place in an elegant arena with a full view of the football pitch. The English players suffered for most of the event, but hit back in style on Thursday when all four won their eighth-round games. Scores after eight of the nine rounds were Nodirbek Abdusattorov (Uzbekistan) 7, Alireza Firouzja (France) 5, Nikita Vitiugov (England) 4.5, Luke McShane and Michael Adams (both England) 4, Nikolas Theodorou (Greece) and Pavel Eljanov (Ukraine) 3.5, Abhimanyu Mishra (USA) and Gawain Maroroa Jones (England) 3, Sam Shankland (U",
+         "description" : "The 2025 European Amateur Chess Championship took place from 26th of November to 4th of December in Mellieha, Malta. The event was played in three rating categories: U1700, U2000, and U2300, each championship with 9-swiss rounds and time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with an increment of 30 seconds for each move starting from move one. After nine played rounds, CM Stefan-Emilian Prisacaru (ROU, 2216) emerged as the sole []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-amateur-chess-championships-2025-concluded-in-malta/",
+         "pubDate" : "Fri, 05 Dec 2025 12:15:15",
+         "title" : "European Amateur Chess Championships 2025 concluded in Malta"
+      },
+      {
+         "description" : " Nodirbek Abdusattorov's six game winning streak might have ended with a draw against Alireza Firouzja in Round 8 but it confirmed a clear win for him in the London Chess Classic with a round to spare, and this result was obtained from a position of strength. Abdusattorov had beaten Luke McShane in Round 7 with a long grind giving him a two point lead over Firouzja. Their Round 8 game was a Queen's Gambit Accepted where the engine thought Abdusattorov's 15...Rb6 was inferior to 15...Nd8= and that 16.Qe2 instead of 16.Qa4 might have given an edge to Firouzja. As it was Abdusattorov was the one who stood slightly better and when he repeated for a draw Firouzja had no choice whilst Abdusattorov",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorovs-draw-with-firouzja-confirms-victory-in-the-london-chess-classic",
+         "pubDate" : "Fri, 5 Dec 2025 10:04:00",
+         "title" : "Abdusattorov's draw with Firouzja confirms victory in the London Chess Classic - 7-8"
+      },
+      {
+         "description" : " The Uzbek shone at London Classic and a 3,000+ tournament performance reaffirmed his place among world's best This week's XTX London Classic at Arsenal's Emirates Stadium took place in an elegant arena with a full view of the football pitch. The English players suffered for most of the event, but hit back in style last night when all four won their eighth-round games. Scores after eight of the nine rounds were Nodirbek Abdusattorov (Uzbekistan) 7, Alireza Firouzja (France) 5, Nikita Vitiugov (England) 4.5, Luke McShane and Michael Adams (both England) 4, Nikolas Theodorou (Greece) and Pavel Eljanov (Ukraine) 3.5, Abhimanyu Mishra (USA) and Gawain Maroroa Jones (England) 3, Sam Shankland (US",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/dec/05/nodirbek-abdusattorov-overwhelms-rivals-london-classic-chess",
@@ -840,14 +856,6 @@ news_feed (
          "link" : "https://www.thearticle.com/sumo-cum-laude-chess-and-wrestling/",
          "pubDate" : "Sat, 15 Nov 2025 10:54:28",
          "title" : "Sumo cum Laude: chess and wrestling"
-      },
-      {
-         "description" : "Please find the certificates .For any query write back to Indianchessfed@gmail.com No Name1 Sai Harshavardhan J2 Prabhu Trichy Srinivasan3 Manikandan J4 Vaishnavi Selvaraj5 Dharanya G6",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificatesna-held-in-chennai-on-25-26-october-2025/",
-         "pubDate" : "Fri, 14 Nov 2025 08:51:39",
-         "title" : "Certificate:SNA held in Chennai on 25 & 26 October 2025"
       }
    ]
 }
