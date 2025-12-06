@@ -1,4 +1,6 @@
 jtable([
+"SPRING","2025-12-05","25","<a href=https://ratings.uschess.org/event/202512050333 target='_blank'>THE FRIDAY KNIGHTS(C:\\USERS\\J\\DOCUM</a>",
+"CYPRESS","2025-12-05","37","<a href=https://ratings.uschess.org/event/202512050273 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-11-30","15","<a href=https://ratings.uschess.org/event/202511300323 target='_blank'>Bellaire Sunday Swiss 2025.11.30</a>",
 "HOUSTON","2025-11-29","31","<a href=https://ratings.uschess.org/event/202511290243 target='_blank'>Lone Star Houston Fall Action</a>",
 "HOUSTON","2025-11-29","11","<a href=https://ratings.uschess.org/event/202511290193 target='_blank'>chesspanda11292025saturday</a>",
@@ -15,6 +17,7 @@ jtable([
 "HOUSTON","2025-11-20","2","<a href=https://ratings.uschess.org/event/202511200033 target='_blank'>MATCH PLAY AW V JMC</a>",
 "HOUSTON","2025-11-16","18","<a href=https://ratings.uschess.org/event/202511160473 target='_blank'>2025 Thanksgiving by AzChAcad</a>",
 "HOUSTON","2025-11-16","49","<a href=https://ratings.uschess.org/event/202511160353 target='_blank'>Houston Fall FIDE 25</a>",
+"HOUSTON","2025-11-15","30","<a href=https://ratings.uschess.org/event/202511151713 target='_blank'>MTS-VHS-Chess tmt Nov 2025</a>",
 "HOUSTON","2025-11-15","8","<a href=https://ratings.uschess.org/event/202511150573 target='_blank'>chesspanda11152025saturday</a>",
 "HOUSTON","2025-11-15","16","<a href=https://ratings.uschess.org/event/202511150403 target='_blank'>NOV 15TH -- TROPHY-SCHOLASTIC</a>",
 "SPRING","2025-11-14","20","<a href=https://ratings.uschess.org/event/202511140233 target='_blank'>THE FRIDAY KNIGHTS (TX)</a>",
@@ -96,7 +99,4 @@ jtable([
 "HOUSTON","2025-08-30","72","<a href=https://ratings.uschess.org/event/202508301132 target='_blank'>TCR: CLUTCH CITY OPEN</a>",
 "HOUSTON","2025-08-30","67","<a href=https://ratings.uschess.org/event/202508300952 target='_blank'>TCR: CLUTCH CITY SCHOLASTIC</a>",
 "CYPRESS","2025-08-29","38","<a href=https://ratings.uschess.org/event/202508290712 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SUGAR LAND","2025-08-29","8","<a href=https://ratings.uschess.org/event/202508290702 target='_blank'>FBCC 2025 NATIONAL SWEET CORN DAY O</a>",
-"SPRING","2025-08-29","20","<a href=https://ratings.uschess.org/event/202508290692 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2025-08-26","20","<a href=https://ratings.uschess.org/event/202508269402 target='_blank'>AUGUST 2025 TUESDAY NIGHT SWISS</a>",
 ]);
