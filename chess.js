@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Jamaica, an island of almost three million, was devastated by Hurricane Melissa, a Category 5 storm that reached sustained winds of 185mph (and gusts over 250 mph). The hurricane created storm surges of up to 12 feet, flooding many parts of the tourist haven. Forming as an &#8220;extratropical cyclone&#8221; in late October, an area called The post <a href=\"https://thechessdrum.net/blog/2025/12/06/chess-in-jamaica-recovering-from-melissa/\">Chess in Jamaica recovering from Melissa</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/12/06/chess-in-jamaica-recovering-from-melissa/",
+         "pubDate" : "Sat, 06 Dec 2025 15:42:49",
+         "title" : "Chess in Jamaica recovering from Melissa"
+      },
+      {
+         "description" : "Next Monday, the final of the Freestyle Grand Slam 2025 will begin in Grootenbosch (South Africa). To mark the opening, a diving chess competition was organised in Cape Town, which was won by Hans Niemann. Some participants of the Freestyle Chess Grand Slam showed off their skills in a simultaneous match against local chess enthusiasts. | Photo: Stev Bonhage / Freestyle Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hans-niemann-diving-chess-champion-cape-town",
+         "pubDate" : "Sat, 06 Dec 2025 15:00:00",
+         "title" : "Hans Niemann becomes Diving Chess Champion in Cape Town"
+      },
+      {
+         "description" : "Analyzing your games can be so powerful when done right. But sadly, in practice, it is overwhelming many chess improvers. Today, I want to share a mindset shift that makes it much easier and more focused on skills, not knowledge. Endless opportunities for improvement = overhwelm The key component that can throw you off []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/mindset-for-game-analysis/",
+         "pubDate" : "Sat, 06 Dec 2025 14:00:00",
+         "title" : "The Right Mindset For Game Analysis"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125800056.cms\" />Dutch No. 1 Anish Giri described D Gukesh's ability to switch into distinct \"modes\" depending on the situation, calling him a completely different person on and off the board. Gukesh later said on X that this trait is natural. With Giri already qualified for the 2026 Candidates, the two may meet sooner in the upcoming Global Chess League (GCL).",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/it-was-never-through-effort-world-chess-champion-d-gukesh-reacts-to-anish-giris-different-person-remark/articleshow/125800056.cms",
          "pubDate" : "Sat, 06 Dec 2025 05:08:56",
          "title" : "'It was never through effort': Gukesh reacts to Anish Giri's 'different person' remark"
+      },
+      {
+         "description" : "GM Nodirbek Abdusattorov had already won the&#38;nbsp;London Chess Classic Elite Tournament with a day to spare, and all draws in the final round meant he finished two points clear on 7.5/9. He made a solid draw against GM Pavel Eljanov, while second-...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/abdusattorov-wins-by-2-point-margin-after-last-round-deadlock",
+         "pubDate" : "Sat, 06 Dec 2025 04:57:00",
+         "title" : "Firouzja Takes 2nd In London, 2 Points Behind Abdusattorov"
       },
       {
          "description" : "No one could have predicted that Samay Raina, one of the lowest-rated players in the field, would win SuperPogChamps. But the comedian had the last laugh when he defeated Andrea Botez and Sardoche in the Championship Bracket to take the crown. I...",
@@ -466,14 +498,6 @@ news_feed (
          "title" : "Sindarov Triumphs: 9 Conclusions From The 2025 FIDE World Cup"
       },
       {
-         "description" : "GM Denis Lazavik, GM Magnus Carlsen, and IM Renato Terry&#38;nbsp;won the third week of 3 0 Thursday events, which were held on November 27. The first two tournaments were fought mainly between Carlsen and GM Hikaru Nakamura, while the third event p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lazavik-carlsen-terry-3-0-thursday-11-27-2025",
-         "pubDate" : "Fri, 28 Nov 2025 04:21:39",
-         "title" : "Lazavik, Carlsen, Terry Win Thursday 3 0"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125610689.cms\" />Uzbekistan's Javokhir Sindarov, a 19-year-old, became the youngest World Cup winner, securing a spot in the 2026 Candidates. India, hosting the event after 23 years, saw its 24 players fail to reach the top three qualifying spots. The article explores the knockout format's challenges, home advantage pressures, and the impact of chess engines on creativity.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -840,22 +864,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-national-school-teamu-12-u-18-chess-championship-2025-in-shimla-from-12-14-oct-2025/",
          "pubDate" : "Mon, 17 Nov 2025 08:19:11",
          "title" : "Certificate of National School Team(U 12 & U 18) Chess Championship 2025 in Shimla from 12-14 Oct 2025"
-      },
-      {
-         "description" : "Improving at chess is simple. Just follow my three Do's and you'll be good. That doesn't mean it is easy, though. What makes it hard are the roadblocks along the way. And most of them are self inflicted and imaginary. You might resonate with some: It is the same for chess, business, nutrition You don't []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/chess-improvement-6-months/",
-         "pubDate" : "Sat, 15 Nov 2025 14:00:00",
-         "title" : "How much can you really improve in 6 months?"
-      },
-      {
-         "description" : "On behalf of the All India Chess Federation, the Arbiters' Commission of AICF, and the Maharashtra Chess Association, the Mumbai Suburban District Chess Association organized",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-sna-seminar-exam-held-in-andheri-on-01-02-nov-2025/",
-         "pubDate" : "Sat, 15 Nov 2025 13:51:36",
-         "title" : "Final Report of SNA Seminar & Exam held in Andheri on 01 & 02 Nov 2025"
       }
    ]
 }
