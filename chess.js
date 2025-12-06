@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "No one could&#39;ve predicted that Samay Raina, one of the lowest-rated players in the field, would win SuperPogChamps. But the comedian had the last laugh when he defeated Andrea Botez and Sardoche in the Championship Bracket to take the crown. In ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/superpogchamps-day-4",
+         "pubDate" : "Fri, 05 Dec 2025 17:00:00",
+         "title" : "Dark Horse Samay Raina Goes From Blunder Master To SuperPogChampion"
+      },
+      {
          "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -456,14 +464,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/lazavik-carlsen-terry-3-0-thursday-11-27-2025",
          "pubDate" : "Fri, 28 Nov 2025 04:21:39",
          "title" : "Lazavik, Carlsen, Terry Win Thursday 3 0"
-      },
-      {
-         "description" : "Top seed GM Alireza Firouzja profited from a big blunder by GM Luke McShane to score a win with the black pieces in round two of the London Chess Classic&#39;s Elite Tournament. Firouzja now shares the lead with GM Nodirbek Abdusattorov, who used 34(!...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-2",
-         "pubDate" : "Fri, 28 Nov 2025 01:07:00",
-         "title" : "Abdusattorov, Firouzja, Theodorou Score 1st Wins In London"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125610689.cms\" />Uzbekistan's Javokhir Sindarov, a 19-year-old, became the youngest World Cup winner, securing a spot in the 2026 Candidates. India, hosting the event after 23 years, saw its 24 players fail to reach the top three qualifying spots. The article explores the knockout format's challenges, home advantage pressures, and the impact of chess engines on creativity.",
