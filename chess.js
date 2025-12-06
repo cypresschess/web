@@ -856,14 +856,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-of-sna-seminar-exam-held-in-andheri-on-01-02-nov-2025/",
          "pubDate" : "Sat, 15 Nov 2025 13:51:36",
          "title" : "Final Report of SNA Seminar & Exam held in Andheri on 01 & 02 Nov 2025"
-      },
-      {
-         "description" : "Some years ago in collaboration with Leonardo da Vinci and the Japanese martial arts expert, Michael Gelb, I wrote Samurai Chess . In this book we sought to draw parallels between those martial arts and chess. The latest Japanese craze to sweep the metropolis has been Sumo wrestling: part sport and part Shinto religion. It is wrestling, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/sumo-cum-laude-chess-and-wrestling/",
-         "pubDate" : "Sat, 15 Nov 2025 10:54:28",
-         "title" : "Sumo cum Laude: chess and wrestling"
       }
    ]
 }
