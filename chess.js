@@ -58,7 +58,7 @@ news_feed (
          "title" : "3-Year-Old Sarwagya Achieves Official 1572 FIDE Rating"
       },
       {
-         "description" : " The Uzbek shone at London Classic and a 3,000+ tournament performance reaffirmed his place among world's best This week's XTX London Classic at Arsenal's Emirates Stadium took place in an elegant arena with a full view of the football pitch. The English players suffered for most of the event, but hit back in style last night when all four won their eighth-round games. Scores after eight of the nine rounds were Nodirbek Abdusattorov (Uzbekistan) 7, Alireza Firouzja (France) 5, Nikita Vitiugov (England) 4.5, Luke McShane and Michael Adams (both England) 4, Nikolas Theodorou (Greece) and Pavel Eljanov (Ukraine) 3.5, Abhimanyu Mishra (USA) and Gawain Maroroa Jones (England) 3, Sam Shankland (US",
+         "description" : " The Uzbek shone at London Classic and a near-3000 tournament performance reaffirmed his place among world's best This week's XTX London Classic at Arsenal's Emirates Stadium took place in an elegant arena with a full view of the football pitch. The English players suffered for most of the event, but hit back in style on Thursday when all four won their eighth-round games. Final scores were Nodirbek Abdusattorov (Uzbekistan) 7.5, Alireza Firouzja (France) 5.5, Nikita Vitiugov (England) 5, Luke McShane and Michael Adams (both England) 4.5, Nikolas Theodorou (Greece) and Pavel Eljanov (Ukraine) 4, Abhimanyu Mishra (USA) and Gawain Maroroa Jones (England) 3.5, Sam Shankland (USA) 3. The four En",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/dec/05/nodirbek-abdusattorov-overwhelms-rivals-london-classic-chess",
@@ -80,6 +80,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-8",
          "pubDate" : "Fri, 05 Dec 2025 05:03:40",
          "title" : "Abdusattorov Wins 2025 London Chess Classic, Praggnanandhaa Closes In On Candidates"
+      },
+      {
+         "description" : "Editor's note: Since becoming Digital Editor for Chess Life Online, I have dreamt of publishing more regular wrap-ups of the sorts of events that are eligible for our Plan Ahead Calendar (as well as invitational tournaments).Do you want coverage of your tournament on Chess Life Online for future reporting or roundups?If so, email Click here to show email address with information of upcoming or recently concluded (i.e. within 1-2 weeks) events.For concluded tournaments, please include links to or screenshots of final standings, as well as links to DGT games or attached, transcribed game scores from 1-3 games of winners. Photos of the tournament and of winners are also a plus (cell phone photo",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/thanksgiving-weekend-wrap",
+         "pubDate" : "Fri, 05 Dec 2025 00:00:00",
+         "title" : "Thanksgiving Weekend Wrap-Up"
       },
       {
          "description" : "FIDE's Commission for Women's Chess has announced the inaugural Pia Cramling Cup, a new rapid tournament for girls and women to be held during the Rilton Cup in Stockholm on 2 January 2026. Created in collaboration with Pia Cramling and the Stockholm Chess Federation, the event celebrates the former world number one's legacy while supporting emerging talent. Alongside the tournament, DGT and FIDE will offer technical training seminars aimed at expanding opportunities for women in chess.",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/11/20/hardaway-gracing-the-cover-of-chess-life/",
          "pubDate" : "Fri, 21 Nov 2025 02:26:27",
          "title" : "Hardaway gracing the cover of Chess Life!"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed beginning at noon CST on Wednesday, November 26 for Thanksgiving. Offices will reopen at 8 a.m. CST on Monday, December 1. All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items. Thank you for your understanding, and happy holidays. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-offices-closed-noon-nov-26-through-nov-30",
-         "pubDate" : "Fri, 21 Nov 2025 00:00:00",
-         "title" : "US Chess Offices Closed Noon Nov 26 through Nov 30"
       },
       {
          "description" : "Please find the certificates Sl No Candidate Name1 Bhogal, Rupesh2 Gaurav Sharma3 Krishna Prabhakar4 Rahul Kadam5 Pandya Raj6 Vaarin Gada7 Vishnu Sharma8 Anup Subhash Pande9",
