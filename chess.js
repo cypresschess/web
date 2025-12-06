@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On the rest day of the FIDE World Cup, on 20 November, I decided to interview GM Alojzije Jankovic. Every time I have met him, I have always been amazed by his warmth and infectious enthusiasm. A man who has worn many hats in the chess world, Jankovic carries the rare combination of passion, humility and purpose. A strong GM who once reached a 2593 rating, Jankovic is also a long-time television presenter in Croatia, Vice President of the European Chess Union, author, theoretician, trainer, commentator and researcher. Let's dive into his multi-faceted life.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/alojzije-jankovic-interview-2025",
+         "pubDate" : "Sat, 06 Dec 2025 17:20:00",
+         "title" : "The inspiring story of Alojzije Jankovic, enthusiastic chess promoter"
+      },
+      {
          "description" : " Jamaica, an island of almost three million, was devastated by Hurricane Melissa, a Category 5 storm that reached sustained winds of 185mph (and gusts over 250 mph). The hurricane created storm surges of up to 12 feet, flooding many parts of the tourist haven. Forming as an &#8220;extratropical cyclone&#8221; in late October, an area called The post <a href=\"https://thechessdrum.net/blog/2025/12/06/chess-in-jamaica-recovering-from-melissa/\">Chess in Jamaica recovering from Melissa</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
