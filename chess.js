@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "No one could&#39;ve predicted that Samay Raina, one of the lowest-rated players in the field, would win SuperPogChamps. But the comedian had the last laugh when he defeated Andrea Botez and Sardoche in the Championship Bracket to take the crown. In ...",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125800056.cms\" />Dutch No. 1 Anish Giri described D Gukesh's ability to switch into distinct \"modes\" depending on the situation, calling him a completely different person on and off the board. Gukesh later said on X that this trait is natural. With Giri already qualified for the 2026 Candidates, the two may meet sooner in the upcoming Global Chess League (GCL).",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/it-was-never-through-effort-world-chess-champion-d-gukesh-reacts-to-anish-giris-different-person-remark/articleshow/125800056.cms",
+         "pubDate" : "Sat, 06 Dec 2025 05:08:56",
+         "title" : "'It was never through effort': Gukesh reacts to Anish Giri's 'different person' remark"
+      },
+      {
+         "description" : "No one could have predicted that Samay Raina, one of the lowest-rated players in the field, would win SuperPogChamps. But the comedian had the last laugh when he defeated Andrea Botez and Sardoche in the Championship Bracket to take the crown. I...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/superpogchamps-day-4",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-2025-meet-chinas-no-1-wei-yi-slayer-of-indias-last-hope-arjun-erigaisi/articleshow/125454536.cms",
          "pubDate" : "Thu, 20 Nov 2025 05:57:12",
          "title" : "Chess WC: Meet China's No. 1 Wei Yi - Slayer of India's last hope, Arjun Erigaisi"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125441171.cms\" />Grandmaster Arjun Erigaisi's FIDE World Cup journey concluded after a rapid tiebreak loss to China's Wei Yi. Despite drawing both classical games, Arjun faltered in the faster formats, with his French Defence choice proving costly in the first tiebreak. Wei Yi's strong middlegame play secured his victory in the second game, advancing him to the semifinals.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-arjun-erigaisi-knocked-out-with-defeat-to-chinas-wei-yi-indias-challenge-ends/articleshow/125441171.cms",
-         "pubDate" : "Wed, 19 Nov 2025 16:05:52",
-         "title" : "World Cup: Arjun Erigaisi knocked out with defeat to Wei Yi; India's challenge ends"
       },
       {
          "description" : "2025 was a reminder for the young Indians that if you're not at your absolute best, there are enough opponents around who are good enough to take advantage.",
