@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The great world chess champion Emanuel Lasker famously pronounced that hypocrisy and lies do not last long on the chessboard. Sadly, they seem to be flourishing in other walks of life. Rachel Millward, deputy leader of the Green Party, has been widely criticised for opposing a new asylum shelter in Crowborough, East Sussex, near her []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/hypocrisy-fights-back/",
+         "pubDate" : "Sun, 07 Dec 2025 16:31:27",
+         "title" : "Hypocrisy fights back"
+      },
+      {
          "description" : "FIDE has announced the passing of Casto Abundo, Executive Director of the Asian Chess Federation, whose five decades of service left a lasting mark on the global chess community. A respected arbiter and organiser, he played key roles in major international events and helped strengthen the institutional framework for chess across Asia. His leadership, dedication and ability to unite federations are widely recognised, and his legacy will continue to guide future generations.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
