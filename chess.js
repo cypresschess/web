@@ -178,6 +178,14 @@ news_feed (
          "title" : "Abdusattorov Wins 2025 London Chess Classic, Praggnanandhaa Closes In On Candidates"
       },
       {
+         "description" : "<ul><li> Sarwagya Singh Kushwaha plays up to five hours a day </li><li> Indian boy beats adults to secure record-breaking status </li></ul> India's Sarwagya Singh Kushwaha has become the youngest player in chess history to earn an official Fide rating at the age of three years, seven months and 20 days. The chess prodigy edged out the previous record of compatriot Anish Sarkar, who was three years, eight months and 19 days when he reached the milestone in November last year. <a href=\"https://www.theguardian.com/sport/2025/dec/05/three-year-old-chess-prodigy-youngest-official-rating-sarwagya-singh-kushwaha\">Continue reading...</a>",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/dec/05/three-year-old-chess-prodigy-youngest-official-rating-sarwagya-singh-kushwaha",
+         "pubDate" : "Fri, 05 Dec 2025 01:26:21",
+         "title" : "Three-year-old chess prodigy becomes youngest player to earn official rating"
+      },
+      {
          "description" : "Editor's note: Since becoming Digital Editor for Chess Life Online, I have dreamt of publishing more regular wrap-ups of the sorts of events that are eligible for our Plan Ahead Calendar (as well as invitational tournaments).Do you want coverage of your tournament on Chess Life Online for future reporting or roundups?If so, email Click here to show email address with information of upcoming or recently concluded (i.e. within 1-2 weeks) events.For concluded tournaments, please include links to or screenshots of final standings, as well as links to DGT games or attached, transcribed game scores from 1-3 games of winners. Photos of the tournament and of winners are also a plus (cell phone photo",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
