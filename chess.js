@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana is unavailable to play for Baden-Baden due to his commitment at the Freestyle Chess Finals in South Africa, and the same applies to Germany's number one, Vincent Keymer. Baden-Baden thus left Caruana's board vacant and still managed to beat Deggendorf - even though Rustam Kasimdzhanov (Baden-Baden) also lost his game. The former serial champions are now only 2&frac12; board points behind the victorious Viernheim. After three rounds, they are the only two teams in the league not to have lost any match points. | Pictured: Matthias Bluebaum (Schachfreunde Deizisau) commentating his game | Photos: Hans-Joachim Vitz, Anna-Blume Giede, Jan Werner, Stefan Spiegel",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-2025-26-round-3",
+         "pubDate" : "Sun, 07 Dec 2025 02:30:00",
+         "title" : "Bundesliga: Baden-Baden win despite leaving top board vacant"
+      },
+      {
+         "description" : "All five games in the final round of the London Chess Classic ended drawn, leaving the standings unchanged following Nodirbek Abdusattorov's clear tournament victory with a round to spare. The Uzbek grandmaster finished with an outstanding 7&frac12;/9 and a 2932 performance rating, while Alireza Firouzja (pictured) secured second place despite missing a late winning chance against Nikolas Theodorou. Nikita Vitiugov completed the podium after a steady event that included two wins following an early setback. | Photo: John Saunders",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-9",
+         "pubDate" : "Sat, 06 Dec 2025 23:45:00",
+         "title" : "London Chess Classic: Five draws in round nine, Firouzja grabs second place"
+      },
+      {
+         "description" : "GM Hikaru Nakamura is now one title away from securing a landmark 50 Bullet Brawl wins after he won December&#39;s first arena while joking about his relative age to the rest of the field. Nakamura scored 53.5/63 for a total score of 180 and barely pu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-dec-6-2025",
+         "pubDate" : "Sat, 06 Dec 2025 18:29:00",
+         "title" : "Nakamura Proves His 'Old Hands' Are Still Quick Enough For Bullet Brawl"
+      },
+      {
          "description" : "On the rest day of the FIDE World Cup, on 20 November, I decided to interview GM Alojzije Jankovic. Every time I have met him, I have always been amazed by his warmth and infectious enthusiasm. A man who has worn many hats in the chess world, Jankovic carries the rare combination of passion, humility and purpose. A strong GM who once reached a 2593 rating, Jankovic is also a long-time television presenter in Croatia, Vice President of the European Chess Union, author, theoretician, trainer, commentator and researcher. Let's dive into his multi-faceted life.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -496,14 +520,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/nov/28/chess-sindarov-19-becomes-youngest-world-cup-winner-as-london-classic-begins",
          "pubDate" : "Fri, 28 Nov 2025 08:00:05",
          "title" : "Chess: Sindarov, 19, becomes youngest World Cup winner as London Classic begins"
-      },
-      {
-         "description" : "The 2025 FIDE World Cup is over, with a month of frenetic chess action whittling 206 players down to just one, GM Javokhir Sindarov. The 19-year-old star is both the youngest and lowest-seeded player ever to win the World Cup, earning him a hero&#39;s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sindarov-wins-9-conclusions-2025-fide-world-cup",
-         "pubDate" : "Fri, 28 Nov 2025 04:59:00",
-         "title" : "Sindarov Triumphs: 9 Conclusions From The 2025 FIDE World Cup"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125610689.cms\" />Uzbekistan's Javokhir Sindarov, a 19-year-old, became the youngest World Cup winner, securing a spot in the 2026 Candidates. India, hosting the event after 23 years, saw its 24 players fail to reach the top three qualifying spots. The article explores the knockout format's challenges, home advantage pressures, and the impact of chess engines on creativity.",
