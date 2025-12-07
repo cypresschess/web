@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has announced the passing of Casto Abundo, Executive Director of the Asian Chess Federation, whose five decades of service left a lasting mark on the global chess community. A respected arbiter and organiser, he played key roles in major international events and helped strengthen the institutional framework for chess across Asia. His leadership, dedication and ability to unite federations are widely recognised, and his legacy will continue to guide future generations.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/casto-abundo-1950-2025",
+         "pubDate" : "Sun, 07 Dec 2025 13:40:00",
+         "title" : "Casto Abundo (1950-2025)"
+      },
+      {
          "description" : "Fabiano Caruana is unavailable to play for Baden-Baden due to his commitment at the Freestyle Chess Finals in South Africa, and the same applies to Germany's number one, Vincent Keymer. Baden-Baden thus left Caruana's board vacant and still managed to beat Deggendorf - even though Rustam Kasimdzhanov (Baden-Baden) also lost his game. The former serial champions are now only 2&frac12; board points behind the victorious Viernheim. After three rounds, they are the only two teams in the league not to have lost any match points. | Pictured: Matthias Bluebaum (Schachfreunde Deizisau) commentating his game | Photos: Hans-Joachim Vitz, Anna-Blume Giede, Jan Werner, Stefan Spiegel",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
