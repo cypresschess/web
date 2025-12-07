@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2025-12-06","15","<a href=https://ratings.uschess.org/event/202512060393 target='_blank'>chesspanda12062025saturday</a>",
+"SUGAR LAND","2025-12-05","16","<a href=https://ratings.uschess.org/event/202512050403 target='_blank'>FBCC Levy Rozman Birthday Open</a>",
 "SPRING","2025-12-05","25","<a href=https://ratings.uschess.org/event/202512050333 target='_blank'>THE FRIDAY KNIGHTS(C:\\USERS\\J\\DOCUM</a>",
 "CYPRESS","2025-12-05","37","<a href=https://ratings.uschess.org/event/202512050273 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-11-30","15","<a href=https://ratings.uschess.org/event/202511300323 target='_blank'>Bellaire Sunday Swiss 2025.11.30</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2025-08-30","173","<a href=https://ratings.uschess.org/event/202508301742 target='_blank'>BACK TO SCHOOL SCHOLASTIC TOURNAMEN</a>",
 "HOUSTON","2025-08-30","12","<a href=https://ratings.uschess.org/event/202508301152 target='_blank'>CHESSPANDA08302025SATURDAY</a>",
 "HOUSTON","2025-08-30","72","<a href=https://ratings.uschess.org/event/202508301132 target='_blank'>TCR: CLUTCH CITY OPEN</a>",
-"HOUSTON","2025-08-30","67","<a href=https://ratings.uschess.org/event/202508300952 target='_blank'>TCR: CLUTCH CITY SCHOLASTIC</a>",
-"CYPRESS","2025-08-29","38","<a href=https://ratings.uschess.org/event/202508290712 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
