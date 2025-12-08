@@ -1,7 +1,8 @@
 jtable([
+"HOUSTON","2025-12-07","13","<a href=https://ratings.uschess.org/event/202512070363 target='_blank'>Bellaire Sunday Swiss 2025.12.07</a>",
 "HOUSTON","2025-12-06","15","<a href=https://ratings.uschess.org/event/202512060393 target='_blank'>chesspanda12062025saturday</a>",
 "SUGAR LAND","2025-12-05","16","<a href=https://ratings.uschess.org/event/202512050403 target='_blank'>FBCC Levy Rozman Birthday Open</a>",
-"SPRING","2025-12-05","25","<a href=https://ratings.uschess.org/event/202512050333 target='_blank'>THE FRIDAY KNIGHTS(C:\\USERS\\J\\DOCUM</a>",
+"SPRING","2025-12-05","25","<a href=https://ratings.uschess.org/event/202512050333 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-12-05","37","<a href=https://ratings.uschess.org/event/202512050273 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-11-30","15","<a href=https://ratings.uschess.org/event/202511300323 target='_blank'>Bellaire Sunday Swiss 2025.11.30</a>",
 "HOUSTON","2025-11-29","31","<a href=https://ratings.uschess.org/event/202511290243 target='_blank'>Lone Star Houston Fall Action</a>",
@@ -98,5 +99,4 @@ jtable([
 "HOUSTON","2025-08-31","14","<a href=https://ratings.uschess.org/event/202508311782 target='_blank'>BELLAIRE SUNDAY SWISS 8/31/2025</a>",
 "HOUSTON","2025-08-30","173","<a href=https://ratings.uschess.org/event/202508301742 target='_blank'>BACK TO SCHOOL SCHOLASTIC TOURNAMEN</a>",
 "HOUSTON","2025-08-30","12","<a href=https://ratings.uschess.org/event/202508301152 target='_blank'>CHESSPANDA08302025SATURDAY</a>",
-"HOUSTON","2025-08-30","72","<a href=https://ratings.uschess.org/event/202508301132 target='_blank'>TCR: CLUTCH CITY OPEN</a>",
 ]);
