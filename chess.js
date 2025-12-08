@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After four rounds of the President Cup in Tashkent, three players share the lead on 3/4: Nihal Sarin, Shamsiddin Vokhidov and Mukhiddin Madaminov. Their identical paths, combined with a striking trend of all decisive games favouring white, have given the event a notably symmetrical start. With Shant Sargsyan and Bardiya Daneshvar close behind and key pairings scheduled for round five, the tournament is entering an important early phase. | Photo: Uzbek Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/president-cup-2025-4",
+         "pubDate" : "Mon, 08 Dec 2025 08:20:00",
+         "title" : "President Cup: Nihal, Vokhidov and Madaminov share the lead"
+      },
+      {
          "description" : "The great world chess champion Emanuel Lasker famously pronounced that hypocrisy and lies do not last long on the chessboard. Sadly, they seem to be flourishing in other walks of life. Rachel Millward, deputy leader of the Green Party, has been widely criticised for opposing a new asylum shelter in Crowborough, East Sussex, near her []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -904,14 +912,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-september-october-2025/",
          "pubDate" : "Tue, 18 Nov 2025 10:39:24",
          "title" : "ECU E-Magazine September & October 2025"
-      },
-      {
-         "description" : "Please find the Under 12 &#38; Under 18 certificates . For any query please write back to indainchessfed@gmail.com UNDER 12 S.No Name Team Name 1",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-national-school-teamu-12-u-18-chess-championship-2025-in-shimla-from-12-14-oct-2025/",
-         "pubDate" : "Mon, 17 Nov 2025 08:19:11",
-         "title" : "Certificate of National School Team(U 12 & U 18) Chess Championship 2025 in Shimla from 12-14 Oct 2025"
       }
    ]
 }
