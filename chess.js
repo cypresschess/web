@@ -66,6 +66,14 @@ news_feed (
          "title" : "President Cup: Nihal, Vokhidov and Madaminov share the lead"
       },
       {
+         "description" : "Players from the USA delegation won gold medals in all three events of the North American Junior Chess Championship Under-20, held from Nov. 30 through Dec. 7 in Oaxtepec, Morelos, Mexico. Nine Americans made the trip, and 53 players total competed.FM Julian Colville won the Under-20 Open with a blistering 8&frac12;/9 performance, earning a GM norm per the direct title regulations. Colville's performance rating of 2629, including games against players from three federations, would have been good for a traditional GM norm, as well. FM Donald Johnson tied for second, winning the silver medal on tiebreaks with a with 6&frac12;/9, earning a direct IM norm. WFM Laurie Qiu won the gold medal in th",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/colville-qiu-earn-gold-norms-north-american-junior-championship",
+         "pubDate" : "Mon, 08 Dec 2025 00:00:00",
+         "title" : "Colville, Qiu Earn Gold, Norms at North American Junior Championship"
+      },
+      {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Silver Knights Chess Academy is a sponsor for this weekend's National K-12 Grade Championships in Spokane, WA. The online academy has taught thousands of students of all grade and rating levels, and its students include 11 state scholastic champions. In this article, journalist and Silver Knights coach Emily Maxwell shares the history of how the academy became what it is today and what it means to its students. Keep an eye out for their booth in the skittles room in Spokane to learn more about the academy, get free game analysis, and a free trial month of online academy lessons for all participants. Plus, join Adam Weissba",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/wei-yi-sindarov-javokhir-the-new-candidates/articleshow/125530030.cms",
          "pubDate" : "Mon, 24 Nov 2025 02:45:22",
          "title" : "Wei Yi, Sindarov Javokhir the new Candidates"
-      },
-      {
-         "description" : "The 9th Annual New York State Girls Championship was held November 15-16, hosted by Columbia Grammar and Preparatory School on the Upper West Side in Manhattan, and organized and presented by Chess Center of New York (Steve Immit) and Little House of Chess (Sophia Rohde). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Columbia Grammar and Preparatory School hosted 620 girls for the record-breaking event. (Photos courtesy of the organizers)<br> <br> <br> <br> A total of 620 girls competed across nine sections, setting not only a new record for the event, but also a record for a US Chess girls' tournament. This year, 73 teams competed in the event. <br>",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/9th-annual-new-york-state-girls-championship-breaks-attendance-records",
-         "pubDate" : "Mon, 24 Nov 2025 00:00:00",
-         "title" : "9th Annual New York State Girls Championship Breaks Attendance Records"
       },
       {
          "description" : "Ivan Sokolov's new course examines colour-reversed King's Indian and Pirc structures, showing how extra tempi influence typical plans and why these positions feel uncomfortable for humans but not for engines. He analyses key model games from Kramnik, Botvinnik, and Fischer, demonstrating that White usually gets a pleasant setup without a guaranteed advantage, leading to sharp, dynamic battles decided by understanding rather than theory. The course equips practical players, both with white and black, with clear ideas, typical patterns, and concrete plans for navigating these complex reversed-colour systems.",
