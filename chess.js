@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "On behalf of All India Chess Federation , Maharashtra Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Venue: Vallaba Vidyalaya CBSE School, Alagar Kovil Main",
+         "description" : " The Freestyle Chess Grand Slam Finals take place Mon 8th Dec to Thu 11th Dec 2025. The venue is the Grootbos Private Nature Reserve two hours drive from Cape Town. The event is a fast rapid time control of 10 minutes + 5 seconds a move. Players: Magnus Carlsen, Fabiano Caruana, Vincent Keymer, Arjun Erigaisi, Levon Aronian, Hans Niemann, Parham Maghsoodloo and Javokhir Sindarov. I can make the games available for download but can't display them.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/freestyle-chess-grand-slam-finals-2025",
+         "pubDate" : "Mon, 8 Dec 2025 14:53:00",
+         "title" : "Freestyle Chess Grand Slam Finals 2025 - Games and Results"
+      },
+      {
+         "description" : " The 15th XTX Markets London Chess Classic took place Wed 26th Nov to Sun 7th Dec 2025. Players: Alireza Firouzja, Luke Mcshane, Michael Adams, Nikolas Theodorou, Sam Shankland, Nodirbek Abdusattorov, Pavel Eljanov, Nikita Vitiugov, Abhimanyu Mishra and Gawain Maroroa Jones. Nodirbek Abdusattorov dominated the event scoring 7.5/9 and finished two points clear of Alireza Firouzja. The open saw Praggnanandhaa, Vladimir Ivic and Ameet Ghasi tie on 7/9. The Super Rapid was won by Nikolas Theodorou on 9/10 with Alireza Firouza half a point behind on 8.5 points.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/15th-xtx-markets-london-chess-classic-2025",
+         "pubDate" : "Mon, 8 Dec 2025 14:36:00",
+         "title" : "15th XTX Markets London Chess Classic 2025 - Games and Results"
+      },
+      {
+         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/15th-xtx-markets-london-chess-classic-2025\">15th XTX Markets London Chess Classic</a> concluded with the Super Rapidplay over the final weekend. All of the players who featured in the Elite tournament also played the rapid and most of them were in the final shakeup. Nikolas Theodorou emerged as a clear winner with a fantastic 9/10 score, run to the title was: win against Luke McShane, win against Leinier Dominguez, draw against Alireza Firouzja and then win against Nodirbek Abdusattorov in Round 10. Theodorou was born in Athens in 2000 and is 25 years old. He is Greece's top player and is at a career high right now having passed 2650 ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/nikolas-theodorou-wins-the-london-super-rapid",
+         "pubDate" : "Mon, 8 Dec 2025 14:28:00",
+         "title" : "Nikolas Theodorou wins the London Super Rapid - Rapid"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125835024.cms\" />Indian chess prodigy R Praggnanandhaa has earned a coveted spot in the Candidates 2026 tournament by triumphing in the FIDE Circuit 2025. His stellar year, marked by victories in major events, secures his sole male representation for India. Seven participants are confirmed, with one remaining spot to be decided by rating.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-r-praggnanandhaa-creates-history-becomes-first-indian-to-qualify-for-candidates-2026/articleshow/125835024.cms",
+         "pubDate" : "Mon, 08 Dec 2025 13:07:57",
+         "title" : "Praggnanandhaa becomes first Indian to qualify for Candidates 2026"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation , Tamil Nadu State Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Venue: Vallaba Vidyalaya CBSE School, Alagar",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/sna-seminar-and-exam-in-madurai-tamil-nadu-on-27-28-december-2025/",
@@ -15,7 +47,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/mango-paneer-and-not-just-chess-on-russian-gm-volodar-murzins-mind-as-india-hosts-gcl-for-first-time-exclusive/articleshow/125833315.cms",
          "pubDate" : "Mon, 08 Dec 2025 11:42:11",
-         "title" : "Exclusive | 'Mango, Paneer, and ...': Not just chess on Russian GM's mind as GCL makes India debut"
+         "title" : "Exclusive | 'Mango, Paneer, &amp; ...': Not just chess on Russian GM's mind as GCL makes India debut"
       },
       {
          "description" : "Grandmaster Dorian Rogozenco highlights how ChessBase 26's Opening Report quickly reveals statistical trends and practical insights for specific opening lines, demonstrating it with a rare surprise weapon for Black in the French Advance, with the moves f6 and also f5, and showing that Black's results, especially at lower levels, look promising enough to merit investigation. He emphasizes that the tool not only shows performance data and history, but also warns which sidelines you must know, making it a powerful way to get a fast, informed first impression before more in-depth analysis.",
@@ -32,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/president-cup-2025-4",
          "pubDate" : "Mon, 08 Dec 2025 08:20:00",
          "title" : "President Cup: Nihal, Vokhidov and Madaminov share the lead"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Silver Knights Chess Academy is a sponsor for this weekend's National K-12 Grade Championships in Spokane, WA. The online academy has taught thousands of students of all grade and rating levels, and its students include 11 state scholastic champions. In this article, journalist and Silver Knights coach Emily Maxwell shares the history of how the academy became what it is today and what it means to its students. Keep an eye out for their booth in the skittles room in Spokane to learn more about the academy, get free game analysis, and a free trial month of online academy lessons for all participants. Plus, join Adam Weissba",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/silver-knights-chess-academy-creating-champions-through-online-clubs",
+         "pubDate" : "Mon, 08 Dec 2025 00:00:00",
+         "title" : "Silver Knights Chess Academy: Creating Champions Through Online Clubs"
       },
       {
          "description" : "The great world chess champion Emanuel Lasker famously pronounced that hypocrisy and lies do not last long on the chessboard. Sadly, they seem to be flourishing in other walks of life. Rachel Millward, deputy leader of the Green Party, has been widely criticised for opposing a new asylum shelter in Crowborough, East Sussex, near her []",
@@ -182,7 +222,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/3-year-old-breaks-record-as-youngest-ever-rated-player",
-         "pubDate" : "Fri, 05 Dec 2025 08:35:16",
+         "pubDate" : "Fri, 05 Dec 2025 08:35:00",
          "title" : "3-Year-Old Sarwagya Achieves Official 1572 FIDE Rating"
       },
       {
@@ -270,8 +310,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/jaguar-teams-up-with-anna-cramling-campaign",
-         "pubDate" : "Thu, 04 Dec 2025 12:16:23",
-         "title" : "Jaguar Teams Up With Anna Cramling For New Campaign"
+         "pubDate" : "Thu, 04 Dec 2025 12:16:00",
+         "title" : "Jaguar TCS Racing Teams Up With Anna Cramling For New Campaign"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125760568.cms\" />Young Grandmaster Arjun Erigaisi triumphed at the Jerusalem Masters, defeating legendary Viswanathan Anand in a thrilling all-Indian final. After drawing the rapid games, Erigaisi secured the title by winning the first blitz tie-break. He expressed relief at overcoming challenges and playing well in the crucial blitz encounters, ultimately pocketing a significant prize.",
@@ -642,14 +682,6 @@ news_feed (
          "title" : "Sindarov wins 2025 FIDE World Cup"
       },
       {
-         "description" : " The 15th XTX Markets London Chess Classic takes place Wed 26th Nov to Sun 7th Dec 2025. Players: Alireza Firouzja, Luke Mcshane, Michael Adams, Nikolas Theodorou, Sam Shankland, Nodirbek Abdusattorov, Pavel Eljanov, Nikita Vitiugov, Abhimanyu Mishra and Gawain Maroroa Jones. There's an open alongside with Praggnanandhaa as top seed. Strong Rapid and Blitz rounds out the event.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/15th-xtx-markets-london-chess-classic-2025",
-         "pubDate" : "Tue, 25 Nov 2025 16:54:00",
-         "title" : "15th XTX Markets London Chess Classic 2025 - Games and Results"
-      },
-      {
          "description" : "The European Amateur Chess Championships 2025 is set to take place from 25 November to 5 December in Mellieha, Malta. The event is played in three age categories: U2300, U2000, and U1700, and each Championship will be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for each move starting from move one. The event is played at the Conference Hall []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -704,14 +736,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/9th-annual-new-york-state-girls-championship-breaks-attendance-records",
          "pubDate" : "Mon, 24 Nov 2025 00:00:00",
          "title" : "9th Annual New York State Girls Championship Breaks Attendance Records"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy FIDE/Raul Martinez<br> <br> <br> <br> The FIDE team (Russia) won the 2025 FIDE World Women's Team Championship, winning both matches over an underdog Azerbaijan team - which finished fourth in Group A during the Pool Stage - in the finals. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> From left, the Russian, Azerbaijani, and Chinese teams. (Photos courtesy FIDE/Raul Martinez (L) and FIDE/Pavel Dvorkovich)<br> <br> China won both matches over Kazakhstan to cla",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/russia-wins-fide-world-womens-team-championship-china-eliminates-usa-quarterfinals",
-         "pubDate" : "Mon, 24 Nov 2025 00:00:00",
-         "title" : "Russia Wins FIDE World Women's Team Championship, China Eliminates USA in Quarterfinals"
       },
       {
          "description" : "Ivan Sokolov's new course examines colour-reversed King's Indian and Pirc structures, showing how extra tempi influence typical plans and why these positions feel uncomfortable for humans but not for engines. He analyses key model games from Kramnik, Botvinnik, and Fischer, demonstrating that White usually gets a pleasant setup without a guaranteed advantage, leading to sharp, dynamic battles decided by understanding rather than theory. The course equips practical players, both with white and black, with clear ideas, typical patterns, and concrete plans for navigating these complex reversed-colour systems.",
@@ -888,14 +912,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-sna-seminar-held-in-andheri-on-01-02-nov-2025/",
          "pubDate" : "Thu, 20 Nov 2025 09:34:40",
          "title" : "Certificate :SNA Seminar Held in Andheri on 01 & 02 Nov 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125454536.cms\" />India's top player Arjun Erigaisi faced a heartbreaking defeat in the FIDE World Cup 2025 tie-break against China's Wei Yi, ending his dream of a Candidates 2026 berth. Wei Yi, a rising star, now carries China's hopes for a maiden World Cup title. India's Candidates qualification now hinges on R Praggnanandhaa.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-2025-meet-chinas-no-1-wei-yi-slayer-of-indias-last-hope-arjun-erigaisi/articleshow/125454536.cms",
-         "pubDate" : "Thu, 20 Nov 2025 05:57:12",
-         "title" : "Chess WC: Meet China's No. 1 Wei Yi - Slayer of India's last hope, Arjun Erigaisi"
       },
       {
          "description" : "2025 was a reminder for the young Indians that if you're not at your absolute best, there are enough opponents around who are good enough to take advantage.",
