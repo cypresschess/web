@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On behalf of All India Chess Federation , Maharashtra Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Venue: Vallaba Vidyalaya CBSE School, Alagar Kovil Main",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-and-exam-in-madurai-tamil-nadu-on-27-28-december-2025/",
+         "pubDate" : "Mon, 08 Dec 2025 12:03:20",
+         "title" : "SNA seminar and Exam in Madurai ,Tamil Nadu on 27 & 28 December 2025"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125833315.cms\" />Russian Grandmaster Volodar Murzin, the 2024 FIDE Rapid champion, is set to compete in the Global Chess League in Mumbai. He expressed his fondness for Indian cuisine, particularly mangoes, paneer, and sugarcane juice. Murzin also shared his confidence boost after winning the World Rapid title and his ambition to improve his classical chess game.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/mango-paneer-and-not-just-chess-on-russian-gm-volodar-murzins-mind-as-india-hosts-gcl-for-first-time-exclusive/articleshow/125833315.cms",
+         "pubDate" : "Mon, 08 Dec 2025 11:42:11",
+         "title" : "Exclusive | 'Mango, Paneer, and ...': Not just chess on Russian GM's mind as GCL makes India debut"
+      },
+      {
+         "description" : "Grandmaster Dorian Rogozenco highlights how ChessBase 26's Opening Report quickly reveals statistical trends and practical insights for specific opening lines, demonstrating it with a rare surprise weapon for Black in the French Advance, with the moves f6 and also f5, and showing that Black's results, especially at lower levels, look promising enough to merit investigation. He emphasizes that the tool not only shows performance data and history, but also warns which sidelines you must know, making it a powerful way to get a fast, informed first impression before more in-depth analysis.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dorian-rogozenco-how-a-gm-uses-the-new-chessbase-26-opening-report",
+         "pubDate" : "Mon, 08 Dec 2025 09:35:54",
+         "title" : "Dorian Rogozenco: How a GM uses the new ChessBase 26 opening report"
+      },
+      {
          "description" : "After four rounds of the President Cup in Tashkent, three players share the lead on 3/4: Nihal Sarin, Shamsiddin Vokhidov and Mukhiddin Madaminov. Their identical paths, combined with a striking trend of all decisive games favouring white, have given the event a notably symmetrical start. With Shant Sargsyan and Bardiya Daneshvar close behind and key pairings scheduled for round five, the tournament is entering an important early phase. | Photo: Uzbek Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -864,14 +888,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-sna-seminar-held-in-andheri-on-01-02-nov-2025/",
          "pubDate" : "Thu, 20 Nov 2025 09:34:40",
          "title" : "Certificate :SNA Seminar Held in Andheri on 01 & 02 Nov 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125455277.cms\" />Arjun Erigaisi, hailed as India's rising chess phenom, suffered a disappointing quarterfinal defeat at the Chess World Cup, halting his quest for a spot in the World Championship. After a gripping battle marked by strategic defenses, he fell to Wei Yi from China in a pressure-filled tiebreak.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-arjun-erigaisis-candidates-bid-over/articleshow/125455277.cms",
-         "pubDate" : "Thu, 20 Nov 2025 06:31:16",
-         "title" : "Chess World Cup: Arjun Erigaisi's Candidates bid over"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125454536.cms\" />India's top player Arjun Erigaisi faced a heartbreaking defeat in the FIDE World Cup 2025 tie-break against China's Wei Yi, ending his dream of a Candidates 2026 berth. Wei Yi, a rising star, now carries China's hopes for a maiden World Cup title. India's Candidates qualification now hinges on R Praggnanandhaa.",
