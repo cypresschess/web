@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Now that we have examined all the individual trees in this game between Viktor Kortschnoj and Anatoly Karpov from 1978, what is our view of the forest? Move after move, Kortschnoj made optimal choices, never lessening the tension. Most decisive endings are won after a gross blunder, but it took 46 years to find where Black finally stumbled. As GM Alex Fishbein noted, Kortschnoj \"made many nonstandard decisions, made no mistakes and played brilliantly - one of the best endings ever played.\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/answers-korchnoi-karpov-1978",
+         "pubDate" : "Tue, 09 Dec 2025 08:41:01",
+         "title" : "Answers: Korchnoi-Karpov 1978"
+      },
+      {
          "description" : "The opening stage of the Freestyle Chess Grand Slam Finals in South Africa consisted of a single round-robin tournament with a 10+5 time control. Although no players were eliminated, the results were of clear importance: they decide the quarterfinal pairings. Javokhir Sindarov, fresh from his victory at the FIDE World Cup, was the top scorer, as he obtained 5&frac12;/7 points, with wins over Magnus Carlsen, Parham Maghsoodloo, Fabiano Caruana and Hans Niemann. The Uzbek star achieved this feat on his 20th birthday. | Photo: Freestyle Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
