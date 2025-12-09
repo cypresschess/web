@@ -1,5 +1,6 @@
 jtable([
 "HOUSTON","2025-12-07","13","<a href=https://ratings.uschess.org/event/202512070363 target='_blank'>Bellaire Sunday Swiss 2025.12.07</a>",
+"HOUSTON","2025-12-07","30","<a href=https://ratings.uschess.org/event/202512070243 target='_blank'>$1,500 DECEMBER CHAMPIONSHIP</a>",
 "HOUSTON","2025-12-06","15","<a href=https://ratings.uschess.org/event/202512060393 target='_blank'>chesspanda12062025saturday</a>",
 "SUGAR LAND","2025-12-05","16","<a href=https://ratings.uschess.org/event/202512050403 target='_blank'>FBCC Levy Rozman Birthday Open</a>",
 "SPRING","2025-12-05","25","<a href=https://ratings.uschess.org/event/202512050333 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -98,5 +99,4 @@ jtable([
 "HOUSTON","2025-09-01","23","<a href=https://ratings.uschess.org/event/202509013092 target='_blank'>2025 LABOR DAY BY AZCHACAD</a>",
 "HOUSTON","2025-08-31","14","<a href=https://ratings.uschess.org/event/202508311782 target='_blank'>BELLAIRE SUNDAY SWISS 8/31/2025</a>",
 "HOUSTON","2025-08-30","173","<a href=https://ratings.uschess.org/event/202508301742 target='_blank'>BACK TO SCHOOL SCHOLASTIC TOURNAMEN</a>",
-"HOUSTON","2025-08-30","12","<a href=https://ratings.uschess.org/event/202508301152 target='_blank'>CHESSPANDA08302025SATURDAY</a>",
 ]);
