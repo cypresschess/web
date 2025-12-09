@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Diego Flores claimed his eighth national title at the 2025 Argentine Championship, matching Miguel Najdorf's long-standing record in the event's centenary edition. The 12-player round-robin, held at Buenos Aires City Hall, saw Flores finish unbeaten with 8&frac12;/11, securing victory after a final-round draw against Federico P&eacute;rez Ponsa. Strong performances by Diego Valerga, Leonardo Trist&aacute;n and 12-year-old IM Faustino Oro added further significance to this historic edition. | Photo: Argentine Chess Federation (FADA)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/argentine-championship-2025-final-report",
+         "pubDate" : "Tue, 09 Dec 2025 19:30:00",
+         "title" : "Diego Flores wins Argentine Championship for an eighth time, equals Miguel Najdorf's record"
+      },
+      {
+         "description" : " The 11th Vugar Gashimov Memorial takes place in Stepanakert Tue 9th Dec to Thu 11th Dec 2025. Two days of rapid and one day of blitz. Players: Nepomniachtchi, Fedoseev, Mamedov, Tabatabaei, Yakubboev and Suleymanli.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/11th-vugar-gashimov-memorial-2025",
+         "pubDate" : "Tue, 9 Dec 2025 18:52:00",
+         "title" : "11th Vugar Gashimov Memorial 2025 - Games and Results"
+      },
+      {
+         "description" : " The Magistral Szmetan-Giardelli is a very interesting Round Robin held in Buenos Aire 8th to 16th December 2025. Players: Aryan Tari, Ivan Cheparinov, Julio, Granda Zuniga, Alexei Shirov, Diego Flores, Sandro Mareco, Faustino Oro, Ilan Schnaider, Sergio Slipak and Tomas, Darcyl. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/magistral-szmetan-giardelli-2025",
+         "pubDate" : "Tue, 9 Dec 2025 18:48:00",
+         "title" : "Magistral Szmetan-Giardelli 2025 - Games and Results"
+      },
+      {
+         "description" : "The King's Indian Defence has been one of the most dynamic and popular responses to 1.d4 for decades. Legends such as Garry Kasparov, Bobby Fischer, and Hikaru Nakamura have employed it at the highest level - and it continues to fascinate today, as it offers Black not only solidity but also rich attacking and counterattacking opportunities. Its special advantage: the King's Indian is a universal system, equally effective against 1.d4, 1.c4, and 1.Nf3. Grandmaster Felix Blohberger, multiple Austrian Champion and experienced second, presents a complete two-part repertoire for Black. His approach: practical, clear, and flexible - instead of endless theory, you'll get straightforward concepts an",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/felix-blohberger-king-s-indian-a-complete-repertoire-for-black-part-1-2",
+         "pubDate" : "Tue, 09 Dec 2025 18:26:23",
+         "title" : "Felix Blohberger: King's Indian - A Complete Repertoire for Black Part 1 & 2"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125873635.cms\" />Magnus Carlsen has secured the 2025 Freestyle Chess Grand Slam Tour title, earning a $100,000 bonus after reaching the semifinals in Cape Town. Despite an early setback, Carlsen fought back to clinch the championship. He will face Sindarov in the semifinals, while Keymer plays Aronian for a spot in the finals.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-wins-2025-freestyle-chess-grand-slam-tour-championship-secures-bonus-prize-for-early-title/articleshow/125873635.cms",
+         "pubDate" : "Tue, 09 Dec 2025 16:36:29",
+         "title" : "Carlsen secures bonus after early Freestyle Chess GS Tour championship"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125872931.cms\" />Indian chess prodigy R Praggnanandhaa has secured a spot in the 2026 Candidates Tournament by winning the FIDE Circuit 2025. Despite a mixed year, his consistent performance earned him this significant qualification. He expressed happiness and gratitude to his team and fans, now focusing on preparing for the prestigious event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-finals-live",
          "pubDate" : "Tue, 09 Dec 2025 11:30:00",
          "title" : "Freestyle Chess South Africa - Live!"
+      },
+      {
+         "description" : "GM Magnus Carlsen lost the first game against GM Fabiano Caruana in the 2025 Freestyle Chess Grand Slam Finals, but then won on demand with Black to force tiebreaks. There, he won both blitz games and already clinched the 2025 Freestyle Chess Gran...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-south-africa-qf",
+         "pubDate" : "Tue, 09 Dec 2025 11:17:32",
+         "title" : "Carlsen Clinches Tour With 2 Days To Spare, After Clutch Comeback"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125867864.cms\" />Indian Grandmaster Arjun Erigaisi triumphed over Magnus Carlsen in the Freestyle Chess Grand Slam Finals. While Javokhir Sindarov leads the standings, Erigaisi secured third place, earning a knockout stage match against Vincent Keymer. The finals, the fifth event in the year-long tour, will determine the 2025 Freestyle Chess Champion, with Carlsen aiming to clinch the overall tour victory.",
@@ -146,7 +194,7 @@ news_feed (
          "title" : "President Cup: Nihal, Vokhidov and Madaminov share the lead"
       },
       {
-         "description" : "Players from the USA delegation won gold medals in all three events of the North American Junior Chess Championship Under-20, held from Nov. 30 through Dec. 7 in Oaxtepec, Morelos, Mexico. Nine Americans made the trip, and 53 players total competed.FM Julian Colville won the Under-20 Open with a blistering 8&frac12;/9 performance, earning a GM norm per the direct title regulations. Colville's performance rating of 2629, including games against players from three federations, would have been good for a traditional GM norm, as well. FM Donald Johnson tied for second, winning the silver medal on tiebreaks with a with 6&frac12;/9, earning a direct IM norm. WFM Laurie Qiu won the gold medal in th",
+         "description" : "Players from the USA delegation won gold medals in all three events of the North American Junior Chess Championship Under-20, held from Nov. 30 through Dec. 7 in Oaxtepec, Morelos, Mexico. Nine Americans made the trip, and 53 players total competed.FM Julian Colville won the Under-20 Open with a blistering 8&frac12;/9 performance, earning (update: the direct IM title and) a GM norm per the direct title regulations. Colville's performance rating of 2629, including games against players from three federations, would have been good for a traditional GM norm, as well. FM Donald Johnson tied for second, winning the silver medal on tiebreaks with a with 6&frac12;/9, earning a direct IM norm. WFM L",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/colville-qiu-earn-gold-norms-north-american-junior-championship",
@@ -618,14 +666,6 @@ news_feed (
          "title" : "Wins For Abdusattorov, Firouzja, McShane In London's 4th Round"
       },
       {
-         "description" : "GM Ediz Gurel capped off a tremendous November in the Bullet Brawl arena by picking up his third $400 win of the month on Saturday. Gurel won 49 games, drew three, and lost 13, amassing a winning score of 167 points in the process. GMs Hikaru Na...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-nov-29-2025",
-         "pubDate" : "Sat, 29 Nov 2025 18:27:00",
-         "title" : "Gurel Joins Elite Winners' Club After 3rd Win Of The Month"
-      },
-      {
          "description" : "Hey everyone, I hope those of you celebrating had a lovely Thanksgiving. Before we get into today's newsletter, a quick announcement: Both my Courses are 25% off until Tuesday 3 PM CET. As always, you have a 14-day money back guarantee, so you can get them now at a reduced price without any risk. Simplified []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -898,14 +938,6 @@ news_feed (
          "title" : "World Cup SF: Two draws, no lack of tension"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125491290.cms\" />In the FIDE World Cup semifinals, top seed Wei Yi drew his first game against Andrey Esipenko, while the match between Uzbek players Nodirbek Yakubboev and Javokhir Sindarov also ended in a draw. Despite fewer spectators after Indian players' elimination, the remaining competitors maintained their spirit. The second games are scheduled for Saturday, with tiebreaks to follow if needed.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-both-semi-final-games-end-in-draw-indian-exits-leave-minimal-interest-among-locals/articleshow/125491290.cms",
-         "pubDate" : "Fri, 21 Nov 2025 17:22:52",
-         "title" : "Chess WC: Both semi-final games end in draw"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125489157.cms\" />The FIDE World Cup 2025 in Goa is nearing its end. Indian Grandmaster Vidit Gujrathi has spoken out against criticism of the tournament's conditions. He highlights Goa's beauty and excellent hospitality. Gujrathi also discusses his friendship with Anish Giri and his own journey with burnout. He will next play in the Global Chess League 2025.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -960,14 +992,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/47022191/india-stumble-fide-chess-world-cup-2025-goa",
          "pubDate" : "Wed, 19 Nov 2025 09:56:25",
          "title" : "24 to 0: Indians stumble at home Chess World Cup"
-      },
-      {
-         "description" : " The Tata Steel Chess tournament takes place in Wijk aan Zee 16th Jan - 1st Feb 2026. The fields for both the Masters and Challengers have been set and they reflect the state of professional chess today. The Masters group has an average age of just 23. Exciting players like Vincent Keymer, Arjun Erigaisi, Nodirbek Abdusattorov and Hans Niemann should light up the competition. World Champion Gukesh might be struggling at the moment but you'd want him in your tournament, especially as he only just missed out last year following a tie-break match with the eventual winner Rameshbabu Praggnanandhaa. Dutch number one Anish Giri is the oldest player in the field at 32, he has enjoyed one of his bes",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/tata-steel-chess-tournament-all-set-for-its-2026-edition-after-announcing-the-players",
-         "pubDate" : "Tue, 18 Nov 2025 18:32:00",
-         "title" : "Tata Steel Chess tournament all set for its 2026 edition after announcing the players - "
       }
    ]
 }
