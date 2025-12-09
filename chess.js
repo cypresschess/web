@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125872931.cms\" />Indian chess prodigy R Praggnanandhaa has secured a spot in the 2026 Candidates Tournament by winning the FIDE Circuit 2025. Despite a mixed year, his consistent performance earned him this significant qualification. He expressed happiness and gratitude to his team and fans, now focusing on preparing for the prestigious event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-its-now-time-to-r-praggnanandhaa-opens-up-after-becoming-first-indian-to-qualify-for-candidates-2026/articleshow/125872931.cms",
+         "pubDate" : "Tue, 09 Dec 2025 15:37:38",
+         "title" : "'It's now time to ...': Pragg after becoming first Indian to enter Candidates"
+      },
+      {
          "description" : "After the round-robin stage, in which none of the eight participants in the Grand Slam Finals could be eliminated, the Freestyle Finals in South Africa now move into the quarterfinals - where things get serious. Anyone who wants to win the tournament must first win their quarterfinal match. Each mini-match consists of two games with a 30+15 time control. Javokhir Sindarov, the winner of the round-robin, will face Parham Maghsoodloo, Magnus Carlsen plays Fabiano Caruana, and Levon Aronian takes on Hans Niemann. Vincent Keymer will need to overcome Arjun Erigaisi. Follow the games live with commentary. | The matches start at 12.00 CET (6.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/erdogmus-beats-vachier-lagrave-world-top-50",
          "pubDate" : "Tue, 09 Dec 2025 00:56:00",
          "title" : "Erdogmus Beats Vachier-Lagrave, Smashes Carlsen's Record As Youngest In Top 50"
+      },
+      {
+         "description" : "Today's puzzles come from the just-concluded U.S. Masters, organized and run by Charlotte Chess Center. Check out our Thanksgiving Weekend Wrap-Up featuring results from Charlotte and many other tournaments, and check out another batch of puzzles from this event in last week's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-us-masters-pt-2",
+         "pubDate" : "Tue, 09 Dec 2025 00:00:00",
+         "title" : "Tactics Tuesday: U.S. Masters, Pt. 2"
       },
       {
          "description" : "The opening stage of the Freestyle Chess Grand Slam Finals in South Africa consisted of a single round-robin tournament with a 10+5 time control. Although no players were eliminated, the results were of clear importance: they decide the quarterfinal pairings. Javokhir Sindarov, fresh from his victory at the FIDE World Cup, was the top scorer, as he obtained 5&frac12;/7 points, with wins over Magnus Carlsen, Parham Maghsoodloo, Fabiano Caruana and Hans Niemann. The Uzbek star achieved this feat on his 20th birthday. | Photo: Freestyle Chess / Lennart Ootes",
@@ -746,14 +762,6 @@ news_feed (
          "title" : "European Amateur Chess Championship 2025 starts in Malta"
       },
       {
-         "description" : "This week's puzzles come from the 2025 FIDE Women's World Team Championship. See our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-womens-world-team-championship",
-         "pubDate" : "Tue, 25 Nov 2025 00:00:00",
-         "title" : "Tactics Tuesday: FIDE Women's World Team Championship"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125544293.cms\" />Wei Yi drew his first FIDE World Cup final game against Javokhir Sindarov. Wei Yi played with black pieces and secured a draw. Andrey Esipenko won the third-place match against Nodirbek Yakubboev. Esipenko's victory puts him in a strong position for the Candidates tournament. The FIDE World Cup 2025 final continues.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -928,14 +936,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-d3",
          "pubDate" : "Fri, 21 Nov 2025 05:50:00",
          "title" : "Linares: China v. USA among quarterfinal pairings"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125478114.cms\" />Uzbekistan has secured two semifinal spots in the World Cup with Nodirbek Yakubboev and Javokhir Sindarov advancing, outperforming the host nation India. The Uzbek duo, both Olympiad gold medalists, will face each other, guaranteeing at least a silver medal for their country. This success echoes their coach Rustam Kasimdzhaov's 2002 World Cup finalist achievement.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-two-uzbeks-steal-a-march-over-indians/articleshow/125478114.cms",
-         "pubDate" : "Fri, 21 Nov 2025 05:29:33",
-         "title" : "Chess World Cup: Two Uzbeks steal a march over Indians"
       },
       {
          "description" : " Brewington Hardaway stands majestically on the cover of the current Chess Life magazine in a vintage black and white photo. Aptly written by Grandmaster Maurice Ashley, the story titled &#8220;A Long Time Coming&#8221; is in reference to his long pursuit of the GM title, but also the 25-year gap it has taken another Black player The post <a href=\"https://thechessdrum.net/blog/2025/11/20/hardaway-gracing-the-cover-of-chess-life/\">Hardaway gracing the cover of Chess Life!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
