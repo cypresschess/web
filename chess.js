@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The opening stage of the Freestyle Chess Grand Slam Finals in South Africa consisted of a single round-robin tournament with a 10+5 time control. Although no players were eliminated, the results were of clear importance: they decide the quarterfinal pairings. Javokhir Sindarov, fresh from his victory at the FIDE World Cup, was the top scorer, as he obtained 5&frac12;/7 points, with wins over Magnus Carlsen, Parham Maghsoodloo, Fabiano Caruana and Hans Niemann. The Uzbek star achieved this feat on his 20th birthday. | Photo: Freestyle Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-finals-d1",
+         "pubDate" : "Mon, 08 Dec 2025 23:20:00",
+         "title" : "Freestyle Chess South Africa: Sindarov wins round-robin ahead of Aronian"
+      },
+      {
+         "description" : "In recent days, an unusual face has been circulating on sports pages and social media: Sarwagya Singh Kushwaha, a boy from the Sagar district in Madhya Pradesh, India, has been registered as a FIDE-rated chess player at just three years, seven months and 13 days old - making him the youngest player in history to obtain an official FIDE rating. His FIDE entry shows a rapid rating of 1572; his FIDE ID is 558059504. | Photo: ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prodigy-or-hype-a-three-year-old-with-a-fide-rating",
+         "pubDate" : "Mon, 08 Dec 2025 22:20:01",
+         "title" : "Prodigy or hype? A three-year-old with a FIDE rating"
+      },
+      {
          "description" : " The Freestyle Chess Grand Slam Finals take place Mon 8th Dec to Thu 11th Dec 2025. The venue is the Grootbos Private Nature Reserve two hours drive from Cape Town. The event is a fast rapid time control of 10 minutes + 5 seconds a move. Players: Magnus Carlsen, Fabiano Caruana, Vincent Keymer, Arjun Erigaisi, Levon Aronian, Hans Niemann, Parham Maghsoodloo and Javokhir Sindarov. I can make the games available for download but can't display them.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-r-praggnanandhaa-creates-history-becomes-first-indian-to-qualify-for-candidates-2026/articleshow/125835024.cms",
          "pubDate" : "Mon, 08 Dec 2025 13:07:57",
          "title" : "Praggnanandhaa becomes first Indian to qualify for Candidates 2026"
+      },
+      {
+         "description" : "On his 20th birthday, GM Javokhir Sindarov finished at the top of the Group Stage with 5.5/7 in the Freestyle Chess Grand Slam Finals in South Africa. In round one, he won the Game of the Day against GM Magnus Carlsen. In second and third were GMs...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-south-africa-group-stage",
+         "pubDate" : "Mon, 08 Dec 2025 13:06:00",
+         "title" : "Birthday Boy Sindarov Shines Brightest On Day 1"
       },
       {
          "description" : "On behalf of All India Chess Federation , Tamil Nadu State Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Venue: Vallaba Vidyalaya CBSE School, Alagar",
@@ -576,14 +600,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2025-commenced/",
          "pubDate" : "Sat, 29 Nov 2025 00:32:37",
          "title" : "European Rapid and Blitz Chess Championship 2025 commenced"
-      },
-      {
-         "description" : "GM Arjun Erigaisi joined the five-time Freestyle Friday winner&#39;s club after clinching November&#39;s final event with a score of 10/11. GM Hans Niemann, who was the only player to topple Arjun, went undefeated; however, three draws relegated him to se...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-freestyle-friday-nov-28-2025",
-         "pubDate" : "Fri, 28 Nov 2025 15:02:00",
-         "title" : "Arjun Edges Out Niemann To Claim 5th Title"
       },
       {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/15th-xtx-markets-london-chess-classic-2025\">London Chess Classic</a> has three leaders after the first two rounds of the tournament. The first round was reasonably quiet with five draws, Alireza Firouzja had decent winning chances against Sam Shankland and Michael Adams looked to be a little better against Luke McShane. The second round saw three decisive games and there could have been a fourth. Alireza Firouzja, Nikolas Theodorou, and Nodirbek Abdusattorov share the lead with 1.5/2 after scoring wins in Round 2. ",
