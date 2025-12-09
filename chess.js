@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After the round-robin stage, in which none of the eight participants in the Grand Slam Finals could be eliminated, the Freestyle Finals in South Africa now move into the quarterfinals - where things get serious. Anyone who wants to win the tournament must first win their quarterfinal match. Each mini-match consists of two games with a 30+15 time control. Javokhir Sindarov, the winner of the round-robin, will face Parham Maghsoodloo, Magnus Carlsen plays Fabiano Caruana, and Levon Aronian takes on Hans Niemann. Vincent Keymer will need to overcome Arjun Erigaisi. Follow the games live with commentary. | The matches start at 12.00 CET (6.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-finals-live",
+         "pubDate" : "Tue, 09 Dec 2025 11:30:00",
+         "title" : "Freestyle Chess South Africa - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125867864.cms\" />Indian Grandmaster Arjun Erigaisi triumphed over Magnus Carlsen in the Freestyle Chess Grand Slam Finals. While Javokhir Sindarov leads the standings, Erigaisi secured third place, earning a knockout stage match against Vincent Keymer. The finals, the fifth event in the year-long tour, will determine the 2025 Freestyle Chess Champion, with Carlsen aiming to clinch the overall tour victory.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-arjun-erigaisi-beats-magnus-carlsen-in-freestyle-chess-grand-slam-finals-set-to-face-vincent-keymer-in-quarterfinals/articleshow/125867864.cms",
+         "pubDate" : "Tue, 09 Dec 2025 10:28:44",
+         "title" : "Erigaisi beats Carlsen in Freestyle GS Finals, set to face Keymer in QFs"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation , Gujarat State Chess Association is organizing Senior National Arbiter Seminar &#38; exam in The Gujarat State Co-operative Bank (GSC).Sardar Vallabhbhai",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-and-exam-in-ahmedabad-on-02-03-january-2026/",
+         "pubDate" : "Tue, 09 Dec 2025 09:12:43",
+         "title" : " SNA seminar and Exam in Ahmedabad on 02 & 03 January 2026"
+      },
+      {
          "description" : "Now that we have examined all the individual trees in this game between Viktor Kortschnoj and Anatoly Karpov from 1978, what is our view of the forest? Move after move, Kortschnoj made optimal choices, never lessening the tension. Most decisive endings are won after a gross blunder, but it took 46 years to find where Black finally stumbled. As GM Alex Fishbein noted, Kortschnoj \"made many nonstandard decisions, made no mistakes and played brilliantly - one of the best endings ever played.\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/answers-korchnoi-karpov-1978",
          "pubDate" : "Tue, 09 Dec 2025 08:41:01",
          "title" : "Answers: Korchnoi-Karpov 1978"
+      },
+      {
+         "description" : "Fourteen-year-old Turkish chess prodigy GM Yagiz Kaan Erdogmus has beaten 35-year-old world number 15 GM Maxime Vachier-Lagrave 3.5-2.5 in Clash of Generations II. Victory in the six-game classical match in the Monte Carlo Chess Club saw Erdogmus ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/erdogmus-beats-vachier-lagrave-world-top-50",
+         "pubDate" : "Tue, 09 Dec 2025 00:56:00",
+         "title" : "Erdogmus Beats Vachier-Lagrave, Smashes Carlsen's Record As Youngest In Top 50"
       },
       {
          "description" : "The opening stage of the Freestyle Chess Grand Slam Finals in South Africa consisted of a single round-robin tournament with a 10+5 time control. Although no players were eliminated, the results were of clear importance: they decide the quarterfinal pairings. Javokhir Sindarov, fresh from his victory at the FIDE World Cup, was the top scorer, as he obtained 5&frac12;/7 points, with wins over Magnus Carlsen, Parham Maghsoodloo, Fabiano Caruana and Hans Niemann. The Uzbek star achieved this feat on his 20th birthday. | Photo: Freestyle Chess / Lennart Ootes",
@@ -74,7 +106,7 @@ news_feed (
          "title" : "SNA seminar and Exam in Madurai ,Tamil Nadu on 27 & 28 December 2025"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125833315.cms\" />Russian Grandmaster Volodar Murzin, the 2024 FIDE Rapid champion, is set to compete in the Global Chess League in Mumbai. He expressed his fondness for Indian cuisine, particularly mangoes, paneer, and sugarcane juice. Murzin also shared his confidence boost after winning the World Rapid title and his ambition to improve his classical chess game.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125833315.cms\" />Russian Grandmaster Volodar Murzin, the 2024 FIDE Rapid champion, is set to compete for American Gambits in the Global Chess League in Mumbai. He expressed his fondness for Indian cuisine, particularly mangoes, paneer, and sugarcane juice. Murzin also shared his confidence boost after winning the World Rapid title and his ambition to improve his classical chess game.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/mango-paneer-and-not-just-chess-on-russian-gm-volodar-murzins-mind-as-india-hosts-gcl-for-first-time-exclusive/articleshow/125833315.cms",
@@ -594,14 +626,6 @@ news_feed (
          "title" : "The art of chess: Duchamp and Nimzowitsch"
       },
       {
-         "description" : "GM Nodirbek Abdusattorov&#39;s second win in a row, this time over GM Nikita Vitiugov, has given him the sole lead in the London Chess Classic&#39;s Elite Tournament on 2.5/3 after the remaining games were drawn. GM Michael Adams took a draw by repetition...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-3",
-         "pubDate" : "Sat, 29 Nov 2025 03:05:00",
-         "title" : "Abdusattorov Beats Vitiugov To Grab Sole Lead"
-      },
-      {
          "description" : "The European Rapid and Blitz Chess Championship 2025 commenced today in Pristina, Kosovo, with the Rapid tournament. The Opening ceremony of the event took place at the Emerald Hotel, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, Minister of Culture, Youth and Sports of Kosovo Mr. Hajrullah Çeku, Deputy Minister of Sports of North Macedonia Ms. Safije Sadiku Shahini, ECU CEO and President of Albanian Chess Federation Mr. Erald Dervishi, ECU Vice President Mr. Alojzije Jankovic, President of []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -914,14 +938,6 @@ news_feed (
          "title" : "Chess World Cup: Two Uzbeks steal a march over Indians"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125476484.cms\" />Returning to the World Rapid &amp; Blitz Championship in Doha, Magnus Carlsen isn't holding back - he has playfully resurrected the 'jeansgate' drama from last year in a recent social media post. With a nod to 'viral rage moments' and a commitment to tighter jeans, he teases a fun and defiant stance towards FIDE's attire rules.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tighter-jeans-this-time-magnus-carlsen-reignites-fashion-war-with-fide-ahead-of-world-rapid-blitz-2025/articleshow/125476484.cms",
-         "pubDate" : "Fri, 21 Nov 2025 03:51:17",
-         "title" : "'Tighter jeans this time': Magnus Carlsen reignites 'fashion war' with FIDE ahead of World Rapid &amp; Blitz 2025"
-      },
-      {
          "description" : " Brewington Hardaway stands majestically on the cover of the current Chess Life magazine in a vintage black and white photo. Aptly written by Grandmaster Maurice Ashley, the story titled &#8220;A Long Time Coming&#8221; is in reference to his long pursuit of the GM title, but also the 25-year gap it has taken another Black player The post <a href=\"https://thechessdrum.net/blog/2025/11/20/hardaway-gracing-the-cover-of-chess-life/\">Hardaway gracing the cover of Chess Life!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -952,22 +968,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/tata-steel-chess-tournament-all-set-for-its-2026-edition-after-announcing-the-players",
          "pubDate" : "Tue, 18 Nov 2025 18:32:00",
          "title" : "Tata Steel Chess tournament all set for its 2026 edition after announcing the players - "
-      },
-      {
-         "description" : "GM Gajewski speaks to ESPN after Gukesh's shock early exit from the FIDE World Cup on lessons learnt from a tough 2025",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/47008708/silence-please-chess-wrestles-fan-atmosphere-conundrum",
-         "pubDate" : "Tue, 18 Nov 2025 11:39:05",
-         "title" : "Silence please: Chess wrestles with fan atmosphere conundrum"
-      },
-      {
-         "description" : "The combined September &#38; October 2025 issue of the ECU E-Magazine is out! In this edition of the ECU E-Magazine you may read about: The combined September and October issue of the ECU E-Magazine can be read online together with interactive links and videos through the following link or it can be downloaded in the PDF format below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-september-october-2025/",
-         "pubDate" : "Tue, 18 Nov 2025 10:39:24",
-         "title" : "ECU E-Magazine September & October 2025"
       }
    ]
 }
