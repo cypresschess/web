@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dorian Rogozenco demonstrates how ChessBase 26's Monte-Carlo analysis can rapidly generate thousands of short engine games to obtain a statistically reliable evaluation of an opening line. In the example, it becomes clear that a previously promising surprise weapon for Black performs objectively much worse, providing a second, more realistic perspective to decide whether the line is practically worth playing.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dorian-rogozenco-how-a-grandmaster-uses-the-new-chessbase-26-monte-carlo-analysis",
+         "pubDate" : "Wed, 10 Dec 2025 19:00:00",
+         "title" : "Dorian Rogozenco: How a Grandmaster Uses the New ChessBase 26 Monte-Carlo Analysis"
+      },
+      {
          "description" : "The quarterfinals of the Freestyle Chess Grand Slam Finals took place on Tuesday, leaving four players still in the fight for the tournament title. In the semis, Magnus Carlsen faces an in-form Javokhir Sindarov, while Vincent Keymer battles against Levon Aronian. The remaining participants have not been eliminated, as they continue to play in the lower-bracket to decide who gets fifth to eighth place. Follow the games live with commentary. | The matches start at 12.00 CET (6.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-finals-live",
          "pubDate" : "Wed, 10 Dec 2025 11:30:00",
          "title" : "Freestyle Chess South Africa - Live!"
+      },
+      {
+         "description" : "GMs Magnus Carlsen and Levon Aronian will contest the title match of the 2025 Freestyle Chess Grand Slam Finals, where first place comes with $200,000. Carlsen won a close semifinal match against GM Javokhir Sindarov, who won on demand once and ne...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/view-2025-freestyle-chess-grand-slam-south-africa-sf",
+         "pubDate" : "Wed, 10 Dec 2025 10:26:11",
+         "title" : "Carlsen 'Outlasts' Sindarov, Plays Aronian In Final On Thursday"
+      },
+      {
+         "description" : "The International Chess Federation (FIDE) has announced GM Praggnanandhaa Rameshbabu as the winner of the FIDE Circuit 2025, securing him a spot for the 2026 FIDE Candidates Tournament. GM Hikaru Nakamura is also destined to clinch the final ratin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/praggnanandhaa-nakamura-qualifies-for-candidates",
+         "pubDate" : "Wed, 10 Dec 2025 09:36:06",
+         "title" : "Praggnanandhaa Wins FIDE Circuit To Qualify For Candidates, Nakamura Also In"
       },
       {
          "description" : "The second day of the Freestyle Chess Grand Slam Finals in South Africa marked the start of the knockout phase, with four quarterfinal matches played under a 30+15 time control. Two encounters were settled in the first pair of games, while the other two required blitz tiebreaks. Magnus Carlsen, Javokhir Sindarov, Vincent Keymer and Levon Aronian advanced to the semifinals, while the defeated players moved to the lower bracket to compete for fifth to eighth place. | Photo: Freestyle Chess / Lennart Ootes",
@@ -656,22 +680,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/holiday-bots-2025",
          "pubDate" : "Mon, 01 Dec 2025 09:07:00",
          "title" : "New Bots Have Arrived For The Holidays!"
-      },
-      {
-         "description" : "After 225,000 Chess.com players cast 988,000 votes, posted 52,000 forum comments, and made 41 moves, IM Levy Rozman delivered checkmate as The World finally fell on Saturday during Thanksgiving weekend, bringing an end to Chess.com&#39;s GothamChess v...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gothamchess-beats-the-world-recap",
-         "pubDate" : "Mon, 01 Dec 2025 06:22:00",
-         "title" : "GothamChess Checkmates 225,000 Players In Largest-Ever Online Chess Game"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov extended his lead on Sunday at the London Chess Classic&#39;s Elite Tournament to a full point after winning his fourth game in a row, against GM Nikolas Theodorou. GM Alireza Firouzja, who drew with GM Gawain Maroroa Jones, i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-5",
-         "pubDate" : "Mon, 01 Dec 2025 02:45:00",
-         "title" : "Abdusattorov Wins Again, Extends Lead In London"
       },
       {
          "description" : "The 2025 European Rapid &#38; Blitz Chess Championships took place from 27 November 1 December in Pristina, Kosovo. The event gathered nearly 400 players coming from 38 European federations, and commenced with the Rapid Championship which was played from 28-29 November in 11 rounds (swiss system). GM Paulius Pultinevicius (LTU, 2566) emerged as the sole Winner of the European Rapid Chess Championship 2025 with the score of 10 points. Playing for gold in the final round, Pultinevicius defeated GM []",
