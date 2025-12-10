@@ -50,6 +50,14 @@ news_feed (
          "title" : "'It's now time to ...': Pragg after becoming first Indian to enter Candidates"
       },
       {
+         "description" : "An undefeated GM Sam Sevian won Titled Tuesday on December 9&#38;mdash;his first since 2021&#38;mdash;scoring 9.5 points to claim an outright victory ahead of five players on nine points. In that group, GM Denis Lazavik emerged from the tiebreak applicati...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sevian-wins-titled-tuesday-december-9-2025",
+         "pubDate" : "Tue, 09 Dec 2025 12:55:56",
+         "title" : "Sevian Breaks Through For 1st Titled Tuesday Since 2021"
+      },
+      {
          "description" : "After the round-robin stage, in which none of the eight participants in the Grand Slam Finals could be eliminated, the Freestyle Finals in South Africa now move into the quarterfinals - where things get serious. Anyone who wants to win the tournament must first win their quarterfinal match. Each mini-match consists of two games with a 30+15 time control. Javokhir Sindarov, the winner of the round-robin, will face Parham Maghsoodloo, Magnus Carlsen plays Fabiano Caruana, and Levon Aronian takes on Hans Niemann. Vincent Keymer will need to overcome Arjun Erigaisi. Follow the games live with commentary. | The matches start at 12.00 CET (6.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -62,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-south-africa-qf",
-         "pubDate" : "Tue, 09 Dec 2025 11:17:32",
+         "pubDate" : "Tue, 09 Dec 2025 11:17:00",
          "title" : "Carlsen Clinches Tour With 2 Days To Spare, After Clutch Comeback"
       },
       {
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-leads-the-london-chess-classic-with-3.54",
          "pubDate" : "Sun, 30 Nov 2025 15:04:00",
          "title" : "Abdusattorov leads the London Chess Classic with 3.5/4 - 3-4"
-      },
-      {
-         "description" : "In Saturday&#39;s fourth round, GM Nodirbek Abdusattorov maintained his half-point lead at the London Chess Classic&#39;s Elite Tournament with a third consecutive win. The Uzbek GM defeated GM Michael Adams as Black but saw his main rival GM Alireza Firo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-4",
-         "pubDate" : "Sun, 30 Nov 2025 02:49:00",
-         "title" : "Wins For Abdusattorov, Firouzja, McShane In London's 4th Round"
       },
       {
          "description" : "Hey everyone, I hope those of you celebrating had a lovely Thanksgiving. Before we get into today's newsletter, a quick announcement: Both my Courses are 25% off until Tuesday 3 PM CET. As always, you have a 14-day money back guarantee, so you can get them now at a reduced price without any risk. Simplified []",
