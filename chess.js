@@ -26,6 +26,14 @@ news_feed (
          "title" : "Exclusive | 'One Indian is quite surprising': Anish Giri rates Candidates 2026 line-up"
       },
       {
+         "description" : "Today's puzzles come from the just-concluded U.S. Masters, organized and run by Charlotte Chess Center. Check out our Thanksgiving Weekend Wrap-Up featuring results from Charlotte and many other tournaments. Plus: find even more puzzles from this event in last week's Workout. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-us-masters-pt-2",
+         "pubDate" : "Wed, 10 Dec 2025 00:00:00",
+         "title" : "Wednesday Workout: U.S. Masters, Pt. 2"
+      },
+      {
          "description" : "Diego Flores claimed his eighth national title at the 2025 Argentine Championship, matching Miguel Najdorf's long-standing record in the event's centenary edition. The 12-player round-robin, held at Buenos Aires City Hall, saw Flores finish unbeaten with 8&frac12;/11, securing victory after a final-round draw against Federico P&eacute;rez Ponsa. Strong performances by Diego Valerga, Leonardo Trist&aacute;n and 12-year-old IM Faustino Oro added further significance to this historic edition. | Photo: Argentine Chess Federation (FADA)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,6 +128,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/erdogmus-beats-vachier-lagrave-world-top-50",
          "pubDate" : "Tue, 09 Dec 2025 00:56:00",
          "title" : "Erdogmus Beats Vachier-Lagrave, Smashes Carlsen's Record As Youngest In Top 50"
+      },
+      {
+         "description" : "The Spokane, WA official city motto is, \"In Spokane, we all belong,\" which is perfect for the 2025 National K-12 Grade Championships, taking place this weekend, Dec. 11-14 in the Lilac City. This will be the annual event's first time on the West Coast since 1992 - and its first time further west than Texas since 2011 - making the tournament more accessible to a cross-section of new scholastic players competing in their first national event and more seasoned veterans alike. The list of 1,350+ players currently registered includes some of America's best scholastic players. Top seeds include Pennsylvania's IM Erick Zhao (11th grade), New York's FM Aditeya Das (NY, 9th grade), Virginia's Kent Sl",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-national-k-12-grade-championships-preview",
+         "pubDate" : "Tue, 09 Dec 2025 00:00:00",
+         "title" : "2025 National K-12 Grade Championships Preview"
       },
       {
          "description" : "Today's puzzles come from the just-concluded U.S. Masters, organized and run by Charlotte Chess Center. Check out our Thanksgiving Weekend Wrap-Up featuring results from Charlotte and many other tournaments, and check out another batch of puzzles from this event in last week's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -792,22 +808,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2025-live",
          "pubDate" : "Wed, 26 Nov 2025 10:20:00",
          "title" : "FIDE World Cup, Finals - Live!"
-      },
-      {
-         "description" : "This week's puzzles come from the 2025 FIDE Women's World Team Championship. See our full report here, and find even more puzzles from this event on yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-womens-world-team-championships",
-         "pubDate" : "Wed, 26 Nov 2025 00:00:00",
-         "title" : "Wednesday Workout: FIDE Women's World Team Championships"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Javokhir Sindarov and Wei Yi compete for the Viswanathan Anand Cup in Goa. (All photos courtesy FIDE/Michal Walusza)<br> <br> <br> <br> Uzbekistan's GM Javokhir Sindarov is the 2025 FIDE World Cup champion. Sindarov defeated Chinese GM Wei Yi 2&frac12;-1&frac12;, winning the second game of the first rapid tiebreak on Wednesday, Nov. 26. This concluded almost a month of play in Goa, India. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> A victorious Sindaorv after his win in the finals.<br> <br> <br> <br> Both players qualify for the 2026 FIDE Candidates Tournament, ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/sindarov-wins-2025-fide-world-cup",
-         "pubDate" : "Wed, 26 Nov 2025 00:00:00",
-         "title" : "Sindarov wins 2025 FIDE World Cup"
       },
       {
          "description" : "The European Amateur Chess Championships 2025 is set to take place from 25 November to 5 December in Mellieha, Malta. The event is played in three age categories: U2300, U2000, and U1700, and each Championship will be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for each move starting from move one. The event is played at the Conference Hall []",
