@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second day of the Freestyle Chess Grand Slam Finals in South Africa marked the start of the knockout phase, with four quarterfinal matches played under a 30+15 time control. Two encounters were settled in the first pair of games, while the other two required blitz tiebreaks. Magnus Carlsen, Javokhir Sindarov, Vincent Keymer and Levon Aronian advanced to the semifinals, while the defeated players moved to the lower bracket to compete for fifth to eighth place. | Photo: Freestyle Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-finals-d2",
+         "pubDate" : "Wed, 10 Dec 2025 08:25:00",
+         "title" : "Freestyle Chess South Africa: Carlsen comes from behind to beat Caruana"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125883547.cms\" />20-year-old Indian GM R Praggnanandhaa secured his spot in the Candidates 2026, joining his sister R Vaishali. Dutch Grandmaster Anish Giri, however, believes India could have had more representatives than just one. Giri also highlighted the formidable nature of lower-rated players in the line-up like Matthias Bluebaum, predicting a highly competitive tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/one-indian-is-quite-surprising-dutch-no-1-anish-giri-rates-candidates-2026-line-up-reveals-hilarious-prep-hurdle-exclusive/articleshow/125883547.cms",
+         "pubDate" : "Wed, 10 Dec 2025 05:56:13",
+         "title" : "Exclusive | 'One Indian is quite surprising': Anish Giri rates Candidates 2026 line-up"
+      },
+      {
          "description" : "Diego Flores claimed his eighth national title at the 2025 Argentine Championship, matching Miguel Najdorf's long-standing record in the event's centenary edition. The 12-player round-robin, held at Buenos Aires City Hall, saw Flores finish unbeaten with 8&frac12;/11, securing victory after a final-round draw against Federico P&eacute;rez Ponsa. Strong performances by Diego Valerga, Leonardo Trist&aacute;n and 12-year-old IM Faustino Oro added further significance to this historic edition. | Photo: Argentine Chess Federation (FADA)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sevian-wins-titled-tuesday-december-9-2025",
          "pubDate" : "Tue, 09 Dec 2025 12:55:56",
          "title" : "Sevian Breaks Through For 1st Titled Tuesday Since 2021"
-      },
-      {
-         "description" : "After the round-robin stage, in which none of the eight participants in the Grand Slam Finals could be eliminated, the Freestyle Finals in South Africa now move into the quarterfinals - where things get serious. Anyone who wants to win the tournament must first win their quarterfinal match. Each mini-match consists of two games with a 30+15 time control. Javokhir Sindarov, the winner of the round-robin, will face Parham Maghsoodloo, Magnus Carlsen plays Fabiano Caruana, and Levon Aronian takes on Hans Niemann. Vincent Keymer will need to overcome Arjun Erigaisi. Follow the games live with commentary. | The matches start at 12.00 CET (6.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-finals-live",
-         "pubDate" : "Tue, 09 Dec 2025 11:30:00",
-         "title" : "Freestyle Chess South Africa - Live!"
       },
       {
          "description" : "GM Magnus Carlsen lost the first game against GM Fabiano Caruana in the 2025 Freestyle Chess Grand Slam Finals, but then won on demand with Black to force tiebreaks. There, he won both blitz games and already clinched the 2025 Freestyle Chess Gran...",
@@ -328,14 +336,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/london-chess-classic-2025-8",
          "pubDate" : "Fri, 05 Dec 2025 16:30:00",
          "title" : "Abdusattorov wins London Chess Classic with one round to spare"
-      },
-      {
-         "description" : "The 2025 European Amateur Chess Championship took place from 26th of November to 4th of December in Mellieha, Malta. The event was played in three rating categories: U1700, U2000, and U2300, each championship with 9-swiss rounds and time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with an increment of 30 seconds for each move starting from move one. After nine played rounds, CM Stefan-Emilian Prisacaru (ROU, 2216) emerged as the sole []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-amateur-chess-championships-2025-concluded-in-malta/",
-         "pubDate" : "Fri, 05 Dec 2025 12:15:15",
-         "title" : "European Amateur Chess Championships 2025 concluded in Malta"
       },
       {
          "description" : "IM Renato Terry won another 3 0 Thursday tournament on December 4, marking the third consecutive week that he&#39;s won one of the three events. No one else has won more than once since the event debuted on November 6. GM Vladislav Artemiev and IM Ant...",
@@ -642,14 +642,6 @@ news_feed (
          "title" : "Abdusattorov Wins Again, Extends Lead In London"
       },
       {
-         "description" : "The 2025 European Rapid &#38; Blitz Chess Championships took place from 27 November 1 December in Pristina, Kosovo. The event gathered nearly 400 players coming from 38 European federations, and commenced with the Rapid Championship which was played from 28-29 November in 11 rounds (swiss system). GM Paulius Pultinevicius (LTU, 2566) emerged as the sole Winner of the European Rapid Chess Championship 2025 with the score of 10 points. Playing for gold in the final round, Pultinevicius defeated GM []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-rapid-blitz-chess-champions-2025-crowned-in-kosovo/",
-         "pubDate" : "Mon, 01 Dec 2025 00:44:35",
-         "title" : "European Rapid & Blitz Chess Champions 2025 crowned"
-      },
-      {
          "description" : "December means it's time for the annual Miniatures Issue. Games containing 25 or fewer moves are presented. Some games may contain variations that extend past the 25-move limitation; however, the main line moves of the game will have no more than 25. Other specific requirements: games have no fewer than 19 moves, and were posted to the ICCF archives this year.Since the games are all miniatures, I doubled the number of games and puzzles typically provided for an issue of Check is in the Mail.Also in this issue are two additional games that were played by the co-author of Check is in the Mail. Michael D. Buss always provides the content for the Front Office section. I added two games to the en",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -680,14 +672,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-art-of-chess-duchamp-and-nimzowitsch/",
          "pubDate" : "Sat, 29 Nov 2025 12:09:14",
          "title" : "The art of chess: Duchamp and Nimzowitsch"
-      },
-      {
-         "description" : "The European Rapid and Blitz Chess Championship 2025 commenced today in Pristina, Kosovo, with the Rapid tournament. The Opening ceremony of the event took place at the Emerald Hotel, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, Minister of Culture, Youth and Sports of Kosovo Mr. Hajrullah Çeku, Deputy Minister of Sports of North Macedonia Ms. Safije Sadiku Shahini, ECU CEO and President of Albanian Chess Federation Mr. Erald Dervishi, ECU Vice President Mr. Alojzije Jankovic, President of []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2025-commenced/",
-         "pubDate" : "Sat, 29 Nov 2025 00:32:37",
-         "title" : "European Rapid and Blitz Chess Championship 2025 commenced"
       },
       {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/15th-xtx-markets-london-chess-classic-2025\">London Chess Classic</a> has three leaders after the first two rounds of the tournament. The first round was reasonably quiet with five draws, Alireza Firouzja had decent winning chances against Sam Shankland and Michael Adams looked to be a little better against Luke McShane. The second round saw three decisive games and there could have been a fourth. Alireza Firouzja, Nikolas Theodorou, and Nodirbek Abdusattorov share the lead with 1.5/2 after scoring wins in Round 2. ",
@@ -794,14 +778,6 @@ news_feed (
          "title" : "Sindarov wins 2025 FIDE World Cup"
       },
       {
-         "description" : "The European Amateur Chess Championships 2025 is set to take place from 25 November to 5 December in Mellieha, Malta. The event is played in three age categories: U2300, U2000, and U1700, and each Championship will be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for each move starting from move one. The event is played at the Conference Hall []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-amateur-chess-championship-2025-starts-in-malta/",
-         "pubDate" : "Tue, 25 Nov 2025 09:57:56",
-         "title" : "European Amateur Chess Championship 2025 starts in Malta"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125544293.cms\" />Wei Yi drew his first FIDE World Cup final game against Javokhir Sindarov. Wei Yi played with black pieces and secured a draw. Andrey Esipenko won the third-place match against Nodirbek Yakubboev. Esipenko's victory puts him in a strong position for the Candidates tournament. The FIDE World Cup 2025 final continues.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -816,14 +792,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/10-year-old-indian-origin-british-prodigy-bodhana-sivanandan-shocks-chess-world-wins-uk-womens-blitz-championship/articleshow/125542456.cms",
          "pubDate" : "Mon, 24 Nov 2025 13:46:08",
          "title" : "10-year-old Sivanandan wins UK Women's Blitz Championship"
-      },
-      {
-         "description" : "The 9th edition of the European Small Nations Team Chess Championship took place from 15-22 November in Larnaca, Cyprus. After nine played rounds, two teams tied for the top scoring 16 match points each: Faroe Islands and Andorra. With the higher score of the game points, Faroe Islands emerged as the Winner of the event and clinched the title. Andorra claimed silver medal. Scoring 15 match points, Cyprus won bronze medal. The Closing Ceremony of the even took place with []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-small-nations-team-chess-champions-2025-crowned-in-cyprus/",
-         "pubDate" : "Mon, 24 Nov 2025 10:31:09",
-         "title" : "European Small Nations Team Chess Champions 2025 crowned in Cyprus"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125530030.cms\" />While 19-year-old Sindarov defeated childhood friend Yakubboev Nodirbek in an all-Uzbekistan semifinal by snatching an early lead, the battle between Russia No. 2 Andrey Esipenko and world rapid No. 4 Wei was a contest of blunders, won by the \"lucky\" Chinese GM.",
@@ -936,14 +904,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2025-r7g1",
          "pubDate" : "Fri, 21 Nov 2025 20:10:00",
          "title" : "World Cup SF: Two draws, no lack of tension"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125489157.cms\" />The FIDE World Cup 2025 in Goa is nearing its end. Indian Grandmaster Vidit Gujrathi has spoken out against criticism of the tournament's conditions. He highlights Goa's beauty and excellent hospitality. Gujrathi also discusses his friendship with Anish Giri and his own journey with burnout. He will next play in the Global Chess League 2025.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-from-surviving-on-only-rice-and-water-in-russia-to-serious-burnout-before-marriage-vidit-gujrathi-on-life-as-a-chess-grandmaster/articleshow/125489157.cms",
-         "pubDate" : "Fri, 21 Nov 2025 15:03:25",
-         "title" : "Exclusive | From 'surviving on rice and water in Russia' to 'burnout': Vidit's story"
       },
       {
          "description" : "The World Cup began on 30 October in Goa, India. Two hundred and six players entered the tournament; three weeks later, only four remain and will now meet in the semifinals. China's Wei Yi faces the Russian GM Andrey Esipenko, while Javokhir Sindarov of Uzbekistan takes on his compatriot Nodirbek Yakubboev. The top three finishers qualify for the Candidates Tournament. The winner earns 120,000 USD, the fourth-placed player 50,000. But who has the best chances of winning the event - and securing a spot in the Candidates? | Photos: Michal Walusza",
