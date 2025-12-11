@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "11 December 2025 marks the 120th anniversary of Ludwig Engels's birthday. He was one of the best German chess players in the 1930s. Following the 1939 Chess Olympiad, he, like many others, remained in South America due to the outbreak of the Second World War and settled in Brazil. At the height of his career, Engels defeated renowned players such as Alekhine, Bogoljubow, Keres and Maroczy. | Photo source: Friedrich-Karl Hebeker",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/who-was-ludwig-engels",
+         "pubDate" : "Thu, 11 Dec 2025 19:00:00",
+         "title" : "Who was Ludwig Engels?"
+      },
+      {
+         "description" : " The 11th Vugar Gashimov Memorial took place in Stepanakert Tue 9th Dec to Thu 11th Dec 2025. There were two days of rapid and one day of blitz. Players: Nepomniachtchi, Fedoseev, Mamedov, Tabatabaei, Yakubboev and Suleymanli. Ian Nepomniachtchi won the rapid by half a point from Vladimir Fedoseev, the result was reversed for the blitz. The first tie-break was individual results between the players and Nepomniachtchi won one and drew one against Fedoseev in each part so won the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/11th-vugar-gashimov-memorial-2025",
+         "pubDate" : "Thu, 11 Dec 2025 18:38:00",
+         "title" : "11th Vugar Gashimov Memorial 2025 - Games and Results"
+      },
+      {
+         "description" : " The Freestyle Chess Grand Slam Finals took place Mon 8th Dec to Thu 11th Dec 2025. The venue was the Grootbos Private Nature Reserve two hours drive from Cape Town. The event was a fast rapid time control of 10 minutes + 5 seconds a move. Players: Magnus Carlsen, Fabiano Caruana, Vincent Keymer, Arjun Erigaisi, Levon Aronian, Hans Niemann, Parham Maghsoodloo and Javokhir Sindarov. Perhaps fittingly the two biggest advocates of this Chess960 tour met in the final. Levon Aronian beat Magnus Carlsen 1.5-0.5 in the final. Aronian went the entire event undefeated. Carlsen lost two in the preliminaries and three in the knockout section, which I'm sure he'll view as entirely too many. I can't disp",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/freestyle-chess-grand-slam-finals-2025",
+         "pubDate" : "Thu, 11 Dec 2025 17:58:00",
+         "title" : "Freestyle Chess Grand Slam Finals 2025 - Games and Results"
+      },
+      {
+         "description" : "Anastasia Corotcova explains how ChessBase allows beginners to easily enter, edit, and save chess games, starting from creating a new board to recording moves directly on the screen. She highlights powerful ChessBase features such as assisted analysis, automatic move recognition, colour-coded move quality, and tools for correcting or inserting moves, showing that the software isn't just for notation but a full analytical environment. In the end, she demonstrates how ChessBase helps players organize their own databases, store complete game information, and build a personal library-capturing the essence of ChessBase as a professional tool for learning, analysing, and managing chess games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-tips-for-beginners-enter-and-save-your-games",
+         "pubDate" : "Thu, 11 Dec 2025 17:00:00",
+         "title" : "ChessBase tips for beginners - Enter and save your games"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125917260.cms\" />Levon Aronian clinched the 2025 Freestyle Chess Grand Slam title in Grootbos. He defeated Magnus Carlsen in the Grand Final. Aronian secured the win with a 1.5-0.5 score. He earned $200,000. Magnus Carlsen had already won the overall Grand Slam Tour. Vincent Keymer secured third place. Fabiano Caruana finished fifth. Hans Niemann took seventh place.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/levon-aronian-beats-magnus-carlsen-stays-unbeaten-to-clinch-freestyle-chess-grand-slam-tour-final-title-arjun-erigaisi-finishes-sixth/articleshow/125917260.cms",
+         "pubDate" : "Thu, 11 Dec 2025 16:34:27",
+         "title" : "Aronian beats Carlsen to clinch Freestyle Grand Slam Tour Final title"
+      },
+      {
+         "description" : "Today marks the end of the 2025 Freestyle Grand Slam Tour. Magnus Carlsen and Levon Aronian will battle it out in the final for the tournament victory, while Vincent Keymer and Javokhir Sindarov will play for third place. Arjun Erigaisi will face Fabiano Caruana in the match for fifth place, while Hans Niemann and Parham Maghsoodloo will play for seventh place. Follow the games live with commentary. | The matches start at 12.00 CET (6.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-finals-live",
+         "pubDate" : "Thu, 11 Dec 2025 10:59:57",
+         "title" : "Freestyle Chess South Africa - Live!"
+      },
+      {
+         "description" : "The ECU E-Magazine November 2025 is out! In this edition of the ECU Magazine you may read about: The November 2025 issue of the ECU E-Magazine can be read online together with interactive links through the following link, or it can be downloaded in PDF format down below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-november-2025/",
+         "pubDate" : "Thu, 11 Dec 2025 09:49:02",
+         "title" : "ECU E-Magazine November 2025"
+      },
+      {
+         "description" : "Norway Chess and the International Chess Federation (FIDE) have announced the qualification paths for the 24-player October 2026 pilot event of the Total Chess World Championship Tour. Reigning World Champions Gukesh Dommaraju and Ju Wenjun are th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gukesh-ju-wenjun-24-total-chess-world-championship-tour-qualifiers",
+         "pubDate" : "Thu, 11 Dec 2025 09:06:00",
+         "title" : "Ju Wenjun, Gukesh Among 24 Total Chess World Championship Tour Qualifiers"
+      },
+      {
+         "description" : "GM Levon Aronian defeated GM Magnus Carlsen 1.5-0.5 in the title match of the 2025 Freestyle Chess Grand Slam Finals to win the $200,000 first prize. Following up on his win in Las Vegas over the summer, it&#39;s his second Grand Slam win in a row. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aronian-wins-2025-freestyle-chess-grand-slam-south-africa",
+         "pubDate" : "Thu, 11 Dec 2025 07:29:00",
+         "title" : "Aronian Wins Freestyle Chess Grand Slam In South Africa"
+      },
+      {
          "description" : "Day three of the Freestyle Chess Grand Slam Finals in South Africa clarified the lineup for Thursday's concluding matches. Magnus Carlsen and Levon Aronian advanced to the championship decider after winning their respective semifinals, while Javokhir Sindarov and Vincent Keymer will contest third place. In the lower bracket, Fabiano Caruana and Arjun Erigaisi secured victories to reach the fifth-place match, leaving Hans Niemann and Parham Maghsoodloo to compete for seventh. | Photo: Freestyle Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +102,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/praggnanandhaa-nakamura-qualifies-for-candidates",
-         "pubDate" : "Wed, 10 Dec 2025 09:36:06",
+         "pubDate" : "Wed, 10 Dec 2025 09:36:00",
          "title" : "Praggnanandhaa Wins FIDE Circuit To Qualify For Candidates, Nakamura Also In"
       },
       {
@@ -64,14 +136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/argentine-championship-2025-final-report",
          "pubDate" : "Tue, 09 Dec 2025 19:30:00",
          "title" : "Diego Flores wins Argentine Championship for an eighth time, equals Miguel Najdorf's record"
-      },
-      {
-         "description" : " The 11th Vugar Gashimov Memorial takes place in Stepanakert Tue 9th Dec to Thu 11th Dec 2025. Two days of rapid and one day of blitz. Players: Nepomniachtchi, Fedoseev, Mamedov, Tabatabaei, Yakubboev and Suleymanli.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/11th-vugar-gashimov-memorial-2025",
-         "pubDate" : "Tue, 9 Dec 2025 18:52:00",
-         "title" : "11th Vugar Gashimov Memorial 2025 - Games and Results"
       },
       {
          "description" : " The Magistral Szmetan-Giardelli is a very interesting Round Robin held in Buenos Aire 8th to 16th December 2025. Players: Aryan Tari, Ivan Cheparinov, Julio, Granda Zuniga, Alexei Shirov, Diego Flores, Sandro Mareco, Faustino Oro, Ilan Schnaider, Sergio Slipak and Tomas, Darcyl. ",
@@ -184,14 +248,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prodigy-or-hype-a-three-year-old-with-a-fide-rating",
          "pubDate" : "Mon, 08 Dec 2025 22:20:01",
          "title" : "Prodigy or hype? A three-year-old with a FIDE rating"
-      },
-      {
-         "description" : " The Freestyle Chess Grand Slam Finals take place Mon 8th Dec to Thu 11th Dec 2025. The venue is the Grootbos Private Nature Reserve two hours drive from Cape Town. The event is a fast rapid time control of 10 minutes + 5 seconds a move. Players: Magnus Carlsen, Fabiano Caruana, Vincent Keymer, Arjun Erigaisi, Levon Aronian, Hans Niemann, Parham Maghsoodloo and Javokhir Sindarov. I can make the games available for download but can't display them.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/freestyle-chess-grand-slam-finals-2025",
-         "pubDate" : "Mon, 8 Dec 2025 14:53:00",
-         "title" : "Freestyle Chess Grand Slam Finals 2025 - Games and Results"
       },
       {
          "description" : " The 15th XTX Markets London Chess Classic took place Wed 26th Nov to Sun 7th Dec 2025. Players: Alireza Firouzja, Luke Mcshane, Michael Adams, Nikolas Theodorou, Sam Shankland, Nodirbek Abdusattorov, Pavel Eljanov, Nikita Vitiugov, Abhimanyu Mishra and Gawain Maroroa Jones. Nodirbek Abdusattorov dominated the event scoring 7.5/9 and finished two points clear of Alireza Firouzja. The open saw Praggnanandhaa, Vladimir Ivic and Ameet Ghasi tie on 7/9. The Super Rapid was won by Nikolas Theodorou on 9/10 with Alireza Firouza half a point behind on 8.5 points.",
@@ -658,28 +714,12 @@ news_feed (
          "title" : "Tactics Tuesday: U.S. Masters"
       },
       {
-         "description" : "The Academy Award-winning animated short War Is Over!, a film in which an emotional game of correspondence chess becomes a lifeline between two soldiers on opposite sides of a battlefield, was released on YouTube today. Last year, War Is Over! b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oscar-awarded-chess-themed-animated-short-war-is-over-released-to-public",
-         "pubDate" : "Mon, 01 Dec 2025 10:11:00",
-         "title" : "Oscar-Winning Chess-Themed Animated Short 'War Is Over' Released To Public"
-      },
-      {
          "description" : "India Registers a Dominant Performance with 49 Medals at the Asian Youth Chess Championship AICF congratulates all players, coaches, and parents for an exceptional all-format",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/india-registers-a-dominant-performance-with-49-medals-at-the-asian-youth-chess-championship-2025-in-bangkok-from-20-30-december-2025/",
          "pubDate" : "Mon, 01 Dec 2025 09:15:48",
          "title" : "India Registers a Dominant Performance with 49 Medals at the Asian Youth Chess Championship 2025 in Bangkok from 20-30 November 2025"
-      },
-      {
-         "description" : "This December, Chess.com is giving you the gift of five limited-edition bots for you to defeat! Take on classic holiday characters like Frosty and Santa, or test your luck against a ghostly chess spirit, a claymation monster, and more.&#38;nbsp; Wil...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/holiday-bots-2025",
-         "pubDate" : "Mon, 01 Dec 2025 09:07:00",
-         "title" : "New Bots Have Arrived For The Holidays!"
       },
       {
          "description" : "The 2025 European Rapid &#38; Blitz Chess Championships took place from 27 November 1 December in Pristina, Kosovo. The event gathered nearly 400 players coming from 38 European federations, and commenced with the Rapid Championship which was played from 28-29 November in 11 rounds (swiss system). GM Paulius Pultinevicius (LTU, 2566) emerged as the sole Winner of the European Rapid Chess Championship 2025 with the score of 10 points. Playing for gold in the final round, Pultinevicius defeated GM []",
@@ -938,14 +978,6 @@ news_feed (
          "title" : "Review: 60 minutes against the French"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125499094.cms\" />Chess World Cup semifinals opened with cautious play, resulting in draws for both matches. Uzbek childhood friends Sindarov Javokhir and Yakubboev Nodirbek drew after a tense battle, while Andrey Esipenko and Wei Yi also split points. Both Esipenko and Sindarov will aim to leverage their opening advantage in the next games.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/safety-first-as-chess-world-cup-semifinals-open-with-two-tense-draws/articleshow/125499094.cms",
-         "pubDate" : "Sat, 22 Nov 2025 04:21:23",
-         "title" : "Safety first as Chess World Cup semifinals open with two tense draws"
-      },
-      {
          "description" : " Florida A&#38;M (FAMU) and Florida State (FSU) share the capital city of Tallahassee and have proud traditions, including football. While there is a natural barrier of the railroad tracks, the campuses are literally walking distance from each other. The two campuses share many things, including an engineering program, but lately they have also developed a The post <a href=\"https://thechessdrum.net/blog/2025/11/21/famu-fsu-tallahassee-chess-clash-a-first/\">FAMU-FSU Tallahassee chess clash a first!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -992,14 +1024,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/11/20/hardaway-gracing-the-cover-of-chess-life/",
          "pubDate" : "Fri, 21 Nov 2025 02:26:27",
          "title" : "Hardaway gracing the cover of Chess Life!"
-      },
-      {
-         "description" : "Please find the certificates Sl No Candidate Name1 Bhogal, Rupesh2 Gaurav Sharma3 Krishna Prabhakar4 Rahul Kadam5 Pandya Raj6 Vaarin Gada7 Vishnu Sharma8 Anup Subhash Pande9",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-sna-seminar-held-in-andheri-on-01-02-nov-2025/",
-         "pubDate" : "Thu, 20 Nov 2025 09:34:40",
-         "title" : "Certificate :SNA Seminar Held in Andheri on 01 & 02 Nov 2025"
       }
    ]
 }
