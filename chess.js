@@ -22,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/view-2025-freestyle-chess-grand-slam-south-africa-sf",
-         "pubDate" : "Wed, 10 Dec 2025 10:26:11",
+         "pubDate" : "Wed, 10 Dec 2025 10:26:00",
          "title" : "Carlsen 'Outlasts' Sindarov, Plays Aronian In Final On Thursday"
       },
       {
