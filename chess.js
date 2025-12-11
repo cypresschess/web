@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Day three of the Freestyle Chess Grand Slam Finals in South Africa clarified the lineup for Thursday's concluding matches. Magnus Carlsen and Levon Aronian advanced to the championship decider after winning their respective semifinals, while Javokhir Sindarov and Vincent Keymer will contest third place. In the lower bracket, Fabiano Caruana and Arjun Erigaisi secured victories to reach the fifth-place match, leaving Hans Niemann and Parham Maghsoodloo to compete for seventh. | Photo: Freestyle Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-finals-d3",
+         "pubDate" : "Thu, 11 Dec 2025 00:35:00",
+         "title" : "Freestyle Chess South Africa: Carlsen and Aronian reach the final"
+      },
+      {
          "description" : "Dorian Rogozenco demonstrates how ChessBase 26's Monte-Carlo analysis can rapidly generate thousands of short engine games to obtain a statistically reliable evaluation of an opening line. In the example, it becomes clear that a previously promising surprise weapon for Black performs objectively much worse, providing a second, more realistic perspective to decide whether the line is practically worth playing.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/dorian-rogozenco-how-a-grandmaster-uses-the-new-chessbase-26-monte-carlo-analysis",
          "pubDate" : "Wed, 10 Dec 2025 19:00:00",
          "title" : "Dorian Rogozenco: How a Grandmaster Uses the New ChessBase 26 Monte-Carlo Analysis"
-      },
-      {
-         "description" : "The quarterfinals of the Freestyle Chess Grand Slam Finals took place on Tuesday, leaving four players still in the fight for the tournament title. In the semis, Magnus Carlsen faces an in-form Javokhir Sindarov, while Vincent Keymer battles against Levon Aronian. The remaining participants have not been eliminated, as they continue to play in the lower-bracket to decide who gets fifth to eighth place. Follow the games live with commentary. | The matches start at 12.00 CET (6.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-finals-live",
-         "pubDate" : "Wed, 10 Dec 2025 11:30:00",
-         "title" : "Freestyle Chess South Africa - Live!"
       },
       {
          "description" : "GMs Magnus Carlsen and Levon Aronian will contest the title match of the 2025 Freestyle Chess Grand Slam Finals, where first place comes with $200,000. Carlsen won a close semifinal match against GM Javokhir Sindarov, who won on demand once and ne...",
