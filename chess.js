@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dorian Rogozenco explains how to access the ChessBase Magazine directly in the browser via the ChessBase Books page and shows that it works on PC, tablet, and even on a phone, including board display and videos. He demonstrates that with just a few clicks you can reach a huge range of training material: opening articles with full analysis and engine support, video lessons on top events, strategy topics, interactive \"Move by Move\" sessions, modern classics, and tactical/combinational exercises.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-magazine-dorian-rogozenco-master-your-chess-with-chessbase-tools",
+         "pubDate" : "Fri, 12 Dec 2025 13:00:00",
+         "title" : "ChessBase Magazine - Dorian Rogozenco: Master Your Chess with ChessBase Tools"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125932804.cms\" />A program called Checkmate Betul is bringing chess to girls in rural India. Initiated by Avika Shukla, the program teaches valuable skills like critical thinking and decision-making. The initiative has expanded to Uttar Pradesh and aims to reach more girls. It provides online lessons and physical boards, fostering confidence and new opportunities for young learners.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-rise-of-the-queen-from-ages-8-to-18-how-an-all-girl-team-is-bringing-free-chess-to-rural-india/articleshow/125932804.cms",
+         "pubDate" : "Fri, 12 Dec 2025 11:54:00",
+         "title" : "From ages 8 to 18: How an all-girl team is taking free chess to rural India"
+      },
+      {
+         "description" : "IOC Summit reconfirmed all its recommendations and restrictions for Russian and Belarusian players and teams over 18. Ahead of the upcoming FIDE General Assembly, and in response to press coverage regarding IOC recommendations for Russian and Belarusian athletes and teams, ECU wish to inform precisely its members: The 14th Olympic IOC Summit met on 11th December 2025 in Lausanne and updated its policy and recommendations regarding the Russian and Belarussian sports federations and athletes. The recommendations of the IOC are []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-on-ioc-and-its-recommendations/",
+         "pubDate" : "Fri, 12 Dec 2025 11:01:24",
+         "title" : "ECU on IOC and its recommendations"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation , All Orissa Chess Association is organizing Senior National Arbiter Seminar &#38; exam at SOA Campus-2, Bhubaneswar,Odisha. Eligibility:Eligibility: Every affiliated",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-and-exam-in-bhubaneswar-odisha-on-17-18-january-2026/",
+         "pubDate" : "Fri, 12 Dec 2025 10:10:40",
+         "title" : "SNA seminar and Exam in Bhubaneswar , Odisha on 17 & 18 January 2026"
+      },
+      {
          "description" : "In a recent \"Ask Me Anything\" session organised by FIDE, Hou Yifan addressed a wide range of questions from chess fans, touching on her competitive career, views on elite play and her current relationship with the game. The discussion also covered her academic path, advice for younger players and her approach to balancing chess with other pursuits. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +74,7 @@ news_feed (
          "title" : "11th Vugar Gashimov Memorial 2025 - Games and Results"
       },
       {
-         "description" : " The Freestyle Chess Grand Slam Finals took place Mon 8th Dec to Thu 11th Dec 2025. The venue was the Grootbos Private Nature Reserve two hours drive from Cape Town. The event was a fast rapid time control of 10 minutes + 5 seconds a move. Players: Magnus Carlsen, Fabiano Caruana, Vincent Keymer, Arjun Erigaisi, Levon Aronian, Hans Niemann, Parham Maghsoodloo and Javokhir Sindarov. Perhaps fittingly the two biggest advocates of this Chess960 tour met in the final. Levon Aronian beat Magnus Carlsen 1.5-0.5 in the final. Aronian went the entire event undefeated. Carlsen lost two in the preliminaries and three in the knockout section, which I'm sure he'll view as entirely too many. I can't disp",
+         "description" : " The Freestyle Chess Grand Slam Finals took place Mon 8th Dec to Thu 11th Dec 2025. The venue was the Grootbos Private Nature Reserve two hours drive from Cape Town. The event was a fast rapid time control of 10 minutes + 5 seconds a move. Players: Magnus Carlsen, Fabiano Caruana, Vincent Keymer, Arjun Erigaisi, Levon Aronian, Hans Niemann, Parham Maghsoodloo and Javokhir Sindarov. Perhaps fittingly the two biggest advocates of this Chess960 tour met in the final. Levon Aronian beat Magnus Carlsen 1.5-0.5 in the final. Aronian went the entire event undefeated. Carlsen lost two in the preliminaries and three in the knockout section, which I'm sure he'll view as entirely too many. Carlsen domi",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/freestyle-chess-grand-slam-finals-2025",
@@ -962,14 +994,6 @@ news_feed (
          "title" : "Review: All new releases in October!"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125514747.cms\" />The contest between childhood Uzbek friends Sindarov and Yakubboev was a short and sweet affair that lasted for 1 hour, 25 minutes. Both young grandmasters played at an accuracy level of 98%. The Four Knights Game of Spanish Variation saw a handshake immediately after the mandatory 30 moves, where both the Uzbekistan semifinalists had a similar structure on the board with equal pawns and a bishop.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/two-candidates-world-cup-finalists-to-be-identified-in-rapid-blitz-tiebreaks/articleshow/125514747.cms",
-         "pubDate" : "Sun, 23 Nov 2025 02:30:30",
-         "title" : "Two candidates, World Cup finalists to be identified in rapid, blitz tiebreaks"
-      },
-      {
          "description" : "Svitlana dedicates the episode to the memory of Daniel \"Danya\" Naroditsky, whose impact as a player, coach, and communicator reached far beyond the chessboard. She explores one of his favourite ideas in the Four Knights Opening - the powerful Nd5!, a move Danya loved to highlight for its elegance and instructional value. This episode blends clear educational insight with a heartfelt tribute, showing how Danya's creative spirit continues to inspire players through the ideas he championed.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1016,14 +1040,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2025-r7g1",
          "pubDate" : "Fri, 21 Nov 2025 20:10:00",
          "title" : "World Cup SF: Two draws, no lack of tension"
-      },
-      {
-         "description" : "The World Cup began on 30 October in Goa, India. Two hundred and six players entered the tournament; three weeks later, only four remain and will now meet in the semifinals. China's Wei Yi faces the Russian GM Andrey Esipenko, while Javokhir Sindarov of Uzbekistan takes on his compatriot Nodirbek Yakubboev. The top three finishers qualify for the Candidates Tournament. The winner earns 120,000 USD, the fourth-placed player 50,000. But who has the best chances of winning the event - and securing a spot in the Candidates? | Photos: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/who-will-win-the-world-cup-and-who-will-make-it-to-the-candidates",
-         "pubDate" : "Fri, 21 Nov 2025 09:35:20",
-         "title" : "Who will win the World Cup - and who will make it to the Candidates?"
       }
    ]
 }
