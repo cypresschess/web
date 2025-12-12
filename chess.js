@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125936473.cms\" />The Global Chess League's third season kicks off in Mumbai with the American Gambits featuring Hikaru Nakamura as their Icon player. The team, boasting a strong lineup including World Rapid Champion Volodar Murzin, faces PBG Alaskan Knights in their opening match, a highly anticipated duel against World Champion Gukesh D.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-will-world-no-2-hikaru-nakamura-come-to-india-for-gcl-season-3-team-shares-update/articleshow/125936473.cms",
+         "pubDate" : "Fri, 12 Dec 2025 16:11:26",
+         "title" : "Will Hikaru come to India for GCL season 3? Team shares update"
+      },
+      {
+         "description" : "The Kasparov Chess Foundation Academy Preseason Special is now in full swing. This is a unique opportunity for ambitious players to get a head start before the Main Season kicks off in January 2026. The Preseason program runs on nine Saturdays, with 90-minute interactive sessions focused on practical thinking, providing students a strong foundation and momentum heading into the full season. Don't Miss Your Chance to Register for Season 2026.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-preseason-special-is-underway",
+         "pubDate" : "Fri, 12 Dec 2025 16:00:00",
+         "title" : "KCF Preseason Special is underway!"
+      },
+      {
          "description" : "Dorian Rogozenco explains how to access the ChessBase Magazine directly in the browser via the ChessBase Books page and shows that it works on PC, tablet, and even on a phone, including board display and videos. He demonstrates that with just a few clicks you can reach a huge range of training material: opening articles with full analysis and engine support, video lessons on top events, strategy topics, interactive \"Move by Move\" sessions, modern classics, and tactical/combinational exercises.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,10 +26,10 @@ news_feed (
          "title" : "ChessBase Magazine - Dorian Rogozenco: Master Your Chess with ChessBase Tools"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125932804.cms\" />A program called Checkmate Betul is bringing chess to girls in rural India. Initiated by Avika Shukla, the program teaches valuable skills like critical thinking and decision-making. The initiative has expanded to Uttar Pradesh and aims to reach more girls. It provides online lessons and physical boards, fostering confidence and new opportunities for young learners.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125932804.cms\" />The evolution of the chess queen finds a parallel in rural India, where the \"Checkmate Betul\" initiative, launched by US-based Avika Shukla, offers free, structured chess training to girls with no prior access. The programme, run by an all-girl global team, is helping students gain confidence, focus and new skills while overcoming significant logistical hurdles.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-rise-of-the-queen-from-ages-8-to-18-how-an-all-girl-team-is-bringing-free-chess-to-rural-india/articleshow/125932804.cms",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-rise-of-queen-from-ages-8-to-18-how-an-all-girl-team-is-bringing-free-chess-to-rural-india/articleshow/125932804.cms",
          "pubDate" : "Fri, 12 Dec 2025 11:54:00",
          "title" : "From ages 8 to 18: How an all-girl team is taking free chess to rural India"
       },
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-and-exam-in-bhubaneswar-odisha-on-17-18-january-2026/",
          "pubDate" : "Fri, 12 Dec 2025 10:10:40",
          "title" : "SNA seminar and Exam in Bhubaneswar , Odisha on 17 & 18 January 2026"
+      },
+      {
+         "description" : "Hosted in Mumbai, the GCL promises non-stop action with some of the best players in the world on board.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/47284632/global-chess-league-gcl-2025-preview-returns-blockbuster-season-3-gukesh-viswanathan-anand-hikaru-nakamura",
+         "pubDate" : "Fri, 12 Dec 2025 08:43:04",
+         "title" : "Global Chess League returns for blockbuster season 3 with Gukesh, Vishy, Hikaru starring"
       },
       {
          "description" : "In a recent \"Ask Me Anything\" session organised by FIDE, Hou Yifan addressed a wide range of questions from chess fans, touching on her competitive career, views on elite play and her current relationship with the game. The discussion also covered her academic path, advice for younger players and her approach to balancing chess with other pursuits. | Photo: FIDE",
@@ -74,7 +98,7 @@ news_feed (
          "title" : "11th Vugar Gashimov Memorial 2025 - Games and Results"
       },
       {
-         "description" : " The Freestyle Chess Grand Slam Finals took place Mon 8th Dec to Thu 11th Dec 2025. The venue was the Grootbos Private Nature Reserve two hours drive from Cape Town. The event was a fast rapid time control of 10 minutes + 5 seconds a move. Players: Magnus Carlsen, Fabiano Caruana, Vincent Keymer, Arjun Erigaisi, Levon Aronian, Hans Niemann, Parham Maghsoodloo and Javokhir Sindarov. Perhaps fittingly the two biggest advocates of this Chess960 tour met in the final. Levon Aronian beat Magnus Carlsen 1.5-0.5 in the final. Aronian went the entire event undefeated. Carlsen lost two in the preliminaries and three in the knockout section, which I'm sure he'll view as entirely too many. Carlsen domi",
+         "description" : " The Freestyle Chess Grand Slam Finals took place Mon 8th Dec to Thu 11th Dec 2025. The venue was the Grootbos Private Nature Reserve two hours drive from Cape Town. The event was a fast rapid time control of 10 minutes + 5 seconds a move. Players: Magnus Carlsen, Fabiano Caruana, Vincent Keymer, Arjun Erigaisi, Levon Aronian, Hans Niemann, Parham Maghsoodloo and Javokhir Sindarov. Perhaps fittingly the two biggest advocates of this Chess960 tour met in the final. Levon Aronian beat Magnus Carlsen 1.5-0.5. Aronian went the entire event undefeated. Carlsen lost two in the preliminaries and three in the knockout section, which I'm sure he'll view as entirely too many. Carlsen had previously do",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/freestyle-chess-grand-slam-finals-2025",
@@ -968,14 +992,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/wei-yi-and-javokhir-sindarov-reach-the-fide-world-cup-final-and-qualify-for-the-candidates-tournament",
          "pubDate" : "Sun, 23 Nov 2025 14:15:00",
          "title" : "Wei Yi and Javokhir Sindarov reach the FIDE World Cup final and qualify for the Candidates tournament - 7"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125520706.cms\" />Grandmasters Javokhir Sindarov and Wei Yi have secured their places in the FIDE World Cup 2025 finals and the Candidates tournament after winning their semifinals in tiebreaks. Both players advanced after their classical games ended in draws, with Sindarov defeating fellow Uzbek Nodirbek Yakubboev and Wei Yi overcoming Andrey Esipenko in rapid tiebreaks.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-2025-wei-yi-javokhir-sindarov-advance-to-final-seal-candidates-spots/articleshow/125520706.cms",
-         "pubDate" : "Sun, 23 Nov 2025 14:13:50",
-         "title" : "Chess WC 2025: Wei Yi, Sindarov advance to final, seal Candidates spots"
       },
       {
          "description" : "The World Women's Team Championship took place in Linares, Spain, from 18 to 23 November. The knockout stage saw Russia beating China in the semifinals, while Azerbaijan got the better of Kazakhstan. In the final, Russia (FIDE team) defeated Azerbaijan convincingly, while China grabbed third place. | Follow the games live starting at 13.30 CET (8.30 ET, 18.00 IST)",
