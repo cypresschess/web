@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Levon Aronian won the Freestyle Chess Grand Slam Finals in South Africa after defeating Magnus Carlsen in a controlled 1&frac12;-&frac12; match, securing the event's $200,000 top prize. The final brought the four-day competition to a close, with Vincent Keymer taking third place against Javokhir Sindarov. Further down the table, Fabiano Caruana beat Arjun Erigaisi to finish fifth, while Hans Niemann prevailed over Parham Maghsoodloo in the match for seventh place. | Pictured: Levon Aronian with wife Anita Ayvazyan and their daughter | Photo: Freestyle Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-finals-d4",
+         "pubDate" : "Fri, 12 Dec 2025 00:40:00",
+         "title" : "Aronian beats Carlsen, wins Freestyle Chess Grand Slam Final"
+      },
+      {
          "description" : "11 December 2025 marks the 120th anniversary of Ludwig Engels's birthday. He was one of the best German chess players in the 1930s. Following the 1939 Chess Olympiad, he, like many others, remained in South America due to the outbreak of the Second World War and settled in Brazil. At the height of his career, Engels defeated renowned players such as Alekhine, Bogoljubow, Keres and Maroczy. | Photo source: Friedrich-Karl Hebeker",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
