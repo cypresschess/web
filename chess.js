@@ -1024,14 +1024,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-d3",
          "pubDate" : "Fri, 21 Nov 2025 05:50:00",
          "title" : "Linares: China v. USA among quarterfinal pairings"
-      },
-      {
-         "description" : " Brewington Hardaway stands majestically on the cover of the current Chess Life magazine in a vintage black and white photo. Aptly written by Grandmaster Maurice Ashley, the story titled &#8220;A Long Time Coming&#8221; is in reference to his long pursuit of the GM title, but also the 25-year gap it has taken another Black player The post <a href=\"https://thechessdrum.net/blog/2025/11/20/hardaway-gracing-the-cover-of-chess-life/\">Hardaway gracing the cover of Chess Life!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/11/20/hardaway-gracing-the-cover-of-chess-life/",
-         "pubDate" : "Fri, 21 Nov 2025 02:26:27",
-         "title" : "Hardaway gracing the cover of Chess Life!"
       }
    ]
 }
