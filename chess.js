@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a recent \"Ask Me Anything\" session organised by FIDE, Hou Yifan addressed a wide range of questions from chess fans, touching on her competitive career, views on elite play and her current relationship with the game. The discussion also covered her academic path, advice for younger players and her approach to balancing chess with other pursuits. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ask-me-anything-hou-yifan",
+         "pubDate" : "Fri, 12 Dec 2025 08:30:00",
+         "title" : "Q&A with Hou Yifan: \"I am quite happy with my current situation\""
+      },
+      {
+         "description" : " Norway's world No 1, 35, lost 0.5-1.5 to the US veteran Levon Aronian, 43, in Cape Town but was already sure of overall victory and a prize of around $500k Norway's world No 1, Magnus Carlsen, was shocked by a 0.5-1.5 loss to the US veteran Levon Aronian in Thursday's final of the Freestyle Grand Slam Tour in Cape Town, but still finished the overall winner of the five-event Tour. Freestyle chess is also known as Fischer Random and Chess 960. Pieces start randomly placed on the two back rows, thus drastically limiting opening preparation. Its 2025 season, with a Tour financed mainly by a $12m investment from the venture firm Left Lane Capital, has featured tournaments in Weissenhaus, Karlsr",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/dec/12/chess-magnus-carlsen-wins-freestyle-tour-title-despite-defeat-in-final-event",
+         "pubDate" : "Fri, 12 Dec 2025 08:00:37",
+         "title" : "Chess: Magnus Carlsen wins Freestyle Tour title despite defeat in final event"
+      },
+      {
          "description" : "Levon Aronian won the Freestyle Chess Grand Slam Finals in South Africa after defeating Magnus Carlsen in a controlled 1&frac12;-&frac12; match, securing the event's $200,000 top prize. The final brought the four-day competition to a close, with Vincent Keymer taking third place against Javokhir Sindarov. Further down the table, Fabiano Caruana beat Arjun Erigaisi to finish fifth, while Hans Niemann prevailed over Parham Maghsoodloo in the match for seventh place. | Pictured: Levon Aronian with wife Anita Ayvazyan and their daughter | Photo: Freestyle Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1008,22 +1024,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/who-will-win-the-world-cup-and-who-will-make-it-to-the-candidates",
          "pubDate" : "Fri, 21 Nov 2025 09:35:20",
          "title" : "Who will win the World Cup - and who will make it to the Candidates?"
-      },
-      {
-         "description" : " The four semi-finalists, led by Wei Yi, will battle for three 2026 Candidates places - none of them has reached this stage before The $2m (&pound;1.53m) World Cup in Goa will be remembered as an event where established stars were humbled and knocked out by supposedly lesser lights. At 26, China's Wei Yi is the oldest in Friday's semi-finals. He was once a prodigy, renowned for his brilliant attacking style and the youngest to surpass an elite 2700 rating, but then opted to take a six-year break from chess to study economics and management, which he says he does not regret. He made a statement return in 2024, winning the \"chess Wimbledon\" at Wijk aan Zee, and the 2026 Candidates is his main ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/nov/21/chess-outsiders-triumph-at-world-cup-in-goa-and-battle-for-candidates-spots",
-         "pubDate" : "Fri, 21 Nov 2025 08:00:05",
-         "title" : "Chess outsiders triumph at World Cup in Goa and battle for Candidates spots"
-      },
-      {
-         "description" : "The preliminary stage of the Women's World Team Championship concluded on Thursday in Linares, with Russia and Georgia topping their respective groups and eight teams advancing to the knockout phase. The final round brought clear outcomes in both pools, alongside a few notable surprises, including India's qualification with a reserve lineup and Ukraine's early exit after two costly defeats. Several intriguing matchups now await in the quarterfinals, most notably China v. United States. | Pictured: Russian IM Polina Shuvalova | Photo: Pavel Dvorkovich",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-d3",
-         "pubDate" : "Fri, 21 Nov 2025 05:50:00",
-         "title" : "Linares: China v. USA among quarterfinal pairings"
       }
    ]
 }
