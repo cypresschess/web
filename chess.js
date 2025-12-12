@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this reflective column, GM Jon Speelman examines sportsmanship and self-control at the highest level of competition. Drawing on recent examples from the FIDE World Cup and the Candidates Tournament, as well as personal experience, he contrasts online habits with over-the-board conduct under pressure. Speelman argues that blunders are part of chess, even for elite players, and that maintaining composure and dignity in public moments of success or failure remains an essential virtue of the game. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-234",
+         "pubDate" : "Fri, 12 Dec 2025 20:00:00",
+         "title" : "Jon Speelman: Grandmasters are not robots!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125937054.cms\" />A complaint has been filed with FIDE against Sarwagya Singh Kushwaha, the youngest FIDE-rated chess player. The complaint alleges unfair means were used to secure his rating. His father and coach dismiss the claims as factional politics. Kushwaha secured victories against higher-ranked players in recent tournaments. Concerns are raised about opponents being from the same academy and tournament irregularities.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/complaint-filed-against-indias-youngest-fide-rated-chess-player-father-defends-three-year-old-prodigy/articleshow/125937054.cms",
+         "pubDate" : "Fri, 12 Dec 2025 17:01:20",
+         "title" : "Complaint filed against India's youngest FIDE-Rated chess player"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125936726.cms\" />Indian Grandmaster R Praggnanandhaa views the upcoming Chess World Championship Tour as an opportunity for players, not a threat to the traditional World Championship. He believes the World Championship remains the ultimate priority, especially with the tour winner qualifying for the Candidates. Praggnanandhaa also highlighted the growing excitement and interest in chess across India.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-only-indian-to-qualify-for-candidates-2026-makes-honest-admission-about-new-total-chess-world-cship-tour/articleshow/125936726.cms",
+         "pubDate" : "Fri, 12 Dec 2025 16:33:10",
+         "title" : "Pragg makes honest admission about new Total Chess World C'ship Tour"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125936473.cms\" />The Global Chess League's third season kicks off in Mumbai with the American Gambits featuring Hikaru Nakamura as their Icon player. The team, boasting a strong lineup including World Rapid Champion Volodar Murzin, faces PBG Alaskan Knights in their opening match, a highly anticipated duel against World Champion Gukesh D.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -31,7 +55,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/the-rise-of-queen-from-ages-8-to-18-how-an-all-girl-team-is-bringing-free-chess-to-rural-india/articleshow/125932804.cms",
          "pubDate" : "Fri, 12 Dec 2025 11:54:00",
-         "title" : "From ages 8 to 18: How an all-girl team is taking free chess to rural India"
+         "title" : "Rise of 'Queen': From ages 8 to 18, how an all-girl team is taking free chess to rural India"
       },
       {
          "description" : "IOC Summit reconfirmed all its recommendations and restrictions for Russian and Belarusian players and teams over 18. Ahead of the upcoming FIDE General Assembly, and in response to press coverage regarding IOC recommendations for Russian and Belarusian athletes and teams, ECU wish to inform precisely its members: The 14th Olympic IOC Summit met on 11th December 2025 in Lausanne and updated its policy and recommendations regarding the Russian and Belarussian sports federations and athletes. The recommendations of the IOC are []",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-on-ioc-and-its-recommendations/",
          "pubDate" : "Fri, 12 Dec 2025 11:01:24",
          "title" : "ECU on IOC and its recommendations"
+      },
+      {
+         "description" : "Freestyle Friday of late has often been dominated by two young players, 19-year-old Indian GM Pranesh M and 15-year-old Iranian GM Sina Movahed, and December 12 was no different. Pranesh won this week&#39;s tournament on 9.5/11, defeating Movahed in a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pranesh-wins-freestyle-friday-december-12-2025",
+         "pubDate" : "Fri, 12 Dec 2025 10:54:11",
+         "title" : "Young Players Keep Crushing Freestyle Friday"
       },
       {
          "description" : "On behalf of All India Chess Federation , All Orissa Chess Association is organizing Senior National Arbiter Seminar &#38; exam at SOA Campus-2, Bhubaneswar,Odisha. Eligibility:Eligibility: Every affiliated",
@@ -770,14 +802,6 @@ news_feed (
          "title" : "Martinez Surges In December 2025 FIDE Ratings"
       },
       {
-         "description" : "GM Nodirbek Abdusattorov made it a magnificent five wins in a row at the London Chess Classic Elite Tournament after GM Sam Shankland went astray in a razor-sharp position. Abdusattorov now has a 1.5-point lead over GM Alireza Firouzja, who had to...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-6",
-         "pubDate" : "Tue, 02 Dec 2025 03:28:00",
-         "title" : "5th Straight Win Gives Abdusattorov 1.5-Point Lead Over Firouzja"
-      },
-      {
          "description" : "Editor's note, Dec. 3, 2025: The section on the TDAC (formerly TDCC) has been slightly revised on a technical level. What rules updates, changes, deletions, and additions can you expect starting in January of 2026? Fasten your seat belts, here we go. Delegate me this, Delegate me that:The Delegates only passed one rule improvement for 2026!The upgrade was so good it eliminated the need for the old rule's TD TIP. Just nine little words (in italics) made everything crystal clear in the Blitz rules:18. Subject to the right of appeal to US Chess, the decision of the chief tournament director is final.FYI, the old rule plus the gone-baby-gone TIP:Old Blitz Rule: 18. The decision of the tournament",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -954,28 +978,12 @@ news_feed (
          "title" : "Chess WC: Wei Yi holds Sindarov with black pieces; Esipenko wins"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125542456.cms\" />Young chess prodigy Bodhana Sivanandan, just ten years old, triumphed at the UK Open Blitz Championships, clinching the women's title and a &pound;500 prize. Her remarkable performance saw her score 13.5/15 points. Meanwhile, veteran Grandmaster Daniel Gormally secured the Open Blitz championship, earning &pound;1,000 with 11.5/15 points, narrowly edging out promising 16-year-old Stanley Badacsonyi.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/10-year-old-indian-origin-british-prodigy-bodhana-sivanandan-shocks-chess-world-wins-uk-womens-blitz-championship/articleshow/125542456.cms",
-         "pubDate" : "Mon, 24 Nov 2025 13:46:08",
-         "title" : "10-year-old Sivanandan wins UK Women's Blitz Championship"
-      },
-      {
          "description" : "The 9th edition of the European Small Nations Team Chess Championship took place from 15-22 November in Larnaca, Cyprus. After nine played rounds, two teams tied for the top scoring 16 match points each: Faroe Islands and Andorra. With the higher score of the game points, Faroe Islands emerged as the Winner of the event and clinched the title. Andorra claimed silver medal. Scoring 15 match points, Cyprus won bronze medal. The Closing Ceremony of the even took place with []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-small-nations-team-chess-champions-2025-crowned-in-cyprus/",
          "pubDate" : "Mon, 24 Nov 2025 10:31:09",
          "title" : "European Small Nations Team Chess Champions 2025 crowned in Cyprus"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125530030.cms\" />While 19-year-old Sindarov defeated childhood friend Yakubboev Nodirbek in an all-Uzbekistan semifinal by snatching an early lead, the battle between Russia No. 2 Andrey Esipenko and world rapid No. 4 Wei was a contest of blunders, won by the \"lucky\" Chinese GM.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/wei-yi-sindarov-javokhir-the-new-candidates/articleshow/125530030.cms",
-         "pubDate" : "Mon, 24 Nov 2025 02:45:22",
-         "title" : "Wei Yi, Sindarov Javokhir the new Candidates"
       },
       {
          "description" : "Ivan Sokolov's new course examines colour-reversed King's Indian and Pirc structures, showing how extra tempi influence typical plans and why these positions feel uncomfortable for humans but not for engines. He analyses key model games from Kramnik, Botvinnik, and Fischer, demonstrating that White usually gets a pleasant setup without a guaranteed advantage, leading to sharp, dynamic battles decided by understanding rather than theory. The course equips practical players, both with white and black, with clear ideas, typical patterns, and concrete plans for navigating these complex reversed-colour systems.",
@@ -1048,14 +1056,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/11/21/famu-fsu-tallahassee-chess-clash-a-first/",
          "pubDate" : "Sat, 22 Nov 2025 01:41:58",
          "title" : "FAMU-FSU Tallahassee chess clash&hellip; a first!"
-      },
-      {
-         "description" : "Friday's opening games of the FIDE World Cup semifinals offered balanced results but no shortage of depth. Both encounters were drawn, yet Wei Yi and Andrey Esipenko (pictured) produced an intricate tactical sequence, while Nodirbek Yakubboev and Javokhir Sindarov explored a queenless middlegame full of subtle decisions. With three Candidates spots at stake, every nuance now carries considerable weight as the matches head into their second classical games. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-r7g1",
-         "pubDate" : "Fri, 21 Nov 2025 20:10:00",
-         "title" : "World Cup SF: Two draws, no lack of tension"
       }
    ]
 }
