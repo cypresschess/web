@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fritz Your Chess Coach 2 lets you play chess at seven strength levels, from beginner to world class, including games against legendary players like Morphy, Fischer, and Karpov with authentic playing styles adapted to you. It actively coaches you during games with AI-powered move hints, text and audio explanations, witty commentary, and dedicated tactics training for checkmates and material gains. You can also play online via Playchess, train openings, customize 2D/3D boards, and track your progress through saved games and achievements.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fritz-your-chess-coach-2",
+         "pubDate" : "Sat, 13 Dec 2025 13:00:00",
+         "title" : "Fritz - Your Chess Coach 2"
+      },
+      {
          "description" : "ChessBase'26 is certainly the highlight of the new releases in November, but the other databases also offer a wealth of study material. There are many new options to discover, such as the new episodes of Karsten M&uuml;ller's Endgame Academy and Ivan Sokolov's middlegame strategy series that have helped a lot of players to improve. | All photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
