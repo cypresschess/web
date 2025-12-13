@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE and Norway Chess have confirmed the qualification routes for the Total Chess Tour 2026, the pilot event of a new world championship concept combining Fast Classic, Rapid and Blitz. The initiative, approved by FIDE, aims to identify the most versatile elite players and will lead into a full championship cycle from 2027. With places allocated through world titles, major championships and rating lists, the new Tour is set to add a distinctive pathway to the top level of competitive chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/total-chess-world-ch-2026-qualification-pathways",
+         "pubDate" : "Sat, 13 Dec 2025 18:00:00",
+         "title" : "Total Chess World Championship: Qualification pathways announced"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125951351.cms\" />The Global Chess League Season 3 has begun in Mumbai. Six teams will compete in 34 matches. Prominent chess players are participating. The league aims to popularize chess for a new generation. Spectators can enjoy an enhanced experience. Indian viewers can watch on JioStar. The tournament features elite competition in an exciting format.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-grew-up-without-increments-vishwanathan-anand-praises-global-chess-leagues-newest-addition-as-season-3-set-to-kick-off/articleshow/125951351.cms",
+         "pubDate" : "Sat, 13 Dec 2025 16:31:47",
+         "title" : "'I grew up without increments': Anand praises GCL's newest addition"
+      },
+      {
          "description" : "It is fascinating how principles that apply to chess improvement show up everyhwere in life. Past Sunday I played football with a friend group and realized just how much one single skill makes a huge difference. It is not how hard you shoot, how many players you can dribble or even how well you pass []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/review-all-new-releases-in-november",
          "pubDate" : "Sat, 13 Dec 2025 07:00:00",
          "title" : "Review: All new releases in November!"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> All photos by Hiedi Bulkley.<br> <br> <br> <br> The first two rounds of the 2025 National K-12 Grade Championships are in the books. Over 1,350 players across 13 grade levels competed in Spokane, WA on Friday, and now they're gearing up for the grueling triple-round day beginning at 9 a.m. PST (and 9:30 for grades K-1: see full schedule). Follow the action live on the US Chess Twitch channel with WGM Sabina Foisor (see full streaming schedule). <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/national-k-12-grade-championships-underway-spokane",
+         "pubDate" : "Sat, 13 Dec 2025 00:00:00",
+         "title" : "National K-12 Grade Championships Underway in Spokane"
       },
       {
          "description" : "In this reflective column, GM Jon Speelman examines sportsmanship and self-control at the highest level of competition. Drawing on recent examples from the FIDE World Cup and the Candidates Tournament, as well as personal experience, he contrasts online habits with over-the-board conduct under pressure. Speelman argues that blunders are part of chess, even for elite players, and that maintaining composure and dignity in public moments of success or failure remains an essential virtue of the game. | Photo: FIDE / Michal Walusza",
@@ -842,14 +866,6 @@ news_feed (
          "title" : "Just the Rules: January's Rulebook Updates 2026"
       },
       {
-         "description" : "Today's puzzles come from the just-concluded U.S. Masters, organized and run by Charlotte Chess Center. Keep an eye out later this week for a Thanksgiving Weekend Wrap-Up featuring results from Charlotte and many other tournaments. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-us-masters",
-         "pubDate" : "Tue, 02 Dec 2025 00:00:00",
-         "title" : "Tactics Tuesday: U.S. Masters"
-      },
-      {
          "description" : "India Registers a Dominant Performance with 49 Medals at the Asian Youth Chess Championship AICF congratulates all players, coaches, and parents for an exceptional all-format",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -994,14 +1010,6 @@ news_feed (
          "title" : "European Amateur Chess Championship 2025 starts in Malta"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125544293.cms\" />Wei Yi drew his first FIDE World Cup final game against Javokhir Sindarov. Wei Yi played with black pieces and secured a draw. Andrey Esipenko won the third-place match against Nodirbek Yakubboev. Esipenko's victory puts him in a strong position for the Candidates tournament. The FIDE World Cup 2025 final continues.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-2025-wei-yi-holds-javokhir-sindarov-with-black-pieces-andrey-esipenko-beats-nodirbek-yakubboev-in-third-place-match/articleshow/125544293.cms",
-         "pubDate" : "Mon, 24 Nov 2025 16:26:30",
-         "title" : "Chess WC: Wei Yi holds Sindarov with black pieces; Esipenko wins"
-      },
-      {
          "description" : "The 9th edition of the European Small Nations Team Chess Championship took place from 15-22 November in Larnaca, Cyprus. After nine played rounds, two teams tied for the top scoring 16 match points each: Faroe Islands and Andorra. With the higher score of the game points, Faroe Islands emerged as the Winner of the event and clinched the title. Andorra claimed silver medal. Scoring 15 match points, Cyprus won bronze medal. The Closing Ceremony of the even took place with []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1040,14 +1048,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/review-all-new-releases-in-october",
          "pubDate" : "Sun, 23 Nov 2025 07:00:00",
          "title" : "Review: All new releases in October!"
-      },
-      {
-         "description" : "Svitlana dedicates the episode to the memory of Daniel \"Danya\" Naroditsky, whose impact as a player, coach, and communicator reached far beyond the chessboard. She explores one of his favourite ideas in the Four Knights Opening - the powerful Nd5!, a move Danya loved to highlight for its elegance and instructional value. This episode blends clear educational insight with a heartfelt tribute, showing how Danya's creative spirit continues to inspire players through the ideas he championed.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-in-memory-of-danya",
-         "pubDate" : "Sat, 22 Nov 2025 20:00:00",
-         "title" : "Svitlana's Smart Moves - In memory of Danya"
       }
    ]
 }
