@@ -114,6 +114,14 @@ news_feed (
          "title" : "Aronian beats Carlsen, wins Freestyle Chess Grand Slam Final"
       },
       {
+         "description" : "Thursday saw 247 blitzers, 42 teams of bughousers, and 130 puzzle solvers enjoy an early start to the weekend's festivities in Spokane, WA. Let's take a look at Thursday's winners before previewing the main event, which begins today at 1:00 p.m. PST (and 1:30 p.m. PST for grades K-1) with coverage from WGM Sabina Foisor on our Twitch channel. Bughouse ChampionshipTeam Texas won the K-12 Bughouse Championship with CM Logan Shafer and FM Vaseegaran Nandhakumar cruising to a perfect 12/12 score. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Scenes from the Bughou",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/hundreds-head-spokane-early-k-12-grade-championships-side-events",
+         "pubDate" : "Fri, 12 Dec 2025 00:00:00",
+         "title" : "Hundreds Head to Spokane Early For K-12 Grade Championships Side Events"
+      },
+      {
          "description" : "11 December 2025 marks the 120th anniversary of Ludwig Engels's birthday. He was one of the best German chess players in the 1930s. Following the 1939 Chess Olympiad, he, like many others, remained in South America due to the outbreak of the Second World War and settled in Brazil. At the height of his career, Engels defeated renowned players such as Alekhine, Bogoljubow, Keres and Maroczy. | Photo source: Friedrich-Karl Hebeker",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -832,14 +840,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-blitz-chess-champions-2025-crowned-in-kosovo/",
          "pubDate" : "Mon, 01 Dec 2025 00:44:35",
          "title" : "European Rapid & Blitz Chess Champions 2025 crowned"
-      },
-      {
-         "description" : "December means it's time for the annual Miniatures Issue. Games containing 25 or fewer moves are presented. Some games may contain variations that extend past the 25-move limitation; however, the main line moves of the game will have no more than 25. Other specific requirements: games have no fewer than 19 moves, and were posted to the ICCF archives this year.Since the games are all miniatures, I doubled the number of games and puzzles typically provided for an issue of Check is in the Mail.Also in this issue are two additional games that were played by the co-author of Check is in the Mail. Michael D. Buss always provides the content for the Front Office section. I added two games to the en",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-december-2025-return-mini",
-         "pubDate" : "Mon, 01 Dec 2025 00:00:00",
-         "title" : "Check is in the Mail, December 2025: Return of the Mini!"
       },
       {
          "description" : " Nodirbek Abdusattorov has started quickly to lead the London Chess Classic alone after four rounds. All the games were drawn in the first round, since then he has beaten Abhimanyu Mishra, Nikita Vitiugov and Michael Adams. Abdusattorov's win against Vitiugov is particularly interesting, as black Abdusattorov gradually took over the position but still had to be precise until the very end. Notes below. Close on Abdusattorov's heals is Alireza Firouzja who has wins against Luke McShane and Pavel Eljanov. Nikolas Theodorou is the only other player on a plus score with three draws and a win against Gawain Maroroa Jones. ",
