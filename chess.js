@@ -10,6 +10,22 @@ news_feed (
          "title" : "Jon Speelman: Grandmasters are not robots!"
       },
       {
+         "description" : "IM Renato Terry won yet another 3 0 Thursday tournament on December 11, his fourth consecutive week winning one of the three tournaments. Terry&#39;s success came in the third event of the day, following victories by GMs Sina Movahed and Jose Martinez...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/movahed-martinez-terry-3-0-thursday-12-11-2025",
+         "pubDate" : "Fri, 12 Dec 2025 18:43:00",
+         "title" : "Terry Takes 3 0 Thursday For 4th Straight Week; Movahed, Martinez Also Victorious"
+      },
+      {
+         "description" : "FM Tymur Keleberda was crowned the 2025 Chess.com Fog Of War champion after defeating IM Nhat Minh To in a tense Grand Final and subsequent Grand Final in the last event of the Community Championship Series for the year. Keleberda&#39;s event was ne...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fog-of-war-championship-keleberda-wins",
+         "pubDate" : "Fri, 12 Dec 2025 17:59:00",
+         "title" : "Keleberda Wins Fog Of War Championship In Grand Final Reset"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125937054.cms\" />A complaint has been filed with FIDE against Sarwagya Singh Kushwaha, the youngest FIDE-rated chess player. The complaint alleges unfair means were used to secure his rating. His father and coach dismiss the claims as factional politics. Kushwaha secured victories against higher-ranked players in recent tournaments. Concerns are raised about opponents being from the same academy and tournament irregularities.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -786,28 +802,12 @@ news_feed (
          "title" : "Certificate of National Under 15 Chess Championship 2025 held in Ghaziabad from 02-10 Nov 2025"
       },
       {
-         "description" : "We&#39;re excited to announce the final event of this year&#39;s Chess.com Community Championships, the Chess.com Fog of War Chess Championship! The event starts on December 11 and features a $2,500 prize fund.&#38;nbsp; Fog of War chess is not a variant fo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-fog-of-war-chess-championship-2025",
-         "pubDate" : "Tue, 02 Dec 2025 08:00:00",
-         "title" : "Chess.com Fog Of War Chess Championship Starts December 11"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125713043.cms\" />Bibisara Assaubayeva, who will represent American Gambits in the upcoming GCL season, expressed immense pride in Uzbekistan's 19-year-old Javokhir Sindarov after he made chess history by becoming the youngest FIDE World Cup champion and earning a place in the 2026 Candidates Tournament. Assaubayeva, a two-time World Blitz Champion, now aims to qualify for the Women's Candidates next year.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-after-javokhir-sindarovs-world-cup-glory-closest-friend-bibisara-assaubayeva-reveals-her-own-unfinished-task/articleshow/125713043.cms",
          "pubDate" : "Tue, 02 Dec 2025 07:52:22",
          "title" : "After Sindarov's WC glory, 'closest friend' Assaubayeva reveals her 'unfinished task'"
-      },
-      {
-         "description" : "The FIDE World Cup dominated chess headlines in November, leading to several changes in the December 2025 FIDE rating list. No one benefited more than quarterfinalist GM Jose Martinez, known primarily for his Titled Tuesday and other online blitz ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/december-2025-fide-ratings",
-         "pubDate" : "Tue, 02 Dec 2025 04:08:49",
-         "title" : "Martinez Surges In December 2025 FIDE Ratings"
       },
       {
          "description" : "Editor's note, Dec. 3, 2025: The section on the TDAC (formerly TDCC) has been slightly revised on a technical level. What rules updates, changes, deletions, and additions can you expect starting in January of 2026? Fasten your seat belts, here we go. Delegate me this, Delegate me that:The Delegates only passed one rule improvement for 2026!The upgrade was so good it eliminated the need for the old rule's TD TIP. Just nine little words (in italics) made everything crystal clear in the Blitz rules:18. Subject to the right of appeal to US Chess, the decision of the chief tournament director is final.FYI, the old rule plus the gone-baby-gone TIP:Old Blitz Rule: 18. The decision of the tournament",
@@ -1048,14 +1048,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/review-60-minutes-against-the-french",
          "pubDate" : "Sat, 22 Nov 2025 07:00:00",
          "title" : "Review: 60 minutes against the French"
-      },
-      {
-         "description" : " Florida A&#38;M (FAMU) and Florida State (FSU) share the capital city of Tallahassee and have proud traditions, including football. While there is a natural barrier of the railroad tracks, the campuses are literally walking distance from each other. The two campuses share many things, including an engineering program, but lately they have also developed a The post <a href=\"https://thechessdrum.net/blog/2025/11/21/famu-fsu-tallahassee-chess-clash-a-first/\">FAMU-FSU Tallahassee chess clash a first!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/11/21/famu-fsu-tallahassee-chess-clash-a-first/",
-         "pubDate" : "Sat, 22 Nov 2025 01:41:58",
-         "title" : "FAMU-FSU Tallahassee chess clash&hellip; a first!"
       }
    ]
 }
