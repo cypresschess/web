@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase'26 is certainly the highlight of the new releases in November, but the other databases also offer a wealth of study material. There are many new options to discover, such as the new episodes of Karsten M&uuml;ller's Endgame Academy and Ivan Sokolov's middlegame strategy series that have helped a lot of players to improve. | All photos: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-november",
+         "pubDate" : "Sat, 13 Dec 2025 07:00:00",
+         "title" : "Review: All new releases in November!"
+      },
+      {
          "description" : "In this reflective column, GM Jon Speelman examines sportsmanship and self-control at the highest level of competition. Drawing on recent examples from the FIDE World Cup and the Candidates Tournament, as well as personal experience, he contrasts online habits with over-the-board conduct under pressure. Speelman argues that blunders are part of chess, even for elite players, and that maintaining composure and dignity in public moments of success or failure remains an essential virtue of the game. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1040,14 +1048,6 @@ news_feed (
          "link" : "https://www.thearticle.com/self-mate-suicide-in-chess/",
          "pubDate" : "Sat, 22 Nov 2025 12:59:36",
          "title" : "Self-mate: suicide in chess"
-      },
-      {
-         "description" : "The concept behind Chessbase's \"60-minute\" courses is simple: a one-hour video course for just under 10 Euros. There are also courses on middle game and endgame topics, but most courses focus on quite \"specialised\" opening variations. In the second instalment of a short series, Jochen Schwarz presents the most important 60-minute courses for 1.e4 players against the French Defence.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-60-minutes-against-the-french",
-         "pubDate" : "Sat, 22 Nov 2025 07:00:00",
-         "title" : "Review: 60 minutes against the French"
       }
    ]
 }
