@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It is fascinating how principles that apply to chess improvement show up everyhwere in life. Past Sunday I played football with a friend group and realized just how much one single skill makes a huge difference. It is not how hard you shoot, how many players you can dribble or even how well you pass []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/recovering-from-chess-mistakes/",
+         "pubDate" : "Sat, 13 Dec 2025 14:00:00",
+         "title" : "Make A Mistake? Do This."
+      },
+      {
          "description" : "Fritz Your Chess Coach 2 lets you play chess at seven strength levels, from beginner to world class, including games against legendary players like Morphy, Fischer, and Karpov with authentic playing styles adapted to you. It actively coaches you during games with AI-powered move hints, text and audio explanations, witty commentary, and dedicated tactics training for checkmates and material gains. You can also play online via Playchess, train openings, customize 2D/3D boards, and track your progress through saved games and achievements.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1040,22 +1048,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-in-memory-of-danya",
          "pubDate" : "Sat, 22 Nov 2025 20:00:00",
          "title" : "Svitlana's Smart Moves - In memory of Danya"
-      },
-      {
-         "description" : "A lot of improvers struggle with a unhealthy relationship to ratings. So would all be better if there were no ratings at all? I'd argue no. In this Newsletter I want to share the positive side of ratings and why only our interpretation makes them toxic. A World Without Ratings If you struggle with rating []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/chess-rating-mindset/",
-         "pubDate" : "Sat, 22 Nov 2025 14:00:00",
-         "title" : "Ratings Are Great (Only our interpretation not)"
-      },
-      {
-         "description" : "I have no doubt that the spread of chess, especially among the young, performs wonders for the mind. The game disciplines thought, sharpens the power of concentration, and strengthens the faculty of logical reasoning, not least in mathematics. When I was at Trinity College, Cambridge, sharing lodgings for a year with the future King Charles []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/self-mate-suicide-in-chess/",
-         "pubDate" : "Sat, 22 Nov 2025 12:59:36",
-         "title" : "Self-mate: suicide in chess"
       }
    ]
 }
