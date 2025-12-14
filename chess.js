@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Available now, but only until 24 December: The bundle for winners: ChessBase'26 & Fritz 20 in a Christmas bundle. Instead of 268.80 €, only 229.90 €. Extend your chess horizons with ChessBase'26 and train intelligently with Fritz 20! Get yours now!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christmas-offer-chessbase-26-plus-fritz20-the-winning-bundle",
+         "pubDate" : "Sun, 14 Dec 2025 13:00:00",
+         "title" : "Christmas offer: ChessBase'26 plus Fritz 20 - the winning bundle!"
+      },
+      {
+         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure with fixed lineups, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.30 CET (6.30 ET, 17.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
+         "pubDate" : "Sun, 14 Dec 2025 12:30:00",
+         "title" : "Global Chess League - Live!"
+      },
+      {
          "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players in the same teams. Featuring a $1,000,000 prize fund and a joint team structure with fixed lineups, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
