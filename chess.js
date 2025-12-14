@@ -18,6 +18,14 @@ news_feed (
          "title" : "Total Chess World Championship: Qualification pathways announced"
       },
       {
+         "description" : "GM Ediz Gurel added an eighth Bullet Brawl title to his ever-growing trophy cabinet on Saturday after piecing together a performance that saw him take the two-hour titled arena by a margin of 12 points. The Turkish phenom suffered only minor hiccu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-dec-13-2025",
+         "pubDate" : "Sat, 13 Dec 2025 16:41:00",
+         "title" : "World Rapid & Blitz-Bound Gurel Dominates Bullet Brawl Again"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125951351.cms\" />The Global Chess League Season 3 has begun in Mumbai. Six teams will compete in 34 matches. Prominent chess players are participating. The league aims to popularize chess for a new generation. Spectators can enjoy an enhanced experience. Indian viewers can watch on JioStar. The tournament features elite competition in an exciting format.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-extends-his-winning-streak-to-5-games-in-london",
          "pubDate" : "Tue, 2 Dec 2025 13:20:00",
          "title" : "Abdusattorov extends his winning streak to 5 games in London - 5-6"
-      },
-      {
-         "description" : "GM Magnus Carlsen won his second Titled Tuesday in four weeks on December 2, needing only 9.5 points to take the tournament without even needing tiebreaks. He caught and passed GM Sina Movahed in the 11th round, and clinched the outright win when ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-december-2-2025",
-         "pubDate" : "Tue, 02 Dec 2025 12:25:00",
-         "title" : "Carlsen Wins Tuesday Nailbiter"
       },
       {
          "description" : "Ed Schr&ouml;der is a pioneer in chess programming. In the 1990s his program Rebel won a number of World Championships in computer chess, and always had a special place in the community, due to its playing style. In 2003 he retired from competitive computer chess, only releasing freeware versions of Rebel. Now Ed has come out of retirement and is undertaking some interesting new projects - like extracting the most interesting games from historical databases. And he is sharing them with us.",
