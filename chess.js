@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125963044.cms\" />Mumba Masters dominated Ganges Grandmasters with a 17-4 win. Defending champions Triveni Continental Kings started their title defence with a 9-7 victory over SG Pipers. Alireza Firouzja won a key match for the Kings. The Global Chess League Season 3 has begun with exciting clashes and strong performances from top players. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-2025-d-gukesh-vs-hikaru-nakamura-ends-in-draw-triveni-continental-kings-begin-title-defence-with-a-win/articleshow/125963044.cms",
+         "pubDate" : "Sun, 14 Dec 2025 16:27:19",
+         "title" : "GCL: Gukesh vs Hikaru ends in draw; TCK begin title defence with a win"
+      },
+      {
          "description" : "There are moments in the world of chess when one cannot help sensing a faint whiff of desperation-an anxious rustling among those determined to preserve Magnus Carlsen's reputation as the game's supreme being, yet without the inconvenience of his actually contesting world championships again. His admirers, indefatigable in their devotion, seem ready to clutch at []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/clutching-at-straws/",
          "pubDate" : "Sun, 14 Dec 2025 15:46:10",
          "title" : "Clutching at straws"
-      },
-      {
-         "description" : "Round six of the Magistral Szmetan-Giardelli featured three decisive games and several notable results. Aryan Tari and Ivan Cheparinov both scored full points to reach 4&frac12; points, while 14-year-old Ilan Schnaider (pictured) claimed a swift victory over Julio Granda for his second win of the tournament. The round also included two draws, leaving Faustino Oro and Alexei Shirov a half point behind the co-leaders with three rounds to play. | Photo: Infobae",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magistral-szmetan-giardelli-r6",
-         "pubDate" : "Sun, 14 Dec 2025 14:00:00",
-         "title" : "Magistral Szmetan-Giardelli: Tari and Cheparinov share the lead, Schnaider beats Granda"
       },
       {
          "description" : "Available now, but only until 24 December: The bundle for winners: ChessBase'26 & Fritz 20 in a Christmas bundle. Instead of 268.80 €, only 229.90 €. Extend your chess horizons with ChessBase'26 and train intelligently with Fritz 20! Get yours now!",
@@ -34,12 +34,12 @@ news_feed (
          "title" : "Global Chess League - Live!"
       },
       {
-         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players in the same teams. Featuring a $1,000,000 prize fund and a joint team structure with fixed lineups, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-preview",
-         "pubDate" : "Sun, 14 Dec 2025 07:45:00",
-         "title" : "Third season of Global Chess League set to kick off with star-studded field"
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> All photos by Hiedi Bulkley.<br> <br> <br> <br> It all comes down to Sunday. After three grueling rounds on Saturday, the stakes are high for the final two rounds of the 2025 National K-12 Grade Championships in Spokane, WA.After a number of upsets on Saturday, most sections have only one or two players at the top of the standings with large groups of players in the chasing pack, so anything can happen. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/triple-round-day-books-national-k-12-grade-championships",
+         "pubDate" : "Sun, 14 Dec 2025 00:00:00",
+         "title" : "Triple Round Day in the Books at National K-12 Grade Championships"
       },
       {
          "description" : "GM Ediz Gurel added an eighth Bullet Brawl title to his ever-growing trophy cabinet on Saturday after piecing together a performance that saw him take the two-hour titled arena by a margin of 12 points. The Turkish phenom suffered only minor hiccu...",
@@ -618,14 +618,6 @@ news_feed (
          "title" : "Abdusattorov Rampage Continues, Praggnanandhaa Leads Open"
       },
       {
-         "description" : "Today's puzzles come from the just-concluded U.S. Masters, organized and run by Charlotte Chess Center. Keep an eye out later this week for a Thanksgiving Weekend Wrap-Up featuring results from Charlotte and many other tournaments. Plus: check out even more puzzles from this event in yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-us-masters",
-         "pubDate" : "Wed, 03 Dec 2025 00:00:00",
-         "title" : "Wednesday Workout: U.S. Masters"
-      },
-      {
          "description" : "Today was the first day of something you thought you&#39;d never see. When watching PogChamps, one might expect Botez Gambits, stalemates, and generally the worst chess you&#39;ve ever seen when tens of thousands of dollars are on the line. That was not...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -754,14 +746,6 @@ news_feed (
          "title" : "Chess: Sindarov, 19, becomes youngest World Cup winner as London Classic begins"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125610689.cms\" />Uzbekistan's Javokhir Sindarov, a 19-year-old, became the youngest World Cup winner, securing a spot in the 2026 Candidates. India, hosting the event after 23 years, saw its 24 players fail to reach the top three qualifying spots. The article explores the knockout format's challenges, home advantage pressures, and the impact of chess engines on creativity.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-multi-layered-problem-why-no-indians-qualified-for-2026-candidates-via-chess-world-cup-in-goa/articleshow/125610689.cms",
-         "pubDate" : "Thu, 27 Nov 2025 23:30:00",
-         "title" : "Multi-layered problem: Why no Indians made Candidates 2026 via Goa WC"
-      },
-      {
          "description" : "As chess players occasionally do, Alex Fishbein, the U.S. grandmaster, was recently looking at a classic game from the past: Viktor Kortschnoj's victory over Anatoly Karpov in the 21st game of their 1978 match. Something was wrong. Charles Sullivan had done some intense research on this volatile encounter and asks for your assessment on the results he presents.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -816,14 +800,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-small-nations-team-chess-champions-2025-crowned-in-cyprus/",
          "pubDate" : "Mon, 24 Nov 2025 10:31:09",
          "title" : "European Small Nations Team Chess Champions 2025 crowned in Cyprus"
-      },
-      {
-         "description" : "Ivan Sokolov's new course examines colour-reversed King's Indian and Pirc structures, showing how extra tempi influence typical plans and why these positions feel uncomfortable for humans but not for engines. He analyses key model games from Kramnik, Botvinnik, and Fischer, demonstrating that White usually gets a pleasant setup without a guaranteed advantage, leading to sharp, dynamic battles decided by understanding rather than theory. The course equips practical players, both with white and black, with clear ideas, typical patterns, and concrete plans for navigating these complex reversed-colour systems.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategy-vol-12-reversed-colour-systems-king-s-indian-pirc-defence",
-         "pubDate" : "Sun, 23 Nov 2025 20:00:00",
-         "title" : "Ivan Sokolov: Understanding Middlegame Strategy Vol 12: Reversed Colour Systems - King's Indian/Pirc Defence"
       }
    ]
 }
