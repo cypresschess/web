@@ -2,20 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Nihal Sarin claimed a convincing victory at the Masters Tournament at the 4th President Cup in Tashkent, finishing on 7/9 and securing first place with a round to spare. A final-round win underlined his dominance, as he ended two points clear of the field. The tournament continued Nihal's strong run in Uzbekistan and brought a notable rating gain, as he concluded the event with a sensational 2836 TPR. | Photo: Uzbek Chess Federation",
+         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players in the same teams. Featuring a $1,000,000 prize fund and a joint team structure with fixed lineups, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/president-cup-2025-9",
-         "pubDate" : "Sat, 13 Dec 2025 22:05:00",
-         "title" : "Nihal Sarin wins President Cup in Tashkent for a second year in a row"
-      },
-      {
-         "description" : "FIDE and Norway Chess have confirmed the qualification routes for the Total Chess Tour 2026, the pilot event of a new world championship concept combining Fast Classic, Rapid and Blitz. The initiative, approved by FIDE, aims to identify the most versatile elite players and will lead into a full championship cycle from 2027. With places allocated through world titles, major championships and rating lists, the new Tour is set to add a distinctive pathway to the top level of competitive chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/total-chess-world-ch-2026-qualification-pathways",
-         "pubDate" : "Sat, 13 Dec 2025 18:00:00",
-         "title" : "Total Chess World Championship: Qualification pathways announced"
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-preview",
+         "pubDate" : "Sun, 14 Dec 2025 07:45:00",
+         "title" : "Third season of Global Chess League set to kick off with star-studded field"
       },
       {
          "description" : "GM Ediz Gurel added an eighth Bullet Brawl title to his ever-growing trophy cabinet on Saturday after piecing together a performance that saw him take the two-hour titled arena by a margin of 12 points. The Turkish phenom suffered only minor hiccu...",
@@ -42,22 +34,6 @@ news_feed (
          "title" : "Make A Mistake? Do This."
       },
       {
-         "description" : "Fritz Your Chess Coach 2 lets you play chess at seven strength levels, from beginner to world class, including games against legendary players like Morphy, Fischer, and Karpov with authentic playing styles adapted to you. It actively coaches you during games with AI-powered move hints, text and audio explanations, witty commentary, and dedicated tactics training for checkmates and material gains. You can also play online via Playchess, train openings, customize 2D/3D boards, and track your progress through saved games and achievements.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fritz-your-chess-coach-2",
-         "pubDate" : "Sat, 13 Dec 2025 13:00:00",
-         "title" : "Fritz - Your Chess Coach 2"
-      },
-      {
-         "description" : "ChessBase'26 is certainly the highlight of the new releases in November, but the other databases also offer a wealth of study material. There are many new options to discover, such as the new episodes of Karsten M&uuml;ller's Endgame Academy and Ivan Sokolov's middlegame strategy series that have helped a lot of players to improve. | All photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-november",
-         "pubDate" : "Sat, 13 Dec 2025 07:00:00",
-         "title" : "Review: All new releases in November!"
-      },
-      {
          "description" : "The United States Chess Federation is pleased to announce the 2026 All-America Chess Team. Team members will receive team jackets and plaques by mail.The All-America Chess Team was created in 1987 to honor the very best players ages 18 and under. The team, one of the highest national honors attainable by a young chess player, is selected on the basis of age, rating, and chess activity during that year, similar to the selection process of \"all conference\" sports teams. This year's candidates were selected based on their age as of January 1, 2025, and their peak post-tournament rating from July 1, 2024 through June 30, 2025. Since this award is a \"post-season\" selection, the minimum rating lim",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -72,14 +48,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/national-k-12-grade-championships-underway-spokane",
          "pubDate" : "Sat, 13 Dec 2025 00:00:00",
          "title" : "National K-12 Grade Championships Underway in Spokane"
-      },
-      {
-         "description" : "In this reflective column, GM Jon Speelman examines sportsmanship and self-control at the highest level of competition. Drawing on recent examples from the FIDE World Cup and the Candidates Tournament, as well as personal experience, he contrasts online habits with over-the-board conduct under pressure. Speelman argues that blunders are part of chess, even for elite players, and that maintaining composure and dignity in public moments of success or failure remains an essential virtue of the game. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-234",
-         "pubDate" : "Fri, 12 Dec 2025 20:00:00",
-         "title" : "Jon Speelman: Grandmasters are not robots!"
       },
       {
          "description" : "IM Renato Terry won yet another 3 0 Thursday tournament on December 11, his fourth consecutive week winning one of the three tournaments. Terry&#39;s success came in the third event of the day, following victories by GMs Sina Movahed and Jose Martinez...",
@@ -162,14 +130,6 @@ news_feed (
          "title" : "Global Chess League returns for blockbuster season 3 with Gukesh, Vishy, Hikaru starring"
       },
       {
-         "description" : "In a recent \"Ask Me Anything\" session organised by FIDE, Hou Yifan addressed a wide range of questions from chess fans, touching on her competitive career, views on elite play and her current relationship with the game. The discussion also covered her academic path, advice for younger players and her approach to balancing chess with other pursuits. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ask-me-anything-hou-yifan",
-         "pubDate" : "Fri, 12 Dec 2025 08:30:00",
-         "title" : "Q&A with Hou Yifan: \"I am quite happy with my current situation\""
-      },
-      {
          "description" : " Norway's world No 1, 35, lost 0.5-1.5 to the US veteran Levon Aronian, 43, in Cape Town but was already sure of overall victory and a prize of around $500k Norway's world No 1, Magnus Carlsen, was shocked by a 0.5-1.5 loss to the US veteran Levon Aronian in Thursday's final of the Freestyle Grand Slam Tour in Cape Town, but still finished the overall winner of the five-event Tour. Freestyle chess is also known as Fischer Random and Chess 960. Pieces start randomly placed on the two back rows, thus drastically limiting opening preparation. Its 2025 season, with a Tour financed mainly by a $12m investment from the venture firm Left Lane Capital, has featured tournaments in Weissenhaus, Karlsr",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -178,28 +138,12 @@ news_feed (
          "title" : "Chess: Magnus Carlsen wins Freestyle Tour title despite defeat in final event"
       },
       {
-         "description" : "Levon Aronian won the Freestyle Chess Grand Slam Finals in South Africa after defeating Magnus Carlsen in a controlled 1&frac12;-&frac12; match, securing the event's $200,000 top prize. The final brought the four-day competition to a close, with Vincent Keymer taking third place against Javokhir Sindarov. Further down the table, Fabiano Caruana beat Arjun Erigaisi to finish fifth, while Hans Niemann prevailed over Parham Maghsoodloo in the match for seventh place. | Pictured: Levon Aronian with wife Anita Ayvazyan and their daughter | Photo: Freestyle Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-finals-d4",
-         "pubDate" : "Fri, 12 Dec 2025 00:40:00",
-         "title" : "Aronian beats Carlsen, wins Freestyle Chess Grand Slam Final"
-      },
-      {
          "description" : "Thursday saw 247 blitzers, 42 teams of bughousers, and 130 puzzle solvers enjoy an early start to the weekend's festivities in Spokane, WA. Let's take a look at Thursday's winners before previewing the main event, which begins today at 1:00 p.m. PST (and 1:30 p.m. PST for grades K-1) with coverage from WGM Sabina Foisor on our Twitch channel. Bughouse ChampionshipTeam Texas won the K-12 Bughouse Championship with CM Logan Shafer and FM Vaseegaran Nandhakumar cruising to a perfect 12/12 score. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Scenes from the Bughou",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/hundreds-head-spokane-early-k-12-grade-championships-side-events",
          "pubDate" : "Fri, 12 Dec 2025 00:00:00",
          "title" : "Hundreds Head to Spokane Early For K-12 Grade Championships Side Events"
-      },
-      {
-         "description" : "11 December 2025 marks the 120th anniversary of Ludwig Engels's birthday. He was one of the best German chess players in the 1930s. Following the 1939 Chess Olympiad, he, like many others, remained in South America due to the outbreak of the Second World War and settled in Brazil. At the height of his career, Engels defeated renowned players such as Alekhine, Bogoljubow, Keres and Maroczy. | Photo source: Friedrich-Karl Hebeker",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/who-was-ludwig-engels",
-         "pubDate" : "Thu, 11 Dec 2025 19:00:00",
-         "title" : "Who was Ludwig Engels?"
       },
       {
          "description" : " The 11th Vugar Gashimov Memorial took place in Stepanakert Tue 9th Dec to Thu 11th Dec 2025. There were two days of rapid and one day of blitz. Players: Nepomniachtchi, Fedoseev, Mamedov, Tabatabaei, Yakubboev and Suleymanli. Ian Nepomniachtchi won the rapid by half a point from Vladimir Fedoseev, the result was reversed for the blitz. The first tie-break was individual results between the players and Nepomniachtchi won one and drew one against Fedoseev in each part so won the tournament.",
@@ -248,14 +192,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/aronian-wins-2025-freestyle-chess-grand-slam-south-africa",
          "pubDate" : "Thu, 11 Dec 2025 07:29:00",
          "title" : "Aronian Wins Freestyle Chess Grand Slam In South Africa"
-      },
-      {
-         "description" : "Day three of the Freestyle Chess Grand Slam Finals in South Africa clarified the lineup for Thursday's concluding matches. Magnus Carlsen and Levon Aronian advanced to the championship decider after winning their respective semifinals, while Javokhir Sindarov and Vincent Keymer will contest third place. In the lower bracket, Fabiano Caruana and Arjun Erigaisi secured victories to reach the fifth-place match, leaving Hans Niemann and Parham Maghsoodloo to compete for seventh. | Photo: Freestyle Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-finals-d3",
-         "pubDate" : "Thu, 11 Dec 2025 00:35:00",
-         "title" : "Freestyle Chess South Africa: Carlsen and Aronian reach the final"
       },
       {
          "description" : "GMs Magnus Carlsen and Levon Aronian will contest the title match of the 2025 Freestyle Chess Grand Slam Finals, where first place comes with $200,000. Carlsen won a close semifinal match against GM Javokhir Sindarov, who won on demand once and ne...",
@@ -872,14 +808,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-live",
          "pubDate" : "Sun, 23 Nov 2025 13:20:00",
          "title" : "World Women's Team Championship - Live!"
-      },
-      {
-         "description" : "ChessBase's October releases cover everything from chess history to opening repertoire and calculation training. In episode 19 of the Master Class series, the expert team of Dorian Rogozenco, Karsten M&uuml;ller, Mihail Marin and Oliver Reeh presents the first World Champion, Wilhelm Steinitz. Robert Ris' new opening course also reaches back to that era, as the opening he examines in depth is named after two classical masters: the Colle & Zukertort System. And who doesn't enjoy looking into the thought processes of grandmasters and world-class trainers? Discover calculation techniques at the highest level - Surya Ganguly's \"Calculation Step by Step\" is sure to climb the ChessBase bestseller ",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-october",
-         "pubDate" : "Sun, 23 Nov 2025 07:00:00",
-         "title" : "Review: All new releases in October!"
       }
    ]
 }
