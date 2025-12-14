@@ -1,4 +1,6 @@
 jtable([
+"PASADENA","2025-12-12","22","<a href=https://ratings.uschess.org/event/202512120243 target='_blank'>Checkmates on Fairmont</a>",
+"SUGAR LAND","2025-12-12","14","<a href=https://ratings.uschess.org/event/202512120153 target='_blank'>FBCC 2025 International Pho Day Open</a>",
 "HOUSTON","2025-12-10","2","<a href=https://ratings.uschess.org/event/202512100183 target='_blank'>AW v JMcD</a>",
 "HOUSTON","2025-12-07","13","<a href=https://ratings.uschess.org/event/202512070363 target='_blank'>Bellaire Sunday Swiss 2025.12.07</a>",
 "HOUSTON","2025-12-07","30","<a href=https://ratings.uschess.org/event/202512070243 target='_blank'>$1,500 DECEMBER CHAMPIONSHIP</a>",
@@ -97,6 +99,4 @@ jtable([
 "CYPRESS","2025-09-05","38","<a href=https://ratings.uschess.org/event/202509054922 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2025-09-05","10","<a href=https://ratings.uschess.org/event/202509054902 target='_blank'>FBCC 2025 WORLD SAMOSA DAY OPEN/FBC</a>",
 "HOUSTON","2025-09-05","18","<a href=https://ratings.uschess.org/event/202509054872 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2025-09-01","23","<a href=https://ratings.uschess.org/event/202509013092 target='_blank'>2025 LABOR DAY BY AZCHACAD</a>",
-"HOUSTON","2025-08-31","14","<a href=https://ratings.uschess.org/event/202508311782 target='_blank'>BELLAIRE SUNDAY SWISS 8/31/2025</a>",
 ]);
