@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nihal Sarin claimed a convincing victory at the Masters Tournament at the 4th President Cup in Tashkent, finishing on 7/9 and securing first place with a round to spare. A final-round win underlined his dominance, as he ended two points clear of the field. The tournament continued Nihal's strong run in Uzbekistan and brought a notable rating gain, as he concluded the event with a sensational 2836 TPR. | Photo: Uzbek Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/president-cup-2025-9",
+         "pubDate" : "Sat, 13 Dec 2025 22:05:00",
+         "title" : "Nihal Sarin wins President Cup in Tashkent for a second year in a row"
+      },
+      {
          "description" : "FIDE and Norway Chess have confirmed the qualification routes for the Total Chess Tour 2026, the pilot event of a new world championship concept combining Fast Classic, Rapid and Blitz. The initiative, approved by FIDE, aims to identify the most versatile elite players and will lead into a full championship cycle from 2027. With places allocated through world titles, major championships and rating lists, the new Tour is set to add a distinctive pathway to the top level of competitive chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/review-all-new-releases-in-november",
          "pubDate" : "Sat, 13 Dec 2025 07:00:00",
          "title" : "Review: All new releases in November!"
+      },
+      {
+         "description" : "The United States Chess Federation is pleased to announce the 2026 All-America Chess Team. Team members will receive team jackets and plaques by mail.The All-America Chess Team was created in 1987 to honor the very best players ages 18 and under. The team, one of the highest national honors attainable by a young chess player, is selected on the basis of age, rating, and chess activity during that year, similar to the selection process of \"all conference\" sports teams. This year's candidates were selected based on their age as of January 1, 2025, and their peak post-tournament rating from July 1, 2024 through June 30, 2025. Since this award is a \"post-season\" selection, the minimum rating lim",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-us-chess-federation-all-america-chess-team-announced",
+         "pubDate" : "Sat, 13 Dec 2025 00:00:00",
+         "title" : "2026 US Chess Federation All-America Chess Team Announced"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> All photos by Hiedi Bulkley.<br> <br> <br> <br> The first two rounds of the 2025 National K-12 Grade Championships are in the books. Over 1,350 players across 13 grade levels competed in Spokane, WA on Friday, and now they're gearing up for the grueling triple-round day beginning at 9 a.m. PST (and 9:30 for grades K-1: see full schedule). Follow the action live on the US Chess Twitch channel with WGM Sabina Foisor (see full streaming schedule). <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br",
@@ -96,22 +112,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-will-world-no-2-hikaru-nakamura-come-to-india-for-gcl-season-3-team-shares-update/articleshow/125936473.cms",
          "pubDate" : "Fri, 12 Dec 2025 16:11:26",
          "title" : "Will Hikaru come to India for GCL season 3? Team shares update"
-      },
-      {
-         "description" : "The Kasparov Chess Foundation Academy Preseason Special is now in full swing. This is a unique opportunity for ambitious players to get a head start before the Main Season kicks off in January 2026. The Preseason program runs on nine Saturdays, with 90-minute interactive sessions focused on practical thinking, providing students a strong foundation and momentum heading into the full season. Don't Miss Your Chance to Register for Season 2026.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-preseason-special-is-underway",
-         "pubDate" : "Fri, 12 Dec 2025 16:00:00",
-         "title" : "KCF Preseason Special is underway!"
-      },
-      {
-         "description" : "Dorian Rogozenco explains how to access the ChessBase Magazine directly in the browser via the ChessBase Books page and shows that it works on PC, tablet, and even on a phone, including board display and videos. He demonstrates that with just a few clicks you can reach a huge range of training material: opening articles with full analysis and engine support, video lessons on top events, strategy topics, interactive \"Move by Move\" sessions, modern classics, and tactical/combinational exercises.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-magazine-dorian-rogozenco-master-your-chess-with-chessbase-tools",
-         "pubDate" : "Fri, 12 Dec 2025 13:00:00",
-         "title" : "ChessBase Magazine - Dorian Rogozenco: Master Your Chess with ChessBase Tools"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125932804.cms\" />The evolution of the chess queen finds a parallel in rural India, where the \"Checkmate Betul\" initiative, launched by US-based Avika Shukla, offers free, structured chess training to girls with no prior access. The programme, run by an all-girl global team, is helping students gain confidence, focus and new skills while overcoming significant logistical hurdles.",
@@ -210,28 +210,12 @@ news_feed (
          "title" : "Freestyle Chess Grand Slam Finals 2025 - Games and Results"
       },
       {
-         "description" : "Anastasia Corotcova explains how ChessBase allows beginners to easily enter, edit, and save chess games, starting from creating a new board to recording moves directly on the screen. She highlights powerful ChessBase features such as assisted analysis, automatic move recognition, colour-coded move quality, and tools for correcting or inserting moves, showing that the software isn't just for notation but a full analytical environment. In the end, she demonstrates how ChessBase helps players organize their own databases, store complete game information, and build a personal library-capturing the essence of ChessBase as a professional tool for learning, analysing, and managing chess games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-tips-for-beginners-enter-and-save-your-games",
-         "pubDate" : "Thu, 11 Dec 2025 17:00:00",
-         "title" : "ChessBase tips for beginners - Enter and save your games"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125917260.cms\" />Levon Aronian clinched the 2025 Freestyle Chess Grand Slam title in Grootbos. He defeated Magnus Carlsen in the Grand Final. Aronian secured the win with a 1.5-0.5 score. He earned $200,000. Magnus Carlsen had already won the overall Grand Slam Tour. Vincent Keymer secured third place. Fabiano Caruana finished fifth. Hans Niemann took seventh place.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/levon-aronian-beats-magnus-carlsen-stays-unbeaten-to-clinch-freestyle-chess-grand-slam-tour-final-title-arjun-erigaisi-finishes-sixth/articleshow/125917260.cms",
          "pubDate" : "Thu, 11 Dec 2025 16:34:27",
          "title" : "Aronian beats Carlsen to clinch Freestyle Grand Slam Tour Final title"
-      },
-      {
-         "description" : "Today marks the end of the 2025 Freestyle Grand Slam Tour. Magnus Carlsen and Levon Aronian will battle it out in the final for the tournament victory, while Vincent Keymer and Javokhir Sindarov will play for third place. Arjun Erigaisi will face Fabiano Caruana in the match for fifth place, while Hans Niemann and Parham Maghsoodloo will play for seventh place. Follow the games live with commentary. | The matches start at 12.00 CET (6.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-finals-live",
-         "pubDate" : "Thu, 11 Dec 2025 10:59:57",
-         "title" : "Freestyle Chess South Africa - Live!"
       },
       {
          "description" : "The ECU E-Magazine November 2025 is out! In this edition of the ECU Magazine you may read about: The November 2025 issue of the ECU E-Magazine can be read online together with interactive links through the following link, or it can be downloaded in PDF format down below.",
@@ -266,14 +250,6 @@ news_feed (
          "title" : "Freestyle Chess South Africa: Carlsen and Aronian reach the final"
       },
       {
-         "description" : "Dorian Rogozenco demonstrates how ChessBase 26's Monte-Carlo analysis can rapidly generate thousands of short engine games to obtain a statistically reliable evaluation of an opening line. In the example, it becomes clear that a previously promising surprise weapon for Black performs objectively much worse, providing a second, more realistic perspective to decide whether the line is practically worth playing.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dorian-rogozenco-how-a-grandmaster-uses-the-new-chessbase-26-monte-carlo-analysis",
-         "pubDate" : "Wed, 10 Dec 2025 19:00:00",
-         "title" : "Dorian Rogozenco: How a Grandmaster Uses the New ChessBase 26 Monte-Carlo Analysis"
-      },
-      {
          "description" : "GMs Magnus Carlsen and Levon Aronian will contest the title match of the 2025 Freestyle Chess Grand Slam Finals, where first place comes with $200,000. Carlsen won a close semifinal match against GM Javokhir Sindarov, who won on demand once and ne...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -288,14 +264,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/praggnanandhaa-nakamura-qualifies-for-candidates",
          "pubDate" : "Wed, 10 Dec 2025 09:36:00",
          "title" : "Praggnanandhaa Wins FIDE Circuit To Qualify For Candidates, Nakamura Also In"
-      },
-      {
-         "description" : "The second day of the Freestyle Chess Grand Slam Finals in South Africa marked the start of the knockout phase, with four quarterfinal matches played under a 30+15 time control. Two encounters were settled in the first pair of games, while the other two required blitz tiebreaks. Magnus Carlsen, Javokhir Sindarov, Vincent Keymer and Levon Aronian advanced to the semifinals, while the defeated players moved to the lower bracket to compete for fifth to eighth place. | Photo: Freestyle Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-finals-d2",
-         "pubDate" : "Wed, 10 Dec 2025 08:25:00",
-         "title" : "Freestyle Chess South Africa: Carlsen comes from behind to beat Caruana"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125883547.cms\" />20-year-old Indian GM R Praggnanandhaa secured his spot in the Candidates 2026, joining his sister R Vaishali. Dutch Grandmaster Anish Giri, however, believes India could have had more representatives than just one. Giri also highlighted the formidable nature of lower-rated players in the line-up like Matthias Bluebaum, predicting a highly competitive tournament.",
@@ -314,28 +282,12 @@ news_feed (
          "title" : "Wednesday Workout: U.S. Masters, Pt. 2"
       },
       {
-         "description" : "Diego Flores claimed his eighth national title at the 2025 Argentine Championship, matching Miguel Najdorf's long-standing record in the event's centenary edition. The 12-player round-robin, held at Buenos Aires City Hall, saw Flores finish unbeaten with 8&frac12;/11, securing victory after a final-round draw against Federico P&eacute;rez Ponsa. Strong performances by Diego Valerga, Leonardo Trist&aacute;n and 12-year-old IM Faustino Oro added further significance to this historic edition. | Photo: Argentine Chess Federation (FADA)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/argentine-championship-2025-final-report",
-         "pubDate" : "Tue, 09 Dec 2025 19:30:00",
-         "title" : "Diego Flores wins Argentine Championship for an eighth time, equals Miguel Najdorf's record"
-      },
-      {
          "description" : " The Magistral Szmetan-Giardelli is a very interesting Round Robin held in Buenos Aire 8th to 16th December 2025. Players: Aryan Tari, Ivan Cheparinov, Julio, Granda Zuniga, Alexei Shirov, Diego Flores, Sandro Mareco, Faustino Oro, Ilan Schnaider, Sergio Slipak and Tomas, Darcyl. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/magistral-szmetan-giardelli-2025",
          "pubDate" : "Tue, 9 Dec 2025 18:48:00",
          "title" : "Magistral Szmetan-Giardelli 2025 - Games and Results"
-      },
-      {
-         "description" : "The King's Indian Defence has been one of the most dynamic and popular responses to 1.d4 for decades. Legends such as Garry Kasparov, Bobby Fischer, and Hikaru Nakamura have employed it at the highest level - and it continues to fascinate today, as it offers Black not only solidity but also rich attacking and counterattacking opportunities. Its special advantage: the King's Indian is a universal system, equally effective against 1.d4, 1.c4, and 1.Nf3. Grandmaster Felix Blohberger, multiple Austrian Champion and experienced second, presents a complete two-part repertoire for Black. His approach: practical, clear, and flexible - instead of endless theory, you'll get straightforward concepts an",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/felix-blohberger-king-s-indian-a-complete-repertoire-for-black-part-1-2",
-         "pubDate" : "Tue, 09 Dec 2025 18:26:23",
-         "title" : "Felix Blohberger: King's Indian - A Complete Repertoire for Black Part 1 & 2"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125873635.cms\" />Magnus Carlsen has secured the 2025 Freestyle Chess Grand Slam Tour title, earning a $100,000 bonus after reaching the semifinals in Cape Town. Despite an early setback, Carlsen fought back to clinch the championship. He will face Sindarov in the semifinals, while Keymer plays Aronian for a spot in the finals.",
@@ -386,14 +338,6 @@ news_feed (
          "title" : " SNA seminar and Exam in Ahmedabad on 02 & 03 January 2026"
       },
       {
-         "description" : "Now that we have examined all the individual trees in this game between Viktor Kortschnoj and Anatoly Karpov from 1978, what is our view of the forest? Move after move, Kortschnoj made optimal choices, never lessening the tension. Most decisive endings are won after a gross blunder, but it took 46 years to find where Black finally stumbled. As GM Alex Fishbein noted, Kortschnoj \"made many nonstandard decisions, made no mistakes and played brilliantly - one of the best endings ever played.\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/answers-korchnoi-karpov-1978",
-         "pubDate" : "Tue, 09 Dec 2025 08:41:01",
-         "title" : "Answers: Korchnoi-Karpov 1978"
-      },
-      {
          "description" : "Fourteen-year-old Turkish chess prodigy GM Yagiz Kaan Erdogmus has beaten 35-year-old world number 15 GM Maxime Vachier-Lagrave 3.5-2.5 in Clash of Generations II. Victory in the six-game classical match in the Monte Carlo Chess Club saw Erdogmus ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -416,22 +360,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-us-masters-pt-2",
          "pubDate" : "Tue, 09 Dec 2025 00:00:00",
          "title" : "Tactics Tuesday: U.S. Masters, Pt. 2"
-      },
-      {
-         "description" : "The opening stage of the Freestyle Chess Grand Slam Finals in South Africa consisted of a single round-robin tournament with a 10+5 time control. Although no players were eliminated, the results were of clear importance: they decide the quarterfinal pairings. Javokhir Sindarov, fresh from his victory at the FIDE World Cup, was the top scorer, as he obtained 5&frac12;/7 points, with wins over Magnus Carlsen, Parham Maghsoodloo, Fabiano Caruana and Hans Niemann. The Uzbek star achieved this feat on his 20th birthday. | Photo: Freestyle Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-finals-d1",
-         "pubDate" : "Mon, 08 Dec 2025 23:20:00",
-         "title" : "Freestyle Chess South Africa: Sindarov wins round-robin ahead of Aronian"
-      },
-      {
-         "description" : "In recent days, an unusual face has been circulating on sports pages and social media: Sarwagya Singh Kushwaha, a boy from the Sagar district in Madhya Pradesh, India, has been registered as a FIDE-rated chess player at just three years, seven months and 13 days old - making him the youngest player in history to obtain an official FIDE rating. His FIDE entry shows a rapid rating of 1572; his FIDE ID is 558059504. | Photo: ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prodigy-or-hype-a-three-year-old-with-a-fide-rating",
-         "pubDate" : "Mon, 08 Dec 2025 22:20:01",
-         "title" : "Prodigy or hype? A three-year-old with a FIDE rating"
       },
       {
          "description" : " The 15th XTX Markets London Chess Classic took place Wed 26th Nov to Sun 7th Dec 2025. Players: Alireza Firouzja, Luke Mcshane, Michael Adams, Nikolas Theodorou, Sam Shankland, Nodirbek Abdusattorov, Pavel Eljanov, Nikita Vitiugov, Abhimanyu Mishra and Gawain Maroroa Jones. Nodirbek Abdusattorov dominated the event scoring 7.5/9 and finished two points clear of Alireza Firouzja. The open saw Praggnanandhaa, Vladimir Ivic and Ameet Ghasi tie on 7/9. The Super Rapid was won by Nikolas Theodorou on 9/10 with Alireza Firouza half a point behind on 8.5 points.",
@@ -482,22 +410,6 @@ news_feed (
          "title" : "Exclusive | 'Mango, Paneer, &amp; ...': Not just chess on Russian GM's mind as GCL makes India debut"
       },
       {
-         "description" : "Grandmaster Dorian Rogozenco highlights how ChessBase 26's Opening Report quickly reveals statistical trends and practical insights for specific opening lines, demonstrating it with a rare surprise weapon for Black in the French Advance, with the moves f6 and also f5, and showing that Black's results, especially at lower levels, look promising enough to merit investigation. He emphasizes that the tool not only shows performance data and history, but also warns which sidelines you must know, making it a powerful way to get a fast, informed first impression before more in-depth analysis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dorian-rogozenco-how-a-gm-uses-the-new-chessbase-26-opening-report",
-         "pubDate" : "Mon, 08 Dec 2025 09:35:54",
-         "title" : "Dorian Rogozenco: How a GM uses the new ChessBase 26 opening report"
-      },
-      {
-         "description" : "After four rounds of the President Cup in Tashkent, three players share the lead on 3/4: Nihal Sarin, Shamsiddin Vokhidov and Mukhiddin Madaminov. Their identical paths, combined with a striking trend of all decisive games favouring white, have given the event a notably symmetrical start. With Shant Sargsyan and Bardiya Daneshvar close behind and key pairings scheduled for round five, the tournament is entering an important early phase. | Photo: Uzbek Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/president-cup-2025-4",
-         "pubDate" : "Mon, 08 Dec 2025 08:20:00",
-         "title" : "President Cup: Nihal, Vokhidov and Madaminov share the lead"
-      },
-      {
          "description" : "Players from the USA delegation won gold medals in all three events of the North American Junior Chess Championship Under-20, held from Nov. 30 through Dec. 7 in Oaxtepec, Morelos, Mexico. Nine Americans made the trip, and 53 players total competed.FM Julian Colville won the Under-20 Open with a blistering 8&frac12;/9 performance, earning (update: the direct IM title and) a GM norm per the direct title regulations. Colville's performance rating of 2629, including games against players from three federations, would have been good for a traditional GM norm, as well. FM Donald Johnson tied for second, winning the silver medal on tiebreaks with a with 6&frac12;/9, earning a direct IM norm. WFM L",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -522,30 +434,6 @@ news_feed (
          "title" : "Hypocrisy fights back"
       },
       {
-         "description" : "FIDE has announced the passing of Casto Abundo, Executive Director of the Asian Chess Federation, whose five decades of service left a lasting mark on the global chess community. A respected arbiter and organiser, he played key roles in major international events and helped strengthen the institutional framework for chess across Asia. His leadership, dedication and ability to unite federations are widely recognised, and his legacy will continue to guide future generations.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/casto-abundo-1950-2025",
-         "pubDate" : "Sun, 07 Dec 2025 13:40:00",
-         "title" : "Casto Abundo (1950-2025)"
-      },
-      {
-         "description" : "Fabiano Caruana is unavailable to play for Baden-Baden due to his commitment at the Freestyle Chess Finals in South Africa, and the same applies to Germany's number one, Vincent Keymer. Baden-Baden thus left Caruana's board vacant and still managed to beat Deggendorf - even though Rustam Kasimdzhanov (Baden-Baden) also lost his game. The former serial champions are now only 2&frac12; board points behind the victorious Viernheim. After three rounds, they are the only two teams in the league not to have lost any match points. | Pictured: Matthias Bluebaum (Schachfreunde Deizisau) commentating his game | Photos: Hans-Joachim Vitz, Anna-Blume Giede, Jan Werner, Stefan Spiegel",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-2025-26-round-3",
-         "pubDate" : "Sun, 07 Dec 2025 02:30:00",
-         "title" : "Bundesliga: Baden-Baden win despite leaving top board vacant"
-      },
-      {
-         "description" : "All five games in the final round of the London Chess Classic ended drawn, leaving the standings unchanged following Nodirbek Abdusattorov's clear tournament victory with a round to spare. The Uzbek grandmaster finished with an outstanding 7&frac12;/9 and a 2932 performance rating, while Alireza Firouzja (pictured) secured second place despite missing a late winning chance against Nikolas Theodorou. Nikita Vitiugov completed the podium after a steady event that included two wins following an early setback. | Photo: John Saunders",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-9",
-         "pubDate" : "Sat, 06 Dec 2025 23:45:00",
-         "title" : "London Chess Classic: Five draws in round nine, Firouzja grabs second place"
-      },
-      {
          "description" : "GM Hikaru Nakamura is now one title away from securing a landmark 50 Bullet Brawl wins after he won December&#39;s first arena while joking about his relative age to the rest of the field. Nakamura scored 53.5/63 for a total score of 180 and barely pu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -554,28 +442,12 @@ news_feed (
          "title" : "Nakamura Proves His 'Old Hands' Are Still Quick Enough For Bullet Brawl"
       },
       {
-         "description" : "On the rest day of the FIDE World Cup, on 20 November, I decided to interview GM Alojzije Jankovic. Every time I have met him, I have always been amazed by his warmth and infectious enthusiasm. A man who has worn many hats in the chess world, Jankovic carries the rare combination of passion, humility and purpose. A strong GM who once reached a 2593 rating, Jankovic is also a long-time television presenter in Croatia, Vice President of the European Chess Union, author, theoretician, trainer, commentator and researcher. Let's dive into his multi-faceted life.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alojzije-jankovic-interview-2025",
-         "pubDate" : "Sat, 06 Dec 2025 17:20:00",
-         "title" : "The inspiring story of Alojzije Jankovic, enthusiastic chess promoter"
-      },
-      {
          "description" : " Jamaica, an island of almost three million, was devastated by Hurricane Melissa, a Category 5 storm that reached sustained winds of 185mph (and gusts over 250 mph). The hurricane created storm surges of up to 12 feet, flooding many parts of the tourist haven. Forming as an &#8220;extratropical cyclone&#8221; in late October, an area called The post <a href=\"https://thechessdrum.net/blog/2025/12/06/chess-in-jamaica-recovering-from-melissa/\">Chess in Jamaica recovering from Melissa</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/12/06/chess-in-jamaica-recovering-from-melissa/",
          "pubDate" : "Sat, 06 Dec 2025 15:42:49",
          "title" : "Chess in Jamaica recovering from Melissa"
-      },
-      {
-         "description" : "Next Monday, the final of the Freestyle Grand Slam 2025 will begin in Grootenbosch (South Africa). To mark the opening, a diving chess competition was organised in Cape Town, which was won by Hans Niemann. Some participants of the Freestyle Chess Grand Slam showed off their skills in a simultaneous match against local chess enthusiasts. | Photo: Stev Bonhage / Freestyle Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hans-niemann-diving-chess-champion-cape-town",
-         "pubDate" : "Sat, 06 Dec 2025 15:00:00",
-         "title" : "Hans Niemann becomes Diving Chess Champion in Cape Town"
       },
       {
          "description" : "Analyzing your games can be so powerful when done right. But sadly, in practice, it is overwhelming many chess improvers. Today, I want to share a mindset shift that makes it much easier and more focused on skills, not knowledge. Endless opportunities for improvement = overhwelm The key component that can throw you off []",
@@ -616,14 +488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/london-chess-classic-2025-live",
          "pubDate" : "Fri, 05 Dec 2025 16:50:00",
          "title" : "London Chess Classic - Live!"
-      },
-      {
-         "description" : "Nodirbek Abdusattorov secured the London Chess Classic title with a round to spare after drawing his eighth-round game against Alireza Firouzja. Entering the day with a two-point lead built on six consecutive wins, the Uzbek grandmaster navigated a sharp position more accurately before choosing to force a perpetual check, confirming overall victory. It was the only draw of the round, with all other games ending decisively. | Photo: nodirbekchess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-8",
-         "pubDate" : "Fri, 05 Dec 2025 16:30:00",
-         "title" : "Abdusattorov wins London Chess Classic with one round to spare"
       },
       {
          "description" : "The 2025 European Amateur Chess Championship took place from 26th of November to 4th of December in Mellieha, Malta. The event was played in three rating categories: U1700, U2000, and U2300, each championship with 9-swiss rounds and time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with an increment of 30 seconds for each move starting from move one. After nine played rounds, CM Stefan-Emilian Prisacaru (ROU, 2216) emerged as the sole []",
@@ -674,14 +538,6 @@ news_feed (
          "title" : "Abdusattorov overwhelms rivals at Arsenal but England hit back in style"
       },
       {
-         "description" : "The fourth President Cup opened in Tashkent with a round marked by five decisive results, all in favour of the white pieces. With Uzbekistan's top grandmasters absent, the spotlight fell on emerging local talents and a strong group of international participants. The first day saw a couple of upsets, steady wins by some of the top seeds and a competitive start to the 10-player single round-robin. | Pictured: Shant Sargsyan from Armenia | Photo: Uzbek Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/president-cup-2025-1",
-         "pubDate" : "Fri, 05 Dec 2025 07:10:00",
-         "title" : "President Cup: All five games end decisively in first round"
-      },
-      {
          "description" : "GM Nodirbek Abdusattorov clinched &#34;truly an amazing tournament for me&#34; with a round to spare after forcing a draw from a position of strength against GM Alireza Firouzja. Elsewhere in the London Chess Classic Elite Tournament it was a dream day fo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -704,22 +560,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/thanksgiving-weekend-wrap",
          "pubDate" : "Fri, 05 Dec 2025 00:00:00",
          "title" : "Thanksgiving Weekend Wrap-Up"
-      },
-      {
-         "description" : "FIDE's Commission for Women's Chess has announced the inaugural Pia Cramling Cup, a new rapid tournament for girls and women to be held during the Rilton Cup in Stockholm on 2 January 2026. Created in collaboration with Pia Cramling and the Stockholm Chess Federation, the event celebrates the former world number one's legacy while supporting emerging talent. Alongside the tournament, DGT and FIDE will offer technical training seminars aimed at expanding opportunities for women in chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pia-cramling-cup-2026-announcement",
-         "pubDate" : "Thu, 04 Dec 2025 22:10:00",
-         "title" : "In Stockholm: First-ever Pia Cramling Cup and two seminars for women announced"
-      },
-      {
-         "description" : "The main attraction of the XTX Markets London Chess Classic is the elite tournament, but the FIDE Open was also very strong, featuring numerous titled players. After nine rounds, three players finished on 7 points and shared first place: GM Praggnanandhaa Rameshbabu of India (pictured), GM Velimir Ilic of Serbia and GM Ameet K. Ghasi of England. As there were no tiebreaks in the event, the three also shared the prize money for the top three places. | Photo: Yury Krylov / London Chess Classic",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-open-final",
-         "pubDate" : "Thu, 04 Dec 2025 16:10:00",
-         "title" : "Pragg, Ivic and Ghasi share first place at London Chess Classic FIDE Open"
       },
       {
          "description" : "Almost all the favorites won their SuperPogChamps quarterfinal matches. Sardoche overpowered Linda Diaz with his chess, while Wirtual&#39;s own mouse betrayed him in his match against Andrea Botez. In the Consolation Bracket, Cows went extinct as Sp...",
@@ -856,14 +696,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-after-javokhir-sindarovs-world-cup-glory-closest-friend-bibisara-assaubayeva-reveals-her-own-unfinished-task/articleshow/125713043.cms",
          "pubDate" : "Tue, 02 Dec 2025 07:52:22",
          "title" : "After Sindarov's WC glory, 'closest friend' Assaubayeva reveals her 'unfinished task'"
-      },
-      {
-         "description" : "Editor's note, Dec. 3, 2025: The section on the TDAC (formerly TDCC) has been slightly revised on a technical level. What rules updates, changes, deletions, and additions can you expect starting in January of 2026? Fasten your seat belts, here we go. Delegate me this, Delegate me that:The Delegates only passed one rule improvement for 2026!The upgrade was so good it eliminated the need for the old rule's TD TIP. Just nine little words (in italics) made everything crystal clear in the Blitz rules:18. Subject to the right of appeal to US Chess, the decision of the chief tournament director is final.FYI, the old rule plus the gone-baby-gone TIP:Old Blitz Rule: 18. The decision of the tournament",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-januarys-rulebook-updates-2026",
-         "pubDate" : "Tue, 02 Dec 2025 00:00:00",
-         "title" : "Just the Rules: January's Rulebook Updates 2026"
       },
       {
          "description" : "India Registers a Dominant Performance with 49 Medals at the Asian Youth Chess Championship AICF congratulates all players, coaches, and parents for an exceptional all-format",
