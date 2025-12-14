@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There are moments in the world of chess when one cannot help sensing a faint whiff of desperation-an anxious rustling among those determined to preserve Magnus Carlsen's reputation as the game's supreme being, yet without the inconvenience of his actually contesting world championships again. His admirers, indefatigable in their devotion, seem ready to clutch at []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/clutching-at-straws/",
+         "pubDate" : "Sun, 14 Dec 2025 15:46:10",
+         "title" : "Clutching at straws"
+      },
+      {
+         "description" : "Round six of the Magistral Szmetan-Giardelli featured three decisive games and several notable results. Aryan Tari and Ivan Cheparinov both scored full points to reach 4&frac12; points, while 14-year-old Ilan Schnaider (pictured) claimed a swift victory over Julio Granda for his second win of the tournament. The round also included two draws, leaving Faustino Oro and Alexei Shirov a half point behind the co-leaders with three rounds to play. | Photo: Infobae",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magistral-szmetan-giardelli-r6",
+         "pubDate" : "Sun, 14 Dec 2025 14:00:00",
+         "title" : "Magistral Szmetan-Giardelli: Tari and Cheparinov share the lead, Schnaider beats Granda"
+      },
+      {
          "description" : "Available now, but only until 24 December: The bundle for winners: ChessBase'26 & Fritz 20 in a Christmas bundle. Instead of 268.80 €, only 229.90 €. Extend your chess horizons with ChessBase'26 and train intelligently with Fritz 20! Get yours now!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -808,22 +824,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategy-vol-12-reversed-colour-systems-king-s-indian-pirc-defence",
          "pubDate" : "Sun, 23 Nov 2025 20:00:00",
          "title" : "Ivan Sokolov: Understanding Middlegame Strategy Vol 12: Reversed Colour Systems - King's Indian/Pirc Defence"
-      },
-      {
-         "description" : " The FIDE World Cup final will be between Wei Yi of China and Javokhir Sindarov of Uzbekistan, this result mean both have qualified for the FIDE Candidates tournament in Pegeia, Cyprus, 28th March to 16th April 2026. These players join Fabiano Caruana, Anish Giri, Matthias Bluebaum who have already qualified for the Candidates, Hikaru Nakamura is almost certain to qualify on rating, in addition, the winner of the 3rd-4th playoff in this World Cup will also earn a place. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/wei-yi-and-javokhir-sindarov-reach-the-fide-world-cup-final-and-qualify-for-the-candidates-tournament",
-         "pubDate" : "Sun, 23 Nov 2025 14:15:00",
-         "title" : "Wei Yi and Javokhir Sindarov reach the FIDE World Cup final and qualify for the Candidates tournament - 7"
-      },
-      {
-         "description" : "The World Women's Team Championship took place in Linares, Spain, from 18 to 23 November. The knockout stage saw Russia beating China in the semifinals, while Azerbaijan got the better of Kazakhstan. In the final, Russia (FIDE team) defeated Azerbaijan convincingly, while China grabbed third place. | Follow the games live starting at 13.30 CET (8.30 ET, 18.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-women-team-ch-2025-live",
-         "pubDate" : "Sun, 23 Nov 2025 13:20:00",
-         "title" : "World Women's Team Championship - Live!"
       }
    ]
 }
