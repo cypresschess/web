@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure with fixed lineups, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.30 CET (6.30 ET, 17.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
+         "pubDate" : "Mon, 15 Dec 2025 12:00:00",
+         "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "At the FIDE General Assembly, which was held digitally, the majority of delegates voted to lift sanctions against Belarus and Russia. At youth competitions, anthems may be played and the flags of both federations may be displayed again. Their teams are once again eligible to participate in official FIDE competitions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-general-assembly-votes-to-lift-sanctions-against-russia-and-belarus",
+         "pubDate" : "Mon, 15 Dec 2025 11:46:03",
+         "title" : "FIDE General Assembly votes to lift sanctions against Russia and Belarus"
+      },
+      {
          "description" : "The Global Chess League began its third season in Mumbai with three matches played in succession at the Royal Opera House. Day one combined a revised time control with the league's established scoring system and immediately produced several high-profile encounters on the top boards. Defending champions Triveni Continental Knights, led by Alireza Firouzja (who defeated Fabiano Caruana), opened with a win, much like Upgrad Mumba Masters and Fyers American Gambits. | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/hosts-mumba-start-gcl-season-3-in-style/articleshow/125970655.cms",
          "pubDate" : "Mon, 15 Dec 2025 04:40:49",
          "title" : "Hosts Mumba start GCL season 3 in style"
+      },
+      {
+         "description" : "World number-two GM Hikaru Nakamura and his wife WGM Atousa Pourkashiyan welcomed the birth of a healthy baby boy last week, the couple has confirmed. Nakamura, who first revealed that they were expecting during a Kick livestream in July, shared...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-atousa-pourkashiyan-welcome-baby-boy",
+         "pubDate" : "Mon, 15 Dec 2025 03:46:53",
+         "title" : "Hikaru Nakamura & Atousa Pourkashiyan Welcome Baby Boy"
       },
       {
          "description" : "The 11th edition of the Vugar Gashimov Memorial was held in Khankendi as a combined rapid and blitz tournament featuring six players. Organised in memory of the late Azerbaijani grandmaster, the event followed a double round-robin format in both sections, with the overall standings determined by combined results. A closely fought contest at the top between rating favourites Ian Nepomniachtchi and Vladimir Fedoseev was only decided on tiebreaks after the final blitz round. | Photo: Official website",
@@ -634,14 +658,6 @@ news_feed (
          "title" : "At just 3 years old, Sarvagya Kushwaha becomes world's youngest FIDE-rated chess player"
       },
       {
-         "description" : "GM Nodirbek Abdusattorov now leads the London Chess Classic Elite Tournament by two points with two rounds to go after beating GM Luke McShane for a sixth win in a row. The remaining games were drawn, with second-placed GM Alireza Firouzja frustra...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-7",
-         "pubDate" : "Wed, 03 Dec 2025 04:54:00",
-         "title" : "Abdusattorov Rampage Continues, Praggnanandhaa Leads Open"
-      },
-      {
          "description" : " Nodirbek Abdusattorov leads the London Chess Classic with 5.5/6 one and a half points clear of Alireza Firouzja. After a first round draw Abdusattorov has now won five games in a row. In round five he defeated Nikolas Theodorou in a battling game. Abdusattorov chose the English after recently favouring 1.e4 and this seemed to sidestep all of his opponent's preparation and produce a nice advantage. Theodorou fought back and after 20 moves was equal again, then on move 26 he decided to give up his Queen for Rook and Knight, this wasn't losing but it made him a bit worse, then the game became very wild with black being objectively lost but finding tricky ideas. After 38.Qe3 the game was equal ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -800,14 +816,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-amateur-chess-championship-2025-starts-in-malta/",
          "pubDate" : "Tue, 25 Nov 2025 09:57:56",
          "title" : "European Amateur Chess Championship 2025 starts in Malta"
-      },
-      {
-         "description" : "The 9th edition of the European Small Nations Team Chess Championship took place from 15-22 November in Larnaca, Cyprus. After nine played rounds, two teams tied for the top scoring 16 match points each: Faroe Islands and Andorra. With the higher score of the game points, Faroe Islands emerged as the Winner of the event and clinched the title. Andorra claimed silver medal. Scoring 15 match points, Cyprus won bronze medal. The Closing Ceremony of the even took place with []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-small-nations-team-chess-champions-2025-crowned-in-cyprus/",
-         "pubDate" : "Mon, 24 Nov 2025 10:31:09",
-         "title" : "European Small Nations Team Chess Champions 2025 crowned in Cyprus"
       }
    ]
 }
