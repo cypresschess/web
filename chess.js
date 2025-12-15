@@ -34,6 +34,14 @@ news_feed (
          "title" : "Global Chess League - Live!"
       },
       {
+         "description" : "GM Alireza Firouzja played a brilliant sacrifice to defeat GM Fabiano Caruana while GM Wei Yi took down GM Anish Giri as two-time Tech Mahindra Global Chess League champions Triveni Continental Kings began season three with a win. Of the world&#39;s t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-1",
+         "pubDate" : "Sun, 14 Dec 2025 12:21:00",
+         "title" : "Firouzja Stuns Caruana As Global Chess League Begins In Mumbai"
+      },
+      {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> All photos by Hiedi Bulkley.<br> <br> <br> <br> It all comes down to Sunday. After three grueling rounds on Saturday, the stakes are high for the final two rounds of the 2025 National K-12 Grade Championships in Spokane, WA.After a number of upsets on Saturday, most sections have only one or two players at the top of the standings with large groups of players in the chasing pack, so anything can happen. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -616,14 +624,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-7",
          "pubDate" : "Wed, 03 Dec 2025 04:54:00",
          "title" : "Abdusattorov Rampage Continues, Praggnanandhaa Leads Open"
-      },
-      {
-         "description" : "Today was the first day of something you thought you&#39;d never see. When watching PogChamps, one might expect Botez Gambits, stalemates, and generally the worst chess you&#39;ve ever seen when tens of thousands of dollars are on the line. That was not...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/superpogchamps-day-1",
-         "pubDate" : "Tue, 02 Dec 2025 19:31:00",
-         "title" : "Undefeated Masi Oka Cruises To Championship Bracket Along With Andrea Botez, Linda Dias"
       },
       {
          "description" : " Nodirbek Abdusattorov leads the London Chess Classic with 5.5/6 one and a half points clear of Alireza Firouzja. After a first round draw Abdusattorov has now won five games in a row. In round five he defeated Nikolas Theodorou in a battling game. Abdusattorov chose the English after recently favouring 1.e4 and this seemed to sidestep all of his opponent's preparation and produce a nice advantage. Theodorou fought back and after 20 moves was equal again, then on move 26 he decided to give up his Queen for Rook and Knight, this wasn't losing but it made him a bit worse, then the game became very wild with black being objectively lost but finding tricky ideas. After 38.Qe3 the game was equal ",
