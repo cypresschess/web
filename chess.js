@@ -7,7 +7,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/my-chessbase-18-desktop-laura-unuk",
          "pubDate" : "Mon, 15 Dec 2025 16:54:08",
-         "title" : "My ChessBase 18 Desktop! - Laura Unuk"
+         "title" : "My ChessBase 26 Desktop! - Laura Unuk"
       },
       {
          "description" : "The inaugural English Youth Championship will be held on March 7-8, 2026 at Nottingham High School, and is aimed at selecting England Open and Girls to play in 2026 World...",
@@ -66,12 +66,12 @@ news_feed (
          "title" : "Hikaru Nakamura & Atousa Pourkashiyan Welcome Baby Boy"
       },
       {
-         "description" : "The 11th edition of the Vugar Gashimov Memorial was held in Khankendi as a combined rapid and blitz tournament featuring six players. Organised in memory of the late Azerbaijani grandmaster, the event followed a double round-robin format in both sections, with the overall standings determined by combined results. A closely fought contest at the top between rating favourites Ian Nepomniachtchi and Vladimir Fedoseev was only decided on tiebreaks after the final blitz round. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2025-final-report",
-         "pubDate" : "Sun, 14 Dec 2025 20:15:00",
-         "title" : "Gashimov Memorial: Nepomniachtchi successfully defends his title in Khankendi"
+         "description" : "You know 6/7? Well, did you know that over half (21 of 38) of our National K-12 Grade Champions and Co-Champions finished the year of \"67\" with a 6/7 score?Of the 13 sections, only five produced clear Champions, and only one of them - Kindergarten winner Zayn Shanmuganathan - finished with a perfect 7/7 score.This bit of numerology speaks to the many close races on Sunday in Spokane, where many sections came down to the last games to finish in the final round. With annotations and highlights from commentator WGM Sabina Foisor, let's take a look!Note: all results are listed in tiebreak order unless otherwise specified.<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/38-champions-and-co-champions-crowned-spokane",
+         "pubDate" : "Mon, 15 Dec 2025 00:00:00",
+         "title" : "38 Champions and Co-Champions Crowned in Spokane"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125963044.cms\" />Mumba Masters dominated Ganges Grandmasters with a 17-4 win. Defending champions Triveni Continental Kings started their title defence with a 9-7 victory over SG Pipers. Alireza Firouzja won a key match for the Kings. The Global Chess League Season 3 has begun with exciting clashes and strong performances from top players. ",
@@ -106,7 +106,7 @@ news_feed (
          "title" : "Firouzja Stuns Caruana As Global Chess League Begins In Mumbai"
       },
       {
-         "description" : "Spokane, WA: The 501(c)3 US Chess Federation's National K-12 Grade Championships took place from December 12 through 14 at the Spokane Convention Center in Spokane, Washington. This annual tournament takes place every December, and is the only national tournament with no \"Under\" sections, instead putting every player from each grade in one section to compete for the title of Grade Champion. Note: All winners are listed in tiebreak order. 12th Grade: FM William Safranek (NY) and Jed Sloan (NY), 6/712th Grade Team: Stuyvesant High School, 15/21 11th Grade: IM Erick Zhao (PA), 6&frac12;/711th Grade Team: The Frazer School (FL), 15/21 10th Grade: Sebastian Suarez (CA), 6&frac12;/710th Grade Team",
+         "description" : "Spokane, WA: The 501(c)3 US Chess Federation's National K-12 Grade Championships took place from December 12 through 14 at the Spokane Convention Center in Spokane, Washington. This annual tournament takes place every December, and is the only national tournament with no \"Under\" sections, instead putting every player from each grade in one section to compete for the title of Grade Champion. Note: All winners are listed in tiebreak order. Note: If there isn't a photo of your child with their medal, please send one to Click here to show email address. 12th Grade: FM William Safranek (NY) and Jed Sloan (NY), 6/712th Grade Team: Stuyvesant High School, 15/21 11th Grade: IM Erick Zhao (PA), 6&fra",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/flash-report-winners-crowned-national-k-12-grade-championships-spokane",
@@ -472,14 +472,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/colville-qiu-earn-gold-norms-north-american-junior-championship",
          "pubDate" : "Mon, 08 Dec 2025 00:00:00",
          "title" : "Colville, Qiu Earn Gold, Norms at North American Junior Championship"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Silver Knights Chess Academy is a sponsor for this weekend's National K-12 Grade Championships in Spokane, WA. The online academy has taught thousands of students of all grade and rating levels, and its students include 11 state scholastic champions. In this article, journalist and Silver Knights coach Emily Maxwell shares the history of how the academy became what it is today and what it means to its students. Keep an eye out for their booth in the skittles room in Spokane to learn more about the academy, get free game analysis, and a free trial month of online academy lessons for all participants. Plus, join Adam Weissba",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/silver-knights-chess-academy-creating-champions-through-online-clubs",
-         "pubDate" : "Mon, 08 Dec 2025 00:00:00",
-         "title" : "Silver Knights Chess Academy: Creating Champions Through Online Clubs"
       },
       {
          "description" : "The great world chess champion Emanuel Lasker famously pronounced that hypocrisy and lies do not last long on the chessboard. Sadly, they seem to be flourishing in other walks of life. Rachel Millward, deputy leader of the Green Party, has been widely criticised for opposing a new asylum shelter in Crowborough, East Sussex, near her []",
