@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2025-12-14","12","<a href=https://ratings.uschess.org/event/202512140233 target='_blank'>Bellaire Sunday Swiss 2025.12.14</a>",
+"HOUSTON","2025-12-13","360","<a href=https://ratings.uschess.org/event/202512131123 target='_blank'>MIMS TOURNAMENT DEC 2025</a>",
 "PASADENA","2025-12-12","22","<a href=https://ratings.uschess.org/event/202512120243 target='_blank'>Checkmates on Fairmont</a>",
 "SUGAR LAND","2025-12-12","14","<a href=https://ratings.uschess.org/event/202512120153 target='_blank'>FBCC 2025 International Pho Day Open</a>",
 "HOUSTON","2025-12-10","2","<a href=https://ratings.uschess.org/event/202512100183 target='_blank'>AW v JMcD</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2025-09-06","156","<a href=https://ratings.uschess.org/event/202509065642 target='_blank'>NOTTINGHAM ELEMENTARY SCHOLASTIC</a>",
 "HOUSTON","2025-09-06","14","<a href=https://ratings.uschess.org/event/202509065242 target='_blank'>CHESSPANDA09062025</a>",
 "CYPRESS","2025-09-05","38","<a href=https://ratings.uschess.org/event/202509054922 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SUGAR LAND","2025-09-05","10","<a href=https://ratings.uschess.org/event/202509054902 target='_blank'>FBCC 2025 WORLD SAMOSA DAY OPEN/FBC</a>",
-"HOUSTON","2025-09-05","18","<a href=https://ratings.uschess.org/event/202509054872 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
