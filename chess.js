@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Global Chess League began its third season in Mumbai with three matches played in succession at the Royal Opera House. Day one combined a revised time control with the league's established scoring system and immediately produced several high-profile encounters on the top boards. Defending champions Triveni Continental Knights, led by Alireza Firouzja (who defeated Fabiano Caruana), opened with a win, much like Upgrad Mumba Masters and Fyers American Gambits. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-1",
+         "pubDate" : "Mon, 15 Dec 2025 07:30:00",
+         "title" : "GCL: Firouzja's brilliant win over Caruana helps Continental Kings score first victory"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125970655.cms\" />Indian chess stalwarts Viswanathan Anand and Koneru Humpy faced defeats in the Global Chess League. Meanwhile, the UpGrad Mumba Masters launched their campaign with a dominant 17-4 victory over Anand's Ganges Grandmasters. Top Indian Grandmasters Gukesh D, Arjun Erigaisi, and Praggnanandhaa R secured draws in their respective matches.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/hosts-mumba-start-gcl-season-3-in-style/articleshow/125970655.cms",
+         "pubDate" : "Mon, 15 Dec 2025 04:40:49",
+         "title" : "Hosts Mumba start GCL season 3 in style"
+      },
+      {
          "description" : "The 11th edition of the Vugar Gashimov Memorial was held in Khankendi as a combined rapid and blitz tournament featuring six players. Organised in memory of the late Azerbaijani grandmaster, the event followed a double round-robin format in both sections, with the overall standings determined by combined results. A closely fought contest at the top between rating favourites Ian Nepomniachtchi and Vladimir Fedoseev was only decided on tiebreaks after the final blitz round. | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/christmas-offer-chessbase-26-plus-fritz20-the-winning-bundle",
          "pubDate" : "Sun, 14 Dec 2025 13:00:00",
          "title" : "Christmas offer: ChessBase'26 plus Fritz 20 - the winning bundle!"
-      },
-      {
-         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure with fixed lineups, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.30 CET (6.30 ET, 17.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
-         "pubDate" : "Sun, 14 Dec 2025 12:30:00",
-         "title" : "Global Chess League - Live!"
       },
       {
          "description" : "GM Alireza Firouzja played a brilliant sacrifice to defeat GM Fabiano Caruana while GM Wei Yi took down GM Anish Giri as two-time Tech Mahindra Global Chess League champions Triveni Continental Kings began season three with a win. Of the world&#39;s t...",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-not-a-surprise-anish-giri-on-lesser-favourites-divya-deshmukh-javokhir-sindarov-winning-chess-world-cups/articleshow/125634762.cms",
          "pubDate" : "Fri, 28 Nov 2025 10:16:22",
          "title" : "Exclusive | 'Not a surprise': Dutch No. 1 Giri on Divya-Sindarov WC wins"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125634240.cms\" />Olympic champion Abhinav Bindra offers perspective on D Gukesh's recent chess performance dip, calling it a natural phase post-major success. Bindra emphasizes returning to basics and recharging energy, both physically and mentally, to overcome such periods. He notes that in sports, past achievements fade, and continuous effort and finding joy are key to navigating these cycles.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/you-simply-cant-jump-to-the-next-peak-abhinav-bindra-on-d-gukeshs-post-world-championship-performance/articleshow/125634240.cms",
-         "pubDate" : "Fri, 28 Nov 2025 09:52:51",
-         "title" : "'You can't jump to the next peak': Bindra on Gukesh's slump post World C'ship"
       },
       {
          "description" : "The Indian women's chess team delivered one of its most spirited performances on the world stage at the 2025 FIDE World Women's Team Championship, held",
