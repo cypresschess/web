@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 11th edition of the Vugar Gashimov Memorial was held in Khankendi as a combined rapid and blitz tournament featuring six players. Organised in memory of the late Azerbaijani grandmaster, the event followed a double round-robin format in both sections, with the overall standings determined by combined results. A closely fought contest at the top between rating favourites Ian Nepomniachtchi and Vladimir Fedoseev was only decided on tiebreaks after the final blitz round. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2025-final-report",
+         "pubDate" : "Sun, 14 Dec 2025 20:15:00",
+         "title" : "Gashimov Memorial: Nepomniachtchi successfully defends his title in Khankendi"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125963044.cms\" />Mumba Masters dominated Ganges Grandmasters with a 17-4 win. Defending champions Triveni Continental Kings started their title defence with a 9-7 victory over SG Pipers. Alireza Firouzja won a key match for the Kings. The Global Chess League Season 3 has begun with exciting clashes and strong performances from top players. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-1",
          "pubDate" : "Sun, 14 Dec 2025 12:21:00",
          "title" : "Firouzja Stuns Caruana As Global Chess League Begins In Mumbai"
+      },
+      {
+         "description" : "Spokane, WA: The 501(c)3 US Chess Federation's National K-12 Grade Championships took place from December 12 through 14 at the Spokane Convention Center in Spokane, Washington. This annual tournament takes place every December, and is the only national tournament with no \"Under\" sections, instead putting every player from each grade in one section to compete for the title of Grade Champion. Note: All winners are listed in tiebreak order. 12th Grade: FM William Safranek (NY) and Jed Sloan (NY), 6/712th Grade Team: Stuyvesant High School, 15/21 11th Grade: IM Erick Zhao (PA), 6&frac12;/711th Grade Team: The Frazer School (FL), 15/21 10th Grade: Sebastian Suarez (CA), 6&frac12;/710th Grade Team",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/flash-report-winners-crowned-national-k-12-grade-championships-spokane",
+         "pubDate" : "Sun, 14 Dec 2025 00:00:00",
+         "title" : "Flash Report: Winners Crowned at National K-12 Grade Championships in Spokane"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> All photos by Hiedi Bulkley.<br> <br> <br> <br> It all comes down to Sunday. After three grueling rounds on Saturday, the stakes are high for the final two rounds of the 2025 National K-12 Grade Championships in Spokane, WA.After a number of upsets on Saturday, most sections have only one or two players at the top of the standings with large groups of players in the chasing pack, so anything can happen. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> ",
@@ -536,14 +552,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/dec/05/three-year-old-chess-prodigy-youngest-official-rating-sarwagya-singh-kushwaha",
          "pubDate" : "Fri, 05 Dec 2025 01:26:21",
          "title" : "Three-year-old chess prodigy becomes youngest player to earn official rating"
-      },
-      {
-         "description" : "Editor's note: Since becoming Digital Editor for Chess Life Online, I have dreamt of publishing more regular wrap-ups of the sorts of events that are eligible for our Plan Ahead Calendar (as well as invitational tournaments).Do you want coverage of your tournament on Chess Life Online for future reporting or roundups?If so, email Click here to show email address with information of upcoming or recently concluded (i.e. within 1-2 weeks) events.For concluded tournaments, please include links to or screenshots of final standings, as well as links to DGT games or attached, transcribed game scores from 1-3 games of winners. Photos of the tournament and of winners are also a plus (cell phone photo",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/thanksgiving-weekend-wrap",
-         "pubDate" : "Fri, 05 Dec 2025 00:00:00",
-         "title" : "Thanksgiving Weekend Wrap-Up"
       },
       {
          "description" : "Almost all the favorites won their SuperPogChamps quarterfinal matches. Sardoche overpowered Linda Diaz with his chess, while Wirtual&#39;s own mouse betrayed him in his match against Andrea Botez. In the Consolation Bracket, Cows went extinct as Sp...",
