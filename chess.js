@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last week, Vlastimil Hort found his final resting place at Prague's Vyšehrad National Cemetery. It was \"Vlasti's\" wish to be buried in his hometown. His family, friends and companions gave him a final send-off - with a glass of champagne, for a special reason.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/au-revoir-vlastimil",
+         "pubDate" : "Tue, 16 Dec 2025 17:00:00",
+         "title" : "\"Au revoir, Vlastimil!\""
+      },
+      {
          "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure with fixed lineups, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.30 CET (6.30 ET, 17.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
