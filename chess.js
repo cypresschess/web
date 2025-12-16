@@ -18,6 +18,14 @@ news_feed (
          "title" : "English Youth Championship"
       },
       {
+         "description" : "GM Alireza Firouzja took down World Champion Gukesh Dommaraju as Triveni Continental Kings won 15-3 to stay perfect on day two of the Tech Mahindra Global Chess League 2025. Other team leaders had mixed days. GM Hikaru Nakamura beat GM Maxime Vach...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-2",
+         "pubDate" : "Mon, 15 Dec 2025 13:22:00",
+         "title" : "Firouzja, Mamedyarov Star As Mumba Masters, Continental Kings Stay Perfect"
+      },
+      {
          "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure with fixed lineups, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.30 CET (6.30 ET, 17.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,7 +114,7 @@ news_feed (
          "title" : "Firouzja Stuns Caruana As Global Chess League Begins In Mumbai"
       },
       {
-         "description" : "Spokane, WA: The 501(c)3 US Chess Federation's National K-12 Grade Championships took place from December 12 through 14 at the Spokane Convention Center in Spokane, Washington. This annual tournament takes place every December, and is the only national tournament with no \"Under\" sections, instead putting every player from each grade in one section to compete for the title of Grade Champion. Note: All winners are listed in tiebreak order. Note: If there isn't a photo of your child with their medal, please send one to Click here to show email address. 12th Grade: FM William Safranek (NY) and Jed Sloan (NY), 6/712th Grade Team: Stuyvesant High School, 15/21 11th Grade: IM Erick Zhao (PA), 6&fra",
+         "description" : "Spokane, WA: The 501(c)3 US Chess Federation's National K-12 Grade Championships took place from December 12 through 14 at the Spokane Convention Center in Spokane, Washington. This annual tournament takes place every December, and is the only national tournament with no \"Under\" sections, instead putting every player from each grade in one section to compete for the title of Grade Champion. Note: All winners are listed in tiebreak order. Note: If there isn't a photo of your child with their medal, please send one to Click here to show email address. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> 12th Grade: FM William Safranek (NY) and Jed Sloan (NY), 6/7 <br> <br> <br",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/flash-report-winners-crowned-national-k-12-grade-championships-spokane",
@@ -624,14 +632,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-from-dying-from-spice-to-iphone-revolt-and-gukesh-mode-dutch-no-1-anish-giri-opens-box-of-not-quite-chess-tales/articleshow/125767320.cms",
          "pubDate" : "Thu, 04 Dec 2025 12:45:48",
          "title" : "Exclusive | From 'iPhone revolt' to 'Gukesh mode': Dutch No.1 opens box of not-quite-chess tales"
-      },
-      {
-         "description" : "When Jaguar TCS Racing was looking for someone to help launch their new campaign ahead of Season 12 of the all-electric Formula E Championship, they turned to renowned streamer, content creator, and WFM Anna Cramling. &#38;ldquo;In chess, every piec...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jaguar-teams-up-with-anna-cramling-campaign",
-         "pubDate" : "Thu, 04 Dec 2025 12:16:00",
-         "title" : "Jaguar TCS Racing Teams Up With Anna Cramling For New Campaign"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125760568.cms\" />Young Grandmaster Arjun Erigaisi triumphed at the Jerusalem Masters, defeating legendary Viswanathan Anand in a thrilling all-Indian final. After drawing the rapid games, Erigaisi secured the title by winning the first blitz tie-break. He expressed relief at overcoming challenges and playing well in the crucial blitz encounters, ultimately pocketing a significant prize.",
