@@ -18,6 +18,14 @@ news_feed (
          "title" : "Global Chess League - Live!"
       },
       {
+         "description" : "By his own admission, it wasn&#39;t pretty, but GM Magnus Carlsen got the job done in Titled Tuesday on December 16, scoring 9.5 points to win outright despite a loss in the second round and a worse final position in the 11th round as he successfully ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-december-16-2025",
+         "pubDate" : "Tue, 16 Dec 2025 11:53:08",
+         "title" : "Carlsen Shakes Off Early Setback, Wins Another Titled Tuesday"
+      },
+      {
          "description" : "Please Find the DGT Live Games Links of respective categories, Open https://view.livechesscloud.com/#7fc18391-d457-47ed-b746-7d81569ab742 Girls&#160; https://view.livechesscloud.com/#3f18d208-71a6-4d65-984c-997d81c05444",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/can-india-s-91st-gm-take-the-cake",
          "pubDate" : "Tue, 16 Dec 2025 06:53:57",
          "title" : "Can India's 91st GM take the cake?"
+      },
+      {
+         "description" : "This week's puzzles come from the 2025 North American Junior Championships, where FM Julian Colville earned a GM norm and the IM title and WFM Laurie Qiu earned a WGM norm for their gold medals. Read more about this event here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-north-american-junior-championships",
+         "pubDate" : "Tue, 16 Dec 2025 00:00:00",
+         "title" : "Tactics Tuesday: North American Junior Championships"
       },
       {
          "description" : "We take a unique behind-the-scenes look at how top chess masters organize their digital workspace. Grandmasters and trainers reveal their personal ChessBase 26 setups - from meticulously clean desktops to chaotic databases full of ideas. They show us their board designs, current projects, and discuss their favourite or most-used ChessBase functions, offering fascinating insights into how great minds prepare, study, and work with chess every day.",
@@ -506,14 +522,6 @@ news_feed (
          "title" : "Exclusive | 'Mango, Paneer, &amp; ...': Not just chess on Russian GM's mind as GCL makes India debut"
       },
       {
-         "description" : "Players from the USA delegation won gold medals in all three events of the North American Junior Chess Championship Under-20, held from Nov. 30 through Dec. 7 in Oaxtepec, Morelos, Mexico. Nine Americans made the trip, and 53 players total competed.FM Julian Colville won the Under-20 Open with a blistering 8&frac12;/9 performance, earning (update: the direct IM title and) a GM norm per the direct title regulations. Colville's performance rating of 2629, including games against players from three federations, would have been good for a traditional GM norm, as well. FM Donald Johnson tied for second, winning the silver medal on tiebreaks with a with 6&frac12;/9, earning a direct IM norm. WFM L",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/colville-qiu-earn-gold-norms-north-american-junior-championship",
-         "pubDate" : "Mon, 08 Dec 2025 00:00:00",
-         "title" : "Colville, Qiu Earn Gold, Norms at North American Junior Championship"
-      },
-      {
          "description" : "The great world chess champion Emanuel Lasker famously pronounced that hypocrisy and lies do not last long on the chessboard. Sadly, they seem to be flourishing in other walks of life. Rachel Millward, deputy leader of the Green Party, has been widely criticised for opposing a new asylum shelter in Crowborough, East Sussex, near her []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/superpogchamps-day-3",
          "pubDate" : "Thu, 04 Dec 2025 15:00:00",
          "title" : "Andrea Botez, Sardoche Reach Championship Bracket Semifinals"
-      },
-      {
-         "description" : "The Finals of the Freestyle Chess Grand Slam Tour 2025, taking place near Cape Town, South Africa, are just around the corner. The year-long tour brings together eight world-class players to compete in a Chess960 tournament that starts at the Groo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-tour-finals-preview",
-         "pubDate" : "Thu, 04 Dec 2025 14:57:00",
-         "title" : "Niemann Wins Diving Chess Championship In Lead-Up To Freestyle Chess Finals"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125767320.cms\" />Anish Giri found a crucial turning point in his chess career during the Global Chess League (GCL) last year, overcoming a dip in form and confidence. He shares humorous anecdotes about team bonding, food preferences, and even a playful \"iPhone mutiny.\" Giri sees the upcoming GCL season as a vital warm-up for the FIDE World Rapid and Blitz Championships. ",
