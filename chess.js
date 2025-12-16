@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure with fixed lineups, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.30 CET (6.30 ET, 17.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
+         "pubDate" : "Tue, 16 Dec 2025 12:00:00",
+         "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "Please Find the DGT Live Games Links of respective categories, Open https://view.livechesscloud.com/#7fc18391-d457-47ed-b746-7d81569ab742 Girls&#160; https://view.livechesscloud.com/#3f18d208-71a6-4d65-984c-997d81c05444",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/dgt-live-games-link-of-54th-national-junior-open-39th-national-junior-girls-chess-championship-2025-jamshedpur-jharkhand/",
+         "pubDate" : "Tue, 16 Dec 2025 10:21:57",
+         "title" : "DGT Live Games Link of 54th National Junior Open & 39th National Junior Girls Chess Championship 2025, Jamshedpur (Jharkhand))"
+      },
+      {
          "description" : "The Global Chess League began with a clear early hierarchy, as two teams emerged with perfect records after the first two days of action. Defending champion Triveni Continental Kings and upGrad Mumba Masters both secured back-to-back victories, while the remaining teams experienced mixed fortunes. The top scorers for the leading teams are Alireza Firouzja (Continental Kings), Shakhriyar Mamedyarov and Bardiya Daneshvar (Mumba Masters), who have won both their games in Mumbai. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -824,14 +840,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2025-live",
          "pubDate" : "Wed, 26 Nov 2025 10:20:00",
          "title" : "FIDE World Cup, Finals - Live!"
-      },
-      {
-         "description" : "The European Amateur Chess Championships 2025 is set to take place from 25 November to 5 December in Mellieha, Malta. The event is played in three age categories: U2300, U2000, and U1700, and each Championship will be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for each move starting from move one. The event is played at the Conference Hall []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-amateur-chess-championship-2025-starts-in-malta/",
-         "pubDate" : "Tue, 25 Nov 2025 09:57:56",
-         "title" : "European Amateur Chess Championship 2025 starts in Malta"
       }
    ]
 }
