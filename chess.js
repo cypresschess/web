@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Global Chess League began with a clear early hierarchy, as two teams emerged with perfect records after the first two days of action. Defending champion Triveni Continental Kings and upGrad Mumba Masters both secured back-to-back victories, while the remaining teams experienced mixed fortunes. The top scorers for the leading teams are Alireza Firouzja (Continental Kings), Shakhriyar Mamedyarov and Bardiya Daneshvar (Mumba Masters), who have won both their games in Mumbai. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-2",
+         "pubDate" : "Tue, 16 Dec 2025 07:30:00",
+         "title" : "GCL: Firouzja beats Gukesh, Mumba Masters and Continental Kings lead"
+      },
+      {
+         "description" : "Last year Indian GM Iniyan Panneerselvam won the 9th Johor International Chess Open. In second place was Indian IM Raahul VS. This year the 22-year-old Raahul returns to the Johor Open as the second-highest ranked player in the field - fresh from receiving his full GM title and thirsting for more. It is an exciting chess festival which you can attend. Here are all the details.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/can-india-s-91st-gm-take-the-cake",
+         "pubDate" : "Tue, 16 Dec 2025 06:53:57",
+         "title" : "Can India's 91st GM take the cake?"
+      },
+      {
          "description" : "We take a unique behind-the-scenes look at how top chess masters organize their digital workspace. Grandmasters and trainers reveal their personal ChessBase 26 setups - from meticulously clean desktops to chaotic databases full of ideas. They show us their board designs, current projects, and discuss their favourite or most-used ChessBase functions, offering fascinating insights into how great minds prepare, study, and work with chess every day.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-2",
          "pubDate" : "Mon, 15 Dec 2025 13:22:00",
          "title" : "Firouzja, Mamedyarov Star As Mumba Masters, Continental Kings Stay Perfect"
-      },
-      {
-         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure with fixed lineups, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.30 CET (6.30 ET, 17.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
-         "pubDate" : "Mon, 15 Dec 2025 12:00:00",
-         "title" : "Global Chess League - Live!"
       },
       {
          "description" : "At the FIDE General Assembly, which was held digitally, the majority of delegates voted to lift sanctions against Belarus and Russia. At youth competitions, anthems may be played and the flags of both federations may be displayed again. Their teams are once again eligible to participate in official FIDE competitions.",
