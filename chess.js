@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Charles Troutman III is a rising senior set to graduate from Washington University in May 2026. The Atlanta native has decided on a career in technology and is currently an intern at the design company Figma. Located near Silicon Valley, the company had a massive IPO in July, resulting in a $68 billion valuation, and The post <a href=\"https://thechessdrum.net/blog/2025/12/17/nm-charles-troutman-to-lead-washu-for-pan-ams/\">NM Charles Troutman to lead WashU for Pan-Ams</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/12/17/nm-charles-troutman-to-lead-washu-for-pan-ams/",
+         "pubDate" : "Wed, 17 Dec 2025 18:48:13",
+         "title" : "NM Charles Troutman to lead WashU for Pan-Ams"
+      },
+      {
+         "description" : "At the European Team Championship 2025, Ukraine's men won gold and the women won silver - an exceptional achievement under difficult circumstances. In an in-depth interview, team captain Alexander Beliavsky and coach Adrian Mikhalchishin reflect on the role of team spirit, emerging talent, and resilience in one of the most remarkable successes in Ukrainian chess history. | The photos in the text come from the Ukrainian team",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ukraine-s-golden-comeback-beliavsky-mikhalchishin-on-triumph-amid-war",
+         "pubDate" : "Wed, 17 Dec 2025 18:00:00",
+         "title" : "Triumph amid war: Ukraine's success at the European Team Championship - an interview with Alexander Beliavsky and Adrian Mikhalchishin"
+      },
+      {
          "description" : "There are many stories about chess changing individual lives. This one is about a small coastal village in Tamil Nadu, called Neerodi, where the game slowly changed everyday habits. For years, the village was known for gambling. When chess entered the scene, it brought a new way to spend time. The change slowly started becoming visible through IA Ephrame's \"Chess Replaces Gambling\" project. With the dedication of Jain Marlet, chess reached more children and families across the village. Today, the change is visible in the choices people make in the village.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
          "pubDate" : "Wed, 17 Dec 2025 12:00:00",
          "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "GM Alireza Firouzja won his fourth consecutive game in the Tech Mahindra Global Chess League 2025 as he took down GM Viswanathan Anand to help Triveni Continental Kings to an 11-6 bounce-back win over the Ganges Grandmasters. That came despite GM ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-4",
+         "pubDate" : "Wed, 17 Dec 2025 11:59:20",
+         "title" : "Firouzja Storms To 4/4 As Continental Kings, Mumba Masters Hit Back"
       },
       {
          "description" : "The ECF condemns the conduct of the FIDE Congress staged online last Sunday. There were multiple abuses of process, not least, conducting the vote on Russian teams in secret was...",
@@ -128,6 +152,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/12-year-old-faustino-oro-edges-closer-to-youngest-ever-gm-title",
          "pubDate" : "Wed, 17 Dec 2025 05:16:00",
          "title" : "12-Year-Old Faustino Oro Edges Closer To Youngest-Ever GM Title"
+      },
+      {
+         "description" : "This week's puzzles come from the 2025 North American Junior Championships, where FM Julian Colville earned a GM norm and the IM title and WFM Laurie Qiu earned a WGM norm for their gold medals. Read more about this event here, and check out even more puzzles from this event in yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-north-american-junior-championships",
+         "pubDate" : "Wed, 17 Dec 2025 00:00:00",
+         "title" : "Wednesday Workout: North American Junior Championships"
       },
       {
          "description" : "Last week, Vlastimil Hort found his final resting place at Prague's Vyšehrad National Cemetery. It was \"Vlasti's\" wish to be buried in his hometown. His family, friends and companions gave him a final send-off - with a glass of champagne, for a special reason.",
@@ -530,14 +562,6 @@ news_feed (
          "title" : "Erdogmus Beats Vachier-Lagrave, Smashes Carlsen's Record As Youngest In Top 50"
       },
       {
-         "description" : "The Spokane, WA official city motto is, \"In Spokane, we all belong,\" which is perfect for the 2025 National K-12 Grade Championships, taking place this weekend, Dec. 11-14 in the Lilac City. This will be the annual event's first time on the West Coast since 1992 - and its first time further west than Texas since 2011 - making the tournament more accessible to a cross-section of new scholastic players competing in their first national event and more seasoned veterans alike. The list of 1,350+ players currently registered includes some of America's best scholastic players. Top seeds include Pennsylvania's IM Erick Zhao (11th grade), New York's FM Aditeya Das (NY, 9th grade), Virginia's Kent Sl",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-national-k-12-grade-championships-preview",
-         "pubDate" : "Tue, 09 Dec 2025 00:00:00",
-         "title" : "2025 National K-12 Grade Championships Preview"
-      },
-      {
          "description" : " The 15th XTX Markets London Chess Classic took place Wed 26th Nov to Sun 7th Dec 2025. Players: Alireza Firouzja, Luke Mcshane, Michael Adams, Nikolas Theodorou, Sam Shankland, Nodirbek Abdusattorov, Pavel Eljanov, Nikita Vitiugov, Abhimanyu Mishra and Gawain Maroroa Jones. Nodirbek Abdusattorov dominated the event scoring 7.5/9 and finished two points clear of Alireza Firouzja. The open saw Praggnanandhaa, Vladimir Ivic and Ameet Ghasi tie on 7/9. The Super Rapid was won by Nikolas Theodorou on 9/10 with Alireza Firouza half a point behind on 8.5 points.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -664,14 +688,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/artemiev-terry-atanasov-3-0-thursday-12-4-2025",
          "pubDate" : "Fri, 05 Dec 2025 10:55:16",
          "title" : "Terry Wins 3 0 Thursday For Third Straight Week, Joined By Artemiev and Atanasov"
-      },
-      {
-         "description" : "GM Sina Movahed won Freestyle Friday on December 5 with a round to spare, becoming just the fourth player to win the event at least four times. Even more impressively, Movahed won 10 straight games to end the tournament, persevering despite a loss...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/movahed-wins-freestyle-friday-december-5-2025",
-         "pubDate" : "Fri, 05 Dec 2025 10:38:43",
-         "title" : "10-Game Win Streak Carries Movahed To 4th Freestyle Friday"
       },
       {
          "description" : " Nodirbek Abdusattorov's six game winning streak might have ended with a draw against Alireza Firouzja in Round 8 but it confirmed a clear win for him in the London Chess Classic with a round to spare, and this result was obtained from a position of strength. Abdusattorov had beaten Luke McShane in Round 7 with a long grind giving him a two point lead over Firouzja. Their Round 8 game was a Queen's Gambit Accepted where the engine thought Abdusattorov's 15...Rb6 was inferior to 15...Nd8= and that 16.Qe2 instead of 16.Qa4 might have given an edge to Firouzja. As it was Abdusattorov was the one who stood slightly better and when he repeated for a draw Firouzja had no choice whilst Abdusattorov",
@@ -864,14 +880,6 @@ news_feed (
          "link" : "https://aicf.in/gm-javokhir-sindarov-crowned-2025-fide-world-cup-champion/",
          "pubDate" : "Thu, 27 Nov 2025 08:12:26",
          "title" : "GM Javokhir Sindarov crowned 2025 FIDE World Cup Champion"
-      },
-      {
-         "description" : " Javokhir Sindarov beat Wei Yi in the final of the <a href=\"https://theweekinchess.com/chessnews/events/fide-world-cup-2025\">FIDE World Cup</a>. The two classical games were drawn taking the match to a final tie-break. The first classical game was a Petroff Defence where Wei Yi as black briefly had a small advantage, the second game was a 30 move draw in a Four Knights that only took a few minutes to execute. The rapid games were not of the highest quality, both players were almost certainly very tired, and they'd also achieved their main objective, qualifying for the Candidates. In the first rapid game Wei Yi blundered with 30...g5? and this could have been met by 31.Be4! winning. The secon",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/javokhir-sindarov-wins-the-fide-world-cup-2025",
-         "pubDate" : "Wed, 26 Nov 2025 17:52:00",
-         "title" : "Javokhir Sindarov wins the FIDE World Cup 2025 - 8"
       }
    ]
 }
