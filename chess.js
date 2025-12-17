@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Faustino Oro has reached his goal: with a draw in the final round of the Magistral Szmetan-Giardelli in Buenos Aires, the twelve-year-old Argentine made his second grandmaster norm. He now needs just one more norm to earn the title. Norway's Aryan Tari won the tournament, but his strong performance was somewhat overshadowed by Oro's chase for a GM norm. | Photos: FADA",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aryan-tari-wins-tournament-faustino-oro-gets-second-norm",
+         "pubDate" : "Wed, 17 Dec 2025 08:15:49",
+         "title" : "Tari wins tournament, Oro gets second norm"
+      },
+      {
+         "description" : "Momentum changed suddenly on the third day of the Global Chess League in Mumbai, as the early leaders were brought back into a tightly packed field. All three matches produced decisive results, reshaping the standings and leaving four teams level at the top. The day featured a notable top-board victory by Vishy Anand over Gukesh Dommaraju in the battle of Indian world champions, while Alireza Firouzja maintained his perfect start, extending his run to three wins from three games. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-3",
+         "pubDate" : "Wed, 17 Dec 2025 07:30:00",
+         "title" : "GCL: Four teams tied for first place, Anand beats Gukesh"
+      },
+      {
          "description" : "Last week, Vlastimil Hort found his final resting place at Prague's Vyšehrad National Cemetery. It was \"Vlasti's\" wish to be buried in his hometown. His family, friends and companions gave him a final send-off - with a glass of champagne, for a special reason.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-3",
          "pubDate" : "Tue, 16 Dec 2025 12:29:00",
          "title" : "Anand Beats Gukesh As Leading Teams Lose On Global Chess League Day 3"
-      },
-      {
-         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure with fixed lineups, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.30 CET (6.30 ET, 17.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
-         "pubDate" : "Tue, 16 Dec 2025 12:00:00",
-         "title" : "Global Chess League - Live!"
       },
       {
          "description" : "By his own admission, it wasn&#39;t pretty, but GM Magnus Carlsen got the job done in Titled Tuesday on December 16, scoring 9.5 points to win outright despite a loss in the second round and a worse final position in the 11th round as he successfully ...",
