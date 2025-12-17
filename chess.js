@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There are many stories about chess changing individual lives. This one is about a small coastal village in Tamil Nadu, called Neerodi, where the game slowly changed everyday habits. For years, the village was known for gambling. When chess entered the scene, it brought a new way to spend time. The change slowly started becoming visible through IA Ephrame's \"Chess Replaces Gambling\" project. With the dedication of Jain Marlet, chess reached more children and families across the village. Today, the change is visible in the choices people make in the village.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-replaced-gambling-neerodi",
+         "pubDate" : "Wed, 17 Dec 2025 17:15:00",
+         "title" : "How chess replaced gambling in the coastal village of Neerodi"
+      },
+      {
+         "description" : " The Magistral Szmetan-Giardelli was Round Robin held in Buenos Aire 8th to 16th December 2025. Players: Aryan Tari, Ivan Cheparinov, Julio, Granda Zuniga, Alexei Shirov, Diego Flores, Sandro Mareco, Faustino Oro, Ilan Schnaider, Sergio Slipak and Tomas, Darcyl. Aryan Tari took a quick draw in the final round and won on tie-break from Ivan Cheparinov after both scored 6/9, Alexei Shirov was also very much in the running for first place going into the final round but lost to Granda Zuniga in the final round and ended up in third place on tie-break from Faustino Oro on 5.5/9.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/magistral-szmetan-giardelli-2025",
+         "pubDate" : "Wed, 17 Dec 2025 15:41:00",
+         "title" : "Magistral Szmetan-Giardelli 2025 - Games and Results"
+      },
+      {
+         "description" : "Hi, my name is GM Danny Gormally and I am a friend of Jonathan Hawkins, who is a former British chess champion and chess grandmaster. Unfortunately Jonathan is currently facing...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-chess-champion-jonathan-hawkins-cancer-appeal/",
+         "pubDate" : "Wed, 17 Dec 2025 13:38:50",
+         "title" : "British Chess Champion Jonathan Hawkins Cancer Appeal"
+      },
+      {
+         "description" : "Saturday 14th and Sunday 15th March at the&#160;Holiday Inn Peterborough - West,&#160;Thorpe Wood, Peterborough, PE3 6SG. One FIDE rated OPEN section, with a prize fund of at least &pound;6,500.&#160;GMs/WGMs and...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-rapidplay-championship-2026/",
+         "pubDate" : "Wed, 17 Dec 2025 13:26:53",
+         "title" : "British Rapidplay Championship 2026"
+      },
+      {
+         "description" : "The 51st National Women Chess Championship 2025 was held from 3rd to 13th December 2025 at the Sidhu Kanhu Indoor Stadium, Durgapur, West Bengal. This",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fina-report51st-national-womens-chess-championship-2025-in-durgapur-from-03-13-dec-2025/",
+         "pubDate" : "Wed, 17 Dec 2025 12:44:05",
+         "title" : "Final Report:51st National Women's Chess Championship 2025 in Durgapur from 03-13 Dec 2025"
+      },
+      {
          "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure with fixed lineups, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.30 CET (6.30 ET, 17.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +90,7 @@ news_feed (
          "title" : "ECF Level 1 Arbiter Course January 2026 (Online)"
       },
       {
-         "description" : "The prison HMP Littlehey is a large Category C men's prison in Cambridgeshire, England, specializing in holding adult males convicted of sexual offenses, and is known as the largest prison...",
+         "description" : " from Carl Portman, ECF Manager for Chess in Prisons The prison HMP Littlehey is a large Category C men's prison in Cambridgeshire, England, specializing in holding adult males convicted...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/visit-to-hmp-littlehey-on-10-december-2025/",
@@ -66,12 +106,28 @@ news_feed (
          "title" : "Tari wins tournament, Oro gets second norm"
       },
       {
+         "description" : "Another year has gone by, and chess keeps getting bigger and bigger! Coming from a sequence of record-breaking years for chess, it was hard to believe that 2025 could be even better. But after a year of dramatic events, newsworthy viral moments, a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-chesscom-awards-vote",
+         "pubDate" : "Wed, 17 Dec 2025 08:00:00",
+         "title" : "Celebrate Another Great Year Of Chess By Voting For The 2025 Chess.com Awards"
+      },
+      {
          "description" : "Momentum changed suddenly on the third day of the Global Chess League in Mumbai, as the early leaders were brought back into a tightly packed field. All three matches produced decisive results, reshaping the standings and leaving four teams level at the top. The day featured a notable top-board victory by Vishy Anand over Gukesh Dommaraju in the battle of Indian world champions, while Alireza Firouzja maintained his perfect start, extending his run to three wins from three games. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/global-chess-league-2025-3",
          "pubDate" : "Wed, 17 Dec 2025 07:30:00",
          "title" : "GCL: Four teams tied for first place, Anand beats Gukesh"
+      },
+      {
+         "description" : "Twelve-year-old Argentinian chess prodigy IM Faustino Oro is one step closer to making history by becoming the youngest-ever grandmaster. On Tuesday, he scored another fantastic performance and achieved his second norm in Buenos Aires, Argentina. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/12-year-old-faustino-oro-edges-closer-to-youngest-ever-gm-title",
+         "pubDate" : "Wed, 17 Dec 2025 05:16:00",
+         "title" : "12-Year-Old Faustino Oro Edges Closer To Youngest-Ever GM Title"
       },
       {
          "description" : "Last week, Vlastimil Hort found his final resting place at Prague's Vyšehrad National Cemetery. It was \"Vlasti's\" wish to be buried in his hometown. His family, friends and companions gave him a final send-off - with a glass of champagne, for a special reason.",
@@ -418,14 +474,6 @@ news_feed (
          "title" : "Wednesday Workout: U.S. Masters, Pt. 2"
       },
       {
-         "description" : " The Magistral Szmetan-Giardelli is a very interesting Round Robin held in Buenos Aire 8th to 16th December 2025. Players: Aryan Tari, Ivan Cheparinov, Julio, Granda Zuniga, Alexei Shirov, Diego Flores, Sandro Mareco, Faustino Oro, Ilan Schnaider, Sergio Slipak and Tomas, Darcyl. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/magistral-szmetan-giardelli-2025",
-         "pubDate" : "Tue, 9 Dec 2025 18:48:00",
-         "title" : "Magistral Szmetan-Giardelli 2025 - Games and Results"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125873635.cms\" />Magnus Carlsen has secured the 2025 Freestyle Chess Grand Slam Tour title, earning a $100,000 bonus after reaching the semifinals in Cape Town. Despite an early setback, Carlsen fought back to clinch the championship. He will face Sindarov in the semifinals, while Keymer plays Aronian for a spot in the finals.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -634,28 +682,12 @@ news_feed (
          "title" : "Abdusattorov's draw with Firouzja confirms victory in the London Chess Classic - 7-8"
       },
       {
-         "description" : "Sarwagya Singh Kushwaha from India was 2.5 years old when he picked up chess. Now he plays up to five hours a day, and at just three years, seven months, and 20 days, he has become the youngest FIDE-rated player.&#38;nbsp; Chess is becoming younger ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/3-year-old-breaks-record-as-youngest-ever-rated-player",
-         "pubDate" : "Fri, 05 Dec 2025 08:35:00",
-         "title" : "3-Year-Old Sarwagya Achieves Official 1572 FIDE Rating"
-      },
-      {
          "description" : " The Uzbek shone at London Classic and a near-3000 tournament performance reaffirmed his place among world's best This week's XTX London Classic at Arsenal's Emirates Stadium took place in an elegant arena with a full view of the football pitch. The English players suffered for most of the event, but hit back in style on Thursday when all four won their eighth-round games. Final scores were Nodirbek Abdusattorov (Uzbekistan) 7.5, Alireza Firouzja (France) 5.5, Nikita Vitiugov (England) 5, Luke McShane and Michael Adams (both England) 4.5, Nikolas Theodorou (Greece) and Pavel Eljanov (Ukraine) 4, Abhimanyu Mishra (USA) and Gawain Maroroa Jones (England) 3.5, Sam Shankland (USA) 3. The four En",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/dec/05/nodirbek-abdusattorov-overwhelms-rivals-london-classic-chess",
          "pubDate" : "Fri, 05 Dec 2025 08:00:44",
          "title" : "Abdusattorov overwhelms rivals at Arsenal but England hit back in style"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov clinched &#34;truly an amazing tournament for me&#34; with a round to spare after forcing a draw from a position of strength against GM Alireza Firouzja. Elsewhere in the London Chess Classic Elite Tournament it was a dream day fo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-london-chess-classic-round-8",
-         "pubDate" : "Fri, 05 Dec 2025 05:03:40",
-         "title" : "Abdusattorov Wins 2025 London Chess Classic, Praggnanandhaa Closes In On Candidates"
       },
       {
          "description" : "<ul><li> Sarwagya Singh Kushwaha plays up to five hours a day </li><li> Indian boy beats adults to secure record-breaking status </li></ul> India's Sarwagya Singh Kushwaha has become the youngest player in chess history to earn an official Fide rating at the age of three years, seven months and 20 days. The chess prodigy edged out the previous record of compatriot Anish Sarkar, who was three years, eight months and 19 days when he reached the milestone in November last year. <a href=\"https://www.theguardian.com/sport/2025/dec/05/three-year-old-chess-prodigy-youngest-official-rating-sarwagya-singh-kushwaha\">Continue reading...</a>",
@@ -832,14 +864,6 @@ news_feed (
          "link" : "https://aicf.in/gm-javokhir-sindarov-crowned-2025-fide-world-cup-champion/",
          "pubDate" : "Thu, 27 Nov 2025 08:12:26",
          "title" : "GM Javokhir Sindarov crowned 2025 FIDE World Cup Champion"
-      },
-      {
-         "description" : "The final and ninth round of the Commonwealth Chess Championship 2025 was played today at the Corus KLCC Hotel, Kuala Lumpur. India concluded the classical",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-commonwealth-chess-championship-2025-in-malaysia-from-08-17-nov-2025/",
-         "pubDate" : "Thu, 27 Nov 2025 06:26:22",
-         "title" : "Final Report :Commonwealth Chess Championship 2025 in Malaysia from 08-17 Nov 2025"
       },
       {
          "description" : " Javokhir Sindarov beat Wei Yi in the final of the <a href=\"https://theweekinchess.com/chessnews/events/fide-world-cup-2025\">FIDE World Cup</a>. The two classical games were drawn taking the match to a final tie-break. The first classical game was a Petroff Defence where Wei Yi as black briefly had a small advantage, the second game was a 30 move draw in a Four Knights that only took a few minutes to execute. The rapid games were not of the highest quality, both players were almost certainly very tired, and they'd also achieved their main objective, qualifying for the Candidates. In the first rapid game Wei Yi blundered with 30...g5? and this could have been met by 31.Be4! winning. The secon",
