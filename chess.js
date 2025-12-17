@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure with fixed lineups, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.30 CET (6.30 ET, 17.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
+         "pubDate" : "Wed, 17 Dec 2025 12:00:00",
+         "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "The ECF condemns the conduct of the FIDE Congress staged online last Sunday. There were multiple abuses of process, not least, conducting the vote on Russian teams in secret was...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/vote-at-fide-congress-lifting-sanctions-against-the-russian-chess-federation/",
+         "pubDate" : "Wed, 17 Dec 2025 11:37:34",
+         "title" : "Vote at FIDE Congress Lifting Sanctions against the Russian Chess Federation"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.bbc.co.uk/news/articles/c0r9jyxpp5jo#new_tab",
+         "pubDate" : "Wed, 17 Dec 2025 11:10:38",
+         "title" : "'My opponents get annoyed when they lose to a child' - BBC"
+      },
+      {
+         "description" : "The ECF is proud to launch a new event, the International Series, which is designed to encourage players aspiring to play for England in its international teams to participate in...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-international-series-2026-launch/",
+         "pubDate" : "Wed, 17 Dec 2025 10:49:26",
+         "title" : "ECF International Series 2026 - launch"
+      },
+      {
+         "description" : "The inaugural English Youth Championship will be held on March 7-8, 2026 at Nottingham High School, and is aimed at selecting England Open and Girls to play in 2026 World...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-youth-championship/",
+         "pubDate" : "Wed, 17 Dec 2025 10:45:23",
+         "title" : "English Youth Championship 2026"
+      },
+      {
+         "description" : "Course dates/schedule - five Monday evenings from 7.00pm to 9.00pm - 12th January; 19th January; 26th January; 2nd February; 9th February Course fee - &pound;40; please note - participants must...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-level-1-arbiter-course-january-2026-online/",
+         "pubDate" : "Wed, 17 Dec 2025 09:55:50",
+         "title" : "ECF Level 1 Arbiter Course January 2026 (Online)"
+      },
+      {
+         "description" : "The prison HMP Littlehey is a large Category C men's prison in Cambridgeshire, England, specializing in holding adult males convicted of sexual offenses, and is known as the largest prison...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/visit-to-hmp-littlehey-on-10-december-2025/",
+         "pubDate" : "Wed, 17 Dec 2025 09:12:49",
+         "title" : "Visit to HMP Littlehey on 10 December 2025"
+      },
+      {
          "description" : "Faustino Oro has reached his goal: with a draw in the final round of the Magistral Szmetan-Giardelli in Buenos Aires, the twelve-year-old Argentine made his second grandmaster norm. He now needs just one more norm to earn the title. Norway's Aryan Tari won the tournament, but his strong performance was somewhat overshadowed by Oro's chase for a GM norm. | Photos: FADA",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +120,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-north-american-junior-championships",
          "pubDate" : "Tue, 16 Dec 2025 00:00:00",
          "title" : "Tactics Tuesday: North American Junior Championships"
-      },
-      {
-         "description" : "The inaugural English Youth Championship will be held on March 7-8, 2026 at Nottingham High School, and is aimed at selecting England Open and Girls to play in 2026 World...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-youth-championship/",
-         "pubDate" : "Mon, 15 Dec 2025 13:36:23",
-         "title" : "English Youth Championship"
       },
       {
          "description" : "GM Alireza Firouzja took down World Champion Gukesh Dommaraju as Triveni Continental Kings won 15-3 to stay perfect on day two of the Tech Mahindra Global Chess League 2025. Other team leaders had mixed days. GM Hikaru Nakamura beat GM Maxime Vach...",
@@ -800,14 +848,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/javokhir-sindarov-wins-the-fide-world-cup-2025",
          "pubDate" : "Wed, 26 Nov 2025 17:52:00",
          "title" : "Javokhir Sindarov wins the FIDE World Cup 2025 - 8"
-      },
-      {
-         "description" : "Today marks the final day of the World Cup in Goa, which began on October 31. But the key question of who will play in the Candidates Tournament in March and April 2026 has already been settled: Wei Yi, Javokhir Sindarov and Andrey Esipenko are in. Now it's \"only\" a matter of deciding who wins the tournament. That will be determined today in the tiebreak between Wei Yi and Sindarov. The winner takes home the title and 120,000 USD, the runner-up receives 85,000 USD. | Follow the action live with expert commentary starting at 10.30 CET (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2025-live",
-         "pubDate" : "Wed, 26 Nov 2025 10:20:00",
-         "title" : "FIDE World Cup, Finals - Live!"
       }
    ]
 }
