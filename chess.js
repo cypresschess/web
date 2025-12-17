@@ -10,6 +10,14 @@ news_feed (
          "title" : "\"Au revoir, Vlastimil!\""
       },
       {
+         "description" : "GM Viswanathan Anand&#39;s win over GM Gukesh Dommaraju helped the Ganges Grandmasters join a four-way tie for the lead in the Tech Mahindra Global Chess League 2025. Both leading teams lost, despite big wins on top board for GM Alireza Firouzja, over...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-3",
+         "pubDate" : "Tue, 16 Dec 2025 12:29:00",
+         "title" : "Anand Beats Gukesh As Leading Teams Lose On Global Chess League Day 3"
+      },
+      {
          "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure with fixed lineups, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.30 CET (6.30 ET, 17.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,20 +42,12 @@ news_feed (
          "title" : "DGT Live Games Link of 54th National Junior Open & 39th National Junior Girls Chess Championship 2025, Jamshedpur (Jharkhand))"
       },
       {
-         "description" : "The Global Chess League began with a clear early hierarchy, as two teams emerged with perfect records after the first two days of action. Defending champion Triveni Continental Kings and upGrad Mumba Masters both secured back-to-back victories, while the remaining teams experienced mixed fortunes. The top scorers for the leading teams are Alireza Firouzja (Continental Kings), Shakhriyar Mamedyarov and Bardiya Daneshvar (Mumba Masters), who have won both their games in Mumbai. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-2",
-         "pubDate" : "Tue, 16 Dec 2025 07:30:00",
-         "title" : "GCL: Firouzja beats Gukesh, Mumba Masters and Continental Kings lead"
-      },
-      {
-         "description" : "Last year Indian GM Iniyan Panneerselvam won the 9th Johor International Chess Open. In second place was Indian IM Raahul VS. This year the 22-year-old Raahul returns to the Johor Open as the second-highest ranked player in the field - fresh from receiving his full GM title and thirsting for more. It is an exciting chess festival which you can attend. Here are all the details.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/can-india-s-91st-gm-take-the-cake",
-         "pubDate" : "Tue, 16 Dec 2025 06:53:57",
-         "title" : "Can India's 91st GM take the cake?"
+         "description" : "After years of absence, championship-level scholastic chess is finally returning to New York City, one of the true epicenters of American chess. This January 3-4, the New York Metro Scholastic Chess Championships will welcome over a thousand players from kindergarten through high school to an event built on passion, access, and the belief that chess can change lives.While hosted in NYC, this is still an inclusive event. Any child residing anywhere is free to sign up and compete in Times Square with us as long as they have, or will join, US Chess. For registration and more information, click here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> A Return That Truly Matter",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/championship-chess-returns-new-york-city-celebration-hard-work-opportunity-and-future-game",
+         "pubDate" : "Tue, 16 Dec 2025 00:00:00",
+         "title" : "Championship Chess Returns to New York City: A Celebration of Hard Work, Opportunity, and the Future of the Game"
       },
       {
          "description" : "This week's puzzles come from the 2025 North American Junior Championships, where FM Julian Colville earned a GM norm and the IM title and WFM Laurie Qiu earned a WGM norm for their gold medals. Read more about this event here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -56,14 +56,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-north-american-junior-championships",
          "pubDate" : "Tue, 16 Dec 2025 00:00:00",
          "title" : "Tactics Tuesday: North American Junior Championships"
-      },
-      {
-         "description" : "We take a unique behind-the-scenes look at how top chess masters organize their digital workspace. Grandmasters and trainers reveal their personal ChessBase 26 setups - from meticulously clean desktops to chaotic databases full of ideas. They show us their board designs, current projects, and discuss their favourite or most-used ChessBase functions, offering fascinating insights into how great minds prepare, study, and work with chess every day.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/my-chessbase-18-desktop-laura-unuk",
-         "pubDate" : "Mon, 15 Dec 2025 16:54:08",
-         "title" : "My ChessBase 26 Desktop! - Laura Unuk"
       },
       {
          "description" : "The inaugural English Youth Championship will be held on March 7-8, 2026 at Nottingham High School, and is aimed at selecting England Open and Girls to play in 2026 World...",
@@ -82,28 +74,12 @@ news_feed (
          "title" : "Firouzja, Mamedyarov Star As Mumba Masters, Continental Kings Stay Perfect"
       },
       {
-         "description" : "At the FIDE General Assembly, which was held digitally, the majority of delegates voted to lift sanctions against Belarus and Russia. At youth competitions, anthems may be played and the flags of both federations may be displayed again. Their teams are once again eligible to participate in official FIDE competitions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-general-assembly-votes-to-lift-sanctions-against-russia-and-belarus",
-         "pubDate" : "Mon, 15 Dec 2025 11:46:03",
-         "title" : "FIDE General Assembly votes to lift sanctions against Russia and Belarus"
-      },
-      {
          "description" : "With 2026 at our doorstep, we know that many of our members are making chess-related New Year&#39;s resolutions. Some might want to break their rating record, some might just be looking to play more. Regardless of your goals, we&#39;re here to help! The...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-chess-improvement-challenge-2026",
          "pubDate" : "Mon, 15 Dec 2025 08:00:00",
          "title" : "Want To Improve Your Chess In 2026? Join The Chess.com Improvement Challenge Now!"
-      },
-      {
-         "description" : "The Global Chess League began its third season in Mumbai with three matches played in succession at the Royal Opera House. Day one combined a revised time control with the league's established scoring system and immediately produced several high-profile encounters on the top boards. Defending champions Triveni Continental Knights, led by Alireza Firouzja (who defeated Fabiano Caruana), opened with a win, much like Upgrad Mumba Masters and Fyers American Gambits. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-1",
-         "pubDate" : "Mon, 15 Dec 2025 07:30:00",
-         "title" : "GCL: Firouzja's brilliant win over Caruana helps Continental Kings score first victory"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125970655.cms\" />Indian chess stalwarts Viswanathan Anand and Koneru Humpy faced defeats in the Global Chess League. Meanwhile, the UpGrad Mumba Masters launched their campaign with a dominant 17-4 victory over Anand's Ganges Grandmasters. Top Indian Grandmasters Gukesh D, Arjun Erigaisi, and Praggnanandhaa R secured draws in their respective matches.",
@@ -144,14 +120,6 @@ news_feed (
          "link" : "https://www.thearticle.com/clutching-at-straws/",
          "pubDate" : "Sun, 14 Dec 2025 15:46:10",
          "title" : "Clutching at straws"
-      },
-      {
-         "description" : "Available now, but only until 24 December: The bundle for winners: ChessBase'26 & Fritz 20 in a Christmas bundle. Instead of 268.80 €, only 229.90 €. Extend your chess horizons with ChessBase'26 and train intelligently with Fritz 20! Get yours now!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christmas-offer-chessbase-26-plus-fritz20-the-winning-bundle",
-         "pubDate" : "Sun, 14 Dec 2025 13:00:00",
-         "title" : "Christmas offer: ChessBase'26 plus Fritz 20 - the winning bundle!"
       },
       {
          "description" : "GM Alireza Firouzja played a brilliant sacrifice to defeat GM Fabiano Caruana while GM Wei Yi took down GM Anish Giri as two-time Tech Mahindra Global Chess League champions Triveni Continental Kings began season three with a win. Of the world&#39;s t...",
@@ -466,14 +434,6 @@ news_feed (
          "title" : "2025 National K-12 Grade Championships Preview"
       },
       {
-         "description" : "Today's puzzles come from the just-concluded U.S. Masters, organized and run by Charlotte Chess Center. Check out our Thanksgiving Weekend Wrap-Up featuring results from Charlotte and many other tournaments, and check out another batch of puzzles from this event in last week's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-us-masters-pt-2",
-         "pubDate" : "Tue, 09 Dec 2025 00:00:00",
-         "title" : "Tactics Tuesday: U.S. Masters, Pt. 2"
-      },
-      {
          "description" : " The 15th XTX Markets London Chess Classic took place Wed 26th Nov to Sun 7th Dec 2025. Players: Alireza Firouzja, Luke Mcshane, Michael Adams, Nikolas Theodorou, Sam Shankland, Nodirbek Abdusattorov, Pavel Eljanov, Nikita Vitiugov, Abhimanyu Mishra and Gawain Maroroa Jones. Nodirbek Abdusattorov dominated the event scoring 7.5/9 and finished two points clear of Alireza Firouzja. The open saw Praggnanandhaa, Vladimir Ivic and Ameet Ghasi tie on 7/9. The Super Rapid was won by Nikolas Theodorou on 9/10 with Alireza Firouza half a point behind on 8.5 points.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -648,14 +608,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/dec/05/three-year-old-chess-prodigy-youngest-official-rating-sarwagya-singh-kushwaha",
          "pubDate" : "Fri, 05 Dec 2025 01:26:21",
          "title" : "Three-year-old chess prodigy becomes youngest player to earn official rating"
-      },
-      {
-         "description" : "Almost all the favorites won their SuperPogChamps quarterfinal matches. Sardoche overpowered Linda Diaz with his chess, while Wirtual&#39;s own mouse betrayed him in his match against Andrea Botez. In the Consolation Bracket, Cows went extinct as Sp...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/superpogchamps-day-3",
-         "pubDate" : "Thu, 04 Dec 2025 15:00:00",
-         "title" : "Andrea Botez, Sardoche Reach Championship Bracket Semifinals"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125767320.cms\" />Anish Giri found a crucial turning point in his chess career during the Global Chess League (GCL) last year, overcoming a dip in form and confidence. He shares humorous anecdotes about team bonding, food preferences, and even a playful \"iPhone mutiny.\" Giri sees the upcoming GCL season as a vital warm-up for the FIDE World Rapid and Blitz Championships. ",
