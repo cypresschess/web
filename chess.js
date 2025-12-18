@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his article IM Zoran Petronijevi&#263 raises some fundamental questions: How relevant is Steinitz's legacy today, does it still speak to modern chess, or does it belong to a bygone, almost \"dinosaur\" era? Does the analysis of his creative work possess genuine practical value, or do we study it merely for its historical significance? Equally important is the question: What, in concrete terms, did Steinitz contribute to chess?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/father-of-the-modern-school",
+         "pubDate" : "Thu, 18 Dec 2025 18:00:00",
+         "title" : "Father of the Modern School"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126062710.cms\" />World Chess Champion Dommaraju Gukesh and Arjun Erigaisi secured Alaskan Knights' first victory, while Alireza Firouzja's flawless run propelled Continental Kings to the top of the Global Chess League standings at the halfway mark. The Continental Kings edged past Mumba Masters, and Alaskan Knights defeated SG Pipers in decisive matches.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-2025-d-gukesh-arjun-lead-alaskan-knights-to-first-win-alireza-firouzja-takes-continental-kings-to-top/articleshow/126062710.cms",
+         "pubDate" : "Thu, 18 Dec 2025 17:55:54",
+         "title" : "GCL 2025: Gukesh, Arjun lead Alaskan Knights to first win"
+      },
+      {
          "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure with fixed lineups, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.30 CET (6.30 ET, 17.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/clash-of-egos-ideas-and-identities-is-gcl-breaking-the-stereotype-and-making-chess-players-talk-as-teams/articleshow/126055624.cms",
          "pubDate" : "Thu, 18 Dec 2025 10:34:40",
          "title" : "Clash of egos: Is GCL making chess players talk as teams?"
-      },
-      {
-         "description" : "The Prague International Chess Festival will be held from 24 February to 6 March 2026. As the organisers have announced, Divya Deshmukh and Jiner Zhu, two of the world's leading women players, will compete in the Challengers tournament. The event combines high-level chess with the opportunity to enjoy Prague, one of Europe's most attractive cultural and tourist destinations.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-champion-candidates-jiner-zhu-and-divya-deshmukh-in-prague-challengers",
-         "pubDate" : "Thu, 18 Dec 2025 10:00:00",
-         "title" : "World Champion Candidates Jiner Zhu and Divya Deshmukh in Prague Challengers"
       },
       {
          "description" : "The balance shifted again on day four of the Global Chess League in Mumbai, with the early front-runners moving back into clear view. Triveni Continental Kings and upGrad Mumba Masters both recorded decisive victories to separate themselves from the chasing teams. Alireza Firouzja continued his flawless start to the event, maintaining a perfect record after four rounds and playing a key role in the Continental Kings' return to the top. | Photo: Official website",
@@ -784,14 +792,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-national-under-15-chess-championship-2025-held-in-ghaziabad-from-02-10-nov-2025/",
          "pubDate" : "Tue, 02 Dec 2025 10:25:59",
          "title" : "Certificate of National Under 15 Chess Championship 2025 held in Ghaziabad from 02-10 Nov 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125713043.cms\" />Bibisara Assaubayeva, who will represent American Gambits in the upcoming GCL season, expressed immense pride in Uzbekistan's 19-year-old Javokhir Sindarov after he made chess history by becoming the youngest FIDE World Cup champion and earning a place in the 2026 Candidates Tournament. Assaubayeva, a two-time World Blitz Champion, now aims to qualify for the Women's Candidates next year.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-after-javokhir-sindarovs-world-cup-glory-closest-friend-bibisara-assaubayeva-reveals-her-own-unfinished-task/articleshow/125713043.cms",
-         "pubDate" : "Tue, 02 Dec 2025 07:52:22",
-         "title" : "After Sindarov's WC glory, 'closest friend' Assaubayeva reveals her 'unfinished task'"
       },
       {
          "description" : "India Registers a Dominant Performance with 49 Medals at the Asian Youth Chess Championship AICF congratulates all players, coaches, and parents for an exceptional all-format",
