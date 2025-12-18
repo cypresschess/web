@@ -138,14 +138,6 @@ news_feed (
          "title" : "Celebrate Another Great Year Of Chess By Voting For The 2025 Chess.com Awards"
       },
       {
-         "description" : "Momentum changed suddenly on the third day of the Global Chess League in Mumbai, as the early leaders were brought back into a tightly packed field. All three matches produced decisive results, reshaping the standings and leaving four teams level at the top. The day featured a notable top-board victory by Vishy Anand over Gukesh Dommaraju in the battle of Indian world champions, while Alireza Firouzja maintained his perfect start, extending his run to three wins from three games. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-3",
-         "pubDate" : "Wed, 17 Dec 2025 07:30:00",
-         "title" : "GCL: Four teams tied for first place, Anand beats Gukesh"
-      },
-      {
          "description" : "Twelve-year-old Argentinian chess prodigy IM Faustino Oro is one step closer to making history by becoming the youngest-ever grandmaster. On Tuesday, he scored another fantastic performance and achieved his second norm in Buenos Aires, Argentina. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -160,14 +152,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-north-american-junior-championships",
          "pubDate" : "Wed, 17 Dec 2025 00:00:00",
          "title" : "Wednesday Workout: North American Junior Championships"
-      },
-      {
-         "description" : "Last week, Vlastimil Hort found his final resting place at Prague's Vyšehrad National Cemetery. It was \"Vlasti's\" wish to be buried in his hometown. His family, friends and companions gave him a final send-off - with a glass of champagne, for a special reason.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/au-revoir-vlastimil",
-         "pubDate" : "Tue, 16 Dec 2025 17:00:00",
-         "title" : "\"Au revoir, Vlastimil!\""
       },
       {
          "description" : "GM Viswanathan Anand&#39;s win over GM Gukesh Dommaraju helped the Ganges Grandmasters join a four-way tie for the lead in the Tech Mahindra Global Chess League 2025. Both leading teams lost, despite big wins on top board for GM Alireza Firouzja, over...",
