@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The balance shifted again on day four of the Global Chess League in Mumbai, with the early front-runners moving back into clear view. Triveni Continental Kings and upGrad Mumba Masters both recorded decisive victories to separate themselves from the chasing teams. Alireza Firouzja continued his flawless start to the event, maintaining a perfect record after four rounds and playing a key role in the Continental Kings' return to the top. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-4",
+         "pubDate" : "Thu, 18 Dec 2025 06:10:00",
+         "title" : "GCL: Firouzja cannot stop winning, Continental Kings and Mumba Masters share the lead"
+      },
+      {
          "description" : " Charles Troutman III is a rising senior set to graduate from Washington University in May 2026. The Atlanta native has decided on a career in technology and is currently an intern at the design company Figma. Located in Silicon Valley, the company had a massive IPO in July, resulting in a $68 billion valuation, and The post <a href=\"https://thechessdrum.net/blog/2025/12/17/nm-charles-troutman-to-lead-washu-for-pan-ams/\">NM Charles Troutman to lead WashU for Pan-Ams</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://aicf.in/fina-report51st-national-womens-chess-championship-2025-in-durgapur-from-03-13-dec-2025/",
          "pubDate" : "Wed, 17 Dec 2025 12:44:05",
          "title" : "Final Report:51st National Women's Chess Championship 2025 in Durgapur from 03-13 Dec 2025"
-      },
-      {
-         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure with fixed lineups, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.30 CET (6.30 ET, 17.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
-         "pubDate" : "Wed, 17 Dec 2025 12:00:00",
-         "title" : "Global Chess League - Live!"
       },
       {
          "description" : "GM Alireza Firouzja won his fourth consecutive game in the Tech Mahindra Global Chess League 2025 as he took down GM Viswanathan Anand to help Triveni Continental Kings to an 11-6 bounce-back win over the Ganges Grandmasters. That came despite GM ...",
@@ -856,14 +856,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/riddle-korchnoi-karpov-1978",
          "pubDate" : "Thu, 27 Nov 2025 08:31:43",
          "title" : "Riddle: Korchnoi-Karpov 1978"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/gm-javokhir-sindarov-crowned-2025-fide-world-cup-champion/",
-         "pubDate" : "Thu, 27 Nov 2025 08:12:26",
-         "title" : "GM Javokhir Sindarov crowned 2025 FIDE World Cup Champion"
       }
    ]
 }
