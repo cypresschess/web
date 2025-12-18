@@ -125,9 +125,9 @@ news_feed (
          "description" : "The inaugural English Youth Championship will be held on March 7-8, 2026 at Nottingham High School, and is aimed at selecting England Open and Girls to play in 2026 World...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-youth-championship/",
+         "link" : "https://www.englishchess.org.uk/inaugural-english-youth-championships/",
          "pubDate" : "Wed, 17 Dec 2025 10:45:23",
-         "title" : "English Youth Championship 2026"
+         "title" : "Inaugural English Youth Championships 2026"
       },
       {
          "description" : "Course dates/schedule - five Monday evenings from 7.00pm to 9.00pm - 12th January; 19th January; 26th January; 2nd February; 9th February Course fee - &pound;40; please note - participants must...",
