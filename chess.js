@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Charles Troutman III is a rising senior set to graduate from Washington University in May 2026. The Atlanta native has decided on a career in technology and is currently an intern at the design company Figma. Located near Silicon Valley, the company had a massive IPO in July, resulting in a $68 billion valuation, and The post <a href=\"https://thechessdrum.net/blog/2025/12/17/nm-charles-troutman-to-lead-washu-for-pan-ams/\">NM Charles Troutman to lead WashU for Pan-Ams</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Charles Troutman III is a rising senior set to graduate from Washington University in May 2026. The Atlanta native has decided on a career in technology and is currently an intern at the design company Figma. Located in Silicon Valley, the company had a massive IPO in July, resulting in a $68 billion valuation, and The post <a href=\"https://thechessdrum.net/blog/2025/12/17/nm-charles-troutman-to-lead-washu-for-pan-ams/\">NM Charles Troutman to lead WashU for Pan-Ams</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/12/17/nm-charles-troutman-to-lead-washu-for-pan-ams/",
