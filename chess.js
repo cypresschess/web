@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure with fixed lineups, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.30 CET (6.30 ET, 17.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
+         "pubDate" : "Thu, 18 Dec 2025 12:00:00",
+         "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126055624.cms\" />The Global Chess League is transforming the individual sport into a team setting, challenging the traditional solitary nature of chess. Players from diverse backgrounds are now sharing jerseys and coaches, fostering interaction and fun. This shift encourages communication and collaboration, proving that even in a fiercely competitive arena, greatness doesn't have to be a lonely pursuit.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/clash-of-egos-ideas-and-identities-is-gcl-breaking-the-stereotype-and-making-chess-players-talk-as-teams/articleshow/126055624.cms",
+         "pubDate" : "Thu, 18 Dec 2025 10:34:40",
+         "title" : "Clash of egos: Is GCL making chess players talk as teams?"
+      },
+      {
+         "description" : "The Prague International Chess Festival will be held from 24 February to 6 March 2026. As the organisers have announced, Divya Deshmukh and Jiner Zhu, two of the world's leading women players, will compete in the Challengers tournament. The event combines high-level chess with the opportunity to enjoy Prague, one of Europe's most attractive cultural and tourist destinations.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-champion-candidates-jiner-zhu-and-divya-deshmukh-in-prague-challengers",
+         "pubDate" : "Thu, 18 Dec 2025 10:00:00",
+         "title" : "World Champion Candidates Jiner Zhu and Divya Deshmukh in Prague Challengers"
+      },
+      {
          "description" : "The balance shifted again on day four of the Global Chess League in Mumbai, with the early front-runners moving back into clear view. Triveni Continental Kings and upGrad Mumba Masters both recorded decisive victories to separate themselves from the chasing teams. Alireza Firouzja continued his flawless start to the event, maintaining a perfect record after four rounds and playing a key role in the Continental Kings' return to the top. | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -826,14 +850,6 @@ news_feed (
          "title" : "Firouzja, Theodorou and Abdusattorov lead the London Chess Classic after wins in Round 2 - 2"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125634762.cms\" />Uzbekistan's Javokhir Sindarov, at 19, became the youngest FIDE World Cup champion, mirroring India's Divya Deshmukh, also 19, who achieved the same feat in the Women's World Cup. While both were lower seeds, Dutch Grandmaster Anish Giri suggests their wins are coincidental, attributing them to the unpredictable nature of short match formats rather than a hidden trend among top players.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-not-a-surprise-anish-giri-on-lesser-favourites-divya-deshmukh-javokhir-sindarov-winning-chess-world-cups/articleshow/125634762.cms",
-         "pubDate" : "Fri, 28 Nov 2025 10:16:22",
-         "title" : "Exclusive | 'Not a surprise': Dutch No. 1 Giri on Divya-Sindarov WC wins"
-      },
-      {
          "description" : "The Indian women's chess team delivered one of its most spirited performances on the world stage at the 2025 FIDE World Women's Team Championship, held",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -848,14 +864,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/nov/28/chess-sindarov-19-becomes-youngest-world-cup-winner-as-london-classic-begins",
          "pubDate" : "Fri, 28 Nov 2025 08:00:05",
          "title" : "Chess: Sindarov, 19, becomes youngest World Cup winner as London Classic begins"
-      },
-      {
-         "description" : "As chess players occasionally do, Alex Fishbein, the U.S. grandmaster, was recently looking at a classic game from the past: Viktor Kortschnoj's victory over Anatoly Karpov in the 21st game of their 1978 match. Something was wrong. Charles Sullivan had done some intense research on this volatile encounter and asks for your assessment on the results he presents.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/riddle-korchnoi-karpov-1978",
-         "pubDate" : "Thu, 27 Nov 2025 08:31:43",
-         "title" : "Riddle: Korchnoi-Karpov 1978"
       }
    ]
 }
