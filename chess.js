@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Global Chess League reached a turning point as the first half of the double round-robin came to an end in Mumbai. Triveni Continental Kings emerged as the sole leaders after defeating their closest rivals, upGrad Mumba Masters. The defending champions were again led by Alireza Firouzja, who maintained a perfect record by winning his fifth consecutive game. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-5",
+         "pubDate" : "Fri, 19 Dec 2025 00:35:00",
+         "title" : "GCL: Firouzja's Continental Kings now sole leaders"
+      },
+      {
          "description" : "In his article IM Zoran Petronijevi&#263 raises some fundamental questions: How relevant is Steinitz's legacy today, does it still speak to modern chess, or does it belong to a bygone, almost \"dinosaur\" era? Does the analysis of his creative work possess genuine practical value, or do we study it merely for its historical significance? Equally important is the question: What, in concrete terms, did Steinitz contribute to chess?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,12 @@ news_feed (
          "title" : "GCL 2025: Gukesh, Arjun lead Alaskan Knights to first win"
       },
       {
-         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure with fixed lineups, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.30 CET (6.30 ET, 17.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
-         "pubDate" : "Thu, 18 Dec 2025 12:00:00",
-         "title" : "Global Chess League - Live!"
+         "description" : "There&#39;s no stopping for GM Alireza Firouzja, who won his fifth game in a row on Thursday at the Tech Mahindra Global Chess League 2025, taking down his compatriot GM Maxime Vachier-Lagrave. With draws on all other boards, this game helped Triveni ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-5",
+         "pubDate" : "Thu, 18 Dec 2025 13:15:58",
+         "title" : "Firouzja On 5/5 As Triveni Continental Kings Grab Sole Lead"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126055624.cms\" />The Global Chess League is transforming the individual sport into a team setting, challenging the traditional solitary nature of chess. Players from diverse backgrounds are now sharing jerseys and coaches, fostering interaction and fun. This shift encourages communication and collaboration, proving that even in a fiercely competitive arena, greatness doesn't have to be a lonely pursuit.",
@@ -175,7 +183,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/12-year-old-faustino-oro-edges-closer-to-youngest-ever-gm-title",
          "pubDate" : "Wed, 17 Dec 2025 05:16:00",
-         "title" : "12-Year-Old Faustino Oro Edges Closer To Youngest-Ever GM Title"
+         "title" : "Faustino Oro Edges Closer To Youngest-Ever GM Title"
       },
       {
          "description" : "This week's puzzles come from the 2025 North American Junior Championships, where FM Julian Colville earned a GM norm and the IM title and WFM Laurie Qiu earned a WGM norm for their gold medals. Read more about this event here, and check out even more puzzles from this event in yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-amateur-chess-championships-2025-concluded-in-malta/",
          "pubDate" : "Fri, 05 Dec 2025 12:15:15",
          "title" : "European Amateur Chess Championships 2025 concluded in Malta"
-      },
-      {
-         "description" : "IM Renato Terry won another 3 0 Thursday tournament on December 4, marking the third consecutive week that he&#39;s won one of the three events. No one else has won more than once since the event debuted on November 6. GM Vladislav Artemiev and IM Ant...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/artemiev-terry-atanasov-3-0-thursday-12-4-2025",
-         "pubDate" : "Fri, 05 Dec 2025 10:55:16",
-         "title" : "Terry Wins 3 0 Thursday For Third Straight Week, Joined By Artemiev and Atanasov"
       },
       {
          "description" : " Nodirbek Abdusattorov's six game winning streak might have ended with a draw against Alireza Firouzja in Round 8 but it confirmed a clear win for him in the London Chess Classic with a round to spare, and this result was obtained from a position of strength. Abdusattorov had beaten Luke McShane in Round 7 with a long grind giving him a two point lead over Firouzja. Their Round 8 game was a Queen's Gambit Accepted where the engine thought Abdusattorov's 15...Rb6 was inferior to 15...Nd8= and that 16.Qe2 instead of 16.Qa4 might have given an edge to Firouzja. As it was Abdusattorov was the one who stood slightly better and when he repeated for a draw Firouzja had no choice whilst Abdusattorov",
