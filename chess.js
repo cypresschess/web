@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Norwegian world No 1 will compete at Doha next week, a year after he was penalised for wearing jeans in New York One year ago, the world No 1, Magnus Carlsen, and the global chess body, Fide, were at loggerheads after the Norwegian was penalised for wearing jeans at the World Rapid in New York. The 35-year-old also agreed to share the World Blitz crown despite a rule requiring an outright winner. Relations worsened further when Fide opposed Carlsen's wish for the new Freestyle circuit winner to be called a world champion, he announced that he was \"done\" with Fide. <a href=\"https://www.theguardian.com/sport/2025/dec/19/chess-magnus-carlsen-back-in-world-rapid-and-blitz-as-fide-signals-je",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/dec/19/chess-magnus-carlsen-back-in-world-rapid-and-blitz-as-fide-signals-jeansgate-peace",
+         "pubDate" : "Fri, 19 Dec 2025 08:00:56",
+         "title" : "Chess: Magnus Carlsen back in World Rapid and Blitz as Fide signals jeansgate peace"
+      },
+      {
          "description" : "The Global Chess League reached a turning point as the first half of the double round-robin came to an end in Mumbai. Triveni Continental Kings emerged as the sole leaders after defeating their closest rivals, upGrad Mumba Masters. The defending champions were again led by Alireza Firouzja, who maintained a perfect record by winning his fifth consecutive game. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -848,22 +856,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/firouzja-theodorou-and-abdusattorov-lead-the-london-chess-classic-after-wins-in-round-2",
          "pubDate" : "Fri, 28 Nov 2025 14:36:00",
          "title" : "Firouzja, Theodorou and Abdusattorov lead the London Chess Classic after wins in Round 2 - 2"
-      },
-      {
-         "description" : "The Indian women's chess team delivered one of its most spirited performances on the world stage at the 2025 FIDE World Women's Team Championship, held",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/indian-women-shine-at-world-womens-team-chess-championship-2025-in-linareslinares-spain-17-24-november-2025/",
-         "pubDate" : "Fri, 28 Nov 2025 08:01:45",
-         "title" : "Indian Women Shine at World Women's Team Chess Championship 2025 in LinaresLinares, Spain | 17-24 November 2025"
-      },
-      {
-         "description" : " The Uzbek won $120,000 and qualified for the 2026 Candidates in Cyprus, which will decide the official challenger for Gukesh Dommaraju's world crown Javokhir Sindarov, 19, became the youngest ever winner of the Fide knockout World Cup on Wednesday when the Uzbek defeated China's Wei Yi 2.5-1.5 in the final at Goa. Ukraine's Ruslan Ponomariov had been a year younger in 2002, but that World Cup had also doubled as the Fide world championship in a period when the global title was disputed. Wei was the favourite, but handicapped himself by poor time management in <a href=\"https://www.chessgames.com/perl/chessgame?gid=3014682\">the decisive game</a>. He declined a draw and could have gained an ad",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/nov/28/chess-sindarov-19-becomes-youngest-world-cup-winner-as-london-classic-begins",
-         "pubDate" : "Fri, 28 Nov 2025 08:00:05",
-         "title" : "Chess: Sindarov, 19, becomes youngest World Cup winner as London Classic begins"
       }
    ]
 }
