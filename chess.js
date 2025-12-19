@@ -18,7 +18,7 @@ news_feed (
          "title" : "Global Chess League - Live!"
       },
       {
-         "description" : " The Norwegian world No 1 will compete at Doha next week, a year after he was penalised for wearing jeans in New York One year ago, the world No 1, Magnus Carlsen, and the global chess body, Fide, were at loggerheads after the Norwegian was penalised for wearing jeans at the World Rapid in New York. The 35-year-old also agreed to share the World Blitz crown despite a rule requiring an outright winner. Relations worsened further when Fide opposed Carlsen's wish for the new Freestyle circuit winner to be called a world champion, he announced that he was \"done\" with Fide. <a href=\"https://www.theguardian.com/sport/2025/dec/19/chess-magnus-carlsen-back-in-world-rapid-and-blitz-as-fide-signals-je",
+         "description" : " The Norwegian world No 1 will compete at Doha next week, a year after he was penalised for wearing jeans in New York One year ago, the world No 1, Magnus Carlsen, and the global chess body, Fide, were at loggerheads after the Norwegian was penalised for wearing jeans at the World Rapid in New York. The 35-year-old also agreed to share the World Blitz crown despite a rule requiring an outright winner. Relations worsened further when Fide opposed Carlsen's wish for the new Freestyle circuit winner to be called a world champion, and he announced that he was \"done\" with Fide. <a href=\"https://www.theguardian.com/sport/2025/dec/19/chess-magnus-carlsen-back-in-world-rapid-and-blitz-as-fide-signal",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/dec/19/chess-magnus-carlsen-back-in-world-rapid-and-blitz-as-fide-signals-jeansgate-peace",
@@ -32,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/global-chess-league-2025-5",
          "pubDate" : "Fri, 19 Dec 2025 00:35:00",
          "title" : "GCL: Firouzja's Continental Kings now sole leaders"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed for the holidays on Wednesday, December 24 and Thursday, December 25, and again on Wednesday, December 31 and Thursday, January 1, 2026.All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items. We strongly encourage submitting materials by noon CST on the Tuesday preceding the office closure. Thank you for your understanding, and happy holidays. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-offices-2025-26-holiday-closure-dates",
+         "pubDate" : "Fri, 19 Dec 2025 00:00:00",
+         "title" : "US Chess Offices 2025-26 Holiday Closure Dates"
       },
       {
          "description" : "In his article IM Zoran Petronijevi&#263 raises some fundamental questions: How relevant is Steinitz's legacy today, does it still speak to modern chess, or does it belong to a bygone, almost \"dinosaur\" era? Does the analysis of his creative work possess genuine practical value, or do we study it merely for its historical significance? Equally important is the question: What, in concrete terms, did Steinitz contribute to chess?",
@@ -66,14 +74,6 @@ news_feed (
          "title" : "Clash of egos: Is GCL making chess players talk as teams?"
       },
       {
-         "description" : "The balance shifted again on day four of the Global Chess League in Mumbai, with the early front-runners moving back into clear view. Triveni Continental Kings and upGrad Mumba Masters both recorded decisive victories to separate themselves from the chasing teams. Alireza Firouzja continued his flawless start to the event, maintaining a perfect record after four rounds and playing a key role in the Continental Kings' return to the top. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-4",
-         "pubDate" : "Thu, 18 Dec 2025 06:10:00",
-         "title" : "GCL: Firouzja cannot stop winning, Continental Kings and Mumba Masters share the lead"
-      },
-      {
          "description" : " Charles Troutman III is a rising senior set to graduate from Washington University in May 2026. The Atlanta native has decided on a career in technology and is currently an intern at the design company Figma. Located in Silicon Valley, the company had a massive IPO in July, resulting in a $68 billion valuation, and The post <a href=\"https://thechessdrum.net/blog/2025/12/17/nm-charles-troutman-to-lead-washu-for-pan-ams/\">NM Charles Troutman to lead WashU for Pan-Ams</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -88,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ukraine-s-golden-comeback-beliavsky-mikhalchishin-on-triumph-amid-war",
          "pubDate" : "Wed, 17 Dec 2025 18:00:00",
          "title" : "Triumph amid war: Ukraine's success at the European Team Championship - an interview with Alexander Beliavsky and Adrian Mikhalchishin"
-      },
-      {
-         "description" : "There are many stories about chess changing individual lives. This one is about a small coastal village in Tamil Nadu, called Neerodi, where the game slowly changed everyday habits. For years, the village was known for gambling. When chess entered the scene, it brought a new way to spend time. The change slowly started becoming visible through IA Ephrame's \"Chess Replaces Gambling\" project. With the dedication of Jain Marlet, chess reached more children and families across the village. Today, the change is visible in the choices people make in the village.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-replaced-gambling-neerodi",
-         "pubDate" : "Wed, 17 Dec 2025 17:15:00",
-         "title" : "How chess replaced gambling in the coastal village of Neerodi"
       },
       {
          "description" : " The Magistral Szmetan-Giardelli was Round Robin held in Buenos Aire 8th to 16th December 2025. Players: Aryan Tari, Ivan Cheparinov, Julio, Granda Zuniga, Alexei Shirov, Diego Flores, Sandro Mareco, Faustino Oro, Ilan Schnaider, Sergio Slipak and Tomas, Darcyl. Aryan Tari took a quick draw in the final round and won on tie-break from Ivan Cheparinov after both scored 6/9, Alexei Shirov was also very much in the running for first place going into the final round but lost to Granda Zuniga in the final round and ended up in third place on tie-break from Faustino Oro on 5.5/9.",
@@ -184,14 +176,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/visit-to-hmp-littlehey-on-10-december-2025/",
          "pubDate" : "Wed, 17 Dec 2025 09:12:49",
          "title" : "Visit to HMP Littlehey on 10 December 2025"
-      },
-      {
-         "description" : "Faustino Oro has reached his goal: with a draw in the final round of the Magistral Szmetan-Giardelli in Buenos Aires, the twelve-year-old Argentine made his second grandmaster norm. He now needs just one more norm to earn the title. Norway's Aryan Tari won the tournament, but his strong performance was somewhat overshadowed by Oro's chase for a GM norm. | Photos: FADA",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aryan-tari-wins-tournament-faustino-oro-gets-second-norm",
-         "pubDate" : "Wed, 17 Dec 2025 08:15:49",
-         "title" : "Tari wins tournament, Oro gets second norm"
       },
       {
          "description" : "Another year has gone by, and chess keeps getting bigger and bigger! Coming from a sequence of record-breaking years for chess, it was hard to believe that 2025 could be even better. But after a year of dramatic events, newsworthy viral moments, a...",
@@ -546,14 +530,6 @@ news_feed (
          "title" : "Exclusive | 'One Indian is quite surprising': Anish Giri rates Candidates 2026 line-up"
       },
       {
-         "description" : "Today's puzzles come from the just-concluded U.S. Masters, organized and run by Charlotte Chess Center. Check out our Thanksgiving Weekend Wrap-Up featuring results from Charlotte and many other tournaments. Plus: find even more puzzles from this event in last week's Workout. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-us-masters-pt-2",
-         "pubDate" : "Wed, 10 Dec 2025 00:00:00",
-         "title" : "Wednesday Workout: U.S. Masters, Pt. 2"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125873635.cms\" />Magnus Carlsen has secured the 2025 Freestyle Chess Grand Slam Tour title, earning a $100,000 bonus after reaching the semifinals in Cape Town. Despite an early setback, Carlsen fought back to clinch the championship. He will face Sindarov in the semifinals, while Keymer plays Aronian for a spot in the finals.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -856,14 +832,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2025-commenced/",
          "pubDate" : "Sat, 29 Nov 2025 00:32:37",
          "title" : "European Rapid and Blitz Chess Championship 2025 commenced"
-      },
-      {
-         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/15th-xtx-markets-london-chess-classic-2025\">London Chess Classic</a> has three leaders after the first two rounds of the tournament. The first round was reasonably quiet with five draws, Alireza Firouzja had decent winning chances against Sam Shankland and Michael Adams looked to be a little better against Luke McShane. The second round saw three decisive games and there could have been a fourth. Alireza Firouzja, Nikolas Theodorou, and Nodirbek Abdusattorov share the lead with 1.5/2 after scoring wins in Round 2. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/firouzja-theodorou-and-abdusattorov-lead-the-london-chess-classic-after-wins-in-round-2",
-         "pubDate" : "Fri, 28 Nov 2025 14:36:00",
-         "title" : "Firouzja, Theodorou and Abdusattorov lead the London Chess Classic after wins in Round 2 - 2"
       }
    ]
 }
