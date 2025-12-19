@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126075338.cms\" />Raunak Sadhwani became a chess Grandmaster in 2019 at just 13, among India's youngest to do so. Now 19 and ranked eighth among juniors, he reflects on the high cost of professional chess. Despite lacking a full-time coach, Raunak is competing at the top level as he prepares for the upcoming World Rapid and Blitz Championships.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/one-of-the-youngest-to-become-gm-at-13-indias-raunak-sadhwani-still-struggles-to-have-a-full-time-chess-coach-exclusive/articleshow/126075338.cms",
+         "pubDate" : "Fri, 19 Dec 2025 10:53:06",
+         "title" : "GM at 13, India's Raunak still struggles to have full-time coach | Exclusive"
+      },
+      {
+         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure with fixed lineups, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.30 CET (6.30 ET, 17.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
+         "pubDate" : "Fri, 19 Dec 2025 10:50:00",
+         "title" : "Global Chess League - Live!"
+      },
+      {
          "description" : " The Norwegian world No 1 will compete at Doha next week, a year after he was penalised for wearing jeans in New York One year ago, the world No 1, Magnus Carlsen, and the global chess body, Fide, were at loggerheads after the Norwegian was penalised for wearing jeans at the World Rapid in New York. The 35-year-old also agreed to share the World Blitz crown despite a rule requiring an outright winner. Relations worsened further when Fide opposed Carlsen's wish for the new Freestyle circuit winner to be called a world champion, he announced that he was \"done\" with Fide. <a href=\"https://www.theguardian.com/sport/2025/dec/19/chess-magnus-carlsen-back-in-world-rapid-and-blitz-as-fide-signals-je",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -768,14 +784,6 @@ news_feed (
          "link" : "https://aicf.in/live-dgt-board-link-for-national-women-2025-held-at-durgapur/",
          "pubDate" : "Wed, 03 Dec 2025 07:05:00",
          "title" : "Live DGT Board Link for National Women 2025 held at Durgapur"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125734475.cms\" />Three-year-old Sarvagya Singh Kushwaha from Madhya Pradesh has become the youngest player to earn an official FIDE rating at 1572. He achieved this by defeating three internationally rated opponents, showcasing exceptional talent and discipline. His parents introduced him to chess to limit screen time, leading to his rapid development into a prodigy.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/at-just-3-years-old-sarvagya-kushwaha-becomes-worlds-youngest-fide-rated-chess-player/articleshow/125734475.cms",
-         "pubDate" : "Wed, 03 Dec 2025 05:29:24",
-         "title" : "At just 3 years old, Sarvagya Kushwaha becomes world's youngest FIDE-rated chess player"
       },
       {
          "description" : " Nodirbek Abdusattorov leads the London Chess Classic with 5.5/6 one and a half points clear of Alireza Firouzja. After a first round draw Abdusattorov has now won five games in a row. In round five he defeated Nikolas Theodorou in a battling game. Abdusattorov chose the English after recently favouring 1.e4 and this seemed to sidestep all of his opponent's preparation and produce a nice advantage. Theodorou fought back and after 20 moves was equal again, then on move 26 he decided to give up his Queen for Rook and Knight, this wasn't losing but it made him a bit worse, then the game became very wild with black being objectively lost but finding tricky ideas. After 38.Qe3 the game was equal ",
