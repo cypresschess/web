@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alongside the established elite, the FIDE World Rapid and Blitz Championships in Doha will feature a remarkable group of rising talents from around the world. Teenagers and even younger players will compete on equal terms with the game's biggest names, many already boasting grandmaster titles and major international results. This article highlights the most promising young contenders in both the Open and Women's events, offering a snapshot of the next generation set to test itself on the world stage in Qatar.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-young-stars",
+         "pubDate" : "Fri, 19 Dec 2025 21:00:00",
+         "title" : "The next generation of chess stars will be in Doha"
+      },
+      {
+         "description" : " The Tech Mahindra Global Chess League takes place Sat 13th Dec to Wed 24th Dec 2025 in Mumbai. This is a very strong rapid team event and is on its third edition with previous events in Dubai and London. There are two stages, a round robin taking place until the 22nd of December followed by a two day KO to decide the final placings. Teams: Triveni Continental Kings: Firouzja, Wei, Vidit, Zhu, Kosteniuk, Maurizzi. Upgrad Mumba Masters: Vachier-Lagrave, So, Mamedyarov, Koneru, Dronavalli, Daneshvar. Alpine SG Pipers: Caruana, Giri, Praggnanandhaa, Hou, Batsiashvili, Mendonca. Ganges Grandmasters: Anand, Keymer, Sindarov, Shuvalova, Tsolakidou, Sadhwani. PBG Alaskan Knights: Gukesh, Erigaisi, ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tech-mahindra-global-chess-league-2025",
+         "pubDate" : "Fri, 19 Dec 2025 19:35:00",
+         "title" : "Tech Mahindra Global Chess League 2025 - Games and Results"
+      },
+      {
+         "description" : "The 2025 Hungarian National Individual Chess Championships took place in Budapest from 10 to 18 December, featuring open and women's events played as 10-player round-robins. Despite a few high-profile absences, both tournaments produced closely contested races. The open title went to 21-year-old Gleb Dudin, while the women's championship was decided on tiebreaks, with Szidonia Lazarne Vajda claiming her fourth national crown. | Photos: Hungarian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hungarian-championship-2025",
+         "pubDate" : "Fri, 19 Dec 2025 17:45:00",
+         "title" : "Dudin and Lazarne Vajda are 2025 Hungarian chess champions"
+      },
+      {
+         "description" : "The rivals of GM Alireza Firouzja finally struck back on day six, with GM Fabiano Caruana ending a five-game winning streak before Firouzja also lost to World Champion Gukesh Dommaraju. Triveni Continental Kings still won that second match to lead...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-6",
+         "pubDate" : "Fri, 19 Dec 2025 12:03:43",
+         "title" : "Caruana, Gukesh Stop Firouzja, But Triveni Continental Kings Still Lead"
+      },
+      {
+         "description" : "GM Magnus Carlsen is not inevitable but, more often than not, he seems to be. The December 19 edition of&#38;nbsp;Freestyle Friday was no exception, as Carlsen won his last four games in a come-from-behind victory. Carlsen won with 9.5 points, outlast...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-freestyle-friday-december-19-2025",
+         "pubDate" : "Fri, 19 Dec 2025 11:40:32",
+         "title" : "Field Can Only Contain Freestyle Friday Winner Carlsen For So Long"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126075338.cms\" />Raunak Sadhwani became a chess Grandmaster in 2019 at just 13, among India's youngest to do so. Now 19 and ranked eighth among juniors, he reflects on the high cost of professional chess. Despite lacking a full-time coach, Raunak is competing at the top level as he prepares for the upcoming World Rapid and Blitz Championships.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -10,11 +50,27 @@ news_feed (
          "title" : "GM at 13, India's Raunak still struggles to have full-time coach | Exclusive"
       },
       {
+         "description" : "IM Karina Ambartsumova has won a prize as the top woman in a 3 0 Thursday all six weeks since the event began, while IM Renato Terry has won one of the three weekly tournaments for each of the last five weeks. Both players continued their impressi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/maghsoodloo-terry-martinez-3-0-thursday-12-18-2025",
+         "pubDate" : "Fri, 19 Dec 2025 10:39:36",
+         "title" : "Terry, Ambartsumova Continue 3 0 Thursday Winning Streaks"
+      },
+      {
+         "description" : "The International Chess Federation (FIDE) approved the lifting of sanctions on Russia and Belarus following an online General Assembly, but the proceedings have been criticized by several federations, and the world governing chess body could face ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-approves-lifting-sanctions-on-russia-belarus",
+         "pubDate" : "Fri, 19 Dec 2025 09:26:00",
+         "title" : "FIDE Lifts Russia Sanctions, Federations Threaten Legal Challenge"
+      },
+      {
          "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure with fixed lineups, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.30 CET (6.30 ET, 17.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
-         "pubDate" : "Fri, 19 Dec 2025 10:50:00",
+         "pubDate" : "Fri, 19 Dec 2025 08:50:00",
          "title" : "Global Chess League - Live!"
       },
       {
@@ -610,14 +666,6 @@ news_feed (
          "title" : "Praggnanandhaa becomes first Indian to qualify for Candidates 2026"
       },
       {
-         "description" : "On his 20th birthday, GM Javokhir Sindarov finished at the top of the Group Stage with 5.5/7 in the Freestyle Chess Grand Slam Finals in South Africa. In round one, he won the Game of the Day against GM Magnus Carlsen. In second and third were GMs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-south-africa-group-stage",
-         "pubDate" : "Mon, 08 Dec 2025 13:06:00",
-         "title" : "Birthday Boy Sindarov Shines Brightest On Day 1"
-      },
-      {
          "description" : "On behalf of All India Chess Federation , Tamil Nadu State Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Venue: Vallaba Vidyalaya CBSE School, Alagar",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -642,14 +690,6 @@ news_feed (
          "title" : "Hypocrisy fights back"
       },
       {
-         "description" : "GM Hikaru Nakamura is now one title away from securing a landmark 50 Bullet Brawl wins after he won December&#39;s first arena while joking about his relative age to the rest of the field. Nakamura scored 53.5/63 for a total score of 180 and barely pu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-dec-6-2025",
-         "pubDate" : "Sat, 06 Dec 2025 18:29:00",
-         "title" : "Nakamura Proves His 'Old Hands' Are Still Quick Enough For Bullet Brawl"
-      },
-      {
          "description" : " Jamaica, an island of almost three million, was devastated by Hurricane Melissa, a Category 5 storm that reached sustained winds of 185mph (and gusts over 250 mph). The hurricane created storm surges of up to 12 feet, flooding many parts of the tourist haven. Forming as an &#8220;extratropical cyclone&#8221; in late October, an area called The post <a href=\"https://thechessdrum.net/blog/2025/12/06/chess-in-jamaica-recovering-from-melissa/\">Chess in Jamaica recovering from Melissa</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -672,22 +712,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/it-was-never-through-effort-world-chess-champion-d-gukesh-reacts-to-anish-giris-different-person-remark/articleshow/125800056.cms",
          "pubDate" : "Sat, 06 Dec 2025 05:08:56",
          "title" : "'It was never through effort': Gukesh reacts to Anish Giri's 'different person' remark"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov had already won the&#38;nbsp;London Chess Classic Elite Tournament with a day to spare, and all draws in the final round meant he finished two points clear on 7.5/9. He made a solid draw against GM Pavel Eljanov, while second-...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/abdusattorov-wins-by-2-point-margin-after-last-round-deadlock",
-         "pubDate" : "Sat, 06 Dec 2025 04:57:00",
-         "title" : "Firouzja Takes 2nd In London, 2 Points Behind Abdusattorov"
-      },
-      {
-         "description" : "No one could have predicted that Samay Raina, one of the lowest-rated players in the field, would win SuperPogChamps. But the comedian had the last laugh when he defeated Andrea Botez and Sardoche in the Championship Bracket to take the crown. I...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/superpogchamps-day-4",
-         "pubDate" : "Fri, 05 Dec 2025 17:00:00",
-         "title" : "Dark Horse Samay Raina Goes From Blunder Master To SuperPogChampion"
       },
       {
          "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
