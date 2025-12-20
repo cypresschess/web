@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A big reason why chess improvement is so complex nowadays is our tendency to overcomplicate things (especially common with adults!). A more hidden way to do that is to always try to find specific takeaways even when there are none. Especially when watching engine based, forced lines, often the only takeaway is the following: []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/no-takeaway-in-chess/",
+         "pubDate" : "Sat, 20 Dec 2025 14:00:00",
+         "title" : "Sometimes There is No Takeaway"
+      },
+      {
+         "description" : "Kirsan Ilumzhinov, once the mercurial overlord of FIDÉ (the governing body of world chess) and long the subject of controversy, is now preparing his return from exile. Cast out by a blacklist drafted in Washington, he has emerged cleansed by the same bureaucratic machinery that condemned him. His papers are in order; his appetite for []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/christmas-for-kirsan/",
+         "pubDate" : "Sat, 20 Dec 2025 13:53:21",
+         "title" : "Christmas for Kirsan"
+      },
+      {
          "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 11.00 CET (5.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -808,14 +824,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-leads-the-london-chess-classic-with-3.54",
          "pubDate" : "Sun, 30 Nov 2025 15:04:00",
          "title" : "Abdusattorov leads the London Chess Classic with 3.5/4 - 3-4"
-      },
-      {
-         "description" : "Hey everyone, I hope those of you celebrating had a lovely Thanksgiving. Before we get into today's newsletter, a quick announcement: Both my Courses are 25% off until Tuesday 3 PM CET. As always, you have a 14-day money back guarantee, so you can get them now at a reduced price without any risk. Simplified []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/chess-calculation-technique/",
-         "pubDate" : "Sat, 29 Nov 2025 14:00:00",
-         "title" : "The Key To Right Calculation in Chess"
       }
    ]
 }
