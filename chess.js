@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Alongside the established elite, the FIDE World Rapid and Blitz Championships in Doha will feature a remarkable group of rising talents from around the world. Teenagers and even younger players will compete on equal terms with the game's biggest names, many already boasting grandmaster titles and major international results. This article highlights the most promising young contenders in both the Open and Women's events, offering a snapshot of the next generation set to test itself on the world stage in Qatar.",
+         "description" : "The Global Chess League moved into the second half of its round-robin phase with a heavier daily schedule and immediate consequences in the standings. Teams began playing twice per day, producing mixed results for those facing the added workload. While Triveni Continental Kings remain in front, Alireza Firouzja's streak came to an end. With three days to go in the initial phase, the contest for the second spot in the final gained increased importance. | Pictured: Continental Kings' Vidit Gujrathi | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-young-stars",
-         "pubDate" : "Fri, 19 Dec 2025 21:00:00",
-         "title" : "The next generation of chess stars will be in Doha"
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-6",
+         "pubDate" : "Sat, 20 Dec 2025 02:55:00",
+         "title" : "GCL: Continental Kings lead, Mumba Masters keep up the pace"
       },
       {
          "description" : " The Tech Mahindra Global Chess League takes place Sat 13th Dec to Wed 24th Dec 2025 in Mumbai. This is a very strong rapid team event and is on its third edition with previous events in Dubai and London. There are two stages, a round robin taking place until the 22nd of December followed by a two day KO to decide the final placings. Teams: Triveni Continental Kings: Firouzja, Wei, Vidit, Zhu, Kosteniuk, Maurizzi. Upgrad Mumba Masters: Vachier-Lagrave, So, Mamedyarov, Koneru, Dronavalli, Daneshvar. Alpine SG Pipers: Caruana, Giri, Praggnanandhaa, Hou, Batsiashvili, Mendonca. Ganges Grandmasters: Anand, Keymer, Sindarov, Shuvalova, Tsolakidou, Sadhwani. PBG Alaskan Knights: Gukesh, Erigaisi, ",
@@ -18,19 +18,11 @@ news_feed (
          "title" : "Tech Mahindra Global Chess League 2025 - Games and Results"
       },
       {
-         "description" : "The 2025 Hungarian National Individual Chess Championships took place in Budapest from 10 to 18 December, featuring open and women's events played as 10-player round-robins. Despite a few high-profile absences, both tournaments produced closely contested races. The open title went to 21-year-old Gleb Dudin, while the women's championship was decided on tiebreaks, with Szidonia Lazarne Vajda claiming her fourth national crown. | Photos: Hungarian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hungarian-championship-2025",
-         "pubDate" : "Fri, 19 Dec 2025 17:45:00",
-         "title" : "Dudin and Lazarne Vajda are 2025 Hungarian chess champions"
-      },
-      {
          "description" : "The rivals of GM Alireza Firouzja finally struck back on day six, with GM Fabiano Caruana ending a five-game winning streak before Firouzja also lost to World Champion Gukesh Dommaraju. Triveni Continental Kings still won that second match to lead...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-6",
-         "pubDate" : "Fri, 19 Dec 2025 12:03:43",
+         "pubDate" : "Fri, 19 Dec 2025 12:03:00",
          "title" : "Caruana, Gukesh Stop Firouzja, But Triveni Continental Kings Still Lead"
       },
       {
@@ -64,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-approves-lifting-sanctions-on-russia-belarus",
          "pubDate" : "Fri, 19 Dec 2025 09:26:00",
          "title" : "FIDE Lifts Russia Sanctions, Federations Threaten Legal Challenge"
-      },
-      {
-         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure with fixed lineups, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.30 CET (6.30 ET, 17.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
-         "pubDate" : "Fri, 19 Dec 2025 08:50:00",
-         "title" : "Global Chess League - Live!"
       },
       {
          "description" : " The Norwegian world No 1 will compete at Doha next week, a year after he was penalised for wearing jeans in New York One year ago, the world No 1, Magnus Carlsen, and the global chess body, Fide, were at loggerheads after the Norwegian was penalised for wearing jeans at the World Rapid in New York. The 35-year-old also agreed to share the World Blitz crown despite a rule requiring an outright winner. Relations worsened further when Fide opposed Carlsen's wish for the new Freestyle circuit winner to be called a world champion, and he announced that he was \"done\" with Fide. <a href=\"https://www.theguardian.com/sport/2025/dec/19/chess-magnus-carlsen-back-in-world-rapid-and-blitz-as-fide-signal",
@@ -128,14 +112,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/12/17/nm-charles-troutman-to-lead-washu-for-pan-ams/",
          "pubDate" : "Wed, 17 Dec 2025 18:48:13",
          "title" : "NM Charles Troutman to lead WashU for Pan-Ams"
-      },
-      {
-         "description" : "At the European Team Championship 2025, Ukraine's men won gold and the women won silver - an exceptional achievement under difficult circumstances. In an in-depth interview, team captain Alexander Beliavsky and coach Adrian Mikhalchishin reflect on the role of team spirit, emerging talent, and resilience in one of the most remarkable successes in Ukrainian chess history. | The photos in the text come from the Ukrainian team",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ukraine-s-golden-comeback-beliavsky-mikhalchishin-on-triumph-amid-war",
-         "pubDate" : "Wed, 17 Dec 2025 18:00:00",
-         "title" : "Triumph amid war: Ukraine's success at the European Team Championship - an interview with Alexander Beliavsky and Adrian Mikhalchishin"
       },
       {
          "description" : " The Magistral Szmetan-Giardelli was Round Robin held in Buenos Aire 8th to 16th December 2025. Players: Aryan Tari, Ivan Cheparinov, Julio, Granda Zuniga, Alexei Shirov, Diego Flores, Sandro Mareco, Faustino Oro, Ilan Schnaider, Sergio Slipak and Tomas, Darcyl. Aryan Tari took a quick draw in the final round and won on tie-break from Ivan Cheparinov after both scored 6/9, Alexei Shirov was also very much in the running for first place going into the final round but lost to Granda Zuniga in the final round and ended up in third place on tie-break from Faustino Oro on 5.5/9.",
@@ -626,14 +602,6 @@ news_feed (
          "title" : " SNA seminar and Exam in Ahmedabad on 02 & 03 January 2026"
       },
       {
-         "description" : "Fourteen-year-old Turkish chess prodigy GM Yagiz Kaan Erdogmus has beaten 35-year-old world number 15 GM Maxime Vachier-Lagrave 3.5-2.5 in Clash of Generations II. Victory in the six-game classical match in the Monte Carlo Chess Club saw Erdogmus ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/erdogmus-beats-vachier-lagrave-world-top-50",
-         "pubDate" : "Tue, 09 Dec 2025 00:56:00",
-         "title" : "Erdogmus Beats Vachier-Lagrave, Smashes Carlsen's Record As Youngest In Top 50"
-      },
-      {
          "description" : " The 15th XTX Markets London Chess Classic took place Wed 26th Nov to Sun 7th Dec 2025. Players: Alireza Firouzja, Luke Mcshane, Michael Adams, Nikolas Theodorou, Sam Shankland, Nodirbek Abdusattorov, Pavel Eljanov, Nikita Vitiugov, Abhimanyu Mishra and Gawain Maroroa Jones. Nodirbek Abdusattorov dominated the event scoring 7.5/9 and finished two points clear of Alireza Firouzja. The open saw Praggnanandhaa, Vladimir Ivic and Ameet Ghasi tie on 7/9. The Super Rapid was won by Nikolas Theodorou on 9/10 with Alireza Firouza half a point behind on 8.5 points.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -840,14 +808,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-art-of-chess-duchamp-and-nimzowitsch/",
          "pubDate" : "Sat, 29 Nov 2025 12:09:14",
          "title" : "The art of chess: Duchamp and Nimzowitsch"
-      },
-      {
-         "description" : "The European Rapid and Blitz Chess Championship 2025 commenced today in Pristina, Kosovo, with the Rapid tournament. The Opening ceremony of the event took place at the Emerald Hotel, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, Minister of Culture, Youth and Sports of Kosovo Mr. Hajrullah Çeku, Deputy Minister of Sports of North Macedonia Ms. Safije Sadiku Shahini, ECU CEO and President of Albanian Chess Federation Mr. Erald Dervishi, ECU Vice President Mr. Alojzije Jankovic, President of []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2025-commenced/",
-         "pubDate" : "Sat, 29 Nov 2025 00:32:37",
-         "title" : "European Rapid and Blitz Chess Championship 2025 commenced"
       }
    ]
 }
