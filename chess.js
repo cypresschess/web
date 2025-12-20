@@ -58,7 +58,7 @@ news_feed (
          "title" : "Terry, Ambartsumova Continue 3 0 Thursday Winning Streaks"
       },
       {
-         "description" : "The International Chess Federation (FIDE) approved the lifting of sanctions on Russia and Belarus following an online General Assembly, but the proceedings have been criticized by several federations, and the world governing chess body could face ...",
+         "description" : "The International Chess Federation (FIDE) has approved the lifting of sanctions on Russia and Belarus following an online General Assembly, but the proceedings have been criticized by several federations, and the world governing chess body could f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-approves-lifting-sanctions-on-russia-belarus",
@@ -80,14 +80,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/dec/19/chess-magnus-carlsen-back-in-world-rapid-and-blitz-as-fide-signals-jeansgate-peace",
          "pubDate" : "Fri, 19 Dec 2025 08:00:56",
          "title" : "Chess: Magnus Carlsen back in World Rapid and Blitz as Fide signals jeansgate peace"
-      },
-      {
-         "description" : "The Global Chess League reached a turning point as the first half of the double round-robin came to an end in Mumbai. Triveni Continental Kings emerged as the sole leaders after defeating their closest rivals, upGrad Mumba Masters. The defending champions were again led by Alireza Firouzja, who maintained a perfect record by winning his fifth consecutive game. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-5",
-         "pubDate" : "Fri, 19 Dec 2025 00:35:00",
-         "title" : "GCL: Firouzja's Continental Kings now sole leaders"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed for the holidays on Wednesday, December 24 and Thursday, December 25, and again on Wednesday, December 31 and Thursday, January 1, 2026.All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items. We strongly encourage submitting materials by noon CST on the Tuesday preceding the office closure. Thank you for your understanding, and happy holidays. ",
