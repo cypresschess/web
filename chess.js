@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vladimir Fedoseev was one of the first Russian chess players to speak out critically against Russia's invasion of Ukraine. He switched to the Slovenian association and never wants to represent Russia again. The Russian Minister of Sport has now stripped him of his Russian honorary titles. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russia-revokes-fedoseev-titles",
+         "pubDate" : "Sat, 20 Dec 2025 19:40:00",
+         "title" : "Russia revokes Vladimir Fedoseev's honorary titles"
+      },
+      {
          "description" : "A big reason why chess improvement is so complex nowadays is our tendency to overcomplicate things (especially common with adults!). A more hidden way to do that is to always try to find specific takeaways even when there are none. Especially when watching engine based, forced lines, often the only takeaway is the following: []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://www.thearticle.com/christmas-for-kirsan/",
          "pubDate" : "Sat, 20 Dec 2025 13:53:21",
          "title" : "Christmas for Kirsan"
-      },
-      {
-         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 11.00 CET (5.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
-         "pubDate" : "Sat, 20 Dec 2025 10:50:00",
-         "title" : "Global Chess League - Live!"
       },
       {
          "description" : "In Part Two of his review of the Opening Encyclopaedia 2025, Nagesh Havanur explores the nuanced world of Semi-Open Games. From the dynamic Sicilian Defence to the \"quiet\" Caro-Kann, each defence offers distinct challenges and strategies. As our author transitions to Closed Games in his next instalment, he offers much practical advice for the aspiring tournament player.",
