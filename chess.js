@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In Part Two of his review of the Opening Encyclopaedia 2025, Nagesh Havanur explores the nuanced world of Semi-Open Games. From the dynamic Sicilian Defence to the \"quiet\" Caro-Kann, each defence offers distinct challenges and strategies. As our author transitions to Closed Games in his next instalment, he offers much practical advice for the aspiring tournament player.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/opening-encyclopaedia-review-nagesh-havanur-p2",
+         "pubDate" : "Sat, 20 Dec 2025 09:00:00",
+         "title" : "Opening Encyclopaedia: Semi-Open Games"
+      },
+      {
          "description" : "The Global Chess League moved into the second half of its round-robin phase with a heavier daily schedule and immediate consequences in the standings. Teams began playing twice per day, producing mixed results for those facing the added workload. While Triveni Continental Kings remain in front, Alireza Firouzja's streak came to an end. With three days to go in the initial phase, the contest for the second spot in the final gained increased importance. | Pictured: Continental Kings' Vidit Gujrathi | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
