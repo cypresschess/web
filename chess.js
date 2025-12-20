@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 11.00 CET (5.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
+         "pubDate" : "Sat, 20 Dec 2025 10:50:00",
+         "title" : "Global Chess League - Live!"
+      },
+      {
          "description" : "In Part Two of his review of the Opening Encyclopaedia 2025, Nagesh Havanur explores the nuanced world of Semi-Open Games. From the dynamic Sicilian Defence to the \"quiet\" Caro-Kann, each defence offers distinct challenges and strategies. As our author transitions to Closed Games in his next instalment, he offers much practical advice for the aspiring tournament player.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -808,14 +816,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/chess-calculation-technique/",
          "pubDate" : "Sat, 29 Nov 2025 14:00:00",
          "title" : "The Key To Right Calculation in Chess"
-      },
-      {
-         "description" : "Next year, 2026, will be the year of Marcel Duchamp and chess, with celebrations, exhibitions and simultaneous displays scattered across New York like leaflets from some well-meaning bureaucracy. Readers of this column, like countless others, already know that Duchamp played chess; the real question is whether anyone has paused to ask how good at the []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-art-of-chess-duchamp-and-nimzowitsch/",
-         "pubDate" : "Sat, 29 Nov 2025 12:09:14",
-         "title" : "The art of chess: Duchamp and Nimzowitsch"
       }
    ]
 }
