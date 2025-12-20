@@ -1,4 +1,5 @@
 jtable([
+"CYPRESS","2025-12-19","27","<a href=https://ratings.uschess.org/event/202512190123 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-12-14","12","<a href=https://ratings.uschess.org/event/202512140233 target='_blank'>Bellaire Sunday Swiss 2025.12.14</a>",
 "HOUSTON","2025-12-13","360","<a href=https://ratings.uschess.org/event/202512131123 target='_blank'>MIMS TOURNAMENT DEC 2025</a>",
 "PASADENA","2025-12-12","22","<a href=https://ratings.uschess.org/event/202512120243 target='_blank'>Checkmates on Fairmont</a>",
@@ -98,5 +99,4 @@ jtable([
 "HOUSTON","2025-09-07","9","<a href=https://ratings.uschess.org/event/202509076312 target='_blank'>BELLAIRE SUNDAY SWISS 09/07/2025</a>",
 "HOUSTON","2025-09-07","33","<a href=https://ratings.uschess.org/event/202509076262 target='_blank'>$2,500 SEPTEMBER CHAMPIONSHIP</a>",
 "HOUSTON","2025-09-06","156","<a href=https://ratings.uschess.org/event/202509065642 target='_blank'>NOTTINGHAM ELEMENTARY SCHOLASTIC</a>",
-"HOUSTON","2025-09-06","14","<a href=https://ratings.uschess.org/event/202509065242 target='_blank'>CHESSPANDA09062025</a>",
 ]);
