@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We take a unique behind-the-scenes look at how top chess masters organize their digital workspace. Grandmasters and trainers reveal their personal ChessBase 26 setups - from meticulously clean desktops to chaotic databases full of ideas. They show us their board designs, current projects, and discuss their favourite or most-used ChessBase functions, offering fascinating insights into how great minds prepare, study, and work with chess every day.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/my-chessbase-26-desktop-lilit-mkrtchian",
+         "pubDate" : "Sun, 21 Dec 2025 14:00:00",
+         "title" : "My ChessBase 26 Desktop! - Lilit Mkrtchian"
+      },
+      {
          "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 11.00 CET (5.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -832,14 +840,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-blitz-chess-champions-2025-crowned-in-kosovo/",
          "pubDate" : "Mon, 01 Dec 2025 00:44:35",
          "title" : "European Rapid & Blitz Chess Champions 2025 crowned"
-      },
-      {
-         "description" : " Nodirbek Abdusattorov has started quickly to lead the London Chess Classic alone after four rounds. All the games were drawn in the first round, since then he has beaten Abhimanyu Mishra, Nikita Vitiugov and Michael Adams. Abdusattorov's win against Vitiugov is particularly interesting, as black Abdusattorov gradually took over the position but still had to be precise until the very end. Notes below. Close on Abdusattorov's heals is Alireza Firouzja who has wins against Luke McShane and Pavel Eljanov. Nikolas Theodorou is the only other player on a plus score with three draws and a win against Gawain Maroroa Jones. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-leads-the-london-chess-classic-with-3.54",
-         "pubDate" : "Sun, 30 Nov 2025 15:04:00",
-         "title" : "Abdusattorov leads the London Chess Classic with 3.5/4 - 3-4"
       }
    ]
 }
