@@ -10,12 +10,12 @@ news_feed (
          "title" : "Russia revokes Vladimir Fedoseev's honorary titles"
       },
       {
-         "description" : "GM Jeffery Xiong joined Bullet Brawl&#39;s illustrious two-time winner&#39;s club after outlasting GM Oleksandr Bortnyk and finishing atop Saturday&#39;s event. The 25-year-old American flirted with danger during the two-hour arena and defeated no less than 3...",
+         "description" : "GM Jeffery Xiong joined Bullet Brawl&#39;s illustrious two-time winners&#39; club after outlasting GM Oleksandr Bortnyk and finishing atop Saturday&#39;s event. The 25-year-old American flirted with danger during the two-hour arena and defeated no fewer than ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/jeffery-xiong-wins-bullet-brawl-dec-20-2025",
-         "pubDate" : "Sat, 20 Dec 2025 16:07:28",
-         "title" : "Xiong Beats 34 Players Rated Over 3000 En Route To Second Title"
+         "pubDate" : "Sat, 20 Dec 2025 16:07:00",
+         "title" : "Xiong Beats 34 Players Rated Over 3000 En Route To 2nd Title"
       },
       {
          "description" : "A big reason why chess improvement is so complex nowadays is our tendency to overcomplicate things (especially common with adults!). A more hidden way to do that is to always try to find specific takeaways even when there are none. Especially when watching engine based, forced lines, often the only takeaway is the following: []",
@@ -38,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-7",
-         "pubDate" : "Sat, 20 Dec 2025 13:42:27",
+         "pubDate" : "Sat, 20 Dec 2025 13:42:00",
          "title" : "Nakamura's American Gambits Crush MVL's Mumba Masters 16-1"
       },
       {
