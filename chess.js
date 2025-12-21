@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126107633.cms\" />Hou Yifan secured two crucial wins for SG Pipers. This propelled the team to second place in the Global Chess League standings. Defending champions Continental Kings have confirmed their spot in the final. Mumba Masters faced a significant setback, losing both their matches. The race for the second final position intensifies as teams vie for a place.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-d-gukesh-loses-to-maxime-vachier-lagrave-but-his-team-alaskan-knights-win-continental-kings-enter-final/articleshow/126107633.cms",
+         "pubDate" : "Sun, 21 Dec 2025 17:24:13",
+         "title" : "GCL: Gukesh loses to MVL, but his team wins; Continental Kings enter final"
+      },
+      {
          "description" : "We take a unique behind-the-scenes look at how top chess masters organize their digital workspace. Grandmasters and trainers reveal their personal ChessBase 26 setups - from meticulously clean desktops to chaotic databases full of ideas. They show us their board designs, current projects, and discuss their favourite or most-used ChessBase functions, offering fascinating insights into how great minds prepare, study, and work with chess every day.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-from-dying-from-spice-to-iphone-revolt-and-gukesh-mode-dutch-no-1-anish-giri-opens-box-of-not-quite-chess-tales/articleshow/125767320.cms",
          "pubDate" : "Thu, 04 Dec 2025 12:45:48",
          "title" : "Exclusive | From 'iPhone revolt' to 'Gukesh mode': Dutch No.1 opens box of not-quite-chess tales"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125760568.cms\" />Young Grandmaster Arjun Erigaisi triumphed at the Jerusalem Masters, defeating legendary Viswanathan Anand in a thrilling all-Indian final. After drawing the rapid games, Erigaisi secured the title by winning the first blitz tie-break. He expressed relief at overcoming challenges and playing well in the crucial blitz encounters, ultimately pocketing a significant prize.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-defeats-chess-legend-viswanathan-anand-in-the-jerusalem-masters-final/articleshow/125760568.cms",
-         "pubDate" : "Thu, 04 Dec 2025 07:18:26",
-         "title" : "Arjun Erigaisi defeats chess legend Viswanathan Anand in the Jerusalem Masters"
       },
       {
          "description" : "Ed Schr&ouml;der, pioneer of chess engine programming, has in his retirement turned his attention to a new and very exciting project: to extract games from a database collection that are especially aggressive - that are short and have daring sacrifices and king attacks. He shows us the kinds of result you can get. Best of all: you can download the utility and use it on your databases.",
