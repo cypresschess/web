@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2025-12-20","6","<a href=https://ratings.uschess.org/event/202512200203 target='_blank'>chesspanda12202025saturday</a>",
+"HOUSTON","2025-12-20","20","<a href=https://ratings.uschess.org/event/202512200173 target='_blank'>DEC20TH TROPHY SCHOLASTIC</a>",
 "CYPRESS","2025-12-19","27","<a href=https://ratings.uschess.org/event/202512190123 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-12-14","12","<a href=https://ratings.uschess.org/event/202512140233 target='_blank'>Bellaire Sunday Swiss 2025.12.14</a>",
 "HOUSTON","2025-12-13","360","<a href=https://ratings.uschess.org/event/202512131123 target='_blank'>MIMS TOURNAMENT DEC 2025</a>",
@@ -97,6 +99,4 @@ jtable([
 "CYPRESS","2025-09-12","45","<a href=https://ratings.uschess.org/event/202509128682 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2025-09-12","17","<a href=https://ratings.uschess.org/event/202509128612 target='_blank'>FBCC 2025 NATIONAL VIDEO GAMES DAY</a>",
 "HOUSTON","2025-09-07","9","<a href=https://ratings.uschess.org/event/202509076312 target='_blank'>BELLAIRE SUNDAY SWISS 09/07/2025</a>",
-"HOUSTON","2025-09-07","33","<a href=https://ratings.uschess.org/event/202509076262 target='_blank'>$2,500 SEPTEMBER CHAMPIONSHIP</a>",
-"HOUSTON","2025-09-06","156","<a href=https://ratings.uschess.org/event/202509065642 target='_blank'>NOTTINGHAM ELEMENTARY SCHOLASTIC</a>",
 ]);
