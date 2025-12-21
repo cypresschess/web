@@ -10,6 +10,14 @@ news_feed (
          "title" : "Russia revokes Vladimir Fedoseev's honorary titles"
       },
       {
+         "description" : "GM Jeffery Xiong joined Bullet Brawl&#39;s illustrious two-time winner&#39;s club after outlasting GM Oleksandr Bortnyk and finishing atop Saturday&#39;s event. The 25-year-old American flirted with danger during the two-hour arena and defeated no less than 3...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jeffery-xiong-wins-bullet-brawl-dec-20-2025",
+         "pubDate" : "Sat, 20 Dec 2025 16:07:28",
+         "title" : "Xiong Beats 34 Players Rated Over 3000 En Route To Second Title"
+      },
+      {
          "description" : "A big reason why chess improvement is so complex nowadays is our tendency to overcomplicate things (especially common with adults!). A more hidden way to do that is to always try to find specific takeaways even when there are none. Especially when watching engine based, forced lines, often the only takeaway is the following: []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.thearticle.com/christmas-for-kirsan/",
          "pubDate" : "Sat, 20 Dec 2025 13:53:21",
          "title" : "Christmas for Kirsan"
+      },
+      {
+         "description" : "GM Hikaru Nakamura&#39;s Fyers American Gambits beating GM Maxime Vachier-Lagrave&#39;s upGrad Mumba Masters 16-1 was the standout result of day seven of the Tech Mahindra Global Chess League 2025. That meant the Mumba Masters failed to catch the leaders,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-7",
+         "pubDate" : "Sat, 20 Dec 2025 13:42:27",
+         "title" : "Nakamura's American Gambits Crush MVL's Mumba Masters 16-1"
       },
       {
          "description" : "In Part Two of his review of the Opening Encyclopaedia 2025, Nagesh Havanur explores the nuanced world of Semi-Open Games. From the dynamic Sicilian Defence to the \"quiet\" Caro-Kann, each defence offers distinct challenges and strategies. As our author transitions to Closed Games in his next instalment, he offers much practical advice for the aspiring tournament player.",
@@ -600,22 +616,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-its-now-time-to-r-praggnanandhaa-opens-up-after-becoming-first-indian-to-qualify-for-candidates-2026/articleshow/125872931.cms",
          "pubDate" : "Tue, 09 Dec 2025 15:37:38",
          "title" : "'It's now time to ...': Pragg after becoming first Indian to enter Candidates"
-      },
-      {
-         "description" : "An undefeated GM Sam Sevian won Titled Tuesday on December 9&#38;mdash;his first since 2021&#38;mdash;scoring 9.5 points to claim an outright victory ahead of five players on nine points. In that group, GM Denis Lazavik emerged from the tiebreak applicati...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sevian-wins-titled-tuesday-december-9-2025",
-         "pubDate" : "Tue, 09 Dec 2025 12:55:56",
-         "title" : "Sevian Breaks Through For 1st Titled Tuesday Since 2021"
-      },
-      {
-         "description" : "GM Magnus Carlsen lost the first game against GM Fabiano Caruana in the 2025 Freestyle Chess Grand Slam Finals, but then won on demand with Black to force tiebreaks. There, he won both blitz games and already clinched the 2025 Freestyle Chess Gran...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-south-africa-qf",
-         "pubDate" : "Tue, 09 Dec 2025 11:17:00",
-         "title" : "Carlsen Clinches Tour With 2 Days To Spare, After Clutch Comeback"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125867864.cms\" />Indian Grandmaster Arjun Erigaisi triumphed over Magnus Carlsen in the Freestyle Chess Grand Slam Finals. While Javokhir Sindarov leads the standings, Erigaisi secured third place, earning a knockout stage match against Vincent Keymer. The finals, the fifth event in the year-long tour, will determine the 2025 Freestyle Chess Champion, with Carlsen aiming to clinch the overall tour victory.",
