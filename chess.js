@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 11.00 CET (5.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
+         "pubDate" : "Sun, 21 Dec 2025 10:55:00",
+         "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "Day seven of the Global Chess League produced a clearer picture at the top of the table, with the leaders, Triveni Continental Kings, opening a commanding gap over the rest of the field. A heavy defeat for one of the main challengers, upGrad Mumba Masters, reshaped the standings, while several tightly contested matches kept the battle for second place wide open. | Pictured: Continental Kings' Marc'Andria Maurizzi | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-7",
+         "pubDate" : "Sun, 21 Dec 2025 10:30:00",
+         "title" : "GCL: Continental Kings widen the gap, get six-point lead"
+      },
+      {
          "description" : "Vladimir Fedoseev was one of the first Russian chess players to speak out critically against Russia's invasion of Ukraine. He switched to the Slovenian association and never wants to represent Russia again. The Russian Minister of Sport has now stripped him of his Russian honorary titles. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
