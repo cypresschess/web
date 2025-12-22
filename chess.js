@@ -22,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-8",
-         "pubDate" : "Sun, 21 Dec 2025 12:46:57",
+         "pubDate" : "Sun, 21 Dec 2025 12:46:00",
          "title" : "Firouzja's Triveni Continental Kings Power Into Global Chess League Final"
       },
       {
@@ -832,14 +832,6 @@ news_feed (
          "link" : "https://aicf.in/india-registers-a-dominant-performance-with-49-medals-at-the-asian-youth-chess-championship-2025-in-bangkok-from-20-30-december-2025/",
          "pubDate" : "Mon, 01 Dec 2025 09:15:48",
          "title" : "India Registers a Dominant Performance with 49 Medals at the Asian Youth Chess Championship 2025 in Bangkok from 20-30 November 2025"
-      },
-      {
-         "description" : "The 2025 European Rapid &#38; Blitz Chess Championships took place from 27 November 1 December in Pristina, Kosovo. The event gathered nearly 400 players coming from 38 European federations, and commenced with the Rapid Championship which was played from 28-29 November in 11 rounds (swiss system). GM Paulius Pultinevicius (LTU, 2566) emerged as the sole Winner of the European Rapid Chess Championship 2025 with the score of 10 points. Playing for gold in the final round, Pultinevicius defeated GM []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-rapid-blitz-chess-champions-2025-crowned-in-kosovo/",
-         "pubDate" : "Mon, 01 Dec 2025 00:44:35",
-         "title" : "European Rapid & Blitz Chess Champions 2025 crowned"
       }
    ]
 }
