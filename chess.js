@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.00 CET (6.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
+         "pubDate" : "Mon, 22 Dec 2025 11:50:00",
+         "title" : "Global Chess League - Live!"
+      },
+      {
          "description" : "The round-robin phase of the Global Chess League has been decided at the top, with Triveni Continental Kings finishing first and securing a place in the Final with one round to go. The remaining berth in the final match will be determined on Monday, with the Alpine SG Pipers now the frontrunners in this battle - two wins by women's world number one Hou Yifan helped them climb to second place in the standings. | Photo: ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-national-under-15-chess-championship-2025-held-in-ghaziabad-from-02-10-nov-2025/",
          "pubDate" : "Tue, 02 Dec 2025 10:25:59",
          "title" : "Certificate of National Under 15 Chess Championship 2025 held in Ghaziabad from 02-10 Nov 2025"
-      },
-      {
-         "description" : "India Registers a Dominant Performance with 49 Medals at the Asian Youth Chess Championship AICF congratulates all players, coaches, and parents for an exceptional all-format",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/india-registers-a-dominant-performance-with-49-medals-at-the-asian-youth-chess-championship-2025-in-bangkok-from-20-30-december-2025/",
-         "pubDate" : "Mon, 01 Dec 2025 09:15:48",
-         "title" : "India Registers a Dominant Performance with 49 Medals at the Asian Youth Chess Championship 2025 in Bangkok from 20-30 November 2025"
       }
    ]
 }
