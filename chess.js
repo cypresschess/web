@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The round-robin phase of the Global Chess League has been decided at the top, with Triveni Continental Kings finishing first and securing a place in the Final with one round to go. The remaining berth in the final match will be determined on Monday, with the Alpine SG Pipers now the frontrunners in this battle - two wins by women's world number one Hou Yifan helped them climb to second place in the standings. | Photo: ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-8",
+         "pubDate" : "Mon, 22 Dec 2025 06:50:00",
+         "title" : "GCL: Alpine SG Pipers climb to sole second place, as Hou Yifan scores 2/2"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126114519.cms\" />World No.1 Hou Yifan's stellar performance propelled Alpine SG Pipers to second place in the Global Chess League. She secured two crucial victories, leading her team to identical 8-7 wins against Mumba Masters and American Gambits. This surge positions the Pipers strongly for a finals spot, needing just one win in their upcoming match.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-hou-yifans-super-sunday-takes-alpine-sg-pipers-to-second-spot/articleshow/126114519.cms",
+         "pubDate" : "Mon, 22 Dec 2025 04:46:19",
+         "title" : "Global Chess League: Hou Yifan's super Sunday takes Alpine SG Pipers to second spot"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126107633.cms\" />Hou Yifan secured two crucial wins for SG Pipers. This propelled the team to second place in the Global Chess League standings. Defending champions Continental Kings have confirmed their spot in the final. Mumba Masters faced a significant setback, losing both their matches. The race for the second final position intensifies as teams vie for a place.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-8",
          "pubDate" : "Sun, 21 Dec 2025 12:46:00",
          "title" : "Firouzja's Triveni Continental Kings Power Into Global Chess League Final"
-      },
-      {
-         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 11.00 CET (5.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
-         "pubDate" : "Sun, 21 Dec 2025 10:55:00",
-         "title" : "Global Chess League - Live!"
       },
       {
          "description" : "Day seven of the Global Chess League produced a clearer picture at the top of the table, with the leaders, Triveni Continental Kings, opening a commanding gap over the rest of the field. A heavy defeat for one of the main challengers, upGrad Mumba Masters, reshaped the standings, while several tightly contested matches kept the battle for second place wide open. | Pictured: Continental Kings' Marc'Andria Maurizzi | Photos: Official website",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/dec/05/three-year-old-chess-prodigy-youngest-official-rating-sarwagya-singh-kushwaha",
          "pubDate" : "Fri, 05 Dec 2025 01:26:21",
          "title" : "Three-year-old chess prodigy becomes youngest player to earn official rating"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125767320.cms\" />Anish Giri found a crucial turning point in his chess career during the Global Chess League (GCL) last year, overcoming a dip in form and confidence. He shares humorous anecdotes about team bonding, food preferences, and even a playful \"iPhone mutiny.\" Giri sees the upcoming GCL season as a vital warm-up for the FIDE World Rapid and Blitz Championships. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-from-dying-from-spice-to-iphone-revolt-and-gukesh-mode-dutch-no-1-anish-giri-opens-box-of-not-quite-chess-tales/articleshow/125767320.cms",
-         "pubDate" : "Thu, 04 Dec 2025 12:45:48",
-         "title" : "Exclusive | From 'iPhone revolt' to 'Gukesh mode': Dutch No.1 opens box of not-quite-chess tales"
       },
       {
          "description" : "Ed Schr&ouml;der, pioneer of chess engine programming, has in his retirement turned his attention to a new and very exciting project: to extract games from a database collection that are especially aggressive - that are short and have daring sacrifices and king attacks. He shows us the kinds of result you can get. Best of all: you can download the utility and use it on your databases.",
