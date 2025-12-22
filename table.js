@@ -1,4 +1,8 @@
 jtable([
+"SUGAR LAND","2025-12-21","6","<a href=https://ratings.uschess.org/event/202512210403 target='_blank'>winter-12-21-2025</a>",
+"HOUSTON","2025-12-21","14","<a href=https://ratings.uschess.org/event/202512210273 target='_blank'>Bellaire Sunday Swiss 2025.12.21</a>",
+"HOUSTON","2025-12-21","15","<a href=https://ratings.uschess.org/event/202512210223 target='_blank'>2025 Christmas Day by AzChAcad</a>",
+"HOUSTON","2025-12-21","27","<a href=https://ratings.uschess.org/event/202512210093 target='_blank'>SRI MEENAKSHI TEMPLE DECEMBER 2025</a>",
 "HOUSTON","2025-12-20","6","<a href=https://ratings.uschess.org/event/202512200203 target='_blank'>chesspanda12202025saturday</a>",
 "HOUSTON","2025-12-20","20","<a href=https://ratings.uschess.org/event/202512200173 target='_blank'>DEC20TH TROPHY SCHOLASTIC</a>",
 "CYPRESS","2025-12-19","27","<a href=https://ratings.uschess.org/event/202512190123 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -95,8 +99,4 @@ jtable([
 "HOUSTON","2025-09-13","13","<a href=https://ratings.uschess.org/event/202509139212 target='_blank'>CHESSPANDA09132025SATURDAY</a>",
 "HOUSTON","2025-09-13","11","<a href=https://ratings.uschess.org/event/202509138992 target='_blank'>SEPT 13TH -- TROPHY SCHOLASTIC</a>",
 "HOUSTON","2025-09-13","16","<a href=https://ratings.uschess.org/event/202509136812 target='_blank'>BAD ASTRONAUT BACK-2-SCHOOL</a>",
-"SPRING","2025-09-12","19","<a href=https://ratings.uschess.org/event/202509128732 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2025-09-12","45","<a href=https://ratings.uschess.org/event/202509128682 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SUGAR LAND","2025-09-12","17","<a href=https://ratings.uschess.org/event/202509128612 target='_blank'>FBCC 2025 NATIONAL VIDEO GAMES DAY</a>",
-"HOUSTON","2025-09-07","9","<a href=https://ratings.uschess.org/event/202509076312 target='_blank'>BELLAIRE SUNDAY SWISS 09/07/2025</a>",
 ]);
