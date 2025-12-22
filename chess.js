@@ -10,6 +10,22 @@ news_feed (
          "title" : "Global Chess League - Live!"
       },
       {
+         "description" : "The Collegiate Chess League (CCL) is back for another thrilling season, and registrations for Spring 2026 are officially open! Once again, the CCL will boast a $25,000 prize fund and the exciting four vs. four team format that fans and players lov...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-spring-2026-registration",
+         "pubDate" : "Mon, 22 Dec 2025 08:02:00",
+         "title" : "Collegiate Chess League Spring 2026 Registration"
+      },
+      {
+         "description" : "Chess.com&#39;s very own Chief Chess Officer (and commentator extraordinaire, bestselling author, and more) IM Danny Rensch will be playing Santa Claus of sorts in a special, Christmas-themed stream on December 23 starting at 2 p.m. ET/11 a.m. PT.&#38;nbs...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/danny-rensch-dark-squares-arena-stream",
+         "pubDate" : "Mon, 22 Dec 2025 07:00:00",
+         "title" : "Play Danny's Christmas Bullet Bash For A Chance To Win Signed Chessboard, SCC Tickets"
+      },
+      {
          "description" : "The round-robin phase of the Global Chess League has been decided at the top, with Triveni Continental Kings finishing first and securing a place in the Final with one round to go. The remaining berth in the final match will be determined on Monday, with the Alpine SG Pipers now the frontrunners in this battle - two wins by women's world number one Hou Yifan helped them climb to second place in the standings. | Photo: ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -624,22 +640,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gukesh-ju-wenjun-24-total-chess-world-championship-tour-qualifiers",
          "pubDate" : "Thu, 11 Dec 2025 09:06:00",
          "title" : "Ju Wenjun, Gukesh Among 24 Total Chess World Championship Tour Qualifiers"
-      },
-      {
-         "description" : "GM Levon Aronian defeated GM Magnus Carlsen 1.5-0.5 in the title match of the 2025 Freestyle Chess Grand Slam Finals to win the $200,000 first prize. Following up on his win in Las Vegas over the summer, it&#39;s his second Grand Slam win in a row. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aronian-wins-2025-freestyle-chess-grand-slam-south-africa",
-         "pubDate" : "Thu, 11 Dec 2025 07:29:00",
-         "title" : "Aronian Wins Freestyle Chess Grand Slam In South Africa"
-      },
-      {
-         "description" : "GMs Magnus Carlsen and Levon Aronian will contest the title match of the 2025 Freestyle Chess Grand Slam Finals, where first place comes with $200,000. Carlsen won a close semifinal match against GM Javokhir Sindarov, who won on demand once and ne...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/view-2025-freestyle-chess-grand-slam-south-africa-sf",
-         "pubDate" : "Wed, 10 Dec 2025 10:26:00",
-         "title" : "Carlsen 'Outlasts' Sindarov, Plays Aronian In Final On Thursday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125883547.cms\" />20-year-old Indian GM R Praggnanandhaa secured his spot in the Candidates 2026, joining his sister R Vaishali. Dutch Grandmaster Anish Giri, however, believes India could have had more representatives than just one. Giri also highlighted the formidable nature of lower-rated players in the line-up like Matthias Bluebaum, predicting a highly competitive tournament.",
