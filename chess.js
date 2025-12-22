@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fellow students, whether composers or solvers, have appreciated it for years, but it is far less known to the wider chess community: since 1991, there has been a giant database of chess. It is the result of the tireless work of Harold van der Heijden, a Dutch collector of endgames and studies, editor, chess organizer, and chess composer. Harold has just turned 65, and the well-known chess study composer has written an article celebrating the launch of the latest 100,000 game edition of the database.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/harold-van-der-heijden",
+         "pubDate" : "Mon, 22 Dec 2025 20:00:00",
+         "title" : "Harold van der Heijden"
+      },
+      {
+         "description" : "As the World Rapid and Blitz Championships approach, Doha will host the leading figures of women's chess alongside the wider elite. From established world champions to Grand Prix winners and fast-time-control specialists, the women's field reflects both depth and continuity at the top of the game. This article outlines the key contenders arriving in Qatar, tracing recent results, rivalries and form, and setting the context for how women's chess has developed ahead of one of the season's flagship events. | All photos: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-top-women",
+         "pubDate" : "Mon, 22 Dec 2025 19:00:00",
+         "title" : "Top ten women players fighting for the crown in Doha"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126124903.cms\" />SG Pipers reached the Global Chess League final despite losing 6-11 to Alaskan Knights, finishing level on 15 points but ahead of Ganges Grandmasters on game points. Hou Yifan's win and Leon Luke Mendonca's crucial draw sealed qualification. Pipers will face Continental Kings, while Grandmasters meet Alaskan Knights for third place.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-2025-anish-giris-sg-pipers-loses-in-final-group-stage-match-but-still-qualifies-for-finale-against-continental-kings/articleshow/126124903.cms",
+         "pubDate" : "Mon, 22 Dec 2025 16:30:26",
+         "title" : "GCL 2025: Anish Giri's Pipers to face Continental Kings in final"
+      },
+      {
          "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.00 CET (6.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-hou-yifans-super-sunday-takes-alpine-sg-pipers-to-second-spot/articleshow/126114519.cms",
          "pubDate" : "Mon, 22 Dec 2025 04:46:19",
          "title" : "Global Chess League: Hou Yifan's super Sunday takes Alpine SG Pipers to second spot"
+      },
+      {
+         "description" : "Editor's note: these stories first appeared in the December 2025 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.The December issue of Chess Life magazine was dedicated to the life and games of GM Daniel Naroditsky, who died tragically in October of this year at the age of 29. A former World Junior Champion, beloved educator, prodigious author, and wildly popular streamer and commentator, Naroditsky had a huge impact on the world of chess. <br> <br> <br> <br> <br> <br> <br> <br> <br> <",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/inside-story-daniel-naroditsky-1995-2025",
+         "pubDate" : "Mon, 22 Dec 2025 00:00:00",
+         "title" : "Inside Story: Daniel Naroditsky (1995-2025)"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126107633.cms\" />Hou Yifan secured two crucial wins for SG Pipers. This propelled the team to second place in the Global Chess League standings. Defending champions Continental Kings have confirmed their spot in the final. Mumba Masters faced a significant setback, losing both their matches. The race for the second final position intensifies as teams vie for a place.",
@@ -234,7 +266,7 @@ news_feed (
          "title" : "NM Charles Troutman to lead WashU for Pan-Ams"
       },
       {
-         "description" : " The Magistral Szmetan-Giardelli was Round Robin held in Buenos Aire 8th to 16th December 2025. Players: Aryan Tari, Ivan Cheparinov, Julio, Granda Zuniga, Alexei Shirov, Diego Flores, Sandro Mareco, Faustino Oro, Ilan Schnaider, Sergio Slipak and Tomas, Darcyl. Aryan Tari took a quick draw in the final round and won on tie-break from Ivan Cheparinov after both scored 6/9, Alexei Shirov was also very much in the running for first place going into the final round but lost to Granda Zuniga in the final round and ended up in third place on tie-break from Faustino Oro on 5.5/9.",
+         "description" : " The Magistral Szmetan-Giardelli was Round Robin held in Buenos Aire 8th to 16th December 2025. Players: Aryan Tari, Ivan Cheparinov, Julio, Granda Zuniga, Alexei Shirov, Diego Flores, Sandro Mareco, Faustino Oro, Ilan Schnaider, Sergio Slipak and Tomas, Darcyl. Aryan Tari took a quick draw in the final round and won on tie-break from Ivan Cheparinov after both scored 6/9, Alexei Shirov was also very much in the running for first place going into the final round but lost to Granda Zuniga in the final round and ended up in third place on tie-break from Faustino Oro on 5.5/9, Oro made his second GM norm.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/magistral-szmetan-giardelli-2025",
@@ -594,14 +626,6 @@ news_feed (
          "title" : "Chess: Magnus Carlsen wins Freestyle Tour title despite defeat in final event"
       },
       {
-         "description" : "Thursday saw 247 blitzers, 42 teams of bughousers, and 130 puzzle solvers enjoy an early start to the weekend's festivities in Spokane, WA. Let's take a look at Thursday's winners before previewing the main event, which begins today at 1:00 p.m. PST (and 1:30 p.m. PST for grades K-1) with coverage from WGM Sabina Foisor on our Twitch channel. Bughouse ChampionshipTeam Texas won the K-12 Bughouse Championship with CM Logan Shafer and FM Vaseegaran Nandhakumar cruising to a perfect 12/12 score. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Scenes from the Bughou",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/hundreds-head-spokane-early-k-12-grade-championships-side-events",
-         "pubDate" : "Fri, 12 Dec 2025 00:00:00",
-         "title" : "Hundreds Head to Spokane Early For K-12 Grade Championships Side Events"
-      },
-      {
          "description" : " The 11th Vugar Gashimov Memorial took place in Stepanakert Tue 9th Dec to Thu 11th Dec 2025. There were two days of rapid and one day of blitz. Players: Nepomniachtchi, Fedoseev, Mamedov, Tabatabaei, Yakubboev and Suleymanli. Ian Nepomniachtchi won the rapid by half a point from Vladimir Fedoseev, the result was reversed for the blitz. The first tie-break was individual results between the players and Nepomniachtchi won one and drew one against Fedoseev in each part so won the tournament.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -744,14 +768,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/mindset-for-game-analysis/",
          "pubDate" : "Sat, 06 Dec 2025 14:00:00",
          "title" : "The Right Mindset For Game Analysis"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125800056.cms\" />Dutch No. 1 Anish Giri described D Gukesh's ability to switch into distinct \"modes\" depending on the situation, calling him a completely different person on and off the board. Gukesh later said on X that this trait is natural. With Giri already qualified for the 2026 Candidates, the two may meet sooner in the upcoming Global Chess League (GCL).",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/it-was-never-through-effort-world-chess-champion-d-gukesh-reacts-to-anish-giris-different-person-remark/articleshow/125800056.cms",
-         "pubDate" : "Sat, 06 Dec 2025 05:08:56",
-         "title" : "'It was never through effort': Gukesh reacts to Anish Giri's 'different person' remark"
       },
       {
          "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
