@@ -18,6 +18,14 @@ news_feed (
          "title" : "My ChessBase 26 Desktop! - Lilit Mkrtchian"
       },
       {
+         "description" : "GM Alireza Firouzja won a dramatic game against GM Viswanathan Anand as the Triveni Continental Kings beat the Ganges Grandmasters 14-5 to cruise into the Tech Mahindra Global Chess League 2025 Final. Who they face will be decided on Monday&#39;s fina...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-8",
+         "pubDate" : "Sun, 21 Dec 2025 12:46:57",
+         "title" : "Firouzja's Triveni Continental Kings Power Into Global Chess League Final"
+      },
+      {
          "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 11.00 CET (5.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -616,14 +624,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/view-2025-freestyle-chess-grand-slam-south-africa-sf",
          "pubDate" : "Wed, 10 Dec 2025 10:26:00",
          "title" : "Carlsen 'Outlasts' Sindarov, Plays Aronian In Final On Thursday"
-      },
-      {
-         "description" : "The International Chess Federation (FIDE) has announced GM Praggnanandhaa Rameshbabu as the winner of the FIDE Circuit 2025, securing him a spot for the 2026 FIDE Candidates Tournament. GM Hikaru Nakamura is also destined to clinch the final ratin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/praggnanandhaa-nakamura-qualifies-for-candidates",
-         "pubDate" : "Wed, 10 Dec 2025 09:36:00",
-         "title" : "Praggnanandhaa Wins FIDE Circuit To Qualify For Candidates, Nakamura Also In"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125883547.cms\" />20-year-old Indian GM R Praggnanandhaa secured his spot in the Candidates 2026, joining his sister R Vaishali. Dutch Grandmaster Anish Giri, however, believes India could have had more representatives than just one. Giri also highlighted the formidable nature of lower-rated players in the line-up like Matthias Bluebaum, predicting a highly competitive tournament.",
