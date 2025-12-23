@@ -26,6 +26,14 @@ news_feed (
          "title" : "GCL 2025: Anish Giri's Pipers to face Continental Kings in final"
       },
       {
+         "description" : "GM Hou Yifan&#39;s 20-move win over GM Kateryna Lagno gave GM Fabiano Caruana&#39;s Alpine SG Pipers a spot in the Final of the Tech Mahindra Global Chess League 2025 despite the team suffering defeat. Their key rivals, GM Maxime Vachier-Lagrave&#39;s upGrad ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-9",
+         "pubDate" : "Mon, 22 Dec 2025 13:06:34",
+         "title" : "Hou Yifan's 4th Win In A Row Gives Alpine SG Pipers Spot In Final"
+      },
+      {
          "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.00 CET (6.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +72,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-hou-yifans-super-sunday-takes-alpine-sg-pipers-to-second-spot/articleshow/126114519.cms",
          "pubDate" : "Mon, 22 Dec 2025 04:46:19",
          "title" : "Global Chess League: Hou Yifan's super Sunday takes Alpine SG Pipers to second spot"
+      },
+      {
+         "description" : "Over 150 educators gather in New York to reimagine how chess develops student thinking and resilienceNEW YORK - The National Scholastic Chess Foundation (NSCF) and Kasparov Chess Foundation (KCF) presented Mindsets: The New York Chess in Education Conference on December 6 at Quorum in Rockefeller Center, bringing together educators, administrators, and researchers from across the United States and as far away as the UK, Latvia, and Sri Lanka.The conference centered on a fundamental question: How can chess be used more intentionally in education to help students develop growth mindsets, embrace productive struggle, and cultivate transferable thinking skills? From Talent to GrowthThe weekend's",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/mindsets-conference-explores-growth-purpose-and-future-chess-education",
+         "pubDate" : "Mon, 22 Dec 2025 00:00:00",
+         "title" : "Mindsets Conference Explores Growth, Purpose, and the Future of Chess Education"
       },
       {
          "description" : "Editor's note: these stories first appeared in the December 2025 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.The December issue of Chess Life magazine was dedicated to the life and games of GM Daniel Naroditsky, who died tragically in October of this year at the age of 29. A former World Junior Champion, beloved educator, prodigious author, and wildly popular streamer and commentator, Naroditsky had a huge impact on the world of chess. <br> <br> <br> <br> <br> <br> <br> <br> <br> <",
@@ -530,14 +546,6 @@ news_feed (
          "title" : "2026 US Chess Federation All-America Chess Team Announced"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> All photos by Hiedi Bulkley.<br> <br> <br> <br> The first two rounds of the 2025 National K-12 Grade Championships are in the books. Over 1,350 players across 13 grade levels competed in Spokane, WA on Friday, and now they're gearing up for the grueling triple-round day beginning at 9 a.m. PST (and 9:30 for grades K-1: see full schedule). Follow the action live on the US Chess Twitch channel with WGM Sabina Foisor (see full streaming schedule). <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/national-k-12-grade-championships-underway-spokane",
-         "pubDate" : "Sat, 13 Dec 2025 00:00:00",
-         "title" : "National K-12 Grade Championships Underway in Spokane"
-      },
-      {
          "description" : "IM Renato Terry won yet another 3 0 Thursday tournament on December 11, his fourth consecutive week winning one of the three tournaments. Terry&#39;s success came in the third event of the day, following victories by GMs Sina Movahed and Jose Martinez...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-november-2025/",
          "pubDate" : "Thu, 11 Dec 2025 09:49:02",
          "title" : "ECU E-Magazine November 2025"
-      },
-      {
-         "description" : "Norway Chess and the International Chess Federation (FIDE) have announced the qualification paths for the 24-player October 2026 pilot event of the Total Chess World Championship Tour. Reigning World Champions Gukesh Dommaraju and Ju Wenjun are th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gukesh-ju-wenjun-24-total-chess-world-championship-tour-qualifiers",
-         "pubDate" : "Thu, 11 Dec 2025 09:06:00",
-         "title" : "Ju Wenjun, Gukesh Among 24 Total Chess World Championship Tour Qualifiers"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125883547.cms\" />20-year-old Indian GM R Praggnanandhaa secured his spot in the Candidates 2026, joining his sister R Vaishali. Dutch Grandmaster Anish Giri, however, believes India could have had more representatives than just one. Giri also highlighted the formidable nature of lower-rated players in the line-up like Matthias Bluebaum, predicting a highly competitive tournament.",
