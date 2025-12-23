@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126145632.cms\" />SG Pipers stunned two-time champions Continental Kings to win the Global Chess League season 3 title. After narrowly reaching the final, the Pipers dominated the decider with strong performances from Anish Giri and Praggnanandhaa. Alaskan Knights finished third, with world champion D Gukesh defeating Viswanathan Anand in a tense playoff.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-r-praggnanandhaas-sg-pipers-beat-two-time-champions-continental-kings-to-clinch-global-chess-league-2025-title/articleshow/126145632.cms",
+         "pubDate" : "Tue, 23 Dec 2025 17:48:02",
+         "title" : "GCL: Pragg's SG Pipers clinch Global Chess League 2025 title"
+      },
+      {
          "description" : "Wilhelm Steinitz, the first World Champion was far ahead of his time. A new ChessBase Master Class explores Wilhelm Steinitz as a theoretician, practitioner, and driving force of ideas - and shows why his concepts continue to resonate today. Harry Schaack, Editor-in-Chief of the German chess magazine \"Karl\", has taken a close look at the course and explains in the current issue why Steinitz still provokes, inspires, and surprises.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-master-class-understanding-wilhelm-steinitz",
          "pubDate" : "Tue, 23 Dec 2025 16:00:00",
          "title" : "ChessBase Master Class: Understanding Wilhelm Steinitz"
+      },
+      {
+         "description" : "GM Fabiano Caruana&#39;s Alpine SG Pipers have won the Tech Mahindra Global Chess League 2025 with a 2-0 sweep in the Final, where GM Anish Giri and Leon Luke Mendonca starred with 2/2. GM Alireza Firouzja at times fought a lone battle as the Triveni ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-10",
+         "pubDate" : "Tue, 23 Dec 2025 12:05:12",
+         "title" : "Caruana's Alpine SG Pipers Win 2025 Global Chess League"
+      },
+      {
+         "description" : "GM Jan-Krzysztof Duda won a dramatic Titled Tuesday on December 23, just barely winning on tiebreaks ahead of GM Maxime Vachier-Lagrave. It was Duda&#39;s first win in the event since February 18, and he got there by defeating GM Magnus Carlsen in the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duda-wins-titled-tuesday-december-23-2025",
+         "pubDate" : "Tue, 23 Dec 2025 11:41:11",
+         "title" : "Duda Wins Nailbiter Over Vachier-Lagrave, Carlsen"
       },
       {
          "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 11.00 CET (5.00 ET, 15.30 IST)",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-chessbase-magazine-45",
          "pubDate" : "Tue, 23 Dec 2025 10:45:00",
          "title" : "New: ChessBase Magazine #229"
+      },
+      {
+         "description" : "GM Jonathan Hawkins, a two-time British Champion, author, and coach, passed away on Monday at the age of 42 after losing the battle with a rare form of cancer. His passing came just a week after GM Daniel Gormally had launched an appeal to help Ha...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jonathan-hawkins-obituary",
+         "pubDate" : "Tue, 23 Dec 2025 10:39:00",
+         "title" : "Jonathan Hawkins (1983-2025)"
       },
       {
          "description" : "The round-robin phase of the Global Chess League concluded with the finalists confirmed after a closely contested final day. Triveni Continental Kings finished well clear at the top, while Alpine SG Pipers claimed the second finals place on tiebreaks despite losing their last match. Narrow margins elsewhere shaped the final standings, with the Ganges Grandmasters and the PBG Alaskan Knights now set to contest the match for third place. | Pictured: Gukesh Dommaraju (Alaskan Knights) facing Fabiano Caruana (SG Pipers). | Photo: Official website",
@@ -514,22 +546,6 @@ news_feed (
          "title" : "Make A Mistake? Do This."
       },
       {
-         "description" : "IM Renato Terry won yet another 3 0 Thursday tournament on December 11, his fourth consecutive week winning one of the three tournaments. Terry&#39;s success came in the third event of the day, following victories by GMs Sina Movahed and Jose Martinez...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/movahed-martinez-terry-3-0-thursday-12-11-2025",
-         "pubDate" : "Fri, 12 Dec 2025 18:43:00",
-         "title" : "Terry Takes 3 0 Thursday For 4th Straight Week; Movahed, Martinez Also Victorious"
-      },
-      {
-         "description" : "FM Tymur Keleberda was crowned the 2025 Chess.com Fog Of War champion after defeating IM Nhat Minh To in a tense Grand Final and subsequent Grand Final in the last event of the Community Championship Series for the year. Keleberda&#39;s event was ne...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fog-of-war-championship-keleberda-wins",
-         "pubDate" : "Fri, 12 Dec 2025 17:59:00",
-         "title" : "Keleberda Wins Fog Of War Championship In Grand Final Reset"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125937054.cms\" />A complaint has been filed with FIDE against Sarwagya Singh Kushwaha, the youngest FIDE-rated chess player. The complaint alleges unfair means were used to secure his rating. His father and coach dismiss the claims as factional politics. Kushwaha secured victories against higher-ranked players in recent tournaments. Concerns are raised about opponents being from the same academy and tournament irregularities.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -568,14 +584,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-on-ioc-and-its-recommendations/",
          "pubDate" : "Fri, 12 Dec 2025 11:01:24",
          "title" : "ECU on IOC and its recommendations"
-      },
-      {
-         "description" : "Freestyle Friday of late has often been dominated by two young players, 19-year-old Indian GM Pranesh M and 15-year-old Iranian GM Sina Movahed, and December 12 was no different. Pranesh won this week&#39;s tournament on 9.5/11, defeating Movahed in a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pranesh-wins-freestyle-friday-december-12-2025",
-         "pubDate" : "Fri, 12 Dec 2025 10:54:11",
-         "title" : "Young Players Keep Crushing Freestyle Friday"
       },
       {
          "description" : "On behalf of All India Chess Federation , All Orissa Chess Association is organizing Senior National Arbiter Seminar &#38; exam at SOA Campus-2, Bhubaneswar,Odisha. Eligibility:Eligibility: Every affiliated",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-its-now-time-to-r-praggnanandhaa-opens-up-after-becoming-first-indian-to-qualify-for-candidates-2026/articleshow/125872931.cms",
          "pubDate" : "Tue, 09 Dec 2025 15:37:38",
          "title" : "'It's now time to ...': Pragg after becoming first Indian to enter Candidates"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125867864.cms\" />Indian Grandmaster Arjun Erigaisi triumphed over Magnus Carlsen in the Freestyle Chess Grand Slam Finals. While Javokhir Sindarov leads the standings, Erigaisi secured third place, earning a knockout stage match against Vincent Keymer. The finals, the fifth event in the year-long tour, will determine the 2025 Freestyle Chess Champion, with Carlsen aiming to clinch the overall tour victory.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-arjun-erigaisi-beats-magnus-carlsen-in-freestyle-chess-grand-slam-finals-set-to-face-vincent-keymer-in-quarterfinals/articleshow/125867864.cms",
-         "pubDate" : "Tue, 09 Dec 2025 10:28:44",
-         "title" : "Erigaisi beats Carlsen in Freestyle GS Finals, set to face Keymer in QFs"
       },
       {
          "description" : "On behalf of All India Chess Federation , Gujarat State Chess Association is organizing Senior National Arbiter Seminar &#38; exam in The Gujarat State Co-operative Bank (GSC).Sardar Vallabhbhai",
