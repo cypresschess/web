@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wilhelm Steinitz, the first World Champion was far ahead of his time. A new ChessBase Master Class explores Wilhelm Steinitz as a theoretician, practitioner, and driving force of ideas - and shows why his concepts continue to resonate today. Harry Schaack, Editor-in-Chief of the German chess magazine \"Karl\", has taken a close look at the course and explains in the current issue why Steinitz still provokes, inspires, and surprises.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-master-class-understanding-wilhelm-steinitz",
+         "pubDate" : "Tue, 23 Dec 2025 16:00:00",
+         "title" : "ChessBase Master Class: Understanding Wilhelm Steinitz"
+      },
+      {
          "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 11.00 CET (5.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-alpine-sg-pipers-meet-triveni-continental-kings-in-final/articleshow/126133275.cms",
          "pubDate" : "Tue, 23 Dec 2025 04:21:34",
          "title" : "Global Chess League: Alpine SG Pipers meet Triveni Continental Kings in final"
+      },
+      {
+         "description" : "This week's puzzles once again come from the 2025 North American Junior Championships, where FM Julian Colville earned a GM norm and the IM title and WFM Laurie Qiu earned a WGM norm for their gold medals. Read more about this event here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-north-american-junior-championships-pt-2",
+         "pubDate" : "Tue, 23 Dec 2025 00:00:00",
+         "title" : "Tactics Tuesday: North American Junior Championships, Pt. 2"
       },
       {
          "description" : "As the World Rapid and Blitz Championships approach, Doha will host the leading figures of women's chess alongside the wider elite. From established world champions to Grand Prix winners and fast-time-control specialists, the women's field reflects both depth and continuity at the top of the game. This article outlines the key contenders arriving in Qatar, tracing recent results, rivalries and form, and setting the context for how women's chess has developed ahead of one of the season's flagship events. | All photos: FIDE",
@@ -250,12 +266,12 @@ news_feed (
          "title" : "Magistral Szmetan-Giardelli 2025 - Games and Results"
       },
       {
-         "description" : "Hi, my name is GM Danny Gormally and I am a friend of Jonathan Hawkins, who is a former British chess champion and chess grandmaster. Unfortunately Jonathan is currently facing...",
+         "description" : "The desperately sad news has just been announced that GM Jonathan Hawkins has died at the tragically early age of 42. Our deepest condolences go to Jonathan's family. Many of...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-chess-champion-jonathan-hawkins-cancer-appeal/",
+         "link" : "https://www.englishchess.org.uk/british-chess-champion-jonathan-hawkins-rip/",
          "pubDate" : "Wed, 17 Dec 2025 13:38:50",
-         "title" : "British Chess Champion Jonathan Hawkins Cancer Appeal"
+         "title" : "British Chess Champion Jonathan Hawkins RIP"
       },
       {
          "description" : "Saturday 14th and Sunday 15th March at the&#160;Holiday Inn Peterborough - West,&#160;Thorpe Wood, Peterborough, PE3 6SG. One FIDE rated OPEN section, with a prize fund of at least &pound;6,500.&#160;GMs/WGMs and...",
@@ -498,14 +514,6 @@ news_feed (
          "title" : "Make A Mistake? Do This."
       },
       {
-         "description" : "The United States Chess Federation is pleased to announce the 2026 All-America Chess Team. Team members will receive team jackets and plaques by mail.The All-America Chess Team was created in 1987 to honor the very best players ages 18 and under. The team, one of the highest national honors attainable by a young chess player, is selected on the basis of age, rating, and chess activity during that year, similar to the selection process of \"all conference\" sports teams. This year's candidates were selected based on their age as of January 1, 2025, and their peak post-tournament rating from July 1, 2024 through June 30, 2025. Since this award is a \"post-season\" selection, the minimum rating lim",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-us-chess-federation-all-america-chess-team-announced",
-         "pubDate" : "Sat, 13 Dec 2025 00:00:00",
-         "title" : "2026 US Chess Federation All-America Chess Team Announced"
-      },
-      {
          "description" : "IM Renato Terry won yet another 3 0 Thursday tournament on December 11, his fourth consecutive week winning one of the three tournaments. Terry&#39;s success came in the third event of the day, following victories by GMs Sina Movahed and Jose Martinez...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -690,14 +698,6 @@ news_feed (
          "title" : "SNA seminar and Exam in Madurai ,Tamil Nadu on 27 & 28 December 2025"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125833315.cms\" />Russian Grandmaster Volodar Murzin, the 2024 FIDE Rapid champion, is set to compete for American Gambits in the Global Chess League in Mumbai. He expressed his fondness for Indian cuisine, particularly mangoes, paneer, and sugarcane juice. Murzin also shared his confidence boost after winning the World Rapid title and his ambition to improve his classical chess game.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/mango-paneer-and-not-just-chess-on-russian-gm-volodar-murzins-mind-as-india-hosts-gcl-for-first-time-exclusive/articleshow/125833315.cms",
-         "pubDate" : "Mon, 08 Dec 2025 11:42:11",
-         "title" : "Exclusive | 'Mango, Paneer, &amp; ...': Not just chess on Russian GM's mind as GCL makes India debut"
-      },
-      {
          "description" : "The great world chess champion Emanuel Lasker famously pronounced that hypocrisy and lies do not last long on the chessboard. Sadly, they seem to be flourishing in other walks of life. Rachel Millward, deputy leader of the Green Party, has been widely criticised for opposing a new asylum shelter in Crowborough, East Sussex, near her []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -776,14 +776,6 @@ news_feed (
          "link" : "https://aicf.in/live-dgt-board-link-for-national-women-2025-held-at-durgapur/",
          "pubDate" : "Wed, 03 Dec 2025 07:05:00",
          "title" : "Live DGT Board Link for National Women 2025 held at Durgapur"
-      },
-      {
-         "description" : " Nodirbek Abdusattorov leads the London Chess Classic with 5.5/6 one and a half points clear of Alireza Firouzja. After a first round draw Abdusattorov has now won five games in a row. In round five he defeated Nikolas Theodorou in a battling game. Abdusattorov chose the English after recently favouring 1.e4 and this seemed to sidestep all of his opponent's preparation and produce a nice advantage. Theodorou fought back and after 20 moves was equal again, then on move 26 he decided to give up his Queen for Rook and Knight, this wasn't losing but it made him a bit worse, then the game became very wild with black being objectively lost but finding tricky ideas. After 38.Qe3 the game was equal ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-extends-his-winning-streak-to-5-games-in-london",
-         "pubDate" : "Tue, 2 Dec 2025 13:20:00",
-         "title" : "Abdusattorov extends his winning streak to 5 games in London - 5-6"
       }
    ]
 }
