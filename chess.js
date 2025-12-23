@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126133275.cms\" />Raunak Sadhwani's birthday win over Volodar Murzin brought Vishy Anand's Ganges Grandmasters close to the Global Chess League final. However, Hou Yifan's victory secured Alpine SG Pipers a spot in the finals, though they lost their last match. The Pipers will face Triveni Continental Kings in the title clash.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-alpine-sg-pipers-meet-triveni-continental-kings-in-final/articleshow/126133275.cms",
+         "pubDate" : "Tue, 23 Dec 2025 04:21:34",
+         "title" : "Global Chess League: Alpine SG Pipers meet Triveni Continental Kings in final"
+      },
+      {
          "description" : "Fellow students, whether composers or solvers, have appreciated it for years, but it is far less known to the wider chess community: since 1991, there has been a giant database of chess. It is the result of the tireless work of Harold van der Heijden, a Dutch collector of endgames and studies, editor, chess organizer, and chess composer. Harold has just turned 65, and the well-known chess study composer has written an article celebrating the launch of the latest 100,000 game edition of the database.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/nikolas-theodorou-wins-the-london-super-rapid",
          "pubDate" : "Mon, 8 Dec 2025 14:28:00",
          "title" : "Nikolas Theodorou wins the London Super Rapid - Rapid"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125835024.cms\" />Indian chess prodigy R Praggnanandhaa has earned a coveted spot in the Candidates 2026 tournament by triumphing in the FIDE Circuit 2025. His stellar year, marked by victories in major events, secures his sole male representation for India. Seven participants are confirmed, with one remaining spot to be decided by rating.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-r-praggnanandhaa-creates-history-becomes-first-indian-to-qualify-for-candidates-2026/articleshow/125835024.cms",
-         "pubDate" : "Mon, 08 Dec 2025 13:07:57",
-         "title" : "Praggnanandhaa becomes first Indian to qualify for Candidates 2026"
       },
       {
          "description" : "On behalf of All India Chess Federation , Tamil Nadu State Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Venue: Vallaba Vidyalaya CBSE School, Alagar",
