@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The round-robin phase of the Global Chess League concluded with the finalists confirmed after a closely contested final day. Triveni Continental Kings finished well clear at the top, while Alpine SG Pipers claimed the second finals place on tiebreaks despite losing their last match. Narrow margins elsewhere shaped the final standings, with the Ganges Grandmasters and the PBG Alaskan Knights now set to contest the match for third place. | Pictured: Gukesh Dommaraju (Alaskan Knights) facing Fabiano Caruana (SG Pipers). | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-9",
+         "pubDate" : "Tue, 23 Dec 2025 06:50:00",
+         "title" : "GCL: SG Pipers to face Continental Kings in league's final"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126133275.cms\" />Raunak Sadhwani's birthday win over Volodar Murzin brought Vishy Anand's Ganges Grandmasters close to the Global Chess League final. However, Hou Yifan's victory secured Alpine SG Pipers a spot in the finals, though they lost their last match. The Pipers will face Triveni Continental Kings in the title clash.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-alpine-sg-pipers-meet-triveni-continental-kings-in-final/articleshow/126133275.cms",
          "pubDate" : "Tue, 23 Dec 2025 04:21:34",
          "title" : "Global Chess League: Alpine SG Pipers meet Triveni Continental Kings in final"
-      },
-      {
-         "description" : "Fellow students, whether composers or solvers, have appreciated it for years, but it is far less known to the wider chess community: since 1991, there has been a giant database of chess. It is the result of the tireless work of Harold van der Heijden, a Dutch collector of endgames and studies, editor, chess organizer, and chess composer. Harold has just turned 65, and the well-known chess study composer has written an article celebrating the launch of the latest 100,000 game edition of the database.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/harold-van-der-heijden",
-         "pubDate" : "Mon, 22 Dec 2025 20:00:00",
-         "title" : "Harold van der Heijden"
       },
       {
          "description" : "As the World Rapid and Blitz Championships approach, Doha will host the leading figures of women's chess alongside the wider elite. From established world champions to Grand Prix winners and fast-time-control specialists, the women's field reflects both depth and continuity at the top of the game. This article outlines the key contenders arriving in Qatar, tracing recent results, rivalries and form, and setting the context for how women's chess has developed ahead of one of the season's flagship events. | All photos: FIDE",
@@ -42,14 +42,6 @@ news_feed (
          "title" : "Hou Yifan's 4th Win In A Row Gives Alpine SG Pipers Spot In Final"
       },
       {
-         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.00 CET (6.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
-         "pubDate" : "Mon, 22 Dec 2025 11:50:00",
-         "title" : "Global Chess League - Live!"
-      },
-      {
          "description" : "The Collegiate Chess League (CCL) is back for another thrilling season, and registrations for Spring 2026 are officially open! Once again, the CCL will boast a $25,000 prize fund and the exciting four vs. four team format that fans and players lov...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -64,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/danny-rensch-dark-squares-arena-stream",
          "pubDate" : "Mon, 22 Dec 2025 07:00:00",
          "title" : "Play Danny's Christmas Bullet Bash For A Chance To Win Signed Chessboard, SCC Tickets"
-      },
-      {
-         "description" : "The round-robin phase of the Global Chess League has been decided at the top, with Triveni Continental Kings finishing first and securing a place in the Final with one round to go. The remaining berth in the final match will be determined on Monday, with the Alpine SG Pipers now the frontrunners in this battle - two wins by women's world number one Hou Yifan helped them climb to second place in the standings. | Photo: ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-8",
-         "pubDate" : "Mon, 22 Dec 2025 06:50:00",
-         "title" : "GCL: Alpine SG Pipers climb to sole second place, as Hou Yifan scores 2/2"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126114519.cms\" />World No.1 Hou Yifan's stellar performance propelled Alpine SG Pipers to second place in the Global Chess League. She secured two crucial victories, leading her team to identical 8-7 wins against Mumba Masters and American Gambits. This surge positions the Pipers strongly for a finals spot, needing just one win in their upcoming match.",
@@ -106,36 +90,12 @@ news_feed (
          "title" : "GCL: Gukesh loses to MVL, but his team wins; Continental Kings enter final"
       },
       {
-         "description" : "We take a unique behind-the-scenes look at how top chess masters organize their digital workspace. Grandmasters and trainers reveal their personal ChessBase 26 setups - from meticulously clean desktops to chaotic databases full of ideas. They show us their board designs, current projects, and discuss their favourite or most-used ChessBase functions, offering fascinating insights into how great minds prepare, study, and work with chess every day.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/my-chessbase-26-desktop-lilit-mkrtchian",
-         "pubDate" : "Sun, 21 Dec 2025 14:00:00",
-         "title" : "My ChessBase 26 Desktop! - Lilit Mkrtchian"
-      },
-      {
          "description" : "GM Alireza Firouzja won a dramatic game against GM Viswanathan Anand as the Triveni Continental Kings beat the Ganges Grandmasters 14-5 to cruise into the Tech Mahindra Global Chess League 2025 Final. Who they face will be decided on Monday&#39;s fina...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-8",
          "pubDate" : "Sun, 21 Dec 2025 12:46:00",
          "title" : "Firouzja's Triveni Continental Kings Power Into Global Chess League Final"
-      },
-      {
-         "description" : "Day seven of the Global Chess League produced a clearer picture at the top of the table, with the leaders, Triveni Continental Kings, opening a commanding gap over the rest of the field. A heavy defeat for one of the main challengers, upGrad Mumba Masters, reshaped the standings, while several tightly contested matches kept the battle for second place wide open. | Pictured: Continental Kings' Marc'Andria Maurizzi | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-7",
-         "pubDate" : "Sun, 21 Dec 2025 10:30:00",
-         "title" : "GCL: Continental Kings widen the gap, get six-point lead"
-      },
-      {
-         "description" : "Vladimir Fedoseev was one of the first Russian chess players to speak out critically against Russia's invasion of Ukraine. He switched to the Slovenian association and never wants to represent Russia again. The Russian Minister of Sport has now stripped him of his Russian honorary titles. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russia-revokes-fedoseev-titles",
-         "pubDate" : "Sat, 20 Dec 2025 19:40:00",
-         "title" : "Russia revokes Vladimir Fedoseev's honorary titles"
       },
       {
          "description" : "GM Jeffery Xiong joined Bullet Brawl&#39;s illustrious two-time winners&#39; club after outlasting GM Oleksandr Bortnyk and finishing atop Saturday&#39;s event. The 25-year-old American flirted with danger during the two-hour arena and defeated no fewer than ...",
@@ -168,22 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-7",
          "pubDate" : "Sat, 20 Dec 2025 13:42:00",
          "title" : "Nakamura's American Gambits Crush MVL's Mumba Masters 16-1"
-      },
-      {
-         "description" : "In Part Two of his review of the Opening Encyclopaedia 2025, Nagesh Havanur explores the nuanced world of Semi-Open Games. From the dynamic Sicilian Defence to the \"quiet\" Caro-Kann, each defence offers distinct challenges and strategies. As our author transitions to Closed Games in his next instalment, he offers much practical advice for the aspiring tournament player.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/opening-encyclopaedia-review-nagesh-havanur-p2",
-         "pubDate" : "Sat, 20 Dec 2025 09:00:00",
-         "title" : "Opening Encyclopaedia: Semi-Open Games"
-      },
-      {
-         "description" : "The Global Chess League moved into the second half of its round-robin phase with a heavier daily schedule and immediate consequences in the standings. Teams began playing twice per day, producing mixed results for those facing the added workload. While Triveni Continental Kings remain in front, Alireza Firouzja's streak came to an end. With three days to go in the initial phase, the contest for the second spot in the final gained increased importance. | Pictured: Continental Kings' Vidit Gujrathi | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-6",
-         "pubDate" : "Sat, 20 Dec 2025 02:55:00",
-         "title" : "GCL: Continental Kings lead, Mumba Masters keep up the pace"
       },
       {
          "description" : " The Tech Mahindra Global Chess League takes place Sat 13th Dec to Wed 24th Dec 2025 in Mumbai. This is a very strong rapid team event and is on its third edition with previous events in Dubai and London. There are two stages, a round robin taking place until the 22nd of December followed by a two day KO to decide the final placings. Teams: Triveni Continental Kings: Firouzja, Wei, Vidit, Zhu, Kosteniuk, Maurizzi. Upgrad Mumba Masters: Vachier-Lagrave, So, Mamedyarov, Koneru, Dronavalli, Daneshvar. Alpine SG Pipers: Caruana, Giri, Praggnanandhaa, Hou, Batsiashvili, Mendonca. Ganges Grandmasters: Anand, Keymer, Sindarov, Shuvalova, Tsolakidou, Sadhwani. PBG Alaskan Knights: Gukesh, Erigaisi, ",
@@ -248,14 +192,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-chess-offices-2025-26-holiday-closure-dates",
          "pubDate" : "Fri, 19 Dec 2025 00:00:00",
          "title" : "US Chess Offices 2025-26 Holiday Closure Dates"
-      },
-      {
-         "description" : "In his article IM Zoran Petronijevi&#263 raises some fundamental questions: How relevant is Steinitz's legacy today, does it still speak to modern chess, or does it belong to a bygone, almost \"dinosaur\" era? Does the analysis of his creative work possess genuine practical value, or do we study it merely for its historical significance? Equally important is the question: What, in concrete terms, did Steinitz contribute to chess?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/father-of-the-modern-school",
-         "pubDate" : "Thu, 18 Dec 2025 18:00:00",
-         "title" : "Father of the Modern School"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126062710.cms\" />World Chess Champion Dommaraju Gukesh and Arjun Erigaisi secured Alaskan Knights' first victory, while Alireza Firouzja's flawless run propelled Continental Kings to the top of the Global Chess League standings at the halfway mark. The Continental Kings edged past Mumba Masters, and Alaskan Knights defeated SG Pipers in decisive matches.",
