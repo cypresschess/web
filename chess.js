@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 11.00 CET (5.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
+         "pubDate" : "Tue, 23 Dec 2025 10:50:00",
+         "title" : "Global Chess League Finals - Live!"
+      },
+      {
+         "description" : "FIDE World Cup 2025: Analyses by Adams, Bluebaum, Donchenko, Grandelius, Shankland, Wei Yi, Wojtaszek and many more - Marshal Attack: just develop: Robert Ris praises the modern 11&hellip;Bb7!? - \"Giri's Gems\": The world-class player looks back at eight games from top tournaments of 2025 - \"Hello e-file!\": Oliver Reeh poses numerous training questions on 33 games and presents four interactive videos in his tactics column - Topalov-Anand 2005: Dorian Rogozenco looks back at a theoretically important, highly tactical Queen's Indian with the spectacular 14.Nxf7!! - a \"Modern Classic\" and much more!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-45",
+         "pubDate" : "Tue, 23 Dec 2025 10:45:00",
+         "title" : "New: ChessBase Magazine #229"
+      },
+      {
          "description" : "The round-robin phase of the Global Chess League concluded with the finalists confirmed after a closely contested final day. Triveni Continental Kings finished well clear at the top, while Alpine SG Pipers claimed the second finals place on tiebreaks despite losing their last match. Narrow margins elsewhere shaped the final standings, with the Ganges Grandmasters and the PBG Alaskan Knights now set to contest the match for third place. | Pictured: Gukesh Dommaraju (Alaskan Knights) facing Fabiano Caruana (SG Pipers). | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -130,7 +146,7 @@ news_feed (
          "title" : "Nakamura's American Gambits Crush MVL's Mumba Masters 16-1"
       },
       {
-         "description" : " The Tech Mahindra Global Chess League takes place Sat 13th Dec to Wed 24th Dec 2025 in Mumbai. This is a very strong rapid team event and is on its third edition with previous events in Dubai and London. There are two stages, a round robin taking place until the 22nd of December followed by a two day KO to decide the final placings. Teams: Triveni Continental Kings: Firouzja, Wei, Vidit, Zhu, Kosteniuk, Maurizzi. Upgrad Mumba Masters: Vachier-Lagrave, So, Mamedyarov, Koneru, Dronavalli, Daneshvar. Alpine SG Pipers: Caruana, Giri, Praggnanandhaa, Hou, Batsiashvili, Mendonca. Ganges Grandmasters: Anand, Keymer, Sindarov, Shuvalova, Tsolakidou, Sadhwani. PBG Alaskan Knights: Gukesh, Erigaisi, ",
+         "description" : " The Tech Mahindra Global Chess League takes place Sat 13th Dec to Tuesday 23rd Dec 2025 in Mumbai. This is a very strong rapid team event and is on its third edition with previous events in Dubai and London. There are two stages, a round robin taking place until the 22nd of December followed by a final day where the top two teams playoff for the title and there is also a 3rd-4th place match. Teams: Triveni Continental Kings: Firouzja, Wei, Vidit, Zhu, Kosteniuk, Maurizzi. Upgrad Mumba Masters: Vachier-Lagrave, So, Mamedyarov, Koneru, Dronavalli, Daneshvar. Alpine SG Pipers: Caruana, Giri, Praggnanandhaa, Hou, Batsiashvili, Mendonca. Ganges Grandmasters: Anand, Keymer, Sindarov, Shuvalova, T",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/tech-mahindra-global-chess-league-2025",
@@ -768,22 +784,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-extends-his-winning-streak-to-5-games-in-london",
          "pubDate" : "Tue, 2 Dec 2025 13:20:00",
          "title" : "Abdusattorov extends his winning streak to 5 games in London - 5-6"
-      },
-      {
-         "description" : "Ed Schr&ouml;der is a pioneer in chess programming. In the 1990s his program Rebel won a number of World Championships in computer chess, and always had a special place in the community, due to its playing style. In 2003 he retired from competitive computer chess, only releasing freeware versions of Rebel. Now Ed has come out of retirement and is undertaking some interesting new projects - like extracting the most interesting games from historical databases. And he is sharing them with us.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rebel-and-playing-style-in-chess",
-         "pubDate" : "Tue, 02 Dec 2025 12:00:00",
-         "title" : "Rebel and playing style in chess"
-      },
-      {
-         "description" : "Please find the certificates here Rank Name Rank Name 1 Goutham Krishna H 1 Arshiya Das 2 Rosh Jain 2 Pratitee Bordoloi 3 Sherla Prathamesh",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-national-under-15-chess-championship-2025-held-in-ghaziabad-from-02-10-nov-2025/",
-         "pubDate" : "Tue, 02 Dec 2025 10:25:59",
-         "title" : "Certificate of National Under 15 Chess Championship 2025 held in Ghaziabad from 02-10 Nov 2025"
       }
    ]
 }
