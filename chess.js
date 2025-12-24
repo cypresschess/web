@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This video is a valuable chess lesson by IM Mkrtchian. Watch Lilit walk through a full \"real tournament\" prep routine in ChessBase 26. Find out how she scouts an opponent in the Mega Database, predict their openings, and steer the game into a line she specifically prepared. The payoff: a sharp Rossolimo move-order trap explained in a super teachable way, plus how she converts the advantage into a clean endgame win.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lilit-mkrtchian-s-best-games-of-2025-opening-preparation-that-actually-works",
+         "pubDate" : "Wed, 24 Dec 2025 11:00:00",
+         "title" : "Lilit Mkrtchian's Best Games of 2025 - Opening preparation that actually works"
+      },
+      {
+         "description" : "The ECF Office will close at 4.30pm on Christmas Eve (24/12/25) and re-open at 9.30am on Monday 29/12/25. Very best wishes from Debra, Melinda, Andrew and Christine! &#160;",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-office-hours-over-christmas/",
+         "pubDate" : "Wed, 24 Dec 2025 09:35:56",
+         "title" : "ECF Office hours over Christmas"
+      },
+      {
          "description" : "The Global Chess League came to an end in Mumbai with Alpine SG Pipers, led by Fabiano Caruana, claiming overall victory after beating the two-time champions Triveni Continental Kings, captained by Alireza Firouzja. The Continental Kings failed to win the final after a dominant round-robin showing. Third place was claimed by PBG Alaskan Knights, under the leadership of Gukesh Dommaraju, after winning a blitz playoff against Vishy Anand's Ganges Grandmasters. | Photo: Vivek Sohani",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -760,14 +776,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/dec/05/three-year-old-chess-prodigy-youngest-official-rating-sarwagya-singh-kushwaha",
          "pubDate" : "Fri, 05 Dec 2025 01:26:21",
          "title" : "Three-year-old chess prodigy becomes youngest player to earn official rating"
-      },
-      {
-         "description" : "Ed Schr&ouml;der, pioneer of chess engine programming, has in his retirement turned his attention to a new and very exciting project: to extract games from a database collection that are especially aggressive - that are short and have daring sacrifices and king attacks. He shows us the kinds of result you can get. Best of all: you can download the utility and use it on your databases.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rebel-3",
-         "pubDate" : "Wed, 03 Dec 2025 12:00:00",
-         "title" : "Attacking and sacrifice games"
       }
    ]
 }
