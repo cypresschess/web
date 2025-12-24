@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "David Ant&oacute;n Guijarro and Marta Garc&iacute;a Mart&iacute;n claimed the Absolute and Women's titles at the Spanish Chess Championship 2025 in Marbella. Played as a nine-round Swiss with a 100-player field, the event saw Ant&oacute;n decide the open standings early with a strong start, while the women's title went down to the final round and was settled on tiebreaks after a late swing in fortunes.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/spanish-championship-2025-final-report",
+         "pubDate" : "Tue, 23 Dec 2025 23:55:00",
+         "title" : "Spanish Championship: David Ant&oacute;n and Marta Garc&iacute;a claim national titles in Marbella"
+      },
+      {
          "description" : " The Tech Mahindra Global Chess League took place Sat 13th Dec to Tuesday 23rd Dec 2025 in Mumbai. This was a very strong rapid team event and is on its third edition with previous events in Dubai and London. There were two stages, a round robin took place until the 22nd of December followed by a final day where the top two teams played off for the title and there wasalso a 3rd-4th place match. Teams: Triveni Continental Kings: Firouzja, Wei, Vidit, Zhu, Kosteniuk, Maurizzi. Upgrad Mumba Masters: Vachier-Lagrave, So, Mamedyarov, Koneru, Dronavalli, Daneshvar. Alpine SG Pipers: Caruana, Giri, Praggnanandhaa, Hou, Batsiashvili, Mendonca. Ganges Grandmasters: Anand, Keymer, Sindarov, Shuvalova,",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -66,14 +74,6 @@ news_feed (
          "title" : "Jonathan Hawkins (1983-2025)"
       },
       {
-         "description" : "The round-robin phase of the Global Chess League concluded with the finalists confirmed after a closely contested final day. Triveni Continental Kings finished well clear at the top, while Alpine SG Pipers claimed the second finals place on tiebreaks despite losing their last match. Narrow margins elsewhere shaped the final standings, with the Ganges Grandmasters and the PBG Alaskan Knights now set to contest the match for third place. | Pictured: Gukesh Dommaraju (Alaskan Knights) facing Fabiano Caruana (SG Pipers). | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-9",
-         "pubDate" : "Tue, 23 Dec 2025 06:50:00",
-         "title" : "GCL: SG Pipers to face Continental Kings in league's final"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126133275.cms\" />Raunak Sadhwani's birthday win over Volodar Murzin brought Vishy Anand's Ganges Grandmasters close to the Global Chess League final. However, Hou Yifan's victory secured Alpine SG Pipers a spot in the finals, though they lost their last match. The Pipers will face Triveni Continental Kings in the title clash.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -88,14 +88,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-north-american-junior-championships-pt-2",
          "pubDate" : "Tue, 23 Dec 2025 00:00:00",
          "title" : "Tactics Tuesday: North American Junior Championships, Pt. 2"
-      },
-      {
-         "description" : "As the World Rapid and Blitz Championships approach, Doha will host the leading figures of women's chess alongside the wider elite. From established world champions to Grand Prix winners and fast-time-control specialists, the women's field reflects both depth and continuity at the top of the game. This article outlines the key contenders arriving in Qatar, tracing recent results, rivalries and form, and setting the context for how women's chess has developed ahead of one of the season's flagship events. | All photos: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-top-women",
-         "pubDate" : "Mon, 22 Dec 2025 19:00:00",
-         "title" : "Top ten women players fighting for the crown in Doha"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126124903.cms\" />SG Pipers reached the Global Chess League final despite losing 6-11 to Alaskan Knights, finishing level on 15 points but ahead of Ganges Grandmasters on game points. Hou Yifan's win and Leon Luke Mendonca's crucial draw sealed qualification. Pipers will face Continental Kings, while Grandmasters meet Alaskan Knights for third place.",
