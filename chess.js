@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 12th Sunway Sitges Chess Festival concluded with a closely contested open tournament in the Catalonian seaside town. After ten rounds, first place was shared before a blitz play-off decided the title, while an additional knockout determined third place. Iranian GM Mahdi Gholami Orimi emerged as overall winner, ahead of Spanish GM Josep Manuel L&oacute;pez, with French GM Jules Moussard completing the podium. | Photo: David Llada / Sunway Sitges Chess Festival (2024)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2025-final",
+         "pubDate" : "Wed, 24 Dec 2025 18:40:00",
+         "title" : "Mahdi Gholami wins Sunway Sitges Open"
+      },
+      {
          "description" : " British Chess Grandmaster Jonathan Hawkins has passed away at the far too young age of 42. Hawkins only developed into a strong player after leaving school and was self-taught. Hawkins earned the FM title in 2008, IM in 2010 and GM in 2014. He was British Champion in 2014 shared with David Howell and 2015 where he was the sole winner. In recent years Hawkins was a successful chess coach. His 2012 book \"Amateur to IM\" is rightly highly regarded.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/alpine-sg-pipers-deny-triveni-continental-kings-hat-trick-take-gcl-title/articleshow/126154309.cms",
          "pubDate" : "Wed, 24 Dec 2025 06:14:06",
          "title" : "Alpine SG Pipers deny Triveni Continental Kings' hat-trick, take GCL title"
+      },
+      {
+         "description" : "This week's puzzles once again come from the 2025 North American Junior Championships, where FM Julian Colville earned a GM norm and the IM title and WFM Laurie Qiu earned a WGM norm for their gold medals. Read more about this event here, and check out even more puzzles from this event in the Tactics Tuesday archives. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-north-american-junior-championships-pt-2",
+         "pubDate" : "Wed, 24 Dec 2025 00:00:00",
+         "title" : "Wednesday Workout: North American Junior Championships, Pt. 2"
       },
       {
          "description" : "David Ant&oacute;n Guijarro and Marta Garc&iacute;a Mart&iacute;n claimed the Absolute and Women's titles at the Spanish Chess Championship 2025 in Marbella. Played as a nine-round Swiss with a 100-player field, the event saw Ant&oacute;n decide the open standings early with a strong start, while the women's title went down to the final round and was settled on tiebreaks after a late swing in fortunes.",
@@ -544,14 +560,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/flash-report-winners-crowned-national-k-12-grade-championships-spokane",
          "pubDate" : "Sun, 14 Dec 2025 00:00:00",
          "title" : "Flash Report: Winners Crowned at National K-12 Grade Championships in Spokane"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> All photos by Hiedi Bulkley.<br> <br> <br> <br> It all comes down to Sunday. After three grueling rounds on Saturday, the stakes are high for the final two rounds of the 2025 National K-12 Grade Championships in Spokane, WA.After a number of upsets on Saturday, most sections have only one or two players at the top of the standings with large groups of players in the chasing pack, so anything can happen. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/triple-round-day-books-national-k-12-grade-championships",
-         "pubDate" : "Sun, 14 Dec 2025 00:00:00",
-         "title" : "Triple Round Day in the Books at National K-12 Grade Championships"
       },
       {
          "description" : "GM Ediz Gurel added an eighth Bullet Brawl title to his ever-growing trophy cabinet on Saturday after piecing together a performance that saw him take the two-hour titled arena by a margin of 12 points. The Turkish phenom suffered only minor hiccu...",
