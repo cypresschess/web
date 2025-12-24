@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Tech Mahindra Global Chess League took place Sat 13th Dec to Tuesday 23rd Dec 2025 in Mumbai. This was a very strong rapid team event and is on its third edition with previous events in Dubai and London. There were two stages, a round robin took place until the 22nd of December followed by a final day where the top two teams played off for the title and there wasalso a 3rd-4th place match. Teams: Triveni Continental Kings: Firouzja, Wei, Vidit, Zhu, Kosteniuk, Maurizzi. Upgrad Mumba Masters: Vachier-Lagrave, So, Mamedyarov, Koneru, Dronavalli, Daneshvar. Alpine SG Pipers: Caruana, Giri, Praggnanandhaa, Hou, Batsiashvili, Mendonca. Ganges Grandmasters: Anand, Keymer, Sindarov, Shuvalova,",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tech-mahindra-global-chess-league-2025",
+         "pubDate" : "Tue, 23 Dec 2025 21:37:00",
+         "title" : "Tech Mahindra Global Chess League 2025 - Games and Results"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126145632.cms\" />SG Pipers stunned two-time champions Continental Kings to win the Global Chess League season 3 title. After narrowly reaching the final, the Pipers dominated the decider with strong performances from Anish Giri and Praggnanandhaa. Alaskan Knights finished third, with world champion D Gukesh defeating Viswanathan Anand in a tense playoff.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -22,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-10",
-         "pubDate" : "Tue, 23 Dec 2025 12:05:12",
+         "pubDate" : "Tue, 23 Dec 2025 12:05:00",
          "title" : "Caruana's Alpine SG Pipers Win 2025 Global Chess League"
       },
       {
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/duda-wins-titled-tuesday-december-23-2025",
-         "pubDate" : "Tue, 23 Dec 2025 11:41:11",
+         "pubDate" : "Tue, 23 Dec 2025 11:41:00",
          "title" : "Duda Wins Nailbiter Over Vachier-Lagrave, Carlsen"
       },
       {
@@ -192,14 +200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-7",
          "pubDate" : "Sat, 20 Dec 2025 13:42:00",
          "title" : "Nakamura's American Gambits Crush MVL's Mumba Masters 16-1"
-      },
-      {
-         "description" : " The Tech Mahindra Global Chess League takes place Sat 13th Dec to Tuesday 23rd Dec 2025 in Mumbai. This is a very strong rapid team event and is on its third edition with previous events in Dubai and London. There are two stages, a round robin taking place until the 22nd of December followed by a final day where the top two teams playoff for the title and there is also a 3rd-4th place match. Teams: Triveni Continental Kings: Firouzja, Wei, Vidit, Zhu, Kosteniuk, Maurizzi. Upgrad Mumba Masters: Vachier-Lagrave, So, Mamedyarov, Koneru, Dronavalli, Daneshvar. Alpine SG Pipers: Caruana, Giri, Praggnanandhaa, Hou, Batsiashvili, Mendonca. Ganges Grandmasters: Anand, Keymer, Sindarov, Shuvalova, T",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tech-mahindra-global-chess-league-2025",
-         "pubDate" : "Fri, 19 Dec 2025 19:35:00",
-         "title" : "Tech Mahindra Global Chess League 2025 - Games and Results"
       },
       {
          "description" : "The rivals of GM Alireza Firouzja finally struck back on day six, with GM Fabiano Caruana ending a five-game winning streak before Firouzja also lost to World Champion Gukesh Dommaraju. Triveni Continental Kings still won that second match to lead...",
