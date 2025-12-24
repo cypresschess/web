@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Global Chess League came to an end in Mumbai with Alpine SG Pipers, led by Fabiano Caruana, claiming overall victory after beating the two-time champions Triveni Continental Kings, captained by Alireza Firouzja. The Continental Kings failed to win the final after a dominant round-robin showing. Third place was claimed by PBG Alaskan Knights, under the leadership of Gukesh Dommaraju, after winning a blitz playoff against Vishy Anand's Ganges Grandmasters. | Photo: Vivek Sohani",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2025-10",
+         "pubDate" : "Wed, 24 Dec 2025 07:30:00",
+         "title" : "Alpine SG Pipers beat Triveni Continental Kings to win third edition of Global Chess League"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126154309.cms\" />Alpine SG Pipers clinched the Global Chess League title in Mumbai, defeating Triveni Continental Kings 4-0 in a decisive final. Key wins from Anish Giri, Rameshbabu Praggnanandhaa, and Leon Luke Mendonca secured the championship for the Pipers. The third-place playoff saw PBG Alaskan Knights emerge victorious over Ganges Grandmasters after tie-breaks.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/alpine-sg-pipers-deny-triveni-continental-kings-hat-trick-take-gcl-title/articleshow/126154309.cms",
+         "pubDate" : "Wed, 24 Dec 2025 06:14:06",
+         "title" : "Alpine SG Pipers deny Triveni Continental Kings' hat-trick, take GCL title"
+      },
+      {
          "description" : "David Ant&oacute;n Guijarro and Marta Garc&iacute;a Mart&iacute;n claimed the Absolute and Women's titles at the Spanish Chess Championship 2025 in Marbella. Played as a nine-round Swiss with a 100-player field, the event saw Ant&oacute;n decide the open standings early with a strong start, while the women's title went down to the final round and was settled on tiebreaks after a late swing in fortunes.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -650,14 +666,6 @@ news_feed (
          "title" : "Carlsen secures bonus after early Freestyle Chess GS Tour championship"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125872931.cms\" />Indian chess prodigy R Praggnanandhaa has secured a spot in the 2026 Candidates Tournament by winning the FIDE Circuit 2025. Despite a mixed year, his consistent performance earned him this significant qualification. He expressed happiness and gratitude to his team and fans, now focusing on preparing for the prestigious event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-its-now-time-to-r-praggnanandhaa-opens-up-after-becoming-first-indian-to-qualify-for-candidates-2026/articleshow/125872931.cms",
-         "pubDate" : "Tue, 09 Dec 2025 15:37:38",
-         "title" : "'It's now time to ...': Pragg after becoming first Indian to enter Candidates"
-      },
-      {
          "description" : "On behalf of All India Chess Federation , Gujarat State Chess Association is organizing Senior National Arbiter Seminar &#38; exam in The Gujarat State Co-operative Bank (GSC).Sardar Vallabhbhai",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/rebel-3",
          "pubDate" : "Wed, 03 Dec 2025 12:00:00",
          "title" : "Attacking and sacrifice games"
-      },
-      {
-         "description" : "Please find below the live link for the above mentioned Championship : Women Live game link :&#160;https://view.livechesscloud.com/#a3d20e15-5589-4f94-bffa-6daeb3cdcd6d",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-dgt-board-link-for-national-women-2025-held-at-durgapur/",
-         "pubDate" : "Wed, 03 Dec 2025 07:05:00",
-         "title" : "Live DGT Board Link for National Women 2025 held at Durgapur"
       }
    ]
 }
