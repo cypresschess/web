@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " British Chess Grandmaster Jonathan Hawkins has passed away at the far too young age of 42. Hawkins only developed into a strong player after leaving school and was self-taught. Hawkins earned the FM title in 2008, IM in 2010 and GM in 2014. He was British Champion in 2014 shared with David Howell and 2015 where he was the sole winner. In recent years Hawkins was a successful chess coach. His 2012 book \"Amateur to IM\" is rightly highly regarded.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/jonathan-hawkins-1983-2025",
+         "pubDate" : "Wed, 24 Dec 2025 14:16:00",
+         "title" : "Jonathan Hawkins 1983 - 2025 - 1983 - 2025"
+      },
+      {
          "description" : "This video is a valuable chess lesson by IM Mkrtchian. Watch Lilit walk through a full \"real tournament\" prep routine in ChessBase 26. Find out how she scouts an opponent in the Mega Database, predict their openings, and steer the game into a line she specifically prepared. The payoff: a sharp Rossolimo move-order trap explained in a super teachable way, plus how she converts the advantage into a clean endgame win.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
