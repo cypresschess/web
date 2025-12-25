@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Christmas day is usually celebrated with a Christmas tree - in problem chess circles occasionally with a puzzle shaped like a Christmas tree. Like this example, composed by the famous Thomas Rayner Dawson, 101 years ago. It illustrates the universal principle of symmetry, and how it can be broken in a chess problem. Mathematics professor Christian Hesse delves into the very profound thinking behind the problem. But you are invited to solve it first.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-01-dec-25",
+         "pubDate" : "Thu, 25 Dec 2025 12:00:00",
+         "title" : "ChessBase Christmas Puzzle Week"
+      },
+      {
+         "description" : "We wish all chess friends and readers a merry and peaceful Christmas. For a musical accompaniment, Grandmaster Jonathan Levitt provides a special Christmas song. | Photo: Buffy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/merry-christmas-5",
+         "pubDate" : "Thu, 25 Dec 2025 12:00:00",
+         "title" : "Merry Christmas!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126172624.cms\" />World No. 1 and five-time World Champion Magnus Carlsen has named Americans Hikaru Nakamura and Fabiano Caruana as favourites for the 2026 Candidates, with India's R Praggnanandhaa as the third contender. Praggnanandhaa is the only Indian among eight players competing to challenge World Champion D Gukesh. The tournament starts on March 28 in Cyprus.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-r-praggnanandhaa-is-third-favourite-world-no-1-magnus-carlsen-rates-candidates-2026-line-up/articleshow/126172624.cms",
+         "pubDate" : "Thu, 25 Dec 2025 09:52:25",
+         "title" : "'Pragg is third favourite': Carlsen rates Candidates 2026 line-up"
+      },
+      {
          "description" : "One of the world's most famous chess caf&eacute;s is Simpson's-in-the-Strand in London, which is also among the city's best-known restaurants. It was here that the \"Immortal Game\" was played. After several years of closure, the historic venue has now reopened - and chess will once again be played there on a regular basis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -704,14 +728,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-november-2025/",
          "pubDate" : "Thu, 11 Dec 2025 09:49:02",
          "title" : "ECU E-Magazine November 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125883547.cms\" />20-year-old Indian GM R Praggnanandhaa secured his spot in the Candidates 2026, joining his sister R Vaishali. Dutch Grandmaster Anish Giri, however, believes India could have had more representatives than just one. Giri also highlighted the formidable nature of lower-rated players in the line-up like Matthias Bluebaum, predicting a highly competitive tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/one-indian-is-quite-surprising-dutch-no-1-anish-giri-rates-candidates-2026-line-up-reveals-hilarious-prep-hurdle-exclusive/articleshow/125883547.cms",
-         "pubDate" : "Wed, 10 Dec 2025 05:56:13",
-         "title" : "Exclusive | 'One Indian is quite surprising': Anish Giri rates Candidates 2026 line-up"
       },
       {
          "description" : "On behalf of All India Chess Federation , Gujarat State Chess Association is organizing Senior National Arbiter Seminar &#38; exam in The Gujarat State Co-operative Bank (GSC).Sardar Vallabhbhai",
