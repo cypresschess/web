@@ -10,14 +10,6 @@ news_feed (
          "title" : "ChessBase Christmas Puzzle Week"
       },
       {
-         "description" : "We wish all chess friends and readers a merry and peaceful Christmas. For a musical accompaniment, Grandmaster Jonathan Levitt provides a special Christmas song. | Photo: Buffy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/merry-christmas-5",
-         "pubDate" : "Thu, 25 Dec 2025 12:00:00",
-         "title" : "Merry Christmas!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126172624.cms\" />World No. 1 and five-time World Champion Magnus Carlsen has named Americans Hikaru Nakamura and Fabiano Caruana as favourites for the 2026 Candidates, with India's R Praggnanandhaa as the third contender. Praggnanandhaa is the only Indian among eight players competing to challenge World Champion D Gukesh. The tournament starts on March 28 in Cyprus.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
