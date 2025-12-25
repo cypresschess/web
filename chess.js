@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Rapid & Blitz Chess Championships 2025 will be held in Doha from 26 to 30 December, bringing together leading players from across the world in Open and Women's events. Played at Qatar University, the championships feature Swiss tournaments in Rapid and multi-stage competition in Blitz, with over €1,000,000 in prize money. The event marks Doha's return as host after nine years and concludes the international chess calendar. | Pictured: Classical chess world champion Gukesh Dommaraju | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-preview",
+         "pubDate" : "Thu, 25 Dec 2025 20:15:00",
+         "title" : "All eyes on Doha: Carlsen, Gukesh & co. meet at the World Rapid and Blitz Championships"
+      },
+      {
          "description" : "Christmas day is usually celebrated with a Christmas tree - in problem chess circles occasionally with a puzzle shaped like a Christmas tree. Like this example, composed by the famous Thomas Rayner Dawson, 101 years ago. It illustrates the universal principle of symmetry, and how it can be broken in a chess problem. Mathematics professor Christian Hesse delves into the very profound thinking behind the problem. But you are invited to solve it first.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,14 +50,6 @@ news_feed (
          "title" : "GCL: Of friendships &amp; rivalries on the board"
       },
       {
-         "description" : "The 12th Sunway Sitges Chess Festival concluded with a closely contested open tournament in the Catalonian seaside town. After ten rounds, first place was shared before a blitz play-off decided the title, while an additional knockout determined third place. Iranian GM Mahdi Gholami Orimi emerged as overall winner, ahead of Spanish GM Josep Manuel L&oacute;pez, with French GM Jules Moussard completing the podium. | Photo: David Llada / Sunway Sitges Chess Festival (2024)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2025-final",
-         "pubDate" : "Wed, 24 Dec 2025 18:40:00",
-         "title" : "Mahdi Gholami wins Sunway Sitges Open"
-      },
-      {
          "description" : " British Chess Grandmaster Jonathan Hawkins has passed away at the far too young age of 42. Hawkins only developed into a strong player after leaving school and was self-taught. Hawkins earned the FM title in 2008, IM in 2010 and GM in 2014. He was British Champion in 2014 shared with David Howell and 2015 where he was the sole winner. In recent years Hawkins was a successful chess coach. His 2012 book \"Amateur to IM\" is rightly highly regarded.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -74,14 +74,6 @@ news_feed (
          "title" : "ECF Office hours over Christmas"
       },
       {
-         "description" : "The Global Chess League came to an end in Mumbai with Alpine SG Pipers, led by Fabiano Caruana, claiming overall victory after beating the two-time champions Triveni Continental Kings, captained by Alireza Firouzja. The Continental Kings failed to win the final after a dominant round-robin showing. Third place was claimed by PBG Alaskan Knights, under the leadership of Gukesh Dommaraju, after winning a blitz playoff against Vishy Anand's Ganges Grandmasters. | Photo: Vivek Sohani",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-10",
-         "pubDate" : "Wed, 24 Dec 2025 07:30:00",
-         "title" : "Alpine SG Pipers beat Triveni Continental Kings to win third edition of Global Chess League"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126154309.cms\" />Alpine SG Pipers clinched the Global Chess League title in Mumbai, defeating Triveni Continental Kings 4-0 in a decisive final. Key wins from Anish Giri, Rameshbabu Praggnanandhaa, and Leon Luke Mendonca secured the championship for the Pipers. The third-place playoff saw PBG Alaskan Knights emerge victorious over Ganges Grandmasters after tie-breaks.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -98,14 +90,6 @@ news_feed (
          "title" : "Wednesday Workout: North American Junior Championships, Pt. 2"
       },
       {
-         "description" : "David Ant&oacute;n Guijarro and Marta Garc&iacute;a Mart&iacute;n claimed the Absolute and Women's titles at the Spanish Chess Championship 2025 in Marbella. Played as a nine-round Swiss with a 100-player field, the event saw Ant&oacute;n decide the open standings early with a strong start, while the women's title went down to the final round and was settled on tiebreaks after a late swing in fortunes.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/spanish-championship-2025-final-report",
-         "pubDate" : "Tue, 23 Dec 2025 23:55:00",
-         "title" : "Spanish Championship: David Ant&oacute;n and Marta Garc&iacute;a claim national titles in Marbella"
-      },
-      {
          "description" : " The Tech Mahindra Global Chess League took place Sat 13th Dec to Tuesday 23rd Dec 2025 in Mumbai. This was a very strong rapid team event and is on its third edition with previous events in Dubai and London. There were two stages, a round robin took place until the 22nd of December followed by a final day where the top two teams played off for the title and there wasalso a 3rd-4th place match. Teams: Triveni Continental Kings: Firouzja, Wei, Vidit, Zhu, Kosteniuk, Maurizzi. Upgrad Mumba Masters: Vachier-Lagrave, So, Mamedyarov, Koneru, Dronavalli, Daneshvar. Alpine SG Pipers: Caruana, Giri, Praggnanandhaa, Hou, Batsiashvili, Mendonca. Ganges Grandmasters: Anand, Keymer, Sindarov, Shuvalova,",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -120,14 +104,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-r-praggnanandhaas-sg-pipers-beat-two-time-champions-continental-kings-to-clinch-global-chess-league-2025-title/articleshow/126145632.cms",
          "pubDate" : "Tue, 23 Dec 2025 17:48:02",
          "title" : "GCL: Pragg's SG Pipers clinch Global Chess League 2025 title"
-      },
-      {
-         "description" : "Wilhelm Steinitz, the first World Champion was far ahead of his time. A new ChessBase Master Class explores Wilhelm Steinitz as a theoretician, practitioner, and driving force of ideas - and shows why his concepts continue to resonate today. Harry Schaack, Editor-in-Chief of the German chess magazine \"Karl\", has taken a close look at the course and explains in the current issue why Steinitz still provokes, inspires, and surprises.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-master-class-understanding-wilhelm-steinitz",
-         "pubDate" : "Tue, 23 Dec 2025 16:00:00",
-         "title" : "ChessBase Master Class: Understanding Wilhelm Steinitz"
       },
       {
          "description" : "GM Fabiano Caruana&#39;s Alpine SG Pipers have won the Tech Mahindra Global Chess League 2025 with a 2-0 sweep in the Final, where GM Anish Giri and Leon Luke Mendonca starred with 2/2. GM Alireza Firouzja at times fought a lone battle as the Triveni ...",
@@ -152,14 +128,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
          "pubDate" : "Tue, 23 Dec 2025 10:50:00",
          "title" : "Global Chess League Finals - Live!"
-      },
-      {
-         "description" : "FIDE World Cup 2025: Analyses by Adams, Bluebaum, Donchenko, Grandelius, Shankland, Wei Yi, Wojtaszek and many more - Marshal Attack: just develop: Robert Ris praises the modern 11&hellip;Bb7!? - \"Giri's Gems\": The world-class player looks back at eight games from top tournaments of 2025 - \"Hello e-file!\": Oliver Reeh poses numerous training questions on 33 games and presents four interactive videos in his tactics column - Topalov-Anand 2005: Dorian Rogozenco looks back at a theoretically important, highly tactical Queen's Indian with the spectacular 14.Nxf7!! - a \"Modern Classic\" and much more!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-45",
-         "pubDate" : "Tue, 23 Dec 2025 10:45:00",
-         "title" : "New: ChessBase Magazine #229"
       },
       {
          "description" : "GM Jonathan Hawkins, a two-time British Champion, author, and coach, passed away on Monday at the age of 42 after losing the battle with a rare form of cancer. His passing came just a week after GM Daniel Gormally had launched an appeal to help Ha...",
