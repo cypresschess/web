@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One of the world's most famous chess caf&eacute;s is Simpson's-in-the-Strand in London, which is also among the city's best-known restaurants. It was here that the \"Immortal Game\" was played. After several years of closure, the historic venue has now reopened - and chess will once again be played there on a regular basis.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-tradition-returns-to-simpson-s",
+         "pubDate" : "Thu, 25 Dec 2025 09:00:00",
+         "title" : "Chess Tradition Returns to Simpson's"
+      },
+      {
+         "description" : "The Senior National Arbiter Seminar-cum-Examination was organized by the All Assam Chess Association on behalf of the All India Chess Federation at Hotel Fortune, near",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-senior-national-arbiter-seminar-cum-examination-at-guwahati-2025-on-20-21-sept-2025/",
+         "pubDate" : "Thu, 25 Dec 2025 08:07:34",
+         "title" : "Final report :Senior National Arbiter Seminar cum Examination at Guwahati 2025 on 20 & 21 Sept 2025"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126170938.cms\" />The Global Chess League saw debutants and Candidates players gel to showcase their dominance in Mumbai. Fabiano Caruana and Leon Luke Mendonca made their league debuts for the Pipers, who emerged triumphant. The team's camaraderie, including future Candidates rivals Caruana, Giri, and Praggnanandhaa, proved instrumental in their victory.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-of-friendships-rivalries-on-the-board/articleshow/126170938.cms",
+         "pubDate" : "Thu, 25 Dec 2025 06:07:37",
+         "title" : "GCL: Of friendships &amp; rivalries on the board"
+      },
+      {
          "description" : "The 12th Sunway Sitges Chess Festival concluded with a closely contested open tournament in the Catalonian seaside town. After ten rounds, first place was shared before a blitz play-off decided the title, while an additional knockout determined third place. Iranian GM Mahdi Gholami Orimi emerged as overall winner, ahead of Spanish GM Josep Manuel L&oacute;pez, with French GM Jules Moussard completing the podium. | Photo: David Llada / Sunway Sitges Chess Festival (2024)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -688,14 +712,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/one-indian-is-quite-surprising-dutch-no-1-anish-giri-rates-candidates-2026-line-up-reveals-hilarious-prep-hurdle-exclusive/articleshow/125883547.cms",
          "pubDate" : "Wed, 10 Dec 2025 05:56:13",
          "title" : "Exclusive | 'One Indian is quite surprising': Anish Giri rates Candidates 2026 line-up"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125873635.cms\" />Magnus Carlsen has secured the 2025 Freestyle Chess Grand Slam Tour title, earning a $100,000 bonus after reaching the semifinals in Cape Town. Despite an early setback, Carlsen fought back to clinch the championship. He will face Sindarov in the semifinals, while Keymer plays Aronian for a spot in the finals.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-wins-2025-freestyle-chess-grand-slam-tour-championship-secures-bonus-prize-for-early-title/articleshow/125873635.cms",
-         "pubDate" : "Tue, 09 Dec 2025 16:36:29",
-         "title" : "Carlsen secures bonus after early Freestyle Chess GS Tour championship"
       },
       {
          "description" : "On behalf of All India Chess Federation , Gujarat State Chess Association is organizing Senior National Arbiter Seminar &#38; exam in The Gujarat State Co-operative Bank (GSC).Sardar Vallabhbhai",
