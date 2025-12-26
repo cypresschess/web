@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The World Rapid and Blitz Championships take place Fri 26th Dec to Tue 30th Dec 2025 in Doha, Qatar. Players: Magnus Carlsen, Ian Nepomniachtchi, Levon Aronian, Alireza Firouzja, Fabiano Caruana, Maxime Vachier-Lagrave, Vladislav Artemiev, Nodirbek Abdusattorov, Arjun Erigaisi, Jan Krzysztof Duda, Shakhriyar Mamedyarov, Javokhir Sindarov, Leinier Dominguez Perez, Richard Rapport, Wesley So, D Gukesh, Daniil Dubov, Anish Giri, Yangyi Yu, Alexander Grischuk, Dmitry Andreikin, Parham Maghsoodloo, Jaime Santos Latasa, Sarin Nihal, Praggnanandhaa, Teimour Radjabov, Sam Sevian, Radoslaw Wojtaszek, Ray Robson, Andrey Esipenko etc Women Players: Ju Wenjun, Tan Zhongyi, Aleksandra Goryachkina, Tingj",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2025",
+         "pubDate" : "Thu, 25 Dec 2025 21:50:00",
+         "title" : "World Rapid and Blitz Championships 2025 - Games and Results"
+      },
+      {
          "description" : "The FIDE World Rapid & Blitz Chess Championships 2025 will be held in Doha from 26 to 30 December, bringing together leading players from across the world in Open and Women's events. Played at Qatar University, the championships feature Swiss tournaments in Rapid and multi-stage competition in Blitz, with over €1,000,000 in prize money. The event marks Doha's return as host after nine years and concludes the international chess calendar. | Pictured: Classical chess world champion Gukesh Dommaraju | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
