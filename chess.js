@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126190341.cms\" />Hungarian GM Rich&aacute;rd Rapport shared insights on the upcoming 2026 Candidates Tournament in Cyprus, saying experience will play a key role. He noted that veterans like Hikaru Nakamura and Fabiano Caruana may play tight games against each other, while decisive results often come against struggling players. Rapport added that lower-seeded players can still create surprises in the round-robin format.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-anish-giri-or-hikaru-nakamura-richrd-rapport-reveals-his-pick-for-candidates-2026-exclusive/articleshow/126190341.cms",
+         "pubDate" : "Fri, 26 Dec 2025 12:51:38",
+         "title" : "Pragg, Giri or Nakamura? Rapport reveals pick for Candidates | Exclusive"
+      },
+      {
          "description" : "The FIDE World Rapid Championships are taking place in Doha from 26 to 28 December, bringing together leading players from across the world in Open and Women's events. Played at Qatar University, the competitions are played as 13-round (Open) and 11-round (Women's) Swiss opens. | Follow the action live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -632,14 +640,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/complaint-filed-against-indias-youngest-fide-rated-chess-player-father-defends-three-year-old-prodigy/articleshow/125937054.cms",
          "pubDate" : "Fri, 12 Dec 2025 17:01:20",
          "title" : "Complaint filed against India's youngest FIDE-Rated chess player"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125936726.cms\" />Indian Grandmaster R Praggnanandhaa views the upcoming Chess World Championship Tour as an opportunity for players, not a threat to the traditional World Championship. He believes the World Championship remains the ultimate priority, especially with the tour winner qualifying for the Candidates. Praggnanandhaa also highlighted the growing excitement and interest in chess across India.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-only-indian-to-qualify-for-candidates-2026-makes-honest-admission-about-new-total-chess-world-cship-tour/articleshow/125936726.cms",
-         "pubDate" : "Fri, 12 Dec 2025 16:33:10",
-         "title" : "Pragg makes honest admission about new Total Chess World C'ship Tour"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125936473.cms\" />The Global Chess League's third season kicks off in Mumbai with the American Gambits featuring Hikaru Nakamura as their Icon player. The team, boasting a strong lineup including World Rapid Champion Volodar Murzin, faces PBG Alaskan Knights in their opening match, a highly anticipated duel against World Champion Gukesh D.",
