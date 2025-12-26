@@ -18,6 +18,14 @@ news_feed (
          "title" : "All eyes on Doha: Carlsen, Gukesh & co. meet at the World Rapid and Blitz Championships"
       },
       {
+         "description" : "GM Magnus Carlsen says he enters the World Rapid &#38;amp; Blitz Championship with motivation and a determination to &#34;give it my all&#34; after several months of doubts over whether he would even take part in the events at all. The first day of the 2025...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-reviews-2025",
+         "pubDate" : "Thu, 25 Dec 2025 18:23:00",
+         "title" : "Carlsen On World Rapid & Blitz: 'As Long As I'm In Good Shape, I'll Be A Dangerous Man'"
+      },
+      {
          "description" : "Christmas day is usually celebrated with a Christmas tree - in problem chess circles occasionally with a puzzle shaped like a Christmas tree. Like this example, composed by the famous Thomas Rayner Dawson, 101 years ago. It illustrates the universal principle of symmetry, and how it can be broken in a chess problem. Mathematics professor Christian Hesse delves into the very profound thinking behind the problem. But you are invited to solve it first.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -578,14 +586,6 @@ news_feed (
          "title" : "Flash Report: Winners Crowned at National K-12 Grade Championships in Spokane"
       },
       {
-         "description" : "GM Ediz Gurel added an eighth Bullet Brawl title to his ever-growing trophy cabinet on Saturday after piecing together a performance that saw him take the two-hour titled arena by a margin of 12 points. The Turkish phenom suffered only minor hiccu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-dec-13-2025",
-         "pubDate" : "Sat, 13 Dec 2025 16:41:00",
-         "title" : "World Rapid & Blitz-Bound Gurel Dominates Bullet Brawl Again"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125951351.cms\" />The Global Chess League Season 3 has begun in Mumbai. Six teams will compete in 34 matches. Prominent chess players are participating. The league aims to popularize chess for a new generation. Spectators can enjoy an enhanced experience. Indian viewers can watch on JioStar. The tournament features elite competition in an exciting format.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -784,14 +784,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/dec/05/nodirbek-abdusattorov-overwhelms-rivals-london-classic-chess",
          "pubDate" : "Fri, 05 Dec 2025 08:00:44",
          "title" : "Abdusattorov overwhelms rivals at Arsenal but England hit back in style"
-      },
-      {
-         "description" : "<ul><li> Sarwagya Singh Kushwaha plays up to five hours a day </li><li> Indian boy beats adults to secure record-breaking status </li></ul> India's Sarwagya Singh Kushwaha has become the youngest player in chess history to earn an official Fide rating at the age of three years, seven months and 20 days. The chess prodigy edged out the previous record of compatriot Anish Sarkar, who was three years, eight months and 19 days when he reached the milestone in November last year. <a href=\"https://www.theguardian.com/sport/2025/dec/05/three-year-old-chess-prodigy-youngest-official-rating-sarwagya-singh-kushwaha\">Continue reading...</a>",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/dec/05/three-year-old-chess-prodigy-youngest-official-rating-sarwagya-singh-kushwaha",
-         "pubDate" : "Fri, 05 Dec 2025 01:26:21",
-         "title" : "Three-year-old chess prodigy becomes youngest player to earn official rating"
       }
    ]
 }
