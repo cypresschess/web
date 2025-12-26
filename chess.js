@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Rapid Championships are taking place in Doha from 26 to 28 December, bringing together leading players from across the world in Open and Women's events. Played at Qatar University, the competitions are played as 13-round (Open) and 11-round (Women's) Swiss opens. | Follow the action live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-live",
+         "pubDate" : "Fri, 26 Dec 2025 11:45:00",
+         "title" : "World Rapid Championships - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126188012.cms\" />Magnus Carlsen has returned for the 2025 FIDE World Rapid &amp; Blitz Championships in Doha, held from December 26 to 30 with a €1 million prize fund. The world number one said personal and family ties with the Qatar organisers were central to his decision. His relationship with FIDE remains strained after last year's \"jeansgate\" controversy.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/not-great-magnus-carlsen-opens-up-on-relations-with-fide-ahead-of-world-rapid-blitz-return-after-jeansgate/articleshow/126188012.cms",
+         "pubDate" : "Fri, 26 Dec 2025 10:15:26",
+         "title" : "'Not great': Carlsen on relations with FIDE ahead of World Rapid &amp; Blitz"
+      },
+      {
          "description" : "Take a look at this position, in which White should mate in two. Looks very easy, and hundreds of readers of the newspaper in which it appeared submitted a solution. But it was not correct. In our Christmas Puzzle week the consummate expert of unusual chess problems, Werner Keym, asks you to look carefully at the position and find a genuine way for White to mate Black in two moves. There are two other problems to solve.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-02-dec-26",
          "pubDate" : "Fri, 26 Dec 2025 09:00:00",
          "title" : "Christmas Puzzles 2 - Not that easy!"
+      },
+      {
+         "description" : "16 Americans are competing in Doha, Qatar from Dec. 26 through 30 in the 2025 FIDE World Rapid &amp; Blitz Championships. Play began at 5 a.m. CST on Friday, Dec. 26 for the first of three days of rapid games, with the blitz tournament taking place the final two days. The total prize fund between the four events (Open/Women's, Rapid/Blitz) is one million euros.The Rapid consists of 13 rounds in the Open and 11 rounds in the Women's, while the Blitz brings back the two-stage format from the 2024 edition. This time, the first stage of the Blitz will be a one-and-a-half-day Swiss, with knockout matches during the second half of the second day. This format tweak increases the number of games in ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-fide-world-rapid-blitz-preview",
+         "pubDate" : "Fri, 26 Dec 2025 00:00:00",
+         "title" : "2025 FIDE World Rapid & Blitz Preview"
       },
       {
          "description" : " The World Rapid and Blitz Championships take place Fri 26th Dec to Tue 30th Dec 2025 in Doha, Qatar. Players: Magnus Carlsen, Ian Nepomniachtchi, Levon Aronian, Alireza Firouzja, Fabiano Caruana, Maxime Vachier-Lagrave, Vladislav Artemiev, Nodirbek Abdusattorov, Arjun Erigaisi, Jan Krzysztof Duda, Shakhriyar Mamedyarov, Javokhir Sindarov, Leinier Dominguez Perez, Richard Rapport, Wesley So, D Gukesh, Daniil Dubov, Anish Giri, Yangyi Yu, Alexander Grischuk, Dmitry Andreikin, Parham Maghsoodloo, Jaime Santos Latasa, Sarin Nihal, Praggnanandhaa, Teimour Radjabov, Sam Sevian, Radoslaw Wojtaszek, Ray Robson, Andrey Esipenko etc Women Players: Ju Wenjun, Tan Zhongyi, Aleksandra Goryachkina, Tingj",
@@ -586,14 +610,6 @@ news_feed (
          "title" : "Firouzja Stuns Caruana As Global Chess League Begins In Mumbai"
       },
       {
-         "description" : "Spokane, WA: The 501(c)3 US Chess Federation's National K-12 Grade Championships took place from December 12 through 14 at the Spokane Convention Center in Spokane, Washington. This annual tournament takes place every December, and is the only national tournament with no \"Under\" sections, instead putting every player from each grade in one section to compete for the title of Grade Champion. Note: All winners are listed in tiebreak order. Note: If there isn't a photo of your child with their medal, please send one to Click here to show email address. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> 12th Grade: FM William Safranek (NY) and Jed Sloan (NY), 6/7 <br> <br> <br",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/flash-report-winners-crowned-national-k-12-grade-championships-spokane",
-         "pubDate" : "Sun, 14 Dec 2025 00:00:00",
-         "title" : "Flash Report: Winners Crowned at National K-12 Grade Championships in Spokane"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125951351.cms\" />The Global Chess League Season 3 has begun in Mumbai. Six teams will compete in 34 matches. Prominent chess players are participating. The league aims to popularize chess for a new generation. Spectators can enjoy an enhanced experience. Indian viewers can watch on JioStar. The tournament features elite competition in an exciting format.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -690,14 +706,6 @@ news_feed (
          "title" : "Freestyle Chess Grand Slam Finals 2025 - Games and Results"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125917260.cms\" />Levon Aronian clinched the 2025 Freestyle Chess Grand Slam title in Grootbos. He defeated Magnus Carlsen in the Grand Final. Aronian secured the win with a 1.5-0.5 score. He earned $200,000. Magnus Carlsen had already won the overall Grand Slam Tour. Vincent Keymer secured third place. Fabiano Caruana finished fifth. Hans Niemann took seventh place.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/levon-aronian-beats-magnus-carlsen-stays-unbeaten-to-clinch-freestyle-chess-grand-slam-tour-final-title-arjun-erigaisi-finishes-sixth/articleshow/125917260.cms",
-         "pubDate" : "Thu, 11 Dec 2025 16:34:27",
-         "title" : "Aronian beats Carlsen to clinch Freestyle Grand Slam Tour Final title"
-      },
-      {
          "description" : "The ECU E-Magazine November 2025 is out! In this edition of the ECU Magazine you may read about: The November 2025 issue of the ECU E-Magazine can be read online together with interactive links through the following link, or it can be downloaded in PDF format down below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -768,22 +776,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/london-chess-classic-2025-live",
          "pubDate" : "Fri, 05 Dec 2025 16:50:00",
          "title" : "London Chess Classic - Live!"
-      },
-      {
-         "description" : "The 2025 European Amateur Chess Championship took place from 26th of November to 4th of December in Mellieha, Malta. The event was played in three rating categories: U1700, U2000, and U2300, each championship with 9-swiss rounds and time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with an increment of 30 seconds for each move starting from move one. After nine played rounds, CM Stefan-Emilian Prisacaru (ROU, 2216) emerged as the sole []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-amateur-chess-championships-2025-concluded-in-malta/",
-         "pubDate" : "Fri, 05 Dec 2025 12:15:15",
-         "title" : "European Amateur Chess Championships 2025 concluded in Malta"
-      },
-      {
-         "description" : " Nodirbek Abdusattorov's six game winning streak might have ended with a draw against Alireza Firouzja in Round 8 but it confirmed a clear win for him in the London Chess Classic with a round to spare, and this result was obtained from a position of strength. Abdusattorov had beaten Luke McShane in Round 7 with a long grind giving him a two point lead over Firouzja. Their Round 8 game was a Queen's Gambit Accepted where the engine thought Abdusattorov's 15...Rb6 was inferior to 15...Nd8= and that 16.Qe2 instead of 16.Qa4 might have given an edge to Firouzja. As it was Abdusattorov was the one who stood slightly better and when he repeated for a draw Firouzja had no choice whilst Abdusattorov",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorovs-draw-with-firouzja-confirms-victory-in-the-london-chess-classic",
-         "pubDate" : "Fri, 5 Dec 2025 10:04:00",
-         "title" : "Abdusattorov's draw with Firouzja confirms victory in the London Chess Classic - 7-8"
       }
    ]
 }
