@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This article presents a curated selection of the most instructive endgames of the year, chosen by renowned endgame specialist Karsten M&uuml;ller. Drawing on examples from elite tournaments and beyond, the collection highlights the enduring relevance of endgame technique in modern chess, with contributions from players such as Magnus Carlsen and reigning world champion Gukesh Dommaraju.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/best-endgames-2025",
+         "pubDate" : "Fri, 26 Dec 2025 21:00:00",
+         "title" : "The best endgames of 2025!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126190341.cms\" />Hungarian GM Rich&aacute;rd Rapport shared insights on the upcoming 2026 Candidates Tournament in Cyprus, saying experience will play a key role. He noted that veterans like Hikaru Nakamura and Fabiano Caruana may play tight games against each other, while decisive results often come against struggling players. Rapport added that lower-seeded players can still create surprises in the round-robin format.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -18,12 +26,28 @@ news_feed (
          "title" : "World Rapid Championships - Live!"
       },
       {
+         "description" : "GMs Magnus Carlsen, Gukesh Dommaraju, Arjun Erigaisi, Maxime Vachier-Lagrave, and Vladislav Artemiev lead the 2025 FIDE World Rapid Chess Championship with 4.5 points out of five games on the first day. The group of 15 players that trails them by ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-rapid-chess-championship-day-1",
+         "pubDate" : "Fri, 26 Dec 2025 10:54:07",
+         "title" : "Carlsen, Gukesh, Arjun, Vachier-Lagrave, Artemiev, Share Lead"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126188012.cms\" />Magnus Carlsen has returned for the 2025 FIDE World Rapid &amp; Blitz Championships in Doha, held from December 26 to 30 with a €1 million prize fund. The world number one said personal and family ties with the Qatar organisers were central to his decision. His relationship with FIDE remains strained after last year's \"jeansgate\" controversy.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/not-great-magnus-carlsen-opens-up-on-relations-with-fide-ahead-of-world-rapid-blitz-return-after-jeansgate/articleshow/126188012.cms",
          "pubDate" : "Fri, 26 Dec 2025 10:15:26",
          "title" : "'Not great': Carlsen on relations with FIDE ahead of World Rapid &amp; Blitz"
+      },
+      {
+         "description" : "On January 1, we will make some notable changes to vacation time for in Daily Chess, reducing the amount of vacation time available and simplifying the system. Vacation time is an important part of daily games on Chess.com. It allows players to ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-new-vacation-time-system",
+         "pubDate" : "Fri, 26 Dec 2025 09:35:54",
+         "title" : "Announcing New Vacation Time System For Daily Chess Games"
       },
       {
          "description" : "Take a look at this position, in which White should mate in two. Looks very easy, and hundreds of readers of the newspaper in which it appeared submitted a solution. But it was not correct. In our Christmas Puzzle week the consummate expert of unusual chess problems, Werner Keym, asks you to look carefully at the position and find a genuine way for White to mate Black in two moves. There are two other problems to solve.",
@@ -578,14 +602,6 @@ news_feed (
          "title" : "Hosts Mumba start GCL season 3 in style"
       },
       {
-         "description" : "World number-two GM Hikaru Nakamura and his wife WGM Atousa Pourkashiyan welcomed the birth of a healthy baby boy last week, the couple has confirmed. Nakamura, who first revealed that they were expecting during a Kick livestream in July, shared...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-atousa-pourkashiyan-welcome-baby-boy",
-         "pubDate" : "Mon, 15 Dec 2025 03:46:00",
-         "title" : "Hikaru Nakamura & Atousa Pourkashiyan Welcome Baby Boy"
-      },
-      {
          "description" : "You know 6/7? Well, did you know that over half (21 of 38) of our National K-12 Grade Champions and Co-Champions finished the year of \"67\" with a 6/7 score?Of the 13 sections, only five produced clear Champions, and only one of them - Kindergarten winner Zayn Shanmuganathan - finished with a perfect 7/7 score.This bit of numerology speaks to the many close races on Sunday in Spokane, where many sections came down to the last games to finish in the final round. With annotations and highlights from commentator WGM Sabina Foisor, let's take a look!Note: all results are listed in tiebreak order unless otherwise specified.<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://www.thearticle.com/clutching-at-straws/",
          "pubDate" : "Sun, 14 Dec 2025 15:46:10",
          "title" : "Clutching at straws"
-      },
-      {
-         "description" : "GM Alireza Firouzja played a brilliant sacrifice to defeat GM Fabiano Caruana while GM Wei Yi took down GM Anish Giri as two-time Tech Mahindra Global Chess League champions Triveni Continental Kings began season three with a win. Of the world&#39;s t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-1",
-         "pubDate" : "Sun, 14 Dec 2025 12:21:00",
-         "title" : "Firouzja Stuns Caruana As Global Chess League Begins In Mumbai"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125951351.cms\" />The Global Chess League Season 3 has begun in Mumbai. Six teams will compete in 34 matches. Prominent chess players are participating. The league aims to popularize chess for a new generation. Spectators can enjoy an enhanced experience. Indian viewers can watch on JioStar. The tournament features elite competition in an exciting format.",
@@ -768,14 +776,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/mindset-for-game-analysis/",
          "pubDate" : "Sat, 06 Dec 2025 14:00:00",
          "title" : "The Right Mindset For Game Analysis"
-      },
-      {
-         "description" : "The XTX Markets London Chess Classic is a 10-player all-play-all tournament taking place from 26 November to 5 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and six international representatives make up the lineup, which includes top seeds Alireza Firouzja and Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2025-live",
-         "pubDate" : "Fri, 05 Dec 2025 16:50:00",
-         "title" : "London Chess Classic - Live!"
       }
    ]
 }
