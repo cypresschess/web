@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Take a look at this position, in which White should mate in two. Looks very easy, and hundreds of readers of the newspaper in which it appeared submitted a solution. But it was not correct. In our Christmas Puzzle week the consummate expert of unusual chess problems, Werner Keym, asks you to look carefully at the position and find a genuine way for White to mate Black in two moves. There are two other problems to solve.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-02-dec-26",
+         "pubDate" : "Fri, 26 Dec 2025 09:00:00",
+         "title" : "Christmas Puzzles 2 - Not that easy!"
+      },
+      {
          "description" : " The World Rapid and Blitz Championships take place Fri 26th Dec to Tue 30th Dec 2025 in Doha, Qatar. Players: Magnus Carlsen, Ian Nepomniachtchi, Levon Aronian, Alireza Firouzja, Fabiano Caruana, Maxime Vachier-Lagrave, Vladislav Artemiev, Nodirbek Abdusattorov, Arjun Erigaisi, Jan Krzysztof Duda, Shakhriyar Mamedyarov, Javokhir Sindarov, Leinier Dominguez Perez, Richard Rapport, Wesley So, D Gukesh, Daniil Dubov, Anish Giri, Yangyi Yu, Alexander Grischuk, Dmitry Andreikin, Parham Maghsoodloo, Jaime Santos Latasa, Sarin Nihal, Praggnanandhaa, Teimour Radjabov, Sam Sevian, Radoslaw Wojtaszek, Ray Robson, Andrey Esipenko etc Women Players: Ju Wenjun, Tan Zhongyi, Aleksandra Goryachkina, Tingj",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorovs-draw-with-firouzja-confirms-victory-in-the-london-chess-classic",
          "pubDate" : "Fri, 5 Dec 2025 10:04:00",
          "title" : "Abdusattorov's draw with Firouzja confirms victory in the London Chess Classic - 7-8"
-      },
-      {
-         "description" : " The Uzbek shone at London Classic and a near-3000 tournament performance reaffirmed his place among world's best This week's XTX London Classic at Arsenal's Emirates Stadium took place in an elegant arena with a full view of the football pitch. The English players suffered for most of the event, but hit back in style on Thursday when all four won their eighth-round games. Final scores were Nodirbek Abdusattorov (Uzbekistan) 7.5, Alireza Firouzja (France) 5.5, Nikita Vitiugov (England) 5, Luke McShane and Michael Adams (both England) 4.5, Nikolas Theodorou (Greece) and Pavel Eljanov (Ukraine) 4, Abhimanyu Mishra (USA) and Gawain Maroroa Jones (England) 3.5, Sam Shankland (USA) 3. The four En",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/dec/05/nodirbek-abdusattorov-overwhelms-rivals-london-classic-chess",
-         "pubDate" : "Fri, 05 Dec 2025 08:00:44",
-         "title" : "Abdusattorov overwhelms rivals at Arsenal but England hit back in style"
       }
    ]
 }
