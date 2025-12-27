@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Rapid Championships are taking place in Doha from 26 to 28 December, bringing together leading players from across the world in Open and Women's events. Played at Qatar University, the competitions are played as 13-round (Open) and 11-round (Women's) Swiss opens. | Follow the action live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-live",
+         "pubDate" : "Sat, 27 Dec 2025 11:45:00",
+         "title" : "World Rapid Championships - Live!"
+      },
+      {
          "description" : "There are chess puzzles which only consist of a line of text, asking you to construct a position or a game that it describes. Some can be awesomely difficult, like the puzzle we first posted 41 years ago. Two world champions were not able to solve it. We tell you about that, and present a new ones, not quite as tough, for you to solve.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
