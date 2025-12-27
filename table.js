@@ -1,4 +1,6 @@
 jtable([
+"SUGAR LAND","2025-12-26","12","<a href=https://ratings.uschess.org/event/202512260233 target='_blank'>FBCC 2025 Slowpoke Open 1</a>",
+"SPRING","2025-12-26","24","<a href=https://ratings.uschess.org/event/202512260223 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2025-12-21","6","<a href=https://ratings.uschess.org/event/202512210403 target='_blank'>winter-12-21-2025</a>",
 "HOUSTON","2025-12-21","14","<a href=https://ratings.uschess.org/event/202512210273 target='_blank'>Bellaire Sunday Swiss 2025.12.21</a>",
 "HOUSTON","2025-12-21","15","<a href=https://ratings.uschess.org/event/202512210223 target='_blank'>2025 Christmas Day by AzChAcad</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2025-09-14","19","<a href=https://ratings.uschess.org/event/202509140382 target='_blank'>SEPT 14TH SUNDAY SWISS</a>",
 "HOUSTON","2025-09-14","6","<a href=https://ratings.uschess.org/event/202509140192 target='_blank'>BELLAIRE SUNDAY SWISS 09/14/2025</a>",
 "HOUSTON","2025-09-13","13","<a href=https://ratings.uschess.org/event/202509139212 target='_blank'>CHESSPANDA09132025SATURDAY</a>",
-"HOUSTON","2025-09-13","11","<a href=https://ratings.uschess.org/event/202509138992 target='_blank'>SEPT 13TH -- TROPHY SCHOLASTIC</a>",
-"HOUSTON","2025-09-13","16","<a href=https://ratings.uschess.org/event/202509136812 target='_blank'>BAD ASTRONAUT BACK-2-SCHOOL</a>",
 ]);
