@@ -10,6 +10,14 @@ news_feed (
          "title" : "The best endgames of 2025!"
       },
       {
+         "description" : "GM Bogdan-Daniel Deac profited the most from the absence of top GMs as he won the post-Christmas Freestyle Friday and its $400 first prize. The 24-year-old Romanian grandmaster edged out IM Eray Kilic and GM Jeffery Xiong on tiebreaks after all th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/deac-wins-freestyle-friday-december-26-2025",
+         "pubDate" : "Fri, 26 Dec 2025 14:00:00",
+         "title" : "Bogdan-Daniel Deac Wins Post-Christmas Freestyle Friday On Tiebreaks"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126190341.cms\" />Hungarian GM Rich&aacute;rd Rapport shared insights on the upcoming 2026 Candidates Tournament in Cyprus, saying experience will play a key role. He noted that veterans like Hikaru Nakamura and Fabiano Caruana may play tight games against each other, while decisive results often come against struggling players. Rapport added that lower-seeded players can still create surprises in the round-robin format.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-rapid-chess-championship-day-1",
-         "pubDate" : "Fri, 26 Dec 2025 10:54:07",
+         "pubDate" : "Fri, 26 Dec 2025 10:54:00",
          "title" : "Carlsen, Gukesh, Arjun, Vachier-Lagrave, Artemiev, Share Lead"
       },
       {
@@ -584,14 +592,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-2",
          "pubDate" : "Mon, 15 Dec 2025 13:22:00",
          "title" : "Firouzja, Mamedyarov Star As Mumba Masters, Continental Kings Stay Perfect"
-      },
-      {
-         "description" : "With 2026 at our doorstep, we know that many of our members are making chess-related New Year&#39;s resolutions. Some might want to break their rating record, some might just be looking to play more. Regardless of your goals, we&#39;re here to help! The...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chess-improvement-challenge-2026",
-         "pubDate" : "Mon, 15 Dec 2025 08:00:00",
-         "title" : "Want To Improve Your Chess In 2026? Join The Chess.com Improvement Challenge Now!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125970655.cms\" />Indian chess stalwarts Viswanathan Anand and Koneru Humpy faced defeats in the Global Chess League. Meanwhile, the UpGrad Mumba Masters launched their campaign with a dominant 17-4 victory over Anand's Ganges Grandmasters. Top Indian Grandmasters Gukesh D, Arjun Erigaisi, and Praggnanandhaa R secured draws in their respective matches.",
