@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There is a certain simplicity in how meaningful initiatives begin. In this article, we look at one such story that started with four schoolboys and a game they loved. Aaditya, Nehan, Krish and Vivaan are young chess players from Mumbai who chose to share the joy of chess with more people. They named the initiative Chess4Change. It began as a few teaching sessions at the AngelXpress Foundation in Sewri and slowly grew into something larger, moving from in-person workshops to online sessions, and later into partnerships that helped distribute chess sets in tribal schools and paediatric care centres. | Photo: Mid-day",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/schoolboys-chess-impact",
+         "pubDate" : "Sat, 27 Dec 2025 20:00:00",
+         "title" : "How four schoolboys are using chess for social impact"
+      },
+      {
          "description" : "We face one big dilemma in nearly all aspects of our lives: the easy and fun stuff is bad for us, while the difficult and boring things are good for us. If we manage to do at least some of the latter, the quality of our lives will improve. But the question is, how? A []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -18,6 +26,14 @@ news_feed (
          "title" : "World Rapid Championships - Live!"
       },
       {
+         "description" : "GMs Vladislav Artemiev and Hans Niemann lead the 2025 FIDE World Rapid Chess Championship after day two with 7.5 points out of nine games. A half-point behind are four players: GM Magnus Carlsen, who bounced back from losing against Artemiev in ro...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-rapid-chess-championship-day-2",
+         "pubDate" : "Sat, 27 Dec 2025 09:45:00",
+         "title" : "Artemiev Beats Carlsen, Leads With Niemann; Humpy Catches Zhu In Women's"
+      },
+      {
          "description" : "There are chess puzzles which only consist of a line of text, asking you to construct a position or a game that it describes. Some can be awesomely difficult, like the puzzle we first posted 41 years ago. Two world champions were not able to solve it. We tell you about that, and present a new ones, not quite as tough, for you to solve.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,22 +48,6 @@ news_feed (
          "link" : "https://aicf.in/dgt-live-games-link-athens-of-east-5th-gm-open/",
          "pubDate" : "Sat, 27 Dec 2025 06:38:30",
          "title" : "DGT Live games link - Athens of East 5th GM Open"
-      },
-      {
-         "description" : "The World Rapid Championship began in Doha with five rounds in the open and four in the women's event, producing clear early reference points without deciding the race. Magnus Carlsen, Gukesh Dommaraju, Maxime Vachier-Lagrave, Arjun Erigaisi and Vladislav Artemiev share the lead in the open section, while Zhu Jiner (pictured) emerged as the sole leader in the women's tournament. | Photo: FIDE / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-1",
-         "pubDate" : "Sat, 27 Dec 2025 06:35:00",
-         "title" : "World Rapid: Carlsen and Gukesh among co-leaders in the open, Zhu with perfect start in the women's"
-      },
-      {
-         "description" : "This article presents a curated selection of the most instructive endgames of the year, chosen by renowned endgame specialist Karsten M&uuml;ller. Drawing on examples from elite tournaments and beyond, the collection highlights the enduring relevance of endgame technique in modern chess, with contributions from players such as Magnus Carlsen and reigning world champion Gukesh Dommaraju.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/best-endgames-2025",
-         "pubDate" : "Fri, 26 Dec 2025 21:00:00",
-         "title" : "The best endgames of 2025!"
       },
       {
          "description" : "GM Bogdan-Daniel Deac profited the most from the absence of top GMs as he won the post-Christmas Freestyle Friday and its $400 first prize. The 24-year-old Romanian grandmaster edged out IM Eray Kilic and GM Jeffery Xiong on tiebreaks after all th...",
@@ -114,14 +114,6 @@ news_feed (
          "title" : "World Rapid and Blitz Championships 2025 - Games and Results"
       },
       {
-         "description" : "The FIDE World Rapid & Blitz Chess Championships 2025 will be held in Doha from 26 to 30 December, bringing together leading players from across the world in Open and Women's events. Played at Qatar University, the championships feature Swiss tournaments in Rapid and multi-stage competition in Blitz, with over €1,000,000 in prize money. The event marks Doha's return as host after nine years and concludes the international chess calendar. | Pictured: Classical chess world champion Gukesh Dommaraju | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-preview",
-         "pubDate" : "Thu, 25 Dec 2025 20:15:00",
-         "title" : "All eyes on Doha: Carlsen, Gukesh & co. meet at the World Rapid and Blitz Championships"
-      },
-      {
          "description" : "GM Magnus Carlsen says he enters the World Rapid &#38;amp; Blitz Championship with motivation and a determination to &#34;give it my all&#34; after several months of doubts over whether he would even take part in the events at all. The first day of the 2025...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -146,14 +138,6 @@ news_feed (
          "title" : "'Pragg is third favourite': Carlsen rates Candidates 2026 line-up"
       },
       {
-         "description" : "One of the world's most famous chess caf&eacute;s is Simpson's-in-the-Strand in London, which is also among the city's best-known restaurants. It was here that the \"Immortal Game\" was played. After several years of closure, the historic venue has now reopened - and chess will once again be played there on a regular basis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-tradition-returns-to-simpson-s",
-         "pubDate" : "Thu, 25 Dec 2025 09:00:00",
-         "title" : "Chess Tradition Returns to Simpson's"
-      },
-      {
          "description" : "The Senior National Arbiter Seminar-cum-Examination was organized by the All Assam Chess Association on behalf of the All India Chess Federation at Hotel Fortune, near",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -176,14 +160,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/jonathan-hawkins-1983-2025",
          "pubDate" : "Wed, 24 Dec 2025 14:16:00",
          "title" : "Jonathan Hawkins 1983 - 2025 - 1983 - 2025"
-      },
-      {
-         "description" : "This video is a valuable chess lesson by IM Mkrtchian. Watch Lilit walk through a full \"real tournament\" prep routine in ChessBase 26. Find out how she scouts an opponent in the Mega Database, predict their openings, and steer the game into a line she specifically prepared. The payoff: a sharp Rossolimo move-order trap explained in a super teachable way, plus how she converts the advantage into a clean endgame win.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lilit-mkrtchian-s-best-games-of-2025-opening-preparation-that-actually-works",
-         "pubDate" : "Wed, 24 Dec 2025 11:00:00",
-         "title" : "Lilit Mkrtchian's Best Games of 2025 - Opening preparation that actually works"
       },
       {
          "description" : "The ECF Office will close at 4.30pm on Christmas Eve (24/12/25) and re-open at 9.30am on Monday 29/12/25. Very best wishes from Debra, Melinda, Andrew and Christine! &#160;",
@@ -616,14 +592,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-north-american-junior-championships",
          "pubDate" : "Tue, 16 Dec 2025 00:00:00",
          "title" : "Tactics Tuesday: North American Junior Championships"
-      },
-      {
-         "description" : "GM Alireza Firouzja took down World Champion Gukesh Dommaraju as Triveni Continental Kings won 15-3 to stay perfect on day two of the Tech Mahindra Global Chess League 2025. Other team leaders had mixed days. GM Hikaru Nakamura beat GM Maxime Vach...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-2",
-         "pubDate" : "Mon, 15 Dec 2025 13:22:00",
-         "title" : "Firouzja, Mamedyarov Star As Mumba Masters, Continental Kings Stay Perfect"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125970655.cms\" />Indian chess stalwarts Viswanathan Anand and Koneru Humpy faced defeats in the Global Chess League. Meanwhile, the UpGrad Mumba Masters launched their campaign with a dominant 17-4 victory over Anand's Ganges Grandmasters. Top Indian Grandmasters Gukesh D, Arjun Erigaisi, and Praggnanandhaa R secured draws in their respective matches.",
