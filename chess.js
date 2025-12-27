@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We face one big dilemma in nearly all aspects of our lives: the easy and fun stuff is bad for us, while the difficult and boring things are good for us. If we manage to do at least some of the latter, the quality of our lives will improve. But the question is, how? A []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/build-better-chess-training-systems/",
+         "pubDate" : "Sat, 27 Dec 2025 14:00:00",
+         "title" : "Don't be disciplined - build systems that work"
+      },
+      {
          "description" : "The FIDE World Rapid Championships are taking place in Doha from 26 to 28 December, bringing together leading players from across the world in Open and Women's events. Played at Qatar University, the competitions are played as 13-round (Open) and 11-round (Women's) Swiss opens. | Follow the action live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -784,22 +792,6 @@ news_feed (
          "link" : "https://www.thearticle.com/hypocrisy-fights-back/",
          "pubDate" : "Sun, 07 Dec 2025 16:31:27",
          "title" : "Hypocrisy fights back"
-      },
-      {
-         "description" : " Jamaica, an island of almost three million, was devastated by Hurricane Melissa, a Category 5 storm that reached sustained winds of 185mph (and gusts over 250 mph). The hurricane created storm surges of up to 12 feet, flooding many parts of the tourist haven. Forming as an &#8220;extratropical cyclone&#8221; in late October, an area called The post <a href=\"https://thechessdrum.net/blog/2025/12/06/chess-in-jamaica-recovering-from-melissa/\">Chess in Jamaica recovering from Melissa</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/12/06/chess-in-jamaica-recovering-from-melissa/",
-         "pubDate" : "Sat, 06 Dec 2025 15:42:49",
-         "title" : "Chess in Jamaica recovering from Melissa"
-      },
-      {
-         "description" : "Analyzing your games can be so powerful when done right. But sadly, in practice, it is overwhelming many chess improvers. Today, I want to share a mindset shift that makes it much easier and more focused on skills, not knowledge. Endless opportunities for improvement = overhwelm The key component that can throw you off []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/mindset-for-game-analysis/",
-         "pubDate" : "Sat, 06 Dec 2025 14:00:00",
-         "title" : "The Right Mindset For Game Analysis"
       }
    ]
 }
