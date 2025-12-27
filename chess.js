@@ -39,7 +39,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-rapid-chess-championship-day-1",
          "pubDate" : "Fri, 26 Dec 2025 10:54:00",
-         "title" : "Carlsen, Gukesh, Arjun, Vachier-Lagrave, Artemiev, Share Lead"
+         "title" : "Carlsen, Gukesh, Arjun, Vachier-Lagrave, Artemiev Share Lead"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126188012.cms\" />Magnus Carlsen has returned for the 2025 FIDE World Rapid &amp; Blitz Championships in Doha, held from December 26 to 30 with a €1 million prize fund. The world number one said personal and family ties with the Qatar organisers were central to his decision. His relationship with FIDE remains strained after last year's \"jeansgate\" controversy.",
