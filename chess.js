@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There are chess puzzles which only consist of a line of text, asking you to construct a position or a game that it describes. Some can be awesomely difficult, like the puzzle we first posted 41 years ago. Two world champions were not able to solve it. We tell you about that, and present a new ones, not quite as tough, for you to solve.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-03-dec-27",
+         "pubDate" : "Sat, 27 Dec 2025 09:00:00",
+         "title" : "Christmas Puzzles 3 - Just some text"
+      },
+      {
+         "description" : "Please find the link Athens of the East 5th International Grandmaster Open Chess Tournament (Category-B) Below 2000 https://view.livechesscloud.com/#19d54582-ec54-45a4-98db-d9511f192b6b",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/dgt-live-games-link-athens-of-east-5th-gm-open/",
+         "pubDate" : "Sat, 27 Dec 2025 06:38:30",
+         "title" : "DGT Live games link - Athens of East 5th GM Open"
+      },
+      {
+         "description" : "The World Rapid Championship began in Doha with five rounds in the open and four in the women's event, producing clear early reference points without deciding the race. Magnus Carlsen, Gukesh Dommaraju, Maxime Vachier-Lagrave, Arjun Erigaisi and Vladislav Artemiev share the lead in the open section, while Zhu Jiner (pictured) emerged as the sole leader in the women's tournament. | Photo: FIDE / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-1",
+         "pubDate" : "Sat, 27 Dec 2025 06:35:00",
+         "title" : "World Rapid: Carlsen and Gukesh among co-leaders in the open, Zhu with perfect start in the women's"
+      },
+      {
          "description" : "This article presents a curated selection of the most instructive endgames of the year, chosen by renowned endgame specialist Karsten M&uuml;ller. Drawing on examples from elite tournaments and beyond, the collection highlights the enduring relevance of endgame technique in modern chess, with contributions from players such as Magnus Carlsen and reigning world champion Gukesh Dommaraju.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-anish-giri-or-hikaru-nakamura-richrd-rapport-reveals-his-pick-for-candidates-2026-exclusive/articleshow/126190341.cms",
          "pubDate" : "Fri, 26 Dec 2025 12:51:38",
          "title" : "Pragg, Giri or Nakamura? Rapport reveals pick for Candidates | Exclusive"
-      },
-      {
-         "description" : "The FIDE World Rapid Championships are taking place in Doha from 26 to 28 December, bringing together leading players from across the world in Open and Women's events. Played at Qatar University, the competitions are played as 13-round (Open) and 11-round (Women's) Swiss opens. | Follow the action live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-live",
-         "pubDate" : "Fri, 26 Dec 2025 11:45:00",
-         "title" : "World Rapid Championships - Live!"
       },
       {
          "description" : "GMs Magnus Carlsen, Gukesh Dommaraju, Arjun Erigaisi, Maxime Vachier-Lagrave, and Vladislav Artemiev lead the 2025 FIDE World Rapid Chess Championship with 4.5 points out of five games on the first day. The group of 15 players that trails them by ...",
