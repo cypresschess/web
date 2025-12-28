@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "These days it is not easy to challenge anyone with problems or studies. Loading the PGN and clicking Start will usually get you the solution in seconds. So we are trying to provide you with \"computer resistant\" puzzles in this year's Christmas Puzzle Week. Today the subject is taking back a move in a given position and looking for another move to fulfil the condition. As in this 100-year-old problem by Thomas Dawson: it requires you to take back one move and then mate the opponent in two. Can you think how?",
+         "description" : "The FIDE World Rapid Championships are taking place in Doha from 26 to 28 December, bringing together leading players from across the world in Open and Women's events. Played at Qatar University, the competitions are played as 13-round (Open) and 11-round (Women's) Swiss opens. | Follow the action live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-live",
+         "pubDate" : "Sun, 28 Dec 2025 11:45:00",
+         "title" : "World Rapid Championships - Live!"
+      },
+      {
+         "description" : "Day two of the World Rapid Championship in Doha reshaped both title races as the standings tightened near the top. In the Open section, Vladislav Artemiev (pictured) and Hans Niemann moved into a shared lead after nine rounds, closely followed by a strong chasing group. The women's event saw Humpy Koneru draw level with Zhu Jiner at the top, with several players still within striking distance ahead of the final day. | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-2",
+         "pubDate" : "Sun, 28 Dec 2025 11:05:00",
+         "title" : "World Rapid: Niemann and Artemiev share the lead"
+      },
+      {
+         "description" : "These days it is not easy to challenge anyone with problems or studies. Loading the PGN and clicking Start will usually get you the solution in seconds. So we are trying to provide you with \"computer resistant\" puzzles in this year's Christmas Puzzle Week. Today the subject is taking back a move in a given position and looking for a move to fulfil the condition. As in this 100-year-old problem by Thomas Dawson: it requires you to take back one move and then mate the opponent in two. Can you think how?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-04-dec-28",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/build-better-chess-training-systems/",
          "pubDate" : "Sat, 27 Dec 2025 14:00:00",
          "title" : "Don't be disciplined - build systems that work"
-      },
-      {
-         "description" : "The FIDE World Rapid Championships are taking place in Doha from 26 to 28 December, bringing together leading players from across the world in Open and Women's events. Played at Qatar University, the competitions are played as 13-round (Open) and 11-round (Women's) Swiss opens. | Follow the action live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-live",
-         "pubDate" : "Sat, 27 Dec 2025 11:45:00",
-         "title" : "World Rapid Championships - Live!"
       },
       {
          "description" : "GMs Vladislav Artemiev and Hans Niemann lead the 2025 FIDE World Rapid Chess Championship after day two with 7.5 points out of nine games. A half-point behind are four players: GM Magnus Carlsen, who bounced back from losing against Artemiev in ro...",
