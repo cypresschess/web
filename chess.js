@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "These days it is not easy to challenge anyone with problems or studies. Loading the PGN and clicking Start will usually get you the solution in seconds. So we are trying to provide you with \"computer resistant\" puzzles in this year's Christmas Puzzle Week. Today the subject is taking back a move in a given position and looking for another move to fulfil the condition. As in this 100-year-old problem by Thomas Dawson: it requires you to take back one move and then mate the opponent in two. Can you think how?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-04-dec-28",
+         "pubDate" : "Sun, 28 Dec 2025 09:00:00",
+         "title" : "Christmas Puzzles 4 - Retractors"
+      },
+      {
          "description" : "There is a certain simplicity in how meaningful initiatives begin. In this article, we look at one such story that started with four schoolboys and a game they loved. Aaditya, Nehan, Krish and Vivaan are young chess players from Mumbai who chose to share the joy of chess with more people. They named the initiative Chess4Change. It began as a few teaching sessions at the AngelXpress Foundation in Sewri and slowly grew into something larger, moving from in-person workshops to online sessions, and later into partnerships that helped distribute chess sets in tribal schools and paediatric care centres. | Photo: Mid-day",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
