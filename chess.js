@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On behalf of All India Chess Federation , MP Chess Adhoc is organizing Senior National Arbiter Seminar &#38; exam at Arera Club, Link Road No. 1,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-and-exam-in-bhopal-mp-on-10-11-january-2026/",
+         "pubDate" : "Sun, 28 Dec 2025 14:29:15",
+         "title" : "SNA seminar and Exam in Bhopal , MP on 10 & 11 January 2026"
+      },
+      {
          "description" : "The FIDE World Rapid Championships are taking place in Doha from 26 to 28 December, bringing together leading players from across the world in Open and Women's events. Played at Qatar University, the competitions are played as 13-round (Open) and 11-round (Women's) Swiss opens. | Follow the action live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
