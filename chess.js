@@ -10,6 +10,14 @@ news_feed (
          "title" : "How four schoolboys are using chess for social impact"
       },
       {
+         "description" : "German candidate and GM Matthias Bluebaum has etched his name into the annals of Bullet Brawl history after surging at the tail end of Saturday&#39;s event to win his maiden title. Bluebaum kept in contention for the $400 first prize with a nine-gam...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/matthias-bluebaum-wins-bullet-brawl-dec-27-2025",
+         "pubDate" : "Sat, 27 Dec 2025 19:13:00",
+         "title" : "Bluebaum Leapfrogs Tang, Claims 1st Bullet Brawl Title"
+      },
+      {
          "description" : "We face one big dilemma in nearly all aspects of our lives: the easy and fun stuff is bad for us, while the difficult and boring things are good for us. If we manage to do at least some of the latter, the quality of our lives will improve. But the question is, how? A []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -560,14 +568,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-3",
          "pubDate" : "Tue, 16 Dec 2025 12:29:00",
          "title" : "Anand Beats Gukesh As Leading Teams Lose On Global Chess League Day 3"
-      },
-      {
-         "description" : "By his own admission, it wasn&#39;t pretty, but GM Magnus Carlsen got the job done in Titled Tuesday on December 16, scoring 9.5 points to win outright despite a loss in the second round and a worse final position in the 11th round as he successfully ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-december-16-2025",
-         "pubDate" : "Tue, 16 Dec 2025 11:53:08",
-         "title" : "Carlsen Shakes Off Early Setback, Wins Another Titled Tuesday"
       },
       {
          "description" : "Please Find the DGT Live Games Links of respective categories, Open https://view.livechesscloud.com/#7fc18391-d457-47ed-b746-7d81569ab742 Girls&#160; https://view.livechesscloud.com/#3f18d208-71a6-4d65-984c-997d81c05444",
