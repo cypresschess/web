@@ -18,20 +18,28 @@ news_feed (
          "title" : "World Rapid Championships - Live!"
       },
       {
-         "description" : "Day two of the World Rapid Championship in Doha reshaped both title races as the standings tightened near the top. In the Open section, Vladislav Artemiev (pictured) and Hans Niemann moved into a shared lead after nine rounds, closely followed by a strong chasing group. The women's event saw Humpy Koneru draw level with Zhu Jiner at the top, with several players still within striking distance ahead of the final day. | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-2",
-         "pubDate" : "Sun, 28 Dec 2025 11:05:00",
-         "title" : "World Rapid: Niemann and Artemiev share the lead"
-      },
-      {
          "description" : "These days it is not easy to challenge anyone with problems or studies. Loading the PGN and clicking Start will usually get you the solution in seconds. So we are trying to provide you with \"computer resistant\" puzzles in this year's Christmas Puzzle Week. Today the subject is taking back a move in a given position and looking for a move to fulfil the condition. As in this 100-year-old problem by Thomas Dawson: it requires you to take back one move and then mate the opponent in two. Can you think how?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-04-dec-28",
          "pubDate" : "Sun, 28 Dec 2025 09:00:00",
          "title" : "Christmas Puzzles 4 - Retractors"
+      },
+      {
+         "description" : "GM Magnus Carlsen won his sixth world rapid championship title after winning the&#38;nbsp;2025 FIDE World Rapid Chess Championship a full point ahead of the field with 10.5/13. It&#39;s his 19th world championship title across three time controls and he e...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-goryachkina-win-2025-fide-world-rapid-chess-championships",
+         "pubDate" : "Sun, 28 Dec 2025 08:58:14",
+         "title" : "Carlsen, Goryachkina Win 2025 World Rapid Championships"
+      },
+      {
+         "description" : "Day two of the World Rapid Championship in Doha reshaped both title races as the standings tightened near the top. In the Open section, Vladislav Artemiev (pictured) and Hans Niemann moved into a shared lead after nine rounds, closely followed by a strong chasing group. The women's event saw Humpy Koneru draw level with Zhu Jiner at the top, with several players still within striking distance ahead of the final day. | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-2",
+         "pubDate" : "Sun, 28 Dec 2025 08:55:00",
+         "title" : "World Rapid: Niemann and Artemiev share the lead"
       },
       {
          "description" : "There is a certain simplicity in how meaningful initiatives begin. In this article, we look at one such story that started with four schoolboys and a game they loved. Aaditya, Nehan, Krish and Vivaan are young chess players from Mumbai who chose to share the joy of chess with more people. They named the initiative Chess4Change. It began as a few teaching sessions at the AngelXpress Foundation in Sewri and slowly grew into something larger, moving from in-person workshops to online sessions, and later into partnerships that helped distribute chess sets in tribal schools and paediatric care centres. | Photo: Mid-day",
@@ -586,14 +594,6 @@ news_feed (
          "title" : "Wednesday Workout: North American Junior Championships"
       },
       {
-         "description" : "GM Viswanathan Anand&#39;s win over GM Gukesh Dommaraju helped the Ganges Grandmasters join a four-way tie for the lead in the Tech Mahindra Global Chess League 2025. Both leading teams lost, despite big wins on top board for GM Alireza Firouzja, over...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-3",
-         "pubDate" : "Tue, 16 Dec 2025 12:29:00",
-         "title" : "Anand Beats Gukesh As Leading Teams Lose On Global Chess League Day 3"
-      },
-      {
          "description" : "Please Find the DGT Live Games Links of respective categories, Open https://view.livechesscloud.com/#7fc18391-d457-47ed-b746-7d81569ab742 Girls&#160; https://view.livechesscloud.com/#3f18d208-71a6-4d65-984c-997d81c05444",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -776,14 +776,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-and-exam-in-madurai-tamil-nadu-on-27-28-december-2025/",
          "pubDate" : "Mon, 08 Dec 2025 12:03:20",
          "title" : "SNA seminar and Exam in Madurai ,Tamil Nadu on 27 & 28 December 2025"
-      },
-      {
-         "description" : "The great world chess champion Emanuel Lasker famously pronounced that hypocrisy and lies do not last long on the chessboard. Sadly, they seem to be flourishing in other walks of life. Rachel Millward, deputy leader of the Green Party, has been widely criticised for opposing a new asylum shelter in Crowborough, East Sussex, near her []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/hypocrisy-fights-back/",
-         "pubDate" : "Sun, 07 Dec 2025 16:31:27",
-         "title" : "Hypocrisy fights back"
       }
    ]
 }
