@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "In rotary problems the board is rotated by 180 ° for a second position with a different solution. It is usually pawns that make a different when you turn the board around. Or the king/queen positions, or castling is involved. Can one devise problems where these factors do not play a role? Yes one can, as our expert for out-of-the-box problems, Werner Keym, proves.",
+         "description" : "After rapid comes blitz: the Blitz World Championships begin today in Doha at 14.00 local time. The open event features 19 rounds (13 on Monday, six on Tuesday), after which the top four players will fight for the title in a knockout format. The women's event consists of 15 rounds, with the top four likewise advancing to a knockout stage. The time control throughout is 3+2. | Follow the action live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-05-dec-29",
-         "pubDate" : "Mon, 29 Dec 2025 09:00:00",
-         "title" : "Christmas Puzzles 5 - Rotary problems"
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-live",
+         "pubDate" : "Mon, 29 Dec 2025 11:57:56",
+         "title" : "World Blitz Championships - Live!"
+      },
+      {
+         "description" : "Please find certificates here Rank Name 1 Nandhidhaa P V 2 Mary Ann Gomes 3 Arshiya Das 4 Shubhi Gupta 5 Kalyani Sirin 6 Pandey",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-national-women-chess-championship-in-durgapur-wb-from-03-13-dec-2025/",
+         "pubDate" : "Mon, 29 Dec 2025 11:41:47",
+         "title" : "Certificate :National Women Chess Championship in Durgapur, WB from 03-13 Dec 2025"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126229445.cms\" />Seven-year-old Pragnika Vaka Lakshmi, Under-7 Girls champion at the FIDE World Schools Chess Championship 2025, met PM Narendra Modi after winning gold for India on Friday. From learning chess during COVID to rapid success, she shows rare courage and discipline. Backed by family sacrifices, scholarships, and offline coaching, she balances school, training, and dreams of becoming the best chess player worldwide.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-champion-at-7-in-her-first-international-event-nervous-while-meeting-pm-modi-how-pragnika-lakshmi-became-a-chess-prodigy/articleshow/126229445.cms",
+         "pubDate" : "Mon, 29 Dec 2025 11:18:56",
+         "title" : "World champ at 7; 'nervous' while meeting PM Modi: How Pragnika became prodigy"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126225866.cms\" />Magnus Carlsen's 2009 World Blitz performance at 18 remains legendary, dominating an elite field with unprecedented dominance. He achieved an astonishing 8-0 score against top rivals like Anand and Kramnik, showcasing utterly unbelievable chess. This remarkable feat, with 28 wins from 42 games, set a benchmark for teenage chess brilliance.",
@@ -224,14 +240,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/jonathan-hawkins-1983-2025",
          "pubDate" : "Wed, 24 Dec 2025 14:16:00",
          "title" : "Jonathan Hawkins 1983 - 2025 - 1983 - 2025"
-      },
-      {
-         "description" : "The ECF Office will close at 4.30pm on Christmas Eve (24/12/25) and re-open at 9.30am on Monday 29/12/25. Very best wishes from Debra, Melinda, Andrew and Christine! &#160;",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-office-hours-over-christmas/",
-         "pubDate" : "Wed, 24 Dec 2025 09:35:56",
-         "title" : "ECF Office hours over Christmas"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126154309.cms\" />Alpine SG Pipers clinched the Global Chess League title in Mumbai, defeating Triveni Continental Kings 4-0 in a decisive final. Key wins from Anish Giri, Rameshbabu Praggnanandhaa, and Leon Luke Mendonca secured the championship for the Pipers. The third-place playoff saw PBG Alaskan Knights emerge victorious over Ganges Grandmasters after tie-breaks.",
@@ -690,14 +698,6 @@ news_feed (
          "title" : "Make A Mistake? Do This."
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125932804.cms\" />The evolution of the chess queen finds a parallel in rural India, where the \"Checkmate Betul\" initiative, launched by US-based Avika Shukla, offers free, structured chess training to girls with no prior access. The programme, run by an all-girl global team, is helping students gain confidence, focus and new skills while overcoming significant logistical hurdles.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-rise-of-queen-from-ages-8-to-18-how-an-all-girl-team-is-bringing-free-chess-to-rural-india/articleshow/125932804.cms",
-         "pubDate" : "Fri, 12 Dec 2025 11:54:00",
-         "title" : "Rise of 'Queen': From ages 8 to 18, how an all-girl team is taking free chess to rural India"
-      },
-      {
          "description" : "IOC Summit reconfirmed all its recommendations and restrictions for Russian and Belarusian players and teams over 18. Ahead of the upcoming FIDE General Assembly, and in response to press coverage regarding IOC recommendations for Russian and Belarusian athletes and teams, ECU wish to inform precisely its members: The 14th Olympic IOC Summit met on 11th December 2025 in Lausanne and updated its policy and recommendations regarding the Russian and Belarussian sports federations and athletes. The recommendations of the IOC are []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -776,14 +776,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/nikolas-theodorou-wins-the-london-super-rapid",
          "pubDate" : "Mon, 8 Dec 2025 14:28:00",
          "title" : "Nikolas Theodorou wins the London Super Rapid - Rapid"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation , Tamil Nadu State Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Venue: Vallaba Vidyalaya CBSE School, Alagar",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-and-exam-in-madurai-tamil-nadu-on-27-28-december-2025/",
-         "pubDate" : "Mon, 08 Dec 2025 12:03:20",
-         "title" : "SNA seminar and Exam in Madurai ,Tamil Nadu on 27 & 28 December 2025"
       }
    ]
 }
