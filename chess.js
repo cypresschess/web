@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Some years ago, Alan McGowan published a remarkably comprehensive biography of the German chess writer Kurt Richter (born 24 February 1900, died 29 December 1969). But then McGowan encountered the fate of every biographer: he found new information. While it does not change the overall picture, it does lead to corrections in the details. A detective story on the anniversary of Kurt Richter's death.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-research-the-story-never-ends",
+         "pubDate" : "Mon, 29 Dec 2025 20:00:00",
+         "title" : "Chess Research - The Story Never Ends"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126235585.cms\" />World No. 1 Magnus Carlsen slammed the table after losing on time to India's Arjun Erigaisi at the World Blitz Championship in Doha. The ninth-round defeat, with Arjun playing black, was one of the tournament's biggest upsets and pushed him joint top on 7.5 points. It was Carlsen's latest emotional outburst.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-magnus-carlsen-slams-table-again-after-loss-to-indias-arjun-erigaisi-at-world-blitz-championship/articleshow/126235585.cms",
+         "pubDate" : "Mon, 29 Dec 2025 16:35:44",
+         "title" : "Watch: Carlsen slams table again after loss to India's Erigaisi"
+      },
+      {
          "description" : "After rapid comes blitz: the Blitz World Championships begin today in Doha at 14.00 local time. The open event features 19 rounds (13 on Monday, six on Tuesday), after which the top four players will fight for the title in a knockout format. The women's event consists of 15 rounds, with the top four likewise advancing to a knockout stage. The time control throughout is 3+2. | Follow the action live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-champion-at-7-in-her-first-international-event-nervous-while-meeting-pm-modi-how-pragnika-lakshmi-became-a-chess-prodigy/articleshow/126229445.cms",
          "pubDate" : "Mon, 29 Dec 2025 11:18:56",
          "title" : "World champ at 7; 'nervous' while meeting PM Modi: How Pragnika became prodigy"
+      },
+      {
+         "description" : "GMs Arjun Erigaisi, Maxime Vachier-Lagrave, and Fabiano Caruana lead the 2025 FIDE World Blitz Chess Championship with 10 points out of 13 games, with six rounds left in the Swiss portion. GM Magnus Carlsen, who dominated the rapid world champions...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-world-blitz-chess-championship-day-1",
+         "pubDate" : "Mon, 29 Dec 2025 10:05:52",
+         "title" : "Arjun, Vachier-Lagrave, Caruana Lead As Carlsen Falters"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126225866.cms\" />Magnus Carlsen's 2009 World Blitz performance at 18 remains legendary, dominating an elite field with unprecedented dominance. He achieved an astonishing 8-0 score against top rivals like Anand and Kramnik, showcasing utterly unbelievable chess. This remarkable feat, with 28 wins from 42 games, set a benchmark for teenage chess brilliance.",
@@ -578,14 +602,6 @@ news_feed (
          "title" : "Celebrate Another Great Year Of Chess By Voting For The 2025 Chess.com Awards"
       },
       {
-         "description" : "Twelve-year-old Argentinian chess prodigy IM Faustino Oro is one step closer to making history by becoming the youngest-ever grandmaster. On Tuesday, he scored another fantastic performance and achieved his second norm in Buenos Aires, Argentina. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/12-year-old-faustino-oro-edges-closer-to-youngest-ever-gm-title",
-         "pubDate" : "Wed, 17 Dec 2025 05:16:00",
-         "title" : "Faustino Oro Edges Closer To Youngest-Ever GM Title"
-      },
-      {
          "description" : "This week's puzzles come from the 2025 North American Junior Championships, where FM Julian Colville earned a GM norm and the IM title and WFM Laurie Qiu earned a WGM norm for their gold medals. Read more about this event here, and check out even more puzzles from this event in yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -648,14 +664,6 @@ news_feed (
          "link" : "https://www.thearticle.com/clutching-at-straws/",
          "pubDate" : "Sun, 14 Dec 2025 15:46:10",
          "title" : "Clutching at straws"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125951351.cms\" />The Global Chess League Season 3 has begun in Mumbai. Six teams will compete in 34 matches. Prominent chess players are participating. The league aims to popularize chess for a new generation. Spectators can enjoy an enhanced experience. Indian viewers can watch on JioStar. The tournament features elite competition in an exciting format.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-grew-up-without-increments-vishwanathan-anand-praises-global-chess-leagues-newest-addition-as-season-3-set-to-kick-off/articleshow/125951351.cms",
-         "pubDate" : "Sat, 13 Dec 2025 16:31:47",
-         "title" : "'I grew up without increments': Anand praises GCL's newest addition"
       },
       {
          "description" : "It is fascinating how principles that apply to chess improvement show up everyhwere in life. Past Sunday I played football with a friend group and realized just how much one single skill makes a huge difference. It is not how hard you shoot, how many players you can dribble or even how well you pass []",
