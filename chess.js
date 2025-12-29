@@ -2,20 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In rotary problems the board is rotated by 180 ° for a second position with a different solution. It is usually pawns that make a different when you turn the board around. Or the king/queen positions, or castling is involved. Can one devise problems where these factors do not play a role? Yes one can, as our expert for out-of-the-box problems, Werner Keym, proves.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-05-dec-29",
+         "pubDate" : "Mon, 29 Dec 2025 09:00:00",
+         "title" : "Christmas Puzzles 5 - Rotary problems"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126225866.cms\" />Magnus Carlsen's 2009 World Blitz performance at 18 remains legendary, dominating an elite field with unprecedented dominance. He achieved an astonishing 8-0 score against top rivals like Anand and Kramnik, showcasing utterly unbelievable chess. This remarkable feat, with 28 wins from 42 games, set a benchmark for teenage chess brilliance.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-king-carlsen-could-be-playing-for-his-9th-crown/articleshow/126225866.cms",
+         "pubDate" : "Mon, 29 Dec 2025 06:09:28",
+         "title" : "World Blitz: 'King' Carlsen could be playing for his 9th crown"
+      },
+      {
+         "description" : "The concluding day in Doha saw the World Rapid Championship take final shape after thirteen rounds in the open and eleven in the women's event. Magnus Carlsen won his sixth world rapid title, finishing a full point ahead of four players. Vladislav Artemiev and Arjun Erigaisi completed the podium on tiebreak scores. In the women's tournament, Aleksandra Goryachkina, Zhu Jiner and Humpy Koneru tied for first place. The title was settled in a blitz playoff, in which Goryachkina defeated Zhu by a 1&frac12;-&frac12; score to secure the title. | Photo: FIDE / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-3",
+         "pubDate" : "Mon, 29 Dec 2025 05:50:00",
+         "title" : "Carlsen and Goryachkina take gold at World Rapid Championships"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126224454.cms\" />Magnus Carlsen secured his sixth World Rapid Championship title in Doha after a strong comeback, winning five consecutive games. India's Arjun Erigaisi and Koneru Humpy also achieved podium finishes, winning bronze medals in their respective sections. Aleksandra Goryachkina claimed the women's title in a playoff.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-wins-sixth-rapid-world-title-koneru-humpy-joint-top-but-settles-for-bronze/articleshow/126224454.cms",
+         "pubDate" : "Mon, 29 Dec 2025 04:45:33",
+         "title" : "Magnus Carlsen wins sixth Rapid World title; Koneru Humpy joint top but settles for bronze"
+      },
+      {
          "description" : "On behalf of All India Chess Federation , MP Chess Adhoc is organizing Senior National Arbiter Seminar &#38; exam at Arera Club, Link Road No. 1,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/sna-seminar-and-exam-in-bhopal-mp-on-10-11-january-2026/",
          "pubDate" : "Sun, 28 Dec 2025 14:29:15",
          "title" : "SNA seminar and Exam in Bhopal , MP on 10 & 11 January 2026"
-      },
-      {
-         "description" : "The FIDE World Rapid Championships are taking place in Doha from 26 to 28 December, bringing together leading players from across the world in Open and Women's events. Played at Qatar University, the competitions are played as 13-round (Open) and 11-round (Women's) Swiss opens. | Follow the action live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-live",
-         "pubDate" : "Sun, 28 Dec 2025 11:45:00",
-         "title" : "World Rapid Championships - Live!"
       },
       {
          "description" : "These days it is not easy to challenge anyone with problems or studies. Loading the PGN and clicking Start will usually get you the solution in seconds. So we are trying to provide you with \"computer resistant\" puzzles in this year's Christmas Puzzle Week. Today the subject is taking back a move in a given position and looking for a move to fulfil the condition. As in this 100-year-old problem by Thomas Dawson: it requires you to take back one move and then mate the opponent in two. Can you think how?",
@@ -664,22 +688,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/recovering-from-chess-mistakes/",
          "pubDate" : "Sat, 13 Dec 2025 14:00:00",
          "title" : "Make A Mistake? Do This."
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125937054.cms\" />A complaint has been filed with FIDE against Sarwagya Singh Kushwaha, the youngest FIDE-rated chess player. The complaint alleges unfair means were used to secure his rating. His father and coach dismiss the claims as factional politics. Kushwaha secured victories against higher-ranked players in recent tournaments. Concerns are raised about opponents being from the same academy and tournament irregularities.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/complaint-filed-against-indias-youngest-fide-rated-chess-player-father-defends-three-year-old-prodigy/articleshow/125937054.cms",
-         "pubDate" : "Fri, 12 Dec 2025 17:01:20",
-         "title" : "Complaint filed against India's youngest FIDE-Rated chess player"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125936473.cms\" />The Global Chess League's third season kicks off in Mumbai with the American Gambits featuring Hikaru Nakamura as their Icon player. The team, boasting a strong lineup including World Rapid Champion Volodar Murzin, faces PBG Alaskan Knights in their opening match, a highly anticipated duel against World Champion Gukesh D.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-will-world-no-2-hikaru-nakamura-come-to-india-for-gcl-season-3-team-shares-update/articleshow/125936473.cms",
-         "pubDate" : "Fri, 12 Dec 2025 16:11:26",
-         "title" : "Will Hikaru come to India for GCL season 3? Team shares update"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125932804.cms\" />The evolution of the chess queen finds a parallel in rural India, where the \"Checkmate Betul\" initiative, launched by US-based Avika Shukla, offers free, structured chess training to girls with no prior access. The programme, run by an all-girl global team, is helping students gain confidence, focus and new skills while overcoming significant logistical hurdles.",
