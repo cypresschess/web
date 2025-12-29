@@ -34,14 +34,6 @@ news_feed (
          "title" : "World Blitz: 'King' Carlsen could be playing for his 9th crown"
       },
       {
-         "description" : "The concluding day in Doha saw the World Rapid Championship take final shape after thirteen rounds in the open and eleven in the women's event. Magnus Carlsen won his sixth world rapid title, finishing a full point ahead of four players. Vladislav Artemiev and Arjun Erigaisi completed the podium on tiebreak scores. In the women's tournament, Aleksandra Goryachkina, Zhu Jiner and Humpy Koneru tied for first place. The title was settled in a blitz playoff, in which Goryachkina defeated Zhu by a 1&frac12;-&frac12; score to secure the title. | Photo: FIDE / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-3",
-         "pubDate" : "Mon, 29 Dec 2025 05:50:00",
-         "title" : "Carlsen and Goryachkina take gold at World Rapid Championships"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126224454.cms\" />Magnus Carlsen secured his sixth World Rapid Championship title in Doha after a strong comeback, winning five consecutive games. India's Arjun Erigaisi and Koneru Humpy also achieved podium finishes, winning bronze medals in their respective sections. Aleksandra Goryachkina claimed the women's title in a playoff.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -72,22 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-goryachkina-win-2025-fide-world-rapid-chess-championships",
          "pubDate" : "Sun, 28 Dec 2025 08:58:00",
          "title" : "Carlsen, Goryachkina Win 2025 World Rapid Championships"
-      },
-      {
-         "description" : "Day two of the World Rapid Championship in Doha reshaped both title races as the standings tightened near the top. In the Open section, Vladislav Artemiev (pictured) and Hans Niemann moved into a shared lead after nine rounds, closely followed by a strong chasing group. The women's event saw Humpy Koneru draw level with Zhu Jiner at the top, with several players still within striking distance ahead of the final day. | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-2",
-         "pubDate" : "Sun, 28 Dec 2025 08:55:00",
-         "title" : "World Rapid: Niemann and Artemiev share the lead"
-      },
-      {
-         "description" : "There is a certain simplicity in how meaningful initiatives begin. In this article, we look at one such story that started with four schoolboys and a game they loved. Aaditya, Nehan, Krish and Vivaan are young chess players from Mumbai who chose to share the joy of chess with more people. They named the initiative Chess4Change. It began as a few teaching sessions at the AngelXpress Foundation in Sewri and slowly grew into something larger, moving from in-person workshops to online sessions, and later into partnerships that helped distribute chess sets in tribal schools and paediatric care centres. | Photo: Mid-day",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/schoolboys-chess-impact",
-         "pubDate" : "Sat, 27 Dec 2025 20:00:00",
-         "title" : "How four schoolboys are using chess for social impact"
       },
       {
          "description" : "German candidate and GM Matthias Bluebaum has etched his name into the annals of Bullet Brawl history after surging at the tail end of Saturday&#39;s event to win his maiden title. Bluebaum kept in contention for the $400 first prize with a nine-gam...",
@@ -586,14 +562,6 @@ news_feed (
          "title" : "Inaugural English Youth Championships 2026"
       },
       {
-         "description" : "Course dates/schedule - five Monday evenings from 7.00pm to 9.00pm - 12th January; 19th January; 26th January; 2nd February; 9th February Course fee - &pound;40; please note - participants must...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-level-1-arbiter-course-january-2026-online/",
-         "pubDate" : "Wed, 17 Dec 2025 09:55:50",
-         "title" : "ECF Level 1 Arbiter Course January 2026 (Online)"
-      },
-      {
          "description" : " from Carl Portman, ECF Manager for Chess in Prisons The prison HMP Littlehey is a large Category C men's prison in Cambridgeshire, England, specializing in holding adult males convicted...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -760,22 +728,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-and-exam-in-ahmedabad-on-02-03-january-2026/",
          "pubDate" : "Tue, 09 Dec 2025 09:12:43",
          "title" : " SNA seminar and Exam in Ahmedabad on 02 & 03 January 2026"
-      },
-      {
-         "description" : " The 15th XTX Markets London Chess Classic took place Wed 26th Nov to Sun 7th Dec 2025. Players: Alireza Firouzja, Luke Mcshane, Michael Adams, Nikolas Theodorou, Sam Shankland, Nodirbek Abdusattorov, Pavel Eljanov, Nikita Vitiugov, Abhimanyu Mishra and Gawain Maroroa Jones. Nodirbek Abdusattorov dominated the event scoring 7.5/9 and finished two points clear of Alireza Firouzja. The open saw Praggnanandhaa, Vladimir Ivic and Ameet Ghasi tie on 7/9. The Super Rapid was won by Nikolas Theodorou on 9/10 with Alireza Firouza half a point behind on 8.5 points.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/15th-xtx-markets-london-chess-classic-2025",
-         "pubDate" : "Mon, 8 Dec 2025 14:36:00",
-         "title" : "15th XTX Markets London Chess Classic 2025 - Games and Results"
-      },
-      {
-         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/15th-xtx-markets-london-chess-classic-2025\">15th XTX Markets London Chess Classic</a> concluded with the Super Rapidplay over the final weekend. All of the players who featured in the Elite tournament also played the rapid and most of them were in the final shakeup. Nikolas Theodorou emerged as a clear winner with a fantastic 9/10 score, run to the title was: win against Luke McShane, win against Leinier Dominguez, draw against Alireza Firouzja and then win against Nodirbek Abdusattorov in Round 10. Theodorou was born in Athens in 2000 and is 25 years old. He is Greece's top player and is at a career high right now having passed 2650 ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/nikolas-theodorou-wins-the-london-super-rapid",
-         "pubDate" : "Mon, 8 Dec 2025 14:28:00",
-         "title" : "Nikolas Theodorou wins the London Super Rapid - Rapid"
       }
    ]
 }
