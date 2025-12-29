@@ -26,11 +26,11 @@ news_feed (
          "title" : "Christmas Puzzles 4 - Retractors"
       },
       {
-         "description" : "GM Magnus Carlsen won his sixth world rapid championship title after winning the&#38;nbsp;2025 FIDE World Rapid Chess Championship a full point ahead of the field with 10.5/13. It&#39;s his 19th world championship title across three time controls and he e...",
+         "description" : "GM Magnus Carlsen has won his sixth world rapid championship title after winning the 2025 FIDE World Rapid Chess Championship a full point ahead of the field with 10.5/13. It&#39;s his 19th world championship title across three time controls and he ea...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-goryachkina-win-2025-fide-world-rapid-chess-championships",
-         "pubDate" : "Sun, 28 Dec 2025 08:58:14",
+         "pubDate" : "Sun, 28 Dec 2025 08:58:00",
          "title" : "Carlsen, Goryachkina Win 2025 World Rapid Championships"
       },
       {
