@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-12-28","15","<a href=https://ratings.uschess.org/event/202512280183 target='_blank'>Bellaire Sunday Swiss 2025.12.28</a>",
 "SUGAR LAND","2025-12-26","12","<a href=https://ratings.uschess.org/event/202512260233 target='_blank'>FBCC 2025 Slowpoke Open 1</a>",
 "SPRING","2025-12-26","24","<a href=https://ratings.uschess.org/event/202512260223 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2025-12-21","6","<a href=https://ratings.uschess.org/event/202512210403 target='_blank'>winter-12-21-2025</a>",
@@ -8,7 +9,10 @@ jtable([
 "HOUSTON","2025-12-20","6","<a href=https://ratings.uschess.org/event/202512200203 target='_blank'>chesspanda12202025saturday</a>",
 "HOUSTON","2025-12-20","20","<a href=https://ratings.uschess.org/event/202512200173 target='_blank'>DEC20TH TROPHY SCHOLASTIC</a>",
 "CYPRESS","2025-12-19","27","<a href=https://ratings.uschess.org/event/202512190123 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"HOUSTON","2025-12-18","2","<a href=https://ratings.uschess.org/event/202512180303 target='_blank'>Match Play AW v CL</a>",
+"HOUSTON","2025-12-16","2","<a href=https://ratings.uschess.org/event/202512160323 target='_blank'>Match Play AW v JB</a>",
 "HOUSTON","2025-12-14","12","<a href=https://ratings.uschess.org/event/202512140233 target='_blank'>Bellaire Sunday Swiss 2025.12.14</a>",
+"HOUSTON","2025-12-13","2","<a href=https://ratings.uschess.org/event/202512131523 target='_blank'>Match Play CLv AW  [2025-12-13], by Edgardo Francisco Acosta</a>",
 "HOUSTON","2025-12-13","360","<a href=https://ratings.uschess.org/event/202512131123 target='_blank'>MIMS TOURNAMENT DEC 2025</a>",
 "PASADENA","2025-12-12","22","<a href=https://ratings.uschess.org/event/202512120243 target='_blank'>Checkmates on Fairmont</a>",
 "SUGAR LAND","2025-12-12","14","<a href=https://ratings.uschess.org/event/202512120153 target='_blank'>FBCC 2025 International Pho Day Open</a>",
@@ -95,8 +99,4 @@ jtable([
 "SUGAR LAND","2025-09-20","78","<a href=https://ratings.uschess.org/event/202509203582 target='_blank'>FELLOWSHIP CHRISTIAN ACADEMY</a>",
 "HOUSTON","2025-09-20","9","<a href=https://ratings.uschess.org/event/202509202992 target='_blank'>CHESSPANDA09202025SATURDAY</a>",
 "CYPRESS","2025-09-20","37","<a href=https://ratings.uschess.org/event/202509202622 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SUGAR LAND","2025-09-19","21","<a href=https://ratings.uschess.org/event/202509192572 target='_blank'>FBCC 2025 TALK LIKE A PIRATE DAY OP</a>",
-"HOUSTON","2025-09-14","19","<a href=https://ratings.uschess.org/event/202509140382 target='_blank'>SEPT 14TH SUNDAY SWISS</a>",
-"HOUSTON","2025-09-14","6","<a href=https://ratings.uschess.org/event/202509140192 target='_blank'>BELLAIRE SUNDAY SWISS 09/14/2025</a>",
-"HOUSTON","2025-09-13","13","<a href=https://ratings.uschess.org/event/202509139212 target='_blank'>CHESSPANDA09132025SATURDAY</a>",
 ]);
