@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Tuesday marks the final day of the World Blitz Championships in Doha. Both the open and the women's sections will be decided in four-player knockouts once the first stage (Swiss opens lasting 19 and 15 rounds respectively) come to an end. The time control throughout is 3+2. | Follow the action live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-live",
+         "pubDate" : "Tue, 30 Dec 2025 11:55:00",
+         "title" : "World Blitz Championships - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126251468.cms\" />World No. 1 Magnus Carlsen once again found himself in the spotlight, not for his chess moves, but for his angry reaction at the board. The incident happened on Monday during the World Blitz Championship in Doha, after Carlsen lost to India's Arjun Erigaisi. Chris Bird, the arbiter who was on duty during the game, later explained what happened. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/such-acts-are-penalised-as-unsportsmanlike-behaviour-levon-aronian-blasts-magnus-carlsens-table-slam-after-loss-to-arjun-erigaisi/articleshow/126251468.cms",
+         "pubDate" : "Tue, 30 Dec 2025 11:29:10",
+         "title" : "'Unsportsmanlike behaviour': Aronian blasts Carlsen's table slam"
+      },
+      {
+         "description" : "Very many congratulations to Carl Portman, the ECF's Manager for Chess in Prisons, who has just received the Member of the Order of the British Empire (MBE) honour in the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/carl-portman-mbe/",
+         "pubDate" : "Tue, 30 Dec 2025 10:21:28",
+         "title" : "Carl Portman MBE"
+      },
+      {
          "description" : "In August 2019 I spent a week in France, at the training camp I had organized (together with ChessBase India) for young Indian super talents. Former world champion Vladimir Kramnik did the chess training, while I pestered the kids with logic puzzles. Most did not involve chess, but some did. Here are a couple for you.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -546,14 +570,6 @@ news_feed (
          "title" : "Firouzja On 5/5 As Triveni Continental Kings Grab Sole Lead"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126055624.cms\" />The Global Chess League is transforming the individual sport into a team setting, challenging the traditional solitary nature of chess. Players from diverse backgrounds are now sharing jerseys and coaches, fostering interaction and fun. This shift encourages communication and collaboration, proving that even in a fiercely competitive arena, greatness doesn't have to be a lonely pursuit.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/clash-of-egos-ideas-and-identities-is-gcl-breaking-the-stereotype-and-making-chess-players-talk-as-teams/articleshow/126055624.cms",
-         "pubDate" : "Thu, 18 Dec 2025 10:34:40",
-         "title" : "Clash of egos: Is GCL making chess players talk as teams?"
-      },
-      {
          "description" : " Charles Troutman III is a rising senior set to graduate from Washington University in May 2026. The Atlanta native has decided on a career in technology and is currently an intern at the design company Figma. Located in Silicon Valley, the company had a massive IPO in July, resulting in a $68 billion valuation, and The post <a href=\"https://thechessdrum.net/blog/2025/12/17/nm-charles-troutman-to-lead-washu-for-pan-ams/\">NM Charles Troutman to lead WashU for Pan-Ams</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-november-2025/",
          "pubDate" : "Thu, 11 Dec 2025 09:49:02",
          "title" : "ECU E-Magazine November 2025"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation , Gujarat State Chess Association is organizing Senior National Arbiter Seminar &#38; exam in The Gujarat State Co-operative Bank (GSC).Sardar Vallabhbhai",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-and-exam-in-ahmedabad-on-02-03-january-2026/",
-         "pubDate" : "Tue, 09 Dec 2025 09:12:43",
-         "title" : " SNA seminar and Exam in Ahmedabad on 02 & 03 January 2026"
       }
    ]
 }
