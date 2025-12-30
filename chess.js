@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In August 2019 I spent a week in France, at the training camp I had organized (together with ChessBase India) for young Indian super talents. Former world champion Vladimir Kramnik did the chess training, while I pestered the kids with logic puzzles. Most did not involve chess, but some did. Here are a couple for you.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-06-dec-30",
+         "pubDate" : "Tue, 30 Dec 2025 09:00:00",
+         "title" : "Christmas Puzzles 6 - cover the board!"
+      },
+      {
+         "description" : "The World Blitz Championship got under way in Doha with 13 rounds played in the open section and 10 in the women's event. Fabiano Caruana, Arjun Erigaisi and Maxime Vachier-Lagrave (pictured) share the lead in the Open tournament, while 19-year-old Eline Roebers heads the women's standings after the first day. With several rounds still remaining and only four knockout places available, the early standings leave plenty unresolved. | Photo: FIDE / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-4",
+         "pubDate" : "Tue, 30 Dec 2025 05:25:00",
+         "title" : "World Blitz: Arjun, Caruana and MVL lead in the open, Roebers shines among the women"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126243961.cms\" />Young Indian Grandmaster Arjun Erigaisi stunned World No. 1 Magnus Carlsen at the World Blitz Championship in Doha, a victory that saw Carlsen react with visible frustration. Erigaisi then surged to a sole lead after defeating co-leader Nodirbek Abdusattorov. Despite subsequent draws, he remains a strong contender, with Carlsen and others close behind.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-championship-magnus-carlsen-slams-table-this-time-after-loss-to-arjun-erigaisi/articleshow/126243961.cms",
+         "pubDate" : "Tue, 30 Dec 2025 04:31:12",
+         "title" : "World Blitz Championship: Magnus Carlsen slams table, this time after loss to Arjun Erigaisi"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126243753.cms\" />FIDE's unequal tie-break rules in the Women's World Rapid Championship potentially cost India a title. While the Open section allowed all top finishers to play tie-breaks, the Women's section limited it to the top two, impacting K Humpy's chance for gold. FIDE CEO's explanation citing player preferences failed to convince.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/how-arjun-erigaisi-broke-an-eight-year-jinx-to-storm-onto-the-world-rapid-podium/articleshow/126243659.cms",
          "pubDate" : "Tue, 30 Dec 2025 04:08:24",
          "title" : "How Arjun Erigaisi broke an eight-year jinx to storm onto the World Rapid podium"
+      },
+      {
+         "description" : "ESPN India's Athlete of the year is Divya Deshmukh, who just didn't stop winning in 2025.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/47416992/athlete-year-divya-deshmukh-does-not-stop-winning-stellar-2025",
+         "pubDate" : "Tue, 30 Dec 2025 00:05:20",
+         "title" : "Athlete of the Year: Divya Deshmukh does not stop winning in stellar 2025"
       },
       {
          "description" : "This video is a valuable chess lesson by IM Mkrtchian. Watch Lilit walk through a full \"real tournament\" prep routine in ChessBase 26. Find out how she scouts an opponent in the Mega Database, predict their openings, and steer the game into a line she specifically prepared. The payoff: a sharp Rossolimo move-order trap explained in a super teachable way, plus how she converts the advantage into a clean endgame win.",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-magnus-carlsen-slams-table-again-after-loss-to-indias-arjun-erigaisi-at-world-blitz-championship/articleshow/126235585.cms",
          "pubDate" : "Mon, 29 Dec 2025 16:35:44",
          "title" : "Watch: Carlsen slams table again after loss to India's Erigaisi"
-      },
-      {
-         "description" : "After rapid comes blitz: the Blitz World Championships begin today in Doha at 14.00 local time. The open event features 19 rounds (13 on Monday, six on Tuesday), after which the top four players will fight for the title in a knockout format. The women's event consists of 15 rounds, with the top four likewise advancing to a knockout stage. The time control throughout is 3+2. | Follow the action live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-live",
-         "pubDate" : "Mon, 29 Dec 2025 11:57:56",
-         "title" : "World Blitz Championships - Live!"
       },
       {
          "description" : "Please find certificates here Rank Name 1 Nandhidhaa P V 2 Mary Ann Gomes 3 Arshiya Das 4 Shubhi Gupta 5 Kalyani Sirin 6 Pandey",
@@ -512,14 +536,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-chess-offices-2025-26-holiday-closure-dates",
          "pubDate" : "Fri, 19 Dec 2025 00:00:00",
          "title" : "US Chess Offices 2025-26 Holiday Closure Dates"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126062710.cms\" />World Chess Champion Dommaraju Gukesh and Arjun Erigaisi secured Alaskan Knights' first victory, while Alireza Firouzja's flawless run propelled Continental Kings to the top of the Global Chess League standings at the halfway mark. The Continental Kings edged past Mumba Masters, and Alaskan Knights defeated SG Pipers in decisive matches.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-2025-d-gukesh-arjun-lead-alaskan-knights-to-first-win-alireza-firouzja-takes-continental-kings-to-top/articleshow/126062710.cms",
-         "pubDate" : "Thu, 18 Dec 2025 17:55:54",
-         "title" : "GCL 2025: Gukesh, Arjun lead Alaskan Knights to first win"
       },
       {
          "description" : "There&#39;s no stopping for GM Alireza Firouzja, who won his fifth game in a row on Thursday at the Tech Mahindra Global Chess League 2025, taking down his compatriot GM Maxime Vachier-Lagrave. With draws on all other boards, this game helped Triveni ...",
