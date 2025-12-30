@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126256403.cms\" />Arjun Erigaisi delivered a memorable performance at the World Rapid and Blitz Chess Championships 2025, winning bronze medals in both events. He became the first Indian since Viswanathan Anand to get podium finishes at both the championships. Despite semifinal losses to Nodirbek Abdusattorov, Arjun's strong showing in Doha highlighted his growing stature in world chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/history-for-india-arjun-erigaisi-becomes-first-since-viswanathan-anand-to-podium-in-world-rapid-blitz/articleshow/126256403.cms",
+         "pubDate" : "Tue, 30 Dec 2025 17:18:32",
+         "title" : "History! Erigaisi becomes first since Anand to podium in World Rapid &amp; Blitz"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126253989.cms\" />Magnus Carlsen lost his Round 14 game by forfeit at the World Blitz Championship in Doha after knocking over multiple pieces while under severe time pressure against Haik Martirosyan. The incident, his second outburst at the event, further dented his title hopes. Carlsen now sits fifth, struggling in Blitz despite recently winning a record sixth World Rapid title, as Arjun Erigaisi leads the standings.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -10,12 +18,28 @@ news_feed (
          "title" : "Chess drama! Carlsen knocks over pieces, handed defeat - Watch"
       },
       {
+         "description" : "Arjun Erigaisi became only the second Indian to win medals at both the world rapid and blitz championships in the same year",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/47453876/arjun-erigaisi-fide-world-rapid-blitz-medals-decisive-win-end-tough-year",
+         "pubDate" : "Tue, 30 Dec 2025 12:42:30",
+         "title" : "Arjun Erigaisi's World Rapid & Blitz medals are decisive wins to end tough year"
+      },
+      {
          "description" : "Tuesday marks the final day of the World Blitz Championships in Doha. Both the open and the women's sections will be decided in four-player knockouts once the first stage (Swiss opens lasting 19 and 15 rounds respectively) come to an end. The time control throughout is 3+2. | Follow the action live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-live",
          "pubDate" : "Tue, 30 Dec 2025 11:55:00",
          "title" : "World Blitz Championships - Live!"
+      },
+      {
+         "description" : "GM Vincent Keymer took home the last Titled Tuesday of 2025 on December 30, scoring 10/11 to become the first player to reach a double-digit score in the tournament since November 18. Only two players could win entering the final round, and Keymer...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/keymer-wins-titled-tuesday-december-30-2025",
+         "pubDate" : "Tue, 30 Dec 2025 11:41:00",
+         "title" : "Keymer Wraps Up Year With Titled Tuesday Victory"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126251468.cms\" />World No. 1 Magnus Carlsen once again found himself in the spotlight, not for his chess moves, but for his angry reaction at the board. The incident happened on Monday during the World Blitz Championship in Doha, after Carlsen lost to India's Arjun Erigaisi. Chris Bird, the arbiter who was on duty during the game, later explained what happened. ",
@@ -34,12 +58,28 @@ news_feed (
          "title" : "Carl Portman MBE"
       },
       {
+         "description" : "GM Magnus Carlsen has won the 2025 FIDE World Blitz Chess Championship by defeating GM Nodirbek Abdusattorov 2.5-1.5 in the final match. Along with &#38;euro;70,000, he earned his ninth world blitz title and 20th world championship title across all th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-assaubayeva-win-2025-fide-world-blitz-chess-championships",
+         "pubDate" : "Tue, 30 Dec 2025 10:09:00",
+         "title" : "Carlsen Wins 20th World Title, Assaubayeva Now 3-Time Women's Blitz Champion"
+      },
+      {
          "description" : "In August 2019 I spent a week in France, at the training camp I had organized (together with ChessBase India) for young Indian super talents. Former world champion Vladimir Kramnik did the chess training, while I pestered the kids with logic puzzles. Most did not involve chess, but some did. Here are a couple for you.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-06-dec-30",
          "pubDate" : "Tue, 30 Dec 2025 09:00:00",
          "title" : "Christmas Puzzles 6 - cover the board!"
+      },
+      {
+         "description" : "We&#39;re excited to announce the 2026 cycle of the Chess.com Community Championships! The series kicks off in January with the Chess.com Puzzles Championship and will feature 12 events in total, with a $37,500 prize fund. As always, the Championshi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-2026-chesscom-community-championships",
+         "pubDate" : "Tue, 30 Dec 2025 08:50:53",
+         "title" : "2026 Chess.com Community Championships Cycle Starts This January"
       },
       {
          "description" : "The World Blitz Championship got under way in Doha with 13 rounds played in the open section and 10 in the women's event. Fabiano Caruana, Arjun Erigaisi and Maxime Vachier-Lagrave (pictured) share the lead in the Open tournament, while 19-year-old Eline Roebers heads the women's standings after the first day. With several rounds still remaining and only four knockout places available, the early standings leave plenty unresolved. | Photo: FIDE / Lennart Ootes",
@@ -146,7 +186,7 @@ news_feed (
          "title" : "Magnus Carlsen wins sixth Rapid World title; Koneru Humpy joint top but settles for bronze"
       },
       {
-         "description" : "Rating Fee Increase Effective January 1US Chess will increase the per-game rating fee from 25 cents to 30 cents on Jan. 1, 2026, and from 30 cents to 35 cents per game on July 1. A plan for future adjustments will be discussed at the 2026 Delegates Meeting held in conjunction with the 2026 U.S. Open in Grand Rapids, MI. The Executive Board unanimously approved this change at its Dec. 9, 2025 meeting.The rating system is a core US Chess service, processing millions of games each year. Operating this system requires staff, technical resources, and ongoing investment, including continued development of the new MUIR system. Demand for timely and accurate ratings has increased, while the per-game",
+         "description" : "Rating Fee Increase Effective January 1US Chess will increase the over-the-board per-game rating fee from 25 cents to 30 cents on Jan. 1, 2026, and from 30 cents to 35 cents per game on July 1. A plan for future adjustments will be discussed at the 2026 Delegates Meeting held in conjunction with the 2026 U.S. Open in Grand Rapids, MI. The Executive Board unanimously approved this change at its Dec. 9, 2025 meeting.The rating system is a core US Chess service, processing millions of games each year. Operating this system requires staff, technical resources, and ongoing investment, including continued development of the new MUIR system. Demand for timely and accurate ratings has increased, whi",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/rating-fee-increase-effective-january-1",
@@ -466,14 +506,6 @@ news_feed (
          "title" : "Inside Story: Daniel Naroditsky (1995-2025)"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126107633.cms\" />Hou Yifan secured two crucial wins for SG Pipers. This propelled the team to second place in the Global Chess League standings. Defending champions Continental Kings have confirmed their spot in the final. Mumba Masters faced a significant setback, losing both their matches. The race for the second final position intensifies as teams vie for a place.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-d-gukesh-loses-to-maxime-vachier-lagrave-but-his-team-alaskan-knights-win-continental-kings-enter-final/articleshow/126107633.cms",
-         "pubDate" : "Sun, 21 Dec 2025 17:24:13",
-         "title" : "GCL: Gukesh loses to MVL, but his team wins; Continental Kings enter final"
-      },
-      {
          "description" : "GM Alireza Firouzja won a dramatic game against GM Viswanathan Anand as the Triveni Continental Kings beat the Ganges Grandmasters 14-5 to cruise into the Tech Mahindra Global Chess League 2025 Final. Who they face will be decided on Monday&#39;s fina...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -562,14 +594,6 @@ news_feed (
          "title" : "US Chess Offices 2025-26 Holiday Closure Dates"
       },
       {
-         "description" : "There&#39;s no stopping for GM Alireza Firouzja, who won his fifth game in a row on Thursday at the Tech Mahindra Global Chess League 2025, taking down his compatriot GM Maxime Vachier-Lagrave. With draws on all other boards, this game helped Triveni ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-5",
-         "pubDate" : "Thu, 18 Dec 2025 13:15:58",
-         "title" : "Firouzja On 5/5 As Triveni Continental Kings Grab Sole Lead"
-      },
-      {
          "description" : " Charles Troutman III is a rising senior set to graduate from Washington University in May 2026. The Atlanta native has decided on a career in technology and is currently an intern at the design company Figma. Located in Silicon Valley, the company had a massive IPO in July, resulting in a $68 billion valuation, and The post <a href=\"https://thechessdrum.net/blog/2025/12/17/nm-charles-troutman-to-lead-washu-for-pan-ams/\">NM Charles Troutman to lead WashU for Pan-Ams</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -610,14 +634,6 @@ news_feed (
          "title" : "Final Report:51st National Women's Chess Championship 2025 in Durgapur from 03-13 Dec 2025"
       },
       {
-         "description" : "GM Alireza Firouzja won his fourth consecutive game in the Tech Mahindra Global Chess League 2025 as he took down GM Viswanathan Anand to help Triveni Continental Kings to an 11-6 bounce-back win over the Ganges Grandmasters. That came despite GM ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-4",
-         "pubDate" : "Wed, 17 Dec 2025 11:59:20",
-         "title" : "Firouzja Storms To 4/4 As Continental Kings, Mumba Masters Hit Back"
-      },
-      {
          "description" : "The ECF condemns the conduct of the FIDE Congress staged online last Sunday. There were multiple abuses of process, not least, conducting the vote on Russian teams in secret was...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -656,14 +672,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/visit-to-hmp-littlehey-on-10-december-2025/",
          "pubDate" : "Wed, 17 Dec 2025 09:12:49",
          "title" : "Visit to HMP Littlehey on 10 December 2025"
-      },
-      {
-         "description" : "Another year has gone by, and chess keeps getting bigger and bigger! Coming from a sequence of record-breaking years for chess, it was hard to believe that 2025 could be even better. But after a year of dramatic events, newsworthy viral moments, a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-chesscom-awards-vote",
-         "pubDate" : "Wed, 17 Dec 2025 08:00:00",
-         "title" : "Celebrate Another Great Year Of Chess By Voting For The 2025 Chess.com Awards"
       },
       {
          "description" : "This week's puzzles come from the 2025 North American Junior Championships, where FM Julian Colville earned a GM norm and the IM title and WFM Laurie Qiu earned a WGM norm for their gold medals. Read more about this event here, and check out even more puzzles from this event in yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
