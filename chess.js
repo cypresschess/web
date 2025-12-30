@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126243753.cms\" />FIDE's unequal tie-break rules in the Women's World Rapid Championship potentially cost India a title. While the Open section allowed all top finishers to play tie-breaks, the Women's section limited it to the top two, impacting K Humpy's chance for gold. FIDE CEO's explanation citing player preferences failed to convince.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/different-chess-playoff-rule-for-women-makes-little-sense/articleshow/126243753.cms",
+         "pubDate" : "Tue, 30 Dec 2025 04:20:26",
+         "title" : "Different chess playoff rule for women makes little sense"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126243659.cms\" />Arjun Erigaisi finally broke his world championship jinx, securing a coveted podium finish at the World Rapid Championship. After years of near-misses, the young Indian chess prodigy showcased remarkable resilience, overcoming setbacks to clinch a bronze medal. This achievement marks a significant milestone, placing him alongside Viswanathan Anand as a decorated Indian player on the world stage.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-arjun-erigaisi-broke-an-eight-year-jinx-to-storm-onto-the-world-rapid-podium/articleshow/126243659.cms",
+         "pubDate" : "Tue, 30 Dec 2025 04:08:24",
+         "title" : "How Arjun Erigaisi broke an eight-year jinx to storm onto the World Rapid podium"
+      },
+      {
          "description" : "This video is a valuable chess lesson by IM Mkrtchian. Watch Lilit walk through a full \"real tournament\" prep routine in ChessBase 26. Find out how she scouts an opponent in the Mega Database, predict their openings, and steer the game into a line she specifically prepared. The payoff: a sharp Rossolimo move-order trap explained in a super teachable way, plus how she converts the advantage into a clean endgame win.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -648,22 +664,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-north-american-junior-championships",
          "pubDate" : "Tue, 16 Dec 2025 00:00:00",
          "title" : "Tactics Tuesday: North American Junior Championships"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125970655.cms\" />Indian chess stalwarts Viswanathan Anand and Koneru Humpy faced defeats in the Global Chess League. Meanwhile, the UpGrad Mumba Masters launched their campaign with a dominant 17-4 victory over Anand's Ganges Grandmasters. Top Indian Grandmasters Gukesh D, Arjun Erigaisi, and Praggnanandhaa R secured draws in their respective matches.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/hosts-mumba-start-gcl-season-3-in-style/articleshow/125970655.cms",
-         "pubDate" : "Mon, 15 Dec 2025 04:40:49",
-         "title" : "Hosts Mumba start GCL season 3 in style"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125963044.cms\" />Mumba Masters dominated Ganges Grandmasters with a 17-4 win. Defending champions Triveni Continental Kings started their title defence with a 9-7 victory over SG Pipers. Alireza Firouzja won a key match for the Kings. The Global Chess League Season 3 has begun with exciting clashes and strong performances from top players. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-2025-d-gukesh-vs-hikaru-nakamura-ends-in-draw-triveni-continental-kings-begin-title-defence-with-a-win/articleshow/125963044.cms",
-         "pubDate" : "Sun, 14 Dec 2025 16:27:19",
-         "title" : "GCL: Gukesh vs Hikaru ends in draw; TCK begin title defence with a win"
       },
       {
          "description" : "There are moments in the world of chess when one cannot help sensing a faint whiff of desperation-an anxious rustling among those determined to preserve Magnus Carlsen's reputation as the game's supreme being, yet without the inconvenience of his actually contesting world championships again. His admirers, indefatigable in their devotion, seem ready to clutch at []",
