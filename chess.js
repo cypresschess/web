@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126253989.cms\" />Magnus Carlsen lost his Round 14 game by forfeit at the World Blitz Championship in Doha after knocking over multiple pieces while under severe time pressure against Haik Martirosyan. The incident, his second outburst at the event, further dented his title hopes. Carlsen now sits fifth, struggling in Blitz despite recently winning a record sixth World Rapid title, as Arjun Erigaisi leads the standings.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-drama-magnus-carlsen-knocks-over-pieces-handed-defeat-at-world-blitz-championship-watch/articleshow/126253989.cms",
+         "pubDate" : "Tue, 30 Dec 2025 14:01:02",
+         "title" : "Chess drama! Carlsen knocks over pieces, handed defeat - Watch"
+      },
+      {
          "description" : "Tuesday marks the final day of the World Blitz Championships in Doha. Both the open and the women's sections will be decided in four-player knockouts once the first stage (Swiss opens lasting 19 and 15 rounds respectively) come to an end. The time control throughout is 3+2. | Follow the action live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -520,14 +528,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-wins-freestyle-friday-december-19-2025",
          "pubDate" : "Fri, 19 Dec 2025 11:40:32",
          "title" : "Field Can Only Contain Freestyle Friday Winner Carlsen For So Long"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126075338.cms\" />Raunak Sadhwani became a chess Grandmaster in 2019 at just 13, among India's youngest to do so. Now 19 and ranked eighth among juniors, he reflects on the high cost of professional chess. Despite lacking a full-time coach, Raunak is competing at the top level as he prepares for the upcoming World Rapid and Blitz Championships.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/one-of-the-youngest-to-become-gm-at-13-indias-raunak-sadhwani-still-struggles-to-have-a-full-time-chess-coach-exclusive/articleshow/126075338.cms",
-         "pubDate" : "Fri, 19 Dec 2025 10:53:06",
-         "title" : "GM at 13, India's Raunak still struggles to have full-time coach | Exclusive"
       },
       {
          "description" : "IM Karina Ambartsumova has won a prize as the top woman in a 3 0 Thursday all six weeks since the event began, while IM Renato Terry has won one of the three weekly tournaments for each of the last five weeks. Both players continued their impressi...",
