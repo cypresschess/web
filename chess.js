@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This video is a valuable chess lesson by IM Mkrtchian. Watch Lilit walk through a full \"real tournament\" prep routine in ChessBase 26. Find out how she scouts an opponent in the Mega Database, predict their openings, and steer the game into a line she specifically prepared. The payoff: a sharp Rossolimo move-order trap explained in a super teachable way, plus how she converts the advantage into a clean endgame win.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lilit-mkrtchian-s-best-games-of-2025-find-out-about-your-opponent-s-style",
+         "pubDate" : "Mon, 29 Dec 2025 21:38:23",
+         "title" : "Lilit Mkrtchian's Best Games of 2025 - Find out about your opponent's style"
+      },
+      {
          "description" : "Some years ago, Alan McGowan published a remarkably comprehensive biography of the German chess writer Kurt Richter (born 24 February 1900, died 29 December 1969). But then McGowan encountered the fate of every biographer: he found new information. While it does not change the overall picture, it does lead to corrections in the details. A detective story on the anniversary of Kurt Richter's death.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,12 +50,12 @@ news_feed (
          "title" : "World champ at 7; 'nervous' while meeting PM Modi: How Pragnika became prodigy"
       },
       {
-         "description" : "GMs Arjun Erigaisi, Maxime Vachier-Lagrave, and Fabiano Caruana lead the 2025 FIDE World Blitz Chess Championship with 10 points out of 13 games, with six rounds left in the Swiss portion. GM Magnus Carlsen, who dominated the rapid world champions...",
+         "description" : "GMs Arjun Erigaisi, Maxime Vachier-Lagrave, and Fabiano Caruana lead the 2025 FIDE World Blitz Chess Championship with 10 points out of 13 games and six rounds left in the Swiss portion. GM Magnus Carlsen, who dominated the rapid world championshi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-world-blitz-chess-championship-day-1",
-         "pubDate" : "Mon, 29 Dec 2025 10:05:52",
-         "title" : "Arjun, Vachier-Lagrave, Caruana Lead As Carlsen Falters"
+         "pubDate" : "Mon, 29 Dec 2025 10:05:00",
+         "title" : "Arjun, Vachier-Lagrave, Caruana Lead As Carlsen Falters; Roebers Takes Sole Lead"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126225866.cms\" />Magnus Carlsen's 2009 World Blitz performance at 18 remains legendary, dominating an elite field with unprecedented dominance. He achieved an astonishing 8-0 score against top rivals like Anand and Kramnik, showcasing utterly unbelievable chess. This remarkable feat, with 28 wins from 42 games, set a benchmark for teenage chess brilliance.",
@@ -64,6 +72,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-wins-sixth-rapid-world-title-koneru-humpy-joint-top-but-settles-for-bronze/articleshow/126224454.cms",
          "pubDate" : "Mon, 29 Dec 2025 04:45:33",
          "title" : "Magnus Carlsen wins sixth Rapid World title; Koneru Humpy joint top but settles for bronze"
+      },
+      {
+         "description" : "Rating Fee Increase Effective January 1US Chess will increase the per-game rating fee from 25 cents to 30 cents on Jan. 1, 2026, and from 30 cents to 35 cents per game on July 1. A plan for future adjustments will be discussed at the 2026 Delegates Meeting held in conjunction with the 2026 U.S. Open in Grand Rapids, MI. The Executive Board unanimously approved this change at its Dec. 9, 2025 meeting.The rating system is a core US Chess service, processing millions of games each year. Operating this system requires staff, technical resources, and ongoing investment, including continued development of the new MUIR system. Demand for timely and accurate ratings has increased, while the per-game",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/rating-fee-increase-effective-january-1",
+         "pubDate" : "Mon, 29 Dec 2025 00:00:00",
+         "title" : "Rating Fee Increase Effective January 1"
       },
       {
          "description" : "On behalf of All India Chess Federation , MP Chess Adhoc is organizing Senior National Arbiter Seminar &#38; exam at Arera Club, Link Road No. 1,",
@@ -640,14 +656,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/hosts-mumba-start-gcl-season-3-in-style/articleshow/125970655.cms",
          "pubDate" : "Mon, 15 Dec 2025 04:40:49",
          "title" : "Hosts Mumba start GCL season 3 in style"
-      },
-      {
-         "description" : "You know 6/7? Well, did you know that over half (21 of 38) of our National K-12 Grade Champions and Co-Champions finished the year of \"67\" with a 6/7 score?Of the 13 sections, only five produced clear Champions, and only one of them - Kindergarten winner Zayn Shanmuganathan - finished with a perfect 7/7 score.This bit of numerology speaks to the many close races on Sunday in Spokane, where many sections came down to the last games to finish in the final round. With annotations and highlights from commentator WGM Sabina Foisor, let's take a look!Note: all results are listed in tiebreak order unless otherwise specified.<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/38-champions-and-co-champions-crowned-spokane",
-         "pubDate" : "Mon, 15 Dec 2025 00:00:00",
-         "title" : "38 Champions and Co-Champions Crowned in Spokane"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/125963044.cms\" />Mumba Masters dominated Ganges Grandmasters with a 17-4 win. Defending champions Triveni Continental Kings started their title defence with a 9-7 victory over SG Pipers. Alireza Firouzja won a key match for the Kings. The Global Chess League Season 3 has begun with exciting clashes and strong performances from top players. ",
