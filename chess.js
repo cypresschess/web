@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Take a look at this relatively simple position. Can you figure out how White can win? And how many moves it will require to overcome Black's most resolute defence? You won't believe it. To relax we bring you the arguably easiest chess study ever composed, and other entertaining puzzles, many from the out-of-the-box legend Karl Fabel.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-07-dec-31",
+         "pubDate" : "Wed, 31 Dec 2025 09:00:00",
+         "title" : "Christmas Puzzles 7 - long and short"
+      },
+      {
+         "description" : "The World Blitz Championships in Doha closed with repeat champions in both sections. In the Open event, Magnus Carlsen completed a strong comeback to win his ninth World Blitz title and his twentieth world title overall. The women's championship was claimed by Bibisara Assaubayeva, who added a third Women's World Blitz crown after advancing from a crowded Swiss stage and prevailing in the knockout matches. | Photo: FIDE / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-5",
+         "pubDate" : "Wed, 31 Dec 2025 05:35:00",
+         "title" : "Carlsen claims ninth World Blitz title as Assaubayeva secures third crown"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126263371.cms\" />Arjun becomes the second Indian after Viswanathan Anand to win the world blitz bronze medal. Anand was the last Indian to stand on the podium in 2017. At the end of the 19-round stage, Arjun was followed by American GM Fabiano Caru -ana, World No.1 Magnus Carls -en and Nodirbek into the semifinals.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-assaubayeva-win-2025-fide-world-blitz-chess-championships",
          "pubDate" : "Tue, 30 Dec 2025 12:30:00",
          "title" : "Carlsen Wins 20th World Title, Assaubayeva Now 3-Time Women's Blitz Champion"
-      },
-      {
-         "description" : "Tuesday marks the final day of the World Blitz Championships in Doha. Both the open and the women's sections will be decided in four-player knockouts once the first stage (Swiss opens lasting 19 and 15 rounds respectively) come to an end. The time control throughout is 3+2. | Follow the action live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-live",
-         "pubDate" : "Tue, 30 Dec 2025 11:55:00",
-         "title" : "World Blitz Championships - Live!"
       },
       {
          "description" : "GM Vincent Keymer took home the last Titled Tuesday of 2025 on December 30, scoring 10/11 to become the first player to reach a double-digit score in the tournament since November 18. Only two players could win entering the final round, and Keymer...",
@@ -186,7 +194,7 @@ news_feed (
          "title" : "Watch: Carlsen slams table again after loss to India's Erigaisi"
       },
       {
-         "description" : "Please find certificates here Rank Name 1 Nandhidhaa P V 2 Mary Ann Gomes 3 Arshiya Das 4 Shubhi Gupta 5 Kalyani Sirin 6 Pandey",
+         "description" : "Please find certificates here Rank &#160;Name 1 Nandhidhaa P V 2 Mary Ann Gomes 3 Arshiya Das 4 Shubhi Gupta 5 Kalyani Sirin 6 Pandey",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/certificate-national-women-chess-championship-in-durgapur-wb-from-03-13-dec-2025/",
@@ -226,7 +234,7 @@ news_feed (
          "title" : "Magnus Carlsen wins sixth Rapid World title; Koneru Humpy joint top but settles for bronze"
       },
       {
-         "description" : "Rating Fee Increase Effective January 1US Chess will increase the over-the-board per-game rating fee from 25 cents to 30 cents on Jan. 1, 2026, and from 30 cents to 35 cents per game on July 1. A plan for future adjustments will be discussed at the 2026 Delegates Meeting held in conjunction with the 2026 U.S. Open in Grand Rapids, MI. The Executive Board unanimously approved this change at its Dec. 9, 2025 meeting.The rating system is a core US Chess service, processing millions of games each year. Operating this system requires staff, technical resources, and ongoing investment, including continued development of the new MUIR system. Demand for timely and accurate ratings has increased, whi",
+         "description" : "Rating Fee Increase Effective January 1US Chess will increase the per-game rating fee from 25 cents to 30 cents on Jan. 1, 2026, and from 30 cents to 35 cents per game on July 1. A plan for future adjustments will be discussed at the 2026 Delegates Meeting held in conjunction with the 2026 U.S. Open in Grand Rapids, MI. The Executive Board unanimously approved this change at its Dec. 9, 2025 meeting.The rating system is a core US Chess service, processing millions of games each year. Operating this system requires staff, technical resources, and ongoing investment, including continued development of the new MUIR system. Demand for timely and accurate ratings has increased, while the per-game",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/rating-fee-increase-effective-january-1",
