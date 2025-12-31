@@ -42,7 +42,7 @@ news_feed (
          "title" : "World Rapid and Blitz Championships 2025 - Games and Results"
       },
       {
-         "description" : " Magnus Carlsen won the <a href=\"https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2025\">2025 FIDE World Blitz Championship</a> to go along with the rapid title he had already won. This was Carlsen's 9th blitz title and the fifth time he did the rapid/blitz double, a figure of 20 World titles in total has been quoted. Carlsen called the blitz title hard-earned as he had to recover several times from upsetting losses. In the women's event Bibisara Assaubayeva emerged victorious and with that win she earned the final Women's Candidates place. ",
+         "description" : " Magnus Carlsen won the <a href=\"https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2025\">2025 FIDE World Blitz Championship</a> to go along with the rapid title he had already won. This was Carlsen's ninth blitz title and the fifth time he did the rapid/blitz double, a figure of 20 World titles in total has been quoted. Carlsen called the blitz title hard-earned as he had to recover several times from upsetting losses. In the women's event Bibisara Assaubayeva emerged victorious and with that win she earned the final Women's Candidates place. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/magnus-carlsen-completes-a-world-championship-rapid-and-blitz-double-for-the-fifth-time",
