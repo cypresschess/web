@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This \"Best of 2025\" episode is a year-end tactics celebration where Svitlana reviews the coolest moments of the chess year by turning them into a guess-the-move challenge for viewers. The WIM works through several sharp positions from major events (including the Global Chess League, World Cup, Grand Swiss, and Prague Chess Festival), featuring wild sacrifices, mating nets, and one especially memorable queen-sac idea in a Petroff line. Happy new year!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-smartest-moves-of-2025",
+         "pubDate" : "Wed, 31 Dec 2025 16:00:00",
+         "title" : "Svitlana's Smart Moves - Smartest Moves of 2025"
+      },
+      {
          "description" : "Take a look at this relatively simple position. Can you figure out how White can win? And how many moves it will require to overcome Black's most resolute defence? You won't believe it. To relax we bring you the arguably easiest chess study ever composed, and other entertaining puzzles, many from the out-of-the-box legend Karl Fabel.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,12 +50,20 @@ news_feed (
          "title" : "World Rapid and Blitz Championships 2025 - Games and Results"
       },
       {
-         "description" : " Magnus Carlsen won the <a href=\"https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2025\">2025 FIDE World Blitz Championship</a> to go along with the rapid title he had already won. This was Carlsen's ninth blitz title and the fifth time he did the rapid/blitz double, a figure of 20 World titles in total has been quoted. Carlsen called the blitz title hard-earned as he had to recover several times from upsetting losses. In the women's event Bibisara Assaubayeva emerged victorious and with that win she earned the final Women's Candidates place. ",
+         "description" : " Magnus Carlsen won the <a href=\"https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2025\">2025 FIDE World Blitz Championship</a> to go along with the rapid title he had already won. This was Carlsen's ninth blitz title and the fifth time he did the rapid/blitz double, along with his five World Championship matches this adds up to a total of 20 World titles won. Carlsen called the blitz title hard-earned as he had to recover several times from upsetting losses. In the women's event Bibisara Assaubayeva emerged victorious and with that win she earned the final Women's Candidates place. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/magnus-carlsen-completes-a-world-championship-rapid-and-blitz-double-for-the-fifth-time",
          "pubDate" : "Wed, 31 Dec 2025 00:26:00",
          "title" : "Magnus Carlsen completes a World Championship Rapid and Blitz double for the fifth time - "
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Carlsen after winning his ninth World Blitz Championship (All photos courtesy FIDE/Lennart Ootes, unless marked otherwise)<br> <br> <br> <br> No Co-Champions this year. The 2025 FIDE World Rapid &amp; Blitz Championships were held December 26 through 30 in Doha, Qatar. GM Magnus Carlsen won double gold for his sixth World Rapid and ninth World Blitz title, while GM Aleksandra Goryachkina won her first world championship title in the Women's World Rapid and GM Bibisara Assaubayeva won her third Women's World Blitz title in five years.Most annotations below are by WGM Sabina Foisor, and are marked otherwise",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/world-rapid-and-blitz-carlsens-double-gold-goryachkinas-first-world-title-and-assaubayevas",
+         "pubDate" : "Wed, 31 Dec 2025 00:00:00",
+         "title" : "World Rapid and Blitz: Carlsen's Double Gold, Goryachkina's First World Title, and Assaubayeva's Blitz Dynasty"
       },
       {
          "description" : "<ul><li> Carlsen captures ninth blitz world title in Doha </li><li> Norwegian completes fifth rapid-blitz double </li><li> Assaubayeva beats Muzychuk in women's final </li></ul> Magnus Carlsen's domination of chess showed no sign of weakening when the world number one won the blitz world championship title for the ninth time on Tuesday, two days after taking the rapid title. The Norwegian beat Uzbek grandmaster Nodirbek Abdusattorov 2&frac12;-1&frac12; in the final in Doha to secure his fifth rapid and blitz double after achieving the feat in 2014, 2019, 2022 and 2023. Carlsen, who relinquished his regular world chess champion title citing a lack of motivation after winning it in 2013, 2014,",
@@ -216,6 +232,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-world-blitz-chess-championship-day-1",
          "pubDate" : "Mon, 29 Dec 2025 10:05:00",
          "title" : "Arjun, Vachier-Lagrave, Caruana Lead As Carlsen Falters; Roebers Takes Sole Lead"
+      },
+      {
+         "description" : "In rotary problems the board is rotated by 180 ° for a second position with a different solution. It is usually pawns that make a different when you turn the board around. Or the king/queen positions, or castling is involved. Can one devise problems where these factors do not play a role? Yes one can, as our expert for out-of-the-box problems, Werner Keym, proves.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-05-dec-29",
+         "pubDate" : "Mon, 29 Dec 2025 09:00:00",
+         "title" : "Christmas Puzzles 5 - Rotary problems"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126225866.cms\" />Magnus Carlsen's 2009 World Blitz performance at 18 remains legendary, dominating an elite field with unprecedented dominance. He achieved an astonishing 8-0 score against top rivals like Anand and Kramnik, showcasing utterly unbelievable chess. This remarkable feat, with 28 wins from 42 games, set a benchmark for teenage chess brilliance.",
@@ -720,14 +744,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/championship-chess-returns-new-york-city-celebration-hard-work-opportunity-and-future-game",
          "pubDate" : "Tue, 16 Dec 2025 00:00:00",
          "title" : "Championship Chess Returns to New York City: A Celebration of Hard Work, Opportunity, and the Future of the Game"
-      },
-      {
-         "description" : "This week's puzzles come from the 2025 North American Junior Championships, where FM Julian Colville earned a GM norm and the IM title and WFM Laurie Qiu earned a WGM norm for their gold medals. Read more about this event here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-north-american-junior-championships",
-         "pubDate" : "Tue, 16 Dec 2025 00:00:00",
-         "title" : "Tactics Tuesday: North American Junior Championships"
       },
       {
          "description" : "There are moments in the world of chess when one cannot help sensing a faint whiff of desperation-an anxious rustling among those determined to preserve Magnus Carlsen's reputation as the game's supreme being, yet without the inconvenience of his actually contesting world championships again. His admirers, indefatigable in their devotion, seem ready to clutch at []",
