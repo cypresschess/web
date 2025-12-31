@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<ul><li> Carlsen captures ninth blitz world title in Doha </li><li> Norwegian completes fifth rapid-blitz double </li><li> Assaubayeva beats Muzychuk in women's final </li></ul> Magnus Carlsen's domination of chess showed no sign of weakening when the world number one won the blitz world championship title for the ninth time on Tuesday, two days after taking the rapid title. The Norwegian beat Uzbek grandmaster Nodirbek Abdusattorov 2&frac12;-1&frac12; in the final in Doha to secure his fifth rapid and blitz double after achieving the feat in 2014, 2019, 2022 and 2023. Carlsen, who relinquished his regular world chess champion title citing a lack of motivation after winning it in 2013, 2014,",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/dec/30/magnus-carlsen-ninth-blitz-world-title-rapid-double",
+         "pubDate" : "Tue, 30 Dec 2025 20:38:47",
+         "title" : "Magnus Carlsen completes rapid-blitz double with ninth world blitz title"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126256403.cms\" />Arjun Erigaisi delivered a memorable performance at the World Rapid and Blitz Chess Championships 2025, winning bronze medals in both events. He became the first Indian since Viswanathan Anand to get podium finishes at both the championships. Despite semifinal losses to Nodirbek Abdusattorov, Arjun's strong showing in Doha highlighted his growing stature in world chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
