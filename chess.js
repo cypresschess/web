@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126263371.cms\" />Arjun becomes the second Indian after Viswanathan Anand to win the world blitz bronze medal. Anand was the last Indian to stand on the podium in 2017. At the end of the 19-round stage, Arjun was followed by American GM Fabiano Caru -ana, World No.1 Magnus Carls -en and Nodirbek into the semifinals.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-tops-table-but-ends-with-world-blitz-bronze/articleshow/126263371.cms",
+         "pubDate" : "Wed, 31 Dec 2025 03:49:32",
+         "title" : "Arjun Erigaisi tops table, but ends with World Blitz bronze"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126263065.cms\" />Magnus Carlsen secured his ninth World Blitz title, defeating Nodirbek Abdusattorov 2.5-1.5 after a dramatic final. Indian Grandmaster Arjun Erigaisi, who led the qualifying rounds, fell in the semifinals and secured a bronze medal, his second of the championship.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-magnus-carlsen-clinches-record-ninth-title-arjun-erigaisi-wins-bronze/articleshow/126263065.cms",
+         "pubDate" : "Wed, 31 Dec 2025 03:19:03",
+         "title" : "World Blitz: Magnus Carlsen clinches record ninth title"
+      },
+      {
+         "description" : " The World Rapid and Blitz Championships took place Fri 26th Dec to Tue 30th Dec 2025 in Doha, Qatar. Players: Magnus Carlsen, Ian Nepomniachtchi, Levon Aronian, Alireza Firouzja, Fabiano Caruana, Maxime Vachier-Lagrave, Vladislav Artemiev, Nodirbek Abdusattorov, Arjun Erigaisi, Jan Krzysztof Duda, Shakhriyar Mamedyarov, Javokhir Sindarov, Leinier Dominguez Perez, Richard Rapport, Wesley So, D Gukesh, Daniil Dubov, Anish Giri, Yangyi Yu, Alexander Grischuk, Dmitry Andreikin, Parham Maghsoodloo, Jaime Santos Latasa, Sarin Nihal, Praggnanandhaa, Teimour Radjabov, Sam Sevian, Radoslaw Wojtaszek, Ray Robson, Andrey Esipenko etc Women Players: Ju Wenjun, Tan Zhongyi, Aleksandra Goryachkina, Tingj",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2025",
+         "pubDate" : "Wed, 31 Dec 2025 00:35:00",
+         "title" : "World Rapid and Blitz Championships 2025 - Games and Results"
+      },
+      {
+         "description" : " Magnus Carlsen won the <a href=\"https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2025\">2025 FIDE World Blitz Championship</a> to go along with the rapid title he had already won. This was Carlsen's 9th blitz title and the fifth time he did the rapid/blitz double, a figure of 20 World titles in total has been quoted. Carlsen called the blitz title hard-earned as he had to recover several times from upsetting losses. In the women's event Bibisara Assaubayeva emerged victorious and with that win she earned the final Women's Candidates place. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/magnus-carlsen-completes-a-world-championship-rapid-and-blitz-double-for-the-fifth-time",
+         "pubDate" : "Wed, 31 Dec 2025 00:26:00",
+         "title" : "Magnus Carlsen completes a World Championship Rapid and Blitz double for the fifth time - "
+      },
+      {
          "description" : "<ul><li> Carlsen captures ninth blitz world title in Doha </li><li> Norwegian completes fifth rapid-blitz double </li><li> Assaubayeva beats Muzychuk in women's final </li></ul> Magnus Carlsen's domination of chess showed no sign of weakening when the world number one won the blitz world championship title for the ninth time on Tuesday, two days after taking the rapid title. The Norwegian beat Uzbek grandmaster Nodirbek Abdusattorov 2&frac12;-1&frac12; in the final in Doha to secure his fifth rapid and blitz double after achieving the feat in 2014, 2019, 2022 and 2023. Carlsen, who relinquished his regular world chess champion title citing a lack of motivation after winning it in 2013, 2014,",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -34,6 +66,14 @@ news_feed (
          "title" : "Arjun Erigaisi's World Rapid & Blitz medals are decisive wins to end tough year"
       },
       {
+         "description" : "GM Magnus Carlsen has won the 2025 FIDE World Blitz Chess Championship by defeating GM Nodirbek Abdusattorov 2.5-1.5 in the final match. Along with &#38;euro;70,000, he earned his ninth world blitz title and 20th world championship title across all th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-assaubayeva-win-2025-fide-world-blitz-chess-championships",
+         "pubDate" : "Tue, 30 Dec 2025 12:30:00",
+         "title" : "Carlsen Wins 20th World Title, Assaubayeva Now 3-Time Women's Blitz Champion"
+      },
+      {
          "description" : "Tuesday marks the final day of the World Blitz Championships in Doha. Both the open and the women's sections will be decided in four-player knockouts once the first stage (Swiss opens lasting 19 and 15 rounds respectively) come to an end. The time control throughout is 3+2. | Follow the action live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +104,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/carl-portman-mbe/",
          "pubDate" : "Tue, 30 Dec 2025 10:21:28",
          "title" : "Carl Portman MBE"
-      },
-      {
-         "description" : "GM Magnus Carlsen has won the 2025 FIDE World Blitz Chess Championship by defeating GM Nodirbek Abdusattorov 2.5-1.5 in the final match. Along with &#38;euro;70,000, he earned his ninth world blitz title and 20th world championship title across all th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-assaubayeva-win-2025-fide-world-blitz-chess-championships",
-         "pubDate" : "Tue, 30 Dec 2025 10:09:00",
-         "title" : "Carlsen Wins 20th World Title, Assaubayeva Now 3-Time Women's Blitz Champion"
       },
       {
          "description" : "In August 2019 I spent a week in France, at the training camp I had organized (together with ChessBase India) for young Indian super talents. Former world champion Vladimir Kramnik did the chess training, while I pestered the kids with logic puzzles. Most did not involve chess, but some did. Here are a couple for you.",
@@ -322,14 +354,6 @@ news_feed (
          "title" : "2025 FIDE World Rapid & Blitz Preview"
       },
       {
-         "description" : " The World Rapid and Blitz Championships take place Fri 26th Dec to Tue 30th Dec 2025 in Doha, Qatar. Players: Magnus Carlsen, Ian Nepomniachtchi, Levon Aronian, Alireza Firouzja, Fabiano Caruana, Maxime Vachier-Lagrave, Vladislav Artemiev, Nodirbek Abdusattorov, Arjun Erigaisi, Jan Krzysztof Duda, Shakhriyar Mamedyarov, Javokhir Sindarov, Leinier Dominguez Perez, Richard Rapport, Wesley So, D Gukesh, Daniil Dubov, Anish Giri, Yangyi Yu, Alexander Grischuk, Dmitry Andreikin, Parham Maghsoodloo, Jaime Santos Latasa, Sarin Nihal, Praggnanandhaa, Teimour Radjabov, Sam Sevian, Radoslaw Wojtaszek, Ray Robson, Andrey Esipenko etc Women Players: Ju Wenjun, Tan Zhongyi, Aleksandra Goryachkina, Tingj",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2025",
-         "pubDate" : "Thu, 25 Dec 2025 21:50:00",
-         "title" : "World Rapid and Blitz Championships 2025 - Games and Results"
-      },
-      {
          "description" : "GM Magnus Carlsen says he enters the World Rapid &#38;amp; Blitz Championship with motivation and a determination to &#34;give it my all&#34; after several months of doubts over whether he would even take part in the events at all. The first day of the 2025...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -458,14 +482,6 @@ news_feed (
          "title" : "Tactics Tuesday: North American Junior Championships, Pt. 2"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126124903.cms\" />SG Pipers reached the Global Chess League final despite losing 6-11 to Alaskan Knights, finishing level on 15 points but ahead of Ganges Grandmasters on game points. Hou Yifan's win and Leon Luke Mendonca's crucial draw sealed qualification. Pipers will face Continental Kings, while Grandmasters meet Alaskan Knights for third place.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-2025-anish-giris-sg-pipers-loses-in-final-group-stage-match-but-still-qualifies-for-finale-against-continental-kings/articleshow/126124903.cms",
-         "pubDate" : "Mon, 22 Dec 2025 16:30:26",
-         "title" : "GCL 2025: Anish Giri's Pipers to face Continental Kings in final"
-      },
-      {
          "description" : "GM Hou Yifan&#39;s 20-move win over GM Kateryna Lagno gave GM Fabiano Caruana&#39;s Alpine SG Pipers a spot in the Final of the Tech Mahindra Global Chess League 2025 despite the team suffering defeat. Their key rivals, GM Maxime Vachier-Lagrave&#39;s upGrad ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -488,14 +504,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/danny-rensch-dark-squares-arena-stream",
          "pubDate" : "Mon, 22 Dec 2025 07:00:00",
          "title" : "Play Danny's Christmas Bullet Bash For A Chance To Win Signed Chessboard, SCC Tickets"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126114519.cms\" />World No.1 Hou Yifan's stellar performance propelled Alpine SG Pipers to second place in the Global Chess League. She secured two crucial victories, leading her team to identical 8-7 wins against Mumba Masters and American Gambits. This surge positions the Pipers strongly for a finals spot, needing just one win in their upcoming match.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-hou-yifans-super-sunday-takes-alpine-sg-pipers-to-second-spot/articleshow/126114519.cms",
-         "pubDate" : "Mon, 22 Dec 2025 04:46:19",
-         "title" : "Global Chess League: Hou Yifan's super Sunday takes Alpine SG Pipers to second spot"
       },
       {
          "description" : "Over 150 educators gather in New York to reimagine how chess develops student thinking and resilienceNEW YORK - The National Scholastic Chess Foundation (NSCF) and Kasparov Chess Foundation (KCF) presented Mindsets: The New York Chess in Education Conference on December 6 at Quorum in Rockefeller Center, bringing together educators, administrators, and researchers from across the United States and as far away as the UK, Latvia, and Sri Lanka.The conference centered on a fundamental question: How can chess be used more intentionally in education to help students develop growth mindsets, embrace productive struggle, and cultivate transferable thinking skills? From Talent to GrowthThe weekend's",
