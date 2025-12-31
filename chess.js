@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECF Office will be closed tomorrow (New Year's Day) but will re-open at 0930 on Friday 2nd January 2026. We wish you all a happy and prosperous 2026 ",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-office-new-year-hours/",
+         "pubDate" : "Wed, 31 Dec 2025 17:00:55",
+         "title" : "ECF Office New Year hours"
+      },
+      {
          "description" : "This \"Best of 2025\" episode is a year-end tactics celebration where Svitlana reviews the coolest moments of the chess year by turning them into a guess-the-move challenge for viewers. The WIM works through several sharp positions from major events (including the Global Chess League, World Cup, Grand Swiss, and Prague Chess Festival), featuring wild sacrifices, mating nets, and one especially memorable queen-sac idea in a Petroff line. Happy new year!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-smartest-moves-of-2025",
          "pubDate" : "Wed, 31 Dec 2025 16:00:00",
          "title" : "Svitlana's Smart Moves - Smartest Moves of 2025"
+      },
+      {
+         "description" : "We&#39;re excited to announce the first Play-In of the 2026 Freestyle Chess Grand Slam Tour! Starting on January 3, anyone can strive to qualify for the Freestyle Chess Grand Slam Weissenhaus, which is expected to take place in February. The Weissen...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-freestyle-chess-grand-slam-weissenhaus-play-in-2026",
+         "pubDate" : "Wed, 31 Dec 2025 09:30:00",
+         "title" : "Join The First Play-In Of The 2026 Freestyle Chess Grand Slam Tour"
       },
       {
          "description" : "Take a look at this relatively simple position. Can you figure out how White can win? And how many moves it will require to overcome Black's most resolute defence? You won't believe it. To relax we bring you the arguably easiest chess study ever composed, and other entertaining puzzles, many from the out-of-the-box legend Karl Fabel.",
@@ -616,14 +632,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/maghsoodloo-terry-martinez-3-0-thursday-12-18-2025",
          "pubDate" : "Fri, 19 Dec 2025 10:39:36",
          "title" : "Terry, Ambartsumova Continue 3 0 Thursday Winning Streaks"
-      },
-      {
-         "description" : "The International Chess Federation (FIDE) has approved the lifting of sanctions on Russia and Belarus following an online General Assembly, but the proceedings have been criticized by several federations, and the world governing chess body could f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-approves-lifting-sanctions-on-russia-belarus",
-         "pubDate" : "Fri, 19 Dec 2025 09:26:00",
-         "title" : "FIDE Lifts Russia Sanctions, Federations Threaten Legal Challenge"
       },
       {
          "description" : " The Norwegian world No 1 will compete at Doha next week, a year after he was penalised for wearing jeans in New York One year ago, the world No 1, Magnus Carlsen, and the global chess body, Fide, were at loggerheads after the Norwegian was penalised for wearing jeans at the World Rapid in New York. The 35-year-old also agreed to share the World Blitz crown despite a rule requiring an outright winner. Relations worsened further when Fide opposed Carlsen's wish for the new Freestyle circuit winner to be called a world champion, and he announced that he was \"done\" with Fide. <a href=\"https://www.theguardian.com/sport/2025/dec/19/chess-magnus-carlsen-back-in-world-rapid-and-blitz-as-fide-signal",
