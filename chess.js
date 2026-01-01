@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Retired Chicago Bulls great Derrick Rose stands between commentator James Dash and Magnus Carlsen at Chesstival 2025 in Las Vegas. Photo: Lennart Ootes/Freestyle Chess. While the highlights of 2025 did not include a world championship or an Olympiad, it was an interesting one. The year had some high points and a bit of tragedy. The high The post <a href=\"https://thechessdrum.net/blog/2026/01/01/the-chess-drums-highlights-of-2025/\">The Chess Drum's Highlights of 2025</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "This interview introduces Anastasia Corotcova as a member of the ChessBase team, sharing how she grew into chess through her grandmother, an international arbiter, before choosing an IT career while staying closely connected to chess. She talks about her work as an arbiter, a fun kids-tournament anecdote, and her experience creating a weekly TV chess show for children. The final part is a lighthearted rapid-fire Q&A that reveals her personality, interests, and everyday habits.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-with-anastasia-corotcova",
+         "pubDate" : "Thu, 01 Jan 2026 18:00:00",
+         "title" : "Interview with Anastasia Corotcova"
+      },
+      {
+         "description" : " Retired Chicago Bulls great Derrick Rose stands between commentator James Dash and Magnus Carlsen at Chesstival 2025 in Las Vegas. Photo: Lennart Ootes/Freestyle Chess. Key Takeaways 2025 featured key moments, including Brewington Hardaway on the cover of Chess Life and Tani Adewumi achieving the IM title. High-profile losses, such as IM Stephen Muhammad, and a tragic The post <a href=\"https://thechessdrum.net/blog/2026/01/01/the-chess-drums-highlights-of-2025/\">The Chess Drum's Highlights of 2025</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2026/01/01/the-chess-drums-highlights-of-2025/",
@@ -42,6 +50,14 @@ news_feed (
          "title" : "Final Report:National Junior (Under-19) Chess Championship - 2025"
       },
       {
+         "description" : "The Naroditsky Memorial and Fellowship Fund has surpassed $1 million, marking a major milestone in efforts to honor the legacy of GM Daniel Naroditsky. The grandmaster tragically passed away at the age of 29 on October 19. In November, the Charl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/naroditsky-memorial-fund-reaches-1-million-milestone",
+         "pubDate" : "Thu, 01 Jan 2026 08:25:00",
+         "title" : "Naroditsky Memorial Fund Reaches $1 Million Milestone"
+      },
+      {
          "description" : "Dutch FM Zyon Kollen won his first World Diving Chess Championship title in Groningen, emerging on top at the largest edition of the event to date. Entering the final round with a perfect score, he secured the crown with a quick draw. The oversubscribed tournament brought together a diverse field across ages and experience, underlining the growing appeal of this hybrid discipline that blends classical chess with underwater endurance and breath control. | Photo: Oscar Bos / Etan Ilfeld",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +80,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-extends-his-kingdom/articleshow/126282545.cms",
          "pubDate" : "Thu, 01 Jan 2026 04:37:54",
          "title" : "Magnus Carlsen extends his kingdom"
+      },
+      {
+         "description" : "Just where is the line drawn? You know the one. The line that determines what rating you are assigned when you plop down your entry fee. The line that determines what section gold - or prize - you can earn. For the sake of fairness, that same line should not only apply to you, but to every other wood-pusher in the tournament. The monthly ratings supplement (or list) is the official ratings gold standard. Official Ratings: The BasicsNow-a-days, US Chess publishes a monthly ratings supplement. Every month you are assigned an official rating based on your win-loss record (and a few other mathematical factors). So, if your official rating in the June supplement is 1532, then those digits are use",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-official-ratings",
+         "pubDate" : "Thu, 01 Jan 2026 00:00:00",
+         "title" : "Just the Rules: Official Ratings"
       },
       {
          "description" : "The ECF Office will be closed tomorrow (New Year's Day) but will re-open at 0930 on Friday 2nd January 2026. We wish you all a happy and prosperous 2026 ",
@@ -642,14 +666,6 @@ news_feed (
          "title" : "Field Can Only Contain Freestyle Friday Winner Carlsen For So Long"
       },
       {
-         "description" : "IM Karina Ambartsumova has won a prize as the top woman in a 3 0 Thursday all six weeks since the event began, while IM Renato Terry has won one of the three weekly tournaments for each of the last five weeks. Both players continued their impressi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/maghsoodloo-terry-martinez-3-0-thursday-12-18-2025",
-         "pubDate" : "Fri, 19 Dec 2025 10:39:36",
-         "title" : "Terry, Ambartsumova Continue 3 0 Thursday Winning Streaks"
-      },
-      {
          "description" : " The Norwegian world No 1 will compete at Doha next week, a year after he was penalised for wearing jeans in New York One year ago, the world No 1, Magnus Carlsen, and the global chess body, Fide, were at loggerheads after the Norwegian was penalised for wearing jeans at the World Rapid in New York. The 35-year-old also agreed to share the World Blitz crown despite a rule requiring an outright winner. Relations worsened further when Fide opposed Carlsen's wish for the new Freestyle circuit winner to be called a world champion, and he announced that he was \"done\" with Fide. <a href=\"https://www.theguardian.com/sport/2025/dec/19/chess-magnus-carlsen-back-in-world-rapid-and-blitz-as-fide-signal",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -762,14 +778,6 @@ news_feed (
          "title" : "DGT Live Games Link of 54th National Junior Open & 39th National Junior Girls Chess Championship 2025, Jamshedpur (Jharkhand))"
       },
       {
-         "description" : "After years of absence, championship-level scholastic chess is finally returning to New York City, one of the true epicenters of American chess. This January 3-4, the New York Metro Scholastic Chess Championships will welcome over a thousand players from kindergarten through high school to an event built on passion, access, and the belief that chess can change lives.While hosted in NYC, this is still an inclusive event. Any child residing anywhere is free to sign up and compete in Times Square with us as long as they have, or will join, US Chess. For registration and more information, click here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> A Return That Truly Matter",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/championship-chess-returns-new-york-city-celebration-hard-work-opportunity-and-future-game",
-         "pubDate" : "Tue, 16 Dec 2025 00:00:00",
-         "title" : "Championship Chess Returns to New York City: A Celebration of Hard Work, Opportunity, and the Future of the Game"
-      },
-      {
          "description" : "There are moments in the world of chess when one cannot help sensing a faint whiff of desperation-an anxious rustling among those determined to preserve Magnus Carlsen's reputation as the game's supreme being, yet without the inconvenience of his actually contesting world championships again. His admirers, indefatigable in their devotion, seem ready to clutch at []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -816,22 +824,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/dec/12/chess-magnus-carlsen-wins-freestyle-tour-title-despite-defeat-in-final-event",
          "pubDate" : "Fri, 12 Dec 2025 08:00:37",
          "title" : "Chess: Magnus Carlsen wins Freestyle Tour title despite defeat in final event"
-      },
-      {
-         "description" : " The 11th Vugar Gashimov Memorial took place in Stepanakert Tue 9th Dec to Thu 11th Dec 2025. There were two days of rapid and one day of blitz. Players: Nepomniachtchi, Fedoseev, Mamedov, Tabatabaei, Yakubboev and Suleymanli. Ian Nepomniachtchi won the rapid by half a point from Vladimir Fedoseev, the result was reversed for the blitz. The first tie-break was individual results between the players and Nepomniachtchi won one and drew one against Fedoseev in each part so won the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/11th-vugar-gashimov-memorial-2025",
-         "pubDate" : "Thu, 11 Dec 2025 18:38:00",
-         "title" : "11th Vugar Gashimov Memorial 2025 - Games and Results"
-      },
-      {
-         "description" : " The Freestyle Chess Grand Slam Finals took place Mon 8th Dec to Thu 11th Dec 2025. The venue was the Grootbos Private Nature Reserve two hours drive from Cape Town. The event was a fast rapid time control of 10 minutes + 5 seconds a move. Players: Magnus Carlsen, Fabiano Caruana, Vincent Keymer, Arjun Erigaisi, Levon Aronian, Hans Niemann, Parham Maghsoodloo and Javokhir Sindarov. Perhaps fittingly the two biggest advocates of this Chess960 tour met in the final. Levon Aronian beat Magnus Carlsen 1.5-0.5. Aronian went the entire event undefeated. Carlsen lost two in the preliminaries and three in the knockout section, which I'm sure he'll view as entirely too many. Carlsen had previously do",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/freestyle-chess-grand-slam-finals-2025",
-         "pubDate" : "Thu, 11 Dec 2025 17:58:00",
-         "title" : "Freestyle Chess Grand Slam Finals 2025 - Games and Results"
       }
    ]
 }
