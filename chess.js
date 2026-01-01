@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Hastings International Chess Congress remains one of the most enduring fixtures in the chess calendar, combining deep historical roots with a competitive modern format. From its famous 1895 origins to the current 2025/26 edition in East Sussex, the Congress continues to attract an international field. With six rounds completed, a tight race has developed at the top, with German IM Marius Deur as sole leader and ten players standing merely a half point back. | Pictured: Mr Dominic Lawson, President of the English Chess Federation, makes the first move on Harry Bryant's board in the first round. | Photo: Hastings Chess Congress",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hastings-congress-2026-round-6",
+         "pubDate" : "Wed, 31 Dec 2025 21:30:00",
+         "title" : "99th Hastings Chess Congress: Three rounds to go in tradition-rich event"
+      },
+      {
          "description" : "The ECF Office will be closed tomorrow (New Year's Day) but will re-open at 0930 on Friday 2nd January 2026. We wish you all a happy and prosperous 2026 ",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
