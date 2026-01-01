@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Retired Chicago Bulls great Derrick Rose stands between commentator James Dash and Magnus Carlsen at Chesstival 2025 in Las Vegas. Photo: Lennart Ootes/Freestyle Chess. While the highlights of 2025 did not include a world championship or an Olympiad, it was an interesting one. The year had some high points and a bit of tragedy. The high The post <a href=\"https://thechessdrum.net/blog/2026/01/01/the-chess-drums-highlights-of-2025/\">The Chess Drum's Highlights of 2025</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2026/01/01/the-chess-drums-highlights-of-2025/",
+         "pubDate" : "Thu, 01 Jan 2026 16:02:57",
+         "title" : "The Chess Drum's Highlights of 2025"
+      },
+      {
+         "description" : "Did you enjoy our Christmas puzzles? They were computer-resistant, which meant you could not simply ask a chess engine to solve them for you. Today we bring you a first batch of solutions - and reveal for the first time the solution to the decades-old problem of a game starting 1.e4 and ending on move five with knight takes rook mate. The solutions to the remaining problems will appear shortly.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-solutions-1",
+         "pubDate" : "Thu, 01 Jan 2026 14:00:41",
+         "title" : "Could you solve them?"
+      },
+      {
          "description" : "The National Scholastic Chess Foundation (NSCF) and Kasparov Chess Foundation (KCF) presented Mindsets: The New York Chess in Education Conference at Quorum in Rockefeller Center. It brought together educators, school administrators, and researchers from across the United States, and as far away as the UK, Latvia, and Sri Lanka. Through addresses, research presentations, and practitioner panels, the conference examined how chess can be used more intentionally in education-shifting the focus from \"natural talent\" toward growth, mastery, and purposeful play.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,28 +66,12 @@ news_feed (
          "title" : "Magnus Carlsen extends his kingdom"
       },
       {
-         "description" : "The Hastings International Chess Congress remains one of the most enduring fixtures in the chess calendar, combining deep historical roots with a competitive modern format. From its famous 1895 origins to the current 2025/26 edition in East Sussex, the Congress continues to attract an international field. With six rounds completed, a tight race has developed at the top, with German IM Marius Deur as sole leader and ten players standing merely a half point back. | Pictured: Mr Dominic Lawson, President of the English Chess Federation, makes the first move on Harry Bryant's board in the first round. | Photo: Hastings Chess Congress",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hastings-congress-2026-round-6",
-         "pubDate" : "Wed, 31 Dec 2025 21:30:00",
-         "title" : "99th Hastings Chess Congress: Three rounds to go in tradition-rich event"
-      },
-      {
          "description" : "The ECF Office will be closed tomorrow (New Year's Day) but will re-open at 0930 on Friday 2nd January 2026. We wish you all a happy and prosperous 2026 ",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-office-new-year-hours/",
          "pubDate" : "Wed, 31 Dec 2025 17:00:55",
          "title" : "ECF Office New Year hours"
-      },
-      {
-         "description" : "This \"Best of 2025\" episode is a year-end tactics celebration where Svitlana reviews the coolest moments of the chess year by turning them into a guess-the-move challenge for viewers. The WIM works through several sharp positions from major events (including the Global Chess League, World Cup, Grand Swiss, and Prague Chess Festival), featuring wild sacrifices, mating nets, and one especially memorable queen-sac idea in a Petroff line. Happy new year!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-smartest-moves-of-2025",
-         "pubDate" : "Wed, 31 Dec 2025 16:00:00",
-         "title" : "Svitlana's Smart Moves - Smartest Moves of 2025"
       },
       {
          "description" : "We&#39;re excited to announce the first Play-In of the 2026 Freestyle Chess Grand Slam Tour! Starting on January 3, anyone can strive to qualify for the Freestyle Chess Grand Slam Weissenhaus, which is expected to take place in February. The Weissen...",
@@ -88,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-07-dec-31",
          "pubDate" : "Wed, 31 Dec 2025 09:00:00",
          "title" : "Christmas Puzzles 7 - long and short"
-      },
-      {
-         "description" : "The World Blitz Championships in Doha closed with repeat champions in both sections. In the Open event, Magnus Carlsen completed a strong comeback to win his ninth World Blitz title and his twentieth world title overall. The women's championship was claimed by Bibisara Assaubayeva, who added a third Women's World Blitz crown after advancing from a crowded Swiss stage and prevailing in the knockout matches. | Photo: FIDE / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-5",
-         "pubDate" : "Wed, 31 Dec 2025 05:35:00",
-         "title" : "Carlsen claims ninth World Blitz title as Assaubayeva secures third crown"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126263371.cms\" />Arjun becomes the second Indian after Viswanathan Anand to win the world blitz bronze medal. Anand was the last Indian to stand on the podium in 2017. At the end of the 19-round stage, Arjun was followed by American GM Fabiano Caru -ana, World No.1 Magnus Carls -en and Nodirbek into the semifinals.",
@@ -218,14 +210,6 @@ news_feed (
          "title" : "2026 Chess.com Community Championships Cycle Starts This January"
       },
       {
-         "description" : "The World Blitz Championship got under way in Doha with 13 rounds played in the open section and 10 in the women's event. Fabiano Caruana, Arjun Erigaisi and Maxime Vachier-Lagrave (pictured) share the lead in the Open tournament, while 19-year-old Eline Roebers heads the women's standings after the first day. With several rounds still remaining and only four knockout places available, the early standings leave plenty unresolved. | Photo: FIDE / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-4",
-         "pubDate" : "Tue, 30 Dec 2025 05:25:00",
-         "title" : "World Blitz: Arjun, Caruana and MVL lead in the open, Roebers shines among the women"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126243961.cms\" />Young Indian Grandmaster Arjun Erigaisi stunned World No. 1 Magnus Carlsen at the World Blitz Championship in Doha, a victory that saw Carlsen react with visible frustration. Erigaisi then surged to a sole lead after defeating co-leader Nodirbek Abdusattorov. Despite subsequent draws, he remains a strong contender, with Carlsen and others close behind.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -256,22 +240,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/47416992/athlete-year-divya-deshmukh-does-not-stop-winning-stellar-2025",
          "pubDate" : "Tue, 30 Dec 2025 00:05:20",
          "title" : "Athlete of the Year: Divya Deshmukh does not stop winning in stellar 2025"
-      },
-      {
-         "description" : "This video is a valuable chess lesson by IM Mkrtchian. Watch Lilit walk through a full \"real tournament\" prep routine in ChessBase 26. Find out how she scouts an opponent in the Mega Database, predict their openings, and steer the game into a line she specifically prepared. The payoff: a sharp Rossolimo move-order trap explained in a super teachable way, plus how she converts the advantage into a clean endgame win.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lilit-mkrtchian-s-best-games-of-2025-find-out-about-your-opponent-s-style",
-         "pubDate" : "Mon, 29 Dec 2025 21:38:23",
-         "title" : "Lilit Mkrtchian's Best Games of 2025 - Find out about your opponent's style"
-      },
-      {
-         "description" : "Some years ago, Alan McGowan published a remarkably comprehensive biography of the German chess writer Kurt Richter (born 24 February 1900, died 29 December 1969). But then McGowan encountered the fate of every biographer: he found new information. While it does not change the overall picture, it does lead to corrections in the details. A detective story on the anniversary of Kurt Richter's death.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-research-the-story-never-ends",
-         "pubDate" : "Mon, 29 Dec 2025 20:00:00",
-         "title" : "Chess Research - The Story Never Ends"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126235585.cms\" />World No. 1 Magnus Carlsen slammed the table after losing on time to India's Arjun Erigaisi at the World Blitz Championship in Doha. The ninth-round defeat, with Arjun playing black, was one of the tournament's biggest upsets and pushed him joint top on 7.5 points. It was Carlsen's latest emotional outburst.",
