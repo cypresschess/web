@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dutch FM Zyon Kollen won his first World Diving Chess Championship title in Groningen, emerging on top at the largest edition of the event to date. Entering the final round with a perfect score, he secured the crown with a quick draw. The oversubscribed tournament brought together a diverse field across ages and experience, underlining the growing appeal of this hybrid discipline that blends classical chess with underwater endurance and breath control. | Photo: Oscar Bos / Etan Ilfeld",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-diving-chess-championships-2025",
+         "pubDate" : "Thu, 01 Jan 2026 07:00:00",
+         "title" : "Zyon Kollen dives to victory at World Diving Chess Championships in Groningen"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126282651.cms\" />Notably, Kramnik has not approached the Court of Arbitration for Sport (CAS), which usually hears disputes in sport. Relations between Kramnik and FIDE have deteriorated since the death of American GM Daniel Naroditsky in October.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sued-fide-after-probe-into-harassment-claims-vladimir-kramnik/articleshow/126282651.cms",
+         "pubDate" : "Thu, 01 Jan 2026 04:47:43",
+         "title" : "Sued FIDE after probe into harassment claims: Vladimir Kramnik"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126282545.cms\" />By winning the World Rapid and Blitz titles in Doha, Qatar - his fifth such double and 20th overall world title in a jaw-dropping career - the 35-yearold once again proved that his competitors, including what Garry Kasparov termed \"Vishy Anand's children\", are kids in comparison.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-extends-his-kingdom/articleshow/126282545.cms",
+         "pubDate" : "Thu, 01 Jan 2026 04:37:54",
+         "title" : "Magnus Carlsen extends his kingdom"
+      },
+      {
          "description" : "The Hastings International Chess Congress remains one of the most enduring fixtures in the chess calendar, combining deep historical roots with a competitive modern format. From its famous 1895 origins to the current 2025/26 edition in East Sussex, the Congress continues to attract an international field. With six rounds completed, a tight race has developed at the top, with German IM Marius Deur as sole leader and ten players standing merely a half point back. | Pictured: Mr Dominic Lawson, President of the English Chess Federation, makes the first move on Harry Bryant's board in the first round. | Photo: Hastings Chess Congress",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -520,14 +544,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/jonathan-hawkins-obituary",
          "pubDate" : "Tue, 23 Dec 2025 10:39:00",
          "title" : "Jonathan Hawkins (1983-2025)"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126133275.cms\" />Raunak Sadhwani's birthday win over Volodar Murzin brought Vishy Anand's Ganges Grandmasters close to the Global Chess League final. However, Hou Yifan's victory secured Alpine SG Pipers a spot in the finals, though they lost their last match. The Pipers will face Triveni Continental Kings in the title clash.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-alpine-sg-pipers-meet-triveni-continental-kings-in-final/articleshow/126133275.cms",
-         "pubDate" : "Tue, 23 Dec 2025 04:21:34",
-         "title" : "Global Chess League: Alpine SG Pipers meet Triveni Continental Kings in final"
       },
       {
          "description" : "This week's puzzles once again come from the 2025 North American Junior Championships, where FM Julian Colville earned a GM norm and the IM title and WFM Laurie Qiu earned a WGM norm for their gold medals. Read more about this event here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
