@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The National Scholastic Chess Foundation (NSCF) and Kasparov Chess Foundation (KCF) presented Mindsets: The New York Chess in Education Conference at Quorum in Rockefeller Center. It brought together educators, school administrators, and researchers from across the United States, and as far away as the UK, Latvia, and Sri Lanka. Through addresses, research presentations, and practitioner panels, the conference examined how chess can be used more intentionally in education-shifting the focus from \"natural talent\" toward growth, mastery, and purposeful play.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-york-chess-education-conference",
+         "pubDate" : "Thu, 01 Jan 2026 12:00:00",
+         "title" : "New York Chess Education Conference"
+      },
+      {
+         "description" : "IM Goutham Krishna of Kerala and WFM Arshiya Das of Tripura won the 50th National Sub-Junior Open &#38; 41st National Sub-Junior Girls Chess Championships 2025",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-national-sub-junior-under-15-chess-championships-2025/",
+         "pubDate" : "Thu, 01 Jan 2026 11:50:10",
+         "title" : "Final Report :National Sub-junior (Under 15) Chess Championships 2025"
+      },
+      {
+         "description" : "The 54th Open and 39th Girls National Junior (Under-19) Chess Championship - 2025 &#160;( Event Code -433843/JH/2025 &#38; 433844/JH/2025) was successfully conducted at the traditional",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-junior-under-19-chess-championship-2025/",
+         "pubDate" : "Thu, 01 Jan 2026 11:40:40",
+         "title" : "Final Report:National Junior (Under-19) Chess Championship - 2025"
+      },
+      {
          "description" : "Dutch FM Zyon Kollen won his first World Diving Chess Championship title in Groningen, emerging on top at the largest edition of the event to date. Entering the final round with a perfect score, he secured the crown with a quick draw. The oversubscribed tournament brought together a diverse field across ages and experience, underlining the growing appeal of this hybrid discipline that blends classical chess with underwater endurance and breath control. | Photo: Oscar Bos / Etan Ilfeld",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -840,14 +864,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/freestyle-chess-grand-slam-finals-2025",
          "pubDate" : "Thu, 11 Dec 2025 17:58:00",
          "title" : "Freestyle Chess Grand Slam Finals 2025 - Games and Results"
-      },
-      {
-         "description" : "The ECU E-Magazine November 2025 is out! In this edition of the ECU Magazine you may read about: The November 2025 issue of the ECU E-Magazine can be read online together with interactive links through the following link, or it can be downloaded in PDF format down below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-november-2025/",
-         "pubDate" : "Thu, 11 Dec 2025 09:49:02",
-         "title" : "ECU E-Magazine November 2025"
       }
    ]
 }
