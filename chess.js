@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Norwegian, 35, overcame elite fields despite time forfeits after knocking over pieces in critical games The world No 1, Magnus Carlsen, recovered from a series of mishaps to win both the World Rapid and Blitz crowns at Doha, Qatar, last weekend. The global victories were the 19th and 20th of the Norwegian's illustrious career and may give him the edge in the longstanding debate on whether he, Garry Kasparov, or Bobby Fischer is chess's all-time greatest master. Peerless endgame technique was central to the 35-year-old Norwegian's blitz success. He won a knight ending with Black <a href=\"https://www.chessgames.com/perl/chessgame?gid=3037188\">against Nodirbek Abdusattorov</a> from a posit",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/jan/02/chess-magnus-carlsen-wins-two-more-world-speed-crowns-despite-mishaps",
+         "pubDate" : "Fri, 02 Jan 2026 08:00:02",
+         "title" : "Chess: Magnus Carlsen wins two more world speed crowns despite mishaps"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126298882.cms\" />Kazakhstan's Bibisara Assaubayeva secured her third Women's World Blitz title, but her primary focus remains qualifying for the Candidates tournament in Cyprus. Despite accepting a wild card over a more direct route, she emerged victorious in a tense final.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/bibisara-assaubayeva-ends-season-long-candidates-chase/articleshow/126298882.cms",
+         "pubDate" : "Fri, 02 Jan 2026 05:14:10",
+         "title" : "Bibisara Assaubayeva ends season-long Candidates chase"
+      },
+      {
          "description" : "Chess has played a subtle but persistent role in English intellectual life, serving less as a pastime than as a lens through which writers and thinkers have examined reason, language, power and uncertainty. From Victorian debates on culture to literary modernism and twentieth-century philosophy, this article traces how chess has functioned in England as a symbolic structure, a narrative device and a reflective model of thought under rules. | Image (AI generated): Uvencio Blanco",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -530,14 +546,6 @@ news_feed (
          "title" : "Tech Mahindra Global Chess League 2025 - Games and Results"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126145632.cms\" />SG Pipers stunned two-time champions Continental Kings to win the Global Chess League season 3 title. After narrowly reaching the final, the Pipers dominated the decider with strong performances from Anish Giri and Praggnanandhaa. Alaskan Knights finished third, with world champion D Gukesh defeating Viswanathan Anand in a tense playoff.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-r-praggnanandhaas-sg-pipers-beat-two-time-champions-continental-kings-to-clinch-global-chess-league-2025-title/articleshow/126145632.cms",
-         "pubDate" : "Tue, 23 Dec 2025 17:48:02",
-         "title" : "GCL: Pragg's SG Pipers clinch Global Chess League 2025 title"
-      },
-      {
          "description" : "GM Fabiano Caruana&#39;s Alpine SG Pipers have won the Tech Mahindra Global Chess League 2025 with a 2-0 sweep in the Final, where GM Anish Giri and Leon Luke Mendonca starred with 2/2. GM Alireza Firouzja at times fought a lone battle as the Triveni ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/47284632/global-chess-league-gcl-2025-preview-returns-blockbuster-season-3-gukesh-viswanathan-anand-hikaru-nakamura",
          "pubDate" : "Fri, 12 Dec 2025 08:43:04",
          "title" : "Global Chess League returns for blockbuster season 3 with Gukesh, Vishy, Hikaru starring"
-      },
-      {
-         "description" : " Norway's world No 1, 35, lost 0.5-1.5 to the US veteran Levon Aronian, 43, in Cape Town but was already sure of overall victory and a prize of around $500k Norway's world No 1, Magnus Carlsen, was shocked by a 0.5-1.5 loss to the US veteran Levon Aronian in Thursday's final of the Freestyle Grand Slam Tour in Cape Town, but still finished the overall winner of the five-event Tour. Freestyle chess is also known as Fischer Random and Chess 960. Pieces start randomly placed on the two back rows, thus drastically limiting opening preparation. Its 2025 season, with a Tour financed mainly by a $12m investment from the venture firm Left Lane Capital, has featured tournaments in Weissenhaus, Karlsr",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/dec/12/chess-magnus-carlsen-wins-freestyle-tour-title-despite-defeat-in-final-event",
-         "pubDate" : "Fri, 12 Dec 2025 08:00:37",
-         "title" : "Chess: Magnus Carlsen wins Freestyle Tour title despite defeat in final event"
       }
    ]
 }
