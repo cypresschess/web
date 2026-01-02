@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The year 2026 will once again be a major year for chess, with a wide range of top-class tournaments. Here is a list of the dates of the major tournaments, as far as they have already been confirmed. The list will be continuously updated as new dates are announced.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-calendar-2026",
+         "pubDate" : "Fri, 02 Jan 2026 12:40:00",
+         "title" : "Chess calendar 2026"
+      },
+      {
          "description" : " The Norwegian, 35, overcame elite fields despite time forfeits after knocking over pieces in critical games The world No 1, Magnus Carlsen, recovered from a series of mishaps to win both the World Rapid and Blitz crowns at Doha, Qatar, last weekend. The global victories were the 19th and 20th of the Norwegian's illustrious career and may give him the edge in the longstanding debate on whether he, Garry Kasparov, or Bobby Fischer is chess's all-time greatest master. Peerless endgame technique was central to the 35-year-old Norwegian's blitz success. He won a knight ending with Black <a href=\"https://www.chessgames.com/perl/chessgame?gid=3037188\">against Nodirbek Abdusattorov</a> from a posit",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -808,30 +816,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/recovering-from-chess-mistakes/",
          "pubDate" : "Sat, 13 Dec 2025 14:00:00",
          "title" : "Make A Mistake? Do This."
-      },
-      {
-         "description" : "IOC Summit reconfirmed all its recommendations and restrictions for Russian and Belarusian players and teams over 18. Ahead of the upcoming FIDE General Assembly, and in response to press coverage regarding IOC recommendations for Russian and Belarusian athletes and teams, ECU wish to inform precisely its members: The 14th Olympic IOC Summit met on 11th December 2025 in Lausanne and updated its policy and recommendations regarding the Russian and Belarussian sports federations and athletes. The recommendations of the IOC are []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-on-ioc-and-its-recommendations/",
-         "pubDate" : "Fri, 12 Dec 2025 11:01:24",
-         "title" : "ECU on IOC and its recommendations"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation , All Orissa Chess Association is organizing Senior National Arbiter Seminar &#38; exam at SOA Campus-2, Bhubaneswar,Odisha. Eligibility:Eligibility: Every affiliated",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-and-exam-in-bhubaneswar-odisha-on-17-18-january-2026/",
-         "pubDate" : "Fri, 12 Dec 2025 10:10:40",
-         "title" : "SNA seminar and Exam in Bhubaneswar , Odisha on 17 & 18 January 2026"
-      },
-      {
-         "description" : "Hosted in Mumbai, the GCL promises non-stop action with some of the best players in the world on board.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/47284632/global-chess-league-gcl-2025-preview-returns-blockbuster-season-3-gukesh-viswanathan-anand-hikaru-nakamura",
-         "pubDate" : "Fri, 12 Dec 2025 08:43:04",
-         "title" : "Global Chess League returns for blockbuster season 3 with Gukesh, Vishy, Hikaru starring"
       }
    ]
 }
