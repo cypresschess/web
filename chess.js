@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess has played a subtle but persistent role in English intellectual life, serving less as a pastime than as a lens through which writers and thinkers have examined reason, language, power and uncertainty. From Victorian debates on culture to literary modernism and twentieth-century philosophy, this article traces how chess has functioned in England as a symbolic structure, a narrative device and a reflective model of thought under rules. | Image (AI generated): Uvencio Blanco",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-english-tradition-uvencio-blanco",
+         "pubDate" : "Thu, 01 Jan 2026 22:00:00",
+         "title" : "Chess as part of English philosophical and literary tradition"
+      },
+      {
          "description" : "This interview introduces Anastasia Corotcova as a member of the ChessBase team, sharing how she grew into chess through her grandmother, an international arbiter, before choosing an IT career while staying closely connected to chess. She talks about her work as an arbiter, a fun kids-tournament anecdote, and her experience creating a weekly TV chess show for children. The final part is a lighthearted rapid-fire Q&A that reveals her personality, interests, and everyday habits.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
