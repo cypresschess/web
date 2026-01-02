@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kakuma Chess Club continued its steady growth in 2025, reaching more than 2,300 children and young people across the Kakuma and Kalobeyei refugee camps. Supported by FIDE and international partners, the programme combined structured chess training, girls' empowerment initiatives and competitive opportunities, while focusing on life skills, wellbeing and social cohesion. This report outlines the year's activities, achievements and partnerships, highlighting how chess is being used as an educational and protective tool in challenging environments. | Photos: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kakuma-project-2025-milestones",
+         "pubDate" : "Fri, 02 Jan 2026 16:00:00",
+         "title" : "Kakuma Chess Club Project: 2025 Milestones"
+      },
+      {
+         "description" : "Dear Sir/Madam, As per the proposal received from the AICF Arbiters' Commission, each International Arbiter and FIDE Arbiter will be provided with two shirts and two",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/submission-of-g-form-for-shirt-tie-for-ias-fas/",
+         "pubDate" : "Fri, 02 Jan 2026 15:41:18",
+         "title" : "Submission of G-Form for Shirt & Tie for IA's & FA's"
+      },
+      {
+         "description" : "Kindly find attached live games link for the&#160;16th&#160;Chennai Open International Grandmaster Chess Tournament 2025 for Sakthi Group Dr. N Mahalingam Trophy will be held at",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-16th-chennai-open-international-grandmaster-chess-tournament-2025-for-sakthi-group-dr-n-mahalingam-trophy/",
+         "pubDate" : "Fri, 02 Jan 2026 15:28:14",
+         "title" : "Live games link for 16th Chennai Open International Grandmaster Chess Tournament 2025 for Sakthi Group Dr. N Mahalingam Trophy"
+      },
+      {
+         "description" : "The world elite were particularly active at the World Championships in blitz and rapid chess. There were not many changes at the top of the Top 100 and the Women's Top 100 in classical chess. Magnus Carlsen continues to lead the Top 100, and Hou Yifan remains at the top of the women's world rankings. At the top of the junior and girls' world rankings, in addition to changes in position due to tournament participation, there were also changes caused by players dropping out as a result of the age limit (under 20). The juniors are currently led by Gukesh Dommaraju, and the girls by the Chinese player Lu Miaoyi.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-january-2026",
+         "pubDate" : "Fri, 02 Jan 2026 14:00:00",
+         "title" : "FIDE ratings - January 2026"
+      },
+      {
          "description" : "The year 2026 will once again be a major year for chess, with a wide range of top-class tournaments. Here is a list of the dates of the major tournaments, as far as they have already been confirmed. The list will be continuously updated as new dates are announced.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,20 +58,12 @@ news_feed (
          "title" : "Bibisara Assaubayeva ends season-long Candidates chase"
       },
       {
-         "description" : "Chess has played a subtle but persistent role in English intellectual life, serving less as a pastime than as a lens through which writers and thinkers have examined reason, language, power and uncertainty. From Victorian debates on culture to literary modernism and twentieth-century philosophy, this article traces how chess has functioned in England as a symbolic structure, a narrative device and a reflective model of thought under rules. | Image (AI generated): Uvencio Blanco",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-english-tradition-uvencio-blanco",
-         "pubDate" : "Thu, 01 Jan 2026 22:00:00",
-         "title" : "Chess as part of English philosophical and literary tradition"
-      },
-      {
-         "description" : "This interview introduces Anastasia Corotcova as a member of the ChessBase team, sharing how she grew into chess through her grandmother, an international arbiter, before choosing an IT career while staying closely connected to chess. She talks about her work as an arbiter, a fun kids-tournament anecdote, and her experience creating a weekly TV chess show for children. The final part is a lighthearted rapid-fire Q&A that reveals her personality, interests, and everyday habits.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-with-anastasia-corotcova",
-         "pubDate" : "Thu, 01 Jan 2026 18:00:00",
-         "title" : "Interview with Anastasia Corotcova"
+         "description" : "Happy New Year!This year will mark the first time since I took on the role of editor for Check is in the Mail that we plan to provide an issue every month.This issue of Check is in the Mail features games from the Walter Muir E-Quads, specifically section 25W09. Similar to the later issues from last year, this issue follows what is provided by the Front Office results. With seven games available from the ICCF archives for the tourmament section, rather than choose the typical six games for an issue, I decided to start the year off with an extra game.I believe it's time to start (at least attempting) to follow regular monthly issue themes, at least for some months. For example, last year the ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/check-mail-january-2026-lets-start-year-e-quads",
+         "pubDate" : "Fri, 02 Jan 2026 00:00:00",
+         "title" : "Check is in the Mail, January 2026: Let's start the year with E-Quads!"
       },
       {
          "description" : " Retired Chicago Bulls great Derrick Rose stands between commentator James Dash and Magnus Carlsen at Chesstival 2025 in Las Vegas. Photo: Lennart Ootes/Freestyle Chess. Key Takeaways 2025 featured key moments, including Brewington Hardaway on the cover of Chess Life and Tani Adewumi achieving the IM title. High-profile losses, such as IM Stephen Muhammad, and a tragic The post <a href=\"https://thechessdrum.net/blog/2026/01/01/the-chess-drums-highlights-of-2025/\">The Chess Drum's Highlights of 2025</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -90,14 +114,6 @@ news_feed (
          "title" : "Naroditsky Memorial Fund Reaches $1 Million Milestone"
       },
       {
-         "description" : "Dutch FM Zyon Kollen won his first World Diving Chess Championship title in Groningen, emerging on top at the largest edition of the event to date. Entering the final round with a perfect score, he secured the crown with a quick draw. The oversubscribed tournament brought together a diverse field across ages and experience, underlining the growing appeal of this hybrid discipline that blends classical chess with underwater endurance and breath control. | Photo: Oscar Bos / Etan Ilfeld",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-diving-chess-championships-2025",
-         "pubDate" : "Thu, 01 Jan 2026 07:00:00",
-         "title" : "Zyon Kollen dives to victory at World Diving Chess Championships in Groningen"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126282651.cms\" />Notably, Kramnik has not approached the Court of Arbitration for Sport (CAS), which usually hears disputes in sport. Relations between Kramnik and FIDE have deteriorated since the death of American GM Daniel Naroditsky in October.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -122,18 +138,10 @@ news_feed (
          "title" : "Just the Rules: Official Ratings"
       },
       {
-         "description" : "The ECF Office will be closed tomorrow (New Year's Day) but will re-open at 0930 on Friday 2nd January 2026. We wish you all a happy and prosperous 2026 ",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-office-new-year-hours/",
-         "pubDate" : "Wed, 31 Dec 2025 17:00:55",
-         "title" : "ECF Office New Year hours"
-      },
-      {
-         "description" : "We&#39;re excited to announce the first Play-In of the 2026 Freestyle Chess Grand Slam Tour! Starting on January 3, anyone can strive to qualify for the Freestyle Chess Grand Slam Weissenhaus, which is expected to take place in February. The Weissen...",
+         "description" : "We&#39;re excited to announce the first Play-In of the 2026 Freestyle Chess Grand Slam Tour! Starting on January 3, anyone can strive to qualify for the first event in the Freestyle Chess Grand Slam, which is expected to take place in February. The ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-freestyle-chess-grand-slam-weissenhaus-play-in-2026",
+         "link" : "https://www.chess.com/news/view/announcing-freestyle-chess-grand-slam-leg-1-play-in-2026",
          "pubDate" : "Wed, 31 Dec 2025 09:30:00",
          "title" : "Join The First Play-In Of The 2026 Freestyle Chess Grand Slam Tour"
       },
@@ -178,7 +186,7 @@ news_feed (
          "title" : "Magnus Carlsen completes a World Championship Rapid and Blitz double for the fifth time - "
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Carlsen after winning his ninth World Blitz Championship (All photos courtesy FIDE/Lennart Ootes, unless marked otherwise)<br> <br> <br> <br> No Co-Champions this year. The 2025 FIDE World Rapid &amp; Blitz Championships were held December 26 through 30 in Doha, Qatar. GM Magnus Carlsen won double gold for his sixth World Rapid and ninth World Blitz title, while GM Aleksandra Goryachkina won her first world championship title in the Women's World Rapid and GM Bibisara Assaubayeva won her third Women's World Blitz title in five years.Most annotations below are by WGM Sabina Foisor, and are marked otherwise",
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Carlsen after winning his ninth World Blitz Championship (All photos courtesy FIDE/Lennart Ootes, unless marked otherwise)<br> <br> <br> <br> No Co-Champions this year. The 2025 FIDE World Rapid &amp; Blitz Championships were held December 26 through 30 in Doha, Qatar. GM Magnus Carlsen won double gold for his sixth World Rapid and ninth World Blitz title, while GM Aleksandra Goryachkina won her first world championship title in the Women's World Rapid and GM Bibisara Assaubayeva won her third Women's World Blitz title in five years.Most annotations below are by WGM Sabina Foisor, unless marked otherwise.",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/world-rapid-and-blitz-carlsens-double-gold-goryachkinas-first-world-title-and-assaubayevas",
@@ -784,14 +792,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/visit-to-hmp-littlehey-on-10-december-2025/",
          "pubDate" : "Wed, 17 Dec 2025 09:12:49",
          "title" : "Visit to HMP Littlehey on 10 December 2025"
-      },
-      {
-         "description" : "This week's puzzles come from the 2025 North American Junior Championships, where FM Julian Colville earned a GM norm and the IM title and WFM Laurie Qiu earned a WGM norm for their gold medals. Read more about this event here, and check out even more puzzles from this event in yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-north-american-junior-championships",
-         "pubDate" : "Wed, 17 Dec 2025 00:00:00",
-         "title" : "Wednesday Workout: North American Junior Championships"
       },
       {
          "description" : "Please Find the DGT Live Games Links of respective categories, Open https://view.livechesscloud.com/#7fc18391-d457-47ed-b746-7d81569ab742 Girls&#160; https://view.livechesscloud.com/#3f18d208-71a6-4d65-984c-997d81c05444",
