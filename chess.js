@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2026 is a year of new challenges! The European Chess Union (ECU) envisions a vibrant and united European chess community, where chess is recognized as a tool for education, social inclusion, and personal development. Our commitment is to elevate the profile of chess across Europe, foster collaboration among member federations, and ensure that chess remains accessible and inspiring to all generations. Strategic Targets for 2026 1. Strengthen Chess in Education Expand academic programs for teachers and tutors, building on []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/new-year-new-challenges/",
+         "pubDate" : "Fri, 02 Jan 2026 19:26:59",
+         "title" : "New Year, New Challenges"
+      },
+      {
          "description" : "The Kakuma Chess Club continued its steady growth in 2025, reaching more than 2,300 children and young people across the Kakuma and Kalobeyei refugee camps. Supported by FIDE and international partners, the programme combined structured chess training, girls' empowerment initiatives and competitive opportunities, while focusing on life skills, wellbeing and social cohesion. This report outlines the year's activities, achievements and partnerships, highlighting how chess is being used as an educational and protective tool in challenging environments. | Photos: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,30 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-calendar-2026",
          "pubDate" : "Fri, 02 Jan 2026 12:40:00",
          "title" : "Chess calendar 2026"
+      },
+      {
+         "description" : "GM Magnus Carlsen won Freestyle Friday four times in 2025, and he has started 2026 on the right foot by winning the January 2 edition. He did not go wire-to-wire, losing in rounds three and nine, but it was enough to win on tiebreaks over GM Matth...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-freestyle-friday-january-2-2026",
+         "pubDate" : "Fri, 02 Jan 2026 11:56:02",
+         "title" : "Carlsen Kicks Off Freestyle Friday 2026 With Victory"
+      },
+      {
+         "description" : "GMs Tuan Minh Le, Hikaru Nakamura and Jose Martinez celebrated the new year by winning the first three 3 0 Thursday tournaments of 2026. Le overcame back-to-back losses to catch up and win the first event with a 9/11 score. Nakamura dominated the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/minh-le-nakamura-martinez-3-0-thursday-1-1-26",
+         "pubDate" : "Fri, 02 Jan 2026 11:27:11",
+         "title" : "Martinez Nearly Perfect In 3 0 Thursday, Minh Le, Nakamura Also Win"
+      },
+      {
+         "description" : "GM Nodirbek Abdusattorov has marched into 2026 with 19 extra rating points after a tremendous performance in the 2025 London Chess Classic in December. Abdusattorov recovered the 18 points he lost at the 2025 FIDE World Cup with interest, courtesy...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/january-2026-fide-ratings",
+         "pubDate" : "Fri, 02 Jan 2026 10:18:59",
+         "title" : "Abdusattorov Bounces Back In January 2026 FIDE Ratings"
       },
       {
          "description" : " The Norwegian, 35, overcame elite fields despite time forfeits after knocking over pieces in critical games The world No 1, Magnus Carlsen, recovered from a series of mishaps to win both the World Rapid and Blitz crowns at Doha, Qatar, last weekend. The global victories were the 19th and 20th of the Norwegian's illustrious career and may give him the edge in the longstanding debate on whether he, Garry Kasparov, or Bobby Fischer is chess's all-time greatest master. Peerless endgame technique was central to the 35-year-old Norwegian's blitz success. He won a knight ending with Black <a href=\"https://www.chessgames.com/perl/chessgame?gid=3037188\">against Nodirbek Abdusattorov</a> from a posit",
@@ -680,22 +712,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-7",
          "pubDate" : "Sat, 20 Dec 2025 13:42:00",
          "title" : "Nakamura's American Gambits Crush MVL's Mumba Masters 16-1"
-      },
-      {
-         "description" : "The rivals of GM Alireza Firouzja finally struck back on day six, with GM Fabiano Caruana ending a five-game winning streak before Firouzja also lost to World Champion Gukesh Dommaraju. Triveni Continental Kings still won that second match to lead...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-6",
-         "pubDate" : "Fri, 19 Dec 2025 12:03:00",
-         "title" : "Caruana, Gukesh Stop Firouzja, But Triveni Continental Kings Still Lead"
-      },
-      {
-         "description" : "GM Magnus Carlsen is not inevitable but, more often than not, he seems to be. The December 19 edition of&#38;nbsp;Freestyle Friday was no exception, as Carlsen won his last four games in a come-from-behind victory. Carlsen won with 9.5 points, outlast...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-freestyle-friday-december-19-2025",
-         "pubDate" : "Fri, 19 Dec 2025 11:40:32",
-         "title" : "Field Can Only Contain Freestyle Friday Winner Carlsen For So Long"
       },
       {
          "description" : " The Norwegian world No 1 will compete at Doha next week, a year after he was penalised for wearing jeans in New York One year ago, the world No 1, Magnus Carlsen, and the global chess body, Fide, were at loggerheads after the Norwegian was penalised for wearing jeans at the World Rapid in New York. The 35-year-old also agreed to share the World Blitz crown despite a rule requiring an outright winner. Relations worsened further when Fide opposed Carlsen's wish for the new Freestyle circuit winner to be called a world champion, and he announced that he was \"done\" with Fide. <a href=\"https://www.theguardian.com/sport/2025/dec/19/chess-magnus-carlsen-back-in-world-rapid-and-blitz-as-fide-signal",
