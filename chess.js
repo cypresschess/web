@@ -54,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-wins-freestyle-friday-january-2-2026",
-         "pubDate" : "Fri, 02 Jan 2026 11:56:02",
+         "pubDate" : "Fri, 02 Jan 2026 11:56:00",
          "title" : "Carlsen Kicks Off Freestyle Friday 2026 With Victory"
       },
       {
