@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "I'm constantly fascinated by the sheer power of our minds. That power leads to a lot of good, but also some things that go against us. Recently I wrote an article on how ratings are great, just our interpretations of them are not. Today, I want to expand on that and share a personal annecdote []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/narrative-fallacy-in-chess/",
+         "pubDate" : "Sat, 03 Jan 2026 14:00:00",
+         "title" : "The Stories That Create Anxiety"
+      },
+      {
          "description" : "I had intended this week to cover the 2025 London Classic, but the sudden passing of Barry Martin last month has caused me to revise my schedule. Of contemporary artists, Barry Martin, a friend of both Teeny Duchamp (Marcel's widow) and of composer John Cage (Duchamp's faithful disciple) was the most prominent chess player. Born on 23rd February 1943, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -178,7 +186,7 @@ news_feed (
          "title" : "Just the Rules: Official Ratings"
       },
       {
-         "description" : "We&#39;re excited to announce the first Play-In of the 2026 Freestyle Chess Grand Slam Tour! Starting on January 3, anyone can strive to qualify for the first event in the Freestyle Chess Grand Slam, which is expected to take place in February. The ...",
+         "description" : "Freestyle Chess has informed Chess.com that the Open Qualifiers for the first leg of the Freestyle Chess Grand Slam Tour are cancelled. We have no more information at this time, but Freestyle Chess has promised that a press release is coming in th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-freestyle-chess-grand-slam-leg-1-play-in-2026",
@@ -208,6 +216,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-magnus-carlsen-clinches-record-ninth-title-arjun-erigaisi-wins-bronze/articleshow/126263065.cms",
          "pubDate" : "Wed, 31 Dec 2025 03:19:03",
          "title" : "World Blitz: Magnus Carlsen clinches record ninth title"
+      },
+      {
+         "description" : " The World Rapid and Blitz Championships took place Fri 26th Dec to Tue 30th Dec 2025 in Doha, Qatar. Players: Magnus Carlsen, Ian Nepomniachtchi, Levon Aronian, Alireza Firouzja, Fabiano Caruana, Maxime Vachier-Lagrave, Vladislav Artemiev, Nodirbek Abdusattorov, Arjun Erigaisi, Jan Krzysztof Duda, Shakhriyar Mamedyarov, Javokhir Sindarov, Leinier Dominguez Perez, Richard Rapport, Wesley So, D Gukesh, Daniil Dubov, Anish Giri, Yangyi Yu, Alexander Grischuk, Dmitry Andreikin, Parham Maghsoodloo, Jaime Santos Latasa, Sarin Nihal, Praggnanandhaa, Teimour Radjabov, Sam Sevian, Radoslaw Wojtaszek, Ray Robson, Andrey Esipenko etc Women Players: Ju Wenjun, Tan Zhongyi, Aleksandra Goryachkina, Tingj",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2025",
+         "pubDate" : "Wed, 31 Dec 2025 00:35:00",
+         "title" : "World Rapid and Blitz Championships 2025 - Games and Results"
+      },
+      {
+         "description" : " Magnus Carlsen won the <a href=\"https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2025\">2025 FIDE World Blitz Championship</a> to go along with the rapid title he had already won. This was Carlsen's ninth blitz title and the fifth time he did the rapid/blitz double, along with his five World Championship matches this adds up to a total of 20 World titles won. Carlsen called the blitz title hard-earned as he had to recover several times from upsetting losses. In the women's event Bibisara Assaubayeva emerged victorious and with that win she earned the final Women's Candidates place. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/magnus-carlsen-completes-a-world-championship-rapid-and-blitz-double-for-the-fifth-time",
+         "pubDate" : "Wed, 31 Dec 2025 00:26:00",
+         "title" : "Magnus Carlsen completes a World Championship Rapid and Blitz double for the fifth time - "
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Carlsen after winning his ninth World Blitz Championship (All photos courtesy FIDE/Lennart Ootes, unless marked otherwise)<br> <br> <br> <br> No Co-Champions this year. The 2025 FIDE World Rapid &amp; Blitz Championships were held December 26 through 30 in Doha, Qatar. GM Magnus Carlsen won double gold for his sixth World Rapid and ninth World Blitz title, while GM Aleksandra Goryachkina won her first world championship title in the Women's World Rapid and GM Bibisara Assaubayeva won her third Women's World Blitz title in five years.Most annotations below are by WGM Sabina Foisor, unless marked otherwise.",
@@ -554,6 +578,14 @@ news_feed (
          "title" : "GCL: Of friendships &amp; rivalries on the board"
       },
       {
+         "description" : " British Chess Grandmaster Jonathan Hawkins has passed away at the far too young age of 42. Hawkins only developed into a strong player after leaving school and was self-taught. Hawkins earned the FM title in 2008, IM in 2010 and GM in 2014. He was British Champion in 2014 shared with David Howell and 2015 where he was the sole winner. In recent years Hawkins was a successful chess coach. His 2012 book \"Amateur to IM\" is rightly highly regarded.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/jonathan-hawkins-1983-2025",
+         "pubDate" : "Wed, 24 Dec 2025 14:16:00",
+         "title" : "Jonathan Hawkins 1983 - 2025 - 1983 - 2025"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126154309.cms\" />Alpine SG Pipers clinched the Global Chess League title in Mumbai, defeating Triveni Continental Kings 4-0 in a decisive final. Key wins from Anish Giri, Rameshbabu Praggnanandhaa, and Leon Luke Mendonca secured the championship for the Pipers. The third-place playoff saw PBG Alaskan Knights emerge victorious over Ganges Grandmasters after tie-breaks.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -568,6 +600,14 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-north-american-junior-championships-pt-2",
          "pubDate" : "Wed, 24 Dec 2025 00:00:00",
          "title" : "Wednesday Workout: North American Junior Championships, Pt. 2"
+      },
+      {
+         "description" : " The Tech Mahindra Global Chess League took place Sat 13th Dec to Tuesday 23rd Dec 2025 in Mumbai. This was a very strong rapid team event and is on its third edition with previous events in Dubai and London. There were two stages, a round robin took place until the 22nd of December followed by a final day where the top two teams played off for the title and there wasalso a 3rd-4th place match. Teams: Triveni Continental Kings: Firouzja, Wei, Vidit, Zhu, Kosteniuk, Maurizzi. Upgrad Mumba Masters: Vachier-Lagrave, So, Mamedyarov, Koneru, Dronavalli, Daneshvar. Alpine SG Pipers: Caruana, Giri, Praggnanandhaa, Hou, Batsiashvili, Mendonca. Ganges Grandmasters: Anand, Keymer, Sindarov, Shuvalova,",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tech-mahindra-global-chess-league-2025",
+         "pubDate" : "Tue, 23 Dec 2025 21:37:00",
+         "title" : "Tech Mahindra Global Chess League 2025 - Games and Results"
       },
       {
          "description" : "GM Fabiano Caruana&#39;s Alpine SG Pipers have won the Tech Mahindra Global Chess League 2025 with a 2-0 sweep in the Final, where GM Anish Giri and Leon Luke Mendonca starred with 2/2. GM Alireza Firouzja at times fought a lone battle as the Triveni ...",
@@ -714,6 +754,14 @@ news_feed (
          "title" : "NM Charles Troutman to lead WashU for Pan-Ams"
       },
       {
+         "description" : " The Magistral Szmetan-Giardelli was Round Robin held in Buenos Aire 8th to 16th December 2025. Players: Aryan Tari, Ivan Cheparinov, Julio, Granda Zuniga, Alexei Shirov, Diego Flores, Sandro Mareco, Faustino Oro, Ilan Schnaider, Sergio Slipak and Tomas, Darcyl. Aryan Tari took a quick draw in the final round and won on tie-break from Ivan Cheparinov after both scored 6/9, Alexei Shirov was also very much in the running for first place going into the final round but lost to Granda Zuniga in the final round and ended up in third place on tie-break from Faustino Oro on 5.5/9, Oro made his second GM norm.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/magistral-szmetan-giardelli-2025",
+         "pubDate" : "Wed, 17 Dec 2025 15:41:00",
+         "title" : "Magistral Szmetan-Giardelli 2025 - Games and Results"
+      },
+      {
          "description" : "The desperately sad news has just been announced that GM Jonathan Hawkins has died at the tragically early age of 42. Our deepest condolences go to Jonathan's family. Many of...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -792,14 +840,6 @@ news_feed (
          "link" : "https://www.thearticle.com/clutching-at-straws/",
          "pubDate" : "Sun, 14 Dec 2025 15:46:10",
          "title" : "Clutching at straws"
-      },
-      {
-         "description" : "It is fascinating how principles that apply to chess improvement show up everyhwere in life. Past Sunday I played football with a friend group and realized just how much one single skill makes a huge difference. It is not how hard you shoot, how many players you can dribble or even how well you pass []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/recovering-from-chess-mistakes/",
-         "pubDate" : "Sat, 13 Dec 2025 14:00:00",
-         "title" : "Make A Mistake? Do This."
       }
    ]
 }
