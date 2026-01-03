@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 Hong Kong International Open Chess Championship, organized by the Hong Kong China Chess Federation, concluded successfully at Wan Chai's Queen Elizabeth Stadium. The event attracted over 400 players from 30 regions, including Australia, the United States, Germany, Korea, India and Southeast Asia. The total prize fund was boosted by nearly 20% from the previous edition, with over 80 titled players competing for the title.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hong-kong-international-open-2025",
+         "pubDate" : "Sat, 03 Jan 2026 18:30:00",
+         "title" : "Hong Kong International Open: A record-breaking success"
+      },
+      {
          "description" : "I'm constantly fascinated by the sheer power of our minds. That power leads to a lot of good, but also some things that go against us. Recently I wrote an article on how ratings are great, just our interpretations of them are not. Today, I want to expand on that and share a personal annecdote []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
