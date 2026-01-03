@@ -62,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/minh-le-nakamura-martinez-3-0-thursday-1-1-26",
-         "pubDate" : "Fri, 02 Jan 2026 11:27:11",
+         "pubDate" : "Fri, 02 Jan 2026 11:27:00",
          "title" : "Martinez Nearly Perfect In 3 0 Thursday, Minh Le, Nakamura Also Win"
       },
       {
