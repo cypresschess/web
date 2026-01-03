@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "I had intended this week to cover the 2025 London Classic, but the sudden passing of Barry Martin last month has caused me to revise my schedule. Of contemporary artists, Barry Martin, a friend of both Teeny Duchamp (Marcel's widow) and of composer John Cage (Duchamp's faithful disciple) was the most prominent chess player. Born on 23rd February 1943, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/barry-martin-rip/",
+         "pubDate" : "Sat, 03 Jan 2026 07:52:53",
+         "title" : "Barry Martin RIP"
+      },
+      {
          "description" : "The 2026 is a year of new challenges! The European Chess Union (ECU) envisions a vibrant and united European chess community, where chess is recognized as a tool for education, social inclusion, and personal development. Our commitment is to elevate the profile of chess across Europe, foster collaboration among member federations, and ensure that chess remains accessible and inspiring to all generations. Strategic Targets for 2026 1. Strengthen Chess in Education Expand academic programs for teachers and tutors, building on []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
