@@ -14,7 +14,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-jan-3-2026",
-         "pubDate" : "Sat, 03 Jan 2026 20:07:42",
+         "pubDate" : "Sat, 03 Jan 2026 20:07:00",
          "title" : "Nakamura Chases Down Gurel To Win 50th Bullet Brawl Title"
       },
       {
