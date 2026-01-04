@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126334660.cms\" />World champion D Gukesh has withdrawn from the 2026 Tata Steel Chess India tournament in Kolkata due to personal reasons and will be replaced by Nihal Sarin. The decision has disappointed fans and organisers, who called it a major setback. Despite his absence, the January 7 event will feature top Indian and international players in both Open and Women's sections.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/why-did-world-chess-champion-d-gukesh-pull-out-of-tata-steel-tournament-in-kolkata/articleshow/126334660.cms",
+         "pubDate" : "Sun, 04 Jan 2026 12:16:02",
+         "title" : "Why did Gukesh pull out of Tata Steel tournament in Kolkata?"
+      },
+      {
          "description" : "The Hastings International Chess Congress ended with a decisive final round that reshaped the standings. Marius Deuer entered the last day as sole leader and needing only a draw to secure at least a share of first place, but his defeat on the top board opened the door for his closest rivals. As a result, Alexander Kovchan and Alex Golding (pictured) finished level on points and were declared joint winners. | Photo: West Wales Chess Congress (2022)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -584,14 +592,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/jonathan-hawkins-1983-2025",
          "pubDate" : "Wed, 24 Dec 2025 14:16:00",
          "title" : "Jonathan Hawkins 1983 - 2025 - 1983 - 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126154309.cms\" />Alpine SG Pipers clinched the Global Chess League title in Mumbai, defeating Triveni Continental Kings 4-0 in a decisive final. Key wins from Anish Giri, Rameshbabu Praggnanandhaa, and Leon Luke Mendonca secured the championship for the Pipers. The third-place playoff saw PBG Alaskan Knights emerge victorious over Ganges Grandmasters after tie-breaks.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/alpine-sg-pipers-deny-triveni-continental-kings-hat-trick-take-gcl-title/articleshow/126154309.cms",
-         "pubDate" : "Wed, 24 Dec 2025 06:14:06",
-         "title" : "Alpine SG Pipers deny Triveni Continental Kings' hat-trick, take GCL title"
       },
       {
          "description" : "This week's puzzles once again come from the 2025 North American Junior Championships, where FM Julian Colville earned a GM norm and the IM title and WFM Laurie Qiu earned a WGM norm for their gold medals. Read more about this event here, and check out even more puzzles from this event in the Tactics Tuesday archives. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
