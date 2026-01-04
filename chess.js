@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One of the standout moments of 2025 came from 14-year-old Yagiz Kaan Erdogmus, whose rapid rise has marked him out as one of the most intriguing young players in the game. This article revisits his breakthrough season, focusing on a remarkable attacking win at the FIDE Grand Swiss that caught the attention of GM Daniel King, who described it as \"The Turkish Immortal\". | Photo: FIDE/ Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-erdogmus-analysis",
+         "pubDate" : "Sun, 04 Jan 2026 14:00:00",
+         "title" : "Daniel King analyses Yagiz Erdogmus' brilliant win from the Grand Swiss"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126334660.cms\" />World champion D Gukesh has withdrawn from the 2026 Tata Steel Chess India tournament in Kolkata due to personal reasons and will be replaced by Nihal Sarin. The decision has disappointed fans and organisers, who called it a major setback. Despite his absence, the January 7 event will feature top Indian and international players in both Open and Women's sections.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://aicf.in/dgt-live-games-link-of-54th-national-junior-open-39th-national-junior-girls-chess-championship-2025-jamshedpur-jharkhand/",
          "pubDate" : "Tue, 16 Dec 2025 10:21:57",
          "title" : "DGT Live Games Link of 54th National Junior Open & 39th National Junior Girls Chess Championship 2025, Jamshedpur (Jharkhand))"
-      },
-      {
-         "description" : "There are moments in the world of chess when one cannot help sensing a faint whiff of desperation-an anxious rustling among those determined to preserve Magnus Carlsen's reputation as the game's supreme being, yet without the inconvenience of his actually contesting world championships again. His admirers, indefatigable in their devotion, seem ready to clutch at []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/clutching-at-straws/",
-         "pubDate" : "Sun, 14 Dec 2025 15:46:10",
-         "title" : "Clutching at straws"
       }
    ]
 }
