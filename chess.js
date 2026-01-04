@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Hastings International Chess Congress ended with a decisive final round that reshaped the standings. Marius Deuer entered the last day as sole leader and needing only a draw to secure at least a share of first place, but his defeat on the top board opened the door for his closest rivals. As a result, Alexander Kovchan and Alex Golding (pictured) finished level on points and were declared joint winners. | Photo: West Wales Chess Congress (2022)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hastings-congress-2026-report",
+         "pubDate" : "Sun, 04 Jan 2026 02:55:00",
+         "title" : "Kovchan and Golding tie for first place at 99th Hastings Congress"
+      },
+      {
+         "description" : "GM Hikaru Nakamura was crowned as&#38;nbsp;Bullet Brawl&#39;s first half-centurion on Saturday after he won the first edition of 2026 and took home the $400 first prize. In a field of 177 titled players, which included 13 players with ratings over 3100, N...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-jan-3-2026",
+         "pubDate" : "Sat, 03 Jan 2026 20:07:42",
+         "title" : "Nakamura Chases Down Gurel To Win 50th Bullet Brawl Title"
+      },
+      {
          "description" : "The 2025 Hong Kong International Open Chess Championship, organized by the Hong Kong China Chess Federation, concluded successfully at Wan Chai's Queen Elizabeth Stadium. The event attracted over 400 players from 30 regions, including Australia, the United States, Germany, Korea, India and Southeast Asia. The total prize fund was boosted by nearly 20% from the previous edition, with over 80 titled players competing for the title.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,14 +50,6 @@ news_feed (
          "title" : "New Year, New Challenges"
       },
       {
-         "description" : "The Kakuma Chess Club continued its steady growth in 2025, reaching more than 2,300 children and young people across the Kakuma and Kalobeyei refugee camps. Supported by FIDE and international partners, the programme combined structured chess training, girls' empowerment initiatives and competitive opportunities, while focusing on life skills, wellbeing and social cohesion. This report outlines the year's activities, achievements and partnerships, highlighting how chess is being used as an educational and protective tool in challenging environments. | Photos: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kakuma-project-2025-milestones",
-         "pubDate" : "Fri, 02 Jan 2026 16:00:00",
-         "title" : "Kakuma Chess Club Project: 2025 Milestones"
-      },
-      {
          "description" : "Dear Sir/Madam, As per the proposal received from the AICF Arbiters' Commission, each International Arbiter and FIDE Arbiter will be provided with two shirts and two",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -56,22 +64,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-16th-chennai-open-international-grandmaster-chess-tournament-2025-for-sakthi-group-dr-n-mahalingam-trophy/",
          "pubDate" : "Fri, 02 Jan 2026 15:28:14",
          "title" : "Live games link for 16th Chennai Open International Grandmaster Chess Tournament 2025 for Sakthi Group Dr. N Mahalingam Trophy"
-      },
-      {
-         "description" : "The world elite were particularly active at the World Championships in blitz and rapid chess. There were not many changes at the top of the Top 100 and the Women's Top 100 in classical chess. Magnus Carlsen continues to lead the Top 100, and Hou Yifan remains at the top of the women's world rankings. At the top of the junior and girls' world rankings, in addition to changes in position due to tournament participation, there were also changes caused by players dropping out as a result of the age limit (under 20). The juniors are currently led by Gukesh Dommaraju, and the girls by the Chinese player Lu Miaoyi.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-january-2026",
-         "pubDate" : "Fri, 02 Jan 2026 14:00:00",
-         "title" : "FIDE ratings - January 2026"
-      },
-      {
-         "description" : "The year 2026 will once again be a major year for chess, with a wide range of top-class tournaments. Here is a list of the dates of the major tournaments, as far as they have already been confirmed. The list will be continuously updated as new dates are announced.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-calendar-2026",
-         "pubDate" : "Fri, 02 Jan 2026 12:40:00",
-         "title" : "Chess calendar 2026"
       },
       {
          "description" : "GM Magnus Carlsen won Freestyle Friday four times in 2025, and he has started 2026 on the right foot by winning the January 2 edition. He did not go wire-to-wire, losing in rounds three and nine, but it was enough to win on tiebreaks over GM Matth...",
@@ -728,14 +720,6 @@ news_feed (
          "link" : "https://www.thearticle.com/christmas-for-kirsan/",
          "pubDate" : "Sat, 20 Dec 2025 13:53:21",
          "title" : "Christmas for Kirsan"
-      },
-      {
-         "description" : "GM Hikaru Nakamura&#39;s Fyers American Gambits beating GM Maxime Vachier-Lagrave&#39;s upGrad Mumba Masters 16-1 was the standout result of day seven of the Tech Mahindra Global Chess League 2025. That meant the Mumba Masters failed to catch the leaders,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-7",
-         "pubDate" : "Sat, 20 Dec 2025 13:42:00",
-         "title" : "Nakamura's American Gambits Crush MVL's Mumba Masters 16-1"
       },
       {
          "description" : " The Norwegian world No 1 will compete at Doha next week, a year after he was penalised for wearing jeans in New York One year ago, the world No 1, Magnus Carlsen, and the global chess body, Fide, were at loggerheads after the Norwegian was penalised for wearing jeans at the World Rapid in New York. The 35-year-old also agreed to share the World Blitz crown despite a rule requiring an outright winner. Relations worsened further when Fide opposed Carlsen's wish for the new Freestyle circuit winner to be called a world champion, and he announced that he was \"done\" with Fide. <a href=\"https://www.theguardian.com/sport/2025/dec/19/chess-magnus-carlsen-back-in-world-rapid-and-blitz-as-fide-signal",
