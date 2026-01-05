@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126355476.cms\" />SG Pipers, featuring three Candidates 2026 qualifiers, defied expectations to win the Global Chess League Season 3. Coach Pravin Thipsay revealed that overconfidence on the top boards led to struggles, with the lower-ranked players ultimately carrying the team to victory.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-2025-coaching-three-candidates-in-one-team-gm-thipsays-masterclass-behind-sg-pipers-title/articleshow/126355476.cms",
+         "pubDate" : "Mon, 05 Jan 2026 14:29:56",
+         "title" : "GCL: Coaching 3 Candidates in one team; Thipsay's masterclass behind SG Pipers' title"
+      },
+      {
          "description" : "Did you solve the famous retractor by T.R. Dawson? You had to retract White's last move and then deliver a mate in two. And the solution? Take back the move h2-h4 and then play exactly the same move: 1.h2-h4! g4×h3 e.p. 2.B×g6#. Outrageous! Today we bring you a second instalment of solutions from our Christmas Puzzle Week. With retractors, reflectors, missing pieces and more. Hoping you like such out-of-the-box puzzles.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -576,14 +584,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-01-dec-25",
          "pubDate" : "Thu, 25 Dec 2025 12:00:00",
          "title" : "ChessBase Christmas Puzzle Week"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126172624.cms\" />World No. 1 and five-time World Champion Magnus Carlsen has named Americans Hikaru Nakamura and Fabiano Caruana as favourites for the 2026 Candidates, with India's R Praggnanandhaa as the third contender. Praggnanandhaa is the only Indian among eight players competing to challenge World Champion D Gukesh. The tournament starts on March 28 in Cyprus.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-r-praggnanandhaa-is-third-favourite-world-no-1-magnus-carlsen-rates-candidates-2026-line-up/articleshow/126172624.cms",
-         "pubDate" : "Thu, 25 Dec 2025 09:52:25",
-         "title" : "'Pragg is third favourite': Carlsen rates Candidates 2026 line-up"
       },
       {
          "description" : "The Senior National Arbiter Seminar-cum-Examination was organized by the All Assam Chess Association on behalf of the All India Chess Federation at Hotel Fortune, near",
