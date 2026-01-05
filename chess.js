@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The two-part R&eacute;ti course by Austrian GM Felix Blohberger is an opening FritzTrainer aimed primarily at conveying knowledge that can be applied in practical games. The player, coach and YouTuber offers in-depth insights into his own repertoire and the thinking that led him to the variations recommended there. One of his students, Peter Balint, managed to win an excellent game just a few days ago, naturally opening with the R&eacute;ti. Blohberger presents the game in video format.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/peter-balint-success-felix-blohbergers-reti",
+         "pubDate" : "Mon, 05 Jan 2026 19:00:00",
+         "title" : "Peter Balint succeeds thanks to Felix Blohberger's course on the R&eacute;ti"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126355476.cms\" />SG Pipers, featuring three Candidates 2026 qualifiers, defied expectations to win the Global Chess League Season 3. Coach Pravin Thipsay revealed that overconfidence on the top boards led to struggles, with the lower-ranked players ultimately carrying the team to victory.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -26,12 +34,28 @@ news_feed (
          "title" : "Sparkassen Chess Trophy 2026"
       },
       {
+         "description" : "What happens when two of the world&#39;s biggest creators collide? You&#39;re about to find out with the upcoming Gotham vs. Song match, taking place in Madrid, Spain from January 15 to 18. IMs Levy Rozman and Julien Song will compete in a series of 14 ga...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-gotham-vs-song",
+         "pubDate" : "Mon, 05 Jan 2026 08:30:00",
+         "title" : "Star Creators Levy Rozman, Julien Song To Face Off On January 15"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126345064.cms\" />Young chess prodigy D Gukesh has withdrawn from the Kolkata Rapid and Blitz chess tournament due to personal reasons. While Nihal Sarin has been named as his replacement, Gukesh's absence is a significant blow to the event, which was anticipated to feature a clash between Viswanathan Anand and the reigning World Champion.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-pulls-out-of-years-first-event-in-kolkata/articleshow/126345064.cms",
          "pubDate" : "Mon, 05 Jan 2026 05:18:11",
          "title" : "Kolkata Rapid and Blitz chess: D Gukesh pulls out of year's first event"
+      },
+      {
+         "description" : "An Off-Broadway show called The Opening, billed as \"The Second Most Famous Musical About Chess,\" opens on January 8 and closes on February 8 at The Players Theatre in Manhattan. Since the most famous musical about chess, Broadway's Chess: The Musical, recently extended its run until May 3, 2026, players can catch both shows (and members can catch our review of Chess in this month's Chess Life - ed.). With unbeatable NYC winter offers, such as 2-for-1 Broadway theater tickets, winter is the best time to see these chess-themed musical theater shows. PlaybillThe day after attending Mindsets: The New York Chess in Education Conference, I saw Chess: The Musical on Broadway. I saved the show's Pla",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/opening-second-most-famous-musical-about-chess-opens-thursday",
+         "pubDate" : "Mon, 05 Jan 2026 00:00:00",
+         "title" : "The Opening: The Second Most Famous Musical About Chess Opens Thursday"
       },
       {
          "description" : "Vincent Keymer's 2025 season marked a decisive step forward in his development as an elite player. Focusing exclusively on classical chess, this analysis reviews how the young German recovered from a modest start to the year, produced a series of standout results in the second half, and translated them into a major rating climb and a place among the world's top four by year's end.",
@@ -706,14 +730,6 @@ news_feed (
          "title" : "Firouzja's Triveni Continental Kings Power Into Global Chess League Final"
       },
       {
-         "description" : "GM Jeffery Xiong joined Bullet Brawl&#39;s illustrious two-time winners&#39; club after outlasting GM Oleksandr Bortnyk and finishing atop Saturday&#39;s event. The 25-year-old American flirted with danger during the two-hour arena and defeated no fewer than ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jeffery-xiong-wins-bullet-brawl-dec-20-2025",
-         "pubDate" : "Sat, 20 Dec 2025 16:07:00",
-         "title" : "Xiong Beats 34 Players Rated Over 3000 En Route To 2nd Title"
-      },
-      {
          "description" : "A big reason why chess improvement is so complex nowadays is our tendency to overcomplicate things (especially common with adults!). A more hidden way to do that is to always try to find specific takeaways even when there are none. Especially when watching engine based, forced lines, often the only takeaway is the following: []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -736,14 +752,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/dec/19/chess-magnus-carlsen-back-in-world-rapid-and-blitz-as-fide-signals-jeansgate-peace",
          "pubDate" : "Fri, 19 Dec 2025 08:00:56",
          "title" : "Chess: Magnus Carlsen back in World Rapid and Blitz as Fide signals jeansgate peace"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed for the holidays on Wednesday, December 24 and Thursday, December 25, and again on Wednesday, December 31 and Thursday, January 1, 2026.All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items. We strongly encourage submitting materials by noon CST on the Tuesday preceding the office closure. Thank you for your understanding, and happy holidays. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-offices-2025-26-holiday-closure-dates",
-         "pubDate" : "Fri, 19 Dec 2025 00:00:00",
-         "title" : "US Chess Offices 2025-26 Holiday Closure Dates"
       },
       {
          "description" : " Charles Troutman III is a rising senior set to graduate from Washington University in May 2026. The Atlanta native has decided on a career in technology and is currently an intern at the design company Figma. Located in Silicon Valley, the company had a massive IPO in July, resulting in a $68 billion valuation, and The post <a href=\"https://thechessdrum.net/blog/2025/12/17/nm-charles-troutman-to-lead-washu-for-pan-ams/\">NM Charles Troutman to lead WashU for Pan-Ams</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
