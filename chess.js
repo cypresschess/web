@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Did you solve the famous retractor by T.R. Dawson? You had to retract White's last move and then deliver a mate in two. And the solution? Take back the move h2-h4 and then play exactly the same move: 1.h2-h4! g4×h3 e.p. 2.B×g6#. Outrageous! Today we bring you a second instalment of solutions from our Christmas Puzzle Week. With retractors, reflectors, missing pieces and more. Hoping you like such out-of-the-box puzzles.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-solutions-2",
+         "pubDate" : "Mon, 05 Jan 2026 13:21:15",
+         "title" : "Take back and replay the same move!"
+      },
+      {
+         "description" : "The prize money at the Open of the 53rd International Dortmund Chess Days is 20,000 Euros. World Championship candidate Matthias Bl&uuml;baum will be playing in the A Open, and Germany's strongest female Dinara Wagner in the International Women's Tournament. You can register for the B-Open, which is played over eight rounds in the morning for players with a rating of up to 2050, so that in the afternoon they can watch the grandmasters play live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sparkassen-chess-trophy-2026",
+         "pubDate" : "Mon, 05 Jan 2026 10:00:00",
+         "title" : "Sparkassen Chess Trophy 2026"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126345064.cms\" />Young chess prodigy D Gukesh has withdrawn from the Kolkata Rapid and Blitz chess tournament due to personal reasons. While Nihal Sarin has been named as his replacement, Gukesh's absence is a significant blow to the event, which was anticipated to feature a clash between Viswanathan Anand and the reigning World Champion.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
