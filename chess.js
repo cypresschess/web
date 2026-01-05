@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126345064.cms\" />Young chess prodigy D Gukesh has withdrawn from the Kolkata Rapid and Blitz chess tournament due to personal reasons. While Nihal Sarin has been named as his replacement, Gukesh's absence is a significant blow to the event, which was anticipated to feature a clash between Viswanathan Anand and the reigning World Champion.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-pulls-out-of-years-first-event-in-kolkata/articleshow/126345064.cms",
+         "pubDate" : "Mon, 05 Jan 2026 05:18:11",
+         "title" : "Kolkata Rapid and Blitz chess: D Gukesh pulls out of year's first event"
+      },
+      {
          "description" : "Vincent Keymer's 2025 season marked a decisive step forward in his development as an elite player. Focusing exclusively on classical chess, this analysis reviews how the young German recovered from a modest start to the year, produced a series of standout results in the second half, and translated them into a major rating climb and a place among the world's top four by year's end.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -568,14 +576,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-senior-national-arbiter-seminar-cum-examination-at-guwahati-2025-on-20-21-sept-2025/",
          "pubDate" : "Thu, 25 Dec 2025 08:07:34",
          "title" : "Final report :Senior National Arbiter Seminar cum Examination at Guwahati 2025 on 20 & 21 Sept 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126170938.cms\" />The Global Chess League saw debutants and Candidates players gel to showcase their dominance in Mumbai. Fabiano Caruana and Leon Luke Mendonca made their league debuts for the Pipers, who emerged triumphant. The team's camaraderie, including future Candidates rivals Caruana, Giri, and Praggnanandhaa, proved instrumental in their victory.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-of-friendships-rivalries-on-the-board/articleshow/126170938.cms",
-         "pubDate" : "Thu, 25 Dec 2025 06:07:37",
-         "title" : "GCL: Of friendships &amp; rivalries on the board"
       },
       {
          "description" : " British Chess Grandmaster Jonathan Hawkins has passed away at the far too young age of 42. Hawkins only developed into a strong player after leaving school and was self-taught. Hawkins earned the FM title in 2008, IM in 2010 and GM in 2014. He was British Champion in 2014 shared with David Howell and 2015 where he was the sole winner. In recent years Hawkins was a successful chess coach. His 2012 book \"Amateur to IM\" is rightly highly regarded.",
