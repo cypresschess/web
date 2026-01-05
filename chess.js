@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "One of the standout moments of 2025 came from 14-year-old Yagiz Kaan Erdogmus, whose rapid rise has marked him out as one of the most intriguing young players in the game. This article revisits his breakthrough season, focusing on a remarkable attacking win at the FIDE Grand Swiss that caught the attention of GM Daniel King, who described it as \"The Turkish Immortal\". | Photo: FIDE/ Michal Walusza",
+         "description" : "Vincent Keymer's 2025 season marked a decisive step forward in his development as an elite player. Focusing exclusively on classical chess, this analysis reviews how the young German recovered from a modest start to the year, produced a series of standout results in the second half, and translated them into a major rating climb and a place among the world's top four by year's end.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-erdogmus-analysis",
-         "pubDate" : "Sun, 04 Jan 2026 14:00:00",
-         "title" : "Daniel King analyses Yagiz Erdogmus' brilliant win from the Grand Swiss"
+         "link" : "https://en.chessbase.com/post/2025-breakthrough-year-vincent-keymer",
+         "pubDate" : "Sun, 04 Jan 2026 23:50:00",
+         "title" : "2025: A breakthrough year for Vincent Keymer"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126334660.cms\" />World champion D Gukesh has withdrawn from the 2026 Tata Steel Chess India tournament in Kolkata due to personal reasons and will be replaced by Nihal Sarin. The decision has disappointed fans and organisers, who called it a major setback. Despite his absence, the January 7 event will feature top Indian and international players in both Open and Women's sections.",
@@ -18,28 +18,12 @@ news_feed (
          "title" : "Why did Gukesh pull out of Tata Steel tournament in Kolkata?"
       },
       {
-         "description" : "The Hastings International Chess Congress ended with a decisive final round that reshaped the standings. Marius Deuer entered the last day as sole leader and needing only a draw to secure at least a share of first place, but his defeat on the top board opened the door for his closest rivals. As a result, Alexander Kovchan and Alex Golding (pictured) finished level on points and were declared joint winners. | Photo: West Wales Chess Congress (2022)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hastings-congress-2026-report",
-         "pubDate" : "Sun, 04 Jan 2026 02:55:00",
-         "title" : "Kovchan and Golding tie for first place at 99th Hastings Congress"
-      },
-      {
          "description" : "GM Hikaru Nakamura was crowned as&#38;nbsp;Bullet Brawl&#39;s first half-centurion on Saturday after he won the first edition of 2026 and took home the $400 first prize. In a field of 177 titled players, which included 13 players with ratings over 3100, N...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-jan-3-2026",
          "pubDate" : "Sat, 03 Jan 2026 20:07:00",
          "title" : "Nakamura Chases Down Gurel To Win 50th Bullet Brawl Title"
-      },
-      {
-         "description" : "The 2025 Hong Kong International Open Chess Championship, organized by the Hong Kong China Chess Federation, concluded successfully at Wan Chai's Queen Elizabeth Stadium. The event attracted over 400 players from 30 regions, including Australia, the United States, Germany, Korea, India and Southeast Asia. The total prize fund was boosted by nearly 20% from the previous edition, with over 80 titled players competing for the title.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hong-kong-international-open-2025",
-         "pubDate" : "Sat, 03 Jan 2026 18:30:00",
-         "title" : "Hong Kong International Open: A record-breaking success"
       },
       {
          "description" : "I'm constantly fascinated by the sheer power of our minds. That power leads to a lot of good, but also some things that go against us. Recently I wrote an article on how ratings are great, just our interpretations of them are not. Today, I want to expand on that and share a personal annecdote []",
