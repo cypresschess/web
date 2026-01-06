@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anastasia Corotcova explains how to create, manage, and organize variations in ChessBase when analysing games. It shows how to promote side lines to the main line, correct incorrect continuations, and safely replace moves. Finally, it demonstrates how to insert missing moves so game notation stays clear, accurate, and well-structured.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-tips-for-beginners-how-to-add-variations",
+         "pubDate" : "Tue, 06 Jan 2026 13:00:00",
+         "title" : "ChessBase tips for beginners - How to add variations"
+      },
+      {
+         "description" : "It's your chance to train and speak with Garry Kasparov and other world stars, LIVE! The KCF Academy announces the countdown to the official start of its new season on January 10, marking the beginning of another exciting chapter of learning, competition, and growth for our students and chess community. The Chess Star series of the lectures will open with a special highlight on January 11 - a masterclass by the legendary GM Veselin Topalov.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-opens-with-veselin-topalov",
+         "pubDate" : "Tue, 06 Jan 2026 12:00:00",
+         "title" : "KCF opens with Veselin Topalov"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126369961.cms\" />Kolkata has become a vibrant hub for world chess, hosting an elite rapid and blitz tournament with roots tracing back to a Dutch steel company's initiative in 1938. This annual spectacle, now in its seventh edition, showcases top international and Indian talent, fostering a strong sporting culture and engaging a passionate audience.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-a-pre-world-war-ii-chess-tournament-in-the-netherlands-inspired-indias-only-super-rapid-and-blitz-event-in-kolkata/articleshow/126369961.cms",
+         "pubDate" : "Tue, 06 Jan 2026 08:36:16",
+         "title" : "How a pre-World War II chess tournament in the Netherlands inspired India's only Super Rapid and Blitz event in Kolkata"
+      },
+      {
          "description" : "Vincent Keymer has enjoyed a very successful 2025. He went from one success to the next and, from January 2025 to January 2026, gained 43 rating points, starting 2026 as the world number four. At the World Blitz Chess Championship in Doha, which concluded on 30 December 2025, he finished only 38th with 12 points from 19 games. On the same day, however, he won the final Chess.com Titled Tuesday of 2025, rounding off his chess year with another success. | Photo: Vincent Keymer at the 2025 World Rapid and Blitz Championships | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -562,14 +586,6 @@ news_feed (
          "title" : "Carlsen, Gukesh, Arjun, Vachier-Lagrave, Artemiev Share Lead"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126188012.cms\" />Magnus Carlsen has returned for the 2025 FIDE World Rapid &amp; Blitz Championships in Doha, held from December 26 to 30 with a €1 million prize fund. The world number one said personal and family ties with the Qatar organisers were central to his decision. His relationship with FIDE remains strained after last year's \"jeansgate\" controversy.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/not-great-magnus-carlsen-opens-up-on-relations-with-fide-ahead-of-world-rapid-blitz-return-after-jeansgate/articleshow/126188012.cms",
-         "pubDate" : "Fri, 26 Dec 2025 10:15:26",
-         "title" : "'Not great': Carlsen on relations with FIDE ahead of World Rapid &amp; Blitz"
-      },
-      {
          "description" : "On January 1, we will make some notable changes to vacation time for in Daily Chess, reducing the amount of vacation time available and simplifying the system. Vacation time is an important part of daily games on Chess.com. It allows players to ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -832,14 +848,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/visit-to-hmp-littlehey-on-10-december-2025/",
          "pubDate" : "Wed, 17 Dec 2025 09:12:49",
          "title" : "Visit to HMP Littlehey on 10 December 2025"
-      },
-      {
-         "description" : "Please Find the DGT Live Games Links of respective categories, Open https://view.livechesscloud.com/#7fc18391-d457-47ed-b746-7d81569ab742 Girls&#160; https://view.livechesscloud.com/#3f18d208-71a6-4d65-984c-997d81c05444",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/dgt-live-games-link-of-54th-national-junior-open-39th-national-junior-girls-chess-championship-2025-jamshedpur-jharkhand/",
-         "pubDate" : "Tue, 16 Dec 2025 10:21:57",
-         "title" : "DGT Live Games Link of 54th National Junior Open & 39th National Junior Girls Chess Championship 2025, Jamshedpur (Jharkhand))"
       }
    ]
 }
