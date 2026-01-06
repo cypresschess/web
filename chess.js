@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vincent Keymer has enjoyed a very successful 2025. He went from one success to the next and, from January 2025 to January 2026, gained 43 rating points, starting 2026 as the world number four. At the World Blitz Chess Championship in Doha, which concluded on 30 December 2025, he finished only 38th with 12 points from 19 games. On the same day, however, he won the final Chess.com Titled Tuesday of 2025, rounding off his chess year with another success. | Photo: Vincent Keymer at the 2025 World Rapid and Blitz Championships | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vincent-keymer-wins-titled-tuesday-2025",
+         "pubDate" : "Tue, 06 Jan 2026 07:00:00",
+         "title" : "Vincent Keymer wins last Titled Tuesday of 2025"
+      },
+      {
+         "description" : "A rare family chess spectacle took place in Budapest on 28 December, as four members of the Kar&aacute;csonyi family combined for a 150-board team simul. With all siblings rated above 2000, they moved in sequence across every board, relying on shared understanding of the position throughout the six-hour event. Facing a competitive field, the quartet achieved an impressive overall score, creating what appears to be a unique moment in chess history and an inspiring example of collective play at a high level.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karacsonyi-simul-world-record",
+         "pubDate" : "Tue, 06 Jan 2026 06:20:00",
+         "title" : "Kar&aacute;csonyi Simul: A unique world record is broken in Hungary"
+      },
+      {
          "description" : "The two-part R&eacute;ti course by Austrian GM Felix Blohberger is an opening FritzTrainer aimed primarily at conveying knowledge that can be applied in practical games. The player, coach and YouTuber offers in-depth insights into his own repertoire and the thinking that led him to the variations recommended there. One of his students, Peter Balint, managed to win an excellent game just a few days ago, naturally opening with the R&eacute;ti. Blohberger presents the game in video format.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,14 +42,6 @@ news_feed (
          "title" : "Take back and replay the same move!"
       },
       {
-         "description" : "The prize money at the Open of the 53rd International Dortmund Chess Days is 20,000 Euros. World Championship candidate Matthias Bl&uuml;baum will be playing in the A Open, and Germany's strongest female Dinara Wagner in the International Women's Tournament. You can register for the B-Open, which is played over eight rounds in the morning for players with a rating of up to 2050, so that in the afternoon they can watch the grandmasters play live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sparkassen-chess-trophy-2026",
-         "pubDate" : "Mon, 05 Jan 2026 10:00:00",
-         "title" : "Sparkassen Chess Trophy 2026"
-      },
-      {
          "description" : "What happens when two of the world&#39;s biggest creators collide? You&#39;re about to find out with the upcoming Gotham vs. Song match, taking place in Madrid, Spain from January 15 to 18. IMs Levy Rozman and Julien Song will compete in a series of 14 ga...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/opening-second-most-famous-musical-about-chess-opens-thursday",
          "pubDate" : "Mon, 05 Jan 2026 00:00:00",
          "title" : "The Opening: The Second Most Famous Musical About Chess Opens Thursday"
-      },
-      {
-         "description" : "Vincent Keymer's 2025 season marked a decisive step forward in his development as an elite player. Focusing exclusively on classical chess, this analysis reviews how the young German recovered from a modest start to the year, produced a series of standout results in the second half, and translated them into a major rating climb and a place among the world's top four by year's end.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/2025-breakthrough-year-vincent-keymer",
-         "pubDate" : "Sun, 04 Jan 2026 23:50:00",
-         "title" : "2025: A breakthrough year for Vincent Keymer"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126334660.cms\" />World champion D Gukesh has withdrawn from the 2026 Tata Steel Chess India tournament in Kolkata due to personal reasons and will be replaced by Nihal Sarin. The decision has disappointed fans and organisers, who called it a major setback. Despite his absence, the January 7 event will feature top Indian and international players in both Open and Women's sections.",
