@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessMates International (19-21 March, 2026) The ECF is putting out a call for interest in playing for the England Youth Team in the upcoming 13th ChessMates International in Monaco (19-21...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chessmates-international-2026/",
+         "pubDate" : "Tue, 06 Jan 2026 15:33:54",
+         "title" : "ChessMates International 2026"
+      },
+      {
+         "description" : "Five national federations, including the German Chess Federation, have filed a lawsuit against FIDE with the Court of Arbitration for Sport (CAS). Through the legal action, the federations are challenging the decisions adopted by the General Assembly of the F&eacute;d&eacute;ration Internationale des Échecs (FIDE) on 14 December 2025 concerning the participation of Russian and Belarusian national teams in international chess competitions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-sued-by-five-federations",
+         "pubDate" : "Tue, 06 Jan 2026 14:51:15",
+         "title" : "FIDE sued by five federations"
+      },
+      {
+         "description" : "With a one-point margin, third seed Xu Xiangyu of China won the Rilton Cup, which was played in Stockholm over the turn of the year. A total of 19 grandmasters competed for the title at the traditional tournament, but there was no way past Xu. He conceded just two draws: one against top seed Anton Demchenko in round five and another against Mahadevan Siva in the final round. These were also the two players he relegated to second and third place respectively. | Photo: Rilton Cup, Abdel Rahman Sadeh",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/xu-xiangyu-dominates-rilton-cup",
+         "pubDate" : "Tue, 06 Jan 2026 13:29:15",
+         "title" : "Xu Xiangyu dominates Rilton Cup"
+      },
+      {
          "description" : "Anastasia Corotcova explains how to create, manage, and organize variations in ChessBase when analysing games. It shows how to promote side lines to the main line, correct incorrect continuations, and safely replace moves. Finally, it demonstrates how to insert missing moves so game notation stays clear, accurate, and well-structured.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/how-a-pre-world-war-ii-chess-tournament-in-the-netherlands-inspired-indias-only-super-rapid-and-blitz-event-in-kolkata/articleshow/126369961.cms",
          "pubDate" : "Tue, 06 Jan 2026 08:36:16",
          "title" : "How a pre-World War II chess tournament in the Netherlands inspired India's only Super Rapid and Blitz event in Kolkata"
+      },
+      {
+         "description" : "We&#38;rsquo;re excited to announce the first event of the 2026 Chess.com Community Championships. The 2026 Chess.com Puzzles Championship takes place on January 15 and 16 and features a $5,000 prize fund. The event will bring together the world&#39;s bes...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-puzzles-championship-2026",
+         "pubDate" : "Tue, 06 Jan 2026 08:07:00",
+         "title" : "Join The Best Tacticians In The World In The 2026 Chess.com Puzzles Championship"
       },
       {
          "description" : "Vincent Keymer has enjoyed a very successful 2025. He went from one success to the next and, from January 2025 to January 2026, gained 43 rating points, starting 2026 as the world number four. At the World Blitz Chess Championship in Doha, which concluded on 30 December 2025, he finished only 38th with 12 points from 19 games. On the same day, however, he won the final Chess.com Titled Tuesday of 2025, rounding off his chess year with another success. | Photo: Vincent Keymer at the 2025 World Rapid and Blitz Championships | Photo: Lennart Ootes",
@@ -194,7 +226,7 @@ news_feed (
          "title" : "Check is in the Mail, January 2026: Let's start the year with E-Quads!"
       },
       {
-         "description" : " Retired Chicago Bulls great Derrick Rose stands between commentator James Dash and Magnus Carlsen at Chesstival 2025 in Las Vegas. Photo: Lennart Ootes/Freestyle Chess. Key Takeaways 2025 featured key moments, including Brewington Hardaway on the cover of Chess Life and Tani Adewumi achieving the IM title. High-profile losses, such as IM Stephen Muhammad, and a tragic The post <a href=\"https://thechessdrum.net/blog/2026/01/01/the-chess-drums-highlights-of-2025/\">The Chess Drum's Highlights of 2025</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Retired Chicago Bulls great Derrick Rose stands between commentator&#160;James Dash and Magnus Carlsen at Chesstival 2025 in Las Vegas. Photo: Lennart Ootes/Freestyle Chess. Key Takeaways 2025 featured key moments, including Brewington Hardaway on the cover of Chess Life and Tani Adewumi achieving the IM title. High-profile losses, such as IM Stephen Muhammad, and a tragic The post <a href=\"https://thechessdrum.net/blog/2026/01/01/the-chess-drums-highlights-of-2025/\">The Chess Drum's Highlights of 2025</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2026/01/01/the-chess-drums-highlights-of-2025/",
@@ -736,14 +768,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/inside-story-daniel-naroditsky-1995-2025",
          "pubDate" : "Mon, 22 Dec 2025 00:00:00",
          "title" : "Inside Story: Daniel Naroditsky (1995-2025)"
-      },
-      {
-         "description" : "GM Alireza Firouzja won a dramatic game against GM Viswanathan Anand as the Triveni Continental Kings beat the Ganges Grandmasters 14-5 to cruise into the Tech Mahindra Global Chess League 2025 Final. Who they face will be decided on Monday&#39;s fina...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-8",
-         "pubDate" : "Sun, 21 Dec 2025 12:46:00",
-         "title" : "Firouzja's Triveni Continental Kings Power Into Global Chess League Final"
       },
       {
          "description" : "A big reason why chess improvement is so complex nowadays is our tendency to overcomplicate things (especially common with adults!). A more hidden way to do that is to always try to find specific takeaways even when there are none. Especially when watching engine based, forced lines, often the only takeaway is the following: []",
