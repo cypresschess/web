@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The seventh edition of the Tata Steel Chess India tournament will take place in Kolkata on 7-11 January, featuring separate rapid and blitz tournaments in both the Open and Women's sections. The event is highlighted by the return of five-time world champion and Indian chess icon Viswanathan Anand, alongside a strong mix of domestic and international players. | Image: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2026-preview",
+         "pubDate" : "Tue, 06 Jan 2026 21:00:00",
+         "title" : "Tata Steel Chess India: Anand, Wei and Niemann amid strong lineup"
+      },
+      {
+         "description" : "Lilit Mkrtchian analyzes a complex and instructive game she played against 17-year-old Georgian rising star Anastasia Gad at the European Women's Championship, showing how deep opening preparation and understanding of pawn structures gave her an early, lasting advantage. She explains her use of ChessBase to study her opponent's tendencies, deliberately steering the game into a Slav-type structure with colours reversed, where her opponent made subtle inaccuracies that allowed Lilit to build pressure and play comfortably. Despite time trouble and a tense middlegame with aggressive counterplay, Lilit kept control, found precise tactical solutions, and ultimately converted her advantage, highlig",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lilit-mkrtchian-s-best-games-of-2025-understanding-pawn-structures",
+         "pubDate" : "Tue, 06 Jan 2026 18:00:00",
+         "title" : "Lilit Mkrtchian's Best Games of 2025 - Understanding pawn structures"
+      },
+      {
          "description" : "ChessMates International (19-21 March, 2026) The ECF is putting out a call for interest in playing for the England Youth Team in the upcoming 13th ChessMates International in Monaco (19-21...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -26,20 +42,44 @@ news_feed (
          "title" : "Xu Xiangyu dominates Rilton Cup"
       },
       {
-         "description" : "Anastasia Corotcova explains how to create, manage, and organize variations in ChessBase when analysing games. It shows how to promote side lines to the main line, correct incorrect continuations, and safely replace moves. Finally, it demonstrates how to insert missing moves so game notation stays clear, accurate, and well-structured.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-tips-for-beginners-how-to-add-variations",
-         "pubDate" : "Tue, 06 Jan 2026 13:00:00",
-         "title" : "ChessBase tips for beginners - How to add variations"
-      },
-      {
          "description" : "It's your chance to train and speak with Garry Kasparov and other world stars, LIVE! The KCF Academy announces the countdown to the official start of its new season on January 10, marking the beginning of another exciting chapter of learning, competition, and growth for our students and chess community. The Chess Star series of the lectures will open with a special highlight on January 11 - a masterclass by the legendary GM Veselin Topalov.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/kcf-opens-with-veselin-topalov",
          "pubDate" : "Tue, 06 Jan 2026 12:00:00",
          "title" : "KCF opens with Veselin Topalov"
+      },
+      {
+         "description" : "GM Magnus Carlsen is off to a fast start in Titled Tuesday in 2026, winning the January 6 tournament with a 9.5/11 score. He came out ahead of second-place GM Vincent Keymer and third-place GM Jan-Krzysztof Duda on tiebreaks. Duda, Keymer, and Car...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-january-6-2026",
+         "pubDate" : "Tue, 06 Jan 2026 11:53:20",
+         "title" : "New Year, Same Dominance As Carlsen Wins Titled Tuesday"
+      },
+      {
+         "description" : "We&#38;rsquo;re excited to announce the first event of the 2026 Chess.com Community Championships. The 2026 Chess.com Puzzles Championship takes place on January 15 and 16, starting at 1 p.m. ET/19:00 CET, and features a $5,000 prize fund. The event w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-puzzles-championship-2026",
+         "pubDate" : "Tue, 06 Jan 2026 10:16:00",
+         "title" : "Join The Best Tacticians In The World In The 2026 Chess.com Puzzles Championship"
+      },
+      {
+         "description" : "2025 was an eventful year for chess, and we surely had a lot to celebrate! We were lucky enough to see chess take over the world stage at the Esports World Cup, witness viral table-banging moments, gasp at brilliant sacrifices, and more. We aske...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-chesscom-awards-winners",
+         "pubDate" : "Tue, 06 Jan 2026 10:00:00",
+         "title" : "Naroditsky, Carlsen, Divya & Co. Are The 2025 Chess.com Awards Winners"
+      },
+      {
+         "description" : "The first 16 players have been determined for the 2026 Total Chess World Championship Tour pilot tournament (&#38;ldquo;Total Chess 2026 Pilot&#38;rdquo;), FIDE and Norway Chess announced on Tuesday. This year&#39;s event is a test run for the 2027 inaugural ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-total-chess-pilot-event-16-players-determined",
+         "pubDate" : "Tue, 06 Jan 2026 09:24:00",
+         "title" : "Carlsen, Nakamura, Gukesh Among 16 Players Qualifying For Total Chess 2026 Pilot Event"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126369961.cms\" />Kolkata has become a vibrant hub for world chess, hosting an elite rapid and blitz tournament with roots tracing back to a Dutch steel company's initiative in 1938. This annual spectacle, now in its seventh edition, showcases top international and Indian talent, fostering a strong sporting culture and engaging a passionate audience.",
@@ -50,22 +90,6 @@ news_feed (
          "title" : "How a pre-World War II chess tournament in the Netherlands inspired India's only Super Rapid and Blitz event in Kolkata"
       },
       {
-         "description" : "We&#38;rsquo;re excited to announce the first event of the 2026 Chess.com Community Championships. The 2026 Chess.com Puzzles Championship takes place on January 15 and 16 and features a $5,000 prize fund. The event will bring together the world&#39;s bes...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-puzzles-championship-2026",
-         "pubDate" : "Tue, 06 Jan 2026 08:07:00",
-         "title" : "Join The Best Tacticians In The World In The 2026 Chess.com Puzzles Championship"
-      },
-      {
-         "description" : "Vincent Keymer has enjoyed a very successful 2025. He went from one success to the next and, from January 2025 to January 2026, gained 43 rating points, starting 2026 as the world number four. At the World Blitz Chess Championship in Doha, which concluded on 30 December 2025, he finished only 38th with 12 points from 19 games. On the same day, however, he won the final Chess.com Titled Tuesday of 2025, rounding off his chess year with another success. | Photo: Vincent Keymer at the 2025 World Rapid and Blitz Championships | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vincent-keymer-wins-titled-tuesday-2025",
-         "pubDate" : "Tue, 06 Jan 2026 07:00:00",
-         "title" : "Vincent Keymer wins last Titled Tuesday of 2025"
-      },
-      {
          "description" : "A rare family chess spectacle took place in Budapest on 28 December, as four members of the Kar&aacute;csonyi family combined for a 150-board team simul. With all siblings rated above 2000, they moved in sequence across every board, relying on shared understanding of the position throughout the six-hour event. Facing a competitive field, the quartet achieved an impressive overall score, creating what appears to be a unique moment in chess history and an inspiring example of collective play at a high level.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,12 +98,12 @@ news_feed (
          "title" : "Kar&aacute;csonyi Simul: A unique world record is broken in Hungary"
       },
       {
-         "description" : "The two-part R&eacute;ti course by Austrian GM Felix Blohberger is an opening FritzTrainer aimed primarily at conveying knowledge that can be applied in practical games. The player, coach and YouTuber offers in-depth insights into his own repertoire and the thinking that led him to the variations recommended there. One of his students, Peter Balint, managed to win an excellent game just a few days ago, naturally opening with the R&eacute;ti. Blohberger presents the game in video format.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/peter-balint-success-felix-blohbergers-reti",
-         "pubDate" : "Mon, 05 Jan 2026 19:00:00",
-         "title" : "Peter Balint succeeds thanks to Felix Blohberger's course on the R&eacute;ti"
+         "description" : "This week's puzzles begin a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, including some brain-teasers in our Wednesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-world-rapid-blitz-pt-1",
+         "pubDate" : "Tue, 06 Jan 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2025 World Rapid & Blitz, Pt. 1"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126355476.cms\" />SG Pipers, featuring three Candidates 2026 qualifiers, defied expectations to win the Global Chess League Season 3. Coach Pravin Thipsay revealed that overconfidence on the top boards led to struggles, with the lower-ranked players ultimately carrying the team to victory.",
@@ -88,14 +112,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-2025-coaching-three-candidates-in-one-team-gm-thipsays-masterclass-behind-sg-pipers-title/articleshow/126355476.cms",
          "pubDate" : "Mon, 05 Jan 2026 14:29:56",
          "title" : "GCL: Coaching 3 Candidates in one team; Thipsay's masterclass behind SG Pipers' title"
-      },
-      {
-         "description" : "Did you solve the famous retractor by T.R. Dawson? You had to retract White's last move and then deliver a mate in two. And the solution? Take back the move h2-h4 and then play exactly the same move: 1.h2-h4! g4×h3 e.p. 2.B×g6#. Outrageous! Today we bring you a second instalment of solutions from our Christmas Puzzle Week. With retractors, reflectors, missing pieces and more. Hoping you like such out-of-the-box puzzles.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-solutions-2",
-         "pubDate" : "Mon, 05 Jan 2026 13:21:15",
-         "title" : "Take back and replay the same move!"
       },
       {
          "description" : "What happens when two of the world&#39;s biggest creators collide? You&#39;re about to find out with the upcoming Gotham vs. Song match, taking place in Madrid, Spain from January 15 to 18. IMs Levy Rozman and Julien Song will compete in a series of 14 ga...",
@@ -232,22 +248,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2026/01/01/the-chess-drums-highlights-of-2025/",
          "pubDate" : "Thu, 01 Jan 2026 16:02:57",
          "title" : "The Chess Drum's Highlights of 2025"
-      },
-      {
-         "description" : "Did you enjoy our Christmas puzzles? They were computer-resistant, which meant you could not simply ask a chess engine to solve them for you. Today we bring you a first batch of solutions - and reveal for the first time the solution to the decades-old problem of a game starting 1.e4 and ending on move five with knight takes rook mate. The solutions to the remaining problems will appear shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-solutions-1",
-         "pubDate" : "Thu, 01 Jan 2026 14:00:41",
-         "title" : "Could you solve them?"
-      },
-      {
-         "description" : "The National Scholastic Chess Foundation (NSCF) and Kasparov Chess Foundation (KCF) presented Mindsets: The New York Chess in Education Conference at Quorum in Rockefeller Center. It brought together educators, school administrators, and researchers from across the United States, and as far away as the UK, Latvia, and Sri Lanka. Through addresses, research presentations, and practitioner panels, the conference examined how chess can be used more intentionally in education-shifting the focus from \"natural talent\" toward growth, mastery, and purposeful play.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-york-chess-education-conference",
-         "pubDate" : "Thu, 01 Jan 2026 12:00:00",
-         "title" : "New York Chess Education Conference"
       },
       {
          "description" : "IM Goutham Krishna of Kerala and WFM Arshiya Das of Tripura won the 50th National Sub-Junior Open &#38; 41st National Sub-Junior Girls Chess Championships 2025",
@@ -730,44 +730,12 @@ news_feed (
          "title" : "Tactics Tuesday: North American Junior Championships, Pt. 2"
       },
       {
-         "description" : "GM Hou Yifan&#39;s 20-move win over GM Kateryna Lagno gave GM Fabiano Caruana&#39;s Alpine SG Pipers a spot in the Final of the Tech Mahindra Global Chess League 2025 despite the team suffering defeat. Their key rivals, GM Maxime Vachier-Lagrave&#39;s upGrad ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-9",
-         "pubDate" : "Mon, 22 Dec 2025 13:06:34",
-         "title" : "Hou Yifan's 4th Win In A Row Gives Alpine SG Pipers Spot In Final"
-      },
-      {
-         "description" : "The Collegiate Chess League (CCL) is back for another thrilling season, and registrations for Spring 2026 are officially open! Once again, the CCL will boast a $25,000 prize fund and the exciting four vs. four team format that fans and players lov...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-spring-2026-registration",
-         "pubDate" : "Mon, 22 Dec 2025 08:02:00",
-         "title" : "Collegiate Chess League Spring 2026 Registration"
-      },
-      {
-         "description" : "Chess.com&#39;s very own Chief Chess Officer (and commentator extraordinaire, bestselling author, and more) IM Danny Rensch will be playing Santa Claus of sorts in a special, Christmas-themed stream on December 23 starting at 2 p.m. ET/11 a.m. PT.&#38;nbs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/danny-rensch-dark-squares-arena-stream",
-         "pubDate" : "Mon, 22 Dec 2025 07:00:00",
-         "title" : "Play Danny's Christmas Bullet Bash For A Chance To Win Signed Chessboard, SCC Tickets"
-      },
-      {
          "description" : "Over 150 educators gather in New York to reimagine how chess develops student thinking and resilienceNEW YORK - The National Scholastic Chess Foundation (NSCF) and Kasparov Chess Foundation (KCF) presented Mindsets: The New York Chess in Education Conference on December 6 at Quorum in Rockefeller Center, bringing together educators, administrators, and researchers from across the United States and as far away as the UK, Latvia, and Sri Lanka.The conference centered on a fundamental question: How can chess be used more intentionally in education to help students develop growth mindsets, embrace productive struggle, and cultivate transferable thinking skills? From Talent to GrowthThe weekend's",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/mindsets-conference-explores-growth-purpose-and-future-chess-education",
          "pubDate" : "Mon, 22 Dec 2025 00:00:00",
          "title" : "Mindsets Conference Explores Growth, Purpose, and the Future of Chess Education"
-      },
-      {
-         "description" : "Editor's note: these stories first appeared in the December 2025 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.The December issue of Chess Life magazine was dedicated to the life and games of GM Daniel Naroditsky, who died tragically in October of this year at the age of 29. A former World Junior Champion, beloved educator, prodigious author, and wildly popular streamer and commentator, Naroditsky had a huge impact on the world of chess. <br> <br> <br> <br> <br> <br> <br> <br> <br> <",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/inside-story-daniel-naroditsky-1995-2025",
-         "pubDate" : "Mon, 22 Dec 2025 00:00:00",
-         "title" : "Inside Story: Daniel Naroditsky (1995-2025)"
       },
       {
          "description" : "A big reason why chess improvement is so complex nowadays is our tendency to overcomplicate things (especially common with adults!). A more hidden way to do that is to always try to find specific takeaways even when there are none. Especially when watching engine based, forced lines, often the only takeaway is the following: []",
