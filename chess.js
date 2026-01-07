@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At Christmas 2025, Stefan L&ouml;ffler delighted readers of his chess column in the Frankfurter Allgemeine Zeitung-one of Germany's leading national newspapers-with a Christmas story. Forty years earlier, Garry Kasparov, still not yet world champion, had played a clock simul against the Bundesliga team of Hamburger SK and lost. Two years later, Kasparov returned to Hamburg as world champion. This time he won the rematch, and during the visit encountered a remarkable new development that was to change the game profoundly: a chess database.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/forty-years-ago-kasparov-vs-hamburger-sk",
+         "pubDate" : "Wed, 07 Jan 2026 17:00:29",
+         "title" : "Forty Years Ago: Kasparov vs. Hamburger SK"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126398027.cms\" />Five-time world champion Viswanathan Anand showed he remains a force to reckon with in a field increasingly dominated by youngsters, notching up two wins to emerge joint leader with 2.5 points after three rounds of the Rapid games on the opening day of the Tata Steel Chess India here on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/kolkata-rapid-blitz-chess-five-time-world-champion-viswanathan-anand-american-hans-niemann-share-lead-after-day-1/articleshow/126398027.cms",
+         "pubDate" : "Wed, 07 Jan 2026 16:02:31",
+         "title" : "Kolkata Rapid &amp; Blitz: Anand, Niemann share lead after Day 1"
+      },
+      {
+         "description" : "The European Women's Rapid &#38; Blitz Chess Championship 2025 is set to take place from 8th-12th January 2026 in Monte-Carlo, Monaco. The first event on the schedule will be the European Women's Blitz Chess Championship 2025 which will be played on 9th of January 2026. The event will be played according to the Swiss system, in 13 rounds, with the time control 3 minutes game + 2 seconds per move starting from the first move. European Women's Rapid Chess Championship []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-championship-2025-starts-in-monaco/",
+         "pubDate" : "Wed, 07 Jan 2026 13:05:08",
+         "title" : "European Women's Rapid and Blitz Chess Championship 2025 starts in Monaco"
+      },
+      {
          "description" : "The seventh edition of the Tata Steel Chess India tournament is taking place in Kolkata on 7-11 January, featuring separate rapid and blitz tournaments in both the Open and Women's sections. The rapid tournaments are played from 7 to 9 January, with three rounds per day. The blitz sections follow on 10-11 January, featuring nine rounds per day. | Follow the action live, with expert commentary starting at 15:00 local time (10:30 CET, 04:30 ET).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -538,14 +562,6 @@ news_feed (
          "title" : "World Blitz: 'King' Carlsen could be playing for his 9th crown"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126224454.cms\" />Magnus Carlsen secured his sixth World Rapid Championship title in Doha after a strong comeback, winning five consecutive games. India's Arjun Erigaisi and Koneru Humpy also achieved podium finishes, winning bronze medals in their respective sections. Aleksandra Goryachkina claimed the women's title in a playoff.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-wins-sixth-rapid-world-title-koneru-humpy-joint-top-but-settles-for-bronze/articleshow/126224454.cms",
-         "pubDate" : "Mon, 29 Dec 2025 04:45:33",
-         "title" : "Magnus Carlsen wins sixth Rapid World title; Koneru Humpy joint top but settles for bronze"
-      },
-      {
          "description" : "Rating Fee Increase Effective January 1US Chess will increase the per-game rating fee from 25 cents to 30 cents on Jan. 1, 2026, and from 30 cents to 35 cents per game on July 1. A plan for future adjustments will be discussed at the 2026 Delegates Meeting held in conjunction with the 2026 U.S. Open in Grand Rapids, MI. The Executive Board unanimously approved this change at its Dec. 9, 2025 meeting.The rating system is a core US Chess service, processing millions of games each year. Operating this system requires staff, technical resources, and ongoing investment, including continued development of the new MUIR system. Demand for timely and accurate ratings has increased, while the per-game",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -776,38 +792,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/12/17/nm-charles-troutman-to-lead-washu-for-pan-ams/",
          "pubDate" : "Wed, 17 Dec 2025 18:48:13",
          "title" : "NM Charles Troutman to lead WashU for Pan-Ams"
-      },
-      {
-         "description" : " The Magistral Szmetan-Giardelli was Round Robin held in Buenos Aire 8th to 16th December 2025. Players: Aryan Tari, Ivan Cheparinov, Julio, Granda Zuniga, Alexei Shirov, Diego Flores, Sandro Mareco, Faustino Oro, Ilan Schnaider, Sergio Slipak and Tomas, Darcyl. Aryan Tari took a quick draw in the final round and won on tie-break from Ivan Cheparinov after both scored 6/9, Alexei Shirov was also very much in the running for first place going into the final round but lost to Granda Zuniga in the final round and ended up in third place on tie-break from Faustino Oro on 5.5/9, Oro made his second GM norm.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/magistral-szmetan-giardelli-2025",
-         "pubDate" : "Wed, 17 Dec 2025 15:41:00",
-         "title" : "Magistral Szmetan-Giardelli 2025 - Games and Results"
-      },
-      {
-         "description" : "The desperately sad news has just been announced that GM Jonathan Hawkins has died at the tragically early age of 42. Our deepest condolences go to Jonathan's family. Many of...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-chess-champion-jonathan-hawkins-rip/",
-         "pubDate" : "Wed, 17 Dec 2025 13:38:50",
-         "title" : "British Chess Champion Jonathan Hawkins RIP"
-      },
-      {
-         "description" : "Saturday 14th and Sunday 15th March at the&#160;Holiday Inn Peterborough - West,&#160;Thorpe Wood, Peterborough, PE3 6SG. One FIDE rated OPEN section, with a prize fund of at least &pound;6,500.&#160;GMs/WGMs and...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-rapidplay-championship-2026/",
-         "pubDate" : "Wed, 17 Dec 2025 13:26:53",
-         "title" : "British Rapidplay Championship 2026"
-      },
-      {
-         "description" : "The 51st National Women Chess Championship 2025 was held from 3rd to 13th December 2025 at the Sidhu Kanhu Indoor Stadium, Durgapur, West Bengal. This",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fina-report51st-national-womens-chess-championship-2025-in-durgapur-from-03-13-dec-2025/",
-         "pubDate" : "Wed, 17 Dec 2025 12:44:05",
-         "title" : "Final Report:51st National Women's Chess Championship 2025 in Durgapur from 03-13 Dec 2025"
       }
    ]
 }
