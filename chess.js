@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The seventh edition of the Tata Steel Chess India tournament is taking place in Kolkata on 7-11 January, featuring separate rapid and blitz tournaments in both the Open and Women's sections. The rapid tournaments are played from 7 to 9 January, with three rounds per day. The blitz sections follow on 10-11 January, featuring nine rounds per day. | Follow the action live, with expert commentary starting at 15:00 local time (10:30 CET, 04:30 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2026-live",
+         "pubDate" : "Wed, 07 Jan 2026 10:20:00",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
          "description" : "In the final sections of our Christmas Puzzle Week we brought you a variety of famous and less well-known puzzles. Among them a mate problem that solves itself - literally. And one that looks deceptively simple, but requires a very subtle strategy to find the win. In no less than 46 moves! Can computers solve it?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/2025-breakthrough-year-zhu-jiner",
          "pubDate" : "Wed, 07 Jan 2026 04:45:00",
          "title" : "2025: A breakthrough year for Zhu Jiner"
+      },
+      {
+         "description" : "Five national chess federations have formally launched a legal challenge against the International Chess Federation (FIDE) at the Court of Arbitration for Sport (CAS), contesting the decisions taken at December&#39;s online General Assembly to lift re...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/5-national-chess-federations-take-fide-to-cas-after-general-assembly-chaos",
+         "pubDate" : "Wed, 07 Jan 2026 03:17:35",
+         "title" : "5 Federations Take FIDE To CAS Over Vote Allowing Russian, Belarusian Teams Back"
       },
       {
          "description" : "The seventh edition of the Tata Steel Chess India tournament will take place in Kolkata on 7-11 January, featuring separate rapid and blitz tournaments in both the Open and Women's sections. The event is highlighted by the return of five-time world champion and Indian chess icon Viswanathan Anand, alongside a strong mix of domestic and international players. | Image: Official site",
@@ -714,14 +730,6 @@ news_feed (
          "title" : "Global Chess League Finals - Live!"
       },
       {
-         "description" : "GM Jonathan Hawkins, a two-time British Champion, author, and coach, passed away on Monday at the age of 42 after losing the battle with a rare form of cancer. His passing came just a week after GM Daniel Gormally had launched an appeal to help Ha...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jonathan-hawkins-obituary",
-         "pubDate" : "Tue, 23 Dec 2025 10:39:00",
-         "title" : "Jonathan Hawkins (1983-2025)"
-      },
-      {
          "description" : "This week's puzzles once again come from the 2025 North American Junior Championships, where FM Julian Colville earned a GM norm and the IM title and WFM Laurie Qiu earned a WGM norm for their gold medals. Read more about this event here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -800,46 +808,6 @@ news_feed (
          "link" : "https://aicf.in/fina-report51st-national-womens-chess-championship-2025-in-durgapur-from-03-13-dec-2025/",
          "pubDate" : "Wed, 17 Dec 2025 12:44:05",
          "title" : "Final Report:51st National Women's Chess Championship 2025 in Durgapur from 03-13 Dec 2025"
-      },
-      {
-         "description" : "The ECF condemns the conduct of the FIDE Congress staged online last Sunday. There were multiple abuses of process, not least, conducting the vote on Russian teams in secret was...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/vote-at-fide-congress-lifting-sanctions-against-the-russian-chess-federation/",
-         "pubDate" : "Wed, 17 Dec 2025 11:37:34",
-         "title" : "Vote at FIDE Congress Lifting Sanctions against the Russian Chess Federation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.bbc.co.uk/news/articles/c0r9jyxpp5jo#new_tab",
-         "pubDate" : "Wed, 17 Dec 2025 11:10:38",
-         "title" : "'My opponents get annoyed when they lose to a child' - BBC"
-      },
-      {
-         "description" : "The ECF is proud to launch a new event, the International Series, which is designed to encourage players aspiring to play for England in its international teams to participate in...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-international-series-2026-launch/",
-         "pubDate" : "Wed, 17 Dec 2025 10:49:26",
-         "title" : "ECF International Series 2026 - launch"
-      },
-      {
-         "description" : "The inaugural English Youth Championship will be held on March 7-8, 2026 at Nottingham High School, and is aimed at selecting England Open and Girls to play in 2026 World...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/inaugural-english-youth-championships/",
-         "pubDate" : "Wed, 17 Dec 2025 10:45:23",
-         "title" : "Inaugural English Youth Championships 2026"
-      },
-      {
-         "description" : " from Carl Portman, ECF Manager for Chess in Prisons The prison HMP Littlehey is a large Category C men's prison in Cambridgeshire, England, specializing in holding adult males convicted...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/visit-to-hmp-littlehey-on-10-december-2025/",
-         "pubDate" : "Wed, 17 Dec 2025 09:12:49",
-         "title" : "Visit to HMP Littlehey on 10 December 2025"
       }
    ]
 }
