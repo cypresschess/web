@@ -6,7 +6,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/forty-years-ago-kasparov-vs-hamburger-sk",
-         "pubDate" : "Wed, 07 Jan 2026 17:00:29",
+         "pubDate" : "Wed, 07 Jan 2026 18:09:35",
          "title" : "Forty Years Ago: Kasparov vs. Hamburger SK"
       },
       {
@@ -24,6 +24,22 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-championship-2025-starts-in-monaco/",
          "pubDate" : "Wed, 07 Jan 2026 13:05:08",
          "title" : "European Women's Rapid and Blitz Chess Championship 2025 starts in Monaco"
+      },
+      {
+         "description" : "Freestyle Chess and FIDE have agreed to join forces to stage the FIDE Freestyle Chess World Championship, scheduled for February 13&#38;ndash;15, 2026, in Weissenhaus, Germany.&#38;nbsp; The surprise announcement was made on Wednesday, just over one mon...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/freestyle-chess-fide-world-championship-partnership-2026",
+         "pubDate" : "Wed, 07 Jan 2026 11:59:00",
+         "title" : "Freestyle Chess Partners With FIDE To Stage Official World Championship In February"
+      },
+      {
+         "description" : "GMs Viswanathan Anand and Hans Niemann lead 2026 Tata Steel Chess India with 2.5 points out of the first three games. Anand scored wins against GMs Wesley So&#38;nbsp;and Aravindh Chithambaram, while Niemann scored his against 2024 Rapid World Champio...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-india-day-1",
+         "pubDate" : "Wed, 07 Jan 2026 11:23:00",
+         "title" : "Anand, Niemann Lead Open; Yip Leads Women's"
       },
       {
          "description" : "The seventh edition of the Tata Steel Chess India tournament is taking place in Kolkata on 7-11 January, featuring separate rapid and blitz tournaments in both the Open and Women's sections. The rapid tournaments are played from 7 to 9 January, with three rounds per day. The blitz sections follow on 10-11 January, featuring nine rounds per day. | Follow the action live, with expert commentary starting at 15:00 local time (10:30 CET, 04:30 ET).",
@@ -64,6 +80,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/5-national-chess-federations-take-fide-to-cas-after-general-assembly-chaos",
          "pubDate" : "Wed, 07 Jan 2026 03:17:35",
          "title" : "5 Federations Take FIDE To CAS Over Vote Allowing Russian, Belarusian Teams Back"
+      },
+      {
+         "description" : "This week's puzzles begin a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out the start of our Tactics Tuesday series with more beginner-friendly puzzles here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2025-world-rapid-blitz-pt-1",
+         "pubDate" : "Wed, 07 Jan 2026 00:00:00",
+         "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 1"
       },
       {
          "description" : "The seventh edition of the Tata Steel Chess India tournament will take place in Kolkata on 7-11 January, featuring separate rapid and blitz tournaments in both the Open and Women's sections. The event is highlighted by the return of five-time world champion and Indian chess icon Viswanathan Anand, alongside a strong mix of domestic and international players. | Image: Official site",
@@ -722,22 +746,6 @@ news_feed (
          "title" : "Tech Mahindra Global Chess League 2025 - Games and Results"
       },
       {
-         "description" : "GM Fabiano Caruana&#39;s Alpine SG Pipers have won the Tech Mahindra Global Chess League 2025 with a 2-0 sweep in the Final, where GM Anish Giri and Leon Luke Mendonca starred with 2/2. GM Alireza Firouzja at times fought a lone battle as the Triveni ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tech-mahindra-global-chess-league-day-10",
-         "pubDate" : "Tue, 23 Dec 2025 12:05:00",
-         "title" : "Caruana's Alpine SG Pipers Win 2025 Global Chess League"
-      },
-      {
-         "description" : "GM Jan-Krzysztof Duda won a dramatic Titled Tuesday on December 23, just barely winning on tiebreaks ahead of GM Maxime Vachier-Lagrave. It was Duda&#39;s first win in the event since February 18, and he got there by defeating GM Magnus Carlsen in the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/duda-wins-titled-tuesday-december-23-2025",
-         "pubDate" : "Tue, 23 Dec 2025 11:41:00",
-         "title" : "Duda Wins Nailbiter Over Vachier-Lagrave, Carlsen"
-      },
-      {
          "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 11.00 CET (5.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-north-american-junior-championships-pt-2",
          "pubDate" : "Tue, 23 Dec 2025 00:00:00",
          "title" : "Tactics Tuesday: North American Junior Championships, Pt. 2"
-      },
-      {
-         "description" : "Over 150 educators gather in New York to reimagine how chess develops student thinking and resilienceNEW YORK - The National Scholastic Chess Foundation (NSCF) and Kasparov Chess Foundation (KCF) presented Mindsets: The New York Chess in Education Conference on December 6 at Quorum in Rockefeller Center, bringing together educators, administrators, and researchers from across the United States and as far away as the UK, Latvia, and Sri Lanka.The conference centered on a fundamental question: How can chess be used more intentionally in education to help students develop growth mindsets, embrace productive struggle, and cultivate transferable thinking skills? From Talent to GrowthThe weekend's",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/mindsets-conference-explores-growth-purpose-and-future-chess-education",
-         "pubDate" : "Mon, 22 Dec 2025 00:00:00",
-         "title" : "Mindsets Conference Explores Growth, Purpose, and the Future of Chess Education"
       },
       {
          "description" : "A big reason why chess improvement is so complex nowadays is our tendency to overcomplicate things (especially common with adults!). A more hidden way to do that is to always try to find specific takeaways even when there are none. Especially when watching engine based, forced lines, often the only takeaway is the following: []",
@@ -784,14 +784,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/dec/19/chess-magnus-carlsen-back-in-world-rapid-and-blitz-as-fide-signals-jeansgate-peace",
          "pubDate" : "Fri, 19 Dec 2025 08:00:56",
          "title" : "Chess: Magnus Carlsen back in World Rapid and Blitz as Fide signals jeansgate peace"
-      },
-      {
-         "description" : " Charles Troutman III is a rising senior set to graduate from Washington University in May 2026. The Atlanta native has decided on a career in technology and is currently an intern at the design company Figma. Located in Silicon Valley, the company had a massive IPO in July, resulting in a $68 billion valuation, and The post <a href=\"https://thechessdrum.net/blog/2025/12/17/nm-charles-troutman-to-lead-washu-for-pan-ams/\">NM Charles Troutman to lead WashU for Pan-Ams</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/12/17/nm-charles-troutman-to-lead-washu-for-pan-ams/",
-         "pubDate" : "Wed, 17 Dec 2025 18:48:13",
-         "title" : "NM Charles Troutman to lead WashU for Pan-Ams"
       }
    ]
 }
