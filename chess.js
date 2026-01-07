@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the final sections of our Christmas Puzzle Week we brought you a variety of famous and less well-known puzzles. Among them a mate problem that solves itself - literally. And one that looks deceptively simple, but requires a very subtle strategy to find the win. In no less than 46 moves! Can computers solve it?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-solutions-3",
+         "pubDate" : "Wed, 07 Jan 2026 07:42:39",
+         "title" : "Christmas week puzzles solutions 3"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126387825.cms\" />Viswanathan Anand returns to competitive Indian chess after a six-year hiatus at the Tata Steel Rapid and Blitz Chess India tournament. The five-time world champion faces a unique challenge as he competes against his own students, Arjun Erigaisi, R Praggnanandhaa, and Nihal Sarin, all products of his academy and in strong form.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/from-mentor-to-rival-anand-to-face-his-pupils-at-tata-steel-rapid-and-blitz-chess-india/articleshow/126387825.cms",
+         "pubDate" : "Wed, 07 Jan 2026 05:48:53",
+         "title" : "From mentor to rival: Anand to face his pupils at Tata Steel Rapid and Blitz Chess India"
+      },
+      {
          "description" : "Zhu Jiner's 2025 season marked a decisive shift in her standing within women's chess. Focusing exclusively on classical chess, this analysis traces her rise from the edge of the top ten to world number two, examining her breakthrough performances in the Women's Grand Prix, a brief mid-year dip in form and a strong finish - which included a remarkable showing at the Fujairah Superstars tournament. | Photo: Abhilash Shinde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/deac-wins-freestyle-friday-december-26-2025",
          "pubDate" : "Fri, 26 Dec 2025 14:00:00",
          "title" : "Bogdan-Daniel Deac Wins Post-Christmas Freestyle Friday On Tiebreaks"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126190341.cms\" />Hungarian GM Rich&aacute;rd Rapport shared insights on the upcoming 2026 Candidates Tournament in Cyprus, saying experience will play a key role. He noted that veterans like Hikaru Nakamura and Fabiano Caruana may play tight games against each other, while decisive results often come against struggling players. Rapport added that lower-seeded players can still create surprises in the round-robin format.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-anish-giri-or-hikaru-nakamura-richrd-rapport-reveals-his-pick-for-candidates-2026-exclusive/articleshow/126190341.cms",
-         "pubDate" : "Fri, 26 Dec 2025 12:51:38",
-         "title" : "Pragg, Giri or Nakamura? Rapport reveals pick for Candidates | Exclusive"
       },
       {
          "description" : "GMs Magnus Carlsen, Gukesh Dommaraju, Arjun Erigaisi, Maxime Vachier-Lagrave, and Vladislav Artemiev lead the 2025 FIDE World Rapid Chess Championship with 4.5 points out of five games on the first day. The group of 15 players that trails them by ...",
