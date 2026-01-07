@@ -54,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-january-6-2026",
-         "pubDate" : "Tue, 06 Jan 2026 11:53:20",
+         "pubDate" : "Tue, 06 Jan 2026 11:53:00",
          "title" : "New Year, Same Dominance As Carlsen Wins Titled Tuesday"
       },
       {
