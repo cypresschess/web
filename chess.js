@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Zhu Jiner's 2025 season marked a decisive shift in her standing within women's chess. Focusing exclusively on classical chess, this analysis traces her rise from the edge of the top ten to world number two, examining her breakthrough performances in the Women's Grand Prix, a brief mid-year dip in form and a strong finish - which included a remarkable showing at the Fujairah Superstars tournament. | Photo: Abhilash Shinde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/2025-breakthrough-year-zhu-jiner",
+         "pubDate" : "Wed, 07 Jan 2026 04:45:00",
+         "title" : "2025: A breakthrough year for Zhu Jiner"
+      },
+      {
          "description" : "The seventh edition of the Tata Steel Chess India tournament will take place in Kolkata on 7-11 January, featuring separate rapid and blitz tournaments in both the Open and Women's sections. The event is highlighted by the return of five-time world champion and Indian chess icon Viswanathan Anand, alongside a strong mix of domestic and international players. | Image: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,14 +50,6 @@ news_feed (
          "title" : "Xu Xiangyu dominates Rilton Cup"
       },
       {
-         "description" : "It's your chance to train and speak with Garry Kasparov and other world stars, LIVE! The KCF Academy announces the countdown to the official start of its new season on January 10, marking the beginning of another exciting chapter of learning, competition, and growth for our students and chess community. The Chess Star series of the lectures will open with a special highlight on January 11 - a masterclass by the legendary GM Veselin Topalov.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-opens-with-veselin-topalov",
-         "pubDate" : "Tue, 06 Jan 2026 12:00:00",
-         "title" : "KCF opens with Veselin Topalov"
-      },
-      {
          "description" : "GM Magnus Carlsen is off to a fast start in Titled Tuesday in 2026, winning the January 6 tournament with a 9.5/11 score. He came out ahead of second-place GM Vincent Keymer and third-place GM Jan-Krzysztof Duda on tiebreaks. Duda, Keymer, and Car...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -88,14 +88,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/how-a-pre-world-war-ii-chess-tournament-in-the-netherlands-inspired-indias-only-super-rapid-and-blitz-event-in-kolkata/articleshow/126369961.cms",
          "pubDate" : "Tue, 06 Jan 2026 08:36:16",
          "title" : "How a pre-World War II chess tournament in the Netherlands inspired India's only Super Rapid and Blitz event in Kolkata"
-      },
-      {
-         "description" : "A rare family chess spectacle took place in Budapest on 28 December, as four members of the Kar&aacute;csonyi family combined for a 150-board team simul. With all siblings rated above 2000, they moved in sequence across every board, relying on shared understanding of the position throughout the six-hour event. Facing a competitive field, the quartet achieved an impressive overall score, creating what appears to be a unique moment in chess history and an inspiring example of collective play at a high level.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karacsonyi-simul-world-record",
-         "pubDate" : "Tue, 06 Jan 2026 06:20:00",
-         "title" : "Kar&aacute;csonyi Simul: A unique world record is broken in Hungary"
       },
       {
          "description" : "This week's puzzles begin a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, including some brain-teasers in our Wednesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
