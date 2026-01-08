@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With their inclusion project Open Window, Tatiana Flores and Laura Schalkh&auml;user provide a forum for communication and the exchange of experiences related to living with disabilities. One of the topics they address is sport - including chess - and participation despite physical impairment. In an interview, Paralympic champion Martin Braxenthaler spoke about his personal experiences.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-with-paralympic-champion-martin-braxenthaler",
+         "pubDate" : "Thu, 08 Jan 2026 21:00:00",
+         "title" : "Interview with Paralympic Champion Martin Braxenthaler"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126419660.cms\" />A controversial moment dominated Day 2 of the Tata Steel Chess India Rapid in Kolkata when R Praggnanandhaa stopped the clock with one second left, leading to a disputed draw against Wesley So. Arbiter Chris Bird said it should have been a loss under chess laws. Elsewhere, Viswanathan Anand rebounded to joint lead with Nihal Sarin, while Kateryna Lagno topped the women's standings.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-controversy-in-kolkata-r-praggnanandhaa-stops-clock-draw-call-sparks-uproar-watch/articleshow/126419660.cms",
+         "pubDate" : "Thu, 08 Jan 2026 17:33:29",
+         "title" : "Chess Controversy! Pragg stops clock; draw call sparks uproar - Watch"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126419167.cms\" />Five-time world champion Viswanathan Anand recovered from an early setback to register two victories and emerge as joint leader with Nihal Sarin after six rounds of the Tata Steel Chess India Rapid here on Thursday. Rounds four to six produced fighting chess and frequent shifts at the top of the standings in both the Open and Women's sections.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/kolkata-rapid-blitz-nihal-sarin-joins-viswanathan-anand-at-the-top-after-day-2/articleshow/126419167.cms",
+         "pubDate" : "Thu, 08 Jan 2026 17:01:01",
+         "title" : "Kolkata Rapid &amp; Blitz: Nihal Sarin joins Anand at the top after Day 2"
+      },
+      {
          "description" : "More convenience, better clarity, greater performance: ChessBase Mobile now comes with numerous improvements for even more efficient work at the chessboard - whether at home or on the go. And best of all, the app updates itself automatically, without requiring an update from the App Store. Just launch it and benefit immediately.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://aicf.in/expression-of-interest-for-aicf-coach-in-various-events-and-camps-2026-27/",
          "pubDate" : "Thu, 08 Jan 2026 11:56:33",
          "title" : "Expression of Interest for AICF Coach in Various Events and Camps 2026-27"
+      },
+      {
+         "description" : "GMs Viswanathan Anand and Nihal Sarin ended day two of 2026 Tata Steel Chess India in the shared lead with 4.5 points out of six games. Anand lost his first game against GM Arjun Erigaisi but bounced back with two wins, while Nihal won all three o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-india-day-2",
+         "pubDate" : "Thu, 08 Jan 2026 11:17:00",
+         "title" : "Anand Bounces Back, Leads With Nihal; Lagno Takes Over In Women's"
       },
       {
          "description" : "On behalf of All India Chess Federation ,&#160;Punjab State Chess Association&#160;&#160;&#160;is organizing Senior National Arbiter Seminar &#38; exam at Amity University ,Sector 82 ,Airport Road",
@@ -162,14 +194,6 @@ news_feed (
          "title" : "Tata Steel Chess India: Anand, Wei and Niemann amid strong lineup"
       },
       {
-         "description" : "Lilit Mkrtchian analyzes a complex and instructive game she played against 17-year-old Georgian rising star Anastasia Gad at the European Women's Championship, showing how deep opening preparation and understanding of pawn structures gave her an early, lasting advantage. She explains her use of ChessBase to study her opponent's tendencies, deliberately steering the game into a Slav-type structure with colours reversed, where her opponent made subtle inaccuracies that allowed Lilit to build pressure and play comfortably. Despite time trouble and a tense middlegame with aggressive counterplay, Lilit kept control, found precise tactical solutions, and ultimately converted her advantage, highlig",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lilit-mkrtchian-s-best-games-of-2025-understanding-pawn-structures",
-         "pubDate" : "Tue, 06 Jan 2026 18:00:00",
-         "title" : "Lilit Mkrtchian's Best Games of 2025 - Understanding pawn structures"
-      },
-      {
          "description" : "ChessMates International (19-21 March, 2026) The ECF is putting out a call for interest in playing for the England Youth Team in the upcoming 13th ChessMates International in Monaco (19-21...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -184,14 +208,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-sued-by-five-federations",
          "pubDate" : "Tue, 06 Jan 2026 14:51:15",
          "title" : "FIDE sued by five federations"
-      },
-      {
-         "description" : "With a one-point margin, third seed Xu Xiangyu of China won the Rilton Cup, which was played in Stockholm over the turn of the year. A total of 19 grandmasters competed for the title at the traditional tournament, but there was no way past Xu. He conceded just two draws: one against top seed Anton Demchenko in round five and another against Mahadevan Siva in the final round. These were also the two players he relegated to second and third place respectively. | Photo: Rilton Cup, Abdel Rahman Sadeh",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/xu-xiangyu-dominates-rilton-cup",
-         "pubDate" : "Tue, 06 Jan 2026 13:29:15",
-         "title" : "Xu Xiangyu dominates Rilton Cup"
       },
       {
          "description" : "GM Magnus Carlsen is off to a fast start in Titled Tuesday in 2026, winning the January 6 tournament with a 9.5/11 score. He came out ahead of second-place GM Vincent Keymer and third-place GM Jan-Krzysztof Duda on tiebreaks. Duda, Keymer, and Car...",
@@ -578,14 +594,6 @@ news_feed (
          "title" : "World Blitz Championship: Magnus Carlsen slams table, this time after loss to Arjun Erigaisi"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126243753.cms\" />FIDE's unequal tie-break rules in the Women's World Rapid Championship potentially cost India a title. While the Open section allowed all top finishers to play tie-breaks, the Women's section limited it to the top two, impacting K Humpy's chance for gold. FIDE CEO's explanation citing player preferences failed to convince.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/different-chess-playoff-rule-for-women-makes-little-sense/articleshow/126243753.cms",
-         "pubDate" : "Tue, 30 Dec 2025 04:20:26",
-         "title" : "Different chess playoff rule for women makes little sense"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126243659.cms\" />Arjun Erigaisi finally broke his world championship jinx, securing a coveted podium finish at the World Rapid Championship. After years of near-misses, the young Indian chess prodigy showcased remarkable resilience, overcoming setbacks to clinch a bronze medal. This achievement marks a significant milestone, placing him alongside Viswanathan Anand as a decorated Indian player on the world stage.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-national-women-chess-championship-in-durgapur-wb-from-03-13-dec-2025/",
          "pubDate" : "Mon, 29 Dec 2025 11:41:47",
          "title" : "Certificate :National Women Chess Championship in Durgapur, WB from 03-13 Dec 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126229445.cms\" />Seven-year-old Pragnika Vaka Lakshmi, Under-7 Girls champion at the FIDE World Schools Chess Championship 2025, met PM Narendra Modi after winning gold for India on Friday. From learning chess during COVID to rapid success, she shows rare courage and discipline. Backed by family sacrifices, scholarships, and offline coaching, she balances school, training, and dreams of becoming the best chess player worldwide.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-champion-at-7-in-her-first-international-event-nervous-while-meeting-pm-modi-how-pragnika-lakshmi-became-a-chess-prodigy/articleshow/126229445.cms",
-         "pubDate" : "Mon, 29 Dec 2025 11:18:56",
-         "title" : "World champ at 7; 'nervous' while meeting PM Modi: How Pragnika became prodigy"
       },
       {
          "description" : "GMs Arjun Erigaisi, Maxime Vachier-Lagrave, and Fabiano Caruana lead the 2025 FIDE World Blitz Chess Championship with 10 points out of 13 games and six rounds left in the Swiss portion. GM Magnus Carlsen, who dominated the rapid world championshi...",
@@ -744,14 +744,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2025-fide-world-rapid-blitz-preview",
          "pubDate" : "Fri, 26 Dec 2025 00:00:00",
          "title" : "2025 FIDE World Rapid & Blitz Preview"
-      },
-      {
-         "description" : "GM Magnus Carlsen says he enters the World Rapid &#38;amp; Blitz Championship with motivation and a determination to &#34;give it my all&#34; after several months of doubts over whether he would even take part in the events at all. The first day of the 2025...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-reviews-2025",
-         "pubDate" : "Thu, 25 Dec 2025 18:23:00",
-         "title" : "Carlsen On World Rapid & Blitz: 'As Long As I'm In Good Shape, I'll Be A Dangerous Man'"
       },
       {
          "description" : "Christmas day is usually celebrated with a Christmas tree - in problem chess circles occasionally with a puzzle shaped like a Christmas tree. Like this example, composed by the famous Thomas Rayner Dawson, 101 years ago. It illustrates the universal principle of symmetry, and how it can be broken in a chess problem. Mathematics professor Christian Hesse delves into the very profound thinking behind the problem. But you are invited to solve it first.",
