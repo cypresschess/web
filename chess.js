@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The opening day of Tata Steel Chess India in Kolkata delivered an entertaining start in both sections of the rapid tournament. In the open, Viswanathan Anand and Hans Niemann (pictured) share the lead with 2&frac12; points after three rounds marked by a high number of decisive games. The women's event produced a sole leader in Carissa Yip, who also scored 2&frac12; points. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2026-1",
+         "pubDate" : "Thu, 08 Jan 2026 02:50:00",
+         "title" : "Tata Steel Chess India: Anand and Niemann share the lead"
+      },
+      {
          "description" : "At Christmas 2025, Stefan L&ouml;ffler delighted readers of his chess column in the Frankfurter Allgemeine Zeitung-one of Germany's leading national newspapers-with a Christmas story. Forty years earlier, Garry Kasparov, still not yet world champion, had played a clock simul against the Bundesliga team of Hamburger SK and lost. Two years later, Kasparov returned to Hamburg as world champion. This time he won the rematch, and during the visit encountered a remarkable new development that was to change the game profoundly: a chess database.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,14 +50,6 @@ news_feed (
          "title" : "Anand, Niemann Lead Open; Yip Leads Women's"
       },
       {
-         "description" : "The seventh edition of the Tata Steel Chess India tournament is taking place in Kolkata on 7-11 January, featuring separate rapid and blitz tournaments in both the Open and Women's sections. The rapid tournaments are played from 7 to 9 January, with three rounds per day. The blitz sections follow on 10-11 January, featuring nine rounds per day. | Follow the action live, with expert commentary starting at 15:00 local time (10:30 CET, 04:30 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2026-live",
-         "pubDate" : "Wed, 07 Jan 2026 10:20:00",
-         "title" : "Tata Steel Chess India - Live!"
-      },
-      {
          "description" : "In the final sections of our Christmas Puzzle Week we brought you a variety of famous and less well-known puzzles. Among them a mate problem that solves itself - literally. And one that looks deceptively simple, but requires a very subtle strategy to find the win. In no less than 46 moves! Can computers solve it?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,6 +80,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/5-national-chess-federations-take-fide-to-cas-after-general-assembly-chaos",
          "pubDate" : "Wed, 07 Jan 2026 03:17:35",
          "title" : "5 Federations Take FIDE To CAS Over Vote Allowing Russian, Belarusian Teams Back"
+      },
+      {
+         "description" : "US Chess Names Fred Abousleman as Executive DirectorUS Chess is pleased to announce the selection of Fred Abousleman as executive director. He was hired after an extensive nationwide search that saw 50 candidates interviewed by the US Chess Executive Board.\"The executive board is very excited to have Fred lead our operations team,\" said Kevin Pryor, president of the board. \"His organizational and leadership skills will enable him to hit the ground running, but his experience with developing donor pipelines is what we believe is our next level to achieve as a 501(c)3 corporation.\"Executive Board Vice President John Fernandez agrees: \"Fred's career spans nonprofit leadership, public service, a",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-names-fred-abousleman-executive-director",
+         "pubDate" : "Wed, 07 Jan 2026 00:00:00",
+         "title" : "US Chess Names Fred Abousleman as Executive Director"
       },
       {
          "description" : "This week's puzzles begin a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out the start of our Tactics Tuesday series with more beginner-friendly puzzles here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
          "pubDate" : "Tue, 23 Dec 2025 10:50:00",
          "title" : "Global Chess League Finals - Live!"
-      },
-      {
-         "description" : "This week's puzzles once again come from the 2025 North American Junior Championships, where FM Julian Colville earned a GM norm and the IM title and WFM Laurie Qiu earned a WGM norm for their gold medals. Read more about this event here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-north-american-junior-championships-pt-2",
-         "pubDate" : "Tue, 23 Dec 2025 00:00:00",
-         "title" : "Tactics Tuesday: North American Junior Championships, Pt. 2"
       },
       {
          "description" : "A big reason why chess improvement is so complex nowadays is our tendency to overcomplicate things (especially common with adults!). A more hidden way to do that is to always try to find specific takeaways even when there are none. Especially when watching engine based, forced lines, often the only takeaway is the following: []",
