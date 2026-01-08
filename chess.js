@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "More convenience, better clarity, greater performance: ChessBase Mobile now comes with numerous improvements for even more efficient work at the chessboard - whether at home or on the go. And best of all, the app updates itself automatically, without requiring an update from the App Store. Just launch it and benefit immediately.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-mobile-now-with-automatic-updates-and-many-improvements",
+         "pubDate" : "Thu, 08 Jan 2026 16:06:16",
+         "title" : "ChessBase Mobile - Now with Automatic Updates and Many Improvements"
+      },
+      {
          "description" : "To submit an Expression of Interest, interested candidates should complete their application using the following Google Form. https://forms.gle/dVvfGrgWE2EZNp8R8 Criteria: GM/IM/WGM/WIM/Fide Senior Trainer/Fide Trainer /Fide Instructor",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
