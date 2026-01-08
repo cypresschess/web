@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "To submit an Expression of Interest, interested candidates should complete their application using the following Google Form. https://forms.gle/dVvfGrgWE2EZNp8R8 Criteria: GM/IM/WGM/WIM/Fide Senior Trainer/Fide Trainer /Fide Instructor",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/expression-of-interest-for-aicf-coach-in-various-events-and-camps-2026-27/",
+         "pubDate" : "Thu, 08 Jan 2026 11:56:33",
+         "title" : "Expression of Interest for AICF Coach in Various Events and Camps 2026-27"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation ,&#160;Punjab State Chess Association&#160;&#160;&#160;is organizing Senior National Arbiter Seminar &#38; exam at Amity University ,Sector 82 ,Airport Road",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-exam-in-mohali-on-31-jan-01-feb-2026/",
+         "pubDate" : "Thu, 08 Jan 2026 11:12:04",
+         "title" : "SNA Seminar & Exam in Mohali,Punjab on 31 Jan & 01 Feb 2026"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126412065.cms\" />FIDE and Freestyle Chess ended a long-running dispute over world championship authority by agreeing to stage the first official FIDE Freestyle Chess World Championship. The conflict began in late 2024 over title rights, sparking public clashes and player concerns. A renewed dialogue in 2025 led to reconciliation, aligning Freestyle's tour with FIDE governance and creating a unified championship framework.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-why-no-hikaru-nakamura-inside-story-of-how-fide-freestyle-chess-agreed-terms-on-world-championship/articleshow/126412065.cms",
+         "pubDate" : "Thu, 08 Jan 2026 10:43:22",
+         "title" : "Exclusive: Why no Hikaru? Inside new FIDE Freestyle Chess World Championship"
+      },
+      {
+         "description" : "The seventh edition of the Tata Steel Chess India tournament is taking place in Kolkata on 7-11 January, featuring separate rapid and blitz tournaments in both the Open and Women's sections. The rapid tournaments are played from 7 to 9 January, with three rounds per day. The blitz sections follow on 10-11 January, featuring nine rounds per day. | Follow the action live, with expert commentary starting at 15:00 local time (10:30 CET, 04:30 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2026-live",
+         "pubDate" : "Thu, 08 Jan 2026 10:20:00",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126409451.cms\" />Magnus Carlsen's repeated emotional outbursts, including slamming boards and scattering pieces, have sparked debate about sportsmanship in elite chess. While FIDE prioritizes commercial success, critics argue that unaddressed behavior sends the wrong message to young players who idolize the world champion.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -560,14 +592,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/47416992/athlete-year-divya-deshmukh-does-not-stop-winning-stellar-2025",
          "pubDate" : "Tue, 30 Dec 2025 00:05:20",
          "title" : "Athlete of the Year: Divya Deshmukh does not stop winning in stellar 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126235585.cms\" />World No. 1 Magnus Carlsen slammed the table after losing on time to India's Arjun Erigaisi at the World Blitz Championship in Doha. The ninth-round defeat, with Arjun playing black, was one of the tournament's biggest upsets and pushed him joint top on 7.5 points. It was Carlsen's latest emotional outburst.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-magnus-carlsen-slams-table-again-after-loss-to-indias-arjun-erigaisi-at-world-blitz-championship/articleshow/126235585.cms",
-         "pubDate" : "Mon, 29 Dec 2025 16:35:44",
-         "title" : "Watch: Carlsen slams table again after loss to India's Erigaisi"
       },
       {
          "description" : "Please find certificates here Rank &#160;Name 1 Nandhidhaa P V 2 Mary Ann Gomes 3 Arshiya Das 4 Shubhi Gupta 5 Kalyani Sirin 6 Pandey",
