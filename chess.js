@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126409451.cms\" />Magnus Carlsen's repeated emotional outbursts, including slamming boards and scattering pieces, have sparked debate about sportsmanship in elite chess. While FIDE prioritizes commercial success, critics argue that unaddressed behavior sends the wrong message to young players who idolize the world champion.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/kids-look-up-to-him-why-magnus-carlsens-table-slamming-outbursts-are-casting-a-shadow-over-chess/articleshow/126409451.cms",
+         "pubDate" : "Thu, 08 Jan 2026 07:27:34",
+         "title" : "'Kids look up to him': Why Carlsen's outbursts are casting a shadow over chess"
+      },
+      {
+         "description" : "The International Chess Federation (FIDE) and Freestyle Chess Operations GmbH have agreed to stage the first official FIDE Freestyle Chess World Championship in Weissenhaus, Germany, from February 13-15, 2026. There are eight players in the event, six qualified (Carlsen, Aronian, Caruana, Keymer, Erigaisi, and Sindarov), with one nominated (Niemann) and one to be still determined. Weissenhaus is just an hour's drive from Hamburg - in case you want to attend.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-first-fide-freestyle-world-championship-in-germany",
+         "pubDate" : "Thu, 08 Jan 2026 07:06:05",
+         "title" : "The first FIDE Freestyle World Championship in Germany"
+      },
+      {
          "description" : "The opening day of Tata Steel Chess India in Kolkata delivered an entertaining start in both sections of the rapid tournament. In the open, Viswanathan Anand and Hans Niemann (pictured) share the lead with 2&frac12; points after three rounds marked by a high number of decisive games. The women's event produced a sole leader in Carissa Yip, who also scored 2&frac12; points. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -584,14 +600,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-05-dec-29",
          "pubDate" : "Mon, 29 Dec 2025 09:00:00",
          "title" : "Christmas Puzzles 5 - Rotary problems"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126225866.cms\" />Magnus Carlsen's 2009 World Blitz performance at 18 remains legendary, dominating an elite field with unprecedented dominance. He achieved an astonishing 8-0 score against top rivals like Anand and Kramnik, showcasing utterly unbelievable chess. This remarkable feat, with 28 wins from 42 games, set a benchmark for teenage chess brilliance.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-king-carlsen-could-be-playing-for-his-9th-crown/articleshow/126225866.cms",
-         "pubDate" : "Mon, 29 Dec 2025 06:09:28",
-         "title" : "World Blitz: 'King' Carlsen could be playing for his 9th crown"
       },
       {
          "description" : "Rating Fee Increase Effective January 1US Chess will increase the per-game rating fee from 25 cents to 30 cents on Jan. 1, 2026, and from 30 cents to 35 cents per game on July 1. A plan for future adjustments will be discussed at the 2026 Delegates Meeting held in conjunction with the 2026 U.S. Open in Grand Rapids, MI. The Executive Board unanimously approved this change at its Dec. 9, 2025 meeting.The rating system is a core US Chess service, processing millions of games each year. Operating this system requires staff, technical resources, and ongoing investment, including continued development of the new MUIR system. Demand for timely and accurate ratings has increased, while the per-game",
