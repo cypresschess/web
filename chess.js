@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " IM Alex Golding, 22, who earned nearly &pound;2,000, is among the rising talents aiming to match the leading English grandmasters Hastings is the grandfather of international chess tournaments, first staged in 1895 and then every year since 1920, with breaks for war and pandemics. Its vintage years were the 1930s, 50s and 70s, when world champions and challengers lined up to compete, while the badminton legend Sir George Thomas and the Bletchley Park codebreaker Hugh Alexander both shared first after defeating renowned opponents. Nowadays, Hastings has publicity problems, sandwiched as it is between the London Classic and Tata Steel Wijk and Zee, and running simultaneously with the Magnus C",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/jan/09/chess-hastings-masters-guards-tradition-and-produces-an-english-co-winner",
+         "pubDate" : "Fri, 09 Jan 2026 08:00:33",
+         "title" : "Chess: Hastings Masters guards tradition and produces an English co-winner"
+      },
+      {
+         "description" : "FIDE and Norway Chess are pleased to announce the first 16 players who have earned the right to receive an invitation to the 2026 Total Chess World Championship Tour pilot tournament (\"Total Chess 2026 Pilot\"), the new combined competition across Fast Classic, Rapid, and Blitz.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sixteen-players-earn-the-right-to-compete-in-2026-total-chess-pilot-event",
+         "pubDate" : "Fri, 09 Jan 2026 07:00:00",
+         "title" : "Sixteen players earn the right to compete in 2026 Total Chess pilot event"
+      },
+      {
          "description" : "The second day of the Tata Steel Chess India tournament brought further movement in the standings ahead of the final rapid rounds. In the open section, Vishy Anand remained at the top, now joined by Nihal Sarin after the young Indian's perfect day. The women's event again produced a sole leader, as Kateryna Lagno pulled clear with an undefeated performance, leaving Carissa Yip a half point back. | Photo: Vive Sohani",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -808,14 +824,6 @@ news_feed (
          "link" : "https://www.thearticle.com/christmas-for-kirsan/",
          "pubDate" : "Sat, 20 Dec 2025 13:53:21",
          "title" : "Christmas for Kirsan"
-      },
-      {
-         "description" : " The Norwegian world No 1 will compete at Doha next week, a year after he was penalised for wearing jeans in New York One year ago, the world No 1, Magnus Carlsen, and the global chess body, Fide, were at loggerheads after the Norwegian was penalised for wearing jeans at the World Rapid in New York. The 35-year-old also agreed to share the World Blitz crown despite a rule requiring an outright winner. Relations worsened further when Fide opposed Carlsen's wish for the new Freestyle circuit winner to be called a world champion, and he announced that he was \"done\" with Fide. <a href=\"https://www.theguardian.com/sport/2025/dec/19/chess-magnus-carlsen-back-in-world-rapid-and-blitz-as-fide-signal",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/dec/19/chess-magnus-carlsen-back-in-world-rapid-and-blitz-as-fide-signals-jeansgate-peace",
-         "pubDate" : "Fri, 19 Dec 2025 08:00:56",
-         "title" : "Chess: Magnus Carlsen back in World Rapid and Blitz as Fide signals jeansgate peace"
       }
    ]
 }
