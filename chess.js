@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second day of the Tata Steel Chess India tournament brought further movement in the standings ahead of the final rapid rounds. In the open section, Vishy Anand remained at the top, now joined by Nihal Sarin after the young Indian's perfect day. The women's event again produced a sole leader, as Kateryna Lagno pulled clear with an undefeated performance, leaving Carissa Yip a half point back. | Photo: Vive Sohani",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2026-2",
+         "pubDate" : "Fri, 09 Jan 2026 01:45:00",
+         "title" : "Tata Steel Chess India: Nihal draws level with Anand at the top"
+      },
+      {
          "description" : "With their inclusion project Open Window, Tatiana Flores and Laura Schalkh&auml;user provide a forum for communication and the exchange of experiences related to living with disabilities. One of the topics they address is sport - including chess - and participation despite physical impairment. In an interview, Paralympic champion Martin Braxenthaler spoke about his personal experiences.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +72,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-why-no-hikaru-nakamura-inside-story-of-how-fide-freestyle-chess-agreed-terms-on-world-championship/articleshow/126412065.cms",
          "pubDate" : "Thu, 08 Jan 2026 10:43:22",
          "title" : "Exclusive: Why no Hikaru? Inside new FIDE Freestyle Chess World Championship"
-      },
-      {
-         "description" : "The seventh edition of the Tata Steel Chess India tournament is taking place in Kolkata on 7-11 January, featuring separate rapid and blitz tournaments in both the Open and Women's sections. The rapid tournaments are played from 7 to 9 January, with three rounds per day. The blitz sections follow on 10-11 January, featuring nine rounds per day. | Follow the action live, with expert commentary starting at 15:00 local time (10:30 CET, 04:30 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2026-live",
-         "pubDate" : "Thu, 08 Jan 2026 10:20:00",
-         "title" : "Tata Steel Chess India - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126409451.cms\" />Magnus Carlsen's repeated emotional outbursts, including slamming boards and scattering pieces, have sparked debate about sportsmanship in elite chess. While FIDE prioritizes commercial success, critics argue that unaddressed behavior sends the wrong message to young players who idolize the world champion.",
