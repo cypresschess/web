@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The rift between FIDE and Freestyle Chess seemed final - and then, on Wednesday evening, a press release from both surprised the chess world: in February 2026, the first joint World Championship in Freestyle Chess is set to take place in Weissenhaus, Germany. Sagar Shah of ChessBase India conducted an in-depth interview with Jan Henric B&uuml;ttner of Freestyle Chess to learn more about this remarkable turnaround.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/friends-again-fide-and-freestyle-chess-an-interview-with-jan-henric-buettner",
+         "pubDate" : "Fri, 09 Jan 2026 16:54:27",
+         "title" : "Friends again: FIDE and Freestyle Chess - An interview with Jan Henric B&uuml;ttner"
+      },
+      {
+         "description" : "A reigning world chess champion has not played a serious game in Czechia for exactly 95 years. That is about to change. GM Gukesh Dommaraju, also known as Gukesh D, will take part in the 8th edition of the Prague International Chess Festival. The Indian prodigy has broken numerous modern chess records. The Festival, the most prestigious chess event in central and eastern Europe, will be held from 24 February to 6 March at Hotel Don Giovanni in Prague.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-champion-gukesh-plays-in-prague-chess-festival",
+         "pubDate" : "Fri, 09 Jan 2026 15:00:00",
+         "title" : "World Champion Gukesh plays in Prague Chess Festival"
+      },
+      {
          "description" : "On behalf of All India Chess Federation , All Jharkhand Chess Association is organizing Senior National Arbiter Seminar &#38; exam SARALA BIRLA UNIVERSITY in Mahilong ,Ranchi. ",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -18,7 +34,15 @@ news_feed (
          "title" : "Tata Steel Chess India - Live!"
       },
       {
-         "description" : " IM Alex Golding, 22, who earned nearly &pound;2,000, is among the rising talents aiming to match the leading English grandmasters Hastings is the grandfather of international chess tournaments, first staged in 1895 and then every year since 1920, with breaks for war and pandemics. Its vintage years were the 1930s, 50s and 70s, when world champions and challengers lined up to compete, while the badminton legend Sir George Thomas and the Bletchley Park codebreaker Hugh Alexander both shared first after defeating renowned opponents. Nowadays, Hastings has publicity problems, sandwiched as it is between the London Classic and Tata Steel Wijk and Zee, and running simultaneously with the Magnus C",
+         "description" : "Nihal won on Friday evening, after the passing of his maternal grandfather - who had taught him the sport - on Thursday night.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/47559680/nihal-sarin-trumps-viswanathan-anand-emotional-final-day-win-tata-steel-rapid-chess",
+         "pubDate" : "Fri, 9 Jan 2026 08:47:05",
+         "title" : "On emotional final day, Nihal Sarin trumps Viswanathan Anand to win Tata Steel Rapid Chess"
+      },
+      {
+         "description" : " IM Alex Golding, 22, who earned nearly &pound;2,000, is among the rising talents aiming to match the leading English grandmasters Hastings is the grandfather of international chess tournaments, first staged in 1895 and then every year since 1920, with breaks for war and pandemics. Its vintage years were the 1930s, 50s and 70s, when world champions and challengers lined up to compete, while the badminton legend Sir George Thomas and the Bletchley Park codebreaker Hugh Alexander both shared first after defeating renowned opponents. Nowadays, Hastings has publicity problems, sandwiched as it is between the London Classic and Tata Steel Wijk aan Zee, and running simultaneously with the Magnus C",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/jan/09/chess-hastings-masters-guards-tradition-and-produces-an-english-co-winner",
