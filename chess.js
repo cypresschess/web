@@ -18,6 +18,22 @@ news_feed (
          "title" : "World Champion Gukesh plays in Prague Chess Festival"
       },
       {
+         "description" : "GM Oleksandr Bortnyk is your Freestyle Friday winner on January 9, after he recovered from a loss in round three by never losing again. It was Bortnyk&#39;s sixth win of the tournament, more than anyone besides GM Hikaru Nakamura. Bortnyk still needed...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-january-9-2026",
+         "pubDate" : "Fri, 09 Jan 2026 11:13:25",
+         "title" : "Persistent Bortnyk Takes Freestyle Friday"
+      },
+      {
+         "description" : "GM&#38;nbsp;Nihal Sarin won the 2026 Tata Steel Chess India Open Rapid tournament with 6.5 points out of nine games on Friday. It&#39;s his second time winning the tournament, the first being in 2022, and he earns $10,000. He dedicated his victory to his ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nihal-lagno-win-2026-tata-steel-chess-india-rapid",
+         "pubDate" : "Fri, 09 Jan 2026 11:05:45",
+         "title" : "Nihal, Lagno Win 2026 Rapid Titles In Kolkata"
+      },
+      {
          "description" : "On behalf of All India Chess Federation , All Jharkhand Chess Association is organizing Senior National Arbiter Seminar &#38; exam SARALA BIRLA UNIVERSITY in Mahilong ,Ranchi. ",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-india-2026-live",
          "pubDate" : "Fri, 09 Jan 2026 10:20:00",
          "title" : "Tata Steel Chess India - Live!"
+      },
+      {
+         "description" : "On January 7, FIDE and Freestyle Chess announced the first FIDE Freestyle Chess World Championship, taking place at Weissenhaus, Germany, from February 13-15. Now, Chess.com is hosting the qualifier that determines the remaining player who will co...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/join-the-fide-freestyle-chess-world-championship-play-in",
+         "pubDate" : "Fri, 09 Jan 2026 09:30:00",
+         "title" : "Announcing The FIDE Freestyle Chess World Championship Play-In"
       },
       {
          "description" : "Nihal won on Friday evening, after the passing of his maternal grandfather - who had taught him the sport - on Thursday night.",
@@ -64,6 +88,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-india-2026-2",
          "pubDate" : "Fri, 09 Jan 2026 01:45:00",
          "title" : "Tata Steel Chess India: Nihal draws level with Anand at the top"
+      },
+      {
+         "description" : "The air in the Times Square Marriott Marquis was ionized with anxiety on January 3 and 4 for the New York Metro Scholastic Chess Championships. Children carrying chess bags were whooshed pneumatically to their respective playing halls in the hotel's famous glass elevators as 1,438 players from kindergarten through 12th grade moved with stone-faced focus, dutifully dragging coteries of parents, coaches, and all manner of extended family as they flooded nine floors of premium conference space in Midtown Manhattan. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> A sign welcoming \"K-12 Warriors\" set the tone for the Metro Championships. (All photos courtes",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/new-york-metro-scholastic-chess-championships-deliver-promise",
+         "pubDate" : "Fri, 09 Jan 2026 00:00:00",
+         "title" : "New York Metro Scholastic Chess Championships Deliver On Promise"
+      },
+      {
+         "description" : "US Chess has recently migrated the online entry process for its National over the board events to a third-party vendor.US Chess is continuing this upgrade to include our two National Correspondence Chess events: the Golden Knights and Electronic Knights tournaments. Eventually our other correspondence chess events will also be migrated to this new online entry portal.We anticipate having the new online entry portal ready for registration into the Golden Knights and Electronic Knights tournaments in the very near future.Please bear with us as we make these much needed and necessary changes.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/update-correspondence-chess-tournament-entries",
+         "pubDate" : "Fri, 09 Jan 2026 00:00:00",
+         "title" : "Update on Correspondence Chess Tournament Entries"
       },
       {
          "description" : "With their inclusion project Open Window, Tatiana Flores and Laura Schalkh&auml;user provide a forum for communication and the exchange of experiences related to living with disabilities. One of the topics they address is sport - including chess - and participation despite physical impairment. In an interview, Paralympic champion Martin Braxenthaler spoke about his personal experiences.",
@@ -762,44 +802,12 @@ news_feed (
          "title" : "DGT Live games link - Athens of East 5th GM Open"
       },
       {
-         "description" : "GM Bogdan-Daniel Deac profited the most from the absence of top GMs as he won the post-Christmas Freestyle Friday and its $400 first prize. The 24-year-old Romanian grandmaster edged out IM Eray Kilic and GM Jeffery Xiong on tiebreaks after all th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/deac-wins-freestyle-friday-december-26-2025",
-         "pubDate" : "Fri, 26 Dec 2025 14:00:00",
-         "title" : "Bogdan-Daniel Deac Wins Post-Christmas Freestyle Friday On Tiebreaks"
-      },
-      {
-         "description" : "GMs Magnus Carlsen, Gukesh Dommaraju, Arjun Erigaisi, Maxime Vachier-Lagrave, and Vladislav Artemiev lead the 2025 FIDE World Rapid Chess Championship with 4.5 points out of five games on the first day. The group of 15 players that trails them by ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-rapid-chess-championship-day-1",
-         "pubDate" : "Fri, 26 Dec 2025 10:54:00",
-         "title" : "Carlsen, Gukesh, Arjun, Vachier-Lagrave, Artemiev Share Lead"
-      },
-      {
-         "description" : "On January 1, we will make some notable changes to vacation time for in Daily Chess, reducing the amount of vacation time available and simplifying the system. Vacation time is an important part of daily games on Chess.com. It allows players to ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-new-vacation-time-system",
-         "pubDate" : "Fri, 26 Dec 2025 09:35:54",
-         "title" : "Announcing New Vacation Time System For Daily Chess Games"
-      },
-      {
          "description" : "Take a look at this position, in which White should mate in two. Looks very easy, and hundreds of readers of the newspaper in which it appeared submitted a solution. But it was not correct. In our Christmas Puzzle week the consummate expert of unusual chess problems, Werner Keym, asks you to look carefully at the position and find a genuine way for White to mate Black in two moves. There are two other problems to solve.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-02-dec-26",
          "pubDate" : "Fri, 26 Dec 2025 09:00:00",
          "title" : "Christmas Puzzles 2 - Not that easy!"
-      },
-      {
-         "description" : "16 Americans are competing in Doha, Qatar from Dec. 26 through 30 in the 2025 FIDE World Rapid &amp; Blitz Championships. Play began at 5 a.m. CST on Friday, Dec. 26 for the first of three days of rapid games, with the blitz tournament taking place the final two days. The total prize fund between the four events (Open/Women's, Rapid/Blitz) is one million euros.The Rapid consists of 13 rounds in the Open and 11 rounds in the Women's, while the Blitz brings back the two-stage format from the 2024 edition. This time, the first stage of the Blitz will be a one-and-a-half-day Swiss, with knockout matches during the second half of the second day. This format tweak increases the number of games in ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-fide-world-rapid-blitz-preview",
-         "pubDate" : "Fri, 26 Dec 2025 00:00:00",
-         "title" : "2025 FIDE World Rapid & Blitz Preview"
       },
       {
          "description" : "Christmas day is usually celebrated with a Christmas tree - in problem chess circles occasionally with a puzzle shaped like a Christmas tree. Like this example, composed by the famous Thomas Rayner Dawson, 101 years ago. It illustrates the universal principle of symmetry, and how it can be broken in a chess problem. Mathematics professor Christian Hesse delves into the very profound thinking behind the problem. But you are invited to solve it first.",
@@ -816,14 +824,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/jonathan-hawkins-1983-2025",
          "pubDate" : "Wed, 24 Dec 2025 14:16:00",
          "title" : "Jonathan Hawkins 1983 - 2025 - 1983 - 2025"
-      },
-      {
-         "description" : "This week's puzzles once again come from the 2025 North American Junior Championships, where FM Julian Colville earned a GM norm and the IM title and WFM Laurie Qiu earned a WGM norm for their gold medals. Read more about this event here, and check out even more puzzles from this event in the Tactics Tuesday archives. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-north-american-junior-championships-pt-2",
-         "pubDate" : "Wed, 24 Dec 2025 00:00:00",
-         "title" : "Wednesday Workout: North American Junior Championships, Pt. 2"
       },
       {
          "description" : " The Tech Mahindra Global Chess League took place Sat 13th Dec to Tuesday 23rd Dec 2025 in Mumbai. This was a very strong rapid team event and is on its third edition with previous events in Dubai and London. There were two stages, a round robin took place until the 22nd of December followed by a final day where the top two teams played off for the title and there wasalso a 3rd-4th place match. Teams: Triveni Continental Kings: Firouzja, Wei, Vidit, Zhu, Kosteniuk, Maurizzi. Upgrad Mumba Masters: Vachier-Lagrave, So, Mamedyarov, Koneru, Dronavalli, Daneshvar. Alpine SG Pipers: Caruana, Giri, Praggnanandhaa, Hou, Batsiashvili, Mendonca. Ganges Grandmasters: Anand, Keymer, Sindarov, Shuvalova,",
