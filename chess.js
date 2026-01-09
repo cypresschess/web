@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On behalf of All India Chess Federation , All Jharkhand Chess Association is organizing Senior National Arbiter Seminar &#38; exam SARALA BIRLA UNIVERSITY in Mahilong ,Ranchi. ",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-exam-in-ranchijharkhand-on-21-22-feb-2026/",
+         "pubDate" : "Fri, 09 Jan 2026 10:25:30",
+         "title" : "SNA Seminar & Exam in Ranchi,Jharkhand on 21 & 22 Feb 2026"
+      },
+      {
+         "description" : "The third day of action at the Tata Steel Chess India tournament will see the rapid events decided in both the open and women's sections. Living legend Vishy Anand is tied for first place with Nihal Sarin in the open, while Kateryna Lagno is the sole leader among the women. | Follow the action live, with expert commentary starting at 15:00 local time (10:30 CET, 04:30 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2026-live",
+         "pubDate" : "Fri, 09 Jan 2026 10:20:00",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
          "description" : " IM Alex Golding, 22, who earned nearly &pound;2,000, is among the rising talents aiming to match the leading English grandmasters Hastings is the grandfather of international chess tournaments, first staged in 1895 and then every year since 1920, with breaks for war and pandemics. Its vintage years were the 1930s, 50s and 70s, when world champions and challengers lined up to compete, while the badminton legend Sir George Thomas and the Bletchley Park codebreaker Hugh Alexander both shared first after defeating renowned opponents. Nowadays, Hastings has publicity problems, sandwiched as it is between the London Classic and Tata Steel Wijk and Zee, and running simultaneously with the Magnus C",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -74,12 +90,12 @@ news_feed (
          "title" : "Anand Bounces Back, Leads With Nihal; Lagno Takes Over In Women's"
       },
       {
-         "description" : "On behalf of All India Chess Federation ,&#160;Punjab State Chess Association&#160;&#160;&#160;is organizing Senior National Arbiter Seminar &#38; exam at Amity University ,Sector 82 ,Airport Road",
+         "description" : "On behalf of All India Chess Federation , Punjab State State Chess Association is organizing Senior National Arbiter Seminar &#38; exam at Amity University ,Sector 82 ,Airport",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/sna-seminar-exam-in-mohali-on-31-jan-01-feb-2026/",
          "pubDate" : "Thu, 08 Jan 2026 11:12:04",
-         "title" : "SNA Seminar & Exam in Mohali,Punjab on 31 Jan & 01 Feb 2026"
+         "title" : "SNA Seminar & Exam in Mohali ,Punjab on 31 Jan & 01 Feb 2026"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126412065.cms\" />FIDE and Freestyle Chess ended a long-running dispute over world championship authority by agreeing to stage the first official FIDE Freestyle Chess World Championship. The conflict began in late 2024 over title rights, sparking public clashes and player concerns. A renewed dialogue in 2025 led to reconciliation, aligning Freestyle's tour with FIDE governance and creating a unified championship framework.",
@@ -768,14 +784,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-01-dec-25",
          "pubDate" : "Thu, 25 Dec 2025 12:00:00",
          "title" : "ChessBase Christmas Puzzle Week"
-      },
-      {
-         "description" : "The Senior National Arbiter Seminar-cum-Examination was organized by the All Assam Chess Association on behalf of the All India Chess Federation at Hotel Fortune, near",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-senior-national-arbiter-seminar-cum-examination-at-guwahati-2025-on-20-21-sept-2025/",
-         "pubDate" : "Thu, 25 Dec 2025 08:07:34",
-         "title" : "Final report :Senior National Arbiter Seminar cum Examination at Guwahati 2025 on 20 & 21 Sept 2025"
       },
       {
          "description" : " British Chess Grandmaster Jonathan Hawkins has passed away at the far too young age of 42. Hawkins only developed into a strong player after leaving school and was self-taught. Hawkins earned the FM title in 2008, IM in 2010 and GM in 2014. He was British Champion in 2014 shared with David Howell and 2015 where he was the sole winner. In recent years Hawkins was a successful chess coach. His 2012 book \"Amateur to IM\" is rightly highly regarded.",
