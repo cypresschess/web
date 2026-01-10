@@ -1,4 +1,5 @@
 jtable([
+"SUGAR LAND","2026-01-09","13","<a href=https://ratings.uschess.org/event/202601090203 target='_blank'>FBCC 2026 National Apricot Day Open</a>",
 "HOUSTON","2026-01-04","31","<a href=https://ratings.uschess.org/event/202601040603 target='_blank'>$1,500 JANUARY CHAMPIONSHIP 2026</a>",
 "SUGAR LAND","2026-01-04","5","<a href=https://ratings.uschess.org/event/202601040343 target='_blank'>winter-01-04-2026</a>",
 "HOUSTON","2026-01-04","50","<a href=https://ratings.uschess.org/event/202601040313 target='_blank'>New Years FIDE</a>",
@@ -98,5 +99,4 @@ jtable([
 "SPRING","2025-10-03","27","<a href=https://ratings.uschess.org/event/202510032622 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2025-09-30","17","<a href=https://ratings.uschess.org/event/202509300842 target='_blank'>SEPTEMBER TUESDAY NIGHT SWISS 2025</a>",
 "HOUSTON","2025-09-28","13","<a href=https://ratings.uschess.org/event/202509289822 target='_blank'>SEPT 28TH OLD MAN TOURNEY 10AM G/60</a>",
-"HOUSTON","2025-09-28","17","<a href=https://ratings.uschess.org/event/202509289172 target='_blank'>BELLAIRE SUNDAY SWISS 09/28/25</a>",
 ]);
