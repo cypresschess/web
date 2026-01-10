@@ -34,6 +34,14 @@ news_feed (
          "title" : "Certificate :National Under 19 Chess Championship in Ranchi from 16-24 Dec 2025"
       },
       {
+         "description" : "GM Wesley So leads at the halfway point of 2026 Tata Steel Chess India Open Blitz with seven points out of nine games. After blundering into a mate-in-one the first game, So stormed back to snatch the lead from GM Arjun Erigaisi, who started with ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-india-blitz-day-1",
+         "pubDate" : "Sat, 10 Jan 2026 11:43:00",
+         "title" : "Wesley So Leads With Remarkable Comeback, Yip Leads Women's"
+      },
+      {
          "description" : "Following the rapid tournaments, the blitz double round-robins start on Saturday in Kolkata. Newly crowned rapid champions Nihal Sarin and Kateryna Lagno look to get a double victory, a feat only achieved in the past by Magnus Carlsen (in 2019 nd 2024). | Follow the action live, with expert commentary starting at 15:00 local time (10:30 CET, 04:30 ET).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-goryachkina-win-2025-fide-world-rapid-chess-championships",
          "pubDate" : "Sun, 28 Dec 2025 08:58:00",
          "title" : "Carlsen, Goryachkina Win 2025 World Rapid Championships"
-      },
-      {
-         "description" : "German candidate and GM Matthias Bluebaum has etched his name into the annals of Bullet Brawl history after surging at the tail end of Saturday&#39;s event to win his maiden title. Bluebaum kept in contention for the $400 first prize with a nine-gam...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/matthias-bluebaum-wins-bullet-brawl-dec-27-2025",
-         "pubDate" : "Sat, 27 Dec 2025 19:13:00",
-         "title" : "Bluebaum Leapfrogs Tang, Claims 1st Bullet Brawl Title"
       },
       {
          "description" : "We face one big dilemma in nearly all aspects of our lives: the easy and fun stuff is bad for us, while the difficult and boring things are good for us. If we manage to do at least some of the latter, the quality of our lives will improve. But the question is, how? A []",
