@@ -10,6 +10,14 @@ news_feed (
          "title" : "Nihal and Lagno claim Tata Steel India rapid titles outright"
       },
       {
+         "description" : "GMs Denis Lazavik, Alexey Sarana, and Oleksandr Bortnyk won the three 3 0 Thursday tournaments on January 8. It was Bortnyk&#39;s first victory in the event, while the other GMs took their second title. IM Anna Sargsyan won the women&#39;s prizes in the f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lazavik-sarana-bortnyk-3-0-thursday-1-8-2026",
+         "pubDate" : "Fri, 09 Jan 2026 18:15:20",
+         "title" : "Lazavik, Sarana, Bortnyk Win 3 0 Thursday Tournaments"
+      },
+      {
          "description" : "The rift between FIDE and Freestyle Chess seemed final - and then, on Wednesday evening, a press release from both surprised the chess world: in February 2026, the first joint World Championship in Freestyle Chess is set to take place in Weissenhaus, Germany. Sagar Shah of ChessBase India conducted an in-depth interview with Jan Henric B&uuml;ttner of Freestyle Chess to learn more about this remarkable turnaround.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/build-better-chess-training-systems/",
          "pubDate" : "Sat, 27 Dec 2025 14:00:00",
          "title" : "Don't be disciplined - build systems that work"
-      },
-      {
-         "description" : "GMs Vladislav Artemiev and Hans Niemann lead the 2025 FIDE World Rapid Chess Championship after day two with 7.5 points out of nine games. A half-point behind are four players: GM Magnus Carlsen, who bounced back from losing against Artemiev in ro...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-rapid-chess-championship-day-2",
-         "pubDate" : "Sat, 27 Dec 2025 09:45:00",
-         "title" : "Artemiev Beats Carlsen, Leads With Niemann; Humpy Catches Zhu In Women's"
       },
       {
          "description" : "There are chess puzzles which only consist of a line of text, asking you to construct a position or a game that it describes. Some can be awesomely difficult, like the puzzle we first posted 41 years ago. Two world champions were not able to solve it. We tell you about that, and present a new ones, not quite as tough, for you to solve.",
