@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Following the rapid tournaments, the blitz double round-robins start on Saturday in Kolkata. Newly crowned rapid champions Nihal Sarin and Kateryna Lagno look to get a double victory, a feat only achieved in the past by Magnus Carlsen (in 2019 nd 2024). | Follow the action live, with expert commentary starting at 15:00 local time (10:30 CET, 04:30 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2026-live",
+         "pubDate" : "Sat, 10 Jan 2026 10:20:00",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126450535.cms\" />Wesley So clarified that he proposed the draw against R Praggnanandhaa after a dramatic time scramble at Tata Steel Chess India Rapid, a decision that sparked debate and criticism from arbiter Chris Bird. Amid the controversy, Nihal Sarin won the Rapid title, dedicating it to his late grandfather, while Kateryna Lagno claimed the women's crown",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaas-chess-controversy-american-gm-wesley-so-clarifies-incident-things-happened-so-fast/articleshow/126450535.cms",
+         "pubDate" : "Sat, 10 Jan 2026 09:59:07",
+         "title" : "Pragg's controversy: American GM So clarifies - 'Things happened so fast'"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126449129.cms\" />Nihal Sarin shared the lead with Viswanathan Anand at the Tata Steel India Rapid event, dedicating his performance to his late grandfather. Sarin secured the championship title with 6.5 points after a crucial draw against Anand in the final round, marking his second victory at the event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -90,14 +106,6 @@ news_feed (
          "title" : "Chess: Hastings Masters guards tradition and produces an English co-winner"
       },
       {
-         "description" : "FIDE and Norway Chess are pleased to announce the first 16 players who have earned the right to receive an invitation to the 2026 Total Chess World Championship Tour pilot tournament (\"Total Chess 2026 Pilot\"), the new combined competition across Fast Classic, Rapid, and Blitz.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sixteen-players-earn-the-right-to-compete-in-2026-total-chess-pilot-event",
-         "pubDate" : "Fri, 09 Jan 2026 07:00:00",
-         "title" : "Sixteen players earn the right to compete in 2026 Total Chess pilot event"
-      },
-      {
          "description" : "The second day of the Tata Steel Chess India tournament brought further movement in the standings ahead of the final rapid rounds. In the open section, Vishy Anand remained at the top, now joined by Nihal Sarin after the young Indian's perfect day. The women's event again produced a sole leader, as Kateryna Lagno pulled clear with an undefeated performance, leaving Carissa Yip a half point back. | Photo: Vive Sohani",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,14 +128,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/update-correspondence-chess-tournament-entries",
          "pubDate" : "Fri, 09 Jan 2026 00:00:00",
          "title" : "Update on Correspondence Chess Tournament Entries"
-      },
-      {
-         "description" : "With their inclusion project Open Window, Tatiana Flores and Laura Schalkh&auml;user provide a forum for communication and the exchange of experiences related to living with disabilities. One of the topics they address is sport - including chess - and participation despite physical impairment. In an interview, Paralympic champion Martin Braxenthaler spoke about his personal experiences.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-with-paralympic-champion-martin-braxenthaler",
-         "pubDate" : "Thu, 08 Jan 2026 21:00:00",
-         "title" : "Interview with Paralympic Champion Martin Braxenthaler"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126419660.cms\" />A controversial moment dominated Day 2 of the Tata Steel Chess India Rapid in Kolkata when R Praggnanandhaa stopped the clock with one second left, leading to a disputed draw against Wesley So. Arbiter Chris Bird said it should have been a loss under chess laws. Elsewhere, Viswanathan Anand rebounded to joint lead with Nihal Sarin, while Kateryna Lagno topped the women's standings.",
@@ -194,30 +194,6 @@ news_feed (
          "title" : "'Kids look up to him': Why Carlsen's outbursts are casting a shadow over chess"
       },
       {
-         "description" : "The International Chess Federation (FIDE) and Freestyle Chess Operations GmbH have agreed to stage the first official FIDE Freestyle Chess World Championship in Weissenhaus, Germany, from February 13-15, 2026. There are eight players in the event, six qualified (Carlsen, Aronian, Caruana, Keymer, Erigaisi, and Sindarov), with one nominated (Niemann) and one to be still determined. Weissenhaus is just an hour's drive from Hamburg - in case you want to attend.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-first-fide-freestyle-world-championship-in-germany",
-         "pubDate" : "Thu, 08 Jan 2026 07:06:05",
-         "title" : "The first FIDE Freestyle World Championship in Germany"
-      },
-      {
-         "description" : "The opening day of Tata Steel Chess India in Kolkata delivered an entertaining start in both sections of the rapid tournament. In the open, Viswanathan Anand and Hans Niemann (pictured) share the lead with 2&frac12; points after three rounds marked by a high number of decisive games. The women's event produced a sole leader in Carissa Yip, who also scored 2&frac12; points. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2026-1",
-         "pubDate" : "Thu, 08 Jan 2026 02:50:00",
-         "title" : "Tata Steel Chess India: Anand and Niemann share the lead"
-      },
-      {
-         "description" : "At Christmas 2025, Stefan L&ouml;ffler delighted readers of his chess column in the Frankfurter Allgemeine Zeitung-one of Germany's leading national newspapers-with a Christmas story. Forty years earlier, Garry Kasparov, still not yet world champion, had played a clock simul against the Bundesliga team of Hamburger SK and lost. Two years later, Kasparov returned to Hamburg as world champion. This time he won the rematch, and during the visit encountered a remarkable new development that was to change the game profoundly: a chess database.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/forty-years-ago-kasparov-vs-hamburger-sk",
-         "pubDate" : "Wed, 07 Jan 2026 18:09:35",
-         "title" : "Forty Years Ago: Kasparov vs. Hamburger SK"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126398027.cms\" />Five-time world champion Viswanathan Anand showed he remains a force to reckon with in a field increasingly dominated by youngsters, notching up two wins to emerge joint leader with 2.5 points after three rounds of the Rapid games on the opening day of the Tata Steel Chess India here on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -266,14 +242,6 @@ news_feed (
          "title" : "From mentor to rival: Anand to face his pupils at Tata Steel Rapid and Blitz Chess India"
       },
       {
-         "description" : "Zhu Jiner's 2025 season marked a decisive shift in her standing within women's chess. Focusing exclusively on classical chess, this analysis traces her rise from the edge of the top ten to world number two, examining her breakthrough performances in the Women's Grand Prix, a brief mid-year dip in form and a strong finish - which included a remarkable showing at the Fujairah Superstars tournament. | Photo: Abhilash Shinde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/2025-breakthrough-year-zhu-jiner",
-         "pubDate" : "Wed, 07 Jan 2026 04:45:00",
-         "title" : "2025: A breakthrough year for Zhu Jiner"
-      },
-      {
          "description" : "Five national chess federations have formally launched a legal challenge against the International Chess Federation (FIDE) at the Court of Arbitration for Sport (CAS), contesting the decisions taken at December&#39;s online General Assembly to lift re...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -298,28 +266,12 @@ news_feed (
          "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 1"
       },
       {
-         "description" : "The seventh edition of the Tata Steel Chess India tournament will take place in Kolkata on 7-11 January, featuring separate rapid and blitz tournaments in both the Open and Women's sections. The event is highlighted by the return of five-time world champion and Indian chess icon Viswanathan Anand, alongside a strong mix of domestic and international players. | Image: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2026-preview",
-         "pubDate" : "Tue, 06 Jan 2026 21:00:00",
-         "title" : "Tata Steel Chess India: Anand, Wei and Niemann amid strong lineup"
-      },
-      {
          "description" : "ChessMates International (19-21 March, 2026) The ECF is putting out a call for interest in playing for the England Youth Team in the upcoming 13th ChessMates International in Monaco (19-21...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/chessmates-international-2026/",
          "pubDate" : "Tue, 06 Jan 2026 15:33:54",
          "title" : "ChessMates International 2026"
-      },
-      {
-         "description" : "Five national federations, including the German Chess Federation, have filed a lawsuit against FIDE with the Court of Arbitration for Sport (CAS). Through the legal action, the federations are challenging the decisions adopted by the General Assembly of the F&eacute;d&eacute;ration Internationale des Échecs (FIDE) on 14 December 2025 concerning the participation of Russian and Belarusian national teams in international chess competitions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-sued-by-five-federations",
-         "pubDate" : "Tue, 06 Jan 2026 14:51:15",
-         "title" : "FIDE sued by five federations"
       },
       {
          "description" : "GM Magnus Carlsen is off to a fast start in Titled Tuesday in 2026, winning the January 6 tournament with a 9.5/11 score. He came out ahead of second-place GM Vincent Keymer and third-place GM Jan-Krzysztof Duda on tiebreaks. Duda, Keymer, and Car...",
@@ -696,14 +648,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-2026-chesscom-community-championships",
          "pubDate" : "Tue, 30 Dec 2025 08:50:53",
          "title" : "2026 Chess.com Community Championships Cycle Starts This January"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126243961.cms\" />Young Indian Grandmaster Arjun Erigaisi stunned World No. 1 Magnus Carlsen at the World Blitz Championship in Doha, a victory that saw Carlsen react with visible frustration. Erigaisi then surged to a sole lead after defeating co-leader Nodirbek Abdusattorov. Despite subsequent draws, he remains a strong contender, with Carlsen and others close behind.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-championship-magnus-carlsen-slams-table-this-time-after-loss-to-arjun-erigaisi/articleshow/126243961.cms",
-         "pubDate" : "Tue, 30 Dec 2025 04:31:12",
-         "title" : "World Blitz Championship: Magnus Carlsen slams table, this time after loss to Arjun Erigaisi"
       },
       {
          "description" : "ESPN India's Athlete of the year is Divya Deshmukh, who just didn't stop winning in 2025.",
