@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126449129.cms\" />Nihal Sarin shared the lead with Viswanathan Anand at the Tata Steel India Rapid event, dedicating his performance to his late grandfather. Sarin secured the championship title with 6.5 points after a crucial draw against Anand in the final round, marking his second victory at the event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-nihal-sarin-holds-firm-pips-viswanathan-anand-for-title/articleshow/126449129.cms",
+         "pubDate" : "Sat, 10 Jan 2026 07:22:09",
+         "title" : "Tata Steel Chess: Nihal Sarin holds firm, pips Viswanathan Anand for title"
+      },
+      {
          "description" : "The final day of the rapid tournaments at the Tata Steel Chess India event saw titles decided in both sections. In the open, Nihal Sarin claimed first place after finishing clear of the field, ahead of Viswanathan Anand. The women's tournament also produced an outright winner, with Kateryna Lagno securing victory with a round to spare. Aleksandra Goryachkina finished in sole second place. With the rapid champions crowned, attention now turns to the blitz double round-robin, which follows over the weekend. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-championship-magnus-carlsen-slams-table-this-time-after-loss-to-arjun-erigaisi/articleshow/126243961.cms",
          "pubDate" : "Tue, 30 Dec 2025 04:31:12",
          "title" : "World Blitz Championship: Magnus Carlsen slams table, this time after loss to Arjun Erigaisi"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126243659.cms\" />Arjun Erigaisi finally broke his world championship jinx, securing a coveted podium finish at the World Rapid Championship. After years of near-misses, the young Indian chess prodigy showcased remarkable resilience, overcoming setbacks to clinch a bronze medal. This achievement marks a significant milestone, placing him alongside Viswanathan Anand as a decorated Indian player on the world stage.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-arjun-erigaisi-broke-an-eight-year-jinx-to-storm-onto-the-world-rapid-podium/articleshow/126243659.cms",
-         "pubDate" : "Tue, 30 Dec 2025 04:08:24",
-         "title" : "How Arjun Erigaisi broke an eight-year jinx to storm onto the World Rapid podium"
       },
       {
          "description" : "ESPN India's Athlete of the year is Divya Deshmukh, who just didn't stop winning in 2025.",
