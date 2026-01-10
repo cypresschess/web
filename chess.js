@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 European Women's Blitz Championship, held on Friday in Monte-Carlo, brought together 127 players for a 13-round Swiss played at a 3+2 time control. The title was decided in dramatic fashion in the final round, where top seed Eline Roebers defeated long-time leader Bella Khotenashvili to secure tournament victory. | Pictured: The start of the crucial Roebers v. Khotenashvili encounter. | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-blitz-ch-2025-report",
+         "pubDate" : "Sat, 10 Jan 2026 14:30:00",
+         "title" : "Eline Roebers wins European Women's Blitz Championship"
+      },
+      {
+         "description" : "2025 was a great year for me personally and my chess business. Even though I failed all three of my stated goals: I've had plenty of time with loved ones, married Alessia, enjoyed traveling to USA, Bali &#38; Italy, started making YouTube videos, funded my company &#38; ran a half marathon. Reflecting about \"failing\" my []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/toxic-goals-vs-positive-goals/",
+         "pubDate" : "Sat, 10 Jan 2026 14:00:00",
+         "title" : "I Failed all of My Goals in 2025 - But it was a great Year"
+      },
+      {
+         "description" : "This week I turn to the recent London Chess Classic, organised once again by the indefatigable Malcolm Pein. The delay in writing about it owes less to reluctance than to circumstance: the annual suspension of columns during the festive season, compounded by the untimely passing of Barry Martin, interrupted my usual rhythm of reportage. The []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-london-chess-classic/",
+         "pubDate" : "Sat, 10 Jan 2026 13:08:00",
+         "title" : "The London Chess Classic"
+      },
+      {
+         "description" : "Please find your certificates Under 19 Under 19 Girls Rank Name Rank Name 1 Vaz Ethan 1 Shubhi Gupta 2 Mayank Chakraborty 2 Nivedita V",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-national-under-19-chess-championship-in-ranchi-from-16-24-dec-2025/",
+         "pubDate" : "Sat, 10 Jan 2026 12:50:06",
+         "title" : "Certificate :National Under 19 Chess Championship in Ranchi from 16-24 Dec 2025"
+      },
+      {
          "description" : "Following the rapid tournaments, the blitz double round-robins start on Saturday in Kolkata. Newly crowned rapid champions Nihal Sarin and Kateryna Lagno look to get a double victory, a feat only achieved in the past by Magnus Carlsen (in 2019 nd 2024). | Follow the action live, with expert commentary starting at 15:00 local time (10:30 CET, 04:30 ET).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -738,14 +770,6 @@ news_feed (
          "title" : "Christmas Puzzles 3 - Just some text"
       },
       {
-         "description" : "Please find the link Athens of the East 5th International Grandmaster Open Chess Tournament (Category-B) Below 2000 https://view.livechesscloud.com/#19d54582-ec54-45a4-98db-d9511f192b6b",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/dgt-live-games-link-athens-of-east-5th-gm-open/",
-         "pubDate" : "Sat, 27 Dec 2025 06:38:30",
-         "title" : "DGT Live games link - Athens of East 5th GM Open"
-      },
-      {
          "description" : "Take a look at this position, in which White should mate in two. Looks very easy, and hundreds of readers of the newspaper in which it appeared submitted a solution. But it was not correct. In our Christmas Puzzle week the consummate expert of unusual chess problems, Werner Keym, asks you to look carefully at the position and find a genuine way for White to mate Black in two moves. There are two other problems to solve.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -784,22 +808,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
          "pubDate" : "Tue, 23 Dec 2025 10:50:00",
          "title" : "Global Chess League Finals - Live!"
-      },
-      {
-         "description" : "A big reason why chess improvement is so complex nowadays is our tendency to overcomplicate things (especially common with adults!). A more hidden way to do that is to always try to find specific takeaways even when there are none. Especially when watching engine based, forced lines, often the only takeaway is the following: []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/no-takeaway-in-chess/",
-         "pubDate" : "Sat, 20 Dec 2025 14:00:00",
-         "title" : "Sometimes There is No Takeaway"
-      },
-      {
-         "description" : "Kirsan Ilumzhinov, once the mercurial overlord of FIDÉ (the governing body of world chess) and long the subject of controversy, is now preparing his return from exile. Cast out by a blacklist drafted in Washington, he has emerged cleansed by the same bureaucratic machinery that condemned him. His papers are in order; his appetite for []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/christmas-for-kirsan/",
-         "pubDate" : "Sat, 20 Dec 2025 13:53:21",
-         "title" : "Christmas for Kirsan"
       }
    ]
 }
