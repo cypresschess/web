@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final day of the rapid tournaments at the Tata Steel Chess India event saw titles decided in both sections. In the open, Nihal Sarin claimed first place after finishing clear of the field, ahead of Viswanathan Anand. The women's tournament also produced an outright winner, with Kateryna Lagno securing victory with a round to spare. Aleksandra Goryachkina finished in sole second place. With the rapid champions crowned, attention now turns to the blitz double round-robin, which follows over the weekend. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2026-3",
+         "pubDate" : "Fri, 09 Jan 2026 23:50:00",
+         "title" : "Nihal and Lagno claim Tata Steel India rapid titles outright"
+      },
+      {
          "description" : "The rift between FIDE and Freestyle Chess seemed final - and then, on Wednesday evening, a press release from both surprised the chess world: in February 2026, the first joint World Championship in Freestyle Chess is set to take place in Weissenhaus, Germany. Sagar Shah of ChessBase India conducted an in-depth interview with Jan Henric B&uuml;ttner of Freestyle Chess to learn more about this remarkable turnaround.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nihal-lagno-win-2026-tata-steel-chess-india-rapid",
-         "pubDate" : "Fri, 09 Jan 2026 11:05:45",
+         "pubDate" : "Fri, 09 Jan 2026 11:05:00",
          "title" : "Nihal, Lagno Win 2026 Rapid Titles In Kolkata"
       },
       {
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-ranchijharkhand-on-21-22-feb-2026/",
          "pubDate" : "Fri, 09 Jan 2026 10:25:30",
          "title" : "SNA Seminar & Exam in Ranchi,Jharkhand on 21 & 22 Feb 2026"
-      },
-      {
-         "description" : "The third day of action at the Tata Steel Chess India tournament will see the rapid events decided in both the open and women's sections. Living legend Vishy Anand is tied for first place with Nihal Sarin in the open, while Kateryna Lagno is the sole leader among the women. | Follow the action live, with expert commentary starting at 15:00 local time (10:30 CET, 04:30 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2026-live",
-         "pubDate" : "Fri, 09 Jan 2026 10:20:00",
-         "title" : "Tata Steel Chess India - Live!"
       },
       {
          "description" : "On January 7, FIDE and Freestyle Chess announced the first FIDE Freestyle Chess World Championship, taking place at Weissenhaus, Germany, from February 13-15. Now, Chess.com is hosting the qualifier that determines the remaining player who will co...",
