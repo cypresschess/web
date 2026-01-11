@@ -14,7 +14,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-jan-10-2026",
-         "pubDate" : "Sat, 10 Jan 2026 15:08:23",
+         "pubDate" : "Sat, 10 Jan 2026 15:08:00",
          "title" : "Nakamura Mounts All-Time Comeback, Denies Tang"
       },
       {
