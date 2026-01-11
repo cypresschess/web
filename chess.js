@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The concluding day of the Tata Steel Chess India event decided the blitz titles in Kolkata. In the open section, Wesley So kept things under control to secured first place with a round to spare. Nihal Sarin got second place, while Arjun Erigaisi again finished third. The women's event ended in a playoff, where Carissa Yip claimed the title after beating Vantika Agrawal by a 1&frac12;-&frac12; score. Stavroula Tsolakidou completed the podium. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2026-4",
+         "pubDate" : "Sun, 11 Jan 2026 20:30:00",
+         "title" : "US duo shines in Kolkata: So and Yip win Tata Steel India blitz tournaments"
+      },
+      {
+         "description" : " The Tata Steel India Rapid & Blitz took place Wed 7th Jan to Mon 12th Jan 2026. Players: Viswanathan Anand, Wei Yi, Chithambaram Aravindh, Arjun Erigaisi, Hans Moke Niemann, Volodar Murzin, Gujrathi Vidit Santosh, R Praggnanandhaa, Nihal Sarin, Wesley So, Women: Ravi Rakshitta, Carissa Yip, Deshmukh Divya, Nana Dzagnidze, Agrawal Vantika, Rameshbabu Vaishali, Kateryna Lagno, Harika Dronavalli, Stavroula Tsolakidou, Aleksandra Goryachkina. The Rapid was won by Nihal Sarin with 6.5/9, half a point clear of Viswanathan Anand, the women's rapid was won by Kateryna Lagno with 6.5/9 a point and a half clear of Aleksandra Goryachkina. The Blitz was won by Wesley So with 12/18 a point clear of Niha",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tata-steel-india-rapid-blitz-2026",
+         "pubDate" : "Sun, 11 Jan 2026 16:34:00",
+         "title" : "Tata Steel India Rapid & Blitz 2026 - Games and Results"
+      },
+      {
+         "description" : "Both day-one leaders built on their momentum to earn maiden titles on day two. GM Wesley So won 2026 Tata Steel Chess India Open Blitz, his first time winning the title after six attempts. He finished in sole first with 12/18, while GMs Nihal Sari...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wesley-so-yip-win-2026-tata-steel-chess-india-blitz",
+         "pubDate" : "Sun, 11 Jan 2026 11:54:00",
+         "title" : "Wesley So, Yip Win Maiden Blitz Titles"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126464357.cms\" />French No. 1 chess grandmaster Alireza Firouzja drew global attention after posting \"Long live Iran\" on social media and sharing the monarchial-era Iranian flag. The post was linked to ongoing protests and a humanitarian crisis in Iran. Though now a French citizen, Firouzja's message showed strong solidarity with Iranians and highlighted his deep emotional ties to his country of birth.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -728,14 +752,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-national-women-chess-championship-in-durgapur-wb-from-03-13-dec-2025/",
          "pubDate" : "Mon, 29 Dec 2025 11:41:47",
          "title" : "Certificate :National Women Chess Championship in Durgapur, WB from 03-13 Dec 2025"
-      },
-      {
-         "description" : "GMs Arjun Erigaisi, Maxime Vachier-Lagrave, and Fabiano Caruana lead the 2025 FIDE World Blitz Chess Championship with 10 points out of 13 games and six rounds left in the Swiss portion. GM Magnus Carlsen, who dominated the rapid world championshi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-world-blitz-chess-championship-day-1",
-         "pubDate" : "Mon, 29 Dec 2025 10:05:00",
-         "title" : "Arjun, Vachier-Lagrave, Caruana Lead As Carlsen Falters; Roebers Takes Sole Lead"
       },
       {
          "description" : "In rotary problems the board is rotated by 180 ° for a second position with a different solution. It is usually pawns that make a different when you turn the board around. Or the king/queen positions, or castling is involved. Can one devise problems where these factors do not play a role? Yes one can, as our expert for out-of-the-box problems, Werner Keym, proves.",
