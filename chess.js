@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this analytical column, GM Jon Speelman examines the disproportionate power of subtle \"creeping\" moves in chess. Using examples from games by Alireza Firouzja, Boris Spassky (pictured in 1964) and Garry Kasparov, he shows how small, almost inconspicuous piece shifts can radically alter complex positions. Blending modern encounters with classic material and personal recollections, Speelman explains why these quiet moves are so hard to anticipate and so decisive when they occur. | Photo: P. van Zoest / ANP, via geheugenvannederland.nl",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-235",
+         "pubDate" : "Sat, 10 Jan 2026 21:45:00",
+         "title" : "Jon Speelman: Creeping, sliding and the ice rink of memory"
+      },
+      {
+         "description" : "GM Hikaru Nakamura kept the Bullet Brawl ball rolling with his second straight win of 2026 after snatching the $400 first prize from GM Andrew Tang&#39;s grasp in the final moments of Saturday&#39;s event. Tang dominated in the first half but slumped in t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-jan-10-2026",
+         "pubDate" : "Sat, 10 Jan 2026 15:08:23",
+         "title" : "Nakamura Mounts All-Time Comeback, Denies Tang"
+      },
+      {
          "description" : "The 2025 European Women's Blitz Championship, held on Friday in Monte-Carlo, brought together 127 players for a 13-round Swiss played at a 3+2 time control. The title was decided in dramatic fashion in the final round, where top seed Eline Roebers defeated long-time leader Bella Khotenashvili to secure tournament victory. | Pictured: The start of the crucial Roebers v. Khotenashvili encounter. | Photo: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -744,14 +760,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-04-dec-28",
          "pubDate" : "Sun, 28 Dec 2025 09:00:00",
          "title" : "Christmas Puzzles 4 - Retractors"
-      },
-      {
-         "description" : "GM Magnus Carlsen has won his sixth world rapid championship title after winning the 2025 FIDE World Rapid Chess Championship a full point ahead of the field with 10.5/13. It&#39;s his 19th world championship title across three time controls and he ea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-goryachkina-win-2025-fide-world-rapid-chess-championships",
-         "pubDate" : "Sun, 28 Dec 2025 08:58:00",
-         "title" : "Carlsen, Goryachkina Win 2025 World Rapid Championships"
       },
       {
          "description" : "We face one big dilemma in nearly all aspects of our lives: the easy and fun stuff is bad for us, while the difficult and boring things are good for us. If we manage to do at least some of the latter, the quality of our lives will improve. But the question is, how? A []",
