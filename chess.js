@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The concept behind ChessBase's \"60 Minutes\" courses is simple: a one-hour video course for just under ten euros. There are also courses on middlegame or endgame topics, but most of them present rather \"specialised\" opening lines. In the second instalment of a small series, Jochen Schwarz introduces the most important 60 Minutes courses for 1.e4 players against the Caro-Kann Defence.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-60-minutes-against-caro-kann",
+         "pubDate" : "Sun, 11 Jan 2026 07:00:00",
+         "title" : "Review: 60 Minutes against Caro-Kann"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126462346.cms\" />Young Indian chess prodigy Arjun Erigaisi faltered after a strong start in the Tata Steel Blitz, allowing American Grandmaster Wesley So to seize a half-point lead. So, despite an early blunder, rallied with five consecutive wins to finish Day I atop the standings. In the women's event, Carissa Yip leads, with Nihal Sarin and Viswanathan Anand in contention.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-blitz-so-yip-take-sole-lead/articleshow/126462346.cms",
+         "pubDate" : "Sun, 11 Jan 2026 06:49:13",
+         "title" : "Tata Steel Blitz: So, Yip take sole lead"
+      },
+      {
          "description" : "In this analytical column, GM Jon Speelman examines the disproportionate power of subtle \"creeping\" moves in chess. Using examples from games by Alireza Firouzja, Boris Spassky (pictured in 1964) and Garry Kasparov, he shows how small, almost inconspicuous piece shifts can radically alter complex positions. Blending modern encounters with classic material and personal recollections, Speelman explains why these quiet moves are so hard to anticipate and so decisive when they occur. | Photo: P. van Zoest / ANP, via geheugenvannederland.nl",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -672,14 +688,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/keymer-wins-titled-tuesday-december-30-2025",
          "pubDate" : "Tue, 30 Dec 2025 11:41:00",
          "title" : "Keymer Wraps Up Year With Titled Tuesday Victory"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126251468.cms\" />World No. 1 Magnus Carlsen once again found himself in the spotlight, not for his chess moves, but for his angry reaction at the board. The incident happened on Monday during the World Blitz Championship in Doha, after Carlsen lost to India's Arjun Erigaisi. Chris Bird, the arbiter who was on duty during the game, later explained what happened. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/such-acts-are-penalised-as-unsportsmanlike-behaviour-levon-aronian-blasts-magnus-carlsens-table-slam-after-loss-to-arjun-erigaisi/articleshow/126251468.cms",
-         "pubDate" : "Tue, 30 Dec 2025 11:29:10",
-         "title" : "'Unsportsmanlike behaviour': Aronian blasts Carlsen's table slam"
       },
       {
          "description" : "Very many congratulations to Carl Portman, the ECF's Manager for Chess in Prisons, who has just received the Member of the Order of the British Empire (MBE) honour in the...",
