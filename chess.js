@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126464357.cms\" />French No. 1 chess grandmaster Alireza Firouzja drew global attention after posting \"Long live Iran\" on social media and sharing the monarchial-era Iranian flag. The post was linked to ongoing protests and a humanitarian crisis in Iran. Though now a French citizen, Firouzja's message showed strong solidarity with Iranians and highlighted his deep emotional ties to his country of birth.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/long-live-iran-france-no-1-chess-grandmaster-alireza-firouzja-shares-powerful-message-amid-unrest/articleshow/126464357.cms",
+         "pubDate" : "Sun, 11 Jan 2026 11:44:45",
+         "title" : "'Long live Iran': France No. 1 Firouzja shares powerful message amid unrest"
+      },
+      {
+         "description" : "The final day of action in Kolkata sees the last nine of 3-minute blitz games in both sections. Wesley So and Carissa Yip entered the day as the sole leaders in the open and women's categories, respectively. | Follow the action live, with expert commentary starting at 15:00 local time (10:30 CET, 04:30 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2026-live",
+         "pubDate" : "Sun, 11 Jan 2026 10:20:00",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
          "description" : "The concept behind ChessBase's \"60 Minutes\" courses is simple: a one-hour video course for just under ten euros. There are also courses on middlegame or endgame topics, but most of them present rather \"specialised\" opening lines. In the second instalment of a small series, Jochen Schwarz introduces the most important 60 Minutes courses for 1.e4 players against the Caro-Kann Defence.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-india-blitz-day-1",
          "pubDate" : "Sat, 10 Jan 2026 11:43:00",
          "title" : "Wesley So Leads With Remarkable Comeback, Yip Leads Women's"
-      },
-      {
-         "description" : "Following the rapid tournaments, the blitz double round-robins start on Saturday in Kolkata. Newly crowned rapid champions Nihal Sarin and Kateryna Lagno look to get a double victory, a feat only achieved in the past by Magnus Carlsen (in 2019 nd 2024). | Follow the action live, with expert commentary starting at 15:00 local time (10:30 CET, 04:30 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2026-live",
-         "pubDate" : "Sat, 10 Jan 2026 10:20:00",
-         "title" : "Tata Steel Chess India - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126450535.cms\" />Wesley So clarified that he proposed the draw against R Praggnanandhaa after a dramatic time scramble at Tata Steel Chess India Rapid, a decision that sparked debate and criticism from arbiter Chris Bird. Amid the controversy, Nihal Sarin won the Rapid title, dedicating it to his late grandfather, while Kateryna Lagno claimed the women's crown",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/history-for-india-arjun-erigaisi-becomes-first-since-viswanathan-anand-to-podium-in-world-rapid-blitz/articleshow/126256403.cms",
          "pubDate" : "Tue, 30 Dec 2025 17:18:32",
          "title" : "History! Erigaisi becomes first since Anand to podium in World Rapid &amp; Blitz"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126253989.cms\" />Magnus Carlsen lost his Round 14 game by forfeit at the World Blitz Championship in Doha after knocking over multiple pieces while under severe time pressure against Haik Martirosyan. The incident, his second outburst at the event, further dented his title hopes. Carlsen now sits fifth, struggling in Blitz despite recently winning a record sixth World Rapid title, as Arjun Erigaisi leads the standings.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-drama-magnus-carlsen-knocks-over-pieces-handed-defeat-at-world-blitz-championship-watch/articleshow/126253989.cms",
-         "pubDate" : "Tue, 30 Dec 2025 14:01:02",
-         "title" : "Chess drama! Carlsen knocks over pieces, handed defeat - Watch"
       },
       {
          "description" : "Arjun Erigaisi became only the second Indian to win medals at both the world rapid and blitz championships in the same year",
