@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2026-01-11","11","<a href=https://ratings.uschess.org/event/202601110403 target='_blank'>Bellaire Swiss 1.11.26</a>",
+"HOUSTON","2026-01-11","15","<a href=https://ratings.uschess.org/event/202601110243 target='_blank'>JAN 11TH TROPHY SCHOLASTIC</a>",
 "HOUSTON","2026-01-10","154","<a href=https://ratings.uschess.org/event/202601100413 target='_blank'>WHARTON ACADEMY SCHOLASTIC 2026</a>",
 "HOUSTON","2026-01-10","11","<a href=https://ratings.uschess.org/event/202601100383 target='_blank'>chesspanda01102026saturday</a>",
 "CYPRESS","2026-01-10","43","<a href=https://ratings.uschess.org/event/202601100043 target='_blank'>Knights of Cypress</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2025-10-05","12","<a href=https://ratings.uschess.org/event/202510054392 target='_blank'>BELLAIRE SUNDAY SWISS 10/05/25</a>",
 "HOUSTON","2025-10-04","15","<a href=https://ratings.uschess.org/event/202510043072 target='_blank'>CHESSPANDA10042025SATURDAY</a>",
 "HOUSTON","2025-10-04","6","<a href=https://ratings.uschess.org/event/202510043022 target='_blank'>ROUND ROBIN</a>",
-"CYPRESS","2025-10-03","50","<a href=https://ratings.uschess.org/event/202510032672 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SUGAR LAND","2025-10-03","18","<a href=https://ratings.uschess.org/event/202510032652 target='_blank'>FBCC 2025 FIRST THANKSGIVING OPEN</a>",
 ]);
