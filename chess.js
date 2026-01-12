@@ -18,6 +18,14 @@ news_feed (
          "title" : "Batsiashvili beats Kosteniuk to win European Women's Rapid title"
       },
       {
+         "description" : "GM Praggnanandhaa Rameshbabu won the 2025 FIDE Circuit and joined 2024 winner GM Fabiano Caruana in qualifying for the 2026 FIDE Candidates Tournament. The International Chess Federation (FIDE) has now announced that for 2026-7 two years will be c...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-circuit-2-year-cycle",
+         "pubDate" : "Mon, 12 Jan 2026 02:04:46",
+         "title" : "FIDE Circuit Becomes 2-Year Qualification Cycle"
+      },
+      {
          "description" : "The concluding day of the Tata Steel Chess India event decided the blitz titles in Kolkata. In the open section, Wesley So kept things under control to secured first place with a round to spare. Nihal Sarin got second place, while Arjun Erigaisi again finished third. The women's event ended in a playoff, where Carissa Yip claimed the title after beating Vantika Agrawal by a 1&frac12;-&frac12; score. Stavroula Tsolakidou completed the podium. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -680,14 +688,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-06-dec-30",
          "pubDate" : "Tue, 30 Dec 2025 09:00:00",
          "title" : "Christmas Puzzles 6 - cover the board!"
-      },
-      {
-         "description" : "We&#39;re excited to announce the 2026 cycle of the Chess.com Community Championships! The series kicks off in January with the Chess.com Puzzles Championship and will feature 12 events in total, with a $37,500 prize fund. As always, the Championshi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-2026-chesscom-community-championships",
-         "pubDate" : "Tue, 30 Dec 2025 08:50:53",
-         "title" : "2026 Chess.com Community Championships Cycle Starts This January"
       },
       {
          "description" : "ESPN India's Athlete of the year is Divya Deshmukh, who just didn't stop winning in 2025.",
