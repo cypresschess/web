@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126477551.cms\" />Elite chess is experiencing a surge of \"World Championships\" with two major announcements: the Total Chess World Championship Tour and the FIDE Freestyle Chess World Championship. Both promise global reach and significant prize money, leading to comparisons and player confusion. The execution of these ambitious tours will determine their success and impact on the chess landscape.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/can-the-total-chess-world-championship-tour-shrug-off-the-copycat-tag-of-freestyle-chess/articleshow/126477551.cms",
+         "pubDate" : "Mon, 12 Jan 2026 06:48:48",
+         "title" : "Can Total Chess World Championship Tour shrug off 'copycat' tag of Freestyle Chess?"
+      },
+      {
+         "description" : "The European Women's Rapid Championship, held over the weekend in Monte-Carlo, brought together 143 players from 30 countries for an 11-round Swiss at a 15+10 time control. After leading for much of the tournament, Alexandra Kosteniuk was overtaken in the final round by Nino Batsiashvili, who secured the title on tiebreaks. The event also featured an undefeated run by ten-year-old Bodhana Sivanandan and a closely contested fight for the remaining podium places. | Pictured: Kosteniuk, Batsiashvili and third-placed Sofio Gvetadze. | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-rapid-ch-2025-report",
+         "pubDate" : "Mon, 12 Jan 2026 06:25:00",
+         "title" : "Batsiashvili beats Kosteniuk to win European Women's Rapid title"
+      },
+      {
          "description" : "The concluding day of the Tata Steel Chess India event decided the blitz titles in Kolkata. In the open section, Wesley So kept things under control to secured first place with a round to spare. Nihal Sarin got second place, while Arjun Erigaisi again finished third. The women's event ended in a playoff, where Carissa Yip claimed the title after beating Vantika Agrawal by a 1&frac12;-&frac12; score. Stavroula Tsolakidou completed the podium. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,28 +74,12 @@ news_feed (
          "title" : "Tata Steel Blitz: So, Yip take sole lead"
       },
       {
-         "description" : "In this analytical column, GM Jon Speelman examines the disproportionate power of subtle \"creeping\" moves in chess. Using examples from games by Alireza Firouzja, Boris Spassky (pictured in 1964) and Garry Kasparov, he shows how small, almost inconspicuous piece shifts can radically alter complex positions. Blending modern encounters with classic material and personal recollections, Speelman explains why these quiet moves are so hard to anticipate and so decisive when they occur. | Photo: P. van Zoest / ANP, via geheugenvannederland.nl",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-235",
-         "pubDate" : "Sat, 10 Jan 2026 21:45:00",
-         "title" : "Jon Speelman: Creeping, sliding and the ice rink of memory"
-      },
-      {
          "description" : "GM Hikaru Nakamura kept the Bullet Brawl ball rolling with his second straight win of 2026 after snatching the $400 first prize from GM Andrew Tang&#39;s grasp in the final moments of Saturday&#39;s event. Tang dominated in the first half but slumped in t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-jan-10-2026",
          "pubDate" : "Sat, 10 Jan 2026 15:08:00",
          "title" : "Nakamura Mounts All-Time Comeback, Denies Tang"
-      },
-      {
-         "description" : "The 2025 European Women's Blitz Championship, held on Friday in Monte-Carlo, brought together 127 players for a 13-round Swiss played at a 3+2 time control. The title was decided in dramatic fashion in the final round, where top seed Eline Roebers defeated long-time leader Bella Khotenashvili to secure tournament victory. | Pictured: The start of the crucial Roebers v. Khotenashvili encounter. | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-blitz-ch-2025-report",
-         "pubDate" : "Sat, 10 Jan 2026 14:30:00",
-         "title" : "Eline Roebers wins European Women's Blitz Championship"
       },
       {
          "description" : "2025 was a great year for me personally and my chess business. Even though I failed all three of my stated goals: I've had plenty of time with loved ones, married Alessia, enjoyed traveling to USA, Bali &#38; Italy, started making YouTube videos, funded my company &#38; ran a half marathon. Reflecting about \"failing\" my []",
@@ -130,36 +130,12 @@ news_feed (
          "title" : "Tata Steel Chess: Nihal Sarin holds firm, pips Viswanathan Anand for title"
       },
       {
-         "description" : "The final day of the rapid tournaments at the Tata Steel Chess India event saw titles decided in both sections. In the open, Nihal Sarin claimed first place after finishing clear of the field, ahead of Viswanathan Anand. The women's tournament also produced an outright winner, with Kateryna Lagno securing victory with a round to spare. Aleksandra Goryachkina finished in sole second place. With the rapid champions crowned, attention now turns to the blitz double round-robin, which follows over the weekend. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2026-3",
-         "pubDate" : "Fri, 09 Jan 2026 23:50:00",
-         "title" : "Nihal and Lagno claim Tata Steel India rapid titles outright"
-      },
-      {
          "description" : "GMs Denis Lazavik, Alexey Sarana, and Oleksandr Bortnyk won the three 3 0 Thursday tournaments on January 8. It was Bortnyk&#39;s first victory in the event, while the other GMs took their second title. IM Anna Sargsyan won the women&#39;s prizes in the f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/lazavik-sarana-bortnyk-3-0-thursday-1-8-2026",
          "pubDate" : "Fri, 09 Jan 2026 18:15:20",
          "title" : "Lazavik, Sarana, Bortnyk Win 3 0 Thursday Tournaments"
-      },
-      {
-         "description" : "The rift between FIDE and Freestyle Chess seemed final - and then, on Wednesday evening, a press release from both surprised the chess world: in February 2026, the first joint World Championship in Freestyle Chess is set to take place in Weissenhaus, Germany. Sagar Shah of ChessBase India conducted an in-depth interview with Jan Henric B&uuml;ttner of Freestyle Chess to learn more about this remarkable turnaround.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/friends-again-fide-and-freestyle-chess-an-interview-with-jan-henric-buettner",
-         "pubDate" : "Fri, 09 Jan 2026 16:54:27",
-         "title" : "Friends again: FIDE and Freestyle Chess - An interview with Jan Henric B&uuml;ttner"
-      },
-      {
-         "description" : "A reigning world chess champion has not played a serious game in Czechia for exactly 95 years. That is about to change. GM Gukesh Dommaraju, also known as Gukesh D, will take part in the 8th edition of the Prague International Chess Festival. The Indian prodigy has broken numerous modern chess records. The Festival, the most prestigious chess event in central and eastern Europe, will be held from 24 February to 6 March at Hotel Don Giovanni in Prague.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-champion-gukesh-plays-in-prague-chess-festival",
-         "pubDate" : "Fri, 09 Jan 2026 15:00:00",
-         "title" : "World Champion Gukesh plays in Prague Chess Festival"
       },
       {
          "description" : "GM Oleksandr Bortnyk is your Freestyle Friday winner on January 9, after he recovered from a loss in round three by never losing again. It was Bortnyk&#39;s sixth win of the tournament, more than anyone besides GM Hikaru Nakamura. Bortnyk still needed...",
@@ -210,14 +186,6 @@ news_feed (
          "title" : "Chess: Hastings Masters guards tradition and produces an English co-winner"
       },
       {
-         "description" : "The second day of the Tata Steel Chess India tournament brought further movement in the standings ahead of the final rapid rounds. In the open section, Vishy Anand remained at the top, now joined by Nihal Sarin after the young Indian's perfect day. The women's event again produced a sole leader, as Kateryna Lagno pulled clear with an undefeated performance, leaving Carissa Yip a half point back. | Photo: Vive Sohani",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2026-2",
-         "pubDate" : "Fri, 09 Jan 2026 01:45:00",
-         "title" : "Tata Steel Chess India: Nihal draws level with Anand at the top"
-      },
-      {
          "description" : "The air in the Times Square Marriott Marquis was ionized with anxiety on January 3 and 4 for the New York Metro Scholastic Chess Championships. Children carrying chess bags were whooshed pneumatically to their respective playing halls in the hotel's famous glass elevators as 1,438 players from kindergarten through 12th grade moved with stone-faced focus, dutifully dragging coteries of parents, coaches, and all manner of extended family as they flooded nine floors of premium conference space in Midtown Manhattan. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> A sign welcoming \"K-12 Warriors\" set the tone for the Metro Championships. (All photos courtes",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -248,14 +216,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/kolkata-rapid-blitz-nihal-sarin-joins-viswanathan-anand-at-the-top-after-day-2/articleshow/126419167.cms",
          "pubDate" : "Thu, 08 Jan 2026 17:01:01",
          "title" : "Kolkata Rapid &amp; Blitz: Nihal Sarin joins Anand at the top after Day 2"
-      },
-      {
-         "description" : "More convenience, better clarity, greater performance: ChessBase Mobile now comes with numerous improvements for even more efficient work at the chessboard - whether at home or on the go. And best of all, the app updates itself automatically, without requiring an update from the App Store. Just launch it and benefit immediately.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-mobile-now-with-automatic-updates-and-many-improvements",
-         "pubDate" : "Thu, 08 Jan 2026 16:06:16",
-         "title" : "ChessBase Mobile - Now with Automatic Updates and Many Improvements"
       },
       {
          "description" : "To submit an Expression of Interest, interested candidates should complete their application using the following Google Form. https://forms.gle/dVvfGrgWE2EZNp8R8 Criteria: GM/IM/WGM/WIM/Fide Senior Trainer/Fide Trainer /Fide Instructor",
@@ -632,14 +592,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-07-dec-31",
          "pubDate" : "Wed, 31 Dec 2025 09:00:00",
          "title" : "Christmas Puzzles 7 - long and short"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126263371.cms\" />Arjun becomes the second Indian after Viswanathan Anand to win the world blitz bronze medal. Anand was the last Indian to stand on the podium in 2017. At the end of the 19-round stage, Arjun was followed by American GM Fabiano Caru -ana, World No.1 Magnus Carls -en and Nodirbek into the semifinals.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-tops-table-but-ends-with-world-blitz-bronze/articleshow/126263371.cms",
-         "pubDate" : "Wed, 31 Dec 2025 03:49:32",
-         "title" : "Arjun Erigaisi tops table, but ends with World Blitz bronze"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126263065.cms\" />Magnus Carlsen secured his ninth World Blitz title, defeating Nodirbek Abdusattorov 2.5-1.5 after a dramatic final. Indian Grandmaster Arjun Erigaisi, who led the qualifying rounds, fell in the semifinals and secured a bronze medal, his second of the championship.",
