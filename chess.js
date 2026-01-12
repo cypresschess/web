@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From February 13 to 15, 2026, the first official Freestyle World Championship will take place in Weissenhaus, Germany. One spot is still open, and it will be decided in an online qualification tournament organised by FIDE on chess.com. The two-day event, which will determine the coveted final available place, begins on January 14 at 16:00 CET (10:00 ET / 20:30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/online-qualification-for-the-freestyle-world-championship-in-weissenhaus",
+         "pubDate" : "Mon, 12 Jan 2026 16:00:00",
+         "title" : "Online Qualification for the Freestyle World Championship in Weissenhaus"
+      },
+      {
+         "description" : "On January 6, Magnus Carlsen and the 12-year-old Argentine Faustino Oro, who still has good chances of becoming the youngest grandmaster of all time, played Titled Tuesday at the Take Take Take Studio in Oslo. Afterwards, they chatted briefly and played a blitz game (3+2). Of course, \"nothing\" was at stake - but of course games between young talents, who may one day become world champions, and established or former world champions are always exciting and a battle for prestige. And this perhaps one day historically significant duel was captured on video.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/faustino-oro-and-magnus-carlsen-play-some-blitz",
+         "pubDate" : "Mon, 12 Jan 2026 14:53:20",
+         "title" : "Faustino Oro and Magnus Carlsen play blitz"
+      },
+      {
+         "description" : "The European Women's Rapid and Blitz Chess Championships 2025 took place from 8-12 January in Monte-Carlo, Monaco. The Championship gathered record-breaking 143 players from 30 European federations in the Rapid competition, while 120 players from 30 federations took part in the Blitz Chess Championship. The event commenced with the European Women's Blitz Chess Championship 2025 which was played on Friday, 9th of January. The Winner of the tournament was determined in the dramatical final round and direct top place encounter []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-champions-2025-crowned-in-monaco/",
+         "pubDate" : "Mon, 12 Jan 2026 13:43:07",
+         "title" : "European Women's Rapid and Blitz Chess Champions 2025 crowned in Monaco"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126477551.cms\" />Elite chess is experiencing a surge of \"World Championships\" with two major announcements: the Total Chess World Championship Tour and the FIDE Freestyle Chess World Championship. Both promise global reach and significant prize money, leading to comparisons and player confusion. The execution of these ambitious tours will determine their success and impact on the chess landscape.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -22,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-circuit-2-year-cycle",
-         "pubDate" : "Mon, 12 Jan 2026 02:04:46",
+         "pubDate" : "Mon, 12 Jan 2026 02:04:00",
          "title" : "FIDE Circuit Becomes 2-Year Qualification Cycle"
       },
       {
