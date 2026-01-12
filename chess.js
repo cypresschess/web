@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The former fishing village of Wijk aan Zee is world-famous, at least in the chess world. Virtually all world-class players, including almost all world champions, have passed through here. The long-standing sponsor has always been the steelworks in IJmuiden. The chess tradition is very old. Fifty years ago, some things were different from today, but much was already much the same as it is now. | Photo: Rob Mieremet, Anefo",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wijk-aan-zee-fifty-years-ago",
+         "pubDate" : "Mon, 12 Jan 2026 19:00:00",
+         "title" : "Wijk aan Zee Fifty Years Ago"
+      },
+      {
          "description" : "From February 13 to 15, 2026, the first official Freestyle World Championship will take place in Weissenhaus, Germany. One spot is still open, and it will be decided in an online qualification tournament organised by FIDE on chess.com. The two-day event, which will determine the coveted final available place, begins on January 14 at 16:00 CET (10:00 ET / 20:30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-champions-2025-crowned-in-monaco/",
          "pubDate" : "Mon, 12 Jan 2026 13:43:07",
          "title" : "European Women's Rapid and Blitz Chess Champions 2025 crowned in Monaco"
+      },
+      {
+         "description" : "GM Maurice Ashley, the first Black grandmaster in history, said he fulfilled a lifelong dream when he appeared on The Oprah Podcast, sitting down virtually with Oprah Winfrey for a conversation about chess, impact, and hidden potential. Few gran...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/maurice-ashley-oprah-winfrey",
+         "pubDate" : "Mon, 12 Jan 2026 08:30:00",
+         "title" : "Maurice Ashley With Oprah Winfrey: 'A Surreal, Fairy-Tale Moment'"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126477551.cms\" />Elite chess is experiencing a surge of \"World Championships\" with two major announcements: the Total Chess World Championship Tour and the FIDE Freestyle Chess World Championship. Both promise global reach and significant prize money, leading to comparisons and player confusion. The execution of these ambitious tours will determine their success and impact on the chess landscape.",
@@ -688,14 +704,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-assaubayeva-win-2025-fide-world-blitz-chess-championships",
          "pubDate" : "Tue, 30 Dec 2025 12:30:00",
          "title" : "Carlsen Wins 20th World Title, Assaubayeva Now 3-Time Women's Blitz Champion"
-      },
-      {
-         "description" : "GM Vincent Keymer took home the last Titled Tuesday of 2025 on December 30, scoring 10/11 to become the first player to reach a double-digit score in the tournament since November 18. Only two players could win entering the final round, and Keymer...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/keymer-wins-titled-tuesday-december-30-2025",
-         "pubDate" : "Tue, 30 Dec 2025 11:41:00",
-         "title" : "Keymer Wraps Up Year With Titled Tuesday Victory"
       },
       {
          "description" : "Very many congratulations to Carl Portman, the ECF's Manager for Chess in Prisons, who has just received the Member of the Order of the British Empire (MBE) honour in the...",
