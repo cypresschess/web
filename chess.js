@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126502200.cms\" />Indian grandmaster R Praggnanandhaa admitted his form dipped after a hectic 2025 season despite early title wins. He struggled in the year's latter half but is not worried about the 2026 Candidates. Praggnanandhaa believes continuous tournaments affected his play and says an upcoming two-month break will help him rest, regroup, and prepare better.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/ahead-of-candidates-2026-indias-only-hope-r-praggnanandhaa-reveals-my-play-not-on-same-level-as-it-used-to-be/articleshow/126502200.cms",
+         "pubDate" : "Tue, 13 Jan 2026 10:23:52",
+         "title" : "Ahead of Candidates 2026, India's only hope Pragg makes big admission"
+      },
+      {
          "description" : "Javokhir Sindarov's 2025 season marked a turning point in his career. Focusing exclusively on classical chess, this analysis examines how the young Uzbek combined a selective tournament schedule with exceptional results in high-pressure events, culminating in victory at the FIDE World Cup and qualification for the 2026 Candidates Tournament, despite a relatively modest rating climb compared with some of his contemporaries. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -634,14 +642,6 @@ news_feed (
          "title" : "Christmas Puzzles 7 - long and short"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126263065.cms\" />Magnus Carlsen secured his ninth World Blitz title, defeating Nodirbek Abdusattorov 2.5-1.5 after a dramatic final. Indian Grandmaster Arjun Erigaisi, who led the qualifying rounds, fell in the semifinals and secured a bronze medal, his second of the championship.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-magnus-carlsen-clinches-record-ninth-title-arjun-erigaisi-wins-bronze/articleshow/126263065.cms",
-         "pubDate" : "Wed, 31 Dec 2025 03:19:03",
-         "title" : "World Blitz: Magnus Carlsen clinches record ninth title"
-      },
-      {
          "description" : " The World Rapid and Blitz Championships took place Fri 26th Dec to Tue 30th Dec 2025 in Doha, Qatar. Players: Magnus Carlsen, Ian Nepomniachtchi, Levon Aronian, Alireza Firouzja, Fabiano Caruana, Maxime Vachier-Lagrave, Vladislav Artemiev, Nodirbek Abdusattorov, Arjun Erigaisi, Jan Krzysztof Duda, Shakhriyar Mamedyarov, Javokhir Sindarov, Leinier Dominguez Perez, Richard Rapport, Wesley So, D Gukesh, Daniil Dubov, Anish Giri, Yangyi Yu, Alexander Grischuk, Dmitry Andreikin, Parham Maghsoodloo, Jaime Santos Latasa, Sarin Nihal, Praggnanandhaa, Teimour Radjabov, Sam Sevian, Radoslaw Wojtaszek, Ray Robson, Andrey Esipenko etc Women Players: Ju Wenjun, Tan Zhongyi, Aleksandra Goryachkina, Tingj",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -792,14 +792,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/tech-mahindra-global-chess-league-2025",
          "pubDate" : "Tue, 23 Dec 2025 21:37:00",
          "title" : "Tech Mahindra Global Chess League 2025 - Games and Results"
-      },
-      {
-         "description" : "The Tech Mahindra Global Chess League returns for its third season from 14 to 23 December, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league again brings together established stars and juniors, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 11.00 CET (5.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2025-live",
-         "pubDate" : "Tue, 23 Dec 2025 10:50:00",
-         "title" : "Global Chess League Finals - Live!"
       }
    ]
 }
