@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Your chance to train and talk with Garry Kasparov, LIVE! On January 18, 2026, you are in for something special. Chess legend Garry Kasparov, former World Champion and one of the greatest players of all time, will host an exclusive live lecture. This one-of-a-kind event provides chess enthusiasts and competitive players with a rare opportunity to learn directly from a true icon of the game.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/garry-kasparov-live-lecture",
+         "pubDate" : "Tue, 13 Jan 2026 17:00:00",
+         "title" : "Garry Kasparov live lecture"
+      },
+      {
+         "description" : "The Tata Steel Masters is the youngest Masters tournament in Wijk aan Zee history. With Yagiz Kaan Erdogmus, a 14-year-old has even qualified as a participant. And in the Challengers, twelve-year-old Faustino Oro (pictured) is hoping to follow in his footsteps. Which of the young guns from ten years ago have made it to the world elite? | Photo: Tata Steel Masters/ Jurriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-young-guns-today-and-ten-years-ago",
+         "pubDate" : "Tue, 13 Jan 2026 14:00:00",
+         "title" : "The Young Guns - today and ten years ago"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126502200.cms\" />Indian grandmaster R Praggnanandhaa admitted his form dipped after a hectic 2025 season despite early title wins. He struggled in the year's latter half but is not worried about the 2026 Candidates. Praggnanandhaa believes continuous tournaments affected his play and says an upcoming two-month break will help him rest, regroup, and prepare better.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/shreyanshi-jain-making-of-a-young-champion",
          "pubDate" : "Tue, 13 Jan 2026 04:50:00",
          "title" : "Shreyanshi Jain: The making of a young champion"
+      },
+      {
+         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, including some brain-teasers in our Wednesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-world-rapid-blitz-pt-2",
+         "pubDate" : "Tue, 13 Jan 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2025 World Rapid & Blitz, Pt. 2"
       },
       {
          "description" : "The former fishing village of Wijk aan Zee is world-famous, at least in the chess world. Virtually all world-class players, including almost all world champions, have passed through here. The long-standing sponsor has always been the steelworks in IJmuiden. The chess tradition is very old. Fifty years ago, some things were different from today, but much was already much the same as it is now. | Photo: Rob Mieremet, Anefo",
@@ -656,14 +680,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/magnus-carlsen-completes-a-world-championship-rapid-and-blitz-double-for-the-fifth-time",
          "pubDate" : "Wed, 31 Dec 2025 00:26:00",
          "title" : "Magnus Carlsen completes a World Championship Rapid and Blitz double for the fifth time - "
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Carlsen after winning his ninth World Blitz Championship (All photos courtesy FIDE/Lennart Ootes, unless marked otherwise)<br> <br> <br> <br> No Co-Champions this year. The 2025 FIDE World Rapid &amp; Blitz Championships were held December 26 through 30 in Doha, Qatar. GM Magnus Carlsen won double gold for his sixth World Rapid and ninth World Blitz title, while GM Aleksandra Goryachkina won her first world championship title in the Women's World Rapid and GM Bibisara Assaubayeva won her third Women's World Blitz title in five years.Most annotations below are by WGM Sabina Foisor, unless marked otherwise.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/world-rapid-and-blitz-carlsens-double-gold-goryachkinas-first-world-title-and-assaubayevas",
-         "pubDate" : "Wed, 31 Dec 2025 00:00:00",
-         "title" : "World Rapid and Blitz: Carlsen's Double Gold, Goryachkina's First World Title, and Assaubayeva's Blitz Dynasty"
       },
       {
          "description" : "<ul><li> Carlsen captures ninth blitz world title in Doha </li><li> Norwegian completes fifth rapid-blitz double </li><li> Assaubayeva beats Muzychuk in women's final </li></ul> Magnus Carlsen's domination of chess showed no sign of weakening when the world number one won the blitz world championship title for the ninth time on Tuesday, two days after taking the rapid title. The Norwegian beat Uzbek grandmaster Nodirbek Abdusattorov 2&frac12;-1&frac12; in the final in Doha to secure his fifth rapid and blitz double after achieving the feat in 2014, 2019, 2022 and 2023. Carlsen, who relinquished his regular world chess champion title citing a lack of motivation after winning it in 2013, 2014,",
