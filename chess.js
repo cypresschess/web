@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Maurice Ashley appeared on \"The Oprah Winfrey Show\" alongside organisational psychologist Adam Grant in a conversation about learning, character and long-term development. Drawing on his experience as a player, coach and teacher, Ashley reflects on discovering chess in Brooklyn, guiding the Raging Rooks from Harlem, and the broader life lessons the game offers about resilience, growth and opportunity. | Photo: Eng Chin An",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/maurice-ashley-oprah-winfrey-show-2026",
+         "pubDate" : "Tue, 13 Jan 2026 21:00:00",
+         "title" : "Maurice Ashley appears on the Oprah Winfrey Show: \"To become a GM, one must first be a GM\""
+      },
+      {
          "description" : "Your chance to train and talk with Garry Kasparov, LIVE! On January 18, 2026, you are in for something special. Chess legend Garry Kasparov, former World Champion and one of the greatest players of all time, will host an exclusive live lecture. This one-of-a-kind event provides chess enthusiasts and competitive players with a rare opportunity to learn directly from a true icon of the game.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-young-guns-today-and-ten-years-ago",
          "pubDate" : "Tue, 13 Jan 2026 14:00:00",
          "title" : "The Young Guns - today and ten years ago"
+      },
+      {
+         "description" : "GM Javokhir Sindarov took home&#38;nbsp;Titled Tuesday honors on January 13 after holding a draw against countryman GM Nodirbek Abdusattorov in the final round. The result gave Sindarov outright first place with 9.5 points after GM Alexey Sarana went ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sindarov-wins-titled-tuesday-january-13-2026",
+         "pubDate" : "Tue, 13 Jan 2026 12:09:49",
+         "title" : "Sindarov Takes Tuesday Out Of All-Uzbek Final"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126502200.cms\" />Indian grandmaster R Praggnanandhaa admitted his form dipped after a hectic 2025 season despite early title wins. He struggled in the year's latter half but is not worried about the 2026 Candidates. Praggnanandhaa believes continuous tournaments affected his play and says an upcoming two-month break will help him rest, regroup, and prepare better.",
@@ -696,14 +712,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/47453876/arjun-erigaisi-fide-world-rapid-blitz-medals-decisive-win-end-tough-year",
          "pubDate" : "Tue, 30 Dec 2025 12:42:30",
          "title" : "Arjun Erigaisi's World Rapid & Blitz medals are decisive wins to end tough year"
-      },
-      {
-         "description" : "GM Magnus Carlsen has won the 2025 FIDE World Blitz Chess Championship by defeating GM Nodirbek Abdusattorov 2.5-1.5 in the final match. Along with &#38;euro;70,000, he earned his ninth world blitz title and 20th world championship title across all th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-assaubayeva-win-2025-fide-world-blitz-chess-championships",
-         "pubDate" : "Tue, 30 Dec 2025 12:30:00",
-         "title" : "Carlsen Wins 20th World Title, Assaubayeva Now 3-Time Women's Blitz Champion"
       },
       {
          "description" : "Very many congratulations to Carl Portman, the ECF's Manager for Chess in Prisons, who has just received the Member of the Order of the British Empire (MBE) honour in the...",
