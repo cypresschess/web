@@ -50,28 +50,12 @@ news_feed (
          "title" : "Can Total Chess World Championship Tour shrug off 'copycat' tag of Freestyle Chess?"
       },
       {
-         "description" : "The European Women's Rapid Championship, held over the weekend in Monte-Carlo, brought together 143 players from 30 countries for an 11-round Swiss at a 15+10 time control. After leading for much of the tournament, Alexandra Kosteniuk was overtaken in the final round by Nino Batsiashvili, who secured the title on tiebreaks. The event also featured an undefeated run by ten-year-old Bodhana Sivanandan and a closely contested fight for the remaining podium places. | Pictured: Kosteniuk, Batsiashvili and third-placed Sofio Gvetadze. | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-rapid-ch-2025-report",
-         "pubDate" : "Mon, 12 Jan 2026 06:25:00",
-         "title" : "Batsiashvili beats Kosteniuk to win European Women's Rapid title"
-      },
-      {
          "description" : "GM Praggnanandhaa Rameshbabu won the 2025 FIDE Circuit and joined 2024 winner GM Fabiano Caruana in qualifying for the 2026 FIDE Candidates Tournament. The International Chess Federation (FIDE) has now announced that for 2026-7 two years will be c...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-circuit-2-year-cycle",
          "pubDate" : "Mon, 12 Jan 2026 02:04:00",
          "title" : "FIDE Circuit Becomes 2-Year Qualification Cycle"
-      },
-      {
-         "description" : "The concluding day of the Tata Steel Chess India event decided the blitz titles in Kolkata. In the open section, Wesley So kept things under control to secured first place with a round to spare. Nihal Sarin got second place, while Arjun Erigaisi again finished third. The women's event ended in a playoff, where Carissa Yip claimed the title after beating Vantika Agrawal by a 1&frac12;-&frac12; score. Stavroula Tsolakidou completed the podium. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2026-4",
-         "pubDate" : "Sun, 11 Jan 2026 20:30:00",
-         "title" : "US duo shines in Kolkata: So and Yip win Tata Steel India blitz tournaments"
       },
       {
          "description" : " The Tata Steel India Rapid & Blitz took place Wed 7th Jan to Mon 12th Jan 2026. Players: Viswanathan Anand, Wei Yi, Chithambaram Aravindh, Arjun Erigaisi, Hans Moke Niemann, Volodar Murzin, Gujrathi Vidit Santosh, R Praggnanandhaa, Nihal Sarin, Wesley So, Women: Ravi Rakshitta, Carissa Yip, Deshmukh Divya, Nana Dzagnidze, Agrawal Vantika, Rameshbabu Vaishali, Kateryna Lagno, Harika Dronavalli, Stavroula Tsolakidou, Aleksandra Goryachkina. The Rapid was won by Nihal Sarin with 6.5/9, half a point clear of Viswanathan Anand, the women's rapid was won by Kateryna Lagno with 6.5/9 a point and a half clear of Aleksandra Goryachkina. The Blitz was won by Wesley So with 12/18 a point clear of Niha",
@@ -96,22 +80,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/long-live-iran-france-no-1-chess-grandmaster-alireza-firouzja-shares-powerful-message-amid-unrest/articleshow/126464357.cms",
          "pubDate" : "Sun, 11 Jan 2026 11:44:45",
          "title" : "'Long live Iran': France No. 1 Firouzja shares powerful message amid unrest"
-      },
-      {
-         "description" : "The final day of action in Kolkata sees the last nine of 3-minute blitz games in both sections. Wesley So and Carissa Yip entered the day as the sole leaders in the open and women's categories, respectively. | Follow the action live, with expert commentary starting at 15:00 local time (10:30 CET, 04:30 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2026-live",
-         "pubDate" : "Sun, 11 Jan 2026 10:20:00",
-         "title" : "Tata Steel Chess India - Live!"
-      },
-      {
-         "description" : "The concept behind ChessBase's \"60 Minutes\" courses is simple: a one-hour video course for just under ten euros. There are also courses on middlegame or endgame topics, but most of them present rather \"specialised\" opening lines. In the second instalment of a small series, Jochen Schwarz introduces the most important 60 Minutes courses for 1.e4 players against the Caro-Kann Defence.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-60-minutes-against-caro-kann",
-         "pubDate" : "Sun, 11 Jan 2026 07:00:00",
-         "title" : "Review: 60 Minutes against Caro-Kann"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126462346.cms\" />Young Indian chess prodigy Arjun Erigaisi faltered after a strong start in the Tata Steel Blitz, allowing American Grandmaster Wesley So to seize a half-point lead. So, despite an early blunder, rallied with five consecutive wins to finish Day I atop the standings. In the women's event, Carissa Yip leads, with Nihal Sarin and Viswanathan Anand in contention.",
@@ -336,14 +304,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-india-day-1",
          "pubDate" : "Wed, 07 Jan 2026 11:23:00",
          "title" : "Anand, Niemann Lead Open; Yip Leads Women's"
-      },
-      {
-         "description" : "In the final sections of our Christmas Puzzle Week we brought you a variety of famous and less well-known puzzles. Among them a mate problem that solves itself - literally. And one that looks deceptively simple, but requires a very subtle strategy to find the win. In no less than 46 moves! Can computers solve it?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-solutions-3",
-         "pubDate" : "Wed, 07 Jan 2026 07:42:39",
-         "title" : "Christmas week puzzles solutions 3"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126387825.cms\" />Viswanathan Anand returns to competitive Indian chess after a six-year hiatus at the Tata Steel Rapid and Blitz Chess India tournament. The five-time world champion faces a unique challenge as he competes against his own students, Arjun Erigaisi, R Praggnanandhaa, and Nihal Sarin, all products of his academy and in strong form.",
@@ -744,14 +704,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-05-dec-29",
          "pubDate" : "Mon, 29 Dec 2025 09:00:00",
          "title" : "Christmas Puzzles 5 - Rotary problems"
-      },
-      {
-         "description" : "Rating Fee Increase Effective January 1US Chess will increase the per-game rating fee from 25 cents to 30 cents on Jan. 1, 2026, and from 30 cents to 35 cents per game on July 1. A plan for future adjustments will be discussed at the 2026 Delegates Meeting held in conjunction with the 2026 U.S. Open in Grand Rapids, MI. The Executive Board unanimously approved this change at its Dec. 9, 2025 meeting.The rating system is a core US Chess service, processing millions of games each year. Operating this system requires staff, technical resources, and ongoing investment, including continued development of the new MUIR system. Demand for timely and accurate ratings has increased, while the per-game",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/rating-fee-increase-effective-january-1",
-         "pubDate" : "Mon, 29 Dec 2025 00:00:00",
-         "title" : "Rating Fee Increase Effective January 1"
       },
       {
          "description" : "On behalf of All India Chess Federation , MP Chess Adhoc is organizing Senior National Arbiter Seminar &#38; exam at Arera Club, Link Road No. 1,",
