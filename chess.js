@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Javokhir Sindarov's 2025 season marked a turning point in his career. Focusing exclusively on classical chess, this analysis examines how the young Uzbek combined a selective tournament schedule with exceptional results in high-pressure events, culminating in victory at the FIDE World Cup and qualification for the 2026 Candidates Tournament, despite a relatively modest rating climb compared with some of his contemporaries. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/2025-breakthrough-year-javokhir-sindarov",
+         "pubDate" : "Tue, 13 Jan 2026 09:00:00",
+         "title" : "2025: A breakthrough year for Javokhir Sindarov"
+      },
+      {
+         "description" : "The Marshall Attack has long been one of the most important systems against the Ruy Lopez, and it is one of the sharpest. With the advance 8...d5, Black sacrifices their e-pawn and then attempts to launch an attack against the White's king, making use of the open diagonals and lines. Until now, after 9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5, 11...c6 was considered the absolute main continuation. Variants up to the 40th move have been analysed here. In his article for the current CBM #229, Robert Ris presents an alternative with 11...Bb7, which is by no means worse, more natural and very promising in practice. Take a look at this week's CBM reading sample!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-46",
+         "pubDate" : "Tue, 13 Jan 2026 08:00:00",
+         "title" : "Marshall Attack with 11...Bb7"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126500056.cms\" />Magnus Carlsen will participate in Norway Chess 2026, ending speculation about his classical chess future. The prestigious tournament, which Carlsen has won seven times, is relocating from Stavanger to Oslo. This move signifies a new chapter for the event, aiming for broader reach and engagement with a wider audience and new generations of chess enthusiasts.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-confirms-norway-chess-2026-participation-event-moves-to-oslo/articleshow/126500056.cms",
+         "pubDate" : "Tue, 13 Jan 2026 07:35:40",
+         "title" : "Magnus Carlsen confirms Norway Chess 2026 participation, event moves to Oslo"
+      },
+      {
+         "description" : "A little girl in Jaipur picked up a chess piece at age four, simply because she was curious. Three years later, that same child is winning State, National and International titles! This is the story of seven-year-old Shreyanshi Jain. She is a fearless player who does not hesitate to take risks on the board. Her rise includes big wins, tough lessons and a support system that allows her to dream freely. At the Asian Schools Championship, she brought home medals in all three formats: Classical, Rapid and Blitz. Read the article to see how it all unfolded and what shaped her early success.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/shreyanshi-jain-making-of-a-young-champion",
+         "pubDate" : "Tue, 13 Jan 2026 04:50:00",
+         "title" : "Shreyanshi Jain: The making of a young champion"
+      },
+      {
          "description" : "The former fishing village of Wijk aan Zee is world-famous, at least in the chess world. Virtually all world-class players, including almost all world champions, have passed through here. The long-standing sponsor has always been the steelworks in IJmuiden. The chess tradition is very old. Fifty years ago, some things were different from today, but much was already much the same as it is now. | Photo: Rob Mieremet, Anefo",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -640,14 +672,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/dec/30/magnus-carlsen-ninth-blitz-world-title-rapid-double",
          "pubDate" : "Tue, 30 Dec 2025 20:38:47",
          "title" : "Magnus Carlsen completes rapid-blitz double with ninth world blitz title"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126256403.cms\" />Arjun Erigaisi delivered a memorable performance at the World Rapid and Blitz Chess Championships 2025, winning bronze medals in both events. He became the first Indian since Viswanathan Anand to get podium finishes at both the championships. Despite semifinal losses to Nodirbek Abdusattorov, Arjun's strong showing in Doha highlighted his growing stature in world chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/history-for-india-arjun-erigaisi-becomes-first-since-viswanathan-anand-to-podium-in-world-rapid-blitz/articleshow/126256403.cms",
-         "pubDate" : "Tue, 30 Dec 2025 17:18:32",
-         "title" : "History! Erigaisi becomes first since Anand to podium in World Rapid &amp; Blitz"
       },
       {
          "description" : "Arjun Erigaisi became only the second Indian to win medals at both the world rapid and blitz championships in the same year",
