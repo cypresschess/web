@@ -10,6 +10,14 @@ news_feed (
          "title" : "Maurice Ashley appears on the Oprah Winfrey Show: \"To become a GM, one must first be a GM\""
       },
       {
+         "description" : " Maurice Ashley appeared on Oprah along with Adam Grant, who highlighted Ashley in his book, Hidden Potential: The Science of Achieving Greater Things. Grant's book focuses on talent assessment, drawing from stories of successful personalities in various fields. Grandmaster Maurice Ashley, appearing on The Oprah Podcast, with author Adam Grant Hidden Potential&#160;offers a new framework The post <a href=\"https://thechessdrum.net/blog/2026/01/13/ashley-appears-on-oprah/\">Ashley appears on Oprah!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2026/01/13/ashley-appears-on-oprah/",
+         "pubDate" : "Tue, 13 Jan 2026 20:42:45",
+         "title" : "Ashley appears on Oprah!"
+      },
+      {
          "description" : "Your chance to train and talk with Garry Kasparov, LIVE! On January 18, 2026, you are in for something special. Chess legend Garry Kasparov, former World Champion and one of the greatest players of all time, will host an exclusive live lecture. This one-of-a-kind event provides chess enthusiasts and competitive players with a rare opportunity to learn directly from a true icon of the game.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -808,14 +816,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/jonathan-hawkins-1983-2025",
          "pubDate" : "Wed, 24 Dec 2025 14:16:00",
          "title" : "Jonathan Hawkins 1983 - 2025 - 1983 - 2025"
-      },
-      {
-         "description" : " The Tech Mahindra Global Chess League took place Sat 13th Dec to Tuesday 23rd Dec 2025 in Mumbai. This was a very strong rapid team event and is on its third edition with previous events in Dubai and London. There were two stages, a round robin took place until the 22nd of December followed by a final day where the top two teams played off for the title and there wasalso a 3rd-4th place match. Teams: Triveni Continental Kings: Firouzja, Wei, Vidit, Zhu, Kosteniuk, Maurizzi. Upgrad Mumba Masters: Vachier-Lagrave, So, Mamedyarov, Koneru, Dronavalli, Daneshvar. Alpine SG Pipers: Caruana, Giri, Praggnanandhaa, Hou, Batsiashvili, Mendonca. Ganges Grandmasters: Anand, Keymer, Sindarov, Shuvalova,",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tech-mahindra-global-chess-league-2025",
-         "pubDate" : "Tue, 23 Dec 2025 21:37:00",
-         "title" : "Tech Mahindra Global Chess League 2025 - Games and Results"
       }
    ]
 }
