@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anastasia Corotcova explains how to insert variations into your notation using both reference games and engine suggestions. It shows how the Reference tab lists common moves and past games for the current position, allowing you to click or copy them directly into your analysis. Finally, it demonstrates how to add an engine (Kibitzer) and insert its suggested lines to build clear, structured game analysis.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-tips-for-beginners-variations-from-reference-engines",
+         "pubDate" : "Wed, 14 Jan 2026 18:00:00",
+         "title" : "ChessBase tips for beginners - Variations from Reference & Engines"
+      },
+      {
          "description" : "From 1971 to 1980, FIDE issued just one rating list per year. This gradually increased to the current standard of monthly updates-a change driven by obvious practical needs. Yet frequent rating lists can sometimes obscure the broader picture of yearly progress. In this piece, the FIDE highlights players who achieved significant rating gains over the past year. | Picture: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-rating-review-2025-the-year-s-biggest-gains-and-breakthroughs",
          "pubDate" : "Wed, 14 Jan 2026 13:00:00",
          "title" : "FIDE rating review 2025: The year's biggest gains and breakthroughs"
+      },
+      {
+         "description" : "GMs Nodirbek Abdusattorov, Pranav Venkatesh, Grigoriy Oparin, and Amin Tabatabaei all finished with 7/9 to place in the top-four of the 2026 FIDE Freestyle Chess World Championship Play-in Swiss, and they advance to the Knockout. Only one of the f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-freestyle-chess-world-championship-play-in-day-1",
+         "pubDate" : "Wed, 14 Jan 2026 12:18:05",
+         "title" : "Abdusattorov, Pranav, Oparin, Tabatabaei Advance To Knockout"
       },
       {
          "description" : "Harshit Raja's course teaches a complete and practical 1.e4 repertoire, showing how to get comfortable, easy-to-play positions against all major Black defences including &hellip;e5, Sicilian, Caro-Kann, French, Scandinavian, Alekhine, and rare sidelines. Instead of heavy theory, he focuses on simple plans, strong central control, and clear piece development, often recommending slightly offbeat but very effective setups that put opponents out of their comfort zone. The goal is to give club players a strategic understanding of the resulting positions, so they know what to do in the middlegame and can consistently play for an advantage.",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/vladislav-artemiev-interview-world-rapid-2025",
          "pubDate" : "Wed, 14 Jan 2026 04:00:00",
          "title" : "\"I just wanted a medal\" - Vladislav Artemiev on beating Magnus Carlsen and winning silver at World Rapid 2025"
+      },
+      {
+         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out the start of our Tactics Tuesday series with more beginner-friendly puzzles here and here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2025-world-rapid-blitz-pt-2",
+         "pubDate" : "Wed, 14 Jan 2026 00:00:00",
+         "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 2"
       },
       {
          "description" : "Maurice Ashley appeared on \"The Oprah Winfrey Show\" alongside organisational psychologist Adam Grant in a conversation about learning, character and long-term development. Drawing on his experience as a player, coach and teacher, Ashley reflects on discovering chess in Brooklyn, guiding the Raging Rooks from Harlem, and the broader life lessons the game offers about resilience, growth and opportunity. | Photo: Eng Chin An",
@@ -674,14 +698,6 @@ news_feed (
          "title" : "Final Report:National Junior (Under-19) Chess Championship - 2025"
       },
       {
-         "description" : "The Naroditsky Memorial and Fellowship Fund has surpassed $1 million, marking a major milestone in efforts to honor the legacy of GM Daniel Naroditsky. The grandmaster tragically passed away at the age of 29 on October 19. In November, the Charl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/naroditsky-memorial-fund-reaches-1-million-milestone",
-         "pubDate" : "Thu, 01 Jan 2026 08:25:00",
-         "title" : "Naroditsky Memorial Fund Reaches $1 Million Milestone"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126282651.cms\" />Notably, Kramnik has not approached the Court of Arbitration for Sport (CAS), which usually hears disputes in sport. Relations between Kramnik and FIDE have deteriorated since the death of American GM Daniel Naroditsky in October.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -696,14 +712,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-extends-his-kingdom/articleshow/126282545.cms",
          "pubDate" : "Thu, 01 Jan 2026 04:37:54",
          "title" : "Magnus Carlsen extends his kingdom"
-      },
-      {
-         "description" : "Just where is the line drawn? You know the one. The line that determines what rating you are assigned when you plop down your entry fee. The line that determines what section gold - or prize - you can earn. For the sake of fairness, that same line should not only apply to you, but to every other wood-pusher in the tournament. The monthly ratings supplement (or list) is the official ratings gold standard. Official Ratings: The BasicsNow-a-days, US Chess publishes a monthly ratings supplement. Every month you are assigned an official rating based on your win-loss record (and a few other mathematical factors). So, if your official rating in the June supplement is 1532, then those digits are use",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-official-ratings",
-         "pubDate" : "Thu, 01 Jan 2026 00:00:00",
-         "title" : "Just the Rules: Official Ratings"
       },
       {
          "description" : "Take a look at this relatively simple position. Can you figure out how White can win? And how many moves it will require to overcome Black's most resolute defence? You won't believe it. To relax we bring you the arguably easiest chess study ever composed, and other entertaining puzzles, many from the out-of-the-box legend Karl Fabel.",
