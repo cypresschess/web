@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Harshit Raja's course teaches a complete and practical 1.e4 repertoire, showing how to get comfortable, easy-to-play positions against all major Black defences including &hellip;e5, Sicilian, Caro-Kann, French, Scandinavian, Alekhine, and rare sidelines. Instead of heavy theory, he focuses on simple plans, strong central control, and clear piece development, often recommending slightly offbeat but very effective setups that put opponents out of their comfort zone. The goal is to give club players a strategic understanding of the resulting positions, so they know what to do in the middlegame and can consistently play for an advantage.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/harshit-raja-a-powerful-1-e4-repertoire",
+         "pubDate" : "Wed, 14 Jan 2026 09:00:00",
+         "title" : "Harshit Raja - A powerful 1.e4 Repertoire"
+      },
+      {
          "description" : "Vladislav Artemiev had an impressive run at the FIDE World Rapid Championship 2025. He finished the tournament unbeaten, defeated Magnus Carlsen, survived severe time pressure against Arjun Erigaisi, and eventually claimed the silver medal. In this exclusive interview with Sagar Shah, Artemiev speaks openly about his approach to the tournament, his struggles with time management, and the balance he tries to maintain between ambition and stability. He also reflects on his memorable games against Magnus and Arjun during the event. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
