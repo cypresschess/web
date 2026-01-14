@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vladislav Artemiev had an impressive run at the FIDE World Rapid Championship 2025. He finished the tournament unbeaten, defeated Magnus Carlsen, survived severe time pressure against Arjun Erigaisi, and eventually claimed the silver medal. In this exclusive interview with Sagar Shah, Artemiev speaks openly about his approach to the tournament, his struggles with time management, and the balance he tries to maintain between ambition and stability. He also reflects on his memorable games against Magnus and Arjun during the event. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vladislav-artemiev-interview-world-rapid-2025",
+         "pubDate" : "Wed, 14 Jan 2026 04:00:00",
+         "title" : "\"I just wanted a medal\" - Vladislav Artemiev on beating Magnus Carlsen and winning silver at World Rapid 2025"
+      },
+      {
          "description" : "Maurice Ashley appeared on \"The Oprah Winfrey Show\" alongside organisational psychologist Adam Grant in a conversation about learning, character and long-term development. Drawing on his experience as a player, coach and teacher, Ashley reflects on discovering chess in Brooklyn, guiding the Raging Rooks from Harlem, and the broader life lessons the game offers about resilience, growth and opportunity. | Photo: Eng Chin An",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
