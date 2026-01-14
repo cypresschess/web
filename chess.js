@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 1971 to 1980, FIDE issued just one rating list per year. This gradually increased to the current standard of monthly updates-a change driven by obvious practical needs. Yet frequent rating lists can sometimes obscure the broader picture of yearly progress. In this piece, the FIDE highlights players who achieved significant rating gains over the past year. | Picture: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-rating-review-2025-the-year-s-biggest-gains-and-breakthroughs",
+         "pubDate" : "Wed, 14 Jan 2026 13:00:00",
+         "title" : "FIDE rating review 2025: The year's biggest gains and breakthroughs"
+      },
+      {
          "description" : "Harshit Raja's course teaches a complete and practical 1.e4 repertoire, showing how to get comfortable, easy-to-play positions against all major Black defences including &hellip;e5, Sicilian, Caro-Kann, French, Scandinavian, Alekhine, and rare sidelines. Instead of heavy theory, he focuses on simple plans, strong central control, and clear piece development, often recommending slightly offbeat but very effective setups that put opponents out of their comfort zone. The goal is to give club players a strategic understanding of the resulting positions, so they know what to do in the middlegame and can consistently play for an advantage.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
