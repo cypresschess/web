@@ -18,6 +18,14 @@ news_feed (
          "title" : "Harshit Raja - A powerful 1.e4 Repertoire"
       },
       {
+         "description" : "The FIDE Ethics &#38;amp; Disciplinary Commission (EDC) has fined the Iranian Chess Federation &#38;euro;25,000 for a deliberate boycott of the Israeli women&#39;s national team during the 45th Chess Olympiad in Budapest, Hungary.&#38;nbsp; The EDC decision is ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/iranian-chess-federation-fined-25-000-euro-israel-boycott",
+         "pubDate" : "Wed, 14 Jan 2026 08:18:25",
+         "title" : "FIDE Imposes €25,000 Fine On Iran Following Israel Boycott"
+      },
+      {
          "description" : "Vladislav Artemiev had an impressive run at the FIDE World Rapid Championship 2025. He finished the tournament unbeaten, defeated Magnus Carlsen, survived severe time pressure against Arjun Erigaisi, and eventually claimed the silver medal. In this exclusive interview with Sagar Shah, Artemiev speaks openly about his approach to the tournament, his struggles with time management, and the balance he tries to maintain between ambition and stability. He also reflects on his memorable games against Magnus and Arjun during the event. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -698,14 +706,6 @@ news_feed (
          "title" : "Just the Rules: Official Ratings"
       },
       {
-         "description" : "Freestyle Chess has informed Chess.com that the Open Qualifiers for the first leg of the Freestyle Chess Grand Slam Tour are cancelled. We have no more information at this time, but Freestyle Chess has promised that a press release is coming in th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-freestyle-chess-grand-slam-leg-1-play-in-2026",
-         "pubDate" : "Wed, 31 Dec 2025 09:30:00",
-         "title" : "Join The First Play-In Of The 2026 Freestyle Chess Grand Slam Tour"
-      },
-      {
          "description" : "Take a look at this relatively simple position. Can you figure out how White can win? And how many moves it will require to overcome Black's most resolute defence? You won't believe it. To relax we bring you the arguably easiest chess study ever composed, and other entertaining puzzles, many from the out-of-the-box legend Karl Fabel.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -832,14 +832,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-01-dec-25",
          "pubDate" : "Thu, 25 Dec 2025 12:00:00",
          "title" : "ChessBase Christmas Puzzle Week"
-      },
-      {
-         "description" : " British Chess Grandmaster Jonathan Hawkins has passed away at the far too young age of 42. Hawkins only developed into a strong player after leaving school and was self-taught. Hawkins earned the FM title in 2008, IM in 2010 and GM in 2014. He was British Champion in 2014 shared with David Howell and 2015 where he was the sole winner. In recent years Hawkins was a successful chess coach. His 2012 book \"Amateur to IM\" is rightly highly regarded.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/jonathan-hawkins-1983-2025",
-         "pubDate" : "Wed, 24 Dec 2025 14:16:00",
-         "title" : "Jonathan Hawkins 1983 - 2025 - 1983 - 2025"
       }
    ]
 }
