@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Global Conference on Chess in Society and Education began on 14 January 2026 at KIIT University, Bhubaneswar. The three-day event convenes education leaders,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-global-conference-on-chess-in-society-and-education-opens-in-kiit-university-bhubaneshwar-from-14-16-january-2026/",
+         "pubDate" : "Thu, 15 Jan 2026 12:15:21",
+         "title" : "FIDE Global Conference on Chess in Society and Education opens in KIIT University ,Bhubaneshwar from 14-16 January 2026"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126543450.cms\" />With the Candidates Tournament approaching, seasoned chess titans Hikaru Nakamura, Fabiano Caruana, and Anish Giri face what could be their final realistic shot at the world chess title. Despite their experience, younger players' vigour and complete skillsets pose a significant challenge, making this a pivotal moment for the established stars.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/last-chance-for-giri-caruana-and-nakamura-can-chess-titans-in-their-30s-match-gukeshs-vigour-at-candidates/articleshow/126543450.cms",
+         "pubDate" : "Thu, 15 Jan 2026 10:08:50",
+         "title" : "'Last chance for Giri, Caruana, Nakamura': Can chess titans match Gukesh's vigour?"
+      },
+      {
+         "description" : "As many as 101 candidates from three states namely Karnataka, Tamil Nadu and Telengana appeared for the SNA Seminar cum examination held in Madurai on",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-sna-seminar-exam-held-in-madurai-on/",
+         "pubDate" : "Thu, 15 Jan 2026 10:01:37",
+         "title" : "Final Report of SNA Seminar & Exam held in Madurai on 27 & 28 December 2025"
+      },
+      {
          "description" : "The Swiss stage of the online Play-in for the Freestyle Chess World Championship has determined the four players who remain in contention for the final qualification place. Over nine rounds of Freestyle Chess, Nodirbek Abdusattorov, Pranav Venkatesh (pictured), Grigoriy Oparin and Amin Tabatabaei finished level on 7/9 to secure places in Thursday's knockout stage. | Photo: Fujairah Superstars / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -634,14 +658,6 @@ news_feed (
          "title" : "Sued FIDE after probe into harassment claims: Vladimir Kramnik"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126282545.cms\" />By winning the World Rapid and Blitz titles in Doha, Qatar - his fifth such double and 20th overall world title in a jaw-dropping career - the 35-yearold once again proved that his competitors, including what Garry Kasparov termed \"Vishy Anand's children\", are kids in comparison.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-extends-his-kingdom/articleshow/126282545.cms",
-         "pubDate" : "Thu, 01 Jan 2026 04:37:54",
-         "title" : "Magnus Carlsen extends his kingdom"
-      },
-      {
          "description" : "Take a look at this relatively simple position. Can you figure out how White can win? And how many moves it will require to overcome Black's most resolute defence? You won't believe it. To relax we bring you the arguably easiest chess study ever composed, and other entertaining puzzles, many from the out-of-the-box legend Karl Fabel.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -706,28 +722,12 @@ news_feed (
          "title" : "Athlete of the Year: Divya Deshmukh does not stop winning in stellar 2025"
       },
       {
-         "description" : "Please find certificates here Rank &#160;Name 1 Nandhidhaa P V 2 Mary Ann Gomes 3 Arshiya Das 4 Shubhi Gupta 5 Kalyani Sirin 6 Pandey",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-national-women-chess-championship-in-durgapur-wb-from-03-13-dec-2025/",
-         "pubDate" : "Mon, 29 Dec 2025 11:41:47",
-         "title" : "Certificate :National Women Chess Championship in Durgapur, WB from 03-13 Dec 2025"
-      },
-      {
          "description" : "In rotary problems the board is rotated by 180 ° for a second position with a different solution. It is usually pawns that make a different when you turn the board around. Or the king/queen positions, or castling is involved. Can one devise problems where these factors do not play a role? Yes one can, as our expert for out-of-the-box problems, Werner Keym, proves.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-05-dec-29",
          "pubDate" : "Mon, 29 Dec 2025 09:00:00",
          "title" : "Christmas Puzzles 5 - Rotary problems"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation , MP Chess Adhoc is organizing Senior National Arbiter Seminar &#38; exam at Arera Club, Link Road No. 1,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-and-exam-in-bhopal-mp-on-10-11-january-2026/",
-         "pubDate" : "Sun, 28 Dec 2025 14:29:15",
-         "title" : "SNA seminar and Exam in Bhopal , MP on 10 & 11 January 2026"
       },
       {
          "description" : "These days it is not easy to challenge anyone with problems or studies. Loading the PGN and clicking Start will usually get you the solution in seconds. So we are trying to provide you with \"computer resistant\" puzzles in this year's Christmas Puzzle Week. Today the subject is taking back a move in a given position and looking for a move to fulfil the condition. As in this 100-year-old problem by Thomas Dawson: it requires you to take back one move and then mate the opponent in two. Can you think how?",
@@ -760,14 +760,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-02-dec-26",
          "pubDate" : "Fri, 26 Dec 2025 09:00:00",
          "title" : "Christmas Puzzles 2 - Not that easy!"
-      },
-      {
-         "description" : "Christmas day is usually celebrated with a Christmas tree - in problem chess circles occasionally with a puzzle shaped like a Christmas tree. Like this example, composed by the famous Thomas Rayner Dawson, 101 years ago. It illustrates the universal principle of symmetry, and how it can be broken in a chess problem. Mathematics professor Christian Hesse delves into the very profound thinking behind the problem. But you are invited to solve it first.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-01-dec-25",
-         "pubDate" : "Thu, 25 Dec 2025 12:00:00",
-         "title" : "ChessBase Christmas Puzzle Week"
       }
    ]
 }
