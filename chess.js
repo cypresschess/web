@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Estonian diplomat and chess enthusiast Mart Tarmak organized a consultation game between politicians and diplomats at the Estonian Embassy in Vilnius in commemoration of Paul Keres on the occasion of his 110th birthday. Viktorija Cmilyte and Peter Heine Nielsen led the teams. | Photos: Embassy of Estonia in Vilnius",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/estonians-and-lithuanians-honor-paul-keres",
+         "pubDate" : "Thu, 15 Jan 2026 14:26:54",
+         "title" : "Estonians and Lithuanians honor Paul Keres"
+      },
+      {
          "description" : "The FIDE Global Conference on Chess in Society and Education began on 14 January 2026 at KIIT University, Bhubaneswar. The three-day event convenes education leaders,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-general-assembly-2026/",
          "pubDate" : "Thu, 15 Jan 2026 07:15:06",
          "title" : "ECU GENERAL ASSEMBLY 2026"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Monday, Jan. 19 in recognition of Martin Luther King Jr. Day.All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items, and thank you for your understanding,",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-offices-be-closed-monday-jan-19-martin-luther-king-jr-day",
+         "pubDate" : "Thu, 15 Jan 2026 00:00:00",
+         "title" : "US Chess Offices to be Closed Monday, Jan. 19 for Martin Luther King Jr. Day"
       },
       {
          "description" : "The Tata Steel Chess Tournament 2026 takes place in Wijk aan Zee with the youngest Masters field in the event's history. This preview examines the format, the historically young lineup and the Challengers field, while noting that world champion Gukesh Dommaraju will face four Candidates Tournament's participants: Anish Giri, defending champion Praggnanandhaa Rameshbabu (pictured), Javokhir Sindarov and Matthias Bluebaum. | Photo: Tata Steel Chess / Lennart Ootes",
@@ -434,14 +450,6 @@ news_feed (
          "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 1"
       },
       {
-         "description" : "ChessMates International (19-21 March, 2026) The ECF is putting out a call for interest in playing for the England Youth Team in the upcoming 13th ChessMates International in Monaco (19-21...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chessmates-international-2026/",
-         "pubDate" : "Tue, 06 Jan 2026 15:33:54",
-         "title" : "ChessMates International 2026"
-      },
-      {
          "description" : "GM Magnus Carlsen is off to a fast start in Titled Tuesday in 2026, winning the January 6 tournament with a 9.5/11 score. He came out ahead of second-place GM Vincent Keymer and third-place GM Jan-Krzysztof Duda on tiebreaks. Duda, Keymer, and Car...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -616,14 +624,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/bibisara-assaubayeva-ends-season-long-candidates-chase/articleshow/126298882.cms",
          "pubDate" : "Fri, 02 Jan 2026 05:14:10",
          "title" : "Bibisara Assaubayeva ends season-long Candidates chase"
-      },
-      {
-         "description" : "Happy New Year!This year will mark the first time since I took on the role of editor for Check is in the Mail that we plan to provide an issue every month.This issue of Check is in the Mail features games from the Walter Muir E-Quads, specifically section 25W09. Similar to the later issues from last year, this issue follows what is provided by the Front Office results. With seven games available from the ICCF archives for the tourmament section, rather than choose the typical six games for an issue, I decided to start the year off with an extra game.I believe it's time to start (at least attempting) to follow regular monthly issue themes, at least for some months. For example, last year the ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-january-2026-lets-start-year-e-quads",
-         "pubDate" : "Fri, 02 Jan 2026 00:00:00",
-         "title" : "Check is in the Mail, January 2026: Let's start the year with E-Quads!"
       },
       {
          "description" : " Retired Chicago Bulls great Derrick Rose stands between commentator&#160;James Dash and Magnus Carlsen at Chesstival 2025 in Las Vegas. Photo: Lennart Ootes/Freestyle Chess. Key Takeaways 2025 featured key moments, including Brewington Hardaway on the cover of Chess Life and Tani Adewumi achieving the IM title. High-profile losses, such as IM Stephen Muhammad, and a tragic The post <a href=\"https://thechessdrum.net/blog/2026/01/01/the-chess-drums-highlights-of-2025/\">The Chess Drum's Highlights of 2025</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
