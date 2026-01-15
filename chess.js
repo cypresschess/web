@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel Chess Tournament 2026 takes place in Wijk aan Zee with the youngest Masters field in the event's history. This preview examines the format, the historically young lineup and the Challengers field, while noting that world champion Gukesh Dommaraju will face four Candidates Tournament's participants: Anish Giri, defending champion Praggnanandhaa Rameshbabu (pictured), Javokhir Sindarov and Matthias Bluebaum. | Photo: Tata Steel Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-preview",
+         "pubDate" : "Wed, 14 Jan 2026 23:30:00",
+         "title" : "Tata Steel Chess: Four Candidates among Masters' participants"
+      },
+      {
          "description" : "Anastasia Corotcova explains how to insert variations into your notation using both reference games and engine suggestions. It shows how the Reference tab lists common moves and past games for the current position, allowing you to click or copy them directly into your analysis. Finally, it demonstrates how to add an engine (Kibitzer) and insert its suggested lines to build clear, structured game analysis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,28 +18,12 @@ news_feed (
          "title" : "ChessBase tips for beginners - Variations from Reference & Engines"
       },
       {
-         "description" : "From 1971 to 1980, FIDE issued just one rating list per year. This gradually increased to the current standard of monthly updates-a change driven by obvious practical needs. Yet frequent rating lists can sometimes obscure the broader picture of yearly progress. In this piece, the FIDE highlights players who achieved significant rating gains over the past year. | Picture: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-rating-review-2025-the-year-s-biggest-gains-and-breakthroughs",
-         "pubDate" : "Wed, 14 Jan 2026 13:00:00",
-         "title" : "FIDE rating review 2025: The year's biggest gains and breakthroughs"
-      },
-      {
          "description" : "GMs Nodirbek Abdusattorov, Pranav Venkatesh, Grigoriy Oparin, and Amin Tabatabaei all finished with 7/9 to place in the top-four of the 2026 FIDE Freestyle Chess World Championship Play-in Swiss, and they advance to the Knockout. Only one of the f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-fide-freestyle-chess-world-championship-play-in-day-1",
-         "pubDate" : "Wed, 14 Jan 2026 12:18:05",
+         "pubDate" : "Wed, 14 Jan 2026 12:18:00",
          "title" : "Abdusattorov, Pranav, Oparin, Tabatabaei Advance To Knockout"
-      },
-      {
-         "description" : "Harshit Raja's course teaches a complete and practical 1.e4 repertoire, showing how to get comfortable, easy-to-play positions against all major Black defences including &hellip;e5, Sicilian, Caro-Kann, French, Scandinavian, Alekhine, and rare sidelines. Instead of heavy theory, he focuses on simple plans, strong central control, and clear piece development, often recommending slightly offbeat but very effective setups that put opponents out of their comfort zone. The goal is to give club players a strategic understanding of the resulting positions, so they know what to do in the middlegame and can consistently play for an advantage.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/harshit-raja-a-powerful-1-e4-repertoire",
-         "pubDate" : "Wed, 14 Jan 2026 09:00:00",
-         "title" : "Harshit Raja - A powerful 1.e4 Repertoire"
       },
       {
          "description" : "The FIDE Ethics &#38;amp; Disciplinary Commission (EDC) has fined the Iranian Chess Federation &#38;euro;25,000 for a deliberate boycott of the Israeli women&#39;s national team during the 45th Chess Olympiad in Budapest, Hungary.&#38;nbsp; The EDC decision is ...",
@@ -42,14 +34,6 @@ news_feed (
          "title" : "FIDE Imposes €25,000 Fine On Iran Following Israel Boycott"
       },
       {
-         "description" : "Vladislav Artemiev had an impressive run at the FIDE World Rapid Championship 2025. He finished the tournament unbeaten, defeated Magnus Carlsen, survived severe time pressure against Arjun Erigaisi, and eventually claimed the silver medal. In this exclusive interview with Sagar Shah, Artemiev speaks openly about his approach to the tournament, his struggles with time management, and the balance he tries to maintain between ambition and stability. He also reflects on his memorable games against Magnus and Arjun during the event. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vladislav-artemiev-interview-world-rapid-2025",
-         "pubDate" : "Wed, 14 Jan 2026 04:00:00",
-         "title" : "\"I just wanted a medal\" - Vladislav Artemiev on beating Magnus Carlsen and winning silver at World Rapid 2025"
-      },
-      {
          "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out the start of our Tactics Tuesday series with more beginner-friendly puzzles here and here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -58,36 +42,12 @@ news_feed (
          "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 2"
       },
       {
-         "description" : "Maurice Ashley appeared on \"The Oprah Winfrey Show\" alongside organisational psychologist Adam Grant in a conversation about learning, character and long-term development. Drawing on his experience as a player, coach and teacher, Ashley reflects on discovering chess in Brooklyn, guiding the Raging Rooks from Harlem, and the broader life lessons the game offers about resilience, growth and opportunity. | Photo: Eng Chin An",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/maurice-ashley-oprah-winfrey-show-2026",
-         "pubDate" : "Tue, 13 Jan 2026 21:00:00",
-         "title" : "Maurice Ashley appears on the Oprah Winfrey Show: \"To become a GM, one must first be a GM\""
-      },
-      {
          "description" : " Maurice Ashley appeared on Oprah along with Adam Grant, who highlighted Ashley in his book, Hidden Potential: The Science of Achieving Greater Things. Grant's book focuses on talent assessment, drawing from stories of successful personalities in various fields. Grandmaster Maurice Ashley, appearing on The Oprah Podcast, with author Adam Grant Hidden Potential&#160;offers a new framework The post <a href=\"https://thechessdrum.net/blog/2026/01/13/ashley-appears-on-oprah/\">Ashley appears on Oprah!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2026/01/13/ashley-appears-on-oprah/",
          "pubDate" : "Tue, 13 Jan 2026 20:42:45",
          "title" : "Ashley appears on Oprah!"
-      },
-      {
-         "description" : "Your chance to train and talk with Garry Kasparov, LIVE! On January 18, 2026, you are in for something special. Chess legend Garry Kasparov, former World Champion and one of the greatest players of all time, will host an exclusive live lecture. This one-of-a-kind event provides chess enthusiasts and competitive players with a rare opportunity to learn directly from a true icon of the game.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/garry-kasparov-live-lecture",
-         "pubDate" : "Tue, 13 Jan 2026 17:00:00",
-         "title" : "Garry Kasparov live lecture"
-      },
-      {
-         "description" : "The Tata Steel Masters is the youngest Masters tournament in Wijk aan Zee history. With Yagiz Kaan Erdogmus, a 14-year-old has even qualified as a participant. And in the Challengers, twelve-year-old Faustino Oro (pictured) is hoping to follow in his footsteps. Which of the young guns from ten years ago have made it to the world elite? | Photo: Tata Steel Masters/ Jurriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-young-guns-today-and-ten-years-ago",
-         "pubDate" : "Tue, 13 Jan 2026 14:00:00",
-         "title" : "The Young Guns - today and ten years ago"
       },
       {
          "description" : "GM Javokhir Sindarov took home&#38;nbsp;Titled Tuesday honors on January 13 after holding a draw against countryman GM Nodirbek Abdusattorov in the final round. The result gave Sindarov outright first place with 9.5 points after GM Alexey Sarana went ...",
@@ -106,22 +66,6 @@ news_feed (
          "title" : "Ahead of Candidates 2026, India's only hope Pragg makes big admission"
       },
       {
-         "description" : "Javokhir Sindarov's 2025 season marked a turning point in his career. Focusing exclusively on classical chess, this analysis examines how the young Uzbek combined a selective tournament schedule with exceptional results in high-pressure events, culminating in victory at the FIDE World Cup and qualification for the 2026 Candidates Tournament, despite a relatively modest rating climb compared with some of his contemporaries. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/2025-breakthrough-year-javokhir-sindarov",
-         "pubDate" : "Tue, 13 Jan 2026 09:00:00",
-         "title" : "2025: A breakthrough year for Javokhir Sindarov"
-      },
-      {
-         "description" : "The Marshall Attack has long been one of the most important systems against the Ruy Lopez, and it is one of the sharpest. With the advance 8...d5, Black sacrifices their e-pawn and then attempts to launch an attack against the White's king, making use of the open diagonals and lines. Until now, after 9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5, 11...c6 was considered the absolute main continuation. Variants up to the 40th move have been analysed here. In his article for the current CBM #229, Robert Ris presents an alternative with 11...Bb7, which is by no means worse, more natural and very promising in practice. Take a look at this week's CBM reading sample!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-46",
-         "pubDate" : "Tue, 13 Jan 2026 08:00:00",
-         "title" : "Marshall Attack with 11...Bb7"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126500056.cms\" />Magnus Carlsen will participate in Norway Chess 2026, ending speculation about his classical chess future. The prestigious tournament, which Carlsen has won seven times, is relocating from Stavanger to Oslo. This move signifies a new chapter for the event, aiming for broader reach and engagement with a wider audience and new generations of chess enthusiasts.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -130,44 +74,12 @@ news_feed (
          "title" : "Magnus Carlsen confirms Norway Chess 2026 participation, event moves to Oslo"
       },
       {
-         "description" : "A little girl in Jaipur picked up a chess piece at age four, simply because she was curious. Three years later, that same child is winning State, National and International titles! This is the story of seven-year-old Shreyanshi Jain. She is a fearless player who does not hesitate to take risks on the board. Her rise includes big wins, tough lessons and a support system that allows her to dream freely. At the Asian Schools Championship, she brought home medals in all three formats: Classical, Rapid and Blitz. Read the article to see how it all unfolded and what shaped her early success.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/shreyanshi-jain-making-of-a-young-champion",
-         "pubDate" : "Tue, 13 Jan 2026 04:50:00",
-         "title" : "Shreyanshi Jain: The making of a young champion"
-      },
-      {
          "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, including some brain-teasers in our Wednesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-2025-world-rapid-blitz-pt-2",
          "pubDate" : "Tue, 13 Jan 2026 00:00:00",
          "title" : "Tactics Tuesday: 2025 World Rapid & Blitz, Pt. 2"
-      },
-      {
-         "description" : "The former fishing village of Wijk aan Zee is world-famous, at least in the chess world. Virtually all world-class players, including almost all world champions, have passed through here. The long-standing sponsor has always been the steelworks in IJmuiden. The chess tradition is very old. Fifty years ago, some things were different from today, but much was already much the same as it is now. | Photo: Rob Mieremet, Anefo",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wijk-aan-zee-fifty-years-ago",
-         "pubDate" : "Mon, 12 Jan 2026 19:00:00",
-         "title" : "Wijk aan Zee Fifty Years Ago"
-      },
-      {
-         "description" : "From February 13 to 15, 2026, the first official Freestyle World Championship will take place in Weissenhaus, Germany. One spot is still open, and it will be decided in an online qualification tournament organised by FIDE on chess.com. The two-day event, which will determine the coveted final available place, begins on January 14 at 16:00 CET (10:00 ET / 20:30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/online-qualification-for-the-freestyle-world-championship-in-weissenhaus",
-         "pubDate" : "Mon, 12 Jan 2026 16:00:00",
-         "title" : "Online Qualification for the Freestyle World Championship in Weissenhaus"
-      },
-      {
-         "description" : "On January 6, Magnus Carlsen and the 12-year-old Argentine Faustino Oro, who still has good chances of becoming the youngest grandmaster of all time, played Titled Tuesday at the Take Take Take Studio in Oslo. Afterwards, they chatted briefly and played a blitz game (3+2). Of course, \"nothing\" was at stake - but of course games between young talents, who may one day become world champions, and established or former world champions are always exciting and a battle for prestige. And this perhaps one day historically significant duel was captured on video.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/faustino-oro-and-magnus-carlsen-play-some-blitz",
-         "pubDate" : "Mon, 12 Jan 2026 14:53:20",
-         "title" : "Faustino Oro and Magnus Carlsen play blitz"
       },
       {
          "description" : "The European Women's Rapid and Blitz Chess Championships 2025 took place from 8-12 January in Monte-Carlo, Monaco. The Championship gathered record-breaking 143 players from 30 European federations in the Rapid competition, while 120 players from 30 federations took part in the Blitz Chess Championship. The event commenced with the European Women's Blitz Chess Championship 2025 which was played on Friday, 9th of January. The Winner of the tournament was determined in the dramatical final round and direct top place encounter []",
