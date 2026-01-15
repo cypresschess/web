@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Swiss stage of the online Play-in for the Freestyle Chess World Championship has determined the four players who remain in contention for the final qualification place. Over nine rounds of Freestyle Chess, Nodirbek Abdusattorov, Pranav Venkatesh (pictured), Grigoriy Oparin and Amin Tabatabaei finished level on 7/9 to secure places in Thursday's knockout stage. | Photo: Fujairah Superstars / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-wc-2026-play-in-1",
+         "pubDate" : "Thu, 15 Jan 2026 08:05:00",
+         "title" : "Weissenhaus Play-In: Abdusattorov, Pranav, Oparin and Tabatabaei make it to knockout stage"
+      },
+      {
+         "description" : "By decision of the ECU Board and with approval from the FIDE Council, the ECU General Assembly 2026 and elections will take place on Saturday, 18 July 2026, in Bucharest, Romania. The elections are scheduled in accordance with the ECU statutes and the completion of the current term of the ECU Board on 22 July 2026. The ECU General Assembly will be hosted, unless there is an emergency NOC meeting, at the premises of the Romanian Olympic Committee, emphasising the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-general-assembly-2026/",
+         "pubDate" : "Thu, 15 Jan 2026 07:15:06",
+         "title" : "ECU GENERAL ASSEMBLY 2026"
+      },
+      {
          "description" : "The Tata Steel Chess Tournament 2026 takes place in Wijk aan Zee with the youngest Masters field in the event's history. This preview examines the format, the historically young lineup and the Challengers field, while noting that world champion Gukesh Dommaraju will face four Candidates Tournament's participants: Anish Giri, defending champion Praggnanandhaa Rameshbabu (pictured), Javokhir Sindarov and Matthias Bluebaum. | Photo: Tata Steel Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
