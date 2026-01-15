@@ -58,14 +58,6 @@ news_feed (
          "title" : "US Chess Offices to be Closed Monday, Jan. 19 for Martin Luther King Jr. Day"
       },
       {
-         "description" : "The Tata Steel Chess Tournament 2026 takes place in Wijk aan Zee with the youngest Masters field in the event's history. This preview examines the format, the historically young lineup and the Challengers field, while noting that world champion Gukesh Dommaraju will face four Candidates Tournament's participants: Anish Giri, defending champion Praggnanandhaa Rameshbabu (pictured), Javokhir Sindarov and Matthias Bluebaum. | Photo: Tata Steel Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-preview",
-         "pubDate" : "Wed, 14 Jan 2026 23:30:00",
-         "title" : "Tata Steel Chess: Four Candidates among Masters' participants"
-      },
-      {
          "description" : "Anastasia Corotcova explains how to insert variations into your notation using both reference games and engine suggestions. It shows how the Reference tab lists common moves and past games for the current position, allowing you to click or copy them directly into your analysis. Finally, it demonstrates how to add an engine (Kibitzer) and insert its suggested lines to build clear, structured game analysis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
