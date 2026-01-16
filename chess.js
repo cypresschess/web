@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Argentine Olympic Committee has launched \"Olympic Beach\", a nationwide summer programme that brings organised sport and Olympic values to Argentina's coastal and riverside locations ahead of the Santa Fe 2026 South American Games. Running throughout January across eight venues, the initiative combines free sporting activities, youth engagement, environmental actions and federation-led events, including the integration of chess into the programme's public beach setting. | Photo: Argentine Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-on-the-beach-argentina-2026",
+         "pubDate" : "Fri, 16 Jan 2026 20:15:00",
+         "title" : "Chess on the beach: An initiative by the Argentine Olympic Committee"
+      },
+      {
+         "description" : " Expanded 30,000-Square-Foot Home Base Anchors a Global Slate of Events from the Chess Capital of the USA SAINT LOUIS, MO (Jan. 16, 2026) - The Saint Louis Chess Club announced today its highly anticipated 2026 tournament schedule, reinforcing its leadership role as the Chess Capital of the United States while continuing to expand its global [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-announces-highly-anticipated-2026-invitational-tournament-schedule/\">Saint Louis Chess Club Announces Highly Anticipated 2026 Invitational Tournament Schedule</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-announces-highly-anticipated-2026-invitational-tournament-schedule/",
+         "pubDate" : "Fri, 16 Jan 2026 17:16:15",
+         "title" : "Saint Louis Chess Club Announces Highly Anticipated 2026 Invitational Tournament Schedule"
+      },
+      {
          "description" : "For nearly a century, Bled has held a special place in the history chess. In 1931, Bled hosted one of the most famous international tournaments of its time, won by World Champion Alexander Alekhine. In the decades that followed, Bled's chess tournaments welcomed numerous greats of the game, including the legendary Bobby Fischer and Mikhail Tal, who in 1961, together with a lineup of masters, created a true chess spectacle. Now, Bled revives its rich chess tradition - with the Bled Chess Festival which is for players rated below 2300 and will take place from 9th to 16th March. | Photo: Bled Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +34,14 @@ news_feed (
          "title" : "India gets its 92nd GM: No coach, single father's grind, and ream vs Gukesh"
       },
       {
+         "description" : "GM Ian Nepomniachtchi won Freestyle Friday on January 16, grabbing his opportunity at a mate-in-two in the final round to take the tournament outright with 9.5 points. IM Renato Terry helped by beating the one player who had been tied with Nepomni...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nepomniachtchi-wins-freestyle-friday-january-16-2026",
+         "pubDate" : "Fri, 16 Jan 2026 10:51:57",
+         "title" : "Nepomniachtchi Nails Down Freestyle Friday"
+      },
+      {
          "description" : " India's Gukesh Dommaraju takes on Candidates qualifiers and stars who missed out, plus a talent for the 2030s The annual \"chess Wimbledon\" at Tata Steel Wijk aan Zee in the Netherlands is unusually interesting this year. Its 14-player field matches the reigning world champion, India's Dommaraju Gukesh, against a range of rivals who include four of the eight Candidates who will meet in March to decide his 2026 challenger, another three grandmasters from the world top 10, the controversial US star Hans Niemann, plus a 14-year-old Turk who is breaking age records. Gukesh's unimpressive recent results mean the world Nos 5 and 8, Arjun Erigaisi and Praggnanandhaa Rameshbabu, will aim to finish a",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-statement-on-ioc-policy-and-fide-general-assembly-outcome/",
          "pubDate" : "Fri, 16 Jan 2026 07:43:35",
          "title" : "ECU Statement on IOC policy and FIDE General Assembly Outcome"
-      },
-      {
-         "description" : " The 88th Tata Steel Chess tournament takes place in Wijk aan Zee Fri 16th Jan to Sun 1st Feb 2026. Players: Masters: Yagiz Kaan Erdogmus, Aravindh Chithambaram, Hans Niemann, Vincent Keymer, Javokhir Sindarov, Jorden van Foreest, Arjun Erigaisi, Praggnanandhaa Rameshbabu, Van Nguyen Thai Dai, Gukesh Dommaraju, Anish Giri, Vladimir Fedoseev, Matthias Bluebaum and Nodirbek Abdusattorov. Challengers: Vasyl Ivanchuk, Marc Andria Maurizzi, Velimir Ivic, Erwin l'Ami, Bibisara Assaubayeva, Eline Roebers, Miaoyi Lu, Max Warmerdam, Panesar Vedant, Andy Woodward, Aydin Suleymanli, Faustino Oro, Daniil Yuffa and Carissa Yip. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/88th-tata-steel-2026",
-         "pubDate" : "Fri, 16 Jan 2026 00:29:00",
-         "title" : "88th Tata Steel 2026 - Games and Results"
       },
       {
          "description" : "The knockout stage of the online Play-In for the FIDE Freestyle Chess World Championship decided the last place in the February championship. Nodirbek Abdusattorov progressed through the semifinals and went on to face Pranav Venkatesh in the final. The four qualifiers competed in two-game matches with a 15+3 time control. Amin Tabatabaei prevailed in the Armageddon tiebreak against Grigoriy Oparin to grab third place. | Photo: Amruta Mokal / Freestyle Chess Grand Slam",
@@ -232,14 +248,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-circuit-2-year-cycle",
          "pubDate" : "Mon, 12 Jan 2026 02:04:00",
          "title" : "FIDE Circuit Becomes 2-Year Qualification Cycle"
-      },
-      {
-         "description" : " The Tata Steel India Rapid & Blitz took place Wed 7th Jan to Mon 12th Jan 2026. Players: Viswanathan Anand, Wei Yi, Chithambaram Aravindh, Arjun Erigaisi, Hans Moke Niemann, Volodar Murzin, Gujrathi Vidit Santosh, R Praggnanandhaa, Nihal Sarin, Wesley So, Women: Ravi Rakshitta, Carissa Yip, Deshmukh Divya, Nana Dzagnidze, Agrawal Vantika, Rameshbabu Vaishali, Kateryna Lagno, Harika Dronavalli, Stavroula Tsolakidou, Aleksandra Goryachkina. The Rapid was won by Nihal Sarin with 6.5/9, half a point clear of Viswanathan Anand, the women's rapid was won by Kateryna Lagno with 6.5/9 a point and a half clear of Aleksandra Goryachkina. The Blitz was won by Wesley So with 12/18 a point clear of Niha",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tata-steel-india-rapid-blitz-2026",
-         "pubDate" : "Sun, 11 Jan 2026 16:34:00",
-         "title" : "Tata Steel India Rapid & Blitz 2026 - Games and Results"
       },
       {
          "description" : "Both day-one leaders built on their momentum to earn maiden titles on day two. GM Wesley So won 2026 Tata Steel Chess India Open Blitz, his first time winning the title after six attempts. He finished in sole first with 12/18, while GMs Nihal Sari...",
@@ -594,14 +602,6 @@ news_feed (
          "title" : "Why did Gukesh pull out of Tata Steel tournament in Kolkata?"
       },
       {
-         "description" : "GM Hikaru Nakamura was crowned as&#38;nbsp;Bullet Brawl&#39;s first half-centurion on Saturday after he won the first edition of 2026 and took home the $400 first prize. In a field of 177 titled players, which included 13 players with ratings over 3100, N...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-jan-3-2026",
-         "pubDate" : "Sat, 03 Jan 2026 20:07:00",
-         "title" : "Nakamura Chases Down Gurel To Win 50th Bullet Brawl Title"
-      },
-      {
          "description" : "I'm constantly fascinated by the sheer power of our minds. That power leads to a lot of good, but also some things that go against us. Recently I wrote an article on how ratings are great, just our interpretations of them are not. Today, I want to expand on that and share a personal annecdote []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -688,22 +688,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-07-dec-31",
          "pubDate" : "Wed, 31 Dec 2025 09:00:00",
          "title" : "Christmas Puzzles 7 - long and short"
-      },
-      {
-         "description" : " The World Rapid and Blitz Championships took place Fri 26th Dec to Tue 30th Dec 2025 in Doha, Qatar. Players: Magnus Carlsen, Ian Nepomniachtchi, Levon Aronian, Alireza Firouzja, Fabiano Caruana, Maxime Vachier-Lagrave, Vladislav Artemiev, Nodirbek Abdusattorov, Arjun Erigaisi, Jan Krzysztof Duda, Shakhriyar Mamedyarov, Javokhir Sindarov, Leinier Dominguez Perez, Richard Rapport, Wesley So, D Gukesh, Daniil Dubov, Anish Giri, Yangyi Yu, Alexander Grischuk, Dmitry Andreikin, Parham Maghsoodloo, Jaime Santos Latasa, Sarin Nihal, Praggnanandhaa, Teimour Radjabov, Sam Sevian, Radoslaw Wojtaszek, Ray Robson, Andrey Esipenko etc Women Players: Ju Wenjun, Tan Zhongyi, Aleksandra Goryachkina, Tingj",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2025",
-         "pubDate" : "Wed, 31 Dec 2025 00:35:00",
-         "title" : "World Rapid and Blitz Championships 2025 - Games and Results"
-      },
-      {
-         "description" : " Magnus Carlsen won the <a href=\"https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2025\">2025 FIDE World Blitz Championship</a> to go along with the rapid title he had already won. This was Carlsen's ninth blitz title and the fifth time he did the rapid/blitz double, along with his five World Championship matches this adds up to a total of 20 World titles won. Carlsen called the blitz title hard-earned as he had to recover several times from upsetting losses. In the women's event Bibisara Assaubayeva emerged victorious and with that win she earned the final Women's Candidates place. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/magnus-carlsen-completes-a-world-championship-rapid-and-blitz-double-for-the-fifth-time",
-         "pubDate" : "Wed, 31 Dec 2025 00:26:00",
-         "title" : "Magnus Carlsen completes a World Championship Rapid and Blitz double for the fifth time - "
       },
       {
          "description" : "<ul><li> Carlsen captures ninth blitz world title in Doha </li><li> Norwegian completes fifth rapid-blitz double </li><li> Assaubayeva beats Muzychuk in women's final </li></ul> Magnus Carlsen's domination of chess showed no sign of weakening when the world number one won the blitz world championship title for the ninth time on Tuesday, two days after taking the rapid title. The Norwegian beat Uzbek grandmaster Nodirbek Abdusattorov 2&frac12;-1&frac12; in the final in Doha to secure his fifth rapid and blitz double after achieving the feat in 2014, 2019, 2022 and 2023. Carlsen, who relinquished his regular world chess champion title citing a lack of motivation after winning it in 2013, 2014,",
