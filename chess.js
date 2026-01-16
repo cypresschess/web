@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " India's Gukesh Dommaraju takes on Candidates qualifiers and stars who missed out, plus a talent for the 2030s The annual \"chess Wimbledon\" at Tata Steel Wijk aan Zee in the Netherlands is unusually interesting this year. Its 14-player field matches the reigning world champion, India's Dommaraju Gukesh, against a range of rivals who include four of the eight Candidates who will meet in March to decide his 2026 challenger, another three grandmasters from the world top 10, the controversial US star Hans Niemann, plus a 14-year-old Turk who is breaking age records. Gukesh's unimpressive recent results mean the world Nos 5 and 8, Arjun Erigaisi and Praggnanandhaa Rameshbabu, will aim to finish a",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/jan/16/chess-wimbledon-starts-with-world-champion-challenged-by-rising-stars",
+         "pubDate" : "Fri, 16 Jan 2026 08:00:03",
+         "title" : "'Chess Wimbledon' starts with world champion challenged by rising stars"
+      },
+      {
+         "description" : "&#8220;The ECU Board regrets both the conduct and the outcomes of the FIDE General Assembly held online on 14 December. We believe there were abuses of process, particularly regarding the conduct of the vote on the admission of Russian teams by secret ballot. The ECU notes: A debate or vote on the motion proposed by the English Chess Federation, a member of ECU, to follow IOC recommendations as exactly have been updated, was not permitted. The other two motions voted []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-statement-on-ioc-policy-and-fide-general-assembly-outcome/",
+         "pubDate" : "Fri, 16 Jan 2026 07:43:35",
+         "title" : "ECU Statement on IOC policy and FIDE General Assembly Outcome"
+      },
+      {
          "description" : " The 88th Tata Steel Chess tournament takes place in Wijk aan Zee Fri 16th Jan to Sun 1st Feb 2026. Players: Masters: Yagiz Kaan Erdogmus, Aravindh Chithambaram, Hans Niemann, Vincent Keymer, Javokhir Sindarov, Jorden van Foreest, Arjun Erigaisi, Praggnanandhaa Rameshbabu, Van Nguyen Thai Dai, Gukesh Dommaraju, Anish Giri, Vladimir Fedoseev, Matthias Bluebaum and Nodirbek Abdusattorov. Challengers: Vasyl Ivanchuk, Marc Andria Maurizzi, Velimir Ivic, Erwin l'Ami, Bibisara Assaubayeva, Eline Roebers, Miaoyi Lu, Max Warmerdam, Panesar Vedant, Andy Woodward, Aydin Suleymanli, Faustino Oro, Daniil Yuffa and Carissa Yip. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-03-dec-27",
          "pubDate" : "Sat, 27 Dec 2025 09:00:00",
          "title" : "Christmas Puzzles 3 - Just some text"
-      },
-      {
-         "description" : "Take a look at this position, in which White should mate in two. Looks very easy, and hundreds of readers of the newspaper in which it appeared submitted a solution. But it was not correct. In our Christmas Puzzle week the consummate expert of unusual chess problems, Werner Keym, asks you to look carefully at the position and find a genuine way for White to mate Black in two moves. There are two other problems to solve.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-02-dec-26",
-         "pubDate" : "Fri, 26 Dec 2025 09:00:00",
-         "title" : "Christmas Puzzles 2 - Not that easy!"
       }
    ]
 }
