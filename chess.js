@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For nearly a century, Bled has held a special place in the history chess. In 1931, Bled hosted one of the most famous international tournaments of its time, won by World Champion Alexander Alekhine. In the decades that followed, Bled's chess tournaments welcomed numerous greats of the game, including the legendary Bobby Fischer and Mikhail Tal, who in 1961, together with a lineup of masters, created a true chess spectacle. Now, Bled revives its rich chess tradition - with the Bled Chess Festival which is for players rated below 2300 and will take place from 9th to 16th March. | Photo: Bled Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/invitation-to-the-bled-chess-festival",
+         "pubDate" : "Fri, 16 Jan 2026 14:32:35",
+         "title" : "Invitation to the Bled Chess Festival!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126563130.cms\" />Aaryan Varshney became India's 92nd chess Grandmaster at 21, guided entirely by his father Gaurav, a single parent since Aaryan was five. With no coach, academies, or foreign training, Gaurav trained him at home using game analysis and ChessBase. Overcoming pandemic hurdles, Aaryan rose rapidly and now dreams of becoming a World Champion.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-gets-its-92nd-gm-no-coach-single-fathers-grind-and-a-dream-to-beat-gukesh-the-making-of-aaryan-varshney/articleshow/126563130.cms",
+         "pubDate" : "Fri, 16 Jan 2026 12:25:55",
+         "title" : "India gets its 92nd GM: No coach, single father's grind, and ream vs Gukesh"
+      },
+      {
          "description" : " India's Gukesh Dommaraju takes on Candidates qualifiers and stars who missed out, plus a talent for the 2030s The annual \"chess Wimbledon\" at Tata Steel Wijk aan Zee in the Netherlands is unusually interesting this year. Its 14-player field matches the reigning world champion, India's Dommaraju Gukesh, against a range of rivals who include four of the eight Candidates who will meet in March to decide his 2026 challenger, another three grandmasters from the world top 10, the controversial US star Hans Niemann, plus a 14-year-old Turk who is breaking age records. Gukesh's unimpressive recent results mean the world Nos 5 and 8, Arjun Erigaisi and Praggnanandhaa Rameshbabu, will aim to finish a",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -664,14 +680,6 @@ news_feed (
          "link" : "https://aicf.in/national-junior-under-19-chess-championship-2025/",
          "pubDate" : "Thu, 01 Jan 2026 11:40:40",
          "title" : "Final Report:National Junior (Under-19) Chess Championship - 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126282651.cms\" />Notably, Kramnik has not approached the Court of Arbitration for Sport (CAS), which usually hears disputes in sport. Relations between Kramnik and FIDE have deteriorated since the death of American GM Daniel Naroditsky in October.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sued-fide-after-probe-into-harassment-claims-vladimir-kramnik/articleshow/126282651.cms",
-         "pubDate" : "Thu, 01 Jan 2026 04:47:43",
-         "title" : "Sued FIDE after probe into harassment claims: Vladimir Kramnik"
       },
       {
          "description" : "Take a look at this relatively simple position. Can you figure out how White can win? And how many moves it will require to overcome Black's most resolute defence? You won't believe it. To relax we bring you the arguably easiest chess study ever composed, and other entertaining puzzles, many from the out-of-the-box legend Karl Fabel.",
