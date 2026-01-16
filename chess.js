@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 88th Tata Steel Chess tournament takes place in Wijk aan Zee Fri 16th Jan to Sun 1st Feb 2026. Players: Masters: Yagiz Kaan Erdogmus, Aravindh Chithambaram, Hans Niemann, Vincent Keymer, Javokhir Sindarov, Jorden van Foreest, Arjun Erigaisi, Praggnanandhaa Rameshbabu, Van Nguyen Thai Dai, Gukesh Dommaraju, Anish Giri, Vladimir Fedoseev, Matthias Bluebaum and Nodirbek Abdusattorov. Challengers: Vasyl Ivanchuk, Marc Andria Maurizzi, Velimir Ivic, Erwin l'Ami, Bibisara Assaubayeva, Eline Roebers, Miaoyi Lu, Max Warmerdam, Panesar Vedant, Andy Woodward, Aydin Suleymanli, Faustino Oro, Daniil Yuffa and Carissa Yip. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/88th-tata-steel-2026",
+         "pubDate" : "Fri, 16 Jan 2026 00:29:00",
+         "title" : "88th Tata Steel 2026 - Games and Results"
+      },
+      {
          "description" : "The knockout stage of the online Play-In for the FIDE Freestyle Chess World Championship decided the last place in the February championship. Nodirbek Abdusattorov progressed through the semifinals and went on to face Pranav Venkatesh in the final. The four qualifiers competed in two-game matches with a 15+3 time control. Amin Tabatabaei prevailed in the Armageddon tiebreak against Grigoriy Oparin to grab third place. | Photo: Amruta Mokal / Freestyle Chess Grand Slam",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +26,22 @@ news_feed (
          "title" : "Beers by the Bay launches women's-only beginner chess class in San Diego"
       },
       {
+         "description" : "The match between two of the most popular chess streamers in the world, IMs Levy Rozman and Julien Song, got off to a hard-fought start as both sides missed wins in time pressure before the game ended in a draw.&#38;nbsp; The players shook hands b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gotham-song-1-15-2026",
+         "pubDate" : "Thu, 15 Jan 2026 18:37:39",
+         "title" : "Gotham vs. Song Begins With Razor-Sharp Draw"
+      },
+      {
+         "description" : "Five-time Puzzles Champion GM Ray Robson was first to qualify for the eight-player Knockout Finals of the 2026 Chess.com Puzzles Championship, and posted the day&#39;s best score of 62. He was joined by GMs Pranav Venkatesh, Jeffery Xiong, and Mitrabh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-chesscom-puzzles-championship-puzzle-rush-royale",
+         "pubDate" : "Thu, 15 Jan 2026 17:43:00",
+         "title" : "5-Time Winner Ray Robson Storms Into 2026 Puzzle Championship Finals"
+      },
+      {
          "description" : "The Estonian diplomat and chess enthusiast Mart Tarmak organized a consultation game between politicians and diplomats at the Estonian Embassy in Vilnius in commemoration of Paul Keres on the occasion of his 110th birthday. Viktorija Cmilyte and Peter Heine Nielsen led the teams. | Photos: Embassy of Estonia in Vilnius",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/abdusattorov-wins-2026-fide-freestyle-chess-world-championship-play-in",
-         "pubDate" : "Thu, 15 Jan 2026 12:39:41",
+         "pubDate" : "Thu, 15 Jan 2026 12:39:00",
          "title" : "Abdusattorov Qualifies For FIDE Freestyle Chess World Championship"
       },
       {
@@ -584,22 +608,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-16th-chennai-open-international-grandmaster-chess-tournament-2025-for-sakthi-group-dr-n-mahalingam-trophy/",
          "pubDate" : "Fri, 02 Jan 2026 15:28:14",
          "title" : "Live games link for 16th Chennai Open International Grandmaster Chess Tournament 2025 for Sakthi Group Dr. N Mahalingam Trophy"
-      },
-      {
-         "description" : "GM Magnus Carlsen won Freestyle Friday four times in 2025, and he has started 2026 on the right foot by winning the January 2 edition. He did not go wire-to-wire, losing in rounds three and nine, but it was enough to win on tiebreaks over GM Matth...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-freestyle-friday-january-2-2026",
-         "pubDate" : "Fri, 02 Jan 2026 11:56:00",
-         "title" : "Carlsen Kicks Off Freestyle Friday 2026 With Victory"
-      },
-      {
-         "description" : "GMs Tuan Minh Le, Hikaru Nakamura and Jose Martinez celebrated the new year by winning the first three 3 0 Thursday tournaments of 2026. Le overcame back-to-back losses to catch up and win the first event with a 9/11 score. Nakamura dominated the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/minh-le-nakamura-martinez-3-0-thursday-1-1-26",
-         "pubDate" : "Fri, 02 Jan 2026 11:27:00",
-         "title" : "Martinez Nearly Perfect In 3 0 Thursday, Minh Le, Nakamura Also Win"
       },
       {
          "description" : " The Norwegian, 35, overcame elite fields despite time forfeits after knocking over pieces in critical games The world No 1, Magnus Carlsen, recovered from a series of mishaps to win both the World Rapid and Blitz crowns at Doha, Qatar, last weekend. The global victories were the 19th and 20th of the Norwegian's illustrious career and may give him the edge in the longstanding debate on whether he, Garry Kasparov, or Bobby Fischer is chess's all-time greatest master. Peerless endgame technique was central to the 35-year-old Norwegian's blitz success. He won a knight ending with Black <a href=\"https://www.chessgames.com/perl/chessgame?gid=3037188\">against Nodirbek Abdusattorov</a> from a posit",
