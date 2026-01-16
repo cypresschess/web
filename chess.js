@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The knockout stage of the online Play-In for the FIDE Freestyle Chess World Championship decided the last place in the February championship. Nodirbek Abdusattorov progressed through the semifinals and went on to face Pranav Venkatesh in the final. The four qualifiers competed in two-game matches with a 15+3 time control. Amin Tabatabaei prevailed in the Armageddon tiebreak against Grigoriy Oparin to grab third place. | Photo: Amruta Mokal / Freestyle Chess Grand Slam",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-wc-2026-play-in-2",
+         "pubDate" : "Fri, 16 Jan 2026 00:00:25",
+         "title" : "Weissenhaus Play-In: Abdusattorov gets final spot in Freestyle Chess World Championship"
+      },
+      {
+         "description" : "Beers by the Bay Chess & Social has announced the launch of a women's-only beginner chess class in San Diego, created in collaboration with Let's Go Girls - San Diego. Aimed at adult beginners, the monthly class offers a relaxed, social introduction to chess in an in-person setting. Held at a local venue in Pacific Beach, the initiative seeks to address the underrepresentation of women in community chess by providing an accessible and welcoming environment. | Photo: chessandsocial.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/beers-by-the-bay-women-only-chess-class-2026",
+         "pubDate" : "Thu, 15 Jan 2026 21:10:00",
+         "title" : "Beers by the Bay launches women's-only beginner chess class in San Diego"
+      },
+      {
          "description" : "The Estonian diplomat and chess enthusiast Mart Tarmak organized a consultation game between politicians and diplomats at the Estonian Embassy in Vilnius in commemoration of Paul Keres on the occasion of his 110th birthday. Viktorija Cmilyte and Peter Heine Nielsen led the teams. | Photos: Embassy of Estonia in Vilnius",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/estonians-and-lithuanians-honor-paul-keres",
          "pubDate" : "Thu, 15 Jan 2026 14:26:54",
          "title" : "Estonians and Lithuanians honor Paul Keres"
+      },
+      {
+         "description" : "GM Nodirbek Abdusattorov won the 2026 Freestyle Chess World Championship Play-in Knockout to earn $1,000 and qualify for the last available spot in the world championship. He beat GM Amin Tabatabaei 1.5-0.5 in the Semifinals and then GM Pranav Ven...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/abdusattorov-wins-2026-fide-freestyle-chess-world-championship-play-in",
+         "pubDate" : "Thu, 15 Jan 2026 12:39:41",
+         "title" : "Abdusattorov Qualifies For FIDE Freestyle Chess World Championship"
       },
       {
          "description" : "The FIDE Global Conference on Chess in Society and Education began on 14 January 2026 at KIIT University, Bhubaneswar. The three-day event convenes education leaders,",
@@ -34,14 +58,6 @@ news_feed (
          "title" : "Final Report of SNA Seminar & Exam held in Madurai on 27 & 28 December 2025"
       },
       {
-         "description" : "The Swiss stage of the online Play-in for the Freestyle Chess World Championship has determined the four players who remain in contention for the final qualification place. Over nine rounds of Freestyle Chess, Nodirbek Abdusattorov, Pranav Venkatesh (pictured), Grigoriy Oparin and Amin Tabatabaei finished level on 7/9 to secure places in Thursday's knockout stage. | Photo: Fujairah Superstars / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-wc-2026-play-in-1",
-         "pubDate" : "Thu, 15 Jan 2026 08:05:00",
-         "title" : "Weissenhaus Play-In: Abdusattorov, Pranav, Oparin and Tabatabaei make it to knockout stage"
-      },
-      {
          "description" : "By decision of the ECU Board and with approval from the FIDE Council, the ECU General Assembly 2026 and elections will take place on Saturday, 18 July 2026, in Bucharest, Romania. The elections are scheduled in accordance with the ECU statutes and the completion of the current term of the ECU Board on 22 July 2026. The ECU General Assembly will be hosted, unless there is an emergency NOC meeting, at the premises of the Romanian Olympic Committee, emphasising the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -50,20 +66,20 @@ news_feed (
          "title" : "ECU GENERAL ASSEMBLY 2026"
       },
       {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The four winners from Tata Steel India, from left: Wesley So, Nihal Sarin, Kateryna Lagno, and Carissa Yip. (All photos courtesy Tata Steel India/Lennart Ootes)<br> <br> <br> <br> Every January, Tata Steel sponsors one of the northern hemisphere's biggest highlights of the classical chess calendar in Wijk aan Zee in the Netherlands. This year, Tata Steel looked to take over the entire month and the globe, hosting its seventh edition of Tata Steel Chess India Rapid &amp; Blitz from January 6 through 11 at Dhono Dhanyo Auditorium in Kolkata, India. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br>",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/yip-so-win-tata-steel-india-blitz-tata-steel-classical-begins-saturday",
+         "pubDate" : "Thu, 15 Jan 2026 00:00:00",
+         "title" : "Yip, So Win Tata Steel India Blitz as Tata Steel Classical Begins Saturday"
+      },
+      {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Monday, Jan. 19 in recognition of Martin Luther King Jr. Day.All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items, and thank you for your understanding,",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/us-chess-offices-be-closed-monday-jan-19-martin-luther-king-jr-day",
          "pubDate" : "Thu, 15 Jan 2026 00:00:00",
          "title" : "US Chess Offices to be Closed Monday, Jan. 19 for Martin Luther King Jr. Day"
-      },
-      {
-         "description" : "Anastasia Corotcova explains how to insert variations into your notation using both reference games and engine suggestions. It shows how the Reference tab lists common moves and past games for the current position, allowing you to click or copy them directly into your analysis. Finally, it demonstrates how to add an engine (Kibitzer) and insert its suggested lines to build clear, structured game analysis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-tips-for-beginners-variations-from-reference-engines",
-         "pubDate" : "Wed, 14 Jan 2026 18:00:00",
-         "title" : "ChessBase tips for beginners - Variations from Reference & Engines"
       },
       {
          "description" : "GMs Nodirbek Abdusattorov, Pranav Venkatesh, Grigoriy Oparin, and Amin Tabatabaei all finished with 7/9 to place in the top-four of the 2026 FIDE Freestyle Chess World Championship Play-in Swiss, and they advance to the Knockout. Only one of the f...",
@@ -514,14 +530,6 @@ news_feed (
          "title" : "Kolkata Rapid and Blitz chess: D Gukesh pulls out of year's first event"
       },
       {
-         "description" : "An Off-Broadway show called The Opening, billed as \"The Second Most Famous Musical About Chess,\" opens on January 8 and closes on February 8 at The Players Theatre in Manhattan. Since the most famous musical about chess, Broadway's Chess: The Musical, recently extended its run until May 3, 2026, players can catch both shows (and members can catch our review of Chess in this month's Chess Life - ed.). With unbeatable NYC winter offers, such as 2-for-1 Broadway theater tickets, winter is the best time to see these chess-themed musical theater shows. PlaybillThe day after attending Mindsets: The New York Chess in Education Conference, I saw Chess: The Musical on Broadway. I saved the show's Pla",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/opening-second-most-famous-musical-about-chess-opens-thursday",
-         "pubDate" : "Mon, 05 Jan 2026 00:00:00",
-         "title" : "The Opening: The Second Most Famous Musical About Chess Opens Thursday"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126334660.cms\" />World champion D Gukesh has withdrawn from the 2026 Tata Steel Chess India tournament in Kolkata due to personal reasons and will be replaced by Nihal Sarin. The decision has disappointed fans and organisers, who called it a major setback. Despite his absence, the January 7 event will feature top Indian and international players in both Open and Women's sections.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -592,14 +600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/minh-le-nakamura-martinez-3-0-thursday-1-1-26",
          "pubDate" : "Fri, 02 Jan 2026 11:27:00",
          "title" : "Martinez Nearly Perfect In 3 0 Thursday, Minh Le, Nakamura Also Win"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov has marched into 2026 with 19 extra rating points after a tremendous performance in the 2025 London Chess Classic in December. Abdusattorov recovered the 18 points he lost at the 2025 FIDE World Cup with interest, courtesy...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/january-2026-fide-ratings",
-         "pubDate" : "Fri, 02 Jan 2026 10:18:59",
-         "title" : "Abdusattorov Bounces Back In January 2026 FIDE Ratings"
       },
       {
          "description" : " The Norwegian, 35, overcame elite fields despite time forfeits after knocking over pieces in critical games The world No 1, Magnus Carlsen, recovered from a series of mishaps to win both the World Rapid and Blitz crowns at Doha, Qatar, last weekend. The global victories were the 19th and 20th of the Norwegian's illustrious career and may give him the edge in the longstanding debate on whether he, Garry Kasparov, or Bobby Fischer is chess's all-time greatest master. Peerless endgame technique was central to the 35-year-old Norwegian's blitz success. He won a knight ending with Black <a href=\"https://www.chessgames.com/perl/chessgame?gid=3037188\">against Nodirbek Abdusattorov</a> from a posit",
