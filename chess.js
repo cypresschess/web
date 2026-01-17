@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana introduces the \"Fake Sveshnikov,\" an unconventional Sicilian where Black mimics familiar Sveshnikov structures but deliberately deviates with early &hellip;e5 and &hellip;Ne7 to sidestep typical pins and seize dynamic counterplay. The episode walks through White's main setups (Bg5, Be3, Bd3, c3, c4), showing recurring Black ideas like sacrificing a pawn, rapid development, dark-square pressure, and timely breaks with &hellip;f5 or &hellip;Nd4. The lesson emphasizes pattern recognition over memorization, illustrating how surprising plans and imbalances can lead to strong practical chances-even revealing that Sveshnikov himself once played this \"fake\" version.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-fake-sveshnikov-sicilian",
+         "pubDate" : "Sat, 17 Jan 2026 20:00:00",
+         "title" : "Svitlana's Smart Moves - The Fake Sveshnikov Sicilian"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126621455.cms\" />The Tata Steel Chess Tournament in Wijk aan Zee was briefly delayed after climate activists from Extinction Rebellion dumped 2,025 kg of coal at the venue, accusing sponsor Tata Steel of pollution and \"sportswashing.\" Protesters highlighted alleged carbon and lead emissions, while organisers defended the event's sporting and cultural value, urging respect and safety as the tournament resumed under heightened coordination with authorities.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/no-chess-on-a-dead-planet-massive-protest-disrupts-wijk-aan-zee-tournament-in-netherlands-watch/articleshow/126621455.cms",
+         "pubDate" : "Sat, 17 Jan 2026 17:01:53",
+         "title" : "'No chess on a dead planet': Protest disrupts Wijk aan Zee tourney - Watch"
+      },
+      {
          "description" : "Last week I shared how results-oriented goals (I Failed all of My Goals in 2025 - But it was a great Year) have a motivating side, but often turn out to be toxic for me. The thing is, I can reach all my results-oriented goals, but hate the process of getting there. Or, I can []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -672,14 +688,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jan/02/chess-magnus-carlsen-wins-two-more-world-speed-crowns-despite-mishaps",
          "pubDate" : "Fri, 02 Jan 2026 08:00:02",
          "title" : "Chess: Magnus Carlsen wins two more world speed crowns despite mishaps"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126298882.cms\" />Kazakhstan's Bibisara Assaubayeva secured her third Women's World Blitz title, but her primary focus remains qualifying for the Candidates tournament in Cyprus. Despite accepting a wild card over a more direct route, she emerged victorious in a tense final.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/bibisara-assaubayeva-ends-season-long-candidates-chase/articleshow/126298882.cms",
-         "pubDate" : "Fri, 02 Jan 2026 05:14:10",
-         "title" : "Bibisara Assaubayeva ends season-long Candidates chase"
       },
       {
          "description" : " Retired Chicago Bulls great Derrick Rose stands between commentator&#160;James Dash and Magnus Carlsen at Chesstival 2025 in Las Vegas. Photo: Lennart Ootes/Freestyle Chess. Key Takeaways 2025 featured key moments, including Brewington Hardaway on the cover of Chess Life and Tani Adewumi achieving the IM title. High-profile losses, such as IM Stephen Muhammad, and a tragic The post <a href=\"https://thechessdrum.net/blog/2026/01/01/the-chess-drums-highlights-of-2025/\">The Chess Drum's Highlights of 2025</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
