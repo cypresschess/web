@@ -1,4 +1,6 @@
 jtable([
+"SPRING","2026-01-16","35","<a href=https://ratings.uschess.org/event/202601160233 target='_blank'>The Friday Knights</a>",
+"SUGAR LAND","2026-01-16","9","<a href=https://ratings.uschess.org/event/202601160203 target='_blank'>FBCC 2025 Appreciate a Dragon Day Open</a>",
 "SUGAR LAND","2026-01-11","23","<a href=https://ratings.uschess.org/event/202601110803 target='_blank'>Foundation Chess New Year Scholastic</a>",
 "HOUSTON","2026-01-11","11","<a href=https://ratings.uschess.org/event/202601110403 target='_blank'>Bellaire Swiss 1.11.26</a>",
 "HOUSTON","2026-01-11","15","<a href=https://ratings.uschess.org/event/202601110243 target='_blank'>JAN 11TH TROPHY SCHOLASTIC</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2025-10-10","14","<a href=https://ratings.uschess.org/event/202510107132 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-10-10","43","<a href=https://ratings.uschess.org/event/202510107122 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-10-07","16","<a href=https://ratings.uschess.org/event/202510075612 target='_blank'>THE CHESS REFINERY: SUPER BLITZ 2025</a>",
-"HOUSTON","2025-10-05","26","<a href=https://ratings.uschess.org/event/202510054972 target='_blank'>$2,500 OCTOBER CHAMPIONSHIP</a>",
-"HOUSTON","2025-10-05","12","<a href=https://ratings.uschess.org/event/202510054392 target='_blank'>BELLAIRE SUNDAY SWISS 10/05/25</a>",
 ]);
