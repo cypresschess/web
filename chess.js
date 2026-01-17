@@ -2,20 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Saint Louis Chess Club has unveiled its 2026 tournament calendar, outlining a full season of elite events in the United States and abroad. Anchored by an expanded 30,000-square-foot home campus, the schedule includes established fixtures such as the American Cup, Sinquefield Cup and U.S. Championships, alongside international stops on the Grand Chess Tour. | Photo: Saint Louis Chess Club",
+         "description" : "Gukesh, the World Chess Champion, endured a difficult 2025. Still, he produced a convincing win against Magnus Carlsen and finished tied for first at Tata Steel Chess, ultimately losing the blitz tiebreak to Praggnanandhaa. At the World Blitz Championship in Doha, he suffered a stunning upset against underdog Sergey Sklokin (2407), where an extraordinary endgame collapse saw Gukesh lose multiple pawns in succession.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-chess-club-invitational-tournaments-2026",
-         "pubDate" : "Fri, 16 Jan 2026 23:15:00",
-         "title" : "Saint Louis Chess Club announces 2026 invitational tournament schedule"
-      },
-      {
-         "description" : "The Argentine Olympic Committee has launched \"Olympic Beach\", a nationwide summer programme that brings organised sport and Olympic values to Argentina's coastal and riverside locations ahead of the Santa Fe 2026 South American Games. Running throughout January across eight venues, the initiative combines free sporting activities, youth engagement, environmental actions and federation-led events, including the integration of chess into the programme's public beach setting. | Photo: Argentine Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-on-the-beach-argentina-2026",
-         "pubDate" : "Fri, 16 Jan 2026 20:15:00",
-         "title" : "Chess on the beach: An initiative by the Argentine Olympic Committee"
+         "link" : "https://en.chessbase.com/post/world-champion-loss-against-underdog-the-underdog",
+         "pubDate" : "Sat, 17 Jan 2026 07:00:00",
+         "title" : "World Champion loss against Underdog - The Underdog"
       },
       {
          "description" : " Expanded 30,000-Square-Foot Home Base Anchors a Global Slate of Events from the Chess Capital of the USA SAINT LOUIS, MO (Jan. 16, 2026) - The Saint Louis Chess Club announced today its highly anticipated 2026 tournament schedule, reinforcing its leadership role as the Chess Capital of the United States while continuing to expand its global [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-announces-highly-anticipated-2026-invitational-tournament-schedule/\">Saint Louis Chess Club Announces Highly Anticipated 2026 Invitational Tournament Schedule</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -24,14 +16,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-announces-highly-anticipated-2026-invitational-tournament-schedule/",
          "pubDate" : "Fri, 16 Jan 2026 17:16:15",
          "title" : "Saint Louis Chess Club Announces Highly Anticipated 2026 Invitational Tournament Schedule"
-      },
-      {
-         "description" : "For nearly a century, Bled has held a special place in the history chess. In 1931, Bled hosted one of the most famous international tournaments of its time, won by World Champion Alexander Alekhine. In the decades that followed, Bled's chess tournaments welcomed numerous greats of the game, including the legendary Bobby Fischer and Mikhail Tal, who in 1961, together with a lineup of masters, created a true chess spectacle. Now, Bled revives its rich chess tradition - with the Bled Chess Festival which is for players rated below 2300 and will take place from 9th to 16th March. | Photo: Bled Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/invitation-to-the-bled-chess-festival",
-         "pubDate" : "Fri, 16 Jan 2026 14:32:35",
-         "title" : "Invitation to the Bled Chess Festival!"
       },
       {
          "description" : "After a wild battle to start their match in game one, IMs Levy Rozman and Julien Song played a very accurate and calm draw in their second classical game. Rozman played one of his favorite openings, the Queen&#39;s Gambit Accepted, and quickly equaliz...",
@@ -98,22 +82,6 @@ news_feed (
          "title" : "88th Tata Steel 2026 - Games and Results"
       },
       {
-         "description" : "The knockout stage of the online Play-In for the FIDE Freestyle Chess World Championship decided the last place in the February championship. Nodirbek Abdusattorov progressed through the semifinals and went on to face Pranav Venkatesh in the final. The four qualifiers competed in two-game matches with a 15+3 time control. Amin Tabatabaei prevailed in the Armageddon tiebreak against Grigoriy Oparin to grab third place. | Photo: Amruta Mokal / Freestyle Chess Grand Slam",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-wc-2026-play-in-2",
-         "pubDate" : "Fri, 16 Jan 2026 00:00:25",
-         "title" : "Weissenhaus Play-In: Abdusattorov gets final spot in Freestyle Chess World Championship"
-      },
-      {
-         "description" : "Beers by the Bay Chess & Social has announced the launch of a women's-only beginner chess class in San Diego, created in collaboration with Let's Go Girls - San Diego. Aimed at adult beginners, the monthly class offers a relaxed, social introduction to chess in an in-person setting. Held at a local venue in Pacific Beach, the initiative seeks to address the underrepresentation of women in community chess by providing an accessible and welcoming environment. | Photo: chessandsocial.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/beers-by-the-bay-women-only-chess-class-2026",
-         "pubDate" : "Thu, 15 Jan 2026 21:10:00",
-         "title" : "Beers by the Bay launches women's-only beginner chess class in San Diego"
-      },
-      {
          "description" : "The match between two of the most popular chess streamers in the world, IMs Levy Rozman and Julien Song, got off to a hard-fought start as both sides missed wins in time pressure before the game ended in a draw.&#38;nbsp; The players shook hands b...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -128,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-chesscom-puzzles-championship-puzzle-rush-royale",
          "pubDate" : "Thu, 15 Jan 2026 17:43:00",
          "title" : "5-Time Winner Ray Robson Storms Into 2026 Puzzle Championship Finals"
-      },
-      {
-         "description" : "The Estonian diplomat and chess enthusiast Mart Tarmak organized a consultation game between politicians and diplomats at the Estonian Embassy in Vilnius in commemoration of Paul Keres on the occasion of his 110th birthday. Viktorija Cmilyte and Peter Heine Nielsen led the teams. | Photos: Embassy of Estonia in Vilnius",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/estonians-and-lithuanians-honor-paul-keres",
-         "pubDate" : "Thu, 15 Jan 2026 14:26:54",
-         "title" : "Estonians and Lithuanians honor Paul Keres"
       },
       {
          "description" : "GM Nodirbek Abdusattorov won the 2026 Freestyle Chess World Championship Play-in Knockout to earn $1,000 and qualify for the last available spot in the world championship. He beat GM Amin Tabatabaei 1.5-0.5 in the Semifinals and then GM Pranav Ven...",
