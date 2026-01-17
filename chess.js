@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last week I shared how results-oriented goals (I Failed all of My Goals in 2025 - But it was a great Year) have a motivating side, but often turn out to be toxic for me. The thing is, I can reach all my results-oriented goals, but hate the process of getting there. Or, I can []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/goal-2026/",
+         "pubDate" : "Sat, 17 Jan 2026 14:00:00",
+         "title" : "My one goal for 2026"
+      },
+      {
+         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. Round one sees world champion Gukesh Dommaraju playing black against one of the four Candidates in the field, Javokhir Sindarov. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
+         "pubDate" : "Sat, 17 Jan 2026 13:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "In the years before the pandemic-years which already seem to belong to a vanished geological age-I wrote in the British Chess Magazine about the influence of two dominant figures in the intellectual life of chess, men whose importance rested as much on what they taught as on what they played. I return now to those figures, Wilhelm []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/royal-game-2/",
+         "pubDate" : "Sat, 17 Jan 2026 13:03:52",
+         "title" : "Royal game"
+      },
+      {
          "description" : "On behalf of the All India Chess Federation, the Arbiters' Commission of AICF, and the Madhya Pradesh Chess Ad-hoc Committee, the Bhopal District Chess Association",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -16,14 +40,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-of-odisha-open-the-16th-international-grandmasters-chess-festival-2025-26/",
          "pubDate" : "Sat, 17 Jan 2026 10:14:11",
          "title" : "Live link of ODISHA OPEN (THE 16TH INTERNATIONAL GRANDMASTERS CHESS FESTIVAL 2025-26"
-      },
-      {
-         "description" : "Today, on 17 January 2026, Maia Chiburdanidze celebrates her 65th birthday. For a long time, she was the best female chess player in the world, a world champion and a multiple gold medallist at Chess Olympiads. Like no other, Maia Chiburdanidze represents the golden era of Georgian women's chess, though she initially competed under the Soviet flag.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/maia-chiburdanidze-65-birthday",
-         "pubDate" : "Sat, 17 Jan 2026 10:00:00",
-         "title" : "Maia Chiburdanidze celebrates her 65th birthday"
       },
       {
          "description" : "Gukesh, the World Chess Champion, endured a difficult 2025. Still, he produced a convincing win against Magnus Carlsen and finished tied for first at Tata Steel Chess, ultimately losing the blitz tiebreak to Praggnanandhaa. At the World Blitz Championship in Doha, he suffered a stunning upset against underdog Sergey Sklokin (2407), where an extraordinary endgame collapse saw Gukesh lose multiple pawns in succession.",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-04-dec-28",
          "pubDate" : "Sun, 28 Dec 2025 09:00:00",
          "title" : "Christmas Puzzles 4 - Retractors"
-      },
-      {
-         "description" : "We face one big dilemma in nearly all aspects of our lives: the easy and fun stuff is bad for us, while the difficult and boring things are good for us. If we manage to do at least some of the latter, the quality of our lives will improve. But the question is, how? A []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/build-better-chess-training-systems/",
-         "pubDate" : "Sat, 27 Dec 2025 14:00:00",
-         "title" : "Don't be disciplined - build systems that work"
       }
    ]
 }
