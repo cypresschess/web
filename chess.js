@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On behalf of the All India Chess Federation, the Arbiters' Commission of AICF, and the Madhya Pradesh Chess Ad-hoc Committee, the Bhopal District Chess Association",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-sna-seminar-exam-in-bhopal-on-10-11-january-2026/",
+         "pubDate" : "Sat, 17 Jan 2026 10:36:26",
+         "title" : "Final report of SNA seminar & Exam in Bhopal on 10 & 11 January 2026"
+      },
+      {
+         "description" : "Please find the link Link : https://www.chess.com/events/odisha-open-16th-grandmasters-chess-festival-2025-26-category-a/games",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link-of-odisha-open-the-16th-international-grandmasters-chess-festival-2025-26/",
+         "pubDate" : "Sat, 17 Jan 2026 10:14:11",
+         "title" : "Live link of ODISHA OPEN (THE 16TH INTERNATIONAL GRANDMASTERS CHESS FESTIVAL 2025-26"
+      },
+      {
+         "description" : "Today, on 17 January 2026, Maia Chiburdanidze celebrates her 65th birthday. For a long time, she was the best female chess player in the world, a world champion and a multiple gold medallist at Chess Olympiads. Like no other, Maia Chiburdanidze represents the golden era of Georgian women's chess, though she initially competed under the Soviet flag.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/maia-chiburdanidze-65-birthday",
+         "pubDate" : "Sat, 17 Jan 2026 10:00:00",
+         "title" : "Maia Chiburdanidze celebrates her 65th birthday"
+      },
+      {
          "description" : "Gukesh, the World Chess Champion, endured a difficult 2025. Still, he produced a convincing win against Magnus Carlsen and finished tied for first at Tata Steel Chess, ultimately losing the blitz tiebreak to Praggnanandhaa. At the World Blitz Championship in Doha, he suffered a stunning upset against underdog Sergey Sklokin (2407), where an extraordinary endgame collapse saw Gukesh lose multiple pawns in succession.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -650,22 +674,6 @@ news_feed (
          "title" : "The Chess Drum's Highlights of 2025"
       },
       {
-         "description" : "IM Goutham Krishna of Kerala and WFM Arshiya Das of Tripura won the 50th National Sub-Junior Open &#38; 41st National Sub-Junior Girls Chess Championships 2025",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-national-sub-junior-under-15-chess-championships-2025/",
-         "pubDate" : "Thu, 01 Jan 2026 11:50:10",
-         "title" : "Final Report :National Sub-junior (Under 15) Chess Championships 2025"
-      },
-      {
-         "description" : "The 54th Open and 39th Girls National Junior (Under-19) Chess Championship - 2025 &#160;( Event Code -433843/JH/2025 &#38; 433844/JH/2025) was successfully conducted at the traditional",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-junior-under-19-chess-championship-2025/",
-         "pubDate" : "Thu, 01 Jan 2026 11:40:40",
-         "title" : "Final Report:National Junior (Under-19) Chess Championship - 2025"
-      },
-      {
          "description" : "Take a look at this relatively simple position. Can you figure out how White can win? And how many moves it will require to overcome Black's most resolute defence? You won't believe it. To relax we bring you the arguably easiest chess study ever composed, and other entertaining puzzles, many from the out-of-the-box legend Karl Fabel.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/build-better-chess-training-systems/",
          "pubDate" : "Sat, 27 Dec 2025 14:00:00",
          "title" : "Don't be disciplined - build systems that work"
-      },
-      {
-         "description" : "There are chess puzzles which only consist of a line of text, asking you to construct a position or a game that it describes. Some can be awesomely difficult, like the puzzle we first posted 41 years ago. Two world champions were not able to solve it. We tell you about that, and present a new ones, not quite as tough, for you to solve.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-03-dec-27",
-         "pubDate" : "Sat, 27 Dec 2025 09:00:00",
-         "title" : "Christmas Puzzles 3 - Just some text"
       }
    ]
 }
