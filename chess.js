@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " There were three decisive games in the first round of the Tata Steel Masters, there could even have been a couple more. The first story was that the start to the tournament was delayed, climate protesters targeting Tata Steel drew attention to their heavy use of coal and the environmental damage it causes. The start of play was delayed for a couple of hours but perhaps this disruption caused early uncharacteristic blunders from a couple of the players. Hans Moke Niemann was still in theory when Vladimir Fedoseev miscalculated and he had to resign in 16 moves. Anish Giri played the inferior 21...Rb8 then just blundered a piece with 22...Bxd4 and also had to resign immediately. Arjun Erigaisi",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/first-round-wins-for-niemann-keymer-and-erigaisi-following-delayed-start-for-the-tata-steel-masters-2026",
+         "pubDate" : "Sat, 17 Jan 2026 23:40:00",
+         "title" : "First round wins for Niemann, Keymer and Erigaisi following delayed start for the Tata Steel Masters 2026 - 1"
+      },
+      {
          "description" : "Svitlana introduces the \"Fake Sveshnikov,\" an unconventional Sicilian where Black mimics familiar Sveshnikov structures but deliberately deviates with early &hellip;e5 and &hellip;Ne7 to sidestep typical pins and seize dynamic counterplay. The episode walks through White's main setups (Bg5, Be3, Bd3, c3, c4), showing recurring Black ideas like sacrificing a pawn, rapid development, dark-square pressure, and timely breaks with &hellip;f5 or &hellip;Nd4. The lesson emphasizes pattern recognition over memorization, illustrating how surprising plans and imbalances can lead to strong practical chances-even revealing that Sveshnikov himself once played this \"fake\" version.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/no-chess-on-a-dead-planet-massive-protest-disrupts-wijk-aan-zee-tournament-in-netherlands-watch/articleshow/126621455.cms",
          "pubDate" : "Sat, 17 Jan 2026 17:01:53",
          "title" : "'No chess on a dead planet': Protest disrupts Wijk aan Zee tourney - Watch"
+      },
+      {
+         "description" : "Bullet Brawl&#39;s most prolific winner, GM Hikaru Nakamura, has started 2026 with a hat trick of victories. In Saturday&#39;s event, GM Jose Martinez built a 21-point lead, but with just over 20 minutes to go, Nakamura bolted to the finish line, not only...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-jan-17-2026",
+         "pubDate" : "Sat, 17 Jan 2026 15:20:34",
+         "title" : "Nakamura Chases Down Martinez, Completes Bullet Brawl Hat Trick"
       },
       {
          "description" : "Last week I shared how results-oriented goals (I Failed all of My Goals in 2025 - But it was a great Year) have a motivating side, but often turn out to be toxic for me. The thing is, I can reach all my results-oriented goals, but hate the process of getting there. Or, I can []",
@@ -40,6 +56,22 @@ news_feed (
          "link" : "https://www.thearticle.com/royal-game-2/",
          "pubDate" : "Sat, 17 Jan 2026 13:03:52",
          "title" : "Royal game"
+      },
+      {
+         "description" : "World Cup winner GM Javokhir Sindarov pulled off a 78-move great escape against World Champion Gukesh Dommaraju to bring a dramatic first day of the 2026 Tata Steel Chess Masters to a close. The first moves were delayed 1.5 hours by an evironmenta...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-1",
+         "pubDate" : "Sat, 17 Jan 2026 13:01:00",
+         "title" : "Sindarov Denies Gukesh As Niemann, Keymer, Arjun Pounce On Blunders"
+      },
+      {
+         "description" : "IM Levy Rozman confessed between games that &#34;I think my biggest strength is somehow getting it done in time scrambles.&#34; His ability with seconds on the clock saved him from losing positions in three different rapid games. After the rapid portion o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gotham-song-1-17-2026",
+         "pubDate" : "Sat, 17 Jan 2026 12:50:00",
+         "title" : "Rozman Takes Lead In Wild Day Of Rapid Games"
       },
       {
          "description" : "On behalf of the All India Chess Federation, the Arbiters' Commission of AICF, and the Madhya Pradesh Chess Ad-hoc Committee, the Bhopal District Chess Association",
@@ -562,14 +594,6 @@ news_feed (
          "title" : "From mentor to rival: Anand to face his pupils at Tata Steel Rapid and Blitz Chess India"
       },
       {
-         "description" : "Five national chess federations have formally launched a legal challenge against the International Chess Federation (FIDE) at the Court of Arbitration for Sport (CAS), contesting the decisions taken at December&#39;s online General Assembly to lift re...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/5-national-chess-federations-take-fide-to-cas-after-general-assembly-chaos",
-         "pubDate" : "Wed, 07 Jan 2026 03:17:35",
-         "title" : "5 Federations Take FIDE To CAS Over Vote Allowing Russian, Belarusian Teams Back"
-      },
-      {
          "description" : "US Chess Names Fred Abousleman as Executive DirectorUS Chess is pleased to announce the selection of Fred Abousleman as executive director. He was hired after an extensive nationwide search that saw 50 candidates interviewed by the US Chess Executive Board.\"The executive board is very excited to have Fred lead our operations team,\" said Kevin Pryor, president of the board. \"His organizational and leadership skills will enable him to hit the ground running, but his experience with developing donor pipelines is what we believe is our next level to achieve as a 501(c)3 corporation.\"Executive Board Vice President John Fernandez agrees: \"Fred's career spans nonprofit leadership, public service, a",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -584,22 +608,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-2025-world-rapid-blitz-pt-1",
          "pubDate" : "Wed, 07 Jan 2026 00:00:00",
          "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 1"
-      },
-      {
-         "description" : "GM Magnus Carlsen is off to a fast start in Titled Tuesday in 2026, winning the January 6 tournament with a 9.5/11 score. He came out ahead of second-place GM Vincent Keymer and third-place GM Jan-Krzysztof Duda on tiebreaks. Duda, Keymer, and Car...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-january-6-2026",
-         "pubDate" : "Tue, 06 Jan 2026 11:53:00",
-         "title" : "New Year, Same Dominance As Carlsen Wins Titled Tuesday"
-      },
-      {
-         "description" : "We&#38;rsquo;re excited to announce the first event of the 2026 Chess.com Community Championships. The 2026 Chess.com Puzzles Championship takes place on January 15 and 16, starting at 1 p.m. ET/19:00 CET, and features a $5,000 prize fund. The event w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-puzzles-championship-2026",
-         "pubDate" : "Tue, 06 Jan 2026 10:16:00",
-         "title" : "Join The Best Tacticians In The World In The 2026 Chess.com Puzzles Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126369961.cms\" />Kolkata has become a vibrant hub for world chess, hosting an elite rapid and blitz tournament with roots tracing back to a Dutch steel company's initiative in 1938. This annual spectacle, now in its seventh edition, showcases top international and Indian talent, fostering a strong sporting culture and engaging a passionate audience.",
