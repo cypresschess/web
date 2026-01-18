@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. Round one sees world champion Gukesh Dommaraju playing black against one of the four Candidates in the field, Javokhir Sindarov. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
+         "pubDate" : "Sun, 18 Jan 2026 13:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "The FIDE Commission for Women's Chess co-organised the inaugural Pia Cramling Cup in Stockholm, combining a new women's rapid tournament with a DGT Board Operator Certification Seminar during the Rilton Cup. Held in collaboration with Pia Cramling and the Stockholm Chess Federation, the event brought together players and professionals from several countries, highlighting both competitive opportunity and technical education as part of a broader effort to expand women's participation across all levels of chess. | Pictured: Pia Cramling and Anastasia Sorokina",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
