@@ -1,4 +1,7 @@
 jtable([
+"SUGAR LAND","2026-01-17","7","<a href=https://ratings.uschess.org/event/202601170723 target='_blank'>winter-01-17-2026</a>",
+"HOUSTON","2026-01-17","13","<a href=https://ratings.uschess.org/event/202601170333 target='_blank'>chesspanda01172026saturday</a>",
+"CYPRESS","2026-01-16","32","<a href=https://ratings.uschess.org/event/202601160313 target='_blank'>KNIGHTS OF CYPRESS (TX)</a>",
 "SPRING","2026-01-16","35","<a href=https://ratings.uschess.org/event/202601160233 target='_blank'>The Friday Knights</a>",
 "SUGAR LAND","2026-01-16","9","<a href=https://ratings.uschess.org/event/202601160203 target='_blank'>FBCC 2025 Appreciate a Dragon Day Open</a>",
 "SUGAR LAND","2026-01-11","23","<a href=https://ratings.uschess.org/event/202601110803 target='_blank'>Foundation Chess New Year Scholastic</a>",
@@ -96,7 +99,4 @@ jtable([
 "HOUSTON","2025-10-11","286","<a href=https://ratings.uschess.org/event/202510119722 target='_blank'>NATIONAL CHESS DAY AT EISENHOWER HS</a>",
 "HOUSTON","2025-10-11","11","<a href=https://ratings.uschess.org/event/202510117952 target='_blank'>CHESSPANDA10112025SATURDAY</a>",
 "HOUSTON","2025-10-10","10","<a href=https://ratings.uschess.org/event/202510107572 target='_blank'>OCT 11TH -- TROPHY SCHOLASTIC</a>",
-"HOUSTON","2025-10-10","14","<a href=https://ratings.uschess.org/event/202510107132 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2025-10-10","43","<a href=https://ratings.uschess.org/event/202510107122 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2025-10-07","16","<a href=https://ratings.uschess.org/event/202510075612 target='_blank'>THE CHESS REFINERY: SUPER BLITZ 2025</a>",
 ]);
