@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third edition of the Temuco International Chess Tournament brought together a strong international field in southern Chile for nine rounds of classical play. After six days of competition, Jos&eacute; \"Pepe\" Cuenca of Spain and Argentina's Diego Flores finished level on 7&frac12; points. Cuenca claimed the title on Sonneborn-Berger tiebreaks, having led the tournament early and maintained his advantage through consistent results. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/temuco-chess-tournament-2026-report",
+         "pubDate" : "Sun, 18 Jan 2026 20:00:00",
+         "title" : "Pepe Cuenca takes Temuco title ahead of Diego Flores"
+      },
+      {
          "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. Round one sees world champion Gukesh Dommaraju playing black against one of the four Candidates in the field, Javokhir Sindarov. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/pia-cramling-cup-2026-report",
          "pubDate" : "Sun, 18 Jan 2026 12:50:00",
          "title" : "Inaugural Pia Cramling Cup successfully held in Stockholm"
+      },
+      {
+         "description" : "GM Nodirbek Abdusattorov won a pawn and ground down GM Praggnanandhaa Rameshbabu in 60 moves to join GMs Hans Niemann and Arjun Erigaisi in the early 2026 Tata Steel Chess Masters lead on 1.5/2. The day&#39;s only other winner was GM Vladimir Fedoseev...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-2",
+         "pubDate" : "Sun, 18 Jan 2026 12:00:00",
+         "title" : "Abdusattorov Beats Praggnanandhaa; Lu Miaoyi Takes Sole Lead In Challengers"
+      },
+      {
+         "description" : "IM Levy Rozman explained that when he plays blitz, &#34;I get very creative and my brain reacts very fast.&#34; He demonstrated those abilities by defeating IM Julien Song 6-2&#38;nbsp;in the blitz portion of their match. Combined with Rozman&#39;s 8-6 match lead...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gotham-song-1-18-2026",
+         "pubDate" : "Sun, 18 Jan 2026 10:22:00",
+         "title" : "Rozman Defeats Song 14-8"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126640912.cms\" />Arjun Erigaisi secured a decisive victory over R Praggnanandhaa in the Tata Steel Masters' first round. World Champion D Gukesh drew his hard-fought match against Javokhir Sindarov. Hans Moke Niemann and Vincent Keymer also emerged as winners, sharing the early lead.",
@@ -584,22 +608,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-championship-2025-starts-in-monaco/",
          "pubDate" : "Wed, 07 Jan 2026 13:05:08",
          "title" : "European Women's Rapid and Blitz Chess Championship 2025 starts in Monaco"
-      },
-      {
-         "description" : "Freestyle Chess and FIDE have agreed to join forces to stage the FIDE Freestyle Chess World Championship, scheduled for February 13&#38;ndash;15, 2026, in Weissenhaus, Germany.&#38;nbsp; The surprise announcement was made on Wednesday, just over one mon...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/freestyle-chess-fide-world-championship-partnership-2026",
-         "pubDate" : "Wed, 07 Jan 2026 11:59:00",
-         "title" : "Freestyle Chess Partners With FIDE To Stage Official World Championship In February"
-      },
-      {
-         "description" : "GMs Viswanathan Anand and Hans Niemann lead 2026 Tata Steel Chess India with 2.5 points out of the first three games. Anand scored wins against GMs Wesley So&#38;nbsp;and Aravindh Chithambaram, while Niemann scored his against 2024 Rapid World Champio...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-india-day-1",
-         "pubDate" : "Wed, 07 Jan 2026 11:23:00",
-         "title" : "Anand, Niemann Lead Open; Yip Leads Women's"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126387825.cms\" />Viswanathan Anand returns to competitive Indian chess after a six-year hiatus at the Tata Steel Rapid and Blitz Chess India tournament. The five-time world champion faces a unique challenge as he competes against his own students, Arjun Erigaisi, R Praggnanandhaa, and Nihal Sarin, all products of his academy and in strong form.",
