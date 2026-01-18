@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase 26 is certainly the highlight among the November releases, but the other databases also offer a wealth of study material. There are many new options to explore, as well as in Harald Schneider-Zinner's checkmate course, which combines a book with an online course. Finally, there are also new installments of Karsten M&uuml;ller's Endgame Academy and Ivan Sokolov's middlegame strategy series. | All photos: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-december",
+         "pubDate" : "Sun, 18 Jan 2026 07:00:00",
+         "title" : "Review: All new releases in December!"
+      },
+      {
+         "description" : "Round one of the Tata Steel Chess Tournament in Wijk aan Zee began after an unusual delay provoked by protests outside the playing hall. In the Masters, decisive games followed uncharacteristic early blunders, with Hans Niemann, Vincent Keymer and Arjun Erigaisi all scoring with the white pieces. Later in the day, world champion Gukesh Dommaraju failed to make the most of a clear advantage, as Javokhir Sindarov narrowly escaped with a draw. | Photo: Tata Steel Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-1",
+         "pubDate" : "Sun, 18 Jan 2026 05:20:00",
+         "title" : "Tata Steel Chess: Keymer, Erigaisi and Niemann score in eventful first round"
+      },
+      {
          "description" : " There were three decisive games in the first round of the Tata Steel Masters, there could even have been a couple more. The first story was that the start to the tournament was delayed, climate protesters targeting Tata Steel drew attention to their heavy use of coal and the environmental damage it causes. The start of play was delayed for a couple of hours but perhaps this disruption caused early uncharacteristic blunders from a couple of the players. Hans Moke Niemann was still in theory when Vladimir Fedoseev miscalculated and he had to resign in 16 moves. Anish Giri played the inferior 21...Rb8 then just blundered a piece with 22...Bxd4 and also had to resign immediately. Arjun Erigaisi",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/goal-2026/",
          "pubDate" : "Sat, 17 Jan 2026 14:00:00",
          "title" : "My one goal for 2026"
-      },
-      {
-         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. Round one sees world champion Gukesh Dommaraju playing black against one of the four Candidates in the field, Javokhir Sindarov. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
-         "pubDate" : "Sat, 17 Jan 2026 13:45:00",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "In the years before the pandemic-years which already seem to belong to a vanished geological age-I wrote in the British Chess Magazine about the influence of two dominant figures in the intellectual life of chess, men whose importance rested as much on what they taught as on what they played. I return now to those figures, Wilhelm []",
