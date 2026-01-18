@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Commission for Women's Chess co-organised the inaugural Pia Cramling Cup in Stockholm, combining a new women's rapid tournament with a DGT Board Operator Certification Seminar during the Rilton Cup. Held in collaboration with Pia Cramling and the Stockholm Chess Federation, the event brought together players and professionals from several countries, highlighting both competitive opportunity and technical education as part of a broader effort to expand women's participation across all levels of chess. | Pictured: Pia Cramling and Anastasia Sorokina",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pia-cramling-cup-2026-report",
+         "pubDate" : "Sun, 18 Jan 2026 12:50:00",
+         "title" : "Inaugural Pia Cramling Cup successfully held in Stockholm"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126640912.cms\" />Arjun Erigaisi secured a decisive victory over R Praggnanandhaa in the Tata Steel Masters' first round. World Champion D Gukesh drew his hard-fought match against Javokhir Sindarov. Hans Moke Niemann and Vincent Keymer also emerged as winners, sharing the early lead.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-masters-arjun-erigaisi-beats-praggnanandhaa-gukesh-draws-with-sindarov/articleshow/126640912.cms",
+         "pubDate" : "Sun, 18 Jan 2026 09:23:26",
+         "title" : "Tata Steel Masters: Arjun Erigaisi beats Praggnanandhaa"
+      },
+      {
          "description" : "ChessBase 26 is certainly the highlight among the November releases, but the other databases also offer a wealth of study material. There are many new options to explore, as well as in Harald Schneider-Zinner's checkmate course, which combines a book with an online course. Finally, there are also new installments of Karsten M&uuml;ller's Endgame Academy and Ivan Sokolov's middlegame strategy series. | All photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/first-round-wins-for-niemann-keymer-and-erigaisi-following-delayed-start-for-the-tata-steel-masters-2026",
          "pubDate" : "Sat, 17 Jan 2026 23:40:00",
          "title" : "First round wins for Niemann, Keymer and Erigaisi following delayed start for the Tata Steel Masters 2026 - 1"
-      },
-      {
-         "description" : "Svitlana introduces the \"Fake Sveshnikov,\" an unconventional Sicilian where Black mimics familiar Sveshnikov structures but deliberately deviates with early &hellip;e5 and &hellip;Ne7 to sidestep typical pins and seize dynamic counterplay. The episode walks through White's main setups (Bg5, Be3, Bd3, c3, c4), showing recurring Black ideas like sacrificing a pawn, rapid development, dark-square pressure, and timely breaks with &hellip;f5 or &hellip;Nd4. The lesson emphasizes pattern recognition over memorization, illustrating how surprising plans and imbalances can lead to strong practical chances-even revealing that Sveshnikov himself once played this \"fake\" version.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-fake-sveshnikov-sicilian",
-         "pubDate" : "Sat, 17 Jan 2026 20:00:00",
-         "title" : "Svitlana's Smart Moves - The Fake Sveshnikov Sicilian"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126621455.cms\" />The Tata Steel Chess Tournament in Wijk aan Zee was briefly delayed after climate activists from Extinction Rebellion dumped 2,025 kg of coal at the venue, accusing sponsor Tata Steel of pollution and \"sportswashing.\" Protesters highlighted alleged carbon and lead emissions, while organisers defended the event's sporting and cultural value, urging respect and safety as the tournament resumed under heightened coordination with authorities.",
@@ -66,7 +74,7 @@ news_feed (
          "title" : "Royal game"
       },
       {
-         "description" : "World Cup winner GM Javokhir Sindarov pulled off a 78-move great escape against World Champion Gukesh Dommaraju to bring a dramatic first day of the 2026 Tata Steel Chess Masters to a close. The first moves were delayed 1.5 hours by an evironmenta...",
+         "description" : "World Cup winner GM Javokhir Sindarov pulled off a 78-move great escape against World Champion Gukesh Dommaraju to bring a dramatic first day of the 2026 Tata Steel Chess Masters to a close. The first moves were delayed 1.5 hours by an environment...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-1",
@@ -96,14 +104,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-of-odisha-open-the-16th-international-grandmasters-chess-festival-2025-26/",
          "pubDate" : "Sat, 17 Jan 2026 10:14:11",
          "title" : "Live link of ODISHA OPEN (THE 16TH INTERNATIONAL GRANDMASTERS CHESS FESTIVAL 2025-26"
-      },
-      {
-         "description" : "Gukesh, the World Chess Champion, endured a difficult 2025. Still, he produced a convincing win against Magnus Carlsen and finished tied for first at Tata Steel Chess, ultimately losing the blitz tiebreak to Praggnanandhaa. At the World Blitz Championship in Doha, he suffered a stunning upset against underdog Sergey Sklokin (2407), where an extraordinary endgame collapse saw Gukesh lose multiple pawns in succession.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-champion-loss-against-underdog-the-underdog",
-         "pubDate" : "Sat, 17 Jan 2026 07:00:00",
-         "title" : "World Champion loss against Underdog - The Underdog"
       },
       {
          "description" : " Expanded 30,000-Square-Foot Home Base Anchors a Global Slate of Events from the Chess Capital of the USA SAINT LOUIS, MO (Jan. 16, 2026) - The Saint Louis Chess Club announced today its highly anticipated 2026 tournament schedule, reinforcing its leadership role as the Chess Capital of the United States while continuing to expand its global [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-announces-highly-anticipated-2026-invitational-tournament-schedule/\">Saint Louis Chess Club Announces Highly Anticipated 2026 Invitational Tournament Schedule</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -650,14 +650,6 @@ news_feed (
          "title" : "Kolkata Rapid and Blitz chess: D Gukesh pulls out of year's first event"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126334660.cms\" />World champion D Gukesh has withdrawn from the 2026 Tata Steel Chess India tournament in Kolkata due to personal reasons and will be replaced by Nihal Sarin. The decision has disappointed fans and organisers, who called it a major setback. Despite his absence, the January 7 event will feature top Indian and international players in both Open and Women's sections.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/why-did-world-chess-champion-d-gukesh-pull-out-of-tata-steel-tournament-in-kolkata/articleshow/126334660.cms",
-         "pubDate" : "Sun, 04 Jan 2026 12:16:02",
-         "title" : "Why did Gukesh pull out of Tata Steel tournament in Kolkata?"
-      },
-      {
          "description" : "I'm constantly fascinated by the sheer power of our minds. That power leads to a lot of good, but also some things that go against us. Recently I wrote an article on how ratings are great, just our interpretations of them are not. Today, I want to expand on that and share a personal annecdote []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -784,14 +776,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-05-dec-29",
          "pubDate" : "Mon, 29 Dec 2025 09:00:00",
          "title" : "Christmas Puzzles 5 - Rotary problems"
-      },
-      {
-         "description" : "These days it is not easy to challenge anyone with problems or studies. Loading the PGN and clicking Start will usually get you the solution in seconds. So we are trying to provide you with \"computer resistant\" puzzles in this year's Christmas Puzzle Week. Today the subject is taking back a move in a given position and looking for a move to fulfil the condition. As in this 100-year-old problem by Thomas Dawson: it requires you to take back one move and then mate the opponent in two. Can you think how?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-04-dec-28",
-         "pubDate" : "Sun, 28 Dec 2025 09:00:00",
-         "title" : "Christmas Puzzles 4 - Retractors"
       }
    ]
 }
