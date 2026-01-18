@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-jan-17-2026",
-         "pubDate" : "Sat, 17 Jan 2026 15:20:34",
+         "pubDate" : "Sat, 17 Jan 2026 15:20:00",
          "title" : "Nakamura Chases Down Martinez, Completes Bullet Brawl Hat Trick"
       },
       {
