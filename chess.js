@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I was in a work-commute-collapse cycle and didn't know what to do. Then I began sampling activities I'd previously dismissed - book clubs, line dancing, chess - and it became oddly addictive For most of my life, I treated taste as fixed. There were things I liked and things I didn't, and that was that. Hobbies, foods and even social situations were quietly written off with the certainty of personal preference. But sticking to that sentiment had left me in a bit of a rut. When I moved to London, I threw myself into work: long hours, commuting and networking. In the process, I stopped making time for hobbies or trying anything new. <a href=\"https://www.theguardian.com/lifeandstyle/2026/jan/19",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/lifeandstyle/2026/jan/19/the-one-change-that-worked-hobbies-friendship-escape-book-clubs-chess",
+         "pubDate" : "Mon, 19 Jan 2026 11:00:22",
+         "title" : "The one change that worked: I tried all the hobbies I thought I'd hate - and found friendship and escape"
+      },
+      {
+         "description" : "All India Chess Federation is going to organize two days Online Arbiter Refresher Course for all IA's International Arbiters desirous to undergo the subject Refresher",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-arbiter-refresher-course-2026-2027/",
+         "pubDate" : "Mon, 19 Jan 2026 10:27:47",
+         "title" : "AICF ARBITER REFRESHER COURSE 2026-2027"
+      },
+      {
+         "description" : "A Senior National Arbiter Seminar &#38; Examination was organized by Gujarat State Chess Association, on behalf of All India Chess Federation at the GSC Bank",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-sna-seminar-exam-in-ahmedabad-on-02-03-january-2026/",
+         "pubDate" : "Mon, 19 Jan 2026 10:19:33",
+         "title" : "Final report of SNA Seminar & Exam in Ahmedabad on 02 & 03 January 2026"
+      },
+      {
          "description" : "The European Individual Chess Championship 2025 will be held from 6 April to 20 April 2026 in Katowice, Poland. The Championship will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game with an increment of 30 seconds for every move, starting from move one. The total prize fund of the Championship is 100.000 EUR, with 20.000 EUR reserved for the Winner of the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -682,22 +706,6 @@ news_feed (
          "title" : "New Year, New Challenges"
       },
       {
-         "description" : "Dear Sir/Madam, As per the proposal received from the AICF Arbiters' Commission, each International Arbiter and FIDE Arbiter will be provided with two shirts and two",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/submission-of-g-form-for-shirt-tie-for-ias-fas/",
-         "pubDate" : "Fri, 02 Jan 2026 15:41:18",
-         "title" : "Submission of G-Form for Shirt & Tie for IA's & FA's"
-      },
-      {
-         "description" : "Kindly find attached live games link for the&#160;16th&#160;Chennai Open International Grandmaster Chess Tournament 2025 for Sakthi Group Dr. N Mahalingam Trophy will be held at",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-16th-chennai-open-international-grandmaster-chess-tournament-2025-for-sakthi-group-dr-n-mahalingam-trophy/",
-         "pubDate" : "Fri, 02 Jan 2026 15:28:14",
-         "title" : "Live games link for 16th Chennai Open International Grandmaster Chess Tournament 2025 for Sakthi Group Dr. N Mahalingam Trophy"
-      },
-      {
          "description" : " The Norwegian, 35, overcame elite fields despite time forfeits after knocking over pieces in critical games The world No 1, Magnus Carlsen, recovered from a series of mishaps to win both the World Rapid and Blitz crowns at Doha, Qatar, last weekend. The global victories were the 19th and 20th of the Norwegian's illustrious career and may give him the edge in the longstanding debate on whether he, Garry Kasparov, or Bobby Fischer is chess's all-time greatest master. Peerless endgame technique was central to the 35-year-old Norwegian's blitz success. He won a knight ending with Black <a href=\"https://www.chessgames.com/perl/chessgame?gid=3037188\">against Nodirbek Abdusattorov</a> from a posit",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/47416992/athlete-year-divya-deshmukh-does-not-stop-winning-stellar-2025",
          "pubDate" : "Tue, 30 Dec 2025 00:05:20",
          "title" : "Athlete of the Year: Divya Deshmukh does not stop winning in stellar 2025"
-      },
-      {
-         "description" : "In rotary problems the board is rotated by 180 ° for a second position with a different solution. It is usually pawns that make a different when you turn the board around. Or the king/queen positions, or castling is involved. Can one devise problems where these factors do not play a role? Yes one can, as our expert for out-of-the-box problems, Werner Keym, proves.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-05-dec-29",
-         "pubDate" : "Mon, 29 Dec 2025 09:00:00",
-         "title" : "Christmas Puzzles 5 - Rotary problems"
       }
    ]
 }
