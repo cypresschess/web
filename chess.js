@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The streamer match between IM Levy Rozman and IM Julien Song in Madrid opened with two draws in the classical games. In rapid and blitz, however, Rozman, known as Gotham Chess, clearly took control: he won two of the four rapid games, drew one and lost one, then scored six wins in the blitz while Song managed only two. Under the tournament's scoring system, the final score was 14-8. | Photos: David Martinez/Chess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rozman-defeats-song-14-8",
+         "pubDate" : "Mon, 19 Jan 2026 20:00:00",
+         "title" : "Rozman defeats Song 14-8"
+      },
+      {
          "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. After two rounds, Arjun Erigaisi, Nodirbek Abdusattorov and Hans Niemann are sharing the lead with 1&frac12; points each. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
          "pubDate" : "Mon, 19 Jan 2026 13:45:00",
          "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "It was the day of the underdog in Wijk aan Zee as Dutch number two GM Jorden van Foreest beat Dutch number one GM Anish Giri and German number two Matthias Bluebaum did the same to German number one GM Vincent Keymer. The winners caught GMs Nodirb...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-3",
+         "pubDate" : "Mon, 19 Jan 2026 12:01:09",
+         "title" : "Van Foreest, Bluebaum Beat Giri, Keymer To Join 5-Way Tie For Lead"
       },
       {
          "description" : " I was in a work-commute-collapse cycle and didn't know what to do. Then I began sampling activities I'd previously dismissed - book clubs, line dancing, chess - and it became oddly addictive For most of my life, I treated taste as fixed. There were things I liked and things I didn't, and that was that. Hobbies, foods and even social situations were quietly written off with the certainty of personal preference. But sticking to that sentiment had left me in a bit of a rut. When I moved to London, I threw myself into work: long hours, commuting and networking. In the process, I stopped making time for hobbies or trying anything new. <a href=\"https://www.theguardian.com/lifeandstyle/2026/jan/19",
@@ -528,14 +544,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-ranchijharkhand-on-21-22-feb-2026/",
          "pubDate" : "Fri, 09 Jan 2026 10:25:30",
          "title" : "SNA Seminar & Exam in Ranchi,Jharkhand on 21 & 22 Feb 2026"
-      },
-      {
-         "description" : "On January 7, FIDE and Freestyle Chess announced the first FIDE Freestyle Chess World Championship, taking place at Weissenhaus, Germany, from February 13-15. Now, Chess.com is hosting the qualifier that determines the remaining player who will co...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/join-the-fide-freestyle-chess-world-championship-play-in",
-         "pubDate" : "Fri, 09 Jan 2026 09:30:00",
-         "title" : "Announcing The FIDE Freestyle Chess World Championship Play-In"
       },
       {
          "description" : "Nihal won on Friday evening, after the passing of his maternal grandfather - who had taught him the sport - on Thursday night.",
