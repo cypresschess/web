@@ -2,36 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Individual Chess Championship 2025 will be held from 6 April to 20 April 2026 in Katowice, Poland. The Championship will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game with an increment of 30 seconds for every move, starting from move one. The total prize fund of the Championship is 100.000 EUR, with 20.000 EUR reserved for the Winner of the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-individual-chess-championship-2026-official-invitation/",
+         "pubDate" : "Mon, 19 Jan 2026 08:20:19",
+         "title" : "European Individual Chess Championship 2026 - Official invitation"
+      },
+      {
+         "description" : "Round two of the Tata Steel Chess Tournament produced two decisive games in the Masters, with Nodirbek Abdusattorov (pictured) and Vladimir Fedoseev both scoring with the white peices. Abdusattorov now shares the lead on 1&frac12; points with Hans Niemann and Arjun Erigaisi. In the Challengers, Lu Miaoyi emerged as the sole leader on 2/2, while Faustino Oro added a notable win against a 2600-rated GM. | Photo: Tata Steel Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-2",
+         "pubDate" : "Mon, 19 Jan 2026 06:25:00",
+         "title" : "Tata Steel Chess: Abdusattorov beats Pragg, Fedoseev takes down Keymer"
+      },
+      {
          "description" : " There is a three way tie for first place on 1.5 points between Hans Moke Niemann, Arjun Erigaisi and Nodirbek Abdusattorov after two rounds of the Tata Steel tournament. Round 1 leader Niemann drew quickly against Matthias Bluebaum and Erigaisi drew against Thai Dai Van Nguyen but the third winner from round 1, Vincent Keymer, went down to defeat against Vladimir Fedoseev, he in turn must be very relieved to put his mortifying disaster from round 1 behind him. Nodirbek Abdusattorov joined the leaders after defeating Praggnanandhaa who wasn't in good form in the latter half of 2025 and will not be wanting a disaster ahead of the Candidates. There were draws in the games Yagiz Kaan Erdogmus v",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-and-fedoseev-winners-in-tata-steel-round-2",
          "pubDate" : "Sun, 18 Jan 2026 22:27:00",
          "title" : "Abdusattorov and Fedoseev winners in Tata Steel Round 2 - 2"
-      },
-      {
-         "description" : "The third edition of the Temuco International Chess Tournament brought together a strong international field in southern Chile for nine rounds of classical play. After six days of competition, Jos&eacute; \"Pepe\" Cuenca of Spain and Argentina's Diego Flores finished level on 7&frac12; points. Cuenca claimed the title on Sonneborn-Berger tiebreaks, having led the tournament early and maintained his advantage through consistent results. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/temuco-chess-tournament-2026-report",
-         "pubDate" : "Sun, 18 Jan 2026 20:00:00",
-         "title" : "Pepe Cuenca takes Temuco title ahead of Diego Flores"
-      },
-      {
-         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. Round one sees world champion Gukesh Dommaraju playing black against one of the four Candidates in the field, Javokhir Sindarov. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
-         "pubDate" : "Sun, 18 Jan 2026 13:45:00",
-         "title" : "Tata Steel Chess - Live!"
-      },
-      {
-         "description" : "The FIDE Commission for Women's Chess co-organised the inaugural Pia Cramling Cup in Stockholm, combining a new women's rapid tournament with a DGT Board Operator Certification Seminar during the Rilton Cup. Held in collaboration with Pia Cramling and the Stockholm Chess Federation, the event brought together players and professionals from several countries, highlighting both competitive opportunity and technical education as part of a broader effort to expand women's participation across all levels of chess. | Pictured: Pia Cramling and Anastasia Sorokina",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pia-cramling-cup-2026-report",
-         "pubDate" : "Sun, 18 Jan 2026 12:50:00",
-         "title" : "Inaugural Pia Cramling Cup successfully held in Stockholm"
       },
       {
          "description" : "GM Nodirbek Abdusattorov won a pawn and ground down GM Praggnanandhaa Rameshbabu in 60 moves to join GMs Hans Niemann and Arjun Erigaisi in the early 2026 Tata Steel Chess Masters lead on 1.5/2. The day&#39;s only other winner was GM Vladimir Fedoseev...",
@@ -64,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/review-all-new-releases-in-december",
          "pubDate" : "Sun, 18 Jan 2026 07:00:00",
          "title" : "Review: All new releases in December!"
-      },
-      {
-         "description" : "Round one of the Tata Steel Chess Tournament in Wijk aan Zee began after an unusual delay provoked by protests outside the playing hall. In the Masters, decisive games followed uncharacteristic early blunders, with Hans Niemann, Vincent Keymer and Arjun Erigaisi all scoring with the white pieces. Later in the day, world champion Gukesh Dommaraju failed to make the most of a clear advantage, as Javokhir Sindarov narrowly escaped with a draw. | Photo: Tata Steel Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-1",
-         "pubDate" : "Sun, 18 Jan 2026 05:20:00",
-         "title" : "Tata Steel Chess: Keymer, Erigaisi and Niemann score in eventful first round"
       },
       {
          "description" : " There were three decisive games in the first round of the Tata Steel Masters, there could even have been a couple more. The first story was that the start to the tournament was delayed, climate protesters targeting Tata Steel drew attention to their heavy use of coal and the environmental damage it causes. The start of play was delayed for a couple of hours but perhaps this disruption caused early uncharacteristic blunders from a couple of the players. Hans Moke Niemann was still in theory when Vladimir Fedoseev miscalculated and he had to resign in 16 moves. Anish Giri played the inferior 21...Rb8 then just blundered a piece with 22...Bxd4 and also had to resign immediately. Arjun Erigaisi",
