@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. After two rounds, Arjun Erigaisi, Nodirbek Abdusattorov and Hans Niemann are sharing the lead with 1&frac12; points each. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
+         "pubDate" : "Mon, 19 Jan 2026 13:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : " I was in a work-commute-collapse cycle and didn't know what to do. Then I began sampling activities I'd previously dismissed - book clubs, line dancing, chess - and it became oddly addictive For most of my life, I treated taste as fixed. There were things I liked and things I didn't, and that was that. Hobbies, foods and even social situations were quietly written off with the certainty of personal preference. But sticking to that sentiment had left me in a bit of a rut. When I moved to London, I threw myself into work: long hours, commuting and networking. In the process, I stopped making time for hobbies or trying anything new. <a href=\"https://www.theguardian.com/lifeandstyle/2026/jan/19",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-2",
          "pubDate" : "Mon, 19 Jan 2026 06:25:00",
          "title" : "Tata Steel Chess: Abdusattorov beats Pragg, Fedoseev takes down Keymer"
+      },
+      {
+         "description" : "Norway Chess, one of the world&#38;rsquo;s most prestigious chess tournaments, will enter a new era in 2026, relocating from Stavanger to Oslo after 13 consecutive years on Norway&#39;s west coast. Meanwhile, GMs Magnus Carlsen and Bibisara Assaubayeva ha...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/norway-chess-changes-location-carlsen-confirmed",
+         "pubDate" : "Mon, 19 Jan 2026 05:22:00",
+         "title" : "Norway Chess Moves To Oslo After 13 Years, Magnus Carlsen Confirmed"
       },
       {
          "description" : " There is a three way tie for first place on 1.5 points between Hans Moke Niemann, Arjun Erigaisi and Nodirbek Abdusattorov after two rounds of the Tata Steel tournament. Round 1 leader Niemann drew quickly against Matthias Bluebaum and Erigaisi drew against Thai Dai Van Nguyen but the third winner from round 1, Vincent Keymer, went down to defeat against Vladimir Fedoseev, he in turn must be very relieved to put his mortifying disaster from round 1 behind him. Nodirbek Abdusattorov joined the leaders after defeating Praggnanandhaa who wasn't in good form in the latter half of 2025 and will not be wanting a disaster ahead of the Candidates. There were draws in the games Yagiz Kaan Erdogmus v",
@@ -576,14 +592,6 @@ news_feed (
          "link" : "https://aicf.in/expression-of-interest-for-aicf-coach-in-various-events-and-camps-2026-27/",
          "pubDate" : "Thu, 08 Jan 2026 11:56:33",
          "title" : "Expression of Interest for AICF Coach in Various Events and Camps 2026-27"
-      },
-      {
-         "description" : "GMs Viswanathan Anand and Nihal Sarin ended day two of 2026 Tata Steel Chess India in the shared lead with 4.5 points out of six games. Anand lost his first game against GM Arjun Erigaisi but bounced back with two wins, while Nihal won all three o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-india-day-2",
-         "pubDate" : "Thu, 08 Jan 2026 11:17:00",
-         "title" : "Anand Bounces Back, Leads With Nihal; Lagno Takes Over In Women's"
       },
       {
          "description" : "On behalf of All India Chess Federation , Punjab State State Chess Association is organizing Senior National Arbiter Seminar &#38; exam at Amity University ,Sector 82 ,Airport",
