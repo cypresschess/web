@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " There is a three way tie for first place on 1.5 points between Hans Moke Niemann, Arjun Erigaisi and Nodirbek Abdusattorov after two rounds of the Tata Steel tournament. Round 1 leader Niemann drew quickly against Matthias Bluebaum and Erigaisi drew against Thai Dai Van Nguyen but the third winner from round 1, Vincent Keymer, went down to defeat against Vladimir Fedoseev, he in turn must be very relieved to put his mortifying disaster from round 1 behind him. Nodirbek Abdusattorov joined the leaders after defeating Praggnanandhaa who wasn't in good form in the latter half of 2025 and will not be wanting a disaster ahead of the Candidates. There were draws in the games Yagiz Kaan Erdogmus v",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-and-fedoseev-winners-in-tata-steel-round-2",
+         "pubDate" : "Sun, 18 Jan 2026 22:27:00",
+         "title" : "Abdusattorov and Fedoseev winners in Tata Steel Round 2 - 2"
+      },
+      {
          "description" : "The third edition of the Temuco International Chess Tournament brought together a strong international field in southern Chile for nine rounds of classical play. After six days of competition, Jos&eacute; \"Pepe\" Cuenca of Spain and Argentina's Diego Flores finished level on 7&frac12; points. Cuenca claimed the title on Sonneborn-Berger tiebreaks, having led the tournament early and maintained his advantage through consistent results. | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
