@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. After three rounds, five players share the lead with 2/3 points in the Masters, while Aydin Suleymanli is the sole leader in the Challengers. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
+         "pubDate" : "Tue, 20 Jan 2026 13:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126802444.cms\" />Indian GM R Praggnanandhaa has confirmed his third appearance at Norway Chess, becoming the second announced participant after Magnus Carlsen. The 2026 Candidates qualifier and world No. 4 previously won the event in 2022 and defeated Carlsen in 2024. Organisers praised his consistency and ambition, while hopes remain for D Gukesh and Arjun Erigaisi to join the field.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/not-d-gukesh-or-arjun-erigaisi-after-magnus-carlsen-indian-grandmaster-confirmed-for-norway-chess-2026/articleshow/126802444.cms",
+         "pubDate" : "Tue, 20 Jan 2026 13:34:19",
+         "title" : "Not Gukesh or Erigaisi! After Carlsen, Indian GM confirmed for Norway Chess"
+      },
+      {
+         "description" : "Under 09 &#38; Under 07 will be published soon . U11 Open &#160;U11 Girls Rank Name Rank Name 1 Dhyaan Patel 1 Yakshini P 2",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-14th-national-school-chess-championship-2025-in-guwahati-from-27-31-dec-2025/",
+         "pubDate" : "Tue, 20 Jan 2026 12:27:37",
+         "title" : "Certificate of 14th NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025 in Guwahati from 27-31 Dec 2025"
+      },
+      {
          "description" : "On 20 January 1999, Garry Kasparov played what may have been the greatest chess game of all time in Wijk. With a series of sacrifices he drove the black king onto the back rank, where he finally delivered checkmate. In a free reader, Robert Ris presents Kasparov's masterpiece and other brilliancies from Wijk aan Zee.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,36 +50,12 @@ news_feed (
          "title" : "European Women's Chess Trophy 2025 - Winners"
       },
       {
-         "description" : "Round three of the Tata Steel Chess tournament brought notable shifts in the standings. In the Masters, Matthias Bluebaum defeated Vincent Keymer in an all-German battle, while Jorden van Foreest overcame Anish Giri in the all-Dutch derby. Both Bluebaum and Van Foreest joined the leading group on 2/3. In the Challengers, Aydin Suleymanli moved into sole first place after beating Eline Roebers with the black pieces. | Photo: Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-3",
-         "pubDate" : "Tue, 20 Jan 2026 06:05:00",
-         "title" : "Tata Steel Chess: Van Foreest and Bluebaum upset compatriots, join leading group"
-      },
-      {
          "description" : " Five players lead the Tata Steel Chess tournament with a win and two draws after three rounds. Today two new players scored wins to join the leaders, Jorden Van Foreest against a desperately out of form Anish Giri and Matthias Bluebaum over Vincent Keymer who also has lost his second game of the event. Hans Moke Niemann, Nodirbek Abdusattorov and Arjun Erigaisi also have 2/3 after draws today. Praggnanandhaa got off the mark with a draw against Thai Dai Van Nguyen. Popular favourite Vasyl Ivanchuk won his first game in the Challengers, but had to navigate playing his 40th move with only one second on the clock. Aydin Suleymanli leads that event with 2.5/3 after Miaoyi Lu lost her perfect sc",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/bluebaum-and-van-foreest-win-their-first-games-and-join-the-leaders-of-tata-steel-on-23",
          "pubDate" : "Tue, 20 Jan 2026 00:51:00",
          "title" : "Bluebaum and Van Foreest win their first games and join the leaders of Tata Steel on 2/3 - 3"
-      },
-      {
-         "description" : "At first glance, the Andranik Margaryan Memorial, held from 9 to 16 January in Armenia, did not appear particularly historic. Three GMs, six IMs and one FM took part, and with a rating of 2514 the Russian IM Vladislav Nozdrachev was the top seed. In the end, however, it was the 21-year-old Indian Aaryan Varshney who emerged victorious, becoming India's 92nd grandmaster with this success. His story shows how modern computers, software and databases can help to win titles and celebrate success in chess - even without a trainer or support from federations. | Photo: Chess Academy of Armenia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aaryan-varshney-grandmaster-without-a-trainer",
-         "pubDate" : "Mon, 19 Jan 2026 22:00:00",
-         "title" : "Aaryan Varshney: Grandmaster without a trainer"
-      },
-      {
-         "description" : "The streamer match between IM Levy Rozman and IM Julien Song in Madrid opened with two draws in the classical games. In rapid and blitz, however, Rozman, known as Gotham Chess, clearly took control: he won two of the four rapid games, drew one and lost one, then scored six wins in the blitz while Song managed only two. Under the tournament's scoring system, the final score was 14-8. | Photos: David Martinez/Chess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rozman-defeats-song-14-8",
-         "pubDate" : "Mon, 19 Jan 2026 20:00:00",
-         "title" : "Rozman defeats Song 14-8"
       },
       {
          "description" : "It was the day of the underdog in Wijk aan Zee as Dutch number-two GM Jorden van Foreest beat Dutch number-one GM Anish Giri and German number-two Matthias Bluebaum did the same to German number-one GM Vincent Keymer. The winners caught GMs Nodirb...",
@@ -562,14 +562,6 @@ news_feed (
          "title" : "Persistent Bortnyk Takes Freestyle Friday"
       },
       {
-         "description" : "GM&#38;nbsp;Nihal Sarin won the 2026 Tata Steel Chess India Open Rapid tournament with 6.5 points out of nine games on Friday. It&#39;s his second time winning the tournament, the first being in 2022, and he earns $10,000. He dedicated his victory to his ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nihal-lagno-win-2026-tata-steel-chess-india-rapid",
-         "pubDate" : "Fri, 09 Jan 2026 11:05:00",
-         "title" : "Nihal, Lagno Win 2026 Rapid Titles In Kolkata"
-      },
-      {
          "description" : "On behalf of All India Chess Federation , All Jharkhand Chess Association is organizing Senior National Arbiter Seminar &#38; exam SARALA BIRLA UNIVERSITY in Mahilong ,Ranchi. ",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -632,14 +624,6 @@ news_feed (
          "link" : "https://aicf.in/expression-of-interest-for-aicf-coach-in-various-events-and-camps-2026-27/",
          "pubDate" : "Thu, 08 Jan 2026 11:56:33",
          "title" : "Expression of Interest for AICF Coach in Various Events and Camps 2026-27"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation , Punjab State State Chess Association is organizing Senior National Arbiter Seminar &#38; exam at Amity University ,Sector 82 ,Airport",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-exam-in-mohali-on-31-jan-01-feb-2026/",
-         "pubDate" : "Thu, 08 Jan 2026 11:12:04",
-         "title" : "SNA Seminar & Exam in Mohali ,Punjab on 31 Jan & 01 Feb 2026"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126412065.cms\" />FIDE and Freestyle Chess ended a long-running dispute over world championship authority by agreeing to stage the first official FIDE Freestyle Chess World Championship. The conflict began in late 2024 over title rights, sparking public clashes and player concerns. A renewed dialogue in 2025 led to reconciliation, aligning Freestyle's tour with FIDE governance and creating a unified championship framework.",
@@ -722,14 +706,6 @@ news_feed (
          "title" : "GCL: Coaching 3 Candidates in one team; Thipsay's masterclass behind SG Pipers' title"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126345064.cms\" />Young chess prodigy D Gukesh has withdrawn from the Kolkata Rapid and Blitz chess tournament due to personal reasons. While Nihal Sarin has been named as his replacement, Gukesh's absence is a significant blow to the event, which was anticipated to feature a clash between Viswanathan Anand and the reigning World Champion.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-pulls-out-of-years-first-event-in-kolkata/articleshow/126345064.cms",
-         "pubDate" : "Mon, 05 Jan 2026 05:18:11",
-         "title" : "Kolkata Rapid and Blitz chess: D Gukesh pulls out of year's first event"
-      },
-      {
          "description" : "I'm constantly fascinated by the sheer power of our minds. That power leads to a lot of good, but also some things that go against us. Recently I wrote an article on how ratings are great, just our interpretations of them are not. Today, I want to expand on that and share a personal annecdote []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -800,14 +776,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/dec/30/magnus-carlsen-ninth-blitz-world-title-rapid-double",
          "pubDate" : "Tue, 30 Dec 2025 20:38:47",
          "title" : "Magnus Carlsen completes rapid-blitz double with ninth world blitz title"
-      },
-      {
-         "description" : "Arjun Erigaisi became only the second Indian to win medals at both the world rapid and blitz championships in the same year",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/47453876/arjun-erigaisi-fide-world-rapid-blitz-medals-decisive-win-end-tough-year",
-         "pubDate" : "Tue, 30 Dec 2025 12:42:30",
-         "title" : "Arjun Erigaisi's World Rapid & Blitz medals are decisive wins to end tough year"
       }
    ]
 }
