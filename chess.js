@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At first glance, the Andranik Margaryan Memorial, held from 9 to 16 January in Armenia, did not appear particularly historic. Three GMs, six IMs and one FM took part, and with a rating of 2514 the Russian IM Vladislav Nozdrachev was the top seed. In the end, however, it was the 21-year-old Indian Aaryan Varshney who emerged victorious, becoming India's 92nd grandmaster with this success. His story shows how modern computers, software and databases can help to win titles and celebrate success in chess - even without a trainer or support from federations. | Photo: Chess Academy of Armenia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aaryan-varshney-grandmaster-without-a-trainer",
+         "pubDate" : "Mon, 19 Jan 2026 22:00:00",
+         "title" : "Aaryan Varshney: Grandmaster without a trainer"
+      },
+      {
          "description" : "The streamer match between IM Levy Rozman and IM Julien Song in Madrid opened with two draws in the classical games. In rapid and blitz, however, Rozman, known as Gotham Chess, clearly took control: he won two of the four rapid games, drew one and lost one, then scored six wins in the blitz while Song managed only two. Under the tournament's scoring system, the final score was 14-8. | Photos: David Martinez/Chess.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,11 +26,11 @@ news_feed (
          "title" : "Tata Steel Chess - Live!"
       },
       {
-         "description" : "It was the day of the underdog in Wijk aan Zee as Dutch number two GM Jorden van Foreest beat Dutch number one GM Anish Giri and German number two Matthias Bluebaum did the same to German number one GM Vincent Keymer. The winners caught GMs Nodirb...",
+         "description" : "It was the day of the underdog in Wijk aan Zee as Dutch number-two GM Jorden van Foreest beat Dutch number-one GM Anish Giri and German number-two Matthias Bluebaum did the same to German number-one GM Vincent Keymer. The winners caught GMs Nodirb...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-3",
-         "pubDate" : "Mon, 19 Jan 2026 12:01:09",
+         "pubDate" : "Mon, 19 Jan 2026 12:01:00",
          "title" : "Van Foreest, Bluebaum Beat Giri, Keymer To Join 5-Way Tie For Lead"
       },
       {
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-individual-chess-championship-2026-official-invitation/",
          "pubDate" : "Mon, 19 Jan 2026 08:20:19",
          "title" : "European Individual Chess Championship 2026 - Official invitation"
-      },
-      {
-         "description" : "Round two of the Tata Steel Chess Tournament produced two decisive games in the Masters, with Nodirbek Abdusattorov (pictured) and Vladimir Fedoseev both scoring with the white peices. Abdusattorov now shares the lead on 1&frac12; points with Hans Niemann and Arjun Erigaisi. In the Challengers, Lu Miaoyi emerged as the sole leader on 2/2, while Faustino Oro added a notable win against a 2600-rated GM. | Photo: Tata Steel Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-2",
-         "pubDate" : "Mon, 19 Jan 2026 06:25:00",
-         "title" : "Tata Steel Chess: Abdusattorov beats Pragg, Fedoseev takes down Keymer"
       },
       {
          "description" : "Norway Chess, one of the world&#38;rsquo;s most prestigious chess tournaments, will enter a new era in 2026, relocating from Stavanger to Oslo after 13 consecutive years on Norway&#39;s west coast. Meanwhile, GMs Magnus Carlsen and Bibisara Assaubayeva ha...",
@@ -792,14 +792,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-06-dec-30",
          "pubDate" : "Tue, 30 Dec 2025 09:00:00",
          "title" : "Christmas Puzzles 6 - cover the board!"
-      },
-      {
-         "description" : "ESPN India's Athlete of the year is Divya Deshmukh, who just didn't stop winning in 2025.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/47416992/athlete-year-divya-deshmukh-does-not-stop-winning-stellar-2025",
-         "pubDate" : "Tue, 30 Dec 2025 00:05:20",
-         "title" : "Athlete of the Year: Divya Deshmukh does not stop winning in stellar 2025"
       }
    ]
 }
