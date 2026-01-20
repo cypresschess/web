@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Five players lead the Tata Steel Chess tournament with a win and two draws after three rounds. Today two new players scored wins to join the leaders, Jorden Van Foreest against a desperately out of form Anish Giri and Matthias Bluebaum over Vincent Keymer who also has lost his second game of the event. Hans Moke Niemann, Nodirbek Abdusattorov and Arjun Erigaisi also have 2/3 after draws today. Praggnanandhaa got off the mark with a draw against Thai Dai Van Nguyen. Popular favourite Vasyl Ivanchuk won his first game in the Challengers, but had to navigate playing his 40th move with only one second on the clock. Aydin Suleymanli leads that event with 2.5/3 after Miaoyi Lu lost her perfect sc",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/bluebaum-and-van-foreest-win-their-first-games-and-join-the-leaders-of-tata-steel-on-23",
+         "pubDate" : "Tue, 20 Jan 2026 00:51:00",
+         "title" : "Bluebaum and Van Foreest win their first games and join the leaders of Tata Steel on 2/3 - 3"
+      },
+      {
          "description" : "At first glance, the Andranik Margaryan Memorial, held from 9 to 16 January in Armenia, did not appear particularly historic. Three GMs, six IMs and one FM took part, and with a rating of 2514 the Russian IM Vladislav Nozdrachev was the top seed. In the end, however, it was the 21-year-old Indian Aaryan Varshney who emerged victorious, becoming India's 92nd grandmaster with this success. His story shows how modern computers, software and databases can help to win titles and celebrate success in chess - even without a trainer or support from federations. | Photo: Chess Academy of Armenia",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
