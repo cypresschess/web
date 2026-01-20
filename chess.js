@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Norway Chess will enter a new chapter in 2026 as the tournament moves from Stavanger to Oslo after thirteen editions. From 25 May to 5 June, both Norway Chess and Norway Chess Women will be staged at Deichman Bj&oslash;rvika Public Library, bringing the event to the country's capital for the first time. Magnus Carlsen has already confirmed his participation, with further players to be announced. | Photo: Norway Chess / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2026-venue",
+         "pubDate" : "Tue, 20 Jan 2026 20:00:00",
+         "title" : "Norway Chess announces move to Oslo for 2026 edition"
+      },
+      {
          "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. After three rounds, five players share the lead with 2/3 points in the Masters, while Aydin Suleymanli is the sole leader in the Challengers. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +34,28 @@ news_feed (
          "title" : "Certificate of 14th NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025 in Guwahati from 27-31 Dec 2025"
       },
       {
+         "description" : "GM Hans Niemann scored a brilliant win over GM Aravindh Chithambaram&#38;nbsp;to join GM Nodirbek Abdusattorov in the lead of the 2026 Tata Steel Chess Masters on three points out of four. Abdusattorov was the first player to beat GM Thai Dai Van Nguy...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-4",
+         "pubDate" : "Tue, 20 Jan 2026 12:02:01",
+         "title" : "Niemann Sacs Queen To Lead Tata Steel Chess With Abdusattorov"
+      },
+      {
          "description" : "On 20 January 1999, Garry Kasparov played what may have been the greatest chess game of all time in Wijk. With a series of sacrifices he drove the black king onto the back rank, where he finally delivered checkmate. In a free reader, Robert Ris presents Kasparov's masterpiece and other brilliancies from Wijk aan Zee.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/27-years-ago-in-wijk",
          "pubDate" : "Tue, 20 Jan 2026 12:00:00",
          "title" : "27 Years Ago, in Wijk"
+      },
+      {
+         "description" : "GM Magnus Carlsen needed a few rounds to get himself going in Titled Tuesday on January 20, but still ended up scoring 9.5/11 and winning the tournament outright. He has now won two of the three Titled Tuesdays of 2026 so far and his fourth of the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-january-20-2026",
+         "pubDate" : "Tue, 20 Jan 2026 11:30:41",
+         "title" : "Carlsen Wins Thriller Over Nihal, Takes Another Titled Tuesday"
       },
       {
          "description" : "The year 2025 is a significant one for the chess community in Malaysia as the country finally achieved its long-drawn-out dream of having its first grandmaster. IM Yeoh Li Tian achieved his third and final GM norm to finally complete the dream outlined by the late Malaysian chess philanthropist, Dato' Tan Chin Nam. The Malaysian Prime Minister called to congratulate the newly-minted GM right after his historic achievement.",
@@ -56,6 +80,22 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/bluebaum-and-van-foreest-win-their-first-games-and-join-the-leaders-of-tata-steel-on-23",
          "pubDate" : "Tue, 20 Jan 2026 00:51:00",
          "title" : "Bluebaum and Van Foreest win their first games and join the leaders of Tata Steel on 2/3 - 3"
+      },
+      {
+         "description" : "US Chess announced the launch of the new Member Uploads, Information, and Reporting (MUIR) system last fall to replace the separate Member Services Area (MSA) and Tournament Director and Affiliate Area (TD/A). This is part of our ongoing plan to modernize our digital infrastructure. MUIR is an entirely new platform that supports data uploads, rating reports, and member information management in one integrated system. Its potential is great, and we look forward to realizing it together. Both US Chess and Leago have spent hundreds of hours in testing and preparation, but as with any system overhaul of this size, unexpected issues were bound to arise after launch. User feedback has been invalua",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/january-muir-report",
+         "pubDate" : "Tue, 20 Jan 2026 00:00:00",
+         "title" : "The January MUIR Report "
+      },
+      {
+         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, including some brain-teasers in our Wednesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-world-rapid-blitz-pt-3",
+         "pubDate" : "Tue, 20 Jan 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2025 World Rapid & Blitz, Pt. 3"
       },
       {
          "description" : "It was the day of the underdog in Wijk aan Zee as Dutch number-two GM Jorden van Foreest beat Dutch number-one GM Anish Giri and German number-two Matthias Bluebaum did the same to German number-one GM Vincent Keymer. The winners caught GMs Nodirb...",
@@ -546,22 +586,6 @@ news_feed (
          "title" : "Tata Steel Chess: Nihal Sarin holds firm, pips Viswanathan Anand for title"
       },
       {
-         "description" : "GMs Denis Lazavik, Alexey Sarana, and Oleksandr Bortnyk won the three 3 0 Thursday tournaments on January 8. It was Bortnyk&#39;s first victory in the event, while the other GMs took their second title. IM Anna Sargsyan won the women&#39;s prizes in the f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lazavik-sarana-bortnyk-3-0-thursday-1-8-2026",
-         "pubDate" : "Fri, 09 Jan 2026 18:15:20",
-         "title" : "Lazavik, Sarana, Bortnyk Win 3 0 Thursday Tournaments"
-      },
-      {
-         "description" : "GM Oleksandr Bortnyk is your Freestyle Friday winner on January 9, after he recovered from a loss in round three by never losing again. It was Bortnyk&#39;s sixth win of the tournament, more than anyone besides GM Hikaru Nakamura. Bortnyk still needed...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-january-9-2026",
-         "pubDate" : "Fri, 09 Jan 2026 11:13:25",
-         "title" : "Persistent Bortnyk Takes Freestyle Friday"
-      },
-      {
          "description" : "On behalf of All India Chess Federation , All Jharkhand Chess Association is organizing Senior National Arbiter Seminar &#38; exam SARALA BIRLA UNIVERSITY in Mahilong ,Ranchi. ",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -674,28 +698,12 @@ news_feed (
          "title" : "US Chess Names Fred Abousleman as Executive Director"
       },
       {
-         "description" : "This week's puzzles begin a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out the start of our Tactics Tuesday series with more beginner-friendly puzzles here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2025-world-rapid-blitz-pt-1",
-         "pubDate" : "Wed, 07 Jan 2026 00:00:00",
-         "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 1"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126369961.cms\" />Kolkata has become a vibrant hub for world chess, hosting an elite rapid and blitz tournament with roots tracing back to a Dutch steel company's initiative in 1938. This annual spectacle, now in its seventh edition, showcases top international and Indian talent, fostering a strong sporting culture and engaging a passionate audience.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/how-a-pre-world-war-ii-chess-tournament-in-the-netherlands-inspired-indias-only-super-rapid-and-blitz-event-in-kolkata/articleshow/126369961.cms",
          "pubDate" : "Tue, 06 Jan 2026 08:36:16",
          "title" : "How a pre-World War II chess tournament in the Netherlands inspired India's only Super Rapid and Blitz event in Kolkata"
-      },
-      {
-         "description" : "This week's puzzles begin a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, including some brain-teasers in our Wednesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-world-rapid-blitz-pt-1",
-         "pubDate" : "Tue, 06 Jan 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2025 World Rapid & Blitz, Pt. 1"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126355476.cms\" />SG Pipers, featuring three Candidates 2026 qualifiers, defied expectations to win the Global Chess League Season 3. Coach Pravin Thipsay revealed that overconfidence on the top boards led to struggles, with the lower-ranked players ultimately carrying the team to victory.",
