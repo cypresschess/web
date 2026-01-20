@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 20 January 1999, Garry Kasparov played what may have been the greatest chess game of all time in Wijk. With a series of sacrifices he drove the black king onto the back rank, where he finally delivered checkmate. In a free reader, Robert Ris presents Kasparov's masterpiece and other brilliancies from Wijk aan Zee.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/27-years-ago-in-wijk",
+         "pubDate" : "Tue, 20 Jan 2026 12:00:00",
+         "title" : "27 Years Ago, in Wijk"
+      },
+      {
+         "description" : "The year 2025 is a significant one for the chess community in Malaysia as the country finally achieved its long-drawn-out dream of having its first grandmaster. IM Yeoh Li Tian achieved his third and final GM norm to finally complete the dream outlined by the late Malaysian chess philanthropist, Dato' Tan Chin Nam. The Malaysian Prime Minister called to congratulate the newly-minted GM right after his historic achievement.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-man-behind-chess-hub",
+         "pubDate" : "Tue, 20 Jan 2026 11:00:00",
+         "title" : "The man behind Chess Hub"
+      },
+      {
+         "description" : "ECU Commission For Women's Chess&#160;announced three years ago&#160;\"European Women's Chess Trophy\",&#160;an initiative that aimed to&#160;financially reward women and girls who actively take part in the solely women's tournaments in Europe.&#160;The project is supported by the FIDE Development Fund. It was great to see the growing number of female tournaments in Europe last year, as well as number of female players that had been considered for this trophy. The Winners were announced after calculation of points awarded according to placement of []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-trophy-2025-winners/",
+         "pubDate" : "Tue, 20 Jan 2026 10:33:36",
+         "title" : "European Women's Chess Trophy 2025 - Winners"
+      },
+      {
          "description" : "Round three of the Tata Steel Chess tournament brought notable shifts in the standings. In the Masters, Matthias Bluebaum defeated Vincent Keymer in an all-German battle, while Jorden van Foreest overcame Anish Giri in the all-Dutch derby. Both Bluebaum and Van Foreest joined the leading group on 2/3. In the Challengers, Aydin Suleymanli moved into sole first place after beating Eline Roebers with the black pieces. | Photo: Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -784,22 +808,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/47453876/arjun-erigaisi-fide-world-rapid-blitz-medals-decisive-win-end-tough-year",
          "pubDate" : "Tue, 30 Dec 2025 12:42:30",
          "title" : "Arjun Erigaisi's World Rapid & Blitz medals are decisive wins to end tough year"
-      },
-      {
-         "description" : "Very many congratulations to Carl Portman, the ECF's Manager for Chess in Prisons, who has just received the Member of the Order of the British Empire (MBE) honour in the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/carl-portman-mbe/",
-         "pubDate" : "Tue, 30 Dec 2025 10:21:28",
-         "title" : "Carl Portman MBE"
-      },
-      {
-         "description" : "In August 2019 I spent a week in France, at the training camp I had organized (together with ChessBase India) for young Indian super talents. Former world champion Vladimir Kramnik did the chess training, while I pestered the kids with logic puzzles. Most did not involve chess, but some did. Here are a couple for you.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-06-dec-30",
-         "pubDate" : "Tue, 30 Dec 2025 09:00:00",
-         "title" : "Christmas Puzzles 6 - cover the board!"
       }
    ]
 }
