@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round three of the Tata Steel Chess tournament brought notable shifts in the standings. In the Masters, Matthias Bluebaum defeated Vincent Keymer in an all-German battle, while Jorden van Foreest overcame Anish Giri in the all-Dutch derby. Both Bluebaum and Van Foreest joined the leading group on 2/3. In the Challengers, Aydin Suleymanli moved into sole first place after beating Eline Roebers with the black pieces. | Photo: Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-3",
+         "pubDate" : "Tue, 20 Jan 2026 06:05:00",
+         "title" : "Tata Steel Chess: Van Foreest and Bluebaum upset compatriots, join leading group"
+      },
+      {
          "description" : " Five players lead the Tata Steel Chess tournament with a win and two draws after three rounds. Today two new players scored wins to join the leaders, Jorden Van Foreest against a desperately out of form Anish Giri and Matthias Bluebaum over Vincent Keymer who also has lost his second game of the event. Hans Moke Niemann, Nodirbek Abdusattorov and Arjun Erigaisi also have 2/3 after draws today. Praggnanandhaa got off the mark with a draw against Thai Dai Van Nguyen. Popular favourite Vasyl Ivanchuk won his first game in the Challengers, but had to navigate playing his 40th move with only one second on the clock. Aydin Suleymanli leads that event with 2.5/3 after Miaoyi Lu lost her perfect sc",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/rozman-defeats-song-14-8",
          "pubDate" : "Mon, 19 Jan 2026 20:00:00",
          "title" : "Rozman defeats Song 14-8"
-      },
-      {
-         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. After two rounds, Arjun Erigaisi, Nodirbek Abdusattorov and Hans Niemann are sharing the lead with 1&frac12; points each. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
-         "pubDate" : "Mon, 19 Jan 2026 13:45:00",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "It was the day of the underdog in Wijk aan Zee as Dutch number-two GM Jorden van Foreest beat Dutch number-one GM Anish Giri and German number-two Matthias Bluebaum did the same to German number-one GM Vincent Keymer. The winners caught GMs Nodirb...",
