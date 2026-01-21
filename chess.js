@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round four of the Tata Steel Chess Tournament featured three decisive games in the Masters, with Hans Niemann scoring an impressive win over Aravind Chithambaram, which included a well-timed queen sacrifice. Nodirbek Abdusattorov also won to share the lead, while Javokhir Sindarov defeated Matthias Bluebaim to stay in close contention. In the Challengers, Aydin Suleymanli kept the sole lead after defeating Lu Miaoyi with the white pieces. | Photo: Tata Steel Chess / Lenart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-4",
+         "pubDate" : "Wed, 21 Jan 2026 05:30:00",
+         "title" : "Tata Steel Chess: Niemann and Abdusattorov grab wins, share the lead"
+      },
+      {
          "description" : "After the shocking death of the American Grandmaster Daniel Naroditsky at the age of 29, speculations and accusations were rampant on whether it had been suicide or other. The Chief Medical Examiner of the North Carolina Office released the toxicology report, stating it had found a number of drugs in his system that could lead to addiction or death, though it leaves as many questions as answers. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-2026-venue",
          "pubDate" : "Tue, 20 Jan 2026 20:00:00",
          "title" : "Norway Chess announces move to Oslo for 2026 edition"
-      },
-      {
-         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. After three rounds, five players share the lead with 2/3 points in the Masters, while Aydin Suleymanli is the sole leader in the Challengers. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
-         "pubDate" : "Tue, 20 Jan 2026 13:45:00",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126802444.cms\" />Indian GM R Praggnanandhaa has confirmed his third appearance at Norway Chess, becoming the second announced participant after Magnus Carlsen. The 2026 Candidates qualifier and world No. 4 previously won the event in 2022 and defeated Carlsen in 2024. Organisers praised his consistency and ambition, while hopes remain for D Gukesh and Arjun Erigaisi to join the field.",
