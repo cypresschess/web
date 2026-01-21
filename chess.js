@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After the shocking death of the American Grandmaster Daniel Naroditsky at the age of 29, speculations and accusations were rampant on whether it had been suicide or other. The Chief Medical Examiner of the North Carolina Office released the toxicology report, stating it had found a number of drugs in his system that could lead to addiction or death, though it leaves as many questions as answers. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-naroditsky-toxicology-report-at-time-of-death-is-released",
+         "pubDate" : "Wed, 21 Jan 2026 01:00:00",
+         "title" : "Daniel Naroditsky toxicology report at time of death is released"
+      },
+      {
+         "description" : "<ul><li> 29-year-old had stimulants and kratom in system </li><li> Death investigated as possible overdose or suicide </li></ul> American chess grandmaster Daniel Naroditsky had a combination of stimulant and psychoactive substances in his system when he died last year, according to a toxicology report released by North Carolina authorities. Naroditsky, 29, was <a href=\"https://www.theguardian.com/sport/2025/oct/20/daniel-naroditsky-dies-chess-grandmaster\">found dead at his home in Charlotte</a> in October 2025, a loss that sent shockwaves through the global chess community. At the time, police said his death was being investigated as a possible overdose or suicide. No official cause was ann",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/jan/20/daniel-naroditsky-toxicology-report-drugs-chess-death",
+         "pubDate" : "Tue, 20 Jan 2026 22:21:33",
+         "title" : "Toxicology report says late US chess star Daniel Naroditsky had drugs in his system"
+      },
+      {
          "description" : "Norway Chess will enter a new chapter in 2026 as the tournament moves from Stavanger to Oslo after thirteen editions. From 25 May to 5 June, both Norway Chess and Norway Chess Women will be staged at Deichman Bj&oslash;rvika Public Library, bringing the event to the country's capital for the first time. Magnus Carlsen has already confirmed his participation, with further players to be announced. | Photo: Norway Chess / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -54,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-january-20-2026",
-         "pubDate" : "Tue, 20 Jan 2026 11:30:41",
+         "pubDate" : "Tue, 20 Jan 2026 11:30:00",
          "title" : "Carlsen Wins Thriller Over Nihal, Takes Another Titled Tuesday"
       },
       {
@@ -80,6 +96,14 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/bluebaum-and-van-foreest-win-their-first-games-and-join-the-leaders-of-tata-steel-on-23",
          "pubDate" : "Tue, 20 Jan 2026 00:51:00",
          "title" : "Bluebaum and Van Foreest win their first games and join the leaders of Tata Steel on 2/3 - 3"
+      },
+      {
+         "description" : "The deadline for applying is March 1, 2026, at 11:59 p.m. PT. Incomplete applications will not be reviewed by the selection committee.If you are a current US Chess member and a high school junior or senior, you are eligible to apply for one of the following two awards:2026 National Scholar Chess Player Award - a total of five $1,500 scholarships awarded.2026 The Scholar Chess Player Ambassador Award for players rated under 2000 - a total of one $1,500 scholarship awarded.The scholarships are provided by the US Chess Trust, with a generous, supporting contribution from the National Scholastic Chess Foundation (NSCF), to recognize and encourage outstanding high school students who promote a po",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-scholar-chess-player-awards",
+         "pubDate" : "Tue, 20 Jan 2026 00:00:00",
+         "title" : "The 2026 Scholar Chess Player Awards"
       },
       {
          "description" : "US Chess announced the launch of the new Member Uploads, Information, and Reporting (MUIR) system last fall to replace the separate Member Services Area (MSA) and Tournament Director and Affiliate Area (TD/A). This is part of our ongoing plan to modernize our digital infrastructure. MUIR is an entirely new platform that supports data uploads, rating reports, and member information management in one integrated system. Its potential is great, and we look forward to realizing it together. Both US Chess and Leago have spent hundreds of hours in testing and preparation, but as with any system overhaul of this size, unexpected issues were bound to arise after launch. User feedback has been invalua",
@@ -690,14 +714,6 @@ news_feed (
          "title" : "From mentor to rival: Anand to face his pupils at Tata Steel Rapid and Blitz Chess India"
       },
       {
-         "description" : "US Chess Names Fred Abousleman as Executive DirectorUS Chess is pleased to announce the selection of Fred Abousleman as executive director. He was hired after an extensive nationwide search that saw 50 candidates interviewed by the US Chess Executive Board.\"The executive board is very excited to have Fred lead our operations team,\" said Kevin Pryor, president of the board. \"His organizational and leadership skills will enable him to hit the ground running, but his experience with developing donor pipelines is what we believe is our next level to achieve as a 501(c)3 corporation.\"Executive Board Vice President John Fernandez agrees: \"Fred's career spans nonprofit leadership, public service, a",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-names-fred-abousleman-executive-director",
-         "pubDate" : "Wed, 07 Jan 2026 00:00:00",
-         "title" : "US Chess Names Fred Abousleman as Executive Director"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126369961.cms\" />Kolkata has become a vibrant hub for world chess, hosting an elite rapid and blitz tournament with roots tracing back to a Dutch steel company's initiative in 1938. This annual spectacle, now in its seventh edition, showcases top international and Indian talent, fostering a strong sporting culture and engaging a passionate audience.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -768,22 +784,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2025",
          "pubDate" : "Wed, 31 Dec 2025 00:35:00",
          "title" : "World Rapid and Blitz Championships 2025 - Games and Results"
-      },
-      {
-         "description" : " Magnus Carlsen won the <a href=\"https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2025\">2025 FIDE World Blitz Championship</a> to go along with the rapid title he had already won. This was Carlsen's ninth blitz title and the fifth time he did the rapid/blitz double, along with his five World Championship matches this adds up to a total of 20 World titles won. Carlsen called the blitz title hard-earned as he had to recover several times from upsetting losses. In the women's event Bibisara Assaubayeva emerged victorious and with that win she earned the final Women's Candidates place. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/magnus-carlsen-completes-a-world-championship-rapid-and-blitz-double-for-the-fifth-time",
-         "pubDate" : "Wed, 31 Dec 2025 00:26:00",
-         "title" : "Magnus Carlsen completes a World Championship Rapid and Blitz double for the fifth time - "
-      },
-      {
-         "description" : "<ul><li> Carlsen captures ninth blitz world title in Doha </li><li> Norwegian completes fifth rapid-blitz double </li><li> Assaubayeva beats Muzychuk in women's final </li></ul> Magnus Carlsen's domination of chess showed no sign of weakening when the world number one won the blitz world championship title for the ninth time on Tuesday, two days after taking the rapid title. The Norwegian beat Uzbek grandmaster Nodirbek Abdusattorov 2&frac12;-1&frac12; in the final in Doha to secure his fifth rapid and blitz double after achieving the feat in 2014, 2019, 2022 and 2023. Carlsen, who relinquished his regular world chess champion title citing a lack of motivation after winning it in 2013, 2014,",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/dec/30/magnus-carlsen-ninth-blitz-world-title-rapid-double",
-         "pubDate" : "Tue, 30 Dec 2025 20:38:47",
-         "title" : "Magnus Carlsen completes rapid-blitz double with ninth world blitz title"
       }
    ]
 }
