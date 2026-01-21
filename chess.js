@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Saturday 14th and Sunday 15th March at the&#160;Holiday Inn Peterborough - West,&#160;Thorpe Wood, Peterborough, PE3 6SG. One FIDE rated OPEN section, with a prize fund of at least &pound;6,500.&#160;GMs/WGMs and...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-rapidplay-championship-2026/",
+         "pubDate" : "Wed, 21 Jan 2026 12:25:53",
+         "title" : "British Rapidplay Championship 2026"
+      },
+      {
+         "description" : "Article and photographs by Yury Krylov, ECF Home Chess Development Director Sunday 18 January marked the return of the ECF's flagship schools rapidplay team event, once again very generously hosted...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/the-ecf-schools-team-rapidplay-a-celebration-of-team-chess-at-eton/",
+         "pubDate" : "Wed, 21 Jan 2026 12:18:19",
+         "title" : "The ECF Schools Team Rapidplay: A Celebration of Team Chess at Eton"
+      },
+      {
          "description" : "Round four of the Tata Steel Chess Tournament featured three decisive games in the Masters, with Hans Niemann scoring an impressive win over Aravind Chithambaram, which included a well-timed queen sacrifice. Nodirbek Abdusattorov also won to share the lead, while Javokhir Sindarov defeated Matthias Bluebaim to stay in close contention. In the Challengers, Aydin Suleymanli kept the sole lead after defeating Lu Miaoyi with the white pieces. | Photo: Tata Steel Chess / Lenart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -768,14 +784,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2026/01/01/the-chess-drums-highlights-of-2025/",
          "pubDate" : "Thu, 01 Jan 2026 16:02:57",
          "title" : "The Chess Drum's Highlights of 2025"
-      },
-      {
-         "description" : "Take a look at this relatively simple position. Can you figure out how White can win? And how many moves it will require to overcome Black's most resolute defence? You won't believe it. To relax we bring you the arguably easiest chess study ever composed, and other entertaining puzzles, many from the out-of-the-box legend Karl Fabel.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christmas-week-puzzles-07-dec-31",
-         "pubDate" : "Wed, 31 Dec 2025 09:00:00",
-         "title" : "Christmas Puzzles 7 - long and short"
       }
    ]
 }
