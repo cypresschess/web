@@ -54,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-4",
-         "pubDate" : "Tue, 20 Jan 2026 12:02:01",
+         "pubDate" : "Tue, 20 Jan 2026 12:02:00",
          "title" : "Niemann Sacs Queen To Lead Tata Steel Chess With Abdusattorov"
       },
       {
@@ -776,14 +776,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/christmas-week-puzzles-07-dec-31",
          "pubDate" : "Wed, 31 Dec 2025 09:00:00",
          "title" : "Christmas Puzzles 7 - long and short"
-      },
-      {
-         "description" : " The World Rapid and Blitz Championships took place Fri 26th Dec to Tue 30th Dec 2025 in Doha, Qatar. Players: Magnus Carlsen, Ian Nepomniachtchi, Levon Aronian, Alireza Firouzja, Fabiano Caruana, Maxime Vachier-Lagrave, Vladislav Artemiev, Nodirbek Abdusattorov, Arjun Erigaisi, Jan Krzysztof Duda, Shakhriyar Mamedyarov, Javokhir Sindarov, Leinier Dominguez Perez, Richard Rapport, Wesley So, D Gukesh, Daniil Dubov, Anish Giri, Yangyi Yu, Alexander Grischuk, Dmitry Andreikin, Parham Maghsoodloo, Jaime Santos Latasa, Sarin Nihal, Praggnanandhaa, Teimour Radjabov, Sam Sevian, Radoslaw Wojtaszek, Ray Robson, Andrey Esipenko etc Women Players: Ju Wenjun, Tan Zhongyi, Aleksandra Goryachkina, Tingj",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2025",
-         "pubDate" : "Wed, 31 Dec 2025 00:35:00",
-         "title" : "World Rapid and Blitz Championships 2025 - Games and Results"
       }
    ]
 }
