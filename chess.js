@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "19-year-old GM Pranav Anand was in superb form at the World Blitz Championship 2025. He scored impressive wins against strong players like Amin Bassem, Robert Hovhannisyan, Richard Rapport and Volodar Murzin. He finished the tournament with a score of 12/19 and obtained a 2739 TPR! In the fifth round, he faced Magnus Carlsen, a dream encounter for any young player. He has annotated his game against the world number one in this article. Check out how the exciting battle unfolded. | Photo: Shahid Ahmed",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pranav-anand-games-world-blitz-analysis",
+         "pubDate" : "Wed, 21 Jan 2026 20:00:00",
+         "title" : "Pranav Anand analyses his World Blitz Championship game against Carlsen"
+      },
+      {
          "description" : " There were three winners in round four of the Tata Steel Masters in Wijk aan Zee. Hans Moke Niemann defeated Chithambaram Aravindh with the black pieces, he steadily outplayed his opponent after the inferior 14.f5?! Nodirbek Abdusattorov defeated Thai Dai Van Nguyen in a Petroff where he gradually outplayed his opponent, the computer didn't like a couple of moves 33.fxe3 and especially 34.e4 but this didn't seem obvious to the players even after the game. Thus far Matthias Bluebaum had avoided the curse of the Candidates players but two serious mistakes against Javokhir Sindarov 17.Nxa4? (going from edge to equal) and 24.Qc5? (24.Qd7!) which lost to a slightly funky tactic, lost him the gam",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/the-ecf-schools-team-rapidplay-a-celebration-of-team-chess-at-eton/",
          "pubDate" : "Wed, 21 Jan 2026 12:18:19",
          "title" : "The ECF Schools Team Rapidplay: A Celebration of Team Chess at Eton"
+      },
+      {
+         "description" : "GM Javokhir Sindarov looked to have spoiled a win against 14-year-old GM Yagiz Kaan Erdogmus but went on to grind out a 74-move victory that saw him join GMs Hans Niemann and Nodirbek Abdusattorov in the 2026 Tata Steel Chess Masters lead. GM Vlad...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-5",
+         "pubDate" : "Wed, 21 Jan 2026 11:56:18",
+         "title" : "Sindarov Catches Leaders As Gukesh, Keymer, Fedoseev Also Strike"
       },
       {
          "description" : "Round four of the Tata Steel Chess Tournament featured three decisive games in the Masters, with Hans Niemann scoring an impressive win over Aravind Chithambaram, which included a well-timed queen sacrifice. Nodirbek Abdusattorov also won to share the lead, while Javokhir Sindarov defeated Matthias Bluebaim to stay in close contention. In the Challengers, Aydin Suleymanli kept the sole lead after defeating Lu Miaoyi with the white pieces. | Photo: Tata Steel Chess / Lenart Ootes",
@@ -616,14 +632,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-national-under-19-chess-championship-in-ranchi-from-16-24-dec-2025/",
          "pubDate" : "Sat, 10 Jan 2026 12:50:06",
          "title" : "Certificate :National Under 19 Chess Championship in Ranchi from 16-24 Dec 2025"
-      },
-      {
-         "description" : "GM Wesley So leads at the halfway point of 2026 Tata Steel Chess India Open Blitz with seven points out of nine games. After blundering into a mate-in-one the first game, So stormed back to snatch the lead from GM Arjun Erigaisi, who started with ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-india-blitz-day-1",
-         "pubDate" : "Sat, 10 Jan 2026 11:43:00",
-         "title" : "Wesley So Leads With Remarkable Comeback, Yip Leads Women's"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126450535.cms\" />Wesley So clarified that he proposed the draw against R Praggnanandhaa after a dramatic time scramble at Tata Steel Chess India Rapid, a decision that sparked debate and criticism from arbiter Chris Bird. Amid the controversy, Nihal Sarin won the Rapid title, dedicating it to his late grandfather, while Kateryna Lagno claimed the women's crown",
