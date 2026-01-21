@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " There were three winners in round four of the Tata Steel Masters in Wijk aan Zee. Hans Moke Niemann defeated Chithambaram Aravindh with the black pieces, he steadily outplayed his opponent after the inferior 14.f5?! Nodirbek Abdusattorov defeated Thai Dai Van Nguyen in a Petroff where he gradually outplayed his opponent, the computer didn't like a couple of moves 33.fxe3 and especially 34.e4 but this didn't seem obvious to the players even after the game. Thus far Matthias Bluebaum had avoided the curse of the Candidates players but two serious mistakes against Javokhir Sindarov 17.Nxa4? (going from edge to equal) and 24.Qc5? (24.Qd7!) which lost to a slightly funky tactic, lost him the gam",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/niemann-and-abdusattorov-lead-the-tata-steel-masters-with-34",
+         "pubDate" : "Wed, 21 Jan 2026 14:53:00",
+         "title" : "Niemann and Abdusattorov lead the Tata Steel Masters with 3/4 - 4"
+      },
+      {
+         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. After four rounds, Hans Niemann and Nodirbek Abdusattorov share the lead in the Masters, with 3 points each. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
+         "pubDate" : "Wed, 21 Jan 2026 13:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "Saturday 14th and Sunday 15th March at the&#160;Holiday Inn Peterborough - West,&#160;Thorpe Wood, Peterborough, PE3 6SG. One FIDE rated OPEN section, with a prize fund of at least &pound;6,500.&#160;GMs/WGMs and...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/british-rapidplay-championship-2026/",
          "pubDate" : "Wed, 21 Jan 2026 12:25:53",
          "title" : "British Rapidplay Championship 2026"
+      },
+      {
+         "description" : "The ECF is proud to launch a new event, the International Series, which is designed to encourage players aspiring to play for England in its international teams to participate in...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-international-series-2026-launch/",
+         "pubDate" : "Wed, 21 Jan 2026 12:25:26",
+         "title" : "ECF International Series 2026 - launch"
+      },
+      {
+         "description" : "The inaugural English Youth Championship will be held on March 7-8, 2026 at Nottingham High School, and is aimed at selecting England Open and Girls to play in 2026 World...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/inaugural-english-youth-championships/",
+         "pubDate" : "Wed, 21 Jan 2026 12:25:23",
+         "title" : "Inaugural English Youth Championships 2026"
       },
       {
          "description" : "Article and photographs by Yury Krylov, ECF Home Chess Development Director Sunday 18 January marked the return of the ECF's flagship schools rapidplay team event, once again very generously hosted...",
@@ -34,20 +66,20 @@ news_feed (
          "title" : "Daniel Naroditsky toxicology report at time of death is released"
       },
       {
+         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out the start of our Tactics Tuesday series with more beginner-friendly puzzles here and here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2025-world-rapid-blitz-pt-3",
+         "pubDate" : "Wed, 21 Jan 2026 00:00:00",
+         "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 3"
+      },
+      {
          "description" : "<ul><li> 29-year-old had stimulants and kratom in system </li><li> Death investigated as possible overdose or suicide </li></ul> American chess grandmaster Daniel Naroditsky had a combination of stimulant and psychoactive substances in his system when he died last year, according to a toxicology report released by North Carolina authorities. Naroditsky, 29, was <a href=\"https://www.theguardian.com/sport/2025/oct/20/daniel-naroditsky-dies-chess-grandmaster\">found dead at his home in Charlotte</a> in October 2025, a loss that sent shockwaves through the global chess community. At the time, police said his death was being investigated as a possible overdose or suicide. No official cause was ann",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/jan/20/daniel-naroditsky-toxicology-report-drugs-chess-death",
          "pubDate" : "Tue, 20 Jan 2026 22:21:33",
          "title" : "Toxicology report says late US chess star Daniel Naroditsky had drugs in his system"
-      },
-      {
-         "description" : "Norway Chess will enter a new chapter in 2026 as the tournament moves from Stavanger to Oslo after thirteen editions. From 25 May to 5 June, both Norway Chess and Norway Chess Women will be staged at Deichman Bj&oslash;rvika Public Library, bringing the event to the country's capital for the first time. Magnus Carlsen has already confirmed his participation, with further players to be announced. | Photo: Norway Chess / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2026-venue",
-         "pubDate" : "Tue, 20 Jan 2026 20:00:00",
-         "title" : "Norway Chess announces move to Oslo for 2026 edition"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126802444.cms\" />Indian GM R Praggnanandhaa has confirmed his third appearance at Norway Chess, becoming the second announced participant after Magnus Carlsen. The 2026 Candidates qualifier and world No. 4 previously won the event in 2022 and defeated Carlsen in 2024. Organisers praised his consistency and ambition, while hopes remain for D Gukesh and Arjun Erigaisi to join the field.",
@@ -74,28 +106,12 @@ news_feed (
          "title" : "Niemann Sacs Queen To Lead Tata Steel Chess With Abdusattorov"
       },
       {
-         "description" : "On 20 January 1999, Garry Kasparov played what may have been the greatest chess game of all time in Wijk. With a series of sacrifices he drove the black king onto the back rank, where he finally delivered checkmate. In a free reader, Robert Ris presents Kasparov's masterpiece and other brilliancies from Wijk aan Zee.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/27-years-ago-in-wijk",
-         "pubDate" : "Tue, 20 Jan 2026 12:00:00",
-         "title" : "27 Years Ago, in Wijk"
-      },
-      {
          "description" : "GM Magnus Carlsen needed a few rounds to get himself going in Titled Tuesday on January 20, but still ended up scoring 9.5/11 and winning the tournament outright. He has now won two of the three Titled Tuesdays of 2026 so far and his fourth of the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-january-20-2026",
          "pubDate" : "Tue, 20 Jan 2026 11:30:00",
          "title" : "Carlsen Wins Thriller Over Nihal, Takes Another Titled Tuesday"
-      },
-      {
-         "description" : "The year 2025 is a significant one for the chess community in Malaysia as the country finally achieved its long-drawn-out dream of having its first grandmaster. IM Yeoh Li Tian achieved his third and final GM norm to finally complete the dream outlined by the late Malaysian chess philanthropist, Dato' Tan Chin Nam. The Malaysian Prime Minister called to congratulate the newly-minted GM right after his historic achievement.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-man-behind-chess-hub",
-         "pubDate" : "Tue, 20 Jan 2026 11:00:00",
-         "title" : "The man behind Chess Hub"
       },
       {
          "description" : "ECU Commission For Women's Chess&#160;announced three years ago&#160;\"European Women's Chess Trophy\",&#160;an initiative that aimed to&#160;financially reward women and girls who actively take part in the solely women's tournaments in Europe.&#160;The project is supported by the FIDE Development Fund. It was great to see the growing number of female tournaments in Europe last year, as well as number of female players that had been considered for this trophy. The Winners were announced after calculation of points awarded according to placement of []",
@@ -656,14 +672,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/new-york-metro-scholastic-chess-championships-deliver-promise",
          "pubDate" : "Fri, 09 Jan 2026 00:00:00",
          "title" : "New York Metro Scholastic Chess Championships Deliver On Promise"
-      },
-      {
-         "description" : "US Chess has recently migrated the online entry process for its National over the board events to a third-party vendor.US Chess is continuing this upgrade to include our two National Correspondence Chess events: the Golden Knights and Electronic Knights tournaments. Eventually our other correspondence chess events will also be migrated to this new online entry portal.We anticipate having the new online entry portal ready for registration into the Golden Knights and Electronic Knights tournaments in the very near future.Please bear with us as we make these much needed and necessary changes.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/update-correspondence-chess-tournament-entries",
-         "pubDate" : "Fri, 09 Jan 2026 00:00:00",
-         "title" : "Update on Correspondence Chess Tournament Entries"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126419660.cms\" />A controversial moment dominated Day 2 of the Tata Steel Chess India Rapid in Kolkata when R Praggnanandhaa stopped the clock with one second left, leading to a disputed draw against Wesley So. Arbiter Chris Bird said it should have been a loss under chess laws. Elsewhere, Viswanathan Anand rebounded to joint lead with Nihal Sarin, while Kateryna Lagno topped the women's standings.",
