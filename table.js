@@ -1,5 +1,8 @@
 jtable([
+"HOUSTON","2026-01-18","58","<a href=https://ratings.uschess.org/event/202601180753 target='_blank'>2nd Annual MLK Day Open</a>",
+"HOUSTON","2026-01-18","79","<a href=https://ratings.uschess.org/event/202601180623 target='_blank'>MLK Day Scholastic 2026</a>",
 "HOUSTON","2026-01-18","9","<a href=https://ratings.uschess.org/event/202601180223 target='_blank'>Bellaire Sunday Swiss 2026.01.18</a>",
+"HOUSTON","2026-01-17","10","<a href=https://ratings.uschess.org/event/202601171123 target='_blank'>2nd Annual MLK Day Blitz</a>",
 "SUGAR LAND","2026-01-17","7","<a href=https://ratings.uschess.org/event/202601170723 target='_blank'>winter-01-17-2026</a>",
 "HOUSTON","2026-01-17","13","<a href=https://ratings.uschess.org/event/202601170333 target='_blank'>chesspanda01172026saturday</a>",
 "CYPRESS","2026-01-16","32","<a href=https://ratings.uschess.org/event/202601160313 target='_blank'>KNIGHTS OF CYPRESS (TX)</a>",
@@ -96,7 +99,4 @@ jtable([
 "SPRING","2025-10-17","17","<a href=https://ratings.uschess.org/event/202510175182 target='_blank'>THE FRIDAY KNIGHTS (TX)</a>",
 "SUGAR LAND","2025-10-17","8","<a href=https://ratings.uschess.org/event/202510172262 target='_blank'>FBCC NATIONAL PASTA DAY OPEN</a>",
 "HOUSTON","2025-10-13","27","<a href=https://ratings.uschess.org/event/202510130982 target='_blank'>TEXAS NORM SWISS 2025</a>",
-"HOUSTON","2025-10-12","8","<a href=https://ratings.uschess.org/event/202510129212 target='_blank'>OCT 12 SUNDAY SWISS 10AM G/60+30</a>",
-"HOUSTON","2025-10-11","286","<a href=https://ratings.uschess.org/event/202510119722 target='_blank'>NATIONAL CHESS DAY AT EISENHOWER HS</a>",
-"HOUSTON","2025-10-11","11","<a href=https://ratings.uschess.org/event/202510117952 target='_blank'>CHESSPANDA10112025SATURDAY</a>",
 ]);
