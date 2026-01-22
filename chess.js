@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We are thrilled to announce that GM Antoaneta Stefanova, former Women's World Chess Champion, and one of the most distinguished figures in modern chess, will deliver a live lecture at the Kasparov Chess Foundation Academy. Keep January 25, 18:00 CET, free to listen to her.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kfc-a-champion-takes-the-stage",
+         "pubDate" : "Thu, 22 Jan 2026 13:00:00",
+         "title" : "KFC: A Champion Takes the Stage"
+      },
+      {
+         "description" : "The Floripa Open, part of the Brazil Chess Series, is taking place on 17-25 January as a 10-player Swiss open in Florian&oacute;polis. Niclas Huschenbeth recently announced that he would be competing in the popular Brazilian event. After six rounds, he has realised how difficult it is to consistently live up to the role of being among the top seeds. | Photo: Niclas Huschenbeth at the Freestyle Chess Grand Slam | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/floripa-open-2026-r6",
+         "pubDate" : "Thu, 22 Jan 2026 10:56:17",
+         "title" : "Floripa Open in Brazil: A tough, multitudinous field"
+      },
+      {
          "description" : "Round five of the Tata Steel Chess Tournament saw four decisive games in the Masters, with Nodirbek Abdusattorov, Hans Niemann and Javokhir Sindarov emerging as co-leaders on 3&frac12;/5. Sindarov joined the lead after inflicting a first loss on Turkish prodigy Yagiz Kaan Erdogmus. In the Challengers, Andy Woodward and Faustino Oro both grabbed wins to catch Aydin Suleymanli at the top. | Photo: Tata Steel Chess / Lenart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -78,7 +94,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-5",
-         "pubDate" : "Wed, 21 Jan 2026 11:56:18",
+         "pubDate" : "Wed, 21 Jan 2026 11:56:00",
          "title" : "Sindarov Catches Leaders As Gukesh, Keymer, Fedoseev Also Strike"
       },
       {
@@ -122,7 +138,7 @@ news_feed (
          "title" : "Not Gukesh or Erigaisi! After Carlsen, Indian GM confirmed for Norway Chess"
       },
       {
-         "description" : "Under 09 &#38; Under 07 will be published soon . U11 Open &#160;U11 Girls Rank Name Rank Name 1 Dhyaan Patel 1 Yakshini P 2",
+         "description" : "Under 07 will be published soon . U09 Open U09 Open Girls Rank Name Rank Name 1 Ilaan Shafeek 1 Teesha Byadwal 2 Neithal D",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/certificate-of-14th-national-school-chess-championship-2025-in-guwahati-from-27-31-dec-2025/",
