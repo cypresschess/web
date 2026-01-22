@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round five of the Tata Steel Chess Tournament saw four decisive games in the Masters, with Nodirbek Abdusattorov, Hans Niemann and Javokhir Sindarov emerging as co-leaders on 3&frac12;/5. Sindarov joined the lead after inflicting a first loss on Turkish prodigy Yagiz Kaan Erdogmus. In the Challengers, Andy Woodward and Faustino Oro both grabbed wins to catch Aydin Suleymanli at the top. | Photo: Tata Steel Chess / Lenart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-5",
+         "pubDate" : "Thu, 22 Jan 2026 00:35:00",
+         "title" : "Tata Steel Chess: Sindarov joins the lead in the Masters, Oro and Woodward continue to impress in the Challengers"
+      },
+      {
+         "description" : " The leaders Hans Moke Niemann and Nodirbek Abdusattorov met in the fifth round of the Tata Steel Masters and drew allowing Javokhir Sindarov to join them in the lead. There were four decisive games with Vladimir Fedoseev beating Arjun Erigaisi, top seed Vincent Keymer got back to 50% with a win over Chithambaram Aravindh, Gukesh scored his first win when he defeated Thai Dai Van Nguyen. Jorden van Foreest drew with Matthias Bluebaum and Praggnanandhaa drew with Anish Giri. In the Challengers leader Aydin Suleymanli drew with Max Warmerdam allowing 12 year old Faustino Oro and Andy Woodward to join him on 4/5. The game file has two annotated games by Michiel Abeln based on player comments an",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/niemann-sindarov-and-abdusattorov-lead-the-tata-steel-masters-on-3.55-going-into-the-first-rest-day",
+         "pubDate" : "Wed, 21 Jan 2026 22:31:00",
+         "title" : "Niemann, Sindarov and Abdusattorov lead the Tata Steel Masters on 3.5/5 going into the first rest day - 5"
+      },
+      {
          "description" : "19-year-old GM Pranav Anand was in superb form at the World Blitz Championship 2025. He scored impressive wins against strong players like Amin Bassem, Robert Hovhannisyan, Richard Rapport and Volodar Murzin. He finished the tournament with a score of 12/19 and obtained a 2739 TPR! In the fifth round, he faced Magnus Carlsen, a dream encounter for any young player. He has annotated his game against the world number one in this article. Check out how the exciting battle unfolded. | Photo: Shahid Ahmed",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +34,12 @@ news_feed (
          "title" : "Niemann and Abdusattorov lead the Tata Steel Masters with 3/4 - 4"
       },
       {
-         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. After four rounds, Hans Niemann and Nodirbek Abdusattorov share the lead in the Masters, with 3 points each. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
-         "pubDate" : "Wed, 21 Jan 2026 13:45:00",
-         "title" : "Tata Steel Chess - Live!"
+         "description" : "GMs Magnus Carlsen and Hikaru Nakamura treated chess fans in Barcelona with fascinating insight and entertainment when they appeared for a discussion about chess and played a blindfold game, expertly commented on by none other than IM Levy Rozman....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-nakamura-blindfold-game-ice-barcelona",
+         "pubDate" : "Wed, 21 Jan 2026 12:51:00",
+         "title" : "Carlsen, Nakamura Excite Fans With Blindfold Battle And Chess Discussion In Barcelona"
       },
       {
          "description" : "Saturday 14th and Sunday 15th March at the&#160;Holiday Inn Peterborough - West,&#160;Thorpe Wood, Peterborough, PE3 6SG. One FIDE rated OPEN section, with a prize fund of at least &pound;6,500.&#160;GMs/WGMs and...",
@@ -600,14 +616,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-blitz-so-yip-take-sole-lead/articleshow/126462346.cms",
          "pubDate" : "Sun, 11 Jan 2026 06:49:13",
          "title" : "Tata Steel Blitz: So, Yip take sole lead"
-      },
-      {
-         "description" : "GM Hikaru Nakamura kept the Bullet Brawl ball rolling with his second straight win of 2026 after snatching the $400 first prize from GM Andrew Tang&#39;s grasp in the final moments of Saturday&#39;s event. Tang dominated in the first half but slumped in t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-jan-10-2026",
-         "pubDate" : "Sat, 10 Jan 2026 15:08:00",
-         "title" : "Nakamura Mounts All-Time Comeback, Denies Tang"
       },
       {
          "description" : "2025 was a great year for me personally and my chess business. Even though I failed all three of my stated goals: I've had plenty of time with loved ones, married Alessia, enjoyed traveling to USA, Bali &#38; Italy, started making YouTube videos, funded my company &#38; ran a half marathon. Reflecting about \"failing\" my []",
