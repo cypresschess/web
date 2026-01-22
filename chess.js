@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Post-game, thoughtful interviews from the Tata Steel Chess Tournament offer insight into form, temperament and longevity at the top level, guided by the calm questioning of Fiona Steil-Antoni. Carissa Yip speaks openly about nerves during critical moments, Faustino Oro displays unusual poise for his age, while Vasyl Ivanchuk gives an account of a notable incident in round three - his making the time control with just one second on the clock! | Image: Tata Steel Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-interviews",
+         "pubDate" : "Thu, 22 Jan 2026 16:00:00",
+         "title" : "Standout interviews from Wijk aan Zee"
+      },
+      {
+         "description" : "Press Release 22.01.2026European Chess Super league 2027 Announced European Chess Union Unveils the European Chess Super League 2027 The European Chess Union (ECU) is proud to announce the launch of the European Chess Super League, a groundbreaking new competition set to redefine the landscape of club chess across the continent. The inaugural edition will take place in 2027, with dates and location to be announced and a minimum budget of 500,000 euros. A New Era for European Club Chess The []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/press-release-european-chess-super-league-2027-announced/",
+         "pubDate" : "Thu, 22 Jan 2026 13:14:44",
+         "title" : "Press Release: European Chess Super League 2027 Announced"
+      },
+      {
          "description" : "We are thrilled to announce that GM Antoaneta Stefanova, former Women's World Chess Champion, and one of the most distinguished figures in modern chess, will deliver a live lecture at the Kasparov Chess Foundation Academy. Keep January 25, 18:00 CET, free to listen to her.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/floripa-open-2026-r6",
          "pubDate" : "Thu, 22 Jan 2026 10:56:17",
          "title" : "Floripa Open in Brazil: A tough, multitudinous field"
+      },
+      {
+         "description" : "GM Daniel Naroditsky&#39;s death has been ruled accidental and likely the result of an underlying medical condition, according to a report released this week by the Mecklenburg County Medical Examiner&#38;rsquo;s Office in North Carolina. The popular U....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/report-reveals-daniel-naroditsky-probable-cause-of-death",
+         "pubDate" : "Thu, 22 Jan 2026 05:35:00",
+         "title" : "Daniel Naroditsky's Death Ruled An Accident, Report By Medical Examiner Shows"
       },
       {
          "description" : "Round five of the Tata Steel Chess Tournament saw four decisive games in the Masters, with Nodirbek Abdusattorov, Hans Niemann and Javokhir Sindarov emerging as co-leaders on 3&frac12;/5. Sindarov joined the lead after inflicting a first loss on Turkish prodigy Yagiz Kaan Erdogmus. In the Challengers, Andy Woodward and Faustino Oro both grabbed wins to catch Aydin Suleymanli at the top. | Photo: Tata Steel Chess / Lenart Ootes",
@@ -610,14 +634,6 @@ news_feed (
          "title" : "Tata Steel India Rapid & Blitz 2026 - Games and Results"
       },
       {
-         "description" : "Both day-one leaders built on their momentum to earn maiden titles on day two. GM Wesley So won 2026 Tata Steel Chess India Open Blitz, his first time winning the title after six attempts. He finished in sole first with 12/18, while GMs Nihal Sari...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wesley-so-yip-win-2026-tata-steel-chess-india-blitz",
-         "pubDate" : "Sun, 11 Jan 2026 11:54:00",
-         "title" : "Wesley So, Yip Win Maiden Blitz Titles"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126464357.cms\" />French No. 1 chess grandmaster Alireza Firouzja drew global attention after posting \"Long live Iran\" on social media and sharing the monarchial-era Iranian flag. The post was linked to ongoing protests and a humanitarian crisis in Iran. Though now a French citizen, Firouzja's message showed strong solidarity with Iranians and highlighted his deep emotional ties to his country of birth.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -816,14 +832,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jan/02/chess-magnus-carlsen-wins-two-more-world-speed-crowns-despite-mishaps",
          "pubDate" : "Fri, 02 Jan 2026 08:00:02",
          "title" : "Chess: Magnus Carlsen wins two more world speed crowns despite mishaps"
-      },
-      {
-         "description" : " Retired Chicago Bulls great Derrick Rose stands between commentator&#160;James Dash and Magnus Carlsen at Chesstival 2025 in Las Vegas. Photo: Lennart Ootes/Freestyle Chess. Key Takeaways 2025 featured key moments, including Brewington Hardaway on the cover of Chess Life and Tani Adewumi achieving the IM title. High-profile losses, such as IM Stephen Muhammad, and a tragic The post <a href=\"https://thechessdrum.net/blog/2026/01/01/the-chess-drums-highlights-of-2025/\">The Chess Drum's Highlights of 2025</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2026/01/01/the-chess-drums-highlights-of-2025/",
-         "pubDate" : "Thu, 01 Jan 2026 16:02:57",
-         "title" : "The Chess Drum's Highlights of 2025"
       }
    ]
 }
