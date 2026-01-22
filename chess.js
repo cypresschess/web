@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Auckland, 21 January 2026 - The 2026 edition of the Bob Wade Memorial round robin event concluded in Auckland, New Zealand, with English super GM Michael Adams finishing top with 6.5 points out of 9 rounds and a final tally of +4 -0 =5, half a point ahead of Commonwealth Chess Champion and ChessBase columnist, GM Daniel Fernandez (+3 -0 = 6). Report by Edwin Lam Choong Wai, photos by Weiyang Yu, Cadence",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/adams-wins-2026-bob-wade-memorial",
+         "pubDate" : "Thu, 22 Jan 2026 19:21:28",
+         "title" : "Adams wins 2026 Bob Wade Memorial"
+      },
+      {
+         "description" : "<ul><li> Report cites cardiac arrhythmia tied to sarcoidosis </li><li> Drug use contributory but not fatal, examiner says </li></ul> American chess grandmaster Daniel Naroditsky died last year after suffering a sudden heart rhythm disturbance, with an underlying heart condition identified as the primary cause, according to a report released by North Carolina medical authorities. The 29-year-old was <a href=\"https://www.theguardian.com/sport/2025/oct/20/daniel-naroditsky-dies-chess-grandmaster\">found dead at his townhome in Charlotte</a> in October 2025. At the time, police said his death was being investigated as a possible overdose or suicide, and no cause had been made public. <a href=\"htt",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/jan/22/daniel-naroditsky-cause-of-death-accidental-report",
+         "pubDate" : "Thu, 22 Jan 2026 17:28:17",
+         "title" : "US chess star Daniel Naroditsky's death was accidental, medical examiner says"
+      },
+      {
          "description" : "Post-game, thoughtful interviews from the Tata Steel Chess Tournament offer insight into form, temperament and longevity at the top level, guided by the calm questioning of Fiona Steil-Antoni. Carissa Yip speaks openly about nerves during critical moments, Faustino Oro displays unusual poise for his age, while Vasyl Ivanchuk gives an account of a notable incident in round three - his making the time control with just one second on the clock! | Image: Tata Steel Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
