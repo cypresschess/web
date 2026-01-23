@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " First round at Wijk aan Zee delayed for over an hour after protesters dump coal at venue and unveil banner reading 'no chess on a dead planet' Tata Steel Wijk aan Zee, the \"chess Wimbledon\", has been sponsored for all its 88 years by the local steelworks, either in its previous incarnations as Hoogovens and Corus or under its current Indian management. Its relations with the local community have previously been good, but this year protesters targeting Tata Steel drew attention to the company's heavy use of coal by dumping two tons of coal in front of the entrance, and draping a banner reading \"No chess on a dead planet\" over the sports hall. Play in the opening round eventually began one an",
+         "description" : "Magnus had recently seemed somewhat weary of tournaments with classical time controls, but the organisers of the TePe Sigeman & Co Tournament (1-7 May 2026) have now rather surprisingly announced the participation of the world number one. Carlsen last played in Malm&ouml; as a 14-year-old. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-to-play-at-the-tepe-sigeman-co-in-malmoe",
+         "pubDate" : "Fri, 23 Jan 2026 13:05:03",
+         "title" : "Magnus Carlsen to play at the TePe Sigeman & Co in Malm&ouml;"
+      },
+      {
+         "description" : "In three sessions at the British Chess Championships An opportunity to qualify as an ECF Level 1 Arbiter, which may entitle you to work as an arbiter at FIDE-rated chess...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-level-1-arbiters-course-at-the-british-chess-championships/",
+         "pubDate" : "Fri, 23 Jan 2026 10:53:46",
+         "title" : "ECF Level 1 Arbiters Course at the British Chess Championships"
+      },
+      {
+         "description" : " First round at Wijk aan Zee delayed for over an hour after protesters dump coal at venue and unveil banner reading 'no chess on a dead planet' Tata Steel Wijk aan Zee, the \"chess Wimbledon\", has been sponsored for all its 88 years by the local steelworks, either in its previous incarnations as Hoogovens and Corus or under its current Indian management. Its relations with the local community have previously been good, but this year protesters targeting Tata Steel drew attention to the company's heavy use of coal by dumping two tons of it in front of the entrance, and draping a banner reading \"No chess on a dead planet\" over the sports hall. Play in the opening round eventually began one and ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/jan/23/chess-wimbledon-opens-with-an-environmental-protest-as-niemann-shares-lead",
