@@ -18,6 +18,22 @@ news_feed (
          "title" : "Magnus Carlsen to play at the TePe Sigeman & Co in Malm&ouml;"
       },
       {
+         "description" : "GM&#38;nbsp;Nodirbek Abdusattorov took advantage of a heartbreaking blunder in an equal position by World Champion Gukesh Dommaraju to take the sole lead in the 2026 Tata Steel Chess Masters on 4.5/6. GM Javokhir Sindarov is now half a point behind in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-6",
+         "pubDate" : "Fri, 23 Jan 2026 12:11:00",
+         "title" : "Abdusattorov Pounces On Gukesh Blunder To Grab Sole Lead"
+      },
+      {
+         "description" : "GM Pranav Venkatesh is now a Freestyle Friday victor, taking his first tournament on January 23 with a 9.5/11 score. Coming in second place was GM Martin Kravtsiv, followed by GM Nodirbek Yakkuboev in third and GM Shamsiddin Vokhidov in fourth, wh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pranav-wins-freestyle-friday-january-23-2026",
+         "pubDate" : "Fri, 23 Jan 2026 11:07:51",
+         "title" : "New Name Tops Freestyle Friday Standings"
+      },
+      {
          "description" : "In three sessions at the British Chess Championships An opportunity to qualify as an ECF Level 1 Arbiter, which may entitle you to work as an arbiter at FIDE-rated chess...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jan/23/chess-wimbledon-opens-with-an-environmental-protest-as-niemann-shares-lead",
          "pubDate" : "Fri, 23 Jan 2026 08:00:10",
          "title" : "'Chess Wimbledon' opens with an environmental protest as Niemann shares lead"
+      },
+      {
+         "description" : "This weekend, over half the country can expect ice or heavy snow. Given this, tournament directors and event organizers are encouraged to review US Chess's Inclement Weather and Evacuation Policy (Section 12: Event Cancellations and Modifications), which is included for clarity below. US Chess recognizes that circumstances may arise beyond the control of tournament directors or event organizers that pose a risk to health, safety, or reasonable access to a scheduled event. Accordingly, tournament directors and event organizers are granted discretion to cancel, postpone, delay, suspend, or modify a US Chess-sanctioned event when conditions warrant such action. If you are canceling, delaying, o",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-inclement-weather-policy",
+         "pubDate" : "Fri, 23 Jan 2026 00:00:00",
+         "title" : "US Chess Inclement Weather Policy"
       },
       {
          "description" : "Editor's note: this story first appeared in the January 2026 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.Nearly 40 years later, a reworked Chess returns to Broadway. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The Arbiter (Bryan Pinkham) takes on new prominence in this production with a new book by Danny Strong. (All photos courtesy Chess/Polk and Co.)<br> <br> <br> <br> Danny Strong felt like something wasn't adding up.In 2015, he was wa",
@@ -594,14 +618,6 @@ news_feed (
          "title" : "Magnus Carlsen confirms Norway Chess 2026 participation, event moves to Oslo"
       },
       {
-         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, including some brain-teasers in our Wednesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-world-rapid-blitz-pt-2",
-         "pubDate" : "Tue, 13 Jan 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2025 World Rapid & Blitz, Pt. 2"
-      },
-      {
          "description" : "The European Women's Rapid and Blitz Chess Championships 2025 took place from 8-12 January in Monte-Carlo, Monaco. The Championship gathered record-breaking 143 players from 30 European federations in the Rapid competition, while 120 players from 30 federations took part in the Blitz Chess Championship. The event commenced with the European Women's Blitz Chess Championship 2025 which was played on Friday, 9th of January. The Winner of the tournament was determined in the dramatical final round and direct top place encounter []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -610,28 +626,12 @@ news_feed (
          "title" : "European Women's Rapid and Blitz Chess Champions 2025 crowned in Monaco"
       },
       {
-         "description" : "GM Maurice Ashley, the first Black grandmaster in history, said he fulfilled a lifelong dream when he appeared on The Oprah Podcast, sitting down virtually with Oprah Winfrey for a conversation about chess, impact, and hidden potential. Few gran...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/maurice-ashley-oprah-winfrey",
-         "pubDate" : "Mon, 12 Jan 2026 08:30:00",
-         "title" : "Maurice Ashley With Oprah Winfrey: 'A Surreal, Fairy-Tale Moment'"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126477551.cms\" />Elite chess is experiencing a surge of \"World Championships\" with two major announcements: the Total Chess World Championship Tour and the FIDE Freestyle Chess World Championship. Both promise global reach and significant prize money, leading to comparisons and player confusion. The execution of these ambitious tours will determine their success and impact on the chess landscape.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/can-the-total-chess-world-championship-tour-shrug-off-the-copycat-tag-of-freestyle-chess/articleshow/126477551.cms",
          "pubDate" : "Mon, 12 Jan 2026 06:48:48",
          "title" : "Can Total Chess World Championship Tour shrug off 'copycat' tag of Freestyle Chess?"
-      },
-      {
-         "description" : "GM Praggnanandhaa Rameshbabu won the 2025 FIDE Circuit and joined 2024 winner GM Fabiano Caruana in qualifying for the 2026 FIDE Candidates Tournament. The International Chess Federation (FIDE) has now announced that for 2026-7 two years will be c...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-circuit-2-year-cycle",
-         "pubDate" : "Mon, 12 Jan 2026 02:04:00",
-         "title" : "FIDE Circuit Becomes 2-Year Qualification Cycle"
       },
       {
          "description" : " The Tata Steel India Rapid & Blitz took place Wed 7th Jan to Mon 12th Jan 2026. Players: Viswanathan Anand, Wei Yi, Chithambaram Aravindh, Arjun Erigaisi, Hans Moke Niemann, Volodar Murzin, Gujrathi Vidit Santosh, R Praggnanandhaa, Nihal Sarin, Wesley So, Women: Ravi Rakshitta, Carissa Yip, Deshmukh Divya, Nana Dzagnidze, Agrawal Vantika, Rameshbabu Vaishali, Kateryna Lagno, Harika Dronavalli, Stavroula Tsolakidou, Aleksandra Goryachkina. The Rapid was won by Nihal Sarin with 6.5/9, half a point clear of Viswanathan Anand, the women's rapid was won by Kateryna Lagno with 6.5/9 a point and a half clear of Aleksandra Goryachkina. The Blitz was won by Wesley So with 12/18 a point clear of Niha",
@@ -816,14 +816,6 @@ news_feed (
          "link" : "https://www.thearticle.com/barry-martin-rip/",
          "pubDate" : "Sat, 03 Jan 2026 07:52:53",
          "title" : "Barry Martin RIP"
-      },
-      {
-         "description" : "The 2026 is a year of new challenges! The European Chess Union (ECU) envisions a vibrant and united European chess community, where chess is recognized as a tool for education, social inclusion, and personal development. Our commitment is to elevate the profile of chess across Europe, foster collaboration among member federations, and ensure that chess remains accessible and inspiring to all generations. Strategic Targets for 2026 1. Strengthen Chess in Education Expand academic programs for teachers and tutors, building on []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/new-year-new-challenges/",
-         "pubDate" : "Fri, 02 Jan 2026 19:26:59",
-         "title" : "New Year, New Challenges"
       }
    ]
 }
