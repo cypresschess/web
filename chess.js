@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. After five rounds, Hans Niemann, Javokhir Sindarov and Nodirbek Abdusattorov share the lead in the Masters, with 3&frac12; points each. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
+         "pubDate" : "Fri, 23 Jan 2026 13:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "Magnus had recently seemed somewhat weary of tournaments with classical time controls, but the organisers of the TePe Sigeman & Co Tournament (1-7 May 2026) have now rather surprisingly announced the participation of the world number one. Carlsen last played in Malm&ouml; as a 14-year-old. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jan/23/chess-wimbledon-opens-with-an-environmental-protest-as-niemann-shares-lead",
          "pubDate" : "Fri, 23 Jan 2026 08:00:10",
          "title" : "'Chess Wimbledon' opens with an environmental protest as Niemann shares lead"
+      },
+      {
+         "description" : "Editor's note: this story first appeared in the January 2026 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.Nearly 40 years later, a reworked Chess returns to Broadway. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The Arbiter (Bryan Pinkham) takes on new prominence in this production with a new book by Danny Strong. (All photos courtesy Chess/Polk and Co.)<br> <br> <br> <br> Danny Strong felt like something wasn't adding up.In 2015, he was wa",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/inside-story-story-and-sacrifice",
+         "pubDate" : "Fri, 23 Jan 2026 00:00:00",
+         "title" : "Inside Story: Story and Sacrifice"
       },
       {
          "description" : "Song Yuxin's 2025 season marked a decisive step forward in her career. Focusing exclusively on classical chess, this analysis looks at how a heavy tournament schedule, largely centred on open events, translated into a major rating climb, a rise from the fringes of the top 100 to the women's top 25, and a strong finish to her final year as a junior. | Photo: FIDE / Michal Walusza",
@@ -66,7 +82,7 @@ news_feed (
          "title" : "Daniel Naroditsky's Death Ruled An Accident, Report By Medical Examiner Shows"
       },
       {
-         "description" : "GM Hans Niemann is in a three-way tie for first place with 3&frac12;/5 entering the first rest day of the Tata Steel Masters in Wijk aan Zee. The famous Netherlands tournament consists of 13 rounds, running from Jan. 17 through Feb. 1. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Niemann faces the crowd before Round 1. (All photos courtesy Tata Steel Chess/Lennart Ootes)<br> <br> <br> <br> Although the first round was delayed due to a protest of Tata Steel's alleged sports-washing of its affect on the climate by Extinction Rebellion Nederland, the tournament did eventually begin and, so far, it has delivered on its promise of exciting chess across b",
+         "description" : "GM Hans Niemann is in a three-way tie for first place with 3&frac12;/5 entering the first rest day of the Tata Steel Masters in Wijk aan Zee. The famous Netherlands tournament consists of 13 rounds, running from Jan. 17 through Feb. 1. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Niemann faces the crowd before Round 1. (All photos courtesy Tata Steel Chess/Lennart Ootes)<br> <br> <br> <br> Although the first round was delayed due to a protest of Tata Steel's alleged sports-washing of its effect on the climate by Extinction Rebellion Nederland, the tournament did eventually begin and, so far, it has delivered on its promise of exciting chess across b",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/niemann-leads-tata-steel-masters-woodward-and-yip-shine-challengers",
