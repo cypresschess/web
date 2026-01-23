@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " First round at Wijk aan Zee delayed for over an hour after protesters dump coal at venue and unveil banner reading 'no chess on a dead planet' Tata Steel Wijk aan Zee, the \"chess Wimbledon\", has been sponsored for all its 88 years by the local steelworks, either in its previous incarnations as Hoogovens and Corus or under its current Indian management. Its relations with the local community have previously been good, but this year protesters targeting Tata Steel drew attention to the company's heavy use of coal by dumping two tons of coal in front of the entrance, and draping a banner reading \"No chess on a dead planet\" over the sports hall. Play in the opening round eventually began one an",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/jan/23/chess-wimbledon-opens-with-an-environmental-protest-as-niemann-shares-lead",
+         "pubDate" : "Fri, 23 Jan 2026 08:00:10",
+         "title" : "'Chess Wimbledon' opens with an environmental protest as Niemann shares lead"
+      },
+      {
          "description" : "Song Yuxin's 2025 season marked a decisive step forward in her career. Focusing exclusively on classical chess, this analysis looks at how a heavy tournament schedule, largely centred on open events, translated into a major rating climb, a rise from the fringes of the top 100 to the women's top 25, and a strong finish to her final year as a junior. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,7 +146,7 @@ news_feed (
          "title" : "Not Gukesh or Erigaisi! After Carlsen, Indian GM confirmed for Norway Chess"
       },
       {
-         "description" : "Under 07 will be published soon . U09 Open U09 Open Girls Rank Name Rank Name 1 Ilaan Shafeek 1 Teesha Byadwal 2 Neithal D",
+         "description" : "U07 Open U 07 Girls Rank Name 1 Tanishka Bhandari 1 Nimalan Dharanipathy 2 Anika K 2 Ivaan Dubey 3 Aaditri Majumdar 3 Madhav Mundhara",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/certificate-of-14th-national-school-chess-championship-2025-in-guwahati-from-27-31-dec-2025/",
@@ -784,14 +792,6 @@ news_feed (
          "link" : "https://www.europechess.org/new-year-new-challenges/",
          "pubDate" : "Fri, 02 Jan 2026 19:26:59",
          "title" : "New Year, New Challenges"
-      },
-      {
-         "description" : " The Norwegian, 35, overcame elite fields despite time forfeits after knocking over pieces in critical games The world No 1, Magnus Carlsen, recovered from a series of mishaps to win both the World Rapid and Blitz crowns at Doha, Qatar, last weekend. The global victories were the 19th and 20th of the Norwegian's illustrious career and may give him the edge in the longstanding debate on whether he, Garry Kasparov, or Bobby Fischer is chess's all-time greatest master. Peerless endgame technique was central to the 35-year-old Norwegian's blitz success. He won a knight ending with Black <a href=\"https://www.chessgames.com/perl/chessgame?gid=3037188\">against Nodirbek Abdusattorov</a> from a posit",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/jan/02/chess-magnus-carlsen-wins-two-more-world-speed-crowns-despite-mishaps",
-         "pubDate" : "Fri, 02 Jan 2026 08:00:02",
-         "title" : "Chess: Magnus Carlsen wins two more world speed crowns despite mishaps"
       }
    ]
 }
