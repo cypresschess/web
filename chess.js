@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Song Yuxin's 2025 season marked a decisive step forward in her career. Focusing exclusively on classical chess, this analysis looks at how a heavy tournament schedule, largely centred on open events, translated into a major rating climb, a rise from the fringes of the top 100 to the women's top 25, and a strong finish to her final year as a junior. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/2025-breakthrough-year-song-yuxin",
+         "pubDate" : "Thu, 22 Jan 2026 23:15:00",
+         "title" : "2025: A breakthrough year for Song Yuxin"
+      },
+      {
          "description" : "Auckland, 21 January 2026 - The 2026 edition of the Bob Wade Memorial round robin event concluded in Auckland, New Zealand, with English super GM Michael Adams finishing top with 6.5 points out of 9 rounds and a final tally of +4 -0 =5, half a point ahead of Commonwealth Chess Champion and ChessBase columnist, GM Daniel Fernandez (+3 -0 = 6). Report by Edwin Lam Choong Wai, photos by Weiyang Yu, Cadence",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,36 +26,12 @@ news_feed (
          "title" : "US chess star Daniel Naroditsky's death was accidental, medical examiner says"
       },
       {
-         "description" : "Post-game, thoughtful interviews from the Tata Steel Chess Tournament offer insight into form, temperament and longevity at the top level, guided by the calm questioning of Fiona Steil-Antoni. Carissa Yip speaks openly about nerves during critical moments, Faustino Oro displays unusual poise for his age, while Vasyl Ivanchuk gives an account of a notable incident in round three - his making the time control with just one second on the clock! | Image: Tata Steel Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-interviews",
-         "pubDate" : "Thu, 22 Jan 2026 16:00:00",
-         "title" : "Standout interviews from Wijk aan Zee"
-      },
-      {
          "description" : "Press Release 22.01.2026European Chess Super league 2027 Announced European Chess Union Unveils the European Chess Super League 2027 The European Chess Union (ECU) is proud to announce the launch of the European Chess Super League, a groundbreaking new competition set to redefine the landscape of club chess across the continent. The inaugural edition will take place in 2027, with dates and location to be announced and a minimum budget of 500,000 euros. A New Era for European Club Chess The []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/press-release-european-chess-super-league-2027-announced/",
          "pubDate" : "Thu, 22 Jan 2026 13:14:44",
          "title" : "Press Release: European Chess Super League 2027 Announced"
-      },
-      {
-         "description" : "We are thrilled to announce that GM Antoaneta Stefanova, former Women's World Chess Champion, and one of the most distinguished figures in modern chess, will deliver a live lecture at the Kasparov Chess Foundation Academy. Keep January 25, 18:00 CET, free to listen to her.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kfc-a-champion-takes-the-stage",
-         "pubDate" : "Thu, 22 Jan 2026 13:00:00",
-         "title" : "KFC: A Champion Takes the Stage"
-      },
-      {
-         "description" : "The Floripa Open, part of the Brazil Chess Series, is taking place on 17-25 January as a 10-player Swiss open in Florian&oacute;polis. Niclas Huschenbeth recently announced that he would be competing in the popular Brazilian event. After six rounds, he has realised how difficult it is to consistently live up to the role of being among the top seeds. | Photo: Niclas Huschenbeth at the Freestyle Chess Grand Slam | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/floripa-open-2026-r6",
-         "pubDate" : "Thu, 22 Jan 2026 10:56:17",
-         "title" : "Floripa Open in Brazil: A tough, multitudinous field"
       },
       {
          "description" : "GM Daniel Naroditsky&#39;s death has been ruled accidental and likely the result of an underlying medical condition, according to a report released this week by the Mecklenburg County Medical Examiner&#38;rsquo;s Office in North Carolina. The popular U....",
@@ -58,12 +42,12 @@ news_feed (
          "title" : "Daniel Naroditsky's Death Ruled An Accident, Report By Medical Examiner Shows"
       },
       {
-         "description" : "Round five of the Tata Steel Chess Tournament saw four decisive games in the Masters, with Nodirbek Abdusattorov, Hans Niemann and Javokhir Sindarov emerging as co-leaders on 3&frac12;/5. Sindarov joined the lead after inflicting a first loss on Turkish prodigy Yagiz Kaan Erdogmus. In the Challengers, Andy Woodward and Faustino Oro both grabbed wins to catch Aydin Suleymanli at the top. | Photo: Tata Steel Chess / Lenart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-5",
-         "pubDate" : "Thu, 22 Jan 2026 00:35:00",
-         "title" : "Tata Steel Chess: Sindarov joins the lead in the Masters, Oro and Woodward continue to impress in the Challengers"
+         "description" : "GM Hans Niemann is in a three-way tie for first place with 3&frac12;/5 entering the first rest day of the Tata Steel Masters in Wijk aan Zee. The famous Netherlands tournament consists of 13 rounds, running from Jan. 17 through Feb. 1. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Niemann faces the crowd before Round 1. (All photos courtesy Tata Steel Chess/Lennart Ootes)<br> <br> <br> <br> Although the first round was delayed due to a protest of Tata Steel's alleged sports-washing of its affect on the climate by Extinction Rebellion Nederland, the tournament did eventually begin and, so far, it has delivered on its promise of exciting chess across b",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/niemann-leads-tata-steel-masters-woodward-and-yip-shine-challengers",
+         "pubDate" : "Thu, 22 Jan 2026 00:00:00",
+         "title" : "Niemann Leads Tata Steel Masters, Woodward and Yip Shine in Challengers"
       },
       {
          "description" : " The leaders Hans Moke Niemann and Nodirbek Abdusattorov met in the fifth round of the Tata Steel Masters and drew allowing Javokhir Sindarov to join them in the lead. There were four decisive games with Vladimir Fedoseev beating Arjun Erigaisi, top seed Vincent Keymer got back to 50% with a win over Chithambaram Aravindh, Gukesh scored his first win when he defeated Thai Dai Van Nguyen. Jorden van Foreest drew with Matthias Bluebaum and Praggnanandhaa drew with Anish Giri. In the Challengers leader Aydin Suleymanli drew with Max Warmerdam allowing 12 year old Faustino Oro and Andy Woodward to join him on 4/5. The game file has two annotated games by Michiel Abeln based on player comments an",
@@ -72,14 +56,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/niemann-sindarov-and-abdusattorov-lead-the-tata-steel-masters-on-3.55-going-into-the-first-rest-day",
          "pubDate" : "Wed, 21 Jan 2026 22:31:00",
          "title" : "Niemann, Sindarov and Abdusattorov lead the Tata Steel Masters on 3.5/5 going into the first rest day - 5"
-      },
-      {
-         "description" : "19-year-old GM Pranav Anand was in superb form at the World Blitz Championship 2025. He scored impressive wins against strong players like Amin Bassem, Robert Hovhannisyan, Richard Rapport and Volodar Murzin. He finished the tournament with a score of 12/19 and obtained a 2739 TPR! In the fifth round, he faced Magnus Carlsen, a dream encounter for any young player. He has annotated his game against the world number one in this article. Check out how the exciting battle unfolded. | Photo: Shahid Ahmed",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pranav-anand-games-world-blitz-analysis",
-         "pubDate" : "Wed, 21 Jan 2026 20:00:00",
-         "title" : "Pranav Anand analyses his World Blitz Championship game against Carlsen"
       },
       {
          "description" : " There were three winners in round four of the Tata Steel Masters in Wijk aan Zee. Hans Moke Niemann defeated Chithambaram Aravindh with the black pieces, he steadily outplayed his opponent after the inferior 14.f5?! Nodirbek Abdusattorov defeated Thai Dai Van Nguyen in a Petroff where he gradually outplayed his opponent, the computer didn't like a couple of moves 33.fxe3 and especially 34.e4 but this didn't seem obvious to the players even after the game. Thus far Matthias Bluebaum had avoided the curse of the Candidates players but two serious mistakes against Javokhir Sindarov 17.Nxa4? (going from edge to equal) and 24.Qc5? (24.Qd7!) which lost to a slightly funky tactic, lost him the gam",
@@ -136,22 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-5",
          "pubDate" : "Wed, 21 Jan 2026 11:56:00",
          "title" : "Sindarov Catches Leaders As Gukesh, Keymer, Fedoseev Also Strike"
-      },
-      {
-         "description" : "Round four of the Tata Steel Chess Tournament featured three decisive games in the Masters, with Hans Niemann scoring an impressive win over Aravind Chithambaram, which included a well-timed queen sacrifice. Nodirbek Abdusattorov also won to share the lead, while Javokhir Sindarov defeated Matthias Bluebaim to stay in close contention. In the Challengers, Aydin Suleymanli kept the sole lead after defeating Lu Miaoyi with the white pieces. | Photo: Tata Steel Chess / Lenart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-4",
-         "pubDate" : "Wed, 21 Jan 2026 05:30:00",
-         "title" : "Tata Steel Chess: Niemann and Abdusattorov grab wins, share the lead"
-      },
-      {
-         "description" : "After the shocking death of the American Grandmaster Daniel Naroditsky at the age of 29, speculations and accusations were rampant on whether it had been suicide or other. The Chief Medical Examiner of the North Carolina Office released the toxicology report, stating it had found a number of drugs in his system that could lead to addiction or death, though it leaves as many questions as answers. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-naroditsky-toxicology-report-at-time-of-death-is-released",
-         "pubDate" : "Wed, 21 Jan 2026 01:00:00",
-         "title" : "Daniel Naroditsky toxicology report at time of death is released"
       },
       {
          "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out the start of our Tactics Tuesday series with more beginner-friendly puzzles here and here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -320,14 +280,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-masters-arjun-erigaisi-beats-praggnanandhaa-gukesh-draws-with-sindarov/articleshow/126640912.cms",
          "pubDate" : "Sun, 18 Jan 2026 09:23:26",
          "title" : "Tata Steel Masters: Arjun Erigaisi beats Praggnanandhaa"
-      },
-      {
-         "description" : "ChessBase 26 is certainly the highlight among the November releases, but the other databases also offer a wealth of study material. There are many new options to explore, as well as in Harald Schneider-Zinner's checkmate course, which combines a book with an online course. Finally, there are also new installments of Karsten M&uuml;ller's Endgame Academy and Ivan Sokolov's middlegame strategy series. | All photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-december",
-         "pubDate" : "Sun, 18 Jan 2026 07:00:00",
-         "title" : "Review: All new releases in December!"
       },
       {
          "description" : " There were three decisive games in the first round of the Tata Steel Masters, there could even have been a couple more. The first story was that the start to the tournament was delayed, climate protesters targeting Tata Steel drew attention to their heavy use of coal and the environmental damage it causes. The start of play was delayed for a couple of hours but perhaps this disruption caused early uncharacteristic blunders from a couple of the players. Hans Moke Niemann was still in theory when Vladimir Fedoseev miscalculated and he had to resign in 16 moves. Anish Giri played the inferior 21...Rb8 then just blundered a piece with 22...Bxd4 and also had to resign immediately. Arjun Erigaisi",
@@ -728,14 +680,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jan/09/chess-hastings-masters-guards-tradition-and-produces-an-english-co-winner",
          "pubDate" : "Fri, 09 Jan 2026 08:00:33",
          "title" : "Chess: Hastings Masters guards tradition and produces an English co-winner"
-      },
-      {
-         "description" : "The air in the Times Square Marriott Marquis was ionized with anxiety on January 3 and 4 for the New York Metro Scholastic Chess Championships. Children carrying chess bags were whooshed pneumatically to their respective playing halls in the hotel's famous glass elevators as 1,438 players from kindergarten through 12th grade moved with stone-faced focus, dutifully dragging coteries of parents, coaches, and all manner of extended family as they flooded nine floors of premium conference space in Midtown Manhattan. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> A sign welcoming \"K-12 Warriors\" set the tone for the Metro Championships. (All photos courtes",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/new-york-metro-scholastic-chess-championships-deliver-promise",
-         "pubDate" : "Fri, 09 Jan 2026 00:00:00",
-         "title" : "New York Metro Scholastic Chess Championships Deliver On Promise"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126419660.cms\" />A controversial moment dominated Day 2 of the Tata Steel Chess India Rapid in Kolkata when R Praggnanandhaa stopped the clock with one second left, leading to a disputed draw against Wesley So. Arbiter Chris Bird said it should have been a loss under chess laws. Elsewhere, Viswanathan Anand rebounded to joint lead with Nihal Sarin, while Kateryna Lagno topped the women's standings.",
