@@ -1,4 +1,6 @@
 jtable([
+"SUGAR LAND","2026-01-23","14","<a href=https://ratings.uschess.org/event/202601230333 target='_blank'>FBCC 2026 National Pie Day Open</a>",
+"SPRING","2026-01-23","21","<a href=https://ratings.uschess.org/event/202601230273 target='_blank'>The Friday Knights</a>",
 "HOUSTON","2026-01-18","58","<a href=https://ratings.uschess.org/event/202601180753 target='_blank'>2nd Annual MLK Day Open</a>",
 "HOUSTON","2026-01-18","79","<a href=https://ratings.uschess.org/event/202601180623 target='_blank'>MLK Day Scholastic 2026</a>",
 "HOUSTON","2026-01-18","9","<a href=https://ratings.uschess.org/event/202601180223 target='_blank'>Bellaire Sunday Swiss 2026.01.18</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2025-10-18","6","<a href=https://ratings.uschess.org/event/202510188743 target='_blank'>Quick Swiss</a>",
 "HOUSTON","2025-10-18","9","<a href=https://ratings.uschess.org/event/202510182712 target='_blank'>CHESSPANDA10182025SATURDAY</a>",
 "SPRING","2025-10-17","17","<a href=https://ratings.uschess.org/event/202510175182 target='_blank'>THE FRIDAY KNIGHTS (TX)</a>",
-"SUGAR LAND","2025-10-17","8","<a href=https://ratings.uschess.org/event/202510172262 target='_blank'>FBCC NATIONAL PASTA DAY OPEN</a>",
-"HOUSTON","2025-10-13","27","<a href=https://ratings.uschess.org/event/202510130982 target='_blank'>TEXAS NORM SWISS 2025</a>",
 ]);
