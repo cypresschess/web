@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Chess Union has announced the creation of the European Chess Super League, a new elite club competition scheduled to debut in 2027. Featuring eight leading clubs and a substantial prize fund, the event aims to bring top-level team chess into a dedicated continental format. Organisers also confirmed plans for a corresponding Women's Super League, underlining a broader effort to expand the profile of club chess in Europe.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-chess-super-league-2027-announcement",
+         "pubDate" : "Sat, 24 Jan 2026 12:20:00",
+         "title" : "European Chess Union unveils European Chess Super League 2027"
+      },
+      {
          "description" : "21-year-old Aaryan Varshney from Delhi has become India's 92nd Chess Grandmaster, achieving his final norm at the Andranik Margaryan Memorial in Armenia in January 2026.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -10,12 +18,12 @@ news_feed (
          "title" : "21-year-old Aaryan Varshney from Delhi has become India's 92nd Chess Grandmaster"
       },
       {
-         "description" : "Round six of the Tata Steel Chess Tournament featured a number of pivotal games in both sections. In the Masters, Nodirbek Abdusattorov defeated world champion Gukesh Dommaraju after a sudden one-move blunder, moving ahead of the field, while Vincent Keymer and Yagiz Kaan Erdogmus also collected important wins. The Challengers saw Andy Woodward claim a marathon victory over Carissa Yip to take clear first place. | Photo: Tata Steel Chess / Lenart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-6",
-         "pubDate" : "Sat, 24 Jan 2026 05:50:00",
-         "title" : "Tata Steel Chess: Abdusattorov sole leader, as Gukesh blunders inexplicably"
+         "description" : "GM&#38;nbsp;Nodirbek Abdusattorov took advantage of a heartbreaking blunder in an equal position by World Champion Gukesh Dommaraju to take the sole lead in the 2026 Tata Steel Chess Masters on 4.5/6. GM Javokhir Sindarov is now half a point behind in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-6",
+         "pubDate" : "Fri, 23 Jan 2026 23:11:00",
+         "title" : "Abdusattorov Pounces On Gukesh's Blunder To Grab Sole Lead"
       },
       {
          "description" : " Nodirbek Abdusattorov took the lead of the Tata Steel Masters alone after defeating Gukesh following a terrible one move blunder from the Indian, meanwhile joint leader Hans Moke Niemann lost against Vincent Keymer. In the only other decisive game Yagiz Kaan Erdogmus beat Jorden Van Foreest in a game settled near first time control, both players missed big ideas in spite of not being in serious time trouble. The other games were drawn. Matthias Bluebaum was pretty upset with himself that he didn't convert winning chances against Arjun Erigaisi. Aravindh Chithambaram was dead lost against Javokhir Sindarov who blew the win with his final move before time control with only a few seconds left.",
@@ -32,22 +40,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sarana-nakamura-terry-3-0-thursday-1-22-2026",
          "pubDate" : "Fri, 23 Jan 2026 13:19:49",
          "title" : "Last Round Swings Leave Sarana, Nakamura, Terry as 3 0 Thursday Winners"
-      },
-      {
-         "description" : "Magnus had recently seemed somewhat weary of tournaments with classical time controls, but the organisers of the TePe Sigeman & Co Tournament (1-7 May 2026) have now rather surprisingly announced the participation of the world number one. Carlsen last played in Malm&ouml; as a 14-year-old. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-to-play-at-the-tepe-sigeman-co-in-malmoe",
-         "pubDate" : "Fri, 23 Jan 2026 13:05:03",
-         "title" : "Magnus Carlsen to play at the TePe Sigeman & Co in Malm&ouml;"
-      },
-      {
-         "description" : "GM&#38;nbsp;Nodirbek Abdusattorov took advantage of a heartbreaking blunder in an equal position by World Champion Gukesh Dommaraju to take the sole lead in the 2026 Tata Steel Chess Masters on 4.5/6. GM Javokhir Sindarov is now half a point behind in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-6",
-         "pubDate" : "Fri, 23 Jan 2026 12:11:00",
-         "title" : "Abdusattorov Pounces On Gukesh's Blunder To Grab Sole Lead"
       },
       {
          "description" : "GM Pranav Venkatesh is now a Freestyle Friday victor, taking his first tournament on January 23 with a 9.5/11 score. Coming in second place was GM Martin Kravtsiv, followed by GM Nodirbek Yakkuboev in third and GM Shamsiddin Vokhidov in fourth, wh...",
@@ -88,22 +80,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/inside-story-story-and-sacrifice",
          "pubDate" : "Fri, 23 Jan 2026 00:00:00",
          "title" : "Inside Story: Story and Sacrifice"
-      },
-      {
-         "description" : "Song Yuxin's 2025 season marked a decisive step forward in her career. Focusing exclusively on classical chess, this analysis looks at how a heavy tournament schedule, largely centred on open events, translated into a major rating climb, a rise from the fringes of the top 100 to the women's top 25, and a strong finish to her final year as a junior. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/2025-breakthrough-year-song-yuxin",
-         "pubDate" : "Thu, 22 Jan 2026 23:15:00",
-         "title" : "2025: A breakthrough year for Song Yuxin"
-      },
-      {
-         "description" : "Auckland, 21 January 2026 - The 2026 edition of the Bob Wade Memorial round robin event concluded in Auckland, New Zealand, with English super GM Michael Adams finishing top with 6.5 points out of 9 rounds and a final tally of +4 -0 =5, half a point ahead of Commonwealth Chess Champion and ChessBase columnist, GM Daniel Fernandez (+3 -0 = 6). Report by Edwin Lam Choong Wai, photos by Weiyang Yu, Cadence",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/adams-wins-2026-bob-wade-memorial",
-         "pubDate" : "Thu, 22 Jan 2026 19:21:28",
-         "title" : "Adams wins 2026 Bob Wade Memorial"
       },
       {
          "description" : "<ul><li> Report cites cardiac arrhythmia tied to sarcoidosis </li><li> Drug use contributory but not fatal, examiner says </li></ul> American chess grandmaster Daniel Naroditsky died last year after suffering a sudden heart rhythm disturbance, with an underlying heart condition identified as the primary cause, according to a report released by North Carolina medical authorities. The 29-year-old was <a href=\"https://www.theguardian.com/sport/2025/oct/20/daniel-naroditsky-dies-chess-grandmaster\">found dead at his townhome in Charlotte</a> in October 2025. At the time, police said his death was being investigated as a possible overdose or suicide, and no cause had been made public. <a href=\"htt",
