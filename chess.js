@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When I first read that protesters had delayed the start of the annual elite chess tournament at Wijk aan Zee in Holland, my initial response was one of puzzled curiosity. One naturally assumes that a disturbance at such an event must arise from some internal heresy within the game itself. Perhaps, I thought, the sponsors []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chess-protest/",
+         "pubDate" : "Sat, 24 Jan 2026 14:40:18",
+         "title" : "Chess protest"
+      },
+      {
+         "description" : "A big part of promotion on most courses that get released in chess are two things: And as for most things in our world, intuitively, most of us think: More = better. \"Wow, I get 100 hours of video for just x dollars\" is a common way to think about the second metric. I know []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/more-is-better-fallacy/",
+         "pubDate" : "Sat, 24 Jan 2026 14:00:00",
+         "title" : "This fallacy will cost you lots of money and time"
+      },
+      {
+         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. After five rounds, Hans Niemann, Javokhir Sindarov and Nodirbek Abdusattorov share the lead in the Masters, with 3&frac12; points each. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
+         "pubDate" : "Sat, 24 Jan 2026 13:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "The European Chess Union has announced the creation of the European Chess Super League, a new elite club competition scheduled to debut in 2027. Featuring eight leading clubs and a substantial prize fund, the event aims to bring top-level team chess into a dedicated continental format. Organisers also confirmed plans for a corresponding Women's Super League, underlining a broader effort to expand the profile of club chess in Europe.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -784,14 +808,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-2025-coaching-three-candidates-in-one-team-gm-thipsays-masterclass-behind-sg-pipers-title/articleshow/126355476.cms",
          "pubDate" : "Mon, 05 Jan 2026 14:29:56",
          "title" : "GCL: Coaching 3 Candidates in one team; Thipsay's masterclass behind SG Pipers' title"
-      },
-      {
-         "description" : "I'm constantly fascinated by the sheer power of our minds. That power leads to a lot of good, but also some things that go against us. Recently I wrote an article on how ratings are great, just our interpretations of them are not. Today, I want to expand on that and share a personal annecdote []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/narrative-fallacy-in-chess/",
-         "pubDate" : "Sat, 03 Jan 2026 14:00:00",
-         "title" : "The Stories That Create Anxiety"
       }
    ]
 }
