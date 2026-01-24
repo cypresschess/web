@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Nodirbek Abdusattorov took the lead of the Tata Steel Masters alone after defeating Gukesh following a terrible one move blunder from the Indian, meanwhile joint leader Hans Moke Niemann lost against Vincent Keymer. In the only other decisive game Yagiz Kaan Erdogmus beat Jorden Van Foreest in a game settled near first time control, both players missed big ideas in spite of not being in serious time trouble. The other games were drawn. Matthias Bluebaum was pretty upset with himself that he didn't convert winning chances against Arjun Erigaisi. Aravindh Chithambaram was dead lost against Javokhir Sindarov who blew the win with his final move before time control with only a few seconds left.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-leads-the-tata-steel-masters-4.56-after-a-horrendous-blunder-by-gukesh",
+         "pubDate" : "Fri, 23 Jan 2026 23:08:00",
+         "title" : "Abdusattorov leads the Tata Steel Masters 4.5/6 after a horrendous blunder by Gukesh - 6"
+      },
+      {
          "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. After five rounds, Hans Niemann, Javokhir Sindarov and Nodirbek Abdusattorov share the lead in the Masters, with 3&frac12; points each. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
          "pubDate" : "Fri, 23 Jan 2026 13:45:00",
          "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "The tournament leaders going into the final round of all three 3 0 Thursday tournaments on January 22 all lost their games and their leads. The chaotic day ended with GM Alexey Sarana winning a tournament for the third straight week, GM Hikaru Nak...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sarana-nakamura-terry-3-0-thursday-1-22-2026",
+         "pubDate" : "Fri, 23 Jan 2026 13:19:49",
+         "title" : "Last Round Swings Leave Sarana, Nakamura, Terry as 3 0 Thursday Winners"
       },
       {
          "description" : "Magnus had recently seemed somewhat weary of tournaments with classical time controls, but the organisers of the TePe Sigeman & Co Tournament (1-7 May 2026) have now rather surprisingly announced the participation of the world number one. Carlsen last played in Malm&ouml; as a 14-year-old. | Photo: Lennart Ootes",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2026/01/13/ashley-appears-on-oprah/",
          "pubDate" : "Tue, 13 Jan 2026 20:42:45",
          "title" : "Ashley appears on Oprah!"
-      },
-      {
-         "description" : "GM Javokhir Sindarov took home&#38;nbsp;Titled Tuesday honors on January 13 after holding a draw against countryman GM Nodirbek Abdusattorov in the final round. The result gave Sindarov outright first place with 9.5 points after GM Alexey Sarana went ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sindarov-wins-titled-tuesday-january-13-2026",
-         "pubDate" : "Tue, 13 Jan 2026 12:09:49",
-         "title" : "Sindarov Takes Tuesday Out Of All-Uzbek Final"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126502200.cms\" />Indian grandmaster R Praggnanandhaa admitted his form dipped after a hectic 2025 season despite early title wins. He struggled in the year's latter half but is not worried about the 2026 Candidates. Praggnanandhaa believes continuous tournaments affected his play and says an upcoming two-month break will help him rest, regroup, and prepare better.",
