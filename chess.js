@@ -18,6 +18,14 @@ news_feed (
          "title" : "This fallacy will cost you lots of money and time"
       },
       {
+         "description" : "The grenke Chess Festival will return to Karlsruhe over Easter 2026, bringing together thousands of players for parallel classical and Freestyle opens. For the first time, the Freestyle event will serve as a qualifier for the FIDE Freestyle Chess World Championship, adding direct sporting stakes to the established festival format. Leading figures including Magnus Carlsen and Vincent Keymer are set to feature in one of the largest open gatherings in world chess. | Photo: Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grenke-freestyle-open-2026-announcement",
+         "pubDate" : "Sat, 24 Jan 2026 13:50:00",
+         "title" : "Grenke Freestyle Chess Open returns to Karlsruhe: Now a qualifier for Freestyle Chess World Championship"
+      },
+      {
          "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. After five rounds, Hans Niemann, Javokhir Sindarov and Nodirbek Abdusattorov share the lead in the Masters, with 3&frac12; points each. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-chess-super-league-2027-announcement",
          "pubDate" : "Sat, 24 Jan 2026 12:20:00",
          "title" : "European Chess Union unveils European Chess Super League 2027"
+      },
+      {
+         "description" : "GM&#38;nbsp;Nodirbek Abdusattorov felt he played his best game yet as he defeated GM Vincent Keymer with Black to take a one-point lead as we cross the halfway mark of the&#38;nbsp;2026 Tata Steel Chess Masters. World Champion Gukesh Dommaraju slumped to ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-7",
+         "pubDate" : "Sat, 24 Jan 2026 12:05:07",
+         "title" : "Abdusattorov Grows Lead As Giri Beats Gukesh"
       },
       {
          "description" : "21-year-old Aaryan Varshney from Delhi has become India's 92nd Chess Grandmaster, achieving his final norm at the Andranik Margaryan Memorial in Armenia in January 2026.",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-fide-freestyle-chess-world-championship-play-in-day-1",
          "pubDate" : "Wed, 14 Jan 2026 12:18:00",
          "title" : "Abdusattorov, Pranav, Oparin, Tabatabaei Advance To Knockout"
-      },
-      {
-         "description" : "The FIDE Ethics &#38;amp; Disciplinary Commission (EDC) has fined the Iranian Chess Federation &#38;euro;25,000 for a deliberate boycott of the Israeli women&#39;s national team during the 45th Chess Olympiad in Budapest, Hungary.&#38;nbsp; The EDC decision is ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/iranian-chess-federation-fined-25-000-euro-israel-boycott",
-         "pubDate" : "Wed, 14 Jan 2026 08:18:25",
-         "title" : "FIDE Imposes €25,000 Fine On Iran Following Israel Boycott"
       },
       {
          "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out the start of our Tactics Tuesday series with more beginner-friendly puzzles here and here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
