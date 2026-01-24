@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "21-year-old Aaryan Varshney from Delhi has become India's 92nd Chess Grandmaster, achieving his final norm at the Andranik Margaryan Memorial in Armenia in January 2026.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/21-year-old-aaryan-varshney-from-delhi-has-become-indias-92nd-chess-grandmaster/",
+         "pubDate" : "Sat, 24 Jan 2026 06:28:00",
+         "title" : "21-year-old Aaryan Varshney from Delhi has become India's 92nd Chess Grandmaster"
+      },
+      {
+         "description" : "Round six of the Tata Steel Chess Tournament featured a number of pivotal games in both sections. In the Masters, Nodirbek Abdusattorov defeated world champion Gukesh Dommaraju after a sudden one-move blunder, moving ahead of the field, while Vincent Keymer and Yagiz Kaan Erdogmus also collected important wins. The Challengers saw Andy Woodward claim a marathon victory over Carissa Yip to take clear first place. | Photo: Tata Steel Chess / Lenart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-6",
+         "pubDate" : "Sat, 24 Jan 2026 05:50:00",
+         "title" : "Tata Steel Chess: Abdusattorov sole leader, as Gukesh blunders inexplicably"
+      },
+      {
          "description" : " Nodirbek Abdusattorov took the lead of the Tata Steel Masters alone after defeating Gukesh following a terrible one move blunder from the Indian, meanwhile joint leader Hans Moke Niemann lost against Vincent Keymer. In the only other decisive game Yagiz Kaan Erdogmus beat Jorden Van Foreest in a game settled near first time control, both players missed big ideas in spite of not being in serious time trouble. The other games were drawn. Matthias Bluebaum was pretty upset with himself that he didn't convert winning chances against Arjun Erigaisi. Aravindh Chithambaram was dead lost against Javokhir Sindarov who blew the win with his final move before time control with only a few seconds left.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-leads-the-tata-steel-masters-4.56-after-a-horrendous-blunder-by-gukesh",
          "pubDate" : "Fri, 23 Jan 2026 23:08:00",
          "title" : "Abdusattorov leads the Tata Steel Masters 4.5/6 after a horrendous blunder by Gukesh - 6"
-      },
-      {
-         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. After five rounds, Hans Niemann, Javokhir Sindarov and Nodirbek Abdusattorov share the lead in the Masters, with 3&frac12; points each. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
-         "pubDate" : "Fri, 23 Jan 2026 13:45:00",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "The tournament leaders going into the final round of all three 3 0 Thursday tournaments on January 22 all lost their games and their leads. The chaotic day ended with GM Alexey Sarana winning a tournament for the third straight week, GM Hikaru Nak...",
@@ -746,14 +754,6 @@ news_feed (
          "title" : "Kolkata Rapid &amp; Blitz: Nihal Sarin joins Anand at the top after Day 2"
       },
       {
-         "description" : "To submit an Expression of Interest, interested candidates should complete their application using the following Google Form. https://forms.gle/dVvfGrgWE2EZNp8R8 Criteria: GM/IM/WGM/WIM/Fide Senior Trainer/Fide Trainer /Fide Instructor",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/expression-of-interest-for-aicf-coach-in-various-events-and-camps-2026-27/",
-         "pubDate" : "Thu, 08 Jan 2026 11:56:33",
-         "title" : "Expression of Interest for AICF Coach in Various Events and Camps 2026-27"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126412065.cms\" />FIDE and Freestyle Chess ended a long-running dispute over world championship authority by agreeing to stage the first official FIDE Freestyle Chess World Championship. The conflict began in late 2024 over title rights, sparking public clashes and player concerns. A renewed dialogue in 2025 led to reconciliation, aligning Freestyle's tour with FIDE governance and creating a unified championship framework.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -816,14 +816,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/narrative-fallacy-in-chess/",
          "pubDate" : "Sat, 03 Jan 2026 14:00:00",
          "title" : "The Stories That Create Anxiety"
-      },
-      {
-         "description" : "I had intended this week to cover the 2025 London Classic, but the sudden passing of Barry Martin last month has caused me to revise my schedule. Of contemporary artists, Barry Martin, a friend of both Teeny Duchamp (Marcel's widow) and of composer John Cage (Duchamp's faithful disciple) was the most prominent chess player. Born on 23rd February 1943, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/barry-martin-rip/",
-         "pubDate" : "Sat, 03 Jan 2026 07:52:53",
-         "title" : "Barry Martin RIP"
       }
    ]
 }
