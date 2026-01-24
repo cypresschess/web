@@ -39,7 +39,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-6",
          "pubDate" : "Fri, 23 Jan 2026 12:11:00",
-         "title" : "Abdusattorov Pounces On Gukesh Blunder To Grab Sole Lead"
+         "title" : "Abdusattorov Pounces On Gukesh's Blunder To Grab Sole Lead"
       },
       {
          "description" : "GM Pranav Venkatesh is now a Freestyle Friday victor, taking his first tournament on January 23 with a 9.5/11 score. Coming in second place was GM Martin Kravtsiv, followed by GM Nodirbek Yakkuboev in third and GM Shamsiddin Vokhidov in fourth, wh...",
