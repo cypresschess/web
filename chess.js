@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The grenke Chess Festival returns to Karlsruhe at Easter 2026, bringing together thousands of players for one of the world's largest chess gatherings. Alongside the traditional classical Open, the festival will stage a Freestyle Chess Open that serves as a qualifier for the FIDE Freestyle Chess World Championship. With leading grandmasters expected and substantial prizes at stake, the event combines large-scale participation with direct international sporting significance.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grenke-freestyle-open-2026-trailer",
+         "pubDate" : "Sun, 25 Jan 2026 21:10:00",
+         "title" : "Grenke Chess Festival: Video trailer released"
+      },
+      {
          "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. After five rounds, Hans Niemann, Javokhir Sindarov and Nodirbek Abdusattorov share the lead in the Masters, with 3&frac12; points each. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
          "pubDate" : "Sun, 25 Jan 2026 13:45:00",
          "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "An incredible weekend for Dutch GM Anish Giri ended with him adding victory with Black over leader GM Nodirbek Abdusattorov to his win over World Champion Gukesh Dommaraju the day before. Abdusattorov still leads the&#38;nbsp;2026 Tata Steel Chess Mas...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-8",
+         "pubDate" : "Sun, 25 Jan 2026 11:53:18",
+         "title" : "Giri Beats Leader Abdusattorov As Gukesh Bounces Back"
       },
       {
          "description" : "Calculation separates the wheat from the chaff in chess. At the same time, many club players devote too little of their training to the skills involved. In today's flood of courses and databases, everyone can bring their openings to a solid level and make \"sensible\" moves. Yet most games are still decided in close combat. Hannes Langrock is an editor at a fiction publishing house and an International Master. He lives in Leipzig and plays for ESV Nickelh&uuml;tte Aue. He reviews Surya Ganguly's course \"Calculation Step by Step Vol. 1\". | Photos: ChessBase",
@@ -552,14 +568,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-chesscom-puzzles-championship-puzzle-rush-royale",
          "pubDate" : "Thu, 15 Jan 2026 17:43:00",
          "title" : "5-Time Winner Ray Robson Storms Into 2026 Puzzle Championship Finals"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov won the 2026 Freestyle Chess World Championship Play-in Knockout to earn $1,000 and qualify for the last available spot in the world championship. He beat GM Amin Tabatabaei 1.5-0.5 in the Semifinals and then GM Pranav Ven...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/abdusattorov-wins-2026-fide-freestyle-chess-world-championship-play-in",
-         "pubDate" : "Thu, 15 Jan 2026 12:39:00",
-         "title" : "Abdusattorov Qualifies For FIDE Freestyle Chess World Championship"
       },
       {
          "description" : "The FIDE Global Conference on Chess in Society and Education began on 14 January 2026 at KIIT University, Bhubaneswar. The three-day event convenes education leaders,",
