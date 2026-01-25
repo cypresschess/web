@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Nodirbek Abdusattorov extended his lead of the Tata Steel Masters after defeating Vincent Keymer in Round 7 to move to 5.5/7 a point clear of fellow countryman Javokhir Sindarov who drew with Hans Moke Niemann. Anish Giri beat World Champion Gukesh who was probably still unstable after his shocking Round 6 blunder. Teenager Yagiz Kaan Erdogmus moved into a share of third with an impressive win against Arjun Erigaisi. Thai Dai Van Nguyen drew with Vladimir Fedoseev and Praggnanandhaa drew a wild game with Matthias Bluebaum. MarcAndria Maurizzi has joined Andy Woodward in the lead with 5.5/7 after his five game winning run came to an end with a draw against third placed Aydin Suleymanli. Look",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-leads-the-tata-steel-masters-by-a-point-after-beating-keymer-in-round-7",
+         "pubDate" : "Sun, 25 Jan 2026 00:11:00",
+         "title" : "Abdusattorov leads the Tata Steel Masters by a point after beating Keymer in Round 7 - 7"
+      },
+      {
          "description" : "When I first read that protesters had delayed the start of the annual elite chess tournament at Wijk aan Zee in Holland, my initial response was one of puzzled curiosity. One naturally assumes that a disturbance at such an event must arise from some internal heresy within the game itself. Perhaps, I thought, the sponsors []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
