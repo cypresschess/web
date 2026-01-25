@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Calculation separates the wheat from the chaff in chess. At the same time, many club players devote too little of their training to the skills involved. In today's flood of courses and databases, everyone can bring their openings to a solid level and make \"sensible\" moves. Yet most games are still decided in close combat. Hannes Langrock is an editor at a fiction publishing house and an International Master. He lives in Leipzig and plays for ESV Nickelh&uuml;tte Aue. He reviews Surya Ganguly's course \"Calculation Step by Step Vol. 1\". | Photos: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-calculation-step-by-step-vol-1-by-surya-ganguly",
+         "pubDate" : "Sun, 25 Jan 2026 07:00:00",
+         "title" : "Review: \"Calculation Step by Step Vol. 1\" by Surya Ganguly"
+      },
+      {
          "description" : " Nodirbek Abdusattorov extended his lead of the Tata Steel Masters after defeating Vincent Keymer in Round 7 to move to 5.5/7 a point clear of fellow countryman Javokhir Sindarov who drew with Hans Moke Niemann. Anish Giri beat World Champion Gukesh who was probably still unstable after his shocking Round 6 blunder. Teenager Yagiz Kaan Erdogmus moved into a share of third with an impressive win against Arjun Erigaisi. Thai Dai Van Nguyen drew with Vladimir Fedoseev and Praggnanandhaa drew a wild game with Matthias Bluebaum. MarcAndria Maurizzi has joined Andy Woodward in the lead with 5.5/7 after his five game winning run came to an end with a draw against third placed Aydin Suleymanli. Look",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-leads-the-tata-steel-masters-by-a-point-after-beating-keymer-in-round-7",
          "pubDate" : "Sun, 25 Jan 2026 00:11:00",
          "title" : "Abdusattorov leads the Tata Steel Masters by a point after beating Keymer in Round 7 - 7"
+      },
+      {
+         "description" : "GM Hikaru Nakamura tightened his iron grip over the Bullet Brawl arena on Saturday after winning his fourth straight title of 2026. In this week&#39;s edition, Nakamura timed his streaks well and posted a score of 165 after chasing down Turkish phenom...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-jan-24-2026",
+         "pubDate" : "Sat, 24 Jan 2026 21:05:54",
+         "title" : "Nakamura Sustains Bullet Brawl Monopoly With 4th Straight Win"
       },
       {
          "description" : "When I first read that protesters had delayed the start of the annual elite chess tournament at Wijk aan Zee in Holland, my initial response was one of puzzled curiosity. One naturally assumes that a disturbance at such an event must arise from some internal heresy within the game itself. Perhaps, I thought, the sponsors []",
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-chess-offices-be-closed-monday-jan-19-martin-luther-king-jr-day",
          "pubDate" : "Thu, 15 Jan 2026 00:00:00",
          "title" : "US Chess Offices to be Closed Monday, Jan. 19 for Martin Luther King Jr. Day"
-      },
-      {
-         "description" : "GMs Nodirbek Abdusattorov, Pranav Venkatesh, Grigoriy Oparin, and Amin Tabatabaei all finished with 7/9 to place in the top-four of the 2026 FIDE Freestyle Chess World Championship Play-in Swiss, and they advance to the Knockout. Only one of the f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-freestyle-chess-world-championship-play-in-day-1",
-         "pubDate" : "Wed, 14 Jan 2026 12:18:00",
-         "title" : "Abdusattorov, Pranav, Oparin, Tabatabaei Advance To Knockout"
       },
       {
          "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out the start of our Tactics Tuesday series with more beginner-friendly puzzles here and here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
