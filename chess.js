@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. After five rounds, Hans Niemann, Javokhir Sindarov and Nodirbek Abdusattorov share the lead in the Masters, with 3&frac12; points each. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
+         "pubDate" : "Sun, 25 Jan 2026 13:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "Calculation separates the wheat from the chaff in chess. At the same time, many club players devote too little of their training to the skills involved. In today's flood of courses and databases, everyone can bring their openings to a solid level and make \"sensible\" moves. Yet most games are still decided in close combat. Hannes Langrock is an editor at a fiction publishing house and an International Master. He lives in Leipzig and plays for ESV Nickelh&uuml;tte Aue. He reviews Surya Ganguly's course \"Calculation Step by Step Vol. 1\". | Photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-jan-24-2026",
-         "pubDate" : "Sat, 24 Jan 2026 21:05:54",
+         "pubDate" : "Sat, 24 Jan 2026 21:05:00",
          "title" : "Nakamura Sustains Bullet Brawl Monopoly With 4th Straight Win"
       },
       {
@@ -40,30 +48,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/more-is-better-fallacy/",
          "pubDate" : "Sat, 24 Jan 2026 14:00:00",
          "title" : "This fallacy will cost you lots of money and time"
-      },
-      {
-         "description" : "The grenke Chess Festival will return to Karlsruhe over Easter 2026, bringing together thousands of players for parallel classical and Freestyle opens. For the first time, the Freestyle event will serve as a qualifier for the FIDE Freestyle Chess World Championship, adding direct sporting stakes to the established festival format. Leading figures including Magnus Carlsen and Vincent Keymer are set to feature in one of the largest open gatherings in world chess. | Photo: Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grenke-freestyle-open-2026-announcement",
-         "pubDate" : "Sat, 24 Jan 2026 13:50:00",
-         "title" : "Grenke Freestyle Chess Open returns to Karlsruhe: Now a qualifier for Freestyle Chess World Championship"
-      },
-      {
-         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. After five rounds, Hans Niemann, Javokhir Sindarov and Nodirbek Abdusattorov share the lead in the Masters, with 3&frac12; points each. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
-         "pubDate" : "Sat, 24 Jan 2026 13:45:00",
-         "title" : "Tata Steel Chess - Live!"
-      },
-      {
-         "description" : "The European Chess Union has announced the creation of the European Chess Super League, a new elite club competition scheduled to debut in 2027. Featuring eight leading clubs and a substantial prize fund, the event aims to bring top-level team chess into a dedicated continental format. Organisers also confirmed plans for a corresponding Women's Super League, underlining a broader effort to expand the profile of club chess in Europe.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-chess-super-league-2027-announcement",
-         "pubDate" : "Sat, 24 Jan 2026 12:20:00",
-         "title" : "European Chess Union unveils European Chess Super League 2027"
       },
       {
          "description" : "GM&#38;nbsp;Nodirbek Abdusattorov felt he played his best game yet as he defeated GM Vincent Keymer with Black to take a one-point lead as we cross the halfway mark of the&#38;nbsp;2026 Tata Steel Chess Masters. World Champion Gukesh Dommaraju slumped to ...",
