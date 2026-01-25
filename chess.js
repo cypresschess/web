@@ -54,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-7",
-         "pubDate" : "Sat, 24 Jan 2026 12:05:07",
+         "pubDate" : "Sat, 24 Jan 2026 12:05:00",
          "title" : "Abdusattorov Grows Lead As Giri Beats Gukesh"
       },
       {
