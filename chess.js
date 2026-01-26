@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Play in Wijk aan Zee continued with an important result in the Masters, where Anish Giri defeated leader Nodirbek Abdusattorov, though Abdusattorov remains in first place. Javokhir Sindarov stays close behind after drawing Vinceny Keymer. Meanwhile, world champion Gukesh Dommaraju scored a win with the black pieces over Vladimir Fedoseev to bounce back from a pair of painful losses. In the Challengers, Andy Woodward and Marc'Andria Maurizzi both won to remain co-leaders, with Aydin Suleymanli half a point back. | Photo: Tata Steel Chess / Lenart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-8",
+         "pubDate" : "Mon, 26 Jan 2026 17:15:00",
+         "title" : "Tata Steel Chess: Giri stops Abdusattorov's momentum, Gukesh beats Fedoseev"
+      },
+      {
          "description" : "Recently we sent a friend of our company a copy of our latest database software, asking him what he thought of it. Instead of simply using it in the customary fashon, Iniyan P, a strong and very active grandmaster, spent weeks delving into every corner of the program, searching for all new featurs and enhancements: And he submitted an extensive training review, which we share with our readers.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-2026-a-players-guide-1",
          "pubDate" : "Mon, 26 Jan 2026 11:09:28",
          "title" : "Chessbase 2026: A Players Guide (1)"
+      },
+      {
+         "description" : "It&#39;s time to celebrate your chess consistency with Chess.com&#39;s new Streaks feature! Whether you&#39;re looking to build good habits to improve your game or show off just how passionate you are about chess, you can now do it by starting and maintaining...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-streaks",
+         "pubDate" : "Mon, 26 Jan 2026 08:20:53",
+         "title" : "Celebrate Your Chess Consistency With Chess.com's New Streaks Feature"
       },
       {
          "description" : " The Tata Steel Masters reached its second rest day with Nodirbek Abdusattorov leading by half a point over fellow Uzbek Javokhir Sindarov. Abdusattorov had the disappointment of losing to Anish Giri, he almost pulled off a miracle save but failed at the last hurdle. Sindarov drew against Vincent Keymer, maybe Keymer had a small chance in the opening but otherwise it was a steady draw. The only other decisive game of the day was Gukesh's fine win against Vladimir Fedoseev. There was uncompromising chess from both players but in the end it was Gukesh that brought home the full point. Matthias Bluebaum spent several minutes at the board trying to come to terms with how he botched a winning pos",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grenke-freestyle-open-2026-trailer",
          "pubDate" : "Sun, 25 Jan 2026 21:10:00",
          "title" : "Grenke Chess Festival: Video trailer released"
-      },
-      {
-         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. After five rounds, Hans Niemann, Javokhir Sindarov and Nodirbek Abdusattorov share the lead in the Masters, with 3&frac12; points each. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
-         "pubDate" : "Sun, 25 Jan 2026 13:45:00",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "An incredible weekend for Dutch GM Anish Giri ended with him adding victory with Black over leader GM Nodirbek Abdusattorov to his win over World Champion Gukesh Dommaraju the day before. Abdusattorov still leads the&#38;nbsp;2026 Tata Steel Chess Mas...",
@@ -586,14 +594,6 @@ news_feed (
          "title" : "Gotham vs. Song Begins With Razor-Sharp Draw"
       },
       {
-         "description" : "Five-time Puzzles Champion GM Ray Robson was first to qualify for the eight-player Knockout Finals of the 2026 Chess.com Puzzles Championship, and posted the day&#39;s best score of 62. He was joined by GMs Pranav Venkatesh, Jeffery Xiong, and Mitrabh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-chesscom-puzzles-championship-puzzle-rush-royale",
-         "pubDate" : "Thu, 15 Jan 2026 17:43:00",
-         "title" : "5-Time Winner Ray Robson Storms Into 2026 Puzzle Championship Finals"
-      },
-      {
          "description" : "The FIDE Global Conference on Chess in Society and Education began on 14 January 2026 at KIIT University, Bhubaneswar. The three-day event convenes education leaders,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -840,14 +840,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/how-a-pre-world-war-ii-chess-tournament-in-the-netherlands-inspired-indias-only-super-rapid-and-blitz-event-in-kolkata/articleshow/126369961.cms",
          "pubDate" : "Tue, 06 Jan 2026 08:36:16",
          "title" : "How a pre-World War II chess tournament in the Netherlands inspired India's only Super Rapid and Blitz event in Kolkata"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126355476.cms\" />SG Pipers, featuring three Candidates 2026 qualifiers, defied expectations to win the Global Chess League Season 3. Coach Pravin Thipsay revealed that overconfidence on the top boards led to struggles, with the lower-ranked players ultimately carrying the team to victory.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-2025-coaching-three-candidates-in-one-team-gm-thipsays-masterclass-behind-sg-pipers-title/articleshow/126355476.cms",
-         "pubDate" : "Mon, 05 Jan 2026 14:29:56",
-         "title" : "GCL: Coaching 3 Candidates in one team; Thipsay's masterclass behind SG Pipers' title"
       }
    ]
 }
