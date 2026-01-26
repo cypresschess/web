@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Recently we sent a friend of our company a copy of our latest database software, asking him what he thought of it. Instead of simply using it in the customary fashon, Iniyan P, a strong and very active grandmaster, spent weeks delving into every corner of the program, searching for all new featurs and enhancements: And he submitted an extensive training review, which we share with our readers.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-2026-a-players-guide-1",
+         "pubDate" : "Mon, 26 Jan 2026 11:09:28",
+         "title" : "Chessbase 2026: A Players Guide (1)"
+      },
+      {
          "description" : " The Tata Steel Masters reached its second rest day with Nodirbek Abdusattorov leading by half a point over fellow Uzbek Javokhir Sindarov. Abdusattorov had the disappointment of losing to Anish Giri, he almost pulled off a miracle save but failed at the last hurdle. Sindarov drew against Vincent Keymer, maybe Keymer had a small chance in the opening but otherwise it was a steady draw. The only other decisive game of the day was Gukesh's fine win against Vladimir Fedoseev. There was uncompromising chess from both players but in the end it was Gukesh that brought home the full point. Matthias Bluebaum spent several minutes at the board trying to come to terms with how he botched a winning pos",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
