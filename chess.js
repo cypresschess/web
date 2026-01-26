@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Tata Steel Masters reached its second rest day with Nodirbek Abdusattorov leading by half a point over fellow Uzbek Javokhir Sindarov. Abdusattorov had the disappointment of losing to Anish Giri, he almost pulled off a miracle save but failed at the last hurdle. Sindarov drew against Vincent Keymer, maybe Keymer had a small chance in the opening but otherwise it was a steady draw. The only other decisive game of the day was Gukesh's fine win against Vladimir Fedoseev. There was uncompromising chess from both players but in the end it was Gukesh that brought home the full point. Matthias Bluebaum spent several minutes at the board trying to come to terms with how he botched a winning pos",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/nodirbek-abdusattorov-still-leads-the-tata-steel-masters-with-5.58-even-after-losing-to-anish-giri",
+         "pubDate" : "Sun, 25 Jan 2026 23:00:00",
+         "title" : "Nodirbek Abdusattorov still leads the Tata Steel Masters with 5.5/8 even after losing to Anish Giri - 6"
+      },
+      {
+         "description" : "Manuel Petrosyan and Anahit Mkrtchyan won the Armenian National Championships in Yerevan, earning national titles and places in future international team events. The parallel round-robin tournaments were closely fought, with the open section decided in the final round and the women's title emerging from a sustained duel at the top. The event reflected the depth and competitiveness of Armenia's domestic chess scene. | Photos: Armenian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armenian-championships-2026-report",
+         "pubDate" : "Sun, 25 Jan 2026 21:35:00",
+         "title" : "Armenian Championships: Manuel Petrosyan and Anahit Mkrtchyan collect national titles"
+      },
+      {
          "description" : "The grenke Chess Festival returns to Karlsruhe at Easter 2026, bringing together thousands of players for one of the world's largest chess gatherings. Alongside the traditional classical Open, the festival will stage a Freestyle Chess Open that serves as a qualifier for the FIDE Freestyle Chess World Championship. With leading grandmasters expected and substantial prizes at stake, the event combines large-scale participation with direct international sporting significance.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
