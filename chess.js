@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Play in Wijk aan Zee continued with an important result in the Masters, where Anish Giri defeated leader Nodirbek Abdusattorov, though Abdusattorov remains in first place. Javokhir Sindarov stays close behind after drawing Vinceny Keymer. Meanwhile, world champion Gukesh Dommaraju scored a win with the black pieces over Vladimir Fedoseev to bounce back from a pair of painful losses. In the Challengers, Andy Woodward and Marc'Andria Maurizzi both won to remain co-leaders, with Aydin Suleymanli half a point back. | Photo: Tata Steel Chess / Lenart Ootes",
+         "description" : "The long-standing tournament in Wijk aan Zee offers a wealth of chess content, stories, images and interesting personalities. The following report takes a look behind the scenes, with background information and interviews. For example, you can meet the man behind the fantastic live experience on the Tata Steel Chess website, Menno Pals (pictured). | Photos: Nils Rhode / Interviews: Andr&eacute; Schulz and Arne K&auml;hler",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-behind-the-scenes",
+         "pubDate" : "Mon, 26 Jan 2026 21:00:00",
+         "title" : "Wijk aan Zee: A 360-degree look behind the scenes"
+      },
+      {
+         "description" : "Play in Wijk aan Zee continued with an important result in the Masters, where Anish Giri defeated leader Nodirbek Abdusattorov, though Abdusattorov remains in first place. Javokhir Sindarov stays close behind after drawing Vinceny Keymer. Meanwhile, world champion Gukesh Dommaraju scored a win with the black pieces over Vladimir Fedoseev to bounce back from a pair of painful losses. In the Challengers, Andy Woodward and Marc'Andria Maurizzi both won to remain co-leaders, with Aydin Suleymanli half a point back. | Photo: Tata Steel Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-8",
@@ -32,22 +40,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/nodirbek-abdusattorov-still-leads-the-tata-steel-masters-with-5.58-even-after-losing-to-anish-giri",
          "pubDate" : "Sun, 25 Jan 2026 23:00:00",
          "title" : "Nodirbek Abdusattorov still leads the Tata Steel Masters with 5.5/8 even after losing to Anish Giri - 6"
-      },
-      {
-         "description" : "Manuel Petrosyan and Anahit Mkrtchyan won the Armenian National Championships in Yerevan, earning national titles and places in future international team events. The parallel round-robin tournaments were closely fought, with the open section decided in the final round and the women's title emerging from a sustained duel at the top. The event reflected the depth and competitiveness of Armenia's domestic chess scene. | Photos: Armenian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armenian-championships-2026-report",
-         "pubDate" : "Sun, 25 Jan 2026 21:35:00",
-         "title" : "Armenian Championships: Manuel Petrosyan and Anahit Mkrtchyan collect national titles"
-      },
-      {
-         "description" : "The grenke Chess Festival returns to Karlsruhe at Easter 2026, bringing together thousands of players for one of the world's largest chess gatherings. Alongside the traditional classical Open, the festival will stage a Freestyle Chess Open that serves as a qualifier for the FIDE Freestyle Chess World Championship. With leading grandmasters expected and substantial prizes at stake, the event combines large-scale participation with direct international sporting significance.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grenke-freestyle-open-2026-trailer",
-         "pubDate" : "Sun, 25 Jan 2026 21:10:00",
-         "title" : "Grenke Chess Festival: Video trailer released"
       },
       {
          "description" : "An incredible weekend for Dutch GM Anish Giri ended with him adding victory with Black over leader GM Nodirbek Abdusattorov to his win over World Champion Gukesh Dommaraju the day before. Abdusattorov still leads the&#38;nbsp;2026 Tata Steel Chess Mas...",
