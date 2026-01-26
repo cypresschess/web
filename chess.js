@@ -38,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-8",
-         "pubDate" : "Sun, 25 Jan 2026 11:53:18",
+         "pubDate" : "Sun, 25 Jan 2026 11:53:00",
          "title" : "Giri Beats Leader Abdusattorov As Gukesh Bounces Back"
       },
       {
