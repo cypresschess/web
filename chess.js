@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Brazil Chess Series - Floripa Open brought together 542 players from 19 federations for a 10-round Swiss tournament in Florian&oacute;polis from 17 to 25 January. A strong field featuring 19 GMs produced a tightly contested event, with four players tying for first place on 8&frac12;/10. The title was ultimately decided according to tiebreak criteria, with Andr&eacute; Diamant, Aryan Tari and Luis Paulo Supi finishing on the podium. | Photo: Vivian Passig",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/floripa-open-2026-r10",
+         "pubDate" : "Tue, 27 Jan 2026 20:00:00",
+         "title" : "Andr&eacute; Diamant wins Brazil Chess Series - Floripa"
+      },
+      {
          "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. After eight rounds Nodirbek Abdusattorov leads with 5.5/8, half a point ahead of Javokhir Sindarov who is sole second with 5.0/8. In round 9 the two leaders play against each other. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
          "pubDate" : "Tue, 27 Jan 2026 13:45:00",
          "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "&#34;I thought I&#39;d never win a chess game again,&#34; said GM Matthias Bluebaum after beating World Champion Gukesh Dommaraju with Black in round nine of the 2026 Tata Steel Chess Masters. GM Jorden van Foreest demolished GM Vincent Keymer in just 26 move...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-9",
+         "pubDate" : "Tue, 27 Jan 2026 12:02:45",
+         "title" : "Erdogmus, Van Foreest Climb To 2nd As Bluebaum Beats Gukesh"
       },
       {
          "description" : "The Prague International Chess Festival is an annual tournament which has been held in the Czech capital since 2019. This year&#39;s edition will take place in the Don Giovanni Hotel from February 25 to March 6, and the organizers recently announced a...",
@@ -18,12 +34,20 @@ news_feed (
          "title" : "Keymer, Gukesh Top Field For 2026 Prague Masters"
       },
       {
+         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, including some brain-teasers in our Wednesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-world-rapid-blitz-pt-4",
+         "pubDate" : "Tue, 27 Jan 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2025 World Rapid & Blitz, Pt. 4"
+      },
+      {
          "description" : "Recently we sent a friend of our company a copy of our latest database software, asking him what he thought of it. Instead of simply using it in the customary fashon, Iniyan P, a strong and very active grandmaster, spent weeks delving into every corner of the program, searching for all new featurs and enhancements: And he submitted an extensive training review, which we share with our readers.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-2026-a-players-guide-1",
          "pubDate" : "Mon, 26 Jan 2026 11:09:28",
-         "title" : "Chessbase 2026: A Players Guide (1)"
+         "title" : "ChessBase&acute;26: A Players Guide (1)"
       },
       {
          "description" : "It&#39;s time to celebrate your chess consistency with Chess.com&#39;s new Streaks feature! Whether you&#39;re looking to build good habits to improve your game or show off just how passionate you are about chess, you can now do it by starting and maintaining...",
@@ -554,14 +578,6 @@ news_feed (
          "title" : "India gets its 92nd GM: No coach, single father's grind, and ream vs Gukesh"
       },
       {
-         "description" : "GM Ian Nepomniachtchi won Freestyle Friday on January 16, grabbing his opportunity at a mate-in-two in the final round to take the tournament outright with 9.5 points. IM Renato Terry helped by beating the one player who had been tied with Nepomni...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nepomniachtchi-wins-freestyle-friday-january-16-2026",
-         "pubDate" : "Fri, 16 Jan 2026 10:51:00",
-         "title" : "Nepomniachtchi Nails Down Freestyle Friday"
-      },
-      {
          "description" : " India's Gukesh Dommaraju takes on Candidates qualifiers and stars who missed out, plus a talent for the 2030s The annual \"chess Wimbledon\" at Tata Steel Wijk aan Zee in the Netherlands is unusually interesting this year. Its 14-player field matches the reigning world champion, India's Dommaraju Gukesh, against a range of rivals who include four of the eight Candidates who will meet in March to decide his 2026 challenger, another three grandmasters from the world top 10, the controversial US star Hans Niemann, plus a 14-year-old Turk who is breaking age records. Gukesh's unimpressive recent results mean the world Nos 5 and 8, Arjun Erigaisi and Praggnanandhaa Rameshbabu, will aim to finish a",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -624,14 +640,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/yip-so-win-tata-steel-india-blitz-tata-steel-classical-begins-saturday",
          "pubDate" : "Thu, 15 Jan 2026 00:00:00",
          "title" : "Yip, So Win Tata Steel India Blitz as Tata Steel Classical Begins Saturday"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Monday, Jan. 19 in recognition of Martin Luther King Jr. Day.All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items, and thank you for your understanding,",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-offices-be-closed-monday-jan-19-martin-luther-king-jr-day",
-         "pubDate" : "Thu, 15 Jan 2026 00:00:00",
-         "title" : "US Chess Offices to be Closed Monday, Jan. 19 for Martin Luther King Jr. Day"
       },
       {
          "description" : " Maurice Ashley appeared on Oprah along with Adam Grant, who highlighted Ashley in his book, Hidden Potential: The Science of Achieving Greater Things. Grant's book focuses on talent assessment, drawing from stories of successful personalities in various fields. Grandmaster Maurice Ashley, appearing on The Oprah Podcast, with author Adam Grant Hidden Potential&#160;offers a new framework The post <a href=\"https://thechessdrum.net/blog/2026/01/13/ashley-appears-on-oprah/\">Ashley appears on Oprah!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
