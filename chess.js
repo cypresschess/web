@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Prague International Chess Festival is an annual tournament which has been held in the Czech capital since 2019. This year&#39;s edition will take place in the Don Giovanni Hotel from February 25 to March 6, and the organizers recently announced a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/keymer-gukesh-2026-prague-masters-challengers-lineups",
+         "pubDate" : "Tue, 27 Jan 2026 02:39:00",
+         "title" : "Keymer, Gukesh Top Field For 2026 Prague Masters"
+      },
+      {
          "description" : "The long-standing tournament in Wijk aan Zee offers a wealth of chess content, stories, images and interesting personalities. The following report takes a look behind the scenes, with background information and interviews. For example, you can meet the man behind the fantastic live experience on the Tata Steel Chess website, Menno Pals (pictured). | Photos: Nils Rhode / Interviews: Andr&eacute; Schulz and Arne K&auml;hler",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-streaks",
-         "pubDate" : "Mon, 26 Jan 2026 08:20:53",
+         "pubDate" : "Mon, 26 Jan 2026 08:20:00",
          "title" : "Celebrate Your Chess Consistency With Chess.com's New Streaks Feature"
       },
       {
@@ -586,14 +594,6 @@ news_feed (
          "title" : "88th Tata Steel 2026 - Games and Results"
       },
       {
-         "description" : "The match between two of the most popular chess streamers in the world, IMs Levy Rozman and Julien Song, got off to a hard-fought start as both sides missed wins in time pressure before the game ended in a draw.&#38;nbsp; The players shook hands b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gotham-song-1-15-2026",
-         "pubDate" : "Thu, 15 Jan 2026 18:37:39",
-         "title" : "Gotham vs. Song Begins With Razor-Sharp Draw"
-      },
-      {
          "description" : "The FIDE Global Conference on Chess in Society and Education began on 14 January 2026 at KIIT University, Bhubaneswar. The three-day event convenes education leaders,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -824,14 +824,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/from-mentor-to-rival-anand-to-face-his-pupils-at-tata-steel-rapid-and-blitz-chess-india/articleshow/126387825.cms",
          "pubDate" : "Wed, 07 Jan 2026 05:48:53",
          "title" : "From mentor to rival: Anand to face his pupils at Tata Steel Rapid and Blitz Chess India"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126369961.cms\" />Kolkata has become a vibrant hub for world chess, hosting an elite rapid and blitz tournament with roots tracing back to a Dutch steel company's initiative in 1938. This annual spectacle, now in its seventh edition, showcases top international and Indian talent, fostering a strong sporting culture and engaging a passionate audience.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-a-pre-world-war-ii-chess-tournament-in-the-netherlands-inspired-indias-only-super-rapid-and-blitz-event-in-kolkata/articleshow/126369961.cms",
-         "pubDate" : "Tue, 06 Jan 2026 08:36:16",
-         "title" : "How a pre-World War II chess tournament in the Netherlands inspired India's only Super Rapid and Blitz event in Kolkata"
       }
    ]
 }
