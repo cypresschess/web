@@ -2,28 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. After eight rounds Nodirbek Abdusattorov leads with 5.5/8, half a point ahead of Javokhir Sindarov who is sole second with 5.0/8. In round 9 the two leaders play against each other. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
+         "pubDate" : "Tue, 27 Jan 2026 13:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "The Prague International Chess Festival is an annual tournament which has been held in the Czech capital since 2019. This year&#39;s edition will take place in the Don Giovanni Hotel from February 25 to March 6, and the organizers recently announced a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/keymer-gukesh-2026-prague-masters-challengers-lineups",
          "pubDate" : "Tue, 27 Jan 2026 02:39:00",
          "title" : "Keymer, Gukesh Top Field For 2026 Prague Masters"
-      },
-      {
-         "description" : "The long-standing tournament in Wijk aan Zee offers a wealth of chess content, stories, images and interesting personalities. The following report takes a look behind the scenes, with background information and interviews. For example, you can meet the man behind the fantastic live experience on the Tata Steel Chess website, Menno Pals (pictured). | Photos: Nils Rhode / Interviews: Andr&eacute; Schulz and Arne K&auml;hler",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-behind-the-scenes",
-         "pubDate" : "Mon, 26 Jan 2026 21:00:00",
-         "title" : "Wijk aan Zee: A 360-degree look behind the scenes"
-      },
-      {
-         "description" : "Play in Wijk aan Zee continued with an important result in the Masters, where Anish Giri defeated leader Nodirbek Abdusattorov, though Abdusattorov remains in first place. Javokhir Sindarov stays close behind after drawing Vinceny Keymer. Meanwhile, world champion Gukesh Dommaraju scored a win with the black pieces over Vladimir Fedoseev to bounce back from a pair of painful losses. In the Challengers, Andy Woodward and Marc'Andria Maurizzi both won to remain co-leaders, with Aydin Suleymanli half a point back. | Photo: Tata Steel Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-8",
-         "pubDate" : "Mon, 26 Jan 2026 17:15:00",
-         "title" : "Tata Steel Chess: Giri stops Abdusattorov's momentum, Gukesh beats Fedoseev"
       },
       {
          "description" : "Recently we sent a friend of our company a copy of our latest database software, asking him what he thought of it. Instead of simply using it in the customary fashon, Iniyan P, a strong and very active grandmaster, spent weeks delving into every corner of the program, searching for all new featurs and enhancements: And he submitted an extensive training review, which we share with our readers.",
