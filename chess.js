@@ -34,6 +34,14 @@ news_feed (
          "title" : "Celebrate Your Chess Consistency With Chess.com's New Streaks Feature"
       },
       {
+         "description" : "Headed into the second rest day, GM Andy Woodward still holds a share of the lead at Tata Steel in the Challengers section. GM Hans Niemann scored only &frac12;/3 in the second leg of the Masters, but is still tied for third and only a point behind the leader. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Andy Woodward's 6&frac12;/8 start in Wijk aan Zee puts him in a tie for first. (All photos courtesy Tata Steel/Lennart Ootes)<br> <br> <br> <br> Play resumes Tuesday at 9 a.m. CST for Round 9, with Round 10 the following day. Then, after Thursday's final rest day, the final three rounds begin Friday and carry on through the weekend. Read our report ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/woodward-keeps-share-lead-tata-steel-challengers",
+         "pubDate" : "Mon, 26 Jan 2026 00:00:00",
+         "title" : "Woodward Keeps Share of Lead in Tata Steel Challengers"
+      },
+      {
          "description" : " The Tata Steel Masters reached its second rest day with Nodirbek Abdusattorov leading by half a point over fellow Uzbek Javokhir Sindarov. Abdusattorov had the disappointment of losing to Anish Giri, he almost pulled off a miracle save but failed at the last hurdle. Sindarov drew against Vincent Keymer, maybe Keymer had a small chance in the opening but otherwise it was a steady draw. The only other decisive game of the day was Gukesh's fine win against Vladimir Fedoseev. There was uncompromising chess from both players but in the end it was Gukesh that brought home the full point. Matthias Bluebaum spent several minutes at the board trying to come to terms with how he botched a winning pos",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -632,14 +640,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-chess-offices-be-closed-monday-jan-19-martin-luther-king-jr-day",
          "pubDate" : "Thu, 15 Jan 2026 00:00:00",
          "title" : "US Chess Offices to be Closed Monday, Jan. 19 for Martin Luther King Jr. Day"
-      },
-      {
-         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out the start of our Tactics Tuesday series with more beginner-friendly puzzles here and here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2025-world-rapid-blitz-pt-2",
-         "pubDate" : "Wed, 14 Jan 2026 00:00:00",
-         "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 2"
       },
       {
          "description" : " Maurice Ashley appeared on Oprah along with Adam Grant, who highlighted Ashley in his book, Hidden Potential: The Science of Achieving Greater Things. Grant's book focuses on talent assessment, drawing from stories of successful personalities in various fields. Grandmaster Maurice Ashley, appearing on The Oprah Podcast, with author Adam Grant Hidden Potential&#160;offers a new framework The post <a href=\"https://thechessdrum.net/blog/2026/01/13/ashley-appears-on-oprah/\">Ashley appears on Oprah!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
