@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Jacorey Bynum is one of the brightest stars and currently the 23rd highest-rated player in Florida. Two years ago, Bynum earned the title of National Master and has been hovering around 2300 for the past six months. Looking to make improvements, he keeps an active tournament schedule and is also making a presence in online The post <a href=\"https://thechessdrum.net/blog/2026/01/27/jacorey-bynum-uncorks-gem-against-carlsen/\">Jacorey Bynum uncorks gem against Carlsen!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2026/01/27/jacorey-bynum-uncorks-gem-against-carlsen/",
+         "pubDate" : "Wed, 28 Jan 2026 02:57:45",
+         "title" : "Jacorey Bynum uncorks gem against Carlsen!"
+      },
+      {
+         "description" : " Nodirbek Abdusattorov continues to lead the Tata Steel Masters with a score of 6pts/9 after drawing with closest rival Javokhir Sindarov. However there is now more of a chasing pack on 5.5pts following wins for Yagiz Kaan Erdogmus over Thai Dai Van Nguyen and Jorden Van Foreest who absolutely crushed Vincent Keymer in a sharp London System. The travails of Gukesh continue when he was thoroughly outplayed by Matthias Bluebaum who is now a point off the lead alongside Hans Moke Niemann who now hasn't won since round 4. The final game to finish saw Praggnanandhaa beat Chithambaram Aravindh in a major piece endgame that seems to me likely to be worth studying. Round 9 Standings: 1st Abdusattoro",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-draws-against-sindarov-in-tata-steel-masters-round-9-to-keep-a-half-point-lead",
+         "pubDate" : "Wed, 28 Jan 2026 01:24:00",
+         "title" : "Abdusattorov draws against Sindarov in Tata Steel Masters Round 9 to keep a half point lead - 9"
+      },
+      {
          "description" : "The Brazil Chess Series - Floripa Open brought together 542 players from 19 federations for a 10-round Swiss tournament in Florian&oacute;polis from 17 to 25 January. A strong field featuring 19 GMs produced a tightly contested event, with four players tying for first place on 8&frac12;/10. The title was ultimately decided according to tiebreak criteria, with Andr&eacute; Diamant, Aryan Tari and Luis Paulo Supi finishing on the podium. | Photo: Vivian Passig",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-9",
-         "pubDate" : "Tue, 27 Jan 2026 12:02:45",
+         "pubDate" : "Tue, 27 Jan 2026 12:02:00",
          "title" : "Erdogmus, Van Foreest Climb To 2nd As Bluebaum Beats Gukesh"
       },
       {
