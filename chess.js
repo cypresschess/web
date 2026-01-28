@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/127716994.cms\" />Norway Chess has confirmed Germany's top player Vincent Keymer as a participant for the 2026 event, alongside Magnus Carlsen and R Praggnanandhaa. Keymer will make his debut after a rapid rise to World No. 4. Praggnanandhaa returns for a third time, while fans still await confirmation of reigning world champion D Gukesh and Arjun Erigaisi.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/still-no-d-gukesh-after-magnus-carlsen-and-r-praggnanandhaa-norway-chess-reveals-new-participant-for-2026-event/articleshow/127716994.cms",
+         "pubDate" : "Wed, 28 Jan 2026 15:55:20",
+         "title" : "Still no Gukesh! After Carlsen and Pragg, Norway Chess reveals new participant"
+      },
+      {
+         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. With four rounds to go, Nodirbek Abdusattorov is the sole leader in the Masters. Javokhir Sindarov, Jorden van Foreest and Yagiz Kaan Erdogmus stand a half point behind. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
+         "pubDate" : "Wed, 28 Jan 2026 13:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "Round nine in Wijk aan Zee featured several influential results in both sections of the Tata Steel Chess Tournament. In the Masters, Matthias Bluebaum defeated world champion Gukesh Dommaraju, while Yagiz Kaan Erdogmus, Jorden van Foreest and Praggnanandhaa Rameshbabu also scored important wins. Nodirbek Abdusattorov kept the lead with a draw against Javokhir Sindarov, who now shares second place with Erdogmus and Van Foreest. In the Challengers, Andy Woodward moved into sole first place. | Photo: Tata Steel Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-draws-against-sindarov-in-tata-steel-masters-round-9-to-keep-a-half-point-lead",
          "pubDate" : "Wed, 28 Jan 2026 01:24:00",
          "title" : "Abdusattorov draws against Sindarov in Tata Steel Masters Round 9 to keep a half point lead - 9"
+      },
+      {
+         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out our Tactics Tuesday series with more beginner-friendly puzzles here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2025-world-rapid-blitz-pt-4",
+         "pubDate" : "Wed, 28 Jan 2026 00:00:00",
+         "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 4"
       },
       {
          "description" : "The Brazil Chess Series - Floripa Open brought together 542 players from 19 federations for a 10-round Swiss tournament in Florian&oacute;polis from 17 to 25 January. A strong field featuring 19 GMs produced a tightly contested event, with four players tying for first place on 8&frac12;/10. The title was ultimately decided according to tiebreak criteria, with Andr&eacute; Diamant, Aryan Tari and Luis Paulo Supi finishing on the podium. | Photo: Vivian Passig",
@@ -666,14 +690,6 @@ news_feed (
          "title" : "ECU GENERAL ASSEMBLY 2026"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The four winners from Tata Steel India, from left: Wesley So, Nihal Sarin, Kateryna Lagno, and Carissa Yip. (All photos courtesy Tata Steel India/Lennart Ootes)<br> <br> <br> <br> Every January, Tata Steel sponsors one of the northern hemisphere's biggest highlights of the classical chess calendar in Wijk aan Zee in the Netherlands. This year, Tata Steel looked to take over the entire month and the globe, hosting its seventh edition of Tata Steel Chess India Rapid &amp; Blitz from January 6 through 11 at Dhono Dhanyo Auditorium in Kolkata, India. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br>",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/yip-so-win-tata-steel-india-blitz-tata-steel-classical-begins-saturday",
-         "pubDate" : "Thu, 15 Jan 2026 00:00:00",
-         "title" : "Yip, So Win Tata Steel India Blitz as Tata Steel Classical Begins Saturday"
-      },
-      {
          "description" : " Maurice Ashley appeared on Oprah along with Adam Grant, who highlighted Ashley in his book, Hidden Potential: The Science of Achieving Greater Things. Grant's book focuses on talent assessment, drawing from stories of successful personalities in various fields. Grandmaster Maurice Ashley, appearing on The Oprah Podcast, with author Adam Grant Hidden Potential&#160;offers a new framework The post <a href=\"https://thechessdrum.net/blog/2026/01/13/ashley-appears-on-oprah/\">Ashley appears on Oprah!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -832,22 +848,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/kids-look-up-to-him-why-magnus-carlsens-table-slamming-outbursts-are-casting-a-shadow-over-chess/articleshow/126409451.cms",
          "pubDate" : "Thu, 08 Jan 2026 07:27:34",
          "title" : "'Kids look up to him': Why Carlsen's outbursts are casting a shadow over chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126398027.cms\" />Five-time world champion Viswanathan Anand showed he remains a force to reckon with in a field increasingly dominated by youngsters, notching up two wins to emerge joint leader with 2.5 points after three rounds of the Rapid games on the opening day of the Tata Steel Chess India here on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/kolkata-rapid-blitz-chess-five-time-world-champion-viswanathan-anand-american-hans-niemann-share-lead-after-day-1/articleshow/126398027.cms",
-         "pubDate" : "Wed, 07 Jan 2026 16:02:31",
-         "title" : "Kolkata Rapid &amp; Blitz: Anand, Niemann share lead after Day 1"
-      },
-      {
-         "description" : "The European Women's Rapid &#38; Blitz Chess Championship 2025 is set to take place from 8th-12th January 2026 in Monte-Carlo, Monaco. The first event on the schedule will be the European Women's Blitz Chess Championship 2025 which will be played on 9th of January 2026. The event will be played according to the Swiss system, in 13 rounds, with the time control 3 minutes game + 2 seconds per move starting from the first move. European Women's Rapid Chess Championship []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-championship-2025-starts-in-monaco/",
-         "pubDate" : "Wed, 07 Jan 2026 13:05:08",
-         "title" : "European Women's Rapid and Blitz Chess Championship 2025 starts in Monaco"
       }
    ]
 }
