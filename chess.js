@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Many users buy our latest software, but don't spend time learning the advanced features it offers. They use ChessBase&acute;26 just like earlier versions. But the new program has hidden treasures that will enhance your chess preparation and understanding - and boost your rating in the process. GM Iniyan has taken the time to explore the new features and give you an overview of what awaits you.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-2026-a-players-guide-2",
+         "pubDate" : "Wed, 28 Jan 2026 08:00:54",
+         "title" : "ChessBase&acute;26: A Players Guide (2)"
+      },
+      {
          "description" : " Jacorey Bynum is one of the brightest stars and currently the 23rd highest-rated player in Florida. Two years ago, Bynum earned the title of National Master and has been hovering around 2300 for the past six months. Looking to make improvements, he keeps an active tournament schedule and is also making a presence in online The post <a href=\"https://thechessdrum.net/blog/2026/01/27/jacorey-bynum-uncorks-gem-against-carlsen/\">Jacorey Bynum uncorks gem against Carlsen!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -832,14 +840,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-championship-2025-starts-in-monaco/",
          "pubDate" : "Wed, 07 Jan 2026 13:05:08",
          "title" : "European Women's Rapid and Blitz Chess Championship 2025 starts in Monaco"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126387825.cms\" />Viswanathan Anand returns to competitive Indian chess after a six-year hiatus at the Tata Steel Rapid and Blitz Chess India tournament. The five-time world champion faces a unique challenge as he competes against his own students, Arjun Erigaisi, R Praggnanandhaa, and Nihal Sarin, all products of his academy and in strong form.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/from-mentor-to-rival-anand-to-face-his-pupils-at-tata-steel-rapid-and-blitz-chess-india/articleshow/126387825.cms",
-         "pubDate" : "Wed, 07 Jan 2026 05:48:53",
-         "title" : "From mentor to rival: Anand to face his pupils at Tata Steel Rapid and Blitz Chess India"
       }
    ]
 }
