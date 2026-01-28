@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Garry Kasparov, one of the most influential figures in chess history, is set to return to KCF Academy on February 1, 2026, for a second live session, offering the academy community a unique chance to learn about the King's Indian, which has always been a weapon of courage, creativity, and uncompromising play. And no one embodies that spirit better than Kasparov.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fearless-chess-with-garry-kasparov",
+         "pubDate" : "Wed, 28 Jan 2026 21:00:00",
+         "title" : "Fearless Chess with Garry Kasparov"
+      },
+      {
+         "description" : "The European Chess Union (ECU), together with the Croatian Chess Federation, invite all National Chess Federations of ECU to participate at European School Chess Championship 2026, which will take place from April 26th to May 6th 2026 in Trogir, Croatia. The event will be played in six age categories: U7, U9, U11, U13, U15 and U17, Open and Girls sections separately. Each Championship will be played in 9 rounds, swiss system, with the time control of 90 minutes + 30 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-school-chess-championship-2026-general-regulations/",
+         "pubDate" : "Wed, 28 Jan 2026 17:25:23",
+         "title" : "European School Chess Championship 2026 - General regulations"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/127716994.cms\" />Norway Chess has confirmed Germany's top player Vincent Keymer as a participant for the 2026 event, alongside Magnus Carlsen and R Praggnanandhaa. Keymer will make his debut after a rapid rise to World No. 4. Praggnanandhaa returns for a third time, while fans still await confirmation of reigning world champion D Gukesh and Arjun Erigaisi.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -18,12 +34,12 @@ news_feed (
          "title" : "Tata Steel Chess - Live!"
       },
       {
-         "description" : "Round nine in Wijk aan Zee featured several influential results in both sections of the Tata Steel Chess Tournament. In the Masters, Matthias Bluebaum defeated world champion Gukesh Dommaraju, while Yagiz Kaan Erdogmus, Jorden van Foreest and Praggnanandhaa Rameshbabu also scored important wins. Nodirbek Abdusattorov kept the lead with a draw against Javokhir Sindarov, who now shares second place with Erdogmus and Van Foreest. In the Challengers, Andy Woodward moved into sole first place. | Photo: Tata Steel Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-9",
-         "pubDate" : "Wed, 28 Jan 2026 11:00:00",
-         "title" : "Tata Steel Chess: Erdogmus and Van Foreest climb to shared second place"
+         "description" : "GM Matthias Bluebaum has crossed 2700 and moved to second place in the 2026 Tata Steel Chess Masters after winning a wild 25-move game against GM Anish Giri. GM Nodirbek Abdusattorov still leads by half a point going into the final weekend, while ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-10",
+         "pubDate" : "Wed, 28 Jan 2026 12:02:42",
+         "title" : "Bluebaum Joins 2700 Club As Gukesh, Keymer Bounce Back"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/127696205.cms\" />World champion D Gukesh faced another defeat at the Tata Steel Masters, losing to Matthias Bluebaum. Arjun Erigaisi secured a quick draw against Hans Moke Niemann. Meanwhile, R Praggnanandhaa achieved his first win of the tournament against Aravindh Chithambaram, while Jorden van Foreest delivered a standout performance.",
@@ -616,14 +632,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-announces-highly-anticipated-2026-invitational-tournament-schedule/",
          "pubDate" : "Fri, 16 Jan 2026 17:16:15",
          "title" : "Saint Louis Chess Club Announces Highly Anticipated 2026 Invitational Tournament Schedule"
-      },
-      {
-         "description" : "After a wild battle to start their match in game one, IMs Levy Rozman and Julien Song played a very accurate and calm draw in their second classical game. Rozman played one of his favorite openings, the Queen&#39;s Gambit Accepted, and quickly equaliz...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gotham-song-1-16-2026",
-         "pubDate" : "Fri, 16 Jan 2026 13:52:00",
-         "title" : "Gotham vs. Song Remains Tied After Precise Game Two"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126563130.cms\" />Aaryan Varshney became India's 92nd chess Grandmaster at 21, guided entirely by his father Gaurav, a single parent since Aaryan was five. With no coach, academies, or foreign training, Gaurav trained him at home using game analysis and ChessBase. Overcoming pandemic hurdles, Aaryan rose rapidly and now dreams of becoming a World Champion.",
