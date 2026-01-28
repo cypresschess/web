@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Many users buy our latest software, but don't spend time learning the advanced features it offers. They use ChessBase&acute;26 just like earlier versions. But the new program has hidden treasures that will enhance your chess preparation and understanding - and boost your rating in the process. GM Iniyan has taken the time to explore the new features and give you an overview of what awaits you.",
+         "description" : "Round nine in Wijk aan Zee featured several influential results in both sections of the Tata Steel Chess Tournament. In the Masters, Matthias Bluebaum defeated world champion Gukesh Dommaraju, while Yagiz Kaan Erdogmus, Jorden van Foreest and Praggnanandhaa Rameshbabu also scored important wins. Nodirbek Abdusattorov kept the lead with a draw against Javokhir Sindarov, who now shares second place with Erdogmus and Van Foreest. In the Challengers, Andy Woodward moved into sole first place. | Photo: Tata Steel Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-9",
+         "pubDate" : "Wed, 28 Jan 2026 11:00:00",
+         "title" : "Tata Steel Chess: Erdogmus and Van Foreest climb to shared second place"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/127696205.cms\" />World champion D Gukesh faced another defeat at the Tata Steel Masters, losing to Matthias Bluebaum. Arjun Erigaisi secured a quick draw against Hans Moke Niemann. Meanwhile, R Praggnanandhaa achieved his first win of the tournament against Aravindh Chithambaram, while Jorden van Foreest delivered a standout performance.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-masters-gukesh-loses-to-matthias-bluebaum-arjun-erigaisi-draws-easy/articleshow/127696205.cms",
+         "pubDate" : "Wed, 28 Jan 2026 10:04:30",
+         "title" : "Tata Steel Masters: Gukesh loses to Bluebaum, Arjun draws easy"
+      },
+      {
+         "description" : "Many users buy our latest software, but don't spend time learning the advanced features it offers. They use ChessBase&acute;26 just like earlier versions. But the new program has hidden treasures that will enhance your chess preparation and understanding - and boost your rating in the process. GM Iniyan Pa has taken the time to explore the new features and give you an overview of what awaits you.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-2026-a-players-guide-2",
          "pubDate" : "Wed, 28 Jan 2026 08:00:54",
          "title" : "ChessBase&acute;26: A Players Guide (2)"
+      },
+      {
+         "description" : "Reigning World Champion Gukesh Dommaraju and 2025 Tour winner GM Fabiano Caruana will be playing in the 2026 Grand Chess Tour. The list of full tour participants was announced on Tuesday for a tour with a $2 million prize fund that will take off i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/grand-chess-tour-2026-participants",
+         "pubDate" : "Wed, 28 Jan 2026 03:39:00",
+         "title" : "Caruana, Gukesh Among 2026 Grand Chess Tour Participants"
+      },
+      {
+         "description" : "GM Dmitry Andreikin won a wild Titled Tuesday outright on January 27 with a score of 9.5/11. Andreikin, who wasn&#39;t in the picture atop the standings for much of the tournament, worked his way up and then became the only one of six players who ente...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andreikin-wins-titled-tuesday-january-27-2026",
+         "pubDate" : "Wed, 28 Jan 2026 03:04:00",
+         "title" : "Andreikin Last Player Standing After Dramatic Finish"
       },
       {
          "description" : " Jacorey Bynum is one of the brightest stars and currently the 23rd highest-rated player in Florida. Two years ago, Bynum earned the title of National Master and has been hovering around 2300 for the past six months. Looking to make improvements, he keeps an active tournament schedule and is also making a presence in online The post <a href=\"https://thechessdrum.net/blog/2026/01/27/jacorey-bynum-uncorks-gem-against-carlsen/\">Jacorey Bynum uncorks gem against Carlsen!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -34,14 +66,6 @@ news_feed (
          "title" : "Andr&eacute; Diamant wins Brazil Chess Series - Floripa"
       },
       {
-         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. After eight rounds Nodirbek Abdusattorov leads with 5.5/8, half a point ahead of Javokhir Sindarov who is sole second with 5.0/8. In round 9 the two leaders play against each other. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
-         "pubDate" : "Tue, 27 Jan 2026 13:45:00",
-         "title" : "Tata Steel Chess - Live!"
-      },
-      {
          "description" : "&#34;I thought I&#39;d never win a chess game again,&#34; said GM Matthias Bluebaum after beating World Champion Gukesh Dommaraju with Black in round nine of the 2026 Tata Steel Chess Masters. GM Jorden van Foreest demolished GM Vincent Keymer in just 26 move...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -66,7 +90,7 @@ news_feed (
          "title" : "Tactics Tuesday: 2025 World Rapid & Blitz, Pt. 4"
       },
       {
-         "description" : "Recently we sent a friend of our company a copy of our latest database software, asking him what he thought of it. Instead of simply using it in the customary fashon, Iniyan P, a strong and very active grandmaster, spent weeks delving into every corner of the program, searching for all new featurs and enhancements: And he submitted an extensive training review, which we share with our readers.",
+         "description" : "Recently we sent a friend of our company a copy of our latest database software, asking him what he thought of it. Instead of simply using it in the customary fashon, Iniyan Pa, a strong and very active grandmaster, spent weeks delving into every corner of the program, searching for all new featurs and enhancements: And he submitted an extensive training review, which we share with our readers.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-2026-a-players-guide-1",
@@ -576,22 +600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gotham-song-1-16-2026",
          "pubDate" : "Fri, 16 Jan 2026 13:52:00",
          "title" : "Gotham vs. Song Remains Tied After Precise Game Two"
-      },
-      {
-         "description" : "GM Ray Robson won his sixth title at the 2026 Chess.com Puzzles Championship after defeating GM Pranav Venkatesh 5-1 in the Grand Final. Earning another $1,500, Robson has won every edition of the event except for last year, when GM Andy Woodward ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/robson-wins-2026-chesscom-puzzles-championship",
-         "pubDate" : "Fri, 16 Jan 2026 13:40:00",
-         "title" : "Robson Wins 6th Title In 2026 Puzzles Championship"
-      },
-      {
-         "description" : "GMs Alexey Sarana and Denis Lazavik kept the ball rolling from last week&#39;s 3 0 Thursday victories and won the first and second tournaments outright on January 15. In the third event, GM Jeffery Xiong picked up his first victory after edging out GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sarana-lazavik-xiong-3-0-thursday-1-15-2026",
-         "pubDate" : "Fri, 16 Jan 2026 13:09:00",
-         "title" : "Sarana, Lazavik Double Down On 3 0 Thursday, Xiong Secures First Win"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126563130.cms\" />Aaryan Varshney became India's 92nd chess Grandmaster at 21, guided entirely by his father Gaurav, a single parent since Aaryan was five. With no coach, academies, or foreign training, Gaurav trained him at home using game analysis and ChessBase. Overcoming pandemic hurdles, Aaryan rose rapidly and now dreams of becoming a World Champion.",
