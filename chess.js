@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "14-year-old German IM Christian Gloeckler remains perfect in the Qualifiers Tournament in Wijk aan Zee: six rounds have been played, and he has won all six. This gives him a performance rating of 3228, and with three rounds to go he leads Henry Edward Tudor by 1.5 points; Tudor is in sole second place with 4.5 out of 6. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/performance-rating-3228-6-out-of-6-christian-gloeckler-dominates-the-qualifiers",
+         "pubDate" : "Thu, 29 Jan 2026 12:58:11",
+         "title" : "Performance Rating 3228, 6 out of 6: Christian Gloeckler dominates Qualifiers"
+      },
+      {
+         "description" : "Today is a rest day in Wijk aan Zee. A good opportunity to revisit some of the finest games played in the tournament's long history. Robert Ris helps. The popular Dutch IM, author, and trainer has selected and annotated seven outstanding games from Wijk aan Zee. As a gift, for free!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-presents-timeless-classics-from-wijk-aan-zee",
+         "pubDate" : "Thu, 29 Jan 2026 10:55:16",
+         "title" : "Robert Ris presents timeless classics from Wijk aan Zee"
+      },
+      {
          "description" : "As the Tata Steel Chess tournament approaches its final stretch, the Masters section saw another eventful day: Matthias Bluebaum's second straight win moved him into shared second place, while Gukesh Dommaraju, Vincent Keymer and Aravindh Chithambaram also scored victories. Nodirbek Abdusattorov remains in front after signing a non-trivial draw with Vladimir Fedoseev. In the Challengers, Vasyl Ivanchuk defeated former leader Andy Woodward, allowing Aydin Suleymanli's third consecutive win to carry him into sole first place. | Photo: Tata Steel Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-leads-on-6.510-sindarov-van-foreest-and-bluebaum-are-in-the-chasing-pack",
          "pubDate" : "Thu, 29 Jan 2026 00:28:00",
          "title" : "Abdusattorov leads on 6.5/10 Sindarov, Van Foreest and Bluebaum are in the chasing pack - 10"
-      },
-      {
-         "description" : "Garry Kasparov, one of the most influential figures in chess history, is set to return to KCF Academy on February 1, 2026, for a second live session, offering the academy community a unique chance to learn about the King's Indian, which has always been a weapon of courage, creativity, and uncompromising play. And no one embodies that spirit better than Kasparov.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fearless-chess-with-garry-kasparov",
-         "pubDate" : "Wed, 28 Jan 2026 21:00:00",
-         "title" : "Fearless Chess with Garry Kasparov"
       },
       {
          "description" : "The European Chess Union (ECU), together with the Croatian Chess Federation, invite all National Chess Federations of ECU to participate at European School Chess Championship 2026, which will take place from April 26th to May 6th 2026 in Trogir, Croatia. The event will be played in six age categories: U7, U9, U11, U13, U15 and U17, Open and Girls sections separately. Each Championship will be played in 9 rounds, swiss system, with the time control of 90 minutes + 30 []",
@@ -104,14 +112,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-2025-world-rapid-blitz-pt-4",
          "pubDate" : "Wed, 28 Jan 2026 00:00:00",
          "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 4"
-      },
-      {
-         "description" : "The Brazil Chess Series - Floripa Open brought together 542 players from 19 federations for a 10-round Swiss tournament in Florian&oacute;polis from 17 to 25 January. A strong field featuring 19 GMs produced a tightly contested event, with four players tying for first place on 8&frac12;/10. The title was ultimately decided according to tiebreak criteria, with Andr&eacute; Diamant, Aryan Tari and Luis Paulo Supi finishing on the podium. | Photo: Vivian Passig",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/floripa-open-2026-r10",
-         "pubDate" : "Tue, 27 Jan 2026 20:00:00",
-         "title" : "Andr&eacute; Diamant wins Brazil Chess Series - Floripa"
       },
       {
          "description" : "&#34;I thought I&#39;d never win a chess game again,&#34; said GM Matthias Bluebaum after beating World Champion Gukesh Dommaraju with Black in round nine of the 2026 Tata Steel Chess Masters. GM Jorden van Foreest demolished GM Vincent Keymer in just 26 move...",
@@ -848,14 +848,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/kolkata-rapid-blitz-nihal-sarin-joins-viswanathan-anand-at-the-top-after-day-2/articleshow/126419167.cms",
          "pubDate" : "Thu, 08 Jan 2026 17:01:01",
          "title" : "Kolkata Rapid &amp; Blitz: Nihal Sarin joins Anand at the top after Day 2"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126412065.cms\" />FIDE and Freestyle Chess ended a long-running dispute over world championship authority by agreeing to stage the first official FIDE Freestyle Chess World Championship. The conflict began in late 2024 over title rights, sparking public clashes and player concerns. A renewed dialogue in 2025 led to reconciliation, aligning Freestyle's tour with FIDE governance and creating a unified championship framework.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-why-no-hikaru-nakamura-inside-story-of-how-fide-freestyle-chess-agreed-terms-on-world-championship/articleshow/126412065.cms",
-         "pubDate" : "Thu, 08 Jan 2026 10:43:22",
-         "title" : "Exclusive: Why no Hikaru? Inside new FIDE Freestyle Chess World Championship"
       }
    ]
 }
