@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Nodirbek Abdusattorov continues to lead the Tata Steel Masters by half a point after the tenth round. Abdusattorov hasn't won a game since Giri beat him in Round 8 but no-one has caught him yet, today there was a draw against Vladimir Fedoseev where both players enjoyed the advantage at one stage or another. Discussion today has centred around why there have been so many errors with both Keymer and Gukesh talking about it. A combination of the youth and ambition of the field combined with the first time control with no increment has probably contributed. In second place Jorden Van Foreest and Javokhir Sindarov played each other and drew a well played game, they're now joined by Matthias Blu",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-leads-on-6.510-sindarov-van-foreest-and-bluebaum-are-in-the-chasing-pack",
+         "pubDate" : "Thu, 29 Jan 2026 00:28:00",
+         "title" : "Abdusattorov leads on 6.5/10 Sindarov, Van Foreest and Bluebaum are in the chasing pack - 10"
+      },
+      {
          "description" : "Garry Kasparov, one of the most influential figures in chess history, is set to return to KCF Academy on February 1, 2026, for a second live session, offering the academy community a unique chance to learn about the King's Indian, which has always been a weapon of courage, creativity, and uncompromising play. And no one embodies that spirit better than Kasparov.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-10",
-         "pubDate" : "Wed, 28 Jan 2026 12:02:42",
+         "pubDate" : "Wed, 28 Jan 2026 12:02:00",
          "title" : "Bluebaum Joins 2700 Club As Gukesh, Keymer Bounce Back"
       },
       {
