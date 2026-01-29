@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last week, the news broke out that Daniel Naroditsky's toxicology report had been seen exclusively by NBC News, and the verdict was that a variety of drugs had been found in his system at the time of death: amphetamines, kratum, and more. The news went rampant that a 'drug cocktail' was coursing through his veins. The truth is out and it is a lot less dramatic, though no less tragic. | Photo: Kelly Centrelli / Charlotte Chess Center",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/medical-verdict-naroditsky-cause-of-death",
+         "pubDate" : "Thu, 29 Jan 2026 20:16:18",
+         "title" : "Medical verdict: Naroditsky cause of death"
+      },
+      {
          "description" : "In this video course, Grandmaster Ivan Sokolov explores one of the most intriguing and under-examined areas of modern chess: reversed opening systems, focusing on the Reversed Gr&uuml;nfeld and the Reversed Dutch. At first glance, these two systems seem unrelated. However, they share a common strategic challenge: the value of tempi, structure, and psychology when familiar openings are played with colours reversed. Drawing on his long professional experience, Sokolov explains why these positions are far more subtle than they appear and why traditional engine evaluations often fail to capture their true complexity.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -618,14 +626,6 @@ news_feed (
          "title" : "Sindarov Denies Gukesh As Niemann, Keymer, Arjun Pounce On Blunders"
       },
       {
-         "description" : "IM Levy Rozman confessed between games that &#34;I think my biggest strength is somehow getting it done in time scrambles.&#34; His ability with seconds on the clock saved him from losing positions in three different rapid games. After the rapid portion o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gotham-song-1-17-2026",
-         "pubDate" : "Sat, 17 Jan 2026 12:50:00",
-         "title" : "Rozman Takes Lead In Wild Day Of Rapid Games"
-      },
-      {
          "description" : "On behalf of the All India Chess Federation, the Arbiters' Commission of AICF, and the Madhya Pradesh Chess Ad-hoc Committee, the Bhopal District Chess Association",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -840,22 +840,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jan/09/chess-hastings-masters-guards-tradition-and-produces-an-english-co-winner",
          "pubDate" : "Fri, 09 Jan 2026 08:00:33",
          "title" : "Chess: Hastings Masters guards tradition and produces an English co-winner"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126419660.cms\" />A controversial moment dominated Day 2 of the Tata Steel Chess India Rapid in Kolkata when R Praggnanandhaa stopped the clock with one second left, leading to a disputed draw against Wesley So. Arbiter Chris Bird said it should have been a loss under chess laws. Elsewhere, Viswanathan Anand rebounded to joint lead with Nihal Sarin, while Kateryna Lagno topped the women's standings.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-controversy-in-kolkata-r-praggnanandhaa-stops-clock-draw-call-sparks-uproar-watch/articleshow/126419660.cms",
-         "pubDate" : "Thu, 08 Jan 2026 17:33:29",
-         "title" : "Chess Controversy! Pragg stops clock; draw call sparks uproar - Watch"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126419167.cms\" />Five-time world champion Viswanathan Anand recovered from an early setback to register two victories and emerge as joint leader with Nihal Sarin after six rounds of the Tata Steel Chess India Rapid here on Thursday. Rounds four to six produced fighting chess and frequent shifts at the top of the standings in both the Open and Women's sections.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/kolkata-rapid-blitz-nihal-sarin-joins-viswanathan-anand-at-the-top-after-day-2/articleshow/126419167.cms",
-         "pubDate" : "Thu, 08 Jan 2026 17:01:01",
-         "title" : "Kolkata Rapid &amp; Blitz: Nihal Sarin joins Anand at the top after Day 2"
       }
    ]
 }
