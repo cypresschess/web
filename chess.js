@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this video course, Grandmaster Ivan Sokolov explores one of the most intriguing and under-examined areas of modern chess: reversed opening systems, focusing on the Reversed Gr&uuml;nfeld and the Reversed Dutch. At first glance, these two systems seem unrelated. However, they share a common strategic challenge: the value of tempi, structure, and psychology when familiar openings are played with colours reversed. Drawing on his long professional experience, Sokolov explains why these positions are far more subtle than they appear and why traditional engine evaluations often fail to capture their true complexity.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategy-vol-13-reversed-colour-systems-gruenfeld-dutch",
+         "pubDate" : "Thu, 29 Jan 2026 17:00:00",
+         "title" : "Ivan Sokolov - Understanding Middlegame Strategy Vol 13: Reversed Colour Systems - Gr&uuml;nfeld & Dutch"
+      },
+      {
+         "description" : "This lesson shows how to customize the look of your notation in ChessBase to make it clearer and more comfortable for everyday use. It covers changing notation styles, piece symbols, fonts, colours, and using quick zoom for better readability.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-tips-for-beginners-fonts-figurines",
+         "pubDate" : "Thu, 29 Jan 2026 15:00:00",
+         "title" : "ChessBase tips for beginners - Fonts & Figurines"
+      },
+      {
          "description" : "14-year-old German IM Christian Gloeckler remains perfect in the Qualifiers Tournament in Wijk aan Zee: six rounds have been played, and he has won all six. This gives him a performance rating of 3228, and with three rounds to go he leads Henry Edward Tudor by 1.5 points; Tudor is in sole second place with 4.5 out of 6. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/performance-rating-3228-6-out-of-6-christian-gloeckler-dominates-the-qualifiers",
          "pubDate" : "Thu, 29 Jan 2026 12:58:11",
          "title" : "Performance Rating 3228, 6 out of 6: Christian Gloeckler dominates Qualifiers"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/127777017.cms\" />",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-set-to-make-norway-chess-women-debut/articleshow/127777017.cms",
+         "pubDate" : "Thu, 29 Jan 2026 12:50:37",
+         "title" : "Divya Deshmukh set to make Norway Chess Women debut"
       },
       {
          "description" : "Today is a rest day in Wijk aan Zee. A good opportunity to revisit some of the finest games played in the tournament's long history. Robert Ris helps. The popular Dutch IM, author, and trainer has selected and annotated seven outstanding games from Wijk aan Zee. As a gift, for free!",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-masters-gukesh-loses-to-matthias-bluebaum-arjun-erigaisi-draws-easy/articleshow/127696205.cms",
          "pubDate" : "Wed, 28 Jan 2026 10:04:30",
          "title" : "Tata Steel Masters: Gukesh loses to Bluebaum, Arjun draws easy"
-      },
-      {
-         "description" : "Many users buy our latest software, but don't spend time learning the advanced features it offers. They use ChessBase&acute;26 just like earlier versions. But the new program has hidden treasures that will enhance your chess preparation and understanding - and boost your rating in the process. GM Iniyan Pa has taken the time to explore the new features and give you an overview of what awaits you.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-2026-a-players-guide-2",
-         "pubDate" : "Wed, 28 Jan 2026 08:00:54",
-         "title" : "ChessBase&acute;26: A Players Guide (2)"
       },
       {
          "description" : "Reigning World Champion Gukesh Dommaraju and 2025 Tour winner GM Fabiano Caruana will be playing in the 2026 Grand Chess Tour. The list of full tour participants was announced on Tuesday for a tour with a $2 million prize fund that will take off i...",
@@ -136,14 +152,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-2025-world-rapid-blitz-pt-4",
          "pubDate" : "Tue, 27 Jan 2026 00:00:00",
          "title" : "Tactics Tuesday: 2025 World Rapid & Blitz, Pt. 4"
-      },
-      {
-         "description" : "Recently we sent a friend of our company a copy of our latest database software, asking him what he thought of it. Instead of simply using it in the customary fashon, Iniyan Pa, a strong and very active grandmaster, spent weeks delving into every corner of the program, searching for all new featurs and enhancements: And he submitted an extensive training review, which we share with our readers.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-2026-a-players-guide-1",
-         "pubDate" : "Mon, 26 Jan 2026 11:09:28",
-         "title" : "ChessBase&acute;26: A Players Guide (1)"
       },
       {
          "description" : "It&#39;s time to celebrate your chess consistency with Chess.com&#39;s new Streaks feature! Whether you&#39;re looking to build good habits to improve your game or show off just how passionate you are about chess, you can now do it by starting and maintaining...",
