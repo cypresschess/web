@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As the Tata Steel Chess tournament approaches its final stretch, the Masters section saw another eventful day: Matthias Bluebaum's second straight win moved him into shared second place, while Gukesh Dommaraju, Vincent Keymer and Aravindh Chithambaram also scored victories. Nodirbek Abdusattorov remains in front after signing a non-trivial draw with Vladimir Fedoseev. In the Challengers, Vasyl Ivanchuk defeated former leader Andy Woodward, allowing Aydin Suleymanli's third consecutive win to carry him into sole first place. | Photo: Tata Steel Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-10",
+         "pubDate" : "Thu, 29 Jan 2026 05:35:00",
+         "title" : "Tata Steel Chess: Bluebaum grabs second win in a row, joins chasing pack and crosses 2700 rating"
+      },
+      {
          "description" : " Nodirbek Abdusattorov continues to lead the Tata Steel Masters by half a point after the tenth round. Abdusattorov hasn't won a game since Giri beat him in Round 8 but no-one has caught him yet, today there was a draw against Vladimir Fedoseev where both players enjoyed the advantage at one stage or another. Discussion today has centred around why there have been so many errors with both Keymer and Gukesh talking about it. A combination of the youth and ambition of the field combined with the first time control with no increment has probably contributed. In second place Jorden Van Foreest and Javokhir Sindarov played each other and drew a well played game, they're now joined by Matthias Blu",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/still-no-d-gukesh-after-magnus-carlsen-and-r-praggnanandhaa-norway-chess-reveals-new-participant-for-2026-event/articleshow/127716994.cms",
          "pubDate" : "Wed, 28 Jan 2026 15:55:20",
          "title" : "Still no Gukesh! After Carlsen and Pragg, Norway Chess reveals new participant"
-      },
-      {
-         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. With four rounds to go, Nodirbek Abdusattorov is the sole leader in the Masters. Javokhir Sindarov, Jorden van Foreest and Yagiz Kaan Erdogmus stand a half point behind. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
-         "pubDate" : "Wed, 28 Jan 2026 13:45:00",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "GM Matthias Bluebaum has crossed 2700 and moved to second place in the 2026 Tata Steel Chess Masters after winning a wild 25-move game against GM Anish Giri. GM Nodirbek Abdusattorov still leads by half a point going into the final weekend, while ...",
@@ -856,14 +856,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-why-no-hikaru-nakamura-inside-story-of-how-fide-freestyle-chess-agreed-terms-on-world-championship/articleshow/126412065.cms",
          "pubDate" : "Thu, 08 Jan 2026 10:43:22",
          "title" : "Exclusive: Why no Hikaru? Inside new FIDE Freestyle Chess World Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126409451.cms\" />Magnus Carlsen's repeated emotional outbursts, including slamming boards and scattering pieces, have sparked debate about sportsmanship in elite chess. While FIDE prioritizes commercial success, critics argue that unaddressed behavior sends the wrong message to young players who idolize the world champion.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/kids-look-up-to-him-why-magnus-carlsens-table-slamming-outbursts-are-casting-a-shadow-over-chess/articleshow/126409451.cms",
-         "pubDate" : "Thu, 08 Jan 2026 07:27:34",
-         "title" : "'Kids look up to him': Why Carlsen's outbursts are casting a shadow over chess"
       }
    ]
 }
