@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Matthias Bl&uuml;baum is currently stunning the chess world with his performance at the Tata Steel Masters in Wijk aan Zee. After ten rounds, he shares second to fourth place and is half a point behind leader Nodirbek Abdusattorov. In the last two rounds, Bl&uuml;baum defeated Gukesh and Anish Giri, which helped him break the 2700 rating barrier for the first time in his career. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-strong-is-he-really-matthias-bluebaum-breaks-the-2700-barrier",
+         "pubDate" : "Fri, 30 Jan 2026 12:05:54",
+         "title" : "How strong is he really? Matthias Bl&uuml;baum breaks the 2700 barrier"
+      },
+      {
+         "description" : "You are playing in a tournament, and have just seen who your opponent in the next round is. Do you go to your database and simply scan through to spot his strengths and weaknesses, to decide which opening to play? With ChessBase&acute;26 you get a full dossier with recommendations in less than one minute. And you can immediately start with the actual preparation. Let GM Iniyan Pa tell you how this all works.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-2026-a-players-guide-3",
+         "pubDate" : "Fri, 30 Jan 2026 11:00:00",
+         "title" : "ChessBase&acute;26: A Players Guide (3)"
+      },
+      {
          "description" : " The Uzbek GM, 21, has a half-point edge, but rivals from his own country, the Netherlands, Germany, the US, and Turkey are all within one point Nodirbek Abdusattorov still has a narrow lead as the \"chess Wimbledon\" at Tata Steel Wijk aan Zee heads into its final three rounds this weekend, but the Uzbek, 21, is battling to stay ahead of a quintet of rivals after being held to two draws and a loss in his last three games. Leading scores after 10 of the 13 rounds are Abdusattorov 6.5, Javokhir Sindarov (Uzbekistan), Matthias Bl&uuml;baum (Germany) and Jorden van Foreest (Netherlands) 6, Hans Niemann (US) and Yagiz Kaan Erdogmus (Turkey) 5.5. The world champion, Gukesh Dommaraju, is among three",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -808,14 +824,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-nihal-sarin-holds-firm-pips-viswanathan-anand-for-title/articleshow/126449129.cms",
          "pubDate" : "Sat, 10 Jan 2026 07:22:09",
          "title" : "Tata Steel Chess: Nihal Sarin holds firm, pips Viswanathan Anand for title"
-      },
-      {
-         "description" : "Nihal won on Friday evening, after the passing of his maternal grandfather - who had taught him the sport - on Thursday night.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/47559680/nihal-sarin-trumps-viswanathan-anand-emotional-final-day-win-tata-steel-rapid-chess",
-         "pubDate" : "Fri, 9 Jan 2026 08:47:05",
-         "title" : "On emotional final day, Nihal Sarin trumps Viswanathan Anand to win Tata Steel Rapid Chess"
       }
    ]
 }
