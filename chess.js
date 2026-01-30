@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Deboushnik De describes his rating rise from 1927 to 2430, which gained him two IM norms within a single year. He highlights the importance of mindset, planning and trusting the process during difficult phases. Deboushnik comes from North East India, where access to top-level tournaments and training resources is limited. That is why his journey is especially significant for players from the region. This could be a good reflection on setbacks, breakthroughs and the realities of chasing norms.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deboushnik-de-rating-gain",
+         "pubDate" : "Fri, 30 Jan 2026 03:00:00",
+         "title" : "From 1927 to 2430 in a single year: Deboushnik De reflects on his massive rating leap"
+      },
+      {
          "description" : "Last week, the news broke out that Daniel Naroditsky's toxicology report had been seen exclusively by NBC News, and the verdict was that a variety of drugs had been found in his system at the time of death: amphetamines, kratum, and more. The news went rampant that a 'drug cocktail' was coursing through his veins. The truth is out and it is a lot less dramatic, though no less tragic. | Photo: Kelly Centrelli / Charlotte Chess Center",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
