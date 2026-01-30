@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. Going into the final three rounds of the Masters, Nodirbek Abdusattorov is the sole leader, while Javokhir Sindarov, Jorden van Foreest and Matthias Bluebaum stand a half point behind. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
+         "pubDate" : "Fri, 30 Jan 2026 13:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "Matthias Bl&uuml;baum is currently stunning the chess world with his performance at the Tata Steel Masters in Wijk aan Zee. After ten rounds, he shares second to fourth place and is half a point behind leader Nodirbek Abdusattorov. In the last two rounds, Bl&uuml;baum defeated Gukesh and Anish Giri, which helped him break the 2700 rating barrier for the first time in his career. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jan/30/chess-nodirbek-abdusattorov-narrowly-ahead-as-wijk-aan-zee-reaches-final-weekend",
          "pubDate" : "Fri, 30 Jan 2026 08:00:16",
          "title" : "Chess: Nodirbek Abdusattorov narrowly ahead as Wijk aan Zee reaches final weekend"
+      },
+      {
+         "description" : "The SP Lohia Foundation is hosting an RSVP-only panel discussion and book signing in connection with Speed Chess Championship on Friday, February 6 at 19:30 GMT, taking place at 180 Strand in the Soho Works. The conversation between IM Danny Rensc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/danny-rensch-lohia-foundation",
+         "pubDate" : "Fri, 30 Jan 2026 07:04:05",
+         "title" : "RSVP For Talk And Book Signing At Speed Chess Championship"
       },
       {
          "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in eradicating the age fraud menace prevailing in sports and has directed",
@@ -624,14 +640,6 @@ news_feed (
          "link" : "https://www.thearticle.com/royal-game-2/",
          "pubDate" : "Sat, 17 Jan 2026 13:03:52",
          "title" : "Royal game"
-      },
-      {
-         "description" : "World Cup winner GM Javokhir Sindarov pulled off a 78-move great escape against World Champion Gukesh Dommaraju to bring a dramatic first day of the 2026 Tata Steel Chess Masters to a close. The first moves were delayed 1.5 hours by an environment...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-1",
-         "pubDate" : "Sat, 17 Jan 2026 13:01:00",
-         "title" : "Sindarov Denies Gukesh As Niemann, Keymer, Arjun Pounce On Blunders"
       },
       {
          "description" : "On behalf of the All India Chess Federation, the Arbiters' Commission of AICF, and the Madhya Pradesh Chess Ad-hoc Committee, the Bhopal District Chess Association",
