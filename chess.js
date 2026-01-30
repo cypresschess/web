@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Magazine offers a window to the world of professional chess. Nagesh Havanur takes a look at the current issue, CBM 229. All games from the FIDE World Cup, 27 annotated, 11 opening surveys, 3 opening videos, demo lectures and several exercises for training. Annotators include Sam Shankland, Wei Yi, Nodirbek Yakubboev and Gabriel Sargissian among others. The icing on the cake is the Special feature \"Giri's Gems\", offering the Dutch star's eight best games from the year 2025.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-229-review-nagesh-havanur",
+         "pubDate" : "Fri, 30 Jan 2026 20:00:00",
+         "title" : "CBM 229: The battle for the FIDE World Cup in Goa"
+      },
+      {
+         "description" : " Nodirbek Abdusattorov and Javokhir Sindarov lead the 14-man field, but their closest rivals are all only half a point behind with two rounds to go Uzbekistan's Nodirbek Abdusattorov and Javokhir Sindarov are just half a point ahead of their closest three rivals as the \"chess Wimbledon\" at Tata Steel Wijk aan Zee heads into its final two rounds this weekend. Abdusattorov was the clear leader, but he has drawn three and lost one of his last four games. Leading scores after 11 of the 13 rounds are Abdusattorov and Sindarov 7, Matthias Bl&uuml;baum (Germany), Jorden van Foreest (Netherlands) and Hans Niemann (US) 6.5, Vincent Keymer (Germany) 6, Yagiz Kaan Erdogmus (Turkey), Gukesh Dommaraju (I",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/jan/30/chess-nodirbek-abdusattorov-narrowly-ahead-as-wijk-aan-zee-reaches-final-weekend",
+         "pubDate" : "Fri, 30 Jan 2026 19:32:26",
+         "title" : "Chess: Uzbek pair share narrow half-point lead as Wijk aan Zee reaches final weekend"
+      },
+      {
          "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. Going into the final three rounds of the Masters, Nodirbek Abdusattorov is the sole leader, while Javokhir Sindarov, Jorden van Foreest and Matthias Bluebaum stand a half point behind. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
          "pubDate" : "Fri, 30 Jan 2026 13:45:00",
          "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "GM Sina Movahed won his fifth Freestyle Friday on January 30, holding at least a share of the lead in every round of the tournament to join GMs Hikaru Nakamura, Oleksandr Bortnyk, Arjun Erigaisi, and Magnus Carlsen with five or more. Carlsen finis...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/movahed-wins-freestyle-friday-january-30-2026",
+         "pubDate" : "Fri, 30 Jan 2026 12:17:49",
+         "title" : "Movahed Joins Five Freestyle Friday Club With Wire-To-Wire Win"
       },
       {
          "description" : "Matthias Bl&uuml;baum is currently stunning the chess world with his performance at the Tata Steel Masters in Wijk aan Zee. After ten rounds, he shares second to fourth place and is half a point behind leader Nodirbek Abdusattorov. In the last two rounds, Bl&uuml;baum defeated Gukesh and Anish Giri, which helped him break the 2700 rating barrier for the first time in his career. | Photo: Lennart Ootes",
@@ -18,6 +42,14 @@ news_feed (
          "title" : "How strong is he really? Matthias Bl&uuml;baum breaks the 2700 barrier"
       },
       {
+         "description" : "GM Javokhir Sindarov has joined his compatriot GM Nodirbek Abdusattorov in the 2026 Tata Steel Chess Masters lead on 7/11 after winning a pawn and grinding out a win against GM Arjun Erigaisi. GM Hans Niemann joins a three-way tie half a point beh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-11",
+         "pubDate" : "Fri, 30 Jan 2026 11:25:24",
+         "title" : "Sindarov Catches Abdusattorov, Niemann Climbs To 2nd"
+      },
+      {
          "description" : "You are playing in a tournament, and have just seen who your opponent in the next round is. Do you go to your database and simply scan through to spot his strengths and weaknesses, to decide which opening to play? With ChessBase&acute;26 you get a full dossier with recommendations in less than one minute. And you can immediately start with the actual preparation. Let GM Iniyan Pa tell you how this all works.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +58,12 @@ news_feed (
          "title" : "ChessBase&acute;26: A Players Guide (3)"
       },
       {
-         "description" : " The Uzbek GM, 21, has a half-point edge, but rivals from his own country, the Netherlands, Germany, the US, and Turkey are all within one point Nodirbek Abdusattorov still has a narrow lead as the \"chess Wimbledon\" at Tata Steel Wijk aan Zee heads into its final three rounds this weekend, but the Uzbek, 21, is battling to stay ahead of a quintet of rivals after being held to two draws and a loss in his last three games. Leading scores after 10 of the 13 rounds are Abdusattorov 6.5, Javokhir Sindarov (Uzbekistan), Matthias Bl&uuml;baum (Germany) and Jorden van Foreest (Netherlands) 6, Hans Niemann (US) and Yagiz Kaan Erdogmus (Turkey) 5.5. The world champion, Gukesh Dommaraju, is among three",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/jan/30/chess-nodirbek-abdusattorov-narrowly-ahead-as-wijk-aan-zee-reaches-final-weekend",
-         "pubDate" : "Fri, 30 Jan 2026 08:00:16",
-         "title" : "Chess: Nodirbek Abdusattorov narrowly ahead as Wijk aan Zee reaches final weekend"
+         "description" : "GM Hikaru Nakamura won his first six games in the opening 3 0 Thursday tournament on January 29, bringing his Chess.com blitz rating to a record 3454. Nakamura slowed down after that and the tournament winners of the day were GMs Sina Movahed, Mag...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/movahed-carlsen-lazavik-3-0-thursday-1-29-2026",
+         "pubDate" : "Fri, 30 Jan 2026 09:59:08",
+         "title" : "Nakamura Sets Blitz Rating Record, Movahed, Carlsen, Lazavik Win 3 0 Thursdays"
       },
       {
          "description" : "The SP Lohia Foundation is hosting an RSVP-only panel discussion and book signing in connection with Speed Chess Championship on Friday, February 6 at 19:30 GMT, taking place at 180 Strand in the Soho Works. The conversation between IM Danny Rensc...",
@@ -50,14 +82,6 @@ news_feed (
          "title" : "Announcement : Medical Evaluation in Chennai on 27 & 28 February 2026."
       },
       {
-         "description" : "Deboushnik De describes his rating rise from 1927 to 2430, which gained him two IM norms within a single year. He highlights the importance of mindset, planning and trusting the process during difficult phases. Deboushnik comes from North East India, where access to top-level tournaments and training resources is limited. That is why his journey is especially significant for players from the region. This could be a good reflection on setbacks, breakthroughs and the realities of chasing norms.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deboushnik-de-rating-gain",
-         "pubDate" : "Fri, 30 Jan 2026 03:00:00",
-         "title" : "From 1927 to 2430 in a single year: Deboushnik De reflects on his massive rating leap"
-      },
-      {
          "description" : "Last week, the news broke out that Daniel Naroditsky's toxicology report had been seen exclusively by NBC News, and the verdict was that a variety of drugs had been found in his system at the time of death: amphetamines, kratum, and more. The news went rampant that a 'drug cocktail' was coursing through his veins. The truth is out and it is a lot less dramatic, though no less tragic. | Photo: Kelly Centrelli / Charlotte Chess Center",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,28 +90,12 @@ news_feed (
          "title" : "Medical verdict: Naroditsky cause of death"
       },
       {
-         "description" : "14-year-old German IM Christian Gloeckler remains perfect in the Qualifiers Tournament in Wijk aan Zee: six rounds have been played, and he has won all six. This gives him a performance rating of 3228, and with three rounds to go he leads Henry Edward Tudor by 1.5 points; Tudor is in sole second place with 4.5 out of 6. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/performance-rating-3228-6-out-of-6-christian-gloeckler-dominates-the-qualifiers",
-         "pubDate" : "Thu, 29 Jan 2026 12:58:11",
-         "title" : "Performance Rating 3228, 6 out of 6: Christian Gloeckler dominates Qualifiers"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/127777017.cms\" />",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-set-to-make-norway-chess-women-debut/articleshow/127777017.cms",
          "pubDate" : "Thu, 29 Jan 2026 12:50:37",
          "title" : "Divya Deshmukh set to make Norway Chess Women debut"
-      },
-      {
-         "description" : "Today is a rest day in Wijk aan Zee. A good opportunity to revisit some of the finest games played in the tournament's long history. Robert Ris helps. The popular Dutch IM, author, and trainer has selected and annotated seven outstanding games from Wijk aan Zee. As a gift, for free!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-presents-timeless-classics-from-wijk-aan-zee",
-         "pubDate" : "Thu, 29 Jan 2026 10:55:16",
-         "title" : "Robert Ris presents timeless classics from Wijk aan Zee"
       },
       {
          "description" : " Nodirbek Abdusattorov continues to lead the Tata Steel Masters by half a point after the tenth round. Abdusattorov hasn't won a game since Giri beat him in Round 8 but no-one has caught him yet, today there was a draw against Vladimir Fedoseev where both players enjoyed the advantage at one stage or another. Discussion today has centred around why there have been so many errors with both Keymer and Gukesh talking about it. A combination of the youth and ambition of the field combined with the first time control with no increment has probably contributed. In second place Jorden Van Foreest and Javokhir Sindarov played each other and drew a well played game, they're now joined by Matthias Blu",
@@ -578,22 +586,6 @@ news_feed (
          "title" : "Abdusattorov and Fedoseev winners in Tata Steel Round 2 - 2"
       },
       {
-         "description" : "GM Nodirbek Abdusattorov won a pawn and ground down GM Praggnanandhaa Rameshbabu in 60 moves to join GMs Hans Niemann and Arjun Erigaisi in the early 2026 Tata Steel Chess Masters lead on 1.5/2. The day&#39;s only other winner was GM Vladimir Fedoseev...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-2",
-         "pubDate" : "Sun, 18 Jan 2026 12:00:00",
-         "title" : "Abdusattorov Beats Praggnanandhaa; Lu Miaoyi Takes Sole Lead In Challengers"
-      },
-      {
-         "description" : "IM Levy Rozman explained that when he plays blitz, &#34;I get very creative and my brain reacts very fast.&#34; He demonstrated those abilities by defeating IM Julien Song 6-2&#38;nbsp;in the blitz portion of their match. Combined with Rozman&#39;s 8-6 match lead...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gotham-song-1-18-2026",
-         "pubDate" : "Sun, 18 Jan 2026 10:22:00",
-         "title" : "Rozman Defeats Song 14-8"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126640912.cms\" />Arjun Erigaisi secured a decisive victory over R Praggnanandhaa in the Tata Steel Masters' first round. World Champion D Gukesh drew his hard-fought match against Javokhir Sindarov. Hans Moke Niemann and Vincent Keymer also emerged as winners, sharing the early lead.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -616,14 +608,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/no-chess-on-a-dead-planet-massive-protest-disrupts-wijk-aan-zee-tournament-in-netherlands-watch/articleshow/126621455.cms",
          "pubDate" : "Sat, 17 Jan 2026 17:01:53",
          "title" : "'No chess on a dead planet': Protest disrupts Wijk aan Zee tourney - Watch"
-      },
-      {
-         "description" : "Bullet Brawl&#39;s most prolific winner, GM Hikaru Nakamura, has started 2026 with a hat trick of victories. In Saturday&#39;s event, GM Jose Martinez built a 21-point lead, but with just over 20 minutes to go, Nakamura bolted to the finish line, not only...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-jan-17-2026",
-         "pubDate" : "Sat, 17 Jan 2026 15:20:00",
-         "title" : "Nakamura Chases Down Martinez, Completes Bullet Brawl Hat Trick"
       },
       {
          "description" : "Last week I shared how results-oriented goals (I Failed all of My Goals in 2025 - But it was a great Year) have a motivating side, but often turn out to be toxic for me. The thing is, I can reach all my results-oriented goals, but hate the process of getting there. Or, I can []",
