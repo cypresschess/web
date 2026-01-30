@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Uzbek GM, 21, has a half-point edge, but rivals from his own country, the Netherlands, Germany, the US, and Turkey are all within one point Nodirbek Abdusattorov still has a narrow lead as the \"chess Wimbledon\" at Tata Steel Wijk aan Zee heads into its final three rounds this weekend, but the Uzbek, 21, is battling to stay ahead of a quintet of rivals after being held to two draws and a loss in his last three games. Leading scores after 10 of the 13 rounds are Abdusattorov 6.5, Javokhir Sindarov (Uzbekistan), Matthias Bl&uuml;baum (Germany) and Jorden van Foreest (Netherlands) 6, Hans Niemann (US) and Yagiz Kaan Erdogmus (Turkey) 5.5. The world champion, Gukesh Dommaraju, is among three",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/jan/30/chess-nodirbek-abdusattorov-narrowly-ahead-as-wijk-aan-zee-reaches-final-weekend",
+         "pubDate" : "Fri, 30 Jan 2026 08:00:16",
+         "title" : "Chess: Nodirbek Abdusattorov narrowly ahead as Wijk aan Zee reaches final weekend"
+      },
+      {
+         "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in eradicating the age fraud menace prevailing in sports and has directed",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/announcement-medical-evaluation-in-chennai-on-27-28-february-2026/",
+         "pubDate" : "Fri, 30 Jan 2026 06:17:15",
+         "title" : "Announcement : Medical Evaluation in Chennai on 27 & 28 February 2026."
+      },
+      {
          "description" : "Deboushnik De describes his rating rise from 1927 to 2430, which gained him two IM norms within a single year. He highlights the importance of mindset, planning and trusting the process during difficult phases. Deboushnik comes from North East India, where access to top-level tournaments and training resources is limited. That is why his journey is especially significant for players from the region. This could be a good reflection on setbacks, breakthroughs and the realities of chasing norms.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -184,14 +200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-8",
          "pubDate" : "Sun, 25 Jan 2026 11:53:00",
          "title" : "Giri Beats Leader Abdusattorov As Gukesh Bounces Back"
-      },
-      {
-         "description" : "Calculation separates the wheat from the chaff in chess. At the same time, many club players devote too little of their training to the skills involved. In today's flood of courses and databases, everyone can bring their openings to a solid level and make \"sensible\" moves. Yet most games are still decided in close combat. Hannes Langrock is an editor at a fiction publishing house and an International Master. He lives in Leipzig and plays for ESV Nickelh&uuml;tte Aue. He reviews Surya Ganguly's course \"Calculation Step by Step Vol. 1\". | Photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-calculation-step-by-step-vol-1-by-surya-ganguly",
-         "pubDate" : "Sun, 25 Jan 2026 07:00:00",
-         "title" : "Review: \"Calculation Step by Step Vol. 1\" by Surya Ganguly"
       },
       {
          "description" : " Nodirbek Abdusattorov extended his lead of the Tata Steel Masters after defeating Vincent Keymer in Round 7 to move to 5.5/7 a point clear of fellow countryman Javokhir Sindarov who drew with Hans Moke Niemann. Anish Giri beat World Champion Gukesh who was probably still unstable after his shocking Round 6 blunder. Teenager Yagiz Kaan Erdogmus moved into a share of third with an impressive win against Arjun Erigaisi. Thai Dai Van Nguyen drew with Vladimir Fedoseev and Praggnanandhaa drew a wild game with Matthias Bluebaum. MarcAndria Maurizzi has joined Andy Woodward in the lead with 5.5/7 after his five game winning run came to an end with a draw against third placed Aydin Suleymanli. Look",
@@ -802,28 +810,12 @@ news_feed (
          "title" : "Tata Steel Chess: Nihal Sarin holds firm, pips Viswanathan Anand for title"
       },
       {
-         "description" : "On behalf of All India Chess Federation , All Jharkhand Chess Association is organizing Senior National Arbiter Seminar &#38; exam SARALA BIRLA UNIVERSITY in Mahilong ,Ranchi. ",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-exam-in-ranchijharkhand-on-21-22-feb-2026/",
-         "pubDate" : "Fri, 09 Jan 2026 10:25:30",
-         "title" : "SNA Seminar & Exam in Ranchi,Jharkhand on 21 & 22 Feb 2026"
-      },
-      {
          "description" : "Nihal won on Friday evening, after the passing of his maternal grandfather - who had taught him the sport - on Thursday night.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/47559680/nihal-sarin-trumps-viswanathan-anand-emotional-final-day-win-tata-steel-rapid-chess",
          "pubDate" : "Fri, 9 Jan 2026 08:47:05",
          "title" : "On emotional final day, Nihal Sarin trumps Viswanathan Anand to win Tata Steel Rapid Chess"
-      },
-      {
-         "description" : " IM Alex Golding, 22, who earned nearly &pound;2,000, is among the rising talents aiming to match the leading English grandmasters Hastings is the grandfather of international chess tournaments, first staged in 1895 and then every year since 1920, with breaks for war and pandemics. Its vintage years were the 1930s, 50s and 70s, when world champions and challengers lined up to compete, while the badminton legend Sir George Thomas and the Bletchley Park codebreaker Hugh Alexander both shared first after defeating renowned opponents. Nowadays, Hastings has publicity problems, sandwiched as it is between the London Classic and Tata Steel Wijk aan Zee, and running simultaneously with the Magnus C",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/jan/09/chess-hastings-masters-guards-tradition-and-produces-an-english-co-winner",
-         "pubDate" : "Fri, 09 Jan 2026 08:00:33",
-         "title" : "Chess: Hastings Masters guards tradition and produces an English co-winner"
       }
    ]
 }
