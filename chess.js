@@ -10,22 +10,6 @@ news_feed (
          "title" : "Medical verdict: Naroditsky cause of death"
       },
       {
-         "description" : "In this video course, Grandmaster Ivan Sokolov explores one of the most intriguing and under-examined areas of modern chess: reversed opening systems, focusing on the Reversed Gr&uuml;nfeld and the Reversed Dutch. At first glance, these two systems seem unrelated. However, they share a common strategic challenge: the value of tempi, structure, and psychology when familiar openings are played with colours reversed. Drawing on his long professional experience, Sokolov explains why these positions are far more subtle than they appear and why traditional engine evaluations often fail to capture their true complexity.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategy-vol-13-reversed-colour-systems-gruenfeld-dutch",
-         "pubDate" : "Thu, 29 Jan 2026 17:00:00",
-         "title" : "Ivan Sokolov - Understanding Middlegame Strategy Vol 13: Reversed Colour Systems - Gr&uuml;nfeld & Dutch"
-      },
-      {
-         "description" : "This lesson shows how to customize the look of your notation in ChessBase to make it clearer and more comfortable for everyday use. It covers changing notation styles, piece symbols, fonts, colours, and using quick zoom for better readability.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-tips-for-beginners-fonts-figurines",
-         "pubDate" : "Thu, 29 Jan 2026 15:00:00",
-         "title" : "ChessBase tips for beginners - Fonts & Figurines"
-      },
-      {
          "description" : "14-year-old German IM Christian Gloeckler remains perfect in the Qualifiers Tournament in Wijk aan Zee: six rounds have been played, and he has won all six. This gives him a performance rating of 3228, and with three rounds to go he leads Henry Edward Tudor by 1.5 points; Tudor is in sole second place with 4.5 out of 6. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,20 +34,20 @@ news_feed (
          "title" : "Robert Ris presents timeless classics from Wijk aan Zee"
       },
       {
-         "description" : "As the Tata Steel Chess tournament approaches its final stretch, the Masters section saw another eventful day: Matthias Bluebaum's second straight win moved him into shared second place, while Gukesh Dommaraju, Vincent Keymer and Aravindh Chithambaram also scored victories. Nodirbek Abdusattorov remains in front after signing a non-trivial draw with Vladimir Fedoseev. In the Challengers, Vasyl Ivanchuk defeated former leader Andy Woodward, allowing Aydin Suleymanli's third consecutive win to carry him into sole first place. | Photo: Tata Steel Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-10",
-         "pubDate" : "Thu, 29 Jan 2026 05:35:00",
-         "title" : "Tata Steel Chess: Bluebaum grabs second win in a row, joins chasing pack and crosses 2700 rating"
-      },
-      {
          "description" : " Nodirbek Abdusattorov continues to lead the Tata Steel Masters by half a point after the tenth round. Abdusattorov hasn't won a game since Giri beat him in Round 8 but no-one has caught him yet, today there was a draw against Vladimir Fedoseev where both players enjoyed the advantage at one stage or another. Discussion today has centred around why there have been so many errors with both Keymer and Gukesh talking about it. A combination of the youth and ambition of the field combined with the first time control with no increment has probably contributed. In second place Jorden Van Foreest and Javokhir Sindarov played each other and drew a well played game, they're now joined by Matthias Blu",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-leads-on-6.510-sindarov-van-foreest-and-bluebaum-are-in-the-chasing-pack",
          "pubDate" : "Thu, 29 Jan 2026 00:28:00",
          "title" : "Abdusattorov leads on 6.5/10 Sindarov, Van Foreest and Bluebaum are in the chasing pack - 10"
+      },
+      {
+         "description" : "If a large chunk of the country has to be snowed in for a second consecutive weekend, at least it coincides with the end of Tata Steel. It will even feel like we're right there with the players in the Netherlands!With three rounds to go in Wijk aan Zee, both the Masters and the Challengers remain hotly contested, with 15-year-old American GM Andy Woodward only a half-point behind the leader in the latter. Play resumes Friday at 7 a.m. CST, with the penultimate round at the same time on Saturday and Sunday's last round beginning two hours earlier at 5 a.m. CST. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Woodward during his seventh win of the event.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/woodward-contention-yip-nears-norm-chances-tata-steel",
+         "pubDate" : "Thu, 29 Jan 2026 00:00:00",
+         "title" : "Woodward in Contention, Yip Nears Norm Chances at Tata Steel"
       },
       {
          "description" : "The European Chess Union (ECU), together with the Croatian Chess Federation, invite all National Chess Federations of ECU to participate at European School Chess Championship 2026, which will take place from April 26th to May 6th 2026 in Trogir, Croatia. The event will be played in six age categories: U7, U9, U11, U13, U15 and U17, Open and Girls sections separately. Each Championship will be played in 9 rounds, swiss system, with the time control of 90 minutes + 30 []",
@@ -488,14 +472,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/january-muir-report",
          "pubDate" : "Tue, 20 Jan 2026 00:00:00",
          "title" : "The January MUIR Report "
-      },
-      {
-         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, including some brain-teasers in our Wednesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-world-rapid-blitz-pt-3",
-         "pubDate" : "Tue, 20 Jan 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2025 World Rapid & Blitz, Pt. 3"
       },
       {
          "description" : "It was the day of the underdog in Wijk aan Zee as Dutch number-two GM Jorden van Foreest beat Dutch number-one GM Anish Giri and German number-two Matthias Bluebaum did the same to German number-one GM Vincent Keymer. The winners caught GMs Nodirb...",
