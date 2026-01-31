@@ -1,4 +1,7 @@
 jtable([
+"HOUSTON","2026-01-30","27","<a href=https://ratings.uschess.org/event/202601300213 target='_blank'>The Friday Knights</a>",
+"SUGAR LAND","2026-01-30","12","<a href=https://ratings.uschess.org/event/202601300193 target='_blank'>2026 FBCC Draw a Dinosaur Day Open</a>",
+"CYPRESS","2026-01-30","33","<a href=https://ratings.uschess.org/event/202601300153 target='_blank'>Knights of Cypress</a>",
 "SUGAR LAND","2026-01-24","8","<a href=https://ratings.uschess.org/event/202601240733 target='_blank'>winter-01-24-2026</a>",
 "CYPRESS","2026-01-23","38","<a href=https://ratings.uschess.org/event/202601230393 target='_blank'>Knights of Cypress</a>",
 "SUGAR LAND","2026-01-23","14","<a href=https://ratings.uschess.org/event/202601230333 target='_blank'>FBCC 2026 National Pie Day Open</a>",
@@ -96,7 +99,4 @@ jtable([
 "HOUSTON","2025-10-25","58","<a href=https://ratings.uschess.org/event/202510257182 target='_blank'>TCR: HOUSTON FALL SCHOLASTIC 2025</a>",
 "SUGAR LAND","2025-10-24","17","<a href=https://ratings.uschess.org/event/202510246592 target='_blank'>FBCC 2025 NATIONAL FOOD DAY OPEN</a>",
 "CYPRESS","2025-10-24","46","<a href=https://ratings.uschess.org/event/202510246562 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SPRING","2025-10-24","18","<a href=https://ratings.uschess.org/event/202510246542 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2025-10-19","351","<a href=https://ratings.uschess.org/event/202510195212 target='_blank'>2025 TEXAS N GRADE</a>",
-"HOUSTON","2025-10-18","6","<a href=https://ratings.uschess.org/event/202510188743 target='_blank'>Quick Swiss</a>",
 ]);
