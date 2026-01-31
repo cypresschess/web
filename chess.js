@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Javokhir Sindarov won a sharp game against Arjun Erigaisi, Sindarov got a winning advantage on the run up to move 40 but things were still very tricky and it was only after 52.Re4? that he was winning. In the meantime the leader Nodirbek Abdusattorov had a calm draw against Jorden Van Foreest. Hans Moke Niemann took a huge amount of risks against the struggling Thai Dai Van Nguyen, although the engine says he was losing at various points Nguyen's desperate time trouble was enough to justify his approach. 40.f4? left Niemann winning, 42...b2? gave Nguyen a final chance but after 43.Kf2? he was lost. Anish Giri won a sharp calculating game against Yagiz Kaan Erdogmus, 23...Ba6? was the losing",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/sindarov-joins-abdusattorov-in-the-lead-of-the-tata-steel-masters-with-two-rounds-to-go",
+         "pubDate" : "Fri, 30 Jan 2026 22:11:00",
+         "title" : "Sindarov joins Abdusattorov in the lead of the Tata Steel Masters with two rounds to go - 11"
+      },
+      {
          "description" : "ChessBase Magazine offers a window to the world of professional chess. Nagesh Havanur takes a look at the current issue, CBM 229. All games from the FIDE World Cup, 27 annotated, 11 opening surveys, 3 opening videos, demo lectures and several exercises for training. Annotators include Sam Shankland, Wei Yi, Nodirbek Yakubboev and Gabriel Sargissian among others. The icing on the cake is the Special feature \"Giri's Gems\", offering the Dutch star's eight best games from the year 2025.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -46,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-11",
-         "pubDate" : "Fri, 30 Jan 2026 11:25:24",
+         "pubDate" : "Fri, 30 Jan 2026 11:25:00",
          "title" : "Sindarov Catches Abdusattorov, Niemann Climbs To 2nd"
       },
       {
