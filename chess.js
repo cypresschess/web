@@ -816,14 +816,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaas-chess-controversy-american-gm-wesley-so-clarifies-incident-things-happened-so-fast/articleshow/126450535.cms",
          "pubDate" : "Sat, 10 Jan 2026 09:59:07",
          "title" : "Pragg's controversy: American GM So clarifies - 'Things happened so fast'"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126449129.cms\" />Nihal Sarin shared the lead with Viswanathan Anand at the Tata Steel India Rapid event, dedicating his performance to his late grandfather. Sarin secured the championship title with 6.5 points after a crucial draw against Anand in the final round, marking his second victory at the event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-nihal-sarin-holds-firm-pips-viswanathan-anand-for-title/articleshow/126449129.cms",
-         "pubDate" : "Sat, 10 Jan 2026 07:22:09",
-         "title" : "Tata Steel Chess: Nihal Sarin holds firm, pips Viswanathan Anand for title"
       }
    ]
 }
