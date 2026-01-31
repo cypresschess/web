@@ -808,14 +808,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-national-under-19-chess-championship-in-ranchi-from-16-24-dec-2025/",
          "pubDate" : "Sat, 10 Jan 2026 12:50:06",
          "title" : "Certificate :National Under 19 Chess Championship in Ranchi from 16-24 Dec 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126450535.cms\" />Wesley So clarified that he proposed the draw against R Praggnanandhaa after a dramatic time scramble at Tata Steel Chess India Rapid, a decision that sparked debate and criticism from arbiter Chris Bird. Amid the controversy, Nihal Sarin won the Rapid title, dedicating it to his late grandfather, while Kateryna Lagno claimed the women's crown",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaas-chess-controversy-american-gm-wesley-so-clarifies-incident-things-happened-so-fast/articleshow/126450535.cms",
-         "pubDate" : "Sat, 10 Jan 2026 09:59:07",
-         "title" : "Pragg's controversy: American GM So clarifies - 'Things happened so fast'"
       }
    ]
 }
