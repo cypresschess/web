@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Improving your chess, or anything else, is pretty simple (not easy!). &#x27a1;&#xfe0f;Do What Matters &#x27a1;&#xfe0f;Do It Well &#x27a1;&#xfe0f;Do It Consistently So, why is then not everybody improving their chess and living happily ever after? And when that happens, some students get easily discouraged and give up. While others get back on track and push through. []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/why-chess-improvement-is-hard/",
+         "pubDate" : "Sat, 31 Jan 2026 14:00:00",
+         "title" : "This is what makes or breaks chess improvement"
+      },
+      {
+         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. With two rounds to go in the Masters, Uzbek representatives Nodirbek Adusattorov and Javokhir Sindarov are sharing the lead. Three players stand a half point back, as the battle for tournament victory remains wide open. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
+         "pubDate" : "Sat, 31 Jan 2026 13:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "Chess960 (also known as Fischer Random or Freestyle Chess) is often presented as a bracing corrective to the alleged decadence of modern chess. It randomises the back-rank pieces into one of 960 possible starting positions and its advocates insist that by abolishing opening memorisation it restores honesty to the game, compelling players to think for []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/heresy-on-the-chessboard/",
+         "pubDate" : "Sat, 31 Jan 2026 12:36:49",
+         "title" : "Heresy on the chessboard"
+      },
+      {
          "description" : "With two rounds left, the race for first place remains closely contested in both sections of the Tata Steel Chess tournament. In the Masters, Javokhir Sindarov caught Nodirbek Abdusattorov in the lead after beating Arjun Erigaisi, while Hans Niemann scored a full point to join Matthias Bluebaum and Jorden van Foreest in the chasing pack. In the Challengers, Andy Woodward won and moved into sole first place after Vasyl Ivanchuk defeated former sole leader Aydin Suleymanli. | Photo: Tata Steel Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -784,30 +808,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-blitz-so-yip-take-sole-lead/articleshow/126462346.cms",
          "pubDate" : "Sun, 11 Jan 2026 06:49:13",
          "title" : "Tata Steel Blitz: So, Yip take sole lead"
-      },
-      {
-         "description" : "2025 was a great year for me personally and my chess business. Even though I failed all three of my stated goals: I've had plenty of time with loved ones, married Alessia, enjoyed traveling to USA, Bali &#38; Italy, started making YouTube videos, funded my company &#38; ran a half marathon. Reflecting about \"failing\" my []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/toxic-goals-vs-positive-goals/",
-         "pubDate" : "Sat, 10 Jan 2026 14:00:00",
-         "title" : "I Failed all of My Goals in 2025 - But it was a great Year"
-      },
-      {
-         "description" : "This week I turn to the recent London Chess Classic, organised once again by the indefatigable Malcolm Pein. The delay in writing about it owes less to reluctance than to circumstance: the annual suspension of columns during the festive season, compounded by the untimely passing of Barry Martin, interrupted my usual rhythm of reportage. The []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-london-chess-classic/",
-         "pubDate" : "Sat, 10 Jan 2026 13:08:00",
-         "title" : "The London Chess Classic"
-      },
-      {
-         "description" : "Please find your certificates Under 19 Under 19 Girls Rank Name Rank Name 1 Vaz Ethan 1 Shubhi Gupta 2 Mayank Chakraborty 2 Nivedita V",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-national-under-19-chess-championship-in-ranchi-from-16-24-dec-2025/",
-         "pubDate" : "Sat, 10 Jan 2026 12:50:06",
-         "title" : "Certificate :National Under 19 Chess Championship in Ranchi from 16-24 Dec 2025"
       }
    ]
 }
