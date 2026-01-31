@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With two rounds left, the race for first place remains closely contested in both sections of the Tata Steel Chess tournament. In the Masters, Javokhir Sindarov caught Nodirbek Abdusattorov in the lead after beating Arjun Erigaisi, while Hans Niemann scored a full point to join Matthias Bluebaum and Jorden van Foreest in the chasing pack. In the Challengers, Andy Woodward won and moved into sole first place after Vasyl Ivanchuk defeated former sole leader Aydin Suleymanli. | Photo: Tata Steel Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-11",
+         "pubDate" : "Sat, 31 Jan 2026 04:50:00",
+         "title" : "Tata Steel Chess: Sindarov beats Erigaisi, joins Abdusattorov in the lead"
+      },
+      {
          "description" : " Javokhir Sindarov won a sharp game against Arjun Erigaisi, Sindarov got a winning advantage on the run up to move 40 but things were still very tricky and it was only after 52.Re4? that he was winning. In the meantime the leader Nodirbek Abdusattorov had a calm draw against Jorden Van Foreest. Hans Moke Niemann took a huge amount of risks against the struggling Thai Dai Van Nguyen, although the engine says he was losing at various points Nguyen's desperate time trouble was enough to justify his approach. 40.f4? left Niemann winning, 42...b2? gave Nguyen a final chance but after 43.Kf2? he was lost. Anish Giri won a sharp calculating game against Yagiz Kaan Erdogmus, 23...Ba6? was the losing",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -26,12 +34,12 @@ news_feed (
          "title" : "Chess: Uzbek pair share narrow half-point lead as Wijk aan Zee reaches final weekend"
       },
       {
-         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. Going into the final three rounds of the Masters, Nodirbek Abdusattorov is the sole leader, while Javokhir Sindarov, Jorden van Foreest and Matthias Bluebaum stand a half point behind. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
-         "pubDate" : "Fri, 30 Jan 2026 13:45:00",
-         "title" : "Tata Steel Chess - Live!"
+         "description" : "GM Javokhir Sindarov has joined his compatriot GM Nodirbek Abdusattorov in the 2026 Tata Steel Chess Masters lead on 7/11 after winning a pawn and grinding out a win against GM Arjun Erigaisi. GM Hans Niemann joins a three-way tie half a point beh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-11",
+         "pubDate" : "Fri, 30 Jan 2026 16:25:00",
+         "title" : "Sindarov Catches Abdusattorov, Niemann Climbs To 2nd"
       },
       {
          "description" : "GM Sina Movahed won his fifth Freestyle Friday on January 30, holding at least a share of the lead in every round of the tournament to join GMs Hikaru Nakamura, Oleksandr Bortnyk, Arjun Erigaisi, and Magnus Carlsen with five or more. Carlsen finis...",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/how-strong-is-he-really-matthias-bluebaum-breaks-the-2700-barrier",
          "pubDate" : "Fri, 30 Jan 2026 12:05:54",
          "title" : "How strong is he really? Matthias Bl&uuml;baum breaks the 2700 barrier"
-      },
-      {
-         "description" : "GM Javokhir Sindarov has joined his compatriot GM Nodirbek Abdusattorov in the 2026 Tata Steel Chess Masters lead on 7/11 after winning a pawn and grinding out a win against GM Arjun Erigaisi. GM Hans Niemann joins a three-way tie half a point beh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-11",
-         "pubDate" : "Fri, 30 Jan 2026 11:25:00",
-         "title" : "Sindarov Catches Abdusattorov, Niemann Climbs To 2nd"
       },
       {
          "description" : "You are playing in a tournament, and have just seen who your opponent in the next round is. Do you go to your database and simply scan through to spot his strengths and weaknesses, to decide which opening to play? With ChessBase&acute;26 you get a full dossier with recommendations in less than one minute. And you can immediately start with the actual preparation. Let GM Iniyan Pa tell you how this all works.",
