@@ -26,6 +26,14 @@ news_feed (
          "title" : "Heresy on the chessboard"
       },
       {
+         "description" : "GM&#38;nbsp;Nodirbek Abdusattorov takes a half-point lead into the final round of the 2026 Tata Steel Chess Masters after beating GM Matthias Bluebaum while GM Javokhir Sindarov made a quick draw against GM Praggnanandhaa Rameshbabu. Sindarov is the m...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-12",
+         "pubDate" : "Sat, 31 Jan 2026 11:44:55",
+         "title" : "Abdusattorov Grabs Lead Before Tata Steel Masters Final Round"
+      },
+      {
          "description" : "With two rounds left, the race for first place remains closely contested in both sections of the Tata Steel Chess tournament. In the Masters, Javokhir Sindarov caught Nodirbek Abdusattorov in the lead after beating Arjun Erigaisi, while Hans Niemann scored a full point to join Matthias Bluebaum and Jorden van Foreest in the chasing pack. In the Challengers, Andy Woodward won and moved into sole first place after Vasyl Ivanchuk defeated former sole leader Aydin Suleymanli. | Photo: Tata Steel Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-individual-chess-championship-2026-official-invitation/",
          "pubDate" : "Mon, 19 Jan 2026 08:20:19",
          "title" : "European Individual Chess Championship 2026 - Official invitation"
-      },
-      {
-         "description" : "Norway Chess, one of the world&#38;rsquo;s most prestigious chess tournaments, will enter a new era in 2026, relocating from Stavanger to Oslo after 13 consecutive years on Norway&#39;s west coast. Meanwhile, GMs Magnus Carlsen and Bibisara Assaubayeva ha...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/norway-chess-changes-location-carlsen-confirmed",
-         "pubDate" : "Mon, 19 Jan 2026 05:22:00",
-         "title" : "Norway Chess Moves To Oslo After 13 Years, Magnus Carlsen Confirmed"
       },
       {
          "description" : " There is a three way tie for first place on 1.5 points between Hans Moke Niemann, Arjun Erigaisi and Nodirbek Abdusattorov after two rounds of the Tata Steel tournament. Round 1 leader Niemann drew quickly against Matthias Bluebaum and Erigaisi drew against Thai Dai Van Nguyen but the third winner from round 1, Vincent Keymer, went down to defeat against Vladimir Fedoseev, he in turn must be very relieved to put his mortifying disaster from round 1 behind him. Nodirbek Abdusattorov joined the leaders after defeating Praggnanandhaa who wasn't in good form in the latter half of 2025 and will not be wanting a disaster ahead of the Candidates. There were draws in the games Yagiz Kaan Erdogmus v",
