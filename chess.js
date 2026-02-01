@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. Nodirbek Abdusattorov enters the final round as the sole leader in the Masters, while Andy Woodward and Aydin Suleymanli are tied for first place in the Challengers. | Follow the games live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
+         "pubDate" : "Sun, 01 Feb 2026 11:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "In this episode, Svitlana analyzes one of her own intense games from the Canadian University Championships, where she faced a 2400+ tactical rival in a long-awaited revenge match. The game began as a controlled strategic battle out of a Pirc structure, exploded into sharp complications, and transitioned into a wildly double-edged endgame where both players missed wins. Svitlana shows key defensive resources, creative practical decisions under time pressure, and two critical endgame \"bluffs\" that helped her hold a theoretically difficult position. After six exhausting hours and 113 moves, the roller-coaster fight finally ended in a hard-earned draw packed with lessons from opening to endgame.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,22 +114,6 @@ news_feed (
          "title" : "Movahed Joins Five Freestyle Friday Club With Wire-To-Wire Win"
       },
       {
-         "description" : "Matthias Bl&uuml;baum is currently stunning the chess world with his performance at the Tata Steel Masters in Wijk aan Zee. After ten rounds, he shares second to fourth place and is half a point behind leader Nodirbek Abdusattorov. In the last two rounds, Bl&uuml;baum defeated Gukesh and Anish Giri, which helped him break the 2700 rating barrier for the first time in his career. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-strong-is-he-really-matthias-bluebaum-breaks-the-2700-barrier",
-         "pubDate" : "Fri, 30 Jan 2026 12:05:54",
-         "title" : "How strong is he really? Matthias Bl&uuml;baum breaks the 2700 barrier"
-      },
-      {
-         "description" : "You are playing in a tournament, and have just seen who your opponent in the next round is. Do you go to your database and simply scan through to spot his strengths and weaknesses, to decide which opening to play? With ChessBase&acute;26 you get a full dossier with recommendations in less than one minute. And you can immediately start with the actual preparation. Let GM Iniyan Pa tell you how this all works.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-2026-a-players-guide-3",
-         "pubDate" : "Fri, 30 Jan 2026 11:00:00",
-         "title" : "ChessBase&acute;26: A Players Guide (3)"
-      },
-      {
          "description" : "GM Hikaru Nakamura won his first six games in the opening 3 0 Thursday tournament on January 29, bringing his Chess.com blitz rating to a record 3454. Nakamura slowed down after that and the tournament winners of the day were GMs Sina Movahed, Mag...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -144,14 +136,6 @@ news_feed (
          "link" : "https://aicf.in/announcement-medical-evaluation-in-chennai-on-27-28-february-2026/",
          "pubDate" : "Fri, 30 Jan 2026 06:17:15",
          "title" : "Announcement : Medical Evaluation in Chennai on 27 & 28 February 2026."
-      },
-      {
-         "description" : "Last week, the news broke out that Daniel Naroditsky's toxicology report had been seen exclusively by NBC News, and the verdict was that a variety of drugs had been found in his system at the time of death: amphetamines, kratum, and more. The news went rampant that a 'drug cocktail' was coursing through his veins. The truth is out and it is a lot less dramatic, though no less tragic. | Photo: Kelly Centrelli / Charlotte Chess Center",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/medical-verdict-naroditsky-cause-of-death",
-         "pubDate" : "Thu, 29 Jan 2026 20:16:18",
-         "title" : "Medical verdict: Naroditsky cause of death"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/127777017.cms\" />",
@@ -808,14 +792,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/tata-steel-india-rapid-blitz-2026",
          "pubDate" : "Sun, 11 Jan 2026 16:34:00",
          "title" : "Tata Steel India Rapid & Blitz 2026 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126464357.cms\" />French No. 1 chess grandmaster Alireza Firouzja drew global attention after posting \"Long live Iran\" on social media and sharing the monarchial-era Iranian flag. The post was linked to ongoing protests and a humanitarian crisis in Iran. Though now a French citizen, Firouzja's message showed strong solidarity with Iranians and highlighted his deep emotional ties to his country of birth.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/long-live-iran-france-no-1-chess-grandmaster-alireza-firouzja-shares-powerful-message-amid-unrest/articleshow/126464357.cms",
-         "pubDate" : "Sun, 11 Jan 2026 11:44:45",
-         "title" : "'Long live Iran': France No. 1 Firouzja shares powerful message amid unrest"
       }
    ]
 }
