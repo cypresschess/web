@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With one round remaining, the race for first place remains unresolved in both sections of the Tata Steel Chess Tournament. In the Masters, Nodirbek Abdusattorov leads alone after defeating Matthias Bluebaum, while Javokhir Sindarov trails by half a point and three others still have outside chances. In the Challengers, Andy Woodward and Aydin Suleymanli share the lead, with Vasyl Ivanchuk close behind. | Photo: Tata Steel Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-12",
+         "pubDate" : "Sun, 01 Feb 2026 00:10:00",
+         "title" : "Tata Steel Chess: Abdusattorov defeats Bluebaum, enters last round as sole leader"
+      },
+      {
          "description" : "Improving your chess, or anything else, is pretty simple (not easy!). &#x27a1;&#xfe0f;Do What Matters &#x27a1;&#xfe0f;Do It Well &#x27a1;&#xfe0f;Do It Consistently So, why is then not everybody improving their chess and living happily ever after? And when that happens, some students get easily discouraged and give up. While others get back on track and push through. []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.com/why-chess-improvement-is-hard/",
          "pubDate" : "Sat, 31 Jan 2026 14:00:00",
          "title" : "This is what makes or breaks chess improvement"
-      },
-      {
-         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. With two rounds to go in the Masters, Uzbek representatives Nodirbek Adusattorov and Javokhir Sindarov are sharing the lead. Three players stand a half point back, as the battle for tournament victory remains wide open. | Follow the games live with expert commentary starting at 14.00 CET (7.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
-         "pubDate" : "Sat, 31 Jan 2026 13:45:00",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "Chess960 (also known as Fischer Random or Freestyle Chess) is often presented as a bracing corrective to the alleged decadence of modern chess. It randomises the back-rank pieces into one of 960 possible starting positions and its advocates insist that by abolishing opening memorisation it restores honesty to the game, compelling players to think for []",
@@ -30,16 +30,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-12",
-         "pubDate" : "Sat, 31 Jan 2026 11:44:55",
+         "pubDate" : "Sat, 31 Jan 2026 11:44:00",
          "title" : "Abdusattorov Grabs Lead Before Tata Steel Masters Final Round"
-      },
-      {
-         "description" : "With two rounds left, the race for first place remains closely contested in both sections of the Tata Steel Chess tournament. In the Masters, Javokhir Sindarov caught Nodirbek Abdusattorov in the lead after beating Arjun Erigaisi, while Hans Niemann scored a full point to join Matthias Bluebaum and Jorden van Foreest in the chasing pack. In the Challengers, Andy Woodward won and moved into sole first place after Vasyl Ivanchuk defeated former sole leader Aydin Suleymanli. | Photo: Tata Steel Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-11",
-         "pubDate" : "Sat, 31 Jan 2026 04:50:00",
-         "title" : "Tata Steel Chess: Sindarov beats Erigaisi, joins Abdusattorov in the lead"
       },
       {
          "description" : " Javokhir Sindarov won a sharp game against Arjun Erigaisi, Sindarov got a winning advantage on the run up to move 40 but things were still very tricky and it was only after 52.Re4? that he was winning. In the meantime the leader Nodirbek Abdusattorov had a calm draw against Jorden Van Foreest. Hans Moke Niemann took a huge amount of risks against the struggling Thai Dai Van Nguyen, although the engine says he was losing at various points Nguyen's desperate time trouble was enough to justify his approach. 40.f4? left Niemann winning, 42...b2? gave Nguyen a final chance but after 43.Kf2? he was lost. Anish Giri won a sharp calculating game against Yagiz Kaan Erdogmus, 23...Ba6? was the losing",
