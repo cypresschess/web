@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has approved the regulations for the Women's Circuit 2026-2027, outlining how ranking points will be awarded and which tournaments qualify toward the series. Covering a two-year period, the circuit broadens the range of eligible events while setting clear rating and participation criteria linked to qualification for the Women's Candidates. Following recent rapid and blitz events, the first leaderboard standings have been established, with several leading players already on the board.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-circuit-26-27-regulations",
+         "pubDate" : "Sun, 01 Feb 2026 19:30:00",
+         "title" : "FIDE announces regulations for Women's Circuit 2026-2027"
+      },
+      {
+         "description" : "GM&#38;nbsp;Nodirbek Abdusattorov called it a &#34;dream come true&#34; as he defeated GM Arjun Erigaisi&#39;s Evans Gambit to win the 2026 Tata Steel Chess Masters with 9/13. GM Javokhir Sindarov gambled to keep playoff hopes alive and ultimately beat GM Thai Da...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/abdusattorov-wins-2026-tata-steel-chess",
+         "pubDate" : "Sun, 01 Feb 2026 12:06:56",
+         "title" : "Abdusattorov Wins 'Dream' Tata Steel Masters, Woodward Takes Challengers"
+      },
+      {
          "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. Nodirbek Abdusattorov enters the final round as the sole leader in the Masters, while Andy Woodward and Aydin Suleymanli are tied for first place in the Challengers. | Follow the games live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
          "pubDate" : "Sun, 01 Feb 2026 11:45:00",
          "title" : "Tata Steel Chess - Live!"
-      },
-      {
-         "description" : "In this episode, Svitlana analyzes one of her own intense games from the Canadian University Championships, where she faced a 2400+ tactical rival in a long-awaited revenge match. The game began as a controlled strategic battle out of a Pirc structure, exploded into sharp complications, and transitioned into a wildly double-edged endgame where both players missed wins. Svitlana shows key defensive resources, creative practical decisions under time pressure, and two critical endgame \"bluffs\" that helped her hold a theoretically difficult position. After six exhausting hours and 113 moves, the roller-coaster fight finally ended in a hard-earned draw packed with lessons from opening to endgame.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-svitlana-s-revenge",
-         "pubDate" : "Sun, 01 Feb 2026 08:00:00",
-         "title" : "Svitlana's Smart Moves - Svitlana's revenge"
       },
       {
          "description" : "Young FIDE Master Bahne Fuhrmann of the Hamburger SK has taken a close look at Harshit Raja's new video course. In his review, he examines the Indian grandmaster's 1.e4 course and explains why viewers who study the course can confidently open with 1.e4.",
@@ -784,14 +792,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/can-the-total-chess-world-championship-tour-shrug-off-the-copycat-tag-of-freestyle-chess/articleshow/126477551.cms",
          "pubDate" : "Mon, 12 Jan 2026 06:48:48",
          "title" : "Can Total Chess World Championship Tour shrug off 'copycat' tag of Freestyle Chess?"
-      },
-      {
-         "description" : " The Tata Steel India Rapid & Blitz took place Wed 7th Jan to Mon 12th Jan 2026. Players: Viswanathan Anand, Wei Yi, Chithambaram Aravindh, Arjun Erigaisi, Hans Moke Niemann, Volodar Murzin, Gujrathi Vidit Santosh, R Praggnanandhaa, Nihal Sarin, Wesley So, Women: Ravi Rakshitta, Carissa Yip, Deshmukh Divya, Nana Dzagnidze, Agrawal Vantika, Rameshbabu Vaishali, Kateryna Lagno, Harika Dronavalli, Stavroula Tsolakidou, Aleksandra Goryachkina. The Rapid was won by Nihal Sarin with 6.5/9, half a point clear of Viswanathan Anand, the women's rapid was won by Kateryna Lagno with 6.5/9 a point and a half clear of Aleksandra Goryachkina. The Blitz was won by Wesley So with 12/18 a point clear of Niha",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tata-steel-india-rapid-blitz-2026",
-         "pubDate" : "Sun, 11 Jan 2026 16:34:00",
-         "title" : "Tata Steel India Rapid & Blitz 2026 - Games and Results"
       }
    ]
 }
