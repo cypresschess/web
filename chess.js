@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this episode, Svitlana analyzes one of her own intense games from the Canadian University Championships, where she faced a 2400+ tactical rival in a long-awaited revenge match. The game began as a controlled strategic battle out of a Pirc structure, exploded into sharp complications, and transitioned into a wildly double-edged endgame where both players missed wins. Svitlana shows key defensive resources, creative practical decisions under time pressure, and two critical endgame \"bluffs\" that helped her hold a theoretically difficult position. After six exhausting hours and 113 moves, the roller-coaster fight finally ended in a hard-earned draw packed with lessons from opening to endgame.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-svitlana-s-revenge",
+         "pubDate" : "Sun, 01 Feb 2026 08:00:00",
+         "title" : "Svitlana's Smart Moves - Svitlana's revenge"
+      },
+      {
+         "description" : "Young FIDE Master Bahne Fuhrmann of the Hamburger SK has taken a close look at Harshit Raja's new video course. In his review, he examines the Indian grandmaster's 1.e4 course and explains why viewers who study the course can confidently open with 1.e4.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-a-powerful-1-e4-repertoire",
+         "pubDate" : "Sun, 01 Feb 2026 07:00:00",
+         "title" : "Review: A powerful 1.e4 repertoire"
+      },
+      {
          "description" : " Nodirbek Abdusattorov beat Matthias Bluebaum in Round 12 of the Tata Steel Masters to take a half point lead into the final round of the Tata Steel Masters. Abdusattorov was sharing the lead with his fellow-countryman Javokhir Sindarov who took a quick draw against Praggnanandhaa, he has a final round game against Thai Dai Van Nguyen who has lost his last four rounds, but Nguyen has had winning positions in some of these games. Nguyen has clearly been outclassed but been very game, time trouble in coping with the problems he's been set has been a major issue. Nguyen qualified for this last year, he probably won't play such an event again I think he'll be motivated tomorrow. Abdusattorov fac",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -800,14 +816,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/long-live-iran-france-no-1-chess-grandmaster-alireza-firouzja-shares-powerful-message-amid-unrest/articleshow/126464357.cms",
          "pubDate" : "Sun, 11 Jan 2026 11:44:45",
          "title" : "'Long live Iran': France No. 1 Firouzja shares powerful message amid unrest"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126462346.cms\" />Young Indian chess prodigy Arjun Erigaisi faltered after a strong start in the Tata Steel Blitz, allowing American Grandmaster Wesley So to seize a half-point lead. So, despite an early blunder, rallied with five consecutive wins to finish Day I atop the standings. In the women's event, Carissa Yip leads, with Nihal Sarin and Viswanathan Anand in contention.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-blitz-so-yip-take-sole-lead/articleshow/126462346.cms",
-         "pubDate" : "Sun, 11 Jan 2026 06:49:13",
-         "title" : "Tata Steel Blitz: So, Yip take sole lead"
       }
    ]
 }
