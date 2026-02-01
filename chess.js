@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Nodirbek Abdusattorov beat Matthias Bluebaum in Round 12 of the Tata Steel Masters to take a half point lead into the final round of the Tata Steel Masters. Abdusattorov was sharing the lead with his fellow-countryman Javokhir Sindarov who took a quick draw against Praggnanandhaa, he has a final round game against Thai Dai Van Nguyen who has lost his last four rounds, but Nguyen has had winning positions in some of these games. Nguyen has clearly been outclassed but been very game, time trouble in coping with the problems he's been set has been a major issue. Nguyen qualified for this last year, he probably won't play such an event again I think he'll be motivated tomorrow. Abdusattorov fac",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-takes-a-half-point-lead-into-the-final-round-of-the-tata-steel-masters",
+         "pubDate" : "Sun, 1 Feb 2026 01:02:00",
+         "title" : "Abdusattorov takes a half point lead into the final round of the Tata Steel Masters - 12"
+      },
+      {
          "description" : "With one round remaining, the race for first place remains unresolved in both sections of the Tata Steel Chess Tournament. In the Masters, Nodirbek Abdusattorov leads alone after defeating Matthias Bluebaum, while Javokhir Sindarov trails by half a point and three others still have outside chances. In the Challengers, Andy Woodward and Aydin Suleymanli share the lead, with Vasyl Ivanchuk close behind. | Photo: Tata Steel Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-12",
          "pubDate" : "Sun, 01 Feb 2026 00:10:00",
          "title" : "Tata Steel Chess: Abdusattorov defeats Bluebaum, enters last round as sole leader"
+      },
+      {
+         "description" : "GM Hikaru Nakamura&#39;s historic run in the&#38;nbsp;Bullet Brawl&#38;nbsp;arena continued on Saturday with a fifth consecutive $400 victory, marking the first time a player has won a full month of Brawls since the event&#39;s inception. Reminiscent of the pre...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-jan-31-2026",
+         "pubDate" : "Sat, 31 Jan 2026 18:55:00",
+         "title" : "Nakamura Caps Off Perfect Month With 5th Bullet Brawl Victory"
       },
       {
          "description" : "Improving your chess, or anything else, is pretty simple (not easy!). &#x27a1;&#xfe0f;Do What Matters &#x27a1;&#xfe0f;Do It Well &#x27a1;&#xfe0f;Do It Consistently So, why is then not everybody improving their chess and living happily ever after? And when that happens, some students get easily discouraged and give up. While others get back on track and push through. []",
@@ -560,14 +576,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/january-muir-report",
          "pubDate" : "Tue, 20 Jan 2026 00:00:00",
          "title" : "The January MUIR Report "
-      },
-      {
-         "description" : "It was the day of the underdog in Wijk aan Zee as Dutch number-two GM Jorden van Foreest beat Dutch number-one GM Anish Giri and German number-two Matthias Bluebaum did the same to German number-one GM Vincent Keymer. The winners caught GMs Nodirb...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-3",
-         "pubDate" : "Mon, 19 Jan 2026 12:01:00",
-         "title" : "Van Foreest, Bluebaum Beat Giri, Keymer To Join 5-Way Tie For Lead"
       },
       {
          "description" : " I was in a work-commute-collapse cycle and didn't know what to do. Then I began sampling activities I'd previously dismissed - book clubs, line dancing, chess - and it became oddly addictive For most of my life, I treated taste as fixed. There were things I liked and things I didn't, and that was that. Hobbies, foods and even social situations were quietly written off with the certainty of personal preference. But sticking to that sentiment had left me in a bit of a rut. When I moved to London, I threw myself into work: long hours, commuting and networking. In the process, I stopped making time for hobbies or trying anything new. <a href=\"https://www.theguardian.com/lifeandstyle/2026/jan/19",
