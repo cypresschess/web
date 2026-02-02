@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The closing day of the 88th Tata Steel Chess Tournament settled both sections without the need for playoffs. In the Masters, Nodirbek Abdusattorov secured clear first place by defeating Arjun Erigaisi, finishing ahead of compatriot Javokhir Sindarov. Meanwhile, the Challengers title went to Andy Woodward, whose final-round win over Erwin l'Ami earned him a place in next year's Masters, while Vasyl Ivanchuk also won and finished in sole second place. | Photo: Tata Steel Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-13",
+         "pubDate" : "Mon, 02 Feb 2026 06:05:00",
+         "title" : "Nodirbek Abdusattorov wins Tata Steel Masters with brilliant 9/13 score"
+      },
+      {
          "description" : " Nodirbek Abdusattorov took clear first in the Tata Steel Masters 2026. This is his second major victor in a row after winning the London Chess Classic, that followed a disaster at the Sinquefield Cup in August last year where he finished last. Abdusattorov was unsurprisingly very happy to win this year having come so close to winning the tournament several times in recent years. He said winning this tournament was a childhood dream. Abdusattorov had a half point lead and he beat Arjun Erigaisi in convincing style on the black side of an Evans Gambit. The result relegated Erigaisi to 13th place a terrible result for a player of his class. Javokhir Sindarov managed to squeeze out a win agains",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-beats-erigaisi-to-win-the-tata-steel-masters",
          "pubDate" : "Sun, 1 Feb 2026 21:06:00",
          "title" : "Abdusattorov beats Erigaisi to win the Tata Steel Masters - 13"
-      },
-      {
-         "description" : "FIDE has approved the regulations for the Women's Circuit 2026-2027, outlining how ranking points will be awarded and which tournaments qualify toward the series. Covering a two-year period, the circuit broadens the range of eligible events while setting clear rating and participation criteria linked to qualification for the Women's Candidates. Following recent rapid and blitz events, the first leaderboard standings have been established, with several leading players already on the board.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-circuit-26-27-regulations",
-         "pubDate" : "Sun, 01 Feb 2026 19:30:00",
-         "title" : "FIDE announces regulations for Women's Circuit 2026-2027"
       },
       {
          "description" : "GM&#38;nbsp;Nodirbek Abdusattorov called it a &#34;dream come true&#34; as he defeated GM Arjun Erigaisi&#39;s Evans Gambit to win the 2026 Tata Steel Chess Masters with 9/13. GM Javokhir Sindarov gambled to keep playoff hopes alive and ultimately beat GM Thai Da...",
@@ -48,14 +48,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-takes-a-half-point-lead-into-the-final-round-of-the-tata-steel-masters",
          "pubDate" : "Sun, 1 Feb 2026 01:02:00",
          "title" : "Abdusattorov takes a half point lead into the final round of the Tata Steel Masters - 12"
-      },
-      {
-         "description" : "With one round remaining, the race for first place remains unresolved in both sections of the Tata Steel Chess Tournament. In the Masters, Nodirbek Abdusattorov leads alone after defeating Matthias Bluebaum, while Javokhir Sindarov trails by half a point and three others still have outside chances. In the Challengers, Andy Woodward and Aydin Suleymanli share the lead, with Vasyl Ivanchuk close behind. | Photo: Tata Steel Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-12",
-         "pubDate" : "Sun, 01 Feb 2026 00:10:00",
-         "title" : "Tata Steel Chess: Abdusattorov defeats Bluebaum, enters last round as sole leader"
       },
       {
          "description" : "GM Hikaru Nakamura&#39;s historic run in the&#38;nbsp;Bullet Brawl&#38;nbsp;arena continued on Saturday with a fifth consecutive $400 victory, marking the first time a player has won a full month of Brawls since the event&#39;s inception. Reminiscent of the pre...",
@@ -792,14 +784,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-champions-2025-crowned-in-monaco/",
          "pubDate" : "Mon, 12 Jan 2026 13:43:07",
          "title" : "European Women's Rapid and Blitz Chess Champions 2025 crowned in Monaco"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126477551.cms\" />Elite chess is experiencing a surge of \"World Championships\" with two major announcements: the Total Chess World Championship Tour and the FIDE Freestyle Chess World Championship. Both promise global reach and significant prize money, leading to comparisons and player confusion. The execution of these ambitious tours will determine their success and impact on the chess landscape.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/can-the-total-chess-world-championship-tour-shrug-off-the-copycat-tag-of-freestyle-chess/articleshow/126477551.cms",
-         "pubDate" : "Mon, 12 Jan 2026 06:48:48",
-         "title" : "Can Total Chess World Championship Tour shrug off 'copycat' tag of Freestyle Chess?"
       }
    ]
 }
