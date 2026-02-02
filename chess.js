@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What is the secret of becoming really good at chess? How can you best improve your understanding, your results and your rating? Well, use the cutting edge study and training software. But also spend some time discovering all the advantages it offers! GM Iniyan Pa has uncovered all the secrets of ChessBase 26, and presents his findings in his training/review reports.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-2026-a-players-guide-4",
+         "pubDate" : "Mon, 02 Feb 2026 11:00:00",
+         "title" : "ChessBase&acute;26: A Players Guide (4)"
+      },
+      {
          "description" : "The closing day of the 88th Tata Steel Chess Tournament settled both sections without the need for playoffs. In the Masters, Nodirbek Abdusattorov secured clear first place by defeating Arjun Erigaisi, finishing ahead of compatriot Javokhir Sindarov. Meanwhile, the Challengers title went to Andy Woodward, whose final-round win over Erwin l'Ami earned him a place in next year's Masters, while Vasyl Ivanchuk also won and finished in sole second place. | Photo: Tata Steel Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
