@@ -26,6 +26,14 @@ news_feed (
          "title" : "ChessBase&acute;26: A Players Guide (4)"
       },
       {
+         "description" : "GM Yagiz Kaan Erdogmus was recently described by GM Magnus Carlsen as the strongest 14-year-old in the history of the game. He&#39;s demonstrated his ability in recent months, and gained more points than anyone else among the world&#39;s top-100 players i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/february-2026-fide-ratings",
+         "pubDate" : "Mon, 02 Feb 2026 10:49:00",
+         "title" : "'Best 14-Year-Old That The World Has Ever Seen' Erdogmus Climbs In February Rating List"
+      },
+      {
          "description" : "It&#38;rsquo;s no secret that pro athletes love to play chess, even the ones who prefer skates and skis over sneakers and cleats. That&#38;rsquo;s why this month we&#38;rsquo;re rolling out the Frozen Five, a team of winter sport athletes who love to warm up ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-13",
          "pubDate" : "Mon, 02 Feb 2026 06:05:00",
          "title" : "Nodirbek Abdusattorov wins Tata Steel Masters with brilliant 9/13 score"
+      },
+      {
+         "description" : "After 13 rounds and over two weeks of competition, GMs Nodirbek Abdusattorov and Andy Woodward are the 2026 Tata Steel champions. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Tata Steel's 2026 champions: Nodirbek Abdusattorov (L) and Andy Woodward. (All photos courtesy Tata Steel/Lennart Ootes)<br> <br> Abdusattorov finished first in the Masters with a 9/13 score to put him a half-point ahead of fellow Uzbek GM Javokhir Sindarov, with both players winning their final game. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Abdusattorov keeps an ey",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/abdusattorov-woodward-win-2026-tata-steel",
+         "pubDate" : "Mon, 02 Feb 2026 00:00:00",
+         "title" : "Abdusattorov, Woodward Win 2026 Tata Steel"
       },
       {
          "description" : " Nodirbek Abdusattorov took clear first in the Tata Steel Masters 2026. This is his second major victor in a row after winning the London Chess Classic, that followed a disaster at the Sinquefield Cup in August last year where he finished last. Abdusattorov was unsurprisingly very happy to win this year having come so close to winning the tournament several times in recent years. He said winning this tournament was a childhood dream. Abdusattorov had a half point lead and he beat Arjun Erigaisi in convincing style on the black side of an Evans Gambit. The result relegated Erigaisi to 13th place a terrible result for a player of his class. Javokhir Sindarov managed to squeeze out a win agains",
@@ -570,14 +586,6 @@ news_feed (
          "title" : "Certificate of 14th NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025 in Guwahati from 27-31 Dec 2025"
       },
       {
-         "description" : "GM Hans Niemann scored a brilliant win over GM Aravindh Chithambaram&#38;nbsp;to join GM Nodirbek Abdusattorov in the lead of the 2026 Tata Steel Chess Masters on three points out of four. Abdusattorov was the first player to beat GM Thai Dai Van Nguy...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-4",
-         "pubDate" : "Tue, 20 Jan 2026 12:02:00",
-         "title" : "Niemann Sacs Queen To Lead Tata Steel Chess With Abdusattorov"
-      },
-      {
          "description" : "ECU Commission For Women's Chess&#160;announced three years ago&#160;\"European Women's Chess Trophy\",&#160;an initiative that aimed to&#160;financially reward women and girls who actively take part in the solely women's tournaments in Europe.&#160;The project is supported by the FIDE Development Fund. It was great to see the growing number of female tournaments in Europe last year, as well as number of female players that had been considered for this trophy. The Winners were announced after calculation of points awarded according to placement of []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2026-scholar-chess-player-awards",
          "pubDate" : "Tue, 20 Jan 2026 00:00:00",
          "title" : "The 2026 Scholar Chess Player Awards"
-      },
-      {
-         "description" : "US Chess announced the launch of the new Member Uploads, Information, and Reporting (MUIR) system last fall to replace the separate Member Services Area (MSA) and Tournament Director and Affiliate Area (TD/A). This is part of our ongoing plan to modernize our digital infrastructure. MUIR is an entirely new platform that supports data uploads, rating reports, and member information management in one integrated system. Its potential is great, and we look forward to realizing it together. Both US Chess and Leago have spent hundreds of hours in testing and preparation, but as with any system overhaul of this size, unexpected issues were bound to arise after launch. User feedback has been invalua",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/january-muir-report",
-         "pubDate" : "Tue, 20 Jan 2026 00:00:00",
-         "title" : "The January MUIR Report "
       },
       {
          "description" : " I was in a work-commute-collapse cycle and didn't know what to do. Then I began sampling activities I'd previously dismissed - book clubs, line dancing, chess - and it became oddly addictive For most of my life, I treated taste as fixed. There were things I liked and things I didn't, and that was that. Hobbies, foods and even social situations were quietly written off with the certainty of personal preference. But sticking to that sentiment had left me in a bit of a rut. When I moved to London, I threw myself into work: long hours, commuting and networking. In the process, I stopped making time for hobbies or trying anything new. <a href=\"https://www.theguardian.com/lifeandstyle/2026/jan/19",
