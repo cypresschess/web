@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Christian Gl&ouml;ckler delivered an impressive performance at the Qualifiers in Wijk and had already secured overall victory with one round to spare. In the ninth and final round of the tournament, he added another win. He outplayed Tim Grutter with remarkable ease and finished on 8.5 points from 9 games, with an Elo performance of 2851. In 2027, he will be eligible to play in the Challengers. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christian-gloeckler-crowns-dominant-performance-with-last-round-win",
+         "pubDate" : "Mon, 02 Feb 2026 16:41:31",
+         "title" : "Christian Gl&ouml;ckler crowns dominant performance with last-round win"
+      },
+      {
+         "description" : " The 88th Tata Steel Chess tournament took place in Wijk aan Zee Fri 16th Jan to Sun 1st Feb 2026. Players: Masters: Yagiz Kaan Erdogmus, Aravindh Chithambaram, Hans Niemann, Vincent Keymer, Javokhir Sindarov, Jorden van Foreest, Arjun Erigaisi, Praggnanandhaa Rameshbabu, Van Nguyen Thai Dai, Gukesh Dommaraju, Anish Giri, Vladimir Fedoseev, Matthias Bluebaum and Nodirbek Abdusattorov. Challengers: Vasyl Ivanchuk, Marc Andria Maurizzi, Velimir Ivic, Erwin l'Ami, Bibisara Assaubayeva, Eline Roebers, Miaoyi Lu, Max Warmerdam, Panesar Vedant, Andy Woodward, Aydin Suleymanli, Faustino Oro, Daniil Yuffa and Carissa Yip. Nodirbek Abdusattorov won the Masters, Andy Woodward the Challengers and the t",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/88th-tata-steel-2026",
+         "pubDate" : "Mon, 2 Feb 2026 13:09:00",
+         "title" : "88th Tata Steel 2026 - Games and Results"
+      },
+      {
          "description" : "What is the secret of becoming really good at chess? How can you best improve your understanding, your results and your rating? Well, use the cutting edge study and training software. But also spend some time discovering all the advantages it offers! GM Iniyan Pa has uncovered all the secrets of ChessBase 26, and presents his findings in his training/review reports.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-2026-a-players-guide-4",
          "pubDate" : "Mon, 02 Feb 2026 11:00:00",
          "title" : "ChessBase&acute;26: A Players Guide (4)"
+      },
+      {
+         "description" : "It&#38;rsquo;s no secret that pro athletes love to play chess, even the ones who prefer skates and skis over sneakers and cleats. That&#38;rsquo;s why this month we&#38;rsquo;re rolling out the Frozen Five, a team of winter sport athletes who love to warm up ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/frozen-five-chess-bots",
+         "pubDate" : "Mon, 02 Feb 2026 07:00:00",
+         "title" : "New Bots: Introducing The Frozen Five!"
       },
       {
          "description" : "The closing day of the 88th Tata Steel Chess Tournament settled both sections without the need for playoffs. In the Masters, Nodirbek Abdusattorov secured clear first place by defeating Arjun Erigaisi, finishing ahead of compatriot Javokhir Sindarov. Meanwhile, the Challengers title went to Andy Woodward, whose final-round win over Erwin l'Ami earned him a place in next year's Masters, while Vasyl Ivanchuk also won and finished in sole second place. | Photo: Tata Steel Chess / Lennart Ootes",
@@ -554,14 +578,6 @@ news_feed (
          "title" : "Niemann Sacs Queen To Lead Tata Steel Chess With Abdusattorov"
       },
       {
-         "description" : "GM Magnus Carlsen needed a few rounds to get himself going in Titled Tuesday on January 20, but still ended up scoring 9.5/11 and winning the tournament outright. He has now won two of the three Titled Tuesdays of 2026 so far and his fourth of the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-january-20-2026",
-         "pubDate" : "Tue, 20 Jan 2026 11:30:00",
-         "title" : "Carlsen Wins Thriller Over Nihal, Takes Another Titled Tuesday"
-      },
-      {
          "description" : "ECU Commission For Women's Chess&#160;announced three years ago&#160;\"European Women's Chess Trophy\",&#160;an initiative that aimed to&#160;financially reward women and girls who actively take part in the solely women's tournaments in Europe.&#160;The project is supported by the FIDE Development Fund. It was great to see the growing number of female tournaments in Europe last year, as well as number of female players that had been considered for this trophy. The Winners were announced after calculation of points awarded according to placement of []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -722,14 +738,6 @@ news_feed (
          "title" : "ECU Statement on IOC policy and FIDE General Assembly Outcome"
       },
       {
-         "description" : " The 88th Tata Steel Chess tournament takes place in Wijk aan Zee Fri 16th Jan to Sun 1st Feb 2026. Players: Masters: Yagiz Kaan Erdogmus, Aravindh Chithambaram, Hans Niemann, Vincent Keymer, Javokhir Sindarov, Jorden van Foreest, Arjun Erigaisi, Praggnanandhaa Rameshbabu, Van Nguyen Thai Dai, Gukesh Dommaraju, Anish Giri, Vladimir Fedoseev, Matthias Bluebaum and Nodirbek Abdusattorov. Challengers: Vasyl Ivanchuk, Marc Andria Maurizzi, Velimir Ivic, Erwin l'Ami, Bibisara Assaubayeva, Eline Roebers, Miaoyi Lu, Max Warmerdam, Panesar Vedant, Andy Woodward, Aydin Suleymanli, Faustino Oro, Daniil Yuffa and Carissa Yip. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/88th-tata-steel-2026",
-         "pubDate" : "Fri, 16 Jan 2026 00:29:00",
-         "title" : "88th Tata Steel 2026 - Games and Results"
-      },
-      {
          "description" : "The FIDE Global Conference on Chess in Society and Education began on 14 January 2026 at KIIT University, Bhubaneswar. The three-day event convenes education leaders,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -784,14 +792,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-confirms-norway-chess-2026-participation-event-moves-to-oslo/articleshow/126500056.cms",
          "pubDate" : "Tue, 13 Jan 2026 07:35:40",
          "title" : "Magnus Carlsen confirms Norway Chess 2026 participation, event moves to Oslo"
-      },
-      {
-         "description" : "The European Women's Rapid and Blitz Chess Championships 2025 took place from 8-12 January in Monte-Carlo, Monaco. The Championship gathered record-breaking 143 players from 30 European federations in the Rapid competition, while 120 players from 30 federations took part in the Blitz Chess Championship. The event commenced with the European Women's Blitz Chess Championship 2025 which was played on Friday, 9th of January. The Winner of the tournament was determined in the dramatical final round and direct top place encounter []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-champions-2025-crowned-in-monaco/",
-         "pubDate" : "Mon, 12 Jan 2026 13:43:07",
-         "title" : "European Women's Rapid and Blitz Chess Champions 2025 crowned in Monaco"
       }
    ]
 }
