@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Nodirbek Abdusattorov took clear first in the Tata Steel Masters 2026. This is his second major victor in a row after winning the London Chess Classic, that followed a disaster at the Sinquefield Cup in August last year where he finished last. Abdusattorov was unsurprisingly very happy to win this year having come so close to winning the tournament several times in recent years. He said winning this tournament was a childhood dream. Abdusattorov had a half point lead and he beat Arjun Erigaisi in convincing style on the black side of an Evans Gambit. The result relegated Erigaisi to 13th place a terrible result for a player of his class. Javokhir Sindarov managed to squeeze out a win agains",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-beats-erigaisi-to-win-the-tata-steel-masters",
+         "pubDate" : "Sun, 1 Feb 2026 21:06:00",
+         "title" : "Abdusattorov beats Erigaisi to win the Tata Steel Masters - 13"
+      },
+      {
          "description" : "FIDE has approved the regulations for the Women's Circuit 2026-2027, outlining how ranking points will be awarded and which tournaments qualify toward the series. Covering a two-year period, the circuit broadens the range of eligible events while setting clear rating and participation criteria linked to qualification for the Women's Candidates. Following recent rapid and blitz events, the first leaderboard standings have been established, with several leading players already on the board.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/abdusattorov-wins-2026-tata-steel-chess",
-         "pubDate" : "Sun, 01 Feb 2026 12:06:56",
+         "pubDate" : "Sun, 01 Feb 2026 12:06:00",
          "title" : "Abdusattorov Wins 'Dream' Tata Steel Masters, Woodward Takes Challengers"
       },
       {
