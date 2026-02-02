@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2026-02-01","11","<a href=https://ratings.uschess.org/event/202602010273 target='_blank'>Bellaire Sunday Swiss 2026.02.01</a>",
+"HOUSTON","2026-02-01","6","<a href=https://ratings.uschess.org/event/202602010193 target='_blank'>2026 Houston Circuit T1 by AzChAcad</a>",
 "HOUSTON","2026-01-31","10","<a href=https://ratings.uschess.org/event/202601310423 target='_blank'>chesspanda01312026saturday</a>",
 "PASADENA","2026-01-30","10","<a href=https://ratings.uschess.org/event/202601300333 target='_blank'>Checkmates on Fairmont</a>",
 "HOUSTON","2026-01-30","27","<a href=https://ratings.uschess.org/event/202601300213 target='_blank'>The Friday Knights</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2025-10-26","11","<a href=https://ratings.uschess.org/event/202510268452 target='_blank'>BELLAIRE SUNDAY SWISS 2025.10.26</a>",
 "HOUSTON","2025-10-26","40","<a href=https://ratings.uschess.org/event/202510268362 target='_blank'>TCR: HOUSTON FALL CHAMPIONSHIP 2025</a>",
 "HOUSTON","2025-10-25","42","<a href=https://ratings.uschess.org/event/202510257972 target='_blank'>TEXAS CHESS TRIATHLON - A TEXAS STA</a>",
-"HOUSTON","2025-10-25","10","<a href=https://ratings.uschess.org/event/202510257222 target='_blank'>CHESSPANDA10252025SATURDAY</a>",
-"HOUSTON","2025-10-25","58","<a href=https://ratings.uschess.org/event/202510257182 target='_blank'>TCR: HOUSTON FALL SCHOLASTIC 2025</a>",
 ]);
