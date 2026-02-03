@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this analytical column, GM Jon Speelman explores how winning lines can hide behind unexpected variations, even when a position appears manageable. Drawing on a missed opportunity from his own 4NCL game and a sharp encounter from Wijk aan Zee between Matthias Bluebaum and prodigy Yagiz Kaan Erdogmus (pictured), he examines overlooked tactics, defensive ingenuity and the practical difficulty of finding precise moves over the board. | Photo: Tata Steel Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-236",
+         "pubDate" : "Tue, 03 Feb 2026 19:00:00",
+         "title" : "Jon Speelman: Attack and defence - hidden ideas"
+      },
+      {
          "description" : "MegaBase 2026 is Chess History in action. Regularly updated every month, the Main Database currently offers 11.8 million games, many of them annotated. Here our columnist offers a review with focus on chess in the 21st Century.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/another-indian-after-r-praggnanandhaa-norway-chess-reveals-fourth-participant-for-2026-event/articleshow/127884358.cms",
          "pubDate" : "Tue, 03 Feb 2026 11:24:02",
          "title" : "Another Indian! After Pragg, Norway Chess 2026 reveals fourth participant"
+      },
+      {
+         "description" : "GM Nodirbek Abdusattorov scored one of the best results of his career so far to win sole first place in the 2026 Tata Steel Chess Masters, with second-placed GM Javokhir Sindarov completing the Uzbek domination. We look back at some conclusions fr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-conclusions",
+         "pubDate" : "Tue, 03 Feb 2026 09:20:13",
+         "title" : "Tata Steel Chess 2026: 11 Conclusions"
       },
       {
          "description" : "Please find below live games link for the First Chola chess International GM Norm Round Robin Tournament 2026 from 2nd to 11th February 2026 scheduled at Chennai, India. Live games link",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/muscat-nights-open-2026-report",
          "pubDate" : "Tue, 03 Feb 2026 00:05:00",
          "title" : "Mendonca prevails after six-way tie at Muscat Nights Open in Oman"
+      },
+      {
+         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, including some brain-teasers in our Wednesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-world-rapid-blitz-pt-5",
+         "pubDate" : "Tue, 03 Feb 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2025 World Rapid & Blitz, Pt. 5"
       },
       {
          "description" : "Each year, the U.S. Chess Federation honors clubs that go above and beyond in promoting the game and serving their communities through the Chess Club of the Year Awards. Three clubs are recognized each year in the Large, Medium, and Small Club categories so that clubs of all sizes have the chance to be celebrated. Large Clubs have 51 or more members, Medium Clubs have 16 to 50 members, and Small Clubs have 3 to 15 members. Membership numbers should be based on either average attendance or an annual membership list.Winners are chosen based on several factors, including, community outreach, membership growth, innovation and creativity, player and director development, and overall organization ",
@@ -576,22 +600,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/the-ecf-schools-team-rapidplay-a-celebration-of-team-chess-at-eton/",
          "pubDate" : "Wed, 21 Jan 2026 12:18:19",
          "title" : "The ECF Schools Team Rapidplay: A Celebration of Team Chess at Eton"
-      },
-      {
-         "description" : "GM Javokhir Sindarov looked to have spoiled a win against 14-year-old GM Yagiz Kaan Erdogmus but went on to grind out a 74-move victory that saw him join GMs Hans Niemann and Nodirbek Abdusattorov in the 2026 Tata Steel Chess Masters lead. GM Vlad...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-5",
-         "pubDate" : "Wed, 21 Jan 2026 11:56:00",
-         "title" : "Sindarov Catches Leaders As Gukesh, Keymer, Fedoseev Also Strike"
-      },
-      {
-         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out the start of our Tactics Tuesday series with more beginner-friendly puzzles here and here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2025-world-rapid-blitz-pt-3",
-         "pubDate" : "Wed, 21 Jan 2026 00:00:00",
-         "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 3"
       },
       {
          "description" : "<ul><li> 29-year-old had stimulants and kratom in system </li><li> Death investigated as possible overdose or suicide </li></ul> American chess grandmaster Daniel Naroditsky had a combination of stimulant and psychoactive substances in his system when he died last year, according to a toxicology report released by North Carolina authorities. Naroditsky, 29, was <a href=\"https://www.theguardian.com/sport/2025/oct/20/daniel-naroditsky-dies-chess-grandmaster\">found dead at his home in Charlotte</a> in October 2025, a loss that sent shockwaves through the global chess community. At the time, police said his death was being investigated as a possible overdose or suicide. No official cause was ann",
