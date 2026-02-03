@@ -1,11 +1,14 @@
 jtable([
 "HOUSTON","2026-02-01","11","<a href=https://ratings.uschess.org/event/202602010273 target='_blank'>Bellaire Sunday Swiss 2026.02.01</a>",
 "HOUSTON","2026-02-01","6","<a href=https://ratings.uschess.org/event/202602010193 target='_blank'>2026 Houston Circuit T1 by AzChAcad</a>",
+"SPRING","2026-01-31","228","<a href=https://ratings.uschess.org/event/202601311013 target='_blank'>KLEIN WINTER SCHOLASTIC</a>",
 "HOUSTON","2026-01-31","10","<a href=https://ratings.uschess.org/event/202601310423 target='_blank'>chesspanda01312026saturday</a>",
 "PASADENA","2026-01-30","10","<a href=https://ratings.uschess.org/event/202601300333 target='_blank'>Checkmates on Fairmont</a>",
 "HOUSTON","2026-01-30","27","<a href=https://ratings.uschess.org/event/202601300213 target='_blank'>The Friday Knights</a>",
 "SUGAR LAND","2026-01-30","12","<a href=https://ratings.uschess.org/event/202601300193 target='_blank'>2026 FBCC Draw a Dinosaur Day Open</a>",
 "CYPRESS","2026-01-30","33","<a href=https://ratings.uschess.org/event/202601300153 target='_blank'>Knights of Cypress</a>",
+"HOUSTON","2026-01-28","2","<a href=https://ratings.uschess.org/event/202601280503 target='_blank'>Match Play AW v CL</a>",
+"HOUSTON","2026-01-27","15","<a href=https://ratings.uschess.org/event/202601270453 target='_blank'>January Tuesday Night Swiss 2026</a>",
 "SUGAR LAND","2026-01-24","8","<a href=https://ratings.uschess.org/event/202601240733 target='_blank'>winter-01-24-2026</a>",
 "CYPRESS","2026-01-23","38","<a href=https://ratings.uschess.org/event/202601230393 target='_blank'>Knights of Cypress</a>",
 "SUGAR LAND","2026-01-23","14","<a href=https://ratings.uschess.org/event/202601230333 target='_blank'>FBCC 2026 National Pie Day Open</a>",
@@ -96,7 +99,4 @@ jtable([
 "HOUSTON","2025-11-01","12","<a href=https://ratings.uschess.org/event/202511010083 target='_blank'>chesspanda11012025saturday</a>",
 "CYPRESS","2025-10-31","12","<a href=https://ratings.uschess.org/event/202510310023 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-10-28","16","<a href=https://ratings.uschess.org/event/202510280173 target='_blank'>OCTOBER TUESDAY NIGHT SWISS 2025</a>",
-"HOUSTON","2025-10-26","11","<a href=https://ratings.uschess.org/event/202510268452 target='_blank'>BELLAIRE SUNDAY SWISS 2025.10.26</a>",
-"HOUSTON","2025-10-26","40","<a href=https://ratings.uschess.org/event/202510268362 target='_blank'>TCR: HOUSTON FALL CHAMPIONSHIP 2025</a>",
-"HOUSTON","2025-10-25","42","<a href=https://ratings.uschess.org/event/202510257972 target='_blank'>TEXAS CHESS TRIATHLON - A TEXAS STA</a>",
 ]);
