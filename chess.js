@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Muscat Nights International Chess Championship brought together a strong international field in Oman's capital for nine rounds of classical play alongside a mid-event blitz tournament. In Open A, a six-way tie for first place left the title to be decided on tiebreaks, with Leon Luke Mendonca finishing ahead of fellow co-leaders after an unbeaten run. The event combined competitive depth at the top with a broad festival structure across rating sections. | Photo: Oman Chess Committee",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/muscat-nights-open-2026-report",
+         "pubDate" : "Tue, 03 Feb 2026 00:05:00",
+         "title" : "Mendonca prevails after six-way tie at Muscat Nights Open in Oman"
+      },
+      {
          "description" : "Christian Gl&ouml;ckler delivered an impressive performance at the Qualifiers in Wijk and had already secured overall victory with one round to spare. In the ninth and final round of the tournament, he added another win. He outplayed Tim Grutter with remarkable ease and finished on 8.5 points from 9 games, with an Elo performance of 2851. In 2027, he will be eligible to play in the Challengers. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
