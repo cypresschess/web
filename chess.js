@@ -42,6 +42,14 @@ news_feed (
          "title" : "Mendonca prevails after six-way tie at Muscat Nights Open in Oman"
       },
       {
+         "description" : "Each year, the U.S. Chess Federation honors clubs that go above and beyond in promoting the game and serving their communities through the Chess Club of the Year Awards. Three clubs are recognized each year in the Large, Medium, and Small Club categories so that clubs of all sizes have the chance to be celebrated. Large Clubs have 51 or more members, Medium Clubs have 16 to 50 members, and Small Clubs have 3 to 15 members. Membership numbers should be based on either average attendance or an annual membership list.Winners are chosen based on several factors, including, community outreach, membership growth, innovation and creativity, player and director development, and overall organization ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/chess-club-year-awards-nominations-open",
+         "pubDate" : "Tue, 03 Feb 2026 00:00:00",
+         "title" : "Chess Club of the Year Awards: Nominations Open"
+      },
+      {
          "description" : " The 88th Tata Steel Chess tournament took place in Wijk aan Zee Fri 16th Jan to Sun 1st Feb 2026. Players: Masters: Yagiz Kaan Erdogmus, Aravindh Chithambaram, Hans Niemann, Vincent Keymer, Javokhir Sindarov, Jorden van Foreest, Arjun Erigaisi, Praggnanandhaa Rameshbabu, Van Nguyen Thai Dai, Gukesh Dommaraju, Anish Giri, Vladimir Fedoseev, Matthias Bluebaum and Nodirbek Abdusattorov. Challengers: Vasyl Ivanchuk, Marc Andria Maurizzi, Velimir Ivic, Erwin l'Ami, Bibisara Assaubayeva, Eline Roebers, Miaoyi Lu, Max Warmerdam, Panesar Vedant, Andy Woodward, Aydin Suleymanli, Faustino Oro, Daniil Yuffa and Carissa Yip. Nodirbek Abdusattorov won the Masters, Andy Woodward the Challengers and the t",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -624,14 +632,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/bluebaum-and-van-foreest-win-their-first-games-and-join-the-leaders-of-tata-steel-on-23",
          "pubDate" : "Tue, 20 Jan 2026 00:51:00",
          "title" : "Bluebaum and Van Foreest win their first games and join the leaders of Tata Steel on 2/3 - 3"
-      },
-      {
-         "description" : "The deadline for applying is March 1, 2026, at 11:59 p.m. PT. Incomplete applications will not be reviewed by the selection committee.If you are a current US Chess member and a high school junior or senior, you are eligible to apply for one of the following two awards:2026 National Scholar Chess Player Award - a total of five $1,500 scholarships awarded.2026 The Scholar Chess Player Ambassador Award for players rated under 2000 - a total of one $1,500 scholarship awarded.The scholarships are provided by the US Chess Trust, with a generous, supporting contribution from the National Scholastic Chess Foundation (NSCF), to recognize and encourage outstanding high school students who promote a po",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-scholar-chess-player-awards",
-         "pubDate" : "Tue, 20 Jan 2026 00:00:00",
-         "title" : "The 2026 Scholar Chess Player Awards"
       },
       {
          "description" : " I was in a work-commute-collapse cycle and didn't know what to do. Then I began sampling activities I'd previously dismissed - book clubs, line dancing, chess - and it became oddly addictive For most of my life, I treated taste as fixed. There were things I liked and things I didn't, and that was that. Hobbies, foods and even social situations were quietly written off with the certainty of personal preference. But sticking to that sentiment had left me in a bit of a rut. When I moved to London, I threw myself into work: long hours, commuting and networking. In the process, I stopped making time for hobbies or trying anything new. <a href=\"https://www.theguardian.com/lifeandstyle/2026/jan/19",
