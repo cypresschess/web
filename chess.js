@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "MegaBase 2026 is Chess History in action. Regularly updated every month, the Main Database currently offers 11.8 million games, many of them annotated. Here our columnist offers a review with focus on chess in the 21st Century.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/megabase-2026-review-nagesh-havanur",
+         "pubDate" : "Tue, 03 Feb 2026 13:00:00",
+         "title" : "Megabase 2026: Living legends and rising stars"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/127884358.cms\" />Reigning world champion Gukesh Dommaraju has been confirmed as the fourth participant for Norway Chess 2026, joining fellow Indian R Praggnanandhaa. The youngest world champion in history, Gukesh returns after a strong 2025 showing and a memorable win over Magnus Carlsen, highlighting India's growing dominance in world chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/another-indian-after-r-praggnanandhaa-norway-chess-reveals-fourth-participant-for-2026-event/articleshow/127884358.cms",
+         "pubDate" : "Tue, 03 Feb 2026 11:24:02",
+         "title" : "Another Indian! After Pragg, Norway Chess 2026 reveals fourth participant"
+      },
+      {
+         "description" : "Please find below live games link for the First Chola chess International GM Norm Round Robin Tournament 2026 from 2nd to 11th February 2026 scheduled at Chennai, India. Live games link",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-first-chola-chess-international-gm-norm-round-robin-tournament-2026/",
+         "pubDate" : "Tue, 03 Feb 2026 09:04:55",
+         "title" : "Live games link for First Chola chess International GM Norm Round Robin Tournament 2026"
+      },
+      {
          "description" : "The results of this year's Tata Steel tournament could not yet be taken into account in the FIDE rating list of 1 February. There was, however, some movement in the women's world ranking. With her results in the Chinese League, Hou Yifan has fallen below 2600 for the first time since 2013, but remains number one ahead of four other Chinese players. World Champion Gukesh is the top junior, ahead of Erdogmus. In the girls' junior ranking, 15-year-old Lu Miaoyi leads.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/muscat-nights-open-2026-report",
          "pubDate" : "Tue, 03 Feb 2026 00:05:00",
          "title" : "Mendonca prevails after six-way tie at Muscat Nights Open in Oman"
-      },
-      {
-         "description" : "Christian Gl&ouml;ckler delivered an impressive performance at the Qualifiers in Wijk and had already secured overall victory with one round to spare. In the ninth and final round of the tournament, he added another win. He outplayed Tim Grutter with remarkable ease and finished on 8.5 points from 9 games, with an Elo performance of 2851. In 2027, he will be eligible to play in the Challengers. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christian-gloeckler-crowns-dominant-performance-with-last-round-win",
-         "pubDate" : "Mon, 02 Feb 2026 16:41:31",
-         "title" : "Christian Gl&ouml;ckler crowns dominant performance with last-round win"
       },
       {
          "description" : " The 88th Tata Steel Chess tournament took place in Wijk aan Zee Fri 16th Jan to Sun 1st Feb 2026. Players: Masters: Yagiz Kaan Erdogmus, Aravindh Chithambaram, Hans Niemann, Vincent Keymer, Javokhir Sindarov, Jorden van Foreest, Arjun Erigaisi, Praggnanandhaa Rameshbabu, Van Nguyen Thai Dai, Gukesh Dommaraju, Anish Giri, Vladimir Fedoseev, Matthias Bluebaum and Nodirbek Abdusattorov. Challengers: Vasyl Ivanchuk, Marc Andria Maurizzi, Velimir Ivic, Erwin l'Ami, Bibisara Assaubayeva, Eline Roebers, Miaoyi Lu, Max Warmerdam, Panesar Vedant, Andy Woodward, Aydin Suleymanli, Faustino Oro, Daniil Yuffa and Carissa Yip. Nodirbek Abdusattorov won the Masters, Andy Woodward the Challengers and the t",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/frozen-five-chess-bots",
          "pubDate" : "Mon, 02 Feb 2026 07:00:00",
          "title" : "New Bots: Introducing The Frozen Five!"
-      },
-      {
-         "description" : "The closing day of the 88th Tata Steel Chess Tournament settled both sections without the need for playoffs. In the Masters, Nodirbek Abdusattorov secured clear first place by defeating Arjun Erigaisi, finishing ahead of compatriot Javokhir Sindarov. Meanwhile, the Challengers title went to Andy Woodward, whose final-round win over Erwin l'Ami earned him a place in next year's Masters, while Vasyl Ivanchuk also won and finished in sole second place. | Photo: Tata Steel Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-13",
-         "pubDate" : "Mon, 02 Feb 2026 06:05:00",
-         "title" : "Nodirbek Abdusattorov wins Tata Steel Masters with brilliant 9/13 score"
       },
       {
          "description" : "After 13 rounds and over two weeks of competition, GMs Nodirbek Abdusattorov and Andy Woodward are the 2026 Tata Steel champions. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Tata Steel's 2026 champions: Nodirbek Abdusattorov (L) and Andy Woodward. (All photos courtesy Tata Steel/Lennart Ootes)<br> <br> Abdusattorov finished first in the Masters with a 9/13 score to put him a half-point ahead of fellow Uzbek GM Javokhir Sindarov, with both players winning their final game. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Abdusattorov keeps an ey",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2026/01/13/ashley-appears-on-oprah/",
          "pubDate" : "Tue, 13 Jan 2026 20:42:45",
          "title" : "Ashley appears on Oprah!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126502200.cms\" />Indian grandmaster R Praggnanandhaa admitted his form dipped after a hectic 2025 season despite early title wins. He struggled in the year's latter half but is not worried about the 2026 Candidates. Praggnanandhaa believes continuous tournaments affected his play and says an upcoming two-month break will help him rest, regroup, and prepare better.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/ahead-of-candidates-2026-indias-only-hope-r-praggnanandhaa-reveals-my-play-not-on-same-level-as-it-used-to-be/articleshow/126502200.cms",
-         "pubDate" : "Tue, 13 Jan 2026 10:23:52",
-         "title" : "Ahead of Candidates 2026, India's only hope Pragg makes big admission"
       }
    ]
 }
