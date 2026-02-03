@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The results of this year's Tata Steel tournament could not yet be taken into account in the FIDE rating list of 1 February. There was, however, some movement in the women's world ranking. With her results in the Chinese League, Hou Yifan has fallen below 2600 for the first time since 2013, but remains number one ahead of four other Chinese players. World Champion Gukesh is the top junior, ahead of Erdogmus. In the girls' junior ranking, 15-year-old Lu Miaoyi leads.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-february-2026",
+         "pubDate" : "Tue, 03 Feb 2026 09:00:00",
+         "title" : "FIDE ratings - February 2026"
+      },
+      {
          "description" : "The Muscat Nights International Chess Championship brought together a strong international field in Oman's capital for nine rounds of classical play alongside a mid-event blitz tournament. In Open A, a six-way tie for first place left the title to be decided on tiebreaks, with Leon Luke Mendonca finishing ahead of fellow co-leaders after an unbeaten run. The event combined competitive depth at the top with a broad festival structure across rating sections. | Photo: Oman Chess Committee",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/ahead-of-candidates-2026-indias-only-hope-r-praggnanandhaa-reveals-my-play-not-on-same-level-as-it-used-to-be/articleshow/126502200.cms",
          "pubDate" : "Tue, 13 Jan 2026 10:23:52",
          "title" : "Ahead of Candidates 2026, India's only hope Pragg makes big admission"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126500056.cms\" />Magnus Carlsen will participate in Norway Chess 2026, ending speculation about his classical chess future. The prestigious tournament, which Carlsen has won seven times, is relocating from Stavanger to Oslo. This move signifies a new chapter for the event, aiming for broader reach and engagement with a wider audience and new generations of chess enthusiasts.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-confirms-norway-chess-2026-participation-event-moves-to-oslo/articleshow/126500056.cms",
-         "pubDate" : "Tue, 13 Jan 2026 07:35:40",
-         "title" : "Magnus Carlsen confirms Norway Chess 2026 participation, event moves to Oslo"
       }
    ]
 }
