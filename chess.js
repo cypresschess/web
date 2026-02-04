@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2026 Israel Open Chess Championship, held in Acre from 19 to 27 January, brought together 103 players from across the country for a nine-round Swiss tournament. Nineteen-year-old GM Yahli Sokolovsky (pictured, right) emerged as the clear winner with 7&frac12;/9 and a 2694 performance rating, claiming his first national title. IM Yeshaayahu Tzidkiya and GM Evgeny Alekseev (pictured, centre and left) completed the podium after finishing half a point behind the champion. | Photo: Galina Pankratova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/israel-championship-2026-report",
+         "pubDate" : "Wed, 04 Feb 2026 02:45:00",
+         "title" : "Yahli Sokolovsky claims maiden Israeli Championship title at 19"
+      },
+      {
          "description" : "In this analytical column, GM Jon Speelman explores how winning lines can hide behind unexpected variations, even when a position appears manageable. Drawing on a missed opportunity from his own 4NCL game and a sharp encounter from Wijk aan Zee between Matthias Bluebaum and prodigy Yagiz Kaan Erdogmus (pictured), he examines overlooked tactics, defensive ingenuity and the practical difficulty of finding precise moves over the board. | Photo: Tata Steel Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Megabase 2026: Living legends and rising stars"
       },
       {
-         "description" : "GM Maxime Vachier-Lagrave took home&#38;nbsp;Titled Tuesday on February 3, becoming the first player all year to score 10/11, allowing him to avoid tiebreaks to beat out GMs Arjun Erigaisi and Alexey Sarana on 9.5 points.&#38;nbsp;The win was not only Vac...",
+         "description" : "GM Maxime Vachier-Lagrave took home&#38;nbsp;Titled Tuesday on February 3, becoming the first player all year to score 10/11, allowing him to avoid tiebreaks to beat out GMs Arjun Erigaisi and Alexey Sarana on 9.5 points. The win was not only Vachier-...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-titled-tuesday-february-3-2026",
