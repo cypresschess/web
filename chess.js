@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Of late there is no dearth of chess activity in India including umpteen number of Grandmasters open events. But closed circuit events give more scope",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/first-chola-chess-international-gm-norm-round-robin-tournament-in-form-chennai-from-02-february-to-11-february-2026/",
+         "pubDate" : "Wed, 04 Feb 2026 05:25:03",
+         "title" : "First Chola chess International GM Norm Round Robin Tournament in form Chennai from 02 February to 11 February 2026."
+      },
+      {
          "description" : "The 2026 Israel Open Chess Championship, held in Acre from 19 to 27 January, brought together 103 players from across the country for a nine-round Swiss tournament. Nineteen-year-old GM Yahli Sokolovsky (pictured, right) emerged as the clear winner with 7&frac12;/9 and a 2694 performance rating, claiming his first national title. IM Yeshaayahu Tzidkiya and GM Evgeny Alekseev (pictured, centre and left) completed the podium after finishing half a point behind the champion. | Photo: Galina Pankratova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/last-chance-for-giri-caruana-and-nakamura-can-chess-titans-in-their-30s-match-gukeshs-vigour-at-candidates/articleshow/126543450.cms",
          "pubDate" : "Thu, 15 Jan 2026 10:08:50",
          "title" : "'Last chance for Giri, Caruana, Nakamura': Can chess titans match Gukesh's vigour?"
-      },
-      {
-         "description" : "As many as 101 candidates from three states namely Karnataka, Tamil Nadu and Telengana appeared for the SNA Seminar cum examination held in Madurai on",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-sna-seminar-exam-held-in-madurai-on/",
-         "pubDate" : "Thu, 15 Jan 2026 10:01:37",
-         "title" : "Final Report of SNA Seminar & Exam held in Madurai on 27 & 28 December 2025"
       },
       {
          "description" : "By decision of the ECU Board and with approval from the FIDE Council, the ECU General Assembly 2026 and elections will take place on Saturday, 18 July 2026, in Bucharest, Romania. The elections are scheduled in accordance with the ECU statutes and the completion of the current term of the ECU Board on 22 July 2026. The ECU General Assembly will be hosted, unless there is an emergency NOC meeting, at the premises of the Romanian Olympic Committee, emphasising the []",
