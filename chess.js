@@ -18,6 +18,14 @@ news_feed (
          "title" : "Megabase 2026: Living legends and rising stars"
       },
       {
+         "description" : "GM Maxime Vachier-Lagrave took home&#38;nbsp;Titled Tuesday on February 3, becoming the first player all year to score 10/11, allowing him to avoid tiebreaks to beat out GMs Arjun Erigaisi and Alexey Sarana on 9.5 points.&#38;nbsp;The win was not only Vac...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-titled-tuesday-february-3-2026",
+         "pubDate" : "Tue, 03 Feb 2026 12:23:00",
+         "title" : "Vachier-Lagrave Back In Titled Tuesday Win Column After Mustachioed Magnus Fades"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/127884358.cms\" />Reigning world champion Gukesh Dommaraju has been confirmed as the fourth participant for Norway Chess 2026, joining fellow Indian R Praggnanandhaa. The youngest world champion in history, Gukesh returns after a strong 2025 showing and a memorable win over Magnus Carlsen, highlighting India's growing dominance in world chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -562,14 +570,6 @@ news_feed (
          "title" : "Niemann and Abdusattorov lead the Tata Steel Masters with 3/4 - 4"
       },
       {
-         "description" : "GMs Magnus Carlsen and Hikaru Nakamura treated chess fans in Barcelona with fascinating insight and entertainment when they appeared for a discussion about chess and played a blindfold game, expertly commented on by none other than IM Levy Rozman....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-nakamura-blindfold-game-ice-barcelona",
-         "pubDate" : "Wed, 21 Jan 2026 12:51:00",
-         "title" : "Carlsen, Nakamura Excite Fans With Blindfold Battle And Chess Discussion In Barcelona"
-      },
-      {
          "description" : "Saturday 14th and Sunday 15th March at the&#160;Holiday Inn Peterborough - West,&#160;Thorpe Wood, Peterborough, PE3 6SG. One FIDE rated OPEN section, with a prize fund of at least &pound;6,500.&#160;GMs/WGMs and...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -800,14 +800,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-general-assembly-2026/",
          "pubDate" : "Thu, 15 Jan 2026 07:15:06",
          "title" : "ECU GENERAL ASSEMBLY 2026"
-      },
-      {
-         "description" : " Maurice Ashley appeared on Oprah along with Adam Grant, who highlighted Ashley in his book, Hidden Potential: The Science of Achieving Greater Things. Grant's book focuses on talent assessment, drawing from stories of successful personalities in various fields. Grandmaster Maurice Ashley, appearing on The Oprah Podcast, with author Adam Grant Hidden Potential&#160;offers a new framework The post <a href=\"https://thechessdrum.net/blog/2026/01/13/ashley-appears-on-oprah/\">Ashley appears on Oprah!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2026/01/13/ashley-appears-on-oprah/",
-         "pubDate" : "Tue, 13 Jan 2026 20:42:45",
-         "title" : "Ashley appears on Oprah!"
       }
    ]
 }
