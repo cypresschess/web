@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE traces the history of the Candidates Tournament, the event that determines who earns the right to challenge for the world chess title. Established in 1950 to replace earlier informal arrangements, the Candidates has evolved through different formats and eras, reflecting changes in the championship cycle. From Budapest to recent editions in major cities, the tournament has remained the decisive stage in the path to a world title match, with Cyprus set to host the next chapter. | Image: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/history-candidates-2026",
+         "pubDate" : "Wed, 04 Feb 2026 20:30:00",
+         "title" : "History of the Candidates: From Budapest (1950) to Cyprus (2026)"
+      },
+      {
          "description" : "The ECU E-Magazine December &#38; January 2025/2026 is out! In this edition of the ECU E-Magazine you may read about: The ECU Magazine can be read online together with interactive links through the following link, or it can be downloaded in PDF format below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-e-magazine-december-january-2025-2026/",
          "pubDate" : "Wed, 04 Feb 2026 11:18:50",
          "title" : "ECU E-Magazine December & January 2025/2026"
+      },
+      {
+         "description" : "IM Polina Shuvalova set a new all-time Chess.com blitz rating record by a woman, surpassing the previous mark shared by IM Eline Roebers and WGM Aleksandra Maltsevskaya from last year. The 24-year-old climbed to 2941, edging closer than ever to re...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/shuvalova-breaks-record-for-all-time-highest-blitz-rating-for-women",
+         "pubDate" : "Wed, 04 Feb 2026 10:51:00",
+         "title" : "Shuvalova Breaks Chess.com Women's Record For Highest All-Time Blitz Rating"
       },
       {
          "description" : "Of late there is no dearth of chess activity in India including umpteen number of Grandmasters open events. But closed circuit events give more scope",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/israel-championship-2026-report",
          "pubDate" : "Wed, 04 Feb 2026 02:45:00",
          "title" : "Yahli Sokolovsky claims maiden Israeli Championship title at 19"
+      },
+      {
+         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out our Tactics Tuesday series with more beginner-friendly puzzles here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2025-world-rapid-blitz-pt-5",
+         "pubDate" : "Wed, 04 Feb 2026 00:00:00",
+         "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 5"
       },
       {
          "description" : "In this analytical column, GM Jon Speelman explores how winning lines can hide behind unexpected variations, even when a position appears manageable. Drawing on a missed opportunity from his own 4NCL game and a sharp encounter from Wijk aan Zee between Matthias Bluebaum and prodigy Yagiz Kaan Erdogmus (pictured), he examines overlooked tactics, defensive ingenuity and the practical difficulty of finding precise moves over the board. | Photo: Tata Steel Chess / Lennart Ootes",
@@ -560,22 +584,6 @@ news_feed (
          "link" : "https://www.europechess.org/press-release-european-chess-super-league-2027-announced/",
          "pubDate" : "Thu, 22 Jan 2026 13:14:44",
          "title" : "Press Release: European Chess Super League 2027 Announced"
-      },
-      {
-         "description" : "GM Daniel Naroditsky&#39;s death has been ruled accidental and likely the result of an underlying medical condition, according to a report released this week by the Mecklenburg County Medical Examiner&#38;rsquo;s Office in North Carolina. The popular U....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/report-reveals-daniel-naroditsky-probable-cause-of-death",
-         "pubDate" : "Thu, 22 Jan 2026 05:35:00",
-         "title" : "Daniel Naroditsky's Death Ruled An Accident, Report By Medical Examiner Shows"
-      },
-      {
-         "description" : "GM Hans Niemann is in a three-way tie for first place with 3&frac12;/5 entering the first rest day of the Tata Steel Masters in Wijk aan Zee. The famous Netherlands tournament consists of 13 rounds, running from Jan. 17 through Feb. 1. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Niemann faces the crowd before Round 1. (All photos courtesy Tata Steel Chess/Lennart Ootes)<br> <br> <br> <br> Although the first round was delayed due to a protest of Tata Steel's alleged sports-washing of its effect on the climate by Extinction Rebellion Nederland, the tournament did eventually begin and, so far, it has delivered on its promise of exciting chess across b",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/niemann-leads-tata-steel-masters-woodward-and-yip-shine-challengers",
-         "pubDate" : "Thu, 22 Jan 2026 00:00:00",
-         "title" : "Niemann Leads Tata Steel Masters, Woodward and Yip Shine in Challengers"
       },
       {
          "description" : " The leaders Hans Moke Niemann and Nodirbek Abdusattorov met in the fifth round of the Tata Steel Masters and drew allowing Javokhir Sindarov to join them in the lead. There were four decisive games with Vladimir Fedoseev beating Arjun Erigaisi, top seed Vincent Keymer got back to 50% with a win over Chithambaram Aravindh, Gukesh scored his first win when he defeated Thai Dai Van Nguyen. Jorden van Foreest drew with Matthias Bluebaum and Praggnanandhaa drew with Anish Giri. In the Challengers leader Aydin Suleymanli drew with Max Warmerdam allowing 12 year old Faustino Oro and Andy Woodward to join him on 4/5. The game file has two annotated games by Michiel Abeln based on player comments an",
