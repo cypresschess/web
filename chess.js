@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECU E-Magazine December &#38; January 2025/2026 is out! In this edition of the ECU E-Magazine you may read about: The ECU Magazine can be read online together with interactive links through the following link, or it can be downloaded in PDF format below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-december-january-2025-2026/",
+         "pubDate" : "Wed, 04 Feb 2026 11:18:50",
+         "title" : "ECU E-Magazine December & January 2025/2026"
+      },
+      {
          "description" : "Of late there is no dearth of chess activity in India including umpteen number of Grandmasters open events. But closed circuit events give more scope",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -54,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-conclusions",
-         "pubDate" : "Tue, 03 Feb 2026 09:20:13",
+         "pubDate" : "Tue, 03 Feb 2026 09:20:00",
          "title" : "Tata Steel Chess 2026: 11 Conclusions"
       },
       {
@@ -682,7 +690,7 @@ news_feed (
          "title" : "Final report of SNA Seminar & Exam in Ahmedabad on 02 & 03 January 2026"
       },
       {
-         "description" : "The European Individual Chess Championship 2025 will be held from 6 April to 20 April 2026 in Katowice, Poland. The Championship will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game with an increment of 30 seconds for every move, starting from move one. The total prize fund of the Championship is 100.000 EUR, with 20.000 EUR reserved for the Winner of the []",
+         "description" : "The European Individual Chess Championship 2026 will be held from 6 April to 20 April 2026 in Katowice, Poland. The Championship will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game with an increment of 30 seconds for every move, starting from move one. The total prize fund of the Championship is 100.000 EUR, with 20.000 EUR reserved for the Winner of the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-individual-chess-championship-2026-official-invitation/",
