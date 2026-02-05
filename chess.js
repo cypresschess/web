@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"Many players use ChessBase, it is the most popular chess software by far, writes GM Iniyan Pa. \"Yet, not many people are fully aware of all of its features, and fail to utilise most of them. In this guide I have tried to show the features that I think are vital and important so that the user may gain the most out of the ChessBase. I hope it helps them in their development.\" We are deeply indebted to Iniyan for his remarkable five-part training review.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-a-players-guide-5",
+         "pubDate" : "Thu, 05 Feb 2026 12:00:00",
+         "title" : "ChessBase&acute;26: A Players Guide (5)"
+      },
+      {
+         "description" : "The chess world has undergone a significant transformation in recent years. From a game on the fringes of public interest, it has become part of the media mainstream. This year will see several major events and developments that promise to have a profound impact on the future of chess. Milan Dini&#263, editor of The British Chess Magazine, has described the main driving factors and what we can expect in 2026.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-chess-world-in-2026",
+         "pubDate" : "Thu, 05 Feb 2026 11:00:00",
+         "title" : "The Chess World in 2026"
+      },
+      {
          "description" : "All India Chess Federation is pleased to announced 2 FIDE Arbiter Seminars as per the appended schedule below: Sl No Venue` Date 1 Royal Connaught",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -808,14 +824,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-statement-on-ioc-policy-and-fide-general-assembly-outcome/",
          "pubDate" : "Fri, 16 Jan 2026 07:43:35",
          "title" : "ECU Statement on IOC policy and FIDE General Assembly Outcome"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126543450.cms\" />With the Candidates Tournament approaching, seasoned chess titans Hikaru Nakamura, Fabiano Caruana, and Anish Giri face what could be their final realistic shot at the world chess title. Despite their experience, younger players' vigour and complete skillsets pose a significant challenge, making this a pivotal moment for the established stars.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/last-chance-for-giri-caruana-and-nakamura-can-chess-titans-in-their-30s-match-gukeshs-vigour-at-candidates/articleshow/126543450.cms",
-         "pubDate" : "Thu, 15 Jan 2026 10:08:50",
-         "title" : "'Last chance for Giri, Caruana, Nakamura': Can chess titans match Gukesh's vigour?"
       }
    ]
 }
