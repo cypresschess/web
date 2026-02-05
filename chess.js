@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Paula Wolf-Kalmar only came to chess at the age of 30, but then went on to compete in three Women's World Championships. However, she died young from diabetes. Much about the biography of the Austrian chess pioneer remains unclear. With his detective-like flair, Alan McGowan has brought order to the available data and uncovered new sources.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/paula-wolf-kalmar-an-austrian-enigma",
+         "pubDate" : "Thu, 05 Feb 2026 20:15:58",
+         "title" : "Paula Wolf-Kalmar - An Austrian Enigma"
+      },
+      {
          "description" : "The final weekend of the Speed Chess Championship moves from the online arena to a live stage in London, where the semifinals and title match will be played in front of spectators. After earlier knockout rounds held online, four players remain: Magnus Carlsen, Denis Lazavik, Hikaru Nakamura and Alireza Firouzja. The event combines rapid, blitz and bullet segments, with a consolation match and detailed tiebreak procedures ensuring a clear overall winner across two days of play. | Photo: Maria Emelianova / chess.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,12 +50,20 @@ news_feed (
          "title" : "Flexible, unpredictable: Nico Zwirs explores the funky L&ouml;wenthal Variation"
       },
       {
-         "description" : "FIDE traces the history of the Candidates Tournament, the event that determines who earns the right to challenge for the world chess title. Established in 1950 to replace earlier informal arrangements, the Candidates has evolved through different formats and eras, reflecting changes in the championship cycle. From Budapest to recent editions in major cities, the tournament has remained the decisive stage in the path to a world title match, with Cyprus set to host the next chapter. | Image: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/history-candidates-2026",
-         "pubDate" : "Wed, 04 Feb 2026 20:30:00",
-         "title" : "History of the Candidates: From Budapest (1950) to Cyprus (2026)"
+         "description" : "You reach a moment in your contest that needs a TD. A survey of the playing area reveals no chess official in sight - not in the room, not in the hall, not in the TD room, etc. You stop the clocks and go on a hunt for help. The TD has vanished. When you return to your game you notice the TD is now settling a dispute at another board. It's a \"roll your eyes moment.\"You tell the TD that you are withdrawing. You are instructed to use the withdrawal sign-up sheet. Hey, you already told the TD. You don't need to do extra paperwork too. You get paired the next round anyhow. It's a \"roll your eyes moment.\"It is time for round one to start. You pre-entered the tournament and arrived in plenty of tim",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-roll-your-eyes-moments",
+         "pubDate" : "Thu, 05 Feb 2026 00:00:00",
+         "title" : "Just the Rules: Roll Your Eyes Moments"
+      },
+      {
+         "description" : "Welcome to the February issue of Check is in the Mail.From Michael Buss, US Chess Correspondence Coordinator: \"Congratulations to our editor, Jeffrey French, who was elected President of the Correspondence Chess League of America (CCLA). Jeffrey began his 2-year term in office on January 1st.\"Thanks Michael! In this issue we continue what was started last February by providing both games and puzzles focusing on Combinations.You can reference the February 2025 issue to learn more. You can also find some options in last February's issue for studying combinations should you have an interest in doing so.Three of the games featured in this issue are from different sections of the 2025 Electronics",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/check-mail-february-2026-combine-divine",
+         "pubDate" : "Thu, 05 Feb 2026 00:00:00",
+         "title" : "Check is in the Mail, February 2026: To Combine is Divine!"
       },
       {
          "description" : "The ECU E-Magazine December &#38; January 2025/2026 is out! In this edition of the ECU E-Magazine you may read about: The ECU Magazine can be read online together with interactive links through the following link, or it can be downloaded in PDF format below.",
@@ -74,14 +90,6 @@ news_feed (
          "title" : "First Chola chess International GM Norm Round Robin Tournament in form Chennai from 02 February to 11 February 2026."
       },
       {
-         "description" : "The 2026 Israel Open Chess Championship, held in Acre from 19 to 27 January, brought together 103 players from across the country for a nine-round Swiss tournament. Nineteen-year-old GM Yahli Sokolovsky (pictured, right) emerged as the clear winner with 7&frac12;/9 and a 2694 performance rating, claiming his first national title. IM Yeshaayahu Tzidkiya and GM Evgeny Alekseev (pictured, centre and left) completed the podium after finishing half a point behind the champion. | Photo: Galina Pankratova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/israel-championship-2026-report",
-         "pubDate" : "Wed, 04 Feb 2026 02:45:00",
-         "title" : "Yahli Sokolovsky claims maiden Israeli Championship title at 19"
-      },
-      {
          "description" : "US Chess is now hiring for the Graphic Designer position. This is a Full Time, 40/hr week remote position. See below for an overview of the job description, areas of responsibility, and qualifications. A full job description is available here and on ZipRecruiter. To apply, follow the above link to ZipRecruiter. For questions, email Deputy Executive Director Jacques DeMoss at Click here to show email address. OverviewThe Communications Department Graphic Designer is responsible for producing, managing and directing all graphic and print design, social media design work, photography, and promotional assets. Creating article layouts and covers for the magazines Chess Life and Chess Life Kids wi",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -96,14 +104,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-2025-world-rapid-blitz-pt-5",
          "pubDate" : "Wed, 04 Feb 2026 00:00:00",
          "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 5"
-      },
-      {
-         "description" : "In this analytical column, GM Jon Speelman explores how winning lines can hide behind unexpected variations, even when a position appears manageable. Drawing on a missed opportunity from his own 4NCL game and a sharp encounter from Wijk aan Zee between Matthias Bluebaum and prodigy Yagiz Kaan Erdogmus (pictured), he examines overlooked tactics, defensive ingenuity and the practical difficulty of finding precise moves over the board. | Photo: Tata Steel Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-236",
-         "pubDate" : "Tue, 03 Feb 2026 19:00:00",
-         "title" : "Jon Speelman: Attack and defence - hidden ideas"
       },
       {
          "description" : "MegaBase 2026 is Chess History in action. Regularly updated every month, the Main Database currently offers 11.8 million games, many of them annotated. Here our columnist offers a review with focus on chess in the 21st Century.",
@@ -144,14 +144,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-first-chola-chess-international-gm-norm-round-robin-tournament-2026/",
          "pubDate" : "Tue, 03 Feb 2026 09:04:55",
          "title" : "Live games link for First Chola chess International GM Norm Round Robin Tournament 2026"
-      },
-      {
-         "description" : "The results of this year's Tata Steel tournament could not yet be taken into account in the FIDE rating list of 1 February. There was, however, some movement in the women's world ranking. With her results in the Chinese League, Hou Yifan has fallen below 2600 for the first time since 2013, but remains number one ahead of four other Chinese players. World Champion Gukesh is the top junior, ahead of Erdogmus. In the girls' junior ranking, 15-year-old Lu Miaoyi leads.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-february-2026",
-         "pubDate" : "Tue, 03 Feb 2026 09:00:00",
-         "title" : "FIDE ratings - February 2026"
       },
       {
          "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, including some brain-teasers in our Wednesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -474,14 +466,6 @@ news_feed (
          "title" : "Celebrate Your Chess Consistency With Chess.com's New Streaks Feature"
       },
       {
-         "description" : "Headed into the second rest day, GM Andy Woodward still holds a share of the lead at Tata Steel in the Challengers section. GM Hans Niemann scored only &frac12;/3 in the second leg of the Masters, but is still tied for third and only a point behind the leader. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Andy Woodward's 6&frac12;/8 start in Wijk aan Zee puts him in a tie for first. (All photos courtesy Tata Steel/Lennart Ootes)<br> <br> <br> <br> Play resumes Tuesday at 9 a.m. CST for Round 9, with Round 10 the following day. Then, after Thursday's final rest day, the final three rounds begin Friday and carry on through the weekend. Read our report ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/woodward-keeps-share-lead-tata-steel-challengers",
-         "pubDate" : "Mon, 26 Jan 2026 00:00:00",
-         "title" : "Woodward Keeps Share of Lead in Tata Steel Challengers"
-      },
-      {
          "description" : " The Tata Steel Masters reached its second rest day with Nodirbek Abdusattorov leading by half a point over fellow Uzbek Javokhir Sindarov. Abdusattorov had the disappointment of losing to Anish Giri, he almost pulled off a miracle save but failed at the last hurdle. Sindarov drew against Vincent Keymer, maybe Keymer had a small chance in the opening but otherwise it was a steady draw. The only other decisive game of the day was Gukesh's fine win against Vladimir Fedoseev. There was uncompromising chess from both players but in the end it was Gukesh that brought home the full point. Matthias Bluebaum spent several minutes at the board trying to come to terms with how he botched a winning pos",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -592,14 +576,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jan/23/chess-wimbledon-opens-with-an-environmental-protest-as-niemann-shares-lead",
          "pubDate" : "Fri, 23 Jan 2026 08:00:10",
          "title" : "'Chess Wimbledon' opens with an environmental protest as Niemann shares lead"
-      },
-      {
-         "description" : "This weekend, over half the country can expect ice or heavy snow. Given this, tournament directors and event organizers are encouraged to review US Chess's Inclement Weather and Evacuation Policy (Section 12: Event Cancellations and Modifications), which is included for clarity below. US Chess recognizes that circumstances may arise beyond the control of tournament directors or event organizers that pose a risk to health, safety, or reasonable access to a scheduled event. Accordingly, tournament directors and event organizers are granted discretion to cancel, postpone, delay, suspend, or modify a US Chess-sanctioned event when conditions warrant such action. If you are canceling, delaying, o",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-inclement-weather-policy",
-         "pubDate" : "Fri, 23 Jan 2026 00:00:00",
-         "title" : "US Chess Inclement Weather Policy"
       },
       {
          "description" : "<ul><li> Report cites cardiac arrhythmia tied to sarcoidosis </li><li> Drug use contributory but not fatal, examiner says </li></ul> American chess grandmaster Daniel Naroditsky died last year after suffering a sudden heart rhythm disturbance, with an underlying heart condition identified as the primary cause, according to a report released by North Carolina medical authorities. The 29-year-old was <a href=\"https://www.theguardian.com/sport/2025/oct/20/daniel-naroditsky-dies-chess-grandmaster\">found dead at his townhome in Charlotte</a> in October 2025. At the time, police said his death was being investigated as a possible overdose or suicide, and no cause had been made public. <a href=\"htt",
