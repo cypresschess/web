@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The L&ouml;wenthal Variation of the Sicilian Defence is often treated with caution in theoretical discussions. Yet detailed investigation by Nico Zwirs suggests the line holds more practical value than its reputation implies. By combining enterprising attacking setups with more measured, positionally sound alternatives, the repertoire aims to offer Black flexible, workable positions while steering play away from the heavily analysed Sicilian main lines.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nico-zwirs-lowenthal-preview",
+         "pubDate" : "Thu, 05 Feb 2026 02:00:00",
+         "title" : "Flexible, unpredictable: Nico Zwirs explores the funky L&ouml;wenthal Variation"
+      },
+      {
          "description" : "FIDE traces the history of the Candidates Tournament, the event that determines who earns the right to challenge for the world chess title. Established in 1950 to replace earlier informal arrangements, the Candidates has evolved through different formats and eras, reflecting changes in the championship cycle. From Budapest to recent editions in major cities, the tournament has remained the decisive stage in the path to a world title match, with Cyprus set to host the next chapter. | Image: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
