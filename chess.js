@@ -106,14 +106,6 @@ news_feed (
          "title" : "FIDE ratings - February 2026"
       },
       {
-         "description" : "The Muscat Nights International Chess Championship brought together a strong international field in Oman's capital for nine rounds of classical play alongside a mid-event blitz tournament. In Open A, a six-way tie for first place left the title to be decided on tiebreaks, with Leon Luke Mendonca finishing ahead of fellow co-leaders after an unbeaten run. The event combined competitive depth at the top with a broad festival structure across rating sections. | Photo: Oman Chess Committee",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/muscat-nights-open-2026-report",
-         "pubDate" : "Tue, 03 Feb 2026 00:05:00",
-         "title" : "Mendonca prevails after six-way tie at Muscat Nights Open in Oman"
-      },
-      {
          "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, including some brain-teasers in our Wednesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
