@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All India Chess Federation is pleased to announced 2 FIDE Arbiter Seminars as per the appended schedule below: Sl No Venue` Date 1 Royal Connaught",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-arbiter-seminar-2026fide-arbiter-seminar-in-pune-28-feb-02-march-2026-thoothukudi-07-09-march-2026/",
+         "pubDate" : "Thu, 05 Feb 2026 07:30:53",
+         "title" : "Fide Arbiter Seminar in Pune 28 Feb -02 March 2026 & Thoothukudi 07-09 March 2026"
+      },
+      {
          "description" : "The L&ouml;wenthal Variation of the Sicilian Defence is often treated with caution in theoretical discussions. Yet detailed investigation by Nico Zwirs suggests the line holds more practical value than its reputation implies. By combining enterprising attacking setups with more measured, positionally sound alternatives, the repertoire aims to offer Black flexible, workable positions while steering play away from the heavily analysed Sicilian main lines.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -802,28 +810,12 @@ news_feed (
          "title" : "ECU Statement on IOC policy and FIDE General Assembly Outcome"
       },
       {
-         "description" : "The FIDE Global Conference on Chess in Society and Education began on 14 January 2026 at KIIT University, Bhubaneswar. The three-day event convenes education leaders,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-global-conference-on-chess-in-society-and-education-opens-in-kiit-university-bhubaneshwar-from-14-16-january-2026/",
-         "pubDate" : "Thu, 15 Jan 2026 12:15:21",
-         "title" : "FIDE Global Conference on Chess in Society and Education opens in KIIT University ,Bhubaneshwar from 14-16 January 2026"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126543450.cms\" />With the Candidates Tournament approaching, seasoned chess titans Hikaru Nakamura, Fabiano Caruana, and Anish Giri face what could be their final realistic shot at the world chess title. Despite their experience, younger players' vigour and complete skillsets pose a significant challenge, making this a pivotal moment for the established stars.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/last-chance-for-giri-caruana-and-nakamura-can-chess-titans-in-their-30s-match-gukeshs-vigour-at-candidates/articleshow/126543450.cms",
          "pubDate" : "Thu, 15 Jan 2026 10:08:50",
          "title" : "'Last chance for Giri, Caruana, Nakamura': Can chess titans match Gukesh's vigour?"
-      },
-      {
-         "description" : "By decision of the ECU Board and with approval from the FIDE Council, the ECU General Assembly 2026 and elections will take place on Saturday, 18 July 2026, in Bucharest, Romania. The elections are scheduled in accordance with the ECU statutes and the completion of the current term of the ECU Board on 22 July 2026. The ECU General Assembly will be hosted, unless there is an emergency NOC meeting, at the premises of the Romanian Olympic Committee, emphasising the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-general-assembly-2026/",
-         "pubDate" : "Thu, 15 Jan 2026 07:15:06",
-         "title" : "ECU GENERAL ASSEMBLY 2026"
       }
    ]
 }
