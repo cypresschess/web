@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final weekend of the Speed Chess Championship moves from the online arena to a live stage in London, where the semifinals and title match will be played in front of spectators. After earlier knockout rounds held online, four players remain: Magnus Carlsen, Denis Lazavik, Hikaru Nakamura and Alireza Firouzja. The event combines rapid, blitz and bullet segments, with a consolation match and detailed tiebreak procedures ensuring a clear overall winner across two days of play. | Photo: Maria Emelianova / chess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-ch-2025-26-preview",
+         "pubDate" : "Thu, 05 Feb 2026 16:00:00",
+         "title" : "This weekend: Carlsen, Nakamura, Firouzja and Lazavik meet in London for the SCC Finals"
+      },
+      {
          "description" : "\"Many players use ChessBase, it is the most popular chess software by far, writes GM Iniyan Pa. \"Yet, not many people are fully aware of all of its features, and fail to utilise most of them. In this guide I have tried to show the features that I think are vital and important so that the user may gain the most out of the ChessBase. I hope it helps them in their development.\" We are deeply indebted to Iniyan for his remarkable five-part training review.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/israel-championship-2026-report",
          "pubDate" : "Wed, 04 Feb 2026 02:45:00",
          "title" : "Yahli Sokolovsky claims maiden Israeli Championship title at 19"
+      },
+      {
+         "description" : "US Chess is now hiring for the Graphic Designer position. This is a Full Time, 40/hr week remote position. See below for an overview of the job description, areas of responsibility, and qualifications. A full job description is available here and on ZipRecruiter. To apply, follow the above link to ZipRecruiter. For questions, email Deputy Executive Director Jacques DeMoss at Click here to show email address. OverviewThe Communications Department Graphic Designer is responsible for producing, managing and directing all graphic and print design, social media design work, photography, and promotional assets. Creating article layouts and covers for the magazines Chess Life and Chess Life Kids wi",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-hiring-graphic-designer",
+         "pubDate" : "Wed, 04 Feb 2026 00:00:00",
+         "title" : "US Chess is Hiring Graphic Designer"
       },
       {
          "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out our Tactics Tuesday series with more beginner-friendly puzzles here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -584,14 +600,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-chess-inclement-weather-policy",
          "pubDate" : "Fri, 23 Jan 2026 00:00:00",
          "title" : "US Chess Inclement Weather Policy"
-      },
-      {
-         "description" : "Editor's note: this story first appeared in the January 2026 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.Nearly 40 years later, a reworked Chess returns to Broadway. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The Arbiter (Bryan Pinkham) takes on new prominence in this production with a new book by Danny Strong. (All photos courtesy Chess/Polk and Co.)<br> <br> <br> <br> Danny Strong felt like something wasn't adding up.In 2015, he was wa",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/inside-story-story-and-sacrifice",
-         "pubDate" : "Fri, 23 Jan 2026 00:00:00",
-         "title" : "Inside Story: Story and Sacrifice"
       },
       {
          "description" : "<ul><li> Report cites cardiac arrhythmia tied to sarcoidosis </li><li> Drug use contributory but not fatal, examiner says </li></ul> American chess grandmaster Daniel Naroditsky died last year after suffering a sudden heart rhythm disturbance, with an underlying heart condition identified as the primary cause, according to a report released by North Carolina medical authorities. The 29-year-old was <a href=\"https://www.theguardian.com/sport/2025/oct/20/daniel-naroditsky-dies-chess-grandmaster\">found dead at his townhome in Charlotte</a> in October 2025. At the time, police said his death was being investigated as a possible overdose or suicide, and no cause had been made public. <a href=\"htt",
