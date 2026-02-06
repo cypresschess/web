@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A regular fixture in the German \"Schachkalender\", edited by Wolf B&ouml;ese and Stefan L&ouml;ffler, is the biographical puzzle. The task is to identify a player who is celebrating a milestone birthday this year.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/who-am-i",
+         "pubDate" : "Fri, 06 Feb 2026 08:45:21",
+         "title" : "Who am I?"
+      },
+      {
+         "description" : "&#160;&#160; India's International Master Vaz Ethen of Chola Chess is sharing the lead with Grandmaster Suleymenov Alisher (Kazkhastan) with 2.5 points&#160; at the end of",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/round-3-1st-chola-chess-international-grandmaster-norm-round-robin-tournament-2026-chennai/",
+         "pubDate" : "Fri, 06 Feb 2026 08:11:06",
+         "title" : "Round 3 : 1st Chola Chess International Grandmaster Norm Round Robin Tournament 2026, Chennai."
+      },
+      {
+         "description" : "Day two of the 1st Chola Chess Grandmasters Closed Circuit Chess Tournament, Chennai now in progress in Chola Chess, T.Nagar, Chennai was a result oriented",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/day-21st-chola-chess-international-grandmaster-norm-closed-circuit-chess-tournament-chennai/",
+         "pubDate" : "Fri, 06 Feb 2026 08:01:56",
+         "title" : "Day 2:1st Chola Chess International Grandmaster Norm Closed Circuit Chess Tournament, Chennai"
+      },
+      {
+         "description" : " The duo from Tashkent took first and second prizes at the traditional Netherlands New Year tournament, while the favourites from India ended up near the bottom Nodirbek Abdusattorov added to his growing reputation as one of the world's top players last weekend when the Uzbek grandmaster, 21, triumphed in the \"chess Wimbledon\" at Tata Steel Wijk aan Zee, with his compatriot Javokhir Sindarov a close second. On his previous three attempts Abdusattorov, who has now surged to No 5 in the live ratings, had missed out in the final decisive rounds. This time he led early, had a wobble with three draws and a loss, but was strong in the final two rounds. \"It was a long way for me,\" he said. \"I was v",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/feb/06/abdusattorov-triumphs-at-wijk-aan-zee-as-uzbek-pair-sweep-chess-wimbledon",
+         "pubDate" : "Fri, 06 Feb 2026 08:00:03",
+         "title" : "Abdusattorov triumphs at Wijk aan Zee as Uzbek pair sweep 'chess Wimbledon'"
+      },
+      {
          "description" : "Baadur Jobava and Nino Batsiashvili claimed their fifth national titles at the 2026 Georgian Chess Championships, held in Tbilisi from late January to early February. Jobava led the open tournament from the early rounds and finished unbeaten, while Batsiashvili dominated the women's event with a decisive mid-tournament winning streak. | Photos: Georgian Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -754,22 +786,6 @@ news_feed (
          "title" : "Royal game"
       },
       {
-         "description" : "On behalf of the All India Chess Federation, the Arbiters' Commission of AICF, and the Madhya Pradesh Chess Ad-hoc Committee, the Bhopal District Chess Association",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-sna-seminar-exam-in-bhopal-on-10-11-january-2026/",
-         "pubDate" : "Sat, 17 Jan 2026 10:36:26",
-         "title" : "Final report of SNA seminar & Exam in Bhopal on 10 & 11 January 2026"
-      },
-      {
-         "description" : "Please find the link Link : https://www.chess.com/events/odisha-open-16th-grandmasters-chess-festival-2025-26-category-a/games",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link-of-odisha-open-the-16th-international-grandmasters-chess-festival-2025-26/",
-         "pubDate" : "Sat, 17 Jan 2026 10:14:11",
-         "title" : "Live link of ODISHA OPEN (THE 16TH INTERNATIONAL GRANDMASTERS CHESS FESTIVAL 2025-26"
-      },
-      {
          "description" : " Expanded 30,000-Square-Foot Home Base Anchors a Global Slate of Events from the Chess Capital of the USA SAINT LOUIS, MO (Jan. 16, 2026) - The Saint Louis Chess Club announced today its highly anticipated 2026 tournament schedule, reinforcing its leadership role as the Chess Capital of the United States while continuing to expand its global [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-announces-highly-anticipated-2026-invitational-tournament-schedule/\">Saint Louis Chess Club Announces Highly Anticipated 2026 Invitational Tournament Schedule</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -784,22 +800,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-gets-its-92nd-gm-no-coach-single-fathers-grind-and-a-dream-to-beat-gukesh-the-making-of-aaryan-varshney/articleshow/126563130.cms",
          "pubDate" : "Fri, 16 Jan 2026 12:25:55",
          "title" : "India gets its 92nd GM: No coach, single father's grind, and ream vs Gukesh"
-      },
-      {
-         "description" : " India's Gukesh Dommaraju takes on Candidates qualifiers and stars who missed out, plus a talent for the 2030s The annual \"chess Wimbledon\" at Tata Steel Wijk aan Zee in the Netherlands is unusually interesting this year. Its 14-player field matches the reigning world champion, India's Dommaraju Gukesh, against a range of rivals who include four of the eight Candidates who will meet in March to decide his 2026 challenger, another three grandmasters from the world top 10, the controversial US star Hans Niemann, plus a 14-year-old Turk who is breaking age records. Gukesh's unimpressive recent results mean the world Nos 5 and 8, Arjun Erigaisi and Praggnanandhaa Rameshbabu, will aim to finish a",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/jan/16/chess-wimbledon-starts-with-world-champion-challenged-by-rising-stars",
-         "pubDate" : "Fri, 16 Jan 2026 08:00:03",
-         "title" : "'Chess Wimbledon' starts with world champion challenged by rising stars"
-      },
-      {
-         "description" : "&#8220;The ECU Board regrets both the conduct and the outcomes of the FIDE General Assembly held online on 14 December. We believe there were abuses of process, particularly regarding the conduct of the vote on the admission of Russian teams by secret ballot. The ECU notes: A debate or vote on the motion proposed by the English Chess Federation, a member of ECU, to follow IOC recommendations as exactly have been updated, was not permitted. The other two motions voted []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-statement-on-ioc-policy-and-fide-general-assembly-outcome/",
-         "pubDate" : "Fri, 16 Jan 2026 07:43:35",
-         "title" : "ECU Statement on IOC policy and FIDE General Assembly Outcome"
       }
    ]
 }
