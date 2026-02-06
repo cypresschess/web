@@ -26,6 +26,22 @@ news_feed (
          "title" : "Can you solve these studies?"
       },
       {
+         "description" : "GM Vincent Keymer rode his 10th-round victory over GM Magnus Carlsen in Freestyle Friday to a win in the tournament on February 6. Both players scored nine points but Keymer&#39;s tiebreaks put him in the lead. Keymer previously won on May 2, 2025, an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/keymer-wins-freestyle-friday-february-6-2026",
+         "pubDate" : "Fri, 06 Feb 2026 11:57:49",
+         "title" : "Keymer Conquers Carlsen, Wins Freestyle Friday On Tiebreaks"
+      },
+      {
+         "description" : "It was a day for &#34;M&#34; names in 3 0 Thursday on February 5, as GMs Parham Maghsoodloo, Haik Martirosyan, and Jose Martinez took the top spots. It was Martinez&#39;s fifth victory in the tournament, Maghsoodloo&#39;s second, and Martirosyan&#39;s first. The wome...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/maghsoodloo-martirsoyan-martinez-3-0-thursday-2-5-2026",
+         "pubDate" : "Fri, 06 Feb 2026 11:25:10",
+         "title" : "Maghsoodloo, Martirosyan, Martinez, Masters of 3 0 Thursday"
+      },
+      {
          "description" : "Tenders are now invited for the bookstall, coaching and/or commentary at the British Chess Championships 2026 in Coventry click here",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -72,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/georgian-chess-ch-2026-report",
          "pubDate" : "Fri, 06 Feb 2026 04:30:00",
          "title" : "Fifth titles for Jobava and Batsiashvili at Georgian Championships"
+      },
+      {
+         "description" : "Manhattan's Marshall Chess Club is one of the country's most storied chess clubs. Entering the building, you're surrounded by history both recent and distant: plaques of past club champions, a library replete with old and first edition books, photos of guest grandmasters in the building, and even the table GM Magnus Carlsen defeated GM Sergey Karjakin on during the 2016 World Championship match held in New York.But if you've played at the Marshall in recent years, \"history\" might not be the first thing that comes to mind. Instead, chances are you were paired against a child or junior player in at least one of your games, regardless of whether you were playing in a Rated Beginner Open (RBO) o",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/adewumi-singh-triumphant-marshall-junior-championship-returns",
+         "pubDate" : "Fri, 06 Feb 2026 00:00:00",
+         "title" : "Adewumi, Singh Triumphant as Marshall Junior Championship Returns"
       },
       {
          "description" : "Paula Wolf-Kalmar only came to chess at the age of 30, but then went on to compete in three Women's World Championships. However, she died young from diabetes. Much about the biography of the Austrian chess pioneer remains unclear. With his detective-like flair, Alan McGowan has brought order to the available data and uncovered new sources.",
@@ -490,14 +514,6 @@ news_feed (
          "title" : "Abdusattorov draws against Sindarov in Tata Steel Masters Round 9 to keep a half point lead - 9"
       },
       {
-         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out our Tactics Tuesday series with more beginner-friendly puzzles here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2025-world-rapid-blitz-pt-4",
-         "pubDate" : "Wed, 28 Jan 2026 00:00:00",
-         "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 4"
-      },
-      {
          "description" : "&#34;I thought I&#39;d never win a chess game again,&#34; said GM Matthias Bluebaum after beating World Champion Gukesh Dommaraju with Black in round nine of the 2026 Tata Steel Chess Masters. GM Jorden van Foreest demolished GM Vincent Keymer in just 26 move...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -586,28 +602,12 @@ news_feed (
          "title" : "21-year-old Aaryan Varshney from Delhi has become India's 92nd Chess Grandmaster"
       },
       {
-         "description" : "GM&#38;nbsp;Nodirbek Abdusattorov took advantage of a heartbreaking blunder in an equal position by World Champion Gukesh Dommaraju to take the sole lead in the 2026 Tata Steel Chess Masters on 4.5/6. GM Javokhir Sindarov is now half a point behind in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-6",
-         "pubDate" : "Fri, 23 Jan 2026 23:11:00",
-         "title" : "Abdusattorov Pounces On Gukesh's Blunder To Grab Sole Lead"
-      },
-      {
          "description" : " Nodirbek Abdusattorov took the lead of the Tata Steel Masters alone after defeating Gukesh following a terrible one move blunder from the Indian, meanwhile joint leader Hans Moke Niemann lost against Vincent Keymer. In the only other decisive game Yagiz Kaan Erdogmus beat Jorden Van Foreest in a game settled near first time control, both players missed big ideas in spite of not being in serious time trouble. The other games were drawn. Matthias Bluebaum was pretty upset with himself that he didn't convert winning chances against Arjun Erigaisi. Aravindh Chithambaram was dead lost against Javokhir Sindarov who blew the win with his final move before time control with only a few seconds left.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-leads-the-tata-steel-masters-4.56-after-a-horrendous-blunder-by-gukesh",
          "pubDate" : "Fri, 23 Jan 2026 23:08:00",
          "title" : "Abdusattorov leads the Tata Steel Masters 4.5/6 after a horrendous blunder by Gukesh - 6"
-      },
-      {
-         "description" : "The tournament leaders going into the final round of all three 3 0 Thursday tournaments on January 22 all lost their games and their leads. The chaotic day ended with GM Alexey Sarana winning a tournament for the third straight week, GM Hikaru Nak...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sarana-nakamura-terry-3-0-thursday-1-22-2026",
-         "pubDate" : "Fri, 23 Jan 2026 13:19:49",
-         "title" : "Last Round Swings Leave Sarana, Nakamura, Terry as 3 0 Thursday Winners"
       },
       {
          "description" : "In three sessions at the British Chess Championships An opportunity to qualify as an ECF Level 1 Arbiter, which may entitle you to work as an arbiter at FIDE-rated chess...",
@@ -808,14 +808,6 @@ news_feed (
          "link" : "https://www.thearticle.com/royal-game-2/",
          "pubDate" : "Sat, 17 Jan 2026 13:03:52",
          "title" : "Royal game"
-      },
-      {
-         "description" : " Expanded 30,000-Square-Foot Home Base Anchors a Global Slate of Events from the Chess Capital of the USA SAINT LOUIS, MO (Jan. 16, 2026) - The Saint Louis Chess Club announced today its highly anticipated 2026 tournament schedule, reinforcing its leadership role as the Chess Capital of the United States while continuing to expand its global [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-announces-highly-anticipated-2026-invitational-tournament-schedule/\">Saint Louis Chess Club Announces Highly Anticipated 2026 Invitational Tournament Schedule</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-announces-highly-anticipated-2026-invitational-tournament-schedule/",
-         "pubDate" : "Fri, 16 Jan 2026 17:16:15",
-         "title" : "Saint Louis Chess Club Announces Highly Anticipated 2026 Invitational Tournament Schedule"
       }
    ]
 }
