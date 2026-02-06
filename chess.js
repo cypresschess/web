@@ -10,14 +10,6 @@ news_feed (
          "title" : "Paula Wolf-Kalmar - An Austrian Enigma"
       },
       {
-         "description" : "The final weekend of the Speed Chess Championship moves from the online arena to a live stage in London, where the semifinals and title match will be played in front of spectators. After earlier knockout rounds held online, four players remain: Magnus Carlsen, Denis Lazavik, Hikaru Nakamura and Alireza Firouzja. The event combines rapid, blitz and bullet segments, with a consolation match and detailed tiebreak procedures ensuring a clear overall winner across two days of play. | Photo: Maria Emelianova / chess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-ch-2025-26-preview",
-         "pubDate" : "Thu, 05 Feb 2026 16:00:00",
-         "title" : "This weekend: Carlsen, Nakamura, Firouzja and Lazavik meet in London for the SCC Finals"
-      },
-      {
          "description" : "\"Many players use ChessBase, it is the most popular chess software by far, writes GM Iniyan Pa. \"Yet, not many people are fully aware of all of its features, and fail to utilise most of them. In this guide I have tried to show the features that I think are vital and important so that the user may gain the most out of the ChessBase. I hope it helps them in their development.\" We are deeply indebted to Iniyan for his remarkable five-part training review.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,14 +34,6 @@ news_feed (
          "title" : "Fide Arbiter Seminar in Pune 28 Feb -02 March 2026 & Thoothukudi 07-09 March 2026"
       },
       {
-         "description" : "The L&ouml;wenthal Variation of the Sicilian Defence is often treated with caution in theoretical discussions. Yet detailed investigation by Nico Zwirs suggests the line holds more practical value than its reputation implies. By combining enterprising attacking setups with more measured, positionally sound alternatives, the repertoire aims to offer Black flexible, workable positions while steering play away from the heavily analysed Sicilian main lines.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nico-zwirs-lowenthal-preview",
-         "pubDate" : "Thu, 05 Feb 2026 02:00:00",
-         "title" : "Flexible, unpredictable: Nico Zwirs explores the funky L&ouml;wenthal Variation"
-      },
-      {
          "description" : "You reach a moment in your contest that needs a TD. A survey of the playing area reveals no chess official in sight - not in the room, not in the hall, not in the TD room, etc. You stop the clocks and go on a hunt for help. The TD has vanished. When you return to your game you notice the TD is now settling a dispute at another board. It's a \"roll your eyes moment.\"You tell the TD that you are withdrawing. You are instructed to use the withdrawal sign-up sheet. Hey, you already told the TD. You don't need to do extra paperwork too. You get paired the next round anyhow. It's a \"roll your eyes moment.\"It is time for round one to start. You pre-entered the tournament and arrived in plenty of tim",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -64,6 +48,14 @@ news_feed (
          "link" : "https://new.uschess.org/news/check-mail-february-2026-combine-divine",
          "pubDate" : "Thu, 05 Feb 2026 00:00:00",
          "title" : "Check is in the Mail, February 2026: To Combine is Divine!"
+      },
+      {
+         "description" : "The Confederation of Chess for Americas (CCA) and the Salvadoran Chess Federation (FSA) have announced the XV Pan-American U7-U17 Chess Championship will be held from May 11 to May 18 at Hotel Royal Decameron Salinitas, located in Playa Salinitas, Sonsonate, El Salvador. This tournament is not the Pan-Am Youth. This is the Pan-Am U7-U17, which replaces the old \"Pan-Am Schools\" from previous years. TOURNAMENT DETAILSThere will be 12 sections in the tournament, Open and Girls for each age category: Under 17, Under 15, Under 13, Under 11, Under 9 and Under 7. A player's age as of January 1, 2026 determines their age eligibility for a section.Players entitled to participate in each category are:",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/registration-open-xv-pan-am-u7-u17-chess-championship-2026",
+         "pubDate" : "Thu, 05 Feb 2026 00:00:00",
+         "title" : "Registration Open for XV Pan-Am U7-U17 Chess Championship 2026"
       },
       {
          "description" : "The ECU E-Magazine December &#38; January 2025/2026 is out! In this edition of the ECU E-Magazine you may read about: The ECU Magazine can be read online together with interactive links through the following link, or it can be downloaded in PDF format below.",
@@ -448,14 +440,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/keymer-gukesh-2026-prague-masters-challengers-lineups",
          "pubDate" : "Tue, 27 Jan 2026 02:39:00",
          "title" : "Keymer, Gukesh Top Field For 2026 Prague Masters"
-      },
-      {
-         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, including some brain-teasers in our Wednesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-world-rapid-blitz-pt-4",
-         "pubDate" : "Tue, 27 Jan 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2025 World Rapid & Blitz, Pt. 4"
       },
       {
          "description" : "It&#39;s time to celebrate your chess consistency with Chess.com&#39;s new Streaks feature! Whether you&#39;re looking to build good habits to improve your game or show off just how passionate you are about chess, you can now do it by starting and maintaining...",
