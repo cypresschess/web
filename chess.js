@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Sunday you have the opportunity to see a legendary chess mind: Alexander Beliavsky, a four-time USSR Champion, three-time Olympiad Champion, who has defeated no fewer than nine World Champions. In a live training session at the Kasparov Chess Foundation Academy \"Big Al\", as he is known for his bold, uncompromising style, offers a rare chance to understand how grandmasters think when the stakes are highest. Keep February 8, 18:00 CET to listen to him.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-to-win-against-a-gm-in-20-moves",
+         "pubDate" : "Fri, 06 Feb 2026 17:00:00",
+         "title" : "How to win against a GM in 20 moves"
+      },
+      {
+         "description" : "The President of the Georgian Chess Federation and FIDE official Akaki Iashvili visited the ChessBase office in Hamburg to familiarise himself with the company's training and educational programs. He was particularly impressed by the children's chess learning program Fritz & Chesster. ChessBase CEO Rainer Woisin (pictured, on the right) and Akaki Iashvili (pictured, on the left) agreed on a cooperation in the field of scholastic chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-and-the-georgian-chess-federation-agree-on-a-cooperation",
+         "pubDate" : "Fri, 06 Feb 2026 14:00:00",
+         "title" : "ChessBase and the Georgian Chess Federation agree on a cooperation"
+      },
+      {
          "description" : "Take as look at this position. Is there any way you can stop the two black pawns that are ready to promote? And actually win this game? There are three challenging positions to solve on our live diagrams. And in a few days we will provide full explanations and strategies - in video clips. It is a learning experience.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
