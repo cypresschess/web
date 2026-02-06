@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Take as look at this position. Is there any way you can stop the two black pawns that are ready to promote? And actually win this game? There are three challenging positions to solve on our live diagrams. And in a few days we will provide full explanations and strategies - in video clips. It is a learning experience.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/can-you-solve-these-studies",
+         "pubDate" : "Fri, 06 Feb 2026 12:00:00",
+         "title" : "Can you solve these studies?"
+      },
+      {
+         "description" : "Tenders are now invited for the bookstall, coaching and/or commentary at the British Chess Championships 2026 in Coventry click here",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/bcc-2026-tenders-invited/",
+         "pubDate" : "Fri, 06 Feb 2026 10:04:06",
+         "title" : "BCC 2026 tenders invited"
+      },
+      {
          "description" : "A regular fixture in the German \"Schachkalender\", edited by Wolf B&ouml;ese and Stefan L&ouml;ffler, is the biographical puzzle. The task is to identify a player who is celebrating a milestone birthday this year.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +42,7 @@ news_feed (
          "title" : "Day 2:1st Chola Chess International Grandmaster Norm Closed Circuit Chess Tournament, Chennai"
       },
       {
-         "description" : " The duo from Tashkent took first and second prizes at the traditional Netherlands New Year tournament, while the favourites from India ended up near the bottom Nodirbek Abdusattorov added to his growing reputation as one of the world's top players last weekend when the Uzbek grandmaster, 21, triumphed in the \"chess Wimbledon\" at Tata Steel Wijk aan Zee, with his compatriot Javokhir Sindarov a close second. On his previous three attempts Abdusattorov, who has now surged to No 5 in the live ratings, had missed out in the final decisive rounds. This time he led early, had a wobble with three draws and a loss, but was strong in the final two rounds. \"It was a long way for me,\" he said. \"I was v",
+         "description" : " The duo from Tashkent took first and second prizes at the traditional Netherlands new year tournament, while the favourites from India ended up near the bottom Nodirbek Abdusattorov added to his growing reputation as one of the world's top players last weekend when the Uzbek grandmaster, 21, triumphed in the \"chess Wimbledon\" at Tata Steel Wijk aan Zee, with his compatriot Javokhir Sindarov a close second. On his previous three attempts Abdusattorov, who has now surged to No 5 in the live ratings, had missed out in the final decisive rounds. This time he led early, had a wobble with three draws and a loss, but was strong in the final two rounds. \"It was a long way for me,\" he said. \"I was v",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/feb/06/abdusattorov-triumphs-at-wijk-aan-zee-as-uzbek-pair-sweep-chess-wimbledon",
@@ -578,14 +594,6 @@ news_feed (
          "title" : "Last Round Swings Leave Sarana, Nakamura, Terry as 3 0 Thursday Winners"
       },
       {
-         "description" : "GM Pranav Venkatesh is now a Freestyle Friday victor, taking his first tournament on January 23 with a 9.5/11 score. Coming in second place was GM Martin Kravtsiv, followed by GM Nodirbek Yakkuboev in third and GM Shamsiddin Vokhidov in fourth, wh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pranav-wins-freestyle-friday-january-23-2026",
-         "pubDate" : "Fri, 23 Jan 2026 11:07:51",
-         "title" : "New Name Tops Freestyle Friday Standings"
-      },
-      {
          "description" : "In three sessions at the British Chess Championships An opportunity to qualify as an ECF Level 1 Arbiter, which may entitle you to work as an arbiter at FIDE-rated chess...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-announces-highly-anticipated-2026-invitational-tournament-schedule/",
          "pubDate" : "Fri, 16 Jan 2026 17:16:15",
          "title" : "Saint Louis Chess Club Announces Highly Anticipated 2026 Invitational Tournament Schedule"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126563130.cms\" />Aaryan Varshney became India's 92nd chess Grandmaster at 21, guided entirely by his father Gaurav, a single parent since Aaryan was five. With no coach, academies, or foreign training, Gaurav trained him at home using game analysis and ChessBase. Overcoming pandemic hurdles, Aaryan rose rapidly and now dreams of becoming a World Champion.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-gets-its-92nd-gm-no-coach-single-fathers-grind-and-a-dream-to-beat-gukesh-the-making-of-aaryan-varshney/articleshow/126563130.cms",
-         "pubDate" : "Fri, 16 Jan 2026 12:25:55",
-         "title" : "India gets its 92nd GM: No coach, single father's grind, and ream vs Gukesh"
       }
    ]
 }
