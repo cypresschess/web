@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Baadur Jobava and Nino Batsiashvili claimed their fifth national titles at the 2026 Georgian Chess Championships, held in Tbilisi from late January to early February. Jobava led the open tournament from the early rounds and finished unbeaten, while Batsiashvili dominated the women's event with a decisive mid-tournament winning streak. | Photos: Georgian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/georgian-chess-ch-2026-report",
+         "pubDate" : "Fri, 06 Feb 2026 04:30:00",
+         "title" : "Fifth titles for Jobava and Batsiashvili at Georgian Championships"
+      },
+      {
          "description" : "Paula Wolf-Kalmar only came to chess at the age of 30, but then went on to compete in three Women's World Championships. However, she died young from diabetes. Much about the biography of the Austrian chess pioneer remains unclear. With his detective-like flair, Alan McGowan has brought order to the available data and uncovered new sources.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
