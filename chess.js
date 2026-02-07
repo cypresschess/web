@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "I'm proud of my mental game. It helps me learn quicker and perform under pressure. But last weekend, playing Padel, I realized once again my biggest leak. The Trigger It was a great match, very even, great rallies, a lot of fun. After two sets, we were tied (6-7, 6-3). Now there were only 25 []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/chess-mindset-triggers/",
+         "pubDate" : "Sat, 07 Feb 2026 14:00:00",
+         "title" : "What Triggers You?"
+      },
+      {
+         "description" : "The final weekend of the Speed Chess Championship moves from the online arena to a live stage in London, where the semifinals and title match are being played in front of spectators. The event combines rapid, blitz and bullet segments. | Follow the games live with expert commentary. On Saturday, Magnus Carlsen v. Lazavik starts at 14.00 CET, while Alireza Firouzja v. Hikaru Nakamura starts at 19.00 CET.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-ch-2025-26-live",
+         "pubDate" : "Sat, 07 Feb 2026 13:45:00",
+         "title" : "Speed Chess Championship Finals - Live!"
+      },
+      {
          "description" : "In this episode, Svitlana takes on one of the most aggressive setups against the Modern Defence: the Austrian Attack. She explains the key ideas behind White's early central pawn storm, typical attacking plans, and what you should be aiming for before the tactics even begin. A practical, idea-driven lesson that helps you understand when to attack, how to build it up, and what Black is trying to survive.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -824,22 +840,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/no-chess-on-a-dead-planet-massive-protest-disrupts-wijk-aan-zee-tournament-in-netherlands-watch/articleshow/126621455.cms",
          "pubDate" : "Sat, 17 Jan 2026 17:01:53",
          "title" : "'No chess on a dead planet': Protest disrupts Wijk aan Zee tourney - Watch"
-      },
-      {
-         "description" : "Last week I shared how results-oriented goals (I Failed all of My Goals in 2025 - But it was a great Year) have a motivating side, but often turn out to be toxic for me. The thing is, I can reach all my results-oriented goals, but hate the process of getting there. Or, I can []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/goal-2026/",
-         "pubDate" : "Sat, 17 Jan 2026 14:00:00",
-         "title" : "My one goal for 2026"
-      },
-      {
-         "description" : "In the years before the pandemic-years which already seem to belong to a vanished geological age-I wrote in the British Chess Magazine about the influence of two dominant figures in the intellectual life of chess, men whose importance rested as much on what they taught as on what they played. I return now to those figures, Wilhelm []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/royal-game-2/",
-         "pubDate" : "Sat, 17 Jan 2026 13:03:52",
-         "title" : "Royal game"
       }
    ]
 }
