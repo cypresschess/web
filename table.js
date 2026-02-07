@@ -1,4 +1,7 @@
 jtable([
+"SPRING","2026-02-06","26","<a href=https://ratings.uschess.org/event/202602060183 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2026-02-06","10","<a href=https://ratings.uschess.org/event/202602060153 target='_blank'>FBCC 2026 Babe Ruth Birthday Open</a>",
+"CYPRESS","2026-02-06","37","<a href=https://ratings.uschess.org/event/202602060113 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2026-02-01","11","<a href=https://ratings.uschess.org/event/202602010273 target='_blank'>Bellaire Sunday Swiss 2026.02.01</a>",
 "HOUSTON","2026-02-01","6","<a href=https://ratings.uschess.org/event/202602010193 target='_blank'>2026 Houston Circuit T1 by AzChAcad</a>",
 "SPRING","2026-01-31","228","<a href=https://ratings.uschess.org/event/202601311013 target='_blank'>KLEIN WINTER SCHOLASTIC</a>",
@@ -96,7 +99,4 @@ jtable([
 "HOUSTON","2025-11-02","21","<a href=https://ratings.uschess.org/event/202511020163 target='_blank'>$3,100 NOVEMBER CHAMPIONSHIP</a>",
 "HOUSTON","2025-11-02","8","<a href=https://ratings.uschess.org/event/202511020123 target='_blank'>Bellaire Sunday Swiss 11/02/2025</a>",
 "SUGAR LAND","2025-11-01","10","<a href=https://ratings.uschess.org/event/202511010483 target='_blank'>FBCC 2025 HALLOWEEN OPEN</a>",
-"HOUSTON","2025-11-01","12","<a href=https://ratings.uschess.org/event/202511010083 target='_blank'>chesspanda11012025saturday</a>",
-"CYPRESS","2025-10-31","12","<a href=https://ratings.uschess.org/event/202510310023 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2025-10-28","16","<a href=https://ratings.uschess.org/event/202510280173 target='_blank'>OCTOBER TUESDAY NIGHT SWISS 2025</a>",
 ]);
