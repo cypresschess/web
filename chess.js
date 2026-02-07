@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Just two years after its launch, the New Zagreb Classic has become one of Europe's largest open tournaments, attracting more than 500 players from dozens of federations. Conceived by local organisers to give young talents broader competitive opportunities, the event combines a compact weekend format with wide participation across rating levels. The 2026 edition in Zagreb featured established masters, emerging juniors and first-time competitors, reflecting the tournament's growing place on the European chess calendar. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-zagreb-classic-rise-2026",
+         "pubDate" : "Fri, 06 Feb 2026 22:50:00",
+         "title" : "From local vision to European stage: New Zagreb Classic's remarkable rise"
+      },
+      {
          "description" : "On Sunday you have the opportunity to see a legendary chess mind: Alexander Beliavsky, a four-time USSR Champion, three-time Olympiad Champion, who has defeated no fewer than nine World Champions. In a live training session at the Kasparov Chess Foundation Academy \"Big Al\", as he is known for his bold, uncompromising style, offers a rare chance to understand how grandmasters think when the stakes are highest. Keep February 8, 18:00 CET to listen to him.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/how-to-win-against-a-gm-in-20-moves",
          "pubDate" : "Fri, 06 Feb 2026 17:00:00",
          "title" : "How to win against a GM in 20 moves"
+      },
+      {
+         "description" : "The 7uice Educational Fair, held on January 31 in Boston, Massachusetts, brought leaders from seemingly unrelated fields to the 64 squares on the chessboard. The 7uice Foundation, founded by Jaylen Brown of the Boston Celtics, partners with instit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/7uice-foundation-chesscom-bridge-opportunity-gap",
+         "pubDate" : "Fri, 06 Feb 2026 15:11:32",
+         "title" : "Jaylen Brown's 7uice Foundation & Chess.com Bridge Opportunity Gap With Chess"
       },
       {
          "description" : "The President of the Georgian Chess Federation and FIDE official Akaki Iashvili visited the ChessBase office in Hamburg to familiarise himself with the company's training and educational programs. He was particularly impressed by the children's chess learning program Fritz & Chesster. ChessBase CEO Rainer Woisin (pictured, on the right) and Akaki Iashvili (pictured, on the left) agreed on a cooperation in the field of scholastic chess.",
@@ -88,6 +104,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/georgian-chess-ch-2026-report",
          "pubDate" : "Fri, 06 Feb 2026 04:30:00",
          "title" : "Fifth titles for Jobava and Batsiashvili at Georgian Championships"
+      },
+      {
+         "description" : "The 17th Continental Women's Chess Championship of the Americas 2026 will be held March 30 - April 6, 2026 at the Delfines Hotel &amp; Convention Center, San Isidro, Lima, Peru. The event, organized by the Chess Confederation of the Americas and the Peruvian Sports Chess Federation (FDPA) is open to all American continent chess federation women players.This is a nine-round event and the time control for all games is Game 90 with 30-second increment starting from move one. The champion will qualify to participate in the FIDE World Cup and the prize fund is $8000 with the top 10 finishers receiving a prize. Click here to download a PDF of the full tournament regulations.OFFICIAL PLAYERSUS Ches",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/17th-continental-womens-chess-championships-2026-announced",
+         "pubDate" : "Fri, 06 Feb 2026 00:00:00",
+         "title" : "17th Continental Women's Chess Championships 2026 Announced"
       },
       {
          "description" : "Manhattan's Marshall Chess Club is one of the country's most storied chess clubs. Entering the building, you're surrounded by history both recent and distant: plaques of past club champions, a library replete with old and first edition books, photos of guest grandmasters in the building, and even the table GM Magnus Carlsen defeated GM Sergey Karjakin on during the 2016 World Championship match held in New York.But if you've played at the Marshall in recent years, \"history\" might not be the first thing that comes to mind. Instead, chances are you were paired against a child or junior player in at least one of your games, regardless of whether you were playing in a Rated Beginner Open (RBO) o",
@@ -442,14 +466,6 @@ news_feed (
          "title" : "Abdusattorov leads on 6.5/10 Sindarov, Van Foreest and Bluebaum are in the chasing pack - 10"
       },
       {
-         "description" : "If a large chunk of the country has to be snowed in for a second consecutive weekend, at least it coincides with the end of Tata Steel. It will even feel like we're right there with the players in the Netherlands!With three rounds to go in Wijk aan Zee, both the Masters and the Challengers remain hotly contested, with 15-year-old American GM Andy Woodward only a half-point behind the leader in the latter. Play resumes Friday at 7 a.m. CST, with the penultimate round at the same time on Saturday and Sunday's last round beginning two hours earlier at 5 a.m. CST. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Woodward during his seventh win of the event.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/woodward-contention-yip-nears-norm-chances-tata-steel",
-         "pubDate" : "Thu, 29 Jan 2026 00:00:00",
-         "title" : "Woodward in Contention, Yip Nears Norm Chances at Tata Steel"
-      },
-      {
          "description" : "The European Chess Union (ECU), together with the Croatian Chess Federation, invite all National Chess Federations of ECU to participate at European School Chess Championship 2026, which will take place from April 26th to May 6th 2026 in Trogir, Croatia. The event will be played in six age categories: U7, U9, U11, U13, U15 and U17, Open and Girls sections separately. Each Championship will be played in 9 rounds, swiss system, with the time control of 90 minutes + 30 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -584,14 +600,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/more-is-better-fallacy/",
          "pubDate" : "Sat, 24 Jan 2026 14:00:00",
          "title" : "This fallacy will cost you lots of money and time"
-      },
-      {
-         "description" : "GM&#38;nbsp;Nodirbek Abdusattorov felt he played his best game yet as he defeated GM Vincent Keymer with Black to take a one-point lead as we cross the halfway mark of the&#38;nbsp;2026 Tata Steel Chess Masters. World Champion Gukesh Dommaraju slumped to ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-7",
-         "pubDate" : "Sat, 24 Jan 2026 12:05:00",
-         "title" : "Abdusattorov Grows Lead As Giri Beats Gukesh"
       },
       {
          "description" : "21-year-old Aaryan Varshney from Delhi has become India's 92nd Chess Grandmaster, achieving his final norm at the Andranik Margaryan Memorial in Armenia in January 2026.",
