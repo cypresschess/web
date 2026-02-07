@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A regular fixture in the German \"Schachkalender\", edited by Wolf B&ouml;ese and Stefan L&ouml;ffler, is the biographical puzzle. Yesterday we asked which player would have celebrated a milestone birthday today. Here's the solution&hellip;",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/who-am-i-solution",
+         "pubDate" : "Sat, 07 Feb 2026 08:00:00",
+         "title" : "Who am I - Solution"
+      },
+      {
          "description" : "Just two years after its launch, the New Zagreb Classic has become one of Europe's largest open tournaments, attracting more than 500 players from dozens of federations. Conceived by local organisers to give young talents broader competitive opportunities, the event combines a compact weekend format with wide participation across rating levels. The 2026 edition in Zagreb featured established masters, emerging juniors and first-time competitors, reflecting the tournament's growing place on the European chess calendar. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
