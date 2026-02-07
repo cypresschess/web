@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this episode, Svitlana takes on one of the most aggressive setups against the Modern Defence: the Austrian Attack. She explains the key ideas behind White's early central pawn storm, typical attacking plans, and what you should be aiming for before the tactics even begin. A practical, idea-driven lesson that helps you understand when to attack, how to build it up, and what Black is trying to survive.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-austrian-attack-vs-modern-defence",
+         "pubDate" : "Sat, 07 Feb 2026 09:36:35",
+         "title" : "Svitlana's Smart Moves - Austrian Attack vs Modern Defence"
+      },
+      {
+         "description" : "Chess is attractive in many ways, and for many kinds of people. At its simplest it is a hobby, taken up for pleasure or habit. At a higher level it becomes a mental sport, in which practitioners compete face to face in tournaments, competitions, and championships that range from the modest surroundings of a club []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chess-attraction-since-antiquity/",
+         "pubDate" : "Sat, 07 Feb 2026 09:26:27",
+         "title" : "Chess attraction since antiquity"
+      },
+      {
          "description" : "A regular fixture in the German \"Schachkalender\", edited by Wolf B&ouml;ese and Stefan L&ouml;ffler, is the biographical puzzle. Yesterday we asked which player would have celebrated a milestone birthday today. Here's the solution&hellip;",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
