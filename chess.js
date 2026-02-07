@@ -26,6 +26,14 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Austrian Attack vs Modern Defence"
       },
       {
+         "description" : "The Esports World Cup Foundation (EWCF) has today officially announced that chess will be a part of the inaugural Esports Nations Cup (ENC), set to take place in Riyadh, Saudi Arabia, from November 2-8, 2026. Chess will be one of 16 esports titl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/esports-nations-cup-2026",
+         "pubDate" : "Sat, 07 Feb 2026 09:34:37",
+         "title" : "Chess Joins Esports Nations Cup 2026 With 128-Player Field"
+      },
+      {
          "description" : "Chess is attractive in many ways, and for many kinds of people. At its simplest it is a hobby, taken up for pleasure or habit. At a higher level it becomes a mental sport, in which practitioners compete face to face in tournaments, competitions, and championships that range from the modest surroundings of a club []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -618,14 +626,6 @@ news_feed (
          "title" : "Abdusattorov leads the Tata Steel Masters by a point after beating Keymer in Round 7 - 7"
       },
       {
-         "description" : "GM Hikaru Nakamura tightened his iron grip over the Bullet Brawl arena on Saturday after winning his fourth straight title of 2026. In this week&#39;s edition, Nakamura timed his streaks well and posted a score of 165 after chasing down Turkish phenom...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-jan-24-2026",
-         "pubDate" : "Sat, 24 Jan 2026 21:05:00",
-         "title" : "Nakamura Sustains Bullet Brawl Monopoly With 4th Straight Win"
-      },
-      {
          "description" : "When I first read that protesters had delayed the start of the annual elite chess tournament at Wijk aan Zee in Holland, my initial response was one of puzzled curiosity. One naturally assumes that a disturbance at such an event must arise from some internal heresy within the game itself. Perhaps, I thought, the sponsors []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -832,14 +832,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/first-round-wins-for-niemann-keymer-and-erigaisi-following-delayed-start-for-the-tata-steel-masters-2026",
          "pubDate" : "Sat, 17 Jan 2026 23:40:00",
          "title" : "First round wins for Niemann, Keymer and Erigaisi following delayed start for the Tata Steel Masters 2026 - 1"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126621455.cms\" />The Tata Steel Chess Tournament in Wijk aan Zee was briefly delayed after climate activists from Extinction Rebellion dumped 2,025 kg of coal at the venue, accusing sponsor Tata Steel of pollution and \"sportswashing.\" Protesters highlighted alleged carbon and lead emissions, while organisers defended the event's sporting and cultural value, urging respect and safety as the tournament resumed under heightened coordination with authorities.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/no-chess-on-a-dead-planet-massive-protest-disrupts-wijk-aan-zee-tournament-in-netherlands-watch/articleshow/126621455.cms",
-         "pubDate" : "Sat, 17 Jan 2026 17:01:53",
-         "title" : "'No chess on a dead planet': Protest disrupts Wijk aan Zee tourney - Watch"
       }
    ]
 }
