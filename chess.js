@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase&acute;26 offers a unique range of professional features. This series gives users of ChessBase tips for the first important steps. In the first part of this series we showed you how to enter and save your own games. In part 2 of our tutorial we will show you how to add new variations to a game in ChessBase&acute;26. These can be your own moves or those of an engine, which you might want to add.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-2-insert-variations-and-add-engines",
+         "pubDate" : "Sun, 08 Feb 2026 07:00:00",
+         "title" : "ChessBase&acute;26 -Tips for beginners, part 2: Insert variations and add engines"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128059169.cms\" />Newly crowned youngest world chess champion D Gukesh reflects on the heightened expectations and challenges following his historic win. He highlights the mental strength displayed during a streak of draws and emphasises that losses, despite their sting, offer more valuable lessons for his continued growth in the sport.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/defeats-teach-you-more-than-wins/articleshow/128059169.cms",
+         "pubDate" : "Sun, 08 Feb 2026 05:01:12",
+         "title" : "Defeats teach you more than wins: D Gukesh"
+      },
+      {
          "description" : "This article talks about how a frightening diagnosis unfolds into an unexpected but tender journey. Ariana Hinckley-Boltax is diagnosed with cancer and undergoes surgeries and chemotherapy. During such an uncertain period, chess became an escape and a comfort zone for her. Her dream of attending the World Rapid and Blitz Championships 2025 leads her to Doha, where the experience proves far more beautiful than she imagined. Her mission was to get her chessboard signed by the players. | All photos: Ariana Hinckley-Boltax",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/how-chess-helped-me-through-cancer",
          "pubDate" : "Sat, 07 Feb 2026 22:00:00",
          "title" : "How chess helped me through cancer and recovery"
+      },
+      {
+         "description" : "In an exhibition of dynamism and speed, GM Oleksandr Bortnyk won his first Bullet Brawl&#38;nbsp;title in five months after outpacing 154 titled players in Saturday&#39;s two-hour arena. With GM Hikaru Nakamura unavailable to defend his five-week winnin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-feb-7-2026",
+         "pubDate" : "Sat, 07 Feb 2026 21:20:20",
+         "title" : "Bortnyk Engineers 14-Game Streak, Breaks 5-Month Drought"
       },
       {
          "description" : "GMs Magnus Carlsen and Alireza Firouzja are the two finalists in the 2025 Speed Chess Championship. Carlsen prevailed in a one-sided match against GM Denis Lazavik 17-9, while Firouzja pulled off one of the greatest comebacks in SCC history to rea...",
@@ -610,20 +634,12 @@ news_feed (
          "title" : "Keymer, Gukesh Top Field For 2026 Prague Masters"
       },
       {
-         "description" : "It&#39;s time to celebrate your chess consistency with Chess.com&#39;s new Streaks feature! Whether you&#39;re looking to build good habits to improve your game or show off just how passionate you are about chess, you can now do it by starting and maintaining...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-streaks",
-         "pubDate" : "Mon, 26 Jan 2026 08:20:00",
-         "title" : "Celebrate Your Chess Consistency With Chess.com's New Streaks Feature"
-      },
-      {
          "description" : " The Tata Steel Masters reached its second rest day with Nodirbek Abdusattorov leading by half a point over fellow Uzbek Javokhir Sindarov. Abdusattorov had the disappointment of losing to Anish Giri, he almost pulled off a miracle save but failed at the last hurdle. Sindarov drew against Vincent Keymer, maybe Keymer had a small chance in the opening but otherwise it was a steady draw. The only other decisive game of the day was Gukesh's fine win against Vladimir Fedoseev. There was uncompromising chess from both players but in the end it was Gukesh that brought home the full point. Matthias Bluebaum spent several minutes at the board trying to come to terms with how he botched a winning pos",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/nodirbek-abdusattorov-still-leads-the-tata-steel-masters-with-5.58-even-after-losing-to-anish-giri",
          "pubDate" : "Sun, 25 Jan 2026 23:00:00",
-         "title" : "Nodirbek Abdusattorov still leads the Tata Steel Masters with 5.5/8 even after losing to Anish Giri - 6"
+         "title" : "Nodirbek Abdusattorov still leads the Tata Steel Masters with 5.5/8 even after losing to Anish Giri - 8"
       },
       {
          "description" : " Nodirbek Abdusattorov extended his lead of the Tata Steel Masters after defeating Vincent Keymer in Round 7 to move to 5.5/7 a point clear of fellow countryman Javokhir Sindarov who drew with Hans Moke Niemann. Anish Giri beat World Champion Gukesh who was probably still unstable after his shocking Round 6 blunder. Teenager Yagiz Kaan Erdogmus moved into a share of third with an impressive win against Arjun Erigaisi. Thai Dai Van Nguyen drew with Vladimir Fedoseev and Praggnanandhaa drew a wild game with Matthias Bluebaum. MarcAndria Maurizzi has joined Andy Woodward in the lead with 5.5/7 after his five game winning run came to an end with a draw against third placed Aydin Suleymanli. Look",
