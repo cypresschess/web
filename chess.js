@@ -10,6 +10,14 @@ news_feed (
          "title" : "How chess helped me through cancer and recovery"
       },
       {
+         "description" : "GMs Magnus Carlsen and Alireza Firouzja are the two finalists in the 2025 Speed Chess Championship. Carlsen prevailed in a one-sided match against GM Denis Lazavik 17-9, while Firouzja pulled off one of the greatest comebacks in SCC history to rea...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-sf",
+         "pubDate" : "Sat, 07 Feb 2026 17:58:00",
+         "title" : "Firouzja Pulls Clutch Comeback Vs. Nakamura, Carlsen Dominates Lazavik"
+      },
+      {
          "description" : "I'm proud of my mental game. It helps me learn quicker and perform under pressure. But last weekend, playing Padel, I realized once again my biggest leak. The Trigger It was a great match, very even, great rallies, a lot of fun. After two sets, we were tied (6-7, 6-3). Now there were only 25 []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -616,14 +624,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/nodirbek-abdusattorov-still-leads-the-tata-steel-masters-with-5.58-even-after-losing-to-anish-giri",
          "pubDate" : "Sun, 25 Jan 2026 23:00:00",
          "title" : "Nodirbek Abdusattorov still leads the Tata Steel Masters with 5.5/8 even after losing to Anish Giri - 6"
-      },
-      {
-         "description" : "An incredible weekend for Dutch GM Anish Giri ended with him adding victory with Black over leader GM Nodirbek Abdusattorov to his win over World Champion Gukesh Dommaraju the day before. Abdusattorov still leads the&#38;nbsp;2026 Tata Steel Chess Mas...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-8",
-         "pubDate" : "Sun, 25 Jan 2026 11:53:00",
-         "title" : "Giri Beats Leader Abdusattorov As Gukesh Bounces Back"
       },
       {
          "description" : " Nodirbek Abdusattorov extended his lead of the Tata Steel Masters after defeating Vincent Keymer in Round 7 to move to 5.5/7 a point clear of fellow countryman Javokhir Sindarov who drew with Hans Moke Niemann. Anish Giri beat World Champion Gukesh who was probably still unstable after his shocking Round 6 blunder. Teenager Yagiz Kaan Erdogmus moved into a share of third with an impressive win against Arjun Erigaisi. Thai Dai Van Nguyen drew with Vladimir Fedoseev and Praggnanandhaa drew a wild game with Matthias Bluebaum. MarcAndria Maurizzi has joined Andy Woodward in the lead with 5.5/7 after his five game winning run came to an end with a draw against third placed Aydin Suleymanli. Look",
