@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final weekend of the Speed Chess Championship moves from the online arena to a live stage in London, combining rapid, blitz and bullet segments. On Sunday, Hikaru Nakamura faces Denis Lazavik in the match for third place, while Magnus Carlsen will attempt to successfully defending his title against Alireza Firouzja. | Follow the games live with expert commentary. The consolation match starts at 14.00 CET, while the final starts at 19.00 CET.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-ch-2025-26-live",
+         "pubDate" : "Sun, 08 Feb 2026 13:45:00",
+         "title" : "Speed Chess Championship Finals - Live!"
+      },
+      {
+         "description" : " Greetings,On Thursday, February 12, 2026, The Chess Drum will celebrate its 25th anniversary. In the days when social media rules, websites still play a complementary role in delivering content. The Chess Drum has provided a platform for players from an overlooked demographic and will continue this trend. Amidst the change in content creation, it has The post <a href=\"https://thechessdrum.net/blog/2026/02/08/next-week-the-chess-drum-is-25-years/\">Next week, The Chess Drum is 25 years!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2026/02/08/next-week-the-chess-drum-is-25-years/",
+         "pubDate" : "Sun, 08 Feb 2026 13:42:32",
+         "title" : "Next week, The Chess Drum is 25 years!"
+      },
+      {
          "description" : "The semifinals of the Speed Chess Championship in London took place on Saturday at 180 Studios. It began with Magnus Carlsen facing Denis Lazavik, and was followed by the match between Hikaru Nakamura and Alireza Firouzja. Carlsen defeated Lazavik 17-9. The encounter between Firouzja and Nakamura was much more closely contested. After the scheduled 5+1, 3+1 and 1+1 games, the players went into overtime games until a winner was decided. Firouzja eventually won by a 15-13 score. | Photo: chess.com / Luc Bouchon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -46,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-feb-7-2026",
-         "pubDate" : "Sat, 07 Feb 2026 21:20:20",
+         "pubDate" : "Sat, 07 Feb 2026 21:20:00",
          "title" : "Bortnyk Engineers 14-Game Streak, Breaks 5-Month Drought"
       },
       {
