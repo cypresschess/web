@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This article talks about how a frightening diagnosis unfolds into an unexpected but tender journey. Ariana Hinckley-Boltax is diagnosed with cancer and undergoes surgeries and chemotherapy. During such an uncertain period, chess became an escape and a comfort zone for her. Her dream of attending the World Rapid and Blitz Championships 2025 leads her to Doha, where the experience proves far more beautiful than she imagined. Her mission was to get her chessboard signed by the players. | All photos: Ariana Hinckley-Boltax",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-chess-helped-me-through-cancer",
+         "pubDate" : "Sat, 07 Feb 2026 22:00:00",
+         "title" : "How chess helped me through cancer and recovery"
+      },
+      {
          "description" : "I'm proud of my mental game. It helps me learn quicker and perform under pressure. But last weekend, playing Padel, I realized once again my biggest leak. The Trigger It was a great match, very even, great rallies, a lot of fun. After two sets, we were tied (6-7, 6-3). Now there were only 25 []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-masters-arjun-erigaisi-beats-praggnanandhaa-gukesh-draws-with-sindarov/articleshow/126640912.cms",
          "pubDate" : "Sun, 18 Jan 2026 09:23:26",
          "title" : "Tata Steel Masters: Arjun Erigaisi beats Praggnanandhaa"
-      },
-      {
-         "description" : " There were three decisive games in the first round of the Tata Steel Masters, there could even have been a couple more. The first story was that the start to the tournament was delayed, climate protesters targeting Tata Steel drew attention to their heavy use of coal and the environmental damage it causes. The start of play was delayed for a couple of hours but perhaps this disruption caused early uncharacteristic blunders from a couple of the players. Hans Moke Niemann was still in theory when Vladimir Fedoseev miscalculated and he had to resign in 16 moves. Anish Giri played the inferior 21...Rb8 then just blundered a piece with 22...Bxd4 and also had to resign immediately. Arjun Erigaisi",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/first-round-wins-for-niemann-keymer-and-erigaisi-following-delayed-start-for-the-tata-steel-masters-2026",
-         "pubDate" : "Sat, 17 Jan 2026 23:40:00",
-         "title" : "First round wins for Niemann, Keymer and Erigaisi following delayed start for the Tata Steel Masters 2026 - 1"
       }
    ]
 }
