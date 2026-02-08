@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The semifinals of the Speed Chess Championship in London took place on Saturday at 180 Studios. It began with Magnus Carlsen facing Denis Lazavik, and was followed by the match between Hikaru Nakamura and Alireza Firouzja. Carlsen defeated Lazavik 17-9. The encounter between Firouzja and Nakamura was much more closely contested. After the scheduled 5+1, 3+1 and 1+1 games, the players went into overtime games until a winner was decided. Firouzja eventually won by a 15-13 score. | Photo: chess.com / Luc Bouchon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-ch-2025-26-sf",
+         "pubDate" : "Sun, 08 Feb 2026 12:10:00",
+         "title" : "Speed Chess Championship: Firouzja and Carlsen advance to the final match"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128066185.cms\" />Chess will debut as an esports title at the Esports Nations Cup 2026 in Riyadh, running November 2-8. The event features 128 players in group and knockout formats, with rapid games and Armageddon tie-breakers. Players qualify via rankings, regional qualifiers, and wildcards. The tournament highlights chess's growing esports presence and global reach, following its successful Esports World Cup debut in 2025.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-added-to-esports-nations-cup-2026-schedule-format-qualifiers-and-all-you-need-to-know/articleshow/128066185.cms",
+         "pubDate" : "Sun, 08 Feb 2026 09:43:27",
+         "title" : "Chess added to ENC 2026: Schedule, format, and all you need to know"
+      },
+      {
          "description" : "ChessBase&acute;26 offers a unique range of professional features. This series gives users of ChessBase tips for the first important steps. In the first part of this series we showed you how to enter and save your own games. In part 2 of our tutorial we will show you how to add new variations to a game in ChessBase&acute;26. These can be your own moves or those of an engine, which you might want to add.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/chess-mindset-triggers/",
          "pubDate" : "Sat, 07 Feb 2026 14:00:00",
          "title" : "What Triggers You?"
-      },
-      {
-         "description" : "The final weekend of the Speed Chess Championship moves from the online arena to a live stage in London, where the semifinals and title match are being played in front of spectators. The event combines rapid, blitz and bullet segments. | Follow the games live with expert commentary. On Saturday, Magnus Carlsen v. Lazavik starts at 14.00 CET, while Alireza Firouzja v. Hikaru Nakamura starts at 19.00 CET.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-ch-2025-26-live",
-         "pubDate" : "Sat, 07 Feb 2026 13:45:00",
-         "title" : "Speed Chess Championship Finals - Live!"
       },
       {
          "description" : "In this episode, Svitlana takes on one of the most aggressive setups against the Modern Defence: the Austrian Attack. She explains the key ideas behind White's early central pawn storm, typical attacking plans, and what you should be aiming for before the tactics even begin. A practical, idea-driven lesson that helps you understand when to attack, how to build it up, and what Black is trying to survive.",
@@ -840,14 +848,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-and-fedoseev-winners-in-tata-steel-round-2",
          "pubDate" : "Sun, 18 Jan 2026 22:27:00",
          "title" : "Abdusattorov and Fedoseev winners in Tata Steel Round 2 - 2"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126640912.cms\" />Arjun Erigaisi secured a decisive victory over R Praggnanandhaa in the Tata Steel Masters' first round. World Champion D Gukesh drew his hard-fought match against Javokhir Sindarov. Hans Moke Niemann and Vincent Keymer also emerged as winners, sharing the early lead.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-masters-arjun-erigaisi-beats-praggnanandhaa-gukesh-draws-with-sindarov/articleshow/126640912.cms",
-         "pubDate" : "Sun, 18 Jan 2026 09:23:26",
-         "title" : "Tata Steel Masters: Arjun Erigaisi beats Praggnanandhaa"
       }
    ]
 }
