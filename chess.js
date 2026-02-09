@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " chess.com Speed Chess Final 2025 took place in person in London 7th to 8th February 2026. The was hosted by Chess.com's server. Magnus Carlsen won the event by defeating Denis Lazavik in the semifinals and Alireza Firouzja in the final. Lazavik beat Hikaru Nakamura to 3rd place.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-final-2025",
+         "pubDate" : "Sun, 8 Feb 2026 22:27:00",
+         "title" : "chess.com Speed Chess Final 2025 - Games and Results"
+      },
+      {
          "description" : "The final weekend of the Speed Chess Championship moves from the online arena to a live stage in London, combining rapid, blitz and bullet segments. On Sunday, Hikaru Nakamura faces Denis Lazavik in the match for third place, while Magnus Carlsen will attempt to successfully defending his title against Alireza Firouzja. | Follow the games live with expert commentary. The consolation match starts at 14.00 CET, while the final starts at 19.00 CET.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -856,14 +864,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-individual-chess-championship-2026-official-invitation/",
          "pubDate" : "Mon, 19 Jan 2026 08:20:19",
          "title" : "European Individual Chess Championship 2026 - Official invitation"
-      },
-      {
-         "description" : " There is a three way tie for first place on 1.5 points between Hans Moke Niemann, Arjun Erigaisi and Nodirbek Abdusattorov after two rounds of the Tata Steel tournament. Round 1 leader Niemann drew quickly against Matthias Bluebaum and Erigaisi drew against Thai Dai Van Nguyen but the third winner from round 1, Vincent Keymer, went down to defeat against Vladimir Fedoseev, he in turn must be very relieved to put his mortifying disaster from round 1 behind him. Nodirbek Abdusattorov joined the leaders after defeating Praggnanandhaa who wasn't in good form in the latter half of 2025 and will not be wanting a disaster ahead of the Candidates. There were draws in the games Yagiz Kaan Erdogmus v",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-and-fedoseev-winners-in-tata-steel-round-2",
-         "pubDate" : "Sun, 18 Jan 2026 22:27:00",
-         "title" : "Abdusattorov and Fedoseev winners in Tata Steel Round 2 - 2"
       }
    ]
 }
