@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Speed Chess Championship concluded in London, with live matches deciding both the title and third place. Magnus Carlsen defeated Alireza Firouzja 15-12 to claim a third consecutive crown, while Denis Lazavik edged Hikaru Nakamura in the consolation match. The event introduced the Daniel Naroditsky Cup, with past and future champions' names to be engraved on the trophy. | Photo: chess.com / Luc Bouchon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-ch-2025-26-finals",
+         "pubDate" : "Mon, 09 Feb 2026 06:30:00",
+         "title" : "Carlsen beats Firouzja, claims fifth Speed Chess Championship title"
+      },
+      {
          "description" : "The Queens' Online Chess Festival returns in March 2026 for its sixth edition, offering a free, month-long celebration of women's chess around International Women's Day. Organised by the FIDE Commission for Women's Chess, the event features a global Women's Open with continental qualifiers and a separate Princesses' tournament for unrated girls. Blitz competitions, titles, training prizes and fair-play safeguards form part of a programme open to players of all ages and levels worldwide.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -96,14 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/7uice-foundation-chesscom-bridge-opportunity-gap",
          "pubDate" : "Fri, 06 Feb 2026 15:11:32",
          "title" : "Jaylen Brown's 7uice Foundation & Chess.com Bridge Opportunity Gap With Chess"
-      },
-      {
-         "description" : "Take as look at this position. Is there any way you can stop the two black pawns that are ready to promote? And actually win this game? There are three challenging positions to solve on our live diagrams. And in a few days we will provide full explanations and strategies - in video clips. It is a learning experience.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/can-you-solve-these-studies",
-         "pubDate" : "Fri, 06 Feb 2026 12:00:00",
-         "title" : "Can you solve these studies?"
       },
       {
          "description" : "GM Vincent Keymer rode his 10th-round victory over GM Magnus Carlsen in Freestyle Friday to a win in the tournament on February 6. Both players scored nine points but Keymer&#39;s tiebreaks put him in the lead. Keymer previously won on May 2, 2025, an...",
@@ -768,14 +768,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-of-sna-seminar-exam-in-ahmedabad-on-02-03-january-2026/",
          "pubDate" : "Mon, 19 Jan 2026 10:19:33",
          "title" : "Final report of SNA Seminar & Exam in Ahmedabad on 02 & 03 January 2026"
-      },
-      {
-         "description" : "The European Individual Chess Championship 2026 will be held from 6 April to 20 April 2026 in Katowice, Poland. The Championship will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game with an increment of 30 seconds for every move, starting from move one. The total prize fund of the Championship is 100.000 EUR, with 20.000 EUR reserved for the Winner of the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-chess-championship-2026-official-invitation/",
-         "pubDate" : "Mon, 19 Jan 2026 08:20:19",
-         "title" : "European Individual Chess Championship 2026 - Official invitation"
       }
    ]
 }
