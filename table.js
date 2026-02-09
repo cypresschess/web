@@ -1,5 +1,7 @@
 jtable([
+"HOUSTON","2026-02-08","8","<a href=https://ratings.uschess.org/event/202602080243 target='_blank'>Bellaire Sunday Swiss 2026.02.08</a>",
 "SUGAR LAND","2026-02-07","11","<a href=https://ratings.uschess.org/event/202602071043 target='_blank'>winter-02-07-2026</a>",
+"HOUSTON","2026-02-07","10","<a href=https://ratings.uschess.org/event/202602070493 target='_blank'>chesspanda02072026saturday</a>",
 "SPRING","2026-02-06","26","<a href=https://ratings.uschess.org/event/202602060183 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2026-02-06","10","<a href=https://ratings.uschess.org/event/202602060153 target='_blank'>FBCC 2026 Babe Ruth Birthday Open</a>",
 "CYPRESS","2026-02-06","37","<a href=https://ratings.uschess.org/event/202602060113 target='_blank'>Knights of Cypress</a>",
@@ -97,6 +99,4 @@ jtable([
 "CYPRESS","2025-11-07","40","<a href=https://ratings.uschess.org/event/202511070343 target='_blank'>KNIGHTS OF CYPRESS (TX)</a>",
 "SPRING","2025-11-07","13","<a href=https://ratings.uschess.org/event/202511070233 target='_blank'>THE FRIDAY KNIGHTS -2</a>",
 "SUGAR LAND","2025-11-07","16","<a href=https://ratings.uschess.org/event/202511070203 target='_blank'>FBCC 2025 NIMZOVITSCH'S BIRTHDAY OPEN</a>",
-"HOUSTON","2025-11-02","21","<a href=https://ratings.uschess.org/event/202511020163 target='_blank'>$3,100 NOVEMBER CHAMPIONSHIP</a>",
-"HOUSTON","2025-11-02","8","<a href=https://ratings.uschess.org/event/202511020123 target='_blank'>Bellaire Sunday Swiss 11/02/2025</a>",
 ]);
