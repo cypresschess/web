@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Who is your favourite chess player - of all time, from the history of chess? Whose games do you enjoy the most? Is it one of the greats from the 19th century, the world champion legends of the twentieth? Or is it a player who is still active? Tell us your choices - and we will compare them with what a chess AI chooses, after evaluating millions of games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/most-attractive-chess-players",
+         "pubDate" : "Mon, 09 Feb 2026 16:00:00",
+         "title" : "Most attractive chess players"
+      },
+      {
          "description" : "Chess is set to take the global stage at the Esports Nations Cup: 128 players representing their nation will compete in one of the largest international Chess competitions ever. The The inaugural event will consist of 128 players competing in a round-robin group stage, featuring 16 groups of eight players. It is set to debut in Riyadh, Saudi Arabia, from November 2 through 29, 2026.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-in-the-esports-nations-cup",
          "pubDate" : "Mon, 09 Feb 2026 12:00:00",
          "title" : "Chess in the Esports Nations Cup"
+      },
+      {
+         "description" : "We&#39;re excited to announce that the ChessKid Youth Championships are back for 2026! Following the same format as previous years, the event will bring together a stellar field of young talents in the Under-13 and Under-16 categories. Watch as the fu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesskid-youth-championships-2026",
+         "pubDate" : "Mon, 09 Feb 2026 08:00:00",
+         "title" : "Prodigies Collide In Upcoming ChessKid Youth Championships Starting February 21"
       },
       {
          "description" : "The Speed Chess Championship concluded in London, with live matches deciding both the title and third place. Magnus Carlsen defeated Alireza Firouzja 15-12 to claim a third consecutive crown, while Denis Lazavik edged Hikaru Nakamura in the consolation match. The event introduced the Daniel Naroditsky Cup, with past and future champions' names to be engraved on the trophy. | Photo: chess.com / Luc Bouchon",
@@ -576,14 +592,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-draws-against-sindarov-in-tata-steel-masters-round-9-to-keep-a-half-point-lead",
          "pubDate" : "Wed, 28 Jan 2026 01:24:00",
          "title" : "Abdusattorov draws against Sindarov in Tata Steel Masters Round 9 to keep a half point lead - 9"
-      },
-      {
-         "description" : "&#34;I thought I&#39;d never win a chess game again,&#34; said GM Matthias Bluebaum after beating World Champion Gukesh Dommaraju with Black in round nine of the 2026 Tata Steel Chess Masters. GM Jorden van Foreest demolished GM Vincent Keymer in just 26 move...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-9",
-         "pubDate" : "Tue, 27 Jan 2026 12:02:00",
-         "title" : "Erdogmus, Van Foreest Climb To 2nd As Bluebaum Beats Gukesh"
       },
       {
          "description" : " The Tata Steel Masters reached its second rest day with Nodirbek Abdusattorov leading by half a point over fellow Uzbek Javokhir Sindarov. Abdusattorov had the disappointment of losing to Anish Giri, he almost pulled off a miracle save but failed at the last hurdle. Sindarov drew against Vincent Keymer, maybe Keymer had a small chance in the opening but otherwise it was a steady draw. The only other decisive game of the day was Gukesh's fine win against Vladimir Fedoseev. There was uncompromising chess from both players but in the end it was Gukesh that brought home the full point. Matthias Bluebaum spent several minutes at the board trying to come to terms with how he botched a winning pos",
