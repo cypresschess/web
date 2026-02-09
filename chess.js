@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess is set to take the global stage at the Esports Nations Cup: 128 players representing their nation will compete in one of the largest international Chess competitions ever. The The inaugural event will consist of 128 players competing in a round-robin group stage, featuring 16 groups of eight players. It is set to debut in Riyadh, Saudi Arabia, from November 2 through 29, 2026.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-in-the-esports-nations-cup",
+         "pubDate" : "Mon, 09 Feb 2026 12:00:00",
+         "title" : "Chess in the Esports Nations Cup"
+      },
+      {
          "description" : "The Speed Chess Championship concluded in London, with live matches deciding both the title and third place. Magnus Carlsen defeated Alireza Firouzja 15-12 to claim a third consecutive crown, while Denis Lazavik edged Hikaru Nakamura in the consolation match. The event introduced the Daniel Naroditsky Cup, with past and future champions' names to be engraved on the trophy. | Photo: chess.com / Luc Bouchon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -744,30 +752,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/bluebaum-and-van-foreest-win-their-first-games-and-join-the-leaders-of-tata-steel-on-23",
          "pubDate" : "Tue, 20 Jan 2026 00:51:00",
          "title" : "Bluebaum and Van Foreest win their first games and join the leaders of Tata Steel on 2/3 - 3"
-      },
-      {
-         "description" : " I was in a work-commute-collapse cycle and didn't know what to do. Then I began sampling activities I'd previously dismissed - book clubs, line dancing, chess - and it became oddly addictive For most of my life, I treated taste as fixed. There were things I liked and things I didn't, and that was that. Hobbies, foods and even social situations were quietly written off with the certainty of personal preference. But sticking to that sentiment had left me in a bit of a rut. When I moved to London, I threw myself into work: long hours, commuting and networking. In the process, I stopped making time for hobbies or trying anything new. <a href=\"https://www.theguardian.com/lifeandstyle/2026/jan/19",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/lifeandstyle/2026/jan/19/the-one-change-that-worked-hobbies-friendship-escape-book-clubs-chess",
-         "pubDate" : "Mon, 19 Jan 2026 11:00:22",
-         "title" : "The one change that worked: I tried all the hobbies I thought I'd hate - and found friendship and escape"
-      },
-      {
-         "description" : "All India Chess Federation is going to organize two days Online Arbiter Refresher Course for all IA's International Arbiters desirous to undergo the subject Refresher",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-arbiter-refresher-course-2026-2027/",
-         "pubDate" : "Mon, 19 Jan 2026 10:27:47",
-         "title" : "AICF ARBITER REFRESHER COURSE 2026-2027"
-      },
-      {
-         "description" : "A Senior National Arbiter Seminar &#38; Examination was organized by Gujarat State Chess Association, on behalf of All India Chess Federation at the GSC Bank",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-sna-seminar-exam-in-ahmedabad-on-02-03-january-2026/",
-         "pubDate" : "Mon, 19 Jan 2026 10:19:33",
-         "title" : "Final report of SNA Seminar & Exam in Ahmedabad on 02 & 03 January 2026"
       }
    ]
 }
