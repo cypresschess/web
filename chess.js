@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Queens' Online Chess Festival returns in March 2026 for its sixth edition, offering a free, month-long celebration of women's chess around International Women's Day. Organised by the FIDE Commission for Women's Chess, the event features a global Women's Open with continental qualifiers and a separate Princesses' tournament for unrated girls. Blitz competitions, titles, training prizes and fair-play safeguards form part of a programme open to players of all ages and levels worldwide.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/queens-online-chess-festival-2026",
+         "pubDate" : "Mon, 09 Feb 2026 04:45:00",
+         "title" : "Queens' Online Chess Festival returns in March 2026"
+      },
+      {
          "description" : " chess.com Speed Chess Final 2025 took place in person in London 7th to 8th February 2026. The was hosted by Chess.com's server. Magnus Carlsen won the event by defeating Denis Lazavik in the semifinals and Alireza Firouzja in the final. Lazavik beat Hikaru Nakamura to 3rd place.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -10,12 +18,12 @@ news_feed (
          "title" : "chess.com Speed Chess Final 2025 - Games and Results"
       },
       {
-         "description" : "The final weekend of the Speed Chess Championship moves from the online arena to a live stage in London, combining rapid, blitz and bullet segments. On Sunday, Hikaru Nakamura faces Denis Lazavik in the match for third place, while Magnus Carlsen will attempt to successfully defending his title against Alireza Firouzja. | Follow the games live with expert commentary. The consolation match starts at 14.00 CET, while the final starts at 19.00 CET.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-ch-2025-26-live",
-         "pubDate" : "Sun, 08 Feb 2026 13:45:00",
-         "title" : "Speed Chess Championship Finals - Live!"
+         "description" : "GM Magnus Carlsen succeeded in defending his fifth title at the 2025 Speed Chess Championship by defeating GM Alireza Firouzja 15-12 in the Final. It&#39;s his third title in consecutive years and Carlsen earned $38,888.89 for his efforts, while Firou...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-2025-speed-chess-championship-final",
+         "pubDate" : "Sun, 08 Feb 2026 16:59:00",
+         "title" : "Carlsen Defends 5th SCC Title, Lazavik Upsets Nakamura"
       },
       {
          "description" : " Greetings,On Thursday, February 12, 2026, The Chess Drum will celebrate its 25th anniversary. In the days when social media rules, websites still play a complementary role in delivering content. The Chess Drum has provided a platform for players from an overlooked demographic and will continue this trend. Amidst the change in content creation, it has The post <a href=\"https://thechessdrum.net/blog/2026/02/08/next-week-the-chess-drum-is-25-years/\">Next week, The Chess Drum is 25 years!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -26,14 +34,6 @@ news_feed (
          "title" : "Next week, The Chess Drum is 25 years!"
       },
       {
-         "description" : "The semifinals of the Speed Chess Championship in London took place on Saturday at 180 Studios. It began with Magnus Carlsen facing Denis Lazavik, and was followed by the match between Hikaru Nakamura and Alireza Firouzja. Carlsen defeated Lazavik 17-9. The encounter between Firouzja and Nakamura was much more closely contested. After the scheduled 5+1, 3+1 and 1+1 games, the players went into overtime games until a winner was decided. Firouzja eventually won by a 15-13 score. | Photo: chess.com / Luc Bouchon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-ch-2025-26-sf",
-         "pubDate" : "Sun, 08 Feb 2026 12:10:00",
-         "title" : "Speed Chess Championship: Firouzja and Carlsen advance to the final match"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128066185.cms\" />Chess will debut as an esports title at the Esports Nations Cup 2026 in Riyadh, running November 2-8. The event features 128 players in group and knockout formats, with rapid games and Armageddon tie-breakers. Players qualify via rankings, regional qualifiers, and wildcards. The tournament highlights chess's growing esports presence and global reach, following its successful Esports World Cup debut in 2025.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -42,28 +42,12 @@ news_feed (
          "title" : "Chess added to ENC 2026: Schedule, format, and all you need to know"
       },
       {
-         "description" : "ChessBase&acute;26 offers a unique range of professional features. This series gives users of ChessBase tips for the first important steps. In the first part of this series we showed you how to enter and save your own games. In part 2 of our tutorial we will show you how to add new variations to a game in ChessBase&acute;26. These can be your own moves or those of an engine, which you might want to add.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-2-insert-variations-and-add-engines",
-         "pubDate" : "Sun, 08 Feb 2026 07:00:00",
-         "title" : "ChessBase&acute;26 -Tips for beginners, part 2: Insert variations and add engines"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128059169.cms\" />Newly crowned youngest world chess champion D Gukesh reflects on the heightened expectations and challenges following his historic win. He highlights the mental strength displayed during a streak of draws and emphasises that losses, despite their sting, offer more valuable lessons for his continued growth in the sport.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/defeats-teach-you-more-than-wins/articleshow/128059169.cms",
          "pubDate" : "Sun, 08 Feb 2026 05:01:12",
          "title" : "Defeats teach you more than wins: D Gukesh"
-      },
-      {
-         "description" : "This article talks about how a frightening diagnosis unfolds into an unexpected but tender journey. Ariana Hinckley-Boltax is diagnosed with cancer and undergoes surgeries and chemotherapy. During such an uncertain period, chess became an escape and a comfort zone for her. Her dream of attending the World Rapid and Blitz Championships 2025 leads her to Doha, where the experience proves far more beautiful than she imagined. Her mission was to get her chessboard signed by the players. | All photos: Ariana Hinckley-Boltax",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-chess-helped-me-through-cancer",
-         "pubDate" : "Sat, 07 Feb 2026 22:00:00",
-         "title" : "How chess helped me through cancer and recovery"
       },
       {
          "description" : "In an exhibition of dynamism and speed, GM Oleksandr Bortnyk won his first Bullet Brawl&#38;nbsp;title in five months after outpacing 154 titled players in Saturday&#39;s two-hour arena. With GM Hikaru Nakamura unavailable to defend his five-week winnin...",
@@ -90,14 +74,6 @@ news_feed (
          "title" : "What Triggers You?"
       },
       {
-         "description" : "In this episode, Svitlana takes on one of the most aggressive setups against the Modern Defence: the Austrian Attack. She explains the key ideas behind White's early central pawn storm, typical attacking plans, and what you should be aiming for before the tactics even begin. A practical, idea-driven lesson that helps you understand when to attack, how to build it up, and what Black is trying to survive.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-austrian-attack-vs-modern-defence",
-         "pubDate" : "Sat, 07 Feb 2026 09:36:35",
-         "title" : "Svitlana's Smart Moves - Austrian Attack vs Modern Defence"
-      },
-      {
          "description" : "The Esports World Cup Foundation (EWCF) has today officially announced that chess will be a part of the inaugural Esports Nations Cup (ENC), set to take place in Riyadh, Saudi Arabia, from November 2-8, 2026. Chess will be one of 16 esports titl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -114,44 +90,12 @@ news_feed (
          "title" : "Chess attraction since antiquity"
       },
       {
-         "description" : "A regular fixture in the German \"Schachkalender\", edited by Wolf B&ouml;ese and Stefan L&ouml;ffler, is the biographical puzzle. Yesterday we asked which player would have celebrated a milestone birthday today. Here's the solution&hellip;",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/who-am-i-solution",
-         "pubDate" : "Sat, 07 Feb 2026 08:00:00",
-         "title" : "Who am I - Solution"
-      },
-      {
-         "description" : "Just two years after its launch, the New Zagreb Classic has become one of Europe's largest open tournaments, attracting more than 500 players from dozens of federations. Conceived by local organisers to give young talents broader competitive opportunities, the event combines a compact weekend format with wide participation across rating levels. The 2026 edition in Zagreb featured established masters, emerging juniors and first-time competitors, reflecting the tournament's growing place on the European chess calendar. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-zagreb-classic-rise-2026",
-         "pubDate" : "Fri, 06 Feb 2026 22:50:00",
-         "title" : "From local vision to European stage: New Zagreb Classic's remarkable rise"
-      },
-      {
-         "description" : "On Sunday you have the opportunity to see a legendary chess mind: Alexander Beliavsky, a four-time USSR Champion, three-time Olympiad Champion, who has defeated no fewer than nine World Champions. In a live training session at the Kasparov Chess Foundation Academy \"Big Al\", as he is known for his bold, uncompromising style, offers a rare chance to understand how grandmasters think when the stakes are highest. Keep February 8, 18:00 CET to listen to him.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-to-win-against-a-gm-in-20-moves",
-         "pubDate" : "Fri, 06 Feb 2026 17:00:00",
-         "title" : "How to win against a GM in 20 moves"
-      },
-      {
          "description" : "The 7uice Educational Fair, held on January 31 in Boston, Massachusetts, brought leaders from seemingly unrelated fields to the 64 squares on the chessboard. The 7uice Foundation, founded by Jaylen Brown of the Boston Celtics, partners with instit...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/7uice-foundation-chesscom-bridge-opportunity-gap",
          "pubDate" : "Fri, 06 Feb 2026 15:11:32",
          "title" : "Jaylen Brown's 7uice Foundation & Chess.com Bridge Opportunity Gap With Chess"
-      },
-      {
-         "description" : "The President of the Georgian Chess Federation and FIDE official Akaki Iashvili visited the ChessBase office in Hamburg to familiarise himself with the company's training and educational programs. He was particularly impressed by the children's chess learning program Fritz & Chesster. ChessBase CEO Rainer Woisin (pictured, on the right) and Akaki Iashvili (pictured, on the left) agreed on a cooperation in the field of scholastic chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-and-the-georgian-chess-federation-agree-on-a-cooperation",
-         "pubDate" : "Fri, 06 Feb 2026 14:00:00",
-         "title" : "ChessBase and the Georgian Chess Federation agree on a cooperation"
       },
       {
          "description" : "Take as look at this position. Is there any way you can stop the two black pawns that are ready to promote? And actually win this game? There are three challenging positions to solve on our live diagrams. And in a few days we will provide full explanations and strategies - in video clips. It is a learning experience.",
@@ -186,14 +130,6 @@ news_feed (
          "title" : "BCC 2026 tenders invited"
       },
       {
-         "description" : "A regular fixture in the German \"Schachkalender\", edited by Wolf B&ouml;ese and Stefan L&ouml;ffler, is the biographical puzzle. The task is to identify a player who is celebrating a milestone birthday this year.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/who-am-i",
-         "pubDate" : "Fri, 06 Feb 2026 08:45:21",
-         "title" : "Who am I?"
-      },
-      {
          "description" : "&#160;&#160; India's International Master Vaz Ethen of Chola Chess is sharing the lead with Grandmaster Suleymenov Alisher (Kazkhastan) with 2.5 points&#160; at the end of",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -218,14 +154,6 @@ news_feed (
          "title" : "Abdusattorov triumphs at Wijk aan Zee as Uzbek pair sweep 'chess Wimbledon'"
       },
       {
-         "description" : "Baadur Jobava and Nino Batsiashvili claimed their fifth national titles at the 2026 Georgian Chess Championships, held in Tbilisi from late January to early February. Jobava led the open tournament from the early rounds and finished unbeaten, while Batsiashvili dominated the women's event with a decisive mid-tournament winning streak. | Photos: Georgian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/georgian-chess-ch-2026-report",
-         "pubDate" : "Fri, 06 Feb 2026 04:30:00",
-         "title" : "Fifth titles for Jobava and Batsiashvili at Georgian Championships"
-      },
-      {
          "description" : "The 17th Continental Women's Chess Championship of the Americas 2026 will be held March 30 - April 6, 2026 at the Delfines Hotel &amp; Convention Center, San Isidro, Lima, Peru. The event, organized by the Chess Confederation of the Americas and the Peruvian Sports Chess Federation (FDPA) is open to all American continent chess federation women players.This is a nine-round event and the time control for all games is Game 90 with 30-second increment starting from move one. The champion will qualify to participate in the FIDE World Cup and the prize fund is $8000 with the top 10 finishers receiving a prize. Click here to download a PDF of the full tournament regulations.OFFICIAL PLAYERSUS Ches",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -240,14 +168,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/adewumi-singh-triumphant-marshall-junior-championship-returns",
          "pubDate" : "Fri, 06 Feb 2026 00:00:00",
          "title" : "Adewumi, Singh Triumphant as Marshall Junior Championship Returns"
-      },
-      {
-         "description" : "Paula Wolf-Kalmar only came to chess at the age of 30, but then went on to compete in three Women's World Championships. However, she died young from diabetes. Much about the biography of the Austrian chess pioneer remains unclear. With his detective-like flair, Alan McGowan has brought order to the available data and uncovered new sources.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/paula-wolf-kalmar-an-austrian-enigma",
-         "pubDate" : "Thu, 05 Feb 2026 20:15:58",
-         "title" : "Paula Wolf-Kalmar - An Austrian Enigma"
       },
       {
          "description" : "\"Many players use ChessBase, it is the most popular chess software by far, writes GM Iniyan Pa. \"Yet, not many people are fully aware of all of its features, and fail to utilise most of them. In this guide I have tried to show the features that I think are vital and important so that the user may gain the most out of the ChessBase. I hope it helps them in their development.\" We are deeply indebted to Iniyan for his remarkable five-part training review.",
@@ -656,14 +576,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-9",
          "pubDate" : "Tue, 27 Jan 2026 12:02:00",
          "title" : "Erdogmus, Van Foreest Climb To 2nd As Bluebaum Beats Gukesh"
-      },
-      {
-         "description" : "The Prague International Chess Festival is an annual tournament which has been held in the Czech capital since 2019. This year&#39;s edition will take place in the Don Giovanni Hotel from February 25 to March 6, and the organizers recently announced a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/keymer-gukesh-2026-prague-masters-challengers-lineups",
-         "pubDate" : "Tue, 27 Jan 2026 02:39:00",
-         "title" : "Keymer, Gukesh Top Field For 2026 Prague Masters"
       },
       {
          "description" : " The Tata Steel Masters reached its second rest day with Nodirbek Abdusattorov leading by half a point over fellow Uzbek Javokhir Sindarov. Abdusattorov had the disappointment of losing to Anish Giri, he almost pulled off a miracle save but failed at the last hurdle. Sindarov drew against Vincent Keymer, maybe Keymer had a small chance in the opening but otherwise it was a steady draw. The only other decisive game of the day was Gukesh's fine win against Vladimir Fedoseev. There was uncompromising chess from both players but in the end it was Gukesh that brought home the full point. Matthias Bluebaum spent several minutes at the board trying to come to terms with how he botched a winning pos",
