@@ -10,6 +10,94 @@ news_feed (
          "title" : "Most attractive chess players"
       },
       {
+         "description" : "Former Dolphins and Jets coach Adam Gase is joining the Chargers staff as an assistant coach with a passing game focus, a source confirmed to ESPN.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/nfl/story/_/id/47879237/source-adam-gase-ends-nfl-hiatus-join-chargers-staff",
+         "pubDate" : "Mon, 9 Feb 2026 15:00:01",
+         "title" : "Source: Gase ends NFL hiatus to join Chargers"
+      },
+      {
+         "description" : "Korey Dropkin and Cory Thiesse guaranteed the U.S. its first Olympic medal in mixed doubles curling, reaching the final Monday with a 9-8 victory over Italy.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/olympics/curling/story/_/id/47879562/us-reaches-first-olympic-curling-mixed-doubles-final",
+         "pubDate" : "Mon, 9 Feb 2026 14:58:19",
+         "title" : "U.S. into 1st Olympic curling mixed doubles final"
+      },
+      {
+         "description" : "Al Nassr are looking at Mohamed Salah as a possible replacement for Cristiano Ronaldo. Transfer Talk has the latest.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/soccer/story/_/id/47874412/transfer-rumors-news-man-united-want-newcastle-united-sandro-tonali-replace-casemiro",
+         "pubDate" : "Mon, 9 Feb 2026 14:56:37",
+         "title" : "Transfer rumors, news: Al Nassr could replace Ronaldo with Salah"
+      },
+      {
+         "description" : "Bishop McNamara (Md.) is the new leader of the 2025-26 SC Next girls' high school rankings for February",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/womens-college-basketball/story/_/id/47001234/girls-high-school-basketball-sc-next-top-25-2025-2026-high-school-rankings",
+         "pubDate" : "Mon, 9 Feb 2026 14:55:25",
+         "title" : "SC Next Top 25: The best high school girls' basketball teams in 2025-26"
+      },
+      {
+         "description" : "Men's skeleton medal hopeful Vladyslav Heraskevych is hoping that the IOC lets him wear a helmet featuring the images of about a half-dozen of his fellow Ukrainian athletes who were killed in Russian attacks.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/olympics/story/_/id/47879183/ukrainian-skeleton-racer-seeks-olympic-ok-helmet-tribute",
+         "pubDate" : "Mon, 9 Feb 2026 14:50:57",
+         "title" : "Skeleton racer has helmet to honor Ukraine dead"
+      },
+      {
+         "description" : "The Pakistan government announced the decision on Monday night, following meetings between the ICC, PCB and the BCB",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/cricket/story/_/id/47878812/pakistan-withdraw-boycott-india-match-t20-world-cup",
+         "pubDate" : "Mon, 9 Feb 2026 14:37:12",
+         "title" : "Pakistan withdraw boycott of India match at T20 World Cup"
+      },
+      {
+         "description" : "The 2027 Super Bowl will air on ESPN for the first time in network history. Learn more information about Super Bowl LXI festivities now.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/nfl/story/_/id/47819308/super-bowl-2027-espn-how-watch-schedule-facts-stats",
+         "pubDate" : "Mon, 9 Feb 2026 14:32:45",
+         "title" : "Super Bowl 2027 on ESPN: Date, location, venue, more details"
+      },
+      {
+         "description" : "Track all the latest MLB free agency and trade news with fantasy baseball analysis from Tristan H. Cockcroft and Eric Karabell.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/fantasy/baseball/story/_/id/46744306/fantasy-baseball-hot-stove-mlb-offseason-trades-free-agent-signings-2026",
+         "pubDate" : "Mon, 9 Feb 2026 14:29:48",
+         "title" : "Fantasy baseball: Marcell Ozuna heads to Pittsburgh"
+      },
+      {
+         "description" : "The batters that needed runs got them, and Lungi Ngidi showed why he is a point of difference in their bowling attack",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/cricket/story/_/id/47879277/t20-world-cup-2026-sa-vs-south-africa-check-all-right-boxes-tougher-challenges-ahead",
+         "pubDate" : "Mon, 9 Feb 2026 14:17:59",
+         "title" : "South Africa check all the right boxes with tougher challenges ahead"
+      },
+      {
+         "description" : "The White Sox are nearing an agreement on a one-year contract with free agent pitcher Erick Fedde, sources tell ESPN.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/mlb/story/_/id/47879068/sources-white-sox-deal-rhp-erick-fedde",
+         "pubDate" : "Mon, 9 Feb 2026 14:15:53",
+         "title" : "Sources: White Sox near deal with RHP Fedde"
+      },
+      {
+         "description" : "On Tuesday, this storied venue will witness its first night game. How will it go? It's anyone's guess, but seam may well play a prominent role",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/cricket/story/_/id/47879064/t20-world-cup-2026-pakistan-usa-open-new-floodlit-chapter-ssc-confounding-history",
+         "pubDate" : "Mon, 9 Feb 2026 14:00:17",
+         "title" : "Lights, camera, seam? Pakistan and USA begin new era in SSC's confounding history"
+      },
+      {
          "description" : "Chess is set to take the global stage at the Esports Nations Cup: 128 players representing their nation will compete in one of the largest international Chess competitions ever. The The inaugural event will consist of 128 players competing in a round-robin group stage, featuring 16 groups of eight players. It is set to debut in Riyadh, Saudi Arabia, from November 2 through 29, 2026.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
