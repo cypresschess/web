@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this \"Best Games of 2025\" episode, Lilit Mkrtchian takes us through a deeply instructive win from the Tegernsee tournament, showing her full ChessBase-style preparation workflow and how she chose an offbeat setup to get her opponent out of comfort early. The lesson then turns into a masterclass on positional pressure: exploiting the weakened d5-square, improving pieces step by step, and using concrete calculation to avoid tempting but incorrect tactics. The game finishes with clean technique-converting a queenside advantage and a dangerous passed a-pawn-while the big takeaway is clear: smart prep + strong squares + not spoiling a better position wins games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lilit-mkrtchian-s-best-games-of-2025-learning-positional-pressure",
+         "pubDate" : "Tue, 10 Feb 2026 15:53:09",
+         "title" : "Lilit Mkrtchian's Best Games of 2025 - Learning positional pressure"
+      },
+      {
          "description" : "The Futures tournament at the Prague International Chess Festival 2026 brings together ten of Europe's most promising young female talents. Held under the patronage of Czech First Lady Eva Pavlov&aacute; and with chess legend GM Pia Cramling (pictured) as ambassador, the event provides top-level junior chess and inspiration within one of Europe's most attractive chess festivals. | Photo: Prague Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-chess-elite-of-the-future-meets-in-prague",
          "pubDate" : "Tue, 10 Feb 2026 13:04:56",
          "title" : "The chess elite (of the future) meets in Prague"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128157998.cms\" />Norway Chess has confirmed Alireza Firouzja for its 2026 event in Oslo, while India No. 1 Arjun Erigaisi is still not in the announced lineup. Firouzja, a former prodigy who became a GM at 14 and the youngest to reach 2800 rating, has twice played the Candidates and finished runner-up at Norway Chess before. India will be represented by world champion Gukesh and R Praggnanandhaa, with more names to be revealed.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/still-no-india-no-1-arjun-erigaisi-as-norway-chess-reveals-new-participant-for-2026-event/articleshow/128157998.cms",
+         "pubDate" : "Tue, 10 Feb 2026 12:25:59",
+         "title" : "Still no India No. 1 Erigaisi as Norway Chess reveals new participant"
+      },
+      {
+         "description" : "Get ready for the next installment of the Chess.com Community Championships! The Chess.com 3-Check Chess Championship starts on February 18 at 9 a.m. ET / 15:00 CET / 7:30 p.m. IST and features a $2,500 prize fund&#38;mdash;so get ready to indulge in ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-3-check-chess-championship-2026",
+         "pubDate" : "Tue, 10 Feb 2026 08:00:00",
+         "title" : "Chess.com 3-Check Championship Starts On February 18 With 2 Days Of Qualifiers"
+      },
+      {
+         "description" : "Current and former NFL players gathered before the Super Bowl for the second annual BlitzChamps Live tournament and festivities in San Francisco, California, on February 6. At the end of the celebration of football and chess, Will Davis, a former ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/will-davis-repeats-as-blitzchamps-live-champion",
+         "pubDate" : "Tue, 10 Feb 2026 05:04:15",
+         "title" : "Will Davis Repeats As BlitzChamps Live Champion"
+      },
+      {
+         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, including some brain-teasers in our Wednesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-world-rapid-blitz-pt-6",
+         "pubDate" : "Tue, 10 Feb 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2025 World Rapid & Blitz, Pt. 6"
       },
       {
          "description" : "Eight rounds into the 2025/26 Chess Bundesliga season, SC Viernheim and OSG Baden-Baden occupy the top two places in the standings. Viernheim remain on a perfect 16/16 match points, while Baden-Baden trail by a single match point after drawing once. Schachfreunde Wolfhagen stay within reach on 13/16. The latest weekend saw both leaders collect two further victories, with Fabiano Caruana (pictured) making his debut for Baden-Baden. | Photo: Sven Noppes",
@@ -378,14 +418,6 @@ news_feed (
          "title" : "New Bots: Introducing The Frozen Five!"
       },
       {
-         "description" : "After 13 rounds and over two weeks of competition, GMs Nodirbek Abdusattorov and Andy Woodward are the 2026 Tata Steel champions. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Tata Steel's 2026 champions: Nodirbek Abdusattorov (L) and Andy Woodward. (All photos courtesy Tata Steel/Lennart Ootes)<br> <br> Abdusattorov finished first in the Masters with a 9/13 score to put him a half-point ahead of fellow Uzbek GM Javokhir Sindarov, with both players winning their final game. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Abdusattorov keeps an ey",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/abdusattorov-woodward-win-2026-tata-steel",
-         "pubDate" : "Mon, 02 Feb 2026 00:00:00",
-         "title" : "Abdusattorov, Woodward Win 2026 Tata Steel"
-      },
-      {
          "description" : " Nodirbek Abdusattorov took clear first in the Tata Steel Masters 2026. This is his second major victor in a row after winning the London Chess Classic, that followed a disaster at the Sinquefield Cup in August last year where he finished last. Abdusattorov was unsurprisingly very happy to win this year having come so close to winning the tournament several times in recent years. He said winning this tournament was a childhood dream. Abdusattorov had a half point lead and he beat Arjun Erigaisi in convincing style on the black side of an Evans Gambit. The result relegated Erigaisi to 13th place a terrible result for a player of his class. Javokhir Sindarov managed to squeeze out a win agains",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -570,22 +602,6 @@ news_feed (
          "title" : "Tata Steel Masters: Gukesh loses to Bluebaum, Arjun draws easy"
       },
       {
-         "description" : "Reigning World Champion Gukesh Dommaraju and 2025 Tour winner GM Fabiano Caruana will be playing in the 2026 Grand Chess Tour. The list of full tour participants was announced on Tuesday for a tour with a $2 million prize fund that will take off i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/grand-chess-tour-2026-participants",
-         "pubDate" : "Wed, 28 Jan 2026 03:39:00",
-         "title" : "Caruana, Gukesh Among 2026 Grand Chess Tour Participants"
-      },
-      {
-         "description" : "GM Dmitry Andreikin won a wild Titled Tuesday outright on January 27 with a score of 9.5/11. Andreikin, who wasn&#39;t in the picture atop the standings for much of the tournament, worked his way up and then became the only one of six players who ente...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andreikin-wins-titled-tuesday-january-27-2026",
-         "pubDate" : "Wed, 28 Jan 2026 03:04:00",
-         "title" : "Andreikin Last Player Standing After Dramatic Finish"
-      },
-      {
          "description" : " Jacorey Bynum is one of the brightest stars and currently the 23rd highest-rated player in Florida. Two years ago, Bynum earned the title of National Master and has been hovering around 2300 for the past six months. Looking to make improvements, he keeps an active tournament schedule and is also making a presence in online The post <a href=\"https://thechessdrum.net/blog/2026/01/27/jacorey-bynum-uncorks-gem-against-carlsen/\">Jacorey Bynum uncorks gem against Carlsen!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -736,14 +752,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jan/20/daniel-naroditsky-toxicology-report-drugs-chess-death",
          "pubDate" : "Tue, 20 Jan 2026 22:21:33",
          "title" : "Toxicology report says late US chess star Daniel Naroditsky had drugs in his system"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126802444.cms\" />Indian GM R Praggnanandhaa has confirmed his third appearance at Norway Chess, becoming the second announced participant after Magnus Carlsen. The 2026 Candidates qualifier and world No. 4 previously won the event in 2022 and defeated Carlsen in 2024. Organisers praised his consistency and ambition, while hopes remain for D Gukesh and Arjun Erigaisi to join the field.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/not-d-gukesh-or-arjun-erigaisi-after-magnus-carlsen-indian-grandmaster-confirmed-for-norway-chess-2026/articleshow/126802444.cms",
-         "pubDate" : "Tue, 20 Jan 2026 13:34:19",
-         "title" : "Not Gukesh or Erigaisi! After Carlsen, Indian GM confirmed for Norway Chess"
       }
    ]
 }
