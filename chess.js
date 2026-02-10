@@ -10,6 +10,86 @@ news_feed (
          "title" : "Lilit Mkrtchian's Best Games of 2025 - Learning positional pressure"
       },
       {
+         "description" : "Australia's Olympic team has been rocked with Cam Bolton airlifted to Milan after breaking his neck in training, ending the veteran snowboarder's Winter Games campaign.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/olympics/story/_/id/47889441/winter-olympics-aussie-boarder-cam-bolton-games-ended-serious-injury",
+         "pubDate" : "Tue, 10 Feb 2026 15:14:49",
+         "title" : "Aussie boarder's Olympics ended by serious injury"
+      },
+      {
+         "description" : "null",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/soccer/story/_/id/47879435/premier-league-live-updates-chelsea-leeds-united-west-ham-united-manchester-united",
+         "pubDate" : "Tue, 10 Feb 2026 15:13:12",
+         "title" : "Premier League live updates: Chelsea lead Leeds, West Ham host Man United"
+      },
+      {
+         "description" : "Liam Rosenior's fast start as Chelsea boss faces its latest hurdle on Tuesday night as a battling Leeds make the trip down to west London, and you can follow it all live with ESPN.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/soccer/story/_/id/47887545/chelsea-leeds-live-premier-league-latest-updates-commentary-score-result-blog",
+         "pubDate" : "Tue, 10 Feb 2026 15:10:09",
+         "title" : "Chelsea 1-0 Leeds LIVE: Latest updates as Joao Pedro strikes first at Stamford Bridge"
+      },
+      {
+         "description" : "Mets shortstop Francisco Lindor will be evaluated for a stress reaction in his left hamate bone and might need surgery. In addition, Juan Soto will move to left field.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/mlb/story/_/id/47889210/mets-francisco-lindor-need-surgery-juan-soto-left-field",
+         "pubDate" : "Tue, 10 Feb 2026 15:07:33",
+         "title" : "Mets' Lindor may need surgery; Soto to play LF"
+      },
+      {
+         "description" : "Since 1920, hockey has been a marquee event at the Olympics. Check out key Olympic hockey stats and records throughout history now.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/olympics/story/_/id/47562179/winter-olympic-hockey-records-all-medal-list-more",
+         "pubDate" : "Tue, 10 Feb 2026 15:01:36",
+         "title" : "Winter Olympic hockey records: All-time medal list and more"
+      },
+      {
+         "description" : "U.S. figure skater Maxim Naumov carried the memory of his late parents with him to the Olympics on Tuesday night, delivering an emotional, heartfelt short program at the Milan Cortina Games that fulfilled a dream they had long shared together.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/olympics/story/_/id/47889038/naumov-makes-olympic-debut-losing-parents-tragic-crash",
+         "pubDate" : "Tue, 10 Feb 2026 14:59:38",
+         "title" : "Naumov dedicates Olympic debut to late parents"
+      },
+      {
+         "description" : "The Colorado Rockies and right-handed pitcher Tomoyuki Sugano have agreed to a one-year, $5.1 million deal.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/mlb/story/_/id/47889108/rockies-rhp-tomoyuki-sugano-agree-1-year-51m-deal",
+         "pubDate" : "Tue, 10 Feb 2026 14:56:02",
+         "title" : "Rockies, RHP Sugano agree on $5.1M contract"
+      },
+      {
+         "description" : "We've got you covered with grades and analysis on every winter signing and big offseason trade.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/mlb/story/_/id/46994593/2025-26-mlb-offseason-grades-free-agency-trade-analysis",
+         "pubDate" : "Tue, 10 Feb 2026 14:53:21",
+         "title" : "MLB offseason grades: Tigers bring Verlander back to Detroit on one-year deal"
+      },
+      {
+         "description" : "On Tuesday at the Winter Olympics, the U.S. women's hockey team faces rival Canada, and Ilia Malinin takes the ice.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/olympics/story/_/id/47881223/2026-milan-cortina-italy-winter-olympics-best-moments-tuesday",
+         "pubDate" : "Tue, 10 Feb 2026 14:23:27",
+         "title" : "2026 Winter Olympics: USA women's hockey takes on Canada and more live"
+      },
+      {
+         "description" : "Who are the best players at every position? Our analysts give their top-fives, plus their combined overall top-10 ranking for the 2026 class.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/nfl/draft2026/story/_/id/46149416/2026-nfl-draft-rankings-top-prospects-position",
+         "pubDate" : "Tue, 10 Feb 2026 14:14:12",
+         "title" : "Rankings for the 2026 NFL draft: Top prospects at every position from Kiper, Miller, Muench, Reid and Yates"
+      },
+      {
          "description" : "The Futures tournament at the Prague International Chess Festival 2026 brings together ten of Europe's most promising young female talents. Held under the patronage of Czech First Lady Eva Pavlov&aacute; and with chess legend GM Pia Cramling (pictured) as ambassador, the event provides top-level junior chess and inspiration within one of Europe's most attractive chess festivals. | Photo: Prague Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +104,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/still-no-india-no-1-arjun-erigaisi-as-norway-chess-reveals-new-participant-for-2026-event/articleshow/128157998.cms",
          "pubDate" : "Tue, 10 Feb 2026 12:25:59",
          "title" : "Still no India No. 1 Erigaisi as Norway Chess reveals new participant"
+      },
+      {
+         "description" : "GM Magnus Carlsen won the 2025 Speed Chess Championship to earn his fifth title after defeating GM Alireza Firouzja in the Final. A participant in its very first edition in 2016, Carlsen called this year&#39;s Final &#34;probably the most fun Speed Chess ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-finals-7-conclusions",
+         "pubDate" : "Tue, 10 Feb 2026 09:36:50",
+         "title" : "2025 Speed Chess Championship Finals - 7 Conclusions"
       },
       {
          "description" : "Get ready for the next installment of the Chess.com Community Championships! The Chess.com 3-Check Chess Championship starts on February 18 at 9 a.m. ET / 15:00 CET / 7:30 p.m. IST and features a $2,500 prize fund&#38;mdash;so get ready to indulge in ...",
@@ -584,14 +672,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/still-no-d-gukesh-after-magnus-carlsen-and-r-praggnanandhaa-norway-chess-reveals-new-participant-for-2026-event/articleshow/127716994.cms",
          "pubDate" : "Wed, 28 Jan 2026 15:55:20",
          "title" : "Still no Gukesh! After Carlsen and Pragg, Norway Chess reveals new participant"
-      },
-      {
-         "description" : "GM Matthias Bluebaum has crossed 2700 and moved to second place in the 2026 Tata Steel Chess Masters after winning a wild 25-move game against GM Anish Giri. GM Nodirbek Abdusattorov still leads by half a point going into the final weekend, while ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-10",
-         "pubDate" : "Wed, 28 Jan 2026 12:02:00",
-         "title" : "Bluebaum Joins 2700 Club As Gukesh, Keymer Bounce Back"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/127696205.cms\" />World champion D Gukesh faced another defeat at the Tata Steel Masters, losing to Matthias Bluebaum. Arjun Erigaisi secured a quick draw against Hans Moke Niemann. Meanwhile, R Praggnanandhaa achieved his first win of the tournament against Aravindh Chithambaram, while Jorden van Foreest delivered a standout performance.",
