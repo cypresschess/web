@@ -290,14 +290,6 @@ news_feed (
          "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 5"
       },
       {
-         "description" : "MegaBase 2026 is Chess History in action. Regularly updated every month, the Main Database currently offers 11.8 million games, many of them annotated. Here our columnist offers a review with focus on chess in the 21st Century.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/megabase-2026-review-nagesh-havanur",
-         "pubDate" : "Tue, 03 Feb 2026 13:00:00",
-         "title" : "Megabase 2026: Living legends and rising stars"
-      },
-      {
          "description" : "GM Maxime Vachier-Lagrave took home&#38;nbsp;Titled Tuesday on February 3, becoming the first player all year to score 10/11, allowing him to avoid tiebreaks to beat out GMs Arjun Erigaisi and Alexey Sarana on 9.5 points. The win was not only Vachier-...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
