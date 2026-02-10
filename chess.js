@@ -760,14 +760,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-trophy-2025-winners/",
          "pubDate" : "Tue, 20 Jan 2026 10:33:36",
          "title" : "European Women's Chess Trophy 2025 - Winners"
-      },
-      {
-         "description" : " Five players lead the Tata Steel Chess tournament with a win and two draws after three rounds. Today two new players scored wins to join the leaders, Jorden Van Foreest against a desperately out of form Anish Giri and Matthias Bluebaum over Vincent Keymer who also has lost his second game of the event. Hans Moke Niemann, Nodirbek Abdusattorov and Arjun Erigaisi also have 2/3 after draws today. Praggnanandhaa got off the mark with a draw against Thai Dai Van Nguyen. Popular favourite Vasyl Ivanchuk won his first game in the Challengers, but had to navigate playing his 40th move with only one second on the clock. Aydin Suleymanli leads that event with 2.5/3 after Miaoyi Lu lost her perfect sc",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/bluebaum-and-van-foreest-win-their-first-games-and-join-the-leaders-of-tata-steel-on-23",
-         "pubDate" : "Tue, 20 Jan 2026 00:51:00",
-         "title" : "Bluebaum and Van Foreest win their first games and join the leaders of Tata Steel on 2/3 - 3"
       }
    ]
 }
