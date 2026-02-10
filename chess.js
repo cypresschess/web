@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Futures tournament at the Prague International Chess Festival 2026 brings together ten of Europe's most promising young female talents. Held under the patronage of Czech First Lady Eva Pavlov&aacute; and with chess legend GM Pia Cramling (pictured) as ambassador, the event provides top-level junior chess and inspiration within one of Europe's most attractive chess festivals. | Photo: Prague Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-chess-elite-of-the-future-meets-in-prague",
+         "pubDate" : "Tue, 10 Feb 2026 13:04:56",
+         "title" : "The chess elite (of the future) meets in Prague"
+      },
+      {
          "description" : "Eight rounds into the 2025/26 Chess Bundesliga season, SC Viernheim and OSG Baden-Baden occupy the top two places in the standings. Viernheim remain on a perfect 16/16 match points, while Baden-Baden trail by a single match point after drawing once. Schachfreunde Wolfhagen stay within reach on 13/16. The latest weekend saw both leaders collect two further victories, with Fabiano Caruana (pictured) making his debut for Baden-Baden. | Photo: Sven Noppes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -736,22 +744,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/not-d-gukesh-or-arjun-erigaisi-after-magnus-carlsen-indian-grandmaster-confirmed-for-norway-chess-2026/articleshow/126802444.cms",
          "pubDate" : "Tue, 20 Jan 2026 13:34:19",
          "title" : "Not Gukesh or Erigaisi! After Carlsen, Indian GM confirmed for Norway Chess"
-      },
-      {
-         "description" : "U07 Open U 07 Girls Rank Name 1 Tanishka Bhandari 1 Nimalan Dharanipathy 2 Anika K 2 Ivaan Dubey 3 Aaditri Majumdar 3 Madhav Mundhara",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-14th-national-school-chess-championship-2025-in-guwahati-from-27-31-dec-2025/",
-         "pubDate" : "Tue, 20 Jan 2026 12:27:37",
-         "title" : "Certificate of 14th NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025 in Guwahati from 27-31 Dec 2025"
-      },
-      {
-         "description" : "ECU Commission For Women's Chess&#160;announced three years ago&#160;\"European Women's Chess Trophy\",&#160;an initiative that aimed to&#160;financially reward women and girls who actively take part in the solely women's tournaments in Europe.&#160;The project is supported by the FIDE Development Fund. It was great to see the growing number of female tournaments in Europe last year, as well as number of female players that had been considered for this trophy. The Winners were announced after calculation of points awarded according to placement of []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-trophy-2025-winners/",
-         "pubDate" : "Tue, 20 Jan 2026 10:33:36",
-         "title" : "European Women's Chess Trophy 2025 - Winners"
       }
    ]
 }
