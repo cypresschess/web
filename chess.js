@@ -2,68 +2,84 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Robert Wright III's night began with boisterous boos during pregame introductions at Baylor and ended with his first 30-point game in a 99-94 victory Tuesday night as 22nd-ranked BYU stopped a skid that dropped it 13 spots in the AP Top 25.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/mens-college-basketball/story/_/id/47893023/robert-wright-iii-answers-boos-return-baylor-byu-ends-4-game-skid",
-         "pubDate" : "Tue, 10 Feb 2026 23:06:50",
-         "title" : "BYU's Wright answers Baylor boos with 30 in return"
+         "description" : "TENTATIVE NATIONAL CALENDAR -2026-27 Sl No No Event State Date 1 National Under-7 Maharashtra 07-11 June 2026 2 National Under-09 Jharkhand 05-11 July 2026 3",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/tentative-national-calendar-for-2026-27/",
+         "pubDate" : "Wed, 11 Feb 2026 06:37:58",
+         "title" : "TENTATIVE NATIONAL CALENDAR FOR 2026-27"
       },
       {
-         "description" : "Mitch Johnson appeared unhappy De'Aaron Fox and Stephon Castle were not named All-Stars, pointing out how the Spurs -- who have the league's third best record -- are not one of the seven teams with multiple All-Stars.",
+         "description" : "Marseille head coach Roberto De Zerbi has left the club following their 5-0 defeat to Paris Saint Germain on Sunday.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/nba/story/_/id/47892911/mitch-johnson-says-2-seed-spurs-had-more-all-stars",
-         "pubDate" : "Tue, 10 Feb 2026 23:04:41",
-         "title" : "Johnson: 2-seed Spurs should have more All-Stars"
+         "link" : "https://www.espn.com/soccer/story/_/id/47894174/roberto-de-zerbi-leaves-marseille-5-0-loss-paris-saint-germain",
+         "pubDate" : "Wed, 11 Feb 2026 02:25:03",
+         "title" : "De Zerbi leaves Marseille after 5-0 loss to PSG"
+      },
+      {
+         "description" : "AUS vs IRE Live, T20 World Cup 2026 - &agrave; § á&agrave; § ∏ &agrave; § Æ&agrave; • à&agrave; § ö &agrave; § ï&agrave; • Ä &agrave; § ≤&agrave; § æ&agrave; § á&agrave; § µ &agrave; § Ö&agrave; § ™&agrave; § °&agrave; • á&agrave; § ü &agrave; § Ø&agrave; § π&agrave; § æ&agrave; § Ç &agrave; § ¶&agrave; • á&agrave; § ñ&agrave; • á&agrave; § Ç",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/cricket/story/_/id/47894231/aus-vs-ire-live-t20-world-cup-2026-mitchell-marsh-paul-stirling",
+         "pubDate" : "Wed, 11 Feb 2026 02:23:58",
+         "title" : "AUS vs IRE Live, T20 World Cup 2026: &agrave; § Ü&agrave; § Ø&agrave; § ∞&agrave; § ≤&agrave; • à&agrave; § Ç&agrave; § ° &agrave; § ï&agrave; • á &agrave; § ñ&agrave; § º&agrave; § ø&agrave; § ≤&agrave; § æ&agrave; § ´&agrave; § º &agrave; § Ö&agrave; § ≠&agrave; § ø&agrave; § Ø&agrave; § æ&agrave; § ® &agrave; § ∂&agrave; • Å&agrave; § ∞&agrave; • Ç &agrave; § ï&agrave; § ∞&agrave; • á&agrave; § ó&agrave; • Ä &agrave; § ë&agrave; § ∏&agrave; • ç&agrave; § ü&agrave; • ç&agrave; § ∞&agrave; • á&agrave; § ≤&agrave; § ø&agrave; § Ø&agrave; § æ"
+      },
+      {
+         "description" : "Formula 1's preseason kicks into overdrive with the first of two tests in Bahrain this week, and you can follow all the action live with ESPN.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/f1/story/_/id/47888006/f1-testing-live-latest-updates-bahrain-mercedes-ferrari-mclaren-red-bull-day-commentary-results-lewis-hamilton-max-verstappen-lando-norris",
+         "pubDate" : "Wed, 11 Feb 2026 02:20:57",
+         "title" : "F1 testing LIVE: Latest updates as Mercedes, Ferrari, McLaren, Red Bull vie for superiority in Bahrain"
+      },
+      {
+         "description" : "Team GB heads into the 2026 Winter Olympics in Milan-Cortina with a mix of proven stars and exciting young talent, ready to challenge for medals across multiple disciplines.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/olympics/story/_/id/47669613/team-gb-2026-winter-olympics-best-ever-win-medals-milan-cortina-squad-guide-torvill-dean",
+         "pubDate" : "Wed, 11 Feb 2026 02:11:05",
+         "title" : "Team GB's best Winter Olympics ever? Top 2026 medal hopes, full squad ft. 'new Torvill and Dean'"
+      },
+      {
+         "description" : "Follow LIVE updates as India take on Belgium in the Men's FIH Pro League 2025-26.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/field-hockey/story/_/id/47893836/india-vs-belgium-live-fih-mens-pro-league-scores-updates-commentary-news",
+         "pubDate" : "Wed, 11 Feb 2026 02:04:59",
+         "title" : "India vs Belgium LIVE at FIH Men's Pro League: scores, updates, commentary, news"
       },
       {
          "description" : "&agrave; § ∏&agrave; § æ&agrave; § â&agrave; § • &agrave; § Ö&agrave; § ´&agrave; § º&agrave; • ç&agrave; § ∞&agrave; • Ä&agrave; § ï&agrave; § æ &agrave; § ï&agrave; • á &agrave; § ≤&agrave; § ø&agrave; § è &agrave; § Æ&agrave; • à&agrave; § ö &agrave; § ú&agrave; • Ä&agrave; § §&agrave; § ®&agrave; • á &agrave; § ï&agrave; • á &agrave; § ¨&agrave; § æ&agrave; § ¶ &agrave; § Ü&agrave; § ∏&agrave; § æ&agrave; § ® &agrave; § π&agrave; • ã &agrave; § ú&agrave; § æ&agrave; § è&agrave; § ó&agrave; § æ &agrave; § ∞&agrave; § æ&agrave; § ∏&agrave; • ç&agrave; § §&agrave; § æ",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/cricket/story/_/id/47892813/t20-world-cup-afg-vs-sa-live-do-die-situation-afghanistan",
-         "pubDate" : "Tue, 10 Feb 2026 23:00:34",
+         "pubDate" : "Wed, 11 Feb 2026 01:49:51",
          "title" : "T20 World Cup AFG vs SA live: &agrave; § Ö&agrave; § ´&agrave; § º&agrave; § ó&agrave; § º&agrave; § æ&agrave; § ®&agrave; § ø&agrave; § ∏&agrave; • ç&agrave; § §&agrave; § æ&agrave; § ® &agrave; § ï&agrave; • á &agrave; § ≤&agrave; § ø&agrave; § è &agrave; § ï&agrave; § ∞&agrave; • ã &agrave; § Ø&agrave; § æ &agrave; § Æ&agrave; § ∞&agrave; • ã &agrave; § Æ&agrave; • Å&agrave; § ï&agrave; § º&agrave; § æ&agrave; § ¨&agrave; § ≤&agrave; § æ"
       },
       {
-         "description" : "Bulls guard Collin Sexton was fined $35,000 by the NBA on Tuesday night for his middle finger gesture in Chicago's loss the previous night to the Nets.",
+         "description" : "BCB sports adviser Asif Nazrul had said on several occasions in the past that the BCB had only followed the Bangladesh government's orders",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/nba/story/_/id/47892955/new-bulls-guard-collin-sexton-fined-35000-gesture",
-         "pubDate" : "Tue, 10 Feb 2026 22:59:40",
-         "title" : "New Bulls guard Sexton fined $35K for gesture"
+         "link" : "https://www.espn.com/cricket/story/_/id/47893996/t20-world-cup-2026-asif-nazrul-now-says-decision-not-travel-india-was-bcbs-not-bangladesh-governments",
+         "pubDate" : "Wed, 11 Feb 2026 01:41:23",
+         "title" : "Nazrul U-turn: T20 World Cup decision made by 'BCB and players', not government"
       },
       {
-         "description" : "Super Rugby Pacific returns this Friday and there are some huge omissions for Round 1 right across the board. We have it all covered here!",
+         "description" : "Jose Quintana, embarking on his 15th major league season, gives the Rockies another veteran pitcher.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/rugby/story/_/id/47871256/super-rugby-teams-round-1-lineups-tips-odds-fantasy-injuries-everything-need-know-weekend",
-         "pubDate" : "Tue, 10 Feb 2026 22:54:41",
-         "title" : "Super Rugby R1: Test stars absent in Aus, NZ"
+         "link" : "https://www.espn.com/mlb/story/_/id/47893824/sources-rockies-agree-jose-quintana-one-year-deal",
+         "pubDate" : "Wed, 11 Feb 2026 01:18:19",
+         "title" : "Sources: Rockies add Quintana on 1-year deal"
       },
       {
          "description" : "Star opener Abhishek Sharma a potential doubt for India's second T20 World Cup 2026 game - against Namibia - on Thursday after being admitted to a Delhi hospital",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/cricket/story/_/id/47892842/t20-world-cup-2026-india-opener-abhishek-sharma-hospital-stomach-issue",
-         "pubDate" : "Tue, 10 Feb 2026 22:48:17",
+         "pubDate" : "Wed, 11 Feb 2026 01:10:04",
          "title" : "Abhishek Sharma hospitalised with stomach issue"
-      },
-      {
-         "description" : "Here are all the updates from Indian sports on February 11, 2026.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/47887285/india-take-belgium-hockey-pro-league-asian-shooting-championships-continue-indian-sports-live-february-11",
-         "pubDate" : "Tue, 10 Feb 2026 22:39:43",
-         "title" : "India take on Belgium in hockey Pro League; Asian Shooting Championships continue: Indian Sports LIVE, February 11"
-      },
-      {
-         "description" : "There are slow balls and then there's the moonball. The England allrounder tells us about his seriously pace-deficient delivery",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/cricket/story/_/id/47892932/sam-curran-talks-ultra-slow-delivery-moon-ball",
-         "pubDate" : "Tue, 10 Feb 2026 22:35:40",
-         "title" : "Moonstruck: Sam Curran's new delivery creeps up on you"
       },
       {
          "description" : "In this \"Best Games of 2025\" episode, Lilit Mkrtchian takes us through a deeply instructive win from the Tegernsee tournament, showing her full ChessBase-style preparation workflow and how she chose an offbeat setup to get her opponent out of comfort early. The lesson then turns into a masterclass on positional pressure: exploiting the weakened d5-square, improving pieces step by step, and using concrete calculation to avoid tempting but incorrect tactics. The game finishes with clean technique-converting a queenside advantage and a dangerous passed a-pawn-while the big takeaway is clear: smart prep + strong squares + not spoiling a better position wins games.",
