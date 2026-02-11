@@ -578,22 +578,6 @@ news_feed (
          "title" : "Movahed Joins Five Freestyle Friday Club With Wire-To-Wire Win"
       },
       {
-         "description" : "GM Hikaru Nakamura won his first six games in the opening 3 0 Thursday tournament on January 29, bringing his Chess.com blitz rating to a record 3454. Nakamura slowed down after that and the tournament winners of the day were GMs Sina Movahed, Mag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/movahed-carlsen-lazavik-3-0-thursday-1-29-2026",
-         "pubDate" : "Fri, 30 Jan 2026 09:59:08",
-         "title" : "Nakamura Sets Blitz Rating Record, Movahed, Carlsen, Lazavik Win 3 0 Thursdays"
-      },
-      {
-         "description" : "The SP Lohia Foundation is hosting an RSVP-only panel discussion and book signing in connection with Speed Chess Championship on Friday, February 6 at 19:30 GMT, taking place at 180 Strand in the Soho Works. The conversation between IM Danny Rensc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/danny-rensch-lohia-foundation",
-         "pubDate" : "Fri, 30 Jan 2026 07:04:05",
-         "title" : "RSVP For Talk And Book Signing At Speed Chess Championship"
-      },
-      {
          "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in eradicating the age fraud menace prevailing in sports and has directed",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -744,14 +728,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/niemann-sindarov-and-abdusattorov-lead-the-tata-steel-masters-on-3.55-going-into-the-first-rest-day",
          "pubDate" : "Wed, 21 Jan 2026 22:31:00",
          "title" : "Niemann, Sindarov and Abdusattorov lead the Tata Steel Masters on 3.5/5 going into the first rest day - 5"
-      },
-      {
-         "description" : " There were three winners in round four of the Tata Steel Masters in Wijk aan Zee. Hans Moke Niemann defeated Chithambaram Aravindh with the black pieces, he steadily outplayed his opponent after the inferior 14.f5?! Nodirbek Abdusattorov defeated Thai Dai Van Nguyen in a Petroff where he gradually outplayed his opponent, the computer didn't like a couple of moves 33.fxe3 and especially 34.e4 but this didn't seem obvious to the players even after the game. Thus far Matthias Bluebaum had avoided the curse of the Candidates players but two serious mistakes against Javokhir Sindarov 17.Nxa4? (going from edge to equal) and 24.Qc5? (24.Qd7!) which lost to a slightly funky tactic, lost him the gam",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/niemann-and-abdusattorov-lead-the-tata-steel-masters-with-34",
-         "pubDate" : "Wed, 21 Jan 2026 14:53:00",
-         "title" : "Niemann and Abdusattorov lead the Tata Steel Masters with 3/4 - 4"
       }
    ]
 }
