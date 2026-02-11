@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2026-02-08","39","<a href=https://ratings.uschess.org/event/202602080753 target='_blank'>$2,500 FEBRUARY CHAMPIONSHIP</a>",
 "HOUSTON","2026-02-08","8","<a href=https://ratings.uschess.org/event/202602080243 target='_blank'>Bellaire Sunday Swiss 2026.02.08</a>",
 "SUGAR LAND","2026-02-07","11","<a href=https://ratings.uschess.org/event/202602071043 target='_blank'>winter-02-07-2026</a>",
 "HOUSTON","2026-02-07","10","<a href=https://ratings.uschess.org/event/202602070493 target='_blank'>chesspanda02072026saturday</a>",
@@ -98,5 +99,4 @@ jtable([
 "KATY","2025-11-08","67","<a href=https://ratings.uschess.org/event/202511081323 target='_blank'>Aristoi Fall Classic 2025</a>",
 "CYPRESS","2025-11-07","40","<a href=https://ratings.uschess.org/event/202511070343 target='_blank'>KNIGHTS OF CYPRESS (TX)</a>",
 "SPRING","2025-11-07","13","<a href=https://ratings.uschess.org/event/202511070233 target='_blank'>THE FRIDAY KNIGHTS -2</a>",
-"SUGAR LAND","2025-11-07","16","<a href=https://ratings.uschess.org/event/202511070203 target='_blank'>FBCC 2025 NIMZOVITSCH'S BIRTHDAY OPEN</a>",
 ]);
