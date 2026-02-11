@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Montevideo hosted the 9th Ciudad de Montevideo Open, the Antel Cup, as part of its annual chess festival, attracting 79 players and 27 titled participants. Second seed Brandon Jacobson (pictured, right) claimed clear first place with 7&frac12;/9, remaining undefeated throughout the nine rounds. A key round-six win over top seed Johan-Sebastian Christiansen (pictured, left) proved decisive. Christiansen and 22-time Uruguayan champion Bernardo Roselli completed the podium. | Photo: Antel Cup",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/antel-cup-2026-final-report",
+         "pubDate" : "Wed, 11 Feb 2026 18:05:00",
+         "title" : "Brandon Jacobson finishes clear first at Antel Cup in Montevideo"
+      },
+      {
          "description" : "With ChessBase '26, ChessBase presents a new version of its long-standing database software, which is less about minor improvements and more about a strategic further development of the entire system. For decades, ChessBase has been the benchmark for professional chess databases, opening preparation, opponent analysis, and game management at the highest level. In this review, Lukas K&ouml;pl focuses on the new features of the current version and examines them from the perspective of a player and trainer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,20 +42,28 @@ news_feed (
          "title" : "TENTATIVE NATIONAL CALENDAR FOR 2026-27"
       },
       {
+         "description" : "Jacorey Bynum has picked up some new fans recently. But the 18-year-old national master from Lauderhill, Florida, has been a big name in state and scholastic chess for years.In 2019, the town of Sunrise, Florida declared Sept. 28 \"Jacorey Bynum Day\" in recognition of the then-11-year-old Bynum's accomplishments and commitments to service in his community.In 2024, he was covered in The Chess Drum for breaking the 2200 national rating barrier.Last year, he finished eighth in the K-12 Championship section of SuperNationals VIII, only a half-point behind the seven co-champions.In July, he was awarded an $8,000 Maurice Ashley Fellowship in recognition of his continued excellence.Bynum broke throu",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/player-profile-jacorey-bynum",
+         "pubDate" : "Wed, 11 Feb 2026 00:00:00",
+         "title" : "Player Profile: Jacorey Bynum"
+      },
+      {
+         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out our Tactics Tuesday series with more beginner-friendly puzzles here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2025-world-rapid-blitz-pt-6",
+         "pubDate" : "Wed, 11 Feb 2026 00:00:00",
+         "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 6"
+      },
+      {
          "description" : "In this \"Best Games of 2025\" episode, Lilit Mkrtchian takes us through a deeply instructive win from the Tegernsee tournament, showing her full ChessBase-style preparation workflow and how she chose an offbeat setup to get her opponent out of comfort early. The lesson then turns into a masterclass on positional pressure: exploiting the weakened d5-square, improving pieces step by step, and using concrete calculation to avoid tempting but incorrect tactics. The game finishes with clean technique-converting a queenside advantage and a dangerous passed a-pawn-while the big takeaway is clear: smart prep + strong squares + not spoiling a better position wins games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/lilit-mkrtchian-s-best-games-of-2025-learning-positional-pressure",
          "pubDate" : "Tue, 10 Feb 2026 15:53:09",
          "title" : "Lilit Mkrtchian's Best Games of 2025 - Learning positional pressure"
-      },
-      {
-         "description" : "The Futures tournament at the Prague International Chess Festival 2026 brings together ten of Europe's most promising young female talents. Held under the patronage of Czech First Lady Eva Pavlov&aacute; and with chess legend GM Pia Cramling (pictured) as ambassador, the event provides top-level junior chess and inspiration within one of Europe's most attractive chess festivals. | Photo: Prague Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-chess-elite-of-the-future-meets-in-prague",
-         "pubDate" : "Tue, 10 Feb 2026 13:04:56",
-         "title" : "The chess elite (of the future) meets in Prague"
       },
       {
          "description" : "Already a candidate for the World Championship, GM Javokhir Sindarov took steps toward the 2026 Esports World Cup as well on February 10, winning Titled Tuesday with a 10/11 score. Coming in the largest field since September (455), it was his seco...",
@@ -86,7 +102,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/will-davis-repeats-as-blitzchamps-live-champion",
-         "pubDate" : "Tue, 10 Feb 2026 05:04:15",
+         "pubDate" : "Tue, 10 Feb 2026 05:04:00",
          "title" : "Will Davis Repeats As BlitzChamps Live Champion"
       },
       {
@@ -106,14 +122,6 @@ news_feed (
          "title" : "Tactics Tuesday: 2025 World Rapid & Blitz, Pt. 6"
       },
       {
-         "description" : "Eight rounds into the 2025/26 Chess Bundesliga season, SC Viernheim and OSG Baden-Baden occupy the top two places in the standings. Viernheim remain on a perfect 16/16 match points, while Baden-Baden trail by a single match point after drawing once. Schachfreunde Wolfhagen stay within reach on 13/16. The latest weekend saw both leaders collect two further victories, with Fabiano Caruana (pictured) making his debut for Baden-Baden. | Photo: Sven Noppes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-2025-26-r8",
-         "pubDate" : "Mon, 09 Feb 2026 23:00:00",
-         "title" : "Bundesliga: Viernheim still perfect, Baden-Baden one match point back"
-      },
-      {
          "description" : "Who is your favourite chess player - of all time, from the history of chess? Whose games do you enjoy the most? Is it one of the greats from the 19th century, the world champion legends of the twentieth? Or is it a player who is still active? Tell us your choices - and we will compare them with what a chess AI chooses, after evaluating millions of games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,36 +130,12 @@ news_feed (
          "title" : "Most attractive chess players"
       },
       {
-         "description" : "Chess is set to take the global stage at the Esports Nations Cup: 128 players representing their nation will compete in one of the largest international Chess competitions ever. The The inaugural event will consist of 128 players competing in a round-robin group stage, featuring 16 groups of eight players. It is set to debut in Riyadh, Saudi Arabia, from November 2 through 29, 2026.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-in-the-esports-nations-cup",
-         "pubDate" : "Mon, 09 Feb 2026 12:00:00",
-         "title" : "Chess in the Esports Nations Cup"
-      },
-      {
          "description" : "We&#39;re excited to announce that the ChessKid Youth Championships are back for 2026! Following the same format as previous years, the event will bring together a stellar field of young talents in the Under-13 and Under-16 categories. Watch as the fu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-chesskid-youth-championships-2026",
          "pubDate" : "Mon, 09 Feb 2026 08:00:00",
          "title" : "Prodigies Collide In Upcoming ChessKid Youth Championships Starting February 21"
-      },
-      {
-         "description" : "The Speed Chess Championship concluded in London, with live matches deciding both the title and third place. Magnus Carlsen defeated Alireza Firouzja 15-12 to claim a third consecutive crown, while Denis Lazavik edged Hikaru Nakamura in the consolation match. The event introduced the Daniel Naroditsky Cup, with past and future champions' names to be engraved on the trophy. | Photo: chess.com / Luc Bouchon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-ch-2025-26-finals",
-         "pubDate" : "Mon, 09 Feb 2026 06:30:00",
-         "title" : "Carlsen beats Firouzja, claims fifth Speed Chess Championship title"
-      },
-      {
-         "description" : "The Queens' Online Chess Festival returns in March 2026 for its sixth edition, offering a free, month-long celebration of women's chess around International Women's Day. Organised by the FIDE Commission for Women's Chess, the event features a global Women's Open with continental qualifiers and a separate Princesses' tournament for unrated girls. Blitz competitions, titles, training prizes and fair-play safeguards form part of a programme open to players of all ages and levels worldwide.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/queens-online-chess-festival-2026",
-         "pubDate" : "Mon, 09 Feb 2026 04:45:00",
-         "title" : "Queens' Online Chess Festival returns in March 2026"
       },
       {
          "description" : " chess.com Speed Chess Final 2025 took place in person in London 7th to 8th February 2026. The was hosted by Chess.com's server. Magnus Carlsen won the event by defeating Denis Lazavik in the semifinals and Alireza Firouzja in the final. Lazavik beat Hikaru Nakamura to 3rd place.",
@@ -386,14 +370,6 @@ news_feed (
          "title" : "US Chess is Hiring Graphic Designer"
       },
       {
-         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out our Tactics Tuesday series with more beginner-friendly puzzles here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2025-world-rapid-blitz-pt-5",
-         "pubDate" : "Wed, 04 Feb 2026 00:00:00",
-         "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 5"
-      },
-      {
          "description" : "GM Maxime Vachier-Lagrave took home&#38;nbsp;Titled Tuesday on February 3, becoming the first player all year to score 10/11, allowing him to avoid tiebreaks to beat out GMs Arjun Erigaisi and Alexey Sarana on 9.5 points. The win was not only Vachier-...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -424,14 +400,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-first-chola-chess-international-gm-norm-round-robin-tournament-2026/",
          "pubDate" : "Tue, 03 Feb 2026 09:04:55",
          "title" : "Live games link for First Chola chess International GM Norm Round Robin Tournament 2026"
-      },
-      {
-         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, including some brain-teasers in our Wednesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-world-rapid-blitz-pt-5",
-         "pubDate" : "Tue, 03 Feb 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2025 World Rapid & Blitz, Pt. 5"
       },
       {
          "description" : " The 88th Tata Steel Chess tournament took place in Wijk aan Zee Fri 16th Jan to Sun 1st Feb 2026. Players: Masters: Yagiz Kaan Erdogmus, Aravindh Chithambaram, Hans Niemann, Vincent Keymer, Javokhir Sindarov, Jorden van Foreest, Arjun Erigaisi, Praggnanandhaa Rameshbabu, Van Nguyen Thai Dai, Gukesh Dommaraju, Anish Giri, Vladimir Fedoseev, Matthias Bluebaum and Nodirbek Abdusattorov. Challengers: Vasyl Ivanchuk, Marc Andria Maurizzi, Velimir Ivic, Erwin l'Ami, Bibisara Assaubayeva, Eline Roebers, Miaoyi Lu, Max Warmerdam, Panesar Vedant, Andy Woodward, Aydin Suleymanli, Faustino Oro, Daniil Yuffa and Carissa Yip. Nodirbek Abdusattorov won the Masters, Andy Woodward the Challengers and the t",
