@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pirates general manager Ben Cherington said Tuesday the team \"will never shut the door\" on potentially finding a role for Andrew McCutchen, a longtime cornerstone of the franchise.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/mlb/story/_/id/47891599/gm-ben-cherington-says-pirates-never-shut-door-finding-role-andrew-mccutchen",
+         "pubDate" : "Tue, 10 Feb 2026 19:11:27",
+         "title" : "GM: Pirates 'will never shut the door' on McCutchen"
+      },
+      {
+         "description" : "The UFC has officially started to build its fight lineup for the June 14 event at the White House, according to CEO Dana White.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/mma/story/_/id/47891453/ufc-begins-matchmaking-white-house-event-june-14",
+         "pubDate" : "Tue, 10 Feb 2026 19:09:09",
+         "title" : "UFC begins to craft lineup for White House event"
+      },
+      {
+         "description" : "Detroit's 29-year run as a bowl game host city has ended, as Ford Field will not have a postseason game in the 2026 season.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/college-football/story/_/id/47891538/detroit-host-bowl-game-first-29-years",
+         "pubDate" : "Tue, 10 Feb 2026 19:07:42",
+         "title" : "Detroit won't host bowl game after 29-year run"
+      },
+      {
+         "description" : "Rory McIlroy believes the Players Championship is one of the best tournaments in the world but pushed back on the narrative that it should be men's golf's fifth major.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/golf/story/_/id/47891652/mcilroy-players-championship-amazing-4-majors-enough",
+         "pubDate" : "Tue, 10 Feb 2026 19:07:07",
+         "title" : "Rory: Players 'amazing' but four majors is enough"
+      },
+      {
+         "description" : "Tom Aspinall had surgery on both of his eyes Tuesday as he continues to make his way back from a pair of eye pokes suffered during an October fight.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/mma/story/_/id/47891409/ufc-champion-tom-aspinall-undergoes-surgery-eyes",
+         "pubDate" : "Tue, 10 Feb 2026 19:06:15",
+         "title" : "UFC's Aspinall undergoes surgery on both eyes"
+      },
+      {
+         "description" : "On Wednesday at the Winter Olympics, Chloe Kim makes her debut in Milano Cortina while Evan Bates and Madison Chock skates for gold in Ice Dance -- Free Dance.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/olympics/story/_/id/47891255/2026-milan-cortina-italy-winter-olympics-best-moments-wednesday",
+         "pubDate" : "Tue, 10 Feb 2026 19:03:51",
+         "title" : "2026 Winter Olympics: Chloe Kim makes debut, gold on line in Ice Dance and more"
+      },
+      {
+         "description" : "Their long-brewing partnership finally detonated on the big stage, flattening UAE in 76 minutes in Chennai",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/cricket/story/_/id/47888554/new-zealand-bash-brothers-tim-seifert-finn-allen-turn-t20-world-cup",
+         "pubDate" : "Tue, 10 Feb 2026 18:52:13",
+         "title" : "The Seifert and Allen show: New Zealand's Bash Brothers turn it on in Chennai"
+      },
+      {
+         "description" : "There are no quick fixes, but after Tottenham's 2-1 loss to Newcastle, it's fair to wonder how long they can continue with Thomas Frank at the helm.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/soccer/story/_/id/47890674/has-run-frank-spurs-loss-puts-relegation-fight",
+         "pubDate" : "Tue, 10 Feb 2026 18:48:44",
+         "title" : "Has time run out for Frank? Spurs' latest loss puts him in unprecedented danger"
+      },
+      {
+         "description" : "Big names make the top 20 short list, including seven underclassmen and two players from Texas Tech.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/mens-college-basketball/story/_/page/menswoodenaward02102026/mens-college-basketball-2026-wooden-award-late-midseason-top-20-short-list",
+         "pubDate" : "Tue, 10 Feb 2026 18:39:39",
+         "title" : "Boozer, Dybantsa, Peterson, Wilson on men's Wooden Award short list"
+      },
+      {
          "description" : "In this \"Best Games of 2025\" episode, Lilit Mkrtchian takes us through a deeply instructive win from the Tegernsee tournament, showing her full ChessBase-style preparation workflow and how she chose an offbeat setup to get her opponent out of comfort early. The lesson then turns into a masterclass on positional pressure: exploiting the weakened d5-square, improving pieces step by step, and using concrete calculation to avoid tempting but incorrect tactics. The game finishes with clean technique-converting a queenside advantage and a dangerous passed a-pawn-while the big takeaway is clear: smart prep + strong squares + not spoiling a better position wins games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,92 +82,20 @@ news_feed (
          "title" : "Lilit Mkrtchian's Best Games of 2025 - Learning positional pressure"
       },
       {
-         "description" : "Australia's Olympic team has been rocked with Cam Bolton airlifted to Milan after breaking his neck in training, ending the veteran snowboarder's Winter Games campaign.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/olympics/story/_/id/47889441/winter-olympics-aussie-boarder-cam-bolton-games-ended-serious-injury",
-         "pubDate" : "Tue, 10 Feb 2026 15:14:49",
-         "title" : "Aussie boarder's Olympics ended by serious injury"
-      },
-      {
-         "description" : "null",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/soccer/story/_/id/47879435/premier-league-live-updates-chelsea-leeds-united-west-ham-united-manchester-united",
-         "pubDate" : "Tue, 10 Feb 2026 15:13:12",
-         "title" : "Premier League live updates: Chelsea lead Leeds, West Ham host Man United"
-      },
-      {
-         "description" : "Liam Rosenior's fast start as Chelsea boss faces its latest hurdle on Tuesday night as a battling Leeds make the trip down to west London, and you can follow it all live with ESPN.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/soccer/story/_/id/47887545/chelsea-leeds-live-premier-league-latest-updates-commentary-score-result-blog",
-         "pubDate" : "Tue, 10 Feb 2026 15:10:09",
-         "title" : "Chelsea 1-0 Leeds LIVE: Latest updates as Joao Pedro strikes first at Stamford Bridge"
-      },
-      {
-         "description" : "Mets shortstop Francisco Lindor will be evaluated for a stress reaction in his left hamate bone and might need surgery. In addition, Juan Soto will move to left field.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/mlb/story/_/id/47889210/mets-francisco-lindor-need-surgery-juan-soto-left-field",
-         "pubDate" : "Tue, 10 Feb 2026 15:07:33",
-         "title" : "Mets' Lindor may need surgery; Soto to play LF"
-      },
-      {
-         "description" : "Since 1920, hockey has been a marquee event at the Olympics. Check out key Olympic hockey stats and records throughout history now.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/olympics/story/_/id/47562179/winter-olympic-hockey-records-all-medal-list-more",
-         "pubDate" : "Tue, 10 Feb 2026 15:01:36",
-         "title" : "Winter Olympic hockey records: All-time medal list and more"
-      },
-      {
-         "description" : "U.S. figure skater Maxim Naumov carried the memory of his late parents with him to the Olympics on Tuesday night, delivering an emotional, heartfelt short program at the Milan Cortina Games that fulfilled a dream they had long shared together.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/olympics/story/_/id/47889038/naumov-makes-olympic-debut-losing-parents-tragic-crash",
-         "pubDate" : "Tue, 10 Feb 2026 14:59:38",
-         "title" : "Naumov dedicates Olympic debut to late parents"
-      },
-      {
-         "description" : "The Colorado Rockies and right-handed pitcher Tomoyuki Sugano have agreed to a one-year, $5.1 million deal.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/mlb/story/_/id/47889108/rockies-rhp-tomoyuki-sugano-agree-1-year-51m-deal",
-         "pubDate" : "Tue, 10 Feb 2026 14:56:02",
-         "title" : "Rockies, RHP Sugano agree on $5.1M contract"
-      },
-      {
-         "description" : "We've got you covered with grades and analysis on every winter signing and big offseason trade.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/mlb/story/_/id/46994593/2025-26-mlb-offseason-grades-free-agency-trade-analysis",
-         "pubDate" : "Tue, 10 Feb 2026 14:53:21",
-         "title" : "MLB offseason grades: Tigers bring Verlander back to Detroit on one-year deal"
-      },
-      {
-         "description" : "On Tuesday at the Winter Olympics, the U.S. women's hockey team faces rival Canada, and Ilia Malinin takes the ice.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/olympics/story/_/id/47881223/2026-milan-cortina-italy-winter-olympics-best-moments-tuesday",
-         "pubDate" : "Tue, 10 Feb 2026 14:23:27",
-         "title" : "2026 Winter Olympics: USA women's hockey takes on Canada and more live"
-      },
-      {
-         "description" : "Who are the best players at every position? Our analysts give their top-fives, plus their combined overall top-10 ranking for the 2026 class.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/nfl/draft2026/story/_/id/46149416/2026-nfl-draft-rankings-top-prospects-position",
-         "pubDate" : "Tue, 10 Feb 2026 14:14:12",
-         "title" : "Rankings for the 2026 NFL draft: Top prospects at every position from Kiper, Miller, Muench, Reid and Yates"
-      },
-      {
          "description" : "The Futures tournament at the Prague International Chess Festival 2026 brings together ten of Europe's most promising young female talents. Held under the patronage of Czech First Lady Eva Pavlov&aacute; and with chess legend GM Pia Cramling (pictured) as ambassador, the event provides top-level junior chess and inspiration within one of Europe's most attractive chess festivals. | Photo: Prague Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-chess-elite-of-the-future-meets-in-prague",
          "pubDate" : "Tue, 10 Feb 2026 13:04:56",
          "title" : "The chess elite (of the future) meets in Prague"
+      },
+      {
+         "description" : "Already a candidate for the World Championship, GM Javokhir Sindarov took steps toward the 2026 Esports World Cup as well on February 10, winning Titled Tuesday with a 10/11 score. Coming in the largest field since September (455), it was his seco...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sindarov-wins-titled-tuesday-february-10-2026",
+         "pubDate" : "Tue, 10 Feb 2026 12:29:43",
+         "title" : "Sindarov Joins Carlsen With Second Titled Tuesday Win Of 2026"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128157998.cms\" />Norway Chess has confirmed Alireza Firouzja for its 2026 event in Oslo, while India No. 1 Arjun Erigaisi is still not in the announced lineup. Firouzja, a former prodigy who became a GM at 14 and the youngest to reach 2800 rating, has twice played the Candidates and finished runner-up at Norway Chess before. India will be represented by world champion Gukesh and R Praggnanandhaa, with more names to be revealed.",
@@ -128,6 +128,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/will-davis-repeats-as-blitzchamps-live-champion",
          "pubDate" : "Tue, 10 Feb 2026 05:04:15",
          "title" : "Will Davis Repeats As BlitzChamps Live Champion"
+      },
+      {
+         "description" : "FIDE, in conjunction with the Chess Federation of Serbia, have announced that the FIDE World Cadets Rapid and Blitz Chess Championships 2026 will be held April 14-21, 2026 at the Hotel Zepter 4**** in Vrnjacka Banja, Serbia.** This is the World Cadet and Youth Rapid and Blitz; It is not the World Cadet with Standard time controls nor the World Youth with Standard time controls. TOURNAMENT DETAILSThere will be twelve sections: Open and Girls in age categories Under 18, Under 16, Under 14, Under 12, Under 10, and Under 8.A player's age as of Jan. 1, 2026 determines their age eligibility for a section.Under 18: Players born on or after Jan. 1, 2008Under 16: Players born on or after Jan. 1, 2010",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/registration-open-fide-world-cadet-youth-rapid-and-blitz-2026",
+         "pubDate" : "Tue, 10 Feb 2026 00:00:00",
+         "title" : "Registration Open for FIDE World Cadet & Youth Rapid and Blitz 2026"
       },
       {
          "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, including some brain-teasers in our Wednesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -464,14 +472,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-2025-world-rapid-blitz-pt-5",
          "pubDate" : "Tue, 03 Feb 2026 00:00:00",
          "title" : "Tactics Tuesday: 2025 World Rapid & Blitz, Pt. 5"
-      },
-      {
-         "description" : "Each year, the U.S. Chess Federation honors clubs that go above and beyond in promoting the game and serving their communities through the Chess Club of the Year Awards. Three clubs are recognized each year in the Large, Medium, and Small Club categories so that clubs of all sizes have the chance to be celebrated. Large Clubs have 51 or more members, Medium Clubs have 16 to 50 members, and Small Clubs have 3 to 15 members. Membership numbers should be based on either average attendance or an annual membership list.Winners are chosen based on several factors, including, community outreach, membership growth, innovation and creativity, player and director development, and overall organization ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/chess-club-year-awards-nominations-open",
-         "pubDate" : "Tue, 03 Feb 2026 00:00:00",
-         "title" : "Chess Club of the Year Awards: Nominations Open"
       },
       {
          "description" : " The 88th Tata Steel Chess tournament took place in Wijk aan Zee Fri 16th Jan to Sun 1st Feb 2026. Players: Masters: Yagiz Kaan Erdogmus, Aravindh Chithambaram, Hans Niemann, Vincent Keymer, Javokhir Sindarov, Jorden van Foreest, Arjun Erigaisi, Praggnanandhaa Rameshbabu, Van Nguyen Thai Dai, Gukesh Dommaraju, Anish Giri, Vladimir Fedoseev, Matthias Bluebaum and Nodirbek Abdusattorov. Challengers: Vasyl Ivanchuk, Marc Andria Maurizzi, Velimir Ivic, Erwin l'Ami, Bibisara Assaubayeva, Eline Roebers, Miaoyi Lu, Max Warmerdam, Panesar Vedant, Andy Woodward, Aydin Suleymanli, Faustino Oro, Daniil Yuffa and Carissa Yip. Nodirbek Abdusattorov won the Masters, Andy Woodward the Challengers and the t",
@@ -824,14 +824,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/the-ecf-schools-team-rapidplay-a-celebration-of-team-chess-at-eton/",
          "pubDate" : "Wed, 21 Jan 2026 12:18:19",
          "title" : "The ECF Schools Team Rapidplay: A Celebration of Team Chess at Eton"
-      },
-      {
-         "description" : "<ul><li> 29-year-old had stimulants and kratom in system </li><li> Death investigated as possible overdose or suicide </li></ul> American chess grandmaster Daniel Naroditsky had a combination of stimulant and psychoactive substances in his system when he died last year, according to a toxicology report released by North Carolina authorities. Naroditsky, 29, was <a href=\"https://www.theguardian.com/sport/2025/oct/20/daniel-naroditsky-dies-chess-grandmaster\">found dead at his home in Charlotte</a> in October 2025, a loss that sent shockwaves through the global chess community. At the time, police said his death was being investigated as a possible overdose or suicide. No official cause was ann",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/jan/20/daniel-naroditsky-toxicology-report-drugs-chess-death",
-         "pubDate" : "Tue, 20 Jan 2026 22:21:33",
-         "title" : "Toxicology report says late US chess star Daniel Naroditsky had drugs in his system"
       }
    ]
 }
