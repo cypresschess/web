@@ -2,76 +2,68 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Pirates general manager Ben Cherington said Tuesday the team \"will never shut the door\" on potentially finding a role for Andrew McCutchen, a longtime cornerstone of the franchise.",
+         "description" : "Robert Wright III's night began with boisterous boos during pregame introductions at Baylor and ended with his first 30-point game in a 99-94 victory Tuesday night as 22nd-ranked BYU stopped a skid that dropped it 13 spots in the AP Top 25.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/mlb/story/_/id/47891599/gm-ben-cherington-says-pirates-never-shut-door-finding-role-andrew-mccutchen",
-         "pubDate" : "Tue, 10 Feb 2026 19:11:27",
-         "title" : "GM: Pirates 'will never shut the door' on McCutchen"
+         "link" : "https://www.espn.com/mens-college-basketball/story/_/id/47893023/robert-wright-iii-answers-boos-return-baylor-byu-ends-4-game-skid",
+         "pubDate" : "Tue, 10 Feb 2026 23:06:50",
+         "title" : "BYU's Wright answers Baylor boos with 30 in return"
       },
       {
-         "description" : "The UFC has officially started to build its fight lineup for the June 14 event at the White House, according to CEO Dana White.",
+         "description" : "Mitch Johnson appeared unhappy De'Aaron Fox and Stephon Castle were not named All-Stars, pointing out how the Spurs -- who have the league's third best record -- are not one of the seven teams with multiple All-Stars.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/mma/story/_/id/47891453/ufc-begins-matchmaking-white-house-event-june-14",
-         "pubDate" : "Tue, 10 Feb 2026 19:09:09",
-         "title" : "UFC begins to craft lineup for White House event"
+         "link" : "https://www.espn.com/nba/story/_/id/47892911/mitch-johnson-says-2-seed-spurs-had-more-all-stars",
+         "pubDate" : "Tue, 10 Feb 2026 23:04:41",
+         "title" : "Johnson: 2-seed Spurs should have more All-Stars"
       },
       {
-         "description" : "Detroit's 29-year run as a bowl game host city has ended, as Ford Field will not have a postseason game in the 2026 season.",
+         "description" : "&agrave; § ∏&agrave; § æ&agrave; § â&agrave; § • &agrave; § Ö&agrave; § ´&agrave; § º&agrave; • ç&agrave; § ∞&agrave; • Ä&agrave; § ï&agrave; § æ &agrave; § ï&agrave; • á &agrave; § ≤&agrave; § ø&agrave; § è &agrave; § Æ&agrave; • à&agrave; § ö &agrave; § ú&agrave; • Ä&agrave; § §&agrave; § ®&agrave; • á &agrave; § ï&agrave; • á &agrave; § ¨&agrave; § æ&agrave; § ¶ &agrave; § Ü&agrave; § ∏&agrave; § æ&agrave; § ® &agrave; § π&agrave; • ã &agrave; § ú&agrave; § æ&agrave; § è&agrave; § ó&agrave; § æ &agrave; § ∞&agrave; § æ&agrave; § ∏&agrave; • ç&agrave; § §&agrave; § æ",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/college-football/story/_/id/47891538/detroit-host-bowl-game-first-29-years",
-         "pubDate" : "Tue, 10 Feb 2026 19:07:42",
-         "title" : "Detroit won't host bowl game after 29-year run"
+         "link" : "https://www.espn.com/cricket/story/_/id/47892813/t20-world-cup-afg-vs-sa-live-do-die-situation-afghanistan",
+         "pubDate" : "Tue, 10 Feb 2026 23:00:34",
+         "title" : "T20 World Cup AFG vs SA live: &agrave; § Ö&agrave; § ´&agrave; § º&agrave; § ó&agrave; § º&agrave; § æ&agrave; § ®&agrave; § ø&agrave; § ∏&agrave; • ç&agrave; § §&agrave; § æ&agrave; § ® &agrave; § ï&agrave; • á &agrave; § ≤&agrave; § ø&agrave; § è &agrave; § ï&agrave; § ∞&agrave; • ã &agrave; § Ø&agrave; § æ &agrave; § Æ&agrave; § ∞&agrave; • ã &agrave; § Æ&agrave; • Å&agrave; § ï&agrave; § º&agrave; § æ&agrave; § ¨&agrave; § ≤&agrave; § æ"
       },
       {
-         "description" : "Rory McIlroy believes the Players Championship is one of the best tournaments in the world but pushed back on the narrative that it should be men's golf's fifth major.",
+         "description" : "Bulls guard Collin Sexton was fined $35,000 by the NBA on Tuesday night for his middle finger gesture in Chicago's loss the previous night to the Nets.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/golf/story/_/id/47891652/mcilroy-players-championship-amazing-4-majors-enough",
-         "pubDate" : "Tue, 10 Feb 2026 19:07:07",
-         "title" : "Rory: Players 'amazing' but four majors is enough"
+         "link" : "https://www.espn.com/nba/story/_/id/47892955/new-bulls-guard-collin-sexton-fined-35000-gesture",
+         "pubDate" : "Tue, 10 Feb 2026 22:59:40",
+         "title" : "New Bulls guard Sexton fined $35K for gesture"
       },
       {
-         "description" : "Tom Aspinall had surgery on both of his eyes Tuesday as he continues to make his way back from a pair of eye pokes suffered during an October fight.",
+         "description" : "Super Rugby Pacific returns this Friday and there are some huge omissions for Round 1 right across the board. We have it all covered here!",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/mma/story/_/id/47891409/ufc-champion-tom-aspinall-undergoes-surgery-eyes",
-         "pubDate" : "Tue, 10 Feb 2026 19:06:15",
-         "title" : "UFC's Aspinall undergoes surgery on both eyes"
+         "link" : "https://www.espn.com/rugby/story/_/id/47871256/super-rugby-teams-round-1-lineups-tips-odds-fantasy-injuries-everything-need-know-weekend",
+         "pubDate" : "Tue, 10 Feb 2026 22:54:41",
+         "title" : "Super Rugby R1: Test stars absent in Aus, NZ"
       },
       {
-         "description" : "On Wednesday at the Winter Olympics, Chloe Kim makes her debut in Milano Cortina while Evan Bates and Madison Chock skates for gold in Ice Dance -- Free Dance.",
+         "description" : "Star opener Abhishek Sharma a potential doubt for India's second T20 World Cup 2026 game - against Namibia - on Thursday after being admitted to a Delhi hospital",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/olympics/story/_/id/47891255/2026-milan-cortina-italy-winter-olympics-best-moments-wednesday",
-         "pubDate" : "Tue, 10 Feb 2026 19:03:51",
-         "title" : "2026 Winter Olympics: Chloe Kim makes debut, gold on line in Ice Dance and more"
+         "link" : "https://www.espn.com/cricket/story/_/id/47892842/t20-world-cup-2026-india-opener-abhishek-sharma-hospital-stomach-issue",
+         "pubDate" : "Tue, 10 Feb 2026 22:48:17",
+         "title" : "Abhishek Sharma hospitalised with stomach issue"
       },
       {
-         "description" : "Their long-brewing partnership finally detonated on the big stage, flattening UAE in 76 minutes in Chennai",
+         "description" : "Here are all the updates from Indian sports on February 11, 2026.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/cricket/story/_/id/47888554/new-zealand-bash-brothers-tim-seifert-finn-allen-turn-t20-world-cup",
-         "pubDate" : "Tue, 10 Feb 2026 18:52:13",
-         "title" : "The Seifert and Allen show: New Zealand's Bash Brothers turn it on in Chennai"
+         "link" : "https://www.espn.com/espn/story/_/id/47887285/india-take-belgium-hockey-pro-league-asian-shooting-championships-continue-indian-sports-live-february-11",
+         "pubDate" : "Tue, 10 Feb 2026 22:39:43",
+         "title" : "India take on Belgium in hockey Pro League; Asian Shooting Championships continue: Indian Sports LIVE, February 11"
       },
       {
-         "description" : "There are no quick fixes, but after Tottenham's 2-1 loss to Newcastle, it's fair to wonder how long they can continue with Thomas Frank at the helm.",
+         "description" : "There are slow balls and then there's the moonball. The England allrounder tells us about his seriously pace-deficient delivery",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/soccer/story/_/id/47890674/has-run-frank-spurs-loss-puts-relegation-fight",
-         "pubDate" : "Tue, 10 Feb 2026 18:48:44",
-         "title" : "Has time run out for Frank? Spurs' latest loss puts him in unprecedented danger"
-      },
-      {
-         "description" : "Big names make the top 20 short list, including seven underclassmen and two players from Texas Tech.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/mens-college-basketball/story/_/page/menswoodenaward02102026/mens-college-basketball-2026-wooden-award-late-midseason-top-20-short-list",
-         "pubDate" : "Tue, 10 Feb 2026 18:39:39",
-         "title" : "Boozer, Dybantsa, Peterson, Wilson on men's Wooden Award short list"
+         "link" : "https://www.espn.com/cricket/story/_/id/47892932/sam-curran-talks-ultra-slow-delivery-moon-ball",
+         "pubDate" : "Tue, 10 Feb 2026 22:35:40",
+         "title" : "Moonstruck: Sam Curran's new delivery creeps up on you"
       },
       {
          "description" : "In this \"Best Games of 2025\" episode, Lilit Mkrtchian takes us through a deeply instructive win from the Tegernsee tournament, showing her full ChessBase-style preparation workflow and how she chose an offbeat setup to get her opponent out of comfort early. The lesson then turns into a masterclass on positional pressure: exploiting the weakened d5-square, improving pieces step by step, and using concrete calculation to avoid tempting but incorrect tactics. The game finishes with clean technique-converting a queenside advantage and a dangerous passed a-pawn-while the big takeaway is clear: smart prep + strong squares + not spoiling a better position wins games.",
