@@ -2,84 +2,124 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "TENTATIVE NATIONAL CALENDAR -2026-27 Sl No No Event State Date 1 National Under-7 Maharashtra 07-11 June 2026 2 National Under-09 Jharkhand 05-11 July 2026 3",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/tentative-national-calendar-for-2026-27/",
-         "pubDate" : "Wed, 11 Feb 2026 06:37:58",
-         "title" : "TENTATIVE NATIONAL CALENDAR FOR 2026-27"
+         "description" : "With ChessBase '26, ChessBase presents a new version of its long-standing database software, which is less about minor improvements and more about a strategic further development of the entire system. For decades, ChessBase has been the benchmark for professional chess databases, opening preparation, opponent analysis, and game management at the highest level. In this review, Lukas K&ouml;pl focuses on the new features of the current version and examines them from the perspective of a player and trainer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-chessbase-26-the-beginning-of-a-new-era",
+         "pubDate" : "Wed, 11 Feb 2026 14:21:22",
+         "title" : "Review: ChessBase&acute;26 - The beginning of a new era"
       },
       {
-         "description" : "Marseille head coach Roberto De Zerbi has left the club following their 5-0 defeat to Paris Saint Germain on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/soccer/story/_/id/47894174/roberto-de-zerbi-leaves-marseille-5-0-loss-paris-saint-germain",
-         "pubDate" : "Wed, 11 Feb 2026 02:25:03",
-         "title" : "De Zerbi leaves Marseille after 5-0 loss to PSG"
+         "description" : " The U.S. Chess Capital welcomes elite players for a high-stakes, double-elimination tournament competing for $400,000 in Prizes SAINT LOUIS, February 11, 2026 The 2026 American Cup, hosted by the Saint Louis Chess Club (STLCC) at its newly expanded and recently reopened facility, will return March 2-13, 2026, continuing its tradition as one of the [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-announces-2026-american-cup-fields/\">Saint Louis Chess Club Announces 2026 American Cup Fields</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-announces-2026-american-cup-fields/",
+         "pubDate" : "Wed, 11 Feb 2026 13:52:44",
+         "title" : "Saint Louis Chess Club Announces 2026 American Cup Fields"
       },
       {
-         "description" : "AUS vs IRE Live, T20 World Cup 2026 - &agrave; § á&agrave; § ∏ &agrave; § Æ&agrave; • à&agrave; § ö &agrave; § ï&agrave; • Ä &agrave; § ≤&agrave; § æ&agrave; § á&agrave; § µ &agrave; § Ö&agrave; § ™&agrave; § °&agrave; • á&agrave; § ü &agrave; § Ø&agrave; § π&agrave; § æ&agrave; § Ç &agrave; § ¶&agrave; • á&agrave; § ñ&agrave; • á&agrave; § Ç",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/cricket/story/_/id/47894231/aus-vs-ire-live-t20-world-cup-2026-mitchell-marsh-paul-stirling",
-         "pubDate" : "Wed, 11 Feb 2026 02:23:58",
-         "title" : "AUS vs IRE Live, T20 World Cup 2026: &agrave; § Ü&agrave; § Ø&agrave; § ∞&agrave; § ≤&agrave; • à&agrave; § Ç&agrave; § ° &agrave; § ï&agrave; • á &agrave; § ñ&agrave; § º&agrave; § ø&agrave; § ≤&agrave; § æ&agrave; § ´&agrave; § º &agrave; § Ö&agrave; § ≠&agrave; § ø&agrave; § Ø&agrave; § æ&agrave; § ® &agrave; § ∂&agrave; • Å&agrave; § ∞&agrave; • Ç &agrave; § ï&agrave; § ∞&agrave; • á&agrave; § ó&agrave; • Ä &agrave; § ë&agrave; § ∏&agrave; • ç&agrave; § ü&agrave; • ç&agrave; § ∞&agrave; • á&agrave; § ≤&agrave; § ø&agrave; § Ø&agrave; § æ"
+         "description" : "The English Chess Federation is pleased to announce that Agnieszka Milewska, ECF Director of Women's Chess, has been reappointed as a Continental Ambassador for Europe by the FIDE Commission for...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/agnieszka-milewska-reappointed-as-fide-continental-ambassador/",
+         "pubDate" : "Wed, 11 Feb 2026 11:24:14",
+         "title" : "Agnieszka Milewska Reappointed as FIDE Continental Ambassador"
       },
       {
-         "description" : "Formula 1's preseason kicks into overdrive with the first of two tests in Bahrain this week, and you can follow all the action live with ESPN.",
+         "description" : "Garrett and Kim had a hilarious debate over which of them was more dominant in their respective sport.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/f1/story/_/id/47888006/f1-testing-live-latest-updates-bahrain-mercedes-ferrari-mclaren-red-bull-day-commentary-results-lewis-hamilton-max-verstappen-lando-norris",
-         "pubDate" : "Wed, 11 Feb 2026 02:20:57",
-         "title" : "F1 testing LIVE: Latest updates as Mercedes, Ferrari, McLaren, Red Bull vie for superiority in Bahrain"
-      },
-      {
-         "description" : "Team GB heads into the 2026 Winter Olympics in Milan-Cortina with a mix of proven stars and exciting young talent, ready to challenge for medals across multiple disciplines.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/olympics/story/_/id/47669613/team-gb-2026-winter-olympics-best-ever-win-medals-milan-cortina-squad-guide-torvill-dean",
-         "pubDate" : "Wed, 11 Feb 2026 02:11:05",
-         "title" : "Team GB's best Winter Olympics ever? Top 2026 medal hopes, full squad ft. 'new Torvill and Dean'"
+         "link" : "https://www.espn.com/olympics/story/_/id/47895853/chloe-kim-myles-garrett-2026-olympics-milan-snowboarding-cleveland-browns",
+         "pubDate" : "Wed, 11 Feb 2026 09:17:48",
+         "title" : "Myles Garrett on hand to support girlfriend Chloe Kim's Olympic gold medal run"
       },
       {
          "description" : "Follow LIVE updates as India take on Belgium in the Men's FIH Pro League 2025-26.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/field-hockey/story/_/id/47893836/india-vs-belgium-live-fih-mens-pro-league-scores-updates-commentary-news",
-         "pubDate" : "Wed, 11 Feb 2026 02:04:59",
-         "title" : "India vs Belgium LIVE at FIH Men's Pro League: scores, updates, commentary, news"
+         "pubDate" : "Wed, 11 Feb 2026 09:09:48",
+         "title" : "LIVE: India vs Belgium in the FIH Men's Pro League"
       },
       {
-         "description" : "&agrave; § ∏&agrave; § æ&agrave; § â&agrave; § • &agrave; § Ö&agrave; § ´&agrave; § º&agrave; • ç&agrave; § ∞&agrave; • Ä&agrave; § ï&agrave; § æ &agrave; § ï&agrave; • á &agrave; § ≤&agrave; § ø&agrave; § è &agrave; § Æ&agrave; • à&agrave; § ö &agrave; § ú&agrave; • Ä&agrave; § §&agrave; § ®&agrave; • á &agrave; § ï&agrave; • á &agrave; § ¨&agrave; § æ&agrave; § ¶ &agrave; § Ü&agrave; § ∏&agrave; § æ&agrave; § ® &agrave; § π&agrave; • ã &agrave; § ú&agrave; § æ&agrave; § è&agrave; § ó&agrave; § æ &agrave; § ∞&agrave; § æ&agrave; § ∏&agrave; • ç&agrave; § §&agrave; § æ",
+         "description" : "Four years ago, Brittany Bowe gave up her 500m spot -- and Erin Jackson went on to win gold. Both are back in 2026, with new Olympic goals.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/cricket/story/_/id/47892813/t20-world-cup-afg-vs-sa-live-do-die-situation-afghanistan",
-         "pubDate" : "Wed, 11 Feb 2026 01:49:51",
-         "title" : "T20 World Cup AFG vs SA live: &agrave; § Ö&agrave; § ´&agrave; § º&agrave; § ó&agrave; § º&agrave; § æ&agrave; § ®&agrave; § ø&agrave; § ∏&agrave; • ç&agrave; § §&agrave; § æ&agrave; § ® &agrave; § ï&agrave; • á &agrave; § ≤&agrave; § ø&agrave; § è &agrave; § ï&agrave; § ∞&agrave; • ã &agrave; § Ø&agrave; § æ &agrave; § Æ&agrave; § ∞&agrave; • ã &agrave; § Æ&agrave; • Å&agrave; § ï&agrave; § º&agrave; § æ&agrave; § ¨&agrave; § ≤&agrave; § æ"
+         "link" : "https://www.espn.com/olympics/story/_/id/47891591/2026-winter-olympics-brittany-bowe-erin-jackson-speedskating",
+         "pubDate" : "Wed, 11 Feb 2026 09:09:16",
+         "title" : "Erin Jackson and Brittany Bowe's bond brings them back to the Olympics"
       },
       {
-         "description" : "BCB sports adviser Asif Nazrul had said on several occasions in the past that the BCB had only followed the Bangladesh government's orders",
+         "description" : "The South Africa spinner said he had wanted the hot seat in the thrilling finish against Afghanistan in Ahmedabad",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/cricket/story/_/id/47893996/t20-world-cup-2026-asif-nazrul-now-says-decision-not-travel-india-was-bcbs-not-bangladesh-governments",
-         "pubDate" : "Wed, 11 Feb 2026 01:41:23",
-         "title" : "Nazrul U-turn: T20 World Cup decision made by 'BCB and players', not government"
+         "link" : "https://www.espn.com/cricket/story/_/id/47896120/sa-vs-afg-t20-world-cup-keshav-maharaj-wanted-bowl-super-over",
+         "pubDate" : "Wed, 11 Feb 2026 09:07:38",
+         "title" : "Keshav Maharaj: 'I wanted to bowl the Super Over'"
       },
       {
-         "description" : "Jose Quintana, embarking on his 15th major league season, gives the Rockies another veteran pitcher.",
+         "description" : "Formula 1's preseason kicks into overdrive with the first of two tests in Bahrain this week, and you can follow all the action live with ESPN.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/mlb/story/_/id/47893824/sources-rockies-agree-jose-quintana-one-year-deal",
-         "pubDate" : "Wed, 11 Feb 2026 01:18:19",
-         "title" : "Sources: Rockies add Quintana on 1-year deal"
+         "link" : "https://www.espn.com/f1/story/_/id/47888006/f1-testing-live-latest-updates-bahrain-mercedes-ferrari-mclaren-red-bull-day-commentary-results-lewis-hamilton-max-verstappen-lando-norris",
+         "pubDate" : "Wed, 11 Feb 2026 08:59:49",
+         "title" : "F1 testing LIVE: Max Verstappen fastest at lunch as Lewis Hamilton, Williams get on track in Bahrain"
       },
       {
-         "description" : "Star opener Abhishek Sharma a potential doubt for India's second T20 World Cup 2026 game - against Namibia - on Thursday after being admitted to a Delhi hospital",
+         "description" : "Oman batter Vinayak Shukla says the mood in the camp is \"pretty light\" as they look to bounce back from the heavy loss against Zimbabwe",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/cricket/story/_/id/47892842/t20-world-cup-2026-india-opener-abhishek-sharma-hospital-stomach-issue",
-         "pubDate" : "Wed, 11 Feb 2026 01:10:04",
-         "title" : "Abhishek Sharma hospitalised with stomach issue"
+         "link" : "https://www.espn.com/cricket/story/_/id/47896595/t20-world-cup-2026-one-bad-game-define-oman-remain-upbeat-sl-clash",
+         "pubDate" : "Wed, 11 Feb 2026 08:55:14",
+         "title" : "'One bad game doesn't define you' - Oman remain upbeat for SL clash"
+      },
+      {
+         "description" : "The college basketball version of the new NBA All-Star format features elite talent, including 11 freshmen.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/mens-college-basketball/story/_/id/47888815/building-mens-college-basketball-version-team-usa-vs-world-rosters",
+         "pubDate" : "Wed, 11 Feb 2026 08:40:45",
+         "title" : "USA vs. the World: men's college basketball edition"
+      },
+      {
+         "description" : "Lewis Hamilton has revealed his Ferrari race engineer will change for a second time early in the 2026 season, saying he expects the lack of stability to be \"detrimental\".",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/f1/story/_/id/47896372/lewis-hamilton-confirms-more-engineer-changes-detrimental-f1-season",
+         "pubDate" : "Wed, 11 Feb 2026 08:38:59",
+         "title" : "Hamilton confirms 'detrimental' engineer change"
+      },
+      {
+         "description" : "The Carter effect helped popularize the NBA in Canada. The Tempo hope to similarly supercharge women's basketball.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/wnba/story/_/id/47891749/wnba-toronto-tempo-expansion-2026-canada-team",
+         "pubDate" : "Wed, 11 Feb 2026 08:36:50",
+         "title" : "How WNBA's expansion Tempo are working to become 'Canada's team' and unify country"
+      },
+      {
+         "description" : "Luke Wood and Matthew Forde miss out for England and WI respectively",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/cricket/story/_/id/47896421/t20-world-cup-england-vs-west-indies-eng-vs-wi-jamie-overton-roston-chase-return-xis-mumbai",
+         "pubDate" : "Wed, 11 Feb 2026 08:33:59",
+         "title" : "England bowl first and bring in J Overton, WI include Chase"
+      },
+      {
+         "description" : "Baylor, up five spots in our rankings, is once again atop the Big 12, with WVU, Texas Tech and TCU not far behind.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/womens-college-basketball/story/_/id/47890277/womens-college-basketball-2025-2026-power-rankings-big-12-baylor-texas-tech-wvu-tcu",
+         "pubDate" : "Wed, 11 Feb 2026 08:33:25",
+         "title" : "Women's Power Rankings: A big week for the top of the Big 12"
+      },
+      {
+         "description" : "TENTATIVE NATIONAL CALENDAR -2026-27 Sl No No Event State Date 1 National Under-7 Maharashtra 07-11 June 2026 2 National Under-09 Jharkhand 05-11 July 2026 3",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/tentative-national-calendar-for-2026-27/",
+         "pubDate" : "Wed, 11 Feb 2026 06:37:58",
+         "title" : "TENTATIVE NATIONAL CALENDAR FOR 2026-27"
       },
       {
          "description" : "In this \"Best Games of 2025\" episode, Lilit Mkrtchian takes us through a deeply instructive win from the Tegernsee tournament, showing her full ChessBase-style preparation workflow and how she chose an offbeat setup to get her opponent out of comfort early. The lesson then turns into a masterclass on positional pressure: exploiting the weakened d5-square, improving pieces step by step, and using concrete calculation to avoid tempting but incorrect tactics. The game finishes with clean technique-converting a queenside advantage and a dangerous passed a-pawn-while the big takeaway is clear: smart prep + strong squares + not spoiling a better position wins games.",
@@ -118,7 +158,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-finals-7-conclusions",
-         "pubDate" : "Tue, 10 Feb 2026 09:36:50",
+         "pubDate" : "Tue, 10 Feb 2026 09:36:00",
          "title" : "2025 Speed Chess Championship Finals - 7 Conclusions"
       },
       {
@@ -800,38 +840,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/niemann-and-abdusattorov-lead-the-tata-steel-masters-with-34",
          "pubDate" : "Wed, 21 Jan 2026 14:53:00",
          "title" : "Niemann and Abdusattorov lead the Tata Steel Masters with 3/4 - 4"
-      },
-      {
-         "description" : "Saturday 14th and Sunday 15th March at the&#160;Holiday Inn Peterborough - West,&#160;Thorpe Wood, Peterborough, PE3 6SG. One FIDE rated OPEN section, with a prize fund of at least &pound;6,500.&#160;GMs/WGMs and...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-rapidplay-championship-2026/",
-         "pubDate" : "Wed, 21 Jan 2026 12:25:53",
-         "title" : "British Rapidplay Championship 2026"
-      },
-      {
-         "description" : "The ECF is proud to launch a new event, the International Series, which is designed to encourage players aspiring to play for England in its international teams to participate in...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-international-series-2026-launch/",
-         "pubDate" : "Wed, 21 Jan 2026 12:25:26",
-         "title" : "ECF International Series 2026 - launch"
-      },
-      {
-         "description" : "The inaugural English Youth Championship will be held on March 7-8, 2026 at Nottingham High School, and is aimed at selecting England Open and Girls to play in 2026 World...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/inaugural-english-youth-championships/",
-         "pubDate" : "Wed, 21 Jan 2026 12:25:23",
-         "title" : "Inaugural English Youth Championships 2026"
-      },
-      {
-         "description" : "Article and photographs by Yury Krylov, ECF Home Chess Development Director Sunday 18 January marked the return of the ECF's flagship schools rapidplay team event, once again very generously hosted...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/the-ecf-schools-team-rapidplay-a-celebration-of-team-chess-at-eton/",
-         "pubDate" : "Wed, 21 Jan 2026 12:18:19",
-         "title" : "The ECF Schools Team Rapidplay: A Celebration of Team Chess at Eton"
       }
    ]
 }
