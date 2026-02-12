@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128256518.cms\" />Indian chess legend Koneru Humpy will play Norway Chess Women for the third time from May 25 to June 5 in Oslo, expressing excitement about the competition and atmosphere. A trailblazer, she became India's first female Grandmaster at 15 and crossed 2600 Elo in 2007. A two-time Women's World Rapid Champion, she qualified for the 2026 Candidates.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-legend-confirms-participation-for-norway-chess-women-2026-event/articleshow/128256518.cms",
+         "pubDate" : "Thu, 12 Feb 2026 12:20:43",
+         "title" : "Indian chess legend confirms participation for Norway Chess Women"
+      },
+      {
+         "description" : "This episode explains how to add annotation symbols and evaluation marks to your analysed games in ChessBase using the Insert tab, quick-access menus, keyboard shortcuts, and the notation pane. It also shows how to insert, edit, or delete text comments before or after moves, helping you personalize your analysis and clearly express your ideas.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-tips-for-beginners-annotations",
+         "pubDate" : "Thu, 12 Feb 2026 11:11:35",
+         "title" : "ChessBase tips for beginners - Annotations"
+      },
+      {
          "description" : "We are inviting nominations for the BCET Awards 2026 (administered by The Chess Trust) which are for junior schools (including colleges and other education establishments) and junior clubs in the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
