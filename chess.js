@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We are inviting nominations for the BCET Awards 2026 (administered by The Chess Trust) which are for junior schools (including colleges and other education establishments) and junior clubs in the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-chess-educational-trust-awards-2026/",
+         "pubDate" : "Thu, 12 Feb 2026 08:19:16",
+         "title" : "British Chess Educational Trust Awards 2026"
+      },
+      {
+         "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the additional players and accompanying persons are required to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/commonwealth-chess-championship-2026-27-in-kaluthara-sri-lanka-from-16th-to-26th-may-2026/",
+         "pubDate" : "Thu, 12 Feb 2026 07:13:20",
+         "title" : "Commonwealth Chess Championship - 2026 - 27 in Kaluthara, Sri Lanka from 16th to 26th May, 2026."
+      },
+      {
+         "description" : "GM Suleymenov Alisher of Kazkhastan crowned the First Chola Chess International Grandmaster Round Robin Chess Tournament- 2026 supported by Chess Gurukul today at Chola Chess,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/gm-suleymenov-alisher-clinches-title-at-the-1st-chola-chess-international-grandmaster-round-robin-tournament-2026/",
+         "pubDate" : "Thu, 12 Feb 2026 06:24:32",
+         "title" : "GM Suleymenov Alisher Clinches Title at the 1st Chola Chess International Grandmaster Round Robin Tournament 2026."
+      },
+      {
          "description" : "Jonathan Hawkins followed an uncommon route to the top of English chess. From a club player rated around 1800 in his late teens, he became a grandmaster, two-time British champion and author of \"Amateur to IM\", a book widely read among players seeking insight into long-term improvement. He later devoted much of his time to coaching, working with emerging talents such as Bodhana Sivanandan. Diagnosed with neuroendocrine carcinoma, he died on 22 December 2025 at 42, only months after his diagnosis. | Photo: English Chess Federation / John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
