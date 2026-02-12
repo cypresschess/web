@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Jonathan Hawkins followed an uncommon route to the top of English chess. From a club player rated around 1800 in his late teens, he became a grandmaster, two-time British champion and author of \"Amateur to IM\", a book widely read among players seeking insight into long-term improvement. He later devoted much of his time to coaching, working with emerging talents such as Bodhana Sivanandan. Diagnosed with neuroendocrine carcinoma, he died on 22 December 2025 at 42, only months after his diagnosis. | Photo: English Chess Federation / John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-jonathan-hawkins",
+         "pubDate" : "Thu, 12 Feb 2026 01:30:00",
+         "title" : "Remembering Jonathan Hawkins (1983-2025): Adult improver, two-time British champion"
+      },
+      {
          "description" : "Montevideo hosted the 9th Ciudad de Montevideo Open, the Antel Cup, as part of its annual chess festival, attracting 79 players and 27 titled participants. Second seed Brandon Jacobson (pictured, right) claimed clear first place with 7&frac12;/9, remaining undefeated throughout the nine rounds. A key round-six win over top seed Johan-Sebastian Christiansen (pictured, left) proved decisive. Christiansen and 22-time Uruguayan champion Bernardo Roselli completed the podium. | Photo: Antel Cup",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
