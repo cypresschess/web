@@ -688,14 +688,6 @@ news_feed (
          "link" : "https://www.europechess.org/press-release-european-chess-super-league-2027-announced/",
          "pubDate" : "Thu, 22 Jan 2026 13:14:44",
          "title" : "Press Release: European Chess Super League 2027 Announced"
-      },
-      {
-         "description" : " The leaders Hans Moke Niemann and Nodirbek Abdusattorov met in the fifth round of the Tata Steel Masters and drew allowing Javokhir Sindarov to join them in the lead. There were four decisive games with Vladimir Fedoseev beating Arjun Erigaisi, top seed Vincent Keymer got back to 50% with a win over Chithambaram Aravindh, Gukesh scored his first win when he defeated Thai Dai Van Nguyen. Jorden van Foreest drew with Matthias Bluebaum and Praggnanandhaa drew with Anish Giri. In the Challengers leader Aydin Suleymanli drew with Max Warmerdam allowing 12 year old Faustino Oro and Andy Woodward to join him on 4/5. The game file has two annotated games by Michiel Abeln based on player comments an",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/niemann-sindarov-and-abdusattorov-lead-the-tata-steel-masters-on-3.55-going-into-the-first-rest-day",
-         "pubDate" : "Wed, 21 Jan 2026 22:31:00",
-         "title" : "Niemann, Sindarov and Abdusattorov lead the Tata Steel Masters on 3.5/5 going into the first rest day - 5"
       }
    ]
 }
