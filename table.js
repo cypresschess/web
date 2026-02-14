@@ -1,4 +1,7 @@
 jtable([
+"SPRING","2026-02-13","31","<a href=https://ratings.uschess.org/event/202602130173 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2026-02-13","15","<a href=https://ratings.uschess.org/event/202602130153 target='_blank'>FBCC 2026 Chuck Yeager's Birthday Open</a>",
+"CYPRESS","2026-02-13","35","<a href=https://ratings.uschess.org/event/202602130123 target='_blank'>KNIGHTS OF CYPRESS (TX)</a>",
 "HOUSTON","2026-02-08","39","<a href=https://ratings.uschess.org/event/202602080753 target='_blank'>$2,500 FEBRUARY CHAMPIONSHIP</a>",
 "HOUSTON","2026-02-08","8","<a href=https://ratings.uschess.org/event/202602080243 target='_blank'>Bellaire Sunday Swiss 2026.02.08</a>",
 "SUGAR LAND","2026-02-07","11","<a href=https://ratings.uschess.org/event/202602071043 target='_blank'>winter-02-07-2026</a>",
@@ -96,7 +99,4 @@ jtable([
 "HOUSTON","2025-11-09","219","<a href=https://ratings.uschess.org/event/202511090673 target='_blank'>2025 Houston Open Chess Championshi</a>",
 "HOUSTON","2025-11-09","15","<a href=https://ratings.uschess.org/event/202511090303 target='_blank'>Bellaire Sunday Swiss 2025.11.09</a>",
 "HOUSTON","2025-11-08","22","<a href=https://ratings.uschess.org/event/202511081333 target='_blank'>2025 Houston Open Blitz</a>",
-"KATY","2025-11-08","67","<a href=https://ratings.uschess.org/event/202511081323 target='_blank'>Aristoi Fall Classic 2025</a>",
-"CYPRESS","2025-11-07","40","<a href=https://ratings.uschess.org/event/202511070343 target='_blank'>KNIGHTS OF CYPRESS (TX)</a>",
-"SPRING","2025-11-07","13","<a href=https://ratings.uschess.org/event/202511070233 target='_blank'>THE FRIDAY KNIGHTS -2</a>",
 ]);
