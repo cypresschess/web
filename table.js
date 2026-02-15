@@ -1,4 +1,7 @@
 jtable([
+"TOMBALL","2026-02-14","15","<a href=https://ratings.uschess.org/event/202602140343 target='_blank'>TOMBALL CHESS TOURNAMENT</a>",
+"HOUSTON","2026-02-14","7","<a href=https://ratings.uschess.org/event/202602140303 target='_blank'>FEB 14TH TROPHY SCHOLASTIC</a>",
+"HOUSTON","2026-02-14","10","<a href=https://ratings.uschess.org/event/202602140253 target='_blank'>chesspanda02142026saturday</a>",
 "SPRING","2026-02-13","31","<a href=https://ratings.uschess.org/event/202602130173 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2026-02-13","15","<a href=https://ratings.uschess.org/event/202602130153 target='_blank'>FBCC 2026 Chuck Yeager's Birthday Open</a>",
 "CYPRESS","2026-02-13","35","<a href=https://ratings.uschess.org/event/202602130123 target='_blank'>KNIGHTS OF CYPRESS (TX)</a>",
@@ -96,7 +99,4 @@ jtable([
 "SUGAR LAND","2025-11-14","20","<a href=https://ratings.uschess.org/event/202511140223 target='_blank'>FBCC 2025 International Girl's Day Open</a>",
 "CYPRESS","2025-11-14","35","<a href=https://ratings.uschess.org/event/202511140213 target='_blank'>Knights of Cypress</a>",
 "PASADENA","2025-11-14","18","<a href=https://ratings.uschess.org/event/202511140073 target='_blank'>Checkmates on Fairmont</a>",
-"HOUSTON","2025-11-09","219","<a href=https://ratings.uschess.org/event/202511090673 target='_blank'>2025 Houston Open Chess Championshi</a>",
-"HOUSTON","2025-11-09","15","<a href=https://ratings.uschess.org/event/202511090303 target='_blank'>Bellaire Sunday Swiss 2025.11.09</a>",
-"HOUSTON","2025-11-08","22","<a href=https://ratings.uschess.org/event/202511081333 target='_blank'>2025 Houston Open Blitz</a>",
 ]);
