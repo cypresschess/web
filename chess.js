@@ -2,6 +2,174 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The FIDE Freestyle Chess World Championship took place in Wangels, Germany, Fri 13th Feb to Sun 15th Feb 2026. Time control 10m+5spm. Round Robin followed by KO. Carlsen won the all-play-all with 4.5/7 half a point clear of Caruana, Keymer and Abdusattorov and they played for the title over the weekend. Aronian, Erigaisi, Niemann and Sindarov played off for the minor placings. Magnus Carlsen beat Fabiano Caruana 2.5-1.5 in the final to win the title, he won game three. The games are available for download but I can't display them. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-freestyle-chess-world-championship-2026",
+         "pubDate" : "Sun, 15 Feb 2026 21:05:00",
+         "title" : "FIDE Freestyle Chess World Championship 2026 - Games and Results"
+      },
+      {
+         "description" : "The FIDE Freestyle Chess World Championship is taking place on 13-15 February at the Weissenhaus resort. Eight players have qualified through the 2025 Grand Slam Tour and online competition. In Sunday's finals, Magnus Carlsen and Fabiano Caruana battle to become the Freestyle Chess world champion. | Follow the games live with expert commentary starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-wc-2026-live",
+         "pubDate" : "Sun, 15 Feb 2026 14:45:00",
+         "title" : "Freestyle Chess World Championship - Live!"
+      },
+      {
+         "description" : "Converting a winning position is one of the toughest skills in chess. Many players build an advantage only to see it slip away at the final stage. This article looks at how Andy Woodward mastered this crucial aspect of the game. From solving endgame studies at a young age to relying on classic chess books, Andy built strong technique, calculation, and patience. These skills played a key role in his Tata Steel Challengers 2026 win. This article offers valuable lessons for players at every level. | Photo: Tata Steel Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/books-that-helped-andy-woodward",
+         "pubDate" : "Sun, 15 Feb 2026 13:25:00",
+         "title" : "Books that helped Andy Woodward convert winning positions"
+      },
+      {
+         "description" : "GM Magnus Carlsen survived and then won a dead-lost position against GM Fabiano Caruana on the way to a 2.5-1.5 victory in the 2026 FIDE Freestyle Chess World Championship Final. A nervous draw in the final game means Carlsen is the Rapid, Blitz, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-freestyle-chess-world-championship-final",
+         "pubDate" : "Sun, 15 Feb 2026 12:25:25",
+         "title" : "Carlsen Stuns Caruana To Win 21st World Championship Title"
+      },
+      {
+         "description" : "We have a new author at ChessBase: Harshit Raja. And the Indian grandmaster is ambitious - he offers a complete 1.d4-repertoire! In addition, new episodes of Ivan Sokolov's Middlegame Strategy series were released in January, and ChessBase Magazine fans can look forward to CBM Extra #229, packed with a rich \"Lucky Bag\". | All photos: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-new-releases-in-january",
+         "pubDate" : "Sun, 15 Feb 2026 07:00:00",
+         "title" : "Review: New releases in January!"
+      },
+      {
+         "description" : "The second day of action at the FIDE Freestyle Chess World Championship in Weissenhaus saw the start of the knockout phase, with the two semifinal matches deciding who will compete for the 2026 title. Magnus Carlsen and Fabiano Caruana emerged victorious and will meet in Sunday's final. In addition to a world title, a place in the 2027 FIDE Freestyle Chess World Championship has already been secured by both finalists. | Photo: Freestyle Chess / Carlotta Wessel",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-wc-2026-2",
+         "pubDate" : "Sun, 15 Feb 2026 03:50:00",
+         "title" : "Weissenhaus: Carlsen to battle Caruana for world title on Sunday"
+      },
+      {
+         "description" : "Peruvian IM Renato Terry was crowned as a first-time Bullet Brawl victor on Saturday after he overcame a strong start from GM Oleksandr Bortnyk and posted a winning score of 147. Terry, who is just the third non-GM to win an edition of Bullet Br...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/renato-terry-wins-bullet-brawl-feb-14-2026",
+         "pubDate" : "Sat, 14 Feb 2026 19:13:00",
+         "title" : "Terry Fends Off Bortnyk, Secures 1st Bullet Brawl Title"
+      },
+      {
+         "description" : "Let me be very honest: I don't really care if you gain 200 rating points this year. I've stopped caring about pure rating gains, both for me and my students, long ago. Most people think I'm crazy for saying this as a coach. But after years as a professional and now as a Coach, I've []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/chess-and-character-building/",
+         "pubDate" : "Sat, 14 Feb 2026 14:00:00",
+         "title" : "Are You a Chess Player or a Gambler?"
+      },
+      {
+         "description" : "GM Magnus Carlsen will face his great rival GM Fabiano Caruana in Sunday&#39;s match for the 2026 FIDE Freestyle Chess World Championship title. Carlsen won the final two games against GM Nodirbek Abdusattorov to clinch a 3-1 victory, while Caruana su...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-freestyle-chess-world-championship-semis",
+         "pubDate" : "Sat, 14 Feb 2026 12:43:00",
+         "title" : "Caruana To Play Carlsen For FIDE Freestyle Chess World Championship Title"
+      },
+      {
+         "description" : "AVE CHESS z.s., the Czech Chess Federation and the European Chess Union have the honour to invite all European Chess Federations to participate in the EUROPEAN YOUTH TEAM CHESS CHAMPIONSHIP 2026 organised in Pardubice, Czech Republic from 25th July (arrival) to 2nd August (departure) 2026. The event will be played in two age categories: U12, and U18, open and girls sections separately. The playing members of the teams shall not have reached the age of 12 or 18, depending on []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2026-official-regulations/",
+         "pubDate" : "Sat, 14 Feb 2026 10:58:44",
+         "title" : "European Youth Team Chess Championship 2026 - Official regulations"
+      },
+      {
+         "description" : "&#160; Few players earn enough respect to have a memorial tournament named in their honour. Some world champions, official and unofficial, have achieved this distinction-Staunton, Capablanca, Alekhine, Euwe, Botvinnik-but only a handful of non-champions have registered on this particular seismic scale. Robert (\"Bob\") Wade, who died in 2008 aged 87, has now joined that select []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/in-memory-of-bob-wade/",
+         "pubDate" : "Sat, 14 Feb 2026 10:07:46",
+         "title" : "In memory of Bob Wade"
+      },
+      {
+         "description" : "Seven of the world&#39;s leading players have published an open letter expressing frustration about a scheduling conflict in August between this year&#39;s Grand Chess Tour and the Esports World Cup. The letter, signed by GMs Maxime Vachier-Lagrave, Lev...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/top-players-issue-open-letter-over-2026-calendar-clash",
+         "pubDate" : "Sat, 14 Feb 2026 04:55:00",
+         "title" : "Top Players Issue Open Letter Over 2026 Calendar Clash"
+      },
+      {
+         "description" : "The 2026 English Championships will take place between 24 October 1 November at the Holiday Inn Peterborough West, and include Standard, Rapid, Blitz and Seniors Championships. &#160; The...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/the-2026-english-championships/",
+         "pubDate" : "Fri, 13 Feb 2026 15:20:26",
+         "title" : "The 2026 English Championships"
+      },
+      {
+         "description" : "GM Magnus Carlsen scored 4.5/7 to top the Group Stage of the&#38;nbsp;2026 FIDE Freestyle Chess World Championship in Weissenhaus, Germany. He got to pick his opponent in Saturday&#39;s Semifinals, choosing GM Nodirbek Abdusattorov, while GM Vincent Keyme...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-freestyle-chess-world-championship-group-stage",
+         "pubDate" : "Fri, 13 Feb 2026 14:40:00",
+         "title" : "Carlsen Wins Group, Joined By Caruana, Keymer, Abdusattorov In Semifinals"
+      },
+      {
+         "description" : "Twelve-year-old IM Faustino Oro nearly claimed his first victory in 3 0 Thursday on February 12. He led with nine points out of 11 games in the final minute of the tournament, but GM Matthias Bluebaum scored a come-from-behind victory in his own g...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/https-bluebaum-bortnyk-martinez-3-0-thursday-2-12-2026",
+         "pubDate" : "Fri, 13 Feb 2026 14:38:28",
+         "title" : "Oro Shines & Bluebaum, Bortnyk, Martinez Win 3 0 Thursday Tournaments"
+      },
+      {
+         "description" : "GM Haik Martirosyan scored 10.5 points in Freestyle Friday on February 13, the most of anyone since last July. In the process, Martirosyan won the tournament&#38;mdash;his first win ever in this event&#38;mdash;by two whole points. IM Reza Mahdavi, GM Ale...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/martirosyan-wins-freestyle-friday-february-13-2026",
+         "pubDate" : "Fri, 13 Feb 2026 11:37:26",
+         "title" : "Unbeatable Martirosyan Wins First Freestyle Friday"
+      },
+      {
+         "description" : "Participants at the English Youth Championships 2026 can look forward to a series of expert lectures at Nottingham High School on 7-8 March 2026. &#160; The sessions will include: Endgame...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/expert-lectures-at-english-youth-championships-2026/",
+         "pubDate" : "Fri, 13 Feb 2026 10:54:07",
+         "title" : "Expert Lectures at English Youth Championships 2026"
+      },
+      {
+         "description" : " The Norwegian showcased his skills in the chess.com speed championship, but the US star and streamer was twice beaten Magnus Carlsen, the world No 1, visited central London last weekend and won the <a href=\"https://www.chess.com/\">chess.com</a> speed championship for the fourth time in a row. The Norwegian, 35, defeated France's Alireza Firouzja, 22, by 15-12 after a three-hour struggle. Last year in Paris the same two players met, but Carlsen's winning margin was a much wider 23.5-7.5. The format for speed chess is 90 minutes of five-minutes blitz, 60 minutes of three-minutes blitz, and 30 minutes of one minute bullet. All the segments had additional increments of one second per move. <a h",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/feb/13/chess-carlsen-triumphs-in-london-but-nakamura-fails",
+         "pubDate" : "Fri, 13 Feb 2026 08:00:40",
+         "title" : "Chess: Magnus Carlsen triumphs in London speed event but Nakamura fails"
+      },
+      {
+         "description" : "America's most recent member of the 2700 club, GM Awonder Liang, traveled to Sharjah, United Arab Emirates to face off against Emirati GM Salem A.R. Saleh in a six-day match dubbed \"Battle of the Minds,\" which ended Thursday, Feb. 12 with an 8&frac12;-7&frac12; victory for Liang. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Awonder Liang strikes a pose during the early phase of his lengthy theoretical draw against Grigoriy Oparin (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> The format consisted of four rapid games on the first day, followed by one classical game a day for four days, and, finally, four blitz games on the final day. Each rap",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/liang-defeats-salem-wins-battle-minds",
+         "pubDate" : "Fri, 13 Feb 2026 00:00:00",
+         "title" : "Liang Defeats Salem, Wins Battle of Minds"
+      },
+      {
+         "description" : " Robert Hungaski is a chess Grandmaster in Residence at the Saint Louis Chess Club. Explore his journey from first grade to the GM title. The post <a href=\"https://saintlouischessclub.org/news-insights-press/gmr-spotlight-robert-hungaski/\">GRANDMASTER IN RESIDENCE SPOTLIGHT: GM Robert Hungaski</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/gmr-spotlight-robert-hungaski/",
+         "pubDate" : "Thu, 12 Feb 2026 20:28:56",
+         "title" : "GRANDMASTER IN RESIDENCE SPOTLIGHT: GM Robert Hungaski"
+      },
+      {
+         "description" : "The chess world lost one of its stalwarts with the sudden and unexpected passing of Paul Sharratt on 10 February. Paul made an immense contribution in many different ways, particularly...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/remembering-paul-sharratt/",
+         "pubDate" : "Thu, 12 Feb 2026 15:44:35",
+         "title" : "Remembering Paul Sharratt"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128256518.cms\" />Indian chess legend Koneru Humpy will play Norway Chess Women for the third time from May 25 to June 5 in Oslo, expressing excitement about the competition and atmosphere. A trailblazer, she became India's first female Grandmaster at 15 and crossed 2600 Elo in 2007. A two-time Women's World Rapid Champion, she qualified for the 2026 Candidates.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -10,12 +178,12 @@ news_feed (
          "title" : "Indian chess legend confirms participation for Norway Chess Women"
       },
       {
-         "description" : "This episode explains how to add annotation symbols and evaluation marks to your analysed games in ChessBase using the Insert tab, quick-access menus, keyboard shortcuts, and the notation pane. It also shows how to insert, edit, or delete text comments before or after moves, helping you personalize your analysis and clearly express your ideas.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-tips-for-beginners-annotations",
-         "pubDate" : "Thu, 12 Feb 2026 11:11:35",
-         "title" : "ChessBase tips for beginners - Annotations"
+         "description" : "The 2026 FIDE Freestyle Chess World Championship is taking place this weekend in Weissenhaus, Germany, with GM Magnus Carlsen topping an eight-player field featuring GMs Levon Aronian, Fabiano Caruana, Vincent Keymer, Arjun Erigaisi, Javokhir Sind...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-freestyle-chess-world-championship-preview",
+         "pubDate" : "Thu, 12 Feb 2026 11:08:00",
+         "title" : "Can Carlsen Claim Another Title? FIDE Freestyle Chess World Championship Preview"
       },
       {
          "description" : "We are inviting nominations for the BCET Awards 2026 (administered by The Chess Trust) which are for junior schools (including colleges and other education establishments) and junior clubs in the...",
@@ -42,28 +210,12 @@ news_feed (
          "title" : "GM Suleymenov Alisher Clinches Title at the 1st Chola Chess International Grandmaster Round Robin Tournament 2026."
       },
       {
-         "description" : "Jonathan Hawkins followed an uncommon route to the top of English chess. From a club player rated around 1800 in his late teens, he became a grandmaster, two-time British champion and author of \"Amateur to IM\", a book widely read among players seeking insight into long-term improvement. He later devoted much of his time to coaching, working with emerging talents such as Bodhana Sivanandan. Diagnosed with neuroendocrine carcinoma, he died on 22 December 2025 at 42, only months after his diagnosis. | Photo: English Chess Federation / John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-jonathan-hawkins",
-         "pubDate" : "Thu, 12 Feb 2026 01:30:00",
-         "title" : "Remembering Jonathan Hawkins (1983-2025): Adult improver, two-time British champion"
-      },
-      {
-         "description" : "Montevideo hosted the 9th Ciudad de Montevideo Open, the Antel Cup, as part of its annual chess festival, attracting 79 players and 27 titled participants. Second seed Brandon Jacobson (pictured, right) claimed clear first place with 7&frac12;/9, remaining undefeated throughout the nine rounds. A key round-six win over top seed Johan-Sebastian Christiansen (pictured, left) proved decisive. Christiansen and 22-time Uruguayan champion Bernardo Roselli completed the podium. | Photo: Antel Cup",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/antel-cup-2026-final-report",
-         "pubDate" : "Wed, 11 Feb 2026 18:05:00",
-         "title" : "Brandon Jacobson finishes clear first at Antel Cup in Montevideo"
-      },
-      {
-         "description" : "With ChessBase '26, ChessBase presents a new version of its long-standing database software, which is less about minor improvements and more about a strategic further development of the entire system. For decades, ChessBase has been the benchmark for professional chess databases, opening preparation, opponent analysis, and game management at the highest level. In this review, Lukas K&ouml;pl focuses on the new features of the current version and examines them from the perspective of a player and trainer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-chessbase-26-the-beginning-of-a-new-era",
-         "pubDate" : "Wed, 11 Feb 2026 14:21:22",
-         "title" : "Review: ChessBase&acute;26 - The beginning of a new era"
+         "description" : "For the second year in a row, I had the privilege of representing US Chess at US Squash events in Philadelphia, PA at the Arlen Specter Center. As the Director of Programs for US Chess, my job is to build connections between chess and other communities.Last year, squash players and their families flocked to our chess boards between matches, and I've been told by US Squash officials that players have continued to use the boards we donated on a weekly basis.When the center is open for members to drop in, the boards are readily available. I was told that they bring them out during events as well. As squash at the Specter Center continues to grow, chess can be included in academic enrichment pro",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/cross-sport-initiative-squash-chess-court",
+         "pubDate" : "Thu, 12 Feb 2026 00:00:00",
+         "title" : "Cross-Sport Initiative: Squash as Chess on Court"
       },
       {
          "description" : " The U.S. Chess Capital welcomes elite players for a high-stakes, double-elimination tournament competing for $400,000 in Prizes SAINT LOUIS, February 11, 2026 The 2026 American Cup, hosted by the Saint Louis Chess Club (STLCC) at its newly expanded and recently reopened facility, will return March 2-13, 2026, continuing its tradition as one of the [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-announces-2026-american-cup-fields/\">Saint Louis Chess Club Announces 2026 American Cup Fields</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -104,14 +256,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-2025-world-rapid-blitz-pt-6",
          "pubDate" : "Wed, 11 Feb 2026 00:00:00",
          "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 6"
-      },
-      {
-         "description" : "In this \"Best Games of 2025\" episode, Lilit Mkrtchian takes us through a deeply instructive win from the Tegernsee tournament, showing her full ChessBase-style preparation workflow and how she chose an offbeat setup to get her opponent out of comfort early. The lesson then turns into a masterclass on positional pressure: exploiting the weakened d5-square, improving pieces step by step, and using concrete calculation to avoid tempting but incorrect tactics. The game finishes with clean technique-converting a queenside advantage and a dangerous passed a-pawn-while the big takeaway is clear: smart prep + strong squares + not spoiling a better position wins games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lilit-mkrtchian-s-best-games-of-2025-learning-positional-pressure",
-         "pubDate" : "Tue, 10 Feb 2026 15:53:09",
-         "title" : "Lilit Mkrtchian's Best Games of 2025 - Learning positional pressure"
       },
       {
          "description" : "Already a candidate for the World Championship, GM Javokhir Sindarov took steps toward the 2026 Esports World Cup as well on February 10, winning Titled Tuesday with a 10/11 score. Coming in the largest field since September (455), it was his seco...",
@@ -200,14 +344,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-wins-2025-speed-chess-championship-final",
          "pubDate" : "Sun, 08 Feb 2026 16:59:00",
          "title" : "Carlsen Defends 5th SCC Title, Lazavik Upsets Nakamura"
-      },
-      {
-         "description" : " Greetings,On Thursday, February 12, 2026, The Chess Drum will celebrate its 25th anniversary. In the days when social media rules, websites still play a complementary role in delivering content. The Chess Drum has provided a platform for players from an overlooked demographic and will continue this trend. Amidst the change in content creation, it has The post <a href=\"https://thechessdrum.net/blog/2026/02/08/next-week-the-chess-drum-is-25-years/\">Next week, The Chess Drum is 25 years!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2026/02/08/next-week-the-chess-drum-is-25-years/",
-         "pubDate" : "Sun, 08 Feb 2026 13:42:32",
-         "title" : "Next week, The Chess Drum is 25 years!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128066185.cms\" />Chess will debut as an esports title at the Esports Nations Cup 2026 in Riyadh, running November 2-8. The event features 128 players in group and knockout formats, with rapid games and Armageddon tie-breakers. Players qualify via rankings, regional qualifiers, and wildcards. The tournament highlights chess's growing esports presence and global reach, following its successful Esports World Cup debut in 2025.",
@@ -378,14 +514,6 @@ news_feed (
          "title" : "Check is in the Mail, February 2026: To Combine is Divine!"
       },
       {
-         "description" : "The Confederation of Chess for Americas (CCA) and the Salvadoran Chess Federation (FSA) have announced the XV Pan-American U7-U17 Chess Championship will be held from May 11 to May 18 at Hotel Royal Decameron Salinitas, located in Playa Salinitas, Sonsonate, El Salvador. This tournament is not the Pan-Am Youth. This is the Pan-Am U7-U17, which replaces the old \"Pan-Am Schools\" from previous years. TOURNAMENT DETAILSThere will be 12 sections in the tournament, Open and Girls for each age category: Under 17, Under 15, Under 13, Under 11, Under 9 and Under 7. A player's age as of January 1, 2026 determines their age eligibility for a section.Players entitled to participate in each category are:",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/registration-open-xv-pan-am-u7-u17-chess-championship-2026",
-         "pubDate" : "Thu, 05 Feb 2026 00:00:00",
-         "title" : "Registration Open for XV Pan-Am U7-U17 Chess Championship 2026"
-      },
-      {
          "description" : "The ECU E-Magazine December &#38; January 2025/2026 is out! In this edition of the ECU E-Magazine you may read about: The ECU Magazine can be read online together with interactive links through the following link, or it can be downloaded in PDF format below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -410,14 +538,6 @@ news_feed (
          "title" : "First Chola chess International GM Norm Round Robin Tournament in form Chennai from 02 February to 11 February 2026."
       },
       {
-         "description" : "US Chess is now hiring for the Graphic Designer position. This is a Full Time, 40/hr week remote position. See below for an overview of the job description, areas of responsibility, and qualifications. A full job description is available here and on ZipRecruiter. To apply, follow the above link to ZipRecruiter. For questions, email Deputy Executive Director Jacques DeMoss at Click here to show email address. OverviewThe Communications Department Graphic Designer is responsible for producing, managing and directing all graphic and print design, social media design work, photography, and promotional assets. Creating article layouts and covers for the magazines Chess Life and Chess Life Kids wi",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-hiring-graphic-designer",
-         "pubDate" : "Wed, 04 Feb 2026 00:00:00",
-         "title" : "US Chess is Hiring Graphic Designer"
-      },
-      {
          "description" : "GM Maxime Vachier-Lagrave took home&#38;nbsp;Titled Tuesday on February 3, becoming the first player all year to score 10/11, allowing him to avoid tiebreaks to beat out GMs Arjun Erigaisi and Alexey Sarana on 9.5 points. The win was not only Vachier-...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -432,14 +552,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/another-indian-after-r-praggnanandhaa-norway-chess-reveals-fourth-participant-for-2026-event/articleshow/127884358.cms",
          "pubDate" : "Tue, 03 Feb 2026 11:24:02",
          "title" : "Another Indian! After Pragg, Norway Chess 2026 reveals fourth participant"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov scored one of the best results of his career so far to win sole first place in the 2026 Tata Steel Chess Masters, with second-placed GM Javokhir Sindarov completing the Uzbek domination. We look back at some conclusions fr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-conclusions",
-         "pubDate" : "Tue, 03 Feb 2026 09:20:00",
-         "title" : "Tata Steel Chess 2026: 11 Conclusions"
       },
       {
          "description" : "Please find below live games link for the First Chola chess International GM Norm Round Robin Tournament 2026 from 2nd to 11th February 2026 scheduled at Chennai, India. Live games link",
@@ -458,28 +570,12 @@ news_feed (
          "title" : "88th Tata Steel 2026 - Games and Results"
       },
       {
-         "description" : "What is the secret of becoming really good at chess? How can you best improve your understanding, your results and your rating? Well, use the cutting edge study and training software. But also spend some time discovering all the advantages it offers! GM Iniyan Pa has uncovered all the secrets of ChessBase 26, and presents his findings in his training/review reports.",
+         "description" : "What is the secret of becoming really good at chess? How can you best improve your understanding, your results and your rating? Well, use the cutting edge study and training software. But also spend some time discovering all the advantages it offers! GM Iniyan Pa has uncovered all the secrets of ChessBase&acute;26, and presents his findings in his training/review reports.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-2026-a-players-guide-4",
          "pubDate" : "Mon, 02 Feb 2026 11:00:00",
          "title" : "ChessBase&acute;26: A Players Guide (4)"
-      },
-      {
-         "description" : "GM Yagiz Kaan Erdogmus was recently described by GM Magnus Carlsen as the strongest 14-year-old in the history of the game. He&#39;s demonstrated his ability in recent months, and gained more points than anyone else among the world&#39;s top-100 players i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/february-2026-fide-ratings",
-         "pubDate" : "Mon, 02 Feb 2026 10:49:00",
-         "title" : "'Best 14-Year-Old That The World Has Ever Seen' Erdogmus Climbs In February Rating List"
-      },
-      {
-         "description" : "It&#38;rsquo;s no secret that pro athletes love to play chess, even the ones who prefer skates and skis over sneakers and cleats. That&#38;rsquo;s why this month we&#38;rsquo;re rolling out the Frozen Five, a team of winter sport athletes who love to warm up ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/frozen-five-chess-bots",
-         "pubDate" : "Mon, 02 Feb 2026 07:00:00",
-         "title" : "New Bots: Introducing The Frozen Five!"
       },
       {
          "description" : " Nodirbek Abdusattorov took clear first in the Tata Steel Masters 2026. This is his second major victor in a row after winning the London Chess Classic, that followed a disaster at the Sinquefield Cup in August last year where he finished last. Abdusattorov was unsurprisingly very happy to win this year having come so close to winning the tournament several times in recent years. He said winning this tournament was a childhood dream. Abdusattorov had a half point lead and he beat Arjun Erigaisi in convincing style on the black side of an Evans Gambit. The result relegated Erigaisi to 13th place a terrible result for a player of his class. Javokhir Sindarov managed to squeeze out a win agains",
@@ -490,14 +586,6 @@ news_feed (
          "title" : "Abdusattorov beats Erigaisi to win the Tata Steel Masters - 13"
       },
       {
-         "description" : "GM&#38;nbsp;Nodirbek Abdusattorov called it a &#34;dream come true&#34; as he defeated GM Arjun Erigaisi&#39;s Evans Gambit to win the 2026 Tata Steel Chess Masters with 9/13. GM Javokhir Sindarov gambled to keep playoff hopes alive and ultimately beat GM Thai Da...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/abdusattorov-wins-2026-tata-steel-chess",
-         "pubDate" : "Sun, 01 Feb 2026 12:06:00",
-         "title" : "Abdusattorov Wins 'Dream' Tata Steel Masters, Woodward Takes Challengers"
-      },
-      {
          "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. Nodirbek Abdusattorov enters the final round as the sole leader in the Masters, while Andy Woodward and Aydin Suleymanli are tied for first place in the Challengers. | Follow the games live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -506,28 +594,12 @@ news_feed (
          "title" : "Tata Steel Chess - Live!"
       },
       {
-         "description" : "Young FIDE Master Bahne Fuhrmann of the Hamburger SK has taken a close look at Harshit Raja's new video course. In his review, he examines the Indian grandmaster's 1.e4 course and explains why viewers who study the course can confidently open with 1.e4.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-a-powerful-1-e4-repertoire",
-         "pubDate" : "Sun, 01 Feb 2026 07:00:00",
-         "title" : "Review: A powerful 1.e4 repertoire"
-      },
-      {
          "description" : " Nodirbek Abdusattorov beat Matthias Bluebaum in Round 12 of the Tata Steel Masters to take a half point lead into the final round of the Tata Steel Masters. Abdusattorov was sharing the lead with his fellow-countryman Javokhir Sindarov who took a quick draw against Praggnanandhaa, he has a final round game against Thai Dai Van Nguyen who has lost his last four rounds, but Nguyen has had winning positions in some of these games. Nguyen has clearly been outclassed but been very game, time trouble in coping with the problems he's been set has been a major issue. Nguyen qualified for this last year, he probably won't play such an event again I think he'll be motivated tomorrow. Abdusattorov fac",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-takes-a-half-point-lead-into-the-final-round-of-the-tata-steel-masters",
          "pubDate" : "Sun, 1 Feb 2026 01:02:00",
          "title" : "Abdusattorov takes a half point lead into the final round of the Tata Steel Masters - 12"
-      },
-      {
-         "description" : "GM Hikaru Nakamura&#39;s historic run in the&#38;nbsp;Bullet Brawl&#38;nbsp;arena continued on Saturday with a fifth consecutive $400 victory, marking the first time a player has won a full month of Brawls since the event&#39;s inception. Reminiscent of the pre...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-jan-31-2026",
-         "pubDate" : "Sat, 31 Jan 2026 18:55:00",
-         "title" : "Nakamura Caps Off Perfect Month With 5th Bullet Brawl Victory"
       },
       {
          "description" : "Improving your chess, or anything else, is pretty simple (not easy!). &#x27a1;&#xfe0f;Do What Matters &#x27a1;&#xfe0f;Do It Well &#x27a1;&#xfe0f;Do It Consistently So, why is then not everybody improving their chess and living happily ever after? And when that happens, some students get easily discouraged and give up. While others get back on track and push through. []",
@@ -544,14 +616,6 @@ news_feed (
          "link" : "https://www.thearticle.com/heresy-on-the-chessboard/",
          "pubDate" : "Sat, 31 Jan 2026 12:36:49",
          "title" : "Heresy on the chessboard"
-      },
-      {
-         "description" : "GM&#38;nbsp;Nodirbek Abdusattorov takes a half-point lead into the final round of the 2026 Tata Steel Chess Masters after beating GM Matthias Bluebaum while GM Javokhir Sindarov made a quick draw against GM Praggnanandhaa Rameshbabu. Sindarov is the m...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-12",
-         "pubDate" : "Sat, 31 Jan 2026 11:44:00",
-         "title" : "Abdusattorov Grabs Lead Before Tata Steel Masters Final Round"
       },
       {
          "description" : " Javokhir Sindarov won a sharp game against Arjun Erigaisi, Sindarov got a winning advantage on the run up to move 40 but things were still very tricky and it was only after 52.Re4? that he was winning. In the meantime the leader Nodirbek Abdusattorov had a calm draw against Jorden Van Foreest. Hans Moke Niemann took a huge amount of risks against the struggling Thai Dai Van Nguyen, although the engine says he was losing at various points Nguyen's desperate time trouble was enough to justify his approach. 40.f4? left Niemann winning, 42...b2? gave Nguyen a final chance but after 43.Kf2? he was lost. Anish Giri won a sharp calculating game against Yagiz Kaan Erdogmus, 23...Ba6? was the losing",
@@ -576,22 +640,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jan/30/chess-nodirbek-abdusattorov-narrowly-ahead-as-wijk-aan-zee-reaches-final-weekend",
          "pubDate" : "Fri, 30 Jan 2026 19:32:26",
          "title" : "Chess: Uzbek pair share narrow half-point lead as Wijk aan Zee reaches final weekend"
-      },
-      {
-         "description" : "GM Javokhir Sindarov has joined his compatriot GM Nodirbek Abdusattorov in the 2026 Tata Steel Chess Masters lead on 7/11 after winning a pawn and grinding out a win against GM Arjun Erigaisi. GM Hans Niemann joins a three-way tie half a point beh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tata-steel-chess-round-11",
-         "pubDate" : "Fri, 30 Jan 2026 16:25:00",
-         "title" : "Sindarov Catches Abdusattorov, Niemann Climbs To 2nd"
-      },
-      {
-         "description" : "GM Sina Movahed won his fifth Freestyle Friday on January 30, holding at least a share of the lead in every round of the tournament to join GMs Hikaru Nakamura, Oleksandr Bortnyk, Arjun Erigaisi, and Magnus Carlsen with five or more. Carlsen finis...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/movahed-wins-freestyle-friday-january-30-2026",
-         "pubDate" : "Fri, 30 Jan 2026 12:17:49",
-         "title" : "Movahed Joins Five Freestyle Friday Club With Wire-To-Wire Win"
       },
       {
          "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in eradicating the age fraud menace prevailing in sports and has directed",
@@ -642,14 +690,6 @@ news_feed (
          "title" : "Tata Steel Masters: Gukesh loses to Bluebaum, Arjun draws easy"
       },
       {
-         "description" : " Jacorey Bynum is one of the brightest stars and currently the 23rd highest-rated player in Florida. Two years ago, Bynum earned the title of National Master and has been hovering around 2300 for the past six months. Looking to make improvements, he keeps an active tournament schedule and is also making a presence in online The post <a href=\"https://thechessdrum.net/blog/2026/01/27/jacorey-bynum-uncorks-gem-against-carlsen/\">Jacorey Bynum uncorks gem against Carlsen!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2026/01/27/jacorey-bynum-uncorks-gem-against-carlsen/",
-         "pubDate" : "Wed, 28 Jan 2026 02:57:45",
-         "title" : "Jacorey Bynum uncorks gem against Carlsen!"
-      },
-      {
          "description" : " Nodirbek Abdusattorov continues to lead the Tata Steel Masters with a score of 6pts/9 after drawing with closest rival Javokhir Sindarov. However there is now more of a chasing pack on 5.5pts following wins for Yagiz Kaan Erdogmus over Thai Dai Van Nguyen and Jorden Van Foreest who absolutely crushed Vincent Keymer in a sharp London System. The travails of Gukesh continue when he was thoroughly outplayed by Matthias Bluebaum who is now a point off the lead alongside Hans Moke Niemann who now hasn't won since round 4. The final game to finish saw Praggnanandhaa beat Chithambaram Aravindh in a major piece endgame that seems to me likely to be worth studying. Round 9 Standings: 1st Abdusattoro",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -664,78 +704,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/nodirbek-abdusattorov-still-leads-the-tata-steel-masters-with-5.58-even-after-losing-to-anish-giri",
          "pubDate" : "Sun, 25 Jan 2026 23:00:00",
          "title" : "Nodirbek Abdusattorov still leads the Tata Steel Masters with 5.5/8 even after losing to Anish Giri - 8"
-      },
-      {
-         "description" : " Nodirbek Abdusattorov extended his lead of the Tata Steel Masters after defeating Vincent Keymer in Round 7 to move to 5.5/7 a point clear of fellow countryman Javokhir Sindarov who drew with Hans Moke Niemann. Anish Giri beat World Champion Gukesh who was probably still unstable after his shocking Round 6 blunder. Teenager Yagiz Kaan Erdogmus moved into a share of third with an impressive win against Arjun Erigaisi. Thai Dai Van Nguyen drew with Vladimir Fedoseev and Praggnanandhaa drew a wild game with Matthias Bluebaum. MarcAndria Maurizzi has joined Andy Woodward in the lead with 5.5/7 after his five game winning run came to an end with a draw against third placed Aydin Suleymanli. Look",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-leads-the-tata-steel-masters-by-a-point-after-beating-keymer-in-round-7",
-         "pubDate" : "Sun, 25 Jan 2026 00:11:00",
-         "title" : "Abdusattorov leads the Tata Steel Masters by a point after beating Keymer in Round 7 - 7"
-      },
-      {
-         "description" : "When I first read that protesters had delayed the start of the annual elite chess tournament at Wijk aan Zee in Holland, my initial response was one of puzzled curiosity. One naturally assumes that a disturbance at such an event must arise from some internal heresy within the game itself. Perhaps, I thought, the sponsors []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chess-protest/",
-         "pubDate" : "Sat, 24 Jan 2026 14:40:18",
-         "title" : "Chess protest"
-      },
-      {
-         "description" : "A big part of promotion on most courses that get released in chess are two things: And as for most things in our world, intuitively, most of us think: More = better. \"Wow, I get 100 hours of video for just x dollars\" is a common way to think about the second metric. I know []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/more-is-better-fallacy/",
-         "pubDate" : "Sat, 24 Jan 2026 14:00:00",
-         "title" : "This fallacy will cost you lots of money and time"
-      },
-      {
-         "description" : "21-year-old Aaryan Varshney from Delhi has become India's 92nd Chess Grandmaster, achieving his final norm at the Andranik Margaryan Memorial in Armenia in January 2026.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/21-year-old-aaryan-varshney-from-delhi-has-become-indias-92nd-chess-grandmaster/",
-         "pubDate" : "Sat, 24 Jan 2026 06:28:00",
-         "title" : "21-year-old Aaryan Varshney from Delhi has become India's 92nd Chess Grandmaster"
-      },
-      {
-         "description" : " Nodirbek Abdusattorov took the lead of the Tata Steel Masters alone after defeating Gukesh following a terrible one move blunder from the Indian, meanwhile joint leader Hans Moke Niemann lost against Vincent Keymer. In the only other decisive game Yagiz Kaan Erdogmus beat Jorden Van Foreest in a game settled near first time control, both players missed big ideas in spite of not being in serious time trouble. The other games were drawn. Matthias Bluebaum was pretty upset with himself that he didn't convert winning chances against Arjun Erigaisi. Aravindh Chithambaram was dead lost against Javokhir Sindarov who blew the win with his final move before time control with only a few seconds left.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-leads-the-tata-steel-masters-4.56-after-a-horrendous-blunder-by-gukesh",
-         "pubDate" : "Fri, 23 Jan 2026 23:08:00",
-         "title" : "Abdusattorov leads the Tata Steel Masters 4.5/6 after a horrendous blunder by Gukesh - 6"
-      },
-      {
-         "description" : "In three sessions at the British Chess Championships An opportunity to qualify as an ECF Level 1 Arbiter, which may entitle you to work as an arbiter at FIDE-rated chess...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-level-1-arbiters-course-at-the-british-chess-championships/",
-         "pubDate" : "Fri, 23 Jan 2026 10:53:46",
-         "title" : "ECF Level 1 Arbiters Course at the British Chess Championships"
-      },
-      {
-         "description" : " First round at Wijk aan Zee delayed for over an hour after protesters dump coal at venue and unveil banner reading 'no chess on a dead planet' Tata Steel Wijk aan Zee, the \"chess Wimbledon\", has been sponsored for all its 88 years by the local steelworks, either in its previous incarnations as Hoogovens and Corus or under its current Indian management. Its relations with the local community have previously been good, but this year protesters targeting Tata Steel drew attention to the company's heavy use of coal by dumping two tons of it in front of the entrance, and draping a banner reading \"No chess on a dead planet\" over the sports hall. Play in the opening round eventually began one and ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/jan/23/chess-wimbledon-opens-with-an-environmental-protest-as-niemann-shares-lead",
-         "pubDate" : "Fri, 23 Jan 2026 08:00:10",
-         "title" : "'Chess Wimbledon' opens with an environmental protest as Niemann shares lead"
-      },
-      {
-         "description" : "<ul><li> Report cites cardiac arrhythmia tied to sarcoidosis </li><li> Drug use contributory but not fatal, examiner says </li></ul> American chess grandmaster Daniel Naroditsky died last year after suffering a sudden heart rhythm disturbance, with an underlying heart condition identified as the primary cause, according to a report released by North Carolina medical authorities. The 29-year-old was <a href=\"https://www.theguardian.com/sport/2025/oct/20/daniel-naroditsky-dies-chess-grandmaster\">found dead at his townhome in Charlotte</a> in October 2025. At the time, police said his death was being investigated as a possible overdose or suicide, and no cause had been made public. <a href=\"htt",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/jan/22/daniel-naroditsky-cause-of-death-accidental-report",
-         "pubDate" : "Thu, 22 Jan 2026 17:28:17",
-         "title" : "US chess star Daniel Naroditsky's death was accidental, medical examiner says"
-      },
-      {
-         "description" : "Press Release 22.01.2026European Chess Super league 2027 Announced European Chess Union Unveils the European Chess Super League 2027 The European Chess Union (ECU) is proud to announce the launch of the European Chess Super League, a groundbreaking new competition set to redefine the landscape of club chess across the continent. The inaugural edition will take place in 2027, with dates and location to be announced and a minimum budget of 500,000 euros. A New Era for European Club Chess The []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/press-release-european-chess-super-league-2027-announced/",
-         "pubDate" : "Thu, 22 Jan 2026 13:14:44",
-         "title" : "Press Release: European Chess Super League 2027 Announced"
       }
    ]
 }
