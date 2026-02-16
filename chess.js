@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alongside the main event in Weissenhaus, Bibisara Assaubayeva and Alexandra Kosteniuk contested a four-game Freestyle Chess exhibition match over the weekend. Played at the same time control as the world championship knockouts, the encounter ended 2&frac12;-1&frac12; in Assaubayeva's favour. The result secured her a place in the forthcoming Women's FIDE Freestyle Chess World Championship later this year. | Photo: Freestyle Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-wc-2026-exhibition-match",
+         "pubDate" : "Sun, 15 Feb 2026 23:05:00",
+         "title" : "Freestyle Chess exhibition match: Assaubayeva scores 2&frac12;-1&frac12; victory over Kosteniuk"
+      },
+      {
          "description" : " The FIDE Freestyle Chess World Championship took place in Wangels, Germany, Fri 13th Feb to Sun 15th Feb 2026. Time control 10m+5spm. Round Robin followed by KO. Carlsen won the all-play-all with 4.5/7 half a point clear of Caruana, Keymer and Abdusattorov and they played for the title over the weekend. Aronian, Erigaisi, Niemann and Sindarov played off for the minor placings. Magnus Carlsen beat Fabiano Caruana 2.5-1.5 in the final to win the title, he won game three. The games are available for download but I can't display them. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-draws-against-sindarov-in-tata-steel-masters-round-9-to-keep-a-half-point-lead",
          "pubDate" : "Wed, 28 Jan 2026 01:24:00",
          "title" : "Abdusattorov draws against Sindarov in Tata Steel Masters Round 9 to keep a half point lead - 9"
-      },
-      {
-         "description" : " The Tata Steel Masters reached its second rest day with Nodirbek Abdusattorov leading by half a point over fellow Uzbek Javokhir Sindarov. Abdusattorov had the disappointment of losing to Anish Giri, he almost pulled off a miracle save but failed at the last hurdle. Sindarov drew against Vincent Keymer, maybe Keymer had a small chance in the opening but otherwise it was a steady draw. The only other decisive game of the day was Gukesh's fine win against Vladimir Fedoseev. There was uncompromising chess from both players but in the end it was Gukesh that brought home the full point. Matthias Bluebaum spent several minutes at the board trying to come to terms with how he botched a winning pos",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/nodirbek-abdusattorov-still-leads-the-tata-steel-masters-with-5.58-even-after-losing-to-anish-giri",
-         "pubDate" : "Sun, 25 Jan 2026 23:00:00",
-         "title" : "Nodirbek Abdusattorov still leads the Tata Steel Masters with 5.5/8 even after losing to Anish Giri - 8"
       }
    ]
 }
