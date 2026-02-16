@@ -38,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-fide-freestyle-chess-world-championship-final",
-         "pubDate" : "Sun, 15 Feb 2026 12:25:25",
+         "pubDate" : "Sun, 15 Feb 2026 12:25:00",
          "title" : "Carlsen Stuns Caruana To Win 21st World Championship Title"
       },
       {
