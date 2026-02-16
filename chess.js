@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "How do grandmasters organize their opening files? Inspired by Vishy Anand Austrian GM Felix Blohberger shares advice how to use databases that might help you to study more efficiently and play better.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-to-stduy-openings-gm-felix-blohberger-offers-advice",
+         "pubDate" : "Mon, 16 Feb 2026 15:40:05",
+         "title" : "How to stduy openings - GM Felix Blohberger offers advice"
+      },
+      {
+         "description" : "Some players love the London System, others hate it. But the truth is, those who hate it are probably the ones playing against it. And now, it&#39;s your turn to master one of the most popular&#38;mdash;and easiest to play&#38;mdash;white openings in chess wi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-aman-hambletons-london-system-chessable-course",
+         "pubDate" : "Mon, 16 Feb 2026 08:10:00",
+         "title" : "Win Games And Infuriate Your Opponents With Aman Hambleton's New London System Course"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128411369.cms\" />Magnus Carlsen won the 2026 FIDE Freestyle Chess World Championship in Germany, defeating Fabiano Caruana 2.5-1.5. A crucial comeback win in game three helped him secure the title, clinched with a draw in the final game. It is the first FIDE-recognised Freestyle world title and Carlsen's 21st overall. Abdusattorov finished third, and the top three qualified for 2027.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/freestyle-chess-wc-2026-3",
          "pubDate" : "Mon, 16 Feb 2026 06:20:00",
          "title" : "Carlsen beats Caruana in dramatic match to become Freestyle Chess World Champion!"
+      },
+      {
+         "description" : "GM Zhou Jianchao&#39;s extraordinary unbeaten run ended last weekend after 158 classical games. The Chinese-born grandmaster has made it to the history books by achieving the longest known run of consecutive classical games without losing. The 37-ye...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/zhou-jianchao-ends-unbeaten-streak-after-158-games",
+         "pubDate" : "Mon, 16 Feb 2026 05:48:00",
+         "title" : "Zhou Jianchao's Historic 158-Game Unbeaten Streak Comes To An End"
       },
       {
          "description" : "Alongside the main event in Weissenhaus, Bibisara Assaubayeva and Alexandra Kosteniuk contested a four-game Freestyle Chess exhibition match over the weekend. Played at the same time control as the world championship knockouts, the encounter ended 2&frac12;-1&frac12; in Assaubayeva's favour. The result secured her a place in the forthcoming Women's FIDE Freestyle Chess World Championship later this year. | Photo: Freestyle Chess / Lennart Ootes",
@@ -522,28 +546,12 @@ news_feed (
          "title" : "ECU E-Magazine December & January 2025/2026"
       },
       {
-         "description" : "IM Polina Shuvalova set a new all-time Chess.com blitz rating record by a woman, surpassing the previous mark shared by IM Eline Roebers and WGM Aleksandra Maltsevskaya from last year. The 24-year-old climbed to 2941, edging closer than ever to re...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/shuvalova-breaks-record-for-all-time-highest-blitz-rating-for-women",
-         "pubDate" : "Wed, 04 Feb 2026 10:51:00",
-         "title" : "Shuvalova Breaks Chess.com Women's Record For Highest All-Time Blitz Rating"
-      },
-      {
          "description" : "Of late there is no dearth of chess activity in India including umpteen number of Grandmasters open events. But closed circuit events give more scope",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/first-chola-chess-international-gm-norm-round-robin-tournament-in-form-chennai-from-02-february-to-11-february-2026/",
          "pubDate" : "Wed, 04 Feb 2026 05:25:03",
          "title" : "First Chola chess International GM Norm Round Robin Tournament in form Chennai from 02 February to 11 February 2026."
-      },
-      {
-         "description" : "GM Maxime Vachier-Lagrave took home&#38;nbsp;Titled Tuesday on February 3, becoming the first player all year to score 10/11, allowing him to avoid tiebreaks to beat out GMs Arjun Erigaisi and Alexey Sarana on 9.5 points. The win was not only Vachier-...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-titled-tuesday-february-3-2026",
-         "pubDate" : "Tue, 03 Feb 2026 12:23:00",
-         "title" : "Vachier-Lagrave Back In Titled Tuesday Win Column After Mustachioed Magnus Fades"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/127884358.cms\" />Reigning world champion Gukesh Dommaraju has been confirmed as the fourth participant for Norway Chess 2026, joining fellow Indian R Praggnanandhaa. The youngest world champion in history, Gukesh returns after a strong 2025 showing and a memorable win over Magnus Carlsen, highlighting India's growing dominance in world chess.",
