@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128411369.cms\" />Magnus Carlsen won the 2026 FIDE Freestyle Chess World Championship in Germany, defeating Fabiano Caruana 2.5-1.5. A crucial comeback win in game three helped him secure the title, clinched with a draw in the final game. It is the first FIDE-recognised Freestyle world title and Carlsen's 21st overall. Abdusattorov finished third, and the top three qualified for 2027.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/another-world-title-magnus-carlsen-clinches-fide-freestyle-chess-world-championship-2026/articleshow/128411369.cms",
+         "pubDate" : "Mon, 16 Feb 2026 07:04:21",
+         "title" : "Carlsen clinches FIDE Freestyle Chess World Championship 2026"
+      },
+      {
+         "description" : "Magnus Carlsen secured the 2026 FIDE Freestyle Chess World Championship title in Weissenhaus after defeating Fabiano Caruana 2&frac12;-1&frac12; in the final. The match turned on a dramatic third game in which Caruana failed to convert a completely winning position and ended up losing. In the contest for third place, Nodirbek Abdusattorov overcame Vincent Keymer to join the two finalists in qualifying for the 2027 Freestyle Chess World Championship. | Photo: Freestyle Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-wc-2026-3",
+         "pubDate" : "Mon, 16 Feb 2026 06:20:00",
+         "title" : "Carlsen beats Caruana in dramatic match to become Freestyle Chess World Champion!"
+      },
+      {
          "description" : "Alongside the main event in Weissenhaus, Bibisara Assaubayeva and Alexandra Kosteniuk contested a four-game Freestyle Chess exhibition match over the weekend. Played at the same time control as the world championship knockouts, the encounter ended 2&frac12;-1&frac12; in Assaubayeva's favour. The result secured her a place in the forthcoming Women's FIDE Freestyle Chess World Championship later this year. | Photo: Freestyle Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,22 +34,6 @@ news_feed (
          "title" : "FIDE Freestyle Chess World Championship 2026 - Games and Results"
       },
       {
-         "description" : "The FIDE Freestyle Chess World Championship is taking place on 13-15 February at the Weissenhaus resort. Eight players have qualified through the 2025 Grand Slam Tour and online competition. In Sunday's finals, Magnus Carlsen and Fabiano Caruana battle to become the Freestyle Chess world champion. | Follow the games live with expert commentary starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-wc-2026-live",
-         "pubDate" : "Sun, 15 Feb 2026 14:45:00",
-         "title" : "Freestyle Chess World Championship - Live!"
-      },
-      {
-         "description" : "Converting a winning position is one of the toughest skills in chess. Many players build an advantage only to see it slip away at the final stage. This article looks at how Andy Woodward mastered this crucial aspect of the game. From solving endgame studies at a young age to relying on classic chess books, Andy built strong technique, calculation, and patience. These skills played a key role in his Tata Steel Challengers 2026 win. This article offers valuable lessons for players at every level. | Photo: Tata Steel Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/books-that-helped-andy-woodward",
-         "pubDate" : "Sun, 15 Feb 2026 13:25:00",
-         "title" : "Books that helped Andy Woodward convert winning positions"
-      },
-      {
          "description" : "GM Magnus Carlsen survived and then won a dead-lost position against GM Fabiano Caruana on the way to a 2.5-1.5 victory in the 2026 FIDE Freestyle Chess World Championship Final. A nervous draw in the final game means Carlsen is the Rapid, Blitz, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -48,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/review-new-releases-in-january",
          "pubDate" : "Sun, 15 Feb 2026 07:00:00",
          "title" : "Review: New releases in January!"
-      },
-      {
-         "description" : "The second day of action at the FIDE Freestyle Chess World Championship in Weissenhaus saw the start of the knockout phase, with the two semifinal matches deciding who will compete for the 2026 title. Magnus Carlsen and Fabiano Caruana emerged victorious and will meet in Sunday's final. In addition to a world title, a place in the 2027 FIDE Freestyle Chess World Championship has already been secured by both finalists. | Photo: Freestyle Chess / Carlotta Wessel",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-wc-2026-2",
-         "pubDate" : "Sun, 15 Feb 2026 03:50:00",
-         "title" : "Weissenhaus: Carlsen to battle Caruana for world title on Sunday"
       },
       {
          "description" : "Peruvian IM Renato Terry was crowned as a first-time Bullet Brawl victor on Saturday after he overcame a strong start from GM Oleksandr Bortnyk and posted a winning score of 147. Terry, who is just the third non-GM to win an edition of Bullet Br...",
