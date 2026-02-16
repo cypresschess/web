@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 16 February 1906, Vera Menchik was born. After the Russian Revolution, her family lost their property, her parents separated, and Vera Menchik moved to England with her mother. As she did not have a good command of the English language, she devoted herself to chess. In this way, she became the first woman to be invited to top tournaments. Today marks the 120th anniversary of her birth.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/120-anniversary-vera-menchik",
+         "pubDate" : "Mon, 16 Feb 2026 19:45:00",
+         "title" : "Born 120 years ago today: Vera Menchik and her quiet revolution"
+      },
+      {
          "description" : "How do grandmasters organize their opening files? Inspired by Vishy Anand Austrian GM Felix Blohberger shares advice how to use databases that might help you to study more efficiently and play better.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/how-to-stduy-openings-gm-felix-blohberger-offers-advice",
          "pubDate" : "Mon, 16 Feb 2026 15:40:05",
-         "title" : "How to stduy openings - GM Felix Blohberger offers advice"
+         "title" : "How to study openings - GM Felix Blohberger offers advice"
       },
       {
          "description" : "Some players love the London System, others hate it. But the truth is, those who hate it are probably the ones playing against it. And now, it&#39;s your turn to master one of the most popular&#38;mdash;and easiest to play&#38;mdash;white openings in chess wi...",
