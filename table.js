@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2026-02-16","29","<a href=https://ratings.uschess.org/event/202602160193 target='_blank'>Bellaire Scholastic 2026</a>",
 "HOUSTON","2026-02-15","11","<a href=https://ratings.uschess.org/event/202602150313 target='_blank'>2026 Houston Circuit T2 by AzChAcad</a>",
 "HOUSTON","2026-02-15","12","<a href=https://ratings.uschess.org/event/202602150273 target='_blank'>Bellaire Sunday Swiss 2026.02.15</a>",
 "TOMBALL","2026-02-14","15","<a href=https://ratings.uschess.org/event/202602140343 target='_blank'>TOMBALL CHESS TOURNAMENT</a>",
@@ -98,5 +99,4 @@ jtable([
 "HOUSTON","2025-11-15","8","<a href=https://ratings.uschess.org/event/202511150573 target='_blank'>chesspanda11152025saturday</a>",
 "HOUSTON","2025-11-15","16","<a href=https://ratings.uschess.org/event/202511150403 target='_blank'>NOV 15TH -- TROPHY-SCHOLASTIC</a>",
 "SPRING","2025-11-14","20","<a href=https://ratings.uschess.org/event/202511140233 target='_blank'>THE FRIDAY KNIGHTS (TX)</a>",
-"SUGAR LAND","2025-11-14","20","<a href=https://ratings.uschess.org/event/202511140223 target='_blank'>FBCC 2025 International Girl's Day Open</a>",
 ]);
