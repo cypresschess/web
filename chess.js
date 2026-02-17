@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Were you able to solve the challenge positions we gave you last week? Were you able to defeat the diagrams, which defended tenatiously? Today we bring you all solutions, with very instructive video explanations by Jared Modica, a chess content creator from Austin, Texas. He shows us how to solve tatical lines of play, and how to handle pawns in endgames.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-challenge-solutions",
+         "pubDate" : "Tue, 17 Feb 2026 11:27:02",
+         "title" : "Endgame Challenge Solutions"
+      },
+      {
          "description" : "On 16 February 1906, Vera Menchik was born. After the Russian Revolution, her family lost their property, her parents separated, and Vera Menchik moved to England with her mother. As she did not have a good command of the English language, she devoted herself to chess. In this way, she became the first woman to be invited to top tournaments. Today marks the 120th anniversary of her birth.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
