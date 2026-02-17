@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Deep Blue was the first computer to win a match against the reigning World Champion. In May 1997, Deep Blue defeated Garry Kasparov in a six-game match by 3&frac12;-2&frac12;. Deep Blue was also the first computer ever to win a game under classical time control against a reigning World Champion - the first game of the first match between Deep Blue and Kasparov. In light of these successes, it is easy to forget that Kasparov won the first match 4-2 and at times made the supercomputer, which calculated an average of 126 million positions per second, look like little more than a competent beginner. Kasparov recognised the computer's potential at an early stage. | Photo: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/30-years-ago-kasparov-deep-blue",
+         "pubDate" : "Tue, 17 Feb 2026 18:15:00",
+         "title" : "30 years ago: Kasparov takes down Deep Blue"
+      },
+      {
          "description" : "Were you able to solve the challenge positions we gave you last week? Were you able to defeat the diagrams, which defended tenatiously? Today we bring you all solutions, with very instructive video explanations by Jared Modica, a chess content creator from Austin, Texas. He shows us how to solve tatical lines of play, and how to handle pawns in endgames.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/endgame-challenge-solutions",
          "pubDate" : "Tue, 17 Feb 2026 11:27:02",
          "title" : "Endgame Challenge Solutions"
+      },
+      {
+         "description" : "They didn&#39;t make the Finals last season, but the University of Missouri-Columbia (Mizzou) has added a new player and appears ready to regain the championship form that they displayed in 2024. IM Amilal Munkhdalai came from Mongolia to join the sch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-ccl-spring-week-1-mizzou-uva",
+         "pubDate" : "Tue, 17 Feb 2026 10:17:24",
+         "title" : "CCL Returns With Mizzou In Dominant Form"
       },
       {
          "description" : "World number-one Magnus Carlsen has now won 21 official FIDE world championship titles after defeating GM Fabiano Caruana in the Final of the 2026 FIDE Freestyle Chess World Championship. We take a look back at the intense three-day event in Weiss...",
@@ -26,22 +42,6 @@ news_feed (
          "title" : "Tactics Tuesday: 2025 Chess.com Speed Chess Championship"
       },
       {
-         "description" : "On 16 February 1906, Vera Menchik was born. After the Russian Revolution, her family lost their property, her parents separated, and Vera Menchik moved to England with her mother. As she did not have a good command of the English language, she devoted herself to chess. In this way, she became the first woman to be invited to top tournaments. Today marks the 120th anniversary of her birth.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/120-anniversary-vera-menchik",
-         "pubDate" : "Mon, 16 Feb 2026 19:45:00",
-         "title" : "Born 120 years ago today: Vera Menchik and her quiet revolution"
-      },
-      {
-         "description" : "How do grandmasters organize their opening files? Inspired by Vishy Anand Austrian GM Felix Blohberger shares advice how to use databases that might help you to study more efficiently and play better.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-to-stduy-openings-gm-felix-blohberger-offers-advice",
-         "pubDate" : "Mon, 16 Feb 2026 15:40:05",
-         "title" : "How to study openings - GM Felix Blohberger offers advice"
-      },
-      {
          "description" : "Some players love the London System, others hate it. But the truth is, those who hate it are probably the ones playing against it. And now, it&#39;s your turn to master one of the most popular&#38;mdash;and easiest to play&#38;mdash;white openings in chess wi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -58,28 +58,12 @@ news_feed (
          "title" : "Carlsen clinches FIDE Freestyle Chess World Championship 2026"
       },
       {
-         "description" : "Magnus Carlsen secured the 2026 FIDE Freestyle Chess World Championship title in Weissenhaus after defeating Fabiano Caruana 2&frac12;-1&frac12; in the final. The match turned on a dramatic third game in which Caruana failed to convert a completely winning position and ended up losing. In the contest for third place, Nodirbek Abdusattorov overcame Vincent Keymer to join the two finalists in qualifying for the 2027 Freestyle Chess World Championship. | Photo: Freestyle Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-wc-2026-3",
-         "pubDate" : "Mon, 16 Feb 2026 06:20:00",
-         "title" : "Carlsen beats Caruana in dramatic match to become Freestyle Chess World Champion!"
-      },
-      {
          "description" : "GM Zhou Jianchao&#39;s extraordinary unbeaten run ended last weekend after 158 classical games. The Chinese-born grandmaster has made it to the history books by achieving the longest known run of consecutive classical games without losing. The 37-ye...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/zhou-jianchao-ends-unbeaten-streak-after-158-games",
          "pubDate" : "Mon, 16 Feb 2026 05:48:00",
          "title" : "Zhou Jianchao's Historic 158-Game Unbeaten Streak Comes To An End"
-      },
-      {
-         "description" : "Alongside the main event in Weissenhaus, Bibisara Assaubayeva and Alexandra Kosteniuk contested a four-game Freestyle Chess exhibition match over the weekend. Played at the same time control as the world championship knockouts, the encounter ended 2&frac12;-1&frac12; in Assaubayeva's favour. The result secured her a place in the forthcoming Women's FIDE Freestyle Chess World Championship later this year. | Photo: Freestyle Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-wc-2026-exhibition-match",
-         "pubDate" : "Sun, 15 Feb 2026 23:05:00",
-         "title" : "Freestyle Chess exhibition match: Assaubayeva scores 2&frac12;-1&frac12; victory over Kosteniuk"
       },
       {
          "description" : " The FIDE Freestyle Chess World Championship took place in Wangels, Germany, Fri 13th Feb to Sun 15th Feb 2026. Time control 10m+5spm. Round Robin followed by KO. Carlsen won the all-play-all with 4.5/7 half a point clear of Caruana, Keymer and Abdusattorov and they played for the title over the weekend. Aronian, Erigaisi, Niemann and Sindarov played off for the minor placings. Magnus Carlsen beat Fabiano Caruana 2.5-1.5 in the final to win the title, he won game three. The games are available for download but I can't display them. ",
@@ -472,14 +456,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/keymer-wins-freestyle-friday-february-6-2026",
          "pubDate" : "Fri, 06 Feb 2026 11:57:49",
          "title" : "Keymer Conquers Carlsen, Wins Freestyle Friday On Tiebreaks"
-      },
-      {
-         "description" : "It was a day for &#34;M&#34; names in 3 0 Thursday on February 5, as GMs Parham Maghsoodloo, Haik Martirosyan, and Jose Martinez took the top spots. It was Martinez&#39;s fifth victory in the tournament, Maghsoodloo&#39;s second, and Martirosyan&#39;s first. The wome...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/maghsoodloo-martirsoyan-martinez-3-0-thursday-2-5-2026",
-         "pubDate" : "Fri, 06 Feb 2026 11:25:10",
-         "title" : "Maghsoodloo, Martirosyan, Martinez, Masters of 3 0 Thursday"
       },
       {
          "description" : "Tenders are now invited for the bookstall, coaching and/or commentary at the British Chess Championships 2026 in Coventry click here",
