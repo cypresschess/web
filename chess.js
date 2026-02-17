@@ -10,6 +10,22 @@ news_feed (
          "title" : "Endgame Challenge Solutions"
       },
       {
+         "description" : "World number-one Magnus Carlsen has now won 21 official FIDE world championship titles after defeating GM Fabiano Caruana in the Final of the 2026 FIDE Freestyle Chess World Championship. We take a look back at the intense three-day event in Weiss...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-freestyle-chess-world-championship-7-conclusions",
+         "pubDate" : "Tue, 17 Feb 2026 05:45:22",
+         "title" : "Carlsen Does It Again: 7 FIDE Freestyle Chess World Championship Conclusions"
+      },
+      {
+         "description" : "Today's puzzles begin a two-part series on the final and semifinal matches from the 2025 Chess.com Speed Chess Championship, held earlier this month in London. Under severe time pressure, many of the games produced instructive tactics suitable for our audience. Enjoy! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-chesscom-speed-chess-championship",
+         "pubDate" : "Tue, 17 Feb 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2025 Chess.com Speed Chess Championship"
+      },
+      {
          "description" : "On 16 February 1906, Vera Menchik was born. After the Russian Revolution, her family lost their property, her parents separated, and Vera Menchik moved to England with her mother. As she did not have a good command of the English language, she devoted herself to chess. In this way, she became the first woman to be invited to top tournaments. Today marks the 120th anniversary of her birth.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -544,14 +560,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/just-rules-roll-your-eyes-moments",
          "pubDate" : "Thu, 05 Feb 2026 00:00:00",
          "title" : "Just the Rules: Roll Your Eyes Moments"
-      },
-      {
-         "description" : "Welcome to the February issue of Check is in the Mail.From Michael Buss, US Chess Correspondence Coordinator: \"Congratulations to our editor, Jeffrey French, who was elected President of the Correspondence Chess League of America (CCLA). Jeffrey began his 2-year term in office on January 1st.\"Thanks Michael! In this issue we continue what was started last February by providing both games and puzzles focusing on Combinations.You can reference the February 2025 issue to learn more. You can also find some options in last February's issue for studying combinations should you have an interest in doing so.Three of the games featured in this issue are from different sections of the 2025 Electronics",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-february-2026-combine-divine",
-         "pubDate" : "Thu, 05 Feb 2026 00:00:00",
-         "title" : "Check is in the Mail, February 2026: To Combine is Divine!"
       },
       {
          "description" : "The ECU E-Magazine December &#38; January 2025/2026 is out! In this edition of the ECU E-Magazine you may read about: The ECU Magazine can be read online together with interactive links through the following link, or it can be downloaded in PDF format below.",
