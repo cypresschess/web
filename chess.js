@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "US grandmaster Awonder Liang travelled to Sharjah to face Saleh Salem in the 12-game \"Battle of the Minds\", a mixed-format match held from 7 to 12 February. Combining rapid, classical and blitz chess, the contest remained closely balanced throughout. An early lead in the rapid segment ultimately enabled Liang to secure a narrow 8&frac12;-7&frac12; victory. | Photo: Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-minds-2026-sharjah",
+         "pubDate" : "Tue, 17 Feb 2026 23:50:00",
+         "title" : "Liang beats Salem in Sharjah's \"Battle of Minds\""
+      },
+      {
          "description" : "Deep Blue was the first computer to win a match against the reigning World Champion. In May 1997, Deep Blue defeated Garry Kasparov in a six-game match by 3&frac12;-2&frac12;. Deep Blue was also the first computer ever to win a game under classical time control against a reigning World Champion - the first game of the first match between Deep Blue and Kasparov. In light of these successes, it is easy to forget that Kasparov won the first match 4-2 and at times made the supercomputer, which calculated an average of 126 million positions per second, look like little more than a competent beginner. Kasparov recognised the computer's potential at an early stage. | Photo: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/30-years-ago-kasparov-deep-blue",
          "pubDate" : "Tue, 17 Feb 2026 18:15:00",
          "title" : "30 years ago: Kasparov takes down Deep Blue"
+      },
+      {
+         "description" : "GM Fabiano Caruana finished just ahead of GM Denis Lazavik to win Titled Tuesday on February 17, after Caruana defeated GM Wesley So in the final round but Lazavik only made a draw with GM Hikaru Nakamura (in a rematch of the 3rd Place Match in th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/caruana-wins-titled-tuesday-february-17-2026",
+         "pubDate" : "Tue, 17 Feb 2026 12:29:45",
+         "title" : "Caruana Back Atop Titled Tuesday In Photo Finish"
       },
       {
          "description" : "Were you able to solve the challenge positions we gave you last week? Were you able to defeat the diagrams, which defended tenatiously? Today we bring you all solutions, with very instructive video explanations by Jared Modica, a chess content creator from Austin, Texas. He shows us how to solve tatical lines of play, and how to handle pawns in endgames.",
@@ -22,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-ccl-spring-week-1-mizzou-uva",
-         "pubDate" : "Tue, 17 Feb 2026 10:17:24",
+         "pubDate" : "Tue, 17 Feb 2026 10:17:00",
          "title" : "CCL Returns With Mizzou In Dominant Form"
       },
       {
@@ -448,14 +464,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/7uice-foundation-chesscom-bridge-opportunity-gap",
          "pubDate" : "Fri, 06 Feb 2026 15:11:32",
          "title" : "Jaylen Brown's 7uice Foundation & Chess.com Bridge Opportunity Gap With Chess"
-      },
-      {
-         "description" : "GM Vincent Keymer rode his 10th-round victory over GM Magnus Carlsen in Freestyle Friday to a win in the tournament on February 6. Both players scored nine points but Keymer&#39;s tiebreaks put him in the lead. Keymer previously won on May 2, 2025, an...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/keymer-wins-freestyle-friday-february-6-2026",
-         "pubDate" : "Fri, 06 Feb 2026 11:57:49",
-         "title" : "Keymer Conquers Carlsen, Wins Freestyle Friday On Tiebreaks"
       },
       {
          "description" : "Tenders are now invited for the bookstall, coaching and/or commentary at the British Chess Championships 2026 in Coventry click here",
