@@ -696,14 +696,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-leads-on-6.510-sindarov-van-foreest-and-bluebaum-are-in-the-chasing-pack",
          "pubDate" : "Thu, 29 Jan 2026 00:28:00",
          "title" : "Abdusattorov leads on 6.5/10 Sindarov, Van Foreest and Bluebaum are in the chasing pack - 10"
-      },
-      {
-         "description" : "The European Chess Union (ECU), together with the Croatian Chess Federation, invite all National Chess Federations of ECU to participate at European School Chess Championship 2026, which will take place from April 26th to May 6th 2026 in Trogir, Croatia. The event will be played in six age categories: U7, U9, U11, U13, U15 and U17, Open and Girls sections separately. Each Championship will be played in 9 rounds, swiss system, with the time control of 90 minutes + 30 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-school-chess-championship-2026-general-regulations/",
-         "pubDate" : "Wed, 28 Jan 2026 17:25:23",
-         "title" : "European School Chess Championship 2026 - General regulations"
       }
    ]
 }
