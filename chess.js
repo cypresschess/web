@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has confirmed the qualification routes for the 2026 FIDE Women's Freestyle Chess World Championship, establishing a structured pathway into the 8-player event. Bibisara Assaubayeva (pictured) has already secured her place after winning an exhibition match in Weissenhaus. The remaining spots will be decided through the Grenke Freestyle Open, rating-based invitations, an online qualifier for titled players and designated over-the-board qualifying events. | Photo: Freestyle Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-wc-women-2026-qualification",
+         "pubDate" : "Wed, 18 Feb 2026 16:00:00",
+         "title" : "Qualification paths for the FIDE Women's Freestyle Chess World Championship"
+      },
+      {
          "description" : "Chess has long been treated as more than a game. With its fixed rules and opposing sides, it offers a compact model of conflict, balance and choice. The board becomes a space where order and unpredictability meet, and where every move carries consequence. This article considers chess not simply as strategy, but as a reflection of the tensions that shape thought, action and the wider world. | Photo: Magnus Carlsen | Photo: Lennart Ootes (Archive)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-universal-tension-uvencio-blanco",
          "pubDate" : "Wed, 18 Feb 2026 13:00:00",
          "title" : "Chess as a mirror of universal tension"
+      },
+      {
+         "description" : "You can now play chess against iconic musician, artist, and activist Yoko Ono on Chess.com&#38;mdash;while also experiencing her art! Challenge the Yoko bot and play with an exclusive all-white chess set based on Yoko Ono&#39;s &#34;Play It By Trust&#34; artwor...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-yoko-ono-bot",
+         "pubDate" : "Wed, 18 Feb 2026 08:00:00",
+         "title" : "Play Against The New Yoko Ono Bot And Watch Award-Winning 'War Is Over!' Short"
+      },
+      {
+         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out our Tactics Tuesday series with more beginner-friendly puzzles here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2025-world-rapid-blitz-pt-7",
+         "pubDate" : "Wed, 18 Feb 2026 00:00:00",
+         "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 7"
       },
       {
          "description" : "US grandmaster Awonder Liang travelled to Sharjah to face Saleh Salem in the 12-game \"Battle of the Minds\", a mixed-format match held from 7 to 12 February. Combining rapid, classical and blitz chess, the contest remained closely balanced throughout. An early lead in the rapid segment ultimately enabled Liang to secure a narrow 8&frac12;-7&frac12; victory. | Photo: Lennart Ootes / Saint Louis Chess Club",
@@ -466,14 +490,6 @@ news_feed (
          "title" : "Chess attraction since antiquity"
       },
       {
-         "description" : "The 7uice Educational Fair, held on January 31 in Boston, Massachusetts, brought leaders from seemingly unrelated fields to the 64 squares on the chessboard. The 7uice Foundation, founded by Jaylen Brown of the Boston Celtics, partners with instit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/7uice-foundation-chesscom-bridge-opportunity-gap",
-         "pubDate" : "Fri, 06 Feb 2026 15:11:32",
-         "title" : "Jaylen Brown's 7uice Foundation & Chess.com Bridge Opportunity Gap With Chess"
-      },
-      {
          "description" : "Tenders are now invited for the bookstall, coaching and/or commentary at the British Chess Championships 2026 in Coventry click here",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -544,14 +560,6 @@ news_feed (
          "link" : "https://aicf.in/fide-arbiter-seminar-2026fide-arbiter-seminar-in-pune-28-feb-02-march-2026-thoothukudi-07-09-march-2026/",
          "pubDate" : "Thu, 05 Feb 2026 07:30:53",
          "title" : "Fide Arbiter Seminar in Pune 28 Feb -02 March 2026 & Thoothukudi 07-09 March 2026"
-      },
-      {
-         "description" : "You reach a moment in your contest that needs a TD. A survey of the playing area reveals no chess official in sight - not in the room, not in the hall, not in the TD room, etc. You stop the clocks and go on a hunt for help. The TD has vanished. When you return to your game you notice the TD is now settling a dispute at another board. It's a \"roll your eyes moment.\"You tell the TD that you are withdrawing. You are instructed to use the withdrawal sign-up sheet. Hey, you already told the TD. You don't need to do extra paperwork too. You get paired the next round anyhow. It's a \"roll your eyes moment.\"It is time for round one to start. You pre-entered the tournament and arrived in plenty of tim",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-roll-your-eyes-moments",
-         "pubDate" : "Thu, 05 Feb 2026 00:00:00",
-         "title" : "Just the Rules: Roll Your Eyes Moments"
       },
       {
          "description" : "The ECU E-Magazine December &#38; January 2025/2026 is out! In this edition of the ECU E-Magazine you may read about: The ECU Magazine can be read online together with interactive links through the following link, or it can be downloaded in PDF format below.",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2026-general-regulations/",
          "pubDate" : "Wed, 28 Jan 2026 17:25:23",
          "title" : "European School Chess Championship 2026 - General regulations"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/127716994.cms\" />Norway Chess has confirmed Germany's top player Vincent Keymer as a participant for the 2026 event, alongside Magnus Carlsen and R Praggnanandhaa. Keymer will make his debut after a rapid rise to World No. 4. Praggnanandhaa returns for a third time, while fans still await confirmation of reigning world champion D Gukesh and Arjun Erigaisi.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/still-no-d-gukesh-after-magnus-carlsen-and-r-praggnanandhaa-norway-chess-reveals-new-participant-for-2026-event/articleshow/127716994.cms",
-         "pubDate" : "Wed, 28 Jan 2026 15:55:20",
-         "title" : "Still no Gukesh! After Carlsen and Pragg, Norway Chess reveals new participant"
       }
    ]
 }
