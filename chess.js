@@ -704,14 +704,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-masters-gukesh-loses-to-matthias-bluebaum-arjun-erigaisi-draws-easy/articleshow/127696205.cms",
          "pubDate" : "Wed, 28 Jan 2026 10:04:30",
          "title" : "Tata Steel Masters: Gukesh loses to Bluebaum, Arjun draws easy"
-      },
-      {
-         "description" : " Nodirbek Abdusattorov continues to lead the Tata Steel Masters with a score of 6pts/9 after drawing with closest rival Javokhir Sindarov. However there is now more of a chasing pack on 5.5pts following wins for Yagiz Kaan Erdogmus over Thai Dai Van Nguyen and Jorden Van Foreest who absolutely crushed Vincent Keymer in a sharp London System. The travails of Gukesh continue when he was thoroughly outplayed by Matthias Bluebaum who is now a point off the lead alongside Hans Moke Niemann who now hasn't won since round 4. The final game to finish saw Praggnanandhaa beat Chithambaram Aravindh in a major piece endgame that seems to me likely to be worth studying. Round 9 Standings: 1st Abdusattoro",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-draws-against-sindarov-in-tata-steel-masters-round-9-to-keep-a-half-point-lead",
-         "pubDate" : "Wed, 28 Jan 2026 01:24:00",
-         "title" : "Abdusattorov draws against Sindarov in Tata Steel Masters Round 9 to keep a half point lead - 9"
       }
    ]
 }
