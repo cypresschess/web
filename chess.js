@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess has long been treated as more than a game. With its fixed rules and opposing sides, it offers a compact model of conflict, balance and choice. The board becomes a space where order and unpredictability meet, and where every move carries consequence. This article considers chess not simply as strategy, but as a reflection of the tensions that shape thought, action and the wider world. | Photo: Magnus Carlsen | Photo: Lennart Ootes (Archive)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-universal-tension-uvencio-blanco",
+         "pubDate" : "Wed, 18 Feb 2026 13:00:00",
+         "title" : "Chess as a mirror of universal tension"
+      },
+      {
          "description" : "US grandmaster Awonder Liang travelled to Sharjah to face Saleh Salem in the 12-game \"Battle of the Minds\", a mixed-format match held from 7 to 12 February. Combining rapid, classical and blitz chess, the contest remained closely balanced throughout. An early lead in the rapid segment ultimately enabled Liang to secure a narrow 8&frac12;-7&frac12; victory. | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/still-no-d-gukesh-after-magnus-carlsen-and-r-praggnanandhaa-norway-chess-reveals-new-participant-for-2026-event/articleshow/127716994.cms",
          "pubDate" : "Wed, 28 Jan 2026 15:55:20",
          "title" : "Still no Gukesh! After Carlsen and Pragg, Norway Chess reveals new participant"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/127696205.cms\" />World champion D Gukesh faced another defeat at the Tata Steel Masters, losing to Matthias Bluebaum. Arjun Erigaisi secured a quick draw against Hans Moke Niemann. Meanwhile, R Praggnanandhaa achieved his first win of the tournament against Aravindh Chithambaram, while Jorden van Foreest delivered a standout performance.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-masters-gukesh-loses-to-matthias-bluebaum-arjun-erigaisi-draws-easy/articleshow/127696205.cms",
-         "pubDate" : "Wed, 28 Jan 2026 10:04:30",
-         "title" : "Tata Steel Masters: Gukesh loses to Bluebaum, Arjun draws easy"
       }
    ]
 }
