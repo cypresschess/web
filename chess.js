@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dutch grandmaster Jan Timman, an elite player from the 1970s, a nine-time national champion and former world number two, has passed away at the age of 74. He was known for his imaginative and attacking style of play, and his creative writings as a chess author. Timman was twice married and had two children. He will be sorely missed. | Photo: Lennart Ootes (2019)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jan-timman-1951-2026",
+         "pubDate" : "Thu, 19 Feb 2026 15:50:00",
+         "title" : "Jan Timman, 1951-2026"
+      },
+      {
+         "description" : " Jan Timman, the Dutch number one chess player for many years and World number two in January 1982, has passed away at the age of 74. Timman first qualified for an Interzonal in 1979 and was a Candidate between the years of 1986 and 1996. He fought a 24 game match for the FIDE World Chess Championship against Anatoly Karpov in 1993. His most impressive tournament win was the 1991 Immopar Rapid in Paris, this was a knockout where he beat Gata Kamsky, Anatoly Karpov, Viswanathan Anand, and Garry Kasparov. Timman was a very successful tournament player, especially in the 1980s and his career results are more than comparable with the legendary Bent Larsen. Timman had a Universal and varied style",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/jan-timman-1951-2026",
+         "pubDate" : "Thu, 19 Feb 2026 14:42:00",
+         "title" : "Jan Timman 1951-2026 - 1951-2026"
+      },
+      {
          "description" : "Following a review of applications, a panel appointed by the FIDE Council has selected seventeen players, coaches and organisers for inclusion in the 2026 support programme for chess veterans. A total of €37,000 will be distributed among the beneficiaries. Since its launch twelve years ago, the programme has provided nearly €500,000 in assistance, recognising long-standing contributions to the game through individual profiles and career summaries.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,12 +58,36 @@ news_feed (
          "title" : "Van Foreest convincingly defeats G&uuml;rel in 12-game match played in Ankara"
       },
       {
+         "description" : "Chess.com and Freestyle Chess are proud to launch the Freestyle Friday Championship, a brand-new, season-long race that will award a direct spot in the 2027 FIDE Freestyle Chess World Championship and in the 2027 FIDE Women&#39;s Freestyle Chess World...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-freestyle-friday-championship-2026",
+         "pubDate" : "Thu, 19 Feb 2026 08:00:00",
+         "title" : "Announcing The 2026 Freestyle Friday Championship"
+      },
+      {
+         "description" : "You can now get coached by two of India&#39;s most recognized chess personalities, GM Viswanathan Anand and IM Tania Sachdev! Pick them as your coach and enjoy their voices and commentary every time you use Game Review, solve puzzles, and more! As...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-vishy-tania-coaches",
+         "pubDate" : "Thu, 19 Feb 2026 07:00:00",
+         "title" : "Get Coached By Viswanathan Anand And Tania Sachdev On Chess.com"
+      },
+      {
          "description" : "The 15th Women's Grandmaster Chess Festival - Krystyna Hołuj-Radzikowska Memorial - has brought leading female players to Poland for a team match between Poland and the Rest of the World. After three rounds, the hosts hold a narrow lead, while Austria's Olga Badelka tops the individual standings. The event honours nine-time Polish champion Krystyna Hołuj-Radzikowska and combines elite competition with a broader festival programme. | Image: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/wroclaw-women-festival-2026-r3",
          "pubDate" : "Thu, 19 Feb 2026 00:50:00",
          "title" : "Women's GM Festival in Wrocław: Poland v. Rest of the World"
+      },
+      {
+         "description" : "Editor's note: this story first appeared in the February 2026 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.Ask a chessplayer to pick today's important endgame theorist, and chances are they'll say Mark Dvoretsky, whose eponymous Dvoretsky's Endgame Manual has become one of the most recommended (if less often fully read) books among today's elite.Some will prefer Karsten M&uuml;ller, with Fundamental Chess Endings (co-written with Frank Lamprecht) and How to Play Chess Endgames (with",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/inside-story-emperor-endgame",
+         "pubDate" : "Thu, 19 Feb 2026 00:00:00",
+         "title" : "Inside Story: Emperor of the Endgame"
       },
       {
          "description" : "FIDE has confirmed the qualification routes for the 2026 FIDE Women's Freestyle Chess World Championship, establishing a structured pathway into the 8-player event. Bibisara Assaubayeva (pictured) has already secured her place after winning an exhibition match in Weissenhaus. The remaining spots will be decided through the Grenke Freestyle Open, rating-based invitations, an online qualifier for titled players and designated over-the-board qualifying events. | Photo: Freestyle Chess / Lennart Ootes",
@@ -490,22 +530,6 @@ news_feed (
          "title" : "Defeats teach you more than wins: D Gukesh"
       },
       {
-         "description" : "In an exhibition of dynamism and speed, GM Oleksandr Bortnyk won his first Bullet Brawl&#38;nbsp;title in five months after outpacing 154 titled players in Saturday&#39;s two-hour arena. With GM Hikaru Nakamura unavailable to defend his five-week winnin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-feb-7-2026",
-         "pubDate" : "Sat, 07 Feb 2026 21:20:00",
-         "title" : "Bortnyk Engineers 14-Game Streak, Breaks 5-Month Drought"
-      },
-      {
-         "description" : "GMs Magnus Carlsen and Alireza Firouzja are the two finalists in the 2025 Speed Chess Championship. Carlsen prevailed in a one-sided match against GM Denis Lazavik 17-9, while Firouzja pulled off one of the greatest comebacks in SCC history to rea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-sf",
-         "pubDate" : "Sat, 07 Feb 2026 17:58:00",
-         "title" : "Firouzja Pulls Clutch Comeback Vs. Nakamura, Carlsen Dominates Lazavik"
-      },
-      {
          "description" : "I'm proud of my mental game. It helps me learn quicker and perform under pressure. But last weekend, playing Padel, I realized once again my biggest leak. The Trigger It was a great match, very even, great rallies, a lot of fun. After two sets, we were tied (6-7, 6-3). Now there were only 25 []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -560,14 +584,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/17th-continental-womens-chess-championships-2026-announced",
          "pubDate" : "Fri, 06 Feb 2026 00:00:00",
          "title" : "17th Continental Women's Chess Championships 2026 Announced"
-      },
-      {
-         "description" : "Manhattan's Marshall Chess Club is one of the country's most storied chess clubs. Entering the building, you're surrounded by history both recent and distant: plaques of past club champions, a library replete with old and first edition books, photos of guest grandmasters in the building, and even the table GM Magnus Carlsen defeated GM Sergey Karjakin on during the 2016 World Championship match held in New York.But if you've played at the Marshall in recent years, \"history\" might not be the first thing that comes to mind. Instead, chances are you were paired against a child or junior player in at least one of your games, regardless of whether you were playing in a Rated Beginner Open (RBO) o",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/adewumi-singh-triumphant-marshall-junior-championship-returns",
-         "pubDate" : "Fri, 06 Feb 2026 00:00:00",
-         "title" : "Adewumi, Singh Triumphant as Marshall Junior Championship Returns"
       },
       {
          "description" : "\"Many players use ChessBase, it is the most popular chess software by far, writes GM Iniyan Pa. \"Yet, not many people are fully aware of all of its features, and fail to utilise most of them. In this guide I have tried to show the features that I think are vital and important so that the user may gain the most out of the ChessBase. I hope it helps them in their development.\" We are deeply indebted to Iniyan for his remarkable five-part training review.",
@@ -712,14 +728,6 @@ news_feed (
          "link" : "https://aicf.in/announcement-medical-evaluation-in-chennai-on-27-28-february-2026/",
          "pubDate" : "Fri, 30 Jan 2026 06:17:15",
          "title" : "Announcement : Medical Evaluation in Chennai on 27 & 28 February 2026."
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/127777017.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-set-to-make-norway-chess-women-debut/articleshow/127777017.cms",
-         "pubDate" : "Thu, 29 Jan 2026 12:50:37",
-         "title" : "Divya Deshmukh set to make Norway Chess Women debut"
       }
    ]
 }
