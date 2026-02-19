@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "By coincidence, ChessBase conducted an interview with Loek van Wely just one day before the passing of Jan Timman. Their Dutch rivalry at the board defined an era, yet beyond the battles they also shared memorable moments, such as representing their country together at the 1992 Olympiad in Manila. Although Van Wely's peak years are behind him, he has remarkably maintained a 2600+ level and remains fiercely competitive. In the interview, he reveals how he sustains his strength, and reflects on politics, poker, and his work as a coach.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/loek-van-wely-on-jan-timman-s-legacy-poker-politics-staying-elite-interview",
+         "pubDate" : "Thu, 19 Feb 2026 17:28:00",
+         "title" : "Loek van Wely on Jan Timman's Legacy, Poker, Politics & Staying Elite - Interview"
+      },
+      {
          "description" : "Dutch grandmaster Jan Timman, an elite player from the 1970s, a nine-time national champion and former world number two, has passed away at the age of 74. He was known for his imaginative and attacking style of play, and his creative writings as a chess author. Timman was twice married and had two children. He will be sorely missed. | Photo: Lennart Ootes (2019)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/jan-timman-1951-2026",
          "pubDate" : "Thu, 19 Feb 2026 14:42:00",
          "title" : "Jan Timman 1951-2026 - 1951-2026"
-      },
-      {
-         "description" : "Following a review of applications, a panel appointed by the FIDE Council has selected seventeen players, coaches and organisers for inclusion in the 2026 support programme for chess veterans. A total of €37,000 will be distributed among the beneficiaries. Since its launch twelve years ago, the programme has provided nearly €500,000 in assistance, recognising long-standing contributions to the game through individual profiles and career summaries.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-support-program-veterans-2026",
-         "pubDate" : "Thu, 19 Feb 2026 12:00:00",
-         "title" : "FIDE distributes €37,000 among chess veterans"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128553691.cms\" />Wesley So confirmed his return to Norway Chess 2026, marking his sixth appearance in the elite tournament. A former world No. 2, So is known for his precision and consistency, highlighted by a 67-game unbeaten streak and a peak rating above 2800. A world champion in Fischer Random and multiple U.S. champion, he remains a top contender. Norway Chess organizers praised his depth and fighting strength.",
@@ -50,14 +50,6 @@ news_feed (
          "title" : "Record &pound;52,500 prize pot announced as entries open for 2026 British Chess Championships in Coventry!"
       },
       {
-         "description" : "A 12-game match between Ediz G&uuml;rel and Jorden van Foreest was held in Ankara from 11 to 17 February under the auspices of the Turkish Chess Federation and the Ministry of Youth and Sports. Combining classical, Freestyle and blitz formats with a weighted scoring system, the encounter tested versatility across time controls. Van Foreest established control in the classical section and maintained his advantage through to the final day.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ankara-match-van-foreest-gurel-2026",
-         "pubDate" : "Thu, 19 Feb 2026 08:39:04",
-         "title" : "Van Foreest convincingly defeats G&uuml;rel in 12-game match played in Ankara"
-      },
-      {
          "description" : "Chess.com and Freestyle Chess are proud to launch the Freestyle Friday Championship, a brand-new, season-long race that will award a direct spot in the 2027 FIDE Freestyle Chess World Championship and in the 2027 FIDE Women&#39;s Freestyle Chess World...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -74,36 +66,12 @@ news_feed (
          "title" : "Get Coached By Viswanathan Anand And Tania Sachdev On Chess.com"
       },
       {
-         "description" : "The 15th Women's Grandmaster Chess Festival - Krystyna Hołuj-Radzikowska Memorial - has brought leading female players to Poland for a team match between Poland and the Rest of the World. After three rounds, the hosts hold a narrow lead, while Austria's Olga Badelka tops the individual standings. The event honours nine-time Polish champion Krystyna Hołuj-Radzikowska and combines elite competition with a broader festival programme. | Image: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wroclaw-women-festival-2026-r3",
-         "pubDate" : "Thu, 19 Feb 2026 00:50:00",
-         "title" : "Women's GM Festival in Wrocław: Poland v. Rest of the World"
-      },
-      {
          "description" : "Editor's note: this story first appeared in the February 2026 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.Ask a chessplayer to pick today's important endgame theorist, and chances are they'll say Mark Dvoretsky, whose eponymous Dvoretsky's Endgame Manual has become one of the most recommended (if less often fully read) books among today's elite.Some will prefer Karsten M&uuml;ller, with Fundamental Chess Endings (co-written with Frank Lamprecht) and How to Play Chess Endgames (with",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/inside-story-emperor-endgame",
          "pubDate" : "Thu, 19 Feb 2026 00:00:00",
          "title" : "Inside Story: Emperor of the Endgame"
-      },
-      {
-         "description" : "FIDE has confirmed the qualification routes for the 2026 FIDE Women's Freestyle Chess World Championship, establishing a structured pathway into the 8-player event. Bibisara Assaubayeva (pictured) has already secured her place after winning an exhibition match in Weissenhaus. The remaining spots will be decided through the Grenke Freestyle Open, rating-based invitations, an online qualifier for titled players and designated over-the-board qualifying events. | Photo: Freestyle Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-wc-women-2026-qualification",
-         "pubDate" : "Wed, 18 Feb 2026 16:00:00",
-         "title" : "Qualification paths for the FIDE Women's Freestyle Chess World Championship"
-      },
-      {
-         "description" : "Chess has long been treated as more than a game. With its fixed rules and opposing sides, it offers a compact model of conflict, balance and choice. The board becomes a space where order and unpredictability meet, and where every move carries consequence. This article considers chess not simply as strategy, but as a reflection of the tensions that shape thought, action and the wider world. | Photo: Magnus Carlsen | Photo: Lennart Ootes (Archive)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-universal-tension-uvencio-blanco",
-         "pubDate" : "Wed, 18 Feb 2026 13:00:00",
-         "title" : "Chess as a mirror of universal tension"
       },
       {
          "description" : "On February 14, 15-year-old American GM Andy Woodward broke the Chess.com bullet rating record, previously held by GM Hikaru Nakamura. Nakamura set the previous record of 3570 on November 11, 2020, meaning that it stood for more than five years. W...",
