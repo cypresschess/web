@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Following a review of applications, a panel appointed by the FIDE Council has selected seventeen players, coaches and organisers for inclusion in the 2026 support programme for chess veterans. A total of €37,000 will be distributed among the beneficiaries. Since its launch twelve years ago, the programme has provided nearly €500,000 in assistance, recognising long-standing contributions to the game through individual profiles and career summaries.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-support-program-veterans-2026",
+         "pubDate" : "Thu, 19 Feb 2026 12:00:00",
+         "title" : "FIDE distributes €37,000 among chess veterans"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128553691.cms\" />Wesley So confirmed his return to Norway Chess 2026, marking his sixth appearance in the elite tournament. A former world No. 2, So is known for his precision and consistency, highlighted by a 67-game unbeaten streak and a peak rating above 2800. A world champion in Fischer Random and multiple U.S. champion, he remains a top contender. Norway Chess organizers praised his depth and fighting strength.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/american-gm-wesley-so-returns-to-norway-chess-for-sixth-time/articleshow/128553691.cms",
+         "pubDate" : "Thu, 19 Feb 2026 10:49:27",
+         "title" : "American GM Wesley So returns to Norway Chess for sixth time"
+      },
+      {
+         "description" : "The European Chess Union (ECU) mourns the passing of Grandmaster Jan Timman, one of the most celebrated Dutch chess players and a towering figure in the international chess community. Timman, who passed away in February 2026, leaves behind a legacy marked by brilliance, creativity, and a lifelong dedication to the game. Born in Amsterdam in 1951, Jan Timman rose to prominence as a leading contender on the world stage, earning the title of International Grandmaster in 1974. He was renowned []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/obituary-grandmaster-jan-timman-1951-2026/",
+         "pubDate" : "Thu, 19 Feb 2026 10:14:50",
+         "title" : "Obituary: Grandmaster Jan Timman (1951-2026)"
+      },
+      {
+         "description" : "Entries are now open for the 2026 British Chess Championships, with record prize money, an expanded festival programme and a major boost for women's chess confirmed ahead of the event's...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/record-52500-prize-pot-announced-as-entries-open-for-2026-british-chess-championships-in-coventry/",
+         "pubDate" : "Thu, 19 Feb 2026 09:00:25",
+         "title" : "Record &pound;52,500 prize pot announced as entries open for 2026 British Chess Championships in Coventry!"
+      },
+      {
          "description" : "A 12-game match between Ediz G&uuml;rel and Jorden van Foreest was held in Ankara from 11 to 17 February under the auspices of the Turkish Chess Federation and the Ministry of Youth and Sports. Combining classical, Freestyle and blitz formats with a weighted scoring system, the encounter tested versatility across time controls. Van Foreest established control in the classical section and maintained his advantage through to the final day.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/woodward-breaks-chess-com-bullet-rating-record",
-         "pubDate" : "Wed, 18 Feb 2026 12:26:24",
+         "pubDate" : "Wed, 18 Feb 2026 12:26:00",
          "title" : "Woodward Breaks Chess.com Bullet Rating Record"
       },
       {
