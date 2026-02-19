@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A 12-game match between Ediz G&uuml;rel and Jorden van Foreest was held in Ankara from 11 to 17 February under the auspices of the Turkish Chess Federation and the Ministry of Youth and Sports. Combining classical, Freestyle and blitz formats with a weighted scoring system, the encounter tested versatility across time controls. Van Foreest established control in the classical section and maintained his advantage through to the final day.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ankara-match-van-foreest-gurel-2026",
+         "pubDate" : "Thu, 19 Feb 2026 08:39:04",
+         "title" : "Van Foreest convincingly defeats G&uuml;rel in 12-game match played in Ankara"
+      },
+      {
          "description" : "The 15th Women's Grandmaster Chess Festival - Krystyna Hołuj-Radzikowska Memorial - has brought leading female players to Poland for a team match between Poland and the Rest of the World. After three rounds, the hosts hold a narrow lead, while Austria's Olga Badelka tops the individual standings. The event honours nine-time Polish champion Krystyna Hołuj-Radzikowska and combines elite competition with a broader festival programme. | Image: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
