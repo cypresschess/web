@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 15th Women's Grandmaster Chess Festival - Krystyna Hołuj-Radzikowska Memorial - has brought leading female players to Poland for a team match between Poland and the Rest of the World. After three rounds, the hosts hold a narrow lead, while Austria's Olga Badelka tops the individual standings. The event honours nine-time Polish champion Krystyna Hołuj-Radzikowska and combines elite competition with a broader festival programme. | Image: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wroclaw-women-festival-2026-r3",
+         "pubDate" : "Thu, 19 Feb 2026 00:50:00",
+         "title" : "Women's GM Festival in Wrocław: Poland v. Rest of the World"
+      },
+      {
          "description" : "FIDE has confirmed the qualification routes for the 2026 FIDE Women's Freestyle Chess World Championship, establishing a structured pathway into the 8-player event. Bibisara Assaubayeva (pictured) has already secured her place after winning an exhibition match in Weissenhaus. The remaining spots will be decided through the Grenke Freestyle Open, rating-based invitations, an online qualifier for titled players and designated over-the-board qualifying events. | Photo: Freestyle Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +26,14 @@ news_feed (
          "title" : "Chess as a mirror of universal tension"
       },
       {
+         "description" : "On February 14, 15-year-old American GM Andy Woodward broke the Chess.com bullet rating record, previously held by GM Hikaru Nakamura. Nakamura set the previous record of 3570 on November 11, 2020, meaning that it stood for more than five years. W...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/woodward-breaks-chess-com-bullet-rating-record",
+         "pubDate" : "Wed, 18 Feb 2026 12:26:24",
+         "title" : "Woodward Breaks Chess.com Bullet Rating Record"
+      },
+      {
          "description" : "You can now play chess against iconic musician, artist, and activist Yoko Ono on Chess.com&#38;mdash;while also experiencing her art! Challenge the Yoko bot and play with an exclusive all-white chess set based on Yoko Ono&#39;s &#34;Play It By Trust&#34; artwor...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -32,22 +48,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-2025-world-rapid-blitz-pt-7",
          "pubDate" : "Wed, 18 Feb 2026 00:00:00",
          "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 7"
-      },
-      {
-         "description" : "US grandmaster Awonder Liang travelled to Sharjah to face Saleh Salem in the 12-game \"Battle of the Minds\", a mixed-format match held from 7 to 12 February. Combining rapid, classical and blitz chess, the contest remained closely balanced throughout. An early lead in the rapid segment ultimately enabled Liang to secure a narrow 8&frac12;-7&frac12; victory. | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-minds-2026-sharjah",
-         "pubDate" : "Tue, 17 Feb 2026 23:50:00",
-         "title" : "Liang beats Salem in Sharjah's \"Battle of Minds\""
-      },
-      {
-         "description" : "Deep Blue was the first computer to win a match against the reigning World Champion. In May 1997, Deep Blue defeated Garry Kasparov in a six-game match by 3&frac12;-2&frac12;. Deep Blue was also the first computer ever to win a game under classical time control against a reigning World Champion - the first game of the first match between Deep Blue and Kasparov. In light of these successes, it is easy to forget that Kasparov won the first match 4-2 and at times made the supercomputer, which calculated an average of 126 million positions per second, look like little more than a competent beginner. Kasparov recognised the computer's potential at an early stage. | Photo: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/30-years-ago-kasparov-deep-blue",
-         "pubDate" : "Tue, 17 Feb 2026 18:15:00",
-         "title" : "30 years ago: Kasparov takes down Deep Blue"
       },
       {
          "description" : "GM Fabiano Caruana finished just ahead of GM Denis Lazavik to win Titled Tuesday on February 17, after Caruana defeated GM Wesley So in the final round but Lazavik only made a draw with GM Hikaru Nakamura (in a rematch of the 3rd Place Match in th...",
@@ -474,14 +474,6 @@ news_feed (
          "title" : "What Triggers You?"
       },
       {
-         "description" : "The Esports World Cup Foundation (EWCF) has today officially announced that chess will be a part of the inaugural Esports Nations Cup (ENC), set to take place in Riyadh, Saudi Arabia, from November 2-8, 2026. Chess will be one of 16 esports titl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/esports-nations-cup-2026",
-         "pubDate" : "Sat, 07 Feb 2026 09:34:37",
-         "title" : "Chess Joins Esports Nations Cup 2026 With 128-Player Field"
-      },
-      {
          "description" : "Chess is attractive in many ways, and for many kinds of people. At its simplest it is a hobby, taken up for pleasure or habit. At a higher level it becomes a mental sport, in which practitioners compete face to face in tournaments, competitions, and championships that range from the modest surroundings of a club []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -688,14 +680,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-set-to-make-norway-chess-women-debut/articleshow/127777017.cms",
          "pubDate" : "Thu, 29 Jan 2026 12:50:37",
          "title" : "Divya Deshmukh set to make Norway Chess Women debut"
-      },
-      {
-         "description" : " Nodirbek Abdusattorov continues to lead the Tata Steel Masters by half a point after the tenth round. Abdusattorov hasn't won a game since Giri beat him in Round 8 but no-one has caught him yet, today there was a draw against Vladimir Fedoseev where both players enjoyed the advantage at one stage or another. Discussion today has centred around why there have been so many errors with both Keymer and Gukesh talking about it. A combination of the youth and ambition of the field combined with the first time control with no increment has probably contributed. In second place Jorden Van Foreest and Javokhir Sindarov played each other and drew a well played game, they're now joined by Matthias Blu",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-leads-on-6.510-sindarov-van-foreest-and-bluebaum-are-in-the-chasing-pack",
-         "pubDate" : "Thu, 29 Jan 2026 00:28:00",
-         "title" : "Abdusattorov leads on 6.5/10 Sindarov, Van Foreest and Bluebaum are in the chasing pack - 10"
       }
    ]
 }
