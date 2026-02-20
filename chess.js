@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The world No 1 won his 21st global title by defeating his old rival Fabiano Caruana in Freestyle chess at Weissenhaus in Germany Magnus Carlsen notched up yet another world crown last weekend when the Norwegian, 35, continued his decade-long campaign aiming to edge ahead of Garry Kasparov and Bobby Fischer on the game's absolute pantheon. This time it was Freestyle chess, where the back row pieces start in randomised positions to eliminate pre-game prep. Carlsen, who currently also holds the Rapid and Blitz crowns, abdicated his Classical title in 2023 citing lack of motivation. His total titles, now 21, include five at classical chess, six at one-hour rapid, and nine at three-minute blitz.",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/feb/20/chess-magnus-carlsen-wins-yet-again-while-british-championship-prize-fund-soars",
+         "pubDate" : "Fri, 20 Feb 2026 08:00:27",
+         "title" : "Chess: Magnus Carlsen wins yet again while British Championship prize fund soars"
+      },
+      {
+         "description" : "Are the Candidates and World Championship time controls stuck in the past? Players are still facing brutal time scrambles that hurt the quality of chess we love to watch. Why does the increment start at move 41 for some, but from move one in others? Is tradition really helping, or just stressing players unnecessarily? Ravi Abhyankar dives into why FIDE's current system feels arbitrary and offers a smarter, simpler solution. If you are interested in how time controls shape elite chess, this article offers a thoughtful perspective. | Photo: Wikipedia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rethinking-time-controls",
+         "pubDate" : "Fri, 20 Feb 2026 08:00:00",
+         "title" : "Rethinking time controls in the Candidates and World Championship"
+      },
+      {
+         "description" : "The European Chess Union and the Georgian Chess Federation are honored to invite ECU member federations to participate in 25th European Women's Chess Championship. The event will be held in Batumi from 24 of May (arrival day) to 6 of June (departure day). The European Women's Chess Championship 2026 will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-individual-chess-championship-2026-invitation/",
+         "pubDate" : "Fri, 20 Feb 2026 07:37:05",
+         "title" : "European Women's Individual Chess Championship 2026 - Invitation"
+      },
+      {
          "description" : "By coincidence, ChessBase conducted an interview with Loek van Wely just one day before the passing of Jan Timman. Their Dutch rivalry at the board defined an era, yet beyond the battles they also shared memorable moments, such as representing their country together at the 1992 Olympiad in Manila. Although Van Wely's peak years are behind him, he has remarkably maintained a 2600+ level and remains fiercely competitive. In the interview, he reveals how he sustains his strength, and reflects on politics, poker, and his work as a coach.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -688,14 +712,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jan/30/chess-nodirbek-abdusattorov-narrowly-ahead-as-wijk-aan-zee-reaches-final-weekend",
          "pubDate" : "Fri, 30 Jan 2026 19:32:26",
          "title" : "Chess: Uzbek pair share narrow half-point lead as Wijk aan Zee reaches final weekend"
-      },
-      {
-         "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in eradicating the age fraud menace prevailing in sports and has directed",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/announcement-medical-evaluation-in-chennai-on-27-28-february-2026/",
-         "pubDate" : "Fri, 30 Jan 2026 06:17:15",
-         "title" : "Announcement : Medical Evaluation in Chennai on 27 & 28 February 2026."
       }
    ]
 }
