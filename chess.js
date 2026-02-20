@@ -26,6 +26,14 @@ news_feed (
          "title" : "Jan Timman 1951-2026 - 1951-2026"
       },
       {
+         "description" : "GM Jan Timman, a former world number-two, multiple world championship candidate, nine-time Dutch national champion, prolific author, honorary editor of New in Chess magazine, and endgame studies specialist, passed away on Wednesday after battling ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jan-timman-obituary",
+         "pubDate" : "Thu, 19 Feb 2026 14:22:00",
+         "title" : "Jan Timman (1951-2026)"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128553691.cms\" />Wesley So confirmed his return to Norway Chess 2026, marking his sixth appearance in the elite tournament. A former world No. 2, So is known for his precision and consistency, highlighted by a 67-game unbeaten streak and a peak rating above 2800. A world champion in Fischer Random and multiple U.S. champion, he remains a top contender. Norway Chess organizers praised his depth and fighting strength.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -66,7 +74,7 @@ news_feed (
          "title" : "Get Coached By Viswanathan Anand And Tania Sachdev On Chess.com"
       },
       {
-         "description" : "Editor's note: this story first appeared in the February 2026 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.Ask a chessplayer to pick today's important endgame theorist, and chances are they'll say Mark Dvoretsky, whose eponymous Dvoretsky's Endgame Manual has become one of the most recommended (if less often fully read) books among today's elite.Some will prefer Karsten M&uuml;ller, with Fundamental Chess Endings (co-written with Frank Lamprecht) and How to Play Chess Endgames (with",
+         "description" : "Editor's note: this story first appeared in the February 2026 issue of Chess Life magazine. A reduced size pdf of the magazine article is available to accompany this online version.Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.Ask a chessplayer to pick today's important endgame theorist, and chances are they'll say Mark Dvoretsky, whose eponymous Dvoretsky's Endgame Manual has become one of the most recommended (if less often fully read) books among today's elite.Some will prefer Karsten M&uuml;ller, with Fundame",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/inside-story-emperor-endgame",
@@ -472,14 +480,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-final-2025",
          "pubDate" : "Sun, 8 Feb 2026 22:27:00",
          "title" : "chess.com Speed Chess Final 2025 - Games and Results"
-      },
-      {
-         "description" : "GM Magnus Carlsen succeeded in defending his fifth title at the 2025 Speed Chess Championship by defeating GM Alireza Firouzja 15-12 in the Final. It&#39;s his third title in consecutive years and Carlsen earned $38,888.89 for his efforts, while Firou...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-2025-speed-chess-championship-final",
-         "pubDate" : "Sun, 08 Feb 2026 16:59:00",
-         "title" : "Carlsen Defends 5th SCC Title, Lazavik Upsets Nakamura"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128066185.cms\" />Chess will debut as an esports title at the Esports Nations Cup 2026 in Riyadh, running November 2-8. The event features 128 players in group and knockout formats, with rapid games and Armageddon tie-breakers. Players qualify via rankings, regional qualifiers, and wildcards. The tournament highlights chess's growing esports presence and global reach, following its successful Esports World Cup debut in 2025.",
