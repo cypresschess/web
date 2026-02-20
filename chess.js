@@ -74,6 +74,14 @@ news_feed (
          "title" : "Get Coached By Viswanathan Anand And Tania Sachdev On Chess.com"
       },
       {
+         "description" : "Grandmaster Jan Timman, a former world No. 2, a three-time world championship candidate and nine-time Dutch champion, died Thursday. He was 74. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> photo Burt Hochberg<br> <br> <br> <br> Born in Amsterdam, Timman first made his mark at age 15, finishing third in the World Junior Championship. He became the Netherlands' third grandmaster in 1974.By the 1980s, he was often referred to as the \"Best of the West,\" winning international tournaments alongside the Soviets' best. Some of his most impressive results included first places in the IBM tournament of 1981; the Wijk aan Zee tournaments (now known as Tata Ste",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/jan-timman-1951-2016",
+         "pubDate" : "Thu, 19 Feb 2026 00:00:00",
+         "title" : "Jan Timman, 1951-2016"
+      },
+      {
          "description" : "Editor's note: this story first appeared in the February 2026 issue of Chess Life magazine. A reduced size pdf of the magazine article is available to accompany this online version.Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.Ask a chessplayer to pick today's important endgame theorist, and chances are they'll say Mark Dvoretsky, whose eponymous Dvoretsky's Endgame Manual has become one of the most recommended (if less often fully read) books among today's elite.Some will prefer Karsten M&uuml;ller, with Fundame",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -544,14 +552,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/feb/06/abdusattorov-triumphs-at-wijk-aan-zee-as-uzbek-pair-sweep-chess-wimbledon",
          "pubDate" : "Fri, 06 Feb 2026 08:00:03",
          "title" : "Abdusattorov triumphs at Wijk aan Zee as Uzbek pair sweep 'chess Wimbledon'"
-      },
-      {
-         "description" : "The 17th Continental Women's Chess Championship of the Americas 2026 will be held March 30 - April 6, 2026 at the Delfines Hotel &amp; Convention Center, San Isidro, Lima, Peru. The event, organized by the Chess Confederation of the Americas and the Peruvian Sports Chess Federation (FDPA) is open to all American continent chess federation women players.This is a nine-round event and the time control for all games is Game 90 with 30-second increment starting from move one. The champion will qualify to participate in the FIDE World Cup and the prize fund is $8000 with the top 10 finishers receiving a prize. Click here to download a PDF of the full tournament regulations.OFFICIAL PLAYERSUS Ches",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/17th-continental-womens-chess-championships-2026-announced",
-         "pubDate" : "Fri, 06 Feb 2026 00:00:00",
-         "title" : "17th Continental Women's Chess Championships 2026 Announced"
       },
       {
          "description" : "\"Many players use ChessBase, it is the most popular chess software by far, writes GM Iniyan Pa. \"Yet, not many people are fully aware of all of its features, and fail to utilise most of them. In this guide I have tried to show the features that I think are vital and important so that the user may gain the most out of the ChessBase. I hope it helps them in their development.\" We are deeply indebted to Iniyan for his remarkable five-part training review.",
