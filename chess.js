@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this episode, Svitlana explores how to fight back after a blunder, using dramatic comeback examples from players like Magnus Carlsen and classic games from the 19th century to show that even the best can recover from lost material. The key lessons are to avoid self-pity, keep pieces on the board, create complications, pose constant problems, and play actively as if you're not worse-because pressure often causes the opponent to falter. Ultimately, she demonstrates that chess games are rarely over after a single mistake, and with the right mindset and resourcefulness, even a lost position can turn into a win or at least a save.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-fight-back-after-a-blunder",
+         "pubDate" : "Fri, 20 Feb 2026 16:22:31",
+         "title" : "Svitlana's Smart Moves - How to fight back, after a blunder"
+      },
+      {
+         "description" : "Who is your favourite chess player - we asked you recently. Whose games do you enjoy the most? We got a lot of feedback, and will show you the choices that human chess players make - and compare them with what a chess AI chooses, after it has played through and evaluated millions of games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/human-vs-ai-choices",
+         "pubDate" : "Fri, 20 Feb 2026 15:00:00",
+         "title" : "Human vs AI choices"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128604105.cms\" />Tripura's 15-year-old chess prodigy Arshiya Das recently became the first Woman International Master (WIM) from Northeast India after winning a tournament in Serbia. Her rise began from playing chess on a laptop as a child, followed by strong national and international results. With family sacrifices, coaching across India, and intense training, she has emerged as a major talent, highlighting both the region's potential and the need for better support and sponsorship",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
