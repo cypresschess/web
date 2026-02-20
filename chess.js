@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Entries are open for the 2026 British Chess Championships, which will return to Coventry from 1 to 9 August at the University of Warwick. The event will feature a record &pound;34,000 prize fund, a significantly increased women's prize fund and an expanded festival programme. Organised by the English Chess Federation, the nine-day championships are expected to attract more than 1,000 players across all age groups. | Photo: Chess in Schools and Communities",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-ch-2026-prize-announced",
+         "pubDate" : "Fri, 20 Feb 2026 21:00:00",
+         "title" : "Record &pound;34,000 prize pot announced as entries open for 2026 British Chess Championships in Coventry"
+      },
+      {
          "description" : "In this episode, Svitlana explores how to fight back after a blunder, using dramatic comeback examples from players like Magnus Carlsen and classic games from the 19th century to show that even the best can recover from lost material. The key lessons are to avoid self-pity, keep pieces on the board, create complications, pose constant problems, and play actively as if you're not worse-because pressure often causes the opponent to falter. Ultimately, she demonstrates that chess games are rarely over after a single mistake, and with the right mindset and resourcefulness, even a lost position can turn into a win or at least a save.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/23-year-old-chinese-chess-superstar-zhu-jiner-to-debut-at-norway-chess-women-2026/articleshow/128602203.cms",
          "pubDate" : "Fri, 20 Feb 2026 10:12:10",
          "title" : "Zhu Jiner to debut at Norway Chess Women 2026"
+      },
+      {
+         "description" : "GM Fabiano Caruana will have White against his U.S. rival GM Hikaru Nakamura when the 2026 FIDE Candidates Tournament begins in five weeks on March 29. The other first-round pairings are GMs Javokhir Sindarov vs. Andrey Esipenko, Matthias Bluebaum...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/caruana-nakamura-fide-candidates-tournament-pairings-2026",
+         "pubDate" : "Fri, 20 Feb 2026 08:26:00",
+         "title" : "Caruana-Nakamura In Round 1: FIDE Candidates Pairings Announced"
       },
       {
          "description" : " The world No 1 won his 21st global title by defeating his old rival Fabiano Caruana in Freestyle chess at Weissenhaus in Germany Magnus Carlsen notched up yet another world crown last weekend when the Norwegian, 35, continued his decade-long campaign aiming to edge ahead of Garry Kasparov and Bobby Fischer on the game's absolute pantheon. This time it was Freestyle chess, where the back-row pieces start in randomised positions to eliminate pre-game prep. Carlsen, who also holds the Rapid and Blitz crowns, abdicated his Classical title in 2023 citing lack of motivation. His total titles, now 21, include five at classical chess, six at one-hour rapid, and nine at three-minute blitz. <a href=\"",
@@ -149,9 +165,9 @@ news_feed (
          "description" : "Grandmaster Jan Timman, a former world No. 2, a three-time world championship candidate and nine-time Dutch champion, died Thursday. He was 74. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> photo Burt Hochberg<br> <br> <br> <br> Born in Amsterdam, Timman first made his mark at age 15, finishing third in the World Junior Championship. He became the Netherlands' third grandmaster in 1974.By the 1980s, he was often referred to as the \"Best of the West,\" winning international tournaments alongside the Soviets' best. Some of his most impressive results included first places in the IBM tournament of 1981; the Wijk aan Zee tournaments (now known as Tata Ste",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/jan-timman-1951-2016",
+         "link" : "https://new.uschess.org/news/jan-timman-1951-2026",
          "pubDate" : "Thu, 19 Feb 2026 00:00:00",
-         "title" : "Jan Timman, 1951-2016"
+         "title" : "Jan Timman, 1951-2026"
       },
       {
          "description" : "Editor's note: this story first appeared in the February 2026 issue of Chess Life magazine. A reduced size pdf of the magazine article is available to accompany this online version.Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.Ask a chessplayer to pick today's important endgame theorist, and chances are they'll say Mark Dvoretsky, whose eponymous Dvoretsky's Endgame Manual has become one of the most recommended (if less often fully read) books among today's elite.Some will prefer Karsten M&uuml;ller, with Fundame",
@@ -546,14 +562,6 @@ news_feed (
          "title" : "Most attractive chess players"
       },
       {
-         "description" : "We&#39;re excited to announce that the ChessKid Youth Championships are back for 2026! Following the same format as previous years, the event will bring together a stellar field of young talents in the Under-13 and Under-16 categories. Watch as the fu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesskid-youth-championships-2026",
-         "pubDate" : "Mon, 09 Feb 2026 08:00:00",
-         "title" : "Prodigies Collide In Upcoming ChessKid Youth Championships Starting February 21"
-      },
-      {
          "description" : " chess.com Speed Chess Final 2025 took place in person in London 7th to 8th February 2026. The was hosted by Chess.com's server. Magnus Carlsen won the event by defeating Denis Lazavik in the semifinals and Alireza Firouzja in the final. Lazavik beat Hikaru Nakamura to 3rd place.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -744,22 +752,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-joins-abdusattorov-in-the-lead-of-the-tata-steel-masters-with-two-rounds-to-go",
          "pubDate" : "Fri, 30 Jan 2026 22:11:00",
          "title" : "Sindarov joins Abdusattorov in the lead of the Tata Steel Masters with two rounds to go - 11"
-      },
-      {
-         "description" : "ChessBase Magazine offers a window to the world of professional chess. Nagesh Havanur takes a look at the current issue, CBM 229. All games from the FIDE World Cup, 27 annotated, 11 opening surveys, 3 opening videos, demo lectures and several exercises for training. Annotators include Sam Shankland, Wei Yi, Nodirbek Yakubboev and Gabriel Sargissian among others. The icing on the cake is the Special feature \"Giri's Gems\", offering the Dutch star's eight best games from the year 2025.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-229-review-nagesh-havanur",
-         "pubDate" : "Fri, 30 Jan 2026 20:00:00",
-         "title" : "CBM 229: The battle for the FIDE World Cup in Goa"
-      },
-      {
-         "description" : " Nodirbek Abdusattorov and Javokhir Sindarov lead the 14-man field, but their closest rivals are all only half a point behind with two rounds to go Uzbekistan's Nodirbek Abdusattorov and Javokhir Sindarov are just half a point ahead of their closest three rivals as the \"chess Wimbledon\" at Tata Steel Wijk aan Zee heads into its final two rounds this weekend. Abdusattorov was the clear leader, but he has drawn three and lost one of his last four games. Leading scores after 11 of the 13 rounds are Abdusattorov and Sindarov 7, Matthias Bl&uuml;baum (Germany), Jorden van Foreest (Netherlands) and Hans Niemann (US) 6.5, Vincent Keymer (Germany) 6, Yagiz Kaan Erdogmus (Turkey), Gukesh Dommaraju (I",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/jan/30/chess-nodirbek-abdusattorov-narrowly-ahead-as-wijk-aan-zee-reaches-final-weekend",
-         "pubDate" : "Fri, 30 Jan 2026 19:32:26",
-         "title" : "Chess: Uzbek pair share narrow half-point lead as Wijk aan Zee reaches final weekend"
       }
    ]
 }
