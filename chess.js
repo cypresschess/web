@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The world No 1 won his 21st global title by defeating his old rival Fabiano Caruana in Freestyle chess at Weissenhaus in Germany Magnus Carlsen notched up yet another world crown last weekend when the Norwegian, 35, continued his decade-long campaign aiming to edge ahead of Garry Kasparov and Bobby Fischer on the game's absolute pantheon. This time it was Freestyle chess, where the back row pieces start in randomised positions to eliminate pre-game prep. Carlsen, who currently also holds the Rapid and Blitz crowns, abdicated his Classical title in 2023 citing lack of motivation. His total titles, now 21, include five at classical chess, six at one-hour rapid, and nine at three-minute blitz.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128604105.cms\" />Tripura's 15-year-old chess prodigy Arshiya Das recently became the first Woman International Master (WIM) from Northeast India after winning a tournament in Serbia. Her rise began from playing chess on a laptop as a child, followed by strong national and international results. With family sacrifices, coaching across India, and intense training, she has emerged as a major talent, highlighting both the region's potential and the need for better support and sponsorship",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-gets-first-wim-from-northeast-how-15-year-old-arshiya-das-is-rewriting-chess-geography/articleshow/128604105.cms",
+         "pubDate" : "Fri, 20 Feb 2026 10:51:56",
+         "title" : "India gets first WIM from Northeast: The story of 15-year-old Arshiya Das"
+      },
+      {
+         "description" : "FIDE and Freestyle Chess have agreed that the FIDE Freestyle Chess World Championships will again be staged in Weissenhaus, Germany in 2027. The agreement confirms the continuation of the championship at the Baltic Sea venue following the inaugural edition in 2026. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/2027-fide-freestyle-chess-world-championships-to-be-held-in-weissenhaus",
+         "pubDate" : "Fri, 20 Feb 2026 10:48:40",
+         "title" : "2027 FIDE Freestyle Chess World Championships to be held in Weissenhaus"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128603577.cms\" />Norway Chess 2026 will take place in Oslo from May 25 to June 5, featuring elite men's and women's tournaments with equal prize money and format. Six players in each event will compete in a double round-robin with Armageddon tiebreaks. Stars include Magnus Carlsen, Gukesh, Praggnanandhaa, and Wesley So, plus Ju Wenjun, Zhu Jiner, Humpy Koneru, and Divya Deshmukh in the women's field.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-2026-from-d-gukesh-to-divya-deshmukh-full-list-of-players-in-open-and-womens-category/articleshow/128603577.cms",
+         "pubDate" : "Fri, 20 Feb 2026 10:32:42",
+         "title" : "Norway Chess 2026: Full list of players in open and women's category"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128602203.cms\" />Chinese Grandmaster Zhu Jiner will debut at Norway Chess Women 2026 in Oslo and said she is honoured and excited to compete. She climbed from World No. 10 to No. 2 in 2025 and won the FIDE Women's Grand Prix Series, earning a Candidates spot. Known for her balanced style, she will face top players, including Ju Wenjun at the prestigious event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/23-year-old-chinese-chess-superstar-zhu-jiner-to-debut-at-norway-chess-women-2026/articleshow/128602203.cms",
+         "pubDate" : "Fri, 20 Feb 2026 10:12:10",
+         "title" : "Zhu Jiner to debut at Norway Chess Women 2026"
+      },
+      {
+         "description" : " The world No 1 won his 21st global title by defeating his old rival Fabiano Caruana in Freestyle chess at Weissenhaus in Germany Magnus Carlsen notched up yet another world crown last weekend when the Norwegian, 35, continued his decade-long campaign aiming to edge ahead of Garry Kasparov and Bobby Fischer on the game's absolute pantheon. This time it was Freestyle chess, where the back-row pieces start in randomised positions to eliminate pre-game prep. Carlsen, who also holds the Rapid and Blitz crowns, abdicated his Classical title in 2023 citing lack of motivation. His total titles, now 21, include five at classical chess, six at one-hour rapid, and nine at three-minute blitz. <a href=\"",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/feb/20/chess-magnus-carlsen-wins-yet-again-while-british-championship-prize-fund-soars",
@@ -26,7 +58,7 @@ news_feed (
          "title" : "European Women's Individual Chess Championship 2026 - Invitation"
       },
       {
-         "description" : "By coincidence, ChessBase conducted an interview with Loek van Wely just one day before the passing of Jan Timman. Their Dutch rivalry at the board defined an era, yet beyond the battles they also shared memorable moments, such as representing their country together at the 1992 Olympiad in Manila. Although Van Wely's peak years are behind him, he has remarkably maintained a 2600+ level and remains fiercely competitive. In the interview, he reveals how he sustains his strength, and reflects on politics, poker, and his work as a coach.",
+         "description" : "By coincidence, ChessBase conducted an interview with Loek van Wely just a day after the passing of Jan Timman. Their Dutch rivalry at the board defined an era, yet beyond the battles they also shared memorable moments, such as representing their country together at the 1992 Olympiad in Manila. Although Van Wely's peak years are behind him, he has remarkably maintained a 2600+ level and remains fiercely competitive. In the interview, he reveals how he sustains his strength, and reflects on politics, poker, and his work as a coach.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/loek-van-wely-on-jan-timman-s-legacy-poker-politics-staying-elite-interview",
