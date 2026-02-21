@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "I have always been honest with you: Chess improvement is hard. There are no shortcuts. But recently, I realized I was making a critical mistake in how I spent my energy. I was spending 80% of my time trying to &#8220;save&#8221; the people who weren't doing the work. Answering the same basic doubts, soothing their []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/price-of-chess-improvement/",
+         "pubDate" : "Sat, 21 Feb 2026 14:00:00",
+         "title" : "The Price of Admission: How to Achieve Results You Are Truly Proud Of"
+      },
+      {
          "description" : "Hong Kong will host the fourth edition of the FIDE World Rapid and Blitz Team Championships from 17 to 21 June 2026, marking the event's first appearance in East Asia. Organised by FIDE, the tournament features rapid and blitz competitions, with teams required to field at least one female and one recreational player. The event follows previous editions in D&uuml;sseldorf, Astana and London.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -760,22 +768,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-takes-a-half-point-lead-into-the-final-round-of-the-tata-steel-masters",
          "pubDate" : "Sun, 1 Feb 2026 01:02:00",
          "title" : "Abdusattorov takes a half point lead into the final round of the Tata Steel Masters - 12"
-      },
-      {
-         "description" : "Improving your chess, or anything else, is pretty simple (not easy!). &#x27a1;&#xfe0f;Do What Matters &#x27a1;&#xfe0f;Do It Well &#x27a1;&#xfe0f;Do It Consistently So, why is then not everybody improving their chess and living happily ever after? And when that happens, some students get easily discouraged and give up. While others get back on track and push through. []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/why-chess-improvement-is-hard/",
-         "pubDate" : "Sat, 31 Jan 2026 14:00:00",
-         "title" : "This is what makes or breaks chess improvement"
-      },
-      {
-         "description" : "Chess960 (also known as Fischer Random or Freestyle Chess) is often presented as a bracing corrective to the alleged decadence of modern chess. It randomises the back-rank pieces into one of 960 possible starting positions and its advocates insist that by abolishing opening memorisation it restores honesty to the game, compelling players to think for []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/heresy-on-the-chessboard/",
-         "pubDate" : "Sat, 31 Jan 2026 12:36:49",
-         "title" : "Heresy on the chessboard"
       }
    ]
 }
