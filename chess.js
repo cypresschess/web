@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The pairings for the FIDE Candidates Tournament 2026 and the FIDE Women's Candidates Tournament 2026 have been confirmed following the official Drawing of Lots ceremony in Paphos. Scheduled from 28 March to 16 April 2026, both events will determine the challengers for the World Championship titles, with round-one matchups now set and preparations entering their final phase.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-pairings",
+         "pubDate" : "Sat, 21 Feb 2026 01:00:00",
+         "title" : "Candidates Tournaments' pairings drawn in Cyprus"
+      },
+      {
          "description" : "Entries are open for the 2026 British Chess Championships, which will return to Coventry from 1 to 9 August at the University of Warwick. The event will feature a record &pound;34,000 prize fund, a significantly increased women's prize fund and an expanded festival programme. Organised by the English Chess Federation, the nine-day championships are expected to attract more than 1,000 players across all age groups. | Photo: Chess in Schools and Communities",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,30 @@ news_feed (
          "link" : "https://en.chessbase.com/post/human-vs-ai-choices",
          "pubDate" : "Fri, 20 Feb 2026 15:00:00",
          "title" : "Human vs AI choices"
+      },
+      {
+         "description" : "FM Vasilios Kasioumis, who was the runner-up last year, returned to win it all in the 2026 Chess.com 3-Check Championship. This year&#39;s runner-up IM Toivo Keinanen did well to win the Grand Final 3-1, but he wasn&#39;t able to win the Reset. Kasioumis ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kasioumis-wins-2025-chesscom-3-check-championship-ko",
+         "pubDate" : "Fri, 20 Feb 2026 13:52:10",
+         "title" : "Kasioumis 3-Checks Best In 2026, Improves On Last Year's 2nd Place"
+      },
+      {
+         "description" : "With brand-new stakes introduced by the announcement of the Freestyle Friday Championship, the victory that GM Oleksandr Bortnyk earned in the February 20 edition of Freestyle Friday gave him a jumpstart toward potentially playing in the 2027 FIDE...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-february-20-2026",
+         "pubDate" : "Fri, 20 Feb 2026 13:15:25",
+         "title" : "Freestyle Friday Championship Begins With Another Win For Bortnyk"
+      },
+      {
+         "description" : "GM Fabiano Caruana followed up on his Titled Tuesday victory this week by becoming the first-ever winner of two 3 0 Thursday tournaments on the same day. He won the first tournament on tiebreaks over GM Matthias Bluebaum. He kept up his form by wi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/caruana-caruana-mahdavi-3-0-thursday-2-19-2026",
+         "pubDate" : "Fri, 20 Feb 2026 12:44:22",
+         "title" : "Caruana Doubles Up In 3 0 Thursday, Mahdavi Wins 3rd Tournament"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128604105.cms\" />Tripura's 15-year-old chess prodigy Arshiya Das recently became the first Woman International Master (WIM) from Northeast India after winning a tournament in Serbia. Her rise began from playing chess on a laptop as a child, followed by strong national and international results. With family sacrifices, coaching across India, and intense training, she has emerged as a major talent, highlighting both the region's potential and the need for better support and sponsorship",
@@ -514,30 +546,6 @@ news_feed (
          "title" : "Still no India No. 1 Erigaisi as Norway Chess reveals new participant"
       },
       {
-         "description" : "GM Magnus Carlsen won the 2025 Speed Chess Championship to earn his fifth title after defeating GM Alireza Firouzja in the Final. A participant in its very first edition in 2016, Carlsen called this year&#39;s Final &#34;probably the most fun Speed Chess ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-speed-chess-championship-finals-7-conclusions",
-         "pubDate" : "Tue, 10 Feb 2026 09:36:00",
-         "title" : "2025 Speed Chess Championship Finals - 7 Conclusions"
-      },
-      {
-         "description" : "Get ready for the next installment of the Chess.com Community Championships! The Chess.com 3-Check Chess Championship starts on February 18 at 9 a.m. ET / 15:00 CET / 7:30 p.m. IST and features a $2,500 prize fund&#38;mdash;so get ready to indulge in ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-3-check-chess-championship-2026",
-         "pubDate" : "Tue, 10 Feb 2026 08:00:00",
-         "title" : "Chess.com 3-Check Championship Starts On February 18 With 2 Days Of Qualifiers"
-      },
-      {
-         "description" : "Current and former NFL players gathered before the Super Bowl for the second annual BlitzChamps Live tournament and festivities in San Francisco, California, on February 6. At the end of the celebration of football and chess, Will Davis, a former ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/will-davis-repeats-as-blitzchamps-live-champion",
-         "pubDate" : "Tue, 10 Feb 2026 05:04:00",
-         "title" : "Will Davis Repeats As BlitzChamps Live Champion"
-      },
-      {
          "description" : "FIDE, in conjunction with the Chess Federation of Serbia, have announced that the FIDE World Cadets Rapid and Blitz Chess Championships 2026 will be held April 14-21, 2026 at the Hotel Zepter 4**** in Vrnjacka Banja, Serbia.** This is the World Cadet and Youth Rapid and Blitz; It is not the World Cadet with Standard time controls nor the World Youth with Standard time controls. TOURNAMENT DETAILSThere will be twelve sections: Open and Girls in age categories Under 18, Under 16, Under 14, Under 12, Under 10, and Under 8.A player's age as of Jan. 1, 2026 determines their age eligibility for a section.Under 18: Players born on or after Jan. 1, 2008Under 16: Players born on or after Jan. 1, 2010",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://www.thearticle.com/heresy-on-the-chessboard/",
          "pubDate" : "Sat, 31 Jan 2026 12:36:49",
          "title" : "Heresy on the chessboard"
-      },
-      {
-         "description" : " Javokhir Sindarov won a sharp game against Arjun Erigaisi, Sindarov got a winning advantage on the run up to move 40 but things were still very tricky and it was only after 52.Re4? that he was winning. In the meantime the leader Nodirbek Abdusattorov had a calm draw against Jorden Van Foreest. Hans Moke Niemann took a huge amount of risks against the struggling Thai Dai Van Nguyen, although the engine says he was losing at various points Nguyen's desperate time trouble was enough to justify his approach. 40.f4? left Niemann winning, 42...b2? gave Nguyen a final chance but after 43.Kf2? he was lost. Anish Giri won a sharp calculating game against Yagiz Kaan Erdogmus, 23...Ba6? was the losing",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/sindarov-joins-abdusattorov-in-the-lead-of-the-tata-steel-masters-with-two-rounds-to-go",
-         "pubDate" : "Fri, 30 Jan 2026 22:11:00",
-         "title" : "Sindarov joins Abdusattorov in the lead of the Tata Steel Masters with two rounds to go - 11"
       }
    ]
 }
