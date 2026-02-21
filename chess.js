@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hong Kong will host the fourth edition of the FIDE World Rapid and Blitz Team Championships from 17 to 21 June 2026, marking the event's first appearance in East Asia. Organised by FIDE, the tournament features rapid and blitz competitions, with teams required to field at least one female and one recreational player. The event follows previous editions in D&uuml;sseldorf, Astana and London.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-venue",
+         "pubDate" : "Sat, 21 Feb 2026 13:00:00",
+         "title" : "World Rapid and Blitz Team Championships head to Hong Kong"
+      },
+      {
+         "description" : "The 2026 FIDÉ Candidates Tournament will take place from March 28 to April 16, 2026, at the Cap St. Georges Hotel &#38; Resort in Paphos, Cyprus. This elite 14-round, double round-robin event will determine the challenger for the next World Chess Championship, featuring a prize fund of at least €700,000. The Women's Candidates Tournament will run []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/missing-link/",
+         "pubDate" : "Sat, 21 Feb 2026 10:53:41",
+         "title" : "Missing link"
+      },
+      {
          "description" : "Wilhelm Steinitz had lost his World Championship title to Emanuel Lasker in 1894, but he still retained the right to a return match. That rematch was scheduled to take place in Moscow at the end of 1896. Before that, however, Steinitz played a training match against Emanuel Schiffers. Join us on a brief journey back in time to Rostov-on-Don in 1896.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
