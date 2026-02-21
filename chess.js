@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wilhelm Steinitz had lost his World Championship title to Emanuel Lasker in 1894, but he still retained the right to a return match. That rematch was scheduled to take place in Moscow at the end of 1896. Before that, however, Steinitz played a training match against Emanuel Schiffers. Join us on a brief journey back in time to Rostov-on-Don in 1896.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/news-on-the-1896-schiffers-vs-steinitz-match",
+         "pubDate" : "Sat, 21 Feb 2026 09:00:00",
+         "title" : "News on the 1896 Schiffers vs Steinitz Match"
+      },
+      {
          "description" : "The pairings for the FIDE Candidates Tournament 2026 and the FIDE Women's Candidates Tournament 2026 have been confirmed following the official Drawing of Lots ceremony in Paphos. Scheduled from 28 March to 16 April 2026, both events will determine the challengers for the World Championship titles, with round-one matchups now set and preparations entering their final phase.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/kasioumis-wins-2025-chesscom-3-check-championship-ko",
-         "pubDate" : "Fri, 20 Feb 2026 13:52:10",
+         "pubDate" : "Fri, 20 Feb 2026 13:52:00",
          "title" : "Kasioumis 3-Checks Best In 2026, Improves On Last Year's 2nd Place"
       },
       {
