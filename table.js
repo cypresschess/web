@@ -1,4 +1,7 @@
 jtable([
+"CYPRESS","2026-02-20","40","<a href=https://ratings.uschess.org/event/202602200323 target='_blank'>Knights of Cypress</a>",
+"HOUSTON","2026-02-20","15","<a href=https://ratings.uschess.org/event/202602200243 target='_blank'>The Friday Knights</a>",
+"SUGAR LAND","2026-02-20","10","<a href=https://ratings.uschess.org/event/202602200223 target='_blank'>FBCC 2026 Love Your Pet Day Open</a>",
 "HOUSTON","2026-02-16","29","<a href=https://ratings.uschess.org/event/202602160193 target='_blank'>Bellaire Scholastic 2026</a>",
 "HOUSTON","2026-02-15","11","<a href=https://ratings.uschess.org/event/202602150313 target='_blank'>2026 Houston Circuit T2 by AzChAcad</a>",
 "HOUSTON","2026-02-15","12","<a href=https://ratings.uschess.org/event/202602150273 target='_blank'>Bellaire Sunday Swiss 2026.02.15</a>",
@@ -96,7 +99,4 @@ jtable([
 "HOUSTON","2025-11-16","18","<a href=https://ratings.uschess.org/event/202511160473 target='_blank'>2025 Thanksgiving by AzChAcad</a>",
 "HOUSTON","2025-11-16","49","<a href=https://ratings.uschess.org/event/202511160353 target='_blank'>Houston Fall FIDE 25</a>",
 "HOUSTON","2025-11-15","30","<a href=https://ratings.uschess.org/event/202511151713 target='_blank'>MTS-VHS-Chess tmt Nov 2025</a>",
-"HOUSTON","2025-11-15","8","<a href=https://ratings.uschess.org/event/202511150573 target='_blank'>chesspanda11152025saturday</a>",
-"HOUSTON","2025-11-15","16","<a href=https://ratings.uschess.org/event/202511150403 target='_blank'>NOV 15TH -- TROPHY-SCHOLASTIC</a>",
-"SPRING","2025-11-14","20","<a href=https://ratings.uschess.org/event/202511140233 target='_blank'>THE FRIDAY KNIGHTS (TX)</a>",
 ]);
