@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2026-02-21","59","<a href=https://ratings.uschess.org/event/202602210653 target='_blank'>TEXAS ACTION CHAMPIONSHIP 2026</a>",
+"HOUSTON","2026-02-21","9","<a href=https://ratings.uschess.org/event/202602210353 target='_blank'>chesspanda02212025saturday</a>",
 "CYPRESS","2026-02-20","40","<a href=https://ratings.uschess.org/event/202602200323 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2026-02-20","15","<a href=https://ratings.uschess.org/event/202602200243 target='_blank'>The Friday Knights</a>",
 "SUGAR LAND","2026-02-20","10","<a href=https://ratings.uschess.org/event/202602200223 target='_blank'>FBCC 2026 Love Your Pet Day Open</a>",
@@ -97,6 +99,4 @@ jtable([
 "SPRING","2025-11-21","26","<a href=https://ratings.uschess.org/event/202511210293 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2025-11-20","2","<a href=https://ratings.uschess.org/event/202511200033 target='_blank'>MATCH PLAY AW V JMC</a>",
 "HOUSTON","2025-11-16","18","<a href=https://ratings.uschess.org/event/202511160473 target='_blank'>2025 Thanksgiving by AzChAcad</a>",
-"HOUSTON","2025-11-16","49","<a href=https://ratings.uschess.org/event/202511160353 target='_blank'>Houston Fall FIDE 25</a>",
-"HOUSTON","2025-11-15","30","<a href=https://ratings.uschess.org/event/202511151713 target='_blank'>MTS-VHS-Chess tmt Nov 2025</a>",
 ]);
