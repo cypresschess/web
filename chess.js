@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 15th Krystyna Hołuj-Radzikowska Memorial concluded with a closely contested team match between Poland and the Rest of the World. After five rounds of classical games, the hosts secured overall victory in a match that remained undecided until the final day. The event honoured nine-time Polish champion Krystyna Hołuj-Radzikowska and once again underlined the festival's role in European women's chess. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wroclaw-women-festival-2026-r5",
+         "pubDate" : "Sun, 22 Feb 2026 17:10:00",
+         "title" : "Hołuj-Radzikowska Memorial: Poland narrowly beat the Rest of the World"
+      },
+      {
          "description" : "Twelve-year-old Argentine talent Faustino Oro is set to compete in the Aeroflot Open in Moscow, one of the strongest open tournaments on the international circuit. With two GM norms already secured and the rating requirement met, the event represents his final opportunity to become the youngest-ever GM in history. The Moscow tournament brings together an exceptionally strong field, with Ian Nepomniachtchi, Andrey Esipenko and Daniil Dubov as the top seeds. | Photo: Argentine Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
