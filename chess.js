@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Twelve-year-old Argentine talent Faustino Oro is set to compete in the Aeroflot Open in Moscow, one of the strongest open tournaments on the international circuit. With two GM norms already secured and the rating requirement met, the event represents his final opportunity to become the youngest-ever GM in history. The Moscow tournament brings together an exceptionally strong field, with Ian Nepomniachtchi, Andrey Esipenko and Daniil Dubov as the top seeds. | Photo: Argentine Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aeroflot-open-2026-preview",
+         "pubDate" : "Sun, 22 Feb 2026 10:00:00",
+         "title" : "Faustino Oro targets youngest-ever GM record at Aeroflot Open"
+      },
+      {
          "description" : "When you work with a programme on a regular basis, you should make that work as pleasant as possible. ChessBase&acute;26 offers endless possibilities - and that goes for the look too. Make your workspace individual and pleasant. In part 4 of our new series of tutorials we will show you how easy it is to design your individual notation so that analysing with it is a maximum pleasure.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -768,14 +776,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-beats-erigaisi-to-win-the-tata-steel-masters",
          "pubDate" : "Sun, 1 Feb 2026 21:06:00",
          "title" : "Abdusattorov beats Erigaisi to win the Tata Steel Masters - 13"
-      },
-      {
-         "description" : "The 88th edition of the Tata Steel Chess Tournament is taking place from 17 January to 1 February and once again features the traditional structure of parallel Masters and Challengers tournaments, each consisting of 14 players competing in a single round-robin. Nodirbek Abdusattorov enters the final round as the sole leader in the Masters, while Andy Woodward and Aydin Suleymanli are tied for first place in the Challengers. | Follow the games live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
-         "pubDate" : "Sun, 01 Feb 2026 11:45:00",
-         "title" : "Tata Steel Chess - Live!"
       }
    ]
 }
