@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When you work with a programme on a regular basis, you should make that work as pleasant as possible. ChessBase&acute;26 offers endless possibilities - and that goes for the look too. Make your workspace individual and pleasant. In part 4 of our new series of tutorials we will show you how easy it is to design your individual notation so that analysing with it is a maximum pleasure.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-4-figurines-and-colours",
+         "pubDate" : "Sun, 22 Feb 2026 07:00:00",
+         "title" : "ChessBase&acute;26 - Tips for Beginners, Part 4: Figurines and Colours"
+      },
+      {
+         "description" : "GM Arjun Erigaisi became the second Indian player, alongside GM Nihal Sarin, to win an edition of Bullet Brawl&#38;nbsp;after a dominant performance on Saturday. A 12-game winning streak catapulted Arjun into first place, and he then sealed the $400 f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-bullet-brawl-feb-21-2026",
+         "pubDate" : "Sat, 21 Feb 2026 19:09:00",
+         "title" : "Arjun Posts 12-Game Streak En Route To 1st Bullet Brawl Title"
+      },
+      {
+         "description" : "A recent study by Marc Barthelemy applies tools from information theory and statistical physics to analyse Chess960 opening positions systematically. By evaluating all 960 starting configurations with modern chess engines, the research examines first-move advantage and decision-making complexity across the variant. The results place standard chess in context, showing it to be statistically typical rather than structurally exceptional within the broader landscape of possible starting positions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/complexity-chess960-marc-barthelemy",
+         "pubDate" : "Sat, 21 Feb 2026 18:00:00",
+         "title" : "Quantifying complexity in Chess960: results from a study by Marc Barthelemy"
+      },
+      {
          "description" : "I have always been honest with you: Chess improvement is hard. There are no shortcuts. But recently, I realized I was making a critical mistake in how I spent my energy. I was spending 80% of my time trying to &#8220;save&#8221; the people who weren't doing the work. Answering the same basic doubts, soothing their []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -562,14 +586,6 @@ news_feed (
          "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 6"
       },
       {
-         "description" : "Already a candidate for the World Championship, GM Javokhir Sindarov took steps toward the 2026 Esports World Cup as well on February 10, winning Titled Tuesday with a 10/11 score. Coming in the largest field since September (455), it was his seco...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sindarov-wins-titled-tuesday-february-10-2026",
-         "pubDate" : "Tue, 10 Feb 2026 12:29:43",
-         "title" : "Sindarov Joins Carlsen With Second Titled Tuesday Win Of 2026"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128157998.cms\" />Norway Chess has confirmed Alireza Firouzja for its 2026 event in Oslo, while India No. 1 Arjun Erigaisi is still not in the announced lineup. Firouzja, a former prodigy who became a GM at 14 and the youngest to reach 2800 rating, has twice played the Candidates and finished runner-up at Norway Chess before. India will be represented by world champion Gukesh and R Praggnanandhaa, with more names to be revealed.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -760,14 +776,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2026-live",
          "pubDate" : "Sun, 01 Feb 2026 11:45:00",
          "title" : "Tata Steel Chess - Live!"
-      },
-      {
-         "description" : " Nodirbek Abdusattorov beat Matthias Bluebaum in Round 12 of the Tata Steel Masters to take a half point lead into the final round of the Tata Steel Masters. Abdusattorov was sharing the lead with his fellow-countryman Javokhir Sindarov who took a quick draw against Praggnanandhaa, he has a final round game against Thai Dai Van Nguyen who has lost his last four rounds, but Nguyen has had winning positions in some of these games. Nguyen has clearly been outclassed but been very game, time trouble in coping with the problems he's been set has been a major issue. Nguyen qualified for this last year, he probably won't play such an event again I think he'll be motivated tomorrow. Abdusattorov fac",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-takes-a-half-point-lead-into-the-final-round-of-the-tata-steel-masters",
-         "pubDate" : "Sun, 1 Feb 2026 01:02:00",
-         "title" : "Abdusattorov takes a half point lead into the final round of the Tata Steel Masters - 12"
       }
    ]
 }
