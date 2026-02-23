@@ -50,14 +50,6 @@ news_feed (
          "title" : "The Price of Admission: How to Achieve Results You Are Truly Proud Of"
       },
       {
-         "description" : "Hong Kong will host the fourth edition of the FIDE World Rapid and Blitz Team Championships from 17 to 21 June 2026, marking the event's first appearance in East Asia. Organised by FIDE, the tournament features rapid and blitz competitions, with teams required to field at least one female and one recreational player. The event follows previous editions in D&uuml;sseldorf, Astana and London.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-venue",
-         "pubDate" : "Sat, 21 Feb 2026 13:00:00",
-         "title" : "World Rapid and Blitz Team Championships head to Hong Kong"
-      },
-      {
          "description" : "The 2026 FIDÉ Candidates Tournament will take place from March 28 to April 16, 2026, at the Cap St. Georges Hotel &#38; Resort in Paphos, Cyprus. This elite 14-round, double round-robin event will determine the challenger for the next World Chess Championship, featuring a prize fund of at least €700,000. The Women's Candidates Tournament will run []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -72,38 +64,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/news-on-the-1896-schiffers-vs-steinitz-match",
          "pubDate" : "Sat, 21 Feb 2026 09:00:00",
          "title" : "News on the 1896 Schiffers vs Steinitz Match"
-      },
-      {
-         "description" : "The pairings for the FIDE Candidates Tournament 2026 and the FIDE Women's Candidates Tournament 2026 have been confirmed following the official Drawing of Lots ceremony in Paphos. Scheduled from 28 March to 16 April 2026, both events will determine the challengers for the World Championship titles, with round-one matchups now set and preparations entering their final phase.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-pairings",
-         "pubDate" : "Sat, 21 Feb 2026 01:00:00",
-         "title" : "Candidates Tournaments' pairings drawn in Cyprus"
-      },
-      {
-         "description" : "Entries are open for the 2026 British Chess Championships, which will return to Coventry from 1 to 9 August at the University of Warwick. The event will feature a record &pound;34,000 prize fund, a significantly increased women's prize fund and an expanded festival programme. Organised by the English Chess Federation, the nine-day championships are expected to attract more than 1,000 players across all age groups. | Photo: Chess in Schools and Communities",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-ch-2026-prize-announced",
-         "pubDate" : "Fri, 20 Feb 2026 21:00:00",
-         "title" : "Record &pound;34,000 prize pot announced as entries open for 2026 British Chess Championships in Coventry"
-      },
-      {
-         "description" : "In this episode, Svitlana explores how to fight back after a blunder, using dramatic comeback examples from players like Magnus Carlsen and classic games from the 19th century to show that even the best can recover from lost material. The key lessons are to avoid self-pity, keep pieces on the board, create complications, pose constant problems, and play actively as if you're not worse-because pressure often causes the opponent to falter. Ultimately, she demonstrates that chess games are rarely over after a single mistake, and with the right mindset and resourcefulness, even a lost position can turn into a win or at least a save.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-fight-back-after-a-blunder",
-         "pubDate" : "Fri, 20 Feb 2026 16:22:31",
-         "title" : "Svitlana's Smart Moves - How to fight back, after a blunder"
-      },
-      {
-         "description" : "Who is your favourite chess player - we asked you recently. Whose games do you enjoy the most? We got a lot of feedback, and will show you the choices that human chess players make - and compare them with what a chess AI chooses, after it has played through and evaluated millions of games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/human-vs-ai-choices",
-         "pubDate" : "Fri, 20 Feb 2026 15:00:00",
-         "title" : "Human vs AI choices"
       },
       {
          "description" : "FM Vasilios Kasioumis, who was the runner-up last year, returned to win it all in the 2026 Chess.com 3-Check Championship. This year&#39;s runner-up IM Toivo Keinanen did well to win the Grand Final 3-1, but he wasn&#39;t able to win the Reset. Kasioumis ...",
@@ -138,14 +98,6 @@ news_feed (
          "title" : "India gets first WIM from Northeast: The story of 15-year-old Arshiya Das"
       },
       {
-         "description" : "FIDE and Freestyle Chess have agreed that the FIDE Freestyle Chess World Championships will again be staged in Weissenhaus, Germany in 2027. The agreement confirms the continuation of the championship at the Baltic Sea venue following the inaugural edition in 2026. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/2027-fide-freestyle-chess-world-championships-to-be-held-in-weissenhaus",
-         "pubDate" : "Fri, 20 Feb 2026 10:48:40",
-         "title" : "2027 FIDE Freestyle Chess World Championships to be held in Weissenhaus"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128603577.cms\" />Norway Chess 2026 will take place in Oslo from May 25 to June 5, featuring elite men's and women's tournaments with equal prize money and format. Six players in each event will compete in a double round-robin with Armageddon tiebreaks. Stars include Magnus Carlsen, Gukesh, Praggnanandhaa, and Wesley So, plus Ju Wenjun, Zhu Jiner, Humpy Koneru, and Divya Deshmukh in the women's field.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -178,36 +130,12 @@ news_feed (
          "title" : "Chess: Magnus Carlsen wins yet again while British Championship prize fund soars"
       },
       {
-         "description" : "Are the Candidates and World Championship time controls stuck in the past? Players are still facing brutal time scrambles that hurt the quality of chess we love to watch. Why does the increment start at move 41 for some, but from move one in others? Is tradition really helping, or just stressing players unnecessarily? Ravi Abhyankar dives into why FIDE's current system feels arbitrary and offers a smarter, simpler solution. If you are interested in how time controls shape elite chess, this article offers a thoughtful perspective. | Photo: Wikipedia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rethinking-time-controls",
-         "pubDate" : "Fri, 20 Feb 2026 08:00:00",
-         "title" : "Rethinking time controls in the Candidates and World Championship"
-      },
-      {
          "description" : "The European Chess Union and the Georgian Chess Federation are honored to invite ECU member federations to participate in 25th European Women's Chess Championship. The event will be held in Batumi from 24 of May (arrival day) to 6 of June (departure day). The European Women's Chess Championship 2026 will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-womens-individual-chess-championship-2026-invitation/",
          "pubDate" : "Fri, 20 Feb 2026 07:37:05",
          "title" : "European Women's Individual Chess Championship 2026 - Invitation"
-      },
-      {
-         "description" : "By coincidence, ChessBase conducted an interview with Loek van Wely just a day after the passing of Jan Timman. Their Dutch rivalry at the board defined an era, yet beyond the battles they also shared memorable moments, such as representing their country together at the 1992 Olympiad in Manila. Although Van Wely's peak years are behind him, he has remarkably maintained a 2600+ level and remains fiercely competitive. In the interview, he reveals how he sustains his strength, and reflects on politics, poker, and his work as a coach.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/loek-van-wely-on-jan-timman-s-legacy-poker-politics-staying-elite-interview",
-         "pubDate" : "Thu, 19 Feb 2026 17:28:00",
-         "title" : "Loek van Wely on Jan Timman's Legacy, Poker, Politics & Staying Elite - Interview"
-      },
-      {
-         "description" : "Dutch grandmaster Jan Timman, an elite player from the 1970s, a nine-time national champion and former world number two, has passed away at the age of 74. He was known for his imaginative and attacking style of play, and his creative writings as a chess author. Timman was twice married and had two children. He will be sorely missed. | Photo: Lennart Ootes (2019)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jan-timman-1951-2026",
-         "pubDate" : "Thu, 19 Feb 2026 15:50:00",
-         "title" : "Jan Timman, 1951-2026"
       },
       {
          "description" : " Jan Timman, the Dutch number one chess player for many years and World number two in January 1982, has passed away at the age of 74. Timman first qualified for an Interzonal in 1979 and was a Candidate between the years of 1986 and 1996. He fought a 24 game match for the FIDE World Chess Championship against Anatoly Karpov in 1993. His most impressive tournament win was the 1991 Immopar Rapid in Paris, this was a knockout where he beat Gata Kamsky, Anatoly Karpov, Viswanathan Anand, and Garry Kasparov. Timman was a very successful tournament player, especially in the 1980s and his career results are more than comparable with the legendary Bent Larsen. Timman had a Universal and varied style",
