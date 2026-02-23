@@ -7,7 +7,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/wroclaw-women-festival-2026-r5",
          "pubDate" : "Sun, 22 Feb 2026 17:10:00",
-         "title" : "Hołuj-Radzikowska Memorial: Poland narrowly beat the Rest of the World"
+         "title" : "Hołuj-Radzikowska Memorial: Poland narrowly beat Rest of the World"
       },
       {
          "description" : "Twelve-year-old Argentine talent Faustino Oro is set to compete in the Aeroflot Open in Moscow, one of the strongest open tournaments on the international circuit. With two GM norms already secured and the rating requirement met, the event represents his final opportunity to become the youngest-ever GM in history. The Moscow tournament brings together an exceptionally strong field, with Ian Nepomniachtchi, Andrey Esipenko and Daniil Dubov as the top seeds. | Photo: Argentine Chess Federation",
@@ -776,14 +776,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-2026-a-players-guide-4",
          "pubDate" : "Mon, 02 Feb 2026 11:00:00",
          "title" : "ChessBase&acute;26: A Players Guide (4)"
-      },
-      {
-         "description" : " Nodirbek Abdusattorov took clear first in the Tata Steel Masters 2026. This is his second major victor in a row after winning the London Chess Classic, that followed a disaster at the Sinquefield Cup in August last year where he finished last. Abdusattorov was unsurprisingly very happy to win this year having come so close to winning the tournament several times in recent years. He said winning this tournament was a childhood dream. Abdusattorov had a half point lead and he beat Arjun Erigaisi in convincing style on the black side of an Evans Gambit. The result relegated Erigaisi to 13th place a terrible result for a player of his class. Javokhir Sindarov managed to squeeze out a win agains",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-beats-erigaisi-to-win-the-tata-steel-masters",
-         "pubDate" : "Sun, 1 Feb 2026 21:06:00",
-         "title" : "Abdusattorov beats Erigaisi to win the Tata Steel Masters - 13"
       }
    ]
 }
