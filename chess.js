@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Grandmaster Denis Kadri&#263 has won his first national title at the Montenegrin Chess Championship, scoring 9/11 in a closely contested event decided in the final round. Held in Podgorica and organised by the Chess Federation of Montenegro, the championship saw Nikola Đukić take silver and Jovan Milović bronze. | Photos: Chess Federation of Montenegro",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/montenegrin-championship-2026-report",
+         "pubDate" : "Mon, 23 Feb 2026 06:20:00",
+         "title" : "Montenegrin Championship: Denis Kadric captures first title"
+      },
+      {
          "description" : "The 15th Krystyna Hołuj-Radzikowska Memorial concluded with a closely contested team match between Poland and the Rest of the World. After five rounds of classical games, the hosts secured overall victory in a match that remained undecided until the final day. The event honoured nine-time Polish champion Krystyna Hołuj-Radzikowska and once again underlined the festival's role in European women's chess. | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
