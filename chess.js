@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 24 February to 6 March 2026, the eighth Prague International Chess Festival will take place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. Headlined by world champion Gukesh Dommaraju, the festival features strong Masters and Challengers tournaments, a youth Futures event, alongside numerous opens and alternative formats for players of all levels. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-preview",
+         "pubDate" : "Mon, 23 Feb 2026 19:50:00",
+         "title" : "Gukesh, Keymer and Abdusattorov head strong lineup at Prague Masters"
+      },
+      {
          "description" : "After a seven-year hiatus, a team competition that enjoys a unique place in London's chess calendar is back and has restarted play: the Bronowski Trophy. &#160; Named after the late...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/relaunch-of-the-bronowski-trophy/",
-         "pubDate" : "Mon, 23 Feb 2026 14:11:40",
+         "pubDate" : "Mon, 23 Feb 2026 17:22:40",
          "title" : "Relaunch of the Bronowski Trophy"
+      },
+      {
+         "description" : "Following a disagreement between Nick Faulks (then Chair of the Finance Council) and Mike Truran and a related exchange of correspondence in which Nick Faulks accused Mike Truran of casual...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/regulation-5/",
+         "pubDate" : "Mon, 23 Feb 2026 17:20:17",
+         "title" : "Regulation 5"
       },
       {
          "description" : "What 106,000 young chess players reveal about gender gaps in education is revealed by an extensive study of youth chess ratings. This article is distilled from a panel discussion at the Mindsets Chess in Education Conference, produced by the National Scholastic Chess Foundation (NSCF) and the Kasparov Chess Foundation, and held in New York City in December 2025. It uncovers the challenges chess girls face in chess competitions.",
