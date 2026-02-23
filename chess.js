@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What 106,000 young chess players reveal about gender gaps in education is revealed by an extensive study of youth chess ratings. This article is distilled from a panel discussion at the Mindsets Chess in Education Conference, produced by the National Scholastic Chess Foundation (NSCF) and the Kasparov Chess Foundation, and held in New York City in December 2025. It uncovers the challenges chess girls face in chess competitions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-hidden-pattern-challenges-chess-girls-face-in-competitions",
+         "pubDate" : "Mon, 23 Feb 2026 12:00:00",
+         "title" : "The Hidden Pattern - challenges chess girls face in competitions"
+      },
+      {
+         "description" : "The European Senior Team Chess Championship 2026 will take place from 26th August to 5th September 2026 in Hersonissos, Crete, Greece. The event will be played in two age categories: 50+ and 65+, open and women's sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game+ 30 seconds increment for every move played. A separate Women's Championship will be []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2026-invitation/",
+         "pubDate" : "Mon, 23 Feb 2026 09:58:42",
+         "title" : "European Senior Team Chess Championship 2026 - Invitation"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation , UP Chess Sports Association is organizing Senior National Arbiter Seminar &#38; exam in Hotel Amber, Amber Market ,Charbagh Road ,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-exam-in-lucknow-up-on-14-15-march-2026/",
+         "pubDate" : "Mon, 23 Feb 2026 09:49:15",
+         "title" : "SNA Seminar & Exam in Lucknow, UP on 14 & 15 March 2026"
+      },
+      {
          "description" : "Grandmaster Denis Kadri&#263 has won his first national title at the Montenegrin Chess Championship, scoring 9/11 in a closely contested event decided in the final round. Held in Podgorica and organised by the Chess Federation of Montenegro, the championship saw Nikola Đukić take silver and Jovan Milović bronze. | Photos: Chess Federation of Montenegro",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/montenegrin-championship-2026-report",
          "pubDate" : "Mon, 23 Feb 2026 06:20:00",
          "title" : "Montenegrin Championship: Denis Kadric captures first title"
+      },
+      {
+         "description" : "10-year-old WIM Bodhana Sivanandan scored an incredible 12/13 to reach the Final of the 2026 Under 13 ChessKid Youth Championship, but ultimately fell to her English rival FM Supratit Banerjee 3.5-1.5. Banerjee beat another 10-year-old, FM Ashwath...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-chesskid-youth-championships-under-13-wins",
+         "pubDate" : "Mon, 23 Feb 2026 00:26:00",
+         "title" : "Supratit Banerjee Stops Bodhana Sivanandan To Win ChessKid U13 Youth Championship"
       },
       {
          "description" : "The 15th Krystyna Hołuj-Radzikowska Memorial concluded with a closely contested team match between Poland and the Rest of the World. After five rounds of classical games, the hosts secured overall victory in a match that remained undecided until the final day. The event honoured nine-time Polish champion Krystyna Hołuj-Radzikowska and once again underlined the festival's role in European women's chess. | Photo: Official website",
@@ -704,14 +736,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/88th-tata-steel-2026",
          "pubDate" : "Mon, 2 Feb 2026 13:09:00",
          "title" : "88th Tata Steel 2026 - Games and Results"
-      },
-      {
-         "description" : "What is the secret of becoming really good at chess? How can you best improve your understanding, your results and your rating? Well, use the cutting edge study and training software. But also spend some time discovering all the advantages it offers! GM Iniyan Pa has uncovered all the secrets of ChessBase&acute;26, and presents his findings in his training/review reports.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-2026-a-players-guide-4",
-         "pubDate" : "Mon, 02 Feb 2026 11:00:00",
-         "title" : "ChessBase&acute;26: A Players Guide (4)"
       }
    ]
 }
