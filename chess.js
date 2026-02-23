@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After a seven-year hiatus, a team competition that enjoys a unique place in London's chess calendar is back and has restarted play: the Bronowski Trophy. &#160; Named after the late...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/relaunch-of-the-bronowski-trophy/",
+         "pubDate" : "Mon, 23 Feb 2026 14:11:40",
+         "title" : "Relaunch of the Bronowski Trophy"
+      },
+      {
          "description" : "What 106,000 young chess players reveal about gender gaps in education is revealed by an extensive study of youth chess ratings. This article is distilled from a panel discussion at the Mindsets Chess in Education Conference, produced by the National Scholastic Chess Foundation (NSCF) and the Kasparov Chess Foundation, and held in New York City in December 2025. It uncovers the challenges chess girls face in chess competitions.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-lucknow-up-on-14-15-march-2026/",
          "pubDate" : "Mon, 23 Feb 2026 09:49:15",
          "title" : "SNA Seminar & Exam in Lucknow, UP on 14 & 15 March 2026"
+      },
+      {
+         "description" : "We&#39;re excited to announce the qualification path for this year&#39;s most exciting blitz and bullet online event for women. With a $75,000 prize fund, the Women&#39;s Speed Chess Championship starts on July 6&#38;mdash;but the excitement begins much earlier f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-womens-speed-chess-championship-2026",
+         "pubDate" : "Mon, 23 Feb 2026 08:00:00",
+         "title" : "Road To Women's Speed Chess Championship Starts March 6 With Titled Tuesday Grand Prix"
       },
       {
          "description" : "Grandmaster Denis Kadri&#263 has won his first national title at the Montenegrin Chess Championship, scoring 9/11 in a closely contested event decided in the final round. Held in Podgorica and organised by the Chess Federation of Montenegro, the championship saw Nikola Đukić take silver and Jovan Milović bronze. | Photos: Chess Federation of Montenegro",
@@ -728,14 +744,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-first-chola-chess-international-gm-norm-round-robin-tournament-2026/",
          "pubDate" : "Tue, 03 Feb 2026 09:04:55",
          "title" : "Live games link for First Chola chess International GM Norm Round Robin Tournament 2026"
-      },
-      {
-         "description" : " The 88th Tata Steel Chess tournament took place in Wijk aan Zee Fri 16th Jan to Sun 1st Feb 2026. Players: Masters: Yagiz Kaan Erdogmus, Aravindh Chithambaram, Hans Niemann, Vincent Keymer, Javokhir Sindarov, Jorden van Foreest, Arjun Erigaisi, Praggnanandhaa Rameshbabu, Van Nguyen Thai Dai, Gukesh Dommaraju, Anish Giri, Vladimir Fedoseev, Matthias Bluebaum and Nodirbek Abdusattorov. Challengers: Vasyl Ivanchuk, Marc Andria Maurizzi, Velimir Ivic, Erwin l'Ami, Bibisara Assaubayeva, Eline Roebers, Miaoyi Lu, Max Warmerdam, Panesar Vedant, Andy Woodward, Aydin Suleymanli, Faustino Oro, Daniil Yuffa and Carissa Yip. Nodirbek Abdusattorov won the Masters, Andy Woodward the Challengers and the t",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/88th-tata-steel-2026",
-         "pubDate" : "Mon, 2 Feb 2026 13:09:00",
-         "title" : "88th Tata Steel 2026 - Games and Results"
       }
    ]
 }
