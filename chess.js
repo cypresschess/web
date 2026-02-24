@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All India Chess Federation invites applications from sincere, dedicated, and dynamic professionals for the following position: Position: PR ExecutiveEmployment Type: Full-Time Eligibility &#38; Qualifications:MBA /",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/vacancy-announcement-5/",
+         "pubDate" : "Tue, 24 Feb 2026 07:34:01",
+         "title" : "Vacancy Announcement"
+      },
+      {
+         "description" : "All India Chess Federation invites applications from sincere, hardworking, and proficient candidates for the following position:Name of the Post: Social Chess ExecutiveEmployment Type: Full-TimeEligibility &#38;",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/vacancy-announcement-4/",
+         "pubDate" : "Tue, 24 Feb 2026 07:31:12",
+         "title" : "Vacancy Announcement"
+      },
+      {
+         "description" : "The 2026 Romanian Chess Championships were held in Timișoara from 14 to 22 February, concluding after nine rounds of classical play across the Open, Women's and Amateurs sections. In the open event, Bogdan Deac claimed his second national title with a clear first-place finish. The women's championship was won by Corina Peptan (pictured), who secured her record-extending thirteenth national crown. | Photo: Romanian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/romanian-championships-2026-report",
+         "pubDate" : "Tue, 24 Feb 2026 07:05:00",
+         "title" : "Second national title for Deac, thirteenth for Peptan at Romanian Championships"
+      },
+      {
          "description" : "From 24 February to 6 March 2026, the eighth Prague International Chess Festival will take place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. Headlined by world champion Gukesh Dommaraju, the festival features strong Masters and Challengers tournaments, a youth Futures event, alongside numerous opens and alternative formats for players of all levels. | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -728,14 +752,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/another-indian-after-r-praggnanandhaa-norway-chess-reveals-fourth-participant-for-2026-event/articleshow/127884358.cms",
          "pubDate" : "Tue, 03 Feb 2026 11:24:02",
          "title" : "Another Indian! After Pragg, Norway Chess 2026 reveals fourth participant"
-      },
-      {
-         "description" : "Please find below live games link for the First Chola chess International GM Norm Round Robin Tournament 2026 from 2nd to 11th February 2026 scheduled at Chennai, India. Live games link",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-first-chola-chess-international-gm-norm-round-robin-tournament-2026/",
-         "pubDate" : "Tue, 03 Feb 2026 09:04:55",
-         "title" : "Live games link for First Chola chess International GM Norm Round Robin Tournament 2026"
       }
    ]
 }
