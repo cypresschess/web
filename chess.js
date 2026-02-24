@@ -744,14 +744,6 @@ news_feed (
          "link" : "https://aicf.in/first-chola-chess-international-gm-norm-round-robin-tournament-in-form-chennai-from-02-february-to-11-february-2026/",
          "pubDate" : "Wed, 04 Feb 2026 05:25:03",
          "title" : "First Chola chess International GM Norm Round Robin Tournament in form Chennai from 02 February to 11 February 2026."
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/127884358.cms\" />Reigning world champion Gukesh Dommaraju has been confirmed as the fourth participant for Norway Chess 2026, joining fellow Indian R Praggnanandhaa. The youngest world champion in history, Gukesh returns after a strong 2025 showing and a memorable win over Magnus Carlsen, highlighting India's growing dominance in world chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/another-indian-after-r-praggnanandhaa-norway-chess-reveals-fourth-participant-for-2026-event/articleshow/127884358.cms",
-         "pubDate" : "Tue, 03 Feb 2026 11:24:02",
-         "title" : "Another Indian! After Pragg, Norway Chess 2026 reveals fourth participant"
       }
    ]
 }
