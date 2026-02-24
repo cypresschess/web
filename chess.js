@@ -74,22 +74,6 @@ news_feed (
          "title" : "Supratit Banerjee Stops Bodhana Sivanandan To Win ChessKid U13 Youth Championship"
       },
       {
-         "description" : "The 15th Krystyna Hołuj-Radzikowska Memorial concluded with a closely contested team match between Poland and the Rest of the World. After five rounds of classical games, the hosts secured overall victory in a match that remained undecided until the final day. The event honoured nine-time Polish champion Krystyna Hołuj-Radzikowska and once again underlined the festival's role in European women's chess. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wroclaw-women-festival-2026-r5",
-         "pubDate" : "Sun, 22 Feb 2026 17:10:00",
-         "title" : "Hołuj-Radzikowska Memorial: Poland narrowly beat Rest of the World"
-      },
-      {
-         "description" : "Twelve-year-old Argentine talent Faustino Oro is set to compete in the Aeroflot Open in Moscow, one of the strongest open tournaments on the international circuit. With two GM norms already secured and the rating requirement met, the event represents his final opportunity to become the youngest-ever GM in history. The Moscow tournament brings together an exceptionally strong field, with Ian Nepomniachtchi, Andrey Esipenko and Daniil Dubov as the top seeds. | Photo: Argentine Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aeroflot-open-2026-preview",
-         "pubDate" : "Sun, 22 Feb 2026 10:00:00",
-         "title" : "Faustino Oro targets youngest-ever GM record at Aeroflot Open"
-      },
-      {
          "description" : "When you work with a programme on a regular basis, you should make that work as pleasant as possible. ChessBase&acute;26 offers endless possibilities - and that goes for the look too. Make your workspace individual and pleasant. In part 4 of our new series of tutorials we will show you how easy it is to design your individual notation so that analysing with it is a maximum pleasure.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -104,14 +88,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-bullet-brawl-feb-21-2026",
          "pubDate" : "Sat, 21 Feb 2026 19:09:00",
          "title" : "Arjun Posts 12-Game Streak En Route To 1st Bullet Brawl Title"
-      },
-      {
-         "description" : "A recent study by Marc Barthelemy applies tools from information theory and statistical physics to analyse Chess960 opening positions systematically. By evaluating all 960 starting configurations with modern chess engines, the research examines first-move advantage and decision-making complexity across the variant. The results place standard chess in context, showing it to be statistically typical rather than structurally exceptional within the broader landscape of possible starting positions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/complexity-chess960-marc-barthelemy",
-         "pubDate" : "Sat, 21 Feb 2026 18:00:00",
-         "title" : "Quantifying complexity in Chess960: results from a study by Marc Barthelemy"
       },
       {
          "description" : "I have always been honest with you: Chess improvement is hard. There are no shortcuts. But recently, I realized I was making a critical mistake in how I spent my energy. I was spending 80% of my time trying to &#8220;save&#8221; the people who weren't doing the work. Answering the same basic doubts, soothing their []",
