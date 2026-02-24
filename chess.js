@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "IM Nico Zwirs presents the Reversed Sicilian as a dynamic and practical weapon for White, especially suited to players who already use the Sicilian with Black and want to build on their existing understanding. Instead of a rigid, move-by-move repertoire, the course offers a flexible framework that helps you choose structures matching your style while learning how to deviate into less familiar setups when needed. Covering major Sicilian systems such as the Closed Sicilian, Najdorf, and Dragon, it explains how the extra tempo for White reshapes typical plans, strengthens attacking chances, and creates new strategic opportunities.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nico-zwirs-reversed-sicilian-power-win-with-1-c4-e5",
+         "pubDate" : "Tue, 24 Feb 2026 15:57:06",
+         "title" : "Nico Zwirs: Reversed Sicilian Power - Win with 1.c4 e5!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128753885.cms\" />World champion D Gukesh criticised Vladimir Kramnik's cheating allegations, saying cheating has been made a bigger issue than it is. While firmly against unethical play, Gukesh said he does not support Kramnik's approach and called for harmony in chess. The 19-year-old spoke ahead of the Prague International Chess Festival, where he hopes to regain form.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-i-am-not-supportive-of-that-d-gukesh-slams-vladimir-kramnik-over-cheating-allegations/articleshow/128753885.cms",
+         "pubDate" : "Tue, 24 Feb 2026 14:11:19",
+         "title" : "'I am not supportive of that': Gukesh slams Kramnik over cheating claims"
+      },
+      {
+         "description" : "It&#39;s time to put fire on the chessboard in the next installment of the Chess.com Community Championships. The Chess.com Atomic Chess Championship kicks off on March 4 and will feature a $2,500 prize fund. With explosive tactics and incendiary capt...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-atomic-chess-championship-2026",
+         "pubDate" : "Tue, 24 Feb 2026 08:00:00",
+         "title" : "Chess.com Atomic Chess Championship Kicks Off On March 4"
+      },
+      {
          "description" : "All India Chess Federation invites applications from sincere, dedicated, and dynamic professionals for the following position: Position: PR ExecutiveEmployment Type: Full-Time Eligibility &#38; Qualifications:MBA /",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -128,6 +152,14 @@ news_feed (
          "link" : "https://www.thearticle.com/missing-link/",
          "pubDate" : "Sat, 21 Feb 2026 10:53:41",
          "title" : "Missing link"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128639872.cms\" />The 2026 FIDE Candidates and Women's Candidates pairings are out, with both tournaments set in Cyprus from March 28 to April 16 in a double round-robin format. Key open clashes include Caruana vs Nakamura and Praggnanandhaa vs Giri, while the women's event features major games like Humpy vs Divya. After 14 rounds, the winners will challenge the world champions.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-2026-full-draw-divya-deshmukh-vs-koneru-humpy-in-womens-opener-praggnanandhaa-faces-anish-giri/articleshow/128639872.cms",
+         "pubDate" : "Sat, 21 Feb 2026 09:31:53",
+         "title" : "Candidates full draw: Divya vs Humpy in women's opener; Pragg faces Giri"
       },
       {
          "description" : "Wilhelm Steinitz had lost his World Championship title to Emanuel Lasker in 1894, but he still retained the right to a return match. That rematch was scheduled to take place in Moscow at the end of 1896. Before that, however, Steinitz played a training match against Emanuel Schiffers. Join us on a brief journey back in time to Rostov-on-Don in 1896.",
@@ -520,14 +552,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-legend-confirms-participation-for-norway-chess-women-2026-event/articleshow/128256518.cms",
          "pubDate" : "Thu, 12 Feb 2026 12:20:43",
          "title" : "Indian chess legend confirms participation for Norway Chess Women"
-      },
-      {
-         "description" : "The 2026 FIDE Freestyle Chess World Championship is taking place this weekend in Weissenhaus, Germany, with GM Magnus Carlsen topping an eight-player field featuring GMs Levon Aronian, Fabiano Caruana, Vincent Keymer, Arjun Erigaisi, Javokhir Sind...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-freestyle-chess-world-championship-preview",
-         "pubDate" : "Thu, 12 Feb 2026 11:08:00",
-         "title" : "Can Carlsen Claim Another Title? FIDE Freestyle Chess World Championship Preview"
       },
       {
          "description" : "We are inviting nominations for the BCET Awards 2026 (administered by The Chess Trust) which are for junior schools (including colleges and other education establishments) and junior clubs in the...",
