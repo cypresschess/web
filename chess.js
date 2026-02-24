@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Saint Louis Masters will take place from 25 February to 1 March as a nine-round Swiss invitational, bringing together a competitive international field. The event features a $100,000 prize fund and classical time controls, with 69 players taking part. World number three Fabiano Caruana is set to participate, ahead of a demanding schedule in March, which includes the American Cup and the Candidates Tournament. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-masters-2026-preview",
+         "pubDate" : "Tue, 24 Feb 2026 18:00:00",
+         "title" : "Starting Wednesday: Caruana star participant at Saint Louis Masters"
+      },
+      {
          "description" : "IM Nico Zwirs presents the Reversed Sicilian as a dynamic and practical weapon for White, especially suited to players who already use the Sicilian with Black and want to build on their existing understanding. Instead of a rigid, move-by-move repertoire, the course offers a flexible framework that helps you choose structures matching your style while learning how to deviate into less familiar setups when needed. Covering major Sicilian systems such as the Closed Sicilian, Najdorf, and Dragon, it explains how the extra tempo for White reshapes typical plans, strengthens attacking chances, and creates new strategic opportunities.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-i-am-not-supportive-of-that-d-gukesh-slams-vladimir-kramnik-over-cheating-allegations/articleshow/128753885.cms",
          "pubDate" : "Tue, 24 Feb 2026 14:11:19",
          "title" : "'I am not supportive of that': Gukesh slams Kramnik over cheating claims"
+      },
+      {
+         "description" : "GM Maxime Vachier-Lagrave won the February 24 edition of Titled Tuesday to wrap up the winter split with his second win of the month, becoming one of eight qualifiers into the Chess.com Global Championship. Vachier-Lagrave won in the final round t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-titled-tuesday-february-24-2026",
+         "pubDate" : "Tue, 24 Feb 2026 12:03:22",
+         "title" : "Vachier-Lagrave Takes Titled Tuesday, Advances In Esports World Cup Process"
+      },
+      {
+         "description" : "Netflix officially announced on Tuesday that its highly anticipated documentary on the 2022 scandal, involving GMs Magnus Carlsen and Hans Niemann, will premiere on the platform on April 7, 2026. Untold: Chess Mates revisits one of the most explos...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/netflix-untold-documentary-on-carlsen-niemann-scandal-gets-2026-release-date",
+         "pubDate" : "Tue, 24 Feb 2026 09:54:00",
+         "title" : "Netflix Documentary On Carlsen-Niemann Scandal Gets 2026 Release Date"
       },
       {
          "description" : "It&#39;s time to put fire on the chessboard in the next installment of the Chess.com Community Championships. The Chess.com Atomic Chess Championship kicks off on March 4 and will feature a $2,500 prize fund. With explosive tactics and incendiary capt...",
@@ -42,20 +66,12 @@ news_feed (
          "title" : "Vacancy Announcement"
       },
       {
-         "description" : "The 2026 Romanian Chess Championships were held in Timișoara from 14 to 22 February, concluding after nine rounds of classical play across the Open, Women's and Amateurs sections. In the open event, Bogdan Deac claimed his second national title with a clear first-place finish. The women's championship was won by Corina Peptan (pictured), who secured her record-extending thirteenth national crown. | Photo: Romanian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/romanian-championships-2026-report",
-         "pubDate" : "Tue, 24 Feb 2026 07:05:00",
-         "title" : "Second national title for Deac, thirteenth for Peptan at Romanian Championships"
-      },
-      {
-         "description" : "From 24 February to 6 March 2026, the eighth Prague International Chess Festival will take place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. Headlined by world champion Gukesh Dommaraju, the festival features strong Masters and Challengers tournaments, a youth Futures event, alongside numerous opens and alternative formats for players of all levels. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-preview",
-         "pubDate" : "Mon, 23 Feb 2026 19:50:00",
-         "title" : "Gukesh, Keymer and Abdusattorov head strong lineup at Prague Masters"
+         "description" : "Today's puzzles conclude our two-part series on the final and semifinal matches from the 2025 Chess.com Speed Chess Championship, held earlier this month in London. Under severe time pressure, many of the games produced instructive tactics suitable for our audience. Enjoy! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-chesscom-speed-chess-championship-pt-2",
+         "pubDate" : "Tue, 24 Feb 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2025 Chess.com Speed Chess Championship, Pt. 2"
       },
       {
          "description" : "After a seven-year hiatus, a team competition that enjoys a unique place in London's chess calendar is back and has restarted play: the Bronowski Trophy. &#160; Named after the late...",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/regulation-5/",
          "pubDate" : "Mon, 23 Feb 2026 17:20:17",
          "title" : "Regulation 5"
-      },
-      {
-         "description" : "What 106,000 young chess players reveal about gender gaps in education is revealed by an extensive study of youth chess ratings. This article is distilled from a panel discussion at the Mindsets Chess in Education Conference, produced by the National Scholastic Chess Foundation (NSCF) and the Kasparov Chess Foundation, and held in New York City in December 2025. It uncovers the challenges chess girls face in chess competitions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-hidden-pattern-challenges-chess-girls-face-in-competitions",
-         "pubDate" : "Mon, 23 Feb 2026 12:00:00",
-         "title" : "The Hidden Pattern - challenges chess girls face in competitions"
       },
       {
          "description" : "The European Senior Team Chess Championship 2026 will take place from 26th August to 5th September 2026 in Hersonissos, Crete, Greece. The event will be played in two age categories: 50+ and 65+, open and women's sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game+ 30 seconds increment for every move played. A separate Women's Championship will be []",
@@ -104,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-womens-speed-chess-championship-2026",
          "pubDate" : "Mon, 23 Feb 2026 08:00:00",
          "title" : "Road To Women's Speed Chess Championship Starts March 6 With Titled Tuesday Grand Prix"
-      },
-      {
-         "description" : "Grandmaster Denis Kadri&#263 has won his first national title at the Montenegrin Chess Championship, scoring 9/11 in a closely contested event decided in the final round. Held in Podgorica and organised by the Chess Federation of Montenegro, the championship saw Nikola Đukić take silver and Jovan Milović bronze. | Photos: Chess Federation of Montenegro",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/montenegrin-championship-2026-report",
-         "pubDate" : "Mon, 23 Feb 2026 06:20:00",
-         "title" : "Montenegrin Championship: Denis Kadric captures first title"
       },
       {
          "description" : "10-year-old WIM Bodhana Sivanandan scored an incredible 12/13 to reach the Final of the 2026 Under 13 ChessKid Youth Championship, but ultimately fell to her English rival FM Supratit Banerjee 3.5-1.5. Banerjee beat another 10-year-old, FM Ashwath...",
@@ -490,22 +490,6 @@ news_feed (
          "title" : "Carlsen Wins Group, Joined By Caruana, Keymer, Abdusattorov In Semifinals"
       },
       {
-         "description" : "Twelve-year-old IM Faustino Oro nearly claimed his first victory in 3 0 Thursday on February 12. He led with nine points out of 11 games in the final minute of the tournament, but GM Matthias Bluebaum scored a come-from-behind victory in his own g...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/https-bluebaum-bortnyk-martinez-3-0-thursday-2-12-2026",
-         "pubDate" : "Fri, 13 Feb 2026 14:38:28",
-         "title" : "Oro Shines & Bluebaum, Bortnyk, Martinez Win 3 0 Thursday Tournaments"
-      },
-      {
-         "description" : "GM Haik Martirosyan scored 10.5 points in Freestyle Friday on February 13, the most of anyone since last July. In the process, Martirosyan won the tournament&#38;mdash;his first win ever in this event&#38;mdash;by two whole points. IM Reza Mahdavi, GM Ale...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/martirosyan-wins-freestyle-friday-february-13-2026",
-         "pubDate" : "Fri, 13 Feb 2026 11:37:26",
-         "title" : "Unbeatable Martirosyan Wins First Freestyle Friday"
-      },
-      {
          "description" : "Participants at the English Youth Championships 2026 can look forward to a series of expert lectures at Nottingham High School on 7-8 March 2026. &#160; The sessions will include: Endgame...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -640,14 +624,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/registration-open-fide-world-cadet-youth-rapid-and-blitz-2026",
          "pubDate" : "Tue, 10 Feb 2026 00:00:00",
          "title" : "Registration Open for FIDE World Cadet & Youth Rapid and Blitz 2026"
-      },
-      {
-         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, including some brain-teasers in our Wednesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-world-rapid-blitz-pt-6",
-         "pubDate" : "Tue, 10 Feb 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2025 World Rapid & Blitz, Pt. 6"
       },
       {
          "description" : "Who is your favourite chess player - of all time, from the history of chess? Whose games do you enjoy the most? Is it one of the greats from the 19th century, the world champion legends of the twentieth? Or is it a player who is still active? Tell us your choices - and we will compare them with what a chess AI chooses, after evaluating millions of games.",
