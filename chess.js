@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Harrow School Saturday 21st February 2026 Winning chess championships is only for the young?&#160; John Nunn disagrees.&#160; Age 70, he has won the 2026 Winton British Chess Solving Championship.&#160; The...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-the-evergreen-john-nunn/",
+         "pubDate" : "Wed, 25 Feb 2026 09:13:30",
+         "title" : "Winton British Chess Solving Championship - The Evergreen John Nunn"
+      },
+      {
+         "description" : "The 2026 edition of the International Prague Chess Festival was officially declared opened yesterday, and is set to commence today in Czech Republic. The Festival features Masters, Challengers and Futures round-robin events that are simultaneously played in the same venue, and includes Open tournaments, Rapid events and side chess tournaments. The Futures competition is supported by the European Chess Union and the FIDE Development fund. The Masters event features: GM Vincent Keymer (GER, 2776), reigning World Champion GM Gukesh D []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/prague-chess-festival-2026-starts/",
+         "pubDate" : "Wed, 25 Feb 2026 08:45:58",
+         "title" : "Prague Chess Festival 2026 starts"
+      },
+      {
          "description" : "Please find the link Open 1700 https://live.tamilchess.com/13_nat_a/below_1700 Open 2000 https://live.tamilchess.com/13_nat_a/below_2000 Open 2300 https://live.tamilchess.com/13_nat_a/below_2300 Woman 1700 https://live.tamilchess.com/13_nat_a/w_below_1700 Woman 2000 https://live.tamilchess.com/13_nat_a/w_below_2000 Woman 2300 https://live.tamilchess.com/13_nat_a/w_below_2300",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -744,14 +760,6 @@ news_feed (
          "link" : "https://aicf.in/fide-arbiter-seminar-2026fide-arbiter-seminar-in-pune-28-feb-02-march-2026-thoothukudi-07-09-march-2026/",
          "pubDate" : "Thu, 05 Feb 2026 07:30:53",
          "title" : "Fide Arbiter Seminar in Pune 28 Feb -02 March 2026 & Thoothukudi 07-09 March 2026"
-      },
-      {
-         "description" : "The ECU E-Magazine December &#38; January 2025/2026 is out! In this edition of the ECU E-Magazine you may read about: The ECU Magazine can be read online together with interactive links through the following link, or it can be downloaded in PDF format below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-december-january-2025-2026/",
-         "pubDate" : "Wed, 04 Feb 2026 11:18:50",
-         "title" : "ECU E-Magazine December & January 2025/2026"
       }
    ]
 }
