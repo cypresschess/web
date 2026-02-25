@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find the link Open 1700 https://live.tamilchess.com/13_nat_a/below_1700 Open 2000 https://live.tamilchess.com/13_nat_a/below_2000 Open 2300 https://live.tamilchess.com/13_nat_a/below_2300 Woman 1700 https://live.tamilchess.com/13_nat_a/w_below_1700 Woman 2000 https://live.tamilchess.com/13_nat_a/w_below_2000 Woman 2300 https://live.tamilchess.com/13_nat_a/w_below_2300",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-links-for-13th-national-amateur-chess-championship-2025-26/",
+         "pubDate" : "Wed, 25 Feb 2026 07:38:31",
+         "title" : "Live Links for 13th National Amateur Chess Championship 2025-26"
+      },
+      {
+         "description" : "Netflix has announced \"Untold: Chess Mates\", a new documentary examining the controversy surrounding Hans Niemann's victory over Magnus Carlsen at the 2022 Sinquefield Cup. The film revisits Carlsen's withdrawal, the subsequent allegations of cheating and the intense public reaction that followed. It also places the dispute within the broader context of modern chess, including the growth of online play and the challenges it has created for trust and governance at the elite level. | Photo: Netflix",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/untold-chess-mates-netflix-release",
+         "pubDate" : "Wed, 25 Feb 2026 06:35:00",
+         "title" : "Netflix announces \"Untold: Chess Mates\", documentary on the Carlsen-Niemann controversy"
+      },
+      {
          "description" : "The Saint Louis Masters will take place from 25 February to 1 March as a nine-round Swiss invitational, bringing together a competitive international field. The event features a $100,000 prize fund and classical time controls, with 69 players taking part. World number three Fabiano Caruana is set to participate, ahead of a demanding schedule in March, which includes the American Cup and the Candidates Tournament. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -736,14 +752,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-december-january-2025-2026/",
          "pubDate" : "Wed, 04 Feb 2026 11:18:50",
          "title" : "ECU E-Magazine December & January 2025/2026"
-      },
-      {
-         "description" : "Of late there is no dearth of chess activity in India including umpteen number of Grandmasters open events. But closed circuit events give more scope",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/first-chola-chess-international-gm-norm-round-robin-tournament-in-form-chennai-from-02-february-to-11-february-2026/",
-         "pubDate" : "Wed, 04 Feb 2026 05:25:03",
-         "title" : "First Chola chess International GM Norm Round Robin Tournament in form Chennai from 02 February to 11 February 2026."
       }
    ]
 }
