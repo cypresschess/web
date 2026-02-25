@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. In the first round on Wednesday, the Masters section kicks off with several attractive match-ups: top seed Vincent Keymer (pictured) has Black against Jorden van Foreest; World Champion Gukesh has White and faces Hans Niemann, and Nodirbek Abdusattorov, winner of the Tata Steel Tournament in Wijk aan Zee, also plays White against Aravindh Chithambaram, winner of the Chess Festival Prague 2025. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-live",
+         "pubDate" : "Wed, 25 Feb 2026 14:30:00",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
          "description" : "Harrow School Saturday 21st February 2026 Winning chess championships is only for the young?&#160; John Nunn disagrees.&#160; Age 70, he has won the 2026 Winton British Chess Solving Championship.&#160; The...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -18,6 +26,22 @@ news_feed (
          "title" : "Prague Chess Festival 2026 starts"
       },
       {
+         "description" : "The lineup for Norway Chess 2026 has been finalized, setting the stage for another clash between world number-one Magnus Carlsen and reigning World Champion Gukesh Dommaraju.&#38;nbsp; The 14th edition of the prestigious tournament will take place p...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-gukesh-oslo-showdown-norway-chess-new-era",
+         "pubDate" : "Wed, 25 Feb 2026 08:06:18",
+         "title" : "Carlsen, Gukesh Set For Oslo Showdown As Norway Chess Enters New Era"
+      },
+      {
+         "description" : "We&#39;re excited to announce that the Chess.com Global Championship is now called the Chess.com Open! The event, which starts on March 14, is set to be the world&#39;s largest open tournament. With $250,000 in prizes and up to three direct spots to the n...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-open-2026",
+         "pubDate" : "Wed, 25 Feb 2026 08:05:14",
+         "title" : "Chess.com Global Championship Now Called Chess.com Open"
+      },
+      {
          "description" : "Please find the link Open 1700 https://live.tamilchess.com/13_nat_a/below_1700 Open 2000 https://live.tamilchess.com/13_nat_a/below_2000 Open 2300 https://live.tamilchess.com/13_nat_a/below_2300 Woman 1700 https://live.tamilchess.com/13_nat_a/w_below_1700 Woman 2000 https://live.tamilchess.com/13_nat_a/w_below_2000 Woman 2300 https://live.tamilchess.com/13_nat_a/w_below_2300",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/untold-chess-mates-netflix-release",
          "pubDate" : "Wed, 25 Feb 2026 06:35:00",
          "title" : "Netflix announces \"Untold: Chess Mates\", documentary on the Carlsen-Niemann controversy"
+      },
+      {
+         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out our Tactics Tuesday series with more beginner-friendly puzzles here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2025-world-rapid-blitz-pt-8",
+         "pubDate" : "Wed, 25 Feb 2026 00:00:00",
+         "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 8"
       },
       {
          "description" : "The Saint Louis Masters will take place from 25 February to 1 March as a nine-round Swiss invitational, bringing together a competitive international field. The event features a $100,000 prize fund and classical time controls, with 69 players taking part. World number three Fabiano Caruana is set to participate, ahead of a demanding schedule in March, which includes the American Cup and the Candidates Tournament. | Photo: Lennart Ootes",
@@ -370,14 +402,6 @@ news_feed (
          "title" : "Play Against The New Yoko Ono Bot And Watch Award-Winning 'War Is Over!' Short"
       },
       {
-         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out our Tactics Tuesday series with more beginner-friendly puzzles here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2025-world-rapid-blitz-pt-7",
-         "pubDate" : "Wed, 18 Feb 2026 00:00:00",
-         "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 7"
-      },
-      {
          "description" : "GM Fabiano Caruana finished just ahead of GM Denis Lazavik to win Titled Tuesday on February 17, after Caruana defeated GM Wesley So in the final round but Lazavik only made a draw with GM Hikaru Nakamura (in a rematch of the 3rd Place Match in th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -506,28 +530,12 @@ news_feed (
          "title" : "In memory of Bob Wade"
       },
       {
-         "description" : "Seven of the world&#39;s leading players have published an open letter expressing frustration about a scheduling conflict in August between this year&#39;s Grand Chess Tour and the Esports World Cup. The letter, signed by GMs Maxime Vachier-Lagrave, Lev...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/top-players-issue-open-letter-over-2026-calendar-clash",
-         "pubDate" : "Sat, 14 Feb 2026 04:55:00",
-         "title" : "Top Players Issue Open Letter Over 2026 Calendar Clash"
-      },
-      {
          "description" : "The 2026 English Championships will take place between 24 October 1 November at the Holiday Inn Peterborough West, and include Standard, Rapid, Blitz and Seniors Championships. &#160; The...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/the-2026-english-championships/",
          "pubDate" : "Fri, 13 Feb 2026 15:20:26",
          "title" : "The 2026 English Championships"
-      },
-      {
-         "description" : "GM Magnus Carlsen scored 4.5/7 to top the Group Stage of the&#38;nbsp;2026 FIDE Freestyle Chess World Championship in Weissenhaus, Germany. He got to pick his opponent in Saturday&#39;s Semifinals, choosing GM Nodirbek Abdusattorov, while GM Vincent Keyme...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-freestyle-chess-world-championship-group-stage",
-         "pubDate" : "Fri, 13 Feb 2026 14:40:00",
-         "title" : "Carlsen Wins Group, Joined By Caruana, Keymer, Abdusattorov In Semifinals"
       },
       {
          "description" : "Participants at the English Youth Championships 2026 can look forward to a series of expert lectures at Nottingham High School on 7-8 March 2026. &#160; The sessions will include: Endgame...",
