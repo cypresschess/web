@@ -66,6 +66,14 @@ news_feed (
          "title" : "Vacancy Announcement"
       },
       {
+         "description" : "For Black History Month, Chess Life Online has so far spotlighted the accomplishments of two Black players (Jacorey Bynum and IM Tani Adewumi), in addition to year-round coverage focusing on American chessplayers from diverse backgrounds.Today we shift attention to two prominent Black coaches: Detroit's Derek Wilder and New York City's WFM Perpetual Ogbiyoyo.Originally, these were going to be two separate profile pieces, highlighting the individual accomplishments, experiences, and philosophies of each coach. But, taking the two interviews (see below) together, what becomes clear is that there is no single \"best\" or \"right\" coaching philosophy. What makes each of Wilder and Ogbiyoyo excellen",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/coaches-profile-wfm-perpetual-ogbiyoyo-and-derek-wilder",
+         "pubDate" : "Tue, 24 Feb 2026 00:00:00",
+         "title" : "Coaches Profile: WFM Perpetual Ogbiyoyo and Derek Wilder"
+      },
+      {
          "description" : "Today's puzzles conclude our two-part series on the final and semifinal matches from the 2025 Chess.com Speed Chess Championship, held earlier this month in London. Under severe time pressure, many of the games produced instructive tactics suitable for our audience. Enjoy! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -616,14 +624,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/still-no-india-no-1-arjun-erigaisi-as-norway-chess-reveals-new-participant-for-2026-event/articleshow/128157998.cms",
          "pubDate" : "Tue, 10 Feb 2026 12:25:59",
          "title" : "Still no India No. 1 Erigaisi as Norway Chess reveals new participant"
-      },
-      {
-         "description" : "FIDE, in conjunction with the Chess Federation of Serbia, have announced that the FIDE World Cadets Rapid and Blitz Chess Championships 2026 will be held April 14-21, 2026 at the Hotel Zepter 4**** in Vrnjacka Banja, Serbia.** This is the World Cadet and Youth Rapid and Blitz; It is not the World Cadet with Standard time controls nor the World Youth with Standard time controls. TOURNAMENT DETAILSThere will be twelve sections: Open and Girls in age categories Under 18, Under 16, Under 14, Under 12, Under 10, and Under 8.A player's age as of Jan. 1, 2026 determines their age eligibility for a section.Under 18: Players born on or after Jan. 1, 2008Under 16: Players born on or after Jan. 1, 2010",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/registration-open-fide-world-cadet-youth-rapid-and-blitz-2026",
-         "pubDate" : "Tue, 10 Feb 2026 00:00:00",
-         "title" : "Registration Open for FIDE World Cadet & Youth Rapid and Blitz 2026"
       },
       {
          "description" : "Who is your favourite chess player - of all time, from the history of chess? Whose games do you enjoy the most? Is it one of the greats from the 19th century, the world champion legends of the twentieth? Or is it a player who is still active? Tell us your choices - and we will compare them with what a chess AI chooses, after evaluating millions of games.",
