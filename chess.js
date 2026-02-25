@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 21 to 29 September 2026, a group tour to Uzbekistan will combine cultural exploration with top-level chess. The journey includes visits to Samarkand, Bukhara and Tashkent, coinciding with the Chess Olympiad in Samarkand. Alongside attending the Olympiad, participants will take part in special chess events and training sessions, while discovering the architectural and historical legacy of the Silk Road. | Photo: Mosque Bibi-Khanum in Samarkand, via Wikimedia Commons",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-journey-uzbekistan-olympiad-2026",
+         "pubDate" : "Wed, 25 Feb 2026 21:05:00",
+         "title" : "A chess journey along the Silk Road: Visit Uzbekistan during the Chess Olympiad"
+      },
+      {
          "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. In the first round on Wednesday, the Masters section kicks off with several attractive match-ups: top seed Vincent Keymer (pictured) has Black against Jorden van Foreest; World Champion Gukesh has White and faces Hans Niemann, and Nodirbek Abdusattorov, winner of the Tata Steel Tournament in Wijk aan Zee, also plays White against Aravindh Chithambaram, winner of the Chess Festival Prague 2025. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,22 +74,6 @@ news_feed (
          "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 8"
       },
       {
-         "description" : "The Saint Louis Masters will take place from 25 February to 1 March as a nine-round Swiss invitational, bringing together a competitive international field. The event features a $100,000 prize fund and classical time controls, with 69 players taking part. World number three Fabiano Caruana is set to participate, ahead of a demanding schedule in March, which includes the American Cup and the Candidates Tournament. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-masters-2026-preview",
-         "pubDate" : "Tue, 24 Feb 2026 18:00:00",
-         "title" : "Starting Wednesday: Caruana star participant at Saint Louis Masters"
-      },
-      {
-         "description" : "IM Nico Zwirs presents the Reversed Sicilian as a dynamic and practical weapon for White, especially suited to players who already use the Sicilian with Black and want to build on their existing understanding. Instead of a rigid, move-by-move repertoire, the course offers a flexible framework that helps you choose structures matching your style while learning how to deviate into less familiar setups when needed. Covering major Sicilian systems such as the Closed Sicilian, Najdorf, and Dragon, it explains how the extra tempo for White reshapes typical plans, strengthens attacking chances, and creates new strategic opportunities.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nico-zwirs-reversed-sicilian-power-win-with-1-c4-e5",
-         "pubDate" : "Tue, 24 Feb 2026 15:57:06",
-         "title" : "Nico Zwirs: Reversed Sicilian Power - Win with 1.c4 e5!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128753885.cms\" />World champion D Gukesh criticised Vladimir Kramnik's cheating allegations, saying cheating has been made a bigger issue than it is. While firmly against unethical play, Gukesh said he does not support Kramnik's approach and called for harmony in chess. The 19-year-old spoke ahead of the Prague International Chess Festival, where he hopes to regain form.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -90,7 +82,7 @@ news_feed (
          "title" : "'I am not supportive of that': Gukesh slams Kramnik over cheating claims"
       },
       {
-         "description" : "GM Maxime Vachier-Lagrave won the February 24 edition of Titled Tuesday to wrap up the winter split with his second win of the month, becoming one of eight qualifiers into the Chess.com Global Championship. Vachier-Lagrave won in the final round t...",
+         "description" : "GM Maxime Vachier-Lagrave won the February 24 edition of Titled Tuesday to wrap up the winter split with his second win of the month, becoming one of eight qualifiers into the Chess.com Open. Vachier-Lagrave won in the final round to reach 9.5 poi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-titled-tuesday-february-24-2026",
