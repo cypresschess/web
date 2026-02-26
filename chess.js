@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vincent Keymer had a rough start at the Prague Chess Festival, losing with back to Jorden van Foreest. After a botched opening, he missed a hidden counterblow that could have turned the game around. This game was only one of many interesting battles at the opening round in the Prague Masters, as all five games featured hard-fought struggles. Four games ended decisively, with only world champion Gukesh Dommaraju and Hans Niemann signing a draw. That draw, however, was the longest game of the round. | Photo: Petr Vrabec / Prague Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-1",
+         "pubDate" : "Thu, 26 Feb 2026 11:30:00",
+         "title" : "Prague: Van Foreest stuns Keymer in exciting first round"
+      },
+      {
          "description" : "The Saint Louis Masters opened with a high proportion of decisive results across the first two rounds. Six players, including Fabiano Caruana, moved into an early share of the lead on a perfect score, while several lower-seeded competitors recorded notable results. A large chasing group sits close behind on 1&frac12; points, which includes Rose Atwell and Jennifer Yu, who obtained two of the most notable upset wins of the day. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,16 +38,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-1",
-         "pubDate" : "Wed, 25 Feb 2026 17:44:18",
+         "pubDate" : "Wed, 25 Feb 2026 17:44:00",
          "title" : "Abdusattorov Hits World No. 4, Gukesh Evades Niemann As Prague Masters Begins"
-      },
-      {
-         "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. In the first round on Wednesday, the Masters section kicks off with several attractive match-ups: top seed Vincent Keymer (pictured) has Black against Jorden van Foreest; World Champion Gukesh has White and faces Hans Niemann, and Nodirbek Abdusattorov, winner of the Tata Steel Tournament in Wijk aan Zee, also plays White against Aravindh Chithambaram, winner of the Chess Festival Prague 2025. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-live",
-         "pubDate" : "Wed, 25 Feb 2026 14:30:00",
-         "title" : "Prague Chess Festival - Live!"
       },
       {
          "description" : "Harrow School Saturday 21st February 2026 Winning chess championships is only for the young?&#160; John Nunn disagrees.&#160; Age 70, he has won the 2026 Winton British Chess Solving Championship.&#160; The...",
@@ -744,22 +744,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/feb/06/abdusattorov-triumphs-at-wijk-aan-zee-as-uzbek-pair-sweep-chess-wimbledon",
          "pubDate" : "Fri, 06 Feb 2026 08:00:03",
          "title" : "Abdusattorov triumphs at Wijk aan Zee as Uzbek pair sweep 'chess Wimbledon'"
-      },
-      {
-         "description" : "\"Many players use ChessBase, it is the most popular chess software by far, writes GM Iniyan Pa. \"Yet, not many people are fully aware of all of its features, and fail to utilise most of them. In this guide I have tried to show the features that I think are vital and important so that the user may gain the most out of the ChessBase. I hope it helps them in their development.\" We are deeply indebted to Iniyan for his remarkable five-part training review.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-a-players-guide-5",
-         "pubDate" : "Thu, 05 Feb 2026 12:00:00",
-         "title" : "ChessBase&acute;26: A Players Guide (5)"
-      },
-      {
-         "description" : "The chess world has undergone a significant transformation in recent years. From a game on the fringes of public interest, it has become part of the media mainstream. This year will see several major events and developments that promise to have a profound impact on the future of chess. Milan Dini&#263, editor of The British Chess Magazine, has described the main driving factors and what we can expect in 2026.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-chess-world-in-2026",
-         "pubDate" : "Thu, 05 Feb 2026 11:00:00",
-         "title" : "The Chess World in 2026"
       }
    ]
 }
