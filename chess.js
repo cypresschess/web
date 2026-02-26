@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Vincent Keymer had a rough start at the Prague Chess Festival, losing with back to Jorden van Foreest. After a botched opening, he missed a hidden counterblow that could have turned the game around. This game was only one of many interesting battles at the opening round in the Prague Masters, as all five games featured hard-fought struggles. Four games ended decisively, with only world champion Gukesh Dommaraju and Hans Niemann signing a draw. That draw, however, was the longest game of the round. | Photo: Petr Vrabec / Prague Chess Festival",
+         "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. The second round on Thursday sees top seed Vincent Keymer attempting to bounce back from his round-one loss as he plays white against local hero David Navara. Meanwhile, world champion Gukesh Dommaraju has white against Nodirbek Yakubboev. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-live",
+         "pubDate" : "Thu, 26 Feb 2026 14:45:00",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : "Vincent Keymer had a rough start at the Prague Chess Festival, losing with black to Jorden van Foreest. After a botched opening, he missed a hidden counterblow that could have turned the game around. This game was only one of many interesting battles at the opening round in the Prague Masters, as all five games featured hard-fought struggles. Four games ended decisively, with only world champion Gukesh Dommaraju and Hans Niemann signing a draw. That draw, however, was the longest game of the round. | Photo: Petr Vrabec / Prague Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/prague-festival-2026-1",
