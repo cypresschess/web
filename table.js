@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2026-02-24","16","<a href=https://ratings.uschess.org/event/202602240433 target='_blank'>FEBRUARY Tuesday Night Swiss 2026</a>",
 "HOUSTON","2026-02-22","10","<a href=https://ratings.uschess.org/event/202602220393 target='_blank'>Bellaire Sunday Swiss 2026.02.22</a>",
 "HOUSTON","2026-02-22","10","<a href=https://ratings.uschess.org/event/202602220103 target='_blank'>2026 TCA Regional Scholastics Tourn</a>",
 "LEAGUE CITY","2026-02-21","187","<a href=https://ratings.uschess.org/event/202602210993 target='_blank'>Goforth Elementary Scholastic</a>",
@@ -98,5 +99,4 @@ jtable([
 "HOUSTON","2025-11-22","12","<a href=https://ratings.uschess.org/event/202511221333 target='_blank'>chesspanda11222025saturday</a>",
 "HOUSTON","2025-11-22","56","<a href=https://ratings.uschess.org/event/202511221113 target='_blank'>NOV 22ND SATURDAY SWISS</a>",
 "SUGAR LAND","2025-11-21","16","<a href=https://ratings.uschess.org/event/202511210473 target='_blank'>National Gingerbread Cookie Open</a>",
-"CYPRESS","2025-11-21","30","<a href=https://ratings.uschess.org/event/202511210303 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
