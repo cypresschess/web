@@ -10,6 +10,14 @@ news_feed (
          "title" : "A chess journey along the Silk Road: Visit Uzbekistan during the Chess Olympiad"
       },
       {
+         "description" : "GM Nodirbek Abdusattorov beat Defending Champion GM Aravindh Chithambaram in round one of the 2026 Prague Chess Festival Masters to oust GM Vincent Keymer as world number-four. Keymer fell to GM Jorden van Foreest for a second event in a row, whil...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-1",
+         "pubDate" : "Wed, 25 Feb 2026 17:44:18",
+         "title" : "Abdusattorov Hits World No. 4, Gukesh Evades Niemann As Prague Masters Begins"
+      },
+      {
          "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. In the first round on Wednesday, the Masters section kicks off with several attractive match-ups: top seed Vincent Keymer (pictured) has Black against Jorden van Foreest; World Champion Gukesh has White and faces Hans Niemann, and Nodirbek Abdusattorov, winner of the Tata Steel Tournament in Wijk aan Zee, also plays White against Aravindh Chithambaram, winner of the Chess Festival Prague 2025. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -496,14 +504,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/chess-and-character-building/",
          "pubDate" : "Sat, 14 Feb 2026 14:00:00",
          "title" : "Are You a Chess Player or a Gambler?"
-      },
-      {
-         "description" : "GM Magnus Carlsen will face his great rival GM Fabiano Caruana in Sunday&#39;s match for the 2026 FIDE Freestyle Chess World Championship title. Carlsen won the final two games against GM Nodirbek Abdusattorov to clinch a 3-1 victory, while Caruana su...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-freestyle-chess-world-championship-semis",
-         "pubDate" : "Sat, 14 Feb 2026 12:43:00",
-         "title" : "Caruana To Play Carlsen For FIDE Freestyle Chess World Championship Title"
       },
       {
          "description" : "AVE CHESS z.s., the Czech Chess Federation and the European Chess Union have the honour to invite all European Chess Federations to participate in the EUROPEAN YOUTH TEAM CHESS CHAMPIONSHIP 2026 organised in Pardubice, Czech Republic from 25th July (arrival) to 2nd August (departure) 2026. The event will be played in two age categories: U12, and U18, open and girls sections separately. The playing members of the teams shall not have reached the age of 12 or 18, depending on []",
