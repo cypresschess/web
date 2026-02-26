@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Saint Louis Masters opened with a high proportion of decisive results across the first two rounds. Six players, including Fabiano Caruana, moved into an early share of the lead on a perfect score, while several lower-seeded competitors recorded notable results. A large chasing group sits close behind on 1&frac12; points, which includes Rose Atwell and Jennifer Yu, who obtained two of the most notable upset wins of the day. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-masters-2026-d1",
+         "pubDate" : "Thu, 26 Feb 2026 08:25:00",
+         "title" : "Saint Louis Masters: Six players score 2 out of 2 on opening day"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation , Karnataka State Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Rao's Chess Corner ,Ground Floor, Jyothi Kiran.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-exam-in-mangalore-karnataka-on-21-22-march-2026/",
+         "pubDate" : "Thu, 26 Feb 2026 08:24:04",
+         "title" : "SNA Seminar & Exam in Mangalore, Karnataka on 21 & 22 March 2026"
+      },
+      {
          "description" : "From 21 to 29 September 2026, a group tour to Uzbekistan will combine cultural exploration with top-level chess. The journey includes visits to Samarkand, Bukhara and Tashkent, coinciding with the Chess Olympiad in Samarkand. Alongside attending the Olympiad, participants will take part in special chess events and training sessions, while discovering the architectural and historical legacy of the Silk Road. | Photo: Mosque Bibi-Khanum in Samarkand, via Wikimedia Commons",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://aicf.in/live-links-for-13th-national-amateur-chess-championship-2025-26/",
          "pubDate" : "Wed, 25 Feb 2026 07:38:31",
          "title" : "Live Links for 13th National Amateur Chess Championship 2025-26"
-      },
-      {
-         "description" : "Netflix has announced \"Untold: Chess Mates\", a new documentary examining the controversy surrounding Hans Niemann's victory over Magnus Carlsen at the 2022 Sinquefield Cup. The film revisits Carlsen's withdrawal, the subsequent allegations of cheating and the intense public reaction that followed. It also places the dispute within the broader context of modern chess, including the growth of online play and the challenges it has created for trust and governance at the elite level. | Photo: Netflix",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/untold-chess-mates-netflix-release",
-         "pubDate" : "Wed, 25 Feb 2026 06:35:00",
-         "title" : "Netflix announces \"Untold: Chess Mates\", documentary on the Carlsen-Niemann controversy"
       },
       {
          "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out our Tactics Tuesday series with more beginner-friendly puzzles here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-chess-world-in-2026",
          "pubDate" : "Thu, 05 Feb 2026 11:00:00",
          "title" : "The Chess World in 2026"
-      },
-      {
-         "description" : "All India Chess Federation is pleased to announced 2 FIDE Arbiter Seminars as per the appended schedule below: Sl No Venue` Date 1 Royal Connaught",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-arbiter-seminar-2026fide-arbiter-seminar-in-pune-28-feb-02-march-2026-thoothukudi-07-09-march-2026/",
-         "pubDate" : "Thu, 05 Feb 2026 07:30:53",
-         "title" : "Fide Arbiter Seminar in Pune 28 Feb -02 March 2026 & Thoothukudi 07-09 March 2026"
       }
    ]
 }
