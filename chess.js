@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Mahammad Muradli and Ulviyya Fataliyeva have been crowned champions at the Azerbaijan Chess Championships, held in Baku from 6 to 22 February. Muradli secured his third national title by defeating Shakhriyar Mamedyarov in the open final, while Ulviyya Fataliyeva claimed her first women's crown after a tiebreak victory over Ayan Allahverdiyeva. | Photo: Azerbaijani Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/azerbaijani-championships-2026",
+         "pubDate" : "Thu, 26 Feb 2026 22:35:00",
+         "title" : "Muradli and Fateliyeva claim national titles in Azerbaijan Championships"
+      },
+      {
+         "description" : "Defending Champion GM Aravindh Chithambaram looked to be in trouble again in round two of the 2026 Prague Chess Festival Masters, but GM Hans Niemann couldn&#39;t find a hidden winning resource on low time and slumped to defeat. It was a similar story...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-2",
+         "pubDate" : "Thu, 26 Feb 2026 15:58:02",
+         "title" : "Aravindh, Anton Strike Back In Round 2 Of Prague Masters"
+      },
+      {
          "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. The second round on Thursday sees top seed Vincent Keymer attempting to bounce back from his round-one loss as he plays white against local hero David Navara. Meanwhile, world champion Gukesh Dommaraju has white against Nodirbek Yakubboev. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-mangalore-karnataka-on-21-22-march-2026/",
          "pubDate" : "Thu, 26 Feb 2026 08:24:04",
          "title" : "SNA Seminar & Exam in Mangalore, Karnataka on 21 & 22 March 2026"
-      },
-      {
-         "description" : "From 21 to 29 September 2026, a group tour to Uzbekistan will combine cultural exploration with top-level chess. The journey includes visits to Samarkand, Bukhara and Tashkent, coinciding with the Chess Olympiad in Samarkand. Alongside attending the Olympiad, participants will take part in special chess events and training sessions, while discovering the architectural and historical legacy of the Silk Road. | Photo: Mosque Bibi-Khanum in Samarkand, via Wikimedia Commons",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-journey-uzbekistan-olympiad-2026",
-         "pubDate" : "Wed, 25 Feb 2026 21:05:00",
-         "title" : "A chess journey along the Silk Road: Visit Uzbekistan during the Chess Olympiad"
       },
       {
          "description" : "GM Nodirbek Abdusattorov beat Defending Champion GM Aravindh Chithambaram in round one of the 2026 Prague Chess Festival Masters to oust GM Vincent Keymer as world number-four. Keymer fell to GM Jorden van Foreest for a second event in a row, whil...",
@@ -504,14 +512,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/review-new-releases-in-january",
          "pubDate" : "Sun, 15 Feb 2026 07:00:00",
          "title" : "Review: New releases in January!"
-      },
-      {
-         "description" : "Peruvian IM Renato Terry was crowned as a first-time Bullet Brawl victor on Saturday after he overcame a strong start from GM Oleksandr Bortnyk and posted a winning score of 147. Terry, who is just the third non-GM to win an edition of Bullet Br...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/renato-terry-wins-bullet-brawl-feb-14-2026",
-         "pubDate" : "Sat, 14 Feb 2026 19:13:00",
-         "title" : "Terry Fends Off Bortnyk, Secures 1st Bullet Brawl Title"
       },
       {
          "description" : "Let me be very honest: I don't really care if you gain 200 rating points this year. I've stopped caring about pure rating gains, both for me and my students, long ago. Most people think I'm crazy for saying this as a coach. But after years as a professional and now as a Coach, I've []",
