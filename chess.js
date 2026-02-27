@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Round one of the Masters in Prague produced four wins and one draw. In round two things proceeded at a more leisurely pace with three draws and two wins. But the decisive games were interesting. David Anton (pictured) had an inferior position out of the opening against Jorden Van Foreest, but then won in 27 moves. And Hans Niemann had a winning position against Aravindh Chithambaram but overlooked a tactical possibility in time pressure and lost. | Photo: Petr Vrabec / Prague Chess Festival",
+         "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. In Friday's third round, two of the tournament favourites, Nodirbek Abdusattorov and Vincent Keymer, face off in the Masters. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-2",
-         "pubDate" : "Fri, 27 Feb 2026 09:40:00",
-         "title" : "Prague: Some you win, some you lose"
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-live",
+         "pubDate" : "Fri, 27 Feb 2026 14:45:00",
+         "title" : "Prague Chess Festival - Live!"
       },
       {
          "description" : " GM Matthew Wadsworth won in Ryde on tiebreak, Scottish GM Matthew Turner also shared first, while in Graz Scotland's Freddy Waldhausen Gordon, 15, qualified for the IM title In just two years, the <a href=\"https://www.iowchess.com/\">Isle of Wight Masters</a> at Ryde school has become established as one of Britain's most popular events. Its scenic ambience, impressive organisation and competitive spirit have combined to attract a strong international entry. Last weekend GM Matthew Wadsworth emerged first on tie-break ahead of IM Tobias Koelle (Germany) and GM Matthew Turner (Scotland) after the trio all scored 7/9. Wadsworth also won in 2025. <a href=\"https://www.theguardian.com/sport/2026/f",
@@ -18,12 +18,36 @@ news_feed (
          "title" : "Chess: British players win Isle of Wight Masters as Scots achieve rare double"
       },
       {
+         "description" : "We&#39;ve just made it easier for you to keep up with your streaks and Daily games on Chess.com! We&#39;re excited to announce our new mobile widget that will always remind you of your streak and make it easier for you to play! Here&#39;s what you need to k...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-widget",
+         "pubDate" : "Fri, 27 Feb 2026 08:00:00",
+         "title" : "Never Lose Your Chess Streak With The New Chess.com Mobile Widget"
+      },
+      {
          "description" : "After four rounds of the Saint Louis Masters, three players share the lead on 3&frac12;/4, with Fabiano Caruana joined by Vasif Durarbayli (pictured) and Lorenzo Lodici at the top of the standings. Caruana is set to take a half-point bye in round five, while Lodici will have the white pieces against Durarbayli in the clash of co-leaders. Nine players stand just half a point behind the leading pack. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/saint-louis-masters-2026-d2",
          "pubDate" : "Fri, 27 Feb 2026 07:55:00",
          "title" : "Saint Louis Masters: Caruana, Lodici and Durarbayli share the lead"
+      },
+      {
+         "description" : "A little more than three years ago, in December of 2022, Chess.com reached 100 million members. It was a huge milestone at the time, and it still is, but now we are celebrating an even bigger number: a quarter of a billion. It&#39;s the 250,000,000 ch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-reaches-250-million-members",
+         "pubDate" : "Fri, 27 Feb 2026 07:00:27",
+         "title" : "Chess.com Reaches 250 Million Members"
+      },
+      {
+         "description" : "Registration is now open for the FIDE World Cadet Chess Championships 2026. The international event - organized by FIDE and the Georgia Chess Federation - will be held in Batumi, Georgia from June 15 through June 28, 2026. US Chess will be accepting registrations for eligible U.S. participants until Monday, March 16, 2026, 5 p.m. CDT.TOURNAMENT DETAILS AND ELIGIBILITYThere will be six sections: Open and Girls in age categories Under 12, Under 10, and Under 8.A player's age as of Jan. 1, 2026 determines their age eligibility for a section.Under 12: Players born on or after Jan. 1, 2014Under 10: Players born on or after Jan. 1, 2016Under 8: Players born on or after Jan. 1, 2018Each event will ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/registration-open-2026-fide-world-cadet-cup-chess-championships",
+         "pubDate" : "Fri, 27 Feb 2026 00:00:00",
+         "title" : "Registration Open for 2026 FIDE World Cadet Cup Chess Championships"
       },
       {
          "description" : "GMs Fabiano Caruana, Lorenzo Lodici, and Vasif Durarbayli lead the 2026 Saint Louis Masters with 3.5 points apiece after four rounds. It&#39;s nearly the halfway point of the nine-round tournament, and there are no fewer than nine players in the chasi...",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-mangalore-karnataka-on-21-22-march-2026/",
          "pubDate" : "Thu, 26 Feb 2026 08:24:04",
          "title" : "SNA Seminar & Exam in Mangalore, Karnataka on 21 & 22 March 2026"
+      },
+      {
+         "description" : "Registration is now open for the FIDE World Youth Chess Championships 2026. The international event, organized by FIDE, and the Italian Chess Federation, with UniChess will take place June 14 - June 27 in Montesilvano, Italy. US Chess will be accepting registrations for eligible U.S. participants until Monday, March 16, 2026, 5 p.m. CDT.TOURNAMENT DETAILS AND ELIGIBILITYThere will be six sections: Open and Girls in age categories Under 18, Under 16, and Under 14.A player's age as of Jan. 1, 2026 determines their age eligibility for a section.Under 18: Players born on or after Jan. 1, 2008Under 16: Players born on or after Jan. 1, 2010Under 14: Players born on or after Jan. 1, 2012Each event ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/registration-open-2026-fide-world-youth-chess-championships",
+         "pubDate" : "Thu, 26 Feb 2026 00:00:00",
+         "title" : "Registration Open for 2026 FIDE World Youth Chess Championships"
       },
       {
          "description" : "GM Nodirbek Abdusattorov beat Defending Champion GM Aravindh Chithambaram in round one of the 2026 Prague Chess Festival Masters to oust GM Vincent Keymer as world number-four. Keymer fell to GM Jorden van Foreest for a second event in a row, whil...",
@@ -474,28 +506,12 @@ news_feed (
          "title" : "Tactics Tuesday: 2025 Chess.com Speed Chess Championship"
       },
       {
-         "description" : "Some players love the London System, others hate it. But the truth is, those who hate it are probably the ones playing against it. And now, it&#39;s your turn to master one of the most popular&#38;mdash;and easiest to play&#38;mdash;white openings in chess wi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-aman-hambletons-london-system-chessable-course",
-         "pubDate" : "Mon, 16 Feb 2026 08:10:00",
-         "title" : "Win Games And Infuriate Your Opponents With Aman Hambleton's New London System Course"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128411369.cms\" />Magnus Carlsen won the 2026 FIDE Freestyle Chess World Championship in Germany, defeating Fabiano Caruana 2.5-1.5. A crucial comeback win in game three helped him secure the title, clinched with a draw in the final game. It is the first FIDE-recognised Freestyle world title and Carlsen's 21st overall. Abdusattorov finished third, and the top three qualified for 2027.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/another-world-title-magnus-carlsen-clinches-fide-freestyle-chess-world-championship-2026/articleshow/128411369.cms",
          "pubDate" : "Mon, 16 Feb 2026 07:04:21",
          "title" : "Carlsen clinches FIDE Freestyle Chess World Championship 2026"
-      },
-      {
-         "description" : "GM Zhou Jianchao&#39;s extraordinary unbeaten run ended last weekend after 158 classical games. The Chinese-born grandmaster has made it to the history books by achieving the longest known run of consecutive classical games without losing. The 37-ye...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/zhou-jianchao-ends-unbeaten-streak-after-158-games",
-         "pubDate" : "Mon, 16 Feb 2026 05:48:00",
-         "title" : "Zhou Jianchao's Historic 158-Game Unbeaten Streak Comes To An End"
       },
       {
          "description" : " The FIDE Freestyle Chess World Championship took place in Wangels, Germany, Fri 13th Feb to Sun 15th Feb 2026. Time control 10m+5spm. Round Robin followed by KO. Carlsen won the all-play-all with 4.5/7 half a point clear of Caruana, Keymer and Abdusattorov and they played for the title over the weekend. Aronian, Erigaisi, Niemann and Sindarov played off for the minor placings. Magnus Carlsen beat Fabiano Caruana 2.5-1.5 in the final to win the title, he won game three. The games are available for download but I can't display them. ",
@@ -648,22 +664,6 @@ news_feed (
          "link" : "https://aicf.in/tentative-national-calendar-for-2026-27/",
          "pubDate" : "Wed, 11 Feb 2026 06:37:58",
          "title" : "TENTATIVE NATIONAL CALENDAR FOR 2026-27"
-      },
-      {
-         "description" : "Jacorey Bynum has picked up some new fans recently. But the 18-year-old national master from Lauderhill, Florida, has been a big name in state and scholastic chess for years.In 2019, the town of Sunrise, Florida declared Sept. 28 \"Jacorey Bynum Day\" in recognition of the then-11-year-old Bynum's accomplishments and commitments to service in his community.In 2024, he was covered in The Chess Drum for breaking the 2200 national rating barrier.Last year, he finished eighth in the K-12 Championship section of SuperNationals VIII, only a half-point behind the seven co-champions.In July, he was awarded an $8,000 Maurice Ashley Fellowship in recognition of his continued excellence.Bynum broke throu",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/player-profile-jacorey-bynum",
-         "pubDate" : "Wed, 11 Feb 2026 00:00:00",
-         "title" : "Player Profile: Jacorey Bynum"
-      },
-      {
-         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out our Tactics Tuesday series with more beginner-friendly puzzles here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2025-world-rapid-blitz-pt-6",
-         "pubDate" : "Wed, 11 Feb 2026 00:00:00",
-         "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 6"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128157998.cms\" />Norway Chess has confirmed Alireza Firouzja for its 2026 event in Oslo, while India No. 1 Arjun Erigaisi is still not in the announced lineup. Firouzja, a former prodigy who became a GM at 14 and the youngest to reach 2800 rating, has twice played the Candidates and finished runner-up at Norway Chess before. India will be represented by world champion Gukesh and R Praggnanandhaa, with more names to be revealed.",
