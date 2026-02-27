@@ -10,6 +10,14 @@ news_feed (
          "title" : "Prague Chess Festival - Live!"
       },
       {
+         "description" : "IM Renato Terry won Freestyle Friday on February 27, the second week of the Freestyle Friday Championship, with a 9.5/11 score. Last week&#39;s winner GM Oleksandr Bortnyk finished second on 8.5/11, giving him a commanding early lead on the Championsh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/terry-wins-freestyle-friday-february-27-2026",
+         "pubDate" : "Fri, 27 Feb 2026 11:03:40",
+         "title" : "Terry Freestyles Way To Third Friday Victory As Bortnyk Holds Championship Lead"
+      },
+      {
          "description" : " GM Matthew Wadsworth won in Ryde on tiebreak, Scottish GM Matthew Turner also shared first, while in Graz Scotland's Freddy Waldhausen Gordon, 15, qualified for the IM title In just two years, the <a href=\"https://www.iowchess.com/\">Isle of Wight Masters</a> at Ryde school has become established as one of Britain's most popular events. Its scenic ambience, impressive organisation and competitive spirit have combined to attract a strong international entry. Last weekend GM Matthew Wadsworth emerged first on tie-break ahead of IM Tobias Koelle (Germany) and GM Matthew Turner (Scotland) after the trio all scored 7/9. Wadsworth also won in 2025. <a href=\"https://www.theguardian.com/sport/2026/f",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-reaches-250-million-members",
          "pubDate" : "Fri, 27 Feb 2026 07:00:27",
          "title" : "Chess.com Reaches 250 Million Members"
+      },
+      {
+         "description" : "Editor's note: For Black History Month, US Chess invited Dr. Daaim Shabazz to write a reflection on Black chess history as a complement to our player and coach profiles published earlier this month. As it was The Chess Drum's 25th anniversary on February 12, Dr. Shabazz shares a bit of personal history, as well, going into the origin of The Chess Drum as well as exploring the past, present, and future of Black chess in the U.S. A longer version of this piece is available on The Chess Drum. As we approach the end of Black History Month, something important in chess happened 25 years ago. At midnight on February 12, 2001, The Chess Drum website went live. The website started with eight pages a",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/25-years-chess-beat",
+         "pubDate" : "Fri, 27 Feb 2026 00:00:00",
+         "title" : "25 Years on the Chess Beat"
       },
       {
          "description" : "Registration is now open for the FIDE World Cadet Chess Championships 2026. The international event - organized by FIDE and the Georgia Chess Federation - will be held in Batumi, Georgia from June 15 through June 28, 2026. US Chess will be accepting registrations for eligible U.S. participants until Monday, March 16, 2026, 5 p.m. CDT.TOURNAMENT DETAILS AND ELIGIBILITYThere will be six sections: Open and Girls in age categories Under 12, Under 10, and Under 8.A player's age as of Jan. 1, 2026 determines their age eligibility for a section.Under 12: Players born on or after Jan. 1, 2014Under 10: Players born on or after Jan. 1, 2016Under 8: Players born on or after Jan. 1, 2018Each event will ",
@@ -490,14 +506,6 @@ news_feed (
          "title" : "CCL Returns With Mizzou In Dominant Form"
       },
       {
-         "description" : "World number-one Magnus Carlsen has now won 21 official FIDE world championship titles after defeating GM Fabiano Caruana in the Final of the 2026 FIDE Freestyle Chess World Championship. We take a look back at the intense three-day event in Weiss...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-freestyle-chess-world-championship-7-conclusions",
-         "pubDate" : "Tue, 17 Feb 2026 05:45:22",
-         "title" : "Carlsen Does It Again: 7 FIDE Freestyle Chess World Championship Conclusions"
-      },
-      {
          "description" : "Today's puzzles begin a two-part series on the final and semifinal matches from the 2025 Chess.com Speed Chess Championship, held earlier this month in London. Under severe time pressure, many of the games produced instructive tactics suitable for our audience. Enjoy! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -632,14 +640,6 @@ news_feed (
          "link" : "https://aicf.in/gm-suleymenov-alisher-clinches-title-at-the-1st-chola-chess-international-grandmaster-round-robin-tournament-2026/",
          "pubDate" : "Thu, 12 Feb 2026 06:24:32",
          "title" : "GM Suleymenov Alisher Clinches Title at the 1st Chola Chess International Grandmaster Round Robin Tournament 2026."
-      },
-      {
-         "description" : "For the second year in a row, I had the privilege of representing US Chess at US Squash events in Philadelphia, PA at the Arlen Specter Center. As the Director of Programs for US Chess, my job is to build connections between chess and other communities.Last year, squash players and their families flocked to our chess boards between matches, and I've been told by US Squash officials that players have continued to use the boards we donated on a weekly basis.When the center is open for members to drop in, the boards are readily available. I was told that they bring them out during events as well. As squash at the Specter Center continues to grow, chess can be included in academic enrichment pro",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/cross-sport-initiative-squash-chess-court",
-         "pubDate" : "Thu, 12 Feb 2026 00:00:00",
-         "title" : "Cross-Sport Initiative: Squash as Chess on Court"
       },
       {
          "description" : " The U.S. Chess Capital welcomes elite players for a high-stakes, double-elimination tournament competing for $400,000 in Prizes SAINT LOUIS, February 11, 2026 The 2026 American Cup, hosted by the Saint Louis Chess Club (STLCC) at its newly expanded and recently reopened facility, will return March 2-13, 2026, continuing its tradition as one of the [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-announces-2026-american-cup-fields/\">Saint Louis Chess Club Announces 2026 American Cup Fields</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
