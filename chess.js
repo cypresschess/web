@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " GM Matthew Wadsworth won in Ryde on tiebreak, Scottish GM Matthew Turner also shared first, while in Graz Scotland's Freddy Waldhausen Gordon, 15, qualified for the IM title In just two years, the <a href=\"https://www.iowchess.com/\">Isle of Wight Masters</a> at Ryde school has become established as one of Britain's most popular events. Its scenic ambience, impressive organisation and competitive spirit have combined to attract a strong international entry. Last weekend GM Matthew Wadsworth emerged first on tie-break ahead of IM Tobias Koelle (Germany) and GM Matthew Turner (Scotland) after the trio all scored 7/9. Wadsworth also won in 2025. <a href=\"https://www.theguardian.com/sport/2026/f",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/feb/27/chess-british-players-win-isle-of-wight-masters-as-scots-achieve-rare-double",
+         "pubDate" : "Fri, 27 Feb 2026 08:00:36",
+         "title" : "Chess: British players win Isle of Wight Masters as Scots achieve rare double"
+      },
+      {
+         "description" : "After four rounds of the Saint Louis Masters, three players share the lead on 3&frac12;/4, with Fabiano Caruana joined by Vasif Durarbayli (pictured) and Lorenzo Lodici at the top of the standings. Caruana is set to take a half-point bye in round five, while Lodici will have the white pieces against Durarbayli in the clash of co-leaders. Nine players stand just half a point behind the leading pack. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-masters-2026-d2",
+         "pubDate" : "Fri, 27 Feb 2026 07:55:00",
+         "title" : "Saint Louis Masters: Caruana, Lodici and Durarbayli share the lead"
+      },
+      {
+         "description" : "GMs Fabiano Caruana, Lorenzo Lodici, and Vasif Durarbayli lead the 2026 Saint Louis Masters with 3.5 points apiece after four rounds. It&#39;s nearly the halfway point of the nine-round tournament, and there are no fewer than nine players in the chasi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-saint-louis-masters-round-4",
+         "pubDate" : "Thu, 26 Feb 2026 22:59:00",
+         "title" : "Caruana, Lodici, Durarbayli Lead Saint Louis Masters After 4 Rounds"
+      },
+      {
          "description" : "Mahammad Muradli and Ulviyya Fataliyeva have been crowned champions at the Azerbaijan Chess Championships, held in Baku from 6 to 22 February. Muradli secured his third national title by defeating Shakhriyar Mamedyarov in the open final, while Ulviyya Fataliyeva claimed her first women's crown after a tiebreak victory over Ayan Allahverdiyeva. | Photo: Azerbaijani Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-2",
-         "pubDate" : "Thu, 26 Feb 2026 15:58:02",
+         "pubDate" : "Thu, 26 Feb 2026 15:58:00",
          "title" : "Aravindh, Anton Strike Back In Round 2 Of Prague Masters"
       },
       {
@@ -498,14 +522,6 @@ news_feed (
          "title" : "FIDE Freestyle Chess World Championship 2026 - Games and Results"
       },
       {
-         "description" : "GM Magnus Carlsen survived and then won a dead-lost position against GM Fabiano Caruana on the way to a 2.5-1.5 victory in the 2026 FIDE Freestyle Chess World Championship Final. A nervous draw in the final game means Carlsen is the Rapid, Blitz, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-freestyle-chess-world-championship-final",
-         "pubDate" : "Sun, 15 Feb 2026 12:25:00",
-         "title" : "Carlsen Stuns Caruana To Win 21st World Championship Title"
-      },
-      {
          "description" : "We have a new author at ChessBase: Harshit Raja. And the Indian grandmaster is ambitious - he offers a complete 1.d4-repertoire! In addition, new episodes of Ivan Sokolov's Middlegame Strategy series were released in January, and ChessBase Magazine fans can look forward to CBM Extra #229, packed with a rich \"Lucky Bag\". | All photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -728,30 +744,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bcc-2026-tenders-invited/",
          "pubDate" : "Fri, 06 Feb 2026 10:04:06",
          "title" : "BCC 2026 tenders invited"
-      },
-      {
-         "description" : "&#160;&#160; India's International Master Vaz Ethen of Chola Chess is sharing the lead with Grandmaster Suleymenov Alisher (Kazkhastan) with 2.5 points&#160; at the end of",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/round-3-1st-chola-chess-international-grandmaster-norm-round-robin-tournament-2026-chennai/",
-         "pubDate" : "Fri, 06 Feb 2026 08:11:06",
-         "title" : "Round 3 : 1st Chola Chess International Grandmaster Norm Round Robin Tournament 2026, Chennai."
-      },
-      {
-         "description" : "Day two of the 1st Chola Chess Grandmasters Closed Circuit Chess Tournament, Chennai now in progress in Chola Chess, T.Nagar, Chennai was a result oriented",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/day-21st-chola-chess-international-grandmaster-norm-closed-circuit-chess-tournament-chennai/",
-         "pubDate" : "Fri, 06 Feb 2026 08:01:56",
-         "title" : "Day 2:1st Chola Chess International Grandmaster Norm Closed Circuit Chess Tournament, Chennai"
-      },
-      {
-         "description" : " The duo from Tashkent took first and second prizes at the traditional Netherlands new year tournament, while the favourites from India ended up near the bottom Nodirbek Abdusattorov added to his growing reputation as one of the world's top players last weekend when the Uzbek grandmaster, 21, triumphed in the \"chess Wimbledon\" at Tata Steel Wijk aan Zee, with his compatriot Javokhir Sindarov a close second. On his previous three attempts Abdusattorov, who has now surged to No 5 in the live ratings, had missed out in the final decisive rounds. This time he led early, had a wobble with three draws and a loss, but was strong in the final two rounds. \"It was a long way for me,\" he said. \"I was v",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/feb/06/abdusattorov-triumphs-at-wijk-aan-zee-as-uzbek-pair-sweep-chess-wimbledon",
-         "pubDate" : "Fri, 06 Feb 2026 08:00:03",
-         "title" : "Abdusattorov triumphs at Wijk aan Zee as Uzbek pair sweep 'chess Wimbledon'"
       }
    ]
 }
