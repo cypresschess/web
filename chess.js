@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round one of the Masters in Prague produced four wins and one draw. In round two things proceeded at a more leisurely pace with three draws and two wins. But the decisive games were interesting. David Anton (pictured) had an inferior position out of the opening against Jorden Van Foreest, but then won in 27 moves. And Hans Niemann had a winning position against Aravindh Chithambaram but overlooked a tactical possibility in time pressure and lost. | Photo: Petr Vrabec / Prague Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-2",
+         "pubDate" : "Fri, 27 Feb 2026 09:40:00",
+         "title" : "Prague: Some you win, some you lose"
+      },
+      {
          "description" : " GM Matthew Wadsworth won in Ryde on tiebreak, Scottish GM Matthew Turner also shared first, while in Graz Scotland's Freddy Waldhausen Gordon, 15, qualified for the IM title In just two years, the <a href=\"https://www.iowchess.com/\">Isle of Wight Masters</a> at Ryde school has become established as one of Britain's most popular events. Its scenic ambience, impressive organisation and competitive spirit have combined to attract a strong international entry. Last weekend GM Matthew Wadsworth emerged first on tie-break ahead of IM Tobias Koelle (Germany) and GM Matthew Turner (Scotland) after the trio all scored 7/9. Wadsworth also won in 2025. <a href=\"https://www.theguardian.com/sport/2026/f",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -40,30 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-2",
          "pubDate" : "Thu, 26 Feb 2026 15:58:00",
          "title" : "Aravindh, Anton Strike Back In Round 2 Of Prague Masters"
-      },
-      {
-         "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. The second round on Thursday sees top seed Vincent Keymer attempting to bounce back from his round-one loss as he plays white against local hero David Navara. Meanwhile, world champion Gukesh Dommaraju has white against Nodirbek Yakubboev. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-live",
-         "pubDate" : "Thu, 26 Feb 2026 14:45:00",
-         "title" : "Prague Chess Festival - Live!"
-      },
-      {
-         "description" : "Vincent Keymer had a rough start at the Prague Chess Festival, losing with black to Jorden van Foreest. After a botched opening, he missed a hidden counterblow that could have turned the game around. This game was only one of many interesting battles at the opening round in the Prague Masters, as all five games featured hard-fought struggles. Four games ended decisively, with only world champion Gukesh Dommaraju and Hans Niemann signing a draw. That draw, however, was the longest game of the round. | Photo: Petr Vrabec / Prague Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-1",
-         "pubDate" : "Thu, 26 Feb 2026 11:30:00",
-         "title" : "Prague: Van Foreest stuns Keymer in exciting first round"
-      },
-      {
-         "description" : "The Saint Louis Masters opened with a high proportion of decisive results across the first two rounds. Six players, including Fabiano Caruana, moved into an early share of the lead on a perfect score, while several lower-seeded competitors recorded notable results. A large chasing group sits close behind on 1&frac12; points, which includes Rose Atwell and Jennifer Yu, who obtained two of the most notable upset wins of the day. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-masters-2026-d1",
-         "pubDate" : "Thu, 26 Feb 2026 08:25:00",
-         "title" : "Saint Louis Masters: Six players score 2 out of 2 on opening day"
       },
       {
          "description" : "On behalf of All India Chess Federation , Karnataka State Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Rao's Chess Corner ,Ground Floor, Jyothi Kiran.",
@@ -736,14 +720,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-attraction-since-antiquity/",
          "pubDate" : "Sat, 07 Feb 2026 09:26:27",
          "title" : "Chess attraction since antiquity"
-      },
-      {
-         "description" : "Tenders are now invited for the bookstall, coaching and/or commentary at the British Chess Championships 2026 in Coventry click here",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/bcc-2026-tenders-invited/",
-         "pubDate" : "Fri, 06 Feb 2026 10:04:06",
-         "title" : "BCC 2026 tenders invited"
       }
    ]
 }
