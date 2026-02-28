@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Jorden van Foreest has now beaten both the top seed and the world champion in Prague after sacrificing a rook to defeat GM Gukesh Dommaraju in round three of the 2026 Prague Chess Festival Masters. Van Foreest moved into a four-way tie for firs...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-3",
+         "pubDate" : "Fri, 27 Feb 2026 17:11:39",
+         "title" : "Van Foreest Knocks Gukesh Out Of Top 10"
+      },
+      {
          "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. In Friday's third round, two of the tournament favourites, Nodirbek Abdusattorov and Vincent Keymer, face off in the Masters. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -488,14 +496,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/woodward-breaks-chess-com-bullet-rating-record",
          "pubDate" : "Wed, 18 Feb 2026 12:26:00",
          "title" : "Woodward Breaks Chess.com Bullet Rating Record"
-      },
-      {
-         "description" : "You can now play chess against iconic musician, artist, and activist Yoko Ono on Chess.com&#38;mdash;while also experiencing her art! Challenge the Yoko bot and play with an exclusive all-white chess set based on Yoko Ono&#39;s &#34;Play It By Trust&#34; artwor...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-yoko-ono-bot",
-         "pubDate" : "Wed, 18 Feb 2026 08:00:00",
-         "title" : "Play Against The New Yoko Ono Bot And Watch Award-Winning 'War Is Over!' Short"
       },
       {
          "description" : "Were you able to solve the challenge positions we gave you last week? Were you able to defeat the diagrams, which defended tenatiously? Today we bring you all solutions, with very instructive video explanations by Jared Modica, a chess content creator from Austin, Texas. He shows us how to solve tatical lines of play, and how to handle pawns in endgames.",
