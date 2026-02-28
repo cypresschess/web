@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. Round four on Saturday sees the clash of two of the Masters' co-leaders, Nodirbek Yakubboev and Jorden van Foreest. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-live",
+         "pubDate" : "Sat, 28 Feb 2026 14:45:00",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : "When I first saw Jan Timman, he seemed less a chess player than a figure escaped from literature. At the junior team championship in The Hague in 1967, I encountered a young man whose appearance struck me with such force that I immediately thought of Tadzio from Death in Venice. He possessed that same luminous, almost []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/jan-of-the-golden-hair/",
+         "pubDate" : "Sat, 28 Feb 2026 14:01:39",
+         "title" : "Jan of the golden hair"
+      },
+      {
+         "description" : "If you go on Reddit today and share a story about gaining 400 rating points in a year, you won't get congratulated. You will get accused of cheating. I've seen it happen to my own students. They put in months of grueling, boring, focused work. They finally break through a massive plateau, share their success, []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/real-chess-improvement/",
+         "pubDate" : "Sat, 28 Feb 2026 14:00:00",
+         "title" : "Why Real Chess Improvement Looks Like Cheating"
+      },
+      {
+         "description" : "This episode trains you to think more creatively by first testing obvious ideas, understanding precisely why they fail, and then searching for a small adjustment that removes the opponent's defensive resource. Through tactical and endgame examples, Svitlana shows that imagination isn't about random brilliance, but about spotting loose pieces, hidden interference ideas, and unexpected candidate moves that change the evaluation completely. The learning effect is practical: by repeatedly challenging your first instinct and actively looking for alternatives, you reduce careless mistakes and expand your tactical vision in real games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-find-creative-moves",
+         "pubDate" : "Sat, 28 Feb 2026 12:00:00",
+         "title" : "Svitlana's Smart Moves - How to find creative moves"
+      },
+      {
+         "description" : "To mark International Women's Day, the Greek Chess Federation, through its Committee for Women's Chess &#38; Gender Equality, is organising a nationwide, simultaneous chess event on Sunday, 8 March 2026, titled &#8216;Women's Moves, Lively Squares: Chess Unites Greece &#8216;. This open event is dedicated to strengthening the presence of women in chess and actively promoting the sport in public spaces. The action is supported by ECU and ECU Women's Chess Commission. The event will take place simultaneously in 11 regions []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/womens-moves-lively-squares-chess-unites-greece-supported-by-ecu/",
+         "pubDate" : "Sat, 28 Feb 2026 10:13:21",
+         "title" : "Women's Moves, Lively Squares: Chess Unites Greece - supported by ECU"
+      },
+      {
          "description" : "On Sunday KCF Academy subscribers will have the chance to meet Evgenij Miroshnichenko, one of the most analytically sharp and pedagogically gifted chess minds in the game today, during a live, interactive Sunday session. Mark your calendar: 17:00 CET, March 1, 2026.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-3",
          "pubDate" : "Fri, 27 Feb 2026 17:11:00",
          "title" : "Van Foreest Knocks Gukesh Out Of Top 10"
-      },
-      {
-         "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. In Friday's third round, two of the tournament favourites, Nodirbek Abdusattorov and Vincent Keymer, face off in the Masters. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-live",
-         "pubDate" : "Fri, 27 Feb 2026 14:45:00",
-         "title" : "Prague Chess Festival - Live!"
       },
       {
          "description" : "Argentinian prodigy IM Faustino Oro continues to break barriers. In recent weeks, he climbed to fifth on the Chess.com blitz leaderboard. On Saturday, the youngster begins his hunt for his final grandmaster norm, which could make him the youngest ...",
@@ -736,22 +768,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/defeats-teach-you-more-than-wins/articleshow/128059169.cms",
          "pubDate" : "Sun, 08 Feb 2026 05:01:12",
          "title" : "Defeats teach you more than wins: D Gukesh"
-      },
-      {
-         "description" : "I'm proud of my mental game. It helps me learn quicker and perform under pressure. But last weekend, playing Padel, I realized once again my biggest leak. The Trigger It was a great match, very even, great rallies, a lot of fun. After two sets, we were tied (6-7, 6-3). Now there were only 25 []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/chess-mindset-triggers/",
-         "pubDate" : "Sat, 07 Feb 2026 14:00:00",
-         "title" : "What Triggers You?"
-      },
-      {
-         "description" : "Chess is attractive in many ways, and for many kinds of people. At its simplest it is a hobby, taken up for pleasure or habit. At a higher level it becomes a mental sport, in which practitioners compete face to face in tournaments, competitions, and championships that range from the modest surroundings of a club []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chess-attraction-since-antiquity/",
-         "pubDate" : "Sat, 07 Feb 2026 09:26:27",
-         "title" : "Chess attraction since antiquity"
       }
    ]
 }
