@@ -10,6 +10,22 @@ news_feed (
          "title" : "Prague Chess Festival - Live!"
       },
       {
+         "description" : "Argentinian prodigy IM Faustino Oro continues to break barriers. In recent weeks, he climbed to fifth on the Chess.com blitz leaderboard. On Saturday, the youngster begins his hunt for his final grandmaster norm, which could make him the youngest ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/faustino-oro-hits-5-on-chess-com-ahead-chasing-gm-title",
+         "pubDate" : "Fri, 27 Feb 2026 13:30:00",
+         "title" : "12-Year-Old Faustino Oro Rises To No. 5 On Chess.com, Eyes Youngest GM Record"
+      },
+      {
+         "description" : "IM Reza Mahdavi followed up his win in the final 3 0 Thursday the previous week by winning the opening 3 0 Thursday on February 26. Not to be outdone, IM Renato Terry won the second tournament of the day with his record seventh title overall. GM A...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/3-0-thursday-mahdavi-terry-arjun-2-26-2026",
+         "pubDate" : "Fri, 27 Feb 2026 13:08:46",
+         "title" : "Repeat Winners Dominate 3 0 Thursday, Arjun Joins The Club"
+      },
+      {
          "description" : "IM Renato Terry won Freestyle Friday on February 27, the second week of the Freestyle Friday Championship, with a 9.5/11 score. Last week&#39;s winner GM Oleksandr Bortnyk finished second on 8.5/11, giving him a commanding early lead on the Championsh...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -482,28 +498,12 @@ news_feed (
          "title" : "Play Against The New Yoko Ono Bot And Watch Award-Winning 'War Is Over!' Short"
       },
       {
-         "description" : "GM Fabiano Caruana finished just ahead of GM Denis Lazavik to win Titled Tuesday on February 17, after Caruana defeated GM Wesley So in the final round but Lazavik only made a draw with GM Hikaru Nakamura (in a rematch of the 3rd Place Match in th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/caruana-wins-titled-tuesday-february-17-2026",
-         "pubDate" : "Tue, 17 Feb 2026 12:29:45",
-         "title" : "Caruana Back Atop Titled Tuesday In Photo Finish"
-      },
-      {
          "description" : "Were you able to solve the challenge positions we gave you last week? Were you able to defeat the diagrams, which defended tenatiously? Today we bring you all solutions, with very instructive video explanations by Jared Modica, a chess content creator from Austin, Texas. He shows us how to solve tatical lines of play, and how to handle pawns in endgames.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/endgame-challenge-solutions",
          "pubDate" : "Tue, 17 Feb 2026 11:27:02",
          "title" : "Endgame Challenge Solutions"
-      },
-      {
-         "description" : "They didn&#39;t make the Finals last season, but the University of Missouri-Columbia (Mizzou) has added a new player and appears ready to regain the championship form that they displayed in 2024. IM Amilal Munkhdalai came from Mongolia to join the sch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-ccl-spring-week-1-mizzou-uva",
-         "pubDate" : "Tue, 17 Feb 2026 10:17:00",
-         "title" : "CCL Returns With Mizzou In Dominant Form"
       },
       {
          "description" : "Today's puzzles begin a two-part series on the final and semifinal matches from the 2025 Chess.com Speed Chess Championship, held earlier this month in London. Under severe time pressure, many of the games produced instructive tactics suitable for our audience. Enjoy! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
