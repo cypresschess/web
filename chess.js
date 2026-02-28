@@ -2,11 +2,43 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Sunday KCF Academy subscribers will have the chance to meet Evgenij Miroshnichenko, one of the most analytically sharp and pedagogically gifted chess minds in the game today, during a live, interactive Sunday session. Mark your calendar: 17:00 CET, March 1, 2026.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-to-avoid-decision-making-flaws",
+         "pubDate" : "Sat, 28 Feb 2026 09:00:00",
+         "title" : "How to avoid decision making flaws"
+      },
+      {
+         "description" : "Please find the certificates here S.No Name 1 Tvisha Kapadia 2 Bhargavi M Bhatt 3 Prathamesh Rajendra Bhagwat 4 Rakesh Bhatti 5 Rathod Ashok 6",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-of-sna-seminar-exam-in-ahmedabad-on-02-03-jan-2026/",
+         "pubDate" : "Sat, 28 Feb 2026 08:04:17",
+         "title" : "Certificates of SNA Seminar & Exam in Ahmedabad on 02 & 03 Jan 2026"
+      },
+      {
+         "description" : "Round three of the Challengers tournament at the Prague Chess Festival featured five decisive games. Vaclav Finek, aged 16, took over as sole leader after defeating former pace-setter Stepan Hrbek, while four players now make up the chasing group a half point back. Besides Finek, Jonas Buhl Bjerre, Jachym Nemec, Daniil Yuffa and Zhu Jiner also collected wins on Friday. | Photo: Petr Vrabec / Prague Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-c3",
+         "pubDate" : "Sat, 28 Feb 2026 06:35:00",
+         "title" : "Prague Challengers: 16-year-old Vaclav Finek sole leader"
+      },
+      {
+         "description" : "Chris Ward flips the usual \"Monthly Dragon\" perspective by studying why White wins against the Sicilian Dragon, using the classic Karpov-Korchnoi game to highlight recurring mating themes. He then shows how those same ideas transfer across openings and how he used the lessons in his own games to punish opponents who weren't aware of the patterns-especially tactics involving sacrificesand mating nets. The takeaway for Dragon players: don't avoid White's best wins, learn the \"warning signs,\" so you can prevent them and steer the positions toward Black's counterplay instead.| Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-the-white-dragon",
+         "pubDate" : "Sat, 28 Feb 2026 06:13:35",
+         "title" : "The Monthly Dragon - The White dragon"
+      },
+      {
          "description" : "GM Jorden van Foreest has now beaten both the top seed and the world champion in Prague after sacrificing a rook to defeat GM Gukesh Dommaraju in round three of the 2026 Prague Chess Festival Masters. Van Foreest moved into a four-way tie for firs...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-3",
-         "pubDate" : "Fri, 27 Feb 2026 17:11:39",
+         "pubDate" : "Fri, 27 Feb 2026 17:11:00",
          "title" : "Van Foreest Knocks Gukesh Out Of Top 10"
       },
       {
