@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. Round four on Saturday sees the clash of two of the Masters' co-leaders, Nodirbek Yakubboev and Jorden van Foreest. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "description" : "Round four of the Challengers tournament at the Prague Chess Festival featured two decisive games. Benjamin Gledura (pictured) bounced back from two consecutive losses by defeating Jonas Buhl Bjerre, while Daniil Yuffa claimed his second consecutive victory as he beat Zhu Jiner. Vaclav Finek remains the sole leader of the tournament on 3/4 points after drawing Divya Deshmukh with black. | Photo: Tom&aacute;š Krist / Prague Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-live",
-         "pubDate" : "Sat, 28 Feb 2026 14:45:00",
-         "title" : "Prague Chess Festival - Live!"
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-c4",
+         "pubDate" : "Sun, 01 Mar 2026 02:05:00",
+         "title" : "Prague Challengers: Gledura and Yuffa grab full points"
+      },
+      {
+         "description" : "GM Jorden van Foreest is now the sole leader of the 2026 Prague Chess Festival Masters on 3/4 after beating GM Nodirbek Yakubboev, with the Dutch star overtaking World Champion Gukesh Dommaraju on the live rating list. Gukesh was frustrated by fin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-4",
+         "pubDate" : "Sat, 28 Feb 2026 17:48:00",
+         "title" : "Keymer Grabs 1st Win As Van Foreest Overtakes Gukesh On Live Rating List"
+      },
+      {
+         "description" : "GM Andrew Tang secured his 15th career Bullet Brawl title on Saturday after laying down one of the best recent performances. Having stopped challenges by GMs Arjun Erigaisi and Nihal Sarin, Tang stormed home to a 15th career victory. With 50 win...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-feb-28-2026",
+         "pubDate" : "Sat, 28 Feb 2026 17:31:00",
+         "title" : "Tang Defeats 8 GMs During Streak, Denies Indian Superstars"
       },
       {
          "description" : "When I first saw Jan Timman, he seemed less a chess player than a figure escaped from literature. At the junior team championship in The Hague in 1967, I encountered a young man whose appearance struck me with such force that I immediately thought of Tadzio from Death in Venice. He possessed that same luminous, almost []",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/real-chess-improvement/",
          "pubDate" : "Sat, 28 Feb 2026 14:00:00",
          "title" : "Why Real Chess Improvement Looks Like Cheating"
-      },
-      {
-         "description" : "This episode trains you to think more creatively by first testing obvious ideas, understanding precisely why they fail, and then searching for a small adjustment that removes the opponent's defensive resource. Through tactical and endgame examples, Svitlana shows that imagination isn't about random brilliance, but about spotting loose pieces, hidden interference ideas, and unexpected candidate moves that change the evaluation completely. The learning effect is practical: by repeatedly challenging your first instinct and actively looking for alternatives, you reduce careless mistakes and expand your tactical vision in real games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-find-creative-moves",
-         "pubDate" : "Sat, 28 Feb 2026 12:00:00",
-         "title" : "Svitlana's Smart Moves - How to find creative moves"
       },
       {
          "description" : "To mark International Women's Day, the Greek Chess Federation, through its Committee for Women's Chess &#38; Gender Equality, is organising a nationwide, simultaneous chess event on Sunday, 8 March 2026, titled &#8216;Women's Moves, Lively Squares: Chess Unites Greece &#8216;. This open event is dedicated to strengthening the presence of women in chess and actively promoting the sport in public spaces. The action is supported by ECU and ECU Women's Chess Commission. The event will take place simultaneously in 11 regions []",
@@ -56,22 +64,6 @@ news_feed (
          "link" : "https://aicf.in/certificates-of-sna-seminar-exam-in-ahmedabad-on-02-03-jan-2026/",
          "pubDate" : "Sat, 28 Feb 2026 08:04:17",
          "title" : "Certificates of SNA Seminar & Exam in Ahmedabad on 02 & 03 Jan 2026"
-      },
-      {
-         "description" : "Round three of the Challengers tournament at the Prague Chess Festival featured five decisive games. Vaclav Finek, aged 16, took over as sole leader after defeating former pace-setter Stepan Hrbek, while four players now make up the chasing group a half point back. Besides Finek, Jonas Buhl Bjerre, Jachym Nemec, Daniil Yuffa and Zhu Jiner also collected wins on Friday. | Photo: Petr Vrabec / Prague Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-c3",
-         "pubDate" : "Sat, 28 Feb 2026 06:35:00",
-         "title" : "Prague Challengers: 16-year-old Vaclav Finek sole leader"
-      },
-      {
-         "description" : "Chris Ward flips the usual \"Monthly Dragon\" perspective by studying why White wins against the Sicilian Dragon, using the classic Karpov-Korchnoi game to highlight recurring mating themes. He then shows how those same ideas transfer across openings and how he used the lessons in his own games to punish opponents who weren't aware of the patterns-especially tactics involving sacrificesand mating nets. The takeaway for Dragon players: don't avoid White's best wins, learn the \"warning signs,\" so you can prevent them and steer the positions toward Black's counterplay instead.| Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-the-white-dragon",
-         "pubDate" : "Sat, 28 Feb 2026 06:13:35",
-         "title" : "The Monthly Dragon - The White dragon"
       },
       {
          "description" : "GM Jorden van Foreest has now beaten both the top seed and the world champion in Prague after sacrificing a rook to defeat GM Gukesh Dommaraju in round three of the 2026 Prague Chess Festival Masters. Van Foreest moved into a four-way tie for firs...",
@@ -122,14 +114,6 @@ news_feed (
          "title" : "Never Lose Your Chess Streak With The New Chess.com Mobile Widget"
       },
       {
-         "description" : "After four rounds of the Saint Louis Masters, three players share the lead on 3&frac12;/4, with Fabiano Caruana joined by Vasif Durarbayli (pictured) and Lorenzo Lodici at the top of the standings. Caruana is set to take a half-point bye in round five, while Lodici will have the white pieces against Durarbayli in the clash of co-leaders. Nine players stand just half a point behind the leading pack. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-masters-2026-d2",
-         "pubDate" : "Fri, 27 Feb 2026 07:55:00",
-         "title" : "Saint Louis Masters: Caruana, Lodici and Durarbayli share the lead"
-      },
-      {
          "description" : "A little more than three years ago, in December of 2022, Chess.com reached 100 million members. It was a huge milestone at the time, and it still is, but now we are celebrating an even bigger number: a quarter of a billion. It&#39;s the 250,000,000 ch...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -160,14 +144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-saint-louis-masters-round-4",
          "pubDate" : "Thu, 26 Feb 2026 22:59:00",
          "title" : "Caruana, Lodici, Durarbayli Lead Saint Louis Masters After 4 Rounds"
-      },
-      {
-         "description" : "Mahammad Muradli and Ulviyya Fataliyeva have been crowned champions at the Azerbaijan Chess Championships, held in Baku from 6 to 22 February. Muradli secured his third national title by defeating Shakhriyar Mamedyarov in the open final, while Ulviyya Fataliyeva claimed her first women's crown after a tiebreak victory over Ayan Allahverdiyeva. | Photo: Azerbaijani Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/azerbaijani-championships-2026",
-         "pubDate" : "Thu, 26 Feb 2026 22:35:00",
-         "title" : "Muradli and Fateliyeva claim national titles in Azerbaijan Championships"
       },
       {
          "description" : "Defending Champion GM Aravindh Chithambaram looked to be in trouble again in round two of the 2026 Prague Chess Festival Masters, but GM Hans Niemann couldn&#39;t find a hidden winning resource on low time and slumped to defeat. It was a similar story...",
@@ -530,14 +506,6 @@ news_feed (
          "title" : "Announcing The 2026 Freestyle Friday Championship"
       },
       {
-         "description" : "You can now get coached by two of India&#39;s most recognized chess personalities, GM Viswanathan Anand and IM Tania Sachdev! Pick them as your coach and enjoy their voices and commentary every time you use Game Review, solve puzzles, and more! As...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-vishy-tania-coaches",
-         "pubDate" : "Thu, 19 Feb 2026 07:00:00",
-         "title" : "Get Coached By Viswanathan Anand And Tania Sachdev On Chess.com"
-      },
-      {
          "description" : "Grandmaster Jan Timman, a former world No. 2, a three-time world championship candidate and nine-time Dutch champion, died Thursday. He was 74. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> photo Burt Hochberg<br> <br> <br> <br> Born in Amsterdam, Timman first made his mark at age 15, finishing third in the World Junior Championship. He became the Netherlands' third grandmaster in 1974.By the 1980s, he was often referred to as the \"Best of the West,\" winning international tournaments alongside the Soviets' best. Some of his most impressive results included first places in the IBM tournament of 1981; the Wijk aan Zee tournaments (now known as Tata Ste",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -552,14 +520,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/inside-story-emperor-endgame",
          "pubDate" : "Thu, 19 Feb 2026 00:00:00",
          "title" : "Inside Story: Emperor of the Endgame"
-      },
-      {
-         "description" : "On February 14, 15-year-old American GM Andy Woodward broke the Chess.com bullet rating record, previously held by GM Hikaru Nakamura. Nakamura set the previous record of 3570 on November 11, 2020, meaning that it stood for more than five years. W...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/woodward-breaks-chess-com-bullet-rating-record",
-         "pubDate" : "Wed, 18 Feb 2026 12:26:00",
-         "title" : "Woodward Breaks Chess.com Bullet Rating Record"
       },
       {
          "description" : "Were you able to solve the challenge positions we gave you last week? Were you able to defeat the diagrams, which defended tenatiously? Today we bring you all solutions, with very instructive video explanations by Jared Modica, a chess content creator from Austin, Texas. He shows us how to solve tatical lines of play, and how to handle pawns in endgames.",
