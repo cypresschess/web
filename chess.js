@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. In Sunday's fifth round, the last one before the rest day, sole leader Jorden van Foreest faces Hans Niemann with the white pieces. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-live",
+         "pubDate" : "Sun, 01 Mar 2026 14:45:00",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
          "description" : "Two decisive results and three hard-fought draws were seen in round four of the Masters at the Prague Chess Festival. Jorden van Foreest moved into sole first place after defeating Nodirbek Yakubboev with the black pieces, scoring his third win in four games. Vincent Keymer secured his first victory, while the remaining encounters included sustained pressure and a notable tactical sequence in Hans Niemann's draw with Parham Maghsoodloo. | Photo: Tom&aacute;š Krist / Prague Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
