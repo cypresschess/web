@@ -1,4 +1,7 @@
 jtable([
+"HOUSTON","2026-02-28","7","<a href=https://ratings.uschess.org/event/202602280283 target='_blank'>chesspanda02282026saturday</a>",
+"CYPRESS","2026-02-28","92","<a href=https://ratings.uschess.org/event/202602280043 target='_blank'>CMH Scholastic Tournament</a>",
+"SUGAR LAND","2026-02-27","20","<a href=https://ratings.uschess.org/event/202602270363 target='_blank'>FBCC Pokémon Day Open</a>",
 "SPRING","2026-02-27","30","<a href=https://ratings.uschess.org/event/202602270253 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "PASADENA","2026-02-27","14","<a href=https://ratings.uschess.org/event/202602270243 target='_blank'>Checkmates on Fairmont</a>",
 "HOUSTON","2026-02-24","16","<a href=https://ratings.uschess.org/event/202602240433 target='_blank'>FEBRUARY Tuesday Night Swiss 2026</a>",
@@ -96,7 +99,4 @@ jtable([
 "SPRING","2025-11-28","27","<a href=https://ratings.uschess.org/event/202511280193 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-11-28","17","<a href=https://ratings.uschess.org/event/202511280173 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-11-25","23","<a href=https://ratings.uschess.org/event/202511250213 target='_blank'>NOVEMBER TUESDAY NIGHT SWISS 2025</a>",
-"HOUSTON","2025-11-25","2","<a href=https://ratings.uschess.org/event/202511250203 target='_blank'>MATCH PLAY JB v AW</a>",
-"HOUSTON","2025-11-23","15","<a href=https://ratings.uschess.org/event/202511230453 target='_blank'>Bellaire Sunday Swiss 2025.11.23</a>",
-"HOUSTON","2025-11-22","12","<a href=https://ratings.uschess.org/event/202511221333 target='_blank'>chesspanda11222025saturday</a>",
 ]);
