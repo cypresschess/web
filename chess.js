@@ -720,14 +720,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-final-2025",
          "pubDate" : "Sun, 8 Feb 2026 22:27:00",
          "title" : "chess.com Speed Chess Final 2025 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128066185.cms\" />Chess will debut as an esports title at the Esports Nations Cup 2026 in Riyadh, running November 2-8. The event features 128 players in group and knockout formats, with rapid games and Armageddon tie-breakers. Players qualify via rankings, regional qualifiers, and wildcards. The tournament highlights chess's growing esports presence and global reach, following its successful Esports World Cup debut in 2025.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-added-to-esports-nations-cup-2026-schedule-format-qualifiers-and-all-you-need-to-know/articleshow/128066185.cms",
-         "pubDate" : "Sun, 08 Feb 2026 09:43:27",
-         "title" : "Chess added to ENC 2026: Schedule, format, and all you need to know"
       }
    ]
 }
