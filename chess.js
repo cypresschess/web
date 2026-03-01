@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two decisive results and three hard-fought draws were seen in round four of the Masters at the Prague Chess Festival. Jorden van Foreest moved into sole first place after defeating Nodirbek Yakubboev with the black pieces, scoring his third win in four games. Vincent Keymer secured his first victory, while the remaining encounters included sustained pressure and a notable tactical sequence in Hans Niemann's draw with Parham Maghsoodloo. | Photo: Tom&aacute;š Krist / Prague Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-4",
+         "pubDate" : "Sun, 01 Mar 2026 08:30:00",
+         "title" : "Prague Masters: Van Foreest beats Yakubboev, becomes sole leader"
+      },
+      {
          "description" : "Round four of the Challengers tournament at the Prague Chess Festival featured two decisive games. Benjamin Gledura (pictured) bounced back from two consecutive losses by defeating Jonas Buhl Bjerre, while Daniil Yuffa claimed his second consecutive victory as he beat Zhu Jiner. Vaclav Finek remains the sole leader of the tournament on 3/4 points after drawing Divya Deshmukh with black. | Photo: Tom&aacute;š Krist / Prague Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-added-to-esports-nations-cup-2026-schedule-format-qualifiers-and-all-you-need-to-know/articleshow/128066185.cms",
          "pubDate" : "Sun, 08 Feb 2026 09:43:27",
          "title" : "Chess added to ENC 2026: Schedule, format, and all you need to know"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128059169.cms\" />Newly crowned youngest world chess champion D Gukesh reflects on the heightened expectations and challenges following his historic win. He highlights the mental strength displayed during a streak of draws and emphasises that losses, despite their sting, offer more valuable lessons for his continued growth in the sport.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/defeats-teach-you-more-than-wins/articleshow/128059169.cms",
-         "pubDate" : "Sun, 08 Feb 2026 05:01:12",
-         "title" : "Defeats teach you more than wins: D Gukesh"
       }
    ]
 }
