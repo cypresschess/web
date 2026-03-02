@@ -10,6 +10,14 @@ news_feed (
          "title" : "Is Gukesh calculating too much?"
       },
       {
+         "description" : "GM Mikhail Antipov won the 2026 Saint Louis Masters with 7.5/9 to earn the $25,000 first prize. He and GM Fabiano Caruana were neck and neck going into the last round, and both had the black pieces. Antipov managed to win his last game against GM ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/antipov-wins-2026-saint-louis-masters",
+         "pubDate" : "Sun, 01 Mar 2026 15:35:00",
+         "title" : "Antipov Leapfrogs Caruana To Win 2026 Saint Louis Masters"
+      },
+      {
          "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. In Sunday's fifth round, the last one before the rest day, sole leader Jorden van Foreest faces Hans Niemann with the white pieces. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -514,14 +522,6 @@ news_feed (
          "title" : "Record &pound;52,500 prize pot announced as entries open for 2026 British Chess Championships in Coventry!"
       },
       {
-         "description" : "Chess.com and Freestyle Chess are proud to launch the Freestyle Friday Championship, a brand-new, season-long race that will award a direct spot in the 2027 FIDE Freestyle Chess World Championship and in the 2027 FIDE Women&#39;s Freestyle Chess World...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-freestyle-friday-championship-2026",
-         "pubDate" : "Thu, 19 Feb 2026 08:00:00",
-         "title" : "Announcing The 2026 Freestyle Friday Championship"
-      },
-      {
          "description" : "Grandmaster Jan Timman, a former world No. 2, a three-time world championship candidate and nine-time Dutch champion, died Thursday. He was 74. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> photo Burt Hochberg<br> <br> <br> <br> Born in Amsterdam, Timman first made his mark at age 15, finishing third in the World Junior Championship. He became the Netherlands' third grandmaster in 1974.By the 1980s, he was often referred to as the \"Best of the West,\" winning international tournaments alongside the Soviets' best. Some of his most impressive results included first places in the IBM tournament of 1981; the Wijk aan Zee tournaments (now known as Tata Ste",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -720,14 +720,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/most-attractive-chess-players",
          "pubDate" : "Mon, 09 Feb 2026 16:00:00",
          "title" : "Most attractive chess players"
-      },
-      {
-         "description" : " chess.com Speed Chess Final 2025 took place in person in London 7th to 8th February 2026. The was hosted by Chess.com's server. Magnus Carlsen won the event by defeating Denis Lazavik in the semifinals and Alireza Firouzja in the final. Lazavik beat Hikaru Nakamura to 3rd place.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-final-2025",
-         "pubDate" : "Sun, 8 Feb 2026 22:27:00",
-         "title" : "chess.com Speed Chess Final 2025 - Games and Results"
       }
    ]
 }
