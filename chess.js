@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Mikhail Antipov won the Saint Louis Masters ahead of Fabiano Caruana. The Russian-born grandmaster, playing under the US flag, scored an impressive victory over Andy Woodward in the final round. He had gone into the last round level on points with the rating favourite. However, Caruana was only able to add half a point to his tally after drawing with Francesco Sonis, despite having reached a winning position. As a result, Caruana finished half a point short - the same half point he had voluntarily given up by requesting a bye in round five. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-masters-2026-d4",
+         "pubDate" : "Mon, 02 Mar 2026 20:10:00",
+         "title" : "Mikhail Antipov wins Saint Louis Masters ahead of Fabiano Caruana"
+      },
+      {
          "description" : " The 8th Prague International Chess Festival takes place Tue 24th Feb to Fri 6th Mar 2026. Players Masters: Vincent Keymer, D Gukesh, Nodirbek Abdusattorov, Hans Moke, Niemann, Parham Maghsoodloo, Jorden Van Foreest, Aravindh Chithambaram V, Nodirbek Yakubboev, David Anton Guijarro and David Navara. There's a strong Challengers section, Futures and an open too.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2026-c5",
          "pubDate" : "Mon, 02 Mar 2026 06:40:00",
          "title" : "Prague Challengers: Finek beats Yuffa, leads by a full point"
+      },
+      {
+         "description" : "The 2026 Saint Louis Masters took place February 25 through March 1 at the Saint Louis Chess Club. A preamble to the American Cup (which begins tomorrow after today's blitz), this tournament featured 70 top competitors representing 23 federations, ranging from five American Cup participants to young norm-seekers.Almost of half of the field consisted of American players, and it was indeed Americans who finished first and second, although the winner might not have been your pre-tournament pick. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Mikhail Antipov is the Saint Louis Masters champion! (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> When a",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/antipov-wins-saint-louis-masters-four-norms-earned",
+         "pubDate" : "Mon, 02 Mar 2026 00:00:00",
+         "title" : "Antipov Wins Saint Louis Masters, Four Norms Earned"
       },
       {
          "description" : "The focus of this issue is games featuring outposts. The definition of an outpost in chess can refer to different pieces sitting on different squares (primarily in enemy territory), defended by virtually any piece. For the purposes of this issue, we are going to be a bit more specific; an outpost occurs when a knight sitting on a center square in enemy territory and is, at least, initially protected by a pawn.The games provided in this issue all feature an outpost for the player that won the game. Some games also feature an outpost for the player that lost the game. There are no drawn games.Enjoy!GamesReminder when reviewing the crosstables:XD = result by defaultXE = exceeded time limitThe l",
@@ -560,14 +576,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/jan-timman-1951-2026",
          "pubDate" : "Thu, 19 Feb 2026 00:00:00",
          "title" : "Jan Timman, 1951-2026"
-      },
-      {
-         "description" : "Editor's note: this story first appeared in the February 2026 issue of Chess Life magazine. A reduced size pdf of the magazine article is available to accompany this online version.Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.Ask a chessplayer to pick today's important endgame theorist, and chances are they'll say Mark Dvoretsky, whose eponymous Dvoretsky's Endgame Manual has become one of the most recommended (if less often fully read) books among today's elite.Some will prefer Karsten M&uuml;ller, with Fundame",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/inside-story-emperor-endgame",
-         "pubDate" : "Thu, 19 Feb 2026 00:00:00",
-         "title" : "Inside Story: Emperor of the Endgame"
       },
       {
          "description" : "Were you able to solve the challenge positions we gave you last week? Were you able to defeat the diagrams, which defended tenatiously? Today we bring you all solutions, with very instructive video explanations by Jared Modica, a chess content creator from Austin, Texas. He shows us how to solve tatical lines of play, and how to handle pawns in endgames.",
