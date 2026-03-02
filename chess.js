@@ -10,6 +10,14 @@ news_feed (
          "title" : "Is Gukesh calculating too much?"
       },
       {
+         "description" : "GM Nodirbek Abdusattorov won another rollercoaster game against World Champion Gukesh Dommaraju to join GM David Navara in second place in the 2026 Prague Chess Festival Masters after five rounds. Navara won a beautiful game against GM Nodirbek Ya...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-5",
+         "pubDate" : "Sun, 01 Mar 2026 17:31:00",
+         "title" : "Abdusattorov Beats Gukesh Again, Van Foreest Hits World No. 11"
+      },
+      {
          "description" : "GM Mikhail Antipov won the 2026 Saint Louis Masters with 7.5/9 to earn the $25,000 first prize. He and GM Fabiano Caruana were neck and neck going into the last round, and both had the black pieces. Antipov managed to win his last game against GM ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -488,14 +496,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/jan-timman-1951-2026",
          "pubDate" : "Thu, 19 Feb 2026 14:42:00",
          "title" : "Jan Timman 1951-2026 - 1951-2026"
-      },
-      {
-         "description" : "GM Jan Timman, a former world number-two, multiple world championship candidate, nine-time Dutch national champion, prolific author, honorary editor of New in Chess magazine, and endgame studies specialist, passed away on Wednesday after battling ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jan-timman-obituary",
-         "pubDate" : "Thu, 19 Feb 2026 14:22:00",
-         "title" : "Jan Timman (1951-2026)"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128553691.cms\" />Wesley So confirmed his return to Norway Chess 2026, marking his sixth appearance in the elite tournament. A former world No. 2, So is known for his precision and consistency, highlighted by a 67-game unbeaten streak and a peak rating above 2800. A world champion in Fischer Random and multiple U.S. champion, he remains a top contender. Norway Chess organizers praised his depth and fighting strength.",
