@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 8th Prague International Chess Festival takes place Tue 24th Feb to Fri 6th Mar 2026. Players Masters: Vincent Keymer, D Gukesh, Nodirbek Abdusattorov, Hans Moke, Niemann, Parham Maghsoodloo, Jorden Van Foreest, Aravindh Chithambaram V, Nodirbek Yakubboev, David Anton Guijarro and David Navara. There's a strong Challengers section, Futures and an open too.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/8th-prague-international-chess-festival-2026",
+         "pubDate" : "Mon, 2 Mar 2026 14:48:00",
+         "title" : "8th Prague International Chess Festival 2026 - Games and Results"
+      },
+      {
+         "description" : " The Saint Louis Masters took place Tue 24th Feb to Sun 1st Mar 2026. Mikhail Antipov won the event with 7.5/9 after beating Andy Woodward in the final round, he was half a point clear of Fabiano Caruana who failed to convert a winning endgame against Francesco Sonis. Lorenzo Lodici finished in clear third place with 6.5/9.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-masters-2026",
+         "pubDate" : "Mon, 2 Mar 2026 14:34:00",
+         "title" : "Saint Louis Masters 2026 - Games and Results"
+      },
+      {
          "description" : "All five games ended decisively in round five of the Masters at the Prague Chess Festival. Jorden van Foreest kept the lead after capitalising on a single opening mistake by Hans Niemann, while Nodirbek Abdusattorov defeated world champion Gukesh Dommaraju in another tense encounter. David Navara (pictured) also scored, producing one of the most memorable wins of the tournament so far. | Photo: Petr Vrabec / Prague Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2026-c5",
          "pubDate" : "Mon, 02 Mar 2026 06:40:00",
          "title" : "Prague Challengers: Finek beats Yuffa, leads by a full point"
+      },
+      {
+         "description" : "The focus of this issue is games featuring outposts. The definition of an outpost in chess can refer to different pieces sitting on different squares (primarily in enemy territory), defended by virtually any piece. For the purposes of this issue, we are going to be a bit more specific; an outpost occurs when a knight sitting on a center square in enemy territory and is, at least, initially protected by a pawn.The games provided in this issue all feature an outpost for the player that won the game. Some games also feature an outpost for the player that lost the game. There are no drawn games.Enjoy!GamesReminder when reviewing the crosstables:XD = result by defaultXE = exceeded time limitThe l",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/check-mail-march-2026-man-outposts",
+         "pubDate" : "Mon, 02 Mar 2026 00:00:00",
+         "title" : "Check is in the Mail, March 2026: Man the Outposts!"
+      },
+      {
+         "description" : "1. Whose Pick Is It Anyway?You arrive at your board before the game has started. Your opponent, playing white, has set up their equipment. The set and board are the standard chess warriors we have all come to know and love. The only issue is that their timer occupies your left side of the playing arena - your opponent's right side. Since you were assigned to lead the black pieces, you point out that you can choose the placement of the game clock; i.e., on your right-hand side of the board. Your opponent protests. Your adversary points out that since they set up the equipment first, they get to choose the clock placement. Time for some TD intervention: A. The TD allows your opponent to place ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-short-quiz-time",
+         "pubDate" : "Mon, 02 Mar 2026 00:00:00",
+         "title" : "Just the Rules: Short Quiz Time!"
       },
       {
          "description" : "Is calculation becoming a strength that turns into a weakness? In this opinion piece, Ravi Abhyankar explores the delicate balance between calculation and instinct in modern chess. Can today's elite players afford to rely only on deep calculation and ignore speed? Why does blitz matter so much for a classical World Champion today? By blending data, history, and modern realities, the article explains what dominance means in modern chess. | Photo: Grand Chess Tour / Lennart Ootes",
@@ -546,14 +578,6 @@ news_feed (
          "title" : "Endgame Challenge Solutions"
       },
       {
-         "description" : "Today's puzzles begin a two-part series on the final and semifinal matches from the 2025 Chess.com Speed Chess Championship, held earlier this month in London. Under severe time pressure, many of the games produced instructive tactics suitable for our audience. Enjoy! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-chesscom-speed-chess-championship",
-         "pubDate" : "Tue, 17 Feb 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2025 Chess.com Speed Chess Championship"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128411369.cms\" />Magnus Carlsen won the 2026 FIDE Freestyle Chess World Championship in Germany, defeating Fabiano Caruana 2.5-1.5. A crucial comeback win in game three helped him secure the title, clinched with a draw in the final game. It is the first FIDE-recognised Freestyle world title and Carlsen's 21st overall. Abdusattorov finished third, and the top three qualified for 2027.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -624,14 +648,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/feb/13/chess-carlsen-triumphs-in-london-but-nakamura-fails",
          "pubDate" : "Fri, 13 Feb 2026 08:00:40",
          "title" : "Chess: Magnus Carlsen triumphs in London speed event but Nakamura fails"
-      },
-      {
-         "description" : "America's most recent member of the 2700 club, GM Awonder Liang, traveled to Sharjah, United Arab Emirates to face off against Emirati GM Salem A.R. Saleh in a six-day match dubbed \"Battle of the Minds,\" which ended Thursday, Feb. 12 with an 8&frac12;-7&frac12; victory for Liang. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Awonder Liang strikes a pose during the early phase of his lengthy theoretical draw against Grigoriy Oparin (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> The format consisted of four rapid games on the first day, followed by one classical game a day for four days, and, finally, four blitz games on the final day. Each rap",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/liang-defeats-salem-wins-battle-minds",
-         "pubDate" : "Fri, 13 Feb 2026 00:00:00",
-         "title" : "Liang Defeats Salem, Wins Battle of Minds"
       },
       {
          "description" : " Robert Hungaski is a chess Grandmaster in Residence at the Saint Louis Chess Club. Explore his journey from first grade to the GM title. The post <a href=\"https://saintlouischessclub.org/news-insights-press/gmr-spotlight-robert-hungaski/\">GRANDMASTER IN RESIDENCE SPOTLIGHT: GM Robert Hungaski</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -712,14 +728,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/still-no-india-no-1-arjun-erigaisi-as-norway-chess-reveals-new-participant-for-2026-event/articleshow/128157998.cms",
          "pubDate" : "Tue, 10 Feb 2026 12:25:59",
          "title" : "Still no India No. 1 Erigaisi as Norway Chess reveals new participant"
-      },
-      {
-         "description" : "Who is your favourite chess player - of all time, from the history of chess? Whose games do you enjoy the most? Is it one of the greats from the 19th century, the world champion legends of the twentieth? Or is it a player who is still active? Tell us your choices - and we will compare them with what a chess AI chooses, after evaluating millions of games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/most-attractive-chess-players",
-         "pubDate" : "Mon, 09 Feb 2026 16:00:00",
-         "title" : "Most attractive chess players"
       }
    ]
 }
