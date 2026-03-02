@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All five games ended decisively in round five of the Masters at the Prague Chess Festival. Jorden van Foreest kept the lead after capitalising on a single opening mistake by Hans Niemann, while Nodirbek Abdusattorov defeated world champion Gukesh Dommaraju in another tense encounter. David Navara (pictured) also scored, producing one of the most memorable wins of the tournament so far. | Photo: Petr Vrabec / Prague Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-5",
+         "pubDate" : "Mon, 02 Mar 2026 08:30:00",
+         "title" : "Prague Masters: Van Foreest wins again, Navara and Abdusattorov follow close behind"
+      },
+      {
+         "description" : "A clear leader has emerged in the Challengers tournament at the Prague International Chess Festival, as 16-year-old Vaclav Finek moved a full point ahead of the field after defeating Daniil Yuffa with the white pieces. Divya Deshmukh, meanwhile, scored her first win of the event, while the remaining games ended drawn. The players now get a rest day before the final four rounds of the event take place from Tuesday to Friday. | Photo: Petr Vrabec / Prague Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-c5",
+         "pubDate" : "Mon, 02 Mar 2026 06:40:00",
+         "title" : "Prague Challengers: Finek beats Yuffa, leads by a full point"
+      },
+      {
          "description" : "Is calculation becoming a strength that turns into a weakness? In this opinion piece, Ravi Abhyankar explores the delicate balance between calculation and instinct in modern chess. Can today's elite players afford to rely only on deep calculation and ignore speed? Why does blitz matter so much for a classical World Champion today? By blending data, history, and modern realities, the article explains what dominance means in modern chess. | Photo: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,22 +40,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/antipov-wins-2026-saint-louis-masters",
          "pubDate" : "Sun, 01 Mar 2026 15:35:00",
          "title" : "Antipov Leapfrogs Caruana To Win 2026 Saint Louis Masters"
-      },
-      {
-         "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. In Sunday's fifth round, the last one before the rest day, sole leader Jorden van Foreest faces Hans Niemann with the white pieces. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-live",
-         "pubDate" : "Sun, 01 Mar 2026 14:45:00",
-         "title" : "Prague Chess Festival - Live!"
-      },
-      {
-         "description" : "Round four of the Challengers tournament at the Prague Chess Festival featured two decisive games. Benjamin Gledura (pictured) bounced back from two consecutive losses by defeating Jonas Buhl Bjerre, while Daniil Yuffa claimed his second consecutive victory as he beat Zhu Jiner. Vaclav Finek remains the sole leader of the tournament on 3/4 points after drawing Divya Deshmukh with black. | Photo: Tom&aacute;š Krist / Prague Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-c4",
-         "pubDate" : "Sun, 01 Mar 2026 02:05:00",
-         "title" : "Prague Challengers: Gledura and Yuffa grab full points"
       },
       {
          "description" : "GM Jorden van Foreest is now the sole leader of the 2026 Prague Chess Festival Masters on 3/4 after beating GM Nodirbek Yakubboev, with the Dutch star overtaking World Champion Gukesh Dommaraju on the live rating list. Gukesh was frustrated by fin...",
