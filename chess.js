@@ -26,6 +26,14 @@ news_feed (
          "title" : "Saint Louis Masters 2026 - Games and Results"
       },
       {
+         "description" : "Tata Steel Chess Masters 2026 and the Challengers, which started in mid-January and ended at the start of February, were responsible for most of the rating changes among the world&#39;s top players. GM Nodirbek Abdusattorov followed up his 19-point ga...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/march-2026-fide-ratings",
+         "pubDate" : "Mon, 02 Mar 2026 13:32:00",
+         "title" : "Van Foreest Enters Top-20 In March Rating List"
+      },
+      {
          "description" : "All five games ended decisively in round five of the Masters at the Prague Chess Festival. Jorden van Foreest kept the lead after capitalising on a single opening mistake by Hans Niemann, while Nodirbek Abdusattorov defeated world champion Gukesh Dommaraju in another tense encounter. David Navara (pictured) also scored, producing one of the most memorable wins of the tournament so far. | Photo: Petr Vrabec / Prague Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -512,14 +520,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/23-year-old-chinese-chess-superstar-zhu-jiner-to-debut-at-norway-chess-women-2026/articleshow/128602203.cms",
          "pubDate" : "Fri, 20 Feb 2026 10:12:10",
          "title" : "Zhu Jiner to debut at Norway Chess Women 2026"
-      },
-      {
-         "description" : "GM Fabiano Caruana will have White against his U.S. rival GM Hikaru Nakamura when the 2026 FIDE Candidates Tournament begins in five weeks on March 29. The other first-round pairings are GMs Javokhir Sindarov vs. Andrey Esipenko, Matthias Bluebaum...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/caruana-nakamura-fide-candidates-tournament-pairings-2026",
-         "pubDate" : "Fri, 20 Feb 2026 08:26:00",
-         "title" : "Caruana-Nakamura In Round 1: FIDE Candidates Pairings Announced"
       },
       {
          "description" : " The world No 1 won his 21st global title by defeating his old rival Fabiano Caruana in Freestyle chess at Weissenhaus in Germany Magnus Carlsen notched up yet another world crown last weekend when the Norwegian, 35, continued his decade-long campaign aiming to edge ahead of Garry Kasparov and Bobby Fischer on the game's absolute pantheon. This time it was Freestyle chess, where the back-row pieces start in randomised positions to eliminate pre-game prep. Carlsen, who also holds the Rapid and Blitz crowns, abdicated his Classical title in 2023 citing lack of motivation. His total titles, now 21, include five at classical chess, six at one-hour rapid, and nine at three-minute blitz. <a href=\"",
