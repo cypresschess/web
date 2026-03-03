@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. Following the rest day, round six sees sole leader Jorden van Foreest facing one of the players tied for second place, David Navara. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST) | Photo: David Anton | Photo: Petr Vrabec | Chess Festival Prague",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-live",
+         "pubDate" : "Tue, 03 Mar 2026 14:45:00",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128963986.cms\" />Sixteen-year-old Aarav Dengla has become India's 93rd Grandmaster (GM). Guided by his mother Shipra, who quit her job to support his career, Aarav rose rapidly from prodigy to champion. Initially trained by GM Pravin Thipsay and then under Vishnu Prasanna, and balancing rigorous academics, he sealed his final GM norm in 2026, emerging as Mumbai's third Grandmaster.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/harshit-raja-saint-louis-masters",
          "pubDate" : "Tue, 03 Mar 2026 08:30:00",
          "title" : "Commentator or strong GM? Harshit Raja's inspiring run at Saint Louis Masters"
+      },
+      {
+         "description" : "IM Levy Rozman became the world&#39;s biggest chess YouTuber by teaching millions of players how to win at chess. Two and a half years after a massively successful book debut, he&#39;s taking it one step further by targeting readers who can&#39;t yet walk, ta...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/levy-rozman-chess-for-babies",
+         "pubDate" : "Tue, 03 Mar 2026 08:01:11",
+         "title" : "Levy Rozman Releases 'Chew-Proof' Chess Book For Babies, Debuts At No. 1 On Amazon"
       },
       {
          "description" : "The new FIDE world ranking for March includes the tournaments played in Wijk aan Zee. Among the biggest gainers are Nodirbek Abdusattorov and Javokhir Sindarov, as well as Matthias Bluebaum. The top of the women's world ranking remains firmly in Chinese hands. World Champion Gukesh, in his final year as a junior, is still number one on the U20 list. The (temporary) return of Sergey Karjakin caused some irritation.",
@@ -190,7 +206,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-reaches-250-million-members",
-         "pubDate" : "Fri, 27 Feb 2026 07:00:27",
+         "pubDate" : "Fri, 27 Feb 2026 07:00:00",
          "title" : "Chess.com Reaches 250 Million Members"
       },
       {
@@ -464,14 +480,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-february-20-2026",
          "pubDate" : "Fri, 20 Feb 2026 13:15:25",
          "title" : "Freestyle Friday Championship Begins With Another Win For Bortnyk"
-      },
-      {
-         "description" : "GM Fabiano Caruana followed up on his Titled Tuesday victory this week by becoming the first-ever winner of two 3 0 Thursday tournaments on the same day. He won the first tournament on tiebreaks over GM Matthias Bluebaum. He kept up his form by wi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/caruana-caruana-mahdavi-3-0-thursday-2-19-2026",
-         "pubDate" : "Fri, 20 Feb 2026 12:44:22",
-         "title" : "Caruana Doubles Up In 3 0 Thursday, Mahdavi Wins 3rd Tournament"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128604105.cms\" />Tripura's 15-year-old chess prodigy Arshiya Das recently became the first Woman International Master (WIM) from Northeast India after winning a tournament in Serbia. Her rise began from playing chess on a laptop as a child, followed by strong national and international results. With family sacrifices, coaching across India, and intense training, she has emerged as a major talent, highlighting both the region's potential and the need for better support and sponsorship",
