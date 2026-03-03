@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2026-live",
+         "pubDate" : "Tue, 03 Mar 2026 18:45:00",
+         "title" : "The American Cup - Live!"
+      },
+      {
          "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. Following the rest day, round six sees sole leader Jorden van Foreest facing one of the players tied for second place, David Navara. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST) | Photo: David Anton | Photo: Petr Vrabec | Chess Festival Prague",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/prague-festival-2026-live",
          "pubDate" : "Tue, 03 Mar 2026 14:45:00",
          "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : "GM Javokhir Sindarov won Titled Tuesday on March 3 as the spring split, the third and final portion of the 2025-26 Titled Tuesday season, opened. Sindarov defeated GM Nihal Sarin in the final round and emerged as the victor on tiebreaks after cole...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sindarov-wins-titled-tuesday-march-3-2026",
+         "pubDate" : "Tue, 03 Mar 2026 11:31:48",
+         "title" : "Sindarov Makes Rivals Pay For Quick Final-Round Draw, Wins Third Titled Tuesday Of Year"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128963986.cms\" />Sixteen-year-old Aarav Dengla has become India's 93rd Grandmaster (GM). Guided by his mother Shipra, who quit her job to support his career, Aarav rose rapidly from prodigy to champion. Initially trained by GM Pravin Thipsay and then under Vishnu Prasanna, and balancing rigorous academics, he sealed his final GM norm in 2026, emerging as Mumbai's third Grandmaster.",
@@ -30,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/levy-rozman-chess-for-babies",
-         "pubDate" : "Tue, 03 Mar 2026 08:01:11",
+         "pubDate" : "Tue, 03 Mar 2026 08:01:00",
          "title" : "Levy Rozman Releases 'Chew-Proof' Chess Book For Babies, Debuts At No. 1 On Amazon"
       },
       {
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-ratings-march-2026",
          "pubDate" : "Tue, 03 Mar 2026 06:45:00",
          "title" : "FIDE ratings - March 2026"
+      },
+      {
+         "description" : "Today's puzzles begin a series on the 2026 Saint Louis Masters (coverage here), won by GM Mikhail Antipov, who finished a half-point ahead of GM Fabiano Caruana to earn the $25,000 first-place prize. 70 players competed, including a number of top Americans (and five American Cup participants), as well as international norm seekers. Fire was on board from the top tables all the way through the standings, and we've got several weeks of educational entertainment as a result. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-masters-pt-1",
+         "pubDate" : "Tue, 03 Mar 2026 00:00:00",
+         "title" : "Tactics Tuesday: Saint Louis Masters, Pt. 1"
       },
       {
          "description" : " The 8th Prague International Chess Festival takes place Tue 24th Feb to Fri 6th Mar 2026. Players Masters: Vincent Keymer, D Gukesh, Nodirbek Abdusattorov, Hans Moke, Niemann, Parham Maghsoodloo, Jorden Van Foreest, Aravindh Chithambaram V, Nodirbek Yakubboev, David Anton Guijarro and David Navara. There's a strong Challengers section, Futures and an open too.",
@@ -474,14 +498,6 @@ news_feed (
          "title" : "Kasioumis 3-Checks Best In 2026, Improves On Last Year's 2nd Place"
       },
       {
-         "description" : "With brand-new stakes introduced by the announcement of the Freestyle Friday Championship, the victory that GM Oleksandr Bortnyk earned in the February 20 edition of Freestyle Friday gave him a jumpstart toward potentially playing in the 2027 FIDE...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-february-20-2026",
-         "pubDate" : "Fri, 20 Feb 2026 13:15:25",
-         "title" : "Freestyle Friday Championship Begins With Another Win For Bortnyk"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128604105.cms\" />Tripura's 15-year-old chess prodigy Arshiya Das recently became the first Woman International Master (WIM) from Northeast India after winning a tournament in Serbia. Her rise began from playing chess on a laptop as a child, followed by strong national and international results. With family sacrifices, coaching across India, and intense training, she has emerged as a major talent, highlighting both the region's potential and the need for better support and sponsorship",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -552,14 +568,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/record-52500-prize-pot-announced-as-entries-open-for-2026-british-chess-championships-in-coventry/",
          "pubDate" : "Thu, 19 Feb 2026 09:00:25",
          "title" : "Record &pound;52,500 prize pot announced as entries open for 2026 British Chess Championships in Coventry!"
-      },
-      {
-         "description" : "Grandmaster Jan Timman, a former world No. 2, a three-time world championship candidate and nine-time Dutch champion, died Thursday. He was 74. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> photo Burt Hochberg<br> <br> <br> <br> Born in Amsterdam, Timman first made his mark at age 15, finishing third in the World Junior Championship. He became the Netherlands' third grandmaster in 1974.By the 1980s, he was often referred to as the \"Best of the West,\" winning international tournaments alongside the Soviets' best. Some of his most impressive results included first places in the IBM tournament of 1981; the Wijk aan Zee tournaments (now known as Tata Ste",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/jan-timman-1951-2026",
-         "pubDate" : "Thu, 19 Feb 2026 00:00:00",
-         "title" : "Jan Timman, 1951-2026"
       },
       {
          "description" : "Were you able to solve the challenge positions we gave you last week? Were you able to defeat the diagrams, which defended tenatiously? Today we bring you all solutions, with very instructive video explanations by Jared Modica, a chess content creator from Austin, Texas. He shows us how to solve tatical lines of play, and how to handle pawns in endgames.",
