@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128963986.cms\" />Sixteen-year-old Aarav Dengla has become India's 93rd Grandmaster (GM). Guided by his mother Shipra, who quit her job to support his career, Aarav rose rapidly from prodigy to champion. Initially trained by GM Pravin Thipsay and then under Vishnu Prasanna, and balancing rigorous academics, he sealed his final GM norm in 2026, emerging as Mumbai's third Grandmaster.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-gets-its-93rd-gm-mother-quit-job-for-chess-the-making-of-aarav-dengla-influenced-by-d-gukesh-and-arjun-erigaisi/articleshow/128963986.cms",
+         "pubDate" : "Tue, 03 Mar 2026 10:18:23",
+         "title" : "India gets 93rd GM: Mother quit job for chess - Making of Aarav Dengla"
+      },
+      {
          "description" : "After a small break, GM Harshit Raja made a fine return to classical chess at the Saint Louis Masters, an elite invitational tournament featuring a powerhouse lineup of just 70 players. Facing a gauntlet of opponents with an average rating of nearly 2580, Harshit proved what a strong player he is, leading to a performance rating of 2600+ and a gain of 13 Elo points. From daring \"coffeehouse complications\" against Grigoriy Oparin to a strategic masterclass in the Najdorf, Harshit shares the insights behind his \"chill\" and inspired approach to the game. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -688,14 +696,6 @@ news_feed (
          "link" : "https://aicf.in/tentative-national-calendar-for-2026-27/",
          "pubDate" : "Wed, 11 Feb 2026 06:37:58",
          "title" : "TENTATIVE NATIONAL CALENDAR FOR 2026-27"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128157998.cms\" />Norway Chess has confirmed Alireza Firouzja for its 2026 event in Oslo, while India No. 1 Arjun Erigaisi is still not in the announced lineup. Firouzja, a former prodigy who became a GM at 14 and the youngest to reach 2800 rating, has twice played the Candidates and finished runner-up at Norway Chess before. India will be represented by world champion Gukesh and R Praggnanandhaa, with more names to be revealed.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/still-no-india-no-1-arjun-erigaisi-as-norway-chess-reveals-new-participant-for-2026-event/articleshow/128157998.cms",
-         "pubDate" : "Tue, 10 Feb 2026 12:25:59",
-         "title" : "Still no India No. 1 Erigaisi as Norway Chess reveals new participant"
       }
    ]
 }
