@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Mikhail Antipov won the Saint Louis Masters ahead of Fabiano Caruana. The Russian-born grandmaster, playing under the US flag, scored an impressive victory over Andy Woodward in the final round. He had gone into the last round level on points with the rating favourite. However, Caruana was only able to add half a point to his tally after drawing with Francesco Sonis, despite having reached a winning position. As a result, Caruana finished half a point short - the same half point he had voluntarily given up by requesting a bye in round five. | Photo: Lennart Ootes",
+         "description" : "After a small break, GM Harshit Raja made a fine return to classical chess at the Saint Louis Masters, an elite invitational tournament featuring a powerhouse lineup of just 70 players. Facing a gauntlet of opponents with an average rating of nearly 2580, Harshit proved what a strong player he is, leading to a performance rating of 2600+ and a gain of 13 Elo points. From daring \"coffeehouse complications\" against Grigoriy Oparin to a strategic masterclass in the Najdorf, Harshit shares the insights behind his \"chill\" and inspired approach to the game. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-masters-2026-d4",
-         "pubDate" : "Mon, 02 Mar 2026 20:10:00",
-         "title" : "Mikhail Antipov wins Saint Louis Masters ahead of Fabiano Caruana"
+         "link" : "https://en.chessbase.com/post/harshit-raja-saint-louis-masters",
+         "pubDate" : "Tue, 03 Mar 2026 08:30:00",
+         "title" : "Commentator or strong GM? Harshit Raja's inspiring run at Saint Louis Masters"
+      },
+      {
+         "description" : "The new FIDE world ranking for March includes the tournaments played in Wijk aan Zee. Among the biggest gainers are Nodirbek Abdusattorov and Javokhir Sindarov, as well as Matthias Bluebaum. The top of the women's world ranking remains firmly in Chinese hands. World Champion Gukesh, in his final year as a junior, is still number one on the U20 list. The (temporary) return of Sergey Karjakin caused some irritation.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-march-2026",
+         "pubDate" : "Tue, 03 Mar 2026 06:45:00",
+         "title" : "FIDE ratings - March 2026"
       },
       {
          "description" : " The 8th Prague International Chess Festival takes place Tue 24th Feb to Fri 6th Mar 2026. Players Masters: Vincent Keymer, D Gukesh, Nodirbek Abdusattorov, Hans Moke, Niemann, Parham Maghsoodloo, Jorden Van Foreest, Aravindh Chithambaram V, Nodirbek Yakubboev, David Anton Guijarro and David Navara. There's a strong Challengers section, Futures and an open too.",
@@ -34,22 +42,6 @@ news_feed (
          "title" : "Van Foreest Enters Top-20 In March Rating List"
       },
       {
-         "description" : "All five games ended decisively in round five of the Masters at the Prague Chess Festival. Jorden van Foreest kept the lead after capitalising on a single opening mistake by Hans Niemann, while Nodirbek Abdusattorov defeated world champion Gukesh Dommaraju in another tense encounter. David Navara (pictured) also scored, producing one of the most memorable wins of the tournament so far. | Photo: Petr Vrabec / Prague Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-5",
-         "pubDate" : "Mon, 02 Mar 2026 08:30:00",
-         "title" : "Prague Masters: Van Foreest wins again, Navara and Abdusattorov follow close behind"
-      },
-      {
-         "description" : "A clear leader has emerged in the Challengers tournament at the Prague International Chess Festival, as 16-year-old Vaclav Finek moved a full point ahead of the field after defeating Daniil Yuffa with the white pieces. Divya Deshmukh, meanwhile, scored her first win of the event, while the remaining games ended drawn. The players now get a rest day before the final four rounds of the event take place from Tuesday to Friday. | Photo: Petr Vrabec / Prague Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-c5",
-         "pubDate" : "Mon, 02 Mar 2026 06:40:00",
-         "title" : "Prague Challengers: Finek beats Yuffa, leads by a full point"
-      },
-      {
          "description" : "The 2026 Saint Louis Masters took place February 25 through March 1 at the Saint Louis Chess Club. A preamble to the American Cup (which begins tomorrow after today's blitz), this tournament featured 70 top competitors representing 23 federations, ranging from five American Cup participants to young norm-seekers.Almost of half of the field consisted of American players, and it was indeed Americans who finished first and second, although the winner might not have been your pre-tournament pick. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Mikhail Antipov is the Saint Louis Masters champion! (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> When a",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -72,14 +64,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/just-rules-short-quiz-time",
          "pubDate" : "Mon, 02 Mar 2026 00:00:00",
          "title" : "Just the Rules: Short Quiz Time!"
-      },
-      {
-         "description" : "Is calculation becoming a strength that turns into a weakness? In this opinion piece, Ravi Abhyankar explores the delicate balance between calculation and instinct in modern chess. Can today's elite players afford to rely only on deep calculation and ignore speed? Why does blitz matter so much for a classical World Champion today? By blending data, history, and modern realities, the article explains what dominance means in modern chess. | Photo: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/is-gukesh-calculating-too-much",
-         "pubDate" : "Sun, 01 Mar 2026 21:00:00",
-         "title" : "Is Gukesh calculating too much?"
       },
       {
          "description" : "GM Nodirbek Abdusattorov won another rollercoaster game against World Champion Gukesh Dommaraju to join GM David Navara in second place in the 2026 Prague Chess Festival Masters after five rounds. Navara won a beautiful game against GM Nodirbek Ya...",
@@ -136,14 +120,6 @@ news_feed (
          "link" : "https://www.europechess.org/womens-moves-lively-squares-chess-unites-greece-supported-by-ecu/",
          "pubDate" : "Sat, 28 Feb 2026 10:13:21",
          "title" : "Women's Moves, Lively Squares: Chess Unites Greece - supported by ECU"
-      },
-      {
-         "description" : "On Sunday KCF Academy subscribers will have the chance to meet Evgenij Miroshnichenko, one of the most analytically sharp and pedagogically gifted chess minds in the game today, during a live, interactive Sunday session. Mark your calendar: 17:00 CET, March 1, 2026.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-to-avoid-decision-making-flaws",
-         "pubDate" : "Sat, 28 Feb 2026 09:00:00",
-         "title" : "How to avoid decision making flaws"
       },
       {
          "description" : "Please find the certificates here S.No Name 1 Tvisha Kapadia 2 Bhargavi M Bhatt 3 Prathamesh Rajendra Bhagwat 4 Rakesh Bhatti 5 Rathod Ashok 6",
@@ -426,14 +402,6 @@ news_feed (
          "title" : "Supratit Banerjee Stops Bodhana Sivanandan To Win ChessKid U13 Youth Championship"
       },
       {
-         "description" : "When you work with a programme on a regular basis, you should make that work as pleasant as possible. ChessBase&acute;26 offers endless possibilities - and that goes for the look too. Make your workspace individual and pleasant. In part 4 of our new series of tutorials we will show you how easy it is to design your individual notation so that analysing with it is a maximum pleasure.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-4-figurines-and-colours",
-         "pubDate" : "Sun, 22 Feb 2026 07:00:00",
-         "title" : "ChessBase&acute;26 - Tips for Beginners, Part 4: Figurines and Colours"
-      },
-      {
          "description" : "GM Arjun Erigaisi became the second Indian player, alongside GM Nihal Sarin, to win an edition of Bullet Brawl&#38;nbsp;after a dominant performance on Saturday. A 12-game winning streak catapulted Arjun into first place, and he then sealed the $400 f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -600,14 +568,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-freestyle-chess-world-championship-2026",
          "pubDate" : "Sun, 15 Feb 2026 21:05:00",
          "title" : "FIDE Freestyle Chess World Championship 2026 - Games and Results"
-      },
-      {
-         "description" : "We have a new author at ChessBase: Harshit Raja. And the Indian grandmaster is ambitious - he offers a complete 1.d4-repertoire! In addition, new episodes of Ivan Sokolov's Middlegame Strategy series were released in January, and ChessBase Magazine fans can look forward to CBM Extra #229, packed with a rich \"Lucky Bag\". | All photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-new-releases-in-january",
-         "pubDate" : "Sun, 15 Feb 2026 07:00:00",
-         "title" : "Review: New releases in January!"
       },
       {
          "description" : "Let me be very honest: I don't really care if you gain 200 rating points this year. I've stopped caring about pure rating gains, both for me and my students, long ago. Most people think I'm crazy for saying this as a coach. But after years as a professional and now as a Coach, I've []",
