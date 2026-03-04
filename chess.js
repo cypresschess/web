@@ -720,14 +720,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/agnieszka-milewska-reappointed-as-fide-continental-ambassador/",
          "pubDate" : "Wed, 11 Feb 2026 11:24:14",
          "title" : "Agnieszka Milewska Reappointed as FIDE Continental Ambassador"
-      },
-      {
-         "description" : "TENTATIVE NATIONAL CALENDAR -2026-27 Sl No No Event State Date 1 National Under-7 Maharashtra 07-11 June 2026 2 National Under-09 Jharkhand 05-11 July 2026 3",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/tentative-national-calendar-for-2026-27/",
-         "pubDate" : "Wed, 11 Feb 2026 06:37:58",
-         "title" : "TENTATIVE NATIONAL CALENDAR FOR 2026-27"
       }
    ]
 }
