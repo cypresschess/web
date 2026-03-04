@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Only one game was decisive in round six of the Challengers at the Prague International Chess Festival, where Benjamin Gledura (pictured) defeated Jachym Nemec. The remaining encounters were drawn, though several featured complex positions and missed chances. Leader Vaclav Finek let a promising opportunity slip against Zhu Jiner, but the result was still enough for the 16-year-old to retain a full-point lead. | Photo: Petr Vrabec / Prague Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-c6",
+         "pubDate" : "Wed, 04 Mar 2026 00:25:00",
+         "title" : "Prague Challengers: Gledura scores, Finek leads"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,11 +26,11 @@ news_feed (
          "title" : "Prague Chess Festival - Live!"
       },
       {
-         "description" : "GM Javokhir Sindarov won Titled Tuesday on March 3 as the spring split, the third and final portion of the 2025-26 Titled Tuesday season, opened. Sindarov defeated GM Nihal Sarin in the final round and emerged as the victor on tiebreaks after cole...",
+         "description" : "GM Javokhir Sindarov won Titled Tuesday on March 3 as the Spring Split, the third and final portion of the 2025-26 Titled Tuesday season, opened. Sindarov defeated GM Nihal Sarin in the final round and emerged as the victor on tiebreaks after co-l...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sindarov-wins-titled-tuesday-march-3-2026",
-         "pubDate" : "Tue, 03 Mar 2026 11:31:48",
+         "pubDate" : "Tue, 03 Mar 2026 11:31:00",
          "title" : "Sindarov Makes Rivals Pay For Quick Final-Round Draw, Wins Third Titled Tuesday Of Year"
       },
       {
