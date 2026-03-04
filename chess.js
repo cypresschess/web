@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST) | Pictured: Tatev Abrahamyan | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2026-live",
+         "pubDate" : "Wed, 04 Mar 2026 18:45:00",
+         "title" : "The American Cup - Live!"
+      },
+      {
          "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. The seventh round on Wednesday sees sole leader Jorden van Foreest facing Nodirbek Abdusattorov - who stands in second place a half point back - with the black pieces. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Daniil Yuffa | Photo: Petr Vrabec / Prague Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2026-6",
          "pubDate" : "Wed, 04 Mar 2026 12:05:00",
          "title" : "Prague Masters: Aravindh beats Gukesh with black"
+      },
+      {
+         "description" : "GM Hikaru Nakamura tops the field in the first Naroditsky Memorial Rapid &#38;amp; Blitz, set for July 3&#38;ndash;5 at the Charlotte Marriott City Center in Charlotte, United States. The event will bring together some of the world&#39;s strongest speed chess...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/naroditsky-memorial-rapid-blitz-announcement",
+         "pubDate" : "Wed, 04 Mar 2026 09:13:00",
+         "title" : "Nakamura Headlines $50,000 Naroditsky Memorial Rapid & Blitz"
       },
       {
          "description" : "World number-one Magnus Carlsen is making a surprise early return to classical chess, as he headlines TePe Sigeman Chess 2026 on May 1-7. In Malmo, Sweden, he&#39;ll be challenged by some of the world&#39;s brightest young stars. Carlsen and 2024 winner...",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-american-cup-day-1",
          "pubDate" : "Tue, 03 Mar 2026 19:37:00",
          "title" : "Caruana Scores 1st Win In Open; Krush, Lee Lead In Women's"
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2026-live",
-         "pubDate" : "Tue, 03 Mar 2026 18:45:00",
-         "title" : "The American Cup - Live!"
       },
       {
          "description" : "World Champion Gukesh Dommaraju is in last place of the 2026 Prague Chess Festival Masters and has slumped to world number 20 after losing to Indian countryman GM Aravindh Chithambaram in round six. GM Jorden van Foreest still leads by half a poin...",
@@ -496,14 +504,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-lucknow-up-on-14-15-march-2026/",
          "pubDate" : "Mon, 23 Feb 2026 09:49:15",
          "title" : "SNA Seminar & Exam in Lucknow, UP on 14 & 15 March 2026"
-      },
-      {
-         "description" : "We&#39;re excited to announce the qualification path for this year&#39;s most exciting blitz and bullet online event for women. With a $75,000 prize fund, the Women&#39;s Speed Chess Championship starts on July 6&#38;mdash;but the excitement begins much earlier f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-womens-speed-chess-championship-2026",
-         "pubDate" : "Mon, 23 Feb 2026 08:00:00",
-         "title" : "Road To Women's Speed Chess Championship Starts March 6 With Titled Tuesday Grand Prix"
       },
       {
          "description" : "I have always been honest with you: Chess improvement is hard. There are no shortcuts. But recently, I realized I was making a critical mistake in how I spent my energy. I was spending 80% of my time trying to &#8220;save&#8221; the people who weren't doing the work. Answering the same basic doubts, soothing their []",
