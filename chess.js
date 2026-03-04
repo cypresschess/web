@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " by Dane McGuire Working as a part of the front desk staff at the Saint Louis Chess Club has shown me what a true world the game is. I didn't grow up playing, so as an adult, I have been fascinated by the connections between the game and everyday life and I wanted to share [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/10-life-lessons-from-chess-for-adult-beginners/\">10 Life Lessons From Chess for Adult Beginners</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/10-life-lessons-from-chess-for-adult-beginners/",
+         "pubDate" : "Wed, 04 Mar 2026 01:47:34",
+         "title" : "10 Life Lessons From Chess for Adult Beginners"
+      },
+      {
          "description" : "Only one game was decisive in round six of the Challengers at the Prague International Chess Festival, where Benjamin Gledura (pictured) defeated Jachym Nemec. The remaining encounters were drawn, though several featured complex positions and missed chances. Leader Vaclav Finek let a promising opportunity slip against Zhu Jiner, but the result was still enough for the 16-year-old to retain a full-point lead. | Photo: Petr Vrabec / Prague Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,28 @@ news_feed (
          "title" : "Prague Challengers: Gledura scores, Finek leads"
       },
       {
+         "description" : "Day one of the 2026 American Cup saw GM Fabiano Caruana draw blood against GM Abhimanyu Mishra in game one, while the three other games ended in draws. Mishra will have to win game two on Wednesday to stay in the Championship Bracket. We saw even ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-american-cup-day-1",
+         "pubDate" : "Tue, 03 Mar 2026 19:37:34",
+         "title" : "Caruana Scores 1st Win In Open; Krush, Lee Lead In Women's"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/american-cup-2026-live",
          "pubDate" : "Tue, 03 Mar 2026 18:45:00",
          "title" : "The American Cup - Live!"
+      },
+      {
+         "description" : "World Champion Gukesh Dommaraju is in last place of the 2026 Prague Chess Festival Masters and has slumped to world number 20 after losing to Indian countryman GM Aravindh Chithambaram in round six. GM Jorden van Foreest still leads by half a poin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-6",
+         "pubDate" : "Tue, 03 Mar 2026 16:56:00",
+         "title" : "Aravindh Condemns Gukesh To 3rd Loss"
       },
       {
          "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. Following the rest day, round six sees sole leader Jorden van Foreest facing one of the players tied for second place, David Navara. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST) | Photo: David Anton | Photo: Petr Vrabec | Chess Festival Prague",
@@ -458,14 +482,6 @@ news_feed (
          "title" : "Supratit Banerjee Stops Bodhana Sivanandan To Win ChessKid U13 Youth Championship"
       },
       {
-         "description" : "GM Arjun Erigaisi became the second Indian player, alongside GM Nihal Sarin, to win an edition of Bullet Brawl&#38;nbsp;after a dominant performance on Saturday. A 12-game winning streak catapulted Arjun into first place, and he then sealed the $400 f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-bullet-brawl-feb-21-2026",
-         "pubDate" : "Sat, 21 Feb 2026 19:09:00",
-         "title" : "Arjun Posts 12-Game Streak En Route To 1st Bullet Brawl Title"
-      },
-      {
          "description" : "I have always been honest with you: Chess improvement is hard. There are no shortcuts. But recently, I realized I was making a critical mistake in how I spent my energy. I was spending 80% of my time trying to &#8220;save&#8221; the people who weren't doing the work. Answering the same basic doubts, soothing their []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -496,14 +512,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/news-on-the-1896-schiffers-vs-steinitz-match",
          "pubDate" : "Sat, 21 Feb 2026 09:00:00",
          "title" : "News on the 1896 Schiffers vs Steinitz Match"
-      },
-      {
-         "description" : "FM Vasilios Kasioumis, who was the runner-up last year, returned to win it all in the 2026 Chess.com 3-Check Championship. This year&#39;s runner-up IM Toivo Keinanen did well to win the Grand Final 3-1, but he wasn&#39;t able to win the Reset. Kasioumis ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kasioumis-wins-2025-chesscom-3-check-championship-ko",
-         "pubDate" : "Fri, 20 Feb 2026 13:52:00",
-         "title" : "Kasioumis 3-Checks Best In 2026, Improves On Last Year's 2nd Place"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128604105.cms\" />Tripura's 15-year-old chess prodigy Arshiya Das recently became the first Woman International Master (WIM) from Northeast India after winning a tournament in Serbia. Her rise began from playing chess on a laptop as a child, followed by strong national and international results. With family sacrifices, coaching across India, and intense training, she has emerged as a major talent, highlighting both the region's potential and the need for better support and sponsorship",
