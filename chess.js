@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "David Navara is playing an excellent tournament in his hometown. After round six of the Masters in Prague, he is only half a point behind the leader, Jorden van Foreest, together with Nodirbek Abdusattorov. The direct encounter between Van Foreest and Navara ended in a draw. At the other end of the table, a player stands alone: none other than Gukesh Dommaraju. The world champion, still without a win, has lost his third game of the tournament. Against his compatriot Aravindh Chithambaram, he squandered a good position while in time trouble. Hans Niemann and Vincent Keymer drew the longest game of the day. | Photo: Petr Vrabec / Prague Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-6",
+         "pubDate" : "Wed, 04 Mar 2026 12:05:00",
+         "title" : "Prague Masters: Aravindh beats Gukesh with black"
+      },
+      {
          "description" : " by Dane McGuire Working as a part of the front desk staff at the Saint Louis Chess Club has shown me what a true world the game is. I didn't grow up playing, so as an adult, I have been fascinated by the connections between the game and everyday life and I wanted to share [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/10-life-lessons-from-chess-for-adult-beginners/\">10 Life Lessons From Chess for Adult Beginners</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -18,11 +26,11 @@ news_feed (
          "title" : "Prague Challengers: Gledura scores, Finek leads"
       },
       {
-         "description" : "Day one of the 2026 American Cup saw GM Fabiano Caruana draw blood against GM Abhimanyu Mishra in game one, while the three other games ended in draws. Mishra will have to win game two on Wednesday to stay in the Championship Bracket. We saw even ...",
+         "description" : "Day one of The American Cup 2026 saw GM Fabiano Caruana draw blood against GM Abhimanyu Mishra in game one, while the three other games ended in draws. Mishra will have to win game two on Wednesday to stay in the Championship Bracket. We saw even ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-american-cup-day-1",
-         "pubDate" : "Tue, 03 Mar 2026 19:37:34",
+         "pubDate" : "Tue, 03 Mar 2026 19:37:00",
          "title" : "Caruana Scores 1st Win In Open; Krush, Lee Lead In Women's"
       },
       {
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-6",
          "pubDate" : "Tue, 03 Mar 2026 16:56:00",
          "title" : "Aravindh Condemns Gukesh To 3rd Loss"
-      },
-      {
-         "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. Following the rest day, round six sees sole leader Jorden van Foreest facing one of the players tied for second place, David Navara. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST) | Photo: David Anton | Photo: Petr Vrabec | Chess Festival Prague",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-live",
-         "pubDate" : "Tue, 03 Mar 2026 14:45:00",
-         "title" : "Prague Chess Festival - Live!"
       },
       {
          "description" : "GM Javokhir Sindarov won Titled Tuesday on March 3 as the Spring Split, the third and final portion of the 2025-26 Titled Tuesday season, opened. Sindarov defeated GM Nihal Sarin in the final round and emerged as the victor on tiebreaks after co-l...",
@@ -712,14 +712,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-announces-2026-american-cup-fields/",
          "pubDate" : "Wed, 11 Feb 2026 13:52:44",
          "title" : "Saint Louis Chess Club Announces 2026 American Cup Fields"
-      },
-      {
-         "description" : "The English Chess Federation is pleased to announce that Agnieszka Milewska, ECF Director of Women's Chess, has been reappointed as a Continental Ambassador for Europe by the FIDE Commission for...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/agnieszka-milewska-reappointed-as-fide-continental-ambassador/",
-         "pubDate" : "Wed, 11 Feb 2026 11:24:14",
-         "title" : "Agnieszka Milewska Reappointed as FIDE Continental Ambassador"
       }
    ]
 }
