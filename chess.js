@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. The seventh round on Wednesday sees sole leader Jorden van Foreest facing Nodirbek Abdusattorov - who stands in second place a half point back - with the black pieces. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Daniil Yuffa | Photo: Petr Vrabec / Prague Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-live",
+         "pubDate" : "Wed, 04 Mar 2026 14:45:00",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : "Together with Keti Tsataslashvili, Alojzije Jankovic works as a commentator at the Prague Chess Festival - a role that suits him well. The Croatian grandmaster (peak Elo 2593) had his own chess show on Croatian television for many years and runs a YouTube channel. He was editor-in-chief of the magazine 'Sahovski Glasnik', has written chess books, studied economics and is vice-president of the European Chess Union. In an interview with ChessBase, he talks about his passion for chess, his career, his favourite player, chess in film, and explains how systematic thinking can help you play better and be more successful in life.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-grandmaster-mindset-an-interview-with-gm-alojzije-jankovic",
+         "pubDate" : "Wed, 04 Mar 2026 14:25:05",
+         "title" : "The Grandmaster Mindset: An interview with GM Alojzije Jankovic"
+      },
+      {
+         "description" : "During the rest day of the Prague International Chess Festival, organisers held a special programme devoted to supporting women's chess and highlighting the Futures tournament for young female players. Swedish legend Pia Cramling gave a lecture and a simultaneous exhibition, while Czech actress Aňa Geislerov&aacute; attended the event and received an introduction to the game from Indian star Divya Deshmukh. | Photo: Petr Vrabec / Prague Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-women-day",
+         "pubDate" : "Wed, 04 Mar 2026 13:45:00",
+         "title" : "Women's day in Prague: GM Pia Cramling and Czech star Ana Geislerova celebrate young talents"
+      },
+      {
          "description" : "David Navara is playing an excellent tournament in his hometown. After round six of the Masters in Prague, he is only half a point behind the leader, Jorden van Foreest, together with Nodirbek Abdusattorov. The direct encounter between Van Foreest and Navara ended in a draw. At the other end of the table, a player stands alone: none other than Gukesh Dommaraju. The world champion, still without a win, has lost his third game of the tournament. Against his compatriot Aravindh Chithambaram, he squandered a good position while in time trouble. Hans Niemann and Vincent Keymer drew the longest game of the day. | Photo: Petr Vrabec / Prague Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/prague-festival-2026-6",
          "pubDate" : "Wed, 04 Mar 2026 12:05:00",
          "title" : "Prague Masters: Aravindh beats Gukesh with black"
+      },
+      {
+         "description" : "World number-one Magnus Carlsen is making a surprise early return to classical chess, as he headlines TePe Sigeman Chess 2026 on May 1-7. In Malmo, Sweden, he&#39;ll be challenged by some of the world&#39;s brightest young stars. Carlsen and 2024 winner...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-faces-erdogmus-woodward-sigeman-chess",
+         "pubDate" : "Wed, 04 Mar 2026 06:56:45",
+         "title" : "Carlsen Makes Surprise Classical Return To Face World's Brightest Young Stars"
       },
       {
          "description" : " by Dane McGuire Working as a part of the front desk staff at the Saint Louis Chess Club has shown me what a true world the game is. I didn't grow up playing, so as an adult, I have been fascinated by the connections between the game and everyday life and I wanted to share [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/10-life-lessons-from-chess-for-adult-beginners/\">10 Life Lessons From Chess for Adult Beginners</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -24,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2026-c6",
          "pubDate" : "Wed, 04 Mar 2026 00:25:00",
          "title" : "Prague Challengers: Gledura scores, Finek leads"
+      },
+      {
+         "description" : "Today's puzzles begin a series on the 2026 Saint Louis Masters (coverage here), won by GM Mikhail Antipov, who finished a half-point ahead of GM Fabiano Caruana to earn the $25,000 first-place prize. 70 players competed, including a number of top Americans (and five American Cup participants), as well as international norm seekers. Fire was on board from the top tables all the way through the standings, and we've got several weeks of educational entertainment as a result. For more puzzles from this event that are more beginner-friendly, check out our Tactics Tuesday series beginning here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-masters-pt-1",
+         "pubDate" : "Wed, 04 Mar 2026 00:00:00",
+         "title" : "Wednesday Workout: Saint Louis Masters, Pt. 1"
       },
       {
          "description" : "Day one of The American Cup 2026 saw GM Fabiano Caruana draw blood against GM Abhimanyu Mishra in game one, while the three other games ended in draws. Mishra will have to win game two on Wednesday to stay in the Championship Bracket. We saw even ...",
@@ -426,14 +466,6 @@ news_feed (
          "title" : "Coaches Profile: WFM Perpetual Ogbiyoyo and Derek Wilder"
       },
       {
-         "description" : "Today's puzzles conclude our two-part series on the final and semifinal matches from the 2025 Chess.com Speed Chess Championship, held earlier this month in London. Under severe time pressure, many of the games produced instructive tactics suitable for our audience. Enjoy! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2025-chesscom-speed-chess-championship-pt-2",
-         "pubDate" : "Tue, 24 Feb 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2025 Chess.com Speed Chess Championship, Pt. 2"
-      },
-      {
          "description" : "After a seven-year hiatus, a team competition that enjoys a unique place in London's chess calendar is back and has restarted play: the Bronowski Trophy. &#160; Named after the late...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -472,14 +504,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-womens-speed-chess-championship-2026",
          "pubDate" : "Mon, 23 Feb 2026 08:00:00",
          "title" : "Road To Women's Speed Chess Championship Starts March 6 With Titled Tuesday Grand Prix"
-      },
-      {
-         "description" : "10-year-old WIM Bodhana Sivanandan scored an incredible 12/13 to reach the Final of the 2026 Under 13 ChessKid Youth Championship, but ultimately fell to her English rival FM Supratit Banerjee 3.5-1.5. Banerjee beat another 10-year-old, FM Ashwath...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-chesskid-youth-championships-under-13-wins",
-         "pubDate" : "Mon, 23 Feb 2026 00:26:00",
-         "title" : "Supratit Banerjee Stops Bodhana Sivanandan To Win ChessKid U13 Youth Championship"
       },
       {
          "description" : "I have always been honest with you: Chess improvement is hard. There are no shortcuts. But recently, I realized I was making a critical mistake in how I spent my energy. I was spending 80% of my time trying to &#8220;save&#8221; the people who weren't doing the work. Answering the same basic doubts, soothing their []",
@@ -704,14 +728,6 @@ news_feed (
          "link" : "https://aicf.in/gm-suleymenov-alisher-clinches-title-at-the-1st-chola-chess-international-grandmaster-round-robin-tournament-2026/",
          "pubDate" : "Thu, 12 Feb 2026 06:24:32",
          "title" : "GM Suleymenov Alisher Clinches Title at the 1st Chola Chess International Grandmaster Round Robin Tournament 2026."
-      },
-      {
-         "description" : " The U.S. Chess Capital welcomes elite players for a high-stakes, double-elimination tournament competing for $400,000 in Prizes SAINT LOUIS, February 11, 2026 The 2026 American Cup, hosted by the Saint Louis Chess Club (STLCC) at its newly expanded and recently reopened facility, will return March 2-13, 2026, continuing its tradition as one of the [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-announces-2026-american-cup-fields/\">Saint Louis Chess Club Announces 2026 American Cup Fields</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-announces-2026-american-cup-fields/",
-         "pubDate" : "Wed, 11 Feb 2026 13:52:44",
-         "title" : "Saint Louis Chess Club Announces 2026 American Cup Fields"
       }
    ]
 }
