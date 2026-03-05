@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The former US women's champion changed her life and her sport when she made allegations against a grandmaster. Now she's turned her hand to writing and poker On 15 February 2023, Jennifer Shahade took a deep breath and wrote \"Time's up\" above a long message about allegations of sexual abuse in the cloistered world of professional chess. Shahade knew her words would have an impact but she didn't expect the <a href=\"https://x.com/JenShahade/status/1625873098581983232?s=20\">social media post</a> to go viral and change her life. A two-time US women's chess champion, Shahade chose her words carefully as she made serious allegations against Alejandro Ramirez, a then 34-year-old grandmaster from C",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/mar/05/jennifer-shahade-interview-abuse-chess",
+         "pubDate" : "Thu, 05 Mar 2026 12:00:03",
+         "title" : "Jennifer Shahade: 'There's a long and embedded history of abuse in chess'"
+      },
+      {
+         "description" : "Tata Steel 2026: Analyses by Bluebaum, Giri, L'Ami, Woodward and many more - News from the 'Erigabava' Sicilian: Yago Santiago promotes 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4! - Slav Marshall Gambit: white queen on d8! Lars Schandorff examines 1.d4 d5 2.c4 c6 3.Nc3 e6 4.e4 dxe4 5.Nxe4 Bb4+ 6.Bd2 Qxd4 7.Bxb4 Qxe4+ 8.Be2 Na6 9.Ba5 f6!? - Easy to remember, important to know: Dorian Rogozenco shows a classic fortress motif with king against knight + edge pawn - Strategy: the right double pawn! Mihail Marin explains when to knock out the centre with fxg and when not to, and much more. Includes ChessBase Book for iPad, tablet, etc.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-48",
+         "pubDate" : "Thu, 05 Mar 2026 10:43:24",
+         "title" : "New: ChessBase Magazine #230"
+      },
+      {
          "description" : "One game had a decisive result in round seven of the Masters at the Prague Chess Festival, as Vincent Keymer defeated David Anton to return to a fifty-percent score. Sole leader Jorden van Foreest held a tense draw against Nodirbek Abdusattorov, while Aravindh Chithambaram missed a winning chance against Nodirbek Yakubboev. The remaining encounters were hard-fought draws. | Photo: Petr Vrabec / Prague Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,11 +34,11 @@ news_feed (
          "title" : "Prague Challengers: Yuffa and Nemec grab crucial wins"
       },
       {
-         "description" : "GMs Fabiano Caruana, Awonder Liang, Sam Sevian, and Wesley So advance in the Champions Bracket of The American Cup 2026 after defeating GMs Abhimanyu Mishra, Levon Aronian, Leinier Dominguez, and Ray Robson, respectively. Caruana held a draw and S...",
+         "description" : "GMs Fabiano Caruana, Awonder Liang, Sam Sevian, and Wesley So advance in the Champions Bracket of The American Cup 2026 after defeating GMs Abhimanyu Mishra, Levon Aronian, Leinier Dominguez, and Ray Robson&#38;nbsp;respectively. Caruana held a draw a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-2",
-         "pubDate" : "Wed, 04 Mar 2026 19:53:33",
+         "pubDate" : "Wed, 04 Mar 2026 19:53:00",
          "title" : "Liang Beats Aronian, Tang Reverses Match Vs. Krush In Early Upsets"
       },
       {
@@ -672,14 +688,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/remembering-paul-sharratt/",
          "pubDate" : "Thu, 12 Feb 2026 15:44:35",
          "title" : "Remembering Paul Sharratt"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128256518.cms\" />Indian chess legend Koneru Humpy will play Norway Chess Women for the third time from May 25 to June 5 in Oslo, expressing excitement about the competition and atmosphere. A trailblazer, she became India's first female Grandmaster at 15 and crossed 2600 Elo in 2007. A two-time Women's World Rapid Champion, she qualified for the 2026 Candidates.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-legend-confirms-participation-for-norway-chess-women-2026-event/articleshow/128256518.cms",
-         "pubDate" : "Thu, 12 Feb 2026 12:20:43",
-         "title" : "Indian chess legend confirms participation for Norway Chess Women"
       }
    ]
 }
