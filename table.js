@@ -1,5 +1,6 @@
 jtable([
 "HOUSTON","2026-03-01","10","<a href=https://ratings.uschess.org/event/202603010363 target='_blank'>2026 TCA Regional Scholastics Tourn</a>",
+"SUGAR LAND","2026-02-28","3","<a href=https://ratings.uschess.org/event/202602281253 target='_blank'>Spring-02-28-2026</a>",
 "HOUSTON","2026-02-28","8","<a href=https://ratings.uschess.org/event/202602281083 target='_blank'>FEB 28th- SATURDAY SWISS</a>",
 "HOUSTON","2026-02-28","7","<a href=https://ratings.uschess.org/event/202602280283 target='_blank'>chesspanda02282026saturday</a>",
 "CYPRESS","2026-02-28","92","<a href=https://ratings.uschess.org/event/202602280043 target='_blank'>CMH Scholastic Tournament</a>",
@@ -98,5 +99,4 @@ jtable([
 "CYPRESS","2025-12-05","37","<a href=https://ratings.uschess.org/event/202512050273 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-11-30","15","<a href=https://ratings.uschess.org/event/202511300323 target='_blank'>Bellaire Sunday Swiss 2025.11.30</a>",
 "HOUSTON","2025-11-29","31","<a href=https://ratings.uschess.org/event/202511290243 target='_blank'>Lone Star Houston Fall Action</a>",
-"HOUSTON","2025-11-29","11","<a href=https://ratings.uschess.org/event/202511290193 target='_blank'>chesspanda11292025saturday</a>",
 ]);
