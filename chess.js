@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Fabiano Caruana, Awonder Liang, Sam Sevian, and Wesley So advance in the Champions Bracket of The American Cup 2026 after defeating GMs Abhimanyu Mishra, Levon Aronian, Leinier Dominguez, and Ray Robson, respectively. Caruana held a draw and S...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-2",
+         "pubDate" : "Wed, 04 Mar 2026 19:53:33",
+         "title" : "Liang Beats Aronian, Tang Reverses Match Vs. Krush In Early Upsets"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST) | Pictured: Tatev Abrahamyan | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/american-cup-2026-live",
          "pubDate" : "Wed, 04 Mar 2026 18:45:00",
          "title" : "The American Cup - Live!"
+      },
+      {
+         "description" : "&#34;At the end I made it far too exciting!&#34; said GM Vincent Keymer after almost letting GM David Anton escape in round seven of the 2026 Prague Chess Festival Masters. GM Aravindh Chithambaram did spoil a win against GM Nodirbek Yakubboev, while the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-7",
+         "pubDate" : "Wed, 04 Mar 2026 17:22:00",
+         "title" : "Keymer Grabs Only Win As Van Foreest Maintains Lead In Prague"
       },
       {
          "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. The seventh round on Wednesday sees sole leader Jorden van Foreest facing Nodirbek Abdusattorov - who stands in second place a half point back - with the black pieces. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Daniil Yuffa | Photo: Petr Vrabec / Prague Chess Festival",
@@ -432,22 +448,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-titled-tuesday-february-24-2026",
          "pubDate" : "Tue, 24 Feb 2026 12:03:22",
          "title" : "Vachier-Lagrave Takes Titled Tuesday, Advances In Esports World Cup Process"
-      },
-      {
-         "description" : "Netflix officially announced on Tuesday that its highly anticipated documentary on the 2022 scandal, involving GMs Magnus Carlsen and Hans Niemann, will premiere on the platform on April 7, 2026. Untold: Chess Mates revisits one of the most explos...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/netflix-untold-documentary-on-carlsen-niemann-scandal-gets-2026-release-date",
-         "pubDate" : "Tue, 24 Feb 2026 09:54:00",
-         "title" : "Netflix Documentary On Carlsen-Niemann Scandal Gets 2026 Release Date"
-      },
-      {
-         "description" : "It&#39;s time to put fire on the chessboard in the next installment of the Chess.com Community Championships. The Chess.com Atomic Chess Championship kicks off on March 4 and will feature a $2,500 prize fund. With explosive tactics and incendiary capt...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-atomic-chess-championship-2026",
-         "pubDate" : "Tue, 24 Feb 2026 08:00:00",
-         "title" : "Chess.com Atomic Chess Championship Kicks Off On March 4"
       },
       {
          "description" : "All India Chess Federation invites applications from sincere, dedicated, and dynamic professionals for the following position: Position: PR ExecutiveEmployment Type: Full-Time Eligibility &#38; Qualifications:MBA /",
