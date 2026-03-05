@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One game had a decisive result in round seven of the Masters at the Prague Chess Festival, as Vincent Keymer defeated David Anton to return to a fifty-percent score. Sole leader Jorden van Foreest held a tense draw against Nodirbek Abdusattorov, while Aravindh Chithambaram missed a winning chance against Nodirbek Yakubboev. The remaining encounters were hard-fought draws. | Photo: Petr Vrabec / Prague Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-7",
+         "pubDate" : "Thu, 05 Mar 2026 07:05:00",
+         "title" : "Prague Masters: Keymer beats Anton, Aravindh misses big chance"
+      },
+      {
+         "description" : "Three decisive games marked round seven of the Challengers at the Prague International Chess Festival. Leader Vaclav Finek held a long endgame against top seed Benjamin Gledura and retains a full-point lead with two rounds remaining. Meanwhile, Daniil Yuffa and Jachym Nemec (pictured) moved into joint second place after winning their games, while Surya Shekhar Ganguly scored his first victory of the event. | Photo: Petr Vrabec / Prague Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-c7",
+         "pubDate" : "Thu, 05 Mar 2026 05:40:00",
+         "title" : "Prague Challengers: Yuffa and Nemec grab crucial wins"
+      },
+      {
          "description" : "GMs Fabiano Caruana, Awonder Liang, Sam Sevian, and Wesley So advance in the Champions Bracket of The American Cup 2026 after defeating GMs Abhimanyu Mishra, Levon Aronian, Leinier Dominguez, and Ray Robson, respectively. Caruana held a draw and S...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -26,14 +42,6 @@ news_feed (
          "title" : "Keymer Grabs Only Win As Van Foreest Maintains Lead In Prague"
       },
       {
-         "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. The seventh round on Wednesday sees sole leader Jorden van Foreest facing Nodirbek Abdusattorov - who stands in second place a half point back - with the black pieces. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Daniil Yuffa | Photo: Petr Vrabec / Prague Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-live",
-         "pubDate" : "Wed, 04 Mar 2026 14:45:00",
-         "title" : "Prague Chess Festival - Live!"
-      },
-      {
          "description" : "Together with Keti Tsataslashvili, Alojzije Jankovic works as a commentator at the Prague Chess Festival - a role that suits him well. The Croatian grandmaster (peak Elo 2593) had his own chess show on Croatian television for many years and runs a YouTube channel. He was editor-in-chief of the magazine 'Sahovski Glasnik', has written chess books, studied economics and is vice-president of the European Chess Union. In an interview with ChessBase, he talks about his passion for chess, his career, his favourite player, chess in film, and explains how systematic thinking can help you play better and be more successful in life.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2026-women-day",
          "pubDate" : "Wed, 04 Mar 2026 13:45:00",
          "title" : "Women's day in Prague: GM Pia Cramling and Czech star Ana Geislerova celebrate young talents"
-      },
-      {
-         "description" : "David Navara is playing an excellent tournament in his hometown. After round six of the Masters in Prague, he is only half a point behind the leader, Jorden van Foreest, together with Nodirbek Abdusattorov. The direct encounter between Van Foreest and Navara ended in a draw. At the other end of the table, a player stands alone: none other than Gukesh Dommaraju. The world champion, still without a win, has lost his third game of the tournament. Against his compatriot Aravindh Chithambaram, he squandered a good position while in time trouble. Hans Niemann and Vincent Keymer drew the longest game of the day. | Photo: Petr Vrabec / Prague Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-6",
-         "pubDate" : "Wed, 04 Mar 2026 12:05:00",
-         "title" : "Prague Masters: Aravindh beats Gukesh with black"
       },
       {
          "description" : "GM Hikaru Nakamura tops the field in the first Naroditsky Memorial Rapid &#38;amp; Blitz, set for July 3&#38;ndash;5 at the Charlotte Marriott City Center in Charlotte, United States. The event will bring together some of the world&#39;s strongest speed chess...",
@@ -80,14 +80,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/10-life-lessons-from-chess-for-adult-beginners/",
          "pubDate" : "Wed, 04 Mar 2026 01:47:34",
          "title" : "10 Life Lessons From Chess for Adult Beginners"
-      },
-      {
-         "description" : "Only one game was decisive in round six of the Challengers at the Prague International Chess Festival, where Benjamin Gledura (pictured) defeated Jachym Nemec. The remaining encounters were drawn, though several featured complex positions and missed chances. Leader Vaclav Finek let a promising opportunity slip against Zhu Jiner, but the result was still enough for the 16-year-old to retain a full-point lead. | Photo: Petr Vrabec / Prague Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-c6",
-         "pubDate" : "Wed, 04 Mar 2026 00:25:00",
-         "title" : "Prague Challengers: Gledura scores, Finek leads"
       },
       {
          "description" : "Today's puzzles begin a series on the 2026 Saint Louis Masters (coverage here), won by GM Mikhail Antipov, who finished a half-point ahead of GM Fabiano Caruana to earn the $25,000 first-place prize. 70 players competed, including a number of top Americans (and five American Cup participants), as well as international norm seekers. Fire was on board from the top tables all the way through the standings, and we've got several weeks of educational entertainment as a result. For more puzzles from this event that are more beginner-friendly, check out our Tactics Tuesday series beginning here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, ",
@@ -130,28 +122,12 @@ news_feed (
          "title" : "India gets 93rd GM: Mother quit job for chess - Making of Aarav Dengla"
       },
       {
-         "description" : "After a small break, GM Harshit Raja made a fine return to classical chess at the Saint Louis Masters, an elite invitational tournament featuring a powerhouse lineup of just 70 players. Facing a gauntlet of opponents with an average rating of nearly 2580, Harshit proved what a strong player he is, leading to a performance rating of 2600+ and a gain of 13 Elo points. From daring \"coffeehouse complications\" against Grigoriy Oparin to a strategic masterclass in the Najdorf, Harshit shares the insights behind his \"chill\" and inspired approach to the game. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/harshit-raja-saint-louis-masters",
-         "pubDate" : "Tue, 03 Mar 2026 08:30:00",
-         "title" : "Commentator or strong GM? Harshit Raja's inspiring run at Saint Louis Masters"
-      },
-      {
          "description" : "IM Levy Rozman became the world&#39;s biggest chess YouTuber by teaching millions of players how to win at chess. Two and a half years after a massively successful book debut, he&#39;s taking it one step further by targeting readers who can&#39;t yet walk, ta...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/levy-rozman-chess-for-babies",
          "pubDate" : "Tue, 03 Mar 2026 08:01:00",
          "title" : "Levy Rozman Releases 'Chew-Proof' Chess Book For Babies, Debuts At No. 1 On Amazon"
-      },
-      {
-         "description" : "The new FIDE world ranking for March includes the tournaments played in Wijk aan Zee. Among the biggest gainers are Nodirbek Abdusattorov and Javokhir Sindarov, as well as Matthias Bluebaum. The top of the women's world ranking remains firmly in Chinese hands. World Champion Gukesh, in his final year as a junior, is still number one on the U20 list. The (temporary) return of Sergey Karjakin caused some irritation.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-march-2026",
-         "pubDate" : "Tue, 03 Mar 2026 06:45:00",
-         "title" : "FIDE ratings - March 2026"
       },
       {
          "description" : "Today's puzzles begin a series on the 2026 Saint Louis Masters (coverage here), won by GM Mikhail Antipov, who finished a half-point ahead of GM Fabiano Caruana to earn the $25,000 first-place prize. 70 players competed, including a number of top Americans (and five American Cup participants), as well as international norm seekers. Fire was on board from the top tables all the way through the standings, and we've got several weeks of educational entertainment as a result. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -704,30 +680,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-legend-confirms-participation-for-norway-chess-women-2026-event/articleshow/128256518.cms",
          "pubDate" : "Thu, 12 Feb 2026 12:20:43",
          "title" : "Indian chess legend confirms participation for Norway Chess Women"
-      },
-      {
-         "description" : "We are inviting nominations for the BCET Awards 2026 (administered by The Chess Trust) which are for junior schools (including colleges and other education establishments) and junior clubs in the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-chess-educational-trust-awards-2026/",
-         "pubDate" : "Thu, 12 Feb 2026 08:19:16",
-         "title" : "British Chess Educational Trust Awards 2026"
-      },
-      {
-         "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the additional players and accompanying persons are required to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/commonwealth-chess-championship-2026-27-in-kaluthara-sri-lanka-from-16th-to-26th-may-2026/",
-         "pubDate" : "Thu, 12 Feb 2026 07:13:20",
-         "title" : "Commonwealth Chess Championship - 2026 - 27 in Kaluthara, Sri Lanka from 16th to 26th May, 2026."
-      },
-      {
-         "description" : "GM Suleymenov Alisher of Kazkhastan crowned the First Chola Chess International Grandmaster Round Robin Chess Tournament- 2026 supported by Chess Gurukul today at Chola Chess,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/gm-suleymenov-alisher-clinches-title-at-the-1st-chola-chess-international-grandmaster-round-robin-tournament-2026/",
-         "pubDate" : "Thu, 12 Feb 2026 06:24:32",
-         "title" : "GM Suleymenov Alisher Clinches Title at the 1st Chola Chess International Grandmaster Round Robin Tournament 2026."
       }
    ]
 }
