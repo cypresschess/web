@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. In the penultimate round, sole leader Jorden van Foreest plays white against defending champion Aravindh Chithambaram. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Zhu Jiner | Photo: Petr Vrabec / Prague Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-live",
+         "pubDate" : "Thu, 05 Mar 2026 14:45:00",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
          "description" : " The former US women's champion changed her life and her sport when she made allegations against a grandmaster. Now she's turned her hand to writing and poker On 15 February 2023, Jennifer Shahade took a deep breath and wrote \"Time's up\" above a long message about allegations of sexual abuse in the cloistered world of professional chess. Shahade knew her words would have an impact but she didn't expect the <a href=\"https://x.com/JenShahade/status/1625873098581983232?s=20\">social media post</a> to go viral and change her life. A two-time US women's chess champion, Shahade chose her words carefully as she made serious allegations against Alejandro Ramirez, a then 34-year-old grandmaster from C",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -16,22 +24,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-chessbase-magazine-48",
          "pubDate" : "Thu, 05 Mar 2026 10:43:24",
          "title" : "New: ChessBase Magazine #230"
-      },
-      {
-         "description" : "One game had a decisive result in round seven of the Masters at the Prague Chess Festival, as Vincent Keymer defeated David Anton to return to a fifty-percent score. Sole leader Jorden van Foreest held a tense draw against Nodirbek Abdusattorov, while Aravindh Chithambaram missed a winning chance against Nodirbek Yakubboev. The remaining encounters were hard-fought draws. | Photo: Petr Vrabec / Prague Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-7",
-         "pubDate" : "Thu, 05 Mar 2026 07:05:00",
-         "title" : "Prague Masters: Keymer beats Anton, Aravindh misses big chance"
-      },
-      {
-         "description" : "Three decisive games marked round seven of the Challengers at the Prague International Chess Festival. Leader Vaclav Finek held a long endgame against top seed Benjamin Gledura and retains a full-point lead with two rounds remaining. Meanwhile, Daniil Yuffa and Jachym Nemec (pictured) moved into joint second place after winning their games, while Surya Shekhar Ganguly scored his first victory of the event. | Photo: Petr Vrabec / Prague Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-c7",
-         "pubDate" : "Thu, 05 Mar 2026 05:40:00",
-         "title" : "Prague Challengers: Yuffa and Nemec grab crucial wins"
       },
       {
          "description" : "GMs Fabiano Caruana, Awonder Liang, Sam Sevian, and Wesley So advance in the Champions Bracket of The American Cup 2026 after defeating GMs Abhimanyu Mishra, Levon Aronian, Leinier Dominguez, and Ray Robson&#38;nbsp;respectively. Caruana held a draw a...",
@@ -66,14 +58,6 @@ news_feed (
          "title" : "The Grandmaster Mindset: An interview with GM Alojzije Jankovic"
       },
       {
-         "description" : "During the rest day of the Prague International Chess Festival, organisers held a special programme devoted to supporting women's chess and highlighting the Futures tournament for young female players. Swedish legend Pia Cramling gave a lecture and a simultaneous exhibition, while Czech actress Aňa Geislerov&aacute; attended the event and received an introduction to the game from Indian star Divya Deshmukh. | Photo: Petr Vrabec / Prague Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-women-day",
-         "pubDate" : "Wed, 04 Mar 2026 13:45:00",
-         "title" : "Women's day in Prague: GM Pia Cramling and Czech star Ana Geislerova celebrate young talents"
-      },
-      {
          "description" : "GM Hikaru Nakamura tops the field in the first Naroditsky Memorial Rapid &#38;amp; Blitz, set for July 3&#38;ndash;5 at the Charlotte Marriott City Center in Charlotte, United States. The event will bring together some of the world&#39;s strongest speed chess...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -86,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/magnus-carlsen-faces-erdogmus-woodward-sigeman-chess",
-         "pubDate" : "Wed, 04 Mar 2026 06:56:45",
+         "pubDate" : "Wed, 04 Mar 2026 06:56:00",
          "title" : "Carlsen Makes Surprise Classical Return To Face World's Brightest Young Stars"
       },
       {
@@ -680,14 +664,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/gmr-spotlight-robert-hungaski/",
          "pubDate" : "Thu, 12 Feb 2026 20:28:56",
          "title" : "GRANDMASTER IN RESIDENCE SPOTLIGHT: GM Robert Hungaski"
-      },
-      {
-         "description" : "The chess world lost one of its stalwarts with the sudden and unexpected passing of Paul Sharratt on 10 February. Paul made an immense contribution in many different ways, particularly...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/remembering-paul-sharratt/",
-         "pubDate" : "Thu, 12 Feb 2026 15:44:35",
-         "title" : "Remembering Paul Sharratt"
       }
    ]
 }
