@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Prague Chess Festival has become a fixture on the tournament calendar and is now in its eighth edition. In an interview with ChessBase, organiser Petr Boleslav explains how the idea was born, why Prague was the natural home for the event, and what it takes to run such a top tournament with a rich programme of side events.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-passion-for-chess-petr-boleslav-on-the-prague-chess-festival",
+         "pubDate" : "Thu, 05 Mar 2026 19:23:54",
+         "title" : "A passion for chess: Petr Boleslav on the Prague Chess Festival"
+      },
+      {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST) | Pictured: Levon Aronian | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2026-live",
+         "pubDate" : "Thu, 05 Mar 2026 18:45:00",
+         "title" : "The American Cup - Live!"
+      },
+      {
          "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. In the penultimate round, sole leader Jorden van Foreest plays white against defending champion Aravindh Chithambaram. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Zhu Jiner | Photo: Petr Vrabec / Prague Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-2",
          "pubDate" : "Wed, 04 Mar 2026 19:53:00",
          "title" : "Liang Beats Aronian, Tang Reverses Match Vs. Krush In Early Upsets"
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST) | Pictured: Tatev Abrahamyan | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2026-live",
-         "pubDate" : "Wed, 04 Mar 2026 18:45:00",
-         "title" : "The American Cup - Live!"
       },
       {
          "description" : "&#34;At the end I made it far too exciting!&#34; said GM Vincent Keymer after almost letting GM David Anton escape in round seven of the 2026 Prague Chess Festival Masters. GM Aravindh Chithambaram did spoil a win against GM Nodirbek Yakubboev, while the ...",
@@ -98,7 +106,7 @@ news_feed (
          "title" : "Caruana Scores 1st Win In Open; Krush, Lee Lead In Women's"
       },
       {
-         "description" : "World Champion Gukesh Dommaraju is in last place of the 2026 Prague Chess Festival Masters and has slumped to world number 20 after losing to Indian countryman GM Aravindh Chithambaram in round six. GM Jorden van Foreest still leads by half a poin...",
+         "description" : "World Champion Gukesh Dommaraju is in last place of the 2026 Prague Chess Festival Masters and has slumped to world number-20 after losing to Indian countryman GM Aravindh Chithambaram in round six. GM Jorden van Foreest still leads by half a poin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-6",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/feb/13/chess-carlsen-triumphs-in-london-but-nakamura-fails",
          "pubDate" : "Fri, 13 Feb 2026 08:00:40",
          "title" : "Chess: Magnus Carlsen triumphs in London speed event but Nakamura fails"
-      },
-      {
-         "description" : " Robert Hungaski is a chess Grandmaster in Residence at the Saint Louis Chess Club. Explore his journey from first grade to the GM title. The post <a href=\"https://saintlouischessclub.org/news-insights-press/gmr-spotlight-robert-hungaski/\">GRANDMASTER IN RESIDENCE SPOTLIGHT: GM Robert Hungaski</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/gmr-spotlight-robert-hungaski/",
-         "pubDate" : "Thu, 12 Feb 2026 20:28:56",
-         "title" : "GRANDMASTER IN RESIDENCE SPOTLIGHT: GM Robert Hungaski"
       }
    ]
 }
