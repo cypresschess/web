@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. Going into the final round, Nodirbek Abdusattorov is the sole leader in the Masters section and stands a half point ahead of Jorden van Foreest. Abdusattorov plays white against Hans Niemann, while Van Foreest plays black against Parham Maghsoodloo. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Divya Deshmukh | Photo: Petr Vrabec / Prague Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-live",
+         "pubDate" : "Fri, 06 Mar 2026 10:50:00",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
          "description" : " The youngest ever global title holder has had a hard time this year, but hopes for better in May, when he meets Magnus Carlsen in Norway Chess at Oslo, and in the autumn, when he defends his crown India's Gukesh Dommaraju, at 19 the youngest ever world champion, has had a hard time this year. The teenager has struggled at Wijk aan Zee, where he totalled a modest 50%, and then this week in Prague, where he was last after eight of the nine rounds, scoring just 2.5/8, without winning a single game. With just Friday's final round to be played, Prague is currently led by Nodirbek Abdusattorov on 5.5/8, as the Uzbekistan No 1 continues his winning streak from the London Classic and Wijk aan Zee. ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/mar/06/chess-gukesh-bottom-in-prague-as-world-champion-19-struggles-for-form",
          "pubDate" : "Fri, 06 Mar 2026 08:00:17",
          "title" : "Chess: Gukesh bottom in Prague as world champion, 19, struggles for form"
-      },
-      {
-         "description" : "The fight for first place tightened in round eight of the Challengers at the Prague Chess Festival. Leader Vaclav Finek defended a difficult endgame to keep the top spot, but Daniil Yuffa moved to within half a point after scoring his second consecutive win. Benjamin Gledura also prevailed and remains in contention ahead of Friday's decisive round. | Photo: Petr Vrabec / Prague Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-c8",
-         "pubDate" : "Fri, 06 Mar 2026 07:20:00",
-         "title" : "Prague Challengers: Yuffa wins again, now a half point behind Finek"
       },
       {
          "description" : "GMs Ray Robson and Abhimanyu Mishra were the first to leave&#38;nbsp;The American Cup 2026 after matches in the Elimination Bracket didn&#39;t go their way. The quadragenarian GMs Levon Aronian and Leinier Dominguez won respectively and advanced, while GM...",
@@ -48,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-8",
          "pubDate" : "Thu, 05 Mar 2026 16:28:00",
          "title" : "Abdusattorov Leapfrogs Van Foreest To Lead Before Final Round In Prague"
-      },
-      {
-         "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. In the penultimate round, sole leader Jorden van Foreest plays white against defending champion Aravindh Chithambaram. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Zhu Jiner | Photo: Petr Vrabec / Prague Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-live",
-         "pubDate" : "Thu, 05 Mar 2026 14:45:00",
-         "title" : "Prague Chess Festival - Live!"
       },
       {
          "description" : " The former US women's champion changed her life and her sport when she made allegations against a grandmaster. Now she's turned her hand to writing and poker On 15 February 2023, Jennifer Shahade took a deep breath and wrote \"Time's up\" above a long message about allegations of sexual abuse in the cloistered world of professional chess. Shahade knew her words would have an impact but she didn't expect the <a href=\"https://x.com/JenShahade/status/1625873098581983232?s=20\">social media post</a> to go viral and change her life. A two-time US women's chess champion, Shahade chose her words carefully as she made serious allegations against Alejandro Ramirez, a then 34-year-old grandmaster from C",
@@ -648,14 +640,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/the-2026-english-championships/",
          "pubDate" : "Fri, 13 Feb 2026 15:20:26",
          "title" : "The 2026 English Championships"
-      },
-      {
-         "description" : "Participants at the English Youth Championships 2026 can look forward to a series of expert lectures at Nottingham High School on 7-8 March 2026. &#160; The sessions will include: Endgame...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/expert-lectures-at-english-youth-championships-2026/",
-         "pubDate" : "Fri, 13 Feb 2026 10:54:07",
-         "title" : "Expert Lectures at English Youth Championships 2026"
       }
    ]
 }
