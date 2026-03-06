@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. Going into the final round, Nodirbek Abdusattorov is the sole leader in the Masters section and stands a half point ahead of Jorden van Foreest. Abdusattorov plays white against Hans Niemann, while Van Foreest plays black against Parham Maghsoodloo. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Divya Deshmukh | Photo: Petr Vrabec / Prague Chess Festival",
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST) | Pictured: Sam Sevian | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-live",
-         "pubDate" : "Fri, 06 Mar 2026 10:50:00",
-         "title" : "Prague Chess Festival - Live!"
+         "link" : "https://en.chessbase.com/post/american-cup-2026-live",
+         "pubDate" : "Fri, 06 Mar 2026 18:45:00",
+         "title" : "The American Cup - Live!"
       },
       {
-         "description" : " The youngest ever global title holder has had a hard time this year, but hopes for better in May, when he meets Magnus Carlsen in Norway Chess at Oslo, and in the autumn, when he defends his crown India's Gukesh Dommaraju, at 19 the youngest ever world champion, has had a hard time this year. The teenager has struggled at Wijk aan Zee, where he totalled a modest 50%, and then this week in Prague, where he was last after eight of the nine rounds, scoring just 2.5/8, without winning a single game. With just Friday's final round to be played, Prague is currently led by Nodirbek Abdusattorov on 5.5/8, as the Uzbekistan No 1 continues his winning streak from the London Classic and Wijk aan Zee. ",
+         "description" : "Day three of the American Cup in Saint Louis featured the first classical games of the Championship Bracket semifinals and rapid elimination matches in the lower bracket. In the open section, both semifinal games ended drawn, while Leinier Dominguez and Levon Aronian eliminated their younger opponents. In the women's event, Carissa Yip and Alice Lee won their semifinal games in the Championship Bracket, while Rachel Li and Anna Sargsyan (pictured) survived tense elimination matches. | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2026-d3",
+         "pubDate" : "Fri, 06 Mar 2026 18:40:00",
+         "title" : "American Cup: Aronian, Dominguez, Li and Sargsyan prevail in Elimination Brackets"
+      },
+      {
+         "description" : "GM Jan-Krzysztof Duda scored 9.5 points and took his second-ever Freestyle Friday on March 6, after his first came more than a year ago. He finished ahead of GM Martyn Kravtsiv, IM Almas Rakhmatullaev, and GM Oleksandr Bortnyk, who finished second...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duda-wins-freestyle-friday-march-6-2026",
+         "pubDate" : "Fri, 06 Mar 2026 11:40:31",
+         "title" : "Duda Wins Freestyle Friday As Bortnyk Continues To Place High"
+      },
+      {
+         "description" : " The youngest ever global title holder has had a hard time this year, but hopes for better in May, when he meets Magnus Carlsen in Norway Chess at Oslo, and in the autumn, when he defends his crown India's Gukesh Dommaraju, at 19 the youngest ever world champion, has had a hard time this year. The teenager has struggled at Wijk aan Zee, where he totalled a modest 50%, and then this week in Prague, where he finished joint last with 3.5/9, scoring his only victory of the tournament in the ninth and final round. Prague was won by Nodirbek Abdusattorov on 6/9, as the Uzbekistan No 1 continued his winning streak from the London Classic and Wijk aan Zee. <a href=\"https://www.theguardian.com/sport/",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/mar/06/chess-gukesh-bottom-in-prague-as-world-champion-19-struggles-for-form",
          "pubDate" : "Fri, 06 Mar 2026 08:00:17",
-         "title" : "Chess: Gukesh bottom in Prague as world champion, 19, struggles for form"
+         "title" : "Chess: Gukesh joint last in Prague as world champion, 19, struggles for form"
       },
       {
          "description" : "Chess.com will return to the MIT Sloan Sports Analytics Conference at the Hynes Convention Center in Boston this weekend, once again bringing chess to one of the world&#38;rsquo;s premier gatherings of sports executives, analysts, and innovators. As...",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-passion-for-chess-petr-boleslav-on-the-prague-chess-festival",
          "pubDate" : "Thu, 05 Mar 2026 19:23:54",
          "title" : "A passion for chess: Petr Boleslav on the Prague Chess Festival"
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST) | Pictured: Levon Aronian | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2026-live",
-         "pubDate" : "Thu, 05 Mar 2026 18:45:00",
-         "title" : "The American Cup - Live!"
       },
       {
          "description" : "GM Hans Niemann&#39;s first win of what he called &#34;probably the worst tournament of my life&#34; looked to be the highlight of the penultimate round of the 2026 Prague Chess Festival Masters until some shocking late drama. The key games looked headed for ...",
@@ -376,14 +384,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/registration-open-2026-fide-world-youth-chess-championships",
          "pubDate" : "Thu, 26 Feb 2026 00:00:00",
          "title" : "Registration Open for 2026 FIDE World Youth Chess Championships"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov beat Defending Champion GM Aravindh Chithambaram in round one of the 2026 Prague Chess Festival Masters to oust GM Vincent Keymer as world number-four. Keymer fell to GM Jorden van Foreest for a second event in a row, whil...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-1",
-         "pubDate" : "Wed, 25 Feb 2026 17:44:00",
-         "title" : "Abdusattorov Hits World No. 4, Gukesh Evades Niemann As Prague Masters Begins"
       },
       {
          "description" : "Harrow School Saturday 21st February 2026 Winning chess championships is only for the young?&#160; John Nunn disagrees.&#160; Age 70, he has won the 2026 Winton British Chess Solving Championship.&#160; The...",
