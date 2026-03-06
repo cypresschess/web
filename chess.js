@@ -18,6 +18,14 @@ news_feed (
          "title" : "Chess: Gukesh bottom in Prague as world champion, 19, struggles for form"
       },
       {
+         "description" : "Chess.com will return to the MIT Sloan Sports Analytics Conference at the Hynes Convention Center in Boston this weekend, once again bringing chess to one of the world&#38;rsquo;s premier gatherings of sports executives, analysts, and innovators. As...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-mit-sloan-conference-announcement",
+         "pubDate" : "Fri, 06 Mar 2026 07:23:23",
+         "title" : "Chess.com Returns To MIT Sloan Conference With AI Panel, Guess The Elo, Chessboxing"
+      },
+      {
          "description" : "GMs Ray Robson and Abhimanyu Mishra were the first to leave&#38;nbsp;The American Cup 2026 after matches in the Elimination Bracket didn&#39;t go their way. The quadragenarian GMs Levon Aronian and Leinier Dominguez won respectively and advanced, while GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -394,14 +402,6 @@ news_feed (
          "title" : "Prague Chess Festival 2026 starts"
       },
       {
-         "description" : "The lineup for Norway Chess 2026 has been finalized, setting the stage for another clash between world number-one Magnus Carlsen and reigning World Champion Gukesh Dommaraju.&#38;nbsp; The 14th edition of the prestigious tournament will take place p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-gukesh-oslo-showdown-norway-chess-new-era",
-         "pubDate" : "Wed, 25 Feb 2026 08:06:18",
-         "title" : "Carlsen, Gukesh Set For Oslo Showdown As Norway Chess Enters New Era"
-      },
-      {
          "description" : "Please find the link Open 1700 https://live.tamilchess.com/13_nat_a/below_1700 Open 2000 https://live.tamilchess.com/13_nat_a/below_2000 Open 2300 https://live.tamilchess.com/13_nat_a/below_2300 Woman 1700 https://live.tamilchess.com/13_nat_a/w_below_1700 Woman 2000 https://live.tamilchess.com/13_nat_a/w_below_2000 Woman 2300 https://live.tamilchess.com/13_nat_a/w_below_2300",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -632,14 +632,6 @@ news_feed (
          "link" : "https://www.thearticle.com/in-memory-of-bob-wade/",
          "pubDate" : "Sat, 14 Feb 2026 10:07:46",
          "title" : "In memory of Bob Wade"
-      },
-      {
-         "description" : "The 2026 English Championships will take place between 24 October 1 November at the Holiday Inn Peterborough West, and include Standard, Rapid, Blitz and Seniors Championships. &#160; The...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/the-2026-english-championships/",
-         "pubDate" : "Fri, 13 Feb 2026 15:20:26",
-         "title" : "The 2026 English Championships"
       }
    ]
 }
