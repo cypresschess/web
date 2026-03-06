@@ -18,6 +18,14 @@ news_feed (
          "title" : "The American Cup - Live!"
       },
       {
+         "description" : "GM Hans Niemann&#39;s first win of what he called &#34;probably the worst tournament of my life&#34; looked to be the highlight of the penultimate round of the 2026 Prague Chess Festival Masters until some shocking late drama. The key games looked headed for ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-8",
+         "pubDate" : "Thu, 05 Mar 2026 16:28:11",
+         "title" : "Abdusattorov Leapfrogs Van Foreest To Lead Before Final Round In Prague"
+      },
+      {
          "description" : "From 25 February to 6 March 2026, the eighth Prague International Chess Festival is taking place at the Don Giovanni Hotel, bringing together elite competition and a wide programme of side events. In the penultimate round, sole leader Jorden van Foreest plays white against defending champion Aravindh Chithambaram. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Zhu Jiner | Photo: Petr Vrabec / Prague Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -424,14 +432,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-i-am-not-supportive-of-that-d-gukesh-slams-vladimir-kramnik-over-cheating-allegations/articleshow/128753885.cms",
          "pubDate" : "Tue, 24 Feb 2026 14:11:19",
          "title" : "'I am not supportive of that': Gukesh slams Kramnik over cheating claims"
-      },
-      {
-         "description" : "GM Maxime Vachier-Lagrave won the February 24 edition of Titled Tuesday to wrap up the winter split with his second win of the month, becoming one of eight qualifiers into the Chess.com Open. Vachier-Lagrave won in the final round to reach 9.5 poi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-titled-tuesday-february-24-2026",
-         "pubDate" : "Tue, 24 Feb 2026 12:03:22",
-         "title" : "Vachier-Lagrave Takes Titled Tuesday, Advances In Esports World Cup Process"
       },
       {
          "description" : "All India Chess Federation invites applications from sincere, dedicated, and dynamic professionals for the following position: Position: PR ExecutiveEmployment Type: Full-Time Eligibility &#38; Qualifications:MBA /",
