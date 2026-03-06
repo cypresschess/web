@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The youngest ever global title holder has had a hard time this year, but hopes for better in May, when he meets Magnus Carlsen in Norway Chess at Oslo, and in the autumn, when he defends his crown India's Gukesh Dommaraju, at 19 the youngest ever world champion, has had a hard time this year. The teenager has struggled at Wijk aan Zee, where he totalled a modest 50%, and then this week in Prague, where he was last after eight of the nine rounds, scoring just 2.5/8, without winning a single game. With just Friday's final round to be played, Prague is currently led by Nodirbek Abdusattorov on 5.5/8, as the Uzbekistan No 1 continues his winning streak from the London Classic and Wijk aan Zee. ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/mar/06/chess-gukesh-bottom-in-prague-as-world-champion-19-struggles-for-form",
+         "pubDate" : "Fri, 06 Mar 2026 08:00:17",
+         "title" : "Chess: Gukesh bottom in Prague as world champion, 19, struggles for form"
+      },
+      {
+         "description" : "The fight for first place tightened in round eight of the Challengers at the Prague Chess Festival. Leader Vaclav Finek defended a difficult endgame to keep the top spot, but Daniil Yuffa moved to within half a point after scoring his second consecutive win. Benjamin Gledura also prevailed and remains in contention ahead of Friday's decisive round. | Photo: Petr Vrabec / Prague Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-c8",
+         "pubDate" : "Fri, 06 Mar 2026 07:20:00",
+         "title" : "Prague Challengers: Yuffa wins again, now a half point behind Finek"
+      },
+      {
+         "description" : "GMs Ray Robson and Abhimanyu Mishra were the first to leave&#38;nbsp;The American Cup 2026 after matches in the Elimination Bracket didn&#39;t go their way. The quadragenarian GMs Levon Aronian and Leinier Dominguez won respectively and advanced, while GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-3",
+         "pubDate" : "Thu, 05 Mar 2026 22:55:00",
+         "title" : "Robson, Mishra, Krush, Zatonskih Eliminated On Day 3"
+      },
+      {
          "description" : "The Prague Chess Festival has become a fixture on the tournament calendar and is now in its eighth edition. In an interview with ChessBase, organiser Petr Boleslav explains how the idea was born, why Prague was the natural home for the event, and what it takes to run such a top tournament with a rich programme of side events.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-8",
-         "pubDate" : "Thu, 05 Mar 2026 16:28:11",
+         "pubDate" : "Thu, 05 Mar 2026 16:28:00",
          "title" : "Abdusattorov Leapfrogs Van Foreest To Lead Before Final Round In Prague"
       },
       {
@@ -42,14 +66,6 @@ news_feed (
          "title" : "Jennifer Shahade: 'There's a long and embedded history of abuse in chess'"
       },
       {
-         "description" : "Tata Steel 2026: Analyses by Bluebaum, Giri, L'Ami, Woodward and many more - News from the 'Erigabava' Sicilian: Yago Santiago promotes 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4! - Slav Marshall Gambit: white queen on d8! Lars Schandorff examines 1.d4 d5 2.c4 c6 3.Nc3 e6 4.e4 dxe4 5.Nxe4 Bb4+ 6.Bd2 Qxd4 7.Bxb4 Qxe4+ 8.Be2 Na6 9.Ba5 f6!? - Easy to remember, important to know: Dorian Rogozenco shows a classic fortress motif with king against knight + edge pawn - Strategy: the right double pawn! Mihail Marin explains when to knock out the centre with fxg and when not to, and much more. Includes ChessBase Book for iPad, tablet, etc.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-48",
-         "pubDate" : "Thu, 05 Mar 2026 10:43:24",
-         "title" : "New: ChessBase Magazine #230"
-      },
-      {
          "description" : "GMs Fabiano Caruana, Awonder Liang, Sam Sevian, and Wesley So advance in the Champions Bracket of The American Cup 2026 after defeating GMs Abhimanyu Mishra, Levon Aronian, Leinier Dominguez, and Ray Robson&#38;nbsp;respectively. Caruana held a draw a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-7",
          "pubDate" : "Wed, 04 Mar 2026 17:22:00",
          "title" : "Keymer Grabs Only Win As Van Foreest Maintains Lead In Prague"
-      },
-      {
-         "description" : "Together with Keti Tsataslashvili, Alojzije Jankovic works as a commentator at the Prague Chess Festival - a role that suits him well. The Croatian grandmaster (peak Elo 2593) had his own chess show on Croatian television for many years and runs a YouTube channel. He was editor-in-chief of the magazine 'Sahovski Glasnik', has written chess books, studied economics and is vice-president of the European Chess Union. In an interview with ChessBase, he talks about his passion for chess, his career, his favourite player, chess in film, and explains how systematic thinking can help you play better and be more successful in life.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-grandmaster-mindset-an-interview-with-gm-alojzije-jankovic",
-         "pubDate" : "Wed, 04 Mar 2026 14:25:05",
-         "title" : "The Grandmaster Mindset: An interview with GM Alojzije Jankovic"
       },
       {
          "description" : "GM Hikaru Nakamura tops the field in the first Naroditsky Memorial Rapid &#38;amp; Blitz, set for July 3&#38;ndash;5 at the Charlotte Marriott City Center in Charlotte, United States. The event will bring together some of the world&#39;s strongest speed chess...",
@@ -402,14 +410,6 @@ news_feed (
          "title" : "Carlsen, Gukesh Set For Oslo Showdown As Norway Chess Enters New Era"
       },
       {
-         "description" : "We&#39;re excited to announce that the Chess.com Global Championship is now called the Chess.com Open! The event, which starts on March 14, is set to be the world&#39;s largest open tournament. With $250,000 in prizes and up to three direct spots to the n...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-open-2026",
-         "pubDate" : "Wed, 25 Feb 2026 08:05:14",
-         "title" : "Chess.com Global Championship Now Called Chess.com Open"
-      },
-      {
          "description" : "Please find the link Open 1700 https://live.tamilchess.com/13_nat_a/below_1700 Open 2000 https://live.tamilchess.com/13_nat_a/below_2000 Open 2300 https://live.tamilchess.com/13_nat_a/below_2300 Woman 1700 https://live.tamilchess.com/13_nat_a/w_below_1700 Woman 2000 https://live.tamilchess.com/13_nat_a/w_below_2000 Woman 2300 https://live.tamilchess.com/13_nat_a/w_below_2300",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -656,14 +656,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/expert-lectures-at-english-youth-championships-2026/",
          "pubDate" : "Fri, 13 Feb 2026 10:54:07",
          "title" : "Expert Lectures at English Youth Championships 2026"
-      },
-      {
-         "description" : " The Norwegian showcased his skills in the chess.com speed championship, but the US star and streamer was twice beaten Magnus Carlsen, the world No 1, visited central London last weekend and won the <a href=\"https://www.chess.com/\">chess.com</a> speed championship for the fourth time in a row. The Norwegian, 35, defeated France's Alireza Firouzja, 22, by 15-12 after a three-hour struggle. Last year in Paris the same two players met, but Carlsen's winning margin was a much wider 23.5-7.5. The format for speed chess is 90 minutes of five-minutes blitz, 60 minutes of three-minutes blitz, and 30 minutes of one minute bullet. All the segments had additional increments of one second per move. <a h",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/feb/13/chess-carlsen-triumphs-in-london-but-nakamura-fails",
-         "pubDate" : "Fri, 13 Feb 2026 08:00:40",
-         "title" : "Chess: Magnus Carlsen triumphs in London speed event but Nakamura fails"
       }
    ]
 }
