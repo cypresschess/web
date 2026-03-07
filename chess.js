@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Championship Bracket finals at the American Cup were set on Friday. In the open section, top seeds Fabiano Caruana and Wesley So advanced after winning their matches in blitz tiebreaks, while Sam Sevian and Awonder Liang were knocked down to the Elimination Bracket. In the women's event, Carissa Yip and defending champion Alice Lee secured classical victories to reach the final, leaving Tatev Abrahamyan and Zoey Tang fighting to stay in contention. | Photo: Saint Louis Chess Club / Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2026-d4",
+         "pubDate" : "Sat, 07 Mar 2026 17:00:00",
+         "title" : "American Cup: Favourites advance in Championship Brackets"
+      },
+      {
+         "description" : "On Sunday, March 8, Kasparov Chess Foundation Academy will host a lecture by Vladimir Tukmakov. Drawing from his remarkable career spanning decades at the highest levels of chess, Tukmakov will guide participants through some of his most memorable and instructive victories against legendary opponents. Chess enthusiasts can look forward to an intimate journey into the grandmaster's decision-making process, revealing the ideas and insights behind his finest achievements at the board.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/my-instructive-wins-against-greats",
+         "pubDate" : "Sat, 07 Mar 2026 15:00:00",
+         "title" : "My Instructive Wins Against Greats"
+      },
+      {
+         "description" : "When you solve tactics in training, it feels easy peasy. Once you know there is a tactic, finding that fork, bishop sacrifice, or checkmate combination is relatively easy. But then you sit down to play a real game. Suddenly, you feel uncertain. Do I have to look for a tactic? Does it really work? Or []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/real-chess-training/",
+         "pubDate" : "Sat, 07 Mar 2026 14:00:00",
+         "title" : "The Most Important 45 Minutes of Your Chess Training"
+      },
+      {
          "description" : " The American Cup is a double elimination knockout tournament held in Saint Louis. There is an open and women's event. Players Open event: Fabiano, Caruana, Wesley So, Leinier Dominguez Perez, Levon Aronian, Awonder Liang, Samuel Sevian, Ray Robson and Abhimanyu Mishra Players Women's event: Carissa Yip, Alice Lee, Irina Krush, Tatev Abrahamyan, Anna Sargsyan, Zoey Tang, Anna Zatonskih and Rachael Li. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -26,28 +50,12 @@ news_feed (
          "title" : "Winners crowned at the Prague Chess Festival 2026"
       },
       {
-         "description" : "A draw in the final round was enough for Nodirbek Abdusattorov to secure victory at the Masters section, the main event of the Prague International Chess Festival - making him the first two-time winner of the tournament. The Uzbek grandmaster finished undefeated on 6/9 after drawing with Hans Niemann. Final-round losses for Jorden van Foreest and David Navara allowed Parham Maghsoodloo and Aravindh Chithambaram to join Van Foreest in shared second place. | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-9",
-         "pubDate" : "Sat, 07 Mar 2026 07:25:00",
-         "title" : "Abdusattorov wins Prague Masters, now ranked fourth in the world"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129194262.cms\" />Gukesh Dommaraju's emotional apology during the Prague Masters highlighted a broader dip in form among India's top players, including Arjun Erigaisi and Rameshbabu Praggnanandhaa. Experts cite heavy schedules, distractions from fame, repetitive elite events and overreliance on engine preparation as factors. It is also likely that the slump is temporary.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-apologises-to-fans-indian-chess-stars-slip-in-rankings-whats-going-wrong/articleshow/129194262.cms",
          "pubDate" : "Sat, 07 Mar 2026 05:00:59",
          "title" : "Gukesh apologises to fans; Indian stars slip in rankings: what's going wrong?"
-      },
-      {
-         "description" : "A final round with all gamed ending decisively concluded an exciting edition of the Challengers at the Prague International Chess Festival. Sixteen-year-old Vaclav Finek secured first place by defeating Thomas Beerdsen with black, finishing the tournament undefeated on 6&frac12;/9 and earning a place in the 2027 Masters. Daniil Yuffa kept the pressure on until the end, while Divya Deshmukh completed the podium after winning her final-round game. | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2026-c9",
-         "pubDate" : "Sat, 07 Mar 2026 03:45:00",
-         "title" : "Vaclav Finek scores final-round win to clinch Prague Challengers"
       },
       {
          "description" : " The 8th Prague International Chess Festival took place Tue 24th Feb to Fri 6th Mar 2026. Players Masters: Vincent Keymer, D Gukesh, Nodirbek Abdusattorov, Hans Moke, Niemann, Parham Maghsoodloo, Jorden Van Foreest, Aravindh Chithambaram V, Nodirbek Yakubboev, David Anton Guijarro and David Navara. There's a strong Challengers section, Futures and an open too. Nodirbek Abdusattorov won his third classical tournament in a row after London and Tata Steel. He won three and drew six games. Jorden Van Foreest took an early lead but defeats in the final two rounds took him down to a tie for second place with Maghsoodloo and Aravindh. World Champion Gukesh finished tied for last place with David An",
@@ -64,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-4",
          "pubDate" : "Fri, 06 Mar 2026 20:02:00",
          "title" : "So Vs. Caruana, Yip Vs. Lee In Champions Finals"
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST) | Pictured: Sam Sevian | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2026-live",
-         "pubDate" : "Fri, 06 Mar 2026 18:45:00",
-         "title" : "The American Cup - Live!"
       },
       {
          "description" : "GM Nodirbek Abdusattorov is the first player to win the Prague Chess Festival Masters twice after an effortless draw against GM Hans Niemann in the final round was enough to win by a full point. Long-term leader GM Jorden van Foreest crashed and b...",
@@ -640,14 +640,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-freestyle-chess-world-championship-2026",
          "pubDate" : "Sun, 15 Feb 2026 21:05:00",
          "title" : "FIDE Freestyle Chess World Championship 2026 - Games and Results"
-      },
-      {
-         "description" : "Let me be very honest: I don't really care if you gain 200 rating points this year. I've stopped caring about pure rating gains, both for me and my students, long ago. Most people think I'm crazy for saying this as a coach. But after years as a professional and now as a Coach, I've []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/chess-and-character-building/",
-         "pubDate" : "Sat, 14 Feb 2026 14:00:00",
-         "title" : "Are You a Chess Player or a Gambler?"
       }
    ]
 }
