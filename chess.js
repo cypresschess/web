@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST) | Pictured: Tatev Abrahamyan | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2026-live",
+         "pubDate" : "Sat, 07 Mar 2026 18:50:00",
+         "title" : "The American Cup - Live!"
+      },
+      {
          "description" : "The Championship Bracket finals at the American Cup were set on Friday. In the open section, top seeds Fabiano Caruana and Wesley So advanced after winning their matches in blitz tiebreaks, while Sam Sevian and Awonder Liang were knocked down to the Elimination Bracket. In the women's event, Carissa Yip and defending champion Alice Lee secured classical victories to reach the final, leaving Tatev Abrahamyan and Zoey Tang fighting to stay in contention. | Photo: Saint Louis Chess Club / Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
