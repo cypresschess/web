@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The American Cup is a double elimination knockout tournament held in Saint Louis. There is an open and women's event. Players Open event: Fabiano, Caruana, Wesley So, Leinier Dominguez Perez, Levon Aronian, Awonder Liang, Samuel Sevian, Ray Robson and Abhimanyu Mishra Players Women's event: Carissa Yip, Alice Lee, Irina Krush, Tatev Abrahamyan, Anna Sargsyan, Zoey Tang, Anna Zatonskih and Rachael Li. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2026",
+         "pubDate" : "Sat, 7 Mar 2026 11:34:00",
+         "title" : "American Cup 2026 - Games and Results"
+      },
+      {
+         "description" : "Today sees the fruits of a proposal first made by Howard Staunton over a century and a half ago for an annual chess match between Oxford and Cambridge universities. In my preview of the day's events, universally acknowledged as the premier social event of the UK chess calendar, the Boat Race of the Brain, no []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/stauntons-proposal/",
+         "pubDate" : "Sat, 07 Mar 2026 11:02:45",
+         "title" : "Staunton's proposal"
+      },
+      {
+         "description" : "Prague International Chess Festival 2026 concluded yesterday in the capital of Czech Republic, after nine exciting days filled with rich chess programme. The Festival was supported by the European Chess Union and especially the organization of the Futures tournament which gathered ten girls, young chess talents, who competed under exclusive playing conditions identical to those provided for the participants of the Masters and Challengers events. The ECU President Mr. Zurab Azmaiparashvili attended the event, and officially opened the final round []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/winners-crowned-at-the-prague-chess-festival-2026/",
+         "pubDate" : "Sat, 07 Mar 2026 09:58:58",
+         "title" : "Winners crowned at the Prague Chess Festival 2026"
+      },
+      {
          "description" : "A draw in the final round was enough for Nodirbek Abdusattorov to secure victory at the Masters section, the main event of the Prague International Chess Festival - making him the first two-time winner of the tournament. The Uzbek grandmaster finished undefeated on 6/9 after drawing with Hans Niemann. Final-round losses for Jorden van Foreest and David Navara allowed Parham Maghsoodloo and Aravindh Chithambaram to join Van Foreest in shared second place. | Photo: Nils Rohde / ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -624,22 +648,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/chess-and-character-building/",
          "pubDate" : "Sat, 14 Feb 2026 14:00:00",
          "title" : "Are You a Chess Player or a Gambler?"
-      },
-      {
-         "description" : "AVE CHESS z.s., the Czech Chess Federation and the European Chess Union have the honour to invite all European Chess Federations to participate in the EUROPEAN YOUTH TEAM CHESS CHAMPIONSHIP 2026 organised in Pardubice, Czech Republic from 25th July (arrival) to 2nd August (departure) 2026. The event will be played in two age categories: U12, and U18, open and girls sections separately. The playing members of the teams shall not have reached the age of 12 or 18, depending on []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2026-official-regulations/",
-         "pubDate" : "Sat, 14 Feb 2026 10:58:44",
-         "title" : "European Youth Team Chess Championship 2026 - Official regulations"
-      },
-      {
-         "description" : "&#160; Few players earn enough respect to have a memorial tournament named in their honour. Some world champions, official and unofficial, have achieved this distinction-Staunton, Capablanca, Alekhine, Euwe, Botvinnik-but only a handful of non-champions have registered on this particular seismic scale. Robert (\"Bob\") Wade, who died in 2008 aged 87, has now joined that select []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/in-memory-of-bob-wade/",
-         "pubDate" : "Sat, 14 Feb 2026 10:07:46",
-         "title" : "In memory of Bob Wade"
       }
    ]
 }
