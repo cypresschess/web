@@ -1,4 +1,7 @@
 jtable([
+"CYPRESS","2026-03-06","33","<a href=https://ratings.uschess.org/event/202603060223 target='_blank'>Knights of Cypress</a>",
+"SUGAR LAND","2026-03-06","16","<a href=https://ratings.uschess.org/event/202603060213 target='_blank'>FBCC 2026 National Dress in Blue Op</a>",
+"HOUSTON","2026-03-06","17","<a href=https://ratings.uschess.org/event/202603060163 target='_blank'>The Friday Knights</a>",
 "HOUSTON","2026-03-01","10","<a href=https://ratings.uschess.org/event/202603010363 target='_blank'>2026 TCA Regional Scholastics Tourn</a>",
 "SUGAR LAND","2026-02-28","3","<a href=https://ratings.uschess.org/event/202602281253 target='_blank'>Spring-02-28-2026</a>",
 "HOUSTON","2026-02-28","8","<a href=https://ratings.uschess.org/event/202602281083 target='_blank'>FEB 28th- SATURDAY SWISS</a>",
@@ -8,6 +11,7 @@ jtable([
 "SUGAR LAND","2026-02-27","20","<a href=https://ratings.uschess.org/event/202602270363 target='_blank'>FBCC Pokémon Day Open</a>",
 "SPRING","2026-02-27","30","<a href=https://ratings.uschess.org/event/202602270253 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "PASADENA","2026-02-27","14","<a href=https://ratings.uschess.org/event/202602270243 target='_blank'>Checkmates on Fairmont</a>",
+"CYPRESS","2026-02-27","42","<a href=https://ratings.uschess.org/event/202602270193 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2026-02-24","16","<a href=https://ratings.uschess.org/event/202602240433 target='_blank'>FEBRUARY Tuesday Night Swiss 2026</a>",
 "HOUSTON","2026-02-22","10","<a href=https://ratings.uschess.org/event/202602220393 target='_blank'>Bellaire Sunday Swiss 2026.02.22</a>",
 "HOUSTON","2026-02-22","10","<a href=https://ratings.uschess.org/event/202602220103 target='_blank'>2026 TCA Regional Scholastics Tourn</a>",
@@ -95,8 +99,4 @@ jtable([
 "SUGAR LAND","2025-12-07","4","<a href=https://ratings.uschess.org/event/202512070103 target='_blank'>winter12072025</a>",
 "HOUSTON","2025-12-06","15","<a href=https://ratings.uschess.org/event/202512060393 target='_blank'>chesspanda12062025saturday</a>",
 "SUGAR LAND","2025-12-05","16","<a href=https://ratings.uschess.org/event/202512050403 target='_blank'>FBCC Levy Rozman Birthday Open</a>",
-"SPRING","2025-12-05","25","<a href=https://ratings.uschess.org/event/202512050333 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2025-12-05","37","<a href=https://ratings.uschess.org/event/202512050273 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2025-11-30","15","<a href=https://ratings.uschess.org/event/202511300323 target='_blank'>Bellaire Sunday Swiss 2025.11.30</a>",
-"HOUSTON","2025-11-29","31","<a href=https://ratings.uschess.org/event/202511290243 target='_blank'>Lone Star Houston Fall Action</a>",
 ]);
