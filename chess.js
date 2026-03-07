@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A draw in the final round was enough for Nodirbek Abdusattorov to secure victory at the Masters section, the main event of the Prague International Chess Festival - making him the first two-time winner of the tournament. The Uzbek grandmaster finished undefeated on 6/9 after drawing with Hans Niemann. Final-round losses for Jorden van Foreest and David Navara allowed Parham Maghsoodloo and Aravindh Chithambaram to join Van Foreest in shared second place. | Photo: Nils Rohde / ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-9",
+         "pubDate" : "Sat, 07 Mar 2026 07:25:00",
+         "title" : "Abdusattorov wins Prague Masters, now ranked fourth in the world"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129194262.cms\" />Gukesh Dommaraju's emotional apology during the Prague Masters highlighted a broader dip in form among India's top players, including Arjun Erigaisi and Rameshbabu Praggnanandhaa. Experts cite heavy schedules, distractions from fame, repetitive elite events and overreliance on engine preparation as factors. It is also likely that the slump is temporary.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-apologises-to-fans-indian-chess-stars-slip-in-rankings-whats-going-wrong/articleshow/129194262.cms",
+         "pubDate" : "Sat, 07 Mar 2026 05:00:59",
+         "title" : "Gukesh apologises to fans; Indian stars slip in rankings: what's going wrong?"
+      },
+      {
          "description" : "A final round with all gamed ending decisively concluded an exciting edition of the Challengers at the Prague International Chess Festival. Sixteen-year-old Vaclav Finek secured first place by defeating Thomas Beerdsen with black, finishing the tournament undefeated on 6&frac12;/9 and earning a place in the 2027 Masters. Daniil Yuffa kept the pressure on until the end, while Divya Deshmukh completed the podium after winning her final-round game. | Photo: Nils Rohde / ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-4",
-         "pubDate" : "Fri, 06 Mar 2026 20:02:20",
+         "pubDate" : "Fri, 06 Mar 2026 20:02:00",
          "title" : "So Vs. Caruana, Yip Vs. Lee In Champions Finals"
       },
       {
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/american-cup-2026-live",
          "pubDate" : "Fri, 06 Mar 2026 18:45:00",
          "title" : "The American Cup - Live!"
-      },
-      {
-         "description" : "Day three of the American Cup in Saint Louis featured the first classical games of the Championship Bracket semifinals and rapid elimination matches in the lower bracket. In the open section, both semifinal games ended drawn, while Leinier Dominguez and Levon Aronian eliminated their younger opponents. In the women's event, Carissa Yip and Alice Lee won their semifinal games in the Championship Bracket, while Rachel Li and Anna Sargsyan (pictured) survived tense elimination matches. | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2026-d3",
-         "pubDate" : "Fri, 06 Mar 2026 18:40:00",
-         "title" : "American Cup: Aronian, Dominguez, Li and Sargsyan prevail in Elimination Brackets"
       },
       {
          "description" : "GM Nodirbek Abdusattorov is the first player to win the Prague Chess Festival Masters twice after an effortless draw against GM Hans Niemann in the final round was enough to win by a full point. Long-term leader GM Jorden van Foreest crashed and b...",
@@ -88,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-3",
          "pubDate" : "Thu, 05 Mar 2026 22:55:00",
          "title" : "Robson, Mishra, Krush, Zatonskih Eliminated On Day 3"
-      },
-      {
-         "description" : "The Prague Chess Festival has become a fixture on the tournament calendar and is now in its eighth edition. In an interview with ChessBase, organiser Petr Boleslav explains how the idea was born, why Prague was the natural home for the event, and what it takes to run such a top tournament with a rich programme of side events.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-passion-for-chess-petr-boleslav-on-the-prague-chess-festival",
-         "pubDate" : "Thu, 05 Mar 2026 19:23:54",
-         "title" : "A passion for chess: Petr Boleslav on the Prague Chess Festival"
       },
       {
          "description" : "GM Hans Niemann&#39;s first win of what he called &#34;probably the worst tournament of my life&#34; looked to be the highlight of the penultimate round of the 2026 Prague Chess Festival Masters until some shocking late drama. The key games looked headed for ...",
