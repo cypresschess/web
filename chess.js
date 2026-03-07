@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 8th Prague International Chess Festival took place Tue 24th Feb to Fri 6th Mar 2026. Players Masters: Vincent Keymer, D Gukesh, Nodirbek Abdusattorov, Hans Moke, Niemann, Parham Maghsoodloo, Jorden Van Foreest, Aravindh Chithambaram V, Nodirbek Yakubboev, David Anton Guijarro and David Navara. There's a strong Challengers section, Futures and an open too. Nodirbek Abdusattorov won his third classical tournament in a row after London and Tata Steel. He won three and drew six games. Jorden Van Foreest took an early lead but defeats in the final two rounds took him down to a tie for second place with Maghsoodloo and Aravindh. World Champion Gukesh finished tied for last place with David An",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/8th-prague-international-chess-festival-2026",
+         "pubDate" : "Fri, 6 Mar 2026 21:59:00",
+         "title" : "8th Prague International Chess Festival 2026 - Games and Results"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST) | Pictured: Sam Sevian | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,11 +26,27 @@ news_feed (
          "title" : "American Cup: Aronian, Dominguez, Li and Sargsyan prevail in Elimination Brackets"
       },
       {
+         "description" : "GM Nodirbek Abdusattorov is the first player to win the Prague Chess Festival Masters twice after an effortless draw against GM Hans Niemann in the final round was enough to win by a full point. Long-term leader GM Jorden van Foreest crashed and b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/abdusattorov-wins-2026-prague-chess-festival",
+         "pubDate" : "Fri, 06 Mar 2026 14:45:00",
+         "title" : "Abdusattorov Wins His 2nd Prague Masters"
+      },
+      {
+         "description" : "IM Renato Terry extended his 3 0 Thursday win record to eight titles after winning the second tournament with a commanding score of 9.5/11 on March 5. Adding to a growing stockpile of IM victories, Reza Mahdavi won his third title in consecutive w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/3-0-thursday-nakamura-terry-mahdavi-3-5-2026",
+         "pubDate" : "Fri, 06 Mar 2026 14:13:21",
+         "title" : "Indomitable Terry Extends Win Record, Nakamura & Mahdavi Bounce Back"
+      },
+      {
          "description" : "GM Jan-Krzysztof Duda scored 9.5 points and took his second-ever Freestyle Friday on March 6, after his first came more than a year ago. He finished ahead of GM Martyn Kravtsiv, IM Almas Rakhmatullaev, and GM Oleksandr Bortnyk, who finished second...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/duda-wins-freestyle-friday-march-6-2026",
-         "pubDate" : "Fri, 06 Mar 2026 11:40:31",
+         "pubDate" : "Fri, 06 Mar 2026 11:40:00",
          "title" : "Duda Wins Freestyle Friday As Bortnyk Continues To Place High"
       },
       {
@@ -168,14 +192,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-masters-pt-1",
          "pubDate" : "Tue, 03 Mar 2026 00:00:00",
          "title" : "Tactics Tuesday: Saint Louis Masters, Pt. 1"
-      },
-      {
-         "description" : " The 8th Prague International Chess Festival takes place Tue 24th Feb to Fri 6th Mar 2026. Players Masters: Vincent Keymer, D Gukesh, Nodirbek Abdusattorov, Hans Moke, Niemann, Parham Maghsoodloo, Jorden Van Foreest, Aravindh Chithambaram V, Nodirbek Yakubboev, David Anton Guijarro and David Navara. There's a strong Challengers section, Futures and an open too.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/8th-prague-international-chess-festival-2026",
-         "pubDate" : "Mon, 2 Mar 2026 14:48:00",
-         "title" : "8th Prague International Chess Festival 2026 - Games and Results"
       },
       {
          "description" : " The Saint Louis Masters took place Tue 24th Feb to Sun 1st Mar 2026. Mikhail Antipov won the event with 7.5/9 after beating Andy Woodward in the final round, he was half a point clear of Fabiano Caruana who failed to convert a winning endgame against Francesco Sonis. Lorenzo Lodici finished in clear third place with 6.5/9.",
@@ -352,22 +368,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/registration-open-2026-fide-world-cadet-cup-chess-championships",
          "pubDate" : "Fri, 27 Feb 2026 00:00:00",
          "title" : "Registration Open for 2026 FIDE World Cadet Cup Chess Championships"
-      },
-      {
-         "description" : "GMs Fabiano Caruana, Lorenzo Lodici, and Vasif Durarbayli lead the 2026 Saint Louis Masters with 3.5 points apiece after four rounds. It&#39;s nearly the halfway point of the nine-round tournament, and there are no fewer than nine players in the chasi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-saint-louis-masters-round-4",
-         "pubDate" : "Thu, 26 Feb 2026 22:59:00",
-         "title" : "Caruana, Lodici, Durarbayli Lead Saint Louis Masters After 4 Rounds"
-      },
-      {
-         "description" : "Defending Champion GM Aravindh Chithambaram looked to be in trouble again in round two of the 2026 Prague Chess Festival Masters, but GM Hans Niemann couldn&#39;t find a hidden winning resource on low time and slumped to defeat. It was a similar story...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-2",
-         "pubDate" : "Thu, 26 Feb 2026 15:58:00",
-         "title" : "Aravindh, Anton Strike Back In Round 2 Of Prague Masters"
       },
       {
          "description" : "On behalf of All India Chess Federation , Karnataka State Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Rao's Chess Corner ,Ground Floor, Jyothi Kiran.",
