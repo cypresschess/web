@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A final round with all gamed ending decisively concluded an exciting edition of the Challengers at the Prague International Chess Festival. Sixteen-year-old Vaclav Finek secured first place by defeating Thomas Beerdsen with black, finishing the tournament undefeated on 6&frac12;/9 and earning a place in the 2027 Masters. Daniil Yuffa kept the pressure on until the end, while Divya Deshmukh completed the podium after winning her final-round game. | Photo: Nils Rohde / ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2026-c9",
+         "pubDate" : "Sat, 07 Mar 2026 03:45:00",
+         "title" : "Vaclav Finek scores final-round win to clinch Prague Challengers"
+      },
+      {
          "description" : " The 8th Prague International Chess Festival took place Tue 24th Feb to Fri 6th Mar 2026. Players Masters: Vincent Keymer, D Gukesh, Nodirbek Abdusattorov, Hans Moke, Niemann, Parham Maghsoodloo, Jorden Van Foreest, Aravindh Chithambaram V, Nodirbek Yakubboev, David Anton Guijarro and David Navara. There's a strong Challengers section, Futures and an open too. Nodirbek Abdusattorov won his third classical tournament in a row after London and Tata Steel. He won three and drew six games. Jorden Van Foreest took an early lead but defeats in the final two rounds took him down to a tie for second place with Maghsoodloo and Aravindh. World Champion Gukesh finished tied for last place with David An",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/8th-prague-international-chess-festival-2026",
          "pubDate" : "Fri, 6 Mar 2026 21:59:00",
          "title" : "8th Prague International Chess Festival 2026 - Games and Results"
+      },
+      {
+         "description" : "GMs Fabiano Caruana and Wesley So advance to the Champions Final of The American Cup 2026. After making draws in the classical portion, they overcame GMs Awonder Liang and Sam Sevian in blitz tiebreaks 1.5-0.5 each, respectively. In the Eliminatio...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-4",
+         "pubDate" : "Fri, 06 Mar 2026 20:02:20",
+         "title" : "So Vs. Caruana, Yip Vs. Lee In Champions Finals"
       },
       {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST) | Pictured: Sam Sevian | Photo: Lennart Ootes",
@@ -34,11 +50,11 @@ news_feed (
          "title" : "Abdusattorov Wins His 2nd Prague Masters"
       },
       {
-         "description" : "IM Renato Terry extended his 3 0 Thursday win record to eight titles after winning the second tournament with a commanding score of 9.5/11 on March 5. Adding to a growing stockpile of IM victories, Reza Mahdavi won his third title in consecutive w...",
+         "description" : "IM Renato Terry extended his 3 0 Thursday win record to eight titles after prevailing in the second tournament with a commanding score of 9.5/11 on March 5. Adding to a growing stockpile of IM victories, Reza Mahdavi won his third title in consecu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/3-0-thursday-nakamura-terry-mahdavi-3-5-2026",
-         "pubDate" : "Fri, 06 Mar 2026 14:13:21",
+         "pubDate" : "Fri, 06 Mar 2026 14:13:00",
          "title" : "Indomitable Terry Extends Win Record, Nakamura & Mahdavi Bounce Back"
       },
       {
@@ -344,14 +360,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-chesscom-widget",
          "pubDate" : "Fri, 27 Feb 2026 08:00:00",
          "title" : "Never Lose Your Chess Streak With The New Chess.com Mobile Widget"
-      },
-      {
-         "description" : "A little more than three years ago, in December of 2022, Chess.com reached 100 million members. It was a huge milestone at the time, and it still is, but now we are celebrating an even bigger number: a quarter of a billion. It&#39;s the 250,000,000 ch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-reaches-250-million-members",
-         "pubDate" : "Fri, 27 Feb 2026 07:00:00",
-         "title" : "Chess.com Reaches 250 Million Members"
       },
       {
          "description" : "Editor's note: For Black History Month, US Chess invited Dr. Daaim Shabazz to write a reflection on Black chess history as a complement to our player and coach profiles published earlier this month. As it was The Chess Drum's 25th anniversary on February 12, Dr. Shabazz shares a bit of personal history, as well, going into the origin of The Chess Drum as well as exploring the past, present, and future of Black chess in the U.S. A longer version of this piece is available on The Chess Drum. As we approach the end of Black History Month, something important in chess happened 25 years ago. At midnight on February 12, 2001, The Chess Drum website went live. The website started with eight pages a",
