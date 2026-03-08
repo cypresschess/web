@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Analyses with ChessBase&acute;26 are flexible: insights gained can be added to or changed at any time. This often leads to a re-evaluation of variations. In this tutorial episode, we will therefore explain how you can upgrade variations and insert or change evaluations. We will show how practical this is with the quick access bars next to and below the notation.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-6-quick-access-toolbars-and-variation-hierarchies",
+         "pubDate" : "Sun, 08 Mar 2026 07:00:00",
+         "title" : "ChessBase&acute;26 - Tips for Beginners, Part 6: Quick access toolbars and variation hierarchies"
+      },
+      {
+         "description" : " Artefacts include souvenirs from 1972 'Match of the Century' between Boris Spassky and Bobby Fischer A vast collection of chess memorabilia, including souvenirs from the 1972 \"Match of the Century\" and considered to be the largest and most important of its kind in private hands, is to be auctioned at Sotheby's in London next month. The collection belonged to the German grandmaster Lothar Schmid, whose passion for the sport extended way beyond the board. <a href=\"https://www.theguardian.com/sport/2026/mar/08/chess-grandmasters-lothar-schmid-memorabilia-sotheby-auction-london\">Continue reading...</a>",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/mar/08/chess-grandmasters-lothar-schmid-memorabilia-sotheby-auction-london",
+         "pubDate" : "Sun, 08 Mar 2026 06:00:11",
+         "title" : "German grandmaster's vast collection of chess memorabilia to be sold in London"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST) | Pictured: Tatev Abrahamyan | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
