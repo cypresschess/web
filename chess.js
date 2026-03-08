@@ -664,14 +664,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/another-world-title-magnus-carlsen-clinches-fide-freestyle-chess-world-championship-2026/articleshow/128411369.cms",
          "pubDate" : "Mon, 16 Feb 2026 07:04:21",
          "title" : "Carlsen clinches FIDE Freestyle Chess World Championship 2026"
-      },
-      {
-         "description" : " The FIDE Freestyle Chess World Championship took place in Wangels, Germany, Fri 13th Feb to Sun 15th Feb 2026. Time control 10m+5spm. Round Robin followed by KO. Carlsen won the all-play-all with 4.5/7 half a point clear of Caruana, Keymer and Abdusattorov and they played for the title over the weekend. Aronian, Erigaisi, Niemann and Sindarov played off for the minor placings. Magnus Carlsen beat Fabiano Caruana 2.5-1.5 in the final to win the title, he won game three. The games are available for download but I can't display them. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-freestyle-chess-world-championship-2026",
-         "pubDate" : "Sun, 15 Feb 2026 21:05:00",
-         "title" : "FIDE Freestyle Chess World Championship 2026 - Games and Results"
       }
    ]
 }
