@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST) | Pictured: Anna Sarsyan | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2026-live",
+         "pubDate" : "Sun, 08 Mar 2026 17:50:00",
+         "title" : "The American Cup - Live!"
+      },
+      {
+         "description" : "Throughout March, the FIDE Commission for Women's Chess is coordinating the global Chess Women's Day Celebration, encouraging federations, clubs and organisers to stage events that promote women and girls in chess. Under the theme \"Visible, Connected, Worldwide\", the programme includes tournaments, training activities and online competitions across several continents. | Photo: XV Radzikowska Memorial",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-women-day-2026",
+         "pubDate" : "Sun, 08 Mar 2026 17:20:00",
+         "title" : "Chess Women's Day celebration 2026: Visible, connected, worldwide"
+      },
+      {
          "description" : "Analyses with ChessBase&acute;26 are flexible: insights gained can be added to or changed at any time. This often leads to a re-evaluation of variations. In this tutorial episode, we will therefore explain how you can upgrade variations and insert or change evaluations. We will show how practical this is with the quick access bars next to and below the notation.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/mar/08/chess-grandmasters-lothar-schmid-memorabilia-sotheby-auction-london",
          "pubDate" : "Sun, 08 Mar 2026 06:00:11",
          "title" : "German grandmaster's vast collection of chess memorabilia to be sold in London"
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST) | Pictured: Tatev Abrahamyan | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2026-live",
-         "pubDate" : "Sat, 07 Mar 2026 18:50:00",
-         "title" : "The American Cup - Live!"
       },
       {
          "description" : "GM Fabiano Caruana picked up a win against GM Wesley So in the first game of The American Cup 2026 Champions Final. In the Elimination Bracket, GMs Sam Sevian and Leinier Dominguez were eliminated by GMs Levon Aronian and Awonder Liang, respective...",
