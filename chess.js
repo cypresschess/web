@@ -10,6 +10,22 @@ news_feed (
          "title" : "The American Cup - Live!"
       },
       {
+         "description" : "GM Fabiano Caruana picked up a win against GM Wesley So in the first game of The American Cup 2026 Champions Final. In the Elimination Bracket, GMs Sam Sevian and Leinier Dominguez were eliminated by GMs Levon Aronian and Awonder Liang, respective...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-5",
+         "pubDate" : "Sat, 07 Mar 2026 18:19:00",
+         "title" : "Caruana Wins Game 1 Vs. Wesley So; Dominguez, Sevian, Tang, Li Eliminated"
+      },
+      {
+         "description" : "GM Oleksandr Bortnyk is $400 richer and has added a 15th Bullet Brawl title to his name after coming out on top of what he described as &#34;one of the hardest&#34; Bullet Brawls he has won. With a score of 150 points, Bortnyk finished two points ahead of...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-mar-7-2026",
+         "pubDate" : "Sat, 07 Mar 2026 17:06:00",
+         "title" : "Bortnyk Wins 'One Of The Hardest' Bullet Brawls Yet"
+      },
+      {
          "description" : "The Championship Bracket finals at the American Cup were set on Friday. In the open section, top seeds Fabiano Caruana and Wesley So advanced after winning their matches in blitz tiebreaks, while Sam Sevian and Awonder Liang were knocked down to the Elimination Bracket. In the women's event, Carissa Yip and defending champion Alice Lee secured classical victories to reach the final, leaving Tatev Abrahamyan and Zoey Tang fighting to stay in contention. | Photo: Saint Louis Chess Club / Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -79,7 +95,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-4",
          "pubDate" : "Fri, 06 Mar 2026 20:02:00",
-         "title" : "So Vs. Caruana, Yip Vs. Lee In Champions Finals"
+         "title" : "Wesley So Vs. Caruana, Yip Vs. Lee In Champions Finals"
       },
       {
          "description" : "GM Nodirbek Abdusattorov is the first player to win the Prague Chess Festival Masters twice after an effortless draw against GM Hans Niemann in the final round was enough to win by a full point. Long-term leader GM Jorden van Foreest crashed and b...",
@@ -370,28 +386,12 @@ news_feed (
          "title" : "Repeat Winners Dominate 3 0 Thursday, Arjun Joins The Club"
       },
       {
-         "description" : "IM Renato Terry won Freestyle Friday on February 27, the second week of the Freestyle Friday Championship, with a 9.5/11 score. Last week&#39;s winner GM Oleksandr Bortnyk finished second on 8.5/11, giving him a commanding early lead on the Championsh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/terry-wins-freestyle-friday-february-27-2026",
-         "pubDate" : "Fri, 27 Feb 2026 11:03:40",
-         "title" : "Terry Freestyles Way To Third Friday Victory As Bortnyk Holds Championship Lead"
-      },
-      {
          "description" : " GM Matthew Wadsworth won in Ryde on tiebreak, Scottish GM Matthew Turner also shared first, while in Graz Scotland's Freddy Waldhausen Gordon, 15, qualified for the IM title In just two years, the <a href=\"https://www.iowchess.com/\">Isle of Wight Masters</a> at Ryde school has become established as one of Britain's most popular events. Its scenic ambience, impressive organisation and competitive spirit have combined to attract a strong international entry. Last weekend GM Matthew Wadsworth emerged first on tie-break ahead of IM Tobias Koelle (Germany) and GM Matthew Turner (Scotland) after the trio all scored 7/9. Wadsworth also won in 2025. <a href=\"https://www.theguardian.com/sport/2026/f",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/feb/27/chess-british-players-win-isle-of-wight-masters-as-scots-achieve-rare-double",
          "pubDate" : "Fri, 27 Feb 2026 08:00:36",
          "title" : "Chess: British players win Isle of Wight Masters as Scots achieve rare double"
-      },
-      {
-         "description" : "We&#39;ve just made it easier for you to keep up with your streaks and Daily games on Chess.com! We&#39;re excited to announce our new mobile widget that will always remind you of your streak and make it easier for you to play! Here&#39;s what you need to k...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-widget",
-         "pubDate" : "Fri, 27 Feb 2026 08:00:00",
-         "title" : "Never Lose Your Chess Streak With The New Chess.com Mobile Widget"
       },
       {
          "description" : "Editor's note: For Black History Month, US Chess invited Dr. Daaim Shabazz to write a reflection on Black chess history as a complement to our player and coach profiles published earlier this month. As it was The Chess Drum's 25th anniversary on February 12, Dr. Shabazz shares a bit of personal history, as well, going into the origin of The Chess Drum as well as exploring the past, present, and future of Black chess in the U.S. A longer version of this piece is available on The Chess Drum. As we approach the end of Black History Month, something important in chess happened 25 years ago. At midnight on February 12, 2001, The Chess Drum website went live. The website started with eight pages a",
