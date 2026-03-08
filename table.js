@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2026-03-07","10","<a href=https://ratings.uschess.org/event/202603070283 target='_blank'>chesspanda03072026saturday</a>",
 "CYPRESS","2026-03-06","33","<a href=https://ratings.uschess.org/event/202603060223 target='_blank'>Knights of Cypress</a>",
 "SUGAR LAND","2026-03-06","16","<a href=https://ratings.uschess.org/event/202603060213 target='_blank'>FBCC 2026 National Dress in Blue Op</a>",
 "HOUSTON","2026-03-06","17","<a href=https://ratings.uschess.org/event/202603060163 target='_blank'>The Friday Knights</a>",
@@ -98,5 +99,4 @@ jtable([
 "HOUSTON","2025-12-07","30","<a href=https://ratings.uschess.org/event/202512070243 target='_blank'>$1,500 DECEMBER CHAMPIONSHIP</a>",
 "SUGAR LAND","2025-12-07","4","<a href=https://ratings.uschess.org/event/202512070103 target='_blank'>winter12072025</a>",
 "HOUSTON","2025-12-06","15","<a href=https://ratings.uschess.org/event/202512060393 target='_blank'>chesspanda12062025saturday</a>",
-"SUGAR LAND","2025-12-05","16","<a href=https://ratings.uschess.org/event/202512050403 target='_blank'>FBCC Levy Rozman Birthday Open</a>",
 ]);
