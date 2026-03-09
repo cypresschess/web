@@ -2,36 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Krishnan Sasikiran is an absolute legend of Indian chess. In recent times, he has lost some rating, but his strength has never been in doubt. He proved what an evergreen champion he is by winning the Prague Open ahead of 11 GMs and 23 IMs. He did so by executing a brilliant combination in his seventh round game against Eren Ataberk! This was described by Sasikiran as one of the best combinations of his career. | Photo: Prajwal Bhat",
+         "description" : "The Championship Bracket finals at the American Cup concluded on Sunday at the Saint Louis Chess Club. In the open section, Wesley So recovered from a first-game loss to defeat Fabiano Caruana in blitz tiebreaks and advance to the Grand Final. In the women's event, defending champion Alice Lee beat Carissa Yip in blitz to continue her streak of appearances in the deciding match, while the Elimination Brackets will determine their challengers. | Photo: Saint Louis Chess Club / Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/beautiful-combination-sasikiran-2026",
-         "pubDate" : "Sun, 08 Mar 2026 18:55:00",
-         "title" : "The most beautiful combination of Sasikiran's chess career"
+         "link" : "https://en.chessbase.com/post/american-cup-2026-d6",
+         "pubDate" : "Mon, 09 Mar 2026 05:20:00",
+         "title" : "American Cup: So and Lee win Championship Brackets"
       },
       {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST) | Pictured: Anna Sarsyan | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2026-live",
-         "pubDate" : "Sun, 08 Mar 2026 17:50:00",
-         "title" : "The American Cup - Live!"
-      },
-      {
-         "description" : "Throughout March, the FIDE Commission for Women's Chess is coordinating the global Chess Women's Day Celebration, encouraging federations, clubs and organisers to stage events that promote women and girls in chess. Under the theme \"Visible, Connected, Worldwide\", the programme includes tournaments, training activities and online competitions across several continents. | Photo: XV Radzikowska Memorial",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-women-day-2026",
-         "pubDate" : "Sun, 08 Mar 2026 17:20:00",
-         "title" : "Chess Women's Day celebration 2026: Visible, connected, worldwide"
-      },
-      {
-         "description" : "Analyses with ChessBase&acute;26 are flexible: insights gained can be added to or changed at any time. This often leads to a re-evaluation of variations. In this tutorial episode, we will therefore explain how you can upgrade variations and insert or change evaluations. We will show how practical this is with the quick access bars next to and below the notation.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-6-quick-access-toolbars-and-variation-hierarchies",
-         "pubDate" : "Sun, 08 Mar 2026 07:00:00",
-         "title" : "ChessBase&acute;26 - Tips for Beginners, Part 6: Quick access toolbars and variation hierarchies"
+         "description" : "GM Wesley So, trailing by a point against GM Fabiano Caruana in the&#38;nbsp; The American Cup 2026 Champions Final, needed to win on demand just to stay alive. He did just that, in an opposite-color bishop endgame, and then won the blitz playoffs to ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-6",
+         "pubDate" : "Sun, 08 Mar 2026 20:27:43",
+         "title" : "Wesley So, Alice Lee Reach Grand Finals"
       },
       {
          "description" : " Artefacts include souvenirs from 1972 'Match of the Century' between Boris Spassky and Bobby Fischer A vast collection of chess memorabilia, including souvenirs from the 1972 \"Match of the Century\" and considered to be the largest and most important of its kind in private hands, is to be auctioned at Sotheby's in London next month. The collection belonged to the German grandmaster Lothar Schmid, whose passion for the sport extended way beyond the board. <a href=\"https://www.theguardian.com/sport/2026/mar/08/chess-grandmasters-lothar-schmid-memorabilia-sotheby-auction-london\">Continue reading...</a>",
@@ -56,22 +40,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-mar-7-2026",
          "pubDate" : "Sat, 07 Mar 2026 17:06:00",
          "title" : "Bortnyk Wins 'One Of The Hardest' Bullet Brawls Yet"
-      },
-      {
-         "description" : "The Championship Bracket finals at the American Cup were set on Friday. In the open section, top seeds Fabiano Caruana and Wesley So advanced after winning their matches in blitz tiebreaks, while Sam Sevian and Awonder Liang were knocked down to the Elimination Bracket. In the women's event, Carissa Yip and defending champion Alice Lee secured classical victories to reach the final, leaving Tatev Abrahamyan and Zoey Tang fighting to stay in contention. | Photo: Saint Louis Chess Club / Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2026-d4",
-         "pubDate" : "Sat, 07 Mar 2026 17:00:00",
-         "title" : "American Cup: Favourites advance in Championship Brackets"
-      },
-      {
-         "description" : "On Sunday, March 8, Kasparov Chess Foundation Academy will host a lecture by Vladimir Tukmakov. Drawing from his remarkable career spanning decades at the highest levels of chess, Tukmakov will guide participants through some of his most memorable and instructive victories against legendary opponents. Chess enthusiasts can look forward to an intimate journey into the grandmaster's decision-making process, revealing the ideas and insights behind his finest achievements at the board.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/my-instructive-wins-against-greats",
-         "pubDate" : "Sat, 07 Mar 2026 15:00:00",
-         "title" : "My Instructive Wins Against Greats"
       },
       {
          "description" : "When you solve tactics in training, it feels easy peasy. Once you know there is a tactic, finding that fork, bishop sacrifice, or checkmate combination is relatively easy. But then you sit down to play a real game. Suddenly, you feel uncertain. Do I have to look for a tactic? Does it really work? Or []",
@@ -410,14 +378,6 @@ news_feed (
          "title" : "12-Year-Old Faustino Oro Rises To No. 5 On Chess.com, Eyes Youngest GM Record"
       },
       {
-         "description" : "IM Reza Mahdavi followed up his win in the final 3 0 Thursday the previous week by winning the opening 3 0 Thursday on February 26. Not to be outdone, IM Renato Terry won the second tournament of the day with his record seventh title overall. GM A...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/3-0-thursday-mahdavi-terry-arjun-2-26-2026",
-         "pubDate" : "Fri, 27 Feb 2026 13:08:46",
-         "title" : "Repeat Winners Dominate 3 0 Thursday, Arjun Joins The Club"
-      },
-      {
          "description" : " GM Matthew Wadsworth won in Ryde on tiebreak, Scottish GM Matthew Turner also shared first, while in Graz Scotland's Freddy Waldhausen Gordon, 15, qualified for the IM title In just two years, the <a href=\"https://www.iowchess.com/\">Isle of Wight Masters</a> at Ryde school has become established as one of Britain's most popular events. Its scenic ambience, impressive organisation and competitive spirit have combined to attract a strong international entry. Last weekend GM Matthew Wadsworth emerged first on tie-break ahead of IM Tobias Koelle (Germany) and GM Matthew Turner (Scotland) after the trio all scored 7/9. Wadsworth also won in 2025. <a href=\"https://www.theguardian.com/sport/2026/f",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -664,14 +624,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-challenge-solutions",
          "pubDate" : "Tue, 17 Feb 2026 11:27:02",
          "title" : "Endgame Challenge Solutions"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128411369.cms\" />Magnus Carlsen won the 2026 FIDE Freestyle Chess World Championship in Germany, defeating Fabiano Caruana 2.5-1.5. A crucial comeback win in game three helped him secure the title, clinched with a draw in the final game. It is the first FIDE-recognised Freestyle world title and Carlsen's 21st overall. Abdusattorov finished third, and the top three qualified for 2027.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/another-world-title-magnus-carlsen-clinches-fide-freestyle-chess-world-championship-2026/articleshow/128411369.cms",
-         "pubDate" : "Mon, 16 Feb 2026 07:04:21",
-         "title" : "Carlsen clinches FIDE Freestyle Chess World Championship 2026"
       }
    ]
 }
