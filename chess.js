@@ -26,6 +26,14 @@ news_feed (
          "title" : "European Junior U20 Chess Championship 2026 - Official invitation"
       },
       {
+         "description" : "Argentinian prodigy IM Faustino Oro came within one victory of making chess history before losing the final round of the Aeroflot Open last week. Despite the loss, the youngster ended the tournament with a rating gain and remained positive about a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/faustino-oro-misses-historic-gm-record",
+         "pubDate" : "Mon, 09 Mar 2026 08:15:00",
+         "title" : "'I Will Become A Grandmaster Soon': Faustino Oro Falls Short Of Youngest GM Record"
+      },
+      {
          "description" : "The Championship Bracket finals at the American Cup concluded on Sunday at the Saint Louis Chess Club. In the open section, Wesley So recovered from a first-game loss to defeat Fabiano Caruana in blitz tiebreaks and advance to the Grand Final. In the women's event, defending champion Alice Lee beat Carissa Yip in blitz to continue her streak of appearances in the deciding match, while the Elimination Brackets will determine their challengers. | Photo: Saint Louis Chess Club / Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,11 +42,11 @@ news_feed (
          "title" : "American Cup: So and Lee win Championship Brackets"
       },
       {
-         "description" : "GM Wesley So, trailing by a point against GM Fabiano Caruana in the&#38;nbsp; The American Cup 2026 Champions Final, needed to win on demand just to stay alive. He did just that, in an opposite-color bishop endgame, and then won the blitz playoffs to ...",
+         "description" : "GM Wesley So, trailing by a point against GM Fabiano Caruana in The American Cup 2026 Champions Final, needed to win on demand just to stay alive. He did just that, in an opposite-color bishop endgame, and then won the blitz playoffs to advance to...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-6",
-         "pubDate" : "Sun, 08 Mar 2026 20:27:43",
+         "pubDate" : "Sun, 08 Mar 2026 20:27:00",
          "title" : "Wesley So, Alice Lee Reach Grand Finals"
       },
       {
@@ -392,14 +400,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-3",
          "pubDate" : "Fri, 27 Feb 2026 17:11:00",
          "title" : "Van Foreest Knocks Gukesh Out Of Top 10"
-      },
-      {
-         "description" : "Argentinian prodigy IM Faustino Oro continues to break barriers. In recent weeks, he climbed to fifth on the Chess.com blitz leaderboard. On Saturday, the youngster begins his hunt for his final grandmaster norm, which could make him the youngest ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/faustino-oro-hits-5-on-chess-com-ahead-chasing-gm-title",
-         "pubDate" : "Fri, 27 Feb 2026 13:30:00",
-         "title" : "12-Year-Old Faustino Oro Rises To No. 5 On Chess.com, Eyes Youngest GM Record"
       },
       {
          "description" : " GM Matthew Wadsworth won in Ryde on tiebreak, Scottish GM Matthew Turner also shared first, while in Graz Scotland's Freddy Waldhausen Gordon, 15, qualified for the IM title In just two years, the <a href=\"https://www.iowchess.com/\">Isle of Wight Masters</a> at Ryde school has become established as one of Britain's most popular events. Its scenic ambience, impressive organisation and competitive spirit have combined to attract a strong international entry. Last weekend GM Matthew Wadsworth emerged first on tie-break ahead of IM Tobias Koelle (Germany) and GM Matthew Turner (Scotland) after the trio all scored 7/9. Wadsworth also won in 2025. <a href=\"https://www.theguardian.com/sport/2026/f",
