@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Krishnan Sasikiran is an absolute legend of Indian chess. In recent times, he has lost some rating, but his strength has never been in doubt. He proved what an evergreen champion he is by winning the Prague Open ahead of 11 GMs and 23 IMs. He did so by executing a brilliant combination in his seventh round game against Eren Ataberk! This was described by Sasikiran as one of the best combinations of his career. | Photo: Prajwal Bhat",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/beautiful-combination-sasikiran-2026",
+         "pubDate" : "Sun, 08 Mar 2026 18:55:00",
+         "title" : "The most beautiful combination of Sasikiran's chess career"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST) | Pictured: Anna Sarsyan | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
