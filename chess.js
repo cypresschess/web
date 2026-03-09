@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST) | Pictured: Carissa Yip | Photo: Austin Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2026-live",
+         "pubDate" : "Mon, 09 Mar 2026 17:50:00",
+         "title" : "The American Cup - Live!"
+      },
+      {
+         "description" : "We all know about the explosive growth of Indian chess: super-talents springing like mushrooms in the rain. But have you noticed that there are first signs of a similar development in Turkey? Is that going to be the next great chess hub? Well, yes, if things go the way investor and entrepreneur Evren Üçok has planned. Here's what he is doing for Turkish - and international - chess talents.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-billionaire-supports-chess-talents",
+         "pubDate" : "Mon, 09 Mar 2026 17:30:00",
+         "title" : "A billionaire supports chess talents"
+      },
+      {
+         "description" : "Andrey Volgin defeated Henry Michael through the Final Reset route to win the eight-player final of the Chess.com Atomic Chess Championship 2026. Michael defeated Volgin in a fight between the two untitled players in the Winners Final of the doubl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/volgin-wins-2026-atomic-chess-championship",
+         "pubDate" : "Mon, 09 Mar 2026 11:59:47",
+         "title" : "Andrey Volgin Wins Atomic Chess Championship 2026"
+      },
+      {
          "description" : "Can you stop the black pawn on a2 from promoting - and in fact win this position for White? Today we have a new challenge that will tell you if you can handle pawn promotions like a master. Test your skills on four tricky positions. The solutions, with full video explanations, will come in a week. Learn and enjoy.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -392,14 +416,6 @@ news_feed (
          "link" : "https://aicf.in/certificates-of-sna-seminar-exam-in-ahmedabad-on-02-03-jan-2026/",
          "pubDate" : "Sat, 28 Feb 2026 08:04:17",
          "title" : "Certificates of SNA Seminar & Exam in Ahmedabad on 02 & 03 Jan 2026"
-      },
-      {
-         "description" : "GM Jorden van Foreest has now beaten both the top seed and the world champion in Prague after sacrificing a rook to defeat GM Gukesh Dommaraju in round three of the 2026 Prague Chess Festival Masters. Van Foreest moved into a four-way tie for firs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-3",
-         "pubDate" : "Fri, 27 Feb 2026 17:11:00",
-         "title" : "Van Foreest Knocks Gukesh Out Of Top 10"
       },
       {
          "description" : " GM Matthew Wadsworth won in Ryde on tiebreak, Scottish GM Matthew Turner also shared first, while in Graz Scotland's Freddy Waldhausen Gordon, 15, qualified for the IM title In just two years, the <a href=\"https://www.iowchess.com/\">Isle of Wight Masters</a> at Ryde school has become established as one of Britain's most popular events. Its scenic ambience, impressive organisation and competitive spirit have combined to attract a strong international entry. Last weekend GM Matthew Wadsworth emerged first on tie-break ahead of IM Tobias Koelle (Germany) and GM Matthew Turner (Scotland) after the trio all scored 7/9. Wadsworth also won in 2025. <a href=\"https://www.theguardian.com/sport/2026/f",
