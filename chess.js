@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Can you stop the black pawn on a2 from promoting - and in fact win this position for White? Today we have a new challenge that will tell you if you can handle pawn promotions like a master. Test your skills on four tricky positions. The solutions, with full video explanations, will come in a week. Learn and enjoy.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/can-you-handle-pawns",
+         "pubDate" : "Mon, 09 Mar 2026 11:30:00",
+         "title" : "Can you handle pawns?"
+      },
+      {
+         "description" : "Please find the certificates.For any query please write back to Indianchessfed@gmail.com Batch 1 Batch 2 No Candidate name No. Candidate Name 1 Manikandan Palaniappun 1",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-sna-seminar-exam-in-madurai-on-27-28-december-2025/",
+         "pubDate" : "Mon, 09 Mar 2026 09:46:01",
+         "title" : "Certificate :SNA Seminar & Exam in Madurai on 27 & 28 December 2025"
+      },
+      {
+         "description" : "Montenegro Chess Federation (MCF) and the European Chess Union (ECU) have the honor to invite all the National Federations members of the European Chess Union to participate in the European Junior U20 Chess Championship 2026 which will be held at Hotel Grand, Cetinje, Montenegro, from 5th August to 16th August 2026. The event will be played in two categories: Open U20 and Girls U20, with 9 swiss rounds in each competition, and the time control of 90 minutes for the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-junior-u20-chess-championship-2026-official-invitation/",
+         "pubDate" : "Mon, 09 Mar 2026 08:33:57",
+         "title" : "European Junior U20 Chess Championship 2026 - Official invitation"
+      },
+      {
          "description" : "The Championship Bracket finals at the American Cup concluded on Sunday at the Saint Louis Chess Club. In the open section, Wesley So recovered from a first-game loss to defeat Fabiano Caruana in blitz tiebreaks and advance to the Grand Final. In the women's event, defending champion Alice Lee beat Carissa Yip in blitz to continue her streak of appearances in the deciding match, while the Elimination Brackets will determine their challengers. | Photo: Saint Louis Chess Club / Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
