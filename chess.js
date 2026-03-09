@@ -58,14 +58,6 @@ news_feed (
          "title" : "'I Will Become A Grandmaster Soon': Faustino Oro Falls Short Of Youngest GM Record"
       },
       {
-         "description" : "The Championship Bracket finals at the American Cup concluded on Sunday at the Saint Louis Chess Club. In the open section, Wesley So recovered from a first-game loss to defeat Fabiano Caruana in blitz tiebreaks and advance to the Grand Final. In the women's event, defending champion Alice Lee beat Carissa Yip in blitz to continue her streak of appearances in the deciding match, while the Elimination Brackets will determine their challengers. | Photo: Saint Louis Chess Club / Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2026-d6",
-         "pubDate" : "Mon, 09 Mar 2026 05:20:00",
-         "title" : "American Cup: So and Lee win Championship Brackets"
-      },
-      {
          "description" : "GM Wesley So, trailing by a point against GM Fabiano Caruana in The American Cup 2026 Champions Final, needed to win on demand just to stay alive. He did just that, in an opposite-color bishop endgame, and then won the blitz playoffs to advance to...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
