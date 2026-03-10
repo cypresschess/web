@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The contenders of the Grand Finals in both sections of the American Cup were confirmed in Saint Louis after the conclusion of the Elimination Bracket finals. In the open section, Levon Aronian joined Wesley So in the Grand Final after defeating Fabiano Caruana. Meanwhile, in the women's event, Carissa Yip secured a rematch with defending champion Alice Lee by overcoming Tatev Abrahamyan. | Photo: Saint Louis Chess Club / Crystal Fuller",
+         "description" : "In his latest column, Jon Speelman reflects on the career and personality of Dutch GM Jan Timman following the news of his passing. Speelman recalls their encounters over the board, including games from their 1989 Candidates' match in London. \"Away from the board, Jan was always excellent company and I always thought that he was one of the very nicest of the generation just a few years older than me\". | Pictured: Jan Timman at the 1996 Hoogovens Tournament in Wijk aan Zee | Photo: Fotopersbureau De Boer / Noord-Hollands Archief",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-237",
+         "pubDate" : "Tue, 10 Mar 2026 12:00:00",
+         "title" : "Jon Speelman: Battles with Jan"
+      },
+      {
+         "description" : "The contenders of the Grand Finals in both sections of the American Cup were confirmed in Saint Louis after the conclusion of the Elimination Bracket finals. In the open section, Levon Aronian joined Wesley So in the Grand Final after defeating Fabiano Caruana. Meanwhile, in the women's event, Carissa Yip secured a rematch with defending champion Alice Lee by overcoming Tatev Abrahamyan. | Photo: Saint Louis Chess Club / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/american-cup-2026-d7",
@@ -640,14 +648,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/record-52500-prize-pot-announced-as-entries-open-for-2026-british-chess-championships-in-coventry/",
          "pubDate" : "Thu, 19 Feb 2026 09:00:25",
          "title" : "Record &pound;52,500 prize pot announced as entries open for 2026 British Chess Championships in Coventry!"
-      },
-      {
-         "description" : "Were you able to solve the challenge positions we gave you last week? Were you able to defeat the diagrams, which defended tenatiously? Today we bring you all solutions, with very instructive video explanations by Jared Modica, a chess content creator from Austin, Texas. He shows us how to solve tatical lines of play, and how to handle pawns in endgames.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-challenge-solutions",
-         "pubDate" : "Tue, 17 Feb 2026 11:27:02",
-         "title" : "Endgame Challenge Solutions"
       }
    ]
 }
