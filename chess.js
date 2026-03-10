@@ -18,6 +18,14 @@ news_feed (
          "title" : "Chess Olympiad: Cloud power for your national squad"
       },
       {
+         "description" : "GM Sina Movahed, the 15-year-old Iranian grandmaster coming off of victory in the Under-16 ChessKid Youth Championship, became the first player to score 10.5 points in a Titled Tuesday in 2026 on March 10, going to wire-to-wire to win the tourname...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/movahed-wins-titled-tuesday-march-10-2026",
+         "pubDate" : "Tue, 10 Mar 2026 12:56:56",
+         "title" : "Dominant Movahed Wins Titled Tuesday On 10.5 Points"
+      },
+      {
          "description" : "In his latest column, Jon Speelman reflects on the career and personality of Dutch GM Jan Timman following the news of his passing. Speelman recalls their encounters over the board, including games from their 1989 Candidates' match in London. \"Away from the board, Jan was always excellent company and I always thought that he was one of the very nicest of the generation just a few years older than me\". | Pictured: Jan Timman at the 1996 Hoogovens Tournament in Wijk aan Zee | Photo: Fotopersbureau De Boer / Noord-Hollands Archief",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +42,12 @@ news_feed (
          "title" : "India slides down in 2026 GECI rankings: How can it be improved?"
       },
       {
-         "description" : "GM Sina Movahed defeated last year&#39;s champion, GM Yagiz Erdogmus, in the 2026 ChessKid Youth Championship U16 finals. The two teenage GMs tied for first place in the A Group in the preliminary round robin tournament, before defeating the top finis...",
+         "description" : "GM Sina Movahed defeated GM Yagiz Erdogmus, in the 2026 ChessKid Youth Championship U16 finals. The two teenage GMs tied for first place in the A Group in the preliminary round robin tournament, before defeating the top finishers in the B group, d...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/movahed-wins-2026-u16-chesskid-youth-championships",
          "pubDate" : "Tue, 10 Mar 2026 07:51:00",
-         "title" : "Movahed Unseats Erdogmus In Thrilling Chesskid Youth Championship"
+         "title" : "Movahed Defeats Erdogmus In Thrilling Chesskid Youth Championship"
       },
       {
          "description" : "The contenders of the Grand Finals in both sections of the American Cup were confirmed in Saint Louis after the conclusion of the Elimination Bracket finals. In the open section, Levon Aronian joined Wesley So in the Grand Final after defeating Fabiano Caruana. Meanwhile, in the women's event, Carissa Yip secured a rematch with defending champion Alice Lee by overcoming Tatev Abrahamyan. | Photo: Saint Louis Chess Club / Lennart Ootes",
@@ -392,22 +400,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/just-rules-short-quiz-time",
          "pubDate" : "Mon, 02 Mar 2026 00:00:00",
          "title" : "Just the Rules: Short Quiz Time!"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov won another rollercoaster game against World Champion Gukesh Dommaraju to join GM David Navara in second place in the 2026 Prague Chess Festival Masters after five rounds. Navara won a beautiful game against GM Nodirbek Ya...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-5",
-         "pubDate" : "Sun, 01 Mar 2026 17:31:00",
-         "title" : "Abdusattorov Beats Gukesh Again, Van Foreest Hits World No. 11"
-      },
-      {
-         "description" : "GM Mikhail Antipov won the 2026 Saint Louis Masters with 7.5/9 to earn the $25,000 first prize. He and GM Fabiano Caruana were neck and neck going into the last round, and both had the black pieces. Antipov managed to win his last game against GM ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/antipov-wins-2026-saint-louis-masters",
-         "pubDate" : "Sun, 01 Mar 2026 15:35:00",
-         "title" : "Antipov Leapfrogs Caruana To Win 2026 Saint Louis Masters"
       },
       {
          "description" : "When I first saw Jan Timman, he seemed less a chess player than a figure escaped from literature. At the junior team championship in The Hague in 1967, I encountered a young man whose appearance struck me with such force that I immediately thought of Tadzio from Death in Venice. He possessed that same luminous, almost []",
