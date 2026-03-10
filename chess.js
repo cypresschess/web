@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Success in world-class chess is built long before the game begins. With the \"Federation Package\", developed specifically for national federations, players and coaches gain access to the complete professional ChessBase software, the world's largest chess database, and powerful cloud analysis - at a price that provides up to five times more computing power than individual solutions! A long-term investment that will measurably enhance the performance of the entire team.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-cloud-power",
+         "pubDate" : "Tue, 10 Mar 2026 14:00:00",
+         "title" : "Chess Olympiad: Cloud power for your national squad"
+      },
+      {
          "description" : "In his latest column, Jon Speelman reflects on the career and personality of Dutch GM Jan Timman following the news of his passing. Speelman recalls their encounters over the board, including games from their 1989 Candidates' match in London. \"Away from the board, Jan was always excellent company and I always thought that he was one of the very nicest of the generation just a few years older than me\". | Pictured: Jan Timman at the 1996 Hoogovens Tournament in Wijk aan Zee | Photo: Fotopersbureau De Boer / Noord-Hollands Archief",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,36 @@ news_feed (
          "title" : "Jon Speelman: Battles with Jan"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129388064.cms\" />India slipped to 25th in the 2026 Gender Equality in Chess Index (GECI), highlighting gender imbalance in the sport. Despite strong performances by elite women players, female participation in youth championships remains low, and many girls drop out early. Experts say social pressures, financial hurdles and lack of structured support limit opportunities, stressing the need for better grassroots development and long-term systems to promote women's chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-slides-down-in-2026-gender-equality-in-chess-index-rankings-how-can-it-be-improved/articleshow/129388064.cms",
+         "pubDate" : "Tue, 10 Mar 2026 11:30:58",
+         "title" : "India slides down in 2026 GECI rankings: How can it be improved?"
+      },
+      {
+         "description" : "GM Sina Movahed defeated last year&#39;s champion, GM Yagiz Erdogmus, in the 2026 ChessKid Youth Championship U16 finals. The two teenage GMs tied for first place in the A Group in the preliminary round robin tournament, before defeating the top finis...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/movahed-wins-2026-u16-chesskid-youth-championships",
+         "pubDate" : "Tue, 10 Mar 2026 07:51:58",
+         "title" : "Movahed Unseats Erdogmus In Thrilling Chesskid Youth Championship"
+      },
+      {
          "description" : "The contenders of the Grand Finals in both sections of the American Cup were confirmed in Saint Louis after the conclusion of the Elimination Bracket finals. In the open section, Levon Aronian joined Wesley So in the Grand Final after defeating Fabiano Caruana. Meanwhile, in the women's event, Carissa Yip secured a rematch with defending champion Alice Lee by overcoming Tatev Abrahamyan. | Photo: Saint Louis Chess Club / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/american-cup-2026-d7",
          "pubDate" : "Tue, 10 Mar 2026 05:45:00",
          "title" : "American Cup: Aronian and Yip win Elimination Brackets"
+      },
+      {
+         "description" : "Today's puzzles continue a series on the 2026 Saint Louis Masters (coverage here), won by GM Mikhail Antipov, who finished a half-point ahead of GM Fabiano Caruana to earn the $25,000 first-place prize. 70 players competed, including a number of top Americans (and five American Cup participants), as well as international norm seekers. Fire was on board from the top tables all the way through the standings, and we've got several weeks of educational entertainment as a result. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-masters-pt-2",
+         "pubDate" : "Tue, 10 Mar 2026 00:00:00",
+         "title" : "Tactics Tuesday: Saint Louis Masters, Pt. 2"
       },
       {
          "description" : "GM Levon Aronian lost the first rapid game of The American Cup 2026 Elimination Final, but came back in the second game to even the score against GM Fabiano Caruana. He then won the match in blitz tiebreaks and will face GM Wesley So in the Grand ...",
@@ -370,14 +402,6 @@ news_feed (
          "title" : "Antipov Leapfrogs Caruana To Win 2026 Saint Louis Masters"
       },
       {
-         "description" : "GM Jorden van Foreest is now the sole leader of the 2026 Prague Chess Festival Masters on 3/4 after beating GM Nodirbek Yakubboev, with the Dutch star overtaking World Champion Gukesh Dommaraju on the live rating list. Gukesh was frustrated by fin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-4",
-         "pubDate" : "Sat, 28 Feb 2026 17:48:00",
-         "title" : "Keymer Grabs 1st Win As Van Foreest Overtakes Gukesh On Live Rating List"
-      },
-      {
          "description" : "When I first saw Jan Timman, he seemed less a chess player than a figure escaped from literature. At the junior team championship in The Hague in 1967, I encountered a young man whose appearance struck me with such force that I immediately thought of Tadzio from Death in Venice. He possessed that same luminous, almost []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -504,14 +528,6 @@ news_feed (
          "link" : "https://aicf.in/vacancy-announcement-4/",
          "pubDate" : "Tue, 24 Feb 2026 07:31:12",
          "title" : "Vacancy Announcement"
-      },
-      {
-         "description" : "For Black History Month, Chess Life Online has so far spotlighted the accomplishments of two Black players (Jacorey Bynum and IM Tani Adewumi), in addition to year-round coverage focusing on American chessplayers from diverse backgrounds.Today we shift attention to two prominent Black coaches: Detroit's Derek Wilder and New York City's WFM Perpetual Ogbiyoyo.Originally, these were going to be two separate profile pieces, highlighting the individual accomplishments, experiences, and philosophies of each coach. But, taking the two interviews (see below) together, what becomes clear is that there is no single \"best\" or \"right\" coaching philosophy. What makes each of Wilder and Ogbiyoyo excellen",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/coaches-profile-wfm-perpetual-ogbiyoyo-and-derek-wilder",
-         "pubDate" : "Tue, 24 Feb 2026 00:00:00",
-         "title" : "Coaches Profile: WFM Perpetual Ogbiyoyo and Derek Wilder"
       },
       {
          "description" : "After a seven-year hiatus, a team competition that enjoys a unique place in London's chess calendar is back and has restarted play: the Bronowski Trophy. &#160; Named after the late...",
