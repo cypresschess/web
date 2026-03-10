@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST) | Pictured: Alice Lee | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2026-live",
+         "pubDate" : "Tue, 10 Mar 2026 17:50:00",
+         "title" : "The American Cup - Live!"
+      },
+      {
          "description" : "Success in world-class chess is built long before the game begins. With the \"Federation Package\", developed specifically for national federations, players and coaches gain access to the complete professional ChessBase software, the world's largest chess database, and powerful cloud analysis - at a price that provides up to five times more computing power than individual solutions! A long-term investment that will measurably enhance the performance of the entire team.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/movahed-wins-2026-u16-chesskid-youth-championships",
-         "pubDate" : "Tue, 10 Mar 2026 07:51:58",
+         "pubDate" : "Tue, 10 Mar 2026 07:51:00",
          "title" : "Movahed Unseats Erdogmus In Thrilling Chesskid Youth Championship"
       },
       {
@@ -90,7 +98,7 @@ news_feed (
          "title" : "European Junior U20 Chess Championship 2026 - Official invitation"
       },
       {
-         "description" : "Argentinian prodigy IM Faustino Oro came within one victory of making chess history before losing the final round of the Aeroflot Open last week. Despite the loss, the youngster ended the tournament with a rating gain and remained positive about a...",
+         "description" : "Argentinian prodigy IM Faustino Oro came within one victory of making chess history before losing the final round of the 2026 Aeroflot Open last week. Despite the loss, the youngster ended the tournament with a rating gain and remained positive ab...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/faustino-oro-misses-historic-gm-record",
