@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST) | Pictured: Carissa Yip | Photo: Austin Fuller",
+         "description" : "The contenders of the Grand Finals in both sections of the American Cup were confirmed in Saint Louis after the conclusion of the Elimination Bracket finals. In the open section, Levon Aronian joined Wesley So in the Grand Final after defeating Fabiano Caruana. Meanwhile, in the women's event, Carissa Yip secured a rematch with defending champion Alice Lee by overcoming Tatev Abrahamyan. | Photo: Saint Louis Chess Club / Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2026-live",
-         "pubDate" : "Mon, 09 Mar 2026 17:50:00",
-         "title" : "The American Cup - Live!"
+         "link" : "https://en.chessbase.com/post/american-cup-2026-d7",
+         "pubDate" : "Tue, 10 Mar 2026 05:45:00",
+         "title" : "American Cup: Aronian and Yip win Elimination Brackets"
       },
       {
-         "description" : "We all know about the explosive growth of Indian chess: super-talents springing like mushrooms in the rain. But have you noticed that there are first signs of a similar development in Turkey? Is that going to be the next great chess hub? Well, yes, if things go the way investor and entrepreneur Evren Üçok has planned. Here's what he is doing for Turkish - and international - chess talents.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-billionaire-supports-chess-talents",
-         "pubDate" : "Mon, 09 Mar 2026 17:30:00",
-         "title" : "A billionaire supports chess talents"
+         "description" : "GM Levon Aronian lost the first rapid game of The American Cup 2026 Elimination Final, but came back in the second game to even the score against GM Fabiano Caruana. He then won the match in blitz tiebreaks and will face GM Wesley So in the Grand ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-7",
+         "pubDate" : "Mon, 09 Mar 2026 21:37:11",
+         "title" : "Aronian, Yip Advance To Grand Finals Vs. Wesley So, Lee"
       },
       {
          "description" : "Andrey Volgin defeated Henry Michael through the Final Reset route to win the eight-player final of the Chess.com Atomic Chess Championship 2026. Michael defeated Volgin in a fight between the two untitled players in the Winners Final of the doubl...",
@@ -368,14 +368,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-4",
          "pubDate" : "Sat, 28 Feb 2026 17:48:00",
          "title" : "Keymer Grabs 1st Win As Van Foreest Overtakes Gukesh On Live Rating List"
-      },
-      {
-         "description" : "GM Andrew Tang secured his 15th career Bullet Brawl title on Saturday after laying down one of the best recent performances. Having stopped challenges by GMs Arjun Erigaisi and Nihal Sarin, Tang stormed home to a 15th career victory. With 50 win...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-feb-28-2026",
-         "pubDate" : "Sat, 28 Feb 2026 17:31:00",
-         "title" : "Tang Defeats 8 GMs During Streak, Denies Indian Superstars"
       },
       {
          "description" : "When I first saw Jan Timman, he seemed less a chess player than a figure escaped from literature. At the junior team championship in The Hague in 1967, I encountered a young man whose appearance struck me with such force that I immediately thought of Tadzio from Death in Venice. He possessed that same luminous, almost []",
