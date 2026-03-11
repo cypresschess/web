@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
+         "pubDate" : "Wed, 11 Mar 2026 14:07:09",
+         "title" : "In-Person ECF Level 1 Arbiter Course plus intro to Swiss Manager and DGT Electronic Board handling"
+      },
+      {
+         "description" : "Last Sunday, on 8 March, Serbian grandmaster Slavoljub Marjanovic passed away. In the 1980s he was one of Yugoslavia's strongest players and won a team bronze medal at the 1980 Chess Olympiad. After the end of his professional career, he made a name for himself as a coach. | Photo: ECU",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/slavoljub-marjanovic-1955-2026",
+         "pubDate" : "Wed, 11 Mar 2026 12:41:23",
+         "title" : "Remembering Slavoljub Marjanovic (1955-2026)"
+      },
+      {
          "description" : "Ashwin Subramanian is a technology evangelist: a software engineering manager at Intel, but also a brilliant photographer, who fortunately for us is very enthusiastic about chess. Ashwin uses his free time visiting major tournaments and sends us marvellous pictures that capture the atmosphere at the events. We will share them with you...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
