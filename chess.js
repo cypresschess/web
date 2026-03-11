@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Women's Candidates Tournament 2026 will take place from 28 March to 16 April in Cap St. Georges Hotel & Resort, Cyprus, where eight leading players will compete in a double round-robin to decide the challenger to the reigning champion, Ju Wenjun. The field combines experienced Candidates participants such as Humpy Koneru and Tan Zhongyi with younger contenders including Zhu Jiner and Divya Deshmukh. | Image: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2026-clash-of-generations",
+         "pubDate" : "Wed, 11 Mar 2026 23:00:00",
+         "title" : "Women's Candidates Tournament 2026: A clash of generations"
+      },
+      {
+         "description" : "Chess tournaments have a way of running so smoothly that spectators rarely stop to think about why. That seamless experience is no accident, it's the result of dedicated people working tirelessly behind the scenes to ensure everything goes according to plan. At the Prague International Chess Festival, organizer Petr Boleslav leads a close-knit team of helpers, many of whom he has known for years and who themselves come from a chess background. ChessBase sat down with several of them to offer a glimpse into the world behind the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-international-chess-festival-2026-behind-the-scenes",
+         "pubDate" : "Wed, 11 Mar 2026 20:26:43",
+         "title" : "Prague International Chess Festival 2026 - Behind the scenes"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST) | Pictured: Carissa Yip | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/american-cup-2026-live",
          "pubDate" : "Wed, 11 Mar 2026 17:50:00",
          "title" : "The American Cup - Live!"
+      },
+      {
+         "description" : "GM Wesley So won his maiden title in The American Cup 2026 on Wednesday. After winning the first game against GM Levon Aronian, he held the necessary draw in game two to secure the match. He makes $75,000 plus another $15,000 bonus for winning the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wesley-so-wins-2026-the-american-cup",
+         "pubDate" : "Wed, 11 Mar 2026 15:14:43",
+         "title" : "Wesley So Wins Maiden Title, Yip Takes 1st Match Vs. Lee"
       },
       {
          "description" : "",
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-for-national-rapid-chess-championship-2025-26-in-jharkhand-from-11-13-march-2026/",
          "pubDate" : "Wed, 11 Mar 2026 06:38:05",
          "title" : "Live link for National Rapid Chess Championship 2025-26 in Jharkhand from 11-13 March 2026"
-      },
-      {
-         "description" : "The Grand Finals of the American Cup began with the first classical games in Saint Louis. In the open section, Wesley So defeated Levon Aronian to take the lead in the match after a convincing performance with the white pieces. Meanwhile, the women's Grand Final between Carissa Yip and Alice Lee ended in a draw, with both players obtaining promising chances at different stages of the game. | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2026-d8",
-         "pubDate" : "Wed, 11 Mar 2026 05:35:00",
-         "title" : "American Cup: So strikes first"
       },
       {
          "description" : "Today's puzzles continue a series on the 2026 Saint Louis Masters (coverage here), won by GM Mikhail Antipov, who finished a half-point ahead of GM Fabiano Caruana to earn the $25,000 first-place prize. 70 players competed, including a number of top Americans (and five American Cup participants), as well as international norm seekers. Fire was on board from the top tables all the way through the standings, and we've got several weeks of educational entertainment as a result. For more puzzles from this event that are more beginner-friendly, check out our Tactics Tuesday series beginning here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable workshee",
@@ -384,14 +400,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-6",
          "pubDate" : "Tue, 03 Mar 2026 16:56:00",
          "title" : "Aravindh Condemns Gukesh To 3rd Loss"
-      },
-      {
-         "description" : "GM Javokhir Sindarov won Titled Tuesday on March 3 as the Spring Split, the third and final portion of the 2025-26 Titled Tuesday season, opened. Sindarov defeated GM Nihal Sarin in the final round and emerged as the victor on tiebreaks after co-l...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sindarov-wins-titled-tuesday-march-3-2026",
-         "pubDate" : "Tue, 03 Mar 2026 11:31:00",
-         "title" : "Sindarov Makes Rivals Pay For Quick Final-Round Draw, Wins Third Titled Tuesday Of Year"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128963986.cms\" />Sixteen-year-old Aarav Dengla has become India's 93rd Grandmaster (GM). Guided by his mother Shipra, who quit her job to support his career, Aarav rose rapidly from prodigy to champion. Initially trained by GM Pravin Thipsay and then under Vishnu Prasanna, and balancing rigorous academics, he sealed his final GM norm in 2026, emerging as Mumbai's third Grandmaster.",
