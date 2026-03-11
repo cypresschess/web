@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST) | Pictured: Carissa Yip | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2026-live",
+         "pubDate" : "Wed, 11 Mar 2026 17:50:00",
+         "title" : "The American Cup - Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/american-cup-2026-d8",
          "pubDate" : "Wed, 11 Mar 2026 05:35:00",
          "title" : "American Cup: So strikes first"
+      },
+      {
+         "description" : "Today's puzzles continue a series on the 2026 Saint Louis Masters (coverage here), won by GM Mikhail Antipov, who finished a half-point ahead of GM Fabiano Caruana to earn the $25,000 first-place prize. 70 players competed, including a number of top Americans (and five American Cup participants), as well as international norm seekers. Fire was on board from the top tables all the way through the standings, and we've got several weeks of educational entertainment as a result. For more puzzles from this event that are more beginner-friendly, check out our Tactics Tuesday series beginning here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable workshee",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-masters-pt-2",
+         "pubDate" : "Wed, 11 Mar 2026 00:00:00",
+         "title" : "Wednesday Workout: Saint Louis Masters, Pt. 2"
       },
       {
          "description" : "GM Wesley So has taken the lead in his match against&#38;nbsp;GM Levon Aronian in The American Cup 2026 Grand Final. It was an Italian Opening gone wrong for the Armenian-American, and So won a remarkably smooth game. Aronian must win the next game on...",
@@ -520,14 +536,6 @@ news_feed (
          "link" : "https://aicf.in/live-links-for-13th-national-amateur-chess-championship-2025-26/",
          "pubDate" : "Wed, 25 Feb 2026 07:38:31",
          "title" : "Live Links for 13th National Amateur Chess Championship 2025-26"
-      },
-      {
-         "description" : "This week's puzzles continue a series curated by WGM Sabina Foisor on the 2025 FIDE World Rapid &amp; Blitz. Our full report - with more analysis from Sabina - is available here. Keep an eye out for even more puzzles from this instructive annual event in coming weeks, and check out our Tactics Tuesday series with more beginner-friendly puzzles here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2025-world-rapid-blitz-pt-8",
-         "pubDate" : "Wed, 25 Feb 2026 00:00:00",
-         "title" : "Wednesday Workout: 2025 World Rapid & Blitz, Pt. 8"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128753885.cms\" />World champion D Gukesh criticised Vladimir Kramnik's cheating allegations, saying cheating has been made a bigger issue than it is. While firmly against unethical play, Gukesh said he does not support Kramnik's approach and called for harmony in chess. The 19-year-old spoke ahead of the Prague International Chess Festival, where he hopes to regain form.",
