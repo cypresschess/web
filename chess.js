@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find the live link&#160;below https://view.livechesscloud.com/#eece909b-5005-48f3-bb31-f8ca9b068220",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link-for-national-rapid-chess-championship-2025-26-in-jharkhand-from-11-13-march-2026/",
+         "pubDate" : "Wed, 11 Mar 2026 06:38:05",
+         "title" : "Live link for National Rapid Chess Championship 2025-26 in Jharkhand from 11-13 March 2026"
+      },
+      {
+         "description" : "The Grand Finals of the American Cup began with the first classical games in Saint Louis. In the open section, Wesley So defeated Levon Aronian to take the lead in the match after a convincing performance with the white pieces. Meanwhile, the women's Grand Final between Carissa Yip and Alice Lee ended in a draw, with both players obtaining promising chances at different stages of the game. | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2026-d8",
+         "pubDate" : "Wed, 11 Mar 2026 05:35:00",
+         "title" : "American Cup: So strikes first"
+      },
+      {
          "description" : "GM Wesley So has taken the lead in his match against&#38;nbsp;GM Levon Aronian in The American Cup 2026 Grand Final. It was an Italian Opening gone wrong for the Armenian-American, and So won a remarkably smooth game. Aronian must win the next game on...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-ccl-spring-midseason-update",
          "pubDate" : "Tue, 10 Mar 2026 19:04:14",
          "title" : "UTD Dominating Halfway Through Collegiate Chess League Spring Season"
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST) | Pictured: Alice Lee | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2026-live",
-         "pubDate" : "Tue, 10 Mar 2026 17:50:00",
-         "title" : "The American Cup - Live!"
       },
       {
          "description" : "Success in world-class chess is built long before the game begins. With the \"Federation Package\", developed specifically for national federations, players and coaches gain access to the complete professional ChessBase software, the world's largest chess database, and powerful cloud analysis - at a price that provides up to five times more computing power than individual solutions! A long-term investment that will measurably enhance the performance of the entire team.",
@@ -42,14 +50,6 @@ news_feed (
          "title" : "Dominant Movahed Wins Titled Tuesday On 10.5 Points"
       },
       {
-         "description" : "In his latest column, Jon Speelman reflects on the career and personality of Dutch GM Jan Timman following the news of his passing. Speelman recalls their encounters over the board, including games from their 1989 Candidates' match in London. \"Away from the board, Jan was always excellent company and I always thought that he was one of the very nicest of the generation just a few years older than me\". | Pictured: Jan Timman at the 1996 Hoogovens Tournament in Wijk aan Zee | Photo: Fotopersbureau De Boer / Noord-Hollands Archief",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-237",
-         "pubDate" : "Tue, 10 Mar 2026 12:00:00",
-         "title" : "Jon Speelman: Battles with Jan"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129388064.cms\" />India slipped to 25th in the 2026 Gender Equality in Chess Index (GECI), highlighting gender imbalance in the sport. Despite strong performances by elite women players, female participation in youth championships remains low, and many girls drop out early. Experts say social pressures, financial hurdles and lack of structured support limit opportunities, stressing the need for better grassroots development and long-term systems to promote women's chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -64,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/movahed-wins-2026-u16-chesskid-youth-championships",
          "pubDate" : "Tue, 10 Mar 2026 07:51:00",
          "title" : "Movahed Defeats Erdogmus In Thrilling ChessKid Youth Championship"
-      },
-      {
-         "description" : "The contenders of the Grand Finals in both sections of the American Cup were confirmed in Saint Louis after the conclusion of the Elimination Bracket finals. In the open section, Levon Aronian joined Wesley So in the Grand Final after defeating Fabiano Caruana. Meanwhile, in the women's event, Carissa Yip secured a rematch with defending champion Alice Lee by overcoming Tatev Abrahamyan. | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2026-d7",
-         "pubDate" : "Tue, 10 Mar 2026 05:45:00",
-         "title" : "American Cup: Aronian and Yip win Elimination Brackets"
       },
       {
          "description" : "Today's puzzles continue a series on the 2026 Saint Louis Masters (coverage here), won by GM Mikhail Antipov, who finished a half-point ahead of GM Fabiano Caruana to earn the $25,000 first-place prize. 70 players competed, including a number of top Americans (and five American Cup participants), as well as international norm seekers. Fire was on board from the top tables all the way through the standings, and we've got several weeks of educational entertainment as a result. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
