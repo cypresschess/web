@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Wesley So has taken the lead in his match against&#38;nbsp;GM Levon Aronian in The American Cup 2026 Grand Final. It was an Italian Opening gone wrong for the Armenian-American, and So won a remarkably smooth game. Aronian must win the next game on...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-8",
+         "pubDate" : "Tue, 10 Mar 2026 19:23:00",
+         "title" : "Wesley So Scores In 1st Game, Lee & Yip Stay Deadlocked"
+      },
+      {
+         "description" : "The University Of Texas At Dallas (UTD) was the top team in the Fall 2025 regular season of the Collegiate Chess League (CCL). However, in the playoffs, they fell just short, losing to St. Louis University (SLU) in the finals, 8.5-7.5. In the spri...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-ccl-spring-midseason-update",
+         "pubDate" : "Tue, 10 Mar 2026 19:04:14",
+         "title" : "UTD Dominating Halfway Through Collegiate Chess League Spring Season"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST) | Pictured: Alice Lee | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -47,7 +63,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/movahed-wins-2026-u16-chesskid-youth-championships",
          "pubDate" : "Tue, 10 Mar 2026 07:51:00",
-         "title" : "Movahed Defeats Erdogmus In Thrilling Chesskid Youth Championship"
+         "title" : "Movahed Defeats Erdogmus In Thrilling ChessKid Youth Championship"
       },
       {
          "description" : "The contenders of the Grand Finals in both sections of the American Cup were confirmed in Saint Louis after the conclusion of the Elimination Bracket finals. In the open section, Levon Aronian joined Wesley So in the Grand Final after defeating Fabiano Caruana. Meanwhile, in the women's event, Carissa Yip secured a rematch with defending champion Alice Lee by overcoming Tatev Abrahamyan. | Photo: Saint Louis Chess Club / Lennart Ootes",
@@ -346,14 +362,6 @@ news_feed (
          "title" : "India gets 93rd GM: Mother quit job for chess - Making of Aarav Dengla"
       },
       {
-         "description" : "IM Levy Rozman became the world&#39;s biggest chess YouTuber by teaching millions of players how to win at chess. Two and a half years after a massively successful book debut, he&#39;s taking it one step further by targeting readers who can&#39;t yet walk, ta...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/levy-rozman-chess-for-babies",
-         "pubDate" : "Tue, 03 Mar 2026 08:01:00",
-         "title" : "Levy Rozman Releases 'Chew-Proof' Chess Book For Babies, Debuts At No. 1 On Amazon"
-      },
-      {
          "description" : "Today's puzzles begin a series on the 2026 Saint Louis Masters (coverage here), won by GM Mikhail Antipov, who finished a half-point ahead of GM Fabiano Caruana to earn the $25,000 first-place prize. 70 players competed, including a number of top Americans (and five American Cup participants), as well as international norm seekers. Fire was on board from the top tables all the way through the standings, and we've got several weeks of educational entertainment as a result. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -368,14 +376,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/saint-louis-masters-2026",
          "pubDate" : "Mon, 2 Mar 2026 14:34:00",
          "title" : "Saint Louis Masters 2026 - Games and Results"
-      },
-      {
-         "description" : "Tata Steel Chess Masters 2026 and the Challengers, which started in mid-January and ended at the start of February, were responsible for most of the rating changes among the world&#39;s top players. GM Nodirbek Abdusattorov followed up his 19-point ga...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/march-2026-fide-ratings",
-         "pubDate" : "Mon, 02 Mar 2026 13:32:00",
-         "title" : "Van Foreest Enters Top-20 In March Rating List"
       },
       {
          "description" : "The 2026 Saint Louis Masters took place February 25 through March 1 at the Saint Louis Chess Club. A preamble to the American Cup (which begins tomorrow after today's blitz), this tournament featured 70 top competitors representing 23 federations, ranging from five American Cup participants to young norm-seekers.Almost of half of the field consisted of American players, and it was indeed Americans who finished first and second, although the winner might not have been your pre-tournament pick. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Mikhail Antipov is the Saint Louis Masters champion! (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> When a",
