@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ashwin Subramanian is a technology evangelist: a software engineering manager at Intel, but also a brilliant photographer, who fortunately for us is very enthusiastic about chess. Ashwin uses his free time visiting major tournaments and sends us marvellous pictures that capture the atmosphere at the events. We will share them with you...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pictorials-that-was-the-year-that-was",
+         "pubDate" : "Wed, 11 Mar 2026 11:19:20",
+         "title" : "Pictorials: That was the year that was"
+      },
+      {
+         "description" : "The prison HM Prison Springhill is a Category D men's prison, located in the village of Grendon Underwood, in Buckinghamshire, England. The prison is operated by His Majesty's Prison Service,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/visit-to-hmp-springhill-carl-s-portman-mbe/",
+         "pubDate" : "Wed, 11 Mar 2026 08:34:58",
+         "title" : "Visit to HMP Springhill - Carl S. Portman MBE"
+      },
+      {
          "description" : "Please find the live link&#160;below https://view.livechesscloud.com/#eece909b-5005-48f3-bb31-f8ca9b068220",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
