@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Weeks before the first move is played, the grenke Chess Festival 2026 is surpassing all previous dimensions. More than 3,000 registrations mark a new record for the world's largest open chess festival. With Magnus Carlsen and Vincent Keymer among the participants, and the chance to qualify for the next Freestyle World Championship, Karlsruhe will become the central meeting point of the international chess scene over Easter. | Photos: Darius Gorzinski",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/record-at-grenke-chess-festival",
+         "pubDate" : "Thu, 12 Mar 2026 12:00:00",
+         "title" : "Record at grenke Chess Festival"
+      },
+      {
+         "description" : "Players are welcome to enter the 2026 European School Chess Championship, which is designated by the ECF as a Category B junior international.&#160;This means that it is open for all...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2026-european-school-championship-expression-of-interest/",
+         "pubDate" : "Thu, 12 Mar 2026 10:55:15",
+         "title" : "2026 European School Championship - Expression of Interest"
+      },
+      {
+         "description" : "For almost a century, the Slovenian spa town of Bled has held a special place in international chess history. With the chess festival currently running until the weekend, this traditional venue continues the legacy of great tournaments - combining its historical prestige with an event for ambitious title holders, amateurs and young players. | Photos: Chess Festival Bled / Luka Rifelj",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bled-chess-festival-chess-tradition-in-idyllic-surroundings",
+         "pubDate" : "Thu, 12 Mar 2026 09:45:19",
+         "title" : "Bled Chess Festival: Chess tradition in idyllic surroundings"
+      },
+      {
          "description" : "Day nine of the American Cup in Saint Louis brought the open section to a conclusion, with Wesley So winning the fifth edition of the tournament, while the women's event remained unresolved after Carissa Yip forced a Grand Final Reset against Alice Lee. In the open, the title was settled without the need for further tiebreaks, as So converted his lead from Tuesday into overall victory. In the women's section, by contrast, another long day of classical and blitz play still proved insufficient to crown a champion. | Pictured: Wesley So and Maurice Ashley | Photo: Saint Louis Chess Club / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -680,30 +704,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/jan-timman-1951-2026",
          "pubDate" : "Thu, 19 Feb 2026 14:42:00",
          "title" : "Jan Timman 1951-2026 - 1951-2026"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128553691.cms\" />Wesley So confirmed his return to Norway Chess 2026, marking his sixth appearance in the elite tournament. A former world No. 2, So is known for his precision and consistency, highlighted by a 67-game unbeaten streak and a peak rating above 2800. A world champion in Fischer Random and multiple U.S. champion, he remains a top contender. Norway Chess organizers praised his depth and fighting strength.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/american-gm-wesley-so-returns-to-norway-chess-for-sixth-time/articleshow/128553691.cms",
-         "pubDate" : "Thu, 19 Feb 2026 10:49:27",
-         "title" : "American GM Wesley So returns to Norway Chess for sixth time"
-      },
-      {
-         "description" : "The European Chess Union (ECU) mourns the passing of Grandmaster Jan Timman, one of the most celebrated Dutch chess players and a towering figure in the international chess community. Timman, who passed away in February 2026, leaves behind a legacy marked by brilliance, creativity, and a lifelong dedication to the game. Born in Amsterdam in 1951, Jan Timman rose to prominence as a leading contender on the world stage, earning the title of International Grandmaster in 1974. He was renowned []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/obituary-grandmaster-jan-timman-1951-2026/",
-         "pubDate" : "Thu, 19 Feb 2026 10:14:50",
-         "title" : "Obituary: Grandmaster Jan Timman (1951-2026)"
-      },
-      {
-         "description" : "Entries are now open for the 2026 British Chess Championships, with record prize money, an expanded festival programme and a major boost for women's chess confirmed ahead of the event's...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/record-52500-prize-pot-announced-as-entries-open-for-2026-british-chess-championships-in-coventry/",
-         "pubDate" : "Thu, 19 Feb 2026 09:00:25",
-         "title" : "Record &pound;52,500 prize pot announced as entries open for 2026 British Chess Championships in Coventry!"
       }
    ]
 }
