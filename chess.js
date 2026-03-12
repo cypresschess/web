@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Wesley So Wins Open; Alice Lee Secures Third Consecutive Women's Title at 2026 American CupSaint Louis Chess Club Awards $400,000 During Signature Event SAINT LOUIS, Mo., March 12, 2026 The 2026 American Cup, hosted by the Saint Louis Chess Club (STLCC) concluded with victories from two of America's top chess competitors. Grandmaster (GM) Wesley [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/wesley-so-wins-open-alice-lee-secures-third-consecutive-womens-title-at-2026-american-cup/\">Wesley So Wins Open; Alice Lee Secures Third Consecutive Women's Title at 2026 American Cup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/wesley-so-wins-open-alice-lee-secures-third-consecutive-womens-title-at-2026-american-cup/",
+         "pubDate" : "Thu, 12 Mar 2026 20:22:54",
+         "title" : "Wesley So Wins Open; Alice Lee Secures Third Consecutive Women's Title at 2026 American Cup"
+      },
+      {
          "description" : "A sustained run of strong tournament results has enabled Bodhana Sivanandan to secure the FIDE Master title after she crossed the 2300 rating threshold for the first time. The British prodigy, who recently turned 11, gained more than 200 rating points across appearances in the 4NCL, Graz Open and Cannes Chess Festival, consistently holding her own against titled opposition. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,28 @@ news_feed (
          "title" : "The American Cup - Live!"
       },
       {
+         "description" : "Chess.com returned to the MIT Sloan Sports Analytics Conference in Boston last weekend, hosting a packed program that explored chess, AI, and the intersection of mental and physical performance. The annual gathering of leading sports executives,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/mit-sloan-sports-analytics-conference-recap-2026",
+         "pubDate" : "Thu, 12 Mar 2026 14:03:01",
+         "title" : "Chess, AI, And Chessboxing Take Center Stage At MIT Sloan Sports Analytics Conference"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-online-grand-prix-2026/",
          "pubDate" : "Thu, 12 Mar 2026 13:10:00",
          "title" : "ECF Online Grand Prix 2026 launched"
+      },
+      {
+         "description" : "Sixteen-year-old IM Alice Lee is once again the champion of The Women&#39;s American Cup 2026 for the third year in a row. In the Grand Final Reset against IM Carissa Yip, Lee won the first rapid game and drew the second to secure the match. GM Wesl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alice-lee-wins-2026-the-womens-american-cup",
+         "pubDate" : "Thu, 12 Mar 2026 12:39:44",
+         "title" : "Alice Lee Wins The American Cup 3rd Year In A Row"
       },
       {
          "description" : "Weeks before the first move is played, the grenke Chess Festival 2026 is surpassing all previous dimensions. More than 3,000 registrations mark a new record for the world's largest open chess festival. With Magnus Carlsen and Vincent Keymer among the participants, and the chance to qualify for the next Freestyle World Championship, Karlsruhe will become the central meeting point of the international chess scene over Easter. | Photos: Darius Gorzinski",
@@ -392,22 +416,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-masters-pt-1",
          "pubDate" : "Wed, 04 Mar 2026 00:00:00",
          "title" : "Wednesday Workout: Saint Louis Masters, Pt. 1"
-      },
-      {
-         "description" : "Day one of The American Cup 2026 saw GM Fabiano Caruana draw blood against GM Abhimanyu Mishra in game one, while the three other games ended in draws. Mishra will have to win game two on Wednesday to stay in the Championship Bracket. We saw even ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-american-cup-day-1",
-         "pubDate" : "Tue, 03 Mar 2026 19:37:00",
-         "title" : "Caruana Scores 1st Win In Open; Krush, Lee Lead In Women's"
-      },
-      {
-         "description" : "World Champion Gukesh Dommaraju is in last place of the 2026 Prague Chess Festival Masters and has slumped to world number-20 after losing to Indian countryman GM Aravindh Chithambaram in round six. GM Jorden van Foreest still leads by half a poin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-6",
-         "pubDate" : "Tue, 03 Mar 2026 16:56:00",
-         "title" : "Aravindh Condemns Gukesh To 3rd Loss"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128963986.cms\" />Sixteen-year-old Aarav Dengla has become India's 93rd Grandmaster (GM). Guided by his mother Shipra, who quit her job to support his career, Aarav rose rapidly from prodigy to champion. Initially trained by GM Pravin Thipsay and then under Vishnu Prasanna, and balancing rigorous academics, he sealed his final GM norm in 2026, emerging as Mumbai's third Grandmaster.",
