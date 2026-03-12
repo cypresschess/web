@@ -26,11 +26,11 @@ news_feed (
          "title" : "The American Cup - Live!"
       },
       {
-         "description" : "GM Wesley So won his maiden title in The American Cup 2026 on Wednesday. After winning the first game against GM Levon Aronian, he held the necessary draw in game two to secure the match. He makes $75,000 plus another $15,000 bonus for winning the...",
+         "description" : "GM Wesley So won his maiden title in The American Cup 2026 on Wednesday. After winning the first game against GM Levon Aronian the previous day, he held the necessary draw in game two to secure the match. He makes $75,000 plus another $15,000 bonu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/wesley-so-wins-2026-the-american-cup",
-         "pubDate" : "Wed, 11 Mar 2026 15:14:43",
+         "pubDate" : "Wed, 11 Mar 2026 15:14:00",
          "title" : "Wesley So Wins Maiden Title, Yip Takes 1st Match Vs. Lee"
       },
       {
