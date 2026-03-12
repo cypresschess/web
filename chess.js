@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A sustained run of strong tournament results has enabled Bodhana Sivanandan to secure the FIDE Master title after she crossed the 2300 rating threshold for the first time. The British prodigy, who recently turned 11, gained more than 200 rating points across appearances in the 4NCL, Graz Open and Cannes Chess Festival, consistently holding her own against titled opposition. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bodhana-sivanandan-earns-fm-title",
+         "pubDate" : "Thu, 12 Mar 2026 18:00:00",
+         "title" : "Bodhana Sivanandan gains 200+ rating points in a month to secure FIDE Master title at 11"
+      },
+      {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. The event concludes on Thursday with the Grand Final Reset of the women's competition, where Alice Lee and Carissa Yip battle for the title. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST) | Pictured: Alice Lee | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2026-live",
+         "pubDate" : "Thu, 12 Mar 2026 17:50:00",
+         "title" : "The American Cup - Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
