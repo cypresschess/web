@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-online-grand-prix-2026/",
+         "pubDate" : "Thu, 12 Mar 2026 13:10:00",
+         "title" : "ECF Online Grand Prix 2026 launched"
+      },
+      {
          "description" : "Weeks before the first move is played, the grenke Chess Festival 2026 is surpassing all previous dimensions. More than 3,000 registrations mark a new record for the world's largest open chess festival. With Magnus Carlsen and Vincent Keymer among the participants, and the chance to qualify for the next Freestyle World Championship, Karlsruhe will become the central meeting point of the international chess scene over Easter. | Photos: Darius Gorzinski",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,22 +42,6 @@ news_feed (
          "title" : "Wesley So wins fifth edition of American Cup"
       },
       {
-         "description" : "The FIDE Women's Candidates Tournament 2026 will take place from 28 March to 16 April in Cap St. Georges Hotel & Resort, Cyprus, where eight leading players will compete in a double round-robin to decide the challenger to the reigning champion, Ju Wenjun. The field combines experienced Candidates participants such as Humpy Koneru and Tan Zhongyi with younger contenders including Zhu Jiner and Divya Deshmukh. | Image: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2026-clash-of-generations",
-         "pubDate" : "Wed, 11 Mar 2026 23:00:00",
-         "title" : "Women's Candidates Tournament 2026: A clash of generations"
-      },
-      {
-         "description" : "Chess tournaments have a way of running so smoothly that spectators rarely stop to think about why. That seamless experience is no accident, it's the result of dedicated people working tirelessly behind the scenes to ensure everything goes according to plan. At the Prague International Chess Festival, organizer Petr Boleslav leads a close-knit team of helpers, many of whom he has known for years and who themselves come from a chess background. ChessBase sat down with several of them to offer a glimpse into the world behind the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-international-chess-festival-2026-behind-the-scenes",
-         "pubDate" : "Wed, 11 Mar 2026 20:26:43",
-         "title" : "Prague International Chess Festival 2026 - Behind the scenes"
-      },
-      {
          "description" : "GM Wesley So won his maiden title in The American Cup 2026 on Wednesday. After winning the first game against GM Levon Aronian the previous day, he held the necessary draw in game two to secure the match. He makes $75,000 plus another $15,000 bonu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -64,22 +56,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
          "pubDate" : "Wed, 11 Mar 2026 14:07:09",
          "title" : "In-Person ECF Level 1 Arbiter Course plus intro to Swiss Manager and DGT Electronic Board handling"
-      },
-      {
-         "description" : "Last Sunday, on 8 March, Serbian grandmaster Slavoljub Marjanovic passed away. In the 1980s he was one of Yugoslavia's strongest players and won a team bronze medal at the 1980 Chess Olympiad. After the end of his professional career, he made a name for himself as a coach. | Photo: ECU",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/slavoljub-marjanovic-1955-2026",
-         "pubDate" : "Wed, 11 Mar 2026 12:41:23",
-         "title" : "Remembering Slavoljub Marjanovic (1955-2026)"
-      },
-      {
-         "description" : "Ashwin Subramanian is a technology evangelist: a software engineering manager at Intel, but also a brilliant photographer, who fortunately for us is very enthusiastic about chess. Ashwin uses his free time visiting major tournaments and sends us marvellous pictures that capture the atmosphere at the events. We will share them with you...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pictorials-that-was-the-year-that-was",
-         "pubDate" : "Wed, 11 Mar 2026 11:19:20",
-         "title" : "Pictorials: That was the year that was"
       },
       {
          "description" : "The prison HM Prison Springhill is a Category D men's prison, located in the village of Grendon Underwood, in Buckinghamshire, England. The prison is operated by His Majesty's Prison Service,...",
@@ -176,14 +152,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/volgin-wins-2026-atomic-chess-championship",
          "pubDate" : "Mon, 09 Mar 2026 11:59:47",
          "title" : "Andrey Volgin Wins Atomic Chess Championship 2026"
-      },
-      {
-         "description" : "Can you stop the black pawn on a2 from promoting - and in fact win this position for White? Today we have a new challenge that will tell you if you can handle pawn promotions like a master. Test your skills on four tricky positions. The solutions, with full video explanations, will come in a week. Learn and enjoy.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/can-you-handle-pawns",
-         "pubDate" : "Mon, 09 Mar 2026 11:30:00",
-         "title" : "Can you handle pawns?"
       },
       {
          "description" : "Please find the certificates.For any query please write back to Indianchessfed@gmail.com Batch 1 Batch 2 No Candidate name No. Candidate Name 1 Manikandan Palaniappun 1",
@@ -696,14 +664,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-individual-chess-championship-2026-invitation/",
          "pubDate" : "Fri, 20 Feb 2026 07:37:05",
          "title" : "European Women's Individual Chess Championship 2026 - Invitation"
-      },
-      {
-         "description" : " Jan Timman, the Dutch number one chess player for many years and World number two in January 1982, has passed away at the age of 74. Timman first qualified for an Interzonal in 1979 and was a Candidate between the years of 1986 and 1996. He fought a 24 game match for the FIDE World Chess Championship against Anatoly Karpov in 1993. His most impressive tournament win was the 1991 Immopar Rapid in Paris, this was a knockout where he beat Gata Kamsky, Anatoly Karpov, Viswanathan Anand, and Garry Kasparov. Timman was a very successful tournament player, especially in the 1980s and his career results are more than comparable with the legendary Bent Larsen. Timman had a Universal and varied style",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/jan-timman-1951-2026",
-         "pubDate" : "Thu, 19 Feb 2026 14:42:00",
-         "title" : "Jan Timman 1951-2026 - 1951-2026"
       }
    ]
 }
