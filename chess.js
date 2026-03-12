@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Day nine of the American Cup in Saint Louis brought the open section to a conclusion, with Wesley So winning the fifth edition of the tournament, while the women's event remained unresolved after Carissa Yip forced a Grand Final Reset against Alice Lee. In the open, the title was settled without the need for further tiebreaks, as So converted his lead from Tuesday into overall victory. In the women's section, by contrast, another long day of classical and blitz play still proved insufficient to crown a champion. | Pictured: Wesley So and Maurice Ashley | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2026-d9",
+         "pubDate" : "Thu, 12 Mar 2026 05:40:00",
+         "title" : "Wesley So wins fifth edition of American Cup"
+      },
+      {
          "description" : "The FIDE Women's Candidates Tournament 2026 will take place from 28 March to 16 April in Cap St. Georges Hotel & Resort, Cyprus, where eight leading players will compete in a double round-robin to decide the challenger to the reigning champion, Ju Wenjun. The field combines experienced Candidates participants such as Humpy Koneru and Tan Zhongyi with younger contenders including Zhu Jiner and Divya Deshmukh. | Image: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-international-chess-festival-2026-behind-the-scenes",
          "pubDate" : "Wed, 11 Mar 2026 20:26:43",
          "title" : "Prague International Chess Festival 2026 - Behind the scenes"
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST) | Pictured: Carissa Yip | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2026-live",
-         "pubDate" : "Wed, 11 Mar 2026 17:50:00",
-         "title" : "The American Cup - Live!"
       },
       {
          "description" : "GM Wesley So won his maiden title in The American Cup 2026 on Wednesday. After winning the first game against GM Levon Aronian the previous day, he held the necessary draw in game two to secure the match. He makes $75,000 plus another $15,000 bonu...",
