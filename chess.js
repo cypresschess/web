@@ -10,6 +10,14 @@ news_feed (
          "title" : "ECU GENERAL ASSEMBLY 2026 - Invitation"
       },
       {
+         "description" : "IM Renato Terry won a 3 0 Thursday tournament for the third week in a row, setting a new record with nine victories in the event. GM Oleksandr Bortnyk joined him, winning his third title, as did GM Benjamin Bok, winning for the first time. The wom...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/3-0-thursday-bok-bortnyk-terry-3-12-2026",
+         "pubDate" : "Fri, 13 Mar 2026 12:36:00",
+         "title" : "Terry Extends Record, Bok and Bortnyk Win 3 0 Thursday"
+      },
+      {
          "description" : "In early March, Jonathan Zhi had the chance to do a written interview with Ding Liren. His answers are translated from Chinese - the original answers are available here. The questions draw heavily from previous interviews, articles, podcasts and TV shows that Ding has given. Jonathan started following professional chess during college. At some point, he realised that many interesting players don't get to fully express themselves in the media. He started doing interviews to highlight those players and help them share their thoughts, stories and personalities. | Photo: Amruta Mokal / ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -424,14 +432,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/naroditsky-memorial-rapid-blitz-announcement",
          "pubDate" : "Wed, 04 Mar 2026 09:13:00",
          "title" : "Nakamura Headlines $50,000 Naroditsky Memorial Rapid & Blitz"
-      },
-      {
-         "description" : "World number-one Magnus Carlsen is making a surprise early return to classical chess, as he headlines TePe Sigeman Chess 2026 on May 1-7. In Malmo, Sweden, he&#39;ll be challenged by some of the world&#39;s brightest young stars. Carlsen and 2024 winner...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-faces-erdogmus-woodward-sigeman-chess",
-         "pubDate" : "Wed, 04 Mar 2026 06:56:00",
-         "title" : "Carlsen Makes Surprise Classical Return To Face World's Brightest Young Stars"
       },
       {
          "description" : " by Dane McGuire Working as a part of the front desk staff at the Saint Louis Chess Club has shown me what a true world the game is. I didn't grow up playing, so as an adult, I have been fascinated by the connections between the game and everyday life and I wanted to share [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/10-life-lessons-from-chess-for-adult-beginners/\">10 Life Lessons From Chess for Adult Beginners</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
