@@ -26,6 +26,14 @@ news_feed (
          "title" : "Alice Lee beats Carissa Yip, claims third consecutive American Cup title"
       },
       {
+         "description" : "The fifth edition of the American Cup featured ten days of spectacular, fighting chess from 16 of America's top chessplayers, hosted by the Saint Louis Chess Club.With a $400,000 prize fund on the line, players had to outclass each other across an innovative mixture of classical, rapid, and blitz games in this double elimination tournament.Once the dust settled, GM Wesley So won his first American Cup on Wednesday while IM Alice Lee had to play an extra day of chess before securing her third-straight American Cup. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> The 2026 American Cup cha",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/so-and-lee-are-2026-american-cup-champions",
+         "pubDate" : "Fri, 13 Mar 2026 00:00:00",
+         "title" : "So and Lee are 2026 American Cup Champions!"
+      },
+      {
          "description" : " Wesley So Wins Open; Alice Lee Secures Third Consecutive Women's Title at 2026 American CupSaint Louis Chess Club Awards $400,000 During Signature Event SAINT LOUIS, Mo., March 12, 2026 The 2026 American Cup, hosted by the Saint Louis Chess Club (STLCC) concluded with victories from two of America's top chess competitors. Grandmaster (GM) Wesley [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/wesley-so-wins-open-alice-lee-secures-third-consecutive-womens-title-at-2026-american-cup/\">Wesley So Wins Open; Alice Lee Secures Third Consecutive Women's Title at 2026 American Cup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -274,6 +282,14 @@ news_feed (
          "title" : "The Most Important 45 Minutes of Your Chess Training"
       },
       {
+         "description" : " The American Cup is a double elimination knockout tournament held in Saint Louis. There is an open and women's event. Players Open event: Fabiano, Caruana, Wesley So, Leinier Dominguez Perez, Levon Aronian, Awonder Liang, Samuel Sevian, Ray Robson and Abhimanyu Mishra Players Women's event: Carissa Yip, Alice Lee, Irina Krush, Tatev Abrahamyan, Anna Sargsyan, Zoey Tang, Anna Zatonskih and Rachael Li. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2026",
+         "pubDate" : "Sat, 7 Mar 2026 11:34:00",
+         "title" : "American Cup 2026 - Games and Results"
+      },
+      {
          "description" : "Today sees the fruits of a proposal first made by Howard Staunton over a century and a half ago for an annual chess match between Oxford and Cambridge universities. In my preview of the day's events, universally acknowledged as the premier social event of the UK chess calendar, the Boat Race of the Brain, no []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -296,6 +312,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-apologises-to-fans-indian-chess-stars-slip-in-rankings-whats-going-wrong/articleshow/129194262.cms",
          "pubDate" : "Sat, 07 Mar 2026 05:00:59",
          "title" : "Gukesh apologises to fans; Indian stars slip in rankings: what's going wrong?"
+      },
+      {
+         "description" : " The 8th Prague International Chess Festival took place Tue 24th Feb to Fri 6th Mar 2026. Players Masters: Vincent Keymer, D Gukesh, Nodirbek Abdusattorov, Hans Moke, Niemann, Parham Maghsoodloo, Jorden Van Foreest, Aravindh Chithambaram V, Nodirbek Yakubboev, David Anton Guijarro and David Navara. There's a strong Challengers section, Futures and an open too. Nodirbek Abdusattorov won his third classical tournament in a row after London and Tata Steel. He won three and drew six games. Jorden Van Foreest took an early lead but defeats in the final two rounds took him down to a tie for second place with Maghsoodloo and Aravindh. World Champion Gukesh finished tied for last place with David An",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/8th-prague-international-chess-festival-2026",
+         "pubDate" : "Fri, 6 Mar 2026 21:59:00",
+         "title" : "8th Prague International Chess Festival 2026 - Games and Results"
       },
       {
          "description" : "GMs Fabiano Caruana and Wesley So advance to the Champions Final of The American Cup 2026. After making draws in the classical portion, they overcame GMs Awonder Liang and Sam Sevian in blitz tiebreaks 1.5-0.5 each, respectively. In the Eliminatio...",
@@ -434,6 +458,14 @@ news_feed (
          "title" : "Tactics Tuesday: Saint Louis Masters, Pt. 1"
       },
       {
+         "description" : " The Saint Louis Masters took place Tue 24th Feb to Sun 1st Mar 2026. Mikhail Antipov won the event with 7.5/9 after beating Andy Woodward in the final round, he was half a point clear of Fabiano Caruana who failed to convert a winning endgame against Francesco Sonis. Lorenzo Lodici finished in clear third place with 6.5/9.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-masters-2026",
+         "pubDate" : "Mon, 2 Mar 2026 14:34:00",
+         "title" : "Saint Louis Masters 2026 - Games and Results"
+      },
+      {
          "description" : "The 2026 Saint Louis Masters took place February 25 through March 1 at the Saint Louis Chess Club. A preamble to the American Cup (which begins tomorrow after today's blitz), this tournament featured 70 top competitors representing 23 federations, ranging from five American Cup participants to young norm-seekers.Almost of half of the field consisted of American players, and it was indeed Americans who finished first and second, although the winner might not have been your pre-tournament pick. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Mikhail Antipov is the Saint Louis Masters champion! (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> When a",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -520,14 +552,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-mangalore-karnataka-on-21-22-march-2026/",
          "pubDate" : "Thu, 26 Feb 2026 08:24:04",
          "title" : "SNA Seminar & Exam in Mangalore, Karnataka on 21 & 22 March 2026"
-      },
-      {
-         "description" : "Registration is now open for the FIDE World Youth Chess Championships 2026. The international event, organized by FIDE, and the Italian Chess Federation, with UniChess will take place June 14 - June 27 in Montesilvano, Italy. US Chess will be accepting registrations for eligible U.S. participants until Monday, March 16, 2026, 5 p.m. CDT.TOURNAMENT DETAILS AND ELIGIBILITYThere will be six sections: Open and Girls in age categories Under 18, Under 16, and Under 14.A player's age as of Jan. 1, 2026 determines their age eligibility for a section.Under 18: Players born on or after Jan. 1, 2008Under 16: Players born on or after Jan. 1, 2010Under 14: Players born on or after Jan. 1, 2012Each event ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/registration-open-2026-fide-world-youth-chess-championships",
-         "pubDate" : "Thu, 26 Feb 2026 00:00:00",
-         "title" : "Registration Open for 2026 FIDE World Youth Chess Championships"
       },
       {
          "description" : "Harrow School Saturday 21st February 2026 Winning chess championships is only for the young?&#160; John Nunn disagrees.&#160; Age 70, he has won the 2026 Winton British Chess Solving Championship.&#160; The...",
