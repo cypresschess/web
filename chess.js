@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The women's title at the American Cup was only decided after the Grand Final Reset on Thursday, as Alice Lee defeated Carissa Yip to claim the title. Lee won the first rapid game with the black pieces and then secured a 117-move draw to clinch her third consecutive triumph in the event. The victory capped another strong campaign for the 16-year-old, who also made significant rating gains across both classical and blitz formats. | Pictured: Alice Lee and Maurice Ashley | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2026-d10",
+         "pubDate" : "Fri, 13 Mar 2026 04:25:00",
+         "title" : "Alice Lee beats Carissa Yip, claims third consecutive American Cup title"
+      },
+      {
          "description" : " Wesley So Wins Open; Alice Lee Secures Third Consecutive Women's Title at 2026 American CupSaint Louis Chess Club Awards $400,000 During Signature Event SAINT LOUIS, Mo., March 12, 2026 The 2026 American Cup, hosted by the Saint Louis Chess Club (STLCC) concluded with victories from two of America's top chess competitors. Grandmaster (GM) Wesley [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/wesley-so-wins-open-alice-lee-secures-third-consecutive-womens-title-at-2026-american-cup/\">Wesley So Wins Open; Alice Lee Secures Third Consecutive Women's Title at 2026 American Cup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/bodhana-sivanandan-earns-fm-title",
          "pubDate" : "Thu, 12 Mar 2026 18:00:00",
          "title" : "Bodhana Sivanandan gains 200+ rating points in a month to secure FIDE Master title at 11"
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fifth year, the event runs on March 3-12 at the Saint Louis Chess Club, featuring sixteen of America's top chess talents. The event concludes on Thursday with the Grand Final Reset of the women's competition, where Alice Lee and Carissa Yip battle for the title. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST) | Pictured: Alice Lee | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2026-live",
-         "pubDate" : "Thu, 12 Mar 2026 17:50:00",
-         "title" : "The American Cup - Live!"
       },
       {
          "description" : "Chess.com returned to the MIT Sloan Sports Analytics Conference in Boston last weekend and hosted a packed program that explored chess, AI, and the connection between mental and physical performance. The annual gathering of leading sports execut...",
