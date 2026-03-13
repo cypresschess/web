@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "By decision of the ECU Board and with approval from the FIDE Council, the ECU General Assembly 2026 and elections will take place on Saturday, 18 July 2026, in Bucharest, Romania. The elections are scheduled in accordance with the ECU statutes and the completion of the current term of the ECU Board on 22 July 2026. The ECU General Assembly will be hosted at the premises of the Romanian Olympic Committee, emphasising the European Chess Union's strong commitment to the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-general-assembly-2026/",
+         "pubDate" : "Fri, 13 Mar 2026 16:01:32",
+         "title" : "ECU GENERAL ASSEMBLY 2026 - Invitation"
+      },
+      {
          "description" : "In early March, Jonathan Zhi had the chance to do a written interview with Ding Liren. His answers are translated from Chinese - the original answers are available here. The questions draw heavily from previous interviews, articles, podcasts and TV shows that Ding has given. Jonathan started following professional chess during college. At some point, he realised that many interesting players don't get to fully express themselves in the media. He started doing interviews to highlight those players and help them share their thoughts, stories and personalities. | Photo: Amruta Mokal / ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
