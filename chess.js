@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In early March, Jonathan Zhi had the chance to do a written interview with Ding Liren. His answers are translated from Chinese - the original answers are available here. The questions draw heavily from previous interviews, articles, podcasts and TV shows that Ding has given. Jonathan started following professional chess during college. At some point, he realised that many interesting players don't get to fully express themselves in the media. He started doing interviews to highlight those players and help them share their thoughts, stories and personalities. | Photo: Amruta Mokal / ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-ding-liren-jonathan-zhi-2026",
+         "pubDate" : "Fri, 13 Mar 2026 12:00:00",
+         "title" : "An interview with Ding Liren: Sports, engines, rest"
+      },
+      {
+         "description" : " The world No 3 is backed to become the challenger but lost twice this week, to Wesley So and Levon Aronian Fabiano Caruana, the world No 3, reigning US champion and 5-2 favourite to win the world title Candidates at the Cap St Georges Resort, Pegeia, Cyprus, from 29 March to 16 April, planned to warm up with two events at his home town, St Louis, but events have not followed the script. Caruana was second to the former Russian Mikhail Antipov in the Saint Louis Masters, though he was unbeaten with 7/9, so this was still a good result. But then, in the American Cup, a double elimination format knockout, he lost to Wesley So and Levon Aronian in similar fashion, winning the first classical ga",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/mar/13/favourite-fabiano-caruana-loses-twice-runup-world-title-candidates-chess",
+         "pubDate" : "Fri, 13 Mar 2026 08:00:44",
+         "title" : "Chess: Favourite Fabiano Caruana loses twice in runup to world title Candidates"
+      },
+      {
          "description" : "The women's title at the American Cup was only decided after the Grand Final Reset on Thursday, as Alice Lee defeated Carissa Yip to claim the title. Lee won the first rapid game with the black pieces and then secured a 117-move draw to clinch her third consecutive triumph in the event. The victory capped another strong campaign for the 16-year-old, who also made significant rating gains across both classical and blitz formats. | Pictured: Alice Lee and Maurice Ashley | Photo: Saint Louis Chess Club / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -258,14 +274,6 @@ news_feed (
          "title" : "The Most Important 45 Minutes of Your Chess Training"
       },
       {
-         "description" : " The American Cup is a double elimination knockout tournament held in Saint Louis. There is an open and women's event. Players Open event: Fabiano, Caruana, Wesley So, Leinier Dominguez Perez, Levon Aronian, Awonder Liang, Samuel Sevian, Ray Robson and Abhimanyu Mishra Players Women's event: Carissa Yip, Alice Lee, Irina Krush, Tatev Abrahamyan, Anna Sargsyan, Zoey Tang, Anna Zatonskih and Rachael Li. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2026",
-         "pubDate" : "Sat, 7 Mar 2026 11:34:00",
-         "title" : "American Cup 2026 - Games and Results"
-      },
-      {
          "description" : "Today sees the fruits of a proposal first made by Howard Staunton over a century and a half ago for an annual chess match between Oxford and Cambridge universities. In my preview of the day's events, universally acknowledged as the premier social event of the UK chess calendar, the Boat Race of the Brain, no []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -288,14 +296,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-apologises-to-fans-indian-chess-stars-slip-in-rankings-whats-going-wrong/articleshow/129194262.cms",
          "pubDate" : "Sat, 07 Mar 2026 05:00:59",
          "title" : "Gukesh apologises to fans; Indian stars slip in rankings: what's going wrong?"
-      },
-      {
-         "description" : " The 8th Prague International Chess Festival took place Tue 24th Feb to Fri 6th Mar 2026. Players Masters: Vincent Keymer, D Gukesh, Nodirbek Abdusattorov, Hans Moke, Niemann, Parham Maghsoodloo, Jorden Van Foreest, Aravindh Chithambaram V, Nodirbek Yakubboev, David Anton Guijarro and David Navara. There's a strong Challengers section, Futures and an open too. Nodirbek Abdusattorov won his third classical tournament in a row after London and Tata Steel. He won three and drew six games. Jorden Van Foreest took an early lead but defeats in the final two rounds took him down to a tie for second place with Maghsoodloo and Aravindh. World Champion Gukesh finished tied for last place with David An",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/8th-prague-international-chess-festival-2026",
-         "pubDate" : "Fri, 6 Mar 2026 21:59:00",
-         "title" : "8th Prague International Chess Festival 2026 - Games and Results"
       },
       {
          "description" : "GMs Fabiano Caruana and Wesley So advance to the Champions Final of The American Cup 2026. After making draws in the classical portion, they overcame GMs Awonder Liang and Sam Sevian in blitz tiebreaks 1.5-0.5 each, respectively. In the Eliminatio...",
@@ -432,14 +432,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-masters-pt-1",
          "pubDate" : "Tue, 03 Mar 2026 00:00:00",
          "title" : "Tactics Tuesday: Saint Louis Masters, Pt. 1"
-      },
-      {
-         "description" : " The Saint Louis Masters took place Tue 24th Feb to Sun 1st Mar 2026. Mikhail Antipov won the event with 7.5/9 after beating Andy Woodward in the final round, he was half a point clear of Fabiano Caruana who failed to convert a winning endgame against Francesco Sonis. Lorenzo Lodici finished in clear third place with 6.5/9.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-masters-2026",
-         "pubDate" : "Mon, 2 Mar 2026 14:34:00",
-         "title" : "Saint Louis Masters 2026 - Games and Results"
       },
       {
          "description" : "The 2026 Saint Louis Masters took place February 25 through March 1 at the Saint Louis Chess Club. A preamble to the American Cup (which begins tomorrow after today's blitz), this tournament featured 70 top competitors representing 23 federations, ranging from five American Cup participants to young norm-seekers.Almost of half of the field consisted of American players, and it was indeed Americans who finished first and second, although the winner might not have been your pre-tournament pick. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Mikhail Antipov is the Saint Louis Masters champion! (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> When a",
@@ -648,46 +640,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/news-on-the-1896-schiffers-vs-steinitz-match",
          "pubDate" : "Sat, 21 Feb 2026 09:00:00",
          "title" : "News on the 1896 Schiffers vs Steinitz Match"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128604105.cms\" />Tripura's 15-year-old chess prodigy Arshiya Das recently became the first Woman International Master (WIM) from Northeast India after winning a tournament in Serbia. Her rise began from playing chess on a laptop as a child, followed by strong national and international results. With family sacrifices, coaching across India, and intense training, she has emerged as a major talent, highlighting both the region's potential and the need for better support and sponsorship",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-gets-first-wim-from-northeast-how-15-year-old-arshiya-das-is-rewriting-chess-geography/articleshow/128604105.cms",
-         "pubDate" : "Fri, 20 Feb 2026 10:51:56",
-         "title" : "India gets first WIM from Northeast: The story of 15-year-old Arshiya Das"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128603577.cms\" />Norway Chess 2026 will take place in Oslo from May 25 to June 5, featuring elite men's and women's tournaments with equal prize money and format. Six players in each event will compete in a double round-robin with Armageddon tiebreaks. Stars include Magnus Carlsen, Gukesh, Praggnanandhaa, and Wesley So, plus Ju Wenjun, Zhu Jiner, Humpy Koneru, and Divya Deshmukh in the women's field.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-2026-from-d-gukesh-to-divya-deshmukh-full-list-of-players-in-open-and-womens-category/articleshow/128603577.cms",
-         "pubDate" : "Fri, 20 Feb 2026 10:32:42",
-         "title" : "Norway Chess 2026: Full list of players in open and women's category"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128602203.cms\" />Chinese Grandmaster Zhu Jiner will debut at Norway Chess Women 2026 in Oslo and said she is honoured and excited to compete. She climbed from World No. 10 to No. 2 in 2025 and won the FIDE Women's Grand Prix Series, earning a Candidates spot. Known for her balanced style, she will face top players, including Ju Wenjun at the prestigious event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/23-year-old-chinese-chess-superstar-zhu-jiner-to-debut-at-norway-chess-women-2026/articleshow/128602203.cms",
-         "pubDate" : "Fri, 20 Feb 2026 10:12:10",
-         "title" : "Zhu Jiner to debut at Norway Chess Women 2026"
-      },
-      {
-         "description" : " The world No 1 won his 21st global title by defeating his old rival Fabiano Caruana in Freestyle chess at Weissenhaus in Germany Magnus Carlsen notched up yet another world crown last weekend when the Norwegian, 35, continued his decade-long campaign aiming to edge ahead of Garry Kasparov and Bobby Fischer on the game's absolute pantheon. This time it was Freestyle chess, where the back-row pieces start in randomised positions to eliminate pre-game prep. Carlsen, who also holds the Rapid and Blitz crowns, abdicated his Classical title in 2023 citing lack of motivation. His total titles, now 21, include five at classical chess, six at one-hour rapid, and nine at three-minute blitz. <a href=\"",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/feb/20/chess-magnus-carlsen-wins-yet-again-while-british-championship-prize-fund-soars",
-         "pubDate" : "Fri, 20 Feb 2026 08:00:27",
-         "title" : "Chess: Magnus Carlsen wins yet again while British Championship prize fund soars"
-      },
-      {
-         "description" : "The European Chess Union and the Georgian Chess Federation are honored to invite ECU member federations to participate in 25th European Women's Chess Championship. The event will be held in Batumi from 24 of May (arrival day) to 6 of June (departure day). The European Women's Chess Championship 2026 will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-individual-chess-championship-2026-invitation/",
-         "pubDate" : "Fri, 20 Feb 2026 07:37:05",
-         "title" : "European Women's Individual Chess Championship 2026 - Invitation"
       }
    ]
 }
