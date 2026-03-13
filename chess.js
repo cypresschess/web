@@ -26,12 +26,12 @@ news_feed (
          "title" : "The American Cup - Live!"
       },
       {
-         "description" : "Chess.com returned to the MIT Sloan Sports Analytics Conference in Boston last weekend, hosting a packed program that explored chess, AI, and the intersection of mental and physical performance. The annual gathering of leading sports executives,...",
+         "description" : "Chess.com returned to the MIT Sloan Sports Analytics Conference in Boston last weekend and hosted a packed program that explored chess, AI, and the connection between mental and physical performance. The annual gathering of leading sports execut...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/mit-sloan-sports-analytics-conference-recap-2026",
-         "pubDate" : "Thu, 12 Mar 2026 14:03:01",
-         "title" : "Chess, AI, And Chessboxing Take Center Stage At MIT Sloan Sports Analytics Conference"
+         "pubDate" : "Thu, 12 Mar 2026 14:03:00",
+         "title" : "Chess, AI, Chessboxing Take Center Stage At MIT Sloan Sports Analytics Conference"
       },
       {
          "description" : "",
@@ -46,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/alice-lee-wins-2026-the-womens-american-cup",
-         "pubDate" : "Thu, 12 Mar 2026 12:39:44",
+         "pubDate" : "Thu, 12 Mar 2026 12:39:00",
          "title" : "Alice Lee Wins The American Cup 3rd Year In A Row"
       },
       {
