@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The concept behind Chessbase's \"60-minute\" courses is simple: a one-hour video course for just under 10 Euros. There are also courses on middle game and endgame topics, but most courses focus on quite \"specialised\" opening variations. In the second instalment of a short series, Jochen Schwarz presents the most important 60-minute courses for 1.e4 players against the French Defence.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-60-minutes-against-the-french-2",
+         "pubDate" : "Sat, 14 Mar 2026 07:00:00",
+         "title" : "Review: 60 minutes against the French"
+      },
+      {
+         "description" : "The inaugural Naroditsky Memorial Rapid & Blitz will be held in Charlotte, North Carolina, from 3 to 5 July 2026, combining open tournaments with elite showcase events across a three-day festival. Featuring a guaranteed $50,000 prize fund and offering FIDE Circuit and US Chess Grand Prix points, the competition is open to players of all ratings, with participation limited to 300 entrants. Top seed Hikaru Nakamura is set to headline a programme that also includes a Creator Invitational and blitz finals.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/naroditsky-memorial-2026-announcement",
+         "pubDate" : "Sat, 14 Mar 2026 04:50:00",
+         "title" : "Naroditsky Memorial Rapid & Blitz set for July, Nakamura heads the field"
+      },
+      {
          "description" : "GM Pranav Venkatesh won his first Freestyle Friday of the new Freestyle Friday Championship on March 13, taking it outright with 9.5/11, as four different players have now won the first four tournaments of the new stakes (qualification for the 202...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
