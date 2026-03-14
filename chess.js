@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Pranav Venkatesh won his first Freestyle Friday of the new Freestyle Friday Championship on March 13, taking it outright with 9.5/11, as four different players have now won the first four tournaments of the new stakes (qualification for the 202...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pranav-wins-freestyle-friday-march-13-2026",
+         "pubDate" : "Fri, 13 Mar 2026 16:55:04",
+         "title" : "Pranav 4th Freestyle Friday Championship Victor"
+      },
+      {
+         "description" : "Netflix has released the teaser for its upcoming documentary, Untold: Chess Mates, sparking widespread reactions across the chess world less than a month before its full release. The 71-second clip, released on March 10, gives a first preview of...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/netflix-sparks-reactions-with-release-of-trailer-for-carlsen-niemann-documentary",
+         "pubDate" : "Fri, 13 Mar 2026 16:32:00",
+         "title" : "Netflix Draws Reactions With Release Of Trailer For Carlsen-Niemann Documentary"
+      },
+      {
          "description" : "By decision of the ECU Board and with approval from the FIDE Council, the ECU General Assembly 2026 and elections will take place on Saturday, 18 July 2026, in Bucharest, Romania. The elections are scheduled in accordance with the ECU statutes and the completion of the current term of the ECU Board on 22 July 2026. The ECU General Assembly will be hosted at the premises of the Romanian Olympic Committee, emphasising the European Chess Union's strong commitment to the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -10,7 +26,7 @@ news_feed (
          "title" : "ECU GENERAL ASSEMBLY 2026 - Invitation"
       },
       {
-         "description" : "IM Renato Terry won a 3 0 Thursday tournament for the third week in a row, setting a new record with nine victories in the event. GM Oleksandr Bortnyk joined him, winning his third title, as did GM Benjamin Bok, winning for the first time. The wom...",
+         "description" : "IM Renato Terry won a 3 0 Thursday tournament&#38;nbsp;for the third week in a row, setting a new record with nine victories in the event. GM Oleksandr Bortnyk joined him, winning his third title, as did GM Benjamin Bok, winning for the first time. Th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/3-0-thursday-bok-bortnyk-terry-3-12-2026",
@@ -34,14 +50,6 @@ news_feed (
          "title" : "Chess: Favourite Fabiano Caruana loses twice in runup to world title Candidates"
       },
       {
-         "description" : "The women's title at the American Cup was only decided after the Grand Final Reset on Thursday, as Alice Lee defeated Carissa Yip to claim the title. Lee won the first rapid game with the black pieces and then secured a 117-move draw to clinch her third consecutive triumph in the event. The victory capped another strong campaign for the 16-year-old, who also made significant rating gains across both classical and blitz formats. | Pictured: Alice Lee and Maurice Ashley | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2026-d10",
-         "pubDate" : "Fri, 13 Mar 2026 04:25:00",
-         "title" : "Alice Lee beats Carissa Yip, claims third consecutive American Cup title"
-      },
-      {
          "description" : "The fifth edition of the American Cup featured ten days of spectacular, fighting chess from 16 of America's top chessplayers, hosted by the Saint Louis Chess Club.With a $400,000 prize fund on the line, players had to outclass each other across an innovative mixture of classical, rapid, and blitz games in this double elimination tournament.Once the dust settled, GM Wesley So won his first American Cup on Wednesday while IM Alice Lee had to play an extra day of chess before securing her third-straight American Cup. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> The 2026 American Cup cha",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/wesley-so-wins-open-alice-lee-secures-third-consecutive-womens-title-at-2026-american-cup/",
          "pubDate" : "Thu, 12 Mar 2026 20:22:54",
          "title" : "Wesley So Wins Open; Alice Lee Secures Third Consecutive Women's Title at 2026 American Cup"
-      },
-      {
-         "description" : "A sustained run of strong tournament results has enabled Bodhana Sivanandan to secure the FIDE Master title after she crossed the 2300 rating threshold for the first time. The British prodigy, who recently turned 11, gained more than 200 rating points across appearances in the 4NCL, Graz Open and Cannes Chess Festival, consistently holding her own against titled opposition. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bodhana-sivanandan-earns-fm-title",
-         "pubDate" : "Thu, 12 Mar 2026 18:00:00",
-         "title" : "Bodhana Sivanandan gains 200+ rating points in a month to secure FIDE Master title at 11"
       },
       {
          "description" : "Chess.com returned to the MIT Sloan Sports Analytics Conference in Boston last weekend and hosted a packed program that explored chess, AI, and the connection between mental and physical performance. The annual gathering of leading sports execut...",
@@ -90,36 +90,12 @@ news_feed (
          "title" : "Alice Lee Wins The American Cup 3rd Year In A Row"
       },
       {
-         "description" : "Weeks before the first move is played, the grenke Chess Festival 2026 is surpassing all previous dimensions. More than 3,000 registrations mark a new record for the world's largest open chess festival. With Magnus Carlsen and Vincent Keymer among the participants, and the chance to qualify for the next Freestyle World Championship, Karlsruhe will become the central meeting point of the international chess scene over Easter. | Photos: Darius Gorzinski",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/record-at-grenke-chess-festival",
-         "pubDate" : "Thu, 12 Mar 2026 12:00:00",
-         "title" : "Record at grenke Chess Festival"
-      },
-      {
          "description" : "Players are welcome to enter the 2026 European School Chess Championship, which is designated by the ECF as a Category B junior international.&#160;This means that it is open for all...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/2026-european-school-championship-expression-of-interest/",
          "pubDate" : "Thu, 12 Mar 2026 10:55:15",
          "title" : "2026 European School Championship - Expression of Interest"
-      },
-      {
-         "description" : "For almost a century, the Slovenian spa town of Bled has held a special place in international chess history. With the chess festival currently running until the weekend, this traditional venue continues the legacy of great tournaments - combining its historical prestige with an event for ambitious title holders, amateurs and young players. | Photos: Chess Festival Bled / Luka Rifelj",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bled-chess-festival-chess-tradition-in-idyllic-surroundings",
-         "pubDate" : "Thu, 12 Mar 2026 09:45:19",
-         "title" : "Bled Chess Festival: Chess tradition in idyllic surroundings"
-      },
-      {
-         "description" : "Day nine of the American Cup in Saint Louis brought the open section to a conclusion, with Wesley So winning the fifth edition of the tournament, while the women's event remained unresolved after Carissa Yip forced a Grand Final Reset against Alice Lee. In the open, the title was settled without the need for further tiebreaks, as So converted his lead from Tuesday into overall victory. In the women's section, by contrast, another long day of classical and blitz play still proved insufficient to crown a champion. | Pictured: Wesley So and Maurice Ashley | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2026-d9",
-         "pubDate" : "Thu, 12 Mar 2026 05:40:00",
-         "title" : "Wesley So wins fifth edition of American Cup"
       },
       {
          "description" : "GM Wesley So won his maiden title in The American Cup 2026 on Wednesday. After winning the first game against GM Levon Aronian the previous day, he held the necessary draw in game two to secure the match. He makes $75,000 plus another $15,000 bonu...",
@@ -416,22 +392,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-2",
          "pubDate" : "Wed, 04 Mar 2026 19:53:00",
          "title" : "Liang Beats Aronian, Tang Reverses Match Vs. Krush In Early Upsets"
-      },
-      {
-         "description" : "&#34;At the end I made it far too exciting!&#34; said GM Vincent Keymer after almost letting GM David Anton escape in round seven of the 2026 Prague Chess Festival Masters. GM Aravindh Chithambaram did spoil a win against GM Nodirbek Yakubboev, while the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-7",
-         "pubDate" : "Wed, 04 Mar 2026 17:22:00",
-         "title" : "Keymer Grabs Only Win As Van Foreest Maintains Lead In Prague"
-      },
-      {
-         "description" : "GM Hikaru Nakamura tops the field in the first Naroditsky Memorial Rapid &#38;amp; Blitz, set for July 3&#38;ndash;5 at the Charlotte Marriott City Center in Charlotte, United States. The event will bring together some of the world&#39;s strongest speed chess...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/naroditsky-memorial-rapid-blitz-announcement",
-         "pubDate" : "Wed, 04 Mar 2026 09:13:00",
-         "title" : "Nakamura Headlines $50,000 Naroditsky Memorial Rapid & Blitz"
       },
       {
          "description" : " by Dane McGuire Working as a part of the front desk staff at the Saint Louis Chess Club has shown me what a true world the game is. I didn't grow up playing, so as an adult, I have been fascinated by the connections between the game and everyday life and I wanted to share [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/10-life-lessons-from-chess-for-adult-beginners/\">10 Life Lessons From Chess for Adult Beginners</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
