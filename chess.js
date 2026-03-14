@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "IM Andrew Martin makes a compelling case for the Vienna Game as a versatile and dangerous weapon, offering rich attacking chances with far less theory than mainstream alternatives like the Ruy Lopez or Italian. His course covers three distinct approaches - aggressive f2-f4 systems, solid early Bc4 lines, and positional g3 setups - giving you a complete, hard-to-prepare-for repertoire with real practical punch.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/andrew-martin-the-vienna-game-dynamic-flexible-and-deeply-underestimated",
+         "pubDate" : "Sat, 14 Mar 2026 15:00:00",
+         "title" : "Andrew Martin: The Vienna Game - Dynamic, Flexible and Deeply Underestimated"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129575337.cms\" />The National Rapid and Blitz Chess Championship at Sarla Birla University in Ranchi saw over 400 players compete. Abhimanyu Puranik won the Blitz title with 9 points, beating Sayantan Das on tie-break, while Madhavan N B finished third. In Rapid, Aronyak Ghosh remained unbeaten with 9.5/11 to claim the championship.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/abhimanyu-puranik-aronyak-ghosh-clinch-blitz-and-rapid-titles-at-national-chess-championship/articleshow/129575337.cms",
+         "pubDate" : "Sat, 14 Mar 2026 14:02:32",
+         "title" : "Puranik, Aronyak clinch Blitz and Rapid titles at National Chess C'ship"
+      },
+      {
+         "description" : "Most people aren't ready for real chess improvement. What they chase is quick dopamine in the form of easy progress. The good news is that this allows you to outperform 90% of players if you just do the work: But there is a downside to being part of the 10% that actually wants real chess []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/real-chess-improvement-content/",
+         "pubDate" : "Sat, 14 Mar 2026 14:00:00",
+         "title" : "Mainstream Content Isn't For Real Chess Improvers"
+      },
+      {
+         "description" : "Last Saturday the annual contest between the universities of Oxford and Cambridge was held at the Royal Automobile Club in Pall Mall. There is, in these academic rivalries, a curious mixture of youthful ardour and ancient tradition, and the Varsity Match in chess is no exception. Its origin may be traced to that formidable Victorian []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-howard-staunton-society/",
+         "pubDate" : "Sat, 14 Mar 2026 12:06:25",
+         "title" : "The Howard Staunton Society"
+      },
+      {
          "description" : "The FIDE Candidates Tournament 2026 is set to begin on 29 March, when eight elite grandmasters will start their fourteen-round quest to earn the right to challenge reigning world champion Gukesh Dommaraju. The lineup combines seasoned contenders such as Fabiano Caruana and Hikaru Nakamura with rising stars including Praggnanandhaa Rameshbabu and Javokhir Sindarov. | Image: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -632,14 +664,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-lucknow-up-on-14-15-march-2026/",
          "pubDate" : "Mon, 23 Feb 2026 09:49:15",
          "title" : "SNA Seminar & Exam in Lucknow, UP on 14 & 15 March 2026"
-      },
-      {
-         "description" : "I have always been honest with you: Chess improvement is hard. There are no shortcuts. But recently, I realized I was making a critical mistake in how I spent my energy. I was spending 80% of my time trying to &#8220;save&#8221; the people who weren't doing the work. Answering the same basic doubts, soothing their []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/price-of-chess-improvement/",
-         "pubDate" : "Sat, 21 Feb 2026 14:00:00",
-         "title" : "The Price of Admission: How to Achieve Results You Are Truly Proud Of"
       }
    ]
 }
