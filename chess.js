@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hikaru Nakamura is playing a training match against Awonder Liang in Saint Louis as he fine-tunes his form ahead of the Candidates Tournament, which begins in two weeks' time. The three-day encounter, running from 13 to 15 March, combines classical, rapid and blitz games. Liang, ranked 25th in the world, provides strong opposition in a match broadcast live on Nakamura's Kick channel. | Follow the games live starting at 18.00 CET (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nakamura-liang-2026-live",
+         "pubDate" : "Sat, 14 Mar 2026 17:55:00",
+         "title" : "Nakamura v. Liang - Live!"
+      },
+      {
          "description" : "IM Andrew Martin makes a compelling case for the Vienna Game as a versatile and dangerous weapon, offering rich attacking chances with far less theory than mainstream alternatives like the Ruy Lopez or Italian. His course covers three distinct approaches - aggressive f2-f4 systems, solid early Bc4 lines, and positional g3 setups - giving you a complete, hard-to-prepare-for repertoire with real practical punch.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -96,14 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/3-0-thursday-bok-bortnyk-terry-3-12-2026",
          "pubDate" : "Fri, 13 Mar 2026 12:36:00",
          "title" : "Terry Extends Record, Bok and Bortnyk Win 3 0 Thursday"
-      },
-      {
-         "description" : "In early March, Jonathan Zhi had the chance to do a written interview with Ding Liren. His answers are translated from Chinese - the original answers are available here. The questions draw heavily from previous interviews, articles, podcasts and TV shows that Ding has given. Jonathan started following professional chess during college. At some point, he realised that many interesting players don't get to fully express themselves in the media. He started doing interviews to highlight those players and help them share their thoughts, stories and personalities. | Photo: Amruta Mokal / ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-ding-liren-jonathan-zhi-2026",
-         "pubDate" : "Fri, 13 Mar 2026 12:00:00",
-         "title" : "An interview with Ding Liren: Sports, engines, rest"
       },
       {
          "description" : " The world No 3 is backed to become the challenger but lost twice this week, to Wesley So and Levon Aronian Fabiano Caruana, the world No 3, reigning US champion and 5-2 favourite to win the world title Candidates at the Cap St Georges Resort, Pegeia, Cyprus, from 29 March to 16 April, planned to warm up with two events at his home town, St Louis, but events have not followed the script. Caruana was second to the former Russian Mikhail Antipov in the Saint Louis Masters, though he was unbeaten with 7/9, so this was still a good result. But then, in the American Cup, a double elimination format knockout, he lost to Wesley So and Levon Aronian in similar fashion, winning the first classical ga",
