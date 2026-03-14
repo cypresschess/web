@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One hundred years ago, a major chess tournament was held at the Semmering mountain pass, a meeting place of Vienna's high society. It was not the top favourite and future world champion Alexander Alekhine who came out on top, but the great tactician Rudolf Spielmann. The players left behind a wealth of games that are now regarded as classics.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/semmering-1926-rudolf-spielmann",
+         "pubDate" : "Sat, 14 Mar 2026 23:00:00",
+         "title" : "A century on: Rudolf Spielmann's surprise victory at Semmering"
+      },
+      {
          "description" : "Hikaru Nakamura is playing a training match against Awonder Liang in Saint Louis as he fine-tunes his form ahead of the Candidates Tournament, which begins in two weeks' time. The three-day encounter, running from 13 to 15 March, combines classical, rapid and blitz games. Liang, ranked 25th in the world, provides strong opposition in a match broadcast live on Nakamura's Kick channel. | Follow the games live starting at 18.00 CET (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
