@@ -1,4 +1,7 @@
 jtable([
+"CYPRESS","2026-03-13","31","<a href=https://ratings.uschess.org/event/202603130203 target='_blank'>KNIGHTS OF CYPRESS (TX)</a>",
+"SUGAR LAND","2026-03-13","16","<a href=https://ratings.uschess.org/event/202603130193 target='_blank'>FBCC 2026 Thailand Elephant Day Open</a>",
+"SPRING","2026-03-13","16","<a href=https://ratings.uschess.org/event/202603130003 target='_blank'>The Friday Knights</a>",
 "SUGAR LAND","2026-03-08","6","<a href=https://ratings.uschess.org/event/202603080523 target='_blank'>Spring-03-08-2026</a>",
 "HOUSTON","2026-03-08","10","<a href=https://ratings.uschess.org/event/202603080333 target='_blank'>Bellaire Sunday Swiss 2026.03.08</a>",
 "HOUSTON","2026-03-08","21","<a href=https://ratings.uschess.org/event/202603080003 target='_blank'>$2,500 MARCH CHAMPIONSHIP</a>",
@@ -96,7 +99,4 @@ jtable([
 "HOUSTON","2025-12-13","2","<a href=https://ratings.uschess.org/event/202512131523 target='_blank'>Match Play CLv AW  [2025-12-13], by Edgardo Francisco Acosta</a>",
 "HOUSTON","2025-12-13","360","<a href=https://ratings.uschess.org/event/202512131123 target='_blank'>MIMS TOURNAMENT DEC 2025</a>",
 "PASADENA","2025-12-12","22","<a href=https://ratings.uschess.org/event/202512120243 target='_blank'>Checkmates on Fairmont</a>",
-"SUGAR LAND","2025-12-12","14","<a href=https://ratings.uschess.org/event/202512120153 target='_blank'>FBCC 2025 International Pho Day Open</a>",
-"HOUSTON","2025-12-10","2","<a href=https://ratings.uschess.org/event/202512100183 target='_blank'>AW v JMcD</a>",
-"HOUSTON","2025-12-07","13","<a href=https://ratings.uschess.org/event/202512070363 target='_blank'>Bellaire Sunday Swiss 2025.12.07</a>",
 ]);
