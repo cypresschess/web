@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Candidates Tournament 2026 is set to begin on 29 March, when eight elite grandmasters will start their fourteen-round quest to earn the right to challenge reigning world champion Gukesh Dommaraju. The lineup combines seasoned contenders such as Fabiano Caruana and Hikaru Nakamura with rising stars including Praggnanandhaa Rameshbabu and Javokhir Sindarov. | Image: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-2026-eight-contenders-one-dream",
+         "pubDate" : "Sat, 14 Mar 2026 12:00:00",
+         "title" : "Candidates Tournament 2026: Eight contenders, one dream"
+      },
+      {
+         "description" : "&#160; The British Rapidplay commences at 12.30pm today (14/3/2026) and the games can be followed live &#8212; on Chess.com: https://www.chess.com/events/british-rapidplay-championship-2026 on Lichess.org: https://lichess.org/broadcast/british-rapidplay-championship-2026/SmKP99k8 &#160;",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-rapidplay-championship-2026/",
+         "pubDate" : "Sat, 14 Mar 2026 08:00:53",
+         "title" : "British Rapidplay Championship 2026 - follow the games!"
+      },
+      {
          "description" : "The concept behind Chessbase's \"60-minute\" courses is simple: a one-hour video course for just under 10 Euros. There are also courses on middle game and endgame topics, but most courses focus on quite \"specialised\" opening variations. In the second instalment of a short series, Jochen Schwarz presents the most important 60-minute courses for 1.e4 players against the French Defence.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -624,30 +640,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/price-of-chess-improvement/",
          "pubDate" : "Sat, 21 Feb 2026 14:00:00",
          "title" : "The Price of Admission: How to Achieve Results You Are Truly Proud Of"
-      },
-      {
-         "description" : "The 2026 FIDÉ Candidates Tournament will take place from March 28 to April 16, 2026, at the Cap St. Georges Hotel &#38; Resort in Paphos, Cyprus. This elite 14-round, double round-robin event will determine the challenger for the next World Chess Championship, featuring a prize fund of at least €700,000. The Women's Candidates Tournament will run []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/missing-link/",
-         "pubDate" : "Sat, 21 Feb 2026 10:53:41",
-         "title" : "Missing link"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128639872.cms\" />The 2026 FIDE Candidates and Women's Candidates pairings are out, with both tournaments set in Cyprus from March 28 to April 16 in a double round-robin format. Key open clashes include Caruana vs Nakamura and Praggnanandhaa vs Giri, while the women's event features major games like Humpy vs Divya. After 14 rounds, the winners will challenge the world champions.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-2026-full-draw-divya-deshmukh-vs-koneru-humpy-in-womens-opener-praggnanandhaa-faces-anish-giri/articleshow/128639872.cms",
-         "pubDate" : "Sat, 21 Feb 2026 09:31:53",
-         "title" : "Candidates full draw: Divya vs Humpy in women's opener; Pragg faces Giri"
-      },
-      {
-         "description" : "Wilhelm Steinitz had lost his World Championship title to Emanuel Lasker in 1894, but he still retained the right to a return match. That rematch was scheduled to take place in Moscow at the end of 1896. Before that, however, Steinitz played a training match against Emanuel Schiffers. Join us on a brief journey back in time to Rostov-on-Don in 1896.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/news-on-the-1896-schiffers-vs-steinitz-match",
-         "pubDate" : "Sat, 21 Feb 2026 09:00:00",
-         "title" : "News on the 1896 Schiffers vs Steinitz Match"
       }
    ]
 }
