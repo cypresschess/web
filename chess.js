@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hikaru Nakamura is playing a training match against Awonder Liang in Saint Louis as he fine-tunes his form ahead of the Candidates Tournament, which begins in two weeks' time. The three-day encounter, running from 13 to 15 March, combines classical, rapid and blitz games. Liang, ranked 25th in the world, provides strong opposition in a match broadcast live on Nakamura's Kick channel. | Follow the games live starting at 18.00 CET (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nakamura-liang-2026-live",
+         "pubDate" : "Sun, 15 Mar 2026 17:50:00",
+         "title" : "Nakamura v. Liang - Live!"
+      },
+      {
          "description" : "Two million Swedes play chess online, but only a few thousand are involved in traditional chess activities. This new category of players wants to have fun, be entertained and experience chess in a different way than in a quiet playing hall where competition and results are the focus. On 17-18 April 2026, Swedish chess history will be made when Chessparty Stockholm kicks off at Avicii Arena - a two-day festival that will be the country's biggest chess event ever.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
