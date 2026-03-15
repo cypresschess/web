@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this episode, Svitlana and Arne kick off a Candidates-themed tactics series by exploring beautiful combinations from the careers of several contenders, including Hikaru Nakamura, Anish Giri, Matthias Bl&uuml;baum, and Wei Yi. Each player is represented by an easier and a harder puzzle, and the lesson highlights recurring tactical themes such as queen deflections, mating nets, forcing moves, and precise attacking calculation. Along the way, they also discuss their Candidates favourites, with Arne backing Matthias Bl&uuml;baum as a dark horse, while Svitlana expects a fiercely contested tournament full of surprises.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-candidates-who-will-win-i",
+         "pubDate" : "Sun, 15 Mar 2026 11:00:00",
+         "title" : "Svitlana's Smart Moves - The Candidates: Who will win? (I)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129587609.cms\" />Sixteen-year-old Mayank Chakraborty has made history as the first Grandmaster from Assam and Northeast India. His landmark achievement in Sweden follows years of immense sacrifice, including his mother, Dr. Monomita Chakraborty, resigning from her medical career to support his journey. While celebrated as India's 94th GM, Mayank's family now seeks government and corporate backing to sustain his elite professional career.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/mother-quit-job-son-scripts-history-how-mayank-chakraborty-16-became-northeasts-1st-gm/articleshow/129587609.cms",
+         "pubDate" : "Sun, 15 Mar 2026 10:03:09",
+         "title" : "Mother quit job, son scripts history: How Mayank, 16, became Northeast's 1st GM"
+      },
+      {
          "description" : "Do you know the feeling? Over time, more and more databases accumulate in ChessBase: How do you keep track of them all? It's best to get organised right from the start - but how? In this tutorial, we'll show you how to organise and systematically save your own material so that you can always find everything quickly. It's not that complicated and it's actually fun!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +74,7 @@ news_feed (
          "title" : "The Howard Staunton Society"
       },
       {
-         "description" : "&#160; The British Rapidplay commences at 12.30pm today (14/3/2026) and the games can be followed live &#8212; on Chess.com: https://www.chess.com/events/british-rapidplay-championship-2026 on Lichess.org: https://lichess.org/broadcast/british-rapidplay-championship-2026/SmKP99k8 &#160;",
+         "description" : "&#160; The British Rapidplay commences at 12.30pm today (14/3/2026) and the games can be followed live &#8212; on Chess.com: https://www.chess.com/events/british-rapidplay-championship-2026 on Lichess.org: https://lichess.org/broadcast/british-rapidplay-championship-2026/SmKP99k8 Pictures by Ifemuyiwa Olayinka here https://drive.google.com/drive/folders/1bgngPBUNTpCX8bBNbwapSXw_ki4Gvg49",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/british-rapidplay-championship-2026/",
