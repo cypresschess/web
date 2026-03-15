@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two million Swedes play chess online, but only a few thousand are involved in traditional chess activities. This new category of players wants to have fun, be entertained and experience chess in a different way than in a quiet playing hall where competition and results are the focus. On 17-18 April 2026, Swedish chess history will be made when Chessparty Stockholm kicks off at Avicii Arena - a two-day festival that will be the country's biggest chess event ever.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sweden-s-biggest-chess-event-ever",
+         "pubDate" : "Sun, 15 Mar 2026 14:45:00",
+         "title" : "Sweden's biggest chess event ever"
+      },
+      {
          "description" : "In this episode, Svitlana and Arne kick off a Candidates-themed tactics series by exploring beautiful combinations from the careers of several contenders, including Hikaru Nakamura, Anish Giri, Matthias Bl&uuml;baum, and Wei Yi. Each player is represented by an easier and a harder puzzle, and the lesson highlights recurring tactical themes such as queen deflections, mating nets, forcing moves, and precise attacking calculation. Along the way, they also discuss their Candidates favourites, with Arne backing Matthias Bl&uuml;baum as a dark horse, while Svitlana expects a fiercely contested tournament full of surprises.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-mar-14-2026",
          "pubDate" : "Sat, 14 Mar 2026 18:25:00",
          "title" : "Bortnyk Storms Home To Claim Back-To-Back Brawls"
-      },
-      {
-         "description" : "Hikaru Nakamura is playing a training match against Awonder Liang in Saint Louis as he fine-tunes his form ahead of the Candidates Tournament, which begins in two weeks' time. The three-day encounter, running from 13 to 15 March, combines classical, rapid and blitz games. Liang, ranked 25th in the world, provides strong opposition in a match broadcast live on Nakamura's Kick channel. | Follow the games live starting at 18.00 CET (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nakamura-liang-2026-live",
-         "pubDate" : "Sat, 14 Mar 2026 17:55:00",
-         "title" : "Nakamura v. Liang - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129575337.cms\" />The National Rapid and Blitz Chess Championship at Sarla Birla University in Ranchi saw over 400 players compete. Abhimanyu Puranik won the Blitz title with 9 points, beating Sayantan Das on tie-break, while Madhavan N B finished third. In Rapid, Aronyak Ghosh remained unbeaten with 9.5/11 to claim the championship.",
