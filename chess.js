@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Do you know the feeling? Over time, more and more databases accumulate in ChessBase: How do you keep track of them all? It's best to get organised right from the start - but how? In this tutorial, we'll show you how to organise and systematically save your own material so that you can always find everything quickly. It's not that complicated and it's actually fun!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-7-organising-databases",
+         "pubDate" : "Sun, 15 Mar 2026 07:00:00",
+         "title" : "ChessBase&acute;26 - Tips for Beginners, Part 7: Organising databases!"
+      },
+      {
          "description" : "One hundred years ago, a major chess tournament was held at the Semmering mountain pass, a meeting place of Vienna's high society. It was not the top favourite and future world champion Alexander Alekhine who came out on top, but the great tactician Rudolf Spielmann. The players left behind a wealth of games that are now regarded as classics.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
