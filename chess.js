@@ -10,20 +10,20 @@ news_feed (
          "title" : "A century on: Rudolf Spielmann's surprise victory at Semmering"
       },
       {
+         "description" : "GM Oleksandr Bortnyk entered the Bullet Brawl ring and emerged victorious for the second week in a row on Saturday after storming home and posting a score of 161 points, pocketing the $400 first prize for the 16th time. In second place was GM Ar...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-mar-14-2026",
+         "pubDate" : "Sat, 14 Mar 2026 18:25:00",
+         "title" : "Bortnyk Storms Home To Claim Back-To-Back Brawls"
+      },
+      {
          "description" : "Hikaru Nakamura is playing a training match against Awonder Liang in Saint Louis as he fine-tunes his form ahead of the Candidates Tournament, which begins in two weeks' time. The three-day encounter, running from 13 to 15 March, combines classical, rapid and blitz games. Liang, ranked 25th in the world, provides strong opposition in a match broadcast live on Nakamura's Kick channel. | Follow the games live starting at 18.00 CET (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/nakamura-liang-2026-live",
          "pubDate" : "Sat, 14 Mar 2026 17:55:00",
          "title" : "Nakamura v. Liang - Live!"
-      },
-      {
-         "description" : "IM Andrew Martin makes a compelling case for the Vienna Game as a versatile and dangerous weapon, offering rich attacking chances with far less theory than mainstream alternatives like the Ruy Lopez or Italian. His course covers three distinct approaches - aggressive f2-f4 systems, solid early Bc4 lines, and positional g3 setups - giving you a complete, hard-to-prepare-for repertoire with real practical punch.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/andrew-martin-the-vienna-game-dynamic-flexible-and-deeply-underestimated",
-         "pubDate" : "Sat, 14 Mar 2026 15:00:00",
-         "title" : "Andrew Martin: The Vienna Game - Dynamic, Flexible and Deeply Underestimated"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129575337.cms\" />The National Rapid and Blitz Chess Championship at Sarla Birla University in Ranchi saw over 400 players compete. Abhimanyu Puranik won the Blitz title with 9 points, beating Sayantan Das on tie-break, while Madhavan N B finished third. In Rapid, Aronyak Ghosh remained unbeaten with 9.5/11 to claim the championship.",
@@ -50,36 +50,12 @@ news_feed (
          "title" : "The Howard Staunton Society"
       },
       {
-         "description" : "The FIDE Candidates Tournament 2026 is set to begin on 29 March, when eight elite grandmasters will start their fourteen-round quest to earn the right to challenge reigning world champion Gukesh Dommaraju. The lineup combines seasoned contenders such as Fabiano Caruana and Hikaru Nakamura with rising stars including Praggnanandhaa Rameshbabu and Javokhir Sindarov. | Image: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-2026-eight-contenders-one-dream",
-         "pubDate" : "Sat, 14 Mar 2026 12:00:00",
-         "title" : "Candidates Tournament 2026: Eight contenders, one dream"
-      },
-      {
          "description" : "&#160; The British Rapidplay commences at 12.30pm today (14/3/2026) and the games can be followed live &#8212; on Chess.com: https://www.chess.com/events/british-rapidplay-championship-2026 on Lichess.org: https://lichess.org/broadcast/british-rapidplay-championship-2026/SmKP99k8 &#160;",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/british-rapidplay-championship-2026/",
          "pubDate" : "Sat, 14 Mar 2026 08:00:53",
          "title" : "British Rapidplay Championship 2026 - follow the games!"
-      },
-      {
-         "description" : "The concept behind Chessbase's \"60-minute\" courses is simple: a one-hour video course for just under 10 Euros. There are also courses on middle game and endgame topics, but most courses focus on quite \"specialised\" opening variations. In the second instalment of a short series, Jochen Schwarz presents the most important 60-minute courses for 1.e4 players against the French Defence.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-60-minutes-against-the-french-2",
-         "pubDate" : "Sat, 14 Mar 2026 07:00:00",
-         "title" : "Review: 60 minutes against the French"
-      },
-      {
-         "description" : "The inaugural Naroditsky Memorial Rapid & Blitz will be held in Charlotte, North Carolina, from 3 to 5 July 2026, combining open tournaments with elite showcase events across a three-day festival. Featuring a guaranteed $50,000 prize fund and offering FIDE Circuit and US Chess Grand Prix points, the competition is open to players of all ratings, with participation limited to 300 entrants. Top seed Hikaru Nakamura is set to headline a programme that also includes a Creator Invitational and blitz finals.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/naroditsky-memorial-2026-announcement",
-         "pubDate" : "Sat, 14 Mar 2026 04:50:00",
-         "title" : "Naroditsky Memorial Rapid & Blitz set for July, Nakamura heads the field"
       },
       {
          "description" : "GM Pranav Venkatesh won his first Freestyle Friday of the new Freestyle Friday Championship on March 13, taking it outright with 9.5/11, as four different players have now won the first four tournaments of the new stakes (qualification for the 202...",
@@ -456,14 +432,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/mar/05/jennifer-shahade-interview-abuse-chess",
          "pubDate" : "Thu, 05 Mar 2026 12:00:03",
          "title" : "Jennifer Shahade: 'There's a long and embedded history of abuse in chess'"
-      },
-      {
-         "description" : "GMs Fabiano Caruana, Awonder Liang, Sam Sevian, and Wesley So advance in the Champions Bracket of The American Cup 2026 after defeating GMs Abhimanyu Mishra, Levon Aronian, Leinier Dominguez, and Ray Robson&#38;nbsp;respectively. Caruana held a draw a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-2",
-         "pubDate" : "Wed, 04 Mar 2026 19:53:00",
-         "title" : "Liang Beats Aronian, Tang Reverses Match Vs. Krush In Early Upsets"
       },
       {
          "description" : " by Dane McGuire Working as a part of the front desk staff at the Saint Louis Chess Club has shown me what a true world the game is. I didn't grow up playing, so as an adult, I have been fascinated by the connections between the game and everyday life and I wanted to share [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/10-life-lessons-from-chess-for-adult-beginners/\">10 Life Lessons From Chess for Adult Beginners</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
