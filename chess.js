@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the current ChessBase Magazine #230, Nico Zwirs analyses the game between his compatriots Jorden Van Foreest and Anish Giri from the Tata Steel Masters 2026 in the video. The focus is on the opening, as Van Foreest had clearly prepared something special against the Najdorf Variation - known to be one of Giri's specialities. After 11...Qc7, he continued with 12.a3 - 'A Karpovian move!'. White's idea is to move the b3 knight via c1 and a2 to b4 and from there to target the light squares d5 (and c6). Van Foreest thus invested four moves in improving his knight and securing his king's position. A new concept that paid off in full in this game! Take a look at this week's CBM reading sample!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-50",
+         "pubDate" : "Mon, 16 Mar 2026 10:00:00",
+         "title" : "\"A Karpovian move\""
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129605408.cms\" />Koneru Humpy is considering withdrawing from the FIDE Candidates Tournament in Cyprus due to safety concerns linked to the ongoing conflict involving the United States, Israel, and Iran. While FIDE says the situation is calm and preparations continue, Humpy believes holding the crucial event near a conflict zone is risky and suggests considering alternative venues or dates.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/huge-setback-koneru-humpy-likely-to-skip-womens-candidates-2026-heres-why/articleshow/129605408.cms",
+         "pubDate" : "Mon, 16 Mar 2026 09:29:55",
+         "title" : "Humpy likely to skip Women's Candidates 2026 - here's why"
+      },
+      {
+         "description" : "Congratulations to Frederick Waldhausen Gordon, who finished on 9&frac12;/11 to become the 2026 British Rapidplay Champion. &#160; In the British Women's Rapidplay Championship, Trisha Kanyamarala, Harriet Hunt, and Bodhana Sivanandan...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/frederick-waldhausen-gordon-wins-british-rapidplay-championship-2026/",
+         "pubDate" : "Mon, 16 Mar 2026 09:18:18",
+         "title" : "Frederick Waldhausen Gordon Wins British Rapidplay Championship 2026"
+      },
+      {
          "description" : "Were you able to solve the challenge positions we gave you last week? Were you able find the way to promote the pawns to win? Today we bring you all solutions, with very instructive video explanations by Jared Modica, a chess content creator from Austin, Texas. He shows us how to solve tatical lines of play, and how to handle pawns in endgames.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,7 +122,7 @@ news_feed (
          "title" : "The Howard Staunton Society"
       },
       {
-         "description" : "&#160; The British Rapidplay commences at 12.30pm today (14/3/2026) and the games can be followed live &#8212; on Chess.com: https://www.chess.com/events/british-rapidplay-championship-2026 on Lichess.org: https://lichess.org/broadcast/british-rapidplay-championship-2026/SmKP99k8 Pictures by Ifemuyiwa Olayinka here https://drive.google.com/drive/folders/1bgngPBUNTpCX8bBNbwapSXw_ki4Gvg49",
+         "description" : "&#160; The British Rapidplay commences at 12.30pm today (14/3/2026) and the games can be followed live &#8212; on Chess.com: https://www.chess.com/events/british-rapidplay-championship-2026 on Lichess.org: https://lichess.org/broadcast/british-rapidplay-championship-2026/SmKP99k8 Pictures by Ifemuyiwa Olayinka here https://drive.google.com/drive/folders/1bgngPBUNTpCX8bBNbwapSXw_ki4Gvg49...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/british-rapidplay-championship-2026/",
@@ -672,22 +696,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/regulation-5/",
          "pubDate" : "Mon, 23 Feb 2026 17:20:17",
          "title" : "Regulation 5"
-      },
-      {
-         "description" : "The European Senior Team Chess Championship 2026 will take place from 26th August to 5th September 2026 in Hersonissos, Crete, Greece. The event will be played in two age categories: 50+ and 65+, open and women's sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game+ 30 seconds increment for every move played. A separate Women's Championship will be []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2026-invitation/",
-         "pubDate" : "Mon, 23 Feb 2026 09:58:42",
-         "title" : "European Senior Team Chess Championship 2026 - Invitation"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation , UP Chess Sports Association is organizing Senior National Arbiter Seminar &#38; exam in Hotel Amber, Amber Market ,Charbagh Road ,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-exam-in-lucknow-up-on-14-15-march-2026/",
-         "pubDate" : "Mon, 23 Feb 2026 09:49:15",
-         "title" : "SNA Seminar & Exam in Lucknow, UP on 14 & 15 March 2026"
       }
    ]
 }
