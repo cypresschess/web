@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ulviyya Fataliyeva claimed clear first place at the IV International Women's Chess Championship in Bukhara, Uzbekistan, finishing strongly to score 6&frac12;/9 and a 2590 performance rating. The Azerbaijani representative secured the title with three consecutive wins in the closing rounds, overtaking Nana Dzagnidze, who remained unbeaten and finished second on 6 points. Harika Dronavalli took sole third place with 5&frac12;/9 in a compact, high-level round-robin event. | Photo: OSF via Women's Chess Coverage on X",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/international-women-championship-uzbekistan-2026",
+         "pubDate" : "Sun, 15 Mar 2026 23:55:00",
+         "title" : "Late surge gives Ulviyya Fataliyeva outright victory at strong women's round-robin in Uzbekistan"
+      },
+      {
          "description" : "Hikaru Nakamura is playing a training match against Awonder Liang in Saint Louis as he fine-tunes his form ahead of the Candidates Tournament, which begins in two weeks' time. The three-day encounter, running from 13 to 15 March, combines classical, rapid and blitz games. Liang, ranked 25th in the world, provides strong opposition in a match broadcast live on Nakamura's Kick channel. | Follow the games live starting at 18.00 CET (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
