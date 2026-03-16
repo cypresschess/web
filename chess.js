@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The American Cup was a double elimination knockout tournament held in Saint Louis. There is an open and women's event. Players Open event: Fabiano, Caruana, Wesley So, Leinier Dominguez Perez, Levon Aronian, Awonder Liang, Samuel Sevian, Ray Robson and Abhimanyu Mishra Players Women's event: Carissa Yip, Alice Lee, Irina Krush, Tatev Abrahamyan, Anna Sargsyan, Zoey Tang, Anna Zatonskih and Rachael Li. Wesley So won the final against Fabiano Caruana and the Grand Final against Levon Aronian. Alice Lee won the women's event, she beat Carissa Yip in the final, then lost a long tie to the same opponent in the Grand Final setting up a final Grand Final Reset which she won 1.5-0.5.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2026",
+         "pubDate" : "Mon, 16 Mar 2026 18:30:00",
+         "title" : "American Cup 2026 - Games and Results"
+      },
+      {
          "description" : "Hikaru Nakamura was defeated 6-4 by Awonder Liang in a three-day training match in Saint Louis held as preparation for the Candidates Tournament. After two drawn classical games, all eight encounters in the rapid and blitz sessions ended decisively, with Liang ultimately prevailing. The match provided Nakamura with competitive practice ahead of a demanding event, for which several of his future rivals have recently been active. | Photo: Saint Louis Chess Club / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +34,12 @@ news_feed (
          "title" : "Link for live games of 45th National Team Chess Championship 2026 & 23rd National Womens Team Chess Championship 2026"
       },
       {
-         "description" : "In the current ChessBase Magazine #230, Nico Zwirs analyses the game between his compatriots Jorden Van Foreest and Anish Giri from the Tata Steel Masters 2026 in the video. The focus is on the opening, as Van Foreest had clearly prepared something special against the Najdorf Variation - known to be one of Giri's specialities. After 11...Qc7, he continued with 12.a3 - 'A Karpovian move!'. White's idea is to move the b3 knight via c1 and a2 to b4 and from there to target the light squares d5 (and c6). Van Foreest thus invested four moves in improving his knight and securing his king's position. A new concept that paid off in full in this game! Take a look at this week's CBM reading sample!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-50",
-         "pubDate" : "Mon, 16 Mar 2026 10:00:00",
-         "title" : "\"A Karpovian move\""
+         "description" : "GM Awonder Liang beat GM Hikaru Nakamura 6-4 in the Hikaru vs. Awonder Candidates Training Match held in the Saint Louis Chess Club on March 13-15, 2026. The players made two draws in classical chess, then Liang won 3-1 in rapid, before the final ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-candidates-warm-up-awonder-liang",
+         "pubDate" : "Mon, 16 Mar 2026 11:25:00",
+         "title" : "Nakamura \"Not Unhappy\" Despite Losing Candidates Warm-Up To Liang"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129605408.cms\" />Koneru Humpy is considering withdrawing from the FIDE Candidates Tournament in Cyprus due to safety concerns linked to the ongoing conflict involving the United States, Israel, and Iran. While FIDE says the situation is calm and preparations continue, Humpy believes holding the crucial event near a conflict zone is risky and suggests considering alternative venues or dates.",
@@ -42,7 +50,7 @@ news_feed (
          "title" : "Humpy likely to skip Women's Candidates 2026 - here's why"
       },
       {
-         "description" : "Congratulations to Frederick Waldhausen Gordon, who finished on 9&frac12;/11 to become the 2026 British Rapidplay Champion. &#160; In the British Women's Rapidplay Championship, Trisha Kanyamarala, Harriet Hunt, and Bodhana Sivanandan...",
+         "description" : "Congratulations to Frederick Waldhausen Gordon, who finished on 9&frac12;/11 to become the 2026 British Rapidplay Champion. In the British Women's Rapidplay Championship, Trisha Kanyamarala, Harriet Hunt, and Bodhana Sivanandan share...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/frederick-waldhausen-gordon-wins-british-rapidplay-championship-2026/",
@@ -58,60 +66,12 @@ news_feed (
          "title" : "Can you handle pawns?"
       },
       {
-         "description" : "Ulviyya Fataliyeva claimed clear first place at the IV International Women's Chess Championship in Bukhara, Uzbekistan, finishing strongly to score 6&frac12;/9 and a 2590 performance rating. The Azerbaijani representative secured the title with three consecutive wins in the closing rounds, overtaking Nana Dzagnidze, who remained unbeaten and finished second on 6 points. Harika Dronavalli took sole third place with 5&frac12;/9 in a compact, high-level round-robin event. | Photo: OSF via Women's Chess Coverage on X",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/international-women-championship-uzbekistan-2026",
-         "pubDate" : "Sun, 15 Mar 2026 23:55:00",
-         "title" : "Late surge gives Ulviyya Fataliyeva outright victory at strong women's round-robin in Uzbekistan"
-      },
-      {
-         "description" : "Hikaru Nakamura is playing a training match against Awonder Liang in Saint Louis as he fine-tunes his form ahead of the Candidates Tournament, which begins in two weeks' time. The three-day encounter, running from 13 to 15 March, combines classical, rapid and blitz games. Liang, ranked 25th in the world, provides strong opposition in a match broadcast live on Nakamura's Kick channel. | Follow the games live starting at 18.00 CET (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nakamura-liang-2026-live",
-         "pubDate" : "Sun, 15 Mar 2026 17:50:00",
-         "title" : "Nakamura v. Liang - Live!"
-      },
-      {
-         "description" : "Two million Swedes play chess online, but only a few thousand are involved in traditional chess activities. This new category of players wants to have fun, be entertained and experience chess in a different way than in a quiet playing hall where competition and results are the focus. On 17-18 April 2026, Swedish chess history will be made when Chessparty Stockholm kicks off at Avicii Arena - a two-day festival that will be the country's biggest chess event ever.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sweden-s-biggest-chess-event-ever",
-         "pubDate" : "Sun, 15 Mar 2026 14:45:00",
-         "title" : "Sweden's biggest chess event ever"
-      },
-      {
-         "description" : "In this episode, Svitlana and Arne kick off a Candidates-themed tactics series by exploring beautiful combinations from the careers of several contenders, including Hikaru Nakamura, Anish Giri, Matthias Bl&uuml;baum, and Wei Yi. Each player is represented by an easier and a harder puzzle, and the lesson highlights recurring tactical themes such as queen deflections, mating nets, forcing moves, and precise attacking calculation. Along the way, they also discuss their Candidates favourites, with Arne backing Matthias Bl&uuml;baum as a dark horse, while Svitlana expects a fiercely contested tournament full of surprises.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-candidates-who-will-win-i",
-         "pubDate" : "Sun, 15 Mar 2026 11:00:00",
-         "title" : "Svitlana's Smart Moves - The Candidates: Who will win? (I)"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129587609.cms\" />Sixteen-year-old Mayank Chakraborty has made history as the first Grandmaster from Assam and Northeast India. His landmark achievement in Sweden follows years of immense sacrifice, including his mother, Dr. Monomita Chakraborty, resigning from her medical career to support his journey. While celebrated as India's 94th GM, Mayank's family now seeks government and corporate backing to sustain his elite professional career.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/mother-quit-job-son-scripts-history-how-mayank-chakraborty-16-became-northeasts-1st-gm/articleshow/129587609.cms",
          "pubDate" : "Sun, 15 Mar 2026 10:03:09",
          "title" : "Mother quit job, son scripts history: How Mayank, 16, became Northeast's 1st GM"
-      },
-      {
-         "description" : "Do you know the feeling? Over time, more and more databases accumulate in ChessBase: How do you keep track of them all? It's best to get organised right from the start - but how? In this tutorial, we'll show you how to organise and systematically save your own material so that you can always find everything quickly. It's not that complicated and it's actually fun!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-7-organising-databases",
-         "pubDate" : "Sun, 15 Mar 2026 07:00:00",
-         "title" : "ChessBase&acute;26 - Tips for Beginners, Part 7: Organising databases!"
-      },
-      {
-         "description" : "One hundred years ago, a major chess tournament was held at the Semmering mountain pass, a meeting place of Vienna's high society. It was not the top favourite and future world champion Alexander Alekhine who came out on top, but the great tactician Rudolf Spielmann. The players left behind a wealth of games that are now regarded as classics.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/semmering-1926-rudolf-spielmann",
-         "pubDate" : "Sat, 14 Mar 2026 23:00:00",
-         "title" : "A century on: Rudolf Spielmann's surprise victory at Semmering"
       },
       {
          "description" : "GM Oleksandr Bortnyk entered the Bullet Brawl ring and emerged victorious for the second week in a row on Saturday after storming home and posting a score of 161 points, pocketing the $400 first prize for the 16th time. In second place was GM Ar...",
@@ -418,14 +378,6 @@ news_feed (
          "title" : "The Most Important 45 Minutes of Your Chess Training"
       },
       {
-         "description" : " The American Cup is a double elimination knockout tournament held in Saint Louis. There is an open and women's event. Players Open event: Fabiano, Caruana, Wesley So, Leinier Dominguez Perez, Levon Aronian, Awonder Liang, Samuel Sevian, Ray Robson and Abhimanyu Mishra Players Women's event: Carissa Yip, Alice Lee, Irina Krush, Tatev Abrahamyan, Anna Sargsyan, Zoey Tang, Anna Zatonskih and Rachael Li. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2026",
-         "pubDate" : "Sat, 7 Mar 2026 11:34:00",
-         "title" : "American Cup 2026 - Games and Results"
-      },
-      {
          "description" : "Today sees the fruits of a proposal first made by Howard Staunton over a century and a half ago for an annual chess match between Oxford and Cambridge universities. In my preview of the day's events, universally acknowledged as the premier social event of the UK chess calendar, the Boat Race of the Brain, no []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -512,14 +464,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-3",
          "pubDate" : "Thu, 05 Mar 2026 22:55:00",
          "title" : "Robson, Mishra, Krush, Zatonskih Eliminated On Day 3"
-      },
-      {
-         "description" : "GM Hans Niemann&#39;s first win of what he called &#34;probably the worst tournament of my life&#34; looked to be the highlight of the penultimate round of the 2026 Prague Chess Festival Masters until some shocking late drama. The key games looked headed for ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-prague-chess-festival-round-8",
-         "pubDate" : "Thu, 05 Mar 2026 16:28:00",
-         "title" : "Abdusattorov Leapfrogs Van Foreest To Lead Before Final Round In Prague"
       },
       {
          "description" : " The former US women's champion changed her life and her sport when she made allegations against a grandmaster. Now she's turned her hand to writing and poker On 15 February 2023, Jennifer Shahade took a deep breath and wrote \"Time's up\" above a long message about allegations of sexual abuse in the cloistered world of professional chess. Shahade knew her words would have an impact but she didn't expect the <a href=\"https://x.com/JenShahade/status/1625873098581983232?s=20\">social media post</a> to go viral and change her life. A two-time US women's chess champion, Shahade chose her words carefully as she made serious allegations against Alejandro Ramirez, a then 34-year-old grandmaster from C",
@@ -704,22 +648,6 @@ news_feed (
          "link" : "https://aicf.in/vacancy-announcement-4/",
          "pubDate" : "Tue, 24 Feb 2026 07:31:12",
          "title" : "Vacancy Announcement"
-      },
-      {
-         "description" : "After a seven-year hiatus, a team competition that enjoys a unique place in London's chess calendar is back and has restarted play: the Bronowski Trophy. &#160; Named after the late...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/relaunch-of-the-bronowski-trophy/",
-         "pubDate" : "Mon, 23 Feb 2026 17:22:40",
-         "title" : "Relaunch of the Bronowski Trophy"
-      },
-      {
-         "description" : "Following a disagreement between Nick Faulks (then Chair of the Finance Council) and Mike Truran and a related exchange of correspondence in which Nick Faulks accused Mike Truran of casual...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/regulation-5/",
-         "pubDate" : "Mon, 23 Feb 2026 17:20:17",
-         "title" : "Regulation 5"
       }
    ]
 }
