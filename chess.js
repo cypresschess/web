@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hikaru Nakamura was defeated 6-4 by Awonder Liang in a three-day training match in Saint Louis held as preparation for the Candidates Tournament. After two drawn classical games, all eight encounters in the rapid and blitz sessions ended decisively, with Liang ultimately prevailing. The match provided Nakamura with competitive practice ahead of a demanding event, for which several of his future rivals have recently been active. | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/liang-scores-6-4-victory-over-nakamura-in-training-match",
+         "pubDate" : "Mon, 16 Mar 2026 14:00:00",
+         "title" : "Liang scores 6-4 victory over Nakamura in training match"
+      },
+      {
+         "description" : "A historic match, the UK v Ukraine Solidarity Chess Match, will take place on Tuesday, 17 March 2026, from 6:00 to 7:00 pm. &#160; The match brings together players from...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/uk-v-ukraine-solidarity-match-tuesday-17-march/",
+         "pubDate" : "Mon, 16 Mar 2026 12:54:48",
+         "title" : "UK v Ukraine Solidarity Match - Tuesday 17 March"
+      },
+      {
+         "description" : "National Team Link: https://lichess.org/broadcast/45th-national-team-chess-championship-2026/round-1/IDDjOSpF#boards National Women Link: https://lichess.org/broadcast/23rd-national-women-team-chess-championship-2026/round-1/3giZj2Qd#boards",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/link-for-live-games-of-45th-national-team-chess-championship-2026-23rd-national-womens-team-chess-championship-2026/",
+         "pubDate" : "Mon, 16 Mar 2026 12:28:24",
+         "title" : "Link for live games of 45th National Team Chess Championship 2026 & 23rd National Womens Team Chess Championship 2026"
+      },
+      {
          "description" : "In the current ChessBase Magazine #230, Nico Zwirs analyses the game between his compatriots Jorden Van Foreest and Anish Giri from the Tata Steel Masters 2026 in the video. The focus is on the opening, as Van Foreest had clearly prepared something special against the Najdorf Variation - known to be one of Giri's specialities. After 11...Qc7, he continued with 12.a3 - 'A Karpovian move!'. White's idea is to move the b3 knight via c1 and a2 to b4 and from there to target the light squares d5 (and c6). Van Foreest thus invested four moves in improving his knight and securing his king's position. A new concept that paid off in full in this game! Take a look at this week's CBM reading sample!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
