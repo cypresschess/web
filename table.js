@@ -1,4 +1,9 @@
 jtable([
+"HOUSTON","2026-03-15","6","<a href=https://ratings.uschess.org/event/202603150563 target='_blank'>2026 TCA Regional Scholastics Tourn</a>",
+"HOUSTON","2026-03-15","157","<a href=https://ratings.uschess.org/event/202603150483 target='_blank'>2026 Lone Star Open</a>",
+"HOUSTON","2026-03-15","10","<a href=https://ratings.uschess.org/event/202603150303 target='_blank'>Bellaire Sunday Swiss 2026.03.15</a>",
+"HOUSTON","2026-03-14","12","<a href=https://ratings.uschess.org/event/202603141353 target='_blank'>Lone Star Open Blitz</a>",
+"HOUSTON","2026-03-14","41","<a href=https://ratings.uschess.org/event/202603141343 target='_blank'>2026 Lone Star Scholastic</a>",
 "CYPRESS","2026-03-13","31","<a href=https://ratings.uschess.org/event/202603130203 target='_blank'>KNIGHTS OF CYPRESS (TX)</a>",
 "SUGAR LAND","2026-03-13","16","<a href=https://ratings.uschess.org/event/202603130193 target='_blank'>FBCC 2026 Thailand Elephant Day Open</a>",
 "SPRING","2026-03-13","16","<a href=https://ratings.uschess.org/event/202603130003 target='_blank'>The Friday Knights</a>",
@@ -94,9 +99,4 @@ jtable([
 "HOUSTON","2025-12-20","20","<a href=https://ratings.uschess.org/event/202512200173 target='_blank'>DEC20TH TROPHY SCHOLASTIC</a>",
 "CYPRESS","2025-12-19","27","<a href=https://ratings.uschess.org/event/202512190123 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-12-18","2","<a href=https://ratings.uschess.org/event/202512180303 target='_blank'>Match Play AW v CL</a>",
-"HOUSTON","2025-12-16","2","<a href=https://ratings.uschess.org/event/202512160323 target='_blank'>Match Play AW v JB</a>",
-"HOUSTON","2025-12-14","12","<a href=https://ratings.uschess.org/event/202512140233 target='_blank'>Bellaire Sunday Swiss 2025.12.14</a>",
-"HOUSTON","2025-12-13","2","<a href=https://ratings.uschess.org/event/202512131523 target='_blank'>Match Play CLv AW  [2025-12-13], by Edgardo Francisco Acosta</a>",
-"HOUSTON","2025-12-13","360","<a href=https://ratings.uschess.org/event/202512131123 target='_blank'>MIMS TOURNAMENT DEC 2025</a>",
-"PASADENA","2025-12-12","22","<a href=https://ratings.uschess.org/event/202512120243 target='_blank'>Checkmates on Fairmont</a>",
 ]);
