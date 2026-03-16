@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Were you able to solve the challenge positions we gave you last week? Were you able find the way to promote the pawns to win? Today we bring you all solutions, with very instructive video explanations by Jared Modica, a chess content creator from Austin, Texas. He shows us how to solve tatical lines of play, and how to handle pawns in endgames.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/can-you-handle-pawns-3",
+         "pubDate" : "Mon, 16 Mar 2026 07:51:18",
+         "title" : "Can you handle pawns?"
+      },
+      {
          "description" : "Ulviyya Fataliyeva claimed clear first place at the IV International Women's Chess Championship in Bukhara, Uzbekistan, finishing strongly to score 6&frac12;/9 and a 2590 performance rating. The Azerbaijani representative secured the title with three consecutive wins in the closing rounds, overtaking Nana Dzagnidze, who remained unbeaten and finished second on 6 points. Harika Dronavalli took sole third place with 5&frac12;/9 in a compact, high-level round-robin event. | Photo: OSF via Women's Chess Coverage on X",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
