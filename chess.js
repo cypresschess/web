@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Frederick Waldhausen Gordon of Scotland produced a striking late surge to win the 2026 British Rapidplay Championship in Peterborough, defeating top seed Gawain Maroroa Jones in the decisive final-round encounter. The two-day Swiss event attracted 228 participants, including seven grandmasters. Maroroa Jones and Shreyas Royal shared second place, while Trisha Kanyamarala, Harriet Hunt and Bodhana Sivanandan were declared co-winners of the British Women's Rapidplay title. | Photo: Ife Olayinka",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-rapidplay-championship-2026-report",
+         "pubDate" : "Tue, 17 Mar 2026 11:54:54",
+         "title" : "Scottish 15-year-old Frederick Gordon crowned British Rapidplay Champion"
+      },
+      {
+         "description" : "The&#160;Financial Times&#160;reported on the 2026 British Rapidplay Championship, highlighting the impressive success of 15-year-old Freddy Waldhausen Gordon. Seeded 25th, Freddy became the first Scot to win the event, defeating top-ranked...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-rapidplay-championship-featured-in-the-financial-times/",
+         "pubDate" : "Tue, 17 Mar 2026 10:52:20",
+         "title" : "British Rapidplay Championship Featured in the Financial Times"
+      },
+      {
+         "description" : "The ECU E-Magazine February 2026 is out! In this edition of the ECU E-Magazine you may read about: The ECU Magazine can be read online together with interactive links through&#160;the following link, or it can be downloaded in PDF format below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-february-2026/",
+         "pubDate" : "Tue, 17 Mar 2026 10:00:10",
+         "title" : "ECU E-Magazine February 2026"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129624612.cms\" />Despite concerns over Koneru Humpy potentially withdrawing from the Cyprus Candidates tournament due to regional tensions, India's rising chess stars Divya Deshmukh, R Vaishali, and R Praggnanandhaa are confirmed to participate. Their teams are actively planning travel and preparations, signaling their commitment to the prestigious event as the gateway to the World Championship.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sutovsky-interview-2026-candidates",
          "pubDate" : "Mon, 16 Mar 2026 22:10:00",
          "title" : "Emil Sutovsky: Candidates plans unchanged amid regional tensions"
-      },
-      {
-         "description" : " The American Cup was a double elimination knockout tournament held in Saint Louis. There is an open and women's event. Players Open event: Fabiano, Caruana, Wesley So, Leinier Dominguez Perez, Levon Aronian, Awonder Liang, Samuel Sevian, Ray Robson and Abhimanyu Mishra Players Women's event: Carissa Yip, Alice Lee, Irina Krush, Tatev Abrahamyan, Anna Sargsyan, Zoey Tang, Anna Zatonskih and Rachael Li. Wesley So won the final against Fabiano Caruana and the Grand Final against Levon Aronian. Alice Lee won the women's event, she beat Carissa Yip in the final, then lost a long tie to the same opponent in the Grand Final setting up a final Grand Final Reset which she won 1.5-0.5.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2026",
-         "pubDate" : "Mon, 16 Mar 2026 18:30:00",
-         "title" : "American Cup 2026 - Games and Results"
       },
       {
          "description" : "Hikaru Nakamura was defeated 6-4 by Awonder Liang in a three-day training match in Saint Louis held as preparation for the Candidates Tournament. After two drawn classical games, all eight encounters in the rapid and blitz sessions ended decisively, with Liang ultimately prevailing. The match provided Nakamura with competitive practice ahead of a demanding event, for which several of his future rivals have recently been active. | Photo: Saint Louis Chess Club / Lennart Ootes",
@@ -426,14 +442,6 @@ news_feed (
          "title" : "Gukesh apologises to fans; Indian stars slip in rankings: what's going wrong?"
       },
       {
-         "description" : " The 8th Prague International Chess Festival took place Tue 24th Feb to Fri 6th Mar 2026. Players Masters: Vincent Keymer, D Gukesh, Nodirbek Abdusattorov, Hans Moke, Niemann, Parham Maghsoodloo, Jorden Van Foreest, Aravindh Chithambaram V, Nodirbek Yakubboev, David Anton Guijarro and David Navara. There's a strong Challengers section, Futures and an open too. Nodirbek Abdusattorov won his third classical tournament in a row after London and Tata Steel. He won three and drew six games. Jorden Van Foreest took an early lead but defeats in the final two rounds took him down to a tie for second place with Maghsoodloo and Aravindh. World Champion Gukesh finished tied for last place with David An",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/8th-prague-international-chess-festival-2026",
-         "pubDate" : "Fri, 6 Mar 2026 21:59:00",
-         "title" : "8th Prague International Chess Festival 2026 - Games and Results"
-      },
-      {
          "description" : "GMs Fabiano Caruana and Wesley So advance to the Champions Final of The American Cup 2026. After making draws in the classical portion, they overcame GMs Awonder Liang and Sam Sevian in blitz tiebreaks 1.5-0.5 each, respectively. In the Eliminatio...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -520,14 +528,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-masters-pt-1",
          "pubDate" : "Tue, 03 Mar 2026 00:00:00",
          "title" : "Tactics Tuesday: Saint Louis Masters, Pt. 1"
-      },
-      {
-         "description" : " The Saint Louis Masters took place Tue 24th Feb to Sun 1st Mar 2026. Mikhail Antipov won the event with 7.5/9 after beating Andy Woodward in the final round, he was half a point clear of Fabiano Caruana who failed to convert a winning endgame against Francesco Sonis. Lorenzo Lodici finished in clear third place with 6.5/9.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-masters-2026",
-         "pubDate" : "Mon, 2 Mar 2026 14:34:00",
-         "title" : "Saint Louis Masters 2026 - Games and Results"
       },
       {
          "description" : "The 2026 Saint Louis Masters took place February 25 through March 1 at the Saint Louis Chess Club. A preamble to the American Cup (which begins tomorrow after today's blitz), this tournament featured 70 top competitors representing 23 federations, ranging from five American Cup participants to young norm-seekers.Almost of half of the field consisted of American players, and it was indeed Americans who finished first and second, although the winner might not have been your pre-tournament pick. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Mikhail Antipov is the Saint Louis Masters champion! (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> When a",
@@ -648,22 +648,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-i-am-not-supportive-of-that-d-gukesh-slams-vladimir-kramnik-over-cheating-allegations/articleshow/128753885.cms",
          "pubDate" : "Tue, 24 Feb 2026 14:11:19",
          "title" : "'I am not supportive of that': Gukesh slams Kramnik over cheating claims"
-      },
-      {
-         "description" : "All India Chess Federation invites applications from sincere, dedicated, and dynamic professionals for the following position: Position: PR ExecutiveEmployment Type: Full-Time Eligibility &#38; Qualifications:MBA /",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/vacancy-announcement-5/",
-         "pubDate" : "Tue, 24 Feb 2026 07:34:01",
-         "title" : "Vacancy Announcement"
-      },
-      {
-         "description" : "All India Chess Federation invites applications from sincere, hardworking, and proficient candidates for the following position:Name of the Post: Social Chess ExecutiveEmployment Type: Full-TimeEligibility &#38;",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/vacancy-announcement-4/",
-         "pubDate" : "Tue, 24 Feb 2026 07:31:12",
-         "title" : "Vacancy Announcement"
       }
    ]
 }
