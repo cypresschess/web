@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129624612.cms\" />Despite concerns over Koneru Humpy potentially withdrawing from the Cyprus Candidates tournament due to regional tensions, India's rising chess stars Divya Deshmukh, R Vaishali, and R Praggnanandhaa are confirmed to participate. Their teams are actively planning travel and preparations, signaling their commitment to the prestigious event as the gateway to the World Championship.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/iran-war-scare-pragg-vaishali-divya-set-for-candidates-2026-after-koneru-humpy-doubt/articleshow/129624612.cms",
+         "pubDate" : "Tue, 17 Mar 2026 05:50:24",
+         "title" : "Iran war scare: Pragg-Vaishali-Divya set for Candidates 2026 after Koneru Humpy doubt"
+      },
+      {
          "description" : "With the Candidates Tournament set to begin later this month, FIDE CEO Emil Sutovsky has addressed concerns about security, travel logistics and organisational preparations in an interview with Sagar Shah. While acknowledging regional tensions, Sutovsky stressed that plans for the event in Cyprus remain unchanged, with contingency measures in place and close coordination with local authorities. | Pictured: Sutovsky at the 2024 World Corporate Chess Championship in New York. | Photo: FIDE / Rafal Oleksiewicz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -55,7 +63,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-candidates-warm-up-awonder-liang",
          "pubDate" : "Mon, 16 Mar 2026 11:25:00",
-         "title" : "Nakamura \"Not Unhappy\" Despite Losing Candidates Warm-Up To Liang"
+         "title" : "Nakamura 'Not Unhappy' Despite Losing Candidates Warm-Up To Liang"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129605408.cms\" />Koneru Humpy is considering withdrawing from the FIDE Candidates Tournament in Cyprus due to safety concerns linked to the ongoing conflict involving the United States, Israel, and Iran. While FIDE says the situation is calm and preparations continue, Humpy believes holding the crucial event near a conflict zone is risky and suggests considering alternative venues or dates.",
