@@ -26,6 +26,14 @@ news_feed (
          "title" : "TePe Sigeman 2026 in May: Carlsen and Abdusattorov headline lineup"
       },
       {
+         "description" : "Titled Tuesday on March 17 was decided on the clock, as GM Nihal Sarin took home the victory with a final-round win over GM Nils Grandelius, with just 0.7 seconds remaining when Grandelius&#39; time expired in a drawn rook ending. Nihal started 8/8 an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nihal-wins-titled-tuesday-march-17-2026",
+         "pubDate" : "Tue, 17 Mar 2026 12:47:19",
+         "title" : "Nihal Sprints To Titled Tuesday Victory"
+      },
+      {
          "description" : "Frederick Waldhausen Gordon of Scotland produced a striking late surge to win the 2026 British Rapidplay Championship in Peterborough, defeating top seed Gawain Maroroa Jones in the decisive final-round encounter. The two-day Swiss event attracted 228 participants, including seven grandmasters. Maroroa Jones and Shreyas Royal shared second place, while Trisha Kanyamarala, Harriet Hunt and Bodhana Sivanandan were declared co-winners of the British Women's Rapidplay title. | Photo: Ife Olayinka",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +72,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/iran-war-scare-pragg-vaishali-divya-set-for-candidates-2026-after-koneru-humpy-doubt/articleshow/129624612.cms",
          "pubDate" : "Tue, 17 Mar 2026 05:50:24",
          "title" : "Iran war scare: Pragg-Vaishali-Divya set for Candidates 2026 after Koneru Humpy doubt"
+      },
+      {
+         "description" : "US Chess is seeking applicants for the position of Heads of Delegation (HOD) for the below 2026 FIDE International Youth events.The policy for selection is posted on the US Chess website. The three events covered by this process are: 2026 Pan-Am U7-U17 Chess Championships, May 11-18, 2026, Sonsonate, El Salvador.2026 World Cadet Cup (U8, U10, U12) Chess Championships, June 15-28, 2026, Butami, Georgia2026 World Youth (U14, U16, U18) Chess Championships, June 14-27, 2026, Montesilvano, ItalyApplicants for the position of HOD, must be a licensed FIDE Trainer. Find additional information about the FIDE Trainers' System here.A complete application will consist of the following:Application letter",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-seeking-hod-2026-international-youth-events",
+         "pubDate" : "Tue, 17 Mar 2026 00:00:00",
+         "title" : "US Chess Seeking HOD for 2026 International Youth Events"
       },
       {
          "description" : "Today's puzzles continues a series on the 2026 Saint Louis Masters (coverage here), won by GM Mikhail Antipov, who finished a half-point ahead of GM Fabiano Caruana to earn the $25,000 first-place prize. 70 players competed, including a number of top Americans (and five American Cup participants), as well as international norm seekers. Fire was on board from the top tables all the way through the standings, and we've got several weeks of educational entertainment as a result. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -522,14 +538,6 @@ news_feed (
          "title" : "Abdusattorov Wins His 2nd Prague Masters"
       },
       {
-         "description" : "IM Renato Terry extended his 3 0 Thursday win record to eight titles after prevailing in the second tournament with a commanding score of 9.5/11 on March 5. Adding to a growing stockpile of IM victories, Reza Mahdavi won his third title in consecu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/3-0-thursday-nakamura-terry-mahdavi-3-5-2026",
-         "pubDate" : "Fri, 06 Mar 2026 14:13:00",
-         "title" : "Indomitable Terry Extends Win Record, Nakamura & Mahdavi Bounce Back"
-      },
-      {
          "description" : " The youngest ever global title holder has had a hard time this year, but hopes for better in May, when he meets Magnus Carlsen in Norway Chess at Oslo, and in the autumn, when he defends his crown India's Gukesh Dommaraju, at 19 the youngest ever world champion, has had a hard time this year. The teenager has struggled at Wijk aan Zee, where he totalled a modest 50%, and then this week in Prague, where he finished joint last with 3.5/9, scoring his only victory of the tournament in the ninth and final round. Prague was won by Nodirbek Abdusattorov on 6/9, as the Uzbekistan No 1 continued his winning streak from the London Classic and Wijk aan Zee. <a href=\"https://www.theguardian.com/sport/",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/check-mail-march-2026-man-outposts",
          "pubDate" : "Mon, 02 Mar 2026 00:00:00",
          "title" : "Check is in the Mail, March 2026: Man the Outposts!"
-      },
-      {
-         "description" : "1. Whose Pick Is It Anyway?You arrive at your board before the game has started. Your opponent, playing white, has set up their equipment. The set and board are the standard chess warriors we have all come to know and love. The only issue is that their timer occupies your left side of the playing arena - your opponent's right side. Since you were assigned to lead the black pieces, you point out that you can choose the placement of the game clock; i.e., on your right-hand side of the board. Your opponent protests. Your adversary points out that since they set up the equipment first, they get to choose the clock placement. Time for some TD intervention: A. The TD allows your opponent to place ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-short-quiz-time",
-         "pubDate" : "Mon, 02 Mar 2026 00:00:00",
-         "title" : "Just the Rules: Short Quiz Time!"
       },
       {
          "description" : "When I first saw Jan Timman, he seemed less a chess player than a figure escaped from literature. At the junior team championship in The Hague in 1967, I encountered a young man whose appearance struck me with such force that I immediately thought of Tadzio from Death in Venice. He possessed that same luminous, almost []",
