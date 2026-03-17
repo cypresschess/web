@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A month ago Valery Golubenko played what may well have been one of the longest chess games ever seen, measured by number of moves, under today's rather restrictive conditions of modern chess life. It began in the morning and was finally stopped by the rules as the sun was setting.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-game-that-outlasted-the-day",
+         "pubDate" : "Tue, 17 Mar 2026 20:00:00",
+         "title" : "A Game That Outlasted the Day"
+      },
+      {
+         "description" : " Eyewitness photo | A forpit of potatoes | Milli-Helens | UK nuclear weapons | Say it's not Serco Flicking through the paper, I remarked that it was all bad news and upsetting items. Then I came across the centrefold photograph taken in Erzurum, Turkey and found myself close to tears. Young and old chess players together in a coffee house. What a great picture.<br><strong>Carol Taylor</strong><br><em>Darley Dale, Derbyshire</em> &bull; Regarding unusual measurements (<a href=\"https://www.theguardian.com/science/2026/mar/15/a-royal-rule-of-thumb-for-measurements\">Letters, 15 March</a>) my Scottish mother used to send me to the local Co-op to purchase a forpit of potatoes: a fourth part of a s",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/mar/17/joy-of-chess-keeps-dark-times-in-check",
+         "pubDate" : "Tue, 17 Mar 2026 17:25:49",
+         "title" : "Joy of chess keeps dark times in check | Brief letters"
+      },
+      {
          "description" : "World number one Magnus Carlsen is set to return to classical tournament play at the TePe Sigeman Chess Tournament, scheduled for 1-7 May in Malm&ouml;. The Norwegian will face a compact but ambitious field that includes recent Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and several leading young talents. Played as an eight-player round-robin, the long-running Swedish event once again combines established elite names with emerging contenders. | Pictured: Carlsen and Abdusattorov at the Paris leg of the 2025 Freestyle Chess Grand Slam | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,20 +34,20 @@ news_feed (
          "title" : "Scottish 15-year-old Frederick Gordon crowned British Rapidplay Champion"
       },
       {
-         "description" : "The&#160;Financial Times&#160;reported on the 2026 British Rapidplay Championship, highlighting the impressive success of 15-year-old Freddy Waldhausen Gordon. Seeded 25th, Freddy became the first Scot to win the event, defeating top-ranked...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-rapidplay-championship-featured-in-the-financial-times/",
-         "pubDate" : "Tue, 17 Mar 2026 10:52:20",
-         "title" : "British Rapidplay Championship Featured in the Financial Times"
-      },
-      {
          "description" : "The ECU E-Magazine February 2026 is out! In this edition of the ECU E-Magazine you may read about: The ECU Magazine can be read online together with interactive links through&#160;the following link, or it can be downloaded in PDF format below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-e-magazine-february-2026/",
          "pubDate" : "Tue, 17 Mar 2026 10:00:10",
          "title" : "ECU E-Magazine February 2026"
+      },
+      {
+         "description" : "The State of Chess show returns on March 24, when Chief Chess Officer IM Danny Rensch will once again share updates on Chess.com and the broader chess world. The show is also where you can ask us questions directly and get answers live during the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-state-of-chess-march-24-2026",
+         "pubDate" : "Tue, 17 Mar 2026 09:00:00",
+         "title" : "State Of Chess Returns March 24 With Rory Kennedy, Trust & Safety Update, AI Discussion"
       },
       {
          "description" : "Arsenal and England playmaker Eberechi Eze goes head-to-head against none other than GM Magnus Carlsen in a new ad for clothing brand New Balance. In a surprise twist, the world number-one gets checkmated! The campaign, promoting New Balance&#38;rsq...",
@@ -48,6 +64,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/iran-war-scare-pragg-vaishali-divya-set-for-candidates-2026-after-koneru-humpy-doubt/articleshow/129624612.cms",
          "pubDate" : "Tue, 17 Mar 2026 05:50:24",
          "title" : "Iran war scare: Pragg-Vaishali-Divya set for Candidates 2026 after Koneru Humpy doubt"
+      },
+      {
+         "description" : "Today's puzzles continues a series on the 2026 Saint Louis Masters (coverage here), won by GM Mikhail Antipov, who finished a half-point ahead of GM Fabiano Caruana to earn the $25,000 first-place prize. 70 players competed, including a number of top Americans (and five American Cup participants), as well as international norm seekers. Fire was on board from the top tables all the way through the standings, and we've got several weeks of educational entertainment as a result. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-masters-pt-3",
+         "pubDate" : "Tue, 17 Mar 2026 00:00:00",
+         "title" : "Tactics Tuesday: Saint Louis Masters, Pt. 3"
+      },
+      {
+         "description" : "What is this announcement?The USA will not send an official delegation to the 2026 Pan-American Youth. Why was this decision made?The 2026 Pan-Am Youth Championships are scheduled for July 26 through August 2, 2026, in Medell&iacute;n, Department of Antioquia, Colombia.Currently, the nation of Colombia is under a Level 3 travel advisory from the U.S. Department of State, which is defined as \"reconsider travel.\" The advisory further states that there is a heightened risk of crime, terrorism, civil unrest, and kidnapping. US Chess cannot reasonably guarantee our players, parents, coaches, and staff safe passage and accommodation in that region of the world at this time. Therefore, the US Chess",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-announcement-about-2026-pan-am-youth",
+         "pubDate" : "Tue, 17 Mar 2026 00:00:00",
+         "title" : "US Chess Announcement about the 2026 Pan-Am Youth"
       },
       {
          "description" : "With the Candidates Tournament set to begin later this month, FIDE CEO Emil Sutovsky has addressed concerns about security, travel logistics and organisational preparations in an interview with Sagar Shah. While acknowledging regional tensions, Sutovsky stressed that plans for the event in Cyprus remain unchanged, with contingency measures in place and close coordination with local authorities. | Pictured: Sutovsky at the 2024 World Corporate Chess Championship in New York. | Photo: FIDE / Rafal Oleksiewicz",
@@ -498,14 +530,6 @@ news_feed (
          "title" : "Indomitable Terry Extends Win Record, Nakamura & Mahdavi Bounce Back"
       },
       {
-         "description" : "GM Jan-Krzysztof Duda scored 9.5 points and took his second-ever Freestyle Friday on March 6, after his first came more than a year ago. He finished ahead of GM Martyn Kravtsiv, IM Almas Rakhmatullaev, and GM Oleksandr Bortnyk, who finished second...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/duda-wins-freestyle-friday-march-6-2026",
-         "pubDate" : "Fri, 06 Mar 2026 11:40:00",
-         "title" : "Duda Wins Freestyle Friday As Bortnyk Continues To Place High"
-      },
-      {
          "description" : " The youngest ever global title holder has had a hard time this year, but hopes for better in May, when he meets Magnus Carlsen in Norway Chess at Oslo, and in the autumn, when he defends his crown India's Gukesh Dommaraju, at 19 the youngest ever world champion, has had a hard time this year. The teenager has struggled at Wijk aan Zee, where he totalled a modest 50%, and then this week in Prague, where he finished joint last with 3.5/9, scoring his only victory of the tournament in the ninth and final round. Prague was won by Nodirbek Abdusattorov on 6/9, as the Uzbekistan No 1 continued his winning streak from the London Classic and Wijk aan Zee. <a href=\"https://www.theguardian.com/sport/",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -624,22 +648,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/feb/27/chess-british-players-win-isle-of-wight-masters-as-scots-achieve-rare-double",
          "pubDate" : "Fri, 27 Feb 2026 08:00:36",
          "title" : "Chess: British players win Isle of Wight Masters as Scots achieve rare double"
-      },
-      {
-         "description" : "Editor's note: For Black History Month, US Chess invited Dr. Daaim Shabazz to write a reflection on Black chess history as a complement to our player and coach profiles published earlier this month. As it was The Chess Drum's 25th anniversary on February 12, Dr. Shabazz shares a bit of personal history, as well, going into the origin of The Chess Drum as well as exploring the past, present, and future of Black chess in the U.S. A longer version of this piece is available on The Chess Drum. As we approach the end of Black History Month, something important in chess happened 25 years ago. At midnight on February 12, 2001, The Chess Drum website went live. The website started with eight pages a",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/25-years-chess-beat",
-         "pubDate" : "Fri, 27 Feb 2026 00:00:00",
-         "title" : "25 Years on the Chess Beat"
-      },
-      {
-         "description" : "Registration is now open for the FIDE World Cadet Chess Championships 2026. The international event - organized by FIDE and the Georgia Chess Federation - will be held in Batumi, Georgia from June 15 through June 28, 2026. US Chess will be accepting registrations for eligible U.S. participants until Monday, March 16, 2026, 5 p.m. CDT.TOURNAMENT DETAILS AND ELIGIBILITYThere will be six sections: Open and Girls in age categories Under 12, Under 10, and Under 8.A player's age as of Jan. 1, 2026 determines their age eligibility for a section.Under 12: Players born on or after Jan. 1, 2014Under 10: Players born on or after Jan. 1, 2016Under 8: Players born on or after Jan. 1, 2018Each event will ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/registration-open-2026-fide-world-cadet-cup-chess-championships",
-         "pubDate" : "Fri, 27 Feb 2026 00:00:00",
-         "title" : "Registration Open for 2026 FIDE World Cadet Cup Chess Championships"
       },
       {
          "description" : "On behalf of All India Chess Federation , Karnataka State Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Rao's Chess Corner ,Ground Floor, Jyothi Kiran.",
