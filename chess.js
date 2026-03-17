@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World number one Magnus Carlsen is set to return to classical tournament play at the TePe Sigeman Chess Tournament, scheduled for 1-7 May in Malm&ouml;. The Norwegian will face a compact but ambitious field that includes recent Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and several leading young talents. Played as an eight-player round-robin, the long-running Swedish event once again combines established elite names with emerging contenders. | Pictured: Carlsen and Abdusattorov at the Paris leg of the 2025 Freestyle Chess Grand Slam | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-announcement",
+         "pubDate" : "Tue, 17 Mar 2026 16:00:00",
+         "title" : "TePe Sigeman 2026 in May: Carlsen and Abdusattorov headline lineup"
+      },
+      {
          "description" : "Frederick Waldhausen Gordon of Scotland produced a striking late surge to win the 2026 British Rapidplay Championship in Peterborough, defeating top seed Gawain Maroroa Jones in the decisive final-round encounter. The two-day Swiss event attracted 228 participants, including seven grandmasters. Maroroa Jones and Shreyas Royal shared second place, while Trisha Kanyamarala, Harriet Hunt and Bodhana Sivanandan were declared co-winners of the British Women's Rapidplay title. | Photo: Ife Olayinka",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +34,14 @@ news_feed (
          "title" : "ECU E-Magazine February 2026"
       },
       {
+         "description" : "Arsenal and England playmaker Eberechi Eze goes head-to-head against none other than GM Magnus Carlsen in a new ad for clothing brand New Balance. In a surprise twist, the world number-one gets checkmated! The campaign, promoting New Balance&#38;rsq...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/eberechi-eze-checkmates-magnus-carlsen-in-new-ad",
+         "pubDate" : "Tue, 17 Mar 2026 06:07:00",
+         "title" : "Premier League Star Eberechi Eze Checkmates Magnus Carlsen In New Ad"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129624612.cms\" />Despite concerns over Koneru Humpy potentially withdrawing from the Cyprus Candidates tournament due to regional tensions, India's rising chess stars Divya Deshmukh, R Vaishali, and R Praggnanandhaa are confirmed to participate. Their teams are actively planning travel and preparations, signaling their commitment to the prestigious event as the gateway to the World Championship.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -42,6 +58,14 @@ news_feed (
          "title" : "Emil Sutovsky: Candidates plans unchanged amid regional tensions"
       },
       {
+         "description" : " The American Cup was a double elimination knockout tournament held in Saint Louis. There is an open and women's event. Players Open event: Fabiano, Caruana, Wesley So, Leinier Dominguez Perez, Levon Aronian, Awonder Liang, Samuel Sevian, Ray Robson and Abhimanyu Mishra Players Women's event: Carissa Yip, Alice Lee, Irina Krush, Tatev Abrahamyan, Anna Sargsyan, Zoey Tang, Anna Zatonskih and Rachael Li. Wesley So won the final against Fabiano Caruana and the Grand Final against Levon Aronian. Alice Lee won the women's event, she beat Carissa Yip in the final, then lost a long tie to the same opponent in the Grand Final setting up a final Grand Final Reset which she won 1.5-0.5.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2026",
+         "pubDate" : "Mon, 16 Mar 2026 18:30:00",
+         "title" : "American Cup 2026 - Games and Results"
+      },
+      {
          "description" : "Hikaru Nakamura was defeated 6-4 by Awonder Liang in a three-day training match in Saint Louis held as preparation for the Candidates Tournament. After two drawn classical games, all eight encounters in the rapid and blitz sessions ended decisively, with Liang ultimately prevailing. The match provided Nakamura with competitive practice ahead of a demanding event, for which several of his future rivals have recently been active. | Photo: Saint Louis Chess Club / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -55,7 +79,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-chesscom-open-play-in-1",
          "pubDate" : "Mon, 16 Mar 2026 13:49:00",
-         "title" : "Nepomniachtchi, Abdusattorov Qualify Through Play-in 1"
+         "title" : "Nepomniachtchi, Abdusattorov Qualify Through Play-In 1"
       },
       {
          "description" : "A historic match, the UK v Ukraine Solidarity Chess Match, will take place on Tuesday, 17 March 2026, from 6:00 to 7:00 pm. &#160; The match brings together players from...",
@@ -442,6 +466,14 @@ news_feed (
          "title" : "Gukesh apologises to fans; Indian stars slip in rankings: what's going wrong?"
       },
       {
+         "description" : " The 8th Prague International Chess Festival took place Tue 24th Feb to Fri 6th Mar 2026. Players Masters: Vincent Keymer, D Gukesh, Nodirbek Abdusattorov, Hans Moke, Niemann, Parham Maghsoodloo, Jorden Van Foreest, Aravindh Chithambaram V, Nodirbek Yakubboev, David Anton Guijarro and David Navara. There's a strong Challengers section, Futures and an open too. Nodirbek Abdusattorov won his third classical tournament in a row after London and Tata Steel. He won three and drew six games. Jorden Van Foreest took an early lead but defeats in the final two rounds took him down to a tie for second place with Maghsoodloo and Aravindh. World Champion Gukesh finished tied for last place with David An",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/8th-prague-international-chess-festival-2026",
+         "pubDate" : "Fri, 6 Mar 2026 21:59:00",
+         "title" : "8th Prague International Chess Festival 2026 - Games and Results"
+      },
+      {
          "description" : "GMs Fabiano Caruana and Wesley So advance to the Champions Final of The American Cup 2026. After making draws in the classical portion, they overcame GMs Awonder Liang and Sam Sevian in blitz tiebreaks 1.5-0.5 each, respectively. In the Eliminatio...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -482,14 +514,6 @@ news_feed (
          "title" : "Chess: Gukesh joint last in Prague as world champion, 19, struggles for form"
       },
       {
-         "description" : "Chess.com will return to the MIT Sloan Sports Analytics Conference at the Hynes Convention Center in Boston this weekend, once again bringing chess to one of the world&#38;rsquo;s premier gatherings of sports executives, analysts, and innovators. As...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-mit-sloan-conference-announcement",
-         "pubDate" : "Fri, 06 Mar 2026 07:23:23",
-         "title" : "Chess.com Returns To MIT Sloan Conference With AI Panel, Guess The Elo, Chessboxing"
-      },
-      {
          "description" : " The former US women's champion changed her life and her sport when she made allegations against a grandmaster. Now she's turned her hand to writing and poker On 15 February 2023, Jennifer Shahade took a deep breath and wrote \"Time's up\" above a long message about allegations of sexual abuse in the cloistered world of professional chess. Shahade knew her words would have an impact but she didn't expect the <a href=\"https://x.com/JenShahade/status/1625873098581983232?s=20\">social media post</a> to go viral and change her life. A two-time US women's chess champion, Shahade chose her words carefully as she made serious allegations against Alejandro Ramirez, a then 34-year-old grandmaster from C",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -528,6 +552,14 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-masters-pt-1",
          "pubDate" : "Tue, 03 Mar 2026 00:00:00",
          "title" : "Tactics Tuesday: Saint Louis Masters, Pt. 1"
+      },
+      {
+         "description" : " The Saint Louis Masters took place Tue 24th Feb to Sun 1st Mar 2026. Mikhail Antipov won the event with 7.5/9 after beating Andy Woodward in the final round, he was half a point clear of Fabiano Caruana who failed to convert a winning endgame against Francesco Sonis. Lorenzo Lodici finished in clear third place with 6.5/9.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-masters-2026",
+         "pubDate" : "Mon, 2 Mar 2026 14:34:00",
+         "title" : "Saint Louis Masters 2026 - Games and Results"
       },
       {
          "description" : "The 2026 Saint Louis Masters took place February 25 through March 1 at the Saint Louis Chess Club. A preamble to the American Cup (which begins tomorrow after today's blitz), this tournament featured 70 top competitors representing 23 federations, ranging from five American Cup participants to young norm-seekers.Almost of half of the field consisted of American players, and it was indeed Americans who finished first and second, although the winner might not have been your pre-tournament pick. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Mikhail Antipov is the Saint Louis Masters champion! (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> When a",
@@ -640,14 +672,6 @@ news_feed (
          "link" : "https://aicf.in/live-links-for-13th-national-amateur-chess-championship-2025-26/",
          "pubDate" : "Wed, 25 Feb 2026 07:38:31",
          "title" : "Live Links for 13th National Amateur Chess Championship 2025-26"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128753885.cms\" />World champion D Gukesh criticised Vladimir Kramnik's cheating allegations, saying cheating has been made a bigger issue than it is. While firmly against unethical play, Gukesh said he does not support Kramnik's approach and called for harmony in chess. The 19-year-old spoke ahead of the Prague International Chess Festival, where he hopes to regain form.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-i-am-not-supportive-of-that-d-gukesh-slams-vladimir-kramnik-over-cheating-allegations/articleshow/128753885.cms",
-         "pubDate" : "Tue, 24 Feb 2026 14:11:19",
-         "title" : "'I am not supportive of that': Gukesh slams Kramnik over cheating claims"
       }
    ]
 }
