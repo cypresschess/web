@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the world of chess, some move the pieces on the board and some build the stage upon which legends are born. Laszlo Nagy, a.k.a. 'Mr. First Saturday', is a name synonymous with the vibrant chess culture of Budapest. For over three decades, he has provided a launchpad for the world's most promising talents to achieve their dreams. Laszlo is the organiser of the First Saturday chess tournament in Hungary's capital, which has been running for 35 years now.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/laszlo-nagy-interview-2026",
+         "pubDate" : "Wed, 18 Mar 2026 15:00:00",
+         "title" : "Laszlo Nagy and the 35-year legacy of 'First Saturday'"
+      },
+      {
          "description" : "The Reykjav&iacute;k Open returns from 25 to 31 March at the Harpa Concert Hall and Conference Centre, once again bringing together a large international field for its traditional nine-round Swiss competition. Led by top seed Bogdan-Daniel Deac and featuring a mix of experienced contenders - such as Vasyl Ivanchuk - and young stars, the fully subscribed event continues a tradition that dates back to Mikhail Tal's victory in the inaugural 1964 edition. A varied festival programme will accompany the main tournament. | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
