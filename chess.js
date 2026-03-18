@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Reykjav&iacute;k Open returns from 25 to 31 March at the Harpa Concert Hall and Conference Centre, once again bringing together a large international field for its traditional nine-round Swiss competition. Led by top seed Bogdan-Daniel Deac and featuring a mix of experienced contenders - such as Vasyl Ivanchuk - and young stars, the fully subscribed event continues a tradition that dates back to Mikhail Tal's victory in the inaugural 1964 edition. A varied festival programme will accompany the main tournament. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2026-preview",
+         "pubDate" : "Wed, 18 Mar 2026 11:00:00",
+         "title" : "Starting next week: Organisers confirm full field for Reykjav&iacute;k Open"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129653449.cms\" />Indian chess star Koneru Humpy is uncertain about playing the Women's Candidates in Cyprus due to Middle East tensions. She recently voiced concerns publicly. However, a final decision is yet to be taken. Her withdrawal could lead to fines and impact Indian chess. If she opts out, Ukraine's Anna Muzychuk may replace her in the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/what-if-koneru-humpy-skips-womens-candidates-fine-replacement-and-setback-for-india/articleshow/129653449.cms",
+         "pubDate" : "Wed, 18 Mar 2026 10:39:35",
+         "title" : "What if Humpy skips Candidates? Fine, replacement, and 'setback for India'"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129648963.cms\" />Indian Grandmaster Koneru Humpy expressed safety concerns regarding the upcoming Candidates Tournament in Cyprus due to the West Asia conflict, leaving her participation undecided. While Humpy cited a drone attack as a reason for her hesitation, FIDE downplayed the risks, assuring that preparations are ongoing and the region remains stable.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -680,30 +696,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-mangalore-karnataka-on-21-22-march-2026/",
          "pubDate" : "Thu, 26 Feb 2026 08:24:04",
          "title" : "SNA Seminar & Exam in Mangalore, Karnataka on 21 & 22 March 2026"
-      },
-      {
-         "description" : "Harrow School Saturday 21st February 2026 Winning chess championships is only for the young?&#160; John Nunn disagrees.&#160; Age 70, he has won the 2026 Winton British Chess Solving Championship.&#160; The...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-the-evergreen-john-nunn/",
-         "pubDate" : "Wed, 25 Feb 2026 09:13:30",
-         "title" : "Winton British Chess Solving Championship - The Evergreen John Nunn"
-      },
-      {
-         "description" : "The 2026 edition of the International Prague Chess Festival was officially declared opened yesterday, and is set to commence today in Czech Republic. The Festival features Masters, Challengers and Futures round-robin events that are simultaneously played in the same venue, and includes Open tournaments, Rapid events and side chess tournaments. The Futures competition is supported by the European Chess Union and the FIDE Development fund. The Masters event features: GM Vincent Keymer (GER, 2776), reigning World Champion GM Gukesh D []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/prague-chess-festival-2026-starts/",
-         "pubDate" : "Wed, 25 Feb 2026 08:45:58",
-         "title" : "Prague Chess Festival 2026 starts"
-      },
-      {
-         "description" : "Please find the link Open 1700 https://live.tamilchess.com/13_nat_a/below_1700 Open 2000 https://live.tamilchess.com/13_nat_a/below_2000 Open 2300 https://live.tamilchess.com/13_nat_a/below_2300 Woman 1700 https://live.tamilchess.com/13_nat_a/w_below_1700 Woman 2000 https://live.tamilchess.com/13_nat_a/w_below_2000 Woman 2300 https://live.tamilchess.com/13_nat_a/w_below_2300",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-links-for-13th-national-amateur-chess-championship-2025-26/",
-         "pubDate" : "Wed, 25 Feb 2026 07:38:31",
-         "title" : "Live Links for 13th National Amateur Chess Championship 2025-26"
       }
    ]
 }
