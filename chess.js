@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129661239.cms\" />Former world champion Ding Liren has dropped out of the FIDE ratings list due to inactivity but says he is content with the break. After losing his title to D Gukesh, Ding is enjoying a quieter phase, playing casual online games. Reflecting on his journey, he admitted regrets about academics but remains relaxed, focusing on a less intense relationship with chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/wish-my-younger-self-had-studied-more-former-world-chess-champion-ding-liren/articleshow/129661239.cms",
+         "pubDate" : "Wed, 18 Mar 2026 17:01:16",
+         "title" : "'Wish my younger self had studied more': Ding Liren"
+      },
+      {
          "description" : "In the world of chess, some move the pieces on the board and some build the stage upon which legends are born. Laszlo Nagy, a.k.a. 'Mr. First Saturday', is a name synonymous with the vibrant chess culture of Budapest. For over three decades, he has provided a launchpad for the world's most promising talents to achieve their dreams. Laszlo is the organiser of the First Saturday chess tournament in Hungary's capital, which has been running for 35 years now.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://aicf.in/21st-asian-continental-chess-championships-mens-and-womens-2026-in-ulaanbaatar-mongolia-from-28th-may-to-07th-june-2026/",
          "pubDate" : "Wed, 18 Mar 2026 01:48:08",
          "title" : "21st Asian Continental Chess Championships (Men's and Women's) - 2026 in Ulaanbaatar, Mongolia from 28th May to 07th June 2026"
+      },
+      {
+         "description" : "Today's puzzles continue a series on the 2026 Saint Louis Masters (coverage here), won by GM Mikhail Antipov, who finished a half-point ahead of GM Fabiano Caruana to earn the $25,000 first-place prize. 70 players competed, including a number of top Americans (and five American Cup participants), as well as international norm seekers. Fire was on board from the top tables all the way through the standings, and we've got several weeks of educational entertainment as a result. For more puzzles from this event that are more beginner-friendly, check out our Tactics Tuesday series beginning here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable workshee",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-masters-pt-3",
+         "pubDate" : "Wed, 18 Mar 2026 00:00:00",
+         "title" : "Wednesday Workout: Saint Louis Masters, Pt. 3"
       },
       {
          "description" : "A month ago Valery Golubenko played what may well have been one of the longest chess games ever seen, measured by number of moves, under today's rather restrictive conditions of modern chess life. It began in the morning and was finally stopped by the rules as the sun was setting.",
@@ -648,14 +664,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/antipov-wins-saint-louis-masters-four-norms-earned",
          "pubDate" : "Mon, 02 Mar 2026 00:00:00",
          "title" : "Antipov Wins Saint Louis Masters, Four Norms Earned"
-      },
-      {
-         "description" : "The focus of this issue is games featuring outposts. The definition of an outpost in chess can refer to different pieces sitting on different squares (primarily in enemy territory), defended by virtually any piece. For the purposes of this issue, we are going to be a bit more specific; an outpost occurs when a knight sitting on a center square in enemy territory and is, at least, initially protected by a pawn.The games provided in this issue all feature an outpost for the player that won the game. Some games also feature an outpost for the player that lost the game. There are no drawn games.Enjoy!GamesReminder when reviewing the crosstables:XD = result by defaultXE = exceeded time limitThe l",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-march-2026-man-outposts",
-         "pubDate" : "Mon, 02 Mar 2026 00:00:00",
-         "title" : "Check is in the Mail, March 2026: Man the Outposts!"
       },
       {
          "description" : "When I first saw Jan Timman, he seemed less a chess player than a figure escaped from literature. At the junior team championship in The Hague in 1967, I encountered a young man whose appearance struck me with such force that I immediately thought of Tadzio from Death in Venice. He possessed that same luminous, almost []",
