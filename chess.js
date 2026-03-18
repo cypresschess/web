@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The international chess festival in the Slovenian resort town of Bled, staged for nearly a century, has concluded. Lithuania's Zanas Nainys (pictured, right) emerged as the clear winner of the event, which catered especially for ambitious titled players, amateurs and rising juniors. A powerful finish saw him overtake Leon Mazi - who had defeated him in round four - to claim first place. | Photos: Bled Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bled-chess-festival-2026-final-report",
+         "pubDate" : "Wed, 18 Mar 2026 02:00:00",
+         "title" : "Bled Chess Festival: Strong finish earns FM Zanas Nainys outright win"
+      },
+      {
+         "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the additional players and accompanying persons are required to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/21st-asian-continental-chess-championships-mens-and-womens-2026-in-ulaanbaatar-mongolia-from-28th-may-to-07th-june-2026/",
+         "pubDate" : "Wed, 18 Mar 2026 01:48:08",
+         "title" : "21st Asian Continental Chess Championships (Men's and Women's) - 2026 in Ulaanbaatar, Mongolia from 28th May to 07th June 2026"
+      },
+      {
          "description" : "A month ago Valery Golubenko played what may well have been one of the longest chess games ever seen, measured by number of moves, under today's rather restrictive conditions of modern chess life. It began in the morning and was finally stopped by the rules as the sun was setting.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
