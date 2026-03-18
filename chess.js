@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129648963.cms\" />Indian Grandmaster Koneru Humpy expressed safety concerns regarding the upcoming Candidates Tournament in Cyprus due to the West Asia conflict, leaving her participation undecided. While Humpy cited a drone attack as a reason for her hesitation, FIDE downplayed the risks, assuring that preparations are ongoing and the region remains stable.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/cannot-understand-the-sensitivity-koneru-humpy-breaks-silence-on-candidates-call/articleshow/129648963.cms",
+         "pubDate" : "Wed, 18 Mar 2026 06:23:54",
+         "title" : "'Cannot understand the sensitivity?' Koneru Humpy breaks silence on Candidates call"
+      },
+      {
          "description" : "The international chess festival in the Slovenian resort town of Bled, staged for nearly a century, has concluded. Lithuania's Zanas Nainys (pictured, right) emerged as the clear winner of the event, which catered especially for ambitious titled players, amateurs and rising juniors. A powerful finish saw him overtake Leon Mazi - who had defeated him in round four - to claim first place. | Photos: Bled Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
