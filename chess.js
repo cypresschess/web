@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 19th Agzamov Memorial is under way in Tashkent, attracting over 300 players across two rating sections. Strong grandmasters such as Haik Martirosyan, Pouya Idani and S.L. Narayanan have begun with perfect scores, but early rounds have also produced notable upsets, with lower-seeded players joining the lead group. Held in honour of Uzbekistan's first grandmaster, the tournament continues a long-standing tradition. | Pictured: Ukrainian GM Vitaliy Bernadskiy | Photo: Uzbek Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/agzamov-memorial-2026-r2",
+         "pubDate" : "Wed, 18 Mar 2026 23:35:00",
+         "title" : "Early surprises mark opening rounds of Agzamov Memorial in Uzbekistan"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129661239.cms\" />Former world champion Ding Liren has dropped out of the FIDE ratings list due to inactivity but says he is content with the break. After losing his title to D Gukesh, Ding is enjoying a quieter phase, playing casual online games. Reflecting on his journey, he admitted regrets about academics but remains relaxed, focusing on a less intense relationship with chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/wish-my-younger-self-had-studied-more-former-world-chess-champion-ding-liren/articleshow/129661239.cms",
          "pubDate" : "Wed, 18 Mar 2026 17:01:16",
          "title" : "'Wish my younger self had studied more': Ding Liren"
+      },
+      {
+         "description" : "GMs Pranesh M and Yu Yangyi&#38;nbsp;qualified for the 2026 Chess.com Open Playoffs through Play-In 2 on Wednesday. Pranesh advanced directly by having better tiebreaks than GM Wesley So, the only other player to finish on 7.5/9. Yu, who finished the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pranesh-yu-win-2026-chesscom-open-play-in-2",
+         "pubDate" : "Wed, 18 Mar 2026 15:14:00",
+         "title" : "Pranesh, Yu Yangyi Qualify Through Play-In 2"
       },
       {
          "description" : "In the world of chess, some move the pieces on the board and some build the stage upon which legends are born. Laszlo Nagy, a.k.a. 'Mr. First Saturday', is a name synonymous with the vibrant chess culture of Budapest. For over three decades, he has provided a launchpad for the world's most promising talents to achieve their dreams. Laszlo is the organiser of the First Saturday chess tournament in Hungary's capital, which has been running for 35 years now.",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-4",
          "pubDate" : "Fri, 06 Mar 2026 20:02:00",
          "title" : "Wesley So Vs. Caruana, Yip Vs. Lee In Champions Finals"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov is the first player to win the Prague Chess Festival Masters twice after an effortless draw against GM Hans Niemann in the final round was enough to win by a full point. Long-term leader GM Jorden van Foreest crashed and b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/abdusattorov-wins-2026-prague-chess-festival",
-         "pubDate" : "Fri, 06 Mar 2026 14:45:00",
-         "title" : "Abdusattorov Wins His 2nd Prague Masters"
       },
       {
          "description" : " The youngest ever global title holder has had a hard time this year, but hopes for better in May, when he meets Magnus Carlsen in Norway Chess at Oslo, and in the autumn, when he defends his crown India's Gukesh Dommaraju, at 19 the youngest ever world champion, has had a hard time this year. The teenager has struggled at Wijk aan Zee, where he totalled a modest 50%, and then this week in Prague, where he finished joint last with 3.5/9, scoring his only victory of the tournament in the ninth and final round. Prague was won by Nodirbek Abdusattorov on 6/9, as the Uzbekistan No 1 continued his winning streak from the London Classic and Wijk aan Zee. <a href=\"https://www.theguardian.com/sport/",
