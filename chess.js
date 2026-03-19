@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A world star up close: Ukrainian legendary grandmaster Vasyl Ivanchuk created an extraordinary chess celebration in Salzgitter-Bad. In a simultaneous exhibition at the Salzgitter-Bad grammar school, he faced 31 opponents at once - pupils, teachers and club players. The former world number two scored wins on all 31 boards. | Photos: Carolin K&ouml;pp",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ivnachuk-simul-salzgitter",
+         "pubDate" : "Thu, 19 Mar 2026 14:30:00",
+         "title" : "A legend visits Salzgitter: Vasyl Ivanchuk shines in 31-board simul"
+      },
+      {
+         "description" : "<ul><li> 'There are clear similarities to football' </li><li> World No 1 Magnus Carlsen likely to play </li></ul> Erling Haaland has become a significant investor in a new world chess championship tour that is expected to star his fellow Norwegian Magnus Carlsen, the Guardian can reveal. The deal was agreed shortly before <a href=\"https://www.theguardian.com/football/2026/mar/14/west-ham-manchester-city-premier-league-match-report\">Manchester City played at West Ham</a> last Saturday, with Haaland shown on Sky Sports <a href=\"https://www.skysports.com/football/video/33653/13519852/erling-haaland-was-the-manchester-city-striker-watching-the-arsenal-game-ahead-of-west-ham-match\">wearing a Norw",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/mar/19/striking-gambit-erling-haaland-invests-in-new-world-chess-championship",
+         "pubDate" : "Thu, 19 Mar 2026 13:25:50",
+         "title" : "Striking gambit: Erling Haaland invests in new world chess championship"
+      },
+      {
          "description" : "The 19th Agzamov Memorial is under way in Tashkent, attracting over 300 players across two rating sections. Strong grandmasters such as Haik Martirosyan, Pouya Idani and S.L. Narayanan have begun with perfect scores, but early rounds have also produced notable upsets, with lower-seeded players joining the lead group. Held in honour of Uzbekistan's first grandmaster, the tournament continues a long-standing tradition. | Pictured: Ukrainian GM Vitaliy Bernadskiy | Photo: Uzbek Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,22 +42,6 @@ news_feed (
          "title" : "Pranesh, Yu Yangyi Qualify Through Play-In 2"
       },
       {
-         "description" : "In the world of chess, some move the pieces on the board and some build the stage upon which legends are born. Laszlo Nagy, a.k.a. 'Mr. First Saturday', is a name synonymous with the vibrant chess culture of Budapest. For over three decades, he has provided a launchpad for the world's most promising talents to achieve their dreams. Laszlo is the organiser of the First Saturday chess tournament in Hungary's capital, which has been running for 35 years now.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/laszlo-nagy-interview-2026",
-         "pubDate" : "Wed, 18 Mar 2026 15:00:00",
-         "title" : "Laszlo Nagy and the 35-year legacy of 'First Saturday'"
-      },
-      {
-         "description" : "The Reykjav&iacute;k Open returns from 25 to 31 March at the Harpa Concert Hall and Conference Centre, once again bringing together a large international field for its traditional nine-round Swiss competition. Led by top seed Bogdan-Daniel Deac and featuring a mix of experienced contenders - such as Vasyl Ivanchuk - and young stars, the fully subscribed event continues a tradition that dates back to Mikhail Tal's victory in the inaugural 1964 edition. A varied festival programme will accompany the main tournament. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2026-preview",
-         "pubDate" : "Wed, 18 Mar 2026 11:00:00",
-         "title" : "Starting next week: Organisers confirm full field for Reykjav&iacute;k Open"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129653449.cms\" />Indian chess star Koneru Humpy is uncertain about playing the Women's Candidates in Cyprus due to Middle East tensions. She recently voiced concerns publicly. However, a final decision is yet to be taken. Her withdrawal could lead to fines and impact Indian chess. If she opts out, Ukraine's Anna Muzychuk may replace her in the tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -56,14 +56,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/cannot-understand-the-sensitivity-koneru-humpy-breaks-silence-on-candidates-call/articleshow/129648963.cms",
          "pubDate" : "Wed, 18 Mar 2026 06:23:54",
          "title" : "'Cannot understand the sensitivity?' Koneru Humpy breaks silence on Candidates call"
-      },
-      {
-         "description" : "The international chess festival in the Slovenian resort town of Bled, staged for nearly a century, has concluded. Lithuania's Zanas Nainys (pictured, right) emerged as the clear winner of the event, which catered especially for ambitious titled players, amateurs and rising juniors. A powerful finish saw him overtake Leon Mazi - who had defeated him in round four - to claim first place. | Photos: Bled Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bled-chess-festival-2026-final-report",
-         "pubDate" : "Wed, 18 Mar 2026 02:00:00",
-         "title" : "Bled Chess Festival: Strong finish earns FM Zanas Nainys outright win"
       },
       {
          "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the additional players and accompanying persons are required to",
@@ -82,14 +74,6 @@ news_feed (
          "title" : "Wednesday Workout: Saint Louis Masters, Pt. 3"
       },
       {
-         "description" : "A month ago Valery Golubenko played what may well have been one of the longest chess games ever seen, measured by number of moves, under today's rather restrictive conditions of modern chess life. It began in the morning and was finally stopped by the rules as the sun was setting.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-game-that-outlasted-the-day",
-         "pubDate" : "Tue, 17 Mar 2026 20:00:00",
-         "title" : "A Game That Outlasted the Day"
-      },
-      {
          "description" : " Eyewitness photo | A forpit of potatoes | Milli-Helens | UK nuclear weapons | Say it's not Serco Flicking through the paper, I remarked that it was all bad news and upsetting items. Then I came across the centrefold photograph taken in Erzurum, Turkey and found myself close to tears. Young and old chess players together in a coffee house. What a great picture.<br><strong>Carol Taylor</strong><br><em>Darley Dale, Derbyshire</em> &bull; Regarding unusual measurements (<a href=\"https://www.theguardian.com/science/2026/mar/15/a-royal-rule-of-thumb-for-measurements\">Letters, 15 March</a>) my Scottish mother used to send me to the local Co-op to purchase a forpit of potatoes: a fourth part of a s",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -98,28 +82,12 @@ news_feed (
          "title" : "Joy of chess keeps dark times in check | Brief letters"
       },
       {
-         "description" : "World number one Magnus Carlsen is set to return to classical tournament play at the TePe Sigeman Chess Tournament, scheduled for 1-7 May in Malm&ouml;. The Norwegian will face a compact but ambitious field that includes recent Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and several leading young talents. Played as an eight-player round-robin, the long-running Swedish event once again combines established elite names with emerging contenders. | Pictured: Carlsen and Abdusattorov at the Paris leg of the 2025 Freestyle Chess Grand Slam | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-announcement",
-         "pubDate" : "Tue, 17 Mar 2026 16:00:00",
-         "title" : "TePe Sigeman 2026 in May: Carlsen and Abdusattorov headline lineup"
-      },
-      {
          "description" : "Titled Tuesday on March 17 was decided on the clock, as GM Nihal Sarin took home the victory with a final-round win over GM Nils Grandelius, with just 0.7 seconds remaining when Grandelius&#39; time expired in a drawn rook ending. Nihal started 8/8 an...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nihal-wins-titled-tuesday-march-17-2026",
          "pubDate" : "Tue, 17 Mar 2026 12:47:19",
          "title" : "Nihal Sprints To Titled Tuesday Victory"
-      },
-      {
-         "description" : "Frederick Waldhausen Gordon of Scotland produced a striking late surge to win the 2026 British Rapidplay Championship in Peterborough, defeating top seed Gawain Maroroa Jones in the decisive final-round encounter. The two-day Swiss event attracted 228 participants, including seven grandmasters. Maroroa Jones and Shreyas Royal shared second place, while Trisha Kanyamarala, Harriet Hunt and Bodhana Sivanandan were declared co-winners of the British Women's Rapidplay title. | Photo: Ife Olayinka",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-rapidplay-championship-2026-report",
-         "pubDate" : "Tue, 17 Mar 2026 11:54:54",
-         "title" : "Scottish 15-year-old Frederick Gordon crowned British Rapidplay Champion"
       },
       {
          "description" : "The ECU E-Magazine February 2026 is out! In this edition of the ECU E-Magazine you may read about: The ECU Magazine can be read online together with interactive links through&#160;the following link, or it can be downloaded in PDF format below.",
@@ -178,28 +146,12 @@ news_feed (
          "title" : "US Chess Announcement about the 2026 Pan-Am Youth"
       },
       {
-         "description" : "With the Candidates Tournament set to begin later this month, FIDE CEO Emil Sutovsky has addressed concerns about security, travel logistics and organisational preparations in an interview with Sagar Shah. While acknowledging regional tensions, Sutovsky stressed that plans for the event in Cyprus remain unchanged, with contingency measures in place and close coordination with local authorities. | Pictured: Sutovsky at the 2024 World Corporate Chess Championship in New York. | Photo: FIDE / Rafal Oleksiewicz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sutovsky-interview-2026-candidates",
-         "pubDate" : "Mon, 16 Mar 2026 22:10:00",
-         "title" : "Emil Sutovsky: Candidates plans unchanged amid regional tensions"
-      },
-      {
          "description" : " The American Cup was a double elimination knockout tournament held in Saint Louis. There is an open and women's event. Players Open event: Fabiano, Caruana, Wesley So, Leinier Dominguez Perez, Levon Aronian, Awonder Liang, Samuel Sevian, Ray Robson and Abhimanyu Mishra Players Women's event: Carissa Yip, Alice Lee, Irina Krush, Tatev Abrahamyan, Anna Sargsyan, Zoey Tang, Anna Zatonskih and Rachael Li. Wesley So won the final against Fabiano Caruana and the Grand Final against Levon Aronian. Alice Lee won the women's event, she beat Carissa Yip in the final, then lost a long tie to the same opponent in the Grand Final setting up a final Grand Final Reset which she won 1.5-0.5.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/american-cup-2026",
          "pubDate" : "Mon, 16 Mar 2026 18:30:00",
          "title" : "American Cup 2026 - Games and Results"
-      },
-      {
-         "description" : "Hikaru Nakamura was defeated 6-4 by Awonder Liang in a three-day training match in Saint Louis held as preparation for the Candidates Tournament. After two drawn classical games, all eight encounters in the rapid and blitz sessions ended decisively, with Liang ultimately prevailing. The match provided Nakamura with competitive practice ahead of a demanding event, for which several of his future rivals have recently been active. | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/liang-scores-6-4-victory-over-nakamura-in-training-match",
-         "pubDate" : "Mon, 16 Mar 2026 14:00:00",
-         "title" : "Liang scores 6-4 victory over Nakamura in training match"
       },
       {
          "description" : "GMs Ian Nepomniachtchi and Nodirbek Abdusattorov qualified for the 2026 Chess.com Open Playoffs through Play-In 1 on Monday. Nepomniachtchi won the tournament outright, while Abdusattorov finished second and secured his spot by defeating third-pla...",
@@ -248,14 +200,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/frederick-waldhausen-gordon-wins-british-rapidplay-championship-2026/",
          "pubDate" : "Mon, 16 Mar 2026 09:18:18",
          "title" : "Frederick Waldhausen Gordon Wins British Rapidplay Championship 2026"
-      },
-      {
-         "description" : "Were you able to solve the challenge positions we gave you last week? Were you able find the way to promote the pawns to win? Today we bring you all solutions, with very instructive video explanations by Jared Modica, a chess content creator from Austin, Texas. He shows us how to solve tatical lines of play, and how to handle pawns in endgames.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/can-you-handle-pawns-3",
-         "pubDate" : "Mon, 16 Mar 2026 07:51:18",
-         "title" : "Can you handle pawns?"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129587609.cms\" />Sixteen-year-old Mayank Chakraborty has made history as the first Grandmaster from Assam and Northeast India. His landmark achievement in Sweden follows years of immense sacrifice, including his mother, Dr. Monomita Chakraborty, resigning from her medical career to support his journey. While celebrated as India's 94th GM, Mayank's family now seeks government and corporate backing to sustain his elite professional career.",
@@ -536,6 +480,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-6",
          "pubDate" : "Sun, 08 Mar 2026 20:27:00",
          "title" : "Wesley So, Alice Lee Reach Grand Finals"
+      },
+      {
+         "description" : "Accurate calculation is the be-all and end-all in chess. That is precisely what Surya Ganguly aims to teach. Young FIDE Master Bahne Fuhrmann of Hamburger SK reviews Ganguly's video course \"Calculation Step by Step - Vol. 1: Foundations.\" In his article, he takes a closer look at the tips and techniques proposed by the Indian grandmaster for calculating variations with precision. A course that demands active participation&hellip;",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-calculation-step-by-step-von-surya-ganguly",
+         "pubDate" : "Sun, 08 Mar 2026 07:00:00",
+         "title" : "Review: Calculation Step by Step von Surya Ganguly"
       },
       {
          "description" : " Artefacts include souvenirs from 1972 'Match of the Century' between Boris Spassky and Bobby Fischer A vast collection of chess memorabilia, including souvenirs from the 1972 \"Match of the Century\" and considered to be the largest and most important of its kind in private hands, is to be auctioned at Sotheby's in London next month. The collection belonged to the German grandmaster Lothar Schmid, whose passion for the sport extended way beyond the board. <a href=\"https://www.theguardian.com/sport/2026/mar/08/chess-grandmasters-lothar-schmid-memorabilia-sotheby-auction-london\">Continue reading...</a>",
