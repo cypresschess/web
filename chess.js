@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the latest episode of the English Chess Federation's Talented Tuesdays podcast, GM Matthew Sadler reflects on a formative game from his junior years that helped shape his chess identity. Discussing the challenges of finding a personal style, studying openings in the pre-digital era and balancing competitive chess with professional life, Sadler touches on his later work as an author. | Photo: Matthew Sadler's website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/matthew-sadler-talented-tuesdays-podcast-19",
+         "pubDate" : "Thu, 19 Mar 2026 20:00:00",
+         "title" : "Talented Tuesdays Podcast: Matthew Sadler on finding his chess voice"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129683687.cms\" />D Gukesh has faced criticism from Anatoly Karpov, who said his world title win over Ding Liren was \"by chance.\" Vladimir Kramnik also questioned the match quality. Despite this, Ding has remained calm, saying he is enjoying a quieter phase, playing casually and staying away from intense competition.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-won-title-by-chance-former-world-chess-champion-karpov-sparks-controversy/articleshow/129683687.cms",
+         "pubDate" : "Thu, 19 Mar 2026 16:47:23",
+         "title" : "'Gukesh won title by chance': Ex-world champ Karpov sparks controversy"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129682028.cms\" />Erling Haaland has invested in Norway Chess and its new Total Chess World Championship Tour to help grow the sport globally. Backed by FIDE, the tour will feature four yearly events across formats. Haaland said, \"Chess is an incredible game. It sharpens your mind,\" highlighting his belief in its global appeal.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/erling-haaland-reveals-entry-into-chess-with-global-goal-can-turn-into-even-bigger-sport/articleshow/129682028.cms",
+         "pubDate" : "Thu, 19 Mar 2026 15:13:26",
+         "title" : "Haaland reveals entry into chess: 'Can turn into even bigger sport'"
+      },
+      {
          "description" : "A world star up close: Ukrainian legendary grandmaster Vasyl Ivanchuk created an extraordinary chess celebration in Salzgitter-Bad. In a simultaneous exhibition at the Salzgitter-Bad grammar school, he faced 31 opponents at once - pupils, teachers and club players. The former world number two scored wins on all 31 boards. | Photos: Carolin K&ouml;pp",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +34,28 @@ news_feed (
          "title" : "A legend visits Salzgitter: Vasyl Ivanchuk shines in 31-board simul"
       },
       {
-         "description" : "<ul><li> 'There are clear similarities to football' </li><li> World No 1 Magnus Carlsen likely to play </li></ul> Erling Haaland has become a significant investor in a new world chess championship tour that is expected to star his fellow Norwegian Magnus Carlsen, the Guardian can reveal. The deal was agreed shortly before <a href=\"https://www.theguardian.com/football/2026/mar/14/west-ham-manchester-city-premier-league-match-report\">Manchester City played at West Ham</a> last Saturday, with Haaland shown on Sky Sports <a href=\"https://www.skysports.com/football/video/33653/13519852/erling-haaland-was-the-manchester-city-striker-watching-the-arsenal-game-ahead-of-west-ham-match\">wearing a Norw",
+         "description" : "<ul><li> 'There are clear similarities to football,' says Norwegian </li><li> Compatriot Magnus Carlsen, the world No 1, likely to play </li></ul> Erling Haaland has become a significant investor in a new world chess championship tour that is expected to star his fellow Norwegian Magnus Carlsen, the Guardian can reveal. The deal was agreed shortly before <a href=\"https://www.theguardian.com/football/2026/mar/14/west-ham-manchester-city-premier-league-match-report\">Manchester City played at West Ham</a> last Saturday, with Haaland shown on Sky Sports <a href=\"https://www.skysports.com/football/video/33653/13519852/erling-haaland-was-the-manchester-city-striker-watching-the-arsenal-game-ahead-",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/mar/19/striking-gambit-erling-haaland-invests-in-new-world-chess-championship",
          "pubDate" : "Thu, 19 Mar 2026 13:25:50",
          "title" : "Striking gambit: Erling Haaland invests in new world chess championship"
+      },
+      {
+         "description" : "Global football superstar Erling Haaland has entered the chess world as an investor in Norway Chess, backing the launch of the ambitious new Total Chess World Championship Tour&#38;mdash;an elite circuit expected to feature GM Magnus Carlsen. &#34;Chess...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/erling-haaland-joins-norway-chess-as-an-investor-chess-is-an-incredible-game",
+         "pubDate" : "Thu, 19 Mar 2026 11:59:00",
+         "title" : "Erling Haaland Invests In Norway Chess, Backs New Global Tour: 'Chess Is An Incredible Game'"
+      },
+      {
+         "description" : "Sixteen-year-old IM Alice Lee is the first female player to cross the 3000 rating mark on Chess.com in any time control&#38;mdash;whether in bullet, blitz, or rapid. On March 17, she reached a bullet rating of 3002. Lee started a 43-game s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alice-lee-breaks-3000-bullet-rating",
+         "pubDate" : "Thu, 19 Mar 2026 08:25:00",
+         "title" : "16-Year-Old Alice Lee 1st Woman To Break 3000 Rating On Chess.com"
       },
       {
          "description" : "The 19th Agzamov Memorial is under way in Tashkent, attracting over 300 players across two rating sections. Strong grandmasters such as Haik Martirosyan, Pouya Idani and S.L. Narayanan have begun with perfect scores, but early rounds have also produced notable upsets, with lower-seeded players joining the lead group. Held in honour of Uzbekistan's first grandmaster, the tournament continues a long-standing tradition. | Pictured: Ukrainian GM Vitaliy Bernadskiy | Photo: Uzbek Chess Federation",
@@ -482,14 +522,6 @@ news_feed (
          "title" : "Wesley So, Alice Lee Reach Grand Finals"
       },
       {
-         "description" : "Accurate calculation is the be-all and end-all in chess. That is precisely what Surya Ganguly aims to teach. Young FIDE Master Bahne Fuhrmann of Hamburger SK reviews Ganguly's video course \"Calculation Step by Step - Vol. 1: Foundations.\" In his article, he takes a closer look at the tips and techniques proposed by the Indian grandmaster for calculating variations with precision. A course that demands active participation&hellip;",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-calculation-step-by-step-von-surya-ganguly",
-         "pubDate" : "Sun, 08 Mar 2026 07:00:00",
-         "title" : "Review: Calculation Step by Step von Surya Ganguly"
-      },
-      {
          "description" : " Artefacts include souvenirs from 1972 'Match of the Century' between Boris Spassky and Bobby Fischer A vast collection of chess memorabilia, including souvenirs from the 1972 \"Match of the Century\" and considered to be the largest and most important of its kind in private hands, is to be auctioned at Sotheby's in London next month. The collection belonged to the German grandmaster Lothar Schmid, whose passion for the sport extended way beyond the board. <a href=\"https://www.theguardian.com/sport/2026/mar/08/chess-grandmasters-lothar-schmid-memorabilia-sotheby-auction-london\">Continue reading...</a>",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -504,14 +536,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-5",
          "pubDate" : "Sat, 07 Mar 2026 18:19:00",
          "title" : "Caruana Wins Game 1 Vs. Wesley So; Dominguez, Sevian, Tang, Li Eliminated"
-      },
-      {
-         "description" : "GM Oleksandr Bortnyk is $400 richer and has added a 15th Bullet Brawl title to his name after coming out on top of what he described as &#34;one of the hardest&#34; Bullet Brawls he has won. With a score of 150 points, Bortnyk finished two points ahead of...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-mar-7-2026",
-         "pubDate" : "Sat, 07 Mar 2026 17:06:00",
-         "title" : "Bortnyk Wins 'One Of The Hardest' Bullet Brawls Yet"
       },
       {
          "description" : "When you solve tactics in training, it feels easy peasy. Once you know there is a tactic, finding that fork, bishop sacrifice, or checkmate combination is relatively easy. But then you sit down to play a real game. Suddenly, you feel uncertain. Do I have to look for a tactic? Does it really work? Or []",
@@ -552,14 +576,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/8th-prague-international-chess-festival-2026",
          "pubDate" : "Fri, 6 Mar 2026 21:59:00",
          "title" : "8th Prague International Chess Festival 2026 - Games and Results"
-      },
-      {
-         "description" : "GMs Fabiano Caruana and Wesley So advance to the Champions Final of The American Cup 2026. After making draws in the classical portion, they overcame GMs Awonder Liang and Sam Sevian in blitz tiebreaks 1.5-0.5 each, respectively. In the Eliminatio...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-4",
-         "pubDate" : "Fri, 06 Mar 2026 20:02:00",
-         "title" : "Wesley So Vs. Caruana, Yip Vs. Lee In Champions Finals"
       },
       {
          "description" : " The youngest ever global title holder has had a hard time this year, but hopes for better in May, when he meets Magnus Carlsen in Norway Chess at Oslo, and in the autumn, when he defends his crown India's Gukesh Dommaraju, at 19 the youngest ever world champion, has had a hard time this year. The teenager has struggled at Wijk aan Zee, where he totalled a modest 50%, and then this week in Prague, where he finished joint last with 3.5/9, scoring his only victory of the tournament in the ninth and final round. Prague was won by Nodirbek Abdusattorov on 6/9, as the Uzbekistan No 1 continued his winning streak from the London Classic and Wijk aan Zee. <a href=\"https://www.theguardian.com/sport/",
