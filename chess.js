@@ -712,14 +712,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/feb/27/chess-british-players-win-isle-of-wight-masters-as-scots-achieve-rare-double",
          "pubDate" : "Fri, 27 Feb 2026 08:00:36",
          "title" : "Chess: British players win Isle of Wight Masters as Scots achieve rare double"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation , Karnataka State Chess Association is organizing Senior National Arbiter Seminar &#38; exam in Rao's Chess Corner ,Ground Floor, Jyothi Kiran.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-exam-in-mangalore-karnataka-on-21-22-march-2026/",
-         "pubDate" : "Thu, 26 Feb 2026 08:24:04",
-         "title" : "SNA Seminar & Exam in Mangalore, Karnataka on 21 & 22 March 2026"
       }
    ]
 }
