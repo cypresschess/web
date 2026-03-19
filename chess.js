@@ -42,7 +42,7 @@ news_feed (
          "title" : "Striking gambit: Erling Haaland invests in new world chess championship"
       },
       {
-         "description" : "Global football superstar Erling Haaland has entered the chess world as an investor in Norway Chess, backing the launch of the ambitious new Total Chess World Championship Tour&#38;mdash;an elite circuit expected to feature GM Magnus Carlsen. &#34;Chess...",
+         "description" : "Global soccer superstar Erling Haaland has entered the chess world as an investor in Norway Chess, backing the launch of the ambitious new Total Chess World Championship Tour&#38;mdash;an elite circuit expected to feature GM Magnus Carlsen. &#34;Chess i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/erling-haaland-joins-norway-chess-as-an-investor-chess-is-an-incredible-game",
