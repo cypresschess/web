@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Bruno Parma passed away on 6 February this year. Born in Ljubljana, he was one of Slovenia's strongest chess players. Parma competed in eight Chess Olympiads for Yugoslavia, winning four silver medals and two bronze medals with the team. | Photo: Dutch National Archive",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bruno-parma-1941-2026",
+         "pubDate" : "Fri, 20 Mar 2026 16:00:00",
+         "title" : "Bruno Parma (1941-2026)"
+      },
+      {
          "description" : "After the Prague International Chess Festival, the top players didn't want to stop playing, so they set up three boards for 6-player bughouse. World Champion Gukesh, Keymer, Maghsoodloo, and Ganguly were joined by rising \"futures\" stars Clio Alessi and Lilian Schirmbeck to create absolute chaos. Keymer was basically overpowered the entire game, while Ganguly held on with everything he had. The highlight? A ridiculous loophole battery where they sacrificed 10 knights and bishops in a row. Finally, no engines, no prep. Just pure fun between some of the best chess players in the world.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/mar/20/chess-scotlands-freddy-waldhausen-gordon-15-routs-the-english-in-british-rapidplay",
          "pubDate" : "Fri, 20 Mar 2026 07:25:58",
          "title" : "Chess: Scotland's Freddy Waldhausen Gordon, 15, routs the English in British Rapidplay"
+      },
+      {
+         "description" : "GM Koneru Humpy has said she is likely to withdraw from the upcoming FIDE Women&#39;s Candidates Tournament, scheduled to take place in Paphos, Cyprus, from March 29 to April 16, following safety concerns. The International Chess Federation (FIDE) has...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/koneru-weighs-candidates-withdrawal-amid-safety-concerns",
+         "pubDate" : "Fri, 20 Mar 2026 06:00:21",
+         "title" : "Koneru Considers Candidates Withdrawal Amid Safety Concerns In Cyprus"
       },
       {
          "description" : "Football star Erling Haaland has become a strategic investor in Norway Chess and its new Total Chess World Championship Tour. The planned circuit will feature four tournaments each season across fast classical, rapid and blitz formats, aiming to crown a combined world champion. A pilot event is scheduled for autumn 2026, with the full tour expected to launch in 2027. | Photo: FIDE",
@@ -50,14 +66,6 @@ news_feed (
          "title" : "Haaland reveals entry into chess: 'Can turn into even bigger sport'"
       },
       {
-         "description" : "A world star up close: Ukrainian legendary grandmaster Vasyl Ivanchuk created an extraordinary chess celebration in Salzgitter-Bad. In a simultaneous exhibition at the Salzgitter-Bad grammar school, he faced 31 opponents at once - pupils, teachers and club players. The former world number two scored wins on all 31 boards. | Photos: Carolin K&ouml;pp",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ivnachuk-simul-salzgitter",
-         "pubDate" : "Thu, 19 Mar 2026 14:30:00",
-         "title" : "A legend visits Salzgitter: Vasyl Ivanchuk shines in 31-board simul"
-      },
-      {
          "description" : "<ul><li> 'There are clear similarities to football,' says Norwegian </li><li> Compatriot Magnus Carlsen, the world No 1, likely to play </li></ul> Erling Haaland has become a significant investor in a new world chess championship tour that is expected to star his fellow Norwegian Magnus Carlsen, the Guardian can reveal. The deal was agreed shortly before <a href=\"https://www.theguardian.com/football/2026/mar/14/west-ham-manchester-city-premier-league-match-report\">Manchester City played at West Ham</a> last Saturday, with Haaland shown on Sky Sports <a href=\"https://www.skysports.com/football/video/33653/13519852/erling-haaland-was-the-manchester-city-striker-watching-the-arsenal-game-ahead-",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/alice-lee-breaks-3000-bullet-rating",
          "pubDate" : "Thu, 19 Mar 2026 08:25:00",
          "title" : "16-Year-Old Alice Lee 1st Woman To Break 3000 Rating On Chess.com"
-      },
-      {
-         "description" : "The 19th Agzamov Memorial is under way in Tashkent, attracting over 300 players across two rating sections. Strong grandmasters such as Haik Martirosyan, Pouya Idani and S.L. Narayanan have begun with perfect scores, but early rounds have also produced notable upsets, with lower-seeded players joining the lead group. Held in honour of Uzbekistan's first grandmaster, the tournament continues a long-standing tradition. | Pictured: Ukrainian GM Vitaliy Bernadskiy | Photo: Uzbek Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/agzamov-memorial-2026-r2",
-         "pubDate" : "Wed, 18 Mar 2026 23:35:00",
-         "title" : "Early surprises mark opening rounds of Agzamov Memorial in Uzbekistan"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129661239.cms\" />Former world champion Ding Liren has dropped out of the FIDE ratings list due to inactivity but says he is content with the break. After losing his title to D Gukesh, Ding is enjoying a quieter phase, playing casual online games. Reflecting on his journey, he admitted regrets about academics but remains relaxed, focusing on a less intense relationship with chess.",
@@ -552,14 +552,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/mar/08/chess-grandmasters-lothar-schmid-memorabilia-sotheby-auction-london",
          "pubDate" : "Sun, 08 Mar 2026 06:00:11",
          "title" : "German grandmaster's vast collection of chess memorabilia to be sold in London"
-      },
-      {
-         "description" : "GM Fabiano Caruana picked up a win against GM Wesley So in the first game of The American Cup 2026 Champions Final. In the Elimination Bracket, GMs Sam Sevian and Leinier Dominguez were eliminated by GMs Levon Aronian and Awonder Liang, respective...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-5",
-         "pubDate" : "Sat, 07 Mar 2026 18:19:00",
-         "title" : "Caruana Wins Game 1 Vs. Wesley So; Dominguez, Sevian, Tang, Li Eliminated"
       },
       {
          "description" : "When you solve tactics in training, it feels easy peasy. Once you know there is a tactic, finding that fork, bishop sacrifice, or checkmate combination is relatively easy. But then you sit down to play a real game. Suddenly, you feel uncertain. Do I have to look for a tactic? Does it really work? Or []",
