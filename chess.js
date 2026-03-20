@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Football star Erling Haaland has become a strategic investor in Norway Chess and its new Total Chess World Championship Tour. The planned circuit will feature four tournaments each season across fast classical, rapid and blitz formats, aiming to crown a combined world champion. A pilot event is scheduled for autumn 2026, with the full tour expected to launch in 2027. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/erling-haaland-investment-norway-chess",
+         "pubDate" : "Fri, 20 Mar 2026 01:00:00",
+         "title" : "Erling Haaland invests in Norway Chess to launch Total Chess World Championship Tour"
+      },
+      {
          "description" : "In the latest episode of the English Chess Federation's Talented Tuesdays podcast, GM Matthew Sadler reflects on a formative game from his junior years that helped shape his chess identity. Discussing the challenges of finding a personal style, studying openings in the pre-digital era and balancing competitive chess with professional life, Sadler touches on his later work as an author. | Photo: Matthew Sadler's website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
