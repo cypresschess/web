@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129705971.cms\" />Maxime Vachier-Lagrave ranked R Praggnanandhaa in B tier for the Candidates, calling it a \"hot take\" based on recent form. Despite strong 2025 performances, he cited six months of inconsistent results, saying, \"It's harsh&hellip; Pragg would have been at S tier.\" He added, \"It's been 6 months and his form has really not been great.\"",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-french-gm-maxime-vachier-lagrave-doubts-r-praggnanandhaas-chances/articleshow/129705971.cms",
+         "pubDate" : "Fri, 20 Mar 2026 17:34:56",
+         "title" : "Candidates: French GM Maxime Vachier-Lagrave doubts Pragg's chances"
+      },
+      {
          "description" : "Bruno Parma passed away on 6 February this year. Born in Ljubljana, he was one of Slovenia's strongest chess players. Parma competed in eight Chess Olympiads for Yugoslavia, winning four silver medals and two bronze medals with the team. | Photo: Dutch National Archive",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/bruno-parma-1941-2026",
          "pubDate" : "Fri, 20 Mar 2026 16:00:00",
          "title" : "Bruno Parma (1941-2026)"
+      },
+      {
+         "description" : "GM Benjamin Bok won Freestyle Friday on March 20, becoming the 25th different player to win the event. He also became the fifth different winner in the first five weeks of the Freestyle Friday Championship. Bok&#39;s 9.5 points out of 11 were enough t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bok-wins-freestyle-friday-march-20-2026",
+         "pubDate" : "Fri, 20 Mar 2026 12:04:59",
+         "title" : "9.5 Is Enough For Bok's First Freestyle Friday"
       },
       {
          "description" : "After the Prague International Chess Festival, the top players didn't want to stop playing, so they set up three boards for 6-player bughouse. World Champion Gukesh, Keymer, Maghsoodloo, and Ganguly were joined by rising \"futures\" stars Clio Alessi and Lilian Schirmbeck to create absolute chaos. Keymer was basically overpowered the entire game, while Ganguly held on with everything he had. The highlight? A ridiculous loophole battery where they sacrificed 10 knights and bishops in a row. Finally, no engines, no prep. Just pure fun between some of the best chess players in the world.",
@@ -536,14 +552,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/faustino-oro-misses-historic-gm-record",
          "pubDate" : "Mon, 09 Mar 2026 08:15:00",
          "title" : "'I Will Become A Grandmaster Soon': Faustino Oro Falls Short Of Youngest GM Record"
-      },
-      {
-         "description" : "GM Wesley So, trailing by a point against GM Fabiano Caruana in The American Cup 2026 Champions Final, needed to win on demand just to stay alive. He did just that, in an opposite-color bishop endgame, and then won the blitz playoffs to advance to...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-6",
-         "pubDate" : "Sun, 08 Mar 2026 20:27:00",
-         "title" : "Wesley So, Alice Lee Reach Grand Finals"
       },
       {
          "description" : " Artefacts include souvenirs from 1972 'Match of the Century' between Boris Spassky and Bobby Fischer A vast collection of chess memorabilia, including souvenirs from the 1972 \"Match of the Century\" and considered to be the largest and most important of its kind in private hands, is to be auctioned at Sotheby's in London next month. The collection belonged to the German grandmaster Lothar Schmid, whose passion for the sport extended way beyond the board. <a href=\"https://www.theguardian.com/sport/2026/mar/08/chess-grandmasters-lothar-schmid-memorabilia-sotheby-auction-london\">Continue reading...</a>",
