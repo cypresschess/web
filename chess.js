@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After the Prague International Chess Festival, the top players didn't want to stop playing, so they set up three boards for 6-player bughouse. World Champion Gukesh, Keymer, Maghsoodloo, and Ganguly were joined by rising \"futures\" stars Clio Alessi and Lilian Schirmbeck to create absolute chaos. Keymer was basically overpowered the entire game, while Ganguly held on with everything he had. The highlight? A ridiculous loophole battery where they sacrificed 10 knights and bishops in a row. Finally, no engines, no prep. Just pure fun between some of the best chess players in the world.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-keymer-maghsoodloo-ganguly-6-player-bughouse-is-pure-chaos",
+         "pubDate" : "Fri, 20 Mar 2026 10:28:50",
+         "title" : "Gukesh, Keymer, Maghsoodloo, Ganguly: 6-Player Bughouse is pure chaos"
+      },
+      {
+         "description" : " The teenager defeated the tournament favourite, Gawain Maroroa Jones, in the final round to secure victory by half a point Freddy Waldhausen Gordon, a 15-year-old from George Heriot's school, Edinburgh, came through with a stunning burst to capture the annual British Rapidplay championship in Peterborough with a score of 9.5/11, defeating the top-seeded GM, Gawain Maroroa Jones, in the final round in <a href=\"https://lichess.org/broadcast/british-rapidplay-championship-2026--boards-1-100/round-11/hFTdUahE/3qeDxhsO\">a must-win game</a> by a checkmating attack where White's queen and both rooks all invaded Black's rear rank. Maroroa Jones was in trouble early in the decisive game, soon had to",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/mar/20/chess-scotlands-freddy-waldhausen-gordon-15-routs-the-english-in-british-rapidplay",
+         "pubDate" : "Fri, 20 Mar 2026 07:25:58",
+         "title" : "Chess: Scotland's Freddy Waldhausen Gordon, 15, routs the English in British Rapidplay"
+      },
+      {
          "description" : "Football star Erling Haaland has become a strategic investor in Norway Chess and its new Total Chess World Championship Tour. The planned circuit will feature four tournaments each season across fast classical, rapid and blitz formats, aiming to crown a combined world champion. A pilot event is scheduled for autumn 2026, with the full tour expected to launch in 2027. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://aicf.in/certificates-of-sna-seminar-exam-in-ahmedabad-on-02-03-jan-2026/",
          "pubDate" : "Sat, 28 Feb 2026 08:04:17",
          "title" : "Certificates of SNA Seminar & Exam in Ahmedabad on 02 & 03 Jan 2026"
-      },
-      {
-         "description" : " GM Matthew Wadsworth won in Ryde on tiebreak, Scottish GM Matthew Turner also shared first, while in Graz Scotland's Freddy Waldhausen Gordon, 15, qualified for the IM title In just two years, the <a href=\"https://www.iowchess.com/\">Isle of Wight Masters</a> at Ryde school has become established as one of Britain's most popular events. Its scenic ambience, impressive organisation and competitive spirit have combined to attract a strong international entry. Last weekend GM Matthew Wadsworth emerged first on tie-break ahead of IM Tobias Koelle (Germany) and GM Matthew Turner (Scotland) after the trio all scored 7/9. Wadsworth also won in 2025. <a href=\"https://www.theguardian.com/sport/2026/f",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/feb/27/chess-british-players-win-isle-of-wight-masters-as-scots-achieve-rare-double",
-         "pubDate" : "Fri, 27 Feb 2026 08:00:36",
-         "title" : "Chess: British players win Isle of Wight Masters as Scots achieve rare double"
       }
    ]
 }
