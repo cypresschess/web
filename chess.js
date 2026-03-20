@@ -18,6 +18,14 @@ news_feed (
          "title" : "Bruno Parma (1941-2026)"
       },
       {
+         "description" : "Some weeks, a score of nine out of eleven is enough to win 3 0 Thursday, but on March 19, all three tournament winners won at least ten games, leaving little doubt regarding the best performance in each event. GM Aravindh Chithambaram won the firs...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/3-0-thursday-aravindh-duda-movahed-3-19-2026",
+         "pubDate" : "Fri, 20 Mar 2026 14:01:00",
+         "title" : "Aravindh, Duda, and Movahed Dominate 3 0 Thursdays"
+      },
+      {
          "description" : "GM Benjamin Bok won Freestyle Friday on March 20, becoming the 25th different player to win the event. He also became the fifth different winner in the first five weeks of the Freestyle Friday Championship. Bok&#39;s 9.5 points out of 11 were enough t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -544,14 +552,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-junior-u20-chess-championship-2026-official-invitation/",
          "pubDate" : "Mon, 09 Mar 2026 08:33:57",
          "title" : "European Junior U20 Chess Championship 2026 - Official invitation"
-      },
-      {
-         "description" : "Argentinian prodigy IM Faustino Oro came within one victory of making chess history before losing the final round of the 2026 Aeroflot Open last week. Despite the loss, the youngster ended the tournament with a rating gain and remained positive ab...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/faustino-oro-misses-historic-gm-record",
-         "pubDate" : "Mon, 09 Mar 2026 08:15:00",
-         "title" : "'I Will Become A Grandmaster Soon': Faustino Oro Falls Short Of Youngest GM Record"
       },
       {
          "description" : " Artefacts include souvenirs from 1972 'Match of the Century' between Boris Spassky and Bobby Fischer A vast collection of chess memorabilia, including souvenirs from the 1972 \"Match of the Century\" and considered to be the largest and most important of its kind in private hands, is to be auctioned at Sotheby's in London next month. The collection belonged to the German grandmaster Lothar Schmid, whose passion for the sport extended way beyond the board. <a href=\"https://www.theguardian.com/sport/2026/mar/08/chess-grandmasters-lothar-schmid-memorabilia-sotheby-auction-london\">Continue reading...</a>",
