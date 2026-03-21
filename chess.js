@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase&acute;26 offers many possibilities for organising databases so that they contain all the important information, while remaining clear and user-friendly. In this episode, learn how to use ChessBase features to improve your game.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-268-tips-for-beginners-part-8-together-what-belongs-together",
+         "pubDate" : "Sat, 21 Mar 2026 07:00:00",
+         "title" : "ChessBase&acute;26 - Tips for Beginners, Part 8: Together what belongs together...!"
+      },
+      {
          "description" : "The 144th Varsity Chess Match between Oxford and Cambridge, played on 7 March 2026 at London's Royal Automobile Club, ended in a closely contested 4-4 draw. Cambridge struck on the top boards through IM Rajat Makkar and Remy Rushbrooke, while Oxford responded with wins by Andrea Henderson and Savin Dias further down the lineup. With four games drawn, the balanced result preserved Cambridge's narrow historical lead. | Pictured: Connor Clarke (Oxford captain), Henry McWatters (Royal Automobile Club), Remy Rushbrooke (Cambridge captain) | Photo: John Saunders",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
