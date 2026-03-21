@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 144th Varsity Chess Match between Oxford and Cambridge, played on 7 March 2026 at London's Royal Automobile Club, ended in a closely contested 4-4 draw. Cambridge struck on the top boards through IM Rajat Makkar and Remy Rushbrooke, while Oxford responded with wins by Andrea Henderson and Savin Dias further down the lineup. With four games drawn, the balanced result preserved Cambridge's narrow historical lead. | Pictured: Connor Clarke (Oxford captain), Henry McWatters (Royal Automobile Club), Remy Rushbrooke (Cambridge captain) | Photo: John Saunders",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oxford-cambridge-match-2026",
+         "pubDate" : "Sat, 21 Mar 2026 01:15:00",
+         "title" : "Oxford and Cambridge share honours in 144th Varsity Match"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129705971.cms\" />Maxime Vachier-Lagrave ranked R Praggnanandhaa in B tier for the Candidates, calling it a \"hot take\" based on recent form. Despite strong 2025 performances, he cited six months of inconsistent results, saying, \"It's harsh&hellip; Pragg would have been at S tier.\" He added, \"It's been 6 months and his form has really not been great.\"",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/bok-wins-freestyle-friday-march-20-2026",
          "pubDate" : "Fri, 20 Mar 2026 12:04:59",
          "title" : "9.5 Is Enough For Bok's First Freestyle Friday"
-      },
-      {
-         "description" : "After the Prague International Chess Festival, the top players didn't want to stop playing, so they set up three boards for 6-player bughouse. World Champion Gukesh, Keymer, Maghsoodloo, and Ganguly were joined by rising \"futures\" stars Clio Alessi and Lilian Schirmbeck to create absolute chaos. Keymer was basically overpowered the entire game, while Ganguly held on with everything he had. The highlight? A ridiculous loophole battery where they sacrificed 10 knights and bishops in a row. Finally, no engines, no prep. Just pure fun between some of the best chess players in the world.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gukesh-keymer-maghsoodloo-ganguly-6-player-bughouse-is-pure-chaos",
-         "pubDate" : "Fri, 20 Mar 2026 10:28:50",
-         "title" : "Gukesh, Keymer, Maghsoodloo, Ganguly: 6-Player Bughouse is pure chaos"
       },
       {
          "description" : " The teenager defeated the tournament favourite, Gawain Maroroa Jones, in the final round to secure victory by half a point Freddy Waldhausen Gordon, a 15-year-old from George Heriot's school, Edinburgh, came through with a stunning burst to capture the annual British Rapidplay championship in Peterborough with a score of 9.5/11, defeating the top-seeded GM, Gawain Maroroa Jones, in the final round in <a href=\"https://lichess.org/broadcast/british-rapidplay-championship-2026--boards-1-100/round-11/hFTdUahE/3qeDxhsO\">a must-win game</a> by a checkmating attack where White's queen and both rooks all invaded Black's rear rank. Maroroa Jones was in trouble early in the decisive game, soon had to",
