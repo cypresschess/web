@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this second part of Svitlana's Smart Moves: Candidates Special, Svitlana and Arne go through tactical highlights from the remaining four Candidates players, giving viewers both easier and harder puzzles to solve along with them. The episode especially showcases Fabiano Caruana's astonishing calculation depth, several brilliant attacking ideas by Praggnanandhaa, and a series of creative tactical shots that underline why these players are so dangerous.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-candidates-who-will-win-i-2",
+         "pubDate" : "Sat, 21 Mar 2026 10:00:00",
+         "title" : "Svitlana's Smart Moves - The Candidates: Who will win? (II)"
+      },
+      {
          "description" : "ChessBase&acute;26 offers many possibilities for organising databases so that they contain all the important information, while remaining clear and user-friendly. In this episode, learn how to use ChessBase features to improve your game.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -688,22 +696,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/real-chess-improvement/",
          "pubDate" : "Sat, 28 Feb 2026 14:00:00",
          "title" : "Why Real Chess Improvement Looks Like Cheating"
-      },
-      {
-         "description" : "To mark International Women's Day, the Greek Chess Federation, through its Committee for Women's Chess &#38; Gender Equality, is organising a nationwide, simultaneous chess event on Sunday, 8 March 2026, titled &#8216;Women's Moves, Lively Squares: Chess Unites Greece &#8216;. This open event is dedicated to strengthening the presence of women in chess and actively promoting the sport in public spaces. The action is supported by ECU and ECU Women's Chess Commission. The event will take place simultaneously in 11 regions []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/womens-moves-lively-squares-chess-unites-greece-supported-by-ecu/",
-         "pubDate" : "Sat, 28 Feb 2026 10:13:21",
-         "title" : "Women's Moves, Lively Squares: Chess Unites Greece - supported by ECU"
-      },
-      {
-         "description" : "Please find the certificates here S.No Name 1 Tvisha Kapadia 2 Bhargavi M Bhatt 3 Prathamesh Rajendra Bhagwat 4 Rakesh Bhatti 5 Rathod Ashok 6",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-of-sna-seminar-exam-in-ahmedabad-on-02-03-jan-2026/",
-         "pubDate" : "Sat, 28 Feb 2026 08:04:17",
-         "title" : "Certificates of SNA Seminar & Exam in Ahmedabad on 02 & 03 Jan 2026"
       }
    ]
 }
