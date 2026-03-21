@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Magazine has been a gold standard for structured chess training for decades. From club players to strong tournament competitors, it offers ample material for players of all levels. Lukas K&ouml;pl, himself a long-time user of \"CBM\", takes a look at the latest issue of ChessBase's digital magazine and presents his personal highlights.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-chessbase-magazine-230-a-gold-standard-for-training",
+         "pubDate" : "Sat, 21 Mar 2026 18:00:00",
+         "title" : "Review: ChessBase Magazine #230 - A gold standard for training"
+      },
+      {
          "description" : "The Kasparov Chess Foundation Academy is delighted to announce an upcoming live lecture by GM Dragan Åolak on March 22, 2026, 17:00 CET. This special session will focus on \"The Power of the King,\" a topic of utmost importance for players looking to elevate their strategic understanding and improve their competitive results. Participants will have the unique opportunity to learn from GM Åolak's extensive experience, gaining invaluable insights into king safety, king activity, and the art of using it as a powerful piece in both the middlegame and the endgame at the highest level.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
