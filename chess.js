@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kasparov Chess Foundation Academy is delighted to announce an upcoming live lecture by GM Dragan Åolak on March 22, 2026, 17:00 CET. This special session will focus on \"The Power of the King,\" a topic of utmost importance for players looking to elevate their strategic understanding and improve their competitive results. Participants will have the unique opportunity to learn from GM Åolak's extensive experience, gaining invaluable insights into king safety, king activity, and the art of using it as a powerful piece in both the middlegame and the endgame at the highest level.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/live-lecture-power-of-the-king",
+         "pubDate" : "Sat, 21 Mar 2026 15:09:20",
+         "title" : "Live lecture: Power of the King"
+      },
+      {
+         "description" : "Playing with good focus is key to improving your chess. But I've realized that this advice often drives students into a dangerous trap: perfectionism. They wait for the &#8220;perfect&#8221; moment to play, and as a result, it becomes harder and harder to get themselves to actually play games. When this happens, what was supposed to []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/stop-waiting-for-perfect-focus/",
+         "pubDate" : "Sat, 21 Mar 2026 14:00:00",
+         "title" : "Stop Waiting for Perfect Focus (And Just Play)"
+      },
+      {
+         "description" : "The 2026 Varsity Chess Match between Oxford University and Cambridge University is the premier chess social event of the year. This traditional 144th contest , the longest running chess fixture in the world, was held at the Royal Automobile Club, Pall Mall, London, on 7 March 2026 , with The Royal Automobile Club also sponsoring the occasion. []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/last-minute-tie-at-the-varsity-chess-match/",
+         "pubDate" : "Sat, 21 Mar 2026 11:59:33",
+         "title" : "Last-minute tie at the Varsity Chess Match"
+      },
+      {
          "description" : "In this second part of Svitlana's Smart Moves: Candidates Special, Svitlana and Arne go through tactical highlights from the remaining four Candidates players, giving viewers both easier and harder puzzles to solve along with them. The episode especially showcases Fabiano Caruana's astonishing calculation depth, several brilliant attacking ideas by Praggnanandhaa, and a series of creative tactical shots that underline why these players are so dangerous.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -680,22 +704,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/antipov-wins-saint-louis-masters-four-norms-earned",
          "pubDate" : "Mon, 02 Mar 2026 00:00:00",
          "title" : "Antipov Wins Saint Louis Masters, Four Norms Earned"
-      },
-      {
-         "description" : "When I first saw Jan Timman, he seemed less a chess player than a figure escaped from literature. At the junior team championship in The Hague in 1967, I encountered a young man whose appearance struck me with such force that I immediately thought of Tadzio from Death in Venice. He possessed that same luminous, almost []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/jan-of-the-golden-hair/",
-         "pubDate" : "Sat, 28 Feb 2026 14:01:39",
-         "title" : "Jan of the golden hair"
-      },
-      {
-         "description" : "If you go on Reddit today and share a story about gaining 400 rating points in a year, you won't get congratulated. You will get accused of cheating. I've seen it happen to my own students. They put in months of grueling, boring, focused work. They finally break through a massive plateau, share their success, []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/real-chess-improvement/",
-         "pubDate" : "Sat, 28 Feb 2026 14:00:00",
-         "title" : "Why Real Chess Improvement Looks Like Cheating"
       }
    ]
 }
