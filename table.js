@@ -1,4 +1,7 @@
 jtable([
+"SUGAR LAND","2026-03-21","5","<a href=https://ratings.uschess.org/event/202603210803 target='_blank'>spring-03-21-2026</a>",
+"HOUSTON","2026-03-21","9","<a href=https://ratings.uschess.org/event/202603210363 target='_blank'>chesspanda03212026saturday</a>",
+"SPRING","2026-03-20","22","<a href=https://ratings.uschess.org/event/202603200433 target='_blank'>THE FRIDAY KNIGHTS (TX)</a>",
 "SUGAR LAND","2026-03-20","12","<a href=https://ratings.uschess.org/event/202603200323 target='_blank'>FBCC 2026 World Storytelling Day Open</a>",
 "CYPRESS","2026-03-20","45","<a href=https://ratings.uschess.org/event/202603200313 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2026-03-15","6","<a href=https://ratings.uschess.org/event/202603150563 target='_blank'>2026 TCA Regional Scholastics Tourn</a>",
@@ -96,7 +99,4 @@ jtable([
 "SUGAR LAND","2025-12-21","6","<a href=https://ratings.uschess.org/event/202512210403 target='_blank'>winter-12-21-2025</a>",
 "HOUSTON","2025-12-21","14","<a href=https://ratings.uschess.org/event/202512210273 target='_blank'>Bellaire Sunday Swiss 2025.12.21</a>",
 "HOUSTON","2025-12-21","15","<a href=https://ratings.uschess.org/event/202512210223 target='_blank'>2025 Christmas Day by AzChAcad</a>",
-"HOUSTON","2025-12-21","27","<a href=https://ratings.uschess.org/event/202512210093 target='_blank'>SRI MEENAKSHI TEMPLE DECEMBER 2025</a>",
-"HOUSTON","2025-12-20","6","<a href=https://ratings.uschess.org/event/202512200203 target='_blank'>chesspanda12202025saturday</a>",
-"HOUSTON","2025-12-20","20","<a href=https://ratings.uschess.org/event/202512200173 target='_blank'>DEC20TH TROPHY SCHOLASTIC</a>",
 ]);
