@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "To mark International Autism Awareness Day, the FIDE Infinite Chess initiative will host the online event \"An Atypical Day\" on 4 April. The session will feature personal accounts from families and coaches working with children with autism, alongside expert input from specialist Gulzhanar Akhaeva. Designed to promote understanding and inclusion, the talk highlights how chess can support connection, development and community participation.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/an-atypical-day-2026",
+         "pubDate" : "Sun, 22 Mar 2026 05:10:00",
+         "title" : "Shift your perspective: FIDE Infinite Chess hosts \"An Atypical Day\" for autism awareness"
+      },
+      {
+         "description" : "The 14-year-old Turkish sensation GM Yagiz Erdogmus made a big splash on his return to the Bullet Brawl arena on Saturday, taking out the top spot ahead of 176 titled players. Erdogmus accumulated 162 points, comprising 49 wins, two draws, and 16 ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/yagiz-erdogmus-wins-bullet-brawl-mar-21-2026",
+         "pubDate" : "Sat, 21 Mar 2026 21:39:56",
+         "title" : "14-Year-Old Erdogmus Tops 177-Player Strong Bullet Brawl"
+      },
+      {
          "description" : "ChessBase Magazine has been a gold standard for structured chess training for decades. From club players to strong tournament competitors, it offers ample material for players of all levels. Lukas K&ouml;pl, himself a long-time user of \"CBM\", takes a look at the latest issue of ChessBase's digital magazine and presents his personal highlights.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/review-chessbase-magazine-230-a-gold-standard-for-training",
          "pubDate" : "Sat, 21 Mar 2026 18:00:00",
          "title" : "Review: ChessBase Magazine #230 - A gold standard for training"
-      },
-      {
-         "description" : "The Kasparov Chess Foundation Academy is delighted to announce an upcoming live lecture by GM Dragan Åolak on March 22, 2026, 17:00 CET. This special session will focus on \"The Power of the King,\" a topic of utmost importance for players looking to elevate their strategic understanding and improve their competitive results. Participants will have the unique opportunity to learn from GM Åolak's extensive experience, gaining invaluable insights into king safety, king activity, and the art of using it as a powerful piece in both the middlegame and the endgame at the highest level.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/live-lecture-power-of-the-king",
-         "pubDate" : "Sat, 21 Mar 2026 15:09:20",
-         "title" : "Live lecture: Power of the King"
       },
       {
          "description" : "Playing with good focus is key to improving your chess. But I've realized that this advice often drives students into a dangerous trap: perfectionism. They wait for the &#8220;perfect&#8221; moment to play, and as a result, it becomes harder and harder to get themselves to actually play games. When this happens, what was supposed to []",
@@ -34,44 +42,12 @@ news_feed (
          "title" : "Last-minute tie at the Varsity Chess Match"
       },
       {
-         "description" : "In this second part of Svitlana's Smart Moves: Candidates Special, Svitlana and Arne go through tactical highlights from the remaining four Candidates players, giving viewers both easier and harder puzzles to solve along with them. The episode especially showcases Fabiano Caruana's astonishing calculation depth, several brilliant attacking ideas by Praggnanandhaa, and a series of creative tactical shots that underline why these players are so dangerous.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-candidates-who-will-win-i-2",
-         "pubDate" : "Sat, 21 Mar 2026 10:00:00",
-         "title" : "Svitlana's Smart Moves - The Candidates: Who will win? (II)"
-      },
-      {
-         "description" : "ChessBase&acute;26 offers many possibilities for organising databases so that they contain all the important information, while remaining clear and user-friendly. In this episode, learn how to use ChessBase features to improve your game.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-268-tips-for-beginners-part-8-together-what-belongs-together",
-         "pubDate" : "Sat, 21 Mar 2026 07:00:00",
-         "title" : "ChessBase&acute;26 - Tips for Beginners, Part 8: Together what belongs together...!"
-      },
-      {
-         "description" : "The 144th Varsity Chess Match between Oxford and Cambridge, played on 7 March 2026 at London's Royal Automobile Club, ended in a closely contested 4-4 draw. Cambridge struck on the top boards through IM Rajat Makkar and Remy Rushbrooke, while Oxford responded with wins by Andrea Henderson and Savin Dias further down the lineup. With four games drawn, the balanced result preserved Cambridge's narrow historical lead. | Pictured: Connor Clarke (Oxford captain), Henry McWatters (Royal Automobile Club), Remy Rushbrooke (Cambridge captain) | Photo: John Saunders",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oxford-cambridge-match-2026",
-         "pubDate" : "Sat, 21 Mar 2026 01:15:00",
-         "title" : "Oxford and Cambridge share honours in 144th Varsity Match"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129705971.cms\" />Maxime Vachier-Lagrave ranked R Praggnanandhaa in B tier for the Candidates, calling it a \"hot take\" based on recent form. Despite strong 2025 performances, he cited six months of inconsistent results, saying, \"It's harsh&hellip; Pragg would have been at S tier.\" He added, \"It's been 6 months and his form has really not been great.\"",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-french-gm-maxime-vachier-lagrave-doubts-r-praggnanandhaas-chances/articleshow/129705971.cms",
          "pubDate" : "Fri, 20 Mar 2026 17:34:56",
          "title" : "Candidates: French GM Maxime Vachier-Lagrave doubts Pragg's chances"
-      },
-      {
-         "description" : "Bruno Parma passed away on 6 February this year. Born in Ljubljana, he was one of Slovenia's strongest chess players. Parma competed in eight Chess Olympiads for Yugoslavia, winning four silver medals and two bronze medals with the team. | Photo: Dutch National Archive",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bruno-parma-1941-2026",
-         "pubDate" : "Fri, 20 Mar 2026 16:00:00",
-         "title" : "Bruno Parma (1941-2026)"
       },
       {
          "description" : "Some weeks, a score of nine out of eleven is enough to win 3 0 Thursday, but on March 19, all three tournament winners won at least ten games, leaving little doubt regarding the best performance in each event. GM Aravindh Chithambaram won the firs...",
@@ -104,22 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/koneru-weighs-candidates-withdrawal-amid-safety-concerns",
          "pubDate" : "Fri, 20 Mar 2026 06:00:21",
          "title" : "Koneru Considers Candidates Withdrawal Amid Safety Concerns In Cyprus"
-      },
-      {
-         "description" : "Football star Erling Haaland has become a strategic investor in Norway Chess and its new Total Chess World Championship Tour. The planned circuit will feature four tournaments each season across fast classical, rapid and blitz formats, aiming to crown a combined world champion. A pilot event is scheduled for autumn 2026, with the full tour expected to launch in 2027. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/erling-haaland-investment-norway-chess",
-         "pubDate" : "Fri, 20 Mar 2026 01:00:00",
-         "title" : "Erling Haaland invests in Norway Chess to launch Total Chess World Championship Tour"
-      },
-      {
-         "description" : "In the latest episode of the English Chess Federation's Talented Tuesdays podcast, GM Matthew Sadler reflects on a formative game from his junior years that helped shape his chess identity. Discussing the challenges of finding a personal style, studying openings in the pre-digital era and balancing competitive chess with professional life, Sadler touches on his later work as an author. | Photo: Matthew Sadler's website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/matthew-sadler-talented-tuesdays-podcast-19",
-         "pubDate" : "Thu, 19 Mar 2026 20:00:00",
-         "title" : "Talented Tuesdays Podcast: Matthew Sadler on finding his chess voice"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129683687.cms\" />D Gukesh has faced criticism from Anatoly Karpov, who said his world title win over Ding Liren was \"by chance.\" Vladimir Kramnik also questioned the match quality. Despite this, Ding has remained calm, saying he is enjoying a quieter phase, playing casually and staying away from intense competition.",
@@ -576,14 +536,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-7",
          "pubDate" : "Mon, 09 Mar 2026 21:37:11",
          "title" : "Aronian, Yip Advance To Grand Finals Vs. Wesley So, Lee"
-      },
-      {
-         "description" : "Andrey Volgin defeated Henry Michael through the Final Reset route to win the eight-player final of the Chess.com Atomic Chess Championship 2026. Michael defeated Volgin in a fight between the two untitled players in the Winners Final of the doubl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/volgin-wins-2026-atomic-chess-championship",
-         "pubDate" : "Mon, 09 Mar 2026 11:59:47",
-         "title" : "Andrey Volgin Wins Atomic Chess Championship 2026"
       },
       {
          "description" : "Please find the certificates.For any query please write back to Indianchessfed@gmail.com Batch 1 Batch 2 No Candidate name No. Candidate Name 1 Manikandan Palaniappun 1",
