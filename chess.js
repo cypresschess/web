@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sicilian has long been one of the most popular openings. It therefore makes perfect sense for White to consider 1.c4. ChessBase author Nico Zwirs takes a look at similar, but reversed structures. His 60 Minutes course is aptly titled \"Reversed Sicilian Power.\" And since the Sicilian cannot be played without tactics, this new February release also fits the theme perfectly: Oliver Reeh's new Master Class tactics volume offers exercises for players of all levels, regardless of their opening repertoire. | All photos: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-february",
+         "pubDate" : "Sun, 22 Mar 2026 13:00:00",
+         "title" : "Review: All new releases in February!"
+      },
+      {
          "description" : "To mark International Autism Awareness Day, the FIDE Infinite Chess initiative will host the online event \"An Atypical Day\" on 4 April. The session will feature personal accounts from families and coaches working with children with autism, alongside expert input from specialist Gulzhanar Akhaeva. Designed to promote understanding and inclusion, the talk highlights how chess can support connection, development and community participation.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,11 +18,11 @@ news_feed (
          "title" : "Shift your perspective: FIDE Infinite Chess hosts \"An Atypical Day\" for autism awareness"
       },
       {
-         "description" : "The 14-year-old Turkish sensation GM Yagiz Erdogmus made a big splash on his return to the Bullet Brawl arena on Saturday, taking out the top spot ahead of 176 titled players. Erdogmus accumulated 162 points, comprising 49 wins, two draws, and 16 ...",
+         "description" : "The 14-year-old Turkish sensation GM Yagiz Erdogmus made a big splash on his return to the Bullet Brawl arena on Saturday, taking the top spot ahead of 176 titled players. Erdogmus accumulated 162 points, comprising 49 wins, two draws, and 16 loss...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/yagiz-erdogmus-wins-bullet-brawl-mar-21-2026",
-         "pubDate" : "Sat, 21 Mar 2026 21:39:56",
+         "pubDate" : "Sat, 21 Mar 2026 21:39:00",
          "title" : "14-Year-Old Erdogmus Tops 177-Player Strong Bullet Brawl"
       },
       {
