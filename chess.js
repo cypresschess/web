@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this interview feature, WIM Anzel Laubscher reflects on her career in chess education, law and international development, tracing her journey from early tournaments in South Africa to her work with the FIDE Commission for Chess in Education. She discusses formative life experiences, cultural influences and her advocacy for safeguarding and inclusion in sport, offering personal insights into how chess can shape both learning and social responsibility. | Photos courtesy of WIM Anzel Laubscher",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anzel-laubscher-interview-uvencio-blanco",
+         "pubDate" : "Sun, 22 Mar 2026 18:30:00",
+         "title" : "Anzel Laubscher: \"Meet your students where they are\""
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129736372.cms\" />Top Indian Grandmaster Koneru Humpy has withdrawn from the FIDE Women's Candidates Tournament, prioritizing her personal safety and well-being. Citing security concerns despite assurances, Humpy's decision opens a spot for Anna Muzychuk. While India retains representation with R Vaishali and Divya Deshmukh, Humpy's withdrawal raises questions about potential FIDE penalties and impacts Indian chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-withdraws-from-womens-candidates-cites-safety-concerns/articleshow/129736372.cms",
+         "pubDate" : "Sun, 22 Mar 2026 17:34:42",
+         "title" : "Koneru Humpy withdraws from Women's Candidates, cites safety concerns"
+      },
+      {
          "description" : "The Sicilian has long been one of the most popular openings. It therefore makes perfect sense for White to consider 1.c4. ChessBase author Nico Zwirs takes a look at similar, but reversed structures. His 60 Minutes course is aptly titled \"Reversed Sicilian Power.\" And since the Sicilian cannot be played without tactics, this new February release also fits the theme perfectly: Oliver Reeh's new Master Class tactics volume offers exercises for players of all levels, regardless of their opening repertoire. | All photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
