@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Praful Zaveri is the founder of Indian Chess School, where he has trained more than 5000 students. In 2023 he began writing a book, Shat Shat Vande Chess, on the cultural, historical, and philosophical journey of chess, on the 15,000‑year \"odyssey\" of the game. Now he has decided to make it into a film. Here is the first trailer - and Praful's thoughts on the enterprise.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-birth-of-a-journey",
+         "pubDate" : "Mon, 23 Mar 2026 09:49:56",
+         "title" : "The Birth of a Journey"
+      },
+      {
+         "description" : "European Chess Union (ECU) and Montenegro Chess Federation (MCF) have the honour to invite all the National federations affiliated to ECU to participate in the 41st European Chess Club Cup and the 30th European Chess Club Cup for Women. The events will be held in Herceg Novi, Montenegro, from 16th October (arrival day) to 24th October 2026 (departure day). The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women will be played in Hotel \"Medun\" []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-open-and-womens-chess-club-cups-2026-official-invitation/",
+         "pubDate" : "Mon, 23 Mar 2026 07:26:23",
+         "title" : "European Open and Women's Chess Club Cups 2026 - Official invitation"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129745627.cms\" />Anna Muzychuk will play in the Cyprus Candidates Tournament. Indian Grandmaster Koneru Humpy withdrew citing safety concerns. The tournament will decide challengers for world championship titles. Humpy's withdrawal is a setback for India. Other Indians participating include R Praggnanandhaa, R Vaishali, and Divya Deshmukh. FIDE confirmed Muzychuk's inclusion.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
