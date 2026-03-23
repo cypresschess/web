@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two players share the lead after six rounds at the Agzamov Memorial in Tashkent, with top seed Haik Martirosyan (pictured) and 14th seed Artem Uskov both on 5/6. Martirosyan has impressed with a series of wins with the white pieces, while Uskov produced a notable upset against Pouya Idani and now faces the Armenian in a key round-seven encounter. A closely packed chasing group remains within striking distance with three rounds still to play. | Photo: Uzbek Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/agzamov-memorial-2026-r6",
+         "pubDate" : "Mon, 23 Mar 2026 03:35:00",
+         "title" : "Agzamov Memorial: Martirosyan and Uskov share lead on 5/6"
+      },
+      {
          "description" : "In this interview feature, WIM Anzel Laubscher reflects on her career in chess education, law and international development, tracing her journey from early tournaments in South Africa to her work with the FIDE Commission for Chess in Education. She discusses formative life experiences, cultural influences and her advocacy for safeguarding and inclusion in sport, offering personal insights into how chess can shape both learning and social responsibility. | Photos courtesy of WIM Anzel Laubscher",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -680,14 +688,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/saint-louis-masters-2026",
          "pubDate" : "Mon, 2 Mar 2026 14:34:00",
          "title" : "Saint Louis Masters 2026 - Games and Results"
-      },
-      {
-         "description" : "The 2026 Saint Louis Masters took place February 25 through March 1 at the Saint Louis Chess Club. A preamble to the American Cup (which begins tomorrow after today's blitz), this tournament featured 70 top competitors representing 23 federations, ranging from five American Cup participants to young norm-seekers.Almost of half of the field consisted of American players, and it was indeed Americans who finished first and second, although the winner might not have been your pre-tournament pick. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Mikhail Antipov is the Saint Louis Masters champion! (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> When a",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/antipov-wins-saint-louis-masters-four-norms-earned",
-         "pubDate" : "Mon, 02 Mar 2026 00:00:00",
-         "title" : "Antipov Wins Saint Louis Masters, Four Norms Earned"
       }
    ]
 }
