@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129750302.cms\" />Indian Grandmaster (GM) Koneru Humpy withdrew from the FIDE Women's Candidates in Cyprus citing safety concerns amid Middle East tensions and Level 3 travel advisories. She prioritised security over competing, despite potential fines and lost title chances. Criticising FIDE for not reconsidering the venue, Humpy called the decision mentally taxing but necessary, urging fans to understand her stance.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-exclusive-after-candidates-pull-out-would-fide-hold-tournaments-in-kashmir/articleshow/129750302.cms",
+         "pubDate" : "Mon, 23 Mar 2026 11:15:18",
+         "title" : "Humpy Exclusive after Candidates pull-out: 'Would FIDE hold tournaments in Kashmir?'"
+      },
+      {
          "description" : "Praful Zaveri is the founder of Indian Chess School, where he has trained more than 5000 students. In 2023 he began writing a book, Shat Shat Vande Chess, on the cultural, historical, and philosophical journey of chess, on the 15,000‑year \"odyssey\" of the game. Now he has decided to make it into a film. Here is the first trailer - and Praful's thoughts on the enterprise.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-birth-of-a-journey",
          "pubDate" : "Mon, 23 Mar 2026 09:49:56",
          "title" : "The Birth of a Journey"
+      },
+      {
+         "description" : "GM Koneru Humpy has announced her withdrawal from the FIDE Women&#39;s Candidates, citing safety concerns ahead of the event in Cyprus. The International Chess Federation (FIDE) confirmed that GM Anna Muzychuk will replace her. On Sunday, the Indian...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/koneru-confirms-candidates-withdrawal-anna-muzychuk-replacement",
+         "pubDate" : "Mon, 23 Mar 2026 07:49:58",
+         "title" : "Koneru Humpy Confirms Candidates Withdrawal, Anna Muzychuk Takes Spot"
       },
       {
          "description" : "European Chess Union (ECU) and Montenegro Chess Federation (MCF) have the honour to invite all the National federations affiliated to ECU to participate in the 41st European Chess Club Cup and the 30th European Chess Club Cup for Women. The events will be held in Herceg Novi, Montenegro, from 16th October (arrival day) to 24th October 2026 (departure day). The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women will be played in Hotel \"Medun\" []",
@@ -58,36 +74,12 @@ news_feed (
          "title" : "Koneru Humpy withdraws from Women's Candidates, cites safety concerns"
       },
       {
-         "description" : "The Sicilian has long been one of the most popular openings. It therefore makes perfect sense for White to consider 1.c4. ChessBase author Nico Zwirs takes a look at similar, but reversed structures. His 60 Minutes course is aptly titled \"Reversed Sicilian Power.\" And since the Sicilian cannot be played without tactics, this new February release also fits the theme perfectly: Oliver Reeh's new Master Class tactics volume offers exercises for players of all levels, regardless of their opening repertoire. | All photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-february",
-         "pubDate" : "Sun, 22 Mar 2026 13:00:00",
-         "title" : "Review: All new releases in February!"
-      },
-      {
-         "description" : "To mark International Autism Awareness Day, the FIDE Infinite Chess initiative will host the online event \"An Atypical Day\" on 4 April. The session will feature personal accounts from families and coaches working with children with autism, alongside expert input from specialist Gulzhanar Akhaeva. Designed to promote understanding and inclusion, the talk highlights how chess can support connection, development and community participation.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/an-atypical-day-2026",
-         "pubDate" : "Sun, 22 Mar 2026 05:10:00",
-         "title" : "Shift your perspective: FIDE Infinite Chess hosts \"An Atypical Day\" for autism awareness"
-      },
-      {
          "description" : "The 14-year-old Turkish sensation GM Yagiz Erdogmus made a big splash on his return to the Bullet Brawl arena on Saturday, taking the top spot ahead of 176 titled players. Erdogmus accumulated 162 points, comprising 49 wins, two draws, and 16 loss...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/yagiz-erdogmus-wins-bullet-brawl-mar-21-2026",
          "pubDate" : "Sat, 21 Mar 2026 21:39:00",
          "title" : "14-Year-Old Erdogmus Tops 177-Player Strong Bullet Brawl"
-      },
-      {
-         "description" : "ChessBase Magazine has been a gold standard for structured chess training for decades. From club players to strong tournament competitors, it offers ample material for players of all levels. Lukas K&ouml;pl, himself a long-time user of \"CBM\", takes a look at the latest issue of ChessBase's digital magazine and presents his personal highlights.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-chessbase-magazine-230-a-gold-standard-for-training",
-         "pubDate" : "Sat, 21 Mar 2026 18:00:00",
-         "title" : "Review: ChessBase Magazine #230 - A gold standard for training"
       },
       {
          "description" : "Playing with good focus is key to improving your chess. But I've realized that this advice often drives students into a dangerous trap: perfectionism. They wait for the &#8220;perfect&#8221; moment to play, and as a result, it becomes harder and harder to get themselves to actually play games. When this happens, what was supposed to []",
@@ -594,14 +586,6 @@ news_feed (
          "title" : "Tactics Tuesday: Saint Louis Masters, Pt. 2"
       },
       {
-         "description" : "GM Levon Aronian lost the first rapid game of The American Cup 2026 Elimination Final, but came back in the second game to even the score against GM Fabiano Caruana. He then won the match in blitz tiebreaks and will face GM Wesley So in the Grand ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-7",
-         "pubDate" : "Mon, 09 Mar 2026 21:37:11",
-         "title" : "Aronian, Yip Advance To Grand Finals Vs. Wesley So, Lee"
-      },
-      {
          "description" : "Please find the certificates.For any query please write back to Indianchessfed@gmail.com Batch 1 Batch 2 No Candidate name No. Candidate Name 1 Manikandan Palaniappun 1",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -712,14 +696,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-masters-pt-1",
          "pubDate" : "Tue, 03 Mar 2026 00:00:00",
          "title" : "Tactics Tuesday: Saint Louis Masters, Pt. 1"
-      },
-      {
-         "description" : " The Saint Louis Masters took place Tue 24th Feb to Sun 1st Mar 2026. Mikhail Antipov won the event with 7.5/9 after beating Andy Woodward in the final round, he was half a point clear of Fabiano Caruana who failed to convert a winning endgame against Francesco Sonis. Lorenzo Lodici finished in clear third place with 6.5/9.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-masters-2026",
-         "pubDate" : "Mon, 2 Mar 2026 14:34:00",
-         "title" : "Saint Louis Masters 2026 - Games and Results"
       }
    ]
 }
