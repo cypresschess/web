@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A month ago Valery Golubenko played what may well have been one of the longest chess games ever seen, measured by number of moves, under the rather restrictive conditions of modern chess life. At move 88, with queen and b-pawn against queen, Golubenko's opponent held for 37 moves, until he missed an only move, and it was theoretically a mate in 47.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-game-that-outlasted-the-day-2",
+         "pubDate" : "Mon, 23 Mar 2026 19:11:42",
+         "title" : "A Game That Outlasted the Day (2)"
+      },
+      {
+         "description" : " The Saint Louis Chess Club is widely known for elite tournaments and top-level competition, but a significant part of its mission centers on education. Through its Scholastics Department, the club provides structured chess instruction for young players, with a growing emphasis on accessible, online learning through its Digital Classroom. Designed to reach students regardless of [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/chess-digital-classroom-expands-education/\">Beyond the Board: Digital Classroom Expands Chess Education</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/chess-digital-classroom-expands-education/",
+         "pubDate" : "Mon, 23 Mar 2026 17:13:17",
+         "title" : "Beyond the Board: Digital Classroom Expands Chess Education"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129750302.cms\" />Indian Grandmaster (GM) Koneru Humpy withdrew from the FIDE Women's Candidates in Cyprus citing safety concerns amid Middle East tensions and Level 3 travel advisories. She prioritised security over competing, despite potential fines and lost title chances. Criticising FIDE for not reconsidering the venue, Humpy called the decision mentally taxing but necessary, urging fans to understand her stance.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
