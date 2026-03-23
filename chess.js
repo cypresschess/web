@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129745627.cms\" />Anna Muzychuk will play in the Cyprus Candidates Tournament. Indian Grandmaster Koneru Humpy withdrew citing safety concerns. The tournament will decide challengers for world championship titles. Humpy's withdrawal is a setback for India. Other Indians participating include R Praggnanandhaa, R Vaishali, and Divya Deshmukh. FIDE confirmed Muzychuk's inclusion.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/anna-muzychuk-replaces-koneru-humpy-in-candidates-after-safety-concerns/articleshow/129745627.cms",
+         "pubDate" : "Mon, 23 Mar 2026 07:11:12",
+         "title" : "Muzychuk replaces Humpy in Candidates after safety concerns"
+      },
+      {
+         "description" : "Humpy Koneru has withdrawn from the 2026 Women's Candidates Tournament in Cyprus, citing concerns over personal safety amid rising regional tensions. In line with the regulations, Anna Muzychuk has been invited to replace the Indian grandmaster in the eight-player field. Travel advisories and recent security incidents in the Eastern Mediterranean have formed the wider context surrounding Koneru's decision just ahead of the event's scheduled start. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-humpy-withdrawal",
+         "pubDate" : "Mon, 23 Mar 2026 04:50:00",
+         "title" : "Humpy Koneru withdraws from Women's Candidates, Anna Muzychuk named replacement"
+      },
+      {
          "description" : "Two players share the lead after six rounds at the Agzamov Memorial in Tashkent, with top seed Haik Martirosyan (pictured) and 14th seed Artem Uskov both on 5/6. Martirosyan has impressed with a series of wins with the white pieces, while Uskov produced a notable upset against Pouya Idani and now faces the Armenian in a key round-seven encounter. A closely packed chasing group remains within striking distance with three rounds still to play. | Photo: Uzbek Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
