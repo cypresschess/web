@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With a few days remaining before the FIDE Candidates Tournaments 2026 begin, preparations are intensifying for the decisive contests that will determine the next challengers for the world titles. Sixteen elite players will gather alongside their teams, while organisers plan fan activities, side events and expert commentary to enhance the spectator experience. The festival atmosphere surrounding the tournament reflects growing anticipation for one of the most demanding events in the chess calendar. | Image: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-forecasts",
+         "pubDate" : "Mon, 23 Mar 2026 23:00:00",
+         "title" : "Candidates Tournaments kick off on Sunday in Cyprus: Venue, side events and expert forecasts"
+      },
+      {
          "description" : "A month ago Valery Golubenko played what may well have been one of the longest chess games ever seen, measured by number of moves, under the rather restrictive conditions of modern chess life. At move 88, with queen and b-pawn against queen, Golubenko's opponent held for 37 moves, until he missed an only move, and it was theoretically a mate in 47.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,11 +42,11 @@ news_feed (
          "title" : "The Birth of a Journey"
       },
       {
-         "description" : "GM Koneru Humpy has announced her withdrawal from the FIDE Women&#39;s Candidates, citing safety concerns ahead of the event in Cyprus. The International Chess Federation (FIDE) confirmed that GM Anna Muzychuk will replace her. On Sunday, the Indian...",
+         "description" : "GM Koneru Humpy has announced her withdrawal from the FIDE Women&#39;s Candidates, citing safety concerns ahead of the event in Cyprus. She is replaced by GM Anna Muzychuk, who said she is surprised and thankful for the opportunity to fight for the ti...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/koneru-confirms-candidates-withdrawal-anna-muzychuk-replacement",
-         "pubDate" : "Mon, 23 Mar 2026 07:49:58",
+         "pubDate" : "Mon, 23 Mar 2026 07:49:00",
          "title" : "Koneru Humpy Confirms Candidates Withdrawal, Anna Muzychuk Takes Spot"
       },
       {
