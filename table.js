@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2026-03-22","10","<a href=https://ratings.uschess.org/event/202603220573 target='_blank'>Bellaire Sunday Swisss 2026.03.22</a>",
+"HOUSTON","2026-03-21","203","<a href=https://ratings.uschess.org/event/202603211123 target='_blank'>Strake Jesuit High School</a>",
 "SUGAR LAND","2026-03-21","5","<a href=https://ratings.uschess.org/event/202603210803 target='_blank'>spring-03-21-2026</a>",
 "HOUSTON","2026-03-21","9","<a href=https://ratings.uschess.org/event/202603210363 target='_blank'>chesspanda03212026saturday</a>",
 "SPRING","2026-03-20","22","<a href=https://ratings.uschess.org/event/202603200433 target='_blank'>THE FRIDAY KNIGHTS (TX)</a>",
@@ -97,6 +99,4 @@ jtable([
 "SUGAR LAND","2025-12-26","12","<a href=https://ratings.uschess.org/event/202512260233 target='_blank'>FBCC 2025 Slowpoke Open 1</a>",
 "SPRING","2025-12-26","24","<a href=https://ratings.uschess.org/event/202512260223 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2025-12-21","6","<a href=https://ratings.uschess.org/event/202512210403 target='_blank'>winter-12-21-2025</a>",
-"HOUSTON","2025-12-21","14","<a href=https://ratings.uschess.org/event/202512210273 target='_blank'>Bellaire Sunday Swiss 2025.12.21</a>",
-"HOUSTON","2025-12-21","15","<a href=https://ratings.uschess.org/event/202512210223 target='_blank'>2025 Christmas Day by AzChAcad</a>",
 ]);
