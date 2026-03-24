@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "International Master Tania Sachdev visited RP Goenka School in Kolkata for what turned out to be a truly memorable interaction. What stood out wasn't just the questions - but the confidence, clarity and leadership shown by children as young as eight. In this heartwarming account, Tania reflects on young minds, the role of sport and the moments from school that stay with us forever. It's wonderful to see what Tania is doing apart from playing chess and commentating - inspiring the next generation!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tania-sachdev-kids-kolkata",
+         "pubDate" : "Tue, 24 Mar 2026 20:00:00",
+         "title" : "When kids take the lead: Tania Sachdev's memorable morning in Kolkata"
+      },
+      {
          "description" : "The new Opening Encyclopaedia 2026 offers comprehensive and easy access to modern opening theory, helping players build, expand, and refine their repertoire with clarity and confidence. With 1,586 in-depth articles, over 40,000 games, and 100 expert video lessons from leading grandmasters, it combines cutting-edge ideas with practical explanations and annotated examples. Designed for players of all levels, it is an essential all-in-one resource to stay up to date with the latest trends and gain a decisive edge in the opening.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,12 @@ news_feed (
          "title" : "NEW: Opening Encyclopaedia 2026"
       },
       {
-         "description" : "International Master Tania Sachdev visited RP Goenka School in Kolkata for what turned out to be a truly memorable interaction. What stood out wasn't just the questions - but the confidence, clarity and leadership shown by children as young as eight. In this heartwarming account, Tania reflects on young minds, the role of sport and the moments from school that stay with us forever. It's wonderful to see what Tania is doing apart from playing chess and commentating - inspiring the next generation!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tania-sachdev-kids-kolkata",
-         "pubDate" : "Tue, 24 Mar 2026 12:00:00",
-         "title" : "When kids take the lead: Tania Sachdev's memorable morning in Kolkata"
+         "description" : "GM Zhamsaran Tsydypov scored 9.5/11 to win his first Titled Tuesday ever on March 24, despite taking a draw in a dead-winning position the final round. GM Vladimir Fedoseev, the only player who could have caught him, blundered into checkmate again...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tsydypov-wins-titled-tuesday-march-24-2026",
+         "pubDate" : "Tue, 24 Mar 2026 12:21:46",
+         "title" : "Tsydypov Shock Titled Tuesday Winner"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129772929.cms\" />Koneru Humpy withdrew from the 2026 Women's Candidates in Cyprus, citing safety concerns despite assurances. Her decision drew sharp criticism from Cyprus Chess Federation president Criton Tornaritis, who called her claims \"simply incorrect.\" The tournament is a key path to the world title. Anna Muzychuk may replace Humpy, while India will still have two players competing.",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://aicf.in/fide-world-youth-chess-championships-2026-in-montesilvano-italy-from-14th-to-27th-june-2026/",
          "pubDate" : "Tue, 24 Mar 2026 05:43:58",
          "title" : "FIDE World Youth Chess Championships - 2026 in Montesilvano, Italy from 14th to 27th June, 2026"
+      },
+      {
+         "description" : "Today's puzzles come from the Elimination Bracket of the 2026 American Cup. See our coverage of this event here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-american-cup",
+         "pubDate" : "Tue, 24 Mar 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2026 American Cup"
       },
       {
          "description" : "With a few days remaining before the FIDE Candidates Tournaments 2026 begin, preparations are intensifying for the decisive contests that will determine the next challengers for the world titles. Sixteen elite players will gather alongside their teams, while organisers plan fan activities, side events and expert commentary to enhance the spectator experience. The festival atmosphere surrounding the tournament reflects growing anticipation for one of the most demanding events in the chess calendar. | Image: FIDE",
@@ -632,14 +648,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-cloud-power",
          "pubDate" : "Tue, 10 Mar 2026 14:00:00",
          "title" : "Chess Olympiad: Cloud power for your national squad"
-      },
-      {
-         "description" : "GM Sina Movahed, the 15-year-old Iranian grandmaster coming off of victory in the Under-16 ChessKid Youth Championship, became the first player to score 10.5 points in a Titled Tuesday in 2026 on March 10, going to wire-to-wire to win the tourname...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/movahed-wins-titled-tuesday-march-10-2026",
-         "pubDate" : "Tue, 10 Mar 2026 12:56:56",
-         "title" : "Dominant Movahed Wins Titled Tuesday On 10.5 Points"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129388064.cms\" />India slipped to 25th in the 2026 Gender Equality in Chess Index (GECI), highlighting gender imbalance in the sport. Despite strong performances by elite women players, female participation in youth championships remains low, and many girls drop out early. Experts say social pressures, financial hurdles and lack of structured support limit opportunities, stressing the need for better grassroots development and long-term systems to promote women's chess.",
