@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new Opening Encyclopaedia 2026 offers comprehensive and easy access to modern opening theory, helping players build, expand, and refine their repertoire with clarity and confidence. With 1,586 in-depth articles, over 40,000 games, and 100 expert video lessons from leading grandmasters, it combines cutting-edge ideas with practical explanations and annotated examples. Designed for players of all levels, it is an essential all-in-one resource to stay up to date with the latest trends and gain a decisive edge in the opening.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-opening-encyclopaedia-2026",
+         "pubDate" : "Tue, 24 Mar 2026 13:12:38",
+         "title" : "NEW: Opening Encyclopaedia 2026"
+      },
+      {
          "description" : "International Master Tania Sachdev visited RP Goenka School in Kolkata for what turned out to be a truly memorable interaction. What stood out wasn't just the questions - but the confidence, clarity and leadership shown by children as young as eight. In this heartwarming account, Tania reflects on young minds, the role of sport and the moments from school that stay with us forever. It's wonderful to see what Tania is doing apart from playing chess and commentating - inspiring the next generation!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/candidates-tournament-2026-forecasts",
          "pubDate" : "Mon, 23 Mar 2026 23:00:00",
          "title" : "Candidates Tournaments kick off on Sunday in Cyprus: Venue, side events and expert forecasts"
+      },
+      {
+         "description" : " The 2026 Saint Louis Masters, held in late February at the newly expanded Saint Louis Chess Club, featured 70 top players representing 22 countries. The event showcased a highly competitive field, with 37 Grandmasters and a median rating of 2495, nearly half of all players holding a rating of 2500 or above. Over the course [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2026-saint-louis-masters-stats/\">2026 Saint Louis Masters by the Numbers</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2026-saint-louis-masters-stats/",
+         "pubDate" : "Mon, 23 Mar 2026 19:37:41",
+         "title" : "2026 Saint Louis Masters by the Numbers"
       },
       {
          "description" : "A month ago Valery Golubenko played what may well have been one of the longest chess games ever seen, measured by number of moves, under the rather restrictive conditions of modern chess life. At move 88, with queen and b-pawn against queen, Golubenko's opponent held for 37 moves, until he missed an only move, and it was theoretically a mate in 47.",
