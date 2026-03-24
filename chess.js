@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "International Master Tania Sachdev visited RP Goenka School in Kolkata for what turned out to be a truly memorable interaction. What stood out wasn't just the questions - but the confidence, clarity and leadership shown by children as young as eight. In this heartwarming account, Tania reflects on young minds, the role of sport and the moments from school that stay with us forever. It's wonderful to see what Tania is doing apart from playing chess and commentating - inspiring the next generation!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tania-sachdev-kids-kolkata",
+         "pubDate" : "Tue, 24 Mar 2026 12:00:00",
+         "title" : "When kids take the lead: Tania Sachdev's memorable morning in Kolkata"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129772929.cms\" />Koneru Humpy withdrew from the 2026 Women's Candidates in Cyprus, citing safety concerns despite assurances. Her decision drew sharp criticism from Cyprus Chess Federation president Criton Tornaritis, who called her claims \"simply incorrect.\" The tournament is a key path to the world title. Anna Muzychuk may replace Humpy, while India will still have two players competing.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/bad-move-cyprus-chess-chief-hits-back-at-koneru-humpy-after-candidates-pull-out/articleshow/129772929.cms",
+         "pubDate" : "Tue, 24 Mar 2026 10:08:03",
+         "title" : "'Bad move': Cyprus chess chief hits back at Humpy post Candidates pull-out"
+      },
+      {
          "description" : "The great tradition of chess caf&eacute;s seemed to be something of the past, but now Sven Rehders, together with several other chess activists, is attempting to revive caf&eacute;s and restaurants as meeting places for chess enthusiasts. And it is working. A smart app is helping to make it happen.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-masters-pt-1",
          "pubDate" : "Wed, 04 Mar 2026 00:00:00",
          "title" : "Wednesday Workout: Saint Louis Masters, Pt. 1"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/128963986.cms\" />Sixteen-year-old Aarav Dengla has become India's 93rd Grandmaster (GM). Guided by his mother Shipra, who quit her job to support his career, Aarav rose rapidly from prodigy to champion. Initially trained by GM Pravin Thipsay and then under Vishnu Prasanna, and balancing rigorous academics, he sealed his final GM norm in 2026, emerging as Mumbai's third Grandmaster.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-gets-its-93rd-gm-mother-quit-job-for-chess-the-making-of-aarav-dengla-influenced-by-d-gukesh-and-arjun-erigaisi/articleshow/128963986.cms",
-         "pubDate" : "Tue, 03 Mar 2026 10:18:23",
-         "title" : "India gets 93rd GM: Mother quit job for chess - Making of Aarav Dengla"
       }
    ]
 }
