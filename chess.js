@@ -18,6 +18,14 @@ news_feed (
          "title" : "A Game That Outlasted the Day (2)"
       },
       {
+         "description" : "Fifteen-year-old GM Sina Movahed won Play-In 3 of the 2026 Chess.com Open with 7.5/9 and picked GM Arjun Erigaisi as his knockout opponent. Four players scored 7/9, with GMs Vladislav Artemiev and Nihal Sarin missing out on tiebreaks, while GMs Da...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/movahed-dubov-qualify-2026-chesscom-open-play-in-3",
+         "pubDate" : "Mon, 23 Mar 2026 17:20:00",
+         "title" : "15-Year-Old Movahed, Dubov Hold Off Caruana To Qualify From Play-In 3"
+      },
+      {
          "description" : " The Saint Louis Chess Club is widely known for elite tournaments and top-level competition, but a significant part of its mission centers on education. Through its Scholastics Department, the club provides structured chess instruction for young players, with a growing emphasis on accessible, online learning through its Digital Classroom. Designed to reach students regardless of [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/chess-digital-classroom-expands-education/\">Beyond the Board: Digital Classroom Expands Chess Education</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -594,14 +602,6 @@ news_feed (
          "title" : "India slides down in 2026 GECI rankings: How can it be improved?"
       },
       {
-         "description" : "GM Sina Movahed defeated GM Yagiz Erdogmus, in the 2026 ChessKid Youth Championship U16 finals. The two teenage GMs tied for first place in the A Group in the preliminary round robin tournament, before defeating the top finishers in the B group, d...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/movahed-wins-2026-u16-chesskid-youth-championships",
-         "pubDate" : "Tue, 10 Mar 2026 07:51:00",
-         "title" : "Movahed Defeats Erdogmus In Thrilling ChessKid Youth Championship"
-      },
-      {
          "description" : "Today's puzzles continue a series on the 2026 Saint Louis Masters (coverage here), won by GM Mikhail Antipov, who finished a half-point ahead of GM Fabiano Caruana to earn the $25,000 first-place prize. 70 players competed, including a number of top Americans (and five American Cup participants), as well as international norm seekers. Fire was on board from the top tables all the way through the standings, and we've got several weeks of educational entertainment as a result. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -712,14 +712,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-gets-its-93rd-gm-mother-quit-job-for-chess-the-making-of-aarav-dengla-influenced-by-d-gukesh-and-arjun-erigaisi/articleshow/128963986.cms",
          "pubDate" : "Tue, 03 Mar 2026 10:18:23",
          "title" : "India gets 93rd GM: Mother quit job for chess - Making of Aarav Dengla"
-      },
-      {
-         "description" : "Today's puzzles begin a series on the 2026 Saint Louis Masters (coverage here), won by GM Mikhail Antipov, who finished a half-point ahead of GM Fabiano Caruana to earn the $25,000 first-place prize. 70 players competed, including a number of top Americans (and five American Cup participants), as well as international norm seekers. Fire was on board from the top tables all the way through the standings, and we've got several weeks of educational entertainment as a result. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-masters-pt-1",
-         "pubDate" : "Tue, 03 Mar 2026 00:00:00",
-         "title" : "Tactics Tuesday: Saint Louis Masters, Pt. 1"
       }
    ]
 }
