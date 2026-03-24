@@ -66,7 +66,7 @@ news_feed (
          "title" : "Candidates Tournaments kick off on Sunday in Cyprus: Venue, side events and expert forecasts"
       },
       {
-         "description" : " The 2026 Saint Louis Masters, held in late February at the newly expanded Saint Louis Chess Club, featured 70 top players representing 22 countries. The event showcased a highly competitive field, with 37 Grandmasters and a median rating of 2495, nearly half of all players holding a rating of 2500 or above. Over the course [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2026-saint-louis-masters-stats/\">2026 Saint Louis Masters by the Numbers</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "description" : " by Ben Underwood The 2026 Saint Louis Masters, held in late February at the newly expanded Saint Louis Chess Club, featured 70 top players representing 22 countries. The event showcased a highly competitive field, with 37 Grandmasters and a median rating of 2495, nearly half of all players holding a rating of 2500 or above. [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2026-saint-louis-masters-stats/\">2026 Saint Louis Masters by the Numbers</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/news-insights-press/2026-saint-louis-masters-stats/",
