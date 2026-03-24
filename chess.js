@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The great tradition of chess caf&eacute;s seemed to be something of the past, but now Sven Rehders, together with several other chess activists, is attempting to revive caf&eacute;s and restaurants as meeting places for chess enthusiasts. And it is working. A smart app is helping to make it happen.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/revival-chess-cafes-hamburg",
+         "pubDate" : "Tue, 24 Mar 2026 07:00:00",
+         "title" : "The revival of chess caf&eacute;s"
+      },
+      {
+         "description" : "Special Note: If a player has only&#160;one accompanying person, then he/she must pay for double sharing amount only. (Triple sharing basis not accepted for two",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-youth-chess-championships-2026-in-montesilvano-italy-from-14th-to-27th-june-2026/",
+         "pubDate" : "Tue, 24 Mar 2026 05:43:58",
+         "title" : "FIDE World Youth Chess Championships - 2026 in Montesilvano, Italy from 14th to 27th June, 2026"
+      },
+      {
          "description" : "With a few days remaining before the FIDE Candidates Tournaments 2026 begin, preparations are intensifying for the decisive contests that will determine the next challengers for the world titles. Sixteen elite players will gather alongside their teams, while organisers plan fan activities, side events and expert commentary to enhance the spectator experience. The festival atmosphere surrounding the tournament reflects growing anticipation for one of the most demanding events in the chess calendar. | Image: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
