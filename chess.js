@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Across Latin America, chess leaders and public institutions are prioritising education initiatives over elite tournaments, aiming to expand the game's social impact and long-term growth. A memorandum signed in San Jos&eacute; by government bodies, FIDE and regional organisers sets the stage for pilot school programmes in Costa Rica. The article explores the strategy behind this approach and the key figures promoting chess as a tool for development. | Photos: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/latin-america-long-game-chess",
+         "pubDate" : "Tue, 24 Mar 2026 23:50:00",
+         "title" : "New school programmes drive chess growth in Latin America"
+      },
+      {
          "description" : "International Master Tania Sachdev visited RP Goenka School in Kolkata for what turned out to be a truly memorable interaction. What stood out wasn't just the questions - but the confidence, clarity and leadership shown by children as young as eight. In this heartwarming account, Tania reflects on young minds, the role of sport and the moments from school that stay with us forever. It's wonderful to see what Tania is doing apart from playing chess and commentating - inspiring the next generation!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -744,22 +752,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/mar/05/jennifer-shahade-interview-abuse-chess",
          "pubDate" : "Thu, 05 Mar 2026 12:00:03",
          "title" : "Jennifer Shahade: 'There's a long and embedded history of abuse in chess'"
-      },
-      {
-         "description" : " by Dane McGuire Working as a part of the front desk staff at the Saint Louis Chess Club has shown me what a true world the game is. I didn't grow up playing, so as an adult, I have been fascinated by the connections between the game and everyday life and I wanted to share [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/10-life-lessons-from-chess-for-adult-beginners/\">10 Life Lessons From Chess for Adult Beginners</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/10-life-lessons-from-chess-for-adult-beginners/",
-         "pubDate" : "Wed, 04 Mar 2026 01:47:34",
-         "title" : "10 Life Lessons From Chess for Adult Beginners"
-      },
-      {
-         "description" : "Today's puzzles begin a series on the 2026 Saint Louis Masters (coverage here), won by GM Mikhail Antipov, who finished a half-point ahead of GM Fabiano Caruana to earn the $25,000 first-place prize. 70 players competed, including a number of top Americans (and five American Cup participants), as well as international norm seekers. Fire was on board from the top tables all the way through the standings, and we've got several weeks of educational entertainment as a result. For more puzzles from this event that are more beginner-friendly, check out our Tactics Tuesday series beginning here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-masters-pt-1",
-         "pubDate" : "Wed, 04 Mar 2026 00:00:00",
-         "title" : "Wednesday Workout: Saint Louis Masters, Pt. 1"
       }
    ]
 }
