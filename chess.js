@@ -10,6 +10,22 @@ news_feed (
          "title" : "Reykjav&iacute;k Open - Live!"
       },
       {
+         "description" : "The North American Corporate Chess League (NACCL) is preparing for its 13th season and will be broadcasted on Chess.com. The NACCL is the largest corporate chess competition in the world and includes some of the world&#39;s best-known companies and sm...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/season-13-of-the-north-american-corporate-chess-league-starts-april-16",
+         "pubDate" : "Wed, 25 Mar 2026 15:18:00",
+         "title" : "Season 13 Of The North American Corporate Chess League Starts April 16"
+      },
+      {
+         "description" : "Chief Chess Officer IM Danny Rensch hosted this year&#39;s first State of Chess on Tuesday. Joined by three special guests during the four-hour broadcast, Danny discussed a wide array of topics, from the Queen of Chess&#38;nbsp;documentary, to trust and s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-state-of-chess-march",
+         "pubDate" : "Wed, 25 Mar 2026 13:06:57",
+         "title" : "State of Chess: Queen of Chess, Proctor & Fair Play, Trust & Safety, Future Of AI"
+      },
+      {
          "description" : " The Senior National Arbiter Seminar cum Examination was organized by the Punjab State Chess Association under the aegis of All India Chess Federation at",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://www.europechess.org/fide-candidates-tournaments-2026-start-in-cyprus/",
          "pubDate" : "Wed, 25 Mar 2026 07:35:49",
          "title" : "FIDE Candidates Tournaments 2026 start in Cyprus"
+      },
+      {
+         "description" : "This weekend, March 27 through 29, the US Chess National High School (K-12) Championship takes place in Chicago, IL! This national event features some of the best scholastic chess players in the United States and US Chess is proud to host this exciting event.Online registration is still open through Thursday, March 26, and on-site registration will be available Friday morning. Over 1,500 players are registered at the time of writing, and all pre-entries can be seen on the event page.Now, here are a few things you can look forward to at the 2026 National High School Championship! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Special Guest GM Fidel CorralesCome and lear",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-national-high-school-k-12-championship-preview",
+         "pubDate" : "Wed, 25 Mar 2026 00:00:00",
+         "title" : "2026 National High School (K-12) Championship Preview!"
       },
       {
          "description" : "Today's puzzles come from the Elimination Bracket of the 2026 American Cup. See our coverage of this event here, and check out another batch of more beginner-friendly puzzles in yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -624,30 +648,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-for-national-rapid-chess-championship-2025-26-in-jharkhand-from-11-13-march-2026/",
          "pubDate" : "Wed, 11 Mar 2026 06:38:05",
          "title" : "Live link for National Rapid Chess Championship 2025-26 in Jharkhand from 11-13 March 2026"
-      },
-      {
-         "description" : "Today's puzzles continue a series on the 2026 Saint Louis Masters (coverage here), won by GM Mikhail Antipov, who finished a half-point ahead of GM Fabiano Caruana to earn the $25,000 first-place prize. 70 players competed, including a number of top Americans (and five American Cup participants), as well as international norm seekers. Fire was on board from the top tables all the way through the standings, and we've got several weeks of educational entertainment as a result. For more puzzles from this event that are more beginner-friendly, check out our Tactics Tuesday series beginning here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable workshee",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-masters-pt-2",
-         "pubDate" : "Wed, 11 Mar 2026 00:00:00",
-         "title" : "Wednesday Workout: Saint Louis Masters, Pt. 2"
-      },
-      {
-         "description" : "GM Wesley So has taken the lead in his match against&#38;nbsp;GM Levon Aronian in The American Cup 2026 Grand Final. It was an Italian Opening gone wrong for the Armenian-American, and So won a remarkably smooth game. Aronian must win the next game on...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-the-american-cup-day-8",
-         "pubDate" : "Tue, 10 Mar 2026 19:23:00",
-         "title" : "Wesley So Scores In 1st Game, Lee & Yip Stay Deadlocked"
-      },
-      {
-         "description" : "The University Of Texas At Dallas (UTD) was the top team in the Fall 2025 regular season of the Collegiate Chess League (CCL). However, in the playoffs, they fell just short, losing to St. Louis University (SLU) in the finals, 8.5-7.5. In the spri...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-ccl-spring-midseason-update",
-         "pubDate" : "Tue, 10 Mar 2026 19:04:14",
-         "title" : "UTD Dominating Halfway Through Collegiate Chess League Spring Season"
       },
       {
          "description" : "Success in world-class chess is built long before the game begins. With the \"Federation Package\", developed specifically for national federations, players and coaches gain access to the complete professional ChessBase software, the world's largest chess database, and powerful cloud analysis - at a price that provides up to five times more computing power than individual solutions! A long-term investment that will measurably enhance the performance of the entire team.",
