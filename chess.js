@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Oliver Kurmann wants to become a grandmaster - at the age of 41! In an interview with the Swiss Chess Federation, the international master from Switzerland, who competed for Bayern Munich in the Bundesliga last weekend, talks about his career, training and ambitions - with ChessBase playing a key role. | Pictured: Oliver Kurmann drew his game last weekend in the Chess Bundesliga for Bayern Munich - he faced Georg Meier of SC Viernheim | Photo: Angelika Valkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oliver-kurmann-gm-ambition",
+         "pubDate" : "Wed, 25 Mar 2026 12:00:00",
+         "title" : "Swiss IM highlights ChessBase as key tool in ambitious Elo climb"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129797171.cms\" />Concerns over safety and infrastructure in Cyprus ahead of the Candidates have unsettled players, with Koneru Humpy withdrawing and Hikaru Nakamura questioning power reliability. Anish Giri mocked FIDE's delayed response. FIDE has now issued a FAQ, insisting Cyprus is safe, outages are rare, and backup systems and contingency plans are in place to ensure smooth conduct.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/finally-dutch-no-1-anish-giri-jabs-fide-over-unusual-cyprus-safety-post/articleshow/129797171.cms",
+         "pubDate" : "Wed, 25 Mar 2026 10:01:32",
+         "title" : "'Finally': Dutch No. 1 Anish Giri jabs FIDE over unusual Cyprus safety post"
+      },
+      {
          "description" : "A classical match between Hans Niemann and Awonder Liang will take place in Paris from 10 to 15 April, as the US grandmasters contest a 12-game showdown at the Blitz Society. Played at a 60+30 time control with two games per day, the encounter combines sporting stakes with a charitable pledge from the loser. Both players arrive with recent match experience, adding competitive context to a fixture unfolding alongside the Candidates cycle. | Photo: Lennart Ootes / Saint Louis Chess Club (US Championship 2025)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/niemann-v-liang-2026-preview",
          "pubDate" : "Wed, 25 Mar 2026 08:00:00",
          "title" : "Niemann and Liang set for 12-game classical match at Blitz Society in Paris"
+      },
+      {
+         "description" : "The FIDE Candidates Tournament 2026 and the FIDE Women's Candidates Tournament 2026 are set to take place from 28 March to 16 April at the Cap St&#160;Georges Hotel &#38; Resort, Peyia, Paphos, Cyprus. Both events are played as eight-player double round-robin tournaments, with 14 rounds in each competition. The Winner of the FIDE Candidates Tournament 2026 qualifies for the World Chess Championship match against the reigning champion Gukesh D, while the Winner of the FIDE Women's Candidates Tournament 2026 qualifies []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-candidates-tournaments-2026-start-in-cyprus/",
+         "pubDate" : "Wed, 25 Mar 2026 07:35:49",
+         "title" : "FIDE Candidates Tournaments 2026 start in Cyprus"
       },
       {
          "description" : "GM Zhamsaran Tsydypov scored 9.5/11 to win his first Titled Tuesday ever on March 24, despite taking a draw in a dead-winning position the final round. GM Vladimir Fedoseev, the only player who could have caught him, blundered into checkmate again...",
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/2026-saint-louis-masters-stats/",
          "pubDate" : "Mon, 23 Mar 2026 19:37:41",
          "title" : "2026 Saint Louis Masters by the Numbers"
-      },
-      {
-         "description" : "A month ago Valery Golubenko played what may well have been one of the longest chess games ever seen, measured by number of moves, under the rather restrictive conditions of modern chess life. At move 88, with queen and b-pawn against queen, Golubenko's opponent held for 37 moves, until he missed an only move, and it was theoretically a mate in 47.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-game-that-outlasted-the-day-2",
-         "pubDate" : "Mon, 23 Mar 2026 19:11:42",
-         "title" : "A Game That Outlasted the Day (2)"
       },
       {
          "description" : "Fifteen-year-old GM Sina Movahed won Play-In 3 of the 2026 Chess.com Open with 7.5/9 and picked GM Arjun Erigaisi as his knockout opponent. Four players scored 7/9, with GMs Vladislav Artemiev and Nihal Sarin missing out on tiebreaks, while GMs Da...",
