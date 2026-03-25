@@ -2,28 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Across Latin America, chess leaders and public institutions are prioritising education initiatives over elite tournaments, aiming to expand the game's social impact and long-term growth. A memorandum signed in San Jos&eacute; by government bodies, FIDE and regional organisers sets the stage for pilot school programmes in Costa Rica. The article explores the strategy behind this approach and the key figures promoting chess as a tool for development. | Photos: FIDE",
+         "description" : "A classical match between Hans Niemann and Awonder Liang will take place in Paris from 10 to 15 April, as the US grandmasters contest a 12-game showdown at the Blitz Society. Played at a 60+30 time control with two games per day, the encounter combines sporting stakes with a charitable pledge from the loser. Both players arrive with recent match experience, adding competitive context to a fixture unfolding alongside the Candidates cycle. | Photo: Lennart Ootes / Saint Louis Chess Club (US Championship 2025)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/latin-america-long-game-chess",
-         "pubDate" : "Tue, 24 Mar 2026 23:50:00",
-         "title" : "New school programmes drive chess growth in Latin America"
-      },
-      {
-         "description" : "International Master Tania Sachdev visited RP Goenka School in Kolkata for what turned out to be a truly memorable interaction. What stood out wasn't just the questions - but the confidence, clarity and leadership shown by children as young as eight. In this heartwarming account, Tania reflects on young minds, the role of sport and the moments from school that stay with us forever. It's wonderful to see what Tania is doing apart from playing chess and commentating - inspiring the next generation!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tania-sachdev-kids-kolkata",
-         "pubDate" : "Tue, 24 Mar 2026 20:00:00",
-         "title" : "When kids take the lead: Tania Sachdev's memorable morning in Kolkata"
-      },
-      {
-         "description" : "The new Opening Encyclopaedia 2026 offers comprehensive and easy access to modern opening theory, helping players build, expand, and refine their repertoire with clarity and confidence. With 1,586 in-depth articles, over 40,000 games, and 100 expert video lessons from leading grandmasters, it combines cutting-edge ideas with practical explanations and annotated examples. Designed for players of all levels, it is an essential all-in-one resource to stay up to date with the latest trends and gain a decisive edge in the opening.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-opening-encyclopaedia-2026",
-         "pubDate" : "Tue, 24 Mar 2026 13:12:38",
-         "title" : "NEW: Opening Encyclopaedia 2026"
+         "link" : "https://en.chessbase.com/post/niemann-v-liang-2026-preview",
+         "pubDate" : "Wed, 25 Mar 2026 08:00:00",
+         "title" : "Niemann and Liang set for 12-game classical match at Blitz Society in Paris"
       },
       {
          "description" : "GM Zhamsaran Tsydypov scored 9.5/11 to win his first Titled Tuesday ever on March 24, despite taking a draw in a dead-winning position the final round. GM Vladimir Fedoseev, the only player who could have caught him, blundered into checkmate again...",
@@ -42,14 +26,6 @@ news_feed (
          "title" : "'Bad move': Cyprus chess chief hits back at Humpy post Candidates pull-out"
       },
       {
-         "description" : "The great tradition of chess caf&eacute;s seemed to be something of the past, but now Sven Rehders, together with several other chess activists, is attempting to revive caf&eacute;s and restaurants as meeting places for chess enthusiasts. And it is working. A smart app is helping to make it happen.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/revival-chess-cafes-hamburg",
-         "pubDate" : "Tue, 24 Mar 2026 07:00:00",
-         "title" : "The revival of chess caf&eacute;s"
-      },
-      {
          "description" : "Special Note: If a player has only&#160;one accompanying person, then he/she must pay for double sharing amount only. (Triple sharing basis not accepted for two",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -64,14 +40,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-2026-american-cup",
          "pubDate" : "Tue, 24 Mar 2026 00:00:00",
          "title" : "Tactics Tuesday: 2026 American Cup"
-      },
-      {
-         "description" : "With a few days remaining before the FIDE Candidates Tournaments 2026 begin, preparations are intensifying for the decisive contests that will determine the next challengers for the world titles. Sixteen elite players will gather alongside their teams, while organisers plan fan activities, side events and expert commentary to enhance the spectator experience. The festival atmosphere surrounding the tournament reflects growing anticipation for one of the most demanding events in the chess calendar. | Image: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-forecasts",
-         "pubDate" : "Mon, 23 Mar 2026 23:00:00",
-         "title" : "Candidates Tournaments kick off on Sunday in Cyprus: Venue, side events and expert forecasts"
       },
       {
          "description" : " by Ben Underwood The 2026 Saint Louis Masters, held in late February at the newly expanded Saint Louis Chess Club, featured 70 top players representing 22 countries. The event showcased a highly competitive field, with 37 Grandmasters and a median rating of 2495, nearly half of all players holding a rating of 2500 or above. [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2026-saint-louis-masters-stats/\">2026 Saint Louis Masters by the Numbers</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -144,30 +112,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/anna-muzychuk-replaces-koneru-humpy-in-candidates-after-safety-concerns/articleshow/129745627.cms",
          "pubDate" : "Mon, 23 Mar 2026 07:11:12",
          "title" : "Muzychuk replaces Humpy in Candidates after safety concerns"
-      },
-      {
-         "description" : "Humpy Koneru has withdrawn from the 2026 Women's Candidates Tournament in Cyprus, citing concerns over personal safety amid rising regional tensions. In line with the regulations, Anna Muzychuk has been invited to replace the Indian grandmaster in the eight-player field. Travel advisories and recent security incidents in the Eastern Mediterranean have formed the wider context surrounding Koneru's decision just ahead of the event's scheduled start. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-humpy-withdrawal",
-         "pubDate" : "Mon, 23 Mar 2026 04:50:00",
-         "title" : "Humpy Koneru withdraws from Women's Candidates, Anna Muzychuk named replacement"
-      },
-      {
-         "description" : "Two players share the lead after six rounds at the Agzamov Memorial in Tashkent, with top seed Haik Martirosyan (pictured) and 14th seed Artem Uskov both on 5/6. Martirosyan has impressed with a series of wins with the white pieces, while Uskov produced a notable upset against Pouya Idani and now faces the Armenian in a key round-seven encounter. A closely packed chasing group remains within striking distance with three rounds still to play. | Photo: Uzbek Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/agzamov-memorial-2026-r6",
-         "pubDate" : "Mon, 23 Mar 2026 03:35:00",
-         "title" : "Agzamov Memorial: Martirosyan and Uskov share lead on 5/6"
-      },
-      {
-         "description" : "In this interview feature, WIM Anzel Laubscher reflects on her career in chess education, law and international development, tracing her journey from early tournaments in South Africa to her work with the FIDE Commission for Chess in Education. She discusses formative life experiences, cultural influences and her advocacy for safeguarding and inclusion in sport, offering personal insights into how chess can shape both learning and social responsibility. | Photos courtesy of WIM Anzel Laubscher",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anzel-laubscher-interview-uvencio-blanco",
-         "pubDate" : "Sun, 22 Mar 2026 18:30:00",
-         "title" : "Anzel Laubscher: \"Meet your students where they are\""
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129736372.cms\" />Top Indian Grandmaster Koneru Humpy has withdrawn from the FIDE Women's Candidates Tournament, prioritizing her personal safety and well-being. Citing security concerns despite assurances, Humpy's decision opens a spot for Anna Muzychuk. While India retains representation with R Vaishali and Divya Deshmukh, Humpy's withdrawal raises questions about potential FIDE penalties and impacts Indian chess.",
