@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Reykjav&iacute;k Open is taking place from 25 to 31 March at the Harpa Concert Hall and Conference Centre, once again bringing together a large international field for its traditional nine-round Swiss competition. Led by top seed Amin Tabatabaei and featuring a mix of experienced contenders - such as Vasyl Ivanchuk - and young stars, the event continues a tradition that dates back to Mikhail Tal's victory in the inaugural 1964 edition. | Follow the action live starting at 16.00 CET (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2026-live",
+         "pubDate" : "Wed, 25 Mar 2026 15:50:00",
+         "title" : "Reykjav&iacute;k Open - Live!"
+      },
+      {
+         "description" : " The Senior National Arbiter Seminar cum Examination was organized by the Punjab State Chess Association under the aegis of All India Chess Federation at",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-senior-national-arbiter-seminar-cum-examination-mohali-held-on-31st-jan-to-1st-feb-2026/",
+         "pubDate" : "Wed, 25 Mar 2026 12:40:39",
+         "title" : "Final Report :Senior National Arbiter Seminar cum Examination in Mohali on 31st Jan & 1st Feb 2026."
+      },
+      {
          "description" : "Oliver Kurmann wants to become a grandmaster - at the age of 41! In an interview with the Swiss Chess Federation, the international master from Switzerland, who competed for Bayern Munich in the Bundesliga last weekend, talks about his career, training and ambitions - with ChessBase playing a key role. | Pictured: Oliver Kurmann drew his game last weekend in the Chess Bundesliga for Bayern Munich - he faced Georg Meier of SC Viernheim | Photo: Angelika Valkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/oliver-kurmann-gm-ambition",
          "pubDate" : "Wed, 25 Mar 2026 12:00:00",
          "title" : "Swiss IM highlights ChessBase as key tool in ambitious Elo climb"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation and Arbiter Commission AICF, the All Orissa Chess Association had organized Senior National Arbiter Seminar &#38; exam at",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-sna-seminar-bhubneshwar-on-17-18-january-2026/",
+         "pubDate" : "Wed, 25 Mar 2026 11:45:06",
+         "title" : "Final report :SNA Seminar, Bhubneshwar on 17 & 18 January 2026"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129797171.cms\" />Concerns over safety and infrastructure in Cyprus ahead of the Candidates have unsettled players, with Koneru Humpy withdrawing and Hikaru Nakamura questioning power reliability. Anish Giri mocked FIDE's delayed response. FIDE has now issued a FAQ, insisting Cyprus is safe, outages are rare, and backup systems and contingency plans are in place to ensure smooth conduct.",
@@ -32,6 +56,22 @@ news_feed (
          "link" : "https://www.europechess.org/fide-candidates-tournaments-2026-start-in-cyprus/",
          "pubDate" : "Wed, 25 Mar 2026 07:35:49",
          "title" : "FIDE Candidates Tournaments 2026 start in Cyprus"
+      },
+      {
+         "description" : "Today's puzzles come from the Elimination Bracket of the 2026 American Cup. See our coverage of this event here, and check out another batch of more beginner-friendly puzzles in yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2026-american-cup",
+         "pubDate" : "Wed, 25 Mar 2026 00:00:00",
+         "title" : "Wednesday Workout: 2026 American Cup"
+      },
+      {
+         "description" : "The U.S. Center for SafeSport (\"SafeSport\") is currently experiencing technical difficulties with their site, so users may not be able to sign up or log into their accounts through the usual links. As a temporary solution, SafeSport recommends accessing their website by going to https://uscenterforsafesport.myabsorb.com/#/login and clicking \" Back to Login.\" From there, you should be able to click \"Log In\" to access an existing account or \"Sign Up\" to create a new account. If you continue to have difficulties accessing the SafeSport site, please contact the SafeSport help desk at https://safesport.atlassian.net/servicedesk/customer/portal/4/group/9/create/32 or email Safe Play Manager Melind",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/safesport-experiencing-technical-difficulties",
+         "pubDate" : "Wed, 25 Mar 2026 00:00:00",
+         "title" : "SafeSport Experiencing Technical Difficulties"
       },
       {
          "description" : "GM Zhamsaran Tsydypov scored 9.5/11 to win his first Titled Tuesday ever on March 24, despite taking a draw in a dead-winning position the final round. GM Vladimir Fedoseev, the only player who could have caught him, blundered into checkmate again...",
@@ -624,14 +664,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-slides-down-in-2026-gender-equality-in-chess-index-rankings-how-can-it-be-improved/articleshow/129388064.cms",
          "pubDate" : "Tue, 10 Mar 2026 11:30:58",
          "title" : "India slides down in 2026 GECI rankings: How can it be improved?"
-      },
-      {
-         "description" : "Today's puzzles continue a series on the 2026 Saint Louis Masters (coverage here), won by GM Mikhail Antipov, who finished a half-point ahead of GM Fabiano Caruana to earn the $25,000 first-place prize. 70 players competed, including a number of top Americans (and five American Cup participants), as well as international norm seekers. Fire was on board from the top tables all the way through the standings, and we've got several weeks of educational entertainment as a result. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-masters-pt-2",
-         "pubDate" : "Tue, 10 Mar 2026 00:00:00",
-         "title" : "Tactics Tuesday: Saint Louis Masters, Pt. 2"
       },
       {
          "description" : "Please find the certificates.For any query please write back to Indianchessfed@gmail.com Batch 1 Batch 2 No Candidate name No. Candidate Name 1 Manikandan Palaniappun 1",
