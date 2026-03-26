@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The oldest surviving chess book is Lucena's \"Repetici&oacute;n de Amores y Arte de Ajedrez\" from 1497. One of the few remaining copies is now being auctioned at Sotheby's. Anyone looking to spruce up their chess book collection should seize this opportunity. | Photo: Sotheby&#39;s",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/auction-sotheby-2026",
+         "pubDate" : "Thu, 26 Mar 2026 18:15:00",
+         "title" : "Oldest chess book auctioned at Sotheby's"
+      },
+      {
+         "description" : "The Reykjav&iacute;k Open is taking place from 25 to 31 March at the Harpa Concert Hall and Conference Centre, once again bringing together a large international field for its traditional nine-round Swiss competition. Led by top seed Amin Tabatabaei and featuring a mix of experienced contenders - such as Vasyl Ivanchuk - and young stars, the event continues a tradition that dates back to Mikhail Tal's victory in the inaugural 1964 edition. | Follow the action live starting at 17.00 CET (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2026-live",
+         "pubDate" : "Thu, 26 Mar 2026 16:50:00",
+         "title" : "Reykjav&iacute;k Open - Live!"
+      },
+      {
          "description" : "The Uttar Pradesh Chess Sports Association, in collaboration with the All India Chess Federation and the Arbiters' Commission AICF, organised a Senior National Arbiter Seminar",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/find-your-friends-on-chesscom",
          "pubDate" : "Thu, 26 Mar 2026 08:00:00",
          "title" : "Find Your Friends On Chess.com With Our New Feature"
+      },
+      {
+         "description" : "The 2026 FIDE Candidates and Women's Candidates tournaments begin on Sunday, March 29 in Paphos, Cyprus. Eight players compete in each event, with the winners earning rights to challenge reigning World Champion GM Gukesh Dommaraju and Women's World Champion GM Ju Wenjun, respectively. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Graphic courtesy of FIDE<br> <br> <br> <br> The 14-round, double Round Robin events run through Wednesday, April 15, with tiebreaks on the 16th, if necessary. Rounds begin at 3:30 p.m. local time, which beginning on March 29, is UTC+3. So, games begin at 8:30 a.m. EDT, or 5:30 a.m. PDT. Pairings have already been determined,",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-candidates-and-womens-candidates-preview",
+         "pubDate" : "Thu, 26 Mar 2026 00:00:00",
+         "title" : "2026 Candidates and Women's Candidates Preview"
       },
       {
          "description" : "After twelve rounds of the 2025/26 Bundesliga season, SC Viernheim lead the standings with a three-point margin over OSG Baden-Baden, while Schachfreunde Wolfhagen remain within reach in third place. The latest weekend saw Viernheim maintain their perfect record with two further wins, as both Baden-Baden and Wolfhagen dropped points in drawn matches. The title race is set to be shaped by direct encounters at the three final rounds in Berlin. | Pictured: Viernheim's Igor Kovalenko | Photo: Angelika Valkova",
@@ -624,14 +648,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/mar/13/favourite-fabiano-caruana-loses-twice-runup-world-title-candidates-chess",
          "pubDate" : "Fri, 13 Mar 2026 08:00:44",
          "title" : "Chess: Favourite Fabiano Caruana loses twice in runup to world title Candidates"
-      },
-      {
-         "description" : "The fifth edition of the American Cup featured ten days of spectacular, fighting chess from 16 of America's top chessplayers, hosted by the Saint Louis Chess Club.With a $400,000 prize fund on the line, players had to outclass each other across an innovative mixture of classical, rapid, and blitz games in this double elimination tournament.Once the dust settled, GM Wesley So won his first American Cup on Wednesday while IM Alice Lee had to play an extra day of chess before securing her third-straight American Cup. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> The 2026 American Cup cha",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/so-and-lee-are-2026-american-cup-champions",
-         "pubDate" : "Fri, 13 Mar 2026 00:00:00",
-         "title" : "So and Lee are 2026 American Cup Champions!"
       },
       {
          "description" : " Wesley So Wins Open; Alice Lee Secures Third Consecutive Women's Title at 2026 American CupSaint Louis Chess Club Awards $400,000 During Signature Event SAINT LOUIS, Mo., March 12, 2026 The 2026 American Cup, hosted by the Saint Louis Chess Club (STLCC) concluded with victories from two of America's top chess competitors. Grandmaster (GM) Wesley [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/wesley-so-wins-open-alice-lee-secures-third-consecutive-womens-title-at-2026-american-cup/\">Wesley So Wins Open; Alice Lee Secures Third Consecutive Women's Title at 2026 American Cup</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
