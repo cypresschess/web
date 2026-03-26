@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After twelve rounds of the 2025/26 Bundesliga season, SC Viernheim lead the standings with a three-point margin over OSG Baden-Baden, while Schachfreunde Wolfhagen remain within reach in third place. The latest weekend saw Viernheim maintain their perfect record with two further wins, as both Baden-Baden and Wolfhagen dropped points in drawn matches. The title race is set to be shaped by direct encounters at the three final rounds in Berlin. | Pictured: Viernheim's Igor Kovalenko | Photo: Angelika Valkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-2025-26-r12",
+         "pubDate" : "Wed, 25 Mar 2026 23:55:00",
+         "title" : "Bundesliga: Viernheim ahead of Baden-Baden with three rounds to go"
+      },
+      {
+         "description" : "India&#39;s GM Nihal Sarin was the only unbeaten player as he won the final Play-In&#38;nbsp;of the 2026 Chess.com Open and made what he joked was &#34;a very tough choice&#34; to play GM Maxime Vachier-Lagrave and not GM Magnus Carlsen in the Playoffs. The playe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nihal-sargsyan-win-2026-chesscom-open-play-in-4",
+         "pubDate" : "Wed, 25 Mar 2026 17:32:15",
+         "title" : "Nihal, Sargsyan Grab Final Spots In Chess.com Open Playoffs"
+      },
+      {
          "description" : "The Reykjav&iacute;k Open is taking place from 25 to 31 March at the Harpa Concert Hall and Conference Centre, once again bringing together a large international field for its traditional nine-round Swiss competition. Led by top seed Amin Tabatabaei and featuring a mix of experienced contenders - such as Vasyl Ivanchuk - and young stars, the event continues a tradition that dates back to Mikhail Tal's victory in the inaugural 1964 edition. | Follow the action live starting at 16.00 CET (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -616,14 +632,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2026-european-school-championship-expression-of-interest/",
          "pubDate" : "Thu, 12 Mar 2026 10:55:15",
          "title" : "2026 European School Championship - Expression of Interest"
-      },
-      {
-         "description" : "GM Wesley So won his maiden title in The American Cup 2026 on Wednesday. After winning the first game against GM Levon Aronian the previous day, he held the necessary draw in game two to secure the match. He makes $75,000 plus another $15,000 bonu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wesley-so-wins-2026-the-american-cup",
-         "pubDate" : "Wed, 11 Mar 2026 15:14:00",
-         "title" : "Wesley So Wins Maiden Title, Yip Takes 1st Match Vs. Lee"
       },
       {
          "description" : "",
