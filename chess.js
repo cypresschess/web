@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Uttar Pradesh Chess Sports Association, in collaboration with the All India Chess Federation and the Arbiters' Commission AICF, organised a Senior National Arbiter Seminar",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-senior-national-arbiters-seminar-and-examination-lucknow-uttar-pradesh-on-14-15-march-2026/",
+         "pubDate" : "Thu, 26 Mar 2026 12:33:47",
+         "title" : "Final Report - Senior National Arbiters' Seminar and Examination, Lucknow, Uttar Pradesh on 14 & 15 March 2026."
+      },
+      {
+         "description" : "On behalf of All India Chess Federation &#38; Arbiter Commission AICF, All Jharkhand Chess Association is organizing Senior National Arbiter Seminar &#38; exam at SARALA",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-sna-seminar-and-exam-held-in-ranchi-on-21-22-feb-2026/",
+         "pubDate" : "Thu, 26 Mar 2026 11:47:40",
+         "title" : "Final Report :SNA Seminar and Exam held in Ranchi on 21 & 22 Feb 2026"
+      },
+      {
          "description" : "&#160; The top two players in each section of the English Youth Championships qualify to play for England in the World Youth/Cadet Championships or European Youth Championships, with the first-placed...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/deschmukh-gledura-hand-brain-the-tactic-everyone-missed",
          "pubDate" : "Thu, 26 Mar 2026 09:15:00",
          "title" : "Deshmukh, Gledura: Hand & Brain - The tactic everyone missed"
+      },
+      {
+         "description" : "Your friends could already be playing chess&#38;mdash;and you might not even know yet! We&#39;re excited to introduce a new way for you to find and play with friends on Chess.com. Sync your contacts and connect with your friends with a single tap, so you ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/find-your-friends-on-chesscom",
+         "pubDate" : "Thu, 26 Mar 2026 08:00:00",
+         "title" : "Find Your Friends On Chess.com With Our New Feature"
       },
       {
          "description" : "After twelve rounds of the 2025/26 Bundesliga season, SC Viernheim lead the standings with a three-point margin over OSG Baden-Baden, while Schachfreunde Wolfhagen remain within reach in third place. The latest weekend saw Viernheim maintain their perfect record with two further wins, as both Baden-Baden and Wolfhagen dropped points in drawn matches. The title race is set to be shaped by direct encounters at the three final rounds in Berlin. | Pictured: Viernheim's Igor Kovalenko | Photo: Angelika Valkova",
@@ -634,14 +658,6 @@ news_feed (
          "title" : "ECF Online Grand Prix 2026 launched"
       },
       {
-         "description" : "Sixteen-year-old IM Alice Lee is once again the champion of The Women&#39;s American Cup 2026 for the third year in a row. In the Grand Final Reset against IM Carissa Yip, Lee won the first rapid game and drew the second to secure the match. GM Wesl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alice-lee-wins-2026-the-womens-american-cup",
-         "pubDate" : "Thu, 12 Mar 2026 12:39:00",
-         "title" : "Alice Lee Wins The American Cup 3rd Year In A Row"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/mar/06/chess-gukesh-bottom-in-prague-as-world-champion-19-struggles-for-form",
          "pubDate" : "Fri, 06 Mar 2026 08:00:17",
          "title" : "Chess: Gukesh joint last in Prague as world champion, 19, struggles for form"
-      },
-      {
-         "description" : " The former US women's champion changed her life and her sport when she made allegations against a grandmaster. Now she's turned her hand to writing and poker On 15 February 2023, Jennifer Shahade took a deep breath and wrote \"Time's up\" above a long message about allegations of sexual abuse in the cloistered world of professional chess. Shahade knew her words would have an impact but she didn't expect the <a href=\"https://x.com/JenShahade/status/1625873098581983232?s=20\">social media post</a> to go viral and change her life. A two-time US women's chess champion, Shahade chose her words carefully as she made serious allegations against Alejandro Ramirez, a then 34-year-old grandmaster from C",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/mar/05/jennifer-shahade-interview-abuse-chess",
-         "pubDate" : "Thu, 05 Mar 2026 12:00:03",
-         "title" : "Jennifer Shahade: 'There's a long and embedded history of abuse in chess'"
       }
    ]
 }
