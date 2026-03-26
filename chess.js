@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "&#160; The top two players in each section of the English Youth Championships qualify to play for England in the World Youth/Cadet Championships or European Youth Championships, with the first-placed...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-youth-championship-qualifiers-prizewinners/",
+         "pubDate" : "Thu, 26 Mar 2026 10:54:41",
+         "title" : "English Youth Championship Qualifiers & Prizewinners"
+      },
+      {
+         "description" : "Tuesday, 23rd and Wednesday, 24th June 2026 at Nottingham University Pope Building, University Park Campus * The tournament will be a 5 round Team Swiss System tournament for teams with...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-schools-u19-national-finals/",
+         "pubDate" : "Thu, 26 Mar 2026 10:51:27",
+         "title" : "ECF Schools U19 National Finals"
+      },
+      {
+         "description" : "At the Prague International Chess Festival 2026, the popular Hand & Brain format followed right after the main event, bringing together Grandmasters, Challengers, Futures players, celebrities, and sponsors in mixed teams for four entertaining rounds. Among the standout games was the pairing of Divya Deshmukh & Christina Jordan against Bao Anh Angelina Nguyen Doan & Benjamin Gledura. The game seemed firmly in White's hands before the momentum shifted dramatically, turning into a commanding position for Black. In a remarkable finish, Gledura discovered a brilliant tactical idea that everyone else at the table missed-including his own partner.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deschmukh-gledura-hand-brain-the-tactic-everyone-missed",
+         "pubDate" : "Thu, 26 Mar 2026 09:15:00",
+         "title" : "Deshmukh, Gledura: Hand & Brain - The tactic everyone missed"
+      },
+      {
          "description" : "After twelve rounds of the 2025/26 Bundesliga season, SC Viernheim lead the standings with a three-point margin over OSG Baden-Baden, while Schachfreunde Wolfhagen remain within reach in third place. The latest weekend saw Viernheim maintain their perfect record with two further wins, as both Baden-Baden and Wolfhagen dropped points in drawn matches. The title race is set to be shaped by direct encounters at the three final rounds in Berlin. | Pictured: Viernheim's Igor Kovalenko | Photo: Angelika Valkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,14 +42,6 @@ news_feed (
          "title" : "Nihal, Sargsyan Grab Final Spots In Chess.com Open Playoffs"
       },
       {
-         "description" : "The Reykjav&iacute;k Open is taking place from 25 to 31 March at the Harpa Concert Hall and Conference Centre, once again bringing together a large international field for its traditional nine-round Swiss competition. Led by top seed Amin Tabatabaei and featuring a mix of experienced contenders - such as Vasyl Ivanchuk - and young stars, the event continues a tradition that dates back to Mikhail Tal's victory in the inaugural 1964 edition. | Follow the action live starting at 16.00 CET (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2026-live",
-         "pubDate" : "Wed, 25 Mar 2026 15:50:00",
-         "title" : "Reykjav&iacute;k Open - Live!"
-      },
-      {
          "description" : "The North American Corporate Chess League (NACCL) is preparing for its 13th season and will be broadcasted on Chess.com. The NACCL is the largest corporate chess competition in the world and includes some of the world&#39;s best-known companies and sm...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -38,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-state-of-chess-march",
-         "pubDate" : "Wed, 25 Mar 2026 13:06:57",
+         "pubDate" : "Wed, 25 Mar 2026 13:06:00",
          "title" : "State of Chess: Queen of Chess, Proctor & Fair Play, Trust & Safety, Future Of AI"
       },
       {
@@ -458,7 +474,7 @@ news_feed (
          "title" : "Nepomniachtchi, Abdusattorov Qualify Through Play-In 1"
       },
       {
-         "description" : "A historic match, the UK v Ukraine Solidarity Chess Match, will take place on Tuesday, 17 March 2026, from 6:00 to 7:00 pm. &#160; The match brings together players from...",
+         "description" : "A historic match, the UK v Ukraine Solidarity Chess Match, will take place on Tuesday, 17 March 2026, from 6:00 to 7:00 pm. The match brings together players from the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/uk-v-ukraine-solidarity-match-tuesday-17-march/",
@@ -624,14 +640,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/alice-lee-wins-2026-the-womens-american-cup",
          "pubDate" : "Thu, 12 Mar 2026 12:39:00",
          "title" : "Alice Lee Wins The American Cup 3rd Year In A Row"
-      },
-      {
-         "description" : "Players are welcome to enter the 2026 European School Chess Championship, which is designated by the ECF as a Category B junior international.&#160;This means that it is open for all...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2026-european-school-championship-expression-of-interest/",
-         "pubDate" : "Thu, 12 Mar 2026 10:55:15",
-         "title" : "2026 European School Championship - Expression of Interest"
       },
       {
          "description" : "",
