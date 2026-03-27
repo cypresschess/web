@@ -10,14 +10,6 @@ news_feed (
          "title" : "Reykjav&iacute;k Open - Live!"
       },
       {
-         "description" : "The exhibition \"Chess Variants: Transforming Tradition\" explores the evolution of chess across cultures, from its early forms in Asia to modern reinterpretations of the game. Hosted by the World Chess Hall of Fame, it brings together historical artefacts, rare sets and interactive displays, alongside examples of variants such as Shogi and Xiangqi. The show highlights how communities have continually reshaped chess over more than fifteen centuries. | Photos: World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-variants-exhibit-world-chess-hof",
-         "pubDate" : "Fri, 27 Mar 2026 12:00:00",
-         "title" : "Exhibit at the World Chess Hall of Fame: \"Chess Variants: Transforming Tradition\""
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129846384.cms\" />The 2026 Candidates chess tournament in Cyprus faces pre-event anxieties due to Middle East tensions, leading to a player withdrawal and concerns over logistics. This echoes a past instance in 1978 Tehran, where Indian players competed amidst a crumbling monarchy and civil unrest, largely shielded by isolation from news and the tournament's remote location.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
