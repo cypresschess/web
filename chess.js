@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The oldest surviving chess book is Lucena's \"Repetici&oacute;n de Amores y Arte de Ajedrez\" from 1497. One of the few remaining copies is now being auctioned at Sotheby's. Anyone looking to spruce up their chess book collection should seize this opportunity. | Photo: Sotheby&#39;s",
+         "description" : "A life between political pressure, sporting rivalry and unshakeable ambition: Viktor Korchnoi is one of the most fascinating figures in chess history. On 23 March, the chess legend would have turned 95. ChessBase is taking this as an opportunity to provide you with a feature package on the influential figure in the history of chess. | Pictured: Petra and Viktor Korchnoi enjoying a meal aboard the Hamburg Alster steamer at the ChessBase Christmas celebration. | Photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/auction-sotheby-2026",
-         "pubDate" : "Thu, 26 Mar 2026 18:15:00",
-         "title" : "Oldest chess book auctioned at Sotheby's"
+         "link" : "https://en.chessbase.com/post/viktor-korchnoi-bundle-95-birth",
+         "pubDate" : "Thu, 26 Mar 2026 23:50:00",
+         "title" : "Viktor Korchnoi: A special bundle on the 95th anniversary of his birth"
       },
       {
          "description" : "The Reykjav&iacute;k Open is taking place from 25 to 31 March at the Harpa Concert Hall and Conference Centre, once again bringing together a large international field for its traditional nine-round Swiss competition. Led by top seed Amin Tabatabaei and featuring a mix of experienced contenders - such as Vasyl Ivanchuk - and young stars, the event continues a tradition that dates back to Mikhail Tal's victory in the inaugural 1964 edition. | Follow the action live starting at 17.00 CET (12.00 ET, 21.30 IST)",
@@ -50,14 +50,6 @@ news_feed (
          "title" : "ECF Schools U19 National Finals"
       },
       {
-         "description" : "At the Prague International Chess Festival 2026, the popular Hand & Brain format followed right after the main event, bringing together Grandmasters, Challengers, Futures players, celebrities, and sponsors in mixed teams for four entertaining rounds. Among the standout games was the pairing of Divya Deshmukh & Christina Jordan against Bao Anh Angelina Nguyen Doan & Benjamin Gledura. The game seemed firmly in White's hands before the momentum shifted dramatically, turning into a commanding position for Black. In a remarkable finish, Gledura discovered a brilliant tactical idea that everyone else at the table missed-including his own partner.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deschmukh-gledura-hand-brain-the-tactic-everyone-missed",
-         "pubDate" : "Thu, 26 Mar 2026 09:15:00",
-         "title" : "Deshmukh, Gledura: Hand & Brain - The tactic everyone missed"
-      },
-      {
          "description" : "Your friends could already be playing chess&#38;mdash;and you might not even know yet! We&#39;re excited to introduce a new way for you to find and play with friends on Chess.com. Sync your contacts and connect with your friends with a single tap, so you ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -72,14 +64,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2026-candidates-and-womens-candidates-preview",
          "pubDate" : "Thu, 26 Mar 2026 00:00:00",
          "title" : "2026 Candidates and Women's Candidates Preview"
-      },
-      {
-         "description" : "After twelve rounds of the 2025/26 Bundesliga season, SC Viernheim lead the standings with a three-point margin over OSG Baden-Baden, while Schachfreunde Wolfhagen remain within reach in third place. The latest weekend saw Viernheim maintain their perfect record with two further wins, as both Baden-Baden and Wolfhagen dropped points in drawn matches. The title race is set to be shaped by direct encounters at the three final rounds in Berlin. | Pictured: Viernheim's Igor Kovalenko | Photo: Angelika Valkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-2025-26-r12",
-         "pubDate" : "Wed, 25 Mar 2026 23:55:00",
-         "title" : "Bundesliga: Viernheim ahead of Baden-Baden with three rounds to go"
       },
       {
          "description" : "India&#39;s GM Nihal Sarin was the only unbeaten player as he won the final Play-In&#38;nbsp;of the 2026 Chess.com Open and made what he joked was &#34;a very tough choice&#34; to play GM Maxime Vachier-Lagrave and not GM Magnus Carlsen in the Playoffs. The playe...",
@@ -114,14 +98,6 @@ news_feed (
          "title" : "Final Report :Senior National Arbiter Seminar cum Examination in Mohali on 31st Jan & 1st Feb 2026."
       },
       {
-         "description" : "Oliver Kurmann wants to become a grandmaster - at the age of 41! In an interview with the Swiss Chess Federation, the international master from Switzerland, who competed for Bayern Munich in the Bundesliga last weekend, talks about his career, training and ambitions - with ChessBase playing a key role. | Pictured: Oliver Kurmann drew his game last weekend in the Chess Bundesliga for Bayern Munich - he faced Georg Meier of SC Viernheim | Photo: Angelika Valkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oliver-kurmann-gm-ambition",
-         "pubDate" : "Wed, 25 Mar 2026 12:00:00",
-         "title" : "Swiss IM highlights ChessBase as key tool in ambitious Elo climb"
-      },
-      {
          "description" : "On behalf of All India Chess Federation and Arbiter Commission AICF, the All Orissa Chess Association had organized Senior National Arbiter Seminar &#38; exam at",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -136,14 +112,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/finally-dutch-no-1-anish-giri-jabs-fide-over-unusual-cyprus-safety-post/articleshow/129797171.cms",
          "pubDate" : "Wed, 25 Mar 2026 10:01:32",
          "title" : "'Finally': Dutch No. 1 Anish Giri jabs FIDE over unusual Cyprus safety post"
-      },
-      {
-         "description" : "A classical match between Hans Niemann and Awonder Liang will take place in Paris from 10 to 15 April, as the US grandmasters contest a 12-game showdown at the Blitz Society. Played at a 60+30 time control with two games per day, the encounter combines sporting stakes with a charitable pledge from the loser. Both players arrive with recent match experience, adding competitive context to a fixture unfolding alongside the Candidates cycle. | Photo: Lennart Ootes / Saint Louis Chess Club (US Championship 2025)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/niemann-v-liang-2026-preview",
-         "pubDate" : "Wed, 25 Mar 2026 08:00:00",
-         "title" : "Niemann and Liang set for 12-game classical match at Blitz Society in Paris"
       },
       {
          "description" : "The FIDE Candidates Tournament 2026 and the FIDE Women's Candidates Tournament 2026 are set to take place from 28 March to 16 April at the Cap St&#160;Georges Hotel &#38; Resort, Peyia, Paphos, Cyprus. Both events are played as eight-player double round-robin tournaments, with 14 rounds in each competition. The Winner of the FIDE Candidates Tournament 2026 qualifies for the World Chess Championship match against the reigning champion Gukesh D, while the Winner of the FIDE Women's Candidates Tournament 2026 qualifies []",
