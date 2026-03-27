@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Court of Arbitration for Sport has ruled in favour of Ukraine in its case against the Chess Federation of Russia, concluding that earlier sanctions imposed by FIDE were insufficient. The decision requires the Russian Federation to cease organising chess activities in several annexed regions within 90 days or face suspension from international competition. The case centres on events held in territories internationally recognised as Ukrainian. | Photo: TAS/CAS (Tribunal Arbitral du Sport)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cas-appeal-ucf-cfr-decision",
+         "pubDate" : "Fri, 27 Mar 2026 23:00:00",
+         "title" : "Court of Arbitration for Sport finds FIDE sanctions insufficient, imposes new measures on Russian Federation"
+      },
+      {
+         "description" : "An overview of the Opening Encyclopaedia 2026 highlights its role as a structured resource for studying modern opening theory. Combining articles, annotated games and video content, it offers both broad coverage and practical guidance. With contributions from authors such as Daniel King and Dorian Rogozenco, the material spans introductory tutorials and detailed analysis, alongside an extensive, searchable games' database.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/opening-encyclopaedia-introductory-video",
+         "pubDate" : "Fri, 27 Mar 2026 21:30:00",
+         "title" : "Exploring the Opening Encyclopaedia 2026: A video introduction"
+      },
+      {
          "description" : "The Reykjav&iacute;k Open is taking place from 25 to 31 March at the Harpa Concert Hall and Conference Centre, once again bringing together a large international field for its traditional nine-round Swiss competition. Led by top seed Amin Tabatabaei and featuring a mix of experienced contenders - such as Vasyl Ivanchuk - and young stars, the event continues a tradition that dates back to Mikhail Tal's victory in the inaugural 1964 edition. | Follow the action live starting at 16.00 CET (11.00 ET, 20.30 IST) | Photo: Sk&aacute;ksamband Íslands",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/reykjavik-open-2026-live",
          "pubDate" : "Fri, 27 Mar 2026 16:00:00",
          "title" : "Reykjav&iacute;k Open - Live!"
+      },
+      {
+         "description" : "Since GM Jose Martinez won the inaugural 3 0 Thursday tournament in November, GM Fabiano Caruana has been the only player to win more than one of the three weekly events on the same day. Martinez joined him in impressive fashion on Thursday, March...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/martinez-martinez-bortnyk-3-0-thursday-03-26-2026",
+         "pubDate" : "Fri, 27 Mar 2026 15:10:58",
+         "title" : "Martinez Scores Double Wins In 3 0 Thursdays"
+      },
+      {
+         "description" : "To win Titled Tuesday, 3 0 Thursday, or Freestyle Friday it usually takes at least 9.5 points out of 11. Occasionally, nine points suffices. But, for Freestyle Friday on March 27, it only took an 8.5/11 score for GM Vincent Keymer to win on tiebre...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/keymer-wins-freestyle-friday-march-27-2026",
+         "pubDate" : "Fri, 27 Mar 2026 14:50:35",
+         "title" : "Not A Movie: 8.5 Wins Freestyle Friday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129846384.cms\" />The 2026 Candidates chess tournament in Cyprus faces pre-event anxieties due to Middle East tensions, leading to a player withdrawal and concerns over logistics. This echoes a past instance in 1978 Tehran, where Indian players competed amidst a crumbling monarchy and civil unrest, largely shielded by isolation from news and the tournament's remote location.",
@@ -18,7 +50,7 @@ news_feed (
          "title" : "'We saw tanks on the road': How playing chess amid regional conflict feels"
       },
       {
-         "description" : " The US legend declined a $25,000 offer from shoe firm Clarks to meet the cream of England's juniors The nine-round Reykjavik Open, which began on Wednesday afternoon at the Harpa Conference Centre and which continued with two rounds on Thursday, is an iconic event. It was first played as an all-play-all in 1964, when Mikhail Tal won, and is close to the Hotel Reykjavik Natura, formerly the Hotel Loftleidir, which featured prominently in the epic Bobby Fischer v Boris Spassky match of 1972. The top seed in the capacity entry of 422 players is Iran's Amin Tabatabaei, the only 2700-rated player in the field, with Romania's Bogdan-Daniel Deac (2655) next, and the veteran Ukrainian Vasyl Ivanchu",
+         "description" : " The US legend declined a $25,000 offer from shoe firm Clarks to meet the cream of England's juniors The nine-round Reykjavik Open, which began on Wednesday afternoon at the Harpa Conference Centre, is an iconic event. It was first played as an all-play-all in 1964, when Mikhail Tal won, and is close to the Hotel Reykjavik Natura, formerly the Hotel Loftleidir, which featured prominently in the epic Bobby Fischer v Boris Spassky match of 1972. The top seed in the capacity entry of 422 players is Iran's Amin Tabatabaei, the only 2700-rated player in the field, with Romania's Bogdan-Daniel Deac (2655) next, and the veteran Ukrainian Vasyl Ivanchuk (2624) the fourth seed. <a href=\"https://www.t",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/mar/27/chess-iconic-reykjavik-open-sparks-memory-of-bobby-fischer-from-1973",
@@ -626,28 +658,12 @@ news_feed (
          "title" : "Pranav 4th Freestyle Friday Championship Victor"
       },
       {
-         "description" : "Netflix has released the teaser for its upcoming documentary, Untold: Chess Mates, sparking widespread reactions across the chess world less than a month before its full release. The 71-second clip, released on March 10, gives a first preview of...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/netflix-sparks-reactions-with-release-of-trailer-for-carlsen-niemann-documentary",
-         "pubDate" : "Fri, 13 Mar 2026 16:32:00",
-         "title" : "Netflix Draws Reactions With Release Of Trailer For Carlsen-Niemann Documentary"
-      },
-      {
          "description" : "By decision of the ECU Board and with approval from the FIDE Council, the ECU General Assembly 2026 and elections will take place on Saturday, 18 July 2026, in Bucharest, Romania. The elections are scheduled in accordance with the ECU statutes and the completion of the current term of the ECU Board on 22 July 2026. The ECU General Assembly will be hosted at the premises of the Romanian Olympic Committee, emphasising the European Chess Union's strong commitment to the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-general-assembly-2026/",
          "pubDate" : "Fri, 13 Mar 2026 16:01:32",
          "title" : "ECU GENERAL ASSEMBLY 2026 - Invitation"
-      },
-      {
-         "description" : "IM Renato Terry won a 3 0 Thursday tournament&#38;nbsp;for the third week in a row, setting a new record with nine victories in the event. GM Oleksandr Bortnyk joined him, winning his third title, as did GM Benjamin Bok, winning for the first time. Th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/3-0-thursday-bok-bortnyk-terry-3-12-2026",
-         "pubDate" : "Fri, 13 Mar 2026 12:36:00",
-         "title" : "Terry Extends Record, Bok and Bortnyk Win 3 0 Thursday"
       },
       {
          "description" : " The world No 3 is backed to become the challenger but lost twice this week, to Wesley So and Levon Aronian Fabiano Caruana, the world No 3, reigning US champion and 5-2 favourite to win the world title Candidates at the Cap St Georges Resort, Pegeia, Cyprus, from 29 March to 16 April, planned to warm up with two events at his home town, St Louis, but events have not followed the script. Caruana was second to the former Russian Mikhail Antipov in the Saint Louis Masters, though he was unbeaten with 7/9, so this was still a good result. But then, in the American Cup, a double elimination format knockout, he lost to Wesley So and Levon Aronian in similar fashion, winning the first classical ga",
@@ -768,14 +784,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-apologises-to-fans-indian-chess-stars-slip-in-rankings-whats-going-wrong/articleshow/129194262.cms",
          "pubDate" : "Sat, 07 Mar 2026 05:00:59",
          "title" : "Gukesh apologises to fans; Indian stars slip in rankings: what's going wrong?"
-      },
-      {
-         "description" : " The 8th Prague International Chess Festival took place Tue 24th Feb to Fri 6th Mar 2026. Players Masters: Vincent Keymer, D Gukesh, Nodirbek Abdusattorov, Hans Moke, Niemann, Parham Maghsoodloo, Jorden Van Foreest, Aravindh Chithambaram V, Nodirbek Yakubboev, David Anton Guijarro and David Navara. There's a strong Challengers section, Futures and an open too. Nodirbek Abdusattorov won his third classical tournament in a row after London and Tata Steel. He won three and drew six games. Jorden Van Foreest took an early lead but defeats in the final two rounds took him down to a tie for second place with Maghsoodloo and Aravindh. World Champion Gukesh finished tied for last place with David An",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/8th-prague-international-chess-festival-2026",
-         "pubDate" : "Fri, 6 Mar 2026 21:59:00",
-         "title" : "8th Prague International Chess Festival 2026 - Games and Results"
       }
    ]
 }
