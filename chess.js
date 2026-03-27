@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Reykjav&iacute;k Open is taking place from 25 to 31 March at the Harpa Concert Hall and Conference Centre, once again bringing together a large international field for its traditional nine-round Swiss competition. Led by top seed Amin Tabatabaei and featuring a mix of experienced contenders - such as Vasyl Ivanchuk - and young stars, the event continues a tradition that dates back to Mikhail Tal's victory in the inaugural 1964 edition. | Follow the action live starting at 16.00 CET (11.00 ET, 20.30 IST) | Photo: Sk&aacute;ksamband Íslands",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2026-live",
+         "pubDate" : "Fri, 27 Mar 2026 16:00:00",
+         "title" : "Reykjav&iacute;k Open - Live!"
+      },
+      {
          "description" : "The exhibition \"Chess Variants: Transforming Tradition\" explores the evolution of chess across cultures, from its early forms in Asia to modern reinterpretations of the game. Hosted by the World Chess Hall of Fame, it brings together historical artefacts, rare sets and interactive displays, alongside examples of variants such as Shogi and Xiangqi. The show highlights how communities have continually reshaped chess over more than fifteen centuries. | Photos: World Chess Hall of Fame",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,28 @@ news_feed (
          "title" : "Exhibit at the World Chess Hall of Fame: \"Chess Variants: Transforming Tradition\""
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129846384.cms\" />The 2026 Candidates chess tournament in Cyprus faces pre-event anxieties due to Middle East tensions, leading to a player withdrawal and concerns over logistics. This echoes a past instance in 1978 Tehran, where Indian players competed amidst a crumbling monarchy and civil unrest, largely shielded by isolation from news and the tournament's remote location.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/we-saw-tanks-on-the-road-how-playing-chess-amid-regional-conflict-feels/articleshow/129846384.cms",
+         "pubDate" : "Fri, 27 Mar 2026 11:42:32",
+         "title" : "'We saw tanks on the road': How playing chess amid regional conflict feels"
+      },
+      {
          "description" : " The US legend declined a $25,000 offer from shoe firm Clarks to meet the cream of England's juniors The nine-round Reykjavik Open, which began on Wednesday afternoon at the Harpa Conference Centre and which continued with two rounds on Thursday, is an iconic event. It was first played as an all-play-all in 1964, when Mikhail Tal won, and is close to the Hotel Reykjavik Natura, formerly the Hotel Loftleidir, which featured prominently in the epic Bobby Fischer v Boris Spassky match of 1972. The top seed in the capacity entry of 422 players is Iran's Amin Tabatabaei, the only 2700-rated player in the field, with Romania's Bogdan-Daniel Deac (2655) next, and the veteran Ukrainian Vasyl Ivanchu",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/mar/27/chess-iconic-reykjavik-open-sparks-memory-of-bobby-fischer-from-1973",
          "pubDate" : "Fri, 27 Mar 2026 08:00:02",
          "title" : "Chess: iconic Reykjavik Open sparks memory of Bobby Fischer from 1973"
+      },
+      {
+         "description" : "GMs Magnus Carlsen, Vincent Keymer, and Nodirbek Abdusattorov headline the Grenke Freestyle Chess Open, part of the Grenke Chess Festival, which runs April 2-6 in Karlsruhe, Germany and is one of the largest and most spectacular events in the worl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-keymer-abdusattorov-top-star-studded-grenke-freestyle-open",
+         "pubDate" : "Fri, 27 Mar 2026 07:36:00",
+         "title" : "Carlsen, Keymer, Abdusattorov Headline Massive Grenke Chess Field"
       },
       {
          "description" : "Haik Martirosyan won the 19th Agzamov Memorial in Tashkent on tiebreak after finishing level on 7&frac12;/9 with 16-year-old Artem Uskov. The two co-leaders drew their direct encounter in round seven, before Martirosyan moved ahead with a win in round eight. Uskov's final-round victory over Abhimanyu Puranik allowed him to catch the Armenian GM, but not to overtake him on tiebreak. A group of six players finished half a point behind in a closely contested event. | Photo: FIDE / Anastasiia Korolkova",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/viktor-korchnoi-bundle-95-birth",
          "pubDate" : "Thu, 26 Mar 2026 23:50:00",
          "title" : "Viktor Korchnoi: A special bundle on the 95th anniversary of his birth"
-      },
-      {
-         "description" : "The Reykjav&iacute;k Open is taking place from 25 to 31 March at the Harpa Concert Hall and Conference Centre, once again bringing together a large international field for its traditional nine-round Swiss competition. Led by top seed Amin Tabatabaei and featuring a mix of experienced contenders - such as Vasyl Ivanchuk - and young stars, the event continues a tradition that dates back to Mikhail Tal's victory in the inaugural 1964 edition. | Follow the action live starting at 17.00 CET (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2026-live",
-         "pubDate" : "Thu, 26 Mar 2026 16:50:00",
-         "title" : "Reykjav&iacute;k Open - Live!"
       },
       {
          "description" : "The Uttar Pradesh Chess Sports Association, in collaboration with the All India Chess Federation and the Arbiters' Commission AICF, organised a Senior National Arbiter Seminar",
@@ -656,14 +672,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/wesley-so-wins-open-alice-lee-secures-third-consecutive-womens-title-at-2026-american-cup/",
          "pubDate" : "Thu, 12 Mar 2026 20:22:54",
          "title" : "Wesley So Wins Open; Alice Lee Secures Third Consecutive Women's Title at 2026 American Cup"
-      },
-      {
-         "description" : "Chess.com returned to the MIT Sloan Sports Analytics Conference in Boston last weekend and hosted a packed program that explored chess, AI, and the connection between mental and physical performance. The annual gathering of leading sports execut...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/mit-sloan-sports-analytics-conference-recap-2026",
-         "pubDate" : "Thu, 12 Mar 2026 14:03:00",
-         "title" : "Chess, AI, Chessboxing Take Center Stage At MIT Sloan Sports Analytics Conference"
       },
       {
          "description" : "",
