@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Haik Martirosyan won the 19th Agzamov Memorial in Tashkent on tiebreak after finishing level on 7&frac12;/9 with 16-year-old Artem Uskov. The two co-leaders drew their direct encounter in round seven, before Martirosyan moved ahead with a win in round eight. Uskov's final-round victory over Abhimanyu Puranik allowed him to catch the Armenian GM, but not to overtake him on tiebreak. A group of six players finished half a point behind in a closely contested event. | Photo: FIDE / Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/agzamov-memorial-2026-r9",
+         "pubDate" : "Fri, 27 Mar 2026 07:20:00",
+         "title" : "Martirosyan edges 16-year-old Uskov to take Agzamov Memorial title"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129838184.cms\" />Fabiano Caruana, a top contender in the upcoming Candidates tournament, faces scrutiny over his nerve management despite his undeniable strength. His consistent qualification highlights his prowess, but past close calls raise questions. With key rivals absent, Caruana aims to leverage his solid positional play and preparation to overcome recent decision-making challenges and secure a victory.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-fabiano-caruana-steady-yet-unconvincing/articleshow/129838184.cms",
+         "pubDate" : "Fri, 27 Mar 2026 03:52:10",
+         "title" : "Candidates Chess: Fabiano Caruana steady yet unconvincing"
+      },
+      {
          "description" : "A life between political pressure, sporting rivalry and unshakeable ambition: Viktor Korchnoi is one of the most fascinating figures in chess history. On 23 March, the chess legend would have turned 95. ChessBase is taking this as an opportunity to provide you with a feature package on the influential figure in the history of chess. | Pictured: Petra and Viktor Korchnoi enjoying a meal aboard the Hamburg Alster steamer at the ChessBase Christmas celebration. | Photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
