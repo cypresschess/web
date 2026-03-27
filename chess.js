@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The exhibition \"Chess Variants: Transforming Tradition\" explores the evolution of chess across cultures, from its early forms in Asia to modern reinterpretations of the game. Hosted by the World Chess Hall of Fame, it brings together historical artefacts, rare sets and interactive displays, alongside examples of variants such as Shogi and Xiangqi. The show highlights how communities have continually reshaped chess over more than fifteen centuries. | Photos: World Chess Hall of Fame",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-variants-exhibit-world-chess-hof",
+         "pubDate" : "Fri, 27 Mar 2026 12:00:00",
+         "title" : "Exhibit at the World Chess Hall of Fame: \"Chess Variants: Transforming Tradition\""
+      },
+      {
+         "description" : " The US legend declined a $25,000 offer from shoe firm Clarks to meet the cream of England's juniors The nine-round Reykjavik Open, which began on Wednesday afternoon at the Harpa Conference Centre and which continued with two rounds on Thursday, is an iconic event. It was first played as an all-play-all in 1964, when Mikhail Tal won, and is close to the Hotel Reykjavik Natura, formerly the Hotel Loftleidir, which featured prominently in the epic Bobby Fischer v Boris Spassky match of 1972. The top seed in the capacity entry of 422 players is Iran's Amin Tabatabaei, the only 2700-rated player in the field, with Romania's Bogdan-Daniel Deac (2655) next, and the veteran Ukrainian Vasyl Ivanchu",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/mar/27/chess-iconic-reykjavik-open-sparks-memory-of-bobby-fischer-from-1973",
+         "pubDate" : "Fri, 27 Mar 2026 08:00:02",
+         "title" : "Chess: iconic Reykjavik Open sparks memory of Bobby Fischer from 1973"
+      },
+      {
          "description" : "Haik Martirosyan won the 19th Agzamov Memorial in Tashkent on tiebreak after finishing level on 7&frac12;/9 with 16-year-old Artem Uskov. The two co-leaders drew their direct encounter in round seven, before Martirosyan moved ahead with a win in round eight. Uskov's final-round victory over Abhimanyu Puranik allowed him to catch the Armenian GM, but not to overtake him on tiebreak. A group of six players finished half a point behind in a closely contested event. | Photo: FIDE / Anastasiia Korolkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -760,14 +776,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/8th-prague-international-chess-festival-2026",
          "pubDate" : "Fri, 6 Mar 2026 21:59:00",
          "title" : "8th Prague International Chess Festival 2026 - Games and Results"
-      },
-      {
-         "description" : " The youngest ever global title holder has had a hard time this year, but hopes for better in May, when he meets Magnus Carlsen in Norway Chess at Oslo, and in the autumn, when he defends his crown India's Gukesh Dommaraju, at 19 the youngest ever world champion, has had a hard time this year. The teenager has struggled at Wijk aan Zee, where he totalled a modest 50%, and then this week in Prague, where he finished joint last with 3.5/9, scoring his only victory of the tournament in the ninth and final round. Prague was won by Nodirbek Abdusattorov on 6/9, as the Uzbekistan No 1 continued his winning streak from the London Classic and Wijk aan Zee. <a href=\"https://www.theguardian.com/sport/",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/mar/06/chess-gukesh-bottom-in-prague-as-world-champion-19-struggles-for-form",
-         "pubDate" : "Fri, 06 Mar 2026 08:00:17",
-         "title" : "Chess: Gukesh joint last in Prague as world champion, 19, struggles for form"
       }
    ]
 }
