@@ -1,4 +1,8 @@
 jtable([
+"PASADENA","2026-03-27","30","<a href=https://ratings.uschess.org/event/202603270303 target='_blank'>Checkmates On Fairmont</a>",
+"HOUSTON","2026-03-27","20","<a href=https://ratings.uschess.org/event/202603270283 target='_blank'>The Friday Knights</a>",
+"SUGAR LAND","2026-03-27","12","<a href=https://ratings.uschess.org/event/202603270243 target='_blank'>FBCC Wear a Hat Day Open</a>",
+"CYPRESS","2026-03-27","45","<a href=https://ratings.uschess.org/event/202603270193 target='_blank'>Knights of Cypress</a>",
 "SUGAR LAND","2026-03-22","4","<a href=https://ratings.uschess.org/event/202603220953 target='_blank'>spring 03-22-2026</a>",
 "HOUSTON","2026-03-22","10","<a href=https://ratings.uschess.org/event/202603220573 target='_blank'>Bellaire Sunday Swisss 2026.03.22</a>",
 "HOUSTON","2026-03-22","23","<a href=https://ratings.uschess.org/event/202603220263 target='_blank'>2026 TEXAS SENIOR CHESS CHAMPIONSHI</a>",
@@ -95,8 +99,4 @@ jtable([
 "SPRING","2026-01-02","27","<a href=https://ratings.uschess.org/event/202601020273 target='_blank'>The Friday Knights</a>",
 "CYPRESS","2026-01-02","33","<a href=https://ratings.uschess.org/event/202601020213 target='_blank'>Knights of Cypress(C:\\...\\20260102.</a>",
 "SUGAR LAND","2026-01-02","13","<a href=https://ratings.uschess.org/event/202601020183 target='_blank'>FBCC 2025 National Cream Puff Day Open</a>",
-"HOUSTON","2025-12-31","16","<a href=https://ratings.uschess.org/event/202512310123 target='_blank'>DECEMBER 29-31 CHESSMASTERS DAYLIGH</a>",
-"HOUSTON","2025-12-30","20","<a href=https://ratings.uschess.org/event/202512300303 target='_blank'>December Tuesday Night Swiss 2025</a>",
-"HOUSTON","2025-12-28","15","<a href=https://ratings.uschess.org/event/202512280183 target='_blank'>Bellaire Sunday Swiss 2025.12.28</a>",
-"SUGAR LAND","2025-12-26","12","<a href=https://ratings.uschess.org/event/202512260233 target='_blank'>FBCC 2025 Slowpoke Open 1</a>",
 ]);
