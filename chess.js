@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Reykjav&iacute;k Open is taking place from 25 to 31 March at the Harpa Concert Hall and Conference Centre, once again bringing together a large international field for its traditional nine-round Swiss competition. Led by top seed Amin Tabatabaei and featuring a mix of experienced contenders - such as Vasyl Ivanchuk - and young stars, the event continues a tradition that dates back to Mikhail Tal's victory in the inaugural 1964 edition. | Follow the action live starting at 17.00 CET (12.00 ET, 21.30 IST) | Photo: Sk&aacute;ksamband Íslands",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2026-live",
+         "pubDate" : "Sat, 28 Mar 2026 17:00:00",
+         "title" : "Reykjav&iacute;k Open - Live!"
+      },
+      {
          "description" : "In this episode of Svitlana's Smart Moves, Svitlana continues her Candidates series by presenting one key tactical moment from each player in the Women's Candidates, while Arne tries to solve them along the way. The positions showcase a wide range of attacking and endgame ideas, from classic double-bishop sacrifices to precise defensive resources and beautiful promotion tactics, while also highlighting the strength and fighting spirit of players like Deshmukh, Zhongyi, Vaishali, Goryachkina and Lagno.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
