@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Accurate calculation is the be-all and end-all in chess. That is precisely what Surya Ganguly aims to teach. Young FIDE Master Bahne Fuhrmann of Hamburger SK reviews Ganguly's video course \"Calculation Step by Step - Vol. 1: Foundations.\" In his article, he takes a closer look at the tips and techniques proposed by the Indian grandmaster for calculating variations with precision. A course that demands active participation&hellip;",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-calculation-step-by-step-von-surya-ganguly",
+         "pubDate" : "Sat, 28 Mar 2026 07:00:00",
+         "title" : "Review: \"Calculation Step by Step\" by Surya Ganguly"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129858584.cms\" />Divya Deshmukh, the youngest participant at 20, makes her debut in the World Championship Candidates chess tournament in Cyprus. Having qualified by winning the Women's World Cup, she aims to leverage her strong opening preparations and aggressive play against higher-rated opponents.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/on-debut-divya-deshmukh-could-cause-a-dent-in-candidates/articleshow/129858584.cms",
+         "pubDate" : "Sat, 28 Mar 2026 04:06:12",
+         "title" : "On debut, Divya Deshmukh could cause a dent in Candidates"
+      },
+      {
          "description" : "The Court of Arbitration for Sport has ruled in favour of Ukraine in its case against the Chess Federation of Russia, concluding that earlier sanctions imposed by FIDE were insufficient. The decision requires the Russian Federation to cease organising chess activities in several annexed regions within 90 days or face suspension from international competition. The case centres on events held in territories internationally recognised as Ukrainian. | Photo: TAS/CAS (Tribunal Arbitral du Sport)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cas-orders-russia-to-halt-chess-activity-in-occupied-ukraine-threatens-suspension",
-         "pubDate" : "Fri, 27 Mar 2026 17:10:51",
+         "pubDate" : "Fri, 27 Mar 2026 17:10:00",
          "title" : "CAS Orders Russia to Halt Chess Activity in Occupied Ukraine, Threatens Suspension"
       },
       {
@@ -776,14 +792,6 @@ news_feed (
          "link" : "https://www.europechess.org/winners-crowned-at-the-prague-chess-festival-2026/",
          "pubDate" : "Sat, 07 Mar 2026 09:58:58",
          "title" : "Winners crowned at the Prague Chess Festival 2026"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129194262.cms\" />Gukesh Dommaraju's emotional apology during the Prague Masters highlighted a broader dip in form among India's top players, including Arjun Erigaisi and Rameshbabu Praggnanandhaa. Experts cite heavy schedules, distractions from fame, repetitive elite events and overreliance on engine preparation as factors. It is also likely that the slump is temporary.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-apologises-to-fans-indian-chess-stars-slip-in-rankings-whats-going-wrong/articleshow/129194262.cms",
-         "pubDate" : "Sat, 07 Mar 2026 05:00:59",
-         "title" : "Gukesh apologises to fans; Indian stars slip in rankings: what's going wrong?"
       }
    ]
 }
