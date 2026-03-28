@@ -18,6 +18,14 @@ news_feed (
          "title" : "Exploring the Opening Encyclopaedia 2026: A video introduction"
       },
       {
+         "description" : "The Court of Arbitration for Sport (CAS) has issued a major ruling against the Chess Federation of Russia (CFR), ordering it to cease chess activities in occupied Ukrainian territories within 90 days&#38;mdash;or face a three-year suspension from the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cas-orders-russia-to-halt-chess-activity-in-occupied-ukraine-threatens-suspension",
+         "pubDate" : "Fri, 27 Mar 2026 17:10:51",
+         "title" : "CAS Orders Russia to Halt Chess Activity in Occupied Ukraine, Threatens Suspension"
+      },
+      {
          "description" : "The Reykjav&iacute;k Open is taking place from 25 to 31 March at the Harpa Concert Hall and Conference Centre, once again bringing together a large international field for its traditional nine-round Swiss competition. Led by top seed Amin Tabatabaei and featuring a mix of experienced contenders - such as Vasyl Ivanchuk - and young stars, the event continues a tradition that dates back to Mikhail Tal's victory in the inaugural 1964 edition. | Follow the action live starting at 16.00 CET (11.00 ET, 20.30 IST) | Photo: Sk&aacute;ksamband Íslands",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/martinez-martinez-bortnyk-3-0-thursday-03-26-2026",
-         "pubDate" : "Fri, 27 Mar 2026 15:10:58",
+         "pubDate" : "Fri, 27 Mar 2026 15:10:00",
          "title" : "Martinez Scores Double Wins In 3 0 Thursdays"
       },
       {
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-rapidplay-championship-2026/",
          "pubDate" : "Sat, 14 Mar 2026 08:00:53",
          "title" : "British Rapidplay Championship 2026 - follow the games!"
-      },
-      {
-         "description" : "GM Pranav Venkatesh won his first Freestyle Friday of the new Freestyle Friday Championship on March 13, taking it outright with 9.5/11, as four different players have now won the first four tournaments of the new stakes (qualification for the 202...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pranav-wins-freestyle-friday-march-13-2026",
-         "pubDate" : "Fri, 13 Mar 2026 16:55:04",
-         "title" : "Pranav 4th Freestyle Friday Championship Victor"
       },
       {
          "description" : "By decision of the ECU Board and with approval from the FIDE Council, the ECU General Assembly 2026 and elections will take place on Saturday, 18 July 2026, in Bucharest, Romania. The elections are scheduled in accordance with the ECU statutes and the completion of the current term of the ECU Board on 22 July 2026. The ECU General Assembly will be hosted at the premises of the Romanian Olympic Committee, emphasising the European Chess Union's strong commitment to the []",
