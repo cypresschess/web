@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this episode of Svitlana's Smart Moves, Svitlana continues her Candidates series by presenting one key tactical moment from each player in the Women's Candidates, while Arne tries to solve them along the way. The positions showcase a wide range of attacking and endgame ideas, from classic double-bishop sacrifices to precise defensive resources and beautiful promotion tactics, while also highlighting the strength and fighting spirit of players like Deshmukh, Zhongyi, Vaishali, Goryachkina and Lagno.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-women-candidates-who-will-win",
+         "pubDate" : "Sat, 28 Mar 2026 14:30:00",
+         "title" : "Svitlana's Smart Moves - The Women's Candidates: Who will win?"
+      },
+      {
+         "description" : "It is so easy to lie to ourselves. Over the years, I've worked with dozens of private students and observed more than a thousand course students' improvement stories. The one skill that is rarely talked about, but makes a massive difference is: Self-Awareness. Students who are self-aware are not immune to struggles, plateaus, or losing []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/self-awareness-in-chess/",
+         "pubDate" : "Sat, 28 Mar 2026 14:00:00",
+         "title" : "The One Chess Skill Nobody Talks About (That Changes Everything)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129864849.cms\" />As the 2026 Candidates tournament approaches, Dutch Grandmaster Anish Giri faces the lingering \"King of Draws\" stereotype. Indian Grandmaster Nihal Sarin refutes this, highlighting Giri's fighting spirit and recent FIDE Grand Swiss victory as proof of his winning intent. Sarin also offers his predictions for the volatile Open and Women's Candidates fields.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/complete-nonsense-nihal-sarin-on-dutch-no-1-anish-giri-drawish-tag-before-candidates-exclusive/articleshow/129864849.cms",
+         "pubDate" : "Sat, 28 Mar 2026 12:26:21",
+         "title" : "'Complete nonsense': Nihal Sarin on Dutch No. 1 Anish Giri 'drawish' tag before Candidates"
+      },
+      {
          "description" : "With the first round of the Candidates Tournament set to begin on Sunday, we are just hours away from the start of one of chess' most demanding events. In a series of videos, GM Daniel King profiles all eight participants, offering a clear and concise overview of their strengths, weaknesses and prospects ahead of the competition!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2026-profiles-king",
          "pubDate" : "Sat, 28 Mar 2026 12:00:00",
          "title" : "GM Daniel King profiles all eight Candidates!"
+      },
+      {
+         "description" : "Simpson's-in-the-Strand has at last reopened after six years of silence since the Covid pandemic closed its doors, and its return reminds one that some institutions possess the curious stubbornness of English history. For nearly two centuries-first established as Simpson's Grand Cigar Divan in 1828-it has stood upon the Strand as a landmark for chess players. []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/simpsons-in-the-strand-reopens-at-last/",
+         "pubDate" : "Sat, 28 Mar 2026 11:38:12",
+         "title" : "Simpson's-in-the-Strand reopens - at last"
+      },
+      {
+         "description" : "The FIDE Candidates Tournament 2026 and FIDE Women&#39;s Candidates Tournament 2026 start this Sunday, March 29, and they are the two most important over-the-board tournaments of the year. Each of them will determine a challenger for the world champio...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-preview",
+         "pubDate" : "Sat, 28 Mar 2026 07:39:00",
+         "title" : "Nakamura Rejects 'Completely Wrong' 40% Odds; Caruana Calls Tier Lists 'Global Obsession'"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129860913.cms\" />The Candidates tournament begins in Cyprus with American duo Nakamura and Caruana favored over Indian contenders like Praggnanandhaa. In the women's section, Divya Deshmukh is seen as a strong challenger to top seed Zhu Jiner. This event tests if India's chess dominance extends beyond Gukesh.",
@@ -32,6 +72,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/on-debut-divya-deshmukh-could-cause-a-dent-in-candidates/articleshow/129858584.cms",
          "pubDate" : "Sat, 28 Mar 2026 04:06:12",
          "title" : "On debut, Divya Deshmukh could cause a dent in Candidates"
+      },
+      {
+         "description" : "To anybody complaining about the lack of upsets in this year's March Madness, I suggest they follow the 2026 National High School (K-12) Chess Championships. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> The calm before the madness! (Photos by Lian Castellanos)<br> <br> The first two rounds are in the book at the Sheraton Grand Riverwalk in Chicago, IL, and already some big names are missing from the list of players with 2/2 scores in the K-12 Championship. Of the 358 participants in this section, only 29 made it through Friday unblemished, led by top-seeded 10th grader IM Eric Chang ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-national-high-school-k-12-championship-begins-march-madness",
+         "pubDate" : "Sat, 28 Mar 2026 00:00:00",
+         "title" : "2026 National High School (K-12) Championship Begins with March Madness"
       },
       {
          "description" : "The Court of Arbitration for Sport has ruled in favour of Ukraine in its case against the Chess Federation of Russia, concluding that earlier sanctions imposed by FIDE were insufficient. The decision requires the Russian Federation to cease organising chess activities in several annexed regions within 90 days or face suspension from international competition. The case centres on events held in territories internationally recognised as Ukrainian. | Photo: TAS/CAS (Tribunal Arbitral du Sport)",
@@ -546,14 +594,6 @@ news_feed (
          "title" : "Tactics Tuesday: Saint Louis Masters, Pt. 3"
       },
       {
-         "description" : "What is this announcement?The USA will not send an official delegation to the 2026 Pan-American Youth. Why was this decision made?The 2026 Pan-Am Youth Championships are scheduled for July 26 through August 2, 2026, in Medell&iacute;n, Department of Antioquia, Colombia.Currently, the nation of Colombia is under a Level 3 travel advisory from the U.S. Department of State, which is defined as \"reconsider travel.\" The advisory further states that there is a heightened risk of crime, terrorism, civil unrest, and kidnapping. US Chess cannot reasonably guarantee our players, parents, coaches, and staff safe passage and accommodation in that region of the world at this time. Therefore, the US Chess",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-announcement-about-2026-pan-am-youth",
-         "pubDate" : "Tue, 17 Mar 2026 00:00:00",
-         "title" : "US Chess Announcement about the 2026 Pan-Am Youth"
-      },
-      {
          "description" : " The American Cup was a double elimination knockout tournament held in Saint Louis. There is an open and women's event. Players Open event: Fabiano, Caruana, Wesley So, Leinier Dominguez Perez, Levon Aronian, Awonder Liang, Samuel Sevian, Ray Robson and Abhimanyu Mishra Players Women's event: Carissa Yip, Alice Lee, Irina Krush, Tatev Abrahamyan, Anna Sargsyan, Zoey Tang, Anna Zatonskih and Rachael Li. Wesley So won the final against Fabiano Caruana and the Grand Final against Levon Aronian. Alice Lee won the women's event, she beat Carissa Yip in the final, then lost a long tie to the same opponent in the Grand Final setting up a final Grand Final Reset which she won 1.5-0.5.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -616,14 +656,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/mother-quit-job-son-scripts-history-how-mayank-chakraborty-16-became-northeasts-1st-gm/articleshow/129587609.cms",
          "pubDate" : "Sun, 15 Mar 2026 10:03:09",
          "title" : "Mother quit job, son scripts history: How Mayank, 16, became Northeast's 1st GM"
-      },
-      {
-         "description" : "GM Oleksandr Bortnyk entered the Bullet Brawl ring and emerged victorious for the second week in a row on Saturday after storming home and posting a score of 161 points, pocketing the $400 first prize for the 16th time. In second place was GM Ar...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-mar-14-2026",
-         "pubDate" : "Sat, 14 Mar 2026 18:25:00",
-         "title" : "Bortnyk Storms Home To Claim Back-To-Back Brawls"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129575337.cms\" />The National Rapid and Blitz Chess Championship at Sarla Birla University in Ranchi saw over 400 players compete. Abhimanyu Puranik won the Blitz title with 9 points, beating Sayantan Das on tie-break, while Madhavan N B finished third. In Rapid, Aronyak Ghosh remained unbeaten with 9.5/11 to claim the championship.",
@@ -722,14 +754,6 @@ news_feed (
          "title" : "Chess Olympiad: Cloud power for your national squad"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129388064.cms\" />India slipped to 25th in the 2026 Gender Equality in Chess Index (GECI), highlighting gender imbalance in the sport. Despite strong performances by elite women players, female participation in youth championships remains low, and many girls drop out early. Experts say social pressures, financial hurdles and lack of structured support limit opportunities, stressing the need for better grassroots development and long-term systems to promote women's chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-slides-down-in-2026-gender-equality-in-chess-index-rankings-how-can-it-be-improved/articleshow/129388064.cms",
-         "pubDate" : "Tue, 10 Mar 2026 11:30:58",
-         "title" : "India slides down in 2026 GECI rankings: How can it be improved?"
-      },
-      {
          "description" : "Please find the certificates.For any query please write back to Indianchessfed@gmail.com Batch 1 Batch 2 No Candidate name No. Candidate Name 1 Manikandan Palaniappun 1",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -752,14 +776,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/mar/08/chess-grandmasters-lothar-schmid-memorabilia-sotheby-auction-london",
          "pubDate" : "Sun, 08 Mar 2026 06:00:11",
          "title" : "German grandmaster's vast collection of chess memorabilia to be sold in London"
-      },
-      {
-         "description" : "When you solve tactics in training, it feels easy peasy. Once you know there is a tactic, finding that fork, bishop sacrifice, or checkmate combination is relatively easy. But then you sit down to play a real game. Suddenly, you feel uncertain. Do I have to look for a tactic? Does it really work? Or []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/real-chess-training/",
-         "pubDate" : "Sat, 07 Mar 2026 14:00:00",
-         "title" : "The Most Important 45 Minutes of Your Chess Training"
       }
    ]
 }
