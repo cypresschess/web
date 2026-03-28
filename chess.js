@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With the first round of the Candidates Tournament set to begin on Sunday, we are just hours away from the start of one of chess' most demanding events. In a series of videos, GM Daniel King profiles all eight participants, offering a clear and concise overview of their strengths, weaknesses and prospects ahead of the competition!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-profiles-king",
+         "pubDate" : "Sat, 28 Mar 2026 12:00:00",
+         "title" : "GM Daniel King profiles all eight Candidates!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129860913.cms\" />The Candidates tournament begins in Cyprus with American duo Nakamura and Caruana favored over Indian contenders like Praggnanandhaa. In the women's section, Divya Deshmukh is seen as a strong challenger to top seed Zhu Jiner. This event tests if India's chess dominance extends beyond Gukesh.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-2026-why-are-indians-not-starting-as-favourites/articleshow/129860913.cms",
+         "pubDate" : "Sat, 28 Mar 2026 07:35:18",
+         "title" : "Candidates Chess 2026: Why are Indians not starting as favourites?"
+      },
+      {
          "description" : "Accurate calculation is the be-all and end-all in chess. That is precisely what Surya Ganguly aims to teach. Young FIDE Master Bahne Fuhrmann of Hamburger SK reviews Ganguly's video course \"Calculation Step by Step - Vol. 1: Foundations.\" In his article, he takes a closer look at the tips and techniques proposed by the Indian grandmaster for calculating variations with precision. A course that demands active participation&hellip;",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,28 +42,12 @@ news_feed (
          "title" : "Court of Arbitration for Sport finds FIDE sanctions insufficient, imposes new measures on Russian Federation"
       },
       {
-         "description" : "An overview of the Opening Encyclopaedia 2026 highlights its role as a structured resource for studying modern opening theory. Combining articles, annotated games and video content, it offers both broad coverage and practical guidance. With contributions from authors such as Daniel King and Dorian Rogozenco, the material spans introductory tutorials and detailed analysis, alongside an extensive, searchable games' database.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/opening-encyclopaedia-introductory-video",
-         "pubDate" : "Fri, 27 Mar 2026 21:30:00",
-         "title" : "Exploring the Opening Encyclopaedia 2026: A video introduction"
-      },
-      {
          "description" : "The Court of Arbitration for Sport (CAS) has issued a major ruling against the Chess Federation of Russia (CFR), ordering it to cease chess activities in occupied Ukrainian territories within 90 days&#38;mdash;or face a three-year suspension from the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cas-orders-russia-to-halt-chess-activity-in-occupied-ukraine-threatens-suspension",
          "pubDate" : "Fri, 27 Mar 2026 17:10:00",
          "title" : "CAS Orders Russia to Halt Chess Activity in Occupied Ukraine, Threatens Suspension"
-      },
-      {
-         "description" : "The Reykjav&iacute;k Open is taking place from 25 to 31 March at the Harpa Concert Hall and Conference Centre, once again bringing together a large international field for its traditional nine-round Swiss competition. Led by top seed Amin Tabatabaei and featuring a mix of experienced contenders - such as Vasyl Ivanchuk - and young stars, the event continues a tradition that dates back to Mikhail Tal's victory in the inaugural 1964 edition. | Follow the action live starting at 16.00 CET (11.00 ET, 20.30 IST) | Photo: Sk&aacute;ksamband Íslands",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2026-live",
-         "pubDate" : "Fri, 27 Mar 2026 16:00:00",
-         "title" : "Reykjav&iacute;k Open - Live!"
       },
       {
          "description" : "Since GM Jose Martinez won the inaugural 3 0 Thursday tournament in November, GM Fabiano Caruana has been the only player to win more than one of the three weekly events on the same day. Martinez joined him in impressive fashion on Thursday, March...",
@@ -90,28 +90,12 @@ news_feed (
          "title" : "Carlsen, Keymer, Abdusattorov Headline Massive Grenke Chess Field"
       },
       {
-         "description" : "Haik Martirosyan won the 19th Agzamov Memorial in Tashkent on tiebreak after finishing level on 7&frac12;/9 with 16-year-old Artem Uskov. The two co-leaders drew their direct encounter in round seven, before Martirosyan moved ahead with a win in round eight. Uskov's final-round victory over Abhimanyu Puranik allowed him to catch the Armenian GM, but not to overtake him on tiebreak. A group of six players finished half a point behind in a closely contested event. | Photo: FIDE / Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/agzamov-memorial-2026-r9",
-         "pubDate" : "Fri, 27 Mar 2026 07:20:00",
-         "title" : "Martirosyan edges 16-year-old Uskov to take Agzamov Memorial title"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129838184.cms\" />Fabiano Caruana, a top contender in the upcoming Candidates tournament, faces scrutiny over his nerve management despite his undeniable strength. His consistent qualification highlights his prowess, but past close calls raise questions. With key rivals absent, Caruana aims to leverage his solid positional play and preparation to overcome recent decision-making challenges and secure a victory.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-fabiano-caruana-steady-yet-unconvincing/articleshow/129838184.cms",
          "pubDate" : "Fri, 27 Mar 2026 03:52:10",
          "title" : "Candidates Chess: Fabiano Caruana steady yet unconvincing"
-      },
-      {
-         "description" : "A life between political pressure, sporting rivalry and unshakeable ambition: Viktor Korchnoi is one of the most fascinating figures in chess history. On 23 March, the chess legend would have turned 95. ChessBase is taking this as an opportunity to provide you with a feature package on the influential figure in the history of chess. | Pictured: Petra and Viktor Korchnoi enjoying a meal aboard the Hamburg Alster steamer at the ChessBase Christmas celebration. | Photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/viktor-korchnoi-bundle-95-birth",
-         "pubDate" : "Thu, 26 Mar 2026 23:50:00",
-         "title" : "Viktor Korchnoi: A special bundle on the 95th anniversary of his birth"
       },
       {
          "description" : "The Uttar Pradesh Chess Sports Association, in collaboration with the All India Chess Federation and the Arbiters' Commission AICF, organised a Senior National Arbiter Seminar",
@@ -186,7 +170,7 @@ news_feed (
          "title" : "State of Chess: Queen of Chess, Proctor & Fair Play, Trust & Safety, Future Of AI"
       },
       {
-         "description" : " The Senior National Arbiter Seminar cum Examination was organized by the Punjab State Chess Association under the aegis of All India Chess Federation at",
+         "description" : "&#160;&#160;&#160;&#160; The Senior National Arbiter Seminar cum Examination was organized by the Punjab State Chess Association under the aegis of All India Chess Federation at",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/final-report-senior-national-arbiter-seminar-cum-examination-mohali-held-on-31st-jan-to-1st-feb-2026/",
@@ -776,22 +760,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/real-chess-training/",
          "pubDate" : "Sat, 07 Mar 2026 14:00:00",
          "title" : "The Most Important 45 Minutes of Your Chess Training"
-      },
-      {
-         "description" : "Today sees the fruits of a proposal first made by Howard Staunton over a century and a half ago for an annual chess match between Oxford and Cambridge universities. In my preview of the day's events, universally acknowledged as the premier social event of the UK chess calendar, the Boat Race of the Brain, no []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/stauntons-proposal/",
-         "pubDate" : "Sat, 07 Mar 2026 11:02:45",
-         "title" : "Staunton's proposal"
-      },
-      {
-         "description" : "Prague International Chess Festival 2026 concluded yesterday in the capital of Czech Republic, after nine exciting days filled with rich chess programme. The Festival was supported by the European Chess Union and especially the organization of the Futures tournament which gathered ten girls, young chess talents, who competed under exclusive playing conditions identical to those provided for the participants of the Masters and Challengers events. The ECU President Mr. Zurab Azmaiparashvili attended the event, and officially opened the final round []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/winners-crowned-at-the-prague-chess-festival-2026/",
-         "pubDate" : "Sat, 07 Mar 2026 09:58:58",
-         "title" : "Winners crowned at the Prague Chess Festival 2026"
       }
    ]
 }
