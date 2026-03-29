@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The FIDE Candidates tournament in Cyprus started promisingly with wins for Javokhir Sindarov over Andrey Esipenko, Praggnanandhaa over Anish Giri and finally Fabiano Caruana over Hikaru Nakamura. Matthias Bluebaum against Wei Yi was a correct draw. In the women's event Aleksandra Goryachkina missed a simple combination that should have ended the game pretty much immediately against Kateryna Lagno. There were other chances but Divya Deshmukh drew with Anna Muzychuk Vaishali Rameshbabu drew with Bibisara Assaubayeva and Zhu Jiner with Tan Zhongyi so everyone is tied on 0.5 points. Round 1 Standings: 1st= Caruana, Praggnanandhaa, Sindarov 1pt; 4th= Bluebaum, Wei Yi 0.5pts; 6th= Nakamura, Giri,",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/fide-candidates-tournament-in-cyprus-starts-with-three-decisive-games",
+         "pubDate" : "Sun, 29 Mar 2026 22:09:00",
+         "title" : "FIDE Candidates tournament in Cyprus starts with three decisive games - 1"
+      },
+      {
+         "description" : "The KazChess Masters, held in Shymkent from 21 to 29 March, brought together five experienced international grandmasters and five emerging Kazakhstani players in a single round-robin format. Pranav Venkatesh secured first place with 7&frac12;/9, finishing clear of Shamsiddin Vokhidov. The event also highlighted the progress of local talents, notably Danis Kuandykuly (born in 2013), who exceeded expectations with a 4/9 score. | Photo: Kazakhstan Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kazchess-masters-2026-final-report",
+         "pubDate" : "Sun, 29 Mar 2026 22:00:00",
+         "title" : "Pranav Venkatesh dominates KazChess Masters, obtains 2795 TPR"
+      },
+      {
+         "description" : "IM Polina Shuvalova and CM Aarit Kapil may be worlds apart in age and experience, but both have reached the same milestone: 3000 blitz on Chess.com&#38;mdash;Shuvalova as the first woman, and Kapil as the youngest ever. For most Chess.com members, b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/shuvalova-10-year-old-kapil-break-3000-blitz-barrier-on-chess-com",
+         "pubDate" : "Sun, 29 Mar 2026 16:04:06",
+         "title" : "Shuvalova Becomes First Woman, 10-Year-Old Aarit Youngest To Reach 3000 Blitz"
+      },
+      {
          "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. The first round features the clash of top seeds in the open section, with Fabiano Caruana playing white against Hikaru Nakamura. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-1",
-         "pubDate" : "Sun, 29 Mar 2026 12:15:06",
+         "pubDate" : "Sun, 29 Mar 2026 12:15:00",
          "title" : "Caruana, Pragg, Sindarov All Win In Stunning Start To 2026 Candidates"
       },
       {
@@ -48,6 +72,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournaments-2026",
          "pubDate" : "Sun, 29 Mar 2026 00:12:00",
          "title" : "FIDE Candidates Tournaments 2026 - Games and Results"
+      },
+      {
+         "description" : "Chicago, IL: The 501(c)3 US Chess Federation's National High School (K-12) Championship took place from March 27 through 29 at the Chicago Sheraton Grand Riverwalk. Over 1,500 students competed between the Championship section and the five under/unrated sections. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Below are the individual and team winners of each Championship section. When co-champions are listed, they are in tiebreak order. This page will be uploaded ASAP with photos from the awards ceremonies. A full report, including analysis from WGM Sabina Foisor and more photos from Sunday's rounds and events, will be available later in the day on Monday. Daily recaps",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/flash-report-atwell-liu-win-2026-national-high-school-k-12-championship",
+         "pubDate" : "Sun, 29 Mar 2026 00:00:00",
+         "title" : "Flash Report: Atwell, Liu Win 2026 National High School (K-12) Championship"
       },
       {
          "description" : "And then there were two. After five rounds of play in Chicago for the 2026 National High School (K-12) Championship, only two players remain with perfect 5/5 scores in the Championship section. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Da bears are ready for Sunday! (Photo by Lian Castellanos)<br> <br> <br> <br> Sunday's early round will feature a battle of the unblemished on Board 1 between sophomore IMs Eric Chang Liu (TX) and Julian Colville (CA). <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Left: Eric Liu (R). Right: Julian Colville. ",
@@ -562,14 +594,6 @@ news_feed (
          "title" : "21st Asian Continental Chess Championships (Men's and Women's) - 2026 in Ulaanbaatar, Mongolia from 28th May to 07th June 2026"
       },
       {
-         "description" : "Today's puzzles continue a series on the 2026 Saint Louis Masters (coverage here), won by GM Mikhail Antipov, who finished a half-point ahead of GM Fabiano Caruana to earn the $25,000 first-place prize. 70 players competed, including a number of top Americans (and five American Cup participants), as well as international norm seekers. Fire was on board from the top tables all the way through the standings, and we've got several weeks of educational entertainment as a result. For more puzzles from this event that are more beginner-friendly, check out our Tactics Tuesday series beginning here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable workshee",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-masters-pt-3",
-         "pubDate" : "Wed, 18 Mar 2026 00:00:00",
-         "title" : "Wednesday Workout: Saint Louis Masters, Pt. 3"
-      },
-      {
          "description" : " Eyewitness photo | A forpit of potatoes | Milli-Helens | UK nuclear weapons | Say it's not Serco Flicking through the paper, I remarked that it was all bad news and upsetting items. Then I came across the centrefold photograph taken in Erzurum, Turkey and found myself close to tears. Young and old chess players together in a coffee house. What a great picture.<br><strong>Carol Taylor</strong><br><em>Darley Dale, Derbyshire</em> &bull; Regarding unusual measurements (<a href=\"https://www.theguardian.com/science/2026/mar/15/a-royal-rule-of-thumb-for-measurements\">Letters, 15 March</a>) my Scottish mother used to send me to the local Co-op to purchase a forpit of potatoes: a fourth part of a s",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -600,14 +624,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-state-of-chess-march-24-2026",
          "pubDate" : "Tue, 17 Mar 2026 09:00:00",
          "title" : "State Of Chess Returns March 24 With Rory Kennedy, Trust & Safety Update, AI Discussion"
-      },
-      {
-         "description" : "Arsenal and England playmaker Eberechi Eze goes head-to-head against none other than GM Magnus Carlsen in a new ad for clothing brand New Balance. In a surprise twist, the world number-one gets checkmated! The campaign, promoting New Balance&#38;rsq...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/eberechi-eze-checkmates-magnus-carlsen-in-new-ad",
-         "pubDate" : "Tue, 17 Mar 2026 06:07:00",
-         "title" : "Premier League Star Eberechi Eze Checkmates Magnus Carlsen In New Ad"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129624612.cms\" />Despite concerns over Koneru Humpy potentially withdrawing from the Cyprus Candidates tournament due to regional tensions, India's rising chess stars Divya Deshmukh, R Vaishali, and R Praggnanandhaa are confirmed to participate. Their teams are actively planning travel and preparations, signaling their commitment to the prestigious event as the gateway to the World Championship.",
