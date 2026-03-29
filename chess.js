@@ -10,6 +10,14 @@ news_feed (
          "title" : "Candidates Round 1 - Live!"
       },
       {
+         "description" : "GM Fabiano Caruana ended his curse against GM Hikaru Nakamura when it mattered most by battling to a six-hour win in round one of the 2026 FIDE Candidates Tournament. There were two more wins, with GM Praggnanandhaa Rameshbabu surprising GM Anish ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-1",
+         "pubDate" : "Sun, 29 Mar 2026 12:15:06",
+         "title" : "Caruana, Pragg, Sindarov All Win In Stunning Start To 2026 Candidates"
+      },
+      {
          "description" : "Turkiye&#39;s GM Ediz Gurel created Bullet Brawl history on Saturday after joining the arena 34 minutes late and still winning the event. Gurel finished ahead of 162 titled players, including the five-time world champion, GM Magnus Carlsen, who also j...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2026-scholar-chessplayer-recipients-announced",
          "pubDate" : "Sun, 29 Mar 2026 00:00:00",
          "title" : "2026 Scholar-Chessplayer Recipients Announced"
-      },
-      {
-         "description" : "The Reykjav&iacute;k Open is taking place from 25 to 31 March at the Harpa Concert Hall and Conference Centre, once again bringing together a large international field for its traditional nine-round Swiss competition. Led by top seed Amin Tabatabaei and featuring a mix of experienced contenders - such as Vasyl Ivanchuk - and young stars, the event continues a tradition that dates back to Mikhail Tal's victory in the inaugural 1964 edition. | Follow the action live starting at 17.00 CET (12.00 ET, 21.30 IST) | Photo: Sk&aacute;ksamband Íslands",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2026-live",
-         "pubDate" : "Sat, 28 Mar 2026 14:25:00",
-         "title" : "Reykjav&iacute;k Open - Live!"
       },
       {
          "description" : "It is so easy to lie to ourselves. Over the years, I've worked with dozens of private students and observed more than a thousand course students' improvement stories. The one skill that is rarely talked about, but makes a massive difference is: Self-Awareness. Students who are self-aware are not immune to struggles, plateaus, or losing []",
@@ -624,14 +624,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/american-cup-2026",
          "pubDate" : "Mon, 16 Mar 2026 18:30:00",
          "title" : "American Cup 2026 - Games and Results"
-      },
-      {
-         "description" : "GMs Ian Nepomniachtchi and Nodirbek Abdusattorov qualified for the 2026 Chess.com Open Playoffs through Play-In 1 on Monday. Nepomniachtchi won the tournament outright, while Abdusattorov finished second and secured his spot by defeating third-pla...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-chesscom-open-play-in-1",
-         "pubDate" : "Mon, 16 Mar 2026 13:49:00",
-         "title" : "Nepomniachtchi, Abdusattorov Qualify Through Play-In 1"
       },
       {
          "description" : "A historic match, the UK v Ukraine Solidarity Chess Match, will take place on Tuesday, 17 March 2026, from 6:00 to 7:00 pm. The match brings together players from the...",
