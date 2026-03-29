@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2026-03-28","8","<a href=https://ratings.uschess.org/event/202603280573 target='_blank'>2026 TCA Regional Scholastics Tourn</a>",
+"HOUSTON","2026-03-28","10","<a href=https://ratings.uschess.org/event/202603280233 target='_blank'>chesspanda03282026saturday</a>",
 "PASADENA","2026-03-27","30","<a href=https://ratings.uschess.org/event/202603270303 target='_blank'>Checkmates On Fairmont</a>",
 "HOUSTON","2026-03-27","20","<a href=https://ratings.uschess.org/event/202603270283 target='_blank'>The Friday Knights</a>",
 "SUGAR LAND","2026-03-27","12","<a href=https://ratings.uschess.org/event/202603270243 target='_blank'>FBCC Wear a Hat Day Open</a>",
@@ -97,6 +99,4 @@ jtable([
 "SUGAR LAND","2026-01-04","5","<a href=https://ratings.uschess.org/event/202601040343 target='_blank'>winter-01-04-2026</a>",
 "HOUSTON","2026-01-04","50","<a href=https://ratings.uschess.org/event/202601040313 target='_blank'>New Years FIDE</a>",
 "SPRING","2026-01-02","27","<a href=https://ratings.uschess.org/event/202601020273 target='_blank'>The Friday Knights</a>",
-"CYPRESS","2026-01-02","33","<a href=https://ratings.uschess.org/event/202601020213 target='_blank'>Knights of Cypress(C:\\...\\20260102.</a>",
-"SUGAR LAND","2026-01-02","13","<a href=https://ratings.uschess.org/event/202601020183 target='_blank'>FBCC 2025 National Cream Puff Day Open</a>",
 ]);
