@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Candidates Tournaments opened with a ceremonial evening combining formal addresses, player introductions and cultural performances, setting the stage for the competitions ahead. Held in Cyprus, the event brought together all sixteen contenders from the open and women's sections, alongside officials and guests. With the opening ceremony concluded, attention now turns to the start of play on 29 March, when the race to decide the next challengers begins. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-opening-ceremony",
+         "pubDate" : "Sun, 29 Mar 2026 01:00:00",
+         "title" : "Candidates Tournaments: A ceremony worthy of champions"
+      },
+      {
+         "description" : " The FIDE Candidates Tournaments both open and women's events take place in the Cap St Georges resort, Cyprus, Sun 29th Mar to Thu 16th Apr 2026. I would argue that this is the highlight of the entire FIDE World Championship cycle. The poor form of the current champion Gukesh has to be a major motivating factor for anyone in the open event. The event is on the periphery of the current Iran conflict and Humpy Koneru decided that she would not participate in the women's event due to the perceived danger and was at the last minute replaced by Anna Muzychuk. Players open: Hikaru Nakamura, Fabiano Caruana, Anish Giri, R Praggnanandhaa, Javokhir Sindarov, Andrey Esipenko, Matthias Bluebaum and Wei",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournaments-2026",
+         "pubDate" : "Sun, 29 Mar 2026 00:12:00",
+         "title" : "FIDE Candidates Tournaments 2026 - Games and Results"
+      },
+      {
          "description" : "The Reykjav&iacute;k Open is taking place from 25 to 31 March at the Harpa Concert Hall and Conference Centre, once again bringing together a large international field for its traditional nine-round Swiss competition. Led by top seed Amin Tabatabaei and featuring a mix of experienced contenders - such as Vasyl Ivanchuk - and young stars, the event continues a tradition that dates back to Mikhail Tal's victory in the inaugural 1964 edition. | Follow the action live starting at 17.00 CET (12.00 ET, 21.30 IST) | Photo: Sk&aacute;ksamband Íslands",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/reykjavik-open-2026-live",
-         "pubDate" : "Sat, 28 Mar 2026 17:00:00",
+         "pubDate" : "Sat, 28 Mar 2026 14:25:00",
          "title" : "Reykjav&iacute;k Open - Live!"
-      },
-      {
-         "description" : "In this episode of Svitlana's Smart Moves, Svitlana continues her Candidates series by presenting one key tactical moment from each player in the Women's Candidates, while Arne tries to solve them along the way. The positions showcase a wide range of attacking and endgame ideas, from classic double-bishop sacrifices to precise defensive resources and beautiful promotion tactics, while also highlighting the strength and fighting spirit of players like Deshmukh, Zhongyi, Vaishali, Goryachkina and Lagno.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-women-candidates-who-will-win",
-         "pubDate" : "Sat, 28 Mar 2026 14:30:00",
-         "title" : "Svitlana's Smart Moves - The Women's Candidates: Who will win?"
       },
       {
          "description" : "It is so easy to lie to ourselves. Over the years, I've worked with dozens of private students and observed more than a thousand course students' improvement stories. The one skill that is rarely talked about, but makes a massive difference is: Self-Awareness. Students who are self-aware are not immune to struggles, plateaus, or losing []",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/complete-nonsense-nihal-sarin-on-dutch-no-1-anish-giri-drawish-tag-before-candidates-exclusive/articleshow/129864849.cms",
          "pubDate" : "Sat, 28 Mar 2026 12:26:21",
          "title" : "'Complete nonsense': Nihal Sarin on Dutch No. 1 Anish Giri 'drawish' tag before Candidates"
-      },
-      {
-         "description" : "With the first round of the Candidates Tournament set to begin on Sunday, we are just hours away from the start of one of chess' most demanding events. In a series of videos, GM Daniel King profiles all eight participants, offering a clear and concise overview of their strengths, weaknesses and prospects ahead of the competition!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-profiles-king",
-         "pubDate" : "Sat, 28 Mar 2026 12:00:00",
-         "title" : "GM Daniel King profiles all eight Candidates!"
       },
       {
          "description" : "Simpson's-in-the-Strand has at last reopened after six years of silence since the Covid pandemic closed its doors, and its return reminds one that some institutions possess the curious stubbornness of English history. For nearly two centuries-first established as Simpson's Grand Cigar Divan in 1828-it has stood upon the Strand as a landmark for chess players. []",
@@ -88,14 +88,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2026-national-high-school-k-12-championship-begins-march-madness",
          "pubDate" : "Sat, 28 Mar 2026 00:00:00",
          "title" : "2026 National High School (K-12) Championship Begins with March Madness"
-      },
-      {
-         "description" : "The Court of Arbitration for Sport has ruled in favour of Ukraine in its case against the Chess Federation of Russia, concluding that earlier sanctions imposed by FIDE were insufficient. The decision requires the Russian Federation to cease organising chess activities in several annexed regions within 90 days or face suspension from international competition. The case centres on events held in territories internationally recognised as Ukrainian. | Photo: TAS/CAS (Tribunal Arbitral du Sport)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cas-appeal-ucf-cfr-decision",
-         "pubDate" : "Fri, 27 Mar 2026 23:00:00",
-         "title" : "Court of Arbitration for Sport finds FIDE sanctions insufficient, imposes new measures on Russian Federation"
       },
       {
          "description" : "The Court of Arbitration for Sport (CAS) has issued a major ruling against the Chess Federation of Russia (CFR), ordering it to cease chess activities in occupied Ukrainian territories within 90 days&#38;mdash;or face a three-year suspension from the ...",
