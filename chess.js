@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. The first round features the clash of top seeds in the open section, with Fabiano Caruana playing white against Hikaru Nakamura. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-live",
+         "pubDate" : "Sun, 29 Mar 2026 14:15:00",
+         "title" : "Candidates Round 1 - Live!"
+      },
+      {
+         "description" : "Turkiye&#39;s GM Ediz Gurel created Bullet Brawl history on Saturday after joining the arena 34 minutes late and still winning the event. Gurel finished ahead of 162 titled players, including the five-time world champion, GM Magnus Carlsen, who also j...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-mar-28-2026",
+         "pubDate" : "Sun, 29 Mar 2026 08:06:38",
+         "title" : "Gurel Joins 34 Minutes Late, Still Wins 9th Title"
+      },
+      {
          "description" : "Tactical analysis is not just exciting, but it is very practical. With ChessBase&acute;26, it is easy to use its findings. In this episode, learn how you can use this ChessBase function to complement your analysis and make it more effective.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,20 +34,28 @@ news_feed (
          "title" : "Candidates Preview: Praggnanandhaa, Vaishali brace for cerebral warfare in Cyprus"
       },
       {
-         "description" : "The Candidates Tournaments opened with a ceremonial evening combining formal addresses, player introductions and cultural performances, setting the stage for the competitions ahead. Held in Cyprus, the event brought together all sixteen contenders from the open and women's sections, alongside officials and guests. With the opening ceremony concluded, attention now turns to the start of play on 29 March, when the race to decide the next challengers begins. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-opening-ceremony",
-         "pubDate" : "Sun, 29 Mar 2026 01:00:00",
-         "title" : "Candidates Tournaments: A ceremony worthy of champions"
-      },
-      {
          "description" : " The FIDE Candidates Tournaments both open and women's events take place in the Cap St Georges resort, Cyprus, Sun 29th Mar to Thu 16th Apr 2026. I would argue that this is the highlight of the entire FIDE World Championship cycle. The poor form of the current champion Gukesh has to be a major motivating factor for anyone in the open event. The event is on the periphery of the current Iran conflict and Humpy Koneru decided that she would not participate in the women's event due to the perceived danger and was at the last minute replaced by Anna Muzychuk. Players open: Hikaru Nakamura, Fabiano Caruana, Anish Giri, R Praggnanandhaa, Javokhir Sindarov, Andrey Esipenko, Matthias Bluebaum and Wei",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournaments-2026",
          "pubDate" : "Sun, 29 Mar 2026 00:12:00",
          "title" : "FIDE Candidates Tournaments 2026 - Games and Results"
+      },
+      {
+         "description" : "And then there were two. After five rounds of play in Chicago for the 2026 National High School (K-12) Championship, only two players remain with perfect 5/5 scores in the Championship section. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Da bears are ready for Sunday! (Photo by Lian Castellanos)<br> <br> <br> <br> Sunday's early round will feature a battle of the unblemished on Board 1 between sophomore IMs Eric Chang Liu (TX) and Julian Colville (CA). <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Left: Eric Liu (R). Right: Julian Colville. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/liu-colville-lead-national-high-school-k-12-championship-entering-final-day",
+         "pubDate" : "Sun, 29 Mar 2026 00:00:00",
+         "title" : "Liu, Colville Lead National High School (K-12) Championship Entering Final Day"
+      },
+      {
+         "description" : "The US Chess Federation (US Chess) and the U.S. Chess Trust (USCT), both independent 501(c)(3) organizations, are pleased to announce six recipients of the 2026 Scholar-Chessplayer Awards. This includes the winner of the new category introduced in 2022, Scholastic Chess Ambassador, which acknowledges lower-rated but deserving chess scholars.The Scholar-Chessplayer Awards recognize and encourage outstanding high school juniors and seniors who promote a positive image of chess while excelling in academics and leadership. A total of $9,000 in scholarship money is being awarded this year. Each recipient will receive $1,500.All Scholar-Chessplayer Awards are funded through the U.S. Chess Trust, w",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-scholar-chessplayer-recipients-announced",
+         "pubDate" : "Sun, 29 Mar 2026 00:00:00",
+         "title" : "2026 Scholar-Chessplayer Recipients Announced"
       },
       {
          "description" : "The Reykjav&iacute;k Open is taking place from 25 to 31 March at the Harpa Concert Hall and Conference Centre, once again bringing together a large international field for its traditional nine-round Swiss competition. Led by top seed Amin Tabatabaei and featuring a mix of experienced contenders - such as Vasyl Ivanchuk - and young stars, the event continues a tradition that dates back to Mikhail Tal's victory in the inaugural 1964 edition. | Follow the action live starting at 17.00 CET (12.00 ET, 21.30 IST) | Photo: Sk&aacute;ksamband Íslands",
@@ -111,7 +135,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cas-orders-russia-to-halt-chess-activity-in-occupied-ukraine-threatens-suspension",
          "pubDate" : "Fri, 27 Mar 2026 17:10:00",
-         "title" : "CAS Orders Russia to Halt Chess Activity in Occupied Ukraine, Threatens Suspension"
+         "title" : "CAS Orders Russia To Halt Chess Activity In Occupied Ukraine, Threatens Suspension"
       },
       {
          "description" : "Since GM Jose Martinez won the inaugural 3 0 Thursday tournament in November, GM Fabiano Caruana has been the only player to win more than one of the three weekly events on the same day. Martinez joined him in impressive fashion on Thursday, March...",
@@ -594,22 +618,6 @@ news_feed (
          "title" : "Iran war scare: Pragg-Vaishali-Divya set for Candidates 2026 after Koneru Humpy doubt"
       },
       {
-         "description" : "US Chess is seeking applicants for the position of Heads of Delegation (HOD) for the below 2026 FIDE International Youth events.The policy for selection is posted on the US Chess website. The three events covered by this process are: 2026 Pan-Am U7-U17 Chess Championships, May 11-18, 2026, Sonsonate, El Salvador.2026 World Cadet Cup (U8, U10, U12) Chess Championships, June 15-28, 2026, Butami, Georgia2026 World Youth (U14, U16, U18) Chess Championships, June 14-27, 2026, Montesilvano, ItalyApplicants for the position of HOD, must be a licensed FIDE Trainer. Find additional information about the FIDE Trainers' System here.A complete application will consist of the following:Application letter",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-seeking-hod-2026-international-youth-events",
-         "pubDate" : "Tue, 17 Mar 2026 00:00:00",
-         "title" : "US Chess Seeking HOD for 2026 International Youth Events"
-      },
-      {
-         "description" : "Today's puzzles continues a series on the 2026 Saint Louis Masters (coverage here), won by GM Mikhail Antipov, who finished a half-point ahead of GM Fabiano Caruana to earn the $25,000 first-place prize. 70 players competed, including a number of top Americans (and five American Cup participants), as well as international norm seekers. Fire was on board from the top tables all the way through the standings, and we've got several weeks of educational entertainment as a result. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-masters-pt-3",
-         "pubDate" : "Tue, 17 Mar 2026 00:00:00",
-         "title" : "Tactics Tuesday: Saint Louis Masters, Pt. 3"
-      },
-      {
          "description" : " The American Cup was a double elimination knockout tournament held in Saint Louis. There is an open and women's event. Players Open event: Fabiano, Caruana, Wesley So, Leinier Dominguez Perez, Levon Aronian, Awonder Liang, Samuel Sevian, Ray Robson and Abhimanyu Mishra Players Women's event: Carissa Yip, Alice Lee, Irina Krush, Tatev Abrahamyan, Anna Sargsyan, Zoey Tang, Anna Zatonskih and Rachael Li. Wesley So won the final against Fabiano Caruana and the Grand Final against Levon Aronian. Alice Lee won the women's event, she beat Carissa Yip in the final, then lost a long tie to the same opponent in the Grand Final setting up a final Grand Final Reset which she won 1.5-0.5.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -640,14 +648,6 @@ news_feed (
          "link" : "https://aicf.in/link-for-live-games-of-45th-national-team-chess-championship-2026-23rd-national-womens-team-chess-championship-2026/",
          "pubDate" : "Mon, 16 Mar 2026 12:28:24",
          "title" : "Link for live games of 45th National Team Chess Championship 2026 & 23rd National Womens Team Chess Championship 2026"
-      },
-      {
-         "description" : "GM Awonder Liang beat GM Hikaru Nakamura 6-4 in the Hikaru vs. Awonder Candidates Training Match held in the Saint Louis Chess Club on March 13-15, 2026. The players made two draws in classical chess, then Liang won 3-1 in rapid, before the final ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-candidates-warm-up-awonder-liang",
-         "pubDate" : "Mon, 16 Mar 2026 11:25:00",
-         "title" : "Nakamura 'Not Unhappy' Despite Losing Candidates Warm-Up To Liang"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129605408.cms\" />Koneru Humpy is considering withdrawing from the FIDE Candidates Tournament in Cyprus due to safety concerns linked to the ongoing conflict involving the United States, Israel, and Iran. While FIDE says the situation is calm and preparations continue, Humpy believes holding the crucial event near a conflict zone is risky and suggests considering alternative venues or dates.",
