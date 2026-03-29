@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Tactical analysis is not just exciting, but it is very practical. With ChessBase&acute;26, it is easy to use its findings. In this episode, learn how you can use this ChessBase function to complement your analysis and make it more effective.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-9-tactical-analysis",
+         "pubDate" : "Sun, 29 Mar 2026 07:00:00",
+         "title" : "ChessBase&acute;26 - Tips for Beginners, Part 9: \"Tactical Analysis\""
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129875563.cms\" />Indian chess prodigy R Praggnanandhaa, having learned from past experiences, enters the Candidates tournament with renewed focus and improved form. His sister, Vaishali, also a qualifier, faces a challenging path against stronger rivals. Both siblings aim to make history as the first to win the prestigious event together.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-preview-praggnanandhaa-vaishali-brace-for-cerebral-warfare-in-cyprus/articleshow/129875563.cms",
+         "pubDate" : "Sun, 29 Mar 2026 04:22:13",
+         "title" : "Candidates Preview: Praggnanandhaa, Vaishali brace for cerebral warfare in Cyprus"
+      },
+      {
          "description" : "The Candidates Tournaments opened with a ceremonial evening combining formal addresses, player introductions and cultural performances, setting the stage for the competitions ahead. Held in Cyprus, the event brought together all sixteen contenders from the open and women's sections, alongside officials and guests. With the opening ceremony concluded, attention now turns to the start of play on 29 March, when the race to decide the next challengers begins. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -658,14 +674,6 @@ news_feed (
          "title" : "Mother quit job, son scripts history: How Mayank, 16, became Northeast's 1st GM"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129575337.cms\" />The National Rapid and Blitz Chess Championship at Sarla Birla University in Ranchi saw over 400 players compete. Abhimanyu Puranik won the Blitz title with 9 points, beating Sayantan Das on tie-break, while Madhavan N B finished third. In Rapid, Aronyak Ghosh remained unbeaten with 9.5/11 to claim the championship.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/abhimanyu-puranik-aronyak-ghosh-clinch-blitz-and-rapid-titles-at-national-chess-championship/articleshow/129575337.cms",
-         "pubDate" : "Sat, 14 Mar 2026 14:02:32",
-         "title" : "Puranik, Aronyak clinch Blitz and Rapid titles at National Chess C'ship"
-      },
-      {
          "description" : "Most people aren't ready for real chess improvement. What they chase is quick dopamine in the form of easy progress. The good news is that this allows you to outperform 90% of players if you just do the work: But there is a downside to being part of the 10% that actually wants real chess []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -768,14 +776,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-junior-u20-chess-championship-2026-official-invitation/",
          "pubDate" : "Mon, 09 Mar 2026 08:33:57",
          "title" : "European Junior U20 Chess Championship 2026 - Official invitation"
-      },
-      {
-         "description" : " Artefacts include souvenirs from 1972 'Match of the Century' between Boris Spassky and Bobby Fischer A vast collection of chess memorabilia, including souvenirs from the 1972 \"Match of the Century\" and considered to be the largest and most important of its kind in private hands, is to be auctioned at Sotheby's in London next month. The collection belonged to the German grandmaster Lothar Schmid, whose passion for the sport extended way beyond the board. <a href=\"https://www.theguardian.com/sport/2026/mar/08/chess-grandmasters-lothar-schmid-memorabilia-sotheby-auction-london\">Continue reading...</a>",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/mar/08/chess-grandmasters-lothar-schmid-memorabilia-sotheby-auction-london",
-         "pubDate" : "Sun, 08 Mar 2026 06:00:11",
-         "title" : "German grandmaster's vast collection of chess memorabilia to be sold in London"
       }
    ]
 }
