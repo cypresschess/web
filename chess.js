@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Below 1700 and Below 1700 Women will be uploaded soon. OPEN BELOW 2000 Women BELOW 2000 Rank Name Rank Name 1 Saravanan 1",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-national-amateur-chess-championship-2025/",
+         "pubDate" : "Mon, 30 Mar 2026 11:11:40",
+         "title" : "Certificate :National Amateur Chess Championship 2025-26"
+      },
+      {
+         "description" : "Kindly find attached live games link for the 35th National Under - 17 Open &#38; Girls Chess Championship - 2026 from 30th March 2026 to 7th April 2026 scheduled at Rajpath Club, S.G.Highway,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-35th-national-under-17-open-girls-chess-championship-2026/",
+         "pubDate" : "Mon, 30 Mar 2026 11:10:25",
+         "title" : "Live games link for 35th National Under - 17 Open & Girls Chess Championship - 2026 "
+      },
+      {
          "description" : "The 2026 Candidates Tournament kicked off in style, with three decisive results from four games, all in favour of the player with the white piece. Fabiano Caruana defeated Hikaru Nakamura in the all-American clash between top seeds, while Praggnanandhaa Rameshbabu and Javokhir Sindarov scored wins of different nature over Anish Giri and Andrey Esipenko, respectively. The only draw came in Matthias Bluebaum v. Wei Yi. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -776,22 +792,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-cloud-power",
          "pubDate" : "Tue, 10 Mar 2026 14:00:00",
          "title" : "Chess Olympiad: Cloud power for your national squad"
-      },
-      {
-         "description" : "Please find the certificates.For any query please write back to Indianchessfed@gmail.com Batch 1 Batch 2 No Candidate name No. Candidate Name 1 Manikandan Palaniappun 1",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-sna-seminar-exam-in-madurai-on-27-28-december-2025/",
-         "pubDate" : "Mon, 09 Mar 2026 09:46:01",
-         "title" : "Certificate :SNA Seminar & Exam in Madurai on 27 & 28 December 2025"
-      },
-      {
-         "description" : "Montenegro Chess Federation (MCF) and the European Chess Union (ECU) have the honor to invite all the National Federations members of the European Chess Union to participate in the European Junior U20 Chess Championship 2026 which will be held at Hotel Grand, Cetinje, Montenegro, from 5th August to 16th August 2026. The event will be played in two categories: Open U20 and Girls U20, with 9 swiss rounds in each competition, and the time control of 90 minutes for the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-junior-u20-chess-championship-2026-official-invitation/",
-         "pubDate" : "Mon, 09 Mar 2026 08:33:57",
-         "title" : "European Junior U20 Chess Championship 2026 - Official invitation"
       }
    ]
 }
