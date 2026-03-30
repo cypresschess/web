@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2026-03-29","11","<a href=https://ratings.uschess.org/event/202603290363 target='_blank'>Bellaire Sunday Swiss 2026.03.29</a>",
+"HOUSTON","2026-03-29","10","<a href=https://ratings.uschess.org/event/202603290293 target='_blank'>2026 Houston Circuit T3 by AzChAcad</a>",
 "HOUSTON","2026-03-28","8","<a href=https://ratings.uschess.org/event/202603280573 target='_blank'>2026 TCA Regional Scholastics Tourn</a>",
 "HOUSTON","2026-03-28","10","<a href=https://ratings.uschess.org/event/202603280233 target='_blank'>chesspanda03282026saturday</a>",
 "PASADENA","2026-03-27","30","<a href=https://ratings.uschess.org/event/202603270303 target='_blank'>Checkmates On Fairmont</a>",
@@ -97,6 +99,4 @@ jtable([
 "SUGAR LAND","2026-01-09","13","<a href=https://ratings.uschess.org/event/202601090203 target='_blank'>FBCC 2026 National Apricot Day Open</a>",
 "HOUSTON","2026-01-04","31","<a href=https://ratings.uschess.org/event/202601040603 target='_blank'>$1,500 JANUARY CHAMPIONSHIP 2026</a>",
 "SUGAR LAND","2026-01-04","5","<a href=https://ratings.uschess.org/event/202601040343 target='_blank'>winter-01-04-2026</a>",
-"HOUSTON","2026-01-04","50","<a href=https://ratings.uschess.org/event/202601040313 target='_blank'>New Years FIDE</a>",
-"SPRING","2026-01-02","27","<a href=https://ratings.uschess.org/event/202601020273 target='_blank'>The Friday Knights</a>",
 ]);
