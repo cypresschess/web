@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The second round of the FIDE Candidates in the Cap St Georges resort, near Pegeia, Cyprus saw all the games finish in a draw in the end. In the open event maybe Javokhir Sindarov got a little something against Matthias Bluebaum and perhaps Praggnanandhaa too could have done a little better against Wei Yi, Anish Giri vs Fabiano Caruana was a well played draw, Hikaru Nakamura suffered a little bit against Andrey Esipenko but there was never anything clear. In the women's event there were more missed chances with Kateryna Lagno escaping a lost position for the second day running, this time against Zhu Jiner. Vaishali Rameshbabu was briefly lost against Divya Deshmukh having at first equalised ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/all-games-drawn-on-day-two-of-the-candidates",
+         "pubDate" : "Mon, 30 Mar 2026 22:37:00",
+         "title" : "All games drawn on day two of the Candidates - 2"
+      },
+      {
          "description" : "Chess returns to the Esports World Cup in 2026 following a successful debut at last year's event. On its biggest stage ever, chess cemented its place in the larger esports ecosystem, drawing impressive viewership numbers while packing the arenas. This year, chess expands with a 21-player pool that now includes a play-in stage prior to a reformatted group stage and playoffs.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +50,7 @@ news_feed (
          "title" : "Live games link for 35th National Under - 17 Open & Girls Chess Championship - 2026 "
       },
       {
-         "description" : "All eight games were drawn in round two of the 2026 FIDE Candidates Tournament and 2026 FIDE Women&#39;s Candidates. In the open tournament, the standings remain unchanged with GMs Fabiano Caruana, &#38;nbsp;Praggnanandhaa Rameshbabu, and Javokhir Sindaro...",
+         "description" : "All eight games were drawn in round two of the 2026 FIDE Candidates Tournament and 2026 FIDE Women&#39;s Candidates. In the Open tournament, the standings remain unchanged with GMs Fabiano Caruana, &#38;nbsp;Praggnanandhaa Rameshbabu, and Javokhir Sindaro...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-2",
