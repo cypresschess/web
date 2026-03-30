@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129889436.cms\" />India's R Praggnanandhaa delivered a tactical masterclass on the opening day of the 2026 FIDE Candidates, defeating Dutch No. 1 Anish Giri. While only three games in the Open section saw decisive results, Praggnanandhaa's clinical precision highlighted a formidable start to his campaign. The Women's section saw all four games end in draws.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-r-praggnanandhaa-outfoxed-anish-giri-as-indians-stay-unbeaten-in-round-1/articleshow/129889436.cms",
+         "pubDate" : "Mon, 30 Mar 2026 00:51:30",
+         "title" : "Candidates Chess: How R Praggnanandhaa outfoxed Anish Giri"
+      },
+      {
          "description" : " The FIDE Candidates tournament in Cyprus started promisingly with wins for Javokhir Sindarov over Andrey Esipenko, Praggnanandhaa over Anish Giri and finally Fabiano Caruana over Hikaru Nakamura. Matthias Bluebaum against Wei Yi was a correct draw. In the women's event Aleksandra Goryachkina missed a simple combination that should have ended the game pretty much immediately against Kateryna Lagno. There were other chances but Divya Deshmukh drew with Anna Muzychuk Vaishali Rameshbabu drew with Bibisara Assaubayeva and Zhu Jiner with Tan Zhongyi so everyone is tied on 0.5 points. Round 1 Standings: 1st= Caruana, Praggnanandhaa, Sindarov 1pt; 4th= Bluebaum, Wei Yi 0.5pts; 6th= Nakamura, Giri,",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/kazchess-masters-2026-final-report",
          "pubDate" : "Sun, 29 Mar 2026 22:00:00",
          "title" : "Pranav Venkatesh dominates KazChess Masters, obtains 2795 TPR"
+      },
+      {
+         "description" : "GM Fabiano Caruana ended his curse against GM Hikaru Nakamura when it mattered most by battling to a six-hour win in round one of the 2026 FIDE Candidates Tournament. There were two more wins, with GM Praggnanandhaa Rameshbabu surprising GM Anish ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-1",
+         "pubDate" : "Sun, 29 Mar 2026 16:30:00",
+         "title" : "Caruana, Pragg, Sindarov All Win In Stunning Start To 2026 Candidates"
       },
       {
          "description" : "IM Polina Shuvalova and CM Aarit Kapil may be worlds apart in age and experience, but both have reached the same milestone: 3000 blitz on Chess.com&#38;mdash;Shuvalova as the first woman, and Kapil as the youngest ever. For most Chess.com members, b...",
@@ -34,19 +50,11 @@ news_feed (
          "title" : "Candidates Round 1 - Live!"
       },
       {
-         "description" : "GM Fabiano Caruana ended his curse against GM Hikaru Nakamura when it mattered most by battling to a six-hour win in round one of the 2026 FIDE Candidates Tournament. There were two more wins, with GM Praggnanandhaa Rameshbabu surprising GM Anish ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-1",
-         "pubDate" : "Sun, 29 Mar 2026 12:15:00",
-         "title" : "Caruana, Pragg, Sindarov All Win In Stunning Start To 2026 Candidates"
-      },
-      {
          "description" : "Turkiye&#39;s GM Ediz Gurel created Bullet Brawl history on Saturday after joining the arena 34 minutes late and still winning the event. Gurel finished ahead of 162 titled players, including the five-time world champion, GM Magnus Carlsen, who also j...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-mar-28-2026",
-         "pubDate" : "Sun, 29 Mar 2026 08:06:38",
+         "pubDate" : "Sun, 29 Mar 2026 08:06:00",
          "title" : "Gurel Joins 34 Minutes Late, Still Wins 9th Title"
       },
       {
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/frederick-waldhausen-gordon-wins-british-rapidplay-championship-2026/",
          "pubDate" : "Mon, 16 Mar 2026 09:18:18",
          "title" : "Frederick Waldhausen Gordon Wins British Rapidplay Championship 2026"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129587609.cms\" />Sixteen-year-old Mayank Chakraborty has made history as the first Grandmaster from Assam and Northeast India. His landmark achievement in Sweden follows years of immense sacrifice, including his mother, Dr. Monomita Chakraborty, resigning from her medical career to support his journey. While celebrated as India's 94th GM, Mayank's family now seeks government and corporate backing to sustain his elite professional career.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/mother-quit-job-son-scripts-history-how-mayank-chakraborty-16-became-northeasts-1st-gm/articleshow/129587609.cms",
-         "pubDate" : "Sun, 15 Mar 2026 10:03:09",
-         "title" : "Mother quit job, son scripts history: How Mayank, 16, became Northeast's 1st GM"
       },
       {
          "description" : "Most people aren't ready for real chess improvement. What they chase is quick dopamine in the form of easy progress. The good news is that this allows you to outperform 90% of players if you just do the work: But there is a downside to being part of the 10% that actually wants real chess []",
