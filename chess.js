@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess returns to the Esports World Cup in 2026 following a successful debut at last year's event. On its biggest stage ever, chess cemented its place in the larger esports ecosystem, drawing impressive viewership numbers while packing the arenas. This year, chess expands with a 21-player pool that now includes a play-in stage prior to a reformatted group stage and playoffs.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/esports-world-cup-2026",
+         "pubDate" : "Mon, 30 Mar 2026 21:00:00",
+         "title" : "Esports World Cup 2026: Carlsen returns to defend his title"
+      },
+      {
          "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. In Monday's second round, Anish Giri plays white against co-leader Fabiano Caruana in the most anticipated game of the day. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,20 +42,12 @@ news_feed (
          "title" : "Live games link for 35th National Under - 17 Open & Girls Chess Championship - 2026 "
       },
       {
-         "description" : "The 2026 Candidates Tournament kicked off in style, with three decisive results from four games, all in favour of the player with the white piece. Fabiano Caruana defeated Hikaru Nakamura in the all-American clash between top seeds, while Praggnanandhaa Rameshbabu and Javokhir Sindarov scored wins of different nature over Anish Giri and Andrey Esipenko, respectively. The only draw came in Matthias Bluebaum v. Wei Yi. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-o-1",
-         "pubDate" : "Mon, 30 Mar 2026 08:30:00",
-         "title" : "Candidates R1: Caruana, Pragg and Sindarov score in exciting first round"
-      },
-      {
-         "description" : "The Women's Candidates began in Pegeia with four draws in round one, though the games featured a number of missed chances. The event, held alongside the open section for a second time, brings together five returning players from 2024 and three young talents. Early pairings included two all-national encounters, while late changes following Humpy Koneru's withdrawal altered the draw. Time pressure and opening surprises marked the first day of action. | Pictured: Aleksandra Goryachkina | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-w-1",
-         "pubDate" : "Mon, 30 Mar 2026 05:35:00",
-         "title" : "Women's Candidates R1: Four draws, Zhu and Goryachkina miss big chances"
+         "description" : "All eight games were drawn in round two of the 2026 FIDE Candidates Tournament and 2026 FIDE Women&#39;s Candidates. In the open tournament, the standings remain unchanged with GMs Fabiano Caruana, &#38;nbsp;Praggnanandhaa Rameshbabu, and Javokhir Sindaro...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-2",
+         "pubDate" : "Mon, 30 Mar 2026 05:44:00",
+         "title" : "Vaishali, Lagno Escape With Sacrifices On Day Of Draws"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129891008.cms\" />The Candidates chess tournament in Cyprus features varied time controls for men and women. Men face no time increment until move 41, aiming for excitement. Women receive a 30-second increment from the first move. This difference in time management for the first 40 moves has drawn criticism from chess experts.",
@@ -66,6 +66,14 @@ news_feed (
          "title" : "Candidates Chess: How R Praggnanandhaa outfoxed Anish Giri"
       },
       {
+         "description" : "The most important tournament of the year began on Sunday in Cyprus as 16 of the world's top chess players compete in the 2026 FIDE Candidates and Women's Candidates tournaments, with rights to matches against the reigning World Champion and Women's World Champion on the line. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> This year's field. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> Each event is an eight-player double Round Robin consisting of a total of 14 games, so an early deficit after one round is hardly insurmountable. Still, some commentators were prepared for players to enter Sunday's games cautiously, warming up rather than rev",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-fide-candidates-start-bang",
+         "pubDate" : "Mon, 30 Mar 2026 00:00:00",
+         "title" : "2026 FIDE Candidates Start With A Bang"
+      },
+      {
          "description" : "FM Rose Atwell and IM Eric Chang Liu are National Champions! At the conclusion of the 2026 National High School (K-12) Championship, Atwell and Liu tied for first with 6&frac12;/7 scores, with Atwell finishing ahead on tiebreaks.Atwell is an 11th grader from California who recently crossed 2400 FIDE for the first time. Since she has already earned all three norms, she is eligible for the IM title at the next FIDE Congress. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Rose Atwell from last month's Saint Louis Masters. (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> Atwell has been a regular fixture at the last three U.S. Girls' Junior Champion",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/fide-candidates-tournament-in-cyprus-starts-with-three-decisive-games",
          "pubDate" : "Sun, 29 Mar 2026 22:09:00",
          "title" : "FIDE Candidates tournament in Cyprus starts with three decisive games - 1"
-      },
-      {
-         "description" : "The KazChess Masters, held in Shymkent from 21 to 29 March, brought together five experienced international grandmasters and five emerging Kazakhstani players in a single round-robin format. Pranav Venkatesh secured first place with 7&frac12;/9, finishing clear of Shamsiddin Vokhidov. The event also highlighted the progress of local talents, notably Danis Kuandykuly (born in 2013), who exceeded expectations with a 4/9 score. | Photo: Kazakhstan Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kazchess-masters-2026-final-report",
-         "pubDate" : "Sun, 29 Mar 2026 22:00:00",
-         "title" : "Pranav Venkatesh dominates KazChess Masters, obtains 2795 TPR"
       },
       {
          "description" : "GM Fabiano Caruana ended his curse against GM Hikaru Nakamura when it mattered most by battling to a six-hour win in round one of the 2026 FIDE Candidates Tournament. There were two more wins, with GM Praggnanandhaa Rameshbabu surprising GM Anish ...",
@@ -112,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-mar-28-2026",
          "pubDate" : "Sun, 29 Mar 2026 08:06:00",
          "title" : "Gurel Joins 34 Minutes Late, Still Wins 9th Title"
-      },
-      {
-         "description" : "Tactical analysis is not just exciting, but it is very practical. With ChessBase&acute;26, it is easy to use its findings. In this episode, learn how you can use this ChessBase function to complement your analysis and make it more effective.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-9-tactical-analysis",
-         "pubDate" : "Sun, 29 Mar 2026 07:00:00",
-         "title" : "ChessBase&acute;26 - Tips for Beginners, Part 9: \"Tactical Analysis\""
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129875563.cms\" />Indian chess prodigy R Praggnanandhaa, having learned from past experiences, enters the Candidates tournament with renewed focus and improved form. His sister, Vaishali, also a qualifier, faces a challenging path against stronger rivals. Both siblings aim to make history as the first to win the prestigious event together.",
@@ -434,14 +426,6 @@ news_feed (
          "title" : "FIDE World Youth Chess Championships - 2026 in Montesilvano, Italy from 14th to 27th June, 2026"
       },
       {
-         "description" : "Today's puzzles come from the Elimination Bracket of the 2026 American Cup. See our coverage of this event here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-american-cup",
-         "pubDate" : "Tue, 24 Mar 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2026 American Cup"
-      },
-      {
          "description" : " by Ben Underwood The 2026 Saint Louis Masters, held in late February at the newly expanded Saint Louis Chess Club, featured 70 top players representing 22 countries. The event showcased a highly competitive field, with 37 Grandmasters and a median rating of 2495, nearly half of all players holding a rating of 2500 or above. [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2026-saint-louis-masters-stats/\">2026 Saint Louis Masters by the Numbers</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -680,14 +664,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-february-2026/",
          "pubDate" : "Tue, 17 Mar 2026 10:00:10",
          "title" : "ECU E-Magazine February 2026"
-      },
-      {
-         "description" : "The State of Chess show returns on March 24, when Chief Chess Officer IM Danny Rensch will once again share updates on Chess.com and the broader chess world. The show is also where you can ask us questions directly and get answers live during the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-state-of-chess-march-24-2026",
-         "pubDate" : "Tue, 17 Mar 2026 09:00:00",
-         "title" : "State Of Chess Returns March 24 With Rory Kennedy, Trust & Safety Update, AI Discussion"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129624612.cms\" />Despite concerns over Koneru Humpy potentially withdrawing from the Cyprus Candidates tournament due to regional tensions, India's rising chess stars Divya Deshmukh, R Vaishali, and R Praggnanandhaa are confirmed to participate. Their teams are actively planning travel and preparations, signaling their commitment to the prestigious event as the gateway to the World Championship.",
