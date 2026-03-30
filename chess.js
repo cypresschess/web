@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2026 Candidates Tournament kicked off in style, with three decisive results from four games, all in favour of the player with the white piece. Fabiano Caruana defeated Hikaru Nakamura in the all-American clash between top seeds, while Praggnanandhaa Rameshbabu and Javokhir Sindarov scored wins of different nature over Anish Giri and Andrey Esipenko, respectively. The only draw came in Matthias Bluebaum v. Wei Yi. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-o-1",
+         "pubDate" : "Mon, 30 Mar 2026 08:30:00",
+         "title" : "Candidates R1: Caruana, Pragg and Sindarov score in exciting first round"
+      },
+      {
+         "description" : "The Women's Candidates began in Pegeia with four draws in round one, though the games featured a number of missed chances. The event, held alongside the open section for a second time, brings together five returning players from 2024 and three young talents. Early pairings included two all-national encounters, while late changes following Humpy Koneru's withdrawal altered the draw. Time pressure and opening surprises marked the first day of action. | Pictured: Aleksandra Goryachkina | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-w-1",
+         "pubDate" : "Mon, 30 Mar 2026 05:35:00",
+         "title" : "Women's Candidates R1: Four draws, Zhu and Goryachkina miss big chances"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129891008.cms\" />The Candidates chess tournament in Cyprus features varied time controls for men and women. Men face no time increment until move 41, aiming for excitement. Women receive a 30-second increment from the first move. This difference in time management for the first 40 moves has drawn criticism from chess experts.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-different-time-controls-for-men-and-women-add-intrigue/articleshow/129891008.cms",
+         "pubDate" : "Mon, 30 Mar 2026 03:58:59",
+         "title" : "Candidates Chess: Different time controls for men and women add intrigue"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129889436.cms\" />India's R Praggnanandhaa delivered a tactical masterclass on the opening day of the 2026 FIDE Candidates, defeating Dutch No. 1 Anish Giri. While only three games in the Open section saw decisive results, Praggnanandhaa's clinical precision highlighted a formidable start to his campaign. The Women's section saw all four games end in draws.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/shuvalova-10-year-old-kapil-break-3000-blitz-barrier-on-chess-com",
          "pubDate" : "Sun, 29 Mar 2026 16:04:06",
          "title" : "Shuvalova Becomes First Woman, 10-Year-Old Aarit Youngest To Reach 3000 Blitz"
-      },
-      {
-         "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. The first round features the clash of top seeds in the open section, with Fabiano Caruana playing white against Hikaru Nakamura. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-live",
-         "pubDate" : "Sun, 29 Mar 2026 14:15:00",
-         "title" : "Candidates Round 1 - Live!"
       },
       {
          "description" : "Turkiye&#39;s GM Ediz Gurel created Bullet Brawl history on Saturday after joining the arena 34 minutes late and still winning the event. Gurel finished ahead of 162 titled players, including the five-time world champion, GM Magnus Carlsen, who also j...",
@@ -664,14 +680,6 @@ news_feed (
          "link" : "https://aicf.in/link-for-live-games-of-45th-national-team-chess-championship-2026-23rd-national-womens-team-chess-championship-2026/",
          "pubDate" : "Mon, 16 Mar 2026 12:28:24",
          "title" : "Link for live games of 45th National Team Chess Championship 2026 & 23rd National Womens Team Chess Championship 2026"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129605408.cms\" />Koneru Humpy is considering withdrawing from the FIDE Candidates Tournament in Cyprus due to safety concerns linked to the ongoing conflict involving the United States, Israel, and Iran. While FIDE says the situation is calm and preparations continue, Humpy believes holding the crucial event near a conflict zone is risky and suggests considering alternative venues or dates.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/huge-setback-koneru-humpy-likely-to-skip-womens-candidates-2026-heres-why/articleshow/129605408.cms",
-         "pubDate" : "Mon, 16 Mar 2026 09:29:55",
-         "title" : "Humpy likely to skip Women's Candidates 2026 - here's why"
       },
       {
          "description" : "Congratulations to Frederick Waldhausen Gordon, who finished on 9&frac12;/11 to become the 2026 British Rapidplay Champion. In the British Women's Rapidplay Championship, Trisha Kanyamarala, Harriet Hunt, and Bodhana Sivanandan share...",
