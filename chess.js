@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. In Monday's second round, Anish Giri plays white against co-leader Fabiano Caruana in the most anticipated game of the day. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-live",
+         "pubDate" : "Mon, 30 Mar 2026 14:15:00",
+         "title" : "Candidates Round 2 - Live!"
+      },
+      {
+         "description" : "Head-to-head records between the participants of the Candidates Tournaments provide useful context for each pairing. Drawing on data compiled via Mega Database 2026, the key statistics from past encounters highlight imbalances and trends. While such figures are not decisive, they offer an additional perspective on how rivalries have developed before a tournament that will determine the next challenger for the world title.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-hth-2",
+         "pubDate" : "Mon, 30 Mar 2026 14:10:00",
+         "title" : "Candidates R2: Head-to-head stats"
+      },
+      {
          "description" : "Below 1700 and Below 1700 Women will be uploaded soon. OPEN BELOW 2000 Women BELOW 2000 Rank Name Rank Name 1 Saravanan 1",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-r-praggnanandhaa-outfoxed-anish-giri-as-indians-stay-unbeaten-in-round-1/articleshow/129889436.cms",
          "pubDate" : "Mon, 30 Mar 2026 00:51:30",
          "title" : "Candidates Chess: How R Praggnanandhaa outfoxed Anish Giri"
+      },
+      {
+         "description" : "FM Rose Atwell and IM Eric Chang Liu are National Champions! At the conclusion of the 2026 National High School (K-12) Championship, Atwell and Liu tied for first with 6&frac12;/7 scores, with Atwell finishing ahead on tiebreaks.Atwell is an 11th grader from California who recently crossed 2400 FIDE for the first time. Since she has already earned all three norms, she is eligible for the IM title at the next FIDE Congress. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Rose Atwell from last month's Saint Louis Masters. (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> Atwell has been a regular fixture at the last three U.S. Girls' Junior Champion",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/full-report-atwell-liu-win-2026-national-high-school-k-12-championship",
+         "pubDate" : "Mon, 30 Mar 2026 00:00:00",
+         "title" : "Full Report: Atwell, Liu Win 2026 National High School (K-12) Championship"
       },
       {
          "description" : " The FIDE Candidates tournament in Cyprus started promisingly with wins for Javokhir Sindarov over Andrey Esipenko, Praggnanandhaa over Anish Giri and finally Fabiano Caruana over Hikaru Nakamura. Matthias Bluebaum against Wei Yi was a correct draw. In the women's event Aleksandra Goryachkina missed a simple combination that should have ended the game pretty much immediately against Kateryna Lagno. There were other chances but Divya Deshmukh drew with Anna Muzychuk Vaishali Rameshbabu drew with Bibisara Assaubayeva and Zhu Jiner with Tan Zhongyi so everyone is tied on 0.5 points. Round 1 Standings: 1st= Caruana, Praggnanandhaa, Sindarov 1pt; 4th= Bluebaum, Wei Yi 0.5pts; 6th= Nakamura, Giri,",
