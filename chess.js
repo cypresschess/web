@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All four games in round two of the Candidates Tournament in Cyprus ended in draws, leaving the standings unchanged. Fabiano Caruana, Praggnanandhaa Rameshbabu and Javokhir Sindarov remain tied for the lead on 1&frac12;/2 points. Pragg and Andrey Esipenko got the best chances to fight for more than a draw on Monday, but saw their opponents successfully keeping things under control. Round three will see a clash of co-leaders, as Pragg is set to play white against Sindarov. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-o-2",
+         "pubDate" : "Tue, 31 Mar 2026 06:35:00",
+         "title" : "Candidates R2: Standings unchanged after four draws in Cyprus"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129914983.cms\" />The FIDE Candidates 2026 saw a day of draws in Cyprus, with all games ending in a tie. Indian talents Divya Deshmukh and Vaishali Rameshbabu played a thrilling game, featuring a brilliant queen sacrifice by Vaishali. In the Open section, R Praggnanandhaa drew against Wei Yi, while Hikaru Nakamura salvaged a draw from a difficult position.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-divya-deshmukh-missed-winning-chance-against-r-vaishali/articleshow/129914983.cms",
+         "pubDate" : "Tue, 31 Mar 2026 03:08:21",
+         "title" : "Candidates Chess: How Divya Deshmukh missed winning chance against R Vaishali"
+      },
+      {
          "description" : " The second round of the FIDE Candidates in the Cap St Georges resort, near Pegeia, Cyprus saw all the games finish in a draw in the end. In the open event maybe Javokhir Sindarov got a little something against Matthias Bluebaum and perhaps Praggnanandhaa too could have done a little better against Wei Yi, Anish Giri vs Fabiano Caruana was a well played draw, Hikaru Nakamura suffered a little bit against Andrey Esipenko but there was never anything clear. In the women's event there were more missed chances with Kateryna Lagno escaping a lost position for the second day running, this time against Zhu Jiner. Vaishali Rameshbabu was briefly lost against Divya Deshmukh having at first equalised ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -672,14 +688,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-february-2026/",
          "pubDate" : "Tue, 17 Mar 2026 10:00:10",
          "title" : "ECU E-Magazine February 2026"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129624612.cms\" />Despite concerns over Koneru Humpy potentially withdrawing from the Cyprus Candidates tournament due to regional tensions, India's rising chess stars Divya Deshmukh, R Vaishali, and R Praggnanandhaa are confirmed to participate. Their teams are actively planning travel and preparations, signaling their commitment to the prestigious event as the gateway to the World Championship.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/iran-war-scare-pragg-vaishali-divya-set-for-candidates-2026-after-koneru-humpy-doubt/articleshow/129624612.cms",
-         "pubDate" : "Tue, 17 Mar 2026 05:50:24",
-         "title" : "Iran war scare: Pragg-Vaishali-Divya set for Candidates 2026 after Koneru Humpy doubt"
       },
       {
          "description" : " The American Cup was a double elimination knockout tournament held in Saint Louis. There is an open and women's event. Players Open event: Fabiano, Caruana, Wesley So, Leinier Dominguez Perez, Levon Aronian, Awonder Liang, Samuel Sevian, Ray Robson and Abhimanyu Mishra Players Women's event: Carissa Yip, Alice Lee, Irina Krush, Tatev Abrahamyan, Anna Sargsyan, Zoey Tang, Anna Zatonskih and Rachael Li. Wesley So won the final against Fabiano Caruana and the Grand Final against Levon Aronian. Alice Lee won the women's event, she beat Carissa Yip in the final, then lost a long tie to the same opponent in the Grand Final setting up a final Grand Final Reset which she won 1.5-0.5.",
