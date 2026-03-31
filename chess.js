@@ -18,6 +18,14 @@ news_feed (
          "title" : "Esports World Cup 2026: Carlsen returns to defend his title"
       },
       {
+         "description" : "Just as collegiate basketball players compete in March Madness, college chess players are about to begin their own playoff bracket in the Collegiate Chess League (CCL). The eight Division One teams have just completed the seven-week round-robin se...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-ccl-spring-playoffs-preview",
+         "pubDate" : "Mon, 30 Mar 2026 17:20:35",
+         "title" : "SLU Edges UTD for Collegiate Chess League Top Seed"
+      },
+      {
          "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. In Monday's second round, Anish Giri plays white against co-leader Fabiano Caruana in the most anticipated game of the day. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/mar/17/joy-of-chess-keeps-dark-times-in-check",
          "pubDate" : "Tue, 17 Mar 2026 17:25:49",
          "title" : "Joy of chess keeps dark times in check | Brief letters"
-      },
-      {
-         "description" : "Titled Tuesday on March 17 was decided on the clock, as GM Nihal Sarin took home the victory with a final-round win over GM Nils Grandelius, with just 0.7 seconds remaining when Grandelius&#39; time expired in a drawn rook ending. Nihal started 8/8 an...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nihal-wins-titled-tuesday-march-17-2026",
-         "pubDate" : "Tue, 17 Mar 2026 12:47:19",
-         "title" : "Nihal Sprints To Titled Tuesday Victory"
       },
       {
          "description" : "The ECU E-Magazine February 2026 is out! In this edition of the ECU E-Magazine you may read about: The ECU Magazine can be read online together with interactive links through&#160;the following link, or it can be downloaded in PDF format below.",
