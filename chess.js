@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. Round three sees co-leaders Praggnanandhaa Rameshbabu and Javokhir Sindarov facing each other in the open section. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Yoav Nis",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-live",
+         "pubDate" : "Tue, 31 Mar 2026 14:15:00",
+         "title" : "Candidates Round 3 - Live!"
+      },
+      {
          "description" : "Meet the ultimate training-and-prep bundle: Fritz 20 plus Fritz Powerbook 2026 - your personal chess trainer combined with a modern, statistics-based opening reference. With opponent-style simulation, Bullet Training, and AI voice commentary on the Fritz side, you can turn preparation into realistic practice games. And with 25 million opening positions built from 1.7 million high-class tournament games, Powerbook 2026 gives you a clear, structured picture of what actually works in today's openings.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +34,14 @@ news_feed (
          "title" : "Regulation 5"
       },
       {
+         "description" : "More players, more pieces, and more tactics! The Chess.com 4-Player Chess Championship is the next event of the Chess.com Community Championships. The event kicks off with the qualifiers on April 6 and features a $5,000 prize fund and the variant&#39;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-4-player-chess-championship-2026",
+         "pubDate" : "Tue, 31 Mar 2026 08:00:00",
+         "title" : "4-Player Chess Championship Starts April 6 As Next Championships Event"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129914983.cms\" />The FIDE Candidates 2026 saw a day of draws in Cyprus, with all games ending in a tie. Indian talents Divya Deshmukh and Vaishali Rameshbabu played a thrilling game, featuring a brilliant queen sacrifice by Vaishali. In the Open section, R Praggnanandhaa drew against Wei Yi, while Hikaru Nakamura salvaged a draw from a difficult position.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -34,20 +50,36 @@ news_feed (
          "title" : "Candidates Chess: How Divya Deshmukh missed winning chance against R Vaishali"
       },
       {
+         "description" : "US Chess and WGM Jennifer Shahade are pleased to announce that they have resolved all matters between them amicably and wish each other well going forward.US Chess extends its sincere gratitude to three-time national chess champion WGM Jennifer Shahade for her courage in coming forward with reports of abuse. Her willingness to do so reflects the values at the heart of our organization and has helped reinforce our commitment to building a safe, inclusive, and welcoming chess community for everyone.US Chess is proud of its world-leading Safe Play program, which continues to set the standard for athlete protection in competitive chess. We remain deeply committed to its ongoing development and t",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/announcement-us-chess",
+         "pubDate" : "Tue, 31 Mar 2026 00:00:00",
+         "title" : "An Announcement from US Chess"
+      },
+      {
+         "description" : "Today's puzzles begin a series on the just-concluded 2026 National High School (K-12) Championship. All of our coverage from Chicago is available here. WGM Sabina Foisor commentated on all seven rounds, and she bookmarked a number of her favorite positions from the tournament to use in these worksheets. Enjoy! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-national-high-school-k-12-championship-pt-1",
+         "pubDate" : "Tue, 31 Mar 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2026 National High School (K-12) Championship, Pt. 1"
+      },
+      {
+         "description" : "After the dramatic opening day of the 2026 FIDE Candidates tournament, a respite was much needed. In one sense, this was attained - all eight games ended in draws - but in all other senses the drama was only heightened.This round had time scrambles and blunders aplenty. The more peaceful games, too, turned out to have quite subtle and interesting moments when viewed under the microscope. So the outwardly dry nature of the round turned out - as is usual - to be a mirage.For American fans, there was quite a bit to worry about in the opening hours of the round. Top seed GM Hikaru Nakamura, taking the black pieces for the second game in a row, seemed to be strategically worse against Russian GM ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/no-heroes-day-2-candidates-tournament",
+         "pubDate" : "Tue, 31 Mar 2026 00:00:00",
+         "title" : "No Heroes on Day 2 of Candidates Tournament"
+      },
+      {
          "description" : " The second round of the FIDE Candidates in the Cap St Georges resort, near Pegeia, Cyprus saw all the games finish in a draw in the end. In the open event maybe Javokhir Sindarov got a little something against Matthias Bluebaum and perhaps Praggnanandhaa too could have done a little better against Wei Yi, Anish Giri vs Fabiano Caruana was a well played draw, Hikaru Nakamura suffered a little bit against Andrey Esipenko but there was never anything clear. In the women's event there were more missed chances with Kateryna Lagno escaping a lost position for the second day running, this time against Zhu Jiner. Vaishali Rameshbabu was briefly lost against Divya Deshmukh having at first equalised ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/all-games-drawn-on-day-two-of-the-candidates",
          "pubDate" : "Mon, 30 Mar 2026 22:37:00",
          "title" : "All games drawn on day two of the Candidates - 2"
-      },
-      {
-         "description" : "Chess returns to the Esports World Cup in 2026 following a successful debut at last year's event. On its biggest stage ever, chess cemented its place in the larger esports ecosystem, drawing impressive viewership numbers while packing the arenas. This year, chess expands with a 21-player pool that now includes a play-in stage prior to a reformatted group stage and playoffs.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/esports-world-cup-2026",
-         "pubDate" : "Mon, 30 Mar 2026 21:00:00",
-         "title" : "Esports World Cup 2026: Carlsen returns to defend his title"
       },
       {
          "description" : "Just as collegiate basketball players compete in March Madness, college chess players are about to begin their own playoff bracket in the Collegiate Chess League (CCL). The eight Division One teams have just completed the seven-week round-robin se...",
@@ -114,7 +146,7 @@ news_feed (
          "title" : "2026 FIDE Candidates Start With A Bang"
       },
       {
-         "description" : "FM Rose Atwell and IM Eric Chang Liu are National Champions! At the conclusion of the 2026 National High School (K-12) Championship, Atwell and Liu tied for first with 6&frac12;/7 scores, with Atwell finishing ahead on tiebreaks.Atwell is an 11th grader from California who recently crossed 2400 FIDE for the first time. Since she has already earned all three norms, she is eligible for the IM title at the next FIDE Congress. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Rose Atwell from last month's Saint Louis Masters. (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> Atwell has been a regular fixture at the last three U.S. Girls' Junior Champion",
+         "description" : "FM Rose Atwell and IM Eric Chang Liu are National Champions! At the conclusion of the 2026 National High School (K-12) Championship, Atwell and Liu tied for first with 6&frac12;/7 scores, with Atwell finishing ahead on tiebreaks.Atwell is an 11th grader from California who recently crossed 2400 FIDE for the first time. Since she has already earned all three norms, she is eligible for the IM title at the next FIDE Congress. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo by Lian Castellanos.<br> <br> <br> <br> Atwell has been a regular fixture at the last three U.S. Girls' Junior Championships in St. Louis, and has also competed in the last two ed",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/full-report-atwell-liu-win-2026-national-high-school-k-12-championship",
@@ -232,14 +264,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-2026-why-are-indians-not-starting-as-favourites/articleshow/129860913.cms",
          "pubDate" : "Sat, 28 Mar 2026 07:35:18",
          "title" : "Candidates Chess 2026: Why are Indians not starting as favourites?"
-      },
-      {
-         "description" : "Accurate calculation is the be-all and end-all in chess. That is precisely what Surya Ganguly aims to teach. Young FIDE Master Bahne Fuhrmann of Hamburger SK reviews Ganguly's video course \"Calculation Step by Step - Vol. 1: Foundations.\" In his article, he takes a closer look at the tips and techniques proposed by the Indian grandmaster for calculating variations with precision. A course that demands active participation&hellip;",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-calculation-step-by-step-von-surya-ganguly",
-         "pubDate" : "Sat, 28 Mar 2026 07:00:00",
-         "title" : "Review: \"Calculation Step by Step\" by Surya Ganguly"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129858584.cms\" />Divya Deshmukh, the youngest participant at 20, makes her debut in the World Championship Candidates chess tournament in Cyprus. Having qualified by winning the Women's World Cup, she aims to leverage her strong opening preparations and aggressive play against higher-rated opponents.",
@@ -416,30 +440,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-candidates-tournaments-2026-start-in-cyprus/",
          "pubDate" : "Wed, 25 Mar 2026 07:35:49",
          "title" : "FIDE Candidates Tournaments 2026 start in Cyprus"
-      },
-      {
-         "description" : "This weekend, March 27 through 29, the US Chess National High School (K-12) Championship takes place in Chicago, IL! This national event features some of the best scholastic chess players in the United States and US Chess is proud to host this exciting event.Online registration is still open through Thursday, March 26, and on-site registration will be available Friday morning. Over 1,500 players are registered at the time of writing, and all pre-entries can be seen on the event page.Now, here are a few things you can look forward to at the 2026 National High School Championship! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Special Guest GM Fidel CorralesCome and lear",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-national-high-school-k-12-championship-preview",
-         "pubDate" : "Wed, 25 Mar 2026 00:00:00",
-         "title" : "2026 National High School (K-12) Championship Preview!"
-      },
-      {
-         "description" : "Today's puzzles come from the Elimination Bracket of the 2026 American Cup. See our coverage of this event here, and check out another batch of more beginner-friendly puzzles in yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2026-american-cup",
-         "pubDate" : "Wed, 25 Mar 2026 00:00:00",
-         "title" : "Wednesday Workout: 2026 American Cup"
-      },
-      {
-         "description" : "The U.S. Center for SafeSport (\"SafeSport\") is currently experiencing technical difficulties with their site, so users may not be able to sign up or log into their accounts through the usual links. As a temporary solution, SafeSport recommends accessing their website by going to https://uscenterforsafesport.myabsorb.com/#/login and clicking \" Back to Login.\" From there, you should be able to click \"Log In\" to access an existing account or \"Sign Up\" to create a new account. If you continue to have difficulties accessing the SafeSport site, please contact the SafeSport help desk at https://safesport.atlassian.net/servicedesk/customer/portal/4/group/9/create/32 or email Safe Play Manager Melind",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/safesport-experiencing-technical-difficulties",
-         "pubDate" : "Wed, 25 Mar 2026 00:00:00",
-         "title" : "SafeSport Experiencing Technical Difficulties"
       },
       {
          "description" : "GM Zhamsaran Tsydypov scored 9.5/11 to win his first Titled Tuesday ever on March 24, despite taking a draw in a dead-winning position the final round. GM Vladimir Fedoseev, the only player who could have caught him, blundered into checkmate again...",
@@ -650,14 +650,6 @@ news_feed (
          "title" : "'Wish my younger self had studied more': Ding Liren"
       },
       {
-         "description" : "GMs Pranesh M and Yu Yangyi&#38;nbsp;qualified for the 2026 Chess.com Open Playoffs through Play-In 2 on Wednesday. Pranesh advanced directly by having better tiebreaks than GM Wesley So, the only other player to finish on 7.5/9. Yu, who finished the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pranesh-yu-win-2026-chesscom-open-play-in-2",
-         "pubDate" : "Wed, 18 Mar 2026 15:14:00",
-         "title" : "Pranesh, Yu Yangyi Qualify Through Play-In 2"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129653449.cms\" />Indian chess star Koneru Humpy is uncertain about playing the Women's Candidates in Cyprus due to Middle East tensions. She recently voiced concerns publicly. However, a final decision is yet to be taken. Her withdrawal could lead to fines and impact Indian chess. If she opts out, Ukraine's Anna Muzychuk may replace her in the tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -808,14 +800,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-for-national-rapid-chess-championship-2025-26-in-jharkhand-from-11-13-march-2026/",
          "pubDate" : "Wed, 11 Mar 2026 06:38:05",
          "title" : "Live link for National Rapid Chess Championship 2025-26 in Jharkhand from 11-13 March 2026"
-      },
-      {
-         "description" : "Success in world-class chess is built long before the game begins. With the \"Federation Package\", developed specifically for national federations, players and coaches gain access to the complete professional ChessBase software, the world's largest chess database, and powerful cloud analysis - at a price that provides up to five times more computing power than individual solutions! A long-term investment that will measurably enhance the performance of the entire team.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-cloud-power",
-         "pubDate" : "Tue, 10 Mar 2026 14:00:00",
-         "title" : "Chess Olympiad: Cloud power for your national squad"
       }
    ]
 }
