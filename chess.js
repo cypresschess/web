@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "All four games in round two of the Candidates Tournament in Cyprus ended in draws, leaving the standings unchanged. Fabiano Caruana, Praggnanandhaa Rameshbabu and Javokhir Sindarov remain tied for the lead on 1&frac12;/2 points. Pragg and Andrey Esipenko got the best chances to fight for more than a draw on Monday, but saw their opponents successfully keeping things under control. Round three will see a clash of co-leaders, as Pragg is set to play white against Sindarov. | Photo: FIDE / Michal Walusza",
+         "description" : "Meet the ultimate training-and-prep bundle: Fritz 20 plus Fritz Powerbook 2026 - your personal chess trainer combined with a modern, statistics-based opening reference. With opponent-style simulation, Bullet Training, and AI voice commentary on the Fritz side, you can turn preparation into realistic practice games. And with 25 million opening positions built from 1.7 million high-class tournament games, Powerbook 2026 gives you a clear, structured picture of what actually works in today's openings.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-o-2",
-         "pubDate" : "Tue, 31 Mar 2026 06:35:00",
-         "title" : "Candidates R2: Standings unchanged after four draws in Cyprus"
+         "link" : "https://en.chessbase.com/post/fritz-20-fritz-powerbook-2026",
+         "pubDate" : "Tue, 31 Mar 2026 12:25:00",
+         "title" : "Fritz 20 & Fritz Powerbook 2026"
+      },
+      {
+         "description" : "Missed opportunities remained a recurring theme in round two of the Women's Candidates, where all four games again ended in draws. Zhu Jiner obtained a clearly superior position against Kateryna Lagno but failed to convert, allowing a perpetual check to save the game. In the all-Indian encounter, Divya Deshmukh (pictured) also let an advantage slip after overlooking a tactical resource by Vaishali Rameshbabu. | Photo: FIDE / Yoav Nis",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-w-r2",
+         "pubDate" : "Tue, 31 Mar 2026 11:40:00",
+         "title" : "Women's Candidates R2: Narrow escapes for Lagno and Vaishali"
+      },
+      {
+         "description" : "Regarding the Regulation 5 Complaint by Nick Faulks against Stephen Woodhouse, a panel of non-executive directors found no evidence of bias during Stephen's investigation of an earlier complaint and no...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/regulation-5-2/",
+         "pubDate" : "Tue, 31 Mar 2026 10:47:05",
+         "title" : "Regulation 5"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129914983.cms\" />The FIDE Candidates 2026 saw a day of draws in Cyprus, with all games ending in a tie. Indian talents Divya Deshmukh and Vaishali Rameshbabu played a thrilling game, featuring a brilliant queen sacrifice by Vaishali. In the Open section, R Praggnanandhaa drew against Wei Yi, while Hikaru Nakamura salvaged a draw from a difficult position.",
@@ -42,14 +58,6 @@ news_feed (
          "title" : "SLU Edges UTD for Collegiate Chess League Top Seed"
       },
       {
-         "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. In Monday's second round, Anish Giri plays white against co-leader Fabiano Caruana in the most anticipated game of the day. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-live",
-         "pubDate" : "Mon, 30 Mar 2026 14:15:00",
-         "title" : "Candidates Round 2 - Live!"
-      },
-      {
          "description" : "Head-to-head records between the participants of the Candidates Tournaments provide useful context for each pairing. Drawing on data compiled via Mega Database 2026, the key statistics from past encounters highlight imbalances and trends. While such figures are not decisive, they offer an additional perspective on how rivalries have developed before a tournament that will determine the next challenger for the world title.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +66,7 @@ news_feed (
          "title" : "Candidates R2: Head-to-head stats"
       },
       {
-         "description" : "Below 1700 and Below 1700 Women will be uploaded soon. OPEN BELOW 2000 Women BELOW 2000 Rank Name Rank Name 1 Saravanan 1",
+         "description" : "Balance certificates of Below 1700 and Below 1700 Women will be uploaded soon. OPEN BELOW 1700 WOMEN-BELOW 1700 Rank Name Rank Name 1 Muthuraman",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/certificate-national-amateur-chess-championship-2025/",
