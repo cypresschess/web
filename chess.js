@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this episode of The Monthly Dragon, Chris Ward takes a close look at the newest Dragadorf developments and shows why these modern Dragon setups are becoming such a practical weapon for Black. Using fresh blitz examples and clear strategic ideas, he explains how early ...h5, flexible piece play and typical Dragadorf plans can leave White struggling to find a convincing setup. A particularly striking highlight is an unexpected knight retreat that turns out to be a powerful positional idea and perfectly captures the fresh creativity in today's Dragon theory. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-dragadorf-developments",
+         "pubDate" : "Tue, 31 Mar 2026 20:20:00",
+         "title" : "The Monthly Dragon - Dragadorf developments"
+      },
+      {
+         "description" : "&#160; The English Chess Federation is raising money for Macmillan Cancer Support through a special 24-hour online chess marathon. This fundraiser is in memory of Adam Hunt and Jonathan Hawkins,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/24-hour-chess-marathon-in-support-of-macmillan-cancer-support/",
+         "pubDate" : "Tue, 31 Mar 2026 18:06:53",
+         "title" : "24-Hour Chess Marathon in Support of Macmillan Cancer Support"
+      },
+      {
          "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. Round three sees co-leaders Praggnanandhaa Rameshbabu and Javokhir Sindarov facing each other in the open section. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Yoav Nis",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +26,28 @@ news_feed (
          "title" : "Candidates Round 3 - Live!"
       },
       {
-         "description" : "Meet the ultimate training-and-prep bundle: Fritz 20 plus Fritz Powerbook 2026 - your personal chess trainer combined with a modern, statistics-based opening reference. With opponent-style simulation, Bullet Training, and AI voice commentary on the Fritz side, you can turn preparation into realistic practice games. And with 25 million opening positions built from 1.7 million high-class tournament games, Powerbook 2026 gives you a clear, structured picture of what actually works in today's openings.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fritz-20-fritz-powerbook-2026",
-         "pubDate" : "Tue, 31 Mar 2026 12:25:00",
-         "title" : "Fritz 20 & Fritz Powerbook 2026"
-      },
-      {
          "description" : "Missed opportunities remained a recurring theme in round two of the Women's Candidates, where all four games again ended in draws. Zhu Jiner obtained a clearly superior position against Kateryna Lagno but failed to convert, allowing a perpetual check to save the game. In the all-Indian encounter, Divya Deshmukh (pictured) also let an advantage slip after overlooking a tactical resource by Vaishali Rameshbabu. | Photo: FIDE / Yoav Nis",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2026-w-r2",
          "pubDate" : "Tue, 31 Mar 2026 11:40:00",
          "title" : "Women's Candidates R2: Narrow escapes for Lagno and Vaishali"
+      },
+      {
+         "description" : "GMs Fabiano Caruana and Javokhir Sindarov lead the 2026 FIDE Candidates Tournament with 2.5 points after three rounds. Caruana won a miniature after a blunder by GM Wei Yi, and Sindarov bravely sacrificed a piece to win with the black pieces again...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-3",
+         "pubDate" : "Tue, 31 Mar 2026 11:22:00",
+         "title" : "Caruana Wins In 19 Moves, Sindarov Beats Praggnanandhaa With Piece Sac"
+      },
+      {
+         "description" : "Three co-leaders, none of them playing each other, all made draws in the final round, but someone still had to win the Titled Tuesday tournament out of GMs Jan-Krzysztof Duda, Hans Niemann, and Parham Maghsoodloo. And that is the order tiebreaks p...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duda-wins-titled-tuesday-march-31-2026",
+         "pubDate" : "Tue, 31 Mar 2026 11:11:04",
+         "title" : "Not How He Drew It Up, But Duda Wins Titled Tuesday"
       },
       {
          "description" : "Regarding the Regulation 5 Complaint by Nick Faulks against Stephen Woodhouse, a panel of non-executive directors found no evidence of bias during Stephen's investigation of an earlier complaint and no...",
@@ -624,22 +648,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/mar/19/striking-gambit-erling-haaland-invests-in-new-world-chess-championship",
          "pubDate" : "Thu, 19 Mar 2026 13:25:50",
          "title" : "Striking gambit: Erling Haaland invests in new world chess championship"
-      },
-      {
-         "description" : "Global soccer superstar Erling Haaland has entered the chess world as an investor in Norway Chess, backing the launch of the ambitious new Total Chess World Championship Tour&#38;mdash;an elite circuit expected to feature GM Magnus Carlsen. &#34;Chess i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/erling-haaland-joins-norway-chess-as-an-investor-chess-is-an-incredible-game",
-         "pubDate" : "Thu, 19 Mar 2026 11:59:00",
-         "title" : "Erling Haaland Invests In Norway Chess, Backs New Global Tour: 'Chess Is An Incredible Game'"
-      },
-      {
-         "description" : "Sixteen-year-old IM Alice Lee is the first female player to cross the 3000 rating mark on Chess.com in any time control&#38;mdash;whether in bullet, blitz, or rapid. On March 17, she reached a bullet rating of 3002. Lee started a 43-game s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alice-lee-breaks-3000-bullet-rating",
-         "pubDate" : "Thu, 19 Mar 2026 08:25:00",
-         "title" : "16-Year-Old Alice Lee 1st Woman To Break 3000 Rating On Chess.com"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129661239.cms\" />Former world champion Ding Liren has dropped out of the FIDE ratings list due to inactivity but says he is content with the break. After losing his title to D Gukesh, Ding is enjoying a quieter phase, playing casual online games. Reflecting on his journey, he admitted regrets about academics but remains relaxed, focusing on a less intense relationship with chess.",
