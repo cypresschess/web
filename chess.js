@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two players have already established a clear lead after three rounds of the Candidates Tournament in Cyprus. Fabiano Caruana and Javokhir Sindarov both secured their second wins to move a full point ahead of the field. Caruana defeated Wei Yi following an uncharacteristic pair of errors by the Chinese grandmaster, while Sindarov overcame Praggnanandhaa Rameshbabu in a double-edged struggle. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-o-3",
+         "pubDate" : "Wed, 01 Apr 2026 06:35:00",
+         "title" : "Candidates R3: Caruana pounces on Wei's blunders, Sindarov beats Pragg"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129942148.cms\" />Javokhir Sindarov defeated Praggnanandhaa R after a dramatic knight sacrifice, joining Fabiano Caruana in the lead of the Candidates tournament. The third round saw all three Chinese players lose, with Caruana quickly defeating Wei Yi. In the women's section, Bibisara Assaubayeva and Kateryna Lagno took the lead.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-sindarov-beats-praggnanandhaa-joins-caruana-in-lead-divya-draws/articleshow/129942148.cms",
+         "pubDate" : "Wed, 01 Apr 2026 05:18:06",
+         "title" : "Candidates Chess: Sindarov beats Praggnanandhaa, joins Caruana in lead; Divya draws"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129938932.cms\" />R Praggnanandhaa suffered his first defeat at the Candidates after an uncharacteristic opening choice against Javokhir Sindarov. In the women's section, Divya Deshmukh secured a miraculous draw against Aleksandra Goryachkina following a late blunder. Fabiano Caruana and Sindarov lead the open section.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -650,14 +666,6 @@ news_feed (
          "title" : "'Wish my younger self had studied more': Ding Liren"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129653449.cms\" />Indian chess star Koneru Humpy is uncertain about playing the Women's Candidates in Cyprus due to Middle East tensions. She recently voiced concerns publicly. However, a final decision is yet to be taken. Her withdrawal could lead to fines and impact Indian chess. If she opts out, Ukraine's Anna Muzychuk may replace her in the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/what-if-koneru-humpy-skips-womens-candidates-fine-replacement-and-setback-for-india/articleshow/129653449.cms",
-         "pubDate" : "Wed, 18 Mar 2026 10:39:35",
-         "title" : "What if Humpy skips Candidates? Fine, replacement, and 'setback for India'"
-      },
-      {
          "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the additional players and accompanying persons are required to",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -784,14 +792,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/visit-to-hmp-springhill-carl-s-portman-mbe/",
          "pubDate" : "Wed, 11 Mar 2026 08:34:58",
          "title" : "Visit to HMP Springhill - Carl S. Portman MBE"
-      },
-      {
-         "description" : "Please find the live link&#160;below https://view.livechesscloud.com/#eece909b-5005-48f3-bb31-f8ca9b068220",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link-for-national-rapid-chess-championship-2025-26-in-jharkhand-from-11-13-march-2026/",
-         "pubDate" : "Wed, 11 Mar 2026 06:38:05",
-         "title" : "Live link for National Rapid Chess Championship 2025-26 in Jharkhand from 11-13 March 2026"
       }
    ]
 }
