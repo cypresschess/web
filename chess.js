@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129938932.cms\" />R Praggnanandhaa suffered his first defeat at the Candidates after an uncharacteristic opening choice against Javokhir Sindarov. In the women's section, Divya Deshmukh secured a miraculous draw against Aleksandra Goryachkina following a late blunder. Fabiano Caruana and Sindarov lead the open section.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-a-miracle-rescued-divya-deshmukh-and-india-from-round-3-disaster/articleshow/129938932.cms",
+         "pubDate" : "Wed, 01 Apr 2026 01:12:05",
+         "title" : "Candidates Chess: How a miracle rescued Divya Deshmukh and India from Round 3 disaster"
+      },
+      {
          "description" : "In this episode of The Monthly Dragon, Chris Ward takes a close look at the newest Dragadorf developments and shows why these modern Dragon setups are becoming such a practical weapon for Black. Using fresh blitz examples and clear strategic ideas, he explains how early ...h5, flexible piece play and typical Dragadorf plans can leave White struggling to find a convincing setup. A particularly striking highlight is an unexpected knight retreat that turns out to be a powerful positional idea and perfectly captures the fresh creativity in today's Dragon theory. | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/candidates-tournament-2026-live",
          "pubDate" : "Tue, 31 Mar 2026 14:15:00",
          "title" : "Candidates Round 3 - Live!"
-      },
-      {
-         "description" : "Missed opportunities remained a recurring theme in round two of the Women's Candidates, where all four games again ended in draws. Zhu Jiner obtained a clearly superior position against Kateryna Lagno but failed to convert, allowing a perpetual check to save the game. In the all-Indian encounter, Divya Deshmukh (pictured) also let an advantage slip after overlooking a tactical resource by Vaishali Rameshbabu. | Photo: FIDE / Yoav Nis",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-w-r2",
-         "pubDate" : "Tue, 31 Mar 2026 11:40:00",
-         "title" : "Women's Candidates R2: Narrow escapes for Lagno and Vaishali"
       },
       {
          "description" : "GMs Fabiano Caruana and Javokhir Sindarov lead the 2026 FIDE Candidates Tournament with 2.5 points after three rounds. Caruana won a miniature after a blunder by GM Wei Yi, and Sindarov bravely sacrificed a piece to win with the black pieces again...",
@@ -112,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-ccl-spring-playoffs-preview",
          "pubDate" : "Mon, 30 Mar 2026 17:20:35",
          "title" : "SLU Edges UTD for Collegiate Chess League Top Seed"
-      },
-      {
-         "description" : "Head-to-head records between the participants of the Candidates Tournaments provide useful context for each pairing. Drawing on data compiled via Mega Database 2026, the key statistics from past encounters highlight imbalances and trends. While such figures are not decisive, they offer an additional perspective on how rivalries have developed before a tournament that will determine the next challenger for the world title.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-hth-2",
-         "pubDate" : "Mon, 30 Mar 2026 14:10:00",
-         "title" : "Candidates R2: Head-to-head stats"
       },
       {
          "description" : "Balance certificates of Below 1700 and Below 1700 Women will be uploaded soon. OPEN BELOW 1700 WOMEN-BELOW 1700 Rank Name Rank Name 1 Muthuraman",
@@ -664,14 +656,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/what-if-koneru-humpy-skips-womens-candidates-fine-replacement-and-setback-for-india/articleshow/129653449.cms",
          "pubDate" : "Wed, 18 Mar 2026 10:39:35",
          "title" : "What if Humpy skips Candidates? Fine, replacement, and 'setback for India'"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129648963.cms\" />Indian Grandmaster Koneru Humpy expressed safety concerns regarding the upcoming Candidates Tournament in Cyprus due to the West Asia conflict, leaving her participation undecided. While Humpy cited a drone attack as a reason for her hesitation, FIDE downplayed the risks, assuring that preparations are ongoing and the region remains stable.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/cannot-understand-the-sensitivity-koneru-humpy-breaks-silence-on-candidates-call/articleshow/129648963.cms",
-         "pubDate" : "Wed, 18 Mar 2026 06:23:54",
-         "title" : "'Cannot understand the sensitivity?' Koneru Humpy breaks silence on Candidates call"
       },
       {
          "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the additional players and accompanying persons are required to",
