@@ -1,4 +1,5 @@
 jtable([
+"SPRING","2026-04-03","26","<a href=https://ratings.uschess.org/event/202604030273 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2026-03-29","11","<a href=https://ratings.uschess.org/event/202603290363 target='_blank'>Bellaire Sunday Swiss 2026.03.29</a>",
 "HOUSTON","2026-03-29","10","<a href=https://ratings.uschess.org/event/202603290293 target='_blank'>2026 Houston Circuit T3 by AzChAcad</a>",
 "KATY","2026-03-28","74","<a href=https://ratings.uschess.org/event/202603281343 target='_blank'>5th Annual Aristoi Chess Tournament</a>",
@@ -98,5 +99,4 @@ jtable([
 "HOUSTON","2026-01-10","154","<a href=https://ratings.uschess.org/event/202601100413 target='_blank'>WHARTON ACADEMY SCHOLASTIC 2026</a>",
 "HOUSTON","2026-01-10","11","<a href=https://ratings.uschess.org/event/202601100383 target='_blank'>chesspanda01102026saturday</a>",
 "CYPRESS","2026-01-10","43","<a href=https://ratings.uschess.org/event/202601100043 target='_blank'>Knights of Cypress</a>",
-"SUGAR LAND","2026-01-09","13","<a href=https://ratings.uschess.org/event/202601090203 target='_blank'>FBCC 2026 National Apricot Day Open</a>",
 ]);
