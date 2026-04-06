@@ -1,9 +1,12 @@
 jtable([
+"HOUSTON","2026-04-05","33","<a href=https://ratings.uschess.org/event/202604050193 target='_blank'>$2,500 APRIL CHAMPIONSHIP</a>",
+"HOUSTON","2026-04-05","9","<a href=https://ratings.uschess.org/event/202604050133 target='_blank'>Bellaire Sunday Swiss 2026.04.05</a>",
 "HOUSTON","2026-04-04","11","<a href=https://ratings.uschess.org/event/202604040193 target='_blank'>chesspanda04042026</a>",
 "SUGAR LAND","2026-04-03","14","<a href=https://ratings.uschess.org/event/202604030303 target='_blank'>World Aquatic Animal Day Open</a>",
 "SPRING","2026-04-03","26","<a href=https://ratings.uschess.org/event/202604030273 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2026-03-29","11","<a href=https://ratings.uschess.org/event/202603290363 target='_blank'>Bellaire Sunday Swiss 2026.03.29</a>",
 "HOUSTON","2026-03-29","10","<a href=https://ratings.uschess.org/event/202603290293 target='_blank'>2026 Houston Circuit T3 by AzChAcad</a>",
+"KATY","2026-03-28","73","<a href=https://ratings.uschess.org/event/202603281363 target='_blank'>5th Annual Aristoi Chess Tournament</a>",
 "HOUSTON","2026-03-28","8","<a href=https://ratings.uschess.org/event/202603280573 target='_blank'>2026 TCA Regional Scholastics Tourn</a>",
 "HOUSTON","2026-03-28","10","<a href=https://ratings.uschess.org/event/202603280233 target='_blank'>chesspanda03282026saturday</a>",
 "PASADENA","2026-03-27","30","<a href=https://ratings.uschess.org/event/202603270303 target='_blank'>Checkmates On Fairmont</a>",
@@ -96,7 +99,4 @@ jtable([
 "SUGAR LAND","2026-01-11","23","<a href=https://ratings.uschess.org/event/202601110803 target='_blank'>Foundation Chess New Year Scholastic</a>",
 "HOUSTON","2026-01-11","11","<a href=https://ratings.uschess.org/event/202601110403 target='_blank'>Bellaire Swiss 1.11.26</a>",
 "HOUSTON","2026-01-11","15","<a href=https://ratings.uschess.org/event/202601110243 target='_blank'>JAN 11TH TROPHY SCHOLASTIC</a>",
-"HOUSTON","2026-01-10","18","<a href=https://ratings.uschess.org/event/202601101203 target='_blank'>2026 HOUSTON 'QUICK CHESS' CITY CHA</a>",
-"HOUSTON","2026-01-10","154","<a href=https://ratings.uschess.org/event/202601100413 target='_blank'>WHARTON ACADEMY SCHOLASTIC 2026</a>",
-"HOUSTON","2026-01-10","11","<a href=https://ratings.uschess.org/event/202601100383 target='_blank'>chesspanda01102026saturday</a>",
 ]);
