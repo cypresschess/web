@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The best university teams will meet in Almaty this August to compete for the title of FIDE World University Team Chess Champion. The event is governed by FIDE and organised by the Kazakhstan Chess Federation, together with Almaty city administration and support from Kazakhstan's Ministry of Sports and Tourism.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-university-team-championship",
+         "pubDate" : "Tue, 07 Apr 2026 13:05:25",
+         "title" : "World University Team Championship"
+      },
+      {
+         "description" : "A Senior National Arbiter Seminar &#38; Examination was organized by Rao's Chess Corner, Mangaluru on behalf of Karnataka State Chess Association and All India Chess",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-sna-seminar-exam-held-in-mangalore-on-21-22-march-2026/",
+         "pubDate" : "Tue, 07 Apr 2026 09:59:15",
+         "title" : "Final Report : SNA Seminar & Exam held in Mangalore on 21 & 22 March 2026"
+      },
+      {
+         "description" : "The Arbiters Commission of AICF has received requests to conduct an additional Arbiter Refresher Course for the 2026-27 period. Many arbiters missed the refresher course",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/arbiter-refresher-course-for-the-year-2026-27-for-left-over-arbiters-on-25-26-april-2026/",
+         "pubDate" : "Tue, 07 Apr 2026 09:53:42",
+         "title" : "ARBITER REFRESHER COURSE FOR THE YEAR 2026-27 FOR LEFT OVER ARBITERS ON 25 & 26 April 2026."
+      },
+      {
+         "description" : "Please find the list of participants who have successfully appeared in the AICF Arbiters Refresher Course 2026-27 under the following categories: International Arbiters Fide Arbiters",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/successful-arbiters-aicf-arbiters-refresher-course-2026-27/",
+         "pubDate" : "Tue, 07 Apr 2026 08:57:21",
+         "title" : "Successful Arbiters - AICF Arbiters Refresher Course 2026-27."
+      },
+      {
          "description" : " The ugly side of chess is pored over in this Netflix documentary, looking at how lurid online gossip led to a lawsuit, conspiracy theories and a bitter rivalry. Sadly, there's little new here 'Every conversation I have about chess\", says Hans Niemann, \"leads to anal beads.\" In any other context that might seem something of a non-sequitur. But in the context of Niemann, it makes a lot of sense. For the uninitiated, Niemann was the chess prodigy accused in 2022 of cheating against world champion Magnus Carlsen - some said by using a vibrating sex toy to direct his play, leading him to a shock (pun intended) victory. As ridiculous as it sounds - the sort of thing that would be laughed out of t",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -24,6 +56,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/mossad-agents-in-iran-do-indian-gms-agree-with-world-no-2-hikaru-nakamuras-fide-jab/articleshow/130075019.cms",
          "pubDate" : "Tue, 07 Apr 2026 03:21:59",
          "title" : "'Mossad agents in Iran': Do Indian GMs agree with World No. 2 Hikaru Nakamura's FIDE jab?"
+      },
+      {
+         "description" : "In Netflix&#38;rsquo;s Untold: Chess Mates, GM Hans Niemann shares new details about the extent of his online cheating, while GM Magnus Carlsen offers fresh insight into what sparked one of the most controversial scandals in modern chess. The 74-min...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-new-insight-niemann-cheating-admission-netflix-untold-chessmates",
+         "pubDate" : "Tue, 07 Apr 2026 01:16:12",
+         "title" : "Carlsen Shares New Insight As Niemann Admits To More Cheating In Netflix Documentary"
       },
       {
          "description" : "Anna Muzychuk leads the Women's Candidates Tournament at the halfway stage with 4&frac12;/7 after drawing a quiet game with Bibisara Assaubayeva in round seven. Vaishali Rameshbabu secured the only win of the day, capitalising on a late mistake by Tan Zhongyi to move into sole second place. The other games saw long, hard-fought draws, including a 135-move marathon between Divya Deshmukh and Kateryna Lagno. | Photo: FIDE / Michal Walusza",
@@ -666,14 +706,6 @@ news_feed (
          "title" : "FIDE Candidates tournament in Cyprus starts with three decisive games - 1"
       },
       {
-         "description" : "GM Fabiano Caruana ended his curse against GM Hikaru Nakamura when it mattered most by battling to a six-hour win in round one of the 2026 FIDE Candidates Tournament. There were two more wins, with GM Praggnanandhaa Rameshbabu surprising GM Anish ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-1",
-         "pubDate" : "Sun, 29 Mar 2026 16:30:00",
-         "title" : "Caruana, Pragg, Sindarov All Win In Stunning Start To 2026 Candidates"
-      },
-      {
          "description" : " The FIDE Candidates Tournaments both open and women's events take place in the Cap St Georges resort, Cyprus, Sun 29th Mar to Thu 16th Apr 2026. I would argue that this is the highlight of the entire FIDE World Championship cycle. The poor form of the current champion Gukesh has to be a major motivating factor for anyone in the open event. The event is on the periphery of the current Iran conflict and Humpy Koneru decided that she would not participate in the women's event due to the perceived danger and was at the last minute replaced by Anna Muzychuk. Players open: Hikaru Nakamura, Fabiano Caruana, Anish Giri, R Praggnanandhaa, Javokhir Sindarov, Andrey Esipenko, Matthias Bluebaum and Wei",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -738,36 +770,12 @@ news_feed (
          "title" : "ECF Schools U19 National Finals"
       },
       {
-         "description" : "&#160;&#160;&#160;&#160; The Senior National Arbiter Seminar cum Examination was organized by the Punjab State Chess Association under the aegis of All India Chess Federation at",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-senior-national-arbiter-seminar-cum-examination-mohali-held-on-31st-jan-to-1st-feb-2026/",
-         "pubDate" : "Wed, 25 Mar 2026 12:40:39",
-         "title" : "Final Report :Senior National Arbiter Seminar cum Examination in Mohali on 31st Jan & 1st Feb 2026."
-      },
-      {
-         "description" : "On behalf of All India Chess Federation and Arbiter Commission AICF, the All Orissa Chess Association had organized Senior National Arbiter Seminar &#38; exam at",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-sna-seminar-bhubneshwar-on-17-18-january-2026/",
-         "pubDate" : "Wed, 25 Mar 2026 11:45:06",
-         "title" : "Final report :SNA Seminar, Bhubneshwar on 17 & 18 January 2026"
-      },
-      {
          "description" : "The FIDE Candidates Tournament 2026 and the FIDE Women's Candidates Tournament 2026 are set to take place from 28 March to 16 April at the Cap St&#160;Georges Hotel &#38; Resort, Peyia, Paphos, Cyprus. Both events are played as eight-player double round-robin tournaments, with 14 rounds in each competition. The Winner of the FIDE Candidates Tournament 2026 qualifies for the World Chess Championship match against the reigning champion Gukesh D, while the Winner of the FIDE Women's Candidates Tournament 2026 qualifies []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/fide-candidates-tournaments-2026-start-in-cyprus/",
          "pubDate" : "Wed, 25 Mar 2026 07:35:49",
          "title" : "FIDE Candidates Tournaments 2026 start in Cyprus"
-      },
-      {
-         "description" : "Special Note: If a player has only&#160;one accompanying person, then he/she must pay for double sharing amount only. (Triple sharing basis not accepted for two",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-youth-chess-championships-2026-in-montesilvano-italy-from-14th-to-27th-june-2026/",
-         "pubDate" : "Tue, 24 Mar 2026 05:43:58",
-         "title" : "FIDE World Youth Chess Championships - 2026 in Montesilvano, Italy from 14th to 27th June, 2026"
       },
       {
          "description" : " by Ben Underwood The 2026 Saint Louis Masters, held in late February at the newly expanded Saint Louis Chess Club, featured 70 top players representing 22 countries. The event showcased a highly competitive field, with 37 Grandmasters and a median rating of 2495, nearly half of all players holding a rating of 2500 or above. [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2026-saint-louis-masters-stats/\">2026 Saint Louis Masters by the Numbers</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -840,14 +848,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/mar/17/joy-of-chess-keeps-dark-times-in-check",
          "pubDate" : "Tue, 17 Mar 2026 17:25:49",
          "title" : "Joy of chess keeps dark times in check | Brief letters"
-      },
-      {
-         "description" : "The ECU E-Magazine February 2026 is out! In this edition of the ECU E-Magazine you may read about: The ECU Magazine can be read online together with interactive links through&#160;the following link, or it can be downloaded in PDF format below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-february-2026/",
-         "pubDate" : "Tue, 17 Mar 2026 10:00:10",
-         "title" : "ECU E-Magazine February 2026"
       }
    ]
 }
