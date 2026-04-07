@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. Javokhir Sindarov and Anna Muzychuk enter the second half as sole leaders in each section. On Tuesday, they face Andrey Esipenko and Divya Deshmukh, respectively. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-live",
+         "pubDate" : "Tue, 07 Apr 2026 14:15:00",
+         "title" : "Candidates Round 8 - Live!"
+      },
+      {
+         "description" : "Vincent Keymer has done it! With a quick draw against Maxime Vachier-Lagrave in the ninth and final round of the grenke Freestyle Chess Open in Karlsruhe, he secured overall victory and qualified for the 2027 Freestyle Chess World Championship. The draw left both Keymer and Vachier-Lagrave tied for first place with 7&frac12; points each, but Keymer won thanks to his superior tiebreak score. Seven players finished half a point behind on 7/9. This group included Magnus Carlsen, who finished third on tiebreaks. | Photo: Nils Rohde / ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grenke-freestyle-open-2026-d5",
+         "pubDate" : "Tue, 07 Apr 2026 13:30:00",
+         "title" : "Vincent Keymer emerges victorious at grenke Freestyle Chess Open"
+      },
+      {
          "description" : "The best university teams will meet in Almaty this August to compete for the title of FIDE World University Team Chess Champion. The event is governed by FIDE and organised by the Kazakhstan Chess Federation, together with Almaty city administration and support from Kazakhstan's Ministry of Sports and Tourism.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-university-team-championship",
          "pubDate" : "Tue, 07 Apr 2026 13:05:25",
          "title" : "World University Team Championship"
+      },
+      {
+         "description" : "Please find here No Name 1 Pranab Kumar Samanta 2 Protik Sarkar 3 Vaheeb Shafi Hassan K 4 Rituparna Chutia 5 Sumanta Gore 6 Tirtha",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-senior-national-arbiter-seminar-cum-examination-at-guwahati-2025-on-20-21-sept-2025/",
+         "pubDate" : "Tue, 07 Apr 2026 11:48:18",
+         "title" : "Certificate :Senior National Arbiter Seminar cum Examination at Guwahati 2025 on 20 & 21 Sept 2025"
       },
       {
          "description" : "A Senior National Arbiter Seminar &#38; Examination was organized by Rao's Chess Corner, Mangaluru on behalf of Karnataka State Chess Association and All India Chess",
@@ -62,16 +86,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-new-insight-niemann-cheating-admission-netflix-untold-chessmates",
-         "pubDate" : "Tue, 07 Apr 2026 01:16:12",
+         "pubDate" : "Tue, 07 Apr 2026 01:16:00",
          "title" : "Carlsen Shares New Insight As Niemann Admits To More Cheating In Netflix Documentary"
       },
       {
-         "description" : "Anna Muzychuk leads the Women's Candidates Tournament at the halfway stage with 4&frac12;/7 after drawing a quiet game with Bibisara Assaubayeva in round seven. Vaishali Rameshbabu secured the only win of the day, capitalising on a late mistake by Tan Zhongyi to move into sole second place. The other games saw long, hard-fought draws, including a 135-move marathon between Divya Deshmukh and Kateryna Lagno. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-w-7",
-         "pubDate" : "Mon, 06 Apr 2026 22:35:00",
-         "title" : "Women's Candidates R7: Vaishali climbs to sole second place"
+         "description" : "The U.S. has a new WGM, thanks to the XVII Women's Continental Chess Championship of the Americas, held in Lima, Peru from March 30 to April 6.16-year-old Iris Mou, who entered the event as a WIM, took clear first with a 7&frac12;/9 performance, earning the direct WGM title and a spot in the next FIDE Women's World Cup (see full event regulations). The New Yorker also won $2,000 for her victory. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Federacion Deportiva Peruana de Ajedrez.<br> <br> <br> <br> It was a strong showing for the USA delegation, which finished with four of the top five players in the standings. Colombian WIM Valentina",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/iris-mou-wins-xvii-womens-continental-championship-americas-earns-wgm-title",
+         "pubDate" : "Tue, 07 Apr 2026 00:00:00",
+         "title" : "Iris Mou Wins XVII Women's Continental Championship of the Americas, Earns WGM Title"
       },
       {
          "description" : "Two months ago Valery Golubenko played what may well have been one of the longest chess games ever seen, measured by number of moves, under the rather restrictive conditions of modern chess life. At move 88, with queen and b-pawn against queen, Golubenko's opponent held for 37 moves, until he missed an only move, and it was theoretically a mate in 47. | Photo during the game by Chess Club Kaksikodad - from the right, GM Aleksandr Volodin and the chief arbiter Askold Nassar",
@@ -138,7 +162,7 @@ news_feed (
          "title" : "Candidates Chess: How Vaishali beat former World champion Tan for 2nd consecutive win"
       },
       {
-         "description" : "What is this announcement?The USA will not send an official delegation to the 2026 Continental.Accordingly, US Chess will not be handling any registration, paperwork, or related administrative matters for this event. US Chess will also not issue endorsement letters or \"no objection\" letters. Why was this decision made?The 2026 Continental Championships are scheduled for June 1-11, 2026, located at Carretera Cocoyoc - Oaxtepec Km 2.5, Centro, 62738, Morelos, Mexico.Currently, the nation of Mexico is under a Level 2 travel advisory from the U.S. Department of State, however, the State of Morales is a Level 3 designated area, which is defined as \"reconsider travel.\" The advisory further states ",
+         "description" : "What is this announcement?The USA will not send an official delegation to the 2026 Continental.Accordingly, US Chess will not be handling any registration, paperwork, or related administrative matters for this event. US Chess will also not issue endorsement letters or \"no objection\" letters. Why was this decision made?The 2026 Continental Championships are scheduled for June 1-11, 2026, located at Carretera Cocoyoc - Oaxtepec Km 2.5, Centro, 62738, Morelos, Mexico.Currently, the nation of Mexico is under a Level 2 travel advisory from the U.S. Department of State, however, the State of Morelos is a Level 3 designated area, which is defined as \"reconsider travel.\" The advisory further states ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/us-chess-announcement-about-2026-continental",
@@ -176,14 +200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-7",
          "pubDate" : "Sun, 05 Apr 2026 15:21:00",
          "title" : "Sindarov On Historic 6/7 At Halfway; Wei Yi Grabs 1st Win"
-      },
-      {
-         "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. In the open, sole leader Javohkir Sindarov plays white against Anish Giri in Sunday's seventh round. In the women's tournament, leader Anna Muzychuk faces Bibisara Assaubayeva. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Yoav Nis",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-live",
-         "pubDate" : "Sun, 05 Apr 2026 14:15:00",
-         "title" : "Candidates Round 7 - Live!"
       },
       {
          "description" : "Easter Sunday was another good day on home soil for GM Vincent Keymer, who beat GM Hans Niemann and drew with GM Magnus Carlsen to emerge as the sole leader of&#38;nbsp;the Grenke Chess Freestyle Open with two rounds to go. Three players are trailing ...",
@@ -602,14 +618,6 @@ news_feed (
          "title" : "Wednesday Workout: 2026 National High School (K-12) Championship, Pt. 1"
       },
       {
-         "description" : "The most shocking game of the third round was GM Fabiano Caruana's 19-move win against GM Wei Yi. After willingly entering his opponent's preparation, Caruana ended up down 50 minutes on the clock in a highly unclear position. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy FIDE/Michal Walusza.<br> <br> <br> <br> However, Wei Yi did not seem ready for such a turn of events, and sunk into thought himself, made two serious mistakes, and ended up losing a piece for no compensation. What had promised to be a tense and exciting game ended without a fight: <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/leaders-emerge-after-candidates-round-3",
-         "pubDate" : "Wed, 01 Apr 2026 00:00:00",
-         "title" : "Leaders Emerge After Candidates Round 3"
-      },
-      {
          "description" : "&#160; The English Chess Federation is raising money for Macmillan Cancer Support through a special 24-hour online chess marathon. This fundraiser is in memory of Adam Hunt and Jonathan Hawkins,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-senior-national-arbiters-seminar-and-examination-lucknow-uttar-pradesh-on-14-15-march-2026/",
          "pubDate" : "Thu, 26 Mar 2026 12:33:47",
          "title" : "Final Report - Senior National Arbiters' Seminar and Examination, Lucknow, Uttar Pradesh on 14 & 15 March 2026."
-      },
-      {
-         "description" : "On behalf of All India Chess Federation &#38; Arbiter Commission AICF, All Jharkhand Chess Association is organizing Senior National Arbiter Seminar &#38; exam at SARALA",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-sna-seminar-and-exam-held-in-ranchi-on-21-22-feb-2026/",
-         "pubDate" : "Thu, 26 Mar 2026 11:47:40",
-         "title" : "Final Report :SNA Seminar and Exam held in Ranchi on 21 & 22 Feb 2026"
       },
       {
          "description" : "&#160; The top two players in each section of the English Youth Championships qualify to play for England in the World Youth/Cadet Championships or European Youth Championships, with the first-placed...",
