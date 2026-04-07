@@ -394,6 +394,22 @@ news_feed (
          "title" : "Sindarov takes an early lead in the Candidates after beating Caruana in Round 4 - 3-4"
       },
       {
+         "description" : "The ECF Online Grand Prix Series returns for 2026, beginning on Sunday, 5 April and running through to December. The series features monthly blitz and rapid tournaments open to all...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-online-grand-prix-2026-begins-this-sunday/",
+         "pubDate" : "Thu, 02 Apr 2026 16:45:55",
+         "title" : "ECF Online Grand Prix 2026 begins this Sunday"
+      },
+      {
+         "description" : "Please note that the ECF month-end rating process ran successfully last night. This means that this month's official ratings have now been published, with monthly ratings displaying correctly in the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/april-monthly-ratings-and-website-issues-2nd-april/",
+         "pubDate" : "Thu, 02 Apr 2026 15:47:49",
+         "title" : "April Monthly Ratings and Website Issues - 2nd April"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129977072.cms\" />World No. 2 American grandmaster Hikaru Nakamura criticised FIDE's anti-cheating measures at the 2026 Candidates in Cyprus, calling them \"complete nonsense.\" He joked, \"Are we like Mossad agents inside Iran or something?\" Nakamura hasn't raised concerns with FIDE, saying the fears are overblown. After four rounds, he has 1.5 points, sharing results with Anish Giri, Andrey Esipenko, and Wei Yi.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -440,6 +456,22 @@ news_feed (
          "link" : "https://www.chess.com/news/view/tabatabaei-wins-2026-reykjavik-chess-open",
          "pubDate" : "Wed, 01 Apr 2026 19:25:00",
          "title" : "Tabatabaei's Golden Run Continues With Reykjavik Open Demolition"
+      },
+      {
+         "description" : "Please note that the ECF month-end rating process did not run last night, which means that this month's official ratings have not yet been published. We are currently working on...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/april-month-end-ratings/",
+         "pubDate" : "Wed, 01 Apr 2026 14:34:10",
+         "title" : "April Month End Ratings"
+      },
+      {
+         "description" : "Press Release: Not an April Fool! British chess phenom Bodhana Sivanandan has made history by shooting to the top of the UK chess rankings after a sensational start to 2026,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/bodhana-sivanandan-becomes-britains-no-1-female-player/",
+         "pubDate" : "Wed, 01 Apr 2026 13:45:36",
+         "title" : "Bodhana Sivanandan Becomes Britain's No. 1 Female Player"
       },
       {
          "description" : "GM Javokhir Sindarov grabbed the sole lead at the 2026 FIDE Candidates Tournament on Wednesday, reaching a fantastic plus-three score by beating co-leader GM Fabiano Caruana. GM Anish Giri got back to a 50-percent score by beating GM Andrey Esipen...",
@@ -514,6 +546,14 @@ news_feed (
          "title" : "Leaders Emerge After Candidates Round 3"
       },
       {
+         "description" : "&#160; The English Chess Federation is raising money for Macmillan Cancer Support through a special 24-hour online chess marathon. This fundraiser is in memory of Adam Hunt and Jonathan Hawkins,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/24-hour-chess-marathon-in-support-of-macmillan-cancer-support/",
+         "pubDate" : "Tue, 31 Mar 2026 18:06:53",
+         "title" : "24-Hour Chess Marathon in Support of Macmillan Cancer Support"
+      },
+      {
          "description" : "GMs Fabiano Caruana and Javokhir Sindarov lead the 2026 FIDE Candidates Tournament with 2.5 points after three rounds. Caruana won a miniature after a blunder by GM Wei Yi, and Sindarov bravely sacrificed a piece to win with the black pieces again...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -528,6 +568,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/duda-wins-titled-tuesday-march-31-2026",
          "pubDate" : "Tue, 31 Mar 2026 11:11:04",
          "title" : "Not How He Drew It Up, But Duda Wins Titled Tuesday"
+      },
+      {
+         "description" : "Regarding the Regulation 5 Complaint by Nick Faulks against Stephen Woodhouse, a panel of non-executive directors found no evidence of bias during Stephen's investigation of an earlier complaint and no...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/regulation-5-2/",
+         "pubDate" : "Tue, 31 Mar 2026 10:47:05",
+         "title" : "Regulation 5"
       },
       {
          "description" : "Please note that the event&#39;s schedule has changed. The event qualifiers are now taking place from April 13 to 16, with the semifinals and final taking place on April 17. More players, more pieces, and more tactics! The Chess.com 4-Player Chess C...",
@@ -664,6 +712,22 @@ news_feed (
          "link" : "https://aicf.in/final-report-sna-seminar-and-exam-held-in-ranchi-on-21-22-feb-2026/",
          "pubDate" : "Thu, 26 Mar 2026 11:47:40",
          "title" : "Final Report :SNA Seminar and Exam held in Ranchi on 21 & 22 Feb 2026"
+      },
+      {
+         "description" : "&#160; The top two players in each section of the English Youth Championships qualify to play for England in the World Youth/Cadet Championships or European Youth Championships, with the first-placed...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-youth-championship-qualifiers-prizewinners/",
+         "pubDate" : "Thu, 26 Mar 2026 10:54:41",
+         "title" : "English Youth Championship Qualifiers & Prizewinners"
+      },
+      {
+         "description" : "Tuesday, 23rd and Wednesday, 24th June 2026 at Nottingham University Pope Building, University Park Campus * The tournament will be a 5 round Team Swiss System tournament for teams with...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-schools-u19-national-finals/",
+         "pubDate" : "Thu, 26 Mar 2026 10:51:27",
+         "title" : "ECF Schools U19 National Finals"
       },
       {
          "description" : "&#160;&#160;&#160;&#160; The Senior National Arbiter Seminar cum Examination was organized by the Punjab State Chess Association under the aegis of All India Chess Federation at",
