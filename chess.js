@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2026 European Individual Chess Championship commenced today in Katowice, Poland, which will be the host for 501 chess players in the next two weeks. The event broke the participation record with 501 players from 43 European federations competing over 11 rounds for the prize pool of 100.000 EUR and qualification spots for the next FIDE World Chess Cup. The Opening ceremony of the event took place shortly before the start of the first round with the attendance of the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-individual-chess-championship-2026-officially-opened/",
+         "pubDate" : "Tue, 07 Apr 2026 20:26:06",
+         "title" : "European Individual Chess Championship 2026 officially opened"
+      },
+      {
          "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. Javokhir Sindarov and Anna Muzychuk enter the second half as sole leaders in each section. On Tuesday, they face Andrey Esipenko and Divya Deshmukh, respectively. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-8",
-         "pubDate" : "Tue, 07 Apr 2026 11:26:44",
+         "pubDate" : "Tue, 07 Apr 2026 11:26:00",
          "title" : "Caruana Falls To Nakamura, Caught By Giri; Divya Shocks Muzychuk"
       },
       {
@@ -90,12 +98,12 @@ news_feed (
          "title" : "'Mossad agents in Iran': Do Indian GMs agree with World No. 2 Hikaru Nakamura's FIDE jab?"
       },
       {
-         "description" : "In Netflix&#38;rsquo;s Untold: Chess Mates, GM Hans Niemann shares new details about the extent of his online cheating, while GM Magnus Carlsen offers fresh insight into what sparked one of the most controversial scandals in modern chess. The 74-min...",
+         "description" : "In Netflix&#38;rsquo;s Untold: Chess Mates, GM Hans Niemann reflects on how his life was changed by cheating allegations, while GM Magnus Carlsen offers fresh insight into what sparked one of the most controversial scandals in modern chess. The 74-m...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-new-insight-niemann-cheating-admission-netflix-untold-chessmates",
          "pubDate" : "Tue, 07 Apr 2026 01:16:00",
-         "title" : "Carlsen Shares New Insight As Niemann Admits To More Cheating In Netflix Documentary"
+         "title" : "Carlsen, Niemann Speak On Chess Scandal In Netflix Untold Documentary"
       },
       {
          "description" : "Today's puzzles continue a series on the just-concluded 2026 National High School (K-12) Championship. All of our coverage from Chicago is available here. WGM Sabina Foisor commentated on all seven rounds, and she bookmarked a number of her favorite positions from the tournament to use in these worksheets. Enjoy! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
