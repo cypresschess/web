@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The ugly side of chess is pored over in this Netflix documentary, looking at how lurid online gossip led to a lawsuit, conspiracy theories and a bitter rivalry. Sadly, there's little new here 'Every conversation I have about chess\", says Hans Niemann, \"leads to anal beads.\" In any other context that might seem something of a non-sequitur. But in the context of Niemann, it makes a lot of sense. For the uninitiated, Niemann was the chess prodigy accused in 2022 of cheating against world champion Magnus Carlsen - some said by using a vibrating sex toy to direct his play, leading him to a shock (pun intended) victory. As ridiculous as it sounds - the sort of thing that would be laughed out of t",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/tv-and-radio/2026/apr/07/untold-chess-mates-review-hans-niemann-magnus-carlsen-netflix",
+         "pubDate" : "Tue, 07 Apr 2026 07:01:41",
+         "title" : "Untold: Chess Mates review - inside the anal beads rumours that rocked a sport"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130077462.cms\" />Uzbekistan's Javokhir Sindarov, the youngest Candidate, is on the verge of winning the Cyprus tournament with an impressive halfway score. He needs just four more wins to secure the title. Meanwhile, in the women's section, Ukraine's Anna Muzychuk leads the pack, undefeated and aiming for victory.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-sindarov-set-for-an-encore-muzychuk-in-charge/articleshow/130077462.cms",
+         "pubDate" : "Tue, 07 Apr 2026 05:47:28",
+         "title" : "Candidates Chess: Sindarov set for an encore; Muzychuk in charge"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130075019.cms\" />Chess is grappling with a cheating crisis, forcing stringent security at top tournaments. World No. 2 Hikaru Nakamura sarcastically compared players to spies due to intense scanning. Indian Grandmasters like Koneru Humpy and Shyam Sundar M support these measures, emphasizing skill-based wins. Pravin Thipsay suggests delaying live broadcasts to curb cheating, arguing popularity doesn't hinge on instant updates.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/mossad-agents-in-iran-do-indian-gms-agree-with-world-no-2-hikaru-nakamuras-fide-jab/articleshow/130075019.cms",
+         "pubDate" : "Tue, 07 Apr 2026 03:21:59",
+         "title" : "'Mossad agents in Iran': Do Indian GMs agree with World No. 2 Hikaru Nakamura's FIDE jab?"
+      },
+      {
          "description" : "Anna Muzychuk leads the Women's Candidates Tournament at the halfway stage with 4&frac12;/7 after drawing a quiet game with Bibisara Assaubayeva in round seven. Vaishali Rameshbabu secured the only win of the day, capitalising on a late mistake by Tan Zhongyi to move into sole second place. The other games saw long, hard-fought draws, including a 135-move marathon between Divya Deshmukh and Kateryna Lagno. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/keymer-wins-2026-grenke-freestyle-chess-open",
-         "pubDate" : "Mon, 06 Apr 2026 13:58:47",
+         "pubDate" : "Mon, 06 Apr 2026 13:58:00",
          "title" : "Keymer Edges Out Vachier-Lagrave On Tiebreak, Wins Grenke Freestyle Open"
       },
       {
@@ -632,22 +656,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-2",
          "pubDate" : "Mon, 30 Mar 2026 05:44:00",
          "title" : "Vaishali, Lagno Escape With Sacrifices On Day Of Draws"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129891008.cms\" />The Candidates chess tournament in Cyprus features varied time controls for men and women. Men face no time increment until move 41, aiming for excitement. Women receive a 30-second increment from the first move. This difference in time management for the first 40 moves has drawn criticism from chess experts.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-different-time-controls-for-men-and-women-add-intrigue/articleshow/129891008.cms",
-         "pubDate" : "Mon, 30 Mar 2026 03:58:59",
-         "title" : "Candidates Chess: Different time controls for men and women add intrigue"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129889436.cms\" />India's R Praggnanandhaa delivered a tactical masterclass on the opening day of the 2026 FIDE Candidates, defeating Dutch No. 1 Anish Giri. While only three games in the Open section saw decisive results, Praggnanandhaa's clinical precision highlighted a formidable start to his campaign. The Women's section saw all four games end in draws.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-r-praggnanandhaa-outfoxed-anish-giri-as-indians-stay-unbeaten-in-round-1/articleshow/129889436.cms",
-         "pubDate" : "Mon, 30 Mar 2026 00:51:30",
-         "title" : "Candidates Chess: How R Praggnanandhaa outfoxed Anish Giri"
       },
       {
          "description" : " The FIDE Candidates tournament in Cyprus started promisingly with wins for Javokhir Sindarov over Andrey Esipenko, Praggnanandhaa over Anish Giri and finally Fabiano Caruana over Hikaru Nakamura. Matthias Bluebaum against Wei Yi was a correct draw. In the women's event Aleksandra Goryachkina missed a simple combination that should have ended the game pretty much immediately against Kateryna Lagno. There were other chances but Divya Deshmukh drew with Anna Muzychuk Vaishali Rameshbabu drew with Bibisara Assaubayeva and Zhu Jiner with Tan Zhongyi so everyone is tied on 0.5 points. Round 1 Standings: 1st= Caruana, Praggnanandhaa, Sindarov 1pt; 4th= Bluebaum, Wei Yi 0.5pts; 6th= Nakamura, Giri,",
