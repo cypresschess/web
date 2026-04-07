@@ -34,6 +34,14 @@ news_feed (
          "title" : "Certificate :Senior National Arbiter Seminar cum Examination at Guwahati 2025 on 20 & 21 Sept 2025"
       },
       {
+         "description" : "GMs Hikaru Nakamura and Anish Giri took revenge for first-half losses to shake up the 2026 FIDE Candidates Tournament standings. Nakamura&#39;s first win of the event came against GM Fabiano Caruana, who was caught in second place after Giri outplayed...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-8",
+         "pubDate" : "Tue, 07 Apr 2026 11:26:44",
+         "title" : "Caruana Falls To Nakamura, Caught By Giri; Divya Shocks Muzychuk"
+      },
+      {
          "description" : "A Senior National Arbiter Seminar &#38; Examination was organized by Rao's Chess Corner, Mangaluru on behalf of Karnataka State Chess Association and All India Chess",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -88,6 +96,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-new-insight-niemann-cheating-admission-netflix-untold-chessmates",
          "pubDate" : "Tue, 07 Apr 2026 01:16:00",
          "title" : "Carlsen Shares New Insight As Niemann Admits To More Cheating In Netflix Documentary"
+      },
+      {
+         "description" : "Today's puzzles continue a series on the just-concluded 2026 National High School (K-12) Championship. All of our coverage from Chicago is available here. WGM Sabina Foisor commentated on all seven rounds, and she bookmarked a number of her favorite positions from the tournament to use in these worksheets. Enjoy! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-national-high-school-k-12-championship-pt-2",
+         "pubDate" : "Tue, 07 Apr 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2026 National High School (K-12) Championship, Pt. 2"
       },
       {
          "description" : "The U.S. has a new WGM, thanks to the XVII Women's Continental Chess Championship of the Americas, held in Lima, Peru from March 30 to April 6.16-year-old Iris Mou, who entered the event as a WIM, took clear first with a 7&frac12;/9 performance, earning the direct WGM title and a spot in the next FIDE Women's World Cup (see full event regulations). The New Yorker also won $2,000 for her victory. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Federacion Deportiva Peruana de Ajedrez.<br> <br> <br> <br> It was a strong showing for the USA delegation, which finished with four of the top five players in the standings. Colombian WIM Valentina",
@@ -610,14 +626,6 @@ news_feed (
          "title" : "Just the Rules: Surprise, Surprise, Surprise"
       },
       {
-         "description" : "Today's puzzles begin a series on the just-concluded 2026 National High School (K-12) Championship. All of our coverage from Chicago is available here. WGM Sabina Foisor commentated on all seven rounds, and she bookmarked a number of her favorite positions from the tournament to use in these worksheets. Enjoy! A series of more beginner-friendly puzzles began with yesterday's Tactics Tuesday, too. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2026-national-high-school-k-12-championship-pt-1",
-         "pubDate" : "Wed, 01 Apr 2026 00:00:00",
-         "title" : "Wednesday Workout: 2026 National High School (K-12) Championship, Pt. 1"
-      },
-      {
          "description" : "&#160; The English Chess Federation is raising money for Macmillan Cancer Support through a special 24-hour online chess marathon. This fundraiser is in memory of Adam Hunt and Jonathan Hawkins,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-35th-national-under-17-open-girls-chess-championship-2026/",
          "pubDate" : "Mon, 30 Mar 2026 11:10:25",
          "title" : "Live games link for 35th National Under - 17 Open & Girls Chess Championship - 2026 "
-      },
-      {
-         "description" : "All eight games were drawn in round two of the 2026 FIDE Candidates Tournament and 2026 FIDE Women&#39;s Candidates. In the Open tournament, the standings remain unchanged with GMs Fabiano Caruana, &#38;nbsp;Praggnanandhaa Rameshbabu, and Javokhir Sindaro...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-2",
-         "pubDate" : "Mon, 30 Mar 2026 05:44:00",
-         "title" : "Vaishali, Lagno Escape With Sacrifices On Day Of Draws"
       },
       {
          "description" : " The FIDE Candidates tournament in Cyprus started promisingly with wins for Javokhir Sindarov over Andrey Esipenko, Praggnanandhaa over Anish Giri and finally Fabiano Caruana over Hikaru Nakamura. Matthias Bluebaum against Wei Yi was a correct draw. In the women's event Aleksandra Goryachkina missed a simple combination that should have ended the game pretty much immediately against Kateryna Lagno. There were other chances but Divya Deshmukh drew with Anna Muzychuk Vaishali Rameshbabu drew with Bibisara Assaubayeva and Zhu Jiner with Tan Zhongyi so everyone is tied on 0.5 points. Round 1 Standings: 1st= Caruana, Praggnanandhaa, Sindarov 1pt; 4th= Bluebaum, Wei Yi 0.5pts; 6th= Nakamura, Giri,",
@@ -840,14 +840,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/mar/19/striking-gambit-erling-haaland-invests-in-new-world-chess-championship",
          "pubDate" : "Thu, 19 Mar 2026 13:25:50",
          "title" : "Striking gambit: Erling Haaland invests in new world chess championship"
-      },
-      {
-         "description" : " Eyewitness photo | A forpit of potatoes | Milli-Helens | UK nuclear weapons | Say it's not Serco Flicking through the paper, I remarked that it was all bad news and upsetting items. Then I came across the centrefold photograph taken in Erzurum, Turkey and found myself close to tears. Young and old chess players together in a coffee house. What a great picture.<br><strong>Carol Taylor</strong><br><em>Darley Dale, Derbyshire</em> &bull; Regarding unusual measurements (<a href=\"https://www.theguardian.com/science/2026/mar/15/a-royal-rule-of-thumb-for-measurements\">Letters, 15 March</a>) my Scottish mother used to send me to the local Co-op to purchase a forpit of potatoes: a fourth part of a s",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/mar/17/joy-of-chess-keeps-dark-times-in-check",
-         "pubDate" : "Tue, 17 Mar 2026 17:25:49",
-         "title" : "Joy of chess keeps dark times in check | Brief letters"
       }
    ]
 }
