@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Together with his brother Robert, Donald Byrne was among the best players in the United States in the 1970s. He won many games, but he became best known for a loss - against the then little-known Bobby Fischer. Donald Byrne died 50 years ago from an autoimmune disease. He was only 45 years old.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-donald-byrne",
+         "pubDate" : "Wed, 08 Apr 2026 21:30:00",
+         "title" : "Remembering Donald Byrne"
+      },
+      {
+         "description" : "The second round of the European Individual Chess Championship 2026 is in the books, and the highlights were on the top boards major upsets! Tournament's rating favorite GM Igor Kovalenko (UKR, 2685) lost with the black pieces against IM Samuel-Timotei Ghimpu (ROU, 2443), who played a fantastic game. Ghimpu overcame time-trouble issues and never let go of the decisive edge he earned in the endgame. Another major upset occurred on the third board in the game between third-seeded GM Bogdan-Daniel []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/major-upsets-mark-the-second-round-of-european-chess-championship-2026/",
+         "pubDate" : "Wed, 08 Apr 2026 20:40:49",
+         "title" : "Major upsets mark the second round of European Chess Championship 2026"
+      },
+      {
+         "description" : " The 9th Round of the FIDE Candidates tournament in Cyprus saw some very consequent action. First of all the leader by two points Javokhir Sindarov missed a clear winning chance against Matthias Bluebaum and had to settle for a draw. No disaster but nevertheless a chance. Fabiano Caruana dropped out of contention when he lost to Anish Giri, who is now 1.5 points behind Sindarov and is surely the only player that can catch the leader. In the women's event there was another very wild day that finished with Zhu Jiner and Rameshbabu Vaishali sharing the lead, Anna Muzychuk missed a chance to join them. Round 9 (of 14) Standings: 1st Javokhir Sindarov, 7/9. 2nd Anish Giri, 5&frac12;. 3rd-5th Matt",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/sindarov-misses-a-big-opportunity-and-giri-beats-caruana-in-candidates-round-9",
+         "pubDate" : "Wed, 8 Apr 2026 20:11:00",
+         "title" : "Sindarov misses a big opportunity and Giri beats Caruana in Candidates Round 9 - 9"
+      },
+      {
          "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. In Wednesday's ninth round, Fabiano Caruana and Anish Giri - who are tied for second place in the open section - face off in a crucial encounter. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-9",
-         "pubDate" : "Wed, 08 Apr 2026 11:52:07",
+         "pubDate" : "Wed, 08 Apr 2026 11:52:00",
          "title" : "Giri Beats Caruana To Close Gap To Sindarov; Zhu, Vaishali Grab Women's Lead"
       },
       {
