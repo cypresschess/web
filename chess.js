@@ -10,6 +10,14 @@ news_feed (
          "title" : "Candidates Round 9 - Live!"
       },
       {
+         "description" : "GM Anish Giri played a positional masterpiece to take down GM Fabiano Caruana and grab sole second place in the 2026 FIDE Candidates Tournament after round nine. GM Javokhir Sindarov could have scored a record sixth win, but slipped up against GM ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-9",
+         "pubDate" : "Wed, 08 Apr 2026 11:52:07",
+         "title" : "Giri Beats Caruana To Close Gap To Sindarov; Zhu, Vaishali Grab Women's Lead"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130111329.cms\" />Netflix's \"Untold: Chess Mates\" revisits the 2022 controversy between Magnus Carlsen and Hans Niemann, sparked by Carlsen's withdrawal after a shock defeat and the subsequent cheating allegations. The film examines Niemann's lawsuit, claims of reputational harm, and tensions involving Chess.com's business ties. Despite polished storytelling, it offers no new evidence, leaving both players standing by their positions. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -48,6 +56,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-divya-deshmukh-outfoxed-leader-anna-muzychuk-to-climb-to-the-top/articleshow/130099767.cms",
          "pubDate" : "Wed, 08 Apr 2026 01:14:56",
          "title" : "Candidates Chess: How Divya Deshmukh outfoxed leader Anna Muzychuk to climb to the top"
+      },
+      {
+         "description" : "Today's puzzles continue a series on the just-concluded 2026 National High School (K-12) Championship. All of our coverage from Chicago is available here. WGM Sabina Foisor commentated on all seven rounds, and she bookmarked a number of her favorite positions from the tournament to use in these worksheets. Enjoy! A series of more beginner-friendly puzzles began with yesterday's Tactics Tuesday, too. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2026-national-high-school-k-12-championship-pt-2",
+         "pubDate" : "Wed, 08 Apr 2026 00:00:00",
+         "title" : "Wednesday Workout: 2026 National High School (K-12) Championship, Pt. 2"
+      },
+      {
+         "description" : "Round 8 of the 2026 FIDE Candidates Tournament in Cyprus delivered another major shift. In the open event, GM Javokhir Sindarov continues his unbeaten run, stretching his lead to two full points. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Footballer David Luiz makes the ceremonial move for Esipenko. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> Meanwhile, the Women's Candidates race tightened dramatically, as the leaders stumbled and five players now share the top spot as the second half heats up. Open: Sindarov Extends Lead as Nakamura StrikesNakamura Beats CaruanaGM Hikaru Nakamura scored his first victory of the tournament with a hard",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/candidates-round-8-sindarov-extends-lead-nakamura-strikes-womens-field-widens",
+         "pubDate" : "Wed, 08 Apr 2026 00:00:00",
+         "title" : "Candidates Round 8: Sindarov Extends Lead, Nakamura Strikes, Women's Field Widens"
       },
       {
          "description" : "The 2026 European Individual Chess Championship commenced today in Katowice, Poland, which will be the host for 501 chess players in the next two weeks. The event broke the participation record with 501 players from 43 European federations competing over 11 rounds for the prize pool of 100.000 EUR and qualification spots for the next FIDE World Chess Cup. The Opening ceremony of the event took place shortly before the start of the first round with the attendance of the []",
@@ -162,7 +186,7 @@ news_feed (
          "title" : "Keymer Edges Out Vachier-Lagrave On Tiebreak, Wins Grenke Freestyle Open"
       },
       {
-         "description" : "Everyone&#39;s favorite celebrity chess event is back! Get ready for the most nonsensical chess ever witnessed by humankind, as PogChamps 6 7 takes place on April 10. Eight of the world&#39;s biggest creators will bring the full force of their three-digit...",
+         "description" : "Everyone&#39;s favorite celebrity chess event is back! Get ready for the most nonsensical chess ever witnessed by humankind, as PogChamps 6 7 takes place on April 10 at 4:30 p.m. ET / 22:30 CET. Eight of the world&#39;s biggest creators will bring the ful...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-pogchamps-6-7",
@@ -626,22 +650,6 @@ news_feed (
          "title" : "Legally Punch Your Opponents With Chess.com's New Chessboxing Feature"
       },
       {
-         "description" : "The Recent Event Winners from the Front Office section were used to choose games for this issue. I held back any games that I have from the John W. Collins Postal Quads, which was also a tournament listed in the Recent Event Winners, for potential inclusion in the Reader's Games issue. That issue is scheduled for July 2026.The winners of the tournaments covered in this issue were undefeated, although the winner of one tournament did have two games end in a draw. Since no drawn games are present in this issue, the tournament winners won each of the games provided ... Winners All!I hope you enjoy the issue! GamesReminder when reviewing the crosstables:XD = result by defaultXE = exceeded time l",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-april-2026-winners-all",
-         "pubDate" : "Wed, 01 Apr 2026 00:00:00",
-         "title" : "Check is in the Mail, April 2026: Winners All!"
-      },
-      {
-         "description" : "When expectations meet reality on the tournament scene, be prepared to be astounded, amazed and surprised. Surprise, Surprise, Surprise! - PairingsWhen you check the pairings, you see you have been assigned to be the general of the black army for the third time in a row. It is well-established that wood-pushers at these events are only assigned to lead the same-colored chess army no more than two times in a row, not three times in a row. Buried among the regulations is a rule (29E5f and its variation) that sanctions a triple-play on color assignment. Sometimes there is no other way to pair a score group. Interestingly, players often don't gripe about being in charge of the white pieces three",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-surprise-surprise-surprise",
-         "pubDate" : "Wed, 01 Apr 2026 00:00:00",
-         "title" : "Just the Rules: Surprise, Surprise, Surprise"
-      },
-      {
          "description" : "&#160; The English Chess Federation is raising money for Macmillan Cancer Support through a special 24-hour online chess marathon. This fundraiser is in memory of Adam Hunt and Jonathan Hawkins,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/regulation-5-2/",
          "pubDate" : "Tue, 31 Mar 2026 10:47:05",
          "title" : "Regulation 5"
-      },
-      {
-         "description" : "Please note that the event&#39;s schedule has changed. The event qualifiers are now taking place from April 13 to 16, with the semifinals and final taking place on April 17. More players, more pieces, and more tactics! The Chess.com 4-Player Chess C...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-4-player-chess-championship-2026",
-         "pubDate" : "Tue, 31 Mar 2026 08:00:00",
-         "title" : "4-Player Chess Championship Starts April 6 As Next Championships Event"
       },
       {
          "description" : " The second round of the FIDE Candidates in the Cap St Georges resort, near Pegeia, Cyprus saw all the games finish in a draw in the end. In the open event maybe Javokhir Sindarov got a little something against Matthias Bluebaum and perhaps Praggnanandhaa too could have done a little better against Wei Yi, Anish Giri vs Fabiano Caruana was a well played draw, Hikaru Nakamura suffered a little bit against Andrey Esipenko but there was never anything clear. In the women's event there were more missed chances with Kateryna Lagno escaping a lost position for the second day running, this time against Zhu Jiner. Vaishali Rameshbabu was briefly lost against Divya Deshmukh having at first equalised ",
