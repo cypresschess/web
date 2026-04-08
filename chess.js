@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Javokhir Sindarov extended his lead at the Candidates Tournament in Cyprus despite only scoring a draw against Andrey Esipenko in round eight, as Fabiano Caruana, his long-time closest chaser, lost to Hikaru Nakamura. Meanwhile, Anish Giri beat Praggnanandhaa Rameshbabu to join Caruana in second place. With six rounds remaining, Sindarov now leads by two points over his closest rivals. | Photo: FIDE / Yoav Nis",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-o-8",
+         "pubDate" : "Wed, 08 Apr 2026 06:20:00",
+         "title" : "Candidates R8: Nakamura takes down Caruana, Giri beats Pragg"
+      },
+      {
          "description" : " Javokhir Sindarov is in the poll position of the FIDE Candidates in Cyprus after drawing with Andrey Esipenko in Round 8 and moving to 6.5/8. Sindarov was barely troubled in the first game to finish. Sindarov's closest challenger was Fabiano Caruana but he was defeated by a determined Hikaru Nakamura. Anish Giri joined Caruana in a tie for second place two points behind Sindarov after beating Praggnanandhaa, the gap is still a bit too far to make Giri optimistic but he's in touch if Sindarov starts to lose. Wei Yi drew against Bluebaum in the other game. The women's event was blown wide open by an extraordinary reversal of fortunes for Anna Muzychuk in her game against Divya Deshmukh. Muzyc",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -24,30 +32,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-individual-chess-championship-2026-officially-opened/",
          "pubDate" : "Tue, 07 Apr 2026 20:26:06",
          "title" : "European Individual Chess Championship 2026 officially opened"
-      },
-      {
-         "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. Javokhir Sindarov and Anna Muzychuk enter the second half as sole leaders in each section. On Tuesday, they face Andrey Esipenko and Divya Deshmukh, respectively. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-live",
-         "pubDate" : "Tue, 07 Apr 2026 14:15:00",
-         "title" : "Candidates Round 8 - Live!"
-      },
-      {
-         "description" : "Vincent Keymer has done it! With a quick draw against Maxime Vachier-Lagrave in the ninth and final round of the grenke Freestyle Chess Open in Karlsruhe, he secured overall victory and qualified for the 2027 Freestyle Chess World Championship. The draw left both Keymer and Vachier-Lagrave tied for first place with 7&frac12; points each, but Keymer won thanks to his superior tiebreak score. Seven players finished half a point behind on 7/9. This group included Magnus Carlsen, who finished third on tiebreaks. | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grenke-freestyle-open-2026-d5",
-         "pubDate" : "Tue, 07 Apr 2026 13:30:00",
-         "title" : "Vincent Keymer emerges victorious at grenke Freestyle Chess Open"
-      },
-      {
-         "description" : "The best university teams will meet in Almaty this August to compete for the title of FIDE World University Team Chess Champion. The event is governed by FIDE and organised by the Kazakhstan Chess Federation, together with Almaty city administration and support from Kazakhstan's Ministry of Sports and Tourism.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-university-team-championship",
-         "pubDate" : "Tue, 07 Apr 2026 13:05:25",
-         "title" : "World University Team Championship"
       },
       {
          "description" : "Please find here No Name 1 Pranab Kumar Samanta 2 Protik Sarkar 3 Vaheeb Shafi Hassan K 4 Rituparna Chutia 5 Sumanta Gore 6 Tirtha",
@@ -160,14 +144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-pogchamps-6-7",
          "pubDate" : "Mon, 06 Apr 2026 12:00:00",
          "title" : "World's Favorite Celebrity Chess Tournament Is Back With PogChamps 6 7"
-      },
-      {
-         "description" : "Lyon Olympique Ã‰checs, founded in 1905, is one of the largest chess clubs in France. From 8-19 April 2026 they are staging the Henri Rinck International Chess Championships. If you are able to attend, you can explore the 600m ² club, which is like a chess museum. For those who can't, here are visual impressions of the club and some of the remarkable collections it houses.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/henri-rinck-championship-in-lyon",
-         "pubDate" : "Mon, 06 Apr 2026 11:00:00",
-         "title" : "Henri Rinck Championship in Lyon"
       },
       {
          "description" : "The 2026 European Individual Chess Championship starts tomorrow in Katowice, Poland, and will be played from 7-19 April at the Arena Katowice. With 502 registered players coming from 43 European federations, the event will likely set a new participation record which was previously seen in Vrnjacka Banja, Serbia at the 2023 edition with 484 players. A very strong field includes 93 Grandmasters, 98 International Masters, 7 WGMs, 8 WIMs, and a total of 345 titled players. The top seeds are: []",
