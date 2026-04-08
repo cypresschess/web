@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Javokhir Sindarov is in the poll position of the FIDE Candidates in Cyprus after drawing with Andrey Esipenko in Round 8 and moving to 6.5/8. Sindarov was barely troubled in the first game to finish. Sindarov's closest challenger was Fabiano Caruana but he was defeated by a determined Hikaru Nakamura. Anish Giri joined Caruana in a tie for second place two points behind Sindarov after beating Praggnanandhaa, the gap is still a bit too far to make Giri optimistic but he's in touch if Sindarov starts to lose. Wei Yi drew against Bluebaum in the other game. The women's event was blown wide open by an extraordinary reversal of fortunes for Anna Muzychuk in her game against Divya Deshmukh. Muzyc",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/sindarov-extends-his-lead-to-two-points-in-the-candidates-even-after-a-draw-in-round-8",
+         "pubDate" : "Wed, 8 Apr 2026 01:45:00",
+         "title" : "Sindarov extends his lead to two points in the Candidates even after a draw in Round 8 - 8"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130099767.cms\" />Indian chess saw mixed fortunes at the FIDE Candidates 2026. Divya Deshmukh surged to the top of the Women's leaderboard with a stunning victory over Anna Muzychuk, while R Praggnanandhaa's World Championship hopes dimmed after a crucial loss. Vaishali Rameshbabu drew her match, setting up an exciting all-Indian clash in the next round.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-divya-deshmukh-outfoxed-leader-anna-muzychuk-to-climb-to-the-top/articleshow/130099767.cms",
+         "pubDate" : "Wed, 08 Apr 2026 01:14:56",
+         "title" : "Candidates Chess: How Divya Deshmukh outfoxed leader Anna Muzychuk to climb to the top"
+      },
+      {
          "description" : "The 2026 European Individual Chess Championship commenced today in Katowice, Poland, which will be the host for 501 chess players in the next two weeks. The event broke the participation record with 501 players from 43 European federations competing over 11 rounds for the prize pool of 100.000 EUR and qualification spots for the next FIDE World Chess Cup. The Opening ceremony of the event took place shortly before the start of the first round with the attendance of the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -672,14 +688,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-chesscom-4-player-chess-championship-2026",
          "pubDate" : "Tue, 31 Mar 2026 08:00:00",
          "title" : "4-Player Chess Championship Starts April 6 As Next Championships Event"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129914983.cms\" />The FIDE Candidates 2026 saw a day of draws in Cyprus, with all games ending in a tie. Indian talents Divya Deshmukh and Vaishali Rameshbabu played a thrilling game, featuring a brilliant queen sacrifice by Vaishali. In the Open section, R Praggnanandhaa drew against Wei Yi, while Hikaru Nakamura salvaged a draw from a difficult position.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-divya-deshmukh-missed-winning-chance-against-r-vaishali/articleshow/129914983.cms",
-         "pubDate" : "Tue, 31 Mar 2026 03:08:21",
-         "title" : "Candidates Chess: How Divya Deshmukh missed winning chance against R Vaishali"
       },
       {
          "description" : " The second round of the FIDE Candidates in the Cap St Georges resort, near Pegeia, Cyprus saw all the games finish in a draw in the end. In the open event maybe Javokhir Sindarov got a little something against Matthias Bluebaum and perhaps Praggnanandhaa too could have done a little better against Wei Yi, Anish Giri vs Fabiano Caruana was a well played draw, Hikaru Nakamura suffered a little bit against Andrey Esipenko but there was never anything clear. In the women's event there were more missed chances with Kateryna Lagno escaping a lost position for the second day running, this time against Zhu Jiner. Vaishali Rameshbabu was briefly lost against Divya Deshmukh having at first equalised ",
