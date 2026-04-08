@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. In Wednesday's ninth round, Fabiano Caruana and Anish Giri - who are tied for second place in the open section - face off in a crucial encounter. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-live",
+         "pubDate" : "Wed, 08 Apr 2026 14:15:00",
+         "title" : "Candidates Round 9 - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130111329.cms\" />Netflix's \"Untold: Chess Mates\" revisits the 2022 controversy between Magnus Carlsen and Hans Niemann, sparked by Carlsen's withdrawal after a shock defeat and the subsequent cheating allegations. The film examines Niemann's lawsuit, claims of reputational harm, and tensions involving Chess.com's business ties. Despite polished storytelling, it offers no new evidence, leaving both players standing by their positions. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-vs-hans-niemann-documentary-is-untold-chess-mates-worth-watching/articleshow/130111329.cms",
+         "pubDate" : "Wed, 08 Apr 2026 11:31:02",
+         "title" : "Carlsen vs Hans documentary: Is 'Untold: Chess Mates' worth watching?"
+      },
+      {
          "description" : "Javokhir Sindarov extended his lead at the Candidates Tournament in Cyprus despite only scoring a draw against Andrey Esipenko in round eight, as Fabiano Caruana, his long-time closest chaser, lost to Hikaru Nakamura. Meanwhile, Anish Giri beat Praggnanandhaa Rameshbabu to join Caruana in second place. With six rounds remaining, Sindarov now leads by two points over his closest rivals. | Photo: FIDE / Yoav Nis",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-new-chessboxing-feature",
          "pubDate" : "Wed, 01 Apr 2026 02:00:00",
          "title" : "Legally Punch Your Opponents With Chess.com's New Chessboxing Feature"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129938932.cms\" />R Praggnanandhaa suffered his first defeat at the Candidates after an uncharacteristic opening choice against Javokhir Sindarov. In the women's section, Divya Deshmukh secured a miraculous draw against Aleksandra Goryachkina following a late blunder. Fabiano Caruana and Sindarov lead the open section.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-a-miracle-rescued-divya-deshmukh-and-india-from-round-3-disaster/articleshow/129938932.cms",
-         "pubDate" : "Wed, 01 Apr 2026 01:12:05",
-         "title" : "Candidates Chess: How a miracle rescued Divya Deshmukh and India from Round 3 disaster"
       },
       {
          "description" : "The Recent Event Winners from the Front Office section were used to choose games for this issue. I held back any games that I have from the John W. Collins Postal Quads, which was also a tournament listed in the Recent Event Winners, for potential inclusion in the Reader's Games issue. That issue is scheduled for July 2026.The winners of the tournaments covered in this issue were undefeated, although the winner of one tournament did have two games end in a draw. Since no drawn games are present in this issue, the tournament winners won each of the games provided ... Winners All!I hope you enjoy the issue! GamesReminder when reviewing the crosstables:XD = result by defaultXE = exceeded time l",
