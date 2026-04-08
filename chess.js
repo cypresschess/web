@@ -10,6 +10,14 @@ news_feed (
          "title" : "Candidates R8: Nakamura takes down Caruana, Giri beats Pragg"
       },
       {
+         "description" : "GM Sina Movahed won his second Titled Tuesday of the spring split and third of his career on April 7, scoring 10/11 to win outright. Movahed also now leads the spring split standings. GM Alexey Sarana rode an 8/8 start to finish in sole second on ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/movahed-wins-titled-tuesday-april-7-2026",
+         "pubDate" : "Wed, 08 Apr 2026 02:04:28",
+         "title" : "Movahed Continues To Emerge With Second Titled Tuesday In Four Weeks"
+      },
+      {
          "description" : " Javokhir Sindarov is in the poll position of the FIDE Candidates in Cyprus after drawing with Andrey Esipenko in Round 8 and moving to 6.5/8. Sindarov was barely troubled in the first game to finish. Sindarov's closest challenger was Fabiano Caruana but he was defeated by a determined Hikaru Nakamura. Anish Giri joined Caruana in a tie for second place two points behind Sindarov after beating Praggnanandhaa, the gap is still a bit too far to make Giri optimistic but he's in touch if Sindarov starts to lose. Wei Yi drew against Bluebaum in the other game. The women's event was blown wide open by an extraordinary reversal of fortunes for Anna Muzychuk in her game against Divya Deshmukh. Muzyc",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/all-games-drawn-on-day-two-of-the-candidates",
          "pubDate" : "Mon, 30 Mar 2026 22:37:00",
          "title" : "All games drawn on day two of the Candidates - 2"
-      },
-      {
-         "description" : "Just as collegiate basketball players compete in March Madness, college chess players are about to begin their own playoff bracket in the Collegiate Chess League (CCL). The eight Division One teams have just completed the seven-week round-robin se...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-ccl-spring-playoffs-preview",
-         "pubDate" : "Mon, 30 Mar 2026 17:20:35",
-         "title" : "SLU Edges UTD for Collegiate Chess League Top Seed"
       },
       {
          "description" : "OPEN BELOW 1700 WOMEN-BELOW 1700 Rank Name Rank Name 1 Muthuraman Kesavamoorthy 1 Meha Arin A 2 Kavish Saxena 2 Shalini J 3 Balaram",
