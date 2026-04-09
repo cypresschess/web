@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. Sole leader Javokhir Sindarov plays white against Praggnanandhaa Rameshbabu in Thursday's tenth round. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-live",
+         "pubDate" : "Thu, 09 Apr 2026 14:15:00",
+         "title" : "Candidates Round 10 - Live!"
+      },
+      {
          "description" : "In the course \"Mastering the London System,\" Grandmaster Elisabeth P&auml;htz presents the classical London System with an early Bf4 and explains the dynamic structures and ideas that arise from it. She systematically covers Black's main responses and compares the classical London with the Neo London to build a complete and modern repertoire. The focus is on practical understanding, enabling players of all levels to use the London System confidently and flexibly in tournament play.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -864,14 +872,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/mar/20/chess-scotlands-freddy-waldhausen-gordon-15-routs-the-english-in-british-rapidplay",
          "pubDate" : "Fri, 20 Mar 2026 07:25:58",
          "title" : "Chess: Scotland's Freddy Waldhausen Gordon, 15, routs the English in British Rapidplay"
-      },
-      {
-         "description" : "<ul><li> 'There are clear similarities to football,' says Norwegian </li><li> Compatriot Magnus Carlsen, the world No 1, likely to play </li></ul> Erling Haaland has become a significant investor in a new world chess championship tour that is expected to star his fellow Norwegian Magnus Carlsen, the Guardian can reveal. The deal was agreed shortly before <a href=\"https://www.theguardian.com/football/2026/mar/14/west-ham-manchester-city-premier-league-match-report\">Manchester City played at West Ham</a> last Saturday, with Haaland shown on Sky Sports <a href=\"https://www.skysports.com/football/video/33653/13519852/erling-haaland-was-the-manchester-city-striker-watching-the-arsenal-game-ahead-",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/mar/19/striking-gambit-erling-haaland-invests-in-new-world-chess-championship",
-         "pubDate" : "Thu, 19 Mar 2026 13:25:50",
-         "title" : "Striking gambit: Erling Haaland invests in new world chess championship"
       }
    ]
 }
