@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Javokhir Sindarov extended his lead at the Candidates Tournament in Cyprus by defeating Praggnanandhaa Rameshbabu in a sharp game to reach six wins in ten rounds (with no losses). Anish Giri, who remains in sole second place, was held to a draw by Hikaru Nakamura, while Fabiano Caruana also drew. With four rounds remaining, Sindarov now leads by two points. | Photo: FIDE / Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-o-10",
+         "pubDate" : "Fri, 10 Apr 2026 01:15:00",
+         "title" : "Candidates R10: There's no stopping Sindarov!"
+      },
+      {
+         "description" : " Javokhir Sindarov put the disappointment of missing a win against Bluebaum in Round 9 and won a fine game against Praggnanandhaa. Sindarov said his coach told him that he was playing the best chess and not to worry. In post-game analysis he was so precise it was obvious what great form he's in, a level above anyone else here. It's of course possible Caruana could beat him with the white pieces in Round 11 and Giri in Round 13, but at this stage it seems unlikely he's simply seeing too much. The other games were drawn. Friday is a rest day. In the Women's event Rameshbabu Vaishali leads after holding a draw against Anna Muzychuk but she's hardly been convincing, in fact no-one has, it's stil",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/sindarov-almost-home-and-dry-in-the-fide-candidates-with-four-rounds-to-go",
+         "pubDate" : "Fri, 10 Apr 2026 00:09:00",
+         "title" : "Sindarov almost home and dry in the FIDE Candidates with four rounds to go - 10"
+      },
+      {
+         "description" : "Three rounds have been already played at the European Individual Chess Championship 2026 and the games are becoming tougher and tenser with each round! Seventeen players currently hold a perfect score of 3/3 to share the early lead. Among the frontrunners are GM Aydin Suleymanli (AZE, 2653), GM Shant Sargsyan (ARM, 2647), GM Jonas Buhl Bjerre (AUT, 2623), GM Robert Hovhannisyan (ARM, 2621), and the 2024 European Champion GM Aleksandar Indjic (SRB, 2616). They are joined by GM Lorenzo Lodici []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/three-rounds-played-at-the-european-individual-chess-championship-2026/",
+         "pubDate" : "Thu, 09 Apr 2026 19:50:07",
+         "title" : "Three rounds played at the European Individual Chess Championship 2026"
+      },
+      {
+         "description" : " The 26th European Individual Championship takes place 6th (arrival day) to 20th April 2026. Players: Igor Kovalenko, David Anton Guijarro, Daniel Deac Bogdan Aydin Suleymanli, Shant Sargsyan, David Navara, Alexander Donchenko, Anton Demchenko, Ediz Gurel, Haik Martirosyan Buhl Bjerre Jonas Robert Hovhannisyan, Vasyl Ivanchuk, Maxime Lagarde, Gabriel Sargissian, Aleksandar Indjic, Anton Korobov, Jaime Santos Latasa, MarcAndria Maurizzi, Mahammad Muradli, Lorenzo Lodici, Maxim Rodshtein, Maxim Dardha Ihor Samunenkov, Daniil Yuffa, Szymon Gumularz, Casper Schoppen, Constantin Lupulescu, Nijat Abasov, Elham Amar, Manuel Petrosyan, Bartosz Socko, Stamatis Kourkoulos-Arditis, Mustafa Yilmaz, Alan",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/26th-european-individual-championship-2026",
+         "pubDate" : "Thu, 9 Apr 2026 18:50:00",
+         "title" : "26th European Individual Championship 2026 - Games and Results"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130149703.cms\" />Hikaru Nakamura said he has no interest in watching Netflix's documentary on Magnus Carlsen vs Hans Niemann, citing lack of context and personal disinterest. While the film revisits their 2022 controversy, Niemann declares: \"I'm gonna be a stone cold killer. I'm going to become the best player in the world.\"",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -31,7 +63,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-10",
          "pubDate" : "Thu, 09 Apr 2026 10:55:00",
-         "title" : "Sindarov Sacs Piece For Historic 6th Win; Vaishali Leads Women's Race"
+         "title" : "Sindarov Sacs Piece For Record-Breaking 6th Win; Vaishali Leads Women's Race"
       },
       {
          "description" : "Anish Giri moved into sole second place at the Candidates Tournament in Cyprus after defeating Fabiano Caruana with the black pieces in Wednesday's ninth round. Leader Javokhir Sindarov was held to a draw by Matthias Bluebaum after missing winning chances, leaving him 1&frac12; points ahead of Giri. The remaining two games were drawn, including a tense encounter in which Praggnanandhaa Rameshbabu failed to convert a clear advantage against Wei Yi. | Photo: FIDE / Michal Walusza",
